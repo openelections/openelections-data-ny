@@ -1,4 +1,4 @@
-openelections-data-ny
+OpenElections Data NY
 =====================
 
-Election results for New York
+Pre-processed election results for New York.
