@@ -1,1157 +1,1109 @@
 county,precinct,office,district,party,candidate,votes,public_counter_votes,emergency_votes,absentee_military_votes,federal_votes,affidavit_votes
-Richmond,035/64,President,,Republican,Donald J. Trump,103,131,0,13,0,0
 Richmond,035/64,President,,Republican,John R. Kasich,25,131,0,13,0,0
+Richmond,035/64,President,,Republican,Donald J. Trump,103,131,0,13,0,0
 Richmond,035/64,President,,Republican,Ben Carson,1,131,0,13,0,0
 Richmond,035/64,President,,Republican,Ted Cruz,13,131,0,13,0,0
-Richmond,018/62,President,,Republican,Donald J. Trump,144,156,0,2,0,1
 Richmond,018/62,President,,Republican,John R. Kasich,9,156,0,2,0,1
+Richmond,018/62,President,,Republican,Donald J. Trump,144,156,0,2,0,1
 Richmond,018/62,President,,Republican,Ben Carson,0,156,0,2,0,1
 Richmond,018/62,President,,Republican,Ted Cruz,6,156,0,2,0,1
-Richmond,001/61,President,,Republican,Donald J. Trump,12,26,0,2,0,0
 Richmond,001/61,President,,Republican,John R. Kasich,9,26,0,2,0,0
+Richmond,001/61,President,,Republican,Donald J. Trump,12,26,0,2,0,0
 Richmond,001/61,President,,Republican,Ben Carson,1,26,0,2,0,0
 Richmond,001/61,President,,Republican,Ted Cruz,6,26,0,2,0,0
-Richmond,001/62,President,,Republican,Donald J. Trump,198,214,0,3,0,1
 Richmond,001/62,President,,Republican,John R. Kasich,11,214,0,3,0,1
+Richmond,001/62,President,,Republican,Donald J. Trump,198,214,0,3,0,1
 Richmond,001/62,President,,Republican,Ben Carson,0,214,0,3,0,1
 Richmond,001/62,President,,Republican,Ted Cruz,6,214,0,3,0,1
-Richmond,018/61,President,,Republican,Donald J. Trump,30,51,0,1,0,0
 Richmond,018/61,President,,Republican,John R. Kasich,13,51,0,1,0,0
+Richmond,018/61,President,,Republican,Donald J. Trump,30,51,0,1,0,0
 Richmond,018/61,President,,Republican,Ben Carson,0,51,0,1,0,0
 Richmond,018/61,President,,Republican,Ted Cruz,9,51,0,1,0,0
-Richmond,029/62,President,,Republican,Donald J. Trump,99,107,0,3,0,0
 Richmond,029/62,President,,Republican,John R. Kasich,2,107,0,3,0,0
+Richmond,029/62,President,,Republican,Donald J. Trump,99,107,0,3,0,0
 Richmond,029/62,President,,Republican,Ben Carson,2,107,0,3,0,0
 Richmond,029/62,President,,Republican,Ted Cruz,7,107,0,3,0,0
-Richmond,029/63,President,,Republican,Donald J. Trump,106,119,0,1,0,0
 Richmond,029/63,President,,Republican,John R. Kasich,5,119,0,1,0,0
+Richmond,029/63,President,,Republican,Donald J. Trump,106,119,0,1,0,0
 Richmond,029/63,President,,Republican,Ben Carson,2,119,0,1,0,0
 Richmond,029/63,President,,Republican,Ted Cruz,7,119,0,1,0,0
-Richmond,047/63,President,,Republican,Donald J. Trump,127,143,0,9,0,3
 Richmond,047/63,President,,Republican,John R. Kasich,20,143,0,9,0,3
+Richmond,047/63,President,,Republican,Donald J. Trump,127,143,0,9,0,3
 Richmond,047/63,President,,Republican,Ben Carson,0,143,0,9,0,3
 Richmond,047/63,President,,Republican,Ted Cruz,8,143,0,9,0,3
-Richmond,029/61,President,,Republican,Donald J. Trump,54,63,0,5,0,0
 Richmond,029/61,President,,Republican,John R. Kasich,8,63,0,5,0,0
+Richmond,029/61,President,,Republican,Donald J. Trump,54,63,0,5,0,0
 Richmond,029/61,President,,Republican,Ben Carson,0,63,0,5,0,0
 Richmond,029/61,President,,Republican,Ted Cruz,6,63,0,5,0,0
-Richmond,068/61,President,,Republican,Donald J. Trump,0,0,0,0,0,0
 Richmond,068/61,President,,Republican,John R. Kasich,0,0,0,0,0,0
+Richmond,068/61,President,,Republican,Donald J. Trump,0,0,0,0,0,0
 Richmond,068/61,President,,Republican,Ben Carson,0,0,0,0,0,0
 Richmond,068/61,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,068/63,President,,Republican,Donald J. Trump,32,42,0,6,0,0
 Richmond,068/63,President,,Republican,John R. Kasich,9,42,0,6,0,0
+Richmond,068/63,President,,Republican,Donald J. Trump,32,42,0,6,0,0
 Richmond,068/63,President,,Republican,Ben Carson,0,42,0,6,0,0
 Richmond,068/63,President,,Republican,Ted Cruz,6,42,0,6,0,0
-Richmond,068/62,President,,Republican,Donald J. Trump,102,131,0,6,0,0
 Richmond,068/62,President,,Republican,John R. Kasich,22,131,0,6,0,0
+Richmond,068/62,President,,Republican,Donald J. Trump,102,131,0,6,0,0
 Richmond,068/62,President,,Republican,Ben Carson,0,131,0,6,0,0
 Richmond,068/62,President,,Republican,Ted Cruz,12,131,0,6,0,0
-Richmond,005/64,President,,Republican,Donald J. Trump,140,159,0,10,0,1
 Richmond,005/64,President,,Republican,John R. Kasich,17,159,0,10,0,1
+Richmond,005/64,President,,Republican,Donald J. Trump,140,159,0,10,0,1
 Richmond,005/64,President,,Republican,Ben Carson,2,159,0,10,0,1
 Richmond,005/64,President,,Republican,Ted Cruz,9,159,0,10,0,1
-Richmond,049/63,President,,Republican,Donald J. Trump,150,159,0,11,0,1
 Richmond,049/63,President,,Republican,John R. Kasich,15,159,0,11,0,1
+Richmond,049/63,President,,Republican,Donald J. Trump,150,159,0,11,0,1
 Richmond,049/63,President,,Republican,Ben Carson,1,159,0,11,0,1
 Richmond,049/63,President,,Republican,Ted Cruz,4,159,0,11,0,1
-Richmond,040/64,President,,Republican,Donald J. Trump,40,49,0,2,0,1
 Richmond,040/64,President,,Republican,John R. Kasich,6,49,0,2,0,1
+Richmond,040/64,President,,Republican,Donald J. Trump,40,49,0,2,0,1
 Richmond,040/64,President,,Republican,Ben Carson,2,49,0,2,0,1
 Richmond,040/64,President,,Republican,Ted Cruz,4,49,0,2,0,1
-Richmond,005/61,President,,Republican,Donald J. Trump,4,7,0,0,0,0
 Richmond,005/61,President,,Republican,John R. Kasich,2,7,0,0,0,0
+Richmond,005/61,President,,Republican,Donald J. Trump,4,7,0,0,0,0
 Richmond,005/61,President,,Republican,Ben Carson,0,7,0,0,0,0
 Richmond,005/61,President,,Republican,Ted Cruz,1,7,0,0,0,0
-Richmond,005/62,President,,Republican,Donald J. Trump,198,210,0,3,0,5
 Richmond,005/62,President,,Republican,John R. Kasich,13,210,0,3,0,5
+Richmond,005/62,President,,Republican,Donald J. Trump,198,210,0,3,0,5
 Richmond,005/62,President,,Republican,Ben Carson,0,210,0,3,0,5
 Richmond,005/62,President,,Republican,Ted Cruz,7,210,0,3,0,5
-Richmond,005/63,President,,Republican,Donald J. Trump,76,81,0,5,0,0
 Richmond,005/63,President,,Republican,John R. Kasich,6,81,0,5,0,0
+Richmond,005/63,President,,Republican,Donald J. Trump,76,81,0,5,0,0
 Richmond,005/63,President,,Republican,Ben Carson,0,81,0,5,0,0
 Richmond,005/63,President,,Republican,Ted Cruz,3,81,0,5,0,0
-Richmond,026/64,President,,Republican,Donald J. Trump,100,128,0,4,0,1
 Richmond,026/64,President,,Republican,John R. Kasich,22,128,0,4,0,1
+Richmond,026/64,President,,Republican,Donald J. Trump,100,128,0,4,0,1
 Richmond,026/64,President,,Republican,Ben Carson,0,128,0,4,0,1
 Richmond,026/64,President,,Republican,Ted Cruz,11,128,0,4,0,1
-Richmond,026/63,President,,Republican,Donald J. Trump,42,76,0,4,1,0
 Richmond,026/63,President,,Republican,John R. Kasich,13,76,0,4,1,0
+Richmond,026/63,President,,Republican,Donald J. Trump,42,76,0,4,1,0
 Richmond,026/63,President,,Republican,Ben Carson,1,76,0,4,1,0
 Richmond,026/63,President,,Republican,Ted Cruz,25,76,0,4,1,0
-Richmond,026/62,President,,Republican,Donald J. Trump,71,93,0,4,0,0
 Richmond,026/62,President,,Republican,John R. Kasich,17,93,0,4,0,0
+Richmond,026/62,President,,Republican,Donald J. Trump,71,93,0,4,0,0
 Richmond,026/62,President,,Republican,Ben Carson,0,93,0,4,0,0
 Richmond,026/62,President,,Republican,Ted Cruz,9,93,0,4,0,0
-Richmond,026/61,President,,Republican,Donald J. Trump,15,20,0,1,0,1
 Richmond,026/61,President,,Republican,John R. Kasich,4,20,0,1,0,1
+Richmond,026/61,President,,Republican,Donald J. Trump,15,20,0,1,0,1
 Richmond,026/61,President,,Republican,Ben Carson,0,20,0,1,0,1
 Richmond,026/61,President,,Republican,Ted Cruz,3,20,0,1,0,1
-Richmond,053/64,President,,Republican,Donald J. Trump,61,69,0,1,0,0
 Richmond,053/64,President,,Republican,John R. Kasich,4,69,0,1,0,0
+Richmond,053/64,President,,Republican,Donald J. Trump,61,69,0,1,0,0
 Richmond,053/64,President,,Republican,Ben Carson,0,69,0,1,0,0
 Richmond,053/64,President,,Republican,Ted Cruz,4,69,0,1,0,0
-Richmond,056/61,President,,Republican,Donald J. Trump,17,21,0,2,0,0
 Richmond,056/61,President,,Republican,John R. Kasich,4,21,0,2,0,0
+Richmond,056/61,President,,Republican,Donald J. Trump,17,21,0,2,0,0
 Richmond,056/61,President,,Republican,Ben Carson,1,21,0,2,0,0
 Richmond,056/61,President,,Republican,Ted Cruz,1,21,0,2,0,0
-Richmond,056/62,President,,Republican,Donald J. Trump,109,125,0,5,0,1
 Richmond,056/62,President,,Republican,John R. Kasich,19,125,0,5,0,1
+Richmond,056/62,President,,Republican,Donald J. Trump,109,125,0,5,0,1
 Richmond,056/62,President,,Republican,Ben Carson,0,125,0,5,0,1
 Richmond,056/62,President,,Republican,Ted Cruz,2,125,0,5,0,1
-Richmond,056/63,President,,Republican,Donald J. Trump,33,47,0,1,0,0
 Richmond,056/63,President,,Republican,John R. Kasich,5,47,0,1,0,0
+Richmond,056/63,President,,Republican,Donald J. Trump,33,47,0,1,0,0
 Richmond,056/63,President,,Republican,Ben Carson,1,47,0,1,0,0
 Richmond,056/63,President,,Republican,Ted Cruz,9,47,0,1,0,0
-Richmond,057/63,President,,Republican,Donald J. Trump,47,73,0,4,7,2
 Richmond,057/63,President,,Republican,John R. Kasich,8,73,0,4,7,2
+Richmond,057/63,President,,Republican,Donald J. Trump,47,73,0,4,7,2
 Richmond,057/63,President,,Republican,Ben Carson,0,73,0,4,7,2
 Richmond,057/63,President,,Republican,Ted Cruz,31,73,0,4,7,2
-Richmond,057/62,President,,Republican,Donald J. Trump,125,137,0,7,0,0
 Richmond,057/62,President,,Republican,John R. Kasich,11,137,0,7,0,0
+Richmond,057/62,President,,Republican,Donald J. Trump,125,137,0,7,0,0
 Richmond,057/62,President,,Republican,Ben Carson,0,137,0,7,0,0
 Richmond,057/62,President,,Republican,Ted Cruz,7,137,0,7,0,0
-Richmond,057/61,President,,Republican,Donald J. Trump,34,49,0,5,0,1
 Richmond,057/61,President,,Republican,John R. Kasich,10,49,0,5,0,1
+Richmond,057/61,President,,Republican,Donald J. Trump,34,49,0,5,0,1
 Richmond,057/61,President,,Republican,Ben Carson,0,49,0,5,0,1
 Richmond,057/61,President,,Republican,Ted Cruz,9,49,0,5,0,1
-Richmond,024/64,President,,Republican,Donald J. Trump,80,100,0,4,0,1
 Richmond,024/64,President,,Republican,John R. Kasich,12,100,0,4,0,1
+Richmond,024/64,President,,Republican,Donald J. Trump,80,100,0,4,0,1
 Richmond,024/64,President,,Republican,Ben Carson,2,100,0,4,0,1
 Richmond,024/64,President,,Republican,Ted Cruz,10,100,0,4,0,1
-Richmond,035/63,President,,Republican,Donald J. Trump,86,118,0,8,0,0
 Richmond,035/63,President,,Republican,John R. Kasich,23,118,0,8,0,0
+Richmond,035/63,President,,Republican,Donald J. Trump,86,118,0,8,0,0
 Richmond,035/63,President,,Republican,Ben Carson,0,118,0,8,0,0
 Richmond,035/63,President,,Republican,Ted Cruz,17,118,0,8,0,0
-Richmond,073/63,President,,Republican,Donald J. Trump,81,97,0,3,0,0
 Richmond,073/63,President,,Republican,John R. Kasich,9,97,0,3,0,0
+Richmond,073/63,President,,Republican,Donald J. Trump,81,97,0,3,0,0
 Richmond,073/63,President,,Republican,Ben Carson,0,97,0,3,0,0
 Richmond,073/63,President,,Republican,Ted Cruz,10,97,0,3,0,0
-Richmond,069/63,President,,Republican,Donald J. Trump,52,50,0,16,0,0
 Richmond,069/63,President,,Republican,John R. Kasich,4,50,0,16,0,0
+Richmond,069/63,President,,Republican,Donald J. Trump,52,50,0,16,0,0
 Richmond,069/63,President,,Republican,Ben Carson,1,50,0,16,0,0
 Richmond,069/63,President,,Republican,Ted Cruz,5,50,0,16,0,0
-Richmond,028/64,President,,Republican,Donald J. Trump,59,75,0,1,1,3
 Richmond,028/64,President,,Republican,John R. Kasich,14,75,0,1,1,3
+Richmond,028/64,President,,Republican,Donald J. Trump,59,75,0,1,1,3
 Richmond,028/64,President,,Republican,Ben Carson,0,75,0,1,1,3
 Richmond,028/64,President,,Republican,Ted Cruz,7,75,0,1,1,3
-Richmond,067/63,President,,Republican,Donald J. Trump,79,99,0,3,1,1
 Richmond,067/63,President,,Republican,John R. Kasich,14,99,0,3,1,1
+Richmond,067/63,President,,Republican,Donald J. Trump,79,99,0,3,1,1
 Richmond,067/63,President,,Republican,Ben Carson,0,99,0,3,1,1
 Richmond,067/63,President,,Republican,Ted Cruz,11,99,0,3,1,1
-Richmond,028/61,President,,Republican,Donald J. Trump,22,31,0,1,0,0
 Richmond,028/61,President,,Republican,John R. Kasich,2,31,0,1,0,0
+Richmond,028/61,President,,Republican,Donald J. Trump,22,31,0,1,0,0
 Richmond,028/61,President,,Republican,Ben Carson,0,31,0,1,0,0
 Richmond,028/61,President,,Republican,Ted Cruz,8,31,0,1,0,0
-Richmond,074/62,President,,Republican,Donald J. Trump,0,0,0,0,0,0
 Richmond,074/62,President,,Republican,John R. Kasich,0,0,0,0,0,0
+Richmond,074/62,President,,Republican,Donald J. Trump,0,0,0,0,0,0
 Richmond,074/62,President,,Republican,Ben Carson,0,0,0,0,0,0
 Richmond,074/62,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,028/63,President,,Republican,Donald J. Trump,124,141,0,3,0,0
 Richmond,028/63,President,,Republican,John R. Kasich,10,141,0,3,0,0
+Richmond,028/63,President,,Republican,Donald J. Trump,124,141,0,3,0,0
 Richmond,028/63,President,,Republican,Ben Carson,0,141,0,3,0,0
 Richmond,028/63,President,,Republican,Ted Cruz,10,141,0,3,0,0
-Richmond,028/62,President,,Republican,Donald J. Trump,136,152,0,1,0,1
 Richmond,028/62,President,,Republican,John R. Kasich,12,152,0,1,0,1
+Richmond,028/62,President,,Republican,Donald J. Trump,136,152,0,1,0,1
 Richmond,028/62,President,,Republican,Ben Carson,0,152,0,1,0,1
 Richmond,028/62,President,,Republican,Ted Cruz,6,152,0,1,0,1
-Richmond,047/62,President,,Republican,Donald J. Trump,132,142,0,7,0,1
 Richmond,047/62,President,,Republican,John R. Kasich,9,142,0,7,0,1
+Richmond,047/62,President,,Republican,Donald J. Trump,132,142,0,7,0,1
 Richmond,047/62,President,,Republican,Ben Carson,0,142,0,7,0,1
 Richmond,047/62,President,,Republican,Ted Cruz,8,142,0,7,0,1
-Richmond,038/61,President,,Republican,Donald J. Trump,72,98,0,8,0,2
 Richmond,038/61,President,,Republican,John R. Kasich,19,98,0,8,0,2
+Richmond,038/61,President,,Republican,Donald J. Trump,72,98,0,8,0,2
 Richmond,038/61,President,,Republican,Ben Carson,1,98,0,8,0,2
 Richmond,038/61,President,,Republican,Ted Cruz,16,98,0,8,0,2
-Richmond,038/62,President,,Republican,Donald J. Trump,137,157,0,2,0,2
 Richmond,038/62,President,,Republican,John R. Kasich,16,157,0,2,0,2
+Richmond,038/62,President,,Republican,Donald J. Trump,137,157,0,2,0,2
 Richmond,038/62,President,,Republican,Ben Carson,0,157,0,2,0,2
 Richmond,038/62,President,,Republican,Ted Cruz,8,157,0,2,0,2
-Richmond,047/61,President,,Republican,Donald J. Trump,81,94,0,5,0,0
 Richmond,047/61,President,,Republican,John R. Kasich,11,94,0,5,0,0
+Richmond,047/61,President,,Republican,Donald J. Trump,81,94,0,5,0,0
 Richmond,047/61,President,,Republican,Ben Carson,1,94,0,5,0,0
 Richmond,047/61,President,,Republican,Ted Cruz,6,94,0,5,0,0
-Richmond,050/62,President,,Republican,Donald J. Trump,129,157,0,3,0,0
 Richmond,050/62,President,,Republican,John R. Kasich,24,157,0,3,0,0
+Richmond,050/62,President,,Republican,Donald J. Trump,129,157,0,3,0,0
 Richmond,050/62,President,,Republican,Ben Carson,1,157,0,3,0,0
 Richmond,050/62,President,,Republican,Ted Cruz,6,157,0,3,0,0
-Richmond,050/63,President,,Republican,Donald J. Trump,62,84,0,2,0,0
 Richmond,050/63,President,,Republican,John R. Kasich,15,84,0,2,0,0
+Richmond,050/63,President,,Republican,Donald J. Trump,62,84,0,2,0,0
 Richmond,050/63,President,,Republican,Ben Carson,1,84,0,2,0,0
 Richmond,050/63,President,,Republican,Ted Cruz,8,84,0,2,0,0
-Richmond,047/64,President,,Republican,Donald J. Trump,50,65,0,4,0,0
 Richmond,047/64,President,,Republican,John R. Kasich,12,65,0,4,0,0
+Richmond,047/64,President,,Republican,Donald J. Trump,50,65,0,4,0,0
 Richmond,047/64,President,,Republican,Ben Carson,2,65,0,4,0,0
 Richmond,047/64,President,,Republican,Ted Cruz,5,65,0,4,0,0
-Richmond,050/61,President,,Republican,Donald J. Trump,14,20,0,0,0,0
 Richmond,050/61,President,,Republican,John R. Kasich,5,20,0,0,0,0
+Richmond,050/61,President,,Republican,Donald J. Trump,14,20,0,0,0,0
 Richmond,050/61,President,,Republican,Ben Carson,0,20,0,0,0,0
 Richmond,050/61,President,,Republican,Ted Cruz,1,20,0,0,0,0
-Richmond,004/63,President,,Republican,Donald J. Trump,86,93,0,3,1,2
 Richmond,004/63,President,,Republican,John R. Kasich,7,93,0,3,1,2
+Richmond,004/63,President,,Republican,Donald J. Trump,86,93,0,3,1,2
 Richmond,004/63,President,,Republican,Ben Carson,0,93,0,3,1,2
 Richmond,004/63,President,,Republican,Ted Cruz,6,93,0,3,1,2
-Richmond,004/62,President,,Republican,Donald J. Trump,123,145,0,7,0,1
 Richmond,004/62,President,,Republican,John R. Kasich,18,145,0,7,0,1
+Richmond,004/62,President,,Republican,Donald J. Trump,123,145,0,7,0,1
 Richmond,004/62,President,,Republican,Ben Carson,2,145,0,7,0,1
 Richmond,004/62,President,,Republican,Ted Cruz,10,145,0,7,0,1
-Richmond,004/61,President,,Republican,Donald J. Trump,36,50,0,2,0,1
 Richmond,004/61,President,,Republican,John R. Kasich,6,50,0,2,0,1
+Richmond,004/61,President,,Republican,Donald J. Trump,36,50,0,2,0,1
 Richmond,004/61,President,,Republican,Ben Carson,0,50,0,2,0,1
 Richmond,004/61,President,,Republican,Ted Cruz,10,50,0,2,0,1
-Richmond,004/64,President,,Republican,Donald J. Trump,111,138,0,1,0,1
 Richmond,004/64,President,,Republican,John R. Kasich,12,138,0,1,0,1
+Richmond,004/64,President,,Republican,Donald J. Trump,111,138,0,1,0,1
 Richmond,004/64,President,,Republican,Ben Carson,2,138,0,1,0,1
 Richmond,004/64,President,,Republican,Ted Cruz,15,138,0,1,0,1
-Richmond,069/62,President,,Republican,Donald J. Trump,90,102,0,7,0,0
 Richmond,069/62,President,,Republican,John R. Kasich,13,102,0,7,0,0
+Richmond,069/62,President,,Republican,Donald J. Trump,90,102,0,7,0,0
 Richmond,069/62,President,,Republican,Ben Carson,0,102,0,7,0,0
 Richmond,069/62,President,,Republican,Ted Cruz,6,102,0,7,0,0
-Richmond,035/62,President,,Republican,Donald J. Trump,187,206,0,2,0,3
 Richmond,035/62,President,,Republican,John R. Kasich,15,206,0,2,0,3
+Richmond,035/62,President,,Republican,Donald J. Trump,187,206,0,2,0,3
 Richmond,035/62,President,,Republican,Ben Carson,0,206,0,2,0,3
 Richmond,035/62,President,,Republican,Ted Cruz,9,206,0,2,0,3
-Richmond,035/61,President,,Republican,Donald J. Trump,94,115,0,1,0,1
 Richmond,035/61,President,,Republican,John R. Kasich,9,115,0,1,0,1
+Richmond,035/61,President,,Republican,Donald J. Trump,94,115,0,1,0,1
 Richmond,035/61,President,,Republican,Ben Carson,1,115,0,1,0,1
 Richmond,035/61,President,,Republican,Ted Cruz,13,115,0,1,0,1
-Richmond,069/61,President,,Republican,Donald J. Trump,11,14,0,0,0,0
 Richmond,069/61,President,,Republican,John R. Kasich,1,14,0,0,0,0
+Richmond,069/61,President,,Republican,Donald J. Trump,11,14,0,0,0,0
 Richmond,069/61,President,,Republican,Ben Carson,0,14,0,0,0,0
 Richmond,069/61,President,,Republican,Ted Cruz,2,14,0,0,0,0
-Richmond,018/63,President,,Republican,Donald J. Trump,132,145,0,4,0,6
 Richmond,018/63,President,,Republican,John R. Kasich,12,145,0,4,0,6
+Richmond,018/63,President,,Republican,Donald J. Trump,132,145,0,4,0,6
 Richmond,018/63,President,,Republican,Ben Carson,1,145,0,4,0,6
 Richmond,018/63,President,,Republican,Ted Cruz,10,145,0,4,0,6
-Richmond,025/62,President,,Republican,Donald J. Trump,160,178,0,3,0,0
 Richmond,025/62,President,,Republican,John R. Kasich,11,178,0,3,0,0
+Richmond,025/62,President,,Republican,Donald J. Trump,160,178,0,3,0,0
 Richmond,025/62,President,,Republican,Ben Carson,0,178,0,3,0,0
 Richmond,025/62,President,,Republican,Ted Cruz,10,178,0,3,0,0
-Richmond,025/63,President,,Republican,Donald J. Trump,39,66,0,1,0,1
 Richmond,025/63,President,,Republican,John R. Kasich,7,66,0,1,0,1
+Richmond,025/63,President,,Republican,Donald J. Trump,39,66,0,1,0,1
 Richmond,025/63,President,,Republican,Ben Carson,1,66,0,1,0,1
 Richmond,025/63,President,,Republican,Ted Cruz,21,66,0,1,0,1
-Richmond,014/64,President,,Republican,Donald J. Trump,123,150,0,4,0,0
 Richmond,014/64,President,,Republican,John R. Kasich,10,150,0,4,0,0
+Richmond,014/64,President,,Republican,Donald J. Trump,123,150,0,4,0,0
 Richmond,014/64,President,,Republican,Ben Carson,0,150,0,4,0,0
 Richmond,014/64,President,,Republican,Ted Cruz,21,150,0,4,0,0
-Richmond,025/61,President,,Republican,Donald J. Trump,42,46,0,3,0,0
 Richmond,025/61,President,,Republican,John R. Kasich,6,46,0,3,0,0
+Richmond,025/61,President,,Republican,Donald J. Trump,42,46,0,3,0,0
 Richmond,025/61,President,,Republican,Ben Carson,0,46,0,3,0,0
 Richmond,025/61,President,,Republican,Ted Cruz,1,46,0,3,0,0
-Richmond,014/62,President,,Republican,Donald J. Trump,116,124,0,2,0,3
 Richmond,014/62,President,,Republican,John R. Kasich,8,124,0,2,0,3
+Richmond,014/62,President,,Republican,Donald J. Trump,116,124,0,2,0,3
 Richmond,014/62,President,,Republican,Ben Carson,0,124,0,2,0,3
 Richmond,014/62,President,,Republican,Ted Cruz,5,124,0,2,0,3
-Richmond,034/61,President,,Republican,Donald J. Trump,89,99,0,6,0,4
 Richmond,034/61,President,,Republican,John R. Kasich,5,99,0,6,0,4
+Richmond,034/61,President,,Republican,Donald J. Trump,89,99,0,6,0,4
 Richmond,034/61,President,,Republican,Ben Carson,0,99,0,6,0,4
 Richmond,034/61,President,,Republican,Ted Cruz,14,99,0,6,0,4
-Richmond,034/62,President,,Republican,Donald J. Trump,157,182,0,4,0,0
 Richmond,034/62,President,,Republican,John R. Kasich,14,182,0,4,0,0
+Richmond,034/62,President,,Republican,Donald J. Trump,157,182,0,4,0,0
 Richmond,034/62,President,,Republican,Ben Carson,0,182,0,4,0,0
 Richmond,034/62,President,,Republican,Ted Cruz,13,182,0,4,0,0
-Richmond,014/61,President,,Republican,Donald J. Trump,39,52,0,1,0,1
 Richmond,014/61,President,,Republican,John R. Kasich,2,52,0,1,0,1
+Richmond,014/61,President,,Republican,Donald J. Trump,39,52,0,1,0,1
 Richmond,014/61,President,,Republican,Ben Carson,0,52,0,1,0,1
 Richmond,014/61,President,,Republican,Ted Cruz,13,52,0,1,0,1
-Richmond,034/64,President,,Republican,Donald J. Trump,77,93,0,7,0,0
 Richmond,034/64,President,,Republican,John R. Kasich,11,93,0,7,0,0
+Richmond,034/64,President,,Republican,Donald J. Trump,77,93,0,7,0,0
 Richmond,034/64,President,,Republican,Ben Carson,0,93,0,7,0,0
 Richmond,034/64,President,,Republican,Ted Cruz,12,93,0,7,0,0
-Richmond,060/62,President,,Republican,Donald J. Trump,70,71,0,1,0,5
 Richmond,060/62,President,,Republican,John R. Kasich,4,71,0,1,0,5
+Richmond,060/62,President,,Republican,Donald J. Trump,70,71,0,1,0,5
 Richmond,060/62,President,,Republican,Ben Carson,0,71,0,1,0,5
 Richmond,060/62,President,,Republican,Ted Cruz,3,71,0,1,0,5
-Richmond,070/61,President,,Republican,Donald J. Trump,0,3,0,0,0,0
 Richmond,070/61,President,,Republican,John R. Kasich,1,3,0,0,0,0
+Richmond,070/61,President,,Republican,Donald J. Trump,0,3,0,0,0,0
 Richmond,070/61,President,,Republican,Ben Carson,0,3,0,0,0,0
 Richmond,070/61,President,,Republican,Ted Cruz,2,3,0,0,0,0
-Richmond,070/62,President,,Republican,Donald J. Trump,61,68,0,4,0,0
 Richmond,070/62,President,,Republican,John R. Kasich,5,68,0,4,0,0
+Richmond,070/62,President,,Republican,Donald J. Trump,61,68,0,4,0,0
 Richmond,070/62,President,,Republican,Ben Carson,0,68,0,4,0,0
 Richmond,070/62,President,,Republican,Ted Cruz,6,68,0,4,0,0
-Richmond,070/63,President,,Republican,Donald J. Trump,44,56,0,1,0,0
 Richmond,070/63,President,,Republican,John R. Kasich,8,56,0,1,0,0
+Richmond,070/63,President,,Republican,Donald J. Trump,44,56,0,1,0,0
 Richmond,070/63,President,,Republican,Ben Carson,0,56,0,1,0,0
 Richmond,070/63,President,,Republican,Ted Cruz,5,56,0,1,0,0
-Richmond,009/64,President,,Republican,Donald J. Trump,145,159,0,7,0,0
 Richmond,009/64,President,,Republican,John R. Kasich,6,159,0,7,0,0
+Richmond,009/64,President,,Republican,Donald J. Trump,145,159,0,7,0,0
 Richmond,009/64,President,,Republican,Ben Carson,0,159,0,7,0,0
 Richmond,009/64,President,,Republican,Ted Cruz,14,159,0,7,0,0
-Richmond,009/61,President,,Republican,Donald J. Trump,18,41,0,0,0,0
 Richmond,009/61,President,,Republican,John R. Kasich,8,41,0,0,0,0
+Richmond,009/61,President,,Republican,Donald J. Trump,18,41,0,0,0,0
 Richmond,009/61,President,,Republican,Ben Carson,4,41,0,0,0,0
 Richmond,009/61,President,,Republican,Ted Cruz,11,41,0,0,0,0
-Richmond,009/62,President,,Republican,Donald J. Trump,85,96,0,3,0,0
 Richmond,009/62,President,,Republican,John R. Kasich,7,96,0,3,0,0
+Richmond,009/62,President,,Republican,Donald J. Trump,85,96,0,3,0,0
 Richmond,009/62,President,,Republican,Ben Carson,1,96,0,3,0,0
 Richmond,009/62,President,,Republican,Ted Cruz,6,96,0,3,0,0
-Richmond,009/63,President,,Republican,Donald J. Trump,11,10,0,1,0,0
 Richmond,009/63,President,,Republican,John R. Kasich,0,10,0,1,0,0
+Richmond,009/63,President,,Republican,Donald J. Trump,11,10,0,1,0,0
 Richmond,009/63,President,,Republican,Ben Carson,0,10,0,1,0,0
 Richmond,009/63,President,,Republican,Ted Cruz,0,10,0,1,0,0
-Richmond,008/63,President,,Republican,Donald J. Trump,58,62,0,3,0,0
 Richmond,008/63,President,,Republican,John R. Kasich,5,62,0,3,0,0
+Richmond,008/63,President,,Republican,Donald J. Trump,58,62,0,3,0,0
 Richmond,008/63,President,,Republican,Ben Carson,0,62,0,3,0,0
 Richmond,008/63,President,,Republican,Ted Cruz,2,62,0,3,0,0
-Richmond,008/62,President,,Republican,Donald J. Trump,158,187,0,2,0,2
 Richmond,008/62,President,,Republican,John R. Kasich,22,187,0,2,0,2
+Richmond,008/62,President,,Republican,Donald J. Trump,158,187,0,2,0,2
 Richmond,008/62,President,,Republican,Ben Carson,0,187,0,2,0,2
 Richmond,008/62,President,,Republican,Ted Cruz,11,187,0,2,0,2
-Richmond,008/61,President,,Republican,Donald J. Trump,7,9,0,0,0,0
 Richmond,008/61,President,,Republican,John R. Kasich,0,9,0,0,0,0
+Richmond,008/61,President,,Republican,Donald J. Trump,7,9,0,0,0,0
 Richmond,008/61,President,,Republican,Ben Carson,1,9,0,0,0,0
 Richmond,008/61,President,,Republican,Ted Cruz,1,9,0,0,0,0
-Richmond,024/61,President,,Republican,Donald J. Trump,88,110,0,5,0,0
 Richmond,024/61,President,,Republican,John R. Kasich,11,110,0,5,0,0
+Richmond,024/61,President,,Republican,Donald J. Trump,88,110,0,5,0,0
 Richmond,024/61,President,,Republican,Ben Carson,1,110,0,5,0,0
 Richmond,024/61,President,,Republican,Ted Cruz,15,110,0,5,0,0
-Richmond,024/63,President,,Republican,Donald J. Trump,82,92,0,6,0,0
 Richmond,024/63,President,,Republican,John R. Kasich,9,92,0,6,0,0
+Richmond,024/63,President,,Republican,Donald J. Trump,82,92,0,6,0,0
 Richmond,024/63,President,,Republican,Ben Carson,0,92,0,6,0,0
 Richmond,024/63,President,,Republican,Ted Cruz,7,92,0,6,0,0
-Richmond,024/62,President,,Republican,Donald J. Trump,74,89,0,4,0,0
 Richmond,024/62,President,,Republican,John R. Kasich,10,89,0,4,0,0
+Richmond,024/62,President,,Republican,Donald J. Trump,74,89,0,4,0,0
 Richmond,024/62,President,,Republican,Ben Carson,0,89,0,4,0,0
 Richmond,024/62,President,,Republican,Ted Cruz,8,89,0,4,0,0
-Richmond,075/63,President,,Republican,Donald J. Trump,10,12,0,5,0,0
 Richmond,075/63,President,,Republican,John R. Kasich,3,12,0,5,0,0
+Richmond,075/63,President,,Republican,Donald J. Trump,10,12,0,5,0,0
 Richmond,075/63,President,,Republican,Ben Carson,0,12,0,5,0,0
 Richmond,075/63,President,,Republican,Ted Cruz,3,12,0,5,0,0
-Richmond,075/62,President,,Republican,Donald J. Trump,0,0,0,0,0,0
-Richmond,075/62,President,,Republican,John R. Kasich,0,0,0,0,0,0
-Richmond,075/62,President,,Republican,Ben Carson,0,0,0,0,0,0
-Richmond,075/62,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,055/61,President,,Republican,Donald J. Trump,5,7,0,0,0,0
 Richmond,055/61,President,,Republican,John R. Kasich,1,7,0,0,0,0
+Richmond,055/61,President,,Republican,Donald J. Trump,5,7,0,0,0,0
 Richmond,055/61,President,,Republican,Ben Carson,1,7,0,0,0,0
 Richmond,055/61,President,,Republican,Ted Cruz,0,7,0,0,0,0
-Richmond,051/64,President,,Republican,Donald J. Trump,45,55,0,2,0,0
 Richmond,051/64,President,,Republican,John R. Kasich,6,55,0,2,0,0
+Richmond,051/64,President,,Republican,Donald J. Trump,45,55,0,2,0,0
 Richmond,051/64,President,,Republican,Ben Carson,0,55,0,2,0,0
 Richmond,051/64,President,,Republican,Ted Cruz,5,55,0,2,0,0
-Richmond,055/63,President,,Republican,Donald J. Trump,70,77,0,1,0,1
 Richmond,055/63,President,,Republican,John R. Kasich,4,77,0,1,0,1
+Richmond,055/63,President,,Republican,Donald J. Trump,70,77,0,1,0,1
 Richmond,055/63,President,,Republican,Ben Carson,2,77,0,1,0,1
 Richmond,055/63,President,,Republican,Ted Cruz,2,77,0,1,0,1
-Richmond,055/62,President,,Republican,Donald J. Trump,106,136,0,7,0,1
 Richmond,055/62,President,,Republican,John R. Kasich,22,136,0,7,0,1
+Richmond,055/62,President,,Republican,Donald J. Trump,106,136,0,7,0,1
 Richmond,055/62,President,,Republican,Ben Carson,0,136,0,7,0,1
 Richmond,055/62,President,,Republican,Ted Cruz,16,136,0,7,0,1
-Richmond,051/61,President,,Republican,Donald J. Trump,34,51,0,2,0,0
 Richmond,051/61,President,,Republican,John R. Kasich,8,51,0,2,0,0
+Richmond,051/61,President,,Republican,Donald J. Trump,34,51,0,2,0,0
 Richmond,051/61,President,,Republican,Ben Carson,1,51,0,2,0,0
 Richmond,051/61,President,,Republican,Ted Cruz,10,51,0,2,0,0
-Richmond,055/64,President,,Republican,Donald J. Trump,0,0,0,0,0,0
-Richmond,055/64,President,,Republican,John R. Kasich,0,0,0,0,0,0
-Richmond,055/64,President,,Republican,Ben Carson,0,0,0,0,0,0
-Richmond,055/64,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,051/63,President,,Republican,Donald J. Trump,87,101,0,7,0,1
 Richmond,051/63,President,,Republican,John R. Kasich,14,101,0,7,0,1
+Richmond,051/63,President,,Republican,Donald J. Trump,87,101,0,7,0,1
 Richmond,051/63,President,,Republican,Ben Carson,0,101,0,7,0,1
 Richmond,051/63,President,,Republican,Ted Cruz,7,101,0,7,0,1
-Richmond,051/62,President,,Republican,Donald J. Trump,90,116,0,2,0,1
 Richmond,051/62,President,,Republican,John R. Kasich,16,116,0,2,0,1
+Richmond,051/62,President,,Republican,Donald J. Trump,90,116,0,2,0,1
 Richmond,051/62,President,,Republican,Ben Carson,1,116,0,2,0,1
 Richmond,051/62,President,,Republican,Ted Cruz,12,116,0,2,0,1
-Richmond,062/64,President,,Republican,Donald J. Trump,41,42,0,4,0,1
 Richmond,062/64,President,,Republican,John R. Kasich,5,42,0,4,0,1
+Richmond,062/64,President,,Republican,Donald J. Trump,41,42,0,4,0,1
 Richmond,062/64,President,,Republican,Ben Carson,0,42,0,4,0,1
 Richmond,062/64,President,,Republican,Ted Cruz,1,42,0,4,0,1
-Richmond,025/64,President,,Republican,Donald J. Trump,79,88,0,10,0,1
 Richmond,025/64,President,,Republican,John R. Kasich,9,88,0,10,0,1
+Richmond,025/64,President,,Republican,Donald J. Trump,79,88,0,10,0,1
 Richmond,025/64,President,,Republican,Ben Carson,1,88,0,10,0,1
 Richmond,025/64,President,,Republican,Ted Cruz,8,88,0,10,0,1
-Richmond,027/64,President,,Republican,Donald J. Trump,64,83,0,1,3,0
 Richmond,027/64,President,,Republican,John R. Kasich,7,83,0,1,3,0
+Richmond,027/64,President,,Republican,Donald J. Trump,64,83,0,1,3,0
 Richmond,027/64,President,,Republican,Ben Carson,1,83,0,1,3,0
 Richmond,027/64,President,,Republican,Ted Cruz,15,83,0,1,3,0
-Richmond,034/63,President,,Republican,Donald J. Trump,53,62,0,1,0,0
 Richmond,034/63,President,,Republican,John R. Kasich,2,62,0,1,0,0
+Richmond,034/63,President,,Republican,Donald J. Trump,53,62,0,1,0,0
 Richmond,034/63,President,,Republican,Ben Carson,0,62,0,1,0,0
 Richmond,034/63,President,,Republican,Ted Cruz,8,62,0,1,0,0
-Richmond,011/64,President,,Republican,Donald J. Trump,40,50,0,6,0,1
 Richmond,011/64,President,,Republican,John R. Kasich,5,50,0,6,0,1
+Richmond,011/64,President,,Republican,Donald J. Trump,40,50,0,6,0,1
 Richmond,011/64,President,,Republican,Ben Carson,0,50,0,6,0,1
 Richmond,011/64,President,,Republican,Ted Cruz,12,50,0,6,0,1
-Richmond,020/64,President,,Republican,Donald J. Trump,83,93,0,2,0,0
 Richmond,020/64,President,,Republican,John R. Kasich,4,93,0,2,0,0
+Richmond,020/64,President,,Republican,Donald J. Trump,83,93,0,2,0,0
 Richmond,020/64,President,,Republican,Ben Carson,0,93,0,2,0,0
 Richmond,020/64,President,,Republican,Ted Cruz,8,93,0,2,0,0
-Richmond,020/61,President,,Republican,Donald J. Trump,36,45,0,3,0,0
 Richmond,020/61,President,,Republican,John R. Kasich,4,45,0,3,0,0
+Richmond,020/61,President,,Republican,Donald J. Trump,36,45,0,3,0,0
 Richmond,020/61,President,,Republican,Ben Carson,0,45,0,3,0,0
 Richmond,020/61,President,,Republican,Ted Cruz,7,45,0,3,0,0
-Richmond,020/63,President,,Republican,Donald J. Trump,79,83,0,18,0,0
 Richmond,020/63,President,,Republican,John R. Kasich,14,83,0,18,0,0
+Richmond,020/63,President,,Republican,Donald J. Trump,79,83,0,18,0,0
 Richmond,020/63,President,,Republican,Ben Carson,1,83,0,18,0,0
 Richmond,020/63,President,,Republican,Ted Cruz,6,83,0,18,0,0
-Richmond,020/62,President,,Republican,Donald J. Trump,139,142,0,11,0,0
 Richmond,020/62,President,,Republican,John R. Kasich,8,142,0,11,0,0
+Richmond,020/62,President,,Republican,Donald J. Trump,139,142,0,11,0,0
 Richmond,020/62,President,,Republican,Ben Carson,0,142,0,11,0,0
 Richmond,020/62,President,,Republican,Ted Cruz,6,142,0,11,0,0
-Richmond,071/63,President,,Republican,Donald J. Trump,9,11,0,2,0,0
 Richmond,071/63,President,,Republican,John R. Kasich,2,11,0,2,0,0
+Richmond,071/63,President,,Republican,Donald J. Trump,9,11,0,2,0,0
 Richmond,071/63,President,,Republican,Ben Carson,0,11,0,2,0,0
 Richmond,071/63,President,,Republican,Ted Cruz,1,11,0,2,0,0
-Richmond,071/62,President,,Republican,Donald J. Trump,171,202,0,7,1,2
 Richmond,071/62,President,,Republican,John R. Kasich,18,202,0,7,1,2
+Richmond,071/62,President,,Republican,Donald J. Trump,171,202,0,7,1,2
 Richmond,071/62,President,,Republican,Ben Carson,2,202,0,7,1,2
 Richmond,071/62,President,,Republican,Ted Cruz,21,202,0,7,1,2
-Richmond,001/63,President,,Republican,Donald J. Trump,76,93,0,3,1,2
 Richmond,001/63,President,,Republican,John R. Kasich,11,93,0,3,1,2
+Richmond,001/63,President,,Republican,Donald J. Trump,76,93,0,3,1,2
 Richmond,001/63,President,,Republican,Ben Carson,0,93,0,3,1,2
 Richmond,001/63,President,,Republican,Ted Cruz,12,93,0,3,1,2
-Richmond,013/64,President,,Republican,Donald J. Trump,34,39,0,3,0,0
 Richmond,013/64,President,,Republican,John R. Kasich,2,39,0,3,0,0
+Richmond,013/64,President,,Republican,Donald J. Trump,34,39,0,3,0,0
 Richmond,013/64,President,,Republican,Ben Carson,0,39,0,3,0,0
 Richmond,013/64,President,,Republican,Ted Cruz,6,39,0,3,0,0
-Richmond,012/64,President,,Republican,Donald J. Trump,105,105,0,7,0,4
 Richmond,012/64,President,,Republican,John R. Kasich,4,105,0,7,0,4
+Richmond,012/64,President,,Republican,Donald J. Trump,105,105,0,7,0,4
 Richmond,012/64,President,,Republican,Ben Carson,0,105,0,7,0,4
 Richmond,012/64,President,,Republican,Ted Cruz,6,105,0,7,0,4
-Richmond,031/64,President,,Republican,Donald J. Trump,86,109,0,3,0,3
 Richmond,031/64,President,,Republican,John R. Kasich,16,109,0,3,0,3
+Richmond,031/64,President,,Republican,Donald J. Trump,86,109,0,3,0,3
 Richmond,031/64,President,,Republican,Ben Carson,2,109,0,3,0,3
 Richmond,031/64,President,,Republican,Ted Cruz,9,109,0,3,0,3
-Richmond,030/61,President,,Republican,Donald J. Trump,35,44,0,0,0,0
 Richmond,030/61,President,,Republican,John R. Kasich,2,44,0,0,0,0
+Richmond,030/61,President,,Republican,Donald J. Trump,35,44,0,0,0,0
 Richmond,030/61,President,,Republican,Ben Carson,0,44,0,0,0,0
 Richmond,030/61,President,,Republican,Ted Cruz,6,44,0,0,0,0
-Richmond,030/62,President,,Republican,Donald J. Trump,182,196,0,2,0,1
 Richmond,030/62,President,,Republican,John R. Kasich,8,196,0,2,0,1
+Richmond,030/62,President,,Republican,Donald J. Trump,182,196,0,2,0,1
 Richmond,030/62,President,,Republican,Ben Carson,1,196,0,2,0,1
 Richmond,030/62,President,,Republican,Ted Cruz,8,196,0,2,0,1
-Richmond,030/63,President,,Republican,Donald J. Trump,60,73,0,3,0,1
 Richmond,030/63,President,,Republican,John R. Kasich,9,73,0,3,0,1
+Richmond,030/63,President,,Republican,Donald J. Trump,60,73,0,3,0,1
 Richmond,030/63,President,,Republican,Ben Carson,2,73,0,3,0,1
 Richmond,030/63,President,,Republican,Ted Cruz,6,73,0,3,0,1
-Richmond,031/63,President,,Republican,Donald J. Trump,74,88,0,5,0,0
 Richmond,031/63,President,,Republican,John R. Kasich,11,88,0,5,0,0
+Richmond,031/63,President,,Republican,Donald J. Trump,74,88,0,5,0,0
 Richmond,031/63,President,,Republican,Ben Carson,2,88,0,5,0,0
 Richmond,031/63,President,,Republican,Ted Cruz,6,88,0,5,0,0
-Richmond,031/62,President,,Republican,Donald J. Trump,122,147,0,6,0,1
 Richmond,031/62,President,,Republican,John R. Kasich,19,147,0,6,0,1
+Richmond,031/62,President,,Republican,Donald J. Trump,122,147,0,6,0,1
 Richmond,031/62,President,,Republican,Ben Carson,1,147,0,6,0,1
 Richmond,031/62,President,,Republican,Ted Cruz,12,147,0,6,0,1
-Richmond,031/61,President,,Republican,Donald J. Trump,17,25,0,1,0,0
 Richmond,031/61,President,,Republican,John R. Kasich,4,25,0,1,0,0
+Richmond,031/61,President,,Republican,Donald J. Trump,17,25,0,1,0,0
 Richmond,031/61,President,,Republican,Ben Carson,1,25,0,1,0,0
 Richmond,031/61,President,,Republican,Ted Cruz,4,25,0,1,0,0
-Richmond,049/64,President,,Republican,Donald J. Trump,63,69,0,10,0,2
 Richmond,049/64,President,,Republican,John R. Kasich,8,69,0,10,0,2
+Richmond,049/64,President,,Republican,Donald J. Trump,63,69,0,10,0,2
 Richmond,049/64,President,,Republican,Ben Carson,1,69,0,10,0,2
 Richmond,049/64,President,,Republican,Ted Cruz,8,69,0,10,0,2
-Richmond,074/63,President,,Republican,Donald J. Trump,47,52,0,7,0,0
 Richmond,074/63,President,,Republican,John R. Kasich,9,52,0,7,0,0
+Richmond,074/63,President,,Republican,Donald J. Trump,47,52,0,7,0,0
 Richmond,074/63,President,,Republican,Ben Carson,0,52,0,7,0,0
 Richmond,074/63,President,,Republican,Ted Cruz,3,52,0,7,0,0
-Richmond,006/64,President,,Republican,Donald J. Trump,121,142,0,4,0,3
 Richmond,006/64,President,,Republican,John R. Kasich,18,142,0,4,0,3
+Richmond,006/64,President,,Republican,Donald J. Trump,121,142,0,4,0,3
 Richmond,006/64,President,,Republican,Ben Carson,0,142,0,4,0,3
 Richmond,006/64,President,,Republican,Ted Cruz,10,142,0,4,0,3
-Richmond,081/63,President,,Republican,Donald J. Trump,76,91,0,3,0,0
 Richmond,081/63,President,,Republican,John R. Kasich,9,91,0,3,0,0
+Richmond,081/63,President,,Republican,Donald J. Trump,76,91,0,3,0,0
 Richmond,081/63,President,,Republican,Ben Carson,1,91,0,3,0,0
 Richmond,081/63,President,,Republican,Ted Cruz,7,91,0,3,0,0
-Richmond,080/63,President,,Republican,Donald J. Trump,0,0,0,0,0,0
-Richmond,080/63,President,,Republican,John R. Kasich,0,0,0,0,0,0
-Richmond,080/63,President,,Republican,Ben Carson,0,0,0,0,0,0
-Richmond,080/63,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,001/64,President,,Republican,Donald J. Trump,106,124,0,6,0,0
 Richmond,001/64,President,,Republican,John R. Kasich,11,124,0,6,0,0
+Richmond,001/64,President,,Republican,Donald J. Trump,106,124,0,6,0,0
 Richmond,001/64,President,,Republican,Ben Carson,0,124,0,6,0,0
 Richmond,001/64,President,,Republican,Ted Cruz,12,124,0,6,0,0
-Richmond,012/61,President,,Republican,Donald J. Trump,79,108,0,3,0,4
 Richmond,012/61,President,,Republican,John R. Kasich,27,108,0,3,0,4
+Richmond,012/61,President,,Republican,Donald J. Trump,79,108,0,3,0,4
 Richmond,012/61,President,,Republican,Ben Carson,0,108,0,3,0,4
 Richmond,012/61,President,,Republican,Ted Cruz,7,108,0,3,0,4
-Richmond,012/62,President,,Republican,Donald J. Trump,120,134,0,3,0,1
 Richmond,012/62,President,,Republican,John R. Kasich,11,134,0,3,0,1
+Richmond,012/62,President,,Republican,Donald J. Trump,120,134,0,3,0,1
 Richmond,012/62,President,,Republican,Ben Carson,1,134,0,3,0,1
 Richmond,012/62,President,,Republican,Ted Cruz,6,134,0,3,0,1
-Richmond,012/63,President,,Republican,Donald J. Trump,81,93,0,4,0,1
 Richmond,012/63,President,,Republican,John R. Kasich,11,93,0,4,0,1
+Richmond,012/63,President,,Republican,Donald J. Trump,81,93,0,4,0,1
 Richmond,012/63,President,,Republican,Ben Carson,1,93,0,4,0,1
 Richmond,012/63,President,,Republican,Ted Cruz,5,93,0,4,0,1
-Richmond,036/62,President,,Republican,Donald J. Trump,141,170,0,6,0,0
 Richmond,036/62,President,,Republican,John R. Kasich,24,170,0,6,0,0
+Richmond,036/62,President,,Republican,Donald J. Trump,141,170,0,6,0,0
 Richmond,036/62,President,,Republican,Ben Carson,0,170,0,6,0,0
 Richmond,036/62,President,,Republican,Ted Cruz,11,170,0,6,0,0
-Richmond,036/63,President,,Republican,Donald J. Trump,80,104,0,2,0,1
 Richmond,036/63,President,,Republican,John R. Kasich,13,104,0,2,0,1
+Richmond,036/63,President,,Republican,Donald J. Trump,80,104,0,2,0,1
 Richmond,036/63,President,,Republican,Ben Carson,0,104,0,2,0,1
 Richmond,036/63,President,,Republican,Ted Cruz,13,104,0,2,0,1
-Richmond,036/61,President,,Republican,Donald J. Trump,45,50,0,2,0,0
 Richmond,036/61,President,,Republican,John R. Kasich,4,50,0,2,0,0
+Richmond,036/61,President,,Republican,Donald J. Trump,45,50,0,2,0,0
 Richmond,036/61,President,,Republican,Ben Carson,0,50,0,2,0,0
 Richmond,036/61,President,,Republican,Ted Cruz,3,50,0,2,0,0
-Richmond,044/64,President,,Republican,Donald J. Trump,68,79,0,1,0,2
 Richmond,044/64,President,,Republican,John R. Kasich,11,79,0,1,0,2
+Richmond,044/64,President,,Republican,Donald J. Trump,68,79,0,1,0,2
 Richmond,044/64,President,,Republican,Ben Carson,0,79,0,1,0,2
 Richmond,044/64,President,,Republican,Ted Cruz,3,79,0,1,0,2
-Richmond,048/64,President,,Republican,Donald J. Trump,57,71,0,3,0,0
 Richmond,048/64,President,,Republican,John R. Kasich,12,71,0,3,0,0
+Richmond,048/64,President,,Republican,Donald J. Trump,57,71,0,3,0,0
 Richmond,048/64,President,,Republican,Ben Carson,0,71,0,3,0,0
 Richmond,048/64,President,,Republican,Ted Cruz,5,71,0,3,0,0
-Richmond,016/64,President,,Republican,Donald J. Trump,141,161,0,5,0,5
 Richmond,016/64,President,,Republican,John R. Kasich,20,161,0,5,0,5
+Richmond,016/64,President,,Republican,Donald J. Trump,141,161,0,5,0,5
 Richmond,016/64,President,,Republican,Ben Carson,1,161,0,5,0,5
 Richmond,016/64,President,,Republican,Ted Cruz,9,161,0,5,0,5
-Richmond,059/64,President,,Republican,Donald J. Trump,0,0,0,0,0,0
-Richmond,059/64,President,,Republican,John R. Kasich,0,0,0,0,0,0
-Richmond,059/64,President,,Republican,Ben Carson,0,0,0,0,0,0
-Richmond,059/64,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,008/64,President,,Republican,Donald J. Trump,120,137,0,10,0,0
 Richmond,008/64,President,,Republican,John R. Kasich,15,137,0,10,0,0
+Richmond,008/64,President,,Republican,Donald J. Trump,120,137,0,10,0,0
 Richmond,008/64,President,,Republican,Ben Carson,0,137,0,10,0,0
 Richmond,008/64,President,,Republican,Ted Cruz,11,137,0,10,0,0
-Richmond,059/61,President,,Republican,Donald J. Trump,0,6,0,0,0,0
 Richmond,059/61,President,,Republican,John R. Kasich,2,6,0,0,0,0
+Richmond,059/61,President,,Republican,Donald J. Trump,0,6,0,0,0,0
 Richmond,059/61,President,,Republican,Ben Carson,1,6,0,0,0,0
 Richmond,059/61,President,,Republican,Ted Cruz,3,6,0,0,0,0
-Richmond,016/61,President,,Republican,Donald J. Trump,8,13,0,3,0,1
 Richmond,016/61,President,,Republican,John R. Kasich,0,13,0,3,0,1
+Richmond,016/61,President,,Republican,Donald J. Trump,8,13,0,3,0,1
 Richmond,016/61,President,,Republican,Ben Carson,1,13,0,3,0,1
 Richmond,016/61,President,,Republican,Ted Cruz,6,13,0,3,0,1
-Richmond,016/62,President,,Republican,Donald J. Trump,88,104,0,6,0,0
 Richmond,016/62,President,,Republican,John R. Kasich,12,104,0,6,0,0
+Richmond,016/62,President,,Republican,Donald J. Trump,88,104,0,6,0,0
 Richmond,016/62,President,,Republican,Ben Carson,0,104,0,6,0,0
 Richmond,016/62,President,,Republican,Ted Cruz,10,104,0,6,0,0
-Richmond,059/62,President,,Republican,Donald J. Trump,68,76,0,4,0,1
 Richmond,059/62,President,,Republican,John R. Kasich,7,76,0,4,0,1
+Richmond,059/62,President,,Republican,Donald J. Trump,68,76,0,4,0,1
 Richmond,059/62,President,,Republican,Ben Carson,0,76,0,4,0,1
 Richmond,059/62,President,,Republican,Ted Cruz,6,76,0,4,0,1
-Richmond,003/62,President,,Republican,Donald J. Trump,150,164,0,4,0,3
 Richmond,003/62,President,,Republican,John R. Kasich,12,164,0,4,0,3
+Richmond,003/62,President,,Republican,Donald J. Trump,150,164,0,4,0,3
 Richmond,003/62,President,,Republican,Ben Carson,0,164,0,4,0,3
 Richmond,003/62,President,,Republican,Ted Cruz,9,164,0,4,0,3
-Richmond,003/63,President,,Republican,Donald J. Trump,49,55,0,3,0,4
 Richmond,003/63,President,,Republican,John R. Kasich,5,55,0,3,0,4
+Richmond,003/63,President,,Republican,Donald J. Trump,49,55,0,3,0,4
 Richmond,003/63,President,,Republican,Ben Carson,0,55,0,3,0,4
 Richmond,003/63,President,,Republican,Ted Cruz,7,55,0,3,0,4
-Richmond,003/61,President,,Republican,Donald J. Trump,25,34,0,4,0,1
 Richmond,003/61,President,,Republican,John R. Kasich,3,34,0,4,0,1
+Richmond,003/61,President,,Republican,Donald J. Trump,25,34,0,4,0,1
 Richmond,003/61,President,,Republican,Ben Carson,0,34,0,4,0,1
 Richmond,003/61,President,,Republican,Ted Cruz,11,34,0,4,0,1
-Richmond,036/64,President,,Republican,Donald J. Trump,81,100,0,0,0,0
 Richmond,036/64,President,,Republican,John R. Kasich,11,100,0,0,0,0
+Richmond,036/64,President,,Republican,Donald J. Trump,81,100,0,0,0,0
 Richmond,036/64,President,,Republican,Ben Carson,0,100,0,0,0,0
 Richmond,036/64,President,,Republican,Ted Cruz,8,100,0,0,0,0
-Richmond,003/64,President,,Republican,Donald J. Trump,139,155,0,12,0,0
 Richmond,003/64,President,,Republican,John R. Kasich,20,155,0,12,0,0
+Richmond,003/64,President,,Republican,Donald J. Trump,139,155,0,12,0,0
 Richmond,003/64,President,,Republican,Ben Carson,0,155,0,12,0,0
 Richmond,003/64,President,,Republican,Ted Cruz,7,155,0,12,0,0
-Richmond,039/64,President,,Republican,Donald J. Trump,96,115,0,4,0,2
 Richmond,039/64,President,,Republican,John R. Kasich,12,115,0,4,0,2
+Richmond,039/64,President,,Republican,Donald J. Trump,96,115,0,4,0,2
 Richmond,039/64,President,,Republican,Ben Carson,1,115,0,4,0,2
 Richmond,039/64,President,,Republican,Ted Cruz,11,115,0,4,0,2
-Richmond,064/61,President,,Republican,Donald J. Trump,13,18,0,1,0,0
 Richmond,064/61,President,,Republican,John R. Kasich,4,18,0,1,0,0
+Richmond,064/61,President,,Republican,Donald J. Trump,13,18,0,1,0,0
 Richmond,064/61,President,,Republican,Ben Carson,0,18,0,1,0,0
 Richmond,064/61,President,,Republican,Ted Cruz,2,18,0,1,0,0
-Richmond,039/62,President,,Republican,Donald J. Trump,169,196,0,6,0,2
 Richmond,039/62,President,,Republican,John R. Kasich,18,196,0,6,0,2
+Richmond,039/62,President,,Republican,Donald J. Trump,169,196,0,6,0,2
 Richmond,039/62,President,,Republican,Ben Carson,2,196,0,6,0,2
 Richmond,039/62,President,,Republican,Ted Cruz,14,196,0,6,0,2
-Richmond,039/61,President,,Republican,Donald J. Trump,64,92,0,7,0,0
 Richmond,039/61,President,,Republican,John R. Kasich,20,92,0,7,0,0
+Richmond,039/61,President,,Republican,Donald J. Trump,64,92,0,7,0,0
 Richmond,039/61,President,,Republican,Ben Carson,0,92,0,7,0,0
 Richmond,039/61,President,,Republican,Ted Cruz,13,92,0,7,0,0
-Richmond,064/62,President,,Republican,Donald J. Trump,48,60,0,5,0,1
 Richmond,064/62,President,,Republican,John R. Kasich,12,60,0,5,0,1
+Richmond,064/62,President,,Republican,Donald J. Trump,48,60,0,5,0,1
 Richmond,064/62,President,,Republican,Ben Carson,0,60,0,5,0,1
 Richmond,064/62,President,,Republican,Ted Cruz,6,60,0,5,0,1
-Richmond,061/62,President,,Republican,Donald J. Trump,72,87,0,4,0,0
 Richmond,061/62,President,,Republican,John R. Kasich,9,87,0,4,0,0
+Richmond,061/62,President,,Republican,Donald J. Trump,72,87,0,4,0,0
 Richmond,061/62,President,,Republican,Ben Carson,0,87,0,4,0,0
 Richmond,061/62,President,,Republican,Ted Cruz,10,87,0,4,0,0
-Richmond,061/63,President,,Republican,Donald J. Trump,52,76,0,4,0,0
 Richmond,061/63,President,,Republican,John R. Kasich,17,76,0,4,0,0
+Richmond,061/63,President,,Republican,Donald J. Trump,52,76,0,4,0,0
 Richmond,061/63,President,,Republican,Ben Carson,0,76,0,4,0,0
 Richmond,061/63,President,,Republican,Ted Cruz,10,76,0,4,0,0
-Richmond,018/64,President,,Republican,Donald J. Trump,85,89,0,6,0,1
 Richmond,018/64,President,,Republican,John R. Kasich,3,89,0,6,0,1
+Richmond,018/64,President,,Republican,Donald J. Trump,85,89,0,6,0,1
 Richmond,018/64,President,,Republican,Ben Carson,0,89,0,6,0,1
 Richmond,018/64,President,,Republican,Ted Cruz,8,89,0,6,0,1
-Richmond,061/61,President,,Republican,Donald J. Trump,1,2,0,0,0,0
 Richmond,061/61,President,,Republican,John R. Kasich,0,2,0,0,0,0
+Richmond,061/61,President,,Republican,Donald J. Trump,1,2,0,0,0,0
 Richmond,061/61,President,,Republican,Ben Carson,0,2,0,0,0,0
 Richmond,061/61,President,,Republican,Ted Cruz,1,2,0,0,0,0
-Richmond,065/62,President,,Republican,Donald J. Trump,192,227,0,6,0,1
 Richmond,065/62,President,,Republican,John R. Kasich,31,227,0,6,0,1
+Richmond,065/62,President,,Republican,Donald J. Trump,192,227,0,6,0,1
 Richmond,065/62,President,,Republican,Ben Carson,1,227,0,6,0,1
 Richmond,065/62,President,,Republican,Ted Cruz,9,227,0,6,0,1
-Richmond,065/63,President,,Republican,Donald J. Trump,89,104,0,5,0,1
 Richmond,065/63,President,,Republican,John R. Kasich,12,104,0,5,0,1
+Richmond,065/63,President,,Republican,Donald J. Trump,89,104,0,5,0,1
 Richmond,065/63,President,,Republican,Ben Carson,0,104,0,5,0,1
 Richmond,065/63,President,,Republican,Ted Cruz,8,104,0,5,0,1
-Richmond,061/64,President,,Republican,Donald J. Trump,0,0,0,0,0,0
-Richmond,061/64,President,,Republican,John R. Kasich,0,0,0,0,0,0
-Richmond,061/64,President,,Republican,Ben Carson,0,0,0,0,0,0
-Richmond,061/64,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,065/61,President,,Republican,Donald J. Trump,14,18,0,0,0,0
 Richmond,065/61,President,,Republican,John R. Kasich,2,18,0,0,0,0
+Richmond,065/61,President,,Republican,Donald J. Trump,14,18,0,0,0,0
 Richmond,065/61,President,,Republican,Ben Carson,0,18,0,0,0,0
 Richmond,065/61,President,,Republican,Ted Cruz,1,18,0,0,0,0
-Richmond,002/61,President,,Republican,Donald J. Trump,5,5,0,2,0,0
 Richmond,002/61,President,,Republican,John R. Kasich,0,5,0,2,0,0
+Richmond,002/61,President,,Republican,Donald J. Trump,5,5,0,2,0,0
 Richmond,002/61,President,,Republican,Ben Carson,1,5,0,2,0,0
 Richmond,002/61,President,,Republican,Ted Cruz,1,5,0,2,0,0
-Richmond,002/63,President,,Republican,Donald J. Trump,40,49,0,0,0,0
 Richmond,002/63,President,,Republican,John R. Kasich,8,49,0,0,0,0
+Richmond,002/63,President,,Republican,Donald J. Trump,40,49,0,0,0,0
 Richmond,002/63,President,,Republican,Ben Carson,0,49,0,0,0,0
 Richmond,002/63,President,,Republican,Ted Cruz,1,49,0,0,0,0
-Richmond,002/62,President,,Republican,Donald J. Trump,170,213,0,5,0,3
 Richmond,002/62,President,,Republican,John R. Kasich,30,213,0,5,0,3
+Richmond,002/62,President,,Republican,Donald J. Trump,170,213,0,5,0,3
 Richmond,002/62,President,,Republican,Ben Carson,3,213,0,5,0,3
 Richmond,002/62,President,,Republican,Ted Cruz,17,213,0,5,0,3
-Richmond,050/64,President,,Republican,Donald J. Trump,69,82,0,5,0,2
 Richmond,050/64,President,,Republican,John R. Kasich,11,82,0,5,0,2
+Richmond,050/64,President,,Republican,Donald J. Trump,69,82,0,5,0,2
 Richmond,050/64,President,,Republican,Ben Carson,0,82,0,5,0,2
 Richmond,050/64,President,,Republican,Ted Cruz,9,82,0,5,0,2
-Richmond,002/64,President,,Republican,Donald J. Trump,141,153,0,8,0,2
 Richmond,002/64,President,,Republican,John R. Kasich,14,153,0,8,0,2
+Richmond,002/64,President,,Republican,Donald J. Trump,141,153,0,8,0,2
 Richmond,002/64,President,,Republican,Ben Carson,0,153,0,8,0,2
 Richmond,002/64,President,,Republican,Ted Cruz,8,153,0,8,0,2
-Richmond,033/61,President,,Republican,Donald J. Trump,4,6,0,1,0,0
 Richmond,033/61,President,,Republican,John R. Kasich,0,6,0,1,0,0
+Richmond,033/61,President,,Republican,Donald J. Trump,4,6,0,1,0,0
 Richmond,033/61,President,,Republican,Ben Carson,1,6,0,1,0,0
 Richmond,033/61,President,,Republican,Ted Cruz,2,6,0,1,0,0
-Richmond,037/64,President,,Republican,Donald J. Trump,88,101,0,5,0,0
 Richmond,037/64,President,,Republican,John R. Kasich,16,101,0,5,0,0
+Richmond,037/64,President,,Republican,Donald J. Trump,88,101,0,5,0,0
 Richmond,037/64,President,,Republican,Ben Carson,0,101,0,5,0,0
 Richmond,037/64,President,,Republican,Ted Cruz,2,101,0,5,0,0
-Richmond,033/63,President,,Republican,Donald J. Trump,104,119,0,2,0,1
 Richmond,033/63,President,,Republican,John R. Kasich,9,119,0,2,0,1
+Richmond,033/63,President,,Republican,Donald J. Trump,104,119,0,2,0,1
 Richmond,033/63,President,,Republican,Ben Carson,1,119,0,2,0,1
 Richmond,033/63,President,,Republican,Ted Cruz,8,119,0,2,0,1
-Richmond,033/62,President,,Republican,Donald J. Trump,151,168,0,4,0,0
 Richmond,033/62,President,,Republican,John R. Kasich,12,168,0,4,0,0
+Richmond,033/62,President,,Republican,Donald J. Trump,151,168,0,4,0,0
 Richmond,033/62,President,,Republican,Ben Carson,1,168,0,4,0,0
 Richmond,033/62,President,,Republican,Ted Cruz,7,168,0,4,0,0
-Richmond,037/61,President,,Republican,Donald J. Trump,37,56,0,1,1,2
 Richmond,037/61,President,,Republican,John R. Kasich,10,56,0,1,1,2
+Richmond,037/61,President,,Republican,Donald J. Trump,37,56,0,1,1,2
 Richmond,037/61,President,,Republican,Ben Carson,3,56,0,1,1,2
 Richmond,037/61,President,,Republican,Ted Cruz,10,56,0,1,1,2
-Richmond,033/64,President,,Republican,Donald J. Trump,92,106,0,3,0,1
 Richmond,033/64,President,,Republican,John R. Kasich,6,106,0,3,0,1
+Richmond,033/64,President,,Republican,Donald J. Trump,92,106,0,3,0,1
 Richmond,033/64,President,,Republican,Ben Carson,2,106,0,3,0,1
 Richmond,033/64,President,,Republican,Ted Cruz,8,106,0,3,0,1
-Richmond,037/63,President,,Republican,Donald J. Trump,42,51,0,1,0,2
 Richmond,037/63,President,,Republican,John R. Kasich,2,51,0,1,0,2
+Richmond,037/63,President,,Republican,Donald J. Trump,42,51,0,1,0,2
 Richmond,037/63,President,,Republican,Ben Carson,0,51,0,1,0,2
 Richmond,037/63,President,,Republican,Ted Cruz,10,51,0,1,0,2
-Richmond,037/62,President,,Republican,Donald J. Trump,165,183,0,11,0,0
 Richmond,037/62,President,,Republican,John R. Kasich,19,183,0,11,0,0
+Richmond,037/62,President,,Republican,Donald J. Trump,165,183,0,11,0,0
 Richmond,037/62,President,,Republican,Ben Carson,0,183,0,11,0,0
 Richmond,037/62,President,,Republican,Ted Cruz,10,183,0,11,0,0
-Richmond,060/61,President,,Republican,Donald J. Trump,19,31,0,0,0,1
 Richmond,060/61,President,,Republican,John R. Kasich,1,31,0,0,0,1
+Richmond,060/61,President,,Republican,Donald J. Trump,19,31,0,0,0,1
 Richmond,060/61,President,,Republican,Ben Carson,1,31,0,0,0,1
 Richmond,060/61,President,,Republican,Ted Cruz,11,31,0,0,0,1
-Richmond,054/63,President,,Republican,Donald J. Trump,57,71,0,7,0,0
 Richmond,054/63,President,,Republican,John R. Kasich,9,71,0,7,0,0
+Richmond,054/63,President,,Republican,Donald J. Trump,57,71,0,7,0,0
 Richmond,054/63,President,,Republican,Ben Carson,0,71,0,7,0,0
 Richmond,054/63,President,,Republican,Ted Cruz,12,71,0,7,0,0
-Richmond,060/63,President,,Republican,Donald J. Trump,70,92,0,1,0,0
 Richmond,060/63,President,,Republican,John R. Kasich,16,92,0,1,0,0
+Richmond,060/63,President,,Republican,Donald J. Trump,70,92,0,1,0,0
 Richmond,060/63,President,,Republican,Ben Carson,0,92,0,1,0,0
 Richmond,060/63,President,,Republican,Ted Cruz,7,92,0,1,0,0
-Richmond,054/61,President,,Republican,Donald J. Trump,13,14,0,2,0,0
 Richmond,054/61,President,,Republican,John R. Kasich,3,14,0,2,0,0
+Richmond,054/61,President,,Republican,Donald J. Trump,13,14,0,2,0,0
 Richmond,054/61,President,,Republican,Ben Carson,0,14,0,2,0,0
 Richmond,054/61,President,,Republican,Ted Cruz,0,14,0,2,0,0
-Richmond,060/64,President,,Republican,Donald J. Trump,0,0,0,0,0,0
-Richmond,060/64,President,,Republican,John R. Kasich,0,0,0,0,0,0
-Richmond,060/64,President,,Republican,Ben Carson,0,0,0,0,0,0
-Richmond,060/64,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,054/64,President,,Republican,Donald J. Trump,0,0,0,0,0,0
-Richmond,054/64,President,,Republican,John R. Kasich,0,0,0,0,0,0
-Richmond,054/64,President,,Republican,Ben Carson,0,0,0,0,0,0
-Richmond,054/64,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,017/63,President,,Republican,Donald J. Trump,22,30,0,2,0,0
 Richmond,017/63,President,,Republican,John R. Kasich,4,30,0,2,0,0
+Richmond,017/63,President,,Republican,Donald J. Trump,22,30,0,2,0,0
 Richmond,017/63,President,,Republican,Ben Carson,0,30,0,2,0,0
 Richmond,017/63,President,,Republican,Ted Cruz,5,30,0,2,0,0
-Richmond,017/62,President,,Republican,Donald J. Trump,133,157,0,5,0,3
 Richmond,017/62,President,,Republican,John R. Kasich,16,157,0,5,0,3
+Richmond,017/62,President,,Republican,Donald J. Trump,133,157,0,5,0,3
 Richmond,017/62,President,,Republican,Ben Carson,0,157,0,5,0,3
 Richmond,017/62,President,,Republican,Ted Cruz,16,157,0,5,0,3
-Richmond,017/61,President,,Republican,Donald J. Trump,11,20,0,1,0,0
 Richmond,017/61,President,,Republican,John R. Kasich,4,20,0,1,0,0
+Richmond,017/61,President,,Republican,Donald J. Trump,11,20,0,1,0,0
 Richmond,017/61,President,,Republican,Ben Carson,1,20,0,1,0,0
 Richmond,017/61,President,,Republican,Ted Cruz,5,20,0,1,0,0
-Richmond,041/63,President,,Republican,Donald J. Trump,3,7,0,0,0,0
 Richmond,041/63,President,,Republican,John R. Kasich,1,7,0,0,0,0
+Richmond,041/63,President,,Republican,Donald J. Trump,3,7,0,0,0,0
 Richmond,041/63,President,,Republican,Ben Carson,0,7,0,0,0,0
 Richmond,041/63,President,,Republican,Ted Cruz,3,7,0,0,0,0
-Richmond,043/64,President,,Republican,Donald J. Trump,44,55,0,3,0,0
 Richmond,043/64,President,,Republican,John R. Kasich,7,55,0,3,0,0
+Richmond,043/64,President,,Republican,Donald J. Trump,44,55,0,3,0,0
 Richmond,043/64,President,,Republican,Ben Carson,0,55,0,3,0,0
 Richmond,043/64,President,,Republican,Ted Cruz,3,55,0,3,0,0
-Richmond,017/64,President,,Republican,Donald J. Trump,117,148,0,7,0,2
 Richmond,017/64,President,,Republican,John R. Kasich,20,148,0,7,0,2
+Richmond,017/64,President,,Republican,Donald J. Trump,117,148,0,7,0,2
 Richmond,017/64,President,,Republican,Ben Carson,1,148,0,7,0,2
 Richmond,017/64,President,,Republican,Ted Cruz,18,148,0,7,0,2
-Richmond,040/63,President,,Republican,Donald J. Trump,14,17,0,1,0,0
 Richmond,040/63,President,,Republican,John R. Kasich,1,17,0,1,0,0
+Richmond,040/63,President,,Republican,Donald J. Trump,14,17,0,1,0,0
 Richmond,040/63,President,,Republican,Ben Carson,1,17,0,1,0,0
 Richmond,040/63,President,,Republican,Ted Cruz,2,17,0,1,0,0
-Richmond,040/62,President,,Republican,Donald J. Trump,124,143,0,5,0,1
 Richmond,040/62,President,,Republican,John R. Kasich,18,143,0,5,0,1
+Richmond,040/62,President,,Republican,Donald J. Trump,124,143,0,5,0,1
 Richmond,040/62,President,,Republican,Ben Carson,0,143,0,5,0,1
 Richmond,040/62,President,,Republican,Ted Cruz,7,143,0,5,0,1
-Richmond,040/61,President,,Republican,Donald J. Trump,87,125,0,7,0,0
 Richmond,040/61,President,,Republican,John R. Kasich,37,125,0,7,0,0
+Richmond,040/61,President,,Republican,Donald J. Trump,87,125,0,7,0,0
 Richmond,040/61,President,,Republican,Ben Carson,0,125,0,7,0,0
 Richmond,040/61,President,,Republican,Ted Cruz,8,125,0,7,0,0
-Richmond,006/61,President,,Republican,Donald J. Trump,20,31,0,9,0,0
 Richmond,006/61,President,,Republican,John R. Kasich,7,31,0,9,0,0
+Richmond,006/61,President,,Republican,Donald J. Trump,20,31,0,9,0,0
 Richmond,006/61,President,,Republican,Ben Carson,1,31,0,9,0,0
 Richmond,006/61,President,,Republican,Ted Cruz,11,31,0,9,0,0
-Richmond,049/61,President,,Republican,Donald J. Trump,29,40,0,1,0,0
 Richmond,049/61,President,,Republican,John R. Kasich,6,40,0,1,0,0
+Richmond,049/61,President,,Republican,Donald J. Trump,29,40,0,1,0,0
 Richmond,049/61,President,,Republican,Ben Carson,0,40,0,1,0,0
 Richmond,049/61,President,,Republican,Ted Cruz,6,40,0,1,0,0
-Richmond,049/62,President,,Republican,Donald J. Trump,140,152,0,3,0,1
 Richmond,049/62,President,,Republican,John R. Kasich,9,152,0,3,0,1
+Richmond,049/62,President,,Republican,Donald J. Trump,140,152,0,3,0,1
 Richmond,049/62,President,,Republican,Ben Carson,1,152,0,3,0,1
 Richmond,049/62,President,,Republican,Ted Cruz,6,152,0,3,0,1
-Richmond,006/62,President,,Republican,Donald J. Trump,105,121,0,6,0,1
 Richmond,006/62,President,,Republican,John R. Kasich,13,121,0,6,0,1
+Richmond,006/62,President,,Republican,Donald J. Trump,105,121,0,6,0,1
 Richmond,006/62,President,,Republican,Ben Carson,1,121,0,6,0,1
 Richmond,006/62,President,,Republican,Ted Cruz,9,121,0,6,0,1
-Richmond,041/64,President,,Republican,Donald J. Trump,69,78,0,0,0,0
 Richmond,041/64,President,,Republican,John R. Kasich,4,78,0,0,0,0
+Richmond,041/64,President,,Republican,Donald J. Trump,69,78,0,0,0,0
 Richmond,041/64,President,,Republican,Ben Carson,0,78,0,0,0,0
 Richmond,041/64,President,,Republican,Ted Cruz,5,78,0,0,0,0
-Richmond,021/64,President,,Republican,Donald J. Trump,85,97,0,3,0,0
 Richmond,021/64,President,,Republican,John R. Kasich,8,97,0,3,0,0
+Richmond,021/64,President,,Republican,Donald J. Trump,85,97,0,3,0,0
 Richmond,021/64,President,,Republican,Ben Carson,0,97,0,3,0,0
 Richmond,021/64,President,,Republican,Ted Cruz,7,97,0,3,0,0
-Richmond,021/62,President,,Republican,Donald J. Trump,157,176,0,4,0,1
 Richmond,021/62,President,,Republican,John R. Kasich,13,176,0,4,0,1
+Richmond,021/62,President,,Republican,Donald J. Trump,157,176,0,4,0,1
 Richmond,021/62,President,,Republican,Ben Carson,0,176,0,4,0,1
 Richmond,021/62,President,,Republican,Ted Cruz,11,176,0,4,0,1
-Richmond,041/61,President,,Republican,Donald J. Trump,111,138,0,3,0,0
 Richmond,041/61,President,,Republican,John R. Kasich,17,138,0,3,0,0
+Richmond,041/61,President,,Republican,Donald J. Trump,111,138,0,3,0,0
 Richmond,041/61,President,,Republican,Ben Carson,2,138,0,3,0,0
 Richmond,041/61,President,,Republican,Ted Cruz,11,138,0,3,0,0
-Richmond,041/62,President,,Republican,Donald J. Trump,157,166,0,10,0,0
 Richmond,041/62,President,,Republican,John R. Kasich,10,166,0,10,0,0
+Richmond,041/62,President,,Republican,Donald J. Trump,157,166,0,10,0,0
 Richmond,041/62,President,,Republican,Ben Carson,0,166,0,10,0,0
 Richmond,041/62,President,,Republican,Ted Cruz,9,166,0,10,0,0
-Richmond,021/61,President,,Republican,Donald J. Trump,11,13,0,2,0,1
 Richmond,021/61,President,,Republican,John R. Kasich,1,13,0,2,0,1
+Richmond,021/61,President,,Republican,Donald J. Trump,11,13,0,2,0,1
 Richmond,021/61,President,,Republican,Ben Carson,0,13,0,2,0,1
 Richmond,021/61,President,,Republican,Ted Cruz,4,13,0,2,0,1
-Richmond,076/63,President,,Republican,Donald J. Trump,0,0,0,0,0,0
 Richmond,076/63,President,,Republican,John R. Kasich,0,0,0,0,0,0
+Richmond,076/63,President,,Republican,Donald J. Trump,0,0,0,0,0,0
 Richmond,076/63,President,,Republican,Ben Carson,0,0,0,0,0,0
 Richmond,076/63,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,015/64,President,,Republican,Donald J. Trump,174,191,0,6,0,0
 Richmond,015/64,President,,Republican,John R. Kasich,17,191,0,6,0,0
+Richmond,015/64,President,,Republican,Donald J. Trump,174,191,0,6,0,0
 Richmond,015/64,President,,Republican,Ben Carson,0,191,0,6,0,0
 Richmond,015/64,President,,Republican,Ted Cruz,6,191,0,6,0,0
-Richmond,029/64,President,,Republican,Donald J. Trump,103,124,0,9,0,1
 Richmond,029/64,President,,Republican,John R. Kasich,17,124,0,9,0,1
+Richmond,029/64,President,,Republican,Donald J. Trump,103,124,0,9,0,1
 Richmond,029/64,President,,Republican,Ben Carson,1,124,0,9,0,1
 Richmond,029/64,President,,Republican,Ted Cruz,13,124,0,9,0,1
-Richmond,048/63,President,,Republican,Donald J. Trump,135,156,0,2,1,0
 Richmond,048/63,President,,Republican,John R. Kasich,18,156,0,2,1,0
+Richmond,048/63,President,,Republican,Donald J. Trump,135,156,0,2,1,0
 Richmond,048/63,President,,Republican,Ben Carson,0,156,0,2,1,0
 Richmond,048/63,President,,Republican,Ted Cruz,6,156,0,2,1,0
-Richmond,048/62,President,,Republican,Donald J. Trump,137,147,0,3,0,2
 Richmond,048/62,President,,Republican,John R. Kasich,8,147,0,3,0,2
+Richmond,048/62,President,,Republican,Donald J. Trump,137,147,0,3,0,2
 Richmond,048/62,President,,Republican,Ben Carson,2,147,0,3,0,2
 Richmond,048/62,President,,Republican,Ted Cruz,5,147,0,3,0,2
-Richmond,048/61,President,,Republican,Donald J. Trump,85,101,0,1,0,1
 Richmond,048/61,President,,Republican,John R. Kasich,11,101,0,1,0,1
+Richmond,048/61,President,,Republican,Donald J. Trump,85,101,0,1,0,1
 Richmond,048/61,President,,Republican,Ben Carson,0,101,0,1,0,1
 Richmond,048/61,President,,Republican,Ted Cruz,7,101,0,1,0,1
-Richmond,030/64,President,,Republican,Donald J. Trump,84,89,0,2,0,4
 Richmond,030/64,President,,Republican,John R. Kasich,8,89,0,2,0,4
+Richmond,030/64,President,,Republican,Donald J. Trump,84,89,0,2,0,4
 Richmond,030/64,President,,Republican,Ben Carson,0,89,0,2,0,4
 Richmond,030/64,President,,Republican,Ted Cruz,3,89,0,2,0,4
-Richmond,064/63,President,,Republican,Donald J. Trump,112,144,0,7,0,0
 Richmond,064/63,President,,Republican,John R. Kasich,24,144,0,7,0,0
+Richmond,064/63,President,,Republican,Donald J. Trump,112,144,0,7,0,0
 Richmond,064/63,President,,Republican,Ben Carson,2,144,0,7,0,0
 Richmond,064/63,President,,Republican,Ted Cruz,13,144,0,7,0,0
-Richmond,057/64,President,,Republican,Donald J. Trump,0,0,0,0,0,0
-Richmond,057/64,President,,Republican,John R. Kasich,0,0,0,0,0,0
-Richmond,057/64,President,,Republican,Ben Carson,0,0,0,0,0,0
-Richmond,057/64,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,059/63,President,,Republican,Donald J. Trump,106,118,0,6,0,0
 Richmond,059/63,President,,Republican,John R. Kasich,7,118,0,6,0,0
+Richmond,059/63,President,,Republican,Donald J. Trump,106,118,0,6,0,0
 Richmond,059/63,President,,Republican,Ben Carson,0,118,0,6,0,0
 Richmond,059/63,President,,Republican,Ted Cruz,10,118,0,6,0,0
-Richmond,032/63,President,,Republican,Donald J. Trump,99,112,0,7,3,0
 Richmond,032/63,President,,Republican,John R. Kasich,10,112,0,7,3,0
+Richmond,032/63,President,,Republican,Donald J. Trump,99,112,0,7,3,0
 Richmond,032/63,President,,Republican,Ben Carson,0,112,0,7,3,0
 Richmond,032/63,President,,Republican,Ted Cruz,13,112,0,7,3,0
-Richmond,056/64,President,,Republican,Donald J. Trump,0,0,0,0,0,0
 Richmond,056/64,President,,Republican,John R. Kasich,0,0,0,0,0,0
+Richmond,056/64,President,,Republican,Donald J. Trump,0,0,0,0,0,0
 Richmond,056/64,President,,Republican,Ben Carson,0,0,0,0,0,0
 Richmond,056/64,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,058/64,President,,Republican,Donald J. Trump,0,0,0,0,0,0
-Richmond,058/64,President,,Republican,John R. Kasich,0,0,0,0,0,0
-Richmond,058/64,President,,Republican,Ben Carson,0,0,0,0,0,0
-Richmond,058/64,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,016/63,President,,Republican,Donald J. Trump,55,62,0,1,0,1
 Richmond,016/63,President,,Republican,John R. Kasich,4,62,0,1,0,1
+Richmond,016/63,President,,Republican,Donald J. Trump,55,62,0,1,0,1
 Richmond,016/63,President,,Republican,Ben Carson,0,62,0,1,0,1
 Richmond,016/63,President,,Republican,Ted Cruz,5,62,0,1,0,1
-Richmond,058/62,President,,Republican,Donald J. Trump,165,179,0,8,0,2
 Richmond,058/62,President,,Republican,John R. Kasich,11,179,0,8,0,2
+Richmond,058/62,President,,Republican,Donald J. Trump,165,179,0,8,0,2
 Richmond,058/62,President,,Republican,Ben Carson,0,179,0,8,0,2
 Richmond,058/62,President,,Republican,Ted Cruz,13,179,0,8,0,2
-Richmond,058/63,President,,Republican,Donald J. Trump,79,96,0,8,4,0
 Richmond,058/63,President,,Republican,John R. Kasich,9,96,0,8,4,0
+Richmond,058/63,President,,Republican,Donald J. Trump,79,96,0,8,4,0
 Richmond,058/63,President,,Republican,Ben Carson,0,96,0,8,4,0
 Richmond,058/63,President,,Republican,Ted Cruz,19,96,0,8,4,0
-Richmond,058/61,President,,Republican,Donald J. Trump,2,1,0,1,0,0
 Richmond,058/61,President,,Republican,John R. Kasich,0,1,0,1,0,0
+Richmond,058/61,President,,Republican,Donald J. Trump,2,1,0,1,0,0
 Richmond,058/61,President,,Republican,Ben Carson,0,1,0,1,0,0
 Richmond,058/61,President,,Republican,Ted Cruz,0,1,0,1,0,0
-Richmond,052/64,President,,Republican,Donald J. Trump,74,86,0,1,0,2
 Richmond,052/64,President,,Republican,John R. Kasich,8,86,0,1,0,2
+Richmond,052/64,President,,Republican,Donald J. Trump,74,86,0,1,0,2
 Richmond,052/64,President,,Republican,Ben Carson,0,86,0,1,0,2
 Richmond,052/64,President,,Republican,Ted Cruz,7,86,0,1,0,2
-Richmond,027/63,President,,Republican,Donald J. Trump,62,74,0,4,0,0
 Richmond,027/63,President,,Republican,John R. Kasich,12,74,0,4,0,0
+Richmond,027/63,President,,Republican,Donald J. Trump,62,74,0,4,0,0
 Richmond,027/63,President,,Republican,Ben Carson,0,74,0,4,0,0
 Richmond,027/63,President,,Republican,Ted Cruz,4,74,0,4,0,0
-Richmond,013/63,President,,Republican,Donald J. Trump,64,75,0,4,0,2
 Richmond,013/63,President,,Republican,John R. Kasich,8,75,0,4,0,2
+Richmond,013/63,President,,Republican,Donald J. Trump,64,75,0,4,0,2
 Richmond,013/63,President,,Republican,Ben Carson,0,75,0,4,0,2
 Richmond,013/63,President,,Republican,Ted Cruz,8,75,0,4,0,2
-Richmond,013/62,President,,Republican,Donald J. Trump,150,170,0,4,0,1
 Richmond,013/62,President,,Republican,John R. Kasich,19,170,0,4,0,1
+Richmond,013/62,President,,Republican,Donald J. Trump,150,170,0,4,0,1
 Richmond,013/62,President,,Republican,Ben Carson,0,170,0,4,0,1
 Richmond,013/62,President,,Republican,Ted Cruz,6,170,0,4,0,1
-Richmond,013/61,President,,Republican,Donald J. Trump,22,30,0,3,0,1
 Richmond,013/61,President,,Republican,John R. Kasich,4,30,0,3,0,1
+Richmond,013/61,President,,Republican,Donald J. Trump,22,30,0,3,0,1
 Richmond,013/61,President,,Republican,Ben Carson,0,30,0,3,0,1
 Richmond,013/61,President,,Republican,Ted Cruz,8,30,0,3,0,1
-Richmond,045/61,President,,Republican,Donald J. Trump,66,90,0,1,0,0
 Richmond,045/61,President,,Republican,John R. Kasich,10,90,0,1,0,0
+Richmond,045/61,President,,Republican,Donald J. Trump,66,90,0,1,0,0
 Richmond,045/61,President,,Republican,Ben Carson,1,90,0,1,0,0
 Richmond,045/61,President,,Republican,Ted Cruz,14,90,0,1,0,0
-Richmond,045/62,President,,Republican,Donald J. Trump,128,143,0,1,0,0
 Richmond,045/62,President,,Republican,John R. Kasich,9,143,0,1,0,0
+Richmond,045/62,President,,Republican,Donald J. Trump,128,143,0,1,0,0
 Richmond,045/62,President,,Republican,Ben Carson,0,143,0,1,0,0
 Richmond,045/62,President,,Republican,Ted Cruz,6,143,0,1,0,0
-Richmond,045/63,President,,Republican,Donald J. Trump,1,4,0,0,0,0
 Richmond,045/63,President,,Republican,John R. Kasich,1,4,0,0,0,0
+Richmond,045/63,President,,Republican,Donald J. Trump,1,4,0,0,0,0
 Richmond,045/63,President,,Republican,Ben Carson,0,4,0,0,0,0
 Richmond,045/63,President,,Republican,Ted Cruz,2,4,0,0,0,0
-Richmond,044/63,President,,Republican,Donald J. Trump,4,12,0,0,0,0
 Richmond,044/63,President,,Republican,John R. Kasich,3,12,0,0,0,0
+Richmond,044/63,President,,Republican,Donald J. Trump,4,12,0,0,0,0
 Richmond,044/63,President,,Republican,Ben Carson,1,12,0,0,0,0
 Richmond,044/63,President,,Republican,Ted Cruz,4,12,0,0,0,0
-Richmond,044/62,President,,Republican,Donald J. Trump,149,168,0,5,4,0
 Richmond,044/62,President,,Republican,John R. Kasich,13,168,0,5,4,0
+Richmond,044/62,President,,Republican,Donald J. Trump,149,168,0,5,4,0
 Richmond,044/62,President,,Republican,Ben Carson,1,168,0,5,4,0
 Richmond,044/62,President,,Republican,Ted Cruz,13,168,0,5,4,0
-Richmond,044/61,President,,Republican,Donald J. Trump,69,87,0,5,0,0
 Richmond,044/61,President,,Republican,John R. Kasich,13,87,0,5,0,0
+Richmond,044/61,President,,Republican,Donald J. Trump,69,87,0,5,0,0
 Richmond,044/61,President,,Republican,Ben Carson,0,87,0,5,0,0
 Richmond,044/61,President,,Republican,Ted Cruz,10,87,0,5,0,0
-Richmond,021/63,President,,Republican,Donald J. Trump,111,119,0,2,2,2
 Richmond,021/63,President,,Republican,John R. Kasich,4,119,0,2,2,2
+Richmond,021/63,President,,Republican,Donald J. Trump,111,119,0,2,2,2
 Richmond,021/63,President,,Republican,Ben Carson,1,119,0,2,2,2
 Richmond,021/63,President,,Republican,Ted Cruz,9,119,0,2,2,2
-Richmond,019/61,President,,Republican,Donald J. Trump,32,36,0,2,0,2
 Richmond,019/61,President,,Republican,John R. Kasich,2,36,0,2,0,2
+Richmond,019/61,President,,Republican,Donald J. Trump,32,36,0,2,0,2
 Richmond,019/61,President,,Republican,Ben Carson,0,36,0,2,0,2
 Richmond,019/61,President,,Republican,Ted Cruz,6,36,0,2,0,2
-Richmond,019/63,President,,Republican,Donald J. Trump,42,51,0,1,0,2
 Richmond,019/63,President,,Republican,John R. Kasich,5,51,0,1,0,2
+Richmond,019/63,President,,Republican,Donald J. Trump,42,51,0,1,0,2
 Richmond,019/63,President,,Republican,Ben Carson,0,51,0,1,0,2
 Richmond,019/63,President,,Republican,Ted Cruz,7,51,0,1,0,2
-Richmond,019/62,President,,Republican,Donald J. Trump,158,172,0,7,0,1
 Richmond,019/62,President,,Republican,John R. Kasich,14,172,0,7,0,1
+Richmond,019/62,President,,Republican,Donald J. Trump,158,172,0,7,0,1
 Richmond,019/62,President,,Republican,Ben Carson,1,172,0,7,0,1
 Richmond,019/62,President,,Republican,Ted Cruz,7,172,0,7,0,1
-Richmond,019/64,President,,Republican,Donald J. Trump,40,43,0,12,0,2
 Richmond,019/64,President,,Republican,John R. Kasich,7,43,0,12,0,2
+Richmond,019/64,President,,Republican,Donald J. Trump,40,43,0,12,0,2
 Richmond,019/64,President,,Republican,Ben Carson,0,43,0,12,0,2
 Richmond,019/64,President,,Republican,Ted Cruz,9,43,0,12,0,2
-Richmond,032/62,President,,Republican,Donald J. Trump,146,166,0,7,1,1
 Richmond,032/62,President,,Republican,John R. Kasich,17,166,0,7,1,1
+Richmond,032/62,President,,Republican,Donald J. Trump,146,166,0,7,1,1
 Richmond,032/62,President,,Republican,Ben Carson,1,166,0,7,1,1
 Richmond,032/62,President,,Republican,Ted Cruz,9,166,0,7,1,1
-Richmond,027/61,President,,Republican,Donald J. Trump,33,36,0,2,0,1
 Richmond,027/61,President,,Republican,John R. Kasich,1,36,0,2,0,1
+Richmond,027/61,President,,Republican,Donald J. Trump,33,36,0,2,0,1
 Richmond,027/61,President,,Republican,Ben Carson,2,36,0,2,0,1
 Richmond,027/61,President,,Republican,Ted Cruz,3,36,0,2,0,1
-Richmond,027/62,President,,Republican,Donald J. Trump,144,161,0,3,0,2
 Richmond,027/62,President,,Republican,John R. Kasich,11,161,0,3,0,2
+Richmond,027/62,President,,Republican,Donald J. Trump,144,161,0,3,0,2
 Richmond,027/62,President,,Republican,Ben Carson,0,161,0,3,0,2
 Richmond,027/62,President,,Republican,Ted Cruz,10,161,0,3,0,2
-Richmond,032/61,President,,Republican,Donald J. Trump,11,11,0,9,0,0
 Richmond,032/61,President,,Republican,John R. Kasich,2,11,0,9,0,0
+Richmond,032/61,President,,Republican,Donald J. Trump,11,11,0,9,0,0
 Richmond,032/61,President,,Republican,Ben Carson,0,11,0,9,0,0
 Richmond,032/61,President,,Republican,Ted Cruz,5,11,0,9,0,0
-Richmond,043/62,President,,Republican,Donald J. Trump,120,145,0,1,0,1
 Richmond,043/62,President,,Republican,John R. Kasich,19,145,0,1,0,1
+Richmond,043/62,President,,Republican,Donald J. Trump,120,145,0,1,0,1
 Richmond,043/62,President,,Republican,Ben Carson,0,145,0,1,0,1
 Richmond,043/62,President,,Republican,Ted Cruz,8,145,0,1,0,1
-Richmond,043/63,President,,Republican,Donald J. Trump,11,20,0,0,0,0
 Richmond,043/63,President,,Republican,John R. Kasich,3,20,0,0,0,0
+Richmond,043/63,President,,Republican,Donald J. Trump,11,20,0,0,0,0
 Richmond,043/63,President,,Republican,Ben Carson,3,20,0,0,0,0
 Richmond,043/63,President,,Republican,Ted Cruz,3,20,0,0,0,0
-Richmond,032/64,President,,Republican,Donald J. Trump,108,123,0,5,0,1
 Richmond,032/64,President,,Republican,John R. Kasich,15,123,0,5,0,1
+Richmond,032/64,President,,Republican,Donald J. Trump,108,123,0,5,0,1
 Richmond,032/64,President,,Republican,Ben Carson,1,123,0,5,0,1
 Richmond,032/64,President,,Republican,Ted Cruz,5,123,0,5,0,1
-Richmond,043/61,President,,Republican,Donald J. Trump,65,92,0,3,0,0
 Richmond,043/61,President,,Republican,John R. Kasich,17,92,0,3,0,0
+Richmond,043/61,President,,Republican,Donald J. Trump,65,92,0,3,0,0
 Richmond,043/61,President,,Republican,Ben Carson,0,92,0,3,0,0
 Richmond,043/61,President,,Republican,Ted Cruz,13,92,0,3,0,0
-Richmond,014/63,President,,Republican,Donald J. Trump,62,78,0,2,0,0
 Richmond,014/63,President,,Republican,John R. Kasich,6,78,0,2,0,0
+Richmond,014/63,President,,Republican,Donald J. Trump,62,78,0,2,0,0
 Richmond,014/63,President,,Republican,Ben Carson,1,78,0,2,0,0
 Richmond,014/63,President,,Republican,Ted Cruz,10,78,0,2,0,0
-Richmond,023/64,President,,Republican,Donald J. Trump,104,131,0,4,1,1
 Richmond,023/64,President,,Republican,John R. Kasich,16,131,0,4,1,1
+Richmond,023/64,President,,Republican,Donald J. Trump,104,131,0,4,1,1
 Richmond,023/64,President,,Republican,Ben Carson,0,131,0,4,1,1
 Richmond,023/64,President,,Republican,Ted Cruz,16,131,0,4,1,1
-Richmond,063/61,President,,Republican,Donald J. Trump,19,22,0,3,0,0
 Richmond,063/61,President,,Republican,John R. Kasich,3,22,0,3,0,0
+Richmond,063/61,President,,Republican,Donald J. Trump,19,22,0,3,0,0
 Richmond,063/61,President,,Republican,Ben Carson,0,22,0,3,0,0
 Richmond,063/61,President,,Republican,Ted Cruz,1,22,0,3,0,0
-Richmond,063/62,President,,Republican,Donald J. Trump,47,50,0,3,0,0
 Richmond,063/62,President,,Republican,John R. Kasich,5,50,0,3,0,0
+Richmond,063/62,President,,Republican,Donald J. Trump,47,50,0,3,0,0
 Richmond,063/62,President,,Republican,Ben Carson,0,50,0,3,0,0
 Richmond,063/62,President,,Republican,Ted Cruz,1,50,0,3,0,0
-Richmond,063/63,President,,Republican,Donald J. Trump,114,125,0,4,0,0
 Richmond,063/63,President,,Republican,John R. Kasich,10,125,0,4,0,0
+Richmond,063/63,President,,Republican,Donald J. Trump,114,125,0,4,0,0
 Richmond,063/63,President,,Republican,Ben Carson,0,125,0,4,0,0
 Richmond,063/63,President,,Republican,Ted Cruz,5,125,0,4,0,0
-Richmond,023/61,President,,Republican,Donald J. Trump,37,46,0,2,0,2
 Richmond,023/61,President,,Republican,John R. Kasich,8,46,0,2,0,2
+Richmond,023/61,President,,Republican,Donald J. Trump,37,46,0,2,0,2
 Richmond,023/61,President,,Republican,Ben Carson,0,46,0,2,0,2
 Richmond,023/61,President,,Republican,Ted Cruz,5,46,0,2,0,2
-Richmond,023/62,President,,Republican,Donald J. Trump,144,162,0,8,0,0
 Richmond,023/62,President,,Republican,John R. Kasich,12,162,0,8,0,0
+Richmond,023/62,President,,Republican,Donald J. Trump,144,162,0,8,0,0
 Richmond,023/62,President,,Republican,Ben Carson,0,162,0,8,0,0
 Richmond,023/62,President,,Republican,Ted Cruz,14,162,0,8,0,0
-Richmond,023/63,President,,Republican,Donald J. Trump,52,61,0,1,0,0
 Richmond,023/63,President,,Republican,John R. Kasich,5,61,0,1,0,0
+Richmond,023/63,President,,Republican,Donald J. Trump,52,61,0,1,0,0
 Richmond,023/63,President,,Republican,Ben Carson,1,61,0,1,0,0
 Richmond,023/63,President,,Republican,Ted Cruz,4,61,0,1,0,0
-Richmond,010/62,President,,Republican,Donald J. Trump,86,94,0,1,0,0
 Richmond,010/62,President,,Republican,John R. Kasich,3,94,0,1,0,0
+Richmond,010/62,President,,Republican,Donald J. Trump,86,94,0,1,0,0
 Richmond,010/62,President,,Republican,Ben Carson,0,94,0,1,0,0
 Richmond,010/62,President,,Republican,Ted Cruz,6,94,0,1,0,0
-Richmond,010/63,President,,Republican,Donald J. Trump,30,39,0,3,0,2
 Richmond,010/63,President,,Republican,John R. Kasich,8,39,0,3,0,2
+Richmond,010/63,President,,Republican,Donald J. Trump,30,39,0,3,0,2
 Richmond,010/63,President,,Republican,Ben Carson,0,39,0,3,0,2
 Richmond,010/63,President,,Republican,Ted Cruz,6,39,0,3,0,2
-Richmond,007/64,President,,Republican,Donald J. Trump,153,173,0,7,0,1
 Richmond,007/64,President,,Republican,John R. Kasich,14,173,0,7,0,1
+Richmond,007/64,President,,Republican,Donald J. Trump,153,173,0,7,0,1
 Richmond,007/64,President,,Republican,Ben Carson,0,173,0,7,0,1
 Richmond,007/64,President,,Republican,Ted Cruz,13,173,0,7,0,1
-Richmond,010/61,President,,Republican,Donald J. Trump,16,24,0,0,0,1
 Richmond,010/61,President,,Republican,John R. Kasich,3,24,0,0,0,1
+Richmond,010/61,President,,Republican,Donald J. Trump,16,24,0,0,0,1
 Richmond,010/61,President,,Republican,Ben Carson,0,24,0,0,0,1
 Richmond,010/61,President,,Republican,Ted Cruz,6,24,0,0,0,1
-Richmond,007/62,President,,Republican,Donald J. Trump,107,130,0,2,0,0
 Richmond,007/62,President,,Republican,John R. Kasich,10,130,0,2,0,0
+Richmond,007/62,President,,Republican,Donald J. Trump,107,130,0,2,0,0
 Richmond,007/62,President,,Republican,Ben Carson,0,130,0,2,0,0
 Richmond,007/62,President,,Republican,Ted Cruz,15,130,0,2,0,0
-Richmond,007/63,President,,Republican,Donald J. Trump,52,65,0,0,0,0
 Richmond,007/63,President,,Republican,John R. Kasich,8,65,0,0,0,0
+Richmond,007/63,President,,Republican,Donald J. Trump,52,65,0,0,0,0
 Richmond,007/63,President,,Republican,Ben Carson,0,65,0,0,0,0
 Richmond,007/63,President,,Republican,Ted Cruz,4,65,0,0,0,0
-Richmond,010/64,President,,Republican,Donald J. Trump,158,171,0,3,0,3
 Richmond,010/64,President,,Republican,John R. Kasich,11,171,0,3,0,3
+Richmond,010/64,President,,Republican,Donald J. Trump,158,171,0,3,0,3
 Richmond,010/64,President,,Republican,Ben Carson,0,171,0,3,0,3
 Richmond,010/64,President,,Republican,Ted Cruz,8,171,0,3,0,3
-Richmond,007/61,President,,Republican,Donald J. Trump,4,5,0,0,0,0
 Richmond,007/61,President,,Republican,John R. Kasich,1,5,0,0,0,0
+Richmond,007/61,President,,Republican,Donald J. Trump,4,5,0,0,0,0
 Richmond,007/61,President,,Republican,Ben Carson,0,5,0,0,0,0
 Richmond,007/61,President,,Republican,Ted Cruz,0,5,0,0,0,0
-Richmond,067/61,President,,Republican,Donald J. Trump,0,0,0,0,0,0
 Richmond,067/61,President,,Republican,John R. Kasich,0,0,0,0,0,0
+Richmond,067/61,President,,Republican,Donald J. Trump,0,0,0,0,0,0
 Richmond,067/61,President,,Republican,Ben Carson,0,0,0,0,0,0
 Richmond,067/61,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,067/62,President,,Republican,Donald J. Trump,128,143,0,7,0,0
 Richmond,067/62,President,,Republican,John R. Kasich,11,143,0,7,0,0
+Richmond,067/62,President,,Republican,Donald J. Trump,128,143,0,7,0,0
 Richmond,067/62,President,,Republican,Ben Carson,2,143,0,7,0,0
 Richmond,067/62,President,,Republican,Ted Cruz,8,143,0,7,0,0
-Richmond,073/62,President,,Republican,Donald J. Trump,141,156,0,10,0,0
 Richmond,073/62,President,,Republican,John R. Kasich,17,156,0,10,0,0
+Richmond,073/62,President,,Republican,Donald J. Trump,141,156,0,10,0,0
 Richmond,073/62,President,,Republican,Ben Carson,0,156,0,10,0,0
 Richmond,073/62,President,,Republican,Ted Cruz,7,156,0,10,0,0
-Richmond,076/62,President,,Republican,Donald J. Trump,86,100,0,1,0,0
 Richmond,076/62,President,,Republican,John R. Kasich,3,100,0,1,0,0
+Richmond,076/62,President,,Republican,Donald J. Trump,86,100,0,1,0,0
 Richmond,076/62,President,,Republican,Ben Carson,0,100,0,1,0,0
 Richmond,076/62,President,,Republican,Ted Cruz,12,100,0,1,0,0
-Richmond,039/63,President,,Republican,Donald J. Trump,26,30,0,2,0,1
 Richmond,039/63,President,,Republican,John R. Kasich,6,30,0,2,0,1
+Richmond,039/63,President,,Republican,Donald J. Trump,26,30,0,2,0,1
 Richmond,039/63,President,,Republican,Ben Carson,0,30,0,2,0,1
 Richmond,039/63,President,,Republican,Ted Cruz,1,30,0,2,0,1
-Richmond,072/62,President,,Republican,Donald J. Trump,141,176,0,1,1,0
 Richmond,072/62,President,,Republican,John R. Kasich,26,176,0,1,1,0
+Richmond,072/62,President,,Republican,Donald J. Trump,141,176,0,1,1,0
 Richmond,072/62,President,,Republican,Ben Carson,0,176,0,1,1,0
 Richmond,072/62,President,,Republican,Ted Cruz,11,176,0,1,1,0
-Richmond,072/63,President,,Republican,Donald J. Trump,90,108,0,4,0,0
 Richmond,072/63,President,,Republican,John R. Kasich,12,108,0,4,0,0
+Richmond,072/63,President,,Republican,Donald J. Trump,90,108,0,4,0,0
 Richmond,072/63,President,,Republican,Ben Carson,1,108,0,4,0,0
 Richmond,072/63,President,,Republican,Ted Cruz,9,108,0,4,0,0
-Richmond,011/61,President,,Republican,Donald J. Trump,26,30,0,5,0,0
 Richmond,011/61,President,,Republican,John R. Kasich,6,30,0,5,0,0
+Richmond,011/61,President,,Republican,Donald J. Trump,26,30,0,5,0,0
 Richmond,011/61,President,,Republican,Ben Carson,0,30,0,5,0,0
 Richmond,011/61,President,,Republican,Ted Cruz,2,30,0,5,0,0
-Richmond,011/63,President,,Republican,Donald J. Trump,76,91,0,4,0,2
 Richmond,011/63,President,,Republican,John R. Kasich,9,91,0,4,0,2
+Richmond,011/63,President,,Republican,Donald J. Trump,76,91,0,4,0,2
 Richmond,011/63,President,,Republican,Ben Carson,1,91,0,4,0,2
 Richmond,011/63,President,,Republican,Ted Cruz,11,91,0,4,0,2
-Richmond,011/62,President,,Republican,Donald J. Trump,129,158,0,5,0,1
 Richmond,011/62,President,,Republican,John R. Kasich,25,158,0,5,0,1
+Richmond,011/62,President,,Republican,Donald J. Trump,129,158,0,5,0,1
 Richmond,011/62,President,,Republican,Ben Carson,0,158,0,5,0,1
 Richmond,011/62,President,,Republican,Ted Cruz,10,158,0,5,0,1
-Richmond,062/63,President,,Republican,Donald J. Trump,83,109,0,1,0,0
 Richmond,062/63,President,,Republican,John R. Kasich,18,109,0,1,0,0
+Richmond,062/63,President,,Republican,Donald J. Trump,83,109,0,1,0,0
 Richmond,062/63,President,,Republican,Ben Carson,1,109,0,1,0,0
 Richmond,062/63,President,,Republican,Ted Cruz,8,109,0,1,0,0
-Richmond,062/62,President,,Republican,Donald J. Trump,80,86,0,7,0,0
 Richmond,062/62,President,,Republican,John R. Kasich,8,86,0,7,0,0
+Richmond,062/62,President,,Republican,Donald J. Trump,80,86,0,7,0,0
 Richmond,062/62,President,,Republican,Ben Carson,0,86,0,7,0,0
 Richmond,062/62,President,,Republican,Ted Cruz,4,86,0,7,0,0
-Richmond,062/61,President,,Republican,Donald J. Trump,55,66,0,0,0,0
 Richmond,062/61,President,,Republican,John R. Kasich,7,66,0,0,0,0
+Richmond,062/61,President,,Republican,Donald J. Trump,55,66,0,0,0,0
 Richmond,062/61,President,,Republican,Ben Carson,0,66,0,0,0,0
 Richmond,062/61,President,,Republican,Ted Cruz,4,66,0,0,0,0
-Richmond,046/61,President,,Republican,Donald J. Trump,97,114,0,7,0,0
 Richmond,046/61,President,,Republican,John R. Kasich,11,114,0,7,0,0
+Richmond,046/61,President,,Republican,Donald J. Trump,97,114,0,7,0,0
 Richmond,046/61,President,,Republican,Ben Carson,0,114,0,7,0,0
 Richmond,046/61,President,,Republican,Ted Cruz,10,114,0,7,0,0
-Richmond,042/64,President,,Republican,Donald J. Trump,52,57,0,3,0,0
 Richmond,042/64,President,,Republican,John R. Kasich,3,57,0,3,0,0
+Richmond,042/64,President,,Republican,Donald J. Trump,52,57,0,3,0,0
 Richmond,042/64,President,,Republican,Ben Carson,0,57,0,3,0,0
 Richmond,042/64,President,,Republican,Ted Cruz,5,57,0,3,0,0
-Richmond,046/63,President,,Republican,Donald J. Trump,74,74,0,8,0,0
 Richmond,046/63,President,,Republican,John R. Kasich,6,74,0,8,0,0
+Richmond,046/63,President,,Republican,Donald J. Trump,74,74,0,8,0,0
 Richmond,046/63,President,,Republican,Ben Carson,0,74,0,8,0,0
 Richmond,046/63,President,,Republican,Ted Cruz,2,74,0,8,0,0
-Richmond,046/62,President,,Republican,Donald J. Trump,131,154,0,5,0,1
 Richmond,046/62,President,,Republican,John R. Kasich,19,154,0,5,0,1
+Richmond,046/62,President,,Republican,Donald J. Trump,131,154,0,5,0,1
 Richmond,046/62,President,,Republican,Ben Carson,0,154,0,5,0,1
 Richmond,046/62,President,,Republican,Ted Cruz,7,154,0,5,0,1
-Richmond,042/61,President,,Republican,Donald J. Trump,115,139,0,2,0,3
 Richmond,042/61,President,,Republican,John R. Kasich,19,139,0,2,0,3
+Richmond,042/61,President,,Republican,Donald J. Trump,115,139,0,2,0,3
 Richmond,042/61,President,,Republican,Ben Carson,0,139,0,2,0,3
 Richmond,042/61,President,,Republican,Ted Cruz,10,139,0,2,0,3
-Richmond,046/64,President,,Republican,Donald J. Trump,52,57,0,3,0,1
 Richmond,046/64,President,,Republican,John R. Kasich,4,57,0,3,0,1
+Richmond,046/64,President,,Republican,Donald J. Trump,52,57,0,3,0,1
 Richmond,046/64,President,,Republican,Ben Carson,0,57,0,3,0,1
 Richmond,046/64,President,,Republican,Ted Cruz,5,57,0,3,0,1
-Richmond,042/63,President,,Republican,Donald J. Trump,1,2,0,0,0,0
 Richmond,042/63,President,,Republican,John R. Kasich,0,2,0,0,0,0
+Richmond,042/63,President,,Republican,Donald J. Trump,1,2,0,0,0,0
 Richmond,042/63,President,,Republican,Ben Carson,0,2,0,0,0,0
 Richmond,042/63,President,,Republican,Ted Cruz,1,2,0,0,0,0
-Richmond,042/62,President,,Republican,Donald J. Trump,158,160,0,8,0,0
 Richmond,042/62,President,,Republican,John R. Kasich,4,160,0,8,0,0
+Richmond,042/62,President,,Republican,Donald J. Trump,158,160,0,8,0,0
 Richmond,042/62,President,,Republican,Ben Carson,2,160,0,8,0,0
 Richmond,042/62,President,,Republican,Ted Cruz,3,160,0,8,0,0
-Richmond,077/63,President,,Republican,Donald J. Trump,0,0,0,0,0,0
-Richmond,077/63,President,,Republican,John R. Kasich,0,0,0,0,0,0
-Richmond,077/63,President,,Republican,Ben Carson,0,0,0,0,0,0
-Richmond,077/63,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,006/63,President,,Republican,Donald J. Trump,98,111,0,5,0,3
 Richmond,006/63,President,,Republican,John R. Kasich,11,111,0,5,0,3
+Richmond,006/63,President,,Republican,Donald J. Trump,98,111,0,5,0,3
 Richmond,006/63,President,,Republican,Ben Carson,0,111,0,5,0,3
 Richmond,006/63,President,,Republican,Ted Cruz,8,111,0,5,0,3
-Richmond,022/63,President,,Republican,Donald J. Trump,67,76,0,4,0,2
 Richmond,022/63,President,,Republican,John R. Kasich,6,76,0,4,0,2
+Richmond,022/63,President,,Republican,Donald J. Trump,67,76,0,4,0,2
 Richmond,022/63,President,,Republican,Ben Carson,0,76,0,4,0,2
 Richmond,022/63,President,,Republican,Ted Cruz,9,76,0,4,0,2
-Richmond,022/62,President,,Republican,Donald J. Trump,162,176,0,6,0,2
 Richmond,022/62,President,,Republican,John R. Kasich,7,176,0,6,0,2
+Richmond,022/62,President,,Republican,Donald J. Trump,162,176,0,6,0,2
 Richmond,022/62,President,,Republican,Ben Carson,1,176,0,6,0,2
 Richmond,022/62,President,,Republican,Ted Cruz,13,176,0,6,0,2
-Richmond,022/61,President,,Republican,Donald J. Trump,15,22,0,0,0,0
 Richmond,022/61,President,,Republican,John R. Kasich,3,22,0,0,0,0
+Richmond,022/61,President,,Republican,Donald J. Trump,15,22,0,0,0,0
 Richmond,022/61,President,,Republican,Ben Carson,1,22,0,0,0,0
 Richmond,022/61,President,,Republican,Ted Cruz,3,22,0,0,0,0
-Richmond,054/62,President,,Republican,Donald J. Trump,137,152,0,3,0,0
 Richmond,054/62,President,,Republican,John R. Kasich,13,152,0,3,0,0
+Richmond,054/62,President,,Republican,Donald J. Trump,137,152,0,3,0,0
 Richmond,054/62,President,,Republican,Ben Carson,0,152,0,3,0,0
 Richmond,054/62,President,,Republican,Ted Cruz,4,152,0,3,0,0
-Richmond,022/64,President,,Republican,Donald J. Trump,99,118,0,9,0,2
 Richmond,022/64,President,,Republican,John R. Kasich,20,118,0,9,0,2
+Richmond,022/64,President,,Republican,Donald J. Trump,99,118,0,9,0,2
 Richmond,022/64,President,,Republican,Ben Carson,1,118,0,9,0,2
 Richmond,022/64,President,,Republican,Ted Cruz,9,118,0,9,0,2
-Richmond,053/63,President,,Republican,Donald J. Trump,51,56,0,2,0,1
 Richmond,053/63,President,,Republican,John R. Kasich,4,56,0,2,0,1
+Richmond,053/63,President,,Republican,Donald J. Trump,51,56,0,2,0,1
 Richmond,053/63,President,,Republican,Ben Carson,0,56,0,2,0,1
 Richmond,053/63,President,,Republican,Ted Cruz,4,56,0,2,0,1
-Richmond,053/62,President,,Republican,Donald J. Trump,119,128,0,5,0,6
 Richmond,053/62,President,,Republican,John R. Kasich,12,128,0,5,0,6
+Richmond,053/62,President,,Republican,Donald J. Trump,119,128,0,5,0,6
 Richmond,053/62,President,,Republican,Ben Carson,0,128,0,5,0,6
 Richmond,053/62,President,,Republican,Ted Cruz,7,128,0,5,0,6
-Richmond,053/61,President,,Republican,Donald J. Trump,3,6,0,0,0,1
 Richmond,053/61,President,,Republican,John R. Kasich,2,6,0,0,0,1
+Richmond,053/61,President,,Republican,Donald J. Trump,3,6,0,0,0,1
 Richmond,053/61,President,,Republican,Ben Carson,0,6,0,0,0,1
 Richmond,053/61,President,,Republican,Ted Cruz,1,6,0,0,0,1
-Richmond,015/61,President,,Republican,Donald J. Trump,50,61,0,3,0,3
 Richmond,015/61,President,,Republican,John R. Kasich,12,61,0,3,0,3
+Richmond,015/61,President,,Republican,Donald J. Trump,50,61,0,3,0,3
 Richmond,015/61,President,,Republican,Ben Carson,0,61,0,3,0,3
 Richmond,015/61,President,,Republican,Ted Cruz,5,61,0,3,0,3
-Richmond,015/63,President,,Republican,Donald J. Trump,60,70,0,2,1,0
 Richmond,015/63,President,,Republican,John R. Kasich,9,70,0,2,1,0
+Richmond,015/63,President,,Republican,Donald J. Trump,60,70,0,2,1,0
 Richmond,015/63,President,,Republican,Ben Carson,0,70,0,2,1,0
 Richmond,015/63,President,,Republican,Ted Cruz,4,70,0,2,1,0
-Richmond,015/62,President,,Republican,Donald J. Trump,114,126,0,3,0,0
 Richmond,015/62,President,,Republican,John R. Kasich,9,126,0,3,0,0
+Richmond,015/62,President,,Republican,Donald J. Trump,114,126,0,3,0,0
 Richmond,015/62,President,,Republican,Ben Carson,2,126,0,3,0,0
 Richmond,015/62,President,,Republican,Ted Cruz,4,126,0,3,0,0
-Richmond,066/63,President,,Republican,Donald J. Trump,76,103,0,2,0,0
 Richmond,066/63,President,,Republican,John R. Kasich,17,103,0,2,0,0
+Richmond,066/63,President,,Republican,Donald J. Trump,76,103,0,2,0,0
 Richmond,066/63,President,,Republican,Ben Carson,1,103,0,2,0,0
 Richmond,066/63,President,,Republican,Ted Cruz,11,103,0,2,0,0
-Richmond,066/62,President,,Republican,Donald J. Trump,167,203,0,3,0,2
 Richmond,066/62,President,,Republican,John R. Kasich,17,203,0,3,0,2
+Richmond,066/62,President,,Republican,Donald J. Trump,167,203,0,3,0,2
 Richmond,066/62,President,,Republican,Ben Carson,4,203,0,3,0,2
 Richmond,066/62,President,,Republican,Ted Cruz,18,203,0,3,0,2
-Richmond,066/61,President,,Republican,Donald J. Trump,0,0,0,0,0,0
 Richmond,066/61,President,,Republican,John R. Kasich,0,0,0,0,0,0
+Richmond,066/61,President,,Republican,Donald J. Trump,0,0,0,0,0,0
 Richmond,066/61,President,,Republican,Ben Carson,0,0,0,0,0,0
 Richmond,066/61,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,052/61,President,,Republican,Donald J. Trump,49,58,0,2,2,0
 Richmond,052/61,President,,Republican,John R. Kasich,7,58,0,2,2,0
+Richmond,052/61,President,,Republican,Donald J. Trump,49,58,0,2,2,0
 Richmond,052/61,President,,Republican,Ben Carson,0,58,0,2,2,0
 Richmond,052/61,President,,Republican,Ted Cruz,6,58,0,2,2,0
-Richmond,052/62,President,,Republican,Donald J. Trump,132,149,0,7,0,0
 Richmond,052/62,President,,Republican,John R. Kasich,10,149,0,7,0,0
+Richmond,052/62,President,,Republican,Donald J. Trump,132,149,0,7,0,0
 Richmond,052/62,President,,Republican,Ben Carson,0,149,0,7,0,0
 Richmond,052/62,President,,Republican,Ted Cruz,14,149,0,7,0,0
-Richmond,052/63,President,,Republican,Donald J. Trump,65,85,0,3,0,1
 Richmond,052/63,President,,Republican,John R. Kasich,7,85,0,3,0,1
+Richmond,052/63,President,,Republican,Donald J. Trump,65,85,0,3,0,1
 Richmond,052/63,President,,Republican,Ben Carson,1,85,0,3,0,1
 Richmond,052/63,President,,Republican,Ted Cruz,15,85,0,3,0,1
-Richmond,079/63,President,,Republican,Donald J. Trump,0,0,0,0,0,0
-Richmond,079/63,President,,Republican,John R. Kasich,0,0,0,0,0,0
-Richmond,079/63,President,,Republican,Ben Carson,0,0,0,0,0,0
-Richmond,079/63,President,,Republican,Ted Cruz,0,0,0,0,0,0
-Richmond,038/63,President,,Republican,Donald J. Trump,29,41,0,1,0,0
 Richmond,038/63,President,,Republican,John R. Kasich,7,41,0,1,0,0
+Richmond,038/63,President,,Republican,Donald J. Trump,29,41,0,1,0,0
 Richmond,038/63,President,,Republican,Ben Carson,0,41,0,1,0,0
 Richmond,038/63,President,,Republican,Ted Cruz,6,41,0,1,0,0
-Richmond,045/64,President,,Republican,Donald J. Trump,48,59,0,5,1,1
 Richmond,045/64,President,,Republican,John R. Kasich,15,59,0,5,1,1
+Richmond,045/64,President,,Republican,Donald J. Trump,48,59,0,5,1,1
 Richmond,045/64,President,,Republican,Ben Carson,0,59,0,5,1,1
 Richmond,045/64,President,,Republican,Ted Cruz,2,59,0,5,1,1
-Richmond,038/64,President,,Republican,Donald J. Trump,44,53,0,3,0,0
 Richmond,038/64,President,,Republican,John R. Kasich,6,53,0,3,0,0
+Richmond,038/64,President,,Republican,Donald J. Trump,44,53,0,3,0,0
 Richmond,038/64,President,,Republican,Ben Carson,0,53,0,3,0,0
 Richmond,038/64,President,,Republican,Ted Cruz,6,53,0,3,0,0
-Richmond,078/63,President,,Republican,Donald J. Trump,0,0,0,0,0,0
-Richmond,078/63,President,,Republican,John R. Kasich,0,0,0,0,0,0
-Richmond,078/63,President,,Republican,Ben Carson,0,0,0,0,0,0
-Richmond,078/63,President,,Republican,Ted Cruz,0,0,0,0,0,0
