@@ -1,12 +1,26 @@
+import argparse
 import csv
 import sys
+
+arg_parser = argparse.ArgumentParser(description='Parse nyc voting csv\'s.')
+arg_parser.add_argument('csvfilepath', type=str, nargs=1)
+arg_parser.add_argument('--print_header', type=bool, default=False)
+
+args = arg_parser.parse_args()
 
 precinct_to_data = {}
 
 other_vote_titles = ['Public Counter', 'Emergency', 'Absentee/Military', 'Federal', 'Affidavit', 'Scattered']
 
-print('county,precinct,office,district,party,candidate,votes,public_counter_votes,emergency_votes,absentee_military_votes,federal_votes,affidavit_votes')
-with open(sys.argv[1], 'rb') as csvfile:
+office_mapping = {
+  'Representative in Congress': 'U.S. House',
+  'State Senator': 'State Senate',
+  'Member of the Assembly': 'State Assembly'
+}
+
+if args.print_header:
+    print('county,precinct,office,district,party,candidate,votes,public_counter_votes,emergency_votes,absentee_military_votes,federal_votes,affidavit_votes')
+with open(args.csvfilepath[0], 'rb') as csvfile:
   line = csv.reader(csvfile, delimiter=',', quotechar='"')
   line_number = 0
   for row in line:
@@ -41,9 +55,13 @@ def print_precinct(precinct, data):
           county = other_vote_data['county']
           party = other_vote_data['party']
           office = other_vote_data['office']
+          if office in office_mapping:
+            office = office_mapping[office];
           district = other_vote_data['district']
           if not district.isdigit():
             district = ''
+          else:
+            district = int(district)
           line = '%s,%s,%s,%s,%s,%s,%d' % (
             county, precinct, office, district, party, candidate, votes)
         line += ',' + other_vote_data['votes']
