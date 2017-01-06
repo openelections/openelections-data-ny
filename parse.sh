@@ -59,3 +59,24 @@ $BIN "$SOURCE_DIR/2016/Kings/State Primaries/01302300055Kings Democratic Member 
 $BIN "$SOURCE_DIR/2016/Kings/State Primaries/01302300056Kings Democratic Member of the Assembly 56th Assembly District EDLevel.csv" >> "./2016/20160913__ny__democratic__primary__kings__precinct.csv"
 
 $BIN '--print_header' 'True' "$SOURCE_DIR/2016/Richmond/Primaries/02502300062Richmond Republican Member of the Assembly 62nd Assembly District EDLevel.csv" &> "./2016/20160913__ny__republican__primary__richmond__precinct.csv"
+
+function gen_precinct () {
+  source_sub_dir=$1
+  dest_file_path=$2
+  
+  print_header=true
+  for source_file in "$SOURCE_DIR/$source_sub_dir"/*; do
+    if [ "$print_header" = true ] ; then
+      $BIN '--print_header' 'True' "$source_file" &> "$dest_file_path"
+      print_header=false
+   else
+      $BIN "$source_file" >> "$dest_file_path"
+    fi
+  done
+}
+
+gen_precinct "2016/New York/General" "./2016/20161108__ny__general__new_york__precinct.csv"
+gen_precinct "2016/Bronx/General" "./2016/20161108__ny__general__bronx__precinct.csv"
+gen_precinct "2016/Queens/General" "./2016/20161108__ny__general__queens__precinct.csv"
+gen_precinct "2016/Kings/General" "./2016/20161108__ny__general__kings__precinct.csv"
+gen_precinct "2016/Richmond/General" "./2016/20161108__ny__general__richmond__precinct.csv"
