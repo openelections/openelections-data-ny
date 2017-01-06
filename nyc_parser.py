@@ -96,7 +96,6 @@ def print_precinct(precinct, data):
 
 for precinct in precinct_to_data:
   data = precinct_to_data[precinct]
-  # print 'precint: ' + precinct + ' data: ' + str(data)
   status = data[other_vote_titles[0]]['status']
   if status == 'IN-PLAY':
     print_precinct(precinct, data)
