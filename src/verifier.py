@@ -57,8 +57,8 @@ class Verifier(object):
 	validColumns = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes', 'notes'])
 	requiredColumnSet = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'])
 	uniqueRowIDSet = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate'])
-	validOffices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'State Senate', 'State House', 'Attorney General', 'Secretary of State', 'State Treasurer', 'Comptroller'])
-	officesWithDistricts = frozenset(['U.S. House', 'State Senate', 'State House'])
+	validOffices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'State Senate', 'State Assembly', 'Attorney General', 'Secretary of State', 'State Treasurer', 'Comptroller'])
+	officesWithDistricts = frozenset(['U.S. House', 'State Senate', 'State Assembly'])
 	pseudocandidates = frozenset(['Write-ins', 'Under Votes', 'Over Votes', 'Total', 'Total Votes Cast'])
 	normalizedPseudocandidates = frozenset(['writeins', 'undervotes', 'overvotes', 'total', 'totalvotescast'])
 
