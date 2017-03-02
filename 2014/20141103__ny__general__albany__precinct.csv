@@ -1,4 +1,4 @@
-county,precinct,office,dist,candidate,party,votes
+county,precinct,office,district,candidate,party,votes
 Albany,0001 Albany WD 1 ED 1,U.S. House,20,Paul Tonko,D,23
 Albany,0002 Albany WD 1 ED 2,U.S. House,20,Paul Tonko,D,125
 Albany,0003 Albany WD 1 ED 3,U.S. House,20,Paul Tonko,D,107
@@ -2900,7 +2900,7 @@ Albany,0043 Albany WD 5 ED 6,State House,108,John McDonald,IDC,2
 Albany,0044 Albany WD 5 ED 7,State House,108,John McDonald,IDC,6
 Albany,0045 Albany WD 6 ED 1,State House,108,John McDonald,IDC,0
 Albany,0046 Albany WD 6 ED 2,State House,108,John McDonald,IDC,13
-Albany,0051 Albany WD 6 ED 7,State House,108,John McDonald,IDC,
+Albany,0051 Albany WD 6 ED 7,State House,108,John McDonald,IDC,0
 Albany,0055 Albany WD 7 ED 3,State House,108,John McDonald,IDC,22
 Albany,0056 Albany WD 7 ED 4,State House,108,John McDonald,IDC,11
 Albany,0057 Albany WD 7 ED 5,State House,108,John McDonald,IDC,26
