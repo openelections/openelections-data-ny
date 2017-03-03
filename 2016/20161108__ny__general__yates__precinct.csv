@@ -1,4 +1,22 @@
 county,precinct,office,district,party,candidate,votes
+Yates,Barrington 1,President,,,Total,578
+Yates,Benton 1,President,,,Total,444
+Yates,Benton 2,President,,,Total,581
+Yates,Italy 1,President,,,Total,517
+Yates,Jerusalem 1,President,,,Total,610
+Yates,Jerusalem 2,President,,,Total,443
+Yates,Jerusalem 3,President,,,Total,513
+Yates,Jerusalem 4,President,,,Total,515
+Yates,Middlesex 1,President,,,Total,725
+Yates,Milo 2,President,,,Total,688
+Yates,Milo 3,President,,,Total,559
+Yates,Milo 4,President,,,Total,372
+Yates,Milo 5,President,,,Total,577
+Yates,Milo 6,President,,,Total,647
+Yates,Potter 1,President,,,Total,648
+Yates,Starkey 1,President,,,Total,559
+Yates,Starkey 2,President,,,Total,654
+Yates,Torrey 1,President,,,Total,591
 Yates,Barrington 1,President,,DEM,Hillary Clinton,191
 Yates,Benton 1,President,,DEM,Hillary Clinton,119
 Yates,Benton 2,President,,DEM,Hillary Clinton,212
@@ -143,96 +161,24 @@ Yates,Potter 1,President,,LBT,Gary Johnson,8
 Yates,Starkey 1,President,,LBT,Gary Johnson,8
 Yates,Starkey 2,President,,LBT,Gary Johnson,9
 Yates,Torrey 1,President,,LBT,Gary Johnson,7
-Yates,Barrington 1,President,,,Darrell Castle,0
-Yates,Benton 1,President,,,Darrell Castle,0
-Yates,Benton 2,President,,,Darrell Castle,0
-Yates,Italy 1,President,,,Darrell Castle,0
-Yates,Jerusalem 1,President,,,Darrell Castle,1
-Yates,Jerusalem 2,President,,,Darrell Castle,0
-Yates,Jerusalem 3,President,,,Darrell Castle,3
-Yates,Jerusalem 4,President,,,Darrell Castle,1
-Yates,Middlesex 1,President,,,Darrell Castle,0
-Yates,Milo 2,President,,,Darrell Castle,0
-Yates,Milo 3,President,,,Darrell Castle,0
-Yates,Milo 4,President,,,Darrell Castle,0
-Yates,Milo 5,President,,,Darrell Castle,0
-Yates,Milo 6,President,,,Darrell Castle,0
-Yates,Potter 1,President,,,Darrell Castle,0
-Yates,Starkey 1,President,,,Darrell Castle,0
-Yates,Starkey 2,President,,,Darrell Castle,0
-Yates,Torrey 1,President,,,Darrell Castle,0
-Yates,Barrington 1,President,,,Evan McMullin,0
-Yates,Benton 1,President,,,Evan McMullin,1
-Yates,Benton 2,President,,,Evan McMullin,4
-Yates,Italy 1,President,,,Evan McMullin,6
-Yates,Jerusalem 1,President,,,Evan McMullin,1
-Yates,Jerusalem 2,President,,,Evan McMullin,0
-Yates,Jerusalem 3,President,,,Evan McMullin,0
-Yates,Jerusalem 4,President,,,Evan McMullin,2
-Yates,Middlesex 1,President,,,Evan McMullin,1
-Yates,Milo 2,President,,,Evan McMullin,0
-Yates,Milo 3,President,,,Evan McMullin,3
-Yates,Milo 4,President,,,Evan McMullin,2
-Yates,Milo 5,President,,,Evan McMullin,2
-Yates,Milo 6,President,,,Evan McMullin,2
-Yates,Potter 1,President,,,Evan McMullin,2
-Yates,Starkey 1,President,,,Evan McMullin,0
-Yates,Starkey 2,President,,,Evan McMullin,1
-Yates,Torrey 1,President,,,Evan McMullin,0
-Yates,Barrington 1,President,,,Robert L Buchanan,0
-Yates,Benton 1,President,,,Robert L Buchanan,0
-Yates,Benton 2,President,,,Robert L Buchanan,0
-Yates,Italy 1,President,,,Robert L Buchanan,0
-Yates,Jerusalem 1,President,,,Robert L Buchanan,0
-Yates,Jerusalem 2,President,,,Robert L Buchanan,1
-Yates,Jerusalem 3,President,,,Robert L Buchanan,0
-Yates,Jerusalem 4,President,,,Robert L Buchanan,0
-Yates,Middlesex 1,President,,,Robert L Buchanan,0
-Yates,Milo 2,President,,,Robert L Buchanan,0
-Yates,Milo 3,President,,,Robert L Buchanan,0
-Yates,Milo 4,President,,,Robert L Buchanan,0
-Yates,Milo 5,President,,,Robert L Buchanan,0
-Yates,Milo 6,President,,,Robert L Buchanan,0
-Yates,Potter 1,President,,,Robert L Buchanan,0
-Yates,Starkey 1,President,,,Robert L Buchanan,0
-Yates,Starkey 2,President,,,Robert L Buchanan,0
-Yates,Torrey 1,President,,,Robert L Buchanan,0
-Yates,Barrington 1,President,,,Robert M Wolff,0
-Yates,Benton 1,President,,,Robert M Wolff,0
-Yates,Benton 2,President,,,Robert M Wolff,0
-Yates,Italy 1,President,,,Robert M Wolff,0
-Yates,Jerusalem 1,President,,,Robert M Wolff,0
-Yates,Jerusalem 2,President,,,Robert M Wolff,0
-Yates,Jerusalem 3,President,,,Robert M Wolff,0
-Yates,Jerusalem 4,President,,,Robert M Wolff,0
-Yates,Middlesex 1,President,,,Robert M Wolff,0
-Yates,Milo 2,President,,,Robert M Wolff,0
-Yates,Milo 3,President,,,Robert M Wolff,0
-Yates,Milo 4,President,,,Robert M Wolff,0
-Yates,Milo 5,President,,,Robert M Wolff,0
-Yates,Milo 6,President,,,Robert M Wolff,0
-Yates,Potter 1,President,,,Robert M Wolff,0
-Yates,Starkey 1,President,,,Robert M Wolff,0
-Yates,Starkey 2,President,,,Robert M Wolff,0
-Yates,Torrey 1,President,,,Robert M Wolff,1
-Yates,Barrington 1,President,,,Tom Hoefling,0
-Yates,Benton 1,President,,,Tom Hoefling,0
-Yates,Benton 2,President,,,Tom Hoefling,0
-Yates,Italy 1,President,,,Tom Hoefling,0
-Yates,Jerusalem 1,President,,,Tom Hoefling,0
-Yates,Jerusalem 2,President,,,Tom Hoefling,0
-Yates,Jerusalem 3,President,,,Tom Hoefling,0
-Yates,Jerusalem 4,President,,,Tom Hoefling,0
-Yates,Middlesex 1,President,,,Tom Hoefling,0
-Yates,Milo 2,President,,,Tom Hoefling,0
-Yates,Milo 3,President,,,Tom Hoefling,0
-Yates,Milo 4,President,,,Tom Hoefling,0
-Yates,Milo 5,President,,,Tom Hoefling,0
-Yates,Milo 6,President,,,Tom Hoefling,0
-Yates,Potter 1,President,,,Tom Hoefling,0
-Yates,Starkey 1,President,,,Tom Hoefling,1
-Yates,Starkey 2,President,,,Tom Hoefling,0
-Yates,Torrey 1,President,,,Tom Hoefling,0
+Yates,Barrington 1,President,,,Write-ins,0
+Yates,Benton 1,President,,,Write-ins,1
+Yates,Benton 2,President,,,Write-ins,4
+Yates,Italy 1,President,,,Write-ins,6
+Yates,Jerusalem 1,President,,,Write-ins,2
+Yates,Jerusalem 2,President,,,Write-ins,1
+Yates,Jerusalem 3,President,,,Write-ins,3
+Yates,Jerusalem 4,President,,,Write-ins,3
+Yates,Middlesex 1,President,,,Write-ins,1
+Yates,Milo 2,President,,,Write-ins,0
+Yates,Milo 3,President,,,Write-ins,3
+Yates,Milo 4,President,,,Write-ins,2
+Yates,Milo 5,President,,,Write-ins,2
+Yates,Milo 6,President,,,Write-ins,2
+Yates,Potter 1,President,,,Write-ins,2
+Yates,Starkey 1,President,,,Write-ins,1
+Yates,Starkey 2,President,,,Write-ins,1
+Yates,Torrey 1,President,,,Write-ins,1
 Yates,Barrington 1,President,,,Under Votes,20
 Yates,Benton 1,President,,,Under Votes,3
 Yates,Benton 2,President,,,Under Votes,11
@@ -287,6 +233,24 @@ Yates,Potter 1,President,,,Scatterings,0
 Yates,Starkey 1,President,,,Scatterings,7
 Yates,Starkey 2,President,,,Scatterings,6
 Yates,Torrey 1,President,,,Scatterings,0
+Yates,Barrington 1,U.S. Senate,,,Total,578
+Yates,Benton 1,U.S. Senate,,,Total,444
+Yates,Benton 2,U.S. Senate,,,Total,581
+Yates,Italy 1,U.S. Senate,,,Total,517
+Yates,Jerusalem 1,U.S. Senate,,,Total,610
+Yates,Jerusalem 2,U.S. Senate,,,Total,443
+Yates,Jerusalem 3,U.S. Senate,,,Total,513
+Yates,Jerusalem 4,U.S. Senate,,,Total,515
+Yates,Middlesex 1,U.S. Senate,,,Total,725
+Yates,Milo 2,U.S. Senate,,,Total,688
+Yates,Milo 3,U.S. Senate,,,Total,559
+Yates,Milo 4,U.S. Senate,,,Total,372
+Yates,Milo 5,U.S. Senate,,,Total,577
+Yates,Milo 6,U.S. Senate,,,Total,647
+Yates,Potter 1,U.S. Senate,,,Total,648
+Yates,Starkey 1,U.S. Senate,,,Total,559
+Yates,Starkey 2,U.S. Senate,,,Total,654
+Yates,Torrey 1,U.S. Senate,,,Total,591
 Yates,Barrington 1,U.S. Senate,,DEM,Charles E Schumer,252
 Yates,Benton 1,U.S. Senate,,DEM,Charles E Schumer,183
 Yates,Benton 2,U.S. Senate,,DEM,Charles E Schumer,272
@@ -503,6 +467,24 @@ Yates,Potter 1,U.S. Senate,,,Scatterings,0
 Yates,Starkey 1,U.S. Senate,,,Scatterings,0
 Yates,Starkey 2,U.S. Senate,,,Scatterings,0
 Yates,Torrey 1,U.S. Senate,,,Scatterings,0
+Yates,Barrington 1,U.S. House,23,,Total,578
+Yates,Benton 1,U.S. House,23,,Total,444
+Yates,Benton 2,U.S. House,23,,Total,581
+Yates,Italy 1,U.S. House,23,,Total,517
+Yates,Jerusalem 1,U.S. House,23,,Total,610
+Yates,Jerusalem 2,U.S. House,23,,Total,443
+Yates,Jerusalem 3,U.S. House,23,,Total,513
+Yates,Jerusalem 4,U.S. House,23,,Total,515
+Yates,Middlesex 1,U.S. House,23,,Total,725
+Yates,Milo 2,U.S. House,23,,Total,688
+Yates,Milo 3,U.S. House,23,,Total,559
+Yates,Milo 4,U.S. House,23,,Total,372
+Yates,Milo 5,U.S. House,23,,Total,577
+Yates,Milo 6,U.S. House,23,,Total,647
+Yates,Potter 1,U.S. House,23,,Total,648
+Yates,Starkey 1,U.S. House,23,,Total,559
+Yates,Starkey 2,U.S. House,23,,Total,654
+Yates,Torrey 1,U.S. House,23,,Total,591
 Yates,Barrington 1,U.S. House,23,DEM,John F Plumb,186
 Yates,Benton 1,U.S. House,23,DEM,John F Plumb,115
 Yates,Benton 2,U.S. House,23,DEM,John F Plumb,185
@@ -665,6 +647,24 @@ Yates,Potter 1,U.S. House,23,,Scatterings,1
 Yates,Starkey 1,U.S. House,23,,Scatterings,0
 Yates,Starkey 2,U.S. House,23,,Scatterings,0
 Yates,Torrey 1,U.S. House,23,,Scatterings,0
+Yates,Barrington 1,State Senate,58,,Total,577
+Yates,Benton 1,State Senate,58,,Total,443
+Yates,Benton 2,State Senate,58,,Total,581
+Yates,Italy 1,State Senate,58,,Total,516
+Yates,Jerusalem 1,State Senate,58,,Total,606
+Yates,Jerusalem 2,State Senate,58,,Total,442
+Yates,Jerusalem 3,State Senate,58,,Total,511
+Yates,Jerusalem 4,State Senate,58,,Total,511
+Yates,Middlesex 1,State Senate,58,,Total,723
+Yates,Milo 2,State Senate,58,,Total,686
+Yates,Milo 3,State Senate,58,,Total,557
+Yates,Milo 4,State Senate,58,,Total,372
+Yates,Milo 5,State Senate,58,,Total,574
+Yates,Milo 6,State Senate,58,,Total,644
+Yates,Potter 1,State Senate,58,,Total,646
+Yates,Starkey 1,State Senate,58,,Total,558
+Yates,Starkey 2,State Senate,58,,Total,651
+Yates,Torrey 1,State Senate,58,,Total,588
 Yates,Barrington 1,State Senate,58,DEM,Leslie Danks Burke,165
 Yates,Benton 1,State Senate,58,DEM,Leslie Danks Burke,110
 Yates,Benton 2,State Senate,58,DEM,Leslie Danks Burke,151
@@ -845,6 +845,24 @@ Yates,Potter 1,State Senate,58,,Scatterings,2
 Yates,Starkey 1,State Senate,58,,Scatterings,0
 Yates,Starkey 2,State Senate,58,,Scatterings,0
 Yates,Torrey 1,State Senate,58,,Scatterings,0
+Yates,Barrington 1,State Assembly,132,,Total,577
+Yates,Benton 1,State Assembly,132,,Total,443
+Yates,Benton 2,State Assembly,132,,Total,581
+Yates,Italy 1,State Assembly,132,,Total,516
+Yates,Jerusalem 1,State Assembly,132,,Total,606
+Yates,Jerusalem 2,State Assembly,132,,Total,442
+Yates,Jerusalem 3,State Assembly,132,,Total,511
+Yates,Jerusalem 4,State Assembly,132,,Total,511
+Yates,Middlesex 1,State Assembly,132,,Total,723
+Yates,Milo 2,State Assembly,132,,Total,686
+Yates,Milo 3,State Assembly,132,,Total,557
+Yates,Milo 4,State Assembly,132,,Total,372
+Yates,Milo 5,State Assembly,132,,Total,574
+Yates,Milo 6,State Assembly,132,,Total,644
+Yates,Potter 1,State Assembly,132,,Total,646
+Yates,Starkey 1,State Assembly,132,,Total,558
+Yates,Starkey 2,State Assembly,132,,Total,651
+Yates,Torrey 1,State Assembly,132,,Total,588
 Yates,Barrington 1,State Assembly,132,REP,Philip A Palmesano,347
 Yates,Benton 1,State Assembly,132,REP,Philip A Palmesano,292
 Yates,Benton 2,State Assembly,132,REP,Philip A Palmesano,367
