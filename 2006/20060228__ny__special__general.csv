@@ -1,1 +1,58 @@
-county,office,district,party,candidate,votesSuffolk,State House,8,REP,Philip M. Boyle,4899Suffolk,State House,8,DEM,Ernie Mattace,2936Suffolk,State House,8,IND,Philip M. Boyle,464Suffolk,State House,8,CON,Philip M. Boyle,600Suffolk,State House,8,WOR,Ernie Mattace,292Suffolk,State House,8,STR,Philip M. Boyle,290Suffolk,State House,8,,"Blank, Void, Scattering",8Nassau,State House,17,REP,Thomas McKevitt,2991Nassau,State House,17,DEM,Zahid Ali Syed,1572Nassau,State House,17,IND,Thomas McKevitt,160Nassau,State House,17,CON,Thomas McKevitt,410Nassau,State House,17,WOR,Zahid Ali Syed,119Nassau,State House,17,,"Blank, Void, Scattering",1Kings,State House,59,REP,Ronald G. Haugstatter,141Kings,State House,59,DEM,Alan N. Maisel,1932Kings,State House,59,CON,Alice Gaffney,202Kings,State House,59,,"Blank, Void, Scattering",8New York,State House,67,REP,Emily A. Csendes,875New York,State House,67,DEM,Linda B. Rosenthal,5027New York,State House,67,IND,Michael Lupinacci,499New York,State House,67,WOR,Linda B. Rosenthal,667New York,State House,67,NLP,Michael Lupinacci,104New York,State House,67,WSP,Charles A. Simon,2254New York,State House,67,,"Blank, Void, Scattering",200New York,State House,74,REP,Frank J. Scala,1120New York,State House,74,DEM,Sylvia M. Friedman,2262New York,State House,74,,"Blank, Void, Scattering",24Genesee,State House,139,REP,Stephen M. Hawley,2921Genesee,State House,139,DEM,Gary F. Kent,1287Genesee,State House,139,IND,Stephen M. Hawley,230Genesee,State House,139,CON,Stephen M. Hawley,262Genesee,State House,139,,"Blank, Void, Scattering",66Monroe,State House,139,REP,Stephen M. Hawley,679Monroe,State House,139,DEM,Gary F. Kent,336Monroe,State House,139,IND,Stephen M. Hawley,26Monroe,State House,139,CON,Stephen M. Hawley,112Monroe,State House,139,,"Blank, Void, Scattering",0Niagara,State House,139,REP,Stephen M. Hawley,128Niagara,State House,139,DEM,Gary F. Kent,55Niagara,State House,139,IND,Stephen M. Hawley,7Niagara,State House,139,CON,Stephen M. Hawley,12Niagara,State House,139,,"Blank, Void, Scattering",0Orleans,State House,139,REP,Stephen M. Hawley,1621Orleans,State House,139,DEM,Gary F. Kent,1750Orleans,State House,139,IND,Stephen M. Hawley,103Orleans,State House,139,CON,Stephen M. Hawley,149Orleans,State House,139,,"Blank, Void, Scattering",14Erie,State Senate,60,REP,Christopher L. Jacobs,4535Erie,State Senate,60,DEM,Marc A. Coppola,6336Erie,State Senate,60,IND,Marc A. Coppola,644Erie,State Senate,60,CON,Christopher L. Jacobs,795Erie,State Senate,60,,"Blank, Void, Scattering",167Niagara,State Senate,60,REP,Christopher L. Jacobs,876Niagara,State Senate,60,DEM,Marc A. Coppola,1187Niagara,State Senate,60,IND,Marc A. Coppola,84Niagara,State Senate,60,CON,Christopher L. Jacobs,115Niagara,State Senate,60,,"Blank, Void, Scattering",6
+county,office,district,party,candidate,votes
+Suffolk,State House,8,REP,Philip M. Boyle,4899
+Suffolk,State House,8,DEM,Ernie Mattace,2936
+Suffolk,State House,8,IND,Philip M. Boyle,464
+Suffolk,State House,8,CON,Philip M. Boyle,600
+Suffolk,State House,8,WOR,Ernie Mattace,292
+Suffolk,State House,8,STR,Philip M. Boyle,290
+Suffolk,State House,8,,"Blank, Void, Scattering",8
+Nassau,State House,17,REP,Thomas McKevitt,2991
+Nassau,State House,17,DEM,Zahid Ali Syed,1572
+Nassau,State House,17,IND,Thomas McKevitt,160
+Nassau,State House,17,CON,Thomas McKevitt,410
+Nassau,State House,17,WOR,Zahid Ali Syed,119
+Nassau,State House,17,,"Blank, Void, Scattering",1
+Kings,State House,59,REP,Ronald G. Haugstatter,141
+Kings,State House,59,DEM,Alan N. Maisel,1932
+Kings,State House,59,CON,Alice Gaffney,202
+Kings,State House,59,,"Blank, Void, Scattering",8
+New York,State House,67,REP,Emily A. Csendes,875
+New York,State House,67,DEM,Linda B. Rosenthal,5027
+New York,State House,67,IND,Michael Lupinacci,499
+New York,State House,67,WOR,Linda B. Rosenthal,667
+New York,State House,67,NLP,Michael Lupinacci,104
+New York,State House,67,WSP,Charles A. Simon,2254
+New York,State House,67,,"Blank, Void, Scattering",200
+New York,State House,74,REP,Frank J. Scala,1120
+New York,State House,74,DEM,Sylvia M. Friedman,2262
+New York,State House,74,,"Blank, Void, Scattering",24
+Genesee,State House,139,REP,Stephen M. Hawley,2921
+Genesee,State House,139,DEM,Gary F. Kent,1287
+Genesee,State House,139,IND,Stephen M. Hawley,230
+Genesee,State House,139,CON,Stephen M. Hawley,262
+Genesee,State House,139,,"Blank, Void, Scattering",66
+Monroe,State House,139,REP,Stephen M. Hawley,679
+Monroe,State House,139,DEM,Gary F. Kent,336
+Monroe,State House,139,IND,Stephen M. Hawley,26
+Monroe,State House,139,CON,Stephen M. Hawley,112
+Monroe,State House,139,,"Blank, Void, Scattering",0
+Niagara,State House,139,REP,Stephen M. Hawley,128
+Niagara,State House,139,DEM,Gary F. Kent,55
+Niagara,State House,139,IND,Stephen M. Hawley,7
+Niagara,State House,139,CON,Stephen M. Hawley,12
+Niagara,State House,139,,"Blank, Void, Scattering",0
+Orleans,State House,139,REP,Stephen M. Hawley,1621
+Orleans,State House,139,DEM,Gary F. Kent,1750
+Orleans,State House,139,IND,Stephen M. Hawley,103
+Orleans,State House,139,CON,Stephen M. Hawley,149
+Orleans,State House,139,,"Blank, Void, Scattering",14
+Erie,State Senate,60,REP,Christopher L. Jacobs,4535
+Erie,State Senate,60,DEM,Marc A. Coppola,6336
+Erie,State Senate,60,IND,Marc A. Coppola,644
+Erie,State Senate,60,CON,Christopher L. Jacobs,795
+Erie,State Senate,60,,"Blank, Void, Scattering",167
+Niagara,State Senate,60,REP,Christopher L. Jacobs,876
+Niagara,State Senate,60,DEM,Marc A. Coppola,1187
+Niagara,State Senate,60,IND,Marc A. Coppola,84
+Niagara,State Senate,60,CON,Christopher L. Jacobs,115
+Niagara,State Senate,60,,"Blank, Void, Scattering",6
