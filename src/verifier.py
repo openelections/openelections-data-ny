@@ -153,6 +153,12 @@ class Verifier(object):
 			except StopIteration as si:
 				pass # Stop verifying when exception is thrown
 
+			self.verifyLineEndings(csvfile.newlines)
+
+	def verifyLineEndings(self, newlines):
+		if newlines != ('\n'):
+			self.printError("File doesn't use \\n for line endings.")
+
 	def verifyColumns(self, columns):
 		self.headerColumnCount = len(columns)
 
