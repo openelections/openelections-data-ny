@@ -232,6 +232,8 @@ class Verifier(object):
 	def verifyVotes(self, row):
 		if not self.verifyInteger(row['votes']):
 			self.printError("Vote count must be an integer", row)
+		elif not int(row['votes']) >= 0:
+			self.printError("Vote count must be greater than or equal to zero", row)
 
 	def verifyRowIsUnique(self, row):
 		rowTuple = tuple(row[col] for col in Verifier.uniqueRowIDSet)
