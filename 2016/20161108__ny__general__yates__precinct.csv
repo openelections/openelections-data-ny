@@ -161,24 +161,96 @@ Yates,Potter 1,President,,LBT,Gary Johnson,8
 Yates,Starkey 1,President,,LBT,Gary Johnson,8
 Yates,Starkey 2,President,,LBT,Gary Johnson,9
 Yates,Torrey 1,President,,LBT,Gary Johnson,7
-Yates,Barrington 1,President,,,Write-ins,0
-Yates,Benton 1,President,,,Write-ins,1
-Yates,Benton 2,President,,,Write-ins,4
-Yates,Italy 1,President,,,Write-ins,6
-Yates,Jerusalem 1,President,,,Write-ins,2
-Yates,Jerusalem 2,President,,,Write-ins,1
-Yates,Jerusalem 3,President,,,Write-ins,3
-Yates,Jerusalem 4,President,,,Write-ins,3
-Yates,Middlesex 1,President,,,Write-ins,1
-Yates,Milo 2,President,,,Write-ins,0
-Yates,Milo 3,President,,,Write-ins,3
-Yates,Milo 4,President,,,Write-ins,2
-Yates,Milo 5,President,,,Write-ins,2
-Yates,Milo 6,President,,,Write-ins,2
-Yates,Potter 1,President,,,Write-ins,2
-Yates,Starkey 1,President,,,Write-ins,1
-Yates,Starkey 2,President,,,Write-ins,1
-Yates,Torrey 1,President,,,Write-ins,1
+Yates,Barrington 1,President,,WRI,Darrell Castle,0
+Yates,Benton 1,President,,WRI,Darrell Castle,0
+Yates,Benton 2,President,,WRI,Darrell Castle,0
+Yates,Italy 1,President,,WRI,Darrell Castle,0
+Yates,Jerusalem 1,President,,WRI,Darrell Castle,1
+Yates,Jerusalem 2,President,,WRI,Darrell Castle,0
+Yates,Jerusalem 3,President,,WRI,Darrell Castle,3
+Yates,Jerusalem 4,President,,WRI,Darrell Castle,1
+Yates,Middlesex 1,President,,WRI,Darrell Castle,0
+Yates,Milo 2,President,,WRI,Darrell Castle,0
+Yates,Milo 3,President,,WRI,Darrell Castle,0
+Yates,Milo 4,President,,WRI,Darrell Castle,0
+Yates,Milo 5,President,,WRI,Darrell Castle,0
+Yates,Milo 6,President,,WRI,Darrell Castle,0
+Yates,Potter 1,President,,WRI,Darrell Castle,0
+Yates,Starkey 1,President,,WRI,Darrell Castle,0
+Yates,Starkey 2,President,,WRI,Darrell Castle,0
+Yates,Torrey 1,President,,WRI,Darrell Castle,0
+Yates,Barrington 1,President,,WRI,Evan McMullin,0
+Yates,Benton 1,President,,WRI,Evan McMullin,1
+Yates,Benton 2,President,,WRI,Evan McMullin,4
+Yates,Italy 1,President,,WRI,Evan McMullin,6
+Yates,Jerusalem 1,President,,WRI,Evan McMullin,1
+Yates,Jerusalem 2,President,,WRI,Evan McMullin,0
+Yates,Jerusalem 3,President,,WRI,Evan McMullin,0
+Yates,Jerusalem 4,President,,WRI,Evan McMullin,2
+Yates,Middlesex 1,President,,WRI,Evan McMullin,1
+Yates,Milo 2,President,,WRI,Evan McMullin,0
+Yates,Milo 3,President,,WRI,Evan McMullin,3
+Yates,Milo 4,President,,WRI,Evan McMullin,2
+Yates,Milo 5,President,,WRI,Evan McMullin,2
+Yates,Milo 6,President,,WRI,Evan McMullin,2
+Yates,Potter 1,President,,WRI,Evan McMullin,2
+Yates,Starkey 1,President,,WRI,Evan McMullin,0
+Yates,Starkey 2,President,,WRI,Evan McMullin,1
+Yates,Torrey 1,President,,WRI,Evan McMullin,0
+Yates,Barrington 1,President,,WRI,Robert L Buchanan,0
+Yates,Benton 1,President,,WRI,Robert L Buchanan,0
+Yates,Benton 2,President,,WRI,Robert L Buchanan,0
+Yates,Italy 1,President,,WRI,Robert L Buchanan,0
+Yates,Jerusalem 1,President,,WRI,Robert L Buchanan,0
+Yates,Jerusalem 2,President,,WRI,Robert L Buchanan,1
+Yates,Jerusalem 3,President,,WRI,Robert L Buchanan,0
+Yates,Jerusalem 4,President,,WRI,Robert L Buchanan,0
+Yates,Middlesex 1,President,,WRI,Robert L Buchanan,0
+Yates,Milo 2,President,,WRI,Robert L Buchanan,0
+Yates,Milo 3,President,,WRI,Robert L Buchanan,0
+Yates,Milo 4,President,,WRI,Robert L Buchanan,0
+Yates,Milo 5,President,,WRI,Robert L Buchanan,0
+Yates,Milo 6,President,,WRI,Robert L Buchanan,0
+Yates,Potter 1,President,,WRI,Robert L Buchanan,0
+Yates,Starkey 1,President,,WRI,Robert L Buchanan,0
+Yates,Starkey 2,President,,WRI,Robert L Buchanan,0
+Yates,Torrey 1,President,,WRI,Robert L Buchanan,0
+Yates,Barrington 1,President,,WRI,Robert M Wolff,0
+Yates,Benton 1,President,,WRI,Robert M Wolff,0
+Yates,Benton 2,President,,WRI,Robert M Wolff,0
+Yates,Italy 1,President,,WRI,Robert M Wolff,0
+Yates,Jerusalem 1,President,,WRI,Robert M Wolff,0
+Yates,Jerusalem 2,President,,WRI,Robert M Wolff,0
+Yates,Jerusalem 3,President,,WRI,Robert M Wolff,0
+Yates,Jerusalem 4,President,,WRI,Robert M Wolff,0
+Yates,Middlesex 1,President,,WRI,Robert M Wolff,0
+Yates,Milo 2,President,,WRI,Robert M Wolff,0
+Yates,Milo 3,President,,WRI,Robert M Wolff,0
+Yates,Milo 4,President,,WRI,Robert M Wolff,0
+Yates,Milo 5,President,,WRI,Robert M Wolff,0
+Yates,Milo 6,President,,WRI,Robert M Wolff,0
+Yates,Potter 1,President,,WRI,Robert M Wolff,0
+Yates,Starkey 1,President,,WRI,Robert M Wolff,0
+Yates,Starkey 2,President,,WRI,Robert M Wolff,0
+Yates,Torrey 1,President,,WRI,Robert M Wolff,1
+Yates,Barrington 1,President,,WRI,Tom Hoefling,0
+Yates,Benton 1,President,,WRI,Tom Hoefling,0
+Yates,Benton 2,President,,WRI,Tom Hoefling,0
+Yates,Italy 1,President,,WRI,Tom Hoefling,0
+Yates,Jerusalem 1,President,,WRI,Tom Hoefling,0
+Yates,Jerusalem 2,President,,WRI,Tom Hoefling,0
+Yates,Jerusalem 3,President,,WRI,Tom Hoefling,0
+Yates,Jerusalem 4,President,,WRI,Tom Hoefling,0
+Yates,Middlesex 1,President,,WRI,Tom Hoefling,0
+Yates,Milo 2,President,,WRI,Tom Hoefling,0
+Yates,Milo 3,President,,WRI,Tom Hoefling,0
+Yates,Milo 4,President,,WRI,Tom Hoefling,0
+Yates,Milo 5,President,,WRI,Tom Hoefling,0
+Yates,Milo 6,President,,WRI,Tom Hoefling,0
+Yates,Potter 1,President,,WRI,Tom Hoefling,0
+Yates,Starkey 1,President,,WRI,Tom Hoefling,1
+Yates,Starkey 2,President,,WRI,Tom Hoefling,0
+Yates,Torrey 1,President,,WRI,Tom Hoefling,0
 Yates,Barrington 1,President,,,Under Votes,20
 Yates,Benton 1,President,,,Under Votes,3
 Yates,Benton 2,President,,,Under Votes,11
