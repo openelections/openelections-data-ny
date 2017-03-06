@@ -59,8 +59,8 @@ class Verifier(object):
 	uniqueRowIDSet = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate'])
 	validOffices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'State Senate', 'State Assembly', 'Attorney General', 'Secretary of State', 'State Treasurer', 'Comptroller'])
 	officesWithDistricts = frozenset(['U.S. House', 'State Senate', 'State Assembly'])
-	pseudocandidates = frozenset(['Write-ins', 'Under Votes', 'Over Votes', 'Total', 'Total Votes Cast', 'Scatterings'])
-	normalizedPseudocandidates = frozenset(['writeins', 'undervotes', 'overvotes', 'total', 'totalvotescast', 'scatterings'])
+	pseudocandidates = frozenset(['Write-ins', 'Under Votes', 'Over Votes', 'Total', 'Total Votes Cast', 'Scatterings', 'BVS', 'Over and Under Votes', 'Registered Voters'])
+	normalizedPseudocandidates = frozenset(['writeins', 'undervotes', 'overvotes', 'total', 'totalvotescast', 'scatterings', 'bvs', 'overandundervotes', 'registeredvoters'])
 
 	# Return the appropriate subclass based on the path
 	def __new__(cls, path):
@@ -153,6 +153,12 @@ class Verifier(object):
 			except StopIteration as si:
 				pass # Stop verifying when exception is thrown
 
+			self.verifyLineEndings(csvfile.newlines)
+
+	def verifyLineEndings(self, newlines):
+		if newlines != ('\n'):
+			self.printError("File doesn't use \\n for line endings.")
+
 	def verifyColumns(self, columns):
 		self.headerColumnCount = len(columns)
 
@@ -226,6 +232,8 @@ class Verifier(object):
 	def verifyVotes(self, row):
 		if not self.verifyInteger(row['votes']):
 			self.printError("Vote count must be an integer", row)
+		elif not int(row['votes']) >= 0:
+			self.printError("Vote count must be greater than or equal to zero", row)
 
 	def verifyRowIsUnique(self, row):
 		rowTuple = tuple(row[col] for col in Verifier.uniqueRowIDSet)

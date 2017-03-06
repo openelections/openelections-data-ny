@@ -34,16 +34,18 @@ def main():
 	checker = TotalChecker(args.path, args.excludeOverUnder)
 	checker.singleError = args.singleError
 
-	sortColumns = ['office', 'district']
+	# Precinct total
+	precinctSortColumns = ['office', 'district', 'precinct']
 
 	if not args.isGeneral:
-		sortColumns += ['party']
+		precinctSortColumns += ['party']
+
+	checkedPrecinctTotals = checker.checkTotals('candidate', precinctSortColumns)
 
 	# Candidate total
-	checkedCandidateTotals = checker.checkTotals('precinct', sortColumns + ['candidate'])
+	candidateSortColumns = ['office', 'district', 'party', 'candidate']
 
-	# Precinct total
-	checkedPrecinctTotals = checker.checkTotals('candidate', sortColumns + ['precinct'])
+	checkedCandidateTotals = checker.checkTotals('precinct', candidateSortColumns)
 
 	if not checkedCandidateTotals and not checkedPrecinctTotals:
 		print("No totals to check")
@@ -67,6 +69,9 @@ class TotalChecker(object):
 		if self.excludeOverUnder:
 			self.results = self.results[(self.results.candidate != 'Over Votes') & 
 										(self.results.candidate != 'Under Votes')]
+
+		# The registered voter count will never be part of the vote totals
+		self.results = self.results[(self.results.candidate != 'Registered Voters')]
 
 		self.results_sans_totals = self.results.loc[(self.results.candidate != 'Total') & (self.results.precinct != 'Total')]
 
