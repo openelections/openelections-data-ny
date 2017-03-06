@@ -1,4 +1,15 @@
 county,precinct,office,district,party,candidate,votes
+Saratoga,Total,President,,DEM,Hillary Clinton,48503
+Saratoga,Total,President,,REP,Donald J. Trump,48584
+Saratoga,Total,President,,CON,Donald J. Trump,5991
+Saratoga,Total,President,,GRE,Jill Stein,1825
+Saratoga,Total,President,,WOR,Hillary Clinton,1653
+Saratoga,Total,President,,IND,Gary Johnson,3354
+Saratoga,Total,President,,WEP,Hillary Clinton,757
+Saratoga,Total,President,,LBT,Gary Johnson,1762
+Saratoga,Total,President,,,Write-ins,399
+Saratoga,Total,President,,,Scatterings,1266
+Saratoga,Total,President,,,Under Votes,1024
 Saratoga,Ballston 01,President,,DEM,Hillary Clinton,241
 Saratoga,Ballston 01,President,,REP,Donald J. Trump,182
 Saratoga,Ballston 01,President,,CON,Donald J. Trump,14
@@ -2155,6 +2166,18 @@ Saratoga,Wilton 15,President,,LBT,Gary Johnson,3
 Saratoga,Wilton 15,President,,,Write-ins,0
 Saratoga,Wilton 15,President,,,Scatterings,8
 Saratoga,Wilton 15,President,,,Under Votes,9
+Saratoga,Total,U.S. Senate,,DEM,Charles E. Schumer,57554
+Saratoga,Total,U.S. Senate,,REP,Wendy Long,36535
+Saratoga,Total,U.S. Senate,,CON,Wendy Long,5811
+Saratoga,Total,U.S. Senate,,GRE,Robin Laverne Wilson,1506
+Saratoga,Total,U.S. Senate,,WOR,Charles E. Schumer,3605
+Saratoga,Total,U.S. Senate,,IND,Charles E. Schumer,3263
+Saratoga,Total,U.S. Senate,,WEP,Charles E. Schumer,940
+Saratoga,Total,U.S. Senate,,REF,Wendy Long,363
+Saratoga,Total,U.S. Senate,,LBT,Alex Merced,1138
+Saratoga,Total,U.S. Senate,,,Write-ins,31
+Saratoga,Total,U.S. Senate,,,Scatterings,11
+Saratoga,Total,U.S. Senate,,,Under Votes,4361
 Saratoga,Ballston 01,U.S. Senate,,DEM,Charles E. Schumer,273
 Saratoga,Ballston 01,U.S. Senate,,REP,Wendy Long,137
 Saratoga,Ballston 01,U.S. Senate,,CON,Wendy Long,21
@@ -4507,6 +4530,16 @@ Saratoga,Wilton 15,U.S. Senate,,LBT,Alex Merced,3
 Saratoga,Wilton 15,U.S. Senate,,,Write-ins,1
 Saratoga,Wilton 15,U.S. Senate,,,Scatterings,0
 Saratoga,Wilton 15,U.S. Senate,,,Under Votes,14
+Saratoga,Total,U.S. House,20,DEM,Paul D. Tonko,36423
+Saratoga,Total,U.S. House,20,REP,Joe Vitollo,22278
+Saratoga,Total,U.S. House,20,CON,Joe Vitollo,3880
+Saratoga,Total,U.S. House,20,WOR,Paul D. Tonko,1819
+Saratoga,Total,U.S. House,20,IND,Paul D. Tonko,1923
+Saratoga,Total,U.S. House,20,WEP,Paul D. Tonko,588
+Saratoga,Total,U.S. House,20,REF,Joe Vitollo,262
+Saratoga,Total,U.S. House,20,,Write-ins,12
+Saratoga,Total,U.S. House,20,,Scatterings,10
+Saratoga,Total,U.S. House,20,,Under Votes,3756
 Saratoga,Ballston 02,U.S. House,20,DEM,Paul D. Tonko,315
 Saratoga,Ballston 02,U.S. House,20,REP,Joe Vitollo,219
 Saratoga,Ballston 02,U.S. House,20,CON,Joe Vitollo,36
@@ -5697,6 +5730,16 @@ Saratoga,Waterford 08,U.S. House,20,REF,Joe Vitollo,1
 Saratoga,Waterford 08,U.S. House,20,,Write-ins,0
 Saratoga,Waterford 08,U.S. House,20,,Scatterings,0
 Saratoga,Waterford 08,U.S. House,20,,Under Votes,35
+Saratoga,Total,U.S. House,21,DEM,Mike Derrick,10875
+Saratoga,Total,U.S. House,21,REP,Elise M. Stefanik,23634
+Saratoga,Total,U.S. House,21,CON,Elise M. Stefanik,2873
+Saratoga,Total,U.S. House,21,GRE,Matthew J. Funiciello,1848
+Saratoga,Total,U.S. House,21,WOR,Mike Derrick,868
+Saratoga,Total,U.S. House,21,IND,Elise M. Stefanik,1419
+Saratoga,Total,U.S. House,21,REF,Elise M. Stefanik,155
+Saratoga,Total,U.S. House,21,,Write-ins,22
+Saratoga,Total,U.S. House,21,,Scatterings,6
+Saratoga,Total,U.S. House,21,,Under Votes,2467
 Saratoga,Ballston 01,U.S. House,21,DEM,Mike Derrick,170
 Saratoga,Ballston 01,U.S. House,21,REP,Elise M. Stefanik,220
 Saratoga,Ballston 01,U.S. House,21,CON,Elise M. Stefanik,26
@@ -6467,6 +6510,16 @@ Saratoga,Wilton 15,U.S. House,21,REF,Elise M. Stefanik,0
 Saratoga,Wilton 15,U.S. House,21,,Write-ins,1
 Saratoga,Wilton 15,U.S. House,21,,Scatterings,0
 Saratoga,Wilton 15,U.S. House,21,,Under Votes,15
+Saratoga,Total,State Senate,43,DEM,Shaun P. Francis,18617
+Saratoga,Total,State Senate,43,REP,Kathleen A. Marchione,28048
+Saratoga,Total,State Senate,43,CON,Kathleen A. Marchione,3380
+Saratoga,Total,State Senate,43,GRE,Joseph Levy,1424
+Saratoga,Total,State Senate,43,WOR,Shaun P. Francis,1246
+Saratoga,Total,State Senate,43,IND,Kathleen A. Marchione,1912
+Saratoga,Total,State Senate,43,REF,Kathleen A. Marchione,186
+Saratoga,Total,State Senate,43,,Write-ins,16
+Saratoga,Total,State Senate,43,,Scatterings,7
+Saratoga,Total,State Senate,43,,Under Votes,3888
 Saratoga,Greenfield 01,State Senate,43,DEM,Shaun P. Francis,168
 Saratoga,Greenfield 01,State Senate,43,REP,Kathleen A. Marchione,269
 Saratoga,Greenfield 01,State Senate,43,CON,Kathleen A. Marchione,27
@@ -6948,52 +7001,52 @@ Saratoga,Northumberland 04,State Senate,43,,Write-ins,0
 Saratoga,Northumberland 04,State Senate,43,,Scatterings,1
 Saratoga,Northumberland 04,State Senate,43,,Under Votes,31
 Saratoga,Saratoga 01,State Senate,43,DEM,Shaun P. Francis,172
-Saratoga,Saratoga 01,State Senate,43,REP,Kathleen A.,252
-Saratoga,Saratoga 01,State Senate,43,CON,Kathleen A.,35
+Saratoga,Saratoga 01,State Senate,43,REP,Kathleen A. Marchione,252
+Saratoga,Saratoga 01,State Senate,43,CON,Kathleen A. Marchione,35
 Saratoga,Saratoga 01,State Senate,43,GRE,Joseph Levy,14
 Saratoga,Saratoga 01,State Senate,43,WOR,Shaun P. Francis,6
-Saratoga,Saratoga 01,State Senate,43,IND,Kathleen A.,21
-Saratoga,Saratoga 01,State Senate,43,REF,Kathleen A.,2
+Saratoga,Saratoga 01,State Senate,43,IND,Kathleen A. Marchione,21
+Saratoga,Saratoga 01,State Senate,43,REF,Kathleen A. Marchione,2
 Saratoga,Saratoga 01,State Senate,43,,Write-ins,0
 Saratoga,Saratoga 01,State Senate,43,,Scatterings,0
 Saratoga,Saratoga 01,State Senate,43,,Under Votes,37
 Saratoga,Saratoga 02,State Senate,43,DEM,Shaun P. Francis,236
-Saratoga,Saratoga 02,State Senate,43,REP,Kathleen A.,336
-Saratoga,Saratoga 02,State Senate,43,CON,Kathleen A.,45
+Saratoga,Saratoga 02,State Senate,43,REP,Kathleen A. Marchione,336
+Saratoga,Saratoga 02,State Senate,43,CON,Kathleen A. Marchione,45
 Saratoga,Saratoga 02,State Senate,43,GRE,Joseph Levy,20
 Saratoga,Saratoga 02,State Senate,43,WOR,Shaun P. Francis,14
-Saratoga,Saratoga 02,State Senate,43,IND,Kathleen A.,31
-Saratoga,Saratoga 02,State Senate,43,REF,Kathleen A.,1
+Saratoga,Saratoga 02,State Senate,43,IND,Kathleen A. Marchione,31
+Saratoga,Saratoga 02,State Senate,43,REF,Kathleen A. Marchione,1
 Saratoga,Saratoga 02,State Senate,43,,Write-ins,0
 Saratoga,Saratoga 02,State Senate,43,,Scatterings,0
 Saratoga,Saratoga 02,State Senate,43,,Under Votes,40
 Saratoga,Saratoga 03,State Senate,43,DEM,Shaun P. Francis,115
-Saratoga,Saratoga 03,State Senate,43,REP,Kathleen A.,240
-Saratoga,Saratoga 03,State Senate,43,CON,Kathleen A.,35
+Saratoga,Saratoga 03,State Senate,43,REP,Kathleen A. Marchione,240
+Saratoga,Saratoga 03,State Senate,43,CON,Kathleen A. Marchione,35
 Saratoga,Saratoga 03,State Senate,43,GRE,Joseph Levy,6
 Saratoga,Saratoga 03,State Senate,43,WOR,Shaun P. Francis,10
-Saratoga,Saratoga 03,State Senate,43,IND,Kathleen A.,20
-Saratoga,Saratoga 03,State Senate,43,REF,Kathleen A.,1
+Saratoga,Saratoga 03,State Senate,43,IND,Kathleen A. Marchione,20
+Saratoga,Saratoga 03,State Senate,43,REF,Kathleen A. Marchione,1
 Saratoga,Saratoga 03,State Senate,43,,Write-ins,2
 Saratoga,Saratoga 03,State Senate,43,,Scatterings,0
 Saratoga,Saratoga 03,State Senate,43,,Under Votes,16
 Saratoga,Saratoga 04,State Senate,43,DEM,Shaun P. Francis,110
-Saratoga,Saratoga 04,State Senate,43,REP,Kathleen A.,228
-Saratoga,Saratoga 04,State Senate,43,CON,Kathleen A.,44
+Saratoga,Saratoga 04,State Senate,43,REP,Kathleen A. Marchione,228
+Saratoga,Saratoga 04,State Senate,43,CON,Kathleen A. Marchione,44
 Saratoga,Saratoga 04,State Senate,43,GRE,Joseph Levy,15
 Saratoga,Saratoga 04,State Senate,43,WOR,Shaun P. Francis,9
-Saratoga,Saratoga 04,State Senate,43,IND,Kathleen A.,21
-Saratoga,Saratoga 04,State Senate,43,REF,Kathleen A.,2
+Saratoga,Saratoga 04,State Senate,43,IND,Kathleen A. Marchione,21
+Saratoga,Saratoga 04,State Senate,43,REF,Kathleen A. Marchione,2
 Saratoga,Saratoga 04,State Senate,43,,Write-ins,0
 Saratoga,Saratoga 04,State Senate,43,,Scatterings,0
 Saratoga,Saratoga 04,State Senate,43,,Under Votes,42
 Saratoga,Saratoga 05,State Senate,43,DEM,Shaun P. Francis,160
-Saratoga,Saratoga 05,State Senate,43,REP,Kathleen A.,305
-Saratoga,Saratoga 05,State Senate,43,CON,Kathleen A.,56
+Saratoga,Saratoga 05,State Senate,43,REP,Kathleen A. Marchione,305
+Saratoga,Saratoga 05,State Senate,43,CON,Kathleen A. Marchione,56
 Saratoga,Saratoga 05,State Senate,43,GRE,Joseph Levy,10
 Saratoga,Saratoga 05,State Senate,43,WOR,Shaun P. Francis,10
-Saratoga,Saratoga 05,State Senate,43,IND,Kathleen A.,19
-Saratoga,Saratoga 05,State Senate,43,REF,Kathleen A.,3
+Saratoga,Saratoga 05,State Senate,43,IND,Kathleen A. Marchione,19
+Saratoga,Saratoga 05,State Senate,43,REF,Kathleen A. Marchione,3
 Saratoga,Saratoga 05,State Senate,43,,Write-ins,0
 Saratoga,Saratoga 05,State Senate,43,,Scatterings,1
 Saratoga,Saratoga 05,State Senate,43,,Under Votes,38
@@ -7517,6 +7570,16 @@ Saratoga,Wilton 15,State Senate,43,REF,Kathleen A. Marchione,1
 Saratoga,Wilton 15,State Senate,43,,Write-ins,1
 Saratoga,Wilton 15,State Senate,43,,Scatterings,0
 Saratoga,Wilton 15,State Senate,43,,Under Votes,24
+Saratoga,Total,State Senate,49,DEM,Chad Putman,13463
+Saratoga,Total,State Senate,49,REP,James N. Tedisco,32456
+Saratoga,Total,State Senate,49,CON,James N. Tedisco,4148
+Saratoga,Total,State Senate,49,WOR,Chad Putman,882
+Saratoga,Total,State Senate,49,IND,James N. Tedisco,1965
+Saratoga,Total,State Senate,49,WEP,Chad Putman,356
+Saratoga,Total,State Senate,49,REF,James N. Tedisco,253
+Saratoga,Total,State Senate,49,,Write-ins,12
+Saratoga,Total,State Senate,49,,Scatterings,4
+Saratoga,Total,State Senate,49,,Under Votes,2855
 Saratoga,Ballston 01,State Senate,49,DEM,Chad Putman,139
 Saratoga,Ballston 01,State Senate,49,REP,James N. Tedisco,277
 Saratoga,Ballston 01,State Senate,49,CON,James N. Tedisco,29
@@ -8427,6 +8490,11 @@ Saratoga,Saratoga Spgs 21,State Senate,49,REF,James N. Tedisco,4
 Saratoga,Saratoga Spgs 21,State Senate,49,,Write-ins,0
 Saratoga,Saratoga Spgs 21,State Senate,49,,Scatterings,0
 Saratoga,Saratoga Spgs 21,State Senate,49,,Under Votes,26
+Saratoga,Total,State Assembly,108,DEM,John T. McDonald III,2209
+Saratoga,Total,State Assembly,108,IND,John T. McDonald III,502
+Saratoga,Total,State Assembly,108,,Write-ins,8
+Saratoga,Total,State Assembly,108,,Scatterings,2
+Saratoga,Total,State Assembly,108,,Under Votes,1243
 Saratoga,Waterford 01,State Assembly,108,DEM,John T. McDonald III,211
 Saratoga,Waterford 01,State Assembly,108,IND,John T. McDonald III,61
 Saratoga,Waterford 01,State Assembly,108,,Write-ins,2
@@ -8467,6 +8535,15 @@ Saratoga,Waterford 08,State Assembly,108,IND,John T. McDonald III,92
 Saratoga,Waterford 08,State Assembly,108,,Write-ins,0
 Saratoga,Waterford 08,State Assembly,108,,Scatterings,0
 Saratoga,Waterford 08,State Assembly,108,,Under Votes,263
+Saratoga,Total,State Assembly,112,DEM,Michael R. Godlewski,18497
+Saratoga,Total,State Assembly,112,REP,Mary Beth Walsh,27133
+Saratoga,Total,State Assembly,112,CON,Mary Beth Walsh,3768
+Saratoga,Total,State Assembly,112,IND,Mary Beth Walsh,1553
+Saratoga,Total,State Assembly,112,WEP,Michael R. Godlewski,720
+Saratoga,Total,State Assembly,112,REF,Mary Beth Walsh,222
+Saratoga,Total,State Assembly,112,,Write-ins,37
+Saratoga,Total,State Assembly,112,,Scatterings,6
+Saratoga,Total,State Assembly,112,,Under Votes,5219
 Saratoga,Ballston 01,State Assembly,112,DEM,Michael R. Godlewski,178
 Saratoga,Ballston 01,State Assembly,112,REP,Mary Beth Walsh,238
 Saratoga,Ballston 01,State Assembly,112,CON,Mary Beth Walsh,24
@@ -9304,6 +9381,14 @@ Saratoga,Providence 02,State Assembly,112,REF,Mary Beth Walsh,0
 Saratoga,Providence 02,State Assembly,112,,Write-ins,0
 Saratoga,Providence 02,State Assembly,112,,Scatterings,0
 Saratoga,Providence 02,State Assembly,112,,Under Votes,42
+Saratoga,Total,State Assembly,113,DEM,Carrie Woerner,23357
+Saratoga,Total,State Assembly,113,REP,Christopher H. Boyark,17277
+Saratoga,Total,State Assembly,113,CON,Christopher H. Boyark,2505
+Saratoga,Total,State Assembly,113,IND,Carrie Woerner,2322
+Saratoga,Total,State Assembly,113,REF,Christopher H. Boyark,220
+Saratoga,Total,State Assembly,113,,Write-ins,20
+Saratoga,Total,State Assembly,113,,Scatterings,7
+Saratoga,Total,State Assembly,113,,Under Votes,3602
 Saratoga,Malta 01,State Assembly,113,DEM,Carrie Woerner,373
 Saratoga,Malta 01,State Assembly,113,REP,Christopher H. Boyark,379
 Saratoga,Malta 01,State Assembly,113,CON,Christopher H. Boyark,45
@@ -9992,6 +10077,13 @@ Saratoga,Wilton 15,State Assembly,113,REF,Christopher H. Boyark,0
 Saratoga,Wilton 15,State Assembly,113,,Write-ins,3
 Saratoga,Wilton 15,State Assembly,113,,Scatterings,0
 Saratoga,Wilton 15,State Assembly,113,,Under Votes,19
+Saratoga,Total,State Assembly,114,REP,Daniel G. Stec,2916
+Saratoga,Total,State Assembly,114,CON,Daniel G. Stec,372
+Saratoga,Total,State Assembly,114,GRE,Robin M. Barkenhagen,417
+Saratoga,Total,State Assembly,114,IND,Daniel G. Stec,189
+Saratoga,Total,State Assembly,114,REF,Daniel G. Stec,16
+Saratoga,Total,State Assembly,114,,Write-ins,1
+Saratoga,Total,State Assembly,114,,Under Votes,778
 Saratoga,Corinth 01,State Assembly,114,REP,Daniel G. Stec,287
 Saratoga,Corinth 01,State Assembly,114,CON,Daniel G. Stec,29
 Saratoga,Corinth 01,State Assembly,114,GRE,Robin M. Barkenhagen,53
