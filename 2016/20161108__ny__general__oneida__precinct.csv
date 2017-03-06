@@ -1,4 +1,5 @@
 county,precinct,office,district,candidate,party,votes
+Oneida,Total,President,,Hillary Clinton,DEM,32217
 Oneida,Utica W1P01,President,,Hillary Clinton,DEM,50
 Oneida,Utica W1P02,President,,Hillary Clinton,DEM,92
 Oneida,Utica W1P03,President,,Hillary Clinton,DEM,100
@@ -50,13 +51,7 @@ Oneida,Utica W6P06,President,,Hillary Clinton,DEM,220
 Oneida,Utica W6P07,President,,Hillary Clinton,DEM,195
 Oneida,Utica W6P08,President,,Hillary Clinton,DEM,276
 Oneida,Utica W6P09,President,,Hillary Clinton,DEM,115
-Oneida,Utica Ward 1 Total,President,,Hillary Clinton,DEM,1044
-Oneida,Utica Ward 2 Total,President,,Hillary Clinton,DEM,1189
-Oneida,Utica Ward 3 Total,President,,Hillary Clinton,DEM,2016
-Oneida,Utica Ward 4 Total,President,,Hillary Clinton,DEM,1493
-Oneida,Utica Ward 5 Total,President,,Hillary Clinton,DEM,1473
-Oneida,Utica Ward 6 Total,President,,Hillary Clinton,DEM,1673
-Oneida,Utica NY,President,,Hillary Clinton,DEM,8888
+Oneida,Total,President,,Donald Trump,REP,46282
 Oneida,Utica W1P01,President,,Donald Trump,REP,33
 Oneida,Utica W1P02,President,,Donald Trump,REP,23
 Oneida,Utica W1P03,President,,Donald Trump,REP,24
@@ -108,13 +103,7 @@ Oneida,Utica W6P06,President,,Donald Trump,REP,322
 Oneida,Utica W6P07,President,,Donald Trump,REP,215
 Oneida,Utica W6P08,President,,Donald Trump,REP,287
 Oneida,Utica W6P09,President,,Donald Trump,REP,65
-Oneida,Utica Ward 1 Total,President,,Donald Trump,REP,362
-Oneida,Utica Ward 2 Total,President,,Donald Trump,REP,790
-Oneida,Utica Ward 3 Total,President,,Donald Trump,REP,1487
-Oneida,Utica Ward 4 Total,President,,Donald Trump,REP,1308
-Oneida,Utica Ward 5 Total,President,,Donald Trump,REP,333
-Oneida,Utica Ward 6 Total,President,,Donald Trump,REP,2118
-Oneida,Utica NY,President,,Donald Trump,REP,6398
+Oneida,Total,President,,Donald Trump,CON,5155
 Oneida,Utica W1P01,President,,Donald Trump,CON,6
 Oneida,Utica W1P02,President,,Donald Trump,CON,4
 Oneida,Utica W1P03,President,,Donald Trump,CON,4
@@ -166,13 +155,7 @@ Oneida,Utica W6P06,President,,Donald Trump,CON,21
 Oneida,Utica W6P07,President,,Donald Trump,CON,21
 Oneida,Utica W6P08,President,,Donald Trump,CON,22
 Oneida,Utica W6P09,President,,Donald Trump,CON,6
-Oneida,Utica Ward 1 Total,President,,Donald Trump,CON,43
-Oneida,Utica Ward 2 Total,President,,Donald Trump,CON,78
-Oneida,Utica Ward 3 Total,President,,Donald Trump,CON,161
-Oneida,Utica Ward 4 Total,President,,Donald Trump,CON,98
-Oneida,Utica Ward 5 Total,President,,Donald Trump,CON,38
-Oneida,Utica Ward 6 Total,President,,Donald Trump,CON,189
-Oneida,Utica NY,President,,Donald Trump,CON,607
+Oneida,Total,President,,Jill Stein,GRN,1235
 Oneida,Utica W1P01,President,,Jill Stein,GRN,3
 Oneida,Utica W1P02,President,,Jill Stein,GRN,3
 Oneida,Utica W1P03,President,,Jill Stein,GRN,2
@@ -224,13 +207,7 @@ Oneida,Utica W6P06,President,,Jill Stein,GRN,5
 Oneida,Utica W6P07,President,,Jill Stein,GRN,5
 Oneida,Utica W6P08,President,,Jill Stein,GRN,8
 Oneida,Utica W6P09,President,,Jill Stein,GRN,4
-Oneida,Utica Ward 1 Total,President,,Jill Stein,GRN,23
-Oneida,Utica Ward 2 Total,President,,Jill Stein,GRN,47
-Oneida,Utica Ward 3 Total,President,,Jill Stein,GRN,68
-Oneida,Utica Ward 4 Total,President,,Jill Stein,GRN,36
-Oneida,Utica Ward 5 Total,President,,Jill Stein,GRN,41
-Oneida,Utica Ward 6 Total,President,,Jill Stein,GRN,49
-Oneida,Utica NY,President,,Jill Stein,GRN,264
+Oneida,Total,President,,Hillary Clinton,WOR,1070
 Oneida,Utica W1P01,President,,Hillary Clinton,WOR,1
 Oneida,Utica W1P02,President,,Hillary Clinton,WOR,3
 Oneida,Utica W1P03,President,,Hillary Clinton,WOR,3
@@ -282,13 +259,7 @@ Oneida,Utica W6P06,President,,Hillary Clinton,WOR,4
 Oneida,Utica W6P07,President,,Hillary Clinton,WOR,3
 Oneida,Utica W6P08,President,,Hillary Clinton,WOR,10
 Oneida,Utica W6P09,President,,Hillary Clinton,WOR,3
-Oneida,Utica Ward 1 Total,President,,Hillary Clinton,WOR,16
-Oneida,Utica Ward 2 Total,President,,Hillary Clinton,WOR,28
-Oneida,Utica Ward 3 Total,President,,Hillary Clinton,WOR,65
-Oneida,Utica Ward 4 Total,President,,Hillary Clinton,WOR,29
-Oneida,Utica Ward 5 Total,President,,Hillary Clinton,WOR,38
-Oneida,Utica Ward 6 Total,President,,Hillary Clinton,WOR,43
-Oneida,Utica NY,President,,Hillary Clinton,WOR,219
+Oneida,Total,President,,Gary Johnson,IDC,2682
 Oneida,Utica W1P01,President,,Gary Johnson,IDC,3
 Oneida,Utica W1P02,President,,Gary Johnson,IDC,2
 Oneida,Utica W1P03,President,,Gary Johnson,IDC,1
@@ -340,13 +311,7 @@ Oneida,Utica W6P06,President,,Gary Johnson,IDC,10
 Oneida,Utica W6P07,President,,Gary Johnson,IDC,13
 Oneida,Utica W6P08,President,,Gary Johnson,IDC,8
 Oneida,Utica W6P09,President,,Gary Johnson,IDC,3
-Oneida,Utica Ward 1 Total,President,,Gary Johnson,IDC,26
-Oneida,Utica Ward 2 Total,President,,Gary Johnson,IDC,51
-Oneida,Utica Ward 3 Total,President,,Gary Johnson,IDC,104
-Oneida,Utica Ward 4 Total,President,,Gary Johnson,IDC,55
-Oneida,Utica Ward 5 Total,President,,Gary Johnson,IDC,34
-Oneida,Utica Ward 6 Total,President,,Gary Johnson,IDC,99
-Oneida,Utica NY,President,,Gary Johnson,IDC,369
+Oneida,Total,President,,Hillary Clinton,WEP,456
 Oneida,Utica W1P01,President,,Hillary Clinton,WEP,1
 Oneida,Utica W1P02,President,,Hillary Clinton,WEP,3
 Oneida,Utica W1P03,President,,Hillary Clinton,WEP,2
@@ -398,13 +363,7 @@ Oneida,Utica W6P06,President,,Hillary Clinton,WEP,3
 Oneida,Utica W6P07,President,,Hillary Clinton,WEP,3
 Oneida,Utica W6P08,President,,Hillary Clinton,WEP,4
 Oneida,Utica W6P09,President,,Hillary Clinton,WEP,0
-Oneida,Utica Ward 1 Total,President,,Hillary Clinton,WEP,9
-Oneida,Utica Ward 2 Total,President,,Hillary Clinton,WEP,10
-Oneida,Utica Ward 3 Total,President,,Hillary Clinton,WEP,26
-Oneida,Utica Ward 4 Total,President,,Hillary Clinton,WEP,11
-Oneida,Utica Ward 5 Total,President,,Hillary Clinton,WEP,10
-Oneida,Utica Ward 6 Total,President,,Hillary Clinton,WEP,17
-Oneida,Utica NY,President,,Hillary Clinton,WEP,83
+Oneida,Total,President,,Gary Johnson,LBT,1072
 Oneida,Utica W1P01,President,,Gary Johnson,LBT,0
 Oneida,Utica W1P02,President,,Gary Johnson,LBT,1
 Oneida,Utica W1P03,President,,Gary Johnson,LBT,4
@@ -456,190 +415,57 @@ Oneida,Utica W6P06,President,,Gary Johnson,LBT,1
 Oneida,Utica W6P07,President,,Gary Johnson,LBT,3
 Oneida,Utica W6P08,President,,Gary Johnson,LBT,5
 Oneida,Utica W6P09,President,,Gary Johnson,LBT,0
-Oneida,Utica Ward 1 Total,President,,Gary Johnson,LBT,10
-Oneida,Utica Ward 2 Total,President,,Gary Johnson,LBT,25
-Oneida,Utica Ward 3 Total,President,,Gary Johnson,LBT,55
-Oneida,Utica Ward 4 Total,President,,Gary Johnson,LBT,18
-Oneida,Utica Ward 5 Total,President,,Gary Johnson,LBT,8
-Oneida,Utica Ward 6 Total,President,,Gary Johnson,LBT,27
-Oneida,Utica NY,President,,Gary Johnson,LBT,143
-Oneida,Utica W1P01,President,,Evan McMullin,WRI,0
-Oneida,Utica W1P02,President,,Evan McMullin,WRI,0
-Oneida,Utica W1P03,President,,Evan McMullin,WRI,0
-Oneida,Utica W1P04,President,,Evan McMullin,WRI,0
-Oneida,Utica W1P05,President,,Evan McMullin,WRI,0
-Oneida,Utica W1P06,President,,Evan McMullin,WRI,0
-Oneida,Utica W1P07,President,,Evan McMullin,WRI,0
-Oneida,Utica W1P08,President,,Evan McMullin,WRI,2
-Oneida,Utica W2P01,President,,Evan McMullin,WRI,0
-Oneida,Utica W2P02,President,,Evan McMullin,WRI,0
-Oneida,Utica W2P03,President,,Evan McMullin,WRI,0
-Oneida,Utica W2P04,President,,Evan McMullin,WRI,1
-Oneida,Utica W2P05,President,,Evan McMullin,WRI,0
-Oneida,Utica W2P06,President,,Evan McMullin,WRI,0
-Oneida,Utica W2P07,President,,Evan McMullin,WRI,0
-Oneida,Utica W2P08,President,,Evan McMullin,WRI,0
-Oneida,Utica W3P01,President,,Evan McMullin,WRI,0
-Oneida,Utica W3P02,President,,Evan McMullin,WRI,0
-Oneida,Utica W3P03,President,,Evan McMullin,WRI,1
-Oneida,Utica W3P04,President,,Evan McMullin,WRI,0
-Oneida,Utica W3P05,President,,Evan McMullin,WRI,1
-Oneida,Utica W3P06,President,,Evan McMullin,WRI,0
-Oneida,Utica W3P07,President,,Evan McMullin,WRI,0
-Oneida,Utica W3P08,President,,Evan McMullin,WRI,1
-Oneida,Utica W3P09,President,,Evan McMullin,WRI,1
-Oneida,Utica W3P10,President,,Evan McMullin,WRI,0
-Oneida,Utica W4P01,President,,Evan McMullin,WRI,0
-Oneida,Utica W4P02,President,,Evan McMullin,WRI,0
-Oneida,Utica W4P03,President,,Evan McMullin,WRI,0
-Oneida,Utica W4P04,President,,Evan McMullin,WRI,0
-Oneida,Utica W4P05,President,,Evan McMullin,WRI,1
-Oneida,Utica W4P06,President,,Evan McMullin,WRI,1
-Oneida,Utica W4P07,President,,Evan McMullin,WRI,0
-Oneida,Utica W4P08,President,,Evan McMullin,WRI,1
-Oneida,Utica W4P09,President,,Evan McMullin,WRI,0
-Oneida,Utica W5P01,President,,Evan McMullin,WRI,0
-Oneida,Utica W5P02,President,,Evan McMullin,WRI,0
-Oneida,Utica W5P03,President,,Evan McMullin,WRI,0
-Oneida,Utica W5P04,President,,Evan McMullin,WRI,0
-Oneida,Utica W5P05,President,,Evan McMullin,WRI,0
-Oneida,Utica W5P06,President,,Evan McMullin,WRI,0
-Oneida,Utica W5P07,President,,Evan McMullin,WRI,0
-Oneida,Utica W6P01,President,,Evan McMullin,WRI,0
-Oneida,Utica W6P02,President,,Evan McMullin,WRI,1
-Oneida,Utica W6P03,President,,Evan McMullin,WRI,0
-Oneida,Utica W6P04,President,,Evan McMullin,WRI,0
-Oneida,Utica W6P05,President,,Evan McMullin,WRI,2
-Oneida,Utica W6P06,President,,Evan McMullin,WRI,0
-Oneida,Utica W6P07,President,,Evan McMullin,WRI,0
-Oneida,Utica W6P08,President,,Evan McMullin,WRI,0
-Oneida,Utica W6P09,President,,Evan McMullin,WRI,0
-Oneida,Utica Ward 1 Total,President,,Evan McMullin,WRI,2
-Oneida,Utica Ward 2 Total,President,,Evan McMullin,WRI,1
-Oneida,Utica Ward 3 Total,President,,Evan McMullin,WRI,4
-Oneida,Utica Ward 4 Total,President,,Evan McMullin,WRI,3
-Oneida,Utica Ward 5 Total,President,,Evan McMullin,WRI,0
-Oneida,Utica Ward 6 Total,President,,Evan McMullin,WRI,3
-Oneida,Utica NY,President,,Evan McMullin,WRI,13
-Oneida,Utica W1P01,President,,Bernie Sanders,WRI,0
-Oneida,Utica W1P02,President,,Bernie Sanders,WRI,1
-Oneida,Utica W1P03,President,,Bernie Sanders,WRI,0
-Oneida,Utica W1P04,President,,Bernie Sanders,WRI,0
-Oneida,Utica W1P05,President,,Bernie Sanders,WRI,0
-Oneida,Utica W1P06,President,,Bernie Sanders,WRI,1
-Oneida,Utica W1P07,President,,Bernie Sanders,WRI,1
-Oneida,Utica W1P08,President,,Bernie Sanders,WRI,3
-Oneida,Utica W2P01,President,,Bernie Sanders,WRI,1
-Oneida,Utica W2P02,President,,Bernie Sanders,WRI,0
-Oneida,Utica W2P03,President,,Bernie Sanders,WRI,1
-Oneida,Utica W2P04,President,,Bernie Sanders,WRI,0
-Oneida,Utica W2P05,President,,Bernie Sanders,WRI,2
-Oneida,Utica W2P06,President,,Bernie Sanders,WRI,1
-Oneida,Utica W2P07,President,,Bernie Sanders,WRI,0
-Oneida,Utica W2P08,President,,Bernie Sanders,WRI,0
-Oneida,Utica W3P01,President,,Bernie Sanders,WRI,1
-Oneida,Utica W3P02,President,,Bernie Sanders,WRI,0
-Oneida,Utica W3P03,President,,Bernie Sanders,WRI,2
-Oneida,Utica W3P04,President,,Bernie Sanders,WRI,1
-Oneida,Utica W3P05,President,,Bernie Sanders,WRI,0
-Oneida,Utica W3P06,President,,Bernie Sanders,WRI,0
-Oneida,Utica W3P07,President,,Bernie Sanders,WRI,2
-Oneida,Utica W3P08,President,,Bernie Sanders,WRI,1
-Oneida,Utica W3P09,President,,Bernie Sanders,WRI,1
-Oneida,Utica W3P10,President,,Bernie Sanders,WRI,2
-Oneida,Utica W4P01,President,,Bernie Sanders,WRI,0
-Oneida,Utica W4P02,President,,Bernie Sanders,WRI,0
-Oneida,Utica W4P03,President,,Bernie Sanders,WRI,0
-Oneida,Utica W4P04,President,,Bernie Sanders,WRI,0
-Oneida,Utica W4P05,President,,Bernie Sanders,WRI,0
-Oneida,Utica W4P06,President,,Bernie Sanders,WRI,0
-Oneida,Utica W4P07,President,,Bernie Sanders,WRI,0
-Oneida,Utica W4P08,President,,Bernie Sanders,WRI,0
-Oneida,Utica W4P09,President,,Bernie Sanders,WRI,0
-Oneida,Utica W5P01,President,,Bernie Sanders,WRI,1
-Oneida,Utica W5P02,President,,Bernie Sanders,WRI,4
-Oneida,Utica W5P03,President,,Bernie Sanders,WRI,0
-Oneida,Utica W5P04,President,,Bernie Sanders,WRI,1
-Oneida,Utica W5P05,President,,Bernie Sanders,WRI,2
-Oneida,Utica W5P06,President,,Bernie Sanders,WRI,0
-Oneida,Utica W5P07,President,,Bernie Sanders,WRI,1
-Oneida,Utica W6P01,President,,Bernie Sanders,WRI,1
-Oneida,Utica W6P02,President,,Bernie Sanders,WRI,1
-Oneida,Utica W6P03,President,,Bernie Sanders,WRI,2
-Oneida,Utica W6P04,President,,Bernie Sanders,WRI,0
-Oneida,Utica W6P05,President,,Bernie Sanders,WRI,1
-Oneida,Utica W6P06,President,,Bernie Sanders,WRI,0
-Oneida,Utica W6P07,President,,Bernie Sanders,WRI,1
-Oneida,Utica W6P08,President,,Bernie Sanders,WRI,1
-Oneida,Utica W6P09,President,,Bernie Sanders,WRI,0
-Oneida,Utica Ward 1 Total,President,,Bernie Sanders,WRI,6
-Oneida,Utica Ward 2 Total,President,,Bernie Sanders,WRI,5
-Oneida,Utica Ward 3 Total,President,,Bernie Sanders,WRI,10
-Oneida,Utica Ward 4 Total,President,,Bernie Sanders,WRI,0
-Oneida,Utica Ward 5 Total,President,,Bernie Sanders,WRI,9
-Oneida,Utica Ward 6 Total,President,,Bernie Sanders,WRI,7
-Oneida,Utica NY,President,,Bernie Sanders,WRI,37
-Oneida,Utica W1P01,President,,Scatterings,,0
-Oneida,Utica W1P02,President,,Scatterings,,0
-Oneida,Utica W1P03,President,,Scatterings,,0
-Oneida,Utica W1P04,President,,Scatterings,,0
-Oneida,Utica W1P05,President,,Scatterings,,0
-Oneida,Utica W1P06,President,,Scatterings,,0
-Oneida,Utica W1P07,President,,Scatterings,,1
-Oneida,Utica W1P08,President,,Scatterings,,2
-Oneida,Utica W2P01,President,,Scatterings,,1
-Oneida,Utica W2P02,President,,Scatterings,,0
-Oneida,Utica W2P03,President,,Scatterings,,1
-Oneida,Utica W2P04,President,,Scatterings,,5
-Oneida,Utica W2P04,President,,Jill Stein,,1
-Oneida,Utica W2P05,President,,Scatterings,,0
-Oneida,Utica W2P06,President,,Scatterings,,0
-Oneida,Utica W2P07,President,,Scatterings,,3
-Oneida,Utica W2P08,President,,Scatterings,,0
-Oneida,Utica W3P01,President,,Scatterings,,3
-Oneida,Utica W3P02,President,,Scatterings,,2
-Oneida,Utica W3P03,President,,Scatterings,,8
-Oneida,Utica W3P04,President,,Scatterings,,4
-Oneida,Utica W3P05,President,,Scatterings,,4
-Oneida,Utica W3P06,President,,Scatterings,,5
-Oneida,Utica W3P06,President,,Darrell Castle,WRI,1
-Oneida,Utica W3P07,President,,Scatterings,,0
-Oneida,Utica W3P08,President,,Scatterings,,1
-Oneida,Utica W3P09,President,,Scatterings,,3
-Oneida,Utica W3P10,President,,Scatterings,,0
-Oneida,Utica W4P01,President,,Scatterings,,1
-Oneida,Utica W4P02,President,,Scatterings,,1
-Oneida,Utica W4P03,President,,Scatterings,,7
-Oneida,Utica W4P04,President,,Scatterings,,1
-Oneida,Utica W4P05,President,,Scatterings,,1
-Oneida,Utica W4P06,President,,Scatterings,,1
-Oneida,Utica W4P07,President,,Scatterings,,0
-Oneida,Utica W4P08,President,,Scatterings,,1
-Oneida,Utica W4P09,President,,Scatterings,,4
-Oneida,Utica W5P01,President,,Scatterings,,1
-Oneida,Utica W5P02,President,,Scatterings,,1
-Oneida,Utica W5P03,President,,Scatterings,,0
-Oneida,Utica W5P04,President,,Scatterings,,0
-Oneida,Utica W5P05,President,,Scatterings,,1
-Oneida,Utica W5P06,President,,Scatterings,,1
-Oneida,Utica W5P07,President,,Scatterings,,0
-Oneida,Utica W6P01,President,,Scatterings,,0
-Oneida,Utica W6P02,President,,Scatterings,,3
-Oneida,Utica W6P03,President,,Scatterings,,3
-Oneida,Utica W6P04,President,,Scatterings,,1
-Oneida,Utica w6p04,President,,Mike Maturen,WRI,2
-Oneida,Utica W6P05,President,,Scatterings,,4
-Oneida,Utica W6P06,President,,Scatterings,,3
-Oneida,Utica W6P07,President,,Scatterings,,0
-Oneida,Utica W6P08,President,,Scatterings,,5
-Oneida,Utica W6P09,President,,Scatterings,,0
-Oneida,Utica Ward 1 Total,President,,Scatterings,,3
-Oneida,Utica Ward 2 Total,President,,Scatterings,,11
-Oneida,Utica Ward 3 Total,President,,Scatterings,,31
-Oneida,Utica Ward 4 Total,President,,Scatterings,,17
-Oneida,Utica Ward 5 Total,President,,Scatterings,,4
-Oneida,Utica Ward 6 Total,President,,Scatterings,,21
-Oneida,Utica NY,President,,Scatterings,,87
+Oneida,Utica W1P01,President,,Write-ins,,0
+Oneida,Utica W1P02,President,,Write-ins,,1
+Oneida,Utica W1P03,President,,Write-ins,,0
+Oneida,Utica W1P04,President,,Write-ins,,0
+Oneida,Utica W1P05,President,,Write-ins,,0
+Oneida,Utica W1P06,President,,Write-ins,,1
+Oneida,Utica W1P07,President,,Write-ins,,2
+Oneida,Utica W1P08,President,,Write-ins,,7
+Oneida,Utica W2P01,President,,Write-ins,,2
+Oneida,Utica W2P02,President,,Write-ins,,0
+Oneida,Utica W2P03,President,,Write-ins,,2
+Oneida,Utica W2P04,President,,Write-ins,,7
+Oneida,Utica W2P05,President,,Write-ins,,2
+Oneida,Utica W2P06,President,,Write-ins,,1
+Oneida,Utica W2P07,President,,Write-ins,,3
+Oneida,Utica W2P08,President,,Write-ins,,0
+Oneida,Utica W3P01,President,,Write-ins,,4
+Oneida,Utica W3P02,President,,Write-ins,,2
+Oneida,Utica W3P03,President,,Write-ins,,11
+Oneida,Utica W3P04,President,,Write-ins,,5
+Oneida,Utica W3P05,President,,Write-ins,,5
+Oneida,Utica W3P06,President,,Write-ins,,6
+Oneida,Utica W3P07,President,,Write-ins,,2
+Oneida,Utica W3P08,President,,Write-ins,,3
+Oneida,Utica W3P09,President,,Write-ins,,5
+Oneida,Utica W3P10,President,,Write-ins,,2
+Oneida,Utica W4P01,President,,Write-ins,,1
+Oneida,Utica W4P02,President,,Write-ins,,1
+Oneida,Utica W4P03,President,,Write-ins,,7
+Oneida,Utica W4P04,President,,Write-ins,,1
+Oneida,Utica W4P05,President,,Write-ins,,2
+Oneida,Utica W4P06,President,,Write-ins,,2
+Oneida,Utica W4P07,President,,Write-ins,,0
+Oneida,Utica W4P08,President,,Write-ins,,2
+Oneida,Utica W4P09,President,,Write-ins,,4
+Oneida,Utica W5P01,President,,Write-ins,,2
+Oneida,Utica W5P02,President,,Write-ins,,5
+Oneida,Utica W5P03,President,,Write-ins,,0
+Oneida,Utica W5P04,President,,Write-ins,,1
+Oneida,Utica W5P05,President,,Write-ins,,3
+Oneida,Utica W5P06,President,,Write-ins,,1
+Oneida,Utica W5P07,President,,Write-ins,,1
+Oneida,Utica W6P01,President,,Write-ins,,1
+Oneida,Utica W6P02,President,,Write-ins,,5
+Oneida,Utica W6P03,President,,Write-ins,,5
+Oneida,Utica W6P04,President,,Write-ins,,3
+Oneida,Utica W6P05,President,,Write-ins,,7
+Oneida,Utica W6P06,President,,Write-ins,,3
+Oneida,Utica W6P07,President,,Write-ins,,1
+Oneida,Utica W6P08,President,,Write-ins,,6
+Oneida,Utica W6P09,President,,Write-ins,,0
 Oneida,Utica W1P01,U.S. Senate,,Charles Schumer,DEM,61
 Oneida,Utica W1P02,U.S. Senate,,Charles Schumer,DEM,89
 Oneida,Utica W1P03,U.S. Senate,,Charles Schumer,DEM,86
@@ -691,13 +517,6 @@ Oneida,Utica W6P06,U.S. Senate,,Charles Schumer,DEM,341
 Oneida,Utica W6P07,U.S. Senate,,Charles Schumer,DEM,248
 Oneida,Utica W6P08,U.S. Senate,,Charles Schumer,DEM,391
 Oneida,Utica W6P09,U.S. Senate,,Charles Schumer,DEM,140
-Oneida,Utica Ward 1 Total,U.S. Senate,,Charles Schumer,DEM,1014
-Oneida,Utica Ward 2 Total,U.S. Senate,,Charles Schumer,DEM,1291
-Oneida,Utica Ward 3 Total,U.S. Senate,,Charles Schumer,DEM,2436
-Oneida,Utica Ward 4 Total,U.S. Senate,,Charles Schumer,DEM,1933
-Oneida,Utica Ward 5 Total,U.S. Senate,,Charles Schumer,DEM,1391
-Oneida,Utica Ward 6 Total,U.S. Senate,,Charles Schumer,DEM,2357
-Oneida,Utica Totals,U.S. Senate,,Charles Schumer,DEM,10422
 Oneida,Utica W1P01,U.S. Senate,,Wendy Long,REP,13
 Oneida,Utica W1P02,U.S. Senate,,Wendy Long,REP,13
 Oneida,Utica W1P03,U.S. Senate,,Wendy Long,REP,23
@@ -749,13 +568,6 @@ Oneida,Utica W6P06,U.S. Senate,,Wendy Long,REP,147
 Oneida,Utica W6P07,U.S. Senate,,Wendy Long,REP,114
 Oneida,Utica W6P08,U.S. Senate,,Wendy Long,REP,138
 Oneida,Utica W6P09,U.S. Senate,,Wendy Long,REP,24
-Oneida,Utica Ward 1 Total,U.S. Senate,,Wendy Long,REP,210
-Oneida,Utica Ward 2 Total,U.S. Senate,,Wendy Long,REP,485
-Oneida,Utica Ward 3 Total,U.S. Senate,,Wendy Long,REP,820
-Oneida,Utica Ward 4 Total,U.S. Senate,,Wendy Long,REP,535
-Oneida,Utica Ward 5 Total,U.S. Senate,,Wendy Long,REP,208
-Oneida,Utica Ward 6 Total,U.S. Senate,,Wendy Long,REP,1048
-Oneida,Utica Totals,U.S. Senate,,Wendy Long,REP,3306
 Oneida,Utica W1P01,U.S. Senate,,Wendy Long,CON,7
 Oneida,Utica W1P02,U.S. Senate,,Wendy Long,CON,1
 Oneida,Utica W1P03,U.S. Senate,,Wendy Long,CON,3
@@ -807,13 +619,6 @@ Oneida,Utica W6P06,U.S. Senate,,Wendy Long,CON,18
 Oneida,Utica W6P07,U.S. Senate,,Wendy Long,CON,21
 Oneida,Utica W6P08,U.S. Senate,,Wendy Long,CON,14
 Oneida,Utica W6P09,U.S. Senate,,Wendy Long,CON,3
-Oneida,Utica Ward 1 Total,U.S. Senate,,Wendy Long,CON,33
-Oneida,Utica Ward 2 Total,U.S. Senate,,Wendy Long,CON,71
-Oneida,Utica Ward 3 Total,U.S. Senate,,Wendy Long,CON,142
-Oneida,Utica Ward 4 Total,U.S. Senate,,Wendy Long,CON,68
-Oneida,Utica Ward 5 Total,U.S. Senate,,Wendy Long,CON,25
-Oneida,Utica Ward 6 Total,U.S. Senate,,Wendy Long,CON,145
-Oneida,Utica Totals,U.S. Senate,,Wendy Long,CON,484
 Oneida,Utica W1P01,U.S. Senate,,Robin Wilson,GRN,5
 Oneida,Utica W1P02,U.S. Senate,,Robin Wilson,GRN,3
 Oneida,Utica W1P03,U.S. Senate,,Robin Wilson,GRN,4
@@ -865,13 +670,6 @@ Oneida,Utica W6P06,U.S. Senate,,Robin Wilson,GRN,4
 Oneida,Utica W6P07,U.S. Senate,,Robin Wilson,GRN,6
 Oneida,Utica W6P08,U.S. Senate,,Robin Wilson,GRN,14
 Oneida,Utica W6P09,U.S. Senate,,Robin Wilson,GRN,4
-Oneida,Utica Ward 1 Total,U.S. Senate,,Robin Wilson,GRN,30
-Oneida,Utica Ward 2 Total,U.S. Senate,,Robin Wilson,GRN,48
-Oneida,Utica Ward 3 Total,U.S. Senate,,Robin Wilson,GRN,62
-Oneida,Utica Ward 4 Total,U.S. Senate,,Robin Wilson,GRN,33
-Oneida,Utica Ward 5 Total,U.S. Senate,,Robin Wilson,GRN,45
-Oneida,Utica Ward 6 Total,U.S. Senate,,Robin Wilson,GRN,45
-Oneida,Utica Totals,U.S. Senate,,Robin Wilson,GRN,263
 Oneida,Utica W1P01,U.S. Senate,,Charles Schumer,IDC,1
 Oneida,Utica W1P02,U.S. Senate,,Charles Schumer,IDC,4
 Oneida,Utica W1P03,U.S. Senate,,Charles Schumer,IDC,8
@@ -923,13 +721,6 @@ Oneida,Utica W6P06,U.S. Senate,,Charles Schumer,IDC,20
 Oneida,Utica W6P07,U.S. Senate,,Charles Schumer,IDC,14
 Oneida,Utica W6P08,U.S. Senate,,Charles Schumer,IDC,16
 Oneida,Utica W6P09,U.S. Senate,,Charles Schumer,IDC,5
-Oneida,Utica Ward 1 Total,U.S. Senate,,Charles Schumer,IDC,61
-Oneida,Utica Ward 2 Total,U.S. Senate,,Charles Schumer,IDC,76
-Oneida,Utica Ward 3 Total,U.S. Senate,,Charles Schumer,IDC,160
-Oneida,Utica Ward 4 Total,U.S. Senate,,Charles Schumer,IDC,106
-Oneida,Utica Ward 5 Total,U.S. Senate,,Charles Schumer,IDC,96
-Oneida,Utica Ward 6 Total,U.S. Senate,,Charles Schumer,IDC,153
-Oneida,Utica Totals,U.S. Senate,,Charles Schumer,IDC,652
 Oneida,Utica W1P01,U.S. Senate,,Charles Schumer,WOR,1
 Oneida,Utica W1P02,U.S. Senate,,Charles Schumer,WOR,1
 Oneida,Utica W1P03,U.S. Senate,,Charles Schumer,WOR,2
@@ -981,13 +772,6 @@ Oneida,Utica W6P06,U.S. Senate,,Charles Schumer,WOR,3
 Oneida,Utica W6P07,U.S. Senate,,Charles Schumer,WOR,7
 Oneida,Utica W6P08,U.S. Senate,,Charles Schumer,WOR,5
 Oneida,Utica W6P09,U.S. Senate,,Charles Schumer,WOR,0
-Oneida,Utica Ward 1 Total,U.S. Senate,,Charles Schumer,WOR,13
-Oneida,Utica Ward 2 Total,U.S. Senate,,Charles Schumer,WOR,22
-Oneida,Utica Ward 3 Total,U.S. Senate,,Charles Schumer,WOR,32
-Oneida,Utica Ward 4 Total,U.S. Senate,,Charles Schumer,WOR,18
-Oneida,Utica Ward 5 Total,U.S. Senate,,Charles Schumer,WOR,19
-Oneida,Utica Ward 6 Total,U.S. Senate,,Charles Schumer,WOR,25
-Oneida,Utica Totals,U.S. Senate,,Charles Schumer,WOR,129
 Oneida,Utica W1P01,U.S. Senate,,Charles Schumer,WEP,1
 Oneida,Utica W1P02,U.S. Senate,,Charles Schumer,WEP,1
 Oneida,Utica W1P03,U.S. Senate,,Charles Schumer,WEP,2
@@ -1039,13 +823,6 @@ Oneida,Utica W6P06,U.S. Senate,,Charles Schumer,WEP,3
 Oneida,Utica W6P07,U.S. Senate,,Charles Schumer,WEP,7
 Oneida,Utica W6P08,U.S. Senate,,Charles Schumer,WEP,5
 Oneida,Utica W6P09,U.S. Senate,,Charles Schumer,WEP,0
-Oneida,Utica Ward 1 Total,U.S. Senate,,Charles Schumer,WEP,13
-Oneida,Utica Ward 2 Total,U.S. Senate,,Charles Schumer,WEP,22
-Oneida,Utica Ward 3 Total,U.S. Senate,,Charles Schumer,WEP,32
-Oneida,Utica Ward 4 Total,U.S. Senate,,Charles Schumer,WEP,18
-Oneida,Utica Ward 5 Total,U.S. Senate,,Charles Schumer,WEP,19
-Oneida,Utica Ward 6 Total,U.S. Senate,,Charles Schumer,WEP,25
-Oneida,Utica Totals,U.S. Senate,,Charles Schumer,WEP,129
 Oneida,Utica W1P01,U.S. Senate,,Wendy Long,REF,0
 Oneida,Utica W1P02,U.S. Senate,,Wendy Long,REF,2
 Oneida,Utica W1P03,U.S. Senate,,Wendy Long,REF,1
@@ -1097,13 +874,6 @@ Oneida,Utica W6P06,U.S. Senate,,Wendy Long,REF,3
 Oneida,Utica W6P07,U.S. Senate,,Wendy Long,REF,4
 Oneida,Utica W6P08,U.S. Senate,,Wendy Long,REF,3
 Oneida,Utica W6P09,U.S. Senate,,Wendy Long,REF,0
-Oneida,Utica Ward 1 Total,U.S. Senate,,Wendy Long,REF,7
-Oneida,Utica Ward 2 Total,U.S. Senate,,Wendy Long,REF,15
-Oneida,Utica Ward 3 Total,U.S. Senate,,Wendy Long,REF,13
-Oneida,Utica Ward 4 Total,U.S. Senate,,Wendy Long,REF,8
-Oneida,Utica Ward 5 Total,U.S. Senate,,Wendy Long,REF,4
-Oneida,Utica Ward 6 Total,U.S. Senate,,Wendy Long,REF,12
-Oneida,Utica Totals,U.S. Senate,,Wendy Long,REF,59
 Oneida,Utica W1P01,U.S. Senate,,Alex Merced,LBT,0
 Oneida,Utica W1P02,U.S. Senate,,Alex Merced,LBT,0
 Oneida,Utica W1P03,U.S. Senate,,Alex Merced,LBT,2
@@ -1155,13 +925,6 @@ Oneida,Utica W6P06,U.S. Senate,,Alex Merced,LBT,2
 Oneida,Utica W6P07,U.S. Senate,,Alex Merced,LBT,2
 Oneida,Utica W6P08,U.S. Senate,,Alex Merced,LBT,3
 Oneida,Utica W6P09,U.S. Senate,,Alex Merced,LBT,2
-Oneida,Utica Ward 1 Total,U.S. Senate,,Alex Merced,LBT,0
-Oneida,Utica Ward 2 Total,U.S. Senate,,Alex Merced,LBT,2
-Oneida,Utica Ward 3 Total,U.S. Senate,,Alex Merced,LBT,2
-Oneida,Utica Ward 4 Total,U.S. Senate,,Alex Merced,LBT,0
-Oneida,Utica Ward 5 Total,U.S. Senate,,Alex Merced,LBT,1
-Oneida,Utica Ward 6 Total,U.S. Senate,,Alex Merced,LBT,2
-Oneida,Utica Totals,U.S. Senate,,Alex Merced,LBT,7
 Oneida,Utica W1P01,U.S. Senate,,Write-ins,,0
 Oneida,Utica W1P02,U.S. Senate,,Write-ins,,0
 Oneida,Utica W1P03,U.S. Senate,,Write-ins,,0
@@ -1213,13 +976,6 @@ Oneida,Utica W6P06,U.S. Senate,,Write-ins,,0
 Oneida,Utica W6P07,U.S. Senate,,Write-ins,,0
 Oneida,Utica W6P08,U.S. Senate,,Write-ins,,1
 Oneida,Utica W6P09,U.S. Senate,,Write-ins,,0
-Oneida,Utica Ward 1 Total,U.S. Senate,,Write-ins,,0
-Oneida,Utica Ward 2 Total,U.S. Senate,,Write-ins,,2
-Oneida,Utica Ward 3 Total,U.S. Senate,,Write-ins,,2
-Oneida,Utica Ward 4 Total,U.S. Senate,,Write-ins,,0
-Oneida,Utica Ward 5 Total,U.S. Senate,,Write-ins,,1
-Oneida,Utica Ward 6 Total,U.S. Senate,,Write-ins,,2
-Oneida,Utica Totals,U.S. Senate,,Write-ins,,7
 Oneida,Utica W1P01,U.S. House,22,Kim Myers,DEM,50
 Oneida,Utica W1P02,U.S. House,22,Kim Myers,DEM,87
 Oneida,Utica W1P03,U.S. House,22,Kim Myers,DEM,78
@@ -1271,13 +1027,6 @@ Oneida,Utica W6P06,U.S. House,22,Kim Myers,DEM,216
 Oneida,Utica W6P07,U.S. House,22,Kim Myers,DEM,179
 Oneida,Utica W6P08,U.S. House,22,Kim Myers,DEM,243
 Oneida,Utica W6P09,U.S. House,22,Kim Myers,DEM,112
-Oneida,Utica Ward 1 Total,U.S. House,22,Kim Myers,DEM,916
-Oneida,Utica Ward 2 Total,U.S. House,22,Kim Myers,DEM,1032
-Oneida,Utica Ward 3 Total,U.S. House,22,Kim Myers,DEM,1783
-Oneida,Utica Ward 4 Total,U.S. House,22,Kim Myers,DEM,1386
-Oneida,Utica Ward 5 Total,U.S. House,22,Kim Myers,DEM,1266
-Oneida,Utica Ward 6 Total,U.S. House,22,Kim Myers,DEM,1560
-Oneida,Utica Totals,U.S. House,22,Kim Myers,DEM,7943
 Oneida,Utica W1P01,U.S. House,22,Claudia Tenney,REP,26
 Oneida,Utica W1P02,U.S. House,22,Claudia Tenney,REP,21
 Oneida,Utica W1P03,U.S. House,22,Claudia Tenney,REP,24
@@ -1329,13 +1078,6 @@ Oneida,Utica W6P06,U.S. House,22,Claudia Tenney,REP,227
 Oneida,Utica W6P07,U.S. House,22,Claudia Tenney,REP,163
 Oneida,Utica W6P08,U.S. House,22,Claudia Tenney,REP,224
 Oneida,Utica W6P09,U.S. House,22,Claudia Tenney,REP,47
-Oneida,Utica Ward 1 Total,U.S. House,22,Claudia Tenney,REP,291
-Oneida,Utica Ward 2 Total,U.S. House,22,Claudia Tenney,REP,600
-Oneida,Utica Ward 3 Total,U.S. House,22,Claudia Tenney,REP,1197
-Oneida,Utica Ward 4 Total,U.S. House,22,Claudia Tenney,REP,906
-Oneida,Utica Ward 5 Total,U.S. House,22,Claudia Tenney,REP,282
-Oneida,Utica Ward 6 Total,U.S. House,22,Claudia Tenney,REP,1566
-Oneida,Utica Totals,U.S. House,22,Claudia Tenney,REP,4842
 Oneida,Utica W1P01,U.S. House,22,Claudia Tenney,CON,7
 Oneida,Utica W1P02,U.S. House,22,Claudia Tenney,CON,3
 Oneida,Utica W1P03,U.S. House,22,Claudia Tenney,CON,7
@@ -1387,13 +1129,6 @@ Oneida,Utica W6P06,U.S. House,22,Claudia Tenney,CON,23
 Oneida,Utica W6P07,U.S. House,22,Claudia Tenney,CON,24
 Oneida,Utica W6P08,U.S. House,22,Claudia Tenney,CON,28
 Oneida,Utica W6P09,U.S. House,22,Claudia Tenney,CON,5
-Oneida,Utica Ward 1 Total,U.S. House,22,Claudia Tenney,CON,59
-Oneida,Utica Ward 2 Total,U.S. House,22,Claudia Tenney,CON,114
-Oneida,Utica Ward 3 Total,U.S. House,22,Claudia Tenney,CON,184
-Oneida,Utica Ward 4 Total,U.S. House,22,Claudia Tenney,CON,126
-Oneida,Utica Ward 5 Total,U.S. House,22,Claudia Tenney,CON,60
-Oneida,Utica Ward 6 Total,U.S. House,22,Claudia Tenney,CON,201
-Oneida,Utica Totals,U.S. House,22,Claudia Tenney,CON,744
 Oneida,Utica W1P01,U.S. House,22,Kim Myers,WOR,5
 Oneida,Utica W1P02,U.S. House,22,Kim Myers,WOR,1
 Oneida,Utica W1P03,U.S. House,22,Kim Myers,WOR,5
@@ -1445,13 +1180,6 @@ Oneida,Utica W6P06,U.S. House,22,Kim Myers,WOR,20
 Oneida,Utica W6P07,U.S. House,22,Kim Myers,WOR,9
 Oneida,Utica W6P08,U.S. House,22,Kim Myers,WOR,13
 Oneida,Utica W6P09,U.S. House,22,Kim Myers,WOR,6
-Oneida,Utica Ward 1 Total,U.S. House,22,Kim Myers,WOR,38
-Oneida,Utica Ward 2 Total,U.S. House,22,Kim Myers,WOR,94
-Oneida,Utica Ward 3 Total,U.S. House,22,Kim Myers,WOR,136
-Oneida,Utica Ward 4 Total,U.S. House,22,Kim Myers,WOR,88
-Oneida,Utica Ward 5 Total,U.S. House,22,Kim Myers,WOR,91
-Oneida,Utica Ward 6 Total,U.S. House,22,Kim Myers,WOR,127
-Oneida,Utica Totals,U.S. House,22,Kim Myers,WOR,574
 Oneida,Utica W1P01,U.S. House,22,Martin Babinec,REF,3
 Oneida,Utica W1P02,U.S. House,22,Martin Babinec,REF,8
 Oneida,Utica W1P03,U.S. House,22,Martin Babinec,REF,9
@@ -1503,13 +1231,6 @@ Oneida,Utica W6P06,U.S. House,22,Martin Babinec,REF,63
 Oneida,Utica W6P07,U.S. House,22,Martin Babinec,REF,40
 Oneida,Utica W6P08,U.S. House,22,Martin Babinec,REF,82
 Oneida,Utica W6P09,U.S. House,22,Martin Babinec,REF,8
-Oneida,Utica Ward 1 Total,U.S. House,22,Martin Babinec,REF,98
-Oneida,Utica Ward 2 Total,U.S. House,22,Martin Babinec,REF,164
-Oneida,Utica Ward 3 Total,U.S. House,22,Martin Babinec,REF,437
-Oneida,Utica Ward 4 Total,U.S. House,22,Martin Babinec,REF,282
-Oneida,Utica Ward 5 Total,U.S. House,22,Martin Babinec,REF,92
-Oneida,Utica Ward 6 Total,U.S. House,22,Martin Babinec,REF,451
-Oneida,Utica Totals,U.S. House,22,Martin Babinec,REF,1524
 Oneida,Utica W1P01,U.S. House,22,Martin Babinec,UJP,1
 Oneida,Utica W1P02,U.S. House,22,Martin Babinec,UJP,4
 Oneida,Utica W1P03,U.S. House,22,Martin Babinec,UJP,4
@@ -1561,13 +1282,6 @@ Oneida,Utica W6P06,U.S. House,22,Martin Babinec,UJP,18
 Oneida,Utica W6P07,U.S. House,22,Martin Babinec,UJP,17
 Oneida,Utica W6P08,U.S. House,22,Martin Babinec,UJP,20
 Oneida,Utica W6P09,U.S. House,22,Martin Babinec,UJP,7
-Oneida,Utica Ward 1 Total,U.S. House,22,Martin Babinec,UJP,32
-Oneida,Utica Ward 2 Total,U.S. House,22,Martin Babinec,UJP,63
-Oneida,Utica Ward 3 Total,U.S. House,22,Martin Babinec,UJP,144
-Oneida,Utica Ward 4 Total,U.S. House,22,Martin Babinec,UJP,94
-Oneida,Utica Ward 5 Total,U.S. House,22,Martin Babinec,UJP,47
-Oneida,Utica Ward 6 Total,U.S. House,22,Martin Babinec,UJP,153
-Oneida,Utica Totals,U.S. House,22,Martin Babinec,UJP,533
 Oneida,Utica W1P01,U.S. House,22,Write-ins,,0
 Oneida,Utica W1P02,U.S. House,22,Write-ins,,0
 Oneida,Utica W1P03,U.S. House,22,Write-ins,,0
@@ -1619,13 +1333,6 @@ Oneida,Utica W6P06,U.S. House,22,Write-ins,,0
 Oneida,Utica W6P07,U.S. House,22,Write-ins,,0
 Oneida,Utica W6P08,U.S. House,22,Write-ins,,0
 Oneida,Utica W6P09,U.S. House,22,Write-ins,,0
-Oneida,Utica Ward 1 Total,U.S. House,22,Write-ins,,1
-Oneida,Utica Ward 2 Total,U.S. House,22,Write-ins,,2
-Oneida,Utica Ward 3 Total,U.S. House,22,Write-ins,,4
-Oneida,Utica Ward 4 Total,U.S. House,22,Write-ins,,1
-Oneida,Utica Ward 5 Total,U.S. House,22,Write-ins,,2
-Oneida,Utica Ward 6 Total,U.S. House,22,Write-ins,,2
-Oneida,Utica Totals,U.S. House,22,Write-ins,,12
 Oneida,Utica W1P01,State Senate,47,Joseph Griffo,REP,40
 Oneida,Utica W1P02,State Senate,47,Joseph Griffo,REP,45
 Oneida,Utica W1P03,State Senate,47,Joseph Griffo,REP,53
@@ -1677,13 +1384,6 @@ Oneida,Utica W6P06,State Senate,47,Joseph Griffo,REP,382
 Oneida,Utica W6P07,State Senate,47,Joseph Griffo,REP,250
 Oneida,Utica W6P08,State Senate,47,Joseph Griffo,REP,357
 Oneida,Utica W6P09,State Senate,47,Joseph Griffo,REP,79
-Oneida,Utica Ward 1 Total,State Senate,47,Joseph Griffo,REP,538
-Oneida,Utica Ward 2 Total,State Senate,47,Joseph Griffo,REP,943
-Oneida,Utica Ward 3 Total,State Senate,47,Joseph Griffo,REP,2037
-Oneida,Utica Ward 4 Total,State Senate,47,Joseph Griffo,REP,1505
-Oneida,Utica Ward 5 Total,State Senate,47,Joseph Griffo,REP,572
-Oneida,Utica Ward 6 Total,State Senate,47,Joseph Griffo,REP,2518
-Oneida,Utica Totals,State Senate,47,Joseph Griffo,REP,8113
 Oneida,Utica W1P01,State Senate,47,Joseph Griffo,CON,9
 Oneida,Utica W1P02,State Senate,47,Joseph Griffo,CON,7
 Oneida,Utica W1P03,State Senate,47,Joseph Griffo,CON,9
@@ -1735,13 +1435,6 @@ Oneida,Utica W6P06,State Senate,47,Joseph Griffo,CON,20
 Oneida,Utica W6P07,State Senate,47,Joseph Griffo,CON,29
 Oneida,Utica W6P08,State Senate,47,Joseph Griffo,CON,37
 Oneida,Utica W6P09,State Senate,47,Joseph Griffo,CON,11
-Oneida,Utica Ward 1 Total,State Senate,47,Joseph Griffo,CON,101
-Oneida,Utica Ward 2 Total,State Senate,47,Joseph Griffo,CON,156
-Oneida,Utica Ward 3 Total,State Senate,47,Joseph Griffo,CON,246
-Oneida,Utica Ward 4 Total,State Senate,47,Joseph Griffo,CON,181
-Oneida,Utica Ward 5 Total,State Senate,47,Joseph Griffo,CON,125
-Oneida,Utica Ward 6 Total,State Senate,47,Joseph Griffo,CON,255
-Oneida,Utica Totals,State Senate,47,Joseph Griffo,CON,1064
 Oneida,Utica W1P01,State Senate,47,Joseph Griffo,IDC,9
 Oneida,Utica W1P02,State Senate,47,Joseph Griffo,IDC,22
 Oneida,Utica W1P03,State Senate,47,Joseph Griffo,IDC,13
@@ -1793,13 +1486,6 @@ Oneida,Utica W6P06,State Senate,47,Joseph Griffo,IDC,52
 Oneida,Utica W6P07,State Senate,47,Joseph Griffo,IDC,27
 Oneida,Utica W6P08,State Senate,47,Joseph Griffo,IDC,48
 Oneida,Utica W6P09,State Senate,47,Joseph Griffo,IDC,21
-Oneida,Utica Ward 1 Total,State Senate,47,Joseph Griffo,IDC,145
-Oneida,Utica Ward 2 Total,State Senate,47,Joseph Griffo,IDC,240
-Oneida,Utica Ward 3 Total,State Senate,47,Joseph Griffo,IDC,460
-Oneida,Utica Ward 4 Total,State Senate,47,Joseph Griffo,IDC,257
-Oneida,Utica Ward 5 Total,State Senate,47,Joseph Griffo,IDC,215
-Oneida,Utica Ward 6 Total,State Senate,47,Joseph Griffo,IDC,348
-Oneida,Utica Totals,State Senate,47,Joseph Griffo,IDC,1665
 Oneida,Utica W1P01,State Senate,47,Joseph Griffo,REF,2
 Oneida,Utica W1P02,State Senate,47,Joseph Griffo,REF,5
 Oneida,Utica W1P03,State Senate,47,Joseph Griffo,REF,6
@@ -1851,13 +1537,6 @@ Oneida,Utica W6P06,State Senate,47,Joseph Griffo,REF,5
 Oneida,Utica W6P07,State Senate,47,Joseph Griffo,REF,12
 Oneida,Utica W6P08,State Senate,47,Joseph Griffo,REF,14
 Oneida,Utica W6P09,State Senate,47,Joseph Griffo,REF,5
-Oneida,Utica Ward 1 Total,State Senate,47,Joseph Griffo,REF,44
-Oneida,Utica Ward 2 Total,State Senate,47,Joseph Griffo,REF,35
-Oneida,Utica Ward 3 Total,State Senate,47,Joseph Griffo,REF,67
-Oneida,Utica Ward 4 Total,State Senate,47,Joseph Griffo,REF,39
-Oneida,Utica Ward 5 Total,State Senate,47,Joseph Griffo,REF,38
-Oneida,Utica Ward 6 Total,State Senate,47,Joseph Griffo,REF,61
-Oneida,Utica Totals,State Senate,47,Joseph Griffo,REF,284
 Oneida,Utica W1P01,State Senate,47,Write-ins,,1
 Oneida,Utica W1P02,State Senate,47,Write-ins,,1
 Oneida,Utica W1P03,State Senate,47,Write-ins,,0
@@ -1909,13 +1588,6 @@ Oneida,Utica W6P06,State Senate,47,Write-ins,,1
 Oneida,Utica W6P07,State Senate,47,Write-ins,,0
 Oneida,Utica W6P08,State Senate,47,Write-ins,,0
 Oneida,Utica W6P09,State Senate,47,Write-ins,,1
-Oneida,Utica Ward 1 Total,State Senate,47,Write-ins,,4
-Oneida,Utica Ward 2 Total,State Senate,47,Write-ins,,6
-Oneida,Utica Ward 3 Total,State Senate,47,Write-ins,,20
-Oneida,Utica Ward 4 Total,State Senate,47,Write-ins,,9
-Oneida,Utica Ward 5 Total,State Senate,47,Write-ins,,5
-Oneida,Utica Ward 6 Total,State Senate,47,Write-ins,,9
-Oneida,Utica Totals,State Senate,47,Write-ins,,53
 Oneida,Utica W1P01,State Assembly,119,Anthony Brindisi,DEM,65
 Oneida,Utica W1P02,State Assembly,119,Anthony Brindisi,DEM,96
 Oneida,Utica W1P03,State Assembly,119,Anthony Brindisi,DEM,87
@@ -1967,13 +1639,6 @@ Oneida,Utica W6P06,State Assembly,119,Anthony Brindisi,DEM,353
 Oneida,Utica W6P07,State Assembly,119,Anthony Brindisi,DEM,280
 Oneida,Utica W6P08,State Assembly,119,Anthony Brindisi,DEM,414
 Oneida,Utica W6P09,State Assembly,119,Anthony Brindisi,DEM,145
-Oneida,Utica Ward 1 Total,State Assembly,119,Anthony Brindisi,DEM,1051
-Oneida,Utica Ward 2 Total,State Assembly,119,Anthony Brindisi,DEM,1359
-Oneida,Utica Ward 3 Total,State Assembly,119,Anthony Brindisi,DEM,2584
-Oneida,Utica Ward 4 Total,State Assembly,119,Anthony Brindisi,DEM,2081
-Oneida,Utica Ward 5 Total,State Assembly,119,Anthony Brindisi,DEM,1426
-Oneida,Utica Ward 6 Total,State Assembly,119,Anthony Brindisi,DEM,2577
-Oneida,Utica Totals,State Assembly,119,Anthony Brindisi,DEM,11078
 Oneida,Utica W1P01,State Assembly,119,Anthony Brindisi,WOR,11
 Oneida,Utica W1P02,State Assembly,119,Anthony Brindisi,WOR,8
 Oneida,Utica W1P03,State Assembly,119,Anthony Brindisi,WOR,13
@@ -2025,13 +1690,6 @@ Oneida,Utica W6P06,State Assembly,119,Anthony Brindisi,WOR,40
 Oneida,Utica W6P07,State Assembly,119,Anthony Brindisi,WOR,49
 Oneida,Utica W6P08,State Assembly,119,Anthony Brindisi,WOR,32
 Oneida,Utica W6P09,State Assembly,119,Anthony Brindisi,WOR,10
-Oneida,Utica Ward 1 Total,State Assembly,119,Anthony Brindisi,WOR,120
-Oneida,Utica Ward 2 Total,State Assembly,119,Anthony Brindisi,WOR,165
-Oneida,Utica Ward 3 Total,State Assembly,119,Anthony Brindisi,WOR,285
-Oneida,Utica Ward 4 Total,State Assembly,119,Anthony Brindisi,WOR,235
-Oneida,Utica Ward 5 Total,State Assembly,119,Anthony Brindisi,WOR,152
-Oneida,Utica Ward 6 Total,State Assembly,119,Anthony Brindisi,WOR,335
-Oneida,Utica Totals,State Assembly,119,Anthony Brindisi,WOR,1292
 Oneida,Utica W1P01,State Assembly,119,Anthony Brindisi,IDC,4
 Oneida,Utica W1P02,State Assembly,119,Anthony Brindisi,IDC,9
 Oneida,Utica W1P03,State Assembly,119,Anthony Brindisi,IDC,4
@@ -2083,13 +1741,6 @@ Oneida,Utica W6P06,State Assembly,119,Anthony Brindisi,IDC,65
 Oneida,Utica W6P07,State Assembly,119,Anthony Brindisi,IDC,28
 Oneida,Utica W6P08,State Assembly,119,Anthony Brindisi,IDC,44
 Oneida,Utica W6P09,State Assembly,119,Anthony Brindisi,IDC,12
-Oneida,Utica Ward 1 Total,State Assembly,119,Anthony Brindisi,IDC,77
-Oneida,Utica Ward 2 Total,State Assembly,119,Anthony Brindisi,IDC,176
-Oneida,Utica Ward 3 Total,State Assembly,119,Anthony Brindisi,IDC,381
-Oneida,Utica Ward 4 Total,State Assembly,119,Anthony Brindisi,IDC,207
-Oneida,Utica Ward 5 Total,State Assembly,119,Anthony Brindisi,IDC,100
-Oneida,Utica Ward 6 Total,State Assembly,119,Anthony Brindisi,IDC,391
-Oneida,Utica Totals,State Assembly,119,Anthony Brindisi,IDC,1332
 Oneida,Utica W1P01,State Assembly,119,Write-ins,,0
 Oneida,Utica W1P02,State Assembly,119,Write-ins,,0
 Oneida,Utica W1P03,State Assembly,119,Write-ins,,0
@@ -2141,13 +1792,6 @@ Oneida,Utica W6P06,State Assembly,119,Write-ins,,2
 Oneida,Utica W6P07,State Assembly,119,Write-ins,,0
 Oneida,Utica W6P08,State Assembly,119,Write-ins,,0
 Oneida,Utica W6P09,State Assembly,119,Write-ins,,0
-Oneida,Utica Ward 1 Total,State Assembly,119,Write-ins,,2
-Oneida,Utica Ward 2 Total,State Assembly,119,Write-ins,,5
-Oneida,Utica Ward 3 Total,State Assembly,119,Write-ins,,11
-Oneida,Utica Ward 4 Total,State Assembly,119,Write-ins,,6
-Oneida,Utica Ward 5 Total,State Assembly,119,Write-ins,,4
-Oneida,Utica Ward 6 Total,State Assembly,119,Write-ins,,6
-Oneida,Utica Totals,State Assembly,119,Write-ins,,34
 Oneida,Rome W1D1,President,,Hillary Clinton,DEM,117
 Oneida,Rome W1D2,President,,Hillary Clinton,DEM,111
 Oneida,Rome W1D3,President,,Hillary Clinton,DEM,174
@@ -2179,14 +1823,6 @@ Oneida,Rome W7D2,President,,Hillary Clinton,DEM,165
 Oneida,Rome W7D3,President,,Hillary Clinton,DEM,164
 Oneida,Rome W7D4,President,,Hillary Clinton,DEM,162
 Oneida,Rome W7D5,President,,Hillary Clinton,DEM,174
-Oneida,Rome Ward 1 Total,President,,Hillary Clinton,DEM,517
-Oneida,Rome Ward 2 Total,President,,Hillary Clinton,DEM,391
-Oneida,Rome Ward 3 Total,President,,Hillary Clinton,DEM,416
-Oneida,Rome Ward 4 Total,President,,Hillary Clinton,DEM,478
-Oneida,Rome Ward 5 Total,President,,Hillary Clinton,DEM,714
-Oneida,Rome Ward 6 Total,President,,Hillary Clinton,DEM,786
-Oneida,Rome Ward 7 Total,President,,Hillary Clinton,DEM,734
-Oneida,Rome Totals,President,,Hillary Clinton,DEM,4036
 Oneida,Rome W1D1,President,,Donald Trump,REP,154
 Oneida,Rome W1D2,President,,Donald Trump,REP,181
 Oneida,Rome W1D3,President,,Donald Trump,REP,204
@@ -2218,14 +1854,6 @@ Oneida,Rome W7D2,President,,Donald Trump,REP,228
 Oneida,Rome W7D3,President,,Donald Trump,REP,271
 Oneida,Rome W7D4,President,,Donald Trump,REP,197
 Oneida,Rome W7D5,President,,Donald Trump,REP,181
-Oneida,Rome Ward 1 Total,President,,Donald Trump,REP,711
-Oneida,Rome Ward 2 Total,President,,Donald Trump,REP,691
-Oneida,Rome Ward 3 Total,President,,Donald Trump,REP,697
-Oneida,Rome Ward 4 Total,President,,Donald Trump,REP,678
-Oneida,Rome Ward 5 Total,President,,Donald Trump,REP,937
-Oneida,Rome Ward 6 Total,President,,Donald Trump,REP,1252
-Oneida,Rome Ward 7 Total,President,,Donald Trump,REP,1041
-Oneida,Rome Totals,President,,Donald Trump,REP,6007
 Oneida,Rome W1D1,President,,Donald Trump,CON,21
 Oneida,Rome W1D2,President,,Donald Trump,CON,22
 Oneida,Rome W1D3,President,,Donald Trump,CON,32
@@ -2257,14 +1885,6 @@ Oneida,Rome W7D2,President,,Donald Trump,CON,20
 Oneida,Rome W7D3,President,,Donald Trump,CON,30
 Oneida,Rome W7D4,President,,Donald Trump,CON,7
 Oneida,Rome W7D5,President,,Donald Trump,CON,20
-Oneida,Rome Ward 1 Total,President,,Donald Trump,CON,104
-Oneida,Rome Ward 2 Total,President,,Donald Trump,CON,84
-Oneida,Rome Ward 3 Total,President,,Donald Trump,CON,97
-Oneida,Rome Ward 4 Total,President,,Donald Trump,CON,77
-Oneida,Rome Ward 5 Total,President,,Donald Trump,CON,108
-Oneida,Rome Ward 6 Total,President,,Donald Trump,CON,151
-Oneida,Rome Ward 7 Total,President,,Donald Trump,CON,105
-Oneida,Rome Totals,President,,Donald Trump,CON,726
 Oneida,Rome W1D1,President,,Jill Stein,GRN,7
 Oneida,Rome W1D2,President,,Jill Stein,GRN,9
 Oneida,Rome W1D3,President,,Jill Stein,GRN,7
@@ -2296,14 +1916,6 @@ Oneida,Rome W7D2,President,,Jill Stein,GRN,5
 Oneida,Rome W7D3,President,,Jill Stein,GRN,5
 Oneida,Rome W7D4,President,,Jill Stein,GRN,6
 Oneida,Rome W7D5,President,,Jill Stein,GRN,12
-Oneida,Rome Ward 1 Total,President,,Jill Stein,GRN,27
-Oneida,Rome Ward 2 Total,President,,Jill Stein,GRN,16
-Oneida,Rome Ward 3 Total,President,,Jill Stein,GRN,18
-Oneida,Rome Ward 4 Total,President,,Jill Stein,GRN,22
-Oneida,Rome Ward 5 Total,President,,Jill Stein,GRN,12
-Oneida,Rome Ward 6 Total,President,,Jill Stein,GRN,25
-Oneida,Rome Ward 7 Total,President,,Jill Stein,GRN,33
-Oneida,Rome Totals,President,,Jill Stein,GRN,153
 Oneida,Rome W1D1,President,,Hillary Clinton,WOR,2
 Oneida,Rome W1D2,President,,Hillary Clinton,WOR,5
 Oneida,Rome W1D3,President,,Hillary Clinton,WOR,9
@@ -2335,14 +1947,6 @@ Oneida,Rome W7D2,President,,Hillary Clinton,WOR,3
 Oneida,Rome W7D3,President,,Hillary Clinton,WOR,7
 Oneida,Rome W7D4,President,,Hillary Clinton,WOR,5
 Oneida,Rome W7D5,President,,Hillary Clinton,WOR,4
-Oneida,Rome Ward 1 Total,President,,Hillary Clinton,WOR,19
-Oneida,Rome Ward 2 Total,President,,Hillary Clinton,WOR,16
-Oneida,Rome Ward 3 Total,President,,Hillary Clinton,WOR,13
-Oneida,Rome Ward 4 Total,President,,Hillary Clinton,WOR,26
-Oneida,Rome Ward 5 Total,President,,Hillary Clinton,WOR,22
-Oneida,Rome Ward 6 Total,President,,Hillary Clinton,WOR,21
-Oneida,Rome Ward 7 Total,President,,Hillary Clinton,WOR,22
-Oneida,Rome Totals,President,,Hillary Clinton,WOR,139
 Oneida,Rome W1D1,President,,Gary Johnson,IDC,6
 Oneida,Rome W1D2,President,,Gary Johnson,IDC,8
 Oneida,Rome W1D3,President,,Gary Johnson,IDC,14
@@ -2374,14 +1978,6 @@ Oneida,Rome W7D2,President,,Gary Johnson,IDC,24
 Oneida,Rome W7D3,President,,Gary Johnson,IDC,14
 Oneida,Rome W7D4,President,,Gary Johnson,IDC,11
 Oneida,Rome W7D5,President,,Gary Johnson,IDC,11
-Oneida,Rome Ward 1 Total,President,,Gary Johnson,IDC,32
-Oneida,Rome Ward 2 Total,President,,Gary Johnson,IDC,48
-Oneida,Rome Ward 3 Total,President,,Gary Johnson,IDC,36
-Oneida,Rome Ward 4 Total,President,,Gary Johnson,IDC,41
-Oneida,Rome Ward 5 Total,President,,Gary Johnson,IDC,51
-Oneida,Rome Ward 6 Total,President,,Gary Johnson,IDC,55
-Oneida,Rome Ward 7 Total,President,,Gary Johnson,IDC,69
-Oneida,Rome Totals,President,,Gary Johnson,IDC,332
 Oneida,Rome W1D1,President,,Hillary Clinton,WEP,1
 Oneida,Rome W1D2,President,,Hillary Clinton,WEP,1
 Oneida,Rome W1D3,President,,Hillary Clinton,WEP,1
@@ -2413,14 +2009,6 @@ Oneida,Rome W7D2,President,,Hillary Clinton,WEP,2
 Oneida,Rome W7D3,President,,Hillary Clinton,WEP,2
 Oneida,Rome W7D4,President,,Hillary Clinton,WEP,3
 Oneida,Rome W7D5,President,,Hillary Clinton,WEP,6
-Oneida,Rome Ward 1 Total,President,,Hillary Clinton,WEP,6
-Oneida,Rome Ward 2 Total,President,,Hillary Clinton,WEP,5
-Oneida,Rome Ward 3 Total,President,,Hillary Clinton,WEP,2
-Oneida,Rome Ward 4 Total,President,,Hillary Clinton,WEP,10
-Oneida,Rome Ward 5 Total,President,,Hillary Clinton,WEP,9
-Oneida,Rome Ward 6 Total,President,,Hillary Clinton,WEP,10
-Oneida,Rome Ward 7 Total,President,,Hillary Clinton,WEP,13
-Oneida,Rome Totals,President,,Hillary Clinton,WEP,55
 Oneida,Rome W1D1,President,,Gary Johnson,LBT,4
 Oneida,Rome W1D2,President,,Gary Johnson,LBT,2
 Oneida,Rome W1D3,President,,Gary Johnson,LBT,9
@@ -2452,14 +2040,6 @@ Oneida,Rome W7D2,President,,Gary Johnson,LBT,4
 Oneida,Rome W7D3,President,,Gary Johnson,LBT,8
 Oneida,Rome W7D4,President,,Gary Johnson,LBT,5
 Oneida,Rome W7D5,President,,Gary Johnson,LBT,8
-Oneida,Rome Ward 1 Total,President,,Gary Johnson,LBT,18
-Oneida,Rome Ward 2 Total,President,,Gary Johnson,LBT,9
-Oneida,Rome Ward 3 Total,President,,Gary Johnson,LBT,17
-Oneida,Rome Ward 4 Total,President,,Gary Johnson,LBT,14
-Oneida,Rome Ward 5 Total,President,,Gary Johnson,LBT,20
-Oneida,Rome Ward 6 Total,President,,Gary Johnson,LBT,32
-Oneida,Rome Ward 7 Total,President,,Gary Johnson,LBT,29
-Oneida,Rome Totals,President,,Gary Johnson,LBT,139
 Oneida,Rome W1D1,President,,Evan McMullin,WRI,0
 Oneida,Rome W1D2,President,,Evan McMullin,WRI,0
 Oneida,Rome W1D3,President,,Evan McMullin,WRI,0
@@ -2491,14 +2071,6 @@ Oneida,Rome W7D2,President,,Evan McMullin,WRI,0
 Oneida,Rome W7D3,President,,Evan McMullin,WRI,1
 Oneida,Rome W7D4,President,,Evan McMullin,WRI,0
 Oneida,Rome W7D5,President,,Evan McMullin,WRI,1
-Oneida,Rome Ward 1 Total,President,,Evan McMullin,WRI,1
-Oneida,Rome Ward 2 Total,President,,Evan McMullin,WRI,0
-Oneida,Rome Ward 3 Total,President,,Evan McMullin,WRI,1
-Oneida,Rome Ward 4 Total,President,,Evan McMullin,WRI,2
-Oneida,Rome Ward 5 Total,President,,Evan McMullin,WRI,0
-Oneida,Rome Ward 6 Total,President,,Evan McMullin,WRI,6
-Oneida,Rome Ward 7 Total,President,,Evan McMullin,WRI,3
-Oneida,Rome Totals,President,,Evan McMullin,WRI,13
 Oneida,Rome W1D1,President,,Bernie Sanders,WRI,1
 Oneida,Rome W1D2,President,,Bernie Sanders,WRI,0
 Oneida,Rome W1D3,President,,Bernie Sanders,WRI,2
@@ -2530,14 +2102,6 @@ Oneida,Rome W7D2,President,,Bernie Sanders,WRI,2
 Oneida,Rome W7D3,President,,Bernie Sanders,WRI,1
 Oneida,Rome W7D4,President,,Bernie Sanders,WRI,0
 Oneida,Rome W7D5,President,,Bernie Sanders,WRI,1
-Oneida,Rome Ward 1 Total,President,,Bernie Sanders,WRI,3
-Oneida,Rome Ward 2 Total,President,,Bernie Sanders,WRI,2
-Oneida,Rome Ward 3 Total,President,,Bernie Sanders,WRI,2
-Oneida,Rome Ward 4 Total,President,,Bernie Sanders,WRI,5
-Oneida,Rome Ward 5 Total,President,,Bernie Sanders,WRI,4
-Oneida,Rome Ward 6 Total,President,,Bernie Sanders,WRI,5
-Oneida,Rome Ward 7 Total,President,,Bernie Sanders,WRI,4
-Oneida,Rome Totals,President,,Bernie Sanders,WRI,25
 Oneida,Rome W1D1,President,,Scatterings,,3
 Oneida,Rome W1D2,President,,Scatterings,,1
 Oneida,Rome W1D3,President,,Scatterings,,0
@@ -2572,14 +2136,6 @@ Oneida,Rome W7D3,President,,Scatterings,,3
 Oneida,Rome W7D4,President,,Scatterings,,7
 Oneida,Rome W7D4,President,,Darrell Castle,WRI,1
 Oneida,Rome W7D5,President,,Scatterings,,1
-Oneida,Rome Ward 1 Total,President,,Scatterings,,6
-Oneida,Rome Ward 2 Total,President,,Scatterings,,7
-Oneida,Rome Ward 3 Total,President,,Scatterings,,5
-Oneida,Rome Ward 4 Total,President,,Scatterings,,4
-Oneida,Rome Ward 5 Total,President,,Scatterings,,14
-Oneida,Rome Ward 6 Total,President,,Scatterings,,15
-Oneida,Rome Ward 7 Total,President,,Scatterings,,16
-Oneida,Rome Totals,President,,Scatterings,,71
 Oneida,Rome W1D1,U.S. Senate,,Charles Schumer,DEM,154
 Oneida,Rome W1D2,U.S. Senate,,Charles Schumer,DEM,156
 Oneida,Rome W1D3,U.S. Senate,,Charles Schumer,DEM,203
@@ -2611,14 +2167,6 @@ Oneida,Rome W7D2,U.S. Senate,,Charles Schumer,DEM,224
 Oneida,Rome W7D3,U.S. Senate,,Charles Schumer,DEM,236
 Oneida,Rome W7D4,U.S. Senate,,Charles Schumer,DEM,217
 Oneida,Rome W7D5,U.S. Senate,,Charles Schumer,DEM,210
-Oneida,Rome Ward 1 Total,U.S. Senate,,Charles Schumer,DEM,660
-Oneida,Rome Ward 2 Total,U.S. Senate,,Charles Schumer,DEM,561
-Oneida,Rome Ward 3 Total,U.S. Senate,,Charles Schumer,DEM,557
-Oneida,Rome Ward 4 Total,U.S. Senate,,Charles Schumer,DEM,611
-Oneida,Rome Ward 5 Total,U.S. Senate,,Charles Schumer,DEM,929
-Oneida,Rome Ward 6 Total,U.S. Senate,,Charles Schumer,DEM,1076
-Oneida,Rome Ward 7 Total,U.S. Senate,,Charles Schumer,DEM,995
-Oneida,Rome Totals,U.S. Senate,,Charles Schumer,DEM,5389
 Oneida,Rome W1D1,U.S. Senate,,Wendy Long,REP,72
 Oneida,Rome W1D2,U.S. Senate,,Wendy Long,REP,92
 Oneida,Rome W1D3,U.S. Senate,,Wendy Long,REP,125
@@ -2650,14 +2198,6 @@ Oneida,Rome W7D2,U.S. Senate,,Wendy Long,REP,123
 Oneida,Rome W7D3,U.S. Senate,,Wendy Long,REP,155
 Oneida,Rome W7D4,U.S. Senate,,Wendy Long,REP,109
 Oneida,Rome W7D5,U.S. Senate,,Wendy Long,REP,124
-Oneida,Rome Ward 1 Total,U.S. Senate,,Wendy Long,REP,401
-Oneida,Rome Ward 2 Total,U.S. Senate,,Wendy Long,REP,412
-Oneida,Rome Ward 3 Total,U.S. Senate,,Wendy Long,REP,403
-Oneida,Rome Ward 4 Total,U.S. Senate,,Wendy Long,REP,403
-Oneida,Rome Ward 5 Total,U.S. Senate,,Wendy Long,REP,548
-Oneida,Rome Ward 6 Total,U.S. Senate,,Wendy Long,REP,784
-Oneida,Rome Ward 7 Total,U.S. Senate,,Wendy Long,REP,614
-Oneida,Rome Totals,U.S. Senate,,Wendy Long,REP,3565
 Oneida,Rome W1D1,U.S. Senate,,Wendy Long,CON,19
 Oneida,Rome W1D2,U.S. Senate,,Wendy Long,CON,11
 Oneida,Rome W1D3,U.S. Senate,,Wendy Long,CON,20
@@ -2689,14 +2229,6 @@ Oneida,Rome W7D2,U.S. Senate,,Wendy Long,CON,16
 Oneida,Rome W7D3,U.S. Senate,,Wendy Long,CON,27
 Oneida,Rome W7D4,U.S. Senate,,Wendy Long,CON,8
 Oneida,Rome W7D5,U.S. Senate,,Wendy Long,CON,16
-Oneida,Rome Ward 1 Total,U.S. Senate,,Wendy Long,CON,69
-Oneida,Rome Ward 2 Total,U.S. Senate,,Wendy Long,CON,65
-Oneida,Rome Ward 3 Total,U.S. Senate,,Wendy Long,CON,74
-Oneida,Rome Ward 4 Total,U.S. Senate,,Wendy Long,CON,50
-Oneida,Rome Ward 5 Total,U.S. Senate,,Wendy Long,CON,82
-Oneida,Rome Ward 6 Total,U.S. Senate,,Wendy Long,CON,105
-Oneida,Rome Ward 7 Total,U.S. Senate,,Wendy Long,CON,90
-Oneida,Rome Totals,U.S. Senate,,Wendy Long,CON,535
 Oneida,Rome W1D1,U.S. Senate,,Robin Wilson,GRN,8
 Oneida,Rome W1D2,U.S. Senate,,Robin Wilson,GRN,5
 Oneida,Rome W1D3,U.S. Senate,,Robin Wilson,GRN,5
@@ -2728,14 +2260,6 @@ Oneida,Rome W7D2,U.S. Senate,,Robin Wilson,GRN,5
 Oneida,Rome W7D3,U.S. Senate,,Robin Wilson,GRN,4
 Oneida,Rome W7D4,U.S. Senate,,Robin Wilson,GRN,2
 Oneida,Rome W7D5,U.S. Senate,,Robin Wilson,GRN,8
-Oneida,Rome Ward 1 Total,U.S. Senate,,Robin Wilson,GRN,25
-Oneida,Rome Ward 2 Total,U.S. Senate,,Robin Wilson,GRN,17
-Oneida,Rome Ward 3 Total,U.S. Senate,,Robin Wilson,GRN,14
-Oneida,Rome Ward 4 Total,U.S. Senate,,Robin Wilson,GRN,15
-Oneida,Rome Ward 5 Total,U.S. Senate,,Robin Wilson,GRN,19
-Oneida,Rome Ward 6 Total,U.S. Senate,,Robin Wilson,GRN,21
-Oneida,Rome Ward 7 Total,U.S. Senate,,Robin Wilson,GRN,21
-Oneida,Rome Totals,U.S. Senate,,Robin Wilson,GRN,132
 Oneida,Rome W1D1,U.S. Senate,,Charles Schumer,WOR,14
 Oneida,Rome W1D2,U.S. Senate,,Charles Schumer,WOR,22
 Oneida,Rome W1D3,U.S. Senate,,Charles Schumer,WOR,20
@@ -2767,14 +2291,6 @@ Oneida,Rome W7D2,U.S. Senate,,Charles Schumer,WOR,19
 Oneida,Rome W7D3,U.S. Senate,,Charles Schumer,WOR,24
 Oneida,Rome W7D4,U.S. Senate,,Charles Schumer,WOR,18
 Oneida,Rome W7D5,U.S. Senate,,Charles Schumer,WOR,8
-Oneida,Rome Ward 1 Total,U.S. Senate,,Charles Schumer,WOR,64
-Oneida,Rome Ward 2 Total,U.S. Senate,,Charles Schumer,WOR,54
-Oneida,Rome Ward 3 Total,U.S. Senate,,Charles Schumer,WOR,74
-Oneida,Rome Ward 4 Total,U.S. Senate,,Charles Schumer,WOR,78
-Oneida,Rome Ward 5 Total,U.S. Senate,,Charles Schumer,WOR,93
-Oneida,Rome Ward 6 Total,U.S. Senate,,Charles Schumer,WOR,81
-Oneida,Rome Ward 7 Total,U.S. Senate,,Charles Schumer,WOR,79
-Oneida,Rome Totals,U.S. Senate,,Charles Schumer,WOR,523
 Oneida,Rome W1D1,U.S. Senate,,Charles Schumer,IDC,19
 Oneida,Rome W1D2,U.S. Senate,,Charles Schumer,IDC,12
 Oneida,Rome W1D3,U.S. Senate,,Charles Schumer,IDC,22
@@ -2806,14 +2322,6 @@ Oneida,Rome W7D2,U.S. Senate,,Charles Schumer,IDC,18
 Oneida,Rome W7D3,U.S. Senate,,Charles Schumer,IDC,16
 Oneida,Rome W7D4,U.S. Senate,,Charles Schumer,IDC,11
 Oneida,Rome W7D5,U.S. Senate,,Charles Schumer,IDC,18
-Oneida,Rome Ward 1 Total,U.S. Senate,,Charles Schumer,IDC,58
-Oneida,Rome Ward 2 Total,U.S. Senate,,Charles Schumer,IDC,48
-Oneida,Rome Ward 3 Total,U.S. Senate,,Charles Schumer,IDC,57
-Oneida,Rome Ward 4 Total,U.S. Senate,,Charles Schumer,IDC,57
-Oneida,Rome Ward 5 Total,U.S. Senate,,Charles Schumer,IDC,68
-Oneida,Rome Ward 6 Total,U.S. Senate,,Charles Schumer,IDC,114
-Oneida,Rome Ward 7 Total,U.S. Senate,,Charles Schumer,IDC,81
-Oneida,Rome Totals,U.S. Senate,,Charles Schumer,IDC,483
 Oneida,Rome W1D1,U.S. Senate,,Charles Schumer,WEP,3
 Oneida,Rome W1D2,U.S. Senate,,Charles Schumer,WEP,2
 Oneida,Rome W1D3,U.S. Senate,,Charles Schumer,WEP,3
@@ -2845,14 +2353,6 @@ Oneida,Rome W7D2,U.S. Senate,,Charles Schumer,WEP,2
 Oneida,Rome W7D3,U.S. Senate,,Charles Schumer,WEP,5
 Oneida,Rome W7D4,U.S. Senate,,Charles Schumer,WEP,3
 Oneida,Rome W7D5,U.S. Senate,,Charles Schumer,WEP,5
-Oneida,Rome Ward 1 Total,U.S. Senate,,Charles Schumer,WEP,11
-Oneida,Rome Ward 2 Total,U.S. Senate,,Charles Schumer,WEP,10
-Oneida,Rome Ward 3 Total,U.S. Senate,,Charles Schumer,WEP,12
-Oneida,Rome Ward 4 Total,U.S. Senate,,Charles Schumer,WEP,8
-Oneida,Rome Ward 5 Total,U.S. Senate,,Charles Schumer,WEP,12
-Oneida,Rome Ward 6 Total,U.S. Senate,,Charles Schumer,WEP,16
-Oneida,Rome Ward 7 Total,U.S. Senate,,Charles Schumer,WEP,15
-Oneida,Rome Totals,U.S. Senate,,Charles Schumer,WEP,84
 Oneida,Rome W1D1,U.S. Senate,,Wendy Long,REF,0
 Oneida,Rome W1D2,U.S. Senate,,Wendy Long,REF,2
 Oneida,Rome W1D3,U.S. Senate,,Wendy Long,REF,3
@@ -2884,14 +2384,6 @@ Oneida,Rome W7D2,U.S. Senate,,Wendy Long,REF,2
 Oneida,Rome W7D3,U.S. Senate,,Wendy Long,REF,1
 Oneida,Rome W7D4,U.S. Senate,,Wendy Long,REF,2
 Oneida,Rome W7D5,U.S. Senate,,Wendy Long,REF,1
-Oneida,Rome Ward 1 Total,U.S. Senate,,Wendy Long,REF,6
-Oneida,Rome Ward 2 Total,U.S. Senate,,Wendy Long,REF,3
-Oneida,Rome Ward 3 Total,U.S. Senate,,Wendy Long,REF,5
-Oneida,Rome Ward 4 Total,U.S. Senate,,Wendy Long,REF,4
-Oneida,Rome Ward 5 Total,U.S. Senate,,Wendy Long,REF,6
-Oneida,Rome Ward 6 Total,U.S. Senate,,Wendy Long,REF,12
-Oneida,Rome Ward 7 Total,U.S. Senate,,Wendy Long,REF,6
-Oneida,Rome Totals,U.S. Senate,,Wendy Long,REF,42
 Oneida,Rome W1D1,U.S. Senate,,Alex Merced,LBT,2
 Oneida,Rome W1D2,U.S. Senate,,Alex Merced,LBT,3
 Oneida,Rome W1D3,U.S. Senate,,Alex Merced,LBT,2
@@ -2923,14 +2415,6 @@ Oneida,Rome W7D2,U.S. Senate,,Alex Merced,LBT,6
 Oneida,Rome W7D3,U.S. Senate,,Alex Merced,LBT,7
 Oneida,Rome W7D4,U.S. Senate,,Alex Merced,LBT,2
 Oneida,Rome W7D5,U.S. Senate,,Alex Merced,LBT,8
-Oneida,Rome Ward 1 Total,U.S. Senate,,Alex Merced,LBT,8
-Oneida,Rome Ward 2 Total,U.S. Senate,,Alex Merced,LBT,9
-Oneida,Rome Ward 3 Total,U.S. Senate,,Alex Merced,LBT,16
-Oneida,Rome Ward 4 Total,U.S. Senate,,Alex Merced,LBT,15
-Oneida,Rome Ward 5 Total,U.S. Senate,,Alex Merced,LBT,13
-Oneida,Rome Ward 6 Total,U.S. Senate,,Alex Merced,LBT,22
-Oneida,Rome Ward 7 Total,U.S. Senate,,Alex Merced,LBT,24
-Oneida,Rome Totals,U.S. Senate,,Alex Merced,LBT,107
 Oneida,Rome W1D1,U.S. Senate,,Write-ins,,0
 Oneida,Rome W1D2,U.S. Senate,,Write-ins,,0
 Oneida,Rome W1D3,U.S. Senate,,Write-ins,,0
@@ -2962,14 +2446,6 @@ Oneida,Rome W7D2,U.S. Senate,,Write-ins,,0
 Oneida,Rome W7D3,U.S. Senate,,Write-ins,,0
 Oneida,Rome W7D4,U.S. Senate,,Write-ins,,0
 Oneida,Rome W7D5,U.S. Senate,,Write-ins,,0
-Oneida,Rome Ward 1 Total,U.S. Senate,,Write-ins,,0
-Oneida,Rome Ward 2 Total,U.S. Senate,,Write-ins,,0
-Oneida,Rome Ward 3 Total,U.S. Senate,,Write-ins,,0
-Oneida,Rome Ward 4 Total,U.S. Senate,,Write-ins,,2
-Oneida,Rome Ward 5 Total,U.S. Senate,,Write-ins,,1
-Oneida,Rome Ward 6 Total,U.S. Senate,,Write-ins,,1
-Oneida,Rome Ward 7 Total,U.S. Senate,,Write-ins,,0
-Oneida,Rome Totals,U.S. Senate,,Write-ins,,4
 Oneida,Rome W1D1,U.S. House,22,Kim Myers,DEM,126
 Oneida,Rome W1D2,U.S. House,22,Kim Myers,DEM,113
 Oneida,Rome W1D3,U.S. House,22,Kim Myers,DEM,164
@@ -3001,14 +2477,6 @@ Oneida,Rome W7D2,U.S. House,22,Kim Myers,DEM,176
 Oneida,Rome W7D3,U.S. House,22,Kim Myers,DEM,162
 Oneida,Rome W7D4,U.S. House,22,Kim Myers,DEM,141
 Oneida,Rome W7D5,U.S. House,22,Kim Myers,DEM,166
-Oneida,Rome Ward 1 Total,U.S. House,22,Kim Myers,DEM,510
-Oneida,Rome Ward 2 Total,U.S. House,22,Kim Myers,DEM,371
-Oneida,Rome Ward 3 Total,U.S. House,22,Kim Myers,DEM,406
-Oneida,Rome Ward 4 Total,U.S. House,22,Kim Myers,DEM,461
-Oneida,Rome Ward 5 Total,U.S. House,22,Kim Myers,DEM,640
-Oneida,Rome Ward 6 Total,U.S. House,22,Kim Myers,DEM,729
-Oneida,Rome Ward 7 Total,U.S. House,22,Kim Myers,DEM,718
-Oneida,Rome Totals,U.S. House,22,Kim Myers,DEM,3835
 Oneida,Rome W1D1,U.S. House,22,Claudia Tenney,REP,100
 Oneida,Rome W1D2,U.S. House,22,Claudia Tenney,REP,139
 Oneida,Rome W1D3,U.S. House,22,Claudia Tenney,REP,153
@@ -3040,14 +2508,6 @@ Oneida,Rome W7D2,U.S. House,22,Claudia Tenney,REP,158
 Oneida,Rome W7D3,U.S. House,22,Claudia Tenney,REP,207
 Oneida,Rome W7D4,U.S. House,22,Claudia Tenney,REP,157
 Oneida,Rome W7D5,U.S. House,22,Claudia Tenney,REP,142
-Oneida,Rome Ward 1 Total,U.S. House,22,Claudia Tenney,REP,520
-Oneida,Rome Ward 2 Total,U.S. House,22,Claudia Tenney,REP,484
-Oneida,Rome Ward 3 Total,U.S. House,22,Claudia Tenney,REP,539
-Oneida,Rome Ward 4 Total,U.S. House,22,Claudia Tenney,REP,497
-Oneida,Rome Ward 5 Total,U.S. House,22,Claudia Tenney,REP,719
-Oneida,Rome Ward 6 Total,U.S. House,22,Claudia Tenney,REP,996
-Oneida,Rome Ward 7 Total,U.S. House,22,Claudia Tenney,REP,789
-Oneida,Rome Totals,U.S. House,22,Claudia Tenney,REP,4544
 Oneida,Rome W1D1,U.S. House,22,Claudia Tenney,CON,24
 Oneida,Rome W1D2,U.S. House,22,Claudia Tenney,CON,19
 Oneida,Rome W1D3,U.S. House,22,Claudia Tenney,CON,31
@@ -3079,14 +2539,6 @@ Oneida,Rome W7D2,U.S. House,22,Claudia Tenney,CON,21
 Oneida,Rome W7D3,U.S. House,22,Claudia Tenney,CON,36
 Oneida,Rome W7D4,U.S. House,22,Claudia Tenney,CON,14
 Oneida,Rome W7D5,U.S. House,22,Claudia Tenney,CON,15
-Oneida,Rome Ward 1 Total,U.S. House,22,Claudia Tenney,CON,96
-Oneida,Rome Ward 2 Total,U.S. House,22,Claudia Tenney,CON,86
-Oneida,Rome Ward 3 Total,U.S. House,22,Claudia Tenney,CON,95
-Oneida,Rome Ward 4 Total,U.S. House,22,Claudia Tenney,CON,76
-Oneida,Rome Ward 5 Total,U.S. House,22,Claudia Tenney,CON,97
-Oneida,Rome Ward 6 Total,U.S. House,22,Claudia Tenney,CON,136
-Oneida,Rome Ward 7 Total,U.S. House,22,Claudia Tenney,CON,114
-Oneida,Rome Totals,U.S. House,22,Claudia Tenney,CON,700
 Oneida,Rome W1D1,U.S. House,22,Kim Myers,WOR,10
 Oneida,Rome W1D2,U.S. House,22,Kim Myers,WOR,13
 Oneida,Rome W1D3,U.S. House,22,Kim Myers,WOR,20
@@ -3118,14 +2570,6 @@ Oneida,Rome W7D2,U.S. House,22,Kim Myers,WOR,19
 Oneida,Rome W7D3,U.S. House,22,Kim Myers,WOR,14
 Oneida,Rome W7D4,U.S. House,22,Kim Myers,WOR,14
 Oneida,Rome W7D5,U.S. House,22,Kim Myers,WOR,15
-Oneida,Rome Ward 1 Total,U.S. House,22,Kim Myers,WOR,54
-Oneida,Rome Ward 2 Total,U.S. House,22,Kim Myers,WOR,47
-Oneida,Rome Ward 3 Total,U.S. House,22,Kim Myers,WOR,43
-Oneida,Rome Ward 4 Total,U.S. House,22,Kim Myers,WOR,81
-Oneida,Rome Ward 5 Total,U.S. House,22,Kim Myers,WOR,72
-Oneida,Rome Ward 6 Total,U.S. House,22,Kim Myers,WOR,70
-Oneida,Rome Ward 7 Total,U.S. House,22,Kim Myers,WOR,72
-Oneida,Rome Totals,U.S. House,22,Kim Myers,WOR,439
 Oneida,Rome W1D1,U.S. House,22,Martin Babinec,REF,17
 Oneida,Rome W1D2,U.S. House,22,Martin Babinec,REF,23
 Oneida,Rome W1D3,U.S. House,22,Martin Babinec,REF,26
@@ -3157,14 +2601,6 @@ Oneida,Rome W7D2,U.S. House,22,Martin Babinec,REF,29
 Oneida,Rome W7D3,U.S. House,22,Martin Babinec,REF,46
 Oneida,Rome W7D4,U.S. House,22,Martin Babinec,REF,32
 Oneida,Rome W7D5,U.S. House,22,Martin Babinec,REF,37
-Oneida,Rome Ward 1 Total,U.S. House,22,Martin Babinec,REF,99
-Oneida,Rome Ward 2 Total,U.S. House,22,Martin Babinec,REF,111
-Oneida,Rome Ward 3 Total,U.S. House,22,Martin Babinec,REF,116
-Oneida,Rome Ward 4 Total,U.S. House,22,Martin Babinec,REF,82
-Oneida,Rome Ward 5 Total,U.S. House,22,Martin Babinec,REF,154
-Oneida,Rome Ward 6 Total,U.S. House,22,Martin Babinec,REF,219
-Oneida,Rome Ward 7 Total,U.S. House,22,Martin Babinec,REF,167
-Oneida,Rome Totals,U.S. House,22,Martin Babinec,REF,948
 Oneida,Rome W1D1,U.S. House,22,Martin Babinec,UJP,10
 Oneida,Rome W1D2,U.S. House,22,Martin Babinec,UJP,5
 Oneida,Rome W1D3,U.S. House,22,Martin Babinec,UJP,13
@@ -3196,14 +2632,6 @@ Oneida,Rome W7D2,U.S. House,22,Martin Babinec,UJP,13
 Oneida,Rome W7D3,U.S. House,22,Martin Babinec,UJP,17
 Oneida,Rome W7D4,U.S. House,22,Martin Babinec,UJP,9
 Oneida,Rome W7D5,U.S. House,22,Martin Babinec,UJP,19
-Oneida,Rome Ward 1 Total,U.S. House,22,Martin Babinec,UJP,35
-Oneida,Rome Ward 2 Total,U.S. House,22,Martin Babinec,UJP,52
-Oneida,Rome Ward 3 Total,U.S. House,22,Martin Babinec,UJP,34
-Oneida,Rome Ward 4 Total,U.S. House,22,Martin Babinec,UJP,53
-Oneida,Rome Ward 5 Total,U.S. House,22,Martin Babinec,UJP,59
-Oneida,Rome Ward 6 Total,U.S. House,22,Martin Babinec,UJP,69
-Oneida,Rome Ward 7 Total,U.S. House,22,Martin Babinec,UJP,66
-Oneida,Rome Totals,U.S. House,22,Martin Babinec,UJP,368
 Oneida,Rome W1D1,U.S. House,22,Write-ins,,0
 Oneida,Rome W1D2,U.S. House,22,Write-ins,,0
 Oneida,Rome W1D3,U.S. House,22,Write-ins,,0
@@ -3235,14 +2663,6 @@ Oneida,Rome W7D2,U.S. House,22,Write-ins,,0
 Oneida,Rome W7D3,U.S. House,22,Write-ins,,0
 Oneida,Rome W7D4,U.S. House,22,Write-ins,,0
 Oneida,Rome W7D5,U.S. House,22,Write-ins,,0
-Oneida,Rome Ward 1 Total,U.S. House,22,Write-ins,,0
-Oneida,Rome Ward 2 Total,U.S. House,22,Write-ins,,1
-Oneida,Rome Ward 3 Total,U.S. House,22,Write-ins,,0
-Oneida,Rome Ward 4 Total,U.S. House,22,Write-ins,,1
-Oneida,Rome Ward 5 Total,U.S. House,22,Write-ins,,1
-Oneida,Rome Ward 6 Total,U.S. House,22,Write-ins,,3
-Oneida,Rome Ward 7 Total,U.S. House,22,Write-ins,,0
-Oneida,Rome Totals,U.S. House,22,Write-ins,,6
 Oneida,Rome W1D1,State Senate,47,Joseph Griffo,REP,177
 Oneida,Rome W1D2,State Senate,47,Joseph Griffo,REP,222
 Oneida,Rome W1D3,State Senate,47,Joseph Griffo,REP,248
@@ -3274,14 +2694,6 @@ Oneida,Rome W7D2,State Senate,47,Joseph Griffo,REP,277
 Oneida,Rome W7D3,State Senate,47,Joseph Griffo,REP,316
 Oneida,Rome W7D4,State Senate,47,Joseph Griffo,REP,275
 Oneida,Rome W7D5,State Senate,47,Joseph Griffo,REP,249
-Oneida,Rome Ward 1 Total,State Senate,47,Joseph Griffo,REP,854
-Oneida,Rome Ward 2 Total,State Senate,47,Joseph Griffo,REP,752
-Oneida,Rome Ward 3 Total,State Senate,47,Joseph Griffo,REP,781
-Oneida,Rome Ward 4 Total,State Senate,47,Joseph Griffo,REP,745
-Oneida,Rome Ward 5 Total,State Senate,47,Joseph Griffo,REP,1141
-Oneida,Rome Ward 6 Total,State Senate,47,Joseph Griffo,REP,1572
-Oneida,Rome Ward 7 Total,State Senate,47,Joseph Griffo,REP,1293
-Oneida,Rome Totals,State Senate,47,Joseph Griffo,REP,7138
 Oneida,Rome W1D1,State Senate,47,Joseph Griffo,CON,30
 Oneida,Rome W1D2,State Senate,47,Joseph Griffo,CON,17
 Oneida,Rome W1D3,State Senate,47,Joseph Griffo,CON,37
@@ -3313,14 +2725,6 @@ Oneida,Rome W7D2,State Senate,47,Joseph Griffo,CON,28
 Oneida,Rome W7D3,State Senate,47,Joseph Griffo,CON,44
 Oneida,Rome W7D4,State Senate,47,Joseph Griffo,CON,19
 Oneida,Rome W7D5,State Senate,47,Joseph Griffo,CON,26
-Oneida,Rome Ward 1 Total,State Senate,47,Joseph Griffo,CON,116
-Oneida,Rome Ward 2 Total,State Senate,47,Joseph Griffo,CON,106
-Oneida,Rome Ward 3 Total,State Senate,47,Joseph Griffo,CON,128
-Oneida,Rome Ward 4 Total,State Senate,47,Joseph Griffo,CON,130
-Oneida,Rome Ward 5 Total,State Senate,47,Joseph Griffo,CON,141
-Oneida,Rome Ward 6 Total,State Senate,47,Joseph Griffo,CON,165
-Oneida,Rome Ward 7 Total,State Senate,47,Joseph Griffo,CON,146
-Oneida,Rome Totals,State Senate,47,Joseph Griffo,CON,932
 Oneida,Rome W1D1,State Senate,47,Joseph Griffo,IDC,31
 Oneida,Rome W1D2,State Senate,47,Joseph Griffo,IDC,26
 Oneida,Rome W1D3,State Senate,47,Joseph Griffo,IDC,39
@@ -3352,14 +2756,6 @@ Oneida,Rome W7D2,State Senate,47,Joseph Griffo,IDC,48
 Oneida,Rome W7D3,State Senate,47,Joseph Griffo,IDC,42
 Oneida,Rome W7D4,State Senate,47,Joseph Griffo,IDC,30
 Oneida,Rome W7D5,State Senate,47,Joseph Griffo,IDC,51
-Oneida,Rome Ward 1 Total,State Senate,47,Joseph Griffo,IDC,126
-Oneida,Rome Ward 2 Total,State Senate,47,Joseph Griffo,IDC,93
-Oneida,Rome Ward 3 Total,State Senate,47,Joseph Griffo,IDC,102
-Oneida,Rome Ward 4 Total,State Senate,47,Joseph Griffo,IDC,142
-Oneida,Rome Ward 5 Total,State Senate,47,Joseph Griffo,IDC,185
-Oneida,Rome Ward 6 Total,State Senate,47,Joseph Griffo,IDC,169
-Oneida,Rome Ward 7 Total,State Senate,47,Joseph Griffo,IDC,193
-Oneida,Rome Totals,State Senate,47,Joseph Griffo,IDC,1010
 Oneida,Rome W1D1,State Senate,47,Joseph Griffo,REF,4
 Oneida,Rome W1D2,State Senate,47,Joseph Griffo,REF,3
 Oneida,Rome W1D3,State Senate,47,Joseph Griffo,REF,9
@@ -3391,14 +2787,6 @@ Oneida,Rome W7D2,State Senate,47,Joseph Griffo,REF,8
 Oneida,Rome W7D3,State Senate,47,Joseph Griffo,REF,10
 Oneida,Rome W7D4,State Senate,47,Joseph Griffo,REF,6
 Oneida,Rome W7D5,State Senate,47,Joseph Griffo,REF,6
-Oneida,Rome Ward 1 Total,State Senate,47,Joseph Griffo,REF,19
-Oneida,Rome Ward 2 Total,State Senate,47,Joseph Griffo,REF,23
-Oneida,Rome Ward 3 Total,State Senate,47,Joseph Griffo,REF,21
-Oneida,Rome Ward 4 Total,State Senate,47,Joseph Griffo,REF,19
-Oneida,Rome Ward 5 Total,State Senate,47,Joseph Griffo,REF,33
-Oneida,Rome Ward 6 Total,State Senate,47,Joseph Griffo,REF,32
-Oneida,Rome Ward 7 Total,State Senate,47,Joseph Griffo,REF,33
-Oneida,Rome Totals,State Senate,47,Joseph Griffo,REF,180
 Oneida,Rome W1D1,State Senate,47,Write-ins,,0
 Oneida,Rome W1D2,State Senate,47,Write-ins,,0
 Oneida,Rome W1D3,State Senate,47,Write-ins,,1
@@ -3430,14 +2818,6 @@ Oneida,Rome W7D2,State Senate,47,Write-ins,,0
 Oneida,Rome W7D3,State Senate,47,Write-ins,,4
 Oneida,Rome W7D4,State Senate,47,Write-ins,,1
 Oneida,Rome W7D5,State Senate,47,Write-ins,,4
-Oneida,Rome Ward 1 Total,State Senate,47,Write-ins,,2
-Oneida,Rome Ward 2 Total,State Senate,47,Write-ins,,6
-Oneida,Rome Ward 3 Total,State Senate,47,Write-ins,,6
-Oneida,Rome Ward 4 Total,State Senate,47,Write-ins,,5
-Oneida,Rome Ward 5 Total,State Senate,47,Write-ins,,3
-Oneida,Rome Ward 6 Total,State Senate,47,Write-ins,,6
-Oneida,Rome Ward 7 Total,State Senate,47,Write-ins,,9
-Oneida,Rome Totals,State Senate,47,Write-ins,,37
 Oneida,Rome W1D1,State Assembly,119,Anthony Brindisi,DEM,158
 Oneida,Rome W1D2,State Assembly,119,Anthony Brindisi,DEM,168
 Oneida,Rome W1D3,State Assembly,119,Anthony Brindisi,DEM,212
@@ -3469,14 +2849,6 @@ Oneida,Rome W7D2,State Assembly,119,Anthony Brindisi,DEM,240
 Oneida,Rome W7D3,State Assembly,119,Anthony Brindisi,DEM,273
 Oneida,Rome W7D4,State Assembly,119,Anthony Brindisi,DEM,209
 Oneida,Rome W7D5,State Assembly,119,Anthony Brindisi,DEM,226
-Oneida,Rome Ward 1 Total,State Assembly,119,Anthony Brindisi,DEM,700
-Oneida,Rome Ward 2 Total,State Assembly,119,Anthony Brindisi,DEM,592
-Oneida,Rome Ward 3 Total,State Assembly,119,Anthony Brindisi,DEM,585
-Oneida,Rome Ward 4 Total,State Assembly,119,Anthony Brindisi,DEM,627
-Oneida,Rome Ward 5 Total,State Assembly,119,Anthony Brindisi,DEM,923
-Oneida,Rome Ward 6 Total,State Assembly,119,Anthony Brindisi,DEM,1110
-Oneida,Rome Ward 7 Total,State Assembly,119,Anthony Brindisi,DEM,1050
-Oneida,Rome Totals,State Assembly,119,Anthony Brindisi,DEM,5587
 Oneida,Rome W1D1,State Assembly,119,Anthony Brindisi,WOR,33
 Oneida,Rome W1D2,State Assembly,119,Anthony Brindisi,WOR,31
 Oneida,Rome W1D3,State Assembly,119,Anthony Brindisi,WOR,31
@@ -3508,14 +2880,6 @@ Oneida,Rome W7D2,State Assembly,119,Anthony Brindisi,WOR,40
 Oneida,Rome W7D3,State Assembly,119,Anthony Brindisi,WOR,54
 Oneida,Rome W7D4,State Assembly,119,Anthony Brindisi,WOR,44
 Oneida,Rome W7D5,State Assembly,119,Anthony Brindisi,WOR,20
-Oneida,Rome Ward 1 Total,State Assembly,119,Anthony Brindisi,WOR,132
-Oneida,Rome Ward 2 Total,State Assembly,119,Anthony Brindisi,WOR,132
-Oneida,Rome Ward 3 Total,State Assembly,119,Anthony Brindisi,WOR,130
-Oneida,Rome Ward 4 Total,State Assembly,119,Anthony Brindisi,WOR,158
-Oneida,Rome Ward 5 Total,State Assembly,119,Anthony Brindisi,WOR,156
-Oneida,Rome Ward 6 Total,State Assembly,119,Anthony Brindisi,WOR,176
-Oneida,Rome Ward 7 Total,State Assembly,119,Anthony Brindisi,WOR,178
-Oneida,Rome Totals,State Assembly,119,Anthony Brindisi,WOR,1062
 Oneida,Rome W1D1,State Assembly,119,Anthony Brindisi,IDC,33
 Oneida,Rome W1D2,State Assembly,119,Anthony Brindisi,IDC,24
 Oneida,Rome W1D3,State Assembly,119,Anthony Brindisi,IDC,46
@@ -3547,14 +2911,6 @@ Oneida,Rome W7D2,State Assembly,119,Anthony Brindisi,IDC,47
 Oneida,Rome W7D3,State Assembly,119,Anthony Brindisi,IDC,31
 Oneida,Rome W7D4,State Assembly,119,Anthony Brindisi,IDC,29
 Oneida,Rome W7D5,State Assembly,119,Anthony Brindisi,IDC,44
-Oneida,Rome Ward 1 Total,State Assembly,119,Anthony Brindisi,IDC,126
-Oneida,Rome Ward 2 Total,State Assembly,119,Anthony Brindisi,IDC,129
-Oneida,Rome Ward 3 Total,State Assembly,119,Anthony Brindisi,IDC,143
-Oneida,Rome Ward 4 Total,State Assembly,119,Anthony Brindisi,IDC,137
-Oneida,Rome Ward 5 Total,State Assembly,119,Anthony Brindisi,IDC,194
-Oneida,Rome Ward 6 Total,State Assembly,119,Anthony Brindisi,IDC,285
-Oneida,Rome Ward 7 Total,State Assembly,119,Anthony Brindisi,IDC,188
-Oneida,Rome Totals,State Assembly,119,Anthony Brindisi,IDC,1202
 Oneida,Rome W1D1,State Assembly,119,Write-ins,,1
 Oneida,Rome W1D2,State Assembly,119,Write-ins,,0
 Oneida,Rome W1D3,State Assembly,119,Write-ins,,0
@@ -3586,14 +2942,6 @@ Oneida,Rome W7D2,State Assembly,119,Write-ins,,0
 Oneida,Rome W7D3,State Assembly,119,Write-ins,,1
 Oneida,Rome W7D4,State Assembly,119,Write-ins,,1
 Oneida,Rome W7D5,State Assembly,119,Write-ins,,2
-Oneida,Rome Ward 1 Total,State Assembly,119,Write-ins,,1
-Oneida,Rome Ward 2 Total,State Assembly,119,Write-ins,,3
-Oneida,Rome Ward 3 Total,State Assembly,119,Write-ins,,3
-Oneida,Rome Ward 4 Total,State Assembly,119,Write-ins,,4
-Oneida,Rome Ward 5 Total,State Assembly,119,Write-ins,,3
-Oneida,Rome Ward 6 Total,State Assembly,119,Write-ins,,6
-Oneida,Rome Ward 7 Total,State Assembly,119,Write-ins,,4
-Oneida,Rome Totals,State Assembly,119,Write-ins,,24
 Oneida,New Hartford W1D1,President,,Hillary Clinton,DEM,269
 Oneida,New Hartford W1D2,President,,Hillary Clinton,DEM,163
 Oneida,New Hartford W1D3,President,,Hillary Clinton,DEM,321
@@ -3611,11 +2959,6 @@ Oneida,New Hartford W4D1,President,,Hillary Clinton,DEM,333
 Oneida,New Hartford W4D2,President,,Hillary Clinton,DEM,168
 Oneida,New Hartford W4D3,President,,Hillary Clinton,DEM,159
 Oneida,New Hartford W4D4,President,,Hillary Clinton,DEM,416
-Oneida,New Hartford Ward 1 Total,President,,Hillary Clinton,DEM,1226
-Oneida,New Hartford Ward 2 Total,President,,Hillary Clinton,DEM,1066
-Oneida,New Hartford Ward 3 Total,President,,Hillary Clinton,DEM,1078
-Oneida,New Hartford Ward 4 Total,President,,Hillary Clinton,DEM,1076
-Oneida,New Hartford Totals,President,,Hillary Clinton,DEM,4446
 Oneida,New Hartford W1D1,President,,Donald Trump,REP,437
 Oneida,New Hartford W1D2,President,,Donald Trump,REP,290
 Oneida,New Hartford W1D3,President,,Donald Trump,REP,362
@@ -3633,17 +2976,11 @@ Oneida,New Hartford W4D1,President,,Donald Trump,REP,356
 Oneida,New Hartford W4D2,President,,Donald Trump,REP,196
 Oneida,New Hartford W4D3,President,,Donald Trump,REP,170
 Oneida,New Hartford W4D4,President,,Donald Trump,REP,485
-Oneida,New Hartford Ward 1 Total,President,,Donald Trump,REP,1621
-Oneida,New Hartford Ward 2 Total,President,,Donald Trump,REP,1450
-Oneida,New Hartford Ward 3 Total,President,,Donald Trump,REP,1117
-Oneida,New Hartford Ward 4 Total,President,,Donald Trump,REP,1207
-Oneida,New Hartford Totals,President,,Donald Trump,REP,5395
 Oneida,New Hartford W1D1,President,,Donald Trump,CON,24
 Oneida,New Hartford W1D2,President,,Donald Trump,CON,25
 Oneida,New Hartford W1D3,President,,Donald Trump,CON,29
 Oneida,New Hartford W1D4,President,,Donald Trump,CON,25
 Oneida,New Hartford W1D5,President,,Donald Trump,CON,33
-Oneida,New Hartford Ward 1 Total,President,,Donald Trump,CON,136
 Oneida,New Hartford W2D1,President,,Donald Trump,CON,31
 Oneida,New Hartford W2D2,President,,Donald Trump,CON,25
 Oneida,New Hartford W2D3,President,,Donald Trump,CON,31
@@ -3656,10 +2993,6 @@ Oneida,New Hartford W4D1,President,,Donald Trump,CON,28
 Oneida,New Hartford W4D2,President,,Donald Trump,CON,18
 Oneida,New Hartford W4D3,President,,Donald Trump,CON,22
 Oneida,New Hartford W4D4,President,,Donald Trump,CON,54
-Oneida,New Hartford Ward 2 Total,President,,Donald Trump,CON,110
-Oneida,New Hartford Ward 3 Total,President,,Donald Trump,CON,95
-Oneida,New Hartford Ward 4 Total,President,,Donald Trump,CON,122
-Oneida,New Hartford Totals,President,,Donald Trump,CON,463
 Oneida,New Hartford W1D1,President,,Jill Stein,GRN,12
 Oneida,New Hartford W1D2,President,,Jill Stein,GRN,15
 Oneida,New Hartford W1D3,President,,Jill Stein,GRN,11
@@ -3677,11 +3010,6 @@ Oneida,New Hartford W4D1,President,,Jill Stein,GRN,6
 Oneida,New Hartford W4D2,President,,Jill Stein,GRN,9
 Oneida,New Hartford W4D3,President,,Jill Stein,GRN,8
 Oneida,New Hartford W4D4,President,,Jill Stein,GRN,13
-Oneida,New Hartford Ward 1 Total,President,,Jill Stein,GRN,54
-Oneida,New Hartford Ward 2 Total,President,,Jill Stein,GRN,30
-Oneida,New Hartford Ward 3 Total,President,,Jill Stein,GRN,37
-Oneida,New Hartford Ward 4 Total,President,,Jill Stein,GRN,36
-Oneida,New Hartford Totals,President,,Jill Stein,GRN,157
 Oneida,New Hartford W1D1,President,,Hillary Clinton,WOR,5
 Oneida,New Hartford W1D2,President,,Hillary Clinton,WOR,5
 Oneida,New Hartford W1D3,President,,Hillary Clinton,WOR,11
@@ -3699,11 +3027,6 @@ Oneida,New Hartford W4D1,President,,Hillary Clinton,WOR,6
 Oneida,New Hartford W4D2,President,,Hillary Clinton,WOR,2
 Oneida,New Hartford W4D3,President,,Hillary Clinton,WOR,4
 Oneida,New Hartford W4D4,President,,Hillary Clinton,WOR,12
-Oneida,New Hartford Ward 1 Total,President,,Hillary Clinton,WOR,41
-Oneida,New Hartford Ward 2 Total,President,,Hillary Clinton,WOR,30
-Oneida,New Hartford Ward 3 Total,President,,Hillary Clinton,WOR,40
-Oneida,New Hartford Ward 4 Total,President,,Hillary Clinton,WOR,24
-Oneida,New Hartford Totals,President,,Hillary Clinton,WOR,135
 Oneida,New Hartford W1D1,President,,Gary Johnson,IDC,23
 Oneida,New Hartford W1D2,President,,Gary Johnson,IDC,28
 Oneida,New Hartford W1D3,President,,Gary Johnson,IDC,27
@@ -3721,11 +3044,6 @@ Oneida,New Hartford W4D1,President,,Gary Johnson,IDC,16
 Oneida,New Hartford W4D2,President,,Gary Johnson,IDC,9
 Oneida,New Hartford W4D3,President,,Gary Johnson,IDC,14
 Oneida,New Hartford W4D4,President,,Gary Johnson,IDC,24
-Oneida,New Hartford Ward 1 Total,President,,Gary Johnson,IDC,108
-Oneida,New Hartford Ward 2 Total,President,,Gary Johnson,IDC,71
-Oneida,New Hartford Ward 3 Total,President,,Gary Johnson,IDC,87
-Oneida,New Hartford Ward 4 Total,President,,Gary Johnson,IDC,63
-Oneida,New Hartford Totals,President,,Gary Johnson,IDC,329
 Oneida,New Hartford W1D1,President,,Hillary Clinton,WEP,2
 Oneida,New Hartford W1D2,President,,Hillary Clinton,WEP,3
 Oneida,New Hartford W1D3,President,,Hillary Clinton,WEP,2
@@ -3743,11 +3061,6 @@ Oneida,New Hartford W4D1,President,,Hillary Clinton,WEP,5
 Oneida,New Hartford W4D2,President,,Hillary Clinton,WEP,3
 Oneida,New Hartford W4D3,President,,Hillary Clinton,WEP,1
 Oneida,New Hartford W4D4,President,,Hillary Clinton,WEP,5
-Oneida,New Hartford Ward 1 Total,President,,Hillary Clinton,WEP,14
-Oneida,New Hartford Ward 2 Total,President,,Hillary Clinton,WEP,14
-Oneida,New Hartford Ward 3 Total,President,,Hillary Clinton,WEP,18
-Oneida,New Hartford Ward 4 Total,President,,Hillary Clinton,WEP,14
-Oneida,New Hartford Totals,President,,Hillary Clinton,WEP,60
 Oneida,New Hartford W1D1,President,,Gary Johnson,LBT,8
 Oneida,New Hartford W1D2,President,,Gary Johnson,LBT,6
 Oneida,New Hartford W1D3,President,,Gary Johnson,LBT,21
@@ -3765,17 +3078,11 @@ Oneida,New Hartford W4D1,President,,Gary Johnson,LBT,11
 Oneida,New Hartford W4D2,President,,Gary Johnson,LBT,8
 Oneida,New Hartford W4D3,President,,Gary Johnson,LBT,3
 Oneida,New Hartford W4D4,President,,Gary Johnson,LBT,9
-Oneida,New Hartford Ward 1 Total,President,,Gary Johnson,LBT,52
-Oneida,New Hartford Ward 2 Total,President,,Gary Johnson,LBT,28
-Oneida,New Hartford Ward 3 Total,President,,Gary Johnson,LBT,34
-Oneida,New Hartford Ward 4 Total,President,,Gary Johnson,LBT,31
-Oneida,New Hartford Totals,President,,Gary Johnson,LBT,145
 Oneida,New Hartford W1D1,President,,Evan McMullin,WRI,1
 Oneida,New Hartford W1D2,President,,Evan McMullin,WRI,0
 Oneida,New Hartford W1D3,President,,Evan McMullin,WRI,2
 Oneida,New Hartford W1D4,President,,Evan McMullin,WRI,1
 Oneida,New Hartford W1D5,President,,Evan McMullin,WRI,5
-Oneida,New Hartford Ward 1 Total,President,,Evan McMullin,WRI,9
 Oneida,New Hartford W2D1,President,,Evan McMullin,WRI,0
 Oneida,New Hartford W2D2,President,,Evan McMullin,WRI,0
 Oneida,New Hartford W2D3,President,,Evan McMullin,WRI,1
@@ -3788,10 +3095,6 @@ Oneida,New Hartford W4D1,President,,Evan McMullin,WRI,1
 Oneida,New Hartford W4D2,President,,Evan McMullin,WRI,1
 Oneida,New Hartford W4D3,President,,Evan McMullin,WRI,1
 Oneida,New Hartford W4D4,President,,Evan McMullin,WRI,1
-Oneida,New Hartford Ward 2 Total,President,,Evan McMullin,WRI,1
-Oneida,New Hartford Ward 3 Total,President,,Evan McMullin,WRI,9
-Oneida,New Hartford Ward 4 Total,President,,Evan McMullin,WRI,4
-Oneida,New Hartford Totals,President,,Evan McMullin,WRI,23
 Oneida,New Hartford W1D1,President,,Bernie Sanders,WRI,3
 Oneida,New Hartford W1D2,President,,Bernie Sanders,WRI,1
 Oneida,New Hartford W1D3,President,,Bernie Sanders,WRI,2
@@ -3809,17 +3112,11 @@ Oneida,New Hartford W4D1,President,,Bernie Sanders,WRI,3
 Oneida,New Hartford W4D2,President,,Bernie Sanders,WRI,0
 Oneida,New Hartford W4D3,President,,Bernie Sanders,WRI,1
 Oneida,New Hartford W4D4,President,,Bernie Sanders,WRI,2
-Oneida,New Hartford Ward 1 Total,President,,Bernie Sanders,WRI,7
-Oneida,New Hartford Ward 2 Total,President,,Bernie Sanders,WRI,7
-Oneida,New Hartford Ward 3 Total,President,,Bernie Sanders,WRI,6
-Oneida,New Hartford Ward 4 Total,President,,Bernie Sanders,WRI,6
-Oneida,New Hartford Totals,President,,Bernie Sanders,WRI,26
 Oneida,New Hartford W1D1,President,,Scatterings,,1
 Oneida,New Hartford W1D2,President,,Scatterings,,0
 Oneida,New Hartford W1D3,President,,Scatterings,,8
 Oneida,New Hartford W1D4,President,,Scatterings,,7
 Oneida,New Hartford W1D5,President,,Scatterings,,3
-Oneida,New Hartford Ward 1 Total,President,,Scatterings,,19
 Oneida,New Hartford W2D1,President,,Scatterings,,4
 Oneida,New Hartford W2D2,President,,Scatterings,,0
 Oneida,New Hartford W2D3,President,,Scatterings,,7
@@ -3833,10 +3130,6 @@ Oneida,New Hartford W4D2,President,,Roque de la Fuente,WRI,1
 Oneida,New Hartford W4D3,President,,Scatterings,,0
 Oneida,New Hartford W4D4,President,,Scatterings,,6
 Oneida,New Hartford W4D4,President,,Darrell Castle,WRI,1
-Oneida,New Hartford Ward 2 Total,President,,Scatterings,,19
-Oneida,New Hartford Ward 3 Total,President,,Scatterings,,15
-Oneida,New Hartford Ward 4 Total,President,,Scatterings,,14
-Oneida,New Hartford Totals,President,,Scatterings,,67
 Oneida,New Hartford W1D1,U.S. Senate,,Charles Schumer,DEM,389
 Oneida,New Hartford W1D2,U.S. Senate,,Charles Schumer,DEM,240
 Oneida,New Hartford W1D3,U.S. Senate,,Charles Schumer,DEM,438
@@ -3854,11 +3147,6 @@ Oneida,New Hartford W4D1,U.S. Senate,,Charles Schumer,DEM,444
 Oneida,New Hartford W4D2,U.S. Senate,,Charles Schumer,DEM,226
 Oneida,New Hartford W4D3,U.S. Senate,,Charles Schumer,DEM,192
 Oneida,New Hartford W4D4,U.S. Senate,,Charles Schumer,DEM,556
-Oneida,New Hartford Ward 1 Total,U.S. Senate,,Charles Schumer,DEM,1657
-Oneida,New Hartford Ward 2 Total,U.S. Senate,,Charles Schumer,DEM,1395
-Oneida,New Hartford Ward 3 Total,U.S. Senate,,Charles Schumer,DEM,1337
-Oneida,New Hartford Ward 4 Total,U.S. Senate,,Charles Schumer,DEM,1418
-Oneida,New Hartford Totals,U.S. Senate,,Charles Schumer,DEM,5807
 Oneida,New Hartford W1D1,U.S. Senate,,Wendy Long,REP,266
 Oneida,New Hartford W1D2,U.S. Senate,,Wendy Long,REP,177
 Oneida,New Hartford W1D3,U.S. Senate,,Wendy Long,REP,230
@@ -3876,11 +3164,6 @@ Oneida,New Hartford W4D1,U.S. Senate,,Wendy Long,REP,205
 Oneida,New Hartford W4D2,U.S. Senate,,Wendy Long,REP,112
 Oneida,New Hartford W4D3,U.S. Senate,,Wendy Long,REP,111
 Oneida,New Hartford W4D4,U.S. Senate,,Wendy Long,REP,285
-Oneida,New Hartford Ward 1 Total,U.S. Senate,,Wendy Long,REP,987
-Oneida,New Hartford Ward 2 Total,U.S. Senate,,Wendy Long,REP,873
-Oneida,New Hartford Ward 3 Total,U.S. Senate,,Wendy Long,REP,760
-Oneida,New Hartford Ward 4 Total,U.S. Senate,,Wendy Long,REP,713
-Oneida,New Hartford Totals,U.S. Senate,,Wendy Long,REP,3333
 Oneida,New Hartford W1D1,U.S. Senate,,Wendy Long,CON,23
 Oneida,New Hartford W1D2,U.S. Senate,,Wendy Long,CON,33
 Oneida,New Hartford W1D3,U.S. Senate,,Wendy Long,CON,27
@@ -3898,11 +3181,6 @@ Oneida,New Hartford W4D1,U.S. Senate,,Wendy Long,CON,19
 Oneida,New Hartford W4D2,U.S. Senate,,Wendy Long,CON,13
 Oneida,New Hartford W4D3,U.S. Senate,,Wendy Long,CON,22
 Oneida,New Hartford W4D4,U.S. Senate,,Wendy Long,CON,55
-Oneida,New Hartford Ward 1 Total,U.S. Senate,,Wendy Long,CON,143
-Oneida,New Hartford Ward 2 Total,U.S. Senate,,Wendy Long,CON,84
-Oneida,New Hartford Ward 3 Total,U.S. Senate,,Wendy Long,CON,90
-Oneida,New Hartford Ward 4 Total,U.S. Senate,,Wendy Long,CON,109
-Oneida,New Hartford Totals,U.S. Senate,,Wendy Long,CON,426
 Oneida,New Hartford W1D1,U.S. Senate,,Robin Wilson,GRN,5
 Oneida,New Hartford W1D2,U.S. Senate,,Robin Wilson,GRN,5
 Oneida,New Hartford W1D3,U.S. Senate,,Robin Wilson,GRN,7
@@ -3920,11 +3198,6 @@ Oneida,New Hartford W4D1,U.S. Senate,,Robin Wilson,GRN,4
 Oneida,New Hartford W4D2,U.S. Senate,,Robin Wilson,GRN,6
 Oneida,New Hartford W4D3,U.S. Senate,,Robin Wilson,GRN,5
 Oneida,New Hartford W4D4,U.S. Senate,,Robin Wilson,GRN,6
-Oneida,New Hartford Ward 1 Total,U.S. Senate,,Robin Wilson,GRN,41
-Oneida,New Hartford Ward 2 Total,U.S. Senate,,Robin Wilson,GRN,35
-Oneida,New Hartford Ward 3 Total,U.S. Senate,,Robin Wilson,GRN,29
-Oneida,New Hartford Ward 4 Total,U.S. Senate,,Robin Wilson,GRN,21
-Oneida,New Hartford Totals,U.S. Senate,,Robin Wilson,GRN,126
 Oneida,New Hartford W1D1,U.S. Senate,,Charles Schumer,WOR,21
 Oneida,New Hartford W1D2,U.S. Senate,,Charles Schumer,WOR,29
 Oneida,New Hartford W1D3,U.S. Senate,,Charles Schumer,WOR,29
@@ -3942,11 +3215,6 @@ Oneida,New Hartford W4D1,U.S. Senate,,Charles Schumer,WOR,33
 Oneida,New Hartford W4D2,U.S. Senate,,Charles Schumer,WOR,13
 Oneida,New Hartford W4D3,U.S. Senate,,Charles Schumer,WOR,11
 Oneida,New Hartford W4D4,U.S. Senate,,Charles Schumer,WOR,35
-Oneida,New Hartford Ward 1 Total,U.S. Senate,,Charles Schumer,WOR,120
-Oneida,New Hartford Ward 2 Total,U.S. Senate,,Charles Schumer,WOR,106
-Oneida,New Hartford Ward 3 Total,U.S. Senate,,Charles Schumer,WOR,87
-Oneida,New Hartford Ward 4 Total,U.S. Senate,,Charles Schumer,WOR,92
-Oneida,New Hartford Totals,U.S. Senate,,Charles Schumer,WOR,405
 Oneida,New Hartford W1D1,U.S. Senate,,Charles Schumer,IDC,30
 Oneida,New Hartford W1D2,U.S. Senate,,Charles Schumer,IDC,24
 Oneida,New Hartford W1D3,U.S. Senate,,Charles Schumer,IDC,30
@@ -3964,11 +3232,6 @@ Oneida,New Hartford W4D1,U.S. Senate,,Charles Schumer,IDC,29
 Oneida,New Hartford W4D2,U.S. Senate,,Charles Schumer,IDC,19
 Oneida,New Hartford W4D3,U.S. Senate,,Charles Schumer,IDC,18
 Oneida,New Hartford W4D4,U.S. Senate,,Charles Schumer,IDC,29
-Oneida,New Hartford Ward 1 Total,U.S. Senate,,Charles Schumer,IDC,141
-Oneida,New Hartford Ward 2 Total,U.S. Senate,,Charles Schumer,IDC,109
-Oneida,New Hartford Ward 3 Total,U.S. Senate,,Charles Schumer,IDC,108
-Oneida,New Hartford Ward 4 Total,U.S. Senate,,Charles Schumer,IDC,95
-Oneida,New Hartford Totals,U.S. Senate,,Charles Schumer,IDC,453
 Oneida,New Hartford W1D1,U.S. Senate,,Charles Schumer,WEP,7
 Oneida,New Hartford W1D2,U.S. Senate,,Charles Schumer,WEP,4
 Oneida,New Hartford W1D3,U.S. Senate,,Charles Schumer,WEP,5
@@ -3986,11 +3249,6 @@ Oneida,New Hartford W4D1,U.S. Senate,,Charles Schumer,WEP,4
 Oneida,New Hartford W4D2,U.S. Senate,,Charles Schumer,WEP,5
 Oneida,New Hartford W4D3,U.S. Senate,,Charles Schumer,WEP,3
 Oneida,New Hartford W4D4,U.S. Senate,,Charles Schumer,WEP,10
-Oneida,New Hartford Ward 1 Total,U.S. Senate,,Charles Schumer,WEP,25
-Oneida,New Hartford Ward 2 Total,U.S. Senate,,Charles Schumer,WEP,17
-Oneida,New Hartford Ward 3 Total,U.S. Senate,,Charles Schumer,WEP,20
-Oneida,New Hartford Ward 4 Total,U.S. Senate,,Charles Schumer,WEP,22
-Oneida,New Hartford Totals,U.S. Senate,,Charles Schumer,WEP,84
 Oneida,New Hartford W1D1,U.S. Senate,,Wendy Long,REF,1
 Oneida,New Hartford W1D2,U.S. Senate,,Wendy Long,REF,1
 Oneida,New Hartford W1D3,U.S. Senate,,Wendy Long,REF,5
@@ -4008,11 +3266,6 @@ Oneida,New Hartford W4D1,U.S. Senate,,Wendy Long,REF,3
 Oneida,New Hartford W4D2,U.S. Senate,,Wendy Long,REF,0
 Oneida,New Hartford W4D3,U.S. Senate,,Wendy Long,REF,0
 Oneida,New Hartford W4D4,U.S. Senate,,Wendy Long,REF,3
-Oneida,New Hartford Ward 1 Total,U.S. Senate,,Wendy Long,REF,11
-Oneida,New Hartford Ward 2 Total,U.S. Senate,,Wendy Long,REF,6
-Oneida,New Hartford Ward 3 Total,U.S. Senate,,Wendy Long,REF,9
-Oneida,New Hartford Ward 4 Total,U.S. Senate,,Wendy Long,REF,6
-Oneida,New Hartford Totals,U.S. Senate,,Wendy Long,REF,32
 Oneida,New Hartford W1D1,U.S. Senate,,Alex Merced,LBT,4
 Oneida,New Hartford W1D2,U.S. Senate,,Alex Merced,LBT,5
 Oneida,New Hartford W1D3,U.S. Senate,,Alex Merced,LBT,7
@@ -4030,11 +3283,6 @@ Oneida,New Hartford W4D1,U.S. Senate,,Alex Merced,LBT,7
 Oneida,New Hartford W4D2,U.S. Senate,,Alex Merced,LBT,4
 Oneida,New Hartford W4D3,U.S. Senate,,Alex Merced,LBT,4
 Oneida,New Hartford W4D4,U.S. Senate,,Alex Merced,LBT,4
-Oneida,New Hartford Ward 1 Total,U.S. Senate,,Alex Merced,LBT,30
-Oneida,New Hartford Ward 2 Total,U.S. Senate,,Alex Merced,LBT,20
-Oneida,New Hartford Ward 3 Total,U.S. Senate,,Alex Merced,LBT,13
-Oneida,New Hartford Ward 4 Total,U.S. Senate,,Alex Merced,LBT,19
-Oneida,New Hartford Totals,U.S. Senate,,Alex Merced,LBT,82
 Oneida,New Hartford W1D1,U.S. Senate,,Write-ins,,1
 Oneida,New Hartford W1D2,U.S. Senate,,Write-ins,,0
 Oneida,New Hartford W1D3,U.S. Senate,,Write-ins,,1
@@ -4052,143 +3300,108 @@ Oneida,New Hartford W4D1,U.S. Senate,,Write-ins,,2
 Oneida,New Hartford W4D2,U.S. Senate,,Write-ins,,0
 Oneida,New Hartford W4D3,U.S. Senate,,Write-ins,,0
 Oneida,New Hartford W4D4,U.S. Senate,,Write-ins,,1
-Oneida,New Hartford Ward 1 Total,U.S. Senate,,Write-ins,,2
-Oneida,New Hartford Ward 2 Total,U.S. Senate,,Write-ins,,42
-Oneida,New Hartford Ward 3 Total,U.S. Senate,,Write-ins,,1
-Oneida,New Hartford Ward 4 Total,U.S. Senate,,Write-ins,,3
-Oneida,New Hartford Totals,U.S. Senate,,Write-ins,,48
 Oneida,New Hartford W1D1,U.S. House,22,Kim Myers,DEM,230
 Oneida,New Hartford W1D2,U.S. House,22,Kim Myers,DEM,147
 Oneida,New Hartford W1D3,U.S. House,22,Kim Myers,DEM,267
 Oneida,New Hartford W1D4,U.S. House,22,Kim Myers,DEM,191
 Oneida,New Hartford W1D5,U.S. House,22,Kim Myers,DEM,221
-Oneida,New Hartford Ward 1 Total,U.S. House,22,Kim Myers,DEM,1056
 Oneida,New Hartford W2D1,U.S. House,22,Kim Myers,DEM,203
 Oneida,New Hartford W2D2,U.S. House,22,Kim Myers,DEM,216
 Oneida,New Hartford W2D3,U.S. House,22,Kim Myers,DEM,221
 Oneida,New Hartford W2D4,U.S. House,22,Kim Myers,DEM,281
-Oneida,New Hartford Ward 2 Total,U.S. House,22,Kim Myers,DEM,921
 Oneida,New Hartford W3D1,U.S. House,22,Kim Myers,DEM,231
 Oneida,New Hartford W3D2,U.S. House,22,Kim Myers,DEM,289
 Oneida,New Hartford W3D3,U.S. House,22,Kim Myers,DEM,189
 Oneida,New Hartford W3D4,U.S. House,22,Kim Myers,DEM,206
-Oneida,New Hartford Ward 3 Total,U.S. House,22,Kim Myers,DEM,915
 Oneida,New Hartford W4D1,U.S. House,22,Kim Myers,DEM,287
 Oneida,New Hartford W4D2,U.S. House,22,Kim Myers,DEM,139
 Oneida,New Hartford W4D3,U.S. House,22,Kim Myers,DEM,124
 Oneida,New Hartford W4D4,U.S. House,22,Kim Myers,DEM,378
-Oneida,New Hartford Ward 4 Total,U.S. House,22,Kim Myers,DEM,928
-Oneida,New Hartford Totals,U.S. House,22,Kim Myers,DEM,3820
 Oneida,New Hartford W1D1,U.S. House,22,Claudia Tenney,REP,395
 Oneida,New Hartford W1D2,U.S. House,22,Claudia Tenney,REP,240
 Oneida,New Hartford W1D3,U.S. House,22,Claudia Tenney,REP,326
 Oneida,New Hartford W1D4,U.S. House,22,Claudia Tenney,REP,242
 Oneida,New Hartford W1D5,U.S. House,22,Claudia Tenney,REP,203
-Oneida,New Hartford Ward 1 Total,U.S. House,22,Claudia Tenney,REP,1406
 Oneida,New Hartford W2D1,U.S. House,22,Claudia Tenney,REP,220
 Oneida,New Hartford W2D2,U.S. House,22,Claudia Tenney,REP,261
 Oneida,New Hartford W2D3,U.S. House,22,Claudia Tenney,REP,328
 Oneida,New Hartford W2D4,U.S. House,22,Claudia Tenney,REP,368
-Oneida,New Hartford Ward 2 Total,U.S. House,22,Claudia Tenney,REP,1177
 Oneida,New Hartford W3D1,U.S. House,22,Claudia Tenney,REP,228
 Oneida,New Hartford W3D2,U.S. House,22,Claudia Tenney,REP,287
 Oneida,New Hartford W3D3,U.S. House,22,Claudia Tenney,REP,184
 Oneida,New Hartford W3D4,U.S. House,22,Claudia Tenney,REP,276
-Oneida,New Hartford Ward 3 Total,U.S. House,22,Claudia Tenney,REP,975
 Oneida,New Hartford W4D1,U.S. House,22,Claudia Tenney,REP,315
 Oneida,New Hartford W4D2,U.S. House,22,Claudia Tenney,REP,173
 Oneida,New Hartford W4D3,U.S. House,22,Claudia Tenney,REP,166
 Oneida,New Hartford W4D4,U.S. House,22,Claudia Tenney,REP,407
-Oneida,New Hartford Ward 4 Total,U.S. House,22,Claudia Tenney,REP,1061
-Oneida,New Hartford Totals,U.S. House,22,Claudia Tenney,REP,4619
 Oneida,New Hartford W1D1,U.S. House,22,Claudia Tenney,CON,36
 Oneida,New Hartford W1D2,U.S. House,22,Claudia Tenney,CON,34
 Oneida,New Hartford W1D3,U.S. House,22,Claudia Tenney,CON,34
 Oneida,New Hartford W1D4,U.S. House,22,Claudia Tenney,CON,39
 Oneida,New Hartford W1D5,U.S. House,22,Claudia Tenney,CON,30
-Oneida,New Hartford Ward 1 Total,U.S. House,22,Claudia Tenney,CON,173
 Oneida,New Hartford W2D1,U.S. House,22,Claudia Tenney,CON,29
 Oneida,New Hartford W2D2,U.S. House,22,Claudia Tenney,CON,37
 Oneida,New Hartford W2D3,U.S. House,22,Claudia Tenney,CON,38
 Oneida,New Hartford W2D4,U.S. House,22,Claudia Tenney,CON,39
-Oneida,New Hartford Ward 2 Total,U.S. House,22,Claudia Tenney,CON,143
 Oneida,New Hartford W3D1,U.S. House,22,Claudia Tenney,CON,36
 Oneida,New Hartford W3D2,U.S. House,22,Claudia Tenney,CON,51
 Oneida,New Hartford W3D3,U.S. House,22,Claudia Tenney,CON,23
 Oneida,New Hartford W3D4,U.S. House,22,Claudia Tenney,CON,28
-Oneida,New Hartford Ward 3 Total,U.S. House,22,Claudia Tenney,CON,138
 Oneida,New Hartford W4D1,U.S. House,22,Claudia Tenney,CON,29
 Oneida,New Hartford W4D2,U.S. House,22,Claudia Tenney,CON,25
 Oneida,New Hartford W4D3,U.S. House,22,Claudia Tenney,CON,19
 Oneida,New Hartford W4D4,U.S. House,22,Claudia Tenney,CON,72
-Oneida,New Hartford Ward 4 Total,U.S. House,22,Claudia Tenney,CON,145
-Oneida,New Hartford Totals,U.S. House,22,Claudia Tenney,CON,599
 Oneida,New Hartford W1D1,U.S. House,22,Kim Myers,WOR,18
 Oneida,New Hartford W1D2,U.S. House,22,Kim Myers,WOR,19
 Oneida,New Hartford W1D3,U.S. House,22,Kim Myers,WOR,21
 Oneida,New Hartford W1D4,U.S. House,22,Kim Myers,WOR,14
 Oneida,New Hartford W1D5,U.S. House,22,Kim Myers,WOR,17
-Oneida,New Hartford Ward 1 Total,U.S. House,22,Kim Myers,WOR,89
 Oneida,New Hartford W2D1,U.S. House,22,Kim Myers,WOR,15
 Oneida,New Hartford W2D2,U.S. House,22,Kim Myers,WOR,20
 Oneida,New Hartford W2D3,U.S. House,22,Kim Myers,WOR,18
 Oneida,New Hartford W2D4,U.S. House,22,Kim Myers,WOR,18
-Oneida,New Hartford Ward 2 Total,U.S. House,22,Kim Myers,WOR,71
 Oneida,New Hartford W3D1,U.S. House,22,Kim Myers,WOR,23
 Oneida,New Hartford W3D2,U.S. House,22,Kim Myers,WOR,21
 Oneida,New Hartford W3D3,U.S. House,22,Kim Myers,WOR,14
 Oneida,New Hartford W3D4,U.S. House,22,Kim Myers,WOR,15
-Oneida,New Hartford Ward 3 Total,U.S. House,22,Kim Myers,WOR,73
 Oneida,New Hartford W4D1,U.S. House,22,Kim Myers,WOR,14
 Oneida,New Hartford W4D2,U.S. House,22,Kim Myers,WOR,12
 Oneida,New Hartford W4D3,U.S. House,22,Kim Myers,WOR,10
 Oneida,New Hartford W4D4,U.S. House,22,Kim Myers,WOR,26
-Oneida,New Hartford Ward 4 Total,U.S. House,22,Kim Myers,WOR,62
-Oneida,New Hartford Totals,U.S. House,22,Kim Myers,WOR,295
 Oneida,New Hartford W1D1,U.S. House,22,Martin Babinec,REF,69
 Oneida,New Hartford W1D2,U.S. House,22,Martin Babinec,REF,63
 Oneida,New Hartford W1D3,U.S. House,22,Martin Babinec,REF,96
 Oneida,New Hartford W1D4,U.S. House,22,Martin Babinec,REF,49
 Oneida,New Hartford W1D5,U.S. House,22,Martin Babinec,REF,87
-Oneida,New Hartford Ward 1 Total,U.S. House,22,Martin Babinec,REF,364
 Oneida,New Hartford W2D1,U.S. House,22,Martin Babinec,REF,48
 Oneida,New Hartford W2D2,U.S. House,22,Martin Babinec,REF,85
 Oneida,New Hartford W2D3,U.S. House,22,Martin Babinec,REF,69
 Oneida,New Hartford W2D4,U.S. House,22,Martin Babinec,REF,100
-Oneida,New Hartford Ward 2 Total,U.S. House,22,Martin Babinec,REF,302
 Oneida,New Hartford W3D1,U.S. House,22,Martin Babinec,REF,67
 Oneida,New Hartford W3D2,U.S. House,22,Martin Babinec,REF,86
 Oneida,New Hartford W3D3,U.S. House,22,Martin Babinec,REF,59
 Oneida,New Hartford W3D4,U.S. House,22,Martin Babinec,REF,85
-Oneida,New Hartford Ward 3 Total,U.S. House,22,Martin Babinec,REF,297
 Oneida,New Hartford W4D1,U.S. House,22,Martin Babinec,REF,83
 Oneida,New Hartford W4D2,U.S. House,22,Martin Babinec,REF,41
 Oneida,New Hartford W4D3,U.S. House,22,Martin Babinec,REF,36
 Oneida,New Hartford W4D4,U.S. House,22,Martin Babinec,REF,77
-Oneida,New Hartford Ward 4 Total,U.S. House,22,Martin Babinec,REF,237
-Oneida,New Hartford Totals,U.S. House,22,Martin Babinec,REF,1200
 Oneida,New Hartford W1D1,U.S. House,22,Martin Babinec,UJP,17
 Oneida,New Hartford W1D2,U.S. House,22,Martin Babinec,UJP,19
 Oneida,New Hartford W1D3,U.S. House,22,Martin Babinec,UJP,34
 Oneida,New Hartford W1D4,U.S. House,22,Martin Babinec,UJP,16
 Oneida,New Hartford W1D5,U.S. House,22,Martin Babinec,UJP,21
-Oneida,New Hartford Ward 1 Total,U.S. House,22,Martin Babinec,UJP,107
 Oneida,New Hartford W2D1,U.S. House,22,Martin Babinec,UJP,28
 Oneida,New Hartford W2D2,U.S. House,22,Martin Babinec,UJP,23
 Oneida,New Hartford W2D3,U.S. House,22,Martin Babinec,UJP,30
 Oneida,New Hartford W2D4,U.S. House,22,Martin Babinec,UJP,30
-Oneida,New Hartford Ward 2 Total,U.S. House,22,Martin Babinec,UJP,111
 Oneida,New Hartford W3D1,U.S. House,22,Martin Babinec,UJP,17
 Oneida,New Hartford W3D2,U.S. House,22,Martin Babinec,UJP,30
 Oneida,New Hartford W3D3,U.S. House,22,Martin Babinec,UJP,17
 Oneida,New Hartford W3D4,U.S. House,22,Martin Babinec,UJP,30
-Oneida,New Hartford Ward 3 Total,U.S. House,22,Martin Babinec,UJP,94
 Oneida,New Hartford W4D1,U.S. House,22,Martin Babinec,UJP,25
 Oneida,New Hartford W4D2,U.S. House,22,Martin Babinec,UJP,12
 Oneida,New Hartford W4D3,U.S. House,22,Martin Babinec,UJP,18
 Oneida,New Hartford W4D4,U.S. House,22,Martin Babinec,UJP,31
-Oneida,New Hartford Ward 4 Total,U.S. House,22,Martin Babinec,UJP,86
-Oneida,New Hartford Totals,U.S. House,22,Martin Babinec,UJP,398
 Oneida,New Hartford W1D1,U.S. House,22,Write-ins,,0
 Oneida,New Hartford W1D2,U.S. House,22,Write-ins,,0
 Oneida,New Hartford W1D3,U.S. House,22,Write-ins,,0
@@ -4206,275 +3419,210 @@ Oneida,New Hartford W4D1,U.S. House,22,Write-ins,,0
 Oneida,New Hartford W4D2,U.S. House,22,Write-ins,,0
 Oneida,New Hartford W4D3,U.S. House,22,Write-ins,,2
 Oneida,New Hartford W4D4,U.S. House,22,Write-ins,,3
-Oneida,New Hartford Ward 1 Total,U.S. House,22,Write-ins,,0
-Oneida,New Hartford Ward 2 Total,U.S. House,22,Write-ins,,3
-Oneida,New Hartford Ward 3 Total,U.S. House,22,Write-ins,,2
-Oneida,New Hartford Ward 4 Total,U.S. House,22,Write-ins,,5
-Oneida,New Hartford Totals,U.S. House,22,Write-ins,,10
 Oneida,New Hartford W1D1,State Senate,47,Joseph Griffo,REP,531
 Oneida,New Hartford W1D2,State Senate,47,Joseph Griffo,REP,336
 Oneida,New Hartford W1D3,State Senate,47,Joseph Griffo,REP,507
 Oneida,New Hartford W1D4,State Senate,47,Joseph Griffo,REP,343
 Oneida,New Hartford W1D5,State Senate,47,Joseph Griffo,REP,326
-Oneida,New Hartford Ward 1 Total,State Senate,47,Joseph Griffo,REP,2043
 Oneida,New Hartford W2D1,State Senate,47,Joseph Griffo,REP,333
 Oneida,New Hartford W2D2,State Senate,47,Joseph Griffo,REP,390
 Oneida,New Hartford W2D3,State Senate,47,Joseph Griffo,REP,468
 Oneida,New Hartford W2D4,State Senate,47,Joseph Griffo,REP,548
-Oneida,New Hartford Ward 2 Total,State Senate,47,Joseph Griffo,REP,1739
 Oneida,New Hartford W3D1,State Senate,47,Joseph Griffo,REP,365
 Oneida,New Hartford W3D2,State Senate,47,Joseph Griffo,REP,448
 Oneida,New Hartford W3D3,State Senate,47,Joseph Griffo,REP,283
 Oneida,New Hartford W3D4,State Senate,47,Joseph Griffo,REP,434
-Oneida,New Hartford Ward 3 Total,State Senate,47,Joseph Griffo,REP,1530
 Oneida,New Hartford W4D1,State Senate,47,Joseph Griffo,REP,481
 Oneida,New Hartford W4D2,State Senate,47,Joseph Griffo,REP,250
 Oneida,New Hartford W4D3,State Senate,47,Joseph Griffo,REP,242
 Oneida,New Hartford W4D4,State Senate,47,Joseph Griffo,REP,640
-Oneida,New Hartford Ward 4 Total,State Senate,47,Joseph Griffo,REP,1613
-Oneida,New Hartford Totals,State Senate,47,Joseph Griffo,REP,6925
 Oneida,New Hartford W1D1,State Senate,47,Joseph Griffo,CON,51
 Oneida,New Hartford W1D2,State Senate,47,Joseph Griffo,CON,40
 Oneida,New Hartford W1D3,State Senate,47,Joseph Griffo,CON,44
 Oneida,New Hartford W1D4,State Senate,47,Joseph Griffo,CON,41
 Oneida,New Hartford W1D5,State Senate,47,Joseph Griffo,CON,50
-Oneida,New Hartford Ward 1 Total,State Senate,47,Joseph Griffo,CON,226
 Oneida,New Hartford W2D1,State Senate,47,Joseph Griffo,CON,40
 Oneida,New Hartford W2D2,State Senate,47,Joseph Griffo,CON,52
 Oneida,New Hartford W2D3,State Senate,47,Joseph Griffo,CON,47
 Oneida,New Hartford W2D4,State Senate,47,Joseph Griffo,CON,52
-Oneida,New Hartford Ward 2 Total,State Senate,47,Joseph Griffo,CON,191
 Oneida,New Hartford W3D1,State Senate,47,Joseph Griffo,CON,39
 Oneida,New Hartford W3D2,State Senate,47,Joseph Griffo,CON,56
 Oneida,New Hartford W3D3,State Senate,47,Joseph Griffo,CON,28
 Oneida,New Hartford W3D4,State Senate,47,Joseph Griffo,CON,32
-Oneida,New Hartford Ward 3 Total,State Senate,47,Joseph Griffo,CON,155
 Oneida,New Hartford W4D1,State Senate,47,Joseph Griffo,CON,53
 Oneida,New Hartford W4D2,State Senate,47,Joseph Griffo,CON,32
 Oneida,New Hartford W4D3,State Senate,47,Joseph Griffo,CON,28
 Oneida,New Hartford W4D4,State Senate,47,Joseph Griffo,CON,95
-Oneida,New Hartford Ward 4 Total,State Senate,47,Joseph Griffo,CON,208
-Oneida,New Hartford Totals,State Senate,47,Joseph Griffo,CON,780
 Oneida,New Hartford W1D1,State Senate,47,Joseph Griffo,IDC,50
 Oneida,New Hartford W1D2,State Senate,47,Joseph Griffo,IDC,53
 Oneida,New Hartford W1D3,State Senate,47,Joseph Griffo,IDC,78
 Oneida,New Hartford W1D4,State Senate,47,Joseph Griffo,IDC,54
 Oneida,New Hartford W1D5,State Senate,47,Joseph Griffo,IDC,61
-Oneida,New Hartford Ward 1 Total,State Senate,47,Joseph Griffo,IDC,296
 Oneida,New Hartford W2D1,State Senate,47,Joseph Griffo,IDC,49
 Oneida,New Hartford W2D2,State Senate,47,Joseph Griffo,IDC,56
 Oneida,New Hartford W2D3,State Senate,47,Joseph Griffo,IDC,45
 Oneida,New Hartford W2D4,State Senate,47,Joseph Griffo,IDC,66
-Oneida,New Hartford Ward 2 Total,State Senate,47,Joseph Griffo,IDC,216
 Oneida,New Hartford W3D1,State Senate,47,Joseph Griffo,IDC,69
 Oneida,New Hartford W3D2,State Senate,47,Joseph Griffo,IDC,57
 Oneida,New Hartford W3D3,State Senate,47,Joseph Griffo,IDC,54
 Oneida,New Hartford W3D4,State Senate,47,Joseph Griffo,IDC,52
-Oneida,New Hartford Ward 3 Total,State Senate,47,Joseph Griffo,IDC,232
 Oneida,New Hartford W4D1,State Senate,47,Joseph Griffo,IDC,71
 Oneida,New Hartford W4D2,State Senate,47,Joseph Griffo,IDC,36
 Oneida,New Hartford W4D3,State Senate,47,Joseph Griffo,IDC,39
 Oneida,New Hartford W4D4,State Senate,47,Joseph Griffo,IDC,67
-Oneida,New Hartford Ward 4 Total,State Senate,47,Joseph Griffo,IDC,213
-Oneida,New Hartford Totals,State Senate,47,Joseph Griffo,IDC,957
 Oneida,New Hartford W1D1,State Senate,47,Joseph Griffo,REF,7
 Oneida,New Hartford W1D2,State Senate,47,Joseph Griffo,REF,11
 Oneida,New Hartford W1D3,State Senate,47,Joseph Griffo,REF,11
 Oneida,New Hartford W1D4,State Senate,47,Joseph Griffo,REF,5
 Oneida,New Hartford W1D5,State Senate,47,Joseph Griffo,REF,6
-Oneida,New Hartford Ward 1 Total,State Senate,47,Joseph Griffo,REF,40
 Oneida,New Hartford W2D1,State Senate,47,Joseph Griffo,REF,5
 Oneida,New Hartford W2D2,State Senate,47,Joseph Griffo,REF,2
 Oneida,New Hartford W2D3,State Senate,47,Joseph Griffo,REF,10
 Oneida,New Hartford W2D4,State Senate,47,Joseph Griffo,REF,12
-Oneida,New Hartford Ward 2 Total,State Senate,47,Joseph Griffo,REF,29
 Oneida,New Hartford W3D1,State Senate,47,Joseph Griffo,REF,7
 Oneida,New Hartford W3D2,State Senate,47,Joseph Griffo,REF,7
 Oneida,New Hartford W3D3,State Senate,47,Joseph Griffo,REF,7
 Oneida,New Hartford W3D4,State Senate,47,Joseph Griffo,REF,8
-Oneida,New Hartford Ward 3 Total,State Senate,47,Joseph Griffo,REF,29
 Oneida,New Hartford W4D1,State Senate,47,Joseph Griffo,REF,11
 Oneida,New Hartford W4D2,State Senate,47,Joseph Griffo,REF,7
 Oneida,New Hartford W4D3,State Senate,47,Joseph Griffo,REF,5
 Oneida,New Hartford W4D4,State Senate,47,Joseph Griffo,REF,9
-Oneida,New Hartford Ward 4 Total,State Senate,47,Joseph Griffo,REF,32
-Oneida,New Hartford Totals,State Senate,47,Joseph Griffo,REF,130
 Oneida,New Hartford W1D1,State Senate,47,Write-ins,,2
 Oneida,New Hartford W1D2,State Senate,47,Write-ins,,2
 Oneida,New Hartford W1D3,State Senate,47,Write-ins,,3
 Oneida,New Hartford W1D4,State Senate,47,Write-ins,,0
 Oneida,New Hartford W1D5,State Senate,47,Write-ins,,5
-Oneida,New Hartford Ward 1 Total,State Senate,47,Write-ins,,12
 Oneida,New Hartford W2D1,State Senate,47,Write-ins,,2
 Oneida,New Hartford W2D2,State Senate,47,Write-ins,,1
 Oneida,New Hartford W2D3,State Senate,47,Write-ins,,4
 Oneida,New Hartford W2D4,State Senate,47,Write-ins,,4
-Oneida,New Hartford Ward 2 Total,State Senate,47,Write-ins,,11
 Oneida,New Hartford W3D1,State Senate,47,Write-ins,,5
 Oneida,New Hartford W3D2,State Senate,47,Write-ins,,3
 Oneida,New Hartford W3D3,State Senate,47,Write-ins,,4
 Oneida,New Hartford W3D4,State Senate,47,Write-ins,,4
-Oneida,New Hartford Ward 3 Total,State Senate,47,Write-ins,,16
 Oneida,New Hartford W4D1,State Senate,47,Write-ins,,5
 Oneida,New Hartford W4D2,State Senate,47,Write-ins,,1
 Oneida,New Hartford W4D3,State Senate,47,Write-ins,,2
 Oneida,New Hartford W4D4,State Senate,47,Write-ins,,4
-Oneida,New Hartford Ward 4 Total,State Senate,47,Write-ins,,12
-Oneida,New Hartford Totals,State Senate,47,Write-ins,,51
 Oneida,New Hartford W1D1,State Assembly,101,Arlene Feldmeier,DEM,181
 Oneida,New Hartford W1D2,State Assembly,101,Arlene Feldmeier,DEM,102
 Oneida,New Hartford W1D3,State Assembly,101,Arlene Feldmeier,DEM,232
 Oneida,New Hartford W1D4,State Assembly,101,Arlene Feldmeier,DEM,160
 Oneida,New Hartford W1D5,State Assembly,101,Arlene Feldmeier,DEM,192
-Oneida,New Hartford Ward 1 Total,State Assembly,101,Arlene Feldmeier,DEM,867
 Oneida,New Hartford W2D1,State Assembly,101,Arlene Feldmeier,DEM,159
 Oneida,New Hartford W2D2,State Assembly,101,Arlene Feldmeier,DEM,177
 Oneida,New Hartford W2D3,State Assembly,101,Arlene Feldmeier,DEM,188
 Oneida,New Hartford W2D4,State Assembly,101,Arlene Feldmeier,DEM,245
-Oneida,New Hartford Ward 2 Total,State Assembly,101,Arlene Feldmeier,DEM,769
 Oneida,New Hartford W3D1,State Assembly,101,Arlene Feldmeier,DEM,196
 Oneida,New Hartford W3D2,State Assembly,101,Arlene Feldmeier,DEM,244
 Oneida,New Hartford W3D3,State Assembly,101,Arlene Feldmeier,DEM,159
 Oneida,New Hartford W3D4,State Assembly,101,Arlene Feldmeier,DEM,179
-Oneida,New Hartford Ward 3 Total,State Assembly,101,Arlene Feldmeier,DEM,778
 Oneida,New Hartford W4D1,State Assembly,101,Arlene Feldmeier,DEM,247
 Oneida,New Hartford W4D2,State Assembly,101,Arlene Feldmeier,DEM,124
 Oneida,New Hartford W4D3,State Assembly,101,Arlene Feldmeier,DEM,118
 Oneida,New Hartford W4D4,State Assembly,101,Arlene Feldmeier,DEM,278
-Oneida,New Hartford Ward 4 Total,State Assembly,101,Arlene Feldmeier,DEM,767
-Oneida,New Hartford Totals,State Assembly,101,Arlene Feldmeier,DEM,3181
 Oneida,New Hartford W1D1,State Assembly,101,Brian Miller,REP,418
 Oneida,New Hartford W1D2,State Assembly,101,Brian Miller,REP,289
 Oneida,New Hartford W1D3,State Assembly,101,Brian Miller,REP,360
 Oneida,New Hartford W1D4,State Assembly,101,Brian Miller,REP,252
 Oneida,New Hartford W1D5,State Assembly,101,Brian Miller,REP,258
-Oneida,New Hartford Ward 1 Total,State Assembly,101,Brian Miller,REP,1577
 Oneida,New Hartford W2D1,State Assembly,101,Brian Miller,REP,240
 Oneida,New Hartford W2D2,State Assembly,101,Brian Miller,REP,274
 Oneida,New Hartford W2D3,State Assembly,101,Brian Miller,REP,344
 Oneida,New Hartford W2D4,State Assembly,101,Brian Miller,REP,401
-Oneida,New Hartford Ward 2 Total,State Assembly,101,Brian Miller,REP,1259
 Oneida,New Hartford W3D1,State Assembly,101,Brian Miller,REP,255
 Oneida,New Hartford W3D2,State Assembly,101,Brian Miller,REP,333
 Oneida,New Hartford W3D3,State Assembly,101,Brian Miller,REP,215
 Oneida,New Hartford W3D4,State Assembly,101,Brian Miller,REP,360
-Oneida,New Hartford Ward 3 Total,State Assembly,101,Brian Miller,REP,1163
 Oneida,New Hartford W4D1,State Assembly,101,Brian Miller,REP,352
 Oneida,New Hartford W4D2,State Assembly,101,Brian Miller,REP,182
 Oneida,New Hartford W4D3,State Assembly,101,Brian Miller,REP,164
 Oneida,New Hartford W4D4,State Assembly,101,Brian Miller,REP,441
-Oneida,New Hartford Ward 4 Total,State Assembly,101,Brian Miller,REP,1139
-Oneida,New Hartford Totals,State Assembly,101,Brian Miller,REP,5138
 Oneida,New Hartford W1D1,State Assembly,101,Maria Kelso,CON,45
 Oneida,New Hartford W1D2,State Assembly,101,Maria Kelso,CON,45
 Oneida,New Hartford W1D3,State Assembly,101,Maria Kelso,CON,53
 Oneida,New Hartford W1D4,State Assembly,101,Maria Kelso,CON,43
 Oneida,New Hartford W1D5,State Assembly,101,Maria Kelso,CON,26
-Oneida,New Hartford Ward 1 Total,State Assembly,101,Maria Kelso,CON,212
 Oneida,New Hartford W2D1,State Assembly,101,Maria Kelso,CON,34
 Oneida,New Hartford W2D2,State Assembly,101,Maria Kelso,CON,57
 Oneida,New Hartford W2D3,State Assembly,101,Maria Kelso,CON,47
 Oneida,New Hartford W2D4,State Assembly,101,Maria Kelso,CON,48
-Oneida,New Hartford Ward 2 Total,State Assembly,101,Maria Kelso,CON,186
 Oneida,New Hartford W3D1,State Assembly,101,Maria Kelso,CON,37
 Oneida,New Hartford W3D2,State Assembly,101,Maria Kelso,CON,57
 Oneida,New Hartford W3D3,State Assembly,101,Maria Kelso,CON,22
 Oneida,New Hartford W3D4,State Assembly,101,Maria Kelso,CON,25
-Oneida,New Hartford Ward 3 Total,State Assembly,101,Maria Kelso,CON,141
 Oneida,New Hartford W4D1,State Assembly,101,Maria Kelso,CON,44
 Oneida,New Hartford W4D2,State Assembly,101,Maria Kelso,CON,29
 Oneida,New Hartford W4D3,State Assembly,101,Maria Kelso,CON,41
 Oneida,New Hartford W4D4,State Assembly,101,Maria Kelso,CON,73
-Oneida,New Hartford Ward 4 Total,State Assembly,101,Maria Kelso,CON,187
-Oneida,New Hartford Totals,State Assembly,101,Maria Kelso,CON,726
 Oneida,New Hartford W1D1,State Assembly,101,Arlene Feldmeier,WOR,13
 Oneida,New Hartford W1D2,State Assembly,101,Arlene Feldmeier,WOR,14
 Oneida,New Hartford W1D3,State Assembly,101,Arlene Feldmeier,WOR,18
 Oneida,New Hartford W1D4,State Assembly,101,Arlene Feldmeier,WOR,13
 Oneida,New Hartford W1D5,State Assembly,101,Arlene Feldmeier,WOR,13
-Oneida,New Hartford Ward 1 Total,State Assembly,101,Arlene Feldmeier,WOR,71
 Oneida,New Hartford W2D1,State Assembly,101,Arlene Feldmeier,WOR,10
 Oneida,New Hartford W2D2,State Assembly,101,Arlene Feldmeier,WOR,13
 Oneida,New Hartford W2D3,State Assembly,101,Arlene Feldmeier,WOR,14
 Oneida,New Hartford W2D4,State Assembly,101,Arlene Feldmeier,WOR,17
-Oneida,New Hartford Ward 2 Total,State Assembly,101,Arlene Feldmeier,WOR,54
 Oneida,New Hartford W3D1,State Assembly,101,Arlene Feldmeier,WOR,19
 Oneida,New Hartford W3D2,State Assembly,101,Arlene Feldmeier,WOR,17
 Oneida,New Hartford W3D3,State Assembly,101,Arlene Feldmeier,WOR,13
 Oneida,New Hartford W3D4,State Assembly,101,Arlene Feldmeier,WOR,9
-Oneida,New Hartford Ward 3 Total,State Assembly,101,Arlene Feldmeier,WOR,58
 Oneida,New Hartford W4D1,State Assembly,101,Arlene Feldmeier,WOR,17
 Oneida,New Hartford W4D2,State Assembly,101,Arlene Feldmeier,WOR,5
 Oneida,New Hartford W4D3,State Assembly,101,Arlene Feldmeier,WOR,11
 Oneida,New Hartford W4D4,State Assembly,101,Arlene Feldmeier,WOR,31
-Oneida,New Hartford Ward 4 Total,State Assembly,101,Arlene Feldmeier,WOR,64
-Oneida,New Hartford Totals,State Assembly,101,Arlene Feldmeier,WOR,247
 Oneida,New Hartford W1D1,State Assembly,101,Brian Miller,IDC,28
 Oneida,New Hartford W1D2,State Assembly,101,Brian Miller,IDC,31
 Oneida,New Hartford W1D3,State Assembly,101,Brian Miller,IDC,34
 Oneida,New Hartford W1D4,State Assembly,101,Brian Miller,IDC,24
 Oneida,New Hartford W1D5,State Assembly,101,Brian Miller,IDC,29
-Oneida,New Hartford Ward 1 Total,State Assembly,101,Brian Miller,IDC,146
 Oneida,New Hartford W2D1,State Assembly,101,Brian Miller,IDC,25
 Oneida,New Hartford W2D2,State Assembly,101,Brian Miller,IDC,24
 Oneida,New Hartford W2D3,State Assembly,101,Brian Miller,IDC,27
 Oneida,New Hartford W2D4,State Assembly,101,Brian Miller,IDC,26
-Oneida,New Hartford Ward 2 Total,State Assembly,101,Brian Miller,IDC,102
 Oneida,New Hartford W3D1,State Assembly,101,Brian Miller,IDC,24
 Oneida,New Hartford W3D2,State Assembly,101,Brian Miller,IDC,29
 Oneida,New Hartford W3D3,State Assembly,101,Brian Miller,IDC,17
 Oneida,New Hartford W3D4,State Assembly,101,Brian Miller,IDC,20
-Oneida,New Hartford Ward 3 Total,State Assembly,101,Brian Miller,IDC,90
 Oneida,New Hartford W4D1,State Assembly,101,Brian Miller,IDC,25
 Oneida,New Hartford W4D2,State Assembly,101,Brian Miller,IDC,21
 Oneida,New Hartford W4D3,State Assembly,101,Brian Miller,IDC,15
 Oneida,New Hartford W4D4,State Assembly,101,Brian Miller,IDC,38
-Oneida,New Hartford Ward 4 Total,State Assembly,101,Brian Miller,IDC,99
-Oneida,New Hartford Totals,State Assembly,101,Brian Miller,IDC,437
 Oneida,New Hartford W1D1,State Assembly,101,Maria Kelso,REF,8
 Oneida,New Hartford W1D2,State Assembly,101,Maria Kelso,REF,3
 Oneida,New Hartford W1D3,State Assembly,101,Maria Kelso,REF,4
 Oneida,New Hartford W1D4,State Assembly,101,Maria Kelso,REF,10
 Oneida,New Hartford W1D5,State Assembly,101,Maria Kelso,REF,5
-Oneida,New Hartford Ward 1 Total,State Assembly,101,Maria Kelso,REF,30
 Oneida,New Hartford W2D1,State Assembly,101,Maria Kelso,REF,5
 Oneida,New Hartford W2D2,State Assembly,101,Maria Kelso,REF,3
 Oneida,New Hartford W2D3,State Assembly,101,Maria Kelso,REF,2
 Oneida,New Hartford W2D4,State Assembly,101,Maria Kelso,REF,9
-Oneida,New Hartford Ward 2 Total,State Assembly,101,Maria Kelso,REF,19
 Oneida,New Hartford W3D1,State Assembly,101,Maria Kelso,REF,3
 Oneida,New Hartford W3D2,State Assembly,101,Maria Kelso,REF,5
 Oneida,New Hartford W3D3,State Assembly,101,Maria Kelso,REF,4
 Oneida,New Hartford W3D4,State Assembly,101,Maria Kelso,REF,1
-Oneida,New Hartford Ward 3 Total,State Assembly,101,Maria Kelso,REF,13
 Oneida,New Hartford W4D1,State Assembly,101,Maria Kelso,REF,3
 Oneida,New Hartford W4D2,State Assembly,101,Maria Kelso,REF,0
 Oneida,New Hartford W4D3,State Assembly,101,Maria Kelso,REF,1
 Oneida,New Hartford W4D4,State Assembly,101,Maria Kelso,REF,5
-Oneida,New Hartford Ward 4 Total,State Assembly,101,Maria Kelso,REF,9
-Oneida,New Hartford Totals,State Assembly,101,Maria Kelso,REF,71
 Oneida,New Hartford W1D1,State Assembly,101,Write-ins,,0
 Oneida,New Hartford W1D2,State Assembly,101,Write-ins,,0
 Oneida,New Hartford W1D3,State Assembly,101,Write-ins,,1
 Oneida,New Hartford W1D4,State Assembly,101,Write-ins,,0
 Oneida,New Hartford W1D5,State Assembly,101,Write-ins,,0
-Oneida,New Hartford Ward 1 Total,State Assembly,101,Write-ins,,1
 Oneida,New Hartford W2D1,State Assembly,101,Write-ins,,1
 Oneida,New Hartford W2D2,State Assembly,101,Write-ins,,0
 Oneida,New Hartford W2D3,State Assembly,101,Write-ins,,0
 Oneida,New Hartford W2D4,State Assembly,101,Write-ins,,1
-Oneida,New Hartford Ward 2 Total,State Assembly,101,Write-ins,,2
 Oneida,New Hartford W3D1,State Assembly,101,Write-ins,,1
 Oneida,New Hartford W3D2,State Assembly,101,Write-ins,,0
 Oneida,New Hartford W3D3,State Assembly,101,Write-ins,,0
 Oneida,New Hartford W3D4,State Assembly,101,Write-ins,,0
-Oneida,New Hartford Ward 3 Total,State Assembly,101,Write-ins,,1
 Oneida,New Hartford W4D1,State Assembly,101,Write-ins,,0
 Oneida,New Hartford W4D2,State Assembly,101,Write-ins,,0
 Oneida,New Hartford W4D3,State Assembly,101,Write-ins,,0
 Oneida,New Hartford W4D4,State Assembly,101,Write-ins,,0
-Oneida,New Hartford Ward 4 Total,State Assembly,101,Write-ins,,0
-Oneida,New Hartford Totals,State Assembly,101,Write-ins,,4
 Oneida,Annsville 1,President,,Hillary Clinton,DEM,127
 Oneida,Annsville 2,President,,Hillary Clinton,DEM,43
 Oneida,Annsville 3,President,,Hillary Clinton,DEM,13
@@ -5219,294 +4367,99 @@ Oneida,Whitestown 13,President,,Gary Johnson,LBT,5
 Oneida,Whitestown 14,President,,Gary Johnson,LBT,10
 Oneida,Whitestown 15,President,,Gary Johnson,LBT,3
 Oneida,Whitestown 16,President,,Gary Johnson,LBT,11
-Oneida,Annsville 1,President,,Evan McMullin,WRI,0
-Oneida,Annsville 2,President,,Evan McMullin,WRI,0
-Oneida,Annsville 3,President,,Evan McMullin,WRI,1
-Oneida,Augusta 1,President,,Evan McMullin,WRI,0
-Oneida,Augusta 2,President,,Evan McMullin,WRI,0
-Oneida,Ava,President,,Evan McMullin,WRI,0
-Oneida,Boonville 1,President,,Evan McMullin,WRI,1
-Oneida,Boonville 2,President,,Evan McMullin,WRI,0
-Oneida,Boonville 3,President,,Evan McMullin,WRI,0
-Oneida,Boonville 4,President,,Evan McMullin,WRI,0
-Oneida,Bridgewater 1,President,,Evan McMullin,WRI,0
-Oneida,Camden 1,President,,Evan McMullin,WRI,1
-Oneida,Camden 2,President,,Evan McMullin,WRI,1
-Oneida,Camden 3,President,,Evan McMullin,WRI,0
-Oneida,Deerfield 1,President,,Evan McMullin,WRI,0
-Oneida,Deerfield 2,President,,Evan McMullin,WRI,2
-Oneida,Deerfield 3,President,,Evan McMullin,WRI,0
-Oneida,Florence,President,,Evan McMullin,WRI,1
-Oneida,Floyd 1,President,,Evan McMullin,WRI,0
-Oneida,Floyd 2,President,,Evan McMullin,WRI,0
-Oneida,Floyd 3,President,,Evan McMullin,WRI,0
-Oneida,Forestport 1,President,,Evan McMullin,WRI,1
-Oneida,Forestport 2,President,,Evan McMullin,WRI,0
-Oneida,Kirkland 1,President,,Evan McMullin,WRI,1
-Oneida,Kirkland 2,President,,Evan McMullin,WRI,1
-Oneida,Kirkland 3,President,,Evan McMullin,WRI,0
-Oneida,Kirkland 4,President,,Evan McMullin,WRI,1
-Oneida,Kirkland 5,President,,Evan McMullin,WRI,2
-Oneida,Kirkland 6,President,,Evan McMullin,WRI,4
-Oneida,Kirkland 7,President,,Evan McMullin,WRI,0
-Oneida,Kirkland 8,President,,Evan McMullin,WRI,0
-Oneida,Kirkland 9,President,,Evan McMullin,WRI,0
-Oneida,Kirkland 10,President,,Evan McMullin,WRI,0
-Oneida,Lee 1,President,,Evan McMullin,WRI,1
-Oneida,Lee 2,President,,Evan McMullin,WRI,2
-Oneida,Lee 3,President,,Evan McMullin,WRI,0
-Oneida,Lee 4,President,,Evan McMullin,WRI,1
-Oneida,Lee 5,President,,Evan McMullin,WRI,1
-Oneida,Marcy 1,President,,Evan McMullin,WRI,1
-Oneida,Marcy 2,President,,Evan McMullin,WRI,1
-Oneida,Marcy 3,President,,Evan McMullin,WRI,5
-Oneida,Marcy 4,President,,Evan McMullin,WRI,1
-Oneida,Marshall 1,President,,Evan McMullin,WRI,0
-Oneida,Marshall 2,President,,Evan McMullin,WRI,3
-Oneida,Paris 1,President,,Evan McMullin,WRI,0
-Oneida,Paris 2,President,,Evan McMullin,WRI,1
-Oneida,Paris 3,President,,Evan McMullin,WRI,1
-Oneida,Remsen,President,,Evan McMullin,WRI,1
-Oneida,Sangerfield 1,President,,Evan McMullin,WRI,2
-Oneida,Sangerfield 2,President,,Evan McMullin,WRI,0
-Oneida,Steuben,President,,Evan McMullin,WRI,2
-Oneida,Trenton 1,President,,Evan McMullin,WRI,2
-Oneida,Trenton 2,President,,Evan McMullin,WRI,5
-Oneida,Trenton 3,President,,Evan McMullin,WRI,3
-Oneida,Trenton 4,President,,Evan McMullin,WRI,2
-Oneida,Vernon 1,President,,Evan McMullin,WRI,1
-Oneida,Vernon 2,President,,Evan McMullin,WRI,2
-Oneida,Vernon 3,President,,Evan McMullin,WRI,2
-Oneida,Vernon 4,President,,Evan McMullin,WRI,4
-Oneida,Vernon 5,President,,Evan McMullin,WRI,0
-Oneida,Verona 1,President,,Evan McMullin,WRI,3
-Oneida,Verona 2,President,,Evan McMullin,WRI,0
-Oneida,Verona 3,President,,Evan McMullin,WRI,1
-Oneida,Verona 4,President,,Evan McMullin,WRI,1
-Oneida,Verona 5,President,,Evan McMullin,WRI,1
-Oneida,Verona 6,President,,Evan McMullin,WRI,0
-Oneida,Vienna 1,President,,Evan McMullin,WRI,0
-Oneida,Vienna 2,President,,Evan McMullin,WRI,0
-Oneida,Vienna 3,President,,Evan McMullin,WRI,0
-Oneida,Vienna 4,President,,Evan McMullin,WRI,1
-Oneida,Western 1,President,,Evan McMullin,WRI,0
-Oneida,Western 2,President,,Evan McMullin,WRI,1
-Oneida,Western 3,President,,Evan McMullin,WRI,1
-Oneida,Westmoreland 1,President,,Evan McMullin,WRI,0
-Oneida,Westmoreland 2,President,,Evan McMullin,WRI,1
-Oneida,Westmoreland 3,President,,Evan McMullin,WRI,0
-Oneida,Westmoreland 4,President,,Evan McMullin,WRI,5
-Oneida,Whitestown 1,President,,Evan McMullin,WRI,0
-Oneida,Whitestown 2,President,,Evan McMullin,WRI,0
-Oneida,Whitestown 3,President,,Evan McMullin,WRI,1
-Oneida,Whitestown 4,President,,Evan McMullin,WRI,3
-Oneida,Whitestown 5,President,,Evan McMullin,WRI,2
-Oneida,Whitestown 6,President,,Evan McMullin,WRI,4
-Oneida,Whitestown 7,President,,Evan McMullin,WRI,1
-Oneida,Whitestown 8,President,,Evan McMullin,WRI,3
-Oneida,Whitestown 9,President,,Evan McMullin,WRI,0
-Oneida,Whitestown 10,President,,Evan McMullin,WRI,4
-Oneida,Whitestown 11,President,,Evan McMullin,WRI,0
-Oneida,Whitestown 12,President,,Evan McMullin,WRI,1
-Oneida,Whitestown 13,President,,Evan McMullin,WRI,0
-Oneida,Whitestown 14,President,,Evan McMullin,WRI,0
-Oneida,Whitestown 15,President,,Evan McMullin,WRI,4
-Oneida,Whitestown 16,President,,Evan McMullin,WRI,1
-Oneida,Annsville 1,President,,Bernie Sanders,WRI,0
-Oneida,Annsville 2,President,,Bernie Sanders,WRI,0
-Oneida,Annsville 3,President,,Bernie Sanders,WRI,0
-Oneida,Augusta 1,President,,Bernie Sanders,WRI,0
-Oneida,Augusta 2,President,,Bernie Sanders,WRI,1
-Oneida,Ava,President,,Bernie Sanders,WRI,0
-Oneida,Boonville 1,President,,Bernie Sanders,WRI,1
-Oneida,Boonville 2,President,,Bernie Sanders,WRI,2
-Oneida,Boonville 3,President,,Bernie Sanders,WRI,0
-Oneida,Boonville 4,President,,Bernie Sanders,WRI,0
-Oneida,Bridgewater 1,President,,Bernie Sanders,WRI,1
-Oneida,Camden 1,President,,Bernie Sanders,WRI,1
-Oneida,Camden 2,President,,Bernie Sanders,WRI,1
-Oneida,Camden 3,President,,Bernie Sanders,WRI,0
-Oneida,Deerfield 1,President,,Bernie Sanders,WRI,2
-Oneida,Deerfield 2,President,,Bernie Sanders,WRI,1
-Oneida,Deerfield 3,President,,Bernie Sanders,WRI,2
-Oneida,Florence,President,,Bernie Sanders,WRI,3
-Oneida,Floyd 1,President,,Bernie Sanders,WRI,0
-Oneida,Floyd 2,President,,Bernie Sanders,WRI,2
-Oneida,Floyd 3,President,,Bernie Sanders,WRI,1
-Oneida,Forestport 1,President,,Bernie Sanders,WRI,2
-Oneida,Forestport 2,President,,Bernie Sanders,WRI,0
-Oneida,Kirkland 1,President,,Bernie Sanders,WRI,2
-Oneida,Kirkland 2,President,,Bernie Sanders,WRI,3
-Oneida,Kirkland 3,President,,Bernie Sanders,WRI,2
-Oneida,Kirkland 4,President,,Bernie Sanders,WRI,1
-Oneida,Kirkland 5,President,,Bernie Sanders,WRI,1
-Oneida,Kirkland 6,President,,Bernie Sanders,WRI,1
-Oneida,Kirkland 7,President,,Bernie Sanders,WRI,0
-Oneida,Kirkland 8,President,,Bernie Sanders,WRI,1
-Oneida,Kirkland 9,President,,Bernie Sanders,WRI,1
-Oneida,Kirkland 10,President,,Bernie Sanders,WRI,2
-Oneida,Lee 1,President,,Bernie Sanders,WRI,2
-Oneida,Lee 2,President,,Bernie Sanders,WRI,2
-Oneida,Lee 3,President,,Bernie Sanders,WRI,0
-Oneida,Lee 4,President,,Bernie Sanders,WRI,0
-Oneida,Lee 5,President,,Bernie Sanders,WRI,3
-Oneida,Marcy 1,President,,Bernie Sanders,WRI,1
-Oneida,Marcy 2,President,,Bernie Sanders,WRI,1
-Oneida,Marcy 3,President,,Bernie Sanders,WRI,2
-Oneida,Marcy 4,President,,Bernie Sanders,WRI,1
-Oneida,Marshall 1,President,,Bernie Sanders,WRI,0
-Oneida,Marshall 2,President,,Bernie Sanders,WRI,0
-Oneida,Paris 1,President,,Bernie Sanders,WRI,3
-Oneida,Paris 2,President,,Bernie Sanders,WRI,4
-Oneida,Paris 3,President,,Bernie Sanders,WRI,2
-Oneida,Remsen,President,,Bernie Sanders,WRI,0
-Oneida,Sangerfield 1,President,,Bernie Sanders,WRI,1
-Oneida,Sangerfield 2,President,,Bernie Sanders,WRI,0
-Oneida,Steuben,President,,Bernie Sanders,WRI,1
-Oneida,Trenton 1,President,,Bernie Sanders,WRI,0
-Oneida,Trenton 2,President,,Bernie Sanders,WRI,1
-Oneida,Trenton 3,President,,Bernie Sanders,WRI,0
-Oneida,Trenton 4,President,,Bernie Sanders,WRI,3
-Oneida,Vernon 1,President,,Bernie Sanders,WRI,1
-Oneida,Vernon 2,President,,Bernie Sanders,WRI,2
-Oneida,Vernon 3,President,,Bernie Sanders,WRI,2
-Oneida,Vernon 4,President,,Bernie Sanders,WRI,3
-Oneida,Vernon 5,President,,Bernie Sanders,WRI,3
-Oneida,Verona 1,President,,Bernie Sanders,WRI,4
-Oneida,Verona 2,President,,Bernie Sanders,WRI,0
-Oneida,Verona 3,President,,Bernie Sanders,WRI,0
-Oneida,Verona 4,President,,Bernie Sanders,WRI,0
-Oneida,Verona 5,President,,Bernie Sanders,WRI,1
-Oneida,Verona 6,President,,Bernie Sanders,WRI,0
-Oneida,Vienna 1,President,,Bernie Sanders,WRI,4
-Oneida,Vienna 2,President,,Bernie Sanders,WRI,1
-Oneida,Vienna 3,President,,Bernie Sanders,WRI,1
-Oneida,Vienna 4,President,,Bernie Sanders,WRI,0
-Oneida,Western 1,President,,Bernie Sanders,WRI,0
-Oneida,Western 2,President,,Bernie Sanders,WRI,0
-Oneida,Western 3,President,,Bernie Sanders,WRI,0
-Oneida,Westmoreland 1,President,,Bernie Sanders,WRI,5
-Oneida,Westmoreland 2,President,,Bernie Sanders,WRI,3
-Oneida,Westmoreland 3,President,,Bernie Sanders,WRI,2
-Oneida,Westmoreland 4,President,,Bernie Sanders,WRI,2
-Oneida,Whitestown 1,President,,Bernie Sanders,WRI,0
-Oneida,Whitestown 2,President,,Bernie Sanders,WRI,3
-Oneida,Whitestown 3,President,,Bernie Sanders,WRI,1
-Oneida,Whitestown 4,President,,Bernie Sanders,WRI,2
-Oneida,Whitestown 5,President,,Bernie Sanders,WRI,1
-Oneida,Whitestown 6,President,,Bernie Sanders,WRI,2
-Oneida,Whitestown 7,President,,Bernie Sanders,WRI,2
-Oneida,Whitestown 8,President,,Bernie Sanders,WRI,2
-Oneida,Whitestown 9,President,,Bernie Sanders,WRI,1
-Oneida,Whitestown 10,President,,Bernie Sanders,WRI,3
-Oneida,Whitestown 11,President,,Bernie Sanders,WRI,0
-Oneida,Whitestown 12,President,,Bernie Sanders,WRI,0
-Oneida,Whitestown 13,President,,Bernie Sanders,WRI,0
-Oneida,Whitestown 14,President,,Bernie Sanders,WRI,0
-Oneida,Whitestown 15,President,,Bernie Sanders,WRI,0
-Oneida,Whitestown 16,President,,Bernie Sanders,WRI,4
-Oneida,Annsville 1,President,,Scatterings,,1
-Oneida,Annsville 2,President,,Scatterings,,1
-Oneida,Annsville 3,President,,Scatterings,,1
-Oneida,Augusta 1,President,,Scatterings,,2
-Oneida,Augusta 2,President,,Scatterings,,1
-Oneida,Ava,President,,Scatterings,,1
-Oneida,Boonville 1,President,,Scatterings,,8
-Oneida,Boonville 2,President,,Scatterings,,1
-Oneida,Boonville 3,President,,Scatterings,,1
-Oneida,Boonville 4,President,,Scatterings,,0
-Oneida,Bridgewater 1,President,,Scatterings,,1
-Oneida,Camden 1,President,,Scatterings,,4
-Oneida,Camden 2,President,,Scatterings,,6
-Oneida,Camden 3,President,,Scatterings,,3
-Oneida,Deerfield 1,President,,Scatterings,,2
-Oneida,Deerfield 2,President,,Scatterings,,5
-Oneida,Deerfield 3,President,,Scatterings,,4
-Oneida,Florence,President,,Scatterings,,2
-Oneida,Floyd 1,President,,Scatterings,,4
-Oneida,Floyd 2,President,,Scatterings,,2
-Oneida,Floyd 3,President,,Scatterings,,2
-Oneida,Forestport 1,President,,Scatterings,,1
-Oneida,Forestport 2,President,,Scatterings,,2
-Oneida,Kirkland 1,President,,Scatterings,,1
-Oneida,Kirkland 1,President,,JillStein,,1
-Oneida,Kirkland 2,President,,Scatterings,,2
-Oneida,Kirkland 3,President,,Scatterings,,5
-Oneida,Kirkland 3,President,,Gloria LaRiva,WRI,1
-Oneida,Kirkland 4,President,,Scatterings,,4
-Oneida,Kirkland 5,President,,Scatterings,,1
-Oneida,Kirkland 6,President,,Scatterings,,6
-Oneida,Kirkland 7,President,,Scatterings,,5
-Oneida,Kirkland 7,President,,Darrell Castle,WRI,2
-Oneida,Kirkland 8,President,,Scatterings,,2
-Oneida,Kirkland 9,President,,Scatterings,,4
-Oneida,Kirkland 10,President,,Scatterings,,0
-Oneida,Lee 1,President,,Scatterings,,0
-Oneida,Lee 2,President,,Scatterings,,3
-Oneida,Lee 3,President,,Scatterings,,1
-Oneida,Lee 4,President,,Scatterings,,1
-Oneida,Lee 5,President,,Scatterings,,4
-Oneida,Marcy 1,President,,Scatterings,,3
-Oneida,Marcy 1,President,,Darrell Castle,WRI,3
-Oneida,Marcy 2,President,,Scatterings,,4
-Oneida,Marcy 3,President,,Scatterings,,2
-Oneida,Marcy 4,President,,Scatterings,,1
-Oneida,Marshall 1,President,,Scatterings,,2
-Oneida,Marshall 2,President,,Scatterings,,2
-Oneida,Paris 1,President,,Scatterings,,1
-Oneida,Paris 2,President,,Scatterings,,3
-Oneida,Paris 3,President,,Scatterings,,5
-Oneida,Remsen,President,,Scatterings,,4
-Oneida,Sangerfield 1,President,,Scatterings,,5
-Oneida,Sangerfield 2,President,,Scatterings,,3
-Oneida,Steuben,President,,Scatterings,,4
-Oneida,Trenton 1,President,,Scatterings,,3
-Oneida,Trenton 2,President,,Scatterings,,1
-Oneida,Trenton 3,President,,Scatterings,,2
-Oneida,Trenton 4,President,,Scatterings,,3
-Oneida,Vernon 1,President,,Scatterings,,5
-Oneida,Vernon 2,President,,Scatterings,,6
-Oneida,Vernon 2,President,,Darrell Castle,WRI,2
-Oneida,Vernon 3,President,,Scatterings,,6
-Oneida,Vernon 4,President,,Scatterings,,4
-Oneida,Vernon 5,President,,Scatterings,,3
-Oneida,Verona 1,President,,Scatterings,,2
-Oneida,Verona 1,President,,Mike Maturen,WRI,2
-Oneida,Verona 2,President,,Scatterings,,3
-Oneida,Verona 2,President,,Darrell Castle,WRI,1
-Oneida,Verona 3,President,,Scatterings,,4
-Oneida,Verona 4,President,,Scatterings,,0
-Oneida,Verona 5,President,,Scatterings,,2
-Oneida,Verona 5,President,,Darrell Castle,WRI,1
-Oneida,Verona 5,President,,Mike Maturen,WRI,1
-Oneida,Verona 6,President,,Scatterings,,1
-Oneida,Vienna 1,President,,Scatterings,,2
-Oneida,Vienna 2,President,,Scatterings,,1
-Oneida,Vienna 3,President,,Scatterings,,6
-Oneida,Vienna 4,President,,Scatterings,,2
-Oneida,Western 1,President,,Scatterings,,2
-Oneida,Western 2,President,,Scatterings,,1
-Oneida,Western 3,President,,Scatterings,,1
-Oneida,Westmoreland 1,President,,Scatterings,,1
-Oneida,Westmoreland 2,President,,Scatterings,,2
-Oneida,Westmoreland 3,President,,Scatterings,,3
-Oneida,Westmoreland 4,President,,Scatterings,,3
-Oneida,Whitestown 1,President,,Scatterings,,0
-Oneida,Whitestown 2,President,,Scatterings,,2
-Oneida,Whitestown 3,President,,Scatterings,,1
-Oneida,Whitestown 4,President,,Scatterings,,3
-Oneida,Whitestown 5,President,,Scatterings,,3
-Oneida,Whitestown 6,President,,Scatterings,,4
-Oneida,Whitestown 7,President,,Scatterings,,2
-Oneida,Whitestown 8,President,,Scatterings,,4
-Oneida,Whitestown 9,President,,Scatterings,,3
-Oneida,Whitestown 10,President,,Scatterings,,3
-Oneida,Whitestown 11,President,,Scatterings,,0
-Oneida,Whitestown 12,President,,Scatterings,,3
-Oneida,Whitestown 13,President,,Scatterings,,0
-Oneida,Whitestown 14,President,,Scatterings,,3
-Oneida,Whitestown 15,President,,Scatterings,,4
-Oneida,Whitestown 16,President,,Scatterings,,10
+Oneida,Annsville 1,President,,Write-ins,,1
+Oneida,Annsville 2,President,,Write-ins,,1
+Oneida,Annsville 3,President,,Write-ins,,2
+Oneida,Augusta 1,President,,Write-ins,,2
+Oneida,Augusta 2,President,,Write-ins,,2
+Oneida,Ava,President,,Write-ins,,1
+Oneida,Boonville 1,President,,Write-ins,,10
+Oneida,Boonville 2,President,,Write-ins,,4
+Oneida,Boonville 3,President,,Write-ins,,1
+Oneida,Boonville 4,President,,Write-ins,,0
+Oneida,Bridgewater 1,President,,Write-ins,,2
+Oneida,Camden 1,President,,Write-ins,,7
+Oneida,Camden 2,President,,Write-ins,,8
+Oneida,Camden 3,President,,Write-ins,,3
+Oneida,Deerfield 1,President,,Write-ins,,4
+Oneida,Deerfield 2,President,,Write-ins,,8
+Oneida,Deerfield 3,President,,Write-ins,,6
+Oneida,Florence,President,,Write-ins,,6
+Oneida,Floyd 1,President,,Write-ins,,4
+Oneida,Floyd 2,President,,Write-ins,,4
+Oneida,Floyd 3,President,,Write-ins,,3
+Oneida,Forestport 1,President,,Write-ins,,4
+Oneida,Forestport 2,President,,Write-ins,,2
+Oneida,Kirkland 1,President,,Write-ins,,5
+Oneida,Kirkland 2,President,,Write-ins,,6
+Oneida,Kirkland 3,President,,Write-ins,,8
+Oneida,Kirkland 4,President,,Write-ins,,6
+Oneida,Kirkland 5,President,,Write-ins,,4
+Oneida,Kirkland 6,President,,Write-ins,,11
+Oneida,Kirkland 7,President,,Write-ins,,7
+Oneida,Kirkland 8,President,,Write-ins,,3
+Oneida,Kirkland 9,President,,Write-ins,,5
+Oneida,Kirkland 10,President,,Write-ins,,2
+Oneida,Lee 1,President,,Write-ins,,3
+Oneida,Lee 2,President,,Write-ins,,7
+Oneida,Lee 3,President,,Write-ins,,1
+Oneida,Lee 4,President,,Write-ins,,2
+Oneida,Lee 5,President,,Write-ins,,10
+Oneida,Marcy 1,President,,Write-ins,,8
+Oneida,Marcy 2,President,,Write-ins,,6
+Oneida,Marcy 3,President,,Write-ins,,9
+Oneida,Marcy 4,President,,Write-ins,,3
+Oneida,Marshall 1,President,,Write-ins,,2
+Oneida,Marshall 2,President,,Write-ins,,5
+Oneida,Paris 1,President,,Write-ins,,4
+Oneida,Paris 2,President,,Write-ins,,8
+Oneida,Paris 3,President,,Write-ins,,8
+Oneida,Remsen,President,,Write-ins,,5
+Oneida,Sangerfield 1,President,,Write-ins,,8
+Oneida,Sangerfield 2,President,,Write-ins,,3
+Oneida,Steuben,President,,Write-ins,,7
+Oneida,Trenton 1,President,,Write-ins,,5
+Oneida,Trenton 2,President,,Write-ins,,7
+Oneida,Trenton 3,President,,Write-ins,,5
+Oneida,Trenton 4,President,,Write-ins,,5
+Oneida,Vernon 1,President,,Write-ins,,7
+Oneida,Vernon 2,President,,Write-ins,,12
+Oneida,Vernon 3,President,,Write-ins,,10
+Oneida,Vernon 4,President,,Write-ins,,11
+Oneida,Vernon 5,President,,Write-ins,,6
+Oneida,Verona 1,President,,Write-ins,,11
+Oneida,Verona 2,President,,Write-ins,,4
+Oneida,Verona 3,President,,Write-ins,,5
+Oneida,Verona 4,President,,Write-ins,,1
+Oneida,Verona 5,President,,Write-ins,,6
+Oneida,Verona 6,President,,Write-ins,,1
+Oneida,Vienna 1,President,,Write-ins,,6
+Oneida,Vienna 2,President,,Write-ins,,2
+Oneida,Vienna 3,President,,Write-ins,,7
+Oneida,Vienna 4,President,,Write-ins,,3
+Oneida,Western 1,President,,Write-ins,,2
+Oneida,Western 2,President,,Write-ins,,2
+Oneida,Western 3,President,,Write-ins,,2
+Oneida,Westmoreland 1,President,,Write-ins,,6
+Oneida,Westmoreland 2,President,,Write-ins,,6
+Oneida,Westmoreland 3,President,,Write-ins,,5
+Oneida,Westmoreland 4,President,,Write-ins,,10
+Oneida,Whitestown 1,President,,Write-ins,,0
+Oneida,Whitestown 2,President,,Write-ins,,5
+Oneida,Whitestown 3,President,,Write-ins,,3
+Oneida,Whitestown 4,President,,Write-ins,,8
+Oneida,Whitestown 5,President,,Write-ins,,6
+Oneida,Whitestown 6,President,,Write-ins,,10
+Oneida,Whitestown 7,President,,Write-ins,,5
+Oneida,Whitestown 8,President,,Write-ins,,9
+Oneida,Whitestown 9,President,,Write-ins,,4
+Oneida,Whitestown 10,President,,Write-ins,,10
+Oneida,Whitestown 11,President,,Write-ins,,0
+Oneida,Whitestown 12,President,,Write-ins,,4
+Oneida,Whitestown 13,President,,Write-ins,,0
+Oneida,Whitestown 14,President,,Write-ins,,3
+Oneida,Whitestown 15,President,,Write-ins,,8
+Oneida,Whitestown 16,President,,Write-ins,,15
 Oneida,Annsville 1,U.S. Senate,,Charles Schumer,DEM,229
 Oneida,Annsville 2,U.S. Senate,,Charles Schumer,DEM,92
 Oneida,Annsville 3,U.S. Senate,,Charles Schumer,DEM,37
