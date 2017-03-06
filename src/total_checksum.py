@@ -70,6 +70,9 @@ class TotalChecker(object):
 			self.results = self.results[(self.results.candidate != 'Over Votes') & 
 										(self.results.candidate != 'Under Votes')]
 
+		# The registered voter count will never be part of the vote totals
+		self.results = self.results[(self.results.candidate != 'Registered Voters')]
+
 		self.results_sans_totals = self.results.loc[(self.results.candidate != 'Total') & (self.results.precinct != 'Total')]
 
 
