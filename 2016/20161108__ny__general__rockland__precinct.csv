@@ -276,7 +276,7 @@ Rockland,Stony Point 10,President,,DEM,Hillary Clinton,137
 Rockland,Stony Point 11,President,,DEM,Hillary Clinton,176
 Rockland,Stony Point 12,President,,DEM,Hillary Clinton,197
 Rockland,Stony Point 13,President,,DEM,Hillary Clinton,242
-Rockland,,President,,DEM,Hillary Clinton,67098
+Rockland,Total,President,,DEM,Hillary Clinton,67098
 Rockland,Clarkstown 1,President,,WOR,Hillary Clinton,5
 Rockland,Clarkstown 2,President,,WOR,Hillary Clinton,5
 Rockland,Clarkstown 3,President,,WOR,Hillary Clinton,5
@@ -554,7 +554,7 @@ Rockland,Stony Point 10,President,,WOR,Hillary Clinton,7
 Rockland,Stony Point 11,President,,WOR,Hillary Clinton,10
 Rockland,Stony Point 12,President,,WOR,Hillary Clinton,4
 Rockland,Stony Point 13,President,,WOR,Hillary Clinton,6
-Rockland,,President,,WOR,Hillary Clinton,1640
+Rockland,Total,President,,WOR,Hillary Clinton,1640
 Rockland,Clarkstown 1,President,,WEP,Hillary Clinton,3
 Rockland,Clarkstown 2,President,,WEP,Hillary Clinton,3
 Rockland,Clarkstown 3,President,,WEP,Hillary Clinton,2
@@ -832,7 +832,7 @@ Rockland,Stony Point 10,President,,WEP,Hillary Clinton,1
 Rockland,Stony Point 11,President,,WEP,Hillary Clinton,1
 Rockland,Stony Point 12,President,,WEP,Hillary Clinton,6
 Rockland,Stony Point 13,President,,WEP,Hillary Clinton,3
-Rockland,,President,,WEP,Hillary Clinton,604
+Rockland,Total,President,,WEP,Hillary Clinton,604
 Rockland,Clarkstown 1,President,,REP,Donald Trump,220
 Rockland,Clarkstown 2,President,,REP,Donald Trump,327
 Rockland,Clarkstown 3,President,,REP,Donald Trump,189
@@ -1110,7 +1110,7 @@ Rockland,Stony Point 10,President,,REP,Donald Trump,238
 Rockland,Stony Point 11,President,,REP,Donald Trump,275
 Rockland,Stony Point 12,President,,REP,Donald Trump,333
 Rockland,Stony Point 13,President,,REP,Donald Trump,481
-Rockland,,President,,REP,Donald Trump,54873
+Rockland,Total,President,,REP,Donald Trump,54873
 Rockland,Clarkstown 1,President,,CON,Donald Trump,32
 Rockland,Clarkstown 2,President,,CON,Donald Trump,38
 Rockland,Clarkstown 3,President,,CON,Donald Trump,30
@@ -1388,7 +1388,7 @@ Rockland,Stony Point 10,President,,CON,Donald Trump,31
 Rockland,Stony Point 11,President,,CON,Donald Trump,39
 Rockland,Stony Point 12,President,,CON,Donald Trump,51
 Rockland,Stony Point 13,President,,CON,Donald Trump,67
-Rockland,,President,,CON,Donald Trump,6038
+Rockland,Total,President,,CON,Donald Trump,6038
 Rockland,Clarkstown 1,President,,GRN,Jill Stein,8
 Rockland,Clarkstown 2,President,,GRN,Jill Stein,3
 Rockland,Clarkstown 3,President,,GRN,Jill Stein,3
@@ -1666,7 +1666,7 @@ Rockland,Stony Point 10,President,,GRN,Jill Stein,1
 Rockland,Stony Point 11,President,,GRN,Jill Stein,9
 Rockland,Stony Point 12,President,,GRN,Jill Stein,2
 Rockland,Stony Point 13,President,,GRN,Jill Stein,11
-Rockland,,President,,GRN,Jill Stein,1348
+Rockland,Total,President,,GRN,Jill Stein,1348
 Rockland,Clarkstown 1,President,,IDC,Gary Johnson,6
 Rockland,Clarkstown 2,President,,IDC,Gary Johnson,5
 Rockland,Clarkstown 3,President,,IDC,Gary Johnson,11
@@ -1944,7 +1944,7 @@ Rockland,Stony Point 10,President,,IDC,Gary Johnson,3
 Rockland,Stony Point 11,President,,IDC,Gary Johnson,4
 Rockland,Stony Point 12,President,,IDC,Gary Johnson,8
 Rockland,Stony Point 13,President,,IDC,Gary Johnson,11
-Rockland,,President,,IDC,Gary Johnson,1529
+Rockland,Total,President,,IDC,Gary Johnson,1529
 Rockland,Clarkstown 1,President,,LBT,Gary Johnson,2
 Rockland,Clarkstown 2,President,,LBT,Gary Johnson,1
 Rockland,Clarkstown 3,President,,LBT,Gary Johnson,3
@@ -2222,285 +2222,285 @@ Rockland,Stony Point 10,President,,LBT,Gary Johnson,1
 Rockland,Stony Point 11,President,,LBT,Gary Johnson,2
 Rockland,Stony Point 12,President,,LBT,Gary Johnson,2
 Rockland,Stony Point 13,President,,LBT,Gary Johnson,6
-Rockland,,President,,LBT,Gary Johnson,755
-Rockland,Clarkstown 1,President,,,scattering,5
-Rockland,Clarkstown 2,President,,,scattering,3
-Rockland,Clarkstown 3,President,,,scattering,3
-Rockland,Clarkstown 4,President,,,scattering,4
-Rockland,Clarkstown 5,President,,,scattering,4
-Rockland,Clarkstown 6,President,,,scattering,6
-Rockland,Clarkstown 8,President,,,scattering,3
-Rockland,Clarkstown 9,President,,,scattering,5
-Rockland,Clarkstown 10,President,,,scattering,4
-Rockland,Clarkstown 11,President,,,scattering,5
-Rockland,Clarkstown 12,President,,,scattering,6
-Rockland,Clarkstown 13,President,,,scattering,7
-Rockland,Clarkstown 14,President,,,scattering,7
-Rockland,Clarkstown 15,President,,,scattering,6
-Rockland,Clarkstown 16,President,,,scattering,4
-Rockland,Clarkstown 17,President,,,scattering,6
-Rockland,Clarkstown 18,President,,,scattering,0
-Rockland,Clarkstown 19,President,,,scattering,2
-Rockland,Clarkstown 20,President,,,scattering,3
-Rockland,Clarkstown 21,President,,,scattering,0
-Rockland,Clarkstown 22,President,,,scattering,4
-Rockland,Clarkstown 23,President,,,scattering,6
-Rockland,Clarkstown 24,President,,,scattering,5
-Rockland,Clarkstown 25,President,,,scattering,3
-Rockland,Clarkstown 27,President,,,scattering,7
-Rockland,Clarkstown 28,President,,,scattering,6
-Rockland,Clarkstown 29,President,,,scattering,4
-Rockland,Clarkstown 30,President,,,scattering,3
-Rockland,Clarkstown 31,President,,,scattering,13
-Rockland,Clarkstown 32,President,,,scattering,5
-Rockland,Clarkstown 33,President,,,scattering,4
-Rockland,Clarkstown 34,President,,,scattering,4
-Rockland,Clarkstown 35,President,,,scattering,10
-Rockland,Clarkstown 36,President,,,scattering,10
-Rockland,Clarkstown 37,President,,,scattering,9
-Rockland,Clarkstown 38,President,,,scattering,10
-Rockland,Clarkstown 40,President,,,scattering,6
-Rockland,Clarkstown 41,President,,,scattering,4
-Rockland,Clarkstown 42,President,,,scattering,4
-Rockland,Clarkstown 43,President,,,scattering,6
-Rockland,Clarkstown 44,President,,,scattering,8
-Rockland,Clarkstown 45,President,,,scattering,5
-Rockland,Clarkstown 46,President,,,scattering,5
-Rockland,Clarkstown 47,President,,,scattering,2
-Rockland,Clarkstown 48,President,,,scattering,4
-Rockland,Clarkstown 49,President,,,scattering,4
-Rockland,Clarkstown 50,President,,,scattering,1
-Rockland,Clarkstown 51,President,,,scattering,1
-Rockland,Clarkstown 52,President,,,scattering,9
-Rockland,Clarkstown 53,President,,,scattering,4
-Rockland,Clarkstown 54,President,,,scattering,4
-Rockland,Clarkstown 55,President,,,scattering,4
-Rockland,Clarkstown 57,President,,,scattering,6
-Rockland,Clarkstown 58,President,,,scattering,2
-Rockland,Clarkstown 59,President,,,scattering,5
-Rockland,Clarkstown 60,President,,,scattering,12
-Rockland,Clarkstown 61,President,,,scattering,6
-Rockland,Clarkstown 62,President,,,scattering,0
-Rockland,Clarkstown 63,President,,,scattering,4
-Rockland,Clarkstown 64,President,,,scattering,1
-Rockland,Clarkstown 65,President,,,scattering,2
-Rockland,Clarkstown 66,President,,,scattering,4
-Rockland,Clarkstown 67,President,,,scattering,2
-Rockland,Clarkstown 68,President,,,scattering,3
-Rockland,Clarkstown 69,President,,,scattering,5
-Rockland,Clarkstown 70,President,,,scattering,10
-Rockland,Clarkstown 71,President,,,scattering,2
-Rockland,Clarkstown 72,President,,,scattering,7
-Rockland,Clarkstown 73,President,,,scattering,13
-Rockland,Clarkstown 74,President,,,scattering,9
-Rockland,Clarkstown 75,President,,,scattering,4
-Rockland,Clarkstown 76,President,,,scattering,4
-Rockland,Clarkstown 77,President,,,scattering,4
-Rockland,Clarkstown 79,President,,,scattering,0
-Rockland,Clarkstown 80,President,,,scattering,2
-Rockland,Clarkstown 81,President,,,scattering,2
-Rockland,Clarkstown 82,President,,,scattering,2
-Rockland,Haverstraw 1,President,,,scattering,1
-Rockland,Haverstraw 2,President,,,scattering,6
-Rockland,Haverstraw 3,President,,,scattering,2
-Rockland,Haverstraw 4,President,,,scattering,2
-Rockland,Haverstraw 6,President,,,scattering,5
-Rockland,Haverstraw 7,President,,,scattering,1
-Rockland,Haverstraw 8,President,,,scattering,0
-Rockland,Haverstraw 9,President,,,scattering,5
-Rockland,Haverstraw 10,President,,,scattering,7
-Rockland,Haverstraw 11,President,,,scattering,0
-Rockland,Haverstraw 12,President,,,scattering,0
-Rockland,Haverstraw 13,President,,,scattering,0
-Rockland,Haverstraw 14,President,,,scattering,0
-Rockland,Haverstraw 15,President,,,scattering,0
-Rockland,Haverstraw 16,President,,,scattering,4
-Rockland,Haverstraw 17,President,,,scattering,3
-Rockland,Haverstraw 18,President,,,scattering,3
-Rockland,Haverstraw 19,President,,,scattering,1
-Rockland,Haverstraw 20,President,,,scattering,6
-Rockland,Haverstraw 21,President,,,scattering,13
-Rockland,Haverstraw 22,President,,,scattering,10
-Rockland,Haverstraw 23,President,,,scattering,2
-Rockland,Haverstraw 24,President,,,scattering,1
-Rockland,Haverstraw 25,President,,,scattering,2
-Rockland,Haverstraw 26,President,,,scattering,2
-Rockland,Haverstraw 27,President,,,scattering,2
-Rockland,Haverstraw 28,President,,,scattering,3
-Rockland,Haverstraw 29,President,,,scattering,3
-Rockland,Haverstraw 30,President,,,scattering,1
-Rockland,Orangetown 1,President,,,scattering,10
-Rockland,Orangetown 2,President,,,scattering,5
-Rockland,Orangetown 3,President,,,scattering,4
-Rockland,Orangetown 5,President,,,scattering,4
-Rockland,Orangetown 7,President,,,scattering,3
-Rockland,Orangetown 8,President,,,scattering,5
-Rockland,Orangetown 9,President,,,scattering,12
-Rockland,Orangetown 10,President,,,scattering,5
-Rockland,Orangetown 11,President,,,scattering,6
-Rockland,Orangetown 12,President,,,scattering,11
-Rockland,Orangetown 13,President,,,scattering,8
-Rockland,Orangetown 14,President,,,scattering,5
-Rockland,Orangetown 15,President,,,scattering,3
-Rockland,Orangetown 16,President,,,scattering,2
-Rockland,Orangetown 17,President,,,scattering,5
-Rockland,Orangetown 18,President,,,scattering,4
-Rockland,Orangetown 19,President,,,scattering,7
-Rockland,Orangetown 20,President,,,scattering,5
-Rockland,Orangetown 21,President,,,scattering,2
-Rockland,Orangetown 22,President,,,scattering,4
-Rockland,Orangetown 23,President,,,scattering,6
-Rockland,Orangetown 24,President,,,scattering,4
-Rockland,Orangetown 25,President,,,scattering,1
-Rockland,Orangetown 26,President,,,scattering,5
-Rockland,Orangetown 28,President,,,scattering,9
-Rockland,Orangetown 29,President,,,scattering,2
-Rockland,Orangetown 30,President,,,scattering,3
-Rockland,Orangetown 32,President,,,scattering,5
-Rockland,Orangetown 33,President,,,scattering,9
-Rockland,Orangetown 34,President,,,scattering,6
-Rockland,Orangetown 36,President,,,scattering,0
-Rockland,Orangetown 39,President,,,scattering,2
-Rockland,Orangetown 40,President,,,scattering,4
-Rockland,Orangetown 41,President,,,scattering,12
-Rockland,Orangetown 42,President,,,scattering,5
-Rockland,Orangetown 43,President,,,scattering,4
-Rockland,Orangetown 45,President,,,scattering,3
-Rockland,Orangetown 46,President,,,scattering,2
-Rockland,Orangetown 47,President,,,scattering,10
-Rockland,Orangetown 48,President,,,scattering,6
-Rockland,Orangetown 49,President,,,scattering,4
-Rockland,Orangetown 50,President,,,scattering,3
-Rockland,Orangetown 51,President,,,scattering,3
-Rockland,Orangetown 53,President,,,scattering,6
-Rockland,Orangetown 54,President,,,scattering,2
-Rockland,Orangetown 55,President,,,scattering,5
-Rockland,Orangetown 56,President,,,scattering,5
-Rockland,Orangetown 57,President,,,scattering,3
-Rockland,Ramapo 1,President,,,scattering,5
-Rockland,Ramapo 2,President,,,scattering,20
-Rockland,Ramapo 3,President,,,scattering,7
-Rockland,Ramapo 4,President,,,scattering,2
-Rockland,Ramapo 5,President,,,scattering,3
-Rockland,Ramapo 6,President,,,scattering,1
-Rockland,Ramapo 7,President,,,scattering,5
-Rockland,Ramapo 8,President,,,scattering,2
-Rockland,Ramapo 9,President,,,scattering,1
-Rockland,Ramapo 10,President,,,scattering,1
-Rockland,Ramapo 11,President,,,scattering,2
-Rockland,Ramapo 12,President,,,scattering,0
-Rockland,Ramapo 13,President,,,scattering,1
-Rockland,Ramapo 14,President,,,scattering,7
-Rockland,Ramapo 15,President,,,scattering,2
-Rockland,Ramapo 16,President,,,scattering,6
-Rockland,Ramapo 17,President,,,scattering,3
-Rockland,Ramapo 18,President,,,scattering,5
-Rockland,Ramapo 19,President,,,scattering,11
-Rockland,Ramapo 20,President,,,scattering,6
-Rockland,Ramapo 21,President,,,scattering,17
-Rockland,Ramapo 22,President,,,scattering,1
-Rockland,Ramapo 23,President,,,scattering,3
-Rockland,Ramapo 24,President,,,scattering,5
-Rockland,Ramapo 25,President,,,scattering,16
-Rockland,Ramapo 26,President,,,scattering,1
-Rockland,Ramapo 27,President,,,scattering,2
-Rockland,Ramapo 28,President,,,scattering,6
-Rockland,Ramapo 29,President,,,scattering,9
-Rockland,Ramapo 30,President,,,scattering,5
-Rockland,Ramapo 31,President,,,scattering,7
-Rockland,Ramapo 32,President,,,scattering,6
-Rockland,Ramapo 33,President,,,scattering,4
-Rockland,Ramapo 34,President,,,scattering,8
-Rockland,Ramapo 35,President,,,scattering,5
-Rockland,Ramapo 36,President,,,scattering,16
-Rockland,Ramapo 37,President,,,scattering,9
-Rockland,Ramapo 38,President,,,scattering,14
-Rockland,Ramapo 39,President,,,scattering,1
-Rockland,Ramapo 40,President,,,scattering,6
-Rockland,Ramapo 41,President,,,scattering,4
-Rockland,Ramapo 42,President,,,scattering,1
-Rockland,Ramapo 43,President,,,scattering,8
-Rockland,Ramapo 44,President,,,scattering,12
-Rockland,Ramapo 45,President,,,scattering,3
-Rockland,Ramapo 46,President,,,scattering,2
-Rockland,Ramapo 47,President,,,scattering,3
-Rockland,Ramapo 48,President,,,scattering,5
-Rockland,Ramapo 49,President,,,scattering,4
-Rockland,Ramapo 50,President,,,scattering,1
-Rockland,Ramapo 51,President,,,scattering,4
-Rockland,Ramapo 52,President,,,scattering,2
-Rockland,Ramapo 53,President,,,scattering,5
-Rockland,Ramapo 54,President,,,scattering,5
-Rockland,Ramapo 55,President,,,scattering,0
-Rockland,Ramapo 56,President,,,scattering,9
-Rockland,Ramapo 57,President,,,scattering,4
-Rockland,Ramapo 58,President,,,scattering,1
-Rockland,Ramapo 59,President,,,scattering,2
-Rockland,Ramapo 60,President,,,scattering,11
-Rockland,Ramapo 61,President,,,scattering,2
-Rockland,Ramapo 62,President,,,scattering,3
-Rockland,Ramapo 63,President,,,scattering,4
-Rockland,Ramapo 64,President,,,scattering,7
-Rockland,Ramapo 65,President,,,scattering,3
-Rockland,Ramapo 66,President,,,scattering,0
-Rockland,Ramapo 67,President,,,scattering,9
-Rockland,Ramapo 68,President,,,scattering,6
-Rockland,Ramapo 69,President,,,scattering,2
-Rockland,Ramapo 70,President,,,scattering,1
-Rockland,Ramapo 71,President,,,scattering,4
-Rockland,Ramapo 72,President,,,scattering,0
-Rockland,Ramapo 73,President,,,scattering,3
-Rockland,Ramapo 74,President,,,scattering,5
-Rockland,Ramapo 75,President,,,scattering,2
-Rockland,Ramapo 76,President,,,scattering,2
-Rockland,Ramapo 77,President,,,scattering,4
-Rockland,Ramapo 78,President,,,scattering,2
-Rockland,Ramapo 79,President,,,scattering,5
-Rockland,Ramapo 80,President,,,scattering,1
-Rockland,Ramapo 81,President,,,scattering,3
-Rockland,Ramapo 82,President,,,scattering,3
-Rockland,Ramapo 83,President,,,scattering,5
-Rockland,Ramapo 84,President,,,scattering,8
-Rockland,Ramapo 85,President,,,scattering,5
-Rockland,Ramapo 86,President,,,scattering,6
-Rockland,Ramapo 87,President,,,scattering,4
-Rockland,Ramapo 88,President,,,scattering,10
-Rockland,Ramapo 89,President,,,scattering,0
-Rockland,Ramapo 90,President,,,scattering,6
-Rockland,Ramapo 91,President,,,scattering,1
-Rockland,Ramapo 92,President,,,scattering,2
-Rockland,Ramapo 93,President,,,scattering,4
-Rockland,Ramapo 94,President,,,scattering,1
-Rockland,Ramapo 95,President,,,scattering,0
-Rockland,Ramapo 96,President,,,scattering,4
-Rockland,Ramapo 97,President,,,scattering,8
-Rockland,Ramapo 98,President,,,scattering,0
-Rockland,Ramapo 99,President,,,scattering,0
-Rockland,Ramapo 100,President,,,scattering,0
-Rockland,Ramapo 101,President,,,scattering,0
-Rockland,Ramapo 102,President,,,scattering,2
-Rockland,Ramapo 103,President,,,scattering,2
-Rockland,Ramapo 104,President,,,scattering,0
-Rockland,Ramapo 105,President,,,scattering,0
-Rockland,Ramapo 106,President,,,scattering,0
-Rockland,Ramapo 107,President,,,scattering,0
-Rockland,Ramapo 108,President,,,scattering,0
-Rockland,Ramapo 109,President,,,scattering,0
-Rockland,Ramapo 110,President,,,scattering,0
-Rockland,Stony Point 1,President,,,scattering,5
-Rockland,Stony Point 2,President,,,scattering,3
-Rockland,Stony Point 3,President,,,scattering,3
-Rockland,Stony Point 4,President,,,scattering,5
-Rockland,Stony Point 5,President,,,scattering,4
-Rockland,Stony Point 6,President,,,scattering,3
-Rockland,Stony Point 7,President,,,scattering,8
-Rockland,Stony Point 8,President,,,scattering,3
-Rockland,Stony Point 9,President,,,scattering,1
-Rockland,Stony Point 10,President,,,scattering,5
-Rockland,Stony Point 11,President,,,scattering,3
-Rockland,Stony Point 12,President,,,scattering,4
-Rockland,Stony Point 13,President,,,scattering,7
-Rockland,,President,,,scattering,1202
+Rockland,Total,President,,LBT,Gary Johnson,755
+Rockland,Clarkstown 1,President,,,Scatterings,5
+Rockland,Clarkstown 2,President,,,Scatterings,3
+Rockland,Clarkstown 3,President,,,Scatterings,3
+Rockland,Clarkstown 4,President,,,Scatterings,4
+Rockland,Clarkstown 5,President,,,Scatterings,4
+Rockland,Clarkstown 6,President,,,Scatterings,6
+Rockland,Clarkstown 8,President,,,Scatterings,3
+Rockland,Clarkstown 9,President,,,Scatterings,5
+Rockland,Clarkstown 10,President,,,Scatterings,4
+Rockland,Clarkstown 11,President,,,Scatterings,5
+Rockland,Clarkstown 12,President,,,Scatterings,6
+Rockland,Clarkstown 13,President,,,Scatterings,7
+Rockland,Clarkstown 14,President,,,Scatterings,7
+Rockland,Clarkstown 15,President,,,Scatterings,6
+Rockland,Clarkstown 16,President,,,Scatterings,4
+Rockland,Clarkstown 17,President,,,Scatterings,6
+Rockland,Clarkstown 18,President,,,Scatterings,0
+Rockland,Clarkstown 19,President,,,Scatterings,2
+Rockland,Clarkstown 20,President,,,Scatterings,3
+Rockland,Clarkstown 21,President,,,Scatterings,0
+Rockland,Clarkstown 22,President,,,Scatterings,4
+Rockland,Clarkstown 23,President,,,Scatterings,6
+Rockland,Clarkstown 24,President,,,Scatterings,5
+Rockland,Clarkstown 25,President,,,Scatterings,3
+Rockland,Clarkstown 27,President,,,Scatterings,7
+Rockland,Clarkstown 28,President,,,Scatterings,6
+Rockland,Clarkstown 29,President,,,Scatterings,4
+Rockland,Clarkstown 30,President,,,Scatterings,3
+Rockland,Clarkstown 31,President,,,Scatterings,13
+Rockland,Clarkstown 32,President,,,Scatterings,5
+Rockland,Clarkstown 33,President,,,Scatterings,4
+Rockland,Clarkstown 34,President,,,Scatterings,4
+Rockland,Clarkstown 35,President,,,Scatterings,10
+Rockland,Clarkstown 36,President,,,Scatterings,10
+Rockland,Clarkstown 37,President,,,Scatterings,9
+Rockland,Clarkstown 38,President,,,Scatterings,10
+Rockland,Clarkstown 40,President,,,Scatterings,6
+Rockland,Clarkstown 41,President,,,Scatterings,4
+Rockland,Clarkstown 42,President,,,Scatterings,4
+Rockland,Clarkstown 43,President,,,Scatterings,6
+Rockland,Clarkstown 44,President,,,Scatterings,8
+Rockland,Clarkstown 45,President,,,Scatterings,5
+Rockland,Clarkstown 46,President,,,Scatterings,5
+Rockland,Clarkstown 47,President,,,Scatterings,2
+Rockland,Clarkstown 48,President,,,Scatterings,4
+Rockland,Clarkstown 49,President,,,Scatterings,4
+Rockland,Clarkstown 50,President,,,Scatterings,1
+Rockland,Clarkstown 51,President,,,Scatterings,1
+Rockland,Clarkstown 52,President,,,Scatterings,9
+Rockland,Clarkstown 53,President,,,Scatterings,4
+Rockland,Clarkstown 54,President,,,Scatterings,4
+Rockland,Clarkstown 55,President,,,Scatterings,4
+Rockland,Clarkstown 57,President,,,Scatterings,6
+Rockland,Clarkstown 58,President,,,Scatterings,2
+Rockland,Clarkstown 59,President,,,Scatterings,5
+Rockland,Clarkstown 60,President,,,Scatterings,12
+Rockland,Clarkstown 61,President,,,Scatterings,6
+Rockland,Clarkstown 62,President,,,Scatterings,0
+Rockland,Clarkstown 63,President,,,Scatterings,4
+Rockland,Clarkstown 64,President,,,Scatterings,1
+Rockland,Clarkstown 65,President,,,Scatterings,2
+Rockland,Clarkstown 66,President,,,Scatterings,4
+Rockland,Clarkstown 67,President,,,Scatterings,2
+Rockland,Clarkstown 68,President,,,Scatterings,3
+Rockland,Clarkstown 69,President,,,Scatterings,5
+Rockland,Clarkstown 70,President,,,Scatterings,10
+Rockland,Clarkstown 71,President,,,Scatterings,2
+Rockland,Clarkstown 72,President,,,Scatterings,7
+Rockland,Clarkstown 73,President,,,Scatterings,13
+Rockland,Clarkstown 74,President,,,Scatterings,9
+Rockland,Clarkstown 75,President,,,Scatterings,4
+Rockland,Clarkstown 76,President,,,Scatterings,4
+Rockland,Clarkstown 77,President,,,Scatterings,4
+Rockland,Clarkstown 79,President,,,Scatterings,0
+Rockland,Clarkstown 80,President,,,Scatterings,2
+Rockland,Clarkstown 81,President,,,Scatterings,2
+Rockland,Clarkstown 82,President,,,Scatterings,2
+Rockland,Haverstraw 1,President,,,Scatterings,1
+Rockland,Haverstraw 2,President,,,Scatterings,6
+Rockland,Haverstraw 3,President,,,Scatterings,2
+Rockland,Haverstraw 4,President,,,Scatterings,2
+Rockland,Haverstraw 6,President,,,Scatterings,5
+Rockland,Haverstraw 7,President,,,Scatterings,1
+Rockland,Haverstraw 8,President,,,Scatterings,0
+Rockland,Haverstraw 9,President,,,Scatterings,5
+Rockland,Haverstraw 10,President,,,Scatterings,7
+Rockland,Haverstraw 11,President,,,Scatterings,0
+Rockland,Haverstraw 12,President,,,Scatterings,0
+Rockland,Haverstraw 13,President,,,Scatterings,0
+Rockland,Haverstraw 14,President,,,Scatterings,0
+Rockland,Haverstraw 15,President,,,Scatterings,0
+Rockland,Haverstraw 16,President,,,Scatterings,4
+Rockland,Haverstraw 17,President,,,Scatterings,3
+Rockland,Haverstraw 18,President,,,Scatterings,3
+Rockland,Haverstraw 19,President,,,Scatterings,1
+Rockland,Haverstraw 20,President,,,Scatterings,6
+Rockland,Haverstraw 21,President,,,Scatterings,13
+Rockland,Haverstraw 22,President,,,Scatterings,10
+Rockland,Haverstraw 23,President,,,Scatterings,2
+Rockland,Haverstraw 24,President,,,Scatterings,1
+Rockland,Haverstraw 25,President,,,Scatterings,2
+Rockland,Haverstraw 26,President,,,Scatterings,2
+Rockland,Haverstraw 27,President,,,Scatterings,2
+Rockland,Haverstraw 28,President,,,Scatterings,3
+Rockland,Haverstraw 29,President,,,Scatterings,3
+Rockland,Haverstraw 30,President,,,Scatterings,1
+Rockland,Orangetown 1,President,,,Scatterings,10
+Rockland,Orangetown 2,President,,,Scatterings,5
+Rockland,Orangetown 3,President,,,Scatterings,4
+Rockland,Orangetown 5,President,,,Scatterings,4
+Rockland,Orangetown 7,President,,,Scatterings,3
+Rockland,Orangetown 8,President,,,Scatterings,5
+Rockland,Orangetown 9,President,,,Scatterings,12
+Rockland,Orangetown 10,President,,,Scatterings,5
+Rockland,Orangetown 11,President,,,Scatterings,6
+Rockland,Orangetown 12,President,,,Scatterings,11
+Rockland,Orangetown 13,President,,,Scatterings,8
+Rockland,Orangetown 14,President,,,Scatterings,5
+Rockland,Orangetown 15,President,,,Scatterings,3
+Rockland,Orangetown 16,President,,,Scatterings,2
+Rockland,Orangetown 17,President,,,Scatterings,5
+Rockland,Orangetown 18,President,,,Scatterings,4
+Rockland,Orangetown 19,President,,,Scatterings,7
+Rockland,Orangetown 20,President,,,Scatterings,5
+Rockland,Orangetown 21,President,,,Scatterings,2
+Rockland,Orangetown 22,President,,,Scatterings,4
+Rockland,Orangetown 23,President,,,Scatterings,6
+Rockland,Orangetown 24,President,,,Scatterings,4
+Rockland,Orangetown 25,President,,,Scatterings,1
+Rockland,Orangetown 26,President,,,Scatterings,5
+Rockland,Orangetown 28,President,,,Scatterings,9
+Rockland,Orangetown 29,President,,,Scatterings,2
+Rockland,Orangetown 30,President,,,Scatterings,3
+Rockland,Orangetown 32,President,,,Scatterings,5
+Rockland,Orangetown 33,President,,,Scatterings,9
+Rockland,Orangetown 34,President,,,Scatterings,6
+Rockland,Orangetown 36,President,,,Scatterings,0
+Rockland,Orangetown 39,President,,,Scatterings,2
+Rockland,Orangetown 40,President,,,Scatterings,4
+Rockland,Orangetown 41,President,,,Scatterings,12
+Rockland,Orangetown 42,President,,,Scatterings,5
+Rockland,Orangetown 43,President,,,Scatterings,4
+Rockland,Orangetown 45,President,,,Scatterings,3
+Rockland,Orangetown 46,President,,,Scatterings,2
+Rockland,Orangetown 47,President,,,Scatterings,10
+Rockland,Orangetown 48,President,,,Scatterings,6
+Rockland,Orangetown 49,President,,,Scatterings,4
+Rockland,Orangetown 50,President,,,Scatterings,3
+Rockland,Orangetown 51,President,,,Scatterings,3
+Rockland,Orangetown 53,President,,,Scatterings,6
+Rockland,Orangetown 54,President,,,Scatterings,2
+Rockland,Orangetown 55,President,,,Scatterings,5
+Rockland,Orangetown 56,President,,,Scatterings,5
+Rockland,Orangetown 57,President,,,Scatterings,3
+Rockland,Ramapo 1,President,,,Scatterings,5
+Rockland,Ramapo 2,President,,,Scatterings,20
+Rockland,Ramapo 3,President,,,Scatterings,7
+Rockland,Ramapo 4,President,,,Scatterings,2
+Rockland,Ramapo 5,President,,,Scatterings,3
+Rockland,Ramapo 6,President,,,Scatterings,1
+Rockland,Ramapo 7,President,,,Scatterings,5
+Rockland,Ramapo 8,President,,,Scatterings,2
+Rockland,Ramapo 9,President,,,Scatterings,1
+Rockland,Ramapo 10,President,,,Scatterings,1
+Rockland,Ramapo 11,President,,,Scatterings,2
+Rockland,Ramapo 12,President,,,Scatterings,0
+Rockland,Ramapo 13,President,,,Scatterings,1
+Rockland,Ramapo 14,President,,,Scatterings,7
+Rockland,Ramapo 15,President,,,Scatterings,2
+Rockland,Ramapo 16,President,,,Scatterings,6
+Rockland,Ramapo 17,President,,,Scatterings,3
+Rockland,Ramapo 18,President,,,Scatterings,5
+Rockland,Ramapo 19,President,,,Scatterings,11
+Rockland,Ramapo 20,President,,,Scatterings,6
+Rockland,Ramapo 21,President,,,Scatterings,17
+Rockland,Ramapo 22,President,,,Scatterings,1
+Rockland,Ramapo 23,President,,,Scatterings,3
+Rockland,Ramapo 24,President,,,Scatterings,5
+Rockland,Ramapo 25,President,,,Scatterings,16
+Rockland,Ramapo 26,President,,,Scatterings,1
+Rockland,Ramapo 27,President,,,Scatterings,2
+Rockland,Ramapo 28,President,,,Scatterings,6
+Rockland,Ramapo 29,President,,,Scatterings,9
+Rockland,Ramapo 30,President,,,Scatterings,5
+Rockland,Ramapo 31,President,,,Scatterings,7
+Rockland,Ramapo 32,President,,,Scatterings,6
+Rockland,Ramapo 33,President,,,Scatterings,4
+Rockland,Ramapo 34,President,,,Scatterings,8
+Rockland,Ramapo 35,President,,,Scatterings,5
+Rockland,Ramapo 36,President,,,Scatterings,16
+Rockland,Ramapo 37,President,,,Scatterings,9
+Rockland,Ramapo 38,President,,,Scatterings,14
+Rockland,Ramapo 39,President,,,Scatterings,1
+Rockland,Ramapo 40,President,,,Scatterings,6
+Rockland,Ramapo 41,President,,,Scatterings,4
+Rockland,Ramapo 42,President,,,Scatterings,1
+Rockland,Ramapo 43,President,,,Scatterings,8
+Rockland,Ramapo 44,President,,,Scatterings,12
+Rockland,Ramapo 45,President,,,Scatterings,3
+Rockland,Ramapo 46,President,,,Scatterings,2
+Rockland,Ramapo 47,President,,,Scatterings,3
+Rockland,Ramapo 48,President,,,Scatterings,5
+Rockland,Ramapo 49,President,,,Scatterings,4
+Rockland,Ramapo 50,President,,,Scatterings,1
+Rockland,Ramapo 51,President,,,Scatterings,4
+Rockland,Ramapo 52,President,,,Scatterings,2
+Rockland,Ramapo 53,President,,,Scatterings,5
+Rockland,Ramapo 54,President,,,Scatterings,5
+Rockland,Ramapo 55,President,,,Scatterings,0
+Rockland,Ramapo 56,President,,,Scatterings,9
+Rockland,Ramapo 57,President,,,Scatterings,4
+Rockland,Ramapo 58,President,,,Scatterings,1
+Rockland,Ramapo 59,President,,,Scatterings,2
+Rockland,Ramapo 60,President,,,Scatterings,11
+Rockland,Ramapo 61,President,,,Scatterings,2
+Rockland,Ramapo 62,President,,,Scatterings,3
+Rockland,Ramapo 63,President,,,Scatterings,4
+Rockland,Ramapo 64,President,,,Scatterings,7
+Rockland,Ramapo 65,President,,,Scatterings,3
+Rockland,Ramapo 66,President,,,Scatterings,0
+Rockland,Ramapo 67,President,,,Scatterings,9
+Rockland,Ramapo 68,President,,,Scatterings,6
+Rockland,Ramapo 69,President,,,Scatterings,2
+Rockland,Ramapo 70,President,,,Scatterings,1
+Rockland,Ramapo 71,President,,,Scatterings,4
+Rockland,Ramapo 72,President,,,Scatterings,0
+Rockland,Ramapo 73,President,,,Scatterings,3
+Rockland,Ramapo 74,President,,,Scatterings,5
+Rockland,Ramapo 75,President,,,Scatterings,2
+Rockland,Ramapo 76,President,,,Scatterings,2
+Rockland,Ramapo 77,President,,,Scatterings,4
+Rockland,Ramapo 78,President,,,Scatterings,2
+Rockland,Ramapo 79,President,,,Scatterings,5
+Rockland,Ramapo 80,President,,,Scatterings,1
+Rockland,Ramapo 81,President,,,Scatterings,3
+Rockland,Ramapo 82,President,,,Scatterings,3
+Rockland,Ramapo 83,President,,,Scatterings,5
+Rockland,Ramapo 84,President,,,Scatterings,8
+Rockland,Ramapo 85,President,,,Scatterings,5
+Rockland,Ramapo 86,President,,,Scatterings,6
+Rockland,Ramapo 87,President,,,Scatterings,4
+Rockland,Ramapo 88,President,,,Scatterings,10
+Rockland,Ramapo 89,President,,,Scatterings,0
+Rockland,Ramapo 90,President,,,Scatterings,6
+Rockland,Ramapo 91,President,,,Scatterings,1
+Rockland,Ramapo 92,President,,,Scatterings,2
+Rockland,Ramapo 93,President,,,Scatterings,4
+Rockland,Ramapo 94,President,,,Scatterings,1
+Rockland,Ramapo 95,President,,,Scatterings,0
+Rockland,Ramapo 96,President,,,Scatterings,4
+Rockland,Ramapo 97,President,,,Scatterings,8
+Rockland,Ramapo 98,President,,,Scatterings,0
+Rockland,Ramapo 99,President,,,Scatterings,0
+Rockland,Ramapo 100,President,,,Scatterings,0
+Rockland,Ramapo 101,President,,,Scatterings,0
+Rockland,Ramapo 102,President,,,Scatterings,2
+Rockland,Ramapo 103,President,,,Scatterings,2
+Rockland,Ramapo 104,President,,,Scatterings,0
+Rockland,Ramapo 105,President,,,Scatterings,0
+Rockland,Ramapo 106,President,,,Scatterings,0
+Rockland,Ramapo 107,President,,,Scatterings,0
+Rockland,Ramapo 108,President,,,Scatterings,0
+Rockland,Ramapo 109,President,,,Scatterings,0
+Rockland,Ramapo 110,President,,,Scatterings,0
+Rockland,Stony Point 1,President,,,Scatterings,5
+Rockland,Stony Point 2,President,,,Scatterings,3
+Rockland,Stony Point 3,President,,,Scatterings,3
+Rockland,Stony Point 4,President,,,Scatterings,5
+Rockland,Stony Point 5,President,,,Scatterings,4
+Rockland,Stony Point 6,President,,,Scatterings,3
+Rockland,Stony Point 7,President,,,Scatterings,8
+Rockland,Stony Point 8,President,,,Scatterings,3
+Rockland,Stony Point 9,President,,,Scatterings,1
+Rockland,Stony Point 10,President,,,Scatterings,5
+Rockland,Stony Point 11,President,,,Scatterings,3
+Rockland,Stony Point 12,President,,,Scatterings,4
+Rockland,Stony Point 13,President,,,Scatterings,7
+Rockland,Total,President,,,Scatterings,1202
 Rockland,Clarkstown 1,U.S. Senate,,DEM,Charles Schumer,297
 Rockland,Clarkstown 2,U.S. Senate,,DEM,Charles Schumer,376
 Rockland,Clarkstown 3,U.S. Senate,,DEM,Charles Schumer,159
@@ -2778,7 +2778,7 @@ Rockland,Stony Point 10,U.S. Senate,,DEM,Charles Schumer,186
 Rockland,Stony Point 11,U.S. Senate,,DEM,Charles Schumer,230
 Rockland,Stony Point 12,U.S. Senate,,DEM,Charles Schumer,262
 Rockland,Stony Point 13,U.S. Senate,,DEM,Charles Schumer,297
-Rockland,,U.S. Senate,,DEM,Charles Schumer,76113
+Rockland,Total,U.S. Senate,,DEM,Charles Schumer,76113
 Rockland,Clarkstown 1,U.S. Senate,,WOR,Charles Schumer,14
 Rockland,Clarkstown 2,U.S. Senate,,WOR,Charles Schumer,18
 Rockland,Clarkstown 3,U.S. Senate,,WOR,Charles Schumer,17
@@ -3056,7 +3056,7 @@ Rockland,Stony Point 10,U.S. Senate,,WOR,Charles Schumer,9
 Rockland,Stony Point 11,U.S. Senate,,WOR,Charles Schumer,13
 Rockland,Stony Point 12,U.S. Senate,,WOR,Charles Schumer,14
 Rockland,Stony Point 13,U.S. Senate,,WOR,Charles Schumer,28
-Rockland,,U.S. Senate,,WOR,Charles Schumer,3283
+Rockland,Total,U.S. Senate,,WOR,Charles Schumer,3283
 Rockland,Clarkstown 1,U.S. Senate,,IDC,Charles Schumer,10
 Rockland,Clarkstown 2,U.S. Senate,,IDC,Charles Schumer,15
 Rockland,Clarkstown 3,U.S. Senate,,IDC,Charles Schumer,10
@@ -3334,7 +3334,7 @@ Rockland,Stony Point 10,U.S. Senate,,IDC,Charles Schumer,9
 Rockland,Stony Point 11,U.S. Senate,,IDC,Charles Schumer,11
 Rockland,Stony Point 12,U.S. Senate,,IDC,Charles Schumer,7
 Rockland,Stony Point 13,U.S. Senate,,IDC,Charles Schumer,19
-Rockland,,U.S. Senate,,IDC,Charles Schumer,2162
+Rockland,Total,U.S. Senate,,IDC,Charles Schumer,2162
 Rockland,Clarkstown 1,U.S. Senate,,WEP,Charles Schumer,7
 Rockland,Clarkstown 2,U.S. Senate,,WEP,Charles Schumer,6
 Rockland,Clarkstown 3,U.S. Senate,,WEP,Charles Schumer,2
@@ -3612,7 +3612,7 @@ Rockland,Stony Point 10,U.S. Senate,,WEP,Charles Schumer,2
 Rockland,Stony Point 11,U.S. Senate,,WEP,Charles Schumer,3
 Rockland,Stony Point 12,U.S. Senate,,WEP,Charles Schumer,8
 Rockland,Stony Point 13,U.S. Senate,,WEP,Charles Schumer,5
-Rockland,,U.S. Senate,,WEP,Charles Schumer,828
+Rockland,Total,U.S. Senate,,WEP,Charles Schumer,828
 Rockland,Clarkstown 1,U.S. Senate,,REP,Wendy Long,156
 Rockland,Clarkstown 2,U.S. Senate,,REP,Wendy Long,202
 Rockland,Clarkstown 3,U.S. Senate,,REP,Wendy Long,123
@@ -3890,7 +3890,7 @@ Rockland,Stony Point 10,U.S. Senate,,REP,Wendy Long,154
 Rockland,Stony Point 11,U.S. Senate,,REP,Wendy Long,179
 Rockland,Stony Point 12,U.S. Senate,,REP,Wendy Long,222
 Rockland,Stony Point 13,U.S. Senate,,REP,Wendy Long,358
-Rockland,,U.S. Senate,,REP,Wendy Long,34404
+Rockland,Total,U.S. Senate,,REP,Wendy Long,34404
 Rockland,Clarkstown 1,U.S. Senate,,CON,Wendy Long,27
 Rockland,Clarkstown 2,U.S. Senate,,CON,Wendy Long,29
 Rockland,Clarkstown 3,U.S. Senate,,CON,Wendy Long,30
@@ -4168,7 +4168,7 @@ Rockland,Stony Point 10,U.S. Senate,,CON,Wendy Long,33
 Rockland,Stony Point 11,U.S. Senate,,CON,Wendy Long,34
 Rockland,Stony Point 12,U.S. Senate,,CON,Wendy Long,51
 Rockland,Stony Point 13,U.S. Senate,,CON,Wendy Long,65
-Rockland,,U.S. Senate,,CON,Wendy Long,5181
+Rockland,Total,U.S. Senate,,CON,Wendy Long,5181
 Rockland,Clarkstown 1,U.S. Senate,,REF,Wendy Long,11
 Rockland,Clarkstown 2,U.S. Senate,,REF,Wendy Long,21
 Rockland,Clarkstown 3,U.S. Senate,,REF,Wendy Long,6
@@ -4446,7 +4446,7 @@ Rockland,Stony Point 10,U.S. Senate,,REF,Wendy Long,2
 Rockland,Stony Point 11,U.S. Senate,,REF,Wendy Long,3
 Rockland,Stony Point 12,U.S. Senate,,REF,Wendy Long,3
 Rockland,Stony Point 13,U.S. Senate,,REF,Wendy Long,3
-Rockland,,U.S. Senate,,REF,Wendy Long,2309
+Rockland,Total,U.S. Senate,,REF,Wendy Long,2309
 Rockland,Clarkstown 1,U.S. Senate,,GRN,Robin Wilson,5
 Rockland,Clarkstown 2,U.S. Senate,,GRN,Robin Wilson,5
 Rockland,Clarkstown 3,U.S. Senate,,GRN,Robin Wilson,3
@@ -4724,7 +4724,7 @@ Rockland,Stony Point 10,U.S. Senate,,GRN,Robin Wilson,3
 Rockland,Stony Point 11,U.S. Senate,,GRN,Robin Wilson,5
 Rockland,Stony Point 12,U.S. Senate,,GRN,Robin Wilson,1
 Rockland,Stony Point 13,U.S. Senate,,GRN,Robin Wilson,11
-Rockland,,U.S. Senate,,GRN,Robin Wilson,1325
+Rockland,Total,U.S. Senate,,GRN,Robin Wilson,1325
 Rockland,Clarkstown 1,U.S. Senate,,LBT,Alex Merced,2
 Rockland,Clarkstown 2,U.S. Senate,,LBT,Alex Merced,2
 Rockland,Clarkstown 3,U.S. Senate,,LBT,Alex Merced,1
@@ -5002,7 +5002,7 @@ Rockland,Stony Point 10,U.S. Senate,,LBT,Alex Merced,3
 Rockland,Stony Point 11,U.S. Senate,,LBT,Alex Merced,2
 Rockland,Stony Point 12,U.S. Senate,,LBT,Alex Merced,3
 Rockland,Stony Point 13,U.S. Senate,,LBT,Alex Merced,4
-Rockland,,U.S. Senate,,LBT,Alex Merced,626
+Rockland,Total,U.S. Senate,,LBT,Alex Merced,626
 Rockland,Clarkstown 1,U.S. Senate,,,Write-ins,0
 Rockland,Clarkstown 2,U.S. Senate,,,Write-ins,1
 Rockland,Clarkstown 3,U.S. Senate,,,Write-ins,0
@@ -5280,7 +5280,7 @@ Rockland,Stony Point 10,U.S. Senate,,,Write-ins,0
 Rockland,Stony Point 11,U.S. Senate,,,Write-ins,0
 Rockland,Stony Point 12,U.S. Senate,,,Write-ins,1
 Rockland,Stony Point 13,U.S. Senate,,,Write-ins,0
-Rockland,,U.S. Senate,,,Write-ins,72
+Rockland,Total,U.S. Senate,,,Write-ins,72
 Rockland,Clarkstown 1,U.S. House,17,DEM,Nita Lowey,300
 Rockland,Clarkstown 2,U.S. House,17,DEM,Nita Lowey,369
 Rockland,Clarkstown 3,U.S. House,17,DEM,Nita Lowey,160
@@ -5558,7 +5558,7 @@ Rockland,Stony Point 10,U.S. House,17,DEM,Nita Lowey,179
 Rockland,Stony Point 11,U.S. House,17,DEM,Nita Lowey,230
 Rockland,Stony Point 12,U.S. House,17,DEM,Nita Lowey,247
 Rockland,Stony Point 13,U.S. House,17,DEM,Nita Lowey,292
-Rockland,,U.S. House,17,DEM,Nita Lowey,76582
+Rockland,Total,U.S. House,17,DEM,Nita Lowey,76582
 Rockland,Clarkstown 1,U.S. House,17,WOR,Nita Lowey,32
 Rockland,Clarkstown 2,U.S. House,17,WOR,Nita Lowey,43
 Rockland,Clarkstown 3,U.S. House,17,WOR,Nita Lowey,31
@@ -5836,7 +5836,7 @@ Rockland,Stony Point 10,U.S. House,17,WOR,Nita Lowey,26
 Rockland,Stony Point 11,U.S. House,17,WOR,Nita Lowey,39
 Rockland,Stony Point 12,U.S. House,17,WOR,Nita Lowey,33
 Rockland,Stony Point 13,U.S. House,17,WOR,Nita Lowey,57
-Rockland,,U.S. House,17,WOR,Nita Lowey,7509
+Rockland,Total,U.S. House,17,WOR,Nita Lowey,7509
 Rockland,Clarkstown 1,U.S. House,17,WEP,Nita Lowey,10
 Rockland,Clarkstown 2,U.S. House,17,WEP,Nita Lowey,20
 Rockland,Clarkstown 3,U.S. House,17,WEP,Nita Lowey,6
@@ -6114,7 +6114,7 @@ Rockland,Stony Point 10,U.S. House,17,WEP,Nita Lowey,4
 Rockland,Stony Point 11,U.S. House,17,WEP,Nita Lowey,3
 Rockland,Stony Point 12,U.S. House,17,WEP,Nita Lowey,17
 Rockland,Stony Point 13,U.S. House,17,WEP,Nita Lowey,15
-Rockland,,U.S. House,17,WEP,Nita Lowey,2206
+Rockland,Total,U.S. House,17,WEP,Nita Lowey,2206
 Rockland,Clarkstown 1,U.S. House,17,,Write-ins,1
 Rockland,Clarkstown 2,U.S. House,17,,Write-ins,5
 Rockland,Clarkstown 3,U.S. House,17,,Write-ins,3
@@ -6392,7 +6392,7 @@ Rockland,Stony Point 10,U.S. House,17,,Write-ins,3
 Rockland,Stony Point 11,U.S. House,17,,Write-ins,1
 Rockland,Stony Point 12,U.S. House,17,,Write-ins,1
 Rockland,Stony Point 13,U.S. House,17,,Write-ins,4
-Rockland,,U.S. House,17,,Write-ins,923
+Rockland,Total,U.S. House,17,,Write-ins,923
 Rockland,Clarkstown 1,State Senate,38,DEM,David Carlucci,304
 Rockland,Clarkstown 2,State Senate,38,DEM,David Carlucci,368
 Rockland,Clarkstown 3,State Senate,38,DEM,David Carlucci,166
@@ -6628,7 +6628,7 @@ Rockland,Ramapo 107,State Senate,38,DEM,David Carlucci,3
 Rockland,Ramapo 108,State Senate,38,DEM,David Carlucci,36
 Rockland,Ramapo 109,State Senate,38,DEM,David Carlucci,0
 Rockland,Ramapo 110,State Senate,38,DEM,David Carlucci,24
-Rockland,,State Senate,38,DEM,David Carlucci,62822
+Rockland,Total,State Senate,38,DEM,David Carlucci,62822
 Rockland,Clarkstown 1,State Senate,38,IDC,David Carlucci,18
 Rockland,Clarkstown 2,State Senate,38,IDC,David Carlucci,28
 Rockland,Clarkstown 3,State Senate,38,IDC,David Carlucci,19
@@ -6864,7 +6864,7 @@ Rockland,Ramapo 107,State Senate,38,IDC,David Carlucci,1
 Rockland,Ramapo 108,State Senate,38,IDC,David Carlucci,1
 Rockland,Ramapo 109,State Senate,38,IDC,David Carlucci,0
 Rockland,Ramapo 110,State Senate,38,IDC,David Carlucci,1
-Rockland,,State Senate,38,IDC,David Carlucci,2954
+Rockland,Total,State Senate,38,IDC,David Carlucci,2954
 Rockland,Clarkstown 1,State Senate,38,WEP,David Carlucci,8
 Rockland,Clarkstown 2,State Senate,38,WEP,David Carlucci,11
 Rockland,Clarkstown 3,State Senate,38,WEP,David Carlucci,3
@@ -7100,7 +7100,7 @@ Rockland,Ramapo 107,State Senate,38,WEP,David Carlucci,0
 Rockland,Ramapo 108,State Senate,38,WEP,David Carlucci,0
 Rockland,Ramapo 109,State Senate,38,WEP,David Carlucci,0
 Rockland,Ramapo 110,State Senate,38,WEP,David Carlucci,0
-Rockland,,State Senate,38,WEP,David Carlucci,1123
+Rockland,Total,State Senate,38,WEP,David Carlucci,1123
 Rockland,Clarkstown 1,State Senate,38,REP,Thomas DePrisco,142
 Rockland,Clarkstown 2,State Senate,38,REP,Thomas DePrisco,195
 Rockland,Clarkstown 3,State Senate,38,REP,Thomas DePrisco,121
@@ -7336,7 +7336,7 @@ Rockland,Ramapo 107,State Senate,38,REP,Thomas DePrisco,1
 Rockland,Ramapo 108,State Senate,38,REP,Thomas DePrisco,2
 Rockland,Ramapo 109,State Senate,38,REP,Thomas DePrisco,0
 Rockland,Ramapo 110,State Senate,38,REP,Thomas DePrisco,24
-Rockland,,State Senate,38,REP,Thomas DePrisco,29228
+Rockland,Total,State Senate,38,REP,Thomas DePrisco,29228
 Rockland,Clarkstown 1,State Senate,38,CON,Thomas DePrisco,23
 Rockland,Clarkstown 2,State Senate,38,CON,Thomas DePrisco,27
 Rockland,Clarkstown 3,State Senate,38,CON,Thomas DePrisco,25
@@ -7572,7 +7572,7 @@ Rockland,Ramapo 107,State Senate,38,CON,Thomas DePrisco,0
 Rockland,Ramapo 108,State Senate,38,CON,Thomas DePrisco,0
 Rockland,Ramapo 109,State Senate,38,CON,Thomas DePrisco,0
 Rockland,Ramapo 110,State Senate,38,CON,Thomas DePrisco,0
-Rockland,,State Senate,38,CON,Thomas DePrisco,4414
+Rockland,Total,State Senate,38,CON,Thomas DePrisco,4414
 Rockland,Clarkstown 1,State Senate,38,REF,Thomas DePrisco,19
 Rockland,Clarkstown 2,State Senate,38,REF,Thomas DePrisco,34
 Rockland,Clarkstown 3,State Senate,38,REF,Thomas DePrisco,16
@@ -7808,7 +7808,7 @@ Rockland,Ramapo 107,State Senate,38,REF,Thomas DePrisco,0
 Rockland,Ramapo 108,State Senate,38,REF,Thomas DePrisco,0
 Rockland,Ramapo 109,State Senate,38,REF,Thomas DePrisco,0
 Rockland,Ramapo 110,State Senate,38,REF,Thomas DePrisco,4
-Rockland,,State Senate,38,REF,Thomas DePrisco,3931
+Rockland,Total,State Senate,38,REF,Thomas DePrisco,3931
 Rockland,Clarkstown 1,State Senate,38,,Write-ins,0
 Rockland,Clarkstown 2,State Senate,38,,Write-ins,1
 Rockland,Clarkstown 3,State Senate,38,,Write-ins,0
@@ -8044,7 +8044,7 @@ Rockland,Ramapo 107,State Senate,38,,Write-ins,0
 Rockland,Ramapo 108,State Senate,38,,Write-ins,0
 Rockland,Ramapo 109,State Senate,38,,Write-ins,0
 Rockland,Ramapo 110,State Senate,38,,Write-ins,0
-Rockland,,State Senate,38,,Write-ins,85
+Rockland,Total,State Senate,38,,Write-ins,85
 Rockland,Haverstraw 1,State Senate,39,DEM,Christopher Eachus,194
 Rockland,Haverstraw 2,State Senate,39,DEM,Christopher Eachus,281
 Rockland,Haverstraw 3,State Senate,39,DEM,Christopher Eachus,292
@@ -8087,7 +8087,7 @@ Rockland,Stony Point 10,State Senate,39,DEM,Christopher Eachus,124
 Rockland,Stony Point 11,State Senate,39,DEM,Christopher Eachus,163
 Rockland,Stony Point 12,State Senate,39,DEM,Christopher Eachus,165
 Rockland,Stony Point 13,State Senate,39,DEM,Christopher Eachus,216
-Rockland,,State Senate,39,DEM,Christopher Eachus,9221
+Rockland,Total,State Senate,39,DEM,Christopher Eachus,9221
 Rockland,Haverstraw 1,State Senate,39,WOR,Christopher Eachus,8
 Rockland,Haverstraw 2,State Senate,39,WOR,Christopher Eachus,10
 Rockland,Haverstraw 3,State Senate,39,WOR,Christopher Eachus,17
@@ -8130,7 +8130,7 @@ Rockland,Stony Point 10,State Senate,39,WOR,Christopher Eachus,6
 Rockland,Stony Point 11,State Senate,39,WOR,Christopher Eachus,12
 Rockland,Stony Point 12,State Senate,39,WOR,Christopher Eachus,6
 Rockland,Stony Point 13,State Senate,39,WOR,Christopher Eachus,21
-Rockland,,State Senate,39,WOR,Christopher Eachus,491
+Rockland,Total,State Senate,39,WOR,Christopher Eachus,491
 Rockland,Haverstraw 1,State Senate,39,WEP,Christopher Eachus,2
 Rockland,Haverstraw 2,State Senate,39,WEP,Christopher Eachus,6
 Rockland,Haverstraw 3,State Senate,39,WEP,Christopher Eachus,7
@@ -8173,7 +8173,7 @@ Rockland,Stony Point 10,State Senate,39,WEP,Christopher Eachus,2
 Rockland,Stony Point 11,State Senate,39,WEP,Christopher Eachus,3
 Rockland,Stony Point 12,State Senate,39,WEP,Christopher Eachus,6
 Rockland,Stony Point 13,State Senate,39,WEP,Christopher Eachus,5
-Rockland,,State Senate,39,WEP,Christopher Eachus,190
+Rockland,Total,State Senate,39,WEP,Christopher Eachus,190
 Rockland,Haverstraw 1,State Senate,39,REP,William Larkin,209
 Rockland,Haverstraw 2,State Senate,39,REP,William Larkin,177
 Rockland,Haverstraw 3,State Senate,39,REP,William Larkin,211
@@ -8216,7 +8216,7 @@ Rockland,Stony Point 10,State Senate,39,REP,William Larkin,196
 Rockland,Stony Point 11,State Senate,39,REP,William Larkin,232
 Rockland,Stony Point 12,State Senate,39,REP,William Larkin,279
 Rockland,Stony Point 13,State Senate,39,REP,William Larkin,419
-Rockland,,State Senate,39,REP,William Larkin,7645
+Rockland,Total,State Senate,39,REP,William Larkin,7645
 Rockland,Haverstraw 1,State Senate,39,CON,William Larkin,57
 Rockland,Haverstraw 2,State Senate,39,CON,William Larkin,25
 Rockland,Haverstraw 3,State Senate,39,CON,William Larkin,40
@@ -8259,7 +8259,7 @@ Rockland,Stony Point 10,State Senate,39,CON,William Larkin,44
 Rockland,Stony Point 11,State Senate,39,CON,William Larkin,42
 Rockland,Stony Point 12,State Senate,39,CON,William Larkin,59
 Rockland,Stony Point 13,State Senate,39,CON,William Larkin,67
-Rockland,,State Senate,39,CON,William Larkin,1300
+Rockland,Total,State Senate,39,CON,William Larkin,1300
 Rockland,Haverstraw 1,State Senate,39,IDC,William Larkin,6
 Rockland,Haverstraw 2,State Senate,39,IDC,William Larkin,12
 Rockland,Haverstraw 3,State Senate,39,IDC,William Larkin,19
@@ -8302,7 +8302,7 @@ Rockland,Stony Point 10,State Senate,39,IDC,William Larkin,7
 Rockland,Stony Point 11,State Senate,39,IDC,William Larkin,9
 Rockland,Stony Point 12,State Senate,39,IDC,William Larkin,9
 Rockland,Stony Point 13,State Senate,39,IDC,William Larkin,13
-Rockland,,State Senate,39,IDC,William Larkin,332
+Rockland,Total,State Senate,39,IDC,William Larkin,332
 Rockland,Haverstraw 1,State Senate,39,REF,William Larkin,7
 Rockland,Haverstraw 2,State Senate,39,REF,William Larkin,7
 Rockland,Haverstraw 3,State Senate,39,REF,William Larkin,5
@@ -8345,7 +8345,7 @@ Rockland,Stony Point 10,State Senate,39,REF,William Larkin,0
 Rockland,Stony Point 11,State Senate,39,REF,William Larkin,2
 Rockland,Stony Point 12,State Senate,39,REF,William Larkin,3
 Rockland,Stony Point 13,State Senate,39,REF,William Larkin,6
-Rockland,,State Senate,39,REF,William Larkin,132
+Rockland,Total,State Senate,39,REF,William Larkin,132
 Rockland,Haverstraw 1,State Senate,39,,Write-ins,0
 Rockland,Haverstraw 2,State Senate,39,,Write-ins,2
 Rockland,Haverstraw 3,State Senate,39,,Write-ins,1
@@ -8388,7 +8388,7 @@ Rockland,Stony Point 10,State Senate,39,,Write-ins,0
 Rockland,Stony Point 11,State Senate,39,,Write-ins,0
 Rockland,Stony Point 12,State Senate,39,,Write-ins,1
 Rockland,Stony Point 13,State Senate,39,,Write-ins,0
-Rockland,,State Senate,39,,Write-ins,13
+Rockland,Total,State Senate,39,,Write-ins,13
 Rockland,Clarkstown 1,State Assembly,96,DEM,Kenneth Zebrowski,300
 Rockland,Clarkstown 2,State Assembly,96,DEM,Kenneth Zebrowski,350
 Rockland,Clarkstown 3,State Assembly,96,DEM,Kenneth Zebrowski,177
@@ -8510,7 +8510,7 @@ Rockland,Ramapo 91,State Assembly,96,DEM,Kenneth Zebrowski,94
 Rockland,Ramapo 92,State Assembly,96,DEM,Kenneth Zebrowski,233
 Rockland,Ramapo 107,State Assembly,96,DEM,Kenneth Zebrowski,3
 Rockland,Ramapo 109,State Assembly,96,DEM,Kenneth Zebrowski,0
-Rockland,,State Assembly,96,DEM,Kenneth Zebrowski,35331
+Rockland,Total,State Assembly,96,DEM,Kenneth Zebrowski,35331
 Rockland,Clarkstown 1,State Assembly,96,WOR,Kenneth Zebrowski,25
 Rockland,Clarkstown 2,State Assembly,96,WOR,Kenneth Zebrowski,47
 Rockland,Clarkstown 3,State Assembly,96,WOR,Kenneth Zebrowski,32
@@ -8632,7 +8632,7 @@ Rockland,Ramapo 91,State Assembly,96,WOR,Kenneth Zebrowski,2
 Rockland,Ramapo 92,State Assembly,96,WOR,Kenneth Zebrowski,14
 Rockland,Ramapo 107,State Assembly,96,WOR,Kenneth Zebrowski,0
 Rockland,Ramapo 109,State Assembly,96,WOR,Kenneth Zebrowski,0
-Rockland,,State Assembly,96,WOR,Kenneth Zebrowski,3569
+Rockland,Total,State Assembly,96,WOR,Kenneth Zebrowski,3569
 Rockland,Clarkstown 1,State Assembly,96,WEP,Kenneth Zebrowski,5
 Rockland,Clarkstown 2,State Assembly,96,WEP,Kenneth Zebrowski,11
 Rockland,Clarkstown 3,State Assembly,96,WEP,Kenneth Zebrowski,5
@@ -8754,7 +8754,7 @@ Rockland,Ramapo 91,State Assembly,96,WEP,Kenneth Zebrowski,1
 Rockland,Ramapo 92,State Assembly,96,WEP,Kenneth Zebrowski,8
 Rockland,Ramapo 107,State Assembly,96,WEP,Kenneth Zebrowski,1
 Rockland,Ramapo 109,State Assembly,96,WEP,Kenneth Zebrowski,0
-Rockland,,State Assembly,96,WEP,Kenneth Zebrowski,859
+Rockland,Total,State Assembly,96,WEP,Kenneth Zebrowski,859
 Rockland,Clarkstown 1,State Assembly,96,REF,Kenneth Zebrowski,21
 Rockland,Clarkstown 2,State Assembly,96,REF,Kenneth Zebrowski,44
 Rockland,Clarkstown 3,State Assembly,96,REF,Kenneth Zebrowski,18
@@ -8876,7 +8876,7 @@ Rockland,Ramapo 91,State Assembly,96,REF,Kenneth Zebrowski,6
 Rockland,Ramapo 92,State Assembly,96,REF,Kenneth Zebrowski,14
 Rockland,Ramapo 107,State Assembly,96,REF,Kenneth Zebrowski,1
 Rockland,Ramapo 109,State Assembly,96,REF,Kenneth Zebrowski,0
-Rockland,,State Assembly,96,REF,Kenneth Zebrowski,2351
+Rockland,Total,State Assembly,96,REF,Kenneth Zebrowski,2351
 Rockland,Clarkstown 1,State Assembly,96,,Write-ins,2
 Rockland,Clarkstown 2,State Assembly,96,,Write-ins,2
 Rockland,Clarkstown 3,State Assembly,96,,Write-ins,2
@@ -8998,7 +8998,7 @@ Rockland,Ramapo 91,State Assembly,96,,Write-ins,1
 Rockland,Ramapo 92,State Assembly,96,,Write-ins,0
 Rockland,Ramapo 107,State Assembly,96,,Write-ins,0
 Rockland,Ramapo 109,State Assembly,96,,Write-ins,0
-Rockland,,State Assembly,96,,Write-ins,211
+Rockland,Total,State Assembly,96,,Write-ins,211
 Rockland,Orangetown 1,State Assembly,97,DEM,Ellen Jaffee,549
 Rockland,Orangetown 2,State Assembly,97,DEM,Ellen Jaffee,386
 Rockland,Orangetown 3,State Assembly,97,DEM,Ellen Jaffee,190
@@ -9111,7 +9111,7 @@ Rockland,Ramapo 101,State Assembly,97,DEM,Ellen Jaffee,14
 Rockland,Ramapo 102,State Assembly,97,DEM,Ellen Jaffee,11
 Rockland,Ramapo 104,State Assembly,97,DEM,Ellen Jaffee,20
 Rockland,Ramapo 105,State Assembly,97,DEM,Ellen Jaffee,16
-Rockland,,State Assembly,97,DEM,Ellen Jaffee,27509
+Rockland,Total,State Assembly,97,DEM,Ellen Jaffee,27509
 Rockland,Orangetown 1,State Assembly,97,GRN,Ellen Jaffee,23
 Rockland,Orangetown 2,State Assembly,97,GRN,Ellen Jaffee,11
 Rockland,Orangetown 3,State Assembly,97,GRN,Ellen Jaffee,24
@@ -9224,7 +9224,7 @@ Rockland,Ramapo 101,State Assembly,97,GRN,Ellen Jaffee,0
 Rockland,Ramapo 102,State Assembly,97,GRN,Ellen Jaffee,0
 Rockland,Ramapo 104,State Assembly,97,GRN,Ellen Jaffee,1
 Rockland,Ramapo 105,State Assembly,97,GRN,Ellen Jaffee,0
-Rockland,,State Assembly,97,GRN,Ellen Jaffee,2273
+Rockland,Total,State Assembly,97,GRN,Ellen Jaffee,2273
 Rockland,Orangetown 1,State Assembly,97,REP,Joseph Chabot,147
 Rockland,Orangetown 2,State Assembly,97,REP,Joseph Chabot,34
 Rockland,Orangetown 3,State Assembly,97,REP,Joseph Chabot,204
@@ -9337,7 +9337,7 @@ Rockland,Ramapo 101,State Assembly,97,REP,Joseph Chabot,27
 Rockland,Ramapo 102,State Assembly,97,REP,Joseph Chabot,40
 Rockland,Ramapo 104,State Assembly,97,REP,Joseph Chabot,8
 Rockland,Ramapo 105,State Assembly,97,REP,Joseph Chabot,1
-Rockland,,State Assembly,97,REP,Joseph Chabot,15209
+Rockland,Total,State Assembly,97,REP,Joseph Chabot,15209
 Rockland,Orangetown 1,State Assembly,97,CON,Joseph Chabot,18
 Rockland,Orangetown 2,State Assembly,97,CON,Joseph Chabot,4
 Rockland,Orangetown 3,State Assembly,97,CON,Joseph Chabot,30
@@ -9450,7 +9450,7 @@ Rockland,Ramapo 101,State Assembly,97,CON,Joseph Chabot,2
 Rockland,Ramapo 102,State Assembly,97,CON,Joseph Chabot,9
 Rockland,Ramapo 104,State Assembly,97,CON,Joseph Chabot,0
 Rockland,Ramapo 105,State Assembly,97,CON,Joseph Chabot,1
-Rockland,,State Assembly,97,CON,Joseph Chabot,1941
+Rockland,Total,State Assembly,97,CON,Joseph Chabot,1941
 Rockland,Orangetown 1,State Assembly,97,REF,Joseph Chabot,6
 Rockland,Orangetown 2,State Assembly,97,REF,Joseph Chabot,1
 Rockland,Orangetown 3,State Assembly,97,REF,Joseph Chabot,10
@@ -9563,7 +9563,7 @@ Rockland,Ramapo 101,State Assembly,97,REF,Joseph Chabot,0
 Rockland,Ramapo 102,State Assembly,97,REF,Joseph Chabot,0
 Rockland,Ramapo 104,State Assembly,97,REF,Joseph Chabot,0
 Rockland,Ramapo 105,State Assembly,97,REF,Joseph Chabot,0
-Rockland,,State Assembly,97,REF,Joseph Chabot,520
+Rockland,Total,State Assembly,97,REF,Joseph Chabot,520
 Rockland,Orangetown 1,State Assembly,97,WOR,Thomas Gulla,11
 Rockland,Orangetown 2,State Assembly,97,WOR,Thomas Gulla,11
 Rockland,Orangetown 3,State Assembly,97,WOR,Thomas Gulla,11
@@ -9676,7 +9676,7 @@ Rockland,Ramapo 101,State Assembly,97,WOR,Thomas Gulla,1
 Rockland,Ramapo 102,State Assembly,97,WOR,Thomas Gulla,0
 Rockland,Ramapo 104,State Assembly,97,WOR,Thomas Gulla,0
 Rockland,Ramapo 105,State Assembly,97,WOR,Thomas Gulla,2
-Rockland,,State Assembly,97,WOR,Thomas Gulla,1088
+Rockland,Total,State Assembly,97,WOR,Thomas Gulla,1088
 Rockland,Orangetown 1,State Assembly,97,,Write-ins,0
 Rockland,Orangetown 2,State Assembly,97,,Write-ins,0
 Rockland,Orangetown 3,State Assembly,97,,Write-ins,0
@@ -9789,7 +9789,7 @@ Rockland,Ramapo 101,State Assembly,97,,Write-ins,0
 Rockland,Ramapo 102,State Assembly,97,,Write-ins,7
 Rockland,Ramapo 104,State Assembly,97,,Write-ins,0
 Rockland,Ramapo 105,State Assembly,97,,Write-ins,0
-Rockland,,State Assembly,97,,Write-ins,63
+Rockland,Total,State Assembly,97,,Write-ins,63
 Rockland,Ramapo 4,State Assembly,98,DEM,Aron Wieder,52
 Rockland,Ramapo 14,State Assembly,98,DEM,Aron Wieder,177
 Rockland,Ramapo 15,State Assembly,98,DEM,Aron Wieder,42
@@ -9821,7 +9821,7 @@ Rockland,Ramapo 103,State Assembly,98,DEM,Aron Wieder,47
 Rockland,Ramapo 106,State Assembly,98,DEM,Aron Wieder,3
 Rockland,Ramapo 108,State Assembly,98,DEM,Aron Wieder,24
 Rockland,Ramapo 110,State Assembly,98,DEM,Aron Wieder,9
-Rockland,,State Assembly,98,DEM,Aron Wieder,5133
+Rockland,Total,State Assembly,98,DEM,Aron Wieder,5133
 Rockland,Ramapo 4,State Assembly,98,CON,Aron Wieder,9
 Rockland,Ramapo 14,State Assembly,98,CON,Aron Wieder,24
 Rockland,Ramapo 15,State Assembly,98,CON,Aron Wieder,6
@@ -9853,7 +9853,7 @@ Rockland,Ramapo 103,State Assembly,98,CON,Aron Wieder,11
 Rockland,Ramapo 106,State Assembly,98,CON,Aron Wieder,0
 Rockland,Ramapo 108,State Assembly,98,CON,Aron Wieder,1
 Rockland,Ramapo 110,State Assembly,98,CON,Aron Wieder,1
-Rockland,,State Assembly,98,CON,Aron Wieder,538
+Rockland,Total,State Assembly,98,CON,Aron Wieder,538
 Rockland,Ramapo 4,State Assembly,98,GRN,Aron Wieder,4
 Rockland,Ramapo 14,State Assembly,98,GRN,Aron Wieder,1
 Rockland,Ramapo 15,State Assembly,98,GRN,Aron Wieder,2
@@ -9885,7 +9885,7 @@ Rockland,Ramapo 103,State Assembly,98,GRN,Aron Wieder,0
 Rockland,Ramapo 106,State Assembly,98,GRN,Aron Wieder,0
 Rockland,Ramapo 108,State Assembly,98,GRN,Aron Wieder,0
 Rockland,Ramapo 110,State Assembly,98,GRN,Aron Wieder,0
-Rockland,,State Assembly,98,GRN,Aron Wieder,42
+Rockland,Total,State Assembly,98,GRN,Aron Wieder,42
 Rockland,Ramapo 4,State Assembly,98,IDC,Aron Wieder,1
 Rockland,Ramapo 14,State Assembly,98,IDC,Aron Wieder,4
 Rockland,Ramapo 15,State Assembly,98,IDC,Aron Wieder,2
@@ -9917,7 +9917,7 @@ Rockland,Ramapo 103,State Assembly,98,IDC,Aron Wieder,1
 Rockland,Ramapo 106,State Assembly,98,IDC,Aron Wieder,0
 Rockland,Ramapo 108,State Assembly,98,IDC,Aron Wieder,0
 Rockland,Ramapo 110,State Assembly,98,IDC,Aron Wieder,0
-Rockland,,State Assembly,98,IDC,Aron Wieder,85
+Rockland,Total,State Assembly,98,IDC,Aron Wieder,85
 Rockland,Ramapo 4,State Assembly,98,WEP,Aron Wieder,0
 Rockland,Ramapo 14,State Assembly,98,WEP,Aron Wieder,0
 Rockland,Ramapo 15,State Assembly,98,WEP,Aron Wieder,0
@@ -9949,7 +9949,7 @@ Rockland,Ramapo 103,State Assembly,98,WEP,Aron Wieder,0
 Rockland,Ramapo 106,State Assembly,98,WEP,Aron Wieder,0
 Rockland,Ramapo 108,State Assembly,98,WEP,Aron Wieder,1
 Rockland,Ramapo 110,State Assembly,98,WEP,Aron Wieder,0
-Rockland,,State Assembly,98,WEP,Aron Wieder,36
+Rockland,Total,State Assembly,98,WEP,Aron Wieder,36
 Rockland,Ramapo 4,State Assembly,98,REF,Aron Wieder,3
 Rockland,Ramapo 14,State Assembly,98,REF,Aron Wieder,0
 Rockland,Ramapo 15,State Assembly,98,REF,Aron Wieder,0
@@ -9981,7 +9981,7 @@ Rockland,Ramapo 103,State Assembly,98,REF,Aron Wieder,0
 Rockland,Ramapo 106,State Assembly,98,REF,Aron Wieder,0
 Rockland,Ramapo 108,State Assembly,98,REF,Aron Wieder,0
 Rockland,Ramapo 110,State Assembly,98,REF,Aron Wieder,2
-Rockland,,State Assembly,98,REF,Aron Wieder,54
+Rockland,Total,State Assembly,98,REF,Aron Wieder,54
 Rockland,Ramapo 4,State Assembly,98,REP,Karl Brabenec,258
 Rockland,Ramapo 14,State Assembly,98,REP,Karl Brabenec,55
 Rockland,Ramapo 15,State Assembly,98,REP,Karl Brabenec,234
@@ -10013,7 +10013,7 @@ Rockland,Ramapo 103,State Assembly,98,REP,Karl Brabenec,38
 Rockland,Ramapo 106,State Assembly,98,REP,Karl Brabenec,3
 Rockland,Ramapo 108,State Assembly,98,REP,Karl Brabenec,7
 Rockland,Ramapo 110,State Assembly,98,REP,Karl Brabenec,36
-Rockland,,State Assembly,98,REP,Karl Brabenec,2998
+Rockland,Total,State Assembly,98,REP,Karl Brabenec,2998
 Rockland,Ramapo 4,State Assembly,98,TCN,Karl Brabenec,11
 Rockland,Ramapo 14,State Assembly,98,TCN,Karl Brabenec,2
 Rockland,Ramapo 15,State Assembly,98,TCN,Karl Brabenec,14
@@ -10045,7 +10045,7 @@ Rockland,Ramapo 103,State Assembly,98,TCN,Karl Brabenec,0
 Rockland,Ramapo 106,State Assembly,98,TCN,Karl Brabenec,0
 Rockland,Ramapo 108,State Assembly,98,TCN,Karl Brabenec,0
 Rockland,Ramapo 110,State Assembly,98,TCN,Karl Brabenec,2
-Rockland,,State Assembly,98,TCN,Karl Brabenec,150
+Rockland,Total,State Assembly,98,TCN,Karl Brabenec,150
 Rockland,Ramapo 4,State Assembly,98,,Write-ins,0
 Rockland,Ramapo 14,State Assembly,98,,Write-ins,0
 Rockland,Ramapo 15,State Assembly,98,,Write-ins,0
@@ -10077,7 +10077,7 @@ Rockland,Ramapo 103,State Assembly,98,,Write-ins,0
 Rockland,Ramapo 106,State Assembly,98,,Write-ins,0
 Rockland,Ramapo 108,State Assembly,98,,Write-ins,0
 Rockland,Ramapo 110,State Assembly,98,,Write-ins,0
-Rockland,,State Assembly,98,,Write-ins,13
+Rockland,Total,State Assembly,98,,Write-ins,13
 Rockland,Stony Point 1,State Assembly,99,DEM,James Skoufis,194
 Rockland,Stony Point 2,State Assembly,99,DEM,James Skoufis,227
 Rockland,Stony Point 3,State Assembly,99,DEM,James Skoufis,210
@@ -10091,7 +10091,7 @@ Rockland,Stony Point 10,State Assembly,99,DEM,James Skoufis,142
 Rockland,Stony Point 11,State Assembly,99,DEM,James Skoufis,192
 Rockland,Stony Point 12,State Assembly,99,DEM,James Skoufis,199
 Rockland,Stony Point 13,State Assembly,99,DEM,James Skoufis,257
-Rockland,,State Assembly,99,DEM,James Skoufis,2609
+Rockland,Total,State Assembly,99,DEM,James Skoufis,2609
 Rockland,Stony Point 1,State Assembly,99,WOR,James Skoufis,12
 Rockland,Stony Point 2,State Assembly,99,WOR,James Skoufis,27
 Rockland,Stony Point 3,State Assembly,99,WOR,James Skoufis,23
@@ -10105,7 +10105,7 @@ Rockland,Stony Point 10,State Assembly,99,WOR,James Skoufis,13
 Rockland,Stony Point 11,State Assembly,99,WOR,James Skoufis,16
 Rockland,Stony Point 12,State Assembly,99,WOR,James Skoufis,8
 Rockland,Stony Point 13,State Assembly,99,WOR,James Skoufis,24
-Rockland,,State Assembly,99,WOR,James Skoufis,222
+Rockland,Total,State Assembly,99,WOR,James Skoufis,222
 Rockland,Stony Point 1,State Assembly,99,WEP,James Skoufis,3
 Rockland,Stony Point 2,State Assembly,99,WEP,James Skoufis,9
 Rockland,Stony Point 3,State Assembly,99,WEP,James Skoufis,7
@@ -10119,7 +10119,7 @@ Rockland,Stony Point 10,State Assembly,99,WEP,James Skoufis,1
 Rockland,Stony Point 11,State Assembly,99,WEP,James Skoufis,2
 Rockland,Stony Point 12,State Assembly,99,WEP,James Skoufis,9
 Rockland,Stony Point 13,State Assembly,99,WEP,James Skoufis,3
-Rockland,,State Assembly,99,WEP,James Skoufis,66
+Rockland,Total,State Assembly,99,WEP,James Skoufis,66
 Rockland,Stony Point 1,State Assembly,99,REP,Colin Schmitt,168
 Rockland,Stony Point 2,State Assembly,99,REP,Colin Schmitt,237
 Rockland,Stony Point 3,State Assembly,99,REP,Colin Schmitt,218
@@ -10133,7 +10133,7 @@ Rockland,Stony Point 10,State Assembly,99,REP,Colin Schmitt,167
 Rockland,Stony Point 11,State Assembly,99,REP,Colin Schmitt,213
 Rockland,Stony Point 12,State Assembly,99,REP,Colin Schmitt,245
 Rockland,Stony Point 13,State Assembly,99,REP,Colin Schmitt,385
-Rockland,,State Assembly,99,REP,Colin Schmitt,3168
+Rockland,Total,State Assembly,99,REP,Colin Schmitt,3168
 Rockland,Stony Point 1,State Assembly,99,CON,Colin Schmitt,31
 Rockland,Stony Point 2,State Assembly,99,CON,Colin Schmitt,38
 Rockland,Stony Point 3,State Assembly,99,CON,Colin Schmitt,46
@@ -10147,7 +10147,7 @@ Rockland,Stony Point 10,State Assembly,99,CON,Colin Schmitt,42
 Rockland,Stony Point 11,State Assembly,99,CON,Colin Schmitt,32
 Rockland,Stony Point 12,State Assembly,99,CON,Colin Schmitt,54
 Rockland,Stony Point 13,State Assembly,99,CON,Colin Schmitt,63
-Rockland,,State Assembly,99,CON,Colin Schmitt,574
+Rockland,Total,State Assembly,99,CON,Colin Schmitt,574
 Rockland,Stony Point 1,State Assembly,99,IDC,Colin Schmitt,10
 Rockland,Stony Point 2,State Assembly,99,IDC,Colin Schmitt,11
 Rockland,Stony Point 3,State Assembly,99,IDC,Colin Schmitt,10
@@ -10161,7 +10161,7 @@ Rockland,Stony Point 10,State Assembly,99,IDC,Colin Schmitt,8
 Rockland,Stony Point 11,State Assembly,99,IDC,Colin Schmitt,3
 Rockland,Stony Point 12,State Assembly,99,IDC,Colin Schmitt,11
 Rockland,Stony Point 13,State Assembly,99,IDC,Colin Schmitt,11
-Rockland,,State Assembly,99,IDC,Colin Schmitt,113
+Rockland,Total,State Assembly,99,IDC,Colin Schmitt,113
 Rockland,Stony Point 1,State Assembly,99,REF,Colin Schmitt,4
 Rockland,Stony Point 2,State Assembly,99,REF,Colin Schmitt,1
 Rockland,Stony Point 3,State Assembly,99,REF,Colin Schmitt,7
@@ -10175,7 +10175,7 @@ Rockland,Stony Point 10,State Assembly,99,REF,Colin Schmitt,0
 Rockland,Stony Point 11,State Assembly,99,REF,Colin Schmitt,2
 Rockland,Stony Point 12,State Assembly,99,REF,Colin Schmitt,2
 Rockland,Stony Point 13,State Assembly,99,REF,Colin Schmitt,8
-Rockland,,State Assembly,99,REF,Colin Schmitt,39
+Rockland,Total,State Assembly,99,REF,Colin Schmitt,39
 Rockland,Stony Point 1,State Assembly,99,,Write-ins,0
 Rockland,Stony Point 2,State Assembly,99,,Write-ins,0
 Rockland,Stony Point 3,State Assembly,99,,Write-ins,0
@@ -10189,4 +10189,4 @@ Rockland,Stony Point 10,State Assembly,99,,Write-ins,0
 Rockland,Stony Point 11,State Assembly,99,,Write-ins,0
 Rockland,Stony Point 12,State Assembly,99,,Write-ins,0
 Rockland,Stony Point 13,State Assembly,99,,Write-ins,1
-Rockland,,State Assembly,99,,Write-ins,1
+Rockland,Total,State Assembly,99,,Write-ins,1
