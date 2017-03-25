@@ -150,10 +150,10 @@ class Verifier(object):
 						self.verifyParty(row)
 						self.verifyVotes(row)
 						self.verifyRowIsUnique(row)
+
+				self.verifyLineEndings(csvfile.newlines)
 			except StopIteration as si:
 				pass # Stop verifying when exception is thrown
-
-			self.verifyLineEndings(csvfile.newlines)
 
 	def verifyLineEndings(self, newlines):
 		if newlines != ('\n'):
