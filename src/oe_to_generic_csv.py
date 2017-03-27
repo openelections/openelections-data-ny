@@ -27,6 +27,7 @@ import sys
 import os
 import argparse
 import pandas
+import collections
 
 
 def main():
@@ -40,7 +41,7 @@ def main():
 class CSVBuilder(object):
 	def __init__(self, path):
 		self.path = path
-		self.outResults = []
+		self.outResults = collections.OrderedDict()
 
 		self.populateResults()
 
@@ -51,28 +52,38 @@ class CSVBuilder(object):
 
 	def build(self):
 		officeDistrictSortColumns = ['office', 'district']
-		grouped_offices = self.oeResults.groupby(officeDistrictSortColumns)
-		gb_groups = grouped_offices.groups
+		grouped_offices = self.oeResults.groupby(officeDistrictSortColumns, sort=False)
 
-		for officeDistrictTuple, officeDistrictIndexes in gb_groups.items():
-			self.outResults.append(self.buildHeader(officeDistrictTuple))
+		for officeDistrictTuple, officeDistrictData in grouped_offices:
+			officeResults = collections.OrderedDict()
 
-			officeDistrictData = self.oeResults.ix[officeDistrictIndexes]
-			grouped_precincts = officeDistrictData.groupby(['precinct'])
-			gb_precincts = grouped_precincts.groups
+			grouped_precincts = officeDistrictData.groupby(['precinct'], sort=False)
 
-			for precinct, precinctIndexes in gb_precincts.items():
-				data = self.oeResults.ix[precinctIndexes]
-				# print(type(data))
-				resultLine = ['', precinct]
+			candidateSortColumns = ['candidate', 'party']
+			candidates = officeDistrictData.drop_duplicates(candidateSortColumns)[candidateSortColumns].values
+
+			for precinct, data in grouped_precincts:
+				precinctResults = collections.OrderedDict()
+
+				for candidate, party in candidates:
+					precinctResults[self.keyWithCandidateAndParty(candidate, party)] = 0
 				
 				for index, row in data.iterrows():
-					# print(row)
-					resultLine.append(row.votes)
+					precinctResults[self.keyWithCandidateAndParty(row.candidate, row.party)] = row.votes
 
-				self.outResults.append(resultLine)
+				officeResults[precinct] = precinctResults
 
-	def buildHeader(self, officeDistrictTuple):
+			self.outResults[officeDistrictTuple] = officeResults
+
+
+	def keyWithCandidateAndParty(self, candidate, party):
+		if party:
+			return f"{candidate} ({party})"
+		else:
+			return candidate
+
+
+	def buildHeader(self, officeDistrictTuple, officeResults):
 		header = []
 
 		# 1. Create the office/district name
@@ -87,14 +98,27 @@ class CSVBuilder(object):
 		header.append('Precinct')
 
 		# 3. Candidates
-
+		for precinct in officeResults:
+			# print(officeResults[precinct])
+			for candidate in officeResults[precinct]:
+				header.append(candidate)
+			break # only care about the list of candidates
 		
 		return header
 
 	def printCSV(self):
 		stdout_writer = csv.writer(sys.stdout, lineterminator='\n')
-		for line in self.outResults:
-			stdout_writer.writerow(line)
+		for office in self.outResults:
+			officeResults = self.outResults[office]
+			stdout_writer.writerow(self.buildHeader(office, officeResults))
+
+			for precinct in officeResults:
+				precinctLine = ['', precinct]
+				
+				for candidate, votes in officeResults[precinct].items():
+					precinctLine.append(votes)
+
+				stdout_writer.writerow(precinctLine)
 
 
 
