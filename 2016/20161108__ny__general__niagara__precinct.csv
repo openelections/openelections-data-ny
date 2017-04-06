@@ -179,6 +179,7 @@ Niagara,Wilson/000/002,President,,LIB,Gary Johnson/Bill Weld,18
 Niagara,Wilson/000/003,President,,LIB,Gary Johnson/Bill Weld,16
 Niagara,Wilson/000/004,President,,LIB,Gary Johnson/Bill Weld,23
 Niagara,Wilson/000/005,President,,LIB,Gary Johnson/Bill Weld,19
+Niagara,TOTAL,President,,LIB,Gary Johnson/Bill Weld,2865
 Niagara,Cambria/000/001,President,,,Scatter,0
 Niagara,Cambria/000/002,President,,,Scatter,5
 Niagara,Cambria/000/003,President,,,Scatter,1
@@ -359,6 +360,7 @@ Niagara,Wilson/000/002,President,,,Scatter,6
 Niagara,Wilson/000/003,President,,,Scatter,4
 Niagara,Wilson/000/004,President,,,Scatter,2
 Niagara,Wilson/000/005,President,,,Scatter,4
+Niagara,TOTAL,President,,,Scatter,601
 Niagara,Cambria/000/001,President,,,Evan McMullin,0
 Niagara,Cambria/000/002,President,,,Evan McMullin,2
 Niagara,Cambria/000/003,President,,,Evan McMullin,0
@@ -539,6 +541,7 @@ Niagara,Wilson/000/002,President,,,Evan McMullin,0
 Niagara,Wilson/000/003,President,,,Evan McMullin,0
 Niagara,Wilson/000/004,President,,,Evan McMullin,2
 Niagara,Wilson/000/005,President,,,Evan McMullin,4
+Niagara,TOTAL,President,,,Evan McMullin,118
 Niagara,Cambria/000/001,President,,,Darryl Castle,0
 Niagara,Cambria/000/002,President,,,Darryl Castle,0
 Niagara,Cambria/000/003,President,,,Darryl Castle,0
@@ -719,6 +722,7 @@ Niagara,Wilson/000/002,President,,,Darryl Castle,0
 Niagara,Wilson/000/003,President,,,Darryl Castle,0
 Niagara,Wilson/000/004,President,,,Darryl Castle,0
 Niagara,Wilson/000/005,President,,,Darryl Castle,0
+Niagara,TOTAL,President,,,Darryl Castle,8
 Niagara,Cambria/000/001,President,,,Tom Hoeflidg,0
 Niagara,Cambria/000/002,President,,,Tom Hoeflidg,0
 Niagara,Cambria/000/003,President,,,Tom Hoeflidg,0
@@ -899,6 +903,7 @@ Niagara,Wilson/000/002,President,,,Tom Hoeflidg,0
 Niagara,Wilson/000/003,President,,,Tom Hoeflidg,0
 Niagara,Wilson/000/004,President,,,Tom Hoeflidg,0
 Niagara,Wilson/000/005,President,,,Tom Hoeflidg,0
+Niagara,TOTAL,President,,,Tom Hoeflidg,1
 Niagara,Cambria/000/001,President,,DEM,Hillary Clinton/Tim Kaine,140
 Niagara,Cambria/000/002,President,,DEM,Hillary Clinton/Tim Kaine,197
 Niagara,Cambria/000/003,President,,DEM,Hillary Clinton/Tim Kaine,203
@@ -1079,6 +1084,7 @@ Niagara,Wilson/000/002,President,,DEM,Hillary Clinton/Tim Kaine,132
 Niagara,Wilson/000/003,President,,DEM,Hillary Clinton/Tim Kaine,189
 Niagara,Wilson/000/004,President,,DEM,Hillary Clinton/Tim Kaine,109
 Niagara,Wilson/000/005,President,,DEM,Hillary Clinton/Tim Kaine,147
+Niagara,TOTAL,President,,DEM,Hillary Clinton/Tim Kaine,35559
 Niagara,Cambria/000/001,President,,REP,Donald J Trump/Michael R Pence,390
 Niagara,Cambria/000/002,President,,REP,Donald J Trump/Michael R Pence,507
 Niagara,Cambria/000/003,President,,REP,Donald J Trump/Michael R Pence,491
@@ -1259,6 +1265,7 @@ Niagara,Wilson/000/002,President,,REP,Donald J Trump/Michael R Pence,492
 Niagara,Wilson/000/003,President,,REP,Donald J Trump/Michael R Pence,554
 Niagara,Wilson/000/004,President,,REP,Donald J Trump/Michael R Pence,370
 Niagara,Wilson/000/005,President,,REP,Donald J Trump/Michael R Pence,286
+Niagara,TOTAL,President,,REP,Donald J Trump/Michael R Pence,51961
 Niagara,Cambria/000/001,President,,GRN,Jill Stein/Ajamu Baraka,3
 Niagara,Cambria/000/002,President,,GRN,Jill Stein/Ajamu Baraka,9
 Niagara,Cambria/000/003,President,,GRN,Jill Stein/Ajamu Baraka,19
@@ -1439,6 +1446,7 @@ Niagara,Wilson/000/002,President,,GRN,Jill Stein/Ajamu Baraka,2
 Niagara,Wilson/000/003,President,,GRN,Jill Stein/Ajamu Baraka,11
 Niagara,Wilson/000/004,President,,GRN,Jill Stein/Ajamu Baraka,8
 Niagara,Wilson/000/005,President,,GRN,Jill Stein/Ajamu Baraka,3
+Niagara,TOTAL,President,,GRN,Jill Stein/Ajamu Baraka,1287
 Niagara,Cambria/000/001,President,,,Chris Keniston,0
 Niagara,Cambria/000/002,President,,,Chris Keniston,0
 Niagara,Cambria/000/003,President,,,Chris Keniston,0
@@ -1619,6 +1627,7 @@ Niagara,Wilson/000/002,President,,,Chris Keniston,0
 Niagara,Wilson/000/003,President,,,Chris Keniston,0
 Niagara,Wilson/000/004,President,,,Chris Keniston,0
 Niagara,Wilson/000/005,President,,,Chris Keniston,0
+Niagara,TOTAL,President,,,Chris Keniston,2
 Niagara,Cambria/000/001,U.S. Senate,,GRN,Robin Laverne Wilson,4
 Niagara,Cambria/000/002,U.S. Senate,,GRN,Robin Laverne Wilson,5
 Niagara,Cambria/000/003,U.S. Senate,,GRN,Robin Laverne Wilson,10
@@ -1799,6 +1808,7 @@ Niagara,Wilson/000/002,U.S. Senate,,GRN,Robin Laverne Wilson,6
 Niagara,Wilson/000/003,U.S. Senate,,GRN,Robin Laverne Wilson,12
 Niagara,Wilson/000/004,U.S. Senate,,GRN,Robin Laverne Wilson,7
 Niagara,Wilson/000/005,U.S. Senate,,GRN,Robin Laverne Wilson,1
+Niagara,TOTAL,U.S. Senate,,GRN,Robin Laverne Wilson,1017
 Niagara,Cambria/000/001,U.S. Senate,,,Scatter,0
 Niagara,Cambria/000/002,U.S. Senate,,,Scatter,0
 Niagara,Cambria/000/003,U.S. Senate,,,Scatter,0
@@ -1979,6 +1989,7 @@ Niagara,Wilson/000/002,U.S. Senate,,,Scatter,0
 Niagara,Wilson/000/003,U.S. Senate,,,Scatter,0
 Niagara,Wilson/000/004,U.S. Senate,,,Scatter,0
 Niagara,Wilson/000/005,U.S. Senate,,,Scatter,0
+Niagara,TOTAL,U.S. Senate,,,Scatter,25
 Niagara,Cambria/000/001,U.S. Senate,,DEM,Charles E Schumer,237
 Niagara,Cambria/000/002,U.S. Senate,,DEM,Charles E Schumer,373
 Niagara,Cambria/000/003,U.S. Senate,,DEM,Charles E Schumer,382
@@ -2159,6 +2170,7 @@ Niagara,Wilson/000/002,U.S. Senate,,DEM,Charles E Schumer,250
 Niagara,Wilson/000/003,U.S. Senate,,DEM,Charles E Schumer,336
 Niagara,Wilson/000/004,U.S. Senate,,DEM,Charles E Schumer,237
 Niagara,Wilson/000/005,U.S. Senate,,DEM,Charles E Schumer,230
+Niagara,TOTAL,U.S. Senate,,DEM,Charles E Schumer,52114
 Niagara,Cambria/000/001,U.S. Senate,,REP,Wendy Long,270
 Niagara,Cambria/000/002,U.S. Senate,,REP,Wendy Long,337
 Niagara,Cambria/000/003,U.S. Senate,,REP,Wendy Long,313
@@ -2339,6 +2351,7 @@ Niagara,Wilson/000/002,U.S. Senate,,REP,Wendy Long,355
 Niagara,Wilson/000/003,U.S. Senate,,REP,Wendy Long,398
 Niagara,Wilson/000/004,U.S. Senate,,REP,Wendy Long,250
 Niagara,Wilson/000/005,U.S. Senate,,REP,Wendy Long,211
+Niagara,TOTAL,U.S. Senate,,REP,Wendy Long,33662
 Niagara,Cambria/000/001,U.S. Senate,,LIB,Alex Merced,5
 Niagara,Cambria/000/002,U.S. Senate,,LIB,Alex Merced,8
 Niagara,Cambria/000/003,U.S. Senate,,LIB,Alex Merced,5
@@ -2519,6 +2532,7 @@ Niagara,Wilson/000/002,U.S. Senate,,LIB,Alex Merced,3
 Niagara,Wilson/000/003,U.S. Senate,,LIB,Alex Merced,5
 Niagara,Wilson/000/004,U.S. Senate,,LIB,Alex Merced,1
 Niagara,Wilson/000/005,U.S. Senate,,LIB,Alex Merced,3
+Niagara,TOTAL,U.S. Senate,,LIB,Alex Merced,683
 Niagara,N Tonawanda/001/001,U.S. House,26,DEM,Brian Higgins,267
 Niagara,N Tonawanda/001/002,U.S. House,26,DEM,Brian Higgins,305
 Niagara,N Tonawanda/001/003,U.S. House,26,DEM,Brian Higgins,229
@@ -2588,6 +2602,7 @@ Niagara,Niagara Falls/006/007,U.S. House,26,DEM,Brian Higgins,269
 Niagara,Niagara Falls/006/008,U.S. House,26,DEM,Brian Higgins,274
 Niagara,Niagara Falls/006/009,U.S. House,26,DEM,Brian Higgins,292
 Niagara,Niagara Falls/006/010,U.S. House,26,DEM,Brian Higgins,333
+Niagara,TOTAL,U.S. House,26,DEM,Brian Higgins,18509
 Niagara,N Tonawanda/001/001,U.S. House,26,REP,Shelly Schratz,167
 Niagara,N Tonawanda/001/002,U.S. House,26,REP,Shelly Schratz,206
 Niagara,N Tonawanda/001/003,U.S. House,26,REP,Shelly Schratz,133
@@ -2657,6 +2672,7 @@ Niagara,Niagara Falls/006/007,U.S. House,26,REP,Shelly Schratz,70
 Niagara,Niagara Falls/006/008,U.S. House,26,REP,Shelly Schratz,123
 Niagara,Niagara Falls/006/009,U.S. House,26,REP,Shelly Schratz,123
 Niagara,Niagara Falls/006/010,U.S. House,26,REP,Shelly Schratz,182
+Niagara,TOTAL,U.S. House,26,REP,Shelly Schratz,9204
 Niagara,N Tonawanda/001/001,U.S. House,26,,Scatter,0
 Niagara,N Tonawanda/001/002,U.S. House,26,,Scatter,0
 Niagara,N Tonawanda/001/003,U.S. House,26,,Scatter,0
@@ -2726,6 +2742,7 @@ Niagara,Niagara Falls/006/007,U.S. House,26,,Scatter,0
 Niagara,Niagara Falls/006/008,U.S. House,26,,Scatter,0
 Niagara,Niagara Falls/006/009,U.S. House,26,,Scatter,0
 Niagara,Niagara Falls/006/010,U.S. House,26,,Scatter,0
+Niagara,TOTAL,U.S. House,26,,Scatter,13
 Niagara,Cambria/000/001,U.S. House,27,DEM,Diana K Kastenbaum,125
 Niagara,Cambria/000/002,U.S. House,27,DEM,Diana K Kastenbaum,179
 Niagara,Cambria/000/003,U.S. House,27,DEM,Diana K Kastenbaum,204
@@ -2837,6 +2854,7 @@ Niagara,Wilson/000/002,U.S. House,27,DEM,Diana K Kastenbaum,136
 Niagara,Wilson/000/003,U.S. House,27,DEM,Diana K Kastenbaum,164
 Niagara,Wilson/000/004,U.S. House,27,DEM,Diana K Kastenbaum,121
 Niagara,Wilson/000/005,U.S. House,27,DEM,Diana K Kastenbaum,139
+Niagara,TOTAL,U.S. House,27,DEM,Diana K Kastenbaum,18770
 Niagara,Cambria/000/001,U.S. House,27,REP,Chris Collins,374
 Niagara,Cambria/000/002,U.S. House,27,REP,Chris Collins,522
 Niagara,Cambria/000/003,U.S. House,27,REP,Chris Collins,496
@@ -2948,6 +2966,7 @@ Niagara,Wilson/000/002,U.S. House,27,REP,Chris Collins,469
 Niagara,Wilson/000/003,U.S. House,27,REP,Chris Collins,564
 Niagara,Wilson/000/004,U.S. House,27,REP,Chris Collins,364
 Niagara,Wilson/000/005,U.S. House,27,REP,Chris Collins,302
+Niagara,TOTAL,U.S. House,27,REP,Chris Collins,38131
 Niagara,Cambria/000/001,U.S. House,27,,Scatter,0
 Niagara,Cambria/000/002,U.S. House,27,,Scatter,0
 Niagara,Cambria/000/003,U.S. House,27,,Scatter,0
@@ -3059,6 +3078,7 @@ Niagara,Wilson/000/002,U.S. House,27,,Scatter,0
 Niagara,Wilson/000/003,U.S. House,27,,Scatter,1
 Niagara,Wilson/000/004,U.S. House,27,,Scatter,0
 Niagara,Wilson/000/005,U.S. House,27,,Scatter,0
+Niagara,TOTAL,U.S. House,27,,Scatter,28
 Niagara,Cambria/000/001,State Senate,62,REP,Robert G Ortt,437
 Niagara,Cambria/000/002,State Senate,62,REP,Robert G Ortt,590
 Niagara,Cambria/000/003,State Senate,62,REP,Robert G Ortt,572
@@ -3239,6 +3259,7 @@ Niagara,Wilson/000/002,State Senate,62,REP,Robert G Ortt,524
 Niagara,Wilson/000/003,State Senate,62,REP,Robert G Ortt,641
 Niagara,Wilson/000/004,State Senate,62,REP,Robert G Ortt,404
 Niagara,Wilson/000/005,State Senate,62,REP,Robert G Ortt,354
+Niagara,TOTAL,State Senate,62,REP,Robert G Ortt,65393
 Niagara,Cambria/000/001,State Senate,62,,Scatter,0
 Niagara,Cambria/000/002,State Senate,62,,Scatter,0
 Niagara,Cambria/000/003,State Senate,62,,Scatter,0
@@ -3419,6 +3440,7 @@ Niagara,Wilson/000/002,State Senate,62,,Scatter,1
 Niagara,Wilson/000/003,State Senate,62,,Scatter,2
 Niagara,Wilson/000/004,State Senate,62,,Scatter,1
 Niagara,Wilson/000/005,State Senate,62,,Scatter,3
+Niagara,TOTAL,State Senate,62,,Scatter,295
 Niagara,N Tonawanda/001/006,State Assembly,140,REP,Danielle M Rotolo,124
 Niagara,N Tonawanda/001/007,State Assembly,140,REP,Danielle M Rotolo,99
 Niagara,N Tonawanda/001/009,State Assembly,140,REP,Danielle M Rotolo,201
@@ -3441,6 +3463,7 @@ Niagara,N Tonawanda/003/009,State Assembly,140,REP,Danielle M Rotolo,145
 Niagara,N Tonawanda/003/010,State Assembly,140,REP,Danielle M Rotolo,104
 Niagara,N Tonawanda/003/011,State Assembly,140,REP,Danielle M Rotolo,119
 Niagara,N Tonawanda/003/012,State Assembly,140,REP,Danielle M Rotolo,213
+Niagara,TOTAL,State Assembly,140,REP,Danielle M Rotolo,2663
 Niagara,N Tonawanda/001/006,State Assembly,140,DEM,Robin Schimminger,350
 Niagara,N Tonawanda/001/007,State Assembly,140,DEM,Robin Schimminger,202
 Niagara,N Tonawanda/001/009,State Assembly,140,DEM,Robin Schimminger,368
@@ -3463,6 +3486,7 @@ Niagara,N Tonawanda/003/009,State Assembly,140,DEM,Robin Schimminger,259
 Niagara,N Tonawanda/003/010,State Assembly,140,DEM,Robin Schimminger,207
 Niagara,N Tonawanda/003/011,State Assembly,140,DEM,Robin Schimminger,254
 Niagara,N Tonawanda/003/012,State Assembly,140,DEM,Robin Schimminger,470
+Niagara,TOTAL,State Assembly,140,DEM,Robin Schimminger,5287
 Niagara,N Tonawanda/001/006,State Assembly,140,GRN,Anthony Baney,3
 Niagara,N Tonawanda/001/007,State Assembly,140,GRN,Anthony Baney,7
 Niagara,N Tonawanda/001/009,State Assembly,140,GRN,Anthony Baney,9
@@ -3485,6 +3509,7 @@ Niagara,N Tonawanda/003/009,State Assembly,140,GRN,Anthony Baney,7
 Niagara,N Tonawanda/003/010,State Assembly,140,GRN,Anthony Baney,8
 Niagara,N Tonawanda/003/011,State Assembly,140,GRN,Anthony Baney,7
 Niagara,N Tonawanda/003/012,State Assembly,140,GRN,Anthony Baney,10
+Niagara,TOTAL,State Assembly,140,GRN,Anthony Baney,184
 Niagara,N Tonawanda/001/006,State Assembly,140,,Scatter,0
 Niagara,N Tonawanda/001/007,State Assembly,140,,Scatter,0
 Niagara,N Tonawanda/001/009,State Assembly,140,,Scatter,1
@@ -3507,6 +3532,7 @@ Niagara,N Tonawanda/003/009,State Assembly,140,,Scatter,1
 Niagara,N Tonawanda/003/010,State Assembly,140,,Scatter,0
 Niagara,N Tonawanda/003/011,State Assembly,140,,Scatter,0
 Niagara,N Tonawanda/003/012,State Assembly,140,,Scatter,1
+Niagara,TOTAL,State Assembly,140,,Scatter,6
 Niagara,N Tonawanda/001/006,State Assembly,140,,Evan McMullin,0
 Niagara,N Tonawanda/001/007,State Assembly,140,,Evan McMullin,0
 Niagara,N Tonawanda/001/009,State Assembly,140,,Evan McMullin,0
@@ -3529,6 +3555,7 @@ Niagara,N Tonawanda/003/009,State Assembly,140,,Evan McMullin,2
 Niagara,N Tonawanda/003/010,State Assembly,140,,Evan McMullin,0
 Niagara,N Tonawanda/003/011,State Assembly,140,,Evan McMullin,0
 Niagara,N Tonawanda/003/012,State Assembly,140,,Evan McMullin,0
+Niagara,TOTAL,State Assembly,140,,Evan McMullin,3
 Niagara,City of Lockport/001/001,State Assembly,144,,Scatter,2
 Niagara,City of Lockport/001/002,State Assembly,144,,Scatter,1
 Niagara,City of Lockport/001/003,State Assembly,144,,Scatter,0
@@ -3594,6 +3621,7 @@ Niagara,Wilson/000/002,State Assembly,144,,Scatter,3
 Niagara,Wilson/000/003,State Assembly,144,,Scatter,0
 Niagara,Wilson/000/004,State Assembly,144,,Scatter,0
 Niagara,Wilson/000/005,State Assembly,144,,Scatter,2
+Niagara,TOTAL,State Assembly,144,,Scatter,108
 Niagara,City of Lockport/001/001,State Assembly,144,,Evan McMullin,0
 Niagara,City of Lockport/001/002,State Assembly,144,,Evan McMullin,0
 Niagara,City of Lockport/001/003,State Assembly,144,,Evan McMullin,0
@@ -3659,6 +3687,7 @@ Niagara,Wilson/000/002,State Assembly,144,,Evan McMullin,0
 Niagara,Wilson/000/003,State Assembly,144,,Evan McMullin,0
 Niagara,Wilson/000/004,State Assembly,144,,Evan McMullin,0
 Niagara,Wilson/000/005,State Assembly,144,,Evan McMullin,0
+Niagara,TOTAL,State Assembly,144,,Evan McMullin,4
 Niagara,City of Lockport/001/001,State Assembly,144,REP,Michael J Norris,281
 Niagara,City of Lockport/001/002,State Assembly,144,REP,Michael J Norris,250
 Niagara,City of Lockport/001/003,State Assembly,144,REP,Michael J Norris,359
@@ -3724,6 +3753,7 @@ Niagara,Wilson/000/002,State Assembly,144,REP,Michael J Norris,449
 Niagara,Wilson/000/003,State Assembly,144,REP,Michael J Norris,556
 Niagara,Wilson/000/004,State Assembly,144,REP,Michael J Norris,347
 Niagara,Wilson/000/005,State Assembly,144,REP,Michael J Norris,322
+Niagara,TOTAL,State Assembly,144,REP,Michael J Norris,23336
 Niagara,Cambria/000/001,State Assembly,145,DEM,John D Ceretto,172
 Niagara,Cambria/000/002,State Assembly,145,DEM,John D Ceretto,247
 Niagara,Cambria/000/003,State Assembly,145,DEM,John D Ceretto,253
@@ -3811,6 +3841,7 @@ Niagara,Wheatfield/000/011,State Assembly,145,DEM,John D Ceretto,323
 Niagara,Wheatfield/000/012,State Assembly,145,DEM,John D Ceretto,272
 Niagara,Wheatfield/000/013,State Assembly,145,DEM,John D Ceretto,211
 Niagara,Wheatfield/000/014,State Assembly,145,DEM,John D Ceretto,216
+Niagara,TOTAL,State Assembly,145,DEM,John D Ceretto,19368
 Niagara,Cambria/000/001,State Assembly,145,REP,Angelo J Morinello,322
 Niagara,Cambria/000/002,State Assembly,145,REP,Angelo J Morinello,430
 Niagara,Cambria/000/003,State Assembly,145,REP,Angelo J Morinello,419
@@ -3898,6 +3929,7 @@ Niagara,Wheatfield/000/011,State Assembly,145,REP,Angelo J Morinello,479
 Niagara,Wheatfield/000/012,State Assembly,145,REP,Angelo J Morinello,397
 Niagara,Wheatfield/000/013,State Assembly,145,REP,Angelo J Morinello,420
 Niagara,Wheatfield/000/014,State Assembly,145,REP,Angelo J Morinello,396
+Niagara,TOTAL,State Assembly,145,REP,Angelo J Morinello,22145
 Niagara,Cambria/000/001,State Assembly,145,,Scatter,0
 Niagara,Cambria/000/002,State Assembly,145,,Scatter,0
 Niagara,Cambria/000/003,State Assembly,145,,Scatter,0
@@ -3985,6 +4017,7 @@ Niagara,Wheatfield/000/011,State Assembly,145,,Scatter,0
 Niagara,Wheatfield/000/012,State Assembly,145,,Scatter,0
 Niagara,Wheatfield/000/013,State Assembly,145,,Scatter,0
 Niagara,Wheatfield/000/014,State Assembly,145,,Scatter,0
+Niagara,TOTAL,State Assembly,145,,Scatter,27
 Niagara,Cambria/000/001,State Assembly,145,,Evan McMullin,0
 Niagara,Cambria/000/002,State Assembly,145,,Evan McMullin,0
 Niagara,Cambria/000/003,State Assembly,145,,Evan McMullin,0
@@ -4072,15 +4105,18 @@ Niagara,Wheatfield/000/011,State Assembly,145,,Evan McMullin,0
 Niagara,Wheatfield/000/012,State Assembly,145,,Evan McMullin,0
 Niagara,Wheatfield/000/013,State Assembly,145,,Evan McMullin,0
 Niagara,Wheatfield/000/014,State Assembly,145,,Evan McMullin,1
+Niagara,TOTAL,State Assembly,145,,Evan McMullin,3
 Niagara,Pendleton/000/001,State Assembly,146,DEM,Steven G Meyer,204
 Niagara,Pendleton/000/002,State Assembly,146,DEM,Steven G Meyer,167
 Niagara,Pendleton/000/003,State Assembly,146,DEM,Steven G Meyer,220
 Niagara,Pendleton/000/004,State Assembly,146,DEM,Steven G Meyer,201
 Niagara,Pendleton/000/005,State Assembly,146,DEM,Steven G Meyer,140
 Niagara,Pendleton/000/006,State Assembly,146,DEM,Steven G Meyer,191
+Niagara,TOTAL,State Assembly,146,DEM,Steven G Meyer,1123
 Niagara,Pendleton/000/001,State Assembly,146,REP,Raymond W Walter,315
 Niagara,Pendleton/000/002,State Assembly,146,REP,Raymond W Walter,297
 Niagara,Pendleton/000/003,State Assembly,146,REP,Raymond W Walter,419
 Niagara,Pendleton/000/004,State Assembly,146,REP,Raymond W Walter,462
 Niagara,Pendleton/000/005,State Assembly,146,REP,Raymond W Walter,329
 Niagara,Pendleton/000/006,State Assembly,146,REP,Raymond W Walter,402
+Niagara,TOTAL,State Assembly,146,REP,Raymond W Walter,2224
