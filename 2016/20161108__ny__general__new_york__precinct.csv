@@ -3487,14 +3487,14 @@ New York,002/65,President,,Democratic,Hillary Clinton / Tim Kaine,592,705,,36,5,
 New York,002/65,President,,Republican,Donald J. Trump / Michael R. Pence,110,705,,36,5,11,8,0,0
 New York,002/65,President,,Conservative,Donald J. Trump / Michael R. Pence,6,705,,36,5,11,8,0,0
 New York,002/65,President,,Green,Jill Stein / Ajamu Baraka,7,705,,36,5,11,8,0,0
-New York,002/67,President,,Libertarian,Gary Johnson / Bill Weld,8,1,172,,74,6,38,12,0,0
-New York,002/67,President,,Independence,Gary Johnson / Bill Weld,13,1,172,,74,6,38,12,0,0
-New York,002/67,President,,Working Families,Hillary Clinton / Tim Kaine,38,1,172,,74,6,38,12,0,0
-New York,002/67,President,,Women's Equality,Hillary Clinton / Tim Kaine,7,1,172,,74,6,38,12,0,0
-New York,002/67,President,,Democratic,Hillary Clinton / Tim Kaine,1055,1,172,,74,6,38,12,0,0
-New York,002/67,President,,Republican,Donald J. Trump / Michael R. Pence,112,1,172,,74,6,38,12,0,0
-New York,002/67,President,,Conservative,Donald J. Trump / Michael R. Pence,13,1,172,,74,6,38,12,0,0
-New York,002/67,President,,Green,Jill Stein / Ajamu Baraka,26,1,172,,74,6,38,12,0,0
+New York,002/67,President,,Libertarian,Gary Johnson / Bill Weld,8,172,,74,6,38,12,0,0
+New York,002/67,President,,Independence,Gary Johnson / Bill Weld,13,172,,74,6,38,12,0,0
+New York,002/67,President,,Working Families,Hillary Clinton / Tim Kaine,38,172,,74,6,38,12,0,0
+New York,002/67,President,,Women's Equality,Hillary Clinton / Tim Kaine,7,172,,74,6,38,12,0,0
+New York,002/67,President,,Democratic,Hillary Clinton / Tim Kaine,1055,172,,74,6,38,12,0,0
+New York,002/67,President,,Republican,Donald J. Trump / Michael R. Pence,112,172,,74,6,38,12,0,0
+New York,002/67,President,,Conservative,Donald J. Trump / Michael R. Pence,13,172,,74,6,38,12,0,0
+New York,002/67,President,,Green,Jill Stein / Ajamu Baraka,26,172,,74,6,38,12,0,0
 New York,002/66,President,,Libertarian,Gary Johnson / Bill Weld,10,421,,105,3,23,6,0,0
 New York,002/66,President,,Independence,Gary Johnson / Bill Weld,5,421,,105,3,23,6,0,0
 New York,002/66,President,,Working Families,Hillary Clinton / Tim Kaine,11,421,,105,3,23,6,0,0
@@ -13267,15 +13267,15 @@ New York,002/65,U.S. Senate,,Reform,Wendy Long,0,705,,36,5,11,,0,0
 New York,002/65,U.S. Senate,,Libertarian,Alex Merced,10,705,,36,5,11,,0,0
 New York,002/65,U.S. Senate,,Independence,Charles E. Schumer,6,705,,36,5,11,,0,0
 New York,002/65,U.S. Senate,,Green,Robin Laverne Wilson,8,705,,36,5,11,,0,0
-New York,002/67,U.S. Senate,,Republican,Wendy Long,120,1,172,,74,6,38,,0,0
-New York,002/67,U.S. Senate,,Democratic,Charles E. Schumer,1001,1,172,,74,6,38,,0,0
-New York,002/67,U.S. Senate,,Working Families,Charles E. Schumer,38,1,172,,74,6,38,,0,0
-New York,002/67,U.S. Senate,,Women's Equality,Charles E. Schumer,6,1,172,,74,6,38,,0,0
-New York,002/67,U.S. Senate,,Conservative,Wendy Long,18,1,172,,74,6,38,,0,0
-New York,002/67,U.S. Senate,,Reform,Wendy Long,0,1,172,,74,6,38,,0,0
-New York,002/67,U.S. Senate,,Libertarian,Alex Merced,15,1,172,,74,6,38,,0,0
-New York,002/67,U.S. Senate,,Independence,Charles E. Schumer,12,1,172,,74,6,38,,0,0
-New York,002/67,U.S. Senate,,Green,Robin Laverne Wilson,36,1,172,,74,6,38,,0,0
+New York,002/67,U.S. Senate,,Republican,Wendy Long,120,172,,74,6,38,,0,0
+New York,002/67,U.S. Senate,,Democratic,Charles E. Schumer,1001,172,,74,6,38,,0,0
+New York,002/67,U.S. Senate,,Working Families,Charles E. Schumer,38,172,,74,6,38,,0,0
+New York,002/67,U.S. Senate,,Women's Equality,Charles E. Schumer,6,172,,74,6,38,,0,0
+New York,002/67,U.S. Senate,,Conservative,Wendy Long,18,172,,74,6,38,,0,0
+New York,002/67,U.S. Senate,,Reform,Wendy Long,0,172,,74,6,38,,0,0
+New York,002/67,U.S. Senate,,Libertarian,Alex Merced,15,172,,74,6,38,,0,0
+New York,002/67,U.S. Senate,,Independence,Charles E. Schumer,12,172,,74,6,38,,0,0
+New York,002/67,U.S. Senate,,Green,Robin Laverne Wilson,36,172,,74,6,38,,0,0
 New York,002/66,U.S. Senate,,Republican,Wendy Long,105,421,,105,3,23,,0,0
 New York,002/66,U.S. Senate,,Democratic,Charles E. Schumer,391,421,,105,3,23,,0,0
 New York,002/66,U.S. Senate,,Working Families,Charles E. Schumer,8,421,,105,3,23,,0,0
@@ -21213,13 +21213,13 @@ New York,007/69,U.S. House,10,Women's Equality,Jerrold L. Nadler,4,591,,47,16,14
 New York,007/69,U.S. House,10,Stop the Iran Deal,Philip Rosenthal,1,591,,47,16,14,2,0,0
 New York,007/69,U.S. House,10,Democratic,Jerrold L. Nadler,497,591,,47,16,14,2,0,0
 New York,007/69,U.S. House,10,Conservative,Philip Rosenthal,8,591,,47,16,14,2,0,0
-New York,002/67,U.S. House,10,Independence,Philip Rosenthal,21,1,172,,74,6,38,1,0,0
-New York,002/67,U.S. House,10,Republican,Philip Rosenthal,143,1,172,,74,6,38,1,0,0
-New York,002/67,U.S. House,10,Working Families,Jerrold L. Nadler,49,1,172,,74,6,38,1,0,0
-New York,002/67,U.S. House,10,Women's Equality,Jerrold L. Nadler,7,1,172,,74,6,38,1,0,0
-New York,002/67,U.S. House,10,Stop the Iran Deal,Philip Rosenthal,1,1,172,,74,6,38,1,0,0
-New York,002/67,U.S. House,10,Democratic,Jerrold L. Nadler,972,1,172,,74,6,38,1,0,0
-New York,002/67,U.S. House,10,Conservative,Philip Rosenthal,22,1,172,,74,6,38,1,0,0
+New York,002/67,U.S. House,10,Independence,Philip Rosenthal,21,172,,74,6,38,1,0,0
+New York,002/67,U.S. House,10,Republican,Philip Rosenthal,143,172,,74,6,38,1,0,0
+New York,002/67,U.S. House,10,Working Families,Jerrold L. Nadler,49,172,,74,6,38,1,0,0
+New York,002/67,U.S. House,10,Women's Equality,Jerrold L. Nadler,7,172,,74,6,38,1,0,0
+New York,002/67,U.S. House,10,Stop the Iran Deal,Philip Rosenthal,1,172,,74,6,38,1,0,0
+New York,002/67,U.S. House,10,Democratic,Jerrold L. Nadler,972,172,,74,6,38,1,0,0
+New York,002/67,U.S. House,10,Conservative,Philip Rosenthal,22,172,,74,6,38,1,0,0
 New York,002/66,U.S. House,10,Independence,Philip Rosenthal,6,421,,105,3,23,,0,0
 New York,002/66,U.S. House,10,Republican,Philip Rosenthal,119,421,,105,3,23,,0,0
 New York,002/66,U.S. House,10,Working Families,Jerrold L. Nadler,16,421,,105,3,23,,0,0
@@ -26150,9 +26150,9 @@ New York,061/66,State Senate,27,Democratic,Brad M. Hoylman,565,657,,48,24,14,2,0
 New York,085/75,State Senate,27,Working Families,Brad M. Hoylman,16,446,,26,5,16,,0,0
 New York,085/75,State Senate,27,Roberts Party,Stephen Roberts,15,446,,26,5,16,,0,0
 New York,085/75,State Senate,27,Democratic,Brad M. Hoylman,396,446,,26,5,16,,0,0
-New York,002/67,State Senate,27,Working Families,Brad M. Hoylman,75,1,172,,74,6,38,3,0,0
-New York,002/67,State Senate,27,Roberts Party,Stephen Roberts,57,1,172,,74,6,38,3,0,0
-New York,002/67,State Senate,27,Democratic,Brad M. Hoylman,1014,1,172,,74,6,38,3,0,0
+New York,002/67,State Senate,27,Working Families,Brad M. Hoylman,75,172,,74,6,38,3,0,0
+New York,002/67,State Senate,27,Roberts Party,Stephen Roberts,57,172,,74,6,38,3,0,0
+New York,002/67,State Senate,27,Democratic,Brad M. Hoylman,1014,172,,74,6,38,3,0,0
 New York,037/67,State Senate,27,Working Families,Brad M. Hoylman,27,598,,34,21,14,,0,0
 New York,037/67,State Senate,27,Roberts Party,Stephen Roberts,30,598,,34,21,14,,0,0
 New York,037/67,State Senate,27,Democratic,Brad M. Hoylman,495,598,,34,21,14,,0,0
@@ -30695,10 +30695,10 @@ New York,061/67,State Assembly,67,Republican,Hyman Drusin,88,617,,40,17,17,,0,0
 New York,061/67,State Assembly,67,Working Families,Linda B. Rosenthal,33,617,,40,17,17,,0,0
 New York,061/67,State Assembly,67,Reform,Hyman Drusin,0,617,,40,17,17,,0,0
 New York,061/67,State Assembly,67,Democratic,Linda B. Rosenthal,515,617,,40,17,17,,0,0
-New York,002/67,State Assembly,67,Republican,Hyman Drusin,141,1,172,,74,6,38,3,0,0
-New York,002/67,State Assembly,67,Working Families,Linda B. Rosenthal,58,1,172,,74,6,38,3,0,0
-New York,002/67,State Assembly,67,Reform,Hyman Drusin,10,1,172,,74,6,38,3,0,0
-New York,002/67,State Assembly,67,Democratic,Linda B. Rosenthal,995,1,172,,74,6,38,3,0,0
+New York,002/67,State Assembly,67,Republican,Hyman Drusin,141,172,,74,6,38,3,0,0
+New York,002/67,State Assembly,67,Working Families,Linda B. Rosenthal,58,172,,74,6,38,3,0,0
+New York,002/67,State Assembly,67,Reform,Hyman Drusin,10,172,,74,6,38,3,0,0
+New York,002/67,State Assembly,67,Democratic,Linda B. Rosenthal,995,172,,74,6,38,3,0,0
 New York,037/67,State Assembly,67,Republican,Hyman Drusin,98,598,,34,21,14,1,0,0
 New York,037/67,State Assembly,67,Working Families,Linda B. Rosenthal,24,598,,34,21,14,1,0,0
 New York,037/67,State Assembly,67,Reform,Hyman Drusin,2,598,,34,21,14,1,0,0
