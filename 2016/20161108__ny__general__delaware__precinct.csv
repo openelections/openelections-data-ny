@@ -1,0 +1,2287 @@
+county,precinct,office,district,party,candidate,votes
+Delaware,Andes 1,President,,,Total,483
+Delaware,Andes 2,President,,,Total,228
+Delaware,Bovina 1,President,,,Total,401
+Delaware,Colchester 1,President,,,Total,426
+Delaware,Colchester 2,President,,,Total,206
+Delaware,Colchester 3,President,,,Total,164
+Delaware,Colchester 4,President,,,Total,205
+Delaware,Davenport 1,President,,,Total,421
+Delaware,Davenport 2,President,,,Total,742
+Delaware,Delhi 1,President,,,Total,451
+Delaware,Delhi 2,President,,,Total,381
+Delaware,Delhi 3,President,,,Total,397
+Delaware,Delhi 4,President,,,Total,371
+Delaware,Deposit 1,President,,,Total,422
+Delaware,Deposit 2,President,,,Total,215
+Delaware,Franklin 1,President,,,Total,389
+Delaware,Franklin 2,President,,,Total,325
+Delaware,Franklin 3,President,,,Total,506
+Delaware,Hamden 1,President,,,Total,604
+Delaware,Hancock 1,President,,,Total,170
+Delaware,Hancock 2,President,,,Total,208
+Delaware,Hancock 3,President,,,Total,352
+Delaware,Hancock 4,President,,,Total,189
+Delaware,Hancock 5,President,,,Total,136
+Delaware,Hancock 6,President,,,Total,195
+Delaware,Harpersfield 1,President,,,Total,682
+Delaware,Kortright 1,President,,,Total,379
+Delaware,Kortright 2,President,,,Total,382
+Delaware,Masonville 1,President,,,Total,524
+Delaware,Meredith 1,President,,,Total,549
+Delaware,Meredith 2,President,,,Total,259
+Delaware,Middletown 1,President,,,Total,390
+Delaware,Middletown 2,President,,,Total,480
+Delaware,Middletown 3,President,,,Total,272
+Delaware,Middletown 4,President,,,Total,177
+Delaware,Middletown 5,President,,,Total,262
+Delaware,Roxbury 1,President,,,Total,400
+Delaware,Roxbury 2,President,,,Total,189
+Delaware,Roxbury 3,President,,,Total,322
+Delaware,Roxbury 4,President,,,Total,308
+Delaware,Sidney 1,President,,,Total,336
+Delaware,Sidney 2,President,,,Total,320
+Delaware,Sidney 3,President,,,Total,302
+Delaware,Sidney 4,President,,,Total,290
+Delaware,Sidney 5,President,,,Total,239
+Delaware,Sidney 6,President,,,Total,408
+Delaware,Sidney 7,President,,,Total,299
+Delaware,Stamford 1,President,,,Total,511
+Delaware,Stamford 2,President,,,Total,397
+Delaware,Tompkins 1,President,,,Total,463
+Delaware,Walton 1,President,,,Total,513
+Delaware,Walton 2,President,,,Total,371
+Delaware,Walton 3,President,,,Total,393
+Delaware,Walton 4,President,,,Total,474
+Delaware,Walton 5,President,,,Total,454
+Delaware,Andes 1,President,,DEM,Hillary Clinton,193
+Delaware,Andes 2,President,,DEM,Hillary Clinton,65
+Delaware,Bovina 1,President,,DEM,Hillary Clinton,149
+Delaware,Colchester 1,President,,DEM,Hillary Clinton,100
+Delaware,Colchester 2,President,,DEM,Hillary Clinton,50
+Delaware,Colchester 3,President,,DEM,Hillary Clinton,49
+Delaware,Colchester 4,President,,DEM,Hillary Clinton,35
+Delaware,Davenport 1,President,,DEM,Hillary Clinton,114
+Delaware,Davenport 2,President,,DEM,Hillary Clinton,248
+Delaware,Delhi 1,President,,DEM,Hillary Clinton,154
+Delaware,Delhi 2,President,,DEM,Hillary Clinton,131
+Delaware,Delhi 3,President,,DEM,Hillary Clinton,141
+Delaware,Delhi 4,President,,DEM,Hillary Clinton,173
+Delaware,Deposit 1,President,,DEM,Hillary Clinton,110
+Delaware,Deposit 2,President,,DEM,Hillary Clinton,60
+Delaware,Franklin 1,President,,DEM,Hillary Clinton,112
+Delaware,Franklin 2,President,,DEM,Hillary Clinton,103
+Delaware,Franklin 3,President,,DEM,Hillary Clinton,159
+Delaware,Hamden 1,President,,DEM,Hillary Clinton,163
+Delaware,Hancock 1,President,,DEM,Hillary Clinton,33
+Delaware,Hancock 2,President,,DEM,Hillary Clinton,54
+Delaware,Hancock 3,President,,DEM,Hillary Clinton,90
+Delaware,Hancock 4,President,,DEM,Hillary Clinton,39
+Delaware,Hancock 5,President,,DEM,Hillary Clinton,20
+Delaware,Hancock 6,President,,DEM,Hillary Clinton,49
+Delaware,Harpersfield 1,President,,DEM,Hillary Clinton,188
+Delaware,Kortright 1,President,,DEM,Hillary Clinton,112
+Delaware,Kortright 2,President,,DEM,Hillary Clinton,108
+Delaware,Masonville 1,President,,DEM,Hillary Clinton,123
+Delaware,Meredith 1,President,,DEM,Hillary Clinton,168
+Delaware,Meredith 2,President,,DEM,Hillary Clinton,85
+Delaware,Middletown 1,President,,DEM,Hillary Clinton,125
+Delaware,Middletown 2,President,,DEM,Hillary Clinton,229
+Delaware,Middletown 3,President,,DEM,Hillary Clinton,89
+Delaware,Middletown 4,President,,DEM,Hillary Clinton,75
+Delaware,Middletown 5,President,,DEM,Hillary Clinton,95
+Delaware,Roxbury 1,President,,DEM,Hillary Clinton,73
+Delaware,Roxbury 2,President,,DEM,Hillary Clinton,75
+Delaware,Roxbury 3,President,,DEM,Hillary Clinton,145
+Delaware,Roxbury 4,President,,DEM,Hillary Clinton,113
+Delaware,Sidney 1,President,,DEM,Hillary Clinton,86
+Delaware,Sidney 2,President,,DEM,Hillary Clinton,132
+Delaware,Sidney 3,President,,DEM,Hillary Clinton,88
+Delaware,Sidney 4,President,,DEM,Hillary Clinton,116
+Delaware,Sidney 5,President,,DEM,Hillary Clinton,94
+Delaware,Sidney 6,President,,DEM,Hillary Clinton,186
+Delaware,Sidney 7,President,,DEM,Hillary Clinton,102
+Delaware,Stamford 1,President,,DEM,Hillary Clinton,154
+Delaware,Stamford 2,President,,DEM,Hillary Clinton,116
+Delaware,Tompkins 1,President,,DEM,Hillary Clinton,102
+Delaware,Walton 1,President,,DEM,Hillary Clinton,144
+Delaware,Walton 2,President,,DEM,Hillary Clinton,132
+Delaware,Walton 3,President,,DEM,Hillary Clinton,113
+Delaware,Walton 4,President,,DEM,Hillary Clinton,128
+Delaware,Walton 5,President,,DEM,Hillary Clinton,104
+Delaware,Andes 1,President,,REP,Donald J Trump,216
+Delaware,Andes 2,President,,REP,Donald J Trump,131
+Delaware,Bovina 1,President,,REP,Donald J Trump,181
+Delaware,Colchester 1,President,,REP,Donald J Trump,275
+Delaware,Colchester 2,President,,REP,Donald J Trump,121
+Delaware,Colchester 3,President,,REP,Donald J Trump,103
+Delaware,Colchester 4,President,,REP,Donald J Trump,141
+Delaware,Davenport 1,President,,REP,Donald J Trump,245
+Delaware,Davenport 2,President,,REP,Donald J Trump,402
+Delaware,Delhi 1,President,,REP,Donald J Trump,208
+Delaware,Delhi 2,President,,REP,Donald J Trump,173
+Delaware,Delhi 3,President,,REP,Donald J Trump,179
+Delaware,Delhi 4,President,,REP,Donald J Trump,135
+Delaware,Deposit 1,President,,REP,Donald J Trump,246
+Delaware,Deposit 2,President,,REP,Donald J Trump,118
+Delaware,Franklin 1,President,,REP,Donald J Trump,227
+Delaware,Franklin 2,President,,REP,Donald J Trump,144
+Delaware,Franklin 3,President,,REP,Donald J Trump,280
+Delaware,Hamden 1,President,,REP,Donald J Trump,324
+Delaware,Hancock 1,President,,REP,Donald J Trump,117
+Delaware,Hancock 2,President,,REP,Donald J Trump,137
+Delaware,Hancock 3,President,,REP,Donald J Trump,233
+Delaware,Hancock 4,President,,REP,Donald J Trump,129
+Delaware,Hancock 5,President,,REP,Donald J Trump,103
+Delaware,Hancock 6,President,,REP,Donald J Trump,127
+Delaware,Harpersfield 1,President,,REP,Donald J Trump,376
+Delaware,Kortright 1,President,,REP,Donald J Trump,209
+Delaware,Kortright 2,President,,REP,Donald J Trump,230
+Delaware,Masonville 1,President,,REP,Donald J Trump,328
+Delaware,Meredith 1,President,,REP,Donald J Trump,290
+Delaware,Meredith 2,President,,REP,Donald J Trump,130
+Delaware,Middletown 1,President,,REP,Donald J Trump,205
+Delaware,Middletown 2,President,,REP,Donald J Trump,168
+Delaware,Middletown 3,President,,REP,Donald J Trump,137
+Delaware,Middletown 4,President,,REP,Donald J Trump,81
+Delaware,Middletown 5,President,,REP,Donald J Trump,127
+Delaware,Roxbury 1,President,,REP,Donald J Trump,265
+Delaware,Roxbury 2,President,,REP,Donald J Trump,95
+Delaware,Roxbury 3,President,,REP,Donald J Trump,139
+Delaware,Roxbury 4,President,,REP,Donald J Trump,166
+Delaware,Sidney 1,President,,REP,Donald J Trump,188
+Delaware,Sidney 2,President,,REP,Donald J Trump,140
+Delaware,Sidney 3,President,,REP,Donald J Trump,174
+Delaware,Sidney 4,President,,REP,Donald J Trump,130
+Delaware,Sidney 5,President,,REP,Donald J Trump,116
+Delaware,Sidney 6,President,,REP,Donald J Trump,174
+Delaware,Sidney 7,President,,REP,Donald J Trump,150
+Delaware,Stamford 1,President,,REP,Donald J Trump,280
+Delaware,Stamford 2,President,,REP,Donald J Trump,229
+Delaware,Tompkins 1,President,,REP,Donald J Trump,301
+Delaware,Walton 1,President,,REP,Donald J Trump,302
+Delaware,Walton 2,President,,REP,Donald J Trump,185
+Delaware,Walton 3,President,,REP,Donald J Trump,235
+Delaware,Walton 4,President,,REP,Donald J Trump,285
+Delaware,Walton 5,President,,REP,Donald J Trump,297
+Delaware,Andes 1,President,,CON,Donald J Trump,27
+Delaware,Andes 2,President,,CON,Donald J Trump,15
+Delaware,Bovina 1,President,,CON,Donald J Trump,26
+Delaware,Colchester 1,President,,CON,Donald J Trump,22
+Delaware,Colchester 2,President,,CON,Donald J Trump,18
+Delaware,Colchester 3,President,,CON,Donald J Trump,6
+Delaware,Colchester 4,President,,CON,Donald J Trump,11
+Delaware,Davenport 1,President,,CON,Donald J Trump,33
+Delaware,Davenport 2,President,,CON,Donald J Trump,32
+Delaware,Delhi 1,President,,CON,Donald J Trump,26
+Delaware,Delhi 2,President,,CON,Donald J Trump,28
+Delaware,Delhi 3,President,,CON,Donald J Trump,18
+Delaware,Delhi 4,President,,CON,Donald J Trump,11
+Delaware,Deposit 1,President,,CON,Donald J Trump,26
+Delaware,Deposit 2,President,,CON,Donald J Trump,15
+Delaware,Franklin 1,President,,CON,Donald J Trump,20
+Delaware,Franklin 2,President,,CON,Donald J Trump,22
+Delaware,Franklin 3,President,,CON,Donald J Trump,16
+Delaware,Hamden 1,President,,CON,Donald J Trump,44
+Delaware,Hancock 1,President,,CON,Donald J Trump,9
+Delaware,Hancock 2,President,,CON,Donald J Trump,6
+Delaware,Hancock 3,President,,CON,Donald J Trump,11
+Delaware,Hancock 4,President,,CON,Donald J Trump,15
+Delaware,Hancock 5,President,,CON,Donald J Trump,7
+Delaware,Hancock 6,President,,CON,Donald J Trump,9
+Delaware,Harpersfield 1,President,,CON,Donald J Trump,50
+Delaware,Kortright 1,President,,CON,Donald J Trump,27
+Delaware,Kortright 2,President,,CON,Donald J Trump,19
+Delaware,Masonville 1,President,,CON,Donald J Trump,29
+Delaware,Meredith 1,President,,CON,Donald J Trump,27
+Delaware,Meredith 2,President,,CON,Donald J Trump,25
+Delaware,Middletown 1,President,,CON,Donald J Trump,25
+Delaware,Middletown 2,President,,CON,Donald J Trump,25
+Delaware,Middletown 3,President,,CON,Donald J Trump,19
+Delaware,Middletown 4,President,,CON,Donald J Trump,8
+Delaware,Middletown 5,President,,CON,Donald J Trump,16
+Delaware,Roxbury 1,President,,CON,Donald J Trump,35
+Delaware,Roxbury 2,President,,CON,Donald J Trump,8
+Delaware,Roxbury 3,President,,CON,Donald J Trump,12
+Delaware,Roxbury 4,President,,CON,Donald J Trump,14
+Delaware,Sidney 1,President,,CON,Donald J Trump,28
+Delaware,Sidney 2,President,,CON,Donald J Trump,17
+Delaware,Sidney 3,President,,CON,Donald J Trump,19
+Delaware,Sidney 4,President,,CON,Donald J Trump,8
+Delaware,Sidney 5,President,,CON,Donald J Trump,11
+Delaware,Sidney 6,President,,CON,Donald J Trump,12
+Delaware,Sidney 7,President,,CON,Donald J Trump,15
+Delaware,Stamford 1,President,,CON,Donald J Trump,34
+Delaware,Stamford 2,President,,CON,Donald J Trump,15
+Delaware,Tompkins 1,President,,CON,Donald J Trump,31
+Delaware,Walton 1,President,,CON,Donald J Trump,34
+Delaware,Walton 2,President,,CON,Donald J Trump,13
+Delaware,Walton 3,President,,CON,Donald J Trump,14
+Delaware,Walton 4,President,,CON,Donald J Trump,30
+Delaware,Walton 5,President,,CON,Donald J Trump,22
+Delaware,Andes 1,President,,GRE,Jill Stein,11
+Delaware,Andes 2,President,,GRE,Jill Stein,4
+Delaware,Bovina 1,President,,GRE,Jill Stein,13
+Delaware,Colchester 1,President,,GRE,Jill Stein,4
+Delaware,Colchester 2,President,,GRE,Jill Stein,4
+Delaware,Colchester 3,President,,GRE,Jill Stein,1
+Delaware,Colchester 4,President,,GRE,Jill Stein,2
+Delaware,Davenport 1,President,,GRE,Jill Stein,7
+Delaware,Davenport 2,President,,GRE,Jill Stein,9
+Delaware,Delhi 1,President,,GRE,Jill Stein,18
+Delaware,Delhi 2,President,,GRE,Jill Stein,9
+Delaware,Delhi 3,President,,GRE,Jill Stein,11
+Delaware,Delhi 4,President,,GRE,Jill Stein,14
+Delaware,Deposit 1,President,,GRE,Jill Stein,9
+Delaware,Deposit 2,President,,GRE,Jill Stein,7
+Delaware,Franklin 1,President,,GRE,Jill Stein,12
+Delaware,Franklin 2,President,,GRE,Jill Stein,12
+Delaware,Franklin 3,President,,GRE,Jill Stein,9
+Delaware,Hamden 1,President,,GRE,Jill Stein,17
+Delaware,Hancock 1,President,,GRE,Jill Stein,1
+Delaware,Hancock 2,President,,GRE,Jill Stein,1
+Delaware,Hancock 3,President,,GRE,Jill Stein,5
+Delaware,Hancock 4,President,,GRE,Jill Stein,2
+Delaware,Hancock 5,President,,GRE,Jill Stein,0
+Delaware,Hancock 6,President,,GRE,Jill Stein,0
+Delaware,Harpersfield 1,President,,GRE,Jill Stein,16
+Delaware,Kortright 1,President,,GRE,Jill Stein,8
+Delaware,Kortright 2,President,,GRE,Jill Stein,2
+Delaware,Masonville 1,President,,GRE,Jill Stein,10
+Delaware,Meredith 1,President,,GRE,Jill Stein,12
+Delaware,Meredith 2,President,,GRE,Jill Stein,4
+Delaware,Middletown 1,President,,GRE,Jill Stein,9
+Delaware,Middletown 2,President,,GRE,Jill Stein,10
+Delaware,Middletown 3,President,,GRE,Jill Stein,10
+Delaware,Middletown 4,President,,GRE,Jill Stein,2
+Delaware,Middletown 5,President,,GRE,Jill Stein,4
+Delaware,Roxbury 1,President,,GRE,Jill Stein,4
+Delaware,Roxbury 2,President,,GRE,Jill Stein,2
+Delaware,Roxbury 3,President,,GRE,Jill Stein,2
+Delaware,Roxbury 4,President,,GRE,Jill Stein,0
+Delaware,Sidney 1,President,,GRE,Jill Stein,12
+Delaware,Sidney 2,President,,GRE,Jill Stein,9
+Delaware,Sidney 3,President,,GRE,Jill Stein,4
+Delaware,Sidney 4,President,,GRE,Jill Stein,4
+Delaware,Sidney 5,President,,GRE,Jill Stein,2
+Delaware,Sidney 6,President,,GRE,Jill Stein,6
+Delaware,Sidney 7,President,,GRE,Jill Stein,14
+Delaware,Stamford 1,President,,GRE,Jill Stein,6
+Delaware,Stamford 2,President,,GRE,Jill Stein,6
+Delaware,Tompkins 1,President,,GRE,Jill Stein,9
+Delaware,Walton 1,President,,GRE,Jill Stein,4
+Delaware,Walton 2,President,,GRE,Jill Stein,12
+Delaware,Walton 3,President,,GRE,Jill Stein,5
+Delaware,Walton 4,President,,GRE,Jill Stein,5
+Delaware,Walton 5,President,,GRE,Jill Stein,2
+Delaware,Andes 1,President,,WOR,Hillary Clinton,9
+Delaware,Andes 2,President,,WOR,Hillary Clinton,5
+Delaware,Bovina 1,President,,WOR,Hillary Clinton,13
+Delaware,Colchester 1,President,,WOR,Hillary Clinton,6
+Delaware,Colchester 2,President,,WOR,Hillary Clinton,3
+Delaware,Colchester 3,President,,WOR,Hillary Clinton,1
+Delaware,Colchester 4,President,,WOR,Hillary Clinton,3
+Delaware,Davenport 1,President,,WOR,Hillary Clinton,1
+Delaware,Davenport 2,President,,WOR,Hillary Clinton,15
+Delaware,Delhi 1,President,,WOR,Hillary Clinton,13
+Delaware,Delhi 2,President,,WOR,Hillary Clinton,10
+Delaware,Delhi 3,President,,WOR,Hillary Clinton,6
+Delaware,Delhi 4,President,,WOR,Hillary Clinton,8
+Delaware,Deposit 1,President,,WOR,Hillary Clinton,8
+Delaware,Deposit 2,President,,WOR,Hillary Clinton,3
+Delaware,Franklin 1,President,,WOR,Hillary Clinton,5
+Delaware,Franklin 2,President,,WOR,Hillary Clinton,13
+Delaware,Franklin 3,President,,WOR,Hillary Clinton,17
+Delaware,Hamden 1,President,,WOR,Hillary Clinton,14
+Delaware,Hancock 1,President,,WOR,Hillary Clinton,3
+Delaware,Hancock 2,President,,WOR,Hillary Clinton,3
+Delaware,Hancock 3,President,,WOR,Hillary Clinton,4
+Delaware,Hancock 4,President,,WOR,Hillary Clinton,4
+Delaware,Hancock 5,President,,WOR,Hillary Clinton,0
+Delaware,Hancock 6,President,,WOR,Hillary Clinton,1
+Delaware,Harpersfield 1,President,,WOR,Hillary Clinton,15
+Delaware,Kortright 1,President,,WOR,Hillary Clinton,8
+Delaware,Kortright 2,President,,WOR,Hillary Clinton,3
+Delaware,Masonville 1,President,,WOR,Hillary Clinton,5
+Delaware,Meredith 1,President,,WOR,Hillary Clinton,13
+Delaware,Meredith 2,President,,WOR,Hillary Clinton,5
+Delaware,Middletown 1,President,,WOR,Hillary Clinton,4
+Delaware,Middletown 2,President,,WOR,Hillary Clinton,11
+Delaware,Middletown 3,President,,WOR,Hillary Clinton,4
+Delaware,Middletown 4,President,,WOR,Hillary Clinton,5
+Delaware,Middletown 5,President,,WOR,Hillary Clinton,6
+Delaware,Roxbury 1,President,,WOR,Hillary Clinton,5
+Delaware,Roxbury 2,President,,WOR,Hillary Clinton,2
+Delaware,Roxbury 3,President,,WOR,Hillary Clinton,11
+Delaware,Roxbury 4,President,,WOR,Hillary Clinton,4
+Delaware,Sidney 1,President,,WOR,Hillary Clinton,3
+Delaware,Sidney 2,President,,WOR,Hillary Clinton,4
+Delaware,Sidney 3,President,,WOR,Hillary Clinton,4
+Delaware,Sidney 4,President,,WOR,Hillary Clinton,7
+Delaware,Sidney 5,President,,WOR,Hillary Clinton,4
+Delaware,Sidney 6,President,,WOR,Hillary Clinton,3
+Delaware,Sidney 7,President,,WOR,Hillary Clinton,3
+Delaware,Stamford 1,President,,WOR,Hillary Clinton,7
+Delaware,Stamford 2,President,,WOR,Hillary Clinton,6
+Delaware,Tompkins 1,President,,WOR,Hillary Clinton,5
+Delaware,Walton 1,President,,WOR,Hillary Clinton,1
+Delaware,Walton 2,President,,WOR,Hillary Clinton,4
+Delaware,Walton 3,President,,WOR,Hillary Clinton,2
+Delaware,Walton 4,President,,WOR,Hillary Clinton,5
+Delaware,Walton 5,President,,WOR,Hillary Clinton,6
+Delaware,Andes 1,President,,IND,Gary Johnson,10
+Delaware,Andes 2,President,,IND,Gary Johnson,2
+Delaware,Bovina 1,President,,IND,Gary Johnson,9
+Delaware,Colchester 1,President,,IND,Gary Johnson,9
+Delaware,Colchester 2,President,,IND,Gary Johnson,2
+Delaware,Colchester 3,President,,IND,Gary Johnson,2
+Delaware,Colchester 4,President,,IND,Gary Johnson,3
+Delaware,Davenport 1,President,,IND,Gary Johnson,7
+Delaware,Davenport 2,President,,IND,Gary Johnson,12
+Delaware,Delhi 1,President,,IND,Gary Johnson,14
+Delaware,Delhi 2,President,,IND,Gary Johnson,14
+Delaware,Delhi 3,President,,IND,Gary Johnson,28
+Delaware,Delhi 4,President,,IND,Gary Johnson,12
+Delaware,Deposit 1,President,,IND,Gary Johnson,12
+Delaware,Deposit 2,President,,IND,Gary Johnson,4
+Delaware,Franklin 1,President,,IND,Gary Johnson,5
+Delaware,Franklin 2,President,,IND,Gary Johnson,17
+Delaware,Franklin 3,President,,IND,Gary Johnson,16
+Delaware,Hamden 1,President,,IND,Gary Johnson,20
+Delaware,Hancock 1,President,,IND,Gary Johnson,1
+Delaware,Hancock 2,President,,IND,Gary Johnson,4
+Delaware,Hancock 3,President,,IND,Gary Johnson,4
+Delaware,Hancock 4,President,,IND,Gary Johnson,0
+Delaware,Hancock 5,President,,IND,Gary Johnson,2
+Delaware,Hancock 6,President,,IND,Gary Johnson,1
+Delaware,Harpersfield 1,President,,IND,Gary Johnson,9
+Delaware,Kortright 1,President,,IND,Gary Johnson,6
+Delaware,Kortright 2,President,,IND,Gary Johnson,6
+Delaware,Masonville 1,President,,IND,Gary Johnson,16
+Delaware,Meredith 1,President,,IND,Gary Johnson,17
+Delaware,Meredith 2,President,,IND,Gary Johnson,4
+Delaware,Middletown 1,President,,IND,Gary Johnson,9
+Delaware,Middletown 2,President,,IND,Gary Johnson,13
+Delaware,Middletown 3,President,,IND,Gary Johnson,6
+Delaware,Middletown 4,President,,IND,Gary Johnson,3
+Delaware,Middletown 5,President,,IND,Gary Johnson,7
+Delaware,Roxbury 1,President,,IND,Gary Johnson,10
+Delaware,Roxbury 2,President,,IND,Gary Johnson,3
+Delaware,Roxbury 3,President,,IND,Gary Johnson,3
+Delaware,Roxbury 4,President,,IND,Gary Johnson,5
+Delaware,Sidney 1,President,,IND,Gary Johnson,8
+Delaware,Sidney 2,President,,IND,Gary Johnson,8
+Delaware,Sidney 3,President,,IND,Gary Johnson,9
+Delaware,Sidney 4,President,,IND,Gary Johnson,12
+Delaware,Sidney 5,President,,IND,Gary Johnson,2
+Delaware,Sidney 6,President,,IND,Gary Johnson,11
+Delaware,Sidney 7,President,,IND,Gary Johnson,8
+Delaware,Stamford 1,President,,IND,Gary Johnson,12
+Delaware,Stamford 2,President,,IND,Gary Johnson,15
+Delaware,Tompkins 1,President,,IND,Gary Johnson,10
+Delaware,Walton 1,President,,IND,Gary Johnson,18
+Delaware,Walton 2,President,,IND,Gary Johnson,8
+Delaware,Walton 3,President,,IND,Gary Johnson,9
+Delaware,Walton 4,President,,IND,Gary Johnson,9
+Delaware,Walton 5,President,,IND,Gary Johnson,10
+Delaware,Andes 1,President,,WEP,Hillary Clinton,1
+Delaware,Andes 2,President,,WEP,Hillary Clinton,2
+Delaware,Bovina 1,President,,WEP,Hillary Clinton,5
+Delaware,Colchester 1,President,,WEP,Hillary Clinton,2
+Delaware,Colchester 2,President,,WEP,Hillary Clinton,0
+Delaware,Colchester 3,President,,WEP,Hillary Clinton,1
+Delaware,Colchester 4,President,,WEP,Hillary Clinton,0
+Delaware,Davenport 1,President,,WEP,Hillary Clinton,0
+Delaware,Davenport 2,President,,WEP,Hillary Clinton,6
+Delaware,Delhi 1,President,,WEP,Hillary Clinton,3
+Delaware,Delhi 2,President,,WEP,Hillary Clinton,1
+Delaware,Delhi 3,President,,WEP,Hillary Clinton,0
+Delaware,Delhi 4,President,,WEP,Hillary Clinton,3
+Delaware,Deposit 1,President,,WEP,Hillary Clinton,0
+Delaware,Deposit 2,President,,WEP,Hillary Clinton,1
+Delaware,Franklin 1,President,,WEP,Hillary Clinton,0
+Delaware,Franklin 2,President,,WEP,Hillary Clinton,4
+Delaware,Franklin 3,President,,WEP,Hillary Clinton,0
+Delaware,Hamden 1,President,,WEP,Hillary Clinton,4
+Delaware,Hancock 1,President,,WEP,Hillary Clinton,2
+Delaware,Hancock 2,President,,WEP,Hillary Clinton,1
+Delaware,Hancock 3,President,,WEP,Hillary Clinton,1
+Delaware,Hancock 4,President,,WEP,Hillary Clinton,0
+Delaware,Hancock 5,President,,WEP,Hillary Clinton,1
+Delaware,Hancock 6,President,,WEP,Hillary Clinton,1
+Delaware,Harpersfield 1,President,,WEP,Hillary Clinton,7
+Delaware,Kortright 1,President,,WEP,Hillary Clinton,2
+Delaware,Kortright 2,President,,WEP,Hillary Clinton,3
+Delaware,Masonville 1,President,,WEP,Hillary Clinton,1
+Delaware,Meredith 1,President,,WEP,Hillary Clinton,4
+Delaware,Meredith 2,President,,WEP,Hillary Clinton,0
+Delaware,Middletown 1,President,,WEP,Hillary Clinton,2
+Delaware,Middletown 2,President,,WEP,Hillary Clinton,8
+Delaware,Middletown 3,President,,WEP,Hillary Clinton,2
+Delaware,Middletown 4,President,,WEP,Hillary Clinton,1
+Delaware,Middletown 5,President,,WEP,Hillary Clinton,1
+Delaware,Roxbury 1,President,,WEP,Hillary Clinton,2
+Delaware,Roxbury 2,President,,WEP,Hillary Clinton,0
+Delaware,Roxbury 3,President,,WEP,Hillary Clinton,2
+Delaware,Roxbury 4,President,,WEP,Hillary Clinton,0
+Delaware,Sidney 1,President,,WEP,Hillary Clinton,1
+Delaware,Sidney 2,President,,WEP,Hillary Clinton,2
+Delaware,Sidney 3,President,,WEP,Hillary Clinton,1
+Delaware,Sidney 4,President,,WEP,Hillary Clinton,3
+Delaware,Sidney 5,President,,WEP,Hillary Clinton,3
+Delaware,Sidney 6,President,,WEP,Hillary Clinton,4
+Delaware,Sidney 7,President,,WEP,Hillary Clinton,1
+Delaware,Stamford 1,President,,WEP,Hillary Clinton,1
+Delaware,Stamford 2,President,,WEP,Hillary Clinton,3
+Delaware,Tompkins 1,President,,WEP,Hillary Clinton,1
+Delaware,Walton 1,President,,WEP,Hillary Clinton,0
+Delaware,Walton 2,President,,WEP,Hillary Clinton,1
+Delaware,Walton 3,President,,WEP,Hillary Clinton,1
+Delaware,Walton 4,President,,WEP,Hillary Clinton,2
+Delaware,Walton 5,President,,WEP,Hillary Clinton,2
+Delaware,Andes 1,President,,LBT,Gary Johnson,4
+Delaware,Andes 2,President,,LBT,Gary Johnson,1
+Delaware,Bovina 1,President,,LBT,Gary Johnson,2
+Delaware,Colchester 1,President,,LBT,Gary Johnson,4
+Delaware,Colchester 2,President,,LBT,Gary Johnson,1
+Delaware,Colchester 3,President,,LBT,Gary Johnson,0
+Delaware,Colchester 4,President,,LBT,Gary Johnson,3
+Delaware,Davenport 1,President,,LBT,Gary Johnson,5
+Delaware,Davenport 2,President,,LBT,Gary Johnson,6
+Delaware,Delhi 1,President,,LBT,Gary Johnson,3
+Delaware,Delhi 2,President,,LBT,Gary Johnson,5
+Delaware,Delhi 3,President,,LBT,Gary Johnson,6
+Delaware,Delhi 4,President,,LBT,Gary Johnson,2
+Delaware,Deposit 1,President,,LBT,Gary Johnson,3
+Delaware,Deposit 2,President,,LBT,Gary Johnson,2
+Delaware,Franklin 1,President,,LBT,Gary Johnson,2
+Delaware,Franklin 2,President,,LBT,Gary Johnson,3
+Delaware,Franklin 3,President,,LBT,Gary Johnson,2
+Delaware,Hamden 1,President,,LBT,Gary Johnson,7
+Delaware,Hancock 1,President,,LBT,Gary Johnson,1
+Delaware,Hancock 2,President,,LBT,Gary Johnson,0
+Delaware,Hancock 3,President,,LBT,Gary Johnson,0
+Delaware,Hancock 4,President,,LBT,Gary Johnson,0
+Delaware,Hancock 5,President,,LBT,Gary Johnson,1
+Delaware,Hancock 6,President,,LBT,Gary Johnson,2
+Delaware,Harpersfield 1,President,,LBT,Gary Johnson,6
+Delaware,Kortright 1,President,,LBT,Gary Johnson,1
+Delaware,Kortright 2,President,,LBT,Gary Johnson,5
+Delaware,Masonville 1,President,,LBT,Gary Johnson,8
+Delaware,Meredith 1,President,,LBT,Gary Johnson,7
+Delaware,Meredith 2,President,,LBT,Gary Johnson,2
+Delaware,Middletown 1,President,,LBT,Gary Johnson,3
+Delaware,Middletown 2,President,,LBT,Gary Johnson,5
+Delaware,Middletown 3,President,,LBT,Gary Johnson,3
+Delaware,Middletown 4,President,,LBT,Gary Johnson,0
+Delaware,Middletown 5,President,,LBT,Gary Johnson,4
+Delaware,Roxbury 1,President,,LBT,Gary Johnson,1
+Delaware,Roxbury 2,President,,LBT,Gary Johnson,1
+Delaware,Roxbury 3,President,,LBT,Gary Johnson,1
+Delaware,Roxbury 4,President,,LBT,Gary Johnson,1
+Delaware,Sidney 1,President,,LBT,Gary Johnson,6
+Delaware,Sidney 2,President,,LBT,Gary Johnson,4
+Delaware,Sidney 3,President,,LBT,Gary Johnson,2
+Delaware,Sidney 4,President,,LBT,Gary Johnson,3
+Delaware,Sidney 5,President,,LBT,Gary Johnson,3
+Delaware,Sidney 6,President,,LBT,Gary Johnson,6
+Delaware,Sidney 7,President,,LBT,Gary Johnson,3
+Delaware,Stamford 1,President,,LBT,Gary Johnson,7
+Delaware,Stamford 2,President,,LBT,Gary Johnson,1
+Delaware,Tompkins 1,President,,LBT,Gary Johnson,2
+Delaware,Walton 1,President,,LBT,Gary Johnson,3
+Delaware,Walton 2,President,,LBT,Gary Johnson,8
+Delaware,Walton 3,President,,LBT,Gary Johnson,4
+Delaware,Walton 4,President,,LBT,Gary Johnson,5
+Delaware,Walton 5,President,,LBT,Gary Johnson,4
+Delaware,Andes 1,President,,,Blanks,12
+Delaware,Andes 2,President,,,Blanks,3
+Delaware,Bovina 1,President,,,Blanks,3
+Delaware,Colchester 1,President,,,Blanks,4
+Delaware,Colchester 2,President,,,Blanks,7
+Delaware,Colchester 3,President,,,Blanks,1
+Delaware,Colchester 4,President,,,Blanks,7
+Delaware,Davenport 1,President,,,Blanks,9
+Delaware,Davenport 2,President,,,Blanks,12
+Delaware,Delhi 1,President,,,Blanks,12
+Delaware,Delhi 2,President,,,Blanks,10
+Delaware,Delhi 3,President,,,Blanks,8
+Delaware,Delhi 4,President,,,Blanks,13
+Delaware,Deposit 1,President,,,Blanks,8
+Delaware,Deposit 2,President,,,Blanks,5
+Delaware,Franklin 1,President,,,Blanks,6
+Delaware,Franklin 2,President,,,Blanks,7
+Delaware,Franklin 3,President,,,Blanks,7
+Delaware,Hamden 1,President,,,Blanks,11
+Delaware,Hancock 1,President,,,Blanks,3
+Delaware,Hancock 2,President,,,Blanks,2
+Delaware,Hancock 3,President,,,Blanks,4
+Delaware,Hancock 4,President,,,Blanks,0
+Delaware,Hancock 5,President,,,Blanks,2
+Delaware,Hancock 6,President,,,Blanks,5
+Delaware,Harpersfield 1,President,,,Blanks,15
+Delaware,Kortright 1,President,,,Blanks,6
+Delaware,Kortright 2,President,,,Blanks,6
+Delaware,Masonville 1,President,,,Blanks,4
+Delaware,Meredith 1,President,,,Blanks,11
+Delaware,Meredith 2,President,,,Blanks,4
+Delaware,Middletown 1,President,,,Blanks,8
+Delaware,Middletown 2,President,,,Blanks,11
+Delaware,Middletown 3,President,,,Blanks,2
+Delaware,Middletown 4,President,,,Blanks,2
+Delaware,Middletown 5,President,,,Blanks,2
+Delaware,Roxbury 1,President,,,Blanks,5
+Delaware,Roxbury 2,President,,,Blanks,3
+Delaware,Roxbury 3,President,,,Blanks,7
+Delaware,Roxbury 4,President,,,Blanks,5
+Delaware,Sidney 1,President,,,Blanks,4
+Delaware,Sidney 2,President,,,Blanks,4
+Delaware,Sidney 3,President,,,Blanks,1
+Delaware,Sidney 4,President,,,Blanks,7
+Delaware,Sidney 5,President,,,Blanks,4
+Delaware,Sidney 6,President,,,Blanks,6
+Delaware,Sidney 7,President,,,Blanks,3
+Delaware,Stamford 1,President,,,Blanks,10
+Delaware,Stamford 2,President,,,Blanks,6
+Delaware,Tompkins 1,President,,,Blanks,2
+Delaware,Walton 1,President,,,Blanks,7
+Delaware,Walton 2,President,,,Blanks,8
+Delaware,Walton 3,President,,,Blanks,10
+Delaware,Walton 4,President,,,Blanks,5
+Delaware,Walton 5,President,,,Blanks,7
+Delaware,Andes 1,U.S. Senate,,,Total,483
+Delaware,Andes 2,U.S. Senate,,,Total,228
+Delaware,Bovina 1,U.S. Senate,,,Total,401
+Delaware,Colchester 1,U.S. Senate,,,Total,426
+Delaware,Colchester 2,U.S. Senate,,,Total,206
+Delaware,Colchester 3,U.S. Senate,,,Total,164
+Delaware,Colchester 4,U.S. Senate,,,Total,205
+Delaware,Davenport 1,U.S. Senate,,,Total,421
+Delaware,Davenport 2,U.S. Senate,,,Total,742
+Delaware,Delhi 1,U.S. Senate,,,Total,451
+Delaware,Delhi 2,U.S. Senate,,,Total,381
+Delaware,Delhi 3,U.S. Senate,,,Total,397
+Delaware,Delhi 4,U.S. Senate,,,Total,371
+Delaware,Deposit 1,U.S. Senate,,,Total,422
+Delaware,Deposit 2,U.S. Senate,,,Total,215
+Delaware,Franklin 1,U.S. Senate,,,Total,389
+Delaware,Franklin 2,U.S. Senate,,,Total,325
+Delaware,Franklin 3,U.S. Senate,,,Total,506
+Delaware,Hamden 1,U.S. Senate,,,Total,604
+Delaware,Hancock 1,U.S. Senate,,,Total,170
+Delaware,Hancock 2,U.S. Senate,,,Total,208
+Delaware,Hancock 3,U.S. Senate,,,Total,352
+Delaware,Hancock 4,U.S. Senate,,,Total,189
+Delaware,Hancock 5,U.S. Senate,,,Total,136
+Delaware,Hancock 6,U.S. Senate,,,Total,195
+Delaware,Harpersfield 1,U.S. Senate,,,Total,682
+Delaware,Kortright 1,U.S. Senate,,,Total,379
+Delaware,Kortright 2,U.S. Senate,,,Total,382
+Delaware,Masonville 1,U.S. Senate,,,Total,524
+Delaware,Meredith 1,U.S. Senate,,,Total,549
+Delaware,Meredith 2,U.S. Senate,,,Total,259
+Delaware,Middletown 1,U.S. Senate,,,Total,390
+Delaware,Middletown 2,U.S. Senate,,,Total,480
+Delaware,Middletown 3,U.S. Senate,,,Total,272
+Delaware,Middletown 4,U.S. Senate,,,Total,177
+Delaware,Middletown 5,U.S. Senate,,,Total,262
+Delaware,Roxbury 1,U.S. Senate,,,Total,400
+Delaware,Roxbury 2,U.S. Senate,,,Total,189
+Delaware,Roxbury 3,U.S. Senate,,,Total,322
+Delaware,Roxbury 4,U.S. Senate,,,Total,308
+Delaware,Sidney 1,U.S. Senate,,,Total,336
+Delaware,Sidney 2,U.S. Senate,,,Total,320
+Delaware,Sidney 3,U.S. Senate,,,Total,302
+Delaware,Sidney 4,U.S. Senate,,,Total,290
+Delaware,Sidney 5,U.S. Senate,,,Total,239
+Delaware,Sidney 6,U.S. Senate,,,Total,408
+Delaware,Sidney 7,U.S. Senate,,,Total,299
+Delaware,Stamford 1,U.S. Senate,,,Total,511
+Delaware,Stamford 2,U.S. Senate,,,Total,397
+Delaware,Tompkins 1,U.S. Senate,,,Total,463
+Delaware,Walton 1,U.S. Senate,,,Total,513
+Delaware,Walton 2,U.S. Senate,,,Total,371
+Delaware,Walton 3,U.S. Senate,,,Total,393
+Delaware,Walton 4,U.S. Senate,,,Total,474
+Delaware,Walton 5,U.S. Senate,,,Total,454
+Delaware,Andes 1,U.S. Senate,,DEM,Charles E Schumer,238
+Delaware,Andes 2,U.S. Senate,,DEM,Charles E Schumer,93
+Delaware,Bovina 1,U.S. Senate,,DEM,Charles E Schumer,177
+Delaware,Colchester 1,U.S. Senate,,DEM,Charles E Schumer,144
+Delaware,Colchester 2,U.S. Senate,,DEM,Charles E Schumer,69
+Delaware,Colchester 3,U.S. Senate,,DEM,Charles E Schumer,64
+Delaware,Colchester 4,U.S. Senate,,DEM,Charles E Schumer,58
+Delaware,Davenport 1,U.S. Senate,,DEM,Charles E Schumer,155
+Delaware,Davenport 2,U.S. Senate,,DEM,Charles E Schumer,319
+Delaware,Delhi 1,U.S. Senate,,DEM,Charles E Schumer,196
+Delaware,Delhi 2,U.S. Senate,,DEM,Charles E Schumer,146
+Delaware,Delhi 3,U.S. Senate,,DEM,Charles E Schumer,186
+Delaware,Delhi 4,U.S. Senate,,DEM,Charles E Schumer,197
+Delaware,Deposit 1,U.S. Senate,,DEM,Charles E Schumer,163
+Delaware,Deposit 2,U.S. Senate,,DEM,Charles E Schumer,86
+Delaware,Franklin 1,U.S. Senate,,DEM,Charles E Schumer,153
+Delaware,Franklin 2,U.S. Senate,,DEM,Charles E Schumer,132
+Delaware,Franklin 3,U.S. Senate,,DEM,Charles E Schumer,204
+Delaware,Hamden 1,U.S. Senate,,DEM,Charles E Schumer,231
+Delaware,Hancock 1,U.S. Senate,,DEM,Charles E Schumer,54
+Delaware,Hancock 2,U.S. Senate,,DEM,Charles E Schumer,74
+Delaware,Hancock 3,U.S. Senate,,DEM,Charles E Schumer,139
+Delaware,Hancock 4,U.S. Senate,,DEM,Charles E Schumer,58
+Delaware,Hancock 5,U.S. Senate,,DEM,Charles E Schumer,48
+Delaware,Hancock 6,U.S. Senate,,DEM,Charles E Schumer,72
+Delaware,Harpersfield 1,U.S. Senate,,DEM,Charles E Schumer,268
+Delaware,Kortright 1,U.S. Senate,,DEM,Charles E Schumer,146
+Delaware,Kortright 2,U.S. Senate,,DEM,Charles E Schumer,159
+Delaware,Masonville 1,U.S. Senate,,DEM,Charles E Schumer,173
+Delaware,Meredith 1,U.S. Senate,,DEM,Charles E Schumer,217
+Delaware,Meredith 2,U.S. Senate,,DEM,Charles E Schumer,100
+Delaware,Middletown 1,U.S. Senate,,DEM,Charles E Schumer,163
+Delaware,Middletown 2,U.S. Senate,,DEM,Charles E Schumer,271
+Delaware,Middletown 3,U.S. Senate,,DEM,Charles E Schumer,119
+Delaware,Middletown 4,U.S. Senate,,DEM,Charles E Schumer,85
+Delaware,Middletown 5,U.S. Senate,,DEM,Charles E Schumer,117
+Delaware,Roxbury 1,U.S. Senate,,DEM,Charles E Schumer,147
+Delaware,Roxbury 2,U.S. Senate,,DEM,Charles E Schumer,96
+Delaware,Roxbury 3,U.S. Senate,,DEM,Charles E Schumer,161
+Delaware,Roxbury 4,U.S. Senate,,DEM,Charles E Schumer,143
+Delaware,Sidney 1,U.S. Senate,,DEM,Charles E Schumer,129
+Delaware,Sidney 2,U.S. Senate,,DEM,Charles E Schumer,155
+Delaware,Sidney 3,U.S. Senate,,DEM,Charles E Schumer,120
+Delaware,Sidney 4,U.S. Senate,,DEM,Charles E Schumer,147
+Delaware,Sidney 5,U.S. Senate,,DEM,Charles E Schumer,111
+Delaware,Sidney 6,U.S. Senate,,DEM,Charles E Schumer,210
+Delaware,Sidney 7,U.S. Senate,,DEM,Charles E Schumer,144
+Delaware,Stamford 1,U.S. Senate,,DEM,Charles E Schumer,201
+Delaware,Stamford 2,U.S. Senate,,DEM,Charles E Schumer,151
+Delaware,Tompkins 1,U.S. Senate,,DEM,Charles E Schumer,147
+Delaware,Walton 1,U.S. Senate,,DEM,Charles E Schumer,199
+Delaware,Walton 2,U.S. Senate,,DEM,Charles E Schumer,177
+Delaware,Walton 3,U.S. Senate,,DEM,Charles E Schumer,162
+Delaware,Walton 4,U.S. Senate,,DEM,Charles E Schumer,183
+Delaware,Walton 5,U.S. Senate,,DEM,Charles E Schumer,164
+Delaware,Andes 1,U.S. Senate,,REP,Wendy Long,158
+Delaware,Andes 2,U.S. Senate,,REP,Wendy Long,96
+Delaware,Bovina 1,U.S. Senate,,REP,Wendy Long,141
+Delaware,Colchester 1,U.S. Senate,,REP,Wendy Long,214
+Delaware,Colchester 2,U.S. Senate,,REP,Wendy Long,91
+Delaware,Colchester 3,U.S. Senate,,REP,Wendy Long,79
+Delaware,Colchester 4,U.S. Senate,,REP,Wendy Long,104
+Delaware,Davenport 1,U.S. Senate,,REP,Wendy Long,177
+Delaware,Davenport 2,U.S. Senate,,REP,Wendy Long,275
+Delaware,Delhi 1,U.S. Senate,,REP,Wendy Long,161
+Delaware,Delhi 2,U.S. Senate,,REP,Wendy Long,140
+Delaware,Delhi 3,U.S. Senate,,REP,Wendy Long,132
+Delaware,Delhi 4,U.S. Senate,,REP,Wendy Long,103
+Delaware,Deposit 1,U.S. Senate,,REP,Wendy Long,168
+Delaware,Deposit 2,U.S. Senate,,REP,Wendy Long,86
+Delaware,Franklin 1,U.S. Senate,,REP,Wendy Long,165
+Delaware,Franklin 2,U.S. Senate,,REP,Wendy Long,111
+Delaware,Franklin 3,U.S. Senate,,REP,Wendy Long,211
+Delaware,Hamden 1,U.S. Senate,,REP,Wendy Long,232
+Delaware,Hancock 1,U.S. Senate,,REP,Wendy Long,92
+Delaware,Hancock 2,U.S. Senate,,REP,Wendy Long,98
+Delaware,Hancock 3,U.S. Senate,,REP,Wendy Long,175
+Delaware,Hancock 4,U.S. Senate,,REP,Wendy Long,85
+Delaware,Hancock 5,U.S. Senate,,REP,Wendy Long,58
+Delaware,Hancock 6,U.S. Senate,,REP,Wendy Long,81
+Delaware,Harpersfield 1,U.S. Senate,,REP,Wendy Long,289
+Delaware,Kortright 1,U.S. Senate,,REP,Wendy Long,148
+Delaware,Kortright 2,U.S. Senate,,REP,Wendy Long,163
+Delaware,Masonville 1,U.S. Senate,,REP,Wendy Long,262
+Delaware,Meredith 1,U.S. Senate,,REP,Wendy Long,229
+Delaware,Meredith 2,U.S. Senate,,REP,Wendy Long,109
+Delaware,Middletown 1,U.S. Senate,,REP,Wendy Long,155
+Delaware,Middletown 2,U.S. Senate,,REP,Wendy Long,114
+Delaware,Middletown 3,U.S. Senate,,REP,Wendy Long,98
+Delaware,Middletown 4,U.S. Senate,,REP,Wendy Long,62
+Delaware,Middletown 5,U.S. Senate,,REP,Wendy Long,101
+Delaware,Roxbury 1,U.S. Senate,,REP,Wendy Long,171
+Delaware,Roxbury 2,U.S. Senate,,REP,Wendy Long,69
+Delaware,Roxbury 3,U.S. Senate,,REP,Wendy Long,104
+Delaware,Roxbury 4,U.S. Senate,,REP,Wendy Long,117
+Delaware,Sidney 1,U.S. Senate,,REP,Wendy Long,134
+Delaware,Sidney 2,U.S. Senate,,REP,Wendy Long,104
+Delaware,Sidney 3,U.S. Senate,,REP,Wendy Long,138
+Delaware,Sidney 4,U.S. Senate,,REP,Wendy Long,91
+Delaware,Sidney 5,U.S. Senate,,REP,Wendy Long,90
+Delaware,Sidney 6,U.S. Senate,,REP,Wendy Long,129
+Delaware,Sidney 7,U.S. Senate,,REP,Wendy Long,95
+Delaware,Stamford 1,U.S. Senate,,REP,Wendy Long,201
+Delaware,Stamford 2,U.S. Senate,,REP,Wendy Long,172
+Delaware,Tompkins 1,U.S. Senate,,REP,Wendy Long,215
+Delaware,Walton 1,U.S. Senate,,REP,Wendy Long,226
+Delaware,Walton 2,U.S. Senate,,REP,Wendy Long,126
+Delaware,Walton 3,U.S. Senate,,REP,Wendy Long,176
+Delaware,Walton 4,U.S. Senate,,REP,Wendy Long,191
+Delaware,Walton 5,U.S. Senate,,REP,Wendy Long,202
+Delaware,Andes 1,U.S. Senate,,CON,Wendy Long,23
+Delaware,Andes 2,U.S. Senate,,CON,Wendy Long,12
+Delaware,Bovina 1,U.S. Senate,,CON,Wendy Long,25
+Delaware,Colchester 1,U.S. Senate,,CON,Wendy Long,15
+Delaware,Colchester 2,U.S. Senate,,CON,Wendy Long,17
+Delaware,Colchester 3,U.S. Senate,,CON,Wendy Long,6
+Delaware,Colchester 4,U.S. Senate,,CON,Wendy Long,10
+Delaware,Davenport 1,U.S. Senate,,CON,Wendy Long,27
+Delaware,Davenport 2,U.S. Senate,,CON,Wendy Long,38
+Delaware,Delhi 1,U.S. Senate,,CON,Wendy Long,24
+Delaware,Delhi 2,U.S. Senate,,CON,Wendy Long,26
+Delaware,Delhi 3,U.S. Senate,,CON,Wendy Long,18
+Delaware,Delhi 4,U.S. Senate,,CON,Wendy Long,12
+Delaware,Deposit 1,U.S. Senate,,CON,Wendy Long,18
+Delaware,Deposit 2,U.S. Senate,,CON,Wendy Long,12
+Delaware,Franklin 1,U.S. Senate,,CON,Wendy Long,21
+Delaware,Franklin 2,U.S. Senate,,CON,Wendy Long,22
+Delaware,Franklin 3,U.S. Senate,,CON,Wendy Long,16
+Delaware,Hamden 1,U.S. Senate,,CON,Wendy Long,45
+Delaware,Hancock 1,U.S. Senate,,CON,Wendy Long,7
+Delaware,Hancock 2,U.S. Senate,,CON,Wendy Long,9
+Delaware,Hancock 3,U.S. Senate,,CON,Wendy Long,9
+Delaware,Hancock 4,U.S. Senate,,CON,Wendy Long,6
+Delaware,Hancock 5,U.S. Senate,,CON,Wendy Long,4
+Delaware,Hancock 6,U.S. Senate,,CON,Wendy Long,5
+Delaware,Harpersfield 1,U.S. Senate,,CON,Wendy Long,37
+Delaware,Kortright 1,U.S. Senate,,CON,Wendy Long,33
+Delaware,Kortright 2,U.S. Senate,,CON,Wendy Long,17
+Delaware,Masonville 1,U.S. Senate,,CON,Wendy Long,20
+Delaware,Meredith 1,U.S. Senate,,CON,Wendy Long,26
+Delaware,Meredith 2,U.S. Senate,,CON,Wendy Long,25
+Delaware,Middletown 1,U.S. Senate,,CON,Wendy Long,23
+Delaware,Middletown 2,U.S. Senate,,CON,Wendy Long,16
+Delaware,Middletown 3,U.S. Senate,,CON,Wendy Long,16
+Delaware,Middletown 4,U.S. Senate,,CON,Wendy Long,5
+Delaware,Middletown 5,U.S. Senate,,CON,Wendy Long,10
+Delaware,Roxbury 1,U.S. Senate,,CON,Wendy Long,27
+Delaware,Roxbury 2,U.S. Senate,,CON,Wendy Long,9
+Delaware,Roxbury 3,U.S. Senate,,CON,Wendy Long,15
+Delaware,Roxbury 4,U.S. Senate,,CON,Wendy Long,15
+Delaware,Sidney 1,U.S. Senate,,CON,Wendy Long,18
+Delaware,Sidney 2,U.S. Senate,,CON,Wendy Long,12
+Delaware,Sidney 3,U.S. Senate,,CON,Wendy Long,14
+Delaware,Sidney 4,U.S. Senate,,CON,Wendy Long,9
+Delaware,Sidney 5,U.S. Senate,,CON,Wendy Long,11
+Delaware,Sidney 6,U.S. Senate,,CON,Wendy Long,11
+Delaware,Sidney 7,U.S. Senate,,CON,Wendy Long,11
+Delaware,Stamford 1,U.S. Senate,,CON,Wendy Long,30
+Delaware,Stamford 2,U.S. Senate,,CON,Wendy Long,13
+Delaware,Tompkins 1,U.S. Senate,,CON,Wendy Long,28
+Delaware,Walton 1,U.S. Senate,,CON,Wendy Long,26
+Delaware,Walton 2,U.S. Senate,,CON,Wendy Long,12
+Delaware,Walton 3,U.S. Senate,,CON,Wendy Long,11
+Delaware,Walton 4,U.S. Senate,,CON,Wendy Long,19
+Delaware,Walton 5,U.S. Senate,,CON,Wendy Long,18
+Delaware,Andes 1,U.S. Senate,,GRE,Robin Laverne Wilson,12
+Delaware,Andes 2,U.S. Senate,,GRE,Robin Laverne Wilson,3
+Delaware,Bovina 1,U.S. Senate,,GRE,Robin Laverne Wilson,12
+Delaware,Colchester 1,U.S. Senate,,GRE,Robin Laverne Wilson,3
+Delaware,Colchester 2,U.S. Senate,,GRE,Robin Laverne Wilson,5
+Delaware,Colchester 3,U.S. Senate,,GRE,Robin Laverne Wilson,1
+Delaware,Colchester 4,U.S. Senate,,GRE,Robin Laverne Wilson,4
+Delaware,Davenport 1,U.S. Senate,,GRE,Robin Laverne Wilson,3
+Delaware,Davenport 2,U.S. Senate,,GRE,Robin Laverne Wilson,11
+Delaware,Delhi 1,U.S. Senate,,GRE,Robin Laverne Wilson,14
+Delaware,Delhi 2,U.S. Senate,,GRE,Robin Laverne Wilson,9
+Delaware,Delhi 3,U.S. Senate,,GRE,Robin Laverne Wilson,6
+Delaware,Delhi 4,U.S. Senate,,GRE,Robin Laverne Wilson,8
+Delaware,Deposit 1,U.S. Senate,,GRE,Robin Laverne Wilson,7
+Delaware,Deposit 2,U.S. Senate,,GRE,Robin Laverne Wilson,5
+Delaware,Franklin 1,U.S. Senate,,GRE,Robin Laverne Wilson,5
+Delaware,Franklin 2,U.S. Senate,,GRE,Robin Laverne Wilson,10
+Delaware,Franklin 3,U.S. Senate,,GRE,Robin Laverne Wilson,8
+Delaware,Hamden 1,U.S. Senate,,GRE,Robin Laverne Wilson,14
+Delaware,Hancock 1,U.S. Senate,,GRE,Robin Laverne Wilson,3
+Delaware,Hancock 2,U.S. Senate,,GRE,Robin Laverne Wilson,2
+Delaware,Hancock 3,U.S. Senate,,GRE,Robin Laverne Wilson,6
+Delaware,Hancock 4,U.S. Senate,,GRE,Robin Laverne Wilson,5
+Delaware,Hancock 5,U.S. Senate,,GRE,Robin Laverne Wilson,1
+Delaware,Hancock 6,U.S. Senate,,GRE,Robin Laverne Wilson,2
+Delaware,Harpersfield 1,U.S. Senate,,GRE,Robin Laverne Wilson,11
+Delaware,Kortright 1,U.S. Senate,,GRE,Robin Laverne Wilson,8
+Delaware,Kortright 2,U.S. Senate,,GRE,Robin Laverne Wilson,6
+Delaware,Masonville 1,U.S. Senate,,GRE,Robin Laverne Wilson,9
+Delaware,Meredith 1,U.S. Senate,,GRE,Robin Laverne Wilson,9
+Delaware,Meredith 2,U.S. Senate,,GRE,Robin Laverne Wilson,3
+Delaware,Middletown 1,U.S. Senate,,GRE,Robin Laverne Wilson,5
+Delaware,Middletown 2,U.S. Senate,,GRE,Robin Laverne Wilson,8
+Delaware,Middletown 3,U.S. Senate,,GRE,Robin Laverne Wilson,3
+Delaware,Middletown 4,U.S. Senate,,GRE,Robin Laverne Wilson,1
+Delaware,Middletown 5,U.S. Senate,,GRE,Robin Laverne Wilson,1
+Delaware,Roxbury 1,U.S. Senate,,GRE,Robin Laverne Wilson,4
+Delaware,Roxbury 2,U.S. Senate,,GRE,Robin Laverne Wilson,2
+Delaware,Roxbury 3,U.S. Senate,,GRE,Robin Laverne Wilson,2
+Delaware,Roxbury 4,U.S. Senate,,GRE,Robin Laverne Wilson,1
+Delaware,Sidney 1,U.S. Senate,,GRE,Robin Laverne Wilson,7
+Delaware,Sidney 2,U.S. Senate,,GRE,Robin Laverne Wilson,4
+Delaware,Sidney 3,U.S. Senate,,GRE,Robin Laverne Wilson,2
+Delaware,Sidney 4,U.S. Senate,,GRE,Robin Laverne Wilson,6
+Delaware,Sidney 5,U.S. Senate,,GRE,Robin Laverne Wilson,2
+Delaware,Sidney 6,U.S. Senate,,GRE,Robin Laverne Wilson,6
+Delaware,Sidney 7,U.S. Senate,,GRE,Robin Laverne Wilson,8
+Delaware,Stamford 1,U.S. Senate,,GRE,Robin Laverne Wilson,6
+Delaware,Stamford 2,U.S. Senate,,GRE,Robin Laverne Wilson,6
+Delaware,Tompkins 1,U.S. Senate,,GRE,Robin Laverne Wilson,11
+Delaware,Walton 1,U.S. Senate,,GRE,Robin Laverne Wilson,5
+Delaware,Walton 2,U.S. Senate,,GRE,Robin Laverne Wilson,10
+Delaware,Walton 3,U.S. Senate,,GRE,Robin Laverne Wilson,2
+Delaware,Walton 4,U.S. Senate,,GRE,Robin Laverne Wilson,3
+Delaware,Walton 5,U.S. Senate,,GRE,Robin Laverne Wilson,5
+Delaware,Andes 1,U.S. Senate,,WOR,Charles E Schumer,15
+Delaware,Andes 2,U.S. Senate,,WOR,Charles E Schumer,10
+Delaware,Bovina 1,U.S. Senate,,WOR,Charles E Schumer,18
+Delaware,Colchester 1,U.S. Senate,,WOR,Charles E Schumer,17
+Delaware,Colchester 2,U.S. Senate,,WOR,Charles E Schumer,9
+Delaware,Colchester 3,U.S. Senate,,WOR,Charles E Schumer,6
+Delaware,Colchester 4,U.S. Senate,,WOR,Charles E Schumer,10
+Delaware,Davenport 1,U.S. Senate,,WOR,Charles E Schumer,13
+Delaware,Davenport 2,U.S. Senate,,WOR,Charles E Schumer,27
+Delaware,Delhi 1,U.S. Senate,,WOR,Charles E Schumer,21
+Delaware,Delhi 2,U.S. Senate,,WOR,Charles E Schumer,21
+Delaware,Delhi 3,U.S. Senate,,WOR,Charles E Schumer,16
+Delaware,Delhi 4,U.S. Senate,,WOR,Charles E Schumer,11
+Delaware,Deposit 1,U.S. Senate,,WOR,Charles E Schumer,29
+Delaware,Deposit 2,U.S. Senate,,WOR,Charles E Schumer,11
+Delaware,Franklin 1,U.S. Senate,,WOR,Charles E Schumer,13
+Delaware,Franklin 2,U.S. Senate,,WOR,Charles E Schumer,18
+Delaware,Franklin 3,U.S. Senate,,WOR,Charles E Schumer,19
+Delaware,Hamden 1,U.S. Senate,,WOR,Charles E Schumer,25
+Delaware,Hancock 1,U.S. Senate,,WOR,Charles E Schumer,4
+Delaware,Hancock 2,U.S. Senate,,WOR,Charles E Schumer,7
+Delaware,Hancock 3,U.S. Senate,,WOR,Charles E Schumer,12
+Delaware,Hancock 4,U.S. Senate,,WOR,Charles E Schumer,12
+Delaware,Hancock 5,U.S. Senate,,WOR,Charles E Schumer,8
+Delaware,Hancock 6,U.S. Senate,,WOR,Charles E Schumer,6
+Delaware,Harpersfield 1,U.S. Senate,,WOR,Charles E Schumer,23
+Delaware,Kortright 1,U.S. Senate,,WOR,Charles E Schumer,19
+Delaware,Kortright 2,U.S. Senate,,WOR,Charles E Schumer,12
+Delaware,Masonville 1,U.S. Senate,,WOR,Charles E Schumer,23
+Delaware,Meredith 1,U.S. Senate,,WOR,Charles E Schumer,20
+Delaware,Meredith 2,U.S. Senate,,WOR,Charles E Schumer,8
+Delaware,Middletown 1,U.S. Senate,,WOR,Charles E Schumer,16
+Delaware,Middletown 2,U.S. Senate,,WOR,Charles E Schumer,13
+Delaware,Middletown 3,U.S. Senate,,WOR,Charles E Schumer,11
+Delaware,Middletown 4,U.S. Senate,,WOR,Charles E Schumer,8
+Delaware,Middletown 5,U.S. Senate,,WOR,Charles E Schumer,11
+Delaware,Roxbury 1,U.S. Senate,,WOR,Charles E Schumer,17
+Delaware,Roxbury 2,U.S. Senate,,WOR,Charles E Schumer,5
+Delaware,Roxbury 3,U.S. Senate,,WOR,Charles E Schumer,14
+Delaware,Roxbury 4,U.S. Senate,,WOR,Charles E Schumer,13
+Delaware,Sidney 1,U.S. Senate,,WOR,Charles E Schumer,14
+Delaware,Sidney 2,U.S. Senate,,WOR,Charles E Schumer,19
+Delaware,Sidney 3,U.S. Senate,,WOR,Charles E Schumer,11
+Delaware,Sidney 4,U.S. Senate,,WOR,Charles E Schumer,16
+Delaware,Sidney 5,U.S. Senate,,WOR,Charles E Schumer,9
+Delaware,Sidney 6,U.S. Senate,,WOR,Charles E Schumer,17
+Delaware,Sidney 7,U.S. Senate,,WOR,Charles E Schumer,14
+Delaware,Stamford 1,U.S. Senate,,WOR,Charles E Schumer,20
+Delaware,Stamford 2,U.S. Senate,,WOR,Charles E Schumer,15
+Delaware,Tompkins 1,U.S. Senate,,WOR,Charles E Schumer,29
+Delaware,Walton 1,U.S. Senate,,WOR,Charles E Schumer,19
+Delaware,Walton 2,U.S. Senate,,WOR,Charles E Schumer,11
+Delaware,Walton 3,U.S. Senate,,WOR,Charles E Schumer,7
+Delaware,Walton 4,U.S. Senate,,WOR,Charles E Schumer,27
+Delaware,Walton 5,U.S. Senate,,WOR,Charles E Schumer,17
+Delaware,Andes 1,U.S. Senate,,IND,Charles E Schumer,10
+Delaware,Andes 2,U.S. Senate,,IND,Charles E Schumer,3
+Delaware,Bovina 1,U.S. Senate,,IND,Charles E Schumer,11
+Delaware,Colchester 1,U.S. Senate,,IND,Charles E Schumer,11
+Delaware,Colchester 2,U.S. Senate,,IND,Charles E Schumer,2
+Delaware,Colchester 3,U.S. Senate,,IND,Charles E Schumer,1
+Delaware,Colchester 4,U.S. Senate,,IND,Charles E Schumer,6
+Delaware,Davenport 1,U.S. Senate,,IND,Charles E Schumer,12
+Delaware,Davenport 2,U.S. Senate,,IND,Charles E Schumer,17
+Delaware,Delhi 1,U.S. Senate,,IND,Charles E Schumer,11
+Delaware,Delhi 2,U.S. Senate,,IND,Charles E Schumer,10
+Delaware,Delhi 3,U.S. Senate,,IND,Charles E Schumer,17
+Delaware,Delhi 4,U.S. Senate,,IND,Charles E Schumer,11
+Delaware,Deposit 1,U.S. Senate,,IND,Charles E Schumer,11
+Delaware,Deposit 2,U.S. Senate,,IND,Charles E Schumer,2
+Delaware,Franklin 1,U.S. Senate,,IND,Charles E Schumer,10
+Delaware,Franklin 2,U.S. Senate,,IND,Charles E Schumer,9
+Delaware,Franklin 3,U.S. Senate,,IND,Charles E Schumer,14
+Delaware,Hamden 1,U.S. Senate,,IND,Charles E Schumer,21
+Delaware,Hancock 1,U.S. Senate,,IND,Charles E Schumer,4
+Delaware,Hancock 2,U.S. Senate,,IND,Charles E Schumer,3
+Delaware,Hancock 3,U.S. Senate,,IND,Charles E Schumer,2
+Delaware,Hancock 4,U.S. Senate,,IND,Charles E Schumer,6
+Delaware,Hancock 5,U.S. Senate,,IND,Charles E Schumer,7
+Delaware,Hancock 6,U.S. Senate,,IND,Charles E Schumer,2
+Delaware,Harpersfield 1,U.S. Senate,,IND,Charles E Schumer,10
+Delaware,Kortright 1,U.S. Senate,,IND,Charles E Schumer,8
+Delaware,Kortright 2,U.S. Senate,,IND,Charles E Schumer,8
+Delaware,Masonville 1,U.S. Senate,,IND,Charles E Schumer,12
+Delaware,Meredith 1,U.S. Senate,,IND,Charles E Schumer,18
+Delaware,Meredith 2,U.S. Senate,,IND,Charles E Schumer,2
+Delaware,Middletown 1,U.S. Senate,,IND,Charles E Schumer,8
+Delaware,Middletown 2,U.S. Senate,,IND,Charles E Schumer,16
+Delaware,Middletown 3,U.S. Senate,,IND,Charles E Schumer,12
+Delaware,Middletown 4,U.S. Senate,,IND,Charles E Schumer,5
+Delaware,Middletown 5,U.S. Senate,,IND,Charles E Schumer,5
+Delaware,Roxbury 1,U.S. Senate,,IND,Charles E Schumer,7
+Delaware,Roxbury 2,U.S. Senate,,IND,Charles E Schumer,4
+Delaware,Roxbury 3,U.S. Senate,,IND,Charles E Schumer,8
+Delaware,Roxbury 4,U.S. Senate,,IND,Charles E Schumer,5
+Delaware,Sidney 1,U.S. Senate,,IND,Charles E Schumer,7
+Delaware,Sidney 2,U.S. Senate,,IND,Charles E Schumer,13
+Delaware,Sidney 3,U.S. Senate,,IND,Charles E Schumer,7
+Delaware,Sidney 4,U.S. Senate,,IND,Charles E Schumer,11
+Delaware,Sidney 5,U.S. Senate,,IND,Charles E Schumer,4
+Delaware,Sidney 6,U.S. Senate,,IND,Charles E Schumer,15
+Delaware,Sidney 7,U.S. Senate,,IND,Charles E Schumer,9
+Delaware,Stamford 1,U.S. Senate,,IND,Charles E Schumer,17
+Delaware,Stamford 2,U.S. Senate,,IND,Charles E Schumer,7
+Delaware,Tompkins 1,U.S. Senate,,IND,Charles E Schumer,4
+Delaware,Walton 1,U.S. Senate,,IND,Charles E Schumer,17
+Delaware,Walton 2,U.S. Senate,,IND,Charles E Schumer,8
+Delaware,Walton 3,U.S. Senate,,IND,Charles E Schumer,5
+Delaware,Walton 4,U.S. Senate,,IND,Charles E Schumer,11
+Delaware,Walton 5,U.S. Senate,,IND,Charles E Schumer,12
+Delaware,Andes 1,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Andes 2,U.S. Senate,,WEP,Charles E Schumer,2
+Delaware,Bovina 1,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Colchester 1,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Colchester 2,U.S. Senate,,WEP,Charles E Schumer,0
+Delaware,Colchester 3,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Colchester 4,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Davenport 1,U.S. Senate,,WEP,Charles E Schumer,0
+Delaware,Davenport 2,U.S. Senate,,WEP,Charles E Schumer,7
+Delaware,Delhi 1,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Delhi 2,U.S. Senate,,WEP,Charles E Schumer,4
+Delaware,Delhi 3,U.S. Senate,,WEP,Charles E Schumer,2
+Delaware,Delhi 4,U.S. Senate,,WEP,Charles E Schumer,4
+Delaware,Deposit 1,U.S. Senate,,WEP,Charles E Schumer,0
+Delaware,Deposit 2,U.S. Senate,,WEP,Charles E Schumer,2
+Delaware,Franklin 1,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Franklin 2,U.S. Senate,,WEP,Charles E Schumer,5
+Delaware,Franklin 3,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Hamden 1,U.S. Senate,,WEP,Charles E Schumer,7
+Delaware,Hancock 1,U.S. Senate,,WEP,Charles E Schumer,2
+Delaware,Hancock 2,U.S. Senate,,WEP,Charles E Schumer,0
+Delaware,Hancock 3,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Hancock 4,U.S. Senate,,WEP,Charles E Schumer,0
+Delaware,Hancock 5,U.S. Senate,,WEP,Charles E Schumer,0
+Delaware,Hancock 6,U.S. Senate,,WEP,Charles E Schumer,2
+Delaware,Harpersfield 1,U.S. Senate,,WEP,Charles E Schumer,5
+Delaware,Kortright 1,U.S. Senate,,WEP,Charles E Schumer,3
+Delaware,Kortright 2,U.S. Senate,,WEP,Charles E Schumer,3
+Delaware,Masonville 1,U.S. Senate,,WEP,Charles E Schumer,2
+Delaware,Meredith 1,U.S. Senate,,WEP,Charles E Schumer,3
+Delaware,Meredith 2,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Middletown 1,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Middletown 2,U.S. Senate,,WEP,Charles E Schumer,7
+Delaware,Middletown 3,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Middletown 4,U.S. Senate,,WEP,Charles E Schumer,2
+Delaware,Middletown 5,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Roxbury 1,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Roxbury 2,U.S. Senate,,WEP,Charles E Schumer,0
+Delaware,Roxbury 3,U.S. Senate,,WEP,Charles E Schumer,2
+Delaware,Roxbury 4,U.S. Senate,,WEP,Charles E Schumer,0
+Delaware,Sidney 1,U.S. Senate,,WEP,Charles E Schumer,4
+Delaware,Sidney 2,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Sidney 3,U.S. Senate,,WEP,Charles E Schumer,2
+Delaware,Sidney 4,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Sidney 5,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Sidney 6,U.S. Senate,,WEP,Charles E Schumer,5
+Delaware,Sidney 7,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Stamford 1,U.S. Senate,,WEP,Charles E Schumer,4
+Delaware,Stamford 2,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Tompkins 1,U.S. Senate,,WEP,Charles E Schumer,3
+Delaware,Walton 1,U.S. Senate,,WEP,Charles E Schumer,1
+Delaware,Walton 2,U.S. Senate,,WEP,Charles E Schumer,0
+Delaware,Walton 3,U.S. Senate,,WEP,Charles E Schumer,2
+Delaware,Walton 4,U.S. Senate,,WEP,Charles E Schumer,2
+Delaware,Walton 5,U.S. Senate,,WEP,Charles E Schumer,4
+Delaware,Andes 1,U.S. Senate,,REF,Wendy Long,0
+Delaware,Andes 2,U.S. Senate,,REF,Wendy Long,2
+Delaware,Bovina 1,U.S. Senate,,REF,Wendy Long,1
+Delaware,Colchester 1,U.S. Senate,,REF,Wendy Long,1
+Delaware,Colchester 2,U.S. Senate,,REF,Wendy Long,2
+Delaware,Colchester 3,U.S. Senate,,REF,Wendy Long,0
+Delaware,Colchester 4,U.S. Senate,,REF,Wendy Long,2
+Delaware,Davenport 1,U.S. Senate,,REF,Wendy Long,2
+Delaware,Davenport 2,U.S. Senate,,REF,Wendy Long,1
+Delaware,Delhi 1,U.S. Senate,,REF,Wendy Long,2
+Delaware,Delhi 2,U.S. Senate,,REF,Wendy Long,2
+Delaware,Delhi 3,U.S. Senate,,REF,Wendy Long,2
+Delaware,Delhi 4,U.S. Senate,,REF,Wendy Long,0
+Delaware,Deposit 1,U.S. Senate,,REF,Wendy Long,1
+Delaware,Deposit 2,U.S. Senate,,REF,Wendy Long,0
+Delaware,Franklin 1,U.S. Senate,,REF,Wendy Long,0
+Delaware,Franklin 2,U.S. Senate,,REF,Wendy Long,0
+Delaware,Franklin 3,U.S. Senate,,REF,Wendy Long,2
+Delaware,Hamden 1,U.S. Senate,,REF,Wendy Long,2
+Delaware,Hancock 1,U.S. Senate,,REF,Wendy Long,0
+Delaware,Hancock 2,U.S. Senate,,REF,Wendy Long,0
+Delaware,Hancock 3,U.S. Senate,,REF,Wendy Long,0
+Delaware,Hancock 4,U.S. Senate,,REF,Wendy Long,1
+Delaware,Hancock 5,U.S. Senate,,REF,Wendy Long,0
+Delaware,Hancock 6,U.S. Senate,,REF,Wendy Long,1
+Delaware,Harpersfield 1,U.S. Senate,,REF,Wendy Long,4
+Delaware,Kortright 1,U.S. Senate,,REF,Wendy Long,1
+Delaware,Kortright 2,U.S. Senate,,REF,Wendy Long,0
+Delaware,Masonville 1,U.S. Senate,,REF,Wendy Long,0
+Delaware,Meredith 1,U.S. Senate,,REF,Wendy Long,2
+Delaware,Meredith 2,U.S. Senate,,REF,Wendy Long,2
+Delaware,Middletown 1,U.S. Senate,,REF,Wendy Long,0
+Delaware,Middletown 2,U.S. Senate,,REF,Wendy Long,1
+Delaware,Middletown 3,U.S. Senate,,REF,Wendy Long,1
+Delaware,Middletown 4,U.S. Senate,,REF,Wendy Long,1
+Delaware,Middletown 5,U.S. Senate,,REF,Wendy Long,0
+Delaware,Roxbury 1,U.S. Senate,,REF,Wendy Long,3
+Delaware,Roxbury 2,U.S. Senate,,REF,Wendy Long,1
+Delaware,Roxbury 3,U.S. Senate,,REF,Wendy Long,0
+Delaware,Roxbury 4,U.S. Senate,,REF,Wendy Long,0
+Delaware,Sidney 1,U.S. Senate,,REF,Wendy Long,0
+Delaware,Sidney 2,U.S. Senate,,REF,Wendy Long,2
+Delaware,Sidney 3,U.S. Senate,,REF,Wendy Long,0
+Delaware,Sidney 4,U.S. Senate,,REF,Wendy Long,1
+Delaware,Sidney 5,U.S. Senate,,REF,Wendy Long,0
+Delaware,Sidney 6,U.S. Senate,,REF,Wendy Long,1
+Delaware,Sidney 7,U.S. Senate,,REF,Wendy Long,0
+Delaware,Stamford 1,U.S. Senate,,REF,Wendy Long,0
+Delaware,Stamford 2,U.S. Senate,,REF,Wendy Long,5
+Delaware,Tompkins 1,U.S. Senate,,REF,Wendy Long,1
+Delaware,Walton 1,U.S. Senate,,REF,Wendy Long,0
+Delaware,Walton 2,U.S. Senate,,REF,Wendy Long,1
+Delaware,Walton 3,U.S. Senate,,REF,Wendy Long,1
+Delaware,Walton 4,U.S. Senate,,REF,Wendy Long,1
+Delaware,Walton 5,U.S. Senate,,REF,Wendy Long,0
+Delaware,Andes 1,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Andes 2,U.S. Senate,,LBT,Alex Merced,1
+Delaware,Bovina 1,U.S. Senate,,LBT,Alex Merced,3
+Delaware,Colchester 1,U.S. Senate,,LBT,Alex Merced,1
+Delaware,Colchester 2,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Colchester 3,U.S. Senate,,LBT,Alex Merced,0
+Delaware,Colchester 4,U.S. Senate,,LBT,Alex Merced,3
+Delaware,Davenport 1,U.S. Senate,,LBT,Alex Merced,4
+Delaware,Davenport 2,U.S. Senate,,LBT,Alex Merced,6
+Delaware,Delhi 1,U.S. Senate,,LBT,Alex Merced,5
+Delaware,Delhi 2,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Delhi 3,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Delhi 4,U.S. Senate,,LBT,Alex Merced,3
+Delaware,Deposit 1,U.S. Senate,,LBT,Alex Merced,3
+Delaware,Deposit 2,U.S. Senate,,LBT,Alex Merced,4
+Delaware,Franklin 1,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Franklin 2,U.S. Senate,,LBT,Alex Merced,0
+Delaware,Franklin 3,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Hamden 1,U.S. Senate,,LBT,Alex Merced,5
+Delaware,Hancock 1,U.S. Senate,,LBT,Alex Merced,0
+Delaware,Hancock 2,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Hancock 3,U.S. Senate,,LBT,Alex Merced,1
+Delaware,Hancock 4,U.S. Senate,,LBT,Alex Merced,0
+Delaware,Hancock 5,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Hancock 6,U.S. Senate,,LBT,Alex Merced,1
+Delaware,Harpersfield 1,U.S. Senate,,LBT,Alex Merced,4
+Delaware,Kortright 1,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Kortright 2,U.S. Senate,,LBT,Alex Merced,1
+Delaware,Masonville 1,U.S. Senate,,LBT,Alex Merced,5
+Delaware,Meredith 1,U.S. Senate,,LBT,Alex Merced,3
+Delaware,Meredith 2,U.S. Senate,,LBT,Alex Merced,3
+Delaware,Middletown 1,U.S. Senate,,LBT,Alex Merced,0
+Delaware,Middletown 2,U.S. Senate,,LBT,Alex Merced,5
+Delaware,Middletown 3,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Middletown 4,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Middletown 5,U.S. Senate,,LBT,Alex Merced,3
+Delaware,Roxbury 1,U.S. Senate,,LBT,Alex Merced,0
+Delaware,Roxbury 2,U.S. Senate,,LBT,Alex Merced,1
+Delaware,Roxbury 3,U.S. Senate,,LBT,Alex Merced,3
+Delaware,Roxbury 4,U.S. Senate,,LBT,Alex Merced,0
+Delaware,Sidney 1,U.S. Senate,,LBT,Alex Merced,8
+Delaware,Sidney 2,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Sidney 3,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Sidney 4,U.S. Senate,,LBT,Alex Merced,3
+Delaware,Sidney 5,U.S. Senate,,LBT,Alex Merced,1
+Delaware,Sidney 6,U.S. Senate,,LBT,Alex Merced,4
+Delaware,Sidney 7,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Stamford 1,U.S. Senate,,LBT,Alex Merced,7
+Delaware,Stamford 2,U.S. Senate,,LBT,Alex Merced,3
+Delaware,Tompkins 1,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Walton 1,U.S. Senate,,LBT,Alex Merced,2
+Delaware,Walton 2,U.S. Senate,,LBT,Alex Merced,6
+Delaware,Walton 3,U.S. Senate,,LBT,Alex Merced,3
+Delaware,Walton 4,U.S. Senate,,LBT,Alex Merced,3
+Delaware,Walton 5,U.S. Senate,,LBT,Alex Merced,5
+Delaware,Andes 1,U.S. Senate,,,Blanks,24
+Delaware,Andes 2,U.S. Senate,,,Blanks,6
+Delaware,Bovina 1,U.S. Senate,,,Blanks,12
+Delaware,Colchester 1,U.S. Senate,,,Blanks,19
+Delaware,Colchester 2,U.S. Senate,,,Blanks,9
+Delaware,Colchester 3,U.S. Senate,,,Blanks,6
+Delaware,Colchester 4,U.S. Senate,,,Blanks,7
+Delaware,Davenport 1,U.S. Senate,,,Blanks,28
+Delaware,Davenport 2,U.S. Senate,,,Blanks,41
+Delaware,Delhi 1,U.S. Senate,,,Blanks,16
+Delaware,Delhi 2,U.S. Senate,,,Blanks,21
+Delaware,Delhi 3,U.S. Senate,,,Blanks,16
+Delaware,Delhi 4,U.S. Senate,,,Blanks,22
+Delaware,Deposit 1,U.S. Senate,,,Blanks,22
+Delaware,Deposit 2,U.S. Senate,,,Blanks,7
+Delaware,Franklin 1,U.S. Senate,,,Blanks,19
+Delaware,Franklin 2,U.S. Senate,,,Blanks,18
+Delaware,Franklin 3,U.S. Senate,,,Blanks,29
+Delaware,Hamden 1,U.S. Senate,,,Blanks,22
+Delaware,Hancock 1,U.S. Senate,,,Blanks,4
+Delaware,Hancock 2,U.S. Senate,,,Blanks,13
+Delaware,Hancock 3,U.S. Senate,,,Blanks,7
+Delaware,Hancock 4,U.S. Senate,,,Blanks,16
+Delaware,Hancock 5,U.S. Senate,,,Blanks,8
+Delaware,Hancock 6,U.S. Senate,,,Blanks,23
+Delaware,Harpersfield 1,U.S. Senate,,,Blanks,31
+Delaware,Kortright 1,U.S. Senate,,,Blanks,13
+Delaware,Kortright 2,U.S. Senate,,,Blanks,24
+Delaware,Masonville 1,U.S. Senate,,,Blanks,18
+Delaware,Meredith 1,U.S. Senate,,,Blanks,22
+Delaware,Meredith 2,U.S. Senate,,,Blanks,6
+Delaware,Middletown 1,U.S. Senate,,,Blanks,19
+Delaware,Middletown 2,U.S. Senate,,,Blanks,29
+Delaware,Middletown 3,U.S. Senate,,,Blanks,9
+Delaware,Middletown 4,U.S. Senate,,,Blanks,6
+Delaware,Middletown 5,U.S. Senate,,,Blanks,13
+Delaware,Roxbury 1,U.S. Senate,,,Blanks,23
+Delaware,Roxbury 2,U.S. Senate,,,Blanks,2
+Delaware,Roxbury 3,U.S. Senate,,,Blanks,13
+Delaware,Roxbury 4,U.S. Senate,,,Blanks,14
+Delaware,Sidney 1,U.S. Senate,,,Blanks,15
+Delaware,Sidney 2,U.S. Senate,,,Blanks,8
+Delaware,Sidney 3,U.S. Senate,,,Blanks,6
+Delaware,Sidney 4,U.S. Senate,,,Blanks,5
+Delaware,Sidney 5,U.S. Senate,,,Blanks,10
+Delaware,Sidney 6,U.S. Senate,,,Blanks,10
+Delaware,Sidney 7,U.S. Senate,,,Blanks,15
+Delaware,Stamford 1,U.S. Senate,,,Blanks,25
+Delaware,Stamford 2,U.S. Senate,,,Blanks,24
+Delaware,Tompkins 1,U.S. Senate,,,Blanks,23
+Delaware,Walton 1,U.S. Senate,,,Blanks,18
+Delaware,Walton 2,U.S. Senate,,,Blanks,20
+Delaware,Walton 3,U.S. Senate,,,Blanks,24
+Delaware,Walton 4,U.S. Senate,,,Blanks,34
+Delaware,Walton 5,U.S. Senate,,,Blanks,27
+Delaware,Andes 1,U.S. House,19,,Total,483
+Delaware,Andes 2,U.S. House,19,,Total,228
+Delaware,Bovina 1,U.S. House,19,,Total,401
+Delaware,Colchester 1,U.S. House,19,,Total,426
+Delaware,Colchester 2,U.S. House,19,,Total,206
+Delaware,Colchester 3,U.S. House,19,,Total,164
+Delaware,Colchester 4,U.S. House,19,,Total,205
+Delaware,Davenport 1,U.S. House,19,,Total,421
+Delaware,Davenport 2,U.S. House,19,,Total,742
+Delaware,Delhi 1,U.S. House,19,,Total,451
+Delaware,Delhi 2,U.S. House,19,,Total,381
+Delaware,Delhi 3,U.S. House,19,,Total,397
+Delaware,Delhi 4,U.S. House,19,,Total,371
+Delaware,Deposit 1,U.S. House,19,,Total,422
+Delaware,Deposit 2,U.S. House,19,,Total,215
+Delaware,Franklin 1,U.S. House,19,,Total,389
+Delaware,Franklin 2,U.S. House,19,,Total,325
+Delaware,Franklin 3,U.S. House,19,,Total,506
+Delaware,Hamden 1,U.S. House,19,,Total,604
+Delaware,Hancock 1,U.S. House,19,,Total,170
+Delaware,Hancock 2,U.S. House,19,,Total,208
+Delaware,Hancock 3,U.S. House,19,,Total,352
+Delaware,Hancock 4,U.S. House,19,,Total,189
+Delaware,Hancock 5,U.S. House,19,,Total,136
+Delaware,Hancock 6,U.S. House,19,,Total,195
+Delaware,Harpersfield 1,U.S. House,19,,Total,682
+Delaware,Kortright 1,U.S. House,19,,Total,379
+Delaware,Kortright 2,U.S. House,19,,Total,382
+Delaware,Masonville 1,U.S. House,19,,Total,524
+Delaware,Meredith 1,U.S. House,19,,Total,549
+Delaware,Meredith 2,U.S. House,19,,Total,259
+Delaware,Middletown 1,U.S. House,19,,Total,390
+Delaware,Middletown 2,U.S. House,19,,Total,480
+Delaware,Middletown 3,U.S. House,19,,Total,272
+Delaware,Middletown 4,U.S. House,19,,Total,177
+Delaware,Middletown 5,U.S. House,19,,Total,262
+Delaware,Roxbury 1,U.S. House,19,,Total,400
+Delaware,Roxbury 2,U.S. House,19,,Total,189
+Delaware,Roxbury 3,U.S. House,19,,Total,322
+Delaware,Roxbury 4,U.S. House,19,,Total,308
+Delaware,Sidney 1,U.S. House,19,,Total,336
+Delaware,Sidney 2,U.S. House,19,,Total,320
+Delaware,Sidney 3,U.S. House,19,,Total,302
+Delaware,Sidney 4,U.S. House,19,,Total,290
+Delaware,Sidney 5,U.S. House,19,,Total,239
+Delaware,Sidney 6,U.S. House,19,,Total,408
+Delaware,Sidney 7,U.S. House,19,,Total,299
+Delaware,Stamford 1,U.S. House,19,,Total,511
+Delaware,Stamford 2,U.S. House,19,,Total,397
+Delaware,Tompkins 1,U.S. House,19,,Total,463
+Delaware,Walton 1,U.S. House,19,,Total,513
+Delaware,Walton 2,U.S. House,19,,Total,371
+Delaware,Walton 3,U.S. House,19,,Total,393
+Delaware,Walton 4,U.S. House,19,,Total,474
+Delaware,Walton 5,U.S. House,19,,Total,454
+Delaware,Andes 1,U.S. House,19,DEM,Zephyr Teachout,203
+Delaware,Andes 2,U.S. House,19,DEM,Zephyr Teachout,74
+Delaware,Bovina 1,U.S. House,19,DEM,Zephyr Teachout,154
+Delaware,Colchester 1,U.S. House,19,DEM,Zephyr Teachout,96
+Delaware,Colchester 2,U.S. House,19,DEM,Zephyr Teachout,66
+Delaware,Colchester 3,U.S. House,19,DEM,Zephyr Teachout,45
+Delaware,Colchester 4,U.S. House,19,DEM,Zephyr Teachout,40
+Delaware,Davenport 1,U.S. House,19,DEM,Zephyr Teachout,116
+Delaware,Davenport 2,U.S. House,19,DEM,Zephyr Teachout,238
+Delaware,Delhi 1,U.S. House,19,DEM,Zephyr Teachout,161
+Delaware,Delhi 2,U.S. House,19,DEM,Zephyr Teachout,128
+Delaware,Delhi 3,U.S. House,19,DEM,Zephyr Teachout,149
+Delaware,Delhi 4,U.S. House,19,DEM,Zephyr Teachout,176
+Delaware,Deposit 1,U.S. House,19,DEM,Zephyr Teachout,70
+Delaware,Deposit 2,U.S. House,19,DEM,Zephyr Teachout,57
+Delaware,Franklin 1,U.S. House,19,DEM,Zephyr Teachout,119
+Delaware,Franklin 2,U.S. House,19,DEM,Zephyr Teachout,116
+Delaware,Franklin 3,U.S. House,19,DEM,Zephyr Teachout,169
+Delaware,Hamden 1,U.S. House,19,DEM,Zephyr Teachout,165
+Delaware,Hancock 1,U.S. House,19,DEM,Zephyr Teachout,46
+Delaware,Hancock 2,U.S. House,19,DEM,Zephyr Teachout,48
+Delaware,Hancock 3,U.S. House,19,DEM,Zephyr Teachout,88
+Delaware,Hancock 4,U.S. House,19,DEM,Zephyr Teachout,28
+Delaware,Hancock 5,U.S. House,19,DEM,Zephyr Teachout,26
+Delaware,Hancock 6,U.S. House,19,DEM,Zephyr Teachout,41
+Delaware,Harpersfield 1,U.S. House,19,DEM,Zephyr Teachout,207
+Delaware,Kortright 1,U.S. House,19,DEM,Zephyr Teachout,116
+Delaware,Kortright 2,U.S. House,19,DEM,Zephyr Teachout,129
+Delaware,Masonville 1,U.S. House,19,DEM,Zephyr Teachout,129
+Delaware,Meredith 1,U.S. House,19,DEM,Zephyr Teachout,182
+Delaware,Meredith 2,U.S. House,19,DEM,Zephyr Teachout,101
+Delaware,Middletown 1,U.S. House,19,DEM,Zephyr Teachout,131
+Delaware,Middletown 2,U.S. House,19,DEM,Zephyr Teachout,226
+Delaware,Middletown 3,U.S. House,19,DEM,Zephyr Teachout,98
+Delaware,Middletown 4,U.S. House,19,DEM,Zephyr Teachout,71
+Delaware,Middletown 5,U.S. House,19,DEM,Zephyr Teachout,79
+Delaware,Roxbury 1,U.S. House,19,DEM,Zephyr Teachout,86
+Delaware,Roxbury 2,U.S. House,19,DEM,Zephyr Teachout,71
+Delaware,Roxbury 3,U.S. House,19,DEM,Zephyr Teachout,126
+Delaware,Roxbury 4,U.S. House,19,DEM,Zephyr Teachout,102
+Delaware,Sidney 1,U.S. House,19,DEM,Zephyr Teachout,96
+Delaware,Sidney 2,U.S. House,19,DEM,Zephyr Teachout,128
+Delaware,Sidney 3,U.S. House,19,DEM,Zephyr Teachout,87
+Delaware,Sidney 4,U.S. House,19,DEM,Zephyr Teachout,122
+Delaware,Sidney 5,U.S. House,19,DEM,Zephyr Teachout,78
+Delaware,Sidney 6,U.S. House,19,DEM,Zephyr Teachout,161
+Delaware,Sidney 7,U.S. House,19,DEM,Zephyr Teachout,101
+Delaware,Stamford 1,U.S. House,19,DEM,Zephyr Teachout,149
+Delaware,Stamford 2,U.S. House,19,DEM,Zephyr Teachout,119
+Delaware,Tompkins 1,U.S. House,19,DEM,Zephyr Teachout,97
+Delaware,Walton 1,U.S. House,19,DEM,Zephyr Teachout,124
+Delaware,Walton 2,U.S. House,19,DEM,Zephyr Teachout,122
+Delaware,Walton 3,U.S. House,19,DEM,Zephyr Teachout,114
+Delaware,Walton 4,U.S. House,19,DEM,Zephyr Teachout,115
+Delaware,Walton 5,U.S. House,19,DEM,Zephyr Teachout,107
+Delaware,Andes 1,U.S. House,19,REP,John J Faso,214
+Delaware,Andes 2,U.S. House,19,REP,John J Faso,113
+Delaware,Bovina 1,U.S. House,19,REP,John J Faso,171
+Delaware,Colchester 1,U.S. House,19,REP,John J Faso,268
+Delaware,Colchester 2,U.S. House,19,REP,John J Faso,99
+Delaware,Colchester 3,U.S. House,19,REP,John J Faso,90
+Delaware,Colchester 4,U.S. House,19,REP,John J Faso,135
+Delaware,Davenport 1,U.S. House,19,REP,John J Faso,219
+Delaware,Davenport 2,U.S. House,19,REP,John J Faso,380
+Delaware,Delhi 1,U.S. House,19,REP,John J Faso,205
+Delaware,Delhi 2,U.S. House,19,REP,John J Faso,171
+Delaware,Delhi 3,U.S. House,19,REP,John J Faso,184
+Delaware,Delhi 4,U.S. House,19,REP,John J Faso,136
+Delaware,Deposit 1,U.S. House,19,REP,John J Faso,243
+Delaware,Deposit 2,U.S. House,19,REP,John J Faso,121
+Delaware,Franklin 1,U.S. House,19,REP,John J Faso,206
+Delaware,Franklin 2,U.S. House,19,REP,John J Faso,143
+Delaware,Franklin 3,U.S. House,19,REP,John J Faso,266
+Delaware,Hamden 1,U.S. House,19,REP,John J Faso,311
+Delaware,Hancock 1,U.S. House,19,REP,John J Faso,99
+Delaware,Hancock 2,U.S. House,19,REP,John J Faso,129
+Delaware,Hancock 3,U.S. House,19,REP,John J Faso,221
+Delaware,Hancock 4,U.S. House,19,REP,John J Faso,117
+Delaware,Hancock 5,U.S. House,19,REP,John J Faso,87
+Delaware,Hancock 6,U.S. House,19,REP,John J Faso,113
+Delaware,Harpersfield 1,U.S. House,19,REP,John J Faso,353
+Delaware,Kortright 1,U.S. House,19,REP,John J Faso,191
+Delaware,Kortright 2,U.S. House,19,REP,John J Faso,200
+Delaware,Masonville 1,U.S. House,19,REP,John J Faso,311
+Delaware,Meredith 1,U.S. House,19,REP,John J Faso,280
+Delaware,Meredith 2,U.S. House,19,REP,John J Faso,111
+Delaware,Middletown 1,U.S. House,19,REP,John J Faso,195
+Delaware,Middletown 2,U.S. House,19,REP,John J Faso,166
+Delaware,Middletown 3,U.S. House,19,REP,John J Faso,128
+Delaware,Middletown 4,U.S. House,19,REP,John J Faso,81
+Delaware,Middletown 5,U.S. House,19,REP,John J Faso,135
+Delaware,Roxbury 1,U.S. House,19,REP,John J Faso,226
+Delaware,Roxbury 2,U.S. House,19,REP,John J Faso,98
+Delaware,Roxbury 3,U.S. House,19,REP,John J Faso,145
+Delaware,Roxbury 4,U.S. House,19,REP,John J Faso,165
+Delaware,Sidney 1,U.S. House,19,REP,John J Faso,176
+Delaware,Sidney 2,U.S. House,19,REP,John J Faso,146
+Delaware,Sidney 3,U.S. House,19,REP,John J Faso,168
+Delaware,Sidney 4,U.S. House,19,REP,John J Faso,134
+Delaware,Sidney 5,U.S. House,19,REP,John J Faso,126
+Delaware,Sidney 6,U.S. House,19,REP,John J Faso,180
+Delaware,Sidney 7,U.S. House,19,REP,John J Faso,140
+Delaware,Stamford 1,U.S. House,19,REP,John J Faso,256
+Delaware,Stamford 2,U.S. House,19,REP,John J Faso,208
+Delaware,Tompkins 1,U.S. House,19,REP,John J Faso,276
+Delaware,Walton 1,U.S. House,19,REP,John J Faso,306
+Delaware,Walton 2,U.S. House,19,REP,John J Faso,190
+Delaware,Walton 3,U.S. House,19,REP,John J Faso,225
+Delaware,Walton 4,U.S. House,19,REP,John J Faso,279
+Delaware,Walton 5,U.S. House,19,REP,John J Faso,280
+Delaware,Andes 1,U.S. House,19,CON,John J Faso,20
+Delaware,Andes 2,U.S. House,19,CON,John J Faso,15
+Delaware,Bovina 1,U.S. House,19,CON,John J Faso,24
+Delaware,Colchester 1,U.S. House,19,CON,John J Faso,18
+Delaware,Colchester 2,U.S. House,19,CON,John J Faso,20
+Delaware,Colchester 3,U.S. House,19,CON,John J Faso,11
+Delaware,Colchester 4,U.S. House,19,CON,John J Faso,13
+Delaware,Davenport 1,U.S. House,19,CON,John J Faso,29
+Delaware,Davenport 2,U.S. House,19,CON,John J Faso,40
+Delaware,Delhi 1,U.S. House,19,CON,John J Faso,29
+Delaware,Delhi 2,U.S. House,19,CON,John J Faso,28
+Delaware,Delhi 3,U.S. House,19,CON,John J Faso,21
+Delaware,Delhi 4,U.S. House,19,CON,John J Faso,11
+Delaware,Deposit 1,U.S. House,19,CON,John J Faso,29
+Delaware,Deposit 2,U.S. House,19,CON,John J Faso,10
+Delaware,Franklin 1,U.S. House,19,CON,John J Faso,20
+Delaware,Franklin 2,U.S. House,19,CON,John J Faso,24
+Delaware,Franklin 3,U.S. House,19,CON,John J Faso,18
+Delaware,Hamden 1,U.S. House,19,CON,John J Faso,49
+Delaware,Hancock 1,U.S. House,19,CON,John J Faso,8
+Delaware,Hancock 2,U.S. House,19,CON,John J Faso,12
+Delaware,Hancock 3,U.S. House,19,CON,John J Faso,14
+Delaware,Hancock 4,U.S. House,19,CON,John J Faso,7
+Delaware,Hancock 5,U.S. House,19,CON,John J Faso,7
+Delaware,Hancock 6,U.S. House,19,CON,John J Faso,8
+Delaware,Harpersfield 1,U.S. House,19,CON,John J Faso,46
+Delaware,Kortright 1,U.S. House,19,CON,John J Faso,32
+Delaware,Kortright 2,U.S. House,19,CON,John J Faso,23
+Delaware,Masonville 1,U.S. House,19,CON,John J Faso,27
+Delaware,Meredith 1,U.S. House,19,CON,John J Faso,29
+Delaware,Meredith 2,U.S. House,19,CON,John J Faso,25
+Delaware,Middletown 1,U.S. House,19,CON,John J Faso,23
+Delaware,Middletown 2,U.S. House,19,CON,John J Faso,23
+Delaware,Middletown 3,U.S. House,19,CON,John J Faso,20
+Delaware,Middletown 4,U.S. House,19,CON,John J Faso,8
+Delaware,Middletown 5,U.S. House,19,CON,John J Faso,13
+Delaware,Roxbury 1,U.S. House,19,CON,John J Faso,30
+Delaware,Roxbury 2,U.S. House,19,CON,John J Faso,10
+Delaware,Roxbury 3,U.S. House,19,CON,John J Faso,15
+Delaware,Roxbury 4,U.S. House,19,CON,John J Faso,12
+Delaware,Sidney 1,U.S. House,19,CON,John J Faso,21
+Delaware,Sidney 2,U.S. House,19,CON,John J Faso,17
+Delaware,Sidney 3,U.S. House,19,CON,John J Faso,16
+Delaware,Sidney 4,U.S. House,19,CON,John J Faso,9
+Delaware,Sidney 5,U.S. House,19,CON,John J Faso,11
+Delaware,Sidney 6,U.S. House,19,CON,John J Faso,15
+Delaware,Sidney 7,U.S. House,19,CON,John J Faso,16
+Delaware,Stamford 1,U.S. House,19,CON,John J Faso,37
+Delaware,Stamford 2,U.S. House,19,CON,John J Faso,18
+Delaware,Tompkins 1,U.S. House,19,CON,John J Faso,36
+Delaware,Walton 1,U.S. House,19,CON,John J Faso,30
+Delaware,Walton 2,U.S. House,19,CON,John J Faso,19
+Delaware,Walton 3,U.S. House,19,CON,John J Faso,18
+Delaware,Walton 4,U.S. House,19,CON,John J Faso,33
+Delaware,Walton 5,U.S. House,19,CON,John J Faso,24
+Delaware,Andes 1,U.S. House,19,WOR,Zephyr Teachout,18
+Delaware,Andes 2,U.S. House,19,WOR,Zephyr Teachout,7
+Delaware,Bovina 1,U.S. House,19,WOR,Zephyr Teachout,22
+Delaware,Colchester 1,U.S. House,19,WOR,Zephyr Teachout,15
+Delaware,Colchester 2,U.S. House,19,WOR,Zephyr Teachout,8
+Delaware,Colchester 3,U.S. House,19,WOR,Zephyr Teachout,5
+Delaware,Colchester 4,U.S. House,19,WOR,Zephyr Teachout,4
+Delaware,Davenport 1,U.S. House,19,WOR,Zephyr Teachout,9
+Delaware,Davenport 2,U.S. House,19,WOR,Zephyr Teachout,34
+Delaware,Delhi 1,U.S. House,19,WOR,Zephyr Teachout,26
+Delaware,Delhi 2,U.S. House,19,WOR,Zephyr Teachout,18
+Delaware,Delhi 3,U.S. House,19,WOR,Zephyr Teachout,20
+Delaware,Delhi 4,U.S. House,19,WOR,Zephyr Teachout,22
+Delaware,Deposit 1,U.S. House,19,WOR,Zephyr Teachout,19
+Delaware,Deposit 2,U.S. House,19,WOR,Zephyr Teachout,12
+Delaware,Franklin 1,U.S. House,19,WOR,Zephyr Teachout,14
+Delaware,Franklin 2,U.S. House,19,WOR,Zephyr Teachout,20
+Delaware,Franklin 3,U.S. House,19,WOR,Zephyr Teachout,17
+Delaware,Hamden 1,U.S. House,19,WOR,Zephyr Teachout,34
+Delaware,Hancock 1,U.S. House,19,WOR,Zephyr Teachout,5
+Delaware,Hancock 2,U.S. House,19,WOR,Zephyr Teachout,5
+Delaware,Hancock 3,U.S. House,19,WOR,Zephyr Teachout,10
+Delaware,Hancock 4,U.S. House,19,WOR,Zephyr Teachout,4
+Delaware,Hancock 5,U.S. House,19,WOR,Zephyr Teachout,5
+Delaware,Hancock 6,U.S. House,19,WOR,Zephyr Teachout,3
+Delaware,Harpersfield 1,U.S. House,19,WOR,Zephyr Teachout,27
+Delaware,Kortright 1,U.S. House,19,WOR,Zephyr Teachout,17
+Delaware,Kortright 2,U.S. House,19,WOR,Zephyr Teachout,11
+Delaware,Masonville 1,U.S. House,19,WOR,Zephyr Teachout,15
+Delaware,Meredith 1,U.S. House,19,WOR,Zephyr Teachout,29
+Delaware,Meredith 2,U.S. House,19,WOR,Zephyr Teachout,9
+Delaware,Middletown 1,U.S. House,19,WOR,Zephyr Teachout,12
+Delaware,Middletown 2,U.S. House,19,WOR,Zephyr Teachout,23
+Delaware,Middletown 3,U.S. House,19,WOR,Zephyr Teachout,7
+Delaware,Middletown 4,U.S. House,19,WOR,Zephyr Teachout,7
+Delaware,Middletown 5,U.S. House,19,WOR,Zephyr Teachout,10
+Delaware,Roxbury 1,U.S. House,19,WOR,Zephyr Teachout,9
+Delaware,Roxbury 2,U.S. House,19,WOR,Zephyr Teachout,3
+Delaware,Roxbury 3,U.S. House,19,WOR,Zephyr Teachout,17
+Delaware,Roxbury 4,U.S. House,19,WOR,Zephyr Teachout,8
+Delaware,Sidney 1,U.S. House,19,WOR,Zephyr Teachout,14
+Delaware,Sidney 2,U.S. House,19,WOR,Zephyr Teachout,12
+Delaware,Sidney 3,U.S. House,19,WOR,Zephyr Teachout,10
+Delaware,Sidney 4,U.S. House,19,WOR,Zephyr Teachout,7
+Delaware,Sidney 5,U.S. House,19,WOR,Zephyr Teachout,10
+Delaware,Sidney 6,U.S. House,19,WOR,Zephyr Teachout,19
+Delaware,Sidney 7,U.S. House,19,WOR,Zephyr Teachout,10
+Delaware,Stamford 1,U.S. House,19,WOR,Zephyr Teachout,19
+Delaware,Stamford 2,U.S. House,19,WOR,Zephyr Teachout,14
+Delaware,Tompkins 1,U.S. House,19,WOR,Zephyr Teachout,16
+Delaware,Walton 1,U.S. House,19,WOR,Zephyr Teachout,6
+Delaware,Walton 2,U.S. House,19,WOR,Zephyr Teachout,9
+Delaware,Walton 3,U.S. House,19,WOR,Zephyr Teachout,13
+Delaware,Walton 4,U.S. House,19,WOR,Zephyr Teachout,17
+Delaware,Walton 5,U.S. House,19,WOR,Zephyr Teachout,14
+Delaware,Andes 1,U.S. House,19,IND,John J Faso,9
+Delaware,Andes 2,U.S. House,19,IND,John J Faso,3
+Delaware,Bovina 1,U.S. House,19,IND,John J Faso,11
+Delaware,Colchester 1,U.S. House,19,IND,John J Faso,12
+Delaware,Colchester 2,U.S. House,19,IND,John J Faso,5
+Delaware,Colchester 3,U.S. House,19,IND,John J Faso,0
+Delaware,Colchester 4,U.S. House,19,IND,John J Faso,4
+Delaware,Davenport 1,U.S. House,19,IND,John J Faso,10
+Delaware,Davenport 2,U.S. House,19,IND,John J Faso,13
+Delaware,Delhi 1,U.S. House,19,IND,John J Faso,10
+Delaware,Delhi 2,U.S. House,19,IND,John J Faso,12
+Delaware,Delhi 3,U.S. House,19,IND,John J Faso,6
+Delaware,Delhi 4,U.S. House,19,IND,John J Faso,3
+Delaware,Deposit 1,U.S. House,19,IND,John J Faso,14
+Delaware,Deposit 2,U.S. House,19,IND,John J Faso,6
+Delaware,Franklin 1,U.S. House,19,IND,John J Faso,5
+Delaware,Franklin 2,U.S. House,19,IND,John J Faso,6
+Delaware,Franklin 3,U.S. House,19,IND,John J Faso,6
+Delaware,Hamden 1,U.S. House,19,IND,John J Faso,15
+Delaware,Hancock 1,U.S. House,19,IND,John J Faso,5
+Delaware,Hancock 2,U.S. House,19,IND,John J Faso,3
+Delaware,Hancock 3,U.S. House,19,IND,John J Faso,1
+Delaware,Hancock 4,U.S. House,19,IND,John J Faso,8
+Delaware,Hancock 5,U.S. House,19,IND,John J Faso,2
+Delaware,Hancock 6,U.S. House,19,IND,John J Faso,2
+Delaware,Harpersfield 1,U.S. House,19,IND,John J Faso,10
+Delaware,Kortright 1,U.S. House,19,IND,John J Faso,9
+Delaware,Kortright 2,U.S. House,19,IND,John J Faso,5
+Delaware,Masonville 1,U.S. House,19,IND,John J Faso,13
+Delaware,Meredith 1,U.S. House,19,IND,John J Faso,12
+Delaware,Meredith 2,U.S. House,19,IND,John J Faso,3
+Delaware,Middletown 1,U.S. House,19,IND,John J Faso,3
+Delaware,Middletown 2,U.S. House,19,IND,John J Faso,9
+Delaware,Middletown 3,U.S. House,19,IND,John J Faso,8
+Delaware,Middletown 4,U.S. House,19,IND,John J Faso,3
+Delaware,Middletown 5,U.S. House,19,IND,John J Faso,9
+Delaware,Roxbury 1,U.S. House,19,IND,John J Faso,9
+Delaware,Roxbury 2,U.S. House,19,IND,John J Faso,4
+Delaware,Roxbury 3,U.S. House,19,IND,John J Faso,5
+Delaware,Roxbury 4,U.S. House,19,IND,John J Faso,2
+Delaware,Sidney 1,U.S. House,19,IND,John J Faso,8
+Delaware,Sidney 2,U.S. House,19,IND,John J Faso,8
+Delaware,Sidney 3,U.S. House,19,IND,John J Faso,4
+Delaware,Sidney 4,U.S. House,19,IND,John J Faso,8
+Delaware,Sidney 5,U.S. House,19,IND,John J Faso,6
+Delaware,Sidney 6,U.S. House,19,IND,John J Faso,7
+Delaware,Sidney 7,U.S. House,19,IND,John J Faso,11
+Delaware,Stamford 1,U.S. House,19,IND,John J Faso,17
+Delaware,Stamford 2,U.S. House,19,IND,John J Faso,11
+Delaware,Tompkins 1,U.S. House,19,IND,John J Faso,5
+Delaware,Walton 1,U.S. House,19,IND,John J Faso,12
+Delaware,Walton 2,U.S. House,19,IND,John J Faso,10
+Delaware,Walton 3,U.S. House,19,IND,John J Faso,4
+Delaware,Walton 4,U.S. House,19,IND,John J Faso,7
+Delaware,Walton 5,U.S. House,19,IND,John J Faso,7
+Delaware,Andes 1,U.S. House,19,REF,John J Faso,0
+Delaware,Andes 2,U.S. House,19,REF,John J Faso,0
+Delaware,Bovina 1,U.S. House,19,REF,John J Faso,1
+Delaware,Colchester 1,U.S. House,19,REF,John J Faso,0
+Delaware,Colchester 2,U.S. House,19,REF,John J Faso,1
+Delaware,Colchester 3,U.S. House,19,REF,John J Faso,0
+Delaware,Colchester 4,U.S. House,19,REF,John J Faso,0
+Delaware,Davenport 1,U.S. House,19,REF,John J Faso,2
+Delaware,Davenport 2,U.S. House,19,REF,John J Faso,0
+Delaware,Delhi 1,U.S. House,19,REF,John J Faso,3
+Delaware,Delhi 2,U.S. House,19,REF,John J Faso,1
+Delaware,Delhi 3,U.S. House,19,REF,John J Faso,1
+Delaware,Delhi 4,U.S. House,19,REF,John J Faso,2
+Delaware,Deposit 1,U.S. House,19,REF,John J Faso,2
+Delaware,Deposit 2,U.S. House,19,REF,John J Faso,0
+Delaware,Franklin 1,U.S. House,19,REF,John J Faso,1
+Delaware,Franklin 2,U.S. House,19,REF,John J Faso,0
+Delaware,Franklin 3,U.S. House,19,REF,John J Faso,2
+Delaware,Hamden 1,U.S. House,19,REF,John J Faso,0
+Delaware,Hancock 1,U.S. House,19,REF,John J Faso,0
+Delaware,Hancock 2,U.S. House,19,REF,John J Faso,0
+Delaware,Hancock 3,U.S. House,19,REF,John J Faso,0
+Delaware,Hancock 4,U.S. House,19,REF,John J Faso,0
+Delaware,Hancock 5,U.S. House,19,REF,John J Faso,0
+Delaware,Hancock 6,U.S. House,19,REF,John J Faso,2
+Delaware,Harpersfield 1,U.S. House,19,REF,John J Faso,2
+Delaware,Kortright 1,U.S. House,19,REF,John J Faso,1
+Delaware,Kortright 2,U.S. House,19,REF,John J Faso,1
+Delaware,Masonville 1,U.S. House,19,REF,John J Faso,3
+Delaware,Meredith 1,U.S. House,19,REF,John J Faso,2
+Delaware,Meredith 2,U.S. House,19,REF,John J Faso,3
+Delaware,Middletown 1,U.S. House,19,REF,John J Faso,1
+Delaware,Middletown 2,U.S. House,19,REF,John J Faso,3
+Delaware,Middletown 3,U.S. House,19,REF,John J Faso,1
+Delaware,Middletown 4,U.S. House,19,REF,John J Faso,1
+Delaware,Middletown 5,U.S. House,19,REF,John J Faso,1
+Delaware,Roxbury 1,U.S. House,19,REF,John J Faso,3
+Delaware,Roxbury 2,U.S. House,19,REF,John J Faso,0
+Delaware,Roxbury 3,U.S. House,19,REF,John J Faso,1
+Delaware,Roxbury 4,U.S. House,19,REF,John J Faso,1
+Delaware,Sidney 1,U.S. House,19,REF,John J Faso,2
+Delaware,Sidney 2,U.S. House,19,REF,John J Faso,2
+Delaware,Sidney 3,U.S. House,19,REF,John J Faso,0
+Delaware,Sidney 4,U.S. House,19,REF,John J Faso,1
+Delaware,Sidney 5,U.S. House,19,REF,John J Faso,1
+Delaware,Sidney 6,U.S. House,19,REF,John J Faso,3
+Delaware,Sidney 7,U.S. House,19,REF,John J Faso,1
+Delaware,Stamford 1,U.S. House,19,REF,John J Faso,1
+Delaware,Stamford 2,U.S. House,19,REF,John J Faso,1
+Delaware,Tompkins 1,U.S. House,19,REF,John J Faso,0
+Delaware,Walton 1,U.S. House,19,REF,John J Faso,0
+Delaware,Walton 2,U.S. House,19,REF,John J Faso,1
+Delaware,Walton 3,U.S. House,19,REF,John J Faso,0
+Delaware,Walton 4,U.S. House,19,REF,John J Faso,1
+Delaware,Walton 5,U.S. House,19,REF,John J Faso,0
+Delaware,Andes 1,U.S. House,19,,Blanks,19
+Delaware,Andes 2,U.S. House,19,,Blanks,16
+Delaware,Bovina 1,U.S. House,19,,Blanks,18
+Delaware,Colchester 1,U.S. House,19,,Blanks,17
+Delaware,Colchester 2,U.S. House,19,,Blanks,7
+Delaware,Colchester 3,U.S. House,19,,Blanks,13
+Delaware,Colchester 4,U.S. House,19,,Blanks,9
+Delaware,Davenport 1,U.S. House,19,,Blanks,36
+Delaware,Davenport 2,U.S. House,19,,Blanks,37
+Delaware,Delhi 1,U.S. House,19,,Blanks,17
+Delaware,Delhi 2,U.S. House,19,,Blanks,23
+Delaware,Delhi 3,U.S. House,19,,Blanks,16
+Delaware,Delhi 4,U.S. House,19,,Blanks,21
+Delaware,Deposit 1,U.S. House,19,,Blanks,45
+Delaware,Deposit 2,U.S. House,19,,Blanks,9
+Delaware,Franklin 1,U.S. House,19,,Blanks,24
+Delaware,Franklin 2,U.S. House,19,,Blanks,16
+Delaware,Franklin 3,U.S. House,19,,Blanks,28
+Delaware,Hamden 1,U.S. House,19,,Blanks,30
+Delaware,Hancock 1,U.S. House,19,,Blanks,7
+Delaware,Hancock 2,U.S. House,19,,Blanks,11
+Delaware,Hancock 3,U.S. House,19,,Blanks,18
+Delaware,Hancock 4,U.S. House,19,,Blanks,25
+Delaware,Hancock 5,U.S. House,19,,Blanks,9
+Delaware,Hancock 6,U.S. House,19,,Blanks,26
+Delaware,Harpersfield 1,U.S. House,19,,Blanks,37
+Delaware,Kortright 1,U.S. House,19,,Blanks,13
+Delaware,Kortright 2,U.S. House,19,,Blanks,13
+Delaware,Masonville 1,U.S. House,19,,Blanks,26
+Delaware,Meredith 1,U.S. House,19,,Blanks,15
+Delaware,Meredith 2,U.S. House,19,,Blanks,7
+Delaware,Middletown 1,U.S. House,19,,Blanks,25
+Delaware,Middletown 2,U.S. House,19,,Blanks,30
+Delaware,Middletown 3,U.S. House,19,,Blanks,10
+Delaware,Middletown 4,U.S. House,19,,Blanks,6
+Delaware,Middletown 5,U.S. House,19,,Blanks,15
+Delaware,Roxbury 1,U.S. House,19,,Blanks,37
+Delaware,Roxbury 2,U.S. House,19,,Blanks,3
+Delaware,Roxbury 3,U.S. House,19,,Blanks,13
+Delaware,Roxbury 4,U.S. House,19,,Blanks,18
+Delaware,Sidney 1,U.S. House,19,,Blanks,19
+Delaware,Sidney 2,U.S. House,19,,Blanks,7
+Delaware,Sidney 3,U.S. House,19,,Blanks,17
+Delaware,Sidney 4,U.S. House,19,,Blanks,9
+Delaware,Sidney 5,U.S. House,19,,Blanks,7
+Delaware,Sidney 6,U.S. House,19,,Blanks,23
+Delaware,Sidney 7,U.S. House,19,,Blanks,20
+Delaware,Stamford 1,U.S. House,19,,Blanks,32
+Delaware,Stamford 2,U.S. House,19,,Blanks,26
+Delaware,Tompkins 1,U.S. House,19,,Blanks,33
+Delaware,Walton 1,U.S. House,19,,Blanks,35
+Delaware,Walton 2,U.S. House,19,,Blanks,20
+Delaware,Walton 3,U.S. House,19,,Blanks,19
+Delaware,Walton 4,U.S. House,19,,Blanks,22
+Delaware,Walton 5,U.S. House,19,,Blanks,22
+Delaware,Colchester 1,State Senate,42,,Total,426
+Delaware,Colchester 2,State Senate,42,,Total,206
+Delaware,Colchester 3,State Senate,42,,Total,164
+Delaware,Colchester 4,State Senate,42,,Total,205
+Delaware,Delhi 1,State Senate,42,,Total,451
+Delaware,Delhi 2,State Senate,42,,Total,381
+Delaware,Delhi 3,State Senate,42,,Total,397
+Delaware,Delhi 4,State Senate,42,,Total,371
+Delaware,Hamden 1,State Senate,42,,Total,604
+Delaware,Masonville 1,State Senate,42,,Total,524
+Delaware,Tompkins 1,State Senate,42,,Total,463
+Delaware,Walton 1,State Senate,42,,Total,513
+Delaware,Walton 2,State Senate,42,,Total,371
+Delaware,Walton 3,State Senate,42,,Total,393
+Delaware,Walton 4,State Senate,42,,Total,474
+Delaware,Walton 5,State Senate,42,,Total,454
+Delaware,Colchester 1,State Senate,42,DEM,Pramilla S Malick,75
+Delaware,Colchester 2,State Senate,42,DEM,Pramilla S Malick,45
+Delaware,Colchester 3,State Senate,42,DEM,Pramilla S Malick,26
+Delaware,Colchester 4,State Senate,42,DEM,Pramilla S Malick,28
+Delaware,Delhi 1,State Senate,42,DEM,Pramilla S Malick,110
+Delaware,Delhi 2,State Senate,42,DEM,Pramilla S Malick,86
+Delaware,Delhi 3,State Senate,42,DEM,Pramilla S Malick,106
+Delaware,Delhi 4,State Senate,42,DEM,Pramilla S Malick,131
+Delaware,Hamden 1,State Senate,42,DEM,Pramilla S Malick,113
+Delaware,Masonville 1,State Senate,42,DEM,Pramilla S Malick,98
+Delaware,Tompkins 1,State Senate,42,DEM,Pramilla S Malick,78
+Delaware,Walton 1,State Senate,42,DEM,Pramilla S Malick,70
+Delaware,Walton 2,State Senate,42,DEM,Pramilla S Malick,73
+Delaware,Walton 3,State Senate,42,DEM,Pramilla S Malick,70
+Delaware,Walton 4,State Senate,42,DEM,Pramilla S Malick,77
+Delaware,Walton 5,State Senate,42,DEM,Pramilla S Malick,71
+Delaware,Colchester 1,State Senate,42,REP,John J Bonacic,304
+Delaware,Colchester 2,State Senate,42,REP,John J Bonacic,124
+Delaware,Colchester 3,State Senate,42,REP,John J Bonacic,111
+Delaware,Colchester 4,State Senate,42,REP,John J Bonacic,148
+Delaware,Delhi 1,State Senate,42,REP,John J Bonacic,263
+Delaware,Delhi 2,State Senate,42,REP,John J Bonacic,224
+Delaware,Delhi 3,State Senate,42,REP,John J Bonacic,234
+Delaware,Delhi 4,State Senate,42,REP,John J Bonacic,179
+Delaware,Hamden 1,State Senate,42,REP,John J Bonacic,361
+Delaware,Masonville 1,State Senate,42,REP,John J Bonacic,334
+Delaware,Tompkins 1,State Senate,42,REP,John J Bonacic,314
+Delaware,Walton 1,State Senate,42,REP,John J Bonacic,363
+Delaware,Walton 2,State Senate,42,REP,John J Bonacic,231
+Delaware,Walton 3,State Senate,42,REP,John J Bonacic,258
+Delaware,Walton 4,State Senate,42,REP,John J Bonacic,313
+Delaware,Walton 5,State Senate,42,REP,John J Bonacic,316
+Delaware,Colchester 1,State Senate,42,CON,John J Bonacic,18
+Delaware,Colchester 2,State Senate,42,CON,John J Bonacic,21
+Delaware,Colchester 3,State Senate,42,CON,John J Bonacic,10
+Delaware,Colchester 4,State Senate,42,CON,John J Bonacic,13
+Delaware,Delhi 1,State Senate,42,CON,John J Bonacic,36
+Delaware,Delhi 2,State Senate,42,CON,John J Bonacic,27
+Delaware,Delhi 3,State Senate,42,CON,John J Bonacic,22
+Delaware,Delhi 4,State Senate,42,CON,John J Bonacic,12
+Delaware,Hamden 1,State Senate,42,CON,John J Bonacic,54
+Delaware,Masonville 1,State Senate,42,CON,John J Bonacic,28
+Delaware,Tompkins 1,State Senate,42,CON,John J Bonacic,32
+Delaware,Walton 1,State Senate,42,CON,John J Bonacic,36
+Delaware,Walton 2,State Senate,42,CON,John J Bonacic,27
+Delaware,Walton 3,State Senate,42,CON,John J Bonacic,25
+Delaware,Walton 4,State Senate,42,CON,John J Bonacic,28
+Delaware,Walton 5,State Senate,42,CON,John J Bonacic,25
+Delaware,Colchester 1,State Senate,42,IND,John J Bonacic,13
+Delaware,Colchester 2,State Senate,42,IND,John J Bonacic,6
+Delaware,Colchester 3,State Senate,42,IND,John J Bonacic,5
+Delaware,Colchester 4,State Senate,42,IND,John J Bonacic,8
+Delaware,Delhi 1,State Senate,42,IND,John J Bonacic,22
+Delaware,Delhi 2,State Senate,42,IND,John J Bonacic,12
+Delaware,Delhi 3,State Senate,42,IND,John J Bonacic,20
+Delaware,Delhi 4,State Senate,42,IND,John J Bonacic,13
+Delaware,Hamden 1,State Senate,42,IND,John J Bonacic,36
+Delaware,Masonville 1,State Senate,42,IND,John J Bonacic,18
+Delaware,Tompkins 1,State Senate,42,IND,John J Bonacic,11
+Delaware,Walton 1,State Senate,42,IND,John J Bonacic,15
+Delaware,Walton 2,State Senate,42,IND,John J Bonacic,16
+Delaware,Walton 3,State Senate,42,IND,John J Bonacic,11
+Delaware,Walton 4,State Senate,42,IND,John J Bonacic,20
+Delaware,Walton 5,State Senate,42,IND,John J Bonacic,13
+Delaware,Colchester 1,State Senate,42,REF,John J Bonacic,0
+Delaware,Colchester 2,State Senate,42,REF,John J Bonacic,2
+Delaware,Colchester 3,State Senate,42,REF,John J Bonacic,1
+Delaware,Colchester 4,State Senate,42,REF,John J Bonacic,1
+Delaware,Delhi 1,State Senate,42,REF,John J Bonacic,0
+Delaware,Delhi 2,State Senate,42,REF,John J Bonacic,1
+Delaware,Delhi 3,State Senate,42,REF,John J Bonacic,0
+Delaware,Delhi 4,State Senate,42,REF,John J Bonacic,1
+Delaware,Hamden 1,State Senate,42,REF,John J Bonacic,1
+Delaware,Masonville 1,State Senate,42,REF,John J Bonacic,2
+Delaware,Tompkins 1,State Senate,42,REF,John J Bonacic,1
+Delaware,Walton 1,State Senate,42,REF,John J Bonacic,1
+Delaware,Walton 2,State Senate,42,REF,John J Bonacic,4
+Delaware,Walton 3,State Senate,42,REF,John J Bonacic,2
+Delaware,Walton 4,State Senate,42,REF,John J Bonacic,3
+Delaware,Walton 5,State Senate,42,REF,John J Bonacic,1
+Delaware,Colchester 1,State Senate,42,,Blanks,16
+Delaware,Colchester 2,State Senate,42,,Blanks,8
+Delaware,Colchester 3,State Senate,42,,Blanks,11
+Delaware,Colchester 4,State Senate,42,,Blanks,7
+Delaware,Delhi 1,State Senate,42,,Blanks,20
+Delaware,Delhi 2,State Senate,42,,Blanks,31
+Delaware,Delhi 3,State Senate,42,,Blanks,15
+Delaware,Delhi 4,State Senate,42,,Blanks,35
+Delaware,Hamden 1,State Senate,42,,Blanks,39
+Delaware,Masonville 1,State Senate,42,,Blanks,44
+Delaware,Tompkins 1,State Senate,42,,Blanks,27
+Delaware,Walton 1,State Senate,42,,Blanks,28
+Delaware,Walton 2,State Senate,42,,Blanks,20
+Delaware,Walton 3,State Senate,42,,Blanks,27
+Delaware,Walton 4,State Senate,42,,Blanks,33
+Delaware,Walton 5,State Senate,42,,Blanks,28
+Delaware,Andes 1,State Senate,51,,Total,483
+Delaware,Andes 2,State Senate,51,,Total,228
+Delaware,Bovina 1,State Senate,51,,Total,401
+Delaware,Davenport 1,State Senate,51,,Total,421
+Delaware,Davenport 2,State Senate,51,,Total,742
+Delaware,Franklin 1,State Senate,51,,Total,389
+Delaware,Franklin 2,State Senate,51,,Total,325
+Delaware,Franklin 3,State Senate,51,,Total,506
+Delaware,Harpersfield 1,State Senate,51,,Total,682
+Delaware,Kortright 1,State Senate,51,,Total,379
+Delaware,Kortright 2,State Senate,51,,Total,382
+Delaware,Meredith 1,State Senate,51,,Total,549
+Delaware,Meredith 2,State Senate,51,,Total,259
+Delaware,Middletown 1,State Senate,51,,Total,390
+Delaware,Middletown 2,State Senate,51,,Total,480
+Delaware,Middletown 3,State Senate,51,,Total,272
+Delaware,Middletown 4,State Senate,51,,Total,177
+Delaware,Middletown 5,State Senate,51,,Total,262
+Delaware,Roxbury 1,State Senate,51,,Total,400
+Delaware,Roxbury 2,State Senate,51,,Total,189
+Delaware,Roxbury 3,State Senate,51,,Total,322
+Delaware,Roxbury 4,State Senate,51,,Total,308
+Delaware,Sidney 1,State Senate,51,,Total,336
+Delaware,Sidney 2,State Senate,51,,Total,320
+Delaware,Sidney 3,State Senate,51,,Total,302
+Delaware,Sidney 4,State Senate,51,,Total,290
+Delaware,Sidney 5,State Senate,51,,Total,239
+Delaware,Sidney 6,State Senate,51,,Total,408
+Delaware,Sidney 7,State Senate,51,,Total,299
+Delaware,Stamford 1,State Senate,51,,Total,511
+Delaware,Stamford 2,State Senate,51,,Total,397
+Delaware,Andes 1,State Senate,51,DEM,Jermaine Bagnall-Graham,156
+Delaware,Andes 2,State Senate,51,DEM,Jermaine Bagnall-Graham,53
+Delaware,Bovina 1,State Senate,51,DEM,Jermaine Bagnall-Graham,124
+Delaware,Davenport 1,State Senate,51,DEM,Jermaine Bagnall-Graham,69
+Delaware,Davenport 2,State Senate,51,DEM,Jermaine Bagnall-Graham,143
+Delaware,Franklin 1,State Senate,51,DEM,Jermaine Bagnall-Graham,77
+Delaware,Franklin 2,State Senate,51,DEM,Jermaine Bagnall-Graham,78
+Delaware,Franklin 3,State Senate,51,DEM,Jermaine Bagnall-Graham,106
+Delaware,Harpersfield 1,State Senate,51,DEM,Jermaine Bagnall-Graham,132
+Delaware,Kortright 1,State Senate,51,DEM,Jermaine Bagnall-Graham,74
+Delaware,Kortright 2,State Senate,51,DEM,Jermaine Bagnall-Graham,76
+Delaware,Meredith 1,State Senate,51,DEM,Jermaine Bagnall-Graham,125
+Delaware,Meredith 2,State Senate,51,DEM,Jermaine Bagnall-Graham,68
+Delaware,Middletown 1,State Senate,51,DEM,Jermaine Bagnall-Graham,100
+Delaware,Middletown 2,State Senate,51,DEM,Jermaine Bagnall-Graham,156
+Delaware,Middletown 3,State Senate,51,DEM,Jermaine Bagnall-Graham,70
+Delaware,Middletown 4,State Senate,51,DEM,Jermaine Bagnall-Graham,53
+Delaware,Middletown 5,State Senate,51,DEM,Jermaine Bagnall-Graham,56
+Delaware,Roxbury 1,State Senate,51,DEM,Jermaine Bagnall-Graham,42
+Delaware,Roxbury 2,State Senate,51,DEM,Jermaine Bagnall-Graham,55
+Delaware,Roxbury 3,State Senate,51,DEM,Jermaine Bagnall-Graham,89
+Delaware,Roxbury 4,State Senate,51,DEM,Jermaine Bagnall-Graham,71
+Delaware,Sidney 1,State Senate,51,DEM,Jermaine Bagnall-Graham,63
+Delaware,Sidney 2,State Senate,51,DEM,Jermaine Bagnall-Graham,80
+Delaware,Sidney 3,State Senate,51,DEM,Jermaine Bagnall-Graham,39
+Delaware,Sidney 4,State Senate,51,DEM,Jermaine Bagnall-Graham,67
+Delaware,Sidney 5,State Senate,51,DEM,Jermaine Bagnall-Graham,44
+Delaware,Sidney 6,State Senate,51,DEM,Jermaine Bagnall-Graham,110
+Delaware,Sidney 7,State Senate,51,DEM,Jermaine Bagnall-Graham,65
+Delaware,Stamford 1,State Senate,51,DEM,Jermaine Bagnall-Graham,93
+Delaware,Stamford 2,State Senate,51,DEM,Jermaine Bagnall-Graham,71
+Delaware,Andes 1,State Senate,51,REP,James L Seward,243
+Delaware,Andes 2,State Senate,51,REP,James L Seward,132
+Delaware,Bovina 1,State Senate,51,REP,James L Seward,203
+Delaware,Davenport 1,State Senate,51,REP,James L Seward,269
+Delaware,Davenport 2,State Senate,51,REP,James L Seward,464
+Delaware,Franklin 1,State Senate,51,REP,James L Seward,244
+Delaware,Franklin 2,State Senate,51,REP,James L Seward,173
+Delaware,Franklin 3,State Senate,51,REP,James L Seward,320
+Delaware,Harpersfield 1,State Senate,51,REP,James L Seward,431
+Delaware,Kortright 1,State Senate,51,REP,James L Seward,235
+Delaware,Kortright 2,State Senate,51,REP,James L Seward,237
+Delaware,Meredith 1,State Senate,51,REP,James L Seward,327
+Delaware,Meredith 2,State Senate,51,REP,James L Seward,146
+Delaware,Middletown 1,State Senate,51,REP,James L Seward,210
+Delaware,Middletown 2,State Senate,51,REP,James L Seward,212
+Delaware,Middletown 3,State Senate,51,REP,James L Seward,146
+Delaware,Middletown 4,State Senate,51,REP,James L Seward,90
+Delaware,Middletown 5,State Senate,51,REP,James L Seward,155
+Delaware,Roxbury 1,State Senate,51,REP,James L Seward,278
+Delaware,Roxbury 2,State Senate,51,REP,James L Seward,105
+Delaware,Roxbury 3,State Senate,51,REP,James L Seward,175
+Delaware,Roxbury 4,State Senate,51,REP,James L Seward,190
+Delaware,Sidney 1,State Senate,51,REP,James L Seward,203
+Delaware,Sidney 2,State Senate,51,REP,James L Seward,180
+Delaware,Sidney 3,State Senate,51,REP,James L Seward,227
+Delaware,Sidney 4,State Senate,51,REP,James L Seward,186
+Delaware,Sidney 5,State Senate,51,REP,James L Seward,161
+Delaware,Sidney 6,State Senate,51,REP,James L Seward,233
+Delaware,Sidney 7,State Senate,51,REP,James L Seward,170
+Delaware,Stamford 1,State Senate,51,REP,James L Seward,318
+Delaware,Stamford 2,State Senate,51,REP,James L Seward,244
+Delaware,Andes 1,State Senate,51,CON,James L Seward,27
+Delaware,Andes 2,State Senate,51,CON,James L Seward,15
+Delaware,Bovina 1,State Senate,51,CON,James L Seward,28
+Delaware,Davenport 1,State Senate,51,CON,James L Seward,33
+Delaware,Davenport 2,State Senate,51,CON,James L Seward,47
+Delaware,Franklin 1,State Senate,51,CON,James L Seward,26
+Delaware,Franklin 2,State Senate,51,CON,James L Seward,24
+Delaware,Franklin 3,State Senate,51,CON,James L Seward,21
+Delaware,Harpersfield 1,State Senate,51,CON,James L Seward,43
+Delaware,Kortright 1,State Senate,51,CON,James L Seward,35
+Delaware,Kortright 2,State Senate,51,CON,James L Seward,28
+Delaware,Meredith 1,State Senate,51,CON,James L Seward,29
+Delaware,Meredith 2,State Senate,51,CON,James L Seward,24
+Delaware,Middletown 1,State Senate,51,CON,James L Seward,29
+Delaware,Middletown 2,State Senate,51,CON,James L Seward,30
+Delaware,Middletown 3,State Senate,51,CON,James L Seward,20
+Delaware,Middletown 4,State Senate,51,CON,James L Seward,7
+Delaware,Middletown 5,State Senate,51,CON,James L Seward,15
+Delaware,Roxbury 1,State Senate,51,CON,James L Seward,37
+Delaware,Roxbury 2,State Senate,51,CON,James L Seward,11
+Delaware,Roxbury 3,State Senate,51,CON,James L Seward,15
+Delaware,Roxbury 4,State Senate,51,CON,James L Seward,20
+Delaware,Sidney 1,State Senate,51,CON,James L Seward,24
+Delaware,Sidney 2,State Senate,51,CON,James L Seward,22
+Delaware,Sidney 3,State Senate,51,CON,James L Seward,19
+Delaware,Sidney 4,State Senate,51,CON,James L Seward,8
+Delaware,Sidney 5,State Senate,51,CON,James L Seward,12
+Delaware,Sidney 6,State Senate,51,CON,James L Seward,14
+Delaware,Sidney 7,State Senate,51,CON,James L Seward,23
+Delaware,Stamford 1,State Senate,51,CON,James L Seward,35
+Delaware,Stamford 2,State Senate,51,CON,James L Seward,22
+Delaware,Andes 1,State Senate,51,IND,James L Seward,15
+Delaware,Andes 2,State Senate,51,IND,James L Seward,4
+Delaware,Bovina 1,State Senate,51,IND,James L Seward,14
+Delaware,Davenport 1,State Senate,51,IND,James L Seward,18
+Delaware,Davenport 2,State Senate,51,IND,James L Seward,29
+Delaware,Franklin 1,State Senate,51,IND,James L Seward,12
+Delaware,Franklin 2,State Senate,51,IND,James L Seward,12
+Delaware,Franklin 3,State Senate,51,IND,James L Seward,11
+Delaware,Harpersfield 1,State Senate,51,IND,James L Seward,20
+Delaware,Kortright 1,State Senate,51,IND,James L Seward,12
+Delaware,Kortright 2,State Senate,51,IND,James L Seward,13
+Delaware,Meredith 1,State Senate,51,IND,James L Seward,27
+Delaware,Meredith 2,State Senate,51,IND,James L Seward,5
+Delaware,Middletown 1,State Senate,51,IND,James L Seward,12
+Delaware,Middletown 2,State Senate,51,IND,James L Seward,26
+Delaware,Middletown 3,State Senate,51,IND,James L Seward,15
+Delaware,Middletown 4,State Senate,51,IND,James L Seward,10
+Delaware,Middletown 5,State Senate,51,IND,James L Seward,11
+Delaware,Roxbury 1,State Senate,51,IND,James L Seward,8
+Delaware,Roxbury 2,State Senate,51,IND,James L Seward,9
+Delaware,Roxbury 3,State Senate,51,IND,James L Seward,15
+Delaware,Roxbury 4,State Senate,51,IND,James L Seward,6
+Delaware,Sidney 1,State Senate,51,IND,James L Seward,15
+Delaware,Sidney 2,State Senate,51,IND,James L Seward,12
+Delaware,Sidney 3,State Senate,51,IND,James L Seward,8
+Delaware,Sidney 4,State Senate,51,IND,James L Seward,12
+Delaware,Sidney 5,State Senate,51,IND,James L Seward,5
+Delaware,Sidney 6,State Senate,51,IND,James L Seward,19
+Delaware,Sidney 7,State Senate,51,IND,James L Seward,16
+Delaware,Stamford 1,State Senate,51,IND,James L Seward,24
+Delaware,Stamford 2,State Senate,51,IND,James L Seward,15
+Delaware,Andes 1,State Senate,51,WEP,Jermaine Bagnall-Graham,8
+Delaware,Andes 2,State Senate,51,WEP,Jermaine Bagnall-Graham,5
+Delaware,Bovina 1,State Senate,51,WEP,Jermaine Bagnall-Graham,11
+Delaware,Davenport 1,State Senate,51,WEP,Jermaine Bagnall-Graham,7
+Delaware,Davenport 2,State Senate,51,WEP,Jermaine Bagnall-Graham,13
+Delaware,Franklin 1,State Senate,51,WEP,Jermaine Bagnall-Graham,1
+Delaware,Franklin 2,State Senate,51,WEP,Jermaine Bagnall-Graham,9
+Delaware,Franklin 3,State Senate,51,WEP,Jermaine Bagnall-Graham,7
+Delaware,Harpersfield 1,State Senate,51,WEP,Jermaine Bagnall-Graham,11
+Delaware,Kortright 1,State Senate,51,WEP,Jermaine Bagnall-Graham,10
+Delaware,Kortright 2,State Senate,51,WEP,Jermaine Bagnall-Graham,7
+Delaware,Meredith 1,State Senate,51,WEP,Jermaine Bagnall-Graham,8
+Delaware,Meredith 2,State Senate,51,WEP,Jermaine Bagnall-Graham,3
+Delaware,Middletown 1,State Senate,51,WEP,Jermaine Bagnall-Graham,5
+Delaware,Middletown 2,State Senate,51,WEP,Jermaine Bagnall-Graham,8
+Delaware,Middletown 3,State Senate,51,WEP,Jermaine Bagnall-Graham,2
+Delaware,Middletown 4,State Senate,51,WEP,Jermaine Bagnall-Graham,2
+Delaware,Middletown 5,State Senate,51,WEP,Jermaine Bagnall-Graham,3
+Delaware,Roxbury 1,State Senate,51,WEP,Jermaine Bagnall-Graham,3
+Delaware,Roxbury 2,State Senate,51,WEP,Jermaine Bagnall-Graham,0
+Delaware,Roxbury 3,State Senate,51,WEP,Jermaine Bagnall-Graham,4
+Delaware,Roxbury 4,State Senate,51,WEP,Jermaine Bagnall-Graham,2
+Delaware,Sidney 1,State Senate,51,WEP,Jermaine Bagnall-Graham,5
+Delaware,Sidney 2,State Senate,51,WEP,Jermaine Bagnall-Graham,9
+Delaware,Sidney 3,State Senate,51,WEP,Jermaine Bagnall-Graham,1
+Delaware,Sidney 4,State Senate,51,WEP,Jermaine Bagnall-Graham,3
+Delaware,Sidney 5,State Senate,51,WEP,Jermaine Bagnall-Graham,2
+Delaware,Sidney 6,State Senate,51,WEP,Jermaine Bagnall-Graham,5
+Delaware,Sidney 7,State Senate,51,WEP,Jermaine Bagnall-Graham,5
+Delaware,Stamford 1,State Senate,51,WEP,Jermaine Bagnall-Graham,5
+Delaware,Stamford 2,State Senate,51,WEP,Jermaine Bagnall-Graham,5
+Delaware,Andes 1,State Senate,51,REF,James L Seward,3
+Delaware,Andes 2,State Senate,51,REF,James L Seward,0
+Delaware,Bovina 1,State Senate,51,REF,James L Seward,1
+Delaware,Davenport 1,State Senate,51,REF,James L Seward,4
+Delaware,Davenport 2,State Senate,51,REF,James L Seward,4
+Delaware,Franklin 1,State Senate,51,REF,James L Seward,1
+Delaware,Franklin 2,State Senate,51,REF,James L Seward,4
+Delaware,Franklin 3,State Senate,51,REF,James L Seward,3
+Delaware,Harpersfield 1,State Senate,51,REF,James L Seward,8
+Delaware,Kortright 1,State Senate,51,REF,James L Seward,1
+Delaware,Kortright 2,State Senate,51,REF,James L Seward,1
+Delaware,Meredith 1,State Senate,51,REF,James L Seward,1
+Delaware,Meredith 2,State Senate,51,REF,James L Seward,1
+Delaware,Middletown 1,State Senate,51,REF,James L Seward,2
+Delaware,Middletown 2,State Senate,51,REF,James L Seward,1
+Delaware,Middletown 3,State Senate,51,REF,James L Seward,2
+Delaware,Middletown 4,State Senate,51,REF,James L Seward,0
+Delaware,Middletown 5,State Senate,51,REF,James L Seward,0
+Delaware,Roxbury 1,State Senate,51,REF,James L Seward,1
+Delaware,Roxbury 2,State Senate,51,REF,James L Seward,0
+Delaware,Roxbury 3,State Senate,51,REF,James L Seward,2
+Delaware,Roxbury 4,State Senate,51,REF,James L Seward,0
+Delaware,Sidney 1,State Senate,51,REF,James L Seward,1
+Delaware,Sidney 2,State Senate,51,REF,James L Seward,1
+Delaware,Sidney 3,State Senate,51,REF,James L Seward,0
+Delaware,Sidney 4,State Senate,51,REF,James L Seward,1
+Delaware,Sidney 5,State Senate,51,REF,James L Seward,0
+Delaware,Sidney 6,State Senate,51,REF,James L Seward,2
+Delaware,Sidney 7,State Senate,51,REF,James L Seward,1
+Delaware,Stamford 1,State Senate,51,REF,James L Seward,3
+Delaware,Stamford 2,State Senate,51,REF,James L Seward,2
+Delaware,Andes 1,State Senate,51,,Blanks,31
+Delaware,Andes 2,State Senate,51,,Blanks,19
+Delaware,Bovina 1,State Senate,51,,Blanks,20
+Delaware,Davenport 1,State Senate,51,,Blanks,21
+Delaware,Davenport 2,State Senate,51,,Blanks,42
+Delaware,Franklin 1,State Senate,51,,Blanks,28
+Delaware,Franklin 2,State Senate,51,,Blanks,25
+Delaware,Franklin 3,State Senate,51,,Blanks,38
+Delaware,Harpersfield 1,State Senate,51,,Blanks,37
+Delaware,Kortright 1,State Senate,51,,Blanks,12
+Delaware,Kortright 2,State Senate,51,,Blanks,20
+Delaware,Meredith 1,State Senate,51,,Blanks,32
+Delaware,Meredith 2,State Senate,51,,Blanks,12
+Delaware,Middletown 1,State Senate,51,,Blanks,32
+Delaware,Middletown 2,State Senate,51,,Blanks,47
+Delaware,Middletown 3,State Senate,51,,Blanks,17
+Delaware,Middletown 4,State Senate,51,,Blanks,15
+Delaware,Middletown 5,State Senate,51,,Blanks,22
+Delaware,Roxbury 1,State Senate,51,,Blanks,31
+Delaware,Roxbury 2,State Senate,51,,Blanks,9
+Delaware,Roxbury 3,State Senate,51,,Blanks,22
+Delaware,Roxbury 4,State Senate,51,,Blanks,19
+Delaware,Sidney 1,State Senate,51,,Blanks,25
+Delaware,Sidney 2,State Senate,51,,Blanks,16
+Delaware,Sidney 3,State Senate,51,,Blanks,8
+Delaware,Sidney 4,State Senate,51,,Blanks,13
+Delaware,Sidney 5,State Senate,51,,Blanks,15
+Delaware,Sidney 6,State Senate,51,,Blanks,25
+Delaware,Sidney 7,State Senate,51,,Blanks,19
+Delaware,Stamford 1,State Senate,51,,Blanks,33
+Delaware,Stamford 2,State Senate,51,,Blanks,38
+Delaware,Deposit 1,State Senate,52,,Total,422
+Delaware,Deposit 2,State Senate,52,,Total,215
+Delaware,Hancock 1,State Senate,52,,Total,170
+Delaware,Hancock 2,State Senate,52,,Total,208
+Delaware,Hancock 3,State Senate,52,,Total,352
+Delaware,Hancock 4,State Senate,52,,Total,189
+Delaware,Hancock 5,State Senate,52,,Total,136
+Delaware,Hancock 6,State Senate,52,,Total,195
+Delaware,Deposit 1,State Senate,52,DEM,Sharon Ball,30
+Delaware,Deposit 2,State Senate,52,DEM,Sharon Ball,34
+Delaware,Hancock 1,State Senate,52,DEM,Sharon Ball,31
+Delaware,Hancock 2,State Senate,52,DEM,Sharon Ball,42
+Delaware,Hancock 3,State Senate,52,DEM,Sharon Ball,56
+Delaware,Hancock 4,State Senate,52,DEM,Sharon Ball,22
+Delaware,Hancock 5,State Senate,52,DEM,Sharon Ball,11
+Delaware,Hancock 6,State Senate,52,DEM,Sharon Ball,28
+Delaware,Deposit 1,State Senate,52,REP,Frederick J Aksher II,311
+Delaware,Deposit 2,State Senate,52,REP,Frederick J Aksher II,140
+Delaware,Hancock 1,State Senate,52,REP,Frederick J Aksher II,107
+Delaware,Hancock 2,State Senate,52,REP,Frederick J Aksher II,137
+Delaware,Hancock 3,State Senate,52,REP,Frederick J Aksher II,259
+Delaware,Hancock 4,State Senate,52,REP,Frederick J Aksher II,122
+Delaware,Hancock 5,State Senate,52,REP,Frederick J Aksher II,104
+Delaware,Hancock 6,State Senate,52,REP,Frederick J Aksher II,135
+Delaware,Deposit 1,State Senate,52,CON,Frederick J Aksher II,30
+Delaware,Deposit 2,State Senate,52,CON,Frederick J Aksher II,14
+Delaware,Hancock 1,State Senate,52,CON,Frederick J Aksher II,10
+Delaware,Hancock 2,State Senate,52,CON,Frederick J Aksher II,12
+Delaware,Hancock 3,State Senate,52,CON,Frederick J Aksher II,10
+Delaware,Hancock 4,State Senate,52,CON,Frederick J Aksher II,12
+Delaware,Hancock 5,State Senate,52,CON,Frederick J Aksher II,7
+Delaware,Hancock 6,State Senate,52,CON,Frederick J Aksher II,10
+Delaware,Deposit 1,State Senate,52,WOR,Sharon Ball,5
+Delaware,Deposit 2,State Senate,52,WOR,Sharon Ball,9
+Delaware,Hancock 1,State Senate,52,WOR,Sharon Ball,7
+Delaware,Hancock 2,State Senate,52,WOR,Sharon Ball,5
+Delaware,Hancock 3,State Senate,52,WOR,Sharon Ball,6
+Delaware,Hancock 4,State Senate,52,WOR,Sharon Ball,5
+Delaware,Hancock 5,State Senate,52,WOR,Sharon Ball,3
+Delaware,Hancock 6,State Senate,52,WOR,Sharon Ball,2
+Delaware,Deposit 1,State Senate,52,IND,Frederick J Aksher II,27
+Delaware,Deposit 2,State Senate,52,IND,Frederick J Aksher II,9
+Delaware,Hancock 1,State Senate,52,IND,Frederick J Aksher II,7
+Delaware,Hancock 2,State Senate,52,IND,Frederick J Aksher II,5
+Delaware,Hancock 3,State Senate,52,IND,Frederick J Aksher II,6
+Delaware,Hancock 4,State Senate,52,IND,Frederick J Aksher II,8
+Delaware,Hancock 5,State Senate,52,IND,Frederick J Aksher II,3
+Delaware,Hancock 6,State Senate,52,IND,Frederick J Aksher II,1
+Delaware,Deposit 1,State Senate,52,REF,Frederick J Aksher II,6
+Delaware,Deposit 2,State Senate,52,REF,Frederick J Aksher II,2
+Delaware,Hancock 1,State Senate,52,REF,Frederick J Aksher II,0
+Delaware,Hancock 2,State Senate,52,REF,Frederick J Aksher II,1
+Delaware,Hancock 3,State Senate,52,REF,Frederick J Aksher II,0
+Delaware,Hancock 4,State Senate,52,REF,Frederick J Aksher II,1
+Delaware,Hancock 5,State Senate,52,REF,Frederick J Aksher II,1
+Delaware,Hancock 6,State Senate,52,REF,Frederick J Aksher II,2
+Delaware,Deposit 1,State Senate,52,,Blanks,13
+Delaware,Deposit 2,State Senate,52,,Blanks,7
+Delaware,Hancock 1,State Senate,52,,Blanks,8
+Delaware,Hancock 2,State Senate,52,,Blanks,6
+Delaware,Hancock 3,State Senate,52,,Blanks,15
+Delaware,Hancock 4,State Senate,52,,Blanks,19
+Delaware,Hancock 5,State Senate,52,,Blanks,7
+Delaware,Hancock 6,State Senate,52,,Blanks,17
+Delaware,Andes 1,State Assembly,101,,Total,483
+Delaware,Andes 2,State Assembly,101,,Total,228
+Delaware,Bovina 1,State Assembly,101,,Total,401
+Delaware,Davenport 1,State Assembly,101,,Total,421
+Delaware,Davenport 2,State Assembly,101,,Total,742
+Delaware,Delhi 1,State Assembly,101,,Total,451
+Delaware,Delhi 2,State Assembly,101,,Total,381
+Delaware,Delhi 3,State Assembly,101,,Total,397
+Delaware,Delhi 4,State Assembly,101,,Total,371
+Delaware,Hamden 1,State Assembly,101,,Total,604
+Delaware,Meredith 1,State Assembly,101,,Total,549
+Delaware,Meredith 2,State Assembly,101,,Total,259
+Delaware,Andes 1,State Assembly,101,DEM,Arlene G Feldmeire,173
+Delaware,Andes 2,State Assembly,101,DEM,Arlene G Feldmeire,56
+Delaware,Bovina 1,State Assembly,101,DEM,Arlene G Feldmeire,121
+Delaware,Davenport 1,State Assembly,101,DEM,Arlene G Feldmeire,76
+Delaware,Davenport 2,State Assembly,101,DEM,Arlene G Feldmeire,166
+Delaware,Delhi 1,State Assembly,101,DEM,Arlene G Feldmeire,115
+Delaware,Delhi 2,State Assembly,101,DEM,Arlene G Feldmeire,92
+Delaware,Delhi 3,State Assembly,101,DEM,Arlene G Feldmeire,109
+Delaware,Delhi 4,State Assembly,101,DEM,Arlene G Feldmeire,133
+Delaware,Hamden 1,State Assembly,101,DEM,Arlene G Feldmeire,133
+Delaware,Meredith 1,State Assembly,101,DEM,Arlene G Feldmeire,141
+Delaware,Meredith 2,State Assembly,101,DEM,Arlene G Feldmeire,81
+Delaware,Andes 1,State Assembly,101,REP,Brian D Miller,192
+Delaware,Andes 2,State Assembly,101,REP,Brian D Miller,99
+Delaware,Bovina 1,State Assembly,101,REP,Brian D Miller,156
+Delaware,Davenport 1,State Assembly,101,REP,Brian D Miller,166
+Delaware,Davenport 2,State Assembly,101,REP,Brian D Miller,244
+Delaware,Delhi 1,State Assembly,101,REP,Brian D Miller,176
+Delaware,Delhi 2,State Assembly,101,REP,Brian D Miller,158
+Delaware,Delhi 3,State Assembly,101,REP,Brian D Miller,171
+Delaware,Delhi 4,State Assembly,101,REP,Brian D Miller,117
+Delaware,Hamden 1,State Assembly,101,REP,Brian D Miller,267
+Delaware,Meredith 1,State Assembly,101,REP,Brian D Miller,261
+Delaware,Meredith 2,State Assembly,101,REP,Brian D Miller,103
+Delaware,Andes 1,State Assembly,101,CON,Maria E Kelso,52
+Delaware,Andes 2,State Assembly,101,CON,Maria E Kelso,30
+Delaware,Bovina 1,State Assembly,101,CON,Maria E Kelso,63
+Delaware,Davenport 1,State Assembly,101,CON,Maria E Kelso,118
+Delaware,Davenport 2,State Assembly,101,CON,Maria E Kelso,210
+Delaware,Delhi 1,State Assembly,101,CON,Maria E Kelso,92
+Delaware,Delhi 2,State Assembly,101,CON,Maria E Kelso,72
+Delaware,Delhi 3,State Assembly,101,CON,Maria E Kelso,62
+Delaware,Delhi 4,State Assembly,101,CON,Maria E Kelso,51
+Delaware,Hamden 1,State Assembly,101,CON,Maria E Kelso,120
+Delaware,Meredith 1,State Assembly,101,CON,Maria E Kelso,72
+Delaware,Meredith 2,State Assembly,101,CON,Maria E Kelso,52
+Delaware,Andes 1,State Assembly,101,WOR,Arlene G Feldmeire,16
+Delaware,Andes 2,State Assembly,101,WOR,Arlene G Feldmeire,8
+Delaware,Bovina 1,State Assembly,101,WOR,Arlene G Feldmeire,24
+Delaware,Davenport 1,State Assembly,101,WOR,Arlene G Feldmeire,1
+Delaware,Davenport 2,State Assembly,101,WOR,Arlene G Feldmeire,14
+Delaware,Delhi 1,State Assembly,101,WOR,Arlene G Feldmeire,20
+Delaware,Delhi 2,State Assembly,101,WOR,Arlene G Feldmeire,16
+Delaware,Delhi 3,State Assembly,101,WOR,Arlene G Feldmeire,11
+Delaware,Delhi 4,State Assembly,101,WOR,Arlene G Feldmeire,14
+Delaware,Hamden 1,State Assembly,101,WOR,Arlene G Feldmeire,19
+Delaware,Meredith 1,State Assembly,101,WOR,Arlene G Feldmeire,17
+Delaware,Meredith 2,State Assembly,101,WOR,Arlene G Feldmeire,6
+Delaware,Andes 1,State Assembly,101,IND,Brian D Miller,9
+Delaware,Andes 2,State Assembly,101,IND,Brian D Miller,3
+Delaware,Bovina 1,State Assembly,101,IND,Brian D Miller,5
+Delaware,Davenport 1,State Assembly,101,IND,Brian D Miller,15
+Delaware,Davenport 2,State Assembly,101,IND,Brian D Miller,20
+Delaware,Delhi 1,State Assembly,101,IND,Brian D Miller,20
+Delaware,Delhi 2,State Assembly,101,IND,Brian D Miller,7
+Delaware,Delhi 3,State Assembly,101,IND,Brian D Miller,13
+Delaware,Delhi 4,State Assembly,101,IND,Brian D Miller,6
+Delaware,Hamden 1,State Assembly,101,IND,Brian D Miller,15
+Delaware,Meredith 1,State Assembly,101,IND,Brian D Miller,11
+Delaware,Meredith 2,State Assembly,101,IND,Brian D Miller,4
+Delaware,Andes 1,State Assembly,101,REF,Maria E Kelso,1
+Delaware,Andes 2,State Assembly,101,REF,Maria E Kelso,1
+Delaware,Bovina 1,State Assembly,101,REF,Maria E Kelso,5
+Delaware,Davenport 1,State Assembly,101,REF,Maria E Kelso,5
+Delaware,Davenport 2,State Assembly,101,REF,Maria E Kelso,11
+Delaware,Delhi 1,State Assembly,101,REF,Maria E Kelso,2
+Delaware,Delhi 2,State Assembly,101,REF,Maria E Kelso,2
+Delaware,Delhi 3,State Assembly,101,REF,Maria E Kelso,9
+Delaware,Delhi 4,State Assembly,101,REF,Maria E Kelso,5
+Delaware,Hamden 1,State Assembly,101,REF,Maria E Kelso,6
+Delaware,Meredith 1,State Assembly,101,REF,Maria E Kelso,4
+Delaware,Meredith 2,State Assembly,101,REF,Maria E Kelso,4
+Delaware,Andes 1,State Assembly,101,,Blanks,40
+Delaware,Andes 2,State Assembly,101,,Blanks,31
+Delaware,Bovina 1,State Assembly,101,,Blanks,27
+Delaware,Davenport 1,State Assembly,101,,Blanks,40
+Delaware,Davenport 2,State Assembly,101,,Blanks,77
+Delaware,Delhi 1,State Assembly,101,,Blanks,26
+Delaware,Delhi 2,State Assembly,101,,Blanks,34
+Delaware,Delhi 3,State Assembly,101,,Blanks,22
+Delaware,Delhi 4,State Assembly,101,,Blanks,45
+Delaware,Hamden 1,State Assembly,101,,Blanks,44
+Delaware,Meredith 1,State Assembly,101,,Blanks,43
+Delaware,Meredith 2,State Assembly,101,,Blanks,9
+Delaware,Harpersfield 1,State Assembly,102,,Total,682
+Delaware,Kortright 1,State Assembly,102,,Total,379
+Delaware,Kortright 2,State Assembly,102,,Total,382
+Delaware,Middletown 1,State Assembly,102,,Total,390
+Delaware,Middletown 2,State Assembly,102,,Total,480
+Delaware,Middletown 3,State Assembly,102,,Total,272
+Delaware,Middletown 4,State Assembly,102,,Total,177
+Delaware,Middletown 5,State Assembly,102,,Total,262
+Delaware,Roxbury 1,State Assembly,102,,Total,400
+Delaware,Roxbury 2,State Assembly,102,,Total,189
+Delaware,Roxbury 3,State Assembly,102,,Total,322
+Delaware,Roxbury 4,State Assembly,102,,Total,308
+Delaware,Stamford 1,State Assembly,102,,Total,511
+Delaware,Stamford 2,State Assembly,102,,Total,397
+Delaware,Harpersfield 1,State Assembly,102,REP,Peter D Lopez,446
+Delaware,Kortright 1,State Assembly,102,REP,Peter D Lopez,236
+Delaware,Kortright 2,State Assembly,102,REP,Peter D Lopez,238
+Delaware,Middletown 1,State Assembly,102,REP,Peter D Lopez,224
+Delaware,Middletown 2,State Assembly,102,REP,Peter D Lopez,217
+Delaware,Middletown 3,State Assembly,102,REP,Peter D Lopez,153
+Delaware,Middletown 4,State Assembly,102,REP,Peter D Lopez,94
+Delaware,Middletown 5,State Assembly,102,REP,Peter D Lopez,160
+Delaware,Roxbury 1,State Assembly,102,REP,Peter D Lopez,277
+Delaware,Roxbury 2,State Assembly,102,REP,Peter D Lopez,109
+Delaware,Roxbury 3,State Assembly,102,REP,Peter D Lopez,183
+Delaware,Roxbury 4,State Assembly,102,REP,Peter D Lopez,189
+Delaware,Stamford 1,State Assembly,102,REP,Peter D Lopez,333
+Delaware,Stamford 2,State Assembly,102,REP,Peter D Lopez,260
+Delaware,Harpersfield 1,State Assembly,102,CON,Peter D Lopez,54
+Delaware,Kortright 1,State Assembly,102,CON,Peter D Lopez,36
+Delaware,Kortright 2,State Assembly,102,CON,Peter D Lopez,31
+Delaware,Middletown 1,State Assembly,102,CON,Peter D Lopez,30
+Delaware,Middletown 2,State Assembly,102,CON,Peter D Lopez,34
+Delaware,Middletown 3,State Assembly,102,CON,Peter D Lopez,19
+Delaware,Middletown 4,State Assembly,102,CON,Peter D Lopez,9
+Delaware,Middletown 5,State Assembly,102,CON,Peter D Lopez,15
+Delaware,Roxbury 1,State Assembly,102,CON,Peter D Lopez,32
+Delaware,Roxbury 2,State Assembly,102,CON,Peter D Lopez,11
+Delaware,Roxbury 3,State Assembly,102,CON,Peter D Lopez,20
+Delaware,Roxbury 4,State Assembly,102,CON,Peter D Lopez,20
+Delaware,Stamford 1,State Assembly,102,CON,Peter D Lopez,39
+Delaware,Stamford 2,State Assembly,102,CON,Peter D Lopez,20
+Delaware,Harpersfield 1,State Assembly,102,IND,Peter D Lopez,31
+Delaware,Kortright 1,State Assembly,102,IND,Peter D Lopez,24
+Delaware,Kortright 2,State Assembly,102,IND,Peter D Lopez,21
+Delaware,Middletown 1,State Assembly,102,IND,Peter D Lopez,24
+Delaware,Middletown 2,State Assembly,102,IND,Peter D Lopez,44
+Delaware,Middletown 3,State Assembly,102,IND,Peter D Lopez,28
+Delaware,Middletown 4,State Assembly,102,IND,Peter D Lopez,13
+Delaware,Middletown 5,State Assembly,102,IND,Peter D Lopez,26
+Delaware,Roxbury 1,State Assembly,102,IND,Peter D Lopez,12
+Delaware,Roxbury 2,State Assembly,102,IND,Peter D Lopez,12
+Delaware,Roxbury 3,State Assembly,102,IND,Peter D Lopez,34
+Delaware,Roxbury 4,State Assembly,102,IND,Peter D Lopez,17
+Delaware,Stamford 1,State Assembly,102,IND,Peter D Lopez,38
+Delaware,Stamford 2,State Assembly,102,IND,Peter D Lopez,26
+Delaware,Harpersfield 1,State Assembly,102,REF,Peter D Lopez,9
+Delaware,Kortright 1,State Assembly,102,REF,Peter D Lopez,6
+Delaware,Kortright 2,State Assembly,102,REF,Peter D Lopez,3
+Delaware,Middletown 1,State Assembly,102,REF,Peter D Lopez,8
+Delaware,Middletown 2,State Assembly,102,REF,Peter D Lopez,10
+Delaware,Middletown 3,State Assembly,102,REF,Peter D Lopez,3
+Delaware,Middletown 4,State Assembly,102,REF,Peter D Lopez,2
+Delaware,Middletown 5,State Assembly,102,REF,Peter D Lopez,1
+Delaware,Roxbury 1,State Assembly,102,REF,Peter D Lopez,3
+Delaware,Roxbury 2,State Assembly,102,REF,Peter D Lopez,3
+Delaware,Roxbury 3,State Assembly,102,REF,Peter D Lopez,1
+Delaware,Roxbury 4,State Assembly,102,REF,Peter D Lopez,5
+Delaware,Stamford 1,State Assembly,102,REF,Peter D Lopez,3
+Delaware,Stamford 2,State Assembly,102,REF,Peter D Lopez,8
+Delaware,Harpersfield 1,State Assembly,102,,Blanks,142
+Delaware,Kortright 1,State Assembly,102,,Blanks,77
+Delaware,Kortright 2,State Assembly,102,,Blanks,89
+Delaware,Middletown 1,State Assembly,102,,Blanks,104
+Delaware,Middletown 2,State Assembly,102,,Blanks,175
+Delaware,Middletown 3,State Assembly,102,,Blanks,69
+Delaware,Middletown 4,State Assembly,102,,Blanks,59
+Delaware,Middletown 5,State Assembly,102,,Blanks,60
+Delaware,Roxbury 1,State Assembly,102,,Blanks,76
+Delaware,Roxbury 2,State Assembly,102,,Blanks,54
+Delaware,Roxbury 3,State Assembly,102,,Blanks,84
+Delaware,Roxbury 4,State Assembly,102,,Blanks,77
+Delaware,Stamford 1,State Assembly,102,,Blanks,98
+Delaware,Stamford 2,State Assembly,102,,Blanks,83
+Delaware,Colchester 1,State Assembly,122,,Total,426
+Delaware,Colchester 2,State Assembly,122,,Total,206
+Delaware,Colchester 3,State Assembly,122,,Total,164
+Delaware,Colchester 4,State Assembly,122,,Total,205
+Delaware,Deposit 1,State Assembly,122,,Total,422
+Delaware,Deposit 2,State Assembly,122,,Total,215
+Delaware,Franklin 1,State Assembly,122,,Total,389
+Delaware,Franklin 2,State Assembly,122,,Total,325
+Delaware,Franklin 3,State Assembly,122,,Total,506
+Delaware,Hancock 1,State Assembly,122,,Total,170
+Delaware,Hancock 2,State Assembly,122,,Total,208
+Delaware,Hancock 3,State Assembly,122,,Total,352
+Delaware,Hancock 4,State Assembly,122,,Total,189
+Delaware,Hancock 5,State Assembly,122,,Total,136
+Delaware,Hancock 6,State Assembly,122,,Total,195
+Delaware,Masonville 1,State Assembly,122,,Total,524
+Delaware,Sidney 1,State Assembly,122,,Total,336
+Delaware,Sidney 2,State Assembly,122,,Total,320
+Delaware,Sidney 3,State Assembly,122,,Total,302
+Delaware,Sidney 4,State Assembly,122,,Total,290
+Delaware,Sidney 5,State Assembly,122,,Total,239
+Delaware,Sidney 6,State Assembly,122,,Total,408
+Delaware,Sidney 7,State Assembly,122,,Total,299
+Delaware,Tompkins 1,State Assembly,122,,Total,463
+Delaware,Walton 1,State Assembly,122,,Total,513
+Delaware,Walton 2,State Assembly,122,,Total,371
+Delaware,Walton 3,State Assembly,122,,Total,393
+Delaware,Walton 4,State Assembly,122,,Total,474
+Delaware,Walton 5,State Assembly,122,,Total,454
+Delaware,Colchester 1,State Assembly,122,REP,Clifford W Crouch,342
+Delaware,Colchester 2,State Assembly,122,REP,Clifford W Crouch,144
+Delaware,Colchester 3,State Assembly,122,REP,Clifford W Crouch,130
+Delaware,Colchester 4,State Assembly,122,REP,Clifford W Crouch,184
+Delaware,Deposit 1,State Assembly,122,REP,Clifford W Crouch,343
+Delaware,Deposit 2,State Assembly,122,REP,Clifford W Crouch,172
+Delaware,Franklin 1,State Assembly,122,REP,Clifford W Crouch,279
+Delaware,Franklin 2,State Assembly,122,REP,Clifford W Crouch,221
+Delaware,Franklin 3,State Assembly,122,REP,Clifford W Crouch,374
+Delaware,Hancock 1,State Assembly,122,REP,Clifford W Crouch,135
+Delaware,Hancock 2,State Assembly,122,REP,Clifford W Crouch,160
+Delaware,Hancock 3,State Assembly,122,REP,Clifford W Crouch,291
+Delaware,Hancock 4,State Assembly,122,REP,Clifford W Crouch,147
+Delaware,Hancock 5,State Assembly,122,REP,Clifford W Crouch,109
+Delaware,Hancock 6,State Assembly,122,REP,Clifford W Crouch,141
+Delaware,Masonville 1,State Assembly,122,REP,Clifford W Crouch,399
+Delaware,Sidney 1,State Assembly,122,REP,Clifford W Crouch,275
+Delaware,Sidney 2,State Assembly,122,REP,Clifford W Crouch,240
+Delaware,Sidney 3,State Assembly,122,REP,Clifford W Crouch,253
+Delaware,Sidney 4,State Assembly,122,REP,Clifford W Crouch,233
+Delaware,Sidney 5,State Assembly,122,REP,Clifford W Crouch,202
+Delaware,Sidney 6,State Assembly,122,REP,Clifford W Crouch,315
+Delaware,Sidney 7,State Assembly,122,REP,Clifford W Crouch,239
+Delaware,Tompkins 1,State Assembly,122,REP,Clifford W Crouch,370
+Delaware,Walton 1,State Assembly,122,REP,Clifford W Crouch,420
+Delaware,Walton 2,State Assembly,122,REP,Clifford W Crouch,296
+Delaware,Walton 3,State Assembly,122,REP,Clifford W Crouch,306
+Delaware,Walton 4,State Assembly,122,REP,Clifford W Crouch,367
+Delaware,Walton 5,State Assembly,122,REP,Clifford W Crouch,378
+Delaware,Colchester 1,State Assembly,122,,Blanks,84
+Delaware,Colchester 2,State Assembly,122,,Blanks,62
+Delaware,Colchester 3,State Assembly,122,,Blanks,34
+Delaware,Colchester 4,State Assembly,122,,Blanks,21
+Delaware,Deposit 1,State Assembly,122,,Blanks,79
+Delaware,Deposit 2,State Assembly,122,,Blanks,43
+Delaware,Franklin 1,State Assembly,122,,Blanks,110
+Delaware,Franklin 2,State Assembly,122,,Blanks,104
+Delaware,Franklin 3,State Assembly,122,,Blanks,132
+Delaware,Hancock 1,State Assembly,122,,Blanks,35
+Delaware,Hancock 2,State Assembly,122,,Blanks,48
+Delaware,Hancock 3,State Assembly,122,,Blanks,61
+Delaware,Hancock 4,State Assembly,122,,Blanks,42
+Delaware,Hancock 5,State Assembly,122,,Blanks,27
+Delaware,Hancock 6,State Assembly,122,,Blanks,54
+Delaware,Masonville 1,State Assembly,122,,Blanks,125
+Delaware,Sidney 1,State Assembly,122,,Blanks,61
+Delaware,Sidney 2,State Assembly,122,,Blanks,80
+Delaware,Sidney 3,State Assembly,122,,Blanks,49
+Delaware,Sidney 4,State Assembly,122,,Blanks,57
+Delaware,Sidney 5,State Assembly,122,,Blanks,37
+Delaware,Sidney 6,State Assembly,122,,Blanks,93
+Delaware,Sidney 7,State Assembly,122,,Blanks,60
+Delaware,Tompkins 1,State Assembly,122,,Blanks,93
+Delaware,Walton 1,State Assembly,122,,Blanks,93
+Delaware,Walton 2,State Assembly,122,,Blanks,75
+Delaware,Walton 3,State Assembly,122,,Blanks,87
+Delaware,Walton 4,State Assembly,122,,Blanks,107
+Delaware,Walton 5,State Assembly,122,,Blanks,76
