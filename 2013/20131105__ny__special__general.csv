@@ -1,0 +1,27 @@
+county,office,district,party,candidate,votes
+Suffolk,State House,2,DEM,John McManmon,9574
+Suffolk,State House,2,REP,Anthony H. Palumbo,11576
+Suffolk,State House,2,CON,Anthony H. Palumbo,3884
+Suffolk,State House,2,WOR,John McManmon,735
+Suffolk,State House,2,IND,John McManmon,1267
+Suffolk,State House,2,,Blank,1846
+Suffolk,State House,2,,Void,16
+Suffolk,State House,2,,Scattering,19
+Suffolk,State House,2,,BVS Subtotal,1881
+Suffolk,State House,2,,Total,28917
+Kings,State House,53,DEM,Maritza Davila,9000
+Kings,State House,53,WOR,Jason A. Otano,1486
+Kings,State House,53,,Blank,2191
+Kings,State House,53,,Void,0
+Kings,State House,53,,Scattering,29
+Kings,State House,53,,BVS Subtotal,2220
+Kings,State House,53,,Total,12706
+Bronx,State House,86,DEM,Victor Pichardo,7174
+Bronx,State House,86,REP,Rene L. Santos,243
+Bronx,State House,86,CON,"Jose Marte, Sr.",103
+Bronx,State House,86,WOR,Victor Pichardo,159
+Bronx,State House,86,,Blank,1227
+Bronx,State House,86,,Void,0
+Bronx,State House,86,,Scattering,7
+Bronx,State House,86,,BVS Subtotal,1234
+Bronx,State House,86,,Total,8913

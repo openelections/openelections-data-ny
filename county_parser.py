@@ -3,10 +3,13 @@ import csv
 
 results = []
 
-with open("2015GeneralElectionAssemblyResults.csv", "rU") as csvfile:
-    reader = csv.reader(csvfile)
+with open("2013GeneralElection-AD.txt", "rU") as csvfile:
+    reader = csv.reader(csvfile, delimiter='\t')
     for row in reader:
-        if row[0].strip() == 'NYS Board of Elections State Senator Election Returns Nov. 3, 2015':
+        print row
+        if row == []:
+            continue
+        if row[0].strip() == 'NYS Board of Elections Representative in Congress':
             continue
         if row[0] == '#REF!':
             continue
@@ -14,11 +17,11 @@ with open("2015GeneralElectionAssemblyResults.csv", "rU") as csvfile:
             office = 'State House'
             district = int(re.search(r'\d+', row[0]).group())
             continue
-        if row[1] == '':
-            continue
+#        if row[1] == '':
+#            continue
         if row[0] == 'RECAP':
             continue
-        if any(party in row[1] for party in ['DEM', 'REP']):
+        if any(party in row[1] for party in ['DEM', 'REP','CON']):
             parties = row[1:]
             candidates = zip(candidates, parties)
             continue
@@ -41,7 +44,7 @@ with open("2015GeneralElectionAssemblyResults.csv", "rU") as csvfile:
                     continue
                 results.append([county, office, district, candidate[0][1].strip(), candidate[0][0].strip(), candidate[1].replace(',','')])
 
-with open("20151103__ny__general_house.csv", "wb") as csv_outfile:
+with open("2012_primary.csv", "wb") as csv_outfile:
     outfile = csv.writer(csv_outfile)
     outfile.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes'])
     outfile.writerows(results)
