@@ -1,0 +1,621 @@
+county,office,district,party,candidate,votes
+Albany,President,,D,Bernie Sanders,21798
+Allegany,President,,D,Bernie Sanders,1209
+Broome,President,,D,Bernie Sanders,10151
+Cattaraugus,President,,D,Bernie Sanders,2481
+Cayuga,President,,D,Bernie Sanders,2805
+Chautauqua,President,,D,Bernie Sanders,4431
+Chemung,President,,D,Bernie Sanders,2752
+Chenango,President,,D,Bernie Sanders,1613
+Clinton,President,,D,Bernie Sanders,4797
+Columbia,President,,D,Bernie Sanders,3660
+Cortland,President,,D,Bernie Sanders,2037
+Delaware,President,,D,Bernie Sanders,1813
+Dutchess,President,,D,Bernie Sanders,12395
+Erie,President,,D,Bernie Sanders,52473
+Essex,President,,D,Bernie Sanders,2145
+Franklin,President,,D,Bernie Sanders,2512
+Fulton,President,,D,Bernie Sanders,1475
+Genesee,President,,D,Bernie Sanders,1622
+Greene,President,,D,Bernie Sanders,1566
+Hamilton,President,,D,Bernie Sanders,245
+Herkimer,President,,D,Bernie Sanders,1873
+Jefferson,President,,D,Bernie Sanders,2656
+Lewis,President,,D,Bernie Sanders,703
+Livingston,President,,D,Bernie Sanders,2516
+Madison,President,,D,Bernie Sanders,2528
+Monroe,President,,D,Bernie Sanders,36490
+Montgomery,President,,D,Bernie Sanders,1732
+Nassau,President,,D,Bernie Sanders,44731
+Niagara,President,,D,Bernie Sanders,9294
+Oneida,President,,D,Bernie Sanders,7739
+Onondaga,President,,D,Bernie Sanders,19186
+Ontario,President,,D,Bernie Sanders,4445
+Orange,President,,D,Bernie Sanders,12077
+Orleans,President,,D,Bernie Sanders,923
+Oswego,President,,D,Bernie Sanders,3273
+Otsego,President,,D,Bernie Sanders,2868
+Putnam,President,,D,Bernie Sanders,3832
+Rensselaer,President,,D,Bernie Sanders,7003
+Rockland,President,,D,Bernie Sanders,11790
+St. Lawrence,President,,D,Bernie Sanders,4425
+Saratoga,President,,D,Bernie Sanders,9694
+Schenectady,President,,D,Bernie Sanders,7241
+Schoharie,President,,D,Bernie Sanders,1216
+Schuyler,President,,D,Bernie Sanders,876
+Seneca,President,,D,Bernie Sanders,1247
+Steuben,President,,D,Bernie Sanders,2926
+Suffolk,President,,D,Bernie Sanders,44033
+Sullivan,President,,D,Bernie Sanders,2958
+Tioga,President,,D,Bernie Sanders,1936
+Tompkins,President,,D,Bernie Sanders,10130
+Ulster,President,,D,Bernie Sanders,12435
+Warren,President,,D,Bernie Sanders,2871
+Washington,President,,D,Bernie Sanders,2274
+Wayne,President,,D,Bernie Sanders,2436
+Westchester,President,,D,Bernie Sanders,36753
+Wyoming,President,,D,Bernie Sanders,958
+Yates,President,,D,Bernie Sanders,720
+Bronx,President,,D,Bernie Sanders,46189
+Kings,President,,D,Bernie Sanders,123872
+New York,President,,D,Bernie Sanders,98194
+Queens,President,,D,Bernie Sanders,81762
+Richmond,President,,D,Bernie Sanders,15471
+Albany,President,,D,Hillary Clinton,19914
+Allegany,President,,D,Hillary Clinton,847
+Broome,President,,D,Hillary Clinton,7641
+Cattaraugus,President,,D,Hillary Clinton,1844
+Cayuga,President,,D,Hillary Clinton,2592
+Chautauqua,President,,D,Hillary Clinton,3865
+Chemung,President,,D,Hillary Clinton,2740
+Chenango,President,,D,Hillary Clinton,1062
+Clinton,President,,D,Hillary Clinton,1774
+Columbia,President,,D,Hillary Clinton,3039
+Cortland,President,,D,Hillary Clinton,1515
+Delaware,President,,D,Hillary Clinton,1172
+Dutchess,President,,D,Hillary Clinton,11701
+Erie,President,,D,Hillary Clinton,54279
+Essex,President,,D,Hillary Clinton,838
+Franklin,President,,D,Hillary Clinton,1076
+Fulton,President,,D,Hillary Clinton,1010
+Genesee,President,,D,Hillary Clinton,1393
+Greene,President,,D,Hillary Clinton,1195
+Hamilton,President,,D,Hillary Clinton,141
+Herkimer,President,,D,Hillary Clinton,1507
+Jefferson,President,,D,Hillary Clinton,2579
+Lewis,President,,D,Hillary Clinton,492
+Livingston,President,,D,Hillary Clinton,1685
+Madison,President,,D,Hillary Clinton,2039
+Monroe,President,,D,Hillary Clinton,39310
+Montgomery,President,,D,Hillary Clinton,1298
+Nassau,President,,D,Hillary Clinton,74870
+Niagara,President,,D,Hillary Clinton,8202
+Oneida,President,,D,Hillary Clinton,6586
+Onondaga,President,,D,Hillary Clinton,21786
+Ontario,President,,D,Hillary Clinton,4040
+Orange,President,,D,Hillary Clinton,12855
+Orleans,President,,D,Hillary Clinton,725
+Oswego,President,,D,Hillary Clinton,2631
+Otsego,President,,D,Hillary Clinton,1995
+Putnam,President,,D,Hillary Clinton,3718
+Rensselaer,President,,D,Hillary Clinton,5068
+Rockland,President,,D,Hillary Clinton,17868
+St. Lawrence,President,,D,Hillary Clinton,3142
+Saratoga,President,,D,Hillary Clinton,7672
+Schenectady,President,,D,Hillary Clinton,6526
+Schoharie,President,,D,Hillary Clinton,706
+Schuyler,President,,D,Hillary Clinton,548
+Seneca,President,,D,Hillary Clinton,1125
+Steuben,President,,D,Hillary Clinton,2149
+Suffolk,President,,D,Hillary Clinton,53420
+Sullivan,President,,D,Hillary Clinton,2369
+Tioga,President,,D,Hillary Clinton,1318
+Tompkins,President,,D,Hillary Clinton,6138
+Ulster,President,,D,Hillary Clinton,7642
+Warren,President,,D,Hillary Clinton,1868
+Washington,President,,D,Hillary Clinton,1292
+Wayne,President,,D,Hillary Clinton,1988
+Westchester,President,,D,Hillary Clinton,74900
+Wyoming,President,,D,Hillary Clinton,639
+Yates,President,,D,Hillary Clinton,637
+Bronx,President,,D,Hillary Clinton,105719
+Kings,President,,D,Hillary Clinton,183662
+New York,President,,D,Hillary Clinton,190806
+Queens,President,,D,Hillary Clinton,133210
+Richmond,President,,D,Hillary Clinton,17612
+Albany,President,,D,Blanks,61
+Allegany,President,,D,Blanks,29
+Broome,President,,D,Blanks,123
+Cattaraugus,President,,D,Blanks,34
+Cayuga,President,,D,Blanks,35
+Chautauqua,President,,D,Blanks,88
+Chemung,President,,D,Blanks,51
+Chenango,President,,D,Blanks,31
+Clinton,President,,D,Blanks,56
+Columbia,President,,D,Blanks,29
+Cortland,President,,D,Blanks,60
+Delaware,President,,D,Blanks,23
+Dutchess,President,,D,Blanks,89
+Erie,President,,D,Blanks,955
+Essex,President,,D,Blanks,21
+Franklin,President,,D,Blanks,26
+Fulton,President,,D,Blanks,4
+Genesee,President,,D,Blanks,34
+Greene,President,,D,Blanks,28
+Hamilton,President,,D,Blanks,6
+Herkimer,President,,D,Blanks,42
+Jefferson,President,,D,Blanks,47
+Lewis,President,,D,Blanks,15
+Livingston,President,,D,Blanks,25
+Madison,President,,D,Blanks,54
+Monroe,President,,D,Blanks,342
+Montgomery,President,,D,Blanks,34
+Nassau,President,,D,Blanks,752
+Niagara,President,,D,Blanks,146
+Oneida,President,,D,Blanks,241
+Onondaga,President,,D,Blanks,212
+Ontario,President,,D,Blanks,53
+Orange,President,,D,Blanks,206
+Orleans,President,,D,Blanks,22
+Oswego,President,,D,Blanks,77
+Otsego,President,,D,Blanks,35
+Putnam,President,,D,Blanks,38
+Rensselaer,President,,D,Blanks,65
+Rockland,President,,D,Blanks,223
+St. Lawrence,President,,D,Blanks,79
+Saratoga,President,,D,Blanks,44
+Schenectady,President,,D,Blanks,94
+Schoharie,President,,D,Blanks,15
+Schuyler,President,,D,Blanks,7
+Seneca,President,,D,Blanks,12
+Steuben,President,,D,Blanks,59
+Suffolk,President,,D,Blanks,0
+Sullivan,President,,D,Blanks,40
+Tioga,President,,D,Blanks,31
+Tompkins,President,,D,Blanks,51
+Ulster,President,,D,Blanks,74
+Warren,President,,D,Blanks,24
+Washington,President,,D,Blanks,15
+Wayne,President,,D,Blanks,35
+Westchester,President,,D,Blanks,354
+Wyoming,President,,D,Blanks,0
+Yates,President,,D,Blanks,12
+Bronx,President,,D,Blanks,0
+Kings,President,,D,Blanks,0
+New York,President,,D,Blanks,0
+Queens,President,,D,Blanks,0
+Richmond,President,,D,Blanks,0
+Albany,President,,D,Void,293
+Allegany,President,,D,Void,0
+Broome,President,,D,Void,8
+Cattaraugus,President,,D,Void,2
+Cayuga,President,,D,Void,8
+Chautauqua,President,,D,Void,2
+Chemung,President,,D,Void,0
+Chenango,President,,D,Void,1
+Clinton,President,,D,Void,3
+Columbia,President,,D,Void,4
+Cortland,President,,D,Void,4
+Delaware,President,,D,Void,0
+Dutchess,President,,D,Void,8
+Erie,President,,D,Void,0
+Essex,President,,D,Void,0
+Franklin,President,,D,Void,4
+Fulton,President,,D,Void,26
+Genesee,President,,D,Void,2
+Greene,President,,D,Void,2
+Hamilton,President,,D,Void,0
+Herkimer,President,,D,Void,2
+Jefferson,President,,D,Void,3
+Lewis,President,,D,Void,4
+Livingston,President,,D,Void,1
+Madison,President,,D,Void,0
+Monroe,President,,D,Void,38
+Montgomery,President,,D,Void,4
+Nassau,President,,D,Void,132
+Niagara,President,,D,Void,3
+Oneida,President,,D,Void,2
+Onondaga,President,,D,Void,0
+Ontario,President,,D,Void,2
+Orange,President,,D,Void,0
+Orleans,President,,D,Void,2
+Oswego,President,,D,Void,1
+Otsego,President,,D,Void,1
+Putnam,President,,D,Void,0
+Rensselaer,President,,D,Void,1
+Rockland,President,,D,Void,10
+St. Lawrence,President,,D,Void,0
+Saratoga,President,,D,Void,9
+Schenectady,President,,D,Void,7
+Schoharie,President,,D,Void,0
+Schuyler,President,,D,Void,1
+Seneca,President,,D,Void,0
+Steuben,President,,D,Void,0
+Suffolk,President,,D,Void,25
+Sullivan,President,,D,Void,2
+Tioga,President,,D,Void,0
+Tompkins,President,,D,Void,5
+Ulster,President,,D,Void,10
+Warren,President,,D,Void,1
+Washington,President,,D,Void,0
+Wayne,President,,D,Void,2
+Westchester,President,,D,Void,0
+Wyoming,President,,D,Void,5
+Yates,President,,D,Void,2
+Bronx,President,,D,Void,1834
+Kings,President,,D,Void,3372
+New York,President,,D,Void,2656
+Queens,President,,D,Void,2272
+Richmond,President,,D,Void,530
+Albany,President,,D,Total,42066
+Allegany,President,,D,Total,2085
+Broome,President,,D,Total,17923
+Cattaraugus,President,,D,Total,4361
+Cayuga,President,,D,Total,5440
+Chautauqua,President,,D,Total,8386
+Chemung,President,,D,Total,5543
+Chenango,President,,D,Total,2707
+Clinton,President,,D,Total,6630
+Columbia,President,,D,Total,6732
+Cortland,President,,D,Total,3616
+Delaware,President,,D,Total,3008
+Dutchess,President,,D,Total,24193
+Erie,President,,D,Total,107707
+Essex,President,,D,Total,3004
+Franklin,President,,D,Total,3618
+Fulton,President,,D,Total,2515
+Genesee,President,,D,Total,3051
+Greene,President,,D,Total,2791
+Hamilton,President,,D,Total,392
+Herkimer,President,,D,Total,3424
+Jefferson,President,,D,Total,5285
+Lewis,President,,D,Total,1214
+Livingston,President,,D,Total,4227
+Madison,President,,D,Total,4621
+Monroe,President,,D,Total,76180
+Montgomery,President,,D,Total,3068
+Nassau,President,,D,Total,120485
+Niagara,President,,D,Total,17645
+Oneida,President,,D,Total,14568
+Onondaga,President,,D,Total,41184
+Ontario,President,,D,Total,8540
+Orange,President,,D,Total,25138
+Orleans,President,,D,Total,1672
+Oswego,President,,D,Total,5982
+Otsego,President,,D,Total,4899
+Putnam,President,,D,Total,7588
+Rensselaer,President,,D,Total,12137
+Rockland,President,,D,Total,29891
+St. Lawrence,President,,D,Total,7646
+Saratoga,President,,D,Total,17419
+Schenectady,President,,D,Total,13868
+Schoharie,President,,D,Total,1937
+Schuyler,President,,D,Total,1432
+Seneca,President,,D,Total,2384
+Steuben,President,,D,Total,5134
+Suffolk,President,,D,Total,97478
+Sullivan,President,,D,Total,5369
+Tioga,President,,D,Total,3285
+Tompkins,President,,D,Total,16324
+Ulster,President,,D,Total,20161
+Warren,President,,D,Total,4764
+Washington,President,,D,Total,3581
+Wayne,President,,D,Total,4461
+Westchester,President,,D,Total,112007
+Wyoming,President,,D,Total,1602
+Yates,President,,D,Total,1371
+Bronx,President,,D,Total,153742
+Kings,President,,D,Total,310906
+New York,President,,D,Total,291656
+Queens,President,,D,Total,217244
+Richmond,President,,D,Total,33613
+Albany,President,,R,Donald J. Trump,6793
+Allegany,President,,R,Donald J. Trump,2827
+Broome,President,,R,Donald J. Trump,8923
+Cattaraugus,President,,R,Donald J. Trump,3636
+Cayuga,President,,R,Donald J. Trump,3024
+Chautauqua,President,,R,Donald J. Trump,5027
+Chemung,President,,R,Donald J. Trump,4208
+Chenango,President,,R,Donald J. Trump,2659
+Clinton,President,,R,Donald J. Trump,2487
+Columbia,President,,R,Donald J. Trump,2662
+Cortland,President,,R,Donald J. Trump,1710
+Delaware,President,,R,Donald J. Trump,2831
+Dutchess,President,,R,Donald J. Trump,12872
+Erie,President,,R,Donald J. Trump,39589
+Essex,President,,R,Donald J. Trump,1918
+Franklin,President,,R,Donald J. Trump,1460
+Fulton,President,,R,Donald J. Trump,3456
+Genesee,President,,R,Donald J. Trump,3815
+Greene,President,,R,Donald J. Trump,2689
+Hamilton,President,,R,Donald J. Trump,565
+Herkimer,President,,R,Donald J. Trump,4193
+Jefferson,President,,R,Donald J. Trump,5190
+Lewis,President,,R,Donald J. Trump,1643
+Livingston,President,,R,Donald J. Trump,3957
+Madison,President,,R,Donald J. Trump,3108
+Monroe,President,,R,Donald J. Trump,28034
+Montgomery,President,,R,Donald J. Trump,2039
+Nassau,President,,R,Donald J. Trump,69692
+Niagara,President,,R,Donald J. Trump,11450
+Oneida,President,,R,Donald J. Trump,11332
+Onondaga,President,,R,Donald J. Trump,15155
+Ontario,President,,R,Donald J. Trump,5558
+Orange,President,,R,Donald J. Trump,16659
+Orleans,President,,R,Donald J. Trump,2643
+Oswego,President,,R,Donald J. Trump,6423
+Otsego,President,,R,Donald J. Trump,2719
+Putnam,President,,R,Donald J. Trump,6027
+Rensselaer,President,,R,Donald J. Trump,4758
+Rockland,President,,R,Donald J. Trump,9219
+St. Lawrence,President,,R,Donald J. Trump,3825
+Saratoga,President,,R,Donald J. Trump,11673
+Schenectady,President,,R,Donald J. Trump,4496
+Schoharie,President,,R,Donald J. Trump,1497
+Schuyler,President,,R,Donald J. Trump,979
+Seneca,President,,R,Donald J. Trump,1585
+Steuben,President,,R,Donald J. Trump,6252
+Suffolk,President,,R,Donald J. Trump,72359
+Sullivan,President,,R,Donald J. Trump,2742
+Tioga,President,,R,Donald J. Trump,2926
+Tompkins,President,,R,Donald J. Trump,1821
+Ulster,President,,R,Donald J. Trump,6388
+Warren,President,,R,Donald J. Trump,3761
+Washington,President,,R,Donald J. Trump,2458
+Wayne,President,,R,Donald J. Trump,4472
+Westchester,President,,R,Donald J. Trump,25880
+Wyoming,President,,R,Donald J. Trump,2752
+Yates,President,,R,Donald J. Trump,1388
+Bronx,President,,R,Donald J. Trump,4730
+Kings,President,,R,Donald J. Trump,15920
+New York,President,,R,Donald J. Trump,11196
+Queens,President,,R,Donald J. Trump,20951
+Richmond,President,,R,Donald J. Trump,21521
+Albany,President,,R,John R. Kasich,5026
+Allegany,President,,R,John R. Kasich,1175
+Broome,President,,R,John R. Kasich,5138
+Cattaraugus,President,,R,John R. Kasich,1419
+Cayuga,President,,R,John R. Kasich,1942
+Chautauqua,President,,R,John R. Kasich,2294
+Chemung,President,,R,John R. Kasich,2372
+Chenango,President,,R,John R. Kasich,1394
+Clinton,President,,R,John R. Kasich,1389
+Columbia,President,,R,John R. Kasich,1271
+Cortland,President,,R,John R. Kasich,1276
+Delaware,President,,R,John R. Kasich,1142
+Dutchess,President,,R,John R. Kasich,4401
+Erie,President,,R,John R. Kasich,13136
+Essex,President,,R,John R. Kasich,1274
+Franklin,President,,R,John R. Kasich,763
+Fulton,President,,R,John R. Kasich,1552
+Genesee,President,,R,John R. Kasich,1282
+Greene,President,,R,John R. Kasich,838
+Hamilton,President,,R,John R. Kasich,326
+Herkimer,President,,R,John R. Kasich,1877
+Jefferson,President,,R,John R. Kasich,2860
+Lewis,President,,R,John R. Kasich,898
+Livingston,President,,R,John R. Kasich,1724
+Madison,President,,R,John R. Kasich,2214
+Monroe,President,,R,John R. Kasich,16870
+Montgomery,President,,R,John R. Kasich,865
+Nassau,President,,R,John R. Kasich,22722
+Niagara,President,,R,John R. Kasich,3321
+Oneida,President,,R,John R. Kasich,5398
+Onondaga,President,,R,John R. Kasich,12055
+Ontario,President,,R,John R. Kasich,3380
+Orange,President,,R,John R. Kasich,4372
+Orleans,President,,R,John R. Kasich,799
+Oswego,President,,R,John R. Kasich,3285
+Otsego,President,,R,John R. Kasich,1516
+Putnam,President,,R,John R. Kasich,1587
+Rensselaer,President,,R,John R. Kasich,2600
+Rockland,President,,R,John R. Kasich,3158
+St. Lawrence,President,,R,John R. Kasich,2036
+Saratoga,President,,R,John R. Kasich,8272
+Schenectady,President,,R,John R. Kasich,2946
+Schoharie,President,,R,John R. Kasich,638
+Schuyler,President,,R,John R. Kasich,461
+Seneca,President,,R,John R. Kasich,854
+Steuben,President,,R,John R. Kasich,2755
+Suffolk,President,,R,John R. Kasich,18694
+Sullivan,President,,R,John R. Kasich,687
+Tioga,President,,R,John R. Kasich,1546
+Tompkins,President,,R,John R. Kasich,1691
+Ulster,President,,R,John R. Kasich,2197
+Warren,President,,R,John R. Kasich,2772
+Washington,President,,R,John R. Kasich,1839
+Wayne,President,,R,John R. Kasich,2016
+Westchester,President,,R,John R. Kasich,13599
+Wyoming,President,,R,John R. Kasich,724
+Yates,President,,R,John R. Kasich,884
+Bronx,President,,R,John R. Kasich,1148
+Kings,President,,R,John R. Kasich,4024
+New York,President,,R,John R. Kasich,12181
+Queens,President,,R,John R. Kasich,5601
+Richmond,President,,R,John R. Kasich,2690
+Albany,President,,R,Ted Cruz,2390
+Allegany,President,,R,Ted Cruz,1159
+Broome,President,,R,Ted Cruz,3953
+Cattaraugus,President,,R,Ted Cruz,1298
+Cayuga,President,,R,Ted Cruz,1136
+Chautauqua,President,,R,Ted Cruz,2016
+Chemung,President,,R,Ted Cruz,1820
+Chenango,President,,R,Ted Cruz,1133
+Clinton,President,,R,Ted Cruz,739
+Columbia,President,,R,Ted Cruz,744
+Cortland,President,,R,Ted Cruz,900
+Delaware,President,,R,Ted Cruz,846
+Dutchess,President,,R,Ted Cruz,2840
+Erie,President,,R,Ted Cruz,7964
+Essex,President,,R,Ted Cruz,664
+Franklin,President,,R,Ted Cruz,433
+Fulton,President,,R,Ted Cruz,1036
+Genesee,President,,R,Ted Cruz,1032
+Greene,President,,R,Ted Cruz,705
+Hamilton,President,,R,Ted Cruz,210
+Herkimer,President,,R,Ted Cruz,1042
+Jefferson,President,,R,Ted Cruz,1235
+Lewis,President,,R,Ted Cruz,476
+Livingston,President,,R,Ted Cruz,1329
+Madison,President,,R,Ted Cruz,1358
+Monroe,President,,R,Ted Cruz,9537
+Montgomery,President,,R,Ted Cruz,793
+Nassau,President,,R,Ted Cruz,9902
+Niagara,President,,R,Ted Cruz,2406
+Oneida,President,,R,Ted Cruz,3335
+Onondaga,President,,R,Ted Cruz,6075
+Ontario,President,,R,Ted Cruz,2061
+Orange,President,,R,Ted Cruz,3120
+Orleans,President,,R,Ted Cruz,702
+Oswego,President,,R,Ted Cruz,2026
+Otsego,President,,R,Ted Cruz,1035
+Putnam,President,,R,Ted Cruz,986
+Rensselaer,President,,R,Ted Cruz,1576
+Rockland,President,,R,Ted Cruz,2367
+St. Lawrence,President,,R,Ted Cruz,1074
+Saratoga,President,,R,Ted Cruz,4404
+Schenectady,President,,R,Ted Cruz,2010
+Schoharie,President,,R,Ted Cruz,640
+Schuyler,President,,R,Ted Cruz,405
+Seneca,President,,R,Ted Cruz,521
+Steuben,President,,R,Ted Cruz,2401
+Suffolk,President,,R,Ted Cruz,9099
+Sullivan,President,,R,Ted Cruz,534
+Tioga,President,,R,Ted Cruz,1429
+Tompkins,President,,R,Ted Cruz,1342
+Ulster,President,,R,Ted Cruz,1332
+Warren,President,,R,Ted Cruz,1206
+Washington,President,,R,Ted Cruz,1048
+Wayne,President,,R,Ted Cruz,1627
+Westchester,President,,R,Ted Cruz,5245
+Wyoming,President,,R,Ted Cruz,749
+Yates,President,,R,Ted Cruz,425
+Bronx,President,,R,Ted Cruz,1164
+Kings,President,,R,Ted Cruz,4872
+New York,President,,R,Ted Cruz,3586
+Queens,President,,R,Ted Cruz,4495
+Richmond,President,,R,Ted Cruz,2096
+Albany,President,,R,Blanks/Void,205
+Allegany,President,,R,Blanks/Void,169
+Broome,President,,R,Blanks/Void,416
+Cattaraugus,President,,R,Blanks/Void,148
+Cayuga,President,,R,Blanks/Void,79
+Chautauqua,President,,R,Blanks/Void,226
+Chemung,President,,R,Blanks/Void,201
+Chenango,President,,R,Blanks/Void,130
+Clinton,President,,R,Blanks/Void,72
+Columbia,President,,R,Blanks/Void,87
+Cortland,President,,R,Blanks/Void,85
+Delaware,President,,R,Blanks/Void,102
+Dutchess,President,,R,Blanks/Void,259
+Erie,President,,R,Blanks/Void,907
+Essex,President,,R,Blanks/Void,116
+Franklin,President,,R,Blanks/Void,79
+Fulton,President,,R,Blanks/Void,106
+Genesee,President,,R,Blanks/Void,112
+Greene,President,,R,Blanks/Void,69
+Hamilton,President,,R,Blanks/Void,18
+Herkimer,President,,R,Blanks/Void,149
+Jefferson,President,,R,Blanks/Void,140
+Lewis,President,,R,Blanks/Void,81
+Livingston,President,,R,Blanks/Void,159
+Madison,President,,R,Blanks/Void,155
+Monroe,President,,R,Blanks/Void,924
+Montgomery,President,,R,Blanks/Void,52
+Nassau,President,,R,Blanks/Void,1437
+Niagara,President,,R,Blanks/Void,288
+Oneida,President,,R,Blanks/Void,356
+Onondaga,President,,R,Blanks/Void,514
+Ontario,President,,R,Blanks/Void,219
+Orange,President,,R,Blanks/Void,321
+Orleans,President,,R,Blanks/Void,72
+Oswego,President,,R,Blanks/Void,268
+Otsego,President,,R,Blanks/Void,122
+Putnam,President,,R,Blanks/Void,80
+Rensselaer,President,,R,Blanks/Void,194
+Rockland,President,,R,Blanks/Void,125
+St. Lawrence,President,,R,Blanks/Void,204
+Saratoga,President,,R,Blanks/Void,328
+Schenectady,President,,R,Blanks/Void,152
+Schoharie,President,,R,Blanks/Void,40
+Schuyler,President,,R,Blanks/Void,52
+Seneca,President,,R,Blanks/Void,68
+Steuben,President,,R,Blanks/Void,306
+Suffolk,President,,R,Blanks/Void,812
+Sullivan,President,,R,Blanks/Void,84
+Tioga,President,,R,Blanks/Void,134
+Tompkins,President,,R,Blanks/Void,123
+Ulster,President,,R,Blanks/Void,185
+Warren,President,,R,Blanks/Void,155
+Washington,President,,R,Blanks/Void,127
+Wayne,President,,R,Blanks/Void,156
+Westchester,President,,R,Blanks/Void,523
+Wyoming,President,,R,Blanks/Void,79
+Yates,President,,R,Blanks/Void,56
+Bronx,President,,R,Blanks/Void,235
+Kings,President,,R,Blanks/Void,399
+New York,President,,R,Blanks/Void,452
+Queens,President,,R,Blanks/Void,610
+Richmond,President,,R,Blanks/Void,234
+Albany,President,,R,Total,14209
+Allegany,President,,R,Total,5161
+Broome,President,,R,Total,18014
+Cattaraugus,President,,R,Total,6353
+Cayuga,President,,R,Total,6102
+Chautauqua,President,,R,Total,9337
+Chemung,President,,R,Total,8400
+Chenango,President,,R,Total,5186
+Clinton,President,,R,Total,4615
+Columbia,President,,R,Total,4677
+Cortland,President,,R,Total,3886
+Delaware,President,,R,Total,4819
+Dutchess,President,,R,Total,20113
+Erie,President,,R,Total,60689
+Essex,President,,R,Total,3856
+Franklin,President,,R,Total,2656
+Fulton,President,,R,Total,6044
+Genesee,President,,R,Total,6129
+Greene,President,,R,Total,4232
+Hamilton,President,,R,Total,1101
+Herkimer,President,,R,Total,7112
+Jefferson,President,,R,Total,9285
+Lewis,President,,R,Total,3017
+Livingston,President,,R,Total,7010
+Madison,President,,R,Total,6680
+Monroe,President,,R,Total,54441
+Montgomery,President,,R,Total,3697
+Nassau,President,,R,Total,102316
+Niagara,President,,R,Total,17177
+Oneida,President,,R,Total,20065
+Onondaga,President,,R,Total,33285
+Ontario,President,,R,Total,10999
+Orange,President,,R,Total,24151
+Orleans,President,,R,Total,4144
+Oswego,President,,R,Total,11734
+Otsego,President,,R,Total,5270
+Putnam,President,,R,Total,8600
+Rensselaer,President,,R,Total,8934
+Rockland,President,,R,Total,14744
+St. Lawrence,President,,R,Total,6935
+Saratoga,President,,R,Total,24349
+Schenectady,President,,R,Total,9452
+Schoharie,President,,R,Total,2775
+Schuyler,President,,R,Total,1845
+Seneca,President,,R,Total,2960
+Steuben,President,,R,Total,11408
+Suffolk,President,,R,Total,100152
+Sullivan,President,,R,Total,3963
+Tioga,President,,R,Total,5901
+Tompkins,President,,R,Total,4854
+Ulster,President,,R,Total,9917
+Warren,President,,R,Total,7739
+Washington,President,,R,Total,5345
+Wayne,President,,R,Total,8115
+Westchester,President,,R,Total,44724
+Wyoming,President,,R,Total,4225
+Yates,President,,R,Total,2697
+Bronx,President,,R,Total,7042
+Kings,President,,R,Total,24816
+New York,President,,R,Total,26963
+Queens,President,,R,Total,31047
+Richmond,President,,R,Total,26307
