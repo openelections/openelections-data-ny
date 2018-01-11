@@ -1,0 +1,1871 @@
+county,precinct,office,district,candidate,party,votes
+Madison,City of Oneida 1-1,State Assembly,121,Ballots Cast,DEM,275
+Madison,City of Oneida 1-2,State Assembly,121,Ballots Cast,DEM,279
+Madison,City of Oneida 2-1,State Assembly,121,Ballots Cast,DEM,368
+Madison,City of Oneida 2-2,State Assembly,121,Ballots Cast,DEM,294
+Madison,City of Oneida 3,State Assembly,121,Ballots Cast,DEM,415
+Madison,City of Oneida 4,State Assembly,121,Ballots Cast,DEM,213
+Madison,City of Oneida 5,State Assembly,121,Ballots Cast,DEM,308
+Madison,City of Oneida 6,State Assembly,121,Ballots Cast,DEM,301
+Madison,Town of Brookfield 1,State Assembly,121,Ballots Cast,DEM,195
+Madison,Town of Brookfield 2,State Assembly,121,Ballots Cast,DEM,317
+Madison,Town of Brookfield 3,State Assembly,121,Ballots Cast,DEM,225
+Madison,Town of Cazenovia 1,State Assembly,121,Ballots Cast,DEM,372
+Madison,Town of Cazenovia 2,State Assembly,121,Ballots Cast,DEM,346
+Madison,Town of Cazenovia 3,State Assembly,121,Ballots Cast,DEM,386
+Madison,Town of Cazenovia 4,State Assembly,121,Ballots Cast,DEM,435
+Madison,Town of Cazenovia 5,State Assembly,121,Ballots Cast,DEM,539
+Madison,Town of Cazenovia 6,State Assembly,121,Ballots Cast,DEM,336
+Madison,Town of DeRuyter 1,State Assembly,121,Ballots Cast,DEM,504
+Madison,Town of Eaton 1,State Assembly,121,Ballots Cast,DEM,474
+Madison,Town of Eaton 2,State Assembly,121,Ballots Cast,DEM,428
+Madison,Town of Fenner 1,State Assembly,121,Ballots Cast,DEM,554
+Madison,Town of Georgetown 1,State Assembly,121,Ballots Cast,DEM,224
+Madison,Town of Hamilton 1,State Assembly,121,Ballots Cast,DEM,298
+Madison,Town of Hamilton 2,State Assembly,121,Ballots Cast,DEM,415
+Madison,Town of Hamilton 3,State Assembly,121,Ballots Cast,DEM,151
+Madison,Town of Hamilton 4,State Assembly,121,Ballots Cast,DEM,408
+Madison,Town of Lebanon 1,State Assembly,121,Ballots Cast,DEM,135
+Madison,Town of Lebanon 2,State Assembly,121,Ballots Cast,DEM,238
+Madison,Town of Lenox 1,State Assembly,121,Ballots Cast,DEM,467
+Madison,Town of Lenox 2,State Assembly,121,Ballots Cast,DEM,304
+Madison,Town of Lenox 3,State Assembly,121,Ballots Cast,DEM,374
+Madison,Town of Lenox 4,State Assembly,121,Ballots Cast,DEM,331
+Madison,Town of Lenox 5,State Assembly,121,Ballots Cast,DEM,490
+Madison,Town of Lenox 6,State Assembly,121,Ballots Cast,DEM,205
+Madison,Town of Lincoln 1,State Assembly,121,Ballots Cast,DEM,270
+Madison,Town of Lincoln 2,State Assembly,121,Ballots Cast,DEM,259
+Madison,Town of Madison 1,State Assembly,121,Ballots Cast,DEM,475
+Madison,Town of Madison 2,State Assembly,121,Ballots Cast,DEM,384
+Madison,Town of Nelson 1,State Assembly,121,Ballots Cast,DEM,356
+Madison,Town of Nelson 2,State Assembly,121,Ballots Cast,DEM,365
+Madison,Town of Smithfield 1,State Assembly,121,Ballots Cast,DEM,349
+Madison,Town of Stockbridge 1,State Assembly,121,Ballots Cast,DEM,228
+Madison,Town of Stockbridge 2,State Assembly,121,Ballots Cast,DEM,242
+Madison,Town of Sullivan 1,State Assembly,121,Ballots Cast,DEM,620
+Madison,Town of Sullivan 2,State Assembly,121,Ballots Cast,DEM,504
+Madison,Town of Sullivan 3,State Assembly,121,Ballots Cast,DEM,377
+Madison,Town of Sullivan 4,State Assembly,121,Ballots Cast,DEM,167
+Madison,Town of Sullivan 5,State Assembly,121,Ballots Cast,DEM,459
+Madison,Town of Sullivan 6,State Assembly,121,Ballots Cast,DEM,520
+Madison,Town of Sullivan 7,State Assembly,121,Ballots Cast,DEM,394
+Madison,Town of Sullivan 8,State Assembly,121,Ballots Cast,DEM,247
+Madison,Town of Sullivan 9,State Assembly,121,Ballots Cast,DEM,305
+Madison,Town of Sullivan 10,State Assembly,121,Ballots Cast,DEM,339
+Madison,Town of Sullivan 11,State Assembly,121,Ballots Cast,DEM,307
+Madison,TOTAL,State Assembly,121,Ballots Cast,DEM,18771
+Madison,City of Oneida 1-1,State Assembly,121,Bill Magee,REP,111
+Madison,City of Oneida 1-2,State Assembly,121,Bill Magee,REP,136
+Madison,City of Oneida 2-1,State Assembly,121,Bill Magee,REP,162
+Madison,City of Oneida 2-2,State Assembly,121,Bill Magee,REP,159
+Madison,City of Oneida 3,State Assembly,121,Bill Magee,REP,233
+Madison,City of Oneida 4,State Assembly,121,Bill Magee,REP,108
+Madison,City of Oneida 5,State Assembly,121,Bill Magee,REP,168
+Madison,City of Oneida 6,State Assembly,121,Bill Magee,REP,144
+Madison,Town of Brookfield 1,State Assembly,121,Bill Magee,REP,96
+Madison,Town of Brookfield 2,State Assembly,121,Bill Magee,REP,200
+Madison,Town of Brookfield 3,State Assembly,121,Bill Magee,REP,89
+Madison,Town of Cazenovia 1,State Assembly,121,Bill Magee,REP,173
+Madison,Town of Cazenovia 2,State Assembly,121,Bill Magee,REP,188
+Madison,Town of Cazenovia 3,State Assembly,121,Bill Magee,REP,250
+Madison,Town of Cazenovia 4,State Assembly,121,Bill Magee,REP,237
+Madison,Town of Cazenovia 5,State Assembly,121,Bill Magee,REP,275
+Madison,Town of Cazenovia 6,State Assembly,121,Bill Magee,REP,176
+Madison,Town of DeRuyter 1,State Assembly,121,Bill Magee,REP,237
+Madison,Town of Eaton 1,State Assembly,121,Bill Magee,REP,248
+Madison,Town of Eaton 2,State Assembly,121,Bill Magee,REP,214
+Madison,Town of Fenner 1,State Assembly,121,Bill Magee,REP,266
+Madison,Town of Georgetown 1,State Assembly,121,Bill Magee,REP,95
+Madison,Town of Hamilton 1,State Assembly,121,Bill Magee,REP,184
+Madison,Town of Hamilton 2,State Assembly,121,Bill Magee,REP,272
+Madison,Town of Hamilton 3,State Assembly,121,Bill Magee,REP,70
+Madison,Town of Hamilton 4,State Assembly,121,Bill Magee,REP,169
+Madison,Town of Lebanon 1,State Assembly,121,Bill Magee,REP,68
+Madison,Town of Lebanon 2,State Assembly,121,Bill Magee,REP,119
+Madison,Town of Lenox 1,State Assembly,121,Bill Magee,REP,222
+Madison,Town of Lenox 2,State Assembly,121,Bill Magee,REP,141
+Madison,Town of Lenox 3,State Assembly,121,Bill Magee,REP,195
+Madison,Town of Lenox 4,State Assembly,121,Bill Magee,REP,166
+Madison,Town of Lenox 5,State Assembly,121,Bill Magee,REP,245
+Madison,Town of Lenox 6,State Assembly,121,Bill Magee,REP,93
+Madison,Town of Lincoln 1,State Assembly,121,Bill Magee,REP,102
+Madison,Town of Lincoln 2,State Assembly,121,Bill Magee,REP,134
+Madison,Town of Madison 1,State Assembly,121,Bill Magee,REP,230
+Madison,Town of Madison 2,State Assembly,121,Bill Magee,REP,206
+Madison,Town of Nelson 1,State Assembly,121,Bill Magee,REP,180
+Madison,Town of Nelson 2,State Assembly,121,Bill Magee,REP,199
+Madison,Town of Smithfield 1,State Assembly,121,Bill Magee,REP,175
+Madison,Town of Stockbridge 1,State Assembly,121,Bill Magee,REP,127
+Madison,Town of Stockbridge 2,State Assembly,121,Bill Magee,REP,133
+Madison,Town of Sullivan 1,State Assembly,121,Bill Magee,REP,264
+Madison,Town of Sullivan 2,State Assembly,121,Bill Magee,REP,218
+Madison,Town of Sullivan 3,State Assembly,121,Bill Magee,REP,149
+Madison,Town of Sullivan 4,State Assembly,121,Bill Magee,REP,84
+Madison,Town of Sullivan 5,State Assembly,121,Bill Magee,REP,205
+Madison,Town of Sullivan 6,State Assembly,121,Bill Magee,REP,240
+Madison,Town of Sullivan 7,State Assembly,121,Bill Magee,REP,181
+Madison,Town of Sullivan 8,State Assembly,121,Bill Magee,REP,142
+Madison,Town of Sullivan 9,State Assembly,121,Bill Magee,REP,115
+Madison,Town of Sullivan 10,State Assembly,121,Bill Magee,REP,141
+Madison,Town of Sullivan 11,State Assembly,121,Bill Magee,REP,139
+Madison,TOTAL,State Assembly,121,Bill Magee,REP,9273
+Madison,City of Oneida 1-1,State Assembly,121,John J. Salka,CON,125
+Madison,City of Oneida 1-2,State Assembly,121,John J. Salka,CON,111
+Madison,City of Oneida 2-1,State Assembly,121,John J. Salka,CON,160
+Madison,City of Oneida 2-2,State Assembly,121,John J. Salka,CON,107
+Madison,City of Oneida 3,State Assembly,121,John J. Salka,CON,127
+Madison,City of Oneida 4,State Assembly,121,John J. Salka,CON,79
+Madison,City of Oneida 5,State Assembly,121,John J. Salka,CON,114
+Madison,City of Oneida 6,State Assembly,121,John J. Salka,CON,122
+Madison,Town of Brookfield 1,State Assembly,121,John J. Salka,CON,76
+Madison,Town of Brookfield 2,State Assembly,121,John J. Salka,CON,90
+Madison,Town of Brookfield 3,State Assembly,121,John J. Salka,CON,103
+Madison,Town of Cazenovia 1,State Assembly,121,John J. Salka,CON,165
+Madison,Town of Cazenovia 2,State Assembly,121,John J. Salka,CON,132
+Madison,Town of Cazenovia 3,State Assembly,121,John J. Salka,CON,105
+Madison,Town of Cazenovia 4,State Assembly,121,John J. Salka,CON,152
+Madison,Town of Cazenovia 5,State Assembly,121,John J. Salka,CON,221
+Madison,Town of Cazenovia 6,State Assembly,121,John J. Salka,CON,126
+Madison,Town of DeRuyter 1,State Assembly,121,John J. Salka,CON,198
+Madison,Town of Eaton 1,State Assembly,121,John J. Salka,CON,172
+Madison,Town of Eaton 2,State Assembly,121,John J. Salka,CON,164
+Madison,Town of Fenner 1,State Assembly,121,John J. Salka,CON,226
+Madison,Town of Georgetown 1,State Assembly,121,John J. Salka,CON,103
+Madison,Town of Hamilton 1,State Assembly,121,John J. Salka,CON,92
+Madison,Town of Hamilton 2,State Assembly,121,John J. Salka,CON,113
+Madison,Town of Hamilton 3,State Assembly,121,John J. Salka,CON,65
+Madison,Town of Hamilton 4,State Assembly,121,John J. Salka,CON,197
+Madison,Town of Lebanon 1,State Assembly,121,John J. Salka,CON,55
+Madison,Town of Lebanon 2,State Assembly,121,John J. Salka,CON,99
+Madison,Town of Lenox 1,State Assembly,121,John J. Salka,CON,199
+Madison,Town of Lenox 2,State Assembly,121,John J. Salka,CON,122
+Madison,Town of Lenox 3,State Assembly,121,John J. Salka,CON,132
+Madison,Town of Lenox 4,State Assembly,121,John J. Salka,CON,129
+Madison,Town of Lenox 5,State Assembly,121,John J. Salka,CON,208
+Madison,Town of Lenox 6,State Assembly,121,John J. Salka,CON,84
+Madison,Town of Lincoln 1,State Assembly,121,John J. Salka,CON,131
+Madison,Town of Lincoln 2,State Assembly,121,John J. Salka,CON,99
+Madison,Town of Madison 1,State Assembly,121,John J. Salka,CON,194
+Madison,Town of Madison 2,State Assembly,121,John J. Salka,CON,134
+Madison,Town of Nelson 1,State Assembly,121,John J. Salka,CON,131
+Madison,Town of Nelson 2,State Assembly,121,John J. Salka,CON,128
+Madison,Town of Smithfield 1,State Assembly,121,John J. Salka,CON,132
+Madison,Town of Stockbridge 1,State Assembly,121,John J. Salka,CON,85
+Madison,Town of Stockbridge 2,State Assembly,121,John J. Salka,CON,89
+Madison,Town of Sullivan 1,State Assembly,121,John J. Salka,CON,282
+Madison,Town of Sullivan 2,State Assembly,121,John J. Salka,CON,215
+Madison,Town of Sullivan 3,State Assembly,121,John J. Salka,CON,184
+Madison,Town of Sullivan 4,State Assembly,121,John J. Salka,CON,68
+Madison,Town of Sullivan 5,State Assembly,121,John J. Salka,CON,190
+Madison,Town of Sullivan 6,State Assembly,121,John J. Salka,CON,223
+Madison,Town of Sullivan 7,State Assembly,121,John J. Salka,CON,162
+Madison,Town of Sullivan 8,State Assembly,121,John J. Salka,CON,86
+Madison,Town of Sullivan 9,State Assembly,121,John J. Salka,CON,136
+Madison,Town of Sullivan 10,State Assembly,121,John J. Salka,CON,153
+Madison,Town of Sullivan 11,State Assembly,121,John J. Salka,CON,137
+Madison,TOTAL,State Assembly,121,John J. Salka,CON,7432
+Madison,City of Oneida 1-1,State Assembly,121,John J. Salka,,27
+Madison,City of Oneida 1-2,State Assembly,121,John J. Salka,,23
+Madison,City of Oneida 2-1,State Assembly,121,John J. Salka,,32
+Madison,City of Oneida 2-2,State Assembly,121,John J. Salka,,18
+Madison,City of Oneida 3,State Assembly,121,John J. Salka,,33
+Madison,City of Oneida 4,State Assembly,121,John J. Salka,,21
+Madison,City of Oneida 5,State Assembly,121,John J. Salka,,19
+Madison,City of Oneida 6,State Assembly,121,John J. Salka,,34
+Madison,Town of Brookfield 1,State Assembly,121,John J. Salka,,16
+Madison,Town of Brookfield 2,State Assembly,121,John J. Salka,,19
+Madison,Town of Brookfield 3,State Assembly,121,John J. Salka,,32
+Madison,Town of Cazenovia 1,State Assembly,121,John J. Salka,,27
+Madison,Town of Cazenovia 2,State Assembly,121,John J. Salka,,18
+Madison,Town of Cazenovia 3,State Assembly,121,John J. Salka,,20
+Madison,Town of Cazenovia 4,State Assembly,121,John J. Salka,,38
+Madison,Town of Cazenovia 5,State Assembly,121,John J. Salka,,34
+Madison,Town of Cazenovia 6,State Assembly,121,John J. Salka,,27
+Madison,Town of DeRuyter 1,State Assembly,121,John J. Salka,,49
+Madison,Town of Eaton 1,State Assembly,121,John J. Salka,,45
+Madison,Town of Eaton 2,State Assembly,121,John J. Salka,,39
+Madison,Town of Fenner 1,State Assembly,121,John J. Salka,,48
+Madison,Town of Georgetown 1,State Assembly,121,John J. Salka,,19
+Madison,Town of Hamilton 1,State Assembly,121,John J. Salka,,14
+Madison,Town of Hamilton 2,State Assembly,121,John J. Salka,,18
+Madison,Town of Hamilton 3,State Assembly,121,John J. Salka,,13
+Madison,Town of Hamilton 4,State Assembly,121,John J. Salka,,38
+Madison,Town of Lebanon 1,State Assembly,121,John J. Salka,,7
+Madison,Town of Lebanon 2,State Assembly,121,John J. Salka,,13
+Madison,Town of Lenox 1,State Assembly,121,John J. Salka,,36
+Madison,Town of Lenox 2,State Assembly,121,John J. Salka,,30
+Madison,Town of Lenox 3,State Assembly,121,John J. Salka,,31
+Madison,Town of Lenox 4,State Assembly,121,John J. Salka,,26
+Madison,Town of Lenox 5,State Assembly,121,John J. Salka,,32
+Madison,Town of Lenox 6,State Assembly,121,John J. Salka,,18
+Madison,Town of Lincoln 1,State Assembly,121,John J. Salka,,27
+Madison,Town of Lincoln 2,State Assembly,121,John J. Salka,,19
+Madison,Town of Madison 1,State Assembly,121,John J. Salka,,43
+Madison,Town of Madison 2,State Assembly,121,John J. Salka,,34
+Madison,Town of Nelson 1,State Assembly,121,John J. Salka,,34
+Madison,Town of Nelson 2,State Assembly,121,John J. Salka,,29
+Madison,Town of Smithfield 1,State Assembly,121,John J. Salka,,34
+Madison,Town of Stockbridge 1,State Assembly,121,John J. Salka,,8
+Madison,Town of Stockbridge 2,State Assembly,121,John J. Salka,,13
+Madison,Town of Sullivan 1,State Assembly,121,John J. Salka,,51
+Madison,Town of Sullivan 2,State Assembly,121,John J. Salka,,55
+Madison,Town of Sullivan 3,State Assembly,121,John J. Salka,,35
+Madison,Town of Sullivan 4,State Assembly,121,John J. Salka,,13
+Madison,Town of Sullivan 5,State Assembly,121,John J. Salka,,45
+Madison,Town of Sullivan 6,State Assembly,121,John J. Salka,,41
+Madison,Town of Sullivan 7,State Assembly,121,John J. Salka,,45
+Madison,Town of Sullivan 8,State Assembly,121,John J. Salka,,16
+Madison,Town of Sullivan 9,State Assembly,121,John J. Salka,,41
+Madison,Town of Sullivan 10,State Assembly,121,John J. Salka,,31
+Madison,Town of Sullivan 11,State Assembly,121,John J. Salka,,25
+Madison,TOTAL,State Assembly,121,John J. Salka,,1553
+Madison,City of Oneida 1-1,Attorney General,,Eric T. Schneiderman,DEM,71
+Madison,City of Oneida 1-2,Attorney General,,Eric T. Schneiderman,DEM,99
+Madison,City of Oneida 2-1,Attorney General,,Eric T. Schneiderman,DEM,111
+Madison,City of Oneida 2-2,Attorney General,,Eric T. Schneiderman,DEM,113
+Madison,City of Oneida 3,Attorney General,,Eric T. Schneiderman,DEM,158
+Madison,City of Oneida 4,Attorney General,,Eric T. Schneiderman,DEM,76
+Madison,City of Oneida 5,Attorney General,,Eric T. Schneiderman,DEM,123
+Madison,City of Oneida 6,Attorney General,,Eric T. Schneiderman,DEM,82
+Madison,Town of Brookfield 1,Attorney General,,Eric T. Schneiderman,DEM,43
+Madison,Town of Brookfield 2,Attorney General,,Eric T. Schneiderman,DEM,86
+Madison,Town of Brookfield 3,Attorney General,,Eric T. Schneiderman,DEM,45
+Madison,Town of Cazenovia 1,Attorney General,,Eric T. Schneiderman,DEM,97
+Madison,Town of Cazenovia 2,Attorney General,,Eric T. Schneiderman,DEM,133
+Madison,Town of Cazenovia 3,Attorney General,,Eric T. Schneiderman,DEM,148
+Madison,Town of Cazenovia 4,Attorney General,,Eric T. Schneiderman,DEM,135
+Madison,Town of Cazenovia 5,Attorney General,,Eric T. Schneiderman,DEM,182
+Madison,Town of Cazenovia 6,Attorney General,,Eric T. Schneiderman,DEM,109
+Madison,Town of DeRuyter 1,Attorney General,,Eric T. Schneiderman,DEM,108
+Madison,Town of Eaton 1,Attorney General,,Eric T. Schneiderman,DEM,159
+Madison,Town of Eaton 2,Attorney General,,Eric T. Schneiderman,DEM,122
+Madison,Town of Fenner 1,Attorney General,,Eric T. Schneiderman,DEM,148
+Madison,Town of Georgetown 1,Attorney General,,Eric T. Schneiderman,DEM,38
+Madison,Town of Hamilton 1,Attorney General,,Eric T. Schneiderman,DEM,147
+Madison,Town of Hamilton 2,Attorney General,,Eric T. Schneiderman,DEM,195
+Madison,Town of Hamilton 3,Attorney General,,Eric T. Schneiderman,DEM,44
+Madison,Town of Hamilton 4,Attorney General,,Eric T. Schneiderman,DEM,129
+Madison,Town of Lebanon 1,Attorney General,,Eric T. Schneiderman,DEM,31
+Madison,Town of Lebanon 2,Attorney General,,Eric T. Schneiderman,DEM,79
+Madison,Town of Lenox 1,Attorney General,,Eric T. Schneiderman,DEM,136
+Madison,Town of Lenox 2,Attorney General,,Eric T. Schneiderman,DEM,85
+Madison,Town of Lenox 3,Attorney General,,Eric T. Schneiderman,DEM,120
+Madison,Town of Lenox 4,Attorney General,,Eric T. Schneiderman,DEM,107
+Madison,Town of Lenox 5,Attorney General,,Eric T. Schneiderman,DEM,155
+Madison,Town of Lenox 6,Attorney General,,Eric T. Schneiderman,DEM,49
+Madison,Town of Lincoln 1,Attorney General,,Eric T. Schneiderman,DEM,53
+Madison,Town of Lincoln 2,Attorney General,,Eric T. Schneiderman,DEM,59
+Madison,Town of Madison 1,Attorney General,,Eric T. Schneiderman,DEM,140
+Madison,Town of Madison 2,Attorney General,,Eric T. Schneiderman,DEM,124
+Madison,Town of Nelson 1,Attorney General,,Eric T. Schneiderman,DEM,109
+Madison,Town of Nelson 2,Attorney General,,Eric T. Schneiderman,DEM,120
+Madison,Town of Smithfield 1,Attorney General,,Eric T. Schneiderman,DEM,92
+Madison,Town of Stockbridge 1,Attorney General,,Eric T. Schneiderman,DEM,66
+Madison,Town of Stockbridge 2,Attorney General,,Eric T. Schneiderman,DEM,74
+Madison,Town of Sullivan 1,Attorney General,,Eric T. Schneiderman,DEM,198
+Madison,Town of Sullivan 2,Attorney General,,Eric T. Schneiderman,DEM,120
+Madison,Town of Sullivan 3,Attorney General,,Eric T. Schneiderman,DEM,111
+Madison,Town of Sullivan 4,Attorney General,,Eric T. Schneiderman,DEM,47
+Madison,Town of Sullivan 5,Attorney General,,Eric T. Schneiderman,DEM,124
+Madison,Town of Sullivan 6,Attorney General,,Eric T. Schneiderman,DEM,157
+Madison,Town of Sullivan 7,Attorney General,,Eric T. Schneiderman,DEM,121
+Madison,Town of Sullivan 8,Attorney General,,Eric T. Schneiderman,DEM,86
+Madison,Town of Sullivan 9,Attorney General,,Eric T. Schneiderman,DEM,78
+Madison,Town of Sullivan 10,Attorney General,,Eric T. Schneiderman,DEM,100
+Madison,Town of Sullivan 11,Attorney General,,Eric T. Schneiderman,DEM,79
+Madison,TOTAL,Attorney General,,Eric T. Schneiderman,DEM,5721
+Madison,City of Oneida 1-1,Attorney General,,John Cahill,REP,123
+Madison,City of Oneida 1-2,Attorney General,,John Cahill,REP,123
+Madison,City of Oneida 2-1,Attorney General,,John Cahill,REP,177
+Madison,City of Oneida 2-2,Attorney General,,John Cahill,REP,116
+Madison,City of Oneida 3,Attorney General,,John Cahill,REP,143
+Madison,City of Oneida 4,Attorney General,,John Cahill,REP,82
+Madison,City of Oneida 5,Attorney General,,John Cahill,REP,114
+Madison,City of Oneida 6,Attorney General,,John Cahill,REP,120
+Madison,Town of Brookfield 1,Attorney General,,John Cahill,REP,88
+Madison,Town of Brookfield 2,Attorney General,,John Cahill,REP,135
+Madison,Town of Brookfield 3,Attorney General,,John Cahill,REP,95
+Madison,Town of Cazenovia 1,Attorney General,,John Cahill,REP,174
+Madison,Town of Cazenovia 2,Attorney General,,John Cahill,REP,152
+Madison,Town of Cazenovia 3,Attorney General,,John Cahill,REP,139
+Madison,Town of Cazenovia 4,Attorney General,,John Cahill,REP,192
+Madison,Town of Cazenovia 5,Attorney General,,John Cahill,REP,248
+Madison,Town of Cazenovia 6,Attorney General,,John Cahill,REP,157
+Madison,Town of DeRuyter 1,Attorney General,,John Cahill,REP,244
+Madison,Town of Eaton 1,Attorney General,,John Cahill,REP,190
+Madison,Town of Eaton 2,Attorney General,,John Cahill,REP,201
+Madison,Town of Fenner 1,Attorney General,,John Cahill,REP,253
+Madison,Town of Georgetown 1,Attorney General,,John Cahill,REP,123
+Madison,Town of Hamilton 1,Attorney General,,John Cahill,REP,82
+Madison,Town of Hamilton 2,Attorney General,,John Cahill,REP,121
+Madison,Town of Hamilton 3,Attorney General,,John Cahill,REP,66
+Madison,Town of Hamilton 4,Attorney General,,John Cahill,REP,186
+Madison,Town of Lebanon 1,Attorney General,,John Cahill,REP,65
+Madison,Town of Lebanon 2,Attorney General,,John Cahill,REP,115
+Madison,Town of Lenox 1,Attorney General,,John Cahill,REP,236
+Madison,Town of Lenox 2,Attorney General,,John Cahill,REP,144
+Madison,Town of Lenox 3,Attorney General,,John Cahill,REP,158
+Madison,Town of Lenox 4,Attorney General,,John Cahill,REP,156
+Madison,Town of Lenox 5,Attorney General,,John Cahill,REP,223
+Madison,Town of Lenox 6,Attorney General,,John Cahill,REP,102
+Madison,Town of Lincoln 1,Attorney General,,John Cahill,REP,148
+Madison,Town of Lincoln 2,Attorney General,,John Cahill,REP,139
+Madison,Town of Madison 1,Attorney General,,John Cahill,REP,224
+Madison,Town of Madison 2,Attorney General,,John Cahill,REP,157
+Madison,Town of Nelson 1,Attorney General,,John Cahill,REP,139
+Madison,Town of Nelson 2,Attorney General,,John Cahill,REP,156
+Madison,Town of Smithfield 1,Attorney General,,John Cahill,REP,134
+Madison,Town of Stockbridge 1,Attorney General,,John Cahill,REP,112
+Madison,Town of Stockbridge 2,Attorney General,,John Cahill,REP,119
+Madison,Town of Sullivan 1,Attorney General,,John Cahill,REP,283
+Madison,Town of Sullivan 2,Attorney General,,John Cahill,REP,239
+Madison,Town of Sullivan 3,Attorney General,,John Cahill,REP,179
+Madison,Town of Sullivan 4,Attorney General,,John Cahill,REP,82
+Madison,Town of Sullivan 5,Attorney General,,John Cahill,REP,215
+Madison,Town of Sullivan 6,Attorney General,,John Cahill,REP,243
+Madison,Town of Sullivan 7,Attorney General,,John Cahill,REP,176
+Madison,Town of Sullivan 8,Attorney General,,John Cahill,REP,114
+Madison,Town of Sullivan 9,Attorney General,,John Cahill,REP,138
+Madison,Town of Sullivan 10,Attorney General,,John Cahill,REP,151
+Madison,Town of Sullivan 11,Attorney General,,John Cahill,REP,150
+Madison,TOTAL,Attorney General,,John Cahill,REP,8341
+Madison,City of Oneida 1-1,Attorney General,,John Cahill,CON,34
+Madison,City of Oneida 1-2,Attorney General,,John Cahill,CON,26
+Madison,City of Oneida 2-1,Attorney General,,John Cahill,CON,40
+Madison,City of Oneida 2-2,Attorney General,,John Cahill,CON,26
+Madison,City of Oneida 3,Attorney General,,John Cahill,CON,46
+Madison,City of Oneida 4,Attorney General,,John Cahill,CON,26
+Madison,City of Oneida 5,Attorney General,,John Cahill,CON,26
+Madison,City of Oneida 6,Attorney General,,John Cahill,CON,45
+Madison,Town of Brookfield 1,Attorney General,,John Cahill,CON,28
+Madison,Town of Brookfield 2,Attorney General,,John Cahill,CON,27
+Madison,Town of Brookfield 3,Attorney General,,John Cahill,CON,34
+Madison,Town of Cazenovia 1,Attorney General,,John Cahill,CON,29
+Madison,Town of Cazenovia 2,Attorney General,,John Cahill,CON,20
+Madison,Town of Cazenovia 3,Attorney General,,John Cahill,CON,32
+Madison,Town of Cazenovia 4,Attorney General,,John Cahill,CON,53
+Madison,Town of Cazenovia 5,Attorney General,,John Cahill,CON,51
+Madison,Town of Cazenovia 6,Attorney General,,John Cahill,CON,28
+Madison,Town of DeRuyter 1,Attorney General,,John Cahill,CON,71
+Madison,Town of Eaton 1,Attorney General,,John Cahill,CON,53
+Madison,Town of Eaton 2,Attorney General,,John Cahill,CON,38
+Madison,Town of Fenner 1,Attorney General,,John Cahill,CON,63
+Madison,Town of Georgetown 1,Attorney General,,John Cahill,CON,32
+Madison,Town of Hamilton 1,Attorney General,,John Cahill,CON,14
+Madison,Town of Hamilton 2,Attorney General,,John Cahill,CON,15
+Madison,Town of Hamilton 3,Attorney General,,John Cahill,CON,15
+Madison,Town of Hamilton 4,Attorney General,,John Cahill,CON,36
+Madison,Town of Lebanon 1,Attorney General,,John Cahill,CON,14
+Madison,Town of Lebanon 2,Attorney General,,John Cahill,CON,13
+Madison,Town of Lenox 1,Attorney General,,John Cahill,CON,36
+Madison,Town of Lenox 2,Attorney General,,John Cahill,CON,33
+Madison,Town of Lenox 3,Attorney General,,John Cahill,CON,27
+Madison,Town of Lenox 4,Attorney General,,John Cahill,CON,28
+Madison,Town of Lenox 5,Attorney General,,John Cahill,CON,44
+Madison,Town of Lenox 6,Attorney General,,John Cahill,CON,21
+Madison,Town of Lincoln 1,Attorney General,,John Cahill,CON,36
+Madison,Town of Lincoln 2,Attorney General,,John Cahill,CON,27
+Madison,Town of Madison 1,Attorney General,,John Cahill,CON,36
+Madison,Town of Madison 2,Attorney General,,John Cahill,CON,37
+Madison,Town of Nelson 1,Attorney General,,John Cahill,CON,42
+Madison,Town of Nelson 2,Attorney General,,John Cahill,CON,29
+Madison,Town of Smithfield 1,Attorney General,,John Cahill,CON,48
+Madison,Town of Stockbridge 1,Attorney General,,John Cahill,CON,14
+Madison,Town of Stockbridge 2,Attorney General,,John Cahill,CON,15
+Madison,Town of Sullivan 1,Attorney General,,John Cahill,CON,58
+Madison,Town of Sullivan 2,Attorney General,,John Cahill,CON,62
+Madison,Town of Sullivan 3,Attorney General,,John Cahill,CON,44
+Madison,Town of Sullivan 4,Attorney General,,John Cahill,CON,19
+Madison,Town of Sullivan 5,Attorney General,,John Cahill,CON,50
+Madison,Town of Sullivan 6,Attorney General,,John Cahill,CON,59
+Madison,Town of Sullivan 7,Attorney General,,John Cahill,CON,51
+Madison,Town of Sullivan 8,Attorney General,,John Cahill,CON,20
+Madison,Town of Sullivan 9,Attorney General,,John Cahill,CON,45
+Madison,Town of Sullivan 10,Attorney General,,John Cahill,CON,41
+Madison,Town of Sullivan 11,Attorney General,,John Cahill,CON,38
+Madison,TOTAL,Attorney General,,John Cahill,CON,1895
+Madison,City of Oneida 1-1,Attorney General,,Eric T. Schneiderman,WOR,7
+Madison,City of Oneida 1-2,Attorney General,,Eric T. Schneiderman,WOR,8
+Madison,City of Oneida 2-1,Attorney General,,Eric T. Schneiderman,WOR,7
+Madison,City of Oneida 2-2,Attorney General,,Eric T. Schneiderman,WOR,11
+Madison,City of Oneida 3,Attorney General,,Eric T. Schneiderman,WOR,8
+Madison,City of Oneida 4,Attorney General,,Eric T. Schneiderman,WOR,9
+Madison,City of Oneida 5,Attorney General,,Eric T. Schneiderman,WOR,11
+Madison,City of Oneida 6,Attorney General,,Eric T. Schneiderman,WOR,16
+Madison,Town of Brookfield 1,Attorney General,,Eric T. Schneiderman,WOR,7
+Madison,Town of Brookfield 2,Attorney General,,Eric T. Schneiderman,WOR,13
+Madison,Town of Brookfield 3,Attorney General,,Eric T. Schneiderman,WOR,8
+Madison,Town of Cazenovia 1,Attorney General,,Eric T. Schneiderman,WOR,19
+Madison,Town of Cazenovia 2,Attorney General,,Eric T. Schneiderman,WOR,10
+Madison,Town of Cazenovia 3,Attorney General,,Eric T. Schneiderman,WOR,16
+Madison,Town of Cazenovia 4,Attorney General,,Eric T. Schneiderman,WOR,10
+Madison,Town of Cazenovia 5,Attorney General,,Eric T. Schneiderman,WOR,15
+Madison,Town of Cazenovia 6,Attorney General,,Eric T. Schneiderman,WOR,2
+Madison,Town of DeRuyter 1,Attorney General,,Eric T. Schneiderman,WOR,12
+Madison,Town of Eaton 1,Attorney General,,Eric T. Schneiderman,WOR,12
+Madison,Town of Eaton 2,Attorney General,,Eric T. Schneiderman,WOR,11
+Madison,Town of Fenner 1,Attorney General,,Eric T. Schneiderman,WOR,22
+Madison,Town of Georgetown 1,Attorney General,,Eric T. Schneiderman,WOR,3
+Madison,Town of Hamilton 1,Attorney General,,Eric T. Schneiderman,WOR,20
+Madison,Town of Hamilton 2,Attorney General,,Eric T. Schneiderman,WOR,29
+Madison,Town of Hamilton 3,Attorney General,,Eric T. Schneiderman,WOR,2
+Madison,Town of Hamilton 4,Attorney General,,Eric T. Schneiderman,WOR,14
+Madison,Town of Lebanon 1,Attorney General,,Eric T. Schneiderman,WOR,3
+Madison,Town of Lebanon 2,Attorney General,,Eric T. Schneiderman,WOR,5
+Madison,Town of Lenox 1,Attorney General,,Eric T. Schneiderman,WOR,3
+Madison,Town of Lenox 2,Attorney General,,Eric T. Schneiderman,WOR,4
+Madison,Town of Lenox 3,Attorney General,,Eric T. Schneiderman,WOR,7
+Madison,Town of Lenox 4,Attorney General,,Eric T. Schneiderman,WOR,10
+Madison,Town of Lenox 5,Attorney General,,Eric T. Schneiderman,WOR,12
+Madison,Town of Lenox 6,Attorney General,,Eric T. Schneiderman,WOR,4
+Madison,Town of Lincoln 1,Attorney General,,Eric T. Schneiderman,WOR,5
+Madison,Town of Lincoln 2,Attorney General,,Eric T. Schneiderman,WOR,7
+Madison,Town of Madison 1,Attorney General,,Eric T. Schneiderman,WOR,17
+Madison,Town of Madison 2,Attorney General,,Eric T. Schneiderman,WOR,15
+Madison,Town of Nelson 1,Attorney General,,Eric T. Schneiderman,WOR,15
+Madison,Town of Nelson 2,Attorney General,,Eric T. Schneiderman,WOR,4
+Madison,Town of Smithfield 1,Attorney General,,Eric T. Schneiderman,WOR,11
+Madison,Town of Stockbridge 1,Attorney General,,Eric T. Schneiderman,WOR,6
+Madison,Town of Stockbridge 2,Attorney General,,Eric T. Schneiderman,WOR,2
+Madison,Town of Sullivan 1,Attorney General,,Eric T. Schneiderman,WOR,11
+Madison,Town of Sullivan 2,Attorney General,,Eric T. Schneiderman,WOR,12
+Madison,Town of Sullivan 3,Attorney General,,Eric T. Schneiderman,WOR,15
+Madison,Town of Sullivan 4,Attorney General,,Eric T. Schneiderman,WOR,3
+Madison,Town of Sullivan 5,Attorney General,,Eric T. Schneiderman,WOR,21
+Madison,Town of Sullivan 6,Attorney General,,Eric T. Schneiderman,WOR,13
+Madison,Town of Sullivan 7,Attorney General,,Eric T. Schneiderman,WOR,10
+Madison,Town of Sullivan 8,Attorney General,,Eric T. Schneiderman,WOR,11
+Madison,Town of Sullivan 9,Attorney General,,Eric T. Schneiderman,WOR,9
+Madison,Town of Sullivan 10,Attorney General,,Eric T. Schneiderman,WOR,6
+Madison,Town of Sullivan 11,Attorney General,,Eric T. Schneiderman,WOR,12
+Madison,TOTAL,Attorney General,,Eric T. Schneiderman,WOR,555
+Madison,City of Oneida 1-1,Attorney General,,Eric T. Schneiderman,IND,11
+Madison,City of Oneida 1-2,Attorney General,,Eric T. Schneiderman,IND,8
+Madison,City of Oneida 2-1,Attorney General,,Eric T. Schneiderman,IND,13
+Madison,City of Oneida 2-2,Attorney General,,Eric T. Schneiderman,IND,8
+Madison,City of Oneida 3,Attorney General,,Eric T. Schneiderman,IND,13
+Madison,City of Oneida 4,Attorney General,,Eric T. Schneiderman,IND,7
+Madison,City of Oneida 5,Attorney General,,Eric T. Schneiderman,IND,15
+Madison,City of Oneida 6,Attorney General,,Eric T. Schneiderman,IND,12
+Madison,Town of Brookfield 1,Attorney General,,Eric T. Schneiderman,IND,5
+Madison,Town of Brookfield 2,Attorney General,,Eric T. Schneiderman,IND,12
+Madison,Town of Brookfield 3,Attorney General,,Eric T. Schneiderman,IND,8
+Madison,Town of Cazenovia 1,Attorney General,,Eric T. Schneiderman,IND,10
+Madison,Town of Cazenovia 2,Attorney General,,Eric T. Schneiderman,IND,10
+Madison,Town of Cazenovia 3,Attorney General,,Eric T. Schneiderman,IND,12
+Madison,Town of Cazenovia 4,Attorney General,,Eric T. Schneiderman,IND,15
+Madison,Town of Cazenovia 5,Attorney General,,Eric T. Schneiderman,IND,14
+Madison,Town of Cazenovia 6,Attorney General,,Eric T. Schneiderman,IND,10
+Madison,Town of DeRuyter 1,Attorney General,,Eric T. Schneiderman,IND,20
+Madison,Town of Eaton 1,Attorney General,,Eric T. Schneiderman,IND,20
+Madison,Town of Eaton 2,Attorney General,,Eric T. Schneiderman,IND,21
+Madison,Town of Fenner 1,Attorney General,,Eric T. Schneiderman,IND,9
+Madison,Town of Georgetown 1,Attorney General,,Eric T. Schneiderman,IND,8
+Madison,Town of Hamilton 1,Attorney General,,Eric T. Schneiderman,IND,6
+Madison,Town of Hamilton 2,Attorney General,,Eric T. Schneiderman,IND,9
+Madison,Town of Hamilton 3,Attorney General,,Eric T. Schneiderman,IND,4
+Madison,Town of Hamilton 4,Attorney General,,Eric T. Schneiderman,IND,10
+Madison,Town of Lebanon 1,Attorney General,,Eric T. Schneiderman,IND,1
+Madison,Town of Lebanon 2,Attorney General,,Eric T. Schneiderman,IND,6
+Madison,Town of Lenox 1,Attorney General,,Eric T. Schneiderman,IND,18
+Madison,Town of Lenox 2,Attorney General,,Eric T. Schneiderman,IND,4
+Madison,Town of Lenox 3,Attorney General,,Eric T. Schneiderman,IND,11
+Madison,Town of Lenox 4,Attorney General,,Eric T. Schneiderman,IND,7
+Madison,Town of Lenox 5,Attorney General,,Eric T. Schneiderman,IND,12
+Madison,Town of Lenox 6,Attorney General,,Eric T. Schneiderman,IND,12
+Madison,Town of Lincoln 1,Attorney General,,Eric T. Schneiderman,IND,2
+Madison,Town of Lincoln 2,Attorney General,,Eric T. Schneiderman,IND,1
+Madison,Town of Madison 1,Attorney General,,Eric T. Schneiderman,IND,16
+Madison,Town of Madison 2,Attorney General,,Eric T. Schneiderman,IND,16
+Madison,Town of Nelson 1,Attorney General,,Eric T. Schneiderman,IND,13
+Madison,Town of Nelson 2,Attorney General,,Eric T. Schneiderman,IND,17
+Madison,Town of Smithfield 1,Attorney General,,Eric T. Schneiderman,IND,12
+Madison,Town of Stockbridge 1,Attorney General,,Eric T. Schneiderman,IND,7
+Madison,Town of Stockbridge 2,Attorney General,,Eric T. Schneiderman,IND,5
+Madison,Town of Sullivan 1,Attorney General,,Eric T. Schneiderman,IND,15
+Madison,Town of Sullivan 2,Attorney General,,Eric T. Schneiderman,IND,17
+Madison,Town of Sullivan 3,Attorney General,,Eric T. Schneiderman,IND,8
+Madison,Town of Sullivan 4,Attorney General,,Eric T. Schneiderman,IND,9
+Madison,Town of Sullivan 5,Attorney General,,Eric T. Schneiderman,IND,20
+Madison,Town of Sullivan 6,Attorney General,,Eric T. Schneiderman,IND,15
+Madison,Town of Sullivan 7,Attorney General,,Eric T. Schneiderman,IND,6
+Madison,Town of Sullivan 8,Attorney General,,Eric T. Schneiderman,IND,3
+Madison,Town of Sullivan 9,Attorney General,,Eric T. Schneiderman,IND,11
+Madison,Town of Sullivan 10,Attorney General,,Eric T. Schneiderman,IND,13
+Madison,Town of Sullivan 11,Attorney General,,Eric T. Schneiderman,IND,11
+Madison,TOTAL,Attorney General,,Eric T. Schneiderman,IND,578
+Madison,City of Oneida 1-1,Attorney General,,Ramon Jimenez,GRE,6
+Madison,City of Oneida 1-2,Attorney General,,Ramon Jimenez,GRE,8
+Madison,City of Oneida 2-1,Attorney General,,Ramon Jimenez,GRE,3
+Madison,City of Oneida 2-2,Attorney General,,Ramon Jimenez,GRE,2
+Madison,City of Oneida 3,Attorney General,,Ramon Jimenez,GRE,12
+Madison,City of Oneida 4,Attorney General,,Ramon Jimenez,GRE,2
+Madison,City of Oneida 5,Attorney General,,Ramon Jimenez,GRE,6
+Madison,City of Oneida 6,Attorney General,,Ramon Jimenez,GRE,8
+Madison,Town of Brookfield 1,Attorney General,,Ramon Jimenez,GRE,5
+Madison,Town of Brookfield 2,Attorney General,,Ramon Jimenez,GRE,2
+Madison,Town of Brookfield 3,Attorney General,,Ramon Jimenez,GRE,4
+Madison,Town of Cazenovia 1,Attorney General,,Ramon Jimenez,GRE,21
+Madison,Town of Cazenovia 2,Attorney General,,Ramon Jimenez,GRE,12
+Madison,Town of Cazenovia 3,Attorney General,,Ramon Jimenez,GRE,15
+Madison,Town of Cazenovia 4,Attorney General,,Ramon Jimenez,GRE,9
+Madison,Town of Cazenovia 5,Attorney General,,Ramon Jimenez,GRE,13
+Madison,Town of Cazenovia 6,Attorney General,,Ramon Jimenez,GRE,7
+Madison,Town of DeRuyter 1,Attorney General,,Ramon Jimenez,GRE,12
+Madison,Town of Eaton 1,Attorney General,,Ramon Jimenez,GRE,12
+Madison,Town of Eaton 2,Attorney General,,Ramon Jimenez,GRE,14
+Madison,Town of Fenner 1,Attorney General,,Ramon Jimenez,GRE,14
+Madison,Town of Georgetown 1,Attorney General,,Ramon Jimenez,GRE,3
+Madison,Town of Hamilton 1,Attorney General,,Ramon Jimenez,GRE,13
+Madison,Town of Hamilton 2,Attorney General,,Ramon Jimenez,GRE,19
+Madison,Town of Hamilton 3,Attorney General,,Ramon Jimenez,GRE,10
+Madison,Town of Hamilton 4,Attorney General,,Ramon Jimenez,GRE,10
+Madison,Town of Lebanon 1,Attorney General,,Ramon Jimenez,GRE,6
+Madison,Town of Lebanon 2,Attorney General,,Ramon Jimenez,GRE,2
+Madison,Town of Lenox 1,Attorney General,,Ramon Jimenez,GRE,13
+Madison,Town of Lenox 2,Attorney General,,Ramon Jimenez,GRE,6
+Madison,Town of Lenox 3,Attorney General,,Ramon Jimenez,GRE,9
+Madison,Town of Lenox 4,Attorney General,,Ramon Jimenez,GRE,5
+Madison,Town of Lenox 5,Attorney General,,Ramon Jimenez,GRE,7
+Madison,Town of Lenox 6,Attorney General,,Ramon Jimenez,GRE,7
+Madison,Town of Lincoln 1,Attorney General,,Ramon Jimenez,GRE,5
+Madison,Town of Lincoln 2,Attorney General,,Ramon Jimenez,GRE,6
+Madison,Town of Madison 1,Attorney General,,Ramon Jimenez,GRE,10
+Madison,Town of Madison 2,Attorney General,,Ramon Jimenez,GRE,8
+Madison,Town of Nelson 1,Attorney General,,Ramon Jimenez,GRE,16
+Madison,Town of Nelson 2,Attorney General,,Ramon Jimenez,GRE,14
+Madison,Town of Smithfield 1,Attorney General,,Ramon Jimenez,GRE,8
+Madison,Town of Stockbridge 1,Attorney General,,Ramon Jimenez,GRE,1
+Madison,Town of Stockbridge 2,Attorney General,,Ramon Jimenez,GRE,9
+Madison,Town of Sullivan 1,Attorney General,,Ramon Jimenez,GRE,16
+Madison,Town of Sullivan 2,Attorney General,,Ramon Jimenez,GRE,11
+Madison,Town of Sullivan 3,Attorney General,,Ramon Jimenez,GRE,9
+Madison,Town of Sullivan 4,Attorney General,,Ramon Jimenez,GRE,1
+Madison,Town of Sullivan 5,Attorney General,,Ramon Jimenez,GRE,6
+Madison,Town of Sullivan 6,Attorney General,,Ramon Jimenez,GRE,10
+Madison,Town of Sullivan 7,Attorney General,,Ramon Jimenez,GRE,8
+Madison,Town of Sullivan 8,Attorney General,,Ramon Jimenez,GRE,5
+Madison,Town of Sullivan 9,Attorney General,,Ramon Jimenez,GRE,7
+Madison,Town of Sullivan 10,Attorney General,,Ramon Jimenez,GRE,8
+Madison,Town of Sullivan 11,Attorney General,,Ramon Jimenez,GRE,5
+Madison,TOTAL,Attorney General,,Ramon Jimenez,GRE,460
+Madison,City of Oneida 1-1,Attorney General,,Carl E. Person,LBT,0
+Madison,City of Oneida 1-2,Attorney General,,Carl E. Person,LBT,1
+Madison,City of Oneida 2-1,Attorney General,,Carl E. Person,LBT,1
+Madison,City of Oneida 2-2,Attorney General,,Carl E. Person,LBT,1
+Madison,City of Oneida 3,Attorney General,,Carl E. Person,LBT,4
+Madison,City of Oneida 4,Attorney General,,Carl E. Person,LBT,1
+Madison,City of Oneida 5,Attorney General,,Carl E. Person,LBT,1
+Madison,City of Oneida 6,Attorney General,,Carl E. Person,LBT,4
+Madison,Town of Brookfield 1,Attorney General,,Carl E. Person,LBT,2
+Madison,Town of Brookfield 2,Attorney General,,Carl E. Person,LBT,3
+Madison,Town of Brookfield 3,Attorney General,,Carl E. Person,LBT,5
+Madison,Town of Cazenovia 1,Attorney General,,Carl E. Person,LBT,3
+Madison,Town of Cazenovia 2,Attorney General,,Carl E. Person,LBT,1
+Madison,Town of Cazenovia 3,Attorney General,,Carl E. Person,LBT,2
+Madison,Town of Cazenovia 4,Attorney General,,Carl E. Person,LBT,3
+Madison,Town of Cazenovia 5,Attorney General,,Carl E. Person,LBT,3
+Madison,Town of Cazenovia 6,Attorney General,,Carl E. Person,LBT,0
+Madison,Town of DeRuyter 1,Attorney General,,Carl E. Person,LBT,5
+Madison,Town of Eaton 1,Attorney General,,Carl E. Person,LBT,7
+Madison,Town of Eaton 2,Attorney General,,Carl E. Person,LBT,0
+Madison,Town of Fenner 1,Attorney General,,Carl E. Person,LBT,7
+Madison,Town of Georgetown 1,Attorney General,,Carl E. Person,LBT,0
+Madison,Town of Hamilton 1,Attorney General,,Carl E. Person,LBT,2
+Madison,Town of Hamilton 2,Attorney General,,Carl E. Person,LBT,8
+Madison,Town of Hamilton 3,Attorney General,,Carl E. Person,LBT,3
+Madison,Town of Hamilton 4,Attorney General,,Carl E. Person,LBT,4
+Madison,Town of Lebanon 1,Attorney General,,Carl E. Person,LBT,0
+Madison,Town of Lebanon 2,Attorney General,,Carl E. Person,LBT,1
+Madison,Town of Lenox 1,Attorney General,,Carl E. Person,LBT,11
+Madison,Town of Lenox 2,Attorney General,,Carl E. Person,LBT,4
+Madison,Town of Lenox 3,Attorney General,,Carl E. Person,LBT,5
+Madison,Town of Lenox 4,Attorney General,,Carl E. Person,LBT,1
+Madison,Town of Lenox 5,Attorney General,,Carl E. Person,LBT,2
+Madison,Town of Lenox 6,Attorney General,,Carl E. Person,LBT,0
+Madison,Town of Lincoln 1,Attorney General,,Carl E. Person,LBT,2
+Madison,Town of Lincoln 2,Attorney General,,Carl E. Person,LBT,2
+Madison,Town of Madison 1,Attorney General,,Carl E. Person,LBT,7
+Madison,Town of Madison 2,Attorney General,,Carl E. Person,LBT,2
+Madison,Town of Nelson 1,Attorney General,,Carl E. Person,LBT,2
+Madison,Town of Nelson 2,Attorney General,,Carl E. Person,LBT,4
+Madison,Town of Smithfield 1,Attorney General,,Carl E. Person,LBT,11
+Madison,Town of Stockbridge 1,Attorney General,,Carl E. Person,LBT,2
+Madison,Town of Stockbridge 2,Attorney General,,Carl E. Person,LBT,4
+Madison,Town of Sullivan 1,Attorney General,,Carl E. Person,LBT,6
+Madison,Town of Sullivan 2,Attorney General,,Carl E. Person,LBT,8
+Madison,Town of Sullivan 3,Attorney General,,Carl E. Person,LBT,2
+Madison,Town of Sullivan 4,Attorney General,,Carl E. Person,LBT,1
+Madison,Town of Sullivan 5,Attorney General,,Carl E. Person,LBT,1
+Madison,Town of Sullivan 6,Attorney General,,Carl E. Person,LBT,5
+Madison,Town of Sullivan 7,Attorney General,,Carl E. Person,LBT,4
+Madison,Town of Sullivan 8,Attorney General,,Carl E. Person,LBT,1
+Madison,Town of Sullivan 9,Attorney General,,Carl E. Person,LBT,1
+Madison,Town of Sullivan 10,Attorney General,,Carl E. Person,LBT,3
+Madison,Town of Sullivan 11,Attorney General,,Carl E. Person,LBT,2
+Madison,TOTAL,Attorney General,,Carl E. Person,LBT,165
+Madison,City of Oneida 1-1,Comptroller,,Thomas P. DiNapoli,DEM,90
+Madison,City of Oneida 1-2,Comptroller,,Thomas P. DiNapoli,DEM,110
+Madison,City of Oneida 2-1,Comptroller,,Thomas P. DiNapoli,DEM,136
+Madison,City of Oneida 2-2,Comptroller,,Thomas P. DiNapoli,DEM,139
+Madison,City of Oneida 3,Comptroller,,Thomas P. DiNapoli,DEM,172
+Madison,City of Oneida 4,Comptroller,,Thomas P. DiNapoli,DEM,97
+Madison,City of Oneida 5,Comptroller,,Thomas P. DiNapoli,DEM,146
+Madison,City of Oneida 6,Comptroller,,Thomas P. DiNapoli,DEM,107
+Madison,Town of Brookfield 1,Comptroller,,Thomas P. DiNapoli,DEM,59
+Madison,Town of Brookfield 2,Comptroller,,Thomas P. DiNapoli,DEM,112
+Madison,Town of Brookfield 3,Comptroller,,Thomas P. DiNapoli,DEM,57
+Madison,Town of Cazenovia 1,Comptroller,,Thomas P. DiNapoli,DEM,119
+Madison,Town of Cazenovia 2,Comptroller,,Thomas P. DiNapoli,DEM,155
+Madison,Town of Cazenovia 3,Comptroller,,Thomas P. DiNapoli,DEM,184
+Madison,Town of Cazenovia 4,Comptroller,,Thomas P. DiNapoli,DEM,166
+Madison,Town of Cazenovia 5,Comptroller,,Thomas P. DiNapoli,DEM,200
+Madison,Town of Cazenovia 6,Comptroller,,Thomas P. DiNapoli,DEM,124
+Madison,Town of DeRuyter 1,Comptroller,,Thomas P. DiNapoli,DEM,143
+Madison,Town of Eaton 1,Comptroller,,Thomas P. DiNapoli,DEM,201
+Madison,Town of Eaton 2,Comptroller,,Thomas P. DiNapoli,DEM,158
+Madison,Town of Fenner 1,Comptroller,,Thomas P. DiNapoli,DEM,186
+Madison,Town of Georgetown 1,Comptroller,,Thomas P. DiNapoli,DEM,46
+Madison,Town of Hamilton 1,Comptroller,,Thomas P. DiNapoli,DEM,157
+Madison,Town of Hamilton 2,Comptroller,,Thomas P. DiNapoli,DEM,222
+Madison,Town of Hamilton 3,Comptroller,,Thomas P. DiNapoli,DEM,49
+Madison,Town of Hamilton 4,Comptroller,,Thomas P. DiNapoli,DEM,152
+Madison,Town of Lebanon 1,Comptroller,,Thomas P. DiNapoli,DEM,41
+Madison,Town of Lebanon 2,Comptroller,,Thomas P. DiNapoli,DEM,104
+Madison,Town of Lenox 1,Comptroller,,Thomas P. DiNapoli,DEM,160
+Madison,Town of Lenox 2,Comptroller,,Thomas P. DiNapoli,DEM,105
+Madison,Town of Lenox 3,Comptroller,,Thomas P. DiNapoli,DEM,153
+Madison,Town of Lenox 4,Comptroller,,Thomas P. DiNapoli,DEM,131
+Madison,Town of Lenox 5,Comptroller,,Thomas P. DiNapoli,DEM,186
+Madison,Town of Lenox 6,Comptroller,,Thomas P. DiNapoli,DEM,64
+Madison,Town of Lincoln 1,Comptroller,,Thomas P. DiNapoli,DEM,75
+Madison,Town of Lincoln 2,Comptroller,,Thomas P. DiNapoli,DEM,87
+Madison,Town of Madison 1,Comptroller,,Thomas P. DiNapoli,DEM,182
+Madison,Town of Madison 2,Comptroller,,Thomas P. DiNapoli,DEM,144
+Madison,Town of Nelson 1,Comptroller,,Thomas P. DiNapoli,DEM,132
+Madison,Town of Nelson 2,Comptroller,,Thomas P. DiNapoli,DEM,141
+Madison,Town of Smithfield 1,Comptroller,,Thomas P. DiNapoli,DEM,112
+Madison,Town of Stockbridge 1,Comptroller,,Thomas P. DiNapoli,DEM,81
+Madison,Town of Stockbridge 2,Comptroller,,Thomas P. DiNapoli,DEM,87
+Madison,Town of Sullivan 1,Comptroller,,Thomas P. DiNapoli,DEM,243
+Madison,Town of Sullivan 2,Comptroller,,Thomas P. DiNapoli,DEM,164
+Madison,Town of Sullivan 3,Comptroller,,Thomas P. DiNapoli,DEM,126
+Madison,Town of Sullivan 4,Comptroller,,Thomas P. DiNapoli,DEM,62
+Madison,Town of Sullivan 5,Comptroller,,Thomas P. DiNapoli,DEM,161
+Madison,Town of Sullivan 6,Comptroller,,Thomas P. DiNapoli,DEM,182
+Madison,Town of Sullivan 7,Comptroller,,Thomas P. DiNapoli,DEM,126
+Madison,Town of Sullivan 8,Comptroller,,Thomas P. DiNapoli,DEM,101
+Madison,Town of Sullivan 9,Comptroller,,Thomas P. DiNapoli,DEM,94
+Madison,Town of Sullivan 10,Comptroller,,Thomas P. DiNapoli,DEM,125
+Madison,Town of Sullivan 11,Comptroller,,Thomas P. DiNapoli,DEM,96
+Madison,TOTAL,Comptroller,,Thomas P. DiNapoli,DEM,6952
+Madison,City of Oneida 1-1,Comptroller,,Robert Antonacci,REP,104
+Madison,City of Oneida 1-2,Comptroller,,Robert Antonacci,REP,107
+Madison,City of Oneida 2-1,Comptroller,,Robert Antonacci,REP,140
+Madison,City of Oneida 2-2,Comptroller,,Robert Antonacci,REP,91
+Madison,City of Oneida 3,Comptroller,,Robert Antonacci,REP,121
+Madison,City of Oneida 4,Comptroller,,Robert Antonacci,REP,63
+Madison,City of Oneida 5,Comptroller,,Robert Antonacci,REP,93
+Madison,City of Oneida 6,Comptroller,,Robert Antonacci,REP,111
+Madison,Town of Brookfield 1,Comptroller,,Robert Antonacci,REP,66
+Madison,Town of Brookfield 2,Comptroller,,Robert Antonacci,REP,101
+Madison,Town of Brookfield 3,Comptroller,,Robert Antonacci,REP,78
+Madison,Town of Cazenovia 1,Comptroller,,Robert Antonacci,REP,157
+Madison,Town of Cazenovia 2,Comptroller,,Robert Antonacci,REP,132
+Madison,Town of Cazenovia 3,Comptroller,,Robert Antonacci,REP,100
+Madison,Town of Cazenovia 4,Comptroller,,Robert Antonacci,REP,164
+Madison,Town of Cazenovia 5,Comptroller,,Robert Antonacci,REP,234
+Madison,Town of Cazenovia 6,Comptroller,,Robert Antonacci,REP,138
+Madison,Town of DeRuyter 1,Comptroller,,Robert Antonacci,REP,200
+Madison,Town of Eaton 1,Comptroller,,Robert Antonacci,REP,142
+Madison,Town of Eaton 2,Comptroller,,Robert Antonacci,REP,162
+Madison,Town of Fenner 1,Comptroller,,Robert Antonacci,REP,209
+Madison,Town of Georgetown 1,Comptroller,,Robert Antonacci,REP,109
+Madison,Town of Hamilton 1,Comptroller,,Robert Antonacci,REP,62
+Madison,Town of Hamilton 2,Comptroller,,Robert Antonacci,REP,92
+Madison,Town of Hamilton 3,Comptroller,,Robert Antonacci,REP,61
+Madison,Town of Hamilton 4,Comptroller,,Robert Antonacci,REP,171
+Madison,Town of Lebanon 1,Comptroller,,Robert Antonacci,REP,51
+Madison,Town of Lebanon 2,Comptroller,,Robert Antonacci,REP,80
+Madison,Town of Lenox 1,Comptroller,,Robert Antonacci,REP,193
+Madison,Town of Lenox 2,Comptroller,,Robert Antonacci,REP,124
+Madison,Town of Lenox 3,Comptroller,,Robert Antonacci,REP,115
+Madison,Town of Lenox 4,Comptroller,,Robert Antonacci,REP,125
+Madison,Town of Lenox 5,Comptroller,,Robert Antonacci,REP,190
+Madison,Town of Lenox 6,Comptroller,,Robert Antonacci,REP,80
+Madison,Town of Lincoln 1,Comptroller,,Robert Antonacci,REP,129
+Madison,Town of Lincoln 2,Comptroller,,Robert Antonacci,REP,107
+Madison,Town of Madison 1,Comptroller,,Robert Antonacci,REP,179
+Madison,Town of Madison 2,Comptroller,,Robert Antonacci,REP,123
+Madison,Town of Nelson 1,Comptroller,,Robert Antonacci,REP,117
+Madison,Town of Nelson 2,Comptroller,,Robert Antonacci,REP,132
+Madison,Town of Smithfield 1,Comptroller,,Robert Antonacci,REP,115
+Madison,Town of Stockbridge 1,Comptroller,,Robert Antonacci,REP,97
+Madison,Town of Stockbridge 2,Comptroller,,Robert Antonacci,REP,103
+Madison,Town of Sullivan 1,Comptroller,,Robert Antonacci,REP,243
+Madison,Town of Sullivan 2,Comptroller,,Robert Antonacci,REP,207
+Madison,Town of Sullivan 3,Comptroller,,Robert Antonacci,REP,165
+Madison,Town of Sullivan 4,Comptroller,,Robert Antonacci,REP,69
+Madison,Town of Sullivan 5,Comptroller,,Robert Antonacci,REP,184
+Madison,Town of Sullivan 6,Comptroller,,Robert Antonacci,REP,222
+Madison,Town of Sullivan 7,Comptroller,,Robert Antonacci,REP,162
+Madison,Town of Sullivan 8,Comptroller,,Robert Antonacci,REP,95
+Madison,Town of Sullivan 9,Comptroller,,Robert Antonacci,REP,115
+Madison,Town of Sullivan 10,Comptroller,,Robert Antonacci,REP,130
+Madison,Town of Sullivan 11,Comptroller,,Robert Antonacci,REP,132
+Madison,TOTAL,Comptroller,,Robert Antonacci,REP,6992
+Madison,City of Oneida 1-1,Comptroller,,Robert Antonacci,CON,28
+Madison,City of Oneida 1-2,Comptroller,,Robert Antonacci,CON,25
+Madison,City of Oneida 2-1,Comptroller,,Robert Antonacci,CON,42
+Madison,City of Oneida 2-2,Comptroller,,Robert Antonacci,CON,22
+Madison,City of Oneida 3,Comptroller,,Robert Antonacci,CON,38
+Madison,City of Oneida 4,Comptroller,,Robert Antonacci,CON,20
+Madison,City of Oneida 5,Comptroller,,Robert Antonacci,CON,20
+Madison,City of Oneida 6,Comptroller,,Robert Antonacci,CON,35
+Madison,Town of Brookfield 1,Comptroller,,Robert Antonacci,CON,29
+Madison,Town of Brookfield 2,Comptroller,,Robert Antonacci,CON,17
+Madison,Town of Brookfield 3,Comptroller,,Robert Antonacci,CON,33
+Madison,Town of Cazenovia 1,Comptroller,,Robert Antonacci,CON,28
+Madison,Town of Cazenovia 2,Comptroller,,Robert Antonacci,CON,18
+Madison,Town of Cazenovia 3,Comptroller,,Robert Antonacci,CON,31
+Madison,Town of Cazenovia 4,Comptroller,,Robert Antonacci,CON,50
+Madison,Town of Cazenovia 5,Comptroller,,Robert Antonacci,CON,50
+Madison,Town of Cazenovia 6,Comptroller,,Robert Antonacci,CON,27
+Madison,Town of DeRuyter 1,Comptroller,,Robert Antonacci,CON,56
+Madison,Town of Eaton 1,Comptroller,,Robert Antonacci,CON,44
+Madison,Town of Eaton 2,Comptroller,,Robert Antonacci,CON,35
+Madison,Town of Fenner 1,Comptroller,,Robert Antonacci,CON,52
+Madison,Town of Georgetown 1,Comptroller,,Robert Antonacci,CON,25
+Madison,Town of Hamilton 1,Comptroller,,Robert Antonacci,CON,15
+Madison,Town of Hamilton 2,Comptroller,,Robert Antonacci,CON,12
+Madison,Town of Hamilton 3,Comptroller,,Robert Antonacci,CON,9
+Madison,Town of Hamilton 4,Comptroller,,Robert Antonacci,CON,35
+Madison,Town of Lebanon 1,Comptroller,,Robert Antonacci,CON,12
+Madison,Town of Lebanon 2,Comptroller,,Robert Antonacci,CON,15
+Madison,Town of Lenox 1,Comptroller,,Robert Antonacci,CON,39
+Madison,Town of Lenox 2,Comptroller,,Robert Antonacci,CON,33
+Madison,Town of Lenox 3,Comptroller,,Robert Antonacci,CON,31
+Madison,Town of Lenox 4,Comptroller,,Robert Antonacci,CON,31
+Madison,Town of Lenox 5,Comptroller,,Robert Antonacci,CON,41
+Madison,Town of Lenox 6,Comptroller,,Robert Antonacci,CON,15
+Madison,Town of Lincoln 1,Comptroller,,Robert Antonacci,CON,33
+Madison,Town of Lincoln 2,Comptroller,,Robert Antonacci,CON,22
+Madison,Town of Madison 1,Comptroller,,Robert Antonacci,CON,35
+Madison,Town of Madison 2,Comptroller,,Robert Antonacci,CON,32
+Madison,Town of Nelson 1,Comptroller,,Robert Antonacci,CON,39
+Madison,Town of Nelson 2,Comptroller,,Robert Antonacci,CON,27
+Madison,Town of Smithfield 1,Comptroller,,Robert Antonacci,CON,33
+Madison,Town of Stockbridge 1,Comptroller,,Robert Antonacci,CON,6
+Madison,Town of Stockbridge 2,Comptroller,,Robert Antonacci,CON,14
+Madison,Town of Sullivan 1,Comptroller,,Robert Antonacci,CON,57
+Madison,Town of Sullivan 2,Comptroller,,Robert Antonacci,CON,62
+Madison,Town of Sullivan 3,Comptroller,,Robert Antonacci,CON,43
+Madison,Town of Sullivan 4,Comptroller,,Robert Antonacci,CON,14
+Madison,Town of Sullivan 5,Comptroller,,Robert Antonacci,CON,53
+Madison,Town of Sullivan 6,Comptroller,,Robert Antonacci,CON,50
+Madison,Town of Sullivan 7,Comptroller,,Robert Antonacci,CON,52
+Madison,Town of Sullivan 8,Comptroller,,Robert Antonacci,CON,17
+Madison,Town of Sullivan 9,Comptroller,,Robert Antonacci,CON,42
+Madison,Town of Sullivan 10,Comptroller,,Robert Antonacci,CON,34
+Madison,Town of Sullivan 11,Comptroller,,Robert Antonacci,CON,36
+Madison,TOTAL,Comptroller,,Robert Antonacci,CON,1714
+Madison,City of Oneida 1-1,Comptroller,,Thomas P. DiNapoli,WOR,4
+Madison,City of Oneida 1-2,Comptroller,,Thomas P. DiNapoli,WOR,7
+Madison,City of Oneida 2-1,Comptroller,,Thomas P. DiNapoli,WOR,13
+Madison,City of Oneida 2-2,Comptroller,,Thomas P. DiNapoli,WOR,11
+Madison,City of Oneida 3,Comptroller,,Thomas P. DiNapoli,WOR,14
+Madison,City of Oneida 4,Comptroller,,Thomas P. DiNapoli,WOR,8
+Madison,City of Oneida 5,Comptroller,,Thomas P. DiNapoli,WOR,11
+Madison,City of Oneida 6,Comptroller,,Thomas P. DiNapoli,WOR,10
+Madison,Town of Brookfield 1,Comptroller,,Thomas P. DiNapoli,WOR,8
+Madison,Town of Brookfield 2,Comptroller,,Thomas P. DiNapoli,WOR,19
+Madison,Town of Brookfield 3,Comptroller,,Thomas P. DiNapoli,WOR,12
+Madison,Town of Cazenovia 1,Comptroller,,Thomas P. DiNapoli,WOR,15
+Madison,Town of Cazenovia 2,Comptroller,,Thomas P. DiNapoli,WOR,8
+Madison,Town of Cazenovia 3,Comptroller,,Thomas P. DiNapoli,WOR,19
+Madison,Town of Cazenovia 4,Comptroller,,Thomas P. DiNapoli,WOR,11
+Madison,Town of Cazenovia 5,Comptroller,,Thomas P. DiNapoli,WOR,13
+Madison,Town of Cazenovia 6,Comptroller,,Thomas P. DiNapoli,WOR,3
+Madison,Town of DeRuyter 1,Comptroller,,Thomas P. DiNapoli,WOR,16
+Madison,Town of Eaton 1,Comptroller,,Thomas P. DiNapoli,WOR,17
+Madison,Town of Eaton 2,Comptroller,,Thomas P. DiNapoli,WOR,12
+Madison,Town of Fenner 1,Comptroller,,Thomas P. DiNapoli,WOR,33
+Madison,Town of Georgetown 1,Comptroller,,Thomas P. DiNapoli,WOR,10
+Madison,Town of Hamilton 1,Comptroller,,Thomas P. DiNapoli,WOR,21
+Madison,Town of Hamilton 2,Comptroller,,Thomas P. DiNapoli,WOR,32
+Madison,Town of Hamilton 3,Comptroller,,Thomas P. DiNapoli,WOR,3
+Madison,Town of Hamilton 4,Comptroller,,Thomas P. DiNapoli,WOR,13
+Madison,Town of Lebanon 1,Comptroller,,Thomas P. DiNapoli,WOR,2
+Madison,Town of Lebanon 2,Comptroller,,Thomas P. DiNapoli,WOR,11
+Madison,Town of Lenox 1,Comptroller,,Thomas P. DiNapoli,WOR,5
+Madison,Town of Lenox 2,Comptroller,,Thomas P. DiNapoli,WOR,4
+Madison,Town of Lenox 3,Comptroller,,Thomas P. DiNapoli,WOR,11
+Madison,Town of Lenox 4,Comptroller,,Thomas P. DiNapoli,WOR,11
+Madison,Town of Lenox 5,Comptroller,,Thomas P. DiNapoli,WOR,17
+Madison,Town of Lenox 6,Comptroller,,Thomas P. DiNapoli,WOR,10
+Madison,Town of Lincoln 1,Comptroller,,Thomas P. DiNapoli,WOR,7
+Madison,Town of Lincoln 2,Comptroller,,Thomas P. DiNapoli,WOR,12
+Madison,Town of Madison 1,Comptroller,,Thomas P. DiNapoli,WOR,17
+Madison,Town of Madison 2,Comptroller,,Thomas P. DiNapoli,WOR,19
+Madison,Town of Nelson 1,Comptroller,,Thomas P. DiNapoli,WOR,12
+Madison,Town of Nelson 2,Comptroller,,Thomas P. DiNapoli,WOR,7
+Madison,Town of Smithfield 1,Comptroller,,Thomas P. DiNapoli,WOR,17
+Madison,Town of Stockbridge 1,Comptroller,,Thomas P. DiNapoli,WOR,8
+Madison,Town of Stockbridge 2,Comptroller,,Thomas P. DiNapoli,WOR,9
+Madison,Town of Sullivan 1,Comptroller,,Thomas P. DiNapoli,WOR,10
+Madison,Town of Sullivan 2,Comptroller,,Thomas P. DiNapoli,WOR,7
+Madison,Town of Sullivan 3,Comptroller,,Thomas P. DiNapoli,WOR,10
+Madison,Town of Sullivan 4,Comptroller,,Thomas P. DiNapoli,WOR,4
+Madison,Town of Sullivan 5,Comptroller,,Thomas P. DiNapoli,WOR,14
+Madison,Town of Sullivan 6,Comptroller,,Thomas P. DiNapoli,WOR,10
+Madison,Town of Sullivan 7,Comptroller,,Thomas P. DiNapoli,WOR,8
+Madison,Town of Sullivan 8,Comptroller,,Thomas P. DiNapoli,WOR,8
+Madison,Town of Sullivan 9,Comptroller,,Thomas P. DiNapoli,WOR,8
+Madison,Town of Sullivan 10,Comptroller,,Thomas P. DiNapoli,WOR,10
+Madison,Town of Sullivan 11,Comptroller,,Thomas P. DiNapoli,WOR,13
+Madison,TOTAL,Comptroller,,Thomas P. DiNapoli,WOR,624
+Madison,City of Oneida 1-1,Comptroller,,Thomas P. DiNapoli,IND,14
+Madison,City of Oneida 1-2,Comptroller,,Thomas P. DiNapoli,IND,10
+Madison,City of Oneida 2-1,Comptroller,,Thomas P. DiNapoli,IND,18
+Madison,City of Oneida 2-2,Comptroller,,Thomas P. DiNapoli,IND,10
+Madison,City of Oneida 3,Comptroller,,Thomas P. DiNapoli,IND,17
+Madison,City of Oneida 4,Comptroller,,Thomas P. DiNapoli,IND,5
+Madison,City of Oneida 5,Comptroller,,Thomas P. DiNapoli,IND,15
+Madison,City of Oneida 6,Comptroller,,Thomas P. DiNapoli,IND,10
+Madison,Town of Brookfield 1,Comptroller,,Thomas P. DiNapoli,IND,3
+Madison,Town of Brookfield 2,Comptroller,,Thomas P. DiNapoli,IND,8
+Madison,Town of Brookfield 3,Comptroller,,Thomas P. DiNapoli,IND,5
+Madison,Town of Cazenovia 1,Comptroller,,Thomas P. DiNapoli,IND,12
+Madison,Town of Cazenovia 2,Comptroller,,Thomas P. DiNapoli,IND,14
+Madison,Town of Cazenovia 3,Comptroller,,Thomas P. DiNapoli,IND,18
+Madison,Town of Cazenovia 4,Comptroller,,Thomas P. DiNapoli,IND,17
+Madison,Town of Cazenovia 5,Comptroller,,Thomas P. DiNapoli,IND,14
+Madison,Town of Cazenovia 6,Comptroller,,Thomas P. DiNapoli,IND,12
+Madison,Town of DeRuyter 1,Comptroller,,Thomas P. DiNapoli,IND,25
+Madison,Town of Eaton 1,Comptroller,,Thomas P. DiNapoli,IND,22
+Madison,Town of Eaton 2,Comptroller,,Thomas P. DiNapoli,IND,14
+Madison,Town of Fenner 1,Comptroller,,Thomas P. DiNapoli,IND,13
+Madison,Town of Georgetown 1,Comptroller,,Thomas P. DiNapoli,IND,6
+Madison,Town of Hamilton 1,Comptroller,,Thomas P. DiNapoli,IND,8
+Madison,Town of Hamilton 2,Comptroller,,Thomas P. DiNapoli,IND,12
+Madison,Town of Hamilton 3,Comptroller,,Thomas P. DiNapoli,IND,7
+Madison,Town of Hamilton 4,Comptroller,,Thomas P. DiNapoli,IND,6
+Madison,Town of Lebanon 1,Comptroller,,Thomas P. DiNapoli,IND,5
+Madison,Town of Lebanon 2,Comptroller,,Thomas P. DiNapoli,IND,4
+Madison,Town of Lenox 1,Comptroller,,Thomas P. DiNapoli,IND,21
+Madison,Town of Lenox 2,Comptroller,,Thomas P. DiNapoli,IND,5
+Madison,Town of Lenox 3,Comptroller,,Thomas P. DiNapoli,IND,12
+Madison,Town of Lenox 4,Comptroller,,Thomas P. DiNapoli,IND,7
+Madison,Town of Lenox 5,Comptroller,,Thomas P. DiNapoli,IND,11
+Madison,Town of Lenox 6,Comptroller,,Thomas P. DiNapoli,IND,14
+Madison,Town of Lincoln 1,Comptroller,,Thomas P. DiNapoli,IND,6
+Madison,Town of Lincoln 2,Comptroller,,Thomas P. DiNapoli,IND,4
+Madison,Town of Madison 1,Comptroller,,Thomas P. DiNapoli,IND,20
+Madison,Town of Madison 2,Comptroller,,Thomas P. DiNapoli,IND,17
+Madison,Town of Nelson 1,Comptroller,,Thomas P. DiNapoli,IND,15
+Madison,Town of Nelson 2,Comptroller,,Thomas P. DiNapoli,IND,14
+Madison,Town of Smithfield 1,Comptroller,,Thomas P. DiNapoli,IND,16
+Madison,Town of Stockbridge 1,Comptroller,,Thomas P. DiNapoli,IND,11
+Madison,Town of Stockbridge 2,Comptroller,,Thomas P. DiNapoli,IND,6
+Madison,Town of Sullivan 1,Comptroller,,Thomas P. DiNapoli,IND,15
+Madison,Town of Sullivan 2,Comptroller,,Thomas P. DiNapoli,IND,17
+Madison,Town of Sullivan 3,Comptroller,,Thomas P. DiNapoli,IND,6
+Madison,Town of Sullivan 4,Comptroller,,Thomas P. DiNapoli,IND,5
+Madison,Town of Sullivan 5,Comptroller,,Thomas P. DiNapoli,IND,16
+Madison,Town of Sullivan 6,Comptroller,,Thomas P. DiNapoli,IND,19
+Madison,Town of Sullivan 7,Comptroller,,Thomas P. DiNapoli,IND,10
+Madison,Town of Sullivan 8,Comptroller,,Thomas P. DiNapoli,IND,8
+Madison,Town of Sullivan 9,Comptroller,,Thomas P. DiNapoli,IND,17
+Madison,Town of Sullivan 10,Comptroller,,Thomas P. DiNapoli,IND,16
+Madison,Town of Sullivan 11,Comptroller,,Thomas P. DiNapoli,IND,9
+Madison,TOTAL,Comptroller,,Thomas P. DiNapoli,IND,641
+Madison,City of Oneida 1-1,Comptroller,,Theresa M. Portelli,GRE,10
+Madison,City of Oneida 1-2,Comptroller,,Theresa M. Portelli,GRE,14
+Madison,City of Oneida 2-1,Comptroller,,Theresa M. Portelli,GRE,7
+Madison,City of Oneida 2-2,Comptroller,,Theresa M. Portelli,GRE,3
+Madison,City of Oneida 3,Comptroller,,Theresa M. Portelli,GRE,20
+Madison,City of Oneida 4,Comptroller,,Theresa M. Portelli,GRE,7
+Madison,City of Oneida 5,Comptroller,,Theresa M. Portelli,GRE,10
+Madison,City of Oneida 6,Comptroller,,Theresa M. Portelli,GRE,14
+Madison,Town of Brookfield 1,Comptroller,,Theresa M. Portelli,GRE,14
+Madison,Town of Brookfield 2,Comptroller,,Theresa M. Portelli,GRE,9
+Madison,Town of Brookfield 3,Comptroller,,Theresa M. Portelli,GRE,12
+Madison,Town of Cazenovia 1,Comptroller,,Theresa M. Portelli,GRE,21
+Madison,Town of Cazenovia 2,Comptroller,,Theresa M. Portelli,GRE,12
+Madison,Town of Cazenovia 3,Comptroller,,Theresa M. Portelli,GRE,16
+Madison,Town of Cazenovia 4,Comptroller,,Theresa M. Portelli,GRE,16
+Madison,Town of Cazenovia 5,Comptroller,,Theresa M. Portelli,GRE,13
+Madison,Town of Cazenovia 6,Comptroller,,Theresa M. Portelli,GRE,13
+Madison,Town of DeRuyter 1,Comptroller,,Theresa M. Portelli,GRE,20
+Madison,Town of Eaton 1,Comptroller,,Theresa M. Portelli,GRE,17
+Madison,Town of Eaton 2,Comptroller,,Theresa M. Portelli,GRE,20
+Madison,Town of Fenner 1,Comptroller,,Theresa M. Portelli,GRE,22
+Madison,Town of Georgetown 1,Comptroller,,Theresa M. Portelli,GRE,8
+Madison,Town of Hamilton 1,Comptroller,,Theresa M. Portelli,GRE,14
+Madison,Town of Hamilton 2,Comptroller,,Theresa M. Portelli,GRE,22
+Madison,Town of Hamilton 3,Comptroller,,Theresa M. Portelli,GRE,9
+Madison,Town of Hamilton 4,Comptroller,,Theresa M. Portelli,GRE,12
+Madison,Town of Lebanon 1,Comptroller,,Theresa M. Portelli,GRE,9
+Madison,Town of Lebanon 2,Comptroller,,Theresa M. Portelli,GRE,4
+Madison,Town of Lenox 1,Comptroller,,Theresa M. Portelli,GRE,21
+Madison,Town of Lenox 2,Comptroller,,Theresa M. Portelli,GRE,11
+Madison,Town of Lenox 3,Comptroller,,Theresa M. Portelli,GRE,15
+Madison,Town of Lenox 4,Comptroller,,Theresa M. Portelli,GRE,5
+Madison,Town of Lenox 5,Comptroller,,Theresa M. Portelli,GRE,17
+Madison,Town of Lenox 6,Comptroller,,Theresa M. Portelli,GRE,9
+Madison,Town of Lincoln 1,Comptroller,,Theresa M. Portelli,GRE,3
+Madison,Town of Lincoln 2,Comptroller,,Theresa M. Portelli,GRE,10
+Madison,Town of Madison 1,Comptroller,,Theresa M. Portelli,GRE,12
+Madison,Town of Madison 2,Comptroller,,Theresa M. Portelli,GRE,12
+Madison,Town of Nelson 1,Comptroller,,Theresa M. Portelli,GRE,22
+Madison,Town of Nelson 2,Comptroller,,Theresa M. Portelli,GRE,18
+Madison,Town of Smithfield 1,Comptroller,,Theresa M. Portelli,GRE,15
+Madison,Town of Stockbridge 1,Comptroller,,Theresa M. Portelli,GRE,4
+Madison,Town of Stockbridge 2,Comptroller,,Theresa M. Portelli,GRE,10
+Madison,Town of Sullivan 1,Comptroller,,Theresa M. Portelli,GRE,19
+Madison,Town of Sullivan 2,Comptroller,,Theresa M. Portelli,GRE,15
+Madison,Town of Sullivan 3,Comptroller,,Theresa M. Portelli,GRE,15
+Madison,Town of Sullivan 4,Comptroller,,Theresa M. Portelli,GRE,4
+Madison,Town of Sullivan 5,Comptroller,,Theresa M. Portelli,GRE,10
+Madison,Town of Sullivan 6,Comptroller,,Theresa M. Portelli,GRE,16
+Madison,Town of Sullivan 7,Comptroller,,Theresa M. Portelli,GRE,17
+Madison,Town of Sullivan 8,Comptroller,,Theresa M. Portelli,GRE,10
+Madison,Town of Sullivan 9,Comptroller,,Theresa M. Portelli,GRE,9
+Madison,Town of Sullivan 10,Comptroller,,Theresa M. Portelli,GRE,9
+Madison,Town of Sullivan 11,Comptroller,,Theresa M. Portelli,GRE,11
+Madison,TOTAL,Comptroller,,Theresa M. Portelli,GRE,687
+Madison,City of Oneida 1-1,Comptroller,,John Clifton,LBT,1
+Madison,City of Oneida 1-2,Comptroller,,John Clifton,LBT,2
+Madison,City of Oneida 2-1,Comptroller,,John Clifton,LBT,1
+Madison,City of Oneida 2-2,Comptroller,,John Clifton,LBT,3
+Madison,City of Oneida 3,Comptroller,,John Clifton,LBT,4
+Madison,City of Oneida 4,Comptroller,,John Clifton,LBT,3
+Madison,City of Oneida 5,Comptroller,,John Clifton,LBT,2
+Madison,City of Oneida 6,Comptroller,,John Clifton,LBT,4
+Madison,Town of Brookfield 1,Comptroller,,John Clifton,LBT,4
+Madison,Town of Brookfield 2,Comptroller,,John Clifton,LBT,5
+Madison,Town of Brookfield 3,Comptroller,,John Clifton,LBT,3
+Madison,Town of Cazenovia 1,Comptroller,,John Clifton,LBT,3
+Madison,Town of Cazenovia 2,Comptroller,,John Clifton,LBT,1
+Madison,Town of Cazenovia 3,Comptroller,,John Clifton,LBT,3
+Madison,Town of Cazenovia 4,Comptroller,,John Clifton,LBT,1
+Madison,Town of Cazenovia 5,Comptroller,,John Clifton,LBT,4
+Madison,Town of Cazenovia 6,Comptroller,,John Clifton,LBT,0
+Madison,Town of DeRuyter 1,Comptroller,,John Clifton,LBT,11
+Madison,Town of Eaton 1,Comptroller,,John Clifton,LBT,7
+Madison,Town of Eaton 2,Comptroller,,John Clifton,LBT,4
+Madison,Town of Fenner 1,Comptroller,,John Clifton,LBT,5
+Madison,Town of Georgetown 1,Comptroller,,John Clifton,LBT,0
+Madison,Town of Hamilton 1,Comptroller,,John Clifton,LBT,4
+Madison,Town of Hamilton 2,Comptroller,,John Clifton,LBT,7
+Madison,Town of Hamilton 3,Comptroller,,John Clifton,LBT,4
+Madison,Town of Hamilton 4,Comptroller,,John Clifton,LBT,4
+Madison,Town of Lebanon 1,Comptroller,,John Clifton,LBT,2
+Madison,Town of Lebanon 2,Comptroller,,John Clifton,LBT,1
+Madison,Town of Lenox 1,Comptroller,,John Clifton,LBT,12
+Madison,Town of Lenox 2,Comptroller,,John Clifton,LBT,4
+Madison,Town of Lenox 3,Comptroller,,John Clifton,LBT,6
+Madison,Town of Lenox 4,Comptroller,,John Clifton,LBT,1
+Madison,Town of Lenox 5,Comptroller,,John Clifton,LBT,2
+Madison,Town of Lenox 6,Comptroller,,John Clifton,LBT,1
+Madison,Town of Lincoln 1,Comptroller,,John Clifton,LBT,3
+Madison,Town of Lincoln 2,Comptroller,,John Clifton,LBT,3
+Madison,Town of Madison 1,Comptroller,,John Clifton,LBT,3
+Madison,Town of Madison 2,Comptroller,,John Clifton,LBT,1
+Madison,Town of Nelson 1,Comptroller,,John Clifton,LBT,1
+Madison,Town of Nelson 2,Comptroller,,John Clifton,LBT,5
+Madison,Town of Smithfield 1,Comptroller,,John Clifton,LBT,7
+Madison,Town of Stockbridge 1,Comptroller,,John Clifton,LBT,3
+Madison,Town of Stockbridge 2,Comptroller,,John Clifton,LBT,4
+Madison,Town of Sullivan 1,Comptroller,,John Clifton,LBT,5
+Madison,Town of Sullivan 2,Comptroller,,John Clifton,LBT,4
+Madison,Town of Sullivan 3,Comptroller,,John Clifton,LBT,3
+Madison,Town of Sullivan 4,Comptroller,,John Clifton,LBT,3
+Madison,Town of Sullivan 5,Comptroller,,John Clifton,LBT,2
+Madison,Town of Sullivan 6,Comptroller,,John Clifton,LBT,5
+Madison,Town of Sullivan 7,Comptroller,,John Clifton,LBT,1
+Madison,Town of Sullivan 8,Comptroller,,John Clifton,LBT,1
+Madison,Town of Sullivan 9,Comptroller,,John Clifton,LBT,2
+Madison,Town of Sullivan 10,Comptroller,,John Clifton,LBT,1
+Madison,Town of Sullivan 11,Comptroller,,John Clifton,LBT,2
+Madison,TOTAL,Comptroller,,John Clifton,LBT,178
+Madison,City of Oneida 1-1,U.S. House,22,Richard L. Hanna,REP,160
+Madison,City of Oneida 1-2,U.S. House,22,Richard L. Hanna,REP,163
+Madison,City of Oneida 2-1,U.S. House,22,Richard L. Hanna,REP,227
+Madison,City of Oneida 2-2,U.S. House,22,Richard L. Hanna,REP,172
+Madison,City of Oneida 3,U.S. House,22,Richard L. Hanna,REP,242
+Madison,City of Oneida 4,U.S. House,22,Richard L. Hanna,REP,135
+Madison,City of Oneida 5,U.S. House,22,Richard L. Hanna,REP,188
+Madison,City of Oneida 6,U.S. House,22,Richard L. Hanna,REP,182
+Madison,Town of Brookfield 1,U.S. House,22,Richard L. Hanna,REP,135
+Madison,Town of Brookfield 2,U.S. House,22,Richard L. Hanna,REP,178
+Madison,Town of Brookfield 3,U.S. House,22,Richard L. Hanna,REP,141
+Madison,Town of Cazenovia 1,U.S. House,22,Richard L. Hanna,REP,237
+Madison,Town of Cazenovia 2,U.S. House,22,Richard L. Hanna,REP,204
+Madison,Town of Cazenovia 3,U.S. House,22,Richard L. Hanna,REP,212
+Madison,Town of Cazenovia 4,U.S. House,22,Richard L. Hanna,REP,283
+Madison,Town of Cazenovia 5,U.S. House,22,Richard L. Hanna,REP,353
+Madison,Town of Cazenovia 6,U.S. House,22,Richard L. Hanna,REP,215
+Madison,Town of DeRuyter 1,U.S. House,22,Richard L. Hanna,REP,335
+Madison,Town of Eaton 1,U.S. House,22,Richard L. Hanna,REP,314
+Madison,Town of Eaton 2,U.S. House,22,Richard L. Hanna,REP,282
+Madison,Town of Fenner 1,U.S. House,22,Richard L. Hanna,REP,353
+Madison,Town of Georgetown 1,U.S. House,22,Richard L. Hanna,REP,147
+Madison,Town of Hamilton 1,U.S. House,22,Richard L. Hanna,REP,135
+Madison,Town of Hamilton 2,U.S. House,22,Richard L. Hanna,REP,173
+Madison,Town of Hamilton 3,U.S. House,22,Richard L. Hanna,REP,88
+Madison,Town of Hamilton 4,U.S. House,22,Richard L. Hanna,REP,252
+Madison,Town of Lebanon 1,U.S. House,22,Richard L. Hanna,REP,82
+Madison,Town of Lebanon 2,U.S. House,22,Richard L. Hanna,REP,155
+Madison,Town of Lenox 1,U.S. House,22,Richard L. Hanna,REP,334
+Madison,Town of Lenox 2,U.S. House,22,Richard L. Hanna,REP,194
+Madison,Town of Lenox 3,U.S. House,22,Richard L. Hanna,REP,221
+Madison,Town of Lenox 4,U.S. House,22,Richard L. Hanna,REP,216
+Madison,Town of Lenox 5,U.S. House,22,Richard L. Hanna,REP,309
+Madison,Town of Lenox 6,U.S. House,22,Richard L. Hanna,REP,136
+Madison,Town of Lincoln 1,U.S. House,22,Richard L. Hanna,REP,183
+Madison,Town of Lincoln 2,U.S. House,22,Richard L. Hanna,REP,170
+Madison,Town of Madison 1,U.S. House,22,Richard L. Hanna,REP,309
+Madison,Town of Madison 2,U.S. House,22,Richard L. Hanna,REP,224
+Madison,Town of Nelson 1,U.S. House,22,Richard L. Hanna,REP,206
+Madison,Town of Nelson 2,U.S. House,22,Richard L. Hanna,REP,215
+Madison,Town of Smithfield 1,U.S. House,22,Richard L. Hanna,REP,193
+Madison,Town of Stockbridge 1,U.S. House,22,Richard L. Hanna,REP,151
+Madison,Town of Stockbridge 2,U.S. House,22,Richard L. Hanna,REP,169
+Madison,Town of Sullivan 1,U.S. House,22,Richard L. Hanna,REP,413
+Madison,Town of Sullivan 2,U.S. House,22,Richard L. Hanna,REP,313
+Madison,Town of Sullivan 3,U.S. House,22,Richard L. Hanna,REP,256
+Madison,Town of Sullivan 4,U.S. House,22,Richard L. Hanna,REP,110
+Madison,Town of Sullivan 5,U.S. House,22,Richard L. Hanna,REP,305
+Madison,Town of Sullivan 6,U.S. House,22,Richard L. Hanna,REP,355
+Madison,Town of Sullivan 7,U.S. House,22,Richard L. Hanna,REP,275
+Madison,Town of Sullivan 8,U.S. House,22,Richard L. Hanna,REP,169
+Madison,Town of Sullivan 9,U.S. House,22,Richard L. Hanna,REP,199
+Madison,Town of Sullivan 10,U.S. House,22,Richard L. Hanna,REP,219
+Madison,Town of Sullivan 11,U.S. House,22,Richard L. Hanna,REP,212
+Madison,TOTAL,U.S. House,22,Richard L. Hanna,REP,11799
+Madison,City of Oneida 1-1,U.S. House,22,Richard L. Hanna,IND,25
+Madison,City of Oneida 1-2,U.S. House,22,Richard L. Hanna,IND,35
+Madison,City of Oneida 2-1,U.S. House,22,Richard L. Hanna,IND,49
+Madison,City of Oneida 2-2,U.S. House,22,Richard L. Hanna,IND,30
+Madison,City of Oneida 3,U.S. House,22,Richard L. Hanna,IND,44
+Madison,City of Oneida 4,U.S. House,22,Richard L. Hanna,IND,21
+Madison,City of Oneida 5,U.S. House,22,Richard L. Hanna,IND,28
+Madison,City of Oneida 6,U.S. House,22,Richard L. Hanna,IND,35
+Madison,Town of Brookfield 1,U.S. House,22,Richard L. Hanna,IND,20
+Madison,Town of Brookfield 2,U.S. House,22,Richard L. Hanna,IND,39
+Madison,Town of Brookfield 3,U.S. House,22,Richard L. Hanna,IND,27
+Madison,Town of Cazenovia 1,U.S. House,22,Richard L. Hanna,IND,33
+Madison,Town of Cazenovia 2,U.S. House,22,Richard L. Hanna,IND,43
+Madison,Town of Cazenovia 3,U.S. House,22,Richard L. Hanna,IND,55
+Madison,Town of Cazenovia 4,U.S. House,22,Richard L. Hanna,IND,52
+Madison,Town of Cazenovia 5,U.S. House,22,Richard L. Hanna,IND,52
+Madison,Town of Cazenovia 6,U.S. House,22,Richard L. Hanna,IND,40
+Madison,Town of DeRuyter 1,U.S. House,22,Richard L. Hanna,IND,42
+Madison,Town of Eaton 1,U.S. House,22,Richard L. Hanna,IND,55
+Madison,Town of Eaton 2,U.S. House,22,Richard L. Hanna,IND,52
+Madison,Town of Fenner 1,U.S. House,22,Richard L. Hanna,IND,66
+Madison,Town of Georgetown 1,U.S. House,22,Richard L. Hanna,IND,21
+Madison,Town of Hamilton 1,U.S. House,22,Richard L. Hanna,IND,35
+Madison,Town of Hamilton 2,U.S. House,22,Richard L. Hanna,IND,52
+Madison,Town of Hamilton 3,U.S. House,22,Richard L. Hanna,IND,21
+Madison,Town of Hamilton 4,U.S. House,22,Richard L. Hanna,IND,23
+Madison,Town of Lebanon 1,U.S. House,22,Richard L. Hanna,IND,8
+Madison,Town of Lebanon 2,U.S. House,22,Richard L. Hanna,IND,20
+Madison,Town of Lenox 1,U.S. House,22,Richard L. Hanna,IND,52
+Madison,Town of Lenox 2,U.S. House,22,Richard L. Hanna,IND,25
+Madison,Town of Lenox 3,U.S. House,22,Richard L. Hanna,IND,38
+Madison,Town of Lenox 4,U.S. House,22,Richard L. Hanna,IND,25
+Madison,Town of Lenox 5,U.S. House,22,Richard L. Hanna,IND,43
+Madison,Town of Lenox 6,U.S. House,22,Richard L. Hanna,IND,25
+Madison,Town of Lincoln 1,U.S. House,22,Richard L. Hanna,IND,26
+Madison,Town of Lincoln 2,U.S. House,22,Richard L. Hanna,IND,25
+Madison,Town of Madison 1,U.S. House,22,Richard L. Hanna,IND,53
+Madison,Town of Madison 2,U.S. House,22,Richard L. Hanna,IND,46
+Madison,Town of Nelson 1,U.S. House,22,Richard L. Hanna,IND,42
+Madison,Town of Nelson 2,U.S. House,22,Richard L. Hanna,IND,43
+Madison,Town of Smithfield 1,U.S. House,22,Richard L. Hanna,IND,45
+Madison,Town of Stockbridge 1,U.S. House,22,Richard L. Hanna,IND,17
+Madison,Town of Stockbridge 2,U.S. House,22,Richard L. Hanna,IND,16
+Madison,Town of Sullivan 1,U.S. House,22,Richard L. Hanna,IND,64
+Madison,Town of Sullivan 2,U.S. House,22,Richard L. Hanna,IND,47
+Madison,Town of Sullivan 3,U.S. House,22,Richard L. Hanna,IND,50
+Madison,Town of Sullivan 4,U.S. House,22,Richard L. Hanna,IND,17
+Madison,Town of Sullivan 5,U.S. House,22,Richard L. Hanna,IND,47
+Madison,Town of Sullivan 6,U.S. House,22,Richard L. Hanna,IND,54
+Madison,Town of Sullivan 7,U.S. House,22,Richard L. Hanna,IND,41
+Madison,Town of Sullivan 8,U.S. House,22,Richard L. Hanna,IND,22
+Madison,Town of Sullivan 9,U.S. House,22,Richard L. Hanna,IND,31
+Madison,Town of Sullivan 10,U.S. House,22,Richard L. Hanna,IND,44
+Madison,Town of Sullivan 11,U.S. House,22,Richard L. Hanna,IND,35
+Madison,TOTAL,U.S. House,22,Richard L. Hanna,IND,1996
+Madison,City of Oneida 1-1,U.S. House,22,Robert Mann,Write- In,0
+Madison,City of Oneida 1-2,U.S. House,22,Robert Mann,Write- In,0
+Madison,City of Oneida 2-1,U.S. House,22,Robert Mann,Write- In,2
+Madison,City of Oneida 2-2,U.S. House,22,Robert Mann,Write- In,15
+Madison,City of Oneida 3,U.S. House,22,Robert Mann,Write- In,6
+Madison,City of Oneida 4,U.S. House,22,Robert Mann,Write- In,2
+Madison,City of Oneida 5,U.S. House,22,Robert Mann,Write- In,2
+Madison,City of Oneida 6,U.S. House,22,Robert Mann,Write- In,2
+Madison,Town of Brookfield 1,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Brookfield 2,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Brookfield 3,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Cazenovia 1,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Cazenovia 2,U.S. House,22,Robert Mann,Write- In,1
+Madison,Town of Cazenovia 3,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Cazenovia 4,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Cazenovia 5,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Cazenovia 6,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of DeRuyter 1,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Eaton 1,U.S. House,22,Robert Mann,Write- In,4
+Madison,Town of Eaton 2,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Fenner 1,U.S. House,22,Robert Mann,Write- In,2
+Madison,Town of Georgetown 1,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Hamilton 1,U.S. House,22,Robert Mann,Write- In,11
+Madison,Town of Hamilton 2,U.S. House,22,Robert Mann,Write- In,34
+Madison,Town of Hamilton 3,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Hamilton 4,U.S. House,22,Robert Mann,Write- In,13
+Madison,Town of Lebanon 1,U.S. House,22,Robert Mann,Write- In,1
+Madison,Town of Lebanon 2,U.S. House,22,Robert Mann,Write- In,6
+Madison,Town of Lenox 1,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Lenox 2,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Lenox 3,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Lenox 4,U.S. House,22,Robert Mann,Write- In,3
+Madison,Town of Lenox 5,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Lenox 6,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Lincoln 1,U.S. House,22,Robert Mann,Write- In,2
+Madison,Town of Lincoln 2,U.S. House,22,Robert Mann,Write- In,1
+Madison,Town of Madison 1,U.S. House,22,Robert Mann,Write- In,11
+Madison,Town of Madison 2,U.S. House,22,Robert Mann,Write- In,1
+Madison,Town of Nelson 1,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Nelson 2,U.S. House,22,Robert Mann,Write- In,3
+Madison,Town of Smithfield 1,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Stockbridge 1,U.S. House,22,Robert Mann,Write- In,2
+Madison,Town of Stockbridge 2,U.S. House,22,Robert Mann,Write- In,3
+Madison,Town of Sullivan 1,U.S. House,22,Robert Mann,Write- In,2
+Madison,Town of Sullivan 2,U.S. House,22,Robert Mann,Write- In,2
+Madison,Town of Sullivan 3,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Sullivan 4,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Sullivan 5,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Sullivan 6,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Sullivan 7,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Sullivan 8,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Sullivan 9,U.S. House,22,Robert Mann,Write- In,1
+Madison,Town of Sullivan 10,U.S. House,22,Robert Mann,Write- In,0
+Madison,Town of Sullivan 11,U.S. House,22,Robert Mann,Write- In,0
+Madison,TOTAL,U.S. House,22,Robert Mann,Write- In,132
+Madison,City of Oneida 1-1,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,City of Oneida 1-2,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,City of Oneida 2-1,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,City of Oneida 2-2,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,City of Oneida 3,U.S. House,22,Claudia Tenney,Write- In,2
+Madison,City of Oneida 4,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,City of Oneida 5,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,City of Oneida 6,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Brookfield 1,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Brookfield 2,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Brookfield 3,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Cazenovia 1,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Cazenovia 2,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Cazenovia 3,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Cazenovia 4,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Cazenovia 5,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Cazenovia 6,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of DeRuyter 1,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Eaton 1,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Eaton 2,U.S. House,22,Claudia Tenney,Write- In,2
+Madison,Town of Fenner 1,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Georgetown 1,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Hamilton 1,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Hamilton 2,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Hamilton 3,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Hamilton 4,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Lebanon 1,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Lebanon 2,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Lenox 1,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Lenox 2,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Lenox 3,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Lenox 4,U.S. House,22,Claudia Tenney,Write- In,4
+Madison,Town of Lenox 5,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Lenox 6,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Lincoln 1,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Lincoln 2,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Madison 1,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Madison 2,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Nelson 1,U.S. House,22,Claudia Tenney,Write- In,2
+Madison,Town of Nelson 2,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Smithfield 1,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Stockbridge 1,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Stockbridge 2,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Sullivan 1,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Sullivan 2,U.S. House,22,Claudia Tenney,Write- In,2
+Madison,Town of Sullivan 3,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Sullivan 4,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Sullivan 5,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Sullivan 6,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Sullivan 7,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Sullivan 8,U.S. House,22,Claudia Tenney,Write- In,1
+Madison,Town of Sullivan 9,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Sullivan 10,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,Town of Sullivan 11,U.S. House,22,Claudia Tenney,Write- In,0
+Madison,TOTAL,U.S. House,22,Claudia Tenney,Write- In,29
+Madison,City of Oneida 1-1,Governor,,Andrew M. Cuomo,DEM,71
+Madison,City of Oneida 1-2,Governor,,Andrew M. Cuomo,DEM,84
+Madison,City of Oneida 2-1,Governor,,Andrew M. Cuomo,DEM,114
+Madison,City of Oneida 2-2,Governor,,Andrew M. Cuomo,DEM,124
+Madison,City of Oneida 3,Governor,,Andrew M. Cuomo,DEM,159
+Madison,City of Oneida 4,Governor,,Andrew M. Cuomo,DEM,82
+Madison,City of Oneida 5,Governor,,Andrew M. Cuomo,DEM,140
+Madison,City of Oneida 6,Governor,,Andrew M. Cuomo,DEM,91
+Madison,Town of Brookfield 1,Governor,,Andrew M. Cuomo,DEM,39
+Madison,Town of Brookfield 2,Governor,,Andrew M. Cuomo,DEM,80
+Madison,Town of Brookfield 3,Governor,,Andrew M. Cuomo,DEM,41
+Madison,Town of Cazenovia 1,Governor,,Andrew M. Cuomo,DEM,99
+Madison,Town of Cazenovia 2,Governor,,Andrew M. Cuomo,DEM,134
+Madison,Town of Cazenovia 3,Governor,,Andrew M. Cuomo,DEM,158
+Madison,Town of Cazenovia 4,Governor,,Andrew M. Cuomo,DEM,147
+Madison,Town of Cazenovia 5,Governor,,Andrew M. Cuomo,DEM,198
+Madison,Town of Cazenovia 6,Governor,,Andrew M. Cuomo,DEM,134
+Madison,Town of DeRuyter 1,Governor,,Andrew M. Cuomo,DEM,132
+Madison,Town of Eaton 1,Governor,,Andrew M. Cuomo,DEM,157
+Madison,Town of Eaton 2,Governor,,Andrew M. Cuomo,DEM,129
+Madison,Town of Fenner 1,Governor,,Andrew M. Cuomo,DEM,156
+Madison,Town of Georgetown 1,Governor,,Andrew M. Cuomo,DEM,38
+Madison,Town of Hamilton 1,Governor,,Andrew M. Cuomo,DEM,145
+Madison,Town of Hamilton 2,Governor,,Andrew M. Cuomo,DEM,200
+Madison,Town of Hamilton 3,Governor,,Andrew M. Cuomo,DEM,47
+Madison,Town of Hamilton 4,Governor,,Andrew M. Cuomo,DEM,131
+Madison,Town of Lebanon 1,Governor,,Andrew M. Cuomo,DEM,34
+Madison,Town of Lebanon 2,Governor,,Andrew M. Cuomo,DEM,88
+Madison,Town of Lenox 1,Governor,,Andrew M. Cuomo,DEM,148
+Madison,Town of Lenox 2,Governor,,Andrew M. Cuomo,DEM,90
+Madison,Town of Lenox 3,Governor,,Andrew M. Cuomo,DEM,151
+Madison,Town of Lenox 4,Governor,,Andrew M. Cuomo,DEM,114
+Madison,Town of Lenox 5,Governor,,Andrew M. Cuomo,DEM,174
+Madison,Town of Lenox 6,Governor,,Andrew M. Cuomo,DEM,66
+Madison,Town of Lincoln 1,Governor,,Andrew M. Cuomo,DEM,57
+Madison,Town of Lincoln 2,Governor,,Andrew M. Cuomo,DEM,66
+Madison,Town of Madison 1,Governor,,Andrew M. Cuomo,DEM,164
+Madison,Town of Madison 2,Governor,,Andrew M. Cuomo,DEM,144
+Madison,Town of Nelson 1,Governor,,Andrew M. Cuomo,DEM,112
+Madison,Town of Nelson 2,Governor,,Andrew M. Cuomo,DEM,115
+Madison,Town of Smithfield 1,Governor,,Andrew M. Cuomo,DEM,102
+Madison,Town of Stockbridge 1,Governor,,Andrew M. Cuomo,DEM,67
+Madison,Town of Stockbridge 2,Governor,,Andrew M. Cuomo,DEM,63
+Madison,Town of Sullivan 1,Governor,,Andrew M. Cuomo,DEM,198
+Madison,Town of Sullivan 2,Governor,,Andrew M. Cuomo,DEM,128
+Madison,Town of Sullivan 3,Governor,,Andrew M. Cuomo,DEM,125
+Madison,Town of Sullivan 4,Governor,,Andrew M. Cuomo,DEM,57
+Madison,Town of Sullivan 5,Governor,,Andrew M. Cuomo,DEM,162
+Madison,Town of Sullivan 6,Governor,,Andrew M. Cuomo,DEM,171
+Madison,Town of Sullivan 7,Governor,,Andrew M. Cuomo,DEM,127
+Madison,Town of Sullivan 8,Governor,,Andrew M. Cuomo,DEM,106
+Madison,Town of Sullivan 9,Governor,,Andrew M. Cuomo,DEM,85
+Madison,Town of Sullivan 10,Governor,,Andrew M. Cuomo,DEM,107
+Madison,Town of Sullivan 11,Governor,,Andrew M. Cuomo,DEM,93
+Madison,TOTAL,Governor,,Andrew M. Cuomo,DEM,6144
+Madison,City of Oneida 1-1,Governor,,Rob Astorino,REP,127
+Madison,City of Oneida 1-2,Governor,,Rob Astorino,REP,128
+Madison,City of Oneida 2-1,Governor,,Rob Astorino,REP,156
+Madison,City of Oneida 2-2,Governor,,Rob Astorino,REP,106
+Madison,City of Oneida 3,Governor,,Rob Astorino,REP,138
+Madison,City of Oneida 4,Governor,,Rob Astorino,REP,68
+Madison,City of Oneida 5,Governor,,Rob Astorino,REP,100
+Madison,City of Oneida 6,Governor,,Rob Astorino,REP,113
+Madison,Town of Brookfield 1,Governor,,Rob Astorino,REP,91
+Madison,Town of Brookfield 2,Governor,,Rob Astorino,REP,152
+Madison,Town of Brookfield 3,Governor,,Rob Astorino,REP,110
+Madison,Town of Cazenovia 1,Governor,,Rob Astorino,REP,163
+Madison,Town of Cazenovia 2,Governor,,Rob Astorino,REP,125
+Madison,Town of Cazenovia 3,Governor,,Rob Astorino,REP,116
+Madison,Town of Cazenovia 4,Governor,,Rob Astorino,REP,157
+Madison,Town of Cazenovia 5,Governor,,Rob Astorino,REP,216
+Madison,Town of Cazenovia 6,Governor,,Rob Astorino,REP,134
+Madison,Town of DeRuyter 1,Governor,,Rob Astorino,REP,224
+Madison,Town of Eaton 1,Governor,,Rob Astorino,REP,171
+Madison,Town of Eaton 2,Governor,,Rob Astorino,REP,176
+Madison,Town of Fenner 1,Governor,,Rob Astorino,REP,221
+Madison,Town of Georgetown 1,Governor,,Rob Astorino,REP,127
+Madison,Town of Hamilton 1,Governor,,Rob Astorino,REP,62
+Madison,Town of Hamilton 2,Governor,,Rob Astorino,REP,91
+Madison,Town of Hamilton 3,Governor,,Rob Astorino,REP,61
+Madison,Town of Hamilton 4,Governor,,Rob Astorino,REP,177
+Madison,Town of Lebanon 1,Governor,,Rob Astorino,REP,65
+Madison,Town of Lebanon 2,Governor,,Rob Astorino,REP,99
+Madison,Town of Lenox 1,Governor,,Rob Astorino,REP,208
+Madison,Town of Lenox 2,Governor,,Rob Astorino,REP,141
+Madison,Town of Lenox 3,Governor,,Rob Astorino,REP,137
+Madison,Town of Lenox 4,Governor,,Rob Astorino,REP,142
+Madison,Town of Lenox 5,Governor,,Rob Astorino,REP,207
+Madison,Town of Lenox 6,Governor,,Rob Astorino,REP,84
+Madison,Town of Lincoln 1,Governor,,Rob Astorino,REP,131
+Madison,Town of Lincoln 2,Governor,,Rob Astorino,REP,121
+Madison,Town of Madison 1,Governor,,Rob Astorino,REP,192
+Madison,Town of Madison 2,Governor,,Rob Astorino,REP,142
+Madison,Town of Nelson 1,Governor,,Rob Astorino,REP,125
+Madison,Town of Nelson 2,Governor,,Rob Astorino,REP,143
+Madison,Town of Smithfield 1,Governor,,Rob Astorino,REP,138
+Madison,Town of Stockbridge 1,Governor,,Rob Astorino,REP,119
+Madison,Town of Stockbridge 2,Governor,,Rob Astorino,REP,116
+Madison,Town of Sullivan 1,Governor,,Rob Astorino,REP,268
+Madison,Town of Sullivan 2,Governor,,Rob Astorino,REP,217
+Madison,Town of Sullivan 3,Governor,,Rob Astorino,REP,164
+Madison,Town of Sullivan 4,Governor,,Rob Astorino,REP,74
+Madison,Town of Sullivan 5,Governor,,Rob Astorino,REP,189
+Madison,Town of Sullivan 6,Governor,,Rob Astorino,REP,199
+Madison,Town of Sullivan 7,Governor,,Rob Astorino,REP,168
+Madison,Town of Sullivan 8,Governor,,Rob Astorino,REP,88
+Madison,Town of Sullivan 9,Governor,,Rob Astorino,REP,126
+Madison,Town of Sullivan 10,Governor,,Rob Astorino,REP,139
+Madison,Town of Sullivan 11,Governor,,Rob Astorino,REP,131
+Madison,TOTAL,Governor,,Rob Astorino,REP,7583
+Madison,City of Oneida 1-1,Governor,,Rob Astorino,CON,30
+Madison,City of Oneida 1-2,Governor,,Rob Astorino,CON,28
+Madison,City of Oneida 2-1,Governor,,Rob Astorino,CON,39
+Madison,City of Oneida 2-2,Governor,,Rob Astorino,CON,17
+Madison,City of Oneida 3,Governor,,Rob Astorino,CON,37
+Madison,City of Oneida 4,Governor,,Rob Astorino,CON,23
+Madison,City of Oneida 5,Governor,,Rob Astorino,CON,14
+Madison,City of Oneida 6,Governor,,Rob Astorino,CON,36
+Madison,Town of Brookfield 1,Governor,,Rob Astorino,CON,25
+Madison,Town of Brookfield 2,Governor,,Rob Astorino,CON,24
+Madison,Town of Brookfield 3,Governor,,Rob Astorino,CON,29
+Madison,Town of Cazenovia 1,Governor,,Rob Astorino,CON,27
+Madison,Town of Cazenovia 2,Governor,,Rob Astorino,CON,18
+Madison,Town of Cazenovia 3,Governor,,Rob Astorino,CON,27
+Madison,Town of Cazenovia 4,Governor,,Rob Astorino,CON,46
+Madison,Town of Cazenovia 5,Governor,,Rob Astorino,CON,45
+Madison,Town of Cazenovia 6,Governor,,Rob Astorino,CON,30
+Madison,Town of DeRuyter 1,Governor,,Rob Astorino,CON,62
+Madison,Town of Eaton 1,Governor,,Rob Astorino,CON,46
+Madison,Town of Eaton 2,Governor,,Rob Astorino,CON,38
+Madison,Town of Fenner 1,Governor,,Rob Astorino,CON,63
+Madison,Town of Georgetown 1,Governor,,Rob Astorino,CON,24
+Madison,Town of Hamilton 1,Governor,,Rob Astorino,CON,11
+Madison,Town of Hamilton 2,Governor,,Rob Astorino,CON,13
+Madison,Town of Hamilton 3,Governor,,Rob Astorino,CON,9
+Madison,Town of Hamilton 4,Governor,,Rob Astorino,CON,35
+Madison,Town of Lebanon 1,Governor,,Rob Astorino,CON,12
+Madison,Town of Lebanon 2,Governor,,Rob Astorino,CON,8
+Madison,Town of Lenox 1,Governor,,Rob Astorino,CON,33
+Madison,Town of Lenox 2,Governor,,Rob Astorino,CON,26
+Madison,Town of Lenox 3,Governor,,Rob Astorino,CON,27
+Madison,Town of Lenox 4,Governor,,Rob Astorino,CON,32
+Madison,Town of Lenox 5,Governor,,Rob Astorino,CON,34
+Madison,Town of Lenox 6,Governor,,Rob Astorino,CON,20
+Madison,Town of Lincoln 1,Governor,,Rob Astorino,CON,37
+Madison,Town of Lincoln 2,Governor,,Rob Astorino,CON,30
+Madison,Town of Madison 1,Governor,,Rob Astorino,CON,34
+Madison,Town of Madison 2,Governor,,Rob Astorino,CON,30
+Madison,Town of Nelson 1,Governor,,Rob Astorino,CON,42
+Madison,Town of Nelson 2,Governor,,Rob Astorino,CON,24
+Madison,Town of Smithfield 1,Governor,,Rob Astorino,CON,38
+Madison,Town of Stockbridge 1,Governor,,Rob Astorino,CON,11
+Madison,Town of Stockbridge 2,Governor,,Rob Astorino,CON,22
+Madison,Town of Sullivan 1,Governor,,Rob Astorino,CON,60
+Madison,Town of Sullivan 2,Governor,,Rob Astorino,CON,65
+Madison,Town of Sullivan 3,Governor,,Rob Astorino,CON,36
+Madison,Town of Sullivan 4,Governor,,Rob Astorino,CON,17
+Madison,Town of Sullivan 5,Governor,,Rob Astorino,CON,50
+Madison,Town of Sullivan 6,Governor,,Rob Astorino,CON,46
+Madison,Town of Sullivan 7,Governor,,Rob Astorino,CON,50
+Madison,Town of Sullivan 8,Governor,,Rob Astorino,CON,19
+Madison,Town of Sullivan 9,Governor,,Rob Astorino,CON,36
+Madison,Town of Sullivan 10,Governor,,Rob Astorino,CON,31
+Madison,Town of Sullivan 11,Governor,,Rob Astorino,CON,38
+Madison,TOTAL,Governor,,Rob Astorino,CON,1704
+Madison,City of Oneida 1-1,Governor,,Andrew M. Cuomo,WOR,3
+Madison,City of Oneida 1-2,Governor,,Andrew M. Cuomo,WOR,4
+Madison,City of Oneida 2-1,Governor,,Andrew M. Cuomo,WOR,4
+Madison,City of Oneida 2-2,Governor,,Andrew M. Cuomo,WOR,4
+Madison,City of Oneida 3,Governor,,Andrew M. Cuomo,WOR,7
+Madison,City of Oneida 4,Governor,,Andrew M. Cuomo,WOR,4
+Madison,City of Oneida 5,Governor,,Andrew M. Cuomo,WOR,4
+Madison,City of Oneida 6,Governor,,Andrew M. Cuomo,WOR,4
+Madison,Town of Brookfield 1,Governor,,Andrew M. Cuomo,WOR,6
+Madison,Town of Brookfield 2,Governor,,Andrew M. Cuomo,WOR,5
+Madison,Town of Brookfield 3,Governor,,Andrew M. Cuomo,WOR,2
+Madison,Town of Cazenovia 1,Governor,,Andrew M. Cuomo,WOR,8
+Madison,Town of Cazenovia 2,Governor,,Andrew M. Cuomo,WOR,8
+Madison,Town of Cazenovia 3,Governor,,Andrew M. Cuomo,WOR,14
+Madison,Town of Cazenovia 4,Governor,,Andrew M. Cuomo,WOR,6
+Madison,Town of Cazenovia 5,Governor,,Andrew M. Cuomo,WOR,7
+Madison,Town of Cazenovia 6,Governor,,Andrew M. Cuomo,WOR,3
+Madison,Town of DeRuyter 1,Governor,,Andrew M. Cuomo,WOR,9
+Madison,Town of Eaton 1,Governor,,Andrew M. Cuomo,WOR,9
+Madison,Town of Eaton 2,Governor,,Andrew M. Cuomo,WOR,4
+Madison,Town of Fenner 1,Governor,,Andrew M. Cuomo,WOR,16
+Madison,Town of Georgetown 1,Governor,,Andrew M. Cuomo,WOR,3
+Madison,Town of Hamilton 1,Governor,,Andrew M. Cuomo,WOR,11
+Madison,Town of Hamilton 2,Governor,,Andrew M. Cuomo,WOR,22
+Madison,Town of Hamilton 3,Governor,,Andrew M. Cuomo,WOR,1
+Madison,Town of Hamilton 4,Governor,,Andrew M. Cuomo,WOR,7
+Madison,Town of Lebanon 1,Governor,,Andrew M. Cuomo,WOR,0
+Madison,Town of Lebanon 2,Governor,,Andrew M. Cuomo,WOR,5
+Madison,Town of Lenox 1,Governor,,Andrew M. Cuomo,WOR,6
+Madison,Town of Lenox 2,Governor,,Andrew M. Cuomo,WOR,6
+Madison,Town of Lenox 3,Governor,,Andrew M. Cuomo,WOR,4
+Madison,Town of Lenox 4,Governor,,Andrew M. Cuomo,WOR,7
+Madison,Town of Lenox 5,Governor,,Andrew M. Cuomo,WOR,8
+Madison,Town of Lenox 6,Governor,,Andrew M. Cuomo,WOR,6
+Madison,Town of Lincoln 1,Governor,,Andrew M. Cuomo,WOR,2
+Madison,Town of Lincoln 2,Governor,,Andrew M. Cuomo,WOR,7
+Madison,Town of Madison 1,Governor,,Andrew M. Cuomo,WOR,15
+Madison,Town of Madison 2,Governor,,Andrew M. Cuomo,WOR,13
+Madison,Town of Nelson 1,Governor,,Andrew M. Cuomo,WOR,8
+Madison,Town of Nelson 2,Governor,,Andrew M. Cuomo,WOR,4
+Madison,Town of Smithfield 1,Governor,,Andrew M. Cuomo,WOR,12
+Madison,Town of Stockbridge 1,Governor,,Andrew M. Cuomo,WOR,2
+Madison,Town of Stockbridge 2,Governor,,Andrew M. Cuomo,WOR,3
+Madison,Town of Sullivan 1,Governor,,Andrew M. Cuomo,WOR,7
+Madison,Town of Sullivan 2,Governor,,Andrew M. Cuomo,WOR,9
+Madison,Town of Sullivan 3,Governor,,Andrew M. Cuomo,WOR,6
+Madison,Town of Sullivan 4,Governor,,Andrew M. Cuomo,WOR,4
+Madison,Town of Sullivan 5,Governor,,Andrew M. Cuomo,WOR,11
+Madison,Town of Sullivan 6,Governor,,Andrew M. Cuomo,WOR,7
+Madison,Town of Sullivan 7,Governor,,Andrew M. Cuomo,WOR,6
+Madison,Town of Sullivan 8,Governor,,Andrew M. Cuomo,WOR,9
+Madison,Town of Sullivan 9,Governor,,Andrew M. Cuomo,WOR,3
+Madison,Town of Sullivan 10,Governor,,Andrew M. Cuomo,WOR,5
+Madison,Town of Sullivan 11,Governor,,Andrew M. Cuomo,WOR,11
+Madison,TOTAL,Governor,,Andrew M. Cuomo,WOR,361
+Madison,City of Oneida 1-1,Governor,,Andrew M. Cuomo,IND,12
+Madison,City of Oneida 1-2,Governor,,Andrew M. Cuomo,IND,6
+Madison,City of Oneida 2-1,Governor,,Andrew M. Cuomo,IND,9
+Madison,City of Oneida 2-2,Governor,,Andrew M. Cuomo,IND,5
+Madison,City of Oneida 3,Governor,,Andrew M. Cuomo,IND,10
+Madison,City of Oneida 4,Governor,,Andrew M. Cuomo,IND,7
+Madison,City of Oneida 5,Governor,,Andrew M. Cuomo,IND,8
+Madison,City of Oneida 6,Governor,,Andrew M. Cuomo,IND,6
+Madison,Town of Brookfield 1,Governor,,Andrew M. Cuomo,IND,5
+Madison,Town of Brookfield 2,Governor,,Andrew M. Cuomo,IND,3
+Madison,Town of Brookfield 3,Governor,,Andrew M. Cuomo,IND,4
+Madison,Town of Cazenovia 1,Governor,,Andrew M. Cuomo,IND,5
+Madison,Town of Cazenovia 2,Governor,,Andrew M. Cuomo,IND,13
+Madison,Town of Cazenovia 3,Governor,,Andrew M. Cuomo,IND,6
+Madison,Town of Cazenovia 4,Governor,,Andrew M. Cuomo,IND,19
+Madison,Town of Cazenovia 5,Governor,,Andrew M. Cuomo,IND,15
+Madison,Town of Cazenovia 6,Governor,,Andrew M. Cuomo,IND,10
+Madison,Town of DeRuyter 1,Governor,,Andrew M. Cuomo,IND,16
+Madison,Town of Eaton 1,Governor,,Andrew M. Cuomo,IND,9
+Madison,Town of Eaton 2,Governor,,Andrew M. Cuomo,IND,10
+Madison,Town of Fenner 1,Governor,,Andrew M. Cuomo,IND,8
+Madison,Town of Georgetown 1,Governor,,Andrew M. Cuomo,IND,3
+Madison,Town of Hamilton 1,Governor,,Andrew M. Cuomo,IND,5
+Madison,Town of Hamilton 2,Governor,,Andrew M. Cuomo,IND,6
+Madison,Town of Hamilton 3,Governor,,Andrew M. Cuomo,IND,3
+Madison,Town of Hamilton 4,Governor,,Andrew M. Cuomo,IND,6
+Madison,Town of Lebanon 1,Governor,,Andrew M. Cuomo,IND,0
+Madison,Town of Lebanon 2,Governor,,Andrew M. Cuomo,IND,3
+Madison,Town of Lenox 1,Governor,,Andrew M. Cuomo,IND,20
+Madison,Town of Lenox 2,Governor,,Andrew M. Cuomo,IND,2
+Madison,Town of Lenox 3,Governor,,Andrew M. Cuomo,IND,6
+Madison,Town of Lenox 4,Governor,,Andrew M. Cuomo,IND,2
+Madison,Town of Lenox 5,Governor,,Andrew M. Cuomo,IND,8
+Madison,Town of Lenox 6,Governor,,Andrew M. Cuomo,IND,8
+Madison,Town of Lincoln 1,Governor,,Andrew M. Cuomo,IND,8
+Madison,Town of Lincoln 2,Governor,,Andrew M. Cuomo,IND,0
+Madison,Town of Madison 1,Governor,,Andrew M. Cuomo,IND,12
+Madison,Town of Madison 2,Governor,,Andrew M. Cuomo,IND,14
+Madison,Town of Nelson 1,Governor,,Andrew M. Cuomo,IND,10
+Madison,Town of Nelson 2,Governor,,Andrew M. Cuomo,IND,10
+Madison,Town of Smithfield 1,Governor,,Andrew M. Cuomo,IND,4
+Madison,Town of Stockbridge 1,Governor,,Andrew M. Cuomo,IND,5
+Madison,Town of Stockbridge 2,Governor,,Andrew M. Cuomo,IND,3
+Madison,Town of Sullivan 1,Governor,,Andrew M. Cuomo,IND,13
+Madison,Town of Sullivan 2,Governor,,Andrew M. Cuomo,IND,11
+Madison,Town of Sullivan 3,Governor,,Andrew M. Cuomo,IND,6
+Madison,Town of Sullivan 4,Governor,,Andrew M. Cuomo,IND,3
+Madison,Town of Sullivan 5,Governor,,Andrew M. Cuomo,IND,7
+Madison,Town of Sullivan 6,Governor,,Andrew M. Cuomo,IND,19
+Madison,Town of Sullivan 7,Governor,,Andrew M. Cuomo,IND,8
+Madison,Town of Sullivan 8,Governor,,Andrew M. Cuomo,IND,5
+Madison,Town of Sullivan 9,Governor,,Andrew M. Cuomo,IND,11
+Madison,Town of Sullivan 10,Governor,,Andrew M. Cuomo,IND,13
+Madison,Town of Sullivan 11,Governor,,Andrew M. Cuomo,IND,5
+Madison,TOTAL,Governor,,Andrew M. Cuomo,IND,425
+Madison,City of Oneida 1-1,Governor,,Howie Hawkins,GRE,17
+Madison,City of Oneida 1-2,Governor,,Howie Hawkins,GRE,17
+Madison,City of Oneida 2-1,Governor,,Howie Hawkins,GRE,21
+Madison,City of Oneida 2-2,Governor,,Howie Hawkins,GRE,24
+Madison,City of Oneida 3,Governor,,Howie Hawkins,GRE,39
+Madison,City of Oneida 4,Governor,,Howie Hawkins,GRE,13
+Madison,City of Oneida 5,Governor,,Howie Hawkins,GRE,24
+Madison,City of Oneida 6,Governor,,Howie Hawkins,GRE,19
+Madison,Town of Brookfield 1,Governor,,Howie Hawkins,GRE,16
+Madison,Town of Brookfield 2,Governor,,Howie Hawkins,GRE,20
+Madison,Town of Brookfield 3,Governor,,Howie Hawkins,GRE,15
+Madison,Town of Cazenovia 1,Governor,,Howie Hawkins,GRE,51
+Madison,Town of Cazenovia 2,Governor,,Howie Hawkins,GRE,34
+Madison,Town of Cazenovia 3,Governor,,Howie Hawkins,GRE,42
+Madison,Town of Cazenovia 4,Governor,,Howie Hawkins,GRE,34
+Madison,Town of Cazenovia 5,Governor,,Howie Hawkins,GRE,34
+Madison,Town of Cazenovia 6,Governor,,Howie Hawkins,GRE,15
+Madison,Town of DeRuyter 1,Governor,,Howie Hawkins,GRE,25
+Madison,Town of Eaton 1,Governor,,Howie Hawkins,GRE,43
+Madison,Town of Eaton 2,Governor,,Howie Hawkins,GRE,39
+Madison,Town of Fenner 1,Governor,,Howie Hawkins,GRE,50
+Madison,Town of Georgetown 1,Governor,,Howie Hawkins,GRE,14
+Madison,Town of Hamilton 1,Governor,,Howie Hawkins,GRE,39
+Madison,Town of Hamilton 2,Governor,,Howie Hawkins,GRE,53
+Madison,Town of Hamilton 3,Governor,,Howie Hawkins,GRE,20
+Madison,Town of Hamilton 4,Governor,,Howie Hawkins,GRE,31
+Madison,Town of Lebanon 1,Governor,,Howie Hawkins,GRE,12
+Madison,Town of Lebanon 2,Governor,,Howie Hawkins,GRE,20
+Madison,Town of Lenox 1,Governor,,Howie Hawkins,GRE,27
+Madison,Town of Lenox 2,Governor,,Howie Hawkins,GRE,19
+Madison,Town of Lenox 3,Governor,,Howie Hawkins,GRE,20
+Madison,Town of Lenox 4,Governor,,Howie Hawkins,GRE,17
+Madison,Town of Lenox 5,Governor,,Howie Hawkins,GRE,32
+Madison,Town of Lenox 6,Governor,,Howie Hawkins,GRE,12
+Madison,Town of Lincoln 1,Governor,,Howie Hawkins,GRE,18
+Madison,Town of Lincoln 2,Governor,,Howie Hawkins,GRE,16
+Madison,Town of Madison 1,Governor,,Howie Hawkins,GRE,27
+Madison,Town of Madison 2,Governor,,Howie Hawkins,GRE,25
+Madison,Town of Nelson 1,Governor,,Howie Hawkins,GRE,37
+Madison,Town of Nelson 2,Governor,,Howie Hawkins,GRE,41
+Madison,Town of Smithfield 1,Governor,,Howie Hawkins,GRE,21
+Madison,Town of Stockbridge 1,Governor,,Howie Hawkins,GRE,6
+Madison,Town of Stockbridge 2,Governor,,Howie Hawkins,GRE,14
+Madison,Town of Sullivan 1,Governor,,Howie Hawkins,GRE,46
+Madison,Town of Sullivan 2,Governor,,Howie Hawkins,GRE,40
+Madison,Town of Sullivan 3,Governor,,Howie Hawkins,GRE,23
+Madison,Town of Sullivan 4,Governor,,Howie Hawkins,GRE,7
+Madison,Town of Sullivan 5,Governor,,Howie Hawkins,GRE,17
+Madison,Town of Sullivan 6,Governor,,Howie Hawkins,GRE,40
+Madison,Town of Sullivan 7,Governor,,Howie Hawkins,GRE,23
+Madison,Town of Sullivan 8,Governor,,Howie Hawkins,GRE,13
+Madison,Town of Sullivan 9,Governor,,Howie Hawkins,GRE,26
+Madison,Town of Sullivan 10,Governor,,Howie Hawkins,GRE,24
+Madison,Town of Sullivan 11,Governor,,Howie Hawkins,GRE,15
+Madison,TOTAL,Governor,,Howie Hawkins,GRE,1387
+Madison,City of Oneida 1-1,Governor,,Rob Astorino,SCC,6
+Madison,City of Oneida 1-2,Governor,,Rob Astorino,SCC,0
+Madison,City of Oneida 2-1,Governor,,Rob Astorino,SCC,8
+Madison,City of Oneida 2-2,Governor,,Rob Astorino,SCC,2
+Madison,City of Oneida 3,Governor,,Rob Astorino,SCC,8
+Madison,City of Oneida 4,Governor,,Rob Astorino,SCC,4
+Madison,City of Oneida 5,Governor,,Rob Astorino,SCC,8
+Madison,City of Oneida 6,Governor,,Rob Astorino,SCC,14
+Madison,Town of Brookfield 1,Governor,,Rob Astorino,SCC,5
+Madison,Town of Brookfield 2,Governor,,Rob Astorino,SCC,12
+Madison,Town of Brookfield 3,Governor,,Rob Astorino,SCC,10
+Madison,Town of Cazenovia 1,Governor,,Rob Astorino,SCC,12
+Madison,Town of Cazenovia 2,Governor,,Rob Astorino,SCC,2
+Madison,Town of Cazenovia 3,Governor,,Rob Astorino,SCC,1
+Madison,Town of Cazenovia 4,Governor,,Rob Astorino,SCC,6
+Madison,Town of Cazenovia 5,Governor,,Rob Astorino,SCC,5
+Madison,Town of Cazenovia 6,Governor,,Rob Astorino,SCC,0
+Madison,Town of DeRuyter 1,Governor,,Rob Astorino,SCC,15
+Madison,Town of Eaton 1,Governor,,Rob Astorino,SCC,16
+Madison,Town of Eaton 2,Governor,,Rob Astorino,SCC,6
+Madison,Town of Fenner 1,Governor,,Rob Astorino,SCC,21
+Madison,Town of Georgetown 1,Governor,,Rob Astorino,SCC,4
+Madison,Town of Hamilton 1,Governor,,Rob Astorino,SCC,6
+Madison,Town of Hamilton 2,Governor,,Rob Astorino,SCC,4
+Madison,Town of Hamilton 3,Governor,,Rob Astorino,SCC,3
+Madison,Town of Hamilton 4,Governor,,Rob Astorino,SCC,6
+Madison,Town of Lebanon 1,Governor,,Rob Astorino,SCC,5
+Madison,Town of Lebanon 2,Governor,,Rob Astorino,SCC,2
+Madison,Town of Lenox 1,Governor,,Rob Astorino,SCC,13
+Madison,Town of Lenox 2,Governor,,Rob Astorino,SCC,5
+Madison,Town of Lenox 3,Governor,,Rob Astorino,SCC,5
+Madison,Town of Lenox 4,Governor,,Rob Astorino,SCC,5
+Madison,Town of Lenox 5,Governor,,Rob Astorino,SCC,10
+Madison,Town of Lenox 6,Governor,,Rob Astorino,SCC,3
+Madison,Town of Lincoln 1,Governor,,Rob Astorino,SCC,3
+Madison,Town of Lincoln 2,Governor,,Rob Astorino,SCC,6
+Madison,Town of Madison 1,Governor,,Rob Astorino,SCC,14
+Madison,Town of Madison 2,Governor,,Rob Astorino,SCC,6
+Madison,Town of Nelson 1,Governor,,Rob Astorino,SCC,4
+Madison,Town of Nelson 2,Governor,,Rob Astorino,SCC,7
+Madison,Town of Smithfield 1,Governor,,Rob Astorino,SCC,7
+Madison,Town of Stockbridge 1,Governor,,Rob Astorino,SCC,4
+Madison,Town of Stockbridge 2,Governor,,Rob Astorino,SCC,2
+Madison,Town of Sullivan 1,Governor,,Rob Astorino,SCC,14
+Madison,Town of Sullivan 2,Governor,,Rob Astorino,SCC,16
+Madison,Town of Sullivan 3,Governor,,Rob Astorino,SCC,6
+Madison,Town of Sullivan 4,Governor,,Rob Astorino,SCC,3
+Madison,Town of Sullivan 5,Governor,,Rob Astorino,SCC,7
+Madison,Town of Sullivan 6,Governor,,Rob Astorino,SCC,16
+Madison,Town of Sullivan 7,Governor,,Rob Astorino,SCC,4
+Madison,Town of Sullivan 8,Governor,,Rob Astorino,SCC,2
+Madison,Town of Sullivan 9,Governor,,Rob Astorino,SCC,8
+Madison,Town of Sullivan 10,Governor,,Rob Astorino,SCC,5
+Madison,Town of Sullivan 11,Governor,,Rob Astorino,SCC,3
+Madison,TOTAL,Governor,,Rob Astorino,SCC,369
+Madison,City of Oneida 1-1,Governor,,Michael McDermott,LBT,0
+Madison,City of Oneida 1-2,Governor,,Michael McDermott,LBT,1
+Madison,City of Oneida 2-1,Governor,,Michael McDermott,LBT,2
+Madison,City of Oneida 2-2,Governor,,Michael McDermott,LBT,2
+Madison,City of Oneida 3,Governor,,Michael McDermott,LBT,2
+Madison,City of Oneida 4,Governor,,Michael McDermott,LBT,0
+Madison,City of Oneida 5,Governor,,Michael McDermott,LBT,1
+Madison,City of Oneida 6,Governor,,Michael McDermott,LBT,2
+Madison,Town of Brookfield 1,Governor,,Michael McDermott,LBT,2
+Madison,Town of Brookfield 2,Governor,,Michael McDermott,LBT,6
+Madison,Town of Brookfield 3,Governor,,Michael McDermott,LBT,3
+Madison,Town of Cazenovia 1,Governor,,Michael McDermott,LBT,0
+Madison,Town of Cazenovia 2,Governor,,Michael McDermott,LBT,1
+Madison,Town of Cazenovia 3,Governor,,Michael McDermott,LBT,1
+Madison,Town of Cazenovia 4,Governor,,Michael McDermott,LBT,1
+Madison,Town of Cazenovia 5,Governor,,Michael McDermott,LBT,4
+Madison,Town of Cazenovia 6,Governor,,Michael McDermott,LBT,0
+Madison,Town of DeRuyter 1,Governor,,Michael McDermott,LBT,6
+Madison,Town of Eaton 1,Governor,,Michael McDermott,LBT,3
+Madison,Town of Eaton 2,Governor,,Michael McDermott,LBT,3
+Madison,Town of Fenner 1,Governor,,Michael McDermott,LBT,4
+Madison,Town of Georgetown 1,Governor,,Michael McDermott,LBT,2
+Madison,Town of Hamilton 1,Governor,,Michael McDermott,LBT,2
+Madison,Town of Hamilton 2,Governor,,Michael McDermott,LBT,2
+Madison,Town of Hamilton 3,Governor,,Michael McDermott,LBT,2
+Madison,Town of Hamilton 4,Governor,,Michael McDermott,LBT,5
+Madison,Town of Lebanon 1,Governor,,Michael McDermott,LBT,1
+Madison,Town of Lebanon 2,Governor,,Michael McDermott,LBT,2
+Madison,Town of Lenox 1,Governor,,Michael McDermott,LBT,2
+Madison,Town of Lenox 2,Governor,,Michael McDermott,LBT,3
+Madison,Town of Lenox 3,Governor,,Michael McDermott,LBT,4
+Madison,Town of Lenox 4,Governor,,Michael McDermott,LBT,0
+Madison,Town of Lenox 5,Governor,,Michael McDermott,LBT,1
+Madison,Town of Lenox 6,Governor,,Michael McDermott,LBT,0
+Madison,Town of Lincoln 1,Governor,,Michael McDermott,LBT,2
+Madison,Town of Lincoln 2,Governor,,Michael McDermott,LBT,3
+Madison,Town of Madison 1,Governor,,Michael McDermott,LBT,5
+Madison,Town of Madison 2,Governor,,Michael McDermott,LBT,1
+Madison,Town of Nelson 1,Governor,,Michael McDermott,LBT,1
+Madison,Town of Nelson 2,Governor,,Michael McDermott,LBT,4
+Madison,Town of Smithfield 1,Governor,,Michael McDermott,LBT,1
+Madison,Town of Stockbridge 1,Governor,,Michael McDermott,LBT,0
+Madison,Town of Stockbridge 2,Governor,,Michael McDermott,LBT,2
+Madison,Town of Sullivan 1,Governor,,Michael McDermott,LBT,4
+Madison,Town of Sullivan 2,Governor,,Michael McDermott,LBT,1
+Madison,Town of Sullivan 3,Governor,,Michael McDermott,LBT,3
+Madison,Town of Sullivan 4,Governor,,Michael McDermott,LBT,0
+Madison,Town of Sullivan 5,Governor,,Michael McDermott,LBT,1
+Madison,Town of Sullivan 6,Governor,,Michael McDermott,LBT,4
+Madison,Town of Sullivan 7,Governor,,Michael McDermott,LBT,2
+Madison,Town of Sullivan 8,Governor,,Michael McDermott,LBT,0
+Madison,Town of Sullivan 9,Governor,,Michael McDermott,LBT,0
+Madison,Town of Sullivan 10,Governor,,Michael McDermott,LBT,1
+Madison,Town of Sullivan 11,Governor,,Michael McDermott,LBT,3
+Madison,TOTAL,Governor,,Michael McDermott,LBT,108
+Madison,City of Oneida 1-1,Governor,,Andrew M. Cuomo,WEP,1
+Madison,City of Oneida 1-2,Governor,,Andrew M. Cuomo,WEP,5
+Madison,City of Oneida 2-1,Governor,,Andrew M. Cuomo,WEP,5
+Madison,City of Oneida 2-2,Governor,,Andrew M. Cuomo,WEP,2
+Madison,City of Oneida 3,Governor,,Andrew M. Cuomo,WEP,3
+Madison,City of Oneida 4,Governor,,Andrew M. Cuomo,WEP,8
+Madison,City of Oneida 5,Governor,,Andrew M. Cuomo,WEP,2
+Madison,City of Oneida 6,Governor,,Andrew M. Cuomo,WEP,5
+Madison,Town of Brookfield 1,Governor,,Andrew M. Cuomo,WEP,1
+Madison,Town of Brookfield 2,Governor,,Andrew M. Cuomo,WEP,4
+Madison,Town of Brookfield 3,Governor,,Andrew M. Cuomo,WEP,0
+Madison,Town of Cazenovia 1,Governor,,Andrew M. Cuomo,WEP,3
+Madison,Town of Cazenovia 2,Governor,,Andrew M. Cuomo,WEP,6
+Madison,Town of Cazenovia 3,Governor,,Andrew M. Cuomo,WEP,6
+Madison,Town of Cazenovia 4,Governor,,Andrew M. Cuomo,WEP,10
+Madison,Town of Cazenovia 5,Governor,,Andrew M. Cuomo,WEP,6
+Madison,Town of Cazenovia 6,Governor,,Andrew M. Cuomo,WEP,1
+Madison,Town of DeRuyter 1,Governor,,Andrew M. Cuomo,WEP,3
+Madison,Town of Eaton 1,Governor,,Andrew M. Cuomo,WEP,8
+Madison,Town of Eaton 2,Governor,,Andrew M. Cuomo,WEP,7
+Madison,Town of Fenner 1,Governor,,Andrew M. Cuomo,WEP,3
+Madison,Town of Georgetown 1,Governor,,Andrew M. Cuomo,WEP,0
+Madison,Town of Hamilton 1,Governor,,Andrew M. Cuomo,WEP,7
+Madison,Town of Hamilton 2,Governor,,Andrew M. Cuomo,WEP,8
+Madison,Town of Hamilton 3,Governor,,Andrew M. Cuomo,WEP,2
+Madison,Town of Hamilton 4,Governor,,Andrew M. Cuomo,WEP,4
+Madison,Town of Lebanon 1,Governor,,Andrew M. Cuomo,WEP,1
+Madison,Town of Lebanon 2,Governor,,Andrew M. Cuomo,WEP,4
+Madison,Town of Lenox 1,Governor,,Andrew M. Cuomo,WEP,5
+Madison,Town of Lenox 2,Governor,,Andrew M. Cuomo,WEP,4
+Madison,Town of Lenox 3,Governor,,Andrew M. Cuomo,WEP,5
+Madison,Town of Lenox 4,Governor,,Andrew M. Cuomo,WEP,4
+Madison,Town of Lenox 5,Governor,,Andrew M. Cuomo,WEP,7
+Madison,Town of Lenox 6,Governor,,Andrew M. Cuomo,WEP,1
+Madison,Town of Lincoln 1,Governor,,Andrew M. Cuomo,WEP,2
+Madison,Town of Lincoln 2,Governor,,Andrew M. Cuomo,WEP,2
+Madison,Town of Madison 1,Governor,,Andrew M. Cuomo,WEP,3
+Madison,Town of Madison 2,Governor,,Andrew M. Cuomo,WEP,0
+Madison,Town of Nelson 1,Governor,,Andrew M. Cuomo,WEP,6
+Madison,Town of Nelson 2,Governor,,Andrew M. Cuomo,WEP,7
+Madison,Town of Smithfield 1,Governor,,Andrew M. Cuomo,WEP,3
+Madison,Town of Stockbridge 1,Governor,,Andrew M. Cuomo,WEP,5
+Madison,Town of Stockbridge 2,Governor,,Andrew M. Cuomo,WEP,4
+Madison,Town of Sullivan 1,Governor,,Andrew M. Cuomo,WEP,4
+Madison,Town of Sullivan 2,Governor,,Andrew M. Cuomo,WEP,1
+Madison,Town of Sullivan 3,Governor,,Andrew M. Cuomo,WEP,6
+Madison,Town of Sullivan 4,Governor,,Andrew M. Cuomo,WEP,0
+Madison,Town of Sullivan 5,Governor,,Andrew M. Cuomo,WEP,2
+Madison,Town of Sullivan 6,Governor,,Andrew M. Cuomo,WEP,7
+Madison,Town of Sullivan 7,Governor,,Andrew M. Cuomo,WEP,0
+Madison,Town of Sullivan 8,Governor,,Andrew M. Cuomo,WEP,0
+Madison,Town of Sullivan 9,Governor,,Andrew M. Cuomo,WEP,3
+Madison,Town of Sullivan 10,Governor,,Andrew M. Cuomo,WEP,4
+Madison,Town of Sullivan 11,Governor,,Andrew M. Cuomo,WEP,5
+Madison,TOTAL,Governor,,Andrew M. Cuomo,WEP,205
+Madison,City of Oneida 1-1,Governor,,Steven Cohn,SAP,0
+Madison,City of Oneida 1-2,Governor,,Steven Cohn,SAP,1
+Madison,City of Oneida 2-1,Governor,,Steven Cohn,SAP,1
+Madison,City of Oneida 2-2,Governor,,Steven Cohn,SAP,0
+Madison,City of Oneida 3,Governor,,Steven Cohn,SAP,1
+Madison,City of Oneida 4,Governor,,Steven Cohn,SAP,0
+Madison,City of Oneida 5,Governor,,Steven Cohn,SAP,1
+Madison,City of Oneida 6,Governor,,Steven Cohn,SAP,3
+Madison,Town of Brookfield 1,Governor,,Steven Cohn,SAP,0
+Madison,Town of Brookfield 2,Governor,,Steven Cohn,SAP,1
+Madison,Town of Brookfield 3,Governor,,Steven Cohn,SAP,0
+Madison,Town of Cazenovia 1,Governor,,Steven Cohn,SAP,1
+Madison,Town of Cazenovia 2,Governor,,Steven Cohn,SAP,0
+Madison,Town of Cazenovia 3,Governor,,Steven Cohn,SAP,2
+Madison,Town of Cazenovia 4,Governor,,Steven Cohn,SAP,0
+Madison,Town of Cazenovia 5,Governor,,Steven Cohn,SAP,1
+Madison,Town of Cazenovia 6,Governor,,Steven Cohn,SAP,0
+Madison,Town of DeRuyter 1,Governor,,Steven Cohn,SAP,1
+Madison,Town of Eaton 1,Governor,,Steven Cohn,SAP,1
+Madison,Town of Eaton 2,Governor,,Steven Cohn,SAP,2
+Madison,Town of Fenner 1,Governor,,Steven Cohn,SAP,0
+Madison,Town of Georgetown 1,Governor,,Steven Cohn,SAP,0
+Madison,Town of Hamilton 1,Governor,,Steven Cohn,SAP,0
+Madison,Town of Hamilton 2,Governor,,Steven Cohn,SAP,1
+Madison,Town of Hamilton 3,Governor,,Steven Cohn,SAP,1
+Madison,Town of Hamilton 4,Governor,,Steven Cohn,SAP,1
+Madison,Town of Lebanon 1,Governor,,Steven Cohn,SAP,0
+Madison,Town of Lebanon 2,Governor,,Steven Cohn,SAP,0
+Madison,Town of Lenox 1,Governor,,Steven Cohn,SAP,0
+Madison,Town of Lenox 2,Governor,,Steven Cohn,SAP,0
+Madison,Town of Lenox 3,Governor,,Steven Cohn,SAP,2
+Madison,Town of Lenox 4,Governor,,Steven Cohn,SAP,0
+Madison,Town of Lenox 5,Governor,,Steven Cohn,SAP,1
+Madison,Town of Lenox 6,Governor,,Steven Cohn,SAP,0
+Madison,Town of Lincoln 1,Governor,,Steven Cohn,SAP,0
+Madison,Town of Lincoln 2,Governor,,Steven Cohn,SAP,1
+Madison,Town of Madison 1,Governor,,Steven Cohn,SAP,0
+Madison,Town of Madison 2,Governor,,Steven Cohn,SAP,1
+Madison,Town of Nelson 1,Governor,,Steven Cohn,SAP,0
+Madison,Town of Nelson 2,Governor,,Steven Cohn,SAP,0
+Madison,Town of Smithfield 1,Governor,,Steven Cohn,SAP,0
+Madison,Town of Stockbridge 1,Governor,,Steven Cohn,SAP,0
+Madison,Town of Stockbridge 2,Governor,,Steven Cohn,SAP,1
+Madison,Town of Sullivan 1,Governor,,Steven Cohn,SAP,1
+Madison,Town of Sullivan 2,Governor,,Steven Cohn,SAP,0
+Madison,Town of Sullivan 3,Governor,,Steven Cohn,SAP,0
+Madison,Town of Sullivan 4,Governor,,Steven Cohn,SAP,0
+Madison,Town of Sullivan 5,Governor,,Steven Cohn,SAP,0
+Madison,Town of Sullivan 6,Governor,,Steven Cohn,SAP,1
+Madison,Town of Sullivan 7,Governor,,Steven Cohn,SAP,1
+Madison,Town of Sullivan 8,Governor,,Steven Cohn,SAP,0
+Madison,Town of Sullivan 9,Governor,,Steven Cohn,SAP,1
+Madison,Town of Sullivan 10,Governor,,Steven Cohn,SAP,0
+Madison,Town of Sullivan 11,Governor,,Steven Cohn,SAP,0
+Madison,TOTAL,Governor,,Steven Cohn,SAP,29
+Madison,City of Oneida 1-1,State Senate,53,David J. Valesky,DEM,108
+Madison,City of Oneida 1-2,State Senate,53,David J. Valesky,DEM,131
+Madison,City of Oneida 2-1,State Senate,53,David J. Valesky,DEM,183
+Madison,City of Oneida 2-2,State Senate,53,David J. Valesky,DEM,169
+Madison,City of Oneida 3,State Senate,53,David J. Valesky,DEM,220
+Madison,City of Oneida 4,State Senate,53,David J. Valesky,DEM,121
+Madison,City of Oneida 5,State Senate,53,David J. Valesky,DEM,191
+Madison,City of Oneida 6,State Senate,53,David J. Valesky,DEM,134
+Madison,Town of Brookfield 1,State Senate,53,David J. Valesky,DEM,86
+Madison,Town of Brookfield 2,State Senate,53,David J. Valesky,DEM,138
+Madison,Town of Brookfield 3,State Senate,53,David J. Valesky,DEM,91
+Madison,Town of Cazenovia 1,State Senate,53,David J. Valesky,DEM,166
+Madison,Town of Cazenovia 2,State Senate,53,David J. Valesky,DEM,179
+Madison,Town of Cazenovia 3,State Senate,53,David J. Valesky,DEM,225
+Madison,Town of Cazenovia 4,State Senate,53,David J. Valesky,DEM,197
+Madison,Town of Cazenovia 5,State Senate,53,David J. Valesky,DEM,246
+Madison,Town of Cazenovia 6,State Senate,53,David J. Valesky,DEM,157
+Madison,Town of DeRuyter 1,State Senate,53,David J. Valesky,DEM,209
+Madison,Town of Eaton 1,State Senate,53,David J. Valesky,DEM,241
+Madison,Town of Eaton 2,State Senate,53,David J. Valesky,DEM,202
+Madison,Town of Fenner 1,State Senate,53,David J. Valesky,DEM,233
+Madison,Town of Georgetown 1,State Senate,53,David J. Valesky,DEM,70
+Madison,Town of Hamilton 1,State Senate,53,David J. Valesky,DEM,188
+Madison,Town of Hamilton 2,State Senate,53,David J. Valesky,DEM,284
+Madison,Town of Hamilton 3,State Senate,53,David J. Valesky,DEM,63
+Madison,Town of Hamilton 4,State Senate,53,David J. Valesky,DEM,190
+Madison,Town of Lebanon 1,State Senate,53,David J. Valesky,DEM,49
+Madison,Town of Lebanon 2,State Senate,53,David J. Valesky,DEM,123
+Madison,Town of Lenox 1,State Senate,53,David J. Valesky,DEM,220
+Madison,Town of Lenox 2,State Senate,53,David J. Valesky,DEM,126
+Madison,Town of Lenox 3,State Senate,53,David J. Valesky,DEM,199
+Madison,Town of Lenox 4,State Senate,53,David J. Valesky,DEM,153
+Madison,Town of Lenox 5,State Senate,53,David J. Valesky,DEM,244
+Madison,Town of Lenox 6,State Senate,53,David J. Valesky,DEM,89
+Madison,Town of Lincoln 1,State Senate,53,David J. Valesky,DEM,117
+Madison,Town of Lincoln 2,State Senate,53,David J. Valesky,DEM,108
+Madison,Town of Madison 1,State Senate,53,David J. Valesky,DEM,230
+Madison,Town of Madison 2,State Senate,53,David J. Valesky,DEM,194
+Madison,Town of Nelson 1,State Senate,53,David J. Valesky,DEM,157
+Madison,Town of Nelson 2,State Senate,53,David J. Valesky,DEM,176
+Madison,Town of Smithfield 1,State Senate,53,David J. Valesky,DEM,148
+Madison,Town of Stockbridge 1,State Senate,53,David J. Valesky,DEM,103
+Madison,Town of Stockbridge 2,State Senate,53,David J. Valesky,DEM,122
+Madison,Town of Sullivan 1,State Senate,53,David J. Valesky,DEM,291
+Madison,Town of Sullivan 2,State Senate,53,David J. Valesky,DEM,184
+Madison,Town of Sullivan 3,State Senate,53,David J. Valesky,DEM,171
+Madison,Town of Sullivan 4,State Senate,53,David J. Valesky,DEM,81
+Madison,Town of Sullivan 5,State Senate,53,David J. Valesky,DEM,207
+Madison,Town of Sullivan 6,State Senate,53,David J. Valesky,DEM,233
+Madison,Town of Sullivan 7,State Senate,53,David J. Valesky,DEM,173
+Madison,Town of Sullivan 8,State Senate,53,David J. Valesky,DEM,143
+Madison,Town of Sullivan 9,State Senate,53,David J. Valesky,DEM,123
+Madison,Town of Sullivan 10,State Senate,53,David J. Valesky,DEM,146
+Madison,Town of Sullivan 11,State Senate,53,David J. Valesky,DEM,124
+Madison,TOTAL,State Senate,53,David J. Valesky,DEM,8856
+Madison,City of Oneida 1-1,State Senate,53,David J. Valesky,IND,36
+Madison,City of Oneida 1-2,State Senate,53,David J. Valesky,IND,50
+Madison,City of Oneida 2-1,State Senate,53,David J. Valesky,IND,67
+Madison,City of Oneida 2-2,State Senate,53,David J. Valesky,IND,34
+Madison,City of Oneida 3,State Senate,53,David J. Valesky,IND,48
+Madison,City of Oneida 4,State Senate,53,David J. Valesky,IND,29
+Madison,City of Oneida 5,State Senate,53,David J. Valesky,IND,35
+Madison,City of Oneida 6,State Senate,53,David J. Valesky,IND,57
+Madison,Town of Brookfield 1,State Senate,53,David J. Valesky,IND,35
+Madison,Town of Brookfield 2,State Senate,53,David J. Valesky,IND,61
+Madison,Town of Brookfield 3,State Senate,53,David J. Valesky,IND,47
+Madison,Town of Cazenovia 1,State Senate,53,David J. Valesky,IND,65
+Madison,Town of Cazenovia 2,State Senate,53,David J. Valesky,IND,48
+Madison,Town of Cazenovia 3,State Senate,53,David J. Valesky,IND,67
+Madison,Town of Cazenovia 4,State Senate,53,David J. Valesky,IND,72
+Madison,Town of Cazenovia 5,State Senate,53,David J. Valesky,IND,89
+Madison,Town of Cazenovia 6,State Senate,53,David J. Valesky,IND,43
+Madison,Town of DeRuyter 1,State Senate,53,David J. Valesky,IND,89
+Madison,Town of Eaton 1,State Senate,53,David J. Valesky,IND,82
+Madison,Town of Eaton 2,State Senate,53,David J. Valesky,IND,82
+Madison,Town of Fenner 1,State Senate,53,David J. Valesky,IND,99
+Madison,Town of Georgetown 1,State Senate,53,David J. Valesky,IND,40
+Madison,Town of Hamilton 1,State Senate,53,David J. Valesky,IND,34
+Madison,Town of Hamilton 2,State Senate,53,David J. Valesky,IND,42
+Madison,Town of Hamilton 3,State Senate,53,David J. Valesky,IND,29
+Madison,Town of Hamilton 4,State Senate,53,David J. Valesky,IND,47
+Madison,Town of Lebanon 1,State Senate,53,David J. Valesky,IND,19
+Madison,Town of Lebanon 2,State Senate,53,David J. Valesky,IND,35
+Madison,Town of Lenox 1,State Senate,53,David J. Valesky,IND,74
+Madison,Town of Lenox 2,State Senate,53,David J. Valesky,IND,35
+Madison,Town of Lenox 3,State Senate,53,David J. Valesky,IND,45
+Madison,Town of Lenox 4,State Senate,53,David J. Valesky,IND,35
+Madison,Town of Lenox 5,State Senate,53,David J. Valesky,IND,70
+Madison,Town of Lenox 6,State Senate,53,David J. Valesky,IND,44
+Madison,Town of Lincoln 1,State Senate,53,David J. Valesky,IND,29
+Madison,Town of Lincoln 2,State Senate,53,David J. Valesky,IND,36
+Madison,Town of Madison 1,State Senate,53,David J. Valesky,IND,78
+Madison,Town of Madison 2,State Senate,53,David J. Valesky,IND,59
+Madison,Town of Nelson 1,State Senate,53,David J. Valesky,IND,66
+Madison,Town of Nelson 2,State Senate,53,David J. Valesky,IND,63
+Madison,Town of Smithfield 1,State Senate,53,David J. Valesky,IND,51
+Madison,Town of Stockbridge 1,State Senate,53,David J. Valesky,IND,34
+Madison,Town of Stockbridge 2,State Senate,53,David J. Valesky,IND,30
+Madison,Town of Sullivan 1,State Senate,53,David J. Valesky,IND,93
+Madison,Town of Sullivan 2,State Senate,53,David J. Valesky,IND,86
+Madison,Town of Sullivan 3,State Senate,53,David J. Valesky,IND,72
+Madison,Town of Sullivan 4,State Senate,53,David J. Valesky,IND,25
+Madison,Town of Sullivan 5,State Senate,53,David J. Valesky,IND,65
+Madison,Town of Sullivan 6,State Senate,53,David J. Valesky,IND,83
+Madison,Town of Sullivan 7,State Senate,53,David J. Valesky,IND,56
+Madison,Town of Sullivan 8,State Senate,53,David J. Valesky,IND,32
+Madison,Town of Sullivan 9,State Senate,53,David J. Valesky,IND,52
+Madison,Town of Sullivan 10,State Senate,53,David J. Valesky,IND,61
+Madison,Town of Sullivan 11,State Senate,53,David J. Valesky,IND,62
+Madison,TOTAL,State Senate,53,David J. Valesky,IND,2917
