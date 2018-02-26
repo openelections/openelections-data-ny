@@ -9,7 +9,7 @@ Pre-processed election results for New York. These CSV files are converted from 
 |---|---|---|
 | 2016  | done  |  [working](https://github.com/openelections/openelections-data-ny/issues/5) |
 | 2014 |  [working](https://github.com/openelections/openelections-data-ny/issues/35) | [not started](https://github.com/openelections/openelections-data-ny/issues/39)  |
-| 2012  |  [not started](https://github.com/openelections/openelections-data-ny/issues/37) | [not started](https://github.com/openelections/openelections-data-ny/issues/38) |
+| 2012  |  [working](https://github.com/openelections/openelections-data-ny/issues/37) | [not started](https://github.com/openelections/openelections-data-ny/issues/38) |
 | 2010  |  not started | not started |
 | 2008  |  not started | not started |
 
