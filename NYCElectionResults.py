@@ -20,6 +20,9 @@ from tqdm import tqdm
 
 SPECIAL_TYPES = ['Absentee / Military',
                  'Public Counter',
+                 'Emergency',
+                 'Absentee/Military',
+                 'Federal',
                  'Scattered',
                  'Manually Counted Emergency',
                  'Affidavit',
@@ -29,7 +32,7 @@ SPECIAL_TYPES = ['Absentee / Military',
 
 def download_parse():
     logging.info("Downloading current Election Results index page.")
-    url = "http://vote.nyc.ny.us/html/results/results.shtml"
+    url = "http://vote.nyc.ny.us/html/results/2014.shtml"
     response = get(url)
     logging.info(
         "Got {:0,.0f} kb, parsing.".format(
@@ -84,7 +87,7 @@ def get_date(row):
 
 
 def get_election_type(row):
-    m = re.match(r'(.*) Election - (\d{2})/(\d{2})/(\d{4})', row['Event'])
+    m = re.match(r'(.*) Election \d\d\d\d - (\d{2})/(\d{2})/(\d{4})', row['Event'])
     if m:
         return m.group(1).lower()
     else:
