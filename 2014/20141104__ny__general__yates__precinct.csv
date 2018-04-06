@@ -17,7 +17,7 @@ Yates,Potter 1,Governor,,DEM,Andrew M. Cuomo,50
 Yates,Starkey 1,Governor,,DEM,Andrew M. Cuomo,103
 Yates,Starkey 2,Governor,,DEM,Andrew M. Cuomo,89
 Yates,Torrey 1,Governor,,DEM,Andrew M. Cuomo,142
-Yates,Total,Governor,,DEM,Andrew M. Cuomo,"1,827"
+Yates,Total,Governor,,DEM,Andrew M. Cuomo,1827
 Yates,Barrington 1,Governor,,WF,Andrew M. Cuomo,4
 Yates,Benton 1,Governor,,WF,Andrew M. Cuomo,1
 Yates,Benton 2,Governor,,WF,Andrew M. Cuomo,5
@@ -93,7 +93,7 @@ Yates,Potter 1,Governor,,REP,Rob Astorino,277
 Yates,Starkey 1,Governor,,REP,Rob Astorino,170
 Yates,Starkey 2,Governor,,REP,Rob Astorino,216
 Yates,Torrey 1,Governor,,REP,Rob Astorino,170
-Yates,Total,Governor,,REP,Rob Astorino,"3,370"
+Yates,Total,Governor,,REP,Rob Astorino,3370
 Yates,Barrington 1,Governor,,CON,Rob Astorino,26
 Yates,Benton 1,Governor,,CON,Rob Astorino,26
 Yates,Benton 2,Governor,,CON,Rob Astorino,26
@@ -226,7 +226,7 @@ Yates,Potter 1,Comptroller,,DEM,Thomas P. DiNapoli,70
 Yates,Starkey 1,Comptroller,,DEM,Thomas P. DiNapoli,114
 Yates,Starkey 2,Comptroller,,DEM,Thomas P. DiNapoli,114
 Yates,Torrey 1,Comptroller,,DEM,Thomas P. DiNapoli,162
-Yates,Total,Comptroller,,DEM,Thomas P. DiNapoli,"2,144"
+Yates,Total,Comptroller,,DEM,Thomas P. DiNapoli,2144
 Yates,Barrington 1,Comptroller,,WF,Thomas P. DiNapoli,10
 Yates,Benton 1,Comptroller,,WF,Thomas P. DiNapoli,5
 Yates,Benton 2,Comptroller,,WF,Thomas P. DiNapoli,9
@@ -283,7 +283,7 @@ Yates,Potter 1,Comptroller,,REP,Robert Antonacci,241
 Yates,Starkey 1,Comptroller,,REP,Robert Antonacci,155
 Yates,Starkey 2,Comptroller,,REP,Robert Antonacci,177
 Yates,Torrey 1,Comptroller,,REP,Robert Antonacci,133
-Yates,Total,Comptroller,,REP,Robert Antonacci,"2,907"
+Yates,Total,Comptroller,,REP,Robert Antonacci,2907
 Yates,Barrington 1,Comptroller,,CON,Robert Antonacci,28
 Yates,Benton 1,Comptroller,,CON,Robert Antonacci,28
 Yates,Benton 2,Comptroller,,CON,Robert Antonacci,33
@@ -378,7 +378,7 @@ Yates,Potter 1,Attorney General,,DEM,Eric T. Schneiderman,55
 Yates,Starkey 1,Attorney General,,DEM,Eric T. Schneiderman,104
 Yates,Starkey 2,Attorney General,,DEM,Eric T. Schneiderman,95
 Yates,Torrey 1,Attorney General,,DEM,Eric T. Schneiderman,135
-Yates,Total,Attorney General,,DEM,Eric T. Schneiderman,"1,880"
+Yates,Total,Attorney General,,DEM,Eric T. Schneiderman,1880
 Yates,Barrington 1,Attorney General,,WF,Eric T. Schneiderman,8
 Yates,Benton 1,Attorney General,,WF,Eric T. Schneiderman,5
 Yates,Benton 2,Attorney General,,WF,Eric T. Schneiderman,10
@@ -435,7 +435,7 @@ Yates,Potter 1,Attorney General,,REP,John Cahill,257
 Yates,Starkey 1,Attorney General,,REP,John Cahill,155
 Yates,Starkey 2,Attorney General,,REP,John Cahill,206
 Yates,Torrey 1,Attorney General,,REP,John Cahill,168
-Yates,Total,Attorney General,,REP,John Cahill,"3,275"
+Yates,Total,Attorney General,,REP,John Cahill,3275
 Yates,Barrington 1,Attorney General,,CON,John Cahill,30
 Yates,Benton 1,Attorney General,,CON,John Cahill,30
 Yates,Benton 2,Attorney General,,CON,John Cahill,40
@@ -530,7 +530,7 @@ Yates,Potter 1,U.S. House,23,DEM,Martha Robertson,51
 Yates,Starkey 1,U.S. House,23,DEM,Martha Robertson,103
 Yates,Starkey 2,U.S. House,23,DEM,Martha Robertson,108
 Yates,Torrey 1,U.S. House,23,DEM,Martha Robertson,141
-Yates,Total,U.S. House,23,DEM,Martha Robertson,"2,050"
+Yates,Total,U.S. House,23,DEM,Martha Robertson,2050
 Yates,Barrington 1,U.S. House,23,WF,Martha Robertson,18
 Yates,Benton 1,U.S. House,23,WF,Martha Robertson,11
 Yates,Benton 2,U.S. House,23,WF,Martha Robertson,13
@@ -568,7 +568,7 @@ Yates,Potter 1,U.S. House,23,REP,Thomas W. Reed II,286
 Yates,Starkey 1,U.S. House,23,REP,Thomas W. Reed II,177
 Yates,Starkey 2,U.S. House,23,REP,Thomas W. Reed II,227
 Yates,Torrey 1,U.S. House,23,REP,Thomas W. Reed II,174
-Yates,Total,U.S. House,23,REP,Thomas W. Reed II,"3,404"
+Yates,Total,U.S. House,23,REP,Thomas W. Reed II,3404
 Yates,Barrington 1,U.S. House,23,CON,Thomas W. Reed II,27
 Yates,Benton 1,U.S. House,23,CON,Thomas W. Reed II,27
 Yates,Benton 2,U.S. House,23,CON,Thomas W. Reed II,32
@@ -644,7 +644,7 @@ Yates,Potter 1,State Senate,58,REP,Thomas F. O'Mara,283
 Yates,Starkey 1,State Senate,58,REP,Thomas F. O'Mara,213
 Yates,Starkey 2,State Senate,58,REP,Thomas F. O'Mara,262
 Yates,Torrey 1,State Senate,58,REP,Thomas F. O'Mara,213
-Yates,Total,State Senate,58,REP,Thomas F. O'Mara,"4,008"
+Yates,Total,State Senate,58,REP,Thomas F. O'Mara,4008
 Yates,Barrington 1,State Senate,58,CON,Thomas F. O'Mara,36
 Yates,Benton 1,State Senate,58,CON,Thomas F. O'Mara,30
 Yates,Benton 2,State Senate,58,CON,Thomas F. O'Mara,44
@@ -720,7 +720,7 @@ Yates,Potter 1,State Assembly,132,REP,Phillip A. Palmesano,284
 Yates,Starkey 1,State Assembly,132,REP,Phillip A. Palmesano,206
 Yates,Starkey 2,State Assembly,132,REP,Phillip A. Palmesano,254
 Yates,Torrey 1,State Assembly,132,REP,Phillip A. Palmesano,216
-Yates,Total,State Assembly,132,REP,Phillip A. Palmesano,"3,984"
+Yates,Total,State Assembly,132,REP,Phillip A. Palmesano,3984
 Yates,Barrington 1,State Assembly,132,CON,Phillip A. Palmesano,37
 Yates,Benton 1,State Assembly,132,CON,Phillip A. Palmesano,31
 Yates,Benton 2,State Assembly,132,CON,Phillip A. Palmesano,39
