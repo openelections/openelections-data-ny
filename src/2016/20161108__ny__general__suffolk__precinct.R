@@ -84,6 +84,11 @@ pres = drop_rows(pres, 'Total for', 0, 0)
 pres = add_candidates(pres, pres_cand)
 pres = create_precinct(pres)
 pres[, office := 'President']
+# Shelter Island precinct numbers are missing, only on the presidential sheet
+pres[row == 923, precinct := paste(precinct, '01')]
+pres[row == 924, precinct := paste(precinct, '02')]
+pres[row == 925, precinct := paste(precinct, '03')]
+pres[row == 926, precinct := paste(precinct, '04')]
 
 # Parse sheet of Senate returns
 sen = d[sheet == 'USS' & row <= 1091]
