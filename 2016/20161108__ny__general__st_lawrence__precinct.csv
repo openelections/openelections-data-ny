@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,total,machine_votes,absentee,absentee_hc,affidavit
+county,precinct,office,district,party,candidate,votes,machine_votes,absentee,absentee_hc,affidavit
 St. Lawrence,Brasher 1,,,,Ballots Cast,374,353,17,,4
 St. Lawrence,Brasher 2,,,,Ballots Cast,519,479,28,,12
 St. Lawrence,Canton 1,,,,Ballots Cast,654,570,70,,14
