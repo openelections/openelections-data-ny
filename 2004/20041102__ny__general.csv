@@ -1,57 +1,57 @@
 county,office,district,party,candidate,votes
-Albany ,President,,DEM,Kerry/Edwards,86213
-Albany ,President,,REP,Bush/Cheney,52369
-Albany ,President,,WOR,Kerry/Edwards,3110
-Albany ,President,,IND,Nader/Camejo,2145
-Albany ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",1026
-Albany ,President,,PCE,Nader/Camejo,478
-Albany ,President,,LIB,Badnarik/Campagna,319
-Albany ,President,,SOC,Calero/Hawkins,51
-Albany ,President,,Write-in,David Cobb,8
-Albany ,President,,Write-in,Michael A. Peroutka,3
-Albany ,President,,Write-in,Michael Halpin,0
-Albany ,President,,Write-in,John Joseph Kennedy,0
-Albany ,President,,Write-in,Bill Van Auken,0
-Allegany ,President,,REP,Bush/Cheney,11894
-Allegany ,President,,DEM,Kerry/Edwards,6392
-Allegany ,President,,CON,Bush/Cheney,416
-Allegany ,President,,IND,Nader/Camejo,288
-Allegany ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",162
-Allegany ,President,,LIB,Badnarik/Campagna,55
-Allegany ,President,,PCE,Nader/Camejo,44
-Allegany ,President,,SOC,Calero/Hawkins,7
-Allegany ,President,,Write-in,David Cobb,0
-Allegany ,President,,Write-in,Michael Halpin,0
-Allegany ,President,,Write-in,John Joseph Kennedy,0
-Allegany ,President,,Write-in,Michael A. Peroutka,0
-Allegany ,President,,Write-in,Bill Van Auken,0
-Bronx ,President,,DEM,Kerry/Edwards,276938
-Bronx ,President,,REP,Bush/Cheney,53738
-Bronx ,President,,WOR,Kerry/Edwards,7056
-Bronx ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",4203
-Bronx ,President,,CON,Bush/Cheney,2963
-Bronx ,President,,IND,Nader/Camejo,1567
-Bronx ,President,,PCE,Nader/Camejo,406
-Bronx ,President,,LIB,Badnarik/Campagna,140
-Bronx ,President,,SOC,Calero/Hawkins,121
-Bronx ,President,,Write-in,David Cobb,0
-Bronx ,President,,Write-in,Michael Halpin,0
-Bronx ,President,,Write-in,John Joseph Kennedy,0
-Bronx ,President,,Write-in,Michael A. Peroutka,0
-Bronx ,President,,Write-in,Bill Van Auken,0
-Broome ,President,,DEM,Kerry/Edwards,44496
-Broome ,President,,REP,Bush/Cheney,42100
-Broome ,President,,WOR,Kerry/Edwards,1785
-Broome ,President,,CON,Bush/Cheney,1468
-Broome ,President,,IND,Nader/Camejo,1450
-Broome ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",714
-Broome ,President,,LIB,Badnarik/Campagna,249
-Broome ,President,,SOC,Calero/Hawkins,34
-Broome ,President,,Write-in,Michael A. Peroutka,16
-Broome ,President,,Write-in,David Cobb,0
-Broome ,President,,Write-in,Michael Halpin,0
-Broome ,President,,Write-in,John Joseph Kennedy,0
-Broome ,President,,Write-in,Bill Van Auken,0
+Albany,President,,DEM,Kerry/Edwards,86213
+Albany,President,,REP,Bush/Cheney,52369
+Albany,President,,WOR,Kerry/Edwards,3110
+Albany,President,,IND,Nader/Camejo,2145
+Albany,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",1026
+Albany,President,,PCE,Nader/Camejo,478
+Albany,President,,LIB,Badnarik/Campagna,319
+Albany,President,,SOC,Calero/Hawkins,51
+Albany,President,,Write-in,David Cobb,8
+Albany,President,,Write-in,Michael A. Peroutka,3
+Albany,President,,Write-in,Michael Halpin,0
+Albany,President,,Write-in,John Joseph Kennedy,0
+Albany,President,,Write-in,Bill Van Auken,0
+Allegany,President,,REP,Bush/Cheney,11894
+Allegany,President,,DEM,Kerry/Edwards,6392
+Allegany,President,,CON,Bush/Cheney,416
+Allegany,President,,IND,Nader/Camejo,288
+Allegany,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",162
+Allegany,President,,LIB,Badnarik/Campagna,55
+Allegany,President,,PCE,Nader/Camejo,44
+Allegany,President,,SOC,Calero/Hawkins,7
+Allegany,President,,Write-in,David Cobb,0
+Allegany,President,,Write-in,Michael Halpin,0
+Allegany,President,,Write-in,John Joseph Kennedy,0
+Allegany,President,,Write-in,Michael A. Peroutka,0
+Allegany,President,,Write-in,Bill Van Auken,0
+Bronx,President,,DEM,Kerry/Edwards,276938
+Bronx,President,,REP,Bush/Cheney,53738
+Bronx,President,,WOR,Kerry/Edwards,7056
+Bronx,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",4203
+Bronx,President,,CON,Bush/Cheney,2963
+Bronx,President,,IND,Nader/Camejo,1567
+Bronx,President,,PCE,Nader/Camejo,406
+Bronx,President,,LIB,Badnarik/Campagna,140
+Bronx,President,,SOC,Calero/Hawkins,121
+Bronx,President,,Write-in,David Cobb,0
+Bronx,President,,Write-in,Michael Halpin,0
+Bronx,President,,Write-in,John Joseph Kennedy,0
+Bronx,President,,Write-in,Michael A. Peroutka,0
+Bronx,President,,Write-in,Bill Van Auken,0
+Broome,President,,DEM,Kerry/Edwards,44496
+Broome,President,,REP,Bush/Cheney,42100
+Broome,President,,WOR,Kerry/Edwards,1785
+Broome,President,,CON,Bush/Cheney,1468
+Broome,President,,IND,Nader/Camejo,1450
+Broome,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",714
+Broome,President,,LIB,Badnarik/Campagna,249
+Broome,President,,SOC,Calero/Hawkins,34
+Broome,President,,Write-in,Michael A. Peroutka,16
+Broome,President,,Write-in,David Cobb,0
+Broome,President,,Write-in,Michael Halpin,0
+Broome,President,,Write-in,John Joseph Kennedy,0
+Broome,President,,Write-in,Bill Van Auken,0
 Cattaraugus,President,,REP,Bush/Cheney,19028
 Cattaraugus,President,,DEM,Kerry/Edwards,13087
 Cattaraugus,President,,CON,Bush/Cheney,1023
@@ -65,19 +65,19 @@ Cattaraugus,President,,Write-in,David Cobb,1
 Cattaraugus,President,,Write-in,Michael Halpin,0
 Cattaraugus,President,,Write-in,John Joseph Kennedy,0
 Cattaraugus,President,,Write-in,Bill Van Auken,0
-Cayuga ,President,,DEM,Kerry/Edwards,16913
-Cayuga ,President,,REP,Bush/Cheney,16626
-Cayuga ,President,,CON,Bush/Cheney,1117
-Cayuga ,President,,WOR,Kerry/Edwards,621
-Cayuga ,President,,IND,Nader/Camejo,565
-Cayuga ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",334
-Cayuga ,President,,PCE,Nader/Camejo,116
-Cayuga ,President,,SOC,Calero/Hawkins,12
-Cayuga ,President,,Write-in,David Cobb,0
-Cayuga ,President,,Write-in,Michael Halpin,0
-Cayuga ,President,,Write-in,John Joseph Kennedy,0
-Cayuga ,President,,Write-in,Michael A. Peroutka,0
-Cayuga ,President,,Write-in,Bill Van Auken,0
+Cayuga,President,,DEM,Kerry/Edwards,16913
+Cayuga,President,,REP,Bush/Cheney,16626
+Cayuga,President,,CON,Bush/Cheney,1117
+Cayuga,President,,WOR,Kerry/Edwards,621
+Cayuga,President,,IND,Nader/Camejo,565
+Cayuga,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",334
+Cayuga,President,,PCE,Nader/Camejo,116
+Cayuga,President,,SOC,Calero/Hawkins,12
+Cayuga,President,,Write-in,David Cobb,0
+Cayuga,President,,Write-in,Michael Halpin,0
+Cayuga,President,,Write-in,John Joseph Kennedy,0
+Cayuga,President,,Write-in,Michael A. Peroutka,0
+Cayuga,President,,Write-in,Bill Van Auken,0
 Chautauqua,President,,REP,Bush/Cheney,30734
 Chautauqua,President,,DEM,Kerry/Edwards,26369
 Chautauqua,President,,CON,Bush/Cheney,1700
@@ -91,285 +91,285 @@ Chautauqua,President,,Write-in,Michael Halpin,0
 Chautauqua,President,,Write-in,John Joseph Kennedy,0
 Chautauqua,President,,Write-in,Michael A. Peroutka,0
 Chautauqua,President,,Write-in,Bill Van Auken,0
-Chemung ,President,,REP,Bush/Cheney,20742
-Chemung ,President,,DEM,Kerry/Edwards,16639
-Chemung ,President,,CON,Bush/Cheney,579
-Chemung ,President,,IND,Nader/Camejo,512
-Chemung ,President,,WOR,Kerry/Edwards,441
-Chemung ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",268
-Chemung ,President,,PCE,Nader/Camejo,87
-Chemung ,President,,LIB,Badnarik/Campagna,71
-Chemung ,President,,SOC,Calero/Hawkins,4
-Chemung ,President,,Write-in,David Cobb,0
-Chemung ,President,,Write-in,John Joseph Kennedy,0
-Chemung ,President,,Write-in,Michael A. Peroutka,0
-Chemung ,President,,Write-in,Bill Van Auken,0
-Chenango ,President,,REP,Bush/Cheney,11144
-Chenango ,President,,DEM,Kerry/Edwards,9003
-Chenango ,President,,CON,Bush/Cheney,438
-Chenango ,President,,IND,Nader/Camejo,349
-Chenango ,President,,WOR,Kerry/Edwards,274
-Chenango ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",153
-Chenango ,President,,PCE,Nader/Camejo,69
-Chenango ,President,,LIB,Badnarik/Campagna,47
-Chenango ,President,,SOC,Calero/Hawkins,9
-Chenango ,President,,Write-in,David Cobb,5
-Chenango ,President,,Write-in,Michael A. Peroutka,3
-Chenango ,President,,Write-in,Michael Halpin,0
-Chenango ,President,,Write-in,John Joseph Kennedy,0
-Chenango ,President,,Write-in,Bill Van Auken,0
-Clinton ,President,,DEM,Kerry/Edwards,17040
-Clinton ,President,,REP,Bush/Cheney,14633
-Clinton ,President,,CON,Bush/Cheney,697
-Clinton ,President,,IND,Nader/Camejo,597
-Clinton ,President,,WOR,Kerry/Edwards,584
-Clinton ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",261
-Clinton ,President,,PCE,Nader/Camejo,91
-Clinton ,President,,LIB,Badnarik/Campagna,73
-Clinton ,President,,SOC,Calero/Hawkins,19
-Clinton ,President,,Write-in,David Cobb,2
-Clinton ,President,,Write-in,Michael Halpin,0
-Clinton ,President,,Write-in,John Joseph Kennedy,0
-Clinton ,President,,Write-in,Michael A. Peroutka,0
-Clinton ,President,,Write-in,Bill Van Auken,0
-Columbia ,President,,DEM,Kerry/Edwards,15238
-Columbia ,President,,REP,Bush/Cheney,13325
-Columbia ,President,,CON,Bush/Cheney,1132
-Columbia ,President,,WOR,Kerry/Edwards,691
-Columbia ,President,,IND,Nader/Camejo,535
-Columbia ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",223
-Columbia ,President,,PCE,Nader/Camejo,93
-Columbia ,President,,LIB,Badnarik/Campagna,66
-Columbia ,President,,SOC,Calero/Hawkins,23
-Columbia ,President,,Write-in,David Cobb,0
-Columbia ,President,,Write-in,Michael Halpin,0
-Columbia ,President,,Write-in,John Joseph Kennedy,0
-Columbia ,President,,Write-in,Michael A. Peroutka,0
-Columbia ,President,,Write-in,Bill Van Auken,0
-Cortland ,President,,REP,Bush/Cheney,11085
-Cortland ,President,,DEM,Kerry/Edwards,10354
-Cortland ,President,,CON,Bush/Cheney,528
-Cortland ,President,,IND,Nader/Camejo,362
-Cortland ,President,,WOR,Kerry/Edwards,316
-Cortland ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",137
-Cortland ,President,,PCE,Nader/Camejo,57
-Cortland ,President,,LIB,Badnarik/Campagna,42
-Cortland ,President,,SOC,Calero/Hawkins,12
-Cortland ,President,,Write-in,Michael A. Peroutka,3
-Cortland ,President,,Write-in,David Cobb,1
-Cortland ,President,,Write-in,Michael Halpin,0
-Cortland ,President,,Write-in,John Joseph Kennedy,0
-Cortland ,President,,Write-in,Bill Van Auken,0
-Delaware ,President,,REP,Bush/Cheney,11474
-Delaware ,President,,DEM,Kerry/Edwards,8425
-Delaware ,President,,CON,Bush/Cheney,484
-Delaware ,President,,IND,Nader/Camejo,360
-Delaware ,President,,WOR,Kerry/Edwards,299
-Delaware ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",125
-Delaware ,President,,PCE,Nader/Camejo,65
-Delaware ,President,,LIB,Badnarik/Campagna,43
-Delaware ,President,,SOC,Calero/Hawkins,16
-Delaware ,President,,Write-in,David Cobb,1
-Delaware ,President,,Write-in,Michael Halpin,0
-Delaware ,President,,Write-in,John Joseph Kennedy,0
-Delaware ,President,,Write-in,Michael A. Peroutka,0
-Delaware ,President,,Write-in,Bill Van Auken,0
-Dutchess ,President,,REP,Bush/Cheney,59323
-Dutchess ,President,,DEM,Kerry/Edwards,56533
-Dutchess ,President,,CON,Bush/Cheney,4049
-Dutchess ,President,,WOR,Kerry/Edwards,1699
-Dutchess ,President,,IND,Nader/Camejo,1647
-Dutchess ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",639
-Dutchess ,President,,PCE,Nader/Camejo,321
-Dutchess ,President,,LIB,Badnarik/Campagna,245
-Dutchess ,President,,SOC,Calero/Hawkins,58
-Dutchess ,President,,Write-in,Michael A. Peroutka,6
-Dutchess ,President,,Write-in,David Cobb,0
-Dutchess ,President,,Write-in,Michael Halpin,0
-Dutchess ,President,,Write-in,John Joseph Kennedy,0
-Dutchess ,President,,Write-in,Bill Van Auken,0
-Erie ,President,,DEM,Kerry/Edwards,240563
-Erie ,President,,REP,Bush/Cheney,173198
-Erie ,President,,CON,Bush/Cheney,11225
-Erie ,President,,WOR,Kerry/Edwards,10527
-Erie ,President,,IND,Nader/Camejo,7459
-Erie ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",3129
-Erie ,President,,PCE,Nader/Camejo,1160
-Erie ,President,,LIB,Badnarik/Campagna,786
-Erie ,President,,SOC,Calero/Hawkins,168
-Erie ,President,,Write-in,Michael A. Peroutka,34
-Erie ,President,,Write-in,David Cobb,18
-Erie ,President,,Write-in,Michael Halpin,0
-Erie ,President,,Write-in,John Joseph Kennedy,0
-Erie ,President,,Write-in,Bill Van Auken,0
-Essex ,President,,REP,Bush/Cheney,9390
-Essex ,President,,DEM,Kerry/Edwards,8474
-Essex ,President,,CON,Bush/Cheney,479
-Essex ,President,,IND,Nader/Camejo,341
-Essex ,President,,WOR,Kerry/Edwards,294
-Essex ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",218
-Essex ,President,,PCE,Nader/Camejo,57
-Essex ,President,,LIB,Badnarik/Campagna,37
-Essex ,President,,Write-in,Michael A. Peroutka,6
-Essex ,President,,SOC,Calero/Hawkins,4
-Essex ,President,,Write-in,David Cobb,0
-Essex ,President,,Write-in,Michael Halpin,0
-Essex ,President,,Write-in,John Joseph Kennedy,0
-Essex ,President,,Write-in,Bill Van Auken,0
-Franklin ,President,,DEM,Kerry/Edwards,9286
-Franklin ,President,,REP,Bush/Cheney,8103
-Franklin ,President,,IND,Nader/Camejo,314
-Franklin ,President,,CON,Bush/Cheney,280
-Franklin ,President,,WOR,Kerry/Edwards,257
-Franklin ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",237
-Franklin ,President,,PCE,Nader/Camejo,42
-Franklin ,President,,LIB,Badnarik/Campagna,24
-Franklin ,President,,SOC,Calero/Hawkins,6
-Franklin ,President,,Write-in,Michael A. Peroutka,3
-Franklin ,President,,Write-in,David Cobb,1
-Franklin ,President,,Write-in,Michael Halpin,0
-Franklin ,President,,Write-in,John Joseph Kennedy,0
-Franklin ,President,,Write-in,Bill Van Auken,0
-Fulton ,President,,REP,Bush/Cheney,12042
-Fulton ,President,,DEM,Kerry/Edwards,8919
-Fulton ,President,,CON,Bush/Cheney,528
-Fulton ,President,,IND,Nader/Camejo,350
-Fulton ,President,,WOR,Kerry/Edwards,283
-Fulton ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",113
-Fulton ,President,,PCE,Nader/Camejo,53
-Fulton ,President,,LIB,Badnarik/Campagna,37
-Fulton ,President,,SOC,Calero/Hawkins,3
-Fulton ,President,,Write-in,David Cobb,0
-Fulton ,President,,Write-in,Michael Halpin,0
-Fulton ,President,,Write-in,John Joseph Kennedy,0
-Fulton ,President,,Write-in,Michael A. Peroutka,0
-Fulton ,President,,Write-in,Bill Van Auken,0
-Genesee ,President,,REP,Bush/Cheney,15701
-Genesee ,President,,DEM,Kerry/Edwards,9970
-Genesee ,President,,CON,Bush/Cheney,1024
-Genesee ,President,,IND,Nader/Camejo,379
-Genesee ,President,,WOR,Kerry/Edwards,361
-Genesee ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",169
-Genesee ,President,,PCE,Nader/Camejo,69
-Genesee ,President,,LIB,Badnarik/Campagna,67
-Genesee ,President,,SOC,Calero/Hawkins,9
-Genesee ,President,,Write-in,David Cobb,0
-Genesee ,President,,Write-in,Michael Halpin,0
-Genesee ,President,,Write-in,John Joseph Kennedy,0
-Genesee ,President,,Write-in,Michael A. Peroutka,0
-Genesee ,President,,Write-in,Bill Van Auken,0
-Greene ,President,,REP,Bush/Cheney,12159
-Greene ,President,,DEM,Kerry/Edwards,8607
-Greene ,President,,CON,Bush/Cheney,837
-Greene ,President,,WOR,Kerry/Edwards,326
-Greene ,President,,IND,Nader/Camejo,314
-Greene ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",215
-Greene ,President,,PCE,Nader/Camejo,77
-Greene ,President,,LIB,Badnarik/Campagna,45
-Greene ,President,,Write-in,Michael A. Peroutka,24
-Greene ,President,,SOC,Calero/Hawkins,7
-Greene ,President,,Write-in,David Cobb,2
-Greene ,President,,Write-in,Michael Halpin,0
-Greene ,President,,Write-in,John Joseph Kennedy,0
-Greene ,President,,Write-in,Bill Van Auken,0
-Hamilton ,President,,REP,Bush/Cheney,2358
-Hamilton ,President,,DEM,Kerry/Edwards,1120
-Hamilton ,President,,CON,Bush/Cheney,117
-Hamilton ,President,,IND,Nader/Camejo,50
-Hamilton ,President,,WOR,Kerry/Edwards,25
-Hamilton ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",24
-Hamilton ,President,,LIB,Badnarik/Campagna,13
-Hamilton ,President,,PCE,Nader/Camejo,8
-Hamilton ,President,,Write-in,Michael A. Peroutka,3
-Hamilton ,President,,SOC,Calero/Hawkins,1
-Hamilton ,President,,Write-in,David Cobb,0
-Hamilton ,President,,Write-in,Michael Halpin,0
-Hamilton ,President,,Write-in,John Joseph Kennedy,0
-Hamilton ,President,,Write-in,Bill Van Auken,0
-Herkimer ,President,,REP,Bush/Cheney,15265
-Herkimer ,President,,DEM,Kerry/Edwards,11383
-Herkimer ,President,,CON,Bush/Cheney,759
-Herkimer ,President,,IND,Nader/Camejo,467
-Herkimer ,President,,WOR,Kerry/Edwards,292
-Herkimer ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",207
-Herkimer ,President,,PCE,Nader/Camejo,89
-Herkimer ,President,,LIB,Badnarik/Campagna,47
-Herkimer ,President,,SOC,Calero/Hawkins,7
-Herkimer ,President,,Write-in,Michael A. Peroutka,1
-Herkimer ,President,,Write-in,David Cobb,0
-Herkimer ,President,,Write-in,Michael Halpin,0
-Herkimer ,President,,Write-in,John Joseph Kennedy,0
-Herkimer ,President,,Write-in,Bill Van Auken,0
-Jefferson ,President,,REP,Bush/Cheney,20248
-Jefferson ,President,,DEM,Kerry/Edwards,16342
-Jefferson ,President,,CON,Bush/Cheney,983
-Jefferson ,President,,IND,Nader/Camejo,573
-Jefferson ,President,,WOR,Kerry/Edwards,518
-Jefferson ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",365
-Jefferson ,President,,PCE,Nader/Camejo,79
-Jefferson ,President,,LIB,Badnarik/Campagna,52
-Jefferson ,President,,SOC,Calero/Hawkins,5
-Jefferson ,President,,Write-in,David Cobb,0
-Jefferson ,President,,Write-in,Michael Halpin,0
-Jefferson ,President,,Write-in,John Joseph Kennedy,0
-Jefferson ,President,,Write-in,Michael A. Peroutka,0
-Jefferson ,President,,Write-in,Bill Van Auken,0
-Kings ,President,,DEM,Kerry/Edwards,494165
-Kings ,President,,REP,Bush/Cheney,159200
-Kings ,President,,WOR,Kerry/Edwards,20808
-Kings ,President,,CON,Bush/Cheney,7949
-Kings ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",5924
-Kings ,President,,IND,Nader/Camejo,3678
-Kings ,President,,PCE,Nader/Camejo,1181
-Kings ,President,,LIB,Badnarik/Campagna,570
-Kings ,President,,SOC,Calero/Hawkins,229
-Kings ,President,,Write-in,David Cobb,0
-Kings ,President,,Write-in,Michael Halpin,0
-Kings ,President,,Write-in,John Joseph Kennedy,0
-Kings ,President,,Write-in,Michael A. Peroutka,0
-Kings ,President,,Write-in,Bill Van Auken,0
-Lewis ,President,,REP,Bush/Cheney,6348
-Lewis ,President,,DEM,Kerry/Edwards,4417
-Lewis ,President,,CON,Bush/Cheney,276
-Lewis ,President,,IND,Nader/Camejo,179
-Lewis ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",160
-Lewis ,President,,WOR,Kerry/Edwards,129
-Lewis ,President,,PCE,Nader/Camejo,32
-Lewis ,President,,LIB,Badnarik/Campagna,13
-Lewis ,President,,SOC,Calero/Hawkins,3
-Lewis ,President,,Write-in,David Cobb,0
-Lewis ,President,,Write-in,Michael Halpin,0
-Lewis ,President,,Write-in,John Joseph Kennedy,0
-Lewis ,President,,Write-in,Michael A. Peroutka,0
-Lewis ,President,,Write-in,Bill Van Auken,0
-Livingston ,President,,REP,Bush/Cheney,16885
-Livingston ,President,,DEM,Kerry/Edwards,11107
-Livingston ,President,,CON,Bush/Cheney,844
-Livingston ,President,,IND,Nader/Camejo,512
-Livingston ,President,,WOR,Kerry/Edwards,397
-Livingston ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",173
-Livingston ,President,,PCE,Nader/Camejo,108
-Livingston ,President,,LIB,Badnarik/Campagna,80
-Livingston ,President,,SOC,Calero/Hawkins,12
-Livingston ,President,,Write-in,Michael A. Peroutka,2
-Livingston ,President,,Write-in,David Cobb,1
-Livingston ,President,,Write-in,Michael Halpin,0
-Livingston ,President,,Write-in,John Joseph Kennedy,0
-Livingston ,President,,Write-in,Bill Van Auken,0
-Madison ,President,,REP,Bush/Cheney,15584
-Madison ,President,,DEM,Kerry/Edwards,12665
-Madison ,President,,CON,Bush/Cheney,953
-Madison ,President,,WOR,Kerry/Edwards,456
-Madison ,President,,IND,Nader/Camejo,454
-Madison ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",175
-Madison ,President,,PCE,Nader/Camejo,81
-Madison ,President,,LIB,Badnarik/Campagna,77
-Madison ,President,,SOC,Calero/Hawkins,11
-Madison ,President,,Write-in,Michael A. Peroutka,3
-Madison ,President,,Write-in,Michael Halpin,2
-Madison ,President,,Write-in,David Cobb,1
-Madison ,President,,Write-in,John Joseph Kennedy,0
-Madison ,President,,Write-in,Bill Van Auken,0
+Chemung,President,,REP,Bush/Cheney,20742
+Chemung,President,,DEM,Kerry/Edwards,16639
+Chemung,President,,CON,Bush/Cheney,579
+Chemung,President,,IND,Nader/Camejo,512
+Chemung,President,,WOR,Kerry/Edwards,441
+Chemung,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",268
+Chemung,President,,PCE,Nader/Camejo,87
+Chemung,President,,LIB,Badnarik/Campagna,71
+Chemung,President,,SOC,Calero/Hawkins,4
+Chemung,President,,Write-in,David Cobb,0
+Chemung,President,,Write-in,John Joseph Kennedy,0
+Chemung,President,,Write-in,Michael A. Peroutka,0
+Chemung,President,,Write-in,Bill Van Auken,0
+Chenango,President,,REP,Bush/Cheney,11144
+Chenango,President,,DEM,Kerry/Edwards,9003
+Chenango,President,,CON,Bush/Cheney,438
+Chenango,President,,IND,Nader/Camejo,349
+Chenango,President,,WOR,Kerry/Edwards,274
+Chenango,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",153
+Chenango,President,,PCE,Nader/Camejo,69
+Chenango,President,,LIB,Badnarik/Campagna,47
+Chenango,President,,SOC,Calero/Hawkins,9
+Chenango,President,,Write-in,David Cobb,5
+Chenango,President,,Write-in,Michael A. Peroutka,3
+Chenango,President,,Write-in,Michael Halpin,0
+Chenango,President,,Write-in,John Joseph Kennedy,0
+Chenango,President,,Write-in,Bill Van Auken,0
+Clinton,President,,DEM,Kerry/Edwards,17040
+Clinton,President,,REP,Bush/Cheney,14633
+Clinton,President,,CON,Bush/Cheney,697
+Clinton,President,,IND,Nader/Camejo,597
+Clinton,President,,WOR,Kerry/Edwards,584
+Clinton,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",261
+Clinton,President,,PCE,Nader/Camejo,91
+Clinton,President,,LIB,Badnarik/Campagna,73
+Clinton,President,,SOC,Calero/Hawkins,19
+Clinton,President,,Write-in,David Cobb,2
+Clinton,President,,Write-in,Michael Halpin,0
+Clinton,President,,Write-in,John Joseph Kennedy,0
+Clinton,President,,Write-in,Michael A. Peroutka,0
+Clinton,President,,Write-in,Bill Van Auken,0
+Columbia,President,,DEM,Kerry/Edwards,15238
+Columbia,President,,REP,Bush/Cheney,13325
+Columbia,President,,CON,Bush/Cheney,1132
+Columbia,President,,WOR,Kerry/Edwards,691
+Columbia,President,,IND,Nader/Camejo,535
+Columbia,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",223
+Columbia,President,,PCE,Nader/Camejo,93
+Columbia,President,,LIB,Badnarik/Campagna,66
+Columbia,President,,SOC,Calero/Hawkins,23
+Columbia,President,,Write-in,David Cobb,0
+Columbia,President,,Write-in,Michael Halpin,0
+Columbia,President,,Write-in,John Joseph Kennedy,0
+Columbia,President,,Write-in,Michael A. Peroutka,0
+Columbia,President,,Write-in,Bill Van Auken,0
+Cortland,President,,REP,Bush/Cheney,11085
+Cortland,President,,DEM,Kerry/Edwards,10354
+Cortland,President,,CON,Bush/Cheney,528
+Cortland,President,,IND,Nader/Camejo,362
+Cortland,President,,WOR,Kerry/Edwards,316
+Cortland,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",137
+Cortland,President,,PCE,Nader/Camejo,57
+Cortland,President,,LIB,Badnarik/Campagna,42
+Cortland,President,,SOC,Calero/Hawkins,12
+Cortland,President,,Write-in,Michael A. Peroutka,3
+Cortland,President,,Write-in,David Cobb,1
+Cortland,President,,Write-in,Michael Halpin,0
+Cortland,President,,Write-in,John Joseph Kennedy,0
+Cortland,President,,Write-in,Bill Van Auken,0
+Delaware,President,,REP,Bush/Cheney,11474
+Delaware,President,,DEM,Kerry/Edwards,8425
+Delaware,President,,CON,Bush/Cheney,484
+Delaware,President,,IND,Nader/Camejo,360
+Delaware,President,,WOR,Kerry/Edwards,299
+Delaware,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",125
+Delaware,President,,PCE,Nader/Camejo,65
+Delaware,President,,LIB,Badnarik/Campagna,43
+Delaware,President,,SOC,Calero/Hawkins,16
+Delaware,President,,Write-in,David Cobb,1
+Delaware,President,,Write-in,Michael Halpin,0
+Delaware,President,,Write-in,John Joseph Kennedy,0
+Delaware,President,,Write-in,Michael A. Peroutka,0
+Delaware,President,,Write-in,Bill Van Auken,0
+Dutchess,President,,REP,Bush/Cheney,59323
+Dutchess,President,,DEM,Kerry/Edwards,56533
+Dutchess,President,,CON,Bush/Cheney,4049
+Dutchess,President,,WOR,Kerry/Edwards,1699
+Dutchess,President,,IND,Nader/Camejo,1647
+Dutchess,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",639
+Dutchess,President,,PCE,Nader/Camejo,321
+Dutchess,President,,LIB,Badnarik/Campagna,245
+Dutchess,President,,SOC,Calero/Hawkins,58
+Dutchess,President,,Write-in,Michael A. Peroutka,6
+Dutchess,President,,Write-in,David Cobb,0
+Dutchess,President,,Write-in,Michael Halpin,0
+Dutchess,President,,Write-in,John Joseph Kennedy,0
+Dutchess,President,,Write-in,Bill Van Auken,0
+Erie,President,,DEM,Kerry/Edwards,240563
+Erie,President,,REP,Bush/Cheney,173198
+Erie,President,,CON,Bush/Cheney,11225
+Erie,President,,WOR,Kerry/Edwards,10527
+Erie,President,,IND,Nader/Camejo,7459
+Erie,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",3129
+Erie,President,,PCE,Nader/Camejo,1160
+Erie,President,,LIB,Badnarik/Campagna,786
+Erie,President,,SOC,Calero/Hawkins,168
+Erie,President,,Write-in,Michael A. Peroutka,34
+Erie,President,,Write-in,David Cobb,18
+Erie,President,,Write-in,Michael Halpin,0
+Erie,President,,Write-in,John Joseph Kennedy,0
+Erie,President,,Write-in,Bill Van Auken,0
+Essex,President,,REP,Bush/Cheney,9390
+Essex,President,,DEM,Kerry/Edwards,8474
+Essex,President,,CON,Bush/Cheney,479
+Essex,President,,IND,Nader/Camejo,341
+Essex,President,,WOR,Kerry/Edwards,294
+Essex,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",218
+Essex,President,,PCE,Nader/Camejo,57
+Essex,President,,LIB,Badnarik/Campagna,37
+Essex,President,,Write-in,Michael A. Peroutka,6
+Essex,President,,SOC,Calero/Hawkins,4
+Essex,President,,Write-in,David Cobb,0
+Essex,President,,Write-in,Michael Halpin,0
+Essex,President,,Write-in,John Joseph Kennedy,0
+Essex,President,,Write-in,Bill Van Auken,0
+Franklin,President,,DEM,Kerry/Edwards,9286
+Franklin,President,,REP,Bush/Cheney,8103
+Franklin,President,,IND,Nader/Camejo,314
+Franklin,President,,CON,Bush/Cheney,280
+Franklin,President,,WOR,Kerry/Edwards,257
+Franklin,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",237
+Franklin,President,,PCE,Nader/Camejo,42
+Franklin,President,,LIB,Badnarik/Campagna,24
+Franklin,President,,SOC,Calero/Hawkins,6
+Franklin,President,,Write-in,Michael A. Peroutka,3
+Franklin,President,,Write-in,David Cobb,1
+Franklin,President,,Write-in,Michael Halpin,0
+Franklin,President,,Write-in,John Joseph Kennedy,0
+Franklin,President,,Write-in,Bill Van Auken,0
+Fulton,President,,REP,Bush/Cheney,12042
+Fulton,President,,DEM,Kerry/Edwards,8919
+Fulton,President,,CON,Bush/Cheney,528
+Fulton,President,,IND,Nader/Camejo,350
+Fulton,President,,WOR,Kerry/Edwards,283
+Fulton,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",113
+Fulton,President,,PCE,Nader/Camejo,53
+Fulton,President,,LIB,Badnarik/Campagna,37
+Fulton,President,,SOC,Calero/Hawkins,3
+Fulton,President,,Write-in,David Cobb,0
+Fulton,President,,Write-in,Michael Halpin,0
+Fulton,President,,Write-in,John Joseph Kennedy,0
+Fulton,President,,Write-in,Michael A. Peroutka,0
+Fulton,President,,Write-in,Bill Van Auken,0
+Genesee,President,,REP,Bush/Cheney,15701
+Genesee,President,,DEM,Kerry/Edwards,9970
+Genesee,President,,CON,Bush/Cheney,1024
+Genesee,President,,IND,Nader/Camejo,379
+Genesee,President,,WOR,Kerry/Edwards,361
+Genesee,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",169
+Genesee,President,,PCE,Nader/Camejo,69
+Genesee,President,,LIB,Badnarik/Campagna,67
+Genesee,President,,SOC,Calero/Hawkins,9
+Genesee,President,,Write-in,David Cobb,0
+Genesee,President,,Write-in,Michael Halpin,0
+Genesee,President,,Write-in,John Joseph Kennedy,0
+Genesee,President,,Write-in,Michael A. Peroutka,0
+Genesee,President,,Write-in,Bill Van Auken,0
+Greene,President,,REP,Bush/Cheney,12159
+Greene,President,,DEM,Kerry/Edwards,8607
+Greene,President,,CON,Bush/Cheney,837
+Greene,President,,WOR,Kerry/Edwards,326
+Greene,President,,IND,Nader/Camejo,314
+Greene,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",215
+Greene,President,,PCE,Nader/Camejo,77
+Greene,President,,LIB,Badnarik/Campagna,45
+Greene,President,,Write-in,Michael A. Peroutka,24
+Greene,President,,SOC,Calero/Hawkins,7
+Greene,President,,Write-in,David Cobb,2
+Greene,President,,Write-in,Michael Halpin,0
+Greene,President,,Write-in,John Joseph Kennedy,0
+Greene,President,,Write-in,Bill Van Auken,0
+Hamilton,President,,REP,Bush/Cheney,2358
+Hamilton,President,,DEM,Kerry/Edwards,1120
+Hamilton,President,,CON,Bush/Cheney,117
+Hamilton,President,,IND,Nader/Camejo,50
+Hamilton,President,,WOR,Kerry/Edwards,25
+Hamilton,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",24
+Hamilton,President,,LIB,Badnarik/Campagna,13
+Hamilton,President,,PCE,Nader/Camejo,8
+Hamilton,President,,Write-in,Michael A. Peroutka,3
+Hamilton,President,,SOC,Calero/Hawkins,1
+Hamilton,President,,Write-in,David Cobb,0
+Hamilton,President,,Write-in,Michael Halpin,0
+Hamilton,President,,Write-in,John Joseph Kennedy,0
+Hamilton,President,,Write-in,Bill Van Auken,0
+Herkimer,President,,REP,Bush/Cheney,15265
+Herkimer,President,,DEM,Kerry/Edwards,11383
+Herkimer,President,,CON,Bush/Cheney,759
+Herkimer,President,,IND,Nader/Camejo,467
+Herkimer,President,,WOR,Kerry/Edwards,292
+Herkimer,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",207
+Herkimer,President,,PCE,Nader/Camejo,89
+Herkimer,President,,LIB,Badnarik/Campagna,47
+Herkimer,President,,SOC,Calero/Hawkins,7
+Herkimer,President,,Write-in,Michael A. Peroutka,1
+Herkimer,President,,Write-in,David Cobb,0
+Herkimer,President,,Write-in,Michael Halpin,0
+Herkimer,President,,Write-in,John Joseph Kennedy,0
+Herkimer,President,,Write-in,Bill Van Auken,0
+Jefferson,President,,REP,Bush/Cheney,20248
+Jefferson,President,,DEM,Kerry/Edwards,16342
+Jefferson,President,,CON,Bush/Cheney,983
+Jefferson,President,,IND,Nader/Camejo,573
+Jefferson,President,,WOR,Kerry/Edwards,518
+Jefferson,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",365
+Jefferson,President,,PCE,Nader/Camejo,79
+Jefferson,President,,LIB,Badnarik/Campagna,52
+Jefferson,President,,SOC,Calero/Hawkins,5
+Jefferson,President,,Write-in,David Cobb,0
+Jefferson,President,,Write-in,Michael Halpin,0
+Jefferson,President,,Write-in,John Joseph Kennedy,0
+Jefferson,President,,Write-in,Michael A. Peroutka,0
+Jefferson,President,,Write-in,Bill Van Auken,0
+Kings,President,,DEM,Kerry/Edwards,494165
+Kings,President,,REP,Bush/Cheney,159200
+Kings,President,,WOR,Kerry/Edwards,20808
+Kings,President,,CON,Bush/Cheney,7949
+Kings,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",5924
+Kings,President,,IND,Nader/Camejo,3678
+Kings,President,,PCE,Nader/Camejo,1181
+Kings,President,,LIB,Badnarik/Campagna,570
+Kings,President,,SOC,Calero/Hawkins,229
+Kings,President,,Write-in,David Cobb,0
+Kings,President,,Write-in,Michael Halpin,0
+Kings,President,,Write-in,John Joseph Kennedy,0
+Kings,President,,Write-in,Michael A. Peroutka,0
+Kings,President,,Write-in,Bill Van Auken,0
+Lewis,President,,REP,Bush/Cheney,6348
+Lewis,President,,DEM,Kerry/Edwards,4417
+Lewis,President,,CON,Bush/Cheney,276
+Lewis,President,,IND,Nader/Camejo,179
+Lewis,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",160
+Lewis,President,,WOR,Kerry/Edwards,129
+Lewis,President,,PCE,Nader/Camejo,32
+Lewis,President,,LIB,Badnarik/Campagna,13
+Lewis,President,,SOC,Calero/Hawkins,3
+Lewis,President,,Write-in,David Cobb,0
+Lewis,President,,Write-in,Michael Halpin,0
+Lewis,President,,Write-in,John Joseph Kennedy,0
+Lewis,President,,Write-in,Michael A. Peroutka,0
+Lewis,President,,Write-in,Bill Van Auken,0
+Livingston,President,,REP,Bush/Cheney,16885
+Livingston,President,,DEM,Kerry/Edwards,11107
+Livingston,President,,CON,Bush/Cheney,844
+Livingston,President,,IND,Nader/Camejo,512
+Livingston,President,,WOR,Kerry/Edwards,397
+Livingston,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",173
+Livingston,President,,PCE,Nader/Camejo,108
+Livingston,President,,LIB,Badnarik/Campagna,80
+Livingston,President,,SOC,Calero/Hawkins,12
+Livingston,President,,Write-in,Michael A. Peroutka,2
+Livingston,President,,Write-in,David Cobb,1
+Livingston,President,,Write-in,Michael Halpin,0
+Livingston,President,,Write-in,John Joseph Kennedy,0
+Livingston,President,,Write-in,Bill Van Auken,0
+Madison,President,,REP,Bush/Cheney,15584
+Madison,President,,DEM,Kerry/Edwards,12665
+Madison,President,,CON,Bush/Cheney,953
+Madison,President,,WOR,Kerry/Edwards,456
+Madison,President,,IND,Nader/Camejo,454
+Madison,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",175
+Madison,President,,PCE,Nader/Camejo,81
+Madison,President,,LIB,Badnarik/Campagna,77
+Madison,President,,SOC,Calero/Hawkins,11
+Madison,President,,Write-in,Michael A. Peroutka,3
+Madison,President,,Write-in,Michael Halpin,2
+Madison,President,,Write-in,David Cobb,1
+Madison,President,,Write-in,John Joseph Kennedy,0
+Madison,President,,Write-in,Bill Van Auken,0
 Monroe,President,,DEM,Kerry/Edwards,168088
 Monroe,President,,REP,Bush/Cheney,153374
 Monroe,President,,CON,Bush/Cheney,10171
@@ -384,62 +384,62 @@ Monroe,President,,Write-in,David Cobb,16
 Monroe,President,,Write-in,Michael Halpin,0
 Monroe,President,,Write-in,John Joseph Kennedy,0
 Monroe,President,,Write-in,Bill Van Auken,0
-Montgomery ,President,,REP,Bush/Cheney,10763
-Montgomery ,President,,DEM,Kerry/Edwards,9175
-Montgomery ,President,,CON,Bush/Cheney,575
-Montgomery ,President,,IND,Nader/Camejo,347
-Montgomery ,President,,WOR,Kerry/Edwards,274
-Montgomery ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",209
-Montgomery ,President,,PCE,Nader/Camejo,48
-Montgomery ,President,,LIB,Badnarik/Campagna,34
-Montgomery ,President,,SOC,Calero/Hawkins,5
-Montgomery ,President,,Write-in,David Cobb,0
-Montgomery ,President,,Write-in,Michael Halpin,0
-Montgomery ,President,,Write-in,John Joseph Kennedy,0
-Montgomery ,President,,Write-in,Michael A. Peroutka,0
-Montgomery ,President,,Write-in,Bill Van Auken,0
-Nassau ,President,,DEM,Kerry/Edwards,317283
-Nassau ,President,,REP,Bush/Cheney,273502
-Nassau ,President,,CON,Bush/Cheney,14853
-Nassau ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",5942
-Nassau ,President,,WOR,Kerry/Edwards,5787
-Nassau ,President,,IND,Nader/Camejo,5219
-Nassau ,President,,PCE,Nader/Camejo,816
-Nassau ,President,,LIB,Badnarik/Campagna,729
-Nassau ,President,,SOC,Calero/Hawkins,147
-Nassau ,President,,Write-in,Michael A. Peroutka,6
-Nassau ,President,,Write-in,David Cobb,1
-Nassau ,President,,Write-in,Michael Halpin,0
-Nassau ,President,,Write-in,John Joseph Kennedy,0
-Nassau ,President,,Write-in,Bill Van Auken,0
-New York ,President,,DEM,Kerry/Edwards,509841
-New York ,President,,REP,Bush/Cheney,104883
-New York ,President,,WOR,Kerry/Edwards,16924
-New York ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",5683
-New York ,President,,IND,Nader/Camejo,4402
-New York ,President,,CON,Bush/Cheney,2522
-New York ,President,,PCE,Nader/Camejo,1621
-New York ,President,,LIB,Badnarik/Campagna,1276
-New York ,President,,SOC,Calero/Hawkins,278
-New York ,President,,Write-in,David Cobb,0
-New York ,President,,Write-in,Michael Halpin,0
-New York ,President,,Write-in,John Joseph Kennedy,0
-New York ,President,,Write-in,Michael A. Peroutka,0
-New York ,President,,Write-in,Bill Van Auken,0
-Niagara ,President,,DEM,Kerry/Edwards,45644
-Niagara ,President,,REP,Bush/Cheney,44525
-Niagara ,President,,CON,Bush/Cheney,2586
-Niagara ,President,,WOR,Kerry/Edwards,1958
-Niagara ,President,,IND,Nader/Camejo,1472
-Niagara ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",580
-Niagara ,President,,PCE,Nader/Camejo,213
-Niagara ,President,,LIB,Badnarik/Campagna,145
-Niagara ,President,,SOC,Calero/Hawkins,24
-Niagara ,President,,Write-in,Michael A. Peroutka,12
-Niagara ,President,,Write-in,David Cobb,1
-Niagara ,President,,Write-in,Michael Halpin,0
-Niagara ,President,,Write-in,John Joseph Kennedy,0
-Niagara ,President,,Write-in,Bill Van Auken,0
+Montgomery,President,,REP,Bush/Cheney,10763
+Montgomery,President,,DEM,Kerry/Edwards,9175
+Montgomery,President,,CON,Bush/Cheney,575
+Montgomery,President,,IND,Nader/Camejo,347
+Montgomery,President,,WOR,Kerry/Edwards,274
+Montgomery,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",209
+Montgomery,President,,PCE,Nader/Camejo,48
+Montgomery,President,,LIB,Badnarik/Campagna,34
+Montgomery,President,,SOC,Calero/Hawkins,5
+Montgomery,President,,Write-in,David Cobb,0
+Montgomery,President,,Write-in,Michael Halpin,0
+Montgomery,President,,Write-in,John Joseph Kennedy,0
+Montgomery,President,,Write-in,Michael A. Peroutka,0
+Montgomery,President,,Write-in,Bill Van Auken,0
+Nassau,President,,DEM,Kerry/Edwards,317283
+Nassau,President,,REP,Bush/Cheney,273502
+Nassau,President,,CON,Bush/Cheney,14853
+Nassau,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",5942
+Nassau,President,,WOR,Kerry/Edwards,5787
+Nassau,President,,IND,Nader/Camejo,5219
+Nassau,President,,PCE,Nader/Camejo,816
+Nassau,President,,LIB,Badnarik/Campagna,729
+Nassau,President,,SOC,Calero/Hawkins,147
+Nassau,President,,Write-in,Michael A. Peroutka,6
+Nassau,President,,Write-in,David Cobb,1
+Nassau,President,,Write-in,Michael Halpin,0
+Nassau,President,,Write-in,John Joseph Kennedy,0
+Nassau,President,,Write-in,Bill Van Auken,0
+New York,President,,DEM,Kerry/Edwards,509841
+New York,President,,REP,Bush/Cheney,104883
+New York,President,,WOR,Kerry/Edwards,16924
+New York,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",5683
+New York,President,,IND,Nader/Camejo,4402
+New York,President,,CON,Bush/Cheney,2522
+New York,President,,PCE,Nader/Camejo,1621
+New York,President,,LIB,Badnarik/Campagna,1276
+New York,President,,SOC,Calero/Hawkins,278
+New York,President,,Write-in,David Cobb,0
+New York,President,,Write-in,Michael Halpin,0
+New York,President,,Write-in,John Joseph Kennedy,0
+New York,President,,Write-in,Michael A. Peroutka,0
+New York,President,,Write-in,Bill Van Auken,0
+Niagara,President,,DEM,Kerry/Edwards,45644
+Niagara,President,,REP,Bush/Cheney,44525
+Niagara,President,,CON,Bush/Cheney,2586
+Niagara,President,,WOR,Kerry/Edwards,1958
+Niagara,President,,IND,Nader/Camejo,1472
+Niagara,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",580
+Niagara,President,,PCE,Nader/Camejo,213
+Niagara,President,,LIB,Badnarik/Campagna,145
+Niagara,President,,SOC,Calero/Hawkins,24
+Niagara,President,,Write-in,Michael A. Peroutka,12
+Niagara,President,,Write-in,David Cobb,1
+Niagara,President,,Write-in,Michael Halpin,0
+Niagara,President,,Write-in,John Joseph Kennedy,0
+Niagara,President,,Write-in,Bill Van Auken,0
 Oneida,President,,REP,Bush/Cheney,49569
 Oneida,President,,DEM,Kerry/Edwards,39658
 Oneida,President,,CON,Bush/Cheney,2823
@@ -482,20 +482,20 @@ Ontario,President,,Write-in,David Cobb,0
 Ontario,President,,Write-in,Michael Halpin,0
 Ontario,President,,Write-in,John Joseph Kennedy,0
 Ontario,President,,Write-in,Bill Van Auken,0
-Orange ,President,,REP,Bush/Cheney,75010
-Orange ,President,,DEM,Kerry/Edwards,61642
-Orange ,President,,CON,Bush/Cheney,4079
-Orange ,President,,WOR,Kerry/Edwards,1752
-Orange ,President,,IND,Nader/Camejo,1624
-Orange ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",1045
-Orange ,President,,PCE,Nader/Camejo,314
-Orange ,President,,LIB,Badnarik/Campagna,205
-Orange ,President,,SOC,Calero/Hawkins,41
-Orange ,President,,Write-in,Michael A. Peroutka,5
-Orange ,President,,Write-in,David Cobb,1
-Orange ,President,,Write-in,Michael Halpin,0
-Orange ,President,,Write-in,John Joseph Kennedy,0
-Orange ,President,,Write-in,Bill Van Auken,0
+Orange,President,,REP,Bush/Cheney,75010
+Orange,President,,DEM,Kerry/Edwards,61642
+Orange,President,,CON,Bush/Cheney,4079
+Orange,President,,WOR,Kerry/Edwards,1752
+Orange,President,,IND,Nader/Camejo,1624
+Orange,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",1045
+Orange,President,,PCE,Nader/Camejo,314
+Orange,President,,LIB,Badnarik/Campagna,205
+Orange,President,,SOC,Calero/Hawkins,41
+Orange,President,,Write-in,Michael A. Peroutka,5
+Orange,President,,Write-in,David Cobb,1
+Orange,President,,Write-in,Michael Halpin,0
+Orange,President,,Write-in,John Joseph Kennedy,0
+Orange,President,,Write-in,Bill Van Auken,0
 Orleans,President,,REP,Bush/Cheney,9796
 Orleans,President,,DEM,Kerry/Edwards,5734
 Orleans,President,,CON,Bush/Cheney,521
@@ -510,132 +510,132 @@ Orleans,President,,Write-in,David Cobb,0
 Orleans,President,,Write-in,Michael Halpin,0
 Orleans,President,,Write-in,John Joseph Kennedy,0
 Orleans,President,,Write-in,Bill Van Auken,0
-Oswego ,President,,REP,Bush/Cheney,24675
-Oswego ,President,,DEM,Kerry/Edwards,23261
-Oswego ,President,,CON,Bush/Cheney,1650
-Oswego ,President,,IND,Nader/Camejo,905
-Oswego ,President,,WOR,Kerry/Edwards,872
-Oswego ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",246
-Oswego ,President,,PCE,Nader/Camejo,125
-Oswego ,President,,LIB,Badnarik/Campagna,101
-Oswego ,President,,SOC,Calero/Hawkins,13
-Oswego ,President,,Write-in,David Cobb,3
-Oswego ,President,,Write-in,Michael A. Peroutka,2
-Oswego ,President,,Write-in,Michael Halpin,0
-Oswego ,President,,Write-in,John Joseph Kennedy,0
-Oswego ,President,,Write-in,Bill Van Auken,0
-Otsego ,President,,REP,Bush/Cheney,12768
-Otsego ,President,,DEM,Kerry/Edwards,12402
-Otsego ,President,,CON,Bush/Cheney,574
-Otsego ,President,,IND,Nader/Camejo,439
-Otsego ,President,,WOR,Kerry/Edwards,321
-Otsego ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",230
-Otsego ,President,,PCE,Nader/Camejo,78
-Otsego ,President,,LIB,Badnarik/Campagna,60
-Otsego ,President,,SOC,Calero/Hawkins,8
-Otsego ,President,,Write-in,David Cobb,1
-Otsego ,President,,Write-in,Michael A. Peroutka,1
-Otsego ,President,,Write-in,Michael Halpin,0
-Otsego ,President,,Write-in,John Joseph Kennedy,0
-Otsego ,President,,Write-in,Bill Van Auken,0
-Putnam ,President,,REP,Bush/Cheney,24397
-Putnam ,President,,DEM,Kerry/Edwards,18892
-Putnam ,President,,CON,Bush/Cheney,1959
-Putnam ,President,,WOR,Kerry/Edwards,683
-Putnam ,President,,IND,Nader/Camejo,450
-Putnam ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",158
-Putnam ,President,,PCE,Nader/Camejo,91
-Putnam ,President,,SOC,Calero/Hawkins,86
-Putnam ,President,,LIB,Badnarik/Campagna,5
-Putnam ,President,,Write-in,Michael A. Peroutka,4
-Putnam ,President,,Write-in,David Cobb,2
-Putnam ,President,,Write-in,John Joseph Kennedy,2
-Putnam ,President,,Write-in,Michael Halpin,0
-Putnam ,President,,Write-in,Bill Van Auken,0
-Queens ,President,,DEM,Kerry/Edwards,422609
-Queens ,President,,REP,Bush/Cheney,157948
-Queens ,President,,WOR,Kerry/Edwards,11226
-Queens ,President,,CON,Bush/Cheney,8006
-Queens ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",5519
-Queens ,President,,IND,Nader/Camejo,3637
-Queens ,President,,PCE,Nader/Camejo,898
-Queens ,President,,LIB,Badnarik/Campagna,561
-Queens ,President,,SOC,Calero/Hawkins,177
-Queens ,President,,Write-in,David Cobb,0
-Queens ,President,,Write-in,Michael Halpin,0
-Queens ,President,,Write-in,John Joseph Kennedy,0
-Queens ,President,,Write-in,Michael A. Peroutka,0
-Queens ,President,,Write-in,Bill Van Auken,0
-Rensselaer ,President,,DEM,Kerry/Edwards,34741
-Rensselaer ,President,,REP,Bush/Cheney,32290
-Rensselaer ,President,,CON,Bush/Cheney,2444
-Rensselaer ,President,,WOR,Kerry/Edwards,1334
-Rensselaer ,President,,IND,Nader/Camejo,1301
-Rensselaer ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",469
-Rensselaer ,President,,PCE,Nader/Camejo,199
-Rensselaer ,President,,LIB,Badnarik/Campagna,160
-Rensselaer ,President,,SOC,Calero/Hawkins,34
-Rensselaer ,President,,Write-in,Michael A. Peroutka,10
-Rensselaer ,President,,Write-in,David Cobb,1
-Rensselaer ,President,,Write-in,Michael Halpin,0
-Rensselaer ,President,,Write-in,John Joseph Kennedy,0
-Rensselaer ,President,,Write-in,Bill Van Auken,0
-Richmond ,President,,Write-in,Michael Halpin,160806
-Richmond ,President,,REP,Bush/Cheney,85302
-Richmond ,President,,DEM,Kerry/Edwards,66255
-Richmond ,President,,CON,Bush/Cheney,5023
-Richmond ,President,,WOR,Kerry/Edwards,2193
-Richmond ,President,,IND,Nader/Camejo,975
-Richmond ,President,,Write-in,David Cobb,680
-Richmond ,President,,PCE,Nader/Camejo,215
-Richmond ,President,,LIB,Badnarik/Campagna,134
-Richmond ,President,,SOC,Calero/Hawkins,29
-Richmond ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",0
-Richmond ,President,,Write-in,John Joseph Kennedy,0
-Richmond ,President,,Write-in,Michael A. Peroutka,0
-Richmond ,President,,Write-in,Bill Van Auken,0
-Rockland ,President,,DEM,Kerry/Edwards,62391
-Rockland ,President,,REP,Bush/Cheney,61510
-Rockland ,President,,CON,Bush/Cheney,3620
-Rockland ,President,,WOR,Kerry/Edwards,1800
-Rockland ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",1555
-Rockland ,President,,IND,Nader/Camejo,1549
-Rockland ,President,,PCE,Nader/Camejo,168
-Rockland ,President,,LIB,Badnarik/Campagna,159
-Rockland ,President,,SOC,Calero/Hawkins,28
-Rockland ,President,,Write-in,David Cobb,3
-Rockland ,President,,Write-in,Michael A. Peroutka,2
-Rockland ,President,,Write-in,John Joseph Kennedy,1
-Rockland ,President,,Write-in,Michael Halpin,0
-Rockland ,President,,Write-in,Bill Van Auken,0
-Saratoga ,President,,REP,Bush/Cheney,53709
-Saratoga ,President,,DEM,Kerry/Edwards,47367
-Saratoga ,President,,CON,Bush/Cheney,2449
-Saratoga ,President,,IND,Nader/Camejo,1465
-Saratoga ,President,,WOR,Kerry/Edwards,1363
-Saratoga ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",417
-Saratoga ,President,,PCE,Nader/Camejo,252
-Saratoga ,President,,LIB,Badnarik/Campagna,240
-Saratoga ,President,,SOC,Calero/Hawkins,26
-Saratoga ,President,,Write-in,David Cobb,1
-Saratoga ,President,,Write-in,Michael A. Peroutka,1
-Saratoga ,President,,Write-in,Michael Halpin,0
-Saratoga ,President,,Write-in,John Joseph Kennedy,0
-Saratoga ,President,,Write-in,Bill Van Auken,0
-Schenectady ,President,,DEM,Kerry/Edwards,34762
-Schenectady ,President,,REP,Bush/Cheney,30002
-Schenectady ,President,,CON,Bush/Cheney,2064
-Schenectady ,President,,WOR,Kerry/Edwards,1209
-Schenectady ,President,,IND,Nader/Camejo,1017
-Schenectady ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",875
-Schenectady ,President,,PCE,Nader/Camejo,187
-Schenectady ,President,,LIB,Badnarik/Campagna,186
-Schenectady ,President,,SOC,Calero/Hawkins,29
-Schenectady ,President,,Write-in,Michael A. Peroutka,12
-Schenectady ,President,,Write-in,David Cobb,1
-Schenectady ,President,,Write-in,Michael Halpin,0
-Schenectady ,President,,Write-in,John Joseph Kennedy,0
-Schenectady ,President,,Write-in,Bill Van Auken,0
+Oswego,President,,REP,Bush/Cheney,24675
+Oswego,President,,DEM,Kerry/Edwards,23261
+Oswego,President,,CON,Bush/Cheney,1650
+Oswego,President,,IND,Nader/Camejo,905
+Oswego,President,,WOR,Kerry/Edwards,872
+Oswego,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",246
+Oswego,President,,PCE,Nader/Camejo,125
+Oswego,President,,LIB,Badnarik/Campagna,101
+Oswego,President,,SOC,Calero/Hawkins,13
+Oswego,President,,Write-in,David Cobb,3
+Oswego,President,,Write-in,Michael A. Peroutka,2
+Oswego,President,,Write-in,Michael Halpin,0
+Oswego,President,,Write-in,John Joseph Kennedy,0
+Oswego,President,,Write-in,Bill Van Auken,0
+Otsego,President,,REP,Bush/Cheney,12768
+Otsego,President,,DEM,Kerry/Edwards,12402
+Otsego,President,,CON,Bush/Cheney,574
+Otsego,President,,IND,Nader/Camejo,439
+Otsego,President,,WOR,Kerry/Edwards,321
+Otsego,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",230
+Otsego,President,,PCE,Nader/Camejo,78
+Otsego,President,,LIB,Badnarik/Campagna,60
+Otsego,President,,SOC,Calero/Hawkins,8
+Otsego,President,,Write-in,David Cobb,1
+Otsego,President,,Write-in,Michael A. Peroutka,1
+Otsego,President,,Write-in,Michael Halpin,0
+Otsego,President,,Write-in,John Joseph Kennedy,0
+Otsego,President,,Write-in,Bill Van Auken,0
+Putnam,President,,REP,Bush/Cheney,24397
+Putnam,President,,DEM,Kerry/Edwards,18892
+Putnam,President,,CON,Bush/Cheney,1959
+Putnam,President,,WOR,Kerry/Edwards,683
+Putnam,President,,IND,Nader/Camejo,450
+Putnam,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",158
+Putnam,President,,PCE,Nader/Camejo,91
+Putnam,President,,SOC,Calero/Hawkins,86
+Putnam,President,,LIB,Badnarik/Campagna,5
+Putnam,President,,Write-in,Michael A. Peroutka,4
+Putnam,President,,Write-in,David Cobb,2
+Putnam,President,,Write-in,John Joseph Kennedy,2
+Putnam,President,,Write-in,Michael Halpin,0
+Putnam,President,,Write-in,Bill Van Auken,0
+Queens,President,,DEM,Kerry/Edwards,422609
+Queens,President,,REP,Bush/Cheney,157948
+Queens,President,,WOR,Kerry/Edwards,11226
+Queens,President,,CON,Bush/Cheney,8006
+Queens,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",5519
+Queens,President,,IND,Nader/Camejo,3637
+Queens,President,,PCE,Nader/Camejo,898
+Queens,President,,LIB,Badnarik/Campagna,561
+Queens,President,,SOC,Calero/Hawkins,177
+Queens,President,,Write-in,David Cobb,0
+Queens,President,,Write-in,Michael Halpin,0
+Queens,President,,Write-in,John Joseph Kennedy,0
+Queens,President,,Write-in,Michael A. Peroutka,0
+Queens,President,,Write-in,Bill Van Auken,0
+Rensselaer,President,,DEM,Kerry/Edwards,34741
+Rensselaer,President,,REP,Bush/Cheney,32290
+Rensselaer,President,,CON,Bush/Cheney,2444
+Rensselaer,President,,WOR,Kerry/Edwards,1334
+Rensselaer,President,,IND,Nader/Camejo,1301
+Rensselaer,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",469
+Rensselaer,President,,PCE,Nader/Camejo,199
+Rensselaer,President,,LIB,Badnarik/Campagna,160
+Rensselaer,President,,SOC,Calero/Hawkins,34
+Rensselaer,President,,Write-in,Michael A. Peroutka,10
+Rensselaer,President,,Write-in,David Cobb,1
+Rensselaer,President,,Write-in,Michael Halpin,0
+Rensselaer,President,,Write-in,John Joseph Kennedy,0
+Rensselaer,President,,Write-in,Bill Van Auken,0
+Richmond,President,,Write-in,Michael Halpin,160806
+Richmond,President,,REP,Bush/Cheney,85302
+Richmond,President,,DEM,Kerry/Edwards,66255
+Richmond,President,,CON,Bush/Cheney,5023
+Richmond,President,,WOR,Kerry/Edwards,2193
+Richmond,President,,IND,Nader/Camejo,975
+Richmond,President,,Write-in,David Cobb,680
+Richmond,President,,PCE,Nader/Camejo,215
+Richmond,President,,LIB,Badnarik/Campagna,134
+Richmond,President,,SOC,Calero/Hawkins,29
+Richmond,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",0
+Richmond,President,,Write-in,John Joseph Kennedy,0
+Richmond,President,,Write-in,Michael A. Peroutka,0
+Richmond,President,,Write-in,Bill Van Auken,0
+Rockland,President,,DEM,Kerry/Edwards,62391
+Rockland,President,,REP,Bush/Cheney,61510
+Rockland,President,,CON,Bush/Cheney,3620
+Rockland,President,,WOR,Kerry/Edwards,1800
+Rockland,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",1555
+Rockland,President,,IND,Nader/Camejo,1549
+Rockland,President,,PCE,Nader/Camejo,168
+Rockland,President,,LIB,Badnarik/Campagna,159
+Rockland,President,,SOC,Calero/Hawkins,28
+Rockland,President,,Write-in,David Cobb,3
+Rockland,President,,Write-in,Michael A. Peroutka,2
+Rockland,President,,Write-in,John Joseph Kennedy,1
+Rockland,President,,Write-in,Michael Halpin,0
+Rockland,President,,Write-in,Bill Van Auken,0
+Saratoga,President,,REP,Bush/Cheney,53709
+Saratoga,President,,DEM,Kerry/Edwards,47367
+Saratoga,President,,CON,Bush/Cheney,2449
+Saratoga,President,,IND,Nader/Camejo,1465
+Saratoga,President,,WOR,Kerry/Edwards,1363
+Saratoga,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",417
+Saratoga,President,,PCE,Nader/Camejo,252
+Saratoga,President,,LIB,Badnarik/Campagna,240
+Saratoga,President,,SOC,Calero/Hawkins,26
+Saratoga,President,,Write-in,David Cobb,1
+Saratoga,President,,Write-in,Michael A. Peroutka,1
+Saratoga,President,,Write-in,Michael Halpin,0
+Saratoga,President,,Write-in,John Joseph Kennedy,0
+Saratoga,President,,Write-in,Bill Van Auken,0
+Schenectady,President,,DEM,Kerry/Edwards,34762
+Schenectady,President,,REP,Bush/Cheney,30002
+Schenectady,President,,CON,Bush/Cheney,2064
+Schenectady,President,,WOR,Kerry/Edwards,1209
+Schenectady,President,,IND,Nader/Camejo,1017
+Schenectady,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",875
+Schenectady,President,,PCE,Nader/Camejo,187
+Schenectady,President,,LIB,Badnarik/Campagna,186
+Schenectady,President,,SOC,Calero/Hawkins,29
+Schenectady,President,,Write-in,Michael A. Peroutka,12
+Schenectady,President,,Write-in,David Cobb,1
+Schenectady,President,,Write-in,Michael Halpin,0
+Schenectady,President,,Write-in,John Joseph Kennedy,0
+Schenectady,President,,Write-in,Bill Van Auken,0
 Schoharie,President,,REP,Bush/Cheney,8148
 Schoharie,President,,DEM,Kerry/Edwards,5455
 Schoharie,President,,CON,Bush/Cheney,443
@@ -650,104 +650,104 @@ Schoharie,President,,Write-in,Michael A. Peroutka,1
 Schoharie,President,,Write-in,Michael Halpin,0
 Schoharie,President,,Write-in,John Joseph Kennedy,0
 Schoharie,President,,Write-in,Bill Van Auken,0
-Schuyler ,President,,REP,Bush/Cheney,4727
-Schuyler ,President,,DEM,Kerry/Edwards,3290
-Schuyler ,President,,CON,Bush/Cheney,233
-Schuyler ,President,,WOR,Kerry/Edwards,155
-Schuyler ,President,,IND,Nader/Camejo,142
-Schuyler ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",66
-Schuyler ,President,,PCE,Nader/Camejo,26
-Schuyler ,President,,LIB,Badnarik/Campagna,16
-Schuyler ,President,,SOC,Calero/Hawkins,1
-Schuyler ,President,,Write-in,David Cobb,0
-Schuyler ,President,,Write-in,Michael Halpin,0
-Schuyler ,President,,Write-in,John Joseph Kennedy,0
-Schuyler ,President,,Write-in,Michael A. Peroutka,0
-Schuyler ,President,,Write-in,Bill Van Auken,0
-Seneca ,President,,REP,Bush/Cheney,7603
-Seneca ,President,,DEM,Kerry/Edwards,6771
-Seneca ,President,,CON,Bush/Cheney,378
-Seneca ,President,,IND,Nader/Camejo,277
-Seneca ,President,,WOR,Kerry/Edwards,208
-Seneca ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",108
-Seneca ,President,,PCE,Nader/Camejo,42
-Seneca ,President,,LIB,Badnarik/Campagna,40
-Seneca ,President,,SOC,Calero/Hawkins,4
-Seneca ,President,,Write-in,Michael A. Peroutka,2
-Seneca ,President,,Write-in,David Cobb,0
-Seneca ,President,,Write-in,Michael Halpin,0
-Seneca ,President,,Write-in,John Joseph Kennedy,0
-Seneca ,President,,Write-in,Bill Van Auken,0
-St. Lawrence ,President,,DEM,Kerry/Edwards,22173
-St. Lawrence ,President,,REP,Bush/Cheney,17310
-St. Lawrence ,President,,CON,Bush/Cheney,719
-St. Lawrence ,President,,WOR,Kerry/Edwards,684
-St. Lawrence ,President,,IND,Nader/Camejo,665
-St. Lawrence ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",357
-St. Lawrence ,President,,PCE,Nader/Camejo,112
-St. Lawrence ,President,,LIB,Badnarik/Campagna,75
-St. Lawrence ,President,,SOC,Calero/Hawkins,17
-St. Lawrence ,President,,Write-in,Michael A. Peroutka,6
-St. Lawrence ,President,,Write-in,David Cobb,0
-St. Lawrence ,President,,Write-in,Michael Halpin,0
-St. Lawrence ,President,,Write-in,John Joseph Kennedy,0
-St. Lawrence ,President,,Write-in,Bill Van Auken,0
-Steuben ,President,,REP,Bush/Cheney,26066
-Steuben ,President,,DEM,Kerry/Edwards,14090
-Steuben ,President,,CON,Bush/Cheney,914
-Steuben ,President,,IND,Nader/Camejo,600
-Steuben ,President,,WOR,Kerry/Edwards,433
-Steuben ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",402
-Steuben ,President,,PCE,Nader/Camejo,93
-Steuben ,President,,LIB,Badnarik/Campagna,66
-Steuben ,President,,SOC,Calero/Hawkins,11
-Steuben ,President,,Write-in,Michael A. Peroutka,6
-Steuben ,President,,Write-in,David Cobb,5
-Steuben ,President,,Write-in,Michael Halpin,0
-Steuben ,President,,Write-in,John Joseph Kennedy,0
-Steuben ,President,,Write-in,Bill Van Auken,0
-Suffolk ,President,,DEM,Kerry/Edwards,307011
-Suffolk ,President,,REP,Bush/Cheney,292186
-Suffolk ,President,,CON,Bush/Cheney,17763
-Suffolk ,President,,IND,Nader/Camejo,10787
-Suffolk ,President,,WOR,Kerry/Edwards,8898
-Suffolk ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",3540
-Suffolk ,President,,PCE,Nader/Camejo,1016
-Suffolk ,President,,LIB,Badnarik/Campagna,852
-Suffolk ,President,,SOC,Calero/Hawkins,148
-Suffolk ,President,,Write-in,Michael A. Peroutka,33
-Suffolk ,President,,Write-in,David Cobb,16
-Suffolk ,President,,Write-in,Michael Halpin,2
-Suffolk ,President,,Write-in,John Joseph Kennedy,0
-Suffolk ,President,,Write-in,Bill Van Auken,0
-Sullivan ,President,,DEM,Kerry/Edwards,14447
-Sullivan ,President,,REP,Bush/Cheney,14398
-Sullivan ,President,,CON,Bush/Cheney,921
-Sullivan ,President,,WOR,Kerry/Edwards,587
-Sullivan ,President,,IND,Nader/Camejo,445
-Sullivan ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",326
-Sullivan ,President,,PCE,Nader/Camejo,111
-Sullivan ,President,,LIB,Badnarik/Campagna,45
-Sullivan ,President,,SOC,Calero/Hawkins,10
-Sullivan ,President,,Write-in,John Joseph Kennedy,1
-Sullivan ,President,,Write-in,Michael A. Peroutka,1
-Sullivan ,President,,Write-in,David Cobb,0
-Sullivan ,President,,Write-in,Michael Halpin,0
-Sullivan ,President,,Write-in,Bill Van Auken,0
-Tioga ,President,,REP,Bush/Cheney,13343
-Tioga ,President,,DEM,Kerry/Edwards,9415
-Tioga ,President,,CON,Bush/Cheney,419
-Tioga ,President,,IND,Nader/Camejo,337
-Tioga ,President,,WOR,Kerry/Edwards,279
-Tioga ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",99
-Tioga ,President,,PCE,Nader/Camejo,52
-Tioga ,President,,LIB,Badnarik/Campagna,50
-Tioga ,President,,SOC,Calero/Hawkins,4
-Tioga ,President,,Write-in,Michael A. Peroutka,2
-Tioga ,President,,Write-in,David Cobb,1
-Tioga ,President,,Write-in,Michael Halpin,0
-Tioga ,President,,Write-in,John Joseph Kennedy,0
-Tioga ,President,,Write-in,Bill Van Auken,0
+Schuyler,President,,REP,Bush/Cheney,4727
+Schuyler,President,,DEM,Kerry/Edwards,3290
+Schuyler,President,,CON,Bush/Cheney,233
+Schuyler,President,,WOR,Kerry/Edwards,155
+Schuyler,President,,IND,Nader/Camejo,142
+Schuyler,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",66
+Schuyler,President,,PCE,Nader/Camejo,26
+Schuyler,President,,LIB,Badnarik/Campagna,16
+Schuyler,President,,SOC,Calero/Hawkins,1
+Schuyler,President,,Write-in,David Cobb,0
+Schuyler,President,,Write-in,Michael Halpin,0
+Schuyler,President,,Write-in,John Joseph Kennedy,0
+Schuyler,President,,Write-in,Michael A. Peroutka,0
+Schuyler,President,,Write-in,Bill Van Auken,0
+Seneca,President,,REP,Bush/Cheney,7603
+Seneca,President,,DEM,Kerry/Edwards,6771
+Seneca,President,,CON,Bush/Cheney,378
+Seneca,President,,IND,Nader/Camejo,277
+Seneca,President,,WOR,Kerry/Edwards,208
+Seneca,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",108
+Seneca,President,,PCE,Nader/Camejo,42
+Seneca,President,,LIB,Badnarik/Campagna,40
+Seneca,President,,SOC,Calero/Hawkins,4
+Seneca,President,,Write-in,Michael A. Peroutka,2
+Seneca,President,,Write-in,David Cobb,0
+Seneca,President,,Write-in,Michael Halpin,0
+Seneca,President,,Write-in,John Joseph Kennedy,0
+Seneca,President,,Write-in,Bill Van Auken,0
+St. Lawrence,President,,DEM,Kerry/Edwards,22173
+St. Lawrence,President,,REP,Bush/Cheney,17310
+St. Lawrence,President,,CON,Bush/Cheney,719
+St. Lawrence,President,,WOR,Kerry/Edwards,684
+St. Lawrence,President,,IND,Nader/Camejo,665
+St. Lawrence,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",357
+St. Lawrence,President,,PCE,Nader/Camejo,112
+St. Lawrence,President,,LIB,Badnarik/Campagna,75
+St. Lawrence,President,,SOC,Calero/Hawkins,17
+St. Lawrence,President,,Write-in,Michael A. Peroutka,6
+St. Lawrence,President,,Write-in,David Cobb,0
+St. Lawrence,President,,Write-in,Michael Halpin,0
+St. Lawrence,President,,Write-in,John Joseph Kennedy,0
+St. Lawrence,President,,Write-in,Bill Van Auken,0
+Steuben,President,,REP,Bush/Cheney,26066
+Steuben,President,,DEM,Kerry/Edwards,14090
+Steuben,President,,CON,Bush/Cheney,914
+Steuben,President,,IND,Nader/Camejo,600
+Steuben,President,,WOR,Kerry/Edwards,433
+Steuben,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",402
+Steuben,President,,PCE,Nader/Camejo,93
+Steuben,President,,LIB,Badnarik/Campagna,66
+Steuben,President,,SOC,Calero/Hawkins,11
+Steuben,President,,Write-in,Michael A. Peroutka,6
+Steuben,President,,Write-in,David Cobb,5
+Steuben,President,,Write-in,Michael Halpin,0
+Steuben,President,,Write-in,John Joseph Kennedy,0
+Steuben,President,,Write-in,Bill Van Auken,0
+Suffolk,President,,DEM,Kerry/Edwards,307011
+Suffolk,President,,REP,Bush/Cheney,292186
+Suffolk,President,,CON,Bush/Cheney,17763
+Suffolk,President,,IND,Nader/Camejo,10787
+Suffolk,President,,WOR,Kerry/Edwards,8898
+Suffolk,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",3540
+Suffolk,President,,PCE,Nader/Camejo,1016
+Suffolk,President,,LIB,Badnarik/Campagna,852
+Suffolk,President,,SOC,Calero/Hawkins,148
+Suffolk,President,,Write-in,Michael A. Peroutka,33
+Suffolk,President,,Write-in,David Cobb,16
+Suffolk,President,,Write-in,Michael Halpin,2
+Suffolk,President,,Write-in,John Joseph Kennedy,0
+Suffolk,President,,Write-in,Bill Van Auken,0
+Sullivan,President,,DEM,Kerry/Edwards,14447
+Sullivan,President,,REP,Bush/Cheney,14398
+Sullivan,President,,CON,Bush/Cheney,921
+Sullivan,President,,WOR,Kerry/Edwards,587
+Sullivan,President,,IND,Nader/Camejo,445
+Sullivan,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",326
+Sullivan,President,,PCE,Nader/Camejo,111
+Sullivan,President,,LIB,Badnarik/Campagna,45
+Sullivan,President,,SOC,Calero/Hawkins,10
+Sullivan,President,,Write-in,John Joseph Kennedy,1
+Sullivan,President,,Write-in,Michael A. Peroutka,1
+Sullivan,President,,Write-in,David Cobb,0
+Sullivan,President,,Write-in,Michael Halpin,0
+Sullivan,President,,Write-in,Bill Van Auken,0
+Tioga,President,,REP,Bush/Cheney,13343
+Tioga,President,,DEM,Kerry/Edwards,9415
+Tioga,President,,CON,Bush/Cheney,419
+Tioga,President,,IND,Nader/Camejo,337
+Tioga,President,,WOR,Kerry/Edwards,279
+Tioga,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",99
+Tioga,President,,PCE,Nader/Camejo,52
+Tioga,President,,LIB,Badnarik/Campagna,50
+Tioga,President,,SOC,Calero/Hawkins,4
+Tioga,President,,Write-in,Michael A. Peroutka,2
+Tioga,President,,Write-in,David Cobb,1
+Tioga,President,,Write-in,Michael Halpin,0
+Tioga,President,,Write-in,John Joseph Kennedy,0
+Tioga,President,,Write-in,Bill Van Auken,0
 Tompkins,President,,DEM,Kerry/Edwards,25659
 Tompkins,President,,REP,Bush/Cheney,13539
 Tompkins,President,,WOR,Kerry/Edwards,1570
@@ -762,48 +762,48 @@ Tompkins,President,,Write-in,Michael A. Peroutka,5
 Tompkins,President,,Write-in,Bill Van Auken,1
 Tompkins,President,,Write-in,Michael Halpin,0
 Tompkins,President,,Write-in,John Joseph Kennedy,0
-Ulster ,President,,DEM,Kerry/Edwards,45530
-Ulster ,President,,REP,Bush/Cheney,35234
-Ulster ,President,,CON,Bush/Cheney,2587
-Ulster ,President,,WOR,Kerry/Edwards,2072
-Ulster ,President,,IND,Nader/Camejo,1582
-Ulster ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",465
-Ulster ,President,,PCE,Nader/Camejo,441
-Ulster ,President,,LIB,Badnarik/Campagna,222
-Ulster ,President,,SOC,Calero/Hawkins,34
-Ulster ,President,,Write-in,David Cobb,7
-Ulster ,President,,Write-in,Michael A. Peroutka,3
-Ulster ,President,,Write-in,Michael Halpin,0
-Ulster ,President,,Write-in,John Joseph Kennedy,0
-Ulster ,President,,Write-in,Bill Van Auken,0
-Warren ,President,,REP,Bush/Cheney,16213
-Warren ,President,,DEM,Kerry/Edwards,13054
-Warren ,President,,CON,Bush/Cheney,756
-Warren ,President,,IND,Nader/Camejo,489
-Warren ,President,,WOR,Kerry/Edwards,351
-Warren ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",224
-Warren ,President,,PCE,Nader/Camejo,117
-Warren ,President,,LIB,Badnarik/Campagna,64
-Warren ,President,,SOC,Calero/Hawkins,14
-Warren ,President,,Write-in,John Joseph Kennedy,1
-Warren ,President,,Write-in,David Cobb,0
-Warren ,President,,Write-in,Michael Halpin,0
-Warren ,President,,Write-in,Michael A. Peroutka,0
-Warren ,President,,Write-in,Bill Van Auken,0
-Washington ,President,,REP,Bush/Cheney,13148
-Washington ,President,,DEM,Kerry/Edwards,10295
-Washington ,President,,CON,Bush/Cheney,679
-Washington ,President,,IND,Nader/Camejo,497
-Washington ,President,,WOR,Kerry/Edwards,329
-Washington ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",120
-Washington ,President,,PCE,Nader/Camejo,74
-Washington ,President,,LIB,Badnarik/Campagna,65
-Washington ,President,,SOC,Calero/Hawkins,15
-Washington ,President,,Write-in,David Cobb,1
-Washington ,President,,Write-in,Michael Halpin,0
-Washington ,President,,Write-in,John Joseph Kennedy,0
-Washington ,President,,Write-in,Michael A. Peroutka,0
-Washington ,President,,Write-in,Bill Van Auken,0
+Ulster,President,,DEM,Kerry/Edwards,45530
+Ulster,President,,REP,Bush/Cheney,35234
+Ulster,President,,CON,Bush/Cheney,2587
+Ulster,President,,WOR,Kerry/Edwards,2072
+Ulster,President,,IND,Nader/Camejo,1582
+Ulster,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",465
+Ulster,President,,PCE,Nader/Camejo,441
+Ulster,President,,LIB,Badnarik/Campagna,222
+Ulster,President,,SOC,Calero/Hawkins,34
+Ulster,President,,Write-in,David Cobb,7
+Ulster,President,,Write-in,Michael A. Peroutka,3
+Ulster,President,,Write-in,Michael Halpin,0
+Ulster,President,,Write-in,John Joseph Kennedy,0
+Ulster,President,,Write-in,Bill Van Auken,0
+Warren,President,,REP,Bush/Cheney,16213
+Warren,President,,DEM,Kerry/Edwards,13054
+Warren,President,,CON,Bush/Cheney,756
+Warren,President,,IND,Nader/Camejo,489
+Warren,President,,WOR,Kerry/Edwards,351
+Warren,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",224
+Warren,President,,PCE,Nader/Camejo,117
+Warren,President,,LIB,Badnarik/Campagna,64
+Warren,President,,SOC,Calero/Hawkins,14
+Warren,President,,Write-in,John Joseph Kennedy,1
+Warren,President,,Write-in,David Cobb,0
+Warren,President,,Write-in,Michael Halpin,0
+Warren,President,,Write-in,Michael A. Peroutka,0
+Warren,President,,Write-in,Bill Van Auken,0
+Washington,President,,REP,Bush/Cheney,13148
+Washington,President,,DEM,Kerry/Edwards,10295
+Washington,President,,CON,Bush/Cheney,679
+Washington,President,,IND,Nader/Camejo,497
+Washington,President,,WOR,Kerry/Edwards,329
+Washington,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",120
+Washington,President,,PCE,Nader/Camejo,74
+Washington,President,,LIB,Badnarik/Campagna,65
+Washington,President,,SOC,Calero/Hawkins,15
+Washington,President,,Write-in,David Cobb,1
+Washington,President,,Write-in,Michael Halpin,0
+Washington,President,,Write-in,John Joseph Kennedy,0
+Washington,President,,Write-in,Michael A. Peroutka,0
+Washington,President,,Write-in,Bill Van Auken,0
 Wayne,President,,REP,Bush/Cheney,23126
 Wayne,President,,DEM,Kerry/Edwards,15093
 Wayne,President,,CON,Bush/Cheney,1583
@@ -818,20 +818,20 @@ Wayne,President,,Write-in,David Cobb,0
 Wayne,President,,Write-in,Michael Halpin,0
 Wayne,President,,Write-in,John Joseph Kennedy,0
 Wayne,President,,Write-in,Bill Van Auken,0
-Westchester ,President,,DEM,Kerry/Edwards,224992
-Westchester ,President,,REP,Bush/Cheney,151261
-Westchester ,President,,CON,Bush/Cheney,8367
-Westchester ,President,,IND,Nader/Camejo,4861
-Westchester ,President,,WOR,Kerry/Edwards,4857
-Westchester ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",2762
-Westchester ,President,,PCE,Nader/Camejo,672
-Westchester ,President,,LIB,Badnarik/Campagna,636
-Westchester ,President,,SOC,Calero/Hawkins,111
-Westchester ,President,,Write-in,David Cobb,5
-Westchester ,President,,Write-in,Michael A. Peroutka,5
-Westchester ,President,,Write-in,Bill Van Auken,2
-Westchester ,President,,Write-in,John Joseph Kennedy,1
-Westchester ,President,,Write-in,Michael Halpin,0
+Westchester,President,,DEM,Kerry/Edwards,224992
+Westchester,President,,REP,Bush/Cheney,151261
+Westchester,President,,CON,Bush/Cheney,8367
+Westchester,President,,IND,Nader/Camejo,4861
+Westchester,President,,WOR,Kerry/Edwards,4857
+Westchester,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",2762
+Westchester,President,,PCE,Nader/Camejo,672
+Westchester,President,,LIB,Badnarik/Campagna,636
+Westchester,President,,SOC,Calero/Hawkins,111
+Westchester,President,,Write-in,David Cobb,5
+Westchester,President,,Write-in,Michael A. Peroutka,5
+Westchester,President,,Write-in,Bill Van Auken,2
+Westchester,President,,Write-in,John Joseph Kennedy,1
+Westchester,President,,Write-in,Michael Halpin,0
 Wyoming,President,,REP,Bush/Cheney,11185
 Wyoming,President,,DEM,Kerry/Edwards,5894
 Wyoming,President,,CON,Bush/Cheney,560
@@ -846,20 +846,20 @@ Wyoming,President,,Write-in,Michael Halpin,0
 Wyoming,President,,Write-in,John Joseph Kennedy,0
 Wyoming,President,,Write-in,Michael A. Peroutka,0
 Wyoming,President,,Write-in,Bill Van Auken,0
-Yates ,President,,REP,Bush/Cheney,6053
-Yates ,President,,DEM,Kerry/Edwards,4062
-Yates ,President,,CON,Bush/Cheney,256
-Yates ,President,,IND,Nader/Camejo,147
-Yates ,President,,WOR,Kerry/Edwards,143
-Yates ,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",55
-Yates ,President,,PCE,Nader/Camejo,27
-Yates ,President,,LIB,Badnarik/Campagna,23
-Yates ,President,,SOC,Calero/Hawkins,0
-Yates ,President,,Write-in,David Cobb,0
-Yates ,President,,Write-in,Michael Halpin,0
-Yates ,President,,Write-in,John Joseph Kennedy,0
-Yates ,President,,Write-in,Michael A. Peroutka,0
-Yates ,President,,Write-in,Bill Van Auken,0
+Yates,President,,REP,Bush/Cheney,6053
+Yates,President,,DEM,Kerry/Edwards,4062
+Yates,President,,CON,Bush/Cheney,256
+Yates,President,,IND,Nader/Camejo,147
+Yates,President,,WOR,Kerry/Edwards,143
+Yates,President,,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",55
+Yates,President,,PCE,Nader/Camejo,27
+Yates,President,,LIB,Badnarik/Campagna,23
+Yates,President,,SOC,Calero/Hawkins,0
+Yates,President,,Write-in,David Cobb,0
+Yates,President,,Write-in,Michael Halpin,0
+Yates,President,,Write-in,John Joseph Kennedy,0
+Yates,President,,Write-in,Michael A. Peroutka,0
+Yates,President,,Write-in,Bill Van Auken,0
 Albany,U.S. Senate,,REP,Howard Mills,34800
 Allegany,U.S. Senate,,REP,Howard Mills,7856
 Broome,U.S. Senate,,REP,Howard Mills,27768
@@ -3115,7 +3115,7 @@ Westchester,State Assembly,92,DEM,Richard L. Brodsky,33323
 Westchester,State Assembly,92,IND,Richard L. Brodsky,2087
 Westchester,State Assembly,92,WOR,Richard L. Brodsky,1017
 Westchester,State Assembly,92,"Blanks, Voids, Scattering","Blanks, Voids, Scattering",26395
-Westchester,State Assembly,92,REP, ,0
+Westchester,State Assembly,92,REP,,0
 Westchester,State Assembly,93,DEM,Steve Ploski,18877
 Westchester,State Assembly,93,REP,Louis A. Mosiello,18027
 Westchester,State Assembly,93,IND,Louis A. Mosiello,1266

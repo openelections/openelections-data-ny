@@ -28,7 +28,7 @@ Tompkins,CITY TOTAL,Governor,,,Ballots Cast,5723
 Tompkins,CAROLINE 1,Governor,,,Ballots Cast,227
 Tompkins,CAROLINE 2,Governor,,,Ballots Cast,446
 Tompkins,CAROLINE 3,Governor,,,Ballots Cast,524
-Tompkins,TOTAL CAROLINE ,Governor,,,Ballots Cast,1197
+Tompkins,TOTAL CAROLINE,Governor,,,Ballots Cast,1197
 Tompkins,DANBY 1,Governor,,,Ballots Cast,595
 Tompkins,DANBY 2,Governor,,,Ballots Cast,140
 Tompkins,DANBY 3,Governor,,,Ballots Cast,478
@@ -113,7 +113,7 @@ Tompkins,CITY TOTAL,Governor,,,Registered,11139
 Tompkins,CAROLINE 1,Governor,,,Registered,375
 Tompkins,CAROLINE 2,Governor,,,Registered,681
 Tompkins,CAROLINE 3,Governor,,,Registered,770
-Tompkins,TOTAL CAROLINE ,Governor,,,Registered,1826
+Tompkins,TOTAL CAROLINE,Governor,,,Registered,1826
 Tompkins,DANBY 1,Governor,,,Registered,916
 Tompkins,DANBY 2,Governor,,,Registered,219
 Tompkins,DANBY 3,Governor,,,Registered,786
@@ -198,7 +198,7 @@ Tompkins,CITY TOTAL,Governor,,Rep,George Pataki,1190
 Tompkins,CAROLINE 1,Governor,,Rep,George Pataki,80
 Tompkins,CAROLINE 2,Governor,,Rep,George Pataki,193
 Tompkins,CAROLINE 3,Governor,,Rep,George Pataki,190
-Tompkins,TOTAL CAROLINE ,Governor,,Rep,George Pataki,463
+Tompkins,TOTAL CAROLINE,Governor,,Rep,George Pataki,463
 Tompkins,DANBY 1,Governor,,Rep,George Pataki,225
 Tompkins,DANBY 2,Governor,,Rep,George Pataki,47
 Tompkins,DANBY 3,Governor,,Rep,George Pataki,165
@@ -283,7 +283,7 @@ Tompkins,CITY TOTAL,Governor,,Dem,Carl McCall,2501
 Tompkins,CAROLINE 1,Governor,,Dem,Carl McCall,61
 Tompkins,CAROLINE 2,Governor,,Dem,Carl McCall,116
 Tompkins,CAROLINE 3,Governor,,Dem,Carl McCall,165
-Tompkins,TOTAL CAROLINE ,Governor,,Dem,Carl McCall,342
+Tompkins,TOTAL CAROLINE,Governor,,Dem,Carl McCall,342
 Tompkins,DANBY 1,Governor,,Dem,Carl McCall,201
 Tompkins,DANBY 2,Governor,,Dem,Carl McCall,46
 Tompkins,DANBY 3,Governor,,Dem,Carl McCall,160
@@ -368,7 +368,7 @@ Tompkins,CITY TOTAL,Governor,,IDC,Tom Golisano,448
 Tompkins,CAROLINE 1,Governor,,IDC,Tom Golisano,40
 Tompkins,CAROLINE 2,Governor,,IDC,Tom Golisano,58
 Tompkins,CAROLINE 3,Governor,,IDC,Tom Golisano,77
-Tompkins,TOTAL CAROLINE ,Governor,,IDC,Tom Golisano,175
+Tompkins,TOTAL CAROLINE,Governor,,IDC,Tom Golisano,175
 Tompkins,DANBY 1,Governor,,IDC,Tom Golisano,68
 Tompkins,DANBY 2,Governor,,IDC,Tom Golisano,18
 Tompkins,DANBY 3,Governor,,IDC,Tom Golisano,58
@@ -453,7 +453,7 @@ Tompkins,CITY TOTAL,Governor,,Con,George Pataki,56
 Tompkins,CAROLINE 1,Governor,,Con,George Pataki,9
 Tompkins,CAROLINE 2,Governor,,Con,George Pataki,12
 Tompkins,CAROLINE 3,Governor,,Con,George Pataki,9
-Tompkins,TOTAL CAROLINE ,Governor,,Con,George Pataki,30
+Tompkins,TOTAL CAROLINE,Governor,,Con,George Pataki,30
 Tompkins,DANBY 1,Governor,,Con,George Pataki,16
 Tompkins,DANBY 2,Governor,,Con,George Pataki,6
 Tompkins,DANBY 3,Governor,,Con,George Pataki,9
@@ -538,7 +538,7 @@ Tompkins,CITY TOTAL,Governor,,Lib,Andrew Cuomo,42
 Tompkins,CAROLINE 1,Governor,,Lib,Andrew Cuomo,1
 Tompkins,CAROLINE 2,Governor,,Lib,Andrew Cuomo,2
 Tompkins,CAROLINE 3,Governor,,Lib,Andrew Cuomo,5
-Tompkins,TOTAL CAROLINE ,Governor,,Lib,Andrew Cuomo,8
+Tompkins,TOTAL CAROLINE,Governor,,Lib,Andrew Cuomo,8
 Tompkins,DANBY 1,Governor,,Lib,Andrew Cuomo,1
 Tompkins,DANBY 2,Governor,,Lib,Andrew Cuomo,0
 Tompkins,DANBY 3,Governor,,Lib,Andrew Cuomo,2
@@ -623,7 +623,7 @@ Tompkins,CITY TOTAL,Governor,,RTL,Gerard Cronin,28
 Tompkins,CAROLINE 1,Governor,,RTL,Gerard Cronin,1
 Tompkins,CAROLINE 2,Governor,,RTL,Gerard Cronin,2
 Tompkins,CAROLINE 3,Governor,,RTL,Gerard Cronin,3
-Tompkins,TOTAL CAROLINE ,Governor,,RTL,Gerard Cronin,6
+Tompkins,TOTAL CAROLINE,Governor,,RTL,Gerard Cronin,6
 Tompkins,DANBY 1,Governor,,RTL,Gerard Cronin,3
 Tompkins,DANBY 2,Governor,,RTL,Gerard Cronin,1
 Tompkins,DANBY 3,Governor,,RTL,Gerard Cronin,0
@@ -708,7 +708,7 @@ Tompkins,CITY TOTAL,Governor,,Green,Stanley Aronowitz,607
 Tompkins,CAROLINE 1,Governor,,Green,Stanley Aronowitz,9
 Tompkins,CAROLINE 2,Governor,,Green,Stanley Aronowitz,28
 Tompkins,CAROLINE 3,Governor,,Green,Stanley Aronowitz,40
-Tompkins,TOTAL CAROLINE ,Governor,,Green,Stanley Aronowitz,77
+Tompkins,TOTAL CAROLINE,Governor,,Green,Stanley Aronowitz,77
 Tompkins,DANBY 1,Governor,,Green,Stanley Aronowitz,40
 Tompkins,DANBY 2,Governor,,Green,Stanley Aronowitz,7
 Tompkins,DANBY 3,Governor,,Green,Stanley Aronowitz,26
@@ -793,7 +793,7 @@ Tompkins,CITY TOTAL,Governor,,WF,Carl McCall,534
 Tompkins,CAROLINE 1,Governor,,WF,Carl McCall,10
 Tompkins,CAROLINE 2,Governor,,WF,Carl McCall,14
 Tompkins,CAROLINE 3,Governor,,WF,Carl McCall,13
-Tompkins,TOTAL CAROLINE ,Governor,,WF,Carl McCall,37
+Tompkins,TOTAL CAROLINE,Governor,,WF,Carl McCall,37
 Tompkins,DANBY 1,Governor,,WF,Carl McCall,16
 Tompkins,DANBY 2,Governor,,WF,Carl McCall,2
 Tompkins,DANBY 3,Governor,,WF,Carl McCall,27
@@ -878,7 +878,7 @@ Tompkins,CITY TOTAL,Governor,,MJR,Thomas Leighton,144
 Tompkins,CAROLINE 1,Governor,,MJR,Thomas Leighton,8
 Tompkins,CAROLINE 2,Governor,,MJR,Thomas Leighton,6
 Tompkins,CAROLINE 3,Governor,,MJR,Thomas Leighton,9
-Tompkins,TOTAL CAROLINE ,Governor,,MJR,Thomas Leighton,23
+Tompkins,TOTAL CAROLINE,Governor,,MJR,Thomas Leighton,23
 Tompkins,DANBY 1,Governor,,MJR,Thomas Leighton,12
 Tompkins,DANBY 2,Governor,,MJR,Thomas Leighton,7
 Tompkins,DANBY 3,Governor,,MJR,Thomas Leighton,9
@@ -963,7 +963,7 @@ Tompkins,CITY TOTAL,Governor,,Libertarian,Scott Jeffrey,20
 Tompkins,CAROLINE 1,Governor,,Libertarian,Scott Jeffrey,0
 Tompkins,CAROLINE 2,Governor,,Libertarian,Scott Jeffrey,2
 Tompkins,CAROLINE 3,Governor,,Libertarian,Scott Jeffrey,0
-Tompkins,TOTAL CAROLINE ,Governor,,Libertarian,Scott Jeffrey,2
+Tompkins,TOTAL CAROLINE,Governor,,Libertarian,Scott Jeffrey,2
 Tompkins,DANBY 1,Governor,,Libertarian,Scott Jeffrey,0
 Tompkins,DANBY 2,Governor,,Libertarian,Scott Jeffrey,0
 Tompkins,DANBY 3,Governor,,Libertarian,Scott Jeffrey,0
@@ -1048,7 +1048,7 @@ Tompkins,CITY TOTAL,Governor,,,Void,17
 Tompkins,CAROLINE 1,Governor,,,Void,0
 Tompkins,CAROLINE 2,Governor,,,Void,0
 Tompkins,CAROLINE 3,Governor,,,Void,3
-Tompkins,TOTAL CAROLINE ,Governor,,,Void,3
+Tompkins,TOTAL CAROLINE,Governor,,,Void,3
 Tompkins,DANBY 1,Governor,,,Void,2
 Tompkins,DANBY 2,Governor,,,Void,1
 Tompkins,DANBY 3,Governor,,,Void,2
@@ -1133,7 +1133,7 @@ Tompkins,CITY TOTAL,Governor,,,Scattering,0
 Tompkins,CAROLINE 1,Governor,,,Scattering,0
 Tompkins,CAROLINE 2,Governor,,,Scattering,0
 Tompkins,CAROLINE 3,Governor,,,Scattering,0
-Tompkins,TOTAL CAROLINE ,Governor,,,Scattering,0
+Tompkins,TOTAL CAROLINE,Governor,,,Scattering,0
 Tompkins,DANBY 1,Governor,,,Scattering,0
 Tompkins,DANBY 2,Governor,,,Scattering,0
 Tompkins,DANBY 3,Governor,,,Scattering,0
@@ -1218,7 +1218,7 @@ Tompkins,CITY TOTAL,Governor,,,Blank,136
 Tompkins,CAROLINE 1,Governor,,,Blank,8
 Tompkins,CAROLINE 2,Governor,,,Blank,13
 Tompkins,CAROLINE 3,Governor,,,Blank,10
-Tompkins,TOTAL CAROLINE ,Governor,,,Blank,31
+Tompkins,TOTAL CAROLINE,Governor,,,Blank,31
 Tompkins,DANBY 1,Governor,,,Blank,11
 Tompkins,DANBY 2,Governor,,,Blank,5
 Tompkins,DANBY 3,Governor,,,Blank,20
@@ -1303,7 +1303,7 @@ Tompkins,CITY TOTAL,Comptroller,,Rep,John Faso,861
 Tompkins,CAROLINE 1,Comptroller,,Rep,John Faso,73
 Tompkins,CAROLINE 2,Comptroller,,Rep,John Faso,171
 Tompkins,CAROLINE 3,Comptroller,,Rep,John Faso,156
-Tompkins,TOTAL CAROLINE ,Comptroller,,Rep,John Faso,400
+Tompkins,TOTAL CAROLINE,Comptroller,,Rep,John Faso,400
 Tompkins,DANBY 1,Comptroller,,Rep,John Faso,188
 Tompkins,DANBY 2,Comptroller,,Rep,John Faso,47
 Tompkins,DANBY 3,Comptroller,,Rep,John Faso,139
@@ -1388,7 +1388,7 @@ Tompkins,CITY TOTAL,Comptroller,,Dem,Alan Hevesi,2717
 Tompkins,CAROLINE 1,Comptroller,,Dem,Alan Hevesi,78
 Tompkins,CAROLINE 2,Comptroller,,Dem,Alan Hevesi,138
 Tompkins,CAROLINE 3,Comptroller,,Dem,Alan Hevesi,188
-Tompkins,TOTAL CAROLINE ,Comptroller,,Dem,Alan Hevesi,404
+Tompkins,TOTAL CAROLINE,Comptroller,,Dem,Alan Hevesi,404
 Tompkins,DANBY 1,Comptroller,,Dem,Alan Hevesi,236
 Tompkins,DANBY 2,Comptroller,,Dem,Alan Hevesi,51
 Tompkins,DANBY 3,Comptroller,,Dem,Alan Hevesi,197
@@ -1473,7 +1473,7 @@ Tompkins,CITY TOTAL,Comptroller,,IDC,John Faso,121
 Tompkins,CAROLINE 1,Comptroller,,IDC,John Faso,8
 Tompkins,CAROLINE 2,Comptroller,,IDC,John Faso,17
 Tompkins,CAROLINE 3,Comptroller,,IDC,John Faso,20
-Tompkins,TOTAL CAROLINE ,Comptroller,,IDC,John Faso,45
+Tompkins,TOTAL CAROLINE,Comptroller,,IDC,John Faso,45
 Tompkins,DANBY 1,Comptroller,,IDC,John Faso,18
 Tompkins,DANBY 2,Comptroller,,IDC,John Faso,6
 Tompkins,DANBY 3,Comptroller,,IDC,John Faso,15
@@ -1558,7 +1558,7 @@ Tompkins,CITY TOTAL,Comptroller,,Con,John Faso,46
 Tompkins,CAROLINE 1,Comptroller,,Con,John Faso,9
 Tompkins,CAROLINE 2,Comptroller,,Con,John Faso,10
 Tompkins,CAROLINE 3,Comptroller,,Con,John Faso,7
-Tompkins,TOTAL CAROLINE ,Comptroller,,Con,John Faso,26
+Tompkins,TOTAL CAROLINE,Comptroller,,Con,John Faso,26
 Tompkins,DANBY 1,Comptroller,,Con,John Faso,15
 Tompkins,DANBY 2,Comptroller,,Con,John Faso,4
 Tompkins,DANBY 3,Comptroller,,Con,John Faso,7
@@ -1643,7 +1643,7 @@ Tompkins,CITY TOTAL,Comptroller,,Lib,Alan Hevesi,86
 Tompkins,CAROLINE 1,Comptroller,,Lib,Alan Hevesi,2
 Tompkins,CAROLINE 2,Comptroller,,Lib,Alan Hevesi,5
 Tompkins,CAROLINE 3,Comptroller,,Lib,Alan Hevesi,9
-Tompkins,TOTAL CAROLINE ,Comptroller,,Lib,Alan Hevesi,16
+Tompkins,TOTAL CAROLINE,Comptroller,,Lib,Alan Hevesi,16
 Tompkins,DANBY 1,Comptroller,,Lib,Alan Hevesi,6
 Tompkins,DANBY 2,Comptroller,,Lib,Alan Hevesi,0
 Tompkins,DANBY 3,Comptroller,,Lib,Alan Hevesi,4
@@ -1728,7 +1728,7 @@ Tompkins,CITY TOTAL,Comptroller,,RTL,Garifalia Christea,31
 Tompkins,CAROLINE 1,Comptroller,,RTL,Garifalia Christea,4
 Tompkins,CAROLINE 2,Comptroller,,RTL,Garifalia Christea,2
 Tompkins,CAROLINE 3,Comptroller,,RTL,Garifalia Christea,3
-Tompkins,TOTAL CAROLINE ,Comptroller,,RTL,Garifalia Christea,9
+Tompkins,TOTAL CAROLINE,Comptroller,,RTL,Garifalia Christea,9
 Tompkins,DANBY 1,Comptroller,,RTL,Garifalia Christea,4
 Tompkins,DANBY 2,Comptroller,,RTL,Garifalia Christea,1
 Tompkins,DANBY 3,Comptroller,,RTL,Garifalia Christea,3
@@ -1813,7 +1813,7 @@ Tompkins,CITY TOTAL,Comptroller,,Green,Howie Hawkins,621
 Tompkins,CAROLINE 1,Comptroller,,Green,Howie Hawkins,16
 Tompkins,CAROLINE 2,Comptroller,,Green,Howie Hawkins,28
 Tompkins,CAROLINE 3,Comptroller,,Green,Howie Hawkins,39
-Tompkins,TOTAL CAROLINE ,Comptroller,,Green,Howie Hawkins,83
+Tompkins,TOTAL CAROLINE,Comptroller,,Green,Howie Hawkins,83
 Tompkins,DANBY 1,Comptroller,,Green,Howie Hawkins,38
 Tompkins,DANBY 2,Comptroller,,Green,Howie Hawkins,5
 Tompkins,DANBY 3,Comptroller,,Green,Howie Hawkins,29
@@ -1898,7 +1898,7 @@ Tompkins,CITY TOTAL,Comptroller,,WF,Alan Hevesi,549
 Tompkins,CAROLINE 1,Comptroller,,WF,Alan Hevesi,9
 Tompkins,CAROLINE 2,Comptroller,,WF,Alan Hevesi,19
 Tompkins,CAROLINE 3,Comptroller,,WF,Alan Hevesi,21
-Tompkins,TOTAL CAROLINE ,Comptroller,,WF,Alan Hevesi,49
+Tompkins,TOTAL CAROLINE,Comptroller,,WF,Alan Hevesi,49
 Tompkins,DANBY 1,Comptroller,,WF,Alan Hevesi,19
 Tompkins,DANBY 2,Comptroller,,WF,Alan Hevesi,3
 Tompkins,DANBY 3,Comptroller,,WF,Alan Hevesi,27
@@ -1983,7 +1983,7 @@ Tompkins,CITY TOTAL,Comptroller,,MJR,James Eisert,66
 Tompkins,CAROLINE 1,Comptroller,,MJR,James Eisert,5
 Tompkins,CAROLINE 2,Comptroller,,MJR,James Eisert,1
 Tompkins,CAROLINE 3,Comptroller,,MJR,James Eisert,7
-Tompkins,TOTAL CAROLINE ,Comptroller,,MJR,James Eisert,13
+Tompkins,TOTAL CAROLINE,Comptroller,,MJR,James Eisert,13
 Tompkins,DANBY 1,Comptroller,,MJR,James Eisert,0
 Tompkins,DANBY 2,Comptroller,,MJR,James Eisert,3
 Tompkins,DANBY 3,Comptroller,,MJR,James Eisert,2
@@ -2068,7 +2068,7 @@ Tompkins,CITY TOTAL,Comptroller,,,Blank,621
 Tompkins,CAROLINE 1,Comptroller,,,Blank,23
 Tompkins,CAROLINE 2,Comptroller,,,Blank,55
 Tompkins,CAROLINE 3,Comptroller,,,Blank,73
-Tompkins,TOTAL CAROLINE ,Comptroller,,,Blank,151
+Tompkins,TOTAL CAROLINE,Comptroller,,,Blank,151
 Tompkins,DANBY 1,Comptroller,,,Blank,70
 Tompkins,DANBY 2,Comptroller,,,Blank,20
 Tompkins,DANBY 3,Comptroller,,,Blank,53
@@ -2153,7 +2153,7 @@ Tompkins,CITY TOTAL,Comptroller,,,Void,4
 Tompkins,CAROLINE 1,Comptroller,,,Void,0
 Tompkins,CAROLINE 2,Comptroller,,,Void,0
 Tompkins,CAROLINE 3,Comptroller,,,Void,1
-Tompkins,TOTAL CAROLINE ,Comptroller,,,Void,1
+Tompkins,TOTAL CAROLINE,Comptroller,,,Void,1
 Tompkins,DANBY 1,Comptroller,,,Void,1
 Tompkins,DANBY 2,Comptroller,,,Void,0
 Tompkins,DANBY 3,Comptroller,,,Void,2
@@ -2238,7 +2238,7 @@ Tompkins,CITY TOTAL,Comptroller,,,Scattering,0
 Tompkins,CAROLINE 1,Comptroller,,,Scattering,0
 Tompkins,CAROLINE 2,Comptroller,,,Scattering,0
 Tompkins,CAROLINE 3,Comptroller,,,Scattering,0
-Tompkins,TOTAL CAROLINE ,Comptroller,,,Scattering,0
+Tompkins,TOTAL CAROLINE,Comptroller,,,Scattering,0
 Tompkins,DANBY 1,Comptroller,,,Scattering,0
 Tompkins,DANBY 2,Comptroller,,,Scattering,0
 Tompkins,DANBY 3,Comptroller,,,Scattering,0
@@ -2323,7 +2323,7 @@ Tompkins,CITY TOTAL,Attorney,,Rep,Dora Irizarry,584
 Tompkins,CAROLINE 1,Attorney,,Rep,Dora Irizarry,57
 Tompkins,CAROLINE 2,Attorney,,Rep,Dora Irizarry,136
 Tompkins,CAROLINE 3,Attorney,,Rep,Dora Irizarry,108
-Tompkins,TOTAL CAROLINE ,Attorney,,Rep,Dora Irizarry,301
+Tompkins,TOTAL CAROLINE,Attorney,,Rep,Dora Irizarry,301
 Tompkins,DANBY 1,Attorney,,Rep,Dora Irizarry,132
 Tompkins,DANBY 2,Attorney,,Rep,Dora Irizarry,27
 Tompkins,DANBY 3,Attorney,,Rep,Dora Irizarry,100
@@ -2408,7 +2408,7 @@ Tompkins,CITY TOTAL,Attorney,,Dem,Eliot Spitzer,3142
 Tompkins,CAROLINE 1,Attorney,,Dem,Eliot Spitzer,93
 Tompkins,CAROLINE 2,Attorney,,Dem,Eliot Spitzer,179
 Tompkins,CAROLINE 3,Attorney,,Dem,Eliot Spitzer,264
-Tompkins,TOTAL CAROLINE ,Attorney,,Dem,Eliot Spitzer,536
+Tompkins,TOTAL CAROLINE,Attorney,,Dem,Eliot Spitzer,536
 Tompkins,DANBY 1,Attorney,,Dem,Eliot Spitzer,304
 Tompkins,DANBY 2,Attorney,,Dem,Eliot Spitzer,63
 Tompkins,DANBY 3,Attorney,,Dem,Eliot Spitzer,233
@@ -2493,7 +2493,7 @@ Tompkins,CITY TOTAL,Attorney,,Idc,Eliot Spitzer,165
 Tompkins,CAROLINE 1,Attorney,,Idc,Eliot Spitzer,8
 Tompkins,CAROLINE 2,Attorney,,Idc,Eliot Spitzer,18
 Tompkins,CAROLINE 3,Attorney,,Idc,Eliot Spitzer,29
-Tompkins,TOTAL CAROLINE ,Attorney,,Idc,Eliot Spitzer,55
+Tompkins,TOTAL CAROLINE,Attorney,,Idc,Eliot Spitzer,55
 Tompkins,DANBY 1,Attorney,,Idc,Eliot Spitzer,26
 Tompkins,DANBY 2,Attorney,,Idc,Eliot Spitzer,9
 Tompkins,DANBY 3,Attorney,,Idc,Eliot Spitzer,27
@@ -2578,7 +2578,7 @@ Tompkins,CITY TOTAL,Attorney,,Con,Dora Irizarry,34
 Tompkins,CAROLINE 1,Attorney,,Con,Dora Irizarry,8
 Tompkins,CAROLINE 2,Attorney,,Con,Dora Irizarry,5
 Tompkins,CAROLINE 3,Attorney,,Con,Dora Irizarry,6
-Tompkins,TOTAL CAROLINE ,Attorney,,Con,Dora Irizarry,19
+Tompkins,TOTAL CAROLINE,Attorney,,Con,Dora Irizarry,19
 Tompkins,DANBY 1,Attorney,,Con,Dora Irizarry,11
 Tompkins,DANBY 2,Attorney,,Con,Dora Irizarry,3
 Tompkins,DANBY 3,Attorney,,Con,Dora Irizarry,4
@@ -2663,7 +2663,7 @@ Tompkins,CITY TOTAL,Attorney,,Lib,Eliot Spitzer,92
 Tompkins,CAROLINE 1,Attorney,,Lib,Eliot Spitzer,4
 Tompkins,CAROLINE 2,Attorney,,Lib,Eliot Spitzer,8
 Tompkins,CAROLINE 3,Attorney,,Lib,Eliot Spitzer,12
-Tompkins,TOTAL CAROLINE ,Attorney,,Lib,Eliot Spitzer,24
+Tompkins,TOTAL CAROLINE,Attorney,,Lib,Eliot Spitzer,24
 Tompkins,DANBY 1,Attorney,,Lib,Eliot Spitzer,9
 Tompkins,DANBY 2,Attorney,,Lib,Eliot Spitzer,1
 Tompkins,DANBY 3,Attorney,,Lib,Eliot Spitzer,4
@@ -2748,7 +2748,7 @@ Tompkins,CITY TOTAL,Attorney,,RTL,John Broderick,39
 Tompkins,CAROLINE 1,Attorney,,RTL,John Broderick,5
 Tompkins,CAROLINE 2,Attorney,,RTL,John Broderick,5
 Tompkins,CAROLINE 3,Attorney,,RTL,John Broderick,3
-Tompkins,TOTAL CAROLINE ,Attorney,,RTL,John Broderick,13
+Tompkins,TOTAL CAROLINE,Attorney,,RTL,John Broderick,13
 Tompkins,DANBY 1,Attorney,,RTL,John Broderick,3
 Tompkins,DANBY 2,Attorney,,RTL,John Broderick,2
 Tompkins,DANBY 3,Attorney,,RTL,John Broderick,3
@@ -2833,7 +2833,7 @@ Tompkins,CITY TOTAL,Attorney,,Green,Mary Jo Long,527
 Tompkins,CAROLINE 1,Attorney,,Green,Mary Jo Long,17
 Tompkins,CAROLINE 2,Attorney,,Green,Mary Jo Long,29
 Tompkins,CAROLINE 3,Attorney,,Green,Mary Jo Long,36
-Tompkins,TOTAL CAROLINE ,Attorney,,Green,Mary Jo Long,82
+Tompkins,TOTAL CAROLINE,Attorney,,Green,Mary Jo Long,82
 Tompkins,DANBY 1,Attorney,,Green,Mary Jo Long,26
 Tompkins,DANBY 2,Attorney,,Green,Mary Jo Long,8
 Tompkins,DANBY 3,Attorney,,Green,Mary Jo Long,24
@@ -2918,7 +2918,7 @@ Tompkins,CITY TOTAL,Attorney,,WF,Eliot Spitzer,588
 Tompkins,CAROLINE 1,Attorney,,WF,Eliot Spitzer,10
 Tompkins,CAROLINE 2,Attorney,,WF,Eliot Spitzer,20
 Tompkins,CAROLINE 3,Attorney,,WF,Eliot Spitzer,23
-Tompkins,TOTAL CAROLINE ,Attorney,,WF,Eliot Spitzer,53
+Tompkins,TOTAL CAROLINE,Attorney,,WF,Eliot Spitzer,53
 Tompkins,DANBY 1,Attorney,,WF,Eliot Spitzer,23
 Tompkins,DANBY 2,Attorney,,WF,Eliot Spitzer,4
 Tompkins,DANBY 3,Attorney,,WF,Eliot Spitzer,29
@@ -3003,7 +3003,7 @@ Tompkins,CITY TOTAL,Attorney,,MJR,Daniel Conti,62
 Tompkins,CAROLINE 1,Attorney,,MJR,Daniel Conti,3
 Tompkins,CAROLINE 2,Attorney,,MJR,Daniel Conti,1
 Tompkins,CAROLINE 3,Attorney,,MJR,Daniel Conti,3
-Tompkins,TOTAL CAROLINE ,Attorney,,MJR,Daniel Conti,7
+Tompkins,TOTAL CAROLINE,Attorney,,MJR,Daniel Conti,7
 Tompkins,DANBY 1,Attorney,,MJR,Daniel Conti,2
 Tompkins,DANBY 2,Attorney,,MJR,Daniel Conti,4
 Tompkins,DANBY 3,Attorney,,MJR,Daniel Conti,5
@@ -3088,7 +3088,7 @@ Tompkins,CITY TOTAL,Attorney,,,Blank,486
 Tompkins,CAROLINE 1,Attorney,,,Blank,22
 Tompkins,CAROLINE 2,Attorney,,,Blank,45
 Tompkins,CAROLINE 3,Attorney,,,Blank,39
-Tompkins,TOTAL CAROLINE ,Attorney,,,Blank,106
+Tompkins,TOTAL CAROLINE,Attorney,,,Blank,106
 Tompkins,DANBY 1,Attorney,,,Blank,58
 Tompkins,DANBY 2,Attorney,,,Blank,19
 Tompkins,DANBY 3,Attorney,,,Blank,48
@@ -3173,7 +3173,7 @@ Tompkins,CITY TOTAL,Attorney,,,Void,4
 Tompkins,CAROLINE 1,Attorney,,,Void,0
 Tompkins,CAROLINE 2,Attorney,,,Void,0
 Tompkins,CAROLINE 3,Attorney,,,Void,1
-Tompkins,TOTAL CAROLINE ,Attorney,,,Void,1
+Tompkins,TOTAL CAROLINE,Attorney,,,Void,1
 Tompkins,DANBY 1,Attorney,,,Void,1
 Tompkins,DANBY 2,Attorney,,,Void,0
 Tompkins,DANBY 3,Attorney,,,Void,1
@@ -4025,7 +4025,7 @@ Tompkins,CITY TOTAL,State Assembly,125,Dem,Barbara Lifton,3407
 Tompkins,CAROLINE 1,State Assembly,125,Dem,Barbara Lifton,91
 Tompkins,CAROLINE 2,State Assembly,125,Dem,Barbara Lifton,188
 Tompkins,CAROLINE 3,State Assembly,125,Dem,Barbara Lifton,278
-Tompkins,TOTAL CAROLINE ,State Assembly,125,Dem,Barbara Lifton,557
+Tompkins,TOTAL CAROLINE,State Assembly,125,Dem,Barbara Lifton,557
 Tompkins,DANBY 1,State Assembly,125,Dem,Barbara Lifton,319
 Tompkins,DANBY 2,State Assembly,125,Dem,Barbara Lifton,72
 Tompkins,DANBY 3,State Assembly,125,Dem,Barbara Lifton,262
@@ -4110,7 +4110,7 @@ Tompkins,CITY TOTAL,State Assembly,125,Rep,Michael Sigler,837
 Tompkins,CAROLINE 1,State Assembly,125,Rep,Michael Sigler,81
 Tompkins,CAROLINE 2,State Assembly,125,Rep,Michael Sigler,173
 Tompkins,CAROLINE 3,State Assembly,125,Rep,Michael Sigler,140
-Tompkins,TOTAL CAROLINE ,State Assembly,125,Rep,Michael Sigler,394
+Tompkins,TOTAL CAROLINE,State Assembly,125,Rep,Michael Sigler,394
 Tompkins,DANBY 1,State Assembly,125,Rep,Michael Sigler,174
 Tompkins,DANBY 2,State Assembly,125,Rep,Michael Sigler,42
 Tompkins,DANBY 3,State Assembly,125,Rep,Michael Sigler,127
@@ -4195,7 +4195,7 @@ Tompkins,CITY TOTAL,State Assembly,125,IDC,Michael Sigler,121
 Tompkins,CAROLINE 1,State Assembly,125,IDC,Michael Sigler,3
 Tompkins,CAROLINE 2,State Assembly,125,IDC,Michael Sigler,20
 Tompkins,CAROLINE 3,State Assembly,125,IDC,Michael Sigler,15
-Tompkins,TOTAL CAROLINE ,State Assembly,125,IDC,Michael Sigler,38
+Tompkins,TOTAL CAROLINE,State Assembly,125,IDC,Michael Sigler,38
 Tompkins,DANBY 1,State Assembly,125,IDC,Michael Sigler,15
 Tompkins,DANBY 2,State Assembly,125,IDC,Michael Sigler,3
 Tompkins,DANBY 3,State Assembly,125,IDC,Michael Sigler,13
@@ -4280,7 +4280,7 @@ Tompkins,CITY TOTAL,State Assembly,125,Con,Michael Sigler,56
 Tompkins,CAROLINE 1,State Assembly,125,Con,Michael Sigler,11
 Tompkins,CAROLINE 2,State Assembly,125,Con,Michael Sigler,7
 Tompkins,CAROLINE 3,State Assembly,125,Con,Michael Sigler,9
-Tompkins,TOTAL CAROLINE ,State Assembly,125,Con,Michael Sigler,27
+Tompkins,TOTAL CAROLINE,State Assembly,125,Con,Michael Sigler,27
 Tompkins,DANBY 1,State Assembly,125,Con,Michael Sigler,10
 Tompkins,DANBY 2,State Assembly,125,Con,Michael Sigler,4
 Tompkins,DANBY 3,State Assembly,125,Con,Michael Sigler,8
@@ -4365,7 +4365,7 @@ Tompkins,CITY TOTAL,State Assembly,125,Lib,Daniel Lamb,124
 Tompkins,CAROLINE 1,State Assembly,125,Lib,Daniel Lamb,4
 Tompkins,CAROLINE 2,State Assembly,125,Lib,Daniel Lamb,4
 Tompkins,CAROLINE 3,State Assembly,125,Lib,Daniel Lamb,9
-Tompkins,TOTAL CAROLINE ,State Assembly,125,Lib,Daniel Lamb,17
+Tompkins,TOTAL CAROLINE,State Assembly,125,Lib,Daniel Lamb,17
 Tompkins,DANBY 1,State Assembly,125,Lib,Daniel Lamb,4
 Tompkins,DANBY 2,State Assembly,125,Lib,Daniel Lamb,2
 Tompkins,DANBY 3,State Assembly,125,Lib,Daniel Lamb,5
@@ -4450,7 +4450,7 @@ Tompkins,CITY TOTAL,State Assembly,125,RTL,Paul Thiesen,33
 Tompkins,CAROLINE 1,State Assembly,125,RTL,Paul Thiesen,4
 Tompkins,CAROLINE 2,State Assembly,125,RTL,Paul Thiesen,2
 Tompkins,CAROLINE 3,State Assembly,125,RTL,Paul Thiesen,1
-Tompkins,TOTAL CAROLINE ,State Assembly,125,RTL,Paul Thiesen,7
+Tompkins,TOTAL CAROLINE,State Assembly,125,RTL,Paul Thiesen,7
 Tompkins,DANBY 1,State Assembly,125,RTL,Paul Thiesen,2
 Tompkins,DANBY 2,State Assembly,125,RTL,Paul Thiesen,2
 Tompkins,DANBY 3,State Assembly,125,RTL,Paul Thiesen,3
@@ -4535,7 +4535,7 @@ Tompkins,CITY TOTAL,State Assembly,125,WF,Barbara Lifton,821
 Tompkins,CAROLINE 1,State Assembly,125,WF,Barbara Lifton,17
 Tompkins,CAROLINE 2,State Assembly,125,WF,Barbara Lifton,29
 Tompkins,CAROLINE 3,State Assembly,125,WF,Barbara Lifton,44
-Tompkins,TOTAL CAROLINE ,State Assembly,125,WF,Barbara Lifton,90
+Tompkins,TOTAL CAROLINE,State Assembly,125,WF,Barbara Lifton,90
 Tompkins,DANBY 1,State Assembly,125,WF,Barbara Lifton,40
 Tompkins,DANBY 2,State Assembly,125,WF,Barbara Lifton,9
 Tompkins,DANBY 3,State Assembly,125,WF,Barbara Lifton,32
@@ -4620,7 +4620,7 @@ Tompkins,CITY TOTAL,State Assembly,125,,Blank,318
 Tompkins,CAROLINE 1,State Assembly,125,,Blank,16
 Tompkins,CAROLINE 2,State Assembly,125,,Blank,23
 Tompkins,CAROLINE 3,State Assembly,125,,Blank,27
-Tompkins,TOTAL CAROLINE ,State Assembly,125,,Blank,66
+Tompkins,TOTAL CAROLINE,State Assembly,125,,Blank,66
 Tompkins,DANBY 1,State Assembly,125,,Blank,30
 Tompkins,DANBY 2,State Assembly,125,,Blank,6
 Tompkins,DANBY 3,State Assembly,125,,Blank,26
@@ -4705,7 +4705,7 @@ Tompkins,CITY TOTAL,State Assembly,125,,Void,5
 Tompkins,CAROLINE 1,State Assembly,125,,Void,0
 Tompkins,CAROLINE 2,State Assembly,125,,Void,0
 Tompkins,CAROLINE 3,State Assembly,125,,Void,1
-Tompkins,TOTAL CAROLINE ,State Assembly,125,,Void,1
+Tompkins,TOTAL CAROLINE,State Assembly,125,,Void,1
 Tompkins,DANBY 1,State Assembly,125,,Void,1
 Tompkins,DANBY 2,State Assembly,125,,Void,0
 Tompkins,DANBY 3,State Assembly,125,,Void,2
@@ -4790,7 +4790,7 @@ Tompkins,CITY TOTAL,State Assembly,125,,Scattering,1
 Tompkins,CAROLINE 1,State Assembly,125,,Scattering,0
 Tompkins,CAROLINE 2,State Assembly,125,,Scattering,0
 Tompkins,CAROLINE 3,State Assembly,125,,Scattering,0
-Tompkins,TOTAL CAROLINE ,State Assembly,125,,Scattering,0
+Tompkins,TOTAL CAROLINE,State Assembly,125,,Scattering,0
 Tompkins,DANBY 1,State Assembly,125,,Scattering,0
 Tompkins,DANBY 2,State Assembly,125,,Scattering,0
 Tompkins,DANBY 3,State Assembly,125,,Scattering,0

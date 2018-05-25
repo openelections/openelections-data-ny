@@ -44,7 +44,7 @@ Tompkins,Ithaca 5 LD 11,Governor,,DEM,Andrew M. Cuomo,182
 Tompkins,Ithaca 6 LD 11,Governor,,DEM,Andrew M. Cuomo,305
 Tompkins,Ithaca 7 LD 10,Governor,,DEM,Andrew M. Cuomo,310
 Tompkins,Ithaca 8 LD 10,Governor,,DEM,Andrew M. Cuomo,251
-Tompkins,Ithaca 9 LD 10 ,Governor,,DEM,Andrew M. Cuomo,266
+Tompkins,Ithaca 9 LD 10,Governor,,DEM,Andrew M. Cuomo,266
 Tompkins,Ithaca 10 LD 12,Governor,,DEM,Andrew M. Cuomo,177
 Tompkins,Ithaca 11 LD 11,Governor,,DEM,Andrew M. Cuomo,262
 Tompkins,Ithaca 12 LD 7,Governor,,DEM,Andrew M. Cuomo,92
@@ -53,8 +53,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Governor,,DEM,Andrew M. Cuomo,201
 Tompkins,Lansing 3 LD 6,Governor,,DEM,Andrew M. Cuomo,263
 Tompkins,Lansing 4 LD 6,Governor,,DEM,Andrew M. Cuomo,145
 Tompkins,Lansing 5 LD 6,Governor,,DEM,Andrew M. Cuomo,297
-Tompkins,Lansing 6 LD 10 ,Governor,,DEM,Andrew M. Cuomo,209
-Tompkins,Lansing 7 LD 10 ,Governor,,DEM,Andrew M. Cuomo,233
+Tompkins,Lansing 6 LD 10,Governor,,DEM,Andrew M. Cuomo,209
+Tompkins,Lansing 7 LD 10,Governor,,DEM,Andrew M. Cuomo,233
 Tompkins,Newfield 1 LD 8,Governor,,DEM,Andrew M. Cuomo,166
 Tompkins,Newfield 2 LD 8,Governor,,DEM,Andrew M. Cuomo,151
 Tompkins,Newfield 3 LD 8,Governor,,DEM,Andrew M. Cuomo,156
@@ -108,7 +108,7 @@ Tompkins,Ithaca 5 LD 11,Governor,,REP,Rob Astorino,61
 Tompkins,Ithaca 6 LD 11,Governor,,REP,Rob Astorino,65
 Tompkins,Ithaca 7 LD 10,Governor,,REP,Rob Astorino,71
 Tompkins,Ithaca 8 LD 10,Governor,,REP,Rob Astorino,49
-Tompkins,Ithaca 9 LD 10 ,Governor,,REP,Rob Astorino,61
+Tompkins,Ithaca 9 LD 10,Governor,,REP,Rob Astorino,61
 Tompkins,Ithaca 10 LD 12,Governor,,REP,Rob Astorino,62
 Tompkins,Ithaca 11 LD 11,Governor,,REP,Rob Astorino,75
 Tompkins,Ithaca 12 LD 7,Governor,,REP,Rob Astorino,33
@@ -117,8 +117,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Governor,,REP,Rob Astorino,178
 Tompkins,Lansing 3 LD 6,Governor,,REP,Rob Astorino,196
 Tompkins,Lansing 4 LD 6,Governor,,REP,Rob Astorino,175
 Tompkins,Lansing 5 LD 6,Governor,,REP,Rob Astorino,166
-Tompkins,Lansing 6 LD 10 ,Governor,,REP,Rob Astorino,46
-Tompkins,Lansing 7 LD 10 ,Governor,,REP,Rob Astorino,73
+Tompkins,Lansing 6 LD 10,Governor,,REP,Rob Astorino,46
+Tompkins,Lansing 7 LD 10,Governor,,REP,Rob Astorino,73
 Tompkins,Newfield 1 LD 8,Governor,,REP,Rob Astorino,141
 Tompkins,Newfield 2 LD 8,Governor,,REP,Rob Astorino,243
 Tompkins,Newfield 3 LD 8,Governor,,REP,Rob Astorino,162
@@ -172,7 +172,7 @@ Tompkins,Ithaca 5 LD 11,Governor,,CON,Rob Astorino,3
 Tompkins,Ithaca 6 LD 11,Governor,,CON,Rob Astorino,4
 Tompkins,Ithaca 7 LD 10,Governor,,CON,Rob Astorino,4
 Tompkins,Ithaca 8 LD 10,Governor,,CON,Rob Astorino,2
-Tompkins,Ithaca 9 LD 10 ,Governor,,CON,Rob Astorino,8
+Tompkins,Ithaca 9 LD 10,Governor,,CON,Rob Astorino,8
 Tompkins,Ithaca 10 LD 12,Governor,,CON,Rob Astorino,12
 Tompkins,Ithaca 11 LD 11,Governor,,CON,Rob Astorino,14
 Tompkins,Ithaca 12 LD 7,Governor,,CON,Rob Astorino,1
@@ -181,8 +181,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Governor,,CON,Rob Astorino,24
 Tompkins,Lansing 3 LD 6,Governor,,CON,Rob Astorino,26
 Tompkins,Lansing 4 LD 6,Governor,,CON,Rob Astorino,25
 Tompkins,Lansing 5 LD 6,Governor,,CON,Rob Astorino,21
-Tompkins,Lansing 6 LD 10 ,Governor,,CON,Rob Astorino,11
-Tompkins,Lansing 7 LD 10 ,Governor,,CON,Rob Astorino,12
+Tompkins,Lansing 6 LD 10,Governor,,CON,Rob Astorino,11
+Tompkins,Lansing 7 LD 10,Governor,,CON,Rob Astorino,12
 Tompkins,Newfield 1 LD 8,Governor,,CON,Rob Astorino,38
 Tompkins,Newfield 2 LD 8,Governor,,CON,Rob Astorino,34
 Tompkins,Newfield 3 LD 8,Governor,,CON,Rob Astorino,28
@@ -236,7 +236,7 @@ Tompkins,Ithaca 5 LD 11,Governor,,WOR,Andrew M. Cuomo,33
 Tompkins,Ithaca 6 LD 11,Governor,,WOR,Andrew M. Cuomo,26
 Tompkins,Ithaca 7 LD 10,Governor,,WOR,Andrew M. Cuomo,27
 Tompkins,Ithaca 8 LD 10,Governor,,WOR,Andrew M. Cuomo,43
-Tompkins,Ithaca 9 LD 10 ,Governor,,WOR,Andrew M. Cuomo,32
+Tompkins,Ithaca 9 LD 10,Governor,,WOR,Andrew M. Cuomo,32
 Tompkins,Ithaca 10 LD 12,Governor,,WOR,Andrew M. Cuomo,51
 Tompkins,Ithaca 11 LD 11,Governor,,WOR,Andrew M. Cuomo,30
 Tompkins,Ithaca 12 LD 7,Governor,,WOR,Andrew M. Cuomo,11
@@ -245,8 +245,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Governor,,WOR,Andrew M. Cuomo,14
 Tompkins,Lansing 3 LD 6,Governor,,WOR,Andrew M. Cuomo,21
 Tompkins,Lansing 4 LD 6,Governor,,WOR,Andrew M. Cuomo,22
 Tompkins,Lansing 5 LD 6,Governor,,WOR,Andrew M. Cuomo,31
-Tompkins,Lansing 6 LD 10 ,Governor,,WOR,Andrew M. Cuomo,16
-Tompkins,Lansing 7 LD 10 ,Governor,,WOR,Andrew M. Cuomo,14
+Tompkins,Lansing 6 LD 10,Governor,,WOR,Andrew M. Cuomo,16
+Tompkins,Lansing 7 LD 10,Governor,,WOR,Andrew M. Cuomo,14
 Tompkins,Newfield 1 LD 8,Governor,,WOR,Andrew M. Cuomo,7
 Tompkins,Newfield 2 LD 8,Governor,,WOR,Andrew M. Cuomo,17
 Tompkins,Newfield 3 LD 8,Governor,,WOR,Andrew M. Cuomo,20
@@ -300,7 +300,7 @@ Tompkins,Ithaca 5 LD 11,Governor,,IND,Andrew M. Cuomo,4
 Tompkins,Ithaca 6 LD 11,Governor,,IND,Andrew M. Cuomo,8
 Tompkins,Ithaca 7 LD 10,Governor,,IND,Andrew M. Cuomo,4
 Tompkins,Ithaca 8 LD 10,Governor,,IND,Andrew M. Cuomo,6
-Tompkins,Ithaca 9 LD 10 ,Governor,,IND,Andrew M. Cuomo,2
+Tompkins,Ithaca 9 LD 10,Governor,,IND,Andrew M. Cuomo,2
 Tompkins,Ithaca 10 LD 12,Governor,,IND,Andrew M. Cuomo,10
 Tompkins,Ithaca 11 LD 11,Governor,,IND,Andrew M. Cuomo,9
 Tompkins,Ithaca 12 LD 7,Governor,,IND,Andrew M. Cuomo,6
@@ -309,8 +309,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Governor,,IND,Andrew M. Cuomo,10
 Tompkins,Lansing 3 LD 6,Governor,,IND,Andrew M. Cuomo,16
 Tompkins,Lansing 4 LD 6,Governor,,IND,Andrew M. Cuomo,7
 Tompkins,Lansing 5 LD 6,Governor,,IND,Andrew M. Cuomo,7
-Tompkins,Lansing 6 LD 10 ,Governor,,IND,Andrew M. Cuomo,4
-Tompkins,Lansing 7 LD 10 ,Governor,,IND,Andrew M. Cuomo,10
+Tompkins,Lansing 6 LD 10,Governor,,IND,Andrew M. Cuomo,4
+Tompkins,Lansing 7 LD 10,Governor,,IND,Andrew M. Cuomo,10
 Tompkins,Newfield 1 LD 8,Governor,,IND,Andrew M. Cuomo,9
 Tompkins,Newfield 2 LD 8,Governor,,IND,Andrew M. Cuomo,8
 Tompkins,Newfield 3 LD 8,Governor,,IND,Andrew M. Cuomo,10
@@ -364,7 +364,7 @@ Tompkins,Ithaca 5 LD 11,Governor,,GRE,Howie Hawkins,79
 Tompkins,Ithaca 6 LD 11,Governor,,GRE,Howie Hawkins,50
 Tompkins,Ithaca 7 LD 10,Governor,,GRE,Howie Hawkins,35
 Tompkins,Ithaca 8 LD 10,Governor,,GRE,Howie Hawkins,56
-Tompkins,Ithaca 9 LD 10 ,Governor,,GRE,Howie Hawkins,75
+Tompkins,Ithaca 9 LD 10,Governor,,GRE,Howie Hawkins,75
 Tompkins,Ithaca 10 LD 12,Governor,,GRE,Howie Hawkins,125
 Tompkins,Ithaca 11 LD 11,Governor,,GRE,Howie Hawkins,85
 Tompkins,Ithaca 12 LD 7,Governor,,GRE,Howie Hawkins,32
@@ -373,8 +373,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Governor,,GRE,Howie Hawkins,40
 Tompkins,Lansing 3 LD 6,Governor,,GRE,Howie Hawkins,50
 Tompkins,Lansing 4 LD 6,Governor,,GRE,Howie Hawkins,34
 Tompkins,Lansing 5 LD 6,Governor,,GRE,Howie Hawkins,63
-Tompkins,Lansing 6 LD 10 ,Governor,,GRE,Howie Hawkins,36
-Tompkins,Lansing 7 LD 10 ,Governor,,GRE,Howie Hawkins,51
+Tompkins,Lansing 6 LD 10,Governor,,GRE,Howie Hawkins,36
+Tompkins,Lansing 7 LD 10,Governor,,GRE,Howie Hawkins,51
 Tompkins,Newfield 1 LD 8,Governor,,GRE,Howie Hawkins,63
 Tompkins,Newfield 2 LD 8,Governor,,GRE,Howie Hawkins,58
 Tompkins,Newfield 3 LD 8,Governor,,GRE,Howie Hawkins,78
@@ -428,7 +428,7 @@ Tompkins,Ithaca 5 LD 11,Governor,,SCC,Rob Astorino,4
 Tompkins,Ithaca 6 LD 11,Governor,,SCC,Rob Astorino,2
 Tompkins,Ithaca 7 LD 10,Governor,,SCC,Rob Astorino,1
 Tompkins,Ithaca 8 LD 10,Governor,,SCC,Rob Astorino,4
-Tompkins,Ithaca 9 LD 10 ,Governor,,SCC,Rob Astorino,2
+Tompkins,Ithaca 9 LD 10,Governor,,SCC,Rob Astorino,2
 Tompkins,Ithaca 10 LD 12,Governor,,SCC,Rob Astorino,2
 Tompkins,Ithaca 11 LD 11,Governor,,SCC,Rob Astorino,2
 Tompkins,Ithaca 12 LD 7,Governor,,SCC,Rob Astorino,7
@@ -437,8 +437,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Governor,,SCC,Rob Astorino,14
 Tompkins,Lansing 3 LD 6,Governor,,SCC,Rob Astorino,13
 Tompkins,Lansing 4 LD 6,Governor,,SCC,Rob Astorino,7
 Tompkins,Lansing 5 LD 6,Governor,,SCC,Rob Astorino,3
-Tompkins,Lansing 6 LD 10 ,Governor,,SCC,Rob Astorino,2
-Tompkins,Lansing 7 LD 10 ,Governor,,SCC,Rob Astorino,7
+Tompkins,Lansing 6 LD 10,Governor,,SCC,Rob Astorino,2
+Tompkins,Lansing 7 LD 10,Governor,,SCC,Rob Astorino,7
 Tompkins,Newfield 1 LD 8,Governor,,SCC,Rob Astorino,6
 Tompkins,Newfield 2 LD 8,Governor,,SCC,Rob Astorino,7
 Tompkins,Newfield 3 LD 8,Governor,,SCC,Rob Astorino,10
@@ -492,7 +492,7 @@ Tompkins,Ithaca 5 LD 11,Governor,,LBT,Michael McDermott,1
 Tompkins,Ithaca 6 LD 11,Governor,,LBT,Michael McDermott,4
 Tompkins,Ithaca 7 LD 10,Governor,,LBT,Michael McDermott,0
 Tompkins,Ithaca 8 LD 10,Governor,,LBT,Michael McDermott,3
-Tompkins,Ithaca 9 LD 10 ,Governor,,LBT,Michael McDermott,1
+Tompkins,Ithaca 9 LD 10,Governor,,LBT,Michael McDermott,1
 Tompkins,Ithaca 10 LD 12,Governor,,LBT,Michael McDermott,2
 Tompkins,Ithaca 11 LD 11,Governor,,LBT,Michael McDermott,3
 Tompkins,Ithaca 12 LD 7,Governor,,LBT,Michael McDermott,1
@@ -501,8 +501,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Governor,,LBT,Michael McDermott,4
 Tompkins,Lansing 3 LD 6,Governor,,LBT,Michael McDermott,3
 Tompkins,Lansing 4 LD 6,Governor,,LBT,Michael McDermott,6
 Tompkins,Lansing 5 LD 6,Governor,,LBT,Michael McDermott,6
-Tompkins,Lansing 6 LD 10 ,Governor,,LBT,Michael McDermott,0
-Tompkins,Lansing 7 LD 10 ,Governor,,LBT,Michael McDermott,3
+Tompkins,Lansing 6 LD 10,Governor,,LBT,Michael McDermott,0
+Tompkins,Lansing 7 LD 10,Governor,,LBT,Michael McDermott,3
 Tompkins,Newfield 1 LD 8,Governor,,LBT,Michael McDermott,3
 Tompkins,Newfield 2 LD 8,Governor,,LBT,Michael McDermott,2
 Tompkins,Newfield 3 LD 8,Governor,,LBT,Michael McDermott,3
@@ -556,7 +556,7 @@ Tompkins,Ithaca 5 LD 11,Governor,,WEP,Andrew M. Cuomo,8
 Tompkins,Ithaca 6 LD 11,Governor,,WEP,Andrew M. Cuomo,8
 Tompkins,Ithaca 7 LD 10,Governor,,WEP,Andrew M. Cuomo,10
 Tompkins,Ithaca 8 LD 10,Governor,,WEP,Andrew M. Cuomo,4
-Tompkins,Ithaca 9 LD 10 ,Governor,,WEP,Andrew M. Cuomo,9
+Tompkins,Ithaca 9 LD 10,Governor,,WEP,Andrew M. Cuomo,9
 Tompkins,Ithaca 10 LD 12,Governor,,WEP,Andrew M. Cuomo,10
 Tompkins,Ithaca 11 LD 11,Governor,,WEP,Andrew M. Cuomo,14
 Tompkins,Ithaca 12 LD 7,Governor,,WEP,Andrew M. Cuomo,2
@@ -565,8 +565,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Governor,,WEP,Andrew M. Cuomo,5
 Tompkins,Lansing 3 LD 6,Governor,,WEP,Andrew M. Cuomo,11
 Tompkins,Lansing 4 LD 6,Governor,,WEP,Andrew M. Cuomo,2
 Tompkins,Lansing 5 LD 6,Governor,,WEP,Andrew M. Cuomo,10
-Tompkins,Lansing 6 LD 10 ,Governor,,WEP,Andrew M. Cuomo,7
-Tompkins,Lansing 7 LD 10 ,Governor,,WEP,Andrew M. Cuomo,6
+Tompkins,Lansing 6 LD 10,Governor,,WEP,Andrew M. Cuomo,7
+Tompkins,Lansing 7 LD 10,Governor,,WEP,Andrew M. Cuomo,6
 Tompkins,Newfield 1 LD 8,Governor,,WEP,Andrew M. Cuomo,4
 Tompkins,Newfield 2 LD 8,Governor,,WEP,Andrew M. Cuomo,0
 Tompkins,Newfield 3 LD 8,Governor,,WEP,Andrew M. Cuomo,6
@@ -620,7 +620,7 @@ Tompkins,Ithaca 5 LD 11,Governor,,SAP,Steven Cohn,0
 Tompkins,Ithaca 6 LD 11,Governor,,SAP,Steven Cohn,0
 Tompkins,Ithaca 7 LD 10,Governor,,SAP,Steven Cohn,0
 Tompkins,Ithaca 8 LD 10,Governor,,SAP,Steven Cohn,1
-Tompkins,Ithaca 9 LD 10 ,Governor,,SAP,Steven Cohn,1
+Tompkins,Ithaca 9 LD 10,Governor,,SAP,Steven Cohn,1
 Tompkins,Ithaca 10 LD 12,Governor,,SAP,Steven Cohn,1
 Tompkins,Ithaca 11 LD 11,Governor,,SAP,Steven Cohn,0
 Tompkins,Ithaca 12 LD 7,Governor,,SAP,Steven Cohn,0
@@ -629,8 +629,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Governor,,SAP,Steven Cohn,2
 Tompkins,Lansing 3 LD 6,Governor,,SAP,Steven Cohn,2
 Tompkins,Lansing 4 LD 6,Governor,,SAP,Steven Cohn,0
 Tompkins,Lansing 5 LD 6,Governor,,SAP,Steven Cohn,0
-Tompkins,Lansing 6 LD 10 ,Governor,,SAP,Steven Cohn,1
-Tompkins,Lansing 7 LD 10 ,Governor,,SAP,Steven Cohn,1
+Tompkins,Lansing 6 LD 10,Governor,,SAP,Steven Cohn,1
+Tompkins,Lansing 7 LD 10,Governor,,SAP,Steven Cohn,1
 Tompkins,Newfield 1 LD 8,Governor,,SAP,Steven Cohn,0
 Tompkins,Newfield 2 LD 8,Governor,,SAP,Steven Cohn,0
 Tompkins,Newfield 3 LD 8,Governor,,SAP,Steven Cohn,0
@@ -684,7 +684,7 @@ Tompkins,Ithaca 5 LD 11,Governor,,,Blank,5
 Tompkins,Ithaca 6 LD 11,Governor,,,Blank,6
 Tompkins,Ithaca 7 LD 10,Governor,,,Blank,9
 Tompkins,Ithaca 8 LD 10,Governor,,,Blank,1
-Tompkins,Ithaca 9 LD 10 ,Governor,,,Blank,4
+Tompkins,Ithaca 9 LD 10,Governor,,,Blank,4
 Tompkins,Ithaca 10 LD 12,Governor,,,Blank,5
 Tompkins,Ithaca 11 LD 11,Governor,,,Blank,10
 Tompkins,Ithaca 12 LD 7,Governor,,,Blank,3
@@ -693,8 +693,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Governor,,,Blank,11
 Tompkins,Lansing 3 LD 6,Governor,,,Blank,9
 Tompkins,Lansing 4 LD 6,Governor,,,Blank,2
 Tompkins,Lansing 5 LD 6,Governor,,,Blank,6
-Tompkins,Lansing 6 LD 10 ,Governor,,,Blank,6
-Tompkins,Lansing 7 LD 10 ,Governor,,,Blank,6
+Tompkins,Lansing 6 LD 10,Governor,,,Blank,6
+Tompkins,Lansing 7 LD 10,Governor,,,Blank,6
 Tompkins,Newfield 1 LD 8,Governor,,,Blank,11
 Tompkins,Newfield 2 LD 8,Governor,,,Blank,11
 Tompkins,Newfield 3 LD 8,Governor,,,Blank,5
@@ -748,7 +748,7 @@ Tompkins,Ithaca 5 LD 11,Governor,,,Void,1
 Tompkins,Ithaca 6 LD 11,Governor,,,Void,1
 Tompkins,Ithaca 7 LD 10,Governor,,,Void,1
 Tompkins,Ithaca 8 LD 10,Governor,,,Void,0
-Tompkins,Ithaca 9 LD 10 ,Governor,,,Void,0
+Tompkins,Ithaca 9 LD 10,Governor,,,Void,0
 Tompkins,Ithaca 10 LD 12,Governor,,,Void,0
 Tompkins,Ithaca 11 LD 11,Governor,,,Void,0
 Tompkins,Ithaca 12 LD 7,Governor,,,Void,0
@@ -757,8 +757,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Governor,,,Void,3
 Tompkins,Lansing 3 LD 6,Governor,,,Void,1
 Tompkins,Lansing 4 LD 6,Governor,,,Void,1
 Tompkins,Lansing 5 LD 6,Governor,,,Void,1
-Tompkins,Lansing 6 LD 10 ,Governor,,,Void,0
-Tompkins,Lansing 7 LD 10 ,Governor,,,Void,1
+Tompkins,Lansing 6 LD 10,Governor,,,Void,0
+Tompkins,Lansing 7 LD 10,Governor,,,Void,1
 Tompkins,Newfield 1 LD 8,Governor,,,Void,0
 Tompkins,Newfield 2 LD 8,Governor,,,Void,0
 Tompkins,Newfield 3 LD 8,Governor,,,Void,1
@@ -812,7 +812,7 @@ Tompkins,Ithaca 5 LD 11,Governor,,,Write-in,1
 Tompkins,Ithaca 6 LD 11,Governor,,,Write-in,0
 Tompkins,Ithaca 7 LD 10,Governor,,,Write-in,1
 Tompkins,Ithaca 8 LD 10,Governor,,,Write-in,5
-Tompkins,Ithaca 9 LD 10 ,Governor,,,Write-in,2
+Tompkins,Ithaca 9 LD 10,Governor,,,Write-in,2
 Tompkins,Ithaca 10 LD 12,Governor,,,Write-in,4
 Tompkins,Ithaca 11 LD 11,Governor,,,Write-in,5
 Tompkins,Ithaca 12 LD 7,Governor,,,Write-in,0
@@ -821,8 +821,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Governor,,,Write-in,2
 Tompkins,Lansing 3 LD 6,Governor,,,Write-in,0
 Tompkins,Lansing 4 LD 6,Governor,,,Write-in,0
 Tompkins,Lansing 5 LD 6,Governor,,,Write-in,3
-Tompkins,Lansing 6 LD 10 ,Governor,,,Write-in,2
-Tompkins,Lansing 7 LD 10 ,Governor,,,Write-in,1
+Tompkins,Lansing 6 LD 10,Governor,,,Write-in,2
+Tompkins,Lansing 7 LD 10,Governor,,,Write-in,1
 Tompkins,Newfield 1 LD 8,Governor,,,Write-in,1
 Tompkins,Newfield 2 LD 8,Governor,,,Write-in,0
 Tompkins,Newfield 3 LD 8,Governor,,,Write-in,2
@@ -876,7 +876,7 @@ Tompkins,Ithaca 5 LD 11,Comptroller,,DEM,Thomas P. DiNapoli,225
 Tompkins,Ithaca 6 LD 11,Comptroller,,DEM,Thomas P. DiNapoli,314
 Tompkins,Ithaca 7 LD 10,Comptroller,,DEM,Thomas P. DiNapoli,333
 Tompkins,Ithaca 8 LD 10,Comptroller,,DEM,Thomas P. DiNapoli,273
-Tompkins,Ithaca 9 LD 10 ,Comptroller,,DEM,Thomas P. DiNapoli,297
+Tompkins,Ithaca 9 LD 10,Comptroller,,DEM,Thomas P. DiNapoli,297
 Tompkins,Ithaca 10 LD 12,Comptroller,,DEM,Thomas P. DiNapoli,214
 Tompkins,Ithaca 11 LD 11,Comptroller,,DEM,Thomas P. DiNapoli,307
 Tompkins,Ithaca 12 LD 7,Comptroller,,DEM,Thomas P. DiNapoli,106
@@ -885,8 +885,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Comptroller,,DEM,Thomas P. DiNapoli,228
 Tompkins,Lansing 3 LD 6,Comptroller,,DEM,Thomas P. DiNapoli,306
 Tompkins,Lansing 4 LD 6,Comptroller,,DEM,Thomas P. DiNapoli,168
 Tompkins,Lansing 5 LD 6,Comptroller,,DEM,Thomas P. DiNapoli,321
-Tompkins,Lansing 6 LD 10 ,Comptroller,,DEM,Thomas P. DiNapoli,222
-Tompkins,Lansing 7 LD 10 ,Comptroller,,DEM,Thomas P. DiNapoli,260
+Tompkins,Lansing 6 LD 10,Comptroller,,DEM,Thomas P. DiNapoli,222
+Tompkins,Lansing 7 LD 10,Comptroller,,DEM,Thomas P. DiNapoli,260
 Tompkins,Newfield 1 LD 8,Comptroller,,DEM,Thomas P. DiNapoli,204
 Tompkins,Newfield 2 LD 8,Comptroller,,DEM,Thomas P. DiNapoli,188
 Tompkins,Newfield 3 LD 8,Comptroller,,DEM,Thomas P. DiNapoli,199
@@ -940,7 +940,7 @@ Tompkins,Ithaca 5 LD 11,Comptroller,,REP,Robert Antonacci,57
 Tompkins,Ithaca 6 LD 11,Comptroller,,REP,Robert Antonacci,74
 Tompkins,Ithaca 7 LD 10,Comptroller,,REP,Robert Antonacci,78
 Tompkins,Ithaca 8 LD 10,Comptroller,,REP,Robert Antonacci,49
-Tompkins,Ithaca 9 LD 10 ,Comptroller,,REP,Robert Antonacci,71
+Tompkins,Ithaca 9 LD 10,Comptroller,,REP,Robert Antonacci,71
 Tompkins,Ithaca 10 LD 12,Comptroller,,REP,Robert Antonacci,58
 Tompkins,Ithaca 11 LD 11,Comptroller,,REP,Robert Antonacci,69
 Tompkins,Ithaca 12 LD 7,Comptroller,,REP,Robert Antonacci,34
@@ -949,8 +949,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Comptroller,,REP,Robert Antonacci,169
 Tompkins,Lansing 3 LD 6,Comptroller,,REP,Robert Antonacci,173
 Tompkins,Lansing 4 LD 6,Comptroller,,REP,Robert Antonacci,155
 Tompkins,Lansing 5 LD 6,Comptroller,,REP,Robert Antonacci,169
-Tompkins,Lansing 6 LD 10 ,Comptroller,,REP,Robert Antonacci,48
-Tompkins,Lansing 7 LD 10 ,Comptroller,,REP,Robert Antonacci,70
+Tompkins,Lansing 6 LD 10,Comptroller,,REP,Robert Antonacci,48
+Tompkins,Lansing 7 LD 10,Comptroller,,REP,Robert Antonacci,70
 Tompkins,Newfield 1 LD 8,Comptroller,,REP,Robert Antonacci,133
 Tompkins,Newfield 2 LD 8,Comptroller,,REP,Robert Antonacci,212
 Tompkins,Newfield 3 LD 8,Comptroller,,REP,Robert Antonacci,153
@@ -1004,7 +1004,7 @@ Tompkins,Ithaca 5 LD 11,Comptroller,,CON,Robert Antonacci,4
 Tompkins,Ithaca 6 LD 11,Comptroller,,CON,Robert Antonacci,3
 Tompkins,Ithaca 7 LD 10,Comptroller,,CON,Robert Antonacci,5
 Tompkins,Ithaca 8 LD 10,Comptroller,,CON,Robert Antonacci,4
-Tompkins,Ithaca 9 LD 10 ,Comptroller,,CON,Robert Antonacci,9
+Tompkins,Ithaca 9 LD 10,Comptroller,,CON,Robert Antonacci,9
 Tompkins,Ithaca 10 LD 12,Comptroller,,CON,Robert Antonacci,12
 Tompkins,Ithaca 11 LD 11,Comptroller,,CON,Robert Antonacci,13
 Tompkins,Ithaca 12 LD 7,Comptroller,,CON,Robert Antonacci,3
@@ -1013,8 +1013,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Comptroller,,CON,Robert Antonacci,19
 Tompkins,Lansing 3 LD 6,Comptroller,,CON,Robert Antonacci,38
 Tompkins,Lansing 4 LD 6,Comptroller,,CON,Robert Antonacci,31
 Tompkins,Lansing 5 LD 6,Comptroller,,CON,Robert Antonacci,20
-Tompkins,Lansing 6 LD 10 ,Comptroller,,CON,Robert Antonacci,8
-Tompkins,Lansing 7 LD 10 ,Comptroller,,CON,Robert Antonacci,12
+Tompkins,Lansing 6 LD 10,Comptroller,,CON,Robert Antonacci,8
+Tompkins,Lansing 7 LD 10,Comptroller,,CON,Robert Antonacci,12
 Tompkins,Newfield 1 LD 8,Comptroller,,CON,Robert Antonacci,32
 Tompkins,Newfield 2 LD 8,Comptroller,,CON,Robert Antonacci,34
 Tompkins,Newfield 3 LD 8,Comptroller,,CON,Robert Antonacci,30
@@ -1068,7 +1068,7 @@ Tompkins,Ithaca 5 LD 11,Comptroller,,WOR,Thomas P. DiNapoli,44
 Tompkins,Ithaca 6 LD 11,Comptroller,,WOR,Thomas P. DiNapoli,37
 Tompkins,Ithaca 7 LD 10,Comptroller,,WOR,Thomas P. DiNapoli,24
 Tompkins,Ithaca 8 LD 10,Comptroller,,WOR,Thomas P. DiNapoli,54
-Tompkins,Ithaca 9 LD 10 ,Comptroller,,WOR,Thomas P. DiNapoli,33
+Tompkins,Ithaca 9 LD 10,Comptroller,,WOR,Thomas P. DiNapoli,33
 Tompkins,Ithaca 10 LD 12,Comptroller,,WOR,Thomas P. DiNapoli,86
 Tompkins,Ithaca 11 LD 11,Comptroller,,WOR,Thomas P. DiNapoli,50
 Tompkins,Ithaca 12 LD 7,Comptroller,,WOR,Thomas P. DiNapoli,17
@@ -1077,8 +1077,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Comptroller,,WOR,Thomas P. DiNapoli,23
 Tompkins,Lansing 3 LD 6,Comptroller,,WOR,Thomas P. DiNapoli,31
 Tompkins,Lansing 4 LD 6,Comptroller,,WOR,Thomas P. DiNapoli,23
 Tompkins,Lansing 5 LD 6,Comptroller,,WOR,Thomas P. DiNapoli,38
-Tompkins,Lansing 6 LD 10 ,Comptroller,,WOR,Thomas P. DiNapoli,17
-Tompkins,Lansing 7 LD 10 ,Comptroller,,WOR,Thomas P. DiNapoli,20
+Tompkins,Lansing 6 LD 10,Comptroller,,WOR,Thomas P. DiNapoli,17
+Tompkins,Lansing 7 LD 10,Comptroller,,WOR,Thomas P. DiNapoli,20
 Tompkins,Newfield 1 LD 8,Comptroller,,WOR,Thomas P. DiNapoli,20
 Tompkins,Newfield 2 LD 8,Comptroller,,WOR,Thomas P. DiNapoli,29
 Tompkins,Newfield 3 LD 8,Comptroller,,WOR,Thomas P. DiNapoli,32
@@ -1132,7 +1132,7 @@ Tompkins,Ithaca 5 LD 11,Comptroller,,IND,Thomas P. DiNapoli,7
 Tompkins,Ithaca 6 LD 11,Comptroller,,IND,Thomas P. DiNapoli,9
 Tompkins,Ithaca 7 LD 10,Comptroller,,IND,Thomas P. DiNapoli,11
 Tompkins,Ithaca 8 LD 10,Comptroller,,IND,Thomas P. DiNapoli,10
-Tompkins,Ithaca 9 LD 10 ,Comptroller,,IND,Thomas P. DiNapoli,4
+Tompkins,Ithaca 9 LD 10,Comptroller,,IND,Thomas P. DiNapoli,4
 Tompkins,Ithaca 10 LD 12,Comptroller,,IND,Thomas P. DiNapoli,11
 Tompkins,Ithaca 11 LD 11,Comptroller,,IND,Thomas P. DiNapoli,11
 Tompkins,Ithaca 12 LD 7,Comptroller,,IND,Thomas P. DiNapoli,5
@@ -1141,8 +1141,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Comptroller,,IND,Thomas P. DiNapoli,22
 Tompkins,Lansing 3 LD 6,Comptroller,,IND,Thomas P. DiNapoli,18
 Tompkins,Lansing 4 LD 6,Comptroller,,IND,Thomas P. DiNapoli,10
 Tompkins,Lansing 5 LD 6,Comptroller,,IND,Thomas P. DiNapoli,10
-Tompkins,Lansing 6 LD 10 ,Comptroller,,IND,Thomas P. DiNapoli,7
-Tompkins,Lansing 7 LD 10 ,Comptroller,,IND,Thomas P. DiNapoli,12
+Tompkins,Lansing 6 LD 10,Comptroller,,IND,Thomas P. DiNapoli,7
+Tompkins,Lansing 7 LD 10,Comptroller,,IND,Thomas P. DiNapoli,12
 Tompkins,Newfield 1 LD 8,Comptroller,,IND,Thomas P. DiNapoli,9
 Tompkins,Newfield 2 LD 8,Comptroller,,IND,Thomas P. DiNapoli,17
 Tompkins,Newfield 3 LD 8,Comptroller,,IND,Thomas P. DiNapoli,11
@@ -1196,7 +1196,7 @@ Tompkins,Ithaca 5 LD 11,Comptroller,,GRE,Theresa M. Portelli,35
 Tompkins,Ithaca 6 LD 11,Comptroller,,GRE,Theresa M. Portelli,21
 Tompkins,Ithaca 7 LD 10,Comptroller,,GRE,Theresa M. Portelli,12
 Tompkins,Ithaca 8 LD 10,Comptroller,,GRE,Theresa M. Portelli,19
-Tompkins,Ithaca 9 LD 10 ,Comptroller,,GRE,Theresa M. Portelli,29
+Tompkins,Ithaca 9 LD 10,Comptroller,,GRE,Theresa M. Portelli,29
 Tompkins,Ithaca 10 LD 12,Comptroller,,GRE,Theresa M. Portelli,51
 Tompkins,Ithaca 11 LD 11,Comptroller,,GRE,Theresa M. Portelli,31
 Tompkins,Ithaca 12 LD 7,Comptroller,,GRE,Theresa M. Portelli,13
@@ -1205,8 +1205,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Comptroller,,GRE,Theresa M. Portelli,21
 Tompkins,Lansing 3 LD 6,Comptroller,,GRE,Theresa M. Portelli,19
 Tompkins,Lansing 4 LD 6,Comptroller,,GRE,Theresa M. Portelli,16
 Tompkins,Lansing 5 LD 6,Comptroller,,GRE,Theresa M. Portelli,29
-Tompkins,Lansing 6 LD 10 ,Comptroller,,GRE,Theresa M. Portelli,21
-Tompkins,Lansing 7 LD 10 ,Comptroller,,GRE,Theresa M. Portelli,24
+Tompkins,Lansing 6 LD 10,Comptroller,,GRE,Theresa M. Portelli,21
+Tompkins,Lansing 7 LD 10,Comptroller,,GRE,Theresa M. Portelli,24
 Tompkins,Newfield 1 LD 8,Comptroller,,GRE,Theresa M. Portelli,25
 Tompkins,Newfield 2 LD 8,Comptroller,,GRE,Theresa M. Portelli,18
 Tompkins,Newfield 3 LD 8,Comptroller,,GRE,Theresa M. Portelli,35
@@ -1260,7 +1260,7 @@ Tompkins,Ithaca 5 LD 11,Comptroller,,LBT,John Clifton,4
 Tompkins,Ithaca 6 LD 11,Comptroller,,LBT,John Clifton,6
 Tompkins,Ithaca 7 LD 10,Comptroller,,LBT,John Clifton,0
 Tompkins,Ithaca 8 LD 10,Comptroller,,LBT,John Clifton,2
-Tompkins,Ithaca 9 LD 10 ,Comptroller,,LBT,John Clifton,2
+Tompkins,Ithaca 9 LD 10,Comptroller,,LBT,John Clifton,2
 Tompkins,Ithaca 10 LD 12,Comptroller,,LBT,John Clifton,1
 Tompkins,Ithaca 11 LD 11,Comptroller,,LBT,John Clifton,5
 Tompkins,Ithaca 12 LD 7,Comptroller,,LBT,John Clifton,1
@@ -1269,8 +1269,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Comptroller,,LBT,John Clifton,5
 Tompkins,Lansing 3 LD 6,Comptroller,,LBT,John Clifton,2
 Tompkins,Lansing 4 LD 6,Comptroller,,LBT,John Clifton,4
 Tompkins,Lansing 5 LD 6,Comptroller,,LBT,John Clifton,5
-Tompkins,Lansing 6 LD 10 ,Comptroller,,LBT,John Clifton,1
-Tompkins,Lansing 7 LD 10 ,Comptroller,,LBT,John Clifton,3
+Tompkins,Lansing 6 LD 10,Comptroller,,LBT,John Clifton,1
+Tompkins,Lansing 7 LD 10,Comptroller,,LBT,John Clifton,3
 Tompkins,Newfield 1 LD 8,Comptroller,,LBT,John Clifton,4
 Tompkins,Newfield 2 LD 8,Comptroller,,LBT,John Clifton,1
 Tompkins,Newfield 3 LD 8,Comptroller,,LBT,John Clifton,6
@@ -1324,7 +1324,7 @@ Tompkins,Ithaca 5 LD 11,Comptroller,,,Blank,6
 Tompkins,Ithaca 6 LD 11,Comptroller,,,Blank,15
 Tompkins,Ithaca 7 LD 10,Comptroller,,,Blank,10
 Tompkins,Ithaca 8 LD 10,Comptroller,,,Blank,14
-Tompkins,Ithaca 9 LD 10 ,Comptroller,,,Blank,17
+Tompkins,Ithaca 9 LD 10,Comptroller,,,Blank,17
 Tompkins,Ithaca 10 LD 12,Comptroller,,,Blank,26
 Tompkins,Ithaca 11 LD 11,Comptroller,,,Blank,22
 Tompkins,Ithaca 12 LD 7,Comptroller,,,Blank,9
@@ -1333,8 +1333,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Comptroller,,,Blank,21
 Tompkins,Lansing 3 LD 6,Comptroller,,,Blank,24
 Tompkins,Lansing 4 LD 6,Comptroller,,,Blank,19
 Tompkins,Lansing 5 LD 6,Comptroller,,,Blank,22
-Tompkins,Lansing 6 LD 10 ,Comptroller,,,Blank,16
-Tompkins,Lansing 7 LD 10 ,Comptroller,,,Blank,16
+Tompkins,Lansing 6 LD 10,Comptroller,,,Blank,16
+Tompkins,Lansing 7 LD 10,Comptroller,,,Blank,16
 Tompkins,Newfield 1 LD 8,Comptroller,,,Blank,22
 Tompkins,Newfield 2 LD 8,Comptroller,,,Blank,32
 Tompkins,Newfield 3 LD 8,Comptroller,,,Blank,15
@@ -1388,7 +1388,7 @@ Tompkins,Ithaca 5 LD 11,Comptroller,,,Void,0
 Tompkins,Ithaca 6 LD 11,Comptroller,,,Void,0
 Tompkins,Ithaca 7 LD 10,Comptroller,,,Void,0
 Tompkins,Ithaca 8 LD 10,Comptroller,,,Void,0
-Tompkins,Ithaca 9 LD 10 ,Comptroller,,,Void,0
+Tompkins,Ithaca 9 LD 10,Comptroller,,,Void,0
 Tompkins,Ithaca 10 LD 12,Comptroller,,,Void,2
 Tompkins,Ithaca 11 LD 11,Comptroller,,,Void,1
 Tompkins,Ithaca 12 LD 7,Comptroller,,,Void,0
@@ -1397,8 +1397,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Comptroller,,,Void,0
 Tompkins,Lansing 3 LD 6,Comptroller,,,Void,0
 Tompkins,Lansing 4 LD 6,Comptroller,,,Void,0
 Tompkins,Lansing 5 LD 6,Comptroller,,,Void,0
-Tompkins,Lansing 6 LD 10 ,Comptroller,,,Void,0
-Tompkins,Lansing 7 LD 10 ,Comptroller,,,Void,1
+Tompkins,Lansing 6 LD 10,Comptroller,,,Void,0
+Tompkins,Lansing 7 LD 10,Comptroller,,,Void,1
 Tompkins,Newfield 1 LD 8,Comptroller,,,Void,0
 Tompkins,Newfield 2 LD 8,Comptroller,,,Void,0
 Tompkins,Newfield 3 LD 8,Comptroller,,,Void,0
@@ -1452,7 +1452,7 @@ Tompkins,Ithaca 5 LD 11,Comptroller,,,Write-in,0
 Tompkins,Ithaca 6 LD 11,Comptroller,,,Write-in,0
 Tompkins,Ithaca 7 LD 10,Comptroller,,,Write-in,0
 Tompkins,Ithaca 8 LD 10,Comptroller,,,Write-in,0
-Tompkins,Ithaca 9 LD 10 ,Comptroller,,,Write-in,1
+Tompkins,Ithaca 9 LD 10,Comptroller,,,Write-in,1
 Tompkins,Ithaca 10 LD 12,Comptroller,,,Write-in,0
 Tompkins,Ithaca 11 LD 11,Comptroller,,,Write-in,0
 Tompkins,Ithaca 12 LD 7,Comptroller,,,Write-in,0
@@ -1461,8 +1461,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Comptroller,,,Write-in,0
 Tompkins,Lansing 3 LD 6,Comptroller,,,Write-in,0
 Tompkins,Lansing 4 LD 6,Comptroller,,,Write-in,0
 Tompkins,Lansing 5 LD 6,Comptroller,,,Write-in,0
-Tompkins,Lansing 6 LD 10 ,Comptroller,,,Write-in,0
-Tompkins,Lansing 7 LD 10 ,Comptroller,,,Write-in,0
+Tompkins,Lansing 6 LD 10,Comptroller,,,Write-in,0
+Tompkins,Lansing 7 LD 10,Comptroller,,,Write-in,0
 Tompkins,Newfield 1 LD 8,Comptroller,,,Write-in,0
 Tompkins,Newfield 2 LD 8,Comptroller,,,Write-in,0
 Tompkins,Newfield 3 LD 8,Comptroller,,,Write-in,0
@@ -1516,7 +1516,7 @@ Tompkins,Ithaca 5 LD 11,Attorney General,,DEM,Eric T. Schneiderman,220
 Tompkins,Ithaca 6 LD 11,Attorney General,,DEM,Eric T. Schneiderman,303
 Tompkins,Ithaca 7 LD 10,Attorney General,,DEM,Eric T. Schneiderman,324
 Tompkins,Ithaca 8 LD 10,Attorney General,,DEM,Eric T. Schneiderman,268
-Tompkins,Ithaca 9 LD 10 ,Attorney General,,DEM,Eric T. Schneiderman,293
+Tompkins,Ithaca 9 LD 10,Attorney General,,DEM,Eric T. Schneiderman,293
 Tompkins,Ithaca 10 LD 12,Attorney General,,DEM,Eric T. Schneiderman,198
 Tompkins,Ithaca 11 LD 11,Attorney General,,DEM,Eric T. Schneiderman,297
 Tompkins,Ithaca 12 LD 7,Attorney General,,DEM,Eric T. Schneiderman,105
@@ -1525,8 +1525,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Attorney General,,DEM,Eric T. Schneiderman,192
 Tompkins,Lansing 3 LD 6,Attorney General,,DEM,Eric T. Schneiderman,263
 Tompkins,Lansing 4 LD 6,Attorney General,,DEM,Eric T. Schneiderman,142
 Tompkins,Lansing 5 LD 6,Attorney General,,DEM,Eric T. Schneiderman,303
-Tompkins,Lansing 6 LD 10 ,Attorney General,,DEM,Eric T. Schneiderman,205
-Tompkins,Lansing 7 LD 10 ,Attorney General,,DEM,Eric T. Schneiderman,235
+Tompkins,Lansing 6 LD 10,Attorney General,,DEM,Eric T. Schneiderman,205
+Tompkins,Lansing 7 LD 10,Attorney General,,DEM,Eric T. Schneiderman,235
 Tompkins,Newfield 1 LD 8,Attorney General,,DEM,Eric T. Schneiderman,174
 Tompkins,Newfield 2 LD 8,Attorney General,,DEM,Eric T. Schneiderman,157
 Tompkins,Newfield 3 LD 8,Attorney General,,DEM,Eric T. Schneiderman,171
@@ -1580,7 +1580,7 @@ Tompkins,Ithaca 5 LD 11,Attorney General,,REP,John Cahill,63
 Tompkins,Ithaca 6 LD 11,Attorney General,,REP,John Cahill,86
 Tompkins,Ithaca 7 LD 10,Attorney General,,REP,John Cahill,90
 Tompkins,Ithaca 8 LD 10,Attorney General,,REP,John Cahill,53
-Tompkins,Ithaca 9 LD 10 ,Attorney General,,REP,John Cahill,70
+Tompkins,Ithaca 9 LD 10,Attorney General,,REP,John Cahill,70
 Tompkins,Ithaca 10 LD 12,Attorney General,,REP,John Cahill,69
 Tompkins,Ithaca 11 LD 11,Attorney General,,REP,John Cahill,72
 Tompkins,Ithaca 12 LD 7,Attorney General,,REP,John Cahill,39
@@ -1589,8 +1589,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Attorney General,,REP,John Cahill,197
 Tompkins,Lansing 3 LD 6,Attorney General,,REP,John Cahill,213
 Tompkins,Lansing 4 LD 6,Attorney General,,REP,John Cahill,175
 Tompkins,Lansing 5 LD 6,Attorney General,,REP,John Cahill,190
-Tompkins,Lansing 6 LD 10 ,Attorney General,,REP,John Cahill,61
-Tompkins,Lansing 7 LD 10 ,Attorney General,,REP,John Cahill,88
+Tompkins,Lansing 6 LD 10,Attorney General,,REP,John Cahill,61
+Tompkins,Lansing 7 LD 10,Attorney General,,REP,John Cahill,88
 Tompkins,Newfield 1 LD 8,Attorney General,,REP,John Cahill,157
 Tompkins,Newfield 2 LD 8,Attorney General,,REP,John Cahill,234
 Tompkins,Newfield 3 LD 8,Attorney General,,REP,John Cahill,166
@@ -1644,7 +1644,7 @@ Tompkins,Ithaca 5 LD 11,Attorney General,,CON,John Cahill,4
 Tompkins,Ithaca 6 LD 11,Attorney General,,CON,John Cahill,4
 Tompkins,Ithaca 7 LD 10,Attorney General,,CON,John Cahill,3
 Tompkins,Ithaca 8 LD 10,Attorney General,,CON,John Cahill,5
-Tompkins,Ithaca 9 LD 10 ,Attorney General,,CON,John Cahill,9
+Tompkins,Ithaca 9 LD 10,Attorney General,,CON,John Cahill,9
 Tompkins,Ithaca 10 LD 12,Attorney General,,CON,John Cahill,15
 Tompkins,Ithaca 11 LD 11,Attorney General,,CON,John Cahill,16
 Tompkins,Ithaca 12 LD 7,Attorney General,,CON,John Cahill,2
@@ -1653,8 +1653,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Attorney General,,CON,John Cahill,26
 Tompkins,Lansing 3 LD 6,Attorney General,,CON,John Cahill,35
 Tompkins,Lansing 4 LD 6,Attorney General,,CON,John Cahill,30
 Tompkins,Lansing 5 LD 6,Attorney General,,CON,John Cahill,25
-Tompkins,Lansing 6 LD 10 ,Attorney General,,CON,John Cahill,9
-Tompkins,Lansing 7 LD 10 ,Attorney General,,CON,John Cahill,13
+Tompkins,Lansing 6 LD 10,Attorney General,,CON,John Cahill,9
+Tompkins,Lansing 7 LD 10,Attorney General,,CON,John Cahill,13
 Tompkins,Newfield 1 LD 8,Attorney General,,CON,John Cahill,37
 Tompkins,Newfield 2 LD 8,Attorney General,,CON,John Cahill,35
 Tompkins,Newfield 3 LD 8,Attorney General,,CON,John Cahill,33
@@ -1708,7 +1708,7 @@ Tompkins,Ithaca 5 LD 11,Attorney General,,WOR,Eric T. Schneiderman,49
 Tompkins,Ithaca 6 LD 11,Attorney General,,WOR,Eric T. Schneiderman,37
 Tompkins,Ithaca 7 LD 10,Attorney General,,WOR,Eric T. Schneiderman,29
 Tompkins,Ithaca 8 LD 10,Attorney General,,WOR,Eric T. Schneiderman,55
-Tompkins,Ithaca 9 LD 10 ,Attorney General,,WOR,Eric T. Schneiderman,39
+Tompkins,Ithaca 9 LD 10,Attorney General,,WOR,Eric T. Schneiderman,39
 Tompkins,Ithaca 10 LD 12,Attorney General,,WOR,Eric T. Schneiderman,89
 Tompkins,Ithaca 11 LD 11,Attorney General,,WOR,Eric T. Schneiderman,54
 Tompkins,Ithaca 12 LD 7,Attorney General,,WOR,Eric T. Schneiderman,16
@@ -1717,8 +1717,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Attorney General,,WOR,Eric T. Schneiderman,22
 Tompkins,Lansing 3 LD 6,Attorney General,,WOR,Eric T. Schneiderman,31
 Tompkins,Lansing 4 LD 6,Attorney General,,WOR,Eric T. Schneiderman,28
 Tompkins,Lansing 5 LD 6,Attorney General,,WOR,Eric T. Schneiderman,38
-Tompkins,Lansing 6 LD 10 ,Attorney General,,WOR,Eric T. Schneiderman,18
-Tompkins,Lansing 7 LD 10 ,Attorney General,,WOR,Eric T. Schneiderman,19
+Tompkins,Lansing 6 LD 10,Attorney General,,WOR,Eric T. Schneiderman,18
+Tompkins,Lansing 7 LD 10,Attorney General,,WOR,Eric T. Schneiderman,19
 Tompkins,Newfield 1 LD 8,Attorney General,,WOR,Eric T. Schneiderman,19
 Tompkins,Newfield 2 LD 8,Attorney General,,WOR,Eric T. Schneiderman,29
 Tompkins,Newfield 3 LD 8,Attorney General,,WOR,Eric T. Schneiderman,34
@@ -1772,7 +1772,7 @@ Tompkins,Ithaca 5 LD 11,Attorney General,,IND,Eric T. Schneiderman,7
 Tompkins,Ithaca 6 LD 11,Attorney General,,IND,Eric T. Schneiderman,11
 Tompkins,Ithaca 7 LD 10,Attorney General,,IND,Eric T. Schneiderman,8
 Tompkins,Ithaca 8 LD 10,Attorney General,,IND,Eric T. Schneiderman,8
-Tompkins,Ithaca 9 LD 10 ,Attorney General,,IND,Eric T. Schneiderman,4
+Tompkins,Ithaca 9 LD 10,Attorney General,,IND,Eric T. Schneiderman,4
 Tompkins,Ithaca 10 LD 12,Attorney General,,IND,Eric T. Schneiderman,14
 Tompkins,Ithaca 11 LD 11,Attorney General,,IND,Eric T. Schneiderman,10
 Tompkins,Ithaca 12 LD 7,Attorney General,,IND,Eric T. Schneiderman,5
@@ -1781,8 +1781,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Attorney General,,IND,Eric T. Schneiderman,21
 Tompkins,Lansing 3 LD 6,Attorney General,,IND,Eric T. Schneiderman,18
 Tompkins,Lansing 4 LD 6,Attorney General,,IND,Eric T. Schneiderman,7
 Tompkins,Lansing 5 LD 6,Attorney General,,IND,Eric T. Schneiderman,10
-Tompkins,Lansing 6 LD 10 ,Attorney General,,IND,Eric T. Schneiderman,6
-Tompkins,Lansing 7 LD 10 ,Attorney General,,IND,Eric T. Schneiderman,15
+Tompkins,Lansing 6 LD 10,Attorney General,,IND,Eric T. Schneiderman,6
+Tompkins,Lansing 7 LD 10,Attorney General,,IND,Eric T. Schneiderman,15
 Tompkins,Newfield 1 LD 8,Attorney General,,IND,Eric T. Schneiderman,7
 Tompkins,Newfield 2 LD 8,Attorney General,,IND,Eric T. Schneiderman,17
 Tompkins,Newfield 3 LD 8,Attorney General,,IND,Eric T. Schneiderman,10
@@ -1836,7 +1836,7 @@ Tompkins,Ithaca 5 LD 11,Attorney General,,GRE,Ramon Jimenez,30
 Tompkins,Ithaca 6 LD 11,Attorney General,,GRE,Ramon Jimenez,19
 Tompkins,Ithaca 7 LD 10,Attorney General,,GRE,Ramon Jimenez,5
 Tompkins,Ithaca 8 LD 10,Attorney General,,GRE,Ramon Jimenez,19
-Tompkins,Ithaca 9 LD 10 ,Attorney General,,GRE,Ramon Jimenez,30
+Tompkins,Ithaca 9 LD 10,Attorney General,,GRE,Ramon Jimenez,30
 Tompkins,Ithaca 10 LD 12,Attorney General,,GRE,Ramon Jimenez,44
 Tompkins,Ithaca 11 LD 11,Attorney General,,GRE,Ramon Jimenez,28
 Tompkins,Ithaca 12 LD 7,Attorney General,,GRE,Ramon Jimenez,9
@@ -1845,8 +1845,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Attorney General,,GRE,Ramon Jimenez,20
 Tompkins,Lansing 3 LD 6,Attorney General,,GRE,Ramon Jimenez,17
 Tompkins,Lansing 4 LD 6,Attorney General,,GRE,Ramon Jimenez,17
 Tompkins,Lansing 5 LD 6,Attorney General,,GRE,Ramon Jimenez,19
-Tompkins,Lansing 6 LD 10 ,Attorney General,,GRE,Ramon Jimenez,20
-Tompkins,Lansing 7 LD 10 ,Attorney General,,GRE,Ramon Jimenez,22
+Tompkins,Lansing 6 LD 10,Attorney General,,GRE,Ramon Jimenez,20
+Tompkins,Lansing 7 LD 10,Attorney General,,GRE,Ramon Jimenez,22
 Tompkins,Newfield 1 LD 8,Attorney General,,GRE,Ramon Jimenez,16
 Tompkins,Newfield 2 LD 8,Attorney General,,GRE,Ramon Jimenez,20
 Tompkins,Newfield 3 LD 8,Attorney General,,GRE,Ramon Jimenez,40
@@ -1900,7 +1900,7 @@ Tompkins,Ithaca 5 LD 11,Attorney General,,LBT,Carl E. Person,4
 Tompkins,Ithaca 6 LD 11,Attorney General,,LBT,Carl E. Person,4
 Tompkins,Ithaca 7 LD 10,Attorney General,,LBT,Carl E. Person,0
 Tompkins,Ithaca 8 LD 10,Attorney General,,LBT,Carl E. Person,2
-Tompkins,Ithaca 9 LD 10 ,Attorney General,,LBT,Carl E. Person,1
+Tompkins,Ithaca 9 LD 10,Attorney General,,LBT,Carl E. Person,1
 Tompkins,Ithaca 10 LD 12,Attorney General,,LBT,Carl E. Person,2
 Tompkins,Ithaca 11 LD 11,Attorney General,,LBT,Carl E. Person,7
 Tompkins,Ithaca 12 LD 7,Attorney General,,LBT,Carl E. Person,2
@@ -1909,8 +1909,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Attorney General,,LBT,Carl E. Person,7
 Tompkins,Lansing 3 LD 6,Attorney General,,LBT,Carl E. Person,5
 Tompkins,Lansing 4 LD 6,Attorney General,,LBT,Carl E. Person,6
 Tompkins,Lansing 5 LD 6,Attorney General,,LBT,Carl E. Person,4
-Tompkins,Lansing 6 LD 10 ,Attorney General,,LBT,Carl E. Person,1
-Tompkins,Lansing 7 LD 10 ,Attorney General,,LBT,Carl E. Person,3
+Tompkins,Lansing 6 LD 10,Attorney General,,LBT,Carl E. Person,1
+Tompkins,Lansing 7 LD 10,Attorney General,,LBT,Carl E. Person,3
 Tompkins,Newfield 1 LD 8,Attorney General,,LBT,Carl E. Person,6
 Tompkins,Newfield 2 LD 8,Attorney General,,LBT,Carl E. Person,2
 Tompkins,Newfield 3 LD 8,Attorney General,,LBT,Carl E. Person,3
@@ -1964,7 +1964,7 @@ Tompkins,Ithaca 5 LD 11,Attorney General,,,Blank,5
 Tompkins,Ithaca 6 LD 11,Attorney General,,,Blank,15
 Tompkins,Ithaca 7 LD 10,Attorney General,,,Blank,13
 Tompkins,Ithaca 8 LD 10,Attorney General,,,Blank,15
-Tompkins,Ithaca 9 LD 10 ,Attorney General,,,Blank,16
+Tompkins,Ithaca 9 LD 10,Attorney General,,,Blank,16
 Tompkins,Ithaca 10 LD 12,Attorney General,,,Blank,29
 Tompkins,Ithaca 11 LD 11,Attorney General,,,Blank,24
 Tompkins,Ithaca 12 LD 7,Attorney General,,,Blank,10
@@ -1973,8 +1973,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Attorney General,,,Blank,23
 Tompkins,Lansing 3 LD 6,Attorney General,,,Blank,28
 Tompkins,Lansing 4 LD 6,Attorney General,,,Blank,21
 Tompkins,Lansing 5 LD 6,Attorney General,,,Blank,23
-Tompkins,Lansing 6 LD 10 ,Attorney General,,,Blank,20
-Tompkins,Lansing 7 LD 10 ,Attorney General,,,Blank,22
+Tompkins,Lansing 6 LD 10,Attorney General,,,Blank,20
+Tompkins,Lansing 7 LD 10,Attorney General,,,Blank,22
 Tompkins,Newfield 1 LD 8,Attorney General,,,Blank,33
 Tompkins,Newfield 2 LD 8,Attorney General,,,Blank,36
 Tompkins,Newfield 3 LD 8,Attorney General,,,Blank,24
@@ -2028,7 +2028,7 @@ Tompkins,Ithaca 5 LD 11,Attorney General,,,Void,0
 Tompkins,Ithaca 6 LD 11,Attorney General,,,Void,0
 Tompkins,Ithaca 7 LD 10,Attorney General,,,Void,1
 Tompkins,Ithaca 8 LD 10,Attorney General,,,Void,0
-Tompkins,Ithaca 9 LD 10 ,Attorney General,,,Void,0
+Tompkins,Ithaca 9 LD 10,Attorney General,,,Void,0
 Tompkins,Ithaca 10 LD 12,Attorney General,,,Void,1
 Tompkins,Ithaca 11 LD 11,Attorney General,,,Void,1
 Tompkins,Ithaca 12 LD 7,Attorney General,,,Void,0
@@ -2037,8 +2037,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Attorney General,,,Void,0
 Tompkins,Lansing 3 LD 6,Attorney General,,,Void,1
 Tompkins,Lansing 4 LD 6,Attorney General,,,Void,0
 Tompkins,Lansing 5 LD 6,Attorney General,,,Void,2
-Tompkins,Lansing 6 LD 10 ,Attorney General,,,Void,0
-Tompkins,Lansing 7 LD 10 ,Attorney General,,,Void,0
+Tompkins,Lansing 6 LD 10,Attorney General,,,Void,0
+Tompkins,Lansing 7 LD 10,Attorney General,,,Void,0
 Tompkins,Newfield 1 LD 8,Attorney General,,,Void,0
 Tompkins,Newfield 2 LD 8,Attorney General,,,Void,1
 Tompkins,Newfield 3 LD 8,Attorney General,,,Void,0
@@ -2092,7 +2092,7 @@ Tompkins,Ithaca 5 LD 11,Attorney General,,,Write-in,0
 Tompkins,Ithaca 6 LD 11,Attorney General,,,Write-in,0
 Tompkins,Ithaca 7 LD 10,Attorney General,,,Write-in,0
 Tompkins,Ithaca 8 LD 10,Attorney General,,,Write-in,0
-Tompkins,Ithaca 9 LD 10 ,Attorney General,,,Write-in,1
+Tompkins,Ithaca 9 LD 10,Attorney General,,,Write-in,1
 Tompkins,Ithaca 10 LD 12,Attorney General,,,Write-in,0
 Tompkins,Ithaca 11 LD 11,Attorney General,,,Write-in,0
 Tompkins,Ithaca 12 LD 7,Attorney General,,,Write-in,0
@@ -2101,8 +2101,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",Attorney General,,,Write-in,0
 Tompkins,Lansing 3 LD 6,Attorney General,,,Write-in,0
 Tompkins,Lansing 4 LD 6,Attorney General,,,Write-in,0
 Tompkins,Lansing 5 LD 6,Attorney General,,,Write-in,0
-Tompkins,Lansing 6 LD 10 ,Attorney General,,,Write-in,0
-Tompkins,Lansing 7 LD 10 ,Attorney General,,,Write-in,1
+Tompkins,Lansing 6 LD 10,Attorney General,,,Write-in,0
+Tompkins,Lansing 7 LD 10,Attorney General,,,Write-in,1
 Tompkins,Newfield 1 LD 8,Attorney General,,,Write-in,0
 Tompkins,Newfield 2 LD 8,Attorney General,,,Write-in,0
 Tompkins,Newfield 3 LD 8,Attorney General,,,Write-in,0
@@ -2156,7 +2156,7 @@ Tompkins,Ithaca 5 LD 11,U.S. House,23,DEM,Martha Robertson,246
 Tompkins,Ithaca 6 LD 11,U.S. House,23,DEM,Martha Robertson,343
 Tompkins,Ithaca 7 LD 10,U.S. House,23,DEM,Martha Robertson,339
 Tompkins,Ithaca 8 LD 10,U.S. House,23,DEM,Martha Robertson,291
-Tompkins,Ithaca 9 LD 10 ,U.S. House,23,DEM,Martha Robertson,334
+Tompkins,Ithaca 9 LD 10,U.S. House,23,DEM,Martha Robertson,334
 Tompkins,Ithaca 10 LD 12,U.S. House,23,DEM,Martha Robertson,243
 Tompkins,Ithaca 11 LD 11,U.S. House,23,DEM,Martha Robertson,340
 Tompkins,Ithaca 12 LD 7,U.S. House,23,DEM,Martha Robertson,116
@@ -2165,8 +2165,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",U.S. House,23,DEM,Martha Robertson,220
 Tompkins,Lansing 3 LD 6,U.S. House,23,DEM,Martha Robertson,297
 Tompkins,Lansing 4 LD 6,U.S. House,23,DEM,Martha Robertson,151
 Tompkins,Lansing 5 LD 6,U.S. House,23,DEM,Martha Robertson,324
-Tompkins,Lansing 6 LD 10 ,U.S. House,23,DEM,Martha Robertson,237
-Tompkins,Lansing 7 LD 10 ,U.S. House,23,DEM,Martha Robertson,275
+Tompkins,Lansing 6 LD 10,U.S. House,23,DEM,Martha Robertson,237
+Tompkins,Lansing 7 LD 10,U.S. House,23,DEM,Martha Robertson,275
 Tompkins,Newfield 1 LD 8,U.S. House,23,DEM,Martha Robertson,198
 Tompkins,Newfield 2 LD 8,U.S. House,23,DEM,Martha Robertson,182
 Tompkins,Newfield 3 LD 8,U.S. House,23,DEM,Martha Robertson,200
@@ -2220,7 +2220,7 @@ Tompkins,Ithaca 5 LD 11,U.S. House,23,REP,"Thomas W. Reed, II",60
 Tompkins,Ithaca 6 LD 11,U.S. House,23,REP,"Thomas W. Reed, II",78
 Tompkins,Ithaca 7 LD 10,U.S. House,23,REP,"Thomas W. Reed, II",91
 Tompkins,Ithaca 8 LD 10,U.S. House,23,REP,"Thomas W. Reed, II",61
-Tompkins,Ithaca 9 LD 10 ,U.S. House,23,REP,"Thomas W. Reed, II",70
+Tompkins,Ithaca 9 LD 10,U.S. House,23,REP,"Thomas W. Reed, II",70
 Tompkins,Ithaca 10 LD 12,U.S. House,23,REP,"Thomas W. Reed, II",73
 Tompkins,Ithaca 11 LD 11,U.S. House,23,REP,"Thomas W. Reed, II",79
 Tompkins,Ithaca 12 LD 7,U.S. House,23,REP,"Thomas W. Reed, II",41
@@ -2229,8 +2229,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",U.S. House,23,REP,"Thomas W. Reed, II",203
 Tompkins,Lansing 3 LD 6,U.S. House,23,REP,"Thomas W. Reed, II",218
 Tompkins,Lansing 4 LD 6,U.S. House,23,REP,"Thomas W. Reed, II",191
 Tompkins,Lansing 5 LD 6,U.S. House,23,REP,"Thomas W. Reed, II",208
-Tompkins,Lansing 6 LD 10 ,U.S. House,23,REP,"Thomas W. Reed, II",62
-Tompkins,Lansing 7 LD 10 ,U.S. House,23,REP,"Thomas W. Reed, II",91
+Tompkins,Lansing 6 LD 10,U.S. House,23,REP,"Thomas W. Reed, II",62
+Tompkins,Lansing 7 LD 10,U.S. House,23,REP,"Thomas W. Reed, II",91
 Tompkins,Newfield 1 LD 8,U.S. House,23,REP,"Thomas W. Reed, II",159
 Tompkins,Newfield 2 LD 8,U.S. House,23,REP,"Thomas W. Reed, II",253
 Tompkins,Newfield 3 LD 8,U.S. House,23,REP,"Thomas W. Reed, II",176
@@ -2284,7 +2284,7 @@ Tompkins,Ithaca 5 LD 11,U.S. House,23,CON,"Thomas W. Reed, II",3
 Tompkins,Ithaca 6 LD 11,U.S. House,23,CON,"Thomas W. Reed, II",6
 Tompkins,Ithaca 7 LD 10,U.S. House,23,CON,"Thomas W. Reed, II",4
 Tompkins,Ithaca 8 LD 10,U.S. House,23,CON,"Thomas W. Reed, II",3
-Tompkins,Ithaca 9 LD 10 ,U.S. House,23,CON,"Thomas W. Reed, II",5
+Tompkins,Ithaca 9 LD 10,U.S. House,23,CON,"Thomas W. Reed, II",5
 Tompkins,Ithaca 10 LD 12,U.S. House,23,CON,"Thomas W. Reed, II",13
 Tompkins,Ithaca 11 LD 11,U.S. House,23,CON,"Thomas W. Reed, II",16
 Tompkins,Ithaca 12 LD 7,U.S. House,23,CON,"Thomas W. Reed, II",2
@@ -2293,8 +2293,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",U.S. House,23,CON,"Thomas W. Reed, II",28
 Tompkins,Lansing 3 LD 6,U.S. House,23,CON,"Thomas W. Reed, II",30
 Tompkins,Lansing 4 LD 6,U.S. House,23,CON,"Thomas W. Reed, II",29
 Tompkins,Lansing 5 LD 6,U.S. House,23,CON,"Thomas W. Reed, II",20
-Tompkins,Lansing 6 LD 10 ,U.S. House,23,CON,"Thomas W. Reed, II",7
-Tompkins,Lansing 7 LD 10 ,U.S. House,23,CON,"Thomas W. Reed, II",11
+Tompkins,Lansing 6 LD 10,U.S. House,23,CON,"Thomas W. Reed, II",7
+Tompkins,Lansing 7 LD 10,U.S. House,23,CON,"Thomas W. Reed, II",11
 Tompkins,Newfield 1 LD 8,U.S. House,23,CON,"Thomas W. Reed, II",34
 Tompkins,Newfield 2 LD 8,U.S. House,23,CON,"Thomas W. Reed, II",30
 Tompkins,Newfield 3 LD 8,U.S. House,23,CON,"Thomas W. Reed, II",30
@@ -2348,7 +2348,7 @@ Tompkins,Ithaca 5 LD 11,U.S. House,23,WOR,Martha Robertson,64
 Tompkins,Ithaca 6 LD 11,U.S. House,23,WOR,Martha Robertson,53
 Tompkins,Ithaca 7 LD 10,U.S. House,23,WOR,Martha Robertson,38
 Tompkins,Ithaca 8 LD 10,U.S. House,23,WOR,Martha Robertson,62
-Tompkins,Ithaca 9 LD 10 ,U.S. House,23,WOR,Martha Robertson,47
+Tompkins,Ithaca 9 LD 10,U.S. House,23,WOR,Martha Robertson,47
 Tompkins,Ithaca 10 LD 12,U.S. House,23,WOR,Martha Robertson,110
 Tompkins,Ithaca 11 LD 11,U.S. House,23,WOR,Martha Robertson,62
 Tompkins,Ithaca 12 LD 7,U.S. House,23,WOR,Martha Robertson,26
@@ -2357,8 +2357,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",U.S. House,23,WOR,Martha Robertson,35
 Tompkins,Lansing 3 LD 6,U.S. House,23,WOR,Martha Robertson,44
 Tompkins,Lansing 4 LD 6,U.S. House,23,WOR,Martha Robertson,33
 Tompkins,Lansing 5 LD 6,U.S. House,23,WOR,Martha Robertson,47
-Tompkins,Lansing 6 LD 10 ,U.S. House,23,WOR,Martha Robertson,23
-Tompkins,Lansing 7 LD 10 ,U.S. House,23,WOR,Martha Robertson,29
+Tompkins,Lansing 6 LD 10,U.S. House,23,WOR,Martha Robertson,23
+Tompkins,Lansing 7 LD 10,U.S. House,23,WOR,Martha Robertson,29
 Tompkins,Newfield 1 LD 8,U.S. House,23,WOR,Martha Robertson,40
 Tompkins,Newfield 2 LD 8,U.S. House,23,WOR,Martha Robertson,43
 Tompkins,Newfield 3 LD 8,U.S. House,23,WOR,Martha Robertson,59
@@ -2412,7 +2412,7 @@ Tompkins,Ithaca 5 LD 11,U.S. House,23,IND,"Thomas W. Reed, II",6
 Tompkins,Ithaca 6 LD 11,U.S. House,23,IND,"Thomas W. Reed, II",5
 Tompkins,Ithaca 7 LD 10,U.S. House,23,IND,"Thomas W. Reed, II",2
 Tompkins,Ithaca 8 LD 10,U.S. House,23,IND,"Thomas W. Reed, II",5
-Tompkins,Ithaca 9 LD 10 ,U.S. House,23,IND,"Thomas W. Reed, II",3
+Tompkins,Ithaca 9 LD 10,U.S. House,23,IND,"Thomas W. Reed, II",3
 Tompkins,Ithaca 10 LD 12,U.S. House,23,IND,"Thomas W. Reed, II",9
 Tompkins,Ithaca 11 LD 11,U.S. House,23,IND,"Thomas W. Reed, II",8
 Tompkins,Ithaca 12 LD 7,U.S. House,23,IND,"Thomas W. Reed, II",0
@@ -2421,8 +2421,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",U.S. House,23,IND,"Thomas W. Reed, II",17
 Tompkins,Lansing 3 LD 6,U.S. House,23,IND,"Thomas W. Reed, II",13
 Tompkins,Lansing 4 LD 6,U.S. House,23,IND,"Thomas W. Reed, II",12
 Tompkins,Lansing 5 LD 6,U.S. House,23,IND,"Thomas W. Reed, II",8
-Tompkins,Lansing 6 LD 10 ,U.S. House,23,IND,"Thomas W. Reed, II",2
-Tompkins,Lansing 7 LD 10 ,U.S. House,23,IND,"Thomas W. Reed, II",7
+Tompkins,Lansing 6 LD 10,U.S. House,23,IND,"Thomas W. Reed, II",2
+Tompkins,Lansing 7 LD 10,U.S. House,23,IND,"Thomas W. Reed, II",7
 Tompkins,Newfield 1 LD 8,U.S. House,23,IND,"Thomas W. Reed, II",11
 Tompkins,Newfield 2 LD 8,U.S. House,23,IND,"Thomas W. Reed, II",12
 Tompkins,Newfield 3 LD 8,U.S. House,23,IND,"Thomas W. Reed, II",8
@@ -2476,7 +2476,7 @@ Tompkins,Ithaca 5 LD 11,U.S. House,23,,Blank,7
 Tompkins,Ithaca 6 LD 11,U.S. House,23,,Blank,5
 Tompkins,Ithaca 7 LD 10,U.S. House,23,,Blank,2
 Tompkins,Ithaca 8 LD 10,U.S. House,23,,Blank,4
-Tompkins,Ithaca 9 LD 10 ,U.S. House,23,,Blank,6
+Tompkins,Ithaca 9 LD 10,U.S. House,23,,Blank,6
 Tompkins,Ithaca 10 LD 12,U.S. House,23,,Blank,15
 Tompkins,Ithaca 11 LD 11,U.S. House,23,,Blank,5
 Tompkins,Ithaca 12 LD 7,U.S. House,23,,Blank,3
@@ -2485,8 +2485,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",U.S. House,23,,Blank,6
 Tompkins,Lansing 3 LD 6,U.S. House,23,,Blank,8
 Tompkins,Lansing 4 LD 6,U.S. House,23,,Blank,11
 Tompkins,Lansing 5 LD 6,U.S. House,23,,Blank,7
-Tompkins,Lansing 6 LD 10 ,U.S. House,23,,Blank,11
-Tompkins,Lansing 7 LD 10 ,U.S. House,23,,Blank,8
+Tompkins,Lansing 6 LD 10,U.S. House,23,,Blank,11
+Tompkins,Lansing 7 LD 10,U.S. House,23,,Blank,8
 Tompkins,Newfield 1 LD 8,U.S. House,23,,Blank,7
 Tompkins,Newfield 2 LD 8,U.S. House,23,,Blank,12
 Tompkins,Newfield 3 LD 8,U.S. House,23,,Blank,8
@@ -2540,7 +2540,7 @@ Tompkins,Ithaca 5 LD 11,U.S. House,23,,Void,0
 Tompkins,Ithaca 6 LD 11,U.S. House,23,,Void,0
 Tompkins,Ithaca 7 LD 10,U.S. House,23,,Void,0
 Tompkins,Ithaca 8 LD 10,U.S. House,23,,Void,0
-Tompkins,Ithaca 9 LD 10 ,U.S. House,23,,Void,0
+Tompkins,Ithaca 9 LD 10,U.S. House,23,,Void,0
 Tompkins,Ithaca 10 LD 12,U.S. House,23,,Void,0
 Tompkins,Ithaca 11 LD 11,U.S. House,23,,Void,0
 Tompkins,Ithaca 12 LD 7,U.S. House,23,,Void,0
@@ -2549,8 +2549,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",U.S. House,23,,Void,0
 Tompkins,Lansing 3 LD 6,U.S. House,23,,Void,0
 Tompkins,Lansing 4 LD 6,U.S. House,23,,Void,0
 Tompkins,Lansing 5 LD 6,U.S. House,23,,Void,0
-Tompkins,Lansing 6 LD 10 ,U.S. House,23,,Void,0
-Tompkins,Lansing 7 LD 10 ,U.S. House,23,,Void,0
+Tompkins,Lansing 6 LD 10,U.S. House,23,,Void,0
+Tompkins,Lansing 7 LD 10,U.S. House,23,,Void,0
 Tompkins,Newfield 1 LD 8,U.S. House,23,,Void,0
 Tompkins,Newfield 2 LD 8,U.S. House,23,,Void,0
 Tompkins,Newfield 3 LD 8,U.S. House,23,,Void,1
@@ -2604,7 +2604,7 @@ Tompkins,Ithaca 5 LD 11,U.S. House,23,,Write-in,1
 Tompkins,Ithaca 6 LD 11,U.S. House,23,,Write-in,1
 Tompkins,Ithaca 7 LD 10,U.S. House,23,,Write-in,0
 Tompkins,Ithaca 8 LD 10,U.S. House,23,,Write-in,3
-Tompkins,Ithaca 9 LD 10 ,U.S. House,23,,Write-in,2
+Tompkins,Ithaca 9 LD 10,U.S. House,23,,Write-in,2
 Tompkins,Ithaca 10 LD 12,U.S. House,23,,Write-in,0
 Tompkins,Ithaca 11 LD 11,U.S. House,23,,Write-in,0
 Tompkins,Ithaca 12 LD 7,U.S. House,23,,Write-in,0
@@ -2613,8 +2613,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",U.S. House,23,,Write-in,0
 Tompkins,Lansing 3 LD 6,U.S. House,23,,Write-in,0
 Tompkins,Lansing 4 LD 6,U.S. House,23,,Write-in,0
 Tompkins,Lansing 5 LD 6,U.S. House,23,,Write-in,0
-Tompkins,Lansing 6 LD 10 ,U.S. House,23,,Write-in,0
-Tompkins,Lansing 7 LD 10 ,U.S. House,23,,Write-in,1
+Tompkins,Lansing 6 LD 10,U.S. House,23,,Write-in,0
+Tompkins,Lansing 7 LD 10,U.S. House,23,,Write-in,1
 Tompkins,Newfield 1 LD 8,U.S. House,23,,Write-in,0
 Tompkins,Newfield 2 LD 8,U.S. House,23,,Write-in,0
 Tompkins,Newfield 3 LD 8,U.S. House,23,,Write-in,1
@@ -2754,48 +2754,48 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",State Senate,54,REP,Michael F. Nozzolio,276
 Tompkins,Lansing 3 LD 6,State Senate,54,REP,Michael F. Nozzolio,296
 Tompkins,Lansing 4 LD 6,State Senate,54,REP,Michael F. Nozzolio,230
 Tompkins,Lansing 5 LD 6,State Senate,54,REP,Michael F. Nozzolio,264
-Tompkins,Lansing 6 LD 10 ,State Senate,54,REP,Michael F. Nozzolio,98
-Tompkins,Lansing 7 LD 10 ,State Senate,54,REP,Michael F. Nozzolio,145
+Tompkins,Lansing 6 LD 10,State Senate,54,REP,Michael F. Nozzolio,98
+Tompkins,Lansing 7 LD 10,State Senate,54,REP,Michael F. Nozzolio,145
 Tompkins,Total,State Senate,54,REP,Michael F. Nozzolio,1560
 Tompkins,Lansing 1 LD 6,State Senate,54,CON,Michael F. Nozzolio,37
 Tompkins,"Lansing 2 LD 6, 8 LD 9",State Senate,54,CON,Michael F. Nozzolio,27
 Tompkins,Lansing 3 LD 6,State Senate,54,CON,Michael F. Nozzolio,37
 Tompkins,Lansing 4 LD 6,State Senate,54,CON,Michael F. Nozzolio,35
 Tompkins,Lansing 5 LD 6,State Senate,54,CON,Michael F. Nozzolio,22
-Tompkins,Lansing 6 LD 10 ,State Senate,54,CON,Michael F. Nozzolio,9
-Tompkins,Lansing 7 LD 10 ,State Senate,54,CON,Michael F. Nozzolio,13
+Tompkins,Lansing 6 LD 10,State Senate,54,CON,Michael F. Nozzolio,9
+Tompkins,Lansing 7 LD 10,State Senate,54,CON,Michael F. Nozzolio,13
 Tompkins,Total,State Senate,54,CON,Michael F. Nozzolio,180
 Tompkins,Lansing 1 LD 6,State Senate,54,IND,Michael F. Nozzolio,55
 Tompkins,"Lansing 2 LD 6, 8 LD 9",State Senate,54,IND,Michael F. Nozzolio,43
 Tompkins,Lansing 3 LD 6,State Senate,54,IND,Michael F. Nozzolio,61
 Tompkins,Lansing 4 LD 6,State Senate,54,IND,Michael F. Nozzolio,30
 Tompkins,Lansing 5 LD 6,State Senate,54,IND,Michael F. Nozzolio,43
-Tompkins,Lansing 6 LD 10 ,State Senate,54,IND,Michael F. Nozzolio,32
-Tompkins,Lansing 7 LD 10 ,State Senate,54,IND,Michael F. Nozzolio,45
+Tompkins,Lansing 6 LD 10,State Senate,54,IND,Michael F. Nozzolio,32
+Tompkins,Lansing 7 LD 10,State Senate,54,IND,Michael F. Nozzolio,45
 Tompkins,Total,State Senate,54,IND,Michael F. Nozzolio,309
 Tompkins,Lansing 1 LD 6,State Senate,54,,Blank,237
 Tompkins,"Lansing 2 LD 6, 8 LD 9",State Senate,54,,Blank,159
 Tompkins,Lansing 3 LD 6,State Senate,54,,Blank,215
 Tompkins,Lansing 4 LD 6,State Senate,54,,Blank,127
 Tompkins,Lansing 5 LD 6,State Senate,54,,Blank,278
-Tompkins,Lansing 6 LD 10 ,State Senate,54,,Blank,199
-Tompkins,Lansing 7 LD 10 ,State Senate,54,,Blank,212
+Tompkins,Lansing 6 LD 10,State Senate,54,,Blank,199
+Tompkins,Lansing 7 LD 10,State Senate,54,,Blank,212
 Tompkins,Total,State Senate,54,,Blank,1427
 Tompkins,Lansing 1 LD 6,State Senate,54,,Void,0
 Tompkins,"Lansing 2 LD 6, 8 LD 9",State Senate,54,,Void,0
 Tompkins,Lansing 3 LD 6,State Senate,54,,Void,0
 Tompkins,Lansing 4 LD 6,State Senate,54,,Void,0
 Tompkins,Lansing 5 LD 6,State Senate,54,,Void,0
-Tompkins,Lansing 6 LD 10 ,State Senate,54,,Void,0
-Tompkins,Lansing 7 LD 10 ,State Senate,54,,Void,0
+Tompkins,Lansing 6 LD 10,State Senate,54,,Void,0
+Tompkins,Lansing 7 LD 10,State Senate,54,,Void,0
 Tompkins,Total,State Senate,54,,Void,0
 Tompkins,Lansing 1 LD 6,State Senate,54,,Write-in,6
 Tompkins,"Lansing 2 LD 6, 8 LD 9",State Senate,54,,Write-in,3
 Tompkins,Lansing 3 LD 6,State Senate,54,,Write-in,2
 Tompkins,Lansing 4 LD 6,State Senate,54,,Write-in,4
 Tompkins,Lansing 5 LD 6,State Senate,54,,Write-in,7
-Tompkins,Lansing 6 LD 10 ,State Senate,54,,Write-in,2
-Tompkins,Lansing 7 LD 10 ,State Senate,54,,Write-in,3
+Tompkins,Lansing 6 LD 10,State Senate,54,,Write-in,2
+Tompkins,Lansing 7 LD 10,State Senate,54,,Write-in,3
 Tompkins,Total,State Senate,54,,Write-in,27
 Tompkins,Ithaca City 1-1 LD 1,State Senate,58,REP,Thomas F. O'Mara,67
 Tompkins,Ithaca City 1-2 LD 1,State Senate,58,REP,Thomas F. O'Mara,48
@@ -2822,7 +2822,7 @@ Tompkins,Ithaca 5 LD 11,State Senate,58,REP,Thomas F. O'Mara,82
 Tompkins,Ithaca 6 LD 11,State Senate,58,REP,Thomas F. O'Mara,108
 Tompkins,Ithaca 7 LD 10,State Senate,58,REP,Thomas F. O'Mara,134
 Tompkins,Ithaca 8 LD 10,State Senate,58,REP,Thomas F. O'Mara,89
-Tompkins,Ithaca 9 LD 10 ,State Senate,58,REP,Thomas F. O'Mara,101
+Tompkins,Ithaca 9 LD 10,State Senate,58,REP,Thomas F. O'Mara,101
 Tompkins,Ithaca 10 LD 12,State Senate,58,REP,Thomas F. O'Mara,96
 Tompkins,Ithaca 11 LD 11,State Senate,58,REP,Thomas F. O'Mara,114
 Tompkins,Ithaca 12 LD 7,State Senate,58,REP,Thomas F. O'Mara,55
@@ -2859,7 +2859,7 @@ Tompkins,Ithaca 5 LD 11,State Senate,58,CON,Thomas F. O'Mara,4
 Tompkins,Ithaca 6 LD 11,State Senate,58,CON,Thomas F. O'Mara,7
 Tompkins,Ithaca 7 LD 10,State Senate,58,CON,Thomas F. O'Mara,3
 Tompkins,Ithaca 8 LD 10,State Senate,58,CON,Thomas F. O'Mara,6
-Tompkins,Ithaca 9 LD 10 ,State Senate,58,CON,Thomas F. O'Mara,9
+Tompkins,Ithaca 9 LD 10,State Senate,58,CON,Thomas F. O'Mara,9
 Tompkins,Ithaca 10 LD 12,State Senate,58,CON,Thomas F. O'Mara,16
 Tompkins,Ithaca 11 LD 11,State Senate,58,CON,Thomas F. O'Mara,20
 Tompkins,Ithaca 12 LD 7,State Senate,58,CON,Thomas F. O'Mara,2
@@ -2896,7 +2896,7 @@ Tompkins,Ithaca 5 LD 11,State Senate,58,IND,Thomas F. O'Mara,37
 Tompkins,Ithaca 6 LD 11,State Senate,58,IND,Thomas F. O'Mara,43
 Tompkins,Ithaca 7 LD 10,State Senate,58,IND,Thomas F. O'Mara,26
 Tompkins,Ithaca 8 LD 10,State Senate,58,IND,Thomas F. O'Mara,33
-Tompkins,Ithaca 9 LD 10 ,State Senate,58,IND,Thomas F. O'Mara,24
+Tompkins,Ithaca 9 LD 10,State Senate,58,IND,Thomas F. O'Mara,24
 Tompkins,Ithaca 10 LD 12,State Senate,58,IND,Thomas F. O'Mara,48
 Tompkins,Ithaca 11 LD 11,State Senate,58,IND,Thomas F. O'Mara,35
 Tompkins,Ithaca 12 LD 7,State Senate,58,IND,Thomas F. O'Mara,14
@@ -2933,7 +2933,7 @@ Tompkins,Ithaca 5 LD 11,State Senate,58,,Blank,252
 Tompkins,Ithaca 6 LD 11,State Senate,58,,Blank,314
 Tompkins,Ithaca 7 LD 10,State Senate,58,,Blank,307
 Tompkins,Ithaca 8 LD 10,State Senate,58,,Blank,293
-Tompkins,Ithaca 9 LD 10 ,State Senate,58,,Blank,320
+Tompkins,Ithaca 9 LD 10,State Senate,58,,Blank,320
 Tompkins,Ithaca 10 LD 12,State Senate,58,,Blank,294
 Tompkins,Ithaca 11 LD 11,State Senate,58,,Blank,326
 Tompkins,Ithaca 12 LD 7,State Senate,58,,Blank,115
@@ -2970,7 +2970,7 @@ Tompkins,Ithaca 5 LD 11,State Senate,58,,Void,0
 Tompkins,Ithaca 6 LD 11,State Senate,58,,Void,0
 Tompkins,Ithaca 7 LD 10,State Senate,58,,Void,0
 Tompkins,Ithaca 8 LD 10,State Senate,58,,Void,0
-Tompkins,Ithaca 9 LD 10 ,State Senate,58,,Void,0
+Tompkins,Ithaca 9 LD 10,State Senate,58,,Void,0
 Tompkins,Ithaca 10 LD 12,State Senate,58,,Void,0
 Tompkins,Ithaca 11 LD 11,State Senate,58,,Void,0
 Tompkins,Ithaca 12 LD 7,State Senate,58,,Void,0
@@ -3007,7 +3007,7 @@ Tompkins,Ithaca 5 LD 11,State Senate,58,,Write-in,7
 Tompkins,Ithaca 6 LD 11,State Senate,58,,Write-in,7
 Tompkins,Ithaca 7 LD 10,State Senate,58,,Write-in,3
 Tompkins,Ithaca 8 LD 10,State Senate,58,,Write-in,4
-Tompkins,Ithaca 9 LD 10 ,State Senate,58,,Write-in,9
+Tompkins,Ithaca 9 LD 10,State Senate,58,,Write-in,9
 Tompkins,Ithaca 10 LD 12,State Senate,58,,Write-in,7
 Tompkins,Ithaca 11 LD 11,State Senate,58,,Write-in,14
 Tompkins,Ithaca 12 LD 7,State Senate,58,,Write-in,2
@@ -3064,7 +3064,7 @@ Tompkins,Ithaca 5 LD 11,State Assembly,125,DEM,Barbara S. Lifton,243
 Tompkins,Ithaca 6 LD 11,State Assembly,125,DEM,Barbara S. Lifton,326
 Tompkins,Ithaca 7 LD 10,State Assembly,125,DEM,Barbara S. Lifton,333
 Tompkins,Ithaca 8 LD 10,State Assembly,125,DEM,Barbara S. Lifton,283
-Tompkins,Ithaca 9 LD 10 ,State Assembly,125,DEM,Barbara S. Lifton,320
+Tompkins,Ithaca 9 LD 10,State Assembly,125,DEM,Barbara S. Lifton,320
 Tompkins,Ithaca 10 LD 12,State Assembly,125,DEM,Barbara S. Lifton,236
 Tompkins,Ithaca 11 LD 11,State Assembly,125,DEM,Barbara S. Lifton,340
 Tompkins,Ithaca 12 LD 7,State Assembly,125,DEM,Barbara S. Lifton,115
@@ -3073,8 +3073,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",State Assembly,125,DEM,Barbara S. Lifton,233
 Tompkins,Lansing 3 LD 6,State Assembly,125,DEM,Barbara S. Lifton,312
 Tompkins,Lansing 4 LD 6,State Assembly,125,DEM,Barbara S. Lifton,154
 Tompkins,Lansing 5 LD 6,State Assembly,125,DEM,Barbara S. Lifton,323
-Tompkins,Lansing 6 LD 10 ,State Assembly,125,DEM,Barbara S. Lifton,233
-Tompkins,Lansing 7 LD 10 ,State Assembly,125,DEM,Barbara S. Lifton,272
+Tompkins,Lansing 6 LD 10,State Assembly,125,DEM,Barbara S. Lifton,233
+Tompkins,Lansing 7 LD 10,State Assembly,125,DEM,Barbara S. Lifton,272
 Tompkins,Newfield 1 LD 8,State Assembly,125,DEM,Barbara S. Lifton,197
 Tompkins,Newfield 2 LD 8,State Assembly,125,DEM,Barbara S. Lifton,187
 Tompkins,Newfield 3 LD 8,State Assembly,125,DEM,Barbara S. Lifton,200
@@ -3128,7 +3128,7 @@ Tompkins,Ithaca 5 LD 11,State Assembly,125,REP,"Herbert Masser, Jr. ",68
 Tompkins,Ithaca 6 LD 11,State Assembly,125,REP,"Herbert Masser, Jr. ",90
 Tompkins,Ithaca 7 LD 10,State Assembly,125,REP,"Herbert Masser, Jr. ",95
 Tompkins,Ithaca 8 LD 10,State Assembly,125,REP,"Herbert Masser, Jr. ",60
-Tompkins,Ithaca 9 LD 10 ,State Assembly,125,REP,"Herbert Masser, Jr. ",80
+Tompkins,Ithaca 9 LD 10,State Assembly,125,REP,"Herbert Masser, Jr. ",80
 Tompkins,Ithaca 10 LD 12,State Assembly,125,REP,"Herbert Masser, Jr. ",81
 Tompkins,Ithaca 11 LD 11,State Assembly,125,REP,"Herbert Masser, Jr. ",86
 Tompkins,Ithaca 12 LD 7,State Assembly,125,REP,"Herbert Masser, Jr. ",39
@@ -3137,8 +3137,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",State Assembly,125,REP,"Herbert Masser, Jr. ",
 Tompkins,Lansing 3 LD 6,State Assembly,125,REP,"Herbert Masser, Jr. ",221
 Tompkins,Lansing 4 LD 6,State Assembly,125,REP,"Herbert Masser, Jr. ",218
 Tompkins,Lansing 5 LD 6,State Assembly,125,REP,"Herbert Masser, Jr. ",216
-Tompkins,Lansing 6 LD 10 ,State Assembly,125,REP,"Herbert Masser, Jr. ",64
-Tompkins,Lansing 7 LD 10 ,State Assembly,125,REP,"Herbert Masser, Jr. ",104
+Tompkins,Lansing 6 LD 10,State Assembly,125,REP,"Herbert Masser, Jr. ",64
+Tompkins,Lansing 7 LD 10,State Assembly,125,REP,"Herbert Masser, Jr. ",104
 Tompkins,Newfield 1 LD 8,State Assembly,125,REP,"Herbert Masser, Jr. ",195
 Tompkins,Newfield 2 LD 8,State Assembly,125,REP,"Herbert Masser, Jr. ",267
 Tompkins,Newfield 3 LD 8,State Assembly,125,REP,"Herbert Masser, Jr. ",193
@@ -3192,7 +3192,7 @@ Tompkins,Ithaca 5 LD 11,State Assembly,125,WOR,Barbara S. Lifton,64
 Tompkins,Ithaca 6 LD 11,State Assembly,125,WOR,Barbara S. Lifton,50
 Tompkins,Ithaca 7 LD 10,State Assembly,125,WOR,Barbara S. Lifton,38
 Tompkins,Ithaca 8 LD 10,State Assembly,125,WOR,Barbara S. Lifton,70
-Tompkins,Ithaca 9 LD 10 ,State Assembly,125,WOR,Barbara S. Lifton,50
+Tompkins,Ithaca 9 LD 10,State Assembly,125,WOR,Barbara S. Lifton,50
 Tompkins,Ithaca 10 LD 12,State Assembly,125,WOR,Barbara S. Lifton,119
 Tompkins,Ithaca 11 LD 11,State Assembly,125,WOR,Barbara S. Lifton,68
 Tompkins,Ithaca 12 LD 7,State Assembly,125,WOR,Barbara S. Lifton,25
@@ -3201,8 +3201,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",State Assembly,125,WOR,Barbara S. Lifton,36
 Tompkins,Lansing 3 LD 6,State Assembly,125,WOR,Barbara S. Lifton,50
 Tompkins,Lansing 4 LD 6,State Assembly,125,WOR,Barbara S. Lifton,34
 Tompkins,Lansing 5 LD 6,State Assembly,125,WOR,Barbara S. Lifton,55
-Tompkins,Lansing 6 LD 10 ,State Assembly,125,WOR,Barbara S. Lifton,28
-Tompkins,Lansing 7 LD 10 ,State Assembly,125,WOR,Barbara S. Lifton,29
+Tompkins,Lansing 6 LD 10,State Assembly,125,WOR,Barbara S. Lifton,28
+Tompkins,Lansing 7 LD 10,State Assembly,125,WOR,Barbara S. Lifton,29
 Tompkins,Newfield 1 LD 8,State Assembly,125,WOR,Barbara S. Lifton,36
 Tompkins,Newfield 2 LD 8,State Assembly,125,WOR,Barbara S. Lifton,44
 Tompkins,Newfield 3 LD 8,State Assembly,125,WOR,Barbara S. Lifton,68
@@ -3256,7 +3256,7 @@ Tompkins,Ithaca 5 LD 11,State Assembly,125,,Blank,7
 Tompkins,Ithaca 6 LD 11,State Assembly,125,,Blank,12
 Tompkins,Ithaca 7 LD 10,State Assembly,125,,Blank,7
 Tompkins,Ithaca 8 LD 10,State Assembly,125,,Blank,11
-Tompkins,Ithaca 9 LD 10 ,State Assembly,125,,Blank,11
+Tompkins,Ithaca 9 LD 10,State Assembly,125,,Blank,11
 Tompkins,Ithaca 10 LD 12,State Assembly,125,,Blank,24
 Tompkins,Ithaca 11 LD 11,State Assembly,125,,Blank,14
 Tompkins,Ithaca 12 LD 7,State Assembly,125,,Blank,9
@@ -3265,8 +3265,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",State Assembly,125,,Blank,16
 Tompkins,Lansing 3 LD 6,State Assembly,125,,Blank,26
 Tompkins,Lansing 4 LD 6,State Assembly,125,,Blank,20
 Tompkins,Lansing 5 LD 6,State Assembly,125,,Blank,19
-Tompkins,Lansing 6 LD 10 ,State Assembly,125,,Blank,15
-Tompkins,Lansing 7 LD 10 ,State Assembly,125,,Blank,13
+Tompkins,Lansing 6 LD 10,State Assembly,125,,Blank,15
+Tompkins,Lansing 7 LD 10,State Assembly,125,,Blank,13
 Tompkins,Newfield 1 LD 8,State Assembly,125,,Blank,21
 Tompkins,Newfield 2 LD 8,State Assembly,125,,Blank,33
 Tompkins,Newfield 3 LD 8,State Assembly,125,,Blank,18
@@ -3320,7 +3320,7 @@ Tompkins,Ithaca 5 LD 11,State Assembly,125,,Void,0
 Tompkins,Ithaca 6 LD 11,State Assembly,125,,Void,0
 Tompkins,Ithaca 7 LD 10,State Assembly,125,,Void,0
 Tompkins,Ithaca 8 LD 10,State Assembly,125,,Void,0
-Tompkins,Ithaca 9 LD 10 ,State Assembly,125,,Void,0
+Tompkins,Ithaca 9 LD 10,State Assembly,125,,Void,0
 Tompkins,Ithaca 10 LD 12,State Assembly,125,,Void,1
 Tompkins,Ithaca 11 LD 11,State Assembly,125,,Void,0
 Tompkins,Ithaca 12 LD 7,State Assembly,125,,Void,0
@@ -3329,8 +3329,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",State Assembly,125,,Void,0
 Tompkins,Lansing 3 LD 6,State Assembly,125,,Void,1
 Tompkins,Lansing 4 LD 6,State Assembly,125,,Void,0
 Tompkins,Lansing 5 LD 6,State Assembly,125,,Void,0
-Tompkins,Lansing 6 LD 10 ,State Assembly,125,,Void,0
-Tompkins,Lansing 7 LD 10 ,State Assembly,125,,Void,0
+Tompkins,Lansing 6 LD 10,State Assembly,125,,Void,0
+Tompkins,Lansing 7 LD 10,State Assembly,125,,Void,0
 Tompkins,Newfield 1 LD 8,State Assembly,125,,Void,0
 Tompkins,Newfield 2 LD 8,State Assembly,125,,Void,0
 Tompkins,Newfield 3 LD 8,State Assembly,125,,Void,0
@@ -3384,7 +3384,7 @@ Tompkins,Ithaca 5 LD 11,State Assembly,125,,Write-in,0
 Tompkins,Ithaca 6 LD 11,State Assembly,125,,Write-in,1
 Tompkins,Ithaca 7 LD 10,State Assembly,125,,Write-in,0
 Tompkins,Ithaca 8 LD 10,State Assembly,125,,Write-in,1
-Tompkins,Ithaca 9 LD 10 ,State Assembly,125,,Write-in,2
+Tompkins,Ithaca 9 LD 10,State Assembly,125,,Write-in,2
 Tompkins,Ithaca 10 LD 12,State Assembly,125,,Write-in,0
 Tompkins,Ithaca 11 LD 11,State Assembly,125,,Write-in,1
 Tompkins,Ithaca 12 LD 7,State Assembly,125,,Write-in,0
@@ -3393,8 +3393,8 @@ Tompkins,"Lansing 2 LD 6, 8 LD 9",State Assembly,125,,Write-in,0
 Tompkins,Lansing 3 LD 6,State Assembly,125,,Write-in,1
 Tompkins,Lansing 4 LD 6,State Assembly,125,,Write-in,0
 Tompkins,Lansing 5 LD 6,State Assembly,125,,Write-in,1
-Tompkins,Lansing 6 LD 10 ,State Assembly,125,,Write-in,0
-Tompkins,Lansing 7 LD 10 ,State Assembly,125,,Write-in,0
+Tompkins,Lansing 6 LD 10,State Assembly,125,,Write-in,0
+Tompkins,Lansing 7 LD 10,State Assembly,125,,Write-in,0
 Tompkins,Newfield 1 LD 8,State Assembly,125,,Write-in,0
 Tompkins,Newfield 2 LD 8,State Assembly,125,,Write-in,0
 Tompkins,Newfield 3 LD 8,State Assembly,125,,Write-in,2

@@ -2,8 +2,8 @@ county,precinct,office,district,candidate,party,votes
 Schoharie,Town of Blenheim 1 LD1,Governor,,Andrew M. Cuomo,DEM,47
 Schoharie,Town of Broome 1 LD 1,Governor,,Andrew M. Cuomo,DEM,58
 Schoharie,Town of Carlisle 1 LD 1,Governor,,Andrew M. Cuomo,DEM,92
-Schoharie,Town of Cobleskill 1 LD 1 ,Governor,,Andrew M. Cuomo,DEM,165
-Schoharie,Village-of Cobleskill 2 LD1 ,Governor,,Andrew M. Cuomo,DEM,261
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,Andrew M. Cuomo,DEM,165
+Schoharie,Village-of Cobleskill 2 LD1,Governor,,Andrew M. Cuomo,DEM,261
 Schoharie,Town of Conesville 1 LD 1,Governor,,Andrew M. Cuomo,DEM,61
 Schoharie,Town of Esperance 1 LD1,Governor,,Andrew M. Cuomo,DEM,105
 Schoharie,Village of Esperanto 2 LD .1,Governor,,Andrew M. Cuomo,DEM,37
@@ -45,8 +45,8 @@ Schoharie,Total,Governor,,Andrew M. Cuomo,DEM,2323
 Schoharie,Town of Blenheim 1 LD1,Governor,,Andrew M. Cuomo,WOR,2
 Schoharie,Town of Broome 1 LD 1,Governor,,Andrew M. Cuomo,WOR,5
 Schoharie,Town of Carlisle 1 LD 1,Governor,,Andrew M. Cuomo,WOR,5
-Schoharie,Town of Cobleskill 1 LD 1 ,Governor,,Andrew M. Cuomo,WOR,8
-Schoharie,Village-of Cobleskill 2 LD1 ,Governor,,Andrew M. Cuomo,WOR,10
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,Andrew M. Cuomo,WOR,8
+Schoharie,Village-of Cobleskill 2 LD1,Governor,,Andrew M. Cuomo,WOR,10
 Schoharie,Town of Conesville 1 LD 1,Governor,,Andrew M. Cuomo,WOR,5
 Schoharie,Town of Esperance 1 LD1,Governor,,Andrew M. Cuomo,WOR,8
 Schoharie,Village of Esperanto 2 LD .1,Governor,,Andrew M. Cuomo,WOR,1
@@ -88,8 +88,8 @@ Schoharie,Total,Governor,,Andrew M. Cuomo,WOR,148
 Schoharie,Town of Blenheim 1 LD1,Governor,,Andrew M. Cuomo,IND,6
 Schoharie,Town of Broome 1 LD 1,Governor,,Andrew M. Cuomo,IND,4
 Schoharie,Town of Carlisle 1 LD 1,Governor,,Andrew M. Cuomo,IND,10
-Schoharie,Town of Cobleskill 1 LD 1 ,Governor,,Andrew M. Cuomo,IND,10
-Schoharie,Village-of Cobleskill 2 LD1 ,Governor,,Andrew M. Cuomo,IND,20
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,Andrew M. Cuomo,IND,10
+Schoharie,Village-of Cobleskill 2 LD1,Governor,,Andrew M. Cuomo,IND,20
 Schoharie,Town of Conesville 1 LD 1,Governor,,Andrew M. Cuomo,IND,2
 Schoharie,Town of Esperance 1 LD1,Governor,,Andrew M. Cuomo,IND,7
 Schoharie,Village of Esperanto 2 LD .1,Governor,,Andrew M. Cuomo,IND,5
@@ -131,8 +131,8 @@ Schoharie,Total,Governor,,Andrew M. Cuomo,IND,178
 Schoharie,Town of Blenheim 1 LD1,Governor,,Andrew M. Cuomo,WEP,1
 Schoharie,Town of Broome 1 LD 1,Governor,,Andrew M. Cuomo,WEP,2
 Schoharie,Town of Carlisle 1 LD 1,Governor,,Andrew M. Cuomo,WEP,4
-Schoharie,Town of Cobleskill 1 LD 1 ,Governor,,Andrew M. Cuomo,WEP,9
-Schoharie,Village-of Cobleskill 2 LD1 ,Governor,,Andrew M. Cuomo,WEP,11
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,Andrew M. Cuomo,WEP,9
+Schoharie,Village-of Cobleskill 2 LD1,Governor,,Andrew M. Cuomo,WEP,11
 Schoharie,Town of Conesville 1 LD 1,Governor,,Andrew M. Cuomo,WEP,5
 Schoharie,Town of Esperance 1 LD1,Governor,,Andrew M. Cuomo,WEP,7
 Schoharie,Village of Esperanto 2 LD .1,Governor,,Andrew M. Cuomo,WEP,1
@@ -174,8 +174,8 @@ Schoharie,Total,Governor,,Andrew M. Cuomo,WEP,92
 Schoharie,Town of Blenheim 1 LD1,Governor,,Rob Astronio,WEP,50
 Schoharie,Town of Broome 1 LD 1,Governor,,Rob Astronio,WEP,178
 Schoharie,Town of Carlisle 1 LD 1,Governor,,Rob Astronio,WEP,295
-Schoharie,Town of Cobleskill 1 LD 1 ,Governor,,Rob Astronio,WEP,282
-Schoharie,Village-of Cobleskill 2 LD1 ,Governor,,Rob Astronio,WEP,338
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,Rob Astronio,WEP,282
+Schoharie,Village-of Cobleskill 2 LD1,Governor,,Rob Astronio,WEP,338
 Schoharie,Town of Conesville 1 LD 1,Governor,,Rob Astronio,WEP,146
 Schoharie,Town of Esperance 1 LD1,Governor,,Rob Astronio,WEP,239
 Schoharie,Village of Esperanto 2 LD .1,Governor,,Rob Astronio,WEP,59
@@ -217,8 +217,8 @@ Schoharie,Total,Governor,,Rob Astronio,WEP,4746
 Schoharie,Town of Blenheim 1 LD1,Governor,,Rob Astronio,CON,15
 Schoharie,Town of Broome 1 LD 1,Governor,,Rob Astronio,CON,45
 Schoharie,Town of Carlisle 1 LD 1,Governor,,Rob Astronio,CON,82
-Schoharie,Town of Cobleskill 1 LD 1 ,Governor,,Rob Astronio,CON,52
-Schoharie,Village-of Cobleskill 2 LD1 ,Governor,,Rob Astronio,CON,85
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,Rob Astronio,CON,52
+Schoharie,Village-of Cobleskill 2 LD1,Governor,,Rob Astronio,CON,85
 Schoharie,Town of Conesville 1 LD 1,Governor,,Rob Astronio,CON,34
 Schoharie,Town of Esperance 1 LD1,Governor,,Rob Astronio,CON,82
 Schoharie,Village of Esperanto 2 LD .1,Governor,,Rob Astronio,CON,12
@@ -260,8 +260,8 @@ Schoharie,Total,Governor,,Rob Astronio,CON,1234
 Schoharie,Town of Blenheim 1 LD1,Governor,,Rob Astronio,SCC,2
 Schoharie,Town of Broome 1 LD 1,Governor,,Rob Astronio,SCC,5
 Schoharie,Town of Carlisle 1 LD 1,Governor,,Rob Astronio,SCC,21
-Schoharie,Town of Cobleskill 1 LD 1 ,Governor,,Rob Astronio,SCC,13
-Schoharie,Village-of Cobleskill 2 LD1 ,Governor,,Rob Astronio,SCC,23
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,Rob Astronio,SCC,13
+Schoharie,Village-of Cobleskill 2 LD1,Governor,,Rob Astronio,SCC,23
 Schoharie,Town of Conesville 1 LD 1,Governor,,Rob Astronio,SCC,10
 Schoharie,Town of Esperance 1 LD1,Governor,,Rob Astronio,SCC,9
 Schoharie,Village of Esperanto 2 LD .1,Governor,,Rob Astronio,SCC,5
@@ -303,8 +303,8 @@ Schoharie,Total,Governor,,Rob Astronio,SCC,260
 Schoharie,Town of Blenheim 1 LD1,Governor,,Howie Hawkins,GRE,1
 Schoharie,Town of Broome 1 LD 1,Governor,,Howie Hawkins,GRE,15
 Schoharie,Town of Carlisle 1 LD 1,Governor,,Howie Hawkins,GRE,36
-Schoharie,Town of Cobleskill 1 LD 1 ,Governor,,Howie Hawkins,GRE,51
-Schoharie,Village-of Cobleskill 2 LD1 ,Governor,,Howie Hawkins,GRE,100
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,Howie Hawkins,GRE,51
+Schoharie,Village-of Cobleskill 2 LD1,Governor,,Howie Hawkins,GRE,100
 Schoharie,Town of Conesville 1 LD 1,Governor,,Howie Hawkins,GRE,17
 Schoharie,Town of Esperance 1 LD1,Governor,,Howie Hawkins,GRE,24
 Schoharie,Village of Esperanto 2 LD .1,Governor,,Howie Hawkins,GRE,6
@@ -346,8 +346,8 @@ Schoharie,Total,Governor,,Howie Hawkins,GRE,719
 Schoharie,Town of Blenheim 1 LD1,Governor,,Steven Cohn,SAP,0
 Schoharie,Town of Broome 1 LD 1,Governor,,Steven Cohn,SAP,1
 Schoharie,Town of Carlisle 1 LD 1,Governor,,Steven Cohn,SAP,1
-Schoharie,Town of Cobleskill 1 LD 1 ,Governor,,Steven Cohn,SAP,2
-Schoharie,Village-of Cobleskill 2 LD1 ,Governor,,Steven Cohn,SAP,2
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,Steven Cohn,SAP,2
+Schoharie,Village-of Cobleskill 2 LD1,Governor,,Steven Cohn,SAP,2
 Schoharie,Town of Conesville 1 LD 1,Governor,,Steven Cohn,SAP,1
 Schoharie,Town of Esperance 1 LD1,Governor,,Steven Cohn,SAP,0
 Schoharie,Village of Esperanto 2 LD .1,Governor,,Steven Cohn,SAP,0
@@ -389,8 +389,8 @@ Schoharie,Total,Governor,,Steven Cohn,SAP,19
 Schoharie,Town of Blenheim 1 LD1,Governor,,Michael Mcdermott,LBT,2
 Schoharie,Town of Broome 1 LD 1,Governor,,Michael Mcdermott,LBT,1
 Schoharie,Town of Carlisle 1 LD 1,Governor,,Michael Mcdermott,LBT,4
-Schoharie,Town of Cobleskill 1 LD 1 ,Governor,,Michael Mcdermott,LBT,2
-Schoharie,Village-of Cobleskill 2 LD1 ,Governor,,Michael Mcdermott,LBT,5
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,Michael Mcdermott,LBT,2
+Schoharie,Village-of Cobleskill 2 LD1,Governor,,Michael Mcdermott,LBT,5
 Schoharie,Town of Conesville 1 LD 1,Governor,,Michael Mcdermott,LBT,3
 Schoharie,Town of Esperance 1 LD1,Governor,,Michael Mcdermott,LBT,6
 Schoharie,Village of Esperanto 2 LD .1,Governor,,Michael Mcdermott,LBT,1
@@ -432,8 +432,8 @@ Schoharie,Total,Governor,,Michael Mcdermott,LBT,78
 Schoharie,Town of Blenheim 1 LD1,Governor,,Write-In,,2
 Schoharie,Town of Broome 1 LD 1,Governor,,Write-In,,1
 Schoharie,Town of Carlisle 1 LD 1,Governor,,Write-In,,0
-Schoharie,Town of Cobleskill 1 LD 1 ,Governor,,Write-In,,1
-Schoharie,Village-of Cobleskill 2 LD1 ,Governor,,Write-In,,3
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,Write-In,,1
+Schoharie,Village-of Cobleskill 2 LD1,Governor,,Write-In,,3
 Schoharie,Town of Conesville 1 LD 1,Governor,,Write-In,,0
 Schoharie,Town of Esperance 1 LD1,Governor,,Write-In,,1
 Schoharie,Village of Esperanto 2 LD .1,Governor,,Write-In,,0
@@ -475,8 +475,8 @@ Schoharie,Total,Governor,,Write-In,,21
 Schoharie,Town of Blenheim 1 LD1,Comptroller,,Thomas P. DiNapoli,DEM,59
 Schoharie,Town of Broome 1 LD 1,Comptroller,,Thomas P. DiNapoli,DEM,104
 Schoharie,Town of Carlisle 1 LD 1,Comptroller,,Thomas P. DiNapoli,DEM,175
-Schoharie,Town of Cobleskill 1 LD 1 ,Comptroller,,Thomas P. DiNapoli,DEM,260
-Schoharie,Village-of Cobleskill 2 LD1 ,Comptroller,,Thomas P. DiNapoli,DEM,412
+Schoharie,Town of Cobleskill 1 LD 1,Comptroller,,Thomas P. DiNapoli,DEM,260
+Schoharie,Village-of Cobleskill 2 LD1,Comptroller,,Thomas P. DiNapoli,DEM,412
 Schoharie,Town of Conesville 1 LD 1,Comptroller,,Thomas P. DiNapoli,DEM,113
 Schoharie,Town of Esperance 1 LD1,Comptroller,,Thomas P. DiNapoli,DEM,178
 Schoharie,Village of Esperanto 2 LD .1,Comptroller,,Thomas P. DiNapoli,DEM,51
@@ -518,8 +518,8 @@ Schoharie,Total,Comptroller,,Thomas P. DiNapoli,DEM,3773
 Schoharie,Town of Blenheim 1 LD1,Comptroller,,Thomas P. DiNapoli,WOR,2
 Schoharie,Town of Broome 1 LD 1,Comptroller,,Thomas P. DiNapoli,WOR,10
 Schoharie,Town of Carlisle 1 LD 1,Comptroller,,Thomas P. DiNapoli,WOR,19
-Schoharie,Town of Cobleskill 1 LD 1 ,Comptroller,,Thomas P. DiNapoli,WOR,27
-Schoharie,Village-of Cobleskill 2 LD1 ,Comptroller,,Thomas P. DiNapoli,WOR,32
+Schoharie,Town of Cobleskill 1 LD 1,Comptroller,,Thomas P. DiNapoli,WOR,27
+Schoharie,Village-of Cobleskill 2 LD1,Comptroller,,Thomas P. DiNapoli,WOR,32
 Schoharie,Town of Conesville 1 LD 1,Comptroller,,Thomas P. DiNapoli,WOR,10
 Schoharie,Town of Esperance 1 LD1,Comptroller,,Thomas P. DiNapoli,WOR,24
 Schoharie,Village of Esperanto 2 LD .1,Comptroller,,Thomas P. DiNapoli,WOR,2
@@ -561,8 +561,8 @@ Schoharie,Total,Comptroller,,Thomas P. DiNapoli,WOR,414
 Schoharie,Town of Blenheim 1 LD1,Comptroller,,Thomas P. DiNapoli,IND,8
 Schoharie,Town of Broome 1 LD 1,Comptroller,,Thomas P. DiNapoli,IND,15
 Schoharie,Town of Carlisle 1 LD 1,Comptroller,,Thomas P. DiNapoli,IND,28
-Schoharie,Town of Cobleskill 1 LD 1 ,Comptroller,,Thomas P. DiNapoli,IND,24
-Schoharie,Village-of Cobleskill 2 LD1 ,Comptroller,,Thomas P. DiNapoli,IND,56
+Schoharie,Town of Cobleskill 1 LD 1,Comptroller,,Thomas P. DiNapoli,IND,24
+Schoharie,Village-of Cobleskill 2 LD1,Comptroller,,Thomas P. DiNapoli,IND,56
 Schoharie,Town of Conesville 1 LD 1,Comptroller,,Thomas P. DiNapoli,IND,9
 Schoharie,Town of Esperance 1 LD1,Comptroller,,Thomas P. DiNapoli,IND,25
 Schoharie,Village of Esperanto 2 LD .1,Comptroller,,Thomas P. DiNapoli,IND,8
@@ -604,8 +604,8 @@ Schoharie,Total,Comptroller,,Thomas P. DiNapoli,IND,464
 Schoharie,Town of Blenheim 1 LD1,Comptroller,,Robert Antonacci,REP,45
 Schoharie,Town of Broome 1 LD 1,Comptroller,,Robert Antonacci,REP,135
 Schoharie,Town of Carlisle 1 LD 1,Comptroller,,Robert Antonacci,REP,216
-Schoharie,Town of Cobleskill 1 LD 1 ,Comptroller,,Robert Antonacci,REP,199
-Schoharie,Village-of Cobleskill 2 LD1 ,Comptroller,,Robert Antonacci,REP,247
+Schoharie,Town of Cobleskill 1 LD 1,Comptroller,,Robert Antonacci,REP,199
+Schoharie,Village-of Cobleskill 2 LD1,Comptroller,,Robert Antonacci,REP,247
 Schoharie,Town of Conesville 1 LD 1,Comptroller,,Robert Antonacci,REP,106
 Schoharie,Town of Esperance 1 LD1,Comptroller,,Robert Antonacci,REP,172
 Schoharie,Village of Esperanto 2 LD .1,Comptroller,,Robert Antonacci,REP,47
@@ -647,8 +647,8 @@ Schoharie,Total,Comptroller,,Robert Antonacci,REP,3528
 Schoharie,Town of Blenheim 1 LD1,Comptroller,,Robert Antonacci,CON,13
 Schoharie,Town of Broome 1 LD 1,Comptroller,,Robert Antonacci,CON,38
 Schoharie,Town of Carlisle 1 LD 1,Comptroller,,Robert Antonacci,CON,72
-Schoharie,Town of Cobleskill 1 LD 1 ,Comptroller,,Robert Antonacci,CON,52
-Schoharie,Village-of Cobleskill 2 LD1 ,Comptroller,,Robert Antonacci,CON,66
+Schoharie,Town of Cobleskill 1 LD 1,Comptroller,,Robert Antonacci,CON,52
+Schoharie,Village-of Cobleskill 2 LD1,Comptroller,,Robert Antonacci,CON,66
 Schoharie,Town of Conesville 1 LD 1,Comptroller,,Robert Antonacci,CON,34
 Schoharie,Town of Esperance 1 LD1,Comptroller,,Robert Antonacci,CON,74
 Schoharie,Village of Esperanto 2 LD .1,Comptroller,,Robert Antonacci,CON,8
@@ -690,8 +690,8 @@ Schoharie,Total,Comptroller,,Robert Antonacci,CON,1083
 Schoharie,Town of Blenheim 1 LD1,Comptroller,,Theresa M. Portelli,GRE,2
 Schoharie,Town of Broome 1 LD 1,Comptroller,,Theresa M. Portelli,GRE,9
 Schoharie,Town of Carlisle 1 LD 1,Comptroller,,Theresa M. Portelli,GRE,20
-Schoharie,Town of Cobleskill 1 LD 1 ,Comptroller,,Theresa M. Portelli,GRE,26
-Schoharie,Village-of Cobleskill 2 LD1 ,Comptroller,,Theresa M. Portelli,GRE,27
+Schoharie,Town of Cobleskill 1 LD 1,Comptroller,,Theresa M. Portelli,GRE,26
+Schoharie,Village-of Cobleskill 2 LD1,Comptroller,,Theresa M. Portelli,GRE,27
 Schoharie,Town of Conesville 1 LD 1,Comptroller,,Theresa M. Portelli,GRE,7
 Schoharie,Town of Esperance 1 LD1,Comptroller,,Theresa M. Portelli,GRE,4
 Schoharie,Village of Esperanto 2 LD .1,Comptroller,,Theresa M. Portelli,GRE,4
@@ -733,8 +733,8 @@ Schoharie,Total,Comptroller,,Theresa M. Portelli,GRE,331
 Schoharie,Town of Blenheim 1 LD1,Comptroller,,John Clifton,LBT,2
 Schoharie,Town of Broome 1 LD 1,Comptroller,,John Clifton,LBT,1
 Schoharie,Town of Carlisle 1 LD 1,Comptroller,,John Clifton,LBT,7
-Schoharie,Town of Cobleskill 1 LD 1 ,Comptroller,,John Clifton,LBT,6
-Schoharie,Village-of Cobleskill 2 LD1 ,Comptroller,,John Clifton,LBT,8
+Schoharie,Town of Cobleskill 1 LD 1,Comptroller,,John Clifton,LBT,6
+Schoharie,Village-of Cobleskill 2 LD1,Comptroller,,John Clifton,LBT,8
 Schoharie,Town of Conesville 1 LD 1,Comptroller,,John Clifton,LBT,2
 Schoharie,Town of Esperance 1 LD1,Comptroller,,John Clifton,LBT,4
 Schoharie,Village of Esperanto 2 LD .1,Comptroller,,John Clifton,LBT,3
@@ -776,8 +776,8 @@ Schoharie,Total,Comptroller,,John Clifton,LBT,97
 Schoharie,Town of Blenheim 1 LD1,Comptroller,,Write-In,,0
 Schoharie,Town of Broome 1 LD 1,Comptroller,,Write-In,,0
 Schoharie,Town of Carlisle 1 LD 1,Comptroller,,Write-In,,0
-Schoharie,Town of Cobleskill 1 LD 1 ,Comptroller,,Write-In,,0
-Schoharie,Village-of Cobleskill 2 LD1 ,Comptroller,,Write-In,,0
+Schoharie,Town of Cobleskill 1 LD 1,Comptroller,,Write-In,,0
+Schoharie,Village-of Cobleskill 2 LD1,Comptroller,,Write-In,,0
 Schoharie,Town of Conesville 1 LD 1,Comptroller,,Write-In,,1
 Schoharie,Town of Esperance 1 LD1,Comptroller,,Write-In,,0
 Schoharie,Village of Esperanto 2 LD .1,Comptroller,,Write-In,,0
@@ -819,8 +819,8 @@ Schoharie,Total,Comptroller,,Write-In,,2
 Schoharie,Town of Blenheim 1 LD1,Attorney General,,Eric T. Schneiderman,DEM,46
 Schoharie,Town of Broome 1 LD 1,Attorney General,,Eric T. Schneiderman,DEM,80
 Schoharie,Town of Carlisle 1 LD 1,Attorney General,,Eric T. Schneiderman,DEM,130
-Schoharie,Town of Cobleskill 1 LD 1 ,Attorney General,,Eric T. Schneiderman,DEM,216
-Schoharie,Village-of Cobleskill 2 LD1 ,Attorney General,,Eric T. Schneiderman,DEM,320
+Schoharie,Town of Cobleskill 1 LD 1,Attorney General,,Eric T. Schneiderman,DEM,216
+Schoharie,Village-of Cobleskill 2 LD1,Attorney General,,Eric T. Schneiderman,DEM,320
 Schoharie,Town of Conesville 1 LD 1,Attorney General,,Eric T. Schneiderman,DEM,77
 Schoharie,Town of Esperance 1 LD1,Attorney General,,Eric T. Schneiderman,DEM,126
 Schoharie,Village of Esperanto 2 LD .1,Attorney General,,Eric T. Schneiderman,DEM,37
@@ -862,8 +862,8 @@ Schoharie,Total,Attorney General,,Eric T. Schneiderman,DEM,2878
 Schoharie,Town of Blenheim 1 LD1,Attorney General,,Eric T. Schneiderman,WOR,4
 Schoharie,Town of Broome 1 LD 1,Attorney General,,Eric T. Schneiderman,WOR,12
 Schoharie,Town of Carlisle 1 LD 1,Attorney General,,Eric T. Schneiderman,WOR,15
-Schoharie,Town of Cobleskill 1 LD 1 ,Attorney General,,Eric T. Schneiderman,WOR,25
-Schoharie,Village-of Cobleskill 2 LD1 ,Attorney General,,Eric T. Schneiderman,WOR,21
+Schoharie,Town of Cobleskill 1 LD 1,Attorney General,,Eric T. Schneiderman,WOR,25
+Schoharie,Village-of Cobleskill 2 LD1,Attorney General,,Eric T. Schneiderman,WOR,21
 Schoharie,Town of Conesville 1 LD 1,Attorney General,,Eric T. Schneiderman,WOR,14
 Schoharie,Town of Esperance 1 LD1,Attorney General,,Eric T. Schneiderman,WOR,21
 Schoharie,Village of Esperanto 2 LD .1,Attorney General,,Eric T. Schneiderman,WOR,2
@@ -905,8 +905,8 @@ Schoharie,Total,Attorney General,,Eric T. Schneiderman,WOR,368
 Schoharie,Town of Blenheim 1 LD1,Attorney General,,Eric T. Schneiderman,IND,5
 Schoharie,Town of Broome 1 LD 1,Attorney General,,Eric T. Schneiderman,IND,12
 Schoharie,Town of Carlisle 1 LD 1,Attorney General,,Eric T. Schneiderman,IND,19
-Schoharie,Town of Cobleskill 1 LD 1 ,Attorney General,,Eric T. Schneiderman,IND,17
-Schoharie,Village-of Cobleskill 2 LD1 ,Attorney General,,Eric T. Schneiderman,IND,49
+Schoharie,Town of Cobleskill 1 LD 1,Attorney General,,Eric T. Schneiderman,IND,17
+Schoharie,Village-of Cobleskill 2 LD1,Attorney General,,Eric T. Schneiderman,IND,49
 Schoharie,Town of Conesville 1 LD 1,Attorney General,,Eric T. Schneiderman,IND,5
 Schoharie,Town of Esperance 1 LD1,Attorney General,,Eric T. Schneiderman,IND,16
 Schoharie,Village of Esperanto 2 LD .1,Attorney General,,Eric T. Schneiderman,IND,2
@@ -948,8 +948,8 @@ Schoharie,Total,Attorney General,,Eric T. Schneiderman,IND,328
 Schoharie,Town of Blenheim 1 LD1,Attorney General,,John Cahill,REP,48
 Schoharie,Town of Broome 1 LD 1,Attorney General,,John Cahill,REP,161
 Schoharie,Town of Carlisle 1 LD 1,Attorney General,,John Cahill,REP,256
-Schoharie,Town of Cobleskill 1 LD 1 ,Attorney General,,John Cahill,REP,250
-Schoharie,Village-of Cobleskill 2 LD1 ,Attorney General,,John Cahill,REP,333
+Schoharie,Town of Cobleskill 1 LD 1,Attorney General,,John Cahill,REP,250
+Schoharie,Village-of Cobleskill 2 LD1,Attorney General,,John Cahill,REP,333
 Schoharie,Town of Conesville 1 LD 1,Attorney General,,John Cahill,REP,142
 Schoharie,Town of Esperance 1 LD1,Attorney General,,John Cahill,REP,221
 Schoharie,Village of Esperanto 2 LD .1,Attorney General,,John Cahill,REP,65
@@ -991,8 +991,8 @@ Schoharie,Total,Attorney General,,John Cahill,REP,4466
 Schoharie,Town of Blenheim 1 LD1,Attorney General,,John Cahill,CON,15
 Schoharie,Town of Broome 1 LD 1,Attorney General,,John Cahill,CON,36
 Schoharie,Town of Carlisle 1 LD 1,Attorney General,,John Cahill,CON,67
-Schoharie,Town of Cobleskill 1 LD 1 ,Attorney General,,John Cahill,CON,60
-Schoharie,Village-of Cobleskill 2 LD1 ,Attorney General,,John Cahill,CON,88
+Schoharie,Town of Cobleskill 1 LD 1,Attorney General,,John Cahill,CON,60
+Schoharie,Village-of Cobleskill 2 LD1,Attorney General,,John Cahill,CON,88
 Schoharie,Town of Conesville 1 LD 1,Attorney General,,John Cahill,CON,36
 Schoharie,Town of Esperance 1 LD1,Attorney General,,John Cahill,CON,88
 Schoharie,Village of Esperanto 2 LD .1,Attorney General,,John Cahill,CON,14
@@ -1034,8 +1034,8 @@ Schoharie,Total,Attorney General,,John Cahill,CON,1274
 Schoharie,Town of Blenheim 1 LD1,Attorney General,,Ramon Jimenez,GRE,2
 Schoharie,Town of Broome 1 LD 1,Attorney General,,Ramon Jimenez,GRE,8
 Schoharie,Town of Carlisle 1 LD 1,Attorney General,,Ramon Jimenez,GRE,20
-Schoharie,Town of Cobleskill 1 LD 1 ,Attorney General,,Ramon Jimenez,GRE,17
-Schoharie,Village-of Cobleskill 2 LD1 ,Attorney General,,Ramon Jimenez,GRE,24
+Schoharie,Town of Cobleskill 1 LD 1,Attorney General,,Ramon Jimenez,GRE,17
+Schoharie,Village-of Cobleskill 2 LD1,Attorney General,,Ramon Jimenez,GRE,24
 Schoharie,Town of Conesville 1 LD 1,Attorney General,,Ramon Jimenez,GRE,6
 Schoharie,Town of Esperance 1 LD1,Attorney General,,Ramon Jimenez,GRE,2
 Schoharie,Village of Esperanto 2 LD .1,Attorney General,,Ramon Jimenez,GRE,2
@@ -1077,8 +1077,8 @@ Schoharie,Total,Attorney General,,Ramon Jimenez,GRE,242
 Schoharie,Town of Blenheim 1 LD1,Attorney General,,Carl E. Person,LBT,2
 Schoharie,Town of Broome 1 LD 1,Attorney General,,Carl E. Person,LBT,0
 Schoharie,Town of Carlisle 1 LD 1,Attorney General,,Carl E. Person,LBT,3
-Schoharie,Town of Cobleskill 1 LD 1 ,Attorney General,,Carl E. Person,LBT,4
-Schoharie,Village-of Cobleskill 2 LD1 ,Attorney General,,Carl E. Person,LBT,11
+Schoharie,Town of Cobleskill 1 LD 1,Attorney General,,Carl E. Person,LBT,4
+Schoharie,Village-of Cobleskill 2 LD1,Attorney General,,Carl E. Person,LBT,11
 Schoharie,Town of Conesville 1 LD 1,Attorney General,,Carl E. Person,LBT,3
 Schoharie,Town of Esperance 1 LD1,Attorney General,,Carl E. Person,LBT,3
 Schoharie,Village of Esperanto 2 LD .1,Attorney General,,Carl E. Person,LBT,1
@@ -1120,8 +1120,8 @@ Schoharie,Total,Attorney General,,Carl E. Person,LBT,88
 Schoharie,Town of Blenheim 1 LD1,Attorney General,,Write-In,,0
 Schoharie,Town of Broome 1 LD 1,Attorney General,,Write-In,,0
 Schoharie,Town of Carlisle 1 LD 1,Attorney General,,Write-In,,0
-Schoharie,Town of Cobleskill 1 LD 1 ,Attorney General,,Write-In,,0
-Schoharie,Village-of Cobleskill 2 LD1 ,Attorney General,,Write-In,,0
+Schoharie,Town of Cobleskill 1 LD 1,Attorney General,,Write-In,,0
+Schoharie,Village-of Cobleskill 2 LD1,Attorney General,,Write-In,,0
 Schoharie,Town of Conesville 1 LD 1,Attorney General,,Write-In,,0
 Schoharie,Town of Esperance 1 LD1,Attorney General,,Write-In,,0
 Schoharie,Village of Esperanto 2 LD .1,Attorney General,,Write-In,,0
@@ -1163,8 +1163,8 @@ Schoharie,Total,Attorney General,,Write-In,,1
 Schoharie,Town of Blenheim 1 LD1,U.S. House,19,Sean S. Eldridge,DEM,29
 Schoharie,Town of Broome 1 LD 1,U.S. House,19,Sean S. Eldridge,DEM,50
 Schoharie,Town of Carlisle 1 LD 1,U.S. House,19,Sean S. Eldridge,DEM,89
-Schoharie,Town of Cobleskill 1 LD 1 ,U.S. House,19,Sean S. Eldridge,DEM,118
-Schoharie,Village-of Cobleskill 2 LD1 ,U.S. House,19,Sean S. Eldridge,DEM,216
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,19,Sean S. Eldridge,DEM,118
+Schoharie,Village-of Cobleskill 2 LD1,U.S. House,19,Sean S. Eldridge,DEM,216
 Schoharie,Town of Conesville 1 LD 1,U.S. House,19,Sean S. Eldridge,DEM,40
 Schoharie,Town of Esperance 1 LD1,U.S. House,19,Sean S. Eldridge,DEM,82
 Schoharie,Village of Esperanto 2 LD .1,U.S. House,19,Sean S. Eldridge,DEM,28
@@ -1206,8 +1206,8 @@ Schoharie,Total,U.S. House,19,Sean S. Eldridge,DEM,1770
 Schoharie,Town of Blenheim 1 LD1,U.S. House,19,Sean S. Eldridge,WOR,4
 Schoharie,Town of Broome 1 LD 1,U.S. House,19,Sean S. Eldridge,WOR,9
 Schoharie,Town of Carlisle 1 LD 1,U.S. House,19,Sean S. Eldridge,WOR,25
-Schoharie,Town of Cobleskill 1 LD 1 ,U.S. House,19,Sean S. Eldridge,WOR,20
-Schoharie,Village-of Cobleskill 2 LD1 ,U.S. House,19,Sean S. Eldridge,WOR,33
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,19,Sean S. Eldridge,WOR,20
+Schoharie,Village-of Cobleskill 2 LD1,U.S. House,19,Sean S. Eldridge,WOR,33
 Schoharie,Town of Conesville 1 LD 1,U.S. House,19,Sean S. Eldridge,WOR,11
 Schoharie,Town of Esperance 1 LD1,U.S. House,19,Sean S. Eldridge,WOR,9
 Schoharie,Village of Esperanto 2 LD .1,U.S. House,19,Sean S. Eldridge,WOR,2
@@ -1249,8 +1249,8 @@ Schoharie,Total,U.S. House,19,Sean S. Eldridge,WOR,355
 Schoharie,Town of Blenheim 1 LD1,U.S. House,19,Christopher P. Gibson,REP,72
 Schoharie,Town of Broome 1 LD 1,U.S. House,19,Christopher P. Gibson,REP,197
 Schoharie,Town of Carlisle 1 LD 1,U.S. House,19,Christopher P. Gibson,REP,324
-Schoharie,Town of Cobleskill 1 LD 1 ,U.S. House,19,Christopher P. Gibson,REP,373
-Schoharie,Village-of Cobleskill 2 LD1 ,U.S. House,19,Christopher P. Gibson,REP,465
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,19,Christopher P. Gibson,REP,373
+Schoharie,Village-of Cobleskill 2 LD1,U.S. House,19,Christopher P. Gibson,REP,465
 Schoharie,Town of Conesville 1 LD 1,U.S. House,19,Christopher P. Gibson,REP,196
 Schoharie,Town of Esperance 1 LD1,U.S. House,19,Christopher P. Gibson,REP,281
 Schoharie,Village of Esperanto 2 LD .1,U.S. House,19,Christopher P. Gibson,REP,76
@@ -1292,8 +1292,8 @@ Schoharie,Total,U.S. House,19,Christopher P. Gibson,REP,5899
 Schoharie,Town of Blenheim 1 LD1,U.S. House,19,Christopher P. Gibson,CON,15
 Schoharie,Town of Broome 1 LD 1,U.S. House,19,Christopher P. Gibson,CON,43
 Schoharie,Town of Carlisle 1 LD 1,U.S. House,19,Christopher P. Gibson,CON,89
-Schoharie,Town of Cobleskill 1 LD 1 ,U.S. House,19,Christopher P. Gibson,CON,61
-Schoharie,Village-of Cobleskill 2 LD1 ,U.S. House,19,Christopher P. Gibson,CON,87
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,19,Christopher P. Gibson,CON,61
+Schoharie,Village-of Cobleskill 2 LD1,U.S. House,19,Christopher P. Gibson,CON,87
 Schoharie,Town of Conesville 1 LD 1,U.S. House,19,Christopher P. Gibson,CON,38
 Schoharie,Town of Esperance 1 LD1,U.S. House,19,Christopher P. Gibson,CON,87
 Schoharie,Village of Esperanto 2 LD .1,U.S. House,19,Christopher P. Gibson,CON,15
@@ -1335,8 +1335,8 @@ Schoharie,Total,U.S. House,19,Christopher P. Gibson,CON,1320
 Schoharie,Town of Blenheim 1 LD1,U.S. House,19,Christopher P. Gibson,IND,7
 Schoharie,Town of Broome 1 LD 1,U.S. House,19,Christopher P. Gibson,IND,17
 Schoharie,Town of Carlisle 1 LD 1,U.S. House,19,Christopher P. Gibson,IND,20
-Schoharie,Town of Cobleskill 1 LD 1 ,U.S. House,19,Christopher P. Gibson,IND,27
-Schoharie,Village-of Cobleskill 2 LD1 ,U.S. House,19,Christopher P. Gibson,IND,59
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,19,Christopher P. Gibson,IND,27
+Schoharie,Village-of Cobleskill 2 LD1,U.S. House,19,Christopher P. Gibson,IND,59
 Schoharie,Town of Conesville 1 LD 1,U.S. House,19,Christopher P. Gibson,IND,9
 Schoharie,Town of Esperance 1 LD1,U.S. House,19,Christopher P. Gibson,IND,30
 Schoharie,Village of Esperanto 2 LD .1,U.S. House,19,Christopher P. Gibson,IND,5
@@ -1378,8 +1378,8 @@ Schoharie,Total,U.S. House,19,Christopher P. Gibson,IND,498
 Schoharie,Town of Blenheim 1 LD1,U.S. House,19,Write-In,,0
 Schoharie,Town of Broome 1 LD 1,U.S. House,19,Write-In,,0
 Schoharie,Town of Carlisle 1 LD 1,U.S. House,19,Write-In,,0
-Schoharie,Town of Cobleskill 1 LD 1 ,U.S. House,19,Write-In,,0
-Schoharie,Village-of Cobleskill 2 LD1 ,U.S. House,19,Write-In,,1
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,19,Write-In,,0
+Schoharie,Village-of Cobleskill 2 LD1,U.S. House,19,Write-In,,1
 Schoharie,Town of Conesville 1 LD 1,U.S. House,19,Write-In,,0
 Schoharie,Town of Esperance 1 LD1,U.S. House,19,Write-In,,0
 Schoharie,Village of Esperanto 2 LD .1,U.S. House,19,Write-In,,0
@@ -1421,8 +1421,8 @@ Schoharie,Total,U.S. House,19,Write-In,,6
 Schoharie,Town of Blenheim 1 LD1,State Senate,51,James L. Seward,REP,72
 Schoharie,Town of Broome 1 LD 1,State Senate,51,James L. Seward,REP,212
 Schoharie,Town of Carlisle 1 LD 1,State Senate,51,James L. Seward,REP,344
-Schoharie,Town of Cobleskill 1 LD 1 ,State Senate,51,James L. Seward,REP,404
-Schoharie,Village-of Cobleskill 2 LD1 ,State Senate,51,James L. Seward,REP,519
+Schoharie,Town of Cobleskill 1 LD 1,State Senate,51,James L. Seward,REP,404
+Schoharie,Village-of Cobleskill 2 LD1,State Senate,51,James L. Seward,REP,519
 Schoharie,Town of Conesville 1 LD 1,State Senate,51,James L. Seward,REP,185
 Schoharie,Town of Esperance 1 LD1,State Senate,51,James L. Seward,REP,305
 Schoharie,Village of Esperanto 2 LD .1,State Senate,51,James L. Seward,REP,78
@@ -1464,8 +1464,8 @@ Schoharie,Total,State Senate,51,James L. Seward,REP,6247
 Schoharie,Town of Blenheim 1 LD1,State Senate,51,James L. Seward,CON,15
 Schoharie,Town of Broome 1 LD 1,State Senate,51,James L. Seward,CON,44
 Schoharie,Town of Carlisle 1 LD 1,State Senate,51,James L. Seward,CON,100
-Schoharie,Town of Cobleskill 1 LD 1 ,State Senate,51,James L. Seward,CON,76
-Schoharie,Village-of Cobleskill 2 LD1 ,State Senate,51,James L. Seward,CON,90
+Schoharie,Town of Cobleskill 1 LD 1,State Senate,51,James L. Seward,CON,76
+Schoharie,Village-of Cobleskill 2 LD1,State Senate,51,James L. Seward,CON,90
 Schoharie,Town of Conesville 1 LD 1,State Senate,51,James L. Seward,CON,46
 Schoharie,Town of Esperance 1 LD1,State Senate,51,James L. Seward,CON,84
 Schoharie,Village of Esperanto 2 LD .1,State Senate,51,James L. Seward,CON,16
@@ -1507,8 +1507,8 @@ Schoharie,Total,State Senate,51,James L. Seward,CON,1420
 Schoharie,Town of Blenheim 1 LD1,State Senate,51,James L. Seward,IND,15
 Schoharie,Town of Broome 1 LD 1,State Senate,51,James L. Seward,IND,28
 Schoharie,Town of Carlisle 1 LD 1,State Senate,51,James L. Seward,IND,46
-Schoharie,Town of Cobleskill 1 LD 1 ,State Senate,51,James L. Seward,IND,53
-Schoharie,Village-of Cobleskill 2 LD1 ,State Senate,51,James L. Seward,IND,126
+Schoharie,Town of Cobleskill 1 LD 1,State Senate,51,James L. Seward,IND,53
+Schoharie,Village-of Cobleskill 2 LD1,State Senate,51,James L. Seward,IND,126
 Schoharie,Town of Conesville 1 LD 1,State Senate,51,James L. Seward,IND,27
 Schoharie,Town of Esperance 1 LD1,State Senate,51,James L. Seward,IND,49
 Schoharie,Village of Esperanto 2 LD .1,State Senate,51,James L. Seward,IND,14
@@ -1550,8 +1550,8 @@ Schoharie,Total,State Senate,51,James L. Seward,IND,952
 Schoharie,Town of Blenheim 1 LD1,State Senate,51,Write-In,,1
 Schoharie,Town of Broome 1 LD 1,State Senate,51,Write-In,,0
 Schoharie,Town of Carlisle 1 LD 1,State Senate,51,Write-In,,1
-Schoharie,Town of Cobleskill 1 LD 1 ,State Senate,51,Write-In,,0
-Schoharie,Village-of Cobleskill 2 LD1 ,State Senate,51,Write-In,,5
+Schoharie,Town of Cobleskill 1 LD 1,State Senate,51,Write-In,,0
+Schoharie,Village-of Cobleskill 2 LD1,State Senate,51,Write-In,,5
 Schoharie,Town of Conesville 1 LD 1,State Senate,51,Write-In,,0
 Schoharie,Town of Esperance 1 LD1,State Senate,51,Write-In,,1
 Schoharie,Village of Esperanto 2 LD .1,State Senate,51,Write-In,,0
@@ -1593,8 +1593,8 @@ Schoharie,Total,State Senate,51,Write-In,,38
 Schoharie,Town of Blenheim 1 LD1,State Assembly,102,Peter D. Lopez,REP,76
 Schoharie,Town of Broome 1 LD 1,State Assembly,102,Peter D. Lopez,REP,220
 Schoharie,Town of Carlisle 1 LD 1,State Assembly,102,Peter D. Lopez,REP,352
-Schoharie,Town of Cobleskill 1 LD 1 ,State Assembly,102,Peter D. Lopez,REP,408
-Schoharie,Village-of Cobleskill 2 LD1 ,State Assembly,102,Peter D. Lopez,REP,514
+Schoharie,Town of Cobleskill 1 LD 1,State Assembly,102,Peter D. Lopez,REP,408
+Schoharie,Village-of Cobleskill 2 LD1,State Assembly,102,Peter D. Lopez,REP,514
 Schoharie,Town of Conesville 1 LD 1,State Assembly,102,Peter D. Lopez,REP,188
 Schoharie,Town of Esperance 1 LD1,State Assembly,102,Peter D. Lopez,REP,304
 Schoharie,Village of Esperanto 2 LD .1,State Assembly,102,Peter D. Lopez,REP,81
@@ -1636,8 +1636,8 @@ Schoharie,Total,State Assembly,102,Peter D. Lopez,REP,6318
 Schoharie,Town of Blenheim 1 LD1,State Assembly,102,Peter D. Lopez,CON,18
 Schoharie,Town of Broome 1 LD 1,State Assembly,102,Peter D. Lopez,CON,41
 Schoharie,Town of Carlisle 1 LD 1,State Assembly,102,Peter D. Lopez,CON,96
-Schoharie,Town of Cobleskill 1 LD 1 ,State Assembly,102,Peter D. Lopez,CON,70
-Schoharie,Village-of Cobleskill 2 LD1 ,State Assembly,102,Peter D. Lopez,CON,92
+Schoharie,Town of Cobleskill 1 LD 1,State Assembly,102,Peter D. Lopez,CON,70
+Schoharie,Village-of Cobleskill 2 LD1,State Assembly,102,Peter D. Lopez,CON,92
 Schoharie,Town of Conesville 1 LD 1,State Assembly,102,Peter D. Lopez,CON,48
 Schoharie,Town of Esperance 1 LD1,State Assembly,102,Peter D. Lopez,CON,86
 Schoharie,Village of Esperanto 2 LD .1,State Assembly,102,Peter D. Lopez,CON,16
@@ -1679,8 +1679,8 @@ Schoharie,Total,State Assembly,102,Peter D. Lopez,CON,1405
 Schoharie,Town of Blenheim 1 LD1,State Assembly,102,Peter D. Lopez,IND,14
 Schoharie,Town of Broome 1 LD 1,State Assembly,102,Peter D. Lopez,IND,27
 Schoharie,Town of Carlisle 1 LD 1,State Assembly,102,Peter D. Lopez,IND,51
-Schoharie,Town of Cobleskill 1 LD 1 ,State Assembly,102,Peter D. Lopez,IND,54
-Schoharie,Village-of Cobleskill 2 LD1 ,State Assembly,102,Peter D. Lopez,IND,146
+Schoharie,Town of Cobleskill 1 LD 1,State Assembly,102,Peter D. Lopez,IND,54
+Schoharie,Village-of Cobleskill 2 LD1,State Assembly,102,Peter D. Lopez,IND,146
 Schoharie,Town of Conesville 1 LD 1,State Assembly,102,Peter D. Lopez,IND,27
 Schoharie,Town of Esperance 1 LD1,State Assembly,102,Peter D. Lopez,IND,50
 Schoharie,Village of Esperanto 2 LD .1,State Assembly,102,Peter D. Lopez,IND,14
@@ -1722,8 +1722,8 @@ Schoharie,Total,State Assembly,102,Peter D. Lopez,IND,1017
 Schoharie,Town of Blenheim 1 LD1,State Assembly,102,Write-In,,1
 Schoharie,Town of Broome 1 LD 1,State Assembly,102,Write-In,,0
 Schoharie,Town of Carlisle 1 LD 1,State Assembly,102,Write-In,,1
-Schoharie,Town of Cobleskill 1 LD 1 ,State Assembly,102,Write-In,,4
-Schoharie,Village-of Cobleskill 2 LD1 ,State Assembly,102,Write-In,,5
+Schoharie,Town of Cobleskill 1 LD 1,State Assembly,102,Write-In,,4
+Schoharie,Village-of Cobleskill 2 LD1,State Assembly,102,Write-In,,5
 Schoharie,Town of Conesville 1 LD 1,State Assembly,102,Write-In,,1
 Schoharie,Town of Esperance 1 LD1,State Assembly,102,Write-In,,1
 Schoharie,Village of Esperanto 2 LD .1,State Assembly,102,Write-In,,0
