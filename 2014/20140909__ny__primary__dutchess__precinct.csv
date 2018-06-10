@@ -1,0 +1,623 @@
+county,precinct,office,district,party,candidate,votes
+Dutchess,Amenia Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,15
+Dutchess,Amenia Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,13
+Dutchess,Amenia Ward 0 District 1,Governor,,DEM,Randy A. Credico,0
+Dutchess,Amenia Ward 0 District 2,Governor,,DEM,Zephyr R. Teachout,6
+Dutchess,Amenia Ward 0 District 2,Governor,,DEM,Andrew M. Cuomo,5
+Dutchess,Amenia Ward 0 District 2,Governor,,DEM,Randy A. Credico,0
+Dutchess,Amenia Ward 0 District 3,Governor,,DEM,Zephyr R. Teachout,17
+Dutchess,Amenia Ward 0 District 3,Governor,,DEM,Andrew M. Cuomo,12
+Dutchess,Amenia Ward 0 District 3,Governor,,DEM,Randy A. Credico,0
+Dutchess,Beekman Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,15
+Dutchess,Beekman Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,10
+Dutchess,Beekman Ward 0 District 1,Governor,,DEM,Randy A. Credico,0
+Dutchess,Beekman Ward 0 District 3,Governor,,DEM,Zephyr R. Teachout,10
+Dutchess,Beekman Ward 0 District 3,Governor,,DEM,Andrew M. Cuomo,4
+Dutchess,Beekman Ward 0 District 3,Governor,,DEM,Randy A. Credico,2
+Dutchess,Beekman Ward 0 District 3,Governor,,SCT,Scatter,1
+Dutchess,Beekman Ward 0 District 4,Governor,,DEM,Zephyr R. Teachout,11
+Dutchess,Beekman Ward 0 District 4,Governor,,DEM,Andrew M. Cuomo,11
+Dutchess,Beekman Ward 0 District 4,Governor,,DEM,Randy A. Credico,0
+Dutchess,Beekman Ward 0 District 5,Governor,,DEM,Zephyr R. Teachout,18
+Dutchess,Beekman Ward 0 District 5,Governor,,DEM,Andrew M. Cuomo,17
+Dutchess,Beekman Ward 0 District 5,Governor,,DEM,Randy A. Credico,1
+Dutchess,Beekman Ward 0 District 6,Governor,,DEM,Zephyr R. Teachout,13
+Dutchess,Beekman Ward 0 District 6,Governor,,DEM,Andrew M. Cuomo,3
+Dutchess,Beekman Ward 0 District 6,Governor,,DEM,Randy A. Credico,0
+Dutchess,Beekman Ward 0 District 9,Governor,,DEM,Zephyr R. Teachout,9
+Dutchess,Beekman Ward 0 District 9,Governor,,DEM,Andrew M. Cuomo,13
+Dutchess,Beekman Ward 0 District 9,Governor,,DEM,Randy A. Credico,0
+Dutchess,City Beacon Ward 1 District 1,Governor,,DEM,Zephyr R. Teachout,47
+Dutchess,City Beacon Ward 1 District 1,Governor,,DEM,Andrew M. Cuomo,40
+Dutchess,City Beacon Ward 1 District 1,Governor,,DEM,Randy A. Credico,1
+Dutchess,City Beacon Ward 1 District 2,Governor,,DEM,Zephyr R. Teachout,58
+Dutchess,City Beacon Ward 1 District 2,Governor,,DEM,Andrew M. Cuomo,34
+Dutchess,City Beacon Ward 1 District 2,Governor,,DEM,Randy A. Credico,2
+Dutchess,City Beacon Ward 2 District 2,Governor,,DEM,Zephyr R. Teachout,34
+Dutchess,City Beacon Ward 2 District 2,Governor,,DEM,Andrew M. Cuomo,43
+Dutchess,City Beacon Ward 2 District 2,Governor,,DEM,Randy A. Credico,2
+Dutchess,City Beacon Ward 3 District 2,Governor,,DEM,Zephyr R. Teachout,41
+Dutchess,City Beacon Ward 3 District 2,Governor,,DEM,Andrew M. Cuomo,18
+Dutchess,City Beacon Ward 3 District 2,Governor,,DEM,Randy A. Credico,0
+Dutchess,City Beacon Ward 3 District 2,Governor,,VOI,Void,1
+Dutchess,City Beacon Ward 4 District 1,Governor,,DEM,Zephyr R. Teachout,82
+Dutchess,City Beacon Ward 4 District 1,Governor,,DEM,Andrew M. Cuomo,47
+Dutchess,City Beacon Ward 4 District 1,Governor,,DEM,Randy A. Credico,1
+Dutchess,City Poughkeepsie Ward 1 District 1,Governor,,DEM,Zephyr R. Teachout,20
+Dutchess,City Poughkeepsie Ward 1 District 1,Governor,,DEM,Andrew M. Cuomo,53
+Dutchess,City Poughkeepsie Ward 1 District 1,Governor,,DEM,Randy A. Credico,5
+Dutchess,City Poughkeepsie Ward 2 District 1,Governor,,DEM,Zephyr R. Teachout,36
+Dutchess,City Poughkeepsie Ward 2 District 1,Governor,,DEM,Andrew M. Cuomo,39
+Dutchess,City Poughkeepsie Ward 2 District 1,Governor,,DEM,Randy A. Credico,1
+Dutchess,City Poughkeepsie Ward 2 District 1,Governor,,SCT,Scatter,1
+Dutchess,City Poughkeepsie Ward 3 District 1,Governor,,DEM,Zephyr R. Teachout,11
+Dutchess,City Poughkeepsie Ward 3 District 1,Governor,,DEM,Andrew M. Cuomo,33
+Dutchess,City Poughkeepsie Ward 3 District 1,Governor,,DEM,Randy A. Credico,3
+Dutchess,City Poughkeepsie Ward 4 District 1,Governor,,DEM,Zephyr R. Teachout,39
+Dutchess,City Poughkeepsie Ward 4 District 1,Governor,,DEM,Andrew M. Cuomo,28
+Dutchess,City Poughkeepsie Ward 4 District 1,Governor,,DEM,Randy A. Credico,4
+Dutchess,City Poughkeepsie Ward 4 District 1,Governor,,SCT,Scatter,1
+Dutchess,City Poughkeepsie Ward 4 District 2,Governor,,DEM,Zephyr R. Teachout,31
+Dutchess,City Poughkeepsie Ward 4 District 2,Governor,,DEM,Andrew M. Cuomo,35
+Dutchess,City Poughkeepsie Ward 4 District 2,Governor,,DEM,Randy A. Credico,0
+Dutchess,City Poughkeepsie Ward 4 District 3,Governor,,DEM,Zephyr R. Teachout,39
+Dutchess,City Poughkeepsie Ward 4 District 3,Governor,,DEM,Andrew M. Cuomo,22
+Dutchess,City Poughkeepsie Ward 4 District 3,Governor,,DEM,Randy A. Credico,0
+Dutchess,City Poughkeepsie Ward 5 District 1,Governor,,DEM,Zephyr R. Teachout,14
+Dutchess,City Poughkeepsie Ward 5 District 1,Governor,,DEM,Andrew M. Cuomo,46
+Dutchess,City Poughkeepsie Ward 5 District 1,Governor,,DEM,Randy A. Credico,2
+Dutchess,City Poughkeepsie Ward 6 District 1,Governor,,DEM,Zephyr R. Teachout,43
+Dutchess,City Poughkeepsie Ward 6 District 1,Governor,,DEM,Andrew M. Cuomo,48
+Dutchess,City Poughkeepsie Ward 6 District 1,Governor,,DEM,Randy A. Credico,3
+Dutchess,City Poughkeepsie Ward 6 District 3,Governor,,DEM,Zephyr R. Teachout,0
+Dutchess,City Poughkeepsie Ward 6 District 3,Governor,,DEM,Andrew M. Cuomo,7
+Dutchess,City Poughkeepsie Ward 6 District 3,Governor,,DEM,Randy A. Credico,0
+Dutchess,City Poughkeepsie Ward 7 District 1,Governor,,DEM,Zephyr R. Teachout,19
+Dutchess,City Poughkeepsie Ward 7 District 1,Governor,,DEM,Andrew M. Cuomo,43
+Dutchess,City Poughkeepsie Ward 7 District 1,Governor,,DEM,Randy A. Credico,6
+Dutchess,City Poughkeepsie Ward 8 District 1,Governor,,DEM,Zephyr R. Teachout,49
+Dutchess,City Poughkeepsie Ward 8 District 1,Governor,,DEM,Andrew M. Cuomo,24
+Dutchess,City Poughkeepsie Ward 8 District 1,Governor,,DEM,Randy A. Credico,0
+Dutchess,City Poughkeepsie Ward 8 District 2,Governor,,DEM,Zephyr R. Teachout,51
+Dutchess,City Poughkeepsie Ward 8 District 2,Governor,,DEM,Andrew M. Cuomo,59
+Dutchess,City Poughkeepsie Ward 8 District 2,Governor,,DEM,Randy A. Credico,0
+Dutchess,City Poughkeepsie Ward 8 District 2,Governor,,VOI,Void,1
+Dutchess,Clinton Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,31
+Dutchess,Clinton Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,13
+Dutchess,Clinton Ward 0 District 1,Governor,,DEM,Randy A. Credico,1
+Dutchess,Clinton Ward 0 District 1,Governor,,VOI,Void,1
+Dutchess,Clinton Ward 0 District 2,Governor,,DEM,Zephyr R. Teachout,27
+Dutchess,Clinton Ward 0 District 2,Governor,,DEM,Andrew M. Cuomo,10
+Dutchess,Clinton Ward 0 District 2,Governor,,DEM,Randy A. Credico,1
+Dutchess,Clinton Ward 0 District 3,Governor,,DEM,Zephyr R. Teachout,30
+Dutchess,Clinton Ward 0 District 3,Governor,,DEM,Andrew M. Cuomo,10
+Dutchess,Clinton Ward 0 District 3,Governor,,DEM,Randy A. Credico,1
+Dutchess,Dover Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,21
+Dutchess,Dover Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,25
+Dutchess,Dover Ward 0 District 1,Governor,,DEM,Randy A. Credico,1
+Dutchess,Dover Ward 0 District 4,Governor,,DEM,Zephyr R. Teachout,16
+Dutchess,Dover Ward 0 District 4,Governor,,DEM,Andrew M. Cuomo,15
+Dutchess,Dover Ward 0 District 4,Governor,,DEM,Randy A. Credico,0
+Dutchess,East Fishkill Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,12
+Dutchess,East Fishkill Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,18
+Dutchess,East Fishkill Ward 0 District 1,Governor,,DEM,Randy A. Credico,3
+Dutchess,East Fishkill Ward 0 District 2,Governor,,DEM,Zephyr R. Teachout,28
+Dutchess,East Fishkill Ward 0 District 2,Governor,,DEM,Andrew M. Cuomo,19
+Dutchess,East Fishkill Ward 0 District 2,Governor,,DEM,Randy A. Credico,0
+Dutchess,East Fishkill Ward 0 District 3,Governor,,DEM,Zephyr R. Teachout,11
+Dutchess,East Fishkill Ward 0 District 3,Governor,,DEM,Andrew M. Cuomo,16
+Dutchess,East Fishkill Ward 0 District 3,Governor,,DEM,Randy A. Credico,1
+Dutchess,East Fishkill Ward 0 District 4,Governor,,DEM,Zephyr R. Teachout,15
+Dutchess,East Fishkill Ward 0 District 4,Governor,,DEM,Andrew M. Cuomo,14
+Dutchess,East Fishkill Ward 0 District 4,Governor,,DEM,Randy A. Credico,1
+Dutchess,East Fishkill Ward 0 District 6,Governor,,DEM,Zephyr R. Teachout,25
+Dutchess,East Fishkill Ward 0 District 6,Governor,,DEM,Andrew M. Cuomo,37
+Dutchess,East Fishkill Ward 0 District 6,Governor,,DEM,Randy A. Credico,1
+Dutchess,East Fishkill Ward 0 District 8,Governor,,DEM,Zephyr R. Teachout,22
+Dutchess,East Fishkill Ward 0 District 8,Governor,,DEM,Andrew M. Cuomo,17
+Dutchess,East Fishkill Ward 0 District 8,Governor,,DEM,Randy A. Credico,1
+Dutchess,East Fishkill Ward 0 District 13,Governor,,DEM,Zephyr R. Teachout,20
+Dutchess,East Fishkill Ward 0 District 13,Governor,,DEM,Andrew M. Cuomo,18
+Dutchess,East Fishkill Ward 0 District 13,Governor,,DEM,Randy A. Credico,2
+Dutchess,East Fishkill Ward 0 District 15,Governor,,DEM,Zephyr R. Teachout,20
+Dutchess,East Fishkill Ward 0 District 15,Governor,,DEM,Andrew M. Cuomo,10
+Dutchess,East Fishkill Ward 0 District 15,Governor,,DEM,Randy A. Credico,0
+Dutchess,Fishkill Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,16
+Dutchess,Fishkill Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,20
+Dutchess,Fishkill Ward 0 District 1,Governor,,DEM,Randy A. Credico,0
+Dutchess,Fishkill Ward 0 District 2,Governor,,DEM,Zephyr R. Teachout,20
+Dutchess,Fishkill Ward 0 District 2,Governor,,DEM,Andrew M. Cuomo,30
+Dutchess,Fishkill Ward 0 District 2,Governor,,DEM,Randy A. Credico,2
+Dutchess,Fishkill Ward 0 District 4,Governor,,DEM,Zephyr R. Teachout,17
+Dutchess,Fishkill Ward 0 District 4,Governor,,DEM,Andrew M. Cuomo,10
+Dutchess,Fishkill Ward 0 District 4,Governor,,DEM,Randy A. Credico,1
+Dutchess,Fishkill Ward 0 District 5,Governor,,DEM,Zephyr R. Teachout,16
+Dutchess,Fishkill Ward 0 District 5,Governor,,DEM,Andrew M. Cuomo,34
+Dutchess,Fishkill Ward 0 District 5,Governor,,DEM,Randy A. Credico,3
+Dutchess,Fishkill Ward 0 District 8,Governor,,DEM,Zephyr R. Teachout,10
+Dutchess,Fishkill Ward 0 District 8,Governor,,DEM,Andrew M. Cuomo,9
+Dutchess,Fishkill Ward 0 District 8,Governor,,DEM,Randy A. Credico,0
+Dutchess,Fishkill Ward 0 District 9,Governor,,DEM,Zephyr R. Teachout,9
+Dutchess,Fishkill Ward 0 District 9,Governor,,DEM,Andrew M. Cuomo,10
+Dutchess,Fishkill Ward 0 District 9,Governor,,DEM,Randy A. Credico,1
+Dutchess,Fishkill Ward 0 District 10,Governor,,DEM,Zephyr R. Teachout,26
+Dutchess,Fishkill Ward 0 District 10,Governor,,DEM,Andrew M. Cuomo,32
+Dutchess,Fishkill Ward 0 District 10,Governor,,DEM,Randy A. Credico,3
+Dutchess,Fishkill Ward 0 District 12,Governor,,DEM,Zephyr R. Teachout,14
+Dutchess,Fishkill Ward 0 District 12,Governor,,DEM,Andrew M. Cuomo,24
+Dutchess,Fishkill Ward 0 District 12,Governor,,DEM,Randy A. Credico,0
+Dutchess,Hyde Park Ward 1 District 1,Governor,,DEM,Zephyr R. Teachout,18
+Dutchess,Hyde Park Ward 1 District 1,Governor,,DEM,Andrew M. Cuomo,9
+Dutchess,Hyde Park Ward 1 District 1,Governor,,DEM,Randy A. Credico,0
+Dutchess,Hyde Park Ward 1 District 2,Governor,,DEM,Zephyr R. Teachout,28
+Dutchess,Hyde Park Ward 1 District 2,Governor,,DEM,Andrew M. Cuomo,13
+Dutchess,Hyde Park Ward 1 District 2,Governor,,DEM,Randy A. Credico,1
+Dutchess,Hyde Park Ward 1 District 3,Governor,,DEM,Zephyr R. Teachout,29
+Dutchess,Hyde Park Ward 1 District 3,Governor,,DEM,Andrew M. Cuomo,24
+Dutchess,Hyde Park Ward 1 District 3,Governor,,DEM,Randy A. Credico,0
+Dutchess,Hyde Park Ward 1 District 4,Governor,,DEM,Zephyr R. Teachout,18
+Dutchess,Hyde Park Ward 1 District 4,Governor,,DEM,Andrew M. Cuomo,32
+Dutchess,Hyde Park Ward 1 District 4,Governor,,DEM,Randy A. Credico,3
+Dutchess,Hyde Park Ward 2 District 1,Governor,,DEM,Zephyr R. Teachout,40
+Dutchess,Hyde Park Ward 2 District 1,Governor,,DEM,Andrew M. Cuomo,28
+Dutchess,Hyde Park Ward 2 District 1,Governor,,DEM,Randy A. Credico,0
+Dutchess,Hyde Park Ward 2 District 4,Governor,,DEM,Zephyr R. Teachout,11
+Dutchess,Hyde Park Ward 2 District 4,Governor,,DEM,Andrew M. Cuomo,2
+Dutchess,Hyde Park Ward 2 District 4,Governor,,DEM,Randy A. Credico,0
+Dutchess,Hyde Park Ward 3 District 1,Governor,,DEM,Zephyr R. Teachout,17
+Dutchess,Hyde Park Ward 3 District 1,Governor,,DEM,Andrew M. Cuomo,15
+Dutchess,Hyde Park Ward 3 District 1,Governor,,DEM,Randy A. Credico,0
+Dutchess,Hyde Park Ward 4 District 1,Governor,,DEM,Zephyr R. Teachout,15
+Dutchess,Hyde Park Ward 4 District 1,Governor,,DEM,Andrew M. Cuomo,18
+Dutchess,Hyde Park Ward 4 District 1,Governor,,DEM,Randy A. Credico,2
+Dutchess,LaGrange Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,18
+Dutchess,LaGrange Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,11
+Dutchess,LaGrange Ward 0 District 1,Governor,,DEM,Randy A. Credico,1
+Dutchess,LaGrange Ward 0 District 3,Governor,,DEM,Zephyr R. Teachout,17
+Dutchess,LaGrange Ward 0 District 3,Governor,,DEM,Andrew M. Cuomo,17
+Dutchess,LaGrange Ward 0 District 3,Governor,,DEM,Randy A. Credico,0
+Dutchess,LaGrange Ward 0 District 3,Governor,,VOI,Void,1
+Dutchess,LaGrange Ward 0 District 5,Governor,,DEM,Zephyr R. Teachout,28
+Dutchess,LaGrange Ward 0 District 5,Governor,,DEM,Andrew M. Cuomo,16
+Dutchess,LaGrange Ward 0 District 5,Governor,,DEM,Randy A. Credico,1
+Dutchess,LaGrange Ward 0 District 6,Governor,,DEM,Zephyr R. Teachout,31
+Dutchess,LaGrange Ward 0 District 6,Governor,,DEM,Andrew M. Cuomo,30
+Dutchess,LaGrange Ward 0 District 6,Governor,,DEM,Randy A. Credico,0
+Dutchess,LaGrange Ward 0 District 7,Governor,,DEM,Zephyr R. Teachout,21
+Dutchess,LaGrange Ward 0 District 7,Governor,,DEM,Andrew M. Cuomo,12
+Dutchess,LaGrange Ward 0 District 7,Governor,,DEM,Randy A. Credico,0
+Dutchess,LaGrange Ward 0 District 9,Governor,,DEM,Zephyr R. Teachout,24
+Dutchess,LaGrange Ward 0 District 9,Governor,,DEM,Andrew M. Cuomo,15
+Dutchess,LaGrange Ward 0 District 9,Governor,,DEM,Randy A. Credico,0
+Dutchess,LaGrange Ward 0 District 9,Governor,,VOI,Void,1
+Dutchess,LaGrange Ward 0 District 11,Governor,,DEM,Zephyr R. Teachout,19
+Dutchess,LaGrange Ward 0 District 11,Governor,,DEM,Andrew M. Cuomo,11
+Dutchess,LaGrange Ward 0 District 11,Governor,,DEM,Randy A. Credico,1
+Dutchess,Milan Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,68
+Dutchess,Milan Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,24
+Dutchess,Milan Ward 0 District 1,Governor,,DEM,Randy A. Credico,0
+Dutchess,North East Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,51
+Dutchess,North East Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,22
+Dutchess,North East Ward 0 District 1,Governor,,DEM,Randy A. Credico,0
+Dutchess,North East Ward 0 District 1,Governor,,SCT,Scatter,1
+Dutchess,Pawling Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,14
+Dutchess,Pawling Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,9
+Dutchess,Pawling Ward 0 District 1,Governor,,DEM,Randy A. Credico,1
+Dutchess,Pawling Ward 0 District 2,Governor,,DEM,Zephyr R. Teachout,25
+Dutchess,Pawling Ward 0 District 2,Governor,,DEM,Andrew M. Cuomo,20
+Dutchess,Pawling Ward 0 District 2,Governor,,DEM,Randy A. Credico,1
+Dutchess,Pawling Ward 0 District 3,Governor,,DEM,Zephyr R. Teachout,16
+Dutchess,Pawling Ward 0 District 3,Governor,,DEM,Andrew M. Cuomo,14
+Dutchess,Pawling Ward 0 District 3,Governor,,DEM,Randy A. Credico,0
+Dutchess,Pawling Ward 0 District 4,Governor,,DEM,Zephyr R. Teachout,16
+Dutchess,Pawling Ward 0 District 4,Governor,,DEM,Andrew M. Cuomo,15
+Dutchess,Pawling Ward 0 District 4,Governor,,DEM,Randy A. Credico,0
+Dutchess,Pine Plains Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,40
+Dutchess,Pine Plains Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,20
+Dutchess,Pine Plains Ward 0 District 1,Governor,,DEM,Randy A. Credico,4
+Dutchess,Pleasant Valley Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,53
+Dutchess,Pleasant Valley Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,30
+Dutchess,Pleasant Valley Ward 0 District 1,Governor,,DEM,Randy A. Credico,1
+Dutchess,Pleasant Valley Ward 0 District 2,Governor,,DEM,Zephyr R. Teachout,31
+Dutchess,Pleasant Valley Ward 0 District 2,Governor,,DEM,Andrew M. Cuomo,14
+Dutchess,Pleasant Valley Ward 0 District 2,Governor,,DEM,Randy A. Credico,0
+Dutchess,Pleasant Valley Ward 0 District 6,Governor,,DEM,Zephyr R. Teachout,28
+Dutchess,Pleasant Valley Ward 0 District 6,Governor,,DEM,Andrew M. Cuomo,4
+Dutchess,Pleasant Valley Ward 0 District 6,Governor,,DEM,Randy A. Credico,1
+Dutchess,Red Hook Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,29
+Dutchess,Red Hook Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,8
+Dutchess,Red Hook Ward 0 District 1,Governor,,DEM,Randy A. Credico,1
+Dutchess,Red Hook Ward 0 District 2,Governor,,DEM,Zephyr R. Teachout,76
+Dutchess,Red Hook Ward 0 District 2,Governor,,DEM,Andrew M. Cuomo,23
+Dutchess,Red Hook Ward 0 District 2,Governor,,DEM,Randy A. Credico,2
+Dutchess,Red Hook Ward 0 District 3,Governor,,DEM,Zephyr R. Teachout,50
+Dutchess,Red Hook Ward 0 District 3,Governor,,DEM,Andrew M. Cuomo,12
+Dutchess,Red Hook Ward 0 District 3,Governor,,DEM,Randy A. Credico,2
+Dutchess,Red Hook Ward 0 District 5,Governor,,DEM,Zephyr R. Teachout,44
+Dutchess,Red Hook Ward 0 District 5,Governor,,DEM,Andrew M. Cuomo,10
+Dutchess,Red Hook Ward 0 District 5,Governor,,DEM,Randy A. Credico,0
+Dutchess,Red Hook Ward 0 District 5,Governor,,SCT,Scatter,1
+Dutchess,Red Hook Ward 0 District 6,Governor,,DEM,Zephyr R. Teachout,42
+Dutchess,Red Hook Ward 0 District 6,Governor,,DEM,Andrew M. Cuomo,14
+Dutchess,Red Hook Ward 0 District 6,Governor,,DEM,Randy A. Credico,1
+Dutchess,Red Hook Ward 0 District 6,Governor,,VOI,Void,1
+Dutchess,Red Hook Ward 0 District 7,Governor,,DEM,Zephyr R. Teachout,46
+Dutchess,Red Hook Ward 0 District 7,Governor,,DEM,Andrew M. Cuomo,20
+Dutchess,Red Hook Ward 0 District 7,Governor,,DEM,Randy A. Credico,0
+Dutchess,Rhinebeck Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,63
+Dutchess,Rhinebeck Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,35
+Dutchess,Rhinebeck Ward 0 District 1,Governor,,DEM,Randy A. Credico,1
+Dutchess,Rhinebeck Ward 0 District 2,Governor,,DEM,Zephyr R. Teachout,176
+Dutchess,Rhinebeck Ward 0 District 2,Governor,,DEM,Andrew M. Cuomo,47
+Dutchess,Rhinebeck Ward 0 District 2,Governor,,DEM,Randy A. Credico,3
+Dutchess,Rhinebeck Ward 0 District 2,Governor,,VOI,Void,1
+Dutchess,Rhinebeck Ward 0 District 3,Governor,,DEM,Zephyr R. Teachout,75
+Dutchess,Rhinebeck Ward 0 District 3,Governor,,DEM,Andrew M. Cuomo,21
+Dutchess,Rhinebeck Ward 0 District 3,Governor,,DEM,Randy A. Credico,0
+Dutchess,Stanford Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,49
+Dutchess,Stanford Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,14
+Dutchess,Stanford Ward 0 District 1,Governor,,DEM,Randy A. Credico,3
+Dutchess,Town Poughkeepsie Ward 1 District 1,Governor,,DEM,Zephyr R. Teachout,26
+Dutchess,Town Poughkeepsie Ward 1 District 1,Governor,,DEM,Andrew M. Cuomo,23
+Dutchess,Town Poughkeepsie Ward 1 District 1,Governor,,DEM,Randy A. Credico,1
+Dutchess,Town Poughkeepsie Ward 1 District 2,Governor,,DEM,Zephyr R. Teachout,22
+Dutchess,Town Poughkeepsie Ward 1 District 2,Governor,,DEM,Andrew M. Cuomo,5
+Dutchess,Town Poughkeepsie Ward 1 District 2,Governor,,DEM,Randy A. Credico,0
+Dutchess,Town Poughkeepsie Ward 1 District 3,Governor,,DEM,Zephyr R. Teachout,17
+Dutchess,Town Poughkeepsie Ward 1 District 3,Governor,,DEM,Andrew M. Cuomo,28
+Dutchess,Town Poughkeepsie Ward 1 District 3,Governor,,DEM,Randy A. Credico,1
+Dutchess,Town Poughkeepsie Ward 2 District 1,Governor,,DEM,Zephyr R. Teachout,27
+Dutchess,Town Poughkeepsie Ward 2 District 1,Governor,,DEM,Andrew M. Cuomo,25
+Dutchess,Town Poughkeepsie Ward 2 District 1,Governor,,DEM,Randy A. Credico,0
+Dutchess,Town Poughkeepsie Ward 2 District 2,Governor,,DEM,Zephyr R. Teachout,29
+Dutchess,Town Poughkeepsie Ward 2 District 2,Governor,,DEM,Andrew M. Cuomo,31
+Dutchess,Town Poughkeepsie Ward 2 District 2,Governor,,DEM,Randy A. Credico,2
+Dutchess,Town Poughkeepsie Ward 2 District 3,Governor,,DEM,Zephyr R. Teachout,59
+Dutchess,Town Poughkeepsie Ward 2 District 3,Governor,,DEM,Andrew M. Cuomo,40
+Dutchess,Town Poughkeepsie Ward 2 District 3,Governor,,DEM,Randy A. Credico,5
+Dutchess,Town Poughkeepsie Ward 3 District 1,Governor,,DEM,Zephyr R. Teachout,38
+Dutchess,Town Poughkeepsie Ward 3 District 1,Governor,,DEM,Andrew M. Cuomo,23
+Dutchess,Town Poughkeepsie Ward 3 District 1,Governor,,DEM,Randy A. Credico,2
+Dutchess,Town Poughkeepsie Ward 3 District 3,Governor,,DEM,Zephyr R. Teachout,24
+Dutchess,Town Poughkeepsie Ward 3 District 3,Governor,,DEM,Andrew M. Cuomo,21
+Dutchess,Town Poughkeepsie Ward 3 District 3,Governor,,DEM,Randy A. Credico,0
+Dutchess,Town Poughkeepsie Ward 3 District 4,Governor,,DEM,Zephyr R. Teachout,39
+Dutchess,Town Poughkeepsie Ward 3 District 4,Governor,,DEM,Andrew M. Cuomo,36
+Dutchess,Town Poughkeepsie Ward 3 District 4,Governor,,DEM,Randy A. Credico,1
+Dutchess,Town Poughkeepsie Ward 4 District 3,Governor,,DEM,Zephyr R. Teachout,13
+Dutchess,Town Poughkeepsie Ward 4 District 3,Governor,,DEM,Andrew M. Cuomo,26
+Dutchess,Town Poughkeepsie Ward 4 District 3,Governor,,DEM,Randy A. Credico,0
+Dutchess,Town Poughkeepsie Ward 5 District 1,Governor,,DEM,Zephyr R. Teachout,16
+Dutchess,Town Poughkeepsie Ward 5 District 1,Governor,,DEM,Andrew M. Cuomo,24
+Dutchess,Town Poughkeepsie Ward 5 District 1,Governor,,DEM,Randy A. Credico,2
+Dutchess,Town Poughkeepsie Ward 5 District 1,Governor,,SCT,Scatter,1
+Dutchess,Town Poughkeepsie Ward 5 District 2,Governor,,DEM,Zephyr R. Teachout,26
+Dutchess,Town Poughkeepsie Ward 5 District 2,Governor,,DEM,Andrew M. Cuomo,27
+Dutchess,Town Poughkeepsie Ward 5 District 2,Governor,,DEM,Randy A. Credico,0
+Dutchess,Town Poughkeepsie Ward 5 District 2,Governor,,VOI,Void,1
+Dutchess,Town Poughkeepsie Ward 6 District 1,Governor,,DEM,Zephyr R. Teachout,90
+Dutchess,Town Poughkeepsie Ward 6 District 1,Governor,,DEM,Andrew M. Cuomo,40
+Dutchess,Town Poughkeepsie Ward 6 District 1,Governor,,DEM,Randy A. Credico,1
+Dutchess,Town Poughkeepsie Ward 6 District 3,Governor,,DEM,Zephyr R. Teachout,47
+Dutchess,Town Poughkeepsie Ward 6 District 3,Governor,,DEM,Andrew M. Cuomo,11
+Dutchess,Town Poughkeepsie Ward 6 District 3,Governor,,DEM,Randy A. Credico,0
+Dutchess,Union Vale Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,38
+Dutchess,Union Vale Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,10
+Dutchess,Union Vale Ward 0 District 1,Governor,,DEM,Randy A. Credico,1
+Dutchess,Union Vale Ward 0 District 3,Governor,,DEM,Zephyr R. Teachout,29
+Dutchess,Union Vale Ward 0 District 3,Governor,,DEM,Andrew M. Cuomo,15
+Dutchess,Union Vale Ward 0 District 3,Governor,,DEM,Randy A. Credico,0
+Dutchess,Wappinger Ward 1 District 1,Governor,,DEM,Zephyr R. Teachout,21
+Dutchess,Wappinger Ward 1 District 1,Governor,,DEM,Andrew M. Cuomo,22
+Dutchess,Wappinger Ward 1 District 1,Governor,,DEM,Randy A. Credico,2
+Dutchess,Wappinger Ward 1 District 1,Governor,,SCT,Scatter,1
+Dutchess,Wappinger Ward 1 District 3,Governor,,DEM,Zephyr R. Teachout,24
+Dutchess,Wappinger Ward 1 District 3,Governor,,DEM,Andrew M. Cuomo,21
+Dutchess,Wappinger Ward 1 District 3,Governor,,DEM,Randy A. Credico,3
+Dutchess,Wappinger Ward 1 District 3,Governor,,SCT,Scatter,1
+Dutchess,Wappinger Ward 1 District 5,Governor,,DEM,Zephyr R. Teachout,7
+Dutchess,Wappinger Ward 1 District 5,Governor,,DEM,Andrew M. Cuomo,20
+Dutchess,Wappinger Ward 1 District 5,Governor,,DEM,Randy A. Credico,3
+Dutchess,Wappinger Ward 2 District 2,Governor,,DEM,Zephyr R. Teachout,14
+Dutchess,Wappinger Ward 2 District 2,Governor,,DEM,Andrew M. Cuomo,13
+Dutchess,Wappinger Ward 2 District 2,Governor,,DEM,Randy A. Credico,0
+Dutchess,Wappinger Ward 2 District 5,Governor,,DEM,Zephyr R. Teachout,28
+Dutchess,Wappinger Ward 2 District 5,Governor,,DEM,Andrew M. Cuomo,37
+Dutchess,Wappinger Ward 2 District 5,Governor,,DEM,Randy A. Credico,0
+Dutchess,Wappinger Ward 3 District 2,Governor,,DEM,Zephyr R. Teachout,20
+Dutchess,Wappinger Ward 3 District 2,Governor,,DEM,Andrew M. Cuomo,44
+Dutchess,Wappinger Ward 3 District 2,Governor,,DEM,Randy A. Credico,1
+Dutchess,Wappinger Ward 3 District 3,Governor,,DEM,Zephyr R. Teachout,13
+Dutchess,Wappinger Ward 3 District 3,Governor,,DEM,Andrew M. Cuomo,19
+Dutchess,Wappinger Ward 3 District 3,Governor,,DEM,Randy A. Credico,4
+Dutchess,Wappinger Ward 4 District 1,Governor,,DEM,Zephyr R. Teachout,22
+Dutchess,Wappinger Ward 4 District 1,Governor,,DEM,Andrew M. Cuomo,27
+Dutchess,Wappinger Ward 4 District 1,Governor,,DEM,Randy A. Credico,3
+Dutchess,Washington Ward 0 District 1,Governor,,DEM,Zephyr R. Teachout,62
+Dutchess,Washington Ward 0 District 1,Governor,,DEM,Andrew M. Cuomo,34
+Dutchess,Washington Ward 0 District 1,Governor,,DEM,Randy A. Credico,2
+Dutchess,Amenia Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,13
+Dutchess,Amenia Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,13
+Dutchess,Amenia Ward 0 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,5
+Dutchess,Amenia Ward 0 District 2,Lieutenant Governor,,DEM,Timothy Wu,6
+Dutchess,Amenia Ward 0 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,11
+Dutchess,Amenia Ward 0 District 3,Lieutenant Governor,,DEM,Timothy Wu,16
+Dutchess,Beekman Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,10
+Dutchess,Beekman Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,13
+Dutchess,Beekman Ward 0 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,2
+Dutchess,Beekman Ward 0 District 3,Lieutenant Governor,,DEM,Timothy Wu,14
+Dutchess,Beekman Ward 0 District 4,Lieutenant Governor,,DEM,Kathy C. Hochul,11
+Dutchess,Beekman Ward 0 District 4,Lieutenant Governor,,DEM,Timothy Wu,10
+Dutchess,Beekman Ward 0 District 5,Lieutenant Governor,,DEM,Kathy C. Hochul,18
+Dutchess,Beekman Ward 0 District 5,Lieutenant Governor,,DEM,Timothy Wu,14
+Dutchess,Beekman Ward 0 District 6,Lieutenant Governor,,DEM,Kathy C. Hochul,3
+Dutchess,Beekman Ward 0 District 6,Lieutenant Governor,,DEM,Timothy Wu,13
+Dutchess,Beekman Ward 0 District 9,Lieutenant Governor,,DEM,Kathy C. Hochul,14
+Dutchess,Beekman Ward 0 District 9,Lieutenant Governor,,DEM,Timothy Wu,9
+Dutchess,City Beacon Ward 1 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,34
+Dutchess,City Beacon Ward 1 District 1,Lieutenant Governor,,DEM,Timothy Wu,46
+Dutchess,City Beacon Ward 1 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,28
+Dutchess,City Beacon Ward 1 District 2,Lieutenant Governor,,DEM,Timothy Wu,58
+Dutchess,City Beacon Ward 2 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,39
+Dutchess,City Beacon Ward 2 District 2,Lieutenant Governor,,DEM,Timothy Wu,39
+Dutchess,City Beacon Ward 2 District 2,Lieutenant Governor,,VOI,Void,1
+Dutchess,City Beacon Ward 3 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,19
+Dutchess,City Beacon Ward 3 District 2,Lieutenant Governor,,DEM,Timothy Wu,36
+Dutchess,City Beacon Ward 4 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,43
+Dutchess,City Beacon Ward 4 District 1,Lieutenant Governor,,DEM,Timothy Wu,86
+Dutchess,City Poughkeepsie Ward 1 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,47
+Dutchess,City Poughkeepsie Ward 1 District 1,Lieutenant Governor,,DEM,Timothy Wu,25
+Dutchess,City Poughkeepsie Ward 1 District 1,Lieutenant Governor,,SCT,Scatter,1
+Dutchess,City Poughkeepsie Ward 2 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,36
+Dutchess,City Poughkeepsie Ward 2 District 1,Lieutenant Governor,,DEM,Timothy Wu,33
+Dutchess,City Poughkeepsie Ward 3 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,27
+Dutchess,City Poughkeepsie Ward 3 District 1,Lieutenant Governor,,DEM,Timothy Wu,14
+Dutchess,City Poughkeepsie Ward 4 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,27
+Dutchess,City Poughkeepsie Ward 4 District 1,Lieutenant Governor,,DEM,Timothy Wu,39
+Dutchess,City Poughkeepsie Ward 4 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,28
+Dutchess,City Poughkeepsie Ward 4 District 2,Lieutenant Governor,,DEM,Timothy Wu,30
+Dutchess,City Poughkeepsie Ward 4 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,24
+Dutchess,City Poughkeepsie Ward 4 District 3,Lieutenant Governor,,DEM,Timothy Wu,34
+Dutchess,City Poughkeepsie Ward 5 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,49
+Dutchess,City Poughkeepsie Ward 5 District 1,Lieutenant Governor,,DEM,Timothy Wu,11
+Dutchess,City Poughkeepsie Ward 6 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,53
+Dutchess,City Poughkeepsie Ward 6 District 1,Lieutenant Governor,,DEM,Timothy Wu,35
+Dutchess,City Poughkeepsie Ward 6 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,5
+Dutchess,City Poughkeepsie Ward 6 District 3,Lieutenant Governor,,DEM,Timothy Wu,1
+Dutchess,City Poughkeepsie Ward 7 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,38
+Dutchess,City Poughkeepsie Ward 7 District 1,Lieutenant Governor,,DEM,Timothy Wu,23
+Dutchess,City Poughkeepsie Ward 8 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,25
+Dutchess,City Poughkeepsie Ward 8 District 1,Lieutenant Governor,,DEM,Timothy Wu,46
+Dutchess,City Poughkeepsie Ward 8 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,56
+Dutchess,City Poughkeepsie Ward 8 District 2,Lieutenant Governor,,DEM,Timothy Wu,47
+Dutchess,Clinton Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,14
+Dutchess,Clinton Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,31
+Dutchess,Clinton Ward 0 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,11
+Dutchess,Clinton Ward 0 District 2,Lieutenant Governor,,DEM,Timothy Wu,25
+Dutchess,Clinton Ward 0 District 2,Lieutenant Governor,,SCT,Scatter,1
+Dutchess,Clinton Ward 0 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,15
+Dutchess,Clinton Ward 0 District 3,Lieutenant Governor,,DEM,Timothy Wu,25
+Dutchess,Clinton Ward 0 District 3,Lieutenant Governor,,VOI,Void,1
+Dutchess,Dover Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,21
+Dutchess,Dover Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,24
+Dutchess,Dover Ward 0 District 4,Lieutenant Governor,,DEM,Kathy C. Hochul,10
+Dutchess,Dover Ward 0 District 4,Lieutenant Governor,,DEM,Timothy Wu,20
+Dutchess,East Fishkill Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,17
+Dutchess,East Fishkill Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,13
+Dutchess,East Fishkill Ward 0 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,28
+Dutchess,East Fishkill Ward 0 District 2,Lieutenant Governor,,DEM,Timothy Wu,18
+Dutchess,East Fishkill Ward 0 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,15
+Dutchess,East Fishkill Ward 0 District 3,Lieutenant Governor,,DEM,Timothy Wu,13
+Dutchess,East Fishkill Ward 0 District 4,Lieutenant Governor,,DEM,Kathy C. Hochul,16
+Dutchess,East Fishkill Ward 0 District 4,Lieutenant Governor,,DEM,Timothy Wu,13
+Dutchess,East Fishkill Ward 0 District 6,Lieutenant Governor,,DEM,Kathy C. Hochul,30
+Dutchess,East Fishkill Ward 0 District 6,Lieutenant Governor,,DEM,Timothy Wu,31
+Dutchess,East Fishkill Ward 0 District 8,Lieutenant Governor,,DEM,Kathy C. Hochul,17
+Dutchess,East Fishkill Ward 0 District 8,Lieutenant Governor,,DEM,Timothy Wu,22
+Dutchess,East Fishkill Ward 0 District 13,Lieutenant Governor,,DEM,Kathy C. Hochul,29
+Dutchess,East Fishkill Ward 0 District 13,Lieutenant Governor,,DEM,Timothy Wu,9
+Dutchess,East Fishkill Ward 0 District 15,Lieutenant Governor,,DEM,Kathy C. Hochul,9
+Dutchess,East Fishkill Ward 0 District 15,Lieutenant Governor,,DEM,Timothy Wu,21
+Dutchess,Fishkill Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,21
+Dutchess,Fishkill Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,14
+Dutchess,Fishkill Ward 0 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,33
+Dutchess,Fishkill Ward 0 District 2,Lieutenant Governor,,DEM,Timothy Wu,18
+Dutchess,Fishkill Ward 0 District 4,Lieutenant Governor,,DEM,Kathy C. Hochul,10
+Dutchess,Fishkill Ward 0 District 4,Lieutenant Governor,,DEM,Timothy Wu,18
+Dutchess,Fishkill Ward 0 District 5,Lieutenant Governor,,DEM,Kathy C. Hochul,29
+Dutchess,Fishkill Ward 0 District 5,Lieutenant Governor,,DEM,Timothy Wu,22
+Dutchess,Fishkill Ward 0 District 8,Lieutenant Governor,,DEM,Kathy C. Hochul,10
+Dutchess,Fishkill Ward 0 District 8,Lieutenant Governor,,DEM,Timothy Wu,7
+Dutchess,Fishkill Ward 0 District 9,Lieutenant Governor,,DEM,Kathy C. Hochul,10
+Dutchess,Fishkill Ward 0 District 9,Lieutenant Governor,,DEM,Timothy Wu,8
+Dutchess,Fishkill Ward 0 District 10,Lieutenant Governor,,DEM,Kathy C. Hochul,36
+Dutchess,Fishkill Ward 0 District 10,Lieutenant Governor,,DEM,Timothy Wu,22
+Dutchess,Fishkill Ward 0 District 12,Lieutenant Governor,,DEM,Kathy C. Hochul,26
+Dutchess,Fishkill Ward 0 District 12,Lieutenant Governor,,DEM,Timothy Wu,9
+Dutchess,Hyde Park Ward 1 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,15
+Dutchess,Hyde Park Ward 1 District 1,Lieutenant Governor,,DEM,Timothy Wu,11
+Dutchess,Hyde Park Ward 1 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,17
+Dutchess,Hyde Park Ward 1 District 2,Lieutenant Governor,,DEM,Timothy Wu,24
+Dutchess,Hyde Park Ward 1 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,25
+Dutchess,Hyde Park Ward 1 District 3,Lieutenant Governor,,DEM,Timothy Wu,24
+Dutchess,Hyde Park Ward 1 District 4,Lieutenant Governor,,DEM,Kathy C. Hochul,32
+Dutchess,Hyde Park Ward 1 District 4,Lieutenant Governor,,DEM,Timothy Wu,20
+Dutchess,Hyde Park Ward 2 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,22
+Dutchess,Hyde Park Ward 2 District 1,Lieutenant Governor,,DEM,Timothy Wu,42
+Dutchess,Hyde Park Ward 2 District 4,Lieutenant Governor,,DEM,Kathy C. Hochul,2
+Dutchess,Hyde Park Ward 2 District 4,Lieutenant Governor,,DEM,Timothy Wu,10
+Dutchess,Hyde Park Ward 3 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,16
+Dutchess,Hyde Park Ward 3 District 1,Lieutenant Governor,,DEM,Timothy Wu,15
+Dutchess,Hyde Park Ward 4 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,21
+Dutchess,Hyde Park Ward 4 District 1,Lieutenant Governor,,DEM,Timothy Wu,12
+Dutchess,LaGrange Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,16
+Dutchess,LaGrange Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,13
+Dutchess,LaGrange Ward 0 District 1,Lieutenant Governor,,SCT,Scatter,1
+Dutchess,LaGrange Ward 0 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,11
+Dutchess,LaGrange Ward 0 District 3,Lieutenant Governor,,DEM,Timothy Wu,20
+Dutchess,LaGrange Ward 0 District 5,Lieutenant Governor,,DEM,Kathy C. Hochul,13
+Dutchess,LaGrange Ward 0 District 5,Lieutenant Governor,,DEM,Timothy Wu,29
+Dutchess,LaGrange Ward 0 District 6,Lieutenant Governor,,DEM,Kathy C. Hochul,25
+Dutchess,LaGrange Ward 0 District 6,Lieutenant Governor,,DEM,Timothy Wu,33
+Dutchess,LaGrange Ward 0 District 7,Lieutenant Governor,,DEM,Kathy C. Hochul,16
+Dutchess,LaGrange Ward 0 District 7,Lieutenant Governor,,DEM,Timothy Wu,15
+Dutchess,LaGrange Ward 0 District 9,Lieutenant Governor,,DEM,Kathy C. Hochul,16
+Dutchess,LaGrange Ward 0 District 9,Lieutenant Governor,,DEM,Timothy Wu,24
+Dutchess,LaGrange Ward 0 District 11,Lieutenant Governor,,DEM,Kathy C. Hochul,10
+Dutchess,LaGrange Ward 0 District 11,Lieutenant Governor,,DEM,Timothy Wu,21
+Dutchess,Milan Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,19
+Dutchess,Milan Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,73
+Dutchess,North East Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,30
+Dutchess,North East Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,40
+Dutchess,Pawling Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,12
+Dutchess,Pawling Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,11
+Dutchess,Pawling Ward 0 District 1,Lieutenant Governor,,VOI,Void,1
+Dutchess,Pawling Ward 0 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,25
+Dutchess,Pawling Ward 0 District 2,Lieutenant Governor,,DEM,Timothy Wu,17
+Dutchess,Pawling Ward 0 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,15
+Dutchess,Pawling Ward 0 District 3,Lieutenant Governor,,DEM,Timothy Wu,14
+Dutchess,Pawling Ward 0 District 4,Lieutenant Governor,,DEM,Kathy C. Hochul,17
+Dutchess,Pawling Ward 0 District 4,Lieutenant Governor,,DEM,Timothy Wu,14
+Dutchess,Pine Plains Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,26
+Dutchess,Pine Plains Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,33
+Dutchess,Pleasant Valley Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,31
+Dutchess,Pleasant Valley Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,50
+Dutchess,Pleasant Valley Ward 0 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,17
+Dutchess,Pleasant Valley Ward 0 District 2,Lieutenant Governor,,DEM,Timothy Wu,26
+Dutchess,Pleasant Valley Ward 0 District 6,Lieutenant Governor,,DEM,Kathy C. Hochul,7
+Dutchess,Pleasant Valley Ward 0 District 6,Lieutenant Governor,,DEM,Timothy Wu,26
+Dutchess,Red Hook Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,10
+Dutchess,Red Hook Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,26
+Dutchess,Red Hook Ward 0 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,24
+Dutchess,Red Hook Ward 0 District 2,Lieutenant Governor,,DEM,Timothy Wu,77
+Dutchess,Red Hook Ward 0 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,12
+Dutchess,Red Hook Ward 0 District 3,Lieutenant Governor,,DEM,Timothy Wu,47
+Dutchess,Red Hook Ward 0 District 5,Lieutenant Governor,,DEM,Kathy C. Hochul,14
+Dutchess,Red Hook Ward 0 District 5,Lieutenant Governor,,DEM,Timothy Wu,35
+Dutchess,Red Hook Ward 0 District 6,Lieutenant Governor,,DEM,Kathy C. Hochul,17
+Dutchess,Red Hook Ward 0 District 6,Lieutenant Governor,,DEM,Timothy Wu,38
+Dutchess,Red Hook Ward 0 District 7,Lieutenant Governor,,DEM,Kathy C. Hochul,18
+Dutchess,Red Hook Ward 0 District 7,Lieutenant Governor,,DEM,Timothy Wu,46
+Dutchess,Rhinebeck Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,37
+Dutchess,Rhinebeck Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,62
+Dutchess,Rhinebeck Ward 0 District 1,Lieutenant Governor,,VOI,Void,1
+Dutchess,Rhinebeck Ward 0 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,44
+Dutchess,Rhinebeck Ward 0 District 2,Lieutenant Governor,,DEM,Timothy Wu,174
+Dutchess,Rhinebeck Ward 0 District 2,Lieutenant Governor,,SCT,Scatter,1
+Dutchess,Rhinebeck Ward 0 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,19
+Dutchess,Rhinebeck Ward 0 District 3,Lieutenant Governor,,DEM,Timothy Wu,74
+Dutchess,Stanford Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,13
+Dutchess,Stanford Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,53
+Dutchess,Town Poughkeepsie Ward 1 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,19
+Dutchess,Town Poughkeepsie Ward 1 District 1,Lieutenant Governor,,DEM,Timothy Wu,27
+Dutchess,Town Poughkeepsie Ward 1 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,4
+Dutchess,Town Poughkeepsie Ward 1 District 2,Lieutenant Governor,,DEM,Timothy Wu,21
+Dutchess,Town Poughkeepsie Ward 1 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,27
+Dutchess,Town Poughkeepsie Ward 1 District 3,Lieutenant Governor,,DEM,Timothy Wu,17
+Dutchess,Town Poughkeepsie Ward 2 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,28
+Dutchess,Town Poughkeepsie Ward 2 District 1,Lieutenant Governor,,DEM,Timothy Wu,20
+Dutchess,Town Poughkeepsie Ward 2 District 1,Lieutenant Governor,,VOI,Void,1
+Dutchess,Town Poughkeepsie Ward 2 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,30
+Dutchess,Town Poughkeepsie Ward 2 District 2,Lieutenant Governor,,DEM,Timothy Wu,29
+Dutchess,Town Poughkeepsie Ward 2 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,42
+Dutchess,Town Poughkeepsie Ward 2 District 3,Lieutenant Governor,,DEM,Timothy Wu,60
+Dutchess,Town Poughkeepsie Ward 3 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,26
+Dutchess,Town Poughkeepsie Ward 3 District 1,Lieutenant Governor,,DEM,Timothy Wu,32
+Dutchess,Town Poughkeepsie Ward 3 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,21
+Dutchess,Town Poughkeepsie Ward 3 District 3,Lieutenant Governor,,DEM,Timothy Wu,19
+Dutchess,Town Poughkeepsie Ward 3 District 4,Lieutenant Governor,,DEM,Kathy C. Hochul,31
+Dutchess,Town Poughkeepsie Ward 3 District 4,Lieutenant Governor,,DEM,Timothy Wu,39
+Dutchess,Town Poughkeepsie Ward 4 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,23
+Dutchess,Town Poughkeepsie Ward 4 District 3,Lieutenant Governor,,DEM,Timothy Wu,11
+Dutchess,Town Poughkeepsie Ward 5 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,20
+Dutchess,Town Poughkeepsie Ward 5 District 1,Lieutenant Governor,,DEM,Timothy Wu,17
+Dutchess,Town Poughkeepsie Ward 5 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,24
+Dutchess,Town Poughkeepsie Ward 5 District 2,Lieutenant Governor,,DEM,Timothy Wu,28
+Dutchess,Town Poughkeepsie Ward 5 District 2,Lieutenant Governor,,VOI,Void,1
+Dutchess,Town Poughkeepsie Ward 6 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,47
+Dutchess,Town Poughkeepsie Ward 6 District 1,Lieutenant Governor,,DEM,Timothy Wu,77
+Dutchess,Town Poughkeepsie Ward 6 District 1,Lieutenant Governor,,SCT,Scatter,1
+Dutchess,Town Poughkeepsie Ward 6 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,10
+Dutchess,Town Poughkeepsie Ward 6 District 3,Lieutenant Governor,,DEM,Timothy Wu,47
+Dutchess,Union Vale Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,13
+Dutchess,Union Vale Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,32
+Dutchess,Union Vale Ward 0 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,17
+Dutchess,Union Vale Ward 0 District 3,Lieutenant Governor,,DEM,Timothy Wu,25
+Dutchess,Wappinger Ward 1 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,19
+Dutchess,Wappinger Ward 1 District 1,Lieutenant Governor,,DEM,Timothy Wu,20
+Dutchess,Wappinger Ward 1 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,21
+Dutchess,Wappinger Ward 1 District 3,Lieutenant Governor,,DEM,Timothy Wu,24
+Dutchess,Wappinger Ward 1 District 3,Lieutenant Governor,,SCT,Scatter,1
+Dutchess,Wappinger Ward 1 District 5,Lieutenant Governor,,DEM,Kathy C. Hochul,16
+Dutchess,Wappinger Ward 1 District 5,Lieutenant Governor,,DEM,Timothy Wu,12
+Dutchess,Wappinger Ward 1 District 5,Lieutenant Governor,,SCT,Scatter,1
+Dutchess,Wappinger Ward 2 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,15
+Dutchess,Wappinger Ward 2 District 2,Lieutenant Governor,,DEM,Timothy Wu,11
+Dutchess,Wappinger Ward 2 District 5,Lieutenant Governor,,DEM,Kathy C. Hochul,43
+Dutchess,Wappinger Ward 2 District 5,Lieutenant Governor,,DEM,Timothy Wu,21
+Dutchess,Wappinger Ward 3 District 2,Lieutenant Governor,,DEM,Kathy C. Hochul,37
+Dutchess,Wappinger Ward 3 District 2,Lieutenant Governor,,DEM,Timothy Wu,25
+Dutchess,Wappinger Ward 3 District 3,Lieutenant Governor,,DEM,Kathy C. Hochul,17
+Dutchess,Wappinger Ward 3 District 3,Lieutenant Governor,,DEM,Timothy Wu,17
+Dutchess,Wappinger Ward 4 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,28
+Dutchess,Wappinger Ward 4 District 1,Lieutenant Governor,,DEM,Timothy Wu,22
+Dutchess,Washington Ward 0 District 1,Lieutenant Governor,,DEM,Kathy C. Hochul,41
+Dutchess,Washington Ward 0 District 1,Lieutenant Governor,,DEM,Timothy Wu,55
+Dutchess,Beekman Ward 0 District 1,State Senator,40,REP,Terrence P. Murphy,27
+Dutchess,Beekman Ward 0 District 1,State Senator,40,REP,Bob Castelli,4
+Dutchess,Beekman Ward 0 District 3,State Senator,40,REP,Terrence P. Murphy,39
+Dutchess,Beekman Ward 0 District 3,State Senator,40,REP,Bob Castelli,2
+Dutchess,Beekman Ward 0 District 3,State Senator,40,SCT,Scatter,1
+Dutchess,Beekman Ward 0 District 4,State Senator,40,REP,Terrence P. Murphy,11
+Dutchess,Beekman Ward 0 District 4,State Senator,40,REP,Bob Castelli,3
+Dutchess,Beekman Ward 0 District 5,State Senator,40,REP,Terrence P. Murphy,33
+Dutchess,Beekman Ward 0 District 5,State Senator,40,REP,Bob Castelli,6
+Dutchess,Beekman Ward 0 District 6,State Senator,40,REP,Terrence P. Murphy,36
+Dutchess,Beekman Ward 0 District 6,State Senator,40,REP,Bob Castelli,3
+Dutchess,Beekman Ward 0 District 9,State Senator,40,REP,Terrence P. Murphy,26
+Dutchess,Beekman Ward 0 District 9,State Senator,40,REP,Bob Castelli,4
+Dutchess,Pawling Ward 0 District 1,State Senator,40,REP,Terrence P. Murphy,33
+Dutchess,Pawling Ward 0 District 1,State Senator,40,REP,Bob Castelli,16
+Dutchess,Pawling Ward 0 District 1,State Senator,40,SCT,Scatter,1
+Dutchess,Pawling Ward 0 District 1,State Senator,40,VOI,Void,1
+Dutchess,Pawling Ward 0 District 2,State Senator,40,REP,Terrence P. Murphy,44
+Dutchess,Pawling Ward 0 District 2,State Senator,40,REP,Bob Castelli,23
+Dutchess,Pawling Ward 0 District 3,State Senator,40,REP,Terrence P. Murphy,25
+Dutchess,Pawling Ward 0 District 3,State Senator,40,REP,Bob Castelli,9
+Dutchess,Pawling Ward 0 District 4,State Senator,40,REP,Terrence P. Murphy,32
+Dutchess,Pawling Ward 0 District 4,State Senator,40,REP,Bob Castelli,9
+Dutchess,Amenia Ward 0 District 1,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,City Beacon Ward 1 District 1,State Senator,41,WRT,TERRY GIPSON,3
+Dutchess,City Beacon Ward 1 District 1,State Senator,41,SCT,Scatter,1
+Dutchess,City Beacon Ward 1 District 2,State Senator,41,WRT,TERRY GIPSON,2
+Dutchess,City Beacon Ward 2 District 2,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,City Beacon Ward 3 District 2,State Senator,41,WRT,TERRY GIPSON,3
+Dutchess,City Poughkeepsie Ward 4 District 1,State Senator,41,SCT,Scatter,1
+Dutchess,City Poughkeepsie Ward 4 District 3,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,City Poughkeepsie Ward 5 District 1,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,City Poughkeepsie Ward 6 District 1,State Senator,41,SCT,Scatter,1
+Dutchess,City Poughkeepsie Ward 8 District 2,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,Clinton Ward 0 District 2,State Senator,41,WRT,TERRY GIPSON,2
+Dutchess,Dover Ward 0 District 1,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,East Fishkill Ward 0 District 4,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,East Fishkill Ward 0 District 6,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,East Fishkill Ward 0 District 8,State Senator,41,WRT,TERRY GIPSON,2
+Dutchess,Fishkill Ward 0 District 1,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,Hyde Park Ward 3 District 1,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,LaGrange Ward 0 District 1,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,Milan Ward 0 District 1,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,Pine Plains Ward 0 District 1,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,Pleasant Valley Ward 0 District 2,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,Red Hook Ward 0 District 1,State Senator,41,WRT,TERRY GIPSON,2
+Dutchess,Red Hook Ward 0 District 2,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,Red Hook Ward 0 District 5,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,Red Hook Ward 0 District 6,State Senator,41,SCT,Scatter,1
+Dutchess,Red Hook Ward 0 District 7,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,Rhinebeck Ward 0 District 2,State Senator,41,WRT,TERRY GIPSON,3
+Dutchess,Rhinebeck Ward 0 District 2,State Senator,41,SCT,Scatter,1
+Dutchess,Rhinebeck Ward 0 District 3,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,Stanford Ward 0 District 1,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,Town Poughkeepsie Ward 6 District 1,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,Town Poughkeepsie Ward 6 District 3,State Senator,41,WRT,TERRY GIPSON,2
+Dutchess,Washington Ward 0 District 1,State Senator,41,WRT,TERRY GIPSON,1
+Dutchess,Beekman Ward 0 District 4,State Senator,40,WRT,NO VOTES,0
