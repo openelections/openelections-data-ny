@@ -53,7 +53,6 @@ Clinton,Saranac 003,President,,Hillary Clinton,DEM,149
 Clinton,Schuyler Falls 001,President,,Hillary Clinton,DEM,174
 Clinton,Schuyler Falls 002,President,,Hillary Clinton,DEM,344
 Clinton,Schuyler Falls 003,President,,Hillary Clinton,DEM,284
-Clinton,,President,,Hillary Clinton,DEM,14217
 Clinton,Altona 001,President,,Hillary Clinton,WOR,10
 Clinton,Altona 002,President,,Hillary Clinton,WOR,13
 Clinton,Ausable 001,President,,Hillary Clinton,WOR,8
@@ -108,7 +107,6 @@ Clinton,Saranac 003,President,,Hillary Clinton,WOR,8
 Clinton,Schuyler Falls 001,President,,Hillary Clinton,WOR,9
 Clinton,Schuyler Falls 002,President,,Hillary Clinton,WOR,20
 Clinton,Schuyler Falls 003,President,,Hillary Clinton,WOR,11
-Clinton,,President,,Hillary Clinton,WOR,634
 Clinton,Altona 001,President,,Hillary Clinton,WEP,2
 Clinton,Altona 002,President,,Hillary Clinton,WEP,2
 Clinton,Ausable 001,President,,Hillary Clinton,WEP,3
@@ -163,7 +161,6 @@ Clinton,Saranac 003,President,,Hillary Clinton,WEP,1
 Clinton,Schuyler Falls 001,President,,Hillary Clinton,WEP,1
 Clinton,Schuyler Falls 002,President,,Hillary Clinton,WEP,2
 Clinton,Schuyler Falls 003,President,,Hillary Clinton,WEP,10
-Clinton,,President,,Hillary Clinton,WEP,208
 Clinton,Altona 001,President,,Donald Trump,REP,188
 Clinton,Altona 002,President,,Donald Trump,REP,234
 Clinton,Ausable 001,President,,Donald Trump,REP,268
@@ -218,7 +215,6 @@ Clinton,Saranac 003,President,,Donald Trump,REP,238
 Clinton,Schuyler Falls 001,President,,Donald Trump,REP,313
 Clinton,Schuyler Falls 002,President,,Donald Trump,REP,380
 Clinton,Schuyler Falls 003,President,,Donald Trump,REP,304
-Clinton,,President,,Donald Trump,REP,13312
 Clinton,Altona 001,President,,Donald Trump,CON,19
 Clinton,Altona 002,President,,Donald Trump,CON,27
 Clinton,Ausable 001,President,,Donald Trump,CON,27
@@ -273,7 +269,6 @@ Clinton,Saranac 003,President,,Donald Trump,CON,18
 Clinton,Schuyler Falls 001,President,,Donald Trump,CON,15
 Clinton,Schuyler Falls 002,President,,Donald Trump,CON,31
 Clinton,Schuyler Falls 003,President,,Donald Trump,CON,29
-Clinton,,President,,Donald Trump,CON,1137
 Clinton,Altona 001,President,,Jill Stein,GRN,10
 Clinton,Altona 002,President,,Jill Stein,GRN,11
 Clinton,Ausable 001,President,,Jill Stein,GRN,13
@@ -328,7 +323,6 @@ Clinton,Saranac 003,President,,Jill Stein,GRN,6
 Clinton,Schuyler Falls 001,President,,Jill Stein,GRN,14
 Clinton,Schuyler Falls 002,President,,Jill Stein,GRN,7
 Clinton,Schuyler Falls 003,President,,Jill Stein,GRN,14
-Clinton,,President,,Jill Stein,GRN,613
 Clinton,Altona 001,President,,Gary Johnson,IDC,22
 Clinton,Altona 002,President,,Gary Johnson,IDC,28
 Clinton,Ausable 001,President,,Gary Johnson,IDC,17
@@ -383,7 +377,6 @@ Clinton,Saranac 003,President,,Gary Johnson,IDC,15
 Clinton,Schuyler Falls 001,President,,Gary Johnson,IDC,19
 Clinton,Schuyler Falls 002,President,,Gary Johnson,IDC,26
 Clinton,Schuyler Falls 003,President,,Gary Johnson,IDC,21
-Clinton,,President,,Gary Johnson,IDC,964
 Clinton,Altona 001,President,,Gary Johnson,LBT,4
 Clinton,Altona 002,President,,Gary Johnson,LBT,4
 Clinton,Ausable 001,President,,Gary Johnson,LBT,1
@@ -438,7 +431,6 @@ Clinton,Saranac 003,President,,Gary Johnson,LBT,8
 Clinton,Schuyler Falls 001,President,,Gary Johnson,LBT,8
 Clinton,Schuyler Falls 002,President,,Gary Johnson,LBT,4
 Clinton,Schuyler Falls 003,President,,Gary Johnson,LBT,4
-Clinton,,President,,Gary Johnson,LBT,348
 Clinton,Altona 001,President,,Write-ins,,9
 Clinton,Altona 002,President,,Write-ins,,6
 Clinton,Ausable 001,President,,Write-ins,,15
@@ -493,7 +485,6 @@ Clinton,Saranac 003,President,,Write-ins,,6
 Clinton,Schuyler Falls 001,President,,Write-ins,,12
 Clinton,Schuyler Falls 002,President,,Write-ins,,10
 Clinton,Schuyler Falls 003,President,,Write-ins,,12
-Clinton,,President,,Write-ins,,672
 Clinton,Altona 001,President,,Void,,0
 Clinton,Altona 002,President,,Void,,
 Clinton,Ausable 001,President,,Void,,2
@@ -548,7 +539,6 @@ Clinton,Saranac 003,President,,Void,,
 Clinton,Schuyler Falls 001,President,,Void,,
 Clinton,Schuyler Falls 002,President,,Void,,
 Clinton,Schuyler Falls 003,President,,Void,,
-Clinton,,President,,Void,,17
 Clinton,Altona 001,President,,Blank,,7
 Clinton,Altona 002,President,,Blank,,6
 Clinton,Ausable 001,President,,Blank,,6
@@ -603,7 +593,6 @@ Clinton,Saranac 003,President,,Blank,,3
 Clinton,Schuyler Falls 001,President,,Blank,,4
 Clinton,Schuyler Falls 002,President,,Blank,,13
 Clinton,Schuyler Falls 003,President,,Blank,,15
-Clinton,,President,,Blank,,548
 Clinton,City of PlattsburgH W1D1,President,,Evan McMullin (included),write-in,1
 Clinton,City of Plattsburgh W2D1,President,,Evan McMullin (included),write-in,1
 Clinton,City of Plattsburgh W3D2,President,,Evan McMullin (included),write-in,1
@@ -626,7 +615,6 @@ Clinton,City of Plattsburgh W5D2,President,,Evan McMullin (included),write-in,4
 Clinton,Plattsburgh 002,President,,Evan McMullin (included),write-in,4
 Clinton,Ausable 001,President,,Evan McMullin (included),write-in,5
 Clinton,City of Plattsburgh W6D1,President,,Evan McMullin (included),write-in,5
-Clinton,,President,,Evan McMullin (included),write-in,48
 Clinton,City of Plattsburgh W3D2,President,,Darrell Castle (included),write-in,1
 Clinton,City of Plattsburgh W5D2,President,,Darrell Castle (included),write-in,1
 Clinton,Mooers 001,President,,Tom Hoefling (included),write-in,2
@@ -684,7 +672,6 @@ Clinton,Saranac 003,U.S. Senate,,Charles Schumer,DEM,200
 Clinton,Schuyler Falls 001,U.S. Senate,,Charles Schumer,DEM,227
 Clinton,Schuyler Falls 002,U.S. Senate,,Charles Schumer,DEM,394
 Clinton,Schuyler Falls 003,U.S. Senate,,Charles Schumer,DEM,343
-Clinton,,U.S. Senate,,Charles Schumer,DEM,16422
 Clinton,Altona 001,U.S. Senate,,Wendy Long,REP,136
 Clinton,Altona 002,U.S. Senate,,Wendy Long,REP,164
 Clinton,Ausable 001,U.S. Senate,,Wendy Long,REP,186
@@ -739,7 +726,6 @@ Clinton,Saranac 003,U.S. Senate,,Wendy Long,REP,152
 Clinton,Schuyler Falls 001,U.S. Senate,,Wendy Long,REP,239
 Clinton,Schuyler Falls 002,U.S. Senate,,Wendy Long,REP,302
 Clinton,Schuyler Falls 003,U.S. Senate,,Wendy Long,REP,219
-Clinton,,U.S. Senate,,Wendy Long,REP,9693
 Clinton,Altona 001,U.S. Senate,,Wendy Long,CON,15
 Clinton,Altona 002,U.S. Senate,,Wendy Long,CON,27
 Clinton,Ausable 001,U.S. Senate,,Wendy Long,CON,21
@@ -794,7 +780,6 @@ Clinton,Saranac 003,U.S. Senate,,Wendy Long,CON,19
 Clinton,Schuyler Falls 001,U.S. Senate,,Wendy Long,CON,14
 Clinton,Schuyler Falls 002,U.S. Senate,,Wendy Long,CON,22
 Clinton,Schuyler Falls 003,U.S. Senate,,Wendy Long,CON,18
-Clinton,,U.S. Senate,,Wendy Long,CON,999
 Clinton,Altona 001,U.S. Senate,,Robin Wilson,GRN,7
 Clinton,Altona 002,U.S. Senate,,Robin Wilson,GRN,7
 Clinton,Ausable 001,U.S. Senate,,Robin Wilson,GRN,6
@@ -849,7 +834,6 @@ Clinton,Saranac 003,U.S. Senate,,Robin Wilson,GRN,6
 Clinton,Schuyler Falls 001,U.S. Senate,,Robin Wilson,GRN,9
 Clinton,Schuyler Falls 002,U.S. Senate,,Robin Wilson,GRN,9
 Clinton,Schuyler Falls 003,U.S. Senate,,Robin Wilson,GRN,11
-Clinton,,U.S. Senate,,Robin Wilson,GRN,521
 Clinton,Altona 001,U.S. Senate,,Charles Schumer,WOR,26
 Clinton,Altona 002,U.S. Senate,,Charles Schumer,WOR,22
 Clinton,Ausable 001,U.S. Senate,,Charles Schumer,WOR,22
@@ -904,7 +888,6 @@ Clinton,Saranac 003,U.S. Senate,,Charles Schumer,WOR,19
 Clinton,Schuyler Falls 001,U.S. Senate,,Charles Schumer,WOR,10
 Clinton,Schuyler Falls 002,U.S. Senate,,Charles Schumer,WOR,31
 Clinton,Schuyler Falls 003,U.S. Senate,,Charles Schumer,WOR,27
-Clinton,,U.S. Senate,,Charles Schumer,WOR,1260
 Clinton,Altona 001,U.S. Senate,,Charles Schumer,IDC,12
 Clinton,Altona 002,U.S. Senate,,Charles Schumer,IDC,12
 Clinton,Ausable 001,U.S. Senate,,Charles Schumer,IDC,19
@@ -959,7 +942,6 @@ Clinton,Saranac 003,U.S. Senate,,Charles Schumer,IDC,16
 Clinton,Schuyler Falls 001,U.S. Senate,,Charles Schumer,IDC,17
 Clinton,Schuyler Falls 002,U.S. Senate,,Charles Schumer,IDC,27
 Clinton,Schuyler Falls 003,U.S. Senate,,Charles Schumer,IDC,26
-Clinton,,U.S. Senate,,Charles Schumer,IDC,1026
 Clinton,Altona 001,U.S. Senate,,Charles Schumer,WEP,6
 Clinton,Altona 002,U.S. Senate,,Charles Schumer,WEP,2
 Clinton,Ausable 001,U.S. Senate,,Charles Schumer,WEP,4
@@ -1014,7 +996,6 @@ Clinton,Saranac 003,U.S. Senate,,Charles Schumer,WEP,1
 Clinton,Schuyler Falls 001,U.S. Senate,,Charles Schumer,WEP,1
 Clinton,Schuyler Falls 002,U.S. Senate,,Charles Schumer,WEP,3
 Clinton,Schuyler Falls 003,U.S. Senate,,Charles Schumer,WEP,7
-Clinton,,U.S. Senate,,Charles Schumer,WEP,247
 Clinton,Altona 001,U.S. Senate,,Wendy Long,REF,2
 Clinton,Altona 002,U.S. Senate,,Wendy Long,REF,4
 Clinton,Ausable 001,U.S. Senate,,Wendy Long,REF,1
@@ -1069,7 +1050,6 @@ Clinton,Saranac 003,U.S. Senate,,Wendy Long,REF,1
 Clinton,Schuyler Falls 001,U.S. Senate,,Wendy Long,REF,3
 Clinton,Schuyler Falls 002,U.S. Senate,,Wendy Long,REF,1
 Clinton,Schuyler Falls 003,U.S. Senate,,Wendy Long,REF,3
-Clinton,,U.S. Senate,,Wendy Long,REF,110
 Clinton,Altona 001,U.S. Senate,,Alex Mercer,LBT,1
 Clinton,Altona 002,U.S. Senate,,Alex Mercer,LBT,7
 Clinton,Ausable 001,U.S. Senate,,Alex Mercer,LBT,3
@@ -1124,7 +1104,6 @@ Clinton,Saranac 003,U.S. Senate,,Alex Mercer,LBT,4
 Clinton,Schuyler Falls 001,U.S. Senate,,Alex Mercer,LBT,5
 Clinton,Schuyler Falls 002,U.S. Senate,,Alex Mercer,LBT,2
 Clinton,Schuyler Falls 003,U.S. Senate,,Alex Mercer,LBT,4
-Clinton,,U.S. Senate,,Alex Mercer,LBT,265
 Clinton,Altona 001,U.S. Senate,,Scattering,,
 Clinton,Altona 002,U.S. Senate,,Scattering,,
 Clinton,Ausable 001,U.S. Senate,,Scattering,,
@@ -1179,7 +1158,6 @@ Clinton,Saranac 003,U.S. Senate,,Scattering,,
 Clinton,Schuyler Falls 001,U.S. Senate,,Scattering,,1
 Clinton,Schuyler Falls 002,U.S. Senate,,Scattering,,
 Clinton,Schuyler Falls 003,U.S. Senate,,Scattering,,
-Clinton,,U.S. Senate,,Scattering,,6
 Clinton,Altona 001,U.S. Senate,,Void,,
 Clinton,Altona 002,U.S. Senate,,Void,,
 Clinton,Ausable 001,U.S. Senate,,Void,,
@@ -1234,7 +1212,6 @@ Clinton,Saranac 003,U.S. Senate,,Void,,
 Clinton,Schuyler Falls 001,U.S. Senate,,Void,,
 Clinton,Schuyler Falls 002,U.S. Senate,,Void,,
 Clinton,Schuyler Falls 003,U.S. Senate,,Void,,
-Clinton,,U.S. Senate,,Void,,8
 Clinton,Altona 001,U.S. Senate,,Blank,,24
 Clinton,Altona 002,U.S. Senate,,Blank,,34
 Clinton,Ausable 001,U.S. Senate,,Blank,,58
@@ -1289,7 +1266,6 @@ Clinton,Saranac 003,U.S. Senate,,Blank,,34
 Clinton,Schuyler Falls 001,U.S. Senate,,Blank,,43
 Clinton,Schuyler Falls 002,U.S. Senate,,Blank,,46
 Clinton,Schuyler Falls 003,U.S. Senate,,Blank,,46
-Clinton,,U.S. Senate,,Blank,,3972
 Clinton,Altona 001,U.S. House,21,Mike Derrick,DEM,147
 Clinton,Altona 002,U.S. House,21,Mike Derrick,DEM,161
 Clinton,Ausable 001,U.S. House,21,Mike Derrick,DEM,194
@@ -1344,7 +1320,6 @@ Clinton,Saranac 003,U.S. House,21,Mike Derrick,DEM,134
 Clinton,Schuyler Falls 001,U.S. House,21,Mike Derrick,DEM,172
 Clinton,Schuyler Falls 002,U.S. House,21,Mike Derrick,DEM,276
 Clinton,Schuyler Falls 003,U.S. House,21,Mike Derrick,DEM,238
-Clinton,,U.S. House,21,Mike Derrick,DEM,12323
 Clinton,Altona 001,U.S. House,21,Mike Derrick,WOR,11
 Clinton,Altona 002,U.S. House,21,Mike Derrick,WOR,20
 Clinton,Ausable 001,U.S. House,21,Mike Derrick,WOR,23
@@ -1399,7 +1374,6 @@ Clinton,Saranac 003,U.S. House,21,Mike Derrick,WOR,13
 Clinton,Schuyler Falls 001,U.S. House,21,Mike Derrick,WOR,17
 Clinton,Schuyler Falls 002,U.S. House,21,Mike Derrick,WOR,30
 Clinton,Schuyler Falls 003,U.S. House,21,Mike Derrick,WOR,27
-Clinton,,U.S. House,21,Mike Derrick,WOR,1103
 Clinton,Altona 001,U.S. House,21,Matthew Funiciello,GRN,17
 Clinton,Altona 002,U.S. House,21,Matthew Funiciello,GRN,9
 Clinton,Ausable 001,U.S. House,21,Matthew Funiciello,GRN,9
@@ -1454,7 +1428,6 @@ Clinton,Saranac 003,U.S. House,21,Matthew Funiciello,GRN,20
 Clinton,Schuyler Falls 001,U.S. House,21,Matthew Funiciello,GRN,19
 Clinton,Schuyler Falls 002,U.S. House,21,Matthew Funiciello,GRN,22
 Clinton,Schuyler Falls 003,U.S. House,21,Matthew Funiciello,GRN,18
-Clinton,,U.S. House,21,Matthew Funiciello,GRN,853
 Clinton,Altona 001,U.S. House,21,Elise Stefanik,REP,200
 Clinton,Altona 002,U.S. House,21,Elise Stefanik,REP,254
 Clinton,Ausable 001,U.S. House,21,Elise Stefanik,REP,253
@@ -1509,7 +1482,6 @@ Clinton,Saranac 003,U.S. House,21,Elise Stefanik,REP,229
 Clinton,Schuyler Falls 001,U.S. House,21,Elise Stefanik,REP,300
 Clinton,Schuyler Falls 002,U.S. House,21,Elise Stefanik,REP,434
 Clinton,Schuyler Falls 003,U.S. House,21,Elise Stefanik,REP,327
-Clinton,,U.S. House,21,Elise Stefanik,REP,14772
 Clinton,Altona 001,U.S. House,21,Elise Stefanik,CON,23
 Clinton,Altona 002,U.S. House,21,Elise Stefanik,CON,28
 Clinton,Ausable 001,U.S. House,21,Elise Stefanik,CON,25
@@ -1564,7 +1536,6 @@ Clinton,Saranac 003,U.S. House,21,Elise Stefanik,CON,18
 Clinton,Schuyler Falls 001,U.S. House,21,Elise Stefanik,CON,24
 Clinton,Schuyler Falls 002,U.S. House,21,Elise Stefanik,CON,26
 Clinton,Schuyler Falls 003,U.S. House,21,Elise Stefanik,CON,32
-Clinton,,U.S. House,21,Elise Stefanik,CON,1246
 Clinton,Altona 001,U.S. House,21,Elise Stefanik,IDC,12
 Clinton,Altona 002,U.S. House,21,Elise Stefanik,IDC,18
 Clinton,Ausable 001,U.S. House,21,Elise Stefanik,IDC,10
@@ -1619,7 +1590,6 @@ Clinton,Saranac 003,U.S. House,21,Elise Stefanik,IDC,13
 Clinton,Schuyler Falls 001,U.S. House,21,Elise Stefanik,IDC,16
 Clinton,Schuyler Falls 002,U.S. House,21,Elise Stefanik,IDC,19
 Clinton,Schuyler Falls 003,U.S. House,21,Elise Stefanik,IDC,21
-Clinton,,U.S. House,21,Elise Stefanik,IDC,963
 Clinton,Altona 001,U.S. House,21,Elise Stefanik,REF,1
 Clinton,Altona 002,U.S. House,21,Elise Stefanik,REF,4
 Clinton,Ausable 001,U.S. House,21,Elise Stefanik,REF,1
@@ -1674,7 +1644,6 @@ Clinton,Saranac 003,U.S. House,21,Elise Stefanik,REF,1
 Clinton,Schuyler Falls 001,U.S. House,21,Elise Stefanik,REF,1
 Clinton,Schuyler Falls 002,U.S. House,21,Elise Stefanik,REF,1
 Clinton,Schuyler Falls 003,U.S. House,21,Elise Stefanik,REF,3
-Clinton,,U.S. House,21,Elise Stefanik,REF,91
 Clinton,Altona 001,U.S. House,21,Scattering,,
 Clinton,Altona 002,U.S. House,21,Scattering,,
 Clinton,Ausable 001,U.S. House,21,Scattering,,
@@ -1729,7 +1698,6 @@ Clinton,Saranac 003,U.S. House,21,Scattering,,
 Clinton,Schuyler Falls 001,U.S. House,21,Scattering,,
 Clinton,Schuyler Falls 002,U.S. House,21,Scattering,,
 Clinton,Schuyler Falls 003,U.S. House,21,Scattering,,
-Clinton,,U.S. House,21,Scattering,,4
 Clinton,Altona 001,U.S. House,21,Void,,
 Clinton,Altona 002,U.S. House,21,Void,,
 Clinton,Ausable 001,U.S. House,21,Void,,
@@ -1784,7 +1752,6 @@ Clinton,Saranac 003,U.S. House,21,Void,,
 Clinton,Schuyler Falls 001,U.S. House,21,Void,,
 Clinton,Schuyler Falls 002,U.S. House,21,Void,,
 Clinton,Schuyler Falls 003,U.S. House,21,Void,,
-Clinton,,U.S. House,21,Void,,9
 Clinton,Altona 001,U.S. House,21,Blank,,21
 Clinton,Altona 002,U.S. House,21,Blank,,16
 Clinton,Ausable 001,U.S. House,21,Blank,,28
@@ -1839,7 +1806,6 @@ Clinton,Saranac 003,U.S. House,21,Blank,,24
 Clinton,Schuyler Falls 001,U.S. House,21,Blank,,20
 Clinton,Schuyler Falls 002,U.S. House,21,Blank,,29
 Clinton,Schuyler Falls 003,U.S. House,21,Blank,,38
-Clinton,,U.S. House,21,Blank,,3172
 Clinton,Altona 001,State Senate,45,Elizabeth Little,REP,265
 Clinton,Altona 002,State Senate,45,Elizabeth Little,REP,274
 Clinton,Ausable 001,State Senate,45,Elizabeth Little,REP,322
@@ -1894,7 +1860,6 @@ Clinton,Saranac 003,State Senate,45,Elizabeth Little,REP,290
 Clinton,Schuyler Falls 001,State Senate,45,Elizabeth Little,REP,371
 Clinton,Schuyler Falls 002,State Senate,45,Elizabeth Little,REP,541
 Clinton,Schuyler Falls 003,State Senate,45,Elizabeth Little,REP,413
-Clinton,,State Senate,45,Elizabeth Little,REP,19141
 Clinton,Altona 001,State Senate,45,Elizabeth Little,CON,38
 Clinton,Altona 002,State Senate,45,Elizabeth Little,CON,32
 Clinton,Ausable 001,State Senate,45,Elizabeth Little,CON,38
@@ -1949,7 +1914,6 @@ Clinton,Saranac 003,State Senate,45,Elizabeth Little,CON,32
 Clinton,Schuyler Falls 001,State Senate,45,Elizabeth Little,CON,30
 Clinton,Schuyler Falls 002,State Senate,45,Elizabeth Little,CON,41
 Clinton,Schuyler Falls 003,State Senate,45,Elizabeth Little,CON,44
-Clinton,,State Senate,45,Elizabeth Little,CON,1803
 Clinton,Altona 001,State Senate,45,Elizabeth Little,IDC,23
 Clinton,Altona 002,State Senate,45,Elizabeth Little,IDC,40
 Clinton,Ausable 001,State Senate,45,Elizabeth Little,IDC,38
@@ -2004,7 +1968,6 @@ Clinton,Saranac 003,State Senate,45,Elizabeth Little,IDC,29
 Clinton,Schuyler Falls 001,State Senate,45,Elizabeth Little,IDC,34
 Clinton,Schuyler Falls 002,State Senate,45,Elizabeth Little,IDC,79
 Clinton,Schuyler Falls 003,State Senate,45,Elizabeth Little,IDC,62
-Clinton,,State Senate,45,Elizabeth Little,IDC,2621
 Clinton,Altona 001,State Senate,45,Stephen Ruzbacki,GRN,36
 Clinton,Altona 002,State Senate,45,Stephen Ruzbacki,GRN,71
 Clinton,Ausable 001,State Senate,45,Stephen Ruzbacki,GRN,41
@@ -2059,7 +2022,6 @@ Clinton,Saranac 003,State Senate,45,Stephen Ruzbacki,GRN,40
 Clinton,Schuyler Falls 001,State Senate,45,Stephen Ruzbacki,GRN,34
 Clinton,Schuyler Falls 002,State Senate,45,Stephen Ruzbacki,GRN,59
 Clinton,Schuyler Falls 003,State Senate,45,Stephen Ruzbacki,GRN,66
-Clinton,,State Senate,45,Stephen Ruzbacki,GRN,3266
 Clinton,Altona 001,State Senate,45,Scattering,,0
 Clinton,Altona 002,State Senate,45,Scattering,,1
 Clinton,Ausable 001,State Senate,45,Scattering,,1
@@ -2114,7 +2076,6 @@ Clinton,Saranac 003,State Senate,45,Scattering,,0
 Clinton,Schuyler Falls 001,State Senate,45,Scattering,,0
 Clinton,Schuyler Falls 002,State Senate,45,Scattering,,1
 Clinton,Schuyler Falls 003,State Senate,45,Scattering,,1
-Clinton,,State Senate,45,Scattering,,22
 Clinton,Altona 001,State Senate,45,Void,,0
 Clinton,Altona 002,State Senate,45,Void,,
 Clinton,Ausable 001,State Senate,45,Void,,
@@ -2169,7 +2130,6 @@ Clinton,Saranac 003,State Senate,45,Void,,
 Clinton,Schuyler Falls 001,State Senate,45,Void,,
 Clinton,Schuyler Falls 002,State Senate,45,Void,,
 Clinton,Schuyler Falls 003,State Senate,45,Void,,
-Clinton,,State Senate,45,Void,,2
 Clinton,Altona 001,State Senate,45,Blank,,70
 Clinton,Altona 002,State Senate,45,Blank,,92
 Clinton,Ausable 001,State Senate,45,Blank,,103
@@ -2224,7 +2184,6 @@ Clinton,Saranac 003,State Senate,45,Blank,,61
 Clinton,Schuyler Falls 001,State Senate,45,Blank,,100
 Clinton,Schuyler Falls 002,State Senate,45,Blank,,116
 Clinton,Schuyler Falls 003,State Senate,45,Blank,,118
-Clinton,,State Senate,45,Blank,,7681
 Clinton,Altona 001,State Assembly,115,Billy Jones,DEM,174
 Clinton,Altona 002,State Assembly,115,Billy Jones,DEM,232
 Clinton,Ausable 001,State Assembly,115,Billy Jones,DEM,208
@@ -2279,7 +2238,6 @@ Clinton,Saranac 003,State Assembly,115,Billy Jones,DEM,182
 Clinton,Schuyler Falls 001,State Assembly,115,Billy Jones,DEM,205
 Clinton,Schuyler Falls 002,State Assembly,115,Billy Jones,DEM,315
 Clinton,Schuyler Falls 003,State Assembly,115,Billy Jones,DEM,297
-Clinton,,State Assembly,115,Billy Jones,DEM,14529
 Clinton,Altona 001,State Assembly,115,Billy Jones,WOR,17
 Clinton,Altona 002,State Assembly,115,Billy Jones,WOR,27
 Clinton,Ausable 001,State Assembly,115,Billy Jones,WOR,23
@@ -2334,7 +2292,6 @@ Clinton,Saranac 003,State Assembly,115,Billy Jones,WOR,19
 Clinton,Schuyler Falls 001,State Assembly,115,Billy Jones,WOR,31
 Clinton,Schuyler Falls 002,State Assembly,115,Billy Jones,WOR,25
 Clinton,Schuyler Falls 003,State Assembly,115,Billy Jones,WOR,26
-Clinton,,State Assembly,115,Billy Jones,WOR,1391
 Clinton,Altona 001,State Assembly,115,Billy Jones,WEP,2
 Clinton,Altona 002,State Assembly,115,Billy Jones,WEP,3
 Clinton,Ausable 001,State Assembly,115,Billy Jones,WEP,5
@@ -2389,7 +2346,6 @@ Clinton,Saranac 003,State Assembly,115,Billy Jones,WEP,5
 Clinton,Schuyler Falls 001,State Assembly,115,Billy Jones,WEP,3
 Clinton,Schuyler Falls 002,State Assembly,115,Billy Jones,WEP,12
 Clinton,Schuyler Falls 003,State Assembly,115,Billy Jones,WEP,8
-Clinton,,State Assembly,115,Billy Jones,WEP,318
 Clinton,Altona 001,State Assembly,115,Kevin Mulverhill,REP,199
 Clinton,Altona 002,State Assembly,115,Kevin Mulverhill,REP,200
 Clinton,Ausable 001,State Assembly,115,Kevin Mulverhill,REP,232
@@ -2444,7 +2400,6 @@ Clinton,Saranac 003,State Assembly,115,Kevin Mulverhill,REP,201
 Clinton,Schuyler Falls 001,State Assembly,115,Kevin Mulverhill,REP,278
 Clinton,Schuyler Falls 002,State Assembly,115,Kevin Mulverhill,REP,406
 Clinton,Schuyler Falls 003,State Assembly,115,Kevin Mulverhill,REP,303
-Clinton,,State Assembly,115,Kevin Mulverhill,REP,13326
 Clinton,Altona 001,State Assembly,115,Kevin Mulverhill,IDC,13
 Clinton,Altona 002,State Assembly,115,Kevin Mulverhill,IDC,21
 Clinton,Ausable 001,State Assembly,115,Kevin Mulverhill,IDC,20
@@ -2499,7 +2454,6 @@ Clinton,Saranac 003,State Assembly,115,Kevin Mulverhill,IDC,18
 Clinton,Schuyler Falls 001,State Assembly,115,Kevin Mulverhill,IDC,16
 Clinton,Schuyler Falls 002,State Assembly,115,Kevin Mulverhill,IDC,33
 Clinton,Schuyler Falls 003,State Assembly,115,Kevin Mulverhill,IDC,25
-Clinton,,State Assembly,115,Kevin Mulverhill,IDC,1019
 Clinton,Altona 001,State Assembly,115,Kevin Mulverhill,REF,2
 Clinton,Altona 002,State Assembly,115,Kevin Mulverhill,REF,1
 Clinton,Ausable 001,State Assembly,115,Kevin Mulverhill,REF,4
@@ -2554,7 +2508,6 @@ Clinton,Saranac 003,State Assembly,115,Kevin Mulverhill,REF,3
 Clinton,Schuyler Falls 001,State Assembly,115,Kevin Mulverhill,REF,0
 Clinton,Schuyler Falls 002,State Assembly,115,Kevin Mulverhill,REF,1
 Clinton,Schuyler Falls 003,State Assembly,115,Kevin Mulverhill,REF,2
-Clinton,,State Assembly,115,Kevin Mulverhill,REF,106
 Clinton,Altona 001,State Assembly,115,Scattering,,0
 Clinton,Altona 002,State Assembly,115,Scattering,,0
 Clinton,Ausable 001,State Assembly,115,Scattering,,0
@@ -2609,7 +2562,6 @@ Clinton,Saranac 003,State Assembly,115,Scattering,,0
 Clinton,Schuyler Falls 001,State Assembly,115,Scattering,,0
 Clinton,Schuyler Falls 002,State Assembly,115,Scattering,,0
 Clinton,Schuyler Falls 003,State Assembly,115,Scattering,,0
-Clinton,,State Assembly,115,Scattering,,13
 Clinton,Altona 001,State Assembly,115,Void,,
 Clinton,Altona 002,State Assembly,115,Void,,1
 Clinton,Ausable 001,State Assembly,115,Void,,
@@ -2664,7 +2616,6 @@ Clinton,Saranac 003,State Assembly,115,Void,,
 Clinton,Schuyler Falls 001,State Assembly,115,Void,,
 Clinton,Schuyler Falls 002,State Assembly,115,Void,,
 Clinton,Schuyler Falls 003,State Assembly,115,Void,,
-Clinton,,State Assembly,115,Void,,5
 Clinton,Altona 001,State Assembly,115,Blank,,25
 Clinton,Altona 002,State Assembly,115,Blank,,25
 Clinton,Ausable 001,State Assembly,115,Blank,,51
@@ -2719,4 +2670,3 @@ Clinton,Saranac 003,State Assembly,115,Blank,,24
 Clinton,Schuyler Falls 001,State Assembly,115,Blank,,36
 Clinton,Schuyler Falls 002,State Assembly,115,Blank,,45
 Clinton,Schuyler Falls 003,State Assembly,115,Blank,,43
-Clinton,,State Assembly,115,Blank,,3829
