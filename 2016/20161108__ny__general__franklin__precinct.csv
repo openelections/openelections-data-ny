@@ -48,7 +48,6 @@ Franklin,Tupper Lake 6,President,,DEM,Hillary Clinton,190
 Franklin,Waverly,President,,DEM,Hillary Clinton,115
 Franklin,Westville 1,President,,DEM,Hillary Clinton,93
 Franklin,Westville 2,President,,DEM,Hillary Clinton,121
-Franklin,,President,,DEM,Hillary Clinton,6994
 Franklin,Bangor 1,President,,REP,Donald J. Trump,240
 Franklin,Bangor 2,President,,REP,Donald J. Trump,246
 Franklin,Bellmont 1,President,,REP,Donald J. Trump,126
@@ -98,7 +97,6 @@ Franklin,Tupper Lake 6,President,,REP,Donald J. Trump,243
 Franklin,Waverly,President,,REP,Donald J. Trump,266
 Franklin,Westville 1,President,,REP,Donald J. Trump,198
 Franklin,Westville 2,President,,REP,Donald J. Trump,177
-Franklin,,President,,REP,Donald J. Trump,7670
 Franklin,Bangor 1,President,,CON,Donald J. Trump,16
 Franklin,Bangor 2,President,,CON,Donald J. Trump,22
 Franklin,Bellmont 1,President,,CON,Donald J. Trump,2
@@ -148,7 +146,6 @@ Franklin,Tupper Lake 6,President,,CON,Donald J. Trump,19
 Franklin,Waverly,President,,CON,Donald J. Trump,15
 Franklin,Westville 1,President,,CON,Donald J. Trump,20
 Franklin,Westville 2,President,,CON,Donald J. Trump,15
-Franklin,,President,,CON,Donald J. Trump,551
 Franklin,Bangor 1,President,,GRN,Jill Stein,7
 Franklin,Bangor 2,President,,GRN,Jill Stein,2
 Franklin,Bellmont 1,President,,GRN,Jill Stein,6
@@ -198,7 +195,6 @@ Franklin,Tupper Lake 6,President,,GRN,Jill Stein,5
 Franklin,Waverly,President,,GRN,Jill Stein,9
 Franklin,Westville 1,President,,GRN,Jill Stein,6
 Franklin,Westville 2,President,,GRN,Jill Stein,5
-Franklin,,President,,GRN,Jill Stein,359
 Franklin,Bangor 1,President,,WOR,Hillary Clinton,3
 Franklin,Bangor 2,President,,WOR,Hillary Clinton,3
 Franklin,Bellmont 1,President,,WOR,Hillary Clinton,4
@@ -248,7 +244,6 @@ Franklin,Tupper Lake 6,President,,WOR,Hillary Clinton,3
 Franklin,Waverly,President,,WOR,Hillary Clinton,8
 Franklin,Westville 1,President,,WOR,Hillary Clinton,2
 Franklin,Westville 2,President,,WOR,Hillary Clinton,2
-Franklin,,President,,WOR,Hillary Clinton,225
 Franklin,Bangor 1,President,,IND,Gary Johnson,14
 Franklin,Bangor 2,President,,IND,Gary Johnson,15
 Franklin,Bellmont 1,President,,IND,Gary Johnson,7
@@ -298,7 +293,6 @@ Franklin,Tupper Lake 6,President,,IND,Gary Johnson,13
 Franklin,Waverly,President,,IND,Gary Johnson,12
 Franklin,Westville 1,President,,IND,Gary Johnson,8
 Franklin,Westville 2,President,,IND,Gary Johnson,3
-Franklin,,President,,IND,Gary Johnson,505
 Franklin,Bangor 1,President,,WEQ,Hillary Clinton,2
 Franklin,Bangor 2,President,,WEQ,Hillary Clinton,2
 Franklin,Bellmont 1,President,,WEQ,Hillary Clinton,0
@@ -348,7 +342,6 @@ Franklin,Tupper Lake 6,President,,WEQ,Hillary Clinton,1
 Franklin,Waverly,President,,WEQ,Hillary Clinton,0
 Franklin,Westville 1,President,,WEQ,Hillary Clinton,1
 Franklin,Westville 2,President,,WEQ,Hillary Clinton,0
-Franklin,,President,,WEQ,Hillary Clinton,78
 Franklin,Bangor 1,President,,LBT,Gary Johnson,2
 Franklin,Bangor 2,President,,LBT,Gary Johnson,2
 Franklin,Bellmont 1,President,,LBT,Gary Johnson,1
@@ -398,7 +391,6 @@ Franklin,Tupper Lake 6,President,,LBT,Gary Johnson,3
 Franklin,Waverly,President,,LBT,Gary Johnson,10
 Franklin,Westville 1,President,,LBT,Gary Johnson,6
 Franklin,Westville 2,President,,LBT,Gary Johnson,2
-Franklin,,President,,LBT,Gary Johnson,212
 Franklin,Bangor 1,President,,,Blanks,4
 Franklin,Bangor 2,President,,,Blanks,4
 Franklin,Bellmont 1,President,,,Blanks,4
@@ -448,7 +440,6 @@ Franklin,Tupper Lake 6,President,,,Blanks,3
 Franklin,Waverly,President,,,Blanks,3
 Franklin,Westville 1,President,,,Blanks,4
 Franklin,Westville 2,President,,,Blanks,2
-Franklin,,President,,,Blanks,227
 Franklin,Bangor 1,President,,,Void,0
 Franklin,Bangor 2,President,,,Void,0
 Franklin,Bellmont 1,President,,,Void,0
@@ -498,7 +489,6 @@ Franklin,Tupper Lake 6,President,,,Void,2
 Franklin,Waverly,President,,,Void,0
 Franklin,Westville 1,President,,,Void,0
 Franklin,Westville 2,President,,,Void,0
-Franklin,,President,,,Void,10
 Franklin,Bangor 1,President,,,Darrell L. Castle,0
 Franklin,Bangor 2,President,,,Darrell L. Castle,0
 Franklin,Bellmont 1,President,,,Darrell L. Castle,0
@@ -548,7 +538,6 @@ Franklin,Tupper Lake 6,President,,,Darrell L. Castle,0
 Franklin,Waverly,President,,,Darrell L. Castle,0
 Franklin,Westville 1,President,,,Darrell L. Castle,0
 Franklin,Westville 2,President,,,Darrell L. Castle,0
-Franklin,,President,,,Darrell L. Castle,5
 Franklin,Bangor 1,President,,,Evan McMullin,0
 Franklin,Bangor 2,President,,,Evan McMullin,2
 Franklin,Bellmont 1,President,,,Evan McMullin,1
@@ -598,7 +587,6 @@ Franklin,Tupper Lake 6,President,,,Evan McMullin,0
 Franklin,Waverly,President,,,Evan McMullin,1
 Franklin,Westville 1,President,,,Evan McMullin,1
 Franklin,Westville 2,President,,,Evan McMullin,0
-Franklin,,President,,,Evan McMullin,40
 Franklin,Bangor 1,President,,,Bernie Sanders,5
 Franklin,Bangor 2,President,,,Bernie Sanders,9
 Franklin,Bellmont 1,President,,,Bernie Sanders,1
@@ -648,7 +636,6 @@ Franklin,Tupper Lake 6,President,,,Bernie Sanders,5
 Franklin,Waverly,President,,,Bernie Sanders,6
 Franklin,Westville 1,President,,,Bernie Sanders,3
 Franklin,Westville 2,President,,,Bernie Sanders,6
-Franklin,,President,,,Bernie Sanders,212
 Franklin,Bangor 1,President,,,Scattered,2
 Franklin,Bangor 2,President,,,Scattered,4
 Franklin,Bellmont 1,President,,,Scattered,2
@@ -698,7 +685,6 @@ Franklin,Tupper Lake 6,President,,,Scattered,4
 Franklin,Waverly,President,,,Scattered,0
 Franklin,Westville 1,President,,,Scattered,1
 Franklin,Westville 2,President,,,Scattered,0
-Franklin,,President,,,Scattered,101
 Franklin,Bangor 1,President,,,Total,425
 Franklin,Bangor 2,President,,,Total,428
 Franklin,Bellmont 1,President,,,Total,264
@@ -748,7 +734,6 @@ Franklin,Tupper Lake 6,President,,,Total,491
 Franklin,Waverly,President,,,Total,445
 Franklin,Westville 1,President,,,Total,343
 Franklin,Westville 2,President,,,Total,333
-Franklin,,President,,,Total,17189
 Franklin,Bangor 1,U.S. Senate,,DEM,Charles E. Schumer,181
 Franklin,Bangor 2,U.S. Senate,,DEM,Charles E. Schumer,165
 Franklin,Bellmont 1,U.S. Senate,,DEM,Charles E. Schumer,131
@@ -798,7 +783,6 @@ Franklin,Tupper Lake 6,U.S. Senate,,DEM,Charles E. Schumer,205
 Franklin,Waverly,U.S. Senate,,DEM,Charles E. Schumer,177
 Franklin,Westville 1,U.S. Senate,,DEM,Charles E. Schumer,152
 Franklin,Westville 2,U.S. Senate,,DEM,Charles E. Schumer,160
-Franklin,,,,DEM,Charles E. Schumer,8515
 Franklin,Bangor 1,U.S. Senate,,REP,Wendy Long,172
 Franklin,Bangor 2,U.S. Senate,,REP,Wendy Long,182
 Franklin,Bellmont 1,U.S. Senate,,REP,Wendy Long,91
@@ -848,7 +832,6 @@ Franklin,Tupper Lake 6,U.S. Senate,,REP,Wendy Long,181
 Franklin,Waverly,U.S. Senate,,REP,Wendy Long,174
 Franklin,Westville 1,U.S. Senate,,REP,Wendy Long,117
 Franklin,Westville 2,U.S. Senate,,REP,Wendy Long,112
-Franklin,,,,REP,Wendy Long,5539
 Franklin,Bangor 1,U.S. Senate,,CON,Wendy Long,12
 Franklin,Bangor 2,U.S. Senate,,CON,Wendy Long,16
 Franklin,Bellmont 1,U.S. Senate,,CON,Wendy Long,4
@@ -898,7 +881,6 @@ Franklin,Tupper Lake 6,U.S. Senate,,CON,Wendy Long,11
 Franklin,Waverly,U.S. Senate,,CON,Wendy Long,18
 Franklin,Westville 1,U.S. Senate,,CON,Wendy Long,10
 Franklin,Westville 2,U.S. Senate,,CON,Wendy Long,13
-Franklin,,,,CON,Wendy Long,507
 Franklin,Bangor 1,U.S. Senate,,GRN,Robin Laverne Wilson,6
 Franklin,Bangor 2,U.S. Senate,,GRN,Robin Laverne Wilson,4
 Franklin,Bellmont 1,U.S. Senate,,GRN,Robin Laverne Wilson,2
@@ -948,7 +930,6 @@ Franklin,Tupper Lake 6,U.S. Senate,,GRN,Robin Laverne Wilson,16
 Franklin,Waverly,U.S. Senate,,GRN,Robin Laverne Wilson,8
 Franklin,Westville 1,U.S. Senate,,GRN,Robin Laverne Wilson,3
 Franklin,Westville 2,U.S. Senate,,GRN,Robin Laverne Wilson,7
-Franklin,,,,GRN,Robin Laverne Wilson,298
 Franklin,Bangor 1,U.S. Senate,,WOR,Charles E. Schumer,17
 Franklin,Bangor 2,U.S. Senate,,WOR,Charles E. Schumer,15
 Franklin,Bellmont 1,U.S. Senate,,WOR,Charles E. Schumer,9
@@ -998,7 +979,6 @@ Franklin,Tupper Lake 6,U.S. Senate,,WOR,Charles E. Schumer,14
 Franklin,Waverly,U.S. Senate,,WOR,Charles E. Schumer,22
 Franklin,Westville 1,U.S. Senate,,WOR,Charles E. Schumer,20
 Franklin,Westville 2,U.S. Senate,,WOR,Charles E. Schumer,9
-Franklin,,,,WOR,Charles E. Schumer,559
 Franklin,Bangor 1,U.S. Senate,,IND,Charles E. Schumer,11
 Franklin,Bangor 2,U.S. Senate,,IND,Charles E. Schumer,7
 Franklin,Bellmont 1,U.S. Senate,,IND,Charles E. Schumer,9
@@ -1048,7 +1028,6 @@ Franklin,Tupper Lake 6,U.S. Senate,,IND,Charles E. Schumer,13
 Franklin,Waverly,U.S. Senate,,IND,Charles E. Schumer,10
 Franklin,Westville 1,U.S. Senate,,IND,Charles E. Schumer,11
 Franklin,Westville 2,U.S. Senate,,IND,Charles E. Schumer,3
-Franklin,,,,IND,Charles E. Schumer,437
 Franklin,Bangor 1,U.S. Senate,,WEP,Charles E. Schumer,1
 Franklin,Bangor 2,U.S. Senate,,WEP,Charles E. Schumer,6
 Franklin,Bellmont 1,U.S. Senate,,WEP,Charles E. Schumer,0
@@ -1098,7 +1077,6 @@ Franklin,Tupper Lake 6,U.S. Senate,,WEP,Charles E. Schumer,3
 Franklin,Waverly,U.S. Senate,,WEP,Charles E. Schumer,5
 Franklin,Westville 1,U.S. Senate,,WEP,Charles E. Schumer,0
 Franklin,Westville 2,U.S. Senate,,WEP,Charles E. Schumer,3
-Franklin,,,,WEP,Charles E. Schumer,129
 Franklin,Bangor 1,U.S. Senate,,REF,Wendy Long,0
 Franklin,Bangor 2,U.S. Senate,,REF,Wendy Long,0
 Franklin,Bellmont 1,U.S. Senate,,REF,Wendy Long,2
@@ -1148,7 +1126,6 @@ Franklin,Tupper Lake 6,U.S. Senate,,REF,Wendy Long,5
 Franklin,Waverly,U.S. Senate,,REF,Wendy Long,2
 Franklin,Westville 1,U.S. Senate,,REF,Wendy Long,1
 Franklin,Westville 2,U.S. Senate,,REF,Wendy Long,2
-Franklin,,,,REF,Wendy Long,70
 Franklin,Bangor 1,U.S. Senate,,LBT,Alex Merced,2
 Franklin,Bangor 2,U.S. Senate,,LBT,Alex Merced,3
 Franklin,Bellmont 1,U.S. Senate,,LBT,Alex Merced,1
@@ -1198,7 +1175,6 @@ Franklin,Tupper Lake 6,U.S. Senate,,LBT,Alex Merced,10
 Franklin,Waverly,U.S. Senate,,LBT,Alex Merced,5
 Franklin,Westville 1,U.S. Senate,,LBT,Alex Merced,4
 Franklin,Westville 2,U.S. Senate,,LBT,Alex Merced,2
-Franklin,,,,LBT,Alex Merced,150
 Franklin,Bangor 1,U.S. Senate,,,Blanks,23
 Franklin,Bangor 2,U.S. Senate,,,Blanks,30
 Franklin,Bellmont 1,U.S. Senate,,,Blanks,15
@@ -1248,7 +1224,6 @@ Franklin,Tupper Lake 6,U.S. Senate,,,Blanks,31
 Franklin,Waverly,U.S. Senate,,,Blanks,24
 Franklin,Westville 1,U.S. Senate,,,Blanks,25
 Franklin,Westville 2,U.S. Senate,,,Blanks,22
-Franklin,,,,,Blanks,968
 Franklin,Bangor 1,U.S. Senate,,,Void,0
 Franklin,Bangor 2,U.S. Senate,,,Void,0
 Franklin,Bellmont 1,U.S. Senate,,,Void,0
@@ -1298,7 +1273,6 @@ Franklin,Tupper Lake 6,U.S. Senate,,,Void,2
 Franklin,Waverly,U.S. Senate,,,Void,0
 Franklin,Westville 1,U.S. Senate,,,Void,0
 Franklin,Westville 2,U.S. Senate,,,Void,0
-Franklin,,,,,Void,12
 Franklin,Bangor 1,U.S. Senate,,,Scattered,0
 Franklin,Bangor 2,U.S. Senate,,,Scattered,0
 Franklin,Bellmont 1,U.S. Senate,,,Scattered,0
@@ -1348,7 +1322,6 @@ Franklin,Tupper Lake 6,U.S. Senate,,,Scattered,0
 Franklin,Waverly,U.S. Senate,,,Scattered,0
 Franklin,Westville 1,U.S. Senate,,,Scattered,0
 Franklin,Westville 2,U.S. Senate,,,Scattered,0
-Franklin,,,,,Scattered,5
 Franklin,Bangor 1,U.S. Senate,,,Total,425
 Franklin,Bangor 2,U.S. Senate,,,Total,428
 Franklin,Bellmont 1,U.S. Senate,,,Total,264
@@ -1398,7 +1371,6 @@ Franklin,Tupper Lake 6,U.S. Senate,,,Total,491
 Franklin,Waverly,U.S. Senate,,,Total,445
 Franklin,Westville 1,U.S. Senate,,,Total,343
 Franklin,Westville 2,U.S. Senate,,,Total,333
-Franklin,,,,,Total,17189
 Franklin,Bangor 1,U.S. House,21,DEM,Mike Derrick,114
 Franklin,Bangor 2,U.S. House,21,DEM,Mike Derrick,112
 Franklin,Bellmont 1,U.S. House,21,DEM,Mike Derrick,89
@@ -1448,7 +1420,6 @@ Franklin,Tupper Lake 6,U.S. House,21,DEM,Mike Derrick,151
 Franklin,Waverly,U.S. House,21,DEM,Mike Derrick,123
 Franklin,Westville 1,U.S. House,21,DEM,Mike Derrick,106
 Franklin,Westville 2,U.S. House,21,DEM,Mike Derrick,107
-Franklin,,U.S. House,21,DEM,Mike Derrick,6145
 Franklin,Bangor 1,U.S. House,21,REP,Elise M. Stefanik,251
 Franklin,Bangor 2,U.S. House,21,REP,Elise M. Stefanik,241
 Franklin,Bellmont 1,U.S. House,21,REP,Elise M. Stefanik,142
@@ -1498,7 +1469,6 @@ Franklin,Tupper Lake 6,U.S. House,21,REP,Elise M. Stefanik,237
 Franklin,Waverly,U.S. House,21,REP,Elise M. Stefanik,243
 Franklin,Westville 1,U.S. House,21,REP,Elise M. Stefanik,166
 Franklin,Westville 2,U.S. House,21,REP,Elise M. Stefanik,182
-Franklin,,U.S. House,21,REP,Elise M. Stefanik,8180
 Franklin,Bangor 1,U.S. House,21,CON,Elise M. Stefanik,12
 Franklin,Bangor 2,U.S. House,21,CON,Elise M. Stefanik,24
 Franklin,Bellmont 1,U.S. House,21,CON,Elise M. Stefanik,7
@@ -1548,7 +1518,6 @@ Franklin,Tupper Lake 6,U.S. House,21,CON,Elise M. Stefanik,11
 Franklin,Waverly,U.S. House,21,CON,Elise M. Stefanik,17
 Franklin,Westville 1,U.S. House,21,CON,Elise M. Stefanik,15
 Franklin,Westville 2,U.S. House,21,CON,Elise M. Stefanik,13
-Franklin,,U.S. House,21,CON,Elise M. Stefanik,624
 Franklin,Bangor 1,U.S. House,21,GRN,Matthew J. Funiciello,7
 Franklin,Bangor 2,U.S. House,21,GRN,Matthew J. Funiciello,5
 Franklin,Bellmont 1,U.S. House,21,GRN,Matthew J. Funiciello,2
@@ -1598,7 +1567,6 @@ Franklin,Tupper Lake 6,U.S. House,21,GRN,Matthew J. Funiciello,28
 Franklin,Waverly,U.S. House,21,GRN,Matthew J. Funiciello,15
 Franklin,Westville 1,U.S. House,21,GRN,Matthew J. Funiciello,9
 Franklin,Westville 2,U.S. House,21,GRN,Matthew J. Funiciello,6
-Franklin,,U.S. House,21,GRN,Matthew J. Funiciello,521
 Franklin,Bangor 1,U.S. House,21,WOR,Mike Derrick,11
 Franklin,Bangor 2,U.S. House,21,WOR,Mike Derrick,5
 Franklin,Bellmont 1,U.S. House,21,WOR,Mike Derrick,7
@@ -1648,7 +1616,6 @@ Franklin,Tupper Lake 6,U.S. House,21,WOR,Mike Derrick,19
 Franklin,Waverly,U.S. House,21,WOR,Mike Derrick,17
 Franklin,Westville 1,U.S. House,21,WOR,Mike Derrick,15
 Franklin,Westville 2,U.S. House,21,WOR,Mike Derrick,8
-Franklin,,U.S. House,21,WOR,Mike Derrick,501
 Franklin,Bangor 1,U.S. House,21,IND,Elise M. Stefanik,14
 Franklin,Bangor 2,U.S. House,21,IND,Elise M. Stefanik,8
 Franklin,Bellmont 1,U.S. House,21,IND,Elise M. Stefanik,7
@@ -1698,7 +1665,6 @@ Franklin,Tupper Lake 6,U.S. House,21,IND,Elise M. Stefanik,11
 Franklin,Waverly,U.S. House,21,IND,Elise M. Stefanik,9
 Franklin,Westville 1,U.S. House,21,IND,Elise M. Stefanik,7
 Franklin,Westville 2,U.S. House,21,IND,Elise M. Stefanik,4
-Franklin,,U.S. House,21,IND,Elise M. Stefanik,450
 Franklin,Bangor 1,U.S. House,21,REF,Elise M. Stefanik,3
 Franklin,Bangor 2,U.S. House,21,REF,Elise M. Stefanik,2
 Franklin,Bellmont 1,U.S. House,21,REF,Elise M. Stefanik,0
@@ -1748,7 +1714,6 @@ Franklin,Tupper Lake 6,U.S. House,21,REF,Elise M. Stefanik,3
 Franklin,Waverly,U.S. House,21,REF,Elise M. Stefanik,5
 Franklin,Westville 1,U.S. House,21,REF,Elise M. Stefanik,2
 Franklin,Westville 2,U.S. House,21,REF,Elise M. Stefanik,2
-Franklin,,U.S. House,21,REF,Elise M. Stefanik,72
 Franklin,Bangor 1,U.S. House,21,,Blanks,13
 Franklin,Bangor 2,U.S. House,21,,Blanks,31
 Franklin,Bellmont 1,U.S. House,21,,Blanks,10
@@ -1798,7 +1763,6 @@ Franklin,Tupper Lake 6,U.S. House,21,,Blanks,28
 Franklin,Waverly,U.S. House,21,,Blanks,16
 Franklin,Westville 1,U.S. House,21,,Blanks,23
 Franklin,Westville 2,U.S. House,21,,Blanks,11
-Franklin,,U.S. House,21,,Blanks,681
 Franklin,Bangor 1,U.S. House,21,,Void,0
 Franklin,Bangor 2,U.S. House,21,,Void,0
 Franklin,Bellmont 1,U.S. House,21,,Void,0
@@ -1848,7 +1812,6 @@ Franklin,Tupper Lake 6,U.S. House,21,,Void,2
 Franklin,Waverly,U.S. House,21,,Void,0
 Franklin,Westville 1,U.S. House,21,,Void,0
 Franklin,Westville 2,U.S. House,21,,Void,0
-Franklin,,U.S. House,21,,Void,11
 Franklin,Bangor 1,U.S. House,21,,Scattered,0
 Franklin,Bangor 2,U.S. House,21,,Scattered,0
 Franklin,Bellmont 1,U.S. House,21,,Scattered,0
@@ -1898,7 +1861,6 @@ Franklin,Tupper Lake 6,U.S. House,21,,Scattered,1
 Franklin,Waverly,U.S. House,21,,Scattered,0
 Franklin,Westville 1,U.S. House,21,,Scattered,0
 Franklin,Westville 2,U.S. House,21,,Scattered,0
-Franklin,,U.S. House,21,,Scattered,4
 Franklin,Bangor 1,U.S. House,21,,Total,425
 Franklin,Bangor 2,U.S. House,21,,Total,428
 Franklin,Bellmont 1,U.S. House,21,,Total,264
@@ -1948,7 +1910,6 @@ Franklin,Tupper Lake 6,U.S. House,21,,Total,491
 Franklin,Waverly,U.S. House,21,,Total,445
 Franklin,Westville 1,U.S. House,21,,Total,343
 Franklin,Westville 2,U.S. House,21,,Total,333
-Franklin,,U.S. House,21,,Total,17189
 Franklin,Bangor 1,State Senate,45,REP,Elizabeth Little,278
 Franklin,Bangor 2,State Senate,45,REP,Elizabeth Little,289
 Franklin,Bellmont 1,State Senate,45,REP,Elizabeth Little,162
@@ -1998,7 +1959,6 @@ Franklin,Tupper Lake 6,State Senate,45,REP,Elizabeth Little,305
 Franklin,Waverly,State Senate,45,REP,Elizabeth Little,294
 Franklin,Westville 1,State Senate,45,REP,Elizabeth Little,224
 Franklin,Westville 2,State Senate,45,REP,Elizabeth Little,231
-Franklin,,State Senate,45,REP,Elizabeth Little,10635
 Franklin,Bangor 1,State Senate,45,CON,Elizabeth Little,22
 Franklin,Bangor 2,State Senate,45,CON,Elizabeth Little,30
 Franklin,Bellmont 1,State Senate,45,CON,Elizabeth Little,15
@@ -2048,7 +2008,6 @@ Franklin,Tupper Lake 6,State Senate,45,CON,Elizabeth Little,27
 Franklin,Waverly,State Senate,45,CON,Elizabeth Little,29
 Franklin,Westville 1,State Senate,45,CON,Elizabeth Little,28
 Franklin,Westville 2,State Senate,45,CON,Elizabeth Little,16
-Franklin,,State Senate,45,CON,Elizabeth Little,929
 Franklin,Bangor 1,State Senate,45,GRN,Stephen Ruzbacki,35
 Franklin,Bangor 2,State Senate,45,GRN,Stephen Ruzbacki,19
 Franklin,Bellmont 1,State Senate,45,GRN,Stephen Ruzbacki,18
@@ -2098,7 +2057,6 @@ Franklin,Tupper Lake 6,State Senate,45,GRN,Stephen Ruzbacki,43
 Franklin,Waverly,State Senate,45,GRN,Stephen Ruzbacki,38
 Franklin,Westville 1,State Senate,45,GRN,Stephen Ruzbacki,21
 Franklin,Westville 2,State Senate,45,GRN,Stephen Ruzbacki,21
-Franklin,,State Senate,45,GRN,Stephen Ruzbacki,1585
 Franklin,Bangor 1,State Senate,45,IND,Elizabeth Little,23
 Franklin,Bangor 2,State Senate,45,IND,Elizabeth Little,21
 Franklin,Bellmont 1,State Senate,45,IND,Elizabeth Little,18
@@ -2148,7 +2106,6 @@ Franklin,Tupper Lake 6,State Senate,45,IND,Elizabeth Little,54
 Franklin,Waverly,State Senate,45,IND,Elizabeth Little,32
 Franklin,Westville 1,State Senate,45,IND,Elizabeth Little,25
 Franklin,Westville 2,State Senate,45,IND,Elizabeth Little,14
-Franklin,,State Senate,45,IND,Elizabeth Little,1278
 Franklin,Bangor 1,State Senate,45,,Blanks,66
 Franklin,Bangor 2,State Senate,45,,Blanks,69
 Franklin,Bellmont 1,State Senate,45,,Blanks,49
@@ -2198,7 +2155,6 @@ Franklin,Tupper Lake 6,State Senate,45,,Blanks,55
 Franklin,Waverly,State Senate,45,,Blanks,51
 Franklin,Westville 1,State Senate,45,,Blanks,41
 Franklin,Westville 2,State Senate,45,,Blanks,51
-Franklin,,State Senate,45,,Blanks,2661
 Franklin,Bangor 1,State Senate,45,,Void,0
 Franklin,Bangor 2,State Senate,45,,Void,0
 Franklin,Bellmont 1,State Senate,45,,Void,0
@@ -2248,7 +2204,6 @@ Franklin,Tupper Lake 6,State Senate,45,,Void,0
 Franklin,Waverly,State Senate,45,,Void,1
 Franklin,Westville 1,State Senate,45,,Void,0
 Franklin,Westville 2,State Senate,45,,Void,0
-Franklin,,State Senate,45,,Void,9
 Franklin,Bangor 1,State Senate,45,,Scattered,0
 Franklin,Bangor 2,State Senate,45,,Scattered,0
 Franklin,Bellmont 1,State Senate,45,,Scattered,0
@@ -2298,7 +2253,6 @@ Franklin,Tupper Lake 6,State Senate,45,,Scattered,0
 Franklin,Waverly,State Senate,45,,Scattered,0
 Franklin,Westville 1,State Senate,45,,Scattered,0
 Franklin,Westville 2,State Senate,45,,Scattered,0
-Franklin,,State Senate,45,,Scattered,12
 Franklin,Bangor 1,State Senate,45,,Total,424
 Franklin,Bangor 2,State Senate,45,,Total,428
 Franklin,Bellmont 1,State Senate,45,,Total,262
@@ -2348,7 +2302,6 @@ Franklin,Tupper Lake 6,State Senate,45,,Total,484
 Franklin,Waverly,State Senate,45,,Total,445
 Franklin,Westville 1,State Senate,45,,Total,339
 Franklin,Westville 2,State Senate,45,,Total,333
-Franklin,,State Senate,45,,Total,17109
 Franklin,Bangor 1,State Assembly,115,DEM,D. Billy Jones,166
 Franklin,Bangor 2,State Assembly,115,DEM,D. Billy Jones,178
 Franklin,Bellmont 1,State Assembly,115,DEM,D. Billy Jones,170
@@ -2398,7 +2351,6 @@ Franklin,Tupper Lake 6,State Assembly,115,DEM,D. Billy Jones,184
 Franklin,Waverly,State Assembly,115,DEM,D. Billy Jones,157
 Franklin,Westville 1,State Assembly,115,DEM,D. Billy Jones,129
 Franklin,Westville 2,State Assembly,115,DEM,D. Billy Jones,143
-Franklin,,State Assembly,115,DEM,D. Billy Jones,8170
 Franklin,Bangor 1,State Assembly,115,REP,Kevin A. Mulverhill,223
 Franklin,Bangor 2,State Assembly,115,REP,Kevin A. Mulverhill,211
 Franklin,Bellmont 1,State Assembly,115,REP,Kevin A. Mulverhill,68
@@ -2448,7 +2400,6 @@ Franklin,Tupper Lake 6,State Assembly,115,REP,Kevin A. Mulverhill,239
 Franklin,Waverly,State Assembly,115,REP,Kevin A. Mulverhill,240
 Franklin,Westville 1,State Assembly,115,REP,Kevin A. Mulverhill,165
 Franklin,Westville 2,State Assembly,115,REP,Kevin A. Mulverhill,164
-Franklin,,State Assembly,115,REP,Kevin A. Mulverhill,7126
 Franklin,Bangor 1,State Assembly,115,WOR,D. Billy Jones,13
 Franklin,Bangor 2,State Assembly,115,WOR,D. Billy Jones,15
 Franklin,Bellmont 1,State Assembly,115,WOR,D. Billy Jones,10
@@ -2498,7 +2449,6 @@ Franklin,Tupper Lake 6,State Assembly,115,WOR,D. Billy Jones,19
 Franklin,Waverly,State Assembly,115,WOR,D. Billy Jones,16
 Franklin,Westville 1,State Assembly,115,WOR,D. Billy Jones,15
 Franklin,Westville 2,State Assembly,115,WOR,D. Billy Jones,10
-Franklin,,State Assembly,115,WOR,D. Billy Jones,593
 Franklin,Bangor 1,State Assembly,115,IND,Kevin A. Mulverhill,7
 Franklin,Bangor 2,State Assembly,115,IND,Kevin A. Mulverhill,7
 Franklin,Bellmont 1,State Assembly,115,IND,Kevin A. Mulverhill,7
@@ -2548,7 +2498,6 @@ Franklin,Tupper Lake 6,State Assembly,115,IND,Kevin A. Mulverhill,19
 Franklin,Waverly,State Assembly,115,IND,Kevin A. Mulverhill,13
 Franklin,Westville 1,State Assembly,115,IND,Kevin A. Mulverhill,18
 Franklin,Westville 2,State Assembly,115,IND,Kevin A. Mulverhill,8
-Franklin,,State Assembly,115,IND,Kevin A. Mulverhill,468
 Franklin,Bangor 1,State Assembly,115,WEP,D. Billy Jones,4
 Franklin,Bangor 2,State Assembly,115,WEP,D. Billy Jones,3
 Franklin,Bellmont 1,State Assembly,115,WEP,D. Billy Jones,2
@@ -2598,7 +2547,6 @@ Franklin,Tupper Lake 6,State Assembly,115,WEP,D. Billy Jones,5
 Franklin,Waverly,State Assembly,115,WEP,D. Billy Jones,3
 Franklin,Westville 1,State Assembly,115,WEP,D. Billy Jones,2
 Franklin,Westville 2,State Assembly,115,WEP,D. Billy Jones,3
-Franklin,,State Assembly,115,WEP,D. Billy Jones,169
 Franklin,Bangor 1,State Assembly,115,REF,Kevin A. Mulverhill,1
 Franklin,Bangor 2,State Assembly,115,REF,Kevin A. Mulverhill,0
 Franklin,Bellmont 1,State Assembly,115,REF,Kevin A. Mulverhill,0
@@ -2648,7 +2596,6 @@ Franklin,Tupper Lake 6,State Assembly,115,REF,Kevin A. Mulverhill,4
 Franklin,Waverly,State Assembly,115,REF,Kevin A. Mulverhill,3
 Franklin,Westville 1,State Assembly,115,REF,Kevin A. Mulverhill,1
 Franklin,Westville 2,State Assembly,115,REF,Kevin A. Mulverhill,0
-Franklin,,State Assembly,115,REF,Kevin A. Mulverhill,60
 Franklin,Bangor 1,State Assembly,115,,Blanks,10
 Franklin,Bangor 2,State Assembly,115,,Blanks,14
 Franklin,Bellmont 1,State Assembly,115,,Blanks,5
@@ -2698,7 +2645,6 @@ Franklin,Tupper Lake 6,State Assembly,115,,Blanks,14
 Franklin,Waverly,State Assembly,115,,Blanks,13
 Franklin,Westville 1,State Assembly,115,,Blanks,9
 Franklin,Westville 2,State Assembly,115,,Blanks,5
-Franklin,,State Assembly,115,,Blanks,505
 Franklin,Bangor 1,State Assembly,115,,Void,0
 Franklin,Bangor 2,State Assembly,115,,Void,0
 Franklin,Bellmont 1,State Assembly,115,,Void,0
@@ -2748,7 +2694,6 @@ Franklin,Tupper Lake 6,State Assembly,115,,Void,0
 Franklin,Waverly,State Assembly,115,,Void,0
 Franklin,Westville 1,State Assembly,115,,Void,0
 Franklin,Westville 2,State Assembly,115,,Void,0
-Franklin,,State Assembly,115,,Void,8
 Franklin,Bangor 1,State Assembly,115,,Scattered,0
 Franklin,Bangor 2,State Assembly,115,,Scattered,0
 Franklin,Bellmont 1,State Assembly,115,,Scattered,0
@@ -2798,7 +2743,6 @@ Franklin,Tupper Lake 6,State Assembly,115,,Scattered,0
 Franklin,Waverly,State Assembly,115,,Scattered,0
 Franklin,Westville 1,State Assembly,115,,Scattered,0
 Franklin,Westville 2,State Assembly,115,,Scattered,0
-Franklin,,State Assembly,115,,Scattered,10
 Franklin,Bangor 1,State Assembly,115,,Total,424
 Franklin,Bangor 2,State Assembly,115,,Total,428
 Franklin,Bellmont 1,State Assembly,115,,Total,262
@@ -2848,4 +2792,3 @@ Franklin,Tupper Lake 6,State Assembly,115,,Total,484
 Franklin,Waverly,State Assembly,115,,Total,445
 Franklin,Westville 1,State Assembly,115,,Total,339
 Franklin,Westville 2,State Assembly,115,,Total,333
-Franklin,,State Assembly,115,,Total,17109
