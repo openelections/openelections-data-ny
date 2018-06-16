@@ -80,7 +80,6 @@ St. Lawrence,Ogdensburg 3,,,,Ballots Cast,704,629,64,,11
 St. Lawrence,Ogdensburg 4,,,,Ballots Cast,589,536,50,,3
 St. Lawrence,Ogdensburg 5,,,,Ballots Cast,532,480,43,,9
 St. Lawrence,Ogdensburg 6,,,,Ballots Cast,605,505,94,,6
-St. Lawrence,TOTAL,,,,Ballots Cast,39632,35927,3193,,512
 St. Lawrence,Brasher 1,,,,Registered Voters,607,,,,
 St. Lawrence,Brasher 2,,,,Registered Voters,759,,,,
 St. Lawrence,Canton 1,,,,Registered Voters,828,,,,
@@ -162,7 +161,6 @@ St. Lawrence,Ogdensburg 3,,,,Registered Voters,1035,,,,
 St. Lawrence,Ogdensburg 4,,,,Registered Voters,934,,,,
 St. Lawrence,Ogdensburg 5,,,,Registered Voters,902,,,,
 St. Lawrence,Ogdensburg 6,,,,Registered Voters,839,,,,
-St. Lawrence,TOTAL,,,,Registered Voters,58619,,,,
 St. Lawrence,Brasher 1,President,,DEM,Hillary Clinton,114,106,8,0,0
 St. Lawrence,Brasher 2,President,,DEM,Hillary Clinton,180,161,17,0,2
 St. Lawrence,Canton 1,President,,DEM,Hillary Clinton,445,394,40,9,2
@@ -244,7 +242,6 @@ St. Lawrence,Ogdensburg 3,President,,DEM,Hillary Clinton,277,238,29,7,3
 St. Lawrence,Ogdensburg 4,President,,DEM,Hillary Clinton,226,206,20,0,0
 St. Lawrence,Ogdensburg 5,President,,DEM,Hillary Clinton,215,187,23,3,2
 St. Lawrence,Ogdensburg 6,President,,DEM,Hillary Clinton,242,192,47,0,3
-St. Lawrence,TOTAL,President,,DEM,Hillary Clinton,15749,13981,1442,163,163
 St. Lawrence,Brasher 1,President,,REP,Donald J. Trump,213,204,6,0,3
 St. Lawrence,Brasher 2,President,,REP,Donald J. Trump,266,248,9,1,8
 St. Lawrence,Canton 1,President,,REP,Donald J. Trump,112,99,11,1,1
@@ -326,7 +323,6 @@ St. Lawrence,Ogdensburg 3,President,,REP,Donald J. Trump,322,298,16,2,6
 St. Lawrence,Ogdensburg 4,President,,REP,Donald J. Trump,284,258,22,1,3
 St. Lawrence,Ogdensburg 5,President,,REP,Donald J. Trump,242,223,11,3,5
 St. Lawrence,Ogdensburg 6,President,,REP,Donald J. Trump,282,254,24,2,2
-St. Lawrence,TOTAL,President,,REP,Donald J. Trump,18236,16886,1042,45,263
 St. Lawrence,Brasher 1,President,,CON,Donald J. Trump,13,11,1,0,1
 St. Lawrence,Brasher 2,President,,CON,Donald J. Trump,24,23,0,0,1
 St. Lawrence,Canton 1,President,,CON,Donald J. Trump,10,9,1,0,0
@@ -408,7 +404,6 @@ St. Lawrence,Ogdensburg 3,President,,CON,Donald J. Trump,31,30,0,0,1
 St. Lawrence,Ogdensburg 4,President,,CON,Donald J. Trump,23,22,1,0,0
 St. Lawrence,Ogdensburg 5,President,,CON,Donald J. Trump,33,29,2,0,2
 St. Lawrence,Ogdensburg 6,President,,CON,Donald J. Trump,22,18,4,0,0
-St. Lawrence,TOTAL,President,,CON,Donald J. Trump,1706,1564,118,6,18
 St. Lawrence,Brasher 1,President,,GRE,Jill Stein,6,0,6,0,0
 St. Lawrence,Brasher 2,President,,GRE,Jill Stein,10,0,10,0,0
 St. Lawrence,Canton 1,President,,GRE,Jill Stein,7,0,7,0,0
@@ -490,7 +485,6 @@ St. Lawrence,Ogdensburg 3,President,,GRE,Jill Stein,8,0,8,0,0
 St. Lawrence,Ogdensburg 4,President,,GRE,Jill Stein,11,1,10,0,0
 St. Lawrence,Ogdensburg 5,President,,GRE,Jill Stein,4,0,4,0,0
 St. Lawrence,Ogdensburg 6,President,,GRE,Jill Stein,9,2,7,0,0
-St. Lawrence,TOTAL,President,,GRE,Jill Stein,807,40,746,10,11
 St. Lawrence,Brasher 1,President,,WOR,Hillary Clinton,6,6,0,0,0
 St. Lawrence,Brasher 2,President,,WOR,Hillary Clinton,6,6,0,0,0
 St. Lawrence,Canton 1,President,,WOR,Hillary Clinton,18,17,1,0,0
@@ -572,7 +566,6 @@ St. Lawrence,Ogdensburg 3,President,,WOR,Hillary Clinton,13,11,0,2,0
 St. Lawrence,Ogdensburg 4,President,,WOR,Hillary Clinton,7,6,1,0,0
 St. Lawrence,Ogdensburg 5,President,,WOR,Hillary Clinton,6,6,0,0,0
 St. Lawrence,Ogdensburg 6,President,,WOR,Hillary Clinton,3,3,0,0,0
-St. Lawrence,TOTAL,President,,WOR,Hillary Clinton,534,495,26,7,6
 St. Lawrence,Brasher 1,President,,IND,Gary Johnson,9,9,0,0,0
 St. Lawrence,Brasher 2,President,,IND,Gary Johnson,11,10,0,0,1
 St. Lawrence,Canton 1,President,,IND,Gary Johnson,17,14,1,0,2
@@ -654,7 +647,6 @@ St. Lawrence,Ogdensburg 3,President,,IND,Gary Johnson,24,20,3,0,1
 St. Lawrence,Ogdensburg 4,President,,IND,Gary Johnson,19,17,1,1,0
 St. Lawrence,Ogdensburg 5,President,,IND,Gary Johnson,14,14,0,0,0
 St. Lawrence,Ogdensburg 6,President,,IND,Gary Johnson,16,13,2,0,1
-St. Lawrence,TOTAL,President,,IND,Gary Johnson,1034,928,75,10,21
 St. Lawrence,Brasher 1,President,,WEP,Hillary Clinton,3,3,0,0,0
 St. Lawrence,Brasher 2,President,,WEP,Hillary Clinton,4,4,0,0,0
 St. Lawrence,Canton 1,President,,WEP,Hillary Clinton,5,5,0,0,0
@@ -736,7 +728,6 @@ St. Lawrence,Ogdensburg 3,President,,WEP,Hillary Clinton,2,1,0,1,0
 St. Lawrence,Ogdensburg 4,President,,WEP,Hillary Clinton,3,3,0,0,0
 St. Lawrence,Ogdensburg 5,President,,WEP,Hillary Clinton,3,3,0,0,0
 St. Lawrence,Ogdensburg 6,President,,WEP,Hillary Clinton,6,4,2,0,0
-St. Lawrence,TOTAL,President,,WEP,Hillary Clinton,205,183,17,3,2
 St. Lawrence,Brasher 1,President,,LBT,Gary Johnson,2,0,2,0,0
 St. Lawrence,Brasher 2,President,,LBT,Gary Johnson,9,0,9,0,0
 St. Lawrence,Canton 1,President,,LBT,Gary Johnson,7,1,6,0,0
@@ -818,7 +809,6 @@ St. Lawrence,Ogdensburg 3,President,,LBT,Gary Johnson,5,1,4,0,0
 St. Lawrence,Ogdensburg 4,President,,LBT,Gary Johnson,4,0,4,0,0
 St. Lawrence,Ogdensburg 5,President,,LBT,Gary Johnson,6,0,6,0,0
 St. Lawrence,Ogdensburg 6,President,,LBT,Gary Johnson,6,1,5,0,0
-St. Lawrence,TOTAL,President,,LBT,Gary Johnson,411,30,371,5,5
 St. Lawrence,Brasher 1,President,,,Write-ins,4,3,1,0,0
 St. Lawrence,Brasher 2,President,,,Write-ins,5,5,0,0,0
 St. Lawrence,Canton 1,President,,,Write-ins,16,16,0,0,0
@@ -900,7 +890,6 @@ St. Lawrence,Ogdensburg 3,President,,,Write-ins,14,13,0,1,0
 St. Lawrence,Ogdensburg 4,President,,,Write-ins,5,4,1,0,0
 St. Lawrence,Ogdensburg 5,President,,,Write-ins,3,3,0,0,0
 St. Lawrence,Ogdensburg 6,President,,,Write-ins,7,6,1,0,0
-St. Lawrence,TOTAL,President,,,Write-ins,480,422,45,3,10
 St. Lawrence,Brasher 1,President,,,Under Votes,4,,,,
 St. Lawrence,Brasher 2,President,,,Under Votes,4,,,,
 St. Lawrence,Canton 1,President,,,Under Votes,17,,,,
@@ -982,7 +971,6 @@ St. Lawrence,Ogdensburg 3,President,,,Under Votes,8,,,,
 St. Lawrence,Ogdensburg 4,President,,,Under Votes,7,,,,
 St. Lawrence,Ogdensburg 5,President,,,Under Votes,6,,,,
 St. Lawrence,Ogdensburg 6,President,,,Under Votes,12,,,,
-St. Lawrence,TOTAL,President,,,Under Votes,470,,,,
 St. Lawrence,Brasher 1,U.S. Senate,,DEM,Charles E. Schumer,172,163,9,0,0
 St. Lawrence,Brasher 2,U.S. Senate,,DEM,Charles E. Schumer,243,223,17,0,3
 St. Lawrence,Canton 1,U.S. Senate,,DEM,Charles E. Schumer,447,388,41,9,9
@@ -1064,7 +1052,6 @@ St. Lawrence,Ogdensburg 3,U.S. Senate,,DEM,Charles E. Schumer,373,329,31,7,6
 St. Lawrence,Ogdensburg 4,U.S. Senate,,DEM,Charles E. Schumer,329,306,22,0,1
 St. Lawrence,Ogdensburg 5,U.S. Senate,,DEM,Charles E. Schumer,309,276,28,2,3
 St. Lawrence,Ogdensburg 6,U.S. Senate,,DEM,Charles E. Schumer,332,281,48,0,3
-St. Lawrence,TOTAL,U.S. Senate,,DEM,Charles E. Schumer,19833,17844,1625,146,218
 St. Lawrence,Brasher 1,U.S. Senate,,REP,Wendy Long,125,118,5,0,2
 St. Lawrence,Brasher 2,U.S. Senate,,REP,Wendy Long,183,170,8,1,4
 St. Lawrence,Canton 1,U.S. Senate,,REP,Wendy Long,86,78,7,0,1
@@ -1146,7 +1133,6 @@ St. Lawrence,Ogdensburg 3,U.S. Senate,,REP,Wendy Long,183,169,11,0,3
 St. Lawrence,Ogdensburg 4,U.S. Senate,,REP,Wendy Long,144,129,15,0,0
 St. Lawrence,Ogdensburg 5,U.S. Senate,,REP,Wendy Long,108,99,2,3,4
 St. Lawrence,Ogdensburg 6,U.S. Senate,,REP,Wendy Long,162,136,23,2,1
-St. Lawrence,TOTAL,U.S. Senate,,REP,Wendy Long,12095,11109,784,40,162
 St. Lawrence,Brasher 1,U.S. Senate,,CON,Wendy Long,9,7,1,0,1
 St. Lawrence,Brasher 2,U.S. Senate,,CON,Wendy Long,17,16,0,0,1
 St. Lawrence,Canton 1,U.S. Senate,,CON,Wendy Long,19,16,3,0,0
@@ -1228,7 +1214,6 @@ St. Lawrence,Ogdensburg 3,U.S. Senate,,CON,Wendy Long,25,23,0,1,1
 St. Lawrence,Ogdensburg 4,U.S. Senate,,CON,Wendy Long,23,21,2,0,0
 St. Lawrence,Ogdensburg 5,U.S. Senate,,CON,Wendy Long,17,15,1,0,1
 St. Lawrence,Ogdensburg 6,U.S. Senate,,CON,Wendy Long,15,12,3,0,0
-St. Lawrence,TOTAL,U.S. Senate,,CON,Wendy Long,1432,1302,107,8,15
 St. Lawrence,Brasher 1,U.S. Senate,,GRE,Robin Laverne Wilson,9,9,0,0,0
 St. Lawrence,Brasher 2,U.S. Senate,,GRE,Robin Laverne Wilson,9,9,0,0,0
 St. Lawrence,Canton 1,U.S. Senate,,GRE,Robin Laverne Wilson,8,8,0,0,0
@@ -1310,7 +1295,6 @@ St. Lawrence,Ogdensburg 3,U.S. Senate,,GRE,Robin Laverne Wilson,5,5,0,0,0
 St. Lawrence,Ogdensburg 4,U.S. Senate,,GRE,Robin Laverne Wilson,5,4,0,0,1
 St. Lawrence,Ogdensburg 5,U.S. Senate,,GRE,Robin Laverne Wilson,7,6,1,0,0
 St. Lawrence,Ogdensburg 6,U.S. Senate,,GRE,Robin Laverne Wilson,7,5,1,0,1
-St. Lawrence,TOTAL,U.S. Senate,,GRE,Robin Laverne Wilson,605,532,43,15,15
 St. Lawrence,Brasher 1,U.S. Senate,,WOR,Charles E. Schumer,22,20,2,0,0
 St. Lawrence,Brasher 2,U.S. Senate,,WOR,Charles E. Schumer,20,19,0,0,1
 St. Lawrence,Canton 1,U.S. Senate,,WOR,Charles E. Schumer,21,21,0,0,0
@@ -1392,7 +1376,6 @@ St. Lawrence,Ogdensburg 3,U.S. Senate,,WOR,Charles E. Schumer,26,25,0,1,0
 St. Lawrence,Ogdensburg 4,U.S. Senate,,WOR,Charles E. Schumer,22,19,3,0,0
 St. Lawrence,Ogdensburg 5,U.S. Senate,,WOR,Charles E. Schumer,30,29,1,0,0
 St. Lawrence,Ogdensburg 6,U.S. Senate,,WOR,Charles E. Schumer,18,16,1,0,1
-St. Lawrence,TOTAL,U.S. Senate,,WOR,Charles E. Schumer,1571,1480,61,6,24
 St. Lawrence,Brasher 1,U.S. Senate,,IND,Charles E. Schumer,8,8,0,0,0
 St. Lawrence,Brasher 2,U.S. Senate,,IND,Charles E. Schumer,9,7,0,0,2
 St. Lawrence,Canton 1,U.S. Senate,,IND,Charles E. Schumer,17,15,1,0,1
@@ -1474,7 +1457,6 @@ St. Lawrence,Ogdensburg 3,U.S. Senate,,IND,Charles E. Schumer,27,25,2,0,0
 St. Lawrence,Ogdensburg 4,U.S. Senate,,IND,Charles E. Schumer,22,18,2,1,1
 St. Lawrence,Ogdensburg 5,U.S. Senate,,IND,Charles E. Schumer,22,21,0,1,0
 St. Lawrence,Ogdensburg 6,U.S. Senate,,IND,Charles E. Schumer,23,21,2,0,0
-St. Lawrence,TOTAL,U.S. Senate,,IND,Charles E. Schumer,1092,1001,66,4,21
 St. Lawrence,Brasher 1,U.S. Senate,,WEP,Charles E. Schumer,2,2,0,0,0
 St. Lawrence,Brasher 2,U.S. Senate,,WEP,Charles E. Schumer,2,2,0,0,0
 St. Lawrence,Canton 1,U.S. Senate,,WEP,Charles E. Schumer,5,5,0,0,0
@@ -1556,7 +1538,6 @@ St. Lawrence,Ogdensburg 3,U.S. Senate,,WEP,Charles E. Schumer,7,5,0,2,0
 St. Lawrence,Ogdensburg 4,U.S. Senate,,WEP,Charles E. Schumer,3,2,1,0,0
 St. Lawrence,Ogdensburg 5,U.S. Senate,,WEP,Charles E. Schumer,6,6,0,0,0
 St. Lawrence,Ogdensburg 6,U.S. Senate,,WEP,Charles E. Schumer,2,2,0,0,0
-St. Lawrence,TOTAL,U.S. Senate,,WEP,Charles E. Schumer,259,234,13,4,8
 St. Lawrence,Brasher 1,U.S. Senate,,REF,Wendy Long,0,0,0,0,0
 St. Lawrence,Brasher 2,U.S. Senate,,REF,Wendy Long,3,2,1,0,0
 St. Lawrence,Canton 1,U.S. Senate,,REF,Wendy Long,1,1,0,0,0
@@ -1638,7 +1619,6 @@ St. Lawrence,Ogdensburg 3,U.S. Senate,,REF,Wendy Long,3,3,0,0,0
 St. Lawrence,Ogdensburg 4,U.S. Senate,,REF,Wendy Long,2,2,0,0,0
 St. Lawrence,Ogdensburg 5,U.S. Senate,,REF,Wendy Long,2,0,2,0,0
 St. Lawrence,Ogdensburg 6,U.S. Senate,,REF,Wendy Long,3,2,1,0,0
-St. Lawrence,TOTAL,U.S. Senate,,REF,Wendy Long,106,98,8,0,0
 St. Lawrence,Brasher 1,U.S. Senate,,LBT,Alex Merced,1,1,0,0,0
 St. Lawrence,Brasher 2,U.S. Senate,,LBT,Alex Merced,4,4,0,0,0
 St. Lawrence,Canton 1,U.S. Senate,,LBT,Alex Merced,5,5,0,0,0
@@ -1720,7 +1700,6 @@ St. Lawrence,Ogdensburg 3,U.S. Senate,,LBT,Alex Merced,3,2,1,0,0
 St. Lawrence,Ogdensburg 4,U.S. Senate,,LBT,Alex Merced,3,3,0,0,0
 St. Lawrence,Ogdensburg 5,U.S. Senate,,LBT,Alex Merced,5,4,1,0,0
 St. Lawrence,Ogdensburg 6,U.S. Senate,,LBT,Alex Merced,1,0,1,0,0
-St. Lawrence,TOTAL,U.S. Senate,,LBT,Alex Merced,290,256,25,4,5
 St. Lawrence,Brasher 1,U.S. Senate,,,Write-ins,0,0,0,0,0
 St. Lawrence,Brasher 2,U.S. Senate,,,Write-ins,0,0,0,0,0
 St. Lawrence,Canton 1,U.S. Senate,,,Write-ins,0,0,0,0,0
@@ -1802,7 +1781,6 @@ St. Lawrence,Ogdensburg 3,U.S. Senate,,,Write-ins,0,0,0,0,0
 St. Lawrence,Ogdensburg 4,U.S. Senate,,,Write-ins,0,0,0,0,0
 St. Lawrence,Ogdensburg 5,U.S. Senate,,,Write-ins,0,0,0,0,0
 St. Lawrence,Ogdensburg 6,U.S. Senate,,,Write-ins,1,1,0,0,0
-St. Lawrence,TOTAL,U.S. Senate,,,Write-ins,15,13,1,0,1
 St. Lawrence,Brasher 1,U.S. Senate,,,Under Votes,26,,,,
 St. Lawrence,Brasher 2,U.S. Senate,,,Under Votes,29,,,,
 St. Lawrence,Canton 1,U.S. Senate,,,Under Votes,45,,,,
@@ -1884,7 +1862,6 @@ St. Lawrence,Ogdensburg 3,U.S. Senate,,,Under Votes,52,,,,
 St. Lawrence,Ogdensburg 4,U.S. Senate,,,Under Votes,36,,,,
 St. Lawrence,Ogdensburg 5,U.S. Senate,,,Under Votes,26,,,,
 St. Lawrence,Ogdensburg 6,U.S. Senate,,,Under Votes,41,,,,
-St. Lawrence,TOTAL,U.S. Senate,,,Under Votes,2334,,,,
 St. Lawrence,Brasher 1,U.S. House,21,DEM,Mike Derrick,106,99,7,0,0
 St. Lawrence,Brasher 2,U.S. House,21,DEM,Mike Derrick,166,145,18,0,3
 St. Lawrence,Canton 1,U.S. House,21,DEM,Mike Derrick,351,302,33,9,7
@@ -1966,7 +1943,6 @@ St. Lawrence,Ogdensburg 3,U.S. House,21,DEM,Mike Derrick,193,167,17,6,3
 St. Lawrence,Ogdensburg 4,U.S. House,21,DEM,Mike Derrick,151,132,19,0,0
 St. Lawrence,Ogdensburg 5,U.S. House,21,DEM,Mike Derrick,144,126,14,2,2
 St. Lawrence,Ogdensburg 6,U.S. House,21,DEM,Mike Derrick,143,117,24,1,1
-St. Lawrence,TOTAL,U.S. House,21,DEM,Mike Derrick,11733,10360,1093,141,139
 St. Lawrence,Brasher 1,U.S. House,21,REP,Elise M. Stefanik,191,182,7,0,2
 St. Lawrence,Brasher 2,U.S. House,21,REP,Elise M. Stefanik,257,242,9,1,5
 St. Lawrence,Canton 1,U.S. House,21,REP,Elise M. Stefanik,178,160,15,0,3
@@ -2048,7 +2024,6 @@ St. Lawrence,Ogdensburg 3,U.S. House,21,REP,Elise M. Stefanik,364,334,22,1,7
 St. Lawrence,Ogdensburg 4,U.S. House,21,REP,Elise M. Stefanik,312,289,22,0,1
 St. Lawrence,Ogdensburg 5,U.S. House,21,REP,Elise M. Stefanik,285,260,17,3,5
 St. Lawrence,Ogdensburg 6,U.S. House,21,REP,Elise M. Stefanik,334,295,35,1,3
-St. Lawrence,TOTAL,U.S. House,21,REP,Elise M. Stefanik,20381,18817,1274,47,243
 St. Lawrence,Brasher 1,U.S. House,21,CON,Elise M. Stefanik,16,14,1,0,1
 St. Lawrence,Brasher 2,U.S. House,21,CON,Elise M. Stefanik,27,26,0,0,1
 St. Lawrence,Canton 1,U.S. House,21,CON,Elise M. Stefanik,23,21,2,0,0
@@ -2130,7 +2105,6 @@ St. Lawrence,Ogdensburg 3,U.S. House,21,CON,Elise M. Stefanik,40,38,0,1,1
 St. Lawrence,Ogdensburg 4,U.S. House,21,CON,Elise M. Stefanik,29,27,2,0,0
 St. Lawrence,Ogdensburg 5,U.S. House,21,CON,Elise M. Stefanik,33,31,1,0,1
 St. Lawrence,Ogdensburg 6,U.S. House,21,CON,Elise M. Stefanik,31,26,5,0,0
-St. Lawrence,TOTAL,U.S. House,21,CON,Elise M. Stefanik,2032,1875,129,5,23
 St. Lawrence,Brasher 1,U.S. House,21,GRE,Matthew J. Funiciello,10,10,0,0,0
 St. Lawrence,Brasher 2,U.S. House,21,GRE,Matthew J. Funiciello,23,23,0,0,0
 St. Lawrence,Canton 1,U.S. House,21,GRE,Matthew J. Funiciello,25,22,2,0,1
@@ -2212,7 +2186,6 @@ St. Lawrence,Ogdensburg 3,U.S. House,21,GRE,Matthew J. Funiciello,18,17,1,0,0
 St. Lawrence,Ogdensburg 4,U.S. House,21,GRE,Matthew J. Funiciello,14,13,0,0,1
 St. Lawrence,Ogdensburg 5,U.S. House,21,GRE,Matthew J. Funiciello,13,12,1,0,0
 St. Lawrence,Ogdensburg 6,U.S. House,21,GRE,Matthew J. Funiciello,18,8,10,0,0
-St. Lawrence,TOTAL,U.S. House,21,GRE,Matthew J. Funiciello,1482,1325,117,16,24
 St. Lawrence,Brasher 1,U.S. House,21,WOR,Mike Derrick,17,16,1,0,0
 St. Lawrence,Brasher 2,U.S. House,21,WOR,Mike Derrick,15,13,0,0,2
 St. Lawrence,Canton 1,U.S. House,21,WOR,Mike Derrick,21,21,0,0,0
@@ -2294,7 +2267,6 @@ St. Lawrence,Ogdensburg 3,U.S. House,21,WOR,Mike Derrick,11,9,1,1,0
 St. Lawrence,Ogdensburg 4,U.S. House,21,WOR,Mike Derrick,11,10,1,0,0
 St. Lawrence,Ogdensburg 5,U.S. House,21,WOR,Mike Derrick,13,11,2,0,0
 St. Lawrence,Ogdensburg 6,U.S. House,21,WOR,Mike Derrick,9,7,1,0,1
-St. Lawrence,TOTAL,U.S. House,21,WOR,Mike Derrick,852,781,44,8,19
 St. Lawrence,Brasher 1,U.S. House,21,IND,Elise M. Stefanik,13,13,0,0,0
 St. Lawrence,Brasher 2,U.S. House,21,IND,Elise M. Stefanik,11,11,0,0,0
 St. Lawrence,Canton 1,U.S. House,21,IND,Elise M. Stefanik,13,12,0,0,1
@@ -2376,7 +2348,6 @@ St. Lawrence,Ogdensburg 3,U.S. House,21,IND,Elise M. Stefanik,32,29,1,2,0
 St. Lawrence,Ogdensburg 4,U.S. House,21,IND,Elise M. Stefanik,32,30,0,1,1
 St. Lawrence,Ogdensburg 5,U.S. House,21,IND,Elise M. Stefanik,16,15,0,1,0
 St. Lawrence,Ogdensburg 6,U.S. House,21,IND,Elise M. Stefanik,25,21,4,0,0
-St. Lawrence,TOTAL,U.S. House,21,IND,Elise M. Stefanik,1162,1068,66,8,20
 St. Lawrence,Brasher 1,U.S. House,21,REF,Elise M. Stefanik,0,0,0,0,0
 St. Lawrence,Brasher 2,U.S. House,21,REF,Elise M. Stefanik,1,1,0,0,0
 St. Lawrence,Canton 1,U.S. House,21,REF,Elise M. Stefanik,0,0,0,0,0
@@ -2458,7 +2429,6 @@ St. Lawrence,Ogdensburg 3,U.S. House,21,REF,Elise M. Stefanik,4,4,0,0,0
 St. Lawrence,Ogdensburg 4,U.S. House,21,REF,Elise M. Stefanik,3,2,1,0,0
 St. Lawrence,Ogdensburg 5,U.S. House,21,REF,Elise M. Stefanik,2,2,0,0,0
 St. Lawrence,Ogdensburg 6,U.S. House,21,REF,Elise M. Stefanik,3,2,1,0,0
-St. Lawrence,TOTAL,U.S. House,21,REF,Elise M. Stefanik,138,127,8,2,1
 St. Lawrence,Brasher 1,U.S. House,21,,Write-ins,0,0,0,0,0
 St. Lawrence,Brasher 2,U.S. House,21,,Write-ins,0,0,0,0,0
 St. Lawrence,Canton 1,U.S. House,21,,Write-ins,0,0,0,0,0
@@ -2540,7 +2510,6 @@ St. Lawrence,Ogdensburg 3,U.S. House,21,,Write-ins,0,0,0,0,0
 St. Lawrence,Ogdensburg 4,U.S. House,21,,Write-ins,0,0,0,0,0
 St. Lawrence,Ogdensburg 5,U.S. House,21,,Write-ins,0,0,0,0,0
 St. Lawrence,Ogdensburg 6,U.S. House,21,,Write-ins,0,0,0,0,0
-St. Lawrence,TOTAL,U.S. House,21,,Write-ins,15,13,0,1,1
 St. Lawrence,Brasher 1,U.S. House,21,,Under Votes,21,,,,
 St. Lawrence,Brasher 2,U.S. House,21,,Under Votes,19,,,,
 St. Lawrence,Canton 1,U.S. House,21,,Under Votes,43,,,,
@@ -2622,7 +2591,6 @@ St. Lawrence,Ogdensburg 3,U.S. House,21,,Under Votes,42,,,,
 St. Lawrence,Ogdensburg 4,U.S. House,21,,Under Votes,37,,,,
 St. Lawrence,Ogdensburg 5,U.S. House,21,,Under Votes,26,,,,
 St. Lawrence,Ogdensburg 6,U.S. House,21,,Under Votes,42,,,,
-St. Lawrence,TOTAL,U.S. House,21,,Under Votes,1837,,,,
 St. Lawrence,Clare 1,State Senate,45,REP,Elizabeth O'C. Little,30,30,0,0,0
 St. Lawrence,Colton 1,State Senate,45,REP,Elizabeth O'C. Little,454,387,61,0,6
 St. Lawrence,Hopkinton 1,State Senate,45,REP,Elizabeth O'C. Little,267,254,8,0,5
@@ -2630,7 +2598,6 @@ St. Lawrence,Lawrence 1,State Senate,45,REP,Elizabeth O'C. Little,348,327,17,0,4
 St. Lawrence,Parishville 1,State Senate,45,REP,Elizabeth O'C. Little,233,214,15,0,4
 St. Lawrence,Parishville 2,State Senate,45,REP,Elizabeth O'C. Little,296,271,18,0,7
 St. Lawrence,Piercefield 1,State Senate,45,REP,Elizabeth O'C. Little,80,74,6,0,0
-St. Lawrence,TOTAL,State Senate,45,REP,Elizabeth O'C. Little,1708,1557,125,0,26
 St. Lawrence,Clare 1,State Senate,45,CON,Elizabeth O'C. Little,2,2,0,0,0
 St. Lawrence,Colton 1,State Senate,45,CON,Elizabeth O'C. Little,56,49,6,1,0
 St. Lawrence,Hopkinton 1,State Senate,45,CON,Elizabeth O'C. Little,43,42,1,0,0
@@ -2638,7 +2605,6 @@ St. Lawrence,Lawrence 1,State Senate,45,CON,Elizabeth O'C. Little,40,40,0,0,0
 St. Lawrence,Parishville 1,State Senate,45,CON,Elizabeth O'C. Little,23,21,2,0,0
 St. Lawrence,Parishville 2,State Senate,45,CON,Elizabeth O'C. Little,35,30,4,0,1
 St. Lawrence,Piercefield 1,State Senate,45,CON,Elizabeth O'C. Little,9,7,2,0,0
-St. Lawrence,TOTAL,State Senate,45,CON,Elizabeth O'C. Little,208,191,15,1,1
 St. Lawrence,Clare 1,State Senate,45,GRE,Stephen Matthew Ruzbacki,2,2,0,0,0
 St. Lawrence,Colton 1,State Senate,45,GRE,Stephen Matthew Ruzbacki,84,76,7,0,1
 St. Lawrence,Hopkinton 1,State Senate,45,GRE,Stephen Matthew Ruzbacki,49,48,0,0,1
@@ -2646,7 +2612,6 @@ St. Lawrence,Lawrence 1,State Senate,45,GRE,Stephen Matthew Ruzbacki,75,70,3,0,2
 St. Lawrence,Parishville 1,State Senate,45,GRE,Stephen Matthew Ruzbacki,35,32,1,0,2
 St. Lawrence,Parishville 2,State Senate,45,GRE,Stephen Matthew Ruzbacki,47,42,4,0,1
 St. Lawrence,Piercefield 1,State Senate,45,GRE,Stephen Matthew Ruzbacki,8,6,2,0,0
-St. Lawrence,TOTAL,State Senate,45,GRE,Stephen Matthew Ruzbacki,300,276,17,0,7
 St. Lawrence,Clare 1,State Senate,45,IND,Elizabeth O'C. Little,1,1,0,0,0
 St. Lawrence,Colton 1,State Senate,45,IND,Elizabeth O'C. Little,35,28,7,0,0
 St. Lawrence,Hopkinton 1,State Senate,45,IND,Elizabeth O'C. Little,19,18,0,0,1
@@ -2654,7 +2619,6 @@ St. Lawrence,Lawrence 1,State Senate,45,IND,Elizabeth O'C. Little,39,38,0,1,0
 St. Lawrence,Parishville 1,State Senate,45,IND,Elizabeth O'C. Little,8,7,0,0,1
 St. Lawrence,Parishville 2,State Senate,45,IND,Elizabeth O'C. Little,18,18,0,0,0
 St. Lawrence,Piercefield 1,State Senate,45,IND,Elizabeth O'C. Little,6,6,0,0,0
-St. Lawrence,TOTAL,State Senate,45,IND,Elizabeth O'C. Little,126,116,7,1,2
 St. Lawrence,Clare 1,State Senate,45,,Write-ins,0,0,0,0,0
 St. Lawrence,Colton 1,State Senate,45,,Write-ins,0,0,0,0,0
 St. Lawrence,Hopkinton 1,State Senate,45,,Write-ins,0,0,0,0,0
@@ -2662,7 +2626,6 @@ St. Lawrence,Lawrence 1,State Senate,45,,Write-ins,0,0,0,0,0
 St. Lawrence,Parishville 1,State Senate,45,,Write-ins,0,0,0,0,0
 St. Lawrence,Parishville 2,State Senate,45,,Write-ins,0,0,0,0,0
 St. Lawrence,Piercefield 1,State Senate,45,,Write-ins,0,0,0,0,0
-St. Lawrence,TOTAL,State Senate,45,,Write-ins,0,0,0,0,0
 St. Lawrence,Clare 1,State Senate,45,,Under Votes,15,,,,
 St. Lawrence,Colton 1,State Senate,45,,Under Votes,204,,,,
 St. Lawrence,Hopkinton 1,State Senate,45,,Under Votes,79,,,,
@@ -2670,7 +2633,6 @@ St. Lawrence,Lawrence 1,State Senate,45,,Under Votes,145,,,,
 St. Lawrence,Parishville 1,State Senate,45,,Under Votes,79,,,,
 St. Lawrence,Parishville 2,State Senate,45,,Under Votes,126,,,,
 St. Lawrence,Piercefield 1,State Senate,45,,Under Votes,34,,,,
-St. Lawrence,TOTAL,State Senate,45,,Under Votes,682,,,,
 St. Lawrence,Brasher 1,State Senate,47,REP,Joseph A. Griffo,223,211,10,0,2
 St. Lawrence,Brasher 2,State Senate,47,REP,Joseph A. Griffo,318,298,15,0,5
 St. Lawrence,Clifton 1,State Senate,47,REP,Joseph A. Griffo,85,79,1,0,5
@@ -2702,7 +2664,6 @@ St. Lawrence,Russell 1,State Senate,47,REP,Joseph A. Griffo,442,424,13,0,5
 St. Lawrence,Stockholm 1,State Senate,47,REP,Joseph A. Griffo,388,370,16,0,2
 St. Lawrence,Stockholm 2,State Senate,47,REP,Joseph A. Griffo,314,296,17,0,1
 St. Lawrence,Stockholm 3,State Senate,47,REP,Joseph A. Griffo,187,175,10,0,2
-St. Lawrence,TOTAL,State Senate,47,REP,Joseph A. Griffo,9033,8361,547,7,118
 St. Lawrence,Brasher 1,State Senate,47,CON,Joseph A. Griffo,36,34,1,0,1
 St. Lawrence,Brasher 2,State Senate,47,CON,Joseph A. Griffo,35,30,2,0,3
 St. Lawrence,Clifton 1,State Senate,47,CON,Joseph A. Griffo,7,7,0,0,0
@@ -2734,7 +2695,6 @@ St. Lawrence,Russell 1,State Senate,47,CON,Joseph A. Griffo,59,56,2,0,1
 St. Lawrence,Stockholm 1,State Senate,47,CON,Joseph A. Griffo,50,48,1,0,1
 St. Lawrence,Stockholm 2,State Senate,47,CON,Joseph A. Griffo,45,44,1,0,0
 St. Lawrence,Stockholm 3,State Senate,47,CON,Joseph A. Griffo,21,19,1,0,1
-St. Lawrence,TOTAL,State Senate,47,CON,Joseph A. Griffo,1044,974,51,0,19
 St. Lawrence,Brasher 1,State Senate,47,IND,Joseph A. Griffo,26,26,0,0,0
 St. Lawrence,Brasher 2,State Senate,47,IND,Joseph A. Griffo,26,23,1,0,2
 St. Lawrence,Clifton 1,State Senate,47,IND,Joseph A. Griffo,8,6,1,0,1
@@ -2766,7 +2726,6 @@ St. Lawrence,Russell 1,State Senate,47,IND,Joseph A. Griffo,38,36,2,0,0
 St. Lawrence,Stockholm 1,State Senate,47,IND,Joseph A. Griffo,44,40,2,1,1
 St. Lawrence,Stockholm 2,State Senate,47,IND,Joseph A. Griffo,26,24,2,0,0
 St. Lawrence,Stockholm 3,State Senate,47,IND,Joseph A. Griffo,22,20,2,0,0
-St. Lawrence,TOTAL,State Senate,47,IND,Joseph A. Griffo,1126,1016,86,5,19
 St. Lawrence,Brasher 1,State Senate,47,REF,Joseph A. Griffo,2,2,0,0,0
 St. Lawrence,Brasher 2,State Senate,47,REF,Joseph A. Griffo,5,5,0,0,0
 St. Lawrence,Clifton 1,State Senate,47,REF,Joseph A. Griffo,2,2,0,0,0
@@ -2798,7 +2757,6 @@ St. Lawrence,Russell 1,State Senate,47,REF,Joseph A. Griffo,4,4,0,0,0
 St. Lawrence,Stockholm 1,State Senate,47,REF,Joseph A. Griffo,4,4,0,0,0
 St. Lawrence,Stockholm 2,State Senate,47,REF,Joseph A. Griffo,4,4,0,0,0
 St. Lawrence,Stockholm 3,State Senate,47,REF,Joseph A. Griffo,2,1,1,0,0
-St. Lawrence,TOTAL,State Senate,47,REF,Joseph A. Griffo,162,145,13,0,4
 St. Lawrence,Brasher 1,State Senate,47,,Write-ins,1,1,0,0,0
 St. Lawrence,Brasher 2,State Senate,47,,Write-ins,1,1,0,0,0
 St. Lawrence,Clifton 1,State Senate,47,,Write-ins,2,2,0,0,0
@@ -2830,7 +2788,6 @@ St. Lawrence,Russell 1,State Senate,47,,Write-ins,1,1,0,0,0
 St. Lawrence,Stockholm 1,State Senate,47,,Write-ins,2,2,0,0,0
 St. Lawrence,Stockholm 2,State Senate,47,,Write-ins,3,3,0,0,0
 St. Lawrence,Stockholm 3,State Senate,47,,Write-ins,0,0,0,0,0
-St. Lawrence,TOTAL,State Senate,47,,Write-ins,45,35,9,0,1
 St. Lawrence,Brasher 1,State Senate,47,,Under Votes,86,,,,
 St. Lawrence,Brasher 2,State Senate,47,,Under Votes,134,,,,
 St. Lawrence,Clifton 1,State Senate,47,,Under Votes,38,,,,
@@ -2862,7 +2819,6 @@ St. Lawrence,Russell 1,State Senate,47,,Under Votes,167,,,,
 St. Lawrence,Stockholm 1,State Senate,47,,Under Votes,149,,,,
 St. Lawrence,Stockholm 2,State Senate,47,,Under Votes,131,,,,
 St. Lawrence,Stockholm 3,State Senate,47,,Under Votes,56,,,,
-St. Lawrence,TOTAL,State Senate,47,,Under Votes,4733,,,,
 St. Lawrence,Canton 1,State Senate,48,REP,Patricia A. Ritchie,274,245,24,0,5
 St. Lawrence,Canton 2,State Senate,48,REP,Patricia A. Ritchie,391,334,54,1,2
 St. Lawrence,Canton 3,State Senate,48,REP,Patricia A. Ritchie,246,202,38,1,5
@@ -2906,7 +2862,6 @@ St. Lawrence,Ogdensburg 3,State Senate,48,REP,Patricia A. Ritchie,463,421,33,0,9
 St. Lawrence,Ogdensburg 4,State Senate,48,REP,Patricia A. Ritchie,412,374,36,0,2
 St. Lawrence,Ogdensburg 5,State Senate,48,REP,Patricia A. Ritchie,360,331,24,0,5
 St. Lawrence,Ogdensburg 6,State Senate,48,REP,Patricia A. Ritchie,413,364,44,1,4
-St. Lawrence,TOTAL,State Senate,48,REP,Patricia A. Ritchie,13635,12459,1013,13,150
 St. Lawrence,Canton 1,State Senate,48,CON,Patricia A. Ritchie,29,26,3,0,0
 St. Lawrence,Canton 2,State Senate,48,CON,Patricia A. Ritchie,40,37,3,0,0
 St. Lawrence,Canton 3,State Senate,48,CON,Patricia A. Ritchie,34,28,6,0,0
@@ -2950,7 +2905,6 @@ St. Lawrence,Ogdensburg 3,State Senate,48,CON,Patricia A. Ritchie,49,48,0,0,1
 St. Lawrence,Ogdensburg 4,State Senate,48,CON,Patricia A. Ritchie,36,33,3,0,0
 St. Lawrence,Ogdensburg 5,State Senate,48,CON,Patricia A. Ritchie,42,40,1,0,1
 St. Lawrence,Ogdensburg 6,State Senate,48,CON,Patricia A. Ritchie,43,32,9,0,2
-St. Lawrence,TOTAL,State Senate,48,CON,Patricia A. Ritchie,1481,1352,110,2,17
 St. Lawrence,Canton 1,State Senate,48,IND,Patricia A. Ritchie,79,71,6,0,2
 St. Lawrence,Canton 2,State Senate,48,IND,Patricia A. Ritchie,42,40,2,0,0
 St. Lawrence,Canton 3,State Senate,48,IND,Patricia A. Ritchie,52,44,7,1,0
@@ -2994,7 +2948,6 @@ St. Lawrence,Ogdensburg 3,State Senate,48,IND,Patricia A. Ritchie,58,52,5,0,1
 St. Lawrence,Ogdensburg 4,State Senate,48,IND,Patricia A. Ritchie,44,41,2,0,1
 St. Lawrence,Ogdensburg 5,State Senate,48,IND,Patricia A. Ritchie,39,36,3,0,0
 St. Lawrence,Ogdensburg 6,State Senate,48,IND,Patricia A. Ritchie,47,37,10,0,0
-St. Lawrence,TOTAL,State Senate,48,IND,Patricia A. Ritchie,1445,1302,118,3,22
 St. Lawrence,Canton 1,State Senate,48,REF,Patricia A. Ritchie,11,10,1,0,0
 St. Lawrence,Canton 2,State Senate,48,REF,Patricia A. Ritchie,9,8,1,0,0
 St. Lawrence,Canton 3,State Senate,48,REF,Patricia A. Ritchie,5,5,0,0,0
@@ -3038,7 +2991,6 @@ St. Lawrence,Ogdensburg 3,State Senate,48,REF,Patricia A. Ritchie,6,5,1,0,0
 St. Lawrence,Ogdensburg 4,State Senate,48,REF,Patricia A. Ritchie,6,6,0,0,0
 St. Lawrence,Ogdensburg 5,State Senate,48,REF,Patricia A. Ritchie,9,9,0,0,0
 St. Lawrence,Ogdensburg 6,State Senate,48,REF,Patricia A. Ritchie,5,4,1,0,0
-St. Lawrence,TOTAL,State Senate,48,REF,Patricia A. Ritchie,183,162,18,0,3
 St. Lawrence,Canton 1,State Senate,48,,Write-ins,4,4,0,0,0
 St. Lawrence,Canton 2,State Senate,48,,Write-ins,0,0,0,0,0
 St. Lawrence,Canton 3,State Senate,48,,Write-ins,1,1,0,0,0
@@ -3082,7 +3034,6 @@ St. Lawrence,Ogdensburg 3,State Senate,48,,Write-ins,4,4,0,0,0
 St. Lawrence,Ogdensburg 4,State Senate,48,,Write-ins,1,1,0,0,0
 St. Lawrence,Ogdensburg 5,State Senate,48,,Write-ins,6,3,3,0,0
 St. Lawrence,Ogdensburg 6,State Senate,48,,Write-ins,3,0,3,0,0
-St. Lawrence,TOTAL,State Senate,48,,Write-ins,61,47,12,0,2
 St. Lawrence,Canton 1,State Senate,48,,Under Votes,228,,,,
 St. Lawrence,Canton 2,State Senate,48,,Under Votes,116,,,,
 St. Lawrence,Canton 3,State Senate,48,,Under Votes,144,,,,
@@ -3126,55 +3077,46 @@ St. Lawrence,Ogdensburg 3,State Senate,48,,Under Votes,124,,,,
 St. Lawrence,Ogdensburg 4,State Senate,48,,Under Votes,90,,,,
 St. Lawrence,Ogdensburg 5,State Senate,48,,Under Votes,76,,,,
 St. Lawrence,Ogdensburg 6,State Senate,48,,Under Votes,94,,,,
-St. Lawrence,TOTAL,State Senate,48,,Under Votes,3660,,,,
 St. Lawrence,Brasher 1,State Assembly,115,DEM,D. Billy Jones,138,130,8,0,0
 St. Lawrence,Brasher 2,State Assembly,115,DEM,D. Billy Jones,188,174,12,0,2
 St. Lawrence,Hopkinton 1,State Assembly,115,DEM,D. Billy Jones,133,128,4,0,1
 St. Lawrence,Lawrence 1,State Assembly,115,DEM,D. Billy Jones,205,194,10,0,1
 St. Lawrence,Piercefield 1,State Assembly,115,DEM,D. Billy Jones,60,55,5,0,0
-St. Lawrence,TOTAL,State Assembly,115,DEM,D. Billy Jones,724,681,39,0,4
 St. Lawrence,Brasher 1,State Assembly,115,REP,Kevin A. Mulverhill,173,163,8,0,2
 St. Lawrence,Brasher 2,State Assembly,115,REP,Kevin A. Mulverhill,260,248,8,0,4
 St. Lawrence,Hopkinton 1,State Assembly,115,REP,Kevin A. Mulverhill,248,240,4,0,4
 St. Lawrence,Lawrence 1,State Assembly,115,REP,Kevin A. Mulverhill,328,312,14,0,2
 St. Lawrence,Piercefield 1,State Assembly,115,REP,Kevin A. Mulverhill,57,50,7,0,0
-St. Lawrence,TOTAL,State Assembly,115,REP,Kevin A. Mulverhill,1066,1013,41,0,12
 St. Lawrence,Brasher 1,State Assembly,115,WOR,D. Billy Jones,14,14,0,0,0
 St. Lawrence,Brasher 2,State Assembly,115,WOR,D. Billy Jones,12,11,0,0,1
 St. Lawrence,Hopkinton 1,State Assembly,115,WOR,D. Billy Jones,11,10,0,0,1
 St. Lawrence,Lawrence 1,State Assembly,115,WOR,D. Billy Jones,19,17,1,0,1
 St. Lawrence,Piercefield 1,State Assembly,115,WOR,D. Billy Jones,6,6,0,0,0
-St. Lawrence,TOTAL,State Assembly,115,WOR,D. Billy Jones,62,58,1,0,3
 St. Lawrence,Brasher 1,State Assembly,115,IND,Kevin A. Mulverhill,10,10,0,0,0
 St. Lawrence,Brasher 2,State Assembly,115,IND,Kevin A. Mulverhill,14,11,2,0,1
 St. Lawrence,Hopkinton 1,State Assembly,115,IND,Kevin A. Mulverhill,12,11,1,0,0
 St. Lawrence,Lawrence 1,State Assembly,115,IND,Kevin A. Mulverhill,28,27,0,1,0
 St. Lawrence,Piercefield 1,State Assembly,115,IND,Kevin A. Mulverhill,2,2,0,0,0
-St. Lawrence,TOTAL,State Assembly,115,IND,Kevin A. Mulverhill,66,61,3,1,1
 St. Lawrence,Brasher 1,State Assembly,115,WEP,D. Billy Jones,2,2,0,0,0
 St. Lawrence,Brasher 2,State Assembly,115,WEP,D. Billy Jones,2,2,0,0,0
 St. Lawrence,Hopkinton 1,State Assembly,115,WEP,D. Billy Jones,5,5,0,0,0
 St. Lawrence,Lawrence 1,State Assembly,115,WEP,D. Billy Jones,7,7,0,0,0
 St. Lawrence,Piercefield 1,State Assembly,115,WEP,D. Billy Jones,0,0,0,0,0
-St. Lawrence,TOTAL,State Assembly,115,WEP,D. Billy Jones,16,16,0,0,0
 St. Lawrence,Brasher 1,State Assembly,115,REF,Kevin A. Mulverhill,2,2,0,0,0
 St. Lawrence,Brasher 2,State Assembly,115,REF,Kevin A. Mulverhill,3,3,0,0,0
 St. Lawrence,Hopkinton 1,State Assembly,115,REF,Kevin A. Mulverhill,7,7,0,0,0
 St. Lawrence,Lawrence 1,State Assembly,115,REF,Kevin A. Mulverhill,3,2,0,0,1
 St. Lawrence,Piercefield 1,State Assembly,115,REF,Kevin A. Mulverhill,1,1,0,0,0
-St. Lawrence,TOTAL,State Assembly,115,REF,Kevin A. Mulverhill,16,15,0,0,1
 St. Lawrence,Brasher 1,State Assembly,115,,Write-ins,0,0,0,0,0
 St. Lawrence,Brasher 2,State Assembly,115,,Write-ins,0,0,0,0,0
 St. Lawrence,Hopkinton 1,State Assembly,115,,Write-ins,0,0,0,0,0
 St. Lawrence,Lawrence 1,State Assembly,115,,Write-ins,0,0,0,0,0
 St. Lawrence,Piercefield 1,State Assembly,115,,Write-ins,0,0,0,0,0
-St. Lawrence,TOTAL,State Assembly,115,,Write-ins,0,0,0,0,0
 St. Lawrence,Brasher 1,State Assembly,115,,Under Votes,35,,,,
 St. Lawrence,Brasher 2,State Assembly,115,,Under Votes,40,,,,
 St. Lawrence,Hopkinton 1,State Assembly,115,,Under Votes,41,,,,
 St. Lawrence,Lawrence 1,State Assembly,115,,Under Votes,57,,,,
 St. Lawrence,Piercefield 1,State Assembly,115,,Under Votes,11,,,,
-St. Lawrence,TOTAL,State Assembly,115,,Under Votes,184,,,,
 St. Lawrence,Canton 1,State Assembly,116,DEM,Addie Jenne Russell,412,367,35,1,9
 St. Lawrence,Canton 2,State Assembly,116,DEM,Addie Jenne Russell,289,256,33,0,0
 St. Lawrence,Canton 3,State Assembly,116,DEM,Addie Jenne Russell,298,251,43,1,3
@@ -3223,7 +3165,6 @@ St. Lawrence,Ogdensburg 3,State Assembly,116,DEM,Addie Jenne Russell,298,269,26,
 St. Lawrence,Ogdensburg 4,State Assembly,116,DEM,Addie Jenne Russell,248,231,17,0,0
 St. Lawrence,Ogdensburg 5,State Assembly,116,DEM,Addie Jenne Russell,251,219,27,1,4
 St. Lawrence,Ogdensburg 6,State Assembly,116,DEM,Addie Jenne Russell,273,230,41,0,2
-St. Lawrence,TOTAL,State Assembly,116,DEM,Addie Jenne Russell,11432,10275,1013,7,137
 St. Lawrence,Canton 1,State Assembly,116,REP,John Byrne,122,108,13,0,1
 St. Lawrence,Canton 2,State Assembly,116,REP,John Byrne,218,188,26,2,2
 St. Lawrence,Canton 3,State Assembly,116,REP,John Byrne,128,99,26,1,2
@@ -3272,7 +3213,6 @@ St. Lawrence,Ogdensburg 3,State Assembly,116,REP,John Byrne,269,247,16,1,5
 St. Lawrence,Ogdensburg 4,State Assembly,116,REP,John Byrne,245,222,21,0,2
 St. Lawrence,Ogdensburg 5,State Assembly,116,REP,John Byrne,194,185,6,0,3
 St. Lawrence,Ogdensburg 6,State Assembly,116,REP,John Byrne,239,211,25,1,2
-St. Lawrence,TOTAL,State Assembly,116,REP,John Byrne,9133,8319,681,15,118
 St. Lawrence,Canton 1,State Assembly,116,CON,John Byrne,27,24,3,0,0
 St. Lawrence,Canton 2,State Assembly,116,CON,John Byrne,29,26,3,0,0
 St. Lawrence,Canton 3,State Assembly,116,CON,John Byrne,21,21,0,0,0
@@ -3321,7 +3261,6 @@ St. Lawrence,Ogdensburg 3,State Assembly,116,CON,John Byrne,33,32,0,0,1
 St. Lawrence,Ogdensburg 4,State Assembly,116,CON,John Byrne,23,20,3,0,0
 St. Lawrence,Ogdensburg 5,State Assembly,116,CON,John Byrne,32,30,1,0,1
 St. Lawrence,Ogdensburg 6,State Assembly,116,CON,John Byrne,16,12,3,0,1
-St. Lawrence,TOTAL,State Assembly,116,CON,John Byrne,984,896,76,1,11
 St. Lawrence,Canton 1,State Assembly,116,WOR,Addie Jenne Russell,31,30,1,0,0
 St. Lawrence,Canton 2,State Assembly,116,WOR,Addie Jenne Russell,40,39,1,0,0
 St. Lawrence,Canton 3,State Assembly,116,WOR,Addie Jenne Russell,39,34,3,0,2
@@ -3370,7 +3309,6 @@ St. Lawrence,Ogdensburg 3,State Assembly,116,WOR,Addie Jenne Russell,31,30,1,0,0
 St. Lawrence,Ogdensburg 4,State Assembly,116,WOR,Addie Jenne Russell,24,20,4,0,0
 St. Lawrence,Ogdensburg 5,State Assembly,116,WOR,Addie Jenne Russell,16,15,1,0,0
 St. Lawrence,Ogdensburg 6,State Assembly,116,WOR,Addie Jenne Russell,26,20,5,0,1
-St. Lawrence,TOTAL,State Assembly,116,WOR,Addie Jenne Russell,1044,967,56,1,20
 St. Lawrence,Canton 1,State Assembly,116,IND,John Byrne,9,8,0,0,1
 St. Lawrence,Canton 2,State Assembly,116,IND,John Byrne,7,5,2,0,0
 St. Lawrence,Canton 3,State Assembly,116,IND,John Byrne,4,1,3,0,0
@@ -3419,7 +3357,6 @@ St. Lawrence,Ogdensburg 3,State Assembly,116,IND,John Byrne,19,15,2,0,2
 St. Lawrence,Ogdensburg 4,State Assembly,116,IND,John Byrne,17,16,0,0,1
 St. Lawrence,Ogdensburg 5,State Assembly,116,IND,John Byrne,13,12,1,0,0
 St. Lawrence,Ogdensburg 6,State Assembly,116,IND,John Byrne,16,13,3,0,0
-St. Lawrence,TOTAL,State Assembly,116,IND,John Byrne,450,398,41,2,9
 St. Lawrence,Canton 1,State Assembly,116,REF,John Byrne,1,1,0,0,0
 St. Lawrence,Canton 2,State Assembly,116,REF,John Byrne,1,1,0,0,0
 St. Lawrence,Canton 3,State Assembly,116,REF,John Byrne,2,2,0,0,0
@@ -3468,7 +3405,6 @@ St. Lawrence,Ogdensburg 3,State Assembly,116,REF,John Byrne,1,1,0,0,0
 St. Lawrence,Ogdensburg 4,State Assembly,116,REF,John Byrne,0,0,0,0,0
 St. Lawrence,Ogdensburg 5,State Assembly,116,REF,John Byrne,2,1,1,0,0
 St. Lawrence,Ogdensburg 6,State Assembly,116,REF,John Byrne,5,3,2,0,0
-St. Lawrence,TOTAL,State Assembly,116,REF,John Byrne,60,49,8,0,3
 St. Lawrence,Canton 1,State Assembly,116,,Write-ins,1,1,0,0,0
 St. Lawrence,Canton 2,State Assembly,116,,Write-ins,1,1,0,0,0
 St. Lawrence,Canton 3,State Assembly,116,,Write-ins,0,0,0,0,0
@@ -3517,7 +3453,6 @@ St. Lawrence,Ogdensburg 3,State Assembly,116,,Write-ins,0,0,0,0,0
 St. Lawrence,Ogdensburg 4,State Assembly,116,,Write-ins,0,0,0,0,0
 St. Lawrence,Ogdensburg 5,State Assembly,116,,Write-ins,0,0,0,0,0
 St. Lawrence,Ogdensburg 6,State Assembly,116,,Write-ins,0,0,0,0,0
-St. Lawrence,TOTAL,State Assembly,116,,Write-ins,23,18,3,0,2
 St. Lawrence,Canton 1,State Assembly,116,,Under Votes,51,,,,
 St. Lawrence,Canton 2,State Assembly,116,,Under Votes,53,,,,
 St. Lawrence,Canton 3,State Assembly,116,,Under Votes,24,,,,
@@ -3566,7 +3501,6 @@ St. Lawrence,Ogdensburg 3,State Assembly,116,,Under Votes,53,,,,
 St. Lawrence,Ogdensburg 4,State Assembly,116,,Under Votes,32,,,,
 St. Lawrence,Ogdensburg 5,State Assembly,116,,Under Votes,24,,,,
 St. Lawrence,Ogdensburg 6,State Assembly,116,,Under Votes,30,,,,
-St. Lawrence,TOTAL,State Assembly,116,,Under Votes,1295,,,,
 St. Lawrence,DeKalb 1,State Assembly,117,REP,Kenneth Blankenbush,283,257,20,1,5
 St. Lawrence,DeKalb 2,State Assembly,117,REP,Kenneth Blankenbush,202,194,7,0,1
 St. Lawrence,Edwards 1,State Assembly,117,REP,Kenneth Blankenbush,279,269,10,0,0
@@ -3579,7 +3513,6 @@ St. Lawrence,Gouverneur 4,State Assembly,117,REP,Kenneth Blankenbush,294,279,11,
 St. Lawrence,Hermon 1,State Assembly,117,REP,Kenneth Blankenbush,257,241,16,0,0
 St. Lawrence,Pitcairn 1,State Assembly,117,REP,Kenneth Blankenbush,194,180,13,0,1
 St. Lawrence,Russell 1,State Assembly,117,REP,Kenneth Blankenbush,431,412,13,0,6
-St. Lawrence,TOTAL,State Assembly,117,REP,Kenneth Blankenbush,3363,3155,176,5,27
 St. Lawrence,DeKalb 1,State Assembly,117,CON,Kenneth Blankenbush,43,41,2,0,0
 St. Lawrence,DeKalb 2,State Assembly,117,CON,Kenneth Blankenbush,43,39,3,0,1
 St. Lawrence,Edwards 1,State Assembly,117,CON,Kenneth Blankenbush,36,34,1,0,1
@@ -3592,7 +3525,6 @@ St. Lawrence,Gouverneur 4,State Assembly,117,CON,Kenneth Blankenbush,29,27,2,0,0
 St. Lawrence,Hermon 1,State Assembly,117,CON,Kenneth Blankenbush,42,39,2,1,0
 St. Lawrence,Pitcairn 1,State Assembly,117,CON,Kenneth Blankenbush,20,20,0,0,0
 St. Lawrence,Russell 1,State Assembly,117,CON,Kenneth Blankenbush,62,60,2,0,0
-St. Lawrence,TOTAL,State Assembly,117,CON,Kenneth Blankenbush,453,424,22,1,6
 St. Lawrence,DeKalb 1,State Assembly,117,IND,Kenneth Blankenbush,37,35,1,0,1
 St. Lawrence,DeKalb 2,State Assembly,117,IND,Kenneth Blankenbush,22,19,2,0,1
 St. Lawrence,Edwards 1,State Assembly,117,IND,Kenneth Blankenbush,23,22,1,0,0
@@ -3605,7 +3537,6 @@ St. Lawrence,Gouverneur 4,State Assembly,117,IND,Kenneth Blankenbush,17,14,1,0,2
 St. Lawrence,Hermon 1,State Assembly,117,IND,Kenneth Blankenbush,38,32,5,0,1
 St. Lawrence,Pitcairn 1,State Assembly,117,IND,Kenneth Blankenbush,19,16,3,0,0
 St. Lawrence,Russell 1,State Assembly,117,IND,Kenneth Blankenbush,42,40,2,0,0
-St. Lawrence,TOTAL,State Assembly,117,IND,Kenneth Blankenbush,358,323,25,1,9
 St. Lawrence,DeKalb 1,State Assembly,117,,Write-ins,0,0,0,0,0
 St. Lawrence,DeKalb 2,State Assembly,117,,Write-ins,3,3,0,0,0
 St. Lawrence,Edwards 1,State Assembly,117,,Write-ins,1,1,0,0,0
@@ -3618,7 +3549,6 @@ St. Lawrence,Gouverneur 4,State Assembly,117,,Write-ins,2,2,0,0,0
 St. Lawrence,Hermon 1,State Assembly,117,,Write-ins,0,0,0,0,0
 St. Lawrence,Pitcairn 1,State Assembly,117,,Write-ins,1,0,1,0,0
 St. Lawrence,Russell 1,State Assembly,117,,Write-ins,1,1,0,0,0
-St. Lawrence,TOTAL,State Assembly,117,,Write-ins,11,10,1,0,0
 St. Lawrence,DeKalb 1,State Assembly,117,,Under Votes,116,,,,
 St. Lawrence,DeKalb 2,State Assembly,117,,Under Votes,66,,,,
 St. Lawrence,Edwards 1,State Assembly,117,,Under Votes,65,,,,
@@ -3631,7 +3561,6 @@ St. Lawrence,Gouverneur 4,State Assembly,117,,Under Votes,83,,,,
 St. Lawrence,Hermon 1,State Assembly,117,,Under Votes,109,,,,
 St. Lawrence,Pitcairn 1,State Assembly,117,,Under Votes,80,,,,
 St. Lawrence,Russell 1,State Assembly,117,,Under Votes,175,,,,
-St. Lawrence,TOTAL,State Assembly,117,,Under Votes,1217,,,,
 St. Lawrence,Clare 1,State Assembly,118,REP,Marc W. Butler,33,33,0,0,0
 St. Lawrence,Clifton 1,State Assembly,118,REP,Marc W. Butler,80,73,1,0,6
 St. Lawrence,Clifton 2,State Assembly,118,REP,Marc W. Butler,88,70,18,0,0
@@ -3648,7 +3577,6 @@ St. Lawrence,Pierrepont 2,State Assembly,118,REP,Marc W. Butler,300,275,20,0,5
 St. Lawrence,Stockholm 1,State Assembly,118,REP,Marc W. Butler,362,346,15,0,1
 St. Lawrence,Stockholm 2,State Assembly,118,REP,Marc W. Butler,300,283,16,0,1
 St. Lawrence,Stockholm 3,State Assembly,118,REP,Marc W. Butler,182,170,10,0,2
-St. Lawrence,TOTAL,State Assembly,118,REP,Marc W. Butler,4404,4049,295,0,60
 St. Lawrence,Clare 1,State Assembly,118,CON,Marc W. Butler,4,4,0,0,0
 St. Lawrence,Clifton 1,State Assembly,118,CON,Marc W. Butler,8,8,0,0,0
 St. Lawrence,Clifton 2,State Assembly,118,CON,Marc W. Butler,8,7,1,0,0
@@ -3665,7 +3593,6 @@ St. Lawrence,Pierrepont 2,State Assembly,118,CON,Marc W. Butler,38,37,0,0,1
 St. Lawrence,Stockholm 1,State Assembly,118,CON,Marc W. Butler,46,44,1,0,1
 St. Lawrence,Stockholm 2,State Assembly,118,CON,Marc W. Butler,36,35,1,0,0
 St. Lawrence,Stockholm 3,State Assembly,118,CON,Marc W. Butler,16,14,1,0,1
-St. Lawrence,TOTAL,State Assembly,118,CON,Marc W. Butler,528,495,22,1,10
 St. Lawrence,Clare 1,State Assembly,118,IND,Marc W. Butler,1,1,0,0,0
 St. Lawrence,Clifton 1,State Assembly,118,IND,Marc W. Butler,6,5,1,0,0
 St. Lawrence,Clifton 2,State Assembly,118,IND,Marc W. Butler,15,14,1,0,0
@@ -3682,7 +3609,6 @@ St. Lawrence,Pierrepont 2,State Assembly,118,IND,Marc W. Butler,39,29,7,0,3
 St. Lawrence,Stockholm 1,State Assembly,118,IND,Marc W. Butler,46,41,2,1,2
 St. Lawrence,Stockholm 2,State Assembly,118,IND,Marc W. Butler,30,27,3,0,0
 St. Lawrence,Stockholm 3,State Assembly,118,IND,Marc W. Butler,27,25,2,0,0
-St. Lawrence,TOTAL,State Assembly,118,IND,Marc W. Butler,487,436,41,2,8
 St. Lawrence,Clare 1,State Assembly,118,REF,Marc W. Butler,0,0,0,0,0
 St. Lawrence,Clifton 1,State Assembly,118,REF,Marc W. Butler,1,1,0,0,0
 St. Lawrence,Clifton 2,State Assembly,118,REF,Marc W. Butler,3,3,0,0,0
@@ -3699,7 +3625,6 @@ St. Lawrence,Pierrepont 2,State Assembly,118,REF,Marc W. Butler,4,4,0,0,0
 St. Lawrence,Stockholm 1,State Assembly,118,REF,Marc W. Butler,7,7,0,0,0
 St. Lawrence,Stockholm 2,State Assembly,118,REF,Marc W. Butler,6,6,0,0,0
 St. Lawrence,Stockholm 3,State Assembly,118,REF,Marc W. Butler,3,2,1,0,0
-St. Lawrence,TOTAL,State Assembly,118,REF,Marc W. Butler,65,60,5,0,0
 St. Lawrence,Clare 1,State Assembly,118,,Write-ins,0,0,0,0,0
 St. Lawrence,Clifton 1,State Assembly,118,,Write-ins,1,1,0,0,0
 St. Lawrence,Clifton 2,State Assembly,118,,Write-ins,1,1,0,0,0
@@ -3716,7 +3641,6 @@ St. Lawrence,Pierrepont 2,State Assembly,118,,Write-ins,0,0,0,0,0
 St. Lawrence,Stockholm 1,State Assembly,118,,Write-ins,3,3,0,0,0
 St. Lawrence,Stockholm 2,State Assembly,118,,Write-ins,1,1,0,0,0
 St. Lawrence,Stockholm 3,State Assembly,118,,Write-ins,1,1,0,0,0
-St. Lawrence,TOTAL,State Assembly,118,,Write-ins,18,16,2,0,0
 St. Lawrence,Clare 1,State Assembly,118,,Under Votes,12,,,,
 St. Lawrence,Clifton 1,State Assembly,118,,Under Votes,46,,,,
 St. Lawrence,Clifton 2,State Assembly,118,,Under Votes,38,,,,
@@ -3733,4 +3657,3 @@ St. Lawrence,Pierrepont 2,State Assembly,118,,Under Votes,185,,,,
 St. Lawrence,Stockholm 1,State Assembly,118,,Under Votes,173,,,,
 St. Lawrence,Stockholm 2,State Assembly,118,,Under Votes,150,,,,
 St. Lawrence,Stockholm 3,State Assembly,118,,Under Votes,59,,,,
-St. Lawrence,TOTAL,State Assembly,118,,Under Votes,2173,,,,
