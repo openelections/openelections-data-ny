@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,polling_place,absentee_affidavit,votes
+county,precinct,office,district,party,candidate,election_day,absentee,votes
 Herkimer,City of Little Falls Ward 1 1 LD 12,President,,DEM,Hillary Clinton,206,20,226
 Herkimer,City of Little Falls Ward 2 1 LD 12,President,,DEM,Hillary Clinton,238,27,265
 Herkimer,City of Little Falls Ward 3 1 LD 12,President,,DEM,Hillary Clinton,42,5,47

@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes
-Jefferson,12/1,President,,,Total,1002
-Jefferson,12/2,President,,,Total,819
-Jefferson,12/3,President,,,Total,726
+Jefferson,12//1,President,,,Total,1002
+Jefferson,12//2,President,,,Total,819
+Jefferson,12//3,President,,,Total,726
 Jefferson,13/1,President,,,Total,780
 Jefferson,13/2,President,,,Total,809
 Jefferson,13/3,President,,,Total,570
@@ -68,9 +68,9 @@ Jefferson,Wilna 3,President,,,Total,93
 Jefferson,Wilna 4,President,,,Total,216
 Jefferson,Wilna 5,President,,,Total,512
 Jefferson,Worth 1,President,,,Total,129
-Jefferson,12/1,President,,DEM,Hillary Clinton,466
-Jefferson,12/2,President,,DEM,Hillary Clinton,340
-Jefferson,12/3,President,,DEM,Hillary Clinton,308
+Jefferson,12//1,President,,DEM,Hillary Clinton,466
+Jefferson,12//2,President,,DEM,Hillary Clinton,340
+Jefferson,12//3,President,,DEM,Hillary Clinton,308
 Jefferson,13/1,President,,DEM,Hillary Clinton,330
 Jefferson,13/2,President,,DEM,Hillary Clinton,373
 Jefferson,13/3,President,,DEM,Hillary Clinton,232
@@ -137,9 +137,9 @@ Jefferson,Wilna 3,President,,DEM,Hillary Clinton,27
 Jefferson,Wilna 4,President,,DEM,Hillary Clinton,45
 Jefferson,Wilna 5,President,,DEM,Hillary Clinton,126
 Jefferson,Worth 1,President,,DEM,Hillary Clinton,28
-Jefferson,12/1,President,,WF,Hillary Clinton,13
-Jefferson,12/2,President,,WF,Hillary Clinton,11
-Jefferson,12/3,President,,WF,Hillary Clinton,8
+Jefferson,12//1,President,,WF,Hillary Clinton,13
+Jefferson,12//2,President,,WF,Hillary Clinton,11
+Jefferson,12//3,President,,WF,Hillary Clinton,8
 Jefferson,13/1,President,,WF,Hillary Clinton,15
 Jefferson,13/2,President,,WF,Hillary Clinton,11
 Jefferson,13/3,President,,WF,Hillary Clinton,11
@@ -206,9 +206,9 @@ Jefferson,Wilna 3,President,,WF,Hillary Clinton,1
 Jefferson,Wilna 4,President,,WF,Hillary Clinton,1
 Jefferson,Wilna 5,President,,WF,Hillary Clinton,5
 Jefferson,Worth 1,President,,WF,Hillary Clinton,1
-Jefferson,12/1,President,,WE,Hillary Clinton,2
-Jefferson,12/2,President,,WE,Hillary Clinton,9
-Jefferson,12/3,President,,WE,Hillary Clinton,1
+Jefferson,12//1,President,,WE,Hillary Clinton,2
+Jefferson,12//2,President,,WE,Hillary Clinton,9
+Jefferson,12//3,President,,WE,Hillary Clinton,1
 Jefferson,13/1,President,,WE,Hillary Clinton,5
 Jefferson,13/2,President,,WE,Hillary Clinton,2
 Jefferson,13/3,President,,WE,Hillary Clinton,3
@@ -275,9 +275,9 @@ Jefferson,Wilna 3,President,,WE,Hillary Clinton,0
 Jefferson,Wilna 4,President,,WE,Hillary Clinton,0
 Jefferson,Wilna 5,President,,WE,Hillary Clinton,0
 Jefferson,Worth 1,President,,WE,Hillary Clinton,0
-Jefferson,12/1,President,,REP,Donald J. Trump,392
-Jefferson,12/2,President,,REP,Donald J. Trump,345
-Jefferson,12/3,President,,REP,Donald J. Trump,319
+Jefferson,12//1,President,,REP,Donald J. Trump,392
+Jefferson,12//2,President,,REP,Donald J. Trump,345
+Jefferson,12//3,President,,REP,Donald J. Trump,319
 Jefferson,13/1,President,,REP,Donald J. Trump,319
 Jefferson,13/2,President,,REP,Donald J. Trump,324
 Jefferson,13/3,President,,REP,Donald J. Trump,254
@@ -344,9 +344,9 @@ Jefferson,Wilna 3,President,,REP,Donald J. Trump,50
 Jefferson,Wilna 4,President,,REP,Donald J. Trump,135
 Jefferson,Wilna 5,President,,REP,Donald J. Trump,315
 Jefferson,Worth 1,President,,REP,Donald J. Trump,90
-Jefferson,12/1,President,,CON,Donald J. Trump,43
-Jefferson,12/2,President,,CON,Donald J. Trump,37
-Jefferson,12/3,President,,CON,Donald J. Trump,26
+Jefferson,12//1,President,,CON,Donald J. Trump,43
+Jefferson,12//2,President,,CON,Donald J. Trump,37
+Jefferson,12//3,President,,CON,Donald J. Trump,26
 Jefferson,13/1,President,,CON,Donald J. Trump,38
 Jefferson,13/2,President,,CON,Donald J. Trump,32
 Jefferson,13/3,President,,CON,Donald J. Trump,15
@@ -413,9 +413,9 @@ Jefferson,Wilna 3,President,,CON,Donald J. Trump,5
 Jefferson,Wilna 4,President,,CON,Donald J. Trump,19
 Jefferson,Wilna 5,President,,CON,Donald J. Trump,24
 Jefferson,Worth 1,President,,CON,Donald J. Trump,6
-Jefferson,12/1,President,,GRE,Jill Stein,18
-Jefferson,12/2,President,,GRE,Jill Stein,19
-Jefferson,12/3,President,,GRE,Jill Stein,7
+Jefferson,12//1,President,,GRE,Jill Stein,18
+Jefferson,12//2,President,,GRE,Jill Stein,19
+Jefferson,12//3,President,,GRE,Jill Stein,7
 Jefferson,13/1,President,,GRE,Jill Stein,26
 Jefferson,13/2,President,,GRE,Jill Stein,14
 Jefferson,13/3,President,,GRE,Jill Stein,10
@@ -482,9 +482,9 @@ Jefferson,Wilna 3,President,,GRE,Jill Stein,3
 Jefferson,Wilna 4,President,,GRE,Jill Stein,2
 Jefferson,Wilna 5,President,,GRE,Jill Stein,10
 Jefferson,Worth 1,President,,GRE,Jill Stein,2
-Jefferson,12/1,President,,IND,Gary Johnson,28
-Jefferson,12/2,President,,IND,Gary Johnson,31
-Jefferson,12/3,President,,IND,Gary Johnson,23
+Jefferson,12//1,President,,IND,Gary Johnson,28
+Jefferson,12//2,President,,IND,Gary Johnson,31
+Jefferson,12//3,President,,IND,Gary Johnson,23
 Jefferson,13/1,President,,IND,Gary Johnson,26
 Jefferson,13/2,President,,IND,Gary Johnson,27
 Jefferson,13/3,President,,IND,Gary Johnson,19
@@ -551,9 +551,9 @@ Jefferson,Wilna 3,President,,IND,Gary Johnson,4
 Jefferson,Wilna 4,President,,IND,Gary Johnson,10
 Jefferson,Wilna 5,President,,IND,Gary Johnson,16
 Jefferson,Worth 1,President,,IND,Gary Johnson,0
-Jefferson,12/1,President,,LBT,Gary Johnson,9
-Jefferson,12/2,President,,LBT,Gary Johnson,10
-Jefferson,12/3,President,,LBT,Gary Johnson,13
+Jefferson,12//1,President,,LBT,Gary Johnson,9
+Jefferson,12//2,President,,LBT,Gary Johnson,10
+Jefferson,12//3,President,,LBT,Gary Johnson,13
 Jefferson,13/1,President,,LBT,Gary Johnson,8
 Jefferson,13/2,President,,LBT,Gary Johnson,8
 Jefferson,13/3,President,,LBT,Gary Johnson,11
@@ -620,9 +620,9 @@ Jefferson,Wilna 3,President,,LBT,Gary Johnson,3
 Jefferson,Wilna 4,President,,LBT,Gary Johnson,1
 Jefferson,Wilna 5,President,,LBT,Gary Johnson,8
 Jefferson,Worth 1,President,,LBT,Gary Johnson,1
-Jefferson,12/1,President,,,Write-ins,15
-Jefferson,12/2,President,,,Write-ins,9
-Jefferson,12/3,President,,,Write-ins,9
+Jefferson,12//1,President,,,Write-ins,15
+Jefferson,12//2,President,,,Write-ins,9
+Jefferson,12//3,President,,,Write-ins,9
 Jefferson,13/1,President,,,Write-ins,5
 Jefferson,13/2,President,,,Write-ins,12
 Jefferson,13/3,President,,,Write-ins,11
@@ -689,9 +689,9 @@ Jefferson,Wilna 3,President,,,Write-ins,0
 Jefferson,Wilna 4,President,,,Write-ins,2
 Jefferson,Wilna 5,President,,,Write-ins,3
 Jefferson,Worth 1,President,,,Write-ins,0
-Jefferson,12/1,President,,,Under Votes,15
-Jefferson,12/2,President,,,Under Votes,6
-Jefferson,12/3,President,,,Under Votes,12
+Jefferson,12//1,President,,,Under Votes,15
+Jefferson,12//2,President,,,Under Votes,6
+Jefferson,12//3,President,,,Under Votes,12
 Jefferson,13/1,President,,,Under Votes,5
 Jefferson,13/2,President,,,Under Votes,6
 Jefferson,13/3,President,,,Under Votes,2
@@ -758,9 +758,9 @@ Jefferson,Wilna 3,President,,,Under Votes,0
 Jefferson,Wilna 4,President,,,Under Votes,1
 Jefferson,Wilna 5,President,,,Under Votes,4
 Jefferson,Worth 1,President,,,Under Votes,1
-Jefferson,12/1,President,,,Over Votes,1
-Jefferson,12/2,President,,,Over Votes,2
-Jefferson,12/3,President,,,Over Votes,0
+Jefferson,12//1,President,,,Over Votes,1
+Jefferson,12//2,President,,,Over Votes,2
+Jefferson,12//3,President,,,Over Votes,0
 Jefferson,13/1,President,,,Over Votes,2
 Jefferson,13/2,President,,,Over Votes,0
 Jefferson,13/3,President,,,Over Votes,2
@@ -827,9 +827,9 @@ Jefferson,Wilna 3,President,,,Over Votes,0
 Jefferson,Wilna 4,President,,,Over Votes,0
 Jefferson,Wilna 5,President,,,Over Votes,1
 Jefferson,Worth 1,President,,,Over Votes,0
-Jefferson,12/1,U.S. Senate,,DEM,Charles E. Schumer,538
-Jefferson,12/2,U.S. Senate,,DEM,Charles E. Schumer,435
-Jefferson,12/3,U.S. Senate,,DEM,Charles E. Schumer,402
+Jefferson,12//1,U.S. Senate,,DEM,Charles E. Schumer,538
+Jefferson,12//2,U.S. Senate,,DEM,Charles E. Schumer,435
+Jefferson,12//3,U.S. Senate,,DEM,Charles E. Schumer,402
 Jefferson,13/1,U.S. Senate,,DEM,Charles E. Schumer,411
 Jefferson,13/2,U.S. Senate,,DEM,Charles E. Schumer,472
 Jefferson,13/3,U.S. Senate,,DEM,Charles E. Schumer,281
@@ -896,9 +896,9 @@ Jefferson,Wilna 3,U.S. Senate,,DEM,Charles E. Schumer,46
 Jefferson,Wilna 4,U.S. Senate,,DEM,Charles E. Schumer,79
 Jefferson,Wilna 5,U.S. Senate,,DEM,Charles E. Schumer,192
 Jefferson,Worth 1,U.S. Senate,,DEM,Charles E. Schumer,57
-Jefferson,12/1,U.S. Senate,,WF,Charles E. Schumer,21
-Jefferson,12/2,U.S. Senate,,WF,Charles E. Schumer,31
-Jefferson,12/3,U.S. Senate,,WF,Charles E. Schumer,20
+Jefferson,12//1,U.S. Senate,,WF,Charles E. Schumer,21
+Jefferson,12//2,U.S. Senate,,WF,Charles E. Schumer,31
+Jefferson,12//3,U.S. Senate,,WF,Charles E. Schumer,20
 Jefferson,13/1,U.S. Senate,,WF,Charles E. Schumer,35
 Jefferson,13/2,U.S. Senate,,WF,Charles E. Schumer,25
 Jefferson,13/3,U.S. Senate,,WF,Charles E. Schumer,26
@@ -965,9 +965,9 @@ Jefferson,Wilna 3,U.S. Senate,,WF,Charles E. Schumer,3
 Jefferson,Wilna 4,U.S. Senate,,WF,Charles E. Schumer,8
 Jefferson,Wilna 5,U.S. Senate,,WF,Charles E. Schumer,18
 Jefferson,Worth 1,U.S. Senate,,WF,Charles E. Schumer,7
-Jefferson,12/1,U.S. Senate,,IND,Charles E. Schumer,25
-Jefferson,12/2,U.S. Senate,,IND,Charles E. Schumer,32
-Jefferson,12/3,U.S. Senate,,IND,Charles E. Schumer,18
+Jefferson,12//1,U.S. Senate,,IND,Charles E. Schumer,25
+Jefferson,12//2,U.S. Senate,,IND,Charles E. Schumer,32
+Jefferson,12//3,U.S. Senate,,IND,Charles E. Schumer,18
 Jefferson,13/1,U.S. Senate,,IND,Charles E. Schumer,23
 Jefferson,13/2,U.S. Senate,,IND,Charles E. Schumer,31
 Jefferson,13/3,U.S. Senate,,IND,Charles E. Schumer,16
@@ -1034,9 +1034,9 @@ Jefferson,Wilna 3,U.S. Senate,,IND,Charles E. Schumer,2
 Jefferson,Wilna 4,U.S. Senate,,IND,Charles E. Schumer,8
 Jefferson,Wilna 5,U.S. Senate,,IND,Charles E. Schumer,17
 Jefferson,Worth 1,U.S. Senate,,IND,Charles E. Schumer,2
-Jefferson,12/1,U.S. Senate,,WE,Charles E. Schumer,5
-Jefferson,12/2,U.S. Senate,,WE,Charles E. Schumer,12
-Jefferson,12/3,U.S. Senate,,WE,Charles E. Schumer,1
+Jefferson,12//1,U.S. Senate,,WE,Charles E. Schumer,5
+Jefferson,12//2,U.S. Senate,,WE,Charles E. Schumer,12
+Jefferson,12//3,U.S. Senate,,WE,Charles E. Schumer,1
 Jefferson,13/1,U.S. Senate,,WE,Charles E. Schumer,5
 Jefferson,13/2,U.S. Senate,,WE,Charles E. Schumer,6
 Jefferson,13/3,U.S. Senate,,WE,Charles E. Schumer,9
@@ -1103,9 +1103,9 @@ Jefferson,Wilna 3,U.S. Senate,,WE,Charles E. Schumer,0
 Jefferson,Wilna 4,U.S. Senate,,WE,Charles E. Schumer,1
 Jefferson,Wilna 5,U.S. Senate,,WE,Charles E. Schumer,1
 Jefferson,Worth 1,U.S. Senate,,WE,Charles E. Schumer,0
-Jefferson,12/1,U.S. Senate,,REP,Wendy Long,300
-Jefferson,12/2,U.S. Senate,,REP,Wendy Long,222
-Jefferson,12/3,U.S. Senate,,REP,Wendy Long,225
+Jefferson,12//1,U.S. Senate,,REP,Wendy Long,300
+Jefferson,12//2,U.S. Senate,,REP,Wendy Long,222
+Jefferson,12//3,U.S. Senate,,REP,Wendy Long,225
 Jefferson,13/1,U.S. Senate,,REP,Wendy Long,208
 Jefferson,13/2,U.S. Senate,,REP,Wendy Long,211
 Jefferson,13/3,U.S. Senate,,REP,Wendy Long,167
@@ -1172,9 +1172,9 @@ Jefferson,Wilna 3,U.S. Senate,,REP,Wendy Long,30
 Jefferson,Wilna 4,U.S. Senate,,REP,Wendy Long,97
 Jefferson,Wilna 5,U.S. Senate,,REP,Wendy Long,220
 Jefferson,Worth 1,U.S. Senate,,REP,Wendy Long,45
-Jefferson,12/1,U.S. Senate,,CON,Wendy Long,35
-Jefferson,12/2,U.S. Senate,,CON,Wendy Long,30
-Jefferson,12/3,U.S. Senate,,CON,Wendy Long,21
+Jefferson,12//1,U.S. Senate,,CON,Wendy Long,35
+Jefferson,12//2,U.S. Senate,,CON,Wendy Long,30
+Jefferson,12//3,U.S. Senate,,CON,Wendy Long,21
 Jefferson,13/1,U.S. Senate,,CON,Wendy Long,32
 Jefferson,13/2,U.S. Senate,,CON,Wendy Long,24
 Jefferson,13/3,U.S. Senate,,CON,Wendy Long,15
@@ -1241,9 +1241,9 @@ Jefferson,Wilna 3,U.S. Senate,,CON,Wendy Long,0
 Jefferson,Wilna 4,U.S. Senate,,CON,Wendy Long,15
 Jefferson,Wilna 5,U.S. Senate,,CON,Wendy Long,17
 Jefferson,Worth 1,U.S. Senate,,CON,Wendy Long,4
-Jefferson,12/1,U.S. Senate,,REF,Wendy Long,1
-Jefferson,12/2,U.S. Senate,,REF,Wendy Long,3
-Jefferson,12/3,U.S. Senate,,REF,Wendy Long,0
+Jefferson,12//1,U.S. Senate,,REF,Wendy Long,1
+Jefferson,12//2,U.S. Senate,,REF,Wendy Long,3
+Jefferson,12//3,U.S. Senate,,REF,Wendy Long,0
 Jefferson,13/1,U.S. Senate,,REF,Wendy Long,2
 Jefferson,13/2,U.S. Senate,,REF,Wendy Long,1
 Jefferson,13/3,U.S. Senate,,REF,Wendy Long,5
@@ -1310,9 +1310,9 @@ Jefferson,Wilna 3,U.S. Senate,,REF,Wendy Long,0
 Jefferson,Wilna 4,U.S. Senate,,REF,Wendy Long,0
 Jefferson,Wilna 5,U.S. Senate,,REF,Wendy Long,3
 Jefferson,Worth 1,U.S. Senate,,REF,Wendy Long,1
-Jefferson,12/1,U.S. Senate,,GRE,Robin Laverne Wilson,15
-Jefferson,12/2,U.S. Senate,,GRE,Robin Laverne Wilson,15
-Jefferson,12/3,U.S. Senate,,GRE,Robin Laverne Wilson,4
+Jefferson,12//1,U.S. Senate,,GRE,Robin Laverne Wilson,15
+Jefferson,12//2,U.S. Senate,,GRE,Robin Laverne Wilson,15
+Jefferson,12//3,U.S. Senate,,GRE,Robin Laverne Wilson,4
 Jefferson,13/1,U.S. Senate,,GRE,Robin Laverne Wilson,18
 Jefferson,13/2,U.S. Senate,,GRE,Robin Laverne Wilson,12
 Jefferson,13/3,U.S. Senate,,GRE,Robin Laverne Wilson,9
@@ -1379,9 +1379,9 @@ Jefferson,Wilna 3,U.S. Senate,,GRE,Robin Laverne Wilson,2
 Jefferson,Wilna 4,U.S. Senate,,GRE,Robin Laverne Wilson,2
 Jefferson,Wilna 5,U.S. Senate,,GRE,Robin Laverne Wilson,10
 Jefferson,Worth 1,U.S. Senate,,GRE,Robin Laverne Wilson,0
-Jefferson,12/1,U.S. Senate,,LIB,Alex Merced,4
-Jefferson,12/2,U.S. Senate,,LIB,Alex Merced,6
-Jefferson,12/3,U.S. Senate,,LIB,Alex Merced,6
+Jefferson,12//1,U.S. Senate,,LIB,Alex Merced,4
+Jefferson,12//2,U.S. Senate,,LIB,Alex Merced,6
+Jefferson,12//3,U.S. Senate,,LIB,Alex Merced,6
 Jefferson,13/1,U.S. Senate,,LIB,Alex Merced,9
 Jefferson,13/2,U.S. Senate,,LIB,Alex Merced,7
 Jefferson,13/3,U.S. Senate,,LIB,Alex Merced,8
@@ -1448,9 +1448,9 @@ Jefferson,Wilna 3,U.S. Senate,,LIB,Alex Merced,2
 Jefferson,Wilna 4,U.S. Senate,,LIB,Alex Merced,1
 Jefferson,Wilna 5,U.S. Senate,,LIB,Alex Merced,4
 Jefferson,Worth 1,U.S. Senate,,LIB,Alex Merced,2
-Jefferson,12/1,U.S. Senate,,,Write-ins,3
-Jefferson,12/2,U.S. Senate,,,Write-ins,0
-Jefferson,12/3,U.S. Senate,,,Write-ins,0
+Jefferson,12//1,U.S. Senate,,,Write-ins,3
+Jefferson,12//2,U.S. Senate,,,Write-ins,0
+Jefferson,12//3,U.S. Senate,,,Write-ins,0
 Jefferson,13/1,U.S. Senate,,,Write-ins,0
 Jefferson,13/2,U.S. Senate,,,Write-ins,0
 Jefferson,13/3,U.S. Senate,,,Write-ins,0
@@ -1517,9 +1517,9 @@ Jefferson,Wilna 3,U.S. Senate,,,Write-ins,0
 Jefferson,Wilna 4,U.S. Senate,,,Write-ins,0
 Jefferson,Wilna 5,U.S. Senate,,,Write-ins,0
 Jefferson,Worth 1,U.S. Senate,,,Write-ins,0
-Jefferson,12/1,U.S. Senate,,,Under Votes,55
-Jefferson,12/2,U.S. Senate,,,Under Votes,31
-Jefferson,12/3,U.S. Senate,,,Under Votes,29
+Jefferson,12//1,U.S. Senate,,,Under Votes,55
+Jefferson,12//2,U.S. Senate,,,Under Votes,31
+Jefferson,12//3,U.S. Senate,,,Under Votes,29
 Jefferson,13/1,U.S. Senate,,,Under Votes,33
 Jefferson,13/2,U.S. Senate,,,Under Votes,20
 Jefferson,13/3,U.S. Senate,,,Under Votes,32
@@ -1586,9 +1586,9 @@ Jefferson,Wilna 3,U.S. Senate,,,Under Votes,8
 Jefferson,Wilna 4,U.S. Senate,,,Under Votes,5
 Jefferson,Wilna 5,U.S. Senate,,,Under Votes,29
 Jefferson,Worth 1,U.S. Senate,,,Under Votes,11
-Jefferson,12/1,U.S. Senate,,,Over Votes,0
-Jefferson,12/2,U.S. Senate,,,Over Votes,2
-Jefferson,12/3,U.S. Senate,,,Over Votes,0
+Jefferson,12//1,U.S. Senate,,,Over Votes,0
+Jefferson,12//2,U.S. Senate,,,Over Votes,2
+Jefferson,12//3,U.S. Senate,,,Over Votes,0
 Jefferson,13/1,U.S. Senate,,,Over Votes,3
 Jefferson,13/2,U.S. Senate,,,Over Votes,0
 Jefferson,13/3,U.S. Senate,,,Over Votes,2
@@ -1655,9 +1655,9 @@ Jefferson,Wilna 3,U.S. Senate,,,Over Votes,0
 Jefferson,Wilna 4,U.S. Senate,,,Over Votes,0
 Jefferson,Wilna 5,U.S. Senate,,,Over Votes,1
 Jefferson,Worth 1,U.S. Senate,,,Over Votes,0
-Jefferson,12/1,U.S. House,21,DEM,Mike Derrick,286
-Jefferson,12/2,U.S. House,21,DEM,Mike Derrick,232
-Jefferson,12/3,U.S. House,21,DEM,Mike Derrick,205
+Jefferson,12//1,U.S. House,21,DEM,Mike Derrick,286
+Jefferson,12//2,U.S. House,21,DEM,Mike Derrick,232
+Jefferson,12//3,U.S. House,21,DEM,Mike Derrick,205
 Jefferson,13/1,U.S. House,21,DEM,Mike Derrick,225
 Jefferson,13/2,U.S. House,21,DEM,Mike Derrick,200
 Jefferson,13/3,U.S. House,21,DEM,Mike Derrick,158
@@ -1724,9 +1724,9 @@ Jefferson,Wilna 3,U.S. House,21,DEM,Mike Derrick,15
 Jefferson,Wilna 4,U.S. House,21,DEM,Mike Derrick,30
 Jefferson,Wilna 5,U.S. House,21,DEM,Mike Derrick,81
 Jefferson,Worth 1,U.S. House,21,DEM,Mike Derrick,13
-Jefferson,12/1,U.S. House,21,WF,Mike Derrick,14
-Jefferson,12/2,U.S. House,21,WF,Mike Derrick,19
-Jefferson,12/3,U.S. House,21,WF,Mike Derrick,9
+Jefferson,12//1,U.S. House,21,WF,Mike Derrick,14
+Jefferson,12//2,U.S. House,21,WF,Mike Derrick,19
+Jefferson,12//3,U.S. House,21,WF,Mike Derrick,9
 Jefferson,13/1,U.S. House,21,WF,Mike Derrick,20
 Jefferson,13/2,U.S. House,21,WF,Mike Derrick,13
 Jefferson,13/3,U.S. House,21,WF,Mike Derrick,17
@@ -1793,9 +1793,9 @@ Jefferson,Wilna 3,U.S. House,21,WF,Mike Derrick,1
 Jefferson,Wilna 4,U.S. House,21,WF,Mike Derrick,2
 Jefferson,Wilna 5,U.S. House,21,WF,Mike Derrick,6
 Jefferson,Worth 1,U.S. House,21,WF,Mike Derrick,0
-Jefferson,12/1,U.S. House,21,REP,Elise M. Stefanik,527
-Jefferson,12/2,U.S. House,21,REP,Elise M. Stefanik,422
-Jefferson,12/3,U.S. House,21,REP,Elise M. Stefanik,407
+Jefferson,12//1,U.S. House,21,REP,Elise M. Stefanik,527
+Jefferson,12//2,U.S. House,21,REP,Elise M. Stefanik,422
+Jefferson,12//3,U.S. House,21,REP,Elise M. Stefanik,407
 Jefferson,13/1,U.S. House,21,REP,Elise M. Stefanik,366
 Jefferson,13/2,U.S. House,21,REP,Elise M. Stefanik,448
 Jefferson,13/3,U.S. House,21,REP,Elise M. Stefanik,291
@@ -1862,9 +1862,9 @@ Jefferson,Wilna 3,U.S. House,21,REP,Elise M. Stefanik,61
 Jefferson,Wilna 4,U.S. House,21,REP,Elise M. Stefanik,144
 Jefferson,Wilna 5,U.S. House,21,REP,Elise M. Stefanik,345
 Jefferson,Worth 1,U.S. House,21,REP,Elise M. Stefanik,92
-Jefferson,12/1,U.S. House,21,CON,Elise M. Stefanik,49
-Jefferson,12/2,U.S. House,21,CON,Elise M. Stefanik,36
-Jefferson,12/3,U.S. House,21,CON,Elise M. Stefanik,33
+Jefferson,12//1,U.S. House,21,CON,Elise M. Stefanik,49
+Jefferson,12//2,U.S. House,21,CON,Elise M. Stefanik,36
+Jefferson,12//3,U.S. House,21,CON,Elise M. Stefanik,33
 Jefferson,13/1,U.S. House,21,CON,Elise M. Stefanik,48
 Jefferson,13/2,U.S. House,21,CON,Elise M. Stefanik,41
 Jefferson,13/3,U.S. House,21,CON,Elise M. Stefanik,24
@@ -1931,9 +1931,9 @@ Jefferson,Wilna 3,U.S. House,21,CON,Elise M. Stefanik,2
 Jefferson,Wilna 4,U.S. House,21,CON,Elise M. Stefanik,22
 Jefferson,Wilna 5,U.S. House,21,CON,Elise M. Stefanik,29
 Jefferson,Worth 1,U.S. House,21,CON,Elise M. Stefanik,7
-Jefferson,12/1,U.S. House,21,IND,Elise M. Stefanik,33
-Jefferson,12/2,U.S. House,21,IND,Elise M. Stefanik,30
-Jefferson,12/3,U.S. House,21,IND,Elise M. Stefanik,20
+Jefferson,12//1,U.S. House,21,IND,Elise M. Stefanik,33
+Jefferson,12//2,U.S. House,21,IND,Elise M. Stefanik,30
+Jefferson,12//3,U.S. House,21,IND,Elise M. Stefanik,20
 Jefferson,13/1,U.S. House,21,IND,Elise M. Stefanik,46
 Jefferson,13/2,U.S. House,21,IND,Elise M. Stefanik,40
 Jefferson,13/3,U.S. House,21,IND,Elise M. Stefanik,22
@@ -2000,9 +2000,9 @@ Jefferson,Wilna 3,U.S. House,21,IND,Elise M. Stefanik,2
 Jefferson,Wilna 4,U.S. House,21,IND,Elise M. Stefanik,8
 Jefferson,Wilna 5,U.S. House,21,IND,Elise M. Stefanik,11
 Jefferson,Worth 1,U.S. House,21,IND,Elise M. Stefanik,2
-Jefferson,12/1,U.S. House,21,REF,Elise M. Stefanik,3
-Jefferson,12/2,U.S. House,21,REF,Elise M. Stefanik,3
-Jefferson,12/3,U.S. House,21,REF,Elise M. Stefanik,2
+Jefferson,12//1,U.S. House,21,REF,Elise M. Stefanik,3
+Jefferson,12//2,U.S. House,21,REF,Elise M. Stefanik,3
+Jefferson,12//3,U.S. House,21,REF,Elise M. Stefanik,2
 Jefferson,13/1,U.S. House,21,REF,Elise M. Stefanik,4
 Jefferson,13/2,U.S. House,21,REF,Elise M. Stefanik,2
 Jefferson,13/3,U.S. House,21,REF,Elise M. Stefanik,3
@@ -2069,9 +2069,9 @@ Jefferson,Wilna 3,U.S. House,21,REF,Elise M. Stefanik,1
 Jefferson,Wilna 4,U.S. House,21,REF,Elise M. Stefanik,0
 Jefferson,Wilna 5,U.S. House,21,REF,Elise M. Stefanik,3
 Jefferson,Worth 1,U.S. House,21,REF,Elise M. Stefanik,3
-Jefferson,12/1,U.S. House,21,GRE,Matthew J. Funiciello,38
-Jefferson,12/2,U.S. House,21,GRE,Matthew J. Funiciello,51
-Jefferson,12/3,U.S. House,21,GRE,Matthew J. Funiciello,28
+Jefferson,12//1,U.S. House,21,GRE,Matthew J. Funiciello,38
+Jefferson,12//2,U.S. House,21,GRE,Matthew J. Funiciello,51
+Jefferson,12//3,U.S. House,21,GRE,Matthew J. Funiciello,28
 Jefferson,13/1,U.S. House,21,GRE,Matthew J. Funiciello,41
 Jefferson,13/2,U.S. House,21,GRE,Matthew J. Funiciello,41
 Jefferson,13/3,U.S. House,21,GRE,Matthew J. Funiciello,28
@@ -2138,9 +2138,9 @@ Jefferson,Wilna 3,U.S. House,21,GRE,Matthew J. Funiciello,5
 Jefferson,Wilna 4,U.S. House,21,GRE,Matthew J. Funiciello,6
 Jefferson,Wilna 5,U.S. House,21,GRE,Matthew J. Funiciello,20
 Jefferson,Worth 1,U.S. House,21,GRE,Matthew J. Funiciello,4
-Jefferson,12/1,U.S. House,21,,Write-ins,4
-Jefferson,12/2,U.S. House,21,,Write-ins,0
-Jefferson,12/3,U.S. House,21,,Write-ins,0
+Jefferson,12//1,U.S. House,21,,Write-ins,4
+Jefferson,12//2,U.S. House,21,,Write-ins,0
+Jefferson,12//3,U.S. House,21,,Write-ins,0
 Jefferson,13/1,U.S. House,21,,Write-ins,0
 Jefferson,13/2,U.S. House,21,,Write-ins,0
 Jefferson,13/3,U.S. House,21,,Write-ins,0
@@ -2207,9 +2207,9 @@ Jefferson,Wilna 3,U.S. House,21,,Write-ins,0
 Jefferson,Wilna 4,U.S. House,21,,Write-ins,0
 Jefferson,Wilna 5,U.S. House,21,,Write-ins,0
 Jefferson,Worth 1,U.S. House,21,,Write-ins,0
-Jefferson,12/1,U.S. House,21,,Under Votes,42
-Jefferson,12/2,U.S. House,21,,Under Votes,26
-Jefferson,12/3,U.S. House,21,,Under Votes,22
+Jefferson,12//1,U.S. House,21,,Under Votes,42
+Jefferson,12//2,U.S. House,21,,Under Votes,26
+Jefferson,12//3,U.S. House,21,,Under Votes,22
 Jefferson,13/1,U.S. House,21,,Under Votes,27
 Jefferson,13/2,U.S. House,21,,Under Votes,22
 Jefferson,13/3,U.S. House,21,,Under Votes,24
@@ -2276,9 +2276,9 @@ Jefferson,Wilna 3,U.S. House,21,,Under Votes,6
 Jefferson,Wilna 4,U.S. House,21,,Under Votes,4
 Jefferson,Wilna 5,U.S. House,21,,Under Votes,16
 Jefferson,Worth 1,U.S. House,21,,Under Votes,8
-Jefferson,12/1,U.S. House,21,,Over Votes,6
-Jefferson,12/2,U.S. House,21,,Over Votes,0
-Jefferson,12/3,U.S. House,21,,Over Votes,0
+Jefferson,12//1,U.S. House,21,,Over Votes,6
+Jefferson,12//2,U.S. House,21,,Over Votes,0
+Jefferson,12//3,U.S. House,21,,Over Votes,0
 Jefferson,13/1,U.S. House,21,,Over Votes,2
 Jefferson,13/2,U.S. House,21,,Over Votes,2
 Jefferson,13/3,U.S. House,21,,Over Votes,3
@@ -2345,9 +2345,9 @@ Jefferson,Wilna 3,U.S. House,21,,Over Votes,0
 Jefferson,Wilna 4,U.S. House,21,,Over Votes,0
 Jefferson,Wilna 5,U.S. House,21,,Over Votes,1
 Jefferson,Worth 1,U.S. House,21,,Over Votes,0
-Jefferson,12/1,State Senate,48,REP,Patricia A. Ritchie,601
-Jefferson,12/2,State Senate,48,REP,Patricia A. Ritchie,466
-Jefferson,12/3,State Senate,48,REP,Patricia A. Ritchie,477
+Jefferson,12//1,State Senate,48,REP,Patricia A. Ritchie,601
+Jefferson,12//2,State Senate,48,REP,Patricia A. Ritchie,466
+Jefferson,12//3,State Senate,48,REP,Patricia A. Ritchie,477
 Jefferson,13/1,State Senate,48,REP,Patricia A. Ritchie,424
 Jefferson,13/2,State Senate,48,REP,Patricia A. Ritchie,531
 Jefferson,13/3,State Senate,48,REP,Patricia A. Ritchie,343
@@ -2414,9 +2414,9 @@ Jefferson,Wilna 3,State Senate,48,REP,Patricia A. Ritchie,67
 Jefferson,Wilna 4,State Senate,48,REP,Patricia A. Ritchie,155
 Jefferson,Wilna 5,State Senate,48,REP,Patricia A. Ritchie,368
 Jefferson,Worth 1,State Senate,48,REP,Patricia A. Ritchie,87
-Jefferson,12/1,State Senate,48,CON,Patricia A. Ritchie,62
-Jefferson,12/2,State Senate,48,CON,Patricia A. Ritchie,61
-Jefferson,12/3,State Senate,48,CON,Patricia A. Ritchie,34
+Jefferson,12//1,State Senate,48,CON,Patricia A. Ritchie,62
+Jefferson,12//2,State Senate,48,CON,Patricia A. Ritchie,61
+Jefferson,12//3,State Senate,48,CON,Patricia A. Ritchie,34
 Jefferson,13/1,State Senate,48,CON,Patricia A. Ritchie,72
 Jefferson,13/2,State Senate,48,CON,Patricia A. Ritchie,53
 Jefferson,13/3,State Senate,48,CON,Patricia A. Ritchie,31
@@ -2483,9 +2483,9 @@ Jefferson,Wilna 3,State Senate,48,CON,Patricia A. Ritchie,4
 Jefferson,Wilna 4,State Senate,48,CON,Patricia A. Ritchie,22
 Jefferson,Wilna 5,State Senate,48,CON,Patricia A. Ritchie,33
 Jefferson,Worth 1,State Senate,48,CON,Patricia A. Ritchie,10
-Jefferson,12/1,State Senate,48,IND,Patricia A. Ritchie,79
-Jefferson,12/2,State Senate,48,IND,Patricia A. Ritchie,70
-Jefferson,12/3,State Senate,48,IND,Patricia A. Ritchie,53
+Jefferson,12//1,State Senate,48,IND,Patricia A. Ritchie,79
+Jefferson,12//2,State Senate,48,IND,Patricia A. Ritchie,70
+Jefferson,12//3,State Senate,48,IND,Patricia A. Ritchie,53
 Jefferson,13/1,State Senate,48,IND,Patricia A. Ritchie,80
 Jefferson,13/2,State Senate,48,IND,Patricia A. Ritchie,81
 Jefferson,13/3,State Senate,48,IND,Patricia A. Ritchie,58
@@ -2552,9 +2552,9 @@ Jefferson,Wilna 3,State Senate,48,IND,Patricia A. Ritchie,4
 Jefferson,Wilna 4,State Senate,48,IND,Patricia A. Ritchie,13
 Jefferson,Wilna 5,State Senate,48,IND,Patricia A. Ritchie,23
 Jefferson,Worth 1,State Senate,48,IND,Patricia A. Ritchie,3
-Jefferson,12/1,State Senate,48,REF,Patricia A. Ritchie,8
-Jefferson,12/2,State Senate,48,REF,Patricia A. Ritchie,11
-Jefferson,12/3,State Senate,48,REF,Patricia A. Ritchie,5
+Jefferson,12//1,State Senate,48,REF,Patricia A. Ritchie,8
+Jefferson,12//2,State Senate,48,REF,Patricia A. Ritchie,11
+Jefferson,12//3,State Senate,48,REF,Patricia A. Ritchie,5
 Jefferson,13/1,State Senate,48,REF,Patricia A. Ritchie,14
 Jefferson,13/2,State Senate,48,REF,Patricia A. Ritchie,5
 Jefferson,13/3,State Senate,48,REF,Patricia A. Ritchie,10
@@ -2621,9 +2621,9 @@ Jefferson,Wilna 3,State Senate,48,REF,Patricia A. Ritchie,1
 Jefferson,Wilna 4,State Senate,48,REF,Patricia A. Ritchie,2
 Jefferson,Wilna 5,State Senate,48,REF,Patricia A. Ritchie,1
 Jefferson,Worth 1,State Senate,48,REF,Patricia A. Ritchie,0
-Jefferson,12/1,State Senate,48,,Write-ins,7
-Jefferson,12/2,State Senate,48,,Write-ins,6
-Jefferson,12/3,State Senate,48,,Write-ins,5
+Jefferson,12//1,State Senate,48,,Write-ins,7
+Jefferson,12//2,State Senate,48,,Write-ins,6
+Jefferson,12//3,State Senate,48,,Write-ins,5
 Jefferson,13/1,State Senate,48,,Write-ins,6
 Jefferson,13/2,State Senate,48,,Write-ins,3
 Jefferson,13/3,State Senate,48,,Write-ins,2
@@ -2690,9 +2690,9 @@ Jefferson,Wilna 3,State Senate,48,,Write-ins,0
 Jefferson,Wilna 4,State Senate,48,,Write-ins,1
 Jefferson,Wilna 5,State Senate,48,,Write-ins,0
 Jefferson,Worth 1,State Senate,48,,Write-ins,0
-Jefferson,12/1,State Senate,48,,Under Votes,245
-Jefferson,12/2,State Senate,48,,Under Votes,195
-Jefferson,12/3,State Senate,48,,Under Votes,149
+Jefferson,12//1,State Senate,48,,Under Votes,245
+Jefferson,12//2,State Senate,48,,Under Votes,195
+Jefferson,12//3,State Senate,48,,Under Votes,149
 Jefferson,13/1,State Senate,48,,Under Votes,183
 Jefferson,13/2,State Senate,48,,Under Votes,136
 Jefferson,13/3,State Senate,48,,Under Votes,126
@@ -2759,9 +2759,9 @@ Jefferson,Wilna 3,State Senate,48,,Under Votes,17
 Jefferson,Wilna 4,State Senate,48,,Under Votes,23
 Jefferson,Wilna 5,State Senate,48,,Under Votes,87
 Jefferson,Worth 1,State Senate,48,,Under Votes,29
-Jefferson,12/1,State Senate,48,,Over Votes,0
-Jefferson,12/2,State Senate,48,,Over Votes,1
-Jefferson,12/3,State Senate,48,,Over Votes,0
+Jefferson,12//1,State Senate,48,,Over Votes,0
+Jefferson,12//2,State Senate,48,,Over Votes,1
+Jefferson,12//3,State Senate,48,,Over Votes,0
 Jefferson,13/1,State Senate,48,,Over Votes,1
 Jefferson,13/2,State Senate,48,,Over Votes,0
 Jefferson,13/3,State Senate,48,,Over Votes,2
@@ -2828,9 +2828,9 @@ Jefferson,Wilna 3,State Senate,48,,Over Votes,0
 Jefferson,Wilna 4,State Senate,48,,Over Votes,0
 Jefferson,Wilna 5,State Senate,48,,Over Votes,1
 Jefferson,Worth 1,State Senate,48,,Over Votes,0
-Jefferson,12/1,State Assembly,116,DEM,Addie Jenne Russell,485
-Jefferson,12/2,State Assembly,116,DEM,Addie Jenne Russell,388
-Jefferson,12/3,State Assembly,116,DEM,Addie Jenne Russell,353
+Jefferson,12//1,State Assembly,116,DEM,Addie Jenne Russell,485
+Jefferson,12//2,State Assembly,116,DEM,Addie Jenne Russell,388
+Jefferson,12//3,State Assembly,116,DEM,Addie Jenne Russell,353
 Jefferson,13/1,State Assembly,116,DEM,Addie Jenne Russell,362
 Jefferson,13/2,State Assembly,116,DEM,Addie Jenne Russell,425
 Jefferson,13/3,State Assembly,116,DEM,Addie Jenne Russell,264
@@ -2866,9 +2866,9 @@ Jefferson,Pamelia 2,State Assembly,116,DEM,Addie Jenne Russell,279
 Jefferson,Philadelphia 1,State Assembly,116,DEM,Addie Jenne Russell,136
 Jefferson,Philadelphia 2,State Assembly,116,DEM,Addie Jenne Russell,133
 Jefferson,Theresa 1,State Assembly,116,DEM,Addie Jenne Russell,443
-Jefferson,12/1,State Assembly,116,WF,Addie Jenne Russell,40
-Jefferson,12/2,State Assembly,116,WF,Addie Jenne Russell,37
-Jefferson,12/3,State Assembly,116,WF,Addie Jenne Russell,19
+Jefferson,12//1,State Assembly,116,WF,Addie Jenne Russell,40
+Jefferson,12//2,State Assembly,116,WF,Addie Jenne Russell,37
+Jefferson,12//3,State Assembly,116,WF,Addie Jenne Russell,19
 Jefferson,13/1,State Assembly,116,WF,Addie Jenne Russell,45
 Jefferson,13/2,State Assembly,116,WF,Addie Jenne Russell,37
 Jefferson,13/3,State Assembly,116,WF,Addie Jenne Russell,29
@@ -2904,9 +2904,9 @@ Jefferson,Pamelia 2,State Assembly,116,WF,Addie Jenne Russell,35
 Jefferson,Philadelphia 1,State Assembly,116,WF,Addie Jenne Russell,24
 Jefferson,Philadelphia 2,State Assembly,116,WF,Addie Jenne Russell,21
 Jefferson,Theresa 1,State Assembly,116,WF,Addie Jenne Russell,54
-Jefferson,12/1,State Assembly,116,REP,John Byrne,365
-Jefferson,12/2,State Assembly,116,REP,John Byrne,302
-Jefferson,12/3,State Assembly,116,REP,John Byrne,288
+Jefferson,12//1,State Assembly,116,REP,John Byrne,365
+Jefferson,12//2,State Assembly,116,REP,John Byrne,302
+Jefferson,12//3,State Assembly,116,REP,John Byrne,288
 Jefferson,13/1,State Assembly,116,REP,John Byrne,265
 Jefferson,13/2,State Assembly,116,REP,John Byrne,267
 Jefferson,13/3,State Assembly,116,REP,John Byrne,213
@@ -2942,9 +2942,9 @@ Jefferson,Pamelia 2,State Assembly,116,REP,John Byrne,275
 Jefferson,Philadelphia 1,State Assembly,116,REP,John Byrne,133
 Jefferson,Philadelphia 2,State Assembly,116,REP,John Byrne,129
 Jefferson,Theresa 1,State Assembly,116,REP,John Byrne,468
-Jefferson,12/1,State Assembly,116,CON,John Byrne,36
-Jefferson,12/2,State Assembly,116,CON,John Byrne,38
-Jefferson,12/3,State Assembly,116,CON,John Byrne,22
+Jefferson,12//1,State Assembly,116,CON,John Byrne,36
+Jefferson,12//2,State Assembly,116,CON,John Byrne,38
+Jefferson,12//3,State Assembly,116,CON,John Byrne,22
 Jefferson,13/1,State Assembly,116,CON,John Byrne,43
 Jefferson,13/2,State Assembly,116,CON,John Byrne,38
 Jefferson,13/3,State Assembly,116,CON,John Byrne,22
@@ -2980,9 +2980,9 @@ Jefferson,Pamelia 2,State Assembly,116,CON,John Byrne,29
 Jefferson,Philadelphia 1,State Assembly,116,CON,John Byrne,12
 Jefferson,Philadelphia 2,State Assembly,116,CON,John Byrne,11
 Jefferson,Theresa 1,State Assembly,116,CON,John Byrne,46
-Jefferson,12/1,State Assembly,116,IND,John Byrne,15
-Jefferson,12/2,State Assembly,116,IND,John Byrne,21
-Jefferson,12/3,State Assembly,116,IND,John Byrne,17
+Jefferson,12//1,State Assembly,116,IND,John Byrne,15
+Jefferson,12//2,State Assembly,116,IND,John Byrne,21
+Jefferson,12//3,State Assembly,116,IND,John Byrne,17
 Jefferson,13/1,State Assembly,116,IND,John Byrne,23
 Jefferson,13/2,State Assembly,116,IND,John Byrne,18
 Jefferson,13/3,State Assembly,116,IND,John Byrne,9
@@ -3018,9 +3018,9 @@ Jefferson,Pamelia 2,State Assembly,116,IND,John Byrne,16
 Jefferson,Philadelphia 1,State Assembly,116,IND,John Byrne,8
 Jefferson,Philadelphia 2,State Assembly,116,IND,John Byrne,9
 Jefferson,Theresa 1,State Assembly,116,IND,John Byrne,22
-Jefferson,12/1,State Assembly,116,REF,John Byrne,2
-Jefferson,12/2,State Assembly,116,REF,John Byrne,3
-Jefferson,12/3,State Assembly,116,REF,John Byrne,4
+Jefferson,12//1,State Assembly,116,REF,John Byrne,2
+Jefferson,12//2,State Assembly,116,REF,John Byrne,3
+Jefferson,12//3,State Assembly,116,REF,John Byrne,4
 Jefferson,13/1,State Assembly,116,REF,John Byrne,4
 Jefferson,13/2,State Assembly,116,REF,John Byrne,0
 Jefferson,13/3,State Assembly,116,REF,John Byrne,2
@@ -3056,9 +3056,9 @@ Jefferson,Pamelia 2,State Assembly,116,REF,John Byrne,0
 Jefferson,Philadelphia 1,State Assembly,116,REF,John Byrne,1
 Jefferson,Philadelphia 2,State Assembly,116,REF,John Byrne,1
 Jefferson,Theresa 1,State Assembly,116,REF,John Byrne,3
-Jefferson,12/1,State Assembly,116,,Write-ins,3
-Jefferson,12/2,State Assembly,116,,Write-ins,1
-Jefferson,12/3,State Assembly,116,,Write-ins,0
+Jefferson,12//1,State Assembly,116,,Write-ins,3
+Jefferson,12//2,State Assembly,116,,Write-ins,1
+Jefferson,12//3,State Assembly,116,,Write-ins,0
 Jefferson,13/1,State Assembly,116,,Write-ins,0
 Jefferson,13/2,State Assembly,116,,Write-ins,1
 Jefferson,13/3,State Assembly,116,,Write-ins,0
@@ -3094,9 +3094,9 @@ Jefferson,Pamelia 2,State Assembly,116,,Write-ins,0
 Jefferson,Philadelphia 1,State Assembly,116,,Write-ins,2
 Jefferson,Philadelphia 2,State Assembly,116,,Write-ins,2
 Jefferson,Theresa 1,State Assembly,116,,Write-ins,0
-Jefferson,12/1,State Assembly,116,,Under Votes,54
-Jefferson,12/2,State Assembly,116,,Under Votes,19
-Jefferson,12/3,State Assembly,116,,Under Votes,19
+Jefferson,12//1,State Assembly,116,,Under Votes,54
+Jefferson,12//2,State Assembly,116,,Under Votes,19
+Jefferson,12//3,State Assembly,116,,Under Votes,19
 Jefferson,13/1,State Assembly,116,,Under Votes,35
 Jefferson,13/2,State Assembly,116,,Under Votes,22
 Jefferson,13/3,State Assembly,116,,Under Votes,29
@@ -3132,9 +3132,9 @@ Jefferson,Pamelia 2,State Assembly,116,,Under Votes,25
 Jefferson,Philadelphia 1,State Assembly,116,,Under Votes,11
 Jefferson,Philadelphia 2,State Assembly,116,,Under Votes,12
 Jefferson,Theresa 1,State Assembly,116,,Under Votes,28
-Jefferson,12/1,State Assembly,116,,Over Votes,2
-Jefferson,12/2,State Assembly,116,,Over Votes,0
-Jefferson,12/3,State Assembly,116,,Over Votes,1
+Jefferson,12//1,State Assembly,116,,Over Votes,2
+Jefferson,12//2,State Assembly,116,,Over Votes,0
+Jefferson,12//3,State Assembly,116,,Over Votes,1
 Jefferson,13/1,State Assembly,116,,Over Votes,2
 Jefferson,13/2,State Assembly,116,,Over Votes,1
 Jefferson,13/3,State Assembly,116,,Over Votes,2

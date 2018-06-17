@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes,ElectionDayVotes,AbsenteeAffidavit
+county,precinct,office,district,party,candidate,votes,election_day,absentee
 Columbia,Stockport-1,State House,102,,Blanks,152,133,19
 Columbia,Stockport-2,State House,102,,Blanks,187,165,22
 Columbia,Stuyvesant-1,State House,102,,Blanks,143,135,8
