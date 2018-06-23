@@ -1201,7 +1201,6 @@ Nassau,HE 22 102,President,,DEM,Hillary Clinton,118
 Nassau,HE 22 103,President,,DEM,Hillary Clinton,17
 Nassau,HE 22 104,President,,DEM,Hillary Clinton,93
 Nassau,HE 22 105,President,,DEM,Hillary Clinton,1
-Nassau,Total,President,,DEM,Hillary Clinton,324212
 Nassau,OB 09 001,President,,REP,Donald Trump,666
 Nassau,OB 09 002,President,,REP,Donald Trump,500
 Nassau,OB 09 003,President,,REP,Donald Trump,483
@@ -2404,7 +2403,6 @@ Nassau,HE 22 102,President,,REP,Donald Trump,96
 Nassau,HE 22 103,President,,REP,Donald Trump,25
 Nassau,HE 22 104,President,,REP,Donald Trump,118
 Nassau,HE 22 105,President,,REP,Donald Trump,0
-Nassau,Total,President,,REP,Donald Trump,272873
 Nassau,OB 09 001,President,,CON,Donald Trump,34
 Nassau,OB 09 002,President,,CON,Donald Trump,24
 Nassau,OB 09 003,President,,CON,Donald Trump,26
@@ -3607,7 +3605,6 @@ Nassau,HE 22 102,President,,CON,Donald Trump,3
 Nassau,HE 22 103,President,,CON,Donald Trump,3
 Nassau,HE 22 104,President,,CON,Donald Trump,3
 Nassau,HE 22 105,President,,CON,Donald Trump,0
-Nassau,Total,President,,CON,Donald Trump,19152
 Nassau,OB 09 001,President,,GRN,Jill Stein,5
 Nassau,OB 09 002,President,,GRN,Jill Stein,5
 Nassau,OB 09 003,President,,GRN,Jill Stein,3
@@ -4810,7 +4807,6 @@ Nassau,HE 22 102,President,,GRN,Jill Stein,1
 Nassau,HE 22 103,President,,GRN,Jill Stein,1
 Nassau,HE 22 104,President,,GRN,Jill Stein,0
 Nassau,HE 22 105,President,,GRN,Jill Stein,0
-Nassau,Total,President,,GRN,Jill Stein,6734
 Nassau,OB 09 001,President,,WOR,Hillary Clinton,7
 Nassau,OB 09 002,President,,WOR,Hillary Clinton,3
 Nassau,OB 09 003,President,,WOR,Hillary Clinton,6
@@ -6013,7 +6009,6 @@ Nassau,HE 22 102,President,,WOR,Hillary Clinton,0
 Nassau,HE 22 103,President,,WOR,Hillary Clinton,2
 Nassau,HE 22 104,President,,WOR,Hillary Clinton,0
 Nassau,HE 22 105,President,,WOR,Hillary Clinton,0
-Nassau,Total,President,,WOR,Hillary Clinton,5671
 Nassau,OB 09 001,President,,IDC,Gary Johnson,6
 Nassau,OB 09 002,President,,IDC,Gary Johnson,7
 Nassau,OB 09 003,President,,IDC,Gary Johnson,10
@@ -7216,7 +7211,6 @@ Nassau,HE 22 102,President,,IDC,Gary Johnson,2
 Nassau,HE 22 103,President,,IDC,Gary Johnson,2
 Nassau,HE 22 104,President,,IDC,Gary Johnson,1
 Nassau,HE 22 105,President,,IDC,Gary Johnson,0
-Nassau,Total,President,,IDC,Gary Johnson,7195
 Nassau,OB 09 001,President,,WEP,Hillary Clinton,3
 Nassau,OB 09 002,President,,WEP,Hillary Clinton,1
 Nassau,OB 09 003,President,,WEP,Hillary Clinton,2
@@ -8419,7 +8413,6 @@ Nassau,HE 22 102,President,,WEP,Hillary Clinton,0
 Nassau,HE 22 103,President,,WEP,Hillary Clinton,0
 Nassau,HE 22 104,President,,WEP,Hillary Clinton,1
 Nassau,HE 22 105,President,,WEP,Hillary Clinton,0
-Nassau,Total,President,,WEP,Hillary Clinton,2271
 Nassau,OB 09 001,President,,LBT,Gary Johnson,7
 Nassau,OB 09 002,President,,LBT,Gary Johnson,2
 Nassau,OB 09 003,President,,LBT,Gary Johnson,4
@@ -9622,7 +9615,6 @@ Nassau,HE 22 102,President,,LBT,Gary Johnson,0
 Nassau,HE 22 103,President,,LBT,Gary Johnson,2
 Nassau,HE 22 104,President,,LBT,Gary Johnson,1
 Nassau,HE 22 105,President,,LBT,Gary Johnson,0
-Nassau,Total,President,,LBT,Gary Johnson,4142
 Nassau,OB 09 001,President,,,write-in,1
 Nassau,OB 09 002,President,,,write-in,1
 Nassau,OB 09 003,President,,,write-in,5
@@ -10825,7 +10817,6 @@ Nassau,HE 22 102,President,,,write-in,1
 Nassau,HE 22 103,President,,,write-in,1
 Nassau,HE 22 104,President,,,write-in,1
 Nassau,HE 22 105,President,,,write-in,0
-Nassau,Total,President,,,write-in,4872
 Nassau,OB 09 001,U.S. Senate,,DEM,Charles Schumer,386
 Nassau,OB 09 002,U.S. Senate,,DEM,Charles Schumer,292
 Nassau,OB 09 003,U.S. Senate,,DEM,Charles Schumer,322
@@ -12028,7 +12019,6 @@ Nassau,HE 22 102,U.S. Senate,,DEM,Charles Schumer,152
 Nassau,HE 22 103,U.S. Senate,,DEM,Charles Schumer,23
 Nassau,HE 22 104,U.S. Senate,,DEM,Charles Schumer,108
 Nassau,HE 22 105,U.S. Senate,,DEM,Charles Schumer,1
-Nassau,Total,U.S. Senate,,DEM,Charles Schumer,378815
 Nassau,OB 09 001,U.S. Senate,,WOR,Charles Schumer,18
 Nassau,OB 09 002,U.S. Senate,,WOR,Charles Schumer,17
 Nassau,OB 09 003,U.S. Senate,,WOR,Charles Schumer,18
@@ -13231,7 +13221,6 @@ Nassau,HE 22 102,U.S. Senate,,WOR,Charles Schumer,1
 Nassau,HE 22 103,U.S. Senate,,WOR,Charles Schumer,3
 Nassau,HE 22 104,U.S. Senate,,WOR,Charles Schumer,3
 Nassau,HE 22 105,U.S. Senate,,WOR,Charles Schumer,0
-Nassau,Total,U.S. Senate,,WOR,Charles Schumer,12754
 Nassau,OB 09 001,U.S. Senate,,IDC,Charles Schumer,11
 Nassau,OB 09 002,U.S. Senate,,IDC,Charles Schumer,11
 Nassau,OB 09 003,U.S. Senate,,IDC,Charles Schumer,7
@@ -14434,7 +14423,6 @@ Nassau,HE 22 102,U.S. Senate,,IDC,Charles Schumer,0
 Nassau,HE 22 103,U.S. Senate,,IDC,Charles Schumer,1
 Nassau,HE 22 104,U.S. Senate,,IDC,Charles Schumer,1
 Nassau,HE 22 105,U.S. Senate,,IDC,Charles Schumer,0
-Nassau,Total,U.S. Senate,,IDC,Charles Schumer,8240
 Nassau,OB 09 001,U.S. Senate,,WEP,Charles Schumer,8
 Nassau,OB 09 002,U.S. Senate,,WEP,Charles Schumer,2
 Nassau,OB 09 003,U.S. Senate,,WEP,Charles Schumer,4
@@ -15637,7 +15625,6 @@ Nassau,HE 22 102,U.S. Senate,,WEP,Charles Schumer,0
 Nassau,HE 22 103,U.S. Senate,,WEP,Charles Schumer,0
 Nassau,HE 22 104,U.S. Senate,,WEP,Charles Schumer,1
 Nassau,HE 22 105,U.S. Senate,,WEP,Charles Schumer,0
-Nassau,Total,U.S. Senate,,WEP,Charles Schumer,3465
 Nassau,OB 09 001,U.S. Senate,,REP,Wendy Ross,467
 Nassau,OB 09 002,U.S. Senate,,REP,Wendy Ross,345
 Nassau,OB 09 003,U.S. Senate,,REP,Wendy Ross,339
@@ -16840,7 +16827,6 @@ Nassau,HE 22 102,U.S. Senate,,REP,Wendy Ross,63
 Nassau,HE 22 103,U.S. Senate,,REP,Wendy Ross,21
 Nassau,HE 22 104,U.S. Senate,,REP,Wendy Ross,80
 Nassau,HE 22 105,U.S. Senate,,REP,Wendy Ross,0
-Nassau,Total,U.S. Senate,,REP,Wendy Ross,190331
 Nassau,OB 09 001,U.S. Senate,,CON,Wendy Ross,31
 Nassau,OB 09 002,U.S. Senate,,CON,Wendy Ross,25
 Nassau,OB 09 003,U.S. Senate,,CON,Wendy Ross,25
@@ -18043,7 +18029,6 @@ Nassau,HE 22 102,U.S. Senate,,CON,Wendy Ross,2
 Nassau,HE 22 103,U.S. Senate,,CON,Wendy Ross,2
 Nassau,HE 22 104,U.S. Senate,,CON,Wendy Ross,4
 Nassau,HE 22 105,U.S. Senate,,CON,Wendy Ross,0
-Nassau,Total,U.S. Senate,,CON,Wendy Ross,19679
 Nassau,OB 09 001,U.S. Senate,,REF,Wendy Ross,2
 Nassau,OB 09 002,U.S. Senate,,REF,Wendy Ross,0
 Nassau,OB 09 003,U.S. Senate,,REF,Wendy Ross,0
@@ -19246,7 +19231,6 @@ Nassau,HE 22 102,U.S. Senate,,REF,Wendy Ross,0
 Nassau,HE 22 103,U.S. Senate,,REF,Wendy Ross,0
 Nassau,HE 22 104,U.S. Senate,,REF,Wendy Ross,0
 Nassau,HE 22 105,U.S. Senate,,REF,Wendy Ross,0
-Nassau,Total,U.S. Senate,,REF,Wendy Ross,813
 Nassau,OB 09 001,U.S. Senate,,GRN,Robin Turner,4
 Nassau,OB 09 002,U.S. Senate,,GRN,Robin Turner,1
 Nassau,OB 09 003,U.S. Senate,,GRN,Robin Turner,1
@@ -20449,7 +20433,6 @@ Nassau,HE 22 102,U.S. Senate,,GRN,Robin Turner,0
 Nassau,HE 22 103,U.S. Senate,,GRN,Robin Turner,1
 Nassau,HE 22 104,U.S. Senate,,GRN,Robin Turner,0
 Nassau,HE 22 105,U.S. Senate,,GRN,Robin Turner,0
-Nassau,Total,U.S. Senate,,GRN,Robin Turner,5676
 Nassau,OB 09 001,U.S. Senate,,LBT,Alex Merced,3
 Nassau,OB 09 002,U.S. Senate,,LBT,Alex Merced,2
 Nassau,OB 09 003,U.S. Senate,,LBT,Alex Merced,4
@@ -21652,7 +21635,6 @@ Nassau,HE 22 102,U.S. Senate,,LBT,Alex Merced,0
 Nassau,HE 22 103,U.S. Senate,,LBT,Alex Merced,2
 Nassau,HE 22 104,U.S. Senate,,LBT,Alex Merced,1
 Nassau,HE 22 105,U.S. Senate,,LBT,Alex Merced,0
-Nassau,Total,U.S. Senate,,LBT,Alex Merced,2983
 Nassau,OB 09 001,U.S. Senate,,,Scattering,0
 Nassau,OB 09 002,U.S. Senate,,,Scattering,0
 Nassau,OB 09 003,U.S. Senate,,,Scattering,0
@@ -22855,7 +22837,6 @@ Nassau,HE 22 102,U.S. Senate,,,Scattering,0
 Nassau,HE 22 103,U.S. Senate,,,Scattering,0
 Nassau,HE 22 104,U.S. Senate,,,Scattering,0
 Nassau,HE 22 105,U.S. Senate,,,Scattering,0
-Nassau,Total,U.S. Senate,,,Scattering,217
 Nassau,OB 09 001,U.S. House,2,DEM,DuWayne Gregory,148
 Nassau,OB 09 002,U.S. House,2,DEM,DuWayne Gregory,122
 Nassau,OB 09 003,U.S. House,2,DEM,DuWayne Gregory,126
@@ -23011,7 +22992,6 @@ Nassau,OB 17 039,U.S. House,2,DEM,DuWayne Gregory,103
 Nassau,OB 17 040,U.S. House,2,DEM,DuWayne Gregory,66
 Nassau,OB 17 041,U.S. House,2,DEM,DuWayne Gregory,104
 Nassau,OB 17 043,U.S. House,2,DEM,DuWayne Gregory,109
-Nassau,Total,U.S. House,2,DEM,DuWayne Gregory,21986
 Nassau,OB 09 001,U.S. House,2,WOR,DuWayne Gregory,8
 Nassau,OB 09 002,U.S. House,2,WOR,DuWayne Gregory,4
 Nassau,OB 09 003,U.S. House,2,WOR,DuWayne Gregory,6
@@ -23167,7 +23147,6 @@ Nassau,OB 17 039,U.S. House,2,WOR,DuWayne Gregory,1
 Nassau,OB 17 040,U.S. House,2,WOR,DuWayne Gregory,4
 Nassau,OB 17 041,U.S. House,2,WOR,DuWayne Gregory,4
 Nassau,OB 17 043,U.S. House,2,WOR,DuWayne Gregory,10
-Nassau,Total,U.S. House,2,WOR,DuWayne Gregory,1107
 Nassau,OB 09 001,U.S. House,2,IDC,DuWayne Gregory,4
 Nassau,OB 09 002,U.S. House,2,IDC,DuWayne Gregory,4
 Nassau,OB 09 003,U.S. House,2,IDC,DuWayne Gregory,4
@@ -23323,7 +23302,6 @@ Nassau,OB 17 039,U.S. House,2,IDC,DuWayne Gregory,4
 Nassau,OB 17 040,U.S. House,2,IDC,DuWayne Gregory,5
 Nassau,OB 17 041,U.S. House,2,IDC,DuWayne Gregory,2
 Nassau,OB 17 043,U.S. House,2,IDC,DuWayne Gregory,3
-Nassau,Total,U.S. House,2,IDC,DuWayne Gregory,627
 Nassau,OB 09 001,U.S. House,2,WEP,DuWayne Gregory,4
 Nassau,OB 09 002,U.S. House,2,WEP,DuWayne Gregory,1
 Nassau,OB 09 003,U.S. House,2,WEP,DuWayne Gregory,2
@@ -23479,7 +23457,6 @@ Nassau,OB 17 039,U.S. House,2,WEP,DuWayne Gregory,1
 Nassau,OB 17 040,U.S. House,2,WEP,DuWayne Gregory,4
 Nassau,OB 17 041,U.S. House,2,WEP,DuWayne Gregory,1
 Nassau,OB 17 043,U.S. House,2,WEP,DuWayne Gregory,4
-Nassau,Total,U.S. House,2,WEP,DuWayne Gregory,383
 Nassau,OB 09 001,U.S. House,2,REP,Peter King,704
 Nassau,OB 09 002,U.S. House,2,REP,Peter King,511
 Nassau,OB 09 003,U.S. House,2,REP,Peter King,545
@@ -23635,7 +23612,6 @@ Nassau,OB 17 039,U.S. House,2,REP,Peter King,198
 Nassau,OB 17 040,U.S. House,2,REP,Peter King,261
 Nassau,OB 17 041,U.S. House,2,REP,Peter King,235
 Nassau,OB 17 043,U.S. House,2,REP,Peter King,222
-Nassau,Total,U.S. House,2,REP,Peter King,59409
 Nassau,OB 09 001,U.S. House,2,CON,Peter King,59
 Nassau,OB 09 002,U.S. House,2,CON,Peter King,43
 Nassau,OB 09 003,U.S. House,2,CON,Peter King,42
@@ -23791,7 +23767,6 @@ Nassau,OB 17 039,U.S. House,2,CON,Peter King,20
 Nassau,OB 17 040,U.S. House,2,CON,Peter King,33
 Nassau,OB 17 041,U.S. House,2,CON,Peter King,26
 Nassau,OB 17 043,U.S. House,2,CON,Peter King,17
-Nassau,Total,U.S. House,2,CON,Peter King,6895
 Nassau,OB 09 001,U.S. House,2,REF,Peter King,7
 Nassau,OB 09 002,U.S. House,2,REF,Peter King,8
 Nassau,OB 09 003,U.S. House,2,REF,Peter King,6
@@ -23947,7 +23922,6 @@ Nassau,OB 17 039,U.S. House,2,REF,Peter King,2
 Nassau,OB 17 040,U.S. House,2,REF,Peter King,0
 Nassau,OB 17 041,U.S. House,2,REF,Peter King,5
 Nassau,OB 17 043,U.S. House,2,REF,Peter King,3
-Nassau,Total,U.S. House,2,REF,Peter King,643
 Nassau,OB 09 001,U.S. House,2,,Scattering,0
 Nassau,OB 09 002,U.S. House,2,,Scattering,0
 Nassau,OB 09 003,U.S. House,2,,Scattering,0
@@ -24103,7 +24077,6 @@ Nassau,OB 17 039,U.S. House,2,,Scattering,0
 Nassau,OB 17 040,U.S. House,2,,Scattering,0
 Nassau,OB 17 041,U.S. House,2,,Scattering,0
 Nassau,OB 17 043,U.S. House,2,,Scattering,0
-Nassau,Total,U.S. House,2,,Scattering,59
 Nassau,GC 13 001,U.S. House,3,DEM,Thomas Suozzi,214
 Nassau,GC 13 002,U.S. House,3,DEM,Thomas Suozzi,364
 Nassau,GC 13 003,U.S. House,3,DEM,Thomas Suozzi,277
@@ -24442,7 +24415,6 @@ Nassau,OB 19 007,U.S. House,3,DEM,Thomas Suozzi,367
 Nassau,OB 19 008,U.S. House,3,DEM,Thomas Suozzi,317
 Nassau,OB 19 009,U.S. House,3,DEM,Thomas Suozzi,295
 Nassau,OB 19 010,U.S. House,3,DEM,Thomas Suozzi,108
-Nassau,Total,U.S. House,3,DEM,Thomas Suozzi,86492
 Nassau,GC 13 001,U.S. House,3,REP,Jack Martins,77
 Nassau,GC 13 002,U.S. House,3,REP,Jack Martins,194
 Nassau,GC 13 003,U.S. House,3,REP,Jack Martins,81
@@ -24781,7 +24753,6 @@ Nassau,OB 19 007,U.S. House,3,REP,Jack Martins,320
 Nassau,OB 19 008,U.S. House,3,REP,Jack Martins,308
 Nassau,OB 19 009,U.S. House,3,REP,Jack Martins,399
 Nassau,OB 19 010,U.S. House,3,REP,Jack Martins,108
-Nassau,Total,U.S. House,3,REP,Jack Martins,70395
 Nassau,GC 13 001,U.S. House,3,CON,Jack Martins,9
 Nassau,GC 13 002,U.S. House,3,CON,Jack Martins,29
 Nassau,GC 13 003,U.S. House,3,CON,Jack Martins,16
@@ -25120,7 +25091,6 @@ Nassau,OB 19 007,U.S. House,3,CON,Jack Martins,35
 Nassau,OB 19 008,U.S. House,3,CON,Jack Martins,31
 Nassau,OB 19 009,U.S. House,3,CON,Jack Martins,38
 Nassau,OB 19 010,U.S. House,3,CON,Jack Martins,7
-Nassau,Total,U.S. House,3,CON,Jack Martins,6956
 Nassau,GC 13 001,U.S. House,3,REF,Jack Martins,0
 Nassau,GC 13 002,U.S. House,3,REF,Jack Martins,3
 Nassau,GC 13 003,U.S. House,3,REF,Jack Martins,1
@@ -25459,7 +25429,6 @@ Nassau,OB 19 007,U.S. House,3,REF,Jack Martins,4
 Nassau,OB 19 008,U.S. House,3,REF,Jack Martins,2
 Nassau,OB 19 009,U.S. House,3,REF,Jack Martins,0
 Nassau,OB 19 010,U.S. House,3,REF,Jack Martins,1
-Nassau,Total,U.S. House,3,REF,Jack Martins,721
 Nassau,GC 13 001,U.S. House,3,,Scattering,1
 Nassau,GC 13 002,U.S. House,3,,Scattering,0
 Nassau,GC 13 003,U.S. House,3,,Scattering,0
@@ -25798,7 +25767,6 @@ Nassau,OB 19 007,U.S. House,3,,Scattering,1
 Nassau,OB 19 008,U.S. House,3,,Scattering,0
 Nassau,OB 19 009,U.S. House,3,,Scattering,0
 Nassau,OB 19 010,U.S. House,3,,Scattering,0
-Nassau,Total,U.S. House,3,,Scattering,79
 Nassau,NH 13 008,U.S. House,4,DEM,Kathleen Rice,691
 Nassau,NH 13 009,U.S. House,4,DEM,Kathleen Rice,144
 Nassau,NH 13 010,U.S. House,4,DEM,Kathleen Rice,329
@@ -26450,7 +26418,6 @@ Nassau,HE 22 098,U.S. House,4,DEM,Kathleen Rice,31
 Nassau,HE 22 100,U.S. House,4,DEM,Kathleen Rice,112
 Nassau,HE 22 102,U.S. House,4,DEM,Kathleen Rice,119
 Nassau,HE 22 105,U.S. House,4,DEM,Kathleen Rice,1
-Nassau,Total,U.S. House,4,DEM,Kathleen Rice,181861
 Nassau,NH 13 008,U.S. House,4,REP,David Gurfein,54
 Nassau,NH 13 009,U.S. House,4,REP,David Gurfein,30
 Nassau,NH 13 010,U.S. House,4,REP,David Gurfein,37
@@ -27102,7 +27069,6 @@ Nassau,HE 22 098,U.S. House,4,REP,David Gurfein,2
 Nassau,HE 22 100,U.S. House,4,REP,David Gurfein,118
 Nassau,HE 22 102,U.S. House,4,REP,David Gurfein,84
 Nassau,HE 22 105,U.S. House,4,REP,David Gurfein,0
-Nassau,Total,U.S. House,4,REP,David Gurfein,111246
 Nassau,NH 13 008,U.S. House,4,CON,David Gurfein,15
 Nassau,NH 13 009,U.S. House,4,CON,David Gurfein,6
 Nassau,NH 13 010,U.S. House,4,CON,David Gurfein,2
@@ -27754,7 +27720,6 @@ Nassau,HE 22 098,U.S. House,4,CON,David Gurfein,0
 Nassau,HE 22 100,U.S. House,4,CON,David Gurfein,4
 Nassau,HE 22 102,U.S. House,4,CON,David Gurfein,3
 Nassau,HE 22 105,U.S. House,4,CON,David Gurfein,0
-Nassau,Total,U.S. House,4,CON,David Gurfein,14137
 Nassau,NH 13 008,U.S. House,4,WOR,Kathleen Rice,7
 Nassau,NH 13 009,U.S. House,4,WOR,Kathleen Rice,1
 Nassau,NH 13 010,U.S. House,4,WOR,Kathleen Rice,0
@@ -28406,7 +28371,6 @@ Nassau,HE 22 098,U.S. House,4,WOR,Kathleen Rice,0
 Nassau,HE 22 100,U.S. House,4,WOR,Kathleen Rice,2
 Nassau,HE 22 102,U.S. House,4,WOR,Kathleen Rice,0
 Nassau,HE 22 105,U.S. House,4,WOR,Kathleen Rice,0
-Nassau,Total,U.S. House,4,WOR,Kathleen Rice,4562
 Nassau,NH 13 008,U.S. House,4,REF,David Gurfein,2
 Nassau,NH 13 009,U.S. House,4,REF,David Gurfein,0
 Nassau,NH 13 010,U.S. House,4,REF,David Gurfein,1
@@ -29058,7 +29022,6 @@ Nassau,HE 22 098,U.S. House,4,REF,David Gurfein,0
 Nassau,HE 22 100,U.S. House,4,REF,David Gurfein,0
 Nassau,HE 22 102,U.S. House,4,REF,David Gurfein,0
 Nassau,HE 22 105,U.S. House,4,REF,David Gurfein,0
-Nassau,Total,U.S. House,4,REF,David Gurfein,1055
 Nassau,NH 13 008,U.S. House,4,,Scattering,0
 Nassau,NH 13 009,U.S. House,4,,Scattering,0
 Nassau,NH 13 010,U.S. House,4,,Scattering,0
@@ -29710,7 +29673,6 @@ Nassau,HE 22 098,U.S. House,4,,Scattering,0
 Nassau,HE 22 100,U.S. House,4,,Scattering,0
 Nassau,HE 22 102,U.S. House,4,,Scattering,0
 Nassau,HE 22 105,U.S. House,4,,Scattering,0
-Nassau,Total,U.S. House,4,,Scattering,139
 Nassau,HE 20 050,U.S. House,5,DEM,Gregory Meeks,200
 Nassau,HE 20 056,U.S. House,5,DEM,Gregory Meeks,222
 Nassau,HE 20 057,U.S. House,5,DEM,Gregory Meeks,147
@@ -29769,7 +29731,6 @@ Nassau,HE 22 099,U.S. House,5,DEM,Gregory Meeks,150
 Nassau,HE 22 101,U.S. House,5,DEM,Gregory Meeks,17
 Nassau,HE 22 103,U.S. House,5,DEM,Gregory Meeks,15
 Nassau,HE 22 104,U.S. House,5,DEM,Gregory Meeks,82
-Nassau,Total,U.S. House,5,DEM,Gregory Meeks,23885
 Nassau,HE 20 050,U.S. House,5,REP,Michael O'Reilly,170
 Nassau,HE 20 056,U.S. House,5,REP,Michael O'Reilly,297
 Nassau,HE 20 057,U.S. House,5,REP,Michael O'Reilly,67
@@ -29828,7 +29789,6 @@ Nassau,HE 22 099,U.S. House,5,REP,Michael O'Reilly,95
 Nassau,HE 22 101,U.S. House,5,REP,Michael O'Reilly,7
 Nassau,HE 22 103,U.S. House,5,REP,Michael O'Reilly,24
 Nassau,HE 22 104,U.S. House,5,REP,Michael O'Reilly,98
-Nassau,Total,U.S. House,5,REP,Michael O'Reilly,6454
 Nassau,HE 20 050,U.S. House,5,CON,Michael O'Reilly,8
 Nassau,HE 20 056,U.S. House,5,CON,Michael O'Reilly,13
 Nassau,HE 20 057,U.S. House,5,CON,Michael O'Reilly,3
@@ -29887,7 +29847,6 @@ Nassau,HE 22 099,U.S. House,5,CON,Michael O'Reilly,7
 Nassau,HE 22 101,U.S. House,5,CON,Michael O'Reilly,1
 Nassau,HE 22 103,U.S. House,5,CON,Michael O'Reilly,7
 Nassau,HE 22 104,U.S. House,5,CON,Michael O'Reilly,5
-Nassau,Total,U.S. House,5,CON,Michael O'Reilly,673
 Nassau,HE 20 050,U.S. House,5,GRN,Frank Francis,14
 Nassau,HE 20 056,U.S. House,5,GRN,Frank Francis,4
 Nassau,HE 20 057,U.S. House,5,GRN,Frank Francis,5
@@ -29946,7 +29905,6 @@ Nassau,HE 22 099,U.S. House,5,GRN,Frank Francis,4
 Nassau,HE 22 101,U.S. House,5,GRN,Frank Francis,2
 Nassau,HE 22 103,U.S. House,5,GRN,Frank Francis,0
 Nassau,HE 22 104,U.S. House,5,GRN,Frank Francis,4
-Nassau,Total,U.S. House,5,GRN,Frank Francis,517
 Nassau,HE 20 050,U.S. House,5,WEP,Gregory Meeks,6
 Nassau,HE 20 056,U.S. House,5,WEP,Gregory Meeks,8
 Nassau,HE 20 057,U.S. House,5,WEP,Gregory Meeks,1
@@ -30005,7 +29963,6 @@ Nassau,HE 22 099,U.S. House,5,WEP,Gregory Meeks,3
 Nassau,HE 22 101,U.S. House,5,WEP,Gregory Meeks,1
 Nassau,HE 22 103,U.S. House,5,WEP,Gregory Meeks,3
 Nassau,HE 22 104,U.S. House,5,WEP,Gregory Meeks,2
-Nassau,Total,U.S. House,5,WEP,Gregory Meeks,348
 Nassau,HE 20 050,U.S. House,5,,Scattering,0
 Nassau,HE 20 056,U.S. House,5,,Scattering,0
 Nassau,HE 20 057,U.S. House,5,,Scattering,0
@@ -30064,7 +30021,6 @@ Nassau,HE 22 099,U.S. House,5,,Scattering,0
 Nassau,HE 22 101,U.S. House,5,,Scattering,0
 Nassau,HE 22 103,U.S. House,5,,Scattering,0
 Nassau,HE 22 104,U.S. House,5,,Scattering,1
-Nassau,Total,U.S. House,5,,Scattering,17
 Nassau,GC 13 001,State Senate,5,DEM,James Gaughran,167
 Nassau,GC 13 002,State Senate,5,DEM,James Gaughran,270
 Nassau,GC 13 003,State Senate,5,DEM,James Gaughran,191
@@ -30224,7 +30180,6 @@ Nassau,OB 19 007,State Senate,5,DEM,James Gaughran,297
 Nassau,OB 19 008,State Senate,5,DEM,James Gaughran,286
 Nassau,OB 19 009,State Senate,5,DEM,James Gaughran,254
 Nassau,OB 19 010,State Senate,5,DEM,James Gaughran,87
-Nassau,Total,State Senate,5,DEM,James Gaughran,36627
 Nassau,GC 13 001,State Senate,5,WOR,James Gaughran,8
 Nassau,GC 13 002,State Senate,5,WOR,James Gaughran,13
 Nassau,GC 13 003,State Senate,5,WOR,James Gaughran,4
@@ -30384,7 +30339,6 @@ Nassau,OB 19 007,State Senate,5,WOR,James Gaughran,17
 Nassau,OB 19 008,State Senate,5,WOR,James Gaughran,7
 Nassau,OB 19 009,State Senate,5,WOR,James Gaughran,3
 Nassau,OB 19 010,State Senate,5,WOR,James Gaughran,0
-Nassau,Total,State Senate,5,WOR,James Gaughran,1126
 Nassau,GC 13 001,State Senate,5,WEP,James Gaughran,3
 Nassau,GC 13 002,State Senate,5,WEP,James Gaughran,5
 Nassau,GC 13 003,State Senate,5,WEP,James Gaughran,3
@@ -30544,7 +30498,6 @@ Nassau,OB 19 007,State Senate,5,WEP,James Gaughran,5
 Nassau,OB 19 008,State Senate,5,WEP,James Gaughran,2
 Nassau,OB 19 009,State Senate,5,WEP,James Gaughran,4
 Nassau,OB 19 010,State Senate,5,WEP,James Gaughran,1
-Nassau,Total,State Senate,5,WEP,James Gaughran,455
 Nassau,GC 13 001,State Senate,5,REP,Carl Marcellino,87
 Nassau,GC 13 002,State Senate,5,REP,Carl Marcellino,241
 Nassau,GC 13 003,State Senate,5,REP,Carl Marcellino,126
@@ -30704,7 +30657,6 @@ Nassau,OB 19 007,State Senate,5,REP,Carl Marcellino,367
 Nassau,OB 19 008,State Senate,5,REP,Carl Marcellino,304
 Nassau,OB 19 009,State Senate,5,REP,Carl Marcellino,404
 Nassau,OB 19 010,State Senate,5,REP,Carl Marcellino,120
-Nassau,Total,State Senate,5,REP,Carl Marcellino,32709
 Nassau,GC 13 001,State Senate,5,CON,Carl Marcellino,10
 Nassau,GC 13 002,State Senate,5,CON,Carl Marcellino,27
 Nassau,GC 13 003,State Senate,5,CON,Carl Marcellino,17
@@ -30864,7 +30816,6 @@ Nassau,OB 19 007,State Senate,5,CON,Carl Marcellino,25
 Nassau,OB 19 008,State Senate,5,CON,Carl Marcellino,34
 Nassau,OB 19 009,State Senate,5,CON,Carl Marcellino,40
 Nassau,OB 19 010,State Senate,5,CON,Carl Marcellino,8
-Nassau,Total,State Senate,5,CON,Carl Marcellino,3122
 Nassau,GC 13 001,State Senate,5,IDC,Carl Marcellino,4
 Nassau,GC 13 002,State Senate,5,IDC,Carl Marcellino,11
 Nassau,GC 13 003,State Senate,5,IDC,Carl Marcellino,2
@@ -31024,7 +30975,6 @@ Nassau,OB 19 007,State Senate,5,IDC,Carl Marcellino,4
 Nassau,OB 19 008,State Senate,5,IDC,Carl Marcellino,4
 Nassau,OB 19 009,State Senate,5,IDC,Carl Marcellino,5
 Nassau,OB 19 010,State Senate,5,IDC,Carl Marcellino,2
-Nassau,Total,State Senate,5,IDC,Carl Marcellino,651
 Nassau,GC 13 001,State Senate,5,REF,Carl Marcellino,0
 Nassau,GC 13 002,State Senate,5,REF,Carl Marcellino,0
 Nassau,GC 13 003,State Senate,5,REF,Carl Marcellino,2
@@ -31184,7 +31134,6 @@ Nassau,OB 19 007,State Senate,5,REF,Carl Marcellino,1
 Nassau,OB 19 008,State Senate,5,REF,Carl Marcellino,2
 Nassau,OB 19 009,State Senate,5,REF,Carl Marcellino,0
 Nassau,OB 19 010,State Senate,5,REF,Carl Marcellino,1
-Nassau,Total,State Senate,5,REF,Carl Marcellino,146
 Nassau,GC 13 001,State Senate,5,,Scattering,0
 Nassau,GC 13 002,State Senate,5,,Scattering,0
 Nassau,GC 13 003,State Senate,5,,Scattering,0
@@ -31344,7 +31293,6 @@ Nassau,OB 19 007,State Senate,5,,Scattering,1
 Nassau,OB 19 008,State Senate,5,,Scattering,0
 Nassau,OB 19 009,State Senate,5,,Scattering,0
 Nassau,OB 19 010,State Senate,5,,Scattering,0
-Nassau,Total,State Senate,5,,Scattering,38
 Nassau,OB 09 045,State Senate,6,DEM,Ryan Cronin,5
 Nassau,HE 14 012,State Senate,6,DEM,Ryan Cronin,229
 Nassau,HE 14 013,State Senate,6,DEM,Ryan Cronin,175
@@ -31612,7 +31560,6 @@ Nassau,HE 21 132,State Senate,6,DEM,Ryan Cronin,6
 Nassau,HE 22 050,State Senate,6,DEM,Ryan Cronin,33
 Nassau,HE 22 051,State Senate,6,DEM,Ryan Cronin,0
 Nassau,HE 22 052,State Senate,6,DEM,Ryan Cronin,71
-Nassau,Total,State Senate,6,DEM,Ryan Cronin,58623
 Nassau,OB 09 045,State Senate,6,REP,Kemp Hannon,8
 Nassau,HE 14 012,State Senate,6,REP,Kemp Hannon,354
 Nassau,HE 14 013,State Senate,6,REP,Kemp Hannon,358
@@ -31880,7 +31827,6 @@ Nassau,HE 21 132,State Senate,6,REP,Kemp Hannon,20
 Nassau,HE 22 050,State Senate,6,REP,Kemp Hannon,87
 Nassau,HE 22 051,State Senate,6,REP,Kemp Hannon,0
 Nassau,HE 22 052,State Senate,6,REP,Kemp Hannon,118
-Nassau,Total,State Senate,6,REP,Kemp Hannon,62674
 Nassau,OB 09 045,State Senate,6,CON,Kemp Hannon,0
 Nassau,HE 14 012,State Senate,6,CON,Kemp Hannon,69
 Nassau,HE 14 013,State Senate,6,CON,Kemp Hannon,32
@@ -32148,7 +32094,6 @@ Nassau,HE 21 132,State Senate,6,CON,Kemp Hannon,1
 Nassau,HE 22 050,State Senate,6,CON,Kemp Hannon,22
 Nassau,HE 22 051,State Senate,6,CON,Kemp Hannon,0
 Nassau,HE 22 052,State Senate,6,CON,Kemp Hannon,9
-Nassau,Total,State Senate,6,CON,Kemp Hannon,6892
 Nassau,OB 09 045,State Senate,6,WOR,Ryan Cronin,0
 Nassau,HE 14 012,State Senate,6,WOR,Ryan Cronin,16
 Nassau,HE 14 013,State Senate,6,WOR,Ryan Cronin,13
@@ -32416,7 +32361,6 @@ Nassau,HE 21 132,State Senate,6,WOR,Ryan Cronin,0
 Nassau,HE 22 050,State Senate,6,WOR,Ryan Cronin,3
 Nassau,HE 22 051,State Senate,6,WOR,Ryan Cronin,0
 Nassau,HE 22 052,State Senate,6,WOR,Ryan Cronin,3
-Nassau,Total,State Senate,6,WOR,Ryan Cronin,2085
 Nassau,OB 09 045,State Senate,6,IDC,Kemp Hannon,0
 Nassau,HE 14 012,State Senate,6,IDC,Kemp Hannon,9
 Nassau,HE 14 013,State Senate,6,IDC,Kemp Hannon,8
@@ -32684,7 +32628,6 @@ Nassau,HE 21 132,State Senate,6,IDC,Kemp Hannon,1
 Nassau,HE 22 050,State Senate,6,IDC,Kemp Hannon,3
 Nassau,HE 22 051,State Senate,6,IDC,Kemp Hannon,0
 Nassau,HE 22 052,State Senate,6,IDC,Kemp Hannon,2
-Nassau,Total,State Senate,6,IDC,Kemp Hannon,1383
 Nassau,OB 09 045,State Senate,6,WEP,Ryan Cronin,0
 Nassau,HE 14 012,State Senate,6,WEP,Ryan Cronin,2
 Nassau,HE 14 013,State Senate,6,WEP,Ryan Cronin,1
@@ -32952,7 +32895,6 @@ Nassau,HE 21 132,State Senate,6,WEP,Ryan Cronin,0
 Nassau,HE 22 050,State Senate,6,WEP,Ryan Cronin,0
 Nassau,HE 22 051,State Senate,6,WEP,Ryan Cronin,0
 Nassau,HE 22 052,State Senate,6,WEP,Ryan Cronin,3
-Nassau,Total,State Senate,6,WEP,Ryan Cronin,817
 Nassau,OB 09 045,State Senate,6,REF,Kemp Hannon,0
 Nassau,HE 14 012,State Senate,6,REF,Kemp Hannon,0
 Nassau,HE 14 013,State Senate,6,REF,Kemp Hannon,2
@@ -33220,7 +33162,6 @@ Nassau,HE 21 132,State Senate,6,REF,Kemp Hannon,0
 Nassau,HE 22 050,State Senate,6,REF,Kemp Hannon,0
 Nassau,HE 22 051,State Senate,6,REF,Kemp Hannon,0
 Nassau,HE 22 052,State Senate,6,REF,Kemp Hannon,0
-Nassau,Total,State Senate,6,REF,Kemp Hannon,279
 Nassau,OB 09 045,State Senate,6,TRP,Kemp Hannon,0
 Nassau,HE 14 012,State Senate,6,TRP,Kemp Hannon,2
 Nassau,HE 14 013,State Senate,6,TRP,Kemp Hannon,1
@@ -33488,7 +33429,6 @@ Nassau,HE 21 132,State Senate,6,TRP,Kemp Hannon,0
 Nassau,HE 22 050,State Senate,6,TRP,Kemp Hannon,1
 Nassau,HE 22 051,State Senate,6,TRP,Kemp Hannon,0
 Nassau,HE 22 052,State Senate,6,TRP,Kemp Hannon,0
-Nassau,Total,State Senate,6,TRP,Kemp Hannon,395
 Nassau,OB 09 045,State Senate,6,,Scattering,0
 Nassau,HE 14 012,State Senate,6,,Scattering,0
 Nassau,HE 14 013,State Senate,6,,Scattering,0
@@ -33756,7 +33696,6 @@ Nassau,HE 21 132,State Senate,6,,Scattering,0
 Nassau,HE 22 050,State Senate,6,,Scattering,0
 Nassau,HE 22 051,State Senate,6,,Scattering,0
 Nassau,HE 22 052,State Senate,6,,Scattering,0
-Nassau,Total,State Senate,6,,Scattering,64
 Nassau,NH 13 001,State Senate,7,DEM,Adam Haber,253
 Nassau,NH 13 002,State Senate,7,DEM,Adam Haber,321
 Nassau,NH 13 003,State Senate,7,DEM,Adam Haber,170
@@ -34048,7 +33987,6 @@ Nassau,HE 22 100,State Senate,7,DEM,Adam Haber,90
 Nassau,HE 22 101,State Senate,7,DEM,Adam Haber,16
 Nassau,HE 22 103,State Senate,7,DEM,Adam Haber,21
 Nassau,HE 22 104,State Senate,7,DEM,Adam Haber,83
-Nassau,Total,State Senate,7,DEM,Adam Haber,64037
 Nassau,NH 13 001,State Senate,7,REP,Elaine Phillips,186
 Nassau,NH 13 002,State Senate,7,REP,Elaine Phillips,187
 Nassau,NH 13 003,State Senate,7,REP,Elaine Phillips,100
@@ -34340,7 +34278,6 @@ Nassau,HE 22 100,State Senate,7,REP,Elaine Phillips,133
 Nassau,HE 22 101,State Senate,7,REP,Elaine Phillips,8
 Nassau,HE 22 103,State Senate,7,REP,Elaine Phillips,24
 Nassau,HE 22 104,State Senate,7,REP,Elaine Phillips,99
-Nassau,Total,State Senate,7,REP,Elaine Phillips,62030
 Nassau,NH 13 001,State Senate,7,CON,Elaine Phillips,13
 Nassau,NH 13 002,State Senate,7,CON,Elaine Phillips,13
 Nassau,NH 13 003,State Senate,7,CON,Elaine Phillips,3
@@ -34632,7 +34569,6 @@ Nassau,HE 22 100,State Senate,7,CON,Elaine Phillips,7
 Nassau,HE 22 101,State Senate,7,CON,Elaine Phillips,1
 Nassau,HE 22 103,State Senate,7,CON,Elaine Phillips,4
 Nassau,HE 22 104,State Senate,7,CON,Elaine Phillips,4
-Nassau,Total,State Senate,7,CON,Elaine Phillips,5961
 Nassau,NH 13 001,State Senate,7,WOR,Adam Haber,7
 Nassau,NH 13 002,State Senate,7,WOR,Adam Haber,5
 Nassau,NH 13 003,State Senate,7,WOR,Adam Haber,1
@@ -34924,7 +34860,6 @@ Nassau,HE 22 100,State Senate,7,WOR,Adam Haber,1
 Nassau,HE 22 101,State Senate,7,WOR,Adam Haber,0
 Nassau,HE 22 103,State Senate,7,WOR,Adam Haber,1
 Nassau,HE 22 104,State Senate,7,WOR,Adam Haber,3
-Nassau,Total,State Senate,7,WOR,Adam Haber,1769
 Nassau,NH 13 001,State Senate,7,IDC,Elaine Phillips,3
 Nassau,NH 13 002,State Senate,7,IDC,Elaine Phillips,4
 Nassau,NH 13 003,State Senate,7,IDC,Elaine Phillips,1
@@ -35216,7 +35151,6 @@ Nassau,HE 22 100,State Senate,7,IDC,Elaine Phillips,6
 Nassau,HE 22 101,State Senate,7,IDC,Elaine Phillips,0
 Nassau,HE 22 103,State Senate,7,IDC,Elaine Phillips,1
 Nassau,HE 22 104,State Senate,7,IDC,Elaine Phillips,1
-Nassau,Total,State Senate,7,IDC,Elaine Phillips,1497
 Nassau,NH 13 001,State Senate,7,WEP,Adam Haber,1
 Nassau,NH 13 002,State Senate,7,WEP,Adam Haber,0
 Nassau,NH 13 003,State Senate,7,WEP,Adam Haber,1
@@ -35508,7 +35442,6 @@ Nassau,HE 22 100,State Senate,7,WEP,Adam Haber,1
 Nassau,HE 22 101,State Senate,7,WEP,Adam Haber,2
 Nassau,HE 22 103,State Senate,7,WEP,Adam Haber,1
 Nassau,HE 22 104,State Senate,7,WEP,Adam Haber,0
-Nassau,Total,State Senate,7,WEP,Adam Haber,798
 Nassau,NH 13 001,State Senate,7,REF,Elaine Phillips,2
 Nassau,NH 13 002,State Senate,7,REF,Elaine Phillips,3
 Nassau,NH 13 003,State Senate,7,REF,Elaine Phillips,3
@@ -35800,7 +35733,6 @@ Nassau,HE 22 100,State Senate,7,REF,Elaine Phillips,0
 Nassau,HE 22 101,State Senate,7,REF,Elaine Phillips,0
 Nassau,HE 22 103,State Senate,7,REF,Elaine Phillips,0
 Nassau,HE 22 104,State Senate,7,REF,Elaine Phillips,0
-Nassau,Total,State Senate,7,REF,Elaine Phillips,393
 Nassau,NH 13 001,State Senate,7,,Scattering,0
 Nassau,NH 13 002,State Senate,7,,Scattering,0
 Nassau,NH 13 003,State Senate,7,,Scattering,0
@@ -36092,7 +36024,6 @@ Nassau,HE 22 100,State Senate,7,,Scattering,0
 Nassau,HE 22 101,State Senate,7,,Scattering,0
 Nassau,HE 22 103,State Senate,7,,Scattering,0
 Nassau,HE 22 104,State Senate,7,,Scattering,0
-Nassau,Total,State Senate,7,,Scattering,55
 Nassau,OB 09 001,State Senate,8,DEM,John Brooks,268
 Nassau,OB 09 002,State Senate,8,DEM,John Brooks,201
 Nassau,OB 09 003,State Senate,8,DEM,John Brooks,215
@@ -36295,7 +36226,6 @@ Nassau,HE 21 025,State Senate,8,DEM,John Brooks,389
 Nassau,HE 21 029,State Senate,8,DEM,John Brooks,1
 Nassau,HE 21 048,State Senate,8,DEM,John Brooks,37
 Nassau,HE 21 129,State Senate,8,DEM,John Brooks,0
-Nassau,Total,State Senate,8,DEM,John Brooks,50879
 Nassau,OB 09 001,State Senate,8,WOR,John Brooks,20
 Nassau,OB 09 002,State Senate,8,WOR,John Brooks,8
 Nassau,OB 09 003,State Senate,8,WOR,John Brooks,14
@@ -36498,7 +36428,6 @@ Nassau,HE 21 025,State Senate,8,WOR,John Brooks,6
 Nassau,HE 21 029,State Senate,8,WOR,John Brooks,0
 Nassau,HE 21 048,State Senate,8,WOR,John Brooks,5
 Nassau,HE 21 129,State Senate,8,WOR,John Brooks,0
-Nassau,Total,State Senate,8,WOR,John Brooks,1786
 Nassau,OB 09 001,State Senate,8,WEP,John Brooks,7
 Nassau,OB 09 002,State Senate,8,WEP,John Brooks,1
 Nassau,OB 09 003,State Senate,8,WEP,John Brooks,2
@@ -36701,7 +36630,6 @@ Nassau,HE 21 025,State Senate,8,WEP,John Brooks,10
 Nassau,HE 21 029,State Senate,8,WEP,John Brooks,0
 Nassau,HE 21 048,State Senate,8,WEP,John Brooks,1
 Nassau,HE 21 129,State Senate,8,WEP,John Brooks,0
-Nassau,Total,State Senate,8,WEP,John Brooks,789
 Nassau,OB 09 001,State Senate,8,REP,Michael Venditto,563
 Nassau,OB 09 002,State Senate,8,REP,Michael Venditto,426
 Nassau,OB 09 003,State Senate,8,REP,Michael Venditto,453
@@ -36904,7 +36832,6 @@ Nassau,HE 21 025,State Senate,8,REP,Michael Venditto,135
 Nassau,HE 21 029,State Senate,8,REP,Michael Venditto,0
 Nassau,HE 21 048,State Senate,8,REP,Michael Venditto,2
 Nassau,HE 21 129,State Senate,8,REP,Michael Venditto,0
-Nassau,Total,State Senate,8,REP,Michael Venditto,48779
 Nassau,OB 09 001,State Senate,8,CON,Michael Venditto,33
 Nassau,OB 09 002,State Senate,8,CON,Michael Venditto,28
 Nassau,OB 09 003,State Senate,8,CON,Michael Venditto,28
@@ -37107,7 +37034,6 @@ Nassau,HE 21 025,State Senate,8,CON,Michael Venditto,26
 Nassau,HE 21 029,State Senate,8,CON,Michael Venditto,0
 Nassau,HE 21 048,State Senate,8,CON,Michael Venditto,0
 Nassau,HE 21 129,State Senate,8,CON,Michael Venditto,0
-Nassau,Total,State Senate,8,CON,Michael Venditto,5100
 Nassau,OB 09 001,State Senate,8,IDC,Michael Venditto,4
 Nassau,OB 09 002,State Senate,8,IDC,Michael Venditto,4
 Nassau,OB 09 003,State Senate,8,IDC,Michael Venditto,3
@@ -37310,7 +37236,6 @@ Nassau,HE 21 025,State Senate,8,IDC,Michael Venditto,6
 Nassau,HE 21 029,State Senate,8,IDC,Michael Venditto,0
 Nassau,HE 21 048,State Senate,8,IDC,Michael Venditto,0
 Nassau,HE 21 129,State Senate,8,IDC,Michael Venditto,0
-Nassau,Total,State Senate,8,IDC,Michael Venditto,1010
 Nassau,OB 09 001,State Senate,8,REF,Michael Venditto,1
 Nassau,OB 09 002,State Senate,8,REF,Michael Venditto,5
 Nassau,OB 09 003,State Senate,8,REF,Michael Venditto,3
@@ -37513,7 +37438,6 @@ Nassau,HE 21 025,State Senate,8,REF,Michael Venditto,2
 Nassau,HE 21 029,State Senate,8,REF,Michael Venditto,0
 Nassau,HE 21 048,State Senate,8,REF,Michael Venditto,0
 Nassau,HE 21 129,State Senate,8,REF,Michael Venditto,0
-Nassau,Total,State Senate,8,REF,Michael Venditto,227
 Nassau,OB 09 001,State Senate,8,TRP,Michael Venditto,3
 Nassau,OB 09 002,State Senate,8,TRP,Michael Venditto,2
 Nassau,OB 09 003,State Senate,8,TRP,Michael Venditto,1
@@ -37716,7 +37640,6 @@ Nassau,HE 21 025,State Senate,8,TRP,Michael Venditto,1
 Nassau,HE 21 029,State Senate,8,TRP,Michael Venditto,0
 Nassau,HE 21 048,State Senate,8,TRP,Michael Venditto,0
 Nassau,HE 21 129,State Senate,8,TRP,Michael Venditto,0
-Nassau,Total,State Senate,8,TRP,Michael Venditto,341
 Nassau,OB 09 001,State Senate,8,,Scattering,0
 Nassau,OB 09 002,State Senate,8,,Scattering,1
 Nassau,OB 09 003,State Senate,8,,Scattering,0
@@ -37919,7 +37842,6 @@ Nassau,HE 21 025,State Senate,8,,Scattering,1
 Nassau,HE 21 029,State Senate,8,,Scattering,0
 Nassau,HE 21 048,State Senate,8,,Scattering,0
 Nassau,HE 21 129,State Senate,8,,Scattering,0
-Nassau,Total,State Senate,8,,Scattering,67
 Nassau,HE 18 072,State Senate,9,DEM,Todd Kaminsky,107
 Nassau,HE 18 093,State Senate,9,DEM,Todd Kaminsky,0
 Nassau,HE 19 001,State Senate,9,DEM,Todd Kaminsky,0
@@ -38203,7 +38125,6 @@ Nassau,HE 22 093,State Senate,9,DEM,Todd Kaminsky,399
 Nassau,HE 22 096,State Senate,9,DEM,Todd Kaminsky,0
 Nassau,HE 22 102,State Senate,9,DEM,Todd Kaminsky,118
 Nassau,HE 22 105,State Senate,9,DEM,Todd Kaminsky,1
-Nassau,Total,State Senate,9,DEM,Todd Kaminsky,72723
 Nassau,HE 18 072,State Senate,9,WOR,Todd Kaminsky,1
 Nassau,HE 18 093,State Senate,9,WOR,Todd Kaminsky,0
 Nassau,HE 19 001,State Senate,9,WOR,Todd Kaminsky,0
@@ -38487,7 +38408,6 @@ Nassau,HE 22 093,State Senate,9,WOR,Todd Kaminsky,5
 Nassau,HE 22 096,State Senate,9,WOR,Todd Kaminsky,0
 Nassau,HE 22 102,State Senate,9,WOR,Todd Kaminsky,0
 Nassau,HE 22 105,State Senate,9,WOR,Todd Kaminsky,0
-Nassau,Total,State Senate,9,WOR,Todd Kaminsky,2091
 Nassau,HE 18 072,State Senate,9,WEP,Todd Kaminsky,3
 Nassau,HE 18 093,State Senate,9,WEP,Todd Kaminsky,0
 Nassau,HE 19 001,State Senate,9,WEP,Todd Kaminsky,0
@@ -38771,7 +38691,6 @@ Nassau,HE 22 093,State Senate,9,WEP,Todd Kaminsky,1
 Nassau,HE 22 096,State Senate,9,WEP,Todd Kaminsky,0
 Nassau,HE 22 102,State Senate,9,WEP,Todd Kaminsky,1
 Nassau,HE 22 105,State Senate,9,WEP,Todd Kaminsky,0
-Nassau,Total,State Senate,9,WEP,Todd Kaminsky,925
 Nassau,HE 18 072,State Senate,9,REP,Christopher McGrath,97
 Nassau,HE 18 093,State Senate,9,REP,Christopher McGrath,0
 Nassau,HE 19 001,State Senate,9,REP,Christopher McGrath,0
@@ -39055,7 +38974,6 @@ Nassau,HE 22 093,State Senate,9,REP,Christopher McGrath,239
 Nassau,HE 22 096,State Senate,9,REP,Christopher McGrath,2
 Nassau,HE 22 102,State Senate,9,REP,Christopher McGrath,87
 Nassau,HE 22 105,State Senate,9,REP,Christopher McGrath,0
-Nassau,Total,State Senate,9,REP,Christopher McGrath,61702
 Nassau,HE 18 072,State Senate,9,CON,Christopher McGrath,11
 Nassau,HE 18 093,State Senate,9,CON,Christopher McGrath,0
 Nassau,HE 19 001,State Senate,9,CON,Christopher McGrath,0
@@ -39339,7 +39257,6 @@ Nassau,HE 22 093,State Senate,9,CON,Christopher McGrath,13
 Nassau,HE 22 096,State Senate,9,CON,Christopher McGrath,0
 Nassau,HE 22 102,State Senate,9,CON,Christopher McGrath,3
 Nassau,HE 22 105,State Senate,9,CON,Christopher McGrath,0
-Nassau,Total,State Senate,9,CON,Christopher McGrath,5659
 Nassau,HE 18 072,State Senate,9,IDC,Christopher McGrath,0
 Nassau,HE 18 093,State Senate,9,IDC,Christopher McGrath,0
 Nassau,HE 19 001,State Senate,9,IDC,Christopher McGrath,0
@@ -39623,7 +39540,6 @@ Nassau,HE 22 093,State Senate,9,IDC,Christopher McGrath,2
 Nassau,HE 22 096,State Senate,9,IDC,Christopher McGrath,0
 Nassau,HE 22 102,State Senate,9,IDC,Christopher McGrath,0
 Nassau,HE 22 105,State Senate,9,IDC,Christopher McGrath,0
-Nassau,Total,State Senate,9,IDC,Christopher McGrath,1257
 Nassau,HE 18 072,State Senate,9,REF,Christopher McGrath,1
 Nassau,HE 18 093,State Senate,9,REF,Christopher McGrath,0
 Nassau,HE 19 001,State Senate,9,REF,Christopher McGrath,0
@@ -39907,7 +39823,6 @@ Nassau,HE 22 093,State Senate,9,REF,Christopher McGrath,2
 Nassau,HE 22 096,State Senate,9,REF,Christopher McGrath,0
 Nassau,HE 22 102,State Senate,9,REF,Christopher McGrath,0
 Nassau,HE 22 105,State Senate,9,REF,Christopher McGrath,0
-Nassau,Total,State Senate,9,REF,Christopher McGrath,263
 Nassau,HE 18 072,State Senate,9,TRP,Christopher McGrath,0
 Nassau,HE 18 093,State Senate,9,TRP,Christopher McGrath,0
 Nassau,HE 19 001,State Senate,9,TRP,Christopher McGrath,0
@@ -40191,7 +40106,6 @@ Nassau,HE 22 093,State Senate,9,TRP,Christopher McGrath,1
 Nassau,HE 22 096,State Senate,9,TRP,Christopher McGrath,0
 Nassau,HE 22 102,State Senate,9,TRP,Christopher McGrath,0
 Nassau,HE 22 105,State Senate,9,TRP,Christopher McGrath,0
-Nassau,Total,State Senate,9,TRP,Christopher McGrath,336
 Nassau,HE 18 072,State Senate,9,GRN,Lawrence Hirsh,1
 Nassau,HE 18 093,State Senate,9,GRN,Lawrence Hirsh,0
 Nassau,HE 19 001,State Senate,9,GRN,Lawrence Hirsh,0
@@ -40475,7 +40389,6 @@ Nassau,HE 22 093,State Senate,9,GRN,Lawrence Hirsh,10
 Nassau,HE 22 096,State Senate,9,GRN,Lawrence Hirsh,0
 Nassau,HE 22 102,State Senate,9,GRN,Lawrence Hirsh,3
 Nassau,HE 22 105,State Senate,9,GRN,Lawrence Hirsh,0
-Nassau,Total,State Senate,9,GRN,Lawrence Hirsh,1565
 Nassau,HE 18 072,State Senate,9,,Scattering,0
 Nassau,HE 18 093,State Senate,9,,Scattering,0
 Nassau,HE 19 001,State Senate,9,,Scattering,0
@@ -40759,7 +40672,6 @@ Nassau,HE 22 093,State Senate,9,,Scattering,0
 Nassau,HE 22 096,State Senate,9,,Scattering,0
 Nassau,HE 22 102,State Senate,9,,Scattering,0
 Nassau,HE 22 105,State Senate,9,,Scattering,0
-Nassau,Total,State Senate,9,,Scattering,50
 Nassau,OB 09 001,State Assembly,9,DEM,Brendan Cunningham,224
 Nassau,OB 09 002,State Assembly,9,DEM,Brendan Cunningham,151
 Nassau,OB 09 003,State Assembly,9,DEM,Brendan Cunningham,171
@@ -40805,7 +40717,6 @@ Nassau,OB 09 042,State Assembly,9,DEM,Brendan Cunningham,69
 Nassau,OB 09 043,State Assembly,9,DEM,Brendan Cunningham,105
 Nassau,OB 09 044,State Assembly,9,DEM,Brendan Cunningham,61
 Nassau,OB 09 045,State Assembly,9,DEM,Brendan Cunningham,4
-Nassau,Total,State Assembly,9,DEM,Brendan Cunningham,7702
 Nassau,OB 09 001,State Assembly,9,REP,Joseph Saladino,625
 Nassau,OB 09 002,State Assembly,9,REP,Joseph Saladino,470
 Nassau,OB 09 003,State Assembly,9,REP,Joseph Saladino,495
@@ -40851,7 +40762,6 @@ Nassau,OB 09 042,State Assembly,9,REP,Joseph Saladino,122
 Nassau,OB 09 043,State Assembly,9,REP,Joseph Saladino,216
 Nassau,OB 09 044,State Assembly,9,REP,Joseph Saladino,76
 Nassau,OB 09 045,State Assembly,9,REP,Joseph Saladino,9
-Nassau,Total,State Assembly,9,REP,Joseph Saladino,16681
 Nassau,OB 09 001,State Assembly,9,CON,Joseph Saladino,44
 Nassau,OB 09 002,State Assembly,9,CON,Joseph Saladino,34
 Nassau,OB 09 003,State Assembly,9,CON,Joseph Saladino,33
@@ -40897,7 +40807,6 @@ Nassau,OB 09 042,State Assembly,9,CON,Joseph Saladino,31
 Nassau,OB 09 043,State Assembly,9,CON,Joseph Saladino,15
 Nassau,OB 09 044,State Assembly,9,CON,Joseph Saladino,9
 Nassau,OB 09 045,State Assembly,9,CON,Joseph Saladino,0
-Nassau,Total,State Assembly,9,CON,Joseph Saladino,1694
 Nassau,OB 09 001,State Assembly,9,IDC,Joseph Saladino,10
 Nassau,OB 09 002,State Assembly,9,IDC,Joseph Saladino,12
 Nassau,OB 09 003,State Assembly,9,IDC,Joseph Saladino,4
@@ -40943,7 +40852,6 @@ Nassau,OB 09 042,State Assembly,9,IDC,Joseph Saladino,1
 Nassau,OB 09 043,State Assembly,9,IDC,Joseph Saladino,7
 Nassau,OB 09 044,State Assembly,9,IDC,Joseph Saladino,2
 Nassau,OB 09 045,State Assembly,9,IDC,Joseph Saladino,0
-Nassau,Total,State Assembly,9,IDC,Joseph Saladino,399
 Nassau,OB 09 001,State Assembly,9,REF,Joseph Saladino,0
 Nassau,OB 09 002,State Assembly,9,REF,Joseph Saladino,2
 Nassau,OB 09 003,State Assembly,9,REF,Joseph Saladino,1
@@ -40989,7 +40897,6 @@ Nassau,OB 09 042,State Assembly,9,REF,Joseph Saladino,1
 Nassau,OB 09 043,State Assembly,9,REF,Joseph Saladino,4
 Nassau,OB 09 044,State Assembly,9,REF,Joseph Saladino,0
 Nassau,OB 09 045,State Assembly,9,REF,Joseph Saladino,0
-Nassau,Total,State Assembly,9,REF,Joseph Saladino,81
 Nassau,OB 09 001,State Assembly,9,TRP,Joseph Saladino,4
 Nassau,OB 09 002,State Assembly,9,TRP,Joseph Saladino,3
 Nassau,OB 09 003,State Assembly,9,TRP,Joseph Saladino,2
@@ -41035,7 +40942,6 @@ Nassau,OB 09 042,State Assembly,9,TRP,Joseph Saladino,1
 Nassau,OB 09 043,State Assembly,9,TRP,Joseph Saladino,1
 Nassau,OB 09 044,State Assembly,9,TRP,Joseph Saladino,2
 Nassau,OB 09 045,State Assembly,9,TRP,Joseph Saladino,0
-Nassau,Total,State Assembly,9,TRP,Joseph Saladino,116
 Nassau,OB 09 001,State Assembly,9,,Scattering,1
 Nassau,OB 09 002,State Assembly,9,,Scattering,0
 Nassau,OB 09 003,State Assembly,9,,Scattering,1
@@ -41081,7 +40987,6 @@ Nassau,OB 09 042,State Assembly,9,,Scattering,0
 Nassau,OB 09 043,State Assembly,9,,Scattering,1
 Nassau,OB 09 044,State Assembly,9,,Scattering,0
 Nassau,OB 09 045,State Assembly,9,,Scattering,0
-Nassau,Total,State Assembly,9,,Scattering,16
 Nassau,GC 13 001,State Assembly,13,DEM,Charles Lavine,188
 Nassau,GC 13 002,State Assembly,13,DEM,Charles Lavine,332
 Nassau,GC 13 003,State Assembly,13,DEM,Charles Lavine,221
@@ -41197,7 +41102,6 @@ Nassau,OB 13 068,State Assembly,13,DEM,Charles Lavine,347
 Nassau,OB 13 069,State Assembly,13,DEM,Charles Lavine,331
 Nassau,OB 13 070,State Assembly,13,DEM,Charles Lavine,398
 Nassau,OB 13 071,State Assembly,13,DEM,Charles Lavine,0
-Nassau,Total,State Assembly,13,DEM,Charles Lavine,33042
 Nassau,GC 13 001,State Assembly,13,WOR,Charles Lavine,6
 Nassau,GC 13 002,State Assembly,13,WOR,Charles Lavine,18
 Nassau,GC 13 003,State Assembly,13,WOR,Charles Lavine,6
@@ -41313,7 +41217,6 @@ Nassau,OB 13 068,State Assembly,13,WOR,Charles Lavine,23
 Nassau,OB 13 069,State Assembly,13,WOR,Charles Lavine,17
 Nassau,OB 13 070,State Assembly,13,WOR,Charles Lavine,27
 Nassau,OB 13 071,State Assembly,13,WOR,Charles Lavine,0
-Nassau,Total,State Assembly,13,WOR,Charles Lavine,871
 Nassau,GC 13 001,State Assembly,13,WEP,Charles Lavine,6
 Nassau,GC 13 002,State Assembly,13,WEP,Charles Lavine,7
 Nassau,GC 13 003,State Assembly,13,WEP,Charles Lavine,5
@@ -41429,7 +41332,6 @@ Nassau,OB 13 068,State Assembly,13,WEP,Charles Lavine,7
 Nassau,OB 13 069,State Assembly,13,WEP,Charles Lavine,8
 Nassau,OB 13 070,State Assembly,13,WEP,Charles Lavine,7
 Nassau,OB 13 071,State Assembly,13,WEP,Charles Lavine,0
-Nassau,Total,State Assembly,13,WEP,Charles Lavine,401
 Nassau,GC 13 001,State Assembly,13,REP,Jeffrey Vitale,72
 Nassau,GC 13 002,State Assembly,13,REP,Jeffrey Vitale,180
 Nassau,GC 13 003,State Assembly,13,REP,Jeffrey Vitale,93
@@ -41545,7 +41447,6 @@ Nassau,OB 13 068,State Assembly,13,REP,Jeffrey Vitale,172
 Nassau,OB 13 069,State Assembly,13,REP,Jeffrey Vitale,165
 Nassau,OB 13 070,State Assembly,13,REP,Jeffrey Vitale,295
 Nassau,OB 13 071,State Assembly,13,REP,Jeffrey Vitale,0
-Nassau,Total,State Assembly,13,REP,Jeffrey Vitale,17794
 Nassau,GC 13 001,State Assembly,13,CON,Jeffrey Vitale,6
 Nassau,GC 13 002,State Assembly,13,CON,Jeffrey Vitale,21
 Nassau,GC 13 003,State Assembly,13,CON,Jeffrey Vitale,15
@@ -41661,7 +41562,6 @@ Nassau,OB 13 068,State Assembly,13,CON,Jeffrey Vitale,25
 Nassau,OB 13 069,State Assembly,13,CON,Jeffrey Vitale,18
 Nassau,OB 13 070,State Assembly,13,CON,Jeffrey Vitale,34
 Nassau,OB 13 071,State Assembly,13,CON,Jeffrey Vitale,0
-Nassau,Total,State Assembly,13,CON,Jeffrey Vitale,1783
 Nassau,GC 13 001,State Assembly,13,REF,Jeffrey Vitale,0
 Nassau,GC 13 002,State Assembly,13,REF,Jeffrey Vitale,1
 Nassau,GC 13 003,State Assembly,13,REF,Jeffrey Vitale,3
@@ -41777,7 +41677,6 @@ Nassau,OB 13 068,State Assembly,13,REF,Jeffrey Vitale,8
 Nassau,OB 13 069,State Assembly,13,REF,Jeffrey Vitale,2
 Nassau,OB 13 070,State Assembly,13,REF,Jeffrey Vitale,12
 Nassau,OB 13 071,State Assembly,13,REF,Jeffrey Vitale,0
-Nassau,Total,State Assembly,13,REF,Jeffrey Vitale,158
 Nassau,GC 13 001,State Assembly,13,GRN,Jeffrey Peress,4
 Nassau,GC 13 002,State Assembly,13,GRN,Jeffrey Peress,14
 Nassau,GC 13 003,State Assembly,13,GRN,Jeffrey Peress,5
@@ -41893,7 +41792,6 @@ Nassau,OB 13 068,State Assembly,13,GRN,Jeffrey Peress,14
 Nassau,OB 13 069,State Assembly,13,GRN,Jeffrey Peress,8
 Nassau,OB 13 070,State Assembly,13,GRN,Jeffrey Peress,21
 Nassau,OB 13 071,State Assembly,13,GRN,Jeffrey Peress,0
-Nassau,Total,State Assembly,13,GRN,Jeffrey Peress,648
 Nassau,GC 13 001,State Assembly,13,,Scattering,0
 Nassau,GC 13 002,State Assembly,13,,Scattering,0
 Nassau,GC 13 003,State Assembly,13,,Scattering,0
@@ -42009,7 +41907,6 @@ Nassau,OB 13 068,State Assembly,13,,Scattering,1
 Nassau,OB 13 069,State Assembly,13,,Scattering,0
 Nassau,OB 13 070,State Assembly,13,,Scattering,0
 Nassau,OB 13 071,State Assembly,13,,Scattering,0
-Nassau,Total,State Assembly,13,,Scattering,16
 Nassau,HE 14 001,State Assembly,14,DEM,Michael Reid,330
 Nassau,HE 14 002,State Assembly,14,DEM,Michael Reid,186
 Nassau,HE 14 003,State Assembly,14,DEM,Michael Reid,233
@@ -42121,7 +42018,6 @@ Nassau,HE 14 108,State Assembly,14,DEM,Michael Reid,430
 Nassau,HE 14 109,State Assembly,14,DEM,Michael Reid,159
 Nassau,HE 14 110,State Assembly,14,DEM,Michael Reid,0
 Nassau,HE 14 111,State Assembly,14,DEM,Michael Reid,180
-Nassau,Total,State Assembly,14,DEM,Michael Reid,22270
 Nassau,HE 14 001,State Assembly,14,WOR,Michael Reid,11
 Nassau,HE 14 002,State Assembly,14,WOR,Michael Reid,5
 Nassau,HE 14 003,State Assembly,14,WOR,Michael Reid,17
@@ -42233,7 +42129,6 @@ Nassau,HE 14 108,State Assembly,14,WOR,Michael Reid,4
 Nassau,HE 14 109,State Assembly,14,WOR,Michael Reid,14
 Nassau,HE 14 110,State Assembly,14,WOR,Michael Reid,0
 Nassau,HE 14 111,State Assembly,14,WOR,Michael Reid,6
-Nassau,Total,State Assembly,14,WOR,Michael Reid,920
 Nassau,HE 14 001,State Assembly,14,WEP,Michael Reid,8
 Nassau,HE 14 002,State Assembly,14,WEP,Michael Reid,5
 Nassau,HE 14 003,State Assembly,14,WEP,Michael Reid,6
@@ -42345,7 +42240,6 @@ Nassau,HE 14 108,State Assembly,14,WEP,Michael Reid,5
 Nassau,HE 14 109,State Assembly,14,WEP,Michael Reid,4
 Nassau,HE 14 110,State Assembly,14,WEP,Michael Reid,0
 Nassau,HE 14 111,State Assembly,14,WEP,Michael Reid,3
-Nassau,Total,State Assembly,14,WEP,Michael Reid,415
 Nassau,HE 14 001,State Assembly,14,REP,David McDonough,334
 Nassau,HE 14 002,State Assembly,14,REP,David McDonough,242
 Nassau,HE 14 003,State Assembly,14,REP,David McDonough,392
@@ -42457,7 +42351,6 @@ Nassau,HE 14 108,State Assembly,14,REP,David McDonough,9
 Nassau,HE 14 109,State Assembly,14,REP,David McDonough,286
 Nassau,HE 14 110,State Assembly,14,REP,David McDonough,0
 Nassau,HE 14 111,State Assembly,14,REP,David McDonough,275
-Nassau,Total,State Assembly,14,REP,David McDonough,35113
 Nassau,HE 14 001,State Assembly,14,CON,David McDonough,42
 Nassau,HE 14 002,State Assembly,14,CON,David McDonough,30
 Nassau,HE 14 003,State Assembly,14,CON,David McDonough,42
@@ -42569,7 +42462,6 @@ Nassau,HE 14 108,State Assembly,14,CON,David McDonough,0
 Nassau,HE 14 109,State Assembly,14,CON,David McDonough,49
 Nassau,HE 14 110,State Assembly,14,CON,David McDonough,0
 Nassau,HE 14 111,State Assembly,14,CON,David McDonough,29
-Nassau,Total,State Assembly,14,CON,David McDonough,3672
 Nassau,HE 14 001,State Assembly,14,IDC,David McDonough,6
 Nassau,HE 14 002,State Assembly,14,IDC,David McDonough,16
 Nassau,HE 14 003,State Assembly,14,IDC,David McDonough,8
@@ -42681,7 +42573,6 @@ Nassau,HE 14 108,State Assembly,14,IDC,David McDonough,3
 Nassau,HE 14 109,State Assembly,14,IDC,David McDonough,7
 Nassau,HE 14 110,State Assembly,14,IDC,David McDonough,0
 Nassau,HE 14 111,State Assembly,14,IDC,David McDonough,4
-Nassau,Total,State Assembly,14,IDC,David McDonough,849
 Nassau,HE 14 001,State Assembly,14,REF,David McDonough,2
 Nassau,HE 14 002,State Assembly,14,REF,David McDonough,2
 Nassau,HE 14 003,State Assembly,14,REF,David McDonough,2
@@ -42793,7 +42684,6 @@ Nassau,HE 14 108,State Assembly,14,REF,David McDonough,2
 Nassau,HE 14 109,State Assembly,14,REF,David McDonough,3
 Nassau,HE 14 110,State Assembly,14,REF,David McDonough,0
 Nassau,HE 14 111,State Assembly,14,REF,David McDonough,2
-Nassau,Total,State Assembly,14,REF,David McDonough,135
 Nassau,HE 14 001,State Assembly,14,TRP,David McDonough,7
 Nassau,HE 14 002,State Assembly,14,TRP,David McDonough,0
 Nassau,HE 14 003,State Assembly,14,TRP,David McDonough,5
@@ -42905,7 +42795,6 @@ Nassau,HE 14 108,State Assembly,14,TRP,David McDonough,1
 Nassau,HE 14 109,State Assembly,14,TRP,David McDonough,0
 Nassau,HE 14 110,State Assembly,14,TRP,David McDonough,0
 Nassau,HE 14 111,State Assembly,14,TRP,David McDonough,2
-Nassau,Total,State Assembly,14,TRP,David McDonough,282
 Nassau,HE 14 001,State Assembly,14,,Scattering,0
 Nassau,HE 14 002,State Assembly,14,,Scattering,0
 Nassau,HE 14 003,State Assembly,14,,Scattering,1
@@ -43017,7 +42906,6 @@ Nassau,HE 14 108,State Assembly,14,,Scattering,1
 Nassau,HE 14 109,State Assembly,14,,Scattering,1
 Nassau,HE 14 110,State Assembly,14,,Scattering,0
 Nassau,HE 14 111,State Assembly,14,,Scattering,1
-Nassau,Total,State Assembly,14,,Scattering,33
 Nassau,HE 15 001,State Assembly,15,DEM,Dean Hart,173
 Nassau,HE 15 002,State Assembly,15,DEM,Dean Hart,233
 Nassau,HE 15 003,State Assembly,15,DEM,Dean Hart,156
@@ -43149,7 +43037,6 @@ Nassau,OB 15 104,State Assembly,15,DEM,Dean Hart,49
 Nassau,OB 15 105,State Assembly,15,DEM,Dean Hart,51
 Nassau,OB 15 106,State Assembly,15,DEM,Dean Hart,109
 Nassau,OB 15 107,State Assembly,15,DEM,Dean Hart,0
-Nassau,Total,State Assembly,15,DEM,Dean Hart,23333
 Nassau,HE 15 001,State Assembly,15,WOR,Dean Hart,7
 Nassau,HE 15 002,State Assembly,15,WOR,Dean Hart,11
 Nassau,HE 15 003,State Assembly,15,WOR,Dean Hart,8
@@ -43281,7 +43168,6 @@ Nassau,OB 15 104,State Assembly,15,WOR,Dean Hart,2
 Nassau,OB 15 105,State Assembly,15,WOR,Dean Hart,1
 Nassau,OB 15 106,State Assembly,15,WOR,Dean Hart,3
 Nassau,OB 15 107,State Assembly,15,WOR,Dean Hart,0
-Nassau,Total,State Assembly,15,WOR,Dean Hart,977
 Nassau,HE 15 001,State Assembly,15,IDC,Dean Hart,5
 Nassau,HE 15 002,State Assembly,15,IDC,Dean Hart,10
 Nassau,HE 15 003,State Assembly,15,IDC,Dean Hart,5
@@ -43413,7 +43299,6 @@ Nassau,OB 15 104,State Assembly,15,IDC,Dean Hart,3
 Nassau,OB 15 105,State Assembly,15,IDC,Dean Hart,2
 Nassau,OB 15 106,State Assembly,15,IDC,Dean Hart,7
 Nassau,OB 15 107,State Assembly,15,IDC,Dean Hart,0
-Nassau,Total,State Assembly,15,IDC,Dean Hart,682
 Nassau,HE 15 001,State Assembly,15,WEP,Dean Hart,5
 Nassau,HE 15 002,State Assembly,15,WEP,Dean Hart,3
 Nassau,HE 15 003,State Assembly,15,WEP,Dean Hart,1
@@ -43545,7 +43430,6 @@ Nassau,OB 15 104,State Assembly,15,WEP,Dean Hart,1
 Nassau,OB 15 105,State Assembly,15,WEP,Dean Hart,0
 Nassau,OB 15 106,State Assembly,15,WEP,Dean Hart,2
 Nassau,OB 15 107,State Assembly,15,WEP,Dean Hart,0
-Nassau,Total,State Assembly,15,WEP,Dean Hart,389
 Nassau,HE 15 001,State Assembly,15,REP,Michael Montesano,166
 Nassau,HE 15 002,State Assembly,15,REP,Michael Montesano,293
 Nassau,HE 15 003,State Assembly,15,REP,Michael Montesano,175
@@ -43677,7 +43561,6 @@ Nassau,OB 15 104,State Assembly,15,REP,Michael Montesano,64
 Nassau,OB 15 105,State Assembly,15,REP,Michael Montesano,39
 Nassau,OB 15 106,State Assembly,15,REP,Michael Montesano,85
 Nassau,OB 15 107,State Assembly,15,REP,Michael Montesano,0
-Nassau,Total,State Assembly,15,REP,Michael Montesano,28354
 Nassau,HE 15 001,State Assembly,15,CON,Michael Montesano,17
 Nassau,HE 15 002,State Assembly,15,CON,Michael Montesano,23
 Nassau,HE 15 003,State Assembly,15,CON,Michael Montesano,17
@@ -43809,7 +43692,6 @@ Nassau,OB 15 104,State Assembly,15,CON,Michael Montesano,6
 Nassau,OB 15 105,State Assembly,15,CON,Michael Montesano,2
 Nassau,OB 15 106,State Assembly,15,CON,Michael Montesano,12
 Nassau,OB 15 107,State Assembly,15,CON,Michael Montesano,0
-Nassau,Total,State Assembly,15,CON,Michael Montesano,3188
 Nassau,HE 15 001,State Assembly,15,REF,Michael Montesano,3
 Nassau,HE 15 002,State Assembly,15,REF,Michael Montesano,5
 Nassau,HE 15 003,State Assembly,15,REF,Michael Montesano,3
@@ -43941,7 +43823,6 @@ Nassau,OB 15 104,State Assembly,15,REF,Michael Montesano,0
 Nassau,OB 15 105,State Assembly,15,REF,Michael Montesano,0
 Nassau,OB 15 106,State Assembly,15,REF,Michael Montesano,1
 Nassau,OB 15 107,State Assembly,15,REF,Michael Montesano,0
-Nassau,Total,State Assembly,15,REF,Michael Montesano,274
 Nassau,HE 15 001,State Assembly,15,,Scattering,0
 Nassau,HE 15 002,State Assembly,15,,Scattering,0
 Nassau,HE 15 003,State Assembly,15,,Scattering,1
@@ -44073,7 +43954,6 @@ Nassau,OB 15 104,State Assembly,15,,Scattering,0
 Nassau,OB 15 105,State Assembly,15,,Scattering,0
 Nassau,OB 15 106,State Assembly,15,,Scattering,1
 Nassau,OB 15 107,State Assembly,15,,Scattering,0
-Nassau,Total,State Assembly,15,,Scattering,32
 Nassau,NH 16 001,State Assembly,16,DEM,Anthony D'Urso,115
 Nassau,NH 16 002,State Assembly,16,DEM,Anthony D'Urso,143
 Nassau,NH 16 003,State Assembly,16,DEM,Anthony D'Urso,134
@@ -44192,7 +44072,6 @@ Nassau,NH 16 115,State Assembly,16,DEM,Anthony D'Urso,0
 Nassau,NH 16 116,State Assembly,16,DEM,Anthony D'Urso,0
 Nassau,NH 16 117,State Assembly,16,DEM,Anthony D'Urso,317
 Nassau,NH 16 118,State Assembly,16,DEM,Anthony D'Urso,0
-Nassau,Total,State Assembly,16,DEM,Anthony D'Urso,28064
 Nassau,NH 16 001,State Assembly,16,WOR,Anthony D'Urso,3
 Nassau,NH 16 002,State Assembly,16,WOR,Anthony D'Urso,3
 Nassau,NH 16 003,State Assembly,16,WOR,Anthony D'Urso,5
@@ -44311,7 +44190,6 @@ Nassau,NH 16 115,State Assembly,16,WOR,Anthony D'Urso,0
 Nassau,NH 16 116,State Assembly,16,WOR,Anthony D'Urso,0
 Nassau,NH 16 117,State Assembly,16,WOR,Anthony D'Urso,15
 Nassau,NH 16 118,State Assembly,16,WOR,Anthony D'Urso,0
-Nassau,Total,State Assembly,16,WOR,Anthony D'Urso,797
 Nassau,NH 16 001,State Assembly,16,IDC,Anthony D'Urso,4
 Nassau,NH 16 002,State Assembly,16,IDC,Anthony D'Urso,2
 Nassau,NH 16 003,State Assembly,16,IDC,Anthony D'Urso,5
@@ -44430,7 +44308,6 @@ Nassau,NH 16 115,State Assembly,16,IDC,Anthony D'Urso,0
 Nassau,NH 16 116,State Assembly,16,IDC,Anthony D'Urso,0
 Nassau,NH 16 117,State Assembly,16,IDC,Anthony D'Urso,2
 Nassau,NH 16 118,State Assembly,16,IDC,Anthony D'Urso,0
-Nassau,Total,State Assembly,16,IDC,Anthony D'Urso,407
 Nassau,NH 16 001,State Assembly,16,WEP,Anthony D'Urso,2
 Nassau,NH 16 002,State Assembly,16,WEP,Anthony D'Urso,1
 Nassau,NH 16 003,State Assembly,16,WEP,Anthony D'Urso,2
@@ -44549,7 +44426,6 @@ Nassau,NH 16 115,State Assembly,16,WEP,Anthony D'Urso,0
 Nassau,NH 16 116,State Assembly,16,WEP,Anthony D'Urso,0
 Nassau,NH 16 117,State Assembly,16,WEP,Anthony D'Urso,3
 Nassau,NH 16 118,State Assembly,16,WEP,Anthony D'Urso,0
-Nassau,Total,State Assembly,16,WEP,Anthony D'Urso,338
 Nassau,NH 16 001,State Assembly,16,REP,Matthew Varvaro,473
 Nassau,NH 16 002,State Assembly,16,REP,Matthew Varvaro,342
 Nassau,NH 16 003,State Assembly,16,REP,Matthew Varvaro,325
@@ -44668,7 +44544,6 @@ Nassau,NH 16 115,State Assembly,16,REP,Matthew Varvaro,0
 Nassau,NH 16 116,State Assembly,16,REP,Matthew Varvaro,0
 Nassau,NH 16 117,State Assembly,16,REP,Matthew Varvaro,184
 Nassau,NH 16 118,State Assembly,16,REP,Matthew Varvaro,0
-Nassau,Total,State Assembly,16,REP,Matthew Varvaro,24794
 Nassau,NH 16 001,State Assembly,16,CON,Matthew Varvaro,11
 Nassau,NH 16 002,State Assembly,16,CON,Matthew Varvaro,7
 Nassau,NH 16 003,State Assembly,16,CON,Matthew Varvaro,11
@@ -44787,7 +44662,6 @@ Nassau,NH 16 115,State Assembly,16,CON,Matthew Varvaro,0
 Nassau,NH 16 116,State Assembly,16,CON,Matthew Varvaro,0
 Nassau,NH 16 117,State Assembly,16,CON,Matthew Varvaro,23
 Nassau,NH 16 118,State Assembly,16,CON,Matthew Varvaro,0
-Nassau,Total,State Assembly,16,CON,Matthew Varvaro,2027
 Nassau,NH 16 001,State Assembly,16,REF,Matthew Varvaro,4
 Nassau,NH 16 002,State Assembly,16,REF,Matthew Varvaro,1
 Nassau,NH 16 003,State Assembly,16,REF,Matthew Varvaro,2
@@ -44906,7 +44780,6 @@ Nassau,NH 16 115,State Assembly,16,REF,Matthew Varvaro,0
 Nassau,NH 16 116,State Assembly,16,REF,Matthew Varvaro,0
 Nassau,NH 16 117,State Assembly,16,REF,Matthew Varvaro,3
 Nassau,NH 16 118,State Assembly,16,REF,Matthew Varvaro,0
-Nassau,Total,State Assembly,16,REF,Matthew Varvaro,297
 Nassau,NH 16 001,State Assembly,16,,Scattering,0
 Nassau,NH 16 002,State Assembly,16,,Scattering,0
 Nassau,NH 16 003,State Assembly,16,,Scattering,0
@@ -45025,7 +44898,6 @@ Nassau,NH 16 115,State Assembly,16,,Scattering,0
 Nassau,NH 16 116,State Assembly,16,,Scattering,0
 Nassau,NH 16 117,State Assembly,16,,Scattering,0
 Nassau,NH 16 118,State Assembly,16,,Scattering,0
-Nassau,Total,State Assembly,16,,Scattering,21
 Nassau,HE 17 001,State Assembly,17,DEM,Matthew Malin,110
 Nassau,HE 17 002,State Assembly,17,DEM,Matthew Malin,287
 Nassau,HE 17 003,State Assembly,17,DEM,Matthew Malin,159
@@ -45136,7 +45008,6 @@ Nassau,OB 17 043,State Assembly,17,DEM,Matthew Malin,116
 Nassau,OB 17 044,State Assembly,17,DEM,Matthew Malin,71
 Nassau,OB 17 045,State Assembly,17,DEM,Matthew Malin,143
 Nassau,OB TOT 17,State Assembly,17,DEM,Matthew Malin,6758
-Nassau,Total,State Assembly,17,DEM,Matthew Malin,20094
 Nassau,HE 17 001,State Assembly,17,WOR,Matthew Malin,5
 Nassau,HE 17 002,State Assembly,17,WOR,Matthew Malin,21
 Nassau,HE 17 003,State Assembly,17,WOR,Matthew Malin,6
@@ -45247,7 +45118,6 @@ Nassau,OB 17 043,State Assembly,17,WOR,Matthew Malin,15
 Nassau,OB 17 044,State Assembly,17,WOR,Matthew Malin,4
 Nassau,OB 17 045,State Assembly,17,WOR,Matthew Malin,12
 Nassau,OB TOT 17,State Assembly,17,WOR,Matthew Malin,416
-Nassau,Total,State Assembly,17,WOR,Matthew Malin,1084
 Nassau,HE 17 001,State Assembly,17,WEP,Matthew Malin,6
 Nassau,HE 17 002,State Assembly,17,WEP,Matthew Malin,14
 Nassau,HE 17 003,State Assembly,17,WEP,Matthew Malin,1
@@ -45358,7 +45228,6 @@ Nassau,OB 17 043,State Assembly,17,WEP,Matthew Malin,6
 Nassau,OB 17 044,State Assembly,17,WEP,Matthew Malin,2
 Nassau,OB 17 045,State Assembly,17,WEP,Matthew Malin,3
 Nassau,OB TOT 17,State Assembly,17,WEP,Matthew Malin,158
-Nassau,Total,State Assembly,17,WEP,Matthew Malin,403
 Nassau,HE 17 001,State Assembly,17,REP,Thomas McKevitt,143
 Nassau,HE 17 002,State Assembly,17,REP,Thomas McKevitt,384
 Nassau,HE 17 003,State Assembly,17,REP,Thomas McKevitt,240
@@ -45469,7 +45338,6 @@ Nassau,OB 17 043,State Assembly,17,REP,Thomas McKevitt,188
 Nassau,OB 17 044,State Assembly,17,REP,Thomas McKevitt,166
 Nassau,OB 17 045,State Assembly,17,REP,Thomas McKevitt,255
 Nassau,OB TOT 17,State Assembly,17,REP,Thomas McKevitt,14146
-Nassau,Total,State Assembly,17,REP,Thomas McKevitt,31472
 Nassau,HE 17 001,State Assembly,17,CON,Thomas McKevitt,14
 Nassau,HE 17 002,State Assembly,17,CON,Thomas McKevitt,42
 Nassau,HE 17 003,State Assembly,17,CON,Thomas McKevitt,30
@@ -45580,7 +45448,6 @@ Nassau,OB 17 043,State Assembly,17,CON,Thomas McKevitt,16
 Nassau,OB 17 044,State Assembly,17,CON,Thomas McKevitt,17
 Nassau,OB 17 045,State Assembly,17,CON,Thomas McKevitt,32
 Nassau,OB TOT 17,State Assembly,17,CON,Thomas McKevitt,1579
-Nassau,Total,State Assembly,17,CON,Thomas McKevitt,3528
 Nassau,HE 17 001,State Assembly,17,IDC,Thomas McKevitt,2
 Nassau,HE 17 002,State Assembly,17,IDC,Thomas McKevitt,14
 Nassau,HE 17 003,State Assembly,17,IDC,Thomas McKevitt,6
@@ -45691,7 +45558,6 @@ Nassau,OB 17 043,State Assembly,17,IDC,Thomas McKevitt,10
 Nassau,OB 17 044,State Assembly,17,IDC,Thomas McKevitt,6
 Nassau,OB 17 045,State Assembly,17,IDC,Thomas McKevitt,5
 Nassau,OB TOT 17,State Assembly,17,IDC,Thomas McKevitt,300
-Nassau,Total,State Assembly,17,IDC,Thomas McKevitt,767
 Nassau,HE 17 001,State Assembly,17,REF,Thomas McKevitt,1
 Nassau,HE 17 002,State Assembly,17,REF,Thomas McKevitt,3
 Nassau,HE 17 003,State Assembly,17,REF,Thomas McKevitt,2
@@ -45802,7 +45668,6 @@ Nassau,OB 17 043,State Assembly,17,REF,Thomas McKevitt,3
 Nassau,OB 17 044,State Assembly,17,REF,Thomas McKevitt,1
 Nassau,OB 17 045,State Assembly,17,REF,Thomas McKevitt,1
 Nassau,OB TOT 17,State Assembly,17,REF,Thomas McKevitt,67
-Nassau,Total,State Assembly,17,REF,Thomas McKevitt,145
 Nassau,HE 17 001,State Assembly,17,TRP,Thomas McKevitt,2
 Nassau,HE 17 002,State Assembly,17,TRP,Thomas McKevitt,3
 Nassau,HE 17 003,State Assembly,17,TRP,Thomas McKevitt,2
@@ -45913,7 +45778,6 @@ Nassau,OB 17 043,State Assembly,17,TRP,Thomas McKevitt,3
 Nassau,OB 17 044,State Assembly,17,TRP,Thomas McKevitt,0
 Nassau,OB 17 045,State Assembly,17,TRP,Thomas McKevitt,2
 Nassau,OB TOT 17,State Assembly,17,TRP,Thomas McKevitt,94
-Nassau,Total,State Assembly,17,TRP,Thomas McKevitt,235
 Nassau,HE 17 001,State Assembly,17,,Scattering,1
 Nassau,HE 17 002,State Assembly,17,,Scattering,0
 Nassau,HE 17 003,State Assembly,17,,Scattering,0
@@ -46024,7 +45888,6 @@ Nassau,OB 17 043,State Assembly,17,,Scattering,0
 Nassau,OB 17 044,State Assembly,17,,Scattering,1
 Nassau,OB 17 045,State Assembly,17,,Scattering,0
 Nassau,OB TOT 17,State Assembly,17,,Scattering,15
-Nassau,Total,State Assembly,17,,Scattering,34
 Nassau,HE 18 001,State Assembly,18,DEM,Earlene Hooper,330
 Nassau,HE 18 002,State Assembly,18,DEM,Earlene Hooper,334
 Nassau,HE 18 003,State Assembly,18,DEM,Earlene Hooper,149
@@ -46119,7 +45982,6 @@ Nassau,HE 18 091,State Assembly,18,DEM,Earlene Hooper,0
 Nassau,HE 18 092,State Assembly,18,DEM,Earlene Hooper,5
 Nassau,HE 18 093,State Assembly,18,DEM,Earlene Hooper,0
 Nassau,HE 18 094,State Assembly,18,DEM,Earlene Hooper,0
-Nassau,Total,State Assembly,18,DEM,Earlene Hooper,36419
 Nassau,HE 18 001,State Assembly,18,WOR,Earlene Hooper,5
 Nassau,HE 18 002,State Assembly,18,WOR,Earlene Hooper,3
 Nassau,HE 18 003,State Assembly,18,WOR,Earlene Hooper,4
@@ -46214,7 +46076,6 @@ Nassau,HE 18 091,State Assembly,18,WOR,Earlene Hooper,0
 Nassau,HE 18 092,State Assembly,18,WOR,Earlene Hooper,1
 Nassau,HE 18 093,State Assembly,18,WOR,Earlene Hooper,0
 Nassau,HE 18 094,State Assembly,18,WOR,Earlene Hooper,0
-Nassau,Total,State Assembly,18,WOR,Earlene Hooper,592
 Nassau,HE 18 001,State Assembly,18,REP,Todd Smith,48
 Nassau,HE 18 002,State Assembly,18,REP,Todd Smith,71
 Nassau,HE 18 003,State Assembly,18,REP,Todd Smith,18
@@ -46309,7 +46170,6 @@ Nassau,HE 18 091,State Assembly,18,REP,Todd Smith,0
 Nassau,HE 18 092,State Assembly,18,REP,Todd Smith,3
 Nassau,HE 18 093,State Assembly,18,REP,Todd Smith,0
 Nassau,HE 18 094,State Assembly,18,REP,Todd Smith,0
-Nassau,Total,State Assembly,18,REP,Todd Smith,4227
 Nassau,HE 18 001,State Assembly,18,CON,Todd Smith,11
 Nassau,HE 18 002,State Assembly,18,CON,Todd Smith,5
 Nassau,HE 18 003,State Assembly,18,CON,Todd Smith,3
@@ -46404,7 +46264,6 @@ Nassau,HE 18 091,State Assembly,18,CON,Todd Smith,0
 Nassau,HE 18 092,State Assembly,18,CON,Todd Smith,3
 Nassau,HE 18 093,State Assembly,18,CON,Todd Smith,0
 Nassau,HE 18 094,State Assembly,18,CON,Todd Smith,0
-Nassau,Total,State Assembly,18,CON,Todd Smith,675
 Nassau,HE 18 001,State Assembly,18,REF,Todd Smith,2
 Nassau,HE 18 002,State Assembly,18,REF,Todd Smith,0
 Nassau,HE 18 003,State Assembly,18,REF,Todd Smith,0
@@ -46499,7 +46358,6 @@ Nassau,HE 18 091,State Assembly,18,REF,Todd Smith,0
 Nassau,HE 18 092,State Assembly,18,REF,Todd Smith,0
 Nassau,HE 18 093,State Assembly,18,REF,Todd Smith,0
 Nassau,HE 18 094,State Assembly,18,REF,Todd Smith,0
-Nassau,Total,State Assembly,18,REF,Todd Smith,128
 Nassau,HE 18 001,State Assembly,18,,Scattering,0
 Nassau,HE 18 002,State Assembly,18,,Scattering,0
 Nassau,HE 18 003,State Assembly,18,,Scattering,1
@@ -46594,7 +46452,6 @@ Nassau,HE 18 091,State Assembly,18,,Scattering,0
 Nassau,HE 18 092,State Assembly,18,,Scattering,0
 Nassau,HE 18 093,State Assembly,18,,Scattering,0
 Nassau,HE 18 094,State Assembly,18,,Scattering,0
-Nassau,Total,State Assembly,18,,Scattering,23
 Nassau,HE 19 001,State Assembly,19,DEM,Gary Port,0
 Nassau,HE 19 002,State Assembly,19,DEM,Gary Port,173
 Nassau,HE 19 003,State Assembly,19,DEM,Gary Port,128
@@ -46723,7 +46580,6 @@ Nassau,OB 19 007,State Assembly,19,DEM,Gary Port,260
 Nassau,OB 19 008,State Assembly,19,DEM,Gary Port,258
 Nassau,OB 19 009,State Assembly,19,DEM,Gary Port,220
 Nassau,OB 19 010,State Assembly,19,DEM,Gary Port,81
-Nassau,Total,State Assembly,19,DEM,Gary Port,20394
 Nassau,HE 19 001,State Assembly,19,WOR,Gary Port,0
 Nassau,HE 19 002,State Assembly,19,WOR,Gary Port,11
 Nassau,HE 19 003,State Assembly,19,WOR,Gary Port,8
@@ -46852,7 +46708,6 @@ Nassau,OB 19 007,State Assembly,19,WOR,Gary Port,13
 Nassau,OB 19 008,State Assembly,19,WOR,Gary Port,7
 Nassau,OB 19 009,State Assembly,19,WOR,Gary Port,4
 Nassau,OB 19 010,State Assembly,19,WOR,Gary Port,1
-Nassau,Total,State Assembly,19,WOR,Gary Port,789
 Nassau,HE 19 001,State Assembly,19,WEP,Gary Port,0
 Nassau,HE 19 002,State Assembly,19,WEP,Gary Port,5
 Nassau,HE 19 003,State Assembly,19,WEP,Gary Port,3
@@ -46981,7 +46836,6 @@ Nassau,OB 19 007,State Assembly,19,WEP,Gary Port,3
 Nassau,OB 19 008,State Assembly,19,WEP,Gary Port,2
 Nassau,OB 19 009,State Assembly,19,WEP,Gary Port,6
 Nassau,OB 19 010,State Assembly,19,WEP,Gary Port,2
-Nassau,Total,State Assembly,19,WEP,Gary Port,428
 Nassau,HE 19 001,State Assembly,19,REP,Edward Ra,0
 Nassau,HE 19 002,State Assembly,19,REP,Edward Ra,317
 Nassau,HE 19 003,State Assembly,19,REP,Edward Ra,341
@@ -47110,7 +46964,6 @@ Nassau,OB 19 007,State Assembly,19,REP,Edward Ra,373
 Nassau,OB 19 008,State Assembly,19,REP,Edward Ra,325
 Nassau,OB 19 009,State Assembly,19,REP,Edward Ra,418
 Nassau,OB 19 010,State Assembly,19,REP,Edward Ra,115
-Nassau,Total,State Assembly,19,REP,Edward Ra,30239
 Nassau,HE 19 001,State Assembly,19,CON,Edward Ra,0
 Nassau,HE 19 002,State Assembly,19,CON,Edward Ra,27
 Nassau,HE 19 003,State Assembly,19,CON,Edward Ra,31
@@ -47239,7 +47092,6 @@ Nassau,OB 19 007,State Assembly,19,CON,Edward Ra,34
 Nassau,OB 19 008,State Assembly,19,CON,Edward Ra,33
 Nassau,OB 19 009,State Assembly,19,CON,Edward Ra,37
 Nassau,OB 19 010,State Assembly,19,CON,Edward Ra,9
-Nassau,Total,State Assembly,19,CON,Edward Ra,3399
 Nassau,HE 19 001,State Assembly,19,IDC,Edward Ra,0
 Nassau,HE 19 002,State Assembly,19,IDC,Edward Ra,5
 Nassau,HE 19 003,State Assembly,19,IDC,Edward Ra,11
@@ -47368,7 +47220,6 @@ Nassau,OB 19 007,State Assembly,19,IDC,Edward Ra,5
 Nassau,OB 19 008,State Assembly,19,IDC,Edward Ra,3
 Nassau,OB 19 009,State Assembly,19,IDC,Edward Ra,5
 Nassau,OB 19 010,State Assembly,19,IDC,Edward Ra,3
-Nassau,Total,State Assembly,19,IDC,Edward Ra,691
 Nassau,HE 19 001,State Assembly,19,REF,Edward Ra,0
 Nassau,HE 19 002,State Assembly,19,REF,Edward Ra,1
 Nassau,HE 19 003,State Assembly,19,REF,Edward Ra,1
@@ -47497,7 +47348,6 @@ Nassau,OB 19 007,State Assembly,19,REF,Edward Ra,1
 Nassau,OB 19 008,State Assembly,19,REF,Edward Ra,1
 Nassau,OB 19 009,State Assembly,19,REF,Edward Ra,0
 Nassau,OB 19 010,State Assembly,19,REF,Edward Ra,0
-Nassau,Total,State Assembly,19,REF,Edward Ra,98
 Nassau,HE 19 001,State Assembly,19,TRP,Edward Ra,0
 Nassau,HE 19 002,State Assembly,19,TRP,Edward Ra,3
 Nassau,HE 19 003,State Assembly,19,TRP,Edward Ra,0
@@ -47626,7 +47476,6 @@ Nassau,OB 19 007,State Assembly,19,TRP,Edward Ra,1
 Nassau,OB 19 008,State Assembly,19,TRP,Edward Ra,3
 Nassau,OB 19 009,State Assembly,19,TRP,Edward Ra,5
 Nassau,OB 19 010,State Assembly,19,TRP,Edward Ra,3
-Nassau,Total,State Assembly,19,TRP,Edward Ra,221
 Nassau,HE 19 001,State Assembly,19,,Scattering,0
 Nassau,HE 19 002,State Assembly,19,,Scattering,1
 Nassau,HE 19 003,State Assembly,19,,Scattering,0
@@ -47755,7 +47604,6 @@ Nassau,OB 19 007,State Assembly,19,,Scattering,0
 Nassau,OB 19 008,State Assembly,19,,Scattering,0
 Nassau,OB 19 009,State Assembly,19,,Scattering,0
 Nassau,OB 19 010,State Assembly,19,,Scattering,1
-Nassau,Total,State Assembly,19,,Scattering,27
 Nassau,HE 20 001,State Assembly,20,DEM,Anthony Eramo,93
 Nassau,HE 20 002,State Assembly,20,DEM,Anthony Eramo,330
 Nassau,HE 20 003,State Assembly,20,DEM,Anthony Eramo,182
@@ -47870,7 +47718,6 @@ Nassau,LB 20 021,State Assembly,20,DEM,Anthony Eramo,359
 Nassau,LB 20 022,State Assembly,20,DEM,Anthony Eramo,400
 Nassau,LB 20 023,State Assembly,20,DEM,Anthony Eramo,251
 Nassau,LB 20 024,State Assembly,20,DEM,Anthony Eramo,302
-Nassau,Total,State Assembly,20,DEM,Anthony Eramo,24580
 Nassau,HE 20 001,State Assembly,20,WOR,Anthony Eramo,1
 Nassau,HE 20 002,State Assembly,20,WOR,Anthony Eramo,12
 Nassau,HE 20 003,State Assembly,20,WOR,Anthony Eramo,4
@@ -47985,7 +47832,6 @@ Nassau,LB 20 021,State Assembly,20,WOR,Anthony Eramo,9
 Nassau,LB 20 022,State Assembly,20,WOR,Anthony Eramo,21
 Nassau,LB 20 023,State Assembly,20,WOR,Anthony Eramo,7
 Nassau,LB 20 024,State Assembly,20,WOR,Anthony Eramo,9
-Nassau,Total,State Assembly,20,WOR,Anthony Eramo,814
 Nassau,HE 20 001,State Assembly,20,IDC,Anthony Eramo,1
 Nassau,HE 20 002,State Assembly,20,IDC,Anthony Eramo,8
 Nassau,HE 20 003,State Assembly,20,IDC,Anthony Eramo,0
@@ -48100,7 +47946,6 @@ Nassau,LB 20 021,State Assembly,20,IDC,Anthony Eramo,3
 Nassau,LB 20 022,State Assembly,20,IDC,Anthony Eramo,5
 Nassau,LB 20 023,State Assembly,20,IDC,Anthony Eramo,2
 Nassau,LB 20 024,State Assembly,20,IDC,Anthony Eramo,2
-Nassau,Total,State Assembly,20,IDC,Anthony Eramo,459
 Nassau,HE 20 001,State Assembly,20,WEP,Anthony Eramo,3
 Nassau,HE 20 002,State Assembly,20,WEP,Anthony Eramo,7
 Nassau,HE 20 003,State Assembly,20,WEP,Anthony Eramo,0
@@ -48215,7 +48060,6 @@ Nassau,LB 20 021,State Assembly,20,WEP,Anthony Eramo,2
 Nassau,LB 20 022,State Assembly,20,WEP,Anthony Eramo,8
 Nassau,LB 20 023,State Assembly,20,WEP,Anthony Eramo,3
 Nassau,LB 20 024,State Assembly,20,WEP,Anthony Eramo,5
-Nassau,Total,State Assembly,20,WEP,Anthony Eramo,324
 Nassau,HE 20 001,State Assembly,20,REP,Melissa Miller,146
 Nassau,HE 20 002,State Assembly,20,REP,Melissa Miller,359
 Nassau,HE 20 003,State Assembly,20,REP,Melissa Miller,200
@@ -48330,7 +48174,6 @@ Nassau,LB 20 021,State Assembly,20,REP,Melissa Miller,154
 Nassau,LB 20 022,State Assembly,20,REP,Melissa Miller,194
 Nassau,LB 20 023,State Assembly,20,REP,Melissa Miller,160
 Nassau,LB 20 024,State Assembly,20,REP,Melissa Miller,164
-Nassau,Total,State Assembly,20,REP,Melissa Miller,26382
 Nassau,HE 20 001,State Assembly,20,CON,Melissa Miller,8
 Nassau,HE 20 002,State Assembly,20,CON,Melissa Miller,30
 Nassau,HE 20 003,State Assembly,20,CON,Melissa Miller,11
@@ -48445,7 +48288,6 @@ Nassau,LB 20 021,State Assembly,20,CON,Melissa Miller,21
 Nassau,LB 20 022,State Assembly,20,CON,Melissa Miller,18
 Nassau,LB 20 023,State Assembly,20,CON,Melissa Miller,16
 Nassau,LB 20 024,State Assembly,20,CON,Melissa Miller,18
-Nassau,Total,State Assembly,20,CON,Melissa Miller,2191
 Nassau,HE 20 001,State Assembly,20,REF,Melissa Miller,1
 Nassau,HE 20 002,State Assembly,20,REF,Melissa Miller,2
 Nassau,HE 20 003,State Assembly,20,REF,Melissa Miller,0
@@ -48560,7 +48402,6 @@ Nassau,LB 20 021,State Assembly,20,REF,Melissa Miller,2
 Nassau,LB 20 022,State Assembly,20,REF,Melissa Miller,3
 Nassau,LB 20 023,State Assembly,20,REF,Melissa Miller,1
 Nassau,LB 20 024,State Assembly,20,REF,Melissa Miller,1
-Nassau,Total,State Assembly,20,REF,Melissa Miller,238
 Nassau,HE 20 001,State Assembly,20,TRP,Melissa Miller,1
 Nassau,HE 20 002,State Assembly,20,TRP,Melissa Miller,3
 Nassau,HE 20 003,State Assembly,20,TRP,Melissa Miller,1
@@ -48675,7 +48516,6 @@ Nassau,LB 20 021,State Assembly,20,TRP,Melissa Miller,1
 Nassau,LB 20 022,State Assembly,20,TRP,Melissa Miller,2
 Nassau,LB 20 023,State Assembly,20,TRP,Melissa Miller,3
 Nassau,LB 20 024,State Assembly,20,TRP,Melissa Miller,2
-Nassau,Total,State Assembly,20,TRP,Melissa Miller,215
 Nassau,HE 20 001,State Assembly,20,GRN,Joseph Naham,0
 Nassau,HE 20 002,State Assembly,20,GRN,Joseph Naham,11
 Nassau,HE 20 003,State Assembly,20,GRN,Joseph Naham,3
@@ -48790,7 +48630,6 @@ Nassau,LB 20 021,State Assembly,20,GRN,Joseph Naham,12
 Nassau,LB 20 022,State Assembly,20,GRN,Joseph Naham,12
 Nassau,LB 20 023,State Assembly,20,GRN,Joseph Naham,23
 Nassau,LB 20 024,State Assembly,20,GRN,Joseph Naham,17
-Nassau,Total,State Assembly,20,GRN,Joseph Naham,879
 Nassau,HE 20 001,State Assembly,20,,Scattering,0
 Nassau,HE 20 002,State Assembly,20,,Scattering,0
 Nassau,HE 20 003,State Assembly,20,,Scattering,0
@@ -48905,7 +48744,6 @@ Nassau,LB 20 021,State Assembly,20,,Scattering,0
 Nassau,LB 20 022,State Assembly,20,,Scattering,0
 Nassau,LB 20 023,State Assembly,20,,Scattering,0
 Nassau,LB 20 024,State Assembly,20,,Scattering,1
-Nassau,Total,State Assembly,20,,Scattering,18
 Nassau,HE 21 001,State Assembly,21,DEM,Travis Bourgeois,310
 Nassau,HE 21 002,State Assembly,21,DEM,Travis Bourgeois,305
 Nassau,HE 21 003,State Assembly,21,DEM,Travis Bourgeois,344
@@ -49038,7 +48876,6 @@ Nassau,HE 21 129,State Assembly,21,DEM,Travis Bourgeois,0
 Nassau,HE 21 130,State Assembly,21,DEM,Travis Bourgeois,0
 Nassau,HE 21 131,State Assembly,21,DEM,Travis Bourgeois,0
 Nassau,HE 21 132,State Assembly,21,DEM,Travis Bourgeois,6
-Nassau,Total,State Assembly,21,DEM,Travis Bourgeois,25402
 Nassau,HE 21 001,State Assembly,21,REP,Brian Curran,396
 Nassau,HE 21 002,State Assembly,21,REP,Brian Curran,132
 Nassau,HE 21 003,State Assembly,21,REP,Brian Curran,205
@@ -49171,7 +49008,6 @@ Nassau,HE 21 129,State Assembly,21,REP,Brian Curran,0
 Nassau,HE 21 130,State Assembly,21,REP,Brian Curran,0
 Nassau,HE 21 131,State Assembly,21,REP,Brian Curran,0
 Nassau,HE 21 132,State Assembly,21,REP,Brian Curran,20
-Nassau,Total,State Assembly,21,REP,Brian Curran,29674
 Nassau,HE 21 001,State Assembly,21,CON,Brian Curran,28
 Nassau,HE 21 002,State Assembly,21,CON,Brian Curran,14
 Nassau,HE 21 003,State Assembly,21,CON,Brian Curran,21
@@ -49304,7 +49140,6 @@ Nassau,HE 21 129,State Assembly,21,CON,Brian Curran,0
 Nassau,HE 21 130,State Assembly,21,CON,Brian Curran,0
 Nassau,HE 21 131,State Assembly,21,CON,Brian Curran,0
 Nassau,HE 21 132,State Assembly,21,CON,Brian Curran,1
-Nassau,Total,State Assembly,21,CON,Brian Curran,3273
 Nassau,HE 21 001,State Assembly,21,IDC,Brian Curran,8
 Nassau,HE 21 002,State Assembly,21,IDC,Brian Curran,10
 Nassau,HE 21 003,State Assembly,21,IDC,Brian Curran,12
@@ -49437,7 +49272,6 @@ Nassau,HE 21 129,State Assembly,21,IDC,Brian Curran,0
 Nassau,HE 21 130,State Assembly,21,IDC,Brian Curran,0
 Nassau,HE 21 131,State Assembly,21,IDC,Brian Curran,0
 Nassau,HE 21 132,State Assembly,21,IDC,Brian Curran,1
-Nassau,Total,State Assembly,21,IDC,Brian Curran,1067
 Nassau,HE 21 001,State Assembly,21,REF,Brian Curran,1
 Nassau,HE 21 002,State Assembly,21,REF,Brian Curran,2
 Nassau,HE 21 003,State Assembly,21,REF,Brian Curran,1
@@ -49570,7 +49404,6 @@ Nassau,HE 21 129,State Assembly,21,REF,Brian Curran,0
 Nassau,HE 21 130,State Assembly,21,REF,Brian Curran,0
 Nassau,HE 21 131,State Assembly,21,REF,Brian Curran,0
 Nassau,HE 21 132,State Assembly,21,REF,Brian Curran,0
-Nassau,Total,State Assembly,21,REF,Brian Curran,191
 Nassau,HE 21 001,State Assembly,21,,Scattering,0
 Nassau,HE 21 002,State Assembly,21,,Scattering,0
 Nassau,HE 21 003,State Assembly,21,,Scattering,0
@@ -49703,7 +49536,6 @@ Nassau,HE 21 129,State Assembly,21,,Scattering,0
 Nassau,HE 21 130,State Assembly,21,,Scattering,0
 Nassau,HE 21 131,State Assembly,21,,Scattering,0
 Nassau,HE 21 132,State Assembly,21,,Scattering,0
-Nassau,Total,State Assembly,21,,Scattering,25
 Nassau,HE 22 001,State Assembly,22,DEM,Michaelle Solages,301
 Nassau,HE 22 002,State Assembly,22,DEM,Michaelle Solages,277
 Nassau,HE 22 003,State Assembly,22,DEM,Michaelle Solages,283
@@ -49809,7 +49641,6 @@ Nassau,HE 22 102,State Assembly,22,DEM,Michaelle Solages,118
 Nassau,HE 22 103,State Assembly,22,DEM,Michaelle Solages,21
 Nassau,HE 22 104,State Assembly,22,DEM,Michaelle Solages,94
 Nassau,HE 22 105,State Assembly,22,DEM,Michaelle Solages,1
-Nassau,Total,State Assembly,22,DEM,Michaelle Solages,34986
 Nassau,HE 22 001,State Assembly,22,WOR,Michaelle Solages,7
 Nassau,HE 22 002,State Assembly,22,WOR,Michaelle Solages,11
 Nassau,HE 22 003,State Assembly,22,WOR,Michaelle Solages,15
@@ -49915,7 +49746,6 @@ Nassau,HE 22 102,State Assembly,22,WOR,Michaelle Solages,0
 Nassau,HE 22 103,State Assembly,22,WOR,Michaelle Solages,2
 Nassau,HE 22 104,State Assembly,22,WOR,Michaelle Solages,3
 Nassau,HE 22 105,State Assembly,22,WOR,Michaelle Solages,0
-Nassau,Total,State Assembly,22,WOR,Michaelle Solages,1017
 Nassau,HE 22 001,State Assembly,22,IDC,Michaelle Solages,7
 Nassau,HE 22 002,State Assembly,22,IDC,Michaelle Solages,8
 Nassau,HE 22 003,State Assembly,22,IDC,Michaelle Solages,11
@@ -50021,7 +49851,6 @@ Nassau,HE 22 102,State Assembly,22,IDC,Michaelle Solages,0
 Nassau,HE 22 103,State Assembly,22,IDC,Michaelle Solages,2
 Nassau,HE 22 104,State Assembly,22,IDC,Michaelle Solages,0
 Nassau,HE 22 105,State Assembly,22,IDC,Michaelle Solages,0
-Nassau,Total,State Assembly,22,IDC,Michaelle Solages,562
 Nassau,HE 22 001,State Assembly,22,WEP,Michaelle Solages,4
 Nassau,HE 22 002,State Assembly,22,WEP,Michaelle Solages,2
 Nassau,HE 22 003,State Assembly,22,WEP,Michaelle Solages,3
@@ -50127,7 +49956,6 @@ Nassau,HE 22 102,State Assembly,22,WEP,Michaelle Solages,0
 Nassau,HE 22 103,State Assembly,22,WEP,Michaelle Solages,1
 Nassau,HE 22 104,State Assembly,22,WEP,Michaelle Solages,1
 Nassau,HE 22 105,State Assembly,22,WEP,Michaelle Solages,0
-Nassau,Total,State Assembly,22,WEP,Michaelle Solages,396
 Nassau,HE 22 001,State Assembly,22,REP,Robert Bogle,74
 Nassau,HE 22 002,State Assembly,22,REP,Robert Bogle,131
 Nassau,HE 22 003,State Assembly,22,REP,Robert Bogle,280
@@ -50233,7 +50061,6 @@ Nassau,HE 22 102,State Assembly,22,REP,Robert Bogle,78
 Nassau,HE 22 103,State Assembly,22,REP,Robert Bogle,23
 Nassau,HE 22 104,State Assembly,22,REP,Robert Bogle,89
 Nassau,HE 22 105,State Assembly,22,REP,Robert Bogle,0
-Nassau,Total,State Assembly,22,REP,Robert Bogle,16736
 Nassau,HE 22 001,State Assembly,22,CON,Robert Bogle,13
 Nassau,HE 22 002,State Assembly,22,CON,Robert Bogle,13
 Nassau,HE 22 003,State Assembly,22,CON,Robert Bogle,46
@@ -50339,7 +50166,6 @@ Nassau,HE 22 102,State Assembly,22,CON,Robert Bogle,2
 Nassau,HE 22 103,State Assembly,22,CON,Robert Bogle,4
 Nassau,HE 22 104,State Assembly,22,CON,Robert Bogle,3
 Nassau,HE 22 105,State Assembly,22,CON,Robert Bogle,0
-Nassau,Total,State Assembly,22,CON,Robert Bogle,1822
 Nassau,HE 22 001,State Assembly,22,REF,Robert Bogle,0
 Nassau,HE 22 002,State Assembly,22,REF,Robert Bogle,3
 Nassau,HE 22 003,State Assembly,22,REF,Robert Bogle,3
@@ -50445,7 +50271,6 @@ Nassau,HE 22 102,State Assembly,22,REF,Robert Bogle,2
 Nassau,HE 22 103,State Assembly,22,REF,Robert Bogle,0
 Nassau,HE 22 104,State Assembly,22,REF,Robert Bogle,0
 Nassau,HE 22 105,State Assembly,22,REF,Robert Bogle,0
-Nassau,Total,State Assembly,22,REF,Robert Bogle,193
 Nassau,HE 22 001,State Assembly,22,,Scattering,0
 Nassau,HE 22 002,State Assembly,22,,Scattering,0
 Nassau,HE 22 003,State Assembly,22,,Scattering,0
@@ -50551,4 +50376,3 @@ Nassau,HE 22 102,State Assembly,22,,Scattering,0
 Nassau,HE 22 103,State Assembly,22,,Scattering,0
 Nassau,HE 22 104,State Assembly,22,,Scattering,0
 Nassau,HE 22 105,State Assembly,22,,Scattering,0
-Nassau,Total,State Assembly,22,,Scattering,24

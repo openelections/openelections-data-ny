@@ -1,5 +1,4 @@
 county,precinct,office,district,candidate,party,votes
-Oneida,Total,President,,Hillary Clinton,DEM,32217
 Oneida,Utica W1P01,President,,Hillary Clinton,DEM,50
 Oneida,Utica W1P02,President,,Hillary Clinton,DEM,92
 Oneida,Utica W1P03,President,,Hillary Clinton,DEM,100
@@ -51,7 +50,6 @@ Oneida,Utica W6P06,President,,Hillary Clinton,DEM,220
 Oneida,Utica W6P07,President,,Hillary Clinton,DEM,195
 Oneida,Utica W6P08,President,,Hillary Clinton,DEM,276
 Oneida,Utica W6P09,President,,Hillary Clinton,DEM,115
-Oneida,Total,President,,Donald Trump,REP,46282
 Oneida,Utica W1P01,President,,Donald Trump,REP,33
 Oneida,Utica W1P02,President,,Donald Trump,REP,23
 Oneida,Utica W1P03,President,,Donald Trump,REP,24
@@ -103,7 +101,6 @@ Oneida,Utica W6P06,President,,Donald Trump,REP,322
 Oneida,Utica W6P07,President,,Donald Trump,REP,215
 Oneida,Utica W6P08,President,,Donald Trump,REP,287
 Oneida,Utica W6P09,President,,Donald Trump,REP,65
-Oneida,Total,President,,Donald Trump,CON,5155
 Oneida,Utica W1P01,President,,Donald Trump,CON,6
 Oneida,Utica W1P02,President,,Donald Trump,CON,4
 Oneida,Utica W1P03,President,,Donald Trump,CON,4
@@ -155,7 +152,6 @@ Oneida,Utica W6P06,President,,Donald Trump,CON,21
 Oneida,Utica W6P07,President,,Donald Trump,CON,21
 Oneida,Utica W6P08,President,,Donald Trump,CON,22
 Oneida,Utica W6P09,President,,Donald Trump,CON,6
-Oneida,Total,President,,Jill Stein,GRN,1235
 Oneida,Utica W1P01,President,,Jill Stein,GRN,3
 Oneida,Utica W1P02,President,,Jill Stein,GRN,3
 Oneida,Utica W1P03,President,,Jill Stein,GRN,2
@@ -207,7 +203,6 @@ Oneida,Utica W6P06,President,,Jill Stein,GRN,5
 Oneida,Utica W6P07,President,,Jill Stein,GRN,5
 Oneida,Utica W6P08,President,,Jill Stein,GRN,8
 Oneida,Utica W6P09,President,,Jill Stein,GRN,4
-Oneida,Total,President,,Hillary Clinton,WOR,1070
 Oneida,Utica W1P01,President,,Hillary Clinton,WOR,1
 Oneida,Utica W1P02,President,,Hillary Clinton,WOR,3
 Oneida,Utica W1P03,President,,Hillary Clinton,WOR,3
@@ -259,7 +254,6 @@ Oneida,Utica W6P06,President,,Hillary Clinton,WOR,4
 Oneida,Utica W6P07,President,,Hillary Clinton,WOR,3
 Oneida,Utica W6P08,President,,Hillary Clinton,WOR,10
 Oneida,Utica W6P09,President,,Hillary Clinton,WOR,3
-Oneida,Total,President,,Gary Johnson,IDC,2682
 Oneida,Utica W1P01,President,,Gary Johnson,IDC,3
 Oneida,Utica W1P02,President,,Gary Johnson,IDC,2
 Oneida,Utica W1P03,President,,Gary Johnson,IDC,1
@@ -311,7 +305,6 @@ Oneida,Utica W6P06,President,,Gary Johnson,IDC,10
 Oneida,Utica W6P07,President,,Gary Johnson,IDC,13
 Oneida,Utica W6P08,President,,Gary Johnson,IDC,8
 Oneida,Utica W6P09,President,,Gary Johnson,IDC,3
-Oneida,Total,President,,Hillary Clinton,WEP,456
 Oneida,Utica W1P01,President,,Hillary Clinton,WEP,1
 Oneida,Utica W1P02,President,,Hillary Clinton,WEP,3
 Oneida,Utica W1P03,President,,Hillary Clinton,WEP,2
@@ -363,7 +356,6 @@ Oneida,Utica W6P06,President,,Hillary Clinton,WEP,3
 Oneida,Utica W6P07,President,,Hillary Clinton,WEP,3
 Oneida,Utica W6P08,President,,Hillary Clinton,WEP,4
 Oneida,Utica W6P09,President,,Hillary Clinton,WEP,0
-Oneida,Total,President,,Gary Johnson,LBT,1072
 Oneida,Utica W1P01,President,,Gary Johnson,LBT,0
 Oneida,Utica W1P02,President,,Gary Johnson,LBT,1
 Oneida,Utica W1P03,President,,Gary Johnson,LBT,4

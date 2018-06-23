@@ -162,7 +162,6 @@ Ulster,Woodstock 6,President,,DEM,Hillary Clinton,285
 Ulster,Woodstock 7,President,,DEM,Hillary Clinton,313
 Ulster,Woodstock 8,President,,DEM,Hillary Clinton,218
 Ulster,Woodstock 9,President,,DEM,Hillary Clinton,278
-Ulster,Total,President,,DEM,Hillary Clinton,40674
 Ulster,Kingston Ward 1 -1,President,,WOR,Hillary Clinton,3
 Ulster,Kingston Ward 1 -2,President,,WOR,Hillary Clinton,10
 Ulster,Kingston Ward 1 -3,President,,WOR,Hillary Clinton,22
@@ -326,7 +325,6 @@ Ulster,Woodstock 6,President,,WOR,Hillary Clinton,23
 Ulster,Woodstock 7,President,,WOR,Hillary Clinton,34
 Ulster,Woodstock 8,President,,WOR,Hillary Clinton,17
 Ulster,Woodstock 9,President,,WOR,Hillary Clinton,30
-Ulster,Total,President,,WOR,Hillary Clinton,3192
 Ulster,Kingston Ward 1 -1,President,,WEP,Hillary Clinton,2
 Ulster,Kingston Ward 1 -2,President,,WEP,Hillary Clinton,0
 Ulster,Kingston Ward 1 -3,President,,WEP,Hillary Clinton,2
@@ -490,7 +488,6 @@ Ulster,Woodstock 6,President,,WEP,Hillary Clinton,9
 Ulster,Woodstock 7,President,,WEP,Hillary Clinton,6
 Ulster,Woodstock 8,President,,WEP,Hillary Clinton,5
 Ulster,Woodstock 9,President,,WEP,Hillary Clinton,6
-Ulster,Total,President,,WEP,Hillary Clinton,731
 Ulster,Kingston Ward 1 -1,President,,REP,Donald Trump,92
 Ulster,Kingston Ward 1 -2,President,,REP,Donald Trump,202
 Ulster,Kingston Ward 1 -3,President,,REP,Donald Trump,124
@@ -654,7 +651,6 @@ Ulster,Woodstock 6,President,,REP,Donald Trump,86
 Ulster,Woodstock 7,President,,REP,Donald Trump,54
 Ulster,Woodstock 8,President,,REP,Donald Trump,29
 Ulster,Woodstock 9,President,,REP,Donald Trump,54
-Ulster,Total,President,,REP,Donald Trump,30288
 Ulster,Kingston Ward 1 -1,President,,CON,Donald Trump,12
 Ulster,Kingston Ward 1 -2,President,,CON,Donald Trump,27
 Ulster,Kingston Ward 1 -3,President,,CON,Donald Trump,25
@@ -818,7 +814,6 @@ Ulster,Woodstock 6,President,,CON,Donald Trump,16
 Ulster,Woodstock 7,President,,CON,Donald Trump,1
 Ulster,Woodstock 8,President,,CON,Donald Trump,5
 Ulster,Woodstock 9,President,,CON,Donald Trump,6
-Ulster,Total,President,,CON,Donald Trump,4951
 Ulster,Kingston Ward 1 -1,President,,GRN,Jill Stein,3
 Ulster,Kingston Ward 1 -2,President,,GRN,Jill Stein,16
 Ulster,Kingston Ward 1 -3,President,,GRN,Jill Stein,17
@@ -982,7 +977,6 @@ Ulster,Woodstock 6,President,,GRN,Jill Stein,16
 Ulster,Woodstock 7,President,,GRN,Jill Stein,17
 Ulster,Woodstock 8,President,,GRN,Jill Stein,12
 Ulster,Woodstock 9,President,,GRN,Jill Stein,12
-Ulster,Total,President,,GRN,Jill Stein,2147
 Ulster,Kingston Ward 1 -1,President,,IDC,Gary Johnson,9
 Ulster,Kingston Ward 1 -2,President,,IDC,Gary Johnson,15
 Ulster,Kingston Ward 1 -3,President,,IDC,Gary Johnson,6
@@ -1146,7 +1140,6 @@ Ulster,Woodstock 6,President,,IDC,Gary Johnson,0
 Ulster,Woodstock 7,President,,IDC,Gary Johnson,0
 Ulster,Woodstock 8,President,,IDC,Gary Johnson,1
 Ulster,Woodstock 9,President,,IDC,Gary Johnson,1
-Ulster,Total,President,,IDC,Gary Johnson,1570
 Ulster,Kingston Ward 1 -1,President,,LBT,Gary Johnson,1
 Ulster,Kingston Ward 1 -2,President,,LBT,Gary Johnson,3
 Ulster,Kingston Ward 1 -3,President,,LBT,Gary Johnson,6
@@ -1310,7 +1303,6 @@ Ulster,Woodstock 6,President,,LBT,Gary Johnson,6
 Ulster,Woodstock 7,President,,LBT,Gary Johnson,1
 Ulster,Woodstock 8,President,,LBT,Gary Johnson,1
 Ulster,Woodstock 9,President,,LBT,Gary Johnson,4
-Ulster,Total,President,,LBT,Gary Johnson,822
 Ulster,Kingston Ward 1 -1,President,,,Write-ins,0
 Ulster,Kingston Ward 1 -2,President,,,Write-ins,2
 Ulster,Kingston Ward 1 -3,President,,,Write-ins,0
@@ -1474,7 +1466,6 @@ Ulster,Woodstock 6,President,,,Write-ins,1
 Ulster,Woodstock 7,President,,,Write-ins,0
 Ulster,Woodstock 8,President,,,Write-ins,0
 Ulster,Woodstock 9,President,,,Write-ins,1
-Ulster,Total,President,,,Write-ins,160
 Ulster,Kingston Ward 1 -1,U.S. Senate,,DEM,Charles Schumer,185
 Ulster,Kingston Ward 1 -2,U.S. Senate,,DEM,Charles Schumer,324
 Ulster,Kingston Ward 1 -3,U.S. Senate,,DEM,Charles Schumer,276
@@ -1638,7 +1629,6 @@ Ulster,Woodstock 6,U.S. Senate,,DEM,Charles Schumer,295
 Ulster,Woodstock 7,U.S. Senate,,DEM,Charles Schumer,304
 Ulster,Woodstock 8,U.S. Senate,,DEM,Charles Schumer,217
 Ulster,Woodstock 9,U.S. Senate,,DEM,Charles Schumer,269
-Ulster,Total,U.S. Senate,,DEM,Charles Schumer,44742
 Ulster,Kingston Ward 1 -1,U.S. Senate,,WOR,Charles Schumer,8
 Ulster,Kingston Ward 1 -2,U.S. Senate,,WOR,Charles Schumer,26
 Ulster,Kingston Ward 1 -3,U.S. Senate,,WOR,Charles Schumer,26
@@ -1802,7 +1792,6 @@ Ulster,Woodstock 6,U.S. Senate,,WOR,Charles Schumer,30
 Ulster,Woodstock 7,U.S. Senate,,WOR,Charles Schumer,35
 Ulster,Woodstock 8,U.S. Senate,,WOR,Charles Schumer,16
 Ulster,Woodstock 9,U.S. Senate,,WOR,Charles Schumer,37
-Ulster,Total,U.S. Senate,,WOR,Charles Schumer,4699
 Ulster,Kingston Ward 1 -1,U.S. Senate,,IDC,Charles Schumer,13
 Ulster,Kingston Ward 1 -2,U.S. Senate,,IDC,Charles Schumer,26
 Ulster,Kingston Ward 1 -3,U.S. Senate,,IDC,Charles Schumer,14
@@ -1966,7 +1955,6 @@ Ulster,Woodstock 6,U.S. Senate,,IDC,Charles Schumer,8
 Ulster,Woodstock 7,U.S. Senate,,IDC,Charles Schumer,3
 Ulster,Woodstock 8,U.S. Senate,,IDC,Charles Schumer,2
 Ulster,Woodstock 9,U.S. Senate,,IDC,Charles Schumer,3
-Ulster,Total,U.S. Senate,,IDC,Charles Schumer,2249
 Ulster,Kingston Ward 1 -1,U.S. Senate,,WEP,Charles Schumer,2
 Ulster,Kingston Ward 1 -2,U.S. Senate,,WEP,Charles Schumer,1
 Ulster,Kingston Ward 1 -3,U.S. Senate,,WEP,Charles Schumer,3
@@ -2130,7 +2118,6 @@ Ulster,Woodstock 6,U.S. Senate,,WEP,Charles Schumer,7
 Ulster,Woodstock 7,U.S. Senate,,WEP,Charles Schumer,7
 Ulster,Woodstock 8,U.S. Senate,,WEP,Charles Schumer,6
 Ulster,Woodstock 9,U.S. Senate,,WEP,Charles Schumer,3
-Ulster,Total,U.S. Senate,,WEP,Charles Schumer,908
 Ulster,Kingston Ward 1 -1,U.S. Senate,,REP,Wendy Long,49
 Ulster,Kingston Ward 1 -2,U.S. Senate,,REP,Wendy Long,128
 Ulster,Kingston Ward 1 -3,U.S. Senate,,REP,Wendy Long,76
@@ -2294,7 +2281,6 @@ Ulster,Woodstock 6,U.S. Senate,,REP,Wendy Long,71
 Ulster,Woodstock 7,U.S. Senate,,REP,Wendy Long,42
 Ulster,Woodstock 8,U.S. Senate,,REP,Wendy Long,25
 Ulster,Woodstock 9,U.S. Senate,,REP,Wendy Long,45
-Ulster,Total,U.S. Senate,,REP,Wendy Long,21355
 Ulster,Kingston Ward 1 -1,U.S. Senate,,CON,Wendy Long,8
 Ulster,Kingston Ward 1 -2,U.S. Senate,,CON,Wendy Long,19
 Ulster,Kingston Ward 1 -3,U.S. Senate,,CON,Wendy Long,27
@@ -2458,7 +2444,6 @@ Ulster,Woodstock 6,U.S. Senate,,CON,Wendy Long,12
 Ulster,Woodstock 7,U.S. Senate,,CON,Wendy Long,4
 Ulster,Woodstock 8,U.S. Senate,,CON,Wendy Long,3
 Ulster,Woodstock 9,U.S. Senate,,CON,Wendy Long,6
-Ulster,Total,U.S. Senate,,CON,Wendy Long,4407
 Ulster,Kingston Ward 1 -1,U.S. Senate,,REF,Wendy Long,1
 Ulster,Kingston Ward 1 -2,U.S. Senate,,REF,Wendy Long,0
 Ulster,Kingston Ward 1 -3,U.S. Senate,,REF,Wendy Long,2
@@ -2622,7 +2607,6 @@ Ulster,Woodstock 6,U.S. Senate,,REF,Wendy Long,2
 Ulster,Woodstock 7,U.S. Senate,,REF,Wendy Long,2
 Ulster,Woodstock 8,U.S. Senate,,REF,Wendy Long,1
 Ulster,Woodstock 9,U.S. Senate,,REF,Wendy Long,2
-Ulster,Total,U.S. Senate,,REF,Wendy Long,267
 Ulster,Kingston Ward 1 -1,U.S. Senate,,GRN,Robin Turner,2
 Ulster,Kingston Ward 1 -2,U.S. Senate,,GRN,Robin Turner,12
 Ulster,Kingston Ward 1 -3,U.S. Senate,,GRN,Robin Turner,13
@@ -2786,7 +2770,6 @@ Ulster,Woodstock 6,U.S. Senate,,GRN,Robin Turner,10
 Ulster,Woodstock 7,U.S. Senate,,GRN,Robin Turner,14
 Ulster,Woodstock 8,U.S. Senate,,GRN,Robin Turner,10
 Ulster,Woodstock 9,U.S. Senate,,GRN,Robin Turner,15
-Ulster,Total,U.S. Senate,,GRN,Robin Turner,1994
 Ulster,Kingston Ward 1 -1,U.S. Senate,,LBT,Alex Merced,1
 Ulster,Kingston Ward 1 -2,U.S. Senate,,LBT,Alex Merced,6
 Ulster,Kingston Ward 1 -3,U.S. Senate,,LBT,Alex Merced,2
@@ -2950,7 +2933,6 @@ Ulster,Woodstock 6,U.S. Senate,,LBT,Alex Merced,2
 Ulster,Woodstock 7,U.S. Senate,,LBT,Alex Merced,3
 Ulster,Woodstock 8,U.S. Senate,,LBT,Alex Merced,3
 Ulster,Woodstock 9,U.S. Senate,,LBT,Alex Merced,2
-Ulster,Total,U.S. Senate,,LBT,Alex Merced,749
 Ulster,Kingston Ward 1 -1,U.S. Senate,,,Scatterings,0
 Ulster,Kingston Ward 1 -2,U.S. Senate,,,Scatterings,0
 Ulster,Kingston Ward 1 -3,U.S. Senate,,,Scatterings,0
@@ -3114,7 +3096,6 @@ Ulster,Woodstock 6,U.S. Senate,,,Scatterings,0
 Ulster,Woodstock 7,U.S. Senate,,,Scatterings,0
 Ulster,Woodstock 8,U.S. Senate,,,Scatterings,0
 Ulster,Woodstock 9,U.S. Senate,,,Scatterings,1
-Ulster,Total,U.S. Senate,,,Scatterings,21
 Ulster,Kingston Ward 1 -1,U.S. House,19,DEM,Zephyr Teachout,154
 Ulster,Kingston Ward 1 -2,U.S. House,19,DEM,Zephyr Teachout,266
 Ulster,Kingston Ward 1 -3,U.S. House,19,DEM,Zephyr Teachout,246
@@ -3278,7 +3259,6 @@ Ulster,Woodstock 6,U.S. House,19,DEM,Zephyr Teachout,280
 Ulster,Woodstock 7,U.S. House,19,DEM,Zephyr Teachout,305
 Ulster,Woodstock 8,U.S. House,19,DEM,Zephyr Teachout,217
 Ulster,Woodstock 9,U.S. House,19,DEM,Zephyr Teachout,275
-Ulster,Total,U.S. House,19,DEM,Zephyr Teachout,39997
 Ulster,Kingston Ward 1 -1,U.S. House,19,WOR,Zephyr Teachout,13
 Ulster,Kingston Ward 1 -2,U.S. House,19,WOR,Zephyr Teachout,28
 Ulster,Kingston Ward 1 -3,U.S. House,19,WOR,Zephyr Teachout,30
@@ -3442,7 +3422,6 @@ Ulster,Woodstock 6,U.S. House,19,WOR,Zephyr Teachout,39
 Ulster,Woodstock 7,U.S. House,19,WOR,Zephyr Teachout,56
 Ulster,Woodstock 8,U.S. House,19,WOR,Zephyr Teachout,27
 Ulster,Woodstock 9,U.S. House,19,WOR,Zephyr Teachout,41
-Ulster,Total,U.S. House,19,WOR,Zephyr Teachout,5544
 Ulster,Kingston Ward 1 -1,U.S. House,19,REP,John Faso,82
 Ulster,Kingston Ward 1 -2,U.S. House,19,REP,John Faso,202
 Ulster,Kingston Ward 1 -3,U.S. House,19,REP,John Faso,123
@@ -3606,7 +3585,6 @@ Ulster,Woodstock 6,U.S. House,19,REP,John Faso,93
 Ulster,Woodstock 7,U.S. House,19,REP,John Faso,53
 Ulster,Woodstock 8,U.S. House,19,REP,John Faso,30
 Ulster,Woodstock 9,U.S. House,19,REP,John Faso,58
-Ulster,Total,U.S. House,19,REP,John Faso,28805
 Ulster,Kingston Ward 1 -1,U.S. House,19,CON,John Faso,9
 Ulster,Kingston Ward 1 -2,U.S. House,19,CON,John Faso,30
 Ulster,Kingston Ward 1 -3,U.S. House,19,CON,John Faso,28
@@ -3770,7 +3748,6 @@ Ulster,Woodstock 6,U.S. House,19,CON,John Faso,18
 Ulster,Woodstock 7,U.S. House,19,CON,John Faso,3
 Ulster,Woodstock 8,U.S. House,19,CON,John Faso,5
 Ulster,Woodstock 9,U.S. House,19,CON,John Faso,6
-Ulster,Total,U.S. House,19,CON,John Faso,5248
 Ulster,Kingston Ward 1 -1,U.S. House,19,IDC,John Faso,10
 Ulster,Kingston Ward 1 -2,U.S. House,19,IDC,John Faso,21
 Ulster,Kingston Ward 1 -3,U.S. House,19,IDC,John Faso,13
@@ -3934,7 +3911,6 @@ Ulster,Woodstock 6,U.S. House,19,IDC,John Faso,8
 Ulster,Woodstock 7,U.S. House,19,IDC,John Faso,3
 Ulster,Woodstock 8,U.S. House,19,IDC,John Faso,2
 Ulster,Woodstock 9,U.S. House,19,IDC,John Faso,3
-Ulster,Total,U.S. House,19,IDC,John Faso,1943
 Ulster,Kingston Ward 1 -1,U.S. House,19,REF,John Faso,0
 Ulster,Kingston Ward 1 -2,U.S. House,19,REF,John Faso,2
 Ulster,Kingston Ward 1 -3,U.S. House,19,REF,John Faso,1
@@ -4098,7 +4074,6 @@ Ulster,Woodstock 6,U.S. House,19,REF,John Faso,1
 Ulster,Woodstock 7,U.S. House,19,REF,John Faso,0
 Ulster,Woodstock 8,U.S. House,19,REF,John Faso,0
 Ulster,Woodstock 9,U.S. House,19,REF,John Faso,0
-Ulster,Total,U.S. House,19,REF,John Faso,220
 Ulster,Kingston Ward 1 -1,U.S. House,19,,Scatterings,0
 Ulster,Kingston Ward 1 -2,U.S. House,19,,Scatterings,0
 Ulster,Kingston Ward 1 -3,U.S. House,19,,Scatterings,0
@@ -4262,7 +4237,6 @@ Ulster,Woodstock 6,U.S. House,19,,Scatterings,0
 Ulster,Woodstock 7,U.S. House,19,,Scatterings,0
 Ulster,Woodstock 8,U.S. House,19,,Scatterings,0
 Ulster,Woodstock 9,U.S. House,19,,Scatterings,1
-Ulster,Total,U.S. House,19,,Scatterings,33
 Ulster,Marlborough 1,State Senate,39,DEM,Christopher Eachus,212
 Ulster,Marlborough 2,State Senate,39,DEM,Christopher Eachus,148
 Ulster,Marlborough 3,State Senate,39,DEM,Christopher Eachus,189
@@ -4275,7 +4249,6 @@ Ulster,Plattekill 3,State Senate,39,DEM,Christopher Eachus,165
 Ulster,Plattekill 4,State Senate,39,DEM,Christopher Eachus,221
 Ulster,Plattekill 5,State Senate,39,DEM,Christopher Eachus,213
 Ulster,Plattekill 6,State Senate,39,DEM,Christopher Eachus,264
-Ulster,Total,State Senate,39,DEM,Christopher Eachus,2612
 Ulster,Marlborough 1,State Senate,39,WOR,Christopher Eachus,19
 Ulster,Marlborough 2,State Senate,39,WOR,Christopher Eachus,15
 Ulster,Marlborough 3,State Senate,39,WOR,Christopher Eachus,19
@@ -4288,7 +4261,6 @@ Ulster,Plattekill 3,State Senate,39,WOR,Christopher Eachus,24
 Ulster,Plattekill 4,State Senate,39,WOR,Christopher Eachus,18
 Ulster,Plattekill 5,State Senate,39,WOR,Christopher Eachus,21
 Ulster,Plattekill 6,State Senate,39,WOR,Christopher Eachus,28
-Ulster,Total,State Senate,39,WOR,Christopher Eachus,258
 Ulster,Marlborough 1,State Senate,39,WEP,Christopher Eachus,7
 Ulster,Marlborough 2,State Senate,39,WEP,Christopher Eachus,6
 Ulster,Marlborough 3,State Senate,39,WEP,Christopher Eachus,6
@@ -4301,7 +4273,6 @@ Ulster,Plattekill 3,State Senate,39,WEP,Christopher Eachus,11
 Ulster,Plattekill 4,State Senate,39,WEP,Christopher Eachus,9
 Ulster,Plattekill 5,State Senate,39,WEP,Christopher Eachus,1
 Ulster,Plattekill 6,State Senate,39,WEP,Christopher Eachus,4
-Ulster,Total,State Senate,39,WEP,Christopher Eachus,74
 Ulster,Marlborough 1,State Senate,39,REP,William Larkin,388
 Ulster,Marlborough 2,State Senate,39,REP,William Larkin,270
 Ulster,Marlborough 3,State Senate,39,REP,William Larkin,414
@@ -4314,7 +4285,6 @@ Ulster,Plattekill 3,State Senate,39,REP,William Larkin,255
 Ulster,Plattekill 4,State Senate,39,REP,William Larkin,395
 Ulster,Plattekill 5,State Senate,39,REP,William Larkin,305
 Ulster,Plattekill 6,State Senate,39,REP,William Larkin,341
-Ulster,Total,State Senate,39,REP,William Larkin,4174
 Ulster,Marlborough 1,State Senate,39,CON,William Larkin,50
 Ulster,Marlborough 2,State Senate,39,CON,William Larkin,35
 Ulster,Marlborough 3,State Senate,39,CON,William Larkin,53
@@ -4327,7 +4297,6 @@ Ulster,Plattekill 3,State Senate,39,CON,William Larkin,46
 Ulster,Plattekill 4,State Senate,39,CON,William Larkin,62
 Ulster,Plattekill 5,State Senate,39,CON,William Larkin,53
 Ulster,Plattekill 6,State Senate,39,CON,William Larkin,53
-Ulster,Total,State Senate,39,CON,William Larkin,652
 Ulster,Marlborough 1,State Senate,39,IDC,William Larkin,23
 Ulster,Marlborough 2,State Senate,39,IDC,William Larkin,12
 Ulster,Marlborough 3,State Senate,39,IDC,William Larkin,16
@@ -4340,7 +4309,6 @@ Ulster,Plattekill 3,State Senate,39,IDC,William Larkin,19
 Ulster,Plattekill 4,State Senate,39,IDC,William Larkin,23
 Ulster,Plattekill 5,State Senate,39,IDC,William Larkin,20
 Ulster,Plattekill 6,State Senate,39,IDC,William Larkin,22
-Ulster,Total,State Senate,39,IDC,William Larkin,232
 Ulster,Marlborough 1,State Senate,39,REF,William Larkin,4
 Ulster,Marlborough 2,State Senate,39,REF,William Larkin,1
 Ulster,Marlborough 3,State Senate,39,REF,William Larkin,4
@@ -4353,7 +4321,6 @@ Ulster,Plattekill 3,State Senate,39,REF,William Larkin,2
 Ulster,Plattekill 4,State Senate,39,REF,William Larkin,2
 Ulster,Plattekill 5,State Senate,39,REF,William Larkin,1
 Ulster,Plattekill 6,State Senate,39,REF,William Larkin,2
-Ulster,Total,State Senate,39,REF,William Larkin,22
 Ulster,Marlborough 1,State Senate,39,,Scatterings,1
 Ulster,Marlborough 2,State Senate,39,,Scatterings,0
 Ulster,Marlborough 3,State Senate,39,,Scatterings,0
@@ -4366,7 +4333,6 @@ Ulster,Plattekill 3,State Senate,39,,Scatterings,0
 Ulster,Plattekill 4,State Senate,39,,Scatterings,0
 Ulster,Plattekill 5,State Senate,39,,Scatterings,0
 Ulster,Plattekill 6,State Senate,39,,Scatterings,0
-Ulster,Total,State Senate,39,,Scatterings,2
 Ulster,Denning 1,State Senate,42,DEM,Pramilla Malick,52
 Ulster,Denning 2,State Senate,42,DEM,Pramilla Malick,22
 Ulster,Gardiner 1,State Senate,42,DEM,Pramilla Malick,394
@@ -4407,7 +4373,6 @@ Ulster,Wawarsing 6,State Senate,42,DEM,Pramilla Malick,94
 Ulster,Wawarsing 7,State Senate,42,DEM,Pramilla Malick,109
 Ulster,Wawarsing 8,State Senate,42,DEM,Pramilla Malick,205
 Ulster,Wawarsing 9,State Senate,42,DEM,Pramilla Malick,74
-Ulster,Total,State Senate,42,DEM,Pramilla Malick,10511
 Ulster,Denning 1,State Senate,42,REP,John Bonacic,93
 Ulster,Denning 2,State Senate,42,REP,John Bonacic,78
 Ulster,Gardiner 1,State Senate,42,REP,John Bonacic,350
@@ -4448,7 +4413,6 @@ Ulster,Wawarsing 6,State Senate,42,REP,John Bonacic,230
 Ulster,Wawarsing 7,State Senate,42,REP,John Bonacic,174
 Ulster,Wawarsing 8,State Senate,42,REP,John Bonacic,342
 Ulster,Wawarsing 9,State Senate,42,REP,John Bonacic,103
-Ulster,Total,State Senate,42,REP,John Bonacic,8635
 Ulster,Denning 1,State Senate,42,CON,John Bonacic,9
 Ulster,Denning 2,State Senate,42,CON,John Bonacic,3
 Ulster,Gardiner 1,State Senate,42,CON,John Bonacic,89
@@ -4489,7 +4453,6 @@ Ulster,Wawarsing 6,State Senate,42,CON,John Bonacic,26
 Ulster,Wawarsing 7,State Senate,42,CON,John Bonacic,41
 Ulster,Wawarsing 8,State Senate,42,CON,John Bonacic,38
 Ulster,Wawarsing 9,State Senate,42,CON,John Bonacic,15
-Ulster,Total,State Senate,42,CON,John Bonacic,1292
 Ulster,Denning 1,State Senate,42,IDC,John Bonacic,9
 Ulster,Denning 2,State Senate,42,IDC,John Bonacic,4
 Ulster,Gardiner 1,State Senate,42,IDC,John Bonacic,21
@@ -4530,7 +4493,6 @@ Ulster,Wawarsing 6,State Senate,42,IDC,John Bonacic,9
 Ulster,Wawarsing 7,State Senate,42,IDC,John Bonacic,17
 Ulster,Wawarsing 8,State Senate,42,IDC,John Bonacic,41
 Ulster,Wawarsing 9,State Senate,42,IDC,John Bonacic,6
-Ulster,Total,State Senate,42,IDC,John Bonacic,803
 Ulster,Denning 1,State Senate,42,REF,John Bonacic,0
 Ulster,Denning 2,State Senate,42,REF,John Bonacic,0
 Ulster,Gardiner 1,State Senate,42,REF,John Bonacic,0
@@ -4571,7 +4533,6 @@ Ulster,Wawarsing 6,State Senate,42,REF,John Bonacic,2
 Ulster,Wawarsing 7,State Senate,42,REF,John Bonacic,2
 Ulster,Wawarsing 8,State Senate,42,REF,John Bonacic,6
 Ulster,Wawarsing 9,State Senate,42,REF,John Bonacic,3
-Ulster,Total,State Senate,42,REF,John Bonacic,110
 Ulster,Denning 1,State Senate,42,,Scatterings,0
 Ulster,Denning 2,State Senate,42,,Scatterings,0
 Ulster,Gardiner 1,State Senate,42,,Scatterings,2
@@ -4612,7 +4573,6 @@ Ulster,Wawarsing 6,State Senate,42,,Scatterings,0
 Ulster,Wawarsing 7,State Senate,42,,Scatterings,0
 Ulster,Wawarsing 8,State Senate,42,,Scatterings,0
 Ulster,Wawarsing 9,State Senate,42,,Scatterings,1
-Ulster,Total,State Senate,42,,Scatterings,24
 Ulster,Kingston Ward 1 -1,State Senate,46,DEM,Sara Niccoli,135
 Ulster,Kingston Ward 1 -2,State Senate,46,DEM,Sara Niccoli,228
 Ulster,Kingston Ward 1 -3,State Senate,46,DEM,Sara Niccoli,222
@@ -4708,7 +4668,6 @@ Ulster,Woodstock 6,State Senate,46,DEM,Sara Niccoli,241
 Ulster,Woodstock 7,State Senate,46,DEM,Sara Niccoli,293
 Ulster,Woodstock 8,State Senate,46,DEM,Sara Niccoli,190
 Ulster,Woodstock 9,State Senate,46,DEM,Sara Niccoli,243
-Ulster,Total,State Senate,46,DEM,Sara Niccoli,18993
 Ulster,Kingston Ward 1 -1,State Senate,46,WOR,Sara Niccoli,5
 Ulster,Kingston Ward 1 -2,State Senate,46,WOR,Sara Niccoli,20
 Ulster,Kingston Ward 1 -3,State Senate,46,WOR,Sara Niccoli,27
@@ -4804,7 +4763,6 @@ Ulster,Woodstock 6,State Senate,46,WOR,Sara Niccoli,35
 Ulster,Woodstock 7,State Senate,46,WOR,Sara Niccoli,49
 Ulster,Woodstock 8,State Senate,46,WOR,Sara Niccoli,25
 Ulster,Woodstock 9,State Senate,46,WOR,Sara Niccoli,40
-Ulster,Total,State Senate,46,WOR,Sara Niccoli,2450
 Ulster,Kingston Ward 1 -1,State Senate,46,WEP,Sara Niccoli,4
 Ulster,Kingston Ward 1 -2,State Senate,46,WEP,Sara Niccoli,6
 Ulster,Kingston Ward 1 -3,State Senate,46,WEP,Sara Niccoli,3
@@ -4900,7 +4858,6 @@ Ulster,Woodstock 6,State Senate,46,WEP,Sara Niccoli,9
 Ulster,Woodstock 7,State Senate,46,WEP,Sara Niccoli,8
 Ulster,Woodstock 8,State Senate,46,WEP,Sara Niccoli,2
 Ulster,Woodstock 9,State Senate,46,WEP,Sara Niccoli,7
-Ulster,Total,State Senate,46,WEP,Sara Niccoli,531
 Ulster,Kingston Ward 1 -1,State Senate,46,REP,George Amedore,87
 Ulster,Kingston Ward 1 -2,State Senate,46,REP,George Amedore,220
 Ulster,Kingston Ward 1 -3,State Senate,46,REP,George Amedore,137
@@ -4996,7 +4953,6 @@ Ulster,Woodstock 6,State Senate,46,REP,George Amedore,117
 Ulster,Woodstock 7,State Senate,46,REP,George Amedore,51
 Ulster,Woodstock 8,State Senate,46,REP,George Amedore,35
 Ulster,Woodstock 9,State Senate,46,REP,George Amedore,68
-Ulster,Total,State Senate,46,REP,George Amedore,16483
 Ulster,Kingston Ward 1 -1,State Senate,46,CON,George Amedore,10
 Ulster,Kingston Ward 1 -2,State Senate,46,CON,George Amedore,25
 Ulster,Kingston Ward 1 -3,State Senate,46,CON,George Amedore,27
@@ -5092,7 +5048,6 @@ Ulster,Woodstock 6,State Senate,46,CON,George Amedore,16
 Ulster,Woodstock 7,State Senate,46,CON,George Amedore,4
 Ulster,Woodstock 8,State Senate,46,CON,George Amedore,4
 Ulster,Woodstock 9,State Senate,46,CON,George Amedore,6
-Ulster,Total,State Senate,46,CON,George Amedore,2940
 Ulster,Kingston Ward 1 -1,State Senate,46,GRN,George Amedore,1
 Ulster,Kingston Ward 1 -2,State Senate,46,GRN,George Amedore,5
 Ulster,Kingston Ward 1 -3,State Senate,46,GRN,George Amedore,4
@@ -5188,7 +5143,6 @@ Ulster,Woodstock 6,State Senate,46,GRN,George Amedore,2
 Ulster,Woodstock 7,State Senate,46,GRN,George Amedore,8
 Ulster,Woodstock 8,State Senate,46,GRN,George Amedore,6
 Ulster,Woodstock 9,State Senate,46,GRN,George Amedore,6
-Ulster,Total,State Senate,46,GRN,George Amedore,582
 Ulster,Kingston Ward 1 -1,State Senate,46,IDC,George Amedore,14
 Ulster,Kingston Ward 1 -2,State Senate,46,IDC,George Amedore,25
 Ulster,Kingston Ward 1 -3,State Senate,46,IDC,George Amedore,16
@@ -5284,7 +5238,6 @@ Ulster,Woodstock 6,State Senate,46,IDC,George Amedore,10
 Ulster,Woodstock 7,State Senate,46,IDC,George Amedore,2
 Ulster,Woodstock 8,State Senate,46,IDC,George Amedore,6
 Ulster,Woodstock 9,State Senate,46,IDC,George Amedore,5
-Ulster,Total,State Senate,46,IDC,George Amedore,1358
 Ulster,Kingston Ward 1 -1,State Senate,46,REF,George Amedore,0
 Ulster,Kingston Ward 1 -2,State Senate,46,REF,George Amedore,1
 Ulster,Kingston Ward 1 -3,State Senate,46,REF,George Amedore,2
@@ -5380,7 +5333,6 @@ Ulster,Woodstock 6,State Senate,46,REF,George Amedore,1
 Ulster,Woodstock 7,State Senate,46,REF,George Amedore,1
 Ulster,Woodstock 8,State Senate,46,REF,George Amedore,0
 Ulster,Woodstock 9,State Senate,46,REF,George Amedore,0
-Ulster,Total,State Senate,46,REF,George Amedore,117
 Ulster,Kingston Ward 1 -1,State Senate,46,,Scatterings,0
 Ulster,Kingston Ward 1 -2,State Senate,46,,Scatterings,0
 Ulster,Kingston Ward 1 -3,State Senate,46,,Scatterings,0
@@ -5476,7 +5428,6 @@ Ulster,Woodstock 6,State Senate,46,,Scatterings,0
 Ulster,Woodstock 7,State Senate,46,,Scatterings,1
 Ulster,Woodstock 8,State Senate,46,,Scatterings,0
 Ulster,Woodstock 9,State Senate,46,,Scatterings,1
-Ulster,Total,State Senate,46,,Scatterings,12
 Ulster,Hardenburgh 2,State Senate,51,DEM,Jermaine Bagnall-Graham,16
 Ulster,Olive 1,State Senate,51,DEM,Jermaine Bagnall-Graham,303
 Ulster,Olive 2,State Senate,51,DEM,Jermaine Bagnall-Graham,195
@@ -5492,7 +5443,6 @@ Ulster,Shandaken 1,State Senate,51,DEM,Jermaine Bagnall-Graham,316
 Ulster,Shandaken 2,State Senate,51,DEM,Jermaine Bagnall-Graham,110
 Ulster,Shandaken 3,State Senate,51,DEM,Jermaine Bagnall-Graham,152
 Ulster,Shandaken 4,State Senate,51,DEM,Jermaine Bagnall-Graham,143
-Ulster,Total,State Senate,51,DEM,Jermaine Bagnall-Graham,3313
 Ulster,Hardenburgh 2,State Senate,51,WEP,Jermaine Bagnall-Graham,1
 Ulster,Olive 1,State Senate,51,WEP,Jermaine Bagnall-Graham,14
 Ulster,Olive 2,State Senate,51,WEP,Jermaine Bagnall-Graham,12
@@ -5508,7 +5458,6 @@ Ulster,Shandaken 1,State Senate,51,WEP,Jermaine Bagnall-Graham,14
 Ulster,Shandaken 2,State Senate,51,WEP,Jermaine Bagnall-Graham,6
 Ulster,Shandaken 3,State Senate,51,WEP,Jermaine Bagnall-Graham,5
 Ulster,Shandaken 4,State Senate,51,WEP,Jermaine Bagnall-Graham,14
-Ulster,Total,State Senate,51,WEP,Jermaine Bagnall-Graham,225
 Ulster,Hardenburgh 2,State Senate,51,REP,James Seward,57
 Ulster,Olive 1,State Senate,51,REP,James Seward,255
 Ulster,Olive 2,State Senate,51,REP,James Seward,148
@@ -5524,7 +5473,6 @@ Ulster,Shandaken 1,State Senate,51,REP,James Seward,171
 Ulster,Shandaken 2,State Senate,51,REP,James Seward,113
 Ulster,Shandaken 3,State Senate,51,REP,James Seward,134
 Ulster,Shandaken 4,State Senate,51,REP,James Seward,67
-Ulster,Total,State Senate,51,REP,James Seward,2736
 Ulster,Hardenburgh 2,State Senate,51,CON,James Seward,7
 Ulster,Olive 1,State Senate,51,CON,James Seward,57
 Ulster,Olive 2,State Senate,51,CON,James Seward,43
@@ -5540,7 +5488,6 @@ Ulster,Shandaken 1,State Senate,51,CON,James Seward,31
 Ulster,Shandaken 2,State Senate,51,CON,James Seward,16
 Ulster,Shandaken 3,State Senate,51,CON,James Seward,26
 Ulster,Shandaken 4,State Senate,51,CON,James Seward,28
-Ulster,Total,State Senate,51,CON,James Seward,535
 Ulster,Hardenburgh 2,State Senate,51,IDC,James Seward,2
 Ulster,Olive 1,State Senate,51,IDC,James Seward,24
 Ulster,Olive 2,State Senate,51,IDC,James Seward,17
@@ -5556,7 +5503,6 @@ Ulster,Shandaken 1,State Senate,51,IDC,James Seward,17
 Ulster,Shandaken 2,State Senate,51,IDC,James Seward,7
 Ulster,Shandaken 3,State Senate,51,IDC,James Seward,20
 Ulster,Shandaken 4,State Senate,51,IDC,James Seward,4
-Ulster,Total,State Senate,51,IDC,James Seward,213
 Ulster,Hardenburgh 2,State Senate,51,REF,James Seward,1
 Ulster,Olive 1,State Senate,51,REF,James Seward,3
 Ulster,Olive 2,State Senate,51,REF,James Seward,2
@@ -5572,7 +5518,6 @@ Ulster,Shandaken 1,State Senate,51,REF,James Seward,1
 Ulster,Shandaken 2,State Senate,51,REF,James Seward,3
 Ulster,Shandaken 3,State Senate,51,REF,James Seward,1
 Ulster,Shandaken 4,State Senate,51,REF,James Seward,2
-Ulster,Total,State Senate,51,REF,James Seward,30
 Ulster,Hardenburgh 2,State Senate,51,,Scatterings,0
 Ulster,Olive 1,State Senate,51,,Scatterings,0
 Ulster,Olive 2,State Senate,51,,Scatterings,0
@@ -5588,7 +5533,6 @@ Ulster,Shandaken 1,State Senate,51,,Scatterings,0
 Ulster,Shandaken 2,State Senate,51,,Scatterings,0
 Ulster,Shandaken 3,State Senate,51,,Scatterings,0
 Ulster,Shandaken 4,State Senate,51,,Scatterings,0
-Ulster,Total,State Senate,51,,Scatterings,6
 Ulster,Denning 1,State Assembly,101,DEM,Arlene Feldmeier,56
 Ulster,Denning 2,State Assembly,101,DEM,Arlene Feldmeier,26
 Ulster,Hardenburgh 1,State Assembly,101,DEM,Arlene Feldmeier,6
@@ -5612,7 +5556,6 @@ Ulster,Wawarsing 6,State Assembly,101,DEM,Arlene Feldmeier,99
 Ulster,Wawarsing 7,State Assembly,101,DEM,Arlene Feldmeier,118
 Ulster,Wawarsing 8,State Assembly,101,DEM,Arlene Feldmeier,224
 Ulster,Wawarsing 9,State Assembly,101,DEM,Arlene Feldmeier,78
-Ulster,Total,State Assembly,101,DEM,Arlene Feldmeier,3085
 Ulster,Denning 1,State Assembly,101,WOR,Arlene Feldmeier,7
 Ulster,Denning 2,State Assembly,101,WOR,Arlene Feldmeier,3
 Ulster,Hardenburgh 1,State Assembly,101,WOR,Arlene Feldmeier,0
@@ -5636,7 +5579,6 @@ Ulster,Wawarsing 6,State Assembly,101,WOR,Arlene Feldmeier,12
 Ulster,Wawarsing 7,State Assembly,101,WOR,Arlene Feldmeier,14
 Ulster,Wawarsing 8,State Assembly,101,WOR,Arlene Feldmeier,38
 Ulster,Wawarsing 9,State Assembly,101,WOR,Arlene Feldmeier,15
-Ulster,Total,State Assembly,101,WOR,Arlene Feldmeier,346
 Ulster,Denning 1,State Assembly,101,REP,Brian Miller,66
 Ulster,Denning 2,State Assembly,101,REP,Brian Miller,59
 Ulster,Hardenburgh 1,State Assembly,101,REP,Brian Miller,12
@@ -5660,7 +5602,6 @@ Ulster,Wawarsing 6,State Assembly,101,REP,Brian Miller,189
 Ulster,Wawarsing 7,State Assembly,101,REP,Brian Miller,138
 Ulster,Wawarsing 8,State Assembly,101,REP,Brian Miller,258
 Ulster,Wawarsing 9,State Assembly,101,REP,Brian Miller,78
-Ulster,Total,State Assembly,101,REP,Brian Miller,4142
 Ulster,Denning 1,State Assembly,101,IDC,Brian Miller,5
 Ulster,Denning 2,State Assembly,101,IDC,Brian Miller,3
 Ulster,Hardenburgh 1,State Assembly,101,IDC,Brian Miller,1
@@ -5684,7 +5625,6 @@ Ulster,Wawarsing 6,State Assembly,101,IDC,Brian Miller,5
 Ulster,Wawarsing 7,State Assembly,101,IDC,Brian Miller,19
 Ulster,Wawarsing 8,State Assembly,101,IDC,Brian Miller,23
 Ulster,Wawarsing 9,State Assembly,101,IDC,Brian Miller,4
-Ulster,Total,State Assembly,101,IDC,Brian Miller,265
 Ulster,Denning 1,State Assembly,101,CON,Maria Kelso,17
 Ulster,Denning 2,State Assembly,101,CON,Maria Kelso,8
 Ulster,Hardenburgh 1,State Assembly,101,CON,Maria Kelso,4
@@ -5708,7 +5648,6 @@ Ulster,Wawarsing 6,State Assembly,101,CON,Maria Kelso,20
 Ulster,Wawarsing 7,State Assembly,101,CON,Maria Kelso,45
 Ulster,Wawarsing 8,State Assembly,101,CON,Maria Kelso,45
 Ulster,Wawarsing 9,State Assembly,101,CON,Maria Kelso,14
-Ulster,Total,State Assembly,101,CON,Maria Kelso,751
 Ulster,Denning 1,State Assembly,101,REF,Maria Kelso,0
 Ulster,Denning 2,State Assembly,101,REF,Maria Kelso,0
 Ulster,Hardenburgh 1,State Assembly,101,REF,Maria Kelso,0
@@ -5732,7 +5671,6 @@ Ulster,Wawarsing 6,State Assembly,101,REF,Maria Kelso,1
 Ulster,Wawarsing 7,State Assembly,101,REF,Maria Kelso,2
 Ulster,Wawarsing 8,State Assembly,101,REF,Maria Kelso,7
 Ulster,Wawarsing 9,State Assembly,101,REF,Maria Kelso,1
-Ulster,Total,State Assembly,101,REF,Maria Kelso,44
 Ulster,Denning 1,State Assembly,101,,Scatterings,0
 Ulster,Denning 2,State Assembly,101,,Scatterings,0
 Ulster,Hardenburgh 1,State Assembly,101,,Scatterings,0
@@ -5756,7 +5694,6 @@ Ulster,Wawarsing 6,State Assembly,101,,Scatterings,3
 Ulster,Wawarsing 7,State Assembly,101,,Scatterings,0
 Ulster,Wawarsing 8,State Assembly,101,,Scatterings,1
 Ulster,Wawarsing 9,State Assembly,101,,Scatterings,0
-Ulster,Total,State Assembly,101,,Scatterings,7
 Ulster,Saugerties 1,State Assembly,102,REP,Peter Lopez,126
 Ulster,Saugerties 10,State Assembly,102,REP,Peter Lopez,163
 Ulster,Saugerties 11,State Assembly,102,REP,Peter Lopez,477
@@ -5773,7 +5710,6 @@ Ulster,Saugerties 6,State Assembly,102,REP,Peter Lopez,373
 Ulster,Saugerties 7,State Assembly,102,REP,Peter Lopez,106
 Ulster,Saugerties 8,State Assembly,102,REP,Peter Lopez,318
 Ulster,Saugerties 9,State Assembly,102,REP,Peter Lopez,165
-Ulster,Total,State Assembly,102,REP,Peter Lopez,4214
 Ulster,Saugerties 1,State Assembly,102,CON,Peter Lopez,27
 Ulster,Saugerties 10,State Assembly,102,CON,Peter Lopez,37
 Ulster,Saugerties 11,State Assembly,102,CON,Peter Lopez,85
@@ -5790,7 +5726,6 @@ Ulster,Saugerties 6,State Assembly,102,CON,Peter Lopez,84
 Ulster,Saugerties 7,State Assembly,102,CON,Peter Lopez,19
 Ulster,Saugerties 8,State Assembly,102,CON,Peter Lopez,45
 Ulster,Saugerties 9,State Assembly,102,CON,Peter Lopez,34
-Ulster,Total,State Assembly,102,CON,Peter Lopez,816
 Ulster,Saugerties 1,State Assembly,102,IDC,Peter Lopez,27
 Ulster,Saugerties 10,State Assembly,102,IDC,Peter Lopez,50
 Ulster,Saugerties 11,State Assembly,102,IDC,Peter Lopez,102
@@ -5807,7 +5742,6 @@ Ulster,Saugerties 6,State Assembly,102,IDC,Peter Lopez,85
 Ulster,Saugerties 7,State Assembly,102,IDC,Peter Lopez,22
 Ulster,Saugerties 8,State Assembly,102,IDC,Peter Lopez,59
 Ulster,Saugerties 9,State Assembly,102,IDC,Peter Lopez,50
-Ulster,Total,State Assembly,102,IDC,Peter Lopez,1037
 Ulster,Saugerties 1,State Assembly,102,REF,Peter Lopez,2
 Ulster,Saugerties 10,State Assembly,102,REF,Peter Lopez,0
 Ulster,Saugerties 11,State Assembly,102,REF,Peter Lopez,8
@@ -5824,7 +5758,6 @@ Ulster,Saugerties 6,State Assembly,102,REF,Peter Lopez,6
 Ulster,Saugerties 7,State Assembly,102,REF,Peter Lopez,2
 Ulster,Saugerties 8,State Assembly,102,REF,Peter Lopez,4
 Ulster,Saugerties 9,State Assembly,102,REF,Peter Lopez,3
-Ulster,Total,State Assembly,102,REF,Peter Lopez,73
 Ulster,Saugerties 1,State Assembly,102,,Scatterings,1
 Ulster,Saugerties 10,State Assembly,102,,Scatterings,1
 Ulster,Saugerties 11,State Assembly,102,,Scatterings,2
@@ -5841,7 +5774,6 @@ Ulster,Saugerties 6,State Assembly,102,,Scatterings,1
 Ulster,Saugerties 7,State Assembly,102,,Scatterings,1
 Ulster,Saugerties 8,State Assembly,102,,Scatterings,2
 Ulster,Saugerties 9,State Assembly,102,,Scatterings,0
-Ulster,Total,State Assembly,102,,Scatterings,17
 Ulster,Kingston Ward 1 -1,State Assembly,103,DEM,Kevin Cahill,186
 Ulster,Kingston Ward 1 -2,State Assembly,103,DEM,Kevin Cahill,343
 Ulster,Kingston Ward 1 -3,State Assembly,103,DEM,Kevin Cahill,292
@@ -5953,7 +5885,6 @@ Ulster,Woodstock 6,State Assembly,103,DEM,Kevin Cahill,291
 Ulster,Woodstock 7,State Assembly,103,DEM,Kevin Cahill,293
 Ulster,Woodstock 8,State Assembly,103,DEM,Kevin Cahill,210
 Ulster,Woodstock 9,State Assembly,103,DEM,Kevin Cahill,270
-Ulster,Total,State Assembly,103,DEM,Kevin Cahill,31863
 Ulster,Kingston Ward 1 -1,State Assembly,103,WOR,Kevin Cahill,18
 Ulster,Kingston Ward 1 -2,State Assembly,103,WOR,Kevin Cahill,55
 Ulster,Kingston Ward 1 -3,State Assembly,103,WOR,Kevin Cahill,41
@@ -6065,7 +5996,6 @@ Ulster,Woodstock 6,State Assembly,103,WOR,Kevin Cahill,49
 Ulster,Woodstock 7,State Assembly,103,WOR,Kevin Cahill,55
 Ulster,Woodstock 8,State Assembly,103,WOR,Kevin Cahill,31
 Ulster,Woodstock 9,State Assembly,103,WOR,Kevin Cahill,54
-Ulster,Total,State Assembly,103,WOR,Kevin Cahill,5650
 Ulster,Kingston Ward 1 -1,State Assembly,103,CON,Jack Hayes,30
 Ulster,Kingston Ward 1 -2,State Assembly,103,CON,Jack Hayes,88
 Ulster,Kingston Ward 1 -3,State Assembly,103,CON,Jack Hayes,79
@@ -6177,7 +6107,6 @@ Ulster,Woodstock 6,State Assembly,103,CON,Jack Hayes,53
 Ulster,Woodstock 7,State Assembly,103,CON,Jack Hayes,22
 Ulster,Woodstock 8,State Assembly,103,CON,Jack Hayes,22
 Ulster,Woodstock 9,State Assembly,103,CON,Jack Hayes,29
-Ulster,Total,State Assembly,103,CON,Jack Hayes,10755
 Ulster,Kingston Ward 1 -1,State Assembly,103,,Scatterings,0
 Ulster,Kingston Ward 1 -2,State Assembly,103,,Scatterings,0
 Ulster,Kingston Ward 1 -3,State Assembly,103,,Scatterings,1
@@ -6289,7 +6218,6 @@ Ulster,Woodstock 6,State Assembly,103,,Scatterings,0
 Ulster,Woodstock 7,State Assembly,103,,Scatterings,0
 Ulster,Woodstock 8,State Assembly,103,,Scatterings,0
 Ulster,Woodstock 9,State Assembly,103,,Scatterings,0
-Ulster,Total,State Assembly,103,,Scatterings,34
 Ulster,Lloyd 1,State Assembly,104,DEM,Frank Skartados,387
 Ulster,Lloyd 2,State Assembly,104,DEM,Frank Skartados,264
 Ulster,Lloyd 3,State Assembly,104,DEM,Frank Skartados,275
@@ -6303,7 +6231,6 @@ Ulster,Marlborough 3,State Assembly,104,DEM,Frank Skartados,316
 Ulster,Marlborough 4,State Assembly,104,DEM,Frank Skartados,357
 Ulster,Marlborough 5,State Assembly,104,DEM,Frank Skartados,266
 Ulster,Marlborough 6,State Assembly,104,DEM,Frank Skartados,296
-Ulster,Total,State Assembly,104,DEM,Frank Skartados,4201
 Ulster,Lloyd 1,State Assembly,104,IDC,Frank Skartados,27
 Ulster,Lloyd 2,State Assembly,104,IDC,Frank Skartados,24
 Ulster,Lloyd 3,State Assembly,104,IDC,Frank Skartados,25
@@ -6317,7 +6244,6 @@ Ulster,Marlborough 3,State Assembly,104,IDC,Frank Skartados,22
 Ulster,Marlborough 4,State Assembly,104,IDC,Frank Skartados,54
 Ulster,Marlborough 5,State Assembly,104,IDC,Frank Skartados,17
 Ulster,Marlborough 6,State Assembly,104,IDC,Frank Skartados,27
-Ulster,Total,State Assembly,104,IDC,Frank Skartados,356
 Ulster,Lloyd 1,State Assembly,104,CON,William Banuchi,155
 Ulster,Lloyd 2,State Assembly,104,CON,William Banuchi,123
 Ulster,Lloyd 3,State Assembly,104,CON,William Banuchi,97
@@ -6331,7 +6257,6 @@ Ulster,Marlborough 3,State Assembly,104,CON,William Banuchi,142
 Ulster,Marlborough 4,State Assembly,104,CON,William Banuchi,188
 Ulster,Marlborough 5,State Assembly,104,CON,William Banuchi,110
 Ulster,Marlborough 6,State Assembly,104,CON,William Banuchi,131
-Ulster,Total,State Assembly,104,CON,William Banuchi,1707
 Ulster,Lloyd 1,State Assembly,104,REF,William Banuchi,7
 Ulster,Lloyd 2,State Assembly,104,REF,William Banuchi,7
 Ulster,Lloyd 3,State Assembly,104,REF,William Banuchi,2
@@ -6345,7 +6270,6 @@ Ulster,Marlborough 3,State Assembly,104,REF,William Banuchi,4
 Ulster,Marlborough 4,State Assembly,104,REF,William Banuchi,6
 Ulster,Marlborough 5,State Assembly,104,REF,William Banuchi,1
 Ulster,Marlborough 6,State Assembly,104,REF,William Banuchi,3
-Ulster,Total,State Assembly,104,REF,William Banuchi,61
 Ulster,Lloyd 1,State Assembly,104,,Scatterings,0
 Ulster,Lloyd 2,State Assembly,104,,Scatterings,0
 Ulster,Lloyd 3,State Assembly,104,,Scatterings,1
@@ -6359,4 +6283,3 @@ Ulster,Marlborough 3,State Assembly,104,,Scatterings,0
 Ulster,Marlborough 4,State Assembly,104,,Scatterings,0
 Ulster,Marlborough 5,State Assembly,104,,Scatterings,0
 Ulster,Marlborough 6,State Assembly,104,,Scatterings,0
-Ulster,Total,State Assembly,104,,Scatterings,3
