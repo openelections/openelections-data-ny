@@ -5652,88 +5652,88 @@ Steuben,Greenwood 1,State Assembly,148,,Blank,67
 Steuben,Jasper 1,State Assembly,148,,Blank,120
 Steuben,Troupsburg 1,State Assembly,148,,Blank,108
 Steuben,West Union 1,State Assembly,148,,Blank,44
-Steuben,Corning City 1,,133,,Total Enrolled Voters,807
-Steuben,Corning City 2,,133,,Total Enrolled Voters,904
-Steuben,Corning City 3,,133,,Total Enrolled Voters,1039
-Steuben,Corning City 4,,133,,Total Enrolled Voters,962
-Steuben,Corning City 5,,133,,Total Enrolled Voters,964
-Steuben,Corning City 6,,133,,Total Enrolled Voters,740
-Steuben,Corning City 7,,133,,Total Enrolled Voters,896
-Steuben,Corning City 8,,133,,Total Enrolled Voters,871
-Steuben,Hornell City 1,,133,,Total Enrolled Voters,450
-Steuben,Hornell City 2,,133,,Total Enrolled Voters,586
-Steuben,Hornell City 3,,133,,Total Enrolled Voters,455
-Steuben,Hornell City 4,,133,,Total Enrolled Voters,458
-Steuben,Hornell City 5,,133,,Total Enrolled Voters,559
-Steuben,Hornell City 6,,133,,Total Enrolled Voters,509
-Steuben,Hornell City 7,,133,,Total Enrolled Voters,432
-Steuben,Hornell City 8,,133,,Total Enrolled Voters,446
-Steuben,Hornell City 9,,133,,Total Enrolled Voters,589
-Steuben,Hornell City 10,,133,,Total Enrolled Voters,494
-Steuben,Addison 1,,133,,Total Enrolled Voters,769
-Steuben,Addison 2,,133,,Total Enrolled Voters,735
-Steuben,Avoca 1,,133,,Total Enrolled Voters,591
-Steuben,Avoca 2,,133,,Total Enrolled Voters,780
-Steuben,Bath 1,,133,,Total Enrolled Voters,729
-Steuben,Bath 2,,133,,Total Enrolled Voters,1191
-Steuben,Bath 3,,133,,Total Enrolled Voters,813
-Steuben,Bath 4,,133,,Total Enrolled Voters,790
-Steuben,Bath 5,,133,,Total Enrolled Voters,974
-Steuben,Bath 6,,133,,Total Enrolled Voters,764
-Steuben,Bath 7,,133,,Total Enrolled Voters,548
-Steuben,Bath 8,,133,,Total Enrolled Voters,874
-Steuben,Bath 9,,133,,Total Enrolled Voters,749
-Steuben,Bradford 1,,133,,Total Enrolled Voters,528
-Steuben,Cameron 1,,133,,Total Enrolled Voters,546
-Steuben,Campbell 1,,133,,Total Enrolled Voters,760
-Steuben,Campbell 2,,133,,Total Enrolled Voters,765
-Steuben,Campbell 3,,133,,Total Enrolled Voters,756
-Steuben,Canisteo 1,,133,,Total Enrolled Voters,458
-Steuben,Canisteo 2,,133,,Total Enrolled Voters,517
-Steuben,Canisteo 3,,133,,Total Enrolled Voters,442
-Steuben,Canisteo 4,,133,,Total Enrolled Voters,699
-Steuben,Caton 1,,133,,Total Enrolled Voters,867
-Steuben,Caton 2,,133,,Total Enrolled Voters,683
-Steuben,Cohocton 1,,133,,Total Enrolled Voters,1017
-Steuben,Cohocton 2,,133,,Total Enrolled Voters,544
-Steuben,Corning Town 1,,133,,Total Enrolled Voters,878
-Steuben,Corning Town 2,,133,,Total Enrolled Voters,1169
-Steuben,Corning Town 3,,133,,Total Enrolled Voters,715
-Steuben,Corning Town 4,,133,,Total Enrolled Voters,895
-Steuben,Corning Town 5,,133,,Total Enrolled Voters,778
-Steuben,Dansville 1,,133,,Total Enrolled Voters,1180
-Steuben,Erwin 1,,133,,Total Enrolled Voters,880
-Steuben,Erwin 2,,133,,Total Enrolled Voters,598
-Steuben,Erwin 3,,133,,Total Enrolled Voters,773
-Steuben,Erwin 4,,133,,Total Enrolled Voters,350
-Steuben,Erwin 5,,133,,Total Enrolled Voters,663
-Steuben,Erwin 6,,133,,Total Enrolled Voters,704
-Steuben,Erwin 7,,133,,Total Enrolled Voters,885
-Steuben,Erwin 8,,133,,Total Enrolled Voters,569
-Steuben,Fremont 1,,133,,Total Enrolled Voters,647
-Steuben,Greenwood 1,,133,,Total Enrolled Voters,546
-Steuben,Hartsville 1,,133,,Total Enrolled Voters,434
-Steuben,Hornby 1,,133,,Total Enrolled Voters,1109
-Steuben,Hornellsville 1,,133,,Total Enrolled Voters,539
-Steuben,Hornellsville 2,,133,,Total Enrolled Voters,654
-Steuben,Hornellsville 3,,133,,Total Enrolled Voters,1036
-Steuben,Hornellsville 4,,133,,Total Enrolled Voters,548
-Steuben,Howard 1,,133,,Total Enrolled Voters,885
-Steuben,Jasper 1,,133,,Total Enrolled Voters,726
-Steuben,Lindley 1,,133,,Total Enrolled Voters,1181
-Steuben,Prattsburgh 1,,133,,Total Enrolled Voters,948
-Steuben,Prattsburgh 2,,133,,Total Enrolled Voters,312
-Steuben,Pulteney 1,,133,,Total Enrolled Voters,1035
-Steuben,Rathbone 1,,133,,Total Enrolled Voters,671
-Steuben,Thurston 1,,133,,Total Enrolled Voters,833
-Steuben,Troupsburg 1,,133,,Total Enrolled Voters,627
-Steuben,Tuscarora 1,,133,,Total Enrolled Voters,842
-Steuben,Urbana 1,,133,,Total Enrolled Voters,904
-Steuben,Urbana 2,,133,,Total Enrolled Voters,832
-Steuben,Wayland 1,,133,,Total Enrolled Voters,848
-Steuben,Wayland 2,,133,,Total Enrolled Voters,885
-Steuben,Wayland 3,,133,,Total Enrolled Voters,793
-Steuben,Wayne 1,,133,,Total Enrolled Voters,857
-Steuben,West Union 1,,133,,Total Enrolled Voters,253
-Steuben,Wheeler 1,,133,,Total Enrolled Voters,732
-Steuben,Woodhull 1,,133,,Total Enrolled Voters,984
+Steuben,Corning City 1,Registered Voters,,,,807
+Steuben,Corning City 2,Registered Voters,,,,904
+Steuben,Corning City 3,Registered Voters,,,,1039
+Steuben,Corning City 4,Registered Voters,,,,962
+Steuben,Corning City 5,Registered Voters,,,,964
+Steuben,Corning City 6,Registered Voters,,,,740
+Steuben,Corning City 7,Registered Voters,,,,896
+Steuben,Corning City 8,Registered Voters,,,,871
+Steuben,Hornell City 1,Registered Voters,,,,450
+Steuben,Hornell City 2,Registered Voters,,,,586
+Steuben,Hornell City 3,Registered Voters,,,,455
+Steuben,Hornell City 4,Registered Voters,,,,458
+Steuben,Hornell City 5,Registered Voters,,,,559
+Steuben,Hornell City 6,Registered Voters,,,,509
+Steuben,Hornell City 7,Registered Voters,,,,432
+Steuben,Hornell City 8,Registered Voters,,,,446
+Steuben,Hornell City 9,Registered Voters,,,,589
+Steuben,Hornell City 10,Registered Voters,,,,494
+Steuben,Addison 1,Registered Voters,,,,769
+Steuben,Addison 2,Registered Voters,,,,735
+Steuben,Avoca 1,Registered Voters,,,,591
+Steuben,Avoca 2,Registered Voters,,,,780
+Steuben,Bath 1,Registered Voters,,,,729
+Steuben,Bath 2,Registered Voters,,,,1191
+Steuben,Bath 3,Registered Voters,,,,813
+Steuben,Bath 4,Registered Voters,,,,790
+Steuben,Bath 5,Registered Voters,,,,974
+Steuben,Bath 6,Registered Voters,,,,764
+Steuben,Bath 7,Registered Voters,,,,548
+Steuben,Bath 8,Registered Voters,,,,874
+Steuben,Bath 9,Registered Voters,,,,749
+Steuben,Bradford 1,Registered Voters,,,,528
+Steuben,Cameron 1,Registered Voters,,,,546
+Steuben,Campbell 1,Registered Voters,,,,760
+Steuben,Campbell 2,Registered Voters,,,,765
+Steuben,Campbell 3,Registered Voters,,,,756
+Steuben,Canisteo 1,Registered Voters,,,,458
+Steuben,Canisteo 2,Registered Voters,,,,517
+Steuben,Canisteo 3,Registered Voters,,,,442
+Steuben,Canisteo 4,Registered Voters,,,,699
+Steuben,Caton 1,Registered Voters,,,,867
+Steuben,Caton 2,Registered Voters,,,,683
+Steuben,Cohocton 1,Registered Voters,,,,1017
+Steuben,Cohocton 2,Registered Voters,,,,544
+Steuben,Corning Town 1,Registered Voters,,,,878
+Steuben,Corning Town 2,Registered Voters,,,,1169
+Steuben,Corning Town 3,Registered Voters,,,,715
+Steuben,Corning Town 4,Registered Voters,,,,895
+Steuben,Corning Town 5,Registered Voters,,,,778
+Steuben,Dansville 1,Registered Voters,,,,1180
+Steuben,Erwin 1,Registered Voters,,,,880
+Steuben,Erwin 2,Registered Voters,,,,598
+Steuben,Erwin 3,Registered Voters,,,,773
+Steuben,Erwin 4,Registered Voters,,,,350
+Steuben,Erwin 5,Registered Voters,,,,663
+Steuben,Erwin 6,Registered Voters,,,,704
+Steuben,Erwin 7,Registered Voters,,,,885
+Steuben,Erwin 8,Registered Voters,,,,569
+Steuben,Fremont 1,Registered Voters,,,,647
+Steuben,Greenwood 1,Registered Voters,,,,546
+Steuben,Hartsville 1,Registered Voters,,,,434
+Steuben,Hornby 1,Registered Voters,,,,1109
+Steuben,Hornellsville 1,Registered Voters,,,,539
+Steuben,Hornellsville 2,Registered Voters,,,,654
+Steuben,Hornellsville 3,Registered Voters,,,,1036
+Steuben,Hornellsville 4,Registered Voters,,,,548
+Steuben,Howard 1,Registered Voters,,,,885
+Steuben,Jasper 1,Registered Voters,,,,726
+Steuben,Lindley 1,Registered Voters,,,,1181
+Steuben,Prattsburgh 1,Registered Voters,,,,948
+Steuben,Prattsburgh 2,Registered Voters,,,,312
+Steuben,Pulteney 1,Registered Voters,,,,1035
+Steuben,Rathbone 1,Registered Voters,,,,671
+Steuben,Thurston 1,Registered Voters,,,,833
+Steuben,Troupsburg 1,Registered Voters,,,,627
+Steuben,Tuscarora 1,Registered Voters,,,,842
+Steuben,Urbana 1,Registered Voters,,,,904
+Steuben,Urbana 2,Registered Voters,,,,832
+Steuben,Wayland 1,Registered Voters,,,,848
+Steuben,Wayland 2,Registered Voters,,,,885
+Steuben,Wayland 3,Registered Voters,,,,793
+Steuben,Wayne 1,Registered Voters,,,,857
+Steuben,West Union 1,Registered Voters,,,,253
+Steuben,Wheeler 1,Registered Voters,,,,732
+Steuben,Woodhull 1,Registered Voters,,,,984

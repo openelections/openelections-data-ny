@@ -1,59 +1,4 @@
 county,precinct,office,district,party,candidate,votes
-Delaware,Andes 1,President,,,Total,483
-Delaware,Andes 2,President,,,Total,228
-Delaware,Bovina 1,President,,,Total,401
-Delaware,Colchester 1,President,,,Total,426
-Delaware,Colchester 2,President,,,Total,206
-Delaware,Colchester 3,President,,,Total,164
-Delaware,Colchester 4,President,,,Total,205
-Delaware,Davenport 1,President,,,Total,421
-Delaware,Davenport 2,President,,,Total,742
-Delaware,Delhi 1,President,,,Total,451
-Delaware,Delhi 2,President,,,Total,381
-Delaware,Delhi 3,President,,,Total,397
-Delaware,Delhi 4,President,,,Total,371
-Delaware,Deposit 1,President,,,Total,422
-Delaware,Deposit 2,President,,,Total,215
-Delaware,Franklin 1,President,,,Total,389
-Delaware,Franklin 2,President,,,Total,325
-Delaware,Franklin 3,President,,,Total,506
-Delaware,Hamden 1,President,,,Total,604
-Delaware,Hancock 1,President,,,Total,170
-Delaware,Hancock 2,President,,,Total,208
-Delaware,Hancock 3,President,,,Total,352
-Delaware,Hancock 4,President,,,Total,189
-Delaware,Hancock 5,President,,,Total,136
-Delaware,Hancock 6,President,,,Total,195
-Delaware,Harpersfield 1,President,,,Total,682
-Delaware,Kortright 1,President,,,Total,379
-Delaware,Kortright 2,President,,,Total,382
-Delaware,Masonville 1,President,,,Total,524
-Delaware,Meredith 1,President,,,Total,549
-Delaware,Meredith 2,President,,,Total,259
-Delaware,Middletown 1,President,,,Total,390
-Delaware,Middletown 2,President,,,Total,480
-Delaware,Middletown 3,President,,,Total,272
-Delaware,Middletown 4,President,,,Total,177
-Delaware,Middletown 5,President,,,Total,262
-Delaware,Roxbury 1,President,,,Total,400
-Delaware,Roxbury 2,President,,,Total,189
-Delaware,Roxbury 3,President,,,Total,322
-Delaware,Roxbury 4,President,,,Total,308
-Delaware,Sidney 1,President,,,Total,336
-Delaware,Sidney 2,President,,,Total,320
-Delaware,Sidney 3,President,,,Total,302
-Delaware,Sidney 4,President,,,Total,290
-Delaware,Sidney 5,President,,,Total,239
-Delaware,Sidney 6,President,,,Total,408
-Delaware,Sidney 7,President,,,Total,299
-Delaware,Stamford 1,President,,,Total,511
-Delaware,Stamford 2,President,,,Total,397
-Delaware,Tompkins 1,President,,,Total,463
-Delaware,Walton 1,President,,,Total,513
-Delaware,Walton 2,President,,,Total,371
-Delaware,Walton 3,President,,,Total,393
-Delaware,Walton 4,President,,,Total,474
-Delaware,Walton 5,President,,,Total,454
 Delaware,Andes 1,President,,DEM,Hillary Clinton,193
 Delaware,Andes 2,President,,DEM,Hillary Clinton,65
 Delaware,Bovina 1,President,,DEM,Hillary Clinton,149
@@ -549,61 +494,6 @@ Delaware,Walton 2,President,,,Blanks,8
 Delaware,Walton 3,President,,,Blanks,10
 Delaware,Walton 4,President,,,Blanks,5
 Delaware,Walton 5,President,,,Blanks,7
-Delaware,Andes 1,U.S. Senate,,,Total,483
-Delaware,Andes 2,U.S. Senate,,,Total,228
-Delaware,Bovina 1,U.S. Senate,,,Total,401
-Delaware,Colchester 1,U.S. Senate,,,Total,426
-Delaware,Colchester 2,U.S. Senate,,,Total,206
-Delaware,Colchester 3,U.S. Senate,,,Total,164
-Delaware,Colchester 4,U.S. Senate,,,Total,205
-Delaware,Davenport 1,U.S. Senate,,,Total,421
-Delaware,Davenport 2,U.S. Senate,,,Total,742
-Delaware,Delhi 1,U.S. Senate,,,Total,451
-Delaware,Delhi 2,U.S. Senate,,,Total,381
-Delaware,Delhi 3,U.S. Senate,,,Total,397
-Delaware,Delhi 4,U.S. Senate,,,Total,371
-Delaware,Deposit 1,U.S. Senate,,,Total,422
-Delaware,Deposit 2,U.S. Senate,,,Total,215
-Delaware,Franklin 1,U.S. Senate,,,Total,389
-Delaware,Franklin 2,U.S. Senate,,,Total,325
-Delaware,Franklin 3,U.S. Senate,,,Total,506
-Delaware,Hamden 1,U.S. Senate,,,Total,604
-Delaware,Hancock 1,U.S. Senate,,,Total,170
-Delaware,Hancock 2,U.S. Senate,,,Total,208
-Delaware,Hancock 3,U.S. Senate,,,Total,352
-Delaware,Hancock 4,U.S. Senate,,,Total,189
-Delaware,Hancock 5,U.S. Senate,,,Total,136
-Delaware,Hancock 6,U.S. Senate,,,Total,195
-Delaware,Harpersfield 1,U.S. Senate,,,Total,682
-Delaware,Kortright 1,U.S. Senate,,,Total,379
-Delaware,Kortright 2,U.S. Senate,,,Total,382
-Delaware,Masonville 1,U.S. Senate,,,Total,524
-Delaware,Meredith 1,U.S. Senate,,,Total,549
-Delaware,Meredith 2,U.S. Senate,,,Total,259
-Delaware,Middletown 1,U.S. Senate,,,Total,390
-Delaware,Middletown 2,U.S. Senate,,,Total,480
-Delaware,Middletown 3,U.S. Senate,,,Total,272
-Delaware,Middletown 4,U.S. Senate,,,Total,177
-Delaware,Middletown 5,U.S. Senate,,,Total,262
-Delaware,Roxbury 1,U.S. Senate,,,Total,400
-Delaware,Roxbury 2,U.S. Senate,,,Total,189
-Delaware,Roxbury 3,U.S. Senate,,,Total,322
-Delaware,Roxbury 4,U.S. Senate,,,Total,308
-Delaware,Sidney 1,U.S. Senate,,,Total,336
-Delaware,Sidney 2,U.S. Senate,,,Total,320
-Delaware,Sidney 3,U.S. Senate,,,Total,302
-Delaware,Sidney 4,U.S. Senate,,,Total,290
-Delaware,Sidney 5,U.S. Senate,,,Total,239
-Delaware,Sidney 6,U.S. Senate,,,Total,408
-Delaware,Sidney 7,U.S. Senate,,,Total,299
-Delaware,Stamford 1,U.S. Senate,,,Total,511
-Delaware,Stamford 2,U.S. Senate,,,Total,397
-Delaware,Tompkins 1,U.S. Senate,,,Total,463
-Delaware,Walton 1,U.S. Senate,,,Total,513
-Delaware,Walton 2,U.S. Senate,,,Total,371
-Delaware,Walton 3,U.S. Senate,,,Total,393
-Delaware,Walton 4,U.S. Senate,,,Total,474
-Delaware,Walton 5,U.S. Senate,,,Total,454
 Delaware,Andes 1,U.S. Senate,,DEM,Charles E Schumer,238
 Delaware,Andes 2,U.S. Senate,,DEM,Charles E Schumer,93
 Delaware,Bovina 1,U.S. Senate,,DEM,Charles E Schumer,177
@@ -1154,61 +1044,6 @@ Delaware,Walton 2,U.S. Senate,,,Blanks,20
 Delaware,Walton 3,U.S. Senate,,,Blanks,24
 Delaware,Walton 4,U.S. Senate,,,Blanks,34
 Delaware,Walton 5,U.S. Senate,,,Blanks,27
-Delaware,Andes 1,U.S. House,19,,Total,483
-Delaware,Andes 2,U.S. House,19,,Total,228
-Delaware,Bovina 1,U.S. House,19,,Total,401
-Delaware,Colchester 1,U.S. House,19,,Total,426
-Delaware,Colchester 2,U.S. House,19,,Total,206
-Delaware,Colchester 3,U.S. House,19,,Total,164
-Delaware,Colchester 4,U.S. House,19,,Total,205
-Delaware,Davenport 1,U.S. House,19,,Total,421
-Delaware,Davenport 2,U.S. House,19,,Total,742
-Delaware,Delhi 1,U.S. House,19,,Total,451
-Delaware,Delhi 2,U.S. House,19,,Total,381
-Delaware,Delhi 3,U.S. House,19,,Total,397
-Delaware,Delhi 4,U.S. House,19,,Total,371
-Delaware,Deposit 1,U.S. House,19,,Total,422
-Delaware,Deposit 2,U.S. House,19,,Total,215
-Delaware,Franklin 1,U.S. House,19,,Total,389
-Delaware,Franklin 2,U.S. House,19,,Total,325
-Delaware,Franklin 3,U.S. House,19,,Total,506
-Delaware,Hamden 1,U.S. House,19,,Total,604
-Delaware,Hancock 1,U.S. House,19,,Total,170
-Delaware,Hancock 2,U.S. House,19,,Total,208
-Delaware,Hancock 3,U.S. House,19,,Total,352
-Delaware,Hancock 4,U.S. House,19,,Total,189
-Delaware,Hancock 5,U.S. House,19,,Total,136
-Delaware,Hancock 6,U.S. House,19,,Total,195
-Delaware,Harpersfield 1,U.S. House,19,,Total,682
-Delaware,Kortright 1,U.S. House,19,,Total,379
-Delaware,Kortright 2,U.S. House,19,,Total,382
-Delaware,Masonville 1,U.S. House,19,,Total,524
-Delaware,Meredith 1,U.S. House,19,,Total,549
-Delaware,Meredith 2,U.S. House,19,,Total,259
-Delaware,Middletown 1,U.S. House,19,,Total,390
-Delaware,Middletown 2,U.S. House,19,,Total,480
-Delaware,Middletown 3,U.S. House,19,,Total,272
-Delaware,Middletown 4,U.S. House,19,,Total,177
-Delaware,Middletown 5,U.S. House,19,,Total,262
-Delaware,Roxbury 1,U.S. House,19,,Total,400
-Delaware,Roxbury 2,U.S. House,19,,Total,189
-Delaware,Roxbury 3,U.S. House,19,,Total,322
-Delaware,Roxbury 4,U.S. House,19,,Total,308
-Delaware,Sidney 1,U.S. House,19,,Total,336
-Delaware,Sidney 2,U.S. House,19,,Total,320
-Delaware,Sidney 3,U.S. House,19,,Total,302
-Delaware,Sidney 4,U.S. House,19,,Total,290
-Delaware,Sidney 5,U.S. House,19,,Total,239
-Delaware,Sidney 6,U.S. House,19,,Total,408
-Delaware,Sidney 7,U.S. House,19,,Total,299
-Delaware,Stamford 1,U.S. House,19,,Total,511
-Delaware,Stamford 2,U.S. House,19,,Total,397
-Delaware,Tompkins 1,U.S. House,19,,Total,463
-Delaware,Walton 1,U.S. House,19,,Total,513
-Delaware,Walton 2,U.S. House,19,,Total,371
-Delaware,Walton 3,U.S. House,19,,Total,393
-Delaware,Walton 4,U.S. House,19,,Total,474
-Delaware,Walton 5,U.S. House,19,,Total,454
 Delaware,Andes 1,U.S. House,19,DEM,Zephyr Teachout,203
 Delaware,Andes 2,U.S. House,19,DEM,Zephyr Teachout,74
 Delaware,Bovina 1,U.S. House,19,DEM,Zephyr Teachout,154
@@ -1594,22 +1429,6 @@ Delaware,Walton 2,U.S. House,19,,Blanks,20
 Delaware,Walton 3,U.S. House,19,,Blanks,19
 Delaware,Walton 4,U.S. House,19,,Blanks,22
 Delaware,Walton 5,U.S. House,19,,Blanks,22
-Delaware,Colchester 1,State Senate,42,,Total,426
-Delaware,Colchester 2,State Senate,42,,Total,206
-Delaware,Colchester 3,State Senate,42,,Total,164
-Delaware,Colchester 4,State Senate,42,,Total,205
-Delaware,Delhi 1,State Senate,42,,Total,451
-Delaware,Delhi 2,State Senate,42,,Total,381
-Delaware,Delhi 3,State Senate,42,,Total,397
-Delaware,Delhi 4,State Senate,42,,Total,371
-Delaware,Hamden 1,State Senate,42,,Total,604
-Delaware,Masonville 1,State Senate,42,,Total,524
-Delaware,Tompkins 1,State Senate,42,,Total,463
-Delaware,Walton 1,State Senate,42,,Total,513
-Delaware,Walton 2,State Senate,42,,Total,371
-Delaware,Walton 3,State Senate,42,,Total,393
-Delaware,Walton 4,State Senate,42,,Total,474
-Delaware,Walton 5,State Senate,42,,Total,454
 Delaware,Colchester 1,State Senate,42,DEM,Pramilla S Malick,75
 Delaware,Colchester 2,State Senate,42,DEM,Pramilla S Malick,45
 Delaware,Colchester 3,State Senate,42,DEM,Pramilla S Malick,26
@@ -1706,37 +1525,6 @@ Delaware,Walton 2,State Senate,42,,Blanks,20
 Delaware,Walton 3,State Senate,42,,Blanks,27
 Delaware,Walton 4,State Senate,42,,Blanks,33
 Delaware,Walton 5,State Senate,42,,Blanks,28
-Delaware,Andes 1,State Senate,51,,Total,483
-Delaware,Andes 2,State Senate,51,,Total,228
-Delaware,Bovina 1,State Senate,51,,Total,401
-Delaware,Davenport 1,State Senate,51,,Total,421
-Delaware,Davenport 2,State Senate,51,,Total,742
-Delaware,Franklin 1,State Senate,51,,Total,389
-Delaware,Franklin 2,State Senate,51,,Total,325
-Delaware,Franklin 3,State Senate,51,,Total,506
-Delaware,Harpersfield 1,State Senate,51,,Total,682
-Delaware,Kortright 1,State Senate,51,,Total,379
-Delaware,Kortright 2,State Senate,51,,Total,382
-Delaware,Meredith 1,State Senate,51,,Total,549
-Delaware,Meredith 2,State Senate,51,,Total,259
-Delaware,Middletown 1,State Senate,51,,Total,390
-Delaware,Middletown 2,State Senate,51,,Total,480
-Delaware,Middletown 3,State Senate,51,,Total,272
-Delaware,Middletown 4,State Senate,51,,Total,177
-Delaware,Middletown 5,State Senate,51,,Total,262
-Delaware,Roxbury 1,State Senate,51,,Total,400
-Delaware,Roxbury 2,State Senate,51,,Total,189
-Delaware,Roxbury 3,State Senate,51,,Total,322
-Delaware,Roxbury 4,State Senate,51,,Total,308
-Delaware,Sidney 1,State Senate,51,,Total,336
-Delaware,Sidney 2,State Senate,51,,Total,320
-Delaware,Sidney 3,State Senate,51,,Total,302
-Delaware,Sidney 4,State Senate,51,,Total,290
-Delaware,Sidney 5,State Senate,51,,Total,239
-Delaware,Sidney 6,State Senate,51,,Total,408
-Delaware,Sidney 7,State Senate,51,,Total,299
-Delaware,Stamford 1,State Senate,51,,Total,511
-Delaware,Stamford 2,State Senate,51,,Total,397
 Delaware,Andes 1,State Senate,51,DEM,Jermaine Bagnall-Graham,156
 Delaware,Andes 2,State Senate,51,DEM,Jermaine Bagnall-Graham,53
 Delaware,Bovina 1,State Senate,51,DEM,Jermaine Bagnall-Graham,124
@@ -1954,14 +1742,6 @@ Delaware,Sidney 6,State Senate,51,,Blanks,25
 Delaware,Sidney 7,State Senate,51,,Blanks,19
 Delaware,Stamford 1,State Senate,51,,Blanks,33
 Delaware,Stamford 2,State Senate,51,,Blanks,38
-Delaware,Deposit 1,State Senate,52,,Total,422
-Delaware,Deposit 2,State Senate,52,,Total,215
-Delaware,Hancock 1,State Senate,52,,Total,170
-Delaware,Hancock 2,State Senate,52,,Total,208
-Delaware,Hancock 3,State Senate,52,,Total,352
-Delaware,Hancock 4,State Senate,52,,Total,189
-Delaware,Hancock 5,State Senate,52,,Total,136
-Delaware,Hancock 6,State Senate,52,,Total,195
 Delaware,Deposit 1,State Senate,52,DEM,Sharon Ball,30
 Delaware,Deposit 2,State Senate,52,DEM,Sharon Ball,34
 Delaware,Hancock 1,State Senate,52,DEM,Sharon Ball,31
@@ -2018,18 +1798,6 @@ Delaware,Hancock 3,State Senate,52,,Blanks,15
 Delaware,Hancock 4,State Senate,52,,Blanks,19
 Delaware,Hancock 5,State Senate,52,,Blanks,7
 Delaware,Hancock 6,State Senate,52,,Blanks,17
-Delaware,Andes 1,State Assembly,101,,Total,483
-Delaware,Andes 2,State Assembly,101,,Total,228
-Delaware,Bovina 1,State Assembly,101,,Total,401
-Delaware,Davenport 1,State Assembly,101,,Total,421
-Delaware,Davenport 2,State Assembly,101,,Total,742
-Delaware,Delhi 1,State Assembly,101,,Total,451
-Delaware,Delhi 2,State Assembly,101,,Total,381
-Delaware,Delhi 3,State Assembly,101,,Total,397
-Delaware,Delhi 4,State Assembly,101,,Total,371
-Delaware,Hamden 1,State Assembly,101,,Total,604
-Delaware,Meredith 1,State Assembly,101,,Total,549
-Delaware,Meredith 2,State Assembly,101,,Total,259
 Delaware,Andes 1,State Assembly,101,DEM,Arlene G Feldmeire,173
 Delaware,Andes 2,State Assembly,101,DEM,Arlene G Feldmeire,56
 Delaware,Bovina 1,State Assembly,101,DEM,Arlene G Feldmeire,121
@@ -2114,20 +1882,6 @@ Delaware,Delhi 4,State Assembly,101,,Blanks,45
 Delaware,Hamden 1,State Assembly,101,,Blanks,44
 Delaware,Meredith 1,State Assembly,101,,Blanks,43
 Delaware,Meredith 2,State Assembly,101,,Blanks,9
-Delaware,Harpersfield 1,State Assembly,102,,Total,682
-Delaware,Kortright 1,State Assembly,102,,Total,379
-Delaware,Kortright 2,State Assembly,102,,Total,382
-Delaware,Middletown 1,State Assembly,102,,Total,390
-Delaware,Middletown 2,State Assembly,102,,Total,480
-Delaware,Middletown 3,State Assembly,102,,Total,272
-Delaware,Middletown 4,State Assembly,102,,Total,177
-Delaware,Middletown 5,State Assembly,102,,Total,262
-Delaware,Roxbury 1,State Assembly,102,,Total,400
-Delaware,Roxbury 2,State Assembly,102,,Total,189
-Delaware,Roxbury 3,State Assembly,102,,Total,322
-Delaware,Roxbury 4,State Assembly,102,,Total,308
-Delaware,Stamford 1,State Assembly,102,,Total,511
-Delaware,Stamford 2,State Assembly,102,,Total,397
 Delaware,Harpersfield 1,State Assembly,102,REP,Peter D Lopez,446
 Delaware,Kortright 1,State Assembly,102,REP,Peter D Lopez,236
 Delaware,Kortright 2,State Assembly,102,REP,Peter D Lopez,238
@@ -2198,35 +1952,6 @@ Delaware,Roxbury 3,State Assembly,102,,Blanks,84
 Delaware,Roxbury 4,State Assembly,102,,Blanks,77
 Delaware,Stamford 1,State Assembly,102,,Blanks,98
 Delaware,Stamford 2,State Assembly,102,,Blanks,83
-Delaware,Colchester 1,State Assembly,122,,Total,426
-Delaware,Colchester 2,State Assembly,122,,Total,206
-Delaware,Colchester 3,State Assembly,122,,Total,164
-Delaware,Colchester 4,State Assembly,122,,Total,205
-Delaware,Deposit 1,State Assembly,122,,Total,422
-Delaware,Deposit 2,State Assembly,122,,Total,215
-Delaware,Franklin 1,State Assembly,122,,Total,389
-Delaware,Franklin 2,State Assembly,122,,Total,325
-Delaware,Franklin 3,State Assembly,122,,Total,506
-Delaware,Hancock 1,State Assembly,122,,Total,170
-Delaware,Hancock 2,State Assembly,122,,Total,208
-Delaware,Hancock 3,State Assembly,122,,Total,352
-Delaware,Hancock 4,State Assembly,122,,Total,189
-Delaware,Hancock 5,State Assembly,122,,Total,136
-Delaware,Hancock 6,State Assembly,122,,Total,195
-Delaware,Masonville 1,State Assembly,122,,Total,524
-Delaware,Sidney 1,State Assembly,122,,Total,336
-Delaware,Sidney 2,State Assembly,122,,Total,320
-Delaware,Sidney 3,State Assembly,122,,Total,302
-Delaware,Sidney 4,State Assembly,122,,Total,290
-Delaware,Sidney 5,State Assembly,122,,Total,239
-Delaware,Sidney 6,State Assembly,122,,Total,408
-Delaware,Sidney 7,State Assembly,122,,Total,299
-Delaware,Tompkins 1,State Assembly,122,,Total,463
-Delaware,Walton 1,State Assembly,122,,Total,513
-Delaware,Walton 2,State Assembly,122,,Total,371
-Delaware,Walton 3,State Assembly,122,,Total,393
-Delaware,Walton 4,State Assembly,122,,Total,474
-Delaware,Walton 5,State Assembly,122,,Total,454
 Delaware,Colchester 1,State Assembly,122,REP,Clifford W Crouch,342
 Delaware,Colchester 2,State Assembly,122,REP,Clifford W Crouch,144
 Delaware,Colchester 3,State Assembly,122,REP,Clifford W Crouch,130

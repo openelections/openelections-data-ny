@@ -1,176 +1,90 @@
 county,precinct,office,district,party,candidate,votes
-Putnam,CA 01,President,,,Total,328
-Putnam,CA 02,President,,,Total,801
-Putnam,CA 03,President,,,Total,787
-Putnam,CA 04,President,,,Total,435
-Putnam,CA 05,President,,,Total,540
-Putnam,CA 06,President,,,Total,575
-Putnam,CA 07,President,,,Total,633
-Putnam,CA 08,President,,,Total,675
-Putnam,CA 09,President,,,Total,368
-Putnam,CA 10,President,,,Total,480
-Putnam,CA 11,President,,,Total,366
-Putnam,CA 12,President,,,Total,469
-Putnam,CA 13,President,,,Total,576
-Putnam,CA 14,President,,,Total,488
-Putnam,CA 15,President,,,Total,678
-Putnam,CA 16,President,,,Total,603
-Putnam,CA 17,President,,,Total,407
-Putnam,CA 18,President,,,Total,660
-Putnam,CA 19,President,,,Total,746
-Putnam,CA 20,President,,,Total,677
-Putnam,CA 21,President,,,Total,453
-Putnam,CA 22,President,,,Total,606
-Putnam,CA 23,President,,,Total,523
-Putnam,CA 24,President,,,Total,564
-Putnam,CA 25,President,,,Total,599
-Putnam,CA 26,President,,,Total,453
-Putnam,CA 27,President,,,Total,397
-Putnam,CA 28,President,,,Total,532
-Putnam,CA 29,President,,,Total,920
-Putnam,CA 30,President,,,Total,449
-Putnam,KE 01,President,,,Total,654
-Putnam,KE 02,President,,,Total,360
-Putnam,KE 03,President,,,Total,591
-Putnam,KE 04,President,,,Total,474
-Putnam,KE 05,President,,,Total,659
-Putnam,KE 06,President,,,Total,636
-Putnam,KE 07,President,,,Total,584
-Putnam,KE 08,President,,,Total,759
-Putnam,KE 09,President,,,Total,377
-Putnam,KE 10,President,,,Total,565
-Putnam,KE 11,President,,,Total,546
-Putnam,KE 12,President,,,Total,384
-Putnam,PA 01,President,,,Total,673
-Putnam,PA 02,President,,,Total,721
-Putnam,PA 03,President,,,Total,859
-Putnam,PA 04,President,,,Total,528
-Putnam,PA 05,President,,,Total,561
-Putnam,PA 06,President,,,Total,528
-Putnam,PA 07,President,,,Total,663
-Putnam,PA 08,President,,,Total,520
-Putnam,PH 01,President,,,Total,499
-Putnam,PH 02,President,,,Total,334
-Putnam,PH 03,President,,,Total,669
-Putnam,PH 04,President,,,Total,535
-Putnam,PH 05,President,,,Total,580
-Putnam,PH 06,President,,,Total,500
-Putnam,PH 07,President,,,Total,621
-Putnam,PH 08,President,,,Total,804
-Putnam,PH 09,President,,,Total,483
-Putnam,PH 10,President,,,Total,327
-Putnam,PH 11,President,,,Total,413
-Putnam,PV 01,President,,,Total,615
-Putnam,PV 02,President,,,Total,619
-Putnam,PV 03,President,,,Total,667
-Putnam,PV 04,President,,,Total,546
-Putnam,PV 05,President,,,Total,654
-Putnam,PV 06,President,,,Total,429
-Putnam,PV 07,President,,,Total,570
-Putnam,PV 08,President,,,Total,757
-Putnam,PV 09,President,,,Total,597
-Putnam,PV 10,President,,,Total,422
-Putnam,SE 01,President,,,Total,710
-Putnam,SE 02,President,,,Total,484
-Putnam,SE 03,President,,,Total,596
-Putnam,SE 04,President,,,Total,508
-Putnam,SE 05,President,,,Total,373
-Putnam,SE 06,President,,,Total,578
-Putnam,SE 07,President,,,Total,666
-Putnam,SE 08,President,,,Total,797
-Putnam,SE 09,President,,,Total,592
-Putnam,SE 10,President,,,Total,663
-Putnam,SE 11,President,,,Total,729
-Putnam,SE 12,President,,,Total,425
-Putnam,SE 13,President,,,Total,466
-Putnam,SE 14,President,,,Total,707
-Putnam,SE 15,President,,,Total,500
-Putnam,CA 01,President,,,Registered Voters,439
-Putnam,CA 02,President,,,Registered Voters,1026
-Putnam,CA 03,President,,,Registered Voters,1019
-Putnam,CA 04,President,,,Registered Voters,593
-Putnam,CA 05,President,,,Registered Voters,718
-Putnam,CA 06,President,,,Registered Voters,769
-Putnam,CA 07,President,,,Registered Voters,836
-Putnam,CA 08,President,,,Registered Voters,824
-Putnam,CA 09,President,,,Registered Voters,478
-Putnam,CA 10,President,,,Registered Voters,626
-Putnam,CA 11,President,,,Registered Voters,491
-Putnam,CA 12,President,,,Registered Voters,613
-Putnam,CA 13,President,,,Registered Voters,783
-Putnam,CA 14,President,,,Registered Voters,652
-Putnam,CA 15,President,,,Registered Voters,893
-Putnam,CA 16,President,,,Registered Voters,797
-Putnam,CA 17,President,,,Registered Voters,556
-Putnam,CA 18,President,,,Registered Voters,873
-Putnam,CA 19,President,,,Registered Voters,981
-Putnam,CA 20,President,,,Registered Voters,911
-Putnam,CA 21,President,,,Registered Voters,584
-Putnam,CA 22,President,,,Registered Voters,752
-Putnam,CA 23,President,,,Registered Voters,685
-Putnam,CA 24,President,,,Registered Voters,763
-Putnam,CA 25,President,,,Registered Voters,798
-Putnam,CA 26,President,,,Registered Voters,588
-Putnam,CA 27,President,,,Registered Voters,515
-Putnam,CA 28,President,,,Registered Voters,699
-Putnam,CA 29,President,,,Registered Voters,1121
-Putnam,CA 30,President,,,Registered Voters,594
-Putnam,KE 01,President,,,Registered Voters,826
-Putnam,KE 02,President,,,Registered Voters,457
-Putnam,KE 03,President,,,Registered Voters,789
-Putnam,KE 04,President,,,Registered Voters,636
-Putnam,KE 05,President,,,Registered Voters,839
-Putnam,KE 06,President,,,Registered Voters,832
-Putnam,KE 07,President,,,Registered Voters,765
-Putnam,KE 08,President,,,Registered Voters,940
-Putnam,KE 09,President,,,Registered Voters,498
-Putnam,KE 10,President,,,Registered Voters,740
-Putnam,KE 11,President,,,Registered Voters,718
-Putnam,KE 12,President,,,Registered Voters,487
-Putnam,PA 01,President,,,Registered Voters,829
-Putnam,PA 02,President,,,Registered Voters,934
-Putnam,PA 03,President,,,Registered Voters,1115
-Putnam,PA 04,President,,,Registered Voters,701
-Putnam,PA 05,President,,,Registered Voters,695
-Putnam,PA 06,President,,,Registered Voters,673
-Putnam,PA 07,President,,,Registered Voters,891
-Putnam,PA 08,President,,,Registered Voters,682
-Putnam,PH 01,President,,,Registered Voters,619
-Putnam,PH 02,President,,,Registered Voters,397
-Putnam,PH 03,President,,,Registered Voters,802
-Putnam,PH 04,President,,,Registered Voters,668
-Putnam,PH 05,President,,,Registered Voters,676
-Putnam,PH 06,President,,,Registered Voters,663
-Putnam,PH 07,President,,,Registered Voters,752
-Putnam,PH 08,President,,,Registered Voters,957
-Putnam,PH 09,President,,,Registered Voters,600
-Putnam,PH 10,President,,,Registered Voters,399
-Putnam,PH 11,President,,,Registered Voters,486
-Putnam,PV 01,President,,,Registered Voters,775
-Putnam,PV 02,President,,,Registered Voters,755
-Putnam,PV 03,President,,,Registered Voters,887
-Putnam,PV 04,President,,,Registered Voters,676
-Putnam,PV 05,President,,,Registered Voters,904
-Putnam,PV 06,President,,,Registered Voters,556
-Putnam,PV 07,President,,,Registered Voters,731
-Putnam,PV 08,President,,,Registered Voters,960
-Putnam,PV 09,President,,,Registered Voters,760
-Putnam,PV 10,President,,,Registered Voters,533
-Putnam,SE 01,President,,,Registered Voters,891
-Putnam,SE 02,President,,,Registered Voters,658
-Putnam,SE 03,President,,,Registered Voters,752
-Putnam,SE 04,President,,,Registered Voters,676
-Putnam,SE 05,President,,,Registered Voters,498
-Putnam,SE 06,President,,,Registered Voters,730
-Putnam,SE 07,President,,,Registered Voters,854
-Putnam,SE 08,President,,,Registered Voters,1030
-Putnam,SE 09,President,,,Registered Voters,737
-Putnam,SE 10,President,,,Registered Voters,849
-Putnam,SE 11,President,,,Registered Voters,889
-Putnam,SE 12,President,,,Registered Voters,580
-Putnam,SE 13,President,,,Registered Voters,612
-Putnam,SE 14,President,,,Registered Voters,926
-Putnam,SE 15,President,,,Registered Voters,625
+Putnam,CA 01,Registered Voters,,,,439
+Putnam,CA 02,Registered Voters,,,,1026
+Putnam,CA 03,Registered Voters,,,,1019
+Putnam,CA 04,Registered Voters,,,,593
+Putnam,CA 05,Registered Voters,,,,718
+Putnam,CA 06,Registered Voters,,,,769
+Putnam,CA 07,Registered Voters,,,,836
+Putnam,CA 08,Registered Voters,,,,824
+Putnam,CA 09,Registered Voters,,,,478
+Putnam,CA 10,Registered Voters,,,,626
+Putnam,CA 11,Registered Voters,,,,491
+Putnam,CA 12,Registered Voters,,,,613
+Putnam,CA 13,Registered Voters,,,,783
+Putnam,CA 14,Registered Voters,,,,652
+Putnam,CA 15,Registered Voters,,,,893
+Putnam,CA 16,Registered Voters,,,,797
+Putnam,CA 17,Registered Voters,,,,556
+Putnam,CA 18,Registered Voters,,,,873
+Putnam,CA 19,Registered Voters,,,,981
+Putnam,CA 20,Registered Voters,,,,911
+Putnam,CA 21,Registered Voters,,,,584
+Putnam,CA 22,Registered Voters,,,,752
+Putnam,CA 23,Registered Voters,,,,685
+Putnam,CA 24,Registered Voters,,,,763
+Putnam,CA 25,Registered Voters,,,,798
+Putnam,CA 26,Registered Voters,,,,588
+Putnam,CA 27,Registered Voters,,,,515
+Putnam,CA 28,Registered Voters,,,,699
+Putnam,CA 29,Registered Voters,,,,1121
+Putnam,CA 30,Registered Voters,,,,594
+Putnam,KE 01,Registered Voters,,,,826
+Putnam,KE 02,Registered Voters,,,,457
+Putnam,KE 03,Registered Voters,,,,789
+Putnam,KE 04,Registered Voters,,,,636
+Putnam,KE 05,Registered Voters,,,,839
+Putnam,KE 06,Registered Voters,,,,832
+Putnam,KE 07,Registered Voters,,,,765
+Putnam,KE 08,Registered Voters,,,,940
+Putnam,KE 09,Registered Voters,,,,498
+Putnam,KE 10,Registered Voters,,,,740
+Putnam,KE 11,Registered Voters,,,,718
+Putnam,KE 12,Registered Voters,,,,487
+Putnam,PA 01,Registered Voters,,,,829
+Putnam,PA 02,Registered Voters,,,,934
+Putnam,PA 03,Registered Voters,,,,1115
+Putnam,PA 04,Registered Voters,,,,701
+Putnam,PA 05,Registered Voters,,,,695
+Putnam,PA 06,Registered Voters,,,,673
+Putnam,PA 07,Registered Voters,,,,891
+Putnam,PA 08,Registered Voters,,,,682
+Putnam,PH 01,Registered Voters,,,,619
+Putnam,PH 02,Registered Voters,,,,397
+Putnam,PH 03,Registered Voters,,,,802
+Putnam,PH 04,Registered Voters,,,,668
+Putnam,PH 05,Registered Voters,,,,676
+Putnam,PH 06,Registered Voters,,,,663
+Putnam,PH 07,Registered Voters,,,,752
+Putnam,PH 08,Registered Voters,,,,957
+Putnam,PH 09,Registered Voters,,,,600
+Putnam,PH 10,Registered Voters,,,,399
+Putnam,PH 11,Registered Voters,,,,486
+Putnam,PV 01,Registered Voters,,,,775
+Putnam,PV 02,Registered Voters,,,,755
+Putnam,PV 03,Registered Voters,,,,887
+Putnam,PV 04,Registered Voters,,,,676
+Putnam,PV 05,Registered Voters,,,,904
+Putnam,PV 06,Registered Voters,,,,556
+Putnam,PV 07,Registered Voters,,,,731
+Putnam,PV 08,Registered Voters,,,,960
+Putnam,PV 09,Registered Voters,,,,760
+Putnam,PV 10,Registered Voters,,,,533
+Putnam,SE 01,Registered Voters,,,,891
+Putnam,SE 02,Registered Voters,,,,658
+Putnam,SE 03,Registered Voters,,,,752
+Putnam,SE 04,Registered Voters,,,,676
+Putnam,SE 05,Registered Voters,,,,498
+Putnam,SE 06,Registered Voters,,,,730
+Putnam,SE 07,Registered Voters,,,,854
+Putnam,SE 08,Registered Voters,,,,1030
+Putnam,SE 09,Registered Voters,,,,737
+Putnam,SE 10,Registered Voters,,,,849
+Putnam,SE 11,Registered Voters,,,,889
+Putnam,SE 12,Registered Voters,,,,580
+Putnam,SE 13,Registered Voters,,,,612
+Putnam,SE 14,Registered Voters,,,,926
+Putnam,SE 15,Registered Voters,,,,625
 Putnam,CA 01,President,,DEM,Hillary Clinton,117
 Putnam,CA 02,President,,DEM,Hillary Clinton,301
 Putnam,CA 03,President,,DEM,Hillary Clinton,263
@@ -1031,92 +945,6 @@ Putnam,SE 12,President,,,Over and Under Votes,4
 Putnam,SE 13,President,,,Over and Under Votes,4
 Putnam,SE 14,President,,,Over and Under Votes,7
 Putnam,SE 15,President,,,Over and Under Votes,4
-Putnam,CA 01,U.S. Senate,,,Total,328
-Putnam,CA 02,U.S. Senate,,,Total,801
-Putnam,CA 03,U.S. Senate,,,Total,787
-Putnam,CA 04,U.S. Senate,,,Total,435
-Putnam,CA 05,U.S. Senate,,,Total,540
-Putnam,CA 06,U.S. Senate,,,Total,575
-Putnam,CA 07,U.S. Senate,,,Total,633
-Putnam,CA 08,U.S. Senate,,,Total,675
-Putnam,CA 09,U.S. Senate,,,Total,368
-Putnam,CA 10,U.S. Senate,,,Total,480
-Putnam,CA 11,U.S. Senate,,,Total,366
-Putnam,CA 12,U.S. Senate,,,Total,469
-Putnam,CA 13,U.S. Senate,,,Total,576
-Putnam,CA 14,U.S. Senate,,,Total,488
-Putnam,CA 15,U.S. Senate,,,Total,678
-Putnam,CA 16,U.S. Senate,,,Total,603
-Putnam,CA 17,U.S. Senate,,,Total,407
-Putnam,CA 18,U.S. Senate,,,Total,660
-Putnam,CA 19,U.S. Senate,,,Total,746
-Putnam,CA 20,U.S. Senate,,,Total,677
-Putnam,CA 21,U.S. Senate,,,Total,453
-Putnam,CA 22,U.S. Senate,,,Total,606
-Putnam,CA 23,U.S. Senate,,,Total,523
-Putnam,CA 24,U.S. Senate,,,Total,564
-Putnam,CA 25,U.S. Senate,,,Total,599
-Putnam,CA 26,U.S. Senate,,,Total,453
-Putnam,CA 27,U.S. Senate,,,Total,397
-Putnam,CA 28,U.S. Senate,,,Total,532
-Putnam,CA 29,U.S. Senate,,,Total,920
-Putnam,CA 30,U.S. Senate,,,Total,449
-Putnam,KE 01,U.S. Senate,,,Total,654
-Putnam,KE 02,U.S. Senate,,,Total,360
-Putnam,KE 03,U.S. Senate,,,Total,591
-Putnam,KE 04,U.S. Senate,,,Total,474
-Putnam,KE 05,U.S. Senate,,,Total,659
-Putnam,KE 06,U.S. Senate,,,Total,636
-Putnam,KE 07,U.S. Senate,,,Total,584
-Putnam,KE 08,U.S. Senate,,,Total,759
-Putnam,KE 09,U.S. Senate,,,Total,377
-Putnam,KE 10,U.S. Senate,,,Total,565
-Putnam,KE 11,U.S. Senate,,,Total,546
-Putnam,KE 12,U.S. Senate,,,Total,384
-Putnam,PA 01,U.S. Senate,,,Total,673
-Putnam,PA 02,U.S. Senate,,,Total,721
-Putnam,PA 03,U.S. Senate,,,Total,859
-Putnam,PA 04,U.S. Senate,,,Total,528
-Putnam,PA 05,U.S. Senate,,,Total,561
-Putnam,PA 06,U.S. Senate,,,Total,528
-Putnam,PA 07,U.S. Senate,,,Total,663
-Putnam,PA 08,U.S. Senate,,,Total,520
-Putnam,PH 01,U.S. Senate,,,Total,499
-Putnam,PH 02,U.S. Senate,,,Total,334
-Putnam,PH 03,U.S. Senate,,,Total,669
-Putnam,PH 04,U.S. Senate,,,Total,535
-Putnam,PH 05,U.S. Senate,,,Total,580
-Putnam,PH 06,U.S. Senate,,,Total,500
-Putnam,PH 07,U.S. Senate,,,Total,621
-Putnam,PH 08,U.S. Senate,,,Total,804
-Putnam,PH 09,U.S. Senate,,,Total,483
-Putnam,PH 10,U.S. Senate,,,Total,327
-Putnam,PH 11,U.S. Senate,,,Total,413
-Putnam,PV 01,U.S. Senate,,,Total,615
-Putnam,PV 02,U.S. Senate,,,Total,619
-Putnam,PV 03,U.S. Senate,,,Total,667
-Putnam,PV 04,U.S. Senate,,,Total,546
-Putnam,PV 05,U.S. Senate,,,Total,654
-Putnam,PV 06,U.S. Senate,,,Total,429
-Putnam,PV 07,U.S. Senate,,,Total,570
-Putnam,PV 08,U.S. Senate,,,Total,757
-Putnam,PV 09,U.S. Senate,,,Total,597
-Putnam,PV 10,U.S. Senate,,,Total,422
-Putnam,SE 01,U.S. Senate,,,Total,710
-Putnam,SE 02,U.S. Senate,,,Total,484
-Putnam,SE 03,U.S. Senate,,,Total,596
-Putnam,SE 04,U.S. Senate,,,Total,508
-Putnam,SE 05,U.S. Senate,,,Total,373
-Putnam,SE 06,U.S. Senate,,,Total,578
-Putnam,SE 07,U.S. Senate,,,Total,666
-Putnam,SE 08,U.S. Senate,,,Total,797
-Putnam,SE 09,U.S. Senate,,,Total,592
-Putnam,SE 10,U.S. Senate,,,Total,663
-Putnam,SE 11,U.S. Senate,,,Total,729
-Putnam,SE 12,U.S. Senate,,,Total,425
-Putnam,SE 13,U.S. Senate,,,Total,466
-Putnam,SE 14,U.S. Senate,,,Total,707
-Putnam,SE 15,U.S. Senate,,,Total,500
 Putnam,CA 01,U.S. Senate,,DEM,Charles E. Schumer,132
 Putnam,CA 02,U.S. Senate,,DEM,Charles E. Schumer,365
 Putnam,CA 03,U.S. Senate,,DEM,Charles E. Schumer,324

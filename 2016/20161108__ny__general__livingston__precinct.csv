@@ -1,44 +1,4 @@
 county,precinct,office,district,party,candidate,votes
-Livingston,Avon 1,President,,,Total,973
-Livingston,Avon 2,President,,,Total,949
-Livingston,Avon 3,President,,,Total,892
-Livingston,Avon 4,President,,,Total,886
-Livingston,Caledonia 1,President,,,Total,751
-Livingston,Caledonia 2,President,,,Total,752
-Livingston,Caledonia 3,President,,,Total,733
-Livingston,Conesus 1,President,,,Total,639
-Livingston,Conesus 2,President,,,Total,635
-Livingston,Geneseo 1,President,,,Total,1169
-Livingston,Geneseo 2,President,,,Total,921
-Livingston,Geneseo 3,President,,,Total,792
-Livingston,Geneseo 4,President,,,Total,724
-Livingston,Geneseo 5,President,,,Total,1000
-Livingston,Groveland 1,President,,,Total,535
-Livingston,Groveland 2,President,,,Total,293
-Livingston,Leicester 1,President,,,Total,1069
-Livingston,Lima 1,President,,,Total,1250
-Livingston,Lima 2,President,,,Total,990
-Livingston,Livonia 1,President,,,Total,877
-Livingston,Livonia 2,President,,,Total,842
-Livingston,Livonia 3,President,,,Total,717
-Livingston,Livonia 4,President,,,Total,809
-Livingston,Livonia 5,President,,,Total,860
-Livingston,Mt. Morris 1,President,,,Total,605
-Livingston,Mt. Morris 2,President,,,Total,518
-Livingston,Mt. Morris 3,President,,,Total,608
-Livingston,N.Dansville 1,President,,,Total,669
-Livingston,N.Dansville 2,President,,,Total,565
-Livingston,N.Dansville 3,President,,,Total,645
-Livingston,N.Dansville 4,President,,,Total,431
-Livingston,Nunda 1,President,,,Total,961
-Livingston,Nunda 2,President,,,Total,342
-Livingston,Ossian 1,President,,,Total,401
-Livingston,Portage 1,President,,,Total,357
-Livingston,Sparta 1,President,,,Total,769
-Livingston,Springwater 1,President,,,Total,1080
-Livingston,W.Sparta 1,President,,,Total,610
-Livingston,York 1,President,,,Total,740
-Livingston,York 2,President,,,Total,954
 Livingston,Avon 1,President,,DEM,Hillary Clinton,315
 Livingston,Avon 2,President,,DEM,Hillary Clinton,369
 Livingston,Avon 3,President,,DEM,Hillary Clinton,379
@@ -524,46 +484,6 @@ Livingston,Springwater 1,President,,,Scatterings,4
 Livingston,W.Sparta 1,President,,,Scatterings,1
 Livingston,York 1,President,,,Scatterings,1
 Livingston,York 2,President,,,Scatterings,6
-Livingston,Avon 1,U.S. Senate,,,Total,973
-Livingston,Avon 2,U.S. Senate,,,Total,949
-Livingston,Avon 3,U.S. Senate,,,Total,890
-Livingston,Avon 4,U.S. Senate,,,Total,885
-Livingston,Caledonia 1,U.S. Senate,,,Total,752
-Livingston,Caledonia 2,U.S. Senate,,,Total,750
-Livingston,Caledonia 3,U.S. Senate,,,Total,733
-Livingston,Conesus 1,U.S. Senate,,,Total,641
-Livingston,Conesus 2,U.S. Senate,,,Total,635
-Livingston,Geneseo 1,U.S. Senate,,,Total,1169
-Livingston,Geneseo 2,U.S. Senate,,,Total,921
-Livingston,Geneseo 3,U.S. Senate,,,Total,792
-Livingston,Geneseo 4,U.S. Senate,,,Total,724
-Livingston,Geneseo 5,U.S. Senate,,,Total,1000
-Livingston,Groveland 1,U.S. Senate,,,Total,535
-Livingston,Groveland 2,U.S. Senate,,,Total,293
-Livingston,Leicester 1,U.S. Senate,,,Total,1069
-Livingston,Lima 1,U.S. Senate,,,Total,1250
-Livingston,Lima 2,U.S. Senate,,,Total,988
-Livingston,Livonia 1,U.S. Senate,,,Total,877
-Livingston,Livonia 2,U.S. Senate,,,Total,842
-Livingston,Livonia 3,U.S. Senate,,,Total,717
-Livingston,Livonia 4,U.S. Senate,,,Total,809
-Livingston,Livonia 5,U.S. Senate,,,Total,859
-Livingston,Mt. Morris 1,U.S. Senate,,,Total,605
-Livingston,Mt. Morris 2,U.S. Senate,,,Total,518
-Livingston,Mt. Morris 3,U.S. Senate,,,Total,608
-Livingston,N.Dansville 1,U.S. Senate,,,Total,669
-Livingston,N.Dansville 2,U.S. Senate,,,Total,565
-Livingston,N.Dansville 3,U.S. Senate,,,Total,644
-Livingston,N.Dansville 4,U.S. Senate,,,Total,431
-Livingston,Nunda 1,U.S. Senate,,,Total,961
-Livingston,Nunda 2,U.S. Senate,,,Total,342
-Livingston,Ossian 1,U.S. Senate,,,Total,401
-Livingston,Portage 1,U.S. Senate,,,Total,357
-Livingston,Sparta 1,U.S. Senate,,,Total,769
-Livingston,Springwater 1,U.S. Senate,,,Total,1080
-Livingston,W.Sparta 1,U.S. Senate,,,Total,610
-Livingston,York 1,U.S. Senate,,,Total,740
-Livingston,York 2,U.S. Senate,,,Total,954
 Livingston,Avon 1,U.S. Senate,,DEM,Charles E. Schumer,419
 Livingston,Avon 2,U.S. Senate,,DEM,Charles E. Schumer,467
 Livingston,Avon 3,U.S. Senate,,DEM,Charles E. Schumer,433
@@ -1044,46 +964,6 @@ Livingston,Springwater 1,U.S. Senate,,,Write-ins,0
 Livingston,W.Sparta 1,U.S. Senate,,,Write-ins,0
 Livingston,York 1,U.S. Senate,,,Write-ins,0
 Livingston,York 2,U.S. Senate,,,Write-ins,0
-Livingston,Avon 1,U.S. House,27,,Total,973
-Livingston,Avon 2,U.S. House,27,,Total,949
-Livingston,Avon 3,U.S. House,27,,Total,890
-Livingston,Avon 4,U.S. House,27,,Total,885
-Livingston,Caledonia 1,U.S. House,27,,Total,752
-Livingston,Caledonia 2,U.S. House,27,,Total,750
-Livingston,Caledonia 3,U.S. House,27,,Total,733
-Livingston,Conesus 1,U.S. House,27,,Total,641
-Livingston,Conesus 2,U.S. House,27,,Total,635
-Livingston,Geneseo 1,U.S. House,27,,Total,1169
-Livingston,Geneseo 2,U.S. House,27,,Total,921
-Livingston,Geneseo 3,U.S. House,27,,Total,792
-Livingston,Geneseo 4,U.S. House,27,,Total,724
-Livingston,Geneseo 5,U.S. House,27,,Total,1000
-Livingston,Groveland 1,U.S. House,27,,Total,535
-Livingston,Groveland 2,U.S. House,27,,Total,293
-Livingston,Leicester 1,U.S. House,27,,Total,1069
-Livingston,Lima 1,U.S. House,27,,Total,1250
-Livingston,Lima 2,U.S. House,27,,Total,988
-Livingston,Livonia 1,U.S. House,27,,Total,877
-Livingston,Livonia 2,U.S. House,27,,Total,842
-Livingston,Livonia 3,U.S. House,27,,Total,717
-Livingston,Livonia 4,U.S. House,27,,Total,809
-Livingston,Livonia 5,U.S. House,27,,Total,859
-Livingston,Mt. Morris 1,U.S. House,27,,Total,605
-Livingston,Mt. Morris 2,U.S. House,27,,Total,518
-Livingston,Mt. Morris 3,U.S. House,27,,Total,608
-Livingston,N.Dansville 1,U.S. House,27,,Total,669
-Livingston,N.Dansville 2,U.S. House,27,,Total,565
-Livingston,N.Dansville 3,U.S. House,27,,Total,644
-Livingston,N.Dansville 4,U.S. House,27,,Total,431
-Livingston,Nunda 1,U.S. House,27,,Total,961
-Livingston,Nunda 2,U.S. House,27,,Total,342
-Livingston,Ossian 1,U.S. House,27,,Total,401
-Livingston,Portage 1,U.S. House,27,,Total,357
-Livingston,Sparta 1,U.S. House,27,,Total,769
-Livingston,Springwater 1,U.S. House,27,,Total,1080
-Livingston,W.Sparta 1,U.S. House,27,,Total,610
-Livingston,York 1,U.S. House,27,,Total,740
-Livingston,York 2,U.S. House,27,,Total,954
 Livingston,Avon 1,U.S. House,27,DEM,Diana K. Kastenbaum,251
 Livingston,Avon 2,U.S. House,27,DEM,Diana K. Kastenbaum,320
 Livingston,Avon 3,U.S. House,27,DEM,Diana K. Kastenbaum,346
@@ -1404,25 +1284,6 @@ Livingston,Springwater 1,U.S. House,27,,Write-ins,0
 Livingston,W.Sparta 1,U.S. House,27,,Write-ins,0
 Livingston,York 1,U.S. House,27,,Write-ins,0
 Livingston,York 2,U.S. House,27,,Write-ins,0
-Livingston,Conesus 1,State Senate,57,,Total,639
-Livingston,Conesus 2,State Senate,57,,Total,633
-Livingston,Livonia 1,State Senate,57,,Total,872
-Livingston,Livonia 2,State Senate,57,,Total,841
-Livingston,Livonia 3,State Senate,57,,Total,714
-Livingston,Livonia 4,State Senate,57,,Total,809
-Livingston,Livonia 5,State Senate,57,,Total,855
-Livingston,Mt. Morris 1,State Senate,57,,Total,605
-Livingston,Mt. Morris 2,State Senate,57,,Total,517
-Livingston,Mt. Morris 3,State Senate,57,,Total,608
-Livingston,N.Dansville 1,State Senate,57,,Total,666
-Livingston,N.Dansville 2,State Senate,57,,Total,565
-Livingston,N.Dansville 3,State Senate,57,,Total,644
-Livingston,N.Dansville 4,State Senate,57,,Total,430
-Livingston,Nunda 1,State Senate,57,,Total,959
-Livingston,Nunda 2,State Senate,57,,Total,342
-Livingston,Ossian 1,State Senate,57,,Total,400
-Livingston,Sparta 1,State Senate,57,,Total,768
-Livingston,Springwater 1,State Senate,57,,Total,1074
 Livingston,Conesus 1,State Senate,57,DEM,Lee Hyson,123
 Livingston,Conesus 2,State Senate,57,DEM,Lee Hyson,101
 Livingston,Livonia 1,State Senate,57,DEM,Lee Hyson,146
@@ -1613,27 +1474,6 @@ Livingston,Nunda 2,State Senate,57,,Write-ins,0
 Livingston,Ossian 1,State Senate,57,,Write-ins,0
 Livingston,Sparta 1,State Senate,57,,Write-ins,2
 Livingston,Springwater 1,State Senate,57,,Write-ins,0
-Livingston,Avon 1,State Senate,59,,Total,970
-Livingston,Avon 2,State Senate,59,,Total,946
-Livingston,Avon 3,State Senate,59,,Total,884
-Livingston,Avon 4,State Senate,59,,Total,885
-Livingston,Caledonia 1,State Senate,59,,Total,751
-Livingston,Caledonia 2,State Senate,59,,Total,747
-Livingston,Caledonia 3,State Senate,59,,Total,732
-Livingston,Geneseo 1,State Senate,59,,Total,1164
-Livingston,Geneseo 2,State Senate,59,,Total,918
-Livingston,Geneseo 3,State Senate,59,,Total,789
-Livingston,Geneseo 4,State Senate,59,,Total,721
-Livingston,Geneseo 5,State Senate,59,,Total,996
-Livingston,Groveland 1,State Senate,59,,Total,535
-Livingston,Groveland 2,State Senate,59,,Total,293
-Livingston,Leicester 1,State Senate,59,,Total,1066
-Livingston,Lima 1,State Senate,59,,Total,1240
-Livingston,Lima 2,State Senate,59,,Total,987
-Livingston,Portage 1,State Senate,59,,Total,356
-Livingston,W.Sparta 1,State Senate,59,,Total,607
-Livingston,York 1,State Senate,59,,Total,738
-Livingston,York 2,State Senate,59,,Total,952
 Livingston,Avon 1,State Senate,59,DEM,Tom Casey,221
 Livingston,Avon 2,State Senate,59,DEM,Tom Casey,266
 Livingston,Avon 3,State Senate,59,DEM,Tom Casey,280
@@ -1802,46 +1642,6 @@ Livingston,Portage 1,State Senate,59,,Write-ins,0
 Livingston,W.Sparta 1,State Senate,59,,Write-ins,0
 Livingston,York 1,State Senate,59,,Write-ins,0
 Livingston,York 2,State Senate,59,,Write-ins,0
-Livingston,Avon 1,State Assembly,133,,Total,970
-Livingston,Avon 2,State Assembly,133,,Total,946
-Livingston,Avon 3,State Assembly,133,,Total,884
-Livingston,Avon 4,State Assembly,133,,Total,885
-Livingston,Caledonia 1,State Assembly,133,,Total,751
-Livingston,Caledonia 2,State Assembly,133,,Total,747
-Livingston,Caledonia 3,State Assembly,133,,Total,732
-Livingston,Conesus 1,State Assembly,133,,Total,639
-Livingston,Conesus 2,State Assembly,133,,Total,633
-Livingston,Geneseo 1,State Assembly,133,,Total,1164
-Livingston,Geneseo 2,State Assembly,133,,Total,918
-Livingston,Geneseo 3,State Assembly,133,,Total,789
-Livingston,Geneseo 4,State Assembly,133,,Total,721
-Livingston,Geneseo 5,State Assembly,133,,Total,996
-Livingston,Groveland 1,State Assembly,133,,Total,535
-Livingston,Groveland 2,State Assembly,133,,Total,293
-Livingston,Leicester 1,State Assembly,133,,Total,1066
-Livingston,Lima 1,State Assembly,133,,Total,1240
-Livingston,Lima 2,State Assembly,133,,Total,987
-Livingston,Livonia 1,State Assembly,133,,Total,872
-Livingston,Livonia 2,State Assembly,133,,Total,841
-Livingston,Livonia 3,State Assembly,133,,Total,714
-Livingston,Livonia 4,State Assembly,133,,Total,809
-Livingston,Livonia 5,State Assembly,133,,Total,855
-Livingston,Mt. Morris 1,State Assembly,133,,Total,605
-Livingston,Mt. Morris 2,State Assembly,133,,Total,517
-Livingston,Mt. Morris 3,State Assembly,133,,Total,608
-Livingston,N.Dansville 1,State Assembly,133,,Total,666
-Livingston,N.Dansville 2,State Assembly,133,,Total,565
-Livingston,N.Dansville 3,State Assembly,133,,Total,644
-Livingston,N.Dansville 4,State Assembly,133,,Total,430
-Livingston,Nunda 1,State Assembly,133,,Total,959
-Livingston,Nunda 2,State Assembly,133,,Total,342
-Livingston,Ossian 1,State Assembly,133,,Total,400
-Livingston,Portage 1,State Assembly,133,,Total,356
-Livingston,Sparta 1,State Assembly,133,,Total,768
-Livingston,Springwater 1,State Assembly,133,,Total,1074
-Livingston,W.Sparta 1,State Assembly,133,,Total,607
-Livingston,York 1,State Assembly,133,,Total,738
-Livingston,York 2,State Assembly,133,,Total,952
 Livingston,Avon 1,State Assembly,133,DEM,Barbara A. Baer,308
 Livingston,Avon 2,State Assembly,133,DEM,Barbara A. Baer,346
 Livingston,Avon 3,State Assembly,133,DEM,Barbara A. Baer,379
