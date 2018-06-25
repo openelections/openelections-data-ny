@@ -1,0 +1,435 @@
+county,precinct,office,district,party,candidate,votes
+Chenango,AFTON 1,Registered Voters,,DEM,,394
+Chenango,BAINBRIDGE  1,Registered Voters,,DEM,,510
+Chenango,COLUMBUS  1,Registered Voters,,DEM,,125
+Chenango,COVENTRY  1,Registered Voters,,DEM,,210
+Chenango,GERMAN  1,Registered Voters,,DEM,,79
+Chenango,GREENE 1,Registered Voters,,DEM,,410
+Chenango,GREENE  2,Registered Voters,,DEM,,413
+Chenango,GUILFORD  1,Registered Voters,,DEM,,436
+Chenango,LINCKLAEN  1,Registered Voters,,DEM,,43
+Chenango,MCDONOUGH  1,Registered Voters,,DEM,,155
+Chenango,NEW BERLIN  1,Registered Voters,,DEM,,310
+Chenango,NORTH NORWICH  1,Registered Voters,,DEM,,233
+Chenango,NORWICH TOWN  1,Registered Voters,,DEM,,273
+Chenango,NORWICH TOWN 2,Registered Voters,,DEM,,267
+Chenango,NORWICH CITY WARD 1,Registered Voters,,DEM,,218
+Chenango,NORWICH CITY WARD 2,Registered Voters,,DEM,,178
+Chenango,NORWICH CITY WARD 3,Registered Voters,,DEM,,200
+Chenango,NOWRICH CITY WARD 4,Registered Voters,,DEM,,131
+Chenango,NORWICH CITY WARD 5,Registered Voters,,DEM,,165
+Chenango,NORWICH CITY WARD 6,Registered Voters,,DEM,,148
+Chenango,OTSELIC  1,Registered Voters,,DEM,,129
+Chenango,OXFORD  1,Registered Voters,,DEM,,357
+Chenango,OXFORD  2,Registered Voters,,DEM,,272
+Chenango,PHARSALIA  1,Registered Voters,,DEM,,107
+Chenango,PITCHER  1,Registered Voters,,DEM,,90
+Chenango,PLYMOUTH  1,Registered Voters,,DEM,,240
+Chenango,PRESTON  1,Registered Voters,,DEM,,159
+Chenango,SHERBURNE  1,Registered Voters,,DEM,,275
+Chenango,SHERBURNE  2,Registered Voters,,DEM,,292
+Chenango,SMITHVILLE  1,Registered Voters,,DEM,,204
+Chenango,SMYRNA  1,Registered Voters,,DEM,,163
+Chenango,AFTON 1,Ballots Cast,,DEM,,144
+Chenango,BAINBRIDGE  1,Ballots Cast,,DEM,,195
+Chenango,COLUMBUS  1,Ballots Cast,,DEM,,46
+Chenango,COVENTRY  1,Ballots Cast,,DEM,,66
+Chenango,GERMAN  1,Ballots Cast,,DEM,,31
+Chenango,GREENE 1,Ballots Cast,,DEM,,148
+Chenango,GREENE  2,Ballots Cast,,DEM,,136
+Chenango,GUILFORD  1,Ballots Cast,,DEM,,168
+Chenango,LINCKLAEN  1,Ballots Cast,,DEM,,10
+Chenango,MCDONOUGH  1,Ballots Cast,,DEM,,47
+Chenango,NEW BERLIN  1,Ballots Cast,,DEM,,111
+Chenango,NORTH NORWICH  1,Ballots Cast,,DEM,,75
+Chenango,NORWICH TOWN  1,Ballots Cast,,DEM,,110
+Chenango,NORWICH TOWN 2,Ballots Cast,,DEM,,99
+Chenango,NORWICH CITY WARD 1,Ballots Cast,,DEM,,106
+Chenango,NORWICH CITY WARD 2,Ballots Cast,,DEM,,79
+Chenango,NORWICH CITY WARD 3,Ballots Cast,,DEM,,101
+Chenango,NOWRICH CITY WARD 4,Ballots Cast,,DEM,,48
+Chenango,NORWICH CITY WARD 5,Ballots Cast,,DEM,,60
+Chenango,NORWICH CITY WARD 6,Ballots Cast,,DEM,,56
+Chenango,OTSELIC  1,Ballots Cast,,DEM,,48
+Chenango,OXFORD  1,Ballots Cast,,DEM,,126
+Chenango,OXFORD  2,Ballots Cast,,DEM,,116
+Chenango,PHARSALIA  1,Ballots Cast,,DEM,,47
+Chenango,PITCHER  1,Ballots Cast,,DEM,,16
+Chenango,PLYMOUTH  1,Ballots Cast,,DEM,,97
+Chenango,PRESTON  1,Ballots Cast,,DEM,,56
+Chenango,SHERBURNE  1,Ballots Cast,,DEM,,119
+Chenango,SHERBURNE  2,Ballots Cast,,DEM,,118
+Chenango,SMITHVILLE  1,Ballots Cast,,DEM,,77
+Chenango,SMYRNA  1,Ballots Cast,,DEM,,51
+Chenango,AFTON 1,President,,DEM,Bernie Sanders,95
+Chenango,BAINBRIDGE  1,President,,DEM,Bernie Sanders,118
+Chenango,COLUMBUS  1,President,,DEM,Bernie Sanders,35
+Chenango,COVENTRY  1,President,,DEM,Bernie Sanders,45
+Chenango,GERMAN  1,President,,DEM,Bernie Sanders,17
+Chenango,GREENE 1,President,,DEM,Bernie Sanders,89
+Chenango,GREENE  2,President,,DEM,Bernie Sanders,76
+Chenango,GUILFORD  1,President,,DEM,Bernie Sanders,103
+Chenango,LINCKLAEN  1,President,,DEM,Bernie Sanders,6
+Chenango,MCDONOUGH  1,President,,DEM,Bernie Sanders,22
+Chenango,NEW BERLIN  1,President,,DEM,Bernie Sanders,70
+Chenango,NORTH NORWICH  1,President,,DEM,Bernie Sanders,43
+Chenango,NORWICH TOWN  1,President,,DEM,Bernie Sanders,63
+Chenango,NORWICH TOWN 2,President,,DEM,Bernie Sanders,56
+Chenango,NORWICH CITY WARD 1,President,,DEM,Bernie Sanders,67
+Chenango,NORWICH CITY WARD 2,President,,DEM,Bernie Sanders,42
+Chenango,NORWICH CITY WARD 3,President,,DEM,Bernie Sanders,59
+Chenango,NOWRICH CITY WARD 4,President,,DEM,Bernie Sanders,26
+Chenango,NORWICH CITY WARD 5,President,,DEM,Bernie Sanders,42
+Chenango,NORWICH CITY WARD 6,President,,DEM,Bernie Sanders,30
+Chenango,OTSELIC  1,President,,DEM,Bernie Sanders,32
+Chenango,OXFORD  1,President,,DEM,Bernie Sanders,82
+Chenango,OXFORD  2,President,,DEM,Bernie Sanders,70
+Chenango,PHARSALIA  1,President,,DEM,Bernie Sanders,32
+Chenango,PITCHER  1,President,,DEM,Bernie Sanders,10
+Chenango,PLYMOUTH  1,President,,DEM,Bernie Sanders,56
+Chenango,PRESTON  1,President,,DEM,Bernie Sanders,30
+Chenango,SHERBURNE  1,President,,DEM,Bernie Sanders,58
+Chenango,SHERBURNE  2,President,,DEM,Bernie Sanders,71
+Chenango,SMITHVILLE  1,President,,DEM,Bernie Sanders,40
+Chenango,SMYRNA  1,President,,DEM,Bernie Sanders,28
+Chenango,AFTON 1,President,,DEM,Hillary Clinton,46
+Chenango,BAINBRIDGE  1,President,,DEM,Hillary Clinton,76
+Chenango,COLUMBUS  1,President,,DEM,Hillary Clinton,11
+Chenango,COVENTRY  1,President,,DEM,Hillary Clinton,20
+Chenango,GERMAN  1,President,,DEM,Hillary Clinton,13
+Chenango,GREENE 1,President,,DEM,Hillary Clinton,56
+Chenango,GREENE  2,President,,DEM,Hillary Clinton,59
+Chenango,GUILFORD  1,President,,DEM,Hillary Clinton,64
+Chenango,LINCKLAEN  1,President,,DEM,Hillary Clinton,4
+Chenango,MCDONOUGH  1,President,,DEM,Hillary Clinton,23
+Chenango,NEW BERLIN  1,President,,DEM,Hillary Clinton,40
+Chenango,NORTH NORWICH  1,President,,DEM,Hillary Clinton,31
+Chenango,NORWICH TOWN  1,President,,DEM,Hillary Clinton,47
+Chenango,NORWICH TOWN 2,President,,DEM,Hillary Clinton,43
+Chenango,NORWICH CITY WARD 1,President,,DEM,Hillary Clinton,39
+Chenango,NORWICH CITY WARD 2,President,,DEM,Hillary Clinton,35
+Chenango,NORWICH CITY WARD 3,President,,DEM,Hillary Clinton,42
+Chenango,NOWRICH CITY WARD 4,President,,DEM,Hillary Clinton,21
+Chenango,NORWICH CITY WARD 5,President,,DEM,Hillary Clinton,16
+Chenango,NORWICH CITY WARD 6,President,,DEM,Hillary Clinton,23
+Chenango,OTSELIC  1,President,,DEM,Hillary Clinton,15
+Chenango,OXFORD  1,President,,DEM,Hillary Clinton,41
+Chenango,OXFORD  2,President,,DEM,Hillary Clinton,46
+Chenango,PHARSALIA  1,President,,DEM,Hillary Clinton,13
+Chenango,PITCHER  1,President,,DEM,Hillary Clinton,6
+Chenango,PLYMOUTH  1,President,,DEM,Hillary Clinton,41
+Chenango,PRESTON  1,President,,DEM,Hillary Clinton,25
+Chenango,SHERBURNE  1,President,,DEM,Hillary Clinton,60
+Chenango,SHERBURNE  2,President,,DEM,Hillary Clinton,47
+Chenango,SMITHVILLE  1,President,,DEM,Hillary Clinton,36
+Chenango,SMYRNA  1,President,,DEM,Hillary Clinton,23
+Chenango,AFTON 1,President,,DEM,Blanks,3
+Chenango,BAINBRIDGE  1,President,,DEM,Blanks,1
+Chenango,COLUMBUS  1,President,,DEM,Blanks,0
+Chenango,COVENTRY  1,President,,DEM,Blanks,1
+Chenango,GERMAN  1,President,,DEM,Blanks,1
+Chenango,GREENE 1,President,,DEM,Blanks,3
+Chenango,GREENE  2,President,,DEM,Blanks,1
+Chenango,GUILFORD  1,President,,DEM,Blanks,1
+Chenango,LINCKLAEN  1,President,,DEM,Blanks,0
+Chenango,MCDONOUGH  1,President,,DEM,Blanks,2
+Chenango,NEW BERLIN  1,President,,DEM,Blanks,1
+Chenango,NORTH NORWICH  1,President,,DEM,Blanks,1
+Chenango,NORWICH TOWN  1,President,,DEM,Blanks,0
+Chenango,NORWICH TOWN 2,President,,DEM,Blanks,0
+Chenango,NORWICH CITY WARD 1,President,,DEM,Blanks,0
+Chenango,NORWICH CITY WARD 2,President,,DEM,Blanks,2
+Chenango,NORWICH CITY WARD 3,President,,DEM,Blanks,0
+Chenango,NOWRICH CITY WARD 4,President,,DEM,Blanks,1
+Chenango,NORWICH CITY WARD 5,President,,DEM,Blanks,1
+Chenango,NORWICH CITY WARD 6,President,,DEM,Blanks,3
+Chenango,OTSELIC  1,President,,DEM,Blanks,1
+Chenango,OXFORD  1,President,,DEM,Blanks,3
+Chenango,OXFORD  2,President,,DEM,Blanks,0
+Chenango,PHARSALIA  1,President,,DEM,Blanks,2
+Chenango,PITCHER  1,President,,DEM,Blanks,0
+Chenango,PLYMOUTH  1,President,,DEM,Blanks,0
+Chenango,PRESTON  1,President,,DEM,Blanks,1
+Chenango,SHERBURNE  1,President,,DEM,Blanks,1
+Chenango,SHERBURNE  2,President,,DEM,Blanks,0
+Chenango,SMITHVILLE  1,President,,DEM,Blanks,1
+Chenango,SMYRNA  1,President,,DEM,Blanks,0
+Chenango,AFTON 1,President,,DEM,Void,0
+Chenango,BAINBRIDGE  1,President,,DEM,Void,0
+Chenango,COLUMBUS  1,President,,DEM,Void,0
+Chenango,COVENTRY  1,President,,DEM,Void,0
+Chenango,GERMAN  1,President,,DEM,Void,0
+Chenango,GREENE 1,President,,DEM,Void,0
+Chenango,GREENE  2,President,,DEM,Void,0
+Chenango,GUILFORD  1,President,,DEM,Void,0
+Chenango,LINCKLAEN  1,President,,DEM,Void,0
+Chenango,MCDONOUGH  1,President,,DEM,Void,0
+Chenango,NEW BERLIN  1,President,,DEM,Void,0
+Chenango,NORTH NORWICH  1,President,,DEM,Void,0
+Chenango,NORWICH TOWN  1,President,,DEM,Void,0
+Chenango,NORWICH TOWN 2,President,,DEM,Void,0
+Chenango,NORWICH CITY WARD 1,President,,DEM,Void,0
+Chenango,NORWICH CITY WARD 2,President,,DEM,Void,0
+Chenango,NORWICH CITY WARD 3,President,,DEM,Void,0
+Chenango,NOWRICH CITY WARD 4,President,,DEM,Void,0
+Chenango,NORWICH CITY WARD 5,President,,DEM,Void,1
+Chenango,NORWICH CITY WARD 6,President,,DEM,Void,0
+Chenango,OTSELIC  1,President,,DEM,Void,0
+Chenango,OXFORD  1,President,,DEM,Void,0
+Chenango,OXFORD  2,President,,DEM,Void,0
+Chenango,PHARSALIA  1,President,,DEM,Void,0
+Chenango,PITCHER  1,President,,DEM,Void,0
+Chenango,PLYMOUTH  1,President,,DEM,Void,0
+Chenango,PRESTON  1,President,,DEM,Void,0
+Chenango,SHERBURNE  1,President,,DEM,Void,0
+Chenango,SHERBURNE  2,President,,DEM,Void,0
+Chenango,SMITHVILLE  1,President,,DEM,Void,0
+Chenango,SMYRNA  1,President,,DEM,Void,0
+Chenango,AFTON 1,Registered Voters,,REP,,653
+Chenango,BAINBRIDGE  1,Registered Voters,,REP,,739
+Chenango,COLUMBUS  1,Registered Voters,,REP,,232
+Chenango,COVENTRY  1,Registered Voters,,REP,,434
+Chenango,GERMAN  1,Registered Voters,,REP,,75
+Chenango,GREENE 1,Registered Voters,,REP,,774
+Chenango,GREENE  2,Registered Voters,,REP,,723
+Chenango,GUILFORD  1,Registered Voters,,REP,,638
+Chenango,LINCKLAEN  1,Registered Voters,,REP,,106
+Chenango,MCDONOUGH  1,Registered Voters,,REP,,252
+Chenango,NEW BERLIN  1,Registered Voters,,REP,,598
+Chenango,NORTH NORWICH  1,Registered Voters,,REP,,502
+Chenango,NORWICH TOWN  1,Registered Voters,,REP,,526
+Chenango,NORWICH TOWN 2,Registered Voters,,REP,,493
+Chenango,NORWICH CITY WARD 1,Registered Voters,,REP,,282
+Chenango,NORWICH CITY WARD 2,Registered Voters,,REP,,237
+Chenango,NORWICH CITY WARD 3,Registered Voters,,REP,,351
+Chenango,NOWRICH CITY WARD 4,Registered Voters,,REP,,185
+Chenango,NORWICH CITY WARD 5,Registered Voters,,REP,,250
+Chenango,NORWICH CITY WARD 6,Registered Voters,,REP,,251
+Chenango,OTSELIC  1,Registered Voters,,REP,,222
+Chenango,OXFORD  1,Registered Voters,,REP,,566
+Chenango,OXFORD  2,Registered Voters,,REP,,369
+Chenango,PHARSALIA  1,Registered Voters,,REP,,137
+Chenango,PITCHER  1,Registered Voters,,REP,,171
+Chenango,PLYMOUTH  1,Registered Voters,,REP,,470
+Chenango,PRESTON  1,Registered Voters,,REP,,273
+Chenango,SHERBURNE  1,Registered Voters,,REP,,515
+Chenango,SHERBURNE  2,Registered Voters,,REP,,529
+Chenango,SMITHVILLE  1,Registered Voters,,REP,,352
+Chenango,SMYRNA  1,Registered Voters,,REP,,338
+Chenango,AFTON 1,Ballots Cast,,REP,,290
+Chenango,BAINBRIDGE  1,Ballots Cast,,REP,,318
+Chenango,COLUMBUS  1,Ballots Cast,,REP,,94
+Chenango,COVENTRY  1,Ballots Cast,,REP,,223
+Chenango,GERMAN  1,Ballots Cast,,REP,,36
+Chenango,GREENE 1,Ballots Cast,,REP,,319
+Chenango,GREENE  2,Ballots Cast,,REP,,513
+Chenango,GUILFORD  1,Ballots Cast,,REP,,269
+Chenango,LINCKLAEN  1,Ballots Cast,,REP,,48
+Chenango,MCDONOUGH  1,Ballots Cast,,REP,,108
+Chenango,NEW BERLIN  1,Ballots Cast,,REP,,204
+Chenango,NORTH NORWICH  1,Ballots Cast,,REP,,196
+Chenango,NORWICH TOWN  1,Ballots Cast,,REP,,254
+Chenango,NORWICH TOWN 2,Ballots Cast,,REP,,193
+Chenango,NORWICH CITY WARD 1,Ballots Cast,,REP,,114
+Chenango,NORWICH CITY WARD 2,Ballots Cast,,REP,,107
+Chenango,NORWICH CITY WARD 3,Ballots Cast,,REP,,185
+Chenango,NOWRICH CITY WARD 4,Ballots Cast,,REP,,61
+Chenango,NORWICH CITY WARD 5,Ballots Cast,,REP,,112
+Chenango,NORWICH CITY WARD 6,Ballots Cast,,REP,,108
+Chenango,OTSELIC  1,Ballots Cast,,REP,,79
+Chenango,OXFORD  1,Ballots Cast,,REP,,237
+Chenango,OXFORD  2,Ballots Cast,,REP,,149
+Chenango,PHARSALIA  1,Ballots Cast,,REP,,61
+Chenango,PITCHER  1,Ballots Cast,,REP,,65
+Chenango,PLYMOUTH  1,Ballots Cast,,REP,,195
+Chenango,PRESTON  1,Ballots Cast,,REP,,110
+Chenango,SHERBURNE  1,Ballots Cast,,REP,,202
+Chenango,SHERBURNE  2,Ballots Cast,,REP,,197
+Chenango,SMITHVILLE  1,Ballots Cast,,REP,,150
+Chenango,SMYRNA  1,Ballots Cast,,REP,,119
+Chenango,AFTON 1,President,,REP,Donald J. Trump,158
+Chenango,BAINBRIDGE  1,President,,REP,Donald J. Trump,171
+Chenango,COLUMBUS  1,President,,REP,Donald J. Trump,50
+Chenango,COVENTRY  1,President,,REP,Donald J. Trump,137
+Chenango,GERMAN  1,President,,REP,Donald J. Trump,19
+Chenango,GREENE 1,President,,REP,Donald J. Trump,158
+Chenango,GREENE  2,President,,REP,Donald J. Trump,236
+Chenango,GUILFORD  1,President,,REP,Donald J. Trump,144
+Chenango,LINCKLAEN  1,President,,REP,Donald J. Trump,22
+Chenango,MCDONOUGH  1,President,,REP,Donald J. Trump,55
+Chenango,NEW BERLIN  1,President,,REP,Donald J. Trump,94
+Chenango,NORTH NORWICH  1,President,,REP,Donald J. Trump,98
+Chenango,NORWICH TOWN  1,President,,REP,Donald J. Trump,111
+Chenango,NORWICH TOWN 2,President,,REP,Donald J. Trump,106
+Chenango,NORWICH CITY WARD 1,President,,REP,Donald J. Trump,43
+Chenango,NORWICH CITY WARD 2,President,,REP,Donald J. Trump,41
+Chenango,NORWICH CITY WARD 3,President,,REP,Donald J. Trump,80
+Chenango,NOWRICH CITY WARD 4,President,,REP,Donald J. Trump,33
+Chenango,NORWICH CITY WARD 5,President,,REP,Donald J. Trump,45
+Chenango,NORWICH CITY WARD 6,President,,REP,Donald J. Trump,40
+Chenango,OTSELIC  1,President,,REP,Donald J. Trump,52
+Chenango,OXFORD  1,President,,REP,Donald J. Trump,117
+Chenango,OXFORD  2,President,,REP,Donald J. Trump,70
+Chenango,PHARSALIA  1,President,,REP,Donald J. Trump,43
+Chenango,PITCHER  1,President,,REP,Donald J. Trump,33
+Chenango,PLYMOUTH  1,President,,REP,Donald J. Trump,117
+Chenango,PRESTON  1,President,,REP,Donald J. Trump,53
+Chenango,SHERBURNE  1,President,,REP,Donald J. Trump,95
+Chenango,SHERBURNE  2,President,,REP,Donald J. Trump,98
+Chenango,SMITHVILLE  1,President,,REP,Donald J. Trump,78
+Chenango,SMYRNA  1,President,,REP,Donald J. Trump,62
+Chenango,AFTON 1,President,,REP,John R. Kasich,59
+Chenango,BAINBRIDGE  1,President,,REP,John R. Kasich,71
+Chenango,COLUMBUS  1,President,,REP,John R. Kasich,19
+Chenango,COVENTRY  1,President,,REP,John R. Kasich,32
+Chenango,GERMAN  1,President,,REP,John R. Kasich,5
+Chenango,GREENE 1,President,,REP,John R. Kasich,84
+Chenango,GREENE  2,President,,REP,John R. Kasich,134
+Chenango,GUILFORD  1,President,,REP,John R. Kasich,58
+Chenango,LINCKLAEN  1,President,,REP,John R. Kasich,12
+Chenango,MCDONOUGH  1,President,,REP,John R. Kasich,21
+Chenango,NEW BERLIN  1,President,,REP,John R. Kasich,48
+Chenango,NORTH NORWICH  1,President,,REP,John R. Kasich,64
+Chenango,NORWICH TOWN  1,President,,REP,John R. Kasich,81
+Chenango,NORWICH TOWN 2,President,,REP,John R. Kasich,55
+Chenango,NORWICH CITY WARD 1,President,,REP,John R. Kasich,45
+Chenango,NORWICH CITY WARD 2,President,,REP,John R. Kasich,40
+Chenango,NORWICH CITY WARD 3,President,,REP,John R. Kasich,69
+Chenango,NOWRICH CITY WARD 4,President,,REP,John R. Kasich,12
+Chenango,NORWICH CITY WARD 5,President,,REP,John R. Kasich,41
+Chenango,NORWICH CITY WARD 6,President,,REP,John R. Kasich,41
+Chenango,OTSELIC  1,President,,REP,John R. Kasich,12
+Chenango,OXFORD  1,President,,REP,John R. Kasich,62
+Chenango,OXFORD  2,President,,REP,John R. Kasich,45
+Chenango,PHARSALIA  1,President,,REP,John R. Kasich,9
+Chenango,PITCHER  1,President,,REP,John R. Kasich,17
+Chenango,PLYMOUTH  1,President,,REP,John R. Kasich,41
+Chenango,PRESTON  1,President,,REP,John R. Kasich,30
+Chenango,SHERBURNE  1,President,,REP,John R. Kasich,66
+Chenango,SHERBURNE  2,President,,REP,John R. Kasich,59
+Chenango,SMITHVILLE  1,President,,REP,John R. Kasich,36
+Chenango,SMYRNA  1,President,,REP,John R. Kasich,26
+Chenango,AFTON 1,President,,REP,Ben Carson,7
+Chenango,BAINBRIDGE  1,President,,REP,Ben Carson,4
+Chenango,COLUMBUS  1,President,,REP,Ben Carson,2
+Chenango,COVENTRY  1,President,,REP,Ben Carson,3
+Chenango,GERMAN  1,President,,REP,Ben Carson,0
+Chenango,GREENE 1,President,,REP,Ben Carson,5
+Chenango,GREENE  2,President,,REP,Ben Carson,7
+Chenango,GUILFORD  1,President,,REP,Ben Carson,3
+Chenango,LINCKLAEN  1,President,,REP,Ben Carson,1
+Chenango,MCDONOUGH  1,President,,REP,Ben Carson,3
+Chenango,NEW BERLIN  1,President,,REP,Ben Carson,9
+Chenango,NORTH NORWICH  1,President,,REP,Ben Carson,2
+Chenango,NORWICH TOWN  1,President,,REP,Ben Carson,6
+Chenango,NORWICH TOWN 2,President,,REP,Ben Carson,2
+Chenango,NORWICH CITY WARD 1,President,,REP,Ben Carson,0
+Chenango,NORWICH CITY WARD 2,President,,REP,Ben Carson,2
+Chenango,NORWICH CITY WARD 3,President,,REP,Ben Carson,0
+Chenango,NOWRICH CITY WARD 4,President,,REP,Ben Carson,1
+Chenango,NORWICH CITY WARD 5,President,,REP,Ben Carson,1
+Chenango,NORWICH CITY WARD 6,President,,REP,Ben Carson,1
+Chenango,OTSELIC  1,President,,REP,Ben Carson,0
+Chenango,OXFORD  1,President,,REP,Ben Carson,1
+Chenango,OXFORD  2,President,,REP,Ben Carson,5
+Chenango,PHARSALIA  1,President,,REP,Ben Carson,1
+Chenango,PITCHER  1,President,,REP,Ben Carson,0
+Chenango,PLYMOUTH  1,President,,REP,Ben Carson,5
+Chenango,PRESTON  1,President,,REP,Ben Carson,3
+Chenango,SHERBURNE  1,President,,REP,Ben Carson,3
+Chenango,SHERBURNE  2,President,,REP,Ben Carson,5
+Chenango,SMITHVILLE  1,President,,REP,Ben Carson,3
+Chenango,SMYRNA  1,President,,REP,Ben Carson,2
+Chenango,AFTON 1,President,,REP,Ted Cruz,64
+Chenango,BAINBRIDGE  1,President,,REP,Ted Cruz,69
+Chenango,COLUMBUS  1,President,,REP,Ted Cruz,22
+Chenango,COVENTRY  1,President,,REP,Ted Cruz,48
+Chenango,GERMAN  1,President,,REP,Ted Cruz,12
+Chenango,GREENE 1,President,,REP,Ted Cruz,69
+Chenango,GREENE  2,President,,REP,Ted Cruz,133
+Chenango,GUILFORD  1,President,,REP,Ted Cruz,63
+Chenango,LINCKLAEN  1,President,,REP,Ted Cruz,13
+Chenango,MCDONOUGH  1,President,,REP,Ted Cruz,28
+Chenango,NEW BERLIN  1,President,,REP,Ted Cruz,50
+Chenango,NORTH NORWICH  1,President,,REP,Ted Cruz,32
+Chenango,NORWICH TOWN  1,President,,REP,Ted Cruz,54
+Chenango,NORWICH TOWN 2,President,,REP,Ted Cruz,28
+Chenango,NORWICH CITY WARD 1,President,,REP,Ted Cruz,26
+Chenango,NORWICH CITY WARD 2,President,,REP,Ted Cruz,23
+Chenango,NORWICH CITY WARD 3,President,,REP,Ted Cruz,36
+Chenango,NOWRICH CITY WARD 4,President,,REP,Ted Cruz,14
+Chenango,NORWICH CITY WARD 5,President,,REP,Ted Cruz,24
+Chenango,NORWICH CITY WARD 6,President,,REP,Ted Cruz,24
+Chenango,OTSELIC  1,President,,REP,Ted Cruz,15
+Chenango,OXFORD  1,President,,REP,Ted Cruz,54
+Chenango,OXFORD  2,President,,REP,Ted Cruz,29
+Chenango,PHARSALIA  1,President,,REP,Ted Cruz,8
+Chenango,PITCHER  1,President,,REP,Ted Cruz,14
+Chenango,PLYMOUTH  1,President,,REP,Ted Cruz,31
+Chenango,PRESTON  1,President,,REP,Ted Cruz,19
+Chenango,SHERBURNE  1,President,,REP,Ted Cruz,36
+Chenango,SHERBURNE  2,President,,REP,Ted Cruz,35
+Chenango,SMITHVILLE  1,President,,REP,Ted Cruz,32
+Chenango,SMYRNA  1,President,,REP,Ted Cruz,28
+Chenango,AFTON 1,President,,REP,Blanks,1
+Chenango,BAINBRIDGE  1,President,,REP,Blanks,3
+Chenango,COLUMBUS  1,President,,REP,Blanks,1
+Chenango,COVENTRY  1,President,,REP,Blanks,3
+Chenango,GERMAN  1,President,,REP,Blanks,0
+Chenango,GREENE 1,President,,REP,Blanks,3
+Chenango,GREENE  2,President,,REP,Blanks,3
+Chenango,GUILFORD  1,President,,REP,Blanks,0
+Chenango,LINCKLAEN  1,President,,REP,Blanks,0
+Chenango,MCDONOUGH  1,President,,REP,Blanks,1
+Chenango,NEW BERLIN  1,President,,REP,Blanks,2
+Chenango,NORTH NORWICH  1,President,,REP,Blanks,0
+Chenango,NORWICH TOWN  1,President,,REP,Blanks,2
+Chenango,NORWICH TOWN 2,President,,REP,Blanks,2
+Chenango,NORWICH CITY WARD 1,President,,REP,Blanks,0
+Chenango,NORWICH CITY WARD 2,President,,REP,Blanks,1
+Chenango,NORWICH CITY WARD 3,President,,REP,Blanks,0
+Chenango,NOWRICH CITY WARD 4,President,,REP,Blanks,1
+Chenango,NORWICH CITY WARD 5,President,,REP,Blanks,1
+Chenango,NORWICH CITY WARD 6,President,,REP,Blanks,2
+Chenango,OTSELIC  1,President,,REP,Blanks,0
+Chenango,OXFORD  1,President,,REP,Blanks,2
+Chenango,OXFORD  2,President,,REP,Blanks,0
+Chenango,PHARSALIA  1,President,,REP,Blanks,0
+Chenango,PITCHER  1,President,,REP,Blanks,1
+Chenango,PLYMOUTH  1,President,,REP,Blanks,1
+Chenango,PRESTON  1,President,,REP,Blanks,5
+Chenango,SHERBURNE  1,President,,REP,Blanks,2
+Chenango,SHERBURNE  2,President,,REP,Blanks,0
+Chenango,SMITHVILLE  1,President,,REP,Blanks,1
+Chenango,SMYRNA  1,President,,REP,Blanks,1
+Chenango,AFTON 1,President,,REP,Void,1
+Chenango,BAINBRIDGE  1,President,,REP,Void,0
+Chenango,COLUMBUS  1,President,,REP,Void,0
+Chenango,COVENTRY  1,President,,REP,Void,0
+Chenango,GERMAN  1,President,,REP,Void,0
+Chenango,GREENE 1,President,,REP,Void,0
+Chenango,GREENE  2,President,,REP,Void,0
+Chenango,GUILFORD  1,President,,REP,Void,1
+Chenango,LINCKLAEN  1,President,,REP,Void,0
+Chenango,MCDONOUGH  1,President,,REP,Void,0
+Chenango,NEW BERLIN  1,President,,REP,Void,1
+Chenango,NORTH NORWICH  1,President,,REP,Void,0
+Chenango,NORWICH TOWN  1,President,,REP,Void,0
+Chenango,NORWICH TOWN 2,President,,REP,Void,0
+Chenango,NORWICH CITY WARD 1,President,,REP,Void,0
+Chenango,NORWICH CITY WARD 2,President,,REP,Void,0
+Chenango,NORWICH CITY WARD 3,President,,REP,Void,0
+Chenango,NOWRICH CITY WARD 4,President,,REP,Void,0
+Chenango,NORWICH CITY WARD 5,President,,REP,Void,0
+Chenango,NORWICH CITY WARD 6,President,,REP,Void,0
+Chenango,OTSELIC  1,President,,REP,Void,0
+Chenango,OXFORD  1,President,,REP,Void,1
+Chenango,OXFORD  2,President,,REP,Void,0
+Chenango,PHARSALIA  1,President,,REP,Void,0
+Chenango,PITCHER  1,President,,REP,Void,0
+Chenango,PLYMOUTH  1,President,,REP,Void,0
+Chenango,PRESTON  1,President,,REP,Void,0
+Chenango,SHERBURNE  1,President,,REP,Void,0
+Chenango,SHERBURNE  2,President,,REP,Void,0
+Chenango,SMITHVILLE  1,President,,REP,Void,0
+Chenango,SMYRNA  1,President,,REP,Void,0
