@@ -1,4 +1,4 @@
-county,precinct,office,disctrict,party,candidate,votes,absentee
+county,precinct,office,district,party,candidate,votes,absentee
 Lewis,Croghan 1 LD 2,Governor,,DEM,Andrew M. Cuomo,23,1
 Lewis,Croghan 2 LD 2,Governor,,DEM,Andrew M. Cuomo,50,7
 Lewis,Croghan 3 LD 2,Governor,,DEM,Andrew M. Cuomo,70,3
@@ -1079,294 +1079,294 @@ Lewis,West Turin 2 LD 8,Attorney General,,,Blank or Void,5,
 Lewis,West Turin 3 LD 8,Attorney General,,,Blank or Void,4,
 Lewis,West Turin 4 LD 8,Attorney General,,,Blank or Void,8,
 Lewis,Total,Attorney General,,,Blank or Void,478,
-Lewis,Croghan 1 LD 2,US. House,21,DEM,Aaron Woolf,21,0
-Lewis,Croghan 2 LD 2,US. House,21,DEM,Aaron Woolf,45,4
-Lewis,Croghan 3 LD 2,US. House,21,DEM,Aaron Woolf,61,2
-Lewis,Croghan 4 LD 1,US. House,21,DEM,Aaron Woolf,34,1
-Lewis,Denmark 1 LD 2,US. House,21,DEM,Aaron Woolf,30,5
-Lewis,Denmark 2 LD 3,US. House,21,DEM,Aaron Woolf,53,2
-Lewis,Denmark 3 LD 3,US. House,21,DEM,Aaron Woolf,28,2
-Lewis,Diana 1 LD 1,US. House,21,DEM,Aaron Woolf,75,7
-Lewis,Diana 2 LD 1,US. House,21,DEM,Aaron Woolf,45,2
-Lewis,Greig LD 9,US. House,21,DEM,Aaron Woolf,93,5
-Lewis,Harrisburg LD 8,US. House,21,DEM,Aaron Woolf,31,3
-Lewis,Lewis LD 10,US. House,21,DEM,Aaron Woolf,55,2
-Lewis,Leyden 1 LD 10,US. House,21,DEM,Aaron Woolf,27,2
-Lewis,Leyden 2 LD 10,US. House,21,DEM,Aaron Woolf,15,1
-Lewis,Leyden 3 LD 10,US. House,21,DEM,Aaron Woolf,24,0
-Lewis,Lowville 1 LD 6,US. House,21,DEM,Aaron Woolf,49,11
-Lewis,Lowville 2 LD 5,US. House,21,DEM,Aaron Woolf,74,2
-Lewis,Lowville 3 LD 3,US. House,21,DEM,Aaron Woolf,23,2
-Lewis,Lowville 4 LD 5,US. House,21,DEM,Aaron Woolf,120,9
-Lewis,Lowville 5 LD 7,US. House,21,DEM,Aaron Woolf,30,4
-Lewis,Lyonsdale 1 LD 9,US. House,21,DEM,Aaron Woolf,28,2
-Lewis,Lyonsdale 2 LD 9,US. House,21,DEM,Aaron Woolf,10,0
-Lewis,Lyonsdale 3 LD 9,US. House,21,DEM,Aaron Woolf,3,0
-Lewis,Martinsburg LD 7,US. House,21,DEM,Aaron Woolf,70,4
-Lewis,Montague LD 8,US. House,21,DEM,Aaron Woolf,7,0
-Lewis,New Bremen 1 LD 4,US. House,21,DEM,Aaron Woolf,63,4
-Lewis,New Bremen 2 LD 4,US. House,21,DEM,Aaron Woolf,95,4
-Lewis,Osceola LD 10,US. House,21,DEM,Aaron Woolf,19,0
-Lewis,Pinckney LD 8,US. House,21,DEM,Aaron Woolf,23,1
-Lewis,Turin LD 7,US. House,21,DEM,Aaron Woolf,57,3
-Lewis,Watson LD 6,US. House,21,DEM,Aaron Woolf,101,7
-Lewis,West Turin 1 LD 8,US. House,21,DEM,Aaron Woolf,34,0
-Lewis,West Turin 2 LD 8,US. House,21,DEM,Aaron Woolf,9,0
-Lewis,West Turin 3 LD 8,US. House,21,DEM,Aaron Woolf,21,1
-Lewis,West Turin 4 LD 8,US. House,21,DEM,Aaron Woolf,29,2
-Lewis,Total,US. House,21,DEM,Aaron Woolf,1502,94
-Lewis,Croghan 1 LD 2,US. House,21,REP,Elise Stefanik,56,3
-Lewis,Croghan 2 LD 2,US. House,21,REP,Elise Stefanik,96,6
-Lewis,Croghan 3 LD 2,US. House,21,REP,Elise Stefanik,141,2
-Lewis,Croghan 4 LD 1,US. House,21,REP,Elise Stefanik,130,7
-Lewis,Denmark 1 LD 2,US. House,21,REP,Elise Stefanik,59,4
-Lewis,Denmark 2 LD 3,US. House,21,REP,Elise Stefanik,138,4
-Lewis,Denmark 3 LD 3,US. House,21,REP,Elise Stefanik,91,6
-Lewis,Diana 1 LD 1,US. House,21,REP,Elise Stefanik,160,4
-Lewis,Diana 2 LD 1,US. House,21,REP,Elise Stefanik,69,3
-Lewis,Greig LD 9,US. House,21,REP,Elise Stefanik,181,18
-Lewis,Harrisburg LD 8,US. House,21,REP,Elise Stefanik,58,2
-Lewis,Lewis LD 10,US. House,21,REP,Elise Stefanik,119,4
-Lewis,Leyden 1 LD 10,US. House,21,REP,Elise Stefanik,100,3
-Lewis,Leyden 2 LD 10,US. House,21,REP,Elise Stefanik,63,1
-Lewis,Leyden 3 LD 10,US. House,21,REP,Elise Stefanik,67,4
-Lewis,Lowville 1 LD 6,US. House,21,REP,Elise Stefanik,93,13
-Lewis,Lowville 2 LD 5,US. House,21,REP,Elise Stefanik,115,5
-Lewis,Lowville 3 LD 3,US. House,21,REP,Elise Stefanik,56,12
-Lewis,Lowville 4 LD 5,US. House,21,REP,Elise Stefanik,257,19
-Lewis,Lowville 5 LD 7,US. House,21,REP,Elise Stefanik,52,3
-Lewis,Lyonsdale 1 LD 9,US. House,21,REP,Elise Stefanik,127,3
-Lewis,Lyonsdale 2 LD 9,US. House,21,REP,Elise Stefanik,30,1
-Lewis,Lyonsdale 3 LD 9,US. House,21,REP,Elise Stefanik,10,0
-Lewis,Martinsburg LD 7,US. House,21,REP,Elise Stefanik,160,6
-Lewis,Montague LD 8,US. House,21,REP,Elise Stefanik,19,2
-Lewis,New Bremen 1 LD 4,US. House,21,REP,Elise Stefanik,185,5
-Lewis,New Bremen 2 LD 4,US. House,21,REP,Elise Stefanik,194,13
-Lewis,Osceola LD 10,US. House,21,REP,Elise Stefanik,58,5
-Lewis,Pinckney LD 8,US. House,21,REP,Elise Stefanik,58,6
-Lewis,Turin LD 7,US. House,21,REP,Elise Stefanik,91,7
-Lewis,Watson LD 6,US. House,21,REP,Elise Stefanik,222,19
-Lewis,West Turin 1 LD 8,US. House,21,REP,Elise Stefanik,97,9
-Lewis,West Turin 2 LD 8,US. House,21,REP,Elise Stefanik,25,1
-Lewis,West Turin 3 LD 8,US. House,21,REP,Elise Stefanik,38,3
-Lewis,West Turin 4 LD 8,US. House,21,REP,Elise Stefanik,70,5
-Lewis,Total,US. House,21,REP,Elise Stefanik,3485,208
-Lewis,Croghan 1 LD 2,US. House,21,CON,Elise Stefanik,13,0
-Lewis,Croghan 2 LD 2,US. House,21,CON,Elise Stefanik,13,2
-Lewis,Croghan 3 LD 2,US. House,21,CON,Elise Stefanik,24,3
-Lewis,Croghan 4 LD 1,US. House,21,CON,Elise Stefanik,17,1
-Lewis,Denmark 1 LD 2,US. House,21,CON,Elise Stefanik,6,0
-Lewis,Denmark 2 LD 3,US. House,21,CON,Elise Stefanik,20,0
-Lewis,Denmark 3 LD 3,US. House,21,CON,Elise Stefanik,14,0
-Lewis,Diana 1 LD 1,US. House,21,CON,Elise Stefanik,25,1
-Lewis,Diana 2 LD 1,US. House,21,CON,Elise Stefanik,7,1
-Lewis,Greig LD 9,US. House,21,CON,Elise Stefanik,34,2
-Lewis,Harrisburg LD 8,US. House,21,CON,Elise Stefanik,11,0
-Lewis,Lewis LD 10,US. House,21,CON,Elise Stefanik,27,1
-Lewis,Leyden 1 LD 10,US. House,21,CON,Elise Stefanik,22,1
-Lewis,Leyden 2 LD 10,US. House,21,CON,Elise Stefanik,11,0
-Lewis,Leyden 3 LD 10,US. House,21,CON,Elise Stefanik,7,0
-Lewis,Lowville 1 LD 6,US. House,21,CON,Elise Stefanik,9,0
-Lewis,Lowville 2 LD 5,US. House,21,CON,Elise Stefanik,12,0
-Lewis,Lowville 3 LD 3,US. House,21,CON,Elise Stefanik,7,4
-Lewis,Lowville 4 LD 5,US. House,21,CON,Elise Stefanik,35,2
-Lewis,Lowville 5 LD 7,US. House,21,CON,Elise Stefanik,6,0
-Lewis,Lyonsdale 1 LD 9,US. House,21,CON,Elise Stefanik,30,3
-Lewis,Lyonsdale 2 LD 9,US. House,21,CON,Elise Stefanik,5,0
-Lewis,Lyonsdale 3 LD 9,US. House,21,CON,Elise Stefanik,0,0
-Lewis,Martinsburg LD 7,US. House,21,CON,Elise Stefanik,26,2
-Lewis,Montague LD 8,US. House,21,CON,Elise Stefanik,1,0
-Lewis,New Bremen 1 LD 4,US. House,21,CON,Elise Stefanik,15,1
-Lewis,New Bremen 2 LD 4,US. House,21,CON,Elise Stefanik,27,0
-Lewis,Osceola LD 10,US. House,21,CON,Elise Stefanik,7,0
-Lewis,Pinckney LD 8,US. House,21,CON,Elise Stefanik,7,1
-Lewis,Turin LD 7,US. House,21,CON,Elise Stefanik,16,1
-Lewis,Watson LD 6,US. House,21,CON,Elise Stefanik,28,1
-Lewis,West Turin 1 LD 8,US. House,21,CON,Elise Stefanik,15,0
-Lewis,West Turin 2 LD 8,US. House,21,CON,Elise Stefanik,2,0
-Lewis,West Turin 3 LD 8,US. House,21,CON,Elise Stefanik,4,2
-Lewis,West Turin 4 LD 8,US. House,21,CON,Elise Stefanik,14,0
-Lewis,Total,US. House,21,CON,Elise Stefanik,517,29
-Lewis,Croghan 1 LD 2,US. House,21,WF,Aaron Woolf,3,0
-Lewis,Croghan 2 LD 2,US. House,21,WF,Aaron Woolf,2,1
-Lewis,Croghan 3 LD 2,US. House,21,WF,Aaron Woolf,7,0
-Lewis,Croghan 4 LD 1,US. House,21,WF,Aaron Woolf,7,0
-Lewis,Denmark 1 LD 2,US. House,21,WF,Aaron Woolf,4,0
-Lewis,Denmark 2 LD 3,US. House,21,WF,Aaron Woolf,3,1
-Lewis,Denmark 3 LD 3,US. House,21,WF,Aaron Woolf,6,0
-Lewis,Diana 1 LD 1,US. House,21,WF,Aaron Woolf,6,0
-Lewis,Diana 2 LD 1,US. House,21,WF,Aaron Woolf,3,0
-Lewis,Greig LD 9,US. House,21,WF,Aaron Woolf,4,1
-Lewis,Harrisburg LD 8,US. House,21,WF,Aaron Woolf,0,1
-Lewis,Lewis LD 10,US. House,21,WF,Aaron Woolf,11,0
-Lewis,Leyden 1 LD 10,US. House,21,WF,Aaron Woolf,6,0
-Lewis,Leyden 2 LD 10,US. House,21,WF,Aaron Woolf,2,0
-Lewis,Leyden 3 LD 10,US. House,21,WF,Aaron Woolf,4,0
-Lewis,Lowville 1 LD 6,US. House,21,WF,Aaron Woolf,3,2
-Lewis,Lowville 2 LD 5,US. House,21,WF,Aaron Woolf,5,0
-Lewis,Lowville 3 LD 3,US. House,21,WF,Aaron Woolf,0,0
-Lewis,Lowville 4 LD 5,US. House,21,WF,Aaron Woolf,14,2
-Lewis,Lowville 5 LD 7,US. House,21,WF,Aaron Woolf,2,1
-Lewis,Lyonsdale 1 LD 9,US. House,21,WF,Aaron Woolf,8,0
-Lewis,Lyonsdale 2 LD 9,US. House,21,WF,Aaron Woolf,3,0
-Lewis,Lyonsdale 3 LD 9,US. House,21,WF,Aaron Woolf,0,0
-Lewis,Martinsburg LD 7,US. House,21,WF,Aaron Woolf,9,1
-Lewis,Montague LD 8,US. House,21,WF,Aaron Woolf,1,0
-Lewis,New Bremen 1 LD 4,US. House,21,WF,Aaron Woolf,8,0
-Lewis,New Bremen 2 LD 4,US. House,21,WF,Aaron Woolf,8,0
-Lewis,Osceola LD 10,US. House,21,WF,Aaron Woolf,0,0
-Lewis,Pinckney LD 8,US. House,21,WF,Aaron Woolf,7,0
-Lewis,Turin LD 7,US. House,21,WF,Aaron Woolf,5,0
-Lewis,Watson LD 6,US. House,21,WF,Aaron Woolf,20,0
-Lewis,West Turin 1 LD 8,US. House,21,WF,Aaron Woolf,3,0
-Lewis,West Turin 2 LD 8,US. House,21,WF,Aaron Woolf,1,0
-Lewis,West Turin 3 LD 8,US. House,21,WF,Aaron Woolf,0,0
-Lewis,West Turin 4 LD 8,US. House,21,WF,Aaron Woolf,2,0
-Lewis,Total,US. House,21,WF,Aaron Woolf,167,10
-Lewis,Croghan 1 LD 2,US. House,21,IND,Elise Stefanik,3,0
-Lewis,Croghan 2 LD 2,US. House,21,IND,Elise Stefanik,5,0
-Lewis,Croghan 3 LD 2,US. House,21,IND,Elise Stefanik,2,0
-Lewis,Croghan 4 LD 1,US. House,21,IND,Elise Stefanik,3,0
-Lewis,Denmark 1 LD 2,US. House,21,IND,Elise Stefanik,4,0
-Lewis,Denmark 2 LD 3,US. House,21,IND,Elise Stefanik,4,0
-Lewis,Denmark 3 LD 3,US. House,21,IND,Elise Stefanik,7,0
-Lewis,Diana 1 LD 1,US. House,21,IND,Elise Stefanik,6,0
-Lewis,Diana 2 LD 1,US. House,21,IND,Elise Stefanik,1,0
-Lewis,Greig LD 9,US. House,21,IND,Elise Stefanik,10,0
-Lewis,Harrisburg LD 8,US. House,21,IND,Elise Stefanik,3,0
-Lewis,Lewis LD 10,US. House,21,IND,Elise Stefanik,8,0
-Lewis,Leyden 1 LD 10,US. House,21,IND,Elise Stefanik,4,1
-Lewis,Leyden 2 LD 10,US. House,21,IND,Elise Stefanik,2,0
-Lewis,Leyden 3 LD 10,US. House,21,IND,Elise Stefanik,4,0
-Lewis,Lowville 1 LD 6,US. House,21,IND,Elise Stefanik,4,0
-Lewis,Lowville 2 LD 5,US. House,21,IND,Elise Stefanik,4,0
-Lewis,Lowville 3 LD 3,US. House,21,IND,Elise Stefanik,1,0
-Lewis,Lowville 4 LD 5,US. House,21,IND,Elise Stefanik,13,0
-Lewis,Lowville 5 LD 7,US. House,21,IND,Elise Stefanik,0,0
-Lewis,Lyonsdale 1 LD 9,US. House,21,IND,Elise Stefanik,2,0
-Lewis,Lyonsdale 2 LD 9,US. House,21,IND,Elise Stefanik,3,0
-Lewis,Lyonsdale 3 LD 9,US. House,21,IND,Elise Stefanik,0,0
-Lewis,Martinsburg LD 7,US. House,21,IND,Elise Stefanik,5,0
-Lewis,Montague LD 8,US. House,21,IND,Elise Stefanik,0,0
-Lewis,New Bremen 1 LD 4,US. House,21,IND,Elise Stefanik,8,0
-Lewis,New Bremen 2 LD 4,US. House,21,IND,Elise Stefanik,15,0
-Lewis,Osceola LD 10,US. House,21,IND,Elise Stefanik,3,0
-Lewis,Pinckney LD 8,US. House,21,IND,Elise Stefanik,4,0
-Lewis,Turin LD 7,US. House,21,IND,Elise Stefanik,2,0
-Lewis,Watson LD 6,US. House,21,IND,Elise Stefanik,6,0
-Lewis,West Turin 1 LD 8,US. House,21,IND,Elise Stefanik,7,0
-Lewis,West Turin 2 LD 8,US. House,21,IND,Elise Stefanik,0,0
-Lewis,West Turin 3 LD 8,US. House,21,IND,Elise Stefanik,3,0
-Lewis,West Turin 4 LD 8,US. House,21,IND,Elise Stefanik,5,0
-Lewis,Total,US. House,21,IND,Elise Stefanik,151,1
-Lewis,Croghan 1 LD 2,US. House,21,GRE,Matt Funiciello,8,0
-Lewis,Croghan 2 LD 2,US. House,21,GRE,Matt Funiciello,15,1
-Lewis,Croghan 3 LD 2,US. House,21,GRE,Matt Funiciello,21,1
-Lewis,Croghan 4 LD 1,US. House,21,GRE,Matt Funiciello,19,0
-Lewis,Denmark 1 LD 2,US. House,21,GRE,Matt Funiciello,13,1
-Lewis,Denmark 2 LD 3,US. House,21,GRE,Matt Funiciello,34,2
-Lewis,Denmark 3 LD 3,US. House,21,GRE,Matt Funiciello,16,0
-Lewis,Diana 1 LD 1,US. House,21,GRE,Matt Funiciello,30,0
-Lewis,Diana 2 LD 1,US. House,21,GRE,Matt Funiciello,8,1
-Lewis,Greig LD 9,US. House,21,GRE,Matt Funiciello,39,0
-Lewis,Harrisburg LD 8,US. House,21,GRE,Matt Funiciello,12,0
-Lewis,Lewis LD 10,US. House,21,GRE,Matt Funiciello,6,0
-Lewis,Leyden 1 LD 10,US. House,21,GRE,Matt Funiciello,11,1
-Lewis,Leyden 2 LD 10,US. House,21,GRE,Matt Funiciello,8,0
-Lewis,Leyden 3 LD 10,US. House,21,GRE,Matt Funiciello,14,1
-Lewis,Lowville 1 LD 6,US. House,21,GRE,Matt Funiciello,19,2
-Lewis,Lowville 2 LD 5,US. House,21,GRE,Matt Funiciello,32,2
-Lewis,Lowville 3 LD 3,US. House,21,GRE,Matt Funiciello,17,1
-Lewis,Lowville 4 LD 5,US. House,21,GRE,Matt Funiciello,39,1
-Lewis,Lowville 5 LD 7,US. House,21,GRE,Matt Funiciello,5,1
-Lewis,Lyonsdale 1 LD 9,US. House,21,GRE,Matt Funiciello,8,0
-Lewis,Lyonsdale 2 LD 9,US. House,21,GRE,Matt Funiciello,5,0
-Lewis,Lyonsdale 3 LD 9,US. House,21,GRE,Matt Funiciello,1,0
-Lewis,Martinsburg LD 7,US. House,21,GRE,Matt Funiciello,39,0
-Lewis,Montague LD 8,US. House,21,GRE,Matt Funiciello,2,0
-Lewis,New Bremen 1 LD 4,US. House,21,GRE,Matt Funiciello,42,0
-Lewis,New Bremen 2 LD 4,US. House,21,GRE,Matt Funiciello,43,0
-Lewis,Osceola LD 10,US. House,21,GRE,Matt Funiciello,4,0
-Lewis,Pinckney LD 8,US. House,21,GRE,Matt Funiciello,9,0
-Lewis,Turin LD 7,US. House,21,GRE,Matt Funiciello,12,0
-Lewis,Watson LD 6,US. House,21,GRE,Matt Funiciello,50,3
-Lewis,West Turin 1 LD 8,US. House,21,GRE,Matt Funiciello,10,0
-Lewis,West Turin 2 LD 8,US. House,21,GRE,Matt Funiciello,0,0
-Lewis,West Turin 3 LD 8,US. House,21,GRE,Matt Funiciello,6,0
-Lewis,West Turin 4 LD 8,US. House,21,GRE,Matt Funiciello,10,0
-Lewis,Total,US. House,21,GRE,Matt Funiciello,607,18
-Lewis,Croghan 1 LD 2,US. House,21,,Write-in,0,
-Lewis,Croghan 2 LD 2,US. House,21,,Write-in,1,
-Lewis,Croghan 3 LD 2,US. House,21,,Write-in,0,
-Lewis,Croghan 4 LD 1,US. House,21,,Write-in,1,
-Lewis,Denmark 1 LD 2,US. House,21,,Write-in,0,
-Lewis,Denmark 2 LD 3,US. House,21,,Write-in,0,
-Lewis,Denmark 3 LD 3,US. House,21,,Write-in,0,
-Lewis,Diana 1 LD 1,US. House,21,,Write-in,0,
-Lewis,Diana 2 LD 1,US. House,21,,Write-in,0,
-Lewis,Greig LD 9,US. House,21,,Write-in,0,
-Lewis,Harrisburg LD 8,US. House,21,,Write-in,0,
-Lewis,Lewis LD 10,US. House,21,,Write-in,0,
-Lewis,Leyden 1 LD 10,US. House,21,,Write-in,1,
-Lewis,Leyden 2 LD 10,US. House,21,,Write-in,0,
-Lewis,Leyden 3 LD 10,US. House,21,,Write-in,0,
-Lewis,Lowville 1 LD 6,US. House,21,,Write-in,0,
-Lewis,Lowville 2 LD 5,US. House,21,,Write-in,0,
-Lewis,Lowville 3 LD 3,US. House,21,,Write-in,0,
-Lewis,Lowville 4 LD 5,US. House,21,,Write-in,1,
-Lewis,Lowville 5 LD 7,US. House,21,,Write-in,0,
-Lewis,Lyonsdale 1 LD 9,US. House,21,,Write-in,0,
-Lewis,Lyonsdale 2 LD 9,US. House,21,,Write-in,0,
-Lewis,Lyonsdale 3 LD 9,US. House,21,,Write-in,0,
-Lewis,Martinsburg LD 7,US. House,21,,Write-in,0,
-Lewis,Montague LD 8,US. House,21,,Write-in,0,
-Lewis,New Bremen 1 LD 4,US. House,21,,Write-in,0,
-Lewis,New Bremen 2 LD 4,US. House,21,,Write-in,1,
-Lewis,Osceola LD 10,US. House,21,,Write-in,0,
-Lewis,Pinckney LD 8,US. House,21,,Write-in,0,
-Lewis,Turin LD 7,US. House,21,,Write-in,0,
-Lewis,Watson LD 6,US. House,21,,Write-in,0,
-Lewis,West Turin 1 LD 8,US. House,21,,Write-in,0,
-Lewis,West Turin 2 LD 8,US. House,21,,Write-in,0,
-Lewis,West Turin 3 LD 8,US. House,21,,Write-in,1,
-Lewis,West Turin 4 LD 8,US. House,21,,Write-in,0,
-Lewis,Total,US. House,21,,Write-in,6,
-Lewis,Croghan 1 LD 2,US. House,21,,Blank or Void,1,
-Lewis,Croghan 2 LD 2,US. House,21,,Blank or Void,4,
-Lewis,Croghan 3 LD 2,US. House,21,,Blank or Void,6,
-Lewis,Croghan 4 LD 1,US. House,21,,Blank or Void,6,
-Lewis,Denmark 1 LD 2,US. House,21,,Blank or Void,1,
-Lewis,Denmark 2 LD 3,US. House,21,,Blank or Void,2,
-Lewis,Denmark 3 LD 3,US. House,21,,Blank or Void,3,
-Lewis,Diana 1 LD 1,US. House,21,,Blank or Void,1,
-Lewis,Diana 2 LD 1,US. House,21,,Blank or Void,2,
-Lewis,Greig LD 9,US. House,21,,Blank or Void,28,
-Lewis,Harrisburg LD 8,US. House,21,,Blank or Void,3,
-Lewis,Lewis LD 10,US. House,21,,Blank or Void,11,
-Lewis,Leyden 1 LD 10,US. House,21,,Blank or Void,9,
-Lewis,Leyden 2 LD 10,US. House,21,,Blank or Void,9,
-Lewis,Leyden 3 LD 10,US. House,21,,Blank or Void,11,
-Lewis,Lowville 1 LD 6,US. House,21,,Blank or Void,2,
-Lewis,Lowville 2 LD 5,US. House,21,,Blank or Void,6,
-Lewis,Lowville 3 LD 3,US. House,21,,Blank or Void,3,
-Lewis,Lowville 4 LD 5,US. House,21,,Blank or Void,10,
-Lewis,Lowville 5 LD 7,US. House,21,,Blank or Void,1,
-Lewis,Lyonsdale 1 LD 9,US. House,21,,Blank or Void,13,
-Lewis,Lyonsdale 2 LD 9,US. House,21,,Blank or Void,2,
-Lewis,Lyonsdale 3 LD 9,US. House,21,,Blank or Void,1,
-Lewis,Martinsburg LD 7,US. House,21,,Blank or Void,7,
-Lewis,Montague LD 8,US. House,21,,Blank or Void,0,
-Lewis,New Bremen 1 LD 4,US. House,21,,Blank or Void,9,
-Lewis,New Bremen 2 LD 4,US. House,21,,Blank or Void,18,
-Lewis,Osceola LD 10,US. House,21,,Blank or Void,2,
-Lewis,Pinckney LD 8,US. House,21,,Blank or Void,1,
-Lewis,Turin LD 7,US. House,21,,Blank or Void,6,
-Lewis,Watson LD 6,US. House,21,,Blank or Void,8,
-Lewis,West Turin 1 LD 8,US. House,21,,Blank or Void,13,
-Lewis,West Turin 2 LD 8,US. House,21,,Blank or Void,4,
-Lewis,West Turin 3 LD 8,US. House,21,,Blank or Void,3,
-Lewis,West Turin 4 LD 8,US. House,21,,Blank or Void,8,
-Lewis,Total,US. House,21,,Blank or Void,214,
+Lewis,Croghan 1 LD 2,U.S. House,21,DEM,Aaron Woolf,21,0
+Lewis,Croghan 2 LD 2,U.S. House,21,DEM,Aaron Woolf,45,4
+Lewis,Croghan 3 LD 2,U.S. House,21,DEM,Aaron Woolf,61,2
+Lewis,Croghan 4 LD 1,U.S. House,21,DEM,Aaron Woolf,34,1
+Lewis,Denmark 1 LD 2,U.S. House,21,DEM,Aaron Woolf,30,5
+Lewis,Denmark 2 LD 3,U.S. House,21,DEM,Aaron Woolf,53,2
+Lewis,Denmark 3 LD 3,U.S. House,21,DEM,Aaron Woolf,28,2
+Lewis,Diana 1 LD 1,U.S. House,21,DEM,Aaron Woolf,75,7
+Lewis,Diana 2 LD 1,U.S. House,21,DEM,Aaron Woolf,45,2
+Lewis,Greig LD 9,U.S. House,21,DEM,Aaron Woolf,93,5
+Lewis,Harrisburg LD 8,U.S. House,21,DEM,Aaron Woolf,31,3
+Lewis,Lewis LD 10,U.S. House,21,DEM,Aaron Woolf,55,2
+Lewis,Leyden 1 LD 10,U.S. House,21,DEM,Aaron Woolf,27,2
+Lewis,Leyden 2 LD 10,U.S. House,21,DEM,Aaron Woolf,15,1
+Lewis,Leyden 3 LD 10,U.S. House,21,DEM,Aaron Woolf,24,0
+Lewis,Lowville 1 LD 6,U.S. House,21,DEM,Aaron Woolf,49,11
+Lewis,Lowville 2 LD 5,U.S. House,21,DEM,Aaron Woolf,74,2
+Lewis,Lowville 3 LD 3,U.S. House,21,DEM,Aaron Woolf,23,2
+Lewis,Lowville 4 LD 5,U.S. House,21,DEM,Aaron Woolf,120,9
+Lewis,Lowville 5 LD 7,U.S. House,21,DEM,Aaron Woolf,30,4
+Lewis,Lyonsdale 1 LD 9,U.S. House,21,DEM,Aaron Woolf,28,2
+Lewis,Lyonsdale 2 LD 9,U.S. House,21,DEM,Aaron Woolf,10,0
+Lewis,Lyonsdale 3 LD 9,U.S. House,21,DEM,Aaron Woolf,3,0
+Lewis,Martinsburg LD 7,U.S. House,21,DEM,Aaron Woolf,70,4
+Lewis,Montague LD 8,U.S. House,21,DEM,Aaron Woolf,7,0
+Lewis,New Bremen 1 LD 4,U.S. House,21,DEM,Aaron Woolf,63,4
+Lewis,New Bremen 2 LD 4,U.S. House,21,DEM,Aaron Woolf,95,4
+Lewis,Osceola LD 10,U.S. House,21,DEM,Aaron Woolf,19,0
+Lewis,Pinckney LD 8,U.S. House,21,DEM,Aaron Woolf,23,1
+Lewis,Turin LD 7,U.S. House,21,DEM,Aaron Woolf,57,3
+Lewis,Watson LD 6,U.S. House,21,DEM,Aaron Woolf,101,7
+Lewis,West Turin 1 LD 8,U.S. House,21,DEM,Aaron Woolf,34,0
+Lewis,West Turin 2 LD 8,U.S. House,21,DEM,Aaron Woolf,9,0
+Lewis,West Turin 3 LD 8,U.S. House,21,DEM,Aaron Woolf,21,1
+Lewis,West Turin 4 LD 8,U.S. House,21,DEM,Aaron Woolf,29,2
+Lewis,Total,U.S. House,21,DEM,Aaron Woolf,1502,94
+Lewis,Croghan 1 LD 2,U.S. House,21,REP,Elise Stefanik,56,3
+Lewis,Croghan 2 LD 2,U.S. House,21,REP,Elise Stefanik,96,6
+Lewis,Croghan 3 LD 2,U.S. House,21,REP,Elise Stefanik,141,2
+Lewis,Croghan 4 LD 1,U.S. House,21,REP,Elise Stefanik,130,7
+Lewis,Denmark 1 LD 2,U.S. House,21,REP,Elise Stefanik,59,4
+Lewis,Denmark 2 LD 3,U.S. House,21,REP,Elise Stefanik,138,4
+Lewis,Denmark 3 LD 3,U.S. House,21,REP,Elise Stefanik,91,6
+Lewis,Diana 1 LD 1,U.S. House,21,REP,Elise Stefanik,160,4
+Lewis,Diana 2 LD 1,U.S. House,21,REP,Elise Stefanik,69,3
+Lewis,Greig LD 9,U.S. House,21,REP,Elise Stefanik,181,18
+Lewis,Harrisburg LD 8,U.S. House,21,REP,Elise Stefanik,58,2
+Lewis,Lewis LD 10,U.S. House,21,REP,Elise Stefanik,119,4
+Lewis,Leyden 1 LD 10,U.S. House,21,REP,Elise Stefanik,100,3
+Lewis,Leyden 2 LD 10,U.S. House,21,REP,Elise Stefanik,63,1
+Lewis,Leyden 3 LD 10,U.S. House,21,REP,Elise Stefanik,67,4
+Lewis,Lowville 1 LD 6,U.S. House,21,REP,Elise Stefanik,93,13
+Lewis,Lowville 2 LD 5,U.S. House,21,REP,Elise Stefanik,115,5
+Lewis,Lowville 3 LD 3,U.S. House,21,REP,Elise Stefanik,56,12
+Lewis,Lowville 4 LD 5,U.S. House,21,REP,Elise Stefanik,257,19
+Lewis,Lowville 5 LD 7,U.S. House,21,REP,Elise Stefanik,52,3
+Lewis,Lyonsdale 1 LD 9,U.S. House,21,REP,Elise Stefanik,127,3
+Lewis,Lyonsdale 2 LD 9,U.S. House,21,REP,Elise Stefanik,30,1
+Lewis,Lyonsdale 3 LD 9,U.S. House,21,REP,Elise Stefanik,10,0
+Lewis,Martinsburg LD 7,U.S. House,21,REP,Elise Stefanik,160,6
+Lewis,Montague LD 8,U.S. House,21,REP,Elise Stefanik,19,2
+Lewis,New Bremen 1 LD 4,U.S. House,21,REP,Elise Stefanik,185,5
+Lewis,New Bremen 2 LD 4,U.S. House,21,REP,Elise Stefanik,194,13
+Lewis,Osceola LD 10,U.S. House,21,REP,Elise Stefanik,58,5
+Lewis,Pinckney LD 8,U.S. House,21,REP,Elise Stefanik,58,6
+Lewis,Turin LD 7,U.S. House,21,REP,Elise Stefanik,91,7
+Lewis,Watson LD 6,U.S. House,21,REP,Elise Stefanik,222,19
+Lewis,West Turin 1 LD 8,U.S. House,21,REP,Elise Stefanik,97,9
+Lewis,West Turin 2 LD 8,U.S. House,21,REP,Elise Stefanik,25,1
+Lewis,West Turin 3 LD 8,U.S. House,21,REP,Elise Stefanik,38,3
+Lewis,West Turin 4 LD 8,U.S. House,21,REP,Elise Stefanik,70,5
+Lewis,Total,U.S. House,21,REP,Elise Stefanik,3485,208
+Lewis,Croghan 1 LD 2,U.S. House,21,CON,Elise Stefanik,13,0
+Lewis,Croghan 2 LD 2,U.S. House,21,CON,Elise Stefanik,13,2
+Lewis,Croghan 3 LD 2,U.S. House,21,CON,Elise Stefanik,24,3
+Lewis,Croghan 4 LD 1,U.S. House,21,CON,Elise Stefanik,17,1
+Lewis,Denmark 1 LD 2,U.S. House,21,CON,Elise Stefanik,6,0
+Lewis,Denmark 2 LD 3,U.S. House,21,CON,Elise Stefanik,20,0
+Lewis,Denmark 3 LD 3,U.S. House,21,CON,Elise Stefanik,14,0
+Lewis,Diana 1 LD 1,U.S. House,21,CON,Elise Stefanik,25,1
+Lewis,Diana 2 LD 1,U.S. House,21,CON,Elise Stefanik,7,1
+Lewis,Greig LD 9,U.S. House,21,CON,Elise Stefanik,34,2
+Lewis,Harrisburg LD 8,U.S. House,21,CON,Elise Stefanik,11,0
+Lewis,Lewis LD 10,U.S. House,21,CON,Elise Stefanik,27,1
+Lewis,Leyden 1 LD 10,U.S. House,21,CON,Elise Stefanik,22,1
+Lewis,Leyden 2 LD 10,U.S. House,21,CON,Elise Stefanik,11,0
+Lewis,Leyden 3 LD 10,U.S. House,21,CON,Elise Stefanik,7,0
+Lewis,Lowville 1 LD 6,U.S. House,21,CON,Elise Stefanik,9,0
+Lewis,Lowville 2 LD 5,U.S. House,21,CON,Elise Stefanik,12,0
+Lewis,Lowville 3 LD 3,U.S. House,21,CON,Elise Stefanik,7,4
+Lewis,Lowville 4 LD 5,U.S. House,21,CON,Elise Stefanik,35,2
+Lewis,Lowville 5 LD 7,U.S. House,21,CON,Elise Stefanik,6,0
+Lewis,Lyonsdale 1 LD 9,U.S. House,21,CON,Elise Stefanik,30,3
+Lewis,Lyonsdale 2 LD 9,U.S. House,21,CON,Elise Stefanik,5,0
+Lewis,Lyonsdale 3 LD 9,U.S. House,21,CON,Elise Stefanik,0,0
+Lewis,Martinsburg LD 7,U.S. House,21,CON,Elise Stefanik,26,2
+Lewis,Montague LD 8,U.S. House,21,CON,Elise Stefanik,1,0
+Lewis,New Bremen 1 LD 4,U.S. House,21,CON,Elise Stefanik,15,1
+Lewis,New Bremen 2 LD 4,U.S. House,21,CON,Elise Stefanik,27,0
+Lewis,Osceola LD 10,U.S. House,21,CON,Elise Stefanik,7,0
+Lewis,Pinckney LD 8,U.S. House,21,CON,Elise Stefanik,7,1
+Lewis,Turin LD 7,U.S. House,21,CON,Elise Stefanik,16,1
+Lewis,Watson LD 6,U.S. House,21,CON,Elise Stefanik,28,1
+Lewis,West Turin 1 LD 8,U.S. House,21,CON,Elise Stefanik,15,0
+Lewis,West Turin 2 LD 8,U.S. House,21,CON,Elise Stefanik,2,0
+Lewis,West Turin 3 LD 8,U.S. House,21,CON,Elise Stefanik,4,2
+Lewis,West Turin 4 LD 8,U.S. House,21,CON,Elise Stefanik,14,0
+Lewis,Total,U.S. House,21,CON,Elise Stefanik,517,29
+Lewis,Croghan 1 LD 2,U.S. House,21,WF,Aaron Woolf,3,0
+Lewis,Croghan 2 LD 2,U.S. House,21,WF,Aaron Woolf,2,1
+Lewis,Croghan 3 LD 2,U.S. House,21,WF,Aaron Woolf,7,0
+Lewis,Croghan 4 LD 1,U.S. House,21,WF,Aaron Woolf,7,0
+Lewis,Denmark 1 LD 2,U.S. House,21,WF,Aaron Woolf,4,0
+Lewis,Denmark 2 LD 3,U.S. House,21,WF,Aaron Woolf,3,1
+Lewis,Denmark 3 LD 3,U.S. House,21,WF,Aaron Woolf,6,0
+Lewis,Diana 1 LD 1,U.S. House,21,WF,Aaron Woolf,6,0
+Lewis,Diana 2 LD 1,U.S. House,21,WF,Aaron Woolf,3,0
+Lewis,Greig LD 9,U.S. House,21,WF,Aaron Woolf,4,1
+Lewis,Harrisburg LD 8,U.S. House,21,WF,Aaron Woolf,0,1
+Lewis,Lewis LD 10,U.S. House,21,WF,Aaron Woolf,11,0
+Lewis,Leyden 1 LD 10,U.S. House,21,WF,Aaron Woolf,6,0
+Lewis,Leyden 2 LD 10,U.S. House,21,WF,Aaron Woolf,2,0
+Lewis,Leyden 3 LD 10,U.S. House,21,WF,Aaron Woolf,4,0
+Lewis,Lowville 1 LD 6,U.S. House,21,WF,Aaron Woolf,3,2
+Lewis,Lowville 2 LD 5,U.S. House,21,WF,Aaron Woolf,5,0
+Lewis,Lowville 3 LD 3,U.S. House,21,WF,Aaron Woolf,0,0
+Lewis,Lowville 4 LD 5,U.S. House,21,WF,Aaron Woolf,14,2
+Lewis,Lowville 5 LD 7,U.S. House,21,WF,Aaron Woolf,2,1
+Lewis,Lyonsdale 1 LD 9,U.S. House,21,WF,Aaron Woolf,8,0
+Lewis,Lyonsdale 2 LD 9,U.S. House,21,WF,Aaron Woolf,3,0
+Lewis,Lyonsdale 3 LD 9,U.S. House,21,WF,Aaron Woolf,0,0
+Lewis,Martinsburg LD 7,U.S. House,21,WF,Aaron Woolf,9,1
+Lewis,Montague LD 8,U.S. House,21,WF,Aaron Woolf,1,0
+Lewis,New Bremen 1 LD 4,U.S. House,21,WF,Aaron Woolf,8,0
+Lewis,New Bremen 2 LD 4,U.S. House,21,WF,Aaron Woolf,8,0
+Lewis,Osceola LD 10,U.S. House,21,WF,Aaron Woolf,0,0
+Lewis,Pinckney LD 8,U.S. House,21,WF,Aaron Woolf,7,0
+Lewis,Turin LD 7,U.S. House,21,WF,Aaron Woolf,5,0
+Lewis,Watson LD 6,U.S. House,21,WF,Aaron Woolf,20,0
+Lewis,West Turin 1 LD 8,U.S. House,21,WF,Aaron Woolf,3,0
+Lewis,West Turin 2 LD 8,U.S. House,21,WF,Aaron Woolf,1,0
+Lewis,West Turin 3 LD 8,U.S. House,21,WF,Aaron Woolf,0,0
+Lewis,West Turin 4 LD 8,U.S. House,21,WF,Aaron Woolf,2,0
+Lewis,Total,U.S. House,21,WF,Aaron Woolf,167,10
+Lewis,Croghan 1 LD 2,U.S. House,21,IND,Elise Stefanik,3,0
+Lewis,Croghan 2 LD 2,U.S. House,21,IND,Elise Stefanik,5,0
+Lewis,Croghan 3 LD 2,U.S. House,21,IND,Elise Stefanik,2,0
+Lewis,Croghan 4 LD 1,U.S. House,21,IND,Elise Stefanik,3,0
+Lewis,Denmark 1 LD 2,U.S. House,21,IND,Elise Stefanik,4,0
+Lewis,Denmark 2 LD 3,U.S. House,21,IND,Elise Stefanik,4,0
+Lewis,Denmark 3 LD 3,U.S. House,21,IND,Elise Stefanik,7,0
+Lewis,Diana 1 LD 1,U.S. House,21,IND,Elise Stefanik,6,0
+Lewis,Diana 2 LD 1,U.S. House,21,IND,Elise Stefanik,1,0
+Lewis,Greig LD 9,U.S. House,21,IND,Elise Stefanik,10,0
+Lewis,Harrisburg LD 8,U.S. House,21,IND,Elise Stefanik,3,0
+Lewis,Lewis LD 10,U.S. House,21,IND,Elise Stefanik,8,0
+Lewis,Leyden 1 LD 10,U.S. House,21,IND,Elise Stefanik,4,1
+Lewis,Leyden 2 LD 10,U.S. House,21,IND,Elise Stefanik,2,0
+Lewis,Leyden 3 LD 10,U.S. House,21,IND,Elise Stefanik,4,0
+Lewis,Lowville 1 LD 6,U.S. House,21,IND,Elise Stefanik,4,0
+Lewis,Lowville 2 LD 5,U.S. House,21,IND,Elise Stefanik,4,0
+Lewis,Lowville 3 LD 3,U.S. House,21,IND,Elise Stefanik,1,0
+Lewis,Lowville 4 LD 5,U.S. House,21,IND,Elise Stefanik,13,0
+Lewis,Lowville 5 LD 7,U.S. House,21,IND,Elise Stefanik,0,0
+Lewis,Lyonsdale 1 LD 9,U.S. House,21,IND,Elise Stefanik,2,0
+Lewis,Lyonsdale 2 LD 9,U.S. House,21,IND,Elise Stefanik,3,0
+Lewis,Lyonsdale 3 LD 9,U.S. House,21,IND,Elise Stefanik,0,0
+Lewis,Martinsburg LD 7,U.S. House,21,IND,Elise Stefanik,5,0
+Lewis,Montague LD 8,U.S. House,21,IND,Elise Stefanik,0,0
+Lewis,New Bremen 1 LD 4,U.S. House,21,IND,Elise Stefanik,8,0
+Lewis,New Bremen 2 LD 4,U.S. House,21,IND,Elise Stefanik,15,0
+Lewis,Osceola LD 10,U.S. House,21,IND,Elise Stefanik,3,0
+Lewis,Pinckney LD 8,U.S. House,21,IND,Elise Stefanik,4,0
+Lewis,Turin LD 7,U.S. House,21,IND,Elise Stefanik,2,0
+Lewis,Watson LD 6,U.S. House,21,IND,Elise Stefanik,6,0
+Lewis,West Turin 1 LD 8,U.S. House,21,IND,Elise Stefanik,7,0
+Lewis,West Turin 2 LD 8,U.S. House,21,IND,Elise Stefanik,0,0
+Lewis,West Turin 3 LD 8,U.S. House,21,IND,Elise Stefanik,3,0
+Lewis,West Turin 4 LD 8,U.S. House,21,IND,Elise Stefanik,5,0
+Lewis,Total,U.S. House,21,IND,Elise Stefanik,151,1
+Lewis,Croghan 1 LD 2,U.S. House,21,GRE,Matt Funiciello,8,0
+Lewis,Croghan 2 LD 2,U.S. House,21,GRE,Matt Funiciello,15,1
+Lewis,Croghan 3 LD 2,U.S. House,21,GRE,Matt Funiciello,21,1
+Lewis,Croghan 4 LD 1,U.S. House,21,GRE,Matt Funiciello,19,0
+Lewis,Denmark 1 LD 2,U.S. House,21,GRE,Matt Funiciello,13,1
+Lewis,Denmark 2 LD 3,U.S. House,21,GRE,Matt Funiciello,34,2
+Lewis,Denmark 3 LD 3,U.S. House,21,GRE,Matt Funiciello,16,0
+Lewis,Diana 1 LD 1,U.S. House,21,GRE,Matt Funiciello,30,0
+Lewis,Diana 2 LD 1,U.S. House,21,GRE,Matt Funiciello,8,1
+Lewis,Greig LD 9,U.S. House,21,GRE,Matt Funiciello,39,0
+Lewis,Harrisburg LD 8,U.S. House,21,GRE,Matt Funiciello,12,0
+Lewis,Lewis LD 10,U.S. House,21,GRE,Matt Funiciello,6,0
+Lewis,Leyden 1 LD 10,U.S. House,21,GRE,Matt Funiciello,11,1
+Lewis,Leyden 2 LD 10,U.S. House,21,GRE,Matt Funiciello,8,0
+Lewis,Leyden 3 LD 10,U.S. House,21,GRE,Matt Funiciello,14,1
+Lewis,Lowville 1 LD 6,U.S. House,21,GRE,Matt Funiciello,19,2
+Lewis,Lowville 2 LD 5,U.S. House,21,GRE,Matt Funiciello,32,2
+Lewis,Lowville 3 LD 3,U.S. House,21,GRE,Matt Funiciello,17,1
+Lewis,Lowville 4 LD 5,U.S. House,21,GRE,Matt Funiciello,39,1
+Lewis,Lowville 5 LD 7,U.S. House,21,GRE,Matt Funiciello,5,1
+Lewis,Lyonsdale 1 LD 9,U.S. House,21,GRE,Matt Funiciello,8,0
+Lewis,Lyonsdale 2 LD 9,U.S. House,21,GRE,Matt Funiciello,5,0
+Lewis,Lyonsdale 3 LD 9,U.S. House,21,GRE,Matt Funiciello,1,0
+Lewis,Martinsburg LD 7,U.S. House,21,GRE,Matt Funiciello,39,0
+Lewis,Montague LD 8,U.S. House,21,GRE,Matt Funiciello,2,0
+Lewis,New Bremen 1 LD 4,U.S. House,21,GRE,Matt Funiciello,42,0
+Lewis,New Bremen 2 LD 4,U.S. House,21,GRE,Matt Funiciello,43,0
+Lewis,Osceola LD 10,U.S. House,21,GRE,Matt Funiciello,4,0
+Lewis,Pinckney LD 8,U.S. House,21,GRE,Matt Funiciello,9,0
+Lewis,Turin LD 7,U.S. House,21,GRE,Matt Funiciello,12,0
+Lewis,Watson LD 6,U.S. House,21,GRE,Matt Funiciello,50,3
+Lewis,West Turin 1 LD 8,U.S. House,21,GRE,Matt Funiciello,10,0
+Lewis,West Turin 2 LD 8,U.S. House,21,GRE,Matt Funiciello,0,0
+Lewis,West Turin 3 LD 8,U.S. House,21,GRE,Matt Funiciello,6,0
+Lewis,West Turin 4 LD 8,U.S. House,21,GRE,Matt Funiciello,10,0
+Lewis,Total,U.S. House,21,GRE,Matt Funiciello,607,18
+Lewis,Croghan 1 LD 2,U.S. House,21,,Write-in,0,
+Lewis,Croghan 2 LD 2,U.S. House,21,,Write-in,1,
+Lewis,Croghan 3 LD 2,U.S. House,21,,Write-in,0,
+Lewis,Croghan 4 LD 1,U.S. House,21,,Write-in,1,
+Lewis,Denmark 1 LD 2,U.S. House,21,,Write-in,0,
+Lewis,Denmark 2 LD 3,U.S. House,21,,Write-in,0,
+Lewis,Denmark 3 LD 3,U.S. House,21,,Write-in,0,
+Lewis,Diana 1 LD 1,U.S. House,21,,Write-in,0,
+Lewis,Diana 2 LD 1,U.S. House,21,,Write-in,0,
+Lewis,Greig LD 9,U.S. House,21,,Write-in,0,
+Lewis,Harrisburg LD 8,U.S. House,21,,Write-in,0,
+Lewis,Lewis LD 10,U.S. House,21,,Write-in,0,
+Lewis,Leyden 1 LD 10,U.S. House,21,,Write-in,1,
+Lewis,Leyden 2 LD 10,U.S. House,21,,Write-in,0,
+Lewis,Leyden 3 LD 10,U.S. House,21,,Write-in,0,
+Lewis,Lowville 1 LD 6,U.S. House,21,,Write-in,0,
+Lewis,Lowville 2 LD 5,U.S. House,21,,Write-in,0,
+Lewis,Lowville 3 LD 3,U.S. House,21,,Write-in,0,
+Lewis,Lowville 4 LD 5,U.S. House,21,,Write-in,1,
+Lewis,Lowville 5 LD 7,U.S. House,21,,Write-in,0,
+Lewis,Lyonsdale 1 LD 9,U.S. House,21,,Write-in,0,
+Lewis,Lyonsdale 2 LD 9,U.S. House,21,,Write-in,0,
+Lewis,Lyonsdale 3 LD 9,U.S. House,21,,Write-in,0,
+Lewis,Martinsburg LD 7,U.S. House,21,,Write-in,0,
+Lewis,Montague LD 8,U.S. House,21,,Write-in,0,
+Lewis,New Bremen 1 LD 4,U.S. House,21,,Write-in,0,
+Lewis,New Bremen 2 LD 4,U.S. House,21,,Write-in,1,
+Lewis,Osceola LD 10,U.S. House,21,,Write-in,0,
+Lewis,Pinckney LD 8,U.S. House,21,,Write-in,0,
+Lewis,Turin LD 7,U.S. House,21,,Write-in,0,
+Lewis,Watson LD 6,U.S. House,21,,Write-in,0,
+Lewis,West Turin 1 LD 8,U.S. House,21,,Write-in,0,
+Lewis,West Turin 2 LD 8,U.S. House,21,,Write-in,0,
+Lewis,West Turin 3 LD 8,U.S. House,21,,Write-in,1,
+Lewis,West Turin 4 LD 8,U.S. House,21,,Write-in,0,
+Lewis,Total,U.S. House,21,,Write-in,6,
+Lewis,Croghan 1 LD 2,U.S. House,21,,Blank or Void,1,
+Lewis,Croghan 2 LD 2,U.S. House,21,,Blank or Void,4,
+Lewis,Croghan 3 LD 2,U.S. House,21,,Blank or Void,6,
+Lewis,Croghan 4 LD 1,U.S. House,21,,Blank or Void,6,
+Lewis,Denmark 1 LD 2,U.S. House,21,,Blank or Void,1,
+Lewis,Denmark 2 LD 3,U.S. House,21,,Blank or Void,2,
+Lewis,Denmark 3 LD 3,U.S. House,21,,Blank or Void,3,
+Lewis,Diana 1 LD 1,U.S. House,21,,Blank or Void,1,
+Lewis,Diana 2 LD 1,U.S. House,21,,Blank or Void,2,
+Lewis,Greig LD 9,U.S. House,21,,Blank or Void,28,
+Lewis,Harrisburg LD 8,U.S. House,21,,Blank or Void,3,
+Lewis,Lewis LD 10,U.S. House,21,,Blank or Void,11,
+Lewis,Leyden 1 LD 10,U.S. House,21,,Blank or Void,9,
+Lewis,Leyden 2 LD 10,U.S. House,21,,Blank or Void,9,
+Lewis,Leyden 3 LD 10,U.S. House,21,,Blank or Void,11,
+Lewis,Lowville 1 LD 6,U.S. House,21,,Blank or Void,2,
+Lewis,Lowville 2 LD 5,U.S. House,21,,Blank or Void,6,
+Lewis,Lowville 3 LD 3,U.S. House,21,,Blank or Void,3,
+Lewis,Lowville 4 LD 5,U.S. House,21,,Blank or Void,10,
+Lewis,Lowville 5 LD 7,U.S. House,21,,Blank or Void,1,
+Lewis,Lyonsdale 1 LD 9,U.S. House,21,,Blank or Void,13,
+Lewis,Lyonsdale 2 LD 9,U.S. House,21,,Blank or Void,2,
+Lewis,Lyonsdale 3 LD 9,U.S. House,21,,Blank or Void,1,
+Lewis,Martinsburg LD 7,U.S. House,21,,Blank or Void,7,
+Lewis,Montague LD 8,U.S. House,21,,Blank or Void,0,
+Lewis,New Bremen 1 LD 4,U.S. House,21,,Blank or Void,9,
+Lewis,New Bremen 2 LD 4,U.S. House,21,,Blank or Void,18,
+Lewis,Osceola LD 10,U.S. House,21,,Blank or Void,2,
+Lewis,Pinckney LD 8,U.S. House,21,,Blank or Void,1,
+Lewis,Turin LD 7,U.S. House,21,,Blank or Void,6,
+Lewis,Watson LD 6,U.S. House,21,,Blank or Void,8,
+Lewis,West Turin 1 LD 8,U.S. House,21,,Blank or Void,13,
+Lewis,West Turin 2 LD 8,U.S. House,21,,Blank or Void,4,
+Lewis,West Turin 3 LD 8,U.S. House,21,,Blank or Void,3,
+Lewis,West Turin 4 LD 8,U.S. House,21,,Blank or Void,8,
+Lewis,Total,U.S. House,21,,Blank or Void,214,
 Lewis,Croghan 1 LD 2,State Senate,47,REP,Joseph A. Griffo,68,3
 Lewis,Croghan 2 LD 2,State Senate,47,REP,Joseph A. Griffo,125,6
 Lewis,Croghan 3 LD 2,State Senate,47,REP,Joseph A. Griffo,184,6
