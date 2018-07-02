@@ -2,8 +2,8 @@ import os
 import glob
 import csv
 
-year = '2016'
-election = '20161108'
+year = '2014'
+election = '20141104'
 path = election+'*precinct.csv'
 output_file = election+'__ny__general__precinct.csv'
 
@@ -14,16 +14,18 @@ def generate_headers(year, path):
         with open(fname, "r") as csvfile:
             reader = csv.reader(csvfile)
             headers = next(reader)
-            vote_headers.append(h for h in headers if h not in ['county','precinct', 'office', 'district', 'candidate', 'party'])
-    with open('vote_headers.csv', "w") as csv_outfile:
-        outfile = csv.writer(csv_outfile)
-        outfile.writerows(vote_headers)
+            print(list(fname + ': ' + h for h in headers if h not in ['county','precinct', 'office', 'district', 'candidate', 'party']))
+            #vote_headers.append(h for h in headers if h not in ['county','precinct', 'office', 'district', 'candidate', 'party'])
+#    with open('vote_headers.csv', "w") as csv_outfile:
+#        outfile = csv.writer(csv_outfile)
+#        outfile.writerows(vote_headers)
 
 def generate_offices(year, path):
     os.chdir(year)
     offices = []
     for fname in glob.glob(path):
         with open(fname, "r") as csvfile:
+            print(fname)
             reader = csv.DictReader(csvfile)
             for row in reader:
                 if not row['office'] in offices:
