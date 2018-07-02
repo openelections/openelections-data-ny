@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Delaware,ANDES 1,Governor,,DEM,Andrew M. Cuomo,137
 Delaware,ANDES 2,Governor,,DEM,Andrew M. Cuomo,49
 Delaware,BOVINA 1,Governor,,DEM,Andrew M. Cuomo,87
@@ -55,7 +55,6 @@ Delaware,WALTON 2,Governor,,DEM,Andrew M. Cuomo,63
 Delaware,WALTON 3,Governor,,DEM,Andrew M. Cuomo,58
 Delaware,WALTON 4,Governor,,DEM,Andrew M. Cuomo,92
 Delaware,WALTON 5,Governor,,DEM,Andrew M. Cuomo,64
-Delaware,TOTAL,Governor,,DEM,Andrew M. Cuomo,3760
 Delaware,ANDES 1,Governor,,REP,Rob Astorino,163
 Delaware,ANDES 2,Governor,,REP,Rob Astorino,92
 Delaware,BOVINA 1,Governor,,REP,Rob Astorino,132
@@ -112,7 +111,6 @@ Delaware,WALTON 2,Governor,,REP,Rob Astorino,116
 Delaware,WALTON 3,Governor,,REP,Rob Astorino,113
 Delaware,WALTON 4,Governor,,REP,Rob Astorino,145
 Delaware,WALTON 5,Governor,,REP,Rob Astorino,196
-Delaware,TOTAL,Governor,,REP,Rob Astorino,6225
 Delaware,ANDES 1,Governor,,CON,Rob Astorino,25
 Delaware,ANDES 2,Governor,,CON,Rob Astorino,9
 Delaware,BOVINA 1,Governor,,CON,Rob Astorino,16
@@ -169,7 +167,6 @@ Delaware,WALTON 2,Governor,,CON,Rob Astorino,15
 Delaware,WALTON 3,Governor,,CON,Rob Astorino,16
 Delaware,WALTON 4,Governor,,CON,Rob Astorino,15
 Delaware,WALTON 5,Governor,,CON,Rob Astorino,15
-Delaware,TOTAL,Governor,,CON,Rob Astorino,899
 Delaware,ANDES 1,Governor,,WF,Andrew M. Cuomo,9
 Delaware,ANDES 2,Governor,,WF,Andrew M. Cuomo,8
 Delaware,BOVINA 1,Governor,,WF,Andrew M. Cuomo,15
@@ -226,7 +223,6 @@ Delaware,WALTON 2,Governor,,WF,Andrew M. Cuomo,8
 Delaware,WALTON 3,Governor,,WF,Andrew M. Cuomo,4
 Delaware,WALTON 4,Governor,,WF,Andrew M. Cuomo,5
 Delaware,WALTON 5,Governor,,WF,Andrew M. Cuomo,2
-Delaware,TOTAL,Governor,,WF,Andrew M. Cuomo,277
 Delaware,ANDES 1,Governor,,IND,Andrew M. Cuomo,3
 Delaware,ANDES 2,Governor,,IND,Andrew M. Cuomo,1
 Delaware,BOVINA 1,Governor,,IND,Andrew M. Cuomo,2
@@ -283,7 +279,6 @@ Delaware,WALTON 2,Governor,,IND,Andrew M. Cuomo,3
 Delaware,WALTON 3,Governor,,IND,Andrew M. Cuomo,5
 Delaware,WALTON 4,Governor,,IND,Andrew M. Cuomo,3
 Delaware,WALTON 5,Governor,,IND,Andrew M. Cuomo,1
-Delaware,TOTAL,Governor,,IND,Andrew M. Cuomo,188
 Delaware,ANDES 1,Governor,,GRE,Howie Hawkins,13
 Delaware,ANDES 2,Governor,,GRE,Howie Hawkins,9
 Delaware,BOVINA 1,Governor,,GRE,Howie Hawkins,18
@@ -340,7 +335,6 @@ Delaware,WALTON 2,Governor,,GRE,Howie Hawkins,15
 Delaware,WALTON 3,Governor,,GRE,Howie Hawkins,15
 Delaware,WALTON 4,Governor,,GRE,Howie Hawkins,11
 Delaware,WALTON 5,Governor,,GRE,Howie Hawkins,12
-Delaware,TOTAL,Governor,,GRE,Howie Hawkins,845
 Delaware,ANDES 1,Governor,,WEP,Andrew M. Cuomo,3
 Delaware,ANDES 2,Governor,,WEP,Andrew M. Cuomo,2
 Delaware,BOVINA 1,Governor,,WEP,Andrew M. Cuomo,4
@@ -397,7 +391,6 @@ Delaware,WALTON 2,Governor,,WEP,Andrew M. Cuomo,1
 Delaware,WALTON 3,Governor,,WEP,Andrew M. Cuomo,2
 Delaware,WALTON 4,Governor,,WEP,Andrew M. Cuomo,0
 Delaware,WALTON 5,Governor,,WEP,Andrew M. Cuomo,2
-Delaware,TOTAL,Governor,,WEP,Andrew M. Cuomo,116
 Delaware,ANDES 1,Governor,,SAP,Steven Kohn,0
 Delaware,ANDES 2,Governor,,SAP,Steven Kohn,0
 Delaware,BOVINA 1,Governor,,SAP,Steven Kohn,0
@@ -454,7 +447,6 @@ Delaware,WALTON 2,Governor,,SAP,Steven Kohn,0
 Delaware,WALTON 3,Governor,,SAP,Steven Kohn,1
 Delaware,WALTON 4,Governor,,SAP,Steven Kohn,0
 Delaware,WALTON 5,Governor,,SAP,Steven Kohn,0
-Delaware,TOTAL,Governor,,SAP,Steven Kohn,21
 Delaware,ANDES 1,Governor,,SCC,Rob Astorino,7
 Delaware,ANDES 2,Governor,,SCC,Rob Astorino,0
 Delaware,BOVINA 1,Governor,,SCC,Rob Astorino,12
@@ -511,7 +503,6 @@ Delaware,WALTON 2,Governor,,SCC,Rob Astorino,5
 Delaware,WALTON 3,Governor,,SCC,Rob Astorino,9
 Delaware,WALTON 4,Governor,,SCC,Rob Astorino,5
 Delaware,WALTON 5,Governor,,SCC,Rob Astorino,5
-Delaware,TOTAL,Governor,,SCC,Rob Astorino,322
 Delaware,ANDES 1,Governor,,LBT,Michael McDermott,2
 Delaware,ANDES 2,Governor,,LBT,Michael McDermott,0
 Delaware,BOVINA 1,Governor,,LBT,Michael McDermott,3
@@ -568,7 +559,6 @@ Delaware,WALTON 2,Governor,,LBT,Michael McDermott,4
 Delaware,WALTON 3,Governor,,LBT,Michael McDermott,5
 Delaware,WALTON 4,Governor,,LBT,Michael McDermott,0
 Delaware,WALTON 5,Governor,,LBT,Michael McDermott,3
-Delaware,TOTAL,Governor,,LBT,Michael McDermott,84
 Delaware,ANDES 1,Governor,,,Blank,11
 Delaware,ANDES 2,Governor,,,Blank,6
 Delaware,BOVINA 1,Governor,,,Blank,4
@@ -625,7 +615,6 @@ Delaware,WALTON 2,Governor,,,Blank,10
 Delaware,WALTON 3,Governor,,,Blank,1
 Delaware,WALTON 4,Governor,,,Blank,6
 Delaware,WALTON 5,Governor,,,Blank,8
-Delaware,TOTAL,Governor,,,Blank,315
 Delaware,ANDES 1,Comptroller,,DEM,Thomas P. DiNapoli,148
 Delaware,ANDES 2,Comptroller,,DEM,Thomas P. DiNapoli,53
 Delaware,BOVINA 1,Comptroller,,DEM,Thomas P. DiNapoli,103
@@ -682,7 +671,6 @@ Delaware,WALTON 2,Comptroller,,DEM,Thomas P. DiNapoli,71
 Delaware,WALTON 3,Comptroller,,DEM,Thomas P. DiNapoli,70
 Delaware,WALTON 4,Comptroller,,DEM,Thomas P. DiNapoli,108
 Delaware,WALTON 5,Comptroller,,DEM,Thomas P. DiNapoli,89
-Delaware,TOTAL,Comptroller,,DEM,Thomas P. DiNapoli,4456
 Delaware,ANDES 1,Comptroller,,REP,Robert Antonacci,137
 Delaware,ANDES 2,Comptroller,,REP,Robert Antonacci,76
 Delaware,BOVINA 1,Comptroller,,REP,Robert Antonacci,110
@@ -739,7 +727,6 @@ Delaware,WALTON 2,Comptroller,,REP,Robert Antonacci,105
 Delaware,WALTON 3,Comptroller,,REP,Robert Antonacci,99
 Delaware,WALTON 4,Comptroller,,REP,Robert Antonacci,117
 Delaware,WALTON 5,Comptroller,,REP,Robert Antonacci,178
-Delaware,TOTAL,Comptroller,,REP,Robert Antonacci,5507
 Delaware,ANDES 1,Comptroller,,CON/SCC,Robert Antonacci,28
 Delaware,ANDES 2,Comptroller,,CON/SCC,Robert Antonacci,7
 Delaware,BOVINA 1,Comptroller,,CON/SCC,Robert Antonacci,20
@@ -796,7 +783,6 @@ Delaware,WALTON 2,Comptroller,,CON/SCC,Robert Antonacci,17
 Delaware,WALTON 3,Comptroller,,CON/SCC,Robert Antonacci,18
 Delaware,WALTON 4,Comptroller,,CON/SCC,Robert Antonacci,17
 Delaware,WALTON 5,Comptroller,,CON/SCC,Robert Antonacci,19
-Delaware,TOTAL,Comptroller,,CON/SCC,Robert Antonacci,881
 Delaware,ANDES 1,Comptroller,,WF,Thomas P. DiNapoli,18
 Delaware,ANDES 2,Comptroller,,WF,Thomas P. DiNapoli,10
 Delaware,BOVINA 1,Comptroller,,WF,Thomas P. DiNapoli,22
@@ -853,7 +839,6 @@ Delaware,WALTON 2,Comptroller,,WF,Thomas P. DiNapoli,11
 Delaware,WALTON 3,Comptroller,,WF,Thomas P. DiNapoli,8
 Delaware,WALTON 4,Comptroller,,WF,Thomas P. DiNapoli,9
 Delaware,WALTON 5,Comptroller,,WF,Thomas P. DiNapoli,7
-Delaware,TOTAL,Comptroller,,WF,Thomas P. DiNapoli,510
 Delaware,ANDES 1,Comptroller,,IND/WEP,Thomas P. DiNapoli,10
 Delaware,ANDES 2,Comptroller,,IND/WEP,Thomas P. DiNapoli,5
 Delaware,BOVINA 1,Comptroller,,IND/WEP,Thomas P. DiNapoli,9
@@ -910,7 +895,6 @@ Delaware,WALTON 2,Comptroller,,IND/WEP,Thomas P. DiNapoli,6
 Delaware,WALTON 3,Comptroller,,IND/WEP,Thomas P. DiNapoli,8
 Delaware,WALTON 4,Comptroller,,IND/WEP,Thomas P. DiNapoli,5
 Delaware,WALTON 5,Comptroller,,IND/WEP,Thomas P. DiNapoli,3
-Delaware,TOTAL,Comptroller,,IND/WEP,Thomas P. DiNapoli,350
 Delaware,ANDES 1,Comptroller,,GRE,Theresa M. Portelli,7
 Delaware,ANDES 2,Comptroller,,GRE,Theresa M. Portelli,7
 Delaware,BOVINA 1,Comptroller,,GRE,Theresa M. Portelli,19
@@ -967,7 +951,6 @@ Delaware,WALTON 2,Comptroller,,GRE,Theresa M. Portelli,14
 Delaware,WALTON 3,Comptroller,,GRE,Theresa M. Portelli,14
 Delaware,WALTON 4,Comptroller,,GRE,Theresa M. Portelli,9
 Delaware,WALTON 5,Comptroller,,GRE,Theresa M. Portelli,6
-Delaware,TOTAL,Comptroller,,GRE,Theresa M. Portelli,511
 Delaware,ANDES 1,Comptroller,,LBT,John Clifton,1
 Delaware,ANDES 2,Comptroller,,LBT,John Clifton,0
 Delaware,BOVINA 1,Comptroller,,LBT,John Clifton,1
@@ -1024,7 +1007,6 @@ Delaware,WALTON 2,Comptroller,,LBT,John Clifton,2
 Delaware,WALTON 3,Comptroller,,LBT,John Clifton,3
 Delaware,WALTON 4,Comptroller,,LBT,John Clifton,5
 Delaware,WALTON 5,Comptroller,,LBT,John Clifton,0
-Delaware,TOTAL,Comptroller,,LBT,John Clifton,121
 Delaware,ANDES 1,Comptroller,,,Blank,24
 Delaware,ANDES 2,Comptroller,,,Blank,18
 Delaware,BOVINA 1,Comptroller,,,Blank,9
@@ -1081,7 +1063,6 @@ Delaware,WALTON 2,Comptroller,,,Blank,14
 Delaware,WALTON 3,Comptroller,,,Blank,9
 Delaware,WALTON 4,Comptroller,,,Blank,12
 Delaware,WALTON 5,Comptroller,,,Blank,6
-Delaware,TOTAL,Comptroller,,,Blank,716
 Delaware,ANDES 1,Attorney General,,DEM,Eric T. Schneiderman,121
 Delaware,ANDES 2,Attorney General,,DEM,Eric T. Schneiderman,43
 Delaware,BOVINA 1,Attorney General,,DEM,Eric T. Schneiderman,88
@@ -1138,7 +1119,6 @@ Delaware,WALTON 2,Attorney General,,DEM,Eric T. Schneiderman,64
 Delaware,WALTON 3,Attorney General,,DEM,Eric T. Schneiderman,60
 Delaware,WALTON 4,Attorney General,,DEM,Eric T. Schneiderman,85
 Delaware,WALTON 5,Attorney General,,DEM,Eric T. Schneiderman,73
-Delaware,TOTAL,Attorney General,,DEM,Eric T. Schneiderman,3654
 Delaware,ANDES 1,Attorney General,,REP,John Cahill,169
 Delaware,ANDES 2,Attorney General,,REP,John Cahill,91
 Delaware,BOVINA 1,Attorney General,,REP,John Cahill,125
@@ -1195,7 +1175,6 @@ Delaware,WALTON 2,Attorney General,,REP,John Cahill,122
 Delaware,WALTON 3,Attorney General,,REP,John Cahill,110
 Delaware,WALTON 4,Attorney General,,REP,John Cahill,145
 Delaware,WALTON 5,Attorney General,,REP,John Cahill,191
-Delaware,TOTAL,Attorney General,,REP,John Cahill,6367
 Delaware,ANDES 1,Attorney General,,CON/SCC,John Cahill,27
 Delaware,ANDES 2,Attorney General,,CON/SCC,John Cahill,9
 Delaware,BOVINA 1,Attorney General,,CON/SCC,John Cahill,26
@@ -1252,7 +1231,6 @@ Delaware,WALTON 2,Attorney General,,CON/SCC,John Cahill,16
 Delaware,WALTON 3,Attorney General,,CON/SCC,John Cahill,21
 Delaware,WALTON 4,Attorney General,,CON/SCC,John Cahill,20
 Delaware,WALTON 5,Attorney General,,CON/SCC,John Cahill,23
-Delaware,TOTAL,Attorney General,,CON/SCC,John Cahill,1044
 Delaware,ANDES 1,Attorney General,,WF,Eric T. Schneiderman,11
 Delaware,ANDES 2,Attorney General,,WF,Eric T. Schneiderman,10
 Delaware,BOVINA 1,Attorney General,,WF,Eric T. Schneiderman,19
@@ -1309,7 +1287,6 @@ Delaware,WALTON 2,Attorney General,,WF,Eric T. Schneiderman,8
 Delaware,WALTON 3,Attorney General,,WF,Eric T. Schneiderman,5
 Delaware,WALTON 4,Attorney General,,WF,Eric T. Schneiderman,3
 Delaware,WALTON 5,Attorney General,,WF,Eric T. Schneiderman,2
-Delaware,TOTAL,Attorney General,,WF,Eric T. Schneiderman,459
 Delaware,ANDES 1,Attorney General,,IND/WEP,Eric T. Schneiderman,11
 Delaware,ANDES 2,Attorney General,,IND/WEP,Eric T. Schneiderman,7
 Delaware,BOVINA 1,Attorney General,,IND/WEP,Eric T. Schneiderman,7
@@ -1366,7 +1343,6 @@ Delaware,WALTON 2,Attorney General,,IND/WEP,Eric T. Schneiderman,5
 Delaware,WALTON 3,Attorney General,,IND/WEP,Eric T. Schneiderman,5
 Delaware,WALTON 4,Attorney General,,IND/WEP,Eric T. Schneiderman,5
 Delaware,WALTON 5,Attorney General,,IND/WEP,Eric T. Schneiderman,3
-Delaware,TOTAL,Attorney General,,IND/WEP,Eric T. Schneiderman,306
 Delaware,ANDES 1,Attorney General,,GRE,Ramon Jimenez,5
 Delaware,ANDES 2,Attorney General,,GRE,Ramon Jimenez,2
 Delaware,BOVINA 1,Attorney General,,GRE,Ramon Jimenez,19
@@ -1423,7 +1399,6 @@ Delaware,WALTON 2,Attorney General,,GRE,Ramon Jimenez,7
 Delaware,WALTON 3,Attorney General,,GRE,Ramon Jimenez,10
 Delaware,WALTON 4,Attorney General,,GRE,Ramon Jimenez,8
 Delaware,WALTON 5,Attorney General,,GRE,Ramon Jimenez,3
-Delaware,TOTAL,Attorney General,,GRE,Ramon Jimenez,334
 Delaware,ANDES 1,Attorney General,,LBT,Carl E. Person,1
 Delaware,ANDES 2,Attorney General,,LBT,Carl E. Person,0
 Delaware,BOVINA 1,Attorney General,,LBT,Carl E. Person,1
@@ -1480,7 +1455,6 @@ Delaware,WALTON 2,Attorney General,,LBT,Carl E. Person,3
 Delaware,WALTON 3,Attorney General,,LBT,Carl E. Person,4
 Delaware,WALTON 4,Attorney General,,LBT,Carl E. Person,4
 Delaware,WALTON 5,Attorney General,,LBT,Carl E. Person,0
-Delaware,TOTAL,Attorney General,,LBT,Carl E. Person,113
 Delaware,ANDES 1,Attorney General,,,Blank,28
 Delaware,ANDES 2,Attorney General,,,Blank,14
 Delaware,BOVINA 1,Attorney General,,,Blank,8
@@ -1537,7 +1511,6 @@ Delaware,WALTON 2,Attorney General,,,Blank,15
 Delaware,WALTON 3,Attorney General,,,Blank,14
 Delaware,WALTON 4,Attorney General,,,Blank,12
 Delaware,WALTON 5,Attorney General,,,Blank,13
-Delaware,TOTAL,Attorney General,,,Sean Eldridge,775
 Delaware,ANDES 1,U.S. House,19,DEM,Sean Eldridge,123
 Delaware,ANDES 2,U.S. House,19,DEM,Sean Eldridge,37
 Delaware,BOVINA 1,U.S. House,19,DEM,Sean Eldridge,81
@@ -1594,7 +1567,6 @@ Delaware,WALTON 2,U.S. House,19,DEM,Sean Eldridge,35
 Delaware,WALTON 3,U.S. House,19,DEM,Sean Eldridge,38
 Delaware,WALTON 4,U.S. House,19,DEM,Sean Eldridge,54
 Delaware,WALTON 5,U.S. House,19,DEM,Sean Eldridge,42
-Delaware,TOTAL,U.S. House,19,DEM,Sean Eldridge,2816
 Delaware,ANDES 1,U.S. House,19,REP,Chris Gibson,188
 Delaware,ANDES 2,U.S. House,19,REP,Chris Gibson,108
 Delaware,BOVINA 1,U.S. House,19,REP,Chris Gibson,155
@@ -1651,7 +1623,6 @@ Delaware,WALTON 2,U.S. House,19,REP,Chris Gibson,163
 Delaware,WALTON 3,U.S. House,19,REP,Chris Gibson,147
 Delaware,WALTON 4,U.S. House,19,REP,Chris Gibson,188
 Delaware,WALTON 5,U.S. House,19,REP,Chris Gibson,234
-Delaware,TOTAL,U.S. House,19,REP,Chris Gibson,7928
 Delaware,ANDES 1,U.S. House,19,CON,Chris Gibson,26
 Delaware,ANDES 2,U.S. House,19,CON,Chris Gibson,8
 Delaware,BOVINA 1,U.S. House,19,CON,Chris Gibson,19
@@ -1708,7 +1679,6 @@ Delaware,WALTON 2,U.S. House,19,CON,Chris Gibson,16
 Delaware,WALTON 3,U.S. House,19,CON,Chris Gibson,22
 Delaware,WALTON 4,U.S. House,19,CON,Chris Gibson,15
 Delaware,WALTON 5,U.S. House,19,CON,Chris Gibson,17
-Delaware,TOTAL,U.S. House,19,CON,Chris Gibson,939
 Delaware,ANDES 1,U.S. House,19,WF,Sean Eldridge,19
 Delaware,ANDES 2,U.S. House,19,WF,Sean Eldridge,11
 Delaware,BOVINA 1,U.S. House,19,WF,Sean Eldridge,24
@@ -1765,7 +1735,6 @@ Delaware,WALTON 2,U.S. House,19,WF,Sean Eldridge,9
 Delaware,WALTON 3,U.S. House,19,WF,Sean Eldridge,6
 Delaware,WALTON 4,U.S. House,19,WF,Sean Eldridge,9
 Delaware,WALTON 5,U.S. House,19,WF,Sean Eldridge,4
-Delaware,TOTAL,U.S. House,19,WF,Sean Eldridge,569
 Delaware,ANDES 1,U.S. House,19,IND,Chris Gibson,8
 Delaware,ANDES 2,U.S. House,19,IND,Chris Gibson,6
 Delaware,BOVINA 1,U.S. House,19,IND,Chris Gibson,10
@@ -1822,7 +1791,6 @@ Delaware,WALTON 2,U.S. House,19,IND,Chris Gibson,13
 Delaware,WALTON 3,U.S. House,19,IND,Chris Gibson,13
 Delaware,WALTON 4,U.S. House,19,IND,Chris Gibson,11
 Delaware,WALTON 5,U.S. House,19,IND,Chris Gibson,7
-Delaware,TOTAL,U.S. House,19,IND,Chris Gibson,504
 Delaware,ANDES 1,U.S. House,19,,Blank,9
 Delaware,ANDES 2,U.S. House,19,,Blank,6
 Delaware,BOVINA 1,U.S. House,19,,Blank,4
@@ -1879,7 +1847,6 @@ Delaware,WALTON 2,U.S. House,19,,Blank,4
 Delaware,WALTON 3,U.S. House,19,,Blank,3
 Delaware,WALTON 4,U.S. House,19,,Blank,5
 Delaware,WALTON 5,U.S. House,19,,Blank,4
-Delaware,TOTAL,U.S. House,19,,Blank,296
 Delaware,COLCHESTER 1,State Senate,42,REP,John Bonacic,203
 Delaware,COLCHESTER 2,State Senate,42,REP,John Bonacic,91
 Delaware,COLCHESTER 3,State Senate,42,REP,John Bonacic,65
@@ -1897,7 +1864,6 @@ Delaware,WALTON 2,State Senate,42,REP,John Bonacic,169
 Delaware,WALTON 3,State Senate,42,REP,John Bonacic,154
 Delaware,WALTON 4,State Senate,42,REP,John Bonacic,197
 Delaware,WALTON 5,State Senate,42,REP,John Bonacic,246
-Delaware,TOTAL,State Senate,42,REP,John Bonacic,2869
 Delaware,COLCHESTER 1,State Senate,42,CON,John Bonacic,21
 Delaware,COLCHESTER 2,State Senate,42,CON,John Bonacic,9
 Delaware,COLCHESTER 3,State Senate,42,CON,John Bonacic,9
@@ -1915,7 +1881,6 @@ Delaware,WALTON 2,State Senate,42,CON,John Bonacic,18
 Delaware,WALTON 3,State Senate,42,CON,John Bonacic,23
 Delaware,WALTON 4,State Senate,42,CON,John Bonacic,20
 Delaware,WALTON 5,State Senate,42,CON,John Bonacic,17
-Delaware,TOTAL,State Senate,42,CON,John Bonacic,314
 Delaware,COLCHESTER 1,State Senate,42,IND,John Bonacic,10
 Delaware,COLCHESTER 2,State Senate,42,IND,John Bonacic,8
 Delaware,COLCHESTER 3,State Senate,42,IND,John Bonacic,8
@@ -1933,7 +1898,6 @@ Delaware,WALTON 2,State Senate,42,IND,John Bonacic,18
 Delaware,WALTON 3,State Senate,42,IND,John Bonacic,18
 Delaware,WALTON 4,State Senate,42,IND,John Bonacic,21
 Delaware,WALTON 5,State Senate,42,IND,John Bonacic,12
-Delaware,TOTAL,State Senate,42,IND,John Bonacic,327
 Delaware,COLCHESTER 1,State Senate,42,,Blank,50
 Delaware,COLCHESTER 2,State Senate,42,,Blank,25
 Delaware,COLCHESTER 3,State Senate,42,,Blank,25
@@ -1951,7 +1915,6 @@ Delaware,WALTON 2,State Senate,42,,Blank,35
 Delaware,WALTON 3,State Senate,42,,Blank,34
 Delaware,WALTON 4,State Senate,42,,Blank,44
 Delaware,WALTON 5,State Senate,42,,Blank,33
-Delaware,TOTAL,State Senate,42,,Blank,732
 Delaware,ANDES 1,State Senate,51,REP,John L. Seward,211
 Delaware,ANDES 2,State Senate,51,REP,John L. Seward,110
 Delaware,BOVINA 1,State Senate,51,REP,John L. Seward,165
@@ -1983,7 +1946,6 @@ Delaware,SIDNEY 6,State Senate,51,REP,John L. Seward,177
 Delaware,SIDNEY 7,State Senate,51,REP,John L. Seward,111
 Delaware,STAMFORD 1,State Senate,51,REP,John L. Seward,214
 Delaware,STAMFORD 2,State Senate,51,REP,John L. Seward,136
-Delaware,TOTAL,State Senate,51,REP,John L. Seward,4742
 Delaware,ANDES 1,State Senate,51,CON,John L. Seward,27
 Delaware,ANDES 2,State Senate,51,CON,John L. Seward,13
 Delaware,BOVINA 1,State Senate,51,CON,John L. Seward,22
@@ -2015,7 +1977,6 @@ Delaware,SIDNEY 6,State Senate,51,CON,John L. Seward,10
 Delaware,SIDNEY 7,State Senate,51,CON,John L. Seward,12
 Delaware,STAMFORD 1,State Senate,51,CON,John L. Seward,35
 Delaware,STAMFORD 2,State Senate,51,CON,John L. Seward,25
-Delaware,TOTAL,State Senate,51,CON,John L. Seward,635
 Delaware,ANDES 1,State Senate,51,IND,John L. Seward,30
 Delaware,ANDES 2,State Senate,51,IND,John L. Seward,14
 Delaware,BOVINA 1,State Senate,51,IND,John L. Seward,25
@@ -2047,7 +2008,6 @@ Delaware,SIDNEY 6,State Senate,51,IND,John L. Seward,27
 Delaware,SIDNEY 7,State Senate,51,IND,John L. Seward,22
 Delaware,STAMFORD 1,State Senate,51,IND,John L. Seward,32
 Delaware,STAMFORD 2,State Senate,51,IND,John L. Seward,27
-Delaware,TOTAL,State Senate,51,IND,John L. Seward,700
 Delaware,ANDES 1,State Senate,51,,Blank,105
 Delaware,ANDES 2,State Senate,51,,Blank,39
 Delaware,BOVINA 1,State Senate,51,,Blank,81
@@ -2079,7 +2039,6 @@ Delaware,SIDNEY 6,State Senate,51,,Blank,43
 Delaware,SIDNEY 7,State Senate,51,,Blank,36
 Delaware,STAMFORD 1,State Senate,51,,Blank,35
 Delaware,STAMFORD 2,State Senate,51,,Blank,48
-Delaware,TOTAL,State Senate,51,,Blank,1572
 Delaware,DEPOSIT 1,State Senate,52,DEM,Anndrea L. Starzak,39
 Delaware,DEPOSIT 2,State Senate,52,DEM,Anndrea L. Starzak,21
 Delaware,HANCOCK 1,State Senate,52,DEM,Anndrea L. Starzak,39
@@ -2088,7 +2047,6 @@ Delaware,HANCOCK 3,State Senate,52,DEM,Anndrea L. Starzak,57
 Delaware,HANCOCK 4,State Senate,52,DEM,Anndrea L. Starzak,10
 Delaware,HANCOCK 5,State Senate,52,DEM,Anndrea L. Starzak,21
 Delaware,HANCOCK 6,State Senate,52,DEM,Anndrea L. Starzak,21
-Delaware,TOTAL,State Senate,52,DEM,Anndrea L. Starzak,222
 Delaware,DEPOSIT 1,State Senate,52,REP,Thomas W. Libous,199
 Delaware,DEPOSIT 2,State Senate,52,REP,Thomas W. Libous,82
 Delaware,HANCOCK 1,State Senate,52,REP,Thomas W. Libous,99
@@ -2097,7 +2055,6 @@ Delaware,HANCOCK 3,State Senate,52,REP,Thomas W. Libous,124
 Delaware,HANCOCK 4,State Senate,52,REP,Thomas W. Libous,82
 Delaware,HANCOCK 5,State Senate,52,REP,Thomas W. Libous,43
 Delaware,HANCOCK 6,State Senate,52,REP,Thomas W. Libous,79
-Delaware,TOTAL,State Senate,52,REP,Thomas W. Libous,768
 Delaware,DEPOSIT 1,State Senate,52,CON,Thomas W. Libous,12
 Delaware,DEPOSIT 2,State Senate,52,CON,Thomas W. Libous,10
 Delaware,HANCOCK 1,State Senate,52,CON,Thomas W. Libous,9
@@ -2106,7 +2063,6 @@ Delaware,HANCOCK 3,State Senate,52,CON,Thomas W. Libous,9
 Delaware,HANCOCK 4,State Senate,52,CON,Thomas W. Libous,4
 Delaware,HANCOCK 5,State Senate,52,CON,Thomas W. Libous,2
 Delaware,HANCOCK 6,State Senate,52,CON,Thomas W. Libous,3
-Delaware,TOTAL,State Senate,52,CON,Thomas W. Libous,51
 Delaware,DEPOSIT 1,State Senate,52,WF,Anndrea L. Starzak,9
 Delaware,DEPOSIT 2,State Senate,52,WF,Anndrea L. Starzak,5
 Delaware,HANCOCK 1,State Senate,52,WF,Anndrea L. Starzak,1
@@ -2115,7 +2071,6 @@ Delaware,HANCOCK 3,State Senate,52,WF,Anndrea L. Starzak,5
 Delaware,HANCOCK 4,State Senate,52,WF,Anndrea L. Starzak,4
 Delaware,HANCOCK 5,State Senate,52,WF,Anndrea L. Starzak,1
 Delaware,HANCOCK 6,State Senate,52,WF,Anndrea L. Starzak,9
-Delaware,TOTAL,State Senate,52,WF,Anndrea L. Starzak,38
 Delaware,DEPOSIT 1,State Senate,52,IND,Thomas W. Libous,10
 Delaware,DEPOSIT 2,State Senate,52,IND,Thomas W. Libous,4
 Delaware,HANCOCK 1,State Senate,52,IND,Thomas W. Libous,2
@@ -2124,7 +2079,6 @@ Delaware,HANCOCK 3,State Senate,52,IND,Thomas W. Libous,3
 Delaware,HANCOCK 4,State Senate,52,IND,Thomas W. Libous,4
 Delaware,HANCOCK 5,State Senate,52,IND,Thomas W. Libous,3
 Delaware,HANCOCK 6,State Senate,52,IND,Thomas W. Libous,3
-Delaware,TOTAL,State Senate,52,IND,Thomas W. Libous,33
 Delaware,DEPOSIT 1,State Senate,52,,Blank,8
 Delaware,DEPOSIT 2,State Senate,52,,Blank,9
 Delaware,HANCOCK 1,State Senate,52,,Blank,8
@@ -2133,7 +2087,6 @@ Delaware,HANCOCK 3,State Senate,52,,Blank,10
 Delaware,HANCOCK 4,State Senate,52,,Blank,3
 Delaware,HANCOCK 5,State Senate,52,,Blank,3
 Delaware,HANCOCK 6,State Senate,52,,Blank,4
-Delaware,TOTAL,State Senate,52,,Blank,49
 Delaware,ANDES 1,State Senate,101,REP,Claudia Tenney,194
 Delaware,ANDES 2,State Senate,101,REP,Claudia Tenney,100
 Delaware,BOVINA 1,State Senate,101,REP,Claudia Tenney,162
@@ -2146,7 +2099,6 @@ Delaware,DELHI 4,State Senate,101,REP,Claudia Tenney,125
 Delaware,HAMDEN 1,State Senate,101,REP,Claudia Tenney,253
 Delaware,MEREDITH 1,State Senate,101,REP,Claudia Tenney,210
 Delaware,MEREDITH 2,State Senate,101,REP,Claudia Tenney,91
-Delaware,TOTAL,State Senate,101,REP,Claudia Tenney,2094
 Delaware,ANDES 1,State Senate,101,CON,Claudia Tenney,33
 Delaware,ANDES 2,State Senate,101,CON,Claudia Tenney,15
 Delaware,BOVINA 1,State Senate,101,CON,Claudia Tenney,27
@@ -2159,7 +2111,6 @@ Delaware,DELHI 4,State Senate,101,CON,Claudia Tenney,15
 Delaware,HAMDEN 1,State Senate,101,CON,Claudia Tenney,39
 Delaware,MEREDITH 1,State Senate,101,CON,Claudia Tenney,31
 Delaware,MEREDITH 2,State Senate,101,CON,Claudia Tenney,27
-Delaware,TOTAL,State Senate,101,CON,Claudia Tenney,336
 Delaware,ANDES 1,State Senate,101,IND,Christopher P. Farber,46
 Delaware,ANDES 2,State Senate,101,IND,Christopher P. Farber,18
 Delaware,BOVINA 1,State Senate,101,IND,Christopher P. Farber,37
@@ -2172,7 +2123,6 @@ Delaware,DELHI 4,State Senate,101,IND,Christopher P. Farber,59
 Delaware,HAMDEN 1,State Senate,101,IND,Christopher P. Farber,64
 Delaware,MEREDITH 1,State Senate,101,IND,Christopher P. Farber,45
 Delaware,MEREDITH 2,State Senate,101,IND,Christopher P. Farber,27
-Delaware,TOTAL,State Senate,101,IND,Christopher P. Farber,523
 Delaware,ANDES 1,State Senate,101,,Blank,100
 Delaware,ANDES 2,State Senate,101,,Blank,43
 Delaware,BOVINA 1,State Senate,101,,Blank,67
@@ -2185,7 +2135,6 @@ Delaware,DELHI 4,State Senate,101,,Blank,52
 Delaware,HAMDEN 1,State Senate,101,,Blank,63
 Delaware,MEREDITH 1,State Senate,101,,Blank,65
 Delaware,MEREDITH 2,State Senate,101,,Blank,33
-Delaware,TOTAL,State Senate,101,,Blank,643
 Delaware,HARPERSFIELD 1,State Senate,102,REP,Peter D. Lopez,285
 Delaware,KORTRIGHT 1,State Senate,102,REP,Peter D. Lopez,143
 Delaware,KORTRIGHT 2,State Senate,102,REP,Peter D. Lopez,201
@@ -2200,7 +2149,6 @@ Delaware,ROXBURY 3,State Senate,102,REP,Peter D. Lopez,133
 Delaware,ROXBURY 4,State Senate,102,REP,Peter D. Lopez,116
 Delaware,STAMFORD 1,State Senate,102,REP,Peter D. Lopez,211
 Delaware,STAMFORD 2,State Senate,102,REP,Peter D. Lopez,141
-Delaware,TOTAL,State Senate,102,REP,Peter D. Lopez,1999
 Delaware,HARPERSFIELD 1,State Senate,102,CON,Peter D. Lopez,47
 Delaware,KORTRIGHT 1,State Senate,102,CON,Peter D. Lopez,23
 Delaware,KORTRIGHT 2,State Senate,102,CON,Peter D. Lopez,20
@@ -2215,7 +2163,6 @@ Delaware,ROXBURY 3,State Senate,102,CON,Peter D. Lopez,16
 Delaware,ROXBURY 4,State Senate,102,CON,Peter D. Lopez,18
 Delaware,STAMFORD 1,State Senate,102,CON,Peter D. Lopez,36
 Delaware,STAMFORD 2,State Senate,102,CON,Peter D. Lopez,27
-Delaware,TOTAL,State Senate,102,CON,Peter D. Lopez,323
 Delaware,HARPERSFIELD 1,State Senate,102,IND,Peter D. Lopez,44
 Delaware,KORTRIGHT 1,State Senate,102,IND,Peter D. Lopez,16
 Delaware,KORTRIGHT 2,State Senate,102,IND,Peter D. Lopez,19
@@ -2230,7 +2177,6 @@ Delaware,ROXBURY 3,State Senate,102,IND,Peter D. Lopez,17
 Delaware,ROXBURY 4,State Senate,102,IND,Peter D. Lopez,16
 Delaware,STAMFORD 1,State Senate,102,IND,Peter D. Lopez,31
 Delaware,STAMFORD 2,State Senate,102,IND,Peter D. Lopez,24
-Delaware,TOTAL,State Senate,102,IND,Peter D. Lopez,330
 Delaware,HARPERSFIELD 1,State Senate,102,,Blank,70
 Delaware,KORTRIGHT 1,State Senate,102,,Blank,45
 Delaware,KORTRIGHT 2,State Senate,102,,Blank,46
@@ -2245,7 +2191,6 @@ Delaware,ROXBURY 3,State Senate,102,,Blank,44
 Delaware,ROXBURY 4,State Senate,102,,Blank,59
 Delaware,STAMFORD 1,State Senate,102,,Blank,38
 Delaware,STAMFORD 2,State Senate,102,,Blank,44
-Delaware,TOTAL,State Senate,102,,Blank,695
 Delaware,COLCHESTER 1,State Senate,122,REP,Clifford Crouch,231
 Delaware,COLCHESTER 2,State Senate,122,REP,Clifford Crouch,99
 Delaware,COLCHESTER 3,State Senate,122,REP,Clifford Crouch,79
@@ -2276,7 +2221,6 @@ Delaware,WALTON 2,State Senate,122,REP,Clifford Crouch,202
 Delaware,WALTON 3,State Senate,122,REP,Clifford Crouch,191
 Delaware,WALTON 4,State Senate,122,REP,Clifford Crouch,228
 Delaware,WALTON 5,State Senate,122,REP,Clifford Crouch,279
-Delaware,TOTAL,State Senate,122,REP,Clifford Crouch,5007
 Delaware,COLCHESTER 1,State Senate,122,,Blank,53
 Delaware,COLCHESTER 2,State Senate,122,,Blank,34
 Delaware,COLCHESTER 3,State Senate,122,,Blank,28
@@ -2307,4 +2251,3 @@ Delaware,WALTON 2,State Senate,122,,Blank,38
 Delaware,WALTON 3,State Senate,122,,Blank,38
 Delaware,WALTON 4,State Senate,122,,Blank,54
 Delaware,WALTON 5,State Senate,122,,Blank,29
-Delaware,TOTAL,State Senate,122,,Blank,1102
