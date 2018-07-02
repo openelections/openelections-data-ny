@@ -1,417 +1,417 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Columbia,Stockport-1,State House,102,,Blanks,152,133,19
-Columbia,Stockport-2,State House,102,,Blanks,187,165,22
-Columbia,Stuyvesant-1,State House,102,,Blanks,143,135,8
-Columbia,Stuyvesant-2,State House,102,,Blanks,208,177,31
-Columbia,Stockport-1,State House,102,Republican,PETER D LOPEZ,341,329,12
-Columbia,Stockport-1,State House,102,Conservative,PETER D LOPEZ,48,42,6
-Columbia,Stockport-1,State House,102,Independence,PETER D LOPEZ,49,46,3
-Columbia,Stockport-1,State House,102,Reform Party,PETER D LOPEZ,8,7,1
-Columbia,Stockport-2,State House,102,Republican,PETER D LOPEZ,318,298,20
-Columbia,Stockport-2,State House,102,Conservative,PETER D LOPEZ,52,52,0
-Columbia,Stockport-2,State House,102,Independence,PETER D LOPEZ,45,44,1
-Columbia,Stockport-2,State House,102,Reform Party,PETER D LOPEZ,3,2,1
-Columbia,Stuyvesant-1,State House,102,Republican,PETER D LOPEZ,221,206,15
-Columbia,Stuyvesant-1,State House,102,Conservative,PETER D LOPEZ,49,47,2
-Columbia,Stuyvesant-1,State House,102,Independence,PETER D LOPEZ,50,49,1
-Columbia,Stuyvesant-1,State House,102,Reform Party,PETER D LOPEZ,2,2,0
-Columbia,Stuyvesant-2,State House,102,Republican,PETER D LOPEZ,254,238,16
-Columbia,Stuyvesant-2,State House,102,Conservative,PETER D LOPEZ,47,42,5
-Columbia,Stuyvesant-2,State House,102,Independence,PETER D LOPEZ,49,47,2
-Columbia,Stuyvesant-2,State House,102,Reform Party,PETER D LOPEZ,10,9,1
-Columbia,Stockport-1,State House,102,,Scatterings,1,1,0
-Columbia,Stockport-2,State House,102,,Scatterings,2,2,0
-Columbia,Stuyvesant-1,State House,102,,Scatterings,1,1,0
-Columbia,Stuyvesant-2,State House,102,,Scatterings,2,1,1
-Columbia,Stockport-1,State House,102,,Voids,0,0,0
-Columbia,Stockport-2,State House,102,,Voids,0,0,0
-Columbia,Stuyvesant-1,State House,102,,Voids,0,0,0
-Columbia,Stuyvesant-2,State House,102,,Voids,0,0,0
-Columbia,Ancram-1,State House,106,,Blanks,38,30,8
-Columbia,Ancram-2,State House,106,,Blanks,18,10,8
-Columbia,Clermont-1,State House,106,,Blanks,71,57,14
-Columbia,Copake-1,State House,106,,Blanks,45,25,20
-Columbia,Copake-2,State House,106,,Blanks,28,22,6
-Columbia,Gallatin-1,State House,106,,Blanks,44,39,5
-Columbia,Germantown-1,State House,106,,Blanks,35,30,5
-Columbia,Germantown-2,State House,106,,Blanks,27,25,2
-Columbia,Ghent-1,State House,106,,Blanks,77,57,20
-Columbia,Ghent-2,State House,106,,Blanks,54,44,10
-Columbia,Ghent-3,State House,106,,Blanks,37,34,3
-Columbia,Livingston-1,State House,106,,Blanks,65,60,5
-Columbia,Livingston-2,State House,106,,Blanks,50,42,8
-Columbia,Taghkanic-1,State House,106,,Blanks,55,51,4
-Columbia,Claverack-1,State House,106,,Blanks,38,36,2
-Columbia,Claverack-2,State House,106,,Blanks,38,28,10
-Columbia,Claverack-3,State House,106,,Blanks,40,32,8
-Columbia,Claverack-4,State House,106,,Blanks,55,47,8
-Columbia,Claverack-5,State House,106,,Blanks,19,15,4
-Columbia,Greenport-1,State House,106,,Blanks,57,53,4
-Columbia,Greenport-2,State House,106,,Blanks,44,37,7
-Columbia,Greenport-3,State House,106,,Blanks,46,40,6
-Columbia,Hudson 1-1,State House,106,,Blanks,20,15,5
-Columbia,Hudson 2-1,State House,106,,Blanks,34,29,5
-Columbia,Hudson 3-1,State House,106,,Blanks,32,28,4
-Columbia,Hudson 4-1,State House,106,,Blanks,26,19,7
-Columbia,Hudson 5-1,State House,106,,Blanks,32,22,10
-Columbia,Hudson 5-2,State House,106,,Blanks,25,22,3
-Columbia,Ancram-1,State House,106,Democratic,DIDI BARRETT,180,147,33
-Columbia,Ancram-1,State House,106,Independence,DIDI BARRETT,15,14,1
-Columbia,Ancram-1,State House,106,Working Families,DIDI BARRETT,15,14,1
-Columbia,Ancram-2,State House,106,Democratic,DIDI BARRETT,149,121,28
-Columbia,Ancram-2,State House,106,Independence,DIDI BARRETT,7,5,2
-Columbia,Ancram-2,State House,106,Working Families,DIDI BARRETT,16,14,2
-Columbia,Clermont-1,State House,106,Democratic,DIDI BARRETT,369,334,35
-Columbia,Clermont-1,State House,106,Independence,DIDI BARRETT,23,22,1
-Columbia,Clermont-1,State House,106,Working Families,DIDI BARRETT,28,26,2
-Columbia,Copake-1,State House,106,Democratic,DIDI BARRETT,385,302,83
-Columbia,Copake-1,State House,106,Independence,DIDI BARRETT,26,23,3
-Columbia,Copake-1,State House,106,Working Families,DIDI BARRETT,24,23,1
-Columbia,Copake-2,State House,106,Democratic,DIDI BARRETT,333,270,63
-Columbia,Copake-2,State House,106,Independence,DIDI BARRETT,20,18,2
-Columbia,Copake-2,State House,106,Working Families,DIDI BARRETT,31,26,5
-Columbia,Gallatin-1,State House,106,Democratic,DIDI BARRETT,318,279,39
-Columbia,Gallatin-1,State House,106,Independence,DIDI BARRETT,18,17,1
-Columbia,Gallatin-1,State House,106,Working Families,DIDI BARRETT,31,27,4
-Columbia,Germantown-1,State House,106,Democratic,DIDI BARRETT,264,237,27
-Columbia,Germantown-1,State House,106,Independence,DIDI BARRETT,8,8,0
-Columbia,Germantown-1,State House,106,Working Families,DIDI BARRETT,35,28,7
-Columbia,Germantown-2,State House,106,Democratic,DIDI BARRETT,242,209,33
-Columbia,Germantown-2,State House,106,Independence,DIDI BARRETT,12,12,0
-Columbia,Germantown-2,State House,106,Working Families,DIDI BARRETT,19,16,3
-Columbia,Ghent-1,State House,106,Democratic,DIDI BARRETT,396,349,47
-Columbia,Ghent-1,State House,106,Independence,DIDI BARRETT,29,26,3
-Columbia,Ghent-1,State House,106,Working Families,DIDI BARRETT,50,47,3
-Columbia,Ghent-2,State House,106,Democratic,DIDI BARRETT,447,378,69
-Columbia,Ghent-2,State House,106,Independence,DIDI BARRETT,36,29,7
-Columbia,Ghent-2,State House,106,Working Families,DIDI BARRETT,44,38,6
-Columbia,Ghent-3,State House,106,Democratic,DIDI BARRETT,402,326,76
-Columbia,Ghent-3,State House,106,Independence,DIDI BARRETT,24,23,1
-Columbia,Ghent-3,State House,106,Working Families,DIDI BARRETT,33,29,4
-Columbia,Livingston-1,State House,106,Democratic,DIDI BARRETT,339,311,28
-Columbia,Livingston-1,State House,106,Independence,DIDI BARRETT,29,28,1
-Columbia,Livingston-1,State House,106,Working Families,DIDI BARRETT,48,39,9
-Columbia,Livingston-2,State House,106,Democratic,DIDI BARRETT,237,209,28
-Columbia,Livingston-2,State House,106,Independence,DIDI BARRETT,18,17,1
-Columbia,Livingston-2,State House,106,Working Families,DIDI BARRETT,32,32,0
-Columbia,Taghkanic-1,State House,106,Democratic,DIDI BARRETT,323,243,80
-Columbia,Taghkanic-1,State House,106,Independence,DIDI BARRETT,20,19,1
-Columbia,Taghkanic-1,State House,106,Working Families,DIDI BARRETT,27,21,6
-Columbia,Claverack-1,State House,106,Democratic,DIDI BARRETT,221,190,31
-Columbia,Claverack-1,State House,106,Independence,DIDI BARRETT,20,20,0
-Columbia,Claverack-1,State House,106,Working Families,DIDI BARRETT,16,15,1
-Columbia,Claverack-2,State House,106,Democratic,DIDI BARRETT,278,233,45
-Columbia,Claverack-2,State House,106,Independence,DIDI BARRETT,24,20,4
-Columbia,Claverack-2,State House,106,Working Families,DIDI BARRETT,26,20,6
-Columbia,Claverack-3,State House,106,Democratic,DIDI BARRETT,250,218,32
-Columbia,Claverack-3,State House,106,Independence,DIDI BARRETT,24,24,0
-Columbia,Claverack-3,State House,106,Working Families,DIDI BARRETT,18,15,3
-Columbia,Claverack-4,State House,106,Democratic,DIDI BARRETT,288,246,42
-Columbia,Claverack-4,State House,106,Independence,DIDI BARRETT,25,23,2
-Columbia,Claverack-4,State House,106,Working Families,DIDI BARRETT,33,31,2
-Columbia,Claverack-5,State House,106,Democratic,DIDI BARRETT,134,117,17
-Columbia,Claverack-5,State House,106,Independence,DIDI BARRETT,13,11,2
-Columbia,Claverack-5,State House,106,Working Families,DIDI BARRETT,15,13,2
-Columbia,Greenport-1,State House,106,Democratic,DIDI BARRETT,297,274,23
-Columbia,Greenport-1,State House,106,Independence,DIDI BARRETT,21,18,3
-Columbia,Greenport-1,State House,106,Working Families,DIDI BARRETT,22,21,1
-Columbia,Greenport-2,State House,106,Democratic,DIDI BARRETT,255,209,46
-Columbia,Greenport-2,State House,106,Independence,DIDI BARRETT,18,16,2
-Columbia,Greenport-2,State House,106,Working Families,DIDI BARRETT,26,25,1
-Columbia,Greenport-3,State House,106,Democratic,DIDI BARRETT,289,263,26
-Columbia,Greenport-3,State House,106,Independence,DIDI BARRETT,32,27,5
-Columbia,Greenport-3,State House,106,Working Families,DIDI BARRETT,22,22,0
-Columbia,Hudson 1-1,State House,106,Democratic,DIDI BARRETT,204,183,21
-Columbia,Hudson 1-1,State House,106,Independence,DIDI BARRETT,4,3,1
-Columbia,Hudson 1-1,State House,106,Working Families,DIDI BARRETT,22,22,0
-Columbia,Hudson 2-1,State House,106,Democratic,DIDI BARRETT,368,320,48
-Columbia,Hudson 2-1,State House,106,Independence,DIDI BARRETT,8,8,0
-Columbia,Hudson 2-1,State House,106,Working Families,DIDI BARRETT,20,18,2
-Columbia,Hudson 3-1,State House,106,Democratic,DIDI BARRETT,399,331,68
-Columbia,Hudson 3-1,State House,106,Independence,DIDI BARRETT,12,9,3
-Columbia,Hudson 3-1,State House,106,Working Families,DIDI BARRETT,37,34,3
-Columbia,Hudson 4-1,State House,106,Democratic,DIDI BARRETT,269,208,61
-Columbia,Hudson 4-1,State House,106,Independence,DIDI BARRETT,15,13,2
-Columbia,Hudson 4-1,State House,106,Working Families,DIDI BARRETT,26,23,3
-Columbia,Hudson 5-1,State House,106,Democratic,DIDI BARRETT,305,268,37
-Columbia,Hudson 5-1,State House,106,Independence,DIDI BARRETT,22,18,4
-Columbia,Hudson 5-1,State House,106,Working Families,DIDI BARRETT,36,27,9
-Columbia,Hudson 5-2,State House,106,Democratic,DIDI BARRETT,287,260,27
-Columbia,Hudson 5-2,State House,106,Independence,DIDI BARRETT,18,16,2
-Columbia,Hudson 5-2,State House,106,Working Families,DIDI BARRETT,25,19,6
-Columbia,Ancram-1,State House,106,,Scatterings,0,0,0
-Columbia,Ancram-2,State House,106,,Scatterings,0,0,0
-Columbia,Clermont-1,State House,106,,Scatterings,1,1,0
-Columbia,Copake-1,State House,106,,Scatterings,0,0,0
-Columbia,Copake-2,State House,106,,Scatterings,0,0,0
-Columbia,Gallatin-1,State House,106,,Scatterings,1,1,0
-Columbia,Germantown-1,State House,106,,Scatterings,0,0,0
-Columbia,Germantown-2,State House,106,,Scatterings,0,0,0
-Columbia,Ghent-1,State House,106,,Scatterings,0,0,0
-Columbia,Ghent-2,State House,106,,Scatterings,3,3,0
-Columbia,Ghent-3,State House,106,,Scatterings,0,0,0
-Columbia,Livingston-1,State House,106,,Scatterings,0,0,0
-Columbia,Livingston-2,State House,106,,Scatterings,0,0,0
-Columbia,Taghkanic-1,State House,106,,Scatterings,0,0,0
-Columbia,Claverack-1,State House,106,,Scatterings,1,1,0
-Columbia,Claverack-2,State House,106,,Scatterings,0,0,0
-Columbia,Claverack-3,State House,106,,Scatterings,0,0,0
-Columbia,Claverack-4,State House,106,,Scatterings,1,1,0
-Columbia,Claverack-5,State House,106,,Scatterings,0,0,0
-Columbia,Greenport-1,State House,106,,Scatterings,0,0,0
-Columbia,Greenport-2,State House,106,,Scatterings,1,1,0
-Columbia,Greenport-3,State House,106,,Scatterings,0,0,0
-Columbia,Hudson 1-1,State House,106,,Scatterings,0,0,0
-Columbia,Hudson 2-1,State House,106,,Scatterings,0,0,0
-Columbia,Hudson 3-1,State House,106,,Scatterings,0,0,0
-Columbia,Hudson 4-1,State House,106,,Scatterings,0,0,0
-Columbia,Hudson 5-1,State House,106,,Scatterings,0,0,0
-Columbia,Hudson 5-2,State House,106,,Scatterings,0,0,0
-Columbia,Ancram-1,State House,106,Republican,TERRY SULLIVAN,110,102,8
-Columbia,Ancram-1,State House,106,Conservative,TERRY SULLIVAN,27,25,2
-Columbia,Ancram-1,State House,106,Reform Party,TERRY SULLIVAN,1,1,0
-Columbia,Ancram-2,State House,106,Republican,TERRY SULLIVAN,134,128,6
-Columbia,Ancram-2,State House,106,Conservative,TERRY SULLIVAN,16,15,1
-Columbia,Ancram-2,State House,106,Reform Party,TERRY SULLIVAN,0,0,0
-Columbia,Clermont-1,State House,106,Reform Party,TERRY SULLIVAN,5,5,0
-Columbia,Clermont-1,State House,106,Republican,TERRY SULLIVAN,366,350,16
-Columbia,Clermont-1,State House,106,Conservative,TERRY SULLIVAN,65,62,3
-Columbia,Copake-1,State House,106,Reform Party,TERRY SULLIVAN,3,3,0
-Columbia,Copake-1,State House,106,Republican,TERRY SULLIVAN,301,282,19
-Columbia,Copake-1,State House,106,Conservative,TERRY SULLIVAN,56,50,6
-Columbia,Copake-2,State House,106,Reform Party,TERRY SULLIVAN,6,6,0
-Columbia,Copake-2,State House,106,Republican,TERRY SULLIVAN,320,290,30
-Columbia,Copake-2,State House,106,Conservative,TERRY SULLIVAN,56,55,1
-Columbia,Gallatin-1,State House,106,Reform Party,TERRY SULLIVAN,1,1,0
-Columbia,Gallatin-1,State House,106,Republican,TERRY SULLIVAN,294,276,18
-Columbia,Gallatin-1,State House,106,Conservative,TERRY SULLIVAN,40,40,0
-Columbia,Germantown-1,State House,106,Reform Party,TERRY SULLIVAN,1,1,0
-Columbia,Germantown-1,State House,106,Republican,TERRY SULLIVAN,219,206,13
-Columbia,Germantown-1,State House,106,Conservative,TERRY SULLIVAN,19,18,1
-Columbia,Germantown-2,State House,106,Reform Party,TERRY SULLIVAN,2,2,0
-Columbia,Germantown-2,State House,106,Republican,TERRY SULLIVAN,160,149,11
-Columbia,Germantown-2,State House,106,Conservative,TERRY SULLIVAN,33,33,0
-Columbia,Ghent-1,State House,106,Reform Party,TERRY SULLIVAN,8,8,0
-Columbia,Ghent-1,State House,106,Republican,TERRY SULLIVAN,243,232,11
-Columbia,Ghent-1,State House,106,Conservative,TERRY SULLIVAN,51,48,3
-Columbia,Ghent-2,State House,106,Reform Party,TERRY SULLIVAN,3,3,0
-Columbia,Ghent-2,State House,106,Republican,TERRY SULLIVAN,334,318,16
-Columbia,Ghent-2,State House,106,Conservative,TERRY SULLIVAN,62,60,2
-Columbia,Ghent-3,State House,106,Reform Party,TERRY SULLIVAN,11,11,0
-Columbia,Ghent-3,State House,106,Republican,TERRY SULLIVAN,345,311,34
-Columbia,Ghent-3,State House,106,Conservative,TERRY SULLIVAN,69,67,2
-Columbia,Livingston-1,State House,106,Reform Party,TERRY SULLIVAN,4,3,1
-Columbia,Livingston-1,State House,106,Republican,TERRY SULLIVAN,407,387,20
-Columbia,Livingston-1,State House,106,Conservative,TERRY SULLIVAN,68,62,6
-Columbia,Livingston-2,State House,106,Reform Party,TERRY SULLIVAN,4,4,0
-Columbia,Livingston-2,State House,106,Republican,TERRY SULLIVAN,277,259,18
-Columbia,Livingston-2,State House,106,Conservative,TERRY SULLIVAN,53,48,5
-Columbia,Taghkanic-1,State House,106,Reform Party,TERRY SULLIVAN,6,5,1
-Columbia,Taghkanic-1,State House,106,Republican,TERRY SULLIVAN,224,208,16
-Columbia,Taghkanic-1,State House,106,Conservative,TERRY SULLIVAN,41,39,2
-Columbia,Claverack-1,State House,106,Reform Party,TERRY SULLIVAN,2,2,0
-Columbia,Claverack-1,State House,106,Republican,TERRY SULLIVAN,217,203,14
-Columbia,Claverack-1,State House,106,Conservative,TERRY SULLIVAN,32,26,6
-Columbia,Claverack-2,State House,106,Reform Party,TERRY SULLIVAN,3,3,0
-Columbia,Claverack-2,State House,106,Republican,TERRY SULLIVAN,258,235,23
-Columbia,Claverack-2,State House,106,Conservative,TERRY SULLIVAN,45,43,2
-Columbia,Claverack-3,State House,106,Reform Party,TERRY SULLIVAN,3,3,0
-Columbia,Claverack-3,State House,106,Republican,TERRY SULLIVAN,209,190,19
-Columbia,Claverack-3,State House,106,Conservative,TERRY SULLIVAN,38,37,1
-Columbia,Claverack-4,State House,106,Reform Party,TERRY SULLIVAN,4,4,0
-Columbia,Claverack-4,State House,106,Republican,TERRY SULLIVAN,252,234,18
-Columbia,Claverack-4,State House,106,Conservative,TERRY SULLIVAN,53,50,3
-Columbia,Claverack-5,State House,106,Reform Party,TERRY SULLIVAN,0,0,0
-Columbia,Claverack-5,State House,106,Republican,TERRY SULLIVAN,172,162,10
-Columbia,Claverack-5,State House,106,Conservative,TERRY SULLIVAN,18,18,0
-Columbia,Greenport-1,State House,106,Reform Party,TERRY SULLIVAN,2,1,1
-Columbia,Greenport-1,State House,106,Republican,TERRY SULLIVAN,244,226,18
-Columbia,Greenport-1,State House,106,Conservative,TERRY SULLIVAN,39,37,2
-Columbia,Greenport-2,State House,106,Reform Party,TERRY SULLIVAN,1,1,0
-Columbia,Greenport-2,State House,106,Republican,TERRY SULLIVAN,158,149,9
-Columbia,Greenport-2,State House,106,Conservative,TERRY SULLIVAN,22,19,3
-Columbia,Greenport-3,State House,106,Reform Party,TERRY SULLIVAN,8,5,3
-Columbia,Greenport-3,State House,106,Republican,TERRY SULLIVAN,253,227,26
-Columbia,Greenport-3,State House,106,Conservative,TERRY SULLIVAN,36,32,4
-Columbia,Hudson 1-1,State House,106,Reform Party,TERRY SULLIVAN,1,1,0
-Columbia,Hudson 1-1,State House,106,Republican,TERRY SULLIVAN,24,22,2
-Columbia,Hudson 1-1,State House,106,Conservative,TERRY SULLIVAN,6,4,2
-Columbia,Hudson 2-1,State House,106,Reform Party,TERRY SULLIVAN,2,2,0
-Columbia,Hudson 2-1,State House,106,Republican,TERRY SULLIVAN,38,33,5
-Columbia,Hudson 2-1,State House,106,Conservative,TERRY SULLIVAN,7,6,1
-Columbia,Hudson 3-1,State House,106,Reform Party,TERRY SULLIVAN,2,2,0
-Columbia,Hudson 3-1,State House,106,Republican,TERRY SULLIVAN,66,62,4
-Columbia,Hudson 3-1,State House,106,Conservative,TERRY SULLIVAN,14,13,1
-Columbia,Hudson 4-1,State House,106,Reform Party,TERRY SULLIVAN,2,1,1
-Columbia,Hudson 4-1,State House,106,Republican,TERRY SULLIVAN,36,25,11
-Columbia,Hudson 4-1,State House,106,Conservative,TERRY SULLIVAN,7,3,4
-Columbia,Hudson 5-1,State House,106,Reform Party,TERRY SULLIVAN,4,4,0
-Columbia,Hudson 5-1,State House,106,Republican,TERRY SULLIVAN,97,91,6
-Columbia,Hudson 5-1,State House,106,Conservative,TERRY SULLIVAN,18,17,1
-Columbia,Hudson 5-2,State House,106,Reform Party,TERRY SULLIVAN,3,3,0
-Columbia,Hudson 5-2,State House,106,Republican,TERRY SULLIVAN,105,97,8
-Columbia,Hudson 5-2,State House,106,Conservative,TERRY SULLIVAN,20,20,0
-Columbia,Ancram-1,State House,106,,Voids,0,0,0
-Columbia,Ancram-2,State House,106,,Voids,3,1,2
-Columbia,Clermont-1,State House,106,,Voids,0,0,0
-Columbia,Copake-1,State House,106,,Voids,0,0,0
-Columbia,Copake-2,State House,106,,Voids,3,2,1
-Columbia,Gallatin-1,State House,106,,Voids,0,0,0
-Columbia,Germantown-1,State House,106,,Voids,0,0,0
-Columbia,Germantown-2,State House,106,,Voids,0,0,0
-Columbia,Ghent-1,State House,106,,Voids,0,0,0
-Columbia,Ghent-2,State House,106,,Voids,0,0,0
-Columbia,Ghent-3,State House,106,,Voids,0,0,0
-Columbia,Livingston-1,State House,106,,Voids,1,0,1
-Columbia,Livingston-2,State House,106,,Voids,0,0,0
-Columbia,Taghkanic-1,State House,106,,Voids,0,0,0
-Columbia,Claverack-1,State House,106,,Voids,2,1,1
-Columbia,Claverack-2,State House,106,,Voids,0,0,0
-Columbia,Claverack-3,State House,106,,Voids,1,1,0
-Columbia,Claverack-4,State House,106,,Voids,0,0,0
-Columbia,Claverack-5,State House,106,,Voids,0,0,0
-Columbia,Greenport-1,State House,106,,Voids,0,0,0
-Columbia,Greenport-2,State House,106,,Voids,0,0,0
-Columbia,Greenport-3,State House,106,,Voids,0,0,0
-Columbia,Hudson 1-1,State House,106,,Voids,0,0,0
-Columbia,Hudson 2-1,State House,106,,Voids,0,0,0
-Columbia,Hudson 3-1,State House,106,,Voids,0,0,0
-Columbia,Hudson 4-1,State House,106,,Voids,1,0,1
-Columbia,Hudson 5-1,State House,106,,Voids,0,0,0
-Columbia,Hudson 5-2,State House,106,,Voids,0,0,0
-Columbia,Austerlitz-1,State House,107,,Blanks,241,194,47
-Columbia,Austerlitz-2,State House,107,,Blanks,241,192,49
-Columbia,Canaan-1,State House,107,,Blanks,243,211,32
-Columbia,Canaan-2,State House,107,,Blanks,170,146,24
-Columbia,Hillsdale-1,State House,107,,Blanks,206,165,41
-Columbia,Hillsdale-2,State House,107,,Blanks,212,172,40
-Columbia,New Lebanon-1,State House,107,,Blanks,215,193,22
-Columbia,New Lebanon-2,State House,107,,Blanks,175,174,1
-Columbia,Chatham-1,State House,107,,Blanks,348,313,35
-Columbia,Chatham-2,State House,107,,Blanks,239,214,25
-Columbia,Chatham-3,State House,107,,Blanks,333,294,39
-Columbia,Kinderhook-1,State House,107,,Blanks,196,173,23
-Columbia,Kinderhook-2,State House,107,,Blanks,174,155,19
-Columbia,Kinderhook-3,State House,107,,Blanks,168,141,27
-Columbia,Kinderhook-4,State House,107,,Blanks,167,164,3
-Columbia,Kinderhook-5,State House,107,,Blanks,228,208,20
-Columbia,Kinderhook-6,State House,107,,Blanks,138,128,10
-Columbia,Kinderhook-7,State House,107,,Blanks,168,153,15
-Columbia,Kinderhook-8,State House,107,,Blanks,170,155,15
-Columbia,Austerlitz-1,State House,107,,Scatterings,3,3,0
-Columbia,Austerlitz-2,State House,107,,Scatterings,4,4,0
-Columbia,Canaan-1,State House,107,,Scatterings,4,0,4
-Columbia,Canaan-2,State House,107,,Scatterings,3,3,0
-Columbia,Hillsdale-1,State House,107,,Scatterings,3,1,2
-Columbia,Hillsdale-2,State House,107,,Scatterings,7,6,1
-Columbia,New Lebanon-1,State House,107,,Scatterings,5,5,0
-Columbia,New Lebanon-2,State House,107,,Scatterings,5,5,0
-Columbia,Chatham-1,State House,107,,Scatterings,1,1,0
-Columbia,Chatham-2,State House,107,,Scatterings,1,1,0
-Columbia,Chatham-3,State House,107,,Scatterings,4,3,1
-Columbia,Kinderhook-1,State House,107,,Scatterings,1,1,0
-Columbia,Kinderhook-2,State House,107,,Scatterings,1,1,0
-Columbia,Kinderhook-3,State House,107,,Scatterings,3,2,1
-Columbia,Kinderhook-4,State House,107,,Scatterings,2,0,2
-Columbia,Kinderhook-5,State House,107,,Scatterings,3,1,2
-Columbia,Kinderhook-6,State House,107,,Scatterings,3,3,0
-Columbia,Kinderhook-7,State House,107,,Scatterings,3,3,0
-Columbia,Kinderhook-8,State House,107,,Scatterings,1,1,0
-Columbia,Austerlitz-1,State House,107,Republican,STEVEN F MCLAUGHLIN,207,192,15
-Columbia,Austerlitz-1,State House,107,Conservative,STEVEN F MCLAUGHLIN,28,25,3
-Columbia,Austerlitz-1,State House,107,Independence,STEVEN F MCLAUGHLIN,40,34,6
-Columbia,Austerlitz-1,State House,107,Reform Party,STEVEN F MCLAUGHLIN,4,3,1
-Columbia,Austerlitz-2,State House,107,Republican,STEVEN F MCLAUGHLIN,150,133,17
-Columbia,Austerlitz-2,State House,107,Conservative,STEVEN F MCLAUGHLIN,28,17,11
-Columbia,Austerlitz-2,State House,107,Independence,STEVEN F MCLAUGHLIN,36,31,5
-Columbia,Austerlitz-2,State House,107,Reform Party,STEVEN F MCLAUGHLIN,1,1,0
-Columbia,Canaan-1,State House,107,Republican,STEVEN F MCLAUGHLIN,152,139,13
-Columbia,Canaan-1,State House,107,Conservative,STEVEN F MCLAUGHLIN,30,28,2
-Columbia,Canaan-1,State House,107,Independence,STEVEN F MCLAUGHLIN,71,61,10
-Columbia,Canaan-1,State House,107,Reform Party,STEVEN F MCLAUGHLIN,8,8,0
-Columbia,Canaan-2,State House,107,Republican,STEVEN F MCLAUGHLIN,191,172,19
-Columbia,Canaan-2,State House,107,Conservative,STEVEN F MCLAUGHLIN,29,27,2
-Columbia,Canaan-2,State House,107,Independence,STEVEN F MCLAUGHLIN,56,53,3
-Columbia,Canaan-2,State House,107,Reform Party,STEVEN F MCLAUGHLIN,7,7,0
-Columbia,Hillsdale-1,State House,107,Republican,STEVEN F MCLAUGHLIN,191,178,13
-Columbia,Hillsdale-1,State House,107,Conservative,STEVEN F MCLAUGHLIN,24,23,1
-Columbia,Hillsdale-1,State House,107,Independence,STEVEN F MCLAUGHLIN,64,57,7
-Columbia,Hillsdale-1,State House,107,Reform Party,STEVEN F MCLAUGHLIN,5,4,1
-Columbia,Hillsdale-2,State House,107,Republican,STEVEN F MCLAUGHLIN,168,153,15
-Columbia,Hillsdale-2,State House,107,Conservative,STEVEN F MCLAUGHLIN,26,26,0
-Columbia,Hillsdale-2,State House,107,Independence,STEVEN F MCLAUGHLIN,59,52,7
-Columbia,Hillsdale-2,State House,107,Reform Party,STEVEN F MCLAUGHLIN,9,9,0
-Columbia,New Lebanon-1,State House,107,Republican,STEVEN F MCLAUGHLIN,217,195,22
-Columbia,New Lebanon-1,State House,107,Conservative,STEVEN F MCLAUGHLIN,25,25,0
-Columbia,New Lebanon-1,State House,107,Independence,STEVEN F MCLAUGHLIN,71,64,7
-Columbia,New Lebanon-1,State House,107,Reform Party,STEVEN F MCLAUGHLIN,11,9,2
-Columbia,New Lebanon-2,State House,107,Republican,STEVEN F MCLAUGHLIN,308,279,29
-Columbia,New Lebanon-2,State House,107,Conservative,STEVEN F MCLAUGHLIN,46,42,4
-Columbia,New Lebanon-2,State House,107,Independence,STEVEN F MCLAUGHLIN,83,80,3
-Columbia,New Lebanon-2,State House,107,Reform Party,STEVEN F MCLAUGHLIN,29,4,25
-Columbia,Chatham-1,State House,107,Republican,STEVEN F MCLAUGHLIN,327,295,32
-Columbia,Chatham-1,State House,107,Conservative,STEVEN F MCLAUGHLIN,58,53,5
-Columbia,Chatham-1,State House,107,Independence,STEVEN F MCLAUGHLIN,67,62,5
-Columbia,Chatham-1,State House,107,Reform Party,STEVEN F MCLAUGHLIN,10,9,1
-Columbia,Chatham-2,State House,107,Republican,STEVEN F MCLAUGHLIN,256,240,16
-Columbia,Chatham-2,State House,107,Conservative,STEVEN F MCLAUGHLIN,37,34,3
-Columbia,Chatham-2,State House,107,Independence,STEVEN F MCLAUGHLIN,66,58,8
-Columbia,Chatham-2,State House,107,Reform Party,STEVEN F MCLAUGHLIN,6,5,1
-Columbia,Chatham-3,State House,107,Republican,STEVEN F MCLAUGHLIN,447,405,42
-Columbia,Chatham-3,State House,107,Conservative,STEVEN F MCLAUGHLIN,68,65,3
-Columbia,Chatham-3,State House,107,Independence,STEVEN F MCLAUGHLIN,81,77,4
-Columbia,Chatham-3,State House,107,Reform Party,STEVEN F MCLAUGHLIN,8,8,0
-Columbia,Kinderhook-1,State House,107,Republican,STEVEN F MCLAUGHLIN,248,223,25
-Columbia,Kinderhook-1,State House,107,Conservative,STEVEN F MCLAUGHLIN,42,40,2
-Columbia,Kinderhook-1,State House,107,Independence,STEVEN F MCLAUGHLIN,54,50,4
-Columbia,Kinderhook-1,State House,107,Reform Party,STEVEN F MCLAUGHLIN,4,3,1
-Columbia,Kinderhook-2,State House,107,Republican,STEVEN F MCLAUGHLIN,203,177,26
-Columbia,Kinderhook-2,State House,107,Conservative,STEVEN F MCLAUGHLIN,42,31,11
-Columbia,Kinderhook-2,State House,107,Independence,STEVEN F MCLAUGHLIN,57,54,3
-Columbia,Kinderhook-2,State House,107,Reform Party,STEVEN F MCLAUGHLIN,6,4,2
-Columbia,Kinderhook-3,State House,107,Republican,STEVEN F MCLAUGHLIN,341,299,42
-Columbia,Kinderhook-3,State House,107,Conservative,STEVEN F MCLAUGHLIN,54,51,3
-Columbia,Kinderhook-3,State House,107,Independence,STEVEN F MCLAUGHLIN,76,65,11
-Columbia,Kinderhook-3,State House,107,Reform Party,STEVEN F MCLAUGHLIN,8,7,1
-Columbia,Kinderhook-4,State House,107,Republican,STEVEN F MCLAUGHLIN,307,286,21
-Columbia,Kinderhook-4,State House,107,Conservative,STEVEN F MCLAUGHLIN,55,48,7
-Columbia,Kinderhook-4,State House,107,Independence,STEVEN F MCLAUGHLIN,59,55,4
-Columbia,Kinderhook-4,State House,107,Reform Party,STEVEN F MCLAUGHLIN,3,3,0
-Columbia,Kinderhook-5,State House,107,Republican,STEVEN F MCLAUGHLIN,298,281,17
-Columbia,Kinderhook-5,State House,107,Conservative,STEVEN F MCLAUGHLIN,61,55,6
-Columbia,Kinderhook-5,State House,107,Independence,STEVEN F MCLAUGHLIN,66,63,3
-Columbia,Kinderhook-5,State House,107,Reform Party,STEVEN F MCLAUGHLIN,5,5,0
-Columbia,Kinderhook-6,State House,107,Republican,STEVEN F MCLAUGHLIN,261,246,15
-Columbia,Kinderhook-6,State House,107,Conservative,STEVEN F MCLAUGHLIN,58,53,5
-Columbia,Kinderhook-6,State House,107,Independence,STEVEN F MCLAUGHLIN,67,57,10
-Columbia,Kinderhook-6,State House,107,Reform Party,STEVEN F MCLAUGHLIN,6,5,1
-Columbia,Kinderhook-7,State House,107,Republican,STEVEN F MCLAUGHLIN,332,314,18
-Columbia,Kinderhook-7,State House,107,Conservative,STEVEN F MCLAUGHLIN,72,67,5
-Columbia,Kinderhook-7,State House,107,Independence,STEVEN F MCLAUGHLIN,54,47,7
-Columbia,Kinderhook-7,State House,107,Reform Party,STEVEN F MCLAUGHLIN,9,8,1
-Columbia,Kinderhook-8,State House,107,Republican,STEVEN F MCLAUGHLIN,368,350,18
-Columbia,Kinderhook-8,State House,107,Conservative,STEVEN F MCLAUGHLIN,59,58,1
-Columbia,Kinderhook-8,State House,107,Independence,STEVEN F MCLAUGHLIN,54,50,4
-Columbia,Kinderhook-8,State House,107,Reform Party,STEVEN F MCLAUGHLIN,4,4,0
-Columbia,Austerlitz-1,State House,107,,Voids,0,0,0
-Columbia,Austerlitz-2,State House,107,,Voids,0,0,0
-Columbia,Canaan-1,State House,107,,Voids,0,0,0
-Columbia,Canaan-2,State House,107,,Voids,0,0,0
-Columbia,Hillsdale-1,State House,107,,Voids,0,0,0
-Columbia,Hillsdale-2,State House,107,,Voids,0,0,0
-Columbia,New Lebanon-1,State House,107,,Voids,0,0,0
-Columbia,New Lebanon-2,State House,107,,Voids,0,0,0
-Columbia,Chatham-1,State House,107,,Voids,0,0,0
-Columbia,Chatham-2,State House,107,,Voids,0,0,0
-Columbia,Chatham-3,State House,107,,Voids,0,0,0
-Columbia,Kinderhook-1,State House,107,,Voids,0,0,0
-Columbia,Kinderhook-2,State House,107,,Voids,0,0,0
-Columbia,Kinderhook-3,State House,107,,Voids,2,0,2
-Columbia,Kinderhook-4,State House,107,,Voids,0,0,0
-Columbia,Kinderhook-5,State House,107,,Voids,0,0,0
-Columbia,Kinderhook-6,State House,107,,Voids,0,0,0
-Columbia,Kinderhook-7,State House,107,,Voids,0,0,0
-Columbia,Kinderhook-8,State House,107,,Voids,0,0,0
+Columbia,Stockport-1,State Assembly,102,,Blanks,152,133,19
+Columbia,Stockport-2,State Assembly,102,,Blanks,187,165,22
+Columbia,Stuyvesant-1,State Assembly,102,,Blanks,143,135,8
+Columbia,Stuyvesant-2,State Assembly,102,,Blanks,208,177,31
+Columbia,Stockport-1,State Assembly,102,Republican,PETER D LOPEZ,341,329,12
+Columbia,Stockport-1,State Assembly,102,Conservative,PETER D LOPEZ,48,42,6
+Columbia,Stockport-1,State Assembly,102,Independence,PETER D LOPEZ,49,46,3
+Columbia,Stockport-1,State Assembly,102,Reform Party,PETER D LOPEZ,8,7,1
+Columbia,Stockport-2,State Assembly,102,Republican,PETER D LOPEZ,318,298,20
+Columbia,Stockport-2,State Assembly,102,Conservative,PETER D LOPEZ,52,52,0
+Columbia,Stockport-2,State Assembly,102,Independence,PETER D LOPEZ,45,44,1
+Columbia,Stockport-2,State Assembly,102,Reform Party,PETER D LOPEZ,3,2,1
+Columbia,Stuyvesant-1,State Assembly,102,Republican,PETER D LOPEZ,221,206,15
+Columbia,Stuyvesant-1,State Assembly,102,Conservative,PETER D LOPEZ,49,47,2
+Columbia,Stuyvesant-1,State Assembly,102,Independence,PETER D LOPEZ,50,49,1
+Columbia,Stuyvesant-1,State Assembly,102,Reform Party,PETER D LOPEZ,2,2,0
+Columbia,Stuyvesant-2,State Assembly,102,Republican,PETER D LOPEZ,254,238,16
+Columbia,Stuyvesant-2,State Assembly,102,Conservative,PETER D LOPEZ,47,42,5
+Columbia,Stuyvesant-2,State Assembly,102,Independence,PETER D LOPEZ,49,47,2
+Columbia,Stuyvesant-2,State Assembly,102,Reform Party,PETER D LOPEZ,10,9,1
+Columbia,Stockport-1,State Assembly,102,,Scatterings,1,1,0
+Columbia,Stockport-2,State Assembly,102,,Scatterings,2,2,0
+Columbia,Stuyvesant-1,State Assembly,102,,Scatterings,1,1,0
+Columbia,Stuyvesant-2,State Assembly,102,,Scatterings,2,1,1
+Columbia,Stockport-1,State Assembly,102,,Voids,0,0,0
+Columbia,Stockport-2,State Assembly,102,,Voids,0,0,0
+Columbia,Stuyvesant-1,State Assembly,102,,Voids,0,0,0
+Columbia,Stuyvesant-2,State Assembly,102,,Voids,0,0,0
+Columbia,Ancram-1,State Assembly,106,,Blanks,38,30,8
+Columbia,Ancram-2,State Assembly,106,,Blanks,18,10,8
+Columbia,Clermont-1,State Assembly,106,,Blanks,71,57,14
+Columbia,Copake-1,State Assembly,106,,Blanks,45,25,20
+Columbia,Copake-2,State Assembly,106,,Blanks,28,22,6
+Columbia,Gallatin-1,State Assembly,106,,Blanks,44,39,5
+Columbia,Germantown-1,State Assembly,106,,Blanks,35,30,5
+Columbia,Germantown-2,State Assembly,106,,Blanks,27,25,2
+Columbia,Ghent-1,State Assembly,106,,Blanks,77,57,20
+Columbia,Ghent-2,State Assembly,106,,Blanks,54,44,10
+Columbia,Ghent-3,State Assembly,106,,Blanks,37,34,3
+Columbia,Livingston-1,State Assembly,106,,Blanks,65,60,5
+Columbia,Livingston-2,State Assembly,106,,Blanks,50,42,8
+Columbia,Taghkanic-1,State Assembly,106,,Blanks,55,51,4
+Columbia,Claverack-1,State Assembly,106,,Blanks,38,36,2
+Columbia,Claverack-2,State Assembly,106,,Blanks,38,28,10
+Columbia,Claverack-3,State Assembly,106,,Blanks,40,32,8
+Columbia,Claverack-4,State Assembly,106,,Blanks,55,47,8
+Columbia,Claverack-5,State Assembly,106,,Blanks,19,15,4
+Columbia,Greenport-1,State Assembly,106,,Blanks,57,53,4
+Columbia,Greenport-2,State Assembly,106,,Blanks,44,37,7
+Columbia,Greenport-3,State Assembly,106,,Blanks,46,40,6
+Columbia,Hudson 1-1,State Assembly,106,,Blanks,20,15,5
+Columbia,Hudson 2-1,State Assembly,106,,Blanks,34,29,5
+Columbia,Hudson 3-1,State Assembly,106,,Blanks,32,28,4
+Columbia,Hudson 4-1,State Assembly,106,,Blanks,26,19,7
+Columbia,Hudson 5-1,State Assembly,106,,Blanks,32,22,10
+Columbia,Hudson 5-2,State Assembly,106,,Blanks,25,22,3
+Columbia,Ancram-1,State Assembly,106,Democratic,DIDI BARRETT,180,147,33
+Columbia,Ancram-1,State Assembly,106,Independence,DIDI BARRETT,15,14,1
+Columbia,Ancram-1,State Assembly,106,Working Families,DIDI BARRETT,15,14,1
+Columbia,Ancram-2,State Assembly,106,Democratic,DIDI BARRETT,149,121,28
+Columbia,Ancram-2,State Assembly,106,Independence,DIDI BARRETT,7,5,2
+Columbia,Ancram-2,State Assembly,106,Working Families,DIDI BARRETT,16,14,2
+Columbia,Clermont-1,State Assembly,106,Democratic,DIDI BARRETT,369,334,35
+Columbia,Clermont-1,State Assembly,106,Independence,DIDI BARRETT,23,22,1
+Columbia,Clermont-1,State Assembly,106,Working Families,DIDI BARRETT,28,26,2
+Columbia,Copake-1,State Assembly,106,Democratic,DIDI BARRETT,385,302,83
+Columbia,Copake-1,State Assembly,106,Independence,DIDI BARRETT,26,23,3
+Columbia,Copake-1,State Assembly,106,Working Families,DIDI BARRETT,24,23,1
+Columbia,Copake-2,State Assembly,106,Democratic,DIDI BARRETT,333,270,63
+Columbia,Copake-2,State Assembly,106,Independence,DIDI BARRETT,20,18,2
+Columbia,Copake-2,State Assembly,106,Working Families,DIDI BARRETT,31,26,5
+Columbia,Gallatin-1,State Assembly,106,Democratic,DIDI BARRETT,318,279,39
+Columbia,Gallatin-1,State Assembly,106,Independence,DIDI BARRETT,18,17,1
+Columbia,Gallatin-1,State Assembly,106,Working Families,DIDI BARRETT,31,27,4
+Columbia,Germantown-1,State Assembly,106,Democratic,DIDI BARRETT,264,237,27
+Columbia,Germantown-1,State Assembly,106,Independence,DIDI BARRETT,8,8,0
+Columbia,Germantown-1,State Assembly,106,Working Families,DIDI BARRETT,35,28,7
+Columbia,Germantown-2,State Assembly,106,Democratic,DIDI BARRETT,242,209,33
+Columbia,Germantown-2,State Assembly,106,Independence,DIDI BARRETT,12,12,0
+Columbia,Germantown-2,State Assembly,106,Working Families,DIDI BARRETT,19,16,3
+Columbia,Ghent-1,State Assembly,106,Democratic,DIDI BARRETT,396,349,47
+Columbia,Ghent-1,State Assembly,106,Independence,DIDI BARRETT,29,26,3
+Columbia,Ghent-1,State Assembly,106,Working Families,DIDI BARRETT,50,47,3
+Columbia,Ghent-2,State Assembly,106,Democratic,DIDI BARRETT,447,378,69
+Columbia,Ghent-2,State Assembly,106,Independence,DIDI BARRETT,36,29,7
+Columbia,Ghent-2,State Assembly,106,Working Families,DIDI BARRETT,44,38,6
+Columbia,Ghent-3,State Assembly,106,Democratic,DIDI BARRETT,402,326,76
+Columbia,Ghent-3,State Assembly,106,Independence,DIDI BARRETT,24,23,1
+Columbia,Ghent-3,State Assembly,106,Working Families,DIDI BARRETT,33,29,4
+Columbia,Livingston-1,State Assembly,106,Democratic,DIDI BARRETT,339,311,28
+Columbia,Livingston-1,State Assembly,106,Independence,DIDI BARRETT,29,28,1
+Columbia,Livingston-1,State Assembly,106,Working Families,DIDI BARRETT,48,39,9
+Columbia,Livingston-2,State Assembly,106,Democratic,DIDI BARRETT,237,209,28
+Columbia,Livingston-2,State Assembly,106,Independence,DIDI BARRETT,18,17,1
+Columbia,Livingston-2,State Assembly,106,Working Families,DIDI BARRETT,32,32,0
+Columbia,Taghkanic-1,State Assembly,106,Democratic,DIDI BARRETT,323,243,80
+Columbia,Taghkanic-1,State Assembly,106,Independence,DIDI BARRETT,20,19,1
+Columbia,Taghkanic-1,State Assembly,106,Working Families,DIDI BARRETT,27,21,6
+Columbia,Claverack-1,State Assembly,106,Democratic,DIDI BARRETT,221,190,31
+Columbia,Claverack-1,State Assembly,106,Independence,DIDI BARRETT,20,20,0
+Columbia,Claverack-1,State Assembly,106,Working Families,DIDI BARRETT,16,15,1
+Columbia,Claverack-2,State Assembly,106,Democratic,DIDI BARRETT,278,233,45
+Columbia,Claverack-2,State Assembly,106,Independence,DIDI BARRETT,24,20,4
+Columbia,Claverack-2,State Assembly,106,Working Families,DIDI BARRETT,26,20,6
+Columbia,Claverack-3,State Assembly,106,Democratic,DIDI BARRETT,250,218,32
+Columbia,Claverack-3,State Assembly,106,Independence,DIDI BARRETT,24,24,0
+Columbia,Claverack-3,State Assembly,106,Working Families,DIDI BARRETT,18,15,3
+Columbia,Claverack-4,State Assembly,106,Democratic,DIDI BARRETT,288,246,42
+Columbia,Claverack-4,State Assembly,106,Independence,DIDI BARRETT,25,23,2
+Columbia,Claverack-4,State Assembly,106,Working Families,DIDI BARRETT,33,31,2
+Columbia,Claverack-5,State Assembly,106,Democratic,DIDI BARRETT,134,117,17
+Columbia,Claverack-5,State Assembly,106,Independence,DIDI BARRETT,13,11,2
+Columbia,Claverack-5,State Assembly,106,Working Families,DIDI BARRETT,15,13,2
+Columbia,Greenport-1,State Assembly,106,Democratic,DIDI BARRETT,297,274,23
+Columbia,Greenport-1,State Assembly,106,Independence,DIDI BARRETT,21,18,3
+Columbia,Greenport-1,State Assembly,106,Working Families,DIDI BARRETT,22,21,1
+Columbia,Greenport-2,State Assembly,106,Democratic,DIDI BARRETT,255,209,46
+Columbia,Greenport-2,State Assembly,106,Independence,DIDI BARRETT,18,16,2
+Columbia,Greenport-2,State Assembly,106,Working Families,DIDI BARRETT,26,25,1
+Columbia,Greenport-3,State Assembly,106,Democratic,DIDI BARRETT,289,263,26
+Columbia,Greenport-3,State Assembly,106,Independence,DIDI BARRETT,32,27,5
+Columbia,Greenport-3,State Assembly,106,Working Families,DIDI BARRETT,22,22,0
+Columbia,Hudson 1-1,State Assembly,106,Democratic,DIDI BARRETT,204,183,21
+Columbia,Hudson 1-1,State Assembly,106,Independence,DIDI BARRETT,4,3,1
+Columbia,Hudson 1-1,State Assembly,106,Working Families,DIDI BARRETT,22,22,0
+Columbia,Hudson 2-1,State Assembly,106,Democratic,DIDI BARRETT,368,320,48
+Columbia,Hudson 2-1,State Assembly,106,Independence,DIDI BARRETT,8,8,0
+Columbia,Hudson 2-1,State Assembly,106,Working Families,DIDI BARRETT,20,18,2
+Columbia,Hudson 3-1,State Assembly,106,Democratic,DIDI BARRETT,399,331,68
+Columbia,Hudson 3-1,State Assembly,106,Independence,DIDI BARRETT,12,9,3
+Columbia,Hudson 3-1,State Assembly,106,Working Families,DIDI BARRETT,37,34,3
+Columbia,Hudson 4-1,State Assembly,106,Democratic,DIDI BARRETT,269,208,61
+Columbia,Hudson 4-1,State Assembly,106,Independence,DIDI BARRETT,15,13,2
+Columbia,Hudson 4-1,State Assembly,106,Working Families,DIDI BARRETT,26,23,3
+Columbia,Hudson 5-1,State Assembly,106,Democratic,DIDI BARRETT,305,268,37
+Columbia,Hudson 5-1,State Assembly,106,Independence,DIDI BARRETT,22,18,4
+Columbia,Hudson 5-1,State Assembly,106,Working Families,DIDI BARRETT,36,27,9
+Columbia,Hudson 5-2,State Assembly,106,Democratic,DIDI BARRETT,287,260,27
+Columbia,Hudson 5-2,State Assembly,106,Independence,DIDI BARRETT,18,16,2
+Columbia,Hudson 5-2,State Assembly,106,Working Families,DIDI BARRETT,25,19,6
+Columbia,Ancram-1,State Assembly,106,,Scatterings,0,0,0
+Columbia,Ancram-2,State Assembly,106,,Scatterings,0,0,0
+Columbia,Clermont-1,State Assembly,106,,Scatterings,1,1,0
+Columbia,Copake-1,State Assembly,106,,Scatterings,0,0,0
+Columbia,Copake-2,State Assembly,106,,Scatterings,0,0,0
+Columbia,Gallatin-1,State Assembly,106,,Scatterings,1,1,0
+Columbia,Germantown-1,State Assembly,106,,Scatterings,0,0,0
+Columbia,Germantown-2,State Assembly,106,,Scatterings,0,0,0
+Columbia,Ghent-1,State Assembly,106,,Scatterings,0,0,0
+Columbia,Ghent-2,State Assembly,106,,Scatterings,3,3,0
+Columbia,Ghent-3,State Assembly,106,,Scatterings,0,0,0
+Columbia,Livingston-1,State Assembly,106,,Scatterings,0,0,0
+Columbia,Livingston-2,State Assembly,106,,Scatterings,0,0,0
+Columbia,Taghkanic-1,State Assembly,106,,Scatterings,0,0,0
+Columbia,Claverack-1,State Assembly,106,,Scatterings,1,1,0
+Columbia,Claverack-2,State Assembly,106,,Scatterings,0,0,0
+Columbia,Claverack-3,State Assembly,106,,Scatterings,0,0,0
+Columbia,Claverack-4,State Assembly,106,,Scatterings,1,1,0
+Columbia,Claverack-5,State Assembly,106,,Scatterings,0,0,0
+Columbia,Greenport-1,State Assembly,106,,Scatterings,0,0,0
+Columbia,Greenport-2,State Assembly,106,,Scatterings,1,1,0
+Columbia,Greenport-3,State Assembly,106,,Scatterings,0,0,0
+Columbia,Hudson 1-1,State Assembly,106,,Scatterings,0,0,0
+Columbia,Hudson 2-1,State Assembly,106,,Scatterings,0,0,0
+Columbia,Hudson 3-1,State Assembly,106,,Scatterings,0,0,0
+Columbia,Hudson 4-1,State Assembly,106,,Scatterings,0,0,0
+Columbia,Hudson 5-1,State Assembly,106,,Scatterings,0,0,0
+Columbia,Hudson 5-2,State Assembly,106,,Scatterings,0,0,0
+Columbia,Ancram-1,State Assembly,106,Republican,TERRY SULLIVAN,110,102,8
+Columbia,Ancram-1,State Assembly,106,Conservative,TERRY SULLIVAN,27,25,2
+Columbia,Ancram-1,State Assembly,106,Reform Party,TERRY SULLIVAN,1,1,0
+Columbia,Ancram-2,State Assembly,106,Republican,TERRY SULLIVAN,134,128,6
+Columbia,Ancram-2,State Assembly,106,Conservative,TERRY SULLIVAN,16,15,1
+Columbia,Ancram-2,State Assembly,106,Reform Party,TERRY SULLIVAN,0,0,0
+Columbia,Clermont-1,State Assembly,106,Reform Party,TERRY SULLIVAN,5,5,0
+Columbia,Clermont-1,State Assembly,106,Republican,TERRY SULLIVAN,366,350,16
+Columbia,Clermont-1,State Assembly,106,Conservative,TERRY SULLIVAN,65,62,3
+Columbia,Copake-1,State Assembly,106,Reform Party,TERRY SULLIVAN,3,3,0
+Columbia,Copake-1,State Assembly,106,Republican,TERRY SULLIVAN,301,282,19
+Columbia,Copake-1,State Assembly,106,Conservative,TERRY SULLIVAN,56,50,6
+Columbia,Copake-2,State Assembly,106,Reform Party,TERRY SULLIVAN,6,6,0
+Columbia,Copake-2,State Assembly,106,Republican,TERRY SULLIVAN,320,290,30
+Columbia,Copake-2,State Assembly,106,Conservative,TERRY SULLIVAN,56,55,1
+Columbia,Gallatin-1,State Assembly,106,Reform Party,TERRY SULLIVAN,1,1,0
+Columbia,Gallatin-1,State Assembly,106,Republican,TERRY SULLIVAN,294,276,18
+Columbia,Gallatin-1,State Assembly,106,Conservative,TERRY SULLIVAN,40,40,0
+Columbia,Germantown-1,State Assembly,106,Reform Party,TERRY SULLIVAN,1,1,0
+Columbia,Germantown-1,State Assembly,106,Republican,TERRY SULLIVAN,219,206,13
+Columbia,Germantown-1,State Assembly,106,Conservative,TERRY SULLIVAN,19,18,1
+Columbia,Germantown-2,State Assembly,106,Reform Party,TERRY SULLIVAN,2,2,0
+Columbia,Germantown-2,State Assembly,106,Republican,TERRY SULLIVAN,160,149,11
+Columbia,Germantown-2,State Assembly,106,Conservative,TERRY SULLIVAN,33,33,0
+Columbia,Ghent-1,State Assembly,106,Reform Party,TERRY SULLIVAN,8,8,0
+Columbia,Ghent-1,State Assembly,106,Republican,TERRY SULLIVAN,243,232,11
+Columbia,Ghent-1,State Assembly,106,Conservative,TERRY SULLIVAN,51,48,3
+Columbia,Ghent-2,State Assembly,106,Reform Party,TERRY SULLIVAN,3,3,0
+Columbia,Ghent-2,State Assembly,106,Republican,TERRY SULLIVAN,334,318,16
+Columbia,Ghent-2,State Assembly,106,Conservative,TERRY SULLIVAN,62,60,2
+Columbia,Ghent-3,State Assembly,106,Reform Party,TERRY SULLIVAN,11,11,0
+Columbia,Ghent-3,State Assembly,106,Republican,TERRY SULLIVAN,345,311,34
+Columbia,Ghent-3,State Assembly,106,Conservative,TERRY SULLIVAN,69,67,2
+Columbia,Livingston-1,State Assembly,106,Reform Party,TERRY SULLIVAN,4,3,1
+Columbia,Livingston-1,State Assembly,106,Republican,TERRY SULLIVAN,407,387,20
+Columbia,Livingston-1,State Assembly,106,Conservative,TERRY SULLIVAN,68,62,6
+Columbia,Livingston-2,State Assembly,106,Reform Party,TERRY SULLIVAN,4,4,0
+Columbia,Livingston-2,State Assembly,106,Republican,TERRY SULLIVAN,277,259,18
+Columbia,Livingston-2,State Assembly,106,Conservative,TERRY SULLIVAN,53,48,5
+Columbia,Taghkanic-1,State Assembly,106,Reform Party,TERRY SULLIVAN,6,5,1
+Columbia,Taghkanic-1,State Assembly,106,Republican,TERRY SULLIVAN,224,208,16
+Columbia,Taghkanic-1,State Assembly,106,Conservative,TERRY SULLIVAN,41,39,2
+Columbia,Claverack-1,State Assembly,106,Reform Party,TERRY SULLIVAN,2,2,0
+Columbia,Claverack-1,State Assembly,106,Republican,TERRY SULLIVAN,217,203,14
+Columbia,Claverack-1,State Assembly,106,Conservative,TERRY SULLIVAN,32,26,6
+Columbia,Claverack-2,State Assembly,106,Reform Party,TERRY SULLIVAN,3,3,0
+Columbia,Claverack-2,State Assembly,106,Republican,TERRY SULLIVAN,258,235,23
+Columbia,Claverack-2,State Assembly,106,Conservative,TERRY SULLIVAN,45,43,2
+Columbia,Claverack-3,State Assembly,106,Reform Party,TERRY SULLIVAN,3,3,0
+Columbia,Claverack-3,State Assembly,106,Republican,TERRY SULLIVAN,209,190,19
+Columbia,Claverack-3,State Assembly,106,Conservative,TERRY SULLIVAN,38,37,1
+Columbia,Claverack-4,State Assembly,106,Reform Party,TERRY SULLIVAN,4,4,0
+Columbia,Claverack-4,State Assembly,106,Republican,TERRY SULLIVAN,252,234,18
+Columbia,Claverack-4,State Assembly,106,Conservative,TERRY SULLIVAN,53,50,3
+Columbia,Claverack-5,State Assembly,106,Reform Party,TERRY SULLIVAN,0,0,0
+Columbia,Claverack-5,State Assembly,106,Republican,TERRY SULLIVAN,172,162,10
+Columbia,Claverack-5,State Assembly,106,Conservative,TERRY SULLIVAN,18,18,0
+Columbia,Greenport-1,State Assembly,106,Reform Party,TERRY SULLIVAN,2,1,1
+Columbia,Greenport-1,State Assembly,106,Republican,TERRY SULLIVAN,244,226,18
+Columbia,Greenport-1,State Assembly,106,Conservative,TERRY SULLIVAN,39,37,2
+Columbia,Greenport-2,State Assembly,106,Reform Party,TERRY SULLIVAN,1,1,0
+Columbia,Greenport-2,State Assembly,106,Republican,TERRY SULLIVAN,158,149,9
+Columbia,Greenport-2,State Assembly,106,Conservative,TERRY SULLIVAN,22,19,3
+Columbia,Greenport-3,State Assembly,106,Reform Party,TERRY SULLIVAN,8,5,3
+Columbia,Greenport-3,State Assembly,106,Republican,TERRY SULLIVAN,253,227,26
+Columbia,Greenport-3,State Assembly,106,Conservative,TERRY SULLIVAN,36,32,4
+Columbia,Hudson 1-1,State Assembly,106,Reform Party,TERRY SULLIVAN,1,1,0
+Columbia,Hudson 1-1,State Assembly,106,Republican,TERRY SULLIVAN,24,22,2
+Columbia,Hudson 1-1,State Assembly,106,Conservative,TERRY SULLIVAN,6,4,2
+Columbia,Hudson 2-1,State Assembly,106,Reform Party,TERRY SULLIVAN,2,2,0
+Columbia,Hudson 2-1,State Assembly,106,Republican,TERRY SULLIVAN,38,33,5
+Columbia,Hudson 2-1,State Assembly,106,Conservative,TERRY SULLIVAN,7,6,1
+Columbia,Hudson 3-1,State Assembly,106,Reform Party,TERRY SULLIVAN,2,2,0
+Columbia,Hudson 3-1,State Assembly,106,Republican,TERRY SULLIVAN,66,62,4
+Columbia,Hudson 3-1,State Assembly,106,Conservative,TERRY SULLIVAN,14,13,1
+Columbia,Hudson 4-1,State Assembly,106,Reform Party,TERRY SULLIVAN,2,1,1
+Columbia,Hudson 4-1,State Assembly,106,Republican,TERRY SULLIVAN,36,25,11
+Columbia,Hudson 4-1,State Assembly,106,Conservative,TERRY SULLIVAN,7,3,4
+Columbia,Hudson 5-1,State Assembly,106,Reform Party,TERRY SULLIVAN,4,4,0
+Columbia,Hudson 5-1,State Assembly,106,Republican,TERRY SULLIVAN,97,91,6
+Columbia,Hudson 5-1,State Assembly,106,Conservative,TERRY SULLIVAN,18,17,1
+Columbia,Hudson 5-2,State Assembly,106,Reform Party,TERRY SULLIVAN,3,3,0
+Columbia,Hudson 5-2,State Assembly,106,Republican,TERRY SULLIVAN,105,97,8
+Columbia,Hudson 5-2,State Assembly,106,Conservative,TERRY SULLIVAN,20,20,0
+Columbia,Ancram-1,State Assembly,106,,Voids,0,0,0
+Columbia,Ancram-2,State Assembly,106,,Voids,3,1,2
+Columbia,Clermont-1,State Assembly,106,,Voids,0,0,0
+Columbia,Copake-1,State Assembly,106,,Voids,0,0,0
+Columbia,Copake-2,State Assembly,106,,Voids,3,2,1
+Columbia,Gallatin-1,State Assembly,106,,Voids,0,0,0
+Columbia,Germantown-1,State Assembly,106,,Voids,0,0,0
+Columbia,Germantown-2,State Assembly,106,,Voids,0,0,0
+Columbia,Ghent-1,State Assembly,106,,Voids,0,0,0
+Columbia,Ghent-2,State Assembly,106,,Voids,0,0,0
+Columbia,Ghent-3,State Assembly,106,,Voids,0,0,0
+Columbia,Livingston-1,State Assembly,106,,Voids,1,0,1
+Columbia,Livingston-2,State Assembly,106,,Voids,0,0,0
+Columbia,Taghkanic-1,State Assembly,106,,Voids,0,0,0
+Columbia,Claverack-1,State Assembly,106,,Voids,2,1,1
+Columbia,Claverack-2,State Assembly,106,,Voids,0,0,0
+Columbia,Claverack-3,State Assembly,106,,Voids,1,1,0
+Columbia,Claverack-4,State Assembly,106,,Voids,0,0,0
+Columbia,Claverack-5,State Assembly,106,,Voids,0,0,0
+Columbia,Greenport-1,State Assembly,106,,Voids,0,0,0
+Columbia,Greenport-2,State Assembly,106,,Voids,0,0,0
+Columbia,Greenport-3,State Assembly,106,,Voids,0,0,0
+Columbia,Hudson 1-1,State Assembly,106,,Voids,0,0,0
+Columbia,Hudson 2-1,State Assembly,106,,Voids,0,0,0
+Columbia,Hudson 3-1,State Assembly,106,,Voids,0,0,0
+Columbia,Hudson 4-1,State Assembly,106,,Voids,1,0,1
+Columbia,Hudson 5-1,State Assembly,106,,Voids,0,0,0
+Columbia,Hudson 5-2,State Assembly,106,,Voids,0,0,0
+Columbia,Austerlitz-1,State Assembly,107,,Blanks,241,194,47
+Columbia,Austerlitz-2,State Assembly,107,,Blanks,241,192,49
+Columbia,Canaan-1,State Assembly,107,,Blanks,243,211,32
+Columbia,Canaan-2,State Assembly,107,,Blanks,170,146,24
+Columbia,Hillsdale-1,State Assembly,107,,Blanks,206,165,41
+Columbia,Hillsdale-2,State Assembly,107,,Blanks,212,172,40
+Columbia,New Lebanon-1,State Assembly,107,,Blanks,215,193,22
+Columbia,New Lebanon-2,State Assembly,107,,Blanks,175,174,1
+Columbia,Chatham-1,State Assembly,107,,Blanks,348,313,35
+Columbia,Chatham-2,State Assembly,107,,Blanks,239,214,25
+Columbia,Chatham-3,State Assembly,107,,Blanks,333,294,39
+Columbia,Kinderhook-1,State Assembly,107,,Blanks,196,173,23
+Columbia,Kinderhook-2,State Assembly,107,,Blanks,174,155,19
+Columbia,Kinderhook-3,State Assembly,107,,Blanks,168,141,27
+Columbia,Kinderhook-4,State Assembly,107,,Blanks,167,164,3
+Columbia,Kinderhook-5,State Assembly,107,,Blanks,228,208,20
+Columbia,Kinderhook-6,State Assembly,107,,Blanks,138,128,10
+Columbia,Kinderhook-7,State Assembly,107,,Blanks,168,153,15
+Columbia,Kinderhook-8,State Assembly,107,,Blanks,170,155,15
+Columbia,Austerlitz-1,State Assembly,107,,Scatterings,3,3,0
+Columbia,Austerlitz-2,State Assembly,107,,Scatterings,4,4,0
+Columbia,Canaan-1,State Assembly,107,,Scatterings,4,0,4
+Columbia,Canaan-2,State Assembly,107,,Scatterings,3,3,0
+Columbia,Hillsdale-1,State Assembly,107,,Scatterings,3,1,2
+Columbia,Hillsdale-2,State Assembly,107,,Scatterings,7,6,1
+Columbia,New Lebanon-1,State Assembly,107,,Scatterings,5,5,0
+Columbia,New Lebanon-2,State Assembly,107,,Scatterings,5,5,0
+Columbia,Chatham-1,State Assembly,107,,Scatterings,1,1,0
+Columbia,Chatham-2,State Assembly,107,,Scatterings,1,1,0
+Columbia,Chatham-3,State Assembly,107,,Scatterings,4,3,1
+Columbia,Kinderhook-1,State Assembly,107,,Scatterings,1,1,0
+Columbia,Kinderhook-2,State Assembly,107,,Scatterings,1,1,0
+Columbia,Kinderhook-3,State Assembly,107,,Scatterings,3,2,1
+Columbia,Kinderhook-4,State Assembly,107,,Scatterings,2,0,2
+Columbia,Kinderhook-5,State Assembly,107,,Scatterings,3,1,2
+Columbia,Kinderhook-6,State Assembly,107,,Scatterings,3,3,0
+Columbia,Kinderhook-7,State Assembly,107,,Scatterings,3,3,0
+Columbia,Kinderhook-8,State Assembly,107,,Scatterings,1,1,0
+Columbia,Austerlitz-1,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,207,192,15
+Columbia,Austerlitz-1,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,28,25,3
+Columbia,Austerlitz-1,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,40,34,6
+Columbia,Austerlitz-1,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,4,3,1
+Columbia,Austerlitz-2,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,150,133,17
+Columbia,Austerlitz-2,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,28,17,11
+Columbia,Austerlitz-2,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,36,31,5
+Columbia,Austerlitz-2,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,1,1,0
+Columbia,Canaan-1,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,152,139,13
+Columbia,Canaan-1,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,30,28,2
+Columbia,Canaan-1,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,71,61,10
+Columbia,Canaan-1,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,8,8,0
+Columbia,Canaan-2,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,191,172,19
+Columbia,Canaan-2,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,29,27,2
+Columbia,Canaan-2,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,56,53,3
+Columbia,Canaan-2,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,7,7,0
+Columbia,Hillsdale-1,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,191,178,13
+Columbia,Hillsdale-1,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,24,23,1
+Columbia,Hillsdale-1,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,64,57,7
+Columbia,Hillsdale-1,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,5,4,1
+Columbia,Hillsdale-2,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,168,153,15
+Columbia,Hillsdale-2,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,26,26,0
+Columbia,Hillsdale-2,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,59,52,7
+Columbia,Hillsdale-2,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,9,9,0
+Columbia,New Lebanon-1,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,217,195,22
+Columbia,New Lebanon-1,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,25,25,0
+Columbia,New Lebanon-1,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,71,64,7
+Columbia,New Lebanon-1,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,11,9,2
+Columbia,New Lebanon-2,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,308,279,29
+Columbia,New Lebanon-2,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,46,42,4
+Columbia,New Lebanon-2,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,83,80,3
+Columbia,New Lebanon-2,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,29,4,25
+Columbia,Chatham-1,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,327,295,32
+Columbia,Chatham-1,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,58,53,5
+Columbia,Chatham-1,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,67,62,5
+Columbia,Chatham-1,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,10,9,1
+Columbia,Chatham-2,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,256,240,16
+Columbia,Chatham-2,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,37,34,3
+Columbia,Chatham-2,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,66,58,8
+Columbia,Chatham-2,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,6,5,1
+Columbia,Chatham-3,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,447,405,42
+Columbia,Chatham-3,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,68,65,3
+Columbia,Chatham-3,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,81,77,4
+Columbia,Chatham-3,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,8,8,0
+Columbia,Kinderhook-1,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,248,223,25
+Columbia,Kinderhook-1,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,42,40,2
+Columbia,Kinderhook-1,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,54,50,4
+Columbia,Kinderhook-1,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,4,3,1
+Columbia,Kinderhook-2,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,203,177,26
+Columbia,Kinderhook-2,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,42,31,11
+Columbia,Kinderhook-2,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,57,54,3
+Columbia,Kinderhook-2,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,6,4,2
+Columbia,Kinderhook-3,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,341,299,42
+Columbia,Kinderhook-3,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,54,51,3
+Columbia,Kinderhook-3,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,76,65,11
+Columbia,Kinderhook-3,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,8,7,1
+Columbia,Kinderhook-4,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,307,286,21
+Columbia,Kinderhook-4,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,55,48,7
+Columbia,Kinderhook-4,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,59,55,4
+Columbia,Kinderhook-4,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,3,3,0
+Columbia,Kinderhook-5,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,298,281,17
+Columbia,Kinderhook-5,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,61,55,6
+Columbia,Kinderhook-5,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,66,63,3
+Columbia,Kinderhook-5,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,5,5,0
+Columbia,Kinderhook-6,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,261,246,15
+Columbia,Kinderhook-6,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,58,53,5
+Columbia,Kinderhook-6,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,67,57,10
+Columbia,Kinderhook-6,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,6,5,1
+Columbia,Kinderhook-7,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,332,314,18
+Columbia,Kinderhook-7,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,72,67,5
+Columbia,Kinderhook-7,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,54,47,7
+Columbia,Kinderhook-7,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,9,8,1
+Columbia,Kinderhook-8,State Assembly,107,Republican,STEVEN F MCLAUGHLIN,368,350,18
+Columbia,Kinderhook-8,State Assembly,107,Conservative,STEVEN F MCLAUGHLIN,59,58,1
+Columbia,Kinderhook-8,State Assembly,107,Independence,STEVEN F MCLAUGHLIN,54,50,4
+Columbia,Kinderhook-8,State Assembly,107,Reform Party,STEVEN F MCLAUGHLIN,4,4,0
+Columbia,Austerlitz-1,State Assembly,107,,Voids,0,0,0
+Columbia,Austerlitz-2,State Assembly,107,,Voids,0,0,0
+Columbia,Canaan-1,State Assembly,107,,Voids,0,0,0
+Columbia,Canaan-2,State Assembly,107,,Voids,0,0,0
+Columbia,Hillsdale-1,State Assembly,107,,Voids,0,0,0
+Columbia,Hillsdale-2,State Assembly,107,,Voids,0,0,0
+Columbia,New Lebanon-1,State Assembly,107,,Voids,0,0,0
+Columbia,New Lebanon-2,State Assembly,107,,Voids,0,0,0
+Columbia,Chatham-1,State Assembly,107,,Voids,0,0,0
+Columbia,Chatham-2,State Assembly,107,,Voids,0,0,0
+Columbia,Chatham-3,State Assembly,107,,Voids,0,0,0
+Columbia,Kinderhook-1,State Assembly,107,,Voids,0,0,0
+Columbia,Kinderhook-2,State Assembly,107,,Voids,0,0,0
+Columbia,Kinderhook-3,State Assembly,107,,Voids,2,0,2
+Columbia,Kinderhook-4,State Assembly,107,,Voids,0,0,0
+Columbia,Kinderhook-5,State Assembly,107,,Voids,0,0,0
+Columbia,Kinderhook-6,State Assembly,107,,Voids,0,0,0
+Columbia,Kinderhook-7,State Assembly,107,,Voids,0,0,0
+Columbia,Kinderhook-8,State Assembly,107,,Voids,0,0,0
 Columbia,Ancram-1,President,,,Blanks,0,0,0
 Columbia,Ancram-2,President,,,Blanks,2,2,0
 Columbia,Clermont-1,President,,,Blanks,6,5,1
