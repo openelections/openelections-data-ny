@@ -1,0 +1,2357 @@
+county,precinct,office,district,party,candidate,votes
+Broome,Barker W:000 D:001,Governor,,Democratic,Zephyr R Teachout,4
+Broome,Barker W:000 D:002,Governor,,Democratic,Zephyr R Teachout,14
+Broome,Barker W:000 D:001,Governor,,Democratic,Andrew M Cuomo,6
+Broome,Barker W:000 D:002,Governor,,Democratic,Andrew M Cuomo,4
+Broome,Barker W:000 D:001,Governor,,Democratic,Randy A Credico,0
+Broome,Barker W:000 D:002,Governor,,Democratic,Randy A Credico,2
+Broome,Barker W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Barker W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Barker W:000 D:001,Governor,,Democratic,Void,
+Broome,Barker W:000 D:002,Governor,,Democratic,Void,
+Broome,Barker W:000 D:001,Governor,,Democratic,Blank Votes,0
+Broome,Barker W:000 D:002,Governor,,Democratic,Blank Votes,0
+Broome,Chenango W:000 D:001,Governor,,Democratic,Zephyr R Teachout,24
+Broome,Chenango W:000 D:002,Governor,,Democratic,Zephyr R Teachout,7
+Broome,Chenango W:000 D:003,Governor,,Democratic,Zephyr R Teachout,15
+Broome,Chenango W:000 D:004,Governor,,Democratic,Zephyr R Teachout,14
+Broome,Chenango W:000 D:005,Governor,,Democratic,Zephyr R Teachout,6
+Broome,Chenango W:000 D:006,Governor,,Democratic,Zephyr R Teachout,24
+Broome,Chenango W:000 D:007,Governor,,Democratic,Zephyr R Teachout,16
+Broome,Chenango W:000 D:008,Governor,,Democratic,Zephyr R Teachout,14
+Broome,Chenango W:000 D:001,Governor,,Democratic,Andrew M Cuomo,16
+Broome,Chenango W:000 D:002,Governor,,Democratic,Andrew M Cuomo,23
+Broome,Chenango W:000 D:003,Governor,,Democratic,Andrew M Cuomo,18
+Broome,Chenango W:000 D:004,Governor,,Democratic,Andrew M Cuomo,11
+Broome,Chenango W:000 D:005,Governor,,Democratic,Andrew M Cuomo,15
+Broome,Chenango W:000 D:006,Governor,,Democratic,Andrew M Cuomo,16
+Broome,Chenango W:000 D:007,Governor,,Democratic,Andrew M Cuomo,6
+Broome,Chenango W:000 D:008,Governor,,Democratic,Andrew M Cuomo,20
+Broome,Chenango W:000 D:001,Governor,,Democratic,Randy A Credico,3
+Broome,Chenango W:000 D:002,Governor,,Democratic,Randy A Credico,2
+Broome,Chenango W:000 D:003,Governor,,Democratic,Randy A Credico,5
+Broome,Chenango W:000 D:004,Governor,,Democratic,Randy A Credico,0
+Broome,Chenango W:000 D:005,Governor,,Democratic,Randy A Credico,0
+Broome,Chenango W:000 D:006,Governor,,Democratic,Randy A Credico,1
+Broome,Chenango W:000 D:007,Governor,,Democratic,Randy A Credico,2
+Broome,Chenango W:000 D:008,Governor,,Democratic,Randy A Credico,1
+Broome,Chenango W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:003,Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:004,Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:005,Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:006,Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:007,Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:008,Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:001,Governor,,Democratic,Void,
+Broome,Chenango W:000 D:002,Governor,,Democratic,Void,
+Broome,Chenango W:000 D:003,Governor,,Democratic,Void,
+Broome,Chenango W:000 D:004,Governor,,Democratic,Void,
+Broome,Chenango W:000 D:005,Governor,,Democratic,Void,
+Broome,Chenango W:000 D:006,Governor,,Democratic,Void,
+Broome,Chenango W:000 D:007,Governor,,Democratic,Void,
+Broome,Chenango W:000 D:008,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:001,Governor,,Democratic,Zephyr R Teachout,13
+Broome,City Binghamton W:000 D:002,Governor,,Democratic,Zephyr R Teachout,4
+Broome,City Binghamton W:000 D:003,Governor,,Democratic,Zephyr R Teachout,13
+Broome,City Binghamton W:000 D:004,Governor,,Democratic,Zephyr R Teachout,4
+Broome,City Binghamton W:000 D:005,Governor,,Democratic,Zephyr R Teachout,10
+Broome,City Binghamton W:000 D:006,Governor,,Democratic,Zephyr R Teachout,8
+Broome,City Binghamton W:000 D:007,Governor,,Democratic,Zephyr R Teachout,6
+Broome,City Binghamton W:000 D:008,Governor,,Democratic,Zephyr R Teachout,12
+Broome,City Binghamton W:000 D:009,Governor,,Democratic,Zephyr R Teachout,12
+Broome,City Binghamton W:000 D:010,Governor,,Democratic,Zephyr R Teachout,7
+Broome,City Binghamton W:000 D:011,Governor,,Democratic,Zephyr R Teachout,10
+Broome,City Binghamton W:000 D:012,Governor,,Democratic,Zephyr R Teachout,11
+Broome,City Binghamton W:000 D:013,Governor,,Democratic,Zephyr R Teachout,21
+Broome,City Binghamton W:000 D:014,Governor,,Democratic,Zephyr R Teachout,14
+Broome,City Binghamton W:000 D:015,Governor,,Democratic,Zephyr R Teachout,25
+Broome,City Binghamton W:000 D:016,Governor,,Democratic,Zephyr R Teachout,28
+Broome,City Binghamton W:000 D:017,Governor,,Democratic,Zephyr R Teachout,23
+Broome,City Binghamton W:000 D:018,Governor,,Democratic,Zephyr R Teachout,9
+Broome,City Binghamton W:000 D:019,Governor,,Democratic,Zephyr R Teachout,14
+Broome,City Binghamton W:000 D:020,Governor,,Democratic,Zephyr R Teachout,25
+Broome,City Binghamton W:000 D:021,Governor,,Democratic,Zephyr R Teachout,29
+Broome,City Binghamton W:000 D:022,Governor,,Democratic,Zephyr R Teachout,7
+Broome,City Binghamton W:000 D:023,Governor,,Democratic,Zephyr R Teachout,44
+Broome,City Binghamton W:000 D:024,Governor,,Democratic,Zephyr R Teachout,21
+Broome,City Binghamton W:000 D:025,Governor,,Democratic,Zephyr R Teachout,23
+Broome,City Binghamton W:000 D:026,Governor,,Democratic,Zephyr R Teachout,19
+Broome,City Binghamton W:000 D:027,Governor,,Democratic,Zephyr R Teachout,5
+Broome,City Binghamton W:000 D:028,Governor,,Democratic,Zephyr R Teachout,11
+Broome,City Binghamton W:000 D:029,Governor,,Democratic,Zephyr R Teachout,15
+Broome,City Binghamton W:000 D:030,Governor,,Democratic,Zephyr R Teachout,13
+Broome,City Binghamton W:000 D:031,Governor,,Democratic,Zephyr R Teachout,9
+Broome,City Binghamton W:000 D:032,Governor,,Democratic,Zephyr R Teachout,7
+Broome,City Binghamton W:000 D:001,Governor,,Democratic,Andrew M Cuomo,28
+Broome,City Binghamton W:000 D:002,Governor,,Democratic,Andrew M Cuomo,9
+Broome,City Binghamton W:000 D:003,Governor,,Democratic,Andrew M Cuomo,20
+Broome,City Binghamton W:000 D:004,Governor,,Democratic,Andrew M Cuomo,16
+Broome,City Binghamton W:000 D:005,Governor,,Democratic,Andrew M Cuomo,23
+Broome,City Binghamton W:000 D:006,Governor,,Democratic,Andrew M Cuomo,19
+Broome,City Binghamton W:000 D:007,Governor,,Democratic,Andrew M Cuomo,10
+Broome,City Binghamton W:000 D:008,Governor,,Democratic,Andrew M Cuomo,23
+Broome,City Binghamton W:000 D:009,Governor,,Democratic,Andrew M Cuomo,10
+Broome,City Binghamton W:000 D:010,Governor,,Democratic,Andrew M Cuomo,10
+Broome,City Binghamton W:000 D:011,Governor,,Democratic,Andrew M Cuomo,15
+Broome,City Binghamton W:000 D:012,Governor,,Democratic,Andrew M Cuomo,33
+Broome,City Binghamton W:000 D:013,Governor,,Democratic,Andrew M Cuomo,30
+Broome,City Binghamton W:000 D:014,Governor,,Democratic,Andrew M Cuomo,15
+Broome,City Binghamton W:000 D:015,Governor,,Democratic,Andrew M Cuomo,23
+Broome,City Binghamton W:000 D:016,Governor,,Democratic,Andrew M Cuomo,33
+Broome,City Binghamton W:000 D:017,Governor,,Democratic,Andrew M Cuomo,18
+Broome,City Binghamton W:000 D:018,Governor,,Democratic,Andrew M Cuomo,19
+Broome,City Binghamton W:000 D:019,Governor,,Democratic,Andrew M Cuomo,31
+Broome,City Binghamton W:000 D:020,Governor,,Democratic,Andrew M Cuomo,19
+Broome,City Binghamton W:000 D:021,Governor,,Democratic,Andrew M Cuomo,21
+Broome,City Binghamton W:000 D:022,Governor,,Democratic,Andrew M Cuomo,6
+Broome,City Binghamton W:000 D:023,Governor,,Democratic,Andrew M Cuomo,47
+Broome,City Binghamton W:000 D:024,Governor,,Democratic,Andrew M Cuomo,19
+Broome,City Binghamton W:000 D:025,Governor,,Democratic,Andrew M Cuomo,16
+Broome,City Binghamton W:000 D:026,Governor,,Democratic,Andrew M Cuomo,20
+Broome,City Binghamton W:000 D:027,Governor,,Democratic,Andrew M Cuomo,13
+Broome,City Binghamton W:000 D:028,Governor,,Democratic,Andrew M Cuomo,11
+Broome,City Binghamton W:000 D:029,Governor,,Democratic,Andrew M Cuomo,9
+Broome,City Binghamton W:000 D:030,Governor,,Democratic,Andrew M Cuomo,8
+Broome,City Binghamton W:000 D:031,Governor,,Democratic,Andrew M Cuomo,12
+Broome,City Binghamton W:000 D:032,Governor,,Democratic,Andrew M Cuomo,15
+Broome,City Binghamton W:000 D:001,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:002,Governor,,Democratic,Randy A Credico,0
+Broome,City Binghamton W:000 D:003,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:004,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:005,Governor,,Democratic,Randy A Credico,2
+Broome,City Binghamton W:000 D:006,Governor,,Democratic,Randy A Credico,0
+Broome,City Binghamton W:000 D:007,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:008,Governor,,Democratic,Randy A Credico,2
+Broome,City Binghamton W:000 D:009,Governor,,Democratic,Randy A Credico,3
+Broome,City Binghamton W:000 D:010,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:011,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:012,Governor,,Democratic,Randy A Credico,4
+Broome,City Binghamton W:000 D:013,Governor,,Democratic,Randy A Credico,2
+Broome,City Binghamton W:000 D:014,Governor,,Democratic,Randy A Credico,4
+Broome,City Binghamton W:000 D:015,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:016,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:017,Governor,,Democratic,Randy A Credico,3
+Broome,City Binghamton W:000 D:018,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:019,Governor,,Democratic,Randy A Credico,3
+Broome,City Binghamton W:000 D:020,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:021,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:022,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:023,Governor,,Democratic,Randy A Credico,2
+Broome,City Binghamton W:000 D:024,Governor,,Democratic,Randy A Credico,2
+Broome,City Binghamton W:000 D:025,Governor,,Democratic,Randy A Credico,5
+Broome,City Binghamton W:000 D:026,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:027,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:028,Governor,,Democratic,Randy A Credico,3
+Broome,City Binghamton W:000 D:029,Governor,,Democratic,Randy A Credico,0
+Broome,City Binghamton W:000 D:030,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:031,Governor,,Democratic,Randy A Credico,0
+Broome,City Binghamton W:000 D:032,Governor,,Democratic,Randy A Credico,1
+Broome,City Binghamton W:000 D:001,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:002,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:003,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:004,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:005,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:006,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:007,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:008,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:009,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:010,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:011,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:012,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:013,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:014,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:015,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:016,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:017,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:018,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:019,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:020,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:021,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:022,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:023,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:024,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:025,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:026,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:027,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:028,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:029,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:030,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:031,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:032,Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:001,Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:002,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:003,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:004,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:005,Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:006,Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:007,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:008,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:009,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:010,Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:011,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:012,Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:013,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:014,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:015,Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:016,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:017,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:018,Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:019,Governor,,Democratic,Void,2
+Broome,City Binghamton W:000 D:020,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:021,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:022,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:023,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:024,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:025,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:026,Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:027,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:028,Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:029,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:030,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:031,Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:032,Governor,,Democratic,Void,
+Broome,Colesville W:000 D:001,Governor,,Democratic,Zephyr R Teachout,8
+Broome,Colesville W:000 D:002,Governor,,Democratic,Zephyr R Teachout,10
+Broome,Colesville W:000 D:003,Governor,,Democratic,Zephyr R Teachout,3
+Broome,Colesville W:000 D:001,Governor,,Democratic,Andrew M Cuomo,14
+Broome,Colesville W:000 D:002,Governor,,Democratic,Andrew M Cuomo,8
+Broome,Colesville W:000 D:003,Governor,,Democratic,Andrew M Cuomo,13
+Broome,Colesville W:000 D:001,Governor,,Democratic,Randy A Credico,1
+Broome,Colesville W:000 D:002,Governor,,Democratic,Randy A Credico,4
+Broome,Colesville W:000 D:003,Governor,,Democratic,Randy A Credico,1
+Broome,Colesville W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Colesville W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Colesville W:000 D:003,Governor,,Democratic,Scatter,
+Broome,Colesville W:000 D:001,Governor,,Democratic,Void,
+Broome,Colesville W:000 D:002,Governor,,Democratic,Void,
+Broome,Colesville W:000 D:003,Governor,,Democratic,Void,
+Broome,Colesville W:000 D:001,Governor,,Democratic,Blank Votes,0
+Broome,Colesville W:000 D:002,Governor,,Democratic,Blank Votes,1
+Broome,Colesville W:000 D:003,Governor,,Democratic,Blank Votes,0
+Broome,Conklin W:000 D:001,Governor,,Democratic,Zephyr R Teachout,9
+Broome,Conklin W:000 D:002,Governor,,Democratic,Zephyr R Teachout,15
+Broome,Conklin W:000 D:003,Governor,,Democratic,Zephyr R Teachout,14
+Broome,Conklin W:000 D:004,Governor,,Democratic,Zephyr R Teachout,3
+Broome,Conklin W:000 D:001,Governor,,Democratic,Andrew M Cuomo,4
+Broome,Conklin W:000 D:002,Governor,,Democratic,Andrew M Cuomo,17
+Broome,Conklin W:000 D:003,Governor,,Democratic,Andrew M Cuomo,14
+Broome,Conklin W:000 D:004,Governor,,Democratic,Andrew M Cuomo,13
+Broome,Conklin W:000 D:001,Governor,,Democratic,Randy A Credico,1
+Broome,Conklin W:000 D:002,Governor,,Democratic,Randy A Credico,5
+Broome,Conklin W:000 D:003,Governor,,Democratic,Randy A Credico,3
+Broome,Conklin W:000 D:004,Governor,,Democratic,Randy A Credico,0
+Broome,Conklin W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Conklin W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Conklin W:000 D:003,Governor,,Democratic,Scatter,
+Broome,Conklin W:000 D:004,Governor,,Democratic,Scatter,
+Broome,Conklin W:000 D:001,Governor,,Democratic,Void,
+Broome,Conklin W:000 D:002,Governor,,Democratic,Void,
+Broome,Conklin W:000 D:003,Governor,,Democratic,Void,
+Broome,Conklin W:000 D:004,Governor,,Democratic,Void,
+Broome,Dickinson W:000 D:001,Governor,,Democratic,Zephyr R Teachout,8
+Broome,Dickinson W:000 D:002,Governor,,Democratic,Zephyr R Teachout,24
+Broome,Dickinson W:000 D:003,Governor,,Democratic,Zephyr R Teachout,19
+Broome,Dickinson W:000 D:004,Governor,,Democratic,Zephyr R Teachout,0
+Broome,Dickinson W:000 D:001,Governor,,Democratic,Andrew M Cuomo,9
+Broome,Dickinson W:000 D:002,Governor,,Democratic,Andrew M Cuomo,21
+Broome,Dickinson W:000 D:003,Governor,,Democratic,Andrew M Cuomo,25
+Broome,Dickinson W:000 D:004,Governor,,Democratic,Andrew M Cuomo,3
+Broome,Dickinson W:000 D:001,Governor,,Democratic,Randy A Credico,4
+Broome,Dickinson W:000 D:002,Governor,,Democratic,Randy A Credico,1
+Broome,Dickinson W:000 D:003,Governor,,Democratic,Randy A Credico,0
+Broome,Dickinson W:000 D:004,Governor,,Democratic,Randy A Credico,0
+Broome,Dickinson W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Dickinson W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Dickinson W:000 D:003,Governor,,Democratic,Scatter,
+Broome,Dickinson W:000 D:004,Governor,,Democratic,Scatter,
+Broome,Dickinson W:000 D:001,Governor,,Democratic,Void,
+Broome,Dickinson W:000 D:002,Governor,,Democratic,Void,
+Broome,Dickinson W:000 D:003,Governor,,Democratic,Void,
+Broome,Dickinson W:000 D:004,Governor,,Democratic,Void,
+Broome,Dickinson W:000 D:001,Governor,,Democratic,Blank Votes,0
+Broome,Dickinson W:000 D:002,Governor,,Democratic,Blank Votes,0
+Broome,Dickinson W:000 D:003,Governor,,Democratic,Blank Votes,0
+Broome,Dickinson W:000 D:004,Governor,,Democratic,Blank Votes,0
+Broome,Fenton W:000 D:001,Governor,,Democratic,Zephyr R Teachout,8
+Broome,Fenton W:000 D:002,Governor,,Democratic,Zephyr R Teachout,7
+Broome,Fenton W:000 D:003,Governor,,Democratic,Zephyr R Teachout,3
+Broome,Fenton W:000 D:004,Governor,,Democratic,Zephyr R Teachout,9
+Broome,Fenton W:000 D:005,Governor,,Democratic,Zephyr R Teachout,12
+Broome,Fenton W:000 D:006,Governor,,Democratic,Zephyr R Teachout,9
+Broome,Fenton W:000 D:001,Governor,,Democratic,Andrew M Cuomo,10
+Broome,Fenton W:000 D:002,Governor,,Democratic,Andrew M Cuomo,11
+Broome,Fenton W:000 D:003,Governor,,Democratic,Andrew M Cuomo,8
+Broome,Fenton W:000 D:004,Governor,,Democratic,Andrew M Cuomo,9
+Broome,Fenton W:000 D:005,Governor,,Democratic,Andrew M Cuomo,2
+Broome,Fenton W:000 D:006,Governor,,Democratic,Andrew M Cuomo,10
+Broome,Fenton W:000 D:001,Governor,,Democratic,Randy A Credico,0
+Broome,Fenton W:000 D:002,Governor,,Democratic,Randy A Credico,0
+Broome,Fenton W:000 D:003,Governor,,Democratic,Randy A Credico,0
+Broome,Fenton W:000 D:004,Governor,,Democratic,Randy A Credico,1
+Broome,Fenton W:000 D:005,Governor,,Democratic,Randy A Credico,1
+Broome,Fenton W:000 D:006,Governor,,Democratic,Randy A Credico,2
+Broome,Fenton W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Fenton W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Fenton W:000 D:003,Governor,,Democratic,Scatter,
+Broome,Fenton W:000 D:004,Governor,,Democratic,Scatter,
+Broome,Fenton W:000 D:005,Governor,,Democratic,Scatter,
+Broome,Fenton W:000 D:006,Governor,,Democratic,Scatter,
+Broome,Fenton W:000 D:001,Governor,,Democratic,Void,
+Broome,Fenton W:000 D:002,Governor,,Democratic,Void,
+Broome,Fenton W:000 D:003,Governor,,Democratic,Void,
+Broome,Fenton W:000 D:004,Governor,,Democratic,Void,
+Broome,Fenton W:000 D:005,Governor,,Democratic,Void,
+Broome,Fenton W:000 D:006,Governor,,Democratic,Void,1
+Broome,Fenton W:000 D:001,Governor,,Democratic,Blank Votes,0
+Broome,Fenton W:000 D:002,Governor,,Democratic,Blank Votes,0
+Broome,Fenton W:000 D:003,Governor,,Democratic,Blank Votes,0
+Broome,Fenton W:000 D:004,Governor,,Democratic,Blank Votes,0
+Broome,Fenton W:000 D:005,Governor,,Democratic,Blank Votes,0
+Broome,Fenton W:000 D:006,Governor,,Democratic,Blank Votes,0
+Broome,Kirkwood W:000 D:001,Governor,,Democratic,Zephyr R Teachout,11
+Broome,Kirkwood W:000 D:002,Governor,,Democratic,Zephyr R Teachout,7
+Broome,Kirkwood W:000 D:003,Governor,,Democratic,Zephyr R Teachout,7
+Broome,Kirkwood W:000 D:004,Governor,,Democratic,Zephyr R Teachout,3
+Broome,Kirkwood W:000 D:001,Governor,,Democratic,Andrew M Cuomo,9
+Broome,Kirkwood W:000 D:002,Governor,,Democratic,Andrew M Cuomo,9
+Broome,Kirkwood W:000 D:003,Governor,,Democratic,Andrew M Cuomo,10
+Broome,Kirkwood W:000 D:004,Governor,,Democratic,Andrew M Cuomo,12
+Broome,Kirkwood W:000 D:001,Governor,,Democratic,Randy A Credico,2
+Broome,Kirkwood W:000 D:002,Governor,,Democratic,Randy A Credico,2
+Broome,Kirkwood W:000 D:003,Governor,,Democratic,Randy A Credico,2
+Broome,Kirkwood W:000 D:004,Governor,,Democratic,Randy A Credico,1
+Broome,Kirkwood W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Kirkwood W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Kirkwood W:000 D:003,Governor,,Democratic,Scatter,
+Broome,Kirkwood W:000 D:004,Governor,,Democratic,Scatter,
+Broome,Kirkwood W:000 D:001,Governor,,Democratic,Void,
+Broome,Kirkwood W:000 D:002,Governor,,Democratic,Void,
+Broome,Kirkwood W:000 D:003,Governor,,Democratic,Void,
+Broome,Kirkwood W:000 D:004,Governor,,Democratic,Void,
+Broome,Kirkwood W:000 D:001,Governor,,Democratic,Blank Votes,0
+Broome,Kirkwood W:000 D:002,Governor,,Democratic,Blank Votes,0
+Broome,Kirkwood W:000 D:003,Governor,,Democratic,Blank Votes,0
+Broome,Kirkwood W:000 D:004,Governor,,Democratic,Blank Votes,0
+Broome,Lisle W:000 D:001,Governor,,Democratic,Zephyr R Teachout,11
+Broome,Lisle W:000 D:002,Governor,,Democratic,Zephyr R Teachout,4
+Broome,Lisle W:000 D:001,Governor,,Democratic,Andrew M Cuomo,9
+Broome,Lisle W:000 D:002,Governor,,Democratic,Andrew M Cuomo,5
+Broome,Lisle W:000 D:001,Governor,,Democratic,Randy A Credico,0
+Broome,Lisle W:000 D:002,Governor,,Democratic,Randy A Credico,0
+Broome,Lisle W:000 D:001,Governor,,Democratic,Scatter,1
+Broome,Lisle W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Lisle W:000 D:001,Governor,,Democratic,Void,
+Broome,Lisle W:000 D:002,Governor,,Democratic,Void,
+Broome,Lisle W:000 D:001,Governor,,Democratic,Blank Votes,
+Broome,Lisle W:000 D:002,Governor,,Democratic,Blank Votes,
+Broome,Maine W:000 D:001,Governor,,Democratic,Zephyr R Teachout,5
+Broome,Maine W:000 D:002,Governor,,Democratic,Zephyr R Teachout,13
+Broome,Maine W:000 D:003,Governor,,Democratic,Zephyr R Teachout,10
+Broome,Maine W:000 D:004,Governor,,Democratic,Zephyr R Teachout,15
+Broome,Maine W:000 D:001,Governor,,Democratic,Andrew M Cuomo,9
+Broome,Maine W:000 D:002,Governor,,Democratic,Andrew M Cuomo,11
+Broome,Maine W:000 D:003,Governor,,Democratic,Andrew M Cuomo,11
+Broome,Maine W:000 D:004,Governor,,Democratic,Andrew M Cuomo,8
+Broome,Maine W:000 D:001,Governor,,Democratic,Randy A Credico,2
+Broome,Maine W:000 D:002,Governor,,Democratic,Randy A Credico,4
+Broome,Maine W:000 D:003,Governor,,Democratic,Randy A Credico,2
+Broome,Maine W:000 D:004,Governor,,Democratic,Randy A Credico,0
+Broome,Maine W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Maine W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Maine W:000 D:003,Governor,,Democratic,Scatter,
+Broome,Maine W:000 D:004,Governor,,Democratic,Scatter,1
+Broome,Maine W:000 D:001,Governor,,Democratic,Void,
+Broome,Maine W:000 D:002,Governor,,Democratic,Void,
+Broome,Maine W:000 D:003,Governor,,Democratic,Void,
+Broome,Maine W:000 D:004,Governor,,Democratic,Void,
+Broome,Maine W:000 D:001,Governor,,Democratic,Blank Votes,0
+Broome,Maine W:000 D:002,Governor,,Democratic,Blank Votes,2
+Broome,Maine W:000 D:003,Governor,,Democratic,Blank Votes,0
+Broome,Maine W:000 D:004,Governor,,Democratic,Blank Votes,0
+Broome,Nanticoke W:000 D:001,Governor,,Democratic,Zephyr R Teachout,11
+Broome,Nanticoke W:000 D:001,Governor,,Democratic,Andrew M Cuomo,5
+Broome,Nanticoke W:000 D:001,Governor,,Democratic,Randy A Credico,0
+Broome,Nanticoke W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Nanticoke W:000 D:001,Governor,,Democratic,Void,
+Broome,Nanticoke W:000 D:001,Governor,,Democratic,Blank Votes,0
+Broome,Sanford W:000 D:001,Governor,,Democratic,Zephyr R Teachout,1
+Broome,Sanford W:000 D:002,Governor,,Democratic,Zephyr R Teachout,7
+Broome,Sanford W:000 D:003,Governor,,Democratic,Zephyr R Teachout,13
+Broome,Sanford W:000 D:001,Governor,,Democratic,Andrew M Cuomo,0
+Broome,Sanford W:000 D:002,Governor,,Democratic,Andrew M Cuomo,6
+Broome,Sanford W:000 D:003,Governor,,Democratic,Andrew M Cuomo,4
+Broome,Sanford W:000 D:001,Governor,,Democratic,Randy A Credico,1
+Broome,Sanford W:000 D:002,Governor,,Democratic,Randy A Credico,4
+Broome,Sanford W:000 D:003,Governor,,Democratic,Randy A Credico,0
+Broome,Sanford W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Sanford W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Sanford W:000 D:003,Governor,,Democratic,Scatter,
+Broome,Sanford W:000 D:001,Governor,,Democratic,Void,
+Broome,Sanford W:000 D:002,Governor,,Democratic,Void,
+Broome,Sanford W:000 D:003,Governor,,Democratic,Void,
+Broome,Sanford W:000 D:001,Governor,,Democratic,Blank Votes,0
+Broome,Sanford W:000 D:002,Governor,,Democratic,Blank Votes,0
+Broome,Sanford W:000 D:003,Governor,,Democratic,Blank Votes,0
+Broome,Town Binghamton W:000 D:001,Governor,,Democratic,Zephyr R Teachout,26
+Broome,Town Binghamton W:000 D:002,Governor,,Democratic,Zephyr R Teachout,12
+Broome,Town Binghamton W:000 D:003,Governor,,Democratic,Zephyr R Teachout,25
+Broome,Town Binghamton W:000 D:001,Governor,,Democratic,Andrew M Cuomo,19
+Broome,Town Binghamton W:000 D:002,Governor,,Democratic,Andrew M Cuomo,8
+Broome,Town Binghamton W:000 D:003,Governor,,Democratic,Andrew M Cuomo,15
+Broome,Town Binghamton W:000 D:001,Governor,,Democratic,Randy A Credico,2
+Broome,Town Binghamton W:000 D:002,Governor,,Democratic,Randy A Credico,0
+Broome,Town Binghamton W:000 D:003,Governor,,Democratic,Randy A Credico,4
+Broome,Town Binghamton W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Town Binghamton W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Town Binghamton W:000 D:003,Governor,,Democratic,Scatter,
+Broome,Town Binghamton W:000 D:001,Governor,,Democratic,Void,
+Broome,Town Binghamton W:000 D:002,Governor,,Democratic,Void,
+Broome,Town Binghamton W:000 D:003,Governor,,Democratic,Void,
+Broome,Town Binghamton W:000 D:001,Governor,,Democratic,Blank Votes,0
+Broome,Town Binghamton W:000 D:002,Governor,,Democratic,Blank Votes,0
+Broome,Town Binghamton W:000 D:003,Governor,,Democratic,Blank Votes,1
+Broome,Triangle W:000 D:001,Governor,,Democratic,Zephyr R Teachout,19
+Broome,Triangle W:000 D:002,Governor,,Democratic,Zephyr R Teachout,14
+Broome,Triangle W:000 D:001,Governor,,Democratic,Andrew M Cuomo,13
+Broome,Triangle W:000 D:002,Governor,,Democratic,Andrew M Cuomo,17
+Broome,Triangle W:000 D:001,Governor,,Democratic,Randy A Credico,1
+Broome,Triangle W:000 D:002,Governor,,Democratic,Randy A Credico,4
+Broome,Triangle W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Triangle W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Triangle W:000 D:001,Governor,,Democratic,Void,
+Broome,Triangle W:000 D:002,Governor,,Democratic,Void,
+Broome,Triangle W:000 D:001,Governor,,Democratic,Blank Votes,
+Broome,Triangle W:000 D:002,Governor,,Democratic,Blank Votes,
+Broome,Union W:000 D:001,Governor,,Democratic,Zephyr R Teachout,10
+Broome,Union W:000 D:002,Governor,,Democratic,Zephyr R Teachout,9
+Broome,Union W:000 D:003,Governor,,Democratic,Zephyr R Teachout,6
+Broome,Union W:000 D:004,Governor,,Democratic,Zephyr R Teachout,14
+Broome,Union W:000 D:005,Governor,,Democratic,Zephyr R Teachout,7
+Broome,Union W:000 D:006,Governor,,Democratic,Zephyr R Teachout,8
+Broome,Union W:000 D:007,Governor,,Democratic,Zephyr R Teachout,8
+Broome,Union W:000 D:008,Governor,,Democratic,Zephyr R Teachout,3
+Broome,Union W:000 D:009,Governor,,Democratic,Zephyr R Teachout,6
+Broome,Union W:000 D:010,Governor,,Democratic,Zephyr R Teachout,9
+Broome,Union W:000 D:011,Governor,,Democratic,Zephyr R Teachout,3
+Broome,Union W:000 D:012,Governor,,Democratic,Zephyr R Teachout,6
+Broome,Union W:000 D:013,Governor,,Democratic,Zephyr R Teachout,7
+Broome,Union W:000 D:014,Governor,,Democratic,Zephyr R Teachout,9
+Broome,Union W:000 D:015,Governor,,Democratic,Zephyr R Teachout,14
+Broome,Union W:000 D:016,Governor,,Democratic,Zephyr R Teachout,8
+Broome,Union W:000 D:017,Governor,,Democratic,Zephyr R Teachout,4
+Broome,Union W:000 D:018,Governor,,Democratic,Zephyr R Teachout,14
+Broome,Union W:000 D:019,Governor,,Democratic,Zephyr R Teachout,10
+Broome,Union W:000 D:020,Governor,,Democratic,Zephyr R Teachout,11
+Broome,Union W:000 D:021,Governor,,Democratic,Zephyr R Teachout,4
+Broome,Union W:000 D:022,Governor,,Democratic,Zephyr R Teachout,12
+Broome,Union W:000 D:023,Governor,,Democratic,Zephyr R Teachout,15
+Broome,Union W:000 D:024,Governor,,Democratic,Zephyr R Teachout,9
+Broome,Union W:000 D:025,Governor,,Democratic,Zephyr R Teachout,7
+Broome,Union W:000 D:026,Governor,,Democratic,Zephyr R Teachout,14
+Broome,Union W:000 D:027,Governor,,Democratic,Zephyr R Teachout,5
+Broome,Union W:000 D:028,Governor,,Democratic,Zephyr R Teachout,14
+Broome,Union W:000 D:029,Governor,,Democratic,Zephyr R Teachout,10
+Broome,Union W:000 D:030,Governor,,Democratic,Zephyr R Teachout,13
+Broome,Union W:000 D:031,Governor,,Democratic,Zephyr R Teachout,9
+Broome,Union W:000 D:032,Governor,,Democratic,Zephyr R Teachout,6
+Broome,Union W:000 D:033,Governor,,Democratic,Zephyr R Teachout,5
+Broome,Union W:000 D:034,Governor,,Democratic,Zephyr R Teachout,11
+Broome,Union W:000 D:035,Governor,,Democratic,Zephyr R Teachout,25
+Broome,Union W:000 D:036,Governor,,Democratic,Zephyr R Teachout,16
+Broome,Union W:000 D:037,Governor,,Democratic,Zephyr R Teachout,9
+Broome,Union W:000 D:038,Governor,,Democratic,Zephyr R Teachout,18
+Broome,Union W:000 D:039,Governor,,Democratic,Zephyr R Teachout,3
+Broome,Union W:000 D:001,Governor,,Democratic,Andrew M Cuomo,17
+Broome,Union W:000 D:002,Governor,,Democratic,Andrew M Cuomo,9
+Broome,Union W:000 D:003,Governor,,Democratic,Andrew M Cuomo,11
+Broome,Union W:000 D:004,Governor,,Democratic,Andrew M Cuomo,16
+Broome,Union W:000 D:005,Governor,,Democratic,Andrew M Cuomo,12
+Broome,Union W:000 D:006,Governor,,Democratic,Andrew M Cuomo,21
+Broome,Union W:000 D:007,Governor,,Democratic,Andrew M Cuomo,10
+Broome,Union W:000 D:008,Governor,,Democratic,Andrew M Cuomo,7
+Broome,Union W:000 D:009,Governor,,Democratic,Andrew M Cuomo,13
+Broome,Union W:000 D:010,Governor,,Democratic,Andrew M Cuomo,13
+Broome,Union W:000 D:011,Governor,,Democratic,Andrew M Cuomo,5
+Broome,Union W:000 D:012,Governor,,Democratic,Andrew M Cuomo,22
+Broome,Union W:000 D:013,Governor,,Democratic,Andrew M Cuomo,15
+Broome,Union W:000 D:014,Governor,,Democratic,Andrew M Cuomo,11
+Broome,Union W:000 D:015,Governor,,Democratic,Andrew M Cuomo,19
+Broome,Union W:000 D:016,Governor,,Democratic,Andrew M Cuomo,17
+Broome,Union W:000 D:017,Governor,,Democratic,Andrew M Cuomo,18
+Broome,Union W:000 D:018,Governor,,Democratic,Andrew M Cuomo,17
+Broome,Union W:000 D:019,Governor,,Democratic,Andrew M Cuomo,9
+Broome,Union W:000 D:020,Governor,,Democratic,Andrew M Cuomo,13
+Broome,Union W:000 D:021,Governor,,Democratic,Andrew M Cuomo,17
+Broome,Union W:000 D:022,Governor,,Democratic,Andrew M Cuomo,18
+Broome,Union W:000 D:023,Governor,,Democratic,Andrew M Cuomo,23
+Broome,Union W:000 D:024,Governor,,Democratic,Andrew M Cuomo,4
+Broome,Union W:000 D:025,Governor,,Democratic,Andrew M Cuomo,21
+Broome,Union W:000 D:026,Governor,,Democratic,Andrew M Cuomo,10
+Broome,Union W:000 D:027,Governor,,Democratic,Andrew M Cuomo,31
+Broome,Union W:000 D:028,Governor,,Democratic,Andrew M Cuomo,17
+Broome,Union W:000 D:029,Governor,,Democratic,Andrew M Cuomo,10
+Broome,Union W:000 D:030,Governor,,Democratic,Andrew M Cuomo,13
+Broome,Union W:000 D:031,Governor,,Democratic,Andrew M Cuomo,15
+Broome,Union W:000 D:032,Governor,,Democratic,Andrew M Cuomo,20
+Broome,Union W:000 D:033,Governor,,Democratic,Andrew M Cuomo,13
+Broome,Union W:000 D:034,Governor,,Democratic,Andrew M Cuomo,10
+Broome,Union W:000 D:035,Governor,,Democratic,Andrew M Cuomo,25
+Broome,Union W:000 D:036,Governor,,Democratic,Andrew M Cuomo,24
+Broome,Union W:000 D:037,Governor,,Democratic,Andrew M Cuomo,21
+Broome,Union W:000 D:038,Governor,,Democratic,Andrew M Cuomo,10
+Broome,Union W:000 D:039,Governor,,Democratic,Andrew M Cuomo,4
+Broome,Union W:000 D:001,Governor,,Democratic,Randy A Credico,0
+Broome,Union W:000 D:002,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:003,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:004,Governor,,Democratic,Randy A Credico,0
+Broome,Union W:000 D:005,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:006,Governor,,Democratic,Randy A Credico,3
+Broome,Union W:000 D:007,Governor,,Democratic,Randy A Credico,2
+Broome,Union W:000 D:008,Governor,,Democratic,Randy A Credico,2
+Broome,Union W:000 D:009,Governor,,Democratic,Randy A Credico,4
+Broome,Union W:000 D:010,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:011,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:012,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:013,Governor,,Democratic,Randy A Credico,4
+Broome,Union W:000 D:014,Governor,,Democratic,Randy A Credico,2
+Broome,Union W:000 D:015,Governor,,Democratic,Randy A Credico,0
+Broome,Union W:000 D:016,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:017,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:018,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:019,Governor,,Democratic,Randy A Credico,0
+Broome,Union W:000 D:020,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:021,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:022,Governor,,Democratic,Randy A Credico,6
+Broome,Union W:000 D:023,Governor,,Democratic,Randy A Credico,0
+Broome,Union W:000 D:024,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:025,Governor,,Democratic,Randy A Credico,0
+Broome,Union W:000 D:026,Governor,,Democratic,Randy A Credico,0
+Broome,Union W:000 D:027,Governor,,Democratic,Randy A Credico,2
+Broome,Union W:000 D:028,Governor,,Democratic,Randy A Credico,0
+Broome,Union W:000 D:029,Governor,,Democratic,Randy A Credico,2
+Broome,Union W:000 D:030,Governor,,Democratic,Randy A Credico,2
+Broome,Union W:000 D:031,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:032,Governor,,Democratic,Randy A Credico,4
+Broome,Union W:000 D:033,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:034,Governor,,Democratic,Randy A Credico,2
+Broome,Union W:000 D:035,Governor,,Democratic,Randy A Credico,0
+Broome,Union W:000 D:036,Governor,,Democratic,Randy A Credico,2
+Broome,Union W:000 D:037,Governor,,Democratic,Randy A Credico,3
+Broome,Union W:000 D:038,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:039,Governor,,Democratic,Randy A Credico,1
+Broome,Union WARD TOTALS,Governor,,Democratic,Randy A Credico,56
+Broome,Union Vestal,Governor,,Democratic,Randy A Credico,Randy A Credico
+Broome,Union W:000 D:001,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:002,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:003,Governor,,Democratic,Randy A Credico,2
+Broome,Union W:000 D:004,Governor,,Democratic,Randy A Credico,0
+Broome,Union W:000 D:005,Governor,,Democratic,Randy A Credico,2
+Broome,Union W:000 D:006,Governor,,Democratic,Randy A Credico,5
+Broome,Union W:000 D:007,Governor,,Democratic,Randy A Credico,6
+Broome,Union W:000 D:008,Governor,,Democratic,Randy A Credico,3
+Broome,Union W:000 D:009,Governor,,Democratic,Randy A Credico,0
+Broome,Union W:000 D:010,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:011,Governor,,Democratic,Randy A Credico,0
+Broome,Union W:000 D:012,Governor,,Democratic,Randy A Credico,0
+Broome,Union W:000 D:013,Governor,,Democratic,Randy A Credico,0
+Broome,Union W:000 D:014,Governor,,Democratic,Randy A Credico,3
+Broome,Union W:000 D:015,Governor,,Democratic,Randy A Credico,2
+Broome,Union W:000 D:016,Governor,,Democratic,Randy A Credico,3
+Broome,Union W:000 D:017,Governor,,Democratic,Randy A Credico,1
+Broome,Union W:000 D:018,Governor,,Democratic,Randy A Credico,2
+Broome,Union W:000 D:019,Governor,,Democratic,Randy A Credico,3
+Broome,Union W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:003,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:004,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:005,Governor,,Democratic,Scatter,2
+Broome,Union W:000 D:006,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:007,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:008,Governor,,Democratic,Scatter,1
+Broome,Union W:000 D:009,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:010,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:011,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:012,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:013,Governor,,Democratic,Scatter,1
+Broome,Union W:000 D:014,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:015,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:016,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:017,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:018,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:019,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:020,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:021,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:022,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:023,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:024,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:025,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:026,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:027,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:028,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:029,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:030,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:031,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:032,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:033,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:034,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:035,Governor,,Democratic,Scatter,1
+Broome,Union W:000 D:036,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:037,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:038,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:039,Governor,,Democratic,Scatter,
+Broome,Union WARD TOTALS,Governor,,Democratic,Scatter,5
+Broome,Union Vestal,Governor,,Democratic,Scatter,Scatter
+Broome,Union W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:003,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:004,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:005,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:006,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:007,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:008,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:009,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:010,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:011,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:012,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:013,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:014,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:015,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:016,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:017,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:018,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:019,Governor,,Democratic,Scatter,
+Broome,Union W:000 D:001,Governor,,Democratic,Void,
+Broome,Union W:000 D:002,Governor,,Democratic,Void,
+Broome,Union W:000 D:003,Governor,,Democratic,Void,
+Broome,Union W:000 D:004,Governor,,Democratic,Void,1
+Broome,Union W:000 D:005,Governor,,Democratic,Void,
+Broome,Union W:000 D:006,Governor,,Democratic,Void,
+Broome,Union W:000 D:007,Governor,,Democratic,Void,
+Broome,Union W:000 D:008,Governor,,Democratic,Void,
+Broome,Union W:000 D:009,Governor,,Democratic,Void,
+Broome,Union W:000 D:010,Governor,,Democratic,Void,
+Broome,Union W:000 D:011,Governor,,Democratic,Void,
+Broome,Union W:000 D:012,Governor,,Democratic,Void,
+Broome,Union W:000 D:013,Governor,,Democratic,Void,
+Broome,Union W:000 D:014,Governor,,Democratic,Void,
+Broome,Union W:000 D:015,Governor,,Democratic,Void,
+Broome,Union W:000 D:016,Governor,,Democratic,Void,
+Broome,Union W:000 D:017,Governor,,Democratic,Void,
+Broome,Union W:000 D:018,Governor,,Democratic,Void,
+Broome,Union W:000 D:019,Governor,,Democratic,Void,
+Broome,Union W:000 D:020,Governor,,Democratic,Void,
+Broome,Union W:000 D:021,Governor,,Democratic,Void,
+Broome,Union W:000 D:022,Governor,,Democratic,Void,
+Broome,Union W:000 D:023,Governor,,Democratic,Void,
+Broome,Union W:000 D:024,Governor,,Democratic,Void,
+Broome,Union W:000 D:025,Governor,,Democratic,Void,
+Broome,Union W:000 D:026,Governor,,Democratic,Void,
+Broome,Union W:000 D:027,Governor,,Democratic,Void,
+Broome,Union W:000 D:028,Governor,,Democratic,Void,
+Broome,Union W:000 D:029,Governor,,Democratic,Void,
+Broome,Union W:000 D:030,Governor,,Democratic,Void,
+Broome,Union W:000 D:031,Governor,,Democratic,Void,
+Broome,Union W:000 D:032,Governor,,Democratic,Void,
+Broome,Union W:000 D:033,Governor,,Democratic,Void,
+Broome,Union W:000 D:034,Governor,,Democratic,Void,
+Broome,Union W:000 D:035,Governor,,Democratic,Void,
+Broome,Union W:000 D:036,Governor,,Democratic,Void,
+Broome,Union W:000 D:037,Governor,,Democratic,Void,
+Broome,Union W:000 D:038,Governor,,Democratic,Void,
+Broome,Union W:000 D:039,Governor,,Democratic,Void,
+Broome,Union W:000 D:001,Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:002,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:003,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:004,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:005,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:006,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:007,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:008,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:009,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:010,Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:011,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:012,Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:013,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:014,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:015,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:016,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:017,Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:018,Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:019,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:020,Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:021,Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:022,Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:023,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:024,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:025,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:026,Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:027,Governor,,Democratic,Blank Votes,3
+Broome,Union W:000 D:028,Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:029,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:030,Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:031,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:032,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:033,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:034,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:035,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:036,Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:037,Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:038,Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:039,Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:001,Governor,,Democratic,Zephyr R Teachout,10
+Broome,Vestal W:000 D:002,Governor,,Democratic,Zephyr R Teachout,25
+Broome,Vestal W:000 D:003,Governor,,Democratic,Zephyr R Teachout,2
+Broome,Vestal W:000 D:004,Governor,,Democratic,Zephyr R Teachout,10
+Broome,Vestal W:000 D:005,Governor,,Democratic,Zephyr R Teachout,26
+Broome,Vestal W:000 D:006,Governor,,Democratic,Zephyr R Teachout,20
+Broome,Vestal W:000 D:007,Governor,,Democratic,Zephyr R Teachout,22
+Broome,Vestal W:000 D:008,Governor,,Democratic,Zephyr R Teachout,21
+Broome,Vestal W:000 D:009,Governor,,Democratic,Zephyr R Teachout,19
+Broome,Vestal W:000 D:010,Governor,,Democratic,Zephyr R Teachout,15
+Broome,Vestal W:000 D:011,Governor,,Democratic,Zephyr R Teachout,0
+Broome,Vestal W:000 D:012,Governor,,Democratic,Zephyr R Teachout,1
+Broome,Vestal W:000 D:013,Governor,,Democratic,Zephyr R Teachout,3
+Broome,Vestal W:000 D:014,Governor,,Democratic,Zephyr R Teachout,14
+Broome,Vestal W:000 D:015,Governor,,Democratic,Zephyr R Teachout,14
+Broome,Vestal W:000 D:016,Governor,,Democratic,Zephyr R Teachout,7
+Broome,Vestal W:000 D:017,Governor,,Democratic,Zephyr R Teachout,3
+Broome,Vestal W:000 D:018,Governor,,Democratic,Zephyr R Teachout,21
+Broome,Vestal W:000 D:019,Governor,,Democratic,Zephyr R Teachout,30
+Broome,Vestal W:000 D:001,Governor,,Democratic,Andrew M Cuomo,14
+Broome,Vestal W:000 D:002,Governor,,Democratic,Andrew M Cuomo,45
+Broome,Vestal W:000 D:003,Governor,,Democratic,Andrew M Cuomo,9
+Broome,Vestal W:000 D:004,Governor,,Democratic,Andrew M Cuomo,15
+Broome,Vestal W:000 D:005,Governor,,Democratic,Andrew M Cuomo,22
+Broome,Vestal W:000 D:006,Governor,,Democratic,Andrew M Cuomo,18
+Broome,Vestal W:000 D:007,Governor,,Democratic,Andrew M Cuomo,26
+Broome,Vestal W:000 D:008,Governor,,Democratic,Andrew M Cuomo,20
+Broome,Vestal W:000 D:009,Governor,,Democratic,Andrew M Cuomo,31
+Broome,Vestal W:000 D:010,Governor,,Democratic,Andrew M Cuomo,27
+Broome,Vestal W:000 D:011,Governor,,Democratic,Andrew M Cuomo,0
+Broome,Vestal W:000 D:012,Governor,,Democratic,Andrew M Cuomo,1
+Broome,Vestal W:000 D:013,Governor,,Democratic,Andrew M Cuomo,3
+Broome,Vestal W:000 D:014,Governor,,Democratic,Andrew M Cuomo,23
+Broome,Vestal W:000 D:015,Governor,,Democratic,Andrew M Cuomo,10
+Broome,Vestal W:000 D:016,Governor,,Democratic,Andrew M Cuomo,7
+Broome,Vestal W:000 D:017,Governor,,Democratic,Andrew M Cuomo,11
+Broome,Vestal W:000 D:018,Governor,,Democratic,Andrew M Cuomo,10
+Broome,Vestal W:000 D:019,Governor,,Democratic,Andrew M Cuomo,28
+Broome,Vestal W:000 D:001,Governor,,Democratic,Randy A Credico,1
+Broome,Vestal W:000 D:002,Governor,,Democratic,Randy A Credico,1
+Broome,Vestal W:000 D:003,Governor,,Democratic,Randy A Credico,2
+Broome,Vestal W:000 D:004,Governor,,Democratic,Randy A Credico,0
+Broome,Vestal W:000 D:005,Governor,,Democratic,Randy A Credico,2
+Broome,Vestal W:000 D:006,Governor,,Democratic,Randy A Credico,5
+Broome,Vestal W:000 D:007,Governor,,Democratic,Randy A Credico,6
+Broome,Vestal W:000 D:008,Governor,,Democratic,Randy A Credico,3
+Broome,Vestal W:000 D:009,Governor,,Democratic,Randy A Credico,0
+Broome,Vestal W:000 D:010,Governor,,Democratic,Randy A Credico,1
+Broome,Vestal W:000 D:011,Governor,,Democratic,Randy A Credico,0
+Broome,Vestal W:000 D:012,Governor,,Democratic,Randy A Credico,0
+Broome,Vestal W:000 D:013,Governor,,Democratic,Randy A Credico,0
+Broome,Vestal W:000 D:014,Governor,,Democratic,Randy A Credico,3
+Broome,Vestal W:000 D:015,Governor,,Democratic,Randy A Credico,2
+Broome,Vestal W:000 D:016,Governor,,Democratic,Randy A Credico,3
+Broome,Vestal W:000 D:017,Governor,,Democratic,Randy A Credico,1
+Broome,Vestal W:000 D:018,Governor,,Democratic,Randy A Credico,2
+Broome,Vestal W:000 D:019,Governor,,Democratic,Randy A Credico,3
+Broome,Vestal W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:003,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:004,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:005,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:006,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:007,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:008,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:009,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:010,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:011,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:012,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:013,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:014,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:015,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:016,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:017,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:018,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:019,Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:001,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:002,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:003,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:004,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:005,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:006,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:007,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:008,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:009,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:010,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:011,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:012,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:013,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:014,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:015,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:016,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:017,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:018,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:019,Governor,,Democratic,Void,
+Broome,Vestal W:000 D:001,Governor,,Democratic,Blank Votes,2
+Broome,Vestal W:000 D:002,Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:003,Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:004,Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:005,Governor,,Democratic,Blank Votes,2
+Broome,Vestal W:000 D:006,Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:007,Governor,,Democratic,Blank Votes,2
+Broome,Vestal W:000 D:008,Governor,,Democratic,Blank Votes,1
+Broome,Vestal W:000 D:009,Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:010,Governor,,Democratic,Blank Votes,1
+Broome,Vestal W:000 D:011,Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:012,Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:013,Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:014,Governor,,Democratic,Blank Votes,1
+Broome,Vestal W:000 D:015,Governor,,Democratic,Blank Votes,2
+Broome,Vestal W:000 D:016,Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:017,Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:018,Governor,,Democratic,Blank Votes,2
+Broome,Vestal W:000 D:019,Governor,,Democratic,Blank Votes,1
+Broome,Windsor W:000 D:001,Governor,,Democratic,Zephyr R Teachout,14
+Broome,Windsor W:000 D:002,Governor,,Democratic,Zephyr R Teachout,4
+Broome,Windsor W:000 D:003,Governor,,Democratic,Zephyr R Teachout,10
+Broome,Windsor W:000 D:004,Governor,,Democratic,Zephyr R Teachout,15
+Broome,Windsor W:000 D:005,Governor,,Democratic,Zephyr R Teachout,6
+Broome,Windsor W:000 D:001,Governor,,Democratic,Andrew M Cuomo,8
+Broome,Windsor W:000 D:002,Governor,,Democratic,Andrew M Cuomo,8
+Broome,Windsor W:000 D:003,Governor,,Democratic,Andrew M Cuomo,3
+Broome,Windsor W:000 D:004,Governor,,Democratic,Andrew M Cuomo,5
+Broome,Windsor W:000 D:005,Governor,,Democratic,Andrew M Cuomo,5
+Broome,Windsor W:000 D:001,Governor,,Democratic,Randy A Credico,1
+Broome,Windsor W:000 D:002,Governor,,Democratic,Randy A Credico,1
+Broome,Windsor W:000 D:003,Governor,,Democratic,Randy A Credico,4
+Broome,Windsor W:000 D:004,Governor,,Democratic,Randy A Credico,7
+Broome,Windsor W:000 D:005,Governor,,Democratic,Randy A Credico,0
+Broome,Windsor W:000 D:001,Governor,,Democratic,Scatter,
+Broome,Windsor W:000 D:002,Governor,,Democratic,Scatter,
+Broome,Windsor W:000 D:003,Governor,,Democratic,Scatter,
+Broome,Windsor W:000 D:004,Governor,,Democratic,Scatter,
+Broome,Windsor W:000 D:005,Governor,,Democratic,Scatter,
+Broome,Windsor W:000 D:001,Governor,,Democratic,Void,
+Broome,Windsor W:000 D:002,Governor,,Democratic,Void,
+Broome,Windsor W:000 D:003,Governor,,Democratic,Void,
+Broome,Windsor W:000 D:004,Governor,,Democratic,Void,
+Broome,Windsor W:000 D:005,Governor,,Democratic,Void,
+Broome,Windsor W:000 D:001,Governor,,Democratic,Blank Votes,0
+Broome,Windsor W:000 D:002,Governor,,Democratic,Blank Votes,0
+Broome,Windsor W:000 D:003,Governor,,Democratic,Blank Votes,0
+Broome,Windsor W:000 D:004,Governor,,Democratic,Blank Votes,0
+Broome,Windsor W:000 D:005,Governor,,Democratic,Blank Votes,0
+Broome,Barker W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,4
+Broome,Barker W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,7
+Broome,Barker W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,5
+Broome,Barker W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,13
+Broome,Barker W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Barker W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,Barker W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Barker W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,Barker W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Barker W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Chenango W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,18
+Broome,Chenango W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,23
+Broome,Chenango W:000 D:003,Lieutenant Governor,,Democratic,Kathy C Hochul,21
+Broome,Chenango W:000 D:004,Lieutenant Governor,,Democratic,Kathy C Hochul,11
+Broome,Chenango W:000 D:005,Lieutenant Governor,,Democratic,Kathy C Hochul,14
+Broome,Chenango W:000 D:006,Lieutenant Governor,,Democratic,Kathy C Hochul,20
+Broome,Chenango W:000 D:007,Lieutenant Governor,,Democratic,Kathy C Hochul,10
+Broome,Chenango W:000 D:008,Lieutenant Governor,,Democratic,Kathy C Hochul,20
+Broome,Chenango W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,22
+Broome,Chenango W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,7
+Broome,Chenango W:000 D:003,Lieutenant Governor,,Democratic,Timothy Wu,14
+Broome,Chenango W:000 D:004,Lieutenant Governor,,Democratic,Timothy Wu,12
+Broome,Chenango W:000 D:005,Lieutenant Governor,,Democratic,Timothy Wu,6
+Broome,Chenango W:000 D:006,Lieutenant Governor,,Democratic,Timothy Wu,19
+Broome,Chenango W:000 D:007,Lieutenant Governor,,Democratic,Timothy Wu,12
+Broome,Chenango W:000 D:008,Lieutenant Governor,,Democratic,Timothy Wu,14
+Broome,Chenango W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:003,Lieutenant Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:004,Lieutenant Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:005,Lieutenant Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:006,Lieutenant Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:007,Lieutenant Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:008,Lieutenant Governor,,Democratic,Scatter,
+Broome,Chenango W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Chenango W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,Chenango W:000 D:003,Lieutenant Governor,,Democratic,Void,
+Broome,Chenango W:000 D:004,Lieutenant Governor,,Democratic,Void,
+Broome,Chenango W:000 D:005,Lieutenant Governor,,Democratic,Void,
+Broome,Chenango W:000 D:006,Lieutenant Governor,,Democratic,Void,
+Broome,Chenango W:000 D:007,Lieutenant Governor,,Democratic,Void,
+Broome,Chenango W:000 D:008,Lieutenant Governor,,Democratic,Void,
+Broome,Chenango W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,Chenango W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Chenango W:000 D:003,Lieutenant Governor,,Democratic,Blank Votes,4
+Broome,Chenango W:000 D:004,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Chenango W:000 D:005,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Chenango W:000 D:006,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Chenango W:000 D:007,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Chenango W:000 D:008,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,City Binghamton W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,29
+Broome,City Binghamton W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,5
+Broome,City Binghamton W:000 D:003,Lieutenant Governor,,Democratic,Kathy C Hochul,15
+Broome,City Binghamton W:000 D:004,Lieutenant Governor,,Democratic,Kathy C Hochul,12
+Broome,City Binghamton W:000 D:005,Lieutenant Governor,,Democratic,Kathy C Hochul,16
+Broome,City Binghamton W:000 D:006,Lieutenant Governor,,Democratic,Kathy C Hochul,17
+Broome,City Binghamton W:000 D:007,Lieutenant Governor,,Democratic,Kathy C Hochul,8
+Broome,City Binghamton W:000 D:008,Lieutenant Governor,,Democratic,Kathy C Hochul,20
+Broome,City Binghamton W:000 D:009,Lieutenant Governor,,Democratic,Kathy C Hochul,15
+Broome,City Binghamton W:000 D:010,Lieutenant Governor,,Democratic,Kathy C Hochul,8
+Broome,City Binghamton W:000 D:011,Lieutenant Governor,,Democratic,Kathy C Hochul,17
+Broome,City Binghamton W:000 D:012,Lieutenant Governor,,Democratic,Kathy C Hochul,32
+Broome,City Binghamton W:000 D:013,Lieutenant Governor,,Democratic,Kathy C Hochul,30
+Broome,City Binghamton W:000 D:014,Lieutenant Governor,,Democratic,Kathy C Hochul,19
+Broome,City Binghamton W:000 D:015,Lieutenant Governor,,Democratic,Kathy C Hochul,27
+Broome,City Binghamton W:000 D:016,Lieutenant Governor,,Democratic,Kathy C Hochul,32
+Broome,City Binghamton W:000 D:017,Lieutenant Governor,,Democratic,Kathy C Hochul,20
+Broome,City Binghamton W:000 D:018,Lieutenant Governor,,Democratic,Kathy C Hochul,16
+Broome,City Binghamton W:000 D:019,Lieutenant Governor,,Democratic,Kathy C Hochul,26
+Broome,City Binghamton W:000 D:020,Lieutenant Governor,,Democratic,Kathy C Hochul,23
+Broome,City Binghamton W:000 D:021,Lieutenant Governor,,Democratic,Kathy C Hochul,22
+Broome,City Binghamton W:000 D:022,Lieutenant Governor,,Democratic,Kathy C Hochul,8
+Broome,City Binghamton W:000 D:023,Lieutenant Governor,,Democratic,Kathy C Hochul,36
+Broome,City Binghamton W:000 D:024,Lieutenant Governor,,Democratic,Kathy C Hochul,15
+Broome,City Binghamton W:000 D:025,Lieutenant Governor,,Democratic,Kathy C Hochul,17
+Broome,City Binghamton W:000 D:026,Lieutenant Governor,,Democratic,Kathy C Hochul,28
+Broome,City Binghamton W:000 D:027,Lieutenant Governor,,Democratic,Kathy C Hochul,12
+Broome,City Binghamton W:000 D:028,Lieutenant Governor,,Democratic,Kathy C Hochul,14
+Broome,City Binghamton W:000 D:029,Lieutenant Governor,,Democratic,Kathy C Hochul,10
+Broome,City Binghamton W:000 D:030,Lieutenant Governor,,Democratic,Kathy C Hochul,9
+Broome,City Binghamton W:000 D:031,Lieutenant Governor,,Democratic,Kathy C Hochul,14
+Broome,City Binghamton W:000 D:032,Lieutenant Governor,,Democratic,Kathy C Hochul,15
+Broome,City Binghamton W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,8
+Broome,City Binghamton W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,8
+Broome,City Binghamton W:000 D:003,Lieutenant Governor,,Democratic,Timothy Wu,13
+Broome,City Binghamton W:000 D:004,Lieutenant Governor,,Democratic,Timothy Wu,6
+Broome,City Binghamton W:000 D:005,Lieutenant Governor,,Democratic,Timothy Wu,11
+Broome,City Binghamton W:000 D:006,Lieutenant Governor,,Democratic,Timothy Wu,7
+Broome,City Binghamton W:000 D:007,Lieutenant Governor,,Democratic,Timothy Wu,8
+Broome,City Binghamton W:000 D:008,Lieutenant Governor,,Democratic,Timothy Wu,11
+Broome,City Binghamton W:000 D:009,Lieutenant Governor,,Democratic,Timothy Wu,9
+Broome,City Binghamton W:000 D:010,Lieutenant Governor,,Democratic,Timothy Wu,10
+Broome,City Binghamton W:000 D:011,Lieutenant Governor,,Democratic,Timothy Wu,7
+Broome,City Binghamton W:000 D:012,Lieutenant Governor,,Democratic,Timothy Wu,16
+Broome,City Binghamton W:000 D:013,Lieutenant Governor,,Democratic,Timothy Wu,23
+Broome,City Binghamton W:000 D:014,Lieutenant Governor,,Democratic,Timothy Wu,12
+Broome,City Binghamton W:000 D:015,Lieutenant Governor,,Democratic,Timothy Wu,21
+Broome,City Binghamton W:000 D:016,Lieutenant Governor,,Democratic,Timothy Wu,28
+Broome,City Binghamton W:000 D:017,Lieutenant Governor,,Democratic,Timothy Wu,21
+Broome,City Binghamton W:000 D:018,Lieutenant Governor,,Democratic,Timothy Wu,8
+Broome,City Binghamton W:000 D:019,Lieutenant Governor,,Democratic,Timothy Wu,20
+Broome,City Binghamton W:000 D:020,Lieutenant Governor,,Democratic,Timothy Wu,22
+Broome,City Binghamton W:000 D:021,Lieutenant Governor,,Democratic,Timothy Wu,27
+Broome,City Binghamton W:000 D:022,Lieutenant Governor,,Democratic,Timothy Wu,6
+Broome,City Binghamton W:000 D:023,Lieutenant Governor,,Democratic,Timothy Wu,50
+Broome,City Binghamton W:000 D:024,Lieutenant Governor,,Democratic,Timothy Wu,27
+Broome,City Binghamton W:000 D:025,Lieutenant Governor,,Democratic,Timothy Wu,26
+Broome,City Binghamton W:000 D:026,Lieutenant Governor,,Democratic,Timothy Wu,11
+Broome,City Binghamton W:000 D:027,Lieutenant Governor,,Democratic,Timothy Wu,7
+Broome,City Binghamton W:000 D:028,Lieutenant Governor,,Democratic,Timothy Wu,10
+Broome,City Binghamton W:000 D:029,Lieutenant Governor,,Democratic,Timothy Wu,13
+Broome,City Binghamton W:000 D:030,Lieutenant Governor,,Democratic,Timothy Wu,11
+Broome,City Binghamton W:000 D:031,Lieutenant Governor,,Democratic,Timothy Wu,8
+Broome,City Binghamton W:000 D:032,Lieutenant Governor,,Democratic,Timothy Wu,6
+Broome,City Binghamton W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:003,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:004,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:005,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:006,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:007,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:008,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:009,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:010,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:011,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:012,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:013,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:014,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:015,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:016,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:017,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:018,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:019,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:020,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:021,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:022,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:023,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:024,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:025,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:026,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:027,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:028,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:029,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:030,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:031,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:032,Lieutenant Governor,,Democratic,Scatter,
+Broome,City Binghamton W:000 D:001,Lieutenant Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:003,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:004,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:005,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:006,Lieutenant Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:007,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:008,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:009,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:010,Lieutenant Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:011,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:012,Lieutenant Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:013,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:014,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:015,Lieutenant Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:016,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:017,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:018,Lieutenant Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:019,Lieutenant Governor,,Democratic,Void,2
+Broome,City Binghamton W:000 D:020,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:021,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:022,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:023,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:024,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:025,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:026,Lieutenant Governor,,Democratic,Void,1
+Broome,City Binghamton W:000 D:027,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:028,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:029,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:030,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:031,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:032,Lieutenant Governor,,Democratic,Void,
+Broome,City Binghamton W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,6
+Broome,City Binghamton W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,City Binghamton W:000 D:003,Lieutenant Governor,,Democratic,Blank Votes,6
+Broome,City Binghamton W:000 D:004,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,City Binghamton W:000 D:005,Lieutenant Governor,,Democratic,Blank Votes,9
+Broome,City Binghamton W:000 D:006,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,City Binghamton W:000 D:007,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,City Binghamton W:000 D:008,Lieutenant Governor,,Democratic,Blank Votes,7
+Broome,City Binghamton W:000 D:009,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,City Binghamton W:000 D:010,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,City Binghamton W:000 D:011,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,City Binghamton W:000 D:012,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,City Binghamton W:000 D:013,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,City Binghamton W:000 D:014,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,City Binghamton W:000 D:015,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,City Binghamton W:000 D:016,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,City Binghamton W:000 D:017,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,City Binghamton W:000 D:018,Lieutenant Governor,,Democratic,Blank Votes,5
+Broome,City Binghamton W:000 D:019,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,City Binghamton W:000 D:020,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,City Binghamton W:000 D:021,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,City Binghamton W:000 D:022,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,City Binghamton W:000 D:023,Lieutenant Governor,,Democratic,Blank Votes,9
+Broome,City Binghamton W:000 D:024,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,City Binghamton W:000 D:025,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,City Binghamton W:000 D:026,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,City Binghamton W:000 D:027,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,City Binghamton W:000 D:028,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,City Binghamton W:000 D:029,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,City Binghamton W:000 D:030,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,City Binghamton W:000 D:031,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,City Binghamton W:000 D:032,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Colesville W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,12
+Broome,Colesville W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,14
+Broome,Colesville W:000 D:003,Lieutenant Governor,,Democratic,Kathy C Hochul,11
+Broome,Colesville W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,9
+Broome,Colesville W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,7
+Broome,Colesville W:000 D:003,Lieutenant Governor,,Democratic,Timothy Wu,5
+Broome,Colesville W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Colesville W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,Colesville W:000 D:003,Lieutenant Governor,,Democratic,Scatter,
+Broome,Colesville W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Colesville W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,Colesville W:000 D:003,Lieutenant Governor,,Democratic,Void,
+Broome,Colesville W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Colesville W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Colesville W:000 D:003,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Conklin W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,9
+Broome,Conklin W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,20
+Broome,Conklin W:000 D:003,Lieutenant Governor,,Democratic,Kathy C Hochul,18
+Broome,Conklin W:000 D:004,Lieutenant Governor,,Democratic,Kathy C Hochul,12
+Broome,Conklin W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,4
+Broome,Conklin W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,13
+Broome,Conklin W:000 D:003,Lieutenant Governor,,Democratic,Timothy Wu,12
+Broome,Conklin W:000 D:004,Lieutenant Governor,,Democratic,Timothy Wu,4
+Broome,Conklin W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Conklin W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,Conklin W:000 D:003,Lieutenant Governor,,Democratic,Scatter,
+Broome,Conklin W:000 D:004,Lieutenant Governor,,Democratic,Scatter,
+Broome,Conklin W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Conklin W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,Conklin W:000 D:003,Lieutenant Governor,,Democratic,Void,
+Broome,Conklin W:000 D:004,Lieutenant Governor,,Democratic,Void,
+Broome,Conklin W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Conklin W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,5
+Broome,Conklin W:000 D:003,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Conklin W:000 D:004,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Dickinson W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,12
+Broome,Dickinson W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,27
+Broome,Dickinson W:000 D:003,Lieutenant Governor,,Democratic,Kathy C Hochul,28
+Broome,Dickinson W:000 D:004,Lieutenant Governor,,Democratic,Kathy C Hochul,3
+Broome,Dickinson W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,9
+Broome,Dickinson W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,17
+Broome,Dickinson W:000 D:003,Lieutenant Governor,,Democratic,Timothy Wu,14
+Broome,Dickinson W:000 D:004,Lieutenant Governor,,Democratic,Timothy Wu,0
+Broome,Dickinson W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Dickinson W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,Dickinson W:000 D:003,Lieutenant Governor,,Democratic,Scatter,
+Broome,Dickinson W:000 D:004,Lieutenant Governor,,Democratic,Scatter,
+Broome,Dickinson W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Dickinson W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,Dickinson W:000 D:003,Lieutenant Governor,,Democratic,Void,
+Broome,Dickinson W:000 D:004,Lieutenant Governor,,Democratic,Void,
+Broome,Dickinson W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Dickinson W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Dickinson W:000 D:003,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Dickinson W:000 D:004,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Fenton W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,13
+Broome,Fenton W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,11
+Broome,Fenton W:000 D:003,Lieutenant Governor,,Democratic,Kathy C Hochul,8
+Broome,Fenton W:000 D:004,Lieutenant Governor,,Democratic,Kathy C Hochul,12
+Broome,Fenton W:000 D:005,Lieutenant Governor,,Democratic,Kathy C Hochul,4
+Broome,Fenton W:000 D:006,Lieutenant Governor,,Democratic,Kathy C Hochul,5
+Broome,Fenton W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,5
+Broome,Fenton W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,6
+Broome,Fenton W:000 D:003,Lieutenant Governor,,Democratic,Timothy Wu,2
+Broome,Fenton W:000 D:004,Lieutenant Governor,,Democratic,Timothy Wu,5
+Broome,Fenton W:000 D:005,Lieutenant Governor,,Democratic,Timothy Wu,10
+Broome,Fenton W:000 D:006,Lieutenant Governor,,Democratic,Timothy Wu,14
+Broome,Fenton W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Fenton W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,Fenton W:000 D:003,Lieutenant Governor,,Democratic,Scatter,
+Broome,Fenton W:000 D:004,Lieutenant Governor,,Democratic,Scatter,
+Broome,Fenton W:000 D:005,Lieutenant Governor,,Democratic,Scatter,
+Broome,Fenton W:000 D:006,Lieutenant Governor,,Democratic,Scatter,
+Broome,Fenton W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Fenton W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,Fenton W:000 D:003,Lieutenant Governor,,Democratic,Void,
+Broome,Fenton W:000 D:004,Lieutenant Governor,,Democratic,Void,
+Broome,Fenton W:000 D:005,Lieutenant Governor,,Democratic,Void,
+Broome,Fenton W:000 D:006,Lieutenant Governor,,Democratic,Void,1
+Broome,Fenton W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Fenton W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Fenton W:000 D:003,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Fenton W:000 D:004,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Fenton W:000 D:005,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Fenton W:000 D:006,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Kirkwood W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,11
+Broome,Kirkwood W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,8
+Broome,Kirkwood W:000 D:003,Lieutenant Governor,,Democratic,Kathy C Hochul,12
+Broome,Kirkwood W:000 D:004,Lieutenant Governor,,Democratic,Kathy C Hochul,11
+Broome,Kirkwood W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,11
+Broome,Kirkwood W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,7
+Broome,Kirkwood W:000 D:003,Lieutenant Governor,,Democratic,Timothy Wu,4
+Broome,Kirkwood W:000 D:004,Lieutenant Governor,,Democratic,Timothy Wu,4
+Broome,Kirkwood W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Kirkwood W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,Kirkwood W:000 D:003,Lieutenant Governor,,Democratic,Scatter,
+Broome,Kirkwood W:000 D:004,Lieutenant Governor,,Democratic,Scatter,
+Broome,Kirkwood W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Kirkwood W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,Kirkwood W:000 D:003,Lieutenant Governor,,Democratic,Void,
+Broome,Kirkwood W:000 D:004,Lieutenant Governor,,Democratic,Void,
+Broome,Kirkwood W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Kirkwood W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,Kirkwood W:000 D:003,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,Kirkwood W:000 D:004,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Lisle W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,10
+Broome,Lisle W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,7
+Broome,Lisle W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,9
+Broome,Lisle W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,2
+Broome,Lisle W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Lisle W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,Lisle W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Lisle W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,Lisle W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Lisle W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Maine W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,13
+Broome,Maine W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,18
+Broome,Maine W:000 D:003,Lieutenant Governor,,Democratic,Kathy C Hochul,10
+Broome,Maine W:000 D:004,Lieutenant Governor,,Democratic,Kathy C Hochul,12
+Broome,Maine W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,3
+Broome,Maine W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,8
+Broome,Maine W:000 D:003,Lieutenant Governor,,Democratic,Timothy Wu,13
+Broome,Maine W:000 D:004,Lieutenant Governor,,Democratic,Timothy Wu,12
+Broome,Maine W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Maine W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,Maine W:000 D:003,Lieutenant Governor,,Democratic,Scatter,
+Broome,Maine W:000 D:004,Lieutenant Governor,,Democratic,Scatter,
+Broome,Maine W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Maine W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,Maine W:000 D:003,Lieutenant Governor,,Democratic,Void,
+Broome,Maine W:000 D:004,Lieutenant Governor,,Democratic,Void,
+Broome,Maine W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Maine W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,4
+Broome,Maine W:000 D:003,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Maine W:000 D:004,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Nanticoke W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,5
+Broome,Nanticoke W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,8
+Broome,Nanticoke W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Nanticoke W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Nanticoke W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,Sanford W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,1
+Broome,Sanford W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,11
+Broome,Sanford W:000 D:003,Lieutenant Governor,,Democratic,Kathy C Hochul,7
+Broome,Sanford W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,1
+Broome,Sanford W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,6
+Broome,Sanford W:000 D:003,Lieutenant Governor,,Democratic,Timothy Wu,10
+Broome,Sanford W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Sanford W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,Sanford W:000 D:003,Lieutenant Governor,,Democratic,Scatter,
+Broome,Sanford W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Sanford W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,Sanford W:000 D:003,Lieutenant Governor,,Democratic,Void,
+Broome,Sanford W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Sanford W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Sanford W:000 D:003,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Town Binghamton W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,14
+Broome,Town Binghamton W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,8
+Broome,Town Binghamton W:000 D:003,Lieutenant Governor,,Democratic,Kathy C Hochul,24
+Broome,Town Binghamton W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,32
+Broome,Town Binghamton W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,11
+Broome,Town Binghamton W:000 D:003,Lieutenant Governor,,Democratic,Timothy Wu,17
+Broome,Town Binghamton W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Town Binghamton W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,Town Binghamton W:000 D:003,Lieutenant Governor,,Democratic,Scatter,
+Broome,Town Binghamton W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Town Binghamton W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,Town Binghamton W:000 D:003,Lieutenant Governor,,Democratic,Void,
+Broome,Town Binghamton W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Town Binghamton W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Town Binghamton W:000 D:003,Lieutenant Governor,,Democratic,Blank Votes,4
+Broome,Triangle W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,11
+Broome,Triangle W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,17
+Broome,Triangle W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,17
+Broome,Triangle W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,15
+Broome,Triangle W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Triangle W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,Triangle W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Triangle W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,Triangle W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,
+Broome,Triangle W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,
+Broome,Union W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,20
+Broome,Union W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,9
+Broome,Union W:000 D:003,Lieutenant Governor,,Democratic,Kathy C Hochul,10
+Broome,Union W:000 D:004,Lieutenant Governor,,Democratic,Kathy C Hochul,17
+Broome,Union W:000 D:005,Lieutenant Governor,,Democratic,Kathy C Hochul,14
+Broome,Union W:000 D:006,Lieutenant Governor,,Democratic,Kathy C Hochul,21
+Broome,Union W:000 D:007,Lieutenant Governor,,Democratic,Kathy C Hochul,11
+Broome,Union W:000 D:008,Lieutenant Governor,,Democratic,Kathy C Hochul,6
+Broome,Union W:000 D:009,Lieutenant Governor,,Democratic,Kathy C Hochul,16
+Broome,Union W:000 D:010,Lieutenant Governor,,Democratic,Kathy C Hochul,18
+Broome,Union W:000 D:011,Lieutenant Governor,,Democratic,Kathy C Hochul,6
+Broome,Union W:000 D:012,Lieutenant Governor,,Democratic,Kathy C Hochul,18
+Broome,Union W:000 D:013,Lieutenant Governor,,Democratic,Kathy C Hochul,15
+Broome,Union W:000 D:014,Lieutenant Governor,,Democratic,Kathy C Hochul,13
+Broome,Union W:000 D:015,Lieutenant Governor,,Democratic,Kathy C Hochul,18
+Broome,Union W:000 D:016,Lieutenant Governor,,Democratic,Kathy C Hochul,17
+Broome,Union W:000 D:017,Lieutenant Governor,,Democratic,Kathy C Hochul,20
+Broome,Union W:000 D:018,Lieutenant Governor,,Democratic,Kathy C Hochul,20
+Broome,Union W:000 D:019,Lieutenant Governor,,Democratic,Kathy C Hochul,11
+Broome,Union W:000 D:020,Lieutenant Governor,,Democratic,Kathy C Hochul,15
+Broome,Union W:000 D:021,Lieutenant Governor,,Democratic,Kathy C Hochul,12
+Broome,Union W:000 D:022,Lieutenant Governor,,Democratic,Kathy C Hochul,22
+Broome,Union W:000 D:023,Lieutenant Governor,,Democratic,Kathy C Hochul,22
+Broome,Union W:000 D:024,Lieutenant Governor,,Democratic,Kathy C Hochul,4
+Broome,Union W:000 D:025,Lieutenant Governor,,Democratic,Kathy C Hochul,20
+Broome,Union W:000 D:026,Lieutenant Governor,,Democratic,Kathy C Hochul,13
+Broome,Union W:000 D:027,Lieutenant Governor,,Democratic,Kathy C Hochul,22
+Broome,Union W:000 D:028,Lieutenant Governor,,Democratic,Kathy C Hochul,20
+Broome,Union W:000 D:029,Lieutenant Governor,,Democratic,Kathy C Hochul,8
+Broome,Union W:000 D:030,Lieutenant Governor,,Democratic,Kathy C Hochul,17
+Broome,Union W:000 D:031,Lieutenant Governor,,Democratic,Kathy C Hochul,14
+Broome,Union W:000 D:032,Lieutenant Governor,,Democratic,Kathy C Hochul,20
+Broome,Union W:000 D:033,Lieutenant Governor,,Democratic,Kathy C Hochul,13
+Broome,Union W:000 D:034,Lieutenant Governor,,Democratic,Kathy C Hochul,9
+Broome,Union W:000 D:035,Lieutenant Governor,,Democratic,Kathy C Hochul,27
+Broome,Union W:000 D:036,Lieutenant Governor,,Democratic,Kathy C Hochul,28
+Broome,Union W:000 D:037,Lieutenant Governor,,Democratic,Kathy C Hochul,20
+Broome,Union W:000 D:038,Lieutenant Governor,,Democratic,Kathy C Hochul,18
+Broome,Union W:000 D:039,Lieutenant Governor,,Democratic,Kathy C Hochul,5
+Broome,Union W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,6
+Broome,Union W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,10
+Broome,Union W:000 D:003,Lieutenant Governor,,Democratic,Timothy Wu,6
+Broome,Union W:000 D:004,Lieutenant Governor,,Democratic,Timothy Wu,10
+Broome,Union W:000 D:005,Lieutenant Governor,,Democratic,Timothy Wu,6
+Broome,Union W:000 D:006,Lieutenant Governor,,Democratic,Timothy Wu,5
+Broome,Union W:000 D:007,Lieutenant Governor,,Democratic,Timothy Wu,7
+Broome,Union W:000 D:008,Lieutenant Governor,,Democratic,Timothy Wu,2
+Broome,Union W:000 D:009,Lieutenant Governor,,Democratic,Timothy Wu,6
+Broome,Union W:000 D:010,Lieutenant Governor,,Democratic,Timothy Wu,5
+Broome,Union W:000 D:011,Lieutenant Governor,,Democratic,Timothy Wu,3
+Broome,Union W:000 D:012,Lieutenant Governor,,Democratic,Timothy Wu,10
+Broome,Union W:000 D:013,Lieutenant Governor,,Democratic,Timothy Wu,12
+Broome,Union W:000 D:014,Lieutenant Governor,,Democratic,Timothy Wu,6
+Broome,Union W:000 D:015,Lieutenant Governor,,Democratic,Timothy Wu,12
+Broome,Union W:000 D:016,Lieutenant Governor,,Democratic,Timothy Wu,7
+Broome,Union W:000 D:017,Lieutenant Governor,,Democratic,Timothy Wu,2
+Broome,Union W:000 D:018,Lieutenant Governor,,Democratic,Timothy Wu,9
+Broome,Union W:000 D:019,Lieutenant Governor,,Democratic,Timothy Wu,7
+Broome,Union W:000 D:020,Lieutenant Governor,,Democratic,Timothy Wu,10
+Broome,Union W:000 D:021,Lieutenant Governor,,Democratic,Timothy Wu,9
+Broome,Union W:000 D:022,Lieutenant Governor,,Democratic,Timothy Wu,13
+Broome,Union W:000 D:023,Lieutenant Governor,,Democratic,Timothy Wu,13
+Broome,Union W:000 D:024,Lieutenant Governor,,Democratic,Timothy Wu,7
+Broome,Union W:000 D:025,Lieutenant Governor,,Democratic,Timothy Wu,6
+Broome,Union W:000 D:026,Lieutenant Governor,,Democratic,Timothy Wu,11
+Broome,Union W:000 D:027,Lieutenant Governor,,Democratic,Timothy Wu,14
+Broome,Union W:000 D:028,Lieutenant Governor,,Democratic,Timothy Wu,10
+Broome,Union W:000 D:029,Lieutenant Governor,,Democratic,Timothy Wu,12
+Broome,Union W:000 D:030,Lieutenant Governor,,Democratic,Timothy Wu,10
+Broome,Union W:000 D:031,Lieutenant Governor,,Democratic,Timothy Wu,11
+Broome,Union W:000 D:032,Lieutenant Governor,,Democratic,Timothy Wu,10
+Broome,Union W:000 D:033,Lieutenant Governor,,Democratic,Timothy Wu,3
+Broome,Union W:000 D:034,Lieutenant Governor,,Democratic,Timothy Wu,13
+Broome,Union W:000 D:035,Lieutenant Governor,,Democratic,Timothy Wu,23
+Broome,Union W:000 D:036,Lieutenant Governor,,Democratic,Timothy Wu,13
+Broome,Union W:000 D:037,Lieutenant Governor,,Democratic,Timothy Wu,11
+Broome,Union W:000 D:038,Lieutenant Governor,,Democratic,Timothy Wu,10
+Broome,Union W:000 D:039,Lieutenant Governor,,Democratic,Timothy Wu,1
+Broome,Union W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:003,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:004,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:005,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:006,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:007,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:008,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:009,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:010,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:011,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:012,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:013,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:014,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:015,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:016,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:017,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:018,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:019,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:020,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:021,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:022,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:023,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:024,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:025,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:026,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:027,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:028,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:029,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:030,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:031,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:032,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:033,Lieutenant Governor,,Democratic,Scatter,1
+Broome,Union W:000 D:034,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:035,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:036,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:037,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:038,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:039,Lieutenant Governor,,Democratic,Scatter,
+Broome,Union W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:003,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:004,Lieutenant Governor,,Democratic,Void,1
+Broome,Union W:000 D:005,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:006,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:007,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:008,Lieutenant Governor,,Democratic,Void,1
+Broome,Union W:000 D:009,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:010,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:011,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:012,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:013,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:014,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:015,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:016,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:017,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:018,Lieutenant Governor,,Democratic,Void,1
+Broome,Union W:000 D:019,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:020,Lieutenant Governor,,Democratic,Void,1
+Broome,Union W:000 D:021,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:022,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:023,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:024,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:025,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:026,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:027,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:028,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:029,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:030,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:031,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:032,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:033,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:034,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:035,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:036,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:037,Lieutenant Governor,,Democratic,Void,1
+Broome,Union W:000 D:038,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:039,Lieutenant Governor,,Democratic,Void,
+Broome,Union W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:003,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:004,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,Union W:000 D:005,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:006,Lieutenant Governor,,Democratic,Blank Votes,6
+Broome,Union W:000 D:007,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:008,Lieutenant Governor,,Democratic,Blank Votes,4
+Broome,Union W:000 D:009,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:010,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:011,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:012,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:013,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:014,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,Union W:000 D:015,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,Union W:000 D:016,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:017,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:018,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,Union W:000 D:019,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:020,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:021,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:022,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:023,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,Union W:000 D:024,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,Union W:000 D:025,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:026,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:027,Lieutenant Governor,,Democratic,Blank Votes,5
+Broome,Union W:000 D:028,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:029,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:030,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:031,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:032,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Union W:000 D:033,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:034,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:035,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:036,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Union W:000 D:037,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:038,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Union W:000 D:039,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Vestal W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,16
+Broome,Vestal W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,47
+Broome,Vestal W:000 D:003,Lieutenant Governor,,Democratic,Kathy C Hochul,11
+Broome,Vestal W:000 D:004,Lieutenant Governor,,Democratic,Kathy C Hochul,16
+Broome,Vestal W:000 D:005,Lieutenant Governor,,Democratic,Kathy C Hochul,22
+Broome,Vestal W:000 D:006,Lieutenant Governor,,Democratic,Kathy C Hochul,21
+Broome,Vestal W:000 D:007,Lieutenant Governor,,Democratic,Kathy C Hochul,31
+Broome,Vestal W:000 D:008,Lieutenant Governor,,Democratic,Kathy C Hochul,18
+Broome,Vestal W:000 D:009,Lieutenant Governor,,Democratic,Kathy C Hochul,28
+Broome,Vestal W:000 D:010,Lieutenant Governor,,Democratic,Kathy C Hochul,22
+Broome,Vestal W:000 D:011,Lieutenant Governor,,Democratic,Kathy C Hochul,0
+Broome,Vestal W:000 D:012,Lieutenant Governor,,Democratic,Kathy C Hochul,0
+Broome,Vestal W:000 D:013,Lieutenant Governor,,Democratic,Kathy C Hochul,2
+Broome,Vestal W:000 D:014,Lieutenant Governor,,Democratic,Kathy C Hochul,22
+Broome,Vestal W:000 D:015,Lieutenant Governor,,Democratic,Kathy C Hochul,15
+Broome,Vestal W:000 D:016,Lieutenant Governor,,Democratic,Kathy C Hochul,10
+Broome,Vestal W:000 D:017,Lieutenant Governor,,Democratic,Kathy C Hochul,11
+Broome,Vestal W:000 D:018,Lieutenant Governor,,Democratic,Kathy C Hochul,12
+Broome,Vestal W:000 D:019,Lieutenant Governor,,Democratic,Kathy C Hochul,36
+Broome,Vestal W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,7
+Broome,Vestal W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,22
+Broome,Vestal W:000 D:003,Lieutenant Governor,,Democratic,Timothy Wu,2
+Broome,Vestal W:000 D:004,Lieutenant Governor,,Democratic,Timothy Wu,9
+Broome,Vestal W:000 D:005,Lieutenant Governor,,Democratic,Timothy Wu,25
+Broome,Vestal W:000 D:006,Lieutenant Governor,,Democratic,Timothy Wu,20
+Broome,Vestal W:000 D:007,Lieutenant Governor,,Democratic,Timothy Wu,19
+Broome,Vestal W:000 D:008,Lieutenant Governor,,Democratic,Timothy Wu,23
+Broome,Vestal W:000 D:009,Lieutenant Governor,,Democratic,Timothy Wu,20
+Broome,Vestal W:000 D:010,Lieutenant Governor,,Democratic,Timothy Wu,19
+Broome,Vestal W:000 D:011,Lieutenant Governor,,Democratic,Timothy Wu,0
+Broome,Vestal W:000 D:012,Lieutenant Governor,,Democratic,Timothy Wu,2
+Broome,Vestal W:000 D:013,Lieutenant Governor,,Democratic,Timothy Wu,3
+Broome,Vestal W:000 D:014,Lieutenant Governor,,Democratic,Timothy Wu,15
+Broome,Vestal W:000 D:015,Lieutenant Governor,,Democratic,Timothy Wu,12
+Broome,Vestal W:000 D:016,Lieutenant Governor,,Democratic,Timothy Wu,7
+Broome,Vestal W:000 D:017,Lieutenant Governor,,Democratic,Timothy Wu,4
+Broome,Vestal W:000 D:018,Lieutenant Governor,,Democratic,Timothy Wu,21
+Broome,Vestal W:000 D:019,Lieutenant Governor,,Democratic,Timothy Wu,23
+Broome,Vestal W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:003,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:004,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:005,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:006,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:007,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:008,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:009,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:010,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:011,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:012,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:013,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:014,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:015,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:016,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:017,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:018,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:019,Lieutenant Governor,,Democratic,Scatter,
+Broome,Vestal W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:003,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:004,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:005,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:006,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:007,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:008,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:009,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:010,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:011,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:012,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:013,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:014,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:015,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:016,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:017,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:018,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:019,Lieutenant Governor,,Democratic,Void,
+Broome,Vestal W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,4
+Broome,Vestal W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Vestal W:000 D:003,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:004,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:005,Lieutenant Governor,,Democratic,Blank Votes,5
+Broome,Vestal W:000 D:006,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Vestal W:000 D:007,Lieutenant Governor,,Democratic,Blank Votes,6
+Broome,Vestal W:000 D:008,Lieutenant Governor,,Democratic,Blank Votes,4
+Broome,Vestal W:000 D:009,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Vestal W:000 D:010,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,Vestal W:000 D:011,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:012,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:013,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Vestal W:000 D:014,Lieutenant Governor,,Democratic,Blank Votes,4
+Broome,Vestal W:000 D:015,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Vestal W:000 D:016,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:017,Lieutenant Governor,,Democratic,Blank Votes,0
+Broome,Vestal W:000 D:018,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Vestal W:000 D:019,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,Windsor W:000 D:001,Lieutenant Governor,,Democratic,Kathy C Hochul,12
+Broome,Windsor W:000 D:002,Lieutenant Governor,,Democratic,Kathy C Hochul,10
+Broome,Windsor W:000 D:003,Lieutenant Governor,,Democratic,Kathy C Hochul,5
+Broome,Windsor W:000 D:004,Lieutenant Governor,,Democratic,Kathy C Hochul,10
+Broome,Windsor W:000 D:005,Lieutenant Governor,,Democratic,Kathy C Hochul,6
+Broome,Windsor W:000 D:001,Lieutenant Governor,,Democratic,Timothy Wu,9
+Broome,Windsor W:000 D:002,Lieutenant Governor,,Democratic,Timothy Wu,2
+Broome,Windsor W:000 D:003,Lieutenant Governor,,Democratic,Timothy Wu,9
+Broome,Windsor W:000 D:004,Lieutenant Governor,,Democratic,Timothy Wu,14
+Broome,Windsor W:000 D:005,Lieutenant Governor,,Democratic,Timothy Wu,4
+Broome,Windsor W:000 D:001,Lieutenant Governor,,Democratic,Scatter,
+Broome,Windsor W:000 D:002,Lieutenant Governor,,Democratic,Scatter,
+Broome,Windsor W:000 D:003,Lieutenant Governor,,Democratic,Scatter,
+Broome,Windsor W:000 D:004,Lieutenant Governor,,Democratic,Scatter,
+Broome,Windsor W:000 D:005,Lieutenant Governor,,Democratic,Scatter,
+Broome,Windsor W:000 D:001,Lieutenant Governor,,Democratic,Void,
+Broome,Windsor W:000 D:002,Lieutenant Governor,,Democratic,Void,
+Broome,Windsor W:000 D:003,Lieutenant Governor,,Democratic,Void,
+Broome,Windsor W:000 D:004,Lieutenant Governor,,Democratic,Void,
+Broome,Windsor W:000 D:005,Lieutenant Governor,,Democratic,Void,
+Broome,Windsor W:000 D:001,Lieutenant Governor,,Democratic,Blank Votes,2
+Broome,Windsor W:000 D:002,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Windsor W:000 D:003,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,Windsor W:000 D:004,Lieutenant Governor,,Democratic,Blank Votes,3
+Broome,Windsor W:000 D:005,Lieutenant Governor,,Democratic,Blank Votes,1
+Broome,Barker W:000 D:001,State Senate,52,Republican,Thomas W Libous,40
+Broome,Barker W:000 D:002,State Senate,52,Republican,Thomas W Libous,30
+Broome,Barker W:000 D:001,State Senate,52,Republican,Denver L Jones,29
+Broome,Barker W:000 D:002,State Senate,52,Republican,Denver L Jones,17
+Broome,Barker W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Barker W:000 D:002,State Senate,52,Republican,Scatter,
+Broome,Barker W:000 D:001,State Senate,52,Republican,Void,
+Broome,Barker W:000 D:002,State Senate,52,Republican,Void,
+Broome,Barker W:000 D:001,State Senate,52,Republican,void,
+Broome,Barker W:000 D:002,State Senate,52,Republican,void,
+Broome,Barker W:000 D:001,State Senate,52,Republican,Blank Votes,0
+Broome,Barker W:000 D:002,State Senate,52,Republican,Blank Votes,0
+Broome,Chenango W:000 D:001,State Senate,52,Republican,Thomas W Libous,45
+Broome,Chenango W:000 D:002,State Senate,52,Republican,Thomas W Libous,53
+Broome,Chenango W:000 D:003,State Senate,52,Republican,Thomas W Libous,56
+Broome,Chenango W:000 D:004,State Senate,52,Republican,Thomas W Libous,58
+Broome,Chenango W:000 D:005,State Senate,52,Republican,Thomas W Libous,81
+Broome,Chenango W:000 D:006,State Senate,52,Republican,Thomas W Libous,66
+Broome,Chenango W:000 D:007,State Senate,52,Republican,Thomas W Libous,52
+Broome,Chenango W:000 D:008,State Senate,52,Republican,Thomas W Libous,70
+Broome,Chenango W:000 D:001,State Senate,52,Republican,Denver L Jones,37
+Broome,Chenango W:000 D:002,State Senate,52,Republican,Denver L Jones,38
+Broome,Chenango W:000 D:003,State Senate,52,Republican,Denver L Jones,44
+Broome,Chenango W:000 D:004,State Senate,52,Republican,Denver L Jones,42
+Broome,Chenango W:000 D:005,State Senate,52,Republican,Denver L Jones,39
+Broome,Chenango W:000 D:006,State Senate,52,Republican,Denver L Jones,32
+Broome,Chenango W:000 D:007,State Senate,52,Republican,Denver L Jones,39
+Broome,Chenango W:000 D:008,State Senate,52,Republican,Denver L Jones,49
+Broome,Chenango W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Chenango W:000 D:002,State Senate,52,Republican,Scatter,
+Broome,Chenango W:000 D:003,State Senate,52,Republican,Scatter,
+Broome,Chenango W:000 D:004,State Senate,52,Republican,Scatter,
+Broome,Chenango W:000 D:005,State Senate,52,Republican,Scatter,
+Broome,Chenango W:000 D:006,State Senate,52,Republican,Scatter,
+Broome,Chenango W:000 D:007,State Senate,52,Republican,Scatter,
+Broome,Chenango W:000 D:008,State Senate,52,Republican,Scatter,
+Broome,Chenango W:000 D:001,State Senate,52,Republican,Void,
+Broome,Chenango W:000 D:002,State Senate,52,Republican,Void,
+Broome,Chenango W:000 D:003,State Senate,52,Republican,Void,1
+Broome,Chenango W:000 D:004,State Senate,52,Republican,Void,
+Broome,Chenango W:000 D:005,State Senate,52,Republican,Void,
+Broome,Chenango W:000 D:006,State Senate,52,Republican,Void,1
+Broome,Chenango W:000 D:007,State Senate,52,Republican,Void,
+Broome,Chenango W:000 D:008,State Senate,52,Republican,Void,2
+Broome,Chenango W:000 D:001,State Senate,52,Republican,void,
+Broome,Chenango W:000 D:002,State Senate,52,Republican,void,
+Broome,Chenango W:000 D:003,State Senate,52,Republican,void,
+Broome,Chenango W:000 D:004,State Senate,52,Republican,void,
+Broome,Chenango W:000 D:005,State Senate,52,Republican,void,
+Broome,Chenango W:000 D:006,State Senate,52,Republican,void,1
+Broome,Chenango W:000 D:007,State Senate,52,Republican,void,
+Broome,Chenango W:000 D:008,State Senate,52,Republican,void,
+Broome,Chenango W:000 D:001,State Senate,52,Republican,Blank Votes,5
+Broome,Chenango W:000 D:002,State Senate,52,Republican,Blank Votes,5
+Broome,Chenango W:000 D:003,State Senate,52,Republican,Blank Votes,3
+Broome,Chenango W:000 D:004,State Senate,52,Republican,Blank Votes,3
+Broome,Chenango W:000 D:005,State Senate,52,Republican,Blank Votes,5
+Broome,Chenango W:000 D:006,State Senate,52,Republican,Blank Votes,3
+Broome,Chenango W:000 D:007,State Senate,52,Republican,Blank Votes,5
+Broome,Chenango W:000 D:008,State Senate,52,Republican,Blank Votes,11
+Broome,City Binghamton W:000 D:001,State Senate,52,Republican,Thomas W Libous,13
+Broome,City Binghamton W:000 D:002,State Senate,52,Republican,Thomas W Libous,3
+Broome,City Binghamton W:000 D:003,State Senate,52,Republican,Thomas W Libous,22
+Broome,City Binghamton W:000 D:004,State Senate,52,Republican,Thomas W Libous,16
+Broome,City Binghamton W:000 D:005,State Senate,52,Republican,Thomas W Libous,16
+Broome,City Binghamton W:000 D:006,State Senate,52,Republican,Thomas W Libous,14
+Broome,City Binghamton W:000 D:007,State Senate,52,Republican,Thomas W Libous,12
+Broome,City Binghamton W:000 D:008,State Senate,52,Republican,Thomas W Libous,23
+Broome,City Binghamton W:000 D:009,State Senate,52,Republican,Thomas W Libous,21
+Broome,City Binghamton W:000 D:010,State Senate,52,Republican,Thomas W Libous,25
+Broome,City Binghamton W:000 D:011,State Senate,52,Republican,Thomas W Libous,21
+Broome,City Binghamton W:000 D:012,State Senate,52,Republican,Thomas W Libous,39
+Broome,City Binghamton W:000 D:013,State Senate,52,Republican,Thomas W Libous,24
+Broome,City Binghamton W:000 D:014,State Senate,52,Republican,Thomas W Libous,43
+Broome,City Binghamton W:000 D:015,State Senate,52,Republican,Thomas W Libous,28
+Broome,City Binghamton W:000 D:016,State Senate,52,Republican,Thomas W Libous,22
+Broome,City Binghamton W:000 D:017,State Senate,52,Republican,Thomas W Libous,27
+Broome,City Binghamton W:000 D:001,State Senate,52,Republican,Denver L Jones,16
+Broome,City Binghamton W:000 D:002,State Senate,52,Republican,Denver L Jones,8
+Broome,City Binghamton W:000 D:003,State Senate,52,Republican,Denver L Jones,11
+Broome,City Binghamton W:000 D:004,State Senate,52,Republican,Denver L Jones,5
+Broome,City Binghamton W:000 D:005,State Senate,52,Republican,Denver L Jones,15
+Broome,City Binghamton W:000 D:006,State Senate,52,Republican,Denver L Jones,6
+Broome,City Binghamton W:000 D:007,State Senate,52,Republican,Denver L Jones,13
+Broome,City Binghamton W:000 D:008,State Senate,52,Republican,Denver L Jones,7
+Broome,City Binghamton W:000 D:009,State Senate,52,Republican,Denver L Jones,13
+Broome,City Binghamton W:000 D:010,State Senate,52,Republican,Denver L Jones,13
+Broome,City Binghamton W:000 D:011,State Senate,52,Republican,Denver L Jones,14
+Broome,City Binghamton W:000 D:012,State Senate,52,Republican,Denver L Jones,14
+Broome,City Binghamton W:000 D:013,State Senate,52,Republican,Denver L Jones,13
+Broome,City Binghamton W:000 D:014,State Senate,52,Republican,Denver L Jones,19
+Broome,City Binghamton W:000 D:015,State Senate,52,Republican,Denver L Jones,20
+Broome,City Binghamton W:000 D:016,State Senate,52,Republican,Denver L Jones,13
+Broome,City Binghamton W:000 D:017,State Senate,52,Republican,Denver L Jones,13
+Broome,City Binghamton W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:002,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:003,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:004,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:005,State Senate,52,Republican,Scatter,1
+Broome,City Binghamton W:000 D:006,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:007,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:008,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:009,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:010,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:011,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:012,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:013,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:014,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:015,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:016,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:017,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:001,State Senate,52,Republican,Void,1
+Broome,City Binghamton W:000 D:002,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:003,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:004,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:005,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:006,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:007,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:008,State Senate,52,Republican,Void,1
+Broome,City Binghamton W:000 D:009,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:010,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:011,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:012,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:013,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:014,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:015,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:016,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:017,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:001,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:002,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:003,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:004,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:005,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:006,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:007,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:008,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:009,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:010,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:011,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:012,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:013,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:014,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:015,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:016,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:017,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:001,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:002,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:003,State Senate,52,Republican,Blank Votes,1
+Broome,City Binghamton W:000 D:004,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:005,State Senate,52,Republican,Blank Votes,1
+Broome,City Binghamton W:000 D:006,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:007,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:008,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:009,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:010,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:011,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:012,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:013,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:014,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:015,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:016,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:017,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:018,State Senate,52,Republican,Thomas W Libous,16
+Broome,City Binghamton W:000 D:019,State Senate,52,Republican,Thomas W Libous,22
+Broome,City Binghamton W:000 D:020,State Senate,52,Republican,Thomas W Libous,39
+Broome,City Binghamton W:000 D:021,State Senate,52,Republican,Thomas W Libous,15
+Broome,City Binghamton W:000 D:022,State Senate,52,Republican,Thomas W Libous,7
+Broome,City Binghamton W:000 D:023,State Senate,52,Republican,Thomas W Libous,50
+Broome,City Binghamton W:000 D:024,State Senate,52,Republican,Thomas W Libous,63
+Broome,City Binghamton W:000 D:025,State Senate,52,Republican,Thomas W Libous,18
+Broome,City Binghamton W:000 D:026,State Senate,52,Republican,Thomas W Libous,29
+Broome,City Binghamton W:000 D:027,State Senate,52,Republican,Thomas W Libous,21
+Broome,City Binghamton W:000 D:028,State Senate,52,Republican,Thomas W Libous,21
+Broome,City Binghamton W:000 D:029,State Senate,52,Republican,Thomas W Libous,27
+Broome,City Binghamton W:000 D:030,State Senate,52,Republican,Thomas W Libous,18
+Broome,City Binghamton W:000 D:031,State Senate,52,Republican,Thomas W Libous,35
+Broome,City Binghamton W:000 D:032,State Senate,52,Republican,Thomas W Libous,6
+Broome,City Binghamton W:000 D:018,State Senate,52,Republican,Denver L Jones,4
+Broome,City Binghamton W:000 D:019,State Senate,52,Republican,Denver L Jones,9
+Broome,City Binghamton W:000 D:020,State Senate,52,Republican,Denver L Jones,15
+Broome,City Binghamton W:000 D:021,State Senate,52,Republican,Denver L Jones,3
+Broome,City Binghamton W:000 D:022,State Senate,52,Republican,Denver L Jones,3
+Broome,City Binghamton W:000 D:023,State Senate,52,Republican,Denver L Jones,22
+Broome,City Binghamton W:000 D:024,State Senate,52,Republican,Denver L Jones,21
+Broome,City Binghamton W:000 D:025,State Senate,52,Republican,Denver L Jones,10
+Broome,City Binghamton W:000 D:026,State Senate,52,Republican,Denver L Jones,15
+Broome,City Binghamton W:000 D:027,State Senate,52,Republican,Denver L Jones,9
+Broome,City Binghamton W:000 D:028,State Senate,52,Republican,Denver L Jones,6
+Broome,City Binghamton W:000 D:029,State Senate,52,Republican,Denver L Jones,10
+Broome,City Binghamton W:000 D:030,State Senate,52,Republican,Denver L Jones,12
+Broome,City Binghamton W:000 D:031,State Senate,52,Republican,Denver L Jones,15
+Broome,City Binghamton W:000 D:032,State Senate,52,Republican,Denver L Jones,2
+Broome,City Binghamton W:000 D:018,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:019,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:020,State Senate,52,Republican,Scatter,1
+Broome,City Binghamton W:000 D:021,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:022,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:023,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:024,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:025,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:026,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:027,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:028,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:029,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:030,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:031,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:032,State Senate,52,Republican,Scatter,
+Broome,City Binghamton W:000 D:018,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:019,State Senate,52,Republican,Void,1
+Broome,City Binghamton W:000 D:020,State Senate,52,Republican,Void,1
+Broome,City Binghamton W:000 D:021,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:022,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:023,State Senate,52,Republican,Void,1
+Broome,City Binghamton W:000 D:024,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:025,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:026,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:027,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:028,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:029,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:030,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:031,State Senate,52,Republican,Void,1
+Broome,City Binghamton W:000 D:032,State Senate,52,Republican,Void,
+Broome,City Binghamton W:000 D:018,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:019,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:020,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:021,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:022,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:023,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:024,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:025,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:026,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:027,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:028,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:029,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:030,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:031,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:032,State Senate,52,Republican,void,
+Broome,City Binghamton W:000 D:018,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:019,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:020,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:021,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:022,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:023,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:024,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:025,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:026,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:027,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:028,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:029,State Senate,52,Republican,Blank Votes,0
+Broome,City Binghamton W:000 D:030,State Senate,52,Republican,Blank Votes,2
+Broome,City Binghamton W:000 D:031,State Senate,52,Republican,Blank Votes,1
+Broome,City Binghamton W:000 D:032,State Senate,52,Republican,Blank Votes,0
+Broome,Colesville W:000 D:001,State Senate,52,Republican,Thomas W Libous,72
+Broome,Colesville W:000 D:002,State Senate,52,Republican,Thomas W Libous,107
+Broome,Colesville W:000 D:003,State Senate,52,Republican,Thomas W Libous,102
+Broome,Colesville W:000 D:001,State Senate,52,Republican,Denver L Jones,33
+Broome,Colesville W:000 D:002,State Senate,52,Republican,Denver L Jones,53
+Broome,Colesville W:000 D:003,State Senate,52,Republican,Denver L Jones,46
+Broome,Colesville W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Colesville W:000 D:002,State Senate,52,Republican,Scatter,
+Broome,Colesville W:000 D:003,State Senate,52,Republican,Scatter,
+Broome,Colesville W:000 D:001,State Senate,52,Republican,Void,
+Broome,Colesville W:000 D:002,State Senate,52,Republican,Void,
+Broome,Colesville W:000 D:003,State Senate,52,Republican,Void,
+Broome,Colesville W:000 D:001,State Senate,52,Republican,void,
+Broome,Colesville W:000 D:002,State Senate,52,Republican,void,
+Broome,Colesville W:000 D:003,State Senate,52,Republican,void,
+Broome,Colesville W:000 D:001,State Senate,52,Republican,Blank Votes,0
+Broome,Colesville W:000 D:002,State Senate,52,Republican,Blank Votes,6
+Broome,Colesville W:000 D:003,State Senate,52,Republican,Blank Votes,9
+Broome,Conklin W:000 D:001,State Senate,52,Republican,Thomas W Libous,31
+Broome,Conklin W:000 D:002,State Senate,52,Republican,Thomas W Libous,55
+Broome,Conklin W:000 D:003,State Senate,52,Republican,Thomas W Libous,64
+Broome,Conklin W:000 D:004,State Senate,52,Republican,Thomas W Libous,44
+Broome,Conklin W:000 D:001,State Senate,52,Republican,Denver L Jones,16
+Broome,Conklin W:000 D:002,State Senate,52,Republican,Denver L Jones,37
+Broome,Conklin W:000 D:003,State Senate,52,Republican,Denver L Jones,31
+Broome,Conklin W:000 D:004,State Senate,52,Republican,Denver L Jones,20
+Broome,Conklin W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Conklin W:000 D:002,State Senate,52,Republican,Scatter,
+Broome,Conklin W:000 D:003,State Senate,52,Republican,Scatter,
+Broome,Conklin W:000 D:004,State Senate,52,Republican,Scatter,
+Broome,Conklin W:000 D:001,State Senate,52,Republican,Void,
+Broome,Conklin W:000 D:002,State Senate,52,Republican,Void,1
+Broome,Conklin W:000 D:003,State Senate,52,Republican,Void,
+Broome,Conklin W:000 D:004,State Senate,52,Republican,Void,
+Broome,Conklin W:000 D:001,State Senate,52,Republican,void,
+Broome,Conklin W:000 D:002,State Senate,52,Republican,void,
+Broome,Conklin W:000 D:003,State Senate,52,Republican,void,
+Broome,Conklin W:000 D:004,State Senate,52,Republican,void,
+Broome,Conklin W:000 D:001,State Senate,52,Republican,Blank Votes,1
+Broome,Conklin W:000 D:002,State Senate,52,Republican,Blank Votes,0
+Broome,Conklin W:000 D:003,State Senate,52,Republican,Blank Votes,1
+Broome,Conklin W:000 D:004,State Senate,52,Republican,Blank Votes,0
+Broome,Dickinson W:000 D:001,State Senate,52,Republican,Thomas W Libous,18
+Broome,Dickinson W:000 D:002,State Senate,52,Republican,Thomas W Libous,41
+Broome,Dickinson W:000 D:003,State Senate,52,Republican,Thomas W Libous,39
+Broome,Dickinson W:000 D:004,State Senate,52,Republican,Thomas W Libous,8
+Broome,Dickinson W:000 D:001,State Senate,52,Republican,Denver L Jones,14
+Broome,Dickinson W:000 D:002,State Senate,52,Republican,Denver L Jones,24
+Broome,Dickinson W:000 D:003,State Senate,52,Republican,Denver L Jones,14
+Broome,Dickinson W:000 D:004,State Senate,52,Republican,Denver L Jones,6
+Broome,Dickinson W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Dickinson W:000 D:002,State Senate,52,Republican,Scatter,
+Broome,Dickinson W:000 D:003,State Senate,52,Republican,Scatter,
+Broome,Dickinson W:000 D:004,State Senate,52,Republican,Scatter,
+Broome,Dickinson W:000 D:001,State Senate,52,Republican,Void,
+Broome,Dickinson W:000 D:002,State Senate,52,Republican,Void,
+Broome,Dickinson W:000 D:003,State Senate,52,Republican,Void,
+Broome,Dickinson W:000 D:004,State Senate,52,Republican,Void,
+Broome,Dickinson W:000 D:001,State Senate,52,Republican,void,
+Broome,Dickinson W:000 D:002,State Senate,52,Republican,void,
+Broome,Dickinson W:000 D:003,State Senate,52,Republican,void,
+Broome,Dickinson W:000 D:004,State Senate,52,Republican,void,
+Broome,Dickinson W:000 D:001,State Senate,52,Republican,Blank Votes,0
+Broome,Dickinson W:000 D:002,State Senate,52,Republican,Blank Votes,2
+Broome,Dickinson W:000 D:003,State Senate,52,Republican,Blank Votes,0
+Broome,Dickinson W:000 D:004,State Senate,52,Republican,Blank Votes,0
+Broome,Fenton W:000 D:001,State Senate,52,Republican,Thomas W Libous,27
+Broome,Fenton W:000 D:002,State Senate,52,Republican,Thomas W Libous,18
+Broome,Fenton W:000 D:003,State Senate,52,Republican,Thomas W Libous,19
+Broome,Fenton W:000 D:004,State Senate,52,Republican,Thomas W Libous,43
+Broome,Fenton W:000 D:005,State Senate,52,Republican,Thomas W Libous,36
+Broome,Fenton W:000 D:006,State Senate,52,Republican,Thomas W Libous,52
+Broome,Fenton W:000 D:001,State Senate,52,Republican,Denver L Jones,11
+Broome,Fenton W:000 D:002,State Senate,52,Republican,Denver L Jones,10
+Broome,Fenton W:000 D:003,State Senate,52,Republican,Denver L Jones,18
+Broome,Fenton W:000 D:004,State Senate,52,Republican,Denver L Jones,21
+Broome,Fenton W:000 D:005,State Senate,52,Republican,Denver L Jones,20
+Broome,Fenton W:000 D:006,State Senate,52,Republican,Denver L Jones,22
+Broome,Fenton W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Fenton W:000 D:002,State Senate,52,Republican,Scatter,
+Broome,Fenton W:000 D:003,State Senate,52,Republican,Scatter,
+Broome,Fenton W:000 D:004,State Senate,52,Republican,Scatter,
+Broome,Fenton W:000 D:005,State Senate,52,Republican,Scatter,
+Broome,Fenton W:000 D:006,State Senate,52,Republican,Scatter,
+Broome,Fenton W:000 D:001,State Senate,52,Republican,Void,
+Broome,Fenton W:000 D:002,State Senate,52,Republican,Void,
+Broome,Fenton W:000 D:003,State Senate,52,Republican,Void,
+Broome,Fenton W:000 D:004,State Senate,52,Republican,Void,
+Broome,Fenton W:000 D:005,State Senate,52,Republican,Void,
+Broome,Fenton W:000 D:006,State Senate,52,Republican,Void,1
+Broome,Fenton W:000 D:001,State Senate,52,Republican,void,
+Broome,Fenton W:000 D:002,State Senate,52,Republican,void,
+Broome,Fenton W:000 D:003,State Senate,52,Republican,void,
+Broome,Fenton W:000 D:004,State Senate,52,Republican,void,
+Broome,Fenton W:000 D:005,State Senate,52,Republican,void,
+Broome,Fenton W:000 D:006,State Senate,52,Republican,void,
+Broome,Fenton W:000 D:001,State Senate,52,Republican,Blank Votes,0
+Broome,Fenton W:000 D:002,State Senate,52,Republican,Blank Votes,1
+Broome,Fenton W:000 D:003,State Senate,52,Republican,Blank Votes,0
+Broome,Fenton W:000 D:004,State Senate,52,Republican,Blank Votes,0
+Broome,Fenton W:000 D:005,State Senate,52,Republican,Blank Votes,0
+Broome,Fenton W:000 D:006,State Senate,52,Republican,Blank Votes,0
+Broome,Kirkwood W:000 D:001,State Senate,52,Republican,Thomas W Libous,41
+Broome,Kirkwood W:000 D:002,State Senate,52,Republican,Thomas W Libous,35
+Broome,Kirkwood W:000 D:003,State Senate,52,Republican,Thomas W Libous,30
+Broome,Kirkwood W:000 D:004,State Senate,52,Republican,Thomas W Libous,34
+Broome,Kirkwood W:000 D:001,State Senate,52,Republican,Denver L Jones,15
+Broome,Kirkwood W:000 D:002,State Senate,52,Republican,Denver L Jones,18
+Broome,Kirkwood W:000 D:003,State Senate,52,Republican,Denver L Jones,18
+Broome,Kirkwood W:000 D:004,State Senate,52,Republican,Denver L Jones,12
+Broome,Kirkwood W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Kirkwood W:000 D:002,State Senate,52,Republican,Scatter,
+Broome,Kirkwood W:000 D:003,State Senate,52,Republican,Scatter,
+Broome,Kirkwood W:000 D:004,State Senate,52,Republican,Scatter,
+Broome,Kirkwood W:000 D:001,State Senate,52,Republican,Void,
+Broome,Kirkwood W:000 D:002,State Senate,52,Republican,Void,
+Broome,Kirkwood W:000 D:003,State Senate,52,Republican,Void,
+Broome,Kirkwood W:000 D:004,State Senate,52,Republican,Void,
+Broome,Kirkwood W:000 D:001,State Senate,52,Republican,void,
+Broome,Kirkwood W:000 D:002,State Senate,52,Republican,void,
+Broome,Kirkwood W:000 D:003,State Senate,52,Republican,void,
+Broome,Kirkwood W:000 D:004,State Senate,52,Republican,void,
+Broome,Kirkwood W:000 D:001,State Senate,52,Republican,Blank Votes,0
+Broome,Kirkwood W:000 D:002,State Senate,52,Republican,Blank Votes,1
+Broome,Kirkwood W:000 D:003,State Senate,52,Republican,Blank Votes,1
+Broome,Kirkwood W:000 D:004,State Senate,52,Republican,Blank Votes,0
+Broome,Lisle W:000 D:001,State Senate,52,Republican,Thomas W Libous,36
+Broome,Lisle W:000 D:002,State Senate,52,Republican,Thomas W Libous,29
+Broome,Lisle W:000 D:001,State Senate,52,Republican,Denver L Jones,21
+Broome,Lisle W:000 D:002,State Senate,52,Republican,Denver L Jones,20
+Broome,Lisle W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Lisle W:000 D:002,State Senate,52,Republican,Scatter,
+Broome,Lisle W:000 D:001,State Senate,52,Republican,Void,
+Broome,Lisle W:000 D:002,State Senate,52,Republican,Void,
+Broome,Lisle W:000 D:001,State Senate,52,Republican,void,
+Broome,Lisle W:000 D:002,State Senate,52,Republican,void,
+Broome,Lisle W:000 D:001,State Senate,52,Republican,Blank Votes,0
+Broome,Lisle W:000 D:002,State Senate,52,Republican,Blank Votes,0
+Broome,Maine W:000 D:001,State Senate,52,Republican,Thomas W Libous,57
+Broome,Maine W:000 D:002,State Senate,52,Republican,Thomas W Libous,71
+Broome,Maine W:000 D:003,State Senate,52,Republican,Thomas W Libous,47
+Broome,Maine W:000 D:004,State Senate,52,Republican,Thomas W Libous,19
+Broome,Maine W:000 D:001,State Senate,52,Republican,Denver L Jones,35
+Broome,Maine W:000 D:002,State Senate,52,Republican,Denver L Jones,58
+Broome,Maine W:000 D:003,State Senate,52,Republican,Denver L Jones,38
+Broome,Maine W:000 D:004,State Senate,52,Republican,Denver L Jones,27
+Broome,Maine W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Maine W:000 D:002,State Senate,52,Republican,Scatter,
+Broome,Maine W:000 D:003,State Senate,52,Republican,Scatter,
+Broome,Maine W:000 D:004,State Senate,52,Republican,Scatter,
+Broome,Maine W:000 D:001,State Senate,52,Republican,Void,
+Broome,Maine W:000 D:002,State Senate,52,Republican,Void,
+Broome,Maine W:000 D:003,State Senate,52,Republican,Void,
+Broome,Maine W:000 D:004,State Senate,52,Republican,Void,1
+Broome,Maine W:000 D:001,State Senate,52,Republican,void,
+Broome,Maine W:000 D:002,State Senate,52,Republican,void,
+Broome,Maine W:000 D:003,State Senate,52,Republican,void,
+Broome,Maine W:000 D:004,State Senate,52,Republican,void,
+Broome,Maine W:000 D:001,State Senate,52,Republican,Blank Votes,3
+Broome,Maine W:000 D:002,State Senate,52,Republican,Blank Votes,7
+Broome,Maine W:000 D:003,State Senate,52,Republican,Blank Votes,3
+Broome,Maine W:000 D:004,State Senate,52,Republican,Blank Votes,0
+Broome,Nanticoke W:000 D:001,State Senate,52,Republican,Thomas W Libous,32
+Broome,Nanticoke W:000 D:001,State Senate,52,Republican,Denver L Jones,29
+Broome,Nanticoke W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Nanticoke W:000 D:001,State Senate,52,Republican,Void,
+Broome,Nanticoke W:000 D:001,State Senate,52,Republican,void,
+Broome,Nanticoke W:000 D:001,State Senate,52,Republican,Blank Votes,1
+Broome,Sanford W:000 D:001,State Senate,52,Republican,Thomas W Libous,2
+Broome,Sanford W:000 D:002,State Senate,52,Republican,Thomas W Libous,72
+Broome,Sanford W:000 D:003,State Senate,52,Republican,Thomas W Libous,67
+Broome,Sanford W:000 D:001,State Senate,52,Republican,Denver L Jones,1
+Broome,Sanford W:000 D:002,State Senate,52,Republican,Denver L Jones,12
+Broome,Sanford W:000 D:003,State Senate,52,Republican,Denver L Jones,12
+Broome,Sanford W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Sanford W:000 D:002,State Senate,52,Republican,Scatter,
+Broome,Sanford W:000 D:003,State Senate,52,Republican,Scatter,1
+Broome,Sanford W:000 D:001,State Senate,52,Republican,Void,
+Broome,Sanford W:000 D:002,State Senate,52,Republican,Void,0
+Broome,Sanford W:000 D:003,State Senate,52,Republican,Void,
+Broome,Sanford W:000 D:001,State Senate,52,Republican,void,
+Broome,Sanford W:000 D:002,State Senate,52,Republican,void,
+Broome,Sanford W:000 D:003,State Senate,52,Republican,void,
+Broome,Sanford W:000 D:001,State Senate,52,Republican,Blank Votes,0
+Broome,Sanford W:000 D:002,State Senate,52,Republican,Blank Votes,1
+Broome,Sanford W:000 D:003,State Senate,52,Republican,Blank Votes,1
+Broome,Town Binghamton W:000 D:001,State Senate,52,Republican,Thomas W Libous,62
+Broome,Town Binghamton W:000 D:002,State Senate,52,Republican,Thomas W Libous,54
+Broome,Town Binghamton W:000 D:003,State Senate,52,Republican,Thomas W Libous,47
+Broome,Town Binghamton W:000 D:001,State Senate,52,Republican,Denver L Jones,34
+Broome,Town Binghamton W:000 D:002,State Senate,52,Republican,Denver L Jones,29
+Broome,Town Binghamton W:000 D:003,State Senate,52,Republican,Denver L Jones,20
+Broome,Town Binghamton W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Town Binghamton W:000 D:002,State Senate,52,Republican,Scatter,
+Broome,Town Binghamton W:000 D:003,State Senate,52,Republican,Scatter,
+Broome,Town Binghamton W:000 D:001,State Senate,52,Republican,Void,
+Broome,Town Binghamton W:000 D:002,State Senate,52,Republican,Void,
+Broome,Town Binghamton W:000 D:003,State Senate,52,Republican,Void,
+Broome,Town Binghamton W:000 D:001,State Senate,52,Republican,void,
+Broome,Town Binghamton W:000 D:002,State Senate,52,Republican,void,
+Broome,Town Binghamton W:000 D:003,State Senate,52,Republican,void,
+Broome,Town Binghamton W:000 D:001,State Senate,52,Republican,Blank Votes,0
+Broome,Town Binghamton W:000 D:002,State Senate,52,Republican,Blank Votes,1
+Broome,Town Binghamton W:000 D:003,State Senate,52,Republican,Blank Votes,0
+Broome,Triangle W:000 D:001,State Senate,52,Republican,Thomas W Libous,38
+Broome,Triangle W:000 D:002,State Senate,52,Republican,Thomas W Libous,62
+Broome,Triangle W:000 D:001,State Senate,52,Republican,Denver L Jones,22
+Broome,Triangle W:000 D:002,State Senate,52,Republican,Denver L Jones,38
+Broome,Triangle W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Triangle W:000 D:002,State Senate,52,Republican,Scatter,
+Broome,Triangle W:000 D:001,State Senate,52,Republican,Void,
+Broome,Triangle W:000 D:002,State Senate,52,Republican,Void,
+Broome,Triangle W:000 D:001,State Senate,52,Republican,void,
+Broome,Triangle W:000 D:002,State Senate,52,Republican,void,
+Broome,Triangle W:000 D:001,State Senate,52,Republican,Blank Votes,3
+Broome,Triangle W:000 D:002,State Senate,52,Republican,Blank Votes,5
+Broome,Union W:000 D:001,State Senate,52,Republican,Thomas W Libous,20
+Broome,Union W:000 D:002,State Senate,52,Republican,Thomas W Libous,23
+Broome,Union W:000 D:003,State Senate,52,Republican,Thomas W Libous,28
+Broome,Union W:000 D:004,State Senate,52,Republican,Thomas W Libous,15
+Broome,Union W:000 D:005,State Senate,52,Republican,Thomas W Libous,20
+Broome,Union W:000 D:006,State Senate,52,Republican,Thomas W Libous,23
+Broome,Union W:000 D:007,State Senate,52,Republican,Thomas W Libous,14
+Broome,Union W:000 D:008,State Senate,52,Republican,Thomas W Libous,17
+Broome,Union W:000 D:009,State Senate,52,Republican,Thomas W Libous,34
+Broome,Union W:000 D:010,State Senate,52,Republican,Thomas W Libous,47
+Broome,Union W:000 D:011,State Senate,52,Republican,Thomas W Libous,23
+Broome,Union W:000 D:012,State Senate,52,Republican,Thomas W Libous,25
+Broome,Union W:000 D:013,State Senate,52,Republican,Thomas W Libous,34
+Broome,Union W:000 D:014,State Senate,52,Republican,Thomas W Libous,16
+Broome,Union W:000 D:015,State Senate,52,Republican,Thomas W Libous,38
+Broome,Union W:000 D:016,State Senate,52,Republican,Thomas W Libous,22
+Broome,Union W:000 D:017,State Senate,52,Republican,Thomas W Libous,38
+Broome,Union W:000 D:018,State Senate,52,Republican,Thomas W Libous,36
+Broome,Union W:000 D:019,State Senate,52,Republican,Thomas W Libous,26
+Broome,Union W:000 D:020,State Senate,52,Republican,Thomas W Libous,30
+Broome,Union W:000 D:021,State Senate,52,Republican,Thomas W Libous,44
+Broome,Union W:000 D:022,State Senate,52,Republican,Thomas W Libous,34
+Broome,Union W:000 D:023,State Senate,52,Republican,Thomas W Libous,44
+Broome,Union W:000 D:024,State Senate,52,Republican,Thomas W Libous,38
+Broome,Union W:000 D:025,State Senate,52,Republican,Thomas W Libous,18
+Broome,Union W:000 D:026,State Senate,52,Republican,Thomas W Libous,25
+Broome,Union W:000 D:027,State Senate,52,Republican,Thomas W Libous,22
+Broome,Union W:000 D:028,State Senate,52,Republican,Thomas W Libous,40
+Broome,Union W:000 D:029,State Senate,52,Republican,Thomas W Libous,34
+Broome,Union W:000 D:030,State Senate,52,Republican,Thomas W Libous,28
+Broome,Union W:000 D:031,State Senate,52,Republican,Thomas W Libous,18
+Broome,Union W:000 D:032,State Senate,52,Republican,Thomas W Libous,26
+Broome,Union W:000 D:033,State Senate,52,Republican,Thomas W Libous,22
+Broome,Union W:000 D:034,State Senate,52,Republican,Thomas W Libous,30
+Broome,Union W:000 D:035,State Senate,52,Republican,Thomas W Libous,27
+Broome,Union W:000 D:036,State Senate,52,Republican,Thomas W Libous,39
+Broome,Union W:000 D:037,State Senate,52,Republican,Thomas W Libous,46
+Broome,Union W:000 D:038,State Senate,52,Republican,Thomas W Libous,47
+Broome,Union W:000 D:039,State Senate,52,Republican,Thomas W Libous,18
+Broome,Union W:000 D:001,State Senate,52,Republican,Denver L Jones,24
+Broome,Union W:000 D:002,State Senate,52,Republican,Denver L Jones,27
+Broome,Union W:000 D:003,State Senate,52,Republican,Denver L Jones,12
+Broome,Union W:000 D:004,State Senate,52,Republican,Denver L Jones,11
+Broome,Union W:000 D:005,State Senate,52,Republican,Denver L Jones,10
+Broome,Union W:000 D:006,State Senate,52,Republican,Denver L Jones,14
+Broome,Union W:000 D:007,State Senate,52,Republican,Denver L Jones,14
+Broome,Union W:000 D:008,State Senate,52,Republican,Denver L Jones,13
+Broome,Union W:000 D:009,State Senate,52,Republican,Denver L Jones,19
+Broome,Union W:000 D:010,State Senate,52,Republican,Denver L Jones,34
+Broome,Union W:000 D:011,State Senate,52,Republican,Denver L Jones,10
+Broome,Union W:000 D:012,State Senate,52,Republican,Denver L Jones,14
+Broome,Union W:000 D:013,State Senate,52,Republican,Denver L Jones,6
+Broome,Union W:000 D:014,State Senate,52,Republican,Denver L Jones,13
+Broome,Union W:000 D:015,State Senate,52,Republican,Denver L Jones,20
+Broome,Union W:000 D:016,State Senate,52,Republican,Denver L Jones,15
+Broome,Union W:000 D:017,State Senate,52,Republican,Denver L Jones,20
+Broome,Union W:000 D:018,State Senate,52,Republican,Denver L Jones,17
+Broome,Union W:000 D:019,State Senate,52,Republican,Denver L Jones,25
+Broome,Union W:000 D:020,State Senate,52,Republican,Denver L Jones,16
+Broome,Union W:000 D:021,State Senate,52,Republican,Denver L Jones,21
+Broome,Union W:000 D:022,State Senate,52,Republican,Denver L Jones,25
+Broome,Union W:000 D:023,State Senate,52,Republican,Denver L Jones,19
+Broome,Union W:000 D:024,State Senate,52,Republican,Denver L Jones,22
+Broome,Union W:000 D:025,State Senate,52,Republican,Denver L Jones,21
+Broome,Union W:000 D:026,State Senate,52,Republican,Denver L Jones,30
+Broome,Union W:000 D:027,State Senate,52,Republican,Denver L Jones,17
+Broome,Union W:000 D:028,State Senate,52,Republican,Denver L Jones,22
+Broome,Union W:000 D:029,State Senate,52,Republican,Denver L Jones,26
+Broome,Union W:000 D:030,State Senate,52,Republican,Denver L Jones,30
+Broome,Union W:000 D:031,State Senate,52,Republican,Denver L Jones,12
+Broome,Union W:000 D:032,State Senate,52,Republican,Denver L Jones,22
+Broome,Union W:000 D:033,State Senate,52,Republican,Denver L Jones,18
+Broome,Union W:000 D:034,State Senate,52,Republican,Denver L Jones,15
+Broome,Union W:000 D:035,State Senate,52,Republican,Denver L Jones,18
+Broome,Union W:000 D:036,State Senate,52,Republican,Denver L Jones,28
+Broome,Union W:000 D:037,State Senate,52,Republican,Denver L Jones,29
+Broome,Union W:000 D:038,State Senate,52,Republican,Denver L Jones,38
+Broome,Union W:000 D:039,State Senate,52,Republican,Denver L Jones,9
+Broome,Union W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:002,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:003,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:004,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:005,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:006,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:007,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:008,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:009,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:010,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:011,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:012,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:013,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:014,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:015,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:016,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:017,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:018,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:019,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:020,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:021,State Senate,52,Republican,Scatter,1
+Broome,Union W:000 D:022,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:023,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:024,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:025,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:026,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:027,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:028,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:029,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:030,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:031,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:032,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:033,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:034,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:035,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:036,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:037,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:038,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:039,State Senate,52,Republican,Scatter,
+Broome,Union W:000 D:001,State Senate,52,Republican,Void,
+Broome,Union W:000 D:002,State Senate,52,Republican,Void,
+Broome,Union W:000 D:003,State Senate,52,Republican,Void,
+Broome,Union W:000 D:004,State Senate,52,Republican,Void,1
+Broome,Union W:000 D:005,State Senate,52,Republican,Void,
+Broome,Union W:000 D:006,State Senate,52,Republican,Void,
+Broome,Union W:000 D:007,State Senate,52,Republican,Void,
+Broome,Union W:000 D:008,State Senate,52,Republican,Void,
+Broome,Union W:000 D:009,State Senate,52,Republican,Void,
+Broome,Union W:000 D:010,State Senate,52,Republican,Void,
+Broome,Union W:000 D:011,State Senate,52,Republican,Void,
+Broome,Union W:000 D:012,State Senate,52,Republican,Void,
+Broome,Union W:000 D:013,State Senate,52,Republican,Void,1
+Broome,Union W:000 D:014,State Senate,52,Republican,Void,
+Broome,Union W:000 D:015,State Senate,52,Republican,Void,3
+Broome,Union W:000 D:016,State Senate,52,Republican,Void,
+Broome,Union W:000 D:017,State Senate,52,Republican,Void,
+Broome,Union W:000 D:018,State Senate,52,Republican,Void,
+Broome,Union W:000 D:019,State Senate,52,Republican,Void,
+Broome,Union W:000 D:020,State Senate,52,Republican,Void,
+Broome,Union W:000 D:021,State Senate,52,Republican,Void,
+Broome,Union W:000 D:022,State Senate,52,Republican,Void,
+Broome,Union W:000 D:023,State Senate,52,Republican,Void,
+Broome,Union W:000 D:024,State Senate,52,Republican,Void,
+Broome,Union W:000 D:025,State Senate,52,Republican,Void,
+Broome,Union W:000 D:026,State Senate,52,Republican,Void,
+Broome,Union W:000 D:027,State Senate,52,Republican,Void,
+Broome,Union W:000 D:028,State Senate,52,Republican,Void,
+Broome,Union W:000 D:029,State Senate,52,Republican,Void,
+Broome,Union W:000 D:030,State Senate,52,Republican,Void,1
+Broome,Union W:000 D:031,State Senate,52,Republican,Void,
+Broome,Union W:000 D:032,State Senate,52,Republican,Void,
+Broome,Union W:000 D:033,State Senate,52,Republican,Void,
+Broome,Union W:000 D:034,State Senate,52,Republican,Void,
+Broome,Union W:000 D:035,State Senate,52,Republican,Void,
+Broome,Union W:000 D:036,State Senate,52,Republican,Void,
+Broome,Union W:000 D:037,State Senate,52,Republican,Void,
+Broome,Union W:000 D:038,State Senate,52,Republican,Void,1
+Broome,Union W:000 D:039,State Senate,52,Republican,Void,
+Broome,Union W:000 D:001,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:002,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:003,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:004,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:005,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:006,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:007,State Senate,52,Republican,Blank Votes,1
+Broome,Union W:000 D:008,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:009,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:010,State Senate,52,Republican,Blank Votes,1
+Broome,Union W:000 D:011,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:012,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:013,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:014,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:015,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:016,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:017,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:018,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:019,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:020,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:021,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:022,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:023,State Senate,52,Republican,Blank Votes,1
+Broome,Union W:000 D:024,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:025,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:026,State Senate,52,Republican,Blank Votes,1
+Broome,Union W:000 D:027,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:028,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:029,State Senate,52,Republican,Blank Votes,1
+Broome,Union W:000 D:030,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:031,State Senate,52,Republican,Blank Votes,1
+Broome,Union W:000 D:032,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:033,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:034,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:035,State Senate,52,Republican,Blank Votes,1
+Broome,Union W:000 D:036,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:037,State Senate,52,Republican,Blank Votes,2
+Broome,Union W:000 D:038,State Senate,52,Republican,Blank Votes,0
+Broome,Union W:000 D:039,State Senate,52,Republican,Blank Votes,0
+Broome,Vestal W:000 D:001,State Senate,52,Republican,Thomas W Libous,53
+Broome,Vestal W:000 D:002,State Senate,52,Republican,Thomas W Libous,62
+Broome,Vestal W:000 D:003,State Senate,52,Republican,Thomas W Libous,33
+Broome,Vestal W:000 D:004,State Senate,52,Republican,Thomas W Libous,40
+Broome,Vestal W:000 D:005,State Senate,52,Republican,Thomas W Libous,40
+Broome,Vestal W:000 D:006,State Senate,52,Republican,Thomas W Libous,62
+Broome,Vestal W:000 D:007,State Senate,52,Republican,Thomas W Libous,45
+Broome,Vestal W:000 D:008,State Senate,52,Republican,Thomas W Libous,42
+Broome,Vestal W:000 D:009,State Senate,52,Republican,Thomas W Libous,36
+Broome,Vestal W:000 D:010,State Senate,52,Republican,Thomas W Libous,26
+Broome,Vestal W:000 D:011,State Senate,52,Republican,Thomas W Libous,0
+Broome,Vestal W:000 D:012,State Senate,52,Republican,Thomas W Libous,0
+Broome,Vestal W:000 D:013,State Senate,52,Republican,Thomas W Libous,0
+Broome,Vestal W:000 D:014,State Senate,52,Republican,Thomas W Libous,49
+Broome,Vestal W:000 D:015,State Senate,52,Republican,Thomas W Libous,35
+Broome,Vestal W:000 D:016,State Senate,52,Republican,Thomas W Libous,41
+Broome,Vestal W:000 D:017,State Senate,52,Republican,Thomas W Libous,23
+Broome,Vestal W:000 D:018,State Senate,52,Republican,Thomas W Libous,39
+Broome,Vestal W:000 D:019,State Senate,52,Republican,Thomas W Libous,35
+Broome,Vestal W:000 D:001,State Senate,52,Republican,Denver L Jones,27
+Broome,Vestal W:000 D:002,State Senate,52,Republican,Denver L Jones,31
+Broome,Vestal W:000 D:003,State Senate,52,Republican,Denver L Jones,13
+Broome,Vestal W:000 D:004,State Senate,52,Republican,Denver L Jones,12
+Broome,Vestal W:000 D:005,State Senate,52,Republican,Denver L Jones,24
+Broome,Vestal W:000 D:006,State Senate,52,Republican,Denver L Jones,28
+Broome,Vestal W:000 D:007,State Senate,52,Republican,Denver L Jones,35
+Broome,Vestal W:000 D:008,State Senate,52,Republican,Denver L Jones,29
+Broome,Vestal W:000 D:009,State Senate,52,Republican,Denver L Jones,19
+Broome,Vestal W:000 D:010,State Senate,52,Republican,Denver L Jones,24
+Broome,Vestal W:000 D:011,State Senate,52,Republican,Denver L Jones,0
+Broome,Vestal W:000 D:012,State Senate,52,Republican,Denver L Jones,0
+Broome,Vestal W:000 D:013,State Senate,52,Republican,Denver L Jones,0
+Broome,Vestal W:000 D:014,State Senate,52,Republican,Denver L Jones,39
+Broome,Vestal W:000 D:015,State Senate,52,Republican,Denver L Jones,38
+Broome,Vestal W:000 D:016,State Senate,52,Republican,Denver L Jones,15
+Broome,Vestal W:000 D:017,State Senate,52,Republican,Denver L Jones,10
+Broome,Vestal W:000 D:018,State Senate,52,Republican,Denver L Jones,19
+Broome,Vestal W:000 D:019,State Senate,52,Republican,Denver L Jones,27
+Broome,Vestal W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:002,State Senate,52,Republican,Scatter,1
+Broome,Vestal W:000 D:003,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:004,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:005,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:006,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:007,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:008,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:009,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:010,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:011,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:012,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:013,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:014,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:015,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:016,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:017,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:018,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:019,State Senate,52,Republican,Scatter,
+Broome,Vestal W:000 D:001,State Senate,52,Republican,Void,2
+Broome,Vestal W:000 D:002,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:003,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:004,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:005,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:006,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:007,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:008,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:009,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:010,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:011,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:012,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:013,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:014,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:015,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:016,State Senate,52,Republican,Void,1
+Broome,Vestal W:000 D:017,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:018,State Senate,52,Republican,Void,
+Broome,Vestal W:000 D:019,State Senate,52,Republican,Void,1
+Broome,Vestal W:000 D:001,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:002,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:003,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:004,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:005,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:006,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:007,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:008,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:009,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:010,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:011,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:012,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:013,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:014,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:015,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:016,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:017,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:018,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:019,State Senate,52,Republican,Blank Votes,
+Broome,Vestal W:000 D:001,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:002,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:003,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:004,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:005,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:006,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:007,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:008,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:009,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:010,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:011,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:012,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:013,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:014,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:015,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:016,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:017,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:018,State Senate,52,Republican,void,
+Broome,Vestal W:000 D:019,State Senate,52,Republican,void,
+Broome,Windsor W:000 D:001,State Senate,52,Republican,Thomas W Libous,44
+Broome,Windsor W:000 D:002,State Senate,52,Republican,Thomas W Libous,40
+Broome,Windsor W:000 D:003,State Senate,52,Republican,Thomas W Libous,39
+Broome,Windsor W:000 D:004,State Senate,52,Republican,Thomas W Libous,31
+Broome,Windsor W:000 D:005,State Senate,52,Republican,Thomas W Libous,44
+Broome,Windsor W:000 D:001,State Senate,52,Republican,Denver L Jones,25
+Broome,Windsor W:000 D:002,State Senate,52,Republican,Denver L Jones,16
+Broome,Windsor W:000 D:003,State Senate,52,Republican,Denver L Jones,18
+Broome,Windsor W:000 D:004,State Senate,52,Republican,Denver L Jones,21
+Broome,Windsor W:000 D:005,State Senate,52,Republican,Denver L Jones,8
+Broome,Windsor W:000 D:001,State Senate,52,Republican,Scatter,
+Broome,Windsor W:000 D:002,State Senate,52,Republican,Scatter,
+Broome,Windsor W:000 D:003,State Senate,52,Republican,Scatter,
+Broome,Windsor W:000 D:004,State Senate,52,Republican,Scatter,
+Broome,Windsor W:000 D:005,State Senate,52,Republican,Scatter,
+Broome,Windsor W:000 D:001,State Senate,52,Republican,Void,1
+Broome,Windsor W:000 D:002,State Senate,52,Republican,Void,
+Broome,Windsor W:000 D:003,State Senate,52,Republican,Void,
+Broome,Windsor W:000 D:004,State Senate,52,Republican,Void,
+Broome,Windsor W:000 D:005,State Senate,52,Republican,Void,
+Broome,Windsor W:000 D:001,State Senate,52,Republican,void,
+Broome,Windsor W:000 D:002,State Senate,52,Republican,void,
+Broome,Windsor W:000 D:003,State Senate,52,Republican,void,
+Broome,Windsor W:000 D:004,State Senate,52,Republican,void,
+Broome,Windsor W:000 D:005,State Senate,52,Republican,void,
+Broome,Windsor W:000 D:001,State Senate,52,Republican,Blank Votes,0
+Broome,Windsor W:000 D:002,State Senate,52,Republican,Blank Votes,0
+Broome,Windsor W:000 D:003,State Senate,52,Republican,Blank Votes,0
+Broome,Windsor W:000 D:004,State Senate,52,Republican,Blank Votes,0
+Broome,Windsor W:000 D:005,State Senate,52,Republican,Blank Votes,0
