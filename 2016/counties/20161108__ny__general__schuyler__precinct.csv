@@ -1,0 +1,811 @@
+county,precinct,office,district,party,candidate,votes
+Schuyler,Catharine 1,President,,DEM,Hillary Clinton,227
+Schuyler,Cayuta 1,President,,DEM,Hillary Clinton,53
+Schuyler,Dix 1,President,,DEM,Hillary Clinton,66
+Schuyler,Dix 2,President,,DEM,Hillary Clinton,316
+Schuyler,Dix 3,President,,DEM,Hillary Clinton,171
+Schuyler,Hector 1,President,,DEM,Hillary Clinton,319
+Schuyler,Hector 2,President,,DEM,Hillary Clinton,138
+Schuyler,Hector 3,President,,DEM,Hillary Clinton,198
+Schuyler,Hector 4,President,,DEM,Hillary Clinton,221
+Schuyler,Hector 5,President,,DEM,Hillary Clinton,96
+Schuyler,Hector 6,President,,DEM,Hillary Clinton,74
+Schuyler,Montour 1,President,,DEM,Hillary Clinton,71
+Schuyler,Montour 2,President,,DEM,Hillary Clinton,73
+Schuyler,Montour 3,President,,DEM,Hillary Clinton,218
+Schuyler,Orange 1,President,,DEM,Hillary Clinton,120
+Schuyler,Reading 1,President,,DEM,Hillary Clinton,180
+Schuyler,Reading 2,President,,DEM,Hillary Clinton,73
+Schuyler,Tyrone 1,President,,DEM,Hillary Clinton,86
+Schuyler,Tyrone 2,President,,DEM,Hillary Clinton,114
+Schuyler,Cumulative,President,,DEM,Hillary Clinton,0
+Schuyler,Catharine 1,President,,WOR,Hillary Clinton,28
+Schuyler,Cayuta 1,President,,WOR,Hillary Clinton,4
+Schuyler,Dix 1,President,,WOR,Hillary Clinton,4
+Schuyler,Dix 2,President,,WOR,Hillary Clinton,14
+Schuyler,Dix 3,President,,WOR,Hillary Clinton,7
+Schuyler,Hector 1,President,,WOR,Hillary Clinton,27
+Schuyler,Hector 2,President,,WOR,Hillary Clinton,24
+Schuyler,Hector 3,President,,WOR,Hillary Clinton,18
+Schuyler,Hector 4,President,,WOR,Hillary Clinton,27
+Schuyler,Hector 5,President,,WOR,Hillary Clinton,12
+Schuyler,Hector 6,President,,WOR,Hillary Clinton,2
+Schuyler,Montour 1,President,,WOR,Hillary Clinton,5
+Schuyler,Montour 2,President,,WOR,Hillary Clinton,2
+Schuyler,Montour 3,President,,WOR,Hillary Clinton,10
+Schuyler,Orange 1,President,,WOR,Hillary Clinton,2
+Schuyler,Reading 1,President,,WOR,Hillary Clinton,9
+Schuyler,Reading 2,President,,WOR,Hillary Clinton,3
+Schuyler,Tyrone 1,President,,WOR,Hillary Clinton,3
+Schuyler,Tyrone 2,President,,WOR,Hillary Clinton,4
+Schuyler,Cumulative,President,,WOR,Hillary Clinton,0
+Schuyler,Catharine 1,President,,WEP,Hillary Clinton,6
+Schuyler,Cayuta 1,President,,WEP,Hillary Clinton,0
+Schuyler,Dix 1,President,,WEP,Hillary Clinton,4
+Schuyler,Dix 2,President,,WEP,Hillary Clinton,7
+Schuyler,Dix 3,President,,WEP,Hillary Clinton,2
+Schuyler,Hector 1,President,,WEP,Hillary Clinton,11
+Schuyler,Hector 2,President,,WEP,Hillary Clinton,2
+Schuyler,Hector 3,President,,WEP,Hillary Clinton,5
+Schuyler,Hector 4,President,,WEP,Hillary Clinton,8
+Schuyler,Hector 5,President,,WEP,Hillary Clinton,2
+Schuyler,Hector 6,President,,WEP,Hillary Clinton,2
+Schuyler,Montour 1,President,,WEP,Hillary Clinton,2
+Schuyler,Montour 2,President,,WEP,Hillary Clinton,1
+Schuyler,Montour 3,President,,WEP,Hillary Clinton,5
+Schuyler,Orange 1,President,,WEP,Hillary Clinton,3
+Schuyler,Reading 1,President,,WEP,Hillary Clinton,4
+Schuyler,Reading 2,President,,WEP,Hillary Clinton,1
+Schuyler,Tyrone 1,President,,WEP,Hillary Clinton,3
+Schuyler,Tyrone 2,President,,WEP,Hillary Clinton,1
+Schuyler,Cumulative,President,,WEP,Hillary Clinton,0
+Schuyler,Catharine 1,President,,REP,Donald Trump,410
+Schuyler,Cayuta 1,President,,REP,Donald Trump,153
+Schuyler,Dix 1,President,,REP,Donald Trump,80
+Schuyler,Dix 2,President,,REP,Donald Trump,300
+Schuyler,Dix 3,President,,REP,Donald Trump,529
+Schuyler,Hector 1,President,,REP,Donald Trump,255
+Schuyler,Hector 2,President,,REP,Donald Trump,119
+Schuyler,Hector 3,President,,REP,Donald Trump,256
+Schuyler,Hector 4,President,,REP,Donald Trump,253
+Schuyler,Hector 5,President,,REP,Donald Trump,117
+Schuyler,Hector 6,President,,REP,Donald Trump,96
+Schuyler,Montour 1,President,,REP,Donald Trump,147
+Schuyler,Montour 2,President,,REP,Donald Trump,101
+Schuyler,Montour 3,President,,REP,Donald Trump,326
+Schuyler,Orange 1,President,,REP,Donald Trump,439
+Schuyler,Reading 1,President,,REP,Donald Trump,405
+Schuyler,Reading 2,President,,REP,Donald Trump,79
+Schuyler,Tyrone 1,President,,REP,Donald Trump,208
+Schuyler,Tyrone 2,President,,REP,Donald Trump,243
+Schuyler,Cumulative,President,,REP,Donald Trump,0
+Schuyler,Catharine 1,President,,CON,Donald Trump,55
+Schuyler,Cayuta 1,President,,CON,Donald Trump,22
+Schuyler,Dix 1,President,,CON,Donald Trump,6
+Schuyler,Dix 2,President,,CON,Donald Trump,47
+Schuyler,Dix 3,President,,CON,Donald Trump,64
+Schuyler,Hector 1,President,,CON,Donald Trump,25
+Schuyler,Hector 2,President,,CON,Donald Trump,8
+Schuyler,Hector 3,President,,CON,Donald Trump,35
+Schuyler,Hector 4,President,,CON,Donald Trump,46
+Schuyler,Hector 5,President,,CON,Donald Trump,15
+Schuyler,Hector 6,President,,CON,Donald Trump,16
+Schuyler,Montour 1,President,,CON,Donald Trump,15
+Schuyler,Montour 2,President,,CON,Donald Trump,14
+Schuyler,Montour 3,President,,CON,Donald Trump,26
+Schuyler,Orange 1,President,,CON,Donald Trump,47
+Schuyler,Reading 1,President,,CON,Donald Trump,43
+Schuyler,Reading 2,President,,CON,Donald Trump,5
+Schuyler,Tyrone 1,President,,CON,Donald Trump,13
+Schuyler,Tyrone 2,President,,CON,Donald Trump,31
+Schuyler,Cumulative,President,,CON,Donald Trump,0
+Schuyler,Catharine 1,President,,GRN,Jill Stein,25
+Schuyler,Cayuta 1,President,,GRN,Jill Stein,5
+Schuyler,Dix 1,President,,GRN,Jill Stein,4
+Schuyler,Dix 2,President,,GRN,Jill Stein,16
+Schuyler,Dix 3,President,,GRN,Jill Stein,8
+Schuyler,Hector 1,President,,GRN,Jill Stein,34
+Schuyler,Hector 2,President,,GRN,Jill Stein,13
+Schuyler,Hector 3,President,,GRN,Jill Stein,17
+Schuyler,Hector 4,President,,GRN,Jill Stein,20
+Schuyler,Hector 5,President,,GRN,Jill Stein,8
+Schuyler,Hector 6,President,,GRN,Jill Stein,4
+Schuyler,Montour 1,President,,GRN,Jill Stein,6
+Schuyler,Montour 2,President,,GRN,Jill Stein,0
+Schuyler,Montour 3,President,,GRN,Jill Stein,11
+Schuyler,Orange 1,President,,GRN,Jill Stein,9
+Schuyler,Reading 1,President,,GRN,Jill Stein,20
+Schuyler,Reading 2,President,,GRN,Jill Stein,7
+Schuyler,Tyrone 1,President,,GRN,Jill Stein,5
+Schuyler,Tyrone 2,President,,GRN,Jill Stein,4
+Schuyler,Cumulative,President,,GRN,Jill Stein,0
+Schuyler,Catharine 1,President,,IDC,Gary Johnson,26
+Schuyler,Cayuta 1,President,,IDC,Gary Johnson,6
+Schuyler,Dix 1,President,,IDC,Gary Johnson,4
+Schuyler,Dix 2,President,,IDC,Gary Johnson,18
+Schuyler,Dix 3,President,,IDC,Gary Johnson,18
+Schuyler,Hector 1,President,,IDC,Gary Johnson,16
+Schuyler,Hector 2,President,,IDC,Gary Johnson,10
+Schuyler,Hector 3,President,,IDC,Gary Johnson,7
+Schuyler,Hector 4,President,,IDC,Gary Johnson,10
+Schuyler,Hector 5,President,,IDC,Gary Johnson,5
+Schuyler,Hector 6,President,,IDC,Gary Johnson,5
+Schuyler,Montour 1,President,,IDC,Gary Johnson,5
+Schuyler,Montour 2,President,,IDC,Gary Johnson,4
+Schuyler,Montour 3,President,,IDC,Gary Johnson,15
+Schuyler,Orange 1,President,,IDC,Gary Johnson,17
+Schuyler,Reading 1,President,,IDC,Gary Johnson,22
+Schuyler,Reading 2,President,,IDC,Gary Johnson,6
+Schuyler,Tyrone 1,President,,IDC,Gary Johnson,4
+Schuyler,Tyrone 2,President,,IDC,Gary Johnson,8
+Schuyler,Cumulative,President,,IDC,Gary Johnson,0
+Schuyler,Catharine 1,President,,LBT,Gary Johnson,9
+Schuyler,Cayuta 1,President,,LBT,Gary Johnson,3
+Schuyler,Dix 1,President,,LBT,Gary Johnson,3
+Schuyler,Dix 2,President,,LBT,Gary Johnson,9
+Schuyler,Dix 3,President,,LBT,Gary Johnson,6
+Schuyler,Hector 1,President,,LBT,Gary Johnson,6
+Schuyler,Hector 2,President,,LBT,Gary Johnson,3
+Schuyler,Hector 3,President,,LBT,Gary Johnson,4
+Schuyler,Hector 4,President,,LBT,Gary Johnson,10
+Schuyler,Hector 5,President,,LBT,Gary Johnson,7
+Schuyler,Hector 6,President,,LBT,Gary Johnson,6
+Schuyler,Montour 1,President,,LBT,Gary Johnson,3
+Schuyler,Montour 2,President,,LBT,Gary Johnson,2
+Schuyler,Montour 3,President,,LBT,Gary Johnson,7
+Schuyler,Orange 1,President,,LBT,Gary Johnson,8
+Schuyler,Reading 1,President,,LBT,Gary Johnson,11
+Schuyler,Reading 2,President,,LBT,Gary Johnson,2
+Schuyler,Tyrone 1,President,,LBT,Gary Johnson,3
+Schuyler,Tyrone 2,President,,LBT,Gary Johnson,1
+Schuyler,Cumulative,President,,LBT,Gary Johnson,0
+Schuyler,Catharine 1,President,,,Darrell Castle,0
+Schuyler,Cayuta 1,President,,,Darrell Castle,0
+Schuyler,Dix 1,President,,,Darrell Castle,0
+Schuyler,Dix 2,President,,,Darrell Castle,0
+Schuyler,Dix 3,President,,,Darrell Castle,0
+Schuyler,Hector 1,President,,,Darrell Castle,0
+Schuyler,Hector 2,President,,,Darrell Castle,0
+Schuyler,Hector 3,President,,,Darrell Castle,2
+Schuyler,Hector 4,President,,,Darrell Castle,0
+Schuyler,Hector 5,President,,,Darrell Castle,0
+Schuyler,Hector 6,President,,,Darrell Castle,0
+Schuyler,Montour 1,President,,,Darrell Castle,0
+Schuyler,Montour 2,President,,,Darrell Castle,0
+Schuyler,Montour 3,President,,,Darrell Castle,0
+Schuyler,Orange 1,President,,,Darrell Castle,0
+Schuyler,Reading 1,President,,,Darrell Castle,0
+Schuyler,Reading 2,President,,,Darrell Castle,0
+Schuyler,Tyrone 1,President,,,Darrell Castle,0
+Schuyler,Tyrone 2,President,,,Darrell Castle,0
+Schuyler,Cumulative,President,,,Darrell Castle,1
+Schuyler,Catharine 1,President,,,Evan McMullin,1
+Schuyler,Cayuta 1,President,,,Evan McMullin,0
+Schuyler,Dix 1,President,,,Evan McMullin,0
+Schuyler,Dix 2,President,,,Evan McMullin,5
+Schuyler,Dix 3,President,,,Evan McMullin,0
+Schuyler,Hector 1,President,,,Evan McMullin,0
+Schuyler,Hector 2,President,,,Evan McMullin,2
+Schuyler,Hector 3,President,,,Evan McMullin,1
+Schuyler,Hector 4,President,,,Evan McMullin,2
+Schuyler,Hector 5,President,,,Evan McMullin,2
+Schuyler,Hector 6,President,,,Evan McMullin,0
+Schuyler,Montour 1,President,,,Evan McMullin,0
+Schuyler,Montour 2,President,,,Evan McMullin,0
+Schuyler,Montour 3,President,,,Evan McMullin,0
+Schuyler,Orange 1,President,,,Evan McMullin,0
+Schuyler,Reading 1,President,,,Evan McMullin,3
+Schuyler,Reading 2,President,,,Evan McMullin,0
+Schuyler,Tyrone 1,President,,,Evan McMullin,0
+Schuyler,Tyrone 2,President,,,Evan McMullin,0
+Schuyler,Cumulative,President,,,Evan McMullin,2
+Schuyler,Catharine 1,President,,,Write-ins,10
+Schuyler,Cayuta 1,President,,,Write-ins,2
+Schuyler,Dix 1,President,,,Write-ins,0
+Schuyler,Dix 2,President,,,Write-ins,8
+Schuyler,Dix 3,President,,,Write-ins,6
+Schuyler,Hector 1,President,,,Write-ins,7
+Schuyler,Hector 2,President,,,Write-ins,3
+Schuyler,Hector 3,President,,,Write-ins,3
+Schuyler,Hector 4,President,,,Write-ins,9
+Schuyler,Hector 5,President,,,Write-ins,4
+Schuyler,Hector 6,President,,,Write-ins,0
+Schuyler,Montour 1,President,,,Write-ins,4
+Schuyler,Montour 2,President,,,Write-ins,1
+Schuyler,Montour 3,President,,,Write-ins,7
+Schuyler,Orange 1,President,,,Write-ins,3
+Schuyler,Reading 1,President,,,Write-ins,6
+Schuyler,Reading 2,President,,,Write-ins,2
+Schuyler,Tyrone 1,President,,,Write-ins,1
+Schuyler,Tyrone 2,President,,,Write-ins,3
+Schuyler,Cumulative,President,,,Write-ins,5
+Schuyler,Catharine 1,President,,,Scattering,0
+Schuyler,Cayuta 1,President,,,Scattering,0
+Schuyler,Dix 1,President,,,Scattering,0
+Schuyler,Dix 2,President,,,Scattering,1
+Schuyler,Dix 3,President,,,Scattering,1
+Schuyler,Hector 1,President,,,Scattering,1
+Schuyler,Hector 2,President,,,Scattering,0
+Schuyler,Hector 3,President,,,Scattering,2
+Schuyler,Hector 4,President,,,Scattering,0
+Schuyler,Hector 5,President,,,Scattering,0
+Schuyler,Hector 6,President,,,Scattering,0
+Schuyler,Montour 1,President,,,Scattering,0
+Schuyler,Montour 2,President,,,Scattering,0
+Schuyler,Montour 3,President,,,Scattering,2
+Schuyler,Orange 1,President,,,Scattering,1
+Schuyler,Reading 1,President,,,Scattering,0
+Schuyler,Reading 2,President,,,Scattering,1
+Schuyler,Tyrone 1,President,,,Scattering,0
+Schuyler,Tyrone 2,President,,,Scattering,0
+Schuyler,Cumulative,President,,,Scattering,0
+Schuyler,Catharine 1,U.S. Senate,,DEM,Charles Schumer,273
+Schuyler,Cayuta 1,U.S. Senate,,DEM,Charles Schumer,82
+Schuyler,Dix 1,U.S. Senate,,DEM,Charles Schumer,83
+Schuyler,Dix 2,U.S. Senate,,DEM,Charles Schumer,352
+Schuyler,Dix 3,U.S. Senate,,DEM,Charles Schumer,270
+Schuyler,Hector 1,U.S. Senate,,DEM,Charles Schumer,351
+Schuyler,Hector 2,U.S. Senate,,DEM,Charles Schumer,149
+Schuyler,Hector 3,U.S. Senate,,DEM,Charles Schumer,215
+Schuyler,Hector 4,U.S. Senate,,DEM,Charles Schumer,247
+Schuyler,Hector 5,U.S. Senate,,DEM,Charles Schumer,114
+Schuyler,Hector 6,U.S. Senate,,DEM,Charles Schumer,86
+Schuyler,Montour 1,U.S. Senate,,DEM,Charles Schumer,99
+Schuyler,Montour 2,U.S. Senate,,DEM,Charles Schumer,77
+Schuyler,Montour 3,U.S. Senate,,DEM,Charles Schumer,266
+Schuyler,Orange 1,U.S. Senate,,DEM,Charles Schumer,181
+Schuyler,Reading 1,U.S. Senate,,DEM,Charles Schumer,234
+Schuyler,Reading 2,U.S. Senate,,DEM,Charles Schumer,96
+Schuyler,Tyrone 1,U.S. Senate,,DEM,Charles Schumer,97
+Schuyler,Tyrone 2,U.S. Senate,,DEM,Charles Schumer,167
+Schuyler,Catharine 1,U.S. Senate,,WOR,Charles Schumer,39
+Schuyler,Cayuta 1,U.S. Senate,,WOR,Charles Schumer,17
+Schuyler,Dix 1,U.S. Senate,,WOR,Charles Schumer,7
+Schuyler,Dix 2,U.S. Senate,,WOR,Charles Schumer,25
+Schuyler,Dix 3,U.S. Senate,,WOR,Charles Schumer,23
+Schuyler,Hector 1,U.S. Senate,,WOR,Charles Schumer,47
+Schuyler,Hector 2,U.S. Senate,,WOR,Charles Schumer,24
+Schuyler,Hector 3,U.S. Senate,,WOR,Charles Schumer,25
+Schuyler,Hector 4,U.S. Senate,,WOR,Charles Schumer,35
+Schuyler,Hector 5,U.S. Senate,,WOR,Charles Schumer,21
+Schuyler,Hector 6,U.S. Senate,,WOR,Charles Schumer,10
+Schuyler,Montour 1,U.S. Senate,,WOR,Charles Schumer,8
+Schuyler,Montour 2,U.S. Senate,,WOR,Charles Schumer,3
+Schuyler,Montour 3,U.S. Senate,,WOR,Charles Schumer,26
+Schuyler,Orange 1,U.S. Senate,,WOR,Charles Schumer,18
+Schuyler,Reading 1,U.S. Senate,,WOR,Charles Schumer,17
+Schuyler,Reading 2,U.S. Senate,,WOR,Charles Schumer,7
+Schuyler,Tyrone 1,U.S. Senate,,WOR,Charles Schumer,10
+Schuyler,Tyrone 2,U.S. Senate,,WOR,Charles Schumer,14
+Schuyler,Catharine 1,U.S. Senate,,IDC,Charles Schumer,18
+Schuyler,Cayuta 1,U.S. Senate,,IDC,Charles Schumer,7
+Schuyler,Dix 1,U.S. Senate,,IDC,Charles Schumer,4
+Schuyler,Dix 2,U.S. Senate,,IDC,Charles Schumer,20
+Schuyler,Dix 3,U.S. Senate,,IDC,Charles Schumer,18
+Schuyler,Hector 1,U.S. Senate,,IDC,Charles Schumer,8
+Schuyler,Hector 2,U.S. Senate,,IDC,Charles Schumer,8
+Schuyler,Hector 3,U.S. Senate,,IDC,Charles Schumer,12
+Schuyler,Hector 4,U.S. Senate,,IDC,Charles Schumer,11
+Schuyler,Hector 5,U.S. Senate,,IDC,Charles Schumer,6
+Schuyler,Hector 6,U.S. Senate,,IDC,Charles Schumer,3
+Schuyler,Montour 1,U.S. Senate,,IDC,Charles Schumer,1
+Schuyler,Montour 2,U.S. Senate,,IDC,Charles Schumer,3
+Schuyler,Montour 3,U.S. Senate,,IDC,Charles Schumer,14
+Schuyler,Orange 1,U.S. Senate,,IDC,Charles Schumer,10
+Schuyler,Reading 1,U.S. Senate,,IDC,Charles Schumer,19
+Schuyler,Reading 2,U.S. Senate,,IDC,Charles Schumer,4
+Schuyler,Tyrone 1,U.S. Senate,,IDC,Charles Schumer,7
+Schuyler,Tyrone 2,U.S. Senate,,IDC,Charles Schumer,10
+Schuyler,Catharine 1,U.S. Senate,,WEP,Charles Schumer,7
+Schuyler,Cayuta 1,U.S. Senate,,WEP,Charles Schumer,0
+Schuyler,Dix 1,U.S. Senate,,WEP,Charles Schumer,5
+Schuyler,Dix 2,U.S. Senate,,WEP,Charles Schumer,7
+Schuyler,Dix 3,U.S. Senate,,WEP,Charles Schumer,4
+Schuyler,Hector 1,U.S. Senate,,WEP,Charles Schumer,8
+Schuyler,Hector 2,U.S. Senate,,WEP,Charles Schumer,2
+Schuyler,Hector 3,U.S. Senate,,WEP,Charles Schumer,5
+Schuyler,Hector 4,U.S. Senate,,WEP,Charles Schumer,12
+Schuyler,Hector 5,U.S. Senate,,WEP,Charles Schumer,2
+Schuyler,Hector 6,U.S. Senate,,WEP,Charles Schumer,1
+Schuyler,Montour 1,U.S. Senate,,WEP,Charles Schumer,2
+Schuyler,Montour 2,U.S. Senate,,WEP,Charles Schumer,1
+Schuyler,Montour 3,U.S. Senate,,WEP,Charles Schumer,4
+Schuyler,Orange 1,U.S. Senate,,WEP,Charles Schumer,5
+Schuyler,Reading 1,U.S. Senate,,WEP,Charles Schumer,6
+Schuyler,Reading 2,U.S. Senate,,WEP,Charles Schumer,1
+Schuyler,Tyrone 1,U.S. Senate,,WEP,Charles Schumer,3
+Schuyler,Tyrone 2,U.S. Senate,,WEP,Charles Schumer,0
+Schuyler,Catharine 1,U.S. Senate,,REP,Wendy Long,335
+Schuyler,Cayuta 1,U.S. Senate,,REP,Wendy Long,99
+Schuyler,Dix 1,U.S. Senate,,REP,Wendy Long,63
+Schuyler,Dix 2,U.S. Senate,,REP,Wendy Long,223
+Schuyler,Dix 3,U.S. Senate,,REP,Wendy Long,366
+Schuyler,Hector 1,U.S. Senate,,REP,Wendy Long,207
+Schuyler,Hector 2,U.S. Senate,,REP,Wendy Long,102
+Schuyler,Hector 3,U.S. Senate,,REP,Wendy Long,212
+Schuyler,Hector 4,U.S. Senate,,REP,Wendy Long,217
+Schuyler,Hector 5,U.S. Senate,,REP,Wendy Long,87
+Schuyler,Hector 6,U.S. Senate,,REP,Wendy Long,69
+Schuyler,Montour 1,U.S. Senate,,REP,Wendy Long,110
+Schuyler,Montour 2,U.S. Senate,,REP,Wendy Long,87
+Schuyler,Montour 3,U.S. Senate,,REP,Wendy Long,237
+Schuyler,Orange 1,U.S. Senate,,REP,Wendy Long,321
+Schuyler,Reading 1,U.S. Senate,,REP,Wendy Long,330
+Schuyler,Reading 2,U.S. Senate,,REP,Wendy Long,57
+Schuyler,Tyrone 1,U.S. Senate,,REP,Wendy Long,178
+Schuyler,Tyrone 2,U.S. Senate,,REP,Wendy Long,174
+Schuyler,Catharine 1,U.S. Senate,,CON,Wendy Long,47
+Schuyler,Cayuta 1,U.S. Senate,,CON,Wendy Long,20
+Schuyler,Dix 1,U.S. Senate,,CON,Wendy Long,5
+Schuyler,Dix 2,U.S. Senate,,CON,Wendy Long,38
+Schuyler,Dix 3,U.S. Senate,,CON,Wendy Long,67
+Schuyler,Hector 1,U.S. Senate,,CON,Wendy Long,23
+Schuyler,Hector 2,U.S. Senate,,CON,Wendy Long,9
+Schuyler,Hector 3,U.S. Senate,,CON,Wendy Long,30
+Schuyler,Hector 4,U.S. Senate,,CON,Wendy Long,52
+Schuyler,Hector 5,U.S. Senate,,CON,Wendy Long,17
+Schuyler,Hector 6,U.S. Senate,,CON,Wendy Long,20
+Schuyler,Montour 1,U.S. Senate,,CON,Wendy Long,14
+Schuyler,Montour 2,U.S. Senate,,CON,Wendy Long,13
+Schuyler,Montour 3,U.S. Senate,,CON,Wendy Long,29
+Schuyler,Orange 1,U.S. Senate,,CON,Wendy Long,49
+Schuyler,Reading 1,U.S. Senate,,CON,Wendy Long,44
+Schuyler,Reading 2,U.S. Senate,,CON,Wendy Long,6
+Schuyler,Tyrone 1,U.S. Senate,,CON,Wendy Long,12
+Schuyler,Tyrone 2,U.S. Senate,,CON,Wendy Long,26
+Schuyler,Catharine 1,U.S. Senate,,REF,Wendy Long,2
+Schuyler,Cayuta 1,U.S. Senate,,REF,Wendy Long,2
+Schuyler,Dix 1,U.S. Senate,,REF,Wendy Long,0
+Schuyler,Dix 2,U.S. Senate,,REF,Wendy Long,4
+Schuyler,Dix 3,U.S. Senate,,REF,Wendy Long,4
+Schuyler,Hector 1,U.S. Senate,,REF,Wendy Long,1
+Schuyler,Hector 2,U.S. Senate,,REF,Wendy Long,0
+Schuyler,Hector 3,U.S. Senate,,REF,Wendy Long,2
+Schuyler,Hector 4,U.S. Senate,,REF,Wendy Long,3
+Schuyler,Hector 5,U.S. Senate,,REF,Wendy Long,1
+Schuyler,Hector 6,U.S. Senate,,REF,Wendy Long,1
+Schuyler,Montour 1,U.S. Senate,,REF,Wendy Long,0
+Schuyler,Montour 2,U.S. Senate,,REF,Wendy Long,0
+Schuyler,Montour 3,U.S. Senate,,REF,Wendy Long,1
+Schuyler,Orange 1,U.S. Senate,,REF,Wendy Long,4
+Schuyler,Reading 1,U.S. Senate,,REF,Wendy Long,2
+Schuyler,Reading 2,U.S. Senate,,REF,Wendy Long,0
+Schuyler,Tyrone 1,U.S. Senate,,REF,Wendy Long,1
+Schuyler,Tyrone 2,U.S. Senate,,REF,Wendy Long,2
+Schuyler,Catharine 1,U.S. Senate,,GRN,Robin Wilson,17
+Schuyler,Cayuta 1,U.S. Senate,,GRN,Robin Wilson,5
+Schuyler,Dix 1,U.S. Senate,,GRN,Robin Wilson,0
+Schuyler,Dix 2,U.S. Senate,,GRN,Robin Wilson,17
+Schuyler,Dix 3,U.S. Senate,,GRN,Robin Wilson,11
+Schuyler,Hector 1,U.S. Senate,,GRN,Robin Wilson,28
+Schuyler,Hector 2,U.S. Senate,,GRN,Robin Wilson,13
+Schuyler,Hector 3,U.S. Senate,,GRN,Robin Wilson,10
+Schuyler,Hector 4,U.S. Senate,,GRN,Robin Wilson,19
+Schuyler,Hector 5,U.S. Senate,,GRN,Robin Wilson,5
+Schuyler,Hector 6,U.S. Senate,,GRN,Robin Wilson,1
+Schuyler,Montour 1,U.S. Senate,,GRN,Robin Wilson,2
+Schuyler,Montour 2,U.S. Senate,,GRN,Robin Wilson,0
+Schuyler,Montour 3,U.S. Senate,,GRN,Robin Wilson,14
+Schuyler,Orange 1,U.S. Senate,,GRN,Robin Wilson,6
+Schuyler,Reading 1,U.S. Senate,,GRN,Robin Wilson,9
+Schuyler,Reading 2,U.S. Senate,,GRN,Robin Wilson,2
+Schuyler,Tyrone 1,U.S. Senate,,GRN,Robin Wilson,2
+Schuyler,Tyrone 2,U.S. Senate,,GRN,Robin Wilson,3
+Schuyler,Catharine 1,U.S. Senate,,LBT,Alex Merced,9
+Schuyler,Cayuta 1,U.S. Senate,,LBT,Alex Merced,0
+Schuyler,Dix 1,U.S. Senate,,LBT,Alex Merced,2
+Schuyler,Dix 2,U.S. Senate,,LBT,Alex Merced,7
+Schuyler,Dix 3,U.S. Senate,,LBT,Alex Merced,8
+Schuyler,Hector 1,U.S. Senate,,LBT,Alex Merced,10
+Schuyler,Hector 2,U.S. Senate,,LBT,Alex Merced,4
+Schuyler,Hector 3,U.S. Senate,,LBT,Alex Merced,7
+Schuyler,Hector 4,U.S. Senate,,LBT,Alex Merced,1
+Schuyler,Hector 5,U.S. Senate,,LBT,Alex Merced,0
+Schuyler,Hector 6,U.S. Senate,,LBT,Alex Merced,1
+Schuyler,Montour 1,U.S. Senate,,LBT,Alex Merced,2
+Schuyler,Montour 2,U.S. Senate,,LBT,Alex Merced,1
+Schuyler,Montour 3,U.S. Senate,,LBT,Alex Merced,3
+Schuyler,Orange 1,U.S. Senate,,LBT,Alex Merced,9
+Schuyler,Reading 1,U.S. Senate,,LBT,Alex Merced,9
+Schuyler,Reading 2,U.S. Senate,,LBT,Alex Merced,3
+Schuyler,Tyrone 1,U.S. Senate,,LBT,Alex Merced,2
+Schuyler,Tyrone 2,U.S. Senate,,LBT,Alex Merced,2
+Schuyler,Catharine 1,U.S. Senate,,,Scattering,0
+Schuyler,Cayuta 1,U.S. Senate,,,Scattering,0
+Schuyler,Dix 1,U.S. Senate,,,Scattering,0
+Schuyler,Dix 2,U.S. Senate,,,Scattering,0
+Schuyler,Dix 3,U.S. Senate,,,Scattering,0
+Schuyler,Hector 1,U.S. Senate,,,Scattering,0
+Schuyler,Hector 2,U.S. Senate,,,Scattering,0
+Schuyler,Hector 3,U.S. Senate,,,Scattering,0
+Schuyler,Hector 4,U.S. Senate,,,Scattering,0
+Schuyler,Hector 5,U.S. Senate,,,Scattering,0
+Schuyler,Hector 6,U.S. Senate,,,Scattering,0
+Schuyler,Montour 1,U.S. Senate,,,Scattering,0
+Schuyler,Montour 2,U.S. Senate,,,Scattering,0
+Schuyler,Montour 3,U.S. Senate,,,Scattering,0
+Schuyler,Orange 1,U.S. Senate,,,Scattering,0
+Schuyler,Reading 1,U.S. Senate,,,Scattering,0
+Schuyler,Reading 2,U.S. Senate,,,Scattering,0
+Schuyler,Tyrone 1,U.S. Senate,,,Scattering,1
+Schuyler,Tyrone 2,U.S. Senate,,,Scattering,0
+Schuyler,Catharine 1,U.S. House,23,DEM,John Plumb,232
+Schuyler,Cayuta 1,U.S. House,23,DEM,John Plumb,63
+Schuyler,Dix 1,U.S. House,23,DEM,John Plumb,61
+Schuyler,Dix 2,U.S. House,23,DEM,John Plumb,309
+Schuyler,Dix 3,U.S. House,23,DEM,John Plumb,169
+Schuyler,Hector 1,U.S. House,23,DEM,John Plumb,333
+Schuyler,Hector 2,U.S. House,23,DEM,John Plumb,144
+Schuyler,Hector 3,U.S. House,23,DEM,John Plumb,183
+Schuyler,Hector 4,U.S. House,23,DEM,John Plumb,212
+Schuyler,Hector 5,U.S. House,23,DEM,John Plumb,89
+Schuyler,Hector 6,U.S. House,23,DEM,John Plumb,74
+Schuyler,Montour 1,U.S. House,23,DEM,John Plumb,75
+Schuyler,Montour 2,U.S. House,23,DEM,John Plumb,65
+Schuyler,Montour 3,U.S. House,23,DEM,John Plumb,218
+Schuyler,Orange 1,U.S. House,23,DEM,John Plumb,143
+Schuyler,Reading 1,U.S. House,23,DEM,John Plumb,184
+Schuyler,Reading 2,U.S. House,23,DEM,John Plumb,74
+Schuyler,Tyrone 1,U.S. House,23,DEM,John Plumb,73
+Schuyler,Tyrone 2,U.S. House,23,DEM,John Plumb,120
+Schuyler,Catharine 1,U.S. House,23,WOR,John Plumb,44
+Schuyler,Cayuta 1,U.S. House,23,WOR,John Plumb,10
+Schuyler,Dix 1,U.S. House,23,WOR,John Plumb,8
+Schuyler,Dix 2,U.S. House,23,WOR,John Plumb,43
+Schuyler,Dix 3,U.S. House,23,WOR,John Plumb,22
+Schuyler,Hector 1,U.S. House,23,WOR,John Plumb,52
+Schuyler,Hector 2,U.S. House,23,WOR,John Plumb,29
+Schuyler,Hector 3,U.S. House,23,WOR,John Plumb,25
+Schuyler,Hector 4,U.S. House,23,WOR,John Plumb,51
+Schuyler,Hector 5,U.S. House,23,WOR,John Plumb,21
+Schuyler,Hector 6,U.S. House,23,WOR,John Plumb,6
+Schuyler,Montour 1,U.S. House,23,WOR,John Plumb,7
+Schuyler,Montour 2,U.S. House,23,WOR,John Plumb,0
+Schuyler,Montour 3,U.S. House,23,WOR,John Plumb,33
+Schuyler,Orange 1,U.S. House,23,WOR,John Plumb,15
+Schuyler,Reading 1,U.S. House,23,WOR,John Plumb,34
+Schuyler,Reading 2,U.S. House,23,WOR,John Plumb,5
+Schuyler,Tyrone 1,U.S. House,23,WOR,John Plumb,9
+Schuyler,Tyrone 2,U.S. House,23,WOR,John Plumb,9
+Schuyler,Catharine 1,U.S. House,23,REP,Tom Reed,411
+Schuyler,Cayuta 1,U.S. House,23,REP,Tom Reed,141
+Schuyler,Dix 1,U.S. House,23,REP,Tom Reed,88
+Schuyler,Dix 2,U.S. House,23,REP,Tom Reed,300
+Schuyler,Dix 3,U.S. House,23,REP,Tom Reed,503
+Schuyler,Hector 1,U.S. House,23,REP,Tom Reed,262
+Schuyler,Hector 2,U.S. House,23,REP,Tom Reed,123
+Schuyler,Hector 3,U.S. House,23,REP,Tom Reed,258
+Schuyler,Hector 4,U.S. House,23,REP,Tom Reed,267
+Schuyler,Hector 5,U.S. House,23,REP,Tom Reed,113
+Schuyler,Hector 6,U.S. House,23,REP,Tom Reed,91
+Schuyler,Montour 1,U.S. House,23,REP,Tom Reed,140
+Schuyler,Montour 2,U.S. House,23,REP,Tom Reed,102
+Schuyler,Montour 3,U.S. House,23,REP,Tom Reed,300
+Schuyler,Orange 1,U.S. House,23,REP,Tom Reed,401
+Schuyler,Reading 1,U.S. House,23,REP,Tom Reed,397
+Schuyler,Reading 2,U.S. House,23,REP,Tom Reed,82
+Schuyler,Tyrone 1,U.S. House,23,REP,Tom Reed,212
+Schuyler,Tyrone 2,U.S. House,23,REP,Tom Reed,235
+Schuyler,Catharine 1,U.S. House,23,CON,Tom Reed,55
+Schuyler,Cayuta 1,U.S. House,23,CON,Tom Reed,20
+Schuyler,Dix 1,U.S. House,23,CON,Tom Reed,7
+Schuyler,Dix 2,U.S. House,23,CON,Tom Reed,43
+Schuyler,Dix 3,U.S. House,23,CON,Tom Reed,70
+Schuyler,Hector 1,U.S. House,23,CON,Tom Reed,27
+Schuyler,Hector 2,U.S. House,23,CON,Tom Reed,10
+Schuyler,Hector 3,U.S. House,23,CON,Tom Reed,37
+Schuyler,Hector 4,U.S. House,23,CON,Tom Reed,57
+Schuyler,Hector 5,U.S. House,23,CON,Tom Reed,18
+Schuyler,Hector 6,U.S. House,23,CON,Tom Reed,20
+Schuyler,Montour 1,U.S. House,23,CON,Tom Reed,17
+Schuyler,Montour 2,U.S. House,23,CON,Tom Reed,13
+Schuyler,Montour 3,U.S. House,23,CON,Tom Reed,34
+Schuyler,Orange 1,U.S. House,23,CON,Tom Reed,49
+Schuyler,Reading 1,U.S. House,23,CON,Tom Reed,50
+Schuyler,Reading 2,U.S. House,23,CON,Tom Reed,9
+Schuyler,Tyrone 1,U.S. House,23,CON,Tom Reed,19
+Schuyler,Tyrone 2,U.S. House,23,CON,Tom Reed,30
+Schuyler,Catharine 1,U.S. House,23,IDC,Tom Reed,15
+Schuyler,Cayuta 1,U.S. House,23,IDC,Tom Reed,5
+Schuyler,Dix 1,U.S. House,23,IDC,Tom Reed,5
+Schuyler,Dix 2,U.S. House,23,IDC,Tom Reed,13
+Schuyler,Dix 3,U.S. House,23,IDC,Tom Reed,17
+Schuyler,Hector 1,U.S. House,23,IDC,Tom Reed,11
+Schuyler,Hector 2,U.S. House,23,IDC,Tom Reed,8
+Schuyler,Hector 3,U.S. House,23,IDC,Tom Reed,12
+Schuyler,Hector 4,U.S. House,23,IDC,Tom Reed,6
+Schuyler,Hector 5,U.S. House,23,IDC,Tom Reed,10
+Schuyler,Hector 6,U.S. House,23,IDC,Tom Reed,5
+Schuyler,Montour 1,U.S. House,23,IDC,Tom Reed,2
+Schuyler,Montour 2,U.S. House,23,IDC,Tom Reed,6
+Schuyler,Montour 3,U.S. House,23,IDC,Tom Reed,13
+Schuyler,Orange 1,U.S. House,23,IDC,Tom Reed,19
+Schuyler,Reading 1,U.S. House,23,IDC,Tom Reed,14
+Schuyler,Reading 2,U.S. House,23,IDC,Tom Reed,5
+Schuyler,Tyrone 1,U.S. House,23,IDC,Tom Reed,3
+Schuyler,Tyrone 2,U.S. House,23,IDC,Tom Reed,8
+Schuyler,Catharine 1,U.S. House,23,REF,Tom Reed,3
+Schuyler,Cayuta 1,U.S. House,23,REF,Tom Reed,0
+Schuyler,Dix 1,U.S. House,23,REF,Tom Reed,0
+Schuyler,Dix 2,U.S. House,23,REF,Tom Reed,0
+Schuyler,Dix 3,U.S. House,23,REF,Tom Reed,3
+Schuyler,Hector 1,U.S. House,23,REF,Tom Reed,2
+Schuyler,Hector 2,U.S. House,23,REF,Tom Reed,1
+Schuyler,Hector 3,U.S. House,23,REF,Tom Reed,5
+Schuyler,Hector 4,U.S. House,23,REF,Tom Reed,2
+Schuyler,Hector 5,U.S. House,23,REF,Tom Reed,2
+Schuyler,Hector 6,U.S. House,23,REF,Tom Reed,1
+Schuyler,Montour 1,U.S. House,23,REF,Tom Reed,0
+Schuyler,Montour 2,U.S. House,23,REF,Tom Reed,0
+Schuyler,Montour 3,U.S. House,23,REF,Tom Reed,4
+Schuyler,Orange 1,U.S. House,23,REF,Tom Reed,2
+Schuyler,Reading 1,U.S. House,23,REF,Tom Reed,3
+Schuyler,Reading 2,U.S. House,23,REF,Tom Reed,0
+Schuyler,Tyrone 1,U.S. House,23,REF,Tom Reed,3
+Schuyler,Tyrone 2,U.S. House,23,REF,Tom Reed,1
+Schuyler,Catharine 1,U.S. House,23,,Scattering,1
+Schuyler,Cayuta 1,U.S. House,23,,Scattering,0
+Schuyler,Dix 1,U.S. House,23,,Scattering,0
+Schuyler,Dix 2,U.S. House,23,,Scattering,0
+Schuyler,Dix 3,U.S. House,23,,Scattering,0
+Schuyler,Hector 1,U.S. House,23,,Scattering,0
+Schuyler,Hector 2,U.S. House,23,,Scattering,0
+Schuyler,Hector 3,U.S. House,23,,Scattering,0
+Schuyler,Hector 4,U.S. House,23,,Scattering,0
+Schuyler,Hector 5,U.S. House,23,,Scattering,0
+Schuyler,Hector 6,U.S. House,23,,Scattering,0
+Schuyler,Montour 1,U.S. House,23,,Scattering,0
+Schuyler,Montour 2,U.S. House,23,,Scattering,0
+Schuyler,Montour 3,U.S. House,23,,Scattering,0
+Schuyler,Orange 1,U.S. House,23,,Scattering,0
+Schuyler,Reading 1,U.S. House,23,,Scattering,0
+Schuyler,Reading 2,U.S. House,23,,Scattering,0
+Schuyler,Tyrone 1,U.S. House,23,,Scattering,1
+Schuyler,Tyrone 2,U.S. House,23,,Scattering,0
+Schuyler,Catharine 1,State Senate,58,DEM,Leslie Burke,247
+Schuyler,Cayuta 1,State Senate,58,DEM,Leslie Burke,65
+Schuyler,Dix 1,State Senate,58,DEM,Leslie Burke,66
+Schuyler,Dix 2,State Senate,58,DEM,Leslie Burke,300
+Schuyler,Dix 3,State Senate,58,DEM,Leslie Burke,168
+Schuyler,Hector 1,State Senate,58,DEM,Leslie Burke,323
+Schuyler,Hector 2,State Senate,58,DEM,Leslie Burke,142
+Schuyler,Hector 3,State Senate,58,DEM,Leslie Burke,173
+Schuyler,Hector 4,State Senate,58,DEM,Leslie Burke,206
+Schuyler,Hector 5,State Senate,58,DEM,Leslie Burke,85
+Schuyler,Hector 6,State Senate,58,DEM,Leslie Burke,80
+Schuyler,Montour 1,State Senate,58,DEM,Leslie Burke,82
+Schuyler,Montour 2,State Senate,58,DEM,Leslie Burke,65
+Schuyler,Montour 3,State Senate,58,DEM,Leslie Burke,230
+Schuyler,Orange 1,State Senate,58,DEM,Leslie Burke,147
+Schuyler,Reading 1,State Senate,58,DEM,Leslie Burke,177
+Schuyler,Reading 2,State Senate,58,DEM,Leslie Burke,71
+Schuyler,Tyrone 1,State Senate,58,DEM,Leslie Burke,71
+Schuyler,Tyrone 2,State Senate,58,DEM,Leslie Burke,119
+Schuyler,Catharine 1,State Senate,58,WOR,Leslie Burke,46
+Schuyler,Cayuta 1,State Senate,58,WOR,Leslie Burke,8
+Schuyler,Dix 1,State Senate,58,WOR,Leslie Burke,5
+Schuyler,Dix 2,State Senate,58,WOR,Leslie Burke,44
+Schuyler,Dix 3,State Senate,58,WOR,Leslie Burke,37
+Schuyler,Hector 1,State Senate,58,WOR,Leslie Burke,52
+Schuyler,Hector 2,State Senate,58,WOR,Leslie Burke,33
+Schuyler,Hector 3,State Senate,58,WOR,Leslie Burke,26
+Schuyler,Hector 4,State Senate,58,WOR,Leslie Burke,39
+Schuyler,Hector 5,State Senate,58,WOR,Leslie Burke,22
+Schuyler,Hector 6,State Senate,58,WOR,Leslie Burke,8
+Schuyler,Montour 1,State Senate,58,WOR,Leslie Burke,6
+Schuyler,Montour 2,State Senate,58,WOR,Leslie Burke,7
+Schuyler,Montour 3,State Senate,58,WOR,Leslie Burke,23
+Schuyler,Orange 1,State Senate,58,WOR,Leslie Burke,22
+Schuyler,Reading 1,State Senate,58,WOR,Leslie Burke,23
+Schuyler,Reading 2,State Senate,58,WOR,Leslie Burke,6
+Schuyler,Tyrone 1,State Senate,58,WOR,Leslie Burke,6
+Schuyler,Tyrone 2,State Senate,58,WOR,Leslie Burke,9
+Schuyler,Catharine 1,State Senate,58,WEP,Leslie Burke,5
+Schuyler,Cayuta 1,State Senate,58,WEP,Leslie Burke,1
+Schuyler,Dix 1,State Senate,58,WEP,Leslie Burke,3
+Schuyler,Dix 2,State Senate,58,WEP,Leslie Burke,12
+Schuyler,Dix 3,State Senate,58,WEP,Leslie Burke,4
+Schuyler,Hector 1,State Senate,58,WEP,Leslie Burke,9
+Schuyler,Hector 2,State Senate,58,WEP,Leslie Burke,3
+Schuyler,Hector 3,State Senate,58,WEP,Leslie Burke,7
+Schuyler,Hector 4,State Senate,58,WEP,Leslie Burke,11
+Schuyler,Hector 5,State Senate,58,WEP,Leslie Burke,4
+Schuyler,Hector 6,State Senate,58,WEP,Leslie Burke,2
+Schuyler,Montour 1,State Senate,58,WEP,Leslie Burke,1
+Schuyler,Montour 2,State Senate,58,WEP,Leslie Burke,1
+Schuyler,Montour 3,State Senate,58,WEP,Leslie Burke,12
+Schuyler,Orange 1,State Senate,58,WEP,Leslie Burke,7
+Schuyler,Reading 1,State Senate,58,WEP,Leslie Burke,8
+Schuyler,Reading 2,State Senate,58,WEP,Leslie Burke,2
+Schuyler,Tyrone 1,State Senate,58,WEP,Leslie Burke,5
+Schuyler,Tyrone 2,State Senate,58,WEP,Leslie Burke,1
+Schuyler,Catharine 1,State Senate,58,REP,Thomas O'Mara,393
+Schuyler,Cayuta 1,State Senate,58,REP,Thomas O'Mara,134
+Schuyler,Dix 1,State Senate,58,REP,Thomas O'Mara,84
+Schuyler,Dix 2,State Senate,58,REP,Thomas O'Mara,302
+Schuyler,Dix 3,State Senate,58,REP,Thomas O'Mara,494
+Schuyler,Hector 1,State Senate,58,REP,Thomas O'Mara,267
+Schuyler,Hector 2,State Senate,58,REP,Thomas O'Mara,120
+Schuyler,Hector 3,State Senate,58,REP,Thomas O'Mara,264
+Schuyler,Hector 4,State Senate,58,REP,Thomas O'Mara,271
+Schuyler,Hector 5,State Senate,58,REP,Thomas O'Mara,112
+Schuyler,Hector 6,State Senate,58,REP,Thomas O'Mara,90
+Schuyler,Montour 1,State Senate,58,REP,Thomas O'Mara,140
+Schuyler,Montour 2,State Senate,58,REP,Thomas O'Mara,101
+Schuyler,Montour 3,State Senate,58,REP,Thomas O'Mara,294
+Schuyler,Orange 1,State Senate,58,REP,Thomas O'Mara,381
+Schuyler,Reading 1,State Senate,58,REP,Thomas O'Mara,417
+Schuyler,Reading 2,State Senate,58,REP,Thomas O'Mara,86
+Schuyler,Tyrone 1,State Senate,58,REP,Thomas O'Mara,212
+Schuyler,Tyrone 2,State Senate,58,REP,Thomas O'Mara,231
+Schuyler,Catharine 1,State Senate,58,CON,Thomas O'Mara,54
+Schuyler,Cayuta 1,State Senate,58,CON,Thomas O'Mara,20
+Schuyler,Dix 1,State Senate,58,CON,Thomas O'Mara,6
+Schuyler,Dix 2,State Senate,58,CON,Thomas O'Mara,45
+Schuyler,Dix 3,State Senate,58,CON,Thomas O'Mara,59
+Schuyler,Hector 1,State Senate,58,CON,Thomas O'Mara,31
+Schuyler,Hector 2,State Senate,58,CON,Thomas O'Mara,11
+Schuyler,Hector 3,State Senate,58,CON,Thomas O'Mara,38
+Schuyler,Hector 4,State Senate,58,CON,Thomas O'Mara,59
+Schuyler,Hector 5,State Senate,58,CON,Thomas O'Mara,20
+Schuyler,Hector 6,State Senate,58,CON,Thomas O'Mara,18
+Schuyler,Montour 1,State Senate,58,CON,Thomas O'Mara,15
+Schuyler,Montour 2,State Senate,58,CON,Thomas O'Mara,15
+Schuyler,Montour 3,State Senate,58,CON,Thomas O'Mara,32
+Schuyler,Orange 1,State Senate,58,CON,Thomas O'Mara,48
+Schuyler,Reading 1,State Senate,58,CON,Thomas O'Mara,44
+Schuyler,Reading 2,State Senate,58,CON,Thomas O'Mara,9
+Schuyler,Tyrone 1,State Senate,58,CON,Thomas O'Mara,17
+Schuyler,Tyrone 2,State Senate,58,CON,Thomas O'Mara,29
+Schuyler,Catharine 1,State Senate,58,IDC,Thomas O'Mara,17
+Schuyler,Cayuta 1,State Senate,58,IDC,Thomas O'Mara,9
+Schuyler,Dix 1,State Senate,58,IDC,Thomas O'Mara,4
+Schuyler,Dix 2,State Senate,58,IDC,Thomas O'Mara,12
+Schuyler,Dix 3,State Senate,58,IDC,Thomas O'Mara,14
+Schuyler,Hector 1,State Senate,58,IDC,Thomas O'Mara,7
+Schuyler,Hector 2,State Senate,58,IDC,Thomas O'Mara,5
+Schuyler,Hector 3,State Senate,58,IDC,Thomas O'Mara,12
+Schuyler,Hector 4,State Senate,58,IDC,Thomas O'Mara,7
+Schuyler,Hector 5,State Senate,58,IDC,Thomas O'Mara,4
+Schuyler,Hector 6,State Senate,58,IDC,Thomas O'Mara,3
+Schuyler,Montour 1,State Senate,58,IDC,Thomas O'Mara,3
+Schuyler,Montour 2,State Senate,58,IDC,Thomas O'Mara,1
+Schuyler,Montour 3,State Senate,58,IDC,Thomas O'Mara,13
+Schuyler,Orange 1,State Senate,58,IDC,Thomas O'Mara,15
+Schuyler,Reading 1,State Senate,58,IDC,Thomas O'Mara,12
+Schuyler,Reading 2,State Senate,58,IDC,Thomas O'Mara,5
+Schuyler,Tyrone 1,State Senate,58,IDC,Thomas O'Mara,5
+Schuyler,Tyrone 2,State Senate,58,IDC,Thomas O'Mara,8
+Schuyler,Catharine 1,State Senate,58,REF,Thomas O'Mara,1
+Schuyler,Cayuta 1,State Senate,58,REF,Thomas O'Mara,0
+Schuyler,Dix 1,State Senate,58,REF,Thomas O'Mara,1
+Schuyler,Dix 2,State Senate,58,REF,Thomas O'Mara,1
+Schuyler,Dix 3,State Senate,58,REF,Thomas O'Mara,4
+Schuyler,Hector 1,State Senate,58,REF,Thomas O'Mara,3
+Schuyler,Hector 2,State Senate,58,REF,Thomas O'Mara,0
+Schuyler,Hector 3,State Senate,58,REF,Thomas O'Mara,1
+Schuyler,Hector 4,State Senate,58,REF,Thomas O'Mara,1
+Schuyler,Hector 5,State Senate,58,REF,Thomas O'Mara,2
+Schuyler,Hector 6,State Senate,58,REF,Thomas O'Mara,0
+Schuyler,Montour 1,State Senate,58,REF,Thomas O'Mara,0
+Schuyler,Montour 2,State Senate,58,REF,Thomas O'Mara,0
+Schuyler,Montour 3,State Senate,58,REF,Thomas O'Mara,1
+Schuyler,Orange 1,State Senate,58,REF,Thomas O'Mara,4
+Schuyler,Reading 1,State Senate,58,REF,Thomas O'Mara,3
+Schuyler,Reading 2,State Senate,58,REF,Thomas O'Mara,0
+Schuyler,Tyrone 1,State Senate,58,REF,Thomas O'Mara,0
+Schuyler,Tyrone 2,State Senate,58,REF,Thomas O'Mara,1
+Schuyler,Catharine 1,State Senate,58,,Scattering,1
+Schuyler,Cayuta 1,State Senate,58,,Scattering,0
+Schuyler,Dix 1,State Senate,58,,Scattering,0
+Schuyler,Dix 2,State Senate,58,,Scattering,0
+Schuyler,Dix 3,State Senate,58,,Scattering,0
+Schuyler,Hector 1,State Senate,58,,Scattering,0
+Schuyler,Hector 2,State Senate,58,,Scattering,0
+Schuyler,Hector 3,State Senate,58,,Scattering,0
+Schuyler,Hector 4,State Senate,58,,Scattering,0
+Schuyler,Hector 5,State Senate,58,,Scattering,0
+Schuyler,Hector 6,State Senate,58,,Scattering,0
+Schuyler,Montour 1,State Senate,58,,Scattering,0
+Schuyler,Montour 2,State Senate,58,,Scattering,0
+Schuyler,Montour 3,State Senate,58,,Scattering,0
+Schuyler,Orange 1,State Senate,58,,Scattering,0
+Schuyler,Reading 1,State Senate,58,,Scattering,1
+Schuyler,Reading 2,State Senate,58,,Scattering,0
+Schuyler,Tyrone 1,State Senate,58,,Scattering,1
+Schuyler,Tyrone 2,State Senate,58,,Scattering,0
+Schuyler,Catharine 1,State Assembly,132,REP,Philip Palmesano,461
+Schuyler,Cayuta 1,State Assembly,132,REP,Philip Palmesano,149
+Schuyler,Dix 1,State Assembly,132,REP,Philip Palmesano,114
+Schuyler,Dix 2,State Assembly,132,REP,Philip Palmesano,373
+Schuyler,Dix 3,State Assembly,132,REP,Philip Palmesano,555
+Schuyler,Hector 1,State Assembly,132,REP,Philip Palmesano,333
+Schuyler,Hector 2,State Assembly,132,REP,Philip Palmesano,135
+Schuyler,Hector 3,State Assembly,132,REP,Philip Palmesano,288
+Schuyler,Hector 4,State Assembly,132,REP,Philip Palmesano,298
+Schuyler,Hector 5,State Assembly,132,REP,Philip Palmesano,134
+Schuyler,Hector 6,State Assembly,132,REP,Philip Palmesano,111
+Schuyler,Montour 1,State Assembly,132,REP,Philip Palmesano,163
+Schuyler,Montour 2,State Assembly,132,REP,Philip Palmesano,115
+Schuyler,Montour 3,State Assembly,132,REP,Philip Palmesano,380
+Schuyler,Orange 1,State Assembly,132,REP,Philip Palmesano,418
+Schuyler,Reading 1,State Assembly,132,REP,Philip Palmesano,465
+Schuyler,Reading 2,State Assembly,132,REP,Philip Palmesano,101
+Schuyler,Tyrone 1,State Assembly,132,REP,Philip Palmesano,228
+Schuyler,Tyrone 2,State Assembly,132,REP,Philip Palmesano,274
+Schuyler,Catharine 1,State Assembly,132,CON,Philip Palmesano,62
+Schuyler,Cayuta 1,State Assembly,132,CON,Philip Palmesano,22
+Schuyler,Dix 1,State Assembly,132,CON,Philip Palmesano,10
+Schuyler,Dix 2,State Assembly,132,CON,Philip Palmesano,55
+Schuyler,Dix 3,State Assembly,132,CON,Philip Palmesano,70
+Schuyler,Hector 1,State Assembly,132,CON,Philip Palmesano,33
+Schuyler,Hector 2,State Assembly,132,CON,Philip Palmesano,14
+Schuyler,Hector 3,State Assembly,132,CON,Philip Palmesano,39
+Schuyler,Hector 4,State Assembly,132,CON,Philip Palmesano,56
+Schuyler,Hector 5,State Assembly,132,CON,Philip Palmesano,23
+Schuyler,Hector 6,State Assembly,132,CON,Philip Palmesano,19
+Schuyler,Montour 1,State Assembly,132,CON,Philip Palmesano,16
+Schuyler,Montour 2,State Assembly,132,CON,Philip Palmesano,16
+Schuyler,Montour 3,State Assembly,132,CON,Philip Palmesano,44
+Schuyler,Orange 1,State Assembly,132,CON,Philip Palmesano,60
+Schuyler,Reading 1,State Assembly,132,CON,Philip Palmesano,49
+Schuyler,Reading 2,State Assembly,132,CON,Philip Palmesano,13
+Schuyler,Tyrone 1,State Assembly,132,CON,Philip Palmesano,21
+Schuyler,Tyrone 2,State Assembly,132,CON,Philip Palmesano,36
+Schuyler,Catharine 1,State Assembly,132,IDC,Philip Palmesano,62
+Schuyler,Cayuta 1,State Assembly,132,IDC,Philip Palmesano,17
+Schuyler,Dix 1,State Assembly,132,IDC,Philip Palmesano,15
+Schuyler,Dix 2,State Assembly,132,IDC,Philip Palmesano,67
+Schuyler,Dix 3,State Assembly,132,IDC,Philip Palmesano,39
+Schuyler,Hector 1,State Assembly,132,IDC,Philip Palmesano,48
+Schuyler,Hector 2,State Assembly,132,IDC,Philip Palmesano,23
+Schuyler,Hector 3,State Assembly,132,IDC,Philip Palmesano,39
+Schuyler,Hector 4,State Assembly,132,IDC,Philip Palmesano,34
+Schuyler,Hector 5,State Assembly,132,IDC,Philip Palmesano,16
+Schuyler,Hector 6,State Assembly,132,IDC,Philip Palmesano,19
+Schuyler,Montour 1,State Assembly,132,IDC,Philip Palmesano,17
+Schuyler,Montour 2,State Assembly,132,IDC,Philip Palmesano,11
+Schuyler,Montour 3,State Assembly,132,IDC,Philip Palmesano,45
+Schuyler,Orange 1,State Assembly,132,IDC,Philip Palmesano,33
+Schuyler,Reading 1,State Assembly,132,IDC,Philip Palmesano,47
+Schuyler,Reading 2,State Assembly,132,IDC,Philip Palmesano,14
+Schuyler,Tyrone 1,State Assembly,132,IDC,Philip Palmesano,16
+Schuyler,Tyrone 2,State Assembly,132,IDC,Philip Palmesano,23
+Schuyler,Catharine 1,State Assembly,132,REF,Philip Palmesano,6
+Schuyler,Cayuta 1,State Assembly,132,REF,Philip Palmesano,3
+Schuyler,Dix 1,State Assembly,132,REF,Philip Palmesano,1
+Schuyler,Dix 2,State Assembly,132,REF,Philip Palmesano,13
+Schuyler,Dix 3,State Assembly,132,REF,Philip Palmesano,6
+Schuyler,Hector 1,State Assembly,132,REF,Philip Palmesano,8
+Schuyler,Hector 2,State Assembly,132,REF,Philip Palmesano,2
+Schuyler,Hector 3,State Assembly,132,REF,Philip Palmesano,4
+Schuyler,Hector 4,State Assembly,132,REF,Philip Palmesano,4
+Schuyler,Hector 5,State Assembly,132,REF,Philip Palmesano,5
+Schuyler,Hector 6,State Assembly,132,REF,Philip Palmesano,0
+Schuyler,Montour 1,State Assembly,132,REF,Philip Palmesano,1
+Schuyler,Montour 2,State Assembly,132,REF,Philip Palmesano,0
+Schuyler,Montour 3,State Assembly,132,REF,Philip Palmesano,5
+Schuyler,Orange 1,State Assembly,132,REF,Philip Palmesano,3
+Schuyler,Reading 1,State Assembly,132,REF,Philip Palmesano,7
+Schuyler,Reading 2,State Assembly,132,REF,Philip Palmesano,2
+Schuyler,Tyrone 1,State Assembly,132,REF,Philip Palmesano,2
+Schuyler,Tyrone 2,State Assembly,132,REF,Philip Palmesano,6
+Schuyler,Catharine 1,State Assembly,132,,Scattering,6
+Schuyler,Cayuta 1,State Assembly,132,,Scattering,1
+Schuyler,Dix 1,State Assembly,132,,Scattering,0
+Schuyler,Dix 2,State Assembly,132,,Scattering,4
+Schuyler,Dix 3,State Assembly,132,,Scattering,1
+Schuyler,Hector 1,State Assembly,132,,Scattering,7
+Schuyler,Hector 2,State Assembly,132,,Scattering,3
+Schuyler,Hector 3,State Assembly,132,,Scattering,3
+Schuyler,Hector 4,State Assembly,132,,Scattering,6
+Schuyler,Hector 5,State Assembly,132,,Scattering,1
+Schuyler,Hector 6,State Assembly,132,,Scattering,0
+Schuyler,Montour 1,State Assembly,132,,Scattering,0
+Schuyler,Montour 2,State Assembly,132,,Scattering,0
+Schuyler,Montour 3,State Assembly,132,,Scattering,1
+Schuyler,Orange 1,State Assembly,132,,Scattering,1
+Schuyler,Reading 1,State Assembly,132,,Scattering,6
+Schuyler,Reading 2,State Assembly,132,,Scattering,2
+Schuyler,Tyrone 1,State Assembly,132,,Scattering,1
+Schuyler,Tyrone 2,State Assembly,132,,Scattering,2

@@ -1,29 +1,29 @@
 county,office,district,party,candidate,votes
-Saratoga,State House,100,REP,Roy J. McDonald,4751
-Saratoga,State House,100,DEM,Terry R. Seeley,1300
-Saratoga,State House,100,IND,Roy J. McDonald,294
-Saratoga,State House,100,CON,Roy J. McDonald,275
-Saratoga,State House,100,GRE,Peter E. Looker,456
-Saratoga,State House,100,WOR,Terry R. Seeley,69
-Saratoga,State House,100,,Blank Void Scattering,18
-Saratoga,State House,100,,Total,7163
-Washington,State House,100,REP,Roy J. McDonald,2878       
-Washington,State House,100,DEM,Terry R. Seeley,1373       
-Washington,State House,100,IND,Roy J. McDonald,167        
-Washington,State House,100,CON,Roy J. McDonald,193        
-Washington,State House,100,GRE,Peter E. Looker,279        
-Washington,State House,100,WOR,Terry R. Seeley,92        
-Washington,State House,100,,Blank Void Scattering,28        
-Washington,State House,100,,Total,5010      
-Nassau,State House,19,REP,David G. McDonough,4894
-Nassau,State House,19,DEM,Steven November,4995
-Nassau,State House,19,IND,David G. McDonough,136
-Nassau,State House,19,CON,David G. McDonough,529
-Nassau,State House,19,LIB,John P. Hagan,12
-Nassau,State House,19,GRE,Steven November,102
-Nassau,State House,19,WOR,Steven November,116
-Nassau,State House,19,,Blank Void Scattering,14
-Nassau,State House,19,,Total,10798
+Saratoga,State Assembly,100,REP,Roy J. McDonald,4751
+Saratoga,State Assembly,100,DEM,Terry R. Seeley,1300
+Saratoga,State Assembly,100,IND,Roy J. McDonald,294
+Saratoga,State Assembly,100,CON,Roy J. McDonald,275
+Saratoga,State Assembly,100,GRE,Peter E. Looker,456
+Saratoga,State Assembly,100,WOR,Terry R. Seeley,69
+Saratoga,State Assembly,100,,Blank Void Scattering,18
+Saratoga,State Assembly,100,,Total,7163
+Washington,State Assembly,100,REP,Roy J. McDonald,2878       
+Washington,State Assembly,100,DEM,Terry R. Seeley,1373       
+Washington,State Assembly,100,IND,Roy J. McDonald,167        
+Washington,State Assembly,100,CON,Roy J. McDonald,193        
+Washington,State Assembly,100,GRE,Peter E. Looker,279        
+Washington,State Assembly,100,WOR,Terry R. Seeley,92        
+Washington,State Assembly,100,,Blank Void Scattering,28        
+Washington,State Assembly,100,,Total,5010      
+Nassau,State Assembly,19,REP,David G. McDonough,4894
+Nassau,State Assembly,19,DEM,Steven November,4995
+Nassau,State Assembly,19,IND,David G. McDonough,136
+Nassau,State Assembly,19,CON,David G. McDonough,529
+Nassau,State Assembly,19,LIB,John P. Hagan,12
+Nassau,State Assembly,19,GRE,Steven November,102
+Nassau,State Assembly,19,WOR,Steven November,116
+Nassau,State Assembly,19,,Blank Void Scattering,14
+Nassau,State Assembly,19,,Total,10798
 Kings,State Senate,20,REP,Frances G. Purcell,880
 Kings,State Senate,20,DEM,Carl Andrews,3489
 Kings,State Senate,20,IND,Carl Andrews,173
@@ -41,18 +41,18 @@ New York,State Senate,26,WOR,Liz Krueger,937
 New York,State Senate,26,LBT,Jak Karako,113
 New York,State Senate,26,,Blank Void Scattering,438
 New York,State Senate,26,,Total,45689
-Kings,State House,56,REP,Arthur Bramwell,195
-Kings,State House,56,DEM,Annette M Robinson,1975
-Kings,State House,56,IND,Annette M Robinson,202
-Kings,State House,56,CON,Arthur Bramwell,51
-Kings,State House,56,LIB,Richard Taylor,111
-Kings,State House,56,LBT,Sam Sloan,11
-Kings,State House,56,,Blank Void Scattering,65
-Kings,State House,56,,Total,2610
-Richmond,State House,60,REP,Matthew Mirones,3215
-Richmond,State House,60,DEM,James Hart,3141
-Richmond,State House,60,CON,Matthew Mirones,426
-Richmond,State House,60,RTL,Matthew Mirones,286
-Richmond,State House,60,WOR,James Hart,268
-Richmond,State House,60,,Blank Void Scattering,101
-Richmond,State House,60,,Total,7437
+Kings,State Assembly,56,REP,Arthur Bramwell,195
+Kings,State Assembly,56,DEM,Annette M Robinson,1975
+Kings,State Assembly,56,IND,Annette M Robinson,202
+Kings,State Assembly,56,CON,Arthur Bramwell,51
+Kings,State Assembly,56,LIB,Richard Taylor,111
+Kings,State Assembly,56,LBT,Sam Sloan,11
+Kings,State Assembly,56,,Blank Void Scattering,65
+Kings,State Assembly,56,,Total,2610
+Richmond,State Assembly,60,REP,Matthew Mirones,3215
+Richmond,State Assembly,60,DEM,James Hart,3141
+Richmond,State Assembly,60,CON,Matthew Mirones,426
+Richmond,State Assembly,60,RTL,Matthew Mirones,286
+Richmond,State Assembly,60,WOR,James Hart,268
+Richmond,State Assembly,60,,Blank Void Scattering,101
+Richmond,State Assembly,60,,Total,7437
