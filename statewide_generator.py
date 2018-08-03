@@ -2,9 +2,9 @@ import os
 import glob
 import csv
 
-year = '2014'
-election = '20141104'
-path = election+'*precinct.csv'
+year = '2016'
+election = '20161108'
+path = 'counties/'+election+'*precinct.csv'
 output_file = election+'__ny__general__precinct.csv'
 
 def generate_headers(year, path):
@@ -38,7 +38,7 @@ def generate_consolidated_file(year, path, output_file):
     results = []
     os.chdir(year)
     for fname in glob.glob(path):
-        with open(fname, "r") as csvfile:
+        with open(fname, "rU") as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 if row['office'].strip() in ['President', 'U.S. Senate', 'U.S. House', 'State Senate', 'State Assembly']:
