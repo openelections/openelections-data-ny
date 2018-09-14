@@ -115,4 +115,4 @@ melted.loc[melted['votes']=='-', 'votes'] = 0
 
 melted = melted.sort_values(['party', 'office', 'county', 'assembly district', 'election district', 'district', 'candidate'])
 
-melted.to_csv('20180913_nyc_unofficial_primary.csv', index=False)
+melted.to_csv('20180913__ny__primary__nyc__precinct.csv', index=False)
