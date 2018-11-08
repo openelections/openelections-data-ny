@@ -1,0 +1,375 @@
+county,precinct,office,district,party,candidate,votes
+Hamilton,Arietta,State House,AD118,Dem,Joseph Chilelli,44
+Hamilton,Benson,State House,AD118,Dem,Joseph Chilelli,30
+Hamilton,Hope,State House,AD118,Dem,Joseph Chilelli,27
+Hamilton,Indian Lake 1,State House,AD118,Dem,Joseph Chilelli,226
+Hamilton,Indian Lake 2,State House,AD118,Dem,Joseph Chilelli,54
+Hamilton,Inlet,State House,AD118,Dem,Joseph Chilelli,55
+Hamilton,Lake Pleasant,State House,AD118,Dem,Joseph Chilelli,79
+Hamilton,Long Lake 1,State House,AD118,Dem,Joseph Chilelli,133
+Hamilton,Long Lake 2,State House,AD118,Dem,Joseph Chilelli,15
+Hamilton,Morehouse,State House,AD118,Dem,Joseph Chilelli,17
+Hamilton,Wells,State House,AD118,Dem,Joseph Chilelli,81
+Hamilton,Arietta,State House,AD118,Rep,Mark Butler,143
+Hamilton,Benson,State House,AD118,Rep,Mark Butler,72
+Hamilton,Hope,State House,AD118,Rep,Mark Butler,82
+Hamilton,Indian Lake 1,State House,AD118,Rep,Mark Butler,330
+Hamilton,Indian Lake 2,State House,AD118,Rep,Mark Butler,43
+Hamilton,Inlet,State House,AD118,Rep,Mark Butler,144
+Hamilton,Lake Pleasant,State House,AD118,Rep,Mark Butler,419
+Hamilton,Long Lake 1,State House,AD118,Rep,Mark Butler,212
+Hamilton,Long Lake 2,State House,AD118,Rep,Mark Butler,52
+Hamilton,Morehouse,State House,AD118,Rep,Mark Butler,39
+Hamilton,Wells,State House,AD118,Rep,Mark Butler,251
+Hamilton,Arietta,State House,AD118,Con,Mark Butler,10
+Hamilton,Benson,State House,AD118,Con,Mark Butler,6
+Hamilton,Hope,State House,AD118,Con,Mark Butler,17
+Hamilton,Indian Lake 1,State House,AD118,Con,Mark Butler,25
+Hamilton,Indian Lake 2,State House,AD118,Con,Mark Butler,2
+Hamilton,Inlet,State House,AD118,Con,Mark Butler,18
+Hamilton,Lake Pleasant,State House,AD118,Con,Mark Butler,46
+Hamilton,Long Lake 1,State House,AD118,Con,Mark Butler,32
+Hamilton,Long Lake 2,State House,AD118,Con,Mark Butler,5
+Hamilton,Morehouse,State House,AD118,Con,Mark Butler,4
+Hamilton,Wells,State House,AD118,Con,Mark Butler,30
+Hamilton,Arietta,State House,AD118,Ind,Mark Butler,5
+Hamilton,Benson,State House,AD118,Ind,Mark Butler,1
+Hamilton,Hope,State House,AD118,Ind,Mark Butler,7
+Hamilton,Indian Lake 1,State House,AD118,Ind,Mark Butler,13
+Hamilton,Indian Lake 2,State House,AD118,Ind,Mark Butler,1
+Hamilton,Inlet,State House,AD118,Ind,Mark Butler,3
+Hamilton,Lake Pleasant,State House,AD118,Ind,Mark Butler,11
+Hamilton,Long Lake 1,State House,AD118,Ind,Mark Butler,14
+Hamilton,Long Lake 2,State House,AD118,Ind,Mark Butler,2
+Hamilton,Morehouse,State House,AD118,Ind,Mark Butler,3
+Hamilton,Wells,State House,AD118,Ind,Mark Butler,5
+Hamilton,Arietta,President,,Dem,Barack Obama,64
+Hamilton,Benson,President,,Dem,Barack Obama,43
+Hamilton,Hope,President,,Dem,Barack Obama,35
+Hamilton,Indian Lake 1,President,,Dem,Barack Obama,280
+Hamilton,Indian Lake 2,President,,Dem,Barack Obama,78
+Hamilton,Inlet,President,,Dem,Barack Obama,93
+Hamilton,Lake Pleasant,President,,Dem,Barack Obama,132
+Hamilton,Long Lake 1,President,,Dem,Barack Obama,200
+Hamilton,Long Lake 2,President,,Dem,Barack Obama,35
+Hamilton,Morehouse,President,,Dem,Barack Obama,13
+Hamilton,Wells,President,,Dem,Barack Obama,119
+Hamilton,Arietta,President,,Rep,Mitt Romney,144
+Hamilton,Benson,President,,Rep,Mitt Romney,71
+Hamilton,Hope,President,,Rep,Mitt Romney,92
+Hamilton,Indian Lake 1,President,,Rep,Mitt Romney,337
+Hamilton,Indian Lake 2,President,,Rep,Mitt Romney,34
+Hamilton,Inlet,President,,Rep,Mitt Romney,123
+Hamilton,Lake Pleasant,President,,Rep,Mitt Romney,415
+Hamilton,Long Lake 1,President,,Rep,Mitt Romney,197
+Hamilton,Long Lake 2,President,,Rep,Mitt Romney,46
+Hamilton,Morehouse,President,,Rep,Mitt Romney,47
+Hamilton,Wells,President,,Rep,Mitt Romney,265
+Hamilton,Arietta,President,,Con,Mitt Romney,8
+Hamilton,Benson,President,,Con,Mitt Romney,6
+Hamilton,Hope,President,,Con,Mitt Romney,18
+Hamilton,Indian Lake 1,President,,Con,Mitt Romney,21
+Hamilton,Indian Lake 2,President,,Con,Mitt Romney,1
+Hamilton,Inlet,President,,Con,Mitt Romney,11
+Hamilton,Lake Pleasant,President,,Con,Mitt Romney,41
+Hamilton,Long Lake 1,President,,Con,Mitt Romney,21
+Hamilton,Long Lake 2,President,,Con,Mitt Romney,3
+Hamilton,Morehouse,President,,Con,Mitt Romney,4
+Hamilton,Wells,President,,Con,Mitt Romney,27
+Hamilton,Arietta,President,,WF,Barack Obama,0
+Hamilton,Benson,President,,WF,Barack Obama,0
+Hamilton,Hope,President,,WF,Barack Obama,3
+Hamilton,Indian Lake 1,President,,WF,Barack Obama,13
+Hamilton,Indian Lake 2,President,,WF,Barack Obama,4
+Hamilton,Inlet,President,,WF,Barack Obama,4
+Hamilton,Lake Pleasant,President,,WF,Barack Obama,2
+Hamilton,Long Lake 1,President,,WF,Barack Obama,5
+Hamilton,Long Lake 2,President,,WF,Barack Obama,2
+Hamilton,Morehouse,President,,WF,Barack Obama,2
+Hamilton,Wells,President,,WF,Barack Obama,1
+Hamilton,Arietta,President,,Green,Jill Stein,0
+Hamilton,Benson,President,,Green,Jill Stein,0
+Hamilton,Hope,President,,Green,Jill Stein,1
+Hamilton,Indian Lake 1,President,,Green,Jill Stein,1
+Hamilton,Indian Lake 2,President,,Green,Jill Stein,0
+Hamilton,Inlet,President,,Green,Jill Stein,1
+Hamilton,Lake Pleasant,President,,Green,Jill Stein,2
+Hamilton,Long Lake 1,President,,Green,Jill Stein,3
+Hamilton,Long Lake 2,President,,Green,Jill Stein,2
+Hamilton,Morehouse,President,,Green,Jill Stein,1
+Hamilton,Wells,President,,Green,Jill Stein,3
+Hamilton,Arietta,President,,Soc & Lib,Peta Lindsay,0
+Hamilton,Benson,President,,Soc & Lib,Peta Lindsay,0
+Hamilton,Hope,President,,Soc & Lib,Peta Lindsay,0
+Hamilton,Indian Lake 1,President,,Soc & Lib,Peta Lindsay,0
+Hamilton,Indian Lake 2,President,,Soc & Lib,Peta Lindsay,0
+Hamilton,Inlet,President,,Soc & Lib,Peta Lindsay,0
+Hamilton,Lake Pleasant,President,,Soc & Lib,Peta Lindsay,0
+Hamilton,Long Lake 1,President,,Soc & Lib,Peta Lindsay,0
+Hamilton,Long Lake 2,President,,Soc & Lib,Peta Lindsay,0
+Hamilton,Morehouse,President,,Soc & Lib,Peta Lindsay,0
+Hamilton,Wells,President,,Soc & Lib,Peta Lindsay,0
+Hamilton,Arietta,President,,Lbt,Gary Johnson,1
+Hamilton,Benson,President,,Lbt,Gary Johnson,0
+Hamilton,Hope,President,,Lbt,Gary Johnson,3
+Hamilton,Indian Lake 1,President,,Lbt,Gary Johnson,15
+Hamilton,Indian Lake 2,President,,Lbt,Gary Johnson,0
+Hamilton,Inlet,President,,Lbt,Gary Johnson,1
+Hamilton,Lake Pleasant,President,,Lbt,Gary Johnson,1
+Hamilton,Long Lake 1,President,,Lbt,Gary Johnson,7
+Hamilton,Long Lake 2,President,,Lbt,Gary Johnson,0
+Hamilton,Morehouse,President,,Lbt,Gary Johnson,0
+Hamilton,Wells,President,,Lbt,Gary Johnson,0
+Hamilton,Arietta,President,,Const,Virgil Goode,0
+Hamilton,Benson,President,,Const,Virgil Goode,0
+Hamilton,Hope,President,,Const,Virgil Goode,1
+Hamilton,Indian Lake 1,President,,Const,Virgil Goode,0
+Hamilton,Indian Lake 2,President,,Const,Virgil Goode,1
+Hamilton,Inlet,President,,Const,Virgil Goode,0
+Hamilton,Lake Pleasant,President,,Const,Virgil Goode,1
+Hamilton,Long Lake 1,President,,Const,Virgil Goode,7
+Hamilton,Long Lake 2,President,,Const,Virgil Goode,0
+Hamilton,Morehouse,President,,Const,Virgil Goode,1
+Hamilton,Wells,President,,Const,Virgil Goode,0
+Hamilton,Arietta,President,,,writeins,
+Hamilton,Benson,President,,,writeins,
+Hamilton,Hope,President,,,writeins,
+Hamilton,Indian Lake 1,President,,,writeins,
+Hamilton,Indian Lake 2,President,,,writeins,
+Hamilton,Inlet,President,,,writeins,
+Hamilton,Lake Pleasant,President,,,writeins,
+Hamilton,Long Lake 1,President,,,writeins,
+Hamilton,Long Lake 2,President,,,writeins,
+Hamilton,Morehouse,President,,,writeins,
+Hamilton,Wells,President,,,writeins,
+Hamilton,Arietta,State Senate,Sen49,Rep,Hugh Farley,137
+Hamilton,Benson,State Senate,Sen49,Rep,Hugh Farley,72
+Hamilton,Hope,State Senate,Sen49,Rep,Hugh Farley,89
+Hamilton,Indian Lake 1,State Senate,Sen49,Rep,Hugh Farley,402
+Hamilton,Indian Lake 2,State Senate,Sen49,Rep,Hugh Farley,50
+Hamilton,Inlet,State Senate,Sen49,Rep,Hugh Farley,120
+Hamilton,Lake Pleasant,State Senate,Sen49,Rep,Hugh Farley,418
+Hamilton,Long Lake 1,State Senate,Sen49,Rep,Hugh Farley,208
+Hamilton,Long Lake 2,State Senate,Sen49,Rep,Hugh Farley,51
+Hamilton,Morehouse,State Senate,Sen49,Rep,Hugh Farley,45
+Hamilton,Wells,State Senate,Sen49,Rep,Hugh Farley,265
+Hamilton,Arietta,State Senate,Sen49,Con,Hugh Farley,12
+Hamilton,Benson,State Senate,Sen49,Con,Hugh Farley,5
+Hamilton,Hope,State Senate,Sen49,Con,Hugh Farley,17
+Hamilton,Indian Lake 1,State Senate,Sen49,Con,Hugh Farley,36
+Hamilton,Indian Lake 2,State Senate,Sen49,Con,Hugh Farley,5
+Hamilton,Inlet,State Senate,Sen49,Con,Hugh Farley,14
+Hamilton,Lake Pleasant,State Senate,Sen49,Con,Hugh Farley,49
+Hamilton,Long Lake 1,State Senate,Sen49,Con,Hugh Farley,28
+Hamilton,Long Lake 2,State Senate,Sen49,Con,Hugh Farley,4
+Hamilton,Morehouse,State Senate,Sen49,Con,Hugh Farley,5
+Hamilton,Wells,State Senate,Sen49,Con,Hugh Farley,28
+Hamilton,Arietta,State Senate,Sen49,Ind,Hugh Farley,3
+Hamilton,Benson,State Senate,Sen49,Ind,Hugh Farley,3
+Hamilton,Hope,State Senate,Sen49,Ind,Hugh Farley,6
+Hamilton,Indian Lake 1,State Senate,Sen49,Ind,Hugh Farley,15
+Hamilton,Indian Lake 2,State Senate,Sen49,Ind,Hugh Farley,4
+Hamilton,Inlet,State Senate,Sen49,Ind,Hugh Farley,3
+Hamilton,Lake Pleasant,State Senate,Sen49,Ind,Hugh Farley,13
+Hamilton,Long Lake 1,State Senate,Sen49,Ind,Hugh Farley,12
+Hamilton,Long Lake 2,State Senate,Sen49,Ind,Hugh Farley,1
+Hamilton,Morehouse,State Senate,Sen49,Ind,Hugh Farley,3
+Hamilton,Wells,State Senate,Sen49,Ind,Hugh Farley,4
+Hamilton,Arietta,State Senate,Sen49,Dem,Madelyn Thorne,46
+Hamilton,Benson,State Senate,Sen49,Dem,Madelyn Thorne,30
+Hamilton,Hope,State Senate,Sen49,Dem,Madelyn Thorne,22
+Hamilton,Indian Lake 1,State Senate,Sen49,Dem,Madelyn Thorne,163
+Hamilton,Indian Lake 2,State Senate,Sen49,Dem,Madelyn Thorne,46
+Hamilton,Inlet,State Senate,Sen49,Dem,Madelyn Thorne,61
+Hamilton,Lake Pleasant,State Senate,Sen49,Dem,Madelyn Thorne,77
+Hamilton,Long Lake 1,State Senate,Sen49,Dem,Madelyn Thorne,137
+Hamilton,Long Lake 2,State Senate,Sen49,Dem,Madelyn Thorne,20
+Hamilton,Morehouse,State Senate,Sen49,Dem,Madelyn Thorne,6
+Hamilton,Wells,State Senate,Sen49,Dem,Madelyn Thorne,71
+Hamilton,Arietta,State Senate,Sen49,WF,Madelyn Thorne,4
+Hamilton,Benson,State Senate,Sen49,WF,Madelyn Thorne,1
+Hamilton,Hope,State Senate,Sen49,WF,Madelyn Thorne,4
+Hamilton,Indian Lake 1,State Senate,Sen49,WF,Madelyn Thorne,12
+Hamilton,Indian Lake 2,State Senate,Sen49,WF,Madelyn Thorne,3
+Hamilton,Inlet,State Senate,Sen49,WF,Madelyn Thorne,6
+Hamilton,Lake Pleasant,State Senate,Sen49,WF,Madelyn Thorne,4
+Hamilton,Long Lake 1,State Senate,Sen49,WF,Madelyn Thorne,7
+Hamilton,Long Lake 2,State Senate,Sen49,WF,Madelyn Thorne,1
+Hamilton,Morehouse,State Senate,Sen49,WF,Madelyn Thorne,0
+Hamilton,Wells,State Senate,Sen49,WF,Madelyn Thorne,6
+Hamilton,Arietta,US House,CD21,Dem,William Owens,60
+Hamilton,Benson,US House,CD21,Dem,William Owens,44
+Hamilton,Hope,US House,CD21,Dem,William Owens,32
+Hamilton,Indian Lake 1,US House,CD21,Dem,William Owens,273
+Hamilton,Indian Lake 2,US House,CD21,Dem,William Owens,70
+Hamilton,Inlet,US House,CD21,Dem,William Owens,77
+Hamilton,Lake Pleasant,US House,CD21,Dem,William Owens,114
+Hamilton,Long Lake 1,US House,CD21,Dem,William Owens,164
+Hamilton,Long Lake 2,US House,CD21,Dem,William Owens,33
+Hamilton,Morehouse,US House,CD21,Dem,William Owens,4
+Hamilton,Wells,US House,CD21,Dem,William Owens,103
+Hamilton,Arietta,US House,CD21,Rep,Matthew Doheny,133
+Hamilton,Benson,US House,CD21,Rep,Matthew Doheny,59
+Hamilton,Hope,US House,CD21,Rep,Matthew Doheny,79
+Hamilton,Indian Lake 1,US House,CD21,Rep,Matthew Doheny,304
+Hamilton,Indian Lake 2,US House,CD21,Rep,Matthew Doheny,30
+Hamilton,Inlet,US House,CD21,Rep,Matthew Doheny,116
+Hamilton,Lake Pleasant,US House,CD21,Rep,Matthew Doheny,384
+Hamilton,Long Lake 1,US House,CD21,Rep,Matthew Doheny,186
+Hamilton,Long Lake 2,US House,CD21,Rep,Matthew Doheny,41
+Hamilton,Morehouse,US House,CD21,Rep,Matthew Doheny,39
+Hamilton,Wells,US House,CD21,Rep,Matthew Doheny,245
+Hamilton,Arietta,US House,CD21,Con,Matthew Doheny,10
+Hamilton,Benson,US House,CD21,Con,Matthew Doheny,4
+Hamilton,Hope,US House,CD21,Con,Matthew Doheny,15
+Hamilton,Indian Lake 1,US House,CD21,Con,Matthew Doheny,23
+Hamilton,Indian Lake 2,US House,CD21,Con,Matthew Doheny,1
+Hamilton,Inlet,US House,CD21,Con,Matthew Doheny,12
+Hamilton,Lake Pleasant,US House,CD21,Con,Matthew Doheny,40
+Hamilton,Long Lake 1,US House,CD21,Con,Matthew Doheny,28
+Hamilton,Long Lake 2,US House,CD21,Con,Matthew Doheny,2
+Hamilton,Morehouse,US House,CD21,Con,Matthew Doheny,3
+Hamilton,Wells,US House,CD21,Con,Matthew Doheny,28
+Hamilton,Arietta,US House,CD21,WF,William Owens,2
+Hamilton,Benson,US House,CD21,WF,William Owens,3
+Hamilton,Hope,US House,CD21,WF,William Owens,4
+Hamilton,Indian Lake 1,US House,CD21,WF,William Owens,14
+Hamilton,Indian Lake 2,US House,CD21,WF,William Owens,5
+Hamilton,Inlet,US House,CD21,WF,William Owens,7
+Hamilton,Lake Pleasant,US House,CD21,WF,William Owens,6
+Hamilton,Long Lake 1,US House,CD21,WF,William Owens,16
+Hamilton,Long Lake 2,US House,CD21,WF,William Owens,2
+Hamilton,Morehouse,US House,CD21,WF,William Owens,3
+Hamilton,Wells,US House,CD21,WF,William Owens,6
+Hamilton,Arietta,US House,CD21,Ind,Matthew Doheny,0
+Hamilton,Benson,US House,CD21,Ind,Matthew Doheny,1
+Hamilton,Hope,US House,CD21,Ind,Matthew Doheny,4
+Hamilton,Indian Lake 1,US House,CD21,Ind,Matthew Doheny,8
+Hamilton,Indian Lake 2,US House,CD21,Ind,Matthew Doheny,0
+Hamilton,Inlet,US House,CD21,Ind,Matthew Doheny,3
+Hamilton,Lake Pleasant,US House,CD21,Ind,Matthew Doheny,6
+Hamilton,Long Lake 1,US House,CD21,Ind,Matthew Doheny,6
+Hamilton,Long Lake 2,US House,CD21,Ind,Matthew Doheny,1
+Hamilton,Morehouse,US House,CD21,Ind,Matthew Doheny,1
+Hamilton,Wells,US House,CD21,Ind,Matthew Doheny,3
+Hamilton,Arietta,US House,CD21,Green,Donald Hassig,3
+Hamilton,Benson,US House,CD21,Green,Donald Hassig,2
+Hamilton,Hope,US House,CD21,Green,Donald Hassig,2
+Hamilton,Indian Lake 1,US House,CD21,Green,Donald Hassig,12
+Hamilton,Indian Lake 2,US House,CD21,Green,Donald Hassig,2
+Hamilton,Inlet,US House,CD21,Green,Donald Hassig,2
+Hamilton,Lake Pleasant,US House,CD21,Green,Donald Hassig,7
+Hamilton,Long Lake 1,US House,CD21,Green,Donald Hassig,9
+Hamilton,Long Lake 2,US House,CD21,Green,Donald Hassig,2
+Hamilton,Morehouse,US House,CD21,Green,Donald Hassig,2
+Hamilton,Wells,US House,CD21,Green,Donald Hassig,2
+Hamilton,Arietta,US House,CD21,Ind,write-in,
+Hamilton,Benson,US House,CD21,Ind,write-in,
+Hamilton,Hope,US House,CD21,Ind,write-in,
+Hamilton,Indian Lake 1,US House,CD21,Ind,write-in,
+Hamilton,Indian Lake 2,US House,CD21,Ind,write-in,
+Hamilton,Inlet,US House,CD21,Ind,write-in,
+Hamilton,Lake Pleasant,US House,CD21,Ind,write-in,
+Hamilton,Long Lake 1,US House,CD21,Ind,write-in,
+Hamilton,Long Lake 2,US House,CD21,Ind,write-in,
+Hamilton,Morehouse,US House,CD21,Ind,write-in,
+Hamilton,Wells,US House,CD21,Ind,write-in,
+Hamilton,Arietta,US Senate,,Dem,Kirsten Gillibrand,98
+Hamilton,Benson,US Senate,,Dem,Kirsten Gillibrand,55
+Hamilton,Hope,US Senate,,Dem,Kirsten Gillibrand,43
+Hamilton,Indian Lake 1,US Senate,,Dem,Kirsten Gillibrand,368
+Hamilton,Indian Lake 2,US Senate,,Dem,Kirsten Gillibrand,86
+Hamilton,Inlet,US Senate,,Dem,Kirsten Gillibrand,104
+Hamilton,Lake Pleasant,US Senate,,Dem,Kirsten Gillibrand,164
+Hamilton,Long Lake 1,US Senate,,Dem,Kirsten Gillibrand,224
+Hamilton,Long Lake 2,US Senate,,Dem,Kirsten Gillibrand,39
+Hamilton,Morehouse,US Senate,,Dem,Kirsten Gillibrand,18
+Hamilton,Wells,US Senate,,Dem,Kirsten Gillibrand,146
+Hamilton,Arietta,US Senate,,Rep,Wendy Long,101
+Hamilton,Benson,US Senate,,Rep,Wendy Long,51
+Hamilton,Hope,US Senate,,Rep,Wendy Long,72
+Hamilton,Indian Lake 1,US Senate,,Rep,Wendy Long,195
+Hamilton,Indian Lake 2,US Senate,,Rep,Wendy Long,16
+Hamilton,Inlet,US Senate,,Rep,Wendy Long,86
+Hamilton,Lake Pleasant,US Senate,,Rep,Wendy Long,347
+Hamilton,Long Lake 1,US Senate,,Rep,Wendy Long,141
+Hamilton,Long Lake 2,US Senate,,Rep,Wendy Long,35
+Hamilton,Morehouse,US Senate,,Rep,Wendy Long,36
+Hamilton,Wells,US Senate,,Rep,Wendy Long,213
+Hamilton,Arietta,US Senate,,Con,Wendy Long,10
+Hamilton,Benson,US Senate,,Con,Wendy Long,4
+Hamilton,Hope,US Senate,,Con,Wendy Long,16
+Hamilton,Indian Lake 1,US Senate,,Con,Wendy Long,20
+Hamilton,Indian Lake 2,US Senate,,Con,Wendy Long,1
+Hamilton,Inlet,US Senate,,Con,Wendy Long,11
+Hamilton,Lake Pleasant,US Senate,,Con,Wendy Long,41
+Hamilton,Long Lake 1,US Senate,,Con,Wendy Long,26
+Hamilton,Long Lake 2,US Senate,,Con,Wendy Long,2
+Hamilton,Morehouse,US Senate,,Con,Wendy Long,3
+Hamilton,Wells,US Senate,,Con,Wendy Long,22
+Hamilton,Arietta,US Senate,,WF,Kirsten Gillibrand,1
+Hamilton,Benson,US Senate,,WF,Kirsten Gillibrand,3
+Hamilton,Hope,US Senate,,WF,Kirsten Gillibrand,3
+Hamilton,Indian Lake 1,US Senate,,WF,Kirsten Gillibrand,27
+Hamilton,Indian Lake 2,US Senate,,WF,Kirsten Gillibrand,4
+Hamilton,Inlet,US Senate,,WF,Kirsten Gillibrand,10
+Hamilton,Lake Pleasant,US Senate,,WF,Kirsten Gillibrand,7
+Hamilton,Long Lake 1,US Senate,,WF,Kirsten Gillibrand,15
+Hamilton,Long Lake 2,US Senate,,WF,Kirsten Gillibrand,2
+Hamilton,Morehouse,US Senate,,WF,Kirsten Gillibrand,1
+Hamilton,Wells,US Senate,,WF,Kirsten Gillibrand,9
+Hamilton,Arietta,US Senate,,Ind,Kirsten Gillibrand,2
+Hamilton,Benson,US Senate,,Ind,Kirsten Gillibrand,0
+Hamilton,Hope,US Senate,,Ind,Kirsten Gillibrand,5
+Hamilton,Indian Lake 1,US Senate,,Ind,Kirsten Gillibrand,15
+Hamilton,Indian Lake 2,US Senate,,Ind,Kirsten Gillibrand,3
+Hamilton,Inlet,US Senate,,Ind,Kirsten Gillibrand,8
+Hamilton,Lake Pleasant,US Senate,,Ind,Kirsten Gillibrand,12
+Hamilton,Long Lake 1,US Senate,,Ind,Kirsten Gillibrand,7
+Hamilton,Long Lake 2,US Senate,,Ind,Kirsten Gillibrand,0
+Hamilton,Morehouse,US Senate,,Ind,Kirsten Gillibrand,2
+Hamilton,Wells,US Senate,,Ind,Kirsten Gillibrand,6
+Hamilton,Arietta,US Senate,,Green,Colia Clark,0
+Hamilton,Benson,US Senate,,Green,Colia Clark,0
+Hamilton,Hope,US Senate,,Green,Colia Clark,1
+Hamilton,Indian Lake 1,US Senate,,Green,Colia Clark,6
+Hamilton,Indian Lake 2,US Senate,,Green,Colia Clark,0
+Hamilton,Inlet,US Senate,,Green,Colia Clark,0
+Hamilton,Lake Pleasant,US Senate,,Green,Colia Clark,0
+Hamilton,Long Lake 1,US Senate,,Green,Colia Clark,4
+Hamilton,Long Lake 2,US Senate,,Green,Colia Clark,4
+Hamilton,Morehouse,US Senate,,Green,Colia Clark,2
+Hamilton,Wells,US Senate,,Green,Colia Clark,1
+Hamilton,Arietta,US Senate,,Lbt,Chris Edes,1
+Hamilton,Benson,US Senate,,Lbt,Chris Edes,0
+Hamilton,Hope,US Senate,,Lbt,Chris Edes,2
+Hamilton,Indian Lake 1,US Senate,,Lbt,Chris Edes,5
+Hamilton,Indian Lake 2,US Senate,,Lbt,Chris Edes,0
+Hamilton,Inlet,US Senate,,Lbt,Chris Edes,1
+Hamilton,Lake Pleasant,US Senate,,Lbt,Chris Edes,1
+Hamilton,Long Lake 1,US Senate,,Lbt,Chris Edes,2
+Hamilton,Long Lake 2,US Senate,,Lbt,Chris Edes,0
+Hamilton,Morehouse,US Senate,,Lbt,Chris Edes,0
+Hamilton,Wells,US Senate,,Lbt,Chris Edes,2
+Hamilton,Arietta,US Senate,,CS,John Mangelli,0
+Hamilton,Benson,US Senate,,CS,John Mangelli,0
+Hamilton,Hope,US Senate,,CS,John Mangelli,0
+Hamilton,Indian Lake 1,US Senate,,CS,John Mangelli,2
+Hamilton,Indian Lake 2,US Senate,,CS,John Mangelli,1
+Hamilton,Inlet,US Senate,,CS,John Mangelli,0
+Hamilton,Lake Pleasant,US Senate,,CS,John Mangelli,2
+Hamilton,Long Lake 1,US Senate,,CS,John Mangelli,1
+Hamilton,Long Lake 2,US Senate,,CS,John Mangelli,0
+Hamilton,Morehouse,US Senate,,CS,John Mangelli,0
+Hamilton,Wells,US Senate,,CS,John Mangelli,1
+Hamilton,Arietta,US Senate,,,writein,
+Hamilton,Benson,US Senate,,,writein,
+Hamilton,Hope,US Senate,,,writein,
+Hamilton,Indian Lake 1,US Senate,,,writein,
+Hamilton,Indian Lake 2,US Senate,,,writein,
+Hamilton,Inlet,US Senate,,,writein,
+Hamilton,Lake Pleasant,US Senate,,,writein,
+Hamilton,Long Lake 1,US Senate,,,writein,
+Hamilton,Long Lake 2,US Senate,,,writein,
+Hamilton,Morehouse,US Senate,,,writein,
+Hamilton,Wells,US Senate,,,writein,
