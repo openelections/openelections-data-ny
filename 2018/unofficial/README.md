@@ -1,0 +1,1 @@
+This CSV reflects the unofficial election results in NYC, from the 9/13/2018 primary. The results were scraped around noon on 9/14/2018.
