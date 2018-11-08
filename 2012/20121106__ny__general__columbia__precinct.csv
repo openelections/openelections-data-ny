@@ -1,0 +1,1817 @@
+county,precinct,office,district,party,candidate,votes
+Columbia,Stockport 1,State House,AD102,Dem,James Miller,211
+Columbia,Stockport 2,State House,AD102,Dem,James Miller,230
+Columbia,Stuyvesant 1,State House,AD102,Dem,James Miller,166
+Columbia,Stuyvesant 2,State House,AD102,Dem,James Miller,270
+Columbia,Stockport 1,State House,AD102,Rep,Peter Lopez,241
+Columbia,Stockport 2,State House,AD102,Rep,Peter Lopez,229
+Columbia,Stuyvesant 1,State House,AD102,Rep,Peter Lopez,174
+Columbia,Stuyvesant 2,State House,AD102,Rep,Peter Lopez,211
+Columbia,Stockport 1,State House,AD102,Con,Peter Lopez,46
+Columbia,Stockport 2,State House,AD102,Con,Peter Lopez,30
+Columbia,Stuyvesant 1,State House,AD102,Con,Peter Lopez,46
+Columbia,Stuyvesant 2,State House,AD102,Con,Peter Lopez,37
+Columbia,Stockport 1,State House,AD102,Ind,Peter Lopez,29
+Columbia,Stockport 2,State House,AD102,Ind,Peter Lopez,27
+Columbia,Stuyvesant 1,State House,AD102,Ind,Peter Lopez,24
+Columbia,Stuyvesant 2,State House,AD102,Ind,Peter Lopez,16
+Columbia,Stockport 1,State House,AD102,Ind,writein,0
+Columbia,Stockport 2,State House,AD102,Ind,writein,0
+Columbia,Stuyvesant 1,State House,AD102,Ind,writein,0
+Columbia,Stuyvesant 2,State House,AD102,Ind,writein,1
+Columbia,Ancram -1,State House,AD106,Dem,Didi Barrett,196
+Columbia,Ancram -2,State House,AD106,Dem,Didi Barrett,154
+Columbia,Claverack -1,State House,AD106,Dem,Didi Barrett,212
+Columbia,Claverack -2,State House,AD106,Dem,Didi Barrett,255
+Columbia,Claverack -3,State House,AD106,Dem,Didi Barrett,243
+Columbia,Claverack -4,State House,AD106,Dem,Didi Barrett,307
+Columbia,Claverack -5,State House,AD106,Dem,Didi Barrett,135
+Columbia,Clermont -1,State House,AD106,Dem,Didi Barrett,308
+Columbia,Copake -1,State House,AD106,Dem,Didi Barrett,381
+Columbia,Copake -2,State House,AD106,Dem,Didi Barrett,346
+Columbia,Gallatin -1,State House,AD106,Dem,Didi Barrett,283
+Columbia,Germantown -1,State House,AD106,Dem,Didi Barrett,252
+Columbia,Germantown -2,State House,AD106,Dem,Didi Barrett,220
+Columbia,Ghent -1,State House,AD106,Dem,Didi Barrett,400
+Columbia,Ghent -2,State House,AD106,Dem,Didi Barrett,321
+Columbia,Ghent -3,State House,AD106,Dem,Didi Barrett,236
+Columbia,Ghent -4,State House,AD106,Dem,Didi Barrett,167
+Columbia,Greenport -1,State House,AD106,Dem,Didi Barrett,281
+Columbia,Greenport -2,State House,AD106,Dem,Didi Barrett,222
+Columbia,Greenport -3,State House,AD106,Dem,Didi Barrett,288
+Columbia,Hudson 1-1,State House,AD106,Dem,Didi Barrett,193
+Columbia,Hudson 2-1,State House,AD106,Dem,Didi Barrett,337
+Columbia,Hudson 3-1,State House,AD106,Dem,Didi Barrett,296
+Columbia,Hudson 4-1,State House,AD106,Dem,Didi Barrett,249
+Columbia,Hudson 5-1,State House,AD106,Dem,Didi Barrett,282
+Columbia,Hudson 5-2,State House,AD106,Dem,Didi Barrett,241
+Columbia,Livingston -1,State House,AD106,Dem,Didi Barrett,340
+Columbia,Livingston -2,State House,AD106,Dem,Didi Barrett,241
+Columbia,Taghkanic-1,State House,AD106,Dem,Didi Barrett,330
+Columbia,Ancram -1,State House,AD106,Rep,David Byrne,126
+Columbia,Ancram -2,State House,AD106,Rep,David Byrne,114
+Columbia,Claverack -1,State House,AD106,Rep,David Byrne,227
+Columbia,Claverack -2,State House,AD106,Rep,David Byrne,280
+Columbia,Claverack -3,State House,AD106,Rep,David Byrne,205
+Columbia,Claverack -4,State House,AD106,Rep,David Byrne,236
+Columbia,Claverack -5,State House,AD106,Rep,David Byrne,159
+Columbia,Clermont -1,State House,AD106,Rep,David Byrne,363
+Columbia,Copake -1,State House,AD106,Rep,David Byrne,227
+Columbia,Copake -2,State House,AD106,Rep,David Byrne,273
+Columbia,Gallatin -1,State House,AD106,Rep,David Byrne,280
+Columbia,Germantown -1,State House,AD106,Rep,David Byrne,211
+Columbia,Germantown -2,State House,AD106,Rep,David Byrne,170
+Columbia,Ghent -1,State House,AD106,Rep,David Byrne,226
+Columbia,Ghent -2,State House,AD106,Rep,David Byrne,238
+Columbia,Ghent -3,State House,AD106,Rep,David Byrne,249
+Columbia,Ghent -4,State House,AD106,Rep,David Byrne,124
+Columbia,Greenport -1,State House,AD106,Rep,David Byrne,260
+Columbia,Greenport -2,State House,AD106,Rep,David Byrne,179
+Columbia,Greenport -3,State House,AD106,Rep,David Byrne,268
+Columbia,Hudson 1-1,State House,AD106,Rep,David Byrne,23
+Columbia,Hudson 2-1,State House,AD106,Rep,David Byrne,28
+Columbia,Hudson 3-1,State House,AD106,Rep,David Byrne,91
+Columbia,Hudson 4-1,State House,AD106,Rep,David Byrne,54
+Columbia,Hudson 5-1,State House,AD106,Rep,David Byrne,89
+Columbia,Hudson 5-2,State House,AD106,Rep,David Byrne,137
+Columbia,Livingston -1,State House,AD106,Rep,David Byrne,411
+Columbia,Livingston -2,State House,AD106,Rep,David Byrne,234
+Columbia,Taghkanic-1,State House,AD106,Rep,David Byrne,236
+Columbia,Ancram -1,State House,AD106,Con,David Byrne,12
+Columbia,Ancram -2,State House,AD106,Con,David Byrne,13
+Columbia,Claverack -1,State House,AD106,Con,David Byrne,23
+Columbia,Claverack -2,State House,AD106,Con,David Byrne,45
+Columbia,Claverack -3,State House,AD106,Con,David Byrne,30
+Columbia,Claverack -4,State House,AD106,Con,David Byrne,33
+Columbia,Claverack -5,State House,AD106,Con,David Byrne,10
+Columbia,Clermont -1,State House,AD106,Con,David Byrne,55
+Columbia,Copake -1,State House,AD106,Con,David Byrne,40
+Columbia,Copake -2,State House,AD106,Con,David Byrne,25
+Columbia,Gallatin -1,State House,AD106,Con,David Byrne,28
+Columbia,Germantown -1,State House,AD106,Con,David Byrne,25
+Columbia,Germantown -2,State House,AD106,Con,David Byrne,31
+Columbia,Ghent -1,State House,AD106,Con,David Byrne,36
+Columbia,Ghent -2,State House,AD106,Con,David Byrne,44
+Columbia,Ghent -3,State House,AD106,Con,David Byrne,40
+Columbia,Ghent -4,State House,AD106,Con,David Byrne,16
+Columbia,Greenport -1,State House,AD106,Con,David Byrne,38
+Columbia,Greenport -2,State House,AD106,Con,David Byrne,25
+Columbia,Greenport -3,State House,AD106,Con,David Byrne,33
+Columbia,Hudson 1-1,State House,AD106,Con,David Byrne,3
+Columbia,Hudson 2-1,State House,AD106,Con,David Byrne,7
+Columbia,Hudson 3-1,State House,AD106,Con,David Byrne,15
+Columbia,Hudson 4-1,State House,AD106,Con,David Byrne,11
+Columbia,Hudson 5-1,State House,AD106,Con,David Byrne,14
+Columbia,Hudson 5-2,State House,AD106,Con,David Byrne,19
+Columbia,Livingston -1,State House,AD106,Con,David Byrne,49
+Columbia,Livingston -2,State House,AD106,Con,David Byrne,30
+Columbia,Taghkanic-1,State House,AD106,Con,David Byrne,22
+Columbia,Ancram -1,State House,AD106,WF,Didi Barrett,20
+Columbia,Ancram -2,State House,AD106,WF,Didi Barrett,20
+Columbia,Claverack -1,State House,AD106,WF,Didi Barrett,16
+Columbia,Claverack -2,State House,AD106,WF,Didi Barrett,8
+Columbia,Claverack -3,State House,AD106,WF,Didi Barrett,26
+Columbia,Claverack -4,State House,AD106,WF,Didi Barrett,31
+Columbia,Claverack -5,State House,AD106,WF,Didi Barrett,15
+Columbia,Clermont -1,State House,AD106,WF,Didi Barrett,34
+Columbia,Copake -1,State House,AD106,WF,Didi Barrett,25
+Columbia,Copake -2,State House,AD106,WF,Didi Barrett,36
+Columbia,Gallatin -1,State House,AD106,WF,Didi Barrett,32
+Columbia,Germantown -1,State House,AD106,WF,Didi Barrett,22
+Columbia,Germantown -2,State House,AD106,WF,Didi Barrett,16
+Columbia,Ghent -1,State House,AD106,WF,Didi Barrett,53
+Columbia,Ghent -2,State House,AD106,WF,Didi Barrett,35
+Columbia,Ghent -3,State House,AD106,WF,Didi Barrett,31
+Columbia,Ghent -4,State House,AD106,WF,Didi Barrett,23
+Columbia,Greenport -1,State House,AD106,WF,Didi Barrett,28
+Columbia,Greenport -2,State House,AD106,WF,Didi Barrett,22
+Columbia,Greenport -3,State House,AD106,WF,Didi Barrett,31
+Columbia,Hudson 1-1,State House,AD106,WF,Didi Barrett,20
+Columbia,Hudson 2-1,State House,AD106,WF,Didi Barrett,20
+Columbia,Hudson 3-1,State House,AD106,WF,Didi Barrett,29
+Columbia,Hudson 4-1,State House,AD106,WF,Didi Barrett,13
+Columbia,Hudson 5-1,State House,AD106,WF,Didi Barrett,21
+Columbia,Hudson 5-2,State House,AD106,WF,Didi Barrett,21
+Columbia,Livingston -1,State House,AD106,WF,Didi Barrett,41
+Columbia,Livingston -2,State House,AD106,WF,Didi Barrett,21
+Columbia,Taghkanic-1,State House,AD106,WF,Didi Barrett,36
+Columbia,Ancram -1,State House,AD106,Ind,David Byrne,6
+Columbia,Ancram -2,State House,AD106,Ind,David Byrne,5
+Columbia,Claverack -1,State House,AD106,Ind,David Byrne,14
+Columbia,Claverack -2,State House,AD106,Ind,David Byrne,26
+Columbia,Claverack -3,State House,AD106,Ind,David Byrne,18
+Columbia,Claverack -4,State House,AD106,Ind,David Byrne,25
+Columbia,Claverack -5,State House,AD106,Ind,David Byrne,9
+Columbia,Clermont -1,State House,AD106,Ind,David Byrne,29
+Columbia,Copake -1,State House,AD106,Ind,David Byrne,36
+Columbia,Copake -2,State House,AD106,Ind,David Byrne,24
+Columbia,Gallatin -1,State House,AD106,Ind,David Byrne,27
+Columbia,Germantown -1,State House,AD106,Ind,David Byrne,11
+Columbia,Germantown -2,State House,AD106,Ind,David Byrne,7
+Columbia,Ghent -1,State House,AD106,Ind,David Byrne,30
+Columbia,Ghent -2,State House,AD106,Ind,David Byrne,23
+Columbia,Ghent -3,State House,AD106,Ind,David Byrne,16
+Columbia,Ghent -4,State House,AD106,Ind,David Byrne,19
+Columbia,Greenport -1,State House,AD106,Ind,David Byrne,12
+Columbia,Greenport -2,State House,AD106,Ind,David Byrne,20
+Columbia,Greenport -3,State House,AD106,Ind,David Byrne,37
+Columbia,Hudson 1-1,State House,AD106,Ind,David Byrne,10
+Columbia,Hudson 2-1,State House,AD106,Ind,David Byrne,4
+Columbia,Hudson 3-1,State House,AD106,Ind,David Byrne,12
+Columbia,Hudson 4-1,State House,AD106,Ind,David Byrne,5
+Columbia,Hudson 5-1,State House,AD106,Ind,David Byrne,13
+Columbia,Hudson 5-2,State House,AD106,Ind,David Byrne,14
+Columbia,Livingston -1,State House,AD106,Ind,David Byrne,35
+Columbia,Livingston -2,State House,AD106,Ind,David Byrne,23
+Columbia,Taghkanic-1,State House,AD106,Ind,David Byrne,18
+Columbia,Ancram -1,State House,AD106,Ind,writein,0
+Columbia,Ancram -2,State House,AD106,Ind,writein,0
+Columbia,Claverack -1,State House,AD106,Ind,writein,0
+Columbia,Claverack -2,State House,AD106,Ind,writein,0
+Columbia,Claverack -3,State House,AD106,Ind,writein,0
+Columbia,Claverack -4,State House,AD106,Ind,writein,1
+Columbia,Claverack -5,State House,AD106,Ind,writein,0
+Columbia,Clermont -1,State House,AD106,Ind,writein,0
+Columbia,Copake -1,State House,AD106,Ind,writein,0
+Columbia,Copake -2,State House,AD106,Ind,writein,0
+Columbia,Gallatin -1,State House,AD106,Ind,writein,2
+Columbia,Germantown -1,State House,AD106,Ind,writein,0
+Columbia,Germantown -2,State House,AD106,Ind,writein,0
+Columbia,Ghent -1,State House,AD106,Ind,writein,0
+Columbia,Ghent -2,State House,AD106,Ind,writein,0
+Columbia,Ghent -3,State House,AD106,Ind,writein,1
+Columbia,Ghent -4,State House,AD106,Ind,writein,0
+Columbia,Greenport -1,State House,AD106,Ind,writein,1
+Columbia,Greenport -2,State House,AD106,Ind,writein,0
+Columbia,Greenport -3,State House,AD106,Ind,writein,0
+Columbia,Hudson 1-1,State House,AD106,Ind,writein,0
+Columbia,Hudson 2-1,State House,AD106,Ind,writein,1
+Columbia,Hudson 3-1,State House,AD106,Ind,writein,2
+Columbia,Hudson 4-1,State House,AD106,Ind,writein,0
+Columbia,Hudson 5-1,State House,AD106,Ind,writein,0
+Columbia,Hudson 5-2,State House,AD106,Ind,writein,0
+Columbia,Livingston -1,State House,AD106,Ind,writein,0
+Columbia,Livingston -2,State House,AD106,Ind,writein,0
+Columbia,Taghkanic-1,State House,AD106,Ind,writein,0
+Columbia,Austerlitz -1,State House,AD107,Dem,Cheryl Roberts,252
+Columbia,Austerlitz -2,State House,AD107,Dem,Cheryl Roberts,286
+Columbia,Canaan -1,State House,AD107,Dem,Cheryl Roberts,285
+Columbia,Canaan -2,State House,AD107,Dem,Cheryl Roberts,200
+Columbia,Chatham -1,State House,AD107,Dem,Cheryl Roberts,397
+Columbia,Chatham -2,State House,AD107,Dem,Cheryl Roberts,292
+Columbia,Chatham -3,State House,AD107,Dem,Cheryl Roberts,413
+Columbia,Hillsdale -1,State House,AD107,Dem,Cheryl Roberts,252
+Columbia,Hillsdale -2,State House,AD107,Dem,Cheryl Roberts,277
+Columbia,Kinderhook -1,State House,AD107,Dem,Cheryl Roberts,254
+Columbia,Kinderhook -2,State House,AD107,Dem,Cheryl Roberts,203
+Columbia,Kinderhook -3,State House,AD107,Dem,Cheryl Roberts,237
+Columbia,Kinderhook -4,State House,AD107,Dem,Cheryl Roberts,243
+Columbia,Kinderhook -5,State House,AD107,Dem,Cheryl Roberts,251
+Columbia,Kinderhook -6,State House,AD107,Dem,Cheryl Roberts,190
+Columbia,Kinderhook -7,State House,AD107,Dem,Cheryl Roberts,239
+Columbia,Kinderhook -8,State House,AD107,Dem,Cheryl Roberts,215
+Columbia,New Lebanon -1,State House,AD107,Dem,Cheryl Roberts,242
+Columbia,New Lebanon -2,State House,AD107,Dem,Cheryl Roberts,255
+Columbia,Austerlitz -1,State House,AD107,Rep,Steven McLaughlin,137
+Columbia,Austerlitz -2,State House,AD107,Rep,Steven McLaughlin,131
+Columbia,Canaan -1,State House,AD107,Rep,Steven McLaughlin,104
+Columbia,Canaan -2,State House,AD107,Rep,Steven McLaughlin,140
+Columbia,Chatham -1,State House,AD107,Rep,Steven McLaughlin,203
+Columbia,Chatham -2,State House,AD107,Rep,Steven McLaughlin,172
+Columbia,Chatham -3,State House,AD107,Rep,Steven McLaughlin,329
+Columbia,Hillsdale -1,State House,AD107,Rep,Steven McLaughlin,132
+Columbia,Hillsdale -2,State House,AD107,Rep,Steven McLaughlin,98
+Columbia,Kinderhook -1,State House,AD107,Rep,Steven McLaughlin,190
+Columbia,Kinderhook -2,State House,AD107,Rep,Steven McLaughlin,165
+Columbia,Kinderhook -3,State House,AD107,Rep,Steven McLaughlin,225
+Columbia,Kinderhook -4,State House,AD107,Rep,Steven McLaughlin,234
+Columbia,Kinderhook -5,State House,AD107,Rep,Steven McLaughlin,234
+Columbia,Kinderhook -6,State House,AD107,Rep,Steven McLaughlin,203
+Columbia,Kinderhook -7,State House,AD107,Rep,Steven McLaughlin,219
+Columbia,Kinderhook -8,State House,AD107,Rep,Steven McLaughlin,283
+Columbia,New Lebanon -1,State House,AD107,Rep,Steven McLaughlin,141
+Columbia,New Lebanon -2,State House,AD107,Rep,Steven McLaughlin,204
+Columbia,Austerlitz -1,State House,AD107,Con,Steven McLaughlin,21
+Columbia,Austerlitz -2,State House,AD107,Con,Steven McLaughlin,16
+Columbia,Canaan -1,State House,AD107,Con,Steven McLaughlin,33
+Columbia,Canaan -2,State House,AD107,Con,Steven McLaughlin,20
+Columbia,Chatham -1,State House,AD107,Con,Steven McLaughlin,47
+Columbia,Chatham -2,State House,AD107,Con,Steven McLaughlin,23
+Columbia,Chatham -3,State House,AD107,Con,Steven McLaughlin,51
+Columbia,Hillsdale -1,State House,AD107,Con,Steven McLaughlin,20
+Columbia,Hillsdale -2,State House,AD107,Con,Steven McLaughlin,19
+Columbia,Kinderhook -1,State House,AD107,Con,Steven McLaughlin,25
+Columbia,Kinderhook -2,State House,AD107,Con,Steven McLaughlin,26
+Columbia,Kinderhook -3,State House,AD107,Con,Steven McLaughlin,39
+Columbia,Kinderhook -4,State House,AD107,Con,Steven McLaughlin,31
+Columbia,Kinderhook -5,State House,AD107,Con,Steven McLaughlin,40
+Columbia,Kinderhook -6,State House,AD107,Con,Steven McLaughlin,35
+Columbia,Kinderhook -7,State House,AD107,Con,Steven McLaughlin,43
+Columbia,Kinderhook -8,State House,AD107,Con,Steven McLaughlin,43
+Columbia,New Lebanon -1,State House,AD107,Con,Steven McLaughlin,12
+Columbia,New Lebanon -2,State House,AD107,Con,Steven McLaughlin,33
+Columbia,Austerlitz -1,State House,AD107,WF,Cheryl Roberts,27
+Columbia,Austerlitz -2,State House,AD107,WF,Cheryl Roberts,28
+Columbia,Canaan -1,State House,AD107,WF,Cheryl Roberts,27
+Columbia,Canaan -2,State House,AD107,WF,Cheryl Roberts,34
+Columbia,Chatham -1,State House,AD107,WF,Cheryl Roberts,48
+Columbia,Chatham -2,State House,AD107,WF,Cheryl Roberts,48
+Columbia,Chatham -3,State House,AD107,WF,Cheryl Roberts,41
+Columbia,Hillsdale -1,State House,AD107,WF,Cheryl Roberts,27
+Columbia,Hillsdale -2,State House,AD107,WF,Cheryl Roberts,24
+Columbia,Kinderhook -1,State House,AD107,WF,Cheryl Roberts,27
+Columbia,Kinderhook -2,State House,AD107,WF,Cheryl Roberts,22
+Columbia,Kinderhook -3,State House,AD107,WF,Cheryl Roberts,21
+Columbia,Kinderhook -4,State House,AD107,WF,Cheryl Roberts,19
+Columbia,Kinderhook -5,State House,AD107,WF,Cheryl Roberts,33
+Columbia,Kinderhook -6,State House,AD107,WF,Cheryl Roberts,20
+Columbia,Kinderhook -7,State House,AD107,WF,Cheryl Roberts,33
+Columbia,Kinderhook -8,State House,AD107,WF,Cheryl Roberts,22
+Columbia,New Lebanon -1,State House,AD107,WF,Cheryl Roberts,23
+Columbia,New Lebanon -2,State House,AD107,WF,Cheryl Roberts,19
+Columbia,Austerlitz -1,State House,AD107,Ind,Steven McLaughlin,17
+Columbia,Austerlitz -2,State House,AD107,Ind,Steven McLaughlin,6
+Columbia,Canaan -1,State House,AD107,Ind,Steven McLaughlin,17
+Columbia,Canaan -2,State House,AD107,Ind,Steven McLaughlin,15
+Columbia,Chatham -1,State House,AD107,Ind,Steven McLaughlin,15
+Columbia,Chatham -2,State House,AD107,Ind,Steven McLaughlin,26
+Columbia,Chatham -3,State House,AD107,Ind,Steven McLaughlin,21
+Columbia,Hillsdale -1,State House,AD107,Ind,Steven McLaughlin,13
+Columbia,Hillsdale -2,State House,AD107,Ind,Steven McLaughlin,15
+Columbia,Kinderhook -1,State House,AD107,Ind,Steven McLaughlin,12
+Columbia,Kinderhook -2,State House,AD107,Ind,Steven McLaughlin,29
+Columbia,Kinderhook -3,State House,AD107,Ind,Steven McLaughlin,25
+Columbia,Kinderhook -4,State House,AD107,Ind,Steven McLaughlin,30
+Columbia,Kinderhook -5,State House,AD107,Ind,Steven McLaughlin,21
+Columbia,Kinderhook -6,State House,AD107,Ind,Steven McLaughlin,30
+Columbia,Kinderhook -7,State House,AD107,Ind,Steven McLaughlin,23
+Columbia,Kinderhook -8,State House,AD107,Ind,Steven McLaughlin,18
+Columbia,New Lebanon -1,State House,AD107,Ind,Steven McLaughlin,32
+Columbia,New Lebanon -2,State House,AD107,Ind,Steven McLaughlin,26
+Columbia,Austerlitz -1,State House,AD107,Ind,writein,0
+Columbia,Austerlitz -2,State House,AD107,Ind,writein,1
+Columbia,Canaan -1,State House,AD107,Ind,writein,0
+Columbia,Canaan -2,State House,AD107,Ind,writein,0
+Columbia,Chatham -1,State House,AD107,Ind,writein,1
+Columbia,Chatham -2,State House,AD107,Ind,writein,0
+Columbia,Chatham -3,State House,AD107,Ind,writein,0
+Columbia,Hillsdale -1,State House,AD107,Ind,writein,2
+Columbia,Hillsdale -2,State House,AD107,Ind,writein,0
+Columbia,Kinderhook -1,State House,AD107,Ind,writein,0
+Columbia,Kinderhook -2,State House,AD107,Ind,writein,0
+Columbia,Kinderhook -3,State House,AD107,Ind,writein,0
+Columbia,Kinderhook -4,State House,AD107,Ind,writein,1
+Columbia,Kinderhook -5,State House,AD107,Ind,writein,0
+Columbia,Kinderhook -6,State House,AD107,Ind,writein,1
+Columbia,Kinderhook -7,State House,AD107,Ind,writein,0
+Columbia,Kinderhook -8,State House,AD107,Ind,writein,0
+Columbia,New Lebanon -1,State House,AD107,Ind,writein,0
+Columbia,New Lebanon -2,State House,AD107,Ind,writein,0
+Columbia,Ancram -1,President,,Dem,Barack Obama,209
+Columbia,Ancram -2,President,,Dem,Barack Obama,168
+Columbia,Austerlitz -1,President,,Dem,Barack Obama,265
+Columbia,Austerlitz -2,President,,Dem,Barack Obama,297
+Columbia,Canaan -1,President,,Dem,Barack Obama,314
+Columbia,Canaan -2,President,,Dem,Barack Obama,239
+Columbia,Chatham -1,President,,Dem,Barack Obama,421
+Columbia,Chatham -2,President,,Dem,Barack Obama,355
+Columbia,Chatham -3,President,,Dem,Barack Obama,466
+Columbia,Claverack -1,President,,Dem,Barack Obama,236
+Columbia,Claverack -2,President,,Dem,Barack Obama,284
+Columbia,Claverack -3,President,,Dem,Barack Obama,284
+Columbia,Claverack -4,President,,Dem,Barack Obama,342
+Columbia,Claverack -5,President,,Dem,Barack Obama,153
+Columbia,Clermont -1,President,,Dem,Barack Obama,353
+Columbia,Copake -1,President,,Dem,Barack Obama,445
+Columbia,Copake -2,President,,Dem,Barack Obama,397
+Columbia,Gallatin -1,President,,Dem,Barack Obama,314
+Columbia,Germantown -1,President,,Dem,Barack Obama,270
+Columbia,Germantown -2,President,,Dem,Barack Obama,243
+Columbia,Ghent -1,President,,Dem,Barack Obama,459
+Columbia,Ghent -2,President,,Dem,Barack Obama,387
+Columbia,Ghent -3,President,,Dem,Barack Obama,252
+Columbia,Ghent -4,President,,Dem,Barack Obama,176
+Columbia,Greenport -1,President,,Dem,Barack Obama,309
+Columbia,Greenport -2,President,,Dem,Barack Obama,223
+Columbia,Greenport -3,President,,Dem,Barack Obama,316
+Columbia,Hillsdale -1,President,,Dem,Barack Obama,269
+Columbia,Hillsdale -2,President,,Dem,Barack Obama,286
+Columbia,Hudson 1-1,President,,Dem,Barack Obama,207
+Columbia,Hudson 2-1,President,,Dem,Barack Obama,378
+Columbia,Hudson 3-1,President,,Dem,Barack Obama,316
+Columbia,Hudson 4-1,President,,Dem,Barack Obama,266
+Columbia,Hudson 5-1,President,,Dem,Barack Obama,309
+Columbia,Hudson 5-2,President,,Dem,Barack Obama,261
+Columbia,Kinderhook -1,President,,Dem,Barack Obama,281
+Columbia,Kinderhook -2,President,,Dem,Barack Obama,254
+Columbia,Kinderhook -3,President,,Dem,Barack Obama,274
+Columbia,Kinderhook -4,President,,Dem,Barack Obama,281
+Columbia,Kinderhook -5,President,,Dem,Barack Obama,282
+Columbia,Kinderhook -6,President,,Dem,Barack Obama,234
+Columbia,Kinderhook -7,President,,Dem,Barack Obama,270
+Columbia,Kinderhook -8,President,,Dem,Barack Obama,276
+Columbia,Livingston -1,President,,Dem,Barack Obama,391
+Columbia,Livingston -2,President,,Dem,Barack Obama,269
+Columbia,New Lebanon -1,President,,Dem,Barack Obama,296
+Columbia,New Lebanon -2,President,,Dem,Barack Obama,309
+Columbia,Stockport -1,President,,Dem,Barack Obama,264
+Columbia,Stockport -2,President,,Dem,Barack Obama,256
+Columbia,Stuyvesant -1,President,,Dem,Barack Obama,199
+Columbia,Stuyvesant -2,President,,Dem,Barack Obama,284
+Columbia,Taghkanic-1,President,,Dem,Barack Obama,352
+Columbia,Ancram -1,President,,Rep,Mitt Romney,138
+Columbia,Ancram -2,President,,Rep,Mitt Romney,124
+Columbia,Austerlitz -1,President,,Rep,Mitt Romney,150
+Columbia,Austerlitz -2,President,,Rep,Mitt Romney,142
+Columbia,Canaan -1,President,,Rep,Mitt Romney,119
+Columbia,Canaan -2,President,,Rep,Mitt Romney,140
+Columbia,Chatham -1,President,,Rep,Mitt Romney,224
+Columbia,Chatham -2,President,,Rep,Mitt Romney,157
+Columbia,Chatham -3,President,,Rep,Mitt Romney,321
+Columbia,Claverack -1,President,,Rep,Mitt Romney,232
+Columbia,Claverack -2,President,,Rep,Mitt Romney,291
+Columbia,Claverack -3,President,,Rep,Mitt Romney,200
+Columbia,Claverack -4,President,,Rep,Mitt Romney,250
+Columbia,Claverack -5,President,,Rep,Mitt Romney,166
+Columbia,Clermont -1,President,,Rep,Mitt Romney,381
+Columbia,Copake -1,President,,Rep,Mitt Romney,228
+Columbia,Copake -2,President,,Rep,Mitt Romney,300
+Columbia,Gallatin -1,President,,Rep,Mitt Romney,307
+Columbia,Germantown -1,President,,Rep,Mitt Romney,209
+Columbia,Germantown -2,President,,Rep,Mitt Romney,171
+Columbia,Ghent -1,President,,Rep,Mitt Romney,242
+Columbia,Ghent -2,President,,Rep,Mitt Romney,228
+Columbia,Ghent -3,President,,Rep,Mitt Romney,271
+Columbia,Ghent -4,President,,Rep,Mitt Romney,144
+Columbia,Greenport -1,President,,Rep,Mitt Romney,288
+Columbia,Greenport -2,President,,Rep,Mitt Romney,205
+Columbia,Greenport -3,President,,Rep,Mitt Romney,314
+Columbia,Hillsdale -1,President,,Rep,Mitt Romney,149
+Columbia,Hillsdale -2,President,,Rep,Mitt Romney,121
+Columbia,Hudson 1-1,President,,Rep,Mitt Romney,34
+Columbia,Hudson 2-1,President,,Rep,Mitt Romney,27
+Columbia,Hudson 3-1,President,,Rep,Mitt Romney,98
+Columbia,Hudson 4-1,President,,Rep,Mitt Romney,59
+Columbia,Hudson 5-1,President,,Rep,Mitt Romney,101
+Columbia,Hudson 5-2,President,,Rep,Mitt Romney,146
+Columbia,Kinderhook -1,President,,Rep,Mitt Romney,190
+Columbia,Kinderhook -2,President,,Rep,Mitt Romney,164
+Columbia,Kinderhook -3,President,,Rep,Mitt Romney,231
+Columbia,Kinderhook -4,President,,Rep,Mitt Romney,248
+Columbia,Kinderhook -5,President,,Rep,Mitt Romney,250
+Columbia,Kinderhook -6,President,,Rep,Mitt Romney,204
+Columbia,Kinderhook -7,President,,Rep,Mitt Romney,228
+Columbia,Kinderhook -8,President,,Rep,Mitt Romney,280
+Columbia,Livingston -1,President,,Rep,Mitt Romney,436
+Columbia,Livingston -2,President,,Rep,Mitt Romney,253
+Columbia,New Lebanon -1,President,,Rep,Mitt Romney,130
+Columbia,New Lebanon -2,President,,Rep,Mitt Romney,192
+Columbia,Stockport -1,President,,Rep,Mitt Romney,248
+Columbia,Stockport -2,President,,Rep,Mitt Romney,242
+Columbia,Stuyvesant -1,President,,Rep,Mitt Romney,161
+Columbia,Stuyvesant -2,President,,Rep,Mitt Romney,214
+Columbia,Taghkanic-1,President,,Rep,Mitt Romney,252
+Columbia,Ancram -1,President,,Con,Mitt Romney,14
+Columbia,Ancram -2,President,,Con,Mitt Romney,21
+Columbia,Austerlitz -1,President,,Con,Mitt Romney,18
+Columbia,Austerlitz -2,President,,Con,Mitt Romney,16
+Columbia,Canaan -1,President,,Con,Mitt Romney,27
+Columbia,Canaan -2,President,,Con,Mitt Romney,27
+Columbia,Chatham -1,President,,Con,Mitt Romney,52
+Columbia,Chatham -2,President,,Con,Mitt Romney,25
+Columbia,Chatham -3,President,,Con,Mitt Romney,45
+Columbia,Claverack -1,President,,Con,Mitt Romney,23
+Columbia,Claverack -2,President,,Con,Mitt Romney,50
+Columbia,Claverack -3,President,,Con,Mitt Romney,34
+Columbia,Claverack -4,President,,Con,Mitt Romney,42
+Columbia,Claverack -5,President,,Con,Mitt Romney,12
+Columbia,Clermont -1,President,,Con,Mitt Romney,54
+Columbia,Copake -1,President,,Con,Mitt Romney,47
+Columbia,Copake -2,President,,Con,Mitt Romney,27
+Columbia,Gallatin -1,President,,Con,Mitt Romney,27
+Columbia,Germantown -1,President,,Con,Mitt Romney,30
+Columbia,Germantown -2,President,,Con,Mitt Romney,31
+Columbia,Ghent -1,President,,Con,Mitt Romney,37
+Columbia,Ghent -2,President,,Con,Mitt Romney,46
+Columbia,Ghent -3,President,,Con,Mitt Romney,47
+Columbia,Ghent -4,President,,Con,Mitt Romney,25
+Columbia,Greenport -1,President,,Con,Mitt Romney,36
+Columbia,Greenport -2,President,,Con,Mitt Romney,32
+Columbia,Greenport -3,President,,Con,Mitt Romney,28
+Columbia,Hillsdale -1,President,,Con,Mitt Romney,23
+Columbia,Hillsdale -2,President,,Con,Mitt Romney,19
+Columbia,Hudson 1-1,President,,Con,Mitt Romney,4
+Columbia,Hudson 2-1,President,,Con,Mitt Romney,6
+Columbia,Hudson 3-1,President,,Con,Mitt Romney,17
+Columbia,Hudson 4-1,President,,Con,Mitt Romney,10
+Columbia,Hudson 5-1,President,,Con,Mitt Romney,14
+Columbia,Hudson 5-2,President,,Con,Mitt Romney,25
+Columbia,Kinderhook -1,President,,Con,Mitt Romney,34
+Columbia,Kinderhook -2,President,,Con,Mitt Romney,25
+Columbia,Kinderhook -3,President,,Con,Mitt Romney,38
+Columbia,Kinderhook -4,President,,Con,Mitt Romney,29
+Columbia,Kinderhook -5,President,,Con,Mitt Romney,38
+Columbia,Kinderhook -6,President,,Con,Mitt Romney,46
+Columbia,Kinderhook -7,President,,Con,Mitt Romney,51
+Columbia,Kinderhook -8,President,,Con,Mitt Romney,39
+Columbia,Livingston -1,President,,Con,Mitt Romney,62
+Columbia,Livingston -2,President,,Con,Mitt Romney,33
+Columbia,New Lebanon -1,President,,Con,Mitt Romney,14
+Columbia,New Lebanon -2,President,,Con,Mitt Romney,32
+Columbia,Stockport -1,President,,Con,Mitt Romney,37
+Columbia,Stockport -2,President,,Con,Mitt Romney,37
+Columbia,Stuyvesant -1,President,,Con,Mitt Romney,48
+Columbia,Stuyvesant -2,President,,Con,Mitt Romney,38
+Columbia,Taghkanic-1,President,,Con,Mitt Romney,33
+Columbia,Ancram -1,President,,WF,Barack Obama,9
+Columbia,Ancram -2,President,,WF,Barack Obama,7
+Columbia,Austerlitz -1,President,,WF,Barack Obama,22
+Columbia,Austerlitz -2,President,,WF,Barack Obama,16
+Columbia,Canaan -1,President,,WF,Barack Obama,24
+Columbia,Canaan -2,President,,WF,Barack Obama,21
+Columbia,Chatham -1,President,,WF,Barack Obama,35
+Columbia,Chatham -2,President,,WF,Barack Obama,33
+Columbia,Chatham -3,President,,WF,Barack Obama,29
+Columbia,Claverack -1,President,,WF,Barack Obama,6
+Columbia,Claverack -2,President,,WF,Barack Obama,8
+Columbia,Claverack -3,President,,WF,Barack Obama,17
+Columbia,Claverack -4,President,,WF,Barack Obama,22
+Columbia,Claverack -5,President,,WF,Barack Obama,7
+Columbia,Clermont -1,President,,WF,Barack Obama,26
+Columbia,Copake -1,President,,WF,Barack Obama,19
+Columbia,Copake -2,President,,WF,Barack Obama,27
+Columbia,Gallatin -1,President,,WF,Barack Obama,23
+Columbia,Germantown -1,President,,WF,Barack Obama,12
+Columbia,Germantown -2,President,,WF,Barack Obama,12
+Columbia,Ghent -1,President,,WF,Barack Obama,38
+Columbia,Ghent -2,President,,WF,Barack Obama,21
+Columbia,Ghent -3,President,,WF,Barack Obama,23
+Columbia,Ghent -4,President,,WF,Barack Obama,14
+Columbia,Greenport -1,President,,WF,Barack Obama,13
+Columbia,Greenport -2,President,,WF,Barack Obama,19
+Columbia,Greenport -3,President,,WF,Barack Obama,16
+Columbia,Hillsdale -1,President,,WF,Barack Obama,16
+Columbia,Hillsdale -2,President,,WF,Barack Obama,24
+Columbia,Hudson 1-1,President,,WF,Barack Obama,12
+Columbia,Hudson 2-1,President,,WF,Barack Obama,11
+Columbia,Hudson 3-1,President,,WF,Barack Obama,27
+Columbia,Hudson 4-1,President,,WF,Barack Obama,8
+Columbia,Hudson 5-1,President,,WF,Barack Obama,13
+Columbia,Hudson 5-2,President,,WF,Barack Obama,10
+Columbia,Kinderhook -1,President,,WF,Barack Obama,25
+Columbia,Kinderhook -2,President,,WF,Barack Obama,12
+Columbia,Kinderhook -3,President,,WF,Barack Obama,18
+Columbia,Kinderhook -4,President,,WF,Barack Obama,21
+Columbia,Kinderhook -5,President,,WF,Barack Obama,25
+Columbia,Kinderhook -6,President,,WF,Barack Obama,20
+Columbia,Kinderhook -7,President,,WF,Barack Obama,25
+Columbia,Kinderhook -8,President,,WF,Barack Obama,16
+Columbia,Livingston -1,President,,WF,Barack Obama,22
+Columbia,Livingston -2,President,,WF,Barack Obama,13
+Columbia,New Lebanon -1,President,,WF,Barack Obama,17
+Columbia,New Lebanon -2,President,,WF,Barack Obama,24
+Columbia,Stockport -1,President,,WF,Barack Obama,21
+Columbia,Stockport -2,President,,WF,Barack Obama,15
+Columbia,Stuyvesant -1,President,,WF,Barack Obama,17
+Columbia,Stuyvesant -2,President,,WF,Barack Obama,18
+Columbia,Taghkanic-1,President,,WF,Barack Obama,31
+Columbia,Ancram -1,President,,Green,Jill Stein,2
+Columbia,Ancram -2,President,,Green,Jill Stein,0
+Columbia,Austerlitz -1,President,,Green,Jill Stein,5
+Columbia,Austerlitz -2,President,,Green,Jill Stein,8
+Columbia,Canaan -1,President,,Green,Jill Stein,3
+Columbia,Canaan -2,President,,Green,Jill Stein,5
+Columbia,Chatham -1,President,,Green,Jill Stein,7
+Columbia,Chatham -2,President,,Green,Jill Stein,8
+Columbia,Chatham -3,President,,Green,Jill Stein,5
+Columbia,Claverack -1,President,,Green,Jill Stein,1
+Columbia,Claverack -2,President,,Green,Jill Stein,4
+Columbia,Claverack -3,President,,Green,Jill Stein,9
+Columbia,Claverack -4,President,,Green,Jill Stein,8
+Columbia,Claverack -5,President,,Green,Jill Stein,5
+Columbia,Clermont -1,President,,Green,Jill Stein,6
+Columbia,Copake -1,President,,Green,Jill Stein,4
+Columbia,Copake -2,President,,Green,Jill Stein,2
+Columbia,Gallatin -1,President,,Green,Jill Stein,7
+Columbia,Germantown -1,President,,Green,Jill Stein,6
+Columbia,Germantown -2,President,,Green,Jill Stein,3
+Columbia,Ghent -1,President,,Green,Jill Stein,7
+Columbia,Ghent -2,President,,Green,Jill Stein,13
+Columbia,Ghent -3,President,,Green,Jill Stein,4
+Columbia,Ghent -4,President,,Green,Jill Stein,2
+Columbia,Greenport -1,President,,Green,Jill Stein,1
+Columbia,Greenport -2,President,,Green,Jill Stein,4
+Columbia,Greenport -3,President,,Green,Jill Stein,4
+Columbia,Hillsdale -1,President,,Green,Jill Stein,13
+Columbia,Hillsdale -2,President,,Green,Jill Stein,6
+Columbia,Hudson 1-1,President,,Green,Jill Stein,5
+Columbia,Hudson 2-1,President,,Green,Jill Stein,5
+Columbia,Hudson 3-1,President,,Green,Jill Stein,4
+Columbia,Hudson 4-1,President,,Green,Jill Stein,2
+Columbia,Hudson 5-1,President,,Green,Jill Stein,8
+Columbia,Hudson 5-2,President,,Green,Jill Stein,4
+Columbia,Kinderhook -1,President,,Green,Jill Stein,3
+Columbia,Kinderhook -2,President,,Green,Jill Stein,1
+Columbia,Kinderhook -3,President,,Green,Jill Stein,4
+Columbia,Kinderhook -4,President,,Green,Jill Stein,5
+Columbia,Kinderhook -5,President,,Green,Jill Stein,6
+Columbia,Kinderhook -6,President,,Green,Jill Stein,2
+Columbia,Kinderhook -7,President,,Green,Jill Stein,4
+Columbia,Kinderhook -8,President,,Green,Jill Stein,3
+Columbia,Livingston -1,President,,Green,Jill Stein,8
+Columbia,Livingston -2,President,,Green,Jill Stein,5
+Columbia,New Lebanon -1,President,,Green,Jill Stein,5
+Columbia,New Lebanon -2,President,,Green,Jill Stein,3
+Columbia,Stockport -1,President,,Green,Jill Stein,2
+Columbia,Stockport -2,President,,Green,Jill Stein,6
+Columbia,Stuyvesant -1,President,,Green,Jill Stein,7
+Columbia,Stuyvesant -2,President,,Green,Jill Stein,12
+Columbia,Taghkanic-1,President,,Green,Jill Stein,3
+Columbia,Ancram -1,President,,Soc & Lib,Peta Lindsay,1
+Columbia,Ancram -2,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Austerlitz -1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Austerlitz -2,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Canaan -1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Canaan -2,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Chatham -1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Chatham -2,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Chatham -3,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Claverack -1,President,,Soc & Lib,Peta Lindsay,1
+Columbia,Claverack -2,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Claverack -3,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Claverack -4,President,,Soc & Lib,Peta Lindsay,1
+Columbia,Claverack -5,President,,Soc & Lib,Peta Lindsay,1
+Columbia,Clermont -1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Copake -1,President,,Soc & Lib,Peta Lindsay,1
+Columbia,Copake -2,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Gallatin -1,President,,Soc & Lib,Peta Lindsay,1
+Columbia,Germantown -1,President,,Soc & Lib,Peta Lindsay,1
+Columbia,Germantown -2,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Ghent -1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Ghent -2,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Ghent -3,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Ghent -4,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Greenport -1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Greenport -2,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Greenport -3,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Hillsdale -1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Hillsdale -2,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Hudson 1-1,President,,Soc & Lib,Peta Lindsay,1
+Columbia,Hudson 2-1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Hudson 3-1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Hudson 4-1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Hudson 5-1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Hudson 5-2,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Kinderhook -1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Kinderhook -2,President,,Soc & Lib,Peta Lindsay,1
+Columbia,Kinderhook -3,President,,Soc & Lib,Peta Lindsay,1
+Columbia,Kinderhook -4,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Kinderhook -5,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Kinderhook -6,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Kinderhook -7,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Kinderhook -8,President,,Soc & Lib,Peta Lindsay,2
+Columbia,Livingston -1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Livingston -2,President,,Soc & Lib,Peta Lindsay,0
+Columbia,New Lebanon -1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,New Lebanon -2,President,,Soc & Lib,Peta Lindsay,1
+Columbia,Stockport -1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Stockport -2,President,,Soc & Lib,Peta Lindsay,1
+Columbia,Stuyvesant -1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Stuyvesant -2,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Taghkanic-1,President,,Soc & Lib,Peta Lindsay,0
+Columbia,Ancram -1,President,,Lbt,Gary Johnson,2
+Columbia,Ancram -2,President,,Lbt,Gary Johnson,1
+Columbia,Austerlitz -1,President,,Lbt,Gary Johnson,5
+Columbia,Austerlitz -2,President,,Lbt,Gary Johnson,4
+Columbia,Canaan -1,President,,Lbt,Gary Johnson,4
+Columbia,Canaan -2,President,,Lbt,Gary Johnson,2
+Columbia,Chatham -1,President,,Lbt,Gary Johnson,9
+Columbia,Chatham -2,President,,Lbt,Gary Johnson,7
+Columbia,Chatham -3,President,,Lbt,Gary Johnson,14
+Columbia,Claverack -1,President,,Lbt,Gary Johnson,7
+Columbia,Claverack -2,President,,Lbt,Gary Johnson,5
+Columbia,Claverack -3,President,,Lbt,Gary Johnson,9
+Columbia,Claverack -4,President,,Lbt,Gary Johnson,6
+Columbia,Claverack -5,President,,Lbt,Gary Johnson,0
+Columbia,Clermont -1,President,,Lbt,Gary Johnson,13
+Columbia,Copake -1,President,,Lbt,Gary Johnson,10
+Columbia,Copake -2,President,,Lbt,Gary Johnson,9
+Columbia,Gallatin -1,President,,Lbt,Gary Johnson,11
+Columbia,Germantown -1,President,,Lbt,Gary Johnson,5
+Columbia,Germantown -2,President,,Lbt,Gary Johnson,5
+Columbia,Ghent -1,President,,Lbt,Gary Johnson,10
+Columbia,Ghent -2,President,,Lbt,Gary Johnson,7
+Columbia,Ghent -3,President,,Lbt,Gary Johnson,5
+Columbia,Ghent -4,President,,Lbt,Gary Johnson,3
+Columbia,Greenport -1,President,,Lbt,Gary Johnson,4
+Columbia,Greenport -2,President,,Lbt,Gary Johnson,1
+Columbia,Greenport -3,President,,Lbt,Gary Johnson,2
+Columbia,Hillsdale -1,President,,Lbt,Gary Johnson,4
+Columbia,Hillsdale -2,President,,Lbt,Gary Johnson,1
+Columbia,Hudson 1-1,President,,Lbt,Gary Johnson,3
+Columbia,Hudson 2-1,President,,Lbt,Gary Johnson,1
+Columbia,Hudson 3-1,President,,Lbt,Gary Johnson,7
+Columbia,Hudson 4-1,President,,Lbt,Gary Johnson,1
+Columbia,Hudson 5-1,President,,Lbt,Gary Johnson,5
+Columbia,Hudson 5-2,President,,Lbt,Gary Johnson,3
+Columbia,Kinderhook -1,President,,Lbt,Gary Johnson,7
+Columbia,Kinderhook -2,President,,Lbt,Gary Johnson,8
+Columbia,Kinderhook -3,President,,Lbt,Gary Johnson,11
+Columbia,Kinderhook -4,President,,Lbt,Gary Johnson,11
+Columbia,Kinderhook -5,President,,Lbt,Gary Johnson,5
+Columbia,Kinderhook -6,President,,Lbt,Gary Johnson,14
+Columbia,Kinderhook -7,President,,Lbt,Gary Johnson,6
+Columbia,Kinderhook -8,President,,Lbt,Gary Johnson,3
+Columbia,Livingston -1,President,,Lbt,Gary Johnson,7
+Columbia,Livingston -2,President,,Lbt,Gary Johnson,5
+Columbia,New Lebanon -1,President,,Lbt,Gary Johnson,7
+Columbia,New Lebanon -2,President,,Lbt,Gary Johnson,5
+Columbia,Stockport -1,President,,Lbt,Gary Johnson,4
+Columbia,Stockport -2,President,,Lbt,Gary Johnson,2
+Columbia,Stuyvesant -1,President,,Lbt,Gary Johnson,8
+Columbia,Stuyvesant -2,President,,Lbt,Gary Johnson,4
+Columbia,Taghkanic-1,President,,Lbt,Gary Johnson,7
+Columbia,Ancram -1,President,,Const,Virgil Goode,1
+Columbia,Ancram -2,President,,Const,Virgil Goode,0
+Columbia,Austerlitz -1,President,,Const,Virgil Goode,0
+Columbia,Austerlitz -2,President,,Const,Virgil Goode,0
+Columbia,Canaan -1,President,,Const,Virgil Goode,0
+Columbia,Canaan -2,President,,Const,Virgil Goode,1
+Columbia,Chatham -1,President,,Const,Virgil Goode,1
+Columbia,Chatham -2,President,,Const,Virgil Goode,2
+Columbia,Chatham -3,President,,Const,Virgil Goode,4
+Columbia,Claverack -1,President,,Const,Virgil Goode,0
+Columbia,Claverack -2,President,,Const,Virgil Goode,0
+Columbia,Claverack -3,President,,Const,Virgil Goode,0
+Columbia,Claverack -4,President,,Const,Virgil Goode,0
+Columbia,Claverack -5,President,,Const,Virgil Goode,1
+Columbia,Clermont -1,President,,Const,Virgil Goode,2
+Columbia,Copake -1,President,,Const,Virgil Goode,1
+Columbia,Copake -2,President,,Const,Virgil Goode,0
+Columbia,Gallatin -1,President,,Const,Virgil Goode,1
+Columbia,Germantown -1,President,,Const,Virgil Goode,0
+Columbia,Germantown -2,President,,Const,Virgil Goode,1
+Columbia,Ghent -1,President,,Const,Virgil Goode,1
+Columbia,Ghent -2,President,,Const,Virgil Goode,1
+Columbia,Ghent -3,President,,Const,Virgil Goode,0
+Columbia,Ghent -4,President,,Const,Virgil Goode,0
+Columbia,Greenport -1,President,,Const,Virgil Goode,1
+Columbia,Greenport -2,President,,Const,Virgil Goode,0
+Columbia,Greenport -3,President,,Const,Virgil Goode,0
+Columbia,Hillsdale -1,President,,Const,Virgil Goode,0
+Columbia,Hillsdale -2,President,,Const,Virgil Goode,0
+Columbia,Hudson 1-1,President,,Const,Virgil Goode,0
+Columbia,Hudson 2-1,President,,Const,Virgil Goode,0
+Columbia,Hudson 3-1,President,,Const,Virgil Goode,0
+Columbia,Hudson 4-1,President,,Const,Virgil Goode,0
+Columbia,Hudson 5-1,President,,Const,Virgil Goode,0
+Columbia,Hudson 5-2,President,,Const,Virgil Goode,1
+Columbia,Kinderhook -1,President,,Const,Virgil Goode,1
+Columbia,Kinderhook -2,President,,Const,Virgil Goode,0
+Columbia,Kinderhook -3,President,,Const,Virgil Goode,2
+Columbia,Kinderhook -4,President,,Const,Virgil Goode,0
+Columbia,Kinderhook -5,President,,Const,Virgil Goode,1
+Columbia,Kinderhook -6,President,,Const,Virgil Goode,3
+Columbia,Kinderhook -7,President,,Const,Virgil Goode,0
+Columbia,Kinderhook -8,President,,Const,Virgil Goode,1
+Columbia,Livingston -1,President,,Const,Virgil Goode,4
+Columbia,Livingston -2,President,,Const,Virgil Goode,0
+Columbia,New Lebanon -1,President,,Const,Virgil Goode,0
+Columbia,New Lebanon -2,President,,Const,Virgil Goode,1
+Columbia,Stockport -1,President,,Const,Virgil Goode,3
+Columbia,Stockport -2,President,,Const,Virgil Goode,2
+Columbia,Stuyvesant -1,President,,Const,Virgil Goode,1
+Columbia,Stuyvesant -2,President,,Const,Virgil Goode,2
+Columbia,Taghkanic-1,President,,Const,Virgil Goode,1
+Columbia,Ancram -1,President,,,writeins,3
+Columbia,Ancram -2,President,,,writeins,0
+Columbia,Austerlitz -1,President,,,writeins,3
+Columbia,Austerlitz -2,President,,,writeins,2
+Columbia,Canaan -1,President,,,writeins,0
+Columbia,Canaan -2,President,,,writeins,2
+Columbia,Chatham -1,President,,,writeins,3
+Columbia,Chatham -2,President,,,writeins,0
+Columbia,Chatham -3,President,,,writeins,3
+Columbia,Claverack -1,President,,,writeins,0
+Columbia,Claverack -2,President,,,writeins,3
+Columbia,Claverack -3,President,,,writeins,1
+Columbia,Claverack -4,President,,,writeins,0
+Columbia,Claverack -5,President,,,writeins,2
+Columbia,Clermont -1,President,,,writeins,3
+Columbia,Copake -1,President,,,writeins,1
+Columbia,Copake -2,President,,,writeins,4
+Columbia,Gallatin -1,President,,,writeins,2
+Columbia,Germantown -1,President,,,writeins,2
+Columbia,Germantown -2,President,,,writeins,0
+Columbia,Ghent -1,President,,,writeins,6
+Columbia,Ghent -2,President,,,writeins,0
+Columbia,Ghent -3,President,,,writeins,1
+Columbia,Ghent -4,President,,,writeins,1
+Columbia,Greenport -1,President,,,writeins,0
+Columbia,Greenport -2,President,,,writeins,1
+Columbia,Greenport -3,President,,,writeins,1
+Columbia,Hillsdale -1,President,,,writeins,0
+Columbia,Hillsdale -2,President,,,writeins,0
+Columbia,Hudson 1-1,President,,,writeins,1
+Columbia,Hudson 2-1,President,,,writeins,0
+Columbia,Hudson 3-1,President,,,writeins,1
+Columbia,Hudson 4-1,President,,,writeins,0
+Columbia,Hudson 5-1,President,,,writeins,1
+Columbia,Hudson 5-2,President,,,writeins,1
+Columbia,Kinderhook -1,President,,,writeins,0
+Columbia,Kinderhook -2,President,,,writeins,2
+Columbia,Kinderhook -3,President,,,writeins,2
+Columbia,Kinderhook -4,President,,,writeins,4
+Columbia,Kinderhook -5,President,,,writeins,1
+Columbia,Kinderhook -6,President,,,writeins,1
+Columbia,Kinderhook -7,President,,,writeins,3
+Columbia,Kinderhook -8,President,,,writeins,1
+Columbia,Livingston -1,President,,,writeins,0
+Columbia,Livingston -2,President,,,writeins,0
+Columbia,New Lebanon -1,President,,,writeins,4
+Columbia,New Lebanon -2,President,,,writeins,1
+Columbia,Stockport -1,President,,,writeins,0
+Columbia,Stockport -2,President,,,writeins,1
+Columbia,Stuyvesant -1,President,,,writeins,2
+Columbia,Stuyvesant -2,President,,,writeins,0
+Columbia,Taghkanic-1,President,,,writeins,0
+Columbia,Ancram -1,State Senate,Sen43,Rep,Kathleen Marchione,140
+Columbia,Ancram -2,State Senate,Sen43,Rep,Kathleen Marchione,116
+Columbia,Austerlitz -1,State Senate,Sen43,Rep,Kathleen Marchione,146
+Columbia,Austerlitz -2,State Senate,Sen43,Rep,Kathleen Marchione,145
+Columbia,Canaan -1,State Senate,Sen43,Rep,Kathleen Marchione,111
+Columbia,Canaan -2,State Senate,Sen43,Rep,Kathleen Marchione,134
+Columbia,Chatham -1,State Senate,Sen43,Rep,Kathleen Marchione,211
+Columbia,Chatham -2,State Senate,Sen43,Rep,Kathleen Marchione,171
+Columbia,Chatham -3,State Senate,Sen43,Rep,Kathleen Marchione,325
+Columbia,Claverack -1,State Senate,Sen43,Rep,Kathleen Marchione,209
+Columbia,Claverack -2,State Senate,Sen43,Rep,Kathleen Marchione,261
+Columbia,Claverack -3,State Senate,Sen43,Rep,Kathleen Marchione,174
+Columbia,Claverack -4,State Senate,Sen43,Rep,Kathleen Marchione,224
+Columbia,Claverack -5,State Senate,Sen43,Rep,Kathleen Marchione,150
+Columbia,Clermont -1,State Senate,Sen43,Rep,Kathleen Marchione,348
+Columbia,Copake -1,State Senate,Sen43,Rep,Kathleen Marchione,247
+Columbia,Copake -2,State Senate,Sen43,Rep,Kathleen Marchione,288
+Columbia,Gallatin -1,State Senate,Sen43,Rep,Kathleen Marchione,303
+Columbia,Germantown -1,State Senate,Sen43,Rep,Kathleen Marchione,212
+Columbia,Germantown -2,State Senate,Sen43,Rep,Kathleen Marchione,168
+Columbia,Ghent -1,State Senate,Sen43,Rep,Kathleen Marchione,237
+Columbia,Ghent -2,State Senate,Sen43,Rep,Kathleen Marchione,211
+Columbia,Ghent -3,State Senate,Sen43,Rep,Kathleen Marchione,251
+Columbia,Ghent -4,State Senate,Sen43,Rep,Kathleen Marchione,139
+Columbia,Greenport -1,State Senate,Sen43,Rep,Kathleen Marchione,289
+Columbia,Greenport -2,State Senate,Sen43,Rep,Kathleen Marchione,199
+Columbia,Greenport -3,State Senate,Sen43,Rep,Kathleen Marchione,305
+Columbia,Hillsdale -1,State Senate,Sen43,Rep,Kathleen Marchione,142
+Columbia,Hillsdale -2,State Senate,Sen43,Rep,Kathleen Marchione,116
+Columbia,Hudson 1-1,State Senate,Sen43,Rep,Kathleen Marchione,31
+Columbia,Hudson 2-1,State Senate,Sen43,Rep,Kathleen Marchione,35
+Columbia,Hudson 3-1,State Senate,Sen43,Rep,Kathleen Marchione,93
+Columbia,Hudson 4-1,State Senate,Sen43,Rep,Kathleen Marchione,66
+Columbia,Hudson 5-1,State Senate,Sen43,Rep,Kathleen Marchione,106
+Columbia,Hudson 5-2,State Senate,Sen43,Rep,Kathleen Marchione,150
+Columbia,Kinderhook -1,State Senate,Sen43,Rep,Kathleen Marchione,181
+Columbia,Kinderhook -2,State Senate,Sen43,Rep,Kathleen Marchione,160
+Columbia,Kinderhook -3,State Senate,Sen43,Rep,Kathleen Marchione,227
+Columbia,Kinderhook -4,State Senate,Sen43,Rep,Kathleen Marchione,216
+Columbia,Kinderhook -5,State Senate,Sen43,Rep,Kathleen Marchione,245
+Columbia,Kinderhook -6,State Senate,Sen43,Rep,Kathleen Marchione,203
+Columbia,Kinderhook -7,State Senate,Sen43,Rep,Kathleen Marchione,234
+Columbia,Kinderhook -8,State Senate,Sen43,Rep,Kathleen Marchione,256
+Columbia,Livingston -1,State Senate,Sen43,Rep,Kathleen Marchione,382
+Columbia,Livingston -2,State Senate,Sen43,Rep,Kathleen Marchione,240
+Columbia,New Lebanon -1,State Senate,Sen43,Rep,Kathleen Marchione,143
+Columbia,New Lebanon -2,State Senate,Sen43,Rep,Kathleen Marchione,206
+Columbia,Stockport -1,State Senate,Sen43,Rep,Kathleen Marchione,254
+Columbia,Stockport -2,State Senate,Sen43,Rep,Kathleen Marchione,240
+Columbia,Stuyvesant -1,State Senate,Sen43,Rep,Kathleen Marchione,167
+Columbia,Stuyvesant -2,State Senate,Sen43,Rep,Kathleen Marchione,219
+Columbia,Taghkanic-1,State Senate,Sen43,Rep,Kathleen Marchione,227
+Columbia,Ancram -1,State Senate,Sen43,Con,Kathleen Marchione,17
+Columbia,Ancram -2,State Senate,Sen43,Con,Kathleen Marchione,18
+Columbia,Austerlitz -1,State Senate,Sen43,Con,Kathleen Marchione,22
+Columbia,Austerlitz -2,State Senate,Sen43,Con,Kathleen Marchione,17
+Columbia,Canaan -1,State Senate,Sen43,Con,Kathleen Marchione,29
+Columbia,Canaan -2,State Senate,Sen43,Con,Kathleen Marchione,19
+Columbia,Chatham -1,State Senate,Sen43,Con,Kathleen Marchione,58
+Columbia,Chatham -2,State Senate,Sen43,Con,Kathleen Marchione,31
+Columbia,Chatham -3,State Senate,Sen43,Con,Kathleen Marchione,52
+Columbia,Claverack -1,State Senate,Sen43,Con,Kathleen Marchione,27
+Columbia,Claverack -2,State Senate,Sen43,Con,Kathleen Marchione,46
+Columbia,Claverack -3,State Senate,Sen43,Con,Kathleen Marchione,35
+Columbia,Claverack -4,State Senate,Sen43,Con,Kathleen Marchione,33
+Columbia,Claverack -5,State Senate,Sen43,Con,Kathleen Marchione,16
+Columbia,Clermont -1,State Senate,Sen43,Con,Kathleen Marchione,66
+Columbia,Copake -1,State Senate,Sen43,Con,Kathleen Marchione,51
+Columbia,Copake -2,State Senate,Sen43,Con,Kathleen Marchione,37
+Columbia,Gallatin -1,State Senate,Sen43,Con,Kathleen Marchione,32
+Columbia,Germantown -1,State Senate,Sen43,Con,Kathleen Marchione,30
+Columbia,Germantown -2,State Senate,Sen43,Con,Kathleen Marchione,28
+Columbia,Ghent -1,State Senate,Sen43,Con,Kathleen Marchione,40
+Columbia,Ghent -2,State Senate,Sen43,Con,Kathleen Marchione,37
+Columbia,Ghent -3,State Senate,Sen43,Con,Kathleen Marchione,44
+Columbia,Ghent -4,State Senate,Sen43,Con,Kathleen Marchione,24
+Columbia,Greenport -1,State Senate,Sen43,Con,Kathleen Marchione,35
+Columbia,Greenport -2,State Senate,Sen43,Con,Kathleen Marchione,31
+Columbia,Greenport -3,State Senate,Sen43,Con,Kathleen Marchione,44
+Columbia,Hillsdale -1,State Senate,Sen43,Con,Kathleen Marchione,24
+Columbia,Hillsdale -2,State Senate,Sen43,Con,Kathleen Marchione,20
+Columbia,Hudson 1-1,State Senate,Sen43,Con,Kathleen Marchione,5
+Columbia,Hudson 2-1,State Senate,Sen43,Con,Kathleen Marchione,13
+Columbia,Hudson 3-1,State Senate,Sen43,Con,Kathleen Marchione,20
+Columbia,Hudson 4-1,State Senate,Sen43,Con,Kathleen Marchione,15
+Columbia,Hudson 5-1,State Senate,Sen43,Con,Kathleen Marchione,13
+Columbia,Hudson 5-2,State Senate,Sen43,Con,Kathleen Marchione,29
+Columbia,Kinderhook -1,State Senate,Sen43,Con,Kathleen Marchione,29
+Columbia,Kinderhook -2,State Senate,Sen43,Con,Kathleen Marchione,34
+Columbia,Kinderhook -3,State Senate,Sen43,Con,Kathleen Marchione,46
+Columbia,Kinderhook -4,State Senate,Sen43,Con,Kathleen Marchione,42
+Columbia,Kinderhook -5,State Senate,Sen43,Con,Kathleen Marchione,54
+Columbia,Kinderhook -6,State Senate,Sen43,Con,Kathleen Marchione,51
+Columbia,Kinderhook -7,State Senate,Sen43,Con,Kathleen Marchione,58
+Columbia,Kinderhook -8,State Senate,Sen43,Con,Kathleen Marchione,47
+Columbia,Livingston -1,State Senate,Sen43,Con,Kathleen Marchione,66
+Columbia,Livingston -2,State Senate,Sen43,Con,Kathleen Marchione,34
+Columbia,New Lebanon -1,State Senate,Sen43,Con,Kathleen Marchione,18
+Columbia,New Lebanon -2,State Senate,Sen43,Con,Kathleen Marchione,35
+Columbia,Stockport -1,State Senate,Sen43,Con,Kathleen Marchione,50
+Columbia,Stockport -2,State Senate,Sen43,Con,Kathleen Marchione,42
+Columbia,Stuyvesant -1,State Senate,Sen43,Con,Kathleen Marchione,43
+Columbia,Stuyvesant -2,State Senate,Sen43,Con,Kathleen Marchione,40
+Columbia,Taghkanic-1,State Senate,Sen43,Con,Kathleen Marchione,26
+Columbia,Ancram -1,State Senate,Sen43,Dem,Robin Andrews,178
+Columbia,Ancram -2,State Senate,Sen43,Dem,Robin Andrews,143
+Columbia,Austerlitz -1,State Senate,Sen43,Dem,Robin Andrews,244
+Columbia,Austerlitz -2,State Senate,Sen43,Dem,Robin Andrews,264
+Columbia,Canaan -1,State Senate,Sen43,Dem,Robin Andrews,283
+Columbia,Canaan -2,State Senate,Sen43,Dem,Robin Andrews,208
+Columbia,Chatham -1,State Senate,Sen43,Dem,Robin Andrews,381
+Columbia,Chatham -2,State Senate,Sen43,Dem,Robin Andrews,300
+Columbia,Chatham -3,State Senate,Sen43,Dem,Robin Andrews,395
+Columbia,Claverack -1,State Senate,Sen43,Dem,Robin Andrews,224
+Columbia,Claverack -2,State Senate,Sen43,Dem,Robin Andrews,284
+Columbia,Claverack -3,State Senate,Sen43,Dem,Robin Andrews,302
+Columbia,Claverack -4,State Senate,Sen43,Dem,Robin Andrews,352
+Columbia,Claverack -5,State Senate,Sen43,Dem,Robin Andrews,153
+Columbia,Clermont -1,State Senate,Sen43,Dem,Robin Andrews,308
+Columbia,Copake -1,State Senate,Sen43,Dem,Robin Andrews,371
+Columbia,Copake -2,State Senate,Sen43,Dem,Robin Andrews,327
+Columbia,Gallatin -1,State Senate,Sen43,Dem,Robin Andrews,260
+Columbia,Germantown -1,State Senate,Sen43,Dem,Robin Andrews,250
+Columbia,Germantown -2,State Senate,Sen43,Dem,Robin Andrews,211
+Columbia,Ghent -1,State Senate,Sen43,Dem,Robin Andrews,402
+Columbia,Ghent -2,State Senate,Sen43,Dem,Robin Andrews,361
+Columbia,Ghent -3,State Senate,Sen43,Dem,Robin Andrews,239
+Columbia,Ghent -4,State Senate,Sen43,Dem,Robin Andrews,157
+Columbia,Greenport -1,State Senate,Sen43,Dem,Robin Andrews,243
+Columbia,Greenport -2,State Senate,Sen43,Dem,Robin Andrews,215
+Columbia,Greenport -3,State Senate,Sen43,Dem,Robin Andrews,263
+Columbia,Hillsdale -1,State Senate,Sen43,Dem,Robin Andrews,266
+Columbia,Hillsdale -2,State Senate,Sen43,Dem,Robin Andrews,274
+Columbia,Hudson 1-1,State Senate,Sen43,Dem,Robin Andrews,191
+Columbia,Hudson 2-1,State Senate,Sen43,Dem,Robin Andrews,313
+Columbia,Hudson 3-1,State Senate,Sen43,Dem,Robin Andrews,303
+Columbia,Hudson 4-1,State Senate,Sen43,Dem,Robin Andrews,234
+Columbia,Hudson 5-1,State Senate,Sen43,Dem,Robin Andrews,258
+Columbia,Hudson 5-2,State Senate,Sen43,Dem,Robin Andrews,221
+Columbia,Kinderhook -1,State Senate,Sen43,Dem,Robin Andrews,256
+Columbia,Kinderhook -2,State Senate,Sen43,Dem,Robin Andrews,198
+Columbia,Kinderhook -3,State Senate,Sen43,Dem,Robin Andrews,236
+Columbia,Kinderhook -4,State Senate,Sen43,Dem,Robin Andrews,232
+Columbia,Kinderhook -5,State Senate,Sen43,Dem,Robin Andrews,231
+Columbia,Kinderhook -6,State Senate,Sen43,Dem,Robin Andrews,182
+Columbia,Kinderhook -7,State Senate,Sen43,Dem,Robin Andrews,218
+Columbia,Kinderhook -8,State Senate,Sen43,Dem,Robin Andrews,226
+Columbia,Livingston -1,State Senate,Sen43,Dem,Robin Andrews,359
+Columbia,Livingston -2,State Senate,Sen43,Dem,Robin Andrews,229
+Columbia,New Lebanon -1,State Senate,Sen43,Dem,Robin Andrews,239
+Columbia,New Lebanon -2,State Senate,Sen43,Dem,Robin Andrews,249
+Columbia,Stockport -1,State Senate,Sen43,Dem,Robin Andrews,195
+Columbia,Stockport -2,State Senate,Sen43,Dem,Robin Andrews,216
+Columbia,Stuyvesant -1,State Senate,Sen43,Dem,Robin Andrews,163
+Columbia,Stuyvesant -2,State Senate,Sen43,Dem,Robin Andrews,244
+Columbia,Taghkanic-1,State Senate,Sen43,Dem,Robin Andrews,353
+Columbia,Ancram -1,State Senate,Sen43,Ind,Roy McDonald,16
+Columbia,Ancram -2,State Senate,Sen43,Ind,Roy McDonald,20
+Columbia,Austerlitz -1,State Senate,Sen43,Ind,Roy McDonald,34
+Columbia,Austerlitz -2,State Senate,Sen43,Ind,Roy McDonald,29
+Columbia,Canaan -1,State Senate,Sen43,Ind,Roy McDonald,35
+Columbia,Canaan -2,State Senate,Sen43,Ind,Roy McDonald,33
+Columbia,Chatham -1,State Senate,Sen43,Ind,Roy McDonald,43
+Columbia,Chatham -2,State Senate,Sen43,Ind,Roy McDonald,46
+Columbia,Chatham -3,State Senate,Sen43,Ind,Roy McDonald,71
+Columbia,Claverack -1,State Senate,Sen43,Ind,Roy McDonald,30
+Columbia,Claverack -2,State Senate,Sen43,Ind,Roy McDonald,26
+Columbia,Claverack -3,State Senate,Sen43,Ind,Roy McDonald,21
+Columbia,Claverack -4,State Senate,Sen43,Ind,Roy McDonald,32
+Columbia,Claverack -5,State Senate,Sen43,Ind,Roy McDonald,18
+Columbia,Clermont -1,State Senate,Sen43,Ind,Roy McDonald,52
+Columbia,Copake -1,State Senate,Sen43,Ind,Roy McDonald,43
+Columbia,Copake -2,State Senate,Sen43,Ind,Roy McDonald,60
+Columbia,Gallatin -1,State Senate,Sen43,Ind,Roy McDonald,40
+Columbia,Germantown -1,State Senate,Sen43,Ind,Roy McDonald,31
+Columbia,Germantown -2,State Senate,Sen43,Ind,Roy McDonald,38
+Columbia,Ghent -1,State Senate,Sen43,Ind,Roy McDonald,69
+Columbia,Ghent -2,State Senate,Sen43,Ind,Roy McDonald,61
+Columbia,Ghent -3,State Senate,Sen43,Ind,Roy McDonald,38
+Columbia,Ghent -4,State Senate,Sen43,Ind,Roy McDonald,22
+Columbia,Greenport -1,State Senate,Sen43,Ind,Roy McDonald,42
+Columbia,Greenport -2,State Senate,Sen43,Ind,Roy McDonald,21
+Columbia,Greenport -3,State Senate,Sen43,Ind,Roy McDonald,40
+Columbia,Hillsdale -1,State Senate,Sen43,Ind,Roy McDonald,19
+Columbia,Hillsdale -2,State Senate,Sen43,Ind,Roy McDonald,28
+Columbia,Hudson 1-1,State Senate,Sen43,Ind,Roy McDonald,17
+Columbia,Hudson 2-1,State Senate,Sen43,Ind,Roy McDonald,15
+Columbia,Hudson 3-1,State Senate,Sen43,Ind,Roy McDonald,24
+Columbia,Hudson 4-1,State Senate,Sen43,Ind,Roy McDonald,11
+Columbia,Hudson 5-1,State Senate,Sen43,Ind,Roy McDonald,35
+Columbia,Hudson 5-2,State Senate,Sen43,Ind,Roy McDonald,28
+Columbia,Kinderhook -1,State Senate,Sen43,Ind,Roy McDonald,39
+Columbia,Kinderhook -2,State Senate,Sen43,Ind,Roy McDonald,53
+Columbia,Kinderhook -3,State Senate,Sen43,Ind,Roy McDonald,49
+Columbia,Kinderhook -4,State Senate,Sen43,Ind,Roy McDonald,65
+Columbia,Kinderhook -5,State Senate,Sen43,Ind,Roy McDonald,48
+Columbia,Kinderhook -6,State Senate,Sen43,Ind,Roy McDonald,49
+Columbia,Kinderhook -7,State Senate,Sen43,Ind,Roy McDonald,55
+Columbia,Kinderhook -8,State Senate,Sen43,Ind,Roy McDonald,57
+Columbia,Livingston -1,State Senate,Sen43,Ind,Roy McDonald,62
+Columbia,Livingston -2,State Senate,Sen43,Ind,Roy McDonald,38
+Columbia,New Lebanon -1,State Senate,Sen43,Ind,Roy McDonald,43
+Columbia,New Lebanon -2,State Senate,Sen43,Ind,Roy McDonald,46
+Columbia,Stockport -1,State Senate,Sen43,Ind,Roy McDonald,45
+Columbia,Stockport -2,State Senate,Sen43,Ind,Roy McDonald,33
+Columbia,Stuyvesant -1,State Senate,Sen43,Ind,Roy McDonald,44
+Columbia,Stuyvesant -2,State Senate,Sen43,Ind,Roy McDonald,44
+Columbia,Taghkanic-1,State Senate,Sen43,Ind,Roy McDonald,31
+Columbia,Ancram -1,State Senate,Sen43,Ind,write-in,0
+Columbia,Ancram -2,State Senate,Sen43,Ind,write-in,0
+Columbia,Austerlitz -1,State Senate,Sen43,Ind,write-in,0
+Columbia,Austerlitz -2,State Senate,Sen43,Ind,write-in,1
+Columbia,Canaan -1,State Senate,Sen43,Ind,write-in,0
+Columbia,Canaan -2,State Senate,Sen43,Ind,write-in,0
+Columbia,Chatham -1,State Senate,Sen43,Ind,write-in,0
+Columbia,Chatham -2,State Senate,Sen43,Ind,write-in,0
+Columbia,Chatham -3,State Senate,Sen43,Ind,write-in,0
+Columbia,Claverack -1,State Senate,Sen43,Ind,write-in,1
+Columbia,Claverack -2,State Senate,Sen43,Ind,write-in,0
+Columbia,Claverack -3,State Senate,Sen43,Ind,write-in,0
+Columbia,Claverack -4,State Senate,Sen43,Ind,write-in,1
+Columbia,Claverack -5,State Senate,Sen43,Ind,write-in,0
+Columbia,Clermont -1,State Senate,Sen43,Ind,write-in,0
+Columbia,Copake -1,State Senate,Sen43,Ind,write-in,0
+Columbia,Copake -2,State Senate,Sen43,Ind,write-in,0
+Columbia,Gallatin -1,State Senate,Sen43,Ind,write-in,0
+Columbia,Germantown -1,State Senate,Sen43,Ind,write-in,0
+Columbia,Germantown -2,State Senate,Sen43,Ind,write-in,0
+Columbia,Ghent -1,State Senate,Sen43,Ind,write-in,1
+Columbia,Ghent -2,State Senate,Sen43,Ind,write-in,0
+Columbia,Ghent -3,State Senate,Sen43,Ind,write-in,0
+Columbia,Ghent -4,State Senate,Sen43,Ind,write-in,0
+Columbia,Greenport -1,State Senate,Sen43,Ind,write-in,0
+Columbia,Greenport -2,State Senate,Sen43,Ind,write-in,0
+Columbia,Greenport -3,State Senate,Sen43,Ind,write-in,0
+Columbia,Hillsdale -1,State Senate,Sen43,Ind,write-in,0
+Columbia,Hillsdale -2,State Senate,Sen43,Ind,write-in,0
+Columbia,Hudson 1-1,State Senate,Sen43,Ind,write-in,0
+Columbia,Hudson 2-1,State Senate,Sen43,Ind,write-in,0
+Columbia,Hudson 3-1,State Senate,Sen43,Ind,write-in,0
+Columbia,Hudson 4-1,State Senate,Sen43,Ind,write-in,0
+Columbia,Hudson 5-1,State Senate,Sen43,Ind,write-in,0
+Columbia,Hudson 5-2,State Senate,Sen43,Ind,write-in,0
+Columbia,Kinderhook -1,State Senate,Sen43,Ind,write-in,0
+Columbia,Kinderhook -2,State Senate,Sen43,Ind,write-in,1
+Columbia,Kinderhook -3,State Senate,Sen43,Ind,write-in,0
+Columbia,Kinderhook -4,State Senate,Sen43,Ind,write-in,0
+Columbia,Kinderhook -5,State Senate,Sen43,Ind,write-in,0
+Columbia,Kinderhook -6,State Senate,Sen43,Ind,write-in,1
+Columbia,Kinderhook -7,State Senate,Sen43,Ind,write-in,0
+Columbia,Kinderhook -8,State Senate,Sen43,Ind,write-in,0
+Columbia,Livingston -1,State Senate,Sen43,Ind,write-in,0
+Columbia,Livingston -2,State Senate,Sen43,Ind,write-in,0
+Columbia,New Lebanon -1,State Senate,Sen43,Ind,write-in,0
+Columbia,New Lebanon -2,State Senate,Sen43,Ind,write-in,0
+Columbia,Stockport -1,State Senate,Sen43,Ind,write-in,0
+Columbia,Stockport -2,State Senate,Sen43,Ind,write-in,0
+Columbia,Stuyvesant -1,State Senate,Sen43,Ind,write-in,0
+Columbia,Stuyvesant -2,State Senate,Sen43,Ind,write-in,1
+Columbia,Taghkanic-1,State Senate,Sen43,Ind,write-in,0
+Columbia,Ancram -1,US House,CD19,Dem,Julian Schreibman,170
+Columbia,Ancram -2,US House,CD19,Dem,Julian Schreibman,136
+Columbia,Austerlitz -1,US House,CD19,Dem,Julian Schreibman,226
+Columbia,Austerlitz -2,US House,CD19,Dem,Julian Schreibman,240
+Columbia,Canaan -1,US House,CD19,Dem,Julian Schreibman,270
+Columbia,Canaan -2,US House,CD19,Dem,Julian Schreibman,185
+Columbia,Chatham -1,US House,CD19,Dem,Julian Schreibman,337
+Columbia,Chatham -2,US House,CD19,Dem,Julian Schreibman,256
+Columbia,Chatham -3,US House,CD19,Dem,Julian Schreibman,360
+Columbia,Claverack -1,US House,CD19,Dem,Julian Schreibman,155
+Columbia,Claverack -2,US House,CD19,Dem,Julian Schreibman,216
+Columbia,Claverack -3,US House,CD19,Dem,Julian Schreibman,198
+Columbia,Claverack -4,US House,CD19,Dem,Julian Schreibman,278
+Columbia,Claverack -5,US House,CD19,Dem,Julian Schreibman,115
+Columbia,Clermont -1,US House,CD19,Dem,Julian Schreibman,313
+Columbia,Copake -1,US House,CD19,Dem,Julian Schreibman,364
+Columbia,Copake -2,US House,CD19,Dem,Julian Schreibman,311
+Columbia,Gallatin -1,US House,CD19,Dem,Julian Schreibman,254
+Columbia,Germantown -1,US House,CD19,Dem,Julian Schreibman,230
+Columbia,Germantown -2,US House,CD19,Dem,Julian Schreibman,204
+Columbia,Ghent -1,US House,CD19,Dem,Julian Schreibman,346
+Columbia,Ghent -2,US House,CD19,Dem,Julian Schreibman,299
+Columbia,Ghent -3,US House,CD19,Dem,Julian Schreibman,185
+Columbia,Ghent -4,US House,CD19,Dem,Julian Schreibman,125
+Columbia,Greenport -1,US House,CD19,Dem,Julian Schreibman,215
+Columbia,Greenport -2,US House,CD19,Dem,Julian Schreibman,172
+Columbia,Greenport -3,US House,CD19,Dem,Julian Schreibman,235
+Columbia,Hillsdale -1,US House,CD19,Dem,Julian Schreibman,233
+Columbia,Hillsdale -2,US House,CD19,Dem,Julian Schreibman,242
+Columbia,Hudson 1-1,US House,CD19,Dem,Julian Schreibman,182
+Columbia,Hudson 2-1,US House,CD19,Dem,Julian Schreibman,317
+Columbia,Hudson 3-1,US House,CD19,Dem,Julian Schreibman,286
+Columbia,Hudson 4-1,US House,CD19,Dem,Julian Schreibman,238
+Columbia,Hudson 5-1,US House,CD19,Dem,Julian Schreibman,248
+Columbia,Hudson 5-2,US House,CD19,Dem,Julian Schreibman,208
+Columbia,Kinderhook -1,US House,CD19,Dem,Julian Schreibman,197
+Columbia,Kinderhook -2,US House,CD19,Dem,Julian Schreibman,144
+Columbia,Kinderhook -3,US House,CD19,Dem,Julian Schreibman,177
+Columbia,Kinderhook -4,US House,CD19,Dem,Julian Schreibman,179
+Columbia,Kinderhook -5,US House,CD19,Dem,Julian Schreibman,204
+Columbia,Kinderhook -6,US House,CD19,Dem,Julian Schreibman,140
+Columbia,Kinderhook -7,US House,CD19,Dem,Julian Schreibman,172
+Columbia,Kinderhook -8,US House,CD19,Dem,Julian Schreibman,160
+Columbia,Livingston -1,US House,CD19,Dem,Julian Schreibman,293
+Columbia,Livingston -2,US House,CD19,Dem,Julian Schreibman,222
+Columbia,New Lebanon -1,US House,CD19,Dem,Julian Schreibman,226
+Columbia,New Lebanon -2,US House,CD19,Dem,Julian Schreibman,237
+Columbia,Stockport -1,US House,CD19,Dem,Julian Schreibman,162
+Columbia,Stockport -2,US House,CD19,Dem,Julian Schreibman,178
+Columbia,Stuyvesant -1,US House,CD19,Dem,Julian Schreibman,122
+Columbia,Stuyvesant -2,US House,CD19,Dem,Julian Schreibman,212
+Columbia,Taghkanic-1,US House,CD19,Dem,Julian Schreibman,300
+Columbia,Ancram -1,US House,CD19,Rep,Christopher Gibson,158
+Columbia,Ancram -2,US House,CD19,Rep,Christopher Gibson,132
+Columbia,Austerlitz -1,US House,CD19,Rep,Christopher Gibson,162
+Columbia,Austerlitz -2,US House,CD19,Rep,Christopher Gibson,168
+Columbia,Canaan -1,US House,CD19,Rep,Christopher Gibson,118
+Columbia,Canaan -2,US House,CD19,Rep,Christopher Gibson,159
+Columbia,Chatham -1,US House,CD19,Rep,Christopher Gibson,263
+Columbia,Chatham -2,US House,CD19,Rep,Christopher Gibson,208
+Columbia,Chatham -3,US House,CD19,Rep,Christopher Gibson,381
+Columbia,Claverack -1,US House,CD19,Rep,Christopher Gibson,274
+Columbia,Claverack -2,US House,CD19,Rep,Christopher Gibson,322
+Columbia,Claverack -3,US House,CD19,Rep,Christopher Gibson,237
+Columbia,Claverack -4,US House,CD19,Rep,Christopher Gibson,275
+Columbia,Claverack -5,US House,CD19,Rep,Christopher Gibson,175
+Columbia,Clermont -1,US House,CD19,Rep,Christopher Gibson,352
+Columbia,Copake -1,US House,CD19,Rep,Christopher Gibson,260
+Columbia,Copake -2,US House,CD19,Rep,Christopher Gibson,326
+Columbia,Gallatin -1,US House,CD19,Rep,Christopher Gibson,310
+Columbia,Germantown -1,US House,CD19,Rep,Christopher Gibson,230
+Columbia,Germantown -2,US House,CD19,Rep,Christopher Gibson,190
+Columbia,Ghent -1,US House,CD19,Rep,Christopher Gibson,287
+Columbia,Ghent -2,US House,CD19,Rep,Christopher Gibson,271
+Columbia,Ghent -3,US House,CD19,Rep,Christopher Gibson,300
+Columbia,Ghent -4,US House,CD19,Rep,Christopher Gibson,165
+Columbia,Greenport -1,US House,CD19,Rep,Christopher Gibson,324
+Columbia,Greenport -2,US House,CD19,Rep,Christopher Gibson,216
+Columbia,Greenport -3,US House,CD19,Rep,Christopher Gibson,326
+Columbia,Hillsdale -1,US House,CD19,Rep,Christopher Gibson,160
+Columbia,Hillsdale -2,US House,CD19,Rep,Christopher Gibson,143
+Columbia,Hudson 1-1,US House,CD19,Rep,Christopher Gibson,34
+Columbia,Hudson 2-1,US House,CD19,Rep,Christopher Gibson,37
+Columbia,Hudson 3-1,US House,CD19,Rep,Christopher Gibson,116
+Columbia,Hudson 4-1,US House,CD19,Rep,Christopher Gibson,62
+Columbia,Hudson 5-1,US House,CD19,Rep,Christopher Gibson,123
+Columbia,Hudson 5-2,US House,CD19,Rep,Christopher Gibson,176
+Columbia,Kinderhook -1,US House,CD19,Rep,Christopher Gibson,247
+Columbia,Kinderhook -2,US House,CD19,Rep,Christopher Gibson,221
+Columbia,Kinderhook -3,US House,CD19,Rep,Christopher Gibson,288
+Columbia,Kinderhook -4,US House,CD19,Rep,Christopher Gibson,300
+Columbia,Kinderhook -5,US House,CD19,Rep,Christopher Gibson,296
+Columbia,Kinderhook -6,US House,CD19,Rep,Christopher Gibson,254
+Columbia,Kinderhook -7,US House,CD19,Rep,Christopher Gibson,283
+Columbia,Kinderhook -8,US House,CD19,Rep,Christopher Gibson,338
+Columbia,Livingston -1,US House,CD19,Rep,Christopher Gibson,462
+Columbia,Livingston -2,US House,CD19,Rep,Christopher Gibson,261
+Columbia,New Lebanon -1,US House,CD19,Rep,Christopher Gibson,172
+Columbia,New Lebanon -2,US House,CD19,Rep,Christopher Gibson,233
+Columbia,Stockport -1,US House,CD19,Rep,Christopher Gibson,301
+Columbia,Stockport -2,US House,CD19,Rep,Christopher Gibson,278
+Columbia,Stuyvesant -1,US House,CD19,Rep,Christopher Gibson,218
+Columbia,Stuyvesant -2,US House,CD19,Rep,Christopher Gibson,256
+Columbia,Taghkanic-1,US House,CD19,Rep,Christopher Gibson,266
+Columbia,Ancram -1,US House,CD19,Con,Christopher Gibson,15
+Columbia,Ancram -2,US House,CD19,Con,Christopher Gibson,18
+Columbia,Austerlitz -1,US House,CD19,Con,Christopher Gibson,23
+Columbia,Austerlitz -2,US House,CD19,Con,Christopher Gibson,21
+Columbia,Canaan -1,US House,CD19,Con,Christopher Gibson,34
+Columbia,Canaan -2,US House,CD19,Con,Christopher Gibson,31
+Columbia,Chatham -1,US House,CD19,Con,Christopher Gibson,54
+Columbia,Chatham -2,US House,CD19,Con,Christopher Gibson,30
+Columbia,Chatham -3,US House,CD19,Con,Christopher Gibson,63
+Columbia,Claverack -1,US House,CD19,Con,Christopher Gibson,29
+Columbia,Claverack -2,US House,CD19,Con,Christopher Gibson,47
+Columbia,Claverack -3,US House,CD19,Con,Christopher Gibson,42
+Columbia,Claverack -4,US House,CD19,Con,Christopher Gibson,45
+Columbia,Claverack -5,US House,CD19,Con,Christopher Gibson,15
+Columbia,Clermont -1,US House,CD19,Con,Christopher Gibson,66
+Columbia,Copake -1,US House,CD19,Con,Christopher Gibson,43
+Columbia,Copake -2,US House,CD19,Con,Christopher Gibson,34
+Columbia,Gallatin -1,US House,CD19,Con,Christopher Gibson,34
+Columbia,Germantown -1,US House,CD19,Con,Christopher Gibson,34
+Columbia,Germantown -2,US House,CD19,Con,Christopher Gibson,32
+Columbia,Ghent -1,US House,CD19,Con,Christopher Gibson,54
+Columbia,Ghent -2,US House,CD19,Con,Christopher Gibson,50
+Columbia,Ghent -3,US House,CD19,Con,Christopher Gibson,51
+Columbia,Ghent -4,US House,CD19,Con,Christopher Gibson,28
+Columbia,Greenport -1,US House,CD19,Con,Christopher Gibson,51
+Columbia,Greenport -2,US House,CD19,Con,Christopher Gibson,42
+Columbia,Greenport -3,US House,CD19,Con,Christopher Gibson,36
+Columbia,Hillsdale -1,US House,CD19,Con,Christopher Gibson,27
+Columbia,Hillsdale -2,US House,CD19,Con,Christopher Gibson,19
+Columbia,Hudson 1-1,US House,CD19,Con,Christopher Gibson,8
+Columbia,Hudson 2-1,US House,CD19,Con,Christopher Gibson,11
+Columbia,Hudson 3-1,US House,CD19,Con,Christopher Gibson,15
+Columbia,Hudson 4-1,US House,CD19,Con,Christopher Gibson,14
+Columbia,Hudson 5-1,US House,CD19,Con,Christopher Gibson,21
+Columbia,Hudson 5-2,US House,CD19,Con,Christopher Gibson,21
+Columbia,Kinderhook -1,US House,CD19,Con,Christopher Gibson,34
+Columbia,Kinderhook -2,US House,CD19,Con,Christopher Gibson,34
+Columbia,Kinderhook -3,US House,CD19,Con,Christopher Gibson,49
+Columbia,Kinderhook -4,US House,CD19,Con,Christopher Gibson,41
+Columbia,Kinderhook -5,US House,CD19,Con,Christopher Gibson,49
+Columbia,Kinderhook -6,US House,CD19,Con,Christopher Gibson,48
+Columbia,Kinderhook -7,US House,CD19,Con,Christopher Gibson,60
+Columbia,Kinderhook -8,US House,CD19,Con,Christopher Gibson,51
+Columbia,Livingston -1,US House,CD19,Con,Christopher Gibson,64
+Columbia,Livingston -2,US House,CD19,Con,Christopher Gibson,30
+Columbia,New Lebanon -1,US House,CD19,Con,Christopher Gibson,13
+Columbia,New Lebanon -2,US House,CD19,Con,Christopher Gibson,35
+Columbia,Stockport -1,US House,CD19,Con,Christopher Gibson,47
+Columbia,Stockport -2,US House,CD19,Con,Christopher Gibson,35
+Columbia,Stuyvesant -1,US House,CD19,Con,Christopher Gibson,58
+Columbia,Stuyvesant -2,US House,CD19,Con,Christopher Gibson,41
+Columbia,Taghkanic-1,US House,CD19,Con,Christopher Gibson,35
+Columbia,Ancram -1,US House,CD19,WF,Julian Schreibman,9
+Columbia,Ancram -2,US House,CD19,WF,Julian Schreibman,11
+Columbia,Austerlitz -1,US House,CD19,WF,Julian Schreibman,22
+Columbia,Austerlitz -2,US House,CD19,WF,Julian Schreibman,27
+Columbia,Canaan -1,US House,CD19,WF,Julian Schreibman,27
+Columbia,Canaan -2,US House,CD19,WF,Julian Schreibman,26
+Columbia,Chatham -1,US House,CD19,WF,Julian Schreibman,41
+Columbia,Chatham -2,US House,CD19,WF,Julian Schreibman,45
+Columbia,Chatham -3,US House,CD19,WF,Julian Schreibman,33
+Columbia,Claverack -1,US House,CD19,WF,Julian Schreibman,15
+Columbia,Claverack -2,US House,CD19,WF,Julian Schreibman,12
+Columbia,Claverack -3,US House,CD19,WF,Julian Schreibman,32
+Columbia,Claverack -4,US House,CD19,WF,Julian Schreibman,29
+Columbia,Claverack -5,US House,CD19,WF,Julian Schreibman,10
+Columbia,Clermont -1,US House,CD19,WF,Julian Schreibman,29
+Columbia,Copake -1,US House,CD19,WF,Julian Schreibman,21
+Columbia,Copake -2,US House,CD19,WF,Julian Schreibman,31
+Columbia,Gallatin -1,US House,CD19,WF,Julian Schreibman,34
+Columbia,Germantown -1,US House,CD19,WF,Julian Schreibman,19
+Columbia,Germantown -2,US House,CD19,WF,Julian Schreibman,18
+Columbia,Ghent -1,US House,CD19,WF,Julian Schreibman,40
+Columbia,Ghent -2,US House,CD19,WF,Julian Schreibman,34
+Columbia,Ghent -3,US House,CD19,WF,Julian Schreibman,24
+Columbia,Ghent -4,US House,CD19,WF,Julian Schreibman,13
+Columbia,Greenport -1,US House,CD19,WF,Julian Schreibman,14
+Columbia,Greenport -2,US House,CD19,WF,Julian Schreibman,18
+Columbia,Greenport -3,US House,CD19,WF,Julian Schreibman,19
+Columbia,Hillsdale -1,US House,CD19,WF,Julian Schreibman,25
+Columbia,Hillsdale -2,US House,CD19,WF,Julian Schreibman,25
+Columbia,Hudson 1-1,US House,CD19,WF,Julian Schreibman,19
+Columbia,Hudson 2-1,US House,CD19,WF,Julian Schreibman,17
+Columbia,Hudson 3-1,US House,CD19,WF,Julian Schreibman,31
+Columbia,Hudson 4-1,US House,CD19,WF,Julian Schreibman,13
+Columbia,Hudson 5-1,US House,CD19,WF,Julian Schreibman,20
+Columbia,Hudson 5-2,US House,CD19,WF,Julian Schreibman,18
+Columbia,Kinderhook -1,US House,CD19,WF,Julian Schreibman,24
+Columbia,Kinderhook -2,US House,CD19,WF,Julian Schreibman,7
+Columbia,Kinderhook -3,US House,CD19,WF,Julian Schreibman,22
+Columbia,Kinderhook -4,US House,CD19,WF,Julian Schreibman,23
+Columbia,Kinderhook -5,US House,CD19,WF,Julian Schreibman,17
+Columbia,Kinderhook -6,US House,CD19,WF,Julian Schreibman,11
+Columbia,Kinderhook -7,US House,CD19,WF,Julian Schreibman,21
+Columbia,Kinderhook -8,US House,CD19,WF,Julian Schreibman,14
+Columbia,Livingston -1,US House,CD19,WF,Julian Schreibman,34
+Columbia,Livingston -2,US House,CD19,WF,Julian Schreibman,21
+Columbia,New Lebanon -1,US House,CD19,WF,Julian Schreibman,24
+Columbia,New Lebanon -2,US House,CD19,WF,Julian Schreibman,30
+Columbia,Stockport -1,US House,CD19,WF,Julian Schreibman,19
+Columbia,Stockport -2,US House,CD19,WF,Julian Schreibman,22
+Columbia,Stuyvesant -1,US House,CD19,WF,Julian Schreibman,12
+Columbia,Stuyvesant -2,US House,CD19,WF,Julian Schreibman,25
+Columbia,Taghkanic-1,US House,CD19,WF,Julian Schreibman,34
+Columbia,Ancram -1,US House,CD19,Ind,Christopher Gibson,16
+Columbia,Ancram -2,US House,CD19,Ind,Christopher Gibson,9
+Columbia,Austerlitz -1,US House,CD19,Ind,Christopher Gibson,23
+Columbia,Austerlitz -2,US House,CD19,Ind,Christopher Gibson,12
+Columbia,Canaan -1,US House,CD19,Ind,Christopher Gibson,18
+Columbia,Canaan -2,US House,CD19,Ind,Christopher Gibson,18
+Columbia,Chatham -1,US House,CD19,Ind,Christopher Gibson,28
+Columbia,Chatham -2,US House,CD19,Ind,Christopher Gibson,27
+Columbia,Chatham -3,US House,CD19,Ind,Christopher Gibson,38
+Columbia,Claverack -1,US House,CD19,Ind,Christopher Gibson,18
+Columbia,Claverack -2,US House,CD19,Ind,Christopher Gibson,29
+Columbia,Claverack -3,US House,CD19,Ind,Christopher Gibson,24
+Columbia,Claverack -4,US House,CD19,Ind,Christopher Gibson,26
+Columbia,Claverack -5,US House,CD19,Ind,Christopher Gibson,16
+Columbia,Clermont -1,US House,CD19,Ind,Christopher Gibson,34
+Columbia,Copake -1,US House,CD19,Ind,Christopher Gibson,37
+Columbia,Copake -2,US House,CD19,Ind,Christopher Gibson,26
+Columbia,Gallatin -1,US House,CD19,Ind,Christopher Gibson,33
+Columbia,Germantown -1,US House,CD19,Ind,Christopher Gibson,12
+Columbia,Germantown -2,US House,CD19,Ind,Christopher Gibson,11
+Columbia,Ghent -1,US House,CD19,Ind,Christopher Gibson,50
+Columbia,Ghent -2,US House,CD19,Ind,Christopher Gibson,28
+Columbia,Ghent -3,US House,CD19,Ind,Christopher Gibson,21
+Columbia,Ghent -4,US House,CD19,Ind,Christopher Gibson,18
+Columbia,Greenport -1,US House,CD19,Ind,Christopher Gibson,22
+Columbia,Greenport -2,US House,CD19,Ind,Christopher Gibson,28
+Columbia,Greenport -3,US House,CD19,Ind,Christopher Gibson,45
+Columbia,Hillsdale -1,US House,CD19,Ind,Christopher Gibson,16
+Columbia,Hillsdale -2,US House,CD19,Ind,Christopher Gibson,16
+Columbia,Hudson 1-1,US House,CD19,Ind,Christopher Gibson,11
+Columbia,Hudson 2-1,US House,CD19,Ind,Christopher Gibson,7
+Columbia,Hudson 3-1,US House,CD19,Ind,Christopher Gibson,9
+Columbia,Hudson 4-1,US House,CD19,Ind,Christopher Gibson,7
+Columbia,Hudson 5-1,US House,CD19,Ind,Christopher Gibson,14
+Columbia,Hudson 5-2,US House,CD19,Ind,Christopher Gibson,14
+Columbia,Kinderhook -1,US House,CD19,Ind,Christopher Gibson,27
+Columbia,Kinderhook -2,US House,CD19,Ind,Christopher Gibson,49
+Columbia,Kinderhook -3,US House,CD19,Ind,Christopher Gibson,39
+Columbia,Kinderhook -4,US House,CD19,Ind,Christopher Gibson,42
+Columbia,Kinderhook -5,US House,CD19,Ind,Christopher Gibson,33
+Columbia,Kinderhook -6,US House,CD19,Ind,Christopher Gibson,57
+Columbia,Kinderhook -7,US House,CD19,Ind,Christopher Gibson,36
+Columbia,Kinderhook -8,US House,CD19,Ind,Christopher Gibson,38
+Columbia,Livingston -1,US House,CD19,Ind,Christopher Gibson,40
+Columbia,Livingston -2,US House,CD19,Ind,Christopher Gibson,21
+Columbia,New Lebanon -1,US House,CD19,Ind,Christopher Gibson,29
+Columbia,New Lebanon -2,US House,CD19,Ind,Christopher Gibson,20
+Columbia,Stockport -1,US House,CD19,Ind,Christopher Gibson,33
+Columbia,Stockport -2,US House,CD19,Ind,Christopher Gibson,25
+Columbia,Stuyvesant -1,US House,CD19,Ind,Christopher Gibson,28
+Columbia,Stuyvesant -2,US House,CD19,Ind,Christopher Gibson,28
+Columbia,Taghkanic-1,US House,CD19,Ind,Christopher Gibson,24
+Columbia,Ancram -1,US House,CD19,Ind,write-in,0
+Columbia,Ancram -2,US House,CD19,Ind,write-in,0
+Columbia,Austerlitz -1,US House,CD19,Ind,write-in,1
+Columbia,Austerlitz -2,US House,CD19,Ind,write-in,1
+Columbia,Canaan -1,US House,CD19,Ind,write-in,0
+Columbia,Canaan -2,US House,CD19,Ind,write-in,0
+Columbia,Chatham -1,US House,CD19,Ind,write-in,2
+Columbia,Chatham -2,US House,CD19,Ind,write-in,0
+Columbia,Chatham -3,US House,CD19,Ind,write-in,0
+Columbia,Claverack -1,US House,CD19,Ind,write-in,0
+Columbia,Claverack -2,US House,CD19,Ind,write-in,0
+Columbia,Claverack -3,US House,CD19,Ind,write-in,0
+Columbia,Claverack -4,US House,CD19,Ind,write-in,0
+Columbia,Claverack -5,US House,CD19,Ind,write-in,0
+Columbia,Clermont -1,US House,CD19,Ind,write-in,0
+Columbia,Copake -1,US House,CD19,Ind,write-in,0
+Columbia,Copake -2,US House,CD19,Ind,write-in,0
+Columbia,Gallatin -1,US House,CD19,Ind,write-in,2
+Columbia,Germantown -1,US House,CD19,Ind,write-in,0
+Columbia,Germantown -2,US House,CD19,Ind,write-in,1
+Columbia,Ghent -1,US House,CD19,Ind,write-in,1
+Columbia,Ghent -2,US House,CD19,Ind,write-in,0
+Columbia,Ghent -3,US House,CD19,Ind,write-in,0
+Columbia,Ghent -4,US House,CD19,Ind,write-in,0
+Columbia,Greenport -1,US House,CD19,Ind,write-in,1
+Columbia,Greenport -2,US House,CD19,Ind,write-in,0
+Columbia,Greenport -3,US House,CD19,Ind,write-in,0
+Columbia,Hillsdale -1,US House,CD19,Ind,write-in,1
+Columbia,Hillsdale -2,US House,CD19,Ind,write-in,0
+Columbia,Hudson 1-1,US House,CD19,Ind,write-in,1
+Columbia,Hudson 2-1,US House,CD19,Ind,write-in,0
+Columbia,Hudson 3-1,US House,CD19,Ind,write-in,0
+Columbia,Hudson 4-1,US House,CD19,Ind,write-in,0
+Columbia,Hudson 5-1,US House,CD19,Ind,write-in,2
+Columbia,Hudson 5-2,US House,CD19,Ind,write-in,0
+Columbia,Kinderhook -1,US House,CD19,Ind,write-in,0
+Columbia,Kinderhook -2,US House,CD19,Ind,write-in,0
+Columbia,Kinderhook -3,US House,CD19,Ind,write-in,0
+Columbia,Kinderhook -4,US House,CD19,Ind,write-in,1
+Columbia,Kinderhook -5,US House,CD19,Ind,write-in,0
+Columbia,Kinderhook -6,US House,CD19,Ind,write-in,2
+Columbia,Kinderhook -7,US House,CD19,Ind,write-in,0
+Columbia,Kinderhook -8,US House,CD19,Ind,write-in,0
+Columbia,Livingston -1,US House,CD19,Ind,write-in,0
+Columbia,Livingston -2,US House,CD19,Ind,write-in,0
+Columbia,New Lebanon -1,US House,CD19,Ind,write-in,0
+Columbia,New Lebanon -2,US House,CD19,Ind,write-in,0
+Columbia,Stockport -1,US House,CD19,Ind,write-in,0
+Columbia,Stockport -2,US House,CD19,Ind,write-in,0
+Columbia,Stuyvesant -1,US House,CD19,Ind,write-in,1
+Columbia,Stuyvesant -2,US House,CD19,Ind,write-in,0
+Columbia,Taghkanic-1,US House,CD19,Ind,write-in,0
+Columbia,Ancram -1,US Senate,,Dem,Kirsten Gillibrand,236
+Columbia,Ancram -2,US Senate,,Dem,Kirsten Gillibrand,199
+Columbia,Austerlitz -1,US Senate,,Dem,Kirsten Gillibrand,281
+Columbia,Austerlitz -2,US Senate,,Dem,Kirsten Gillibrand,315
+Columbia,Canaan -1,US Senate,,Dem,Kirsten Gillibrand,325
+Columbia,Canaan -2,US Senate,,Dem,Kirsten Gillibrand,258
+Columbia,Chatham -1,US Senate,,Dem,Kirsten Gillibrand,454
+Columbia,Chatham -2,US Senate,,Dem,Kirsten Gillibrand,367
+Columbia,Chatham -3,US Senate,,Dem,Kirsten Gillibrand,533
+Columbia,Claverack -1,US Senate,,Dem,Kirsten Gillibrand,288
+Columbia,Claverack -2,US Senate,,Dem,Kirsten Gillibrand,343
+Columbia,Claverack -3,US Senate,,Dem,Kirsten Gillibrand,312
+Columbia,Claverack -4,US Senate,,Dem,Kirsten Gillibrand,385
+Columbia,Claverack -5,US Senate,,Dem,Kirsten Gillibrand,175
+Columbia,Clermont -1,US Senate,,Dem,Kirsten Gillibrand,427
+Columbia,Copake -1,US Senate,,Dem,Kirsten Gillibrand,465
+Columbia,Copake -2,US Senate,,Dem,Kirsten Gillibrand,448
+Columbia,Gallatin -1,US Senate,,Dem,Kirsten Gillibrand,354
+Columbia,Germantown -1,US Senate,,Dem,Kirsten Gillibrand,302
+Columbia,Germantown -2,US Senate,,Dem,Kirsten Gillibrand,272
+Columbia,Ghent -1,US Senate,,Dem,Kirsten Gillibrand,512
+Columbia,Ghent -2,US Senate,,Dem,Kirsten Gillibrand,433
+Columbia,Ghent -3,US Senate,,Dem,Kirsten Gillibrand,312
+Columbia,Ghent -4,US Senate,,Dem,Kirsten Gillibrand,203
+Columbia,Greenport -1,US Senate,,Dem,Kirsten Gillibrand,359
+Columbia,Greenport -2,US Senate,,Dem,Kirsten Gillibrand,252
+Columbia,Greenport -3,US Senate,,Dem,Kirsten Gillibrand,396
+Columbia,Hillsdale -1,US Senate,,Dem,Kirsten Gillibrand,298
+Columbia,Hillsdale -2,US Senate,,Dem,Kirsten Gillibrand,309
+Columbia,Hudson 1-1,US Senate,,Dem,Kirsten Gillibrand,206
+Columbia,Hudson 2-1,US Senate,,Dem,Kirsten Gillibrand,358
+Columbia,Hudson 3-1,US Senate,,Dem,Kirsten Gillibrand,325
+Columbia,Hudson 4-1,US Senate,,Dem,Kirsten Gillibrand,280
+Columbia,Hudson 5-1,US Senate,,Dem,Kirsten Gillibrand,327
+Columbia,Hudson 5-2,US Senate,,Dem,Kirsten Gillibrand,290
+Columbia,Kinderhook -1,US Senate,,Dem,Kirsten Gillibrand,319
+Columbia,Kinderhook -2,US Senate,,Dem,Kirsten Gillibrand,262
+Columbia,Kinderhook -3,US Senate,,Dem,Kirsten Gillibrand,307
+Columbia,Kinderhook -4,US Senate,,Dem,Kirsten Gillibrand,330
+Columbia,Kinderhook -5,US Senate,,Dem,Kirsten Gillibrand,317
+Columbia,Kinderhook -6,US Senate,,Dem,Kirsten Gillibrand,282
+Columbia,Kinderhook -7,US Senate,,Dem,Kirsten Gillibrand,314
+Columbia,Kinderhook -8,US Senate,,Dem,Kirsten Gillibrand,324
+Columbia,Livingston -1,US Senate,,Dem,Kirsten Gillibrand,476
+Columbia,Livingston -2,US Senate,,Dem,Kirsten Gillibrand,309
+Columbia,New Lebanon -1,US Senate,,Dem,Kirsten Gillibrand,313
+Columbia,New Lebanon -2,US Senate,,Dem,Kirsten Gillibrand,345
+Columbia,Stockport -1,US Senate,,Dem,Kirsten Gillibrand,322
+Columbia,Stockport -2,US Senate,,Dem,Kirsten Gillibrand,306
+Columbia,Stuyvesant -1,US Senate,,Dem,Kirsten Gillibrand,237
+Columbia,Stuyvesant -2,US Senate,,Dem,Kirsten Gillibrand,330
+Columbia,Taghkanic-1,US Senate,,Dem,Kirsten Gillibrand,412
+Columbia,Ancram -1,US Senate,,Rep,Wendy Long,89
+Columbia,Ancram -2,US Senate,,Rep,Wendy Long,65
+Columbia,Austerlitz -1,US Senate,,Rep,Wendy Long,112
+Columbia,Austerlitz -2,US Senate,,Rep,Wendy Long,102
+Columbia,Canaan -1,US Senate,,Rep,Wendy Long,75
+Columbia,Canaan -2,US Senate,,Rep,Wendy Long,88
+Columbia,Chatham -1,US Senate,,Rep,Wendy Long,142
+Columbia,Chatham -2,US Senate,,Rep,Wendy Long,96
+Columbia,Chatham -3,US Senate,,Rep,Wendy Long,209
+Columbia,Claverack -1,US Senate,,Rep,Wendy Long,144
+Columbia,Claverack -2,US Senate,,Rep,Wendy Long,190
+Columbia,Claverack -3,US Senate,,Rep,Wendy Long,124
+Columbia,Claverack -4,US Senate,,Rep,Wendy Long,162
+Columbia,Claverack -5,US Senate,,Rep,Wendy Long,119
+Columbia,Clermont -1,US Senate,,Rep,Wendy Long,260
+Columbia,Copake -1,US Senate,,Rep,Wendy Long,150
+Columbia,Copake -2,US Senate,,Rep,Wendy Long,187
+Columbia,Gallatin -1,US Senate,,Rep,Wendy Long,213
+Columbia,Germantown -1,US Senate,,Rep,Wendy Long,155
+Columbia,Germantown -2,US Senate,,Rep,Wendy Long,129
+Columbia,Ghent -1,US Senate,,Rep,Wendy Long,141
+Columbia,Ghent -2,US Senate,,Rep,Wendy Long,146
+Columbia,Ghent -3,US Senate,,Rep,Wendy Long,171
+Columbia,Ghent -4,US Senate,,Rep,Wendy Long,91
+Columbia,Greenport -1,US Senate,,Rep,Wendy Long,192
+Columbia,Greenport -2,US Senate,,Rep,Wendy Long,140
+Columbia,Greenport -3,US Senate,,Rep,Wendy Long,184
+Columbia,Hillsdale -1,US Senate,,Rep,Wendy Long,98
+Columbia,Hillsdale -2,US Senate,,Rep,Wendy Long,79
+Columbia,Hudson 1-1,US Senate,,Rep,Wendy Long,21
+Columbia,Hudson 2-1,US Senate,,Rep,Wendy Long,17
+Columbia,Hudson 3-1,US Senate,,Rep,Wendy Long,56
+Columbia,Hudson 4-1,US Senate,,Rep,Wendy Long,34
+Columbia,Hudson 5-1,US Senate,,Rep,Wendy Long,58
+Columbia,Hudson 5-2,US Senate,,Rep,Wendy Long,90
+Columbia,Kinderhook -1,US Senate,,Rep,Wendy Long,132
+Columbia,Kinderhook -2,US Senate,,Rep,Wendy Long,101
+Columbia,Kinderhook -3,US Senate,,Rep,Wendy Long,166
+Columbia,Kinderhook -4,US Senate,,Rep,Wendy Long,153
+Columbia,Kinderhook -5,US Senate,,Rep,Wendy Long,165
+Columbia,Kinderhook -6,US Senate,,Rep,Wendy Long,120
+Columbia,Kinderhook -7,US Senate,,Rep,Wendy Long,150
+Columbia,Kinderhook -8,US Senate,,Rep,Wendy Long,189
+Columbia,Livingston -1,US Senate,,Rep,Wendy Long,274
+Columbia,Livingston -2,US Senate,,Rep,Wendy Long,173
+Columbia,New Lebanon -1,US Senate,,Rep,Wendy Long,90
+Columbia,New Lebanon -2,US Senate,,Rep,Wendy Long,123
+Columbia,Stockport -1,US Senate,,Rep,Wendy Long,146
+Columbia,Stockport -2,US Senate,,Rep,Wendy Long,144
+Columbia,Stuyvesant -1,US Senate,,Rep,Wendy Long,102
+Columbia,Stuyvesant -2,US Senate,,Rep,Wendy Long,132
+Columbia,Taghkanic-1,US Senate,,Rep,Wendy Long,159
+Columbia,Ancram -1,US Senate,,Con,Wendy Long,14
+Columbia,Ancram -2,US Senate,,Con,Wendy Long,14
+Columbia,Austerlitz -1,US Senate,,Con,Wendy Long,22
+Columbia,Austerlitz -2,US Senate,,Con,Wendy Long,12
+Columbia,Canaan -1,US Senate,,Con,Wendy Long,20
+Columbia,Canaan -2,US Senate,,Con,Wendy Long,18
+Columbia,Chatham -1,US Senate,,Con,Wendy Long,46
+Columbia,Chatham -2,US Senate,,Con,Wendy Long,22
+Columbia,Chatham -3,US Senate,,Con,Wendy Long,46
+Columbia,Claverack -1,US Senate,,Con,Wendy Long,16
+Columbia,Claverack -2,US Senate,,Con,Wendy Long,48
+Columbia,Claverack -3,US Senate,,Con,Wendy Long,28
+Columbia,Claverack -4,US Senate,,Con,Wendy Long,30
+Columbia,Claverack -5,US Senate,,Con,Wendy Long,9
+Columbia,Clermont -1,US Senate,,Con,Wendy Long,59
+Columbia,Copake -1,US Senate,,Con,Wendy Long,42
+Columbia,Copake -2,US Senate,,Con,Wendy Long,21
+Columbia,Gallatin -1,US Senate,,Con,Wendy Long,21
+Columbia,Germantown -1,US Senate,,Con,Wendy Long,28
+Columbia,Germantown -2,US Senate,,Con,Wendy Long,26
+Columbia,Ghent -1,US Senate,,Con,Wendy Long,27
+Columbia,Ghent -2,US Senate,,Con,Wendy Long,34
+Columbia,Ghent -3,US Senate,,Con,Wendy Long,38
+Columbia,Ghent -4,US Senate,,Con,Wendy Long,17
+Columbia,Greenport -1,US Senate,,Con,Wendy Long,30
+Columbia,Greenport -2,US Senate,,Con,Wendy Long,27
+Columbia,Greenport -3,US Senate,,Con,Wendy Long,21
+Columbia,Hillsdale -1,US Senate,,Con,Wendy Long,15
+Columbia,Hillsdale -2,US Senate,,Con,Wendy Long,14
+Columbia,Hudson 1-1,US Senate,,Con,Wendy Long,4
+Columbia,Hudson 2-1,US Senate,,Con,Wendy Long,5
+Columbia,Hudson 3-1,US Senate,,Con,Wendy Long,12
+Columbia,Hudson 4-1,US Senate,,Con,Wendy Long,7
+Columbia,Hudson 5-1,US Senate,,Con,Wendy Long,11
+Columbia,Hudson 5-2,US Senate,,Con,Wendy Long,12
+Columbia,Kinderhook -1,US Senate,,Con,Wendy Long,30
+Columbia,Kinderhook -2,US Senate,,Con,Wendy Long,26
+Columbia,Kinderhook -3,US Senate,,Con,Wendy Long,39
+Columbia,Kinderhook -4,US Senate,,Con,Wendy Long,27
+Columbia,Kinderhook -5,US Senate,,Con,Wendy Long,24
+Columbia,Kinderhook -6,US Senate,,Con,Wendy Long,29
+Columbia,Kinderhook -7,US Senate,,Con,Wendy Long,38
+Columbia,Kinderhook -8,US Senate,,Con,Wendy Long,32
+Columbia,Livingston -1,US Senate,,Con,Wendy Long,40
+Columbia,Livingston -2,US Senate,,Con,Wendy Long,25
+Columbia,New Lebanon -1,US Senate,,Con,Wendy Long,12
+Columbia,New Lebanon -2,US Senate,,Con,Wendy Long,27
+Columbia,Stockport -1,US Senate,,Con,Wendy Long,25
+Columbia,Stockport -2,US Senate,,Con,Wendy Long,20
+Columbia,Stuyvesant -1,US Senate,,Con,Wendy Long,41
+Columbia,Stuyvesant -2,US Senate,,Con,Wendy Long,31
+Columbia,Taghkanic-1,US Senate,,Con,Wendy Long,24
+Columbia,Ancram -1,US Senate,,WF,Kirsten Gillibrand,13
+Columbia,Ancram -2,US Senate,,WF,Kirsten Gillibrand,16
+Columbia,Austerlitz -1,US Senate,,WF,Kirsten Gillibrand,25
+Columbia,Austerlitz -2,US Senate,,WF,Kirsten Gillibrand,23
+Columbia,Canaan -1,US Senate,,WF,Kirsten Gillibrand,37
+Columbia,Canaan -2,US Senate,,WF,Kirsten Gillibrand,31
+Columbia,Chatham -1,US Senate,,WF,Kirsten Gillibrand,55
+Columbia,Chatham -2,US Senate,,WF,Kirsten Gillibrand,48
+Columbia,Chatham -3,US Senate,,WF,Kirsten Gillibrand,50
+Columbia,Claverack -1,US Senate,,WF,Kirsten Gillibrand,23
+Columbia,Claverack -2,US Senate,,WF,Kirsten Gillibrand,15
+Columbia,Claverack -3,US Senate,,WF,Kirsten Gillibrand,34
+Columbia,Claverack -4,US Senate,,WF,Kirsten Gillibrand,43
+Columbia,Claverack -5,US Senate,,WF,Kirsten Gillibrand,20
+Columbia,Clermont -1,US Senate,,WF,Kirsten Gillibrand,32
+Columbia,Copake -1,US Senate,,WF,Kirsten Gillibrand,33
+Columbia,Copake -2,US Senate,,WF,Kirsten Gillibrand,39
+Columbia,Gallatin -1,US Senate,,WF,Kirsten Gillibrand,39
+Columbia,Germantown -1,US Senate,,WF,Kirsten Gillibrand,27
+Columbia,Germantown -2,US Senate,,WF,Kirsten Gillibrand,16
+Columbia,Ghent -1,US Senate,,WF,Kirsten Gillibrand,48
+Columbia,Ghent -2,US Senate,,WF,Kirsten Gillibrand,37
+Columbia,Ghent -3,US Senate,,WF,Kirsten Gillibrand,41
+Columbia,Ghent -4,US Senate,,WF,Kirsten Gillibrand,24
+Columbia,Greenport -1,US Senate,,WF,Kirsten Gillibrand,25
+Columbia,Greenport -2,US Senate,,WF,Kirsten Gillibrand,26
+Columbia,Greenport -3,US Senate,,WF,Kirsten Gillibrand,38
+Columbia,Hillsdale -1,US Senate,,WF,Kirsten Gillibrand,30
+Columbia,Hillsdale -2,US Senate,,WF,Kirsten Gillibrand,29
+Columbia,Hudson 1-1,US Senate,,WF,Kirsten Gillibrand,18
+Columbia,Hudson 2-1,US Senate,,WF,Kirsten Gillibrand,16
+Columbia,Hudson 3-1,US Senate,,WF,Kirsten Gillibrand,35
+Columbia,Hudson 4-1,US Senate,,WF,Kirsten Gillibrand,15
+Columbia,Hudson 5-1,US Senate,,WF,Kirsten Gillibrand,21
+Columbia,Hudson 5-2,US Senate,,WF,Kirsten Gillibrand,26
+Columbia,Kinderhook -1,US Senate,,WF,Kirsten Gillibrand,27
+Columbia,Kinderhook -2,US Senate,,WF,Kirsten Gillibrand,19
+Columbia,Kinderhook -3,US Senate,,WF,Kirsten Gillibrand,29
+Columbia,Kinderhook -4,US Senate,,WF,Kirsten Gillibrand,34
+Columbia,Kinderhook -5,US Senate,,WF,Kirsten Gillibrand,42
+Columbia,Kinderhook -6,US Senate,,WF,Kirsten Gillibrand,39
+Columbia,Kinderhook -7,US Senate,,WF,Kirsten Gillibrand,37
+Columbia,Kinderhook -8,US Senate,,WF,Kirsten Gillibrand,27
+Columbia,Livingston -1,US Senate,,WF,Kirsten Gillibrand,55
+Columbia,Livingston -2,US Senate,,WF,Kirsten Gillibrand,28
+Columbia,New Lebanon -1,US Senate,,WF,Kirsten Gillibrand,26
+Columbia,New Lebanon -2,US Senate,,WF,Kirsten Gillibrand,32
+Columbia,Stockport -1,US Senate,,WF,Kirsten Gillibrand,31
+Columbia,Stockport -2,US Senate,,WF,Kirsten Gillibrand,43
+Columbia,Stuyvesant -1,US Senate,,WF,Kirsten Gillibrand,19
+Columbia,Stuyvesant -2,US Senate,,WF,Kirsten Gillibrand,34
+Columbia,Taghkanic-1,US Senate,,WF,Kirsten Gillibrand,41
+Columbia,Ancram -1,US Senate,,Ind,Kirsten Gillibrand,16
+Columbia,Ancram -2,US Senate,,Ind,Kirsten Gillibrand,14
+Columbia,Austerlitz -1,US Senate,,Ind,Kirsten Gillibrand,17
+Columbia,Austerlitz -2,US Senate,,Ind,Kirsten Gillibrand,17
+Columbia,Canaan -1,US Senate,,Ind,Kirsten Gillibrand,21
+Columbia,Canaan -2,US Senate,,Ind,Kirsten Gillibrand,18
+Columbia,Chatham -1,US Senate,,Ind,Kirsten Gillibrand,24
+Columbia,Chatham -2,US Senate,,Ind,Kirsten Gillibrand,23
+Columbia,Chatham -3,US Senate,,Ind,Kirsten Gillibrand,24
+Columbia,Claverack -1,US Senate,,Ind,Kirsten Gillibrand,17
+Columbia,Claverack -2,US Senate,,Ind,Kirsten Gillibrand,22
+Columbia,Claverack -3,US Senate,,Ind,Kirsten Gillibrand,26
+Columbia,Claverack -4,US Senate,,Ind,Kirsten Gillibrand,24
+Columbia,Claverack -5,US Senate,,Ind,Kirsten Gillibrand,15
+Columbia,Clermont -1,US Senate,,Ind,Kirsten Gillibrand,32
+Columbia,Copake -1,US Senate,,Ind,Kirsten Gillibrand,34
+Columbia,Copake -2,US Senate,,Ind,Kirsten Gillibrand,33
+Columbia,Gallatin -1,US Senate,,Ind,Kirsten Gillibrand,26
+Columbia,Germantown -1,US Senate,,Ind,Kirsten Gillibrand,10
+Columbia,Germantown -2,US Senate,,Ind,Kirsten Gillibrand,10
+Columbia,Ghent -1,US Senate,,Ind,Kirsten Gillibrand,46
+Columbia,Ghent -2,US Senate,,Ind,Kirsten Gillibrand,29
+Columbia,Ghent -3,US Senate,,Ind,Kirsten Gillibrand,20
+Columbia,Ghent -4,US Senate,,Ind,Kirsten Gillibrand,17
+Columbia,Greenport -1,US Senate,,Ind,Kirsten Gillibrand,13
+Columbia,Greenport -2,US Senate,,Ind,Kirsten Gillibrand,24
+Columbia,Greenport -3,US Senate,,Ind,Kirsten Gillibrand,31
+Columbia,Hillsdale -1,US Senate,,Ind,Kirsten Gillibrand,17
+Columbia,Hillsdale -2,US Senate,,Ind,Kirsten Gillibrand,8
+Columbia,Hudson 1-1,US Senate,,Ind,Kirsten Gillibrand,7
+Columbia,Hudson 2-1,US Senate,,Ind,Kirsten Gillibrand,8
+Columbia,Hudson 3-1,US Senate,,Ind,Kirsten Gillibrand,14
+Columbia,Hudson 4-1,US Senate,,Ind,Kirsten Gillibrand,5
+Columbia,Hudson 5-1,US Senate,,Ind,Kirsten Gillibrand,13
+Columbia,Hudson 5-2,US Senate,,Ind,Kirsten Gillibrand,15
+Columbia,Kinderhook -1,US Senate,,Ind,Kirsten Gillibrand,17
+Columbia,Kinderhook -2,US Senate,,Ind,Kirsten Gillibrand,39
+Columbia,Kinderhook -3,US Senate,,Ind,Kirsten Gillibrand,25
+Columbia,Kinderhook -4,US Senate,,Ind,Kirsten Gillibrand,36
+Columbia,Kinderhook -5,US Senate,,Ind,Kirsten Gillibrand,39
+Columbia,Kinderhook -6,US Senate,,Ind,Kirsten Gillibrand,37
+Columbia,Kinderhook -7,US Senate,,Ind,Kirsten Gillibrand,33
+Columbia,Kinderhook -8,US Senate,,Ind,Kirsten Gillibrand,30
+Columbia,Livingston -1,US Senate,,Ind,Kirsten Gillibrand,43
+Columbia,Livingston -2,US Senate,,Ind,Kirsten Gillibrand,24
+Columbia,New Lebanon -1,US Senate,,Ind,Kirsten Gillibrand,16
+Columbia,New Lebanon -2,US Senate,,Ind,Kirsten Gillibrand,24
+Columbia,Stockport -1,US Senate,,Ind,Kirsten Gillibrand,33
+Columbia,Stockport -2,US Senate,,Ind,Kirsten Gillibrand,29
+Columbia,Stuyvesant -1,US Senate,,Ind,Kirsten Gillibrand,28
+Columbia,Stuyvesant -2,US Senate,,Ind,Kirsten Gillibrand,26
+Columbia,Taghkanic-1,US Senate,,Ind,Kirsten Gillibrand,22
+Columbia,Ancram -1,US Senate,,Green,Colia Clark,2
+Columbia,Ancram -2,US Senate,,Green,Colia Clark,0
+Columbia,Austerlitz -1,US Senate,,Green,Colia Clark,3
+Columbia,Austerlitz -2,US Senate,,Green,Colia Clark,4
+Columbia,Canaan -1,US Senate,,Green,Colia Clark,0
+Columbia,Canaan -2,US Senate,,Green,Colia Clark,4
+Columbia,Chatham -1,US Senate,,Green,Colia Clark,5
+Columbia,Chatham -2,US Senate,,Green,Colia Clark,8
+Columbia,Chatham -3,US Senate,,Green,Colia Clark,6
+Columbia,Claverack -1,US Senate,,Green,Colia Clark,1
+Columbia,Claverack -2,US Senate,,Green,Colia Clark,3
+Columbia,Claverack -3,US Senate,,Green,Colia Clark,5
+Columbia,Claverack -4,US Senate,,Green,Colia Clark,9
+Columbia,Claverack -5,US Senate,,Green,Colia Clark,2
+Columbia,Clermont -1,US Senate,,Green,Colia Clark,3
+Columbia,Copake -1,US Senate,,Green,Colia Clark,1
+Columbia,Copake -2,US Senate,,Green,Colia Clark,8
+Columbia,Gallatin -1,US Senate,,Green,Colia Clark,5
+Columbia,Germantown -1,US Senate,,Green,Colia Clark,4
+Columbia,Germantown -2,US Senate,,Green,Colia Clark,2
+Columbia,Ghent -1,US Senate,,Green,Colia Clark,5
+Columbia,Ghent -2,US Senate,,Green,Colia Clark,8
+Columbia,Ghent -3,US Senate,,Green,Colia Clark,3
+Columbia,Ghent -4,US Senate,,Green,Colia Clark,2
+Columbia,Greenport -1,US Senate,,Green,Colia Clark,1
+Columbia,Greenport -2,US Senate,,Green,Colia Clark,4
+Columbia,Greenport -3,US Senate,,Green,Colia Clark,4
+Columbia,Hillsdale -1,US Senate,,Green,Colia Clark,7
+Columbia,Hillsdale -2,US Senate,,Green,Colia Clark,7
+Columbia,Hudson 1-1,US Senate,,Green,Colia Clark,6
+Columbia,Hudson 2-1,US Senate,,Green,Colia Clark,3
+Columbia,Hudson 3-1,US Senate,,Green,Colia Clark,8
+Columbia,Hudson 4-1,US Senate,,Green,Colia Clark,3
+Columbia,Hudson 5-1,US Senate,,Green,Colia Clark,3
+Columbia,Hudson 5-2,US Senate,,Green,Colia Clark,4
+Columbia,Kinderhook -1,US Senate,,Green,Colia Clark,4
+Columbia,Kinderhook -2,US Senate,,Green,Colia Clark,3
+Columbia,Kinderhook -3,US Senate,,Green,Colia Clark,1
+Columbia,Kinderhook -4,US Senate,,Green,Colia Clark,3
+Columbia,Kinderhook -5,US Senate,,Green,Colia Clark,5
+Columbia,Kinderhook -6,US Senate,,Green,Colia Clark,2
+Columbia,Kinderhook -7,US Senate,,Green,Colia Clark,1
+Columbia,Kinderhook -8,US Senate,,Green,Colia Clark,2
+Columbia,Livingston -1,US Senate,,Green,Colia Clark,3
+Columbia,Livingston -2,US Senate,,Green,Colia Clark,5
+Columbia,New Lebanon -1,US Senate,,Green,Colia Clark,6
+Columbia,New Lebanon -2,US Senate,,Green,Colia Clark,1
+Columbia,Stockport -1,US Senate,,Green,Colia Clark,2
+Columbia,Stockport -2,US Senate,,Green,Colia Clark,1
+Columbia,Stuyvesant -1,US Senate,,Green,Colia Clark,2
+Columbia,Stuyvesant -2,US Senate,,Green,Colia Clark,4
+Columbia,Taghkanic-1,US Senate,,Green,Colia Clark,3
+Columbia,Ancram -1,US Senate,,Lbt,Chris Edes,4
+Columbia,Ancram -2,US Senate,,Lbt,Chris Edes,2
+Columbia,Austerlitz -1,US Senate,,Lbt,Chris Edes,3
+Columbia,Austerlitz -2,US Senate,,Lbt,Chris Edes,3
+Columbia,Canaan -1,US Senate,,Lbt,Chris Edes,5
+Columbia,Canaan -2,US Senate,,Lbt,Chris Edes,1
+Columbia,Chatham -1,US Senate,,Lbt,Chris Edes,6
+Columbia,Chatham -2,US Senate,,Lbt,Chris Edes,5
+Columbia,Chatham -3,US Senate,,Lbt,Chris Edes,7
+Columbia,Claverack -1,US Senate,,Lbt,Chris Edes,4
+Columbia,Claverack -2,US Senate,,Lbt,Chris Edes,0
+Columbia,Claverack -3,US Senate,,Lbt,Chris Edes,5
+Columbia,Claverack -4,US Senate,,Lbt,Chris Edes,4
+Columbia,Claverack -5,US Senate,,Lbt,Chris Edes,1
+Columbia,Clermont -1,US Senate,,Lbt,Chris Edes,4
+Columbia,Copake -1,US Senate,,Lbt,Chris Edes,4
+Columbia,Copake -2,US Senate,,Lbt,Chris Edes,4
+Columbia,Gallatin -1,US Senate,,Lbt,Chris Edes,5
+Columbia,Germantown -1,US Senate,,Lbt,Chris Edes,2
+Columbia,Germantown -2,US Senate,,Lbt,Chris Edes,0
+Columbia,Ghent -1,US Senate,,Lbt,Chris Edes,1
+Columbia,Ghent -2,US Senate,,Lbt,Chris Edes,6
+Columbia,Ghent -3,US Senate,,Lbt,Chris Edes,2
+Columbia,Ghent -4,US Senate,,Lbt,Chris Edes,3
+Columbia,Greenport -1,US Senate,,Lbt,Chris Edes,1
+Columbia,Greenport -2,US Senate,,Lbt,Chris Edes,0
+Columbia,Greenport -3,US Senate,,Lbt,Chris Edes,2
+Columbia,Hillsdale -1,US Senate,,Lbt,Chris Edes,1
+Columbia,Hillsdale -2,US Senate,,Lbt,Chris Edes,1
+Columbia,Hudson 1-1,US Senate,,Lbt,Chris Edes,1
+Columbia,Hudson 2-1,US Senate,,Lbt,Chris Edes,0
+Columbia,Hudson 3-1,US Senate,,Lbt,Chris Edes,5
+Columbia,Hudson 4-1,US Senate,,Lbt,Chris Edes,0
+Columbia,Hudson 5-1,US Senate,,Lbt,Chris Edes,2
+Columbia,Hudson 5-2,US Senate,,Lbt,Chris Edes,2
+Columbia,Kinderhook -1,US Senate,,Lbt,Chris Edes,2
+Columbia,Kinderhook -2,US Senate,,Lbt,Chris Edes,2
+Columbia,Kinderhook -3,US Senate,,Lbt,Chris Edes,4
+Columbia,Kinderhook -4,US Senate,,Lbt,Chris Edes,4
+Columbia,Kinderhook -5,US Senate,,Lbt,Chris Edes,3
+Columbia,Kinderhook -6,US Senate,,Lbt,Chris Edes,2
+Columbia,Kinderhook -7,US Senate,,Lbt,Chris Edes,2
+Columbia,Kinderhook -8,US Senate,,Lbt,Chris Edes,4
+Columbia,Livingston -1,US Senate,,Lbt,Chris Edes,5
+Columbia,Livingston -2,US Senate,,Lbt,Chris Edes,2
+Columbia,New Lebanon -1,US Senate,,Lbt,Chris Edes,8
+Columbia,New Lebanon -2,US Senate,,Lbt,Chris Edes,5
+Columbia,Stockport -1,US Senate,,Lbt,Chris Edes,2
+Columbia,Stockport -2,US Senate,,Lbt,Chris Edes,1
+Columbia,Stuyvesant -1,US Senate,,Lbt,Chris Edes,3
+Columbia,Stuyvesant -2,US Senate,,Lbt,Chris Edes,1
+Columbia,Taghkanic-1,US Senate,,Lbt,Chris Edes,3
+Columbia,Ancram -1,US Senate,,CS,John Mangelli,0
+Columbia,Ancram -2,US Senate,,CS,John Mangelli,4
+Columbia,Austerlitz -1,US Senate,,CS,John Mangelli,1
+Columbia,Austerlitz -2,US Senate,,CS,John Mangelli,0
+Columbia,Canaan -1,US Senate,,CS,John Mangelli,0
+Columbia,Canaan -2,US Senate,,CS,John Mangelli,2
+Columbia,Chatham -1,US Senate,,CS,John Mangelli,2
+Columbia,Chatham -2,US Senate,,CS,John Mangelli,4
+Columbia,Chatham -3,US Senate,,CS,John Mangelli,0
+Columbia,Claverack -1,US Senate,,CS,John Mangelli,2
+Columbia,Claverack -2,US Senate,,CS,John Mangelli,4
+Columbia,Claverack -3,US Senate,,CS,John Mangelli,3
+Columbia,Claverack -4,US Senate,,CS,John Mangelli,2
+Columbia,Claverack -5,US Senate,,CS,John Mangelli,0
+Columbia,Clermont -1,US Senate,,CS,John Mangelli,1
+Columbia,Copake -1,US Senate,,CS,John Mangelli,5
+Columbia,Copake -2,US Senate,,CS,John Mangelli,3
+Columbia,Gallatin -1,US Senate,,CS,John Mangelli,4
+Columbia,Germantown -1,US Senate,,CS,John Mangelli,1
+Columbia,Germantown -2,US Senate,,CS,John Mangelli,0
+Columbia,Ghent -1,US Senate,,CS,John Mangelli,1
+Columbia,Ghent -2,US Senate,,CS,John Mangelli,2
+Columbia,Ghent -3,US Senate,,CS,John Mangelli,2
+Columbia,Ghent -4,US Senate,,CS,John Mangelli,0
+Columbia,Greenport -1,US Senate,,CS,John Mangelli,2
+Columbia,Greenport -2,US Senate,,CS,John Mangelli,0
+Columbia,Greenport -3,US Senate,,CS,John Mangelli,0
+Columbia,Hillsdale -1,US Senate,,CS,John Mangelli,2
+Columbia,Hillsdale -2,US Senate,,CS,John Mangelli,0
+Columbia,Hudson 1-1,US Senate,,CS,John Mangelli,0
+Columbia,Hudson 2-1,US Senate,,CS,John Mangelli,0
+Columbia,Hudson 3-1,US Senate,,CS,John Mangelli,2
+Columbia,Hudson 4-1,US Senate,,CS,John Mangelli,0
+Columbia,Hudson 5-1,US Senate,,CS,John Mangelli,2
+Columbia,Hudson 5-2,US Senate,,CS,John Mangelli,2
+Columbia,Kinderhook -1,US Senate,,CS,John Mangelli,1
+Columbia,Kinderhook -2,US Senate,,CS,John Mangelli,4
+Columbia,Kinderhook -3,US Senate,,CS,John Mangelli,2
+Columbia,Kinderhook -4,US Senate,,CS,John Mangelli,2
+Columbia,Kinderhook -5,US Senate,,CS,John Mangelli,2
+Columbia,Kinderhook -6,US Senate,,CS,John Mangelli,1
+Columbia,Kinderhook -7,US Senate,,CS,John Mangelli,0
+Columbia,Kinderhook -8,US Senate,,CS,John Mangelli,1
+Columbia,Livingston -1,US Senate,,CS,John Mangelli,3
+Columbia,Livingston -2,US Senate,,CS,John Mangelli,0
+Columbia,New Lebanon -1,US Senate,,CS,John Mangelli,0
+Columbia,New Lebanon -2,US Senate,,CS,John Mangelli,3
+Columbia,Stockport -1,US Senate,,CS,John Mangelli,2
+Columbia,Stockport -2,US Senate,,CS,John Mangelli,2
+Columbia,Stuyvesant -1,US Senate,,CS,John Mangelli,2
+Columbia,Stuyvesant -2,US Senate,,CS,John Mangelli,2
+Columbia,Taghkanic-1,US Senate,,CS,John Mangelli,2
+Columbia,Ancram -1,US Senate,,,writein,0
+Columbia,Ancram -2,US Senate,,,writein,0
+Columbia,Austerlitz -1,US Senate,,,writein,0
+Columbia,Austerlitz -2,US Senate,,,writein,0
+Columbia,Canaan -1,US Senate,,,writein,0
+Columbia,Canaan -2,US Senate,,,writein,0
+Columbia,Chatham -1,US Senate,,,writein,1
+Columbia,Chatham -2,US Senate,,,writein,0
+Columbia,Chatham -3,US Senate,,,writein,0
+Columbia,Claverack -1,US Senate,,,writein,0
+Columbia,Claverack -2,US Senate,,,writein,0
+Columbia,Claverack -3,US Senate,,,writein,0
+Columbia,Claverack -4,US Senate,,,writein,0
+Columbia,Claverack -5,US Senate,,,writein,0
+Columbia,Clermont -1,US Senate,,,writein,0
+Columbia,Copake -1,US Senate,,,writein,0
+Columbia,Copake -2,US Senate,,,writein,0
+Columbia,Gallatin -1,US Senate,,,writein,0
+Columbia,Germantown -1,US Senate,,,writein,0
+Columbia,Germantown -2,US Senate,,,writein,0
+Columbia,Ghent -1,US Senate,,,writein,1
+Columbia,Ghent -2,US Senate,,,writein,0
+Columbia,Ghent -3,US Senate,,,writein,0
+Columbia,Ghent -4,US Senate,,,writein,0
+Columbia,Greenport -1,US Senate,,,writein,2
+Columbia,Greenport -2,US Senate,,,writein,0
+Columbia,Greenport -3,US Senate,,,writein,0
+Columbia,Hillsdale -1,US Senate,,,writein,0
+Columbia,Hillsdale -2,US Senate,,,writein,0
+Columbia,Hudson 1-1,US Senate,,,writein,0
+Columbia,Hudson 2-1,US Senate,,,writein,0
+Columbia,Hudson 3-1,US Senate,,,writein,1
+Columbia,Hudson 4-1,US Senate,,,writein,0
+Columbia,Hudson 5-1,US Senate,,,writein,1
+Columbia,Hudson 5-2,US Senate,,,writein,1
+Columbia,Kinderhook -1,US Senate,,,writein,0
+Columbia,Kinderhook -2,US Senate,,,writein,1
+Columbia,Kinderhook -3,US Senate,,,writein,0
+Columbia,Kinderhook -4,US Senate,,,writein,0
+Columbia,Kinderhook -5,US Senate,,,writein,1
+Columbia,Kinderhook -6,US Senate,,,writein,0
+Columbia,Kinderhook -7,US Senate,,,writein,0
+Columbia,Kinderhook -8,US Senate,,,writein,0
+Columbia,Livingston -1,US Senate,,,writein,0
+Columbia,Livingston -2,US Senate,,,writein,0
+Columbia,New Lebanon -1,US Senate,,,writein,0
+Columbia,New Lebanon -2,US Senate,,,writein,0
+Columbia,Stockport -1,US Senate,,,writein,0
+Columbia,Stockport -2,US Senate,,,writein,0
+Columbia,Stuyvesant -1,US Senate,,,writein,0
+Columbia,Stuyvesant -2,US Senate,,,writein,0
+Columbia,Taghkanic-1,US Senate,,,writein,0
