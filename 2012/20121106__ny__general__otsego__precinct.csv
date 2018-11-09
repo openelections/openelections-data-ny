@@ -1,0 +1,1661 @@
+county,precinct,office,district,party,candidate,votes
+Otsego,Maryland 1,,AD101,Dem,Daniel Carter,82
+Otsego,Maryland 2,,AD101,Dem,Daniel Carter,109
+Otsego,Middlefield 1,,AD101,Dem,Daniel Carter,204
+Otsego,Middlefield 2,,AD101,Dem,Daniel Carter,238
+Otsego,Springfield 1,,AD101,Dem,Daniel Carter,189
+Otsego,Westfield 1,,AD101,Dem,Daniel Carter,106
+Otsego,Maryland 1,,AD101,Rep,Claudia Tenney,165
+Otsego,Maryland 2,,AD101,Rep,Claudia Tenney,259
+Otsego,Middlefield 1,,AD101,Rep,Claudia Tenney,164
+Otsego,Middlefield 2,,AD101,Rep,Claudia Tenney,228
+Otsego,Springfield 1,,AD101,Rep,Claudia Tenney,346
+Otsego,Westfield 1,,AD101,Rep,Claudia Tenney,201
+Otsego,Maryland 1,,AD101,Con,Claudia Tenney,19
+Otsego,Maryland 2,,AD101,Con,Claudia Tenney,27
+Otsego,Middlefield 1,,AD101,Con,Claudia Tenney,11
+Otsego,Middlefield 2,,AD101,Con,Claudia Tenney,26
+Otsego,Springfield 1,,AD101,Con,Claudia Tenney,30
+Otsego,Westfield 1,,AD101,Con,Claudia Tenney,26
+Otsego,Maryland 1,,AD101,Ind,Claudia Tenney,5
+Otsego,Maryland 2,,AD101,Ind,Claudia Tenney,17
+Otsego,Middlefield 1,,AD101,Ind,Claudia Tenney,12
+Otsego,Middlefield 2,,AD101,Ind,Claudia Tenney,24
+Otsego,Springfield 1,,AD101,Ind,Claudia Tenney,21
+Otsego,Westfield 1,,AD101,Ind,Claudia Tenney,20
+Otsego,Cherry Valley 1,State House,AD102,Dem,James Miller,219
+Otsego,Decatur 1,State House,AD102,Dem,James Miller,35
+Otsego,Roseboom 1,State House,AD102,Dem,James Miller,116
+Otsego,Worcester 1,State House,AD102,Dem,James Miller,102
+Otsego,Worcester 2,State House,AD102,Dem,James Miller,59
+Otsego,Worcester 3,State House,AD102,Dem,James Miller,97
+Otsego,Cherry Valley 1,State House,AD102,Rep,Peter Lopez,264
+Otsego,Decatur 1,State House,AD102,Rep,Peter Lopez,93
+Otsego,Roseboom 1,State House,AD102,Rep,Peter Lopez,145
+Otsego,Worcester 1,State House,AD102,Rep,Peter Lopez,205
+Otsego,Worcester 2,State House,AD102,Rep,Peter Lopez,129
+Otsego,Worcester 3,State House,AD102,Rep,Peter Lopez,230
+Otsego,Cherry Valley 1,State House,AD102,Con,Peter Lopez,20
+Otsego,Decatur 1,State House,AD102,Con,Peter Lopez,23
+Otsego,Roseboom 1,State House,AD102,Con,Peter Lopez,15
+Otsego,Worcester 1,State House,AD102,Con,Peter Lopez,28
+Otsego,Worcester 2,State House,AD102,Con,Peter Lopez,11
+Otsego,Worcester 3,State House,AD102,Con,Peter Lopez,23
+Otsego,Cherry Valley 1,State House,AD102,Ind,Peter Lopez,27
+Otsego,Decatur 1,State House,AD102,Ind,Peter Lopez,9
+Otsego,Roseboom 1,State House,AD102,Ind,Peter Lopez,4
+Otsego,Worcester 1,State House,AD102,Ind,Peter Lopez,15
+Otsego,Worcester 2,State House,AD102,Ind,Peter Lopez,12
+Otsego,Worcester 3,State House,AD102,Ind,Peter Lopez,9
+Otsego,Cherry Valley 1,State House,AD102,Ind,writein,0
+Otsego,Decatur 1,State House,AD102,Ind,writein,0
+Otsego,Roseboom 1,State House,AD102,Ind,writein,0
+Otsego,Worcester 1,State House,AD102,Ind,writein,0
+Otsego,Worcester 2,State House,AD102,Ind,writein,1
+Otsego,Worcester 3,State House,AD102,Ind,writein,0
+Otsego,Burlington 1,State House,AD121,Dem,Bill Magee,243
+Otsego,City of Oneonta W1D1,State House,AD121,Dem,Bill Magee,429
+Otsego,City of Oneonta W2D1,State House,AD121,Dem,Bill Magee,330
+Otsego,City of Oneonta W3D1,State House,AD121,Dem,Bill Magee,198
+Otsego,City of Oneonta W4D1,State House,AD121,Dem,Bill Magee,241
+Otsego,City of Oneonta W5D1,State House,AD121,Dem,Bill Magee,245
+Otsego,City of Oneonta W6D1,State House,AD121,Dem,Bill Magee,372
+Otsego,City of Oneonta W7D1,State House,AD121,Dem,Bill Magee,292
+Otsego,City of Oneonta W8D1,State House,AD121,Dem,Bill Magee,284
+Otsego,Edmeston 1,State House,AD121,Dem,Bill Magee,393
+Otsego,Exeter 1,State House,AD121,Dem,Bill Magee,166
+Otsego,Hartwick 1,State House,AD121,Dem,Bill Magee,365
+Otsego,Hartwick 2,State House,AD121,Dem,Bill Magee,166
+Otsego,Laurens 1,State House,AD121,Dem,Bill Magee,249
+Otsego,Laurens 2,State House,AD121,Dem,Bill Magee,319
+Otsego,Milford 1,State House,AD121,Dem,Bill Magee,292
+Otsego,Milford 2,State House,AD121,Dem,Bill Magee,477
+Otsego,New Lisbon 1,State House,AD121,Dem,Bill Magee,250
+Otsego,Otego 1,State House,AD121,Dem,Bill Magee,306
+Otsego,Otego 2,State House,AD121,Dem,Bill Magee,303
+Otsego,Otsego 1,State House,AD121,Dem,Bill Magee,602
+Otsego,Otsego 2,State House,AD121,Dem,Bill Magee,220
+Otsego,Otsego 3,State House,AD121,Dem,Bill Magee,389
+Otsego,Pittsfield 1,State House,AD121,Dem,Bill Magee,268
+Otsego,Plainfield 1,State House,AD121,Dem,Bill Magee,140
+Otsego,Richfield 1,State House,AD121,Dem,Bill Magee,220
+Otsego,Richfield 2,State House,AD121,Dem,Bill Magee,241
+Otsego,Oneonta town 1,State House,AD121,Dem,Bill Magee,424
+Otsego,Oneonta town 2,State House,AD121,Dem,Bill Magee,427
+Otsego,Oneonta town 3,State House,AD121,Dem,Bill Magee,321
+Otsego,Oneonta town 4,State House,AD121,Dem,Bill Magee,262
+Otsego,Burlington 1,State House,AD121,Rep,Levi Spires,181
+Otsego,City of Oneonta W1D1,State House,AD121,Rep,Levi Spires,129
+Otsego,City of Oneonta W2D1,State House,AD121,Rep,Levi Spires,85
+Otsego,City of Oneonta W3D1,State House,AD121,Rep,Levi Spires,39
+Otsego,City of Oneonta W4D1,State House,AD121,Rep,Levi Spires,54
+Otsego,City of Oneonta W5D1,State House,AD121,Rep,Levi Spires,96
+Otsego,City of Oneonta W6D1,State House,AD121,Rep,Levi Spires,137
+Otsego,City of Oneonta W7D1,State House,AD121,Rep,Levi Spires,87
+Otsego,City of Oneonta W8D1,State House,AD121,Rep,Levi Spires,75
+Otsego,Edmeston 1,State House,AD121,Rep,Levi Spires,235
+Otsego,Exeter 1,State House,AD121,Rep,Levi Spires,137
+Otsego,Hartwick 1,State House,AD121,Rep,Levi Spires,194
+Otsego,Hartwick 2,State House,AD121,Rep,Levi Spires,128
+Otsego,Laurens 1,State House,AD121,Rep,Levi Spires,155
+Otsego,Laurens 2,State House,AD121,Rep,Levi Spires,179
+Otsego,Milford 1,State House,AD121,Rep,Levi Spires,141
+Otsego,Milford 2,State House,AD121,Rep,Levi Spires,231
+Otsego,New Lisbon 1,State House,AD121,Rep,Levi Spires,185
+Otsego,Otego 1,State House,AD121,Rep,Levi Spires,234
+Otsego,Otego 2,State House,AD121,Rep,Levi Spires,254
+Otsego,Otsego 1,State House,AD121,Rep,Levi Spires,225
+Otsego,Otsego 2,State House,AD121,Rep,Levi Spires,123
+Otsego,Otsego 3,State House,AD121,Rep,Levi Spires,254
+Otsego,Pittsfield 1,State House,AD121,Rep,Levi Spires,146
+Otsego,Plainfield 1,State House,AD121,Rep,Levi Spires,158
+Otsego,Richfield 1,State House,AD121,Rep,Levi Spires,134
+Otsego,Richfield 2,State House,AD121,Rep,Levi Spires,184
+Otsego,Oneonta town 1,State House,AD121,Rep,Levi Spires,205
+Otsego,Oneonta town 2,State House,AD121,Rep,Levi Spires,197
+Otsego,Oneonta town 3,State House,AD121,Rep,Levi Spires,117
+Otsego,Oneonta town 4,State House,AD121,Rep,Levi Spires,144
+Otsego,Burlington 1,State House,AD121,Con,Levi Spires,29
+Otsego,City of Oneonta W1D1,State House,AD121,Con,Levi Spires,20
+Otsego,City of Oneonta W2D1,State House,AD121,Con,Levi Spires,17
+Otsego,City of Oneonta W3D1,State House,AD121,Con,Levi Spires,7
+Otsego,City of Oneonta W4D1,State House,AD121,Con,Levi Spires,3
+Otsego,City of Oneonta W5D1,State House,AD121,Con,Levi Spires,12
+Otsego,City of Oneonta W6D1,State House,AD121,Con,Levi Spires,14
+Otsego,City of Oneonta W7D1,State House,AD121,Con,Levi Spires,8
+Otsego,City of Oneonta W8D1,State House,AD121,Con,Levi Spires,6
+Otsego,Edmeston 1,State House,AD121,Con,Levi Spires,30
+Otsego,Exeter 1,State House,AD121,Con,Levi Spires,28
+Otsego,Hartwick 1,State House,AD121,Con,Levi Spires,48
+Otsego,Hartwick 2,State House,AD121,Con,Levi Spires,19
+Otsego,Laurens 1,State House,AD121,Con,Levi Spires,15
+Otsego,Laurens 2,State House,AD121,Con,Levi Spires,20
+Otsego,Milford 1,State House,AD121,Con,Levi Spires,22
+Otsego,Milford 2,State House,AD121,Con,Levi Spires,32
+Otsego,New Lisbon 1,State House,AD121,Con,Levi Spires,26
+Otsego,Otego 1,State House,AD121,Con,Levi Spires,32
+Otsego,Otego 2,State House,AD121,Con,Levi Spires,34
+Otsego,Otsego 1,State House,AD121,Con,Levi Spires,24
+Otsego,Otsego 2,State House,AD121,Con,Levi Spires,9
+Otsego,Otsego 3,State House,AD121,Con,Levi Spires,22
+Otsego,Pittsfield 1,State House,AD121,Con,Levi Spires,11
+Otsego,Plainfield 1,State House,AD121,Con,Levi Spires,23
+Otsego,Richfield 1,State House,AD121,Con,Levi Spires,21
+Otsego,Richfield 2,State House,AD121,Con,Levi Spires,31
+Otsego,Oneonta town 1,State House,AD121,Con,Levi Spires,25
+Otsego,Oneonta town 2,State House,AD121,Con,Levi Spires,22
+Otsego,Oneonta town 3,State House,AD121,Con,Levi Spires,16
+Otsego,Oneonta town 4,State House,AD121,Con,Levi Spires,25
+Otsego,Burlington 1,State House,AD121,Ind,writein,
+Otsego,City of Oneonta W1D1,State House,AD121,Ind,writein,
+Otsego,City of Oneonta W2D1,State House,AD121,Ind,writein,
+Otsego,City of Oneonta W3D1,State House,AD121,Ind,writein,
+Otsego,City of Oneonta W4D1,State House,AD121,Ind,writein,1
+Otsego,City of Oneonta W5D1,State House,AD121,Ind,writein,
+Otsego,City of Oneonta W6D1,State House,AD121,Ind,writein,
+Otsego,City of Oneonta W7D1,State House,AD121,Ind,writein,
+Otsego,City of Oneonta W8D1,State House,AD121,Ind,writein,
+Otsego,Edmeston 1,State House,AD121,Ind,writein,
+Otsego,Exeter 1,State House,AD121,Ind,writein,
+Otsego,Hartwick 1,State House,AD121,Ind,writein,
+Otsego,Hartwick 2,State House,AD121,Ind,writein,
+Otsego,Laurens 1,State House,AD121,Ind,writein,
+Otsego,Laurens 2,State House,AD121,Ind,writein,1
+Otsego,Milford 1,State House,AD121,Ind,writein,
+Otsego,Milford 2,State House,AD121,Ind,writein,
+Otsego,New Lisbon 1,State House,AD121,Ind,writein,
+Otsego,Otego 1,State House,AD121,Ind,writein,
+Otsego,Otego 2,State House,AD121,Ind,writein,
+Otsego,Otsego 1,State House,AD121,Ind,writein,
+Otsego,Otsego 2,State House,AD121,Ind,writein,
+Otsego,Otsego 3,State House,AD121,Ind,writein,1
+Otsego,Pittsfield 1,State House,AD121,Ind,writein,
+Otsego,Plainfield 1,State House,AD121,Ind,writein,
+Otsego,Richfield 1,State House,AD121,Ind,writein,
+Otsego,Richfield 2,State House,AD121,Ind,writein,
+Otsego,Oneonta town 1,State House,AD121,Ind,writein,
+Otsego,Oneonta town 2,State House,AD121,Ind,writein,1
+Otsego,Oneonta town 3,State House,AD121,Ind,writein,
+Otsego,Oneonta town 4,State House,AD121,Ind,writein,
+Otsego,Butternuts 1,State House,AD122,Rep,Clifford Crouch,223
+Otsego,Butternuts 2,State House,AD122,Rep,Clifford Crouch,350
+Otsego,Morris 1,State House,AD122,Rep,Clifford Crouch,495
+Otsego,Unadilla 1,State House,AD122,Rep,Clifford Crouch,361
+Otsego,Unadilla 2,State House,AD122,Rep,Clifford Crouch,483
+Otsego,Unadilla 3,State House,AD122,Rep,Clifford Crouch,293
+Otsego,Butternuts 1,State House,AD122,Ind,writein,0
+Otsego,Butternuts 2,State House,AD122,Ind,writein,1
+Otsego,Morris 1,State House,AD122,Ind,writein,5
+Otsego,Unadilla 1,State House,AD122,Ind,writein,2
+Otsego,Unadilla 2,State House,AD122,Ind,writein,0
+Otsego,Unadilla 3,State House,AD122,Ind,writein,0
+Otsego,Burlington 1,President,,Dem,Barack Obama,158
+Otsego,Butternuts 1,President,,Dem,Barack Obama,124
+Otsego,Butternuts 2,President,,Dem,Barack Obama,268
+Otsego,Cherry Valley 1,President,,Dem,Barack Obama,291
+Otsego,City of Oneonta W1D1,President,,Dem,Barack Obama,386
+Otsego,City of Oneonta W2D1,President,,Dem,Barack Obama,324
+Otsego,City of Oneonta W3D1,President,,Dem,Barack Obama,205
+Otsego,City of Oneonta W4D1,President,,Dem,Barack Obama,232
+Otsego,City of Oneonta W5D1,President,,Dem,Barack Obama,226
+Otsego,City of Oneonta W6D1,President,,Dem,Barack Obama,330
+Otsego,City of Oneonta W7D1,President,,Dem,Barack Obama,256
+Otsego,City of Oneonta W8D1,President,,Dem,Barack Obama,274
+Otsego,Decatur 1,President,,Dem,Barack Obama,54
+Otsego,Edmeston 1,President,,Dem,Barack Obama,275
+Otsego,Exeter 1,President,,Dem,Barack Obama,139
+Otsego,Hartwick 1,President,,Dem,Barack Obama,311
+Otsego,Hartwick 2,President,,Dem,Barack Obama,159
+Otsego,Laurens 1,President,,Dem,Barack Obama,197
+Otsego,Laurens 2,President,,Dem,Barack Obama,256
+Otsego,Maryland 1,President,,Dem,Barack Obama,107
+Otsego,Maryland 2,President,,Dem,Barack Obama,148
+Otsego,Middlefield 1,President,,Dem,Barack Obama,279
+Otsego,Middlefield 2,President,,Dem,Barack Obama,263
+Otsego,Milford 1,President,,Dem,Barack Obama,236
+Otsego,Milford 2,President,,Dem,Barack Obama,361
+Otsego,Morris 1,President,,Dem,Barack Obama,308
+Otsego,New Lisbon 1,President,,Dem,Barack Obama,199
+Otsego,Otego 1,President,,Dem,Barack Obama,270
+Otsego,Otego 2,President,,Dem,Barack Obama,274
+Otsego,Otsego 1,President,,Dem,Barack Obama,573
+Otsego,Otsego 2,President,,Dem,Barack Obama,192
+Otsego,Otsego 3,President,,Dem,Barack Obama,350
+Otsego,Pittsfield 1,President,,Dem,Barack Obama,222
+Otsego,Plainfield 1,President,,Dem,Barack Obama,112
+Otsego,Richfield 1,President,,Dem,Barack Obama,175
+Otsego,Richfield 2,President,,Dem,Barack Obama,154
+Otsego,Roseboom 1,President,,Dem,Barack Obama,127
+Otsego,Springfield 1,President,,Dem,Barack Obama,240
+Otsego,Oneonta town 1,President,,Dem,Barack Obama,378
+Otsego,Oneonta town 2,President,,Dem,Barack Obama,355
+Otsego,Oneonta town 3,President,,Dem,Barack Obama,282
+Otsego,Oneonta town 4,President,,Dem,Barack Obama,221
+Otsego,Unadilla 1,President,,Dem,Barack Obama,216
+Otsego,Unadilla 2,President,,Dem,Barack Obama,268
+Otsego,Unadilla 3,President,,Dem,Barack Obama,237
+Otsego,Westford 1,President,,Dem,Barack Obama,150
+Otsego,Worcester 1,President,,Dem,Barack Obama,138
+Otsego,Worcester 2,President,,Dem,Barack Obama,79
+Otsego,Worcester 3,President,,Dem,Barack Obama,151
+Otsego,Burlington 1,President,,Rep,Mitt Romney,277
+Otsego,Butternuts 1,President,,Rep,Mitt Romney,161
+Otsego,Butternuts 2,President,,Rep,Mitt Romney,240
+Otsego,Cherry Valley 1,President,,Rep,Mitt Romney,263
+Otsego,City of Oneonta W1D1,President,,Rep,Mitt Romney,173
+Otsego,City of Oneonta W2D1,President,,Rep,Mitt Romney,111
+Otsego,City of Oneonta W3D1,President,,Rep,Mitt Romney,47
+Otsego,City of Oneonta W4D1,President,,Rep,Mitt Romney,68
+Otsego,City of Oneonta W5D1,President,,Rep,Mitt Romney,125
+Otsego,City of Oneonta W6D1,President,,Rep,Mitt Romney,200
+Otsego,City of Oneonta W7D1,President,,Rep,Mitt Romney,116
+Otsego,City of Oneonta W8D1,President,,Rep,Mitt Romney,92
+Otsego,Decatur 1,President,,Rep,Mitt Romney,106
+Otsego,Edmeston 1,President,,Rep,Mitt Romney,368
+Otsego,Exeter 1,President,,Rep,Mitt Romney,189
+Otsego,Hartwick 1,President,,Rep,Mitt Romney,262
+Otsego,Hartwick 2,President,,Rep,Mitt Romney,150
+Otsego,Laurens 1,President,,Rep,Mitt Romney,200
+Otsego,Laurens 2,President,,Rep,Mitt Romney,241
+Otsego,Maryland 1,President,,Rep,Mitt Romney,168
+Otsego,Maryland 2,President,,Rep,Mitt Romney,282
+Otsego,Middlefield 1,President,,Rep,Mitt Romney,131
+Otsego,Middlefield 2,President,,Rep,Mitt Romney,239
+Otsego,Milford 1,President,,Rep,Mitt Romney,224
+Otsego,Milford 2,President,,Rep,Mitt Romney,363
+Otsego,Morris 1,President,,Rep,Mitt Romney,356
+Otsego,New Lisbon 1,President,,Rep,Mitt Romney,238
+Otsego,Otego 1,President,,Rep,Mitt Romney,303
+Otsego,Otego 2,President,,Rep,Mitt Romney,313
+Otsego,Otsego 1,President,,Rep,Mitt Romney,290
+Otsego,Otsego 2,President,,Rep,Mitt Romney,156
+Otsego,Otsego 3,President,,Rep,Mitt Romney,318
+Otsego,Pittsfield 1,President,,Rep,Mitt Romney,205
+Otsego,Plainfield 1,President,,Rep,Mitt Romney,198
+Otsego,Richfield 1,President,,Rep,Mitt Romney,212
+Otsego,Richfield 2,President,,Rep,Mitt Romney,282
+Otsego,Roseboom 1,President,,Rep,Mitt Romney,144
+Otsego,Springfield 1,President,,Rep,Mitt Romney,319
+Otsego,Oneonta town 1,President,,Rep,Mitt Romney,272
+Otsego,Oneonta town 2,President,,Rep,Mitt Romney,288
+Otsego,Oneonta town 3,President,,Rep,Mitt Romney,163
+Otsego,Oneonta town 4,President,,Rep,Mitt Romney,186
+Otsego,Unadilla 1,President,,Rep,Mitt Romney,226
+Otsego,Unadilla 2,President,,Rep,Mitt Romney,330
+Otsego,Unadilla 3,President,,Rep,Mitt Romney,144
+Otsego,Westford 1,President,,Rep,Mitt Romney,193
+Otsego,Worcester 1,President,,Rep,Mitt Romney,194
+Otsego,Worcester 2,President,,Rep,Mitt Romney,127
+Otsego,Worcester 3,President,,Rep,Mitt Romney,198
+Otsego,Burlington 1,President,,Con,Mitt Romney,32
+Otsego,Butternuts 1,President,,Con,Mitt Romney,11
+Otsego,Butternuts 2,President,,Con,Mitt Romney,20
+Otsego,Cherry Valley 1,President,,Con,Mitt Romney,18
+Otsego,City of Oneonta W1D1,President,,Con,Mitt Romney,16
+Otsego,City of Oneonta W2D1,President,,Con,Mitt Romney,9
+Otsego,City of Oneonta W3D1,President,,Con,Mitt Romney,6
+Otsego,City of Oneonta W4D1,President,,Con,Mitt Romney,2
+Otsego,City of Oneonta W5D1,President,,Con,Mitt Romney,7
+Otsego,City of Oneonta W6D1,President,,Con,Mitt Romney,9
+Otsego,City of Oneonta W7D1,President,,Con,Mitt Romney,9
+Otsego,City of Oneonta W8D1,President,,Con,Mitt Romney,6
+Otsego,Decatur 1,President,,Con,Mitt Romney,19
+Otsego,Edmeston 1,President,,Con,Mitt Romney,29
+Otsego,Exeter 1,President,,Con,Mitt Romney,22
+Otsego,Hartwick 1,President,,Con,Mitt Romney,43
+Otsego,Hartwick 2,President,,Con,Mitt Romney,16
+Otsego,Laurens 1,President,,Con,Mitt Romney,16
+Otsego,Laurens 2,President,,Con,Mitt Romney,19
+Otsego,Maryland 1,President,,Con,Mitt Romney,15
+Otsego,Maryland 2,President,,Con,Mitt Romney,24
+Otsego,Middlefield 1,President,,Con,Mitt Romney,12
+Otsego,Middlefield 2,President,,Con,Mitt Romney,31
+Otsego,Milford 1,President,,Con,Mitt Romney,17
+Otsego,Milford 2,President,,Con,Mitt Romney,28
+Otsego,Morris 1,President,,Con,Mitt Romney,28
+Otsego,New Lisbon 1,President,,Con,Mitt Romney,33
+Otsego,Otego 1,President,,Con,Mitt Romney,33
+Otsego,Otego 2,President,,Con,Mitt Romney,32
+Otsego,Otsego 1,President,,Con,Mitt Romney,27
+Otsego,Otsego 2,President,,Con,Mitt Romney,15
+Otsego,Otsego 3,President,,Con,Mitt Romney,24
+Otsego,Pittsfield 1,President,,Con,Mitt Romney,15
+Otsego,Plainfield 1,President,,Con,Mitt Romney,28
+Otsego,Richfield 1,President,,Con,Mitt Romney,17
+Otsego,Richfield 2,President,,Con,Mitt Romney,30
+Otsego,Roseboom 1,President,,Con,Mitt Romney,15
+Otsego,Springfield 1,President,,Con,Mitt Romney,39
+Otsego,Oneonta town 1,President,,Con,Mitt Romney,25
+Otsego,Oneonta town 2,President,,Con,Mitt Romney,25
+Otsego,Oneonta town 3,President,,Con,Mitt Romney,17
+Otsego,Oneonta town 4,President,,Con,Mitt Romney,29
+Otsego,Unadilla 1,President,,Con,Mitt Romney,31
+Otsego,Unadilla 2,President,,Con,Mitt Romney,21
+Otsego,Unadilla 3,President,,Con,Mitt Romney,15
+Otsego,Westford 1,President,,Con,Mitt Romney,23
+Otsego,Worcester 1,President,,Con,Mitt Romney,23
+Otsego,Worcester 2,President,,Con,Mitt Romney,8
+Otsego,Worcester 3,President,,Con,Mitt Romney,21
+Otsego,Burlington 1,President,,WF,Barack Obama,11
+Otsego,Butternuts 1,President,,WF,Barack Obama,4
+Otsego,Butternuts 2,President,,WF,Barack Obama,16
+Otsego,Cherry Valley 1,President,,WF,Barack Obama,24
+Otsego,City of Oneonta W1D1,President,,WF,Barack Obama,19
+Otsego,City of Oneonta W2D1,President,,WF,Barack Obama,11
+Otsego,City of Oneonta W3D1,President,,WF,Barack Obama,8
+Otsego,City of Oneonta W4D1,President,,WF,Barack Obama,14
+Otsego,City of Oneonta W5D1,President,,WF,Barack Obama,8
+Otsego,City of Oneonta W6D1,President,,WF,Barack Obama,10
+Otsego,City of Oneonta W7D1,President,,WF,Barack Obama,18
+Otsego,City of Oneonta W8D1,President,,WF,Barack Obama,17
+Otsego,Decatur 1,President,,WF,Barack Obama,0
+Otsego,Edmeston 1,President,,WF,Barack Obama,9
+Otsego,Exeter 1,President,,WF,Barack Obama,6
+Otsego,Hartwick 1,President,,WF,Barack Obama,22
+Otsego,Hartwick 2,President,,WF,Barack Obama,12
+Otsego,Laurens 1,President,,WF,Barack Obama,11
+Otsego,Laurens 2,President,,WF,Barack Obama,13
+Otsego,Maryland 1,President,,WF,Barack Obama,10
+Otsego,Maryland 2,President,,WF,Barack Obama,7
+Otsego,Middlefield 1,President,,WF,Barack Obama,16
+Otsego,Middlefield 2,President,,WF,Barack Obama,16
+Otsego,Milford 1,President,,WF,Barack Obama,6
+Otsego,Milford 2,President,,WF,Barack Obama,26
+Otsego,Morris 1,President,,WF,Barack Obama,19
+Otsego,New Lisbon 1,President,,WF,Barack Obama,5
+Otsego,Otego 1,President,,WF,Barack Obama,14
+Otsego,Otego 2,President,,WF,Barack Obama,21
+Otsego,Otsego 1,President,,WF,Barack Obama,22
+Otsego,Otsego 2,President,,WF,Barack Obama,15
+Otsego,Otsego 3,President,,WF,Barack Obama,18
+Otsego,Pittsfield 1,President,,WF,Barack Obama,7
+Otsego,Plainfield 1,President,,WF,Barack Obama,5
+Otsego,Richfield 1,President,,WF,Barack Obama,5
+Otsego,Richfield 2,President,,WF,Barack Obama,9
+Otsego,Roseboom 1,President,,WF,Barack Obama,20
+Otsego,Springfield 1,President,,WF,Barack Obama,11
+Otsego,Oneonta town 1,President,,WF,Barack Obama,13
+Otsego,Oneonta town 2,President,,WF,Barack Obama,17
+Otsego,Oneonta town 3,President,,WF,Barack Obama,5
+Otsego,Oneonta town 4,President,,WF,Barack Obama,8
+Otsego,Unadilla 1,President,,WF,Barack Obama,11
+Otsego,Unadilla 2,President,,WF,Barack Obama,17
+Otsego,Unadilla 3,President,,WF,Barack Obama,8
+Otsego,Westford 1,President,,WF,Barack Obama,12
+Otsego,Worcester 1,President,,WF,Barack Obama,4
+Otsego,Worcester 2,President,,WF,Barack Obama,6
+Otsego,Worcester 3,President,,WF,Barack Obama,1
+Otsego,Burlington 1,President,,Green,Jill Stein,0
+Otsego,Butternuts 1,President,,Green,Jill Stein,4
+Otsego,Butternuts 2,President,,Green,Jill Stein,8
+Otsego,Cherry Valley 1,President,,Green,Jill Stein,5
+Otsego,City of Oneonta W1D1,President,,Green,Jill Stein,13
+Otsego,City of Oneonta W2D1,President,,Green,Jill Stein,2
+Otsego,City of Oneonta W3D1,President,,Green,Jill Stein,2
+Otsego,City of Oneonta W4D1,President,,Green,Jill Stein,5
+Otsego,City of Oneonta W5D1,President,,Green,Jill Stein,2
+Otsego,City of Oneonta W6D1,President,,Green,Jill Stein,3
+Otsego,City of Oneonta W7D1,President,,Green,Jill Stein,6
+Otsego,City of Oneonta W8D1,President,,Green,Jill Stein,7
+Otsego,Decatur 1,President,,Green,Jill Stein,2
+Otsego,Edmeston 1,President,,Green,Jill Stein,7
+Otsego,Exeter 1,President,,Green,Jill Stein,2
+Otsego,Hartwick 1,President,,Green,Jill Stein,6
+Otsego,Hartwick 2,President,,Green,Jill Stein,5
+Otsego,Laurens 1,President,,Green,Jill Stein,5
+Otsego,Laurens 2,President,,Green,Jill Stein,12
+Otsego,Maryland 1,President,,Green,Jill Stein,3
+Otsego,Maryland 2,President,,Green,Jill Stein,7
+Otsego,Middlefield 1,President,,Green,Jill Stein,2
+Otsego,Middlefield 2,President,,Green,Jill Stein,8
+Otsego,Milford 1,President,,Green,Jill Stein,5
+Otsego,Milford 2,President,,Green,Jill Stein,4
+Otsego,Morris 1,President,,Green,Jill Stein,8
+Otsego,New Lisbon 1,President,,Green,Jill Stein,6
+Otsego,Otego 1,President,,Green,Jill Stein,2
+Otsego,Otego 2,President,,Green,Jill Stein,2
+Otsego,Otsego 1,President,,Green,Jill Stein,5
+Otsego,Otsego 2,President,,Green,Jill Stein,1
+Otsego,Otsego 3,President,,Green,Jill Stein,8
+Otsego,Pittsfield 1,President,,Green,Jill Stein,4
+Otsego,Plainfield 1,President,,Green,Jill Stein,4
+Otsego,Richfield 1,President,,Green,Jill Stein,1
+Otsego,Richfield 2,President,,Green,Jill Stein,6
+Otsego,Roseboom 1,President,,Green,Jill Stein,2
+Otsego,Springfield 1,President,,Green,Jill Stein,7
+Otsego,Oneonta town 1,President,,Green,Jill Stein,4
+Otsego,Oneonta town 2,President,,Green,Jill Stein,9
+Otsego,Oneonta town 3,President,,Green,Jill Stein,7
+Otsego,Oneonta town 4,President,,Green,Jill Stein,3
+Otsego,Unadilla 1,President,,Green,Jill Stein,7
+Otsego,Unadilla 2,President,,Green,Jill Stein,5
+Otsego,Unadilla 3,President,,Green,Jill Stein,7
+Otsego,Westford 1,President,,Green,Jill Stein,4
+Otsego,Worcester 1,President,,Green,Jill Stein,4
+Otsego,Worcester 2,President,,Green,Jill Stein,4
+Otsego,Worcester 3,President,,Green,Jill Stein,3
+Otsego,Burlington 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Butternuts 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Butternuts 2,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Cherry Valley 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,City of Oneonta W1D1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,City of Oneonta W2D1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,City of Oneonta W3D1,President,,Soc & Lib,Peta Lindsay,1
+Otsego,City of Oneonta W4D1,President,,Soc & Lib,Peta Lindsay,1
+Otsego,City of Oneonta W5D1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,City of Oneonta W6D1,President,,Soc & Lib,Peta Lindsay,1
+Otsego,City of Oneonta W7D1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,City of Oneonta W8D1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Decatur 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Edmeston 1,President,,Soc & Lib,Peta Lindsay,1
+Otsego,Exeter 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Hartwick 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Hartwick 2,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Laurens 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Laurens 2,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Maryland 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Maryland 2,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Middlefield 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Middlefield 2,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Milford 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Milford 2,President,,Soc & Lib,Peta Lindsay,1
+Otsego,Morris 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,New Lisbon 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Otego 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Otego 2,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Otsego 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Otsego 2,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Otsego 3,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Pittsfield 1,President,,Soc & Lib,Peta Lindsay,1
+Otsego,Plainfield 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Richfield 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Richfield 2,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Roseboom 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Springfield 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Oneonta town 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Oneonta town 2,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Oneonta town 3,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Oneonta town 4,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Unadilla 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Unadilla 2,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Unadilla 3,President,,Soc & Lib,Peta Lindsay,1
+Otsego,Westford 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Worcester 1,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Worcester 2,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Worcester 3,President,,Soc & Lib,Peta Lindsay,0
+Otsego,Burlington 1,President,,Lbt,Gary Johnson,2
+Otsego,Butternuts 1,President,,Lbt,Gary Johnson,2
+Otsego,Butternuts 2,President,,Lbt,Gary Johnson,9
+Otsego,Cherry Valley 1,President,,Lbt,Gary Johnson,4
+Otsego,City of Oneonta W1D1,President,,Lbt,Gary Johnson,4
+Otsego,City of Oneonta W2D1,President,,Lbt,Gary Johnson,2
+Otsego,City of Oneonta W3D1,President,,Lbt,Gary Johnson,3
+Otsego,City of Oneonta W4D1,President,,Lbt,Gary Johnson,3
+Otsego,City of Oneonta W5D1,President,,Lbt,Gary Johnson,5
+Otsego,City of Oneonta W6D1,President,,Lbt,Gary Johnson,10
+Otsego,City of Oneonta W7D1,President,,Lbt,Gary Johnson,5
+Otsego,City of Oneonta W8D1,President,,Lbt,Gary Johnson,6
+Otsego,Decatur 1,President,,Lbt,Gary Johnson,0
+Otsego,Edmeston 1,President,,Lbt,Gary Johnson,3
+Otsego,Exeter 1,President,,Lbt,Gary Johnson,4
+Otsego,Hartwick 1,President,,Lbt,Gary Johnson,10
+Otsego,Hartwick 2,President,,Lbt,Gary Johnson,6
+Otsego,Laurens 1,President,,Lbt,Gary Johnson,2
+Otsego,Laurens 2,President,,Lbt,Gary Johnson,4
+Otsego,Maryland 1,President,,Lbt,Gary Johnson,3
+Otsego,Maryland 2,President,,Lbt,Gary Johnson,1
+Otsego,Middlefield 1,President,,Lbt,Gary Johnson,1
+Otsego,Middlefield 2,President,,Lbt,Gary Johnson,10
+Otsego,Milford 1,President,,Lbt,Gary Johnson,3
+Otsego,Milford 2,President,,Lbt,Gary Johnson,11
+Otsego,Morris 1,President,,Lbt,Gary Johnson,10
+Otsego,New Lisbon 1,President,,Lbt,Gary Johnson,5
+Otsego,Otego 1,President,,Lbt,Gary Johnson,2
+Otsego,Otego 2,President,,Lbt,Gary Johnson,5
+Otsego,Otsego 1,President,,Lbt,Gary Johnson,10
+Otsego,Otsego 2,President,,Lbt,Gary Johnson,1
+Otsego,Otsego 3,President,,Lbt,Gary Johnson,3
+Otsego,Pittsfield 1,President,,Lbt,Gary Johnson,3
+Otsego,Plainfield 1,President,,Lbt,Gary Johnson,3
+Otsego,Richfield 1,President,,Lbt,Gary Johnson,2
+Otsego,Richfield 2,President,,Lbt,Gary Johnson,3
+Otsego,Roseboom 1,President,,Lbt,Gary Johnson,5
+Otsego,Springfield 1,President,,Lbt,Gary Johnson,2
+Otsego,Oneonta town 1,President,,Lbt,Gary Johnson,9
+Otsego,Oneonta town 2,President,,Lbt,Gary Johnson,2
+Otsego,Oneonta town 3,President,,Lbt,Gary Johnson,3
+Otsego,Oneonta town 4,President,,Lbt,Gary Johnson,3
+Otsego,Unadilla 1,President,,Lbt,Gary Johnson,3
+Otsego,Unadilla 2,President,,Lbt,Gary Johnson,7
+Otsego,Unadilla 3,President,,Lbt,Gary Johnson,4
+Otsego,Westford 1,President,,Lbt,Gary Johnson,3
+Otsego,Worcester 1,President,,Lbt,Gary Johnson,3
+Otsego,Worcester 2,President,,Lbt,Gary Johnson,3
+Otsego,Worcester 3,President,,Lbt,Gary Johnson,5
+Otsego,Burlington 1,President,,Const,Virgil Goode,0
+Otsego,Butternuts 1,President,,Const,Virgil Goode,0
+Otsego,Butternuts 2,President,,Const,Virgil Goode,1
+Otsego,Cherry Valley 1,President,,Const,Virgil Goode,1
+Otsego,City of Oneonta W1D1,President,,Const,Virgil Goode,0
+Otsego,City of Oneonta W2D1,President,,Const,Virgil Goode,1
+Otsego,City of Oneonta W3D1,President,,Const,Virgil Goode,0
+Otsego,City of Oneonta W4D1,President,,Const,Virgil Goode,1
+Otsego,City of Oneonta W5D1,President,,Const,Virgil Goode,1
+Otsego,City of Oneonta W6D1,President,,Const,Virgil Goode,0
+Otsego,City of Oneonta W7D1,President,,Const,Virgil Goode,0
+Otsego,City of Oneonta W8D1,President,,Const,Virgil Goode,0
+Otsego,Decatur 1,President,,Const,Virgil Goode,1
+Otsego,Edmeston 1,President,,Const,Virgil Goode,1
+Otsego,Exeter 1,President,,Const,Virgil Goode,4
+Otsego,Hartwick 1,President,,Const,Virgil Goode,1
+Otsego,Hartwick 2,President,,Const,Virgil Goode,0
+Otsego,Laurens 1,President,,Const,Virgil Goode,2
+Otsego,Laurens 2,President,,Const,Virgil Goode,0
+Otsego,Maryland 1,President,,Const,Virgil Goode,0
+Otsego,Maryland 2,President,,Const,Virgil Goode,0
+Otsego,Middlefield 1,President,,Const,Virgil Goode,1
+Otsego,Middlefield 2,President,,Const,Virgil Goode,0
+Otsego,Milford 1,President,,Const,Virgil Goode,0
+Otsego,Milford 2,President,,Const,Virgil Goode,1
+Otsego,Morris 1,President,,Const,Virgil Goode,1
+Otsego,New Lisbon 1,President,,Const,Virgil Goode,1
+Otsego,Otego 1,President,,Const,Virgil Goode,2
+Otsego,Otego 2,President,,Const,Virgil Goode,0
+Otsego,Otsego 1,President,,Const,Virgil Goode,0
+Otsego,Otsego 2,President,,Const,Virgil Goode,0
+Otsego,Otsego 3,President,,Const,Virgil Goode,0
+Otsego,Pittsfield 1,President,,Const,Virgil Goode,0
+Otsego,Plainfield 1,President,,Const,Virgil Goode,1
+Otsego,Richfield 1,President,,Const,Virgil Goode,1
+Otsego,Richfield 2,President,,Const,Virgil Goode,0
+Otsego,Roseboom 1,President,,Const,Virgil Goode,1
+Otsego,Springfield 1,President,,Const,Virgil Goode,0
+Otsego,Oneonta town 1,President,,Const,Virgil Goode,0
+Otsego,Oneonta town 2,President,,Const,Virgil Goode,1
+Otsego,Oneonta town 3,President,,Const,Virgil Goode,0
+Otsego,Oneonta town 4,President,,Const,Virgil Goode,0
+Otsego,Unadilla 1,President,,Const,Virgil Goode,3
+Otsego,Unadilla 2,President,,Const,Virgil Goode,0
+Otsego,Unadilla 3,President,,Const,Virgil Goode,0
+Otsego,Westford 1,President,,Const,Virgil Goode,0
+Otsego,Worcester 1,President,,Const,Virgil Goode,0
+Otsego,Worcester 2,President,,Const,Virgil Goode,0
+Otsego,Worcester 3,President,,Const,Virgil Goode,1
+Otsego,Burlington 1,President,,,writeins,1
+Otsego,Butternuts 1,President,,,writeins,
+Otsego,Butternuts 2,President,,,writeins,2
+Otsego,Cherry Valley 1,President,,,writeins,
+Otsego,City of Oneonta W1D1,President,,,writeins,2
+Otsego,City of Oneonta W2D1,President,,,writeins,2
+Otsego,City of Oneonta W3D1,President,,,writeins,1
+Otsego,City of Oneonta W4D1,President,,,writeins,
+Otsego,City of Oneonta W5D1,President,,,writeins,2
+Otsego,City of Oneonta W6D1,President,,,writeins,2
+Otsego,City of Oneonta W7D1,President,,,writeins,3
+Otsego,City of Oneonta W8D1,President,,,writeins,4
+Otsego,Decatur 1,President,,,writeins,
+Otsego,Edmeston 1,President,,,writeins,2
+Otsego,Exeter 1,President,,,writeins,
+Otsego,Hartwick 1,President,,,writeins,
+Otsego,Hartwick 2,President,,,writeins,1
+Otsego,Laurens 1,President,,,writeins,1
+Otsego,Laurens 2,President,,,writeins,
+Otsego,Maryland 1,President,,,writeins,2
+Otsego,Maryland 2,President,,,writeins,2
+Otsego,Middlefield 1,President,,,writeins,1
+Otsego,Middlefield 2,President,,,writeins,1
+Otsego,Milford 1,President,,,writeins,2
+Otsego,Milford 2,President,,,writeins,
+Otsego,Morris 1,President,,,writeins,6
+Otsego,New Lisbon 1,President,,,writeins,1
+Otsego,Otego 1,President,,,writeins,2
+Otsego,Otego 2,President,,,writeins,2
+Otsego,Otsego 1,President,,,writeins,3
+Otsego,Otsego 2,President,,,writeins,2
+Otsego,Otsego 3,President,,,writeins,3
+Otsego,Pittsfield 1,President,,,writeins,
+Otsego,Plainfield 1,President,,,writeins,
+Otsego,Richfield 1,President,,,writeins,1
+Otsego,Richfield 2,President,,,writeins,
+Otsego,Roseboom 1,President,,,writeins,2
+Otsego,Springfield 1,President,,,writeins,2
+Otsego,Oneonta town 1,President,,,writeins,3
+Otsego,Oneonta town 2,President,,,writeins,3
+Otsego,Oneonta town 3,President,,,writeins,1
+Otsego,Oneonta town 4,President,,,writeins,2
+Otsego,Unadilla 1,President,,,writeins,1
+Otsego,Unadilla 2,President,,,writeins,1
+Otsego,Unadilla 3,President,,,writeins,4
+Otsego,Westford 1,President,,,writeins,
+Otsego,Worcester 1,President,,,writeins,3
+Otsego,Worcester 2,President,,,writeins,
+Otsego,Worcester 3,President,,,writeins,3
+Otsego,Burlington 1,State Senate,Sen51,Dem,Howard Lieb,82
+Otsego,Butternuts 1,State Senate,Sen51,Dem,Howard Lieb,61
+Otsego,Butternuts 2,State Senate,Sen51,Dem,Howard Lieb,183
+Otsego,Cherry Valley 1,State Senate,Sen51,Dem,Howard Lieb,160
+Otsego,City of Oneonta W1D1,State Senate,Sen51,Dem,Howard Lieb,218
+Otsego,City of Oneonta W2D1,State Senate,Sen51,Dem,Howard Lieb,173
+Otsego,City of Oneonta W3D1,State Senate,Sen51,Dem,Howard Lieb,111
+Otsego,City of Oneonta W4D1,State Senate,Sen51,Dem,Howard Lieb,134
+Otsego,City of Oneonta W5D1,State Senate,Sen51,Dem,Howard Lieb,108
+Otsego,City of Oneonta W6D1,State Senate,Sen51,Dem,Howard Lieb,167
+Otsego,City of Oneonta W7D1,State Senate,Sen51,Dem,Howard Lieb,148
+Otsego,City of Oneonta W8D1,State Senate,Sen51,Dem,Howard Lieb,172
+Otsego,Decatur 1,State Senate,Sen51,Dem,Howard Lieb,29
+Otsego,Edmeston 1,State Senate,Sen51,Dem,Howard Lieb,106
+Otsego,Exeter 1,State Senate,Sen51,Dem,Howard Lieb,63
+Otsego,Hartwick 1,State Senate,Sen51,Dem,Howard Lieb,129
+Otsego,Hartwick 2,State Senate,Sen51,Dem,Howard Lieb,78
+Otsego,Laurens 1,State Senate,Sen51,Dem,Howard Lieb,108
+Otsego,Laurens 2,State Senate,Sen51,Dem,Howard Lieb,145
+Otsego,Maryland 1,State Senate,Sen51,Dem,Howard Lieb,60
+Otsego,Maryland 2,State Senate,Sen51,Dem,Howard Lieb,97
+Otsego,Middlefield 1,State Senate,Sen51,Dem,Howard Lieb,128
+Otsego,Middlefield 2,State Senate,Sen51,Dem,Howard Lieb,151
+Otsego,Milford 1,State Senate,Sen51,Dem,Howard Lieb,94
+Otsego,Milford 2,State Senate,Sen51,Dem,Howard Lieb,174
+Otsego,Morris 1,State Senate,Sen51,Dem,Howard Lieb,172
+Otsego,New Lisbon 1,State Senate,Sen51,Dem,Howard Lieb,109
+Otsego,Otego 1,State Senate,Sen51,Dem,Howard Lieb,135
+Otsego,Otego 2,State Senate,Sen51,Dem,Howard Lieb,118
+Otsego,Otsego 1,State Senate,Sen51,Dem,Howard Lieb,296
+Otsego,Otsego 2,State Senate,Sen51,Dem,Howard Lieb,83
+Otsego,Otsego 3,State Senate,Sen51,Dem,Howard Lieb,168
+Otsego,Pittsfield 1,State Senate,Sen51,Dem,Howard Lieb,105
+Otsego,Plainfield 1,State Senate,Sen51,Dem,Howard Lieb,54
+Otsego,Richfield 1,State Senate,Sen51,Dem,Howard Lieb,64
+Otsego,Richfield 2,State Senate,Sen51,Dem,Howard Lieb,76
+Otsego,Roseboom 1,State Senate,Sen51,Dem,Howard Lieb,83
+Otsego,Springfield 1,State Senate,Sen51,Dem,Howard Lieb,122
+Otsego,Oneonta town 1,State Senate,Sen51,Dem,Howard Lieb,194
+Otsego,Oneonta town 2,State Senate,Sen51,Dem,Howard Lieb,167
+Otsego,Oneonta town 3,State Senate,Sen51,Dem,Howard Lieb,125
+Otsego,Oneonta town 4,State Senate,Sen51,Dem,Howard Lieb,110
+Otsego,Unadilla 1,State Senate,Sen51,Dem,Howard Lieb,122
+Otsego,Unadilla 2,State Senate,Sen51,Dem,Howard Lieb,160
+Otsego,Unadilla 3,State Senate,Sen51,Dem,Howard Lieb,119
+Otsego,Westford 1,State Senate,Sen51,Dem,Howard Lieb,74
+Otsego,Worcester 1,State Senate,Sen51,Dem,Howard Lieb,88
+Otsego,Worcester 2,State Senate,Sen51,Dem,Howard Lieb,51
+Otsego,Worcester 3,State Senate,Sen51,Dem,Howard Lieb,77
+Otsego,Burlington 1,State Senate,Sen51,WF,Howard Lieb,9
+Otsego,Butternuts 1,State Senate,Sen51,WF,Howard Lieb,14
+Otsego,Butternuts 2,State Senate,Sen51,WF,Howard Lieb,15
+Otsego,Cherry Valley 1,State Senate,Sen51,WF,Howard Lieb,27
+Otsego,City of Oneonta W1D1,State Senate,Sen51,WF,Howard Lieb,21
+Otsego,City of Oneonta W2D1,State Senate,Sen51,WF,Howard Lieb,14
+Otsego,City of Oneonta W3D1,State Senate,Sen51,WF,Howard Lieb,11
+Otsego,City of Oneonta W4D1,State Senate,Sen51,WF,Howard Lieb,10
+Otsego,City of Oneonta W5D1,State Senate,Sen51,WF,Howard Lieb,10
+Otsego,City of Oneonta W6D1,State Senate,Sen51,WF,Howard Lieb,12
+Otsego,City of Oneonta W7D1,State Senate,Sen51,WF,Howard Lieb,22
+Otsego,City of Oneonta W8D1,State Senate,Sen51,WF,Howard Lieb,12
+Otsego,Decatur 1,State Senate,Sen51,WF,Howard Lieb,5
+Otsego,Edmeston 1,State Senate,Sen51,WF,Howard Lieb,16
+Otsego,Exeter 1,State Senate,Sen51,WF,Howard Lieb,10
+Otsego,Hartwick 1,State Senate,Sen51,WF,Howard Lieb,17
+Otsego,Hartwick 2,State Senate,Sen51,WF,Howard Lieb,14
+Otsego,Laurens 1,State Senate,Sen51,WF,Howard Lieb,11
+Otsego,Laurens 2,State Senate,Sen51,WF,Howard Lieb,13
+Otsego,Maryland 1,State Senate,Sen51,WF,Howard Lieb,11
+Otsego,Maryland 2,State Senate,Sen51,WF,Howard Lieb,16
+Otsego,Middlefield 1,State Senate,Sen51,WF,Howard Lieb,12
+Otsego,Middlefield 2,State Senate,Sen51,WF,Howard Lieb,19
+Otsego,Milford 1,State Senate,Sen51,WF,Howard Lieb,12
+Otsego,Milford 2,State Senate,Sen51,WF,Howard Lieb,14
+Otsego,Morris 1,State Senate,Sen51,WF,Howard Lieb,30
+Otsego,New Lisbon 1,State Senate,Sen51,WF,Howard Lieb,10
+Otsego,Otego 1,State Senate,Sen51,WF,Howard Lieb,14
+Otsego,Otego 2,State Senate,Sen51,WF,Howard Lieb,24
+Otsego,Otsego 1,State Senate,Sen51,WF,Howard Lieb,19
+Otsego,Otsego 2,State Senate,Sen51,WF,Howard Lieb,19
+Otsego,Otsego 3,State Senate,Sen51,WF,Howard Lieb,16
+Otsego,Pittsfield 1,State Senate,Sen51,WF,Howard Lieb,12
+Otsego,Plainfield 1,State Senate,Sen51,WF,Howard Lieb,7
+Otsego,Richfield 1,State Senate,Sen51,WF,Howard Lieb,5
+Otsego,Richfield 2,State Senate,Sen51,WF,Howard Lieb,8
+Otsego,Roseboom 1,State Senate,Sen51,WF,Howard Lieb,13
+Otsego,Springfield 1,State Senate,Sen51,WF,Howard Lieb,16
+Otsego,Oneonta town 1,State Senate,Sen51,WF,Howard Lieb,19
+Otsego,Oneonta town 2,State Senate,Sen51,WF,Howard Lieb,19
+Otsego,Oneonta town 3,State Senate,Sen51,WF,Howard Lieb,10
+Otsego,Oneonta town 4,State Senate,Sen51,WF,Howard Lieb,9
+Otsego,Unadilla 1,State Senate,Sen51,WF,Howard Lieb,18
+Otsego,Unadilla 2,State Senate,Sen51,WF,Howard Lieb,13
+Otsego,Unadilla 3,State Senate,Sen51,WF,Howard Lieb,17
+Otsego,Westford 1,State Senate,Sen51,WF,Howard Lieb,13
+Otsego,Worcester 1,State Senate,Sen51,WF,Howard Lieb,17
+Otsego,Worcester 2,State Senate,Sen51,WF,Howard Lieb,7
+Otsego,Worcester 3,State Senate,Sen51,WF,Howard Lieb,4
+Otsego,Burlington 1,State Senate,Sen51,Rep,James Seward,322
+Otsego,Butternuts 1,State Senate,Sen51,Rep,James Seward,190
+Otsego,Butternuts 2,State Senate,Sen51,Rep,James Seward,294
+Otsego,Cherry Valley 1,State Senate,Sen51,Rep,James Seward,313
+Otsego,City of Oneonta W1D1,State Senate,Sen51,Rep,James Seward,294
+Otsego,City of Oneonta W2D1,State Senate,Sen51,Rep,James Seward,212
+Otsego,City of Oneonta W3D1,State Senate,Sen51,Rep,James Seward,100
+Otsego,City of Oneonta W4D1,State Senate,Sen51,Rep,James Seward,145
+Otsego,City of Oneonta W5D1,State Senate,Sen51,Rep,James Seward,207
+Otsego,City of Oneonta W6D1,State Senate,Sen51,Rep,James Seward,316
+Otsego,City of Oneonta W7D1,State Senate,Sen51,Rep,James Seward,190
+Otsego,City of Oneonta W8D1,State Senate,Sen51,Rep,James Seward,166
+Otsego,Decatur 1,State Senate,Sen51,Rep,James Seward,108
+Otsego,Edmeston 1,State Senate,Sen51,Rep,James Seward,458
+Otsego,Exeter 1,State Senate,Sen51,Rep,James Seward,232
+Otsego,Hartwick 1,State Senate,Sen51,Rep,James Seward,369
+Otsego,Hartwick 2,State Senate,Sen51,Rep,James Seward,203
+Otsego,Laurens 1,State Senate,Sen51,Rep,James Seward,265
+Otsego,Laurens 2,State Senate,Sen51,Rep,James Seward,315
+Otsego,Maryland 1,State Senate,Sen51,Rep,James Seward,184
+Otsego,Maryland 2,State Senate,Sen51,Rep,James Seward,278
+Otsego,Middlefield 1,State Senate,Sen51,Rep,James Seward,237
+Otsego,Middlefield 2,State Senate,Sen51,Rep,James Seward,317
+Otsego,Milford 1,State Senate,Sen51,Rep,James Seward,308
+Otsego,Milford 2,State Senate,Sen51,Rep,James Seward,479
+Otsego,Morris 1,State Senate,Sen51,Rep,James Seward,442
+Otsego,New Lisbon 1,State Senate,Sen51,Rep,James Seward,297
+Otsego,Otego 1,State Senate,Sen51,Rep,James Seward,382
+Otsego,Otego 2,State Senate,Sen51,Rep,James Seward,417
+Otsego,Otsego 1,State Senate,Sen51,Rep,James Seward,462
+Otsego,Otsego 2,State Senate,Sen51,Rep,James Seward,234
+Otsego,Otsego 3,State Senate,Sen51,Rep,James Seward,438
+Otsego,Pittsfield 1,State Senate,Sen51,Rep,James Seward,289
+Otsego,Plainfield 1,State Senate,Sen51,Rep,James Seward,223
+Otsego,Richfield 1,State Senate,Sen51,Rep,James Seward,292
+Otsego,Richfield 2,State Senate,Sen51,Rep,James Seward,314
+Otsego,Roseboom 1,State Senate,Sen51,Rep,James Seward,180
+Otsego,Springfield 1,State Senate,Sen51,Rep,James Seward,389
+Otsego,Oneonta town 1,State Senate,Sen51,Rep,James Seward,400
+Otsego,Oneonta town 2,State Senate,Sen51,Rep,James Seward,416
+Otsego,Oneonta town 3,State Senate,Sen51,Rep,James Seward,269
+Otsego,Oneonta town 4,State Senate,Sen51,Rep,James Seward,268
+Otsego,Unadilla 1,State Senate,Sen51,Rep,James Seward,279
+Otsego,Unadilla 2,State Senate,Sen51,Rep,James Seward,375
+Otsego,Unadilla 3,State Senate,Sen51,Rep,James Seward,222
+Otsego,Westford 1,State Senate,Sen51,Rep,James Seward,239
+Otsego,Worcester 1,State Senate,Sen51,Rep,James Seward,197
+Otsego,Worcester 2,State Senate,Sen51,Rep,James Seward,132
+Otsego,Worcester 3,State Senate,Sen51,Rep,James Seward,254
+Otsego,Burlington 1,State Senate,Sen51,Con,James Seward,46
+Otsego,Butternuts 1,State Senate,Sen51,Con,James Seward,13
+Otsego,Butternuts 2,State Senate,Sen51,Con,James Seward,22
+Otsego,Cherry Valley 1,State Senate,Sen51,Con,James Seward,24
+Otsego,City of Oneonta W1D1,State Senate,Sen51,Con,James Seward,25
+Otsego,City of Oneonta W2D1,State Senate,Sen51,Con,James Seward,16
+Otsego,City of Oneonta W3D1,State Senate,Sen51,Con,James Seward,8
+Otsego,City of Oneonta W4D1,State Senate,Sen51,Con,James Seward,6
+Otsego,City of Oneonta W5D1,State Senate,Sen51,Con,James Seward,13
+Otsego,City of Oneonta W6D1,State Senate,Sen51,Con,James Seward,23
+Otsego,City of Oneonta W7D1,State Senate,Sen51,Con,James Seward,13
+Otsego,City of Oneonta W8D1,State Senate,Sen51,Con,James Seward,8
+Otsego,Decatur 1,State Senate,Sen51,Con,James Seward,23
+Otsego,Edmeston 1,State Senate,Sen51,Con,James Seward,55
+Otsego,Exeter 1,State Senate,Sen51,Con,James Seward,30
+Otsego,Hartwick 1,State Senate,Sen51,Con,James Seward,56
+Otsego,Hartwick 2,State Senate,Sen51,Con,James Seward,18
+Otsego,Laurens 1,State Senate,Sen51,Con,James Seward,31
+Otsego,Laurens 2,State Senate,Sen51,Con,James Seward,30
+Otsego,Maryland 1,State Senate,Sen51,Con,James Seward,19
+Otsego,Maryland 2,State Senate,Sen51,Con,James Seward,26
+Otsego,Middlefield 1,State Senate,Sen51,Con,James Seward,16
+Otsego,Middlefield 2,State Senate,Sen51,Con,James Seward,27
+Otsego,Milford 1,State Senate,Sen51,Con,James Seward,34
+Otsego,Milford 2,State Senate,Sen51,Con,James Seward,37
+Otsego,Morris 1,State Senate,Sen51,Con,James Seward,25
+Otsego,New Lisbon 1,State Senate,Sen51,Con,James Seward,33
+Otsego,Otego 1,State Senate,Sen51,Con,James Seward,39
+Otsego,Otego 2,State Senate,Sen51,Con,James Seward,33
+Otsego,Otsego 1,State Senate,Sen51,Con,James Seward,34
+Otsego,Otsego 2,State Senate,Sen51,Con,James Seward,13
+Otsego,Otsego 3,State Senate,Sen51,Con,James Seward,28
+Otsego,Pittsfield 1,State Senate,Sen51,Con,James Seward,21
+Otsego,Plainfield 1,State Senate,Sen51,Con,James Seward,26
+Otsego,Richfield 1,State Senate,Sen51,Con,James Seward,21
+Otsego,Richfield 2,State Senate,Sen51,Con,James Seward,48
+Otsego,Roseboom 1,State Senate,Sen51,Con,James Seward,20
+Otsego,Springfield 1,State Senate,Sen51,Con,James Seward,35
+Otsego,Oneonta town 1,State Senate,Sen51,Con,James Seward,33
+Otsego,Oneonta town 2,State Senate,Sen51,Con,James Seward,36
+Otsego,Oneonta town 3,State Senate,Sen51,Con,James Seward,19
+Otsego,Oneonta town 4,State Senate,Sen51,Con,James Seward,31
+Otsego,Unadilla 1,State Senate,Sen51,Con,James Seward,37
+Otsego,Unadilla 2,State Senate,Sen51,Con,James Seward,27
+Otsego,Unadilla 3,State Senate,Sen51,Con,James Seward,20
+Otsego,Westford 1,State Senate,Sen51,Con,James Seward,24
+Otsego,Worcester 1,State Senate,Sen51,Con,James Seward,27
+Otsego,Worcester 2,State Senate,Sen51,Con,James Seward,10
+Otsego,Worcester 3,State Senate,Sen51,Con,James Seward,16
+Otsego,Burlington 1,State Senate,Sen51,Ind,James Seward,12
+Otsego,Butternuts 1,State Senate,Sen51,Ind,James Seward,10
+Otsego,Butternuts 2,State Senate,Sen51,Ind,James Seward,22
+Otsego,Cherry Valley 1,State Senate,Sen51,Ind,James Seward,44
+Otsego,City of Oneonta W1D1,State Senate,Sen51,Ind,James Seward,38
+Otsego,City of Oneonta W2D1,State Senate,Sen51,Ind,James Seward,29
+Otsego,City of Oneonta W3D1,State Senate,Sen51,Ind,James Seward,20
+Otsego,City of Oneonta W4D1,State Senate,Sen51,Ind,James Seward,16
+Otsego,City of Oneonta W5D1,State Senate,Sen51,Ind,James Seward,23
+Otsego,City of Oneonta W6D1,State Senate,Sen51,Ind,James Seward,22
+Otsego,City of Oneonta W7D1,State Senate,Sen51,Ind,James Seward,21
+Otsego,City of Oneonta W8D1,State Senate,Sen51,Ind,James Seward,14
+Otsego,Decatur 1,State Senate,Sen51,Ind,James Seward,6
+Otsego,Edmeston 1,State Senate,Sen51,Ind,James Seward,31
+Otsego,Exeter 1,State Senate,Sen51,Ind,James Seward,15
+Otsego,Hartwick 1,State Senate,Sen51,Ind,James Seward,55
+Otsego,Hartwick 2,State Senate,Sen51,Ind,James Seward,14
+Otsego,Laurens 1,State Senate,Sen51,Ind,James Seward,11
+Otsego,Laurens 2,State Senate,Sen51,Ind,James Seward,26
+Otsego,Maryland 1,State Senate,Sen51,Ind,James Seward,11
+Otsego,Maryland 2,State Senate,Sen51,Ind,James Seward,18
+Otsego,Middlefield 1,State Senate,Sen51,Ind,James Seward,30
+Otsego,Middlefield 2,State Senate,Sen51,Ind,James Seward,36
+Otsego,Milford 1,State Senate,Sen51,Ind,James Seward,24
+Otsego,Milford 2,State Senate,Sen51,Ind,James Seward,55
+Otsego,Morris 1,State Senate,Sen51,Ind,James Seward,33
+Otsego,New Lisbon 1,State Senate,Sen51,Ind,James Seward,17
+Otsego,Otego 1,State Senate,Sen51,Ind,James Seward,26
+Otsego,Otego 2,State Senate,Sen51,Ind,James Seward,35
+Otsego,Otsego 1,State Senate,Sen51,Ind,James Seward,79
+Otsego,Otsego 2,State Senate,Sen51,Ind,James Seward,20
+Otsego,Otsego 3,State Senate,Sen51,Ind,James Seward,47
+Otsego,Pittsfield 1,State Senate,Sen51,Ind,James Seward,20
+Otsego,Plainfield 1,State Senate,Sen51,Ind,James Seward,14
+Otsego,Richfield 1,State Senate,Sen51,Ind,James Seward,17
+Otsego,Richfield 2,State Senate,Sen51,Ind,James Seward,19
+Otsego,Roseboom 1,State Senate,Sen51,Ind,James Seward,9
+Otsego,Springfield 1,State Senate,Sen51,Ind,James Seward,34
+Otsego,Oneonta town 1,State Senate,Sen51,Ind,James Seward,33
+Otsego,Oneonta town 2,State Senate,Sen51,Ind,James Seward,37
+Otsego,Oneonta town 3,State Senate,Sen51,Ind,James Seward,41
+Otsego,Oneonta town 4,State Senate,Sen51,Ind,James Seward,29
+Otsego,Unadilla 1,State Senate,Sen51,Ind,James Seward,18
+Otsego,Unadilla 2,State Senate,Sen51,Ind,James Seward,34
+Otsego,Unadilla 3,State Senate,Sen51,Ind,James Seward,18
+Otsego,Westford 1,State Senate,Sen51,Ind,James Seward,20
+Otsego,Worcester 1,State Senate,Sen51,Ind,James Seward,21
+Otsego,Worcester 2,State Senate,Sen51,Ind,James Seward,18
+Otsego,Worcester 3,State Senate,Sen51,Ind,James Seward,7
+Otsego,Burlington 1,State Senate,Sen51,Ind,write-in,0
+Otsego,Butternuts 1,State Senate,Sen51,Ind,write-in,2
+Otsego,Butternuts 2,State Senate,Sen51,Ind,write-in,1
+Otsego,Cherry Valley 1,State Senate,Sen51,Ind,write-in,0
+Otsego,City of Oneonta W1D1,State Senate,Sen51,Ind,write-in,0
+Otsego,City of Oneonta W2D1,State Senate,Sen51,Ind,write-in,0
+Otsego,City of Oneonta W3D1,State Senate,Sen51,Ind,write-in,0
+Otsego,City of Oneonta W4D1,State Senate,Sen51,Ind,write-in,0
+Otsego,City of Oneonta W5D1,State Senate,Sen51,Ind,write-in,0
+Otsego,City of Oneonta W6D1,State Senate,Sen51,Ind,write-in,1
+Otsego,City of Oneonta W7D1,State Senate,Sen51,Ind,write-in,0
+Otsego,City of Oneonta W8D1,State Senate,Sen51,Ind,write-in,1
+Otsego,Decatur 1,State Senate,Sen51,Ind,write-in,0
+Otsego,Edmeston 1,State Senate,Sen51,Ind,write-in,2
+Otsego,Exeter 1,State Senate,Sen51,Ind,write-in,0
+Otsego,Hartwick 1,State Senate,Sen51,Ind,write-in,0
+Otsego,Hartwick 2,State Senate,Sen51,Ind,write-in,0
+Otsego,Laurens 1,State Senate,Sen51,Ind,write-in,0
+Otsego,Laurens 2,State Senate,Sen51,Ind,write-in,0
+Otsego,Maryland 1,State Senate,Sen51,Ind,write-in,0
+Otsego,Maryland 2,State Senate,Sen51,Ind,write-in,4
+Otsego,Middlefield 1,State Senate,Sen51,Ind,write-in,0
+Otsego,Middlefield 2,State Senate,Sen51,Ind,write-in,1
+Otsego,Milford 1,State Senate,Sen51,Ind,write-in,1
+Otsego,Milford 2,State Senate,Sen51,Ind,write-in,1
+Otsego,Morris 1,State Senate,Sen51,Ind,write-in,1
+Otsego,New Lisbon 1,State Senate,Sen51,Ind,write-in,0
+Otsego,Otego 1,State Senate,Sen51,Ind,write-in,0
+Otsego,Otego 2,State Senate,Sen51,Ind,write-in,1
+Otsego,Otsego 1,State Senate,Sen51,Ind,write-in,0
+Otsego,Otsego 2,State Senate,Sen51,Ind,write-in,0
+Otsego,Otsego 3,State Senate,Sen51,Ind,write-in,1
+Otsego,Pittsfield 1,State Senate,Sen51,Ind,write-in,0
+Otsego,Plainfield 1,State Senate,Sen51,Ind,write-in,0
+Otsego,Richfield 1,State Senate,Sen51,Ind,write-in,0
+Otsego,Richfield 2,State Senate,Sen51,Ind,write-in,0
+Otsego,Roseboom 1,State Senate,Sen51,Ind,write-in,0
+Otsego,Springfield 1,State Senate,Sen51,Ind,write-in,0
+Otsego,Oneonta town 1,State Senate,Sen51,Ind,write-in,1
+Otsego,Oneonta town 2,State Senate,Sen51,Ind,write-in,1
+Otsego,Oneonta town 3,State Senate,Sen51,Ind,write-in,0
+Otsego,Oneonta town 4,State Senate,Sen51,Ind,write-in,0
+Otsego,Unadilla 1,State Senate,Sen51,Ind,write-in,1
+Otsego,Unadilla 2,State Senate,Sen51,Ind,write-in,0
+Otsego,Unadilla 3,State Senate,Sen51,Ind,write-in,0
+Otsego,Westford 1,State Senate,Sen51,Ind,write-in,2
+Otsego,Worcester 1,State Senate,Sen51,Ind,write-in,1
+Otsego,Worcester 2,State Senate,Sen51,Ind,write-in,1
+Otsego,Worcester 3,State Senate,Sen51,Ind,write-in,0
+Otsego,Burlington 1,US House,CD19,Dem,Julian Schreibman,122
+Otsego,Butternuts 1,US House,CD19,Dem,Julian Schreibman,94
+Otsego,Butternuts 2,US House,CD19,Dem,Julian Schreibman,248
+Otsego,Cherry Valley 1,US House,CD19,Dem,Julian Schreibman,227
+Otsego,City of Oneonta W1D1,US House,CD19,Dem,Julian Schreibman,354
+Otsego,City of Oneonta W2D1,US House,CD19,Dem,Julian Schreibman,281
+Otsego,City of Oneonta W3D1,US House,CD19,Dem,Julian Schreibman,175
+Otsego,City of Oneonta W4D1,US House,CD19,Dem,Julian Schreibman,210
+Otsego,City of Oneonta W5D1,US House,CD19,Dem,Julian Schreibman,201
+Otsego,City of Oneonta W6D1,US House,CD19,Dem,Julian Schreibman,302
+Otsego,City of Oneonta W7D1,US House,CD19,Dem,Julian Schreibman,234
+Otsego,City of Oneonta W8D1,US House,CD19,Dem,Julian Schreibman,253
+Otsego,Decatur 1,US House,CD19,Dem,Julian Schreibman,40
+Otsego,Edmeston 1,US House,CD19,Dem,Julian Schreibman,208
+Otsego,Exeter 1,US House,CD19,Dem,Julian Schreibman,106
+Otsego,Hartwick 1,US House,CD19,Dem,Julian Schreibman,252
+Otsego,Hartwick 2,US House,CD19,Dem,Julian Schreibman,138
+Otsego,Laurens 1,US House,CD19,Dem,Julian Schreibman,186
+Otsego,Laurens 2,US House,CD19,Dem,Julian Schreibman,221
+Otsego,Maryland 1,US House,CD19,Dem,Julian Schreibman,86
+Otsego,Maryland 2,US House,CD19,Dem,Julian Schreibman,129
+Otsego,Middlefield 1,US House,CD19,Dem,Julian Schreibman,232
+Otsego,Middlefield 2,US House,CD19,Dem,Julian Schreibman,240
+Otsego,Milford 1,US House,CD19,Dem,Julian Schreibman,191
+Otsego,Milford 2,US House,CD19,Dem,Julian Schreibman,309
+Otsego,Morris 1,US House,CD19,Dem,Julian Schreibman,262
+Otsego,New Lisbon 1,US House,CD19,Dem,Julian Schreibman,175
+Otsego,Otego 1,US House,CD19,Dem,Julian Schreibman,212
+Otsego,Otego 2,US House,CD19,Dem,Julian Schreibman,234
+Otsego,Otsego 1,US House,CD19,Dem,Julian Schreibman,505
+Otsego,Otsego 2,US House,CD19,Dem,Julian Schreibman,164
+Otsego,Otsego 3,US House,CD19,Dem,Julian Schreibman,288
+Otsego,Pittsfield 1,US House,CD19,Dem,Julian Schreibman,175
+Otsego,Plainfield 1,US House,CD19,Dem,Julian Schreibman,83
+Otsego,Richfield 1,US House,CD19,Dem,Julian Schreibman,145
+Otsego,Richfield 2,US House,CD19,Dem,Julian Schreibman,134
+Otsego,Roseboom 1,US House,CD19,Dem,Julian Schreibman,106
+Otsego,Springfield 1,US House,CD19,Dem,Julian Schreibman,193
+Otsego,Oneonta town 1,US House,CD19,Dem,Julian Schreibman,354
+Otsego,Oneonta town 2,US House,CD19,Dem,Julian Schreibman,320
+Otsego,Oneonta town 3,US House,CD19,Dem,Julian Schreibman,241
+Otsego,Oneonta town 4,US House,CD19,Dem,Julian Schreibman,189
+Otsego,Unadilla 1,US House,CD19,Dem,Julian Schreibman,193
+Otsego,Unadilla 2,US House,CD19,Dem,Julian Schreibman,213
+Otsego,Unadilla 3,US House,CD19,Dem,Julian Schreibman,186
+Otsego,Westford 1,US House,CD19,Dem,Julian Schreibman,117
+Otsego,Worcester 1,US House,CD19,Dem,Julian Schreibman,124
+Otsego,Worcester 2,US House,CD19,Dem,Julian Schreibman,86
+Otsego,Worcester 3,US House,CD19,Dem,Julian Schreibman,122
+Otsego,Burlington 1,US House,CD19,Rep,Christopher Gibson,273
+Otsego,Butternuts 1,US House,CD19,Rep,Christopher Gibson,165
+Otsego,Butternuts 2,US House,CD19,Rep,Christopher Gibson,226
+Otsego,Cherry Valley 1,US House,CD19,Rep,Christopher Gibson,275
+Otsego,City of Oneonta W1D1,US House,CD19,Rep,Christopher Gibson,176
+Otsego,City of Oneonta W2D1,US House,CD19,Rep,Christopher Gibson,119
+Otsego,City of Oneonta W3D1,US House,CD19,Rep,Christopher Gibson,62
+Otsego,City of Oneonta W4D1,US House,CD19,Rep,Christopher Gibson,67
+Otsego,City of Oneonta W5D1,US House,CD19,Rep,Christopher Gibson,128
+Otsego,City of Oneonta W6D1,US House,CD19,Rep,Christopher Gibson,180
+Otsego,City of Oneonta W7D1,US House,CD19,Rep,Christopher Gibson,120
+Otsego,City of Oneonta W8D1,US House,CD19,Rep,Christopher Gibson,92
+Otsego,Decatur 1,US House,CD19,Rep,Christopher Gibson,90
+Otsego,Edmeston 1,US House,CD19,Rep,Christopher Gibson,353
+Otsego,Exeter 1,US House,CD19,Rep,Christopher Gibson,183
+Otsego,Hartwick 1,US House,CD19,Rep,Christopher Gibson,262
+Otsego,Hartwick 2,US House,CD19,Rep,Christopher Gibson,143
+Otsego,Laurens 1,US House,CD19,Rep,Christopher Gibson,186
+Otsego,Laurens 2,US House,CD19,Rep,Christopher Gibson,227
+Otsego,Maryland 1,US House,CD19,Rep,Christopher Gibson,163
+Otsego,Maryland 2,US House,CD19,Rep,Christopher Gibson,254
+Otsego,Middlefield 1,US House,CD19,Rep,Christopher Gibson,148
+Otsego,Middlefield 2,US House,CD19,Rep,Christopher Gibson,227
+Otsego,Milford 1,US House,CD19,Rep,Christopher Gibson,213
+Otsego,Milford 2,US House,CD19,Rep,Christopher Gibson,345
+Otsego,Morris 1,US House,CD19,Rep,Christopher Gibson,350
+Otsego,New Lisbon 1,US House,CD19,Rep,Christopher Gibson,235
+Otsego,Otego 1,US House,CD19,Rep,Christopher Gibson,301
+Otsego,Otego 2,US House,CD19,Rep,Christopher Gibson,308
+Otsego,Otsego 1,US House,CD19,Rep,Christopher Gibson,293
+Otsego,Otsego 2,US House,CD19,Rep,Christopher Gibson,158
+Otsego,Otsego 3,US House,CD19,Rep,Christopher Gibson,322
+Otsego,Pittsfield 1,US House,CD19,Rep,Christopher Gibson,203
+Otsego,Plainfield 1,US House,CD19,Rep,Christopher Gibson,195
+Otsego,Richfield 1,US House,CD19,Rep,Christopher Gibson,199
+Otsego,Richfield 2,US House,CD19,Rep,Christopher Gibson,259
+Otsego,Roseboom 1,US House,CD19,Rep,Christopher Gibson,147
+Otsego,Springfield 1,US House,CD19,Rep,Christopher Gibson,321
+Otsego,Oneonta town 1,US House,CD19,Rep,Christopher Gibson,241
+Otsego,Oneonta town 2,US House,CD19,Rep,Christopher Gibson,259
+Otsego,Oneonta town 3,US House,CD19,Rep,Christopher Gibson,171
+Otsego,Oneonta town 4,US House,CD19,Rep,Christopher Gibson,184
+Otsego,Unadilla 1,US House,CD19,Rep,Christopher Gibson,197
+Otsego,Unadilla 2,US House,CD19,Rep,Christopher Gibson,318
+Otsego,Unadilla 3,US House,CD19,Rep,Christopher Gibson,159
+Otsego,Westford 1,US House,CD19,Rep,Christopher Gibson,195
+Otsego,Worcester 1,US House,CD19,Rep,Christopher Gibson,180
+Otsego,Worcester 2,US House,CD19,Rep,Christopher Gibson,102
+Otsego,Worcester 3,US House,CD19,Rep,Christopher Gibson,212
+Otsego,Burlington 1,US House,CD19,Con,Christopher Gibson,41
+Otsego,Butternuts 1,US House,CD19,Con,Christopher Gibson,8
+Otsego,Butternuts 2,US House,CD19,Con,Christopher Gibson,20
+Otsego,Cherry Valley 1,US House,CD19,Con,Christopher Gibson,20
+Otsego,City of Oneonta W1D1,US House,CD19,Con,Christopher Gibson,16
+Otsego,City of Oneonta W2D1,US House,CD19,Con,Christopher Gibson,14
+Otsego,City of Oneonta W3D1,US House,CD19,Con,Christopher Gibson,5
+Otsego,City of Oneonta W4D1,US House,CD19,Con,Christopher Gibson,2
+Otsego,City of Oneonta W5D1,US House,CD19,Con,Christopher Gibson,10
+Otsego,City of Oneonta W6D1,US House,CD19,Con,Christopher Gibson,13
+Otsego,City of Oneonta W7D1,US House,CD19,Con,Christopher Gibson,9
+Otsego,City of Oneonta W8D1,US House,CD19,Con,Christopher Gibson,7
+Otsego,Decatur 1,US House,CD19,Con,Christopher Gibson,22
+Otsego,Edmeston 1,US House,CD19,Con,Christopher Gibson,42
+Otsego,Exeter 1,US House,CD19,Con,Christopher Gibson,27
+Otsego,Hartwick 1,US House,CD19,Con,Christopher Gibson,44
+Otsego,Hartwick 2,US House,CD19,Con,Christopher Gibson,15
+Otsego,Laurens 1,US House,CD19,Con,Christopher Gibson,18
+Otsego,Laurens 2,US House,CD19,Con,Christopher Gibson,22
+Otsego,Maryland 1,US House,CD19,Con,Christopher Gibson,17
+Otsego,Maryland 2,US House,CD19,Con,Christopher Gibson,28
+Otsego,Middlefield 1,US House,CD19,Con,Christopher Gibson,16
+Otsego,Middlefield 2,US House,CD19,Con,Christopher Gibson,32
+Otsego,Milford 1,US House,CD19,Con,Christopher Gibson,20
+Otsego,Milford 2,US House,CD19,Con,Christopher Gibson,31
+Otsego,Morris 1,US House,CD19,Con,Christopher Gibson,24
+Otsego,New Lisbon 1,US House,CD19,Con,Christopher Gibson,26
+Otsego,Otego 1,US House,CD19,Con,Christopher Gibson,32
+Otsego,Otego 2,US House,CD19,Con,Christopher Gibson,33
+Otsego,Otsego 1,US House,CD19,Con,Christopher Gibson,27
+Otsego,Otsego 2,US House,CD19,Con,Christopher Gibson,7
+Otsego,Otsego 3,US House,CD19,Con,Christopher Gibson,24
+Otsego,Pittsfield 1,US House,CD19,Con,Christopher Gibson,14
+Otsego,Plainfield 1,US House,CD19,Con,Christopher Gibson,29
+Otsego,Richfield 1,US House,CD19,Con,Christopher Gibson,20
+Otsego,Richfield 2,US House,CD19,Con,Christopher Gibson,33
+Otsego,Roseboom 1,US House,CD19,Con,Christopher Gibson,15
+Otsego,Springfield 1,US House,CD19,Con,Christopher Gibson,30
+Otsego,Oneonta town 1,US House,CD19,Con,Christopher Gibson,28
+Otsego,Oneonta town 2,US House,CD19,Con,Christopher Gibson,24
+Otsego,Oneonta town 3,US House,CD19,Con,Christopher Gibson,16
+Otsego,Oneonta town 4,US House,CD19,Con,Christopher Gibson,27
+Otsego,Unadilla 1,US House,CD19,Con,Christopher Gibson,27
+Otsego,Unadilla 2,US House,CD19,Con,Christopher Gibson,19
+Otsego,Unadilla 3,US House,CD19,Con,Christopher Gibson,16
+Otsego,Westford 1,US House,CD19,Con,Christopher Gibson,24
+Otsego,Worcester 1,US House,CD19,Con,Christopher Gibson,27
+Otsego,Worcester 2,US House,CD19,Con,Christopher Gibson,11
+Otsego,Worcester 3,US House,CD19,Con,Christopher Gibson,17
+Otsego,Burlington 1,US House,CD19,WF,Julian Schreibman,11
+Otsego,Butternuts 1,US House,CD19,WF,Julian Schreibman,9
+Otsego,Butternuts 2,US House,CD19,WF,Julian Schreibman,25
+Otsego,Cherry Valley 1,US House,CD19,WF,Julian Schreibman,31
+Otsego,City of Oneonta W1D1,US House,CD19,WF,Julian Schreibman,27
+Otsego,City of Oneonta W2D1,US House,CD19,WF,Julian Schreibman,20
+Otsego,City of Oneonta W3D1,US House,CD19,WF,Julian Schreibman,12
+Otsego,City of Oneonta W4D1,US House,CD19,WF,Julian Schreibman,19
+Otsego,City of Oneonta W5D1,US House,CD19,WF,Julian Schreibman,17
+Otsego,City of Oneonta W6D1,US House,CD19,WF,Julian Schreibman,23
+Otsego,City of Oneonta W7D1,US House,CD19,WF,Julian Schreibman,22
+Otsego,City of Oneonta W8D1,US House,CD19,WF,Julian Schreibman,19
+Otsego,Decatur 1,US House,CD19,WF,Julian Schreibman,9
+Otsego,Edmeston 1,US House,CD19,WF,Julian Schreibman,20
+Otsego,Exeter 1,US House,CD19,WF,Julian Schreibman,15
+Otsego,Hartwick 1,US House,CD19,WF,Julian Schreibman,32
+Otsego,Hartwick 2,US House,CD19,WF,Julian Schreibman,8
+Otsego,Laurens 1,US House,CD19,WF,Julian Schreibman,16
+Otsego,Laurens 2,US House,CD19,WF,Julian Schreibman,26
+Otsego,Maryland 1,US House,CD19,WF,Julian Schreibman,15
+Otsego,Maryland 2,US House,CD19,WF,Julian Schreibman,15
+Otsego,Middlefield 1,US House,CD19,WF,Julian Schreibman,14
+Otsego,Middlefield 2,US House,CD19,WF,Julian Schreibman,20
+Otsego,Milford 1,US House,CD19,WF,Julian Schreibman,16
+Otsego,Milford 2,US House,CD19,WF,Julian Schreibman,32
+Otsego,Morris 1,US House,CD19,WF,Julian Schreibman,27
+Otsego,New Lisbon 1,US House,CD19,WF,Julian Schreibman,16
+Otsego,Otego 1,US House,CD19,WF,Julian Schreibman,27
+Otsego,Otego 2,US House,CD19,WF,Julian Schreibman,28
+Otsego,Otsego 1,US House,CD19,WF,Julian Schreibman,32
+Otsego,Otsego 2,US House,CD19,WF,Julian Schreibman,18
+Otsego,Otsego 3,US House,CD19,WF,Julian Schreibman,31
+Otsego,Pittsfield 1,US House,CD19,WF,Julian Schreibman,18
+Otsego,Plainfield 1,US House,CD19,WF,Julian Schreibman,7
+Otsego,Richfield 1,US House,CD19,WF,Julian Schreibman,12
+Otsego,Richfield 2,US House,CD19,WF,Julian Schreibman,15
+Otsego,Roseboom 1,US House,CD19,WF,Julian Schreibman,20
+Otsego,Springfield 1,US House,CD19,WF,Julian Schreibman,22
+Otsego,Oneonta town 1,US House,CD19,WF,Julian Schreibman,24
+Otsego,Oneonta town 2,US House,CD19,WF,Julian Schreibman,34
+Otsego,Oneonta town 3,US House,CD19,WF,Julian Schreibman,14
+Otsego,Oneonta town 4,US House,CD19,WF,Julian Schreibman,21
+Otsego,Unadilla 1,US House,CD19,WF,Julian Schreibman,30
+Otsego,Unadilla 2,US House,CD19,WF,Julian Schreibman,28
+Otsego,Unadilla 3,US House,CD19,WF,Julian Schreibman,21
+Otsego,Westford 1,US House,CD19,WF,Julian Schreibman,14
+Otsego,Worcester 1,US House,CD19,WF,Julian Schreibman,11
+Otsego,Worcester 2,US House,CD19,WF,Julian Schreibman,9
+Otsego,Worcester 3,US House,CD19,WF,Julian Schreibman,8
+Otsego,Burlington 1,US House,CD19,Ind,Christopher Gibson,8
+Otsego,Butternuts 1,US House,CD19,Ind,Christopher Gibson,10
+Otsego,Butternuts 2,US House,CD19,Ind,Christopher Gibson,17
+Otsego,Cherry Valley 1,US House,CD19,Ind,Christopher Gibson,22
+Otsego,City of Oneonta W1D1,US House,CD19,Ind,Christopher Gibson,13
+Otsego,City of Oneonta W2D1,US House,CD19,Ind,Christopher Gibson,10
+Otsego,City of Oneonta W3D1,US House,CD19,Ind,Christopher Gibson,2
+Otsego,City of Oneonta W4D1,US House,CD19,Ind,Christopher Gibson,7
+Otsego,City of Oneonta W5D1,US House,CD19,Ind,Christopher Gibson,6
+Otsego,City of Oneonta W6D1,US House,CD19,Ind,Christopher Gibson,13
+Otsego,City of Oneonta W7D1,US House,CD19,Ind,Christopher Gibson,7
+Otsego,City of Oneonta W8D1,US House,CD19,Ind,Christopher Gibson,5
+Otsego,Decatur 1,US House,CD19,Ind,Christopher Gibson,4
+Otsego,Edmeston 1,US House,CD19,Ind,Christopher Gibson,13
+Otsego,Exeter 1,US House,CD19,Ind,Christopher Gibson,7
+Otsego,Hartwick 1,US House,CD19,Ind,Christopher Gibson,22
+Otsego,Hartwick 2,US House,CD19,Ind,Christopher Gibson,9
+Otsego,Laurens 1,US House,CD19,Ind,Christopher Gibson,9
+Otsego,Laurens 2,US House,CD19,Ind,Christopher Gibson,15
+Otsego,Maryland 1,US House,CD19,Ind,Christopher Gibson,7
+Otsego,Maryland 2,US House,CD19,Ind,Christopher Gibson,14
+Otsego,Middlefield 1,US House,CD19,Ind,Christopher Gibson,10
+Otsego,Middlefield 2,US House,CD19,Ind,Christopher Gibson,20
+Otsego,Milford 1,US House,CD19,Ind,Christopher Gibson,13
+Otsego,Milford 2,US House,CD19,Ind,Christopher Gibson,25
+Otsego,Morris 1,US House,CD19,Ind,Christopher Gibson,18
+Otsego,New Lisbon 1,US House,CD19,Ind,Christopher Gibson,8
+Otsego,Otego 1,US House,CD19,Ind,Christopher Gibson,10
+Otsego,Otego 2,US House,CD19,Ind,Christopher Gibson,13
+Otsego,Otsego 1,US House,CD19,Ind,Christopher Gibson,28
+Otsego,Otsego 2,US House,CD19,Ind,Christopher Gibson,13
+Otsego,Otsego 3,US House,CD19,Ind,Christopher Gibson,17
+Otsego,Pittsfield 1,US House,CD19,Ind,Christopher Gibson,11
+Otsego,Plainfield 1,US House,CD19,Ind,Christopher Gibson,7
+Otsego,Richfield 1,US House,CD19,Ind,Christopher Gibson,11
+Otsego,Richfield 2,US House,CD19,Ind,Christopher Gibson,10
+Otsego,Roseboom 1,US House,CD19,Ind,Christopher Gibson,6
+Otsego,Springfield 1,US House,CD19,Ind,Christopher Gibson,23
+Otsego,Oneonta town 1,US House,CD19,Ind,Christopher Gibson,13
+Otsego,Oneonta town 2,US House,CD19,Ind,Christopher Gibson,18
+Otsego,Oneonta town 3,US House,CD19,Ind,Christopher Gibson,9
+Otsego,Oneonta town 4,US House,CD19,Ind,Christopher Gibson,8
+Otsego,Unadilla 1,US House,CD19,Ind,Christopher Gibson,10
+Otsego,Unadilla 2,US House,CD19,Ind,Christopher Gibson,23
+Otsego,Unadilla 3,US House,CD19,Ind,Christopher Gibson,9
+Otsego,Westford 1,US House,CD19,Ind,Christopher Gibson,18
+Otsego,Worcester 1,US House,CD19,Ind,Christopher Gibson,8
+Otsego,Worcester 2,US House,CD19,Ind,Christopher Gibson,7
+Otsego,Worcester 3,US House,CD19,Ind,Christopher Gibson,6
+Otsego,Burlington 1,US House,CD19,Ind,write-in,0
+Otsego,Butternuts 1,US House,CD19,Ind,write-in,0
+Otsego,Butternuts 2,US House,CD19,Ind,write-in,0
+Otsego,Cherry Valley 1,US House,CD19,Ind,write-in,0
+Otsego,City of Oneonta W1D1,US House,CD19,Ind,write-in,1
+Otsego,City of Oneonta W2D1,US House,CD19,Ind,write-in,0
+Otsego,City of Oneonta W3D1,US House,CD19,Ind,write-in,0
+Otsego,City of Oneonta W4D1,US House,CD19,Ind,write-in,0
+Otsego,City of Oneonta W5D1,US House,CD19,Ind,write-in,0
+Otsego,City of Oneonta W6D1,US House,CD19,Ind,write-in,0
+Otsego,City of Oneonta W7D1,US House,CD19,Ind,write-in,0
+Otsego,City of Oneonta W8D1,US House,CD19,Ind,write-in,1
+Otsego,Decatur 1,US House,CD19,Ind,write-in,
+Otsego,Edmeston 1,US House,CD19,Ind,write-in,
+Otsego,Exeter 1,US House,CD19,Ind,write-in,
+Otsego,Hartwick 1,US House,CD19,Ind,write-in,
+Otsego,Hartwick 2,US House,CD19,Ind,write-in,
+Otsego,Laurens 1,US House,CD19,Ind,write-in,
+Otsego,Laurens 2,US House,CD19,Ind,write-in,1
+Otsego,Maryland 1,US House,CD19,Ind,write-in,
+Otsego,Maryland 2,US House,CD19,Ind,write-in,
+Otsego,Middlefield 1,US House,CD19,Ind,write-in,
+Otsego,Middlefield 2,US House,CD19,Ind,write-in,
+Otsego,Milford 1,US House,CD19,Ind,write-in,
+Otsego,Milford 2,US House,CD19,Ind,write-in,2
+Otsego,Morris 1,US House,CD19,Ind,write-in,
+Otsego,New Lisbon 1,US House,CD19,Ind,write-in,
+Otsego,Otego 1,US House,CD19,Ind,write-in,
+Otsego,Otego 2,US House,CD19,Ind,write-in,
+Otsego,Otsego 1,US House,CD19,Ind,write-in,
+Otsego,Otsego 2,US House,CD19,Ind,write-in,
+Otsego,Otsego 3,US House,CD19,Ind,write-in,
+Otsego,Pittsfield 1,US House,CD19,Ind,write-in,
+Otsego,Plainfield 1,US House,CD19,Ind,write-in,
+Otsego,Richfield 1,US House,CD19,Ind,write-in,
+Otsego,Richfield 2,US House,CD19,Ind,write-in,
+Otsego,Roseboom 1,US House,CD19,Ind,write-in,
+Otsego,Springfield 1,US House,CD19,Ind,write-in,1
+Otsego,Oneonta town 1,US House,CD19,Ind,write-in,
+Otsego,Oneonta town 2,US House,CD19,Ind,write-in,1
+Otsego,Oneonta town 3,US House,CD19,Ind,write-in,
+Otsego,Oneonta town 4,US House,CD19,Ind,write-in,
+Otsego,Unadilla 1,US House,CD19,Ind,write-in,
+Otsego,Unadilla 2,US House,CD19,Ind,write-in,
+Otsego,Unadilla 3,US House,CD19,Ind,write-in,
+Otsego,Westford 1,US House,CD19,Ind,write-in,
+Otsego,Worcester 1,US House,CD19,Ind,write-in,
+Otsego,Worcester 2,US House,CD19,Ind,write-in,2
+Otsego,Worcester 3,US House,CD19,Ind,write-in,
+Otsego,Burlington 1,US Senate,,Dem,Kirsten Gillibrand,210
+Otsego,Butternuts 1,US Senate,,Dem,Kirsten Gillibrand,137
+Otsego,Butternuts 2,US Senate,,Dem,Kirsten Gillibrand,320
+Otsego,Cherry Valley 1,US Senate,,Dem,Kirsten Gillibrand,337
+Otsego,City of Oneonta W1D1,US Senate,,Dem,Kirsten Gillibrand,428
+Otsego,City of Oneonta W2D1,US Senate,,Dem,Kirsten Gillibrand,318
+Otsego,City of Oneonta W3D1,US Senate,,Dem,Kirsten Gillibrand,199
+Otsego,City of Oneonta W4D1,US Senate,,Dem,Kirsten Gillibrand,243
+Otsego,City of Oneonta W5D1,US Senate,,Dem,Kirsten Gillibrand,242
+Otsego,City of Oneonta W6D1,US Senate,,Dem,Kirsten Gillibrand,373
+Otsego,City of Oneonta W7D1,US Senate,,Dem,Kirsten Gillibrand,271
+Otsego,City of Oneonta W8D1,US Senate,,Dem,Kirsten Gillibrand,287
+Otsego,Decatur 1,US Senate,,Dem,Kirsten Gillibrand,68
+Otsego,Edmeston 1,US Senate,,Dem,Kirsten Gillibrand,332
+Otsego,Exeter 1,US Senate,,Dem,Kirsten Gillibrand,163
+Otsego,Hartwick 1,US Senate,,Dem,Kirsten Gillibrand,338
+Otsego,Hartwick 2,US Senate,,Dem,Kirsten Gillibrand,173
+Otsego,Laurens 1,US Senate,,Dem,Kirsten Gillibrand,260
+Otsego,Laurens 2,US Senate,,Dem,Kirsten Gillibrand,300
+Otsego,Maryland 1,US Senate,,Dem,Kirsten Gillibrand,150
+Otsego,Maryland 2,US Senate,,Dem,Kirsten Gillibrand,234
+Otsego,Middlefield 1,US Senate,,Dem,Kirsten Gillibrand,287
+Otsego,Middlefield 2,US Senate,,Dem,Kirsten Gillibrand,325
+Otsego,Milford 1,US Senate,,Dem,Kirsten Gillibrand,271
+Otsego,Milford 2,US Senate,,Dem,Kirsten Gillibrand,435
+Otsego,Morris 1,US Senate,,Dem,Kirsten Gillibrand,379
+Otsego,New Lisbon 1,US Senate,,Dem,Kirsten Gillibrand,236
+Otsego,Otego 1,US Senate,,Dem,Kirsten Gillibrand,305
+Otsego,Otego 2,US Senate,,Dem,Kirsten Gillibrand,314
+Otsego,Otsego 1,US Senate,,Dem,Kirsten Gillibrand,584
+Otsego,Otsego 2,US Senate,,Dem,Kirsten Gillibrand,218
+Otsego,Otsego 3,US Senate,,Dem,Kirsten Gillibrand,383
+Otsego,Pittsfield 1,US Senate,,Dem,Kirsten Gillibrand,243
+Otsego,Plainfield 1,US Senate,,Dem,Kirsten Gillibrand,147
+Otsego,Richfield 1,US Senate,,Dem,Kirsten Gillibrand,209
+Otsego,Richfield 2,US Senate,,Dem,Kirsten Gillibrand,217
+Otsego,Roseboom 1,US Senate,,Dem,Kirsten Gillibrand,150
+Otsego,Springfield 1,US Senate,,Dem,Kirsten Gillibrand,305
+Otsego,Oneonta town 1,US Senate,,Dem,Kirsten Gillibrand,440
+Otsego,Oneonta town 2,US Senate,,Dem,Kirsten Gillibrand,403
+Otsego,Oneonta town 3,US Senate,,Dem,Kirsten Gillibrand,299
+Otsego,Oneonta town 4,US Senate,,Dem,Kirsten Gillibrand,243
+Otsego,Unadilla 1,US Senate,,Dem,Kirsten Gillibrand,243
+Otsego,Unadilla 2,US Senate,,Dem,Kirsten Gillibrand,324
+Otsego,Unadilla 3,US Senate,,Dem,Kirsten Gillibrand,260
+Otsego,Westford 1,US Senate,,Dem,Kirsten Gillibrand,172
+Otsego,Worcester 1,US Senate,,Dem,Kirsten Gillibrand,172
+Otsego,Worcester 2,US Senate,,Dem,Kirsten Gillibrand,117
+Otsego,Worcester 3,US Senate,,Dem,Kirsten Gillibrand,192
+Otsego,Burlington 1,US Senate,,Rep,Wendy Long,189
+Otsego,Butternuts 1,US Senate,,Rep,Wendy Long,122
+Otsego,Butternuts 2,US Senate,,Rep,Wendy Long,163
+Otsego,Cherry Valley 1,US Senate,,Rep,Wendy Long,156
+Otsego,City of Oneonta W1D1,US Senate,,Rep,Wendy Long,109
+Otsego,City of Oneonta W2D1,US Senate,,Rep,Wendy Long,81
+Otsego,City of Oneonta W3D1,US Senate,,Rep,Wendy Long,32
+Otsego,City of Oneonta W4D1,US Senate,,Rep,Wendy Long,43
+Otsego,City of Oneonta W5D1,US Senate,,Rep,Wendy Long,80
+Otsego,City of Oneonta W6D1,US Senate,,Rep,Wendy Long,122
+Otsego,City of Oneonta W7D1,US Senate,,Rep,Wendy Long,80
+Otsego,City of Oneonta W8D1,US Senate,,Rep,Wendy Long,51
+Otsego,Decatur 1,US Senate,,Rep,Wendy Long,66
+Otsego,Edmeston 1,US Senate,,Rep,Wendy Long,240
+Otsego,Exeter 1,US Senate,,Rep,Wendy Long,133
+Otsego,Hartwick 1,US Senate,,Rep,Wendy Long,160
+Otsego,Hartwick 2,US Senate,,Rep,Wendy Long,117
+Otsego,Laurens 1,US Senate,,Rep,Wendy Long,120
+Otsego,Laurens 2,US Senate,,Rep,Wendy Long,160
+Otsego,Maryland 1,US Senate,,Rep,Wendy Long,98
+Otsego,Maryland 2,US Senate,,Rep,Wendy Long,158
+Otsego,Middlefield 1,US Senate,,Rep,Wendy Long,91
+Otsego,Middlefield 2,US Senate,,Rep,Wendy Long,144
+Otsego,Milford 1,US Senate,,Rep,Wendy Long,145
+Otsego,Milford 2,US Senate,,Rep,Wendy Long,225
+Otsego,Morris 1,US Senate,,Rep,Wendy Long,240
+Otsego,New Lisbon 1,US Senate,,Rep,Wendy Long,175
+Otsego,Otego 1,US Senate,,Rep,Wendy Long,207
+Otsego,Otego 2,US Senate,,Rep,Wendy Long,231
+Otsego,Otsego 1,US Senate,,Rep,Wendy Long,208
+Otsego,Otsego 2,US Senate,,Rep,Wendy Long,107
+Otsego,Otsego 3,US Senate,,Rep,Wendy Long,237
+Otsego,Pittsfield 1,US Senate,,Rep,Wendy Long,136
+Otsego,Plainfield 1,US Senate,,Rep,Wendy Long,138
+Otsego,Richfield 1,US Senate,,Rep,Wendy Long,127
+Otsego,Richfield 2,US Senate,,Rep,Wendy Long,178
+Otsego,Roseboom 1,US Senate,,Rep,Wendy Long,90
+Otsego,Springfield 1,US Senate,,Rep,Wendy Long,211
+Otsego,Oneonta town 1,US Senate,,Rep,Wendy Long,160
+Otsego,Oneonta town 2,US Senate,,Rep,Wendy Long,185
+Otsego,Oneonta town 3,US Senate,,Rep,Wendy Long,113
+Otsego,Oneonta town 4,US Senate,,Rep,Wendy Long,132
+Otsego,Unadilla 1,US Senate,,Rep,Wendy Long,158
+Otsego,Unadilla 2,US Senate,,Rep,Wendy Long,225
+Otsego,Unadilla 3,US Senate,,Rep,Wendy Long,104
+Otsego,Westford 1,US Senate,,Rep,Wendy Long,136
+Otsego,Worcester 1,US Senate,,Rep,Wendy Long,132
+Otsego,Worcester 2,US Senate,,Rep,Wendy Long,65
+Otsego,Worcester 3,US Senate,,Rep,Wendy Long,130
+Otsego,Burlington 1,US Senate,,Con,Wendy Long,27
+Otsego,Butternuts 1,US Senate,,Con,Wendy Long,6
+Otsego,Butternuts 2,US Senate,,Con,Wendy Long,13
+Otsego,Cherry Valley 1,US Senate,,Con,Wendy Long,18
+Otsego,City of Oneonta W1D1,US Senate,,Con,Wendy Long,14
+Otsego,City of Oneonta W2D1,US Senate,,Con,Wendy Long,12
+Otsego,City of Oneonta W3D1,US Senate,,Con,Wendy Long,4
+Otsego,City of Oneonta W4D1,US Senate,,Con,Wendy Long,0
+Otsego,City of Oneonta W5D1,US Senate,,Con,Wendy Long,7
+Otsego,City of Oneonta W6D1,US Senate,,Con,Wendy Long,10
+Otsego,City of Oneonta W7D1,US Senate,,Con,Wendy Long,7
+Otsego,City of Oneonta W8D1,US Senate,,Con,Wendy Long,7
+Otsego,Decatur 1,US Senate,,Con,Wendy Long,15
+Otsego,Edmeston 1,US Senate,,Con,Wendy Long,31
+Otsego,Exeter 1,US Senate,,Con,Wendy Long,20
+Otsego,Hartwick 1,US Senate,,Con,Wendy Long,50
+Otsego,Hartwick 2,US Senate,,Con,Wendy Long,14
+Otsego,Laurens 1,US Senate,,Con,Wendy Long,11
+Otsego,Laurens 2,US Senate,,Con,Wendy Long,14
+Otsego,Maryland 1,US Senate,,Con,Wendy Long,14
+Otsego,Maryland 2,US Senate,,Con,Wendy Long,16
+Otsego,Middlefield 1,US Senate,,Con,Wendy Long,11
+Otsego,Middlefield 2,US Senate,,Con,Wendy Long,27
+Otsego,Milford 1,US Senate,,Con,Wendy Long,16
+Otsego,Milford 2,US Senate,,Con,Wendy Long,23
+Otsego,Morris 1,US Senate,,Con,Wendy Long,17
+Otsego,New Lisbon 1,US Senate,,Con,Wendy Long,25
+Otsego,Otego 1,US Senate,,Con,Wendy Long,33
+Otsego,Otego 2,US Senate,,Con,Wendy Long,25
+Otsego,Otsego 1,US Senate,,Con,Wendy Long,29
+Otsego,Otsego 2,US Senate,,Con,Wendy Long,6
+Otsego,Otsego 3,US Senate,,Con,Wendy Long,21
+Otsego,Pittsfield 1,US Senate,,Con,Wendy Long,11
+Otsego,Plainfield 1,US Senate,,Con,Wendy Long,22
+Otsego,Richfield 1,US Senate,,Con,Wendy Long,13
+Otsego,Richfield 2,US Senate,,Con,Wendy Long,24
+Otsego,Roseboom 1,US Senate,,Con,Wendy Long,13
+Otsego,Springfield 1,US Senate,,Con,Wendy Long,26
+Otsego,Oneonta town 1,US Senate,,Con,Wendy Long,22
+Otsego,Oneonta town 2,US Senate,,Con,Wendy Long,22
+Otsego,Oneonta town 3,US Senate,,Con,Wendy Long,14
+Otsego,Oneonta town 4,US Senate,,Con,Wendy Long,30
+Otsego,Unadilla 1,US Senate,,Con,Wendy Long,25
+Otsego,Unadilla 2,US Senate,,Con,Wendy Long,13
+Otsego,Unadilla 3,US Senate,,Con,Wendy Long,14
+Otsego,Westford 1,US Senate,,Con,Wendy Long,21
+Otsego,Worcester 1,US Senate,,Con,Wendy Long,25
+Otsego,Worcester 2,US Senate,,Con,Wendy Long,7
+Otsego,Worcester 3,US Senate,,Con,Wendy Long,12
+Otsego,Burlington 1,US Senate,,WF,Kirsten Gillibrand,22
+Otsego,Butternuts 1,US Senate,,WF,Kirsten Gillibrand,16
+Otsego,Butternuts 2,US Senate,,WF,Kirsten Gillibrand,21
+Otsego,Cherry Valley 1,US Senate,,WF,Kirsten Gillibrand,33
+Otsego,City of Oneonta W1D1,US Senate,,WF,Kirsten Gillibrand,17
+Otsego,City of Oneonta W2D1,US Senate,,WF,Kirsten Gillibrand,18
+Otsego,City of Oneonta W3D1,US Senate,,WF,Kirsten Gillibrand,13
+Otsego,City of Oneonta W4D1,US Senate,,WF,Kirsten Gillibrand,17
+Otsego,City of Oneonta W5D1,US Senate,,WF,Kirsten Gillibrand,21
+Otsego,City of Oneonta W6D1,US Senate,,WF,Kirsten Gillibrand,21
+Otsego,City of Oneonta W7D1,US Senate,,WF,Kirsten Gillibrand,18
+Otsego,City of Oneonta W8D1,US Senate,,WF,Kirsten Gillibrand,25
+Otsego,Decatur 1,US Senate,,WF,Kirsten Gillibrand,7
+Otsego,Edmeston 1,US Senate,,WF,Kirsten Gillibrand,32
+Otsego,Exeter 1,US Senate,,WF,Kirsten Gillibrand,18
+Otsego,Hartwick 1,US Senate,,WF,Kirsten Gillibrand,35
+Otsego,Hartwick 2,US Senate,,WF,Kirsten Gillibrand,12
+Otsego,Laurens 1,US Senate,,WF,Kirsten Gillibrand,21
+Otsego,Laurens 2,US Senate,,WF,Kirsten Gillibrand,24
+Otsego,Maryland 1,US Senate,,WF,Kirsten Gillibrand,18
+Otsego,Maryland 2,US Senate,,WF,Kirsten Gillibrand,18
+Otsego,Middlefield 1,US Senate,,WF,Kirsten Gillibrand,18
+Otsego,Middlefield 2,US Senate,,WF,Kirsten Gillibrand,24
+Otsego,Milford 1,US Senate,,WF,Kirsten Gillibrand,18
+Otsego,Milford 2,US Senate,,WF,Kirsten Gillibrand,32
+Otsego,Morris 1,US Senate,,WF,Kirsten Gillibrand,30
+Otsego,New Lisbon 1,US Senate,,WF,Kirsten Gillibrand,18
+Otsego,Otego 1,US Senate,,WF,Kirsten Gillibrand,41
+Otsego,Otego 2,US Senate,,WF,Kirsten Gillibrand,36
+Otsego,Otsego 1,US Senate,,WF,Kirsten Gillibrand,26
+Otsego,Otsego 2,US Senate,,WF,Kirsten Gillibrand,22
+Otsego,Otsego 3,US Senate,,WF,Kirsten Gillibrand,38
+Otsego,Pittsfield 1,US Senate,,WF,Kirsten Gillibrand,25
+Otsego,Plainfield 1,US Senate,,WF,Kirsten Gillibrand,16
+Otsego,Richfield 1,US Senate,,WF,Kirsten Gillibrand,19
+Otsego,Richfield 2,US Senate,,WF,Kirsten Gillibrand,23
+Otsego,Roseboom 1,US Senate,,WF,Kirsten Gillibrand,26
+Otsego,Springfield 1,US Senate,,WF,Kirsten Gillibrand,23
+Otsego,Oneonta town 1,US Senate,,WF,Kirsten Gillibrand,26
+Otsego,Oneonta town 2,US Senate,,WF,Kirsten Gillibrand,31
+Otsego,Oneonta town 3,US Senate,,WF,Kirsten Gillibrand,18
+Otsego,Oneonta town 4,US Senate,,WF,Kirsten Gillibrand,17
+Otsego,Unadilla 1,US Senate,,WF,Kirsten Gillibrand,33
+Otsego,Unadilla 2,US Senate,,WF,Kirsten Gillibrand,32
+Otsego,Unadilla 3,US Senate,,WF,Kirsten Gillibrand,12
+Otsego,Westford 1,US Senate,,WF,Kirsten Gillibrand,17
+Otsego,Worcester 1,US Senate,,WF,Kirsten Gillibrand,17
+Otsego,Worcester 2,US Senate,,WF,Kirsten Gillibrand,15
+Otsego,Worcester 3,US Senate,,WF,Kirsten Gillibrand,15
+Otsego,Burlington 1,US Senate,,Ind,Kirsten Gillibrand,13
+Otsego,Butternuts 1,US Senate,,Ind,Kirsten Gillibrand,9
+Otsego,Butternuts 2,US Senate,,Ind,Kirsten Gillibrand,25
+Otsego,Cherry Valley 1,US Senate,,Ind,Kirsten Gillibrand,27
+Otsego,City of Oneonta W1D1,US Senate,,Ind,Kirsten Gillibrand,17
+Otsego,City of Oneonta W2D1,US Senate,,Ind,Kirsten Gillibrand,16
+Otsego,City of Oneonta W3D1,US Senate,,Ind,Kirsten Gillibrand,5
+Otsego,City of Oneonta W4D1,US Senate,,Ind,Kirsten Gillibrand,5
+Otsego,City of Oneonta W5D1,US Senate,,Ind,Kirsten Gillibrand,10
+Otsego,City of Oneonta W6D1,US Senate,,Ind,Kirsten Gillibrand,18
+Otsego,City of Oneonta W7D1,US Senate,,Ind,Kirsten Gillibrand,15
+Otsego,City of Oneonta W8D1,US Senate,,Ind,Kirsten Gillibrand,5
+Otsego,Decatur 1,US Senate,,Ind,Kirsten Gillibrand,7
+Otsego,Edmeston 1,US Senate,,Ind,Kirsten Gillibrand,23
+Otsego,Exeter 1,US Senate,,Ind,Kirsten Gillibrand,9
+Otsego,Hartwick 1,US Senate,,Ind,Kirsten Gillibrand,22
+Otsego,Hartwick 2,US Senate,,Ind,Kirsten Gillibrand,6
+Otsego,Laurens 1,US Senate,,Ind,Kirsten Gillibrand,8
+Otsego,Laurens 2,US Senate,,Ind,Kirsten Gillibrand,19
+Otsego,Maryland 1,US Senate,,Ind,Kirsten Gillibrand,8
+Otsego,Maryland 2,US Senate,,Ind,Kirsten Gillibrand,18
+Otsego,Middlefield 1,US Senate,,Ind,Kirsten Gillibrand,11
+Otsego,Middlefield 2,US Senate,,Ind,Kirsten Gillibrand,19
+Otsego,Milford 1,US Senate,,Ind,Kirsten Gillibrand,17
+Otsego,Milford 2,US Senate,,Ind,Kirsten Gillibrand,32
+Otsego,Morris 1,US Senate,,Ind,Kirsten Gillibrand,29
+Otsego,New Lisbon 1,US Senate,,Ind,Kirsten Gillibrand,13
+Otsego,Otego 1,US Senate,,Ind,Kirsten Gillibrand,16
+Otsego,Otego 2,US Senate,,Ind,Kirsten Gillibrand,19
+Otsego,Otsego 1,US Senate,,Ind,Kirsten Gillibrand,35
+Otsego,Otsego 2,US Senate,,Ind,Kirsten Gillibrand,15
+Otsego,Otsego 3,US Senate,,Ind,Kirsten Gillibrand,21
+Otsego,Pittsfield 1,US Senate,,Ind,Kirsten Gillibrand,5
+Otsego,Plainfield 1,US Senate,,Ind,Kirsten Gillibrand,10
+Otsego,Richfield 1,US Senate,,Ind,Kirsten Gillibrand,17
+Otsego,Richfield 2,US Senate,,Ind,Kirsten Gillibrand,13
+Otsego,Roseboom 1,US Senate,,Ind,Kirsten Gillibrand,14
+Otsego,Springfield 1,US Senate,,Ind,Kirsten Gillibrand,26
+Otsego,Oneonta town 1,US Senate,,Ind,Kirsten Gillibrand,22
+Otsego,Oneonta town 2,US Senate,,Ind,Kirsten Gillibrand,25
+Otsego,Oneonta town 3,US Senate,,Ind,Kirsten Gillibrand,18
+Otsego,Oneonta town 4,US Senate,,Ind,Kirsten Gillibrand,16
+Otsego,Unadilla 1,US Senate,,Ind,Kirsten Gillibrand,3
+Otsego,Unadilla 2,US Senate,,Ind,Kirsten Gillibrand,25
+Otsego,Unadilla 3,US Senate,,Ind,Kirsten Gillibrand,12
+Otsego,Westford 1,US Senate,,Ind,Kirsten Gillibrand,17
+Otsego,Worcester 1,US Senate,,Ind,Kirsten Gillibrand,7
+Otsego,Worcester 2,US Senate,,Ind,Kirsten Gillibrand,10
+Otsego,Worcester 3,US Senate,,Ind,Kirsten Gillibrand,11
+Otsego,Burlington 1,US Senate,,Green,Colia Clark,1
+Otsego,Butternuts 1,US Senate,,Green,Colia Clark,4
+Otsego,Butternuts 2,US Senate,,Green,Colia Clark,4
+Otsego,Cherry Valley 1,US Senate,,Green,Colia Clark,6
+Otsego,City of Oneonta W1D1,US Senate,,Green,Colia Clark,9
+Otsego,City of Oneonta W2D1,US Senate,,Green,Colia Clark,5
+Otsego,City of Oneonta W3D1,US Senate,,Green,Colia Clark,5
+Otsego,City of Oneonta W4D1,US Senate,,Green,Colia Clark,3
+Otsego,City of Oneonta W5D1,US Senate,,Green,Colia Clark,3
+Otsego,City of Oneonta W6D1,US Senate,,Green,Colia Clark,4
+Otsego,City of Oneonta W7D1,US Senate,,Green,Colia Clark,5
+Otsego,City of Oneonta W8D1,US Senate,,Green,Colia Clark,6
+Otsego,Decatur 1,US Senate,,Green,Colia Clark,1
+Otsego,Edmeston 1,US Senate,,Green,Colia Clark,5
+Otsego,Exeter 1,US Senate,,Green,Colia Clark,6
+Otsego,Hartwick 1,US Senate,,Green,Colia Clark,5
+Otsego,Hartwick 2,US Senate,,Green,Colia Clark,6
+Otsego,Laurens 1,US Senate,,Green,Colia Clark,2
+Otsego,Laurens 2,US Senate,,Green,Colia Clark,8
+Otsego,Maryland 1,US Senate,,Green,Colia Clark,0
+Otsego,Maryland 2,US Senate,,Green,Colia Clark,4
+Otsego,Middlefield 1,US Senate,,Green,Colia Clark,5
+Otsego,Middlefield 2,US Senate,,Green,Colia Clark,7
+Otsego,Milford 1,US Senate,,Green,Colia Clark,1
+Otsego,Milford 2,US Senate,,Green,Colia Clark,5
+Otsego,Morris 1,US Senate,,Green,Colia Clark,9
+Otsego,New Lisbon 1,US Senate,,Green,Colia Clark,2
+Otsego,Otego 1,US Senate,,Green,Colia Clark,1
+Otsego,Otego 2,US Senate,,Green,Colia Clark,4
+Otsego,Otsego 1,US Senate,,Green,Colia Clark,9
+Otsego,Otsego 2,US Senate,,Green,Colia Clark,3
+Otsego,Otsego 3,US Senate,,Green,Colia Clark,6
+Otsego,Pittsfield 1,US Senate,,Green,Colia Clark,2
+Otsego,Plainfield 1,US Senate,,Green,Colia Clark,1
+Otsego,Richfield 1,US Senate,,Green,Colia Clark,2
+Otsego,Richfield 2,US Senate,,Green,Colia Clark,3
+Otsego,Roseboom 1,US Senate,,Green,Colia Clark,5
+Otsego,Springfield 1,US Senate,,Green,Colia Clark,5
+Otsego,Oneonta town 1,US Senate,,Green,Colia Clark,3
+Otsego,Oneonta town 2,US Senate,,Green,Colia Clark,4
+Otsego,Oneonta town 3,US Senate,,Green,Colia Clark,3
+Otsego,Oneonta town 4,US Senate,,Green,Colia Clark,3
+Otsego,Unadilla 1,US Senate,,Green,Colia Clark,2
+Otsego,Unadilla 2,US Senate,,Green,Colia Clark,2
+Otsego,Unadilla 3,US Senate,,Green,Colia Clark,1
+Otsego,Westford 1,US Senate,,Green,Colia Clark,7
+Otsego,Worcester 1,US Senate,,Green,Colia Clark,1
+Otsego,Worcester 2,US Senate,,Green,Colia Clark,1
+Otsego,Worcester 3,US Senate,,Green,Colia Clark,0
+Otsego,Burlington 1,US Senate,,Lbt,Chris Edes,3
+Otsego,Butternuts 1,US Senate,,Lbt,Chris Edes,1
+Otsego,Butternuts 2,US Senate,,Lbt,Chris Edes,4
+Otsego,Cherry Valley 1,US Senate,,Lbt,Chris Edes,2
+Otsego,City of Oneonta W1D1,US Senate,,Lbt,Chris Edes,3
+Otsego,City of Oneonta W2D1,US Senate,,Lbt,Chris Edes,2
+Otsego,City of Oneonta W3D1,US Senate,,Lbt,Chris Edes,1
+Otsego,City of Oneonta W4D1,US Senate,,Lbt,Chris Edes,3
+Otsego,City of Oneonta W5D1,US Senate,,Lbt,Chris Edes,1
+Otsego,City of Oneonta W6D1,US Senate,,Lbt,Chris Edes,3
+Otsego,City of Oneonta W7D1,US Senate,,Lbt,Chris Edes,1
+Otsego,City of Oneonta W8D1,US Senate,,Lbt,Chris Edes,4
+Otsego,Decatur 1,US Senate,,Lbt,Chris Edes,0
+Otsego,Edmeston 1,US Senate,,Lbt,Chris Edes,1
+Otsego,Exeter 1,US Senate,,Lbt,Chris Edes,1
+Otsego,Hartwick 1,US Senate,,Lbt,Chris Edes,7
+Otsego,Hartwick 2,US Senate,,Lbt,Chris Edes,2
+Otsego,Laurens 1,US Senate,,Lbt,Chris Edes,0
+Otsego,Laurens 2,US Senate,,Lbt,Chris Edes,3
+Otsego,Maryland 1,US Senate,,Lbt,Chris Edes,3
+Otsego,Maryland 2,US Senate,,Lbt,Chris Edes,0
+Otsego,Middlefield 1,US Senate,,Lbt,Chris Edes,1
+Otsego,Middlefield 2,US Senate,,Lbt,Chris Edes,2
+Otsego,Milford 1,US Senate,,Lbt,Chris Edes,0
+Otsego,Milford 2,US Senate,,Lbt,Chris Edes,7
+Otsego,Morris 1,US Senate,,Lbt,Chris Edes,4
+Otsego,New Lisbon 1,US Senate,,Lbt,Chris Edes,1
+Otsego,Otego 1,US Senate,,Lbt,Chris Edes,1
+Otsego,Otego 2,US Senate,,Lbt,Chris Edes,2
+Otsego,Otsego 1,US Senate,,Lbt,Chris Edes,4
+Otsego,Otsego 2,US Senate,,Lbt,Chris Edes,2
+Otsego,Otsego 3,US Senate,,Lbt,Chris Edes,4
+Otsego,Pittsfield 1,US Senate,,Lbt,Chris Edes,1
+Otsego,Plainfield 1,US Senate,,Lbt,Chris Edes,2
+Otsego,Richfield 1,US Senate,,Lbt,Chris Edes,2
+Otsego,Richfield 2,US Senate,,Lbt,Chris Edes,3
+Otsego,Roseboom 1,US Senate,,Lbt,Chris Edes,2
+Otsego,Springfield 1,US Senate,,Lbt,Chris Edes,2
+Otsego,Oneonta town 1,US Senate,,Lbt,Chris Edes,2
+Otsego,Oneonta town 2,US Senate,,Lbt,Chris Edes,3
+Otsego,Oneonta town 3,US Senate,,Lbt,Chris Edes,3
+Otsego,Oneonta town 4,US Senate,,Lbt,Chris Edes,0
+Otsego,Unadilla 1,US Senate,,Lbt,Chris Edes,1
+Otsego,Unadilla 2,US Senate,,Lbt,Chris Edes,2
+Otsego,Unadilla 3,US Senate,,Lbt,Chris Edes,5
+Otsego,Westford 1,US Senate,,Lbt,Chris Edes,1
+Otsego,Worcester 1,US Senate,,Lbt,Chris Edes,4
+Otsego,Worcester 2,US Senate,,Lbt,Chris Edes,4
+Otsego,Worcester 3,US Senate,,Lbt,Chris Edes,2
+Otsego,Burlington 1,US Senate,,CS,John Mangelli,0
+Otsego,Butternuts 1,US Senate,,CS,John Mangelli,0
+Otsego,Butternuts 2,US Senate,,CS,John Mangelli,3
+Otsego,Cherry Valley 1,US Senate,,CS,John Mangelli,2
+Otsego,City of Oneonta W1D1,US Senate,,CS,John Mangelli,4
+Otsego,City of Oneonta W2D1,US Senate,,CS,John Mangelli,1
+Otsego,City of Oneonta W3D1,US Senate,,CS,John Mangelli,1
+Otsego,City of Oneonta W4D1,US Senate,,CS,John Mangelli,1
+Otsego,City of Oneonta W5D1,US Senate,,CS,John Mangelli,2
+Otsego,City of Oneonta W6D1,US Senate,,CS,John Mangelli,1
+Otsego,City of Oneonta W7D1,US Senate,,CS,John Mangelli,1
+Otsego,City of Oneonta W8D1,US Senate,,CS,John Mangelli,0
+Otsego,Decatur 1,US Senate,,CS,John Mangelli,1
+Otsego,Edmeston 1,US Senate,,CS,John Mangelli,5
+Otsego,Exeter 1,US Senate,,CS,John Mangelli,0
+Otsego,Hartwick 1,US Senate,,CS,John Mangelli,1
+Otsego,Hartwick 2,US Senate,,CS,John Mangelli,1
+Otsego,Laurens 1,US Senate,,CS,John Mangelli,1
+Otsego,Laurens 2,US Senate,,CS,John Mangelli,3
+Otsego,Maryland 1,US Senate,,CS,John Mangelli,1
+Otsego,Maryland 2,US Senate,,CS,John Mangelli,1
+Otsego,Middlefield 1,US Senate,,CS,John Mangelli,0
+Otsego,Middlefield 2,US Senate,,CS,John Mangelli,3
+Otsego,Milford 1,US Senate,,CS,John Mangelli,1
+Otsego,Milford 2,US Senate,,CS,John Mangelli,3
+Otsego,Morris 1,US Senate,,CS,John Mangelli,2
+Otsego,New Lisbon 1,US Senate,,CS,John Mangelli,3
+Otsego,Otego 1,US Senate,,CS,John Mangelli,1
+Otsego,Otego 2,US Senate,,CS,John Mangelli,3
+Otsego,Otsego 1,US Senate,,CS,John Mangelli,2
+Otsego,Otsego 2,US Senate,,CS,John Mangelli,0
+Otsego,Otsego 3,US Senate,,CS,John Mangelli,0
+Otsego,Pittsfield 1,US Senate,,CS,John Mangelli,2
+Otsego,Plainfield 1,US Senate,,CS,John Mangelli,1
+Otsego,Richfield 1,US Senate,,CS,John Mangelli,4
+Otsego,Richfield 2,US Senate,,CS,John Mangelli,3
+Otsego,Roseboom 1,US Senate,,CS,John Mangelli,0
+Otsego,Springfield 1,US Senate,,CS,John Mangelli,2
+Otsego,Oneonta town 1,US Senate,,CS,John Mangelli,0
+Otsego,Oneonta town 2,US Senate,,CS,John Mangelli,2
+Otsego,Oneonta town 3,US Senate,,CS,John Mangelli,0
+Otsego,Oneonta town 4,US Senate,,CS,John Mangelli,1
+Otsego,Unadilla 1,US Senate,,CS,John Mangelli,1
+Otsego,Unadilla 2,US Senate,,CS,John Mangelli,2
+Otsego,Unadilla 3,US Senate,,CS,John Mangelli,0
+Otsego,Westford 1,US Senate,,CS,John Mangelli,3
+Otsego,Worcester 1,US Senate,,CS,John Mangelli,2
+Otsego,Worcester 2,US Senate,,CS,John Mangelli,0
+Otsego,Worcester 3,US Senate,,CS,John Mangelli,2
+Otsego,Burlington 1,US Senate,,,writein,
+Otsego,Butternuts 1,US Senate,,,writein,
+Otsego,Butternuts 2,US Senate,,,writein,
+Otsego,Cherry Valley 1,US Senate,,,writein,
+Otsego,City of Oneonta W1D1,US Senate,,,writein,
+Otsego,City of Oneonta W2D1,US Senate,,,writein,
+Otsego,City of Oneonta W3D1,US Senate,,,writein,
+Otsego,City of Oneonta W4D1,US Senate,,,writein,
+Otsego,City of Oneonta W5D1,US Senate,,,writein,
+Otsego,City of Oneonta W6D1,US Senate,,,writein,
+Otsego,City of Oneonta W7D1,US Senate,,,writein,
+Otsego,City of Oneonta W8D1,US Senate,,,writein,
+Otsego,Decatur 1,US Senate,,,writein,
+Otsego,Edmeston 1,US Senate,,,writein,1
+Otsego,Exeter 1,US Senate,,,writein,
+Otsego,Hartwick 1,US Senate,,,writein,
+Otsego,Hartwick 2,US Senate,,,writein,
+Otsego,Laurens 1,US Senate,,,writein,
+Otsego,Laurens 2,US Senate,,,writein,
+Otsego,Maryland 1,US Senate,,,writein,
+Otsego,Maryland 2,US Senate,,,writein,
+Otsego,Middlefield 1,US Senate,,,writein,
+Otsego,Middlefield 2,US Senate,,,writein,
+Otsego,Milford 1,US Senate,,,writein,
+Otsego,Milford 2,US Senate,,,writein,
+Otsego,Morris 1,US Senate,,,writein,
+Otsego,New Lisbon 1,US Senate,,,writein,
+Otsego,Otego 1,US Senate,,,writein,
+Otsego,Otego 2,US Senate,,,writein,
+Otsego,Otsego 1,US Senate,,,writein,
+Otsego,Otsego 2,US Senate,,,writein,
+Otsego,Otsego 3,US Senate,,,writein,
+Otsego,Pittsfield 1,US Senate,,,writein,
+Otsego,Plainfield 1,US Senate,,,writein,
+Otsego,Richfield 1,US Senate,,,writein,
+Otsego,Richfield 2,US Senate,,,writein,
+Otsego,Roseboom 1,US Senate,,,writein,
+Otsego,Springfield 1,US Senate,,,writein,1
+Otsego,Oneonta town 1,US Senate,,,writein,
+Otsego,Oneonta town 2,US Senate,,,writein,
+Otsego,Oneonta town 3,US Senate,,,writein,
+Otsego,Oneonta town 4,US Senate,,,writein,
+Otsego,Unadilla 1,US Senate,,,writein,1
+Otsego,Unadilla 2,US Senate,,,writein,1
+Otsego,Unadilla 3,US Senate,,,writein,
+Otsego,Westford 1,US Senate,,,writein,
+Otsego,Worcester 1,US Senate,,,writein,
+Otsego,Worcester 2,US Senate,,,writein,
+Otsego,Worcester 3,US Senate,,,writein,
