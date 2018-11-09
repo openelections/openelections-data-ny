@@ -1,48 +1,48 @@
 county,precinct,office,district,party,candidate,votes
-Hamilton,Arietta,State House,118,Dem,Joseph Chilelli,44
-Hamilton,Benson,State House,118,Dem,Joseph Chilelli,30
-Hamilton,Hope,State House,118,Dem,Joseph Chilelli,27
-Hamilton,Indian Lake 1,State House,118,Dem,Joseph Chilelli,226
-Hamilton,Indian Lake 2,State House,118,Dem,Joseph Chilelli,54
-Hamilton,Inlet,State House,118,Dem,Joseph Chilelli,55
-Hamilton,Lake Pleasant,State House,118,Dem,Joseph Chilelli,79
-Hamilton,Long Lake 1,State House,118,Dem,Joseph Chilelli,133
-Hamilton,Long Lake 2,State House,118,Dem,Joseph Chilelli,15
-Hamilton,Morehouse,State House,118,Dem,Joseph Chilelli,17
-Hamilton,Wells,State House,118,Dem,Joseph Chilelli,81
-Hamilton,Arietta,State House,118,Rep,Mark Butler,143
-Hamilton,Benson,State House,118,Rep,Mark Butler,72
-Hamilton,Hope,State House,118,Rep,Mark Butler,82
-Hamilton,Indian Lake 1,State House,118,Rep,Mark Butler,330
-Hamilton,Indian Lake 2,State House,118,Rep,Mark Butler,43
-Hamilton,Inlet,State House,118,Rep,Mark Butler,144
-Hamilton,Lake Pleasant,State House,118,Rep,Mark Butler,419
-Hamilton,Long Lake 1,State House,118,Rep,Mark Butler,212
-Hamilton,Long Lake 2,State House,118,Rep,Mark Butler,52
-Hamilton,Morehouse,State House,118,Rep,Mark Butler,39
-Hamilton,Wells,State House,118,Rep,Mark Butler,251
-Hamilton,Arietta,State House,118,Con,Mark Butler,10
-Hamilton,Benson,State House,118,Con,Mark Butler,6
-Hamilton,Hope,State House,118,Con,Mark Butler,17
-Hamilton,Indian Lake 1,State House,118,Con,Mark Butler,25
-Hamilton,Indian Lake 2,State House,118,Con,Mark Butler,2
-Hamilton,Inlet,State House,118,Con,Mark Butler,18
-Hamilton,Lake Pleasant,State House,118,Con,Mark Butler,46
-Hamilton,Long Lake 1,State House,118,Con,Mark Butler,32
-Hamilton,Long Lake 2,State House,118,Con,Mark Butler,5
-Hamilton,Morehouse,State House,118,Con,Mark Butler,4
-Hamilton,Wells,State House,118,Con,Mark Butler,30
-Hamilton,Arietta,State House,118,Ind,Mark Butler,5
-Hamilton,Benson,State House,118,Ind,Mark Butler,1
-Hamilton,Hope,State House,118,Ind,Mark Butler,7
-Hamilton,Indian Lake 1,State House,118,Ind,Mark Butler,13
-Hamilton,Indian Lake 2,State House,118,Ind,Mark Butler,1
-Hamilton,Inlet,State House,118,Ind,Mark Butler,3
-Hamilton,Lake Pleasant,State House,118,Ind,Mark Butler,11
-Hamilton,Long Lake 1,State House,118,Ind,Mark Butler,14
-Hamilton,Long Lake 2,State House,118,Ind,Mark Butler,2
-Hamilton,Morehouse,State House,118,Ind,Mark Butler,3
-Hamilton,Wells,State House,118,Ind,Mark Butler,5
+Hamilton,Arietta,State Assembly,118,Dem,Joseph Chilelli,44
+Hamilton,Benson,State Assembly,118,Dem,Joseph Chilelli,30
+Hamilton,Hope,State Assembly,118,Dem,Joseph Chilelli,27
+Hamilton,Indian Lake 1,State Assembly,118,Dem,Joseph Chilelli,226
+Hamilton,Indian Lake 2,State Assembly,118,Dem,Joseph Chilelli,54
+Hamilton,Inlet,State Assembly,118,Dem,Joseph Chilelli,55
+Hamilton,Lake Pleasant,State Assembly,118,Dem,Joseph Chilelli,79
+Hamilton,Long Lake 1,State Assembly,118,Dem,Joseph Chilelli,133
+Hamilton,Long Lake 2,State Assembly,118,Dem,Joseph Chilelli,15
+Hamilton,Morehouse,State Assembly,118,Dem,Joseph Chilelli,17
+Hamilton,Wells,State Assembly,118,Dem,Joseph Chilelli,81
+Hamilton,Arietta,State Assembly,118,Rep,Mark Butler,143
+Hamilton,Benson,State Assembly,118,Rep,Mark Butler,72
+Hamilton,Hope,State Assembly,118,Rep,Mark Butler,82
+Hamilton,Indian Lake 1,State Assembly,118,Rep,Mark Butler,330
+Hamilton,Indian Lake 2,State Assembly,118,Rep,Mark Butler,43
+Hamilton,Inlet,State Assembly,118,Rep,Mark Butler,144
+Hamilton,Lake Pleasant,State Assembly,118,Rep,Mark Butler,419
+Hamilton,Long Lake 1,State Assembly,118,Rep,Mark Butler,212
+Hamilton,Long Lake 2,State Assembly,118,Rep,Mark Butler,52
+Hamilton,Morehouse,State Assembly,118,Rep,Mark Butler,39
+Hamilton,Wells,State Assembly,118,Rep,Mark Butler,251
+Hamilton,Arietta,State Assembly,118,Con,Mark Butler,10
+Hamilton,Benson,State Assembly,118,Con,Mark Butler,6
+Hamilton,Hope,State Assembly,118,Con,Mark Butler,17
+Hamilton,Indian Lake 1,State Assembly,118,Con,Mark Butler,25
+Hamilton,Indian Lake 2,State Assembly,118,Con,Mark Butler,2
+Hamilton,Inlet,State Assembly,118,Con,Mark Butler,18
+Hamilton,Lake Pleasant,State Assembly,118,Con,Mark Butler,46
+Hamilton,Long Lake 1,State Assembly,118,Con,Mark Butler,32
+Hamilton,Long Lake 2,State Assembly,118,Con,Mark Butler,5
+Hamilton,Morehouse,State Assembly,118,Con,Mark Butler,4
+Hamilton,Wells,State Assembly,118,Con,Mark Butler,30
+Hamilton,Arietta,State Assembly,118,Ind,Mark Butler,5
+Hamilton,Benson,State Assembly,118,Ind,Mark Butler,1
+Hamilton,Hope,State Assembly,118,Ind,Mark Butler,7
+Hamilton,Indian Lake 1,State Assembly,118,Ind,Mark Butler,13
+Hamilton,Indian Lake 2,State Assembly,118,Ind,Mark Butler,1
+Hamilton,Inlet,State Assembly,118,Ind,Mark Butler,3
+Hamilton,Lake Pleasant,State Assembly,118,Ind,Mark Butler,11
+Hamilton,Long Lake 1,State Assembly,118,Ind,Mark Butler,14
+Hamilton,Long Lake 2,State Assembly,118,Ind,Mark Butler,2
+Hamilton,Morehouse,State Assembly,118,Ind,Mark Butler,3
+Hamilton,Wells,State Assembly,118,Ind,Mark Butler,5
 Hamilton,Arietta,President,,Dem,Barack Obama,64
 Hamilton,Benson,President,,Dem,Barack Obama,43
 Hamilton,Hope,President,,Dem,Barack Obama,35

@@ -1,37 +1,37 @@
 county,precinct,office,district,party,candidate,votes
-St Lawrence,Brasher 1,State House,115,Dem,Timothy Carpenter,117
-St Lawrence,Brasher 2,State House,115,Dem,Timothy Carpenter,146
-St Lawrence,Hopkinton 1,State House,115,Dem,Timothy Carpenter,96
-St Lawrence,Lawrence 1,State House,115,Dem,Timothy Carpenter,157
-St Lawrence,Piercefield 1,State House,115,Dem,Timothy Carpenter,29
-St Lawrence,Brasher 1,State House,115,Rep,Janet Duprey,117
-St Lawrence,Brasher 2,State House,115,Rep,Janet Duprey,131
-St Lawrence,Hopkinton 1,State House,115,Rep,Janet Duprey,144
-St Lawrence,Lawrence 1,State House,115,Rep,Janet Duprey,220
-St Lawrence,Piercefield 1,State House,115,Rep,Janet Duprey,71
-St Lawrence,Brasher 1,State House,115,Con,Karen Bisso,60
-St Lawrence,Brasher 2,State House,115,Con,Karen Bisso,99
-St Lawrence,Hopkinton 1,State House,115,Con,Karen Bisso,118
-St Lawrence,Lawrence 1,State House,115,Con,Karen Bisso,70
-St Lawrence,Piercefield 1,State House,115,Con,Karen Bisso,21
-St Lawrence,Brasher 1,State House,115,Ind,Janet Duprey,15
-St Lawrence,Brasher 2,State House,115,Ind,Janet Duprey,13
-St Lawrence,Hopkinton 1,State House,115,Ind,Janet Duprey,10
-St Lawrence,Lawrence 1,State House,115,Ind,Janet Duprey,25
-St Lawrence,Piercefield 1,State House,115,Ind,Janet Duprey,10
-St Lawrence,Brasher 1,State House,115,Ind,writein,0
-St Lawrence,Brasher 2,State House,115,Ind,writein,0
-St Lawrence,Hopkinton 1,State House,115,Ind,writein,0
-St Lawrence,Lawrence 1,State House,115,Ind,writein,0
-St Lawrence,Piercefield 1,State House,115,Ind,writein,0
-St Lawrence,Canton 1,State House,116,Dem,Addie Russell,444
-St Lawrence,Canton 2,State House,116,Dem,Addie Russell,382
-St Lawrence,Canton 3,State House,116,Dem,Addie Russell,334
-St Lawrence,Canton 4,State House,116,Dem,Addie Russell,59
-St Lawrence,Canton 5,State House,116,Dem,Addie Russell,166
-St Lawrence,Canton 6,State House,116,Dem,Addie Russell,382
-St Lawrence,Canton 7,State House,116,Dem,Addie Russell,124
-St Lawrence,Canton 8,State House,116,Dem,Addie Russell,362
+St Lawrence,Brasher 1,State Assembly,115,Dem,Timothy Carpenter,117
+St Lawrence,Brasher 2,State Assembly,115,Dem,Timothy Carpenter,146
+St Lawrence,Hopkinton 1,State Assembly,115,Dem,Timothy Carpenter,96
+St Lawrence,Lawrence 1,State Assembly,115,Dem,Timothy Carpenter,157
+St Lawrence,Piercefield 1,State Assembly,115,Dem,Timothy Carpenter,29
+St Lawrence,Brasher 1,State Assembly,115,Rep,Janet Duprey,117
+St Lawrence,Brasher 2,State Assembly,115,Rep,Janet Duprey,131
+St Lawrence,Hopkinton 1,State Assembly,115,Rep,Janet Duprey,144
+St Lawrence,Lawrence 1,State Assembly,115,Rep,Janet Duprey,220
+St Lawrence,Piercefield 1,State Assembly,115,Rep,Janet Duprey,71
+St Lawrence,Brasher 1,State Assembly,115,Con,Karen Bisso,60
+St Lawrence,Brasher 2,State Assembly,115,Con,Karen Bisso,99
+St Lawrence,Hopkinton 1,State Assembly,115,Con,Karen Bisso,118
+St Lawrence,Lawrence 1,State Assembly,115,Con,Karen Bisso,70
+St Lawrence,Piercefield 1,State Assembly,115,Con,Karen Bisso,21
+St Lawrence,Brasher 1,State Assembly,115,Ind,Janet Duprey,15
+St Lawrence,Brasher 2,State Assembly,115,Ind,Janet Duprey,13
+St Lawrence,Hopkinton 1,State Assembly,115,Ind,Janet Duprey,10
+St Lawrence,Lawrence 1,State Assembly,115,Ind,Janet Duprey,25
+St Lawrence,Piercefield 1,State Assembly,115,Ind,Janet Duprey,10
+St Lawrence,Brasher 1,State Assembly,115,Ind,writein,0
+St Lawrence,Brasher 2,State Assembly,115,Ind,writein,0
+St Lawrence,Hopkinton 1,State Assembly,115,Ind,writein,0
+St Lawrence,Lawrence 1,State Assembly,115,Ind,writein,0
+St Lawrence,Piercefield 1,State Assembly,115,Ind,writein,0
+St Lawrence,Canton 1,State Assembly,116,Dem,Addie Russell,444
+St Lawrence,Canton 2,State Assembly,116,Dem,Addie Russell,382
+St Lawrence,Canton 3,State Assembly,116,Dem,Addie Russell,334
+St Lawrence,Canton 4,State Assembly,116,Dem,Addie Russell,59
+St Lawrence,Canton 5,State Assembly,116,Dem,Addie Russell,166
+St Lawrence,Canton 6,State Assembly,116,Dem,Addie Russell,382
+St Lawrence,Canton 7,State Assembly,116,Dem,Addie Russell,124
+St Lawrence,Canton 8,State Assembly,116,Dem,Addie Russell,362
 St Lawrence,Ogdensburg 1,1,AD116,Dem,Addie Russell,350
 St Lawrence,Ogdensburg 2,2,AD116,Dem,Addie Russell,329
 St Lawrence,Ogdensburg 3,3,AD116,Dem,Addie Russell,395
@@ -72,14 +72,14 @@ St Lawrence,Potsdam 8,8,AD116,Dem,Addie Russell,433
 St Lawrence,Rossie 1,1,AD116,Dem,Addie Russell,139
 St Lawrence,Waddington 1,1,AD116,Dem,Addie Russell,318
 St Lawrence,Waddington 2,2,AD116,Dem,Addie Russell,312
-St Lawrence,Canton 1,State House,116,WF,Addie Russell,54
-St Lawrence,Canton 2,State House,116,WF,Addie Russell,73
-St Lawrence,Canton 3,State House,116,WF,Addie Russell,33
-St Lawrence,Canton 4,State House,116,WF,Addie Russell,19
-St Lawrence,Canton 5,State House,116,WF,Addie Russell,33
-St Lawrence,Canton 6,State House,116,WF,Addie Russell,54
-St Lawrence,Canton 7,State House,116,WF,Addie Russell,17
-St Lawrence,Canton 8,State House,116,WF,Addie Russell,57
+St Lawrence,Canton 1,State Assembly,116,WF,Addie Russell,54
+St Lawrence,Canton 2,State Assembly,116,WF,Addie Russell,73
+St Lawrence,Canton 3,State Assembly,116,WF,Addie Russell,33
+St Lawrence,Canton 4,State Assembly,116,WF,Addie Russell,19
+St Lawrence,Canton 5,State Assembly,116,WF,Addie Russell,33
+St Lawrence,Canton 6,State Assembly,116,WF,Addie Russell,54
+St Lawrence,Canton 7,State Assembly,116,WF,Addie Russell,17
+St Lawrence,Canton 8,State Assembly,116,WF,Addie Russell,57
 St Lawrence,Ogdensburg 1,1,AD116,WF,Addie Russell,51
 St Lawrence,Ogdensburg 2,2,AD116,WF,Addie Russell,63
 St Lawrence,Ogdensburg 3,3,AD116,WF,Addie Russell,80
@@ -120,14 +120,14 @@ St Lawrence,Potsdam 8,8,AD116,WF,Addie Russell,72
 St Lawrence,Rossie 1,1,AD116,WF,Addie Russell,26
 St Lawrence,Waddington 1,1,AD116,WF,Addie Russell,41
 St Lawrence,Waddington 2,2,AD116,WF,Addie Russell,50
-St Lawrence,Canton 1,State House,116,Ind,writein,3
-St Lawrence,Canton 2,State House,116,Ind,writein,1
-St Lawrence,Canton 3,State House,116,Ind,writein,0
-St Lawrence,Canton 4,State House,116,Ind,writein,0
-St Lawrence,Canton 5,State House,116,Ind,writein,0
-St Lawrence,Canton 6,State House,116,Ind,writein,3
-St Lawrence,Canton 7,State House,116,Ind,writein,0
-St Lawrence,Canton 8,State House,116,Ind,writein,1
+St Lawrence,Canton 1,State Assembly,116,Ind,writein,3
+St Lawrence,Canton 2,State Assembly,116,Ind,writein,1
+St Lawrence,Canton 3,State Assembly,116,Ind,writein,0
+St Lawrence,Canton 4,State Assembly,116,Ind,writein,0
+St Lawrence,Canton 5,State Assembly,116,Ind,writein,0
+St Lawrence,Canton 6,State Assembly,116,Ind,writein,3
+St Lawrence,Canton 7,State Assembly,116,Ind,writein,0
+St Lawrence,Canton 8,State Assembly,116,Ind,writein,1
 St Lawrence,Ogdensburg 1,1,AD116,Ind,writein,0
 St Lawrence,Ogdensburg 2,2,AD116,Ind,writein,1
 St Lawrence,Ogdensburg 3,3,AD116,Ind,writein,5
@@ -168,134 +168,134 @@ St Lawrence,Potsdam 8,8,AD116,Ind,writein,0
 St Lawrence,Rossie 1,1,AD116,Ind,writein,1
 St Lawrence,Waddington 1,1,AD116,Ind,writein,0
 St Lawrence,Waddington 2,2,AD116,Ind,writein,0
-St Lawrence,Dekalb 1,State House,117,Rep,Kenneth Blankenbush,236
-St Lawrence,Dekalb 2,State House,117,Rep,Kenneth Blankenbush,172
-St Lawrence,Edwards 1,State House,117,Rep,Kenneth Blankenbush,232
-St Lawrence,Fowler 1,State House,117,Rep,Kenneth Blankenbush,183
-St Lawrence,Fowler 2,State House,117,Rep,Kenneth Blankenbush,304
-St Lawrence,Gouverneur 1,State House,117,Rep,Kenneth Blankenbush,300
-St Lawrence,Gouverneur 2,State House,117,Rep,Kenneth Blankenbush,280
-St Lawrence,Gouverneur 3,State House,117,Rep,Kenneth Blankenbush,188
-St Lawrence,Gouverneur 4,State House,117,Rep,Kenneth Blankenbush,218
-St Lawrence,Hermon 1,State House,117,Rep,Kenneth Blankenbush,192
-St Lawrence,Pitcairn 1,State House,117,Rep,Kenneth Blankenbush,156
-St Lawrence,Russell 1,State House,117,Rep,Kenneth Blankenbush,309
-St Lawrence,Dekalb 1,State House,117,Con,Kenneth Blankenbush,40
-St Lawrence,Dekalb 2,State House,117,Con,Kenneth Blankenbush,20
-St Lawrence,Edwards 1,State House,117,Con,Kenneth Blankenbush,26
-St Lawrence,Fowler 1,State House,117,Con,Kenneth Blankenbush,38
-St Lawrence,Fowler 2,State House,117,Con,Kenneth Blankenbush,38
-St Lawrence,Gouverneur 1,State House,117,Con,Kenneth Blankenbush,33
-St Lawrence,Gouverneur 2,State House,117,Con,Kenneth Blankenbush,36
-St Lawrence,Gouverneur 3,State House,117,Con,Kenneth Blankenbush,22
-St Lawrence,Gouverneur 4,State House,117,Con,Kenneth Blankenbush,31
-St Lawrence,Hermon 1,State House,117,Con,Kenneth Blankenbush,33
-St Lawrence,Pitcairn 1,State House,117,Con,Kenneth Blankenbush,13
-St Lawrence,Russell 1,State House,117,Con,Kenneth Blankenbush,51
-St Lawrence,Dekalb 1,State House,117,Ind,Kenneth Blankenbush,51
-St Lawrence,Dekalb 2,State House,117,Ind,Kenneth Blankenbush,28
-St Lawrence,Edwards 1,State House,117,Ind,Kenneth Blankenbush,22
-St Lawrence,Fowler 1,State House,117,Ind,Kenneth Blankenbush,24
-St Lawrence,Fowler 2,State House,117,Ind,Kenneth Blankenbush,28
-St Lawrence,Gouverneur 1,State House,117,Ind,Kenneth Blankenbush,38
-St Lawrence,Gouverneur 2,State House,117,Ind,Kenneth Blankenbush,42
-St Lawrence,Gouverneur 3,State House,117,Ind,Kenneth Blankenbush,16
-St Lawrence,Gouverneur 4,State House,117,Ind,Kenneth Blankenbush,29
-St Lawrence,Hermon 1,State House,117,Ind,Kenneth Blankenbush,31
-St Lawrence,Pitcairn 1,State House,117,Ind,Kenneth Blankenbush,20
-St Lawrence,Russell 1,State House,117,Ind,Kenneth Blankenbush,38
-St Lawrence,Dekalb 1,State House,117,Ind,writein,0
-St Lawrence,Dekalb 2,State House,117,Ind,writein,2
-St Lawrence,Edwards 1,State House,117,Ind,writein,0
-St Lawrence,Fowler 1,State House,117,Ind,writein,1
-St Lawrence,Fowler 2,State House,117,Ind,writein,1
-St Lawrence,Gouverneur 1,State House,117,Ind,writein,1
-St Lawrence,Gouverneur 2,State House,117,Ind,writein,0
-St Lawrence,Gouverneur 3,State House,117,Ind,writein,3
-St Lawrence,Gouverneur 4,State House,117,Ind,writein,0
-St Lawrence,Hermon 1,State House,117,Ind,writein,1
-St Lawrence,Pitcairn 1,State House,117,Ind,writein,0
-St Lawrence,Russell 1,State House,117,Ind,writein,2
-St Lawrence,Clare 1,State House,118,Dem,Joseph Chilelli,10
-St Lawrence,Clifton 1,State House,118,Dem,Joseph Chilelli,63
-St Lawrence,Clifton 2,State House,118,Dem,Joseph Chilelli,58
-St Lawrence,Colton 1,State House,118,Dem,Joseph Chilelli,328
-St Lawrence,Fine 1,State House,118,Dem,Joseph Chilelli,240
-St Lawrence,Madrid 1,State House,118,Dem,Joseph Chilelli,231
-St Lawrence,Norfolk 1,State House,118,Dem,Joseph Chilelli,228
-St Lawrence,Norfolk 2,State House,118,Dem,Joseph Chilelli,255
-St Lawrence,Norfolk 3,State House,118,Dem,Joseph Chilelli,205
-St Lawrence,Parishville 1,State House,118,Dem,Joseph Chilelli,99
-St Lawrence,Parishville 2,State House,118,Dem,Joseph Chilelli,167
-St Lawrence,Pierrepont 1,State House,118,Dem,Joseph Chilelli,243
-St Lawrence,Pierrepont 2,State House,118,Dem,Joseph Chilelli,211
-St Lawrence,Stockholm 1,State House,118,Dem,Joseph Chilelli,253
-St Lawrence,Stockholm 2,State House,118,Dem,Joseph Chilelli,215
-St Lawrence,Stockholm 3,State House,118,Dem,Joseph Chilelli,90
-St Lawrence,Clare 1,State House,118,Rep,Mark Butler,30
-St Lawrence,Clifton 1,State House,118,Rep,Mark Butler,56
-St Lawrence,Clifton 2,State House,118,Rep,Mark Butler,60
-St Lawrence,Colton 1,State House,118,Rep,Mark Butler,309
-St Lawrence,Fine 1,State House,118,Rep,Mark Butler,177
-St Lawrence,Madrid 1,State House,118,Rep,Mark Butler,239
-St Lawrence,Norfolk 1,State House,118,Rep,Mark Butler,152
-St Lawrence,Norfolk 2,State House,118,Rep,Mark Butler,174
-St Lawrence,Norfolk 3,State House,118,Rep,Mark Butler,168
-St Lawrence,Parishville 1,State House,118,Rep,Mark Butler,145
-St Lawrence,Parishville 2,State House,118,Rep,Mark Butler,173
-St Lawrence,Pierrepont 1,State House,118,Rep,Mark Butler,230
-St Lawrence,Pierrepont 2,State House,118,Rep,Mark Butler,181
-St Lawrence,Stockholm 1,State House,118,Rep,Mark Butler,195
-St Lawrence,Stockholm 2,State House,118,Rep,Mark Butler,186
-St Lawrence,Stockholm 3,State House,118,Rep,Mark Butler,112
-St Lawrence,Clare 1,State House,118,Con,Mark Butler,2
-St Lawrence,Clifton 1,State House,118,Con,Mark Butler,2
-St Lawrence,Clifton 2,State House,118,Con,Mark Butler,10
-St Lawrence,Colton 1,State House,118,Con,Mark Butler,47
-St Lawrence,Fine 1,State House,118,Con,Mark Butler,24
-St Lawrence,Madrid 1,State House,118,Con,Mark Butler,38
-St Lawrence,Norfolk 1,State House,118,Con,Mark Butler,21
-St Lawrence,Norfolk 2,State House,118,Con,Mark Butler,25
-St Lawrence,Norfolk 3,State House,118,Con,Mark Butler,27
-St Lawrence,Parishville 1,State House,118,Con,Mark Butler,16
-St Lawrence,Parishville 2,State House,118,Con,Mark Butler,32
-St Lawrence,Pierrepont 1,State House,118,Con,Mark Butler,25
-St Lawrence,Pierrepont 2,State House,118,Con,Mark Butler,28
-St Lawrence,Stockholm 1,State House,118,Con,Mark Butler,28
-St Lawrence,Stockholm 2,State House,118,Con,Mark Butler,24
-St Lawrence,Stockholm 3,State House,118,Con,Mark Butler,18
-St Lawrence,Clare 1,State House,118,Ind,Mark Butler,1
-St Lawrence,Clifton 1,State House,118,Ind,Mark Butler,8
-St Lawrence,Clifton 2,State House,118,Ind,Mark Butler,2
-St Lawrence,Colton 1,State House,118,Ind,Mark Butler,20
-St Lawrence,Fine 1,State House,118,Ind,Mark Butler,13
-St Lawrence,Madrid 1,State House,118,Ind,Mark Butler,22
-St Lawrence,Norfolk 1,State House,118,Ind,Mark Butler,9
-St Lawrence,Norfolk 2,State House,118,Ind,Mark Butler,15
-St Lawrence,Norfolk 3,State House,118,Ind,Mark Butler,9
-St Lawrence,Parishville 1,State House,118,Ind,Mark Butler,6
-St Lawrence,Parishville 2,State House,118,Ind,Mark Butler,17
-St Lawrence,Pierrepont 1,State House,118,Ind,Mark Butler,19
-St Lawrence,Pierrepont 2,State House,118,Ind,Mark Butler,22
-St Lawrence,Stockholm 1,State House,118,Ind,Mark Butler,12
-St Lawrence,Stockholm 2,State House,118,Ind,Mark Butler,16
-St Lawrence,Stockholm 3,State House,118,Ind,Mark Butler,6
-St Lawrence,Clare 1,State House,118,Ind,writein,0
-St Lawrence,Clifton 1,State House,118,Ind,writein,0
-St Lawrence,Clifton 2,State House,118,Ind,writein,0
-St Lawrence,Colton 1,State House,118,Ind,writein,0
-St Lawrence,Fine 1,State House,118,Ind,writein,1
-St Lawrence,Madrid 1,State House,118,Ind,writein,0
-St Lawrence,Norfolk 1,State House,118,Ind,writein,0
-St Lawrence,Norfolk 2,State House,118,Ind,writein,0
-St Lawrence,Norfolk 3,State House,118,Ind,writein,0
-St Lawrence,Parishville 1,State House,118,Ind,writein,2
-St Lawrence,Parishville 2,State House,118,Ind,writein,0
-St Lawrence,Pierrepont 1,State House,118,Ind,writein,0
-St Lawrence,Pierrepont 2,State House,118,Ind,writein,1
-St Lawrence,Stockholm 1,State House,118,Ind,writein,0
-St Lawrence,Stockholm 2,State House,118,Ind,writein,0
-St Lawrence,Stockholm 3,State House,118,Ind,writein,0
+St Lawrence,Dekalb 1,State Assembly,117,Rep,Kenneth Blankenbush,236
+St Lawrence,Dekalb 2,State Assembly,117,Rep,Kenneth Blankenbush,172
+St Lawrence,Edwards 1,State Assembly,117,Rep,Kenneth Blankenbush,232
+St Lawrence,Fowler 1,State Assembly,117,Rep,Kenneth Blankenbush,183
+St Lawrence,Fowler 2,State Assembly,117,Rep,Kenneth Blankenbush,304
+St Lawrence,Gouverneur 1,State Assembly,117,Rep,Kenneth Blankenbush,300
+St Lawrence,Gouverneur 2,State Assembly,117,Rep,Kenneth Blankenbush,280
+St Lawrence,Gouverneur 3,State Assembly,117,Rep,Kenneth Blankenbush,188
+St Lawrence,Gouverneur 4,State Assembly,117,Rep,Kenneth Blankenbush,218
+St Lawrence,Hermon 1,State Assembly,117,Rep,Kenneth Blankenbush,192
+St Lawrence,Pitcairn 1,State Assembly,117,Rep,Kenneth Blankenbush,156
+St Lawrence,Russell 1,State Assembly,117,Rep,Kenneth Blankenbush,309
+St Lawrence,Dekalb 1,State Assembly,117,Con,Kenneth Blankenbush,40
+St Lawrence,Dekalb 2,State Assembly,117,Con,Kenneth Blankenbush,20
+St Lawrence,Edwards 1,State Assembly,117,Con,Kenneth Blankenbush,26
+St Lawrence,Fowler 1,State Assembly,117,Con,Kenneth Blankenbush,38
+St Lawrence,Fowler 2,State Assembly,117,Con,Kenneth Blankenbush,38
+St Lawrence,Gouverneur 1,State Assembly,117,Con,Kenneth Blankenbush,33
+St Lawrence,Gouverneur 2,State Assembly,117,Con,Kenneth Blankenbush,36
+St Lawrence,Gouverneur 3,State Assembly,117,Con,Kenneth Blankenbush,22
+St Lawrence,Gouverneur 4,State Assembly,117,Con,Kenneth Blankenbush,31
+St Lawrence,Hermon 1,State Assembly,117,Con,Kenneth Blankenbush,33
+St Lawrence,Pitcairn 1,State Assembly,117,Con,Kenneth Blankenbush,13
+St Lawrence,Russell 1,State Assembly,117,Con,Kenneth Blankenbush,51
+St Lawrence,Dekalb 1,State Assembly,117,Ind,Kenneth Blankenbush,51
+St Lawrence,Dekalb 2,State Assembly,117,Ind,Kenneth Blankenbush,28
+St Lawrence,Edwards 1,State Assembly,117,Ind,Kenneth Blankenbush,22
+St Lawrence,Fowler 1,State Assembly,117,Ind,Kenneth Blankenbush,24
+St Lawrence,Fowler 2,State Assembly,117,Ind,Kenneth Blankenbush,28
+St Lawrence,Gouverneur 1,State Assembly,117,Ind,Kenneth Blankenbush,38
+St Lawrence,Gouverneur 2,State Assembly,117,Ind,Kenneth Blankenbush,42
+St Lawrence,Gouverneur 3,State Assembly,117,Ind,Kenneth Blankenbush,16
+St Lawrence,Gouverneur 4,State Assembly,117,Ind,Kenneth Blankenbush,29
+St Lawrence,Hermon 1,State Assembly,117,Ind,Kenneth Blankenbush,31
+St Lawrence,Pitcairn 1,State Assembly,117,Ind,Kenneth Blankenbush,20
+St Lawrence,Russell 1,State Assembly,117,Ind,Kenneth Blankenbush,38
+St Lawrence,Dekalb 1,State Assembly,117,Ind,writein,0
+St Lawrence,Dekalb 2,State Assembly,117,Ind,writein,2
+St Lawrence,Edwards 1,State Assembly,117,Ind,writein,0
+St Lawrence,Fowler 1,State Assembly,117,Ind,writein,1
+St Lawrence,Fowler 2,State Assembly,117,Ind,writein,1
+St Lawrence,Gouverneur 1,State Assembly,117,Ind,writein,1
+St Lawrence,Gouverneur 2,State Assembly,117,Ind,writein,0
+St Lawrence,Gouverneur 3,State Assembly,117,Ind,writein,3
+St Lawrence,Gouverneur 4,State Assembly,117,Ind,writein,0
+St Lawrence,Hermon 1,State Assembly,117,Ind,writein,1
+St Lawrence,Pitcairn 1,State Assembly,117,Ind,writein,0
+St Lawrence,Russell 1,State Assembly,117,Ind,writein,2
+St Lawrence,Clare 1,State Assembly,118,Dem,Joseph Chilelli,10
+St Lawrence,Clifton 1,State Assembly,118,Dem,Joseph Chilelli,63
+St Lawrence,Clifton 2,State Assembly,118,Dem,Joseph Chilelli,58
+St Lawrence,Colton 1,State Assembly,118,Dem,Joseph Chilelli,328
+St Lawrence,Fine 1,State Assembly,118,Dem,Joseph Chilelli,240
+St Lawrence,Madrid 1,State Assembly,118,Dem,Joseph Chilelli,231
+St Lawrence,Norfolk 1,State Assembly,118,Dem,Joseph Chilelli,228
+St Lawrence,Norfolk 2,State Assembly,118,Dem,Joseph Chilelli,255
+St Lawrence,Norfolk 3,State Assembly,118,Dem,Joseph Chilelli,205
+St Lawrence,Parishville 1,State Assembly,118,Dem,Joseph Chilelli,99
+St Lawrence,Parishville 2,State Assembly,118,Dem,Joseph Chilelli,167
+St Lawrence,Pierrepont 1,State Assembly,118,Dem,Joseph Chilelli,243
+St Lawrence,Pierrepont 2,State Assembly,118,Dem,Joseph Chilelli,211
+St Lawrence,Stockholm 1,State Assembly,118,Dem,Joseph Chilelli,253
+St Lawrence,Stockholm 2,State Assembly,118,Dem,Joseph Chilelli,215
+St Lawrence,Stockholm 3,State Assembly,118,Dem,Joseph Chilelli,90
+St Lawrence,Clare 1,State Assembly,118,Rep,Mark Butler,30
+St Lawrence,Clifton 1,State Assembly,118,Rep,Mark Butler,56
+St Lawrence,Clifton 2,State Assembly,118,Rep,Mark Butler,60
+St Lawrence,Colton 1,State Assembly,118,Rep,Mark Butler,309
+St Lawrence,Fine 1,State Assembly,118,Rep,Mark Butler,177
+St Lawrence,Madrid 1,State Assembly,118,Rep,Mark Butler,239
+St Lawrence,Norfolk 1,State Assembly,118,Rep,Mark Butler,152
+St Lawrence,Norfolk 2,State Assembly,118,Rep,Mark Butler,174
+St Lawrence,Norfolk 3,State Assembly,118,Rep,Mark Butler,168
+St Lawrence,Parishville 1,State Assembly,118,Rep,Mark Butler,145
+St Lawrence,Parishville 2,State Assembly,118,Rep,Mark Butler,173
+St Lawrence,Pierrepont 1,State Assembly,118,Rep,Mark Butler,230
+St Lawrence,Pierrepont 2,State Assembly,118,Rep,Mark Butler,181
+St Lawrence,Stockholm 1,State Assembly,118,Rep,Mark Butler,195
+St Lawrence,Stockholm 2,State Assembly,118,Rep,Mark Butler,186
+St Lawrence,Stockholm 3,State Assembly,118,Rep,Mark Butler,112
+St Lawrence,Clare 1,State Assembly,118,Con,Mark Butler,2
+St Lawrence,Clifton 1,State Assembly,118,Con,Mark Butler,2
+St Lawrence,Clifton 2,State Assembly,118,Con,Mark Butler,10
+St Lawrence,Colton 1,State Assembly,118,Con,Mark Butler,47
+St Lawrence,Fine 1,State Assembly,118,Con,Mark Butler,24
+St Lawrence,Madrid 1,State Assembly,118,Con,Mark Butler,38
+St Lawrence,Norfolk 1,State Assembly,118,Con,Mark Butler,21
+St Lawrence,Norfolk 2,State Assembly,118,Con,Mark Butler,25
+St Lawrence,Norfolk 3,State Assembly,118,Con,Mark Butler,27
+St Lawrence,Parishville 1,State Assembly,118,Con,Mark Butler,16
+St Lawrence,Parishville 2,State Assembly,118,Con,Mark Butler,32
+St Lawrence,Pierrepont 1,State Assembly,118,Con,Mark Butler,25
+St Lawrence,Pierrepont 2,State Assembly,118,Con,Mark Butler,28
+St Lawrence,Stockholm 1,State Assembly,118,Con,Mark Butler,28
+St Lawrence,Stockholm 2,State Assembly,118,Con,Mark Butler,24
+St Lawrence,Stockholm 3,State Assembly,118,Con,Mark Butler,18
+St Lawrence,Clare 1,State Assembly,118,Ind,Mark Butler,1
+St Lawrence,Clifton 1,State Assembly,118,Ind,Mark Butler,8
+St Lawrence,Clifton 2,State Assembly,118,Ind,Mark Butler,2
+St Lawrence,Colton 1,State Assembly,118,Ind,Mark Butler,20
+St Lawrence,Fine 1,State Assembly,118,Ind,Mark Butler,13
+St Lawrence,Madrid 1,State Assembly,118,Ind,Mark Butler,22
+St Lawrence,Norfolk 1,State Assembly,118,Ind,Mark Butler,9
+St Lawrence,Norfolk 2,State Assembly,118,Ind,Mark Butler,15
+St Lawrence,Norfolk 3,State Assembly,118,Ind,Mark Butler,9
+St Lawrence,Parishville 1,State Assembly,118,Ind,Mark Butler,6
+St Lawrence,Parishville 2,State Assembly,118,Ind,Mark Butler,17
+St Lawrence,Pierrepont 1,State Assembly,118,Ind,Mark Butler,19
+St Lawrence,Pierrepont 2,State Assembly,118,Ind,Mark Butler,22
+St Lawrence,Stockholm 1,State Assembly,118,Ind,Mark Butler,12
+St Lawrence,Stockholm 2,State Assembly,118,Ind,Mark Butler,16
+St Lawrence,Stockholm 3,State Assembly,118,Ind,Mark Butler,6
+St Lawrence,Clare 1,State Assembly,118,Ind,writein,0
+St Lawrence,Clifton 1,State Assembly,118,Ind,writein,0
+St Lawrence,Clifton 2,State Assembly,118,Ind,writein,0
+St Lawrence,Colton 1,State Assembly,118,Ind,writein,0
+St Lawrence,Fine 1,State Assembly,118,Ind,writein,1
+St Lawrence,Madrid 1,State Assembly,118,Ind,writein,0
+St Lawrence,Norfolk 1,State Assembly,118,Ind,writein,0
+St Lawrence,Norfolk 2,State Assembly,118,Ind,writein,0
+St Lawrence,Norfolk 3,State Assembly,118,Ind,writein,0
+St Lawrence,Parishville 1,State Assembly,118,Ind,writein,2
+St Lawrence,Parishville 2,State Assembly,118,Ind,writein,0
+St Lawrence,Pierrepont 1,State Assembly,118,Ind,writein,0
+St Lawrence,Pierrepont 2,State Assembly,118,Ind,writein,1
+St Lawrence,Stockholm 1,State Assembly,118,Ind,writein,0
+St Lawrence,Stockholm 2,State Assembly,118,Ind,writein,0
+St Lawrence,Stockholm 3,State Assembly,118,Ind,writein,0
 St Lawrence,Brasher 1,President,,Dem,Barack Obama,187
 St Lawrence,Brasher 2,President,,Dem,Barack Obama,247
 St Lawrence,Canton 1,President,,Dem,Barack Obama,488

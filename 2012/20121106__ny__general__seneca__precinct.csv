@@ -1,112 +1,112 @@
 county,precinct,office,district,party,candidate,votes
-Seneca,Fayette 1,State House,131,Rep,Brian Kolb,292
-Seneca,Fayette 2,State House,131,Rep,Brian Kolb,375
-Seneca,Fayette 3,State House,131,Rep,Brian Kolb,387
-Seneca,Junius 1,State House,131,Rep,Brian Kolb,344
-Seneca,Seneca Falls 1,State House,131,Rep,Brian Kolb,279
-Seneca,Seneca Falls 2,State House,131,Rep,Brian Kolb,299
-Seneca,Seneca Falls 3,State House,131,Rep,Brian Kolb,183
-Seneca,Seneca Falls 4,State House,131,Rep,Brian Kolb,375
-Seneca,Seneca Falls 5,State House,131,Rep,Brian Kolb,223
-Seneca,Seneca Falls 6,State House,131,Rep,Brian Kolb,246
-Seneca,Seneca Falls 7,State House,131,Rep,Brian Kolb,195
-Seneca,Seneca Falls 8,State House,131,Rep,Brian Kolb,385
-Seneca,Tyre 1,State House,131,Rep,Brian Kolb,237
-Seneca,Varick 1,State House,131,Rep,Brian Kolb,422
-Seneca,Waterloo 1,State House,131,Rep,Brian Kolb,358
-Seneca,Waterloo 2,State House,131,Rep,Brian Kolb,332
-Seneca,Waterloo 3,State House,131,Rep,Brian Kolb,279
-Seneca,Waterloo 4,State House,131,Rep,Brian Kolb,471
-Seneca,Waterloo 5,State House,131,Rep,Brian Kolb,225
-Seneca,Fayette 1,State House,131,Con,Brian Kolb,47
-Seneca,Fayette 2,State House,131,Con,Brian Kolb,51
-Seneca,Fayette 3,State House,131,Con,Brian Kolb,55
-Seneca,Junius 1,State House,131,Con,Brian Kolb,37
-Seneca,Seneca Falls 1,State House,131,Con,Brian Kolb,38
-Seneca,Seneca Falls 2,State House,131,Con,Brian Kolb,49
-Seneca,Seneca Falls 3,State House,131,Con,Brian Kolb,26
-Seneca,Seneca Falls 4,State House,131,Con,Brian Kolb,39
-Seneca,Seneca Falls 5,State House,131,Con,Brian Kolb,36
-Seneca,Seneca Falls 6,State House,131,Con,Brian Kolb,31
-Seneca,Seneca Falls 7,State House,131,Con,Brian Kolb,29
-Seneca,Seneca Falls 8,State House,131,Con,Brian Kolb,51
-Seneca,Tyre 1,State House,131,Con,Brian Kolb,28
-Seneca,Varick 1,State House,131,Con,Brian Kolb,54
-Seneca,Waterloo 1,State House,131,Con,Brian Kolb,58
-Seneca,Waterloo 2,State House,131,Con,Brian Kolb,62
-Seneca,Waterloo 3,State House,131,Con,Brian Kolb,40
-Seneca,Waterloo 4,State House,131,Con,Brian Kolb,61
-Seneca,Waterloo 5,State House,131,Con,Brian Kolb,50
-Seneca,Fayette 1,State House,131,Ind,Brian Kolb,46
-Seneca,Fayette 2,State House,131,Ind,Brian Kolb,58
-Seneca,Fayette 3,State House,131,Ind,Brian Kolb,45
-Seneca,Junius 1,State House,131,Ind,Brian Kolb,34
-Seneca,Seneca Falls 1,State House,131,Ind,Brian Kolb,61
-Seneca,Seneca Falls 2,State House,131,Ind,Brian Kolb,63
-Seneca,Seneca Falls 3,State House,131,Ind,Brian Kolb,31
-Seneca,Seneca Falls 4,State House,131,Ind,Brian Kolb,47
-Seneca,Seneca Falls 5,State House,131,Ind,Brian Kolb,42
-Seneca,Seneca Falls 6,State House,131,Ind,Brian Kolb,45
-Seneca,Seneca Falls 7,State House,131,Ind,Brian Kolb,22
-Seneca,Seneca Falls 8,State House,131,Ind,Brian Kolb,58
-Seneca,Tyre 1,State House,131,Ind,Brian Kolb,29
-Seneca,Varick 1,State House,131,Ind,Brian Kolb,47
-Seneca,Waterloo 1,State House,131,Ind,Brian Kolb,58
-Seneca,Waterloo 2,State House,131,Ind,Brian Kolb,53
-Seneca,Waterloo 3,State House,131,Ind,Brian Kolb,47
-Seneca,Waterloo 4,State House,131,Ind,Brian Kolb,83
-Seneca,Waterloo 5,State House,131,Ind,Brian Kolb,41
-Seneca,Fayette 1,State House,131,Ind,writein,1
-Seneca,Fayette 2,State House,131,Ind,writein,4
-Seneca,Fayette 3,State House,131,Ind,writein,0
-Seneca,Junius 1,State House,131,Ind,writein,0
-Seneca,Seneca Falls 1,State House,131,Ind,writein,4
-Seneca,Seneca Falls 2,State House,131,Ind,writein,4
-Seneca,Seneca Falls 3,State House,131,Ind,writein,0
-Seneca,Seneca Falls 4,State House,131,Ind,writein,0
-Seneca,Seneca Falls 5,State House,131,Ind,writein,2
-Seneca,Seneca Falls 6,State House,131,Ind,writein,1
-Seneca,Seneca Falls 7,State House,131,Ind,writein,0
-Seneca,Seneca Falls 8,State House,131,Ind,writein,2
-Seneca,Tyre 1,State House,131,Ind,writein,0
-Seneca,Varick 1,State House,131,Ind,writein,3
-Seneca,Waterloo 1,State House,131,Ind,writein,1
-Seneca,Waterloo 2,State House,131,Ind,writein,2
-Seneca,Waterloo 3,State House,131,Ind,writein,0
-Seneca,Waterloo 4,State House,131,Ind,writein,2
-Seneca,Waterloo 5,State House,131,Ind,writein,1
-Seneca,Covert 1,State House,132,Rep,Christopher Friend,295
-Seneca,Covert 2,State House,132,Rep,Christopher Friend,265
-Seneca,Lodi 1,State House,132,Rep,Christopher Friend,346
-Seneca,Ovid 1,State House,132,Rep,Christopher Friend,267
-Seneca,Ovid 2,State House,132,Rep,Christopher Friend,256
-Seneca,Romulus 1,State House,132,Rep,Christopher Friend,129
-Seneca,Romulus 2,State House,132,Rep,Christopher Friend,178
-Seneca,Romulus 3,State House,132,Rep,Christopher Friend,130
-Seneca,Covert 1,State House,132,Con,Christopher Friend,52
-Seneca,Covert 2,State House,132,Con,Christopher Friend,38
-Seneca,Lodi 1,State House,132,Con,Christopher Friend,42
-Seneca,Ovid 1,State House,132,Con,Christopher Friend,32
-Seneca,Ovid 2,State House,132,Con,Christopher Friend,33
-Seneca,Romulus 1,State House,132,Con,Christopher Friend,25
-Seneca,Romulus 2,State House,132,Con,Christopher Friend,20
-Seneca,Romulus 3,State House,132,Con,Christopher Friend,18
-Seneca,Covert 1,State House,132,Ind,Christopher Friend,68
-Seneca,Covert 2,State House,132,Ind,Christopher Friend,54
-Seneca,Lodi 1,State House,132,Ind,Christopher Friend,73
-Seneca,Ovid 1,State House,132,Ind,Christopher Friend,47
-Seneca,Ovid 2,State House,132,Ind,Christopher Friend,41
-Seneca,Romulus 1,State House,132,Ind,Christopher Friend,22
-Seneca,Romulus 2,State House,132,Ind,Christopher Friend,40
-Seneca,Romulus 3,State House,132,Ind,Christopher Friend,22
-Seneca,Covert 1,State House,132,Ind,writein,1
-Seneca,Covert 2,State House,132,Ind,writein,2
-Seneca,Lodi 1,State House,132,Ind,writein,4
-Seneca,Ovid 1,State House,132,Ind,writein,4
-Seneca,Ovid 2,State House,132,Ind,writein,1
-Seneca,Romulus 1,State House,132,Ind,writein,2
-Seneca,Romulus 2,State House,132,Ind,writein,0
-Seneca,Romulus 3,State House,132,Ind,writein,1
+Seneca,Fayette 1,State Assembly,131,Rep,Brian Kolb,292
+Seneca,Fayette 2,State Assembly,131,Rep,Brian Kolb,375
+Seneca,Fayette 3,State Assembly,131,Rep,Brian Kolb,387
+Seneca,Junius 1,State Assembly,131,Rep,Brian Kolb,344
+Seneca,Seneca Falls 1,State Assembly,131,Rep,Brian Kolb,279
+Seneca,Seneca Falls 2,State Assembly,131,Rep,Brian Kolb,299
+Seneca,Seneca Falls 3,State Assembly,131,Rep,Brian Kolb,183
+Seneca,Seneca Falls 4,State Assembly,131,Rep,Brian Kolb,375
+Seneca,Seneca Falls 5,State Assembly,131,Rep,Brian Kolb,223
+Seneca,Seneca Falls 6,State Assembly,131,Rep,Brian Kolb,246
+Seneca,Seneca Falls 7,State Assembly,131,Rep,Brian Kolb,195
+Seneca,Seneca Falls 8,State Assembly,131,Rep,Brian Kolb,385
+Seneca,Tyre 1,State Assembly,131,Rep,Brian Kolb,237
+Seneca,Varick 1,State Assembly,131,Rep,Brian Kolb,422
+Seneca,Waterloo 1,State Assembly,131,Rep,Brian Kolb,358
+Seneca,Waterloo 2,State Assembly,131,Rep,Brian Kolb,332
+Seneca,Waterloo 3,State Assembly,131,Rep,Brian Kolb,279
+Seneca,Waterloo 4,State Assembly,131,Rep,Brian Kolb,471
+Seneca,Waterloo 5,State Assembly,131,Rep,Brian Kolb,225
+Seneca,Fayette 1,State Assembly,131,Con,Brian Kolb,47
+Seneca,Fayette 2,State Assembly,131,Con,Brian Kolb,51
+Seneca,Fayette 3,State Assembly,131,Con,Brian Kolb,55
+Seneca,Junius 1,State Assembly,131,Con,Brian Kolb,37
+Seneca,Seneca Falls 1,State Assembly,131,Con,Brian Kolb,38
+Seneca,Seneca Falls 2,State Assembly,131,Con,Brian Kolb,49
+Seneca,Seneca Falls 3,State Assembly,131,Con,Brian Kolb,26
+Seneca,Seneca Falls 4,State Assembly,131,Con,Brian Kolb,39
+Seneca,Seneca Falls 5,State Assembly,131,Con,Brian Kolb,36
+Seneca,Seneca Falls 6,State Assembly,131,Con,Brian Kolb,31
+Seneca,Seneca Falls 7,State Assembly,131,Con,Brian Kolb,29
+Seneca,Seneca Falls 8,State Assembly,131,Con,Brian Kolb,51
+Seneca,Tyre 1,State Assembly,131,Con,Brian Kolb,28
+Seneca,Varick 1,State Assembly,131,Con,Brian Kolb,54
+Seneca,Waterloo 1,State Assembly,131,Con,Brian Kolb,58
+Seneca,Waterloo 2,State Assembly,131,Con,Brian Kolb,62
+Seneca,Waterloo 3,State Assembly,131,Con,Brian Kolb,40
+Seneca,Waterloo 4,State Assembly,131,Con,Brian Kolb,61
+Seneca,Waterloo 5,State Assembly,131,Con,Brian Kolb,50
+Seneca,Fayette 1,State Assembly,131,Ind,Brian Kolb,46
+Seneca,Fayette 2,State Assembly,131,Ind,Brian Kolb,58
+Seneca,Fayette 3,State Assembly,131,Ind,Brian Kolb,45
+Seneca,Junius 1,State Assembly,131,Ind,Brian Kolb,34
+Seneca,Seneca Falls 1,State Assembly,131,Ind,Brian Kolb,61
+Seneca,Seneca Falls 2,State Assembly,131,Ind,Brian Kolb,63
+Seneca,Seneca Falls 3,State Assembly,131,Ind,Brian Kolb,31
+Seneca,Seneca Falls 4,State Assembly,131,Ind,Brian Kolb,47
+Seneca,Seneca Falls 5,State Assembly,131,Ind,Brian Kolb,42
+Seneca,Seneca Falls 6,State Assembly,131,Ind,Brian Kolb,45
+Seneca,Seneca Falls 7,State Assembly,131,Ind,Brian Kolb,22
+Seneca,Seneca Falls 8,State Assembly,131,Ind,Brian Kolb,58
+Seneca,Tyre 1,State Assembly,131,Ind,Brian Kolb,29
+Seneca,Varick 1,State Assembly,131,Ind,Brian Kolb,47
+Seneca,Waterloo 1,State Assembly,131,Ind,Brian Kolb,58
+Seneca,Waterloo 2,State Assembly,131,Ind,Brian Kolb,53
+Seneca,Waterloo 3,State Assembly,131,Ind,Brian Kolb,47
+Seneca,Waterloo 4,State Assembly,131,Ind,Brian Kolb,83
+Seneca,Waterloo 5,State Assembly,131,Ind,Brian Kolb,41
+Seneca,Fayette 1,State Assembly,131,Ind,writein,1
+Seneca,Fayette 2,State Assembly,131,Ind,writein,4
+Seneca,Fayette 3,State Assembly,131,Ind,writein,0
+Seneca,Junius 1,State Assembly,131,Ind,writein,0
+Seneca,Seneca Falls 1,State Assembly,131,Ind,writein,4
+Seneca,Seneca Falls 2,State Assembly,131,Ind,writein,4
+Seneca,Seneca Falls 3,State Assembly,131,Ind,writein,0
+Seneca,Seneca Falls 4,State Assembly,131,Ind,writein,0
+Seneca,Seneca Falls 5,State Assembly,131,Ind,writein,2
+Seneca,Seneca Falls 6,State Assembly,131,Ind,writein,1
+Seneca,Seneca Falls 7,State Assembly,131,Ind,writein,0
+Seneca,Seneca Falls 8,State Assembly,131,Ind,writein,2
+Seneca,Tyre 1,State Assembly,131,Ind,writein,0
+Seneca,Varick 1,State Assembly,131,Ind,writein,3
+Seneca,Waterloo 1,State Assembly,131,Ind,writein,1
+Seneca,Waterloo 2,State Assembly,131,Ind,writein,2
+Seneca,Waterloo 3,State Assembly,131,Ind,writein,0
+Seneca,Waterloo 4,State Assembly,131,Ind,writein,2
+Seneca,Waterloo 5,State Assembly,131,Ind,writein,1
+Seneca,Covert 1,State Assembly,132,Rep,Christopher Friend,295
+Seneca,Covert 2,State Assembly,132,Rep,Christopher Friend,265
+Seneca,Lodi 1,State Assembly,132,Rep,Christopher Friend,346
+Seneca,Ovid 1,State Assembly,132,Rep,Christopher Friend,267
+Seneca,Ovid 2,State Assembly,132,Rep,Christopher Friend,256
+Seneca,Romulus 1,State Assembly,132,Rep,Christopher Friend,129
+Seneca,Romulus 2,State Assembly,132,Rep,Christopher Friend,178
+Seneca,Romulus 3,State Assembly,132,Rep,Christopher Friend,130
+Seneca,Covert 1,State Assembly,132,Con,Christopher Friend,52
+Seneca,Covert 2,State Assembly,132,Con,Christopher Friend,38
+Seneca,Lodi 1,State Assembly,132,Con,Christopher Friend,42
+Seneca,Ovid 1,State Assembly,132,Con,Christopher Friend,32
+Seneca,Ovid 2,State Assembly,132,Con,Christopher Friend,33
+Seneca,Romulus 1,State Assembly,132,Con,Christopher Friend,25
+Seneca,Romulus 2,State Assembly,132,Con,Christopher Friend,20
+Seneca,Romulus 3,State Assembly,132,Con,Christopher Friend,18
+Seneca,Covert 1,State Assembly,132,Ind,Christopher Friend,68
+Seneca,Covert 2,State Assembly,132,Ind,Christopher Friend,54
+Seneca,Lodi 1,State Assembly,132,Ind,Christopher Friend,73
+Seneca,Ovid 1,State Assembly,132,Ind,Christopher Friend,47
+Seneca,Ovid 2,State Assembly,132,Ind,Christopher Friend,41
+Seneca,Romulus 1,State Assembly,132,Ind,Christopher Friend,22
+Seneca,Romulus 2,State Assembly,132,Ind,Christopher Friend,40
+Seneca,Romulus 3,State Assembly,132,Ind,Christopher Friend,22
+Seneca,Covert 1,State Assembly,132,Ind,writein,1
+Seneca,Covert 2,State Assembly,132,Ind,writein,2
+Seneca,Lodi 1,State Assembly,132,Ind,writein,4
+Seneca,Ovid 1,State Assembly,132,Ind,writein,4
+Seneca,Ovid 2,State Assembly,132,Ind,writein,1
+Seneca,Romulus 1,State Assembly,132,Ind,writein,2
+Seneca,Romulus 2,State Assembly,132,Ind,writein,0
+Seneca,Romulus 3,State Assembly,132,Ind,writein,1
 Seneca,Covert 1,President,,Dem,Barack Obama,302
 Seneca,Covert 2,President,,Dem,Barack Obama,220
 Seneca,Fayette 1,President,,Dem,Barack Obama,220
