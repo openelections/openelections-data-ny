@@ -1,0 +1,1428 @@
+county,precinct,office,district,candidate,party,votes
+Ontario,Bristol W:000 D:001,President,,Barack Obama,,166
+Ontario,Bristol W:000 D:002,President,,Barack Obama,,302
+Ontario,Canadice W:000 D:001,President,,Barack Obama,,197
+Ontario,Canadice W:000 D:002,President,,Barack Obama,,159
+Ontario,CanandaiguaT W:000 D:001,President,,Barack Obama,,254
+Ontario,CanandaiguaT W:000 D:002,President,,Barack Obama,,349
+Ontario,CanandaiguaT W:000 D:003,President,,Barack Obama,,468
+Ontario,CanandaiguaT W:000 D:004,President,,Barack Obama,,290
+Ontario,CanandaiguaT W:000 D:005,President,,Barack Obama,,390
+Ontario,CanandaiguaT W:000 D:006,President,,Barack Obama,,233
+Ontario,CanandaiguaT W:000 D:007,President,,Barack Obama,,226
+Ontario,City Cdga W:001 D:001,President,,Barack Obama,,266
+Ontario,City Cdga W:001 D:002,President,,Barack Obama,,398
+Ontario,City Cdga W:002 D:001,President,,Barack Obama,,191
+Ontario,City Cdga W:002 D:002,President,,Barack Obama,,239
+Ontario,City Cdga W:003 D:001,President,,Barack Obama,,312
+Ontario,City Cdga W:003 D:002,President,,Barack Obama,,344
+Ontario,City Cdga W:004 D:001,President,,Barack Obama,,290
+Ontario,City Cdga W:004 D:002,President,,Barack Obama,,424
+Ontario,City Geneva W:001 D:001,President,,Barack Obama,,222
+Ontario,City Geneva W:001 D:002,President,,Barack Obama,,191
+Ontario,City Geneva W:002 D:001,President,,Barack Obama,,308
+Ontario,City Geneva W:002 D:002,President,,Barack Obama,,310
+Ontario,City Geneva W:003 D:001,President,,Barack Obama,,276
+Ontario,City Geneva W:003 D:002,President,,Barack Obama,,421
+Ontario,City Geneva W:004 D:001,President,,Barack Obama,,221
+Ontario,City Geneva W:004 D:002,President,,Barack Obama,,292
+Ontario,City Geneva W:005 D:001,President,,Barack Obama,,174
+Ontario,City Geneva W:005 D:002,President,,Barack Obama,,172
+Ontario,City Geneva W:006 D:001,President,,Barack Obama,,237
+Ontario,City Geneva W:006 D:002,President,,Barack Obama,,171
+Ontario,E.Bloomfield W:000 D:001,President,,Barack Obama,,224
+Ontario,E.Bloomfield W:000 D:002,President,,Barack Obama,,245
+Ontario,E.Bloomfield W:000 D:003,President,,Barack Obama,,250
+Ontario,Farmington W:000 D:001,President,,Barack Obama,,267
+Ontario,Farmington W:000 D:002,President,,Barack Obama,,334
+Ontario,Farmington W:000 D:003,President,,Barack Obama,,247
+Ontario,Farmington W:000 D:004,President,,Barack Obama,,300
+Ontario,Farmington W:000 D:005,President,,Barack Obama,,163
+Ontario,Farmington W:000 D:006,President,,Barack Obama,,290
+Ontario,Farmington W:000 D:007,President,,Barack Obama,,295
+Ontario,Farmington W:000 D:008,President,,Barack Obama,,233
+Ontario,Farmington W:000 D:009,President,,Barack Obama,,178
+Ontario,Farmington W:000 D:010,President,,Barack Obama,,72
+Ontario,GenevaT W:000 D:001,President,,Barack Obama,,287
+Ontario,GenevaT W:000 D:002,President,,Barack Obama,,320
+Ontario,GenevaT W:000 D:003,President,,Barack Obama,,353
+Ontario,Gorham W:000 D:001,President,,Barack Obama,,219
+Ontario,Gorham W:000 D:002,President,,Barack Obama,,205
+Ontario,Gorham W:000 D:003,President,,Barack Obama,,245
+Ontario,Gorham W:000 D:004,President,,Barack Obama,,184
+Ontario,Hopewell W:000 D:001,President,,Barack Obama,,202
+Ontario,Hopewell W:000 D:002,President,,Barack Obama,,211
+Ontario,Hopewell W:000 D:003,President,,Barack Obama,,213
+Ontario,Manchester W:000 D:001,President,,Barack Obama,,353
+Ontario,Manchester W:000 D:002,President,,Barack Obama,,210
+Ontario,Manchester W:000 D:003,President,,Barack Obama,,240
+Ontario,Manchester W:000 D:004,President,,Barack Obama,,159
+Ontario,Manchester W:000 D:005,President,,Barack Obama,,146
+Ontario,Manchester W:000 D:006,President,,Barack Obama,,192
+Ontario,Manchester W:000 D:007,President,,Barack Obama,,192
+Ontario,Manchester W:000 D:008,President,,Barack Obama,,202
+Ontario,Naples W:000 D:001,President,,Barack Obama,,289
+Ontario,Naples W:000 D:002,President,,Barack Obama,,225
+Ontario,Phelps W:000 D:001,President,,Barack Obama,,291
+Ontario,Phelps W:000 D:002,President,,Barack Obama,,188
+Ontario,Phelps W:000 D:003,President,,Barack Obama,,240
+Ontario,Phelps W:000 D:004,President,,Barack Obama,,247
+Ontario,Phelps W:000 D:005,President,,Barack Obama,,225
+Ontario,Phelps W:000 D:006,President,,Barack Obama,,194
+Ontario,Richmond W:000 D:001,President,,Barack Obama,,215
+Ontario,Richmond W:000 D:002,President,,Barack Obama,,195
+Ontario,Richmond W:000 D:003,President,,Barack Obama,,260
+Ontario,S Bristol W:000 D:001,President,,Barack Obama,,177
+Ontario,S Bristol W:000 D:002,President,,Barack Obama,,232
+Ontario,Seneca W:000 D:001,President,,Barack Obama,,146
+Ontario,Seneca W:000 D:002,President,,Barack Obama,,211
+Ontario,Seneca W:000 D:003,President,,Barack Obama,,215
+Ontario,Victor W:000 D:001,President,,Barack Obama,,251
+Ontario,Victor W:000 D:002,President,,Barack Obama,,239
+Ontario,Victor W:000 D:003,President,,Barack Obama,,237
+Ontario,Victor W:000 D:004,President,,Barack Obama,,218
+Ontario,Victor W:000 D:005,President,,Barack Obama,,377
+Ontario,Victor W:000 D:006,President,,Barack Obama,,295
+Ontario,Victor W:000 D:007,President,,Barack Obama,,300
+Ontario,Victor W:000 D:008,President,,Barack Obama,,355
+Ontario,Victor W:000 D:009,President,,Barack Obama,,301
+Ontario,Victor W:000 D:010,President,,Barack Obama,,240
+Ontario,Victor W:000 D:011,President,,Barack Obama,,201
+Ontario,Victor W:000 D:012,President,,Barack Obama,,256
+Ontario,W.Bloomfield W:000 D:001,President,,Barack Obama,,256
+Ontario,W.Bloomfield W:000 D:002,President,,Barack Obama,,228
+Ontario,Total,President,,Barack Obama,,23028
+Ontario,Bristol W:000 D:001,President,,Mitt Romney,,257
+Ontario,Bristol W:000 D:002,President,,Mitt Romney,,387
+Ontario,Canadice W:000 D:001,President,,Mitt Romney,,277
+Ontario,Canadice W:000 D:002,President,,Mitt Romney,,203
+Ontario,CanandaiguaT W:000 D:001,President,,Mitt Romney,,222
+Ontario,CanandaiguaT W:000 D:002,President,,Mitt Romney,,388
+Ontario,CanandaiguaT W:000 D:003,President,,Mitt Romney,,549
+Ontario,CanandaiguaT W:000 D:004,President,,Mitt Romney,,465
+Ontario,CanandaiguaT W:000 D:005,President,,Mitt Romney,,497
+Ontario,CanandaiguaT W:000 D:006,President,,Mitt Romney,,271
+Ontario,CanandaiguaT W:000 D:007,President,,Mitt Romney,,352
+Ontario,City Cdga W:001 D:001,President,,Mitt Romney,,262
+Ontario,City Cdga W:001 D:002,President,,Mitt Romney,,294
+Ontario,City Cdga W:002 D:001,President,,Mitt Romney,,115
+Ontario,City Cdga W:002 D:002,President,,Mitt Romney,,178
+Ontario,City Cdga W:003 D:001,President,,Mitt Romney,,193
+Ontario,City Cdga W:003 D:002,President,,Mitt Romney,,259
+Ontario,City Cdga W:004 D:001,President,,Mitt Romney,,249
+Ontario,City Cdga W:004 D:002,President,,Mitt Romney,,308
+Ontario,City Geneva W:001 D:001,President,,Mitt Romney,,91
+Ontario,City Geneva W:001 D:002,President,,Mitt Romney,,59
+Ontario,City Geneva W:002 D:001,President,,Mitt Romney,,156
+Ontario,City Geneva W:002 D:002,President,,Mitt Romney,,205
+Ontario,City Geneva W:003 D:001,President,,Mitt Romney,,106
+Ontario,City Geneva W:003 D:002,President,,Mitt Romney,,185
+Ontario,City Geneva W:004 D:001,President,,Mitt Romney,,108
+Ontario,City Geneva W:004 D:002,President,,Mitt Romney,,106
+Ontario,City Geneva W:005 D:001,President,,Mitt Romney,,54
+Ontario,City Geneva W:005 D:002,President,,Mitt Romney,,44
+Ontario,City Geneva W:006 D:001,President,,Mitt Romney,,38
+Ontario,City Geneva W:006 D:002,President,,Mitt Romney,,44
+Ontario,E.Bloomfield W:000 D:001,President,,Mitt Romney,,379
+Ontario,E.Bloomfield W:000 D:002,President,,Mitt Romney,,337
+Ontario,E.Bloomfield W:000 D:003,President,,Mitt Romney,,291
+Ontario,Farmington W:000 D:001,President,,Mitt Romney,,368
+Ontario,Farmington W:000 D:002,President,,Mitt Romney,,360
+Ontario,Farmington W:000 D:003,President,,Mitt Romney,,210
+Ontario,Farmington W:000 D:004,President,,Mitt Romney,,324
+Ontario,Farmington W:000 D:005,President,,Mitt Romney,,173
+Ontario,Farmington W:000 D:006,President,,Mitt Romney,,304
+Ontario,Farmington W:000 D:007,President,,Mitt Romney,,279
+Ontario,Farmington W:000 D:008,President,,Mitt Romney,,244
+Ontario,Farmington W:000 D:009,President,,Mitt Romney,,213
+Ontario,Farmington W:000 D:010,President,,Mitt Romney,,168
+Ontario,GenevaT W:000 D:001,President,,Mitt Romney,,231
+Ontario,GenevaT W:000 D:002,President,,Mitt Romney,,224
+Ontario,GenevaT W:000 D:003,President,,Mitt Romney,,306
+Ontario,Gorham W:000 D:001,President,,Mitt Romney,,270
+Ontario,Gorham W:000 D:002,President,,Mitt Romney,,257
+Ontario,Gorham W:000 D:003,President,,Mitt Romney,,230
+Ontario,Gorham W:000 D:004,President,,Mitt Romney,,245
+Ontario,Hopewell W:000 D:001,President,,Mitt Romney,,198
+Ontario,Hopewell W:000 D:002,President,,Mitt Romney,,273
+Ontario,Hopewell W:000 D:003,President,,Mitt Romney,,205
+Ontario,Manchester W:000 D:001,President,,Mitt Romney,,285
+Ontario,Manchester W:000 D:002,President,,Mitt Romney,,205
+Ontario,Manchester W:000 D:003,President,,Mitt Romney,,273
+Ontario,Manchester W:000 D:004,President,,Mitt Romney,,233
+Ontario,Manchester W:000 D:005,President,,Mitt Romney,,148
+Ontario,Manchester W:000 D:006,President,,Mitt Romney,,188
+Ontario,Manchester W:000 D:007,President,,Mitt Romney,,153
+Ontario,Manchester W:000 D:008,President,,Mitt Romney,,193
+Ontario,Naples W:000 D:001,President,,Mitt Romney,,327
+Ontario,Naples W:000 D:002,President,,Mitt Romney,,297
+Ontario,Phelps W:000 D:001,President,,Mitt Romney,,221
+Ontario,Phelps W:000 D:002,President,,Mitt Romney,,284
+Ontario,Phelps W:000 D:003,President,,Mitt Romney,,211
+Ontario,Phelps W:000 D:004,President,,Mitt Romney,,281
+Ontario,Phelps W:000 D:005,President,,Mitt Romney,,220
+Ontario,Phelps W:000 D:006,President,,Mitt Romney,,232
+Ontario,Richmond W:000 D:001,President,,Mitt Romney,,285
+Ontario,Richmond W:000 D:002,President,,Mitt Romney,,306
+Ontario,Richmond W:000 D:003,President,,Mitt Romney,,386
+Ontario,S Bristol W:000 D:001,President,,Mitt Romney,,250
+Ontario,S Bristol W:000 D:002,President,,Mitt Romney,,270
+Ontario,Seneca W:000 D:001,President,,Mitt Romney,,172
+Ontario,Seneca W:000 D:002,President,,Mitt Romney,,231
+Ontario,Seneca W:000 D:003,President,,Mitt Romney,,254
+Ontario,Victor W:000 D:001,President,,Mitt Romney,,369
+Ontario,Victor W:000 D:002,President,,Mitt Romney,,482
+Ontario,Victor W:000 D:003,President,,Mitt Romney,,322
+Ontario,Victor W:000 D:004,President,,Mitt Romney,,301
+Ontario,Victor W:000 D:005,President,,Mitt Romney,,453
+Ontario,Victor W:000 D:006,President,,Mitt Romney,,388
+Ontario,Victor W:000 D:007,President,,Mitt Romney,,267
+Ontario,Victor W:000 D:008,President,,Mitt Romney,,269
+Ontario,Victor W:000 D:009,President,,Mitt Romney,,420
+Ontario,Victor W:000 D:010,President,,Mitt Romney,,357
+Ontario,Victor W:000 D:011,President,,Mitt Romney,,254
+Ontario,Victor W:000 D:012,President,,Mitt Romney,,272
+Ontario,W.Bloomfield W:000 D:001,President,,Mitt Romney,,402
+Ontario,W.Bloomfield W:000 D:002,President,,Mitt Romney,,321
+Ontario,Total,President,,Mitt Romney,,23793
+Ontario,Bristol W:000 D:001,President,,Jill Stein,,4
+Ontario,Bristol W:000 D:002,President,,Jill Stein,,3
+Ontario,Canadice W:000 D:001,President,,Jill Stein,,4
+Ontario,Canadice W:000 D:002,President,,Jill Stein,,1
+Ontario,CanandaiguaT W:000 D:001,President,,Jill Stein,,4
+Ontario,CanandaiguaT W:000 D:002,President,,Jill Stein,,4
+Ontario,CanandaiguaT W:000 D:003,President,,Jill Stein,,7
+Ontario,CanandaiguaT W:000 D:004,President,,Jill Stein,,4
+Ontario,CanandaiguaT W:000 D:005,President,,Jill Stein,,3
+Ontario,CanandaiguaT W:000 D:006,President,,Jill Stein,,1
+Ontario,CanandaiguaT W:000 D:007,President,,Jill Stein,,4
+Ontario,City Cdga W:001 D:001,President,,Jill Stein,,2
+Ontario,City Cdga W:001 D:002,President,,Jill Stein,,9
+Ontario,City Cdga W:002 D:001,President,,Jill Stein,,2
+Ontario,City Cdga W:002 D:002,President,,Jill Stein,,3
+Ontario,City Cdga W:003 D:001,President,,Jill Stein,,4
+Ontario,City Cdga W:003 D:002,President,,Jill Stein,,3
+Ontario,City Cdga W:004 D:001,President,,Jill Stein,,1
+Ontario,City Cdga W:004 D:002,President,,Jill Stein,,2
+Ontario,City Geneva W:001 D:001,President,,Jill Stein,,5
+Ontario,City Geneva W:001 D:002,President,,Jill Stein,,4
+Ontario,City Geneva W:002 D:001,President,,Jill Stein,,2
+Ontario,City Geneva W:002 D:002,President,,Jill Stein,,1
+Ontario,City Geneva W:003 D:001,President,,Jill Stein,,8
+Ontario,City Geneva W:003 D:002,President,,Jill Stein,,5
+Ontario,City Geneva W:004 D:001,President,,Jill Stein,,3
+Ontario,City Geneva W:004 D:002,President,,Jill Stein,,5
+Ontario,City Geneva W:005 D:001,President,,Jill Stein,,1
+Ontario,City Geneva W:005 D:002,President,,Jill Stein,,2
+Ontario,City Geneva W:006 D:001,President,,Jill Stein,,0
+Ontario,City Geneva W:006 D:002,President,,Jill Stein,,2
+Ontario,E.Bloomfield W:000 D:001,President,,Jill Stein,,4
+Ontario,E.Bloomfield W:000 D:002,President,,Jill Stein,,4
+Ontario,E.Bloomfield W:000 D:003,President,,Jill Stein,,2
+Ontario,Farmington W:000 D:001,President,,Jill Stein,,1
+Ontario,Farmington W:000 D:002,President,,Jill Stein,,5
+Ontario,Farmington W:000 D:003,President,,Jill Stein,,3
+Ontario,Farmington W:000 D:004,President,,Jill Stein,,3
+Ontario,Farmington W:000 D:005,President,,Jill Stein,,4
+Ontario,Farmington W:000 D:006,President,,Jill Stein,,2
+Ontario,Farmington W:000 D:007,President,,Jill Stein,,2
+Ontario,Farmington W:000 D:008,President,,Jill Stein,,2
+Ontario,Farmington W:000 D:009,President,,Jill Stein,,0
+Ontario,Farmington W:000 D:010,President,,Jill Stein,,1
+Ontario,GenevaT W:000 D:001,President,,Jill Stein,,2
+Ontario,GenevaT W:000 D:002,President,,Jill Stein,,1
+Ontario,GenevaT W:000 D:003,President,,Jill Stein,,5
+Ontario,Gorham W:000 D:001,President,,Jill Stein,,1
+Ontario,Gorham W:000 D:002,President,,Jill Stein,,6
+Ontario,Gorham W:000 D:003,President,,Jill Stein,,1
+Ontario,Gorham W:000 D:004,President,,Jill Stein,,3
+Ontario,Hopewell W:000 D:001,President,,Jill Stein,,4
+Ontario,Hopewell W:000 D:002,President,,Jill Stein,,3
+Ontario,Hopewell W:000 D:003,President,,Jill Stein,,5
+Ontario,Manchester W:000 D:001,President,,Jill Stein,,5
+Ontario,Manchester W:000 D:002,President,,Jill Stein,,3
+Ontario,Manchester W:000 D:003,President,,Jill Stein,,0
+Ontario,Manchester W:000 D:004,President,,Jill Stein,,4
+Ontario,Manchester W:000 D:005,President,,Jill Stein,,3
+Ontario,Manchester W:000 D:006,President,,Jill Stein,,2
+Ontario,Manchester W:000 D:007,President,,Jill Stein,,2
+Ontario,Manchester W:000 D:008,President,,Jill Stein,,7
+Ontario,Naples W:000 D:001,President,,Jill Stein,,10
+Ontario,Naples W:000 D:002,President,,Jill Stein,,2
+Ontario,Phelps W:000 D:001,President,,Jill Stein,,3
+Ontario,Phelps W:000 D:002,President,,Jill Stein,,2
+Ontario,Phelps W:000 D:003,President,,Jill Stein,,5
+Ontario,Phelps W:000 D:004,President,,Jill Stein,,1
+Ontario,Phelps W:000 D:005,President,,Jill Stein,,0
+Ontario,Phelps W:000 D:006,President,,Jill Stein,,2
+Ontario,Richmond W:000 D:001,President,,Jill Stein,,1
+Ontario,Richmond W:000 D:002,President,,Jill Stein,,4
+Ontario,Richmond W:000 D:003,President,,Jill Stein,,5
+Ontario,S Bristol W:000 D:001,President,,Jill Stein,,3
+Ontario,S Bristol W:000 D:002,President,,Jill Stein,,4
+Ontario,Seneca W:000 D:001,President,,Jill Stein,,2
+Ontario,Seneca W:000 D:002,President,,Jill Stein,,4
+Ontario,Seneca W:000 D:003,President,,Jill Stein,,3
+Ontario,Victor W:000 D:001,President,,Jill Stein,,3
+Ontario,Victor W:000 D:002,President,,Jill Stein,,3
+Ontario,Victor W:000 D:003,President,,Jill Stein,,2
+Ontario,Victor W:000 D:004,President,,Jill Stein,,2
+Ontario,Victor W:000 D:005,President,,Jill Stein,,4
+Ontario,Victor W:000 D:006,President,,Jill Stein,,3
+Ontario,Victor W:000 D:007,President,,Jill Stein,,7
+Ontario,Victor W:000 D:008,President,,Jill Stein,,0
+Ontario,Victor W:000 D:009,President,,Jill Stein,,1
+Ontario,Victor W:000 D:010,President,,Jill Stein,,6
+Ontario,Victor W:000 D:011,President,,Jill Stein,,3
+Ontario,Victor W:000 D:012,President,,Jill Stein,,1
+Ontario,W.Bloomfield W:000 D:001,President,,Jill Stein,,8
+Ontario,W.Bloomfield W:000 D:002,President,,Jill Stein,,7
+Ontario,Total,President,,Jill Stein,,294
+Ontario,Bristol W:000 D:001,President,,Peta Lindsay,,0
+Ontario,Bristol W:000 D:002,President,,Peta Lindsay,,1
+Ontario,Canadice W:000 D:001,President,,Peta Lindsay,,0
+Ontario,Canadice W:000 D:002,President,,Peta Lindsay,,0
+Ontario,CanandaiguaT W:000 D:001,President,,Peta Lindsay,,0
+Ontario,CanandaiguaT W:000 D:002,President,,Peta Lindsay,,0
+Ontario,CanandaiguaT W:000 D:003,President,,Peta Lindsay,,0
+Ontario,CanandaiguaT W:000 D:004,President,,Peta Lindsay,,0
+Ontario,CanandaiguaT W:000 D:005,President,,Peta Lindsay,,0
+Ontario,CanandaiguaT W:000 D:006,President,,Peta Lindsay,,0
+Ontario,CanandaiguaT W:000 D:007,President,,Peta Lindsay,,0
+Ontario,City Cdga W:001 D:001,President,,Peta Lindsay,,0
+Ontario,City Cdga W:001 D:002,President,,Peta Lindsay,,1
+Ontario,City Cdga W:002 D:001,President,,Peta Lindsay,,0
+Ontario,City Cdga W:002 D:002,President,,Peta Lindsay,,0
+Ontario,City Cdga W:003 D:001,President,,Peta Lindsay,,0
+Ontario,City Cdga W:003 D:002,President,,Peta Lindsay,,0
+Ontario,City Cdga W:004 D:001,President,,Peta Lindsay,,0
+Ontario,City Cdga W:004 D:002,President,,Peta Lindsay,,0
+Ontario,City Geneva W:001 D:001,President,,Peta Lindsay,,0
+Ontario,City Geneva W:001 D:002,President,,Peta Lindsay,,0
+Ontario,City Geneva W:002 D:001,President,,Peta Lindsay,,0
+Ontario,City Geneva W:002 D:002,President,,Peta Lindsay,,0
+Ontario,City Geneva W:003 D:001,President,,Peta Lindsay,,0
+Ontario,City Geneva W:003 D:002,President,,Peta Lindsay,,0
+Ontario,City Geneva W:004 D:001,President,,Peta Lindsay,,0
+Ontario,City Geneva W:004 D:002,President,,Peta Lindsay,,1
+Ontario,City Geneva W:005 D:001,President,,Peta Lindsay,,1
+Ontario,City Geneva W:005 D:002,President,,Peta Lindsay,,0
+Ontario,City Geneva W:006 D:001,President,,Peta Lindsay,,0
+Ontario,City Geneva W:006 D:002,President,,Peta Lindsay,,0
+Ontario,E.Bloomfield W:000 D:001,President,,Peta Lindsay,,0
+Ontario,E.Bloomfield W:000 D:002,President,,Peta Lindsay,,0
+Ontario,E.Bloomfield W:000 D:003,President,,Peta Lindsay,,0
+Ontario,Farmington W:000 D:001,President,,Peta Lindsay,,0
+Ontario,Farmington W:000 D:002,President,,Peta Lindsay,,1
+Ontario,Farmington W:000 D:003,President,,Peta Lindsay,,0
+Ontario,Farmington W:000 D:004,President,,Peta Lindsay,,0
+Ontario,Farmington W:000 D:005,President,,Peta Lindsay,,0
+Ontario,Farmington W:000 D:006,President,,Peta Lindsay,,0
+Ontario,Farmington W:000 D:007,President,,Peta Lindsay,,0
+Ontario,Farmington W:000 D:008,President,,Peta Lindsay,,0
+Ontario,Farmington W:000 D:009,President,,Peta Lindsay,,0
+Ontario,Farmington W:000 D:010,President,,Peta Lindsay,,0
+Ontario,GenevaT W:000 D:001,President,,Peta Lindsay,,0
+Ontario,GenevaT W:000 D:002,President,,Peta Lindsay,,0
+Ontario,GenevaT W:000 D:003,President,,Peta Lindsay,,1
+Ontario,Gorham W:000 D:001,President,,Peta Lindsay,,0
+Ontario,Gorham W:000 D:002,President,,Peta Lindsay,,0
+Ontario,Gorham W:000 D:003,President,,Peta Lindsay,,0
+Ontario,Gorham W:000 D:004,President,,Peta Lindsay,,0
+Ontario,Hopewell W:000 D:001,President,,Peta Lindsay,,0
+Ontario,Hopewell W:000 D:002,President,,Peta Lindsay,,0
+Ontario,Hopewell W:000 D:003,President,,Peta Lindsay,,0
+Ontario,Manchester W:000 D:001,President,,Peta Lindsay,,0
+Ontario,Manchester W:000 D:002,President,,Peta Lindsay,,0
+Ontario,Manchester W:000 D:003,President,,Peta Lindsay,,1
+Ontario,Manchester W:000 D:004,President,,Peta Lindsay,,0
+Ontario,Manchester W:000 D:005,President,,Peta Lindsay,,0
+Ontario,Manchester W:000 D:006,President,,Peta Lindsay,,0
+Ontario,Manchester W:000 D:007,President,,Peta Lindsay,,1
+Ontario,Manchester W:000 D:008,President,,Peta Lindsay,,0
+Ontario,Naples W:000 D:001,President,,Peta Lindsay,,0
+Ontario,Naples W:000 D:002,President,,Peta Lindsay,,0
+Ontario,Phelps W:000 D:001,President,,Peta Lindsay,,0
+Ontario,Phelps W:000 D:002,President,,Peta Lindsay,,0
+Ontario,Phelps W:000 D:003,President,,Peta Lindsay,,0
+Ontario,Phelps W:000 D:004,President,,Peta Lindsay,,0
+Ontario,Phelps W:000 D:005,President,,Peta Lindsay,,0
+Ontario,Phelps W:000 D:006,President,,Peta Lindsay,,0
+Ontario,Richmond W:000 D:001,President,,Peta Lindsay,,0
+Ontario,Richmond W:000 D:002,President,,Peta Lindsay,,1
+Ontario,Richmond W:000 D:003,President,,Peta Lindsay,,1
+Ontario,S Bristol W:000 D:001,President,,Peta Lindsay,,0
+Ontario,S Bristol W:000 D:002,President,,Peta Lindsay,,0
+Ontario,Seneca W:000 D:001,President,,Peta Lindsay,,0
+Ontario,Seneca W:000 D:002,President,,Peta Lindsay,,0
+Ontario,Seneca W:000 D:003,President,,Peta Lindsay,,0
+Ontario,Victor W:000 D:001,President,,Peta Lindsay,,0
+Ontario,Victor W:000 D:002,President,,Peta Lindsay,,0
+Ontario,Victor W:000 D:003,President,,Peta Lindsay,,0
+Ontario,Victor W:000 D:004,President,,Peta Lindsay,,0
+Ontario,Victor W:000 D:005,President,,Peta Lindsay,,0
+Ontario,Victor W:000 D:006,President,,Peta Lindsay,,0
+Ontario,Victor W:000 D:007,President,,Peta Lindsay,,0
+Ontario,Victor W:000 D:008,President,,Peta Lindsay,,0
+Ontario,Victor W:000 D:009,President,,Peta Lindsay,,0
+Ontario,Victor W:000 D:010,President,,Peta Lindsay,,0
+Ontario,Victor W:000 D:011,President,,Peta Lindsay,,0
+Ontario,Victor W:000 D:012,President,,Peta Lindsay,,0
+Ontario,W.Bloomfield W:000 D:001,President,,Peta Lindsay,,1
+Ontario,W.Bloomfield W:000 D:002,President,,Peta Lindsay,,0
+Ontario,Total,President,,Peta Lindsay,,11
+Ontario,Bristol W:000 D:001,President,,Gary Johnson,,10
+Ontario,Bristol W:000 D:002,President,,Gary Johnson,,10
+Ontario,Canadice W:000 D:001,President,,Gary Johnson,,6
+Ontario,Canadice W:000 D:002,President,,Gary Johnson,,2
+Ontario,CanandaiguaT W:000 D:001,President,,Gary Johnson,,9
+Ontario,CanandaiguaT W:000 D:002,President,,Gary Johnson,,11
+Ontario,CanandaiguaT W:000 D:003,President,,Gary Johnson,,17
+Ontario,CanandaiguaT W:000 D:004,President,,Gary Johnson,,7
+Ontario,CanandaiguaT W:000 D:005,President,,Gary Johnson,,4
+Ontario,CanandaiguaT W:000 D:006,President,,Gary Johnson,,7
+Ontario,CanandaiguaT W:000 D:007,President,,Gary Johnson,,3
+Ontario,City Cdga W:001 D:001,President,,Gary Johnson,,7
+Ontario,City Cdga W:001 D:002,President,,Gary Johnson,,12
+Ontario,City Cdga W:002 D:001,President,,Gary Johnson,,5
+Ontario,City Cdga W:002 D:002,President,,Gary Johnson,,10
+Ontario,City Cdga W:003 D:001,President,,Gary Johnson,,7
+Ontario,City Cdga W:003 D:002,President,,Gary Johnson,,14
+Ontario,City Cdga W:004 D:001,President,,Gary Johnson,,2
+Ontario,City Cdga W:004 D:002,President,,Gary Johnson,,5
+Ontario,City Geneva W:001 D:001,President,,Gary Johnson,,3
+Ontario,City Geneva W:001 D:002,President,,Gary Johnson,,5
+Ontario,City Geneva W:002 D:001,President,,Gary Johnson,,5
+Ontario,City Geneva W:002 D:002,President,,Gary Johnson,,6
+Ontario,City Geneva W:003 D:001,President,,Gary Johnson,,2
+Ontario,City Geneva W:003 D:002,President,,Gary Johnson,,0
+Ontario,City Geneva W:004 D:001,President,,Gary Johnson,,2
+Ontario,City Geneva W:004 D:002,President,,Gary Johnson,,5
+Ontario,City Geneva W:005 D:001,President,,Gary Johnson,,3
+Ontario,City Geneva W:005 D:002,President,,Gary Johnson,,2
+Ontario,City Geneva W:006 D:001,President,,Gary Johnson,,3
+Ontario,City Geneva W:006 D:002,President,,Gary Johnson,,1
+Ontario,E.Bloomfield W:000 D:001,President,,Gary Johnson,,6
+Ontario,E.Bloomfield W:000 D:002,President,,Gary Johnson,,13
+Ontario,E.Bloomfield W:000 D:003,President,,Gary Johnson,,9
+Ontario,Farmington W:000 D:001,President,,Gary Johnson,,8
+Ontario,Farmington W:000 D:002,President,,Gary Johnson,,2
+Ontario,Farmington W:000 D:003,President,,Gary Johnson,,3
+Ontario,Farmington W:000 D:004,President,,Gary Johnson,,6
+Ontario,Farmington W:000 D:005,President,,Gary Johnson,,5
+Ontario,Farmington W:000 D:006,President,,Gary Johnson,,5
+Ontario,Farmington W:000 D:007,President,,Gary Johnson,,7
+Ontario,Farmington W:000 D:008,President,,Gary Johnson,,4
+Ontario,Farmington W:000 D:009,President,,Gary Johnson,,10
+Ontario,Farmington W:000 D:010,President,,Gary Johnson,,6
+Ontario,GenevaT W:000 D:001,President,,Gary Johnson,,1
+Ontario,GenevaT W:000 D:002,President,,Gary Johnson,,8
+Ontario,GenevaT W:000 D:003,President,,Gary Johnson,,5
+Ontario,Gorham W:000 D:001,President,,Gary Johnson,,6
+Ontario,Gorham W:000 D:002,President,,Gary Johnson,,6
+Ontario,Gorham W:000 D:003,President,,Gary Johnson,,4
+Ontario,Gorham W:000 D:004,President,,Gary Johnson,,6
+Ontario,Hopewell W:000 D:001,President,,Gary Johnson,,1
+Ontario,Hopewell W:000 D:002,President,,Gary Johnson,,7
+Ontario,Hopewell W:000 D:003,President,,Gary Johnson,,7
+Ontario,Manchester W:000 D:001,President,,Gary Johnson,,5
+Ontario,Manchester W:000 D:002,President,,Gary Johnson,,10
+Ontario,Manchester W:000 D:003,President,,Gary Johnson,,9
+Ontario,Manchester W:000 D:004,President,,Gary Johnson,,4
+Ontario,Manchester W:000 D:005,President,,Gary Johnson,,7
+Ontario,Manchester W:000 D:006,President,,Gary Johnson,,4
+Ontario,Manchester W:000 D:007,President,,Gary Johnson,,8
+Ontario,Manchester W:000 D:008,President,,Gary Johnson,,4
+Ontario,Naples W:000 D:001,President,,Gary Johnson,,14
+Ontario,Naples W:000 D:002,President,,Gary Johnson,,11
+Ontario,Phelps W:000 D:001,President,,Gary Johnson,,3
+Ontario,Phelps W:000 D:002,President,,Gary Johnson,,3
+Ontario,Phelps W:000 D:003,President,,Gary Johnson,,8
+Ontario,Phelps W:000 D:004,President,,Gary Johnson,,5
+Ontario,Phelps W:000 D:005,President,,Gary Johnson,,7
+Ontario,Phelps W:000 D:006,President,,Gary Johnson,,8
+Ontario,Richmond W:000 D:001,President,,Gary Johnson,,8
+Ontario,Richmond W:000 D:002,President,,Gary Johnson,,4
+Ontario,Richmond W:000 D:003,President,,Gary Johnson,,9
+Ontario,S Bristol W:000 D:001,President,,Gary Johnson,,7
+Ontario,S Bristol W:000 D:002,President,,Gary Johnson,,3
+Ontario,Seneca W:000 D:001,President,,Gary Johnson,,2
+Ontario,Seneca W:000 D:002,President,,Gary Johnson,,5
+Ontario,Seneca W:000 D:003,President,,Gary Johnson,,5
+Ontario,Victor W:000 D:001,President,,Gary Johnson,,9
+Ontario,Victor W:000 D:002,President,,Gary Johnson,,7
+Ontario,Victor W:000 D:003,President,,Gary Johnson,,12
+Ontario,Victor W:000 D:004,President,,Gary Johnson,,7
+Ontario,Victor W:000 D:005,President,,Gary Johnson,,4
+Ontario,Victor W:000 D:006,President,,Gary Johnson,,1
+Ontario,Victor W:000 D:007,President,,Gary Johnson,,15
+Ontario,Victor W:000 D:008,President,,Gary Johnson,,6
+Ontario,Victor W:000 D:009,President,,Gary Johnson,,9
+Ontario,Victor W:000 D:010,President,,Gary Johnson,,4
+Ontario,Victor W:000 D:011,President,,Gary Johnson,,1
+Ontario,Victor W:000 D:012,President,,Gary Johnson,,9
+Ontario,W.Bloomfield W:000 D:001,President,,Gary Johnson,,9
+Ontario,W.Bloomfield W:000 D:002,President,,Gary Johnson,,3
+Ontario,Total,President,,Gary Johnson,,569
+Ontario,Bristol W:000 D:001,President,,Virgil Goode,,0
+Ontario,Bristol W:000 D:002,President,,Virgil Goode,,3
+Ontario,Canadice W:000 D:001,President,,Virgil Goode,,0
+Ontario,Canadice W:000 D:002,President,,Virgil Goode,,0
+Ontario,CanandaiguaT W:000 D:001,President,,Virgil Goode,,1
+Ontario,CanandaiguaT W:000 D:002,President,,Virgil Goode,,1
+Ontario,CanandaiguaT W:000 D:003,President,,Virgil Goode,,1
+Ontario,CanandaiguaT W:000 D:004,President,,Virgil Goode,,0
+Ontario,CanandaiguaT W:000 D:005,President,,Virgil Goode,,0
+Ontario,CanandaiguaT W:000 D:006,President,,Virgil Goode,,0
+Ontario,CanandaiguaT W:000 D:007,President,,Virgil Goode,,0
+Ontario,City Cdga W:001 D:001,President,,Virgil Goode,,0
+Ontario,City Cdga W:001 D:002,President,,Virgil Goode,,1
+Ontario,City Cdga W:002 D:001,President,,Virgil Goode,,1
+Ontario,City Cdga W:002 D:002,President,,Virgil Goode,,0
+Ontario,City Cdga W:003 D:001,President,,Virgil Goode,,3
+Ontario,City Cdga W:003 D:002,President,,Virgil Goode,,2
+Ontario,City Cdga W:004 D:001,President,,Virgil Goode,,0
+Ontario,City Cdga W:004 D:002,President,,Virgil Goode,,0
+Ontario,City Geneva W:001 D:001,President,,Virgil Goode,,0
+Ontario,City Geneva W:001 D:002,President,,Virgil Goode,,0
+Ontario,City Geneva W:002 D:001,President,,Virgil Goode,,1
+Ontario,City Geneva W:002 D:002,President,,Virgil Goode,,0
+Ontario,City Geneva W:003 D:001,President,,Virgil Goode,,0
+Ontario,City Geneva W:003 D:002,President,,Virgil Goode,,0
+Ontario,City Geneva W:004 D:001,President,,Virgil Goode,,0
+Ontario,City Geneva W:004 D:002,President,,Virgil Goode,,1
+Ontario,City Geneva W:005 D:001,President,,Virgil Goode,,0
+Ontario,City Geneva W:005 D:002,President,,Virgil Goode,,0
+Ontario,City Geneva W:006 D:001,President,,Virgil Goode,,0
+Ontario,City Geneva W:006 D:002,President,,Virgil Goode,,0
+Ontario,E.Bloomfield W:000 D:001,President,,Virgil Goode,,2
+Ontario,E.Bloomfield W:000 D:002,President,,Virgil Goode,,0
+Ontario,E.Bloomfield W:000 D:003,President,,Virgil Goode,,2
+Ontario,Farmington W:000 D:001,President,,Virgil Goode,,2
+Ontario,Farmington W:000 D:002,President,,Virgil Goode,,0
+Ontario,Farmington W:000 D:003,President,,Virgil Goode,,2
+Ontario,Farmington W:000 D:004,President,,Virgil Goode,,2
+Ontario,Farmington W:000 D:005,President,,Virgil Goode,,0
+Ontario,Farmington W:000 D:006,President,,Virgil Goode,,2
+Ontario,Farmington W:000 D:007,President,,Virgil Goode,,1
+Ontario,Farmington W:000 D:008,President,,Virgil Goode,,1
+Ontario,Farmington W:000 D:009,President,,Virgil Goode,,1
+Ontario,Farmington W:000 D:010,President,,Virgil Goode,,6
+Ontario,GenevaT W:000 D:001,President,,Virgil Goode,,3
+Ontario,GenevaT W:000 D:002,President,,Virgil Goode,,0
+Ontario,GenevaT W:000 D:003,President,,Virgil Goode,,1
+Ontario,Gorham W:000 D:001,President,,Virgil Goode,,1
+Ontario,Gorham W:000 D:002,President,,Virgil Goode,,0
+Ontario,Gorham W:000 D:003,President,,Virgil Goode,,0
+Ontario,Gorham W:000 D:004,President,,Virgil Goode,,0
+Ontario,Hopewell W:000 D:001,President,,Virgil Goode,,0
+Ontario,Hopewell W:000 D:002,President,,Virgil Goode,,0
+Ontario,Hopewell W:000 D:003,President,,Virgil Goode,,1
+Ontario,Manchester W:000 D:001,President,,Virgil Goode,,1
+Ontario,Manchester W:000 D:002,President,,Virgil Goode,,1
+Ontario,Manchester W:000 D:003,President,,Virgil Goode,,1
+Ontario,Manchester W:000 D:004,President,,Virgil Goode,,0
+Ontario,Manchester W:000 D:005,President,,Virgil Goode,,0
+Ontario,Manchester W:000 D:006,President,,Virgil Goode,,0
+Ontario,Manchester W:000 D:007,President,,Virgil Goode,,0
+Ontario,Manchester W:000 D:008,President,,Virgil Goode,,0
+Ontario,Naples W:000 D:001,President,,Virgil Goode,,0
+Ontario,Naples W:000 D:002,President,,Virgil Goode,,0
+Ontario,Phelps W:000 D:001,President,,Virgil Goode,,1
+Ontario,Phelps W:000 D:002,President,,Virgil Goode,,3
+Ontario,Phelps W:000 D:003,President,,Virgil Goode,,1
+Ontario,Phelps W:000 D:004,President,,Virgil Goode,,0
+Ontario,Phelps W:000 D:005,President,,Virgil Goode,,2
+Ontario,Phelps W:000 D:006,President,,Virgil Goode,,0
+Ontario,Richmond W:000 D:001,President,,Virgil Goode,,2
+Ontario,Richmond W:000 D:002,President,,Virgil Goode,,1
+Ontario,Richmond W:000 D:003,President,,Virgil Goode,,4
+Ontario,S Bristol W:000 D:001,President,,Virgil Goode,,1
+Ontario,S Bristol W:000 D:002,President,,Virgil Goode,,0
+Ontario,Seneca W:000 D:001,President,,Virgil Goode,,0
+Ontario,Seneca W:000 D:002,President,,Virgil Goode,,0
+Ontario,Seneca W:000 D:003,President,,Virgil Goode,,2
+Ontario,Victor W:000 D:001,President,,Virgil Goode,,0
+Ontario,Victor W:000 D:002,President,,Virgil Goode,,0
+Ontario,Victor W:000 D:003,President,,Virgil Goode,,0
+Ontario,Victor W:000 D:004,President,,Virgil Goode,,0
+Ontario,Victor W:000 D:005,President,,Virgil Goode,,0
+Ontario,Victor W:000 D:006,President,,Virgil Goode,,1
+Ontario,Victor W:000 D:007,President,,Virgil Goode,,0
+Ontario,Victor W:000 D:008,President,,Virgil Goode,,0
+Ontario,Victor W:000 D:009,President,,Virgil Goode,,1
+Ontario,Victor W:000 D:010,President,,Virgil Goode,,0
+Ontario,Victor W:000 D:011,President,,Virgil Goode,,0
+Ontario,Victor W:000 D:012,President,,Virgil Goode,,0
+Ontario,W.Bloomfield W:000 D:001,President,,Virgil Goode,,1
+Ontario,W.Bloomfield W:000 D:002,President,,Virgil Goode,,1
+Ontario,Total,President,,Virgil Goode,,66
+Ontario,Bristol W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,201
+Ontario,Bristol W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,347
+Ontario,Canadice W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,249
+Ontario,Canadice W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,173
+Ontario,CanandaiguaT W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,268
+Ontario,CanandaiguaT W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,388
+Ontario,CanandaiguaT W:000 D:003,U.S. Senate,,Kirsten E Gillibrand,,537
+Ontario,CanandaiguaT W:000 D:004,U.S. Senate,,Kirsten E Gillibrand,,346
+Ontario,CanandaiguaT W:000 D:005,U.S. Senate,,Kirsten E Gillibrand,,448
+Ontario,CanandaiguaT W:000 D:006,U.S. Senate,,Kirsten E Gillibrand,,258
+Ontario,CanandaiguaT W:000 D:007,U.S. Senate,,Kirsten E Gillibrand,,256
+Ontario,City Cdga W:001 D:001,U.S. Senate,,Kirsten E Gillibrand,,306
+Ontario,City Cdga W:001 D:002,U.S. Senate,,Kirsten E Gillibrand,,433
+Ontario,City Cdga W:002 D:001,U.S. Senate,,Kirsten E Gillibrand,,205
+Ontario,City Cdga W:002 D:002,U.S. Senate,,Kirsten E Gillibrand,,263
+Ontario,City Cdga W:003 D:001,U.S. Senate,,Kirsten E Gillibrand,,333
+Ontario,City Cdga W:003 D:002,U.S. Senate,,Kirsten E Gillibrand,,369
+Ontario,City Cdga W:004 D:001,U.S. Senate,,Kirsten E Gillibrand,,312
+Ontario,City Cdga W:004 D:002,U.S. Senate,,Kirsten E Gillibrand,,478
+Ontario,City Geneva W:001 D:001,U.S. Senate,,Kirsten E Gillibrand,,221
+Ontario,City Geneva W:001 D:002,U.S. Senate,,Kirsten E Gillibrand,,191
+Ontario,City Geneva W:002 D:001,U.S. Senate,,Kirsten E Gillibrand,,307
+Ontario,City Geneva W:002 D:002,U.S. Senate,,Kirsten E Gillibrand,,325
+Ontario,City Geneva W:003 D:001,U.S. Senate,,Kirsten E Gillibrand,,284
+Ontario,City Geneva W:003 D:002,U.S. Senate,,Kirsten E Gillibrand,,445
+Ontario,City Geneva W:004 D:001,U.S. Senate,,Kirsten E Gillibrand,,221
+Ontario,City Geneva W:004 D:002,U.S. Senate,,Kirsten E Gillibrand,,305
+Ontario,City Geneva W:005 D:001,U.S. Senate,,Kirsten E Gillibrand,,169
+Ontario,City Geneva W:005 D:002,U.S. Senate,,Kirsten E Gillibrand,,158
+Ontario,City Geneva W:006 D:001,U.S. Senate,,Kirsten E Gillibrand,,222
+Ontario,City Geneva W:006 D:002,U.S. Senate,,Kirsten E Gillibrand,,160
+Ontario,E.Bloomfield W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,259
+Ontario,E.Bloomfield W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,293
+Ontario,E.Bloomfield W:000 D:003,U.S. Senate,,Kirsten E Gillibrand,,273
+Ontario,Farmington W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,307
+Ontario,Farmington W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,398
+Ontario,Farmington W:000 D:003,U.S. Senate,,Kirsten E Gillibrand,,270
+Ontario,Farmington W:000 D:004,U.S. Senate,,Kirsten E Gillibrand,,332
+Ontario,Farmington W:000 D:005,U.S. Senate,,Kirsten E Gillibrand,,197
+Ontario,Farmington W:000 D:006,U.S. Senate,,Kirsten E Gillibrand,,325
+Ontario,Farmington W:000 D:007,U.S. Senate,,Kirsten E Gillibrand,,332
+Ontario,Farmington W:000 D:008,U.S. Senate,,Kirsten E Gillibrand,,283
+Ontario,Farmington W:000 D:009,U.S. Senate,,Kirsten E Gillibrand,,211
+Ontario,Farmington W:000 D:010,U.S. Senate,,Kirsten E Gillibrand,,93
+Ontario,GenevaT W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,321
+Ontario,GenevaT W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,331
+Ontario,GenevaT W:000 D:003,U.S. Senate,,Kirsten E Gillibrand,,397
+Ontario,Gorham W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,243
+Ontario,Gorham W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,223
+Ontario,Gorham W:000 D:003,U.S. Senate,,Kirsten E Gillibrand,,274
+Ontario,Gorham W:000 D:004,U.S. Senate,,Kirsten E Gillibrand,,218
+Ontario,Hopewell W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,226
+Ontario,Hopewell W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,254
+Ontario,Hopewell W:000 D:003,U.S. Senate,,Kirsten E Gillibrand,,236
+Ontario,Manchester W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,380
+Ontario,Manchester W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,231
+Ontario,Manchester W:000 D:003,U.S. Senate,,Kirsten E Gillibrand,,279
+Ontario,Manchester W:000 D:004,U.S. Senate,,Kirsten E Gillibrand,,182
+Ontario,Manchester W:000 D:005,U.S. Senate,,Kirsten E Gillibrand,,162
+Ontario,Manchester W:000 D:006,U.S. Senate,,Kirsten E Gillibrand,,228
+Ontario,Manchester W:000 D:007,U.S. Senate,,Kirsten E Gillibrand,,211
+Ontario,Manchester W:000 D:008,U.S. Senate,,Kirsten E Gillibrand,,229
+Ontario,Naples W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,344
+Ontario,Naples W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,257
+Ontario,Phelps W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,310
+Ontario,Phelps W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,238
+Ontario,Phelps W:000 D:003,U.S. Senate,,Kirsten E Gillibrand,,265
+Ontario,Phelps W:000 D:004,U.S. Senate,,Kirsten E Gillibrand,,286
+Ontario,Phelps W:000 D:005,U.S. Senate,,Kirsten E Gillibrand,,241
+Ontario,Phelps W:000 D:006,U.S. Senate,,Kirsten E Gillibrand,,238
+Ontario,Richmond W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,253
+Ontario,Richmond W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,237
+Ontario,Richmond W:000 D:003,U.S. Senate,,Kirsten E Gillibrand,,323
+Ontario,S Bristol W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,220
+Ontario,S Bristol W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,263
+Ontario,Seneca W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,151
+Ontario,Seneca W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,224
+Ontario,Seneca W:000 D:003,U.S. Senate,,Kirsten E Gillibrand,,261
+Ontario,Victor W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,293
+Ontario,Victor W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,317
+Ontario,Victor W:000 D:003,U.S. Senate,,Kirsten E Gillibrand,,280
+Ontario,Victor W:000 D:004,U.S. Senate,,Kirsten E Gillibrand,,268
+Ontario,Victor W:000 D:005,U.S. Senate,,Kirsten E Gillibrand,,440
+Ontario,Victor W:000 D:006,U.S. Senate,,Kirsten E Gillibrand,,354
+Ontario,Victor W:000 D:007,U.S. Senate,,Kirsten E Gillibrand,,339
+Ontario,Victor W:000 D:008,U.S. Senate,,Kirsten E Gillibrand,,374
+Ontario,Victor W:000 D:009,U.S. Senate,,Kirsten E Gillibrand,,366
+Ontario,Victor W:000 D:010,U.S. Senate,,Kirsten E Gillibrand,,302
+Ontario,Victor W:000 D:011,U.S. Senate,,Kirsten E Gillibrand,,196
+Ontario,Victor W:000 D:012,U.S. Senate,,Kirsten E Gillibrand,,310
+Ontario,W.Bloomfield W:000 D:001,U.S. Senate,,Kirsten E Gillibrand,,322
+Ontario,W.Bloomfield W:000 D:002,U.S. Senate,,Kirsten E Gillibrand,,284
+Ontario,Total,U.S. Senate,,Kirsten E Gillibrand,,25932
+Ontario,Bristol W:000 D:001,U.S. Senate,,Wendy Long,,201
+Ontario,Bristol W:000 D:002,U.S. Senate,,Wendy Long,,312
+Ontario,Canadice W:000 D:001,U.S. Senate,,Wendy Long,,213
+Ontario,Canadice W:000 D:002,U.S. Senate,,Wendy Long,,171
+Ontario,CanandaiguaT W:000 D:001,U.S. Senate,,Wendy Long,,188
+Ontario,CanandaiguaT W:000 D:002,U.S. Senate,,Wendy Long,,304
+Ontario,CanandaiguaT W:000 D:003,U.S. Senate,,Wendy Long,,420
+Ontario,CanandaiguaT W:000 D:004,U.S. Senate,,Wendy Long,,383
+Ontario,CanandaiguaT W:000 D:005,U.S. Senate,,Wendy Long,,409
+Ontario,CanandaiguaT W:000 D:006,U.S. Senate,,Wendy Long,,226
+Ontario,CanandaiguaT W:000 D:007,U.S. Senate,,Wendy Long,,291
+Ontario,City Cdga W:001 D:001,U.S. Senate,,Wendy Long,,199
+Ontario,City Cdga W:001 D:002,U.S. Senate,,Wendy Long,,234
+Ontario,City Cdga W:002 D:001,U.S. Senate,,Wendy Long,,86
+Ontario,City Cdga W:002 D:002,U.S. Senate,,Wendy Long,,134
+Ontario,City Cdga W:003 D:001,U.S. Senate,,Wendy Long,,144
+Ontario,City Cdga W:003 D:002,U.S. Senate,,Wendy Long,,215
+Ontario,City Cdga W:004 D:001,U.S. Senate,,Wendy Long,,194
+Ontario,City Cdga W:004 D:002,U.S. Senate,,Wendy Long,,224
+Ontario,City Geneva W:001 D:001,U.S. Senate,,Wendy Long,,80
+Ontario,City Geneva W:001 D:002,U.S. Senate,,Wendy Long,,55
+Ontario,City Geneva W:002 D:001,U.S. Senate,,Wendy Long,,123
+Ontario,City Geneva W:002 D:002,U.S. Senate,,Wendy Long,,153
+Ontario,City Geneva W:003 D:001,U.S. Senate,,Wendy Long,,83
+Ontario,City Geneva W:003 D:002,U.S. Senate,,Wendy Long,,132
+Ontario,City Geneva W:004 D:001,U.S. Senate,,Wendy Long,,83
+Ontario,City Geneva W:004 D:002,U.S. Senate,,Wendy Long,,77
+Ontario,City Geneva W:005 D:001,U.S. Senate,,Wendy Long,,47
+Ontario,City Geneva W:005 D:002,U.S. Senate,,Wendy Long,,47
+Ontario,City Geneva W:006 D:001,U.S. Senate,,Wendy Long,,33
+Ontario,City Geneva W:006 D:002,U.S. Senate,,Wendy Long,,40
+Ontario,E.Bloomfield W:000 D:001,U.S. Senate,,Wendy Long,,314
+Ontario,E.Bloomfield W:000 D:002,U.S. Senate,,Wendy Long,,253
+Ontario,E.Bloomfield W:000 D:003,U.S. Senate,,Wendy Long,,240
+Ontario,Farmington W:000 D:001,U.S. Senate,,Wendy Long,,300
+Ontario,Farmington W:000 D:002,U.S. Senate,,Wendy Long,,257
+Ontario,Farmington W:000 D:003,U.S. Senate,,Wendy Long,,164
+Ontario,Farmington W:000 D:004,U.S. Senate,,Wendy Long,,249
+Ontario,Farmington W:000 D:005,U.S. Senate,,Wendy Long,,129
+Ontario,Farmington W:000 D:006,U.S. Senate,,Wendy Long,,240
+Ontario,Farmington W:000 D:007,U.S. Senate,,Wendy Long,,219
+Ontario,Farmington W:000 D:008,U.S. Senate,,Wendy Long,,182
+Ontario,Farmington W:000 D:009,U.S. Senate,,Wendy Long,,166
+Ontario,Farmington W:000 D:010,U.S. Senate,,Wendy Long,,145
+Ontario,GenevaT W:000 D:001,U.S. Senate,,Wendy Long,,163
+Ontario,GenevaT W:000 D:002,U.S. Senate,,Wendy Long,,168
+Ontario,GenevaT W:000 D:003,U.S. Senate,,Wendy Long,,248
+Ontario,Gorham W:000 D:001,U.S. Senate,,Wendy Long,,227
+Ontario,Gorham W:000 D:002,U.S. Senate,,Wendy Long,,227
+Ontario,Gorham W:000 D:003,U.S. Senate,,Wendy Long,,190
+Ontario,Gorham W:000 D:004,U.S. Senate,,Wendy Long,,197
+Ontario,Hopewell W:000 D:001,U.S. Senate,,Wendy Long,,153
+Ontario,Hopewell W:000 D:002,U.S. Senate,,Wendy Long,,213
+Ontario,Hopewell W:000 D:003,U.S. Senate,,Wendy Long,,159
+Ontario,Manchester W:000 D:001,U.S. Senate,,Wendy Long,,229
+Ontario,Manchester W:000 D:002,U.S. Senate,,Wendy Long,,159
+Ontario,Manchester W:000 D:003,U.S. Senate,,Wendy Long,,222
+Ontario,Manchester W:000 D:004,U.S. Senate,,Wendy Long,,197
+Ontario,Manchester W:000 D:005,U.S. Senate,,Wendy Long,,121
+Ontario,Manchester W:000 D:006,U.S. Senate,,Wendy Long,,135
+Ontario,Manchester W:000 D:007,U.S. Senate,,Wendy Long,,129
+Ontario,Manchester W:000 D:008,U.S. Senate,,Wendy Long,,145
+Ontario,Naples W:000 D:001,U.S. Senate,,Wendy Long,,248
+Ontario,Naples W:000 D:002,U.S. Senate,,Wendy Long,,233
+Ontario,Phelps W:000 D:001,U.S. Senate,,Wendy Long,,170
+Ontario,Phelps W:000 D:002,U.S. Senate,,Wendy Long,,220
+Ontario,Phelps W:000 D:003,U.S. Senate,,Wendy Long,,171
+Ontario,Phelps W:000 D:004,U.S. Senate,,Wendy Long,,215
+Ontario,Phelps W:000 D:005,U.S. Senate,,Wendy Long,,175
+Ontario,Phelps W:000 D:006,U.S. Senate,,Wendy Long,,170
+Ontario,Richmond W:000 D:001,U.S. Senate,,Wendy Long,,220
+Ontario,Richmond W:000 D:002,U.S. Senate,,Wendy Long,,240
+Ontario,Richmond W:000 D:003,U.S. Senate,,Wendy Long,,304
+Ontario,S Bristol W:000 D:001,U.S. Senate,,Wendy Long,,196
+Ontario,S Bristol W:000 D:002,U.S. Senate,,Wendy Long,,220
+Ontario,Seneca W:000 D:001,U.S. Senate,,Wendy Long,,149
+Ontario,Seneca W:000 D:002,U.S. Senate,,Wendy Long,,186
+Ontario,Seneca W:000 D:003,U.S. Senate,,Wendy Long,,197
+Ontario,Victor W:000 D:001,U.S. Senate,,Wendy Long,,304
+Ontario,Victor W:000 D:002,U.S. Senate,,Wendy Long,,380
+Ontario,Victor W:000 D:003,U.S. Senate,,Wendy Long,,268
+Ontario,Victor W:000 D:004,U.S. Senate,,Wendy Long,,240
+Ontario,Victor W:000 D:005,U.S. Senate,,Wendy Long,,360
+Ontario,Victor W:000 D:006,U.S. Senate,,Wendy Long,,300
+Ontario,Victor W:000 D:007,U.S. Senate,,Wendy Long,,206
+Ontario,Victor W:000 D:008,U.S. Senate,,Wendy Long,,237
+Ontario,Victor W:000 D:009,U.S. Senate,,Wendy Long,,345
+Ontario,Victor W:000 D:010,U.S. Senate,,Wendy Long,,281
+Ontario,Victor W:000 D:011,U.S. Senate,,Wendy Long,,185
+Ontario,Victor W:000 D:012,U.S. Senate,,Wendy Long,,201
+Ontario,W.Bloomfield W:000 D:001,U.S. Senate,,Wendy Long,,311
+Ontario,W.Bloomfield W:000 D:002,U.S. Senate,,Wendy Long,,253
+Ontario,Total,U.S. Senate,,Wendy Long,,18826
+Ontario,Bristol W:000 D:001,U.S. Senate,,Colia Clark,,4
+Ontario,Bristol W:000 D:002,U.S. Senate,,Colia Clark,,1
+Ontario,Canadice W:000 D:001,U.S. Senate,,Colia Clark,,1
+Ontario,Canadice W:000 D:002,U.S. Senate,,Colia Clark,,5
+Ontario,CanandaiguaT W:000 D:001,U.S. Senate,,Colia Clark,,6
+Ontario,CanandaiguaT W:000 D:002,U.S. Senate,,Colia Clark,,10
+Ontario,CanandaiguaT W:000 D:003,U.S. Senate,,Colia Clark,,5
+Ontario,CanandaiguaT W:000 D:004,U.S. Senate,,Colia Clark,,2
+Ontario,CanandaiguaT W:000 D:005,U.S. Senate,,Colia Clark,,1
+Ontario,CanandaiguaT W:000 D:006,U.S. Senate,,Colia Clark,,1
+Ontario,CanandaiguaT W:000 D:007,U.S. Senate,,Colia Clark,,6
+Ontario,City Cdga W:001 D:001,U.S. Senate,,Colia Clark,,4
+Ontario,City Cdga W:001 D:002,U.S. Senate,,Colia Clark,,8
+Ontario,City Cdga W:002 D:001,U.S. Senate,,Colia Clark,,3
+Ontario,City Cdga W:002 D:002,U.S. Senate,,Colia Clark,,4
+Ontario,City Cdga W:003 D:001,U.S. Senate,,Colia Clark,,8
+Ontario,City Cdga W:003 D:002,U.S. Senate,,Colia Clark,,7
+Ontario,City Cdga W:004 D:001,U.S. Senate,,Colia Clark,,4
+Ontario,City Cdga W:004 D:002,U.S. Senate,,Colia Clark,,5
+Ontario,City Geneva W:001 D:001,U.S. Senate,,Colia Clark,,3
+Ontario,City Geneva W:001 D:002,U.S. Senate,,Colia Clark,,4
+Ontario,City Geneva W:002 D:001,U.S. Senate,,Colia Clark,,5
+Ontario,City Geneva W:002 D:002,U.S. Senate,,Colia Clark,,1
+Ontario,City Geneva W:003 D:001,U.S. Senate,,Colia Clark,,6
+Ontario,City Geneva W:003 D:002,U.S. Senate,,Colia Clark,,3
+Ontario,City Geneva W:004 D:001,U.S. Senate,,Colia Clark,,2
+Ontario,City Geneva W:004 D:002,U.S. Senate,,Colia Clark,,1
+Ontario,City Geneva W:005 D:001,U.S. Senate,,Colia Clark,,4
+Ontario,City Geneva W:005 D:002,U.S. Senate,,Colia Clark,,0
+Ontario,City Geneva W:006 D:001,U.S. Senate,,Colia Clark,,2
+Ontario,City Geneva W:006 D:002,U.S. Senate,,Colia Clark,,1
+Ontario,E.Bloomfield W:000 D:001,U.S. Senate,,Colia Clark,,1
+Ontario,E.Bloomfield W:000 D:002,U.S. Senate,,Colia Clark,,5
+Ontario,E.Bloomfield W:000 D:003,U.S. Senate,,Colia Clark,,3
+Ontario,Farmington W:000 D:001,U.S. Senate,,Colia Clark,,0
+Ontario,Farmington W:000 D:002,U.S. Senate,,Colia Clark,,5
+Ontario,Farmington W:000 D:003,U.S. Senate,,Colia Clark,,4
+Ontario,Farmington W:000 D:004,U.S. Senate,,Colia Clark,,2
+Ontario,Farmington W:000 D:005,U.S. Senate,,Colia Clark,,3
+Ontario,Farmington W:000 D:006,U.S. Senate,,Colia Clark,,5
+Ontario,Farmington W:000 D:007,U.S. Senate,,Colia Clark,,2
+Ontario,Farmington W:000 D:008,U.S. Senate,,Colia Clark,,2
+Ontario,Farmington W:000 D:009,U.S. Senate,,Colia Clark,,2
+Ontario,Farmington W:000 D:010,U.S. Senate,,Colia Clark,,3
+Ontario,GenevaT W:000 D:001,U.S. Senate,,Colia Clark,,1
+Ontario,GenevaT W:000 D:002,U.S. Senate,,Colia Clark,,4
+Ontario,GenevaT W:000 D:003,U.S. Senate,,Colia Clark,,3
+Ontario,Gorham W:000 D:001,U.S. Senate,,Colia Clark,,4
+Ontario,Gorham W:000 D:002,U.S. Senate,,Colia Clark,,4
+Ontario,Gorham W:000 D:003,U.S. Senate,,Colia Clark,,3
+Ontario,Gorham W:000 D:004,U.S. Senate,,Colia Clark,,1
+Ontario,Hopewell W:000 D:001,U.S. Senate,,Colia Clark,,3
+Ontario,Hopewell W:000 D:002,U.S. Senate,,Colia Clark,,2
+Ontario,Hopewell W:000 D:003,U.S. Senate,,Colia Clark,,5
+Ontario,Manchester W:000 D:001,U.S. Senate,,Colia Clark,,4
+Ontario,Manchester W:000 D:002,U.S. Senate,,Colia Clark,,4
+Ontario,Manchester W:000 D:003,U.S. Senate,,Colia Clark,,3
+Ontario,Manchester W:000 D:004,U.S. Senate,,Colia Clark,,4
+Ontario,Manchester W:000 D:005,U.S. Senate,,Colia Clark,,5
+Ontario,Manchester W:000 D:006,U.S. Senate,,Colia Clark,,2
+Ontario,Manchester W:000 D:007,U.S. Senate,,Colia Clark,,1
+Ontario,Manchester W:000 D:008,U.S. Senate,,Colia Clark,,4
+Ontario,Naples W:000 D:001,U.S. Senate,,Colia Clark,,8
+Ontario,Naples W:000 D:002,U.S. Senate,,Colia Clark,,5
+Ontario,Phelps W:000 D:001,U.S. Senate,,Colia Clark,,4
+Ontario,Phelps W:000 D:002,U.S. Senate,,Colia Clark,,1
+Ontario,Phelps W:000 D:003,U.S. Senate,,Colia Clark,,2
+Ontario,Phelps W:000 D:004,U.S. Senate,,Colia Clark,,4
+Ontario,Phelps W:000 D:005,U.S. Senate,,Colia Clark,,1
+Ontario,Phelps W:000 D:006,U.S. Senate,,Colia Clark,,3
+Ontario,Richmond W:000 D:001,U.S. Senate,,Colia Clark,,5
+Ontario,Richmond W:000 D:002,U.S. Senate,,Colia Clark,,6
+Ontario,Richmond W:000 D:003,U.S. Senate,,Colia Clark,,3
+Ontario,S Bristol W:000 D:001,U.S. Senate,,Colia Clark,,2
+Ontario,S Bristol W:000 D:002,U.S. Senate,,Colia Clark,,4
+Ontario,Seneca W:000 D:001,U.S. Senate,,Colia Clark,,1
+Ontario,Seneca W:000 D:002,U.S. Senate,,Colia Clark,,4
+Ontario,Seneca W:000 D:003,U.S. Senate,,Colia Clark,,3
+Ontario,Victor W:000 D:001,U.S. Senate,,Colia Clark,,4
+Ontario,Victor W:000 D:002,U.S. Senate,,Colia Clark,,5
+Ontario,Victor W:000 D:003,U.S. Senate,,Colia Clark,,1
+Ontario,Victor W:000 D:004,U.S. Senate,,Colia Clark,,4
+Ontario,Victor W:000 D:005,U.S. Senate,,Colia Clark,,2
+Ontario,Victor W:000 D:006,U.S. Senate,,Colia Clark,,3
+Ontario,Victor W:000 D:007,U.S. Senate,,Colia Clark,,6
+Ontario,Victor W:000 D:008,U.S. Senate,,Colia Clark,,0
+Ontario,Victor W:000 D:009,U.S. Senate,,Colia Clark,,1
+Ontario,Victor W:000 D:010,U.S. Senate,,Colia Clark,,1
+Ontario,Victor W:000 D:011,U.S. Senate,,Colia Clark,,0
+Ontario,Victor W:000 D:012,U.S. Senate,,Colia Clark,,2
+Ontario,W.Bloomfield W:000 D:001,U.S. Senate,,Colia Clark,,6
+Ontario,W.Bloomfield W:000 D:002,U.S. Senate,,Colia Clark,,4
+Ontario,Total,U.S. Senate,,Colia Clark,,306
+Ontario,Bristol W:000 D:001,U.S. Senate,,Chris Edes,,7
+Ontario,Bristol W:000 D:002,U.S. Senate,,Chris Edes,,5
+Ontario,Canadice W:000 D:001,U.S. Senate,,Chris Edes,,5
+Ontario,Canadice W:000 D:002,U.S. Senate,,Chris Edes,,3
+Ontario,CanandaiguaT W:000 D:001,U.S. Senate,,Chris Edes,,3
+Ontario,CanandaiguaT W:000 D:002,U.S. Senate,,Chris Edes,,8
+Ontario,CanandaiguaT W:000 D:003,U.S. Senate,,Chris Edes,,8
+Ontario,CanandaiguaT W:000 D:004,U.S. Senate,,Chris Edes,,5
+Ontario,CanandaiguaT W:000 D:005,U.S. Senate,,Chris Edes,,5
+Ontario,CanandaiguaT W:000 D:006,U.S. Senate,,Chris Edes,,5
+Ontario,CanandaiguaT W:000 D:007,U.S. Senate,,Chris Edes,,6
+Ontario,City Cdga W:001 D:001,U.S. Senate,,Chris Edes,,5
+Ontario,City Cdga W:001 D:002,U.S. Senate,,Chris Edes,,7
+Ontario,City Cdga W:002 D:001,U.S. Senate,,Chris Edes,,2
+Ontario,City Cdga W:002 D:002,U.S. Senate,,Chris Edes,,4
+Ontario,City Cdga W:003 D:001,U.S. Senate,,Chris Edes,,5
+Ontario,City Cdga W:003 D:002,U.S. Senate,,Chris Edes,,7
+Ontario,City Cdga W:004 D:001,U.S. Senate,,Chris Edes,,2
+Ontario,City Cdga W:004 D:002,U.S. Senate,,Chris Edes,,7
+Ontario,City Geneva W:001 D:001,U.S. Senate,,Chris Edes,,3
+Ontario,City Geneva W:001 D:002,U.S. Senate,,Chris Edes,,2
+Ontario,City Geneva W:002 D:001,U.S. Senate,,Chris Edes,,3
+Ontario,City Geneva W:002 D:002,U.S. Senate,,Chris Edes,,4
+Ontario,City Geneva W:003 D:001,U.S. Senate,,Chris Edes,,1
+Ontario,City Geneva W:003 D:002,U.S. Senate,,Chris Edes,,2
+Ontario,City Geneva W:004 D:001,U.S. Senate,,Chris Edes,,0
+Ontario,City Geneva W:004 D:002,U.S. Senate,,Chris Edes,,2
+Ontario,City Geneva W:005 D:001,U.S. Senate,,Chris Edes,,2
+Ontario,City Geneva W:005 D:002,U.S. Senate,,Chris Edes,,1
+Ontario,City Geneva W:006 D:001,U.S. Senate,,Chris Edes,,2
+Ontario,City Geneva W:006 D:002,U.S. Senate,,Chris Edes,,1
+Ontario,E.Bloomfield W:000 D:001,U.S. Senate,,Chris Edes,,8
+Ontario,E.Bloomfield W:000 D:002,U.S. Senate,,Chris Edes,,7
+Ontario,E.Bloomfield W:000 D:003,U.S. Senate,,Chris Edes,,7
+Ontario,Farmington W:000 D:001,U.S. Senate,,Chris Edes,,2
+Ontario,Farmington W:000 D:002,U.S. Senate,,Chris Edes,,2
+Ontario,Farmington W:000 D:003,U.S. Senate,,Chris Edes,,5
+Ontario,Farmington W:000 D:004,U.S. Senate,,Chris Edes,,6
+Ontario,Farmington W:000 D:005,U.S. Senate,,Chris Edes,,3
+Ontario,Farmington W:000 D:006,U.S. Senate,,Chris Edes,,2
+Ontario,Farmington W:000 D:007,U.S. Senate,,Chris Edes,,7
+Ontario,Farmington W:000 D:008,U.S. Senate,,Chris Edes,,0
+Ontario,Farmington W:000 D:009,U.S. Senate,,Chris Edes,,2
+Ontario,Farmington W:000 D:010,U.S. Senate,,Chris Edes,,3
+Ontario,GenevaT W:000 D:001,U.S. Senate,,Chris Edes,,1
+Ontario,GenevaT W:000 D:002,U.S. Senate,,Chris Edes,,4
+Ontario,GenevaT W:000 D:003,U.S. Senate,,Chris Edes,,4
+Ontario,Gorham W:000 D:001,U.S. Senate,,Chris Edes,,7
+Ontario,Gorham W:000 D:002,U.S. Senate,,Chris Edes,,3
+Ontario,Gorham W:000 D:003,U.S. Senate,,Chris Edes,,2
+Ontario,Gorham W:000 D:004,U.S. Senate,,Chris Edes,,4
+Ontario,Hopewell W:000 D:001,U.S. Senate,,Chris Edes,,3
+Ontario,Hopewell W:000 D:002,U.S. Senate,,Chris Edes,,3
+Ontario,Hopewell W:000 D:003,U.S. Senate,,Chris Edes,,5
+Ontario,Manchester W:000 D:001,U.S. Senate,,Chris Edes,,3
+Ontario,Manchester W:000 D:002,U.S. Senate,,Chris Edes,,7
+Ontario,Manchester W:000 D:003,U.S. Senate,,Chris Edes,,3
+Ontario,Manchester W:000 D:004,U.S. Senate,,Chris Edes,,1
+Ontario,Manchester W:000 D:005,U.S. Senate,,Chris Edes,,5
+Ontario,Manchester W:000 D:006,U.S. Senate,,Chris Edes,,1
+Ontario,Manchester W:000 D:007,U.S. Senate,,Chris Edes,,4
+Ontario,Manchester W:000 D:008,U.S. Senate,,Chris Edes,,5
+Ontario,Naples W:000 D:001,U.S. Senate,,Chris Edes,,6
+Ontario,Naples W:000 D:002,U.S. Senate,,Chris Edes,,9
+Ontario,Phelps W:000 D:001,U.S. Senate,,Chris Edes,,5
+Ontario,Phelps W:000 D:002,U.S. Senate,,Chris Edes,,1
+Ontario,Phelps W:000 D:003,U.S. Senate,,Chris Edes,,5
+Ontario,Phelps W:000 D:004,U.S. Senate,,Chris Edes,,2
+Ontario,Phelps W:000 D:005,U.S. Senate,,Chris Edes,,5
+Ontario,Phelps W:000 D:006,U.S. Senate,,Chris Edes,,9
+Ontario,Richmond W:000 D:001,U.S. Senate,,Chris Edes,,8
+Ontario,Richmond W:000 D:002,U.S. Senate,,Chris Edes,,2
+Ontario,Richmond W:000 D:003,U.S. Senate,,Chris Edes,,7
+Ontario,S Bristol W:000 D:001,U.S. Senate,,Chris Edes,,6
+Ontario,S Bristol W:000 D:002,U.S. Senate,,Chris Edes,,3
+Ontario,Seneca W:000 D:001,U.S. Senate,,Chris Edes,,3
+Ontario,Seneca W:000 D:002,U.S. Senate,,Chris Edes,,4
+Ontario,Seneca W:000 D:003,U.S. Senate,,Chris Edes,,3
+Ontario,Victor W:000 D:001,U.S. Senate,,Chris Edes,,8
+Ontario,Victor W:000 D:002,U.S. Senate,,Chris Edes,,5
+Ontario,Victor W:000 D:003,U.S. Senate,,Chris Edes,,6
+Ontario,Victor W:000 D:004,U.S. Senate,,Chris Edes,,5
+Ontario,Victor W:000 D:005,U.S. Senate,,Chris Edes,,4
+Ontario,Victor W:000 D:006,U.S. Senate,,Chris Edes,,1
+Ontario,Victor W:000 D:007,U.S. Senate,,Chris Edes,,8
+Ontario,Victor W:000 D:008,U.S. Senate,,Chris Edes,,4
+Ontario,Victor W:000 D:009,U.S. Senate,,Chris Edes,,7
+Ontario,Victor W:000 D:010,U.S. Senate,,Chris Edes,,3
+Ontario,Victor W:000 D:011,U.S. Senate,,Chris Edes,,2
+Ontario,Victor W:000 D:012,U.S. Senate,,Chris Edes,,1
+Ontario,W.Bloomfield W:000 D:001,U.S. Senate,,Chris Edes,,5
+Ontario,W.Bloomfield W:000 D:002,U.S. Senate,,Chris Edes,,3
+Ontario,Total,U.S. Senate,,Chris Edes,,381
+Ontario,Bristol W:000 D:001,U.S. Senate,,John Mangelli,,7
+Ontario,Bristol W:000 D:002,U.S. Senate,,John Mangelli,,3
+Ontario,Canadice W:000 D:001,U.S. Senate,,John Mangelli,,1
+Ontario,Canadice W:000 D:002,U.S. Senate,,John Mangelli,,2
+Ontario,CanandaiguaT W:000 D:001,U.S. Senate,,John Mangelli,,2
+Ontario,CanandaiguaT W:000 D:002,U.S. Senate,,John Mangelli,,4
+Ontario,CanandaiguaT W:000 D:003,U.S. Senate,,John Mangelli,,3
+Ontario,CanandaiguaT W:000 D:004,U.S. Senate,,John Mangelli,,0
+Ontario,CanandaiguaT W:000 D:005,U.S. Senate,,John Mangelli,,2
+Ontario,CanandaiguaT W:000 D:006,U.S. Senate,,John Mangelli,,1
+Ontario,CanandaiguaT W:000 D:007,U.S. Senate,,John Mangelli,,4
+Ontario,City Cdga W:001 D:001,U.S. Senate,,John Mangelli,,6
+Ontario,City Cdga W:001 D:002,U.S. Senate,,John Mangelli,,4
+Ontario,City Cdga W:002 D:001,U.S. Senate,,John Mangelli,,2
+Ontario,City Cdga W:002 D:002,U.S. Senate,,John Mangelli,,4
+Ontario,City Cdga W:003 D:001,U.S. Senate,,John Mangelli,,2
+Ontario,City Cdga W:003 D:002,U.S. Senate,,John Mangelli,,2
+Ontario,City Cdga W:004 D:001,U.S. Senate,,John Mangelli,,0
+Ontario,City Cdga W:004 D:002,U.S. Senate,,John Mangelli,,1
+Ontario,City Geneva W:001 D:001,U.S. Senate,,John Mangelli,,2
+Ontario,City Geneva W:001 D:002,U.S. Senate,,John Mangelli,,1
+Ontario,City Geneva W:002 D:001,U.S. Senate,,John Mangelli,,3
+Ontario,City Geneva W:002 D:002,U.S. Senate,,John Mangelli,,6
+Ontario,City Geneva W:003 D:001,U.S. Senate,,John Mangelli,,2
+Ontario,City Geneva W:003 D:002,U.S. Senate,,John Mangelli,,3
+Ontario,City Geneva W:004 D:001,U.S. Senate,,John Mangelli,,4
+Ontario,City Geneva W:004 D:002,U.S. Senate,,John Mangelli,,2
+Ontario,City Geneva W:005 D:001,U.S. Senate,,John Mangelli,,1
+Ontario,City Geneva W:005 D:002,U.S. Senate,,John Mangelli,,3
+Ontario,City Geneva W:006 D:001,U.S. Senate,,John Mangelli,,4
+Ontario,City Geneva W:006 D:002,U.S. Senate,,John Mangelli,,2
+Ontario,E.Bloomfield W:000 D:001,U.S. Senate,,John Mangelli,,2
+Ontario,E.Bloomfield W:000 D:002,U.S. Senate,,John Mangelli,,2
+Ontario,E.Bloomfield W:000 D:003,U.S. Senate,,John Mangelli,,1
+Ontario,Farmington W:000 D:001,U.S. Senate,,John Mangelli,,1
+Ontario,Farmington W:000 D:002,U.S. Senate,,John Mangelli,,0
+Ontario,Farmington W:000 D:003,U.S. Senate,,John Mangelli,,3
+Ontario,Farmington W:000 D:004,U.S. Senate,,John Mangelli,,9
+Ontario,Farmington W:000 D:005,U.S. Senate,,John Mangelli,,0
+Ontario,Farmington W:000 D:006,U.S. Senate,,John Mangelli,,4
+Ontario,Farmington W:000 D:007,U.S. Senate,,John Mangelli,,2
+Ontario,Farmington W:000 D:008,U.S. Senate,,John Mangelli,,1
+Ontario,Farmington W:000 D:009,U.S. Senate,,John Mangelli,,4
+Ontario,Farmington W:000 D:010,U.S. Senate,,John Mangelli,,2
+Ontario,GenevaT W:000 D:001,U.S. Senate,,John Mangelli,,4
+Ontario,GenevaT W:000 D:002,U.S. Senate,,John Mangelli,,3
+Ontario,GenevaT W:000 D:003,U.S. Senate,,John Mangelli,,4
+Ontario,Gorham W:000 D:001,U.S. Senate,,John Mangelli,,4
+Ontario,Gorham W:000 D:002,U.S. Senate,,John Mangelli,,3
+Ontario,Gorham W:000 D:003,U.S. Senate,,John Mangelli,,0
+Ontario,Gorham W:000 D:004,U.S. Senate,,John Mangelli,,1
+Ontario,Hopewell W:000 D:001,U.S. Senate,,John Mangelli,,4
+Ontario,Hopewell W:000 D:002,U.S. Senate,,John Mangelli,,4
+Ontario,Hopewell W:000 D:003,U.S. Senate,,John Mangelli,,1
+Ontario,Manchester W:000 D:001,U.S. Senate,,John Mangelli,,4
+Ontario,Manchester W:000 D:002,U.S. Senate,,John Mangelli,,1
+Ontario,Manchester W:000 D:003,U.S. Senate,,John Mangelli,,2
+Ontario,Manchester W:000 D:004,U.S. Senate,,John Mangelli,,3
+Ontario,Manchester W:000 D:005,U.S. Senate,,John Mangelli,,0
+Ontario,Manchester W:000 D:006,U.S. Senate,,John Mangelli,,2
+Ontario,Manchester W:000 D:007,U.S. Senate,,John Mangelli,,0
+Ontario,Manchester W:000 D:008,U.S. Senate,,John Mangelli,,1
+Ontario,Naples W:000 D:001,U.S. Senate,,John Mangelli,,2
+Ontario,Naples W:000 D:002,U.S. Senate,,John Mangelli,,3
+Ontario,Phelps W:000 D:001,U.S. Senate,,John Mangelli,,1
+Ontario,Phelps W:000 D:002,U.S. Senate,,John Mangelli,,1
+Ontario,Phelps W:000 D:003,U.S. Senate,,John Mangelli,,1
+Ontario,Phelps W:000 D:004,U.S. Senate,,John Mangelli,,1
+Ontario,Phelps W:000 D:005,U.S. Senate,,John Mangelli,,0
+Ontario,Phelps W:000 D:006,U.S. Senate,,John Mangelli,,1
+Ontario,Richmond W:000 D:001,U.S. Senate,,John Mangelli,,3
+Ontario,Richmond W:000 D:002,U.S. Senate,,John Mangelli,,0
+Ontario,Richmond W:000 D:003,U.S. Senate,,John Mangelli,,3
+Ontario,S Bristol W:000 D:001,U.S. Senate,,John Mangelli,,4
+Ontario,S Bristol W:000 D:002,U.S. Senate,,John Mangelli,,2
+Ontario,Seneca W:000 D:001,U.S. Senate,,John Mangelli,,3
+Ontario,Seneca W:000 D:002,U.S. Senate,,John Mangelli,,2
+Ontario,Seneca W:000 D:003,U.S. Senate,,John Mangelli,,0
+Ontario,Victor W:000 D:001,U.S. Senate,,John Mangelli,,2
+Ontario,Victor W:000 D:002,U.S. Senate,,John Mangelli,,1
+Ontario,Victor W:000 D:003,U.S. Senate,,John Mangelli,,3
+Ontario,Victor W:000 D:004,U.S. Senate,,John Mangelli,,0
+Ontario,Victor W:000 D:005,U.S. Senate,,John Mangelli,,3
+Ontario,Victor W:000 D:006,U.S. Senate,,John Mangelli,,0
+Ontario,Victor W:000 D:007,U.S. Senate,,John Mangelli,,1
+Ontario,Victor W:000 D:008,U.S. Senate,,John Mangelli,,2
+Ontario,Victor W:000 D:009,U.S. Senate,,John Mangelli,,0
+Ontario,Victor W:000 D:010,U.S. Senate,,John Mangelli,,1
+Ontario,Victor W:000 D:011,U.S. Senate,,John Mangelli,,0
+Ontario,Victor W:000 D:012,U.S. Senate,,John Mangelli,,1
+Ontario,W.Bloomfield W:000 D:001,U.S. Senate,,John Mangelli,,3
+Ontario,W.Bloomfield W:000 D:002,U.S. Senate,,John Mangelli,,4
+Ontario,Total,U.S. Senate,,John Mangelli,,203
+Ontario,Bristol W:000 D:001,U.S. House,27,Kathy C. Hochu,,184
+Ontario,Bristol W:000 D:002,U.S. House,27,Kathy C. Hochu,,316
+Ontario,Canadice W:000 D:001,U.S. House,27,Kathy C. Hochu,,231
+Ontario,Canadice W:000 D:002,U.S. House,27,Kathy C. Hochu,,167
+Ontario,CanandaiguaT W:000 D:001,U.S. House,27,Kathy C. Hochu,,275
+Ontario,CanandaiguaT W:000 D:002,U.S. House,27,Kathy C. Hochu,,366
+Ontario,CanandaiguaT W:000 D:003,U.S. House,27,Kathy C. Hochu,,481
+Ontario,CanandaiguaT W:000 D:004,U.S. House,27,Kathy C. Hochu,,333
+Ontario,CanandaiguaT W:000 D:005,U.S. House,27,Kathy C. Hochu,,412
+Ontario,CanandaiguaT W:000 D:006,U.S. House,27,Kathy C. Hochu,,245
+Ontario,CanandaiguaT W:000 D:007,U.S. House,27,Kathy C. Hochu,,243
+Ontario,City Cdga W:001 D:001,U.S. House,27,Kathy C. Hochu,,291
+Ontario,City Cdga W:001 D:002,U.S. House,27,Kathy C. Hochu,,417
+Ontario,City Cdga W:002 D:001,U.S. House,27,Kathy C. Hochu,,198
+Ontario,City Cdga W:002 D:002,U.S. House,27,Kathy C. Hochu,,251
+Ontario,City Cdga W:003 D:001,U.S. House,27,Kathy C. Hochu,,313
+Ontario,City Cdga W:003 D:002,U.S. House,27,Kathy C. Hochu,,347
+Ontario,City Cdga W:004 D:001,U.S. House,27,Kathy C. Hochu,,303
+Ontario,City Cdga W:004 D:002,U.S. House,27,Kathy C. Hochu,,439
+Ontario,E.Bloomfield W:000 D:001,U.S. House,27,Kathy C. Hochu,,236
+Ontario,E.Bloomfield W:000 D:002,U.S. House,27,Kathy C. Hochu,,273
+Ontario,E.Bloomfield W:000 D:003,U.S. House,27,Kathy C. Hochu,,258
+Ontario,Farmington W:000 D:001,U.S. House,27,Kathy C. Hochu,,280
+Ontario,Farmington W:000 D:002,U.S. House,27,Kathy C. Hochu,,334
+Ontario,Farmington W:000 D:003,U.S. House,27,Kathy C. Hochu,,255
+Ontario,Farmington W:000 D:004,U.S. House,27,Kathy C. Hochu,,301
+Ontario,Farmington W:000 D:005,U.S. House,27,Kathy C. Hochu,,177
+Ontario,Farmington W:000 D:006,U.S. House,27,Kathy C. Hochu,,289
+Ontario,Farmington W:000 D:007,U.S. House,27,Kathy C. Hochu,,308
+Ontario,Farmington W:000 D:008,U.S. House,27,Kathy C. Hochu,,244
+Ontario,Farmington W:000 D:009,U.S. House,27,Kathy C. Hochu,,199
+Ontario,Farmington W:000 D:010,U.S. House,27,Kathy C. Hochu,,86
+Ontario,Naples W:000 D:002,U.S. House,27,Kathy C. Hochu,,247
+Ontario,Richmond W:000 D:001,U.S. House,27,Kathy C. Hochu,,248
+Ontario,Richmond W:000 D:002,U.S. House,27,Kathy C. Hochu,,225
+Ontario,Richmond W:000 D:003,U.S. House,27,Kathy C. Hochu,,292
+Ontario,S Bristol W:000 D:001,U.S. House,27,Kathy C. Hochu,,199
+Ontario,S Bristol W:000 D:002,U.S. House,27,Kathy C. Hochu,,253
+Ontario,Victor W:000 D:001,U.S. House,27,Kathy C. Hochu,,261
+Ontario,Victor W:000 D:002,U.S. House,27,Kathy C. Hochu,,250
+Ontario,Victor W:000 D:003,U.S. House,27,Kathy C. Hochu,,264
+Ontario,Victor W:000 D:004,U.S. House,27,Kathy C. Hochu,,241
+Ontario,Victor W:000 D:005,U.S. House,27,Kathy C. Hochu,,380
+Ontario,Victor W:000 D:006,U.S. House,27,Kathy C. Hochu,,312
+Ontario,Victor W:000 D:007,U.S. House,27,Kathy C. Hochu,,302
+Ontario,Victor W:000 D:008,U.S. House,27,Kathy C. Hochu,,356
+Ontario,Victor W:000 D:009,U.S. House,27,Kathy C. Hochu,,302
+Ontario,Victor W:000 D:010,U.S. House,27,Kathy C. Hochu,,267
+Ontario,Victor W:000 D:011,U.S. House,27,Kathy C. Hochu,,211
+Ontario,Victor W:000 D:012,U.S. House,27,Kathy C. Hochu,,273
+Ontario,W.Bloomfield W:000 D:001,U.S. House,27,Kathy C. Hochu,,307
+Ontario,W.Bloomfield W:000 D:002,U.S. House,27,Kathy C. Hochu,,268
+Ontario,Total,U.S. House,27,Kathy C. Hochu,,14510
+Ontario,Bristol W:000 D:001,U.S. House,27,Chris Collins,,230
+Ontario,Bristol W:000 D:002,U.S. House,27,Chris Collins,,350
+Ontario,Canadice W:000 D:001,U.S. House,27,Chris Collins,,237
+Ontario,Canadice W:000 D:002,U.S. House,27,Chris Collins,,180
+Ontario,CanandaiguaT W:000 D:001,U.S. House,27,Chris Collins,,193
+Ontario,CanandaiguaT W:000 D:002,U.S. House,27,Chris Collins,,347
+Ontario,CanandaiguaT W:000 D:003,U.S. House,27,Chris Collins,,489
+Ontario,CanandaiguaT W:000 D:004,U.S. House,27,Chris Collins,,410
+Ontario,CanandaiguaT W:000 D:005,U.S. House,27,Chris Collins,,432
+Ontario,CanandaiguaT W:000 D:006,U.S. House,27,Chris Collins,,244
+Ontario,CanandaiguaT W:000 D:007,U.S. House,27,Chris Collins,,311
+Ontario,City Cdga W:001 D:001,U.S. House,27,Chris Collins,,229
+Ontario,City Cdga W:001 D:002,U.S. House,27,Chris Collins,,260
+Ontario,City Cdga W:002 D:001,U.S. House,27,Chris Collins,,98
+Ontario,City Cdga W:002 D:002,U.S. House,27,Chris Collins,,147
+Ontario,City Cdga W:003 D:001,U.S. House,27,Chris Collins,,181
+Ontario,City Cdga W:003 D:002,U.S. House,27,Chris Collins,,242
+Ontario,City Cdga W:004 D:001,U.S. House,27,Chris Collins,,215
+Ontario,City Cdga W:004 D:002,U.S. House,27,Chris Collins,,272
+Ontario,E.Bloomfield W:000 D:001,U.S. House,27,Chris Collins,,344
+Ontario,E.Bloomfield W:000 D:002,U.S. House,27,Chris Collins,,292
+Ontario,E.Bloomfield W:000 D:003,U.S. House,27,Chris Collins,,256
+Ontario,Farmington W:000 D:001,U.S. House,27,Chris Collins,,321
+Ontario,Farmington W:000 D:002,U.S. House,27,Chris Collins,,320
+Ontario,Farmington W:000 D:003,U.S. House,27,Chris Collins,,184
+Ontario,Farmington W:000 D:004,U.S. House,27,Chris Collins,,296
+Ontario,Farmington W:000 D:005,U.S. House,27,Chris Collins,,145
+Ontario,Farmington W:000 D:006,U.S. House,27,Chris Collins,,283
+Ontario,Farmington W:000 D:007,U.S. House,27,Chris Collins,,252
+Ontario,Farmington W:000 D:008,U.S. House,27,Chris Collins,,218
+Ontario,Farmington W:000 D:009,U.S. House,27,Chris Collins,,186
+Ontario,Farmington W:000 D:010,U.S. House,27,Chris Collins,,159
+Ontario,Naples W:000 D:002,U.S. House,27,Chris Collins,,257
+Ontario,Richmond W:000 D:001,U.S. House,27,Chris Collins,,227
+Ontario,Richmond W:000 D:002,U.S. House,27,Chris Collins,,249
+Ontario,Richmond W:000 D:003,U.S. House,27,Chris Collins,,341
+Ontario,S Bristol W:000 D:001,U.S. House,27,Chris Collins,,225
+Ontario,S Bristol W:000 D:002,U.S. House,27,Chris Collins,,237
+Ontario,Victor W:000 D:001,U.S. House,27,Chris Collins,,343
+Ontario,Victor W:000 D:002,U.S. House,27,Chris Collins,,450
+Ontario,Victor W:000 D:003,U.S. House,27,Chris Collins,,292
+Ontario,Victor W:000 D:004,U.S. House,27,Chris Collins,,270
+Ontario,Victor W:000 D:005,U.S. House,27,Chris Collins,,417
+Ontario,Victor W:000 D:006,U.S. House,27,Chris Collins,,341
+Ontario,Victor W:000 D:007,U.S. House,27,Chris Collins,,246
+Ontario,Victor W:000 D:008,U.S. House,27,Chris Collins,,252
+Ontario,Victor W:000 D:009,U.S. House,27,Chris Collins,,398
+Ontario,Victor W:000 D:010,U.S. House,27,Chris Collins,,312
+Ontario,Victor W:000 D:011,U.S. House,27,Chris Collins,,223
+Ontario,Victor W:000 D:012,U.S. House,27,Chris Collins,,241
+Ontario,W.Bloomfield W:000 D:001,U.S. House,27,Chris Collins,,329
+Ontario,W.Bloomfield W:000 D:002,U.S. House,27,Chris Collins,,269
+Ontario,Total,U.S. House,27,Chris Collins,,14242
+Ontario,City Geneva W:001 D:001,U.S. House,23,Nate Shinagawa,,219
+Ontario,City Geneva W:001 D:002,U.S. House,23,Nate Shinagawa,,182
+Ontario,City Geneva W:002 D:001,U.S. House,23,Nate Shinagawa,,271
+Ontario,City Geneva W:002 D:002,U.S. House,23,Nate Shinagawa,,262
+Ontario,City Geneva W:003 D:001,U.S. House,23,Nate Shinagawa,,262
+Ontario,City Geneva W:003 D:002,U.S. House,23,Nate Shinagawa,,383
+Ontario,City Geneva W:004 D:001,U.S. House,23,Nate Shinagawa,,182
+Ontario,City Geneva W:004 D:002,U.S. House,23,Nate Shinagawa,,268
+Ontario,City Geneva W:005 D:001,U.S. House,23,Nate Shinagawa,,164
+Ontario,City Geneva W:005 D:002,U.S. House,23,Nate Shinagawa,,150
+Ontario,City Geneva W:006 D:001,U.S. House,23,Nate Shinagawa,,205
+Ontario,City Geneva W:006 D:002,U.S. House,23,Nate Shinagawa,,152
+Ontario,GenevaT W:000 D:001,U.S. House,23,Nate Shinagawa,,273
+Ontario,GenevaT W:000 D:002,U.S. House,23,Nate Shinagawa,,291
+Ontario,GenevaT W:000 D:003,U.S. House,23,Nate Shinagawa,,341
+Ontario,Gorham W:000 D:001,U.S. House,23,Nate Shinagawa,,173
+Ontario,Gorham W:000 D:002,U.S. House,23,Nate Shinagawa,,148
+Ontario,Gorham W:000 D:003,U.S. House,23,Nate Shinagawa,,196
+Ontario,Gorham W:000 D:004,U.S. House,23,Nate Shinagawa,,152
+Ontario,Hopewell W:000 D:001,U.S. House,23,Nate Shinagawa,,158
+Ontario,Hopewell W:000 D:002,U.S. House,23,Nate Shinagawa,,149
+Ontario,Hopewell W:000 D:003,U.S. House,23,Nate Shinagawa,,146
+Ontario,Manchester W:000 D:001,U.S. House,23,Nate Shinagawa,,279
+Ontario,Manchester W:000 D:002,U.S. House,23,Nate Shinagawa,,148
+Ontario,Manchester W:000 D:003,U.S. House,23,Nate Shinagawa,,164
+Ontario,Manchester W:000 D:004,U.S. House,23,Nate Shinagawa,,115
+Ontario,Manchester W:000 D:005,U.S. House,23,Nate Shinagawa,,104
+Ontario,Manchester W:000 D:006,U.S. House,23,Nate Shinagawa,,151
+Ontario,Manchester W:000 D:007,U.S. House,23,Nate Shinagawa,,147
+Ontario,Manchester W:000 D:008,U.S. House,23,Nate Shinagawa,,145
+Ontario,Naples W:000 D:001,U.S. House,23,Nate Shinagawa,,268
+Ontario,Phelps W:000 D:001,U.S. House,23,Nate Shinagawa,,244
+Ontario,Phelps W:000 D:002,U.S. House,23,Nate Shinagawa,,145
+Ontario,Phelps W:000 D:003,U.S. House,23,Nate Shinagawa,,191
+Ontario,Phelps W:000 D:004,U.S. House,23,Nate Shinagawa,,187
+Ontario,Phelps W:000 D:005,U.S. House,23,Nate Shinagawa,,163
+Ontario,Phelps W:000 D:006,U.S. House,23,Nate Shinagawa,,124
+Ontario,Seneca W:000 D:001,U.S. House,23,Nate Shinagawa,,113
+Ontario,Seneca W:000 D:002,U.S. House,23,Nate Shinagawa,,150
+Ontario,Seneca W:000 D:003,U.S. House,23,Nate Shinagawa,,177
+Ontario,Total,U.S. House,23,Nate Shinagawa,,7742
+Ontario,City Geneva W:001 D:001,U.S. House,23,Thomas W. Reed II,,84
+Ontario,City Geneva W:001 D:002,U.S. House,23,Thomas W. Reed II,,66
+Ontario,City Geneva W:002 D:001,U.S. House,23,Thomas W. Reed II,,174
+Ontario,City Geneva W:002 D:002,U.S. House,23,Thomas W. Reed II,,223
+Ontario,City Geneva W:003 D:001,U.S. House,23,Thomas W. Reed II,,116
+Ontario,City Geneva W:003 D:002,U.S. House,23,Thomas W. Reed II,,196
+Ontario,City Geneva W:004 D:001,U.S. House,23,Thomas W. Reed II,,122
+Ontario,City Geneva W:004 D:002,U.S. House,23,Thomas W. Reed II,,116
+Ontario,City Geneva W:005 D:001,U.S. House,23,Thomas W. Reed II,,55
+Ontario,City Geneva W:005 D:002,U.S. House,23,Thomas W. Reed II,,55
+Ontario,City Geneva W:006 D:001,U.S. House,23,Thomas W. Reed II,,51
+Ontario,City Geneva W:006 D:002,U.S. House,23,Thomas W. Reed II,,49
+Ontario,GenevaT W:000 D:001,U.S. House,23,Thomas W. Reed II,,227
+Ontario,GenevaT W:000 D:002,U.S. House,23,Thomas W. Reed II,,224
+Ontario,GenevaT W:000 D:003,U.S. House,23,Thomas W. Reed II,,301
+Ontario,Gorham W:000 D:001,U.S. House,23,Thomas W. Reed II,,298
+Ontario,Gorham W:000 D:002,U.S. House,23,Thomas W. Reed II,,298
+Ontario,Gorham W:000 D:003,U.S. House,23,Thomas W. Reed II,,262
+Ontario,Gorham W:000 D:004,U.S. House,23,Thomas W. Reed II,,266
+Ontario,Hopewell W:000 D:001,U.S. House,23,Thomas W. Reed II,,225
+Ontario,Hopewell W:000 D:002,U.S. House,23,Thomas W. Reed II,,315
+Ontario,Hopewell W:000 D:003,U.S. House,23,Thomas W. Reed II,,253
+Ontario,Manchester W:000 D:001,U.S. House,23,Thomas W. Reed II,,333
+Ontario,Manchester W:000 D:002,U.S. House,23,Thomas W. Reed II,,247
+Ontario,Manchester W:000 D:003,U.S. House,23,Thomas W. Reed II,,332
+Ontario,Manchester W:000 D:004,U.S. House,23,Thomas W. Reed II,,266
+Ontario,Manchester W:000 D:005,U.S. House,23,Thomas W. Reed II,,185
+Ontario,Manchester W:000 D:006,U.S. House,23,Thomas W. Reed II,,207
+Ontario,Manchester W:000 D:007,U.S. House,23,Thomas W. Reed II,,192
+Ontario,Manchester W:000 D:008,U.S. House,23,Thomas W. Reed II,,226
+Ontario,Naples W:000 D:001,U.S. House,23,Thomas W. Reed II,,332
+Ontario,Phelps W:000 D:001,U.S. House,23,Thomas W. Reed II,,251
+Ontario,Phelps W:000 D:002,U.S. House,23,Thomas W. Reed II,,310
+Ontario,Phelps W:000 D:003,U.S. House,23,Thomas W. Reed II,,244
+Ontario,Phelps W:000 D:004,U.S. House,23,Thomas W. Reed II,,307
+Ontario,Phelps W:000 D:005,U.S. House,23,Thomas W. Reed II,,259
+Ontario,Phelps W:000 D:006,U.S. House,23,Thomas W. Reed II,,256
+Ontario,Seneca W:000 D:001,U.S. House,23,Thomas W. Reed II,,194
+Ontario,Seneca W:000 D:002,U.S. House,23,Thomas W. Reed II,,266
+Ontario,Seneca W:000 D:003,U.S. House,23,Thomas W. Reed II,,275
+Ontario,Total,U.S. House,23,Thomas W. Reed II,,8658
+Ontario,Bristol W:000 D:001,State Senate,55,Ted OBrien,,146
+Ontario,Bristol W:000 D:002,State Senate,55,Ted OBrien,,242
+Ontario,Canadice W:000 D:001,State Senate,55,Ted OBrien,,173
+Ontario,Canadice W:000 D:002,State Senate,55,Ted OBrien,,142
+Ontario,E.Bloomfield W:000 D:001,State Senate,55,Ted OBrien,,164
+Ontario,E.Bloomfield W:000 D:002,State Senate,55,Ted OBrien,,197
+Ontario,E.Bloomfield W:000 D:003,State Senate,55,Ted OBrien,,194
+Ontario,Naples W:000 D:001,State Senate,55,Ted OBrien,,252
+Ontario,Naples W:000 D:002,State Senate,55,Ted OBrien,,194
+Ontario,Richmond W:000 D:001,State Senate,55,Ted OBrien,,180
+Ontario,Richmond W:000 D:002,State Senate,55,Ted OBrien,,166
+Ontario,Richmond W:000 D:003,State Senate,55,Ted OBrien,,217
+Ontario,S Bristol W:000 D:001,State Senate,55,Ted OBrien,,160
+Ontario,S Bristol W:000 D:002,State Senate,55,Ted OBrien,,209
+Ontario,Victor W:000 D:001,State Senate,55,Ted OBrien,,213
+Ontario,Victor W:000 D:002,State Senate,55,Ted OBrien,,200
+Ontario,Victor W:000 D:003,State Senate,55,Ted OBrien,,229
+Ontario,Victor W:000 D:004,State Senate,55,Ted OBrien,,177
+Ontario,Victor W:000 D:005,State Senate,55,Ted OBrien,,285
+Ontario,Victor W:000 D:006,State Senate,55,Ted OBrien,,238
+Ontario,Victor W:000 D:007,State Senate,55,Ted OBrien,,243
+Ontario,Victor W:000 D:008,State Senate,55,Ted OBrien,,289
+Ontario,Victor W:000 D:009,State Senate,55,Ted OBrien,,228
+Ontario,Victor W:000 D:010,State Senate,55,Ted OBrien,,221
+Ontario,Victor W:000 D:011,State Senate,55,Ted OBrien,,162
+Ontario,Victor W:000 D:012,State Senate,55,Ted OBrien,,205
+Ontario,W.Bloomfield W:000 D:001,State Senate,55,Ted OBrien,,221
+Ontario,W.Bloomfield W:000 D:002,State Senate,55,Ted OBrien,,197
+Ontario,Total,State Senate,55,Ted OBrien,,5744
+Ontario,Bristol W:000 D:001,State Senate,55,Sean T. Hanna,,262
+Ontario,Bristol W:000 D:002,State Senate,55,Sean T. Hanna,,408
+Ontario,Canadice W:000 D:001,State Senate,55,Sean T. Hanna,,287
+Ontario,Canadice W:000 D:002,State Senate,55,Sean T. Hanna,,199
+Ontario,E.Bloomfield W:000 D:001,State Senate,55,Sean T. Hanna,,413
+Ontario,E.Bloomfield W:000 D:002,State Senate,55,Sean T. Hanna,,353
+Ontario,E.Bloomfield W:000 D:003,State Senate,55,Sean T. Hanna,,308
+Ontario,Naples W:000 D:001,State Senate,55,Sean T. Hanna,,341
+Ontario,Naples W:000 D:002,State Senate,55,Sean T. Hanna,,304
+Ontario,Richmond W:000 D:001,State Senate,55,Sean T. Hanna,,289
+Ontario,Richmond W:000 D:002,State Senate,55,Sean T. Hanna,,299
+Ontario,Richmond W:000 D:003,State Senate,55,Sean T. Hanna,,397
+Ontario,S Bristol W:000 D:001,State Senate,55,Sean T. Hanna,,262
+Ontario,S Bristol W:000 D:002,State Senate,55,Sean T. Hanna,,274
+Ontario,Victor W:000 D:001,State Senate,55,Sean T. Hanna,,386
+Ontario,Victor W:000 D:002,State Senate,55,Sean T. Hanna,,490
+Ontario,Victor W:000 D:003,State Senate,55,Sean T. Hanna,,330
+Ontario,Victor W:000 D:004,State Senate,55,Sean T. Hanna,,324
+Ontario,Victor W:000 D:005,State Senate,55,Sean T. Hanna,,508
+Ontario,Victor W:000 D:006,State Senate,55,Sean T. Hanna,,410
+Ontario,Victor W:000 D:007,State Senate,55,Sean T. Hanna,,302
+Ontario,Victor W:000 D:008,State Senate,55,Sean T. Hanna,,310
+Ontario,Victor W:000 D:009,State Senate,55,Sean T. Hanna,,460
+Ontario,Victor W:000 D:010,State Senate,55,Sean T. Hanna,,352
+Ontario,Victor W:000 D:011,State Senate,55,Sean T. Hanna,,264
+Ontario,Victor W:000 D:012,State Senate,55,Sean T. Hanna,,304
+Ontario,W.Bloomfield W:000 D:001,State Senate,55,Sean T. Hanna,,409
+Ontario,W.Bloomfield W:000 D:002,State Senate,55,Sean T. Hanna,,340
+Ontario,Total,State Senate,55,Sean T. Hanna,,9585
+Ontario,CanandaiguaT W:000 D:001,State Senate,54,Michael F. Nozzolio,,351
+Ontario,CanandaiguaT W:000 D:002,State Senate,54,Michael F. Nozzolio,,572
+Ontario,CanandaiguaT W:000 D:003,State Senate,54,Michael F. Nozzolio,,744
+Ontario,CanandaiguaT W:000 D:004,State Senate,54,Michael F. Nozzolio,,617
+Ontario,CanandaiguaT W:000 D:005,State Senate,54,Michael F. Nozzolio,,662
+Ontario,CanandaiguaT W:000 D:006,State Senate,54,Michael F. Nozzolio,,352
+Ontario,CanandaiguaT W:000 D:007,State Senate,54,Michael F. Nozzolio,,454
+Ontario,City Cdga W:001 D:001,State Senate,54,Michael F. Nozzolio,,377
+Ontario,City Cdga W:001 D:002,State Senate,54,Michael F. Nozzolio,,478
+Ontario,City Cdga W:002 D:001,State Senate,54,Michael F. Nozzolio,,221
+Ontario,City Cdga W:002 D:002,State Senate,54,Michael F. Nozzolio,,311
+Ontario,City Cdga W:003 D:001,State Senate,54,Michael F. Nozzolio,,368
+Ontario,City Cdga W:003 D:002,State Senate,54,Michael F. Nozzolio,,412
+Ontario,City Cdga W:004 D:001,State Senate,54,Michael F. Nozzolio,,371
+Ontario,City Cdga W:004 D:002,State Senate,54,Michael F. Nozzolio,,535
+Ontario,City Geneva W:001 D:001,State Senate,54,Michael F. Nozzolio,,234
+Ontario,City Geneva W:001 D:002,State Senate,54,Michael F. Nozzolio,,166
+Ontario,City Geneva W:002 D:001,State Senate,54,Michael F. Nozzolio,,360
+Ontario,City Geneva W:002 D:002,State Senate,54,Michael F. Nozzolio,,417
+Ontario,City Geneva W:003 D:001,State Senate,54,Michael F. Nozzolio,,276
+Ontario,City Geneva W:003 D:002,State Senate,54,Michael F. Nozzolio,,475
+Ontario,City Geneva W:004 D:001,State Senate,54,Michael F. Nozzolio,,258
+Ontario,City Geneva W:004 D:002,State Senate,54,Michael F. Nozzolio,,296
+Ontario,City Geneva W:005 D:001,State Senate,54,Michael F. Nozzolio,,175
+Ontario,City Geneva W:005 D:002,State Senate,54,Michael F. Nozzolio,,139
+Ontario,City Geneva W:006 D:001,State Senate,54,Michael F. Nozzolio,,181
+Ontario,City Geneva W:006 D:002,State Senate,54,Michael F. Nozzolio,,172
+Ontario,Farmington W:000 D:001,State Senate,54,Michael F. Nozzolio,,520
+Ontario,Farmington W:000 D:002,State Senate,54,Michael F. Nozzolio,,541
+Ontario,Farmington W:000 D:003,State Senate,54,Michael F. Nozzolio,,336
+Ontario,Farmington W:000 D:004,State Senate,54,Michael F. Nozzolio,,491
+Ontario,Farmington W:000 D:005,State Senate,54,Michael F. Nozzolio,,261
+Ontario,Farmington W:000 D:006,State Senate,54,Michael F. Nozzolio,,460
+Ontario,Farmington W:000 D:007,State Senate,54,Michael F. Nozzolio,,454
+Ontario,Farmington W:000 D:008,State Senate,54,Michael F. Nozzolio,,374
+Ontario,Farmington W:000 D:009,State Senate,54,Michael F. Nozzolio,,309
+Ontario,Farmington W:000 D:010,State Senate,54,Michael F. Nozzolio,,223
+Ontario,GenevaT W:000 D:001,State Senate,54,Michael F. Nozzolio,,416
+Ontario,GenevaT W:000 D:002,State Senate,54,Michael F. Nozzolio,,435
+Ontario,GenevaT W:000 D:003,State Senate,54,Michael F. Nozzolio,,567
+Ontario,Gorham W:000 D:001,State Senate,54,Michael F. Nozzolio,,405
+Ontario,Gorham W:000 D:002,State Senate,54,Michael F. Nozzolio,,376
+Ontario,Gorham W:000 D:003,State Senate,54,Michael F. Nozzolio,,362
+Ontario,Gorham W:000 D:004,State Senate,54,Michael F. Nozzolio,,323
+Ontario,Hopewell W:000 D:001,State Senate,54,Michael F. Nozzolio,,327
+Ontario,Hopewell W:000 D:002,State Senate,54,Michael F. Nozzolio,,392
+Ontario,Hopewell W:000 D:003,State Senate,54,Michael F. Nozzolio,,322
+Ontario,Manchester W:000 D:001,State Senate,54,Michael F. Nozzolio,,514
+Ontario,Manchester W:000 D:002,State Senate,54,Michael F. Nozzolio,,329
+Ontario,Manchester W:000 D:003,State Senate,54,Michael F. Nozzolio,,438
+Ontario,Manchester W:000 D:004,State Senate,54,Michael F. Nozzolio,,341
+Ontario,Manchester W:000 D:005,State Senate,54,Michael F. Nozzolio,,232
+Ontario,Manchester W:000 D:006,State Senate,54,Michael F. Nozzolio,,298
+Ontario,Manchester W:000 D:007,State Senate,54,Michael F. Nozzolio,,284
+Ontario,Manchester W:000 D:008,State Senate,54,Michael F. Nozzolio,,327
+Ontario,Phelps W:000 D:001,State Senate,54,Michael F. Nozzolio,,419
+Ontario,Phelps W:000 D:002,State Senate,54,Michael F. Nozzolio,,421
+Ontario,Phelps W:000 D:003,State Senate,54,Michael F. Nozzolio,,391
+Ontario,Phelps W:000 D:004,State Senate,54,Michael F. Nozzolio,,443
+Ontario,Phelps W:000 D:005,State Senate,54,Michael F. Nozzolio,,392
+Ontario,Phelps W:000 D:006,State Senate,54,Michael F. Nozzolio,,388
+Ontario,Seneca W:000 D:001,State Senate,54,Michael F. Nozzolio,,275
+Ontario,Seneca W:000 D:002,State Senate,54,Michael F. Nozzolio,,383
+Ontario,Seneca W:000 D:003,State Senate,54,Michael F. Nozzolio,,410
+Ontario,Total,State Senate,54,Michael F. Nozzolio,,24153
+Ontario,Bristol W:000 D:001,State Assembly,131,Brian M. Kolb,,348
+Ontario,Bristol W:000 D:002,State Assembly,131,Brian M. Kolb,,557
+Ontario,Canadice W:000 D:001,State Assembly,131,Brian M. Kolb,,380
+Ontario,Canadice W:000 D:002,State Assembly,131,Brian M. Kolb,,277
+Ontario,CanandaiguaT W:000 D:001,State Assembly,131,Brian M. Kolb,,366
+Ontario,CanandaiguaT W:000 D:002,State Assembly,131,Brian M. Kolb,,596
+Ontario,CanandaiguaT W:000 D:003,State Assembly,131,Brian M. Kolb,,794
+Ontario,CanandaiguaT W:000 D:004,State Assembly,131,Brian M. Kolb,,639
+Ontario,CanandaiguaT W:000 D:005,State Assembly,131,Brian M. Kolb,,689
+Ontario,CanandaiguaT W:000 D:006,State Assembly,131,Brian M. Kolb,,385
+Ontario,CanandaiguaT W:000 D:007,State Assembly,131,Brian M. Kolb,,475
+Ontario,City Cdga W:001 D:001,State Assembly,131,Brian M. Kolb,,407
+Ontario,City Cdga W:001 D:002,State Assembly,131,Brian M. Kolb,,506
+Ontario,City Cdga W:002 D:001,State Assembly,131,Brian M. Kolb,,234
+Ontario,City Cdga W:002 D:002,State Assembly,131,Brian M. Kolb,,323
+Ontario,City Cdga W:003 D:001,State Assembly,131,Brian M. Kolb,,375
+Ontario,City Cdga W:003 D:002,State Assembly,131,Brian M. Kolb,,423
+Ontario,City Cdga W:004 D:001,State Assembly,131,Brian M. Kolb,,402
+Ontario,City Cdga W:004 D:002,State Assembly,131,Brian M. Kolb,,564
+Ontario,City Geneva W:001 D:001,State Assembly,131,Brian M. Kolb,,211
+Ontario,City Geneva W:001 D:002,State Assembly,131,Brian M. Kolb,,157
+Ontario,City Geneva W:002 D:001,State Assembly,131,Brian M. Kolb,,349
+Ontario,City Geneva W:002 D:002,State Assembly,131,Brian M. Kolb,,405
+Ontario,City Geneva W:003 D:001,State Assembly,131,Brian M. Kolb,,258
+Ontario,City Geneva W:003 D:002,State Assembly,131,Brian M. Kolb,,441
+Ontario,City Geneva W:004 D:001,State Assembly,131,Brian M. Kolb,,243
+Ontario,City Geneva W:004 D:002,State Assembly,131,Brian M. Kolb,,275
+Ontario,City Geneva W:005 D:001,State Assembly,131,Brian M. Kolb,,158
+Ontario,City Geneva W:005 D:002,State Assembly,131,Brian M. Kolb,,128
+Ontario,City Geneva W:006 D:001,State Assembly,131,Brian M. Kolb,,168
+Ontario,City Geneva W:006 D:002,State Assembly,131,Brian M. Kolb,,164
+Ontario,E.Bloomfield W:000 D:001,State Assembly,131,Brian M. Kolb,,484
+Ontario,E.Bloomfield W:000 D:002,State Assembly,131,Brian M. Kolb,,467
+Ontario,E.Bloomfield W:000 D:003,State Assembly,131,Brian M. Kolb,,385
+Ontario,Farmington W:000 D:001,State Assembly,131,Brian M. Kolb,,504
+Ontario,Farmington W:000 D:002,State Assembly,131,Brian M. Kolb,,536
+Ontario,Farmington W:000 D:003,State Assembly,131,Brian M. Kolb,,334
+Ontario,Farmington W:000 D:004,State Assembly,131,Brian M. Kolb,,492
+Ontario,Farmington W:000 D:005,State Assembly,131,Brian M. Kolb,,261
+Ontario,Farmington W:000 D:006,State Assembly,131,Brian M. Kolb,,468
+Ontario,Farmington W:000 D:007,State Assembly,131,Brian M. Kolb,,460
+Ontario,Farmington W:000 D:008,State Assembly,131,Brian M. Kolb,,374
+Ontario,Farmington W:000 D:009,State Assembly,131,Brian M. Kolb,,311
+Ontario,Farmington W:000 D:010,State Assembly,131,Brian M. Kolb,,218
+Ontario,GenevaT W:000 D:001,State Assembly,131,Brian M. Kolb,,396
+Ontario,GenevaT W:000 D:002,State Assembly,131,Brian M. Kolb,,405
+Ontario,GenevaT W:000 D:003,State Assembly,131,Brian M. Kolb,,557
+Ontario,Gorham W:000 D:001,State Assembly,131,Brian M. Kolb,,420
+Ontario,Gorham W:000 D:002,State Assembly,131,Brian M. Kolb,,387
+Ontario,Gorham W:000 D:003,State Assembly,131,Brian M. Kolb,,372
+Ontario,Gorham W:000 D:004,State Assembly,131,Brian M. Kolb,,344
+Ontario,Hopewell W:000 D:001,State Assembly,131,Brian M. Kolb,,330
+Ontario,Hopewell W:000 D:002,State Assembly,131,Brian M. Kolb,,414
+Ontario,Hopewell W:000 D:003,State Assembly,131,Brian M. Kolb,,334
+Ontario,Manchester W:000 D:001,State Assembly,131,Brian M. Kolb,,504
+Ontario,Manchester W:000 D:002,State Assembly,131,Brian M. Kolb,,323
+Ontario,Manchester W:000 D:003,State Assembly,131,Brian M. Kolb,,430
+Ontario,Manchester W:000 D:004,State Assembly,131,Brian M. Kolb,,335
+Ontario,Manchester W:000 D:005,State Assembly,131,Brian M. Kolb,,231
+Ontario,Manchester W:000 D:006,State Assembly,131,Brian M. Kolb,,297
+Ontario,Manchester W:000 D:007,State Assembly,131,Brian M. Kolb,,285
+Ontario,Manchester W:000 D:008,State Assembly,131,Brian M. Kolb,,331
+Ontario,Naples W:000 D:001,State Assembly,131,Brian M. Kolb,,471
+Ontario,Naples W:000 D:002,State Assembly,131,Brian M. Kolb,,384
+Ontario,Phelps W:000 D:001,State Assembly,131,Brian M. Kolb,,397
+Ontario,Phelps W:000 D:002,State Assembly,131,Brian M. Kolb,,407
+Ontario,Phelps W:000 D:003,State Assembly,131,Brian M. Kolb,,379
+Ontario,Phelps W:000 D:004,State Assembly,131,Brian M. Kolb,,428
+Ontario,Phelps W:000 D:005,State Assembly,131,Brian M. Kolb,,380
+Ontario,Phelps W:000 D:006,State Assembly,131,Brian M. Kolb,,379
+Ontario,Richmond W:000 D:001,State Assembly,131,Brian M. Kolb,,402
+Ontario,Richmond W:000 D:002,State Assembly,131,Brian M. Kolb,,398
+Ontario,Richmond W:000 D:003,State Assembly,131,Brian M. Kolb,,552
+Ontario,S Bristol W:000 D:001,State Assembly,131,Brian M. Kolb,,343
+Ontario,S Bristol W:000 D:002,State Assembly,131,Brian M. Kolb,,365
+Ontario,Seneca W:000 D:001,State Assembly,131,Brian M. Kolb,,282
+Ontario,Seneca W:000 D:002,State Assembly,131,Brian M. Kolb,,382
+Ontario,Seneca W:000 D:003,State Assembly,131,Brian M. Kolb,,390
+Ontario,Victor W:000 D:001,State Assembly,131,Brian M. Kolb,,461
+Ontario,Victor W:000 D:002,State Assembly,131,Brian M. Kolb,,570
+Ontario,Victor W:000 D:003,State Assembly,131,Brian M. Kolb,,415
+Ontario,Victor W:000 D:004,State Assembly,131,Brian M. Kolb,,412
+Ontario,Victor W:000 D:005,State Assembly,131,Brian M. Kolb,,601
+Ontario,Victor W:000 D:006,State Assembly,131,Brian M. Kolb,,513
+Ontario,Victor W:000 D:007,State Assembly,131,Brian M. Kolb,,418
+Ontario,Victor W:000 D:008,State Assembly,131,Brian M. Kolb,,430
+Ontario,Victor W:000 D:009,State Assembly,131,Brian M. Kolb,,571
+Ontario,Victor W:000 D:010,State Assembly,131,Brian M. Kolb,,455
+Ontario,Victor W:000 D:011,State Assembly,131,Brian M. Kolb,,324
+Ontario,Victor W:000 D:012,State Assembly,131,Brian M. Kolb,,406
+Ontario,W.Bloomfield W:000 D:001,State Assembly,131,Brian M. Kolb,,515
+Ontario,W.Bloomfield W:000 D:002,State Assembly,131,Brian M. Kolb,,438
+Ontario,Total,State Assembly,131,Brian M. Kolb,,36554

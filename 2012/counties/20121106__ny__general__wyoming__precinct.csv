@@ -1,0 +1,1764 @@
+county,precinct,office,district,party,candidate,votes
+Wyoming,Arcade 1,President,,DEM,Barack Obama,214
+Wyoming,Arcade 2,President,,DEM,Barack Obama,84
+Wyoming,Arcade 3,President,,DEM,Barack Obama,101
+Wyoming,Arcade 4,President,,DEM,Barack Obama,168
+Wyoming,Attica 1,President,,DEM,Barack Obama,105
+Wyoming,Attica 2,President,,DEM,Barack Obama,91
+Wyoming,Attica 3,President,,DEM,Barack Obama,169
+Wyoming,Attica 4,President,,DEM,Barack Obama,111
+Wyoming,Bennington 1,President,,DEM,Barack Obama,159
+Wyoming,Bennington 2,President,,DEM,Barack Obama,179
+Wyoming,Bennington 3,President,,DEM,Barack Obama,149
+Wyoming,Castile 1,President,,DEM,Barack Obama,127
+Wyoming,Castile 2,President,,DEM,Barack Obama,199
+Wyoming,Castile 3,President,,DEM,Barack Obama,135
+Wyoming,Covington 1,President,,DEM,Barack Obama,147
+Wyoming,Eagle 1,President,,DEM,Barack Obama,180
+Wyoming,Gainesville 1,President,,DEM,Barack Obama,55
+Wyoming,Gainesville 2,President,,DEM,Barack Obama,111
+Wyoming,Gainesville 3,President,,DEM,Barack Obama,99
+Wyoming,Gainesville 4,President,,DEM,Barack Obama,70
+Wyoming,Genesee Falls 1,President,,DEM,Barack Obama,70
+Wyoming,Java 1,President,,DEM,Barack Obama,160
+Wyoming,Java 2,President,,DEM,Barack Obama,134
+Wyoming,Middlebury 1,President,,DEM,Barack Obama,107
+Wyoming,Middlebury 2,President,,DEM,Barack Obama,56
+Wyoming,Orangeville 1,President,,DEM,Barack Obama,190
+Wyoming,Perry 1,President,,DEM,Barack Obama,162
+Wyoming,Perry 2,President,,DEM,Barack Obama,115
+Wyoming,Perry 3,President,,DEM,Barack Obama,201
+Wyoming,Perry 4,President,,DEM,Barack Obama,192
+Wyoming,Pike 1,President,,DEM,Barack Obama,120
+Wyoming,Sheldon 1,President,,DEM,Barack Obama,84
+Wyoming,Sheldon 2,President,,DEM,Barack Obama,144
+Wyoming,Sheldon 3,President,,DEM,Barack Obama,115
+Wyoming,Warsaw 1,President,,DEM,Barack Obama,118
+Wyoming,Warsaw 2,President,,DEM,Barack Obama,142
+Wyoming,Warsaw 3,President,,DEM,Barack Obama,146
+Wyoming,Warsaw 4,President,,DEM,Barack Obama,153
+Wyoming,Warsaw 5,President,,DEM,Barack Obama,185
+Wyoming,Wethersfield 1,President,,DEM,Barack Obama,110
+Wyoming,Total,President,,DEM,Barack Obama,5357
+Wyoming,Arcade 1,President,,REP,Mitt Romney,267
+Wyoming,Arcade 2,President,,REP,Mitt Romney,180
+Wyoming,Arcade 3,President,,REP,Mitt Romney,175
+Wyoming,Arcade 4,President,,REP,Mitt Romney,285
+Wyoming,Attica 1,President,,REP,Mitt Romney,264
+Wyoming,Attica 2,President,,REP,Mitt Romney,201
+Wyoming,Attica 3,President,,REP,Mitt Romney,278
+Wyoming,Attica 4,President,,REP,Mitt Romney,328
+Wyoming,Bennington 1,President,,REP,Mitt Romney,251
+Wyoming,Bennington 2,President,,REP,Mitt Romney,328
+Wyoming,Bennington 3,President,,REP,Mitt Romney,314
+Wyoming,Castile 1,President,,REP,Mitt Romney,228
+Wyoming,Castile 2,President,,REP,Mitt Romney,256
+Wyoming,Castile 3,President,,REP,Mitt Romney,176
+Wyoming,Covington 1,President,,REP,Mitt Romney,320
+Wyoming,Eagle 1,President,,REP,Mitt Romney,293
+Wyoming,Gainesville 1,President,,REP,Mitt Romney,157
+Wyoming,Gainesville 2,President,,REP,Mitt Romney,109
+Wyoming,Gainesville 3,President,,REP,Mitt Romney,112
+Wyoming,Gainesville 4,President,,REP,Mitt Romney,135
+Wyoming,Genesee Falls 1,President,,REP,Mitt Romney,115
+Wyoming,Java 1,President,,REP,Mitt Romney,327
+Wyoming,Java 2,President,,REP,Mitt Romney,287
+Wyoming,Middlebury 1,President,,REP,Mitt Romney,255
+Wyoming,Middlebury 2,President,,REP,Mitt Romney,142
+Wyoming,Orangeville 1,President,,REP,Mitt Romney,362
+Wyoming,Perry 1,President,,REP,Mitt Romney,346
+Wyoming,Perry 2,President,,REP,Mitt Romney,133
+Wyoming,Perry 3,President,,REP,Mitt Romney,198
+Wyoming,Perry 4,President,,REP,Mitt Romney,203
+Wyoming,Pike 1,President,,REP,Mitt Romney,258
+Wyoming,Sheldon 1,President,,REP,Mitt Romney,146
+Wyoming,Sheldon 2,President,,REP,Mitt Romney,325
+Wyoming,Sheldon 3,President,,REP,Mitt Romney,215
+Wyoming,Warsaw 1,President,,REP,Mitt Romney,200
+Wyoming,Warsaw 2,President,,REP,Mitt Romney,176
+Wyoming,Warsaw 3,President,,REP,Mitt Romney,222
+Wyoming,Warsaw 4,President,,REP,Mitt Romney,199
+Wyoming,Warsaw 5,President,,REP,Mitt Romney,274
+Wyoming,Wethersfield 1,President,,REP,Mitt Romney,208
+Wyoming,Total,President,,REP,Mitt Romney,9248
+Wyoming,Arcade 1,President,,CON,Mitt Romney,26
+Wyoming,Arcade 2,President,,CON,Mitt Romney,28
+Wyoming,Arcade 3,President,,CON,Mitt Romney,27
+Wyoming,Arcade 4,President,,CON,Mitt Romney,32
+Wyoming,Attica 1,President,,CON,Mitt Romney,26
+Wyoming,Attica 2,President,,CON,Mitt Romney,13
+Wyoming,Attica 3,President,,CON,Mitt Romney,24
+Wyoming,Attica 4,President,,CON,Mitt Romney,46
+Wyoming,Bennington 1,President,,CON,Mitt Romney,52
+Wyoming,Bennington 2,President,,CON,Mitt Romney,47
+Wyoming,Bennington 3,President,,CON,Mitt Romney,59
+Wyoming,Castile 1,President,,CON,Mitt Romney,23
+Wyoming,Castile 2,President,,CON,Mitt Romney,26
+Wyoming,Castile 3,President,,CON,Mitt Romney,17
+Wyoming,Covington 1,President,,CON,Mitt Romney,22
+Wyoming,Eagle 1,President,,CON,Mitt Romney,27
+Wyoming,Gainesville 1,President,,CON,Mitt Romney,8
+Wyoming,Gainesville 2,President,,CON,Mitt Romney,13
+Wyoming,Gainesville 3,President,,CON,Mitt Romney,11
+Wyoming,Gainesville 4,President,,CON,Mitt Romney,9
+Wyoming,Genesee Falls 1,President,,CON,Mitt Romney,7
+Wyoming,Java 1,President,,CON,Mitt Romney,42
+Wyoming,Java 2,President,,CON,Mitt Romney,43
+Wyoming,Middlebury 1,President,,CON,Mitt Romney,30
+Wyoming,Middlebury 2,President,,CON,Mitt Romney,20
+Wyoming,Orangeville 1,President,,CON,Mitt Romney,43
+Wyoming,Perry 1,President,,CON,Mitt Romney,38
+Wyoming,Perry 2,President,,CON,Mitt Romney,18
+Wyoming,Perry 3,President,,CON,Mitt Romney,24
+Wyoming,Perry 4,President,,CON,Mitt Romney,19
+Wyoming,Pike 1,President,,CON,Mitt Romney,31
+Wyoming,Sheldon 1,President,,CON,Mitt Romney,26
+Wyoming,Sheldon 2,President,,CON,Mitt Romney,53
+Wyoming,Sheldon 3,President,,CON,Mitt Romney,39
+Wyoming,Warsaw 1,President,,CON,Mitt Romney,19
+Wyoming,Warsaw 2,President,,CON,Mitt Romney,20
+Wyoming,Warsaw 3,President,,CON,Mitt Romney,22
+Wyoming,Warsaw 4,President,,CON,Mitt Romney,30
+Wyoming,Warsaw 5,President,,CON,Mitt Romney,24
+Wyoming,Wethersfield 1,President,,CON,Mitt Romney,16
+Wyoming,Total,President,,CON,Mitt Romney,1100
+Wyoming,Arcade 1,President,,WOR,Barack Obama,14
+Wyoming,Arcade 2,President,,WOR,Barack Obama,5
+Wyoming,Arcade 3,President,,WOR,Barack Obama,2
+Wyoming,Arcade 4,President,,WOR,Barack Obama,4
+Wyoming,Attica 1,President,,WOR,Barack Obama,7
+Wyoming,Attica 2,President,,WOR,Barack Obama,8
+Wyoming,Attica 3,President,,WOR,Barack Obama,10
+Wyoming,Attica 4,President,,WOR,Barack Obama,9
+Wyoming,Bennington 1,President,,WOR,Barack Obama,15
+Wyoming,Bennington 2,President,,WOR,Barack Obama,13
+Wyoming,Bennington 3,President,,WOR,Barack Obama,11
+Wyoming,Castile 1,President,,WOR,Barack Obama,7
+Wyoming,Castile 2,President,,WOR,Barack Obama,10
+Wyoming,Castile 3,President,,WOR,Barack Obama,6
+Wyoming,Covington 1,President,,WOR,Barack Obama,7
+Wyoming,Eagle 1,President,,WOR,Barack Obama,13
+Wyoming,Gainesville 1,President,,WOR,Barack Obama,4
+Wyoming,Gainesville 2,President,,WOR,Barack Obama,5
+Wyoming,Gainesville 3,President,,WOR,Barack Obama,3
+Wyoming,Gainesville 4,President,,WOR,Barack Obama,5
+Wyoming,Genesee Falls 1,President,,WOR,Barack Obama,2
+Wyoming,Java 1,President,,WOR,Barack Obama,9
+Wyoming,Java 2,President,,WOR,Barack Obama,8
+Wyoming,Middlebury 1,President,,WOR,Barack Obama,5
+Wyoming,Middlebury 2,President,,WOR,Barack Obama,1
+Wyoming,Orangeville 1,President,,WOR,Barack Obama,14
+Wyoming,Perry 1,President,,WOR,Barack Obama,6
+Wyoming,Perry 2,President,,WOR,Barack Obama,5
+Wyoming,Perry 3,President,,WOR,Barack Obama,11
+Wyoming,Perry 4,President,,WOR,Barack Obama,14
+Wyoming,Pike 1,President,,WOR,Barack Obama,7
+Wyoming,Sheldon 1,President,,WOR,Barack Obama,10
+Wyoming,Sheldon 2,President,,WOR,Barack Obama,6
+Wyoming,Sheldon 3,President,,WOR,Barack Obama,6
+Wyoming,Warsaw 1,President,,WOR,Barack Obama,5
+Wyoming,Warsaw 2,President,,WOR,Barack Obama,7
+Wyoming,Warsaw 3,President,,WOR,Barack Obama,12
+Wyoming,Warsaw 4,President,,WOR,Barack Obama,5
+Wyoming,Warsaw 5,President,,WOR,Barack Obama,5
+Wyoming,Wethersfield 1,President,,WOR,Barack Obama,8
+Wyoming,Total,President,,WOR,Barack Obama,304
+Wyoming,Arcade 1,President,,GRE,Jill Stein,2
+Wyoming,Arcade 2,President,,GRE,Jill Stein,3
+Wyoming,Arcade 3,President,,GRE,Jill Stein,2
+Wyoming,Arcade 4,President,,GRE,Jill Stein,1
+Wyoming,Attica 1,President,,GRE,Jill Stein,1
+Wyoming,Attica 2,President,,GRE,Jill Stein,1
+Wyoming,Attica 3,President,,GRE,Jill Stein,0
+Wyoming,Attica 4,President,,GRE,Jill Stein,0
+Wyoming,Bennington 1,President,,GRE,Jill Stein,2
+Wyoming,Bennington 2,President,,GRE,Jill Stein,4
+Wyoming,Bennington 3,President,,GRE,Jill Stein,3
+Wyoming,Castile 1,President,,GRE,Jill Stein,4
+Wyoming,Castile 2,President,,GRE,Jill Stein,9
+Wyoming,Castile 3,President,,GRE,Jill Stein,0
+Wyoming,Covington 1,President,,GRE,Jill Stein,2
+Wyoming,Eagle 1,President,,GRE,Jill Stein,1
+Wyoming,Gainesville 1,President,,GRE,Jill Stein,2
+Wyoming,Gainesville 2,President,,GRE,Jill Stein,1
+Wyoming,Gainesville 3,President,,GRE,Jill Stein,2
+Wyoming,Gainesville 4,President,,GRE,Jill Stein,2
+Wyoming,Genesee Falls 1,President,,GRE,Jill Stein,1
+Wyoming,Java 1,President,,GRE,Jill Stein,2
+Wyoming,Java 2,President,,GRE,Jill Stein,6
+Wyoming,Middlebury 1,President,,GRE,Jill Stein,5
+Wyoming,Middlebury 2,President,,GRE,Jill Stein,2
+Wyoming,Orangeville 1,President,,GRE,Jill Stein,2
+Wyoming,Perry 1,President,,GRE,Jill Stein,3
+Wyoming,Perry 2,President,,GRE,Jill Stein,2
+Wyoming,Perry 3,President,,GRE,Jill Stein,2
+Wyoming,Perry 4,President,,GRE,Jill Stein,5
+Wyoming,Pike 1,President,,GRE,Jill Stein,1
+Wyoming,Sheldon 1,President,,GRE,Jill Stein,3
+Wyoming,Sheldon 2,President,,GRE,Jill Stein,4
+Wyoming,Sheldon 3,President,,GRE,Jill Stein,6
+Wyoming,Warsaw 1,President,,GRE,Jill Stein,5
+Wyoming,Warsaw 2,President,,GRE,Jill Stein,0
+Wyoming,Warsaw 3,President,,GRE,Jill Stein,1
+Wyoming,Warsaw 4,President,,GRE,Jill Stein,1
+Wyoming,Warsaw 5,President,,GRE,Jill Stein,0
+Wyoming,Wethersfield 1,President,,GRE,Jill Stein,3
+Wyoming,Total,President,,GRE,Jill Stein,96
+Wyoming,Arcade 1,President,,SLP,Peta Lindsay,0
+Wyoming,Arcade 2,President,,SLP,Peta Lindsay,0
+Wyoming,Arcade 3,President,,SLP,Peta Lindsay,0
+Wyoming,Arcade 4,President,,SLP,Peta Lindsay,0
+Wyoming,Attica 1,President,,SLP,Peta Lindsay,0
+Wyoming,Attica 2,President,,SLP,Peta Lindsay,0
+Wyoming,Attica 3,President,,SLP,Peta Lindsay,0
+Wyoming,Attica 4,President,,SLP,Peta Lindsay,1
+Wyoming,Bennington 1,President,,SLP,Peta Lindsay,1
+Wyoming,Bennington 2,President,,SLP,Peta Lindsay,0
+Wyoming,Bennington 3,President,,SLP,Peta Lindsay,0
+Wyoming,Castile 1,President,,SLP,Peta Lindsay,0
+Wyoming,Castile 2,President,,SLP,Peta Lindsay,0
+Wyoming,Castile 3,President,,SLP,Peta Lindsay,0
+Wyoming,Covington 1,President,,SLP,Peta Lindsay,1
+Wyoming,Eagle 1,President,,SLP,Peta Lindsay,0
+Wyoming,Gainesville 1,President,,SLP,Peta Lindsay,0
+Wyoming,Gainesville 2,President,,SLP,Peta Lindsay,0
+Wyoming,Gainesville 3,President,,SLP,Peta Lindsay,0
+Wyoming,Gainesville 4,President,,SLP,Peta Lindsay,0
+Wyoming,Genesee Falls 1,President,,SLP,Peta Lindsay,0
+Wyoming,Java 1,President,,SLP,Peta Lindsay,0
+Wyoming,Java 2,President,,SLP,Peta Lindsay,0
+Wyoming,Middlebury 1,President,,SLP,Peta Lindsay,1
+Wyoming,Middlebury 2,President,,SLP,Peta Lindsay,0
+Wyoming,Orangeville 1,President,,SLP,Peta Lindsay,1
+Wyoming,Perry 1,President,,SLP,Peta Lindsay,0
+Wyoming,Perry 2,President,,SLP,Peta Lindsay,0
+Wyoming,Perry 3,President,,SLP,Peta Lindsay,0
+Wyoming,Perry 4,President,,SLP,Peta Lindsay,0
+Wyoming,Pike 1,President,,SLP,Peta Lindsay,0
+Wyoming,Sheldon 1,President,,SLP,Peta Lindsay,0
+Wyoming,Sheldon 2,President,,SLP,Peta Lindsay,0
+Wyoming,Sheldon 3,President,,SLP,Peta Lindsay,0
+Wyoming,Warsaw 1,President,,SLP,Peta Lindsay,0
+Wyoming,Warsaw 2,President,,SLP,Peta Lindsay,0
+Wyoming,Warsaw 3,President,,SLP,Peta Lindsay,0
+Wyoming,Warsaw 4,President,,SLP,Peta Lindsay,1
+Wyoming,Warsaw 5,President,,SLP,Peta Lindsay,0
+Wyoming,Wethersfield 1,President,,SLP,Peta Lindsay,0
+Wyoming,Total,President,,SLP,Peta Lindsay,6
+Wyoming,Arcade 1,President,,LIB,Gary Johnson,1
+Wyoming,Arcade 2,President,,LIB,Gary Johnson,1
+Wyoming,Arcade 3,President,,LIB,Gary Johnson,2
+Wyoming,Arcade 4,President,,LIB,Gary Johnson,3
+Wyoming,Attica 1,President,,LIB,Gary Johnson,6
+Wyoming,Attica 2,President,,LIB,Gary Johnson,2
+Wyoming,Attica 3,President,,LIB,Gary Johnson,5
+Wyoming,Attica 4,President,,LIB,Gary Johnson,3
+Wyoming,Bennington 1,President,,LIB,Gary Johnson,6
+Wyoming,Bennington 2,President,,LIB,Gary Johnson,3
+Wyoming,Bennington 3,President,,LIB,Gary Johnson,2
+Wyoming,Castile 1,President,,LIB,Gary Johnson,13
+Wyoming,Castile 2,President,,LIB,Gary Johnson,3
+Wyoming,Castile 3,President,,LIB,Gary Johnson,4
+Wyoming,Covington 1,President,,LIB,Gary Johnson,5
+Wyoming,Eagle 1,President,,LIB,Gary Johnson,1
+Wyoming,Gainesville 1,President,,LIB,Gary Johnson,1
+Wyoming,Gainesville 2,President,,LIB,Gary Johnson,0
+Wyoming,Gainesville 3,President,,LIB,Gary Johnson,2
+Wyoming,Gainesville 4,President,,LIB,Gary Johnson,2
+Wyoming,Genesee Falls 1,President,,LIB,Gary Johnson,3
+Wyoming,Java 1,President,,LIB,Gary Johnson,2
+Wyoming,Java 2,President,,LIB,Gary Johnson,3
+Wyoming,Middlebury 1,President,,LIB,Gary Johnson,6
+Wyoming,Middlebury 2,President,,LIB,Gary Johnson,3
+Wyoming,Orangeville 1,President,,LIB,Gary Johnson,6
+Wyoming,Perry 1,President,,LIB,Gary Johnson,6
+Wyoming,Perry 2,President,,LIB,Gary Johnson,1
+Wyoming,Perry 3,President,,LIB,Gary Johnson,3
+Wyoming,Perry 4,President,,LIB,Gary Johnson,4
+Wyoming,Pike 1,President,,LIB,Gary Johnson,2
+Wyoming,Sheldon 1,President,,LIB,Gary Johnson,2
+Wyoming,Sheldon 2,President,,LIB,Gary Johnson,3
+Wyoming,Sheldon 3,President,,LIB,Gary Johnson,9
+Wyoming,Warsaw 1,President,,LIB,Gary Johnson,3
+Wyoming,Warsaw 2,President,,LIB,Gary Johnson,6
+Wyoming,Warsaw 3,President,,LIB,Gary Johnson,2
+Wyoming,Warsaw 4,President,,LIB,Gary Johnson,0
+Wyoming,Warsaw 5,President,,LIB,Gary Johnson,5
+Wyoming,Wethersfield 1,President,,LIB,Gary Johnson,1
+Wyoming,Total,President,,LIB,Gary Johnson,135
+Wyoming,Arcade 1,President,,CON,Virgil Goode,1
+Wyoming,Arcade 2,President,,CON,Virgil Goode,1
+Wyoming,Arcade 3,President,,CON,Virgil Goode,0
+Wyoming,Arcade 4,President,,CON,Virgil Goode,2
+Wyoming,Attica 1,President,,CON,Virgil Goode,0
+Wyoming,Attica 2,President,,CON,Virgil Goode,2
+Wyoming,Attica 3,President,,CON,Virgil Goode,2
+Wyoming,Attica 4,President,,CON,Virgil Goode,2
+Wyoming,Bennington 1,President,,CON,Virgil Goode,1
+Wyoming,Bennington 2,President,,CON,Virgil Goode,1
+Wyoming,Bennington 3,President,,CON,Virgil Goode,3
+Wyoming,Castile 1,President,,CON,Virgil Goode,2
+Wyoming,Castile 2,President,,CON,Virgil Goode,3
+Wyoming,Castile 3,President,,CON,Virgil Goode,0
+Wyoming,Covington 1,President,,CON,Virgil Goode,3
+Wyoming,Eagle 1,President,,CON,Virgil Goode,0
+Wyoming,Gainesville 1,President,,CON,Virgil Goode,0
+Wyoming,Gainesville 2,President,,CON,Virgil Goode,1
+Wyoming,Gainesville 3,President,,CON,Virgil Goode,0
+Wyoming,Gainesville 4,President,,CON,Virgil Goode,0
+Wyoming,Genesee Falls 1,President,,CON,Virgil Goode,2
+Wyoming,Java 1,President,,CON,Virgil Goode,4
+Wyoming,Java 2,President,,CON,Virgil Goode,1
+Wyoming,Middlebury 1,President,,CON,Virgil Goode,1
+Wyoming,Middlebury 2,President,,CON,Virgil Goode,2
+Wyoming,Orangeville 1,President,,CON,Virgil Goode,3
+Wyoming,Perry 1,President,,CON,Virgil Goode,1
+Wyoming,Perry 2,President,,CON,Virgil Goode,0
+Wyoming,Perry 3,President,,CON,Virgil Goode,1
+Wyoming,Perry 4,President,,CON,Virgil Goode,3
+Wyoming,Pike 1,President,,CON,Virgil Goode,4
+Wyoming,Sheldon 1,President,,CON,Virgil Goode,1
+Wyoming,Sheldon 2,President,,CON,Virgil Goode,0
+Wyoming,Sheldon 3,President,,CON,Virgil Goode,2
+Wyoming,Warsaw 1,President,,CON,Virgil Goode,2
+Wyoming,Warsaw 2,President,,CON,Virgil Goode,3
+Wyoming,Warsaw 3,President,,CON,Virgil Goode,1
+Wyoming,Warsaw 4,President,,CON,Virgil Goode,0
+Wyoming,Warsaw 5,President,,CON,Virgil Goode,0
+Wyoming,Wethersfield 1,President,,CON,Virgil Goode,0
+Wyoming,Total,President,,CON,Virgil Goode,55
+Wyoming,Arcade 1,President,,,Write-ins,4
+Wyoming,Arcade 2,President,,,Write-ins,0
+Wyoming,Arcade 3,President,,,Write-ins,3
+Wyoming,Arcade 4,President,,,Write-ins,0
+Wyoming,Attica 1,President,,,Write-ins,0
+Wyoming,Attica 2,President,,,Write-ins,0
+Wyoming,Attica 3,President,,,Write-ins,1
+Wyoming,Attica 4,President,,,Write-ins,1
+Wyoming,Bennington 1,President,,,Write-ins,1
+Wyoming,Bennington 2,President,,,Write-ins,3
+Wyoming,Bennington 3,President,,,Write-ins,1
+Wyoming,Castile 1,President,,,Write-ins,1
+Wyoming,Castile 2,President,,,Write-ins,1
+Wyoming,Castile 3,President,,,Write-ins,0
+Wyoming,Covington 1,President,,,Write-ins,0
+Wyoming,Eagle 1,President,,,Write-ins,2
+Wyoming,Gainesville 1,President,,,Write-ins,0
+Wyoming,Gainesville 2,President,,,Write-ins,0
+Wyoming,Gainesville 3,President,,,Write-ins,2
+Wyoming,Gainesville 4,President,,,Write-ins,0
+Wyoming,Genesee Falls 1,President,,,Write-ins,0
+Wyoming,Java 1,President,,,Write-ins,5
+Wyoming,Java 2,President,,,Write-ins,0
+Wyoming,Middlebury 1,President,,,Write-ins,1
+Wyoming,Middlebury 2,President,,,Write-ins,0
+Wyoming,Orangeville 1,President,,,Write-ins,2
+Wyoming,Perry 1,President,,,Write-ins,1
+Wyoming,Perry 2,President,,,Write-ins,0
+Wyoming,Perry 3,President,,,Write-ins,2
+Wyoming,Perry 4,President,,,Write-ins,1
+Wyoming,Pike 1,President,,,Write-ins,0
+Wyoming,Sheldon 1,President,,,Write-ins,1
+Wyoming,Sheldon 2,President,,,Write-ins,0
+Wyoming,Sheldon 3,President,,,Write-ins,0
+Wyoming,Warsaw 1,President,,,Write-ins,1
+Wyoming,Warsaw 2,President,,,Write-ins,1
+Wyoming,Warsaw 3,President,,,Write-ins,0
+Wyoming,Warsaw 4,President,,,Write-ins,0
+Wyoming,Warsaw 5,President,,,Write-ins,1
+Wyoming,Wethersfield 1,President,,,Write-ins,0
+Wyoming,Total,President,,,Write-ins,35
+Wyoming,Arcade 1,President,,,Blanks,3
+Wyoming,Arcade 2,President,,,Blanks,1
+Wyoming,Arcade 3,President,,,Blanks,2
+Wyoming,Arcade 4,President,,,Blanks,1
+Wyoming,Attica 1,President,,,Blanks,2
+Wyoming,Attica 2,President,,,Blanks,2
+Wyoming,Attica 3,President,,,Blanks,4
+Wyoming,Attica 4,President,,,Blanks,1
+Wyoming,Bennington 1,President,,,Blanks,2
+Wyoming,Bennington 2,President,,,Blanks,0
+Wyoming,Bennington 3,President,,,Blanks,0
+Wyoming,Castile 1,President,,,Blanks,1
+Wyoming,Castile 2,President,,,Blanks,3
+Wyoming,Castile 3,President,,,Blanks,1
+Wyoming,Covington 1,President,,,Blanks,3
+Wyoming,Eagle 1,President,,,Blanks,2
+Wyoming,Gainesville 1,President,,,Blanks,0
+Wyoming,Gainesville 2,President,,,Blanks,2
+Wyoming,Gainesville 3,President,,,Blanks,5
+Wyoming,Gainesville 4,President,,,Blanks,0
+Wyoming,Genesee Falls 1,President,,,Blanks,2
+Wyoming,Java 1,President,,,Blanks,2
+Wyoming,Java 2,President,,,Blanks,2
+Wyoming,Middlebury 1,President,,,Blanks,1
+Wyoming,Middlebury 2,President,,,Blanks,1
+Wyoming,Orangeville 1,President,,,Blanks,5
+Wyoming,Perry 1,President,,,Blanks,4
+Wyoming,Perry 2,President,,,Blanks,0
+Wyoming,Perry 3,President,,,Blanks,1
+Wyoming,Perry 4,President,,,Blanks,3
+Wyoming,Pike 1,President,,,Blanks,0
+Wyoming,Sheldon 1,President,,,Blanks,0
+Wyoming,Sheldon 2,President,,,Blanks,2
+Wyoming,Sheldon 3,President,,,Blanks,1
+Wyoming,Warsaw 1,President,,,Blanks,2
+Wyoming,Warsaw 2,President,,,Blanks,0
+Wyoming,Warsaw 3,President,,,Blanks,7
+Wyoming,Warsaw 4,President,,,Blanks,0
+Wyoming,Warsaw 5,President,,,Blanks,5
+Wyoming,Wethersfield 1,President,,,Blanks,3
+Wyoming,Total,President,,,Blanks,76
+Wyoming,Arcade 1,President,,,Void,0
+Wyoming,Arcade 2,President,,,Void,0
+Wyoming,Arcade 3,President,,,Void,0
+Wyoming,Arcade 4,President,,,Void,0
+Wyoming,Attica 1,President,,,Void,0
+Wyoming,Attica 2,President,,,Void,0
+Wyoming,Attica 3,President,,,Void,0
+Wyoming,Attica 4,President,,,Void,0
+Wyoming,Bennington 1,President,,,Void,0
+Wyoming,Bennington 2,President,,,Void,1
+Wyoming,Bennington 3,President,,,Void,0
+Wyoming,Castile 1,President,,,Void,0
+Wyoming,Castile 2,President,,,Void,0
+Wyoming,Castile 3,President,,,Void,0
+Wyoming,Covington 1,President,,,Void,0
+Wyoming,Eagle 1,President,,,Void,0
+Wyoming,Gainesville 1,President,,,Void,0
+Wyoming,Gainesville 2,President,,,Void,0
+Wyoming,Gainesville 3,President,,,Void,0
+Wyoming,Gainesville 4,President,,,Void,0
+Wyoming,Genesee Falls 1,President,,,Void,0
+Wyoming,Java 1,President,,,Void,0
+Wyoming,Java 2,President,,,Void,0
+Wyoming,Middlebury 1,President,,,Void,0
+Wyoming,Middlebury 2,President,,,Void,0
+Wyoming,Orangeville 1,President,,,Void,0
+Wyoming,Perry 1,President,,,Void,0
+Wyoming,Perry 2,President,,,Void,0
+Wyoming,Perry 3,President,,,Void,1
+Wyoming,Perry 4,President,,,Void,0
+Wyoming,Pike 1,President,,,Void,1
+Wyoming,Sheldon 1,President,,,Void,1
+Wyoming,Sheldon 2,President,,,Void,0
+Wyoming,Sheldon 3,President,,,Void,0
+Wyoming,Warsaw 1,President,,,Void,0
+Wyoming,Warsaw 2,President,,,Void,0
+Wyoming,Warsaw 3,President,,,Void,0
+Wyoming,Warsaw 4,President,,,Void,0
+Wyoming,Warsaw 5,President,,,Void,0
+Wyoming,Wethersfield 1,President,,,Void,0
+Wyoming,Total,President,,,Void,4
+Wyoming,Arcade 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,230
+Wyoming,Arcade 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,112
+Wyoming,Arcade 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,121
+Wyoming,Arcade 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,190
+Wyoming,Attica 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,142
+Wyoming,Attica 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,110
+Wyoming,Attica 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,192
+Wyoming,Attica 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,139
+Wyoming,Bennington 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,180
+Wyoming,Bennington 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,216
+Wyoming,Bennington 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,179
+Wyoming,Castile 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,156
+Wyoming,Castile 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,212
+Wyoming,Castile 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,145
+Wyoming,Covington 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,161
+Wyoming,Eagle 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,201
+Wyoming,Gainesville 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,78
+Wyoming,Gainesville 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,126
+Wyoming,Gainesville 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,110
+Wyoming,Gainesville 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,100
+Wyoming,Genesee Falls 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,80
+Wyoming,Java 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,191
+Wyoming,Java 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,176
+Wyoming,Middlebury 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,119
+Wyoming,Middlebury 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,63
+Wyoming,Orangeville 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,231
+Wyoming,Perry 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,202
+Wyoming,Perry 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,120
+Wyoming,Perry 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,218
+Wyoming,Perry 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,206
+Wyoming,Pike 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,141
+Wyoming,Sheldon 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,111
+Wyoming,Sheldon 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,203
+Wyoming,Sheldon 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,158
+Wyoming,Warsaw 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,135
+Wyoming,Warsaw 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,143
+Wyoming,Warsaw 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,167
+Wyoming,Warsaw 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,162
+Wyoming,Warsaw 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,222
+Wyoming,Wethersfield 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,131
+Wyoming,Total,U.S. Senate,,DEM,Kirsten E. Gillibrand,6279
+Wyoming,Arcade 1,U.S. Senate,,REP,Wendy Long,187
+Wyoming,Arcade 2,U.S. Senate,,REP,Wendy Long,119
+Wyoming,Arcade 3,U.S. Senate,,REP,Wendy Long,123
+Wyoming,Arcade 4,U.S. Senate,,REP,Wendy Long,194
+Wyoming,Attica 1,U.S. Senate,,REP,Wendy Long,184
+Wyoming,Attica 2,U.S. Senate,,REP,Wendy Long,136
+Wyoming,Attica 3,U.S. Senate,,REP,Wendy Long,197
+Wyoming,Attica 4,U.S. Senate,,REP,Wendy Long,254
+Wyoming,Bennington 1,U.S. Senate,,REP,Wendy Long,174
+Wyoming,Bennington 2,U.S. Senate,,REP,Wendy Long,237
+Wyoming,Bennington 3,U.S. Senate,,REP,Wendy Long,231
+Wyoming,Castile 1,U.S. Senate,,REP,Wendy Long,174
+Wyoming,Castile 2,U.S. Senate,,REP,Wendy Long,192
+Wyoming,Castile 3,U.S. Senate,,REP,Wendy Long,119
+Wyoming,Covington 1,U.S. Senate,,REP,Wendy Long,230
+Wyoming,Eagle 1,U.S. Senate,,REP,Wendy Long,200
+Wyoming,Gainesville 1,U.S. Senate,,REP,Wendy Long,106
+Wyoming,Gainesville 2,U.S. Senate,,REP,Wendy Long,71
+Wyoming,Gainesville 3,U.S. Senate,,REP,Wendy Long,85
+Wyoming,Gainesville 4,U.S. Senate,,REP,Wendy Long,77
+Wyoming,Genesee Falls 1,U.S. Senate,,REP,Wendy Long,87
+Wyoming,Java 1,U.S. Senate,,REP,Wendy Long,228
+Wyoming,Java 2,U.S. Senate,,REP,Wendy Long,197
+Wyoming,Middlebury 1,U.S. Senate,,REP,Wendy Long,201
+Wyoming,Middlebury 2,U.S. Senate,,REP,Wendy Long,110
+Wyoming,Orangeville 1,U.S. Senate,,REP,Wendy Long,242
+Wyoming,Perry 1,U.S. Senate,,REP,Wendy Long,244
+Wyoming,Perry 2,U.S. Senate,,REP,Wendy Long,101
+Wyoming,Perry 3,U.S. Senate,,REP,Wendy Long,134
+Wyoming,Perry 4,U.S. Senate,,REP,Wendy Long,153
+Wyoming,Pike 1,U.S. Senate,,REP,Wendy Long,195
+Wyoming,Sheldon 1,U.S. Senate,,REP,Wendy Long,91
+Wyoming,Sheldon 2,U.S. Senate,,REP,Wendy Long,218
+Wyoming,Sheldon 3,U.S. Senate,,REP,Wendy Long,136
+Wyoming,Warsaw 1,U.S. Senate,,REP,Wendy Long,146
+Wyoming,Warsaw 2,U.S. Senate,,REP,Wendy Long,130
+Wyoming,Warsaw 3,U.S. Senate,,REP,Wendy Long,172
+Wyoming,Warsaw 4,U.S. Senate,,REP,Wendy Long,144
+Wyoming,Warsaw 5,U.S. Senate,,REP,Wendy Long,189
+Wyoming,Wethersfield 1,U.S. Senate,,REP,Wendy Long,149
+Wyoming,Total,U.S. Senate,,REP,Wendy Long,6557
+Wyoming,Arcade 1,U.S. Senate,,CON,Wendy Long,24
+Wyoming,Arcade 2,U.S. Senate,,CON,Wendy Long,27
+Wyoming,Arcade 3,U.S. Senate,,CON,Wendy Long,23
+Wyoming,Arcade 4,U.S. Senate,,CON,Wendy Long,30
+Wyoming,Attica 1,U.S. Senate,,CON,Wendy Long,24
+Wyoming,Attica 2,U.S. Senate,,CON,Wendy Long,14
+Wyoming,Attica 3,U.S. Senate,,CON,Wendy Long,22
+Wyoming,Attica 4,U.S. Senate,,CON,Wendy Long,37
+Wyoming,Bennington 1,U.S. Senate,,CON,Wendy Long,45
+Wyoming,Bennington 2,U.S. Senate,,CON,Wendy Long,39
+Wyoming,Bennington 3,U.S. Senate,,CON,Wendy Long,41
+Wyoming,Castile 1,U.S. Senate,,CON,Wendy Long,23
+Wyoming,Castile 2,U.S. Senate,,CON,Wendy Long,30
+Wyoming,Castile 3,U.S. Senate,,CON,Wendy Long,12
+Wyoming,Covington 1,U.S. Senate,,CON,Wendy Long,26
+Wyoming,Eagle 1,U.S. Senate,,CON,Wendy Long,22
+Wyoming,Gainesville 1,U.S. Senate,,CON,Wendy Long,10
+Wyoming,Gainesville 2,U.S. Senate,,CON,Wendy Long,11
+Wyoming,Gainesville 3,U.S. Senate,,CON,Wendy Long,8
+Wyoming,Gainesville 4,U.S. Senate,,CON,Wendy Long,10
+Wyoming,Genesee Falls 1,U.S. Senate,,CON,Wendy Long,5
+Wyoming,Java 1,U.S. Senate,,CON,Wendy Long,37
+Wyoming,Java 2,U.S. Senate,,CON,Wendy Long,32
+Wyoming,Middlebury 1,U.S. Senate,,CON,Wendy Long,30
+Wyoming,Middlebury 2,U.S. Senate,,CON,Wendy Long,16
+Wyoming,Orangeville 1,U.S. Senate,,CON,Wendy Long,43
+Wyoming,Perry 1,U.S. Senate,,CON,Wendy Long,38
+Wyoming,Perry 2,U.S. Senate,,CON,Wendy Long,18
+Wyoming,Perry 3,U.S. Senate,,CON,Wendy Long,26
+Wyoming,Perry 4,U.S. Senate,,CON,Wendy Long,24
+Wyoming,Pike 1,U.S. Senate,,CON,Wendy Long,28
+Wyoming,Sheldon 1,U.S. Senate,,CON,Wendy Long,22
+Wyoming,Sheldon 2,U.S. Senate,,CON,Wendy Long,46
+Wyoming,Sheldon 3,U.S. Senate,,CON,Wendy Long,37
+Wyoming,Warsaw 1,U.S. Senate,,CON,Wendy Long,21
+Wyoming,Warsaw 2,U.S. Senate,,CON,Wendy Long,18
+Wyoming,Warsaw 3,U.S. Senate,,CON,Wendy Long,20
+Wyoming,Warsaw 4,U.S. Senate,,CON,Wendy Long,24
+Wyoming,Warsaw 5,U.S. Senate,,CON,Wendy Long,22
+Wyoming,Wethersfield 1,U.S. Senate,,CON,Wendy Long,14
+Wyoming,Total,U.S. Senate,,CON,Wendy Long,999
+Wyoming,Arcade 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,30
+Wyoming,Arcade 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,18
+Wyoming,Arcade 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Wyoming,Arcade 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,18
+Wyoming,Attica 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Wyoming,Attica 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,15
+Wyoming,Attica 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,33
+Wyoming,Attica 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Wyoming,Bennington 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,28
+Wyoming,Bennington 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Wyoming,Bennington 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,28
+Wyoming,Castile 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,13
+Wyoming,Castile 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,25
+Wyoming,Castile 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,11
+Wyoming,Covington 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Wyoming,Eagle 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,37
+Wyoming,Gainesville 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,10
+Wyoming,Gainesville 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,9
+Wyoming,Gainesville 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,13
+Wyoming,Gainesville 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,11
+Wyoming,Genesee Falls 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,6
+Wyoming,Java 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,28
+Wyoming,Java 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,19
+Wyoming,Middlebury 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,14
+Wyoming,Middlebury 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,12
+Wyoming,Orangeville 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,27
+Wyoming,Perry 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,22
+Wyoming,Perry 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,6
+Wyoming,Perry 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,25
+Wyoming,Perry 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,21
+Wyoming,Pike 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Wyoming,Sheldon 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Wyoming,Sheldon 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,24
+Wyoming,Sheldon 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Wyoming,Warsaw 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,9
+Wyoming,Warsaw 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Wyoming,Warsaw 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,14
+Wyoming,Warsaw 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Wyoming,Warsaw 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,19
+Wyoming,Wethersfield 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,21
+Wyoming,Total,U.S. Senate,,WOR,Kirsten E. Gillibrand,751
+Wyoming,Arcade 1,U.S. Senate,,IND,Kirsten E. Gillibrand,14
+Wyoming,Arcade 2,U.S. Senate,,IND,Kirsten E. Gillibrand,12
+Wyoming,Arcade 3,U.S. Senate,,IND,Kirsten E. Gillibrand,5
+Wyoming,Arcade 4,U.S. Senate,,IND,Kirsten E. Gillibrand,16
+Wyoming,Attica 1,U.S. Senate,,IND,Kirsten E. Gillibrand,11
+Wyoming,Attica 2,U.S. Senate,,IND,Kirsten E. Gillibrand,9
+Wyoming,Attica 3,U.S. Senate,,IND,Kirsten E. Gillibrand,11
+Wyoming,Attica 4,U.S. Senate,,IND,Kirsten E. Gillibrand,16
+Wyoming,Bennington 1,U.S. Senate,,IND,Kirsten E. Gillibrand,22
+Wyoming,Bennington 2,U.S. Senate,,IND,Kirsten E. Gillibrand,14
+Wyoming,Bennington 3,U.S. Senate,,IND,Kirsten E. Gillibrand,20
+Wyoming,Castile 1,U.S. Senate,,IND,Kirsten E. Gillibrand,7
+Wyoming,Castile 2,U.S. Senate,,IND,Kirsten E. Gillibrand,10
+Wyoming,Castile 3,U.S. Senate,,IND,Kirsten E. Gillibrand,9
+Wyoming,Covington 1,U.S. Senate,,IND,Kirsten E. Gillibrand,14
+Wyoming,Eagle 1,U.S. Senate,,IND,Kirsten E. Gillibrand,10
+Wyoming,Gainesville 1,U.S. Senate,,IND,Kirsten E. Gillibrand,9
+Wyoming,Gainesville 2,U.S. Senate,,IND,Kirsten E. Gillibrand,8
+Wyoming,Gainesville 3,U.S. Senate,,IND,Kirsten E. Gillibrand,7
+Wyoming,Gainesville 4,U.S. Senate,,IND,Kirsten E. Gillibrand,11
+Wyoming,Genesee Falls 1,U.S. Senate,,IND,Kirsten E. Gillibrand,5
+Wyoming,Java 1,U.S. Senate,,IND,Kirsten E. Gillibrand,19
+Wyoming,Java 2,U.S. Senate,,IND,Kirsten E. Gillibrand,12
+Wyoming,Middlebury 1,U.S. Senate,,IND,Kirsten E. Gillibrand,14
+Wyoming,Middlebury 2,U.S. Senate,,IND,Kirsten E. Gillibrand,6
+Wyoming,Orangeville 1,U.S. Senate,,IND,Kirsten E. Gillibrand,17
+Wyoming,Perry 1,U.S. Senate,,IND,Kirsten E. Gillibrand,12
+Wyoming,Perry 2,U.S. Senate,,IND,Kirsten E. Gillibrand,5
+Wyoming,Perry 3,U.S. Senate,,IND,Kirsten E. Gillibrand,11
+Wyoming,Perry 4,U.S. Senate,,IND,Kirsten E. Gillibrand,7
+Wyoming,Pike 1,U.S. Senate,,IND,Kirsten E. Gillibrand,11
+Wyoming,Sheldon 1,U.S. Senate,,IND,Kirsten E. Gillibrand,10
+Wyoming,Sheldon 2,U.S. Senate,,IND,Kirsten E. Gillibrand,9
+Wyoming,Sheldon 3,U.S. Senate,,IND,Kirsten E. Gillibrand,7
+Wyoming,Warsaw 1,U.S. Senate,,IND,Kirsten E. Gillibrand,10
+Wyoming,Warsaw 2,U.S. Senate,,IND,Kirsten E. Gillibrand,10
+Wyoming,Warsaw 3,U.S. Senate,,IND,Kirsten E. Gillibrand,13
+Wyoming,Warsaw 4,U.S. Senate,,IND,Kirsten E. Gillibrand,9
+Wyoming,Warsaw 5,U.S. Senate,,IND,Kirsten E. Gillibrand,10
+Wyoming,Wethersfield 1,U.S. Senate,,IND,Kirsten E. Gillibrand,13
+Wyoming,Total,U.S. Senate,,IND,Kirsten E. Gillibrand,445
+Wyoming,Arcade 1,U.S. Senate,,GRE,Colia Clark,5
+Wyoming,Arcade 2,U.S. Senate,,GRE,Colia Clark,1
+Wyoming,Arcade 3,U.S. Senate,,GRE,Colia Clark,1
+Wyoming,Arcade 4,U.S. Senate,,GRE,Colia Clark,2
+Wyoming,Attica 1,U.S. Senate,,GRE,Colia Clark,2
+Wyoming,Attica 2,U.S. Senate,,GRE,Colia Clark,3
+Wyoming,Attica 3,U.S. Senate,,GRE,Colia Clark,6
+Wyoming,Attica 4,U.S. Senate,,GRE,Colia Clark,2
+Wyoming,Bennington 1,U.S. Senate,,GRE,Colia Clark,4
+Wyoming,Bennington 2,U.S. Senate,,GRE,Colia Clark,3
+Wyoming,Bennington 3,U.S. Senate,,GRE,Colia Clark,1
+Wyoming,Castile 1,U.S. Senate,,GRE,Colia Clark,4
+Wyoming,Castile 2,U.S. Senate,,GRE,Colia Clark,2
+Wyoming,Castile 3,U.S. Senate,,GRE,Colia Clark,1
+Wyoming,Covington 1,U.S. Senate,,GRE,Colia Clark,3
+Wyoming,Eagle 1,U.S. Senate,,GRE,Colia Clark,2
+Wyoming,Gainesville 1,U.S. Senate,,GRE,Colia Clark,2
+Wyoming,Gainesville 2,U.S. Senate,,GRE,Colia Clark,1
+Wyoming,Gainesville 3,U.S. Senate,,GRE,Colia Clark,2
+Wyoming,Gainesville 4,U.S. Senate,,GRE,Colia Clark,3
+Wyoming,Genesee Falls 1,U.S. Senate,,GRE,Colia Clark,1
+Wyoming,Java 1,U.S. Senate,,GRE,Colia Clark,3
+Wyoming,Java 2,U.S. Senate,,GRE,Colia Clark,5
+Wyoming,Middlebury 1,U.S. Senate,,GRE,Colia Clark,2
+Wyoming,Middlebury 2,U.S. Senate,,GRE,Colia Clark,2
+Wyoming,Orangeville 1,U.S. Senate,,GRE,Colia Clark,3
+Wyoming,Perry 1,U.S. Senate,,GRE,Colia Clark,1
+Wyoming,Perry 2,U.S. Senate,,GRE,Colia Clark,3
+Wyoming,Perry 3,U.S. Senate,,GRE,Colia Clark,6
+Wyoming,Perry 4,U.S. Senate,,GRE,Colia Clark,3
+Wyoming,Pike 1,U.S. Senate,,GRE,Colia Clark,4
+Wyoming,Sheldon 1,U.S. Senate,,GRE,Colia Clark,1
+Wyoming,Sheldon 2,U.S. Senate,,GRE,Colia Clark,3
+Wyoming,Sheldon 3,U.S. Senate,,GRE,Colia Clark,4
+Wyoming,Warsaw 1,U.S. Senate,,GRE,Colia Clark,1
+Wyoming,Warsaw 2,U.S. Senate,,GRE,Colia Clark,4
+Wyoming,Warsaw 3,U.S. Senate,,GRE,Colia Clark,0
+Wyoming,Warsaw 4,U.S. Senate,,GRE,Colia Clark,0
+Wyoming,Warsaw 5,U.S. Senate,,GRE,Colia Clark,2
+Wyoming,Wethersfield 1,U.S. Senate,,GRE,Colia Clark,3
+Wyoming,Total,U.S. Senate,,GRE,Colia Clark,101
+Wyoming,Arcade 1,U.S. Senate,,LBT,Chris Edes,3
+Wyoming,Arcade 2,U.S. Senate,,LBT,Chris Edes,1
+Wyoming,Arcade 3,U.S. Senate,,LBT,Chris Edes,1
+Wyoming,Arcade 4,U.S. Senate,,LBT,Chris Edes,1
+Wyoming,Attica 1,U.S. Senate,,LBT,Chris Edes,5
+Wyoming,Attica 2,U.S. Senate,,LBT,Chris Edes,1
+Wyoming,Attica 3,U.S. Senate,,LBT,Chris Edes,1
+Wyoming,Attica 4,U.S. Senate,,LBT,Chris Edes,1
+Wyoming,Bennington 1,U.S. Senate,,LBT,Chris Edes,3
+Wyoming,Bennington 2,U.S. Senate,,LBT,Chris Edes,4
+Wyoming,Bennington 3,U.S. Senate,,LBT,Chris Edes,4
+Wyoming,Castile 1,U.S. Senate,,LBT,Chris Edes,5
+Wyoming,Castile 2,U.S. Senate,,LBT,Chris Edes,0
+Wyoming,Castile 3,U.S. Senate,,LBT,Chris Edes,1
+Wyoming,Covington 1,U.S. Senate,,LBT,Chris Edes,5
+Wyoming,Eagle 1,U.S. Senate,,LBT,Chris Edes,4
+Wyoming,Gainesville 1,U.S. Senate,,LBT,Chris Edes,1
+Wyoming,Gainesville 2,U.S. Senate,,LBT,Chris Edes,0
+Wyoming,Gainesville 3,U.S. Senate,,LBT,Chris Edes,0
+Wyoming,Gainesville 4,U.S. Senate,,LBT,Chris Edes,0
+Wyoming,Genesee Falls 1,U.S. Senate,,LBT,Chris Edes,0
+Wyoming,Java 1,U.S. Senate,,LBT,Chris Edes,3
+Wyoming,Java 2,U.S. Senate,,LBT,Chris Edes,2
+Wyoming,Middlebury 1,U.S. Senate,,LBT,Chris Edes,4
+Wyoming,Middlebury 2,U.S. Senate,,LBT,Chris Edes,3
+Wyoming,Orangeville 1,U.S. Senate,,LBT,Chris Edes,2
+Wyoming,Perry 1,U.S. Senate,,LBT,Chris Edes,3
+Wyoming,Perry 2,U.S. Senate,,LBT,Chris Edes,1
+Wyoming,Perry 3,U.S. Senate,,LBT,Chris Edes,2
+Wyoming,Perry 4,U.S. Senate,,LBT,Chris Edes,3
+Wyoming,Pike 1,U.S. Senate,,LBT,Chris Edes,1
+Wyoming,Sheldon 1,U.S. Senate,,LBT,Chris Edes,1
+Wyoming,Sheldon 2,U.S. Senate,,LBT,Chris Edes,1
+Wyoming,Sheldon 3,U.S. Senate,,LBT,Chris Edes,5
+Wyoming,Warsaw 1,U.S. Senate,,LBT,Chris Edes,3
+Wyoming,Warsaw 2,U.S. Senate,,LBT,Chris Edes,3
+Wyoming,Warsaw 3,U.S. Senate,,LBT,Chris Edes,1
+Wyoming,Warsaw 4,U.S. Senate,,LBT,Chris Edes,0
+Wyoming,Warsaw 5,U.S. Senate,,LBT,Chris Edes,1
+Wyoming,Wethersfield 1,U.S. Senate,,LBT,Chris Edes,1
+Wyoming,Total,U.S. Senate,,LBT,Chris Edes,81
+Wyoming,Arcade 1,U.S. Senate,,CSP,John Mangelli,2
+Wyoming,Arcade 2,U.S. Senate,,CSP,John Mangelli,3
+Wyoming,Arcade 3,U.S. Senate,,CSP,John Mangelli,6
+Wyoming,Arcade 4,U.S. Senate,,CSP,John Mangelli,3
+Wyoming,Attica 1,U.S. Senate,,CSP,John Mangelli,0
+Wyoming,Attica 2,U.S. Senate,,CSP,John Mangelli,3
+Wyoming,Attica 3,U.S. Senate,,CSP,John Mangelli,5
+Wyoming,Attica 4,U.S. Senate,,CSP,John Mangelli,3
+Wyoming,Bennington 1,U.S. Senate,,CSP,John Mangelli,0
+Wyoming,Bennington 2,U.S. Senate,,CSP,John Mangelli,1
+Wyoming,Bennington 3,U.S. Senate,,CSP,John Mangelli,6
+Wyoming,Castile 1,U.S. Senate,,CSP,John Mangelli,5
+Wyoming,Castile 2,U.S. Senate,,CSP,John Mangelli,2
+Wyoming,Castile 3,U.S. Senate,,CSP,John Mangelli,3
+Wyoming,Covington 1,U.S. Senate,,CSP,John Mangelli,6
+Wyoming,Eagle 1,U.S. Senate,,CSP,John Mangelli,2
+Wyoming,Gainesville 1,U.S. Senate,,CSP,John Mangelli,0
+Wyoming,Gainesville 2,U.S. Senate,,CSP,John Mangelli,1
+Wyoming,Gainesville 3,U.S. Senate,,CSP,John Mangelli,1
+Wyoming,Gainesville 4,U.S. Senate,,CSP,John Mangelli,0
+Wyoming,Genesee Falls 1,U.S. Senate,,CSP,John Mangelli,1
+Wyoming,Java 1,U.S. Senate,,CSP,John Mangelli,3
+Wyoming,Java 2,U.S. Senate,,CSP,John Mangelli,3
+Wyoming,Middlebury 1,U.S. Senate,,CSP,John Mangelli,2
+Wyoming,Middlebury 2,U.S. Senate,,CSP,John Mangelli,2
+Wyoming,Orangeville 1,U.S. Senate,,CSP,John Mangelli,8
+Wyoming,Perry 1,U.S. Senate,,CSP,John Mangelli,4
+Wyoming,Perry 2,U.S. Senate,,CSP,John Mangelli,1
+Wyoming,Perry 3,U.S. Senate,,CSP,John Mangelli,0
+Wyoming,Perry 4,U.S. Senate,,CSP,John Mangelli,4
+Wyoming,Pike 1,U.S. Senate,,CSP,John Mangelli,1
+Wyoming,Sheldon 1,U.S. Senate,,CSP,John Mangelli,0
+Wyoming,Sheldon 2,U.S. Senate,,CSP,John Mangelli,1
+Wyoming,Sheldon 3,U.S. Senate,,CSP,John Mangelli,1
+Wyoming,Warsaw 1,U.S. Senate,,CSP,John Mangelli,2
+Wyoming,Warsaw 2,U.S. Senate,,CSP,John Mangelli,4
+Wyoming,Warsaw 3,U.S. Senate,,CSP,John Mangelli,2
+Wyoming,Warsaw 4,U.S. Senate,,CSP,John Mangelli,2
+Wyoming,Warsaw 5,U.S. Senate,,CSP,John Mangelli,3
+Wyoming,Wethersfield 1,U.S. Senate,,CSP,John Mangelli,4
+Wyoming,Total,U.S. Senate,,CSP,John Mangelli,100
+Wyoming,Arcade 1,U.S. Senate,,,Write-ins,0
+Wyoming,Arcade 2,U.S. Senate,,,Write-ins,0
+Wyoming,Arcade 3,U.S. Senate,,,Write-ins,0
+Wyoming,Arcade 4,U.S. Senate,,,Write-ins,0
+Wyoming,Attica 1,U.S. Senate,,,Write-ins,0
+Wyoming,Attica 2,U.S. Senate,,,Write-ins,0
+Wyoming,Attica 3,U.S. Senate,,,Write-ins,0
+Wyoming,Attica 4,U.S. Senate,,,Write-ins,0
+Wyoming,Bennington 1,U.S. Senate,,,Write-ins,0
+Wyoming,Bennington 2,U.S. Senate,,,Write-ins,0
+Wyoming,Bennington 3,U.S. Senate,,,Write-ins,0
+Wyoming,Castile 1,U.S. Senate,,,Write-ins,0
+Wyoming,Castile 2,U.S. Senate,,,Write-ins,0
+Wyoming,Castile 3,U.S. Senate,,,Write-ins,0
+Wyoming,Covington 1,U.S. Senate,,,Write-ins,0
+Wyoming,Eagle 1,U.S. Senate,,,Write-ins,0
+Wyoming,Gainesville 1,U.S. Senate,,,Write-ins,0
+Wyoming,Gainesville 2,U.S. Senate,,,Write-ins,0
+Wyoming,Gainesville 3,U.S. Senate,,,Write-ins,0
+Wyoming,Gainesville 4,U.S. Senate,,,Write-ins,0
+Wyoming,Genesee Falls 1,U.S. Senate,,,Write-ins,0
+Wyoming,Java 1,U.S. Senate,,,Write-ins,0
+Wyoming,Java 2,U.S. Senate,,,Write-ins,0
+Wyoming,Middlebury 1,U.S. Senate,,,Write-ins,0
+Wyoming,Middlebury 2,U.S. Senate,,,Write-ins,0
+Wyoming,Orangeville 1,U.S. Senate,,,Write-ins,0
+Wyoming,Perry 1,U.S. Senate,,,Write-ins,0
+Wyoming,Perry 2,U.S. Senate,,,Write-ins,0
+Wyoming,Perry 3,U.S. Senate,,,Write-ins,0
+Wyoming,Perry 4,U.S. Senate,,,Write-ins,0
+Wyoming,Pike 1,U.S. Senate,,,Write-ins,0
+Wyoming,Sheldon 1,U.S. Senate,,,Write-ins,1
+Wyoming,Sheldon 2,U.S. Senate,,,Write-ins,0
+Wyoming,Sheldon 3,U.S. Senate,,,Write-ins,0
+Wyoming,Warsaw 1,U.S. Senate,,,Write-ins,0
+Wyoming,Warsaw 2,U.S. Senate,,,Write-ins,0
+Wyoming,Warsaw 3,U.S. Senate,,,Write-ins,0
+Wyoming,Warsaw 4,U.S. Senate,,,Write-ins,0
+Wyoming,Warsaw 5,U.S. Senate,,,Write-ins,0
+Wyoming,Wethersfield 1,U.S. Senate,,,Write-ins,0
+Wyoming,Total,U.S. Senate,,,Write-ins,1
+Wyoming,Arcade 1,U.S. Senate,,,Blanks,37
+Wyoming,Arcade 2,U.S. Senate,,,Blanks,10
+Wyoming,Arcade 3,U.S. Senate,,,Blanks,18
+Wyoming,Arcade 4,U.S. Senate,,,Blanks,42
+Wyoming,Attica 1,U.S. Senate,,,Blanks,23
+Wyoming,Attica 2,U.S. Senate,,,Blanks,29
+Wyoming,Attica 3,U.S. Senate,,,Blanks,26
+Wyoming,Attica 4,U.S. Senate,,,Blanks,34
+Wyoming,Bennington 1,U.S. Senate,,,Blanks,34
+Wyoming,Bennington 2,U.S. Senate,,,Blanks,33
+Wyoming,Bennington 3,U.S. Senate,,,Blanks,32
+Wyoming,Castile 1,U.S. Senate,,,Blanks,19
+Wyoming,Castile 2,U.S. Senate,,,Blanks,37
+Wyoming,Castile 3,U.S. Senate,,,Blanks,38
+Wyoming,Covington 1,U.S. Senate,,,Blanks,49
+Wyoming,Eagle 1,U.S. Senate,,,Blanks,41
+Wyoming,Gainesville 1,U.S. Senate,,,Blanks,11
+Wyoming,Gainesville 2,U.S. Senate,,,Blanks,15
+Wyoming,Gainesville 3,U.S. Senate,,,Blanks,10
+Wyoming,Gainesville 4,U.S. Senate,,,Blanks,11
+Wyoming,Genesee Falls 1,U.S. Senate,,,Blanks,17
+Wyoming,Java 1,U.S. Senate,,,Blanks,41
+Wyoming,Java 2,U.S. Senate,,,Blanks,38
+Wyoming,Middlebury 1,U.S. Senate,,,Blanks,26
+Wyoming,Middlebury 2,U.S. Senate,,,Blanks,13
+Wyoming,Orangeville 1,U.S. Senate,,,Blanks,55
+Wyoming,Perry 1,U.S. Senate,,,Blanks,41
+Wyoming,Perry 2,U.S. Senate,,,Blanks,19
+Wyoming,Perry 3,U.S. Senate,,,Blanks,22
+Wyoming,Perry 4,U.S. Senate,,,Blanks,23
+Wyoming,Pike 1,U.S. Senate,,,Blanks,22
+Wyoming,Sheldon 1,U.S. Senate,,,Blanks,20
+Wyoming,Sheldon 2,U.S. Senate,,,Blanks,32
+Wyoming,Sheldon 3,U.S. Senate,,,Blanks,28
+Wyoming,Warsaw 1,U.S. Senate,,,Blanks,28
+Wyoming,Warsaw 2,U.S. Senate,,,Blanks,26
+Wyoming,Warsaw 3,U.S. Senate,,,Blanks,24
+Wyoming,Warsaw 4,U.S. Senate,,,Blanks,32
+Wyoming,Warsaw 5,U.S. Senate,,,Blanks,31
+Wyoming,Wethersfield 1,U.S. Senate,,,Blanks,13
+Wyoming,Total,U.S. Senate,,,Blanks,1100
+Wyoming,Arcade 1,U.S. Senate,,,Voids,0
+Wyoming,Arcade 2,U.S. Senate,,,Voids,0
+Wyoming,Arcade 3,U.S. Senate,,,Voids,0
+Wyoming,Arcade 4,U.S. Senate,,,Voids,0
+Wyoming,Attica 1,U.S. Senate,,,Voids,0
+Wyoming,Attica 2,U.S. Senate,,,Voids,0
+Wyoming,Attica 3,U.S. Senate,,,Voids,0
+Wyoming,Attica 4,U.S. Senate,,,Voids,0
+Wyoming,Bennington 1,U.S. Senate,,,Voids,0
+Wyoming,Bennington 2,U.S. Senate,,,Voids,1
+Wyoming,Bennington 3,U.S. Senate,,,Voids,0
+Wyoming,Castile 1,U.S. Senate,,,Voids,0
+Wyoming,Castile 2,U.S. Senate,,,Voids,0
+Wyoming,Castile 3,U.S. Senate,,,Voids,0
+Wyoming,Covington 1,U.S. Senate,,,Voids,0
+Wyoming,Eagle 1,U.S. Senate,,,Voids,0
+Wyoming,Gainesville 1,U.S. Senate,,,Voids,0
+Wyoming,Gainesville 2,U.S. Senate,,,Voids,0
+Wyoming,Gainesville 3,U.S. Senate,,,Voids,0
+Wyoming,Gainesville 4,U.S. Senate,,,Voids,0
+Wyoming,Genesee Falls 1,U.S. Senate,,,Voids,0
+Wyoming,Java 1,U.S. Senate,,,Voids,0
+Wyoming,Java 2,U.S. Senate,,,Voids,0
+Wyoming,Middlebury 1,U.S. Senate,,,Voids,0
+Wyoming,Middlebury 2,U.S. Senate,,,Voids,0
+Wyoming,Orangeville 1,U.S. Senate,,,Voids,0
+Wyoming,Perry 1,U.S. Senate,,,Voids,0
+Wyoming,Perry 2,U.S. Senate,,,Voids,0
+Wyoming,Perry 3,U.S. Senate,,,Voids,0
+Wyoming,Perry 4,U.S. Senate,,,Voids,0
+Wyoming,Pike 1,U.S. Senate,,,Voids,1
+Wyoming,Sheldon 1,U.S. Senate,,,Voids,0
+Wyoming,Sheldon 2,U.S. Senate,,,Voids,0
+Wyoming,Sheldon 3,U.S. Senate,,,Voids,0
+Wyoming,Warsaw 1,U.S. Senate,,,Voids,0
+Wyoming,Warsaw 2,U.S. Senate,,,Voids,0
+Wyoming,Warsaw 3,U.S. Senate,,,Voids,0
+Wyoming,Warsaw 4,U.S. Senate,,,Voids,0
+Wyoming,Warsaw 5,U.S. Senate,,,Voids,0
+Wyoming,Wethersfield 1,U.S. Senate,,,Voids,0
+Wyoming,Total,U.S. Senate,,,Voids,2
+Wyoming,Arcade 1,U.S. House,27,DEM,Kathy C. Hochul,240
+Wyoming,Arcade 2,U.S. House,27,DEM,Kathy C. Hochul,102
+Wyoming,Arcade 3,U.S. House,27,DEM,Kathy C. Hochul,120
+Wyoming,Arcade 4,U.S. House,27,DEM,Kathy C. Hochul,186
+Wyoming,Attica 1,U.S. House,27,DEM,Kathy C. Hochul,150
+Wyoming,Attica 2,U.S. House,27,DEM,Kathy C. Hochul,128
+Wyoming,Attica 3,U.S. House,27,DEM,Kathy C. Hochul,194
+Wyoming,Attica 4,U.S. House,27,DEM,Kathy C. Hochul,147
+Wyoming,Bennington 1,U.S. House,27,DEM,Kathy C. Hochul,172
+Wyoming,Bennington 2,U.S. House,27,DEM,Kathy C. Hochul,195
+Wyoming,Bennington 3,U.S. House,27,DEM,Kathy C. Hochul,181
+Wyoming,Castile 1,U.S. House,27,DEM,Kathy C. Hochul,161
+Wyoming,Castile 2,U.S. House,27,DEM,Kathy C. Hochul,223
+Wyoming,Castile 3,U.S. House,27,DEM,Kathy C. Hochul,143
+Wyoming,Covington 1,U.S. House,27,DEM,Kathy C. Hochul,151
+Wyoming,Eagle 1,U.S. House,27,DEM,Kathy C. Hochul,214
+Wyoming,Gainesville 1,U.S. House,27,DEM,Kathy C. Hochul,74
+Wyoming,Gainesville 2,U.S. House,27,DEM,Kathy C. Hochul,126
+Wyoming,Gainesville 3,U.S. House,27,DEM,Kathy C. Hochul,118
+Wyoming,Gainesville 4,U.S. House,27,DEM,Kathy C. Hochul,93
+Wyoming,Genesee Falls 1,U.S. House,27,DEM,Kathy C. Hochul,83
+Wyoming,Java 1,U.S. House,27,DEM,Kathy C. Hochul,188
+Wyoming,Java 2,U.S. House,27,DEM,Kathy C. Hochul,162
+Wyoming,Middlebury 1,U.S. House,27,DEM,Kathy C. Hochul,124
+Wyoming,Middlebury 2,U.S. House,27,DEM,Kathy C. Hochul,69
+Wyoming,Orangeville 1,U.S. House,27,DEM,Kathy C. Hochul,226
+Wyoming,Perry 1,U.S. House,27,DEM,Kathy C. Hochul,187
+Wyoming,Perry 2,U.S. House,27,DEM,Kathy C. Hochul,121
+Wyoming,Perry 3,U.S. House,27,DEM,Kathy C. Hochul,213
+Wyoming,Perry 4,U.S. House,27,DEM,Kathy C. Hochul,200
+Wyoming,Pike 1,U.S. House,27,DEM,Kathy C. Hochul,146
+Wyoming,Sheldon 1,U.S. House,27,DEM,Kathy C. Hochul,108
+Wyoming,Sheldon 2,U.S. House,27,DEM,Kathy C. Hochul,166
+Wyoming,Sheldon 3,U.S. House,27,DEM,Kathy C. Hochul,150
+Wyoming,Warsaw 1,U.S. House,27,DEM,Kathy C. Hochul,127
+Wyoming,Warsaw 2,U.S. House,27,DEM,Kathy C. Hochul,146
+Wyoming,Warsaw 3,U.S. House,27,DEM,Kathy C. Hochul,171
+Wyoming,Warsaw 4,U.S. House,27,DEM,Kathy C. Hochul,176
+Wyoming,Warsaw 5,U.S. House,27,DEM,Kathy C. Hochul,212
+Wyoming,Wethersfield 1,U.S. House,27,DEM,Kathy C. Hochul,130
+Wyoming,Total,U.S. House,27,DEM,Kathy C. Hochul,6223
+Wyoming,Arcade 1,U.S. House,27,REP,Chris Collins,204
+Wyoming,Arcade 2,U.S. House,27,REP,Chris Collins,151
+Wyoming,Arcade 3,U.S. House,27,REP,Chris Collins,143
+Wyoming,Arcade 4,U.S. House,27,REP,Chris Collins,232
+Wyoming,Attica 1,U.S. House,27,REP,Chris Collins,199
+Wyoming,Attica 2,U.S. House,27,REP,Chris Collins,148
+Wyoming,Attica 3,U.S. House,27,REP,Chris Collins,238
+Wyoming,Attica 4,U.S. House,27,REP,Chris Collins,268
+Wyoming,Bennington 1,U.S. House,27,REP,Chris Collins,211
+Wyoming,Bennington 2,U.S. House,27,REP,Chris Collins,294
+Wyoming,Bennington 3,U.S. House,27,REP,Chris Collins,271
+Wyoming,Castile 1,U.S. House,27,REP,Chris Collins,188
+Wyoming,Castile 2,U.S. House,27,REP,Chris Collins,204
+Wyoming,Castile 3,U.S. House,27,REP,Chris Collins,144
+Wyoming,Covington 1,U.S. House,27,REP,Chris Collins,255
+Wyoming,Eagle 1,U.S. House,27,REP,Chris Collins,234
+Wyoming,Gainesville 1,U.S. House,27,REP,Chris Collins,107
+Wyoming,Gainesville 2,U.S. House,27,REP,Chris Collins,83
+Wyoming,Gainesville 3,U.S. House,27,REP,Chris Collins,86
+Wyoming,Gainesville 4,U.S. House,27,REP,Chris Collins,90
+Wyoming,Genesee Falls 1,U.S. House,27,REP,Chris Collins,97
+Wyoming,Java 1,U.S. House,27,REP,Chris Collins,274
+Wyoming,Java 2,U.S. House,27,REP,Chris Collins,243
+Wyoming,Middlebury 1,U.S. House,27,REP,Chris Collins,211
+Wyoming,Middlebury 2,U.S. House,27,REP,Chris Collins,125
+Wyoming,Orangeville 1,U.S. House,27,REP,Chris Collins,290
+Wyoming,Perry 1,U.S. House,27,REP,Chris Collins,287
+Wyoming,Perry 2,U.S. House,27,REP,Chris Collins,116
+Wyoming,Perry 3,U.S. House,27,REP,Chris Collins,150
+Wyoming,Perry 4,U.S. House,27,REP,Chris Collins,174
+Wyoming,Pike 1,U.S. House,27,REP,Chris Collins,214
+Wyoming,Sheldon 1,U.S. House,27,REP,Chris Collins,106
+Wyoming,Sheldon 2,U.S. House,27,REP,Chris Collins,279
+Wyoming,Sheldon 3,U.S. House,27,REP,Chris Collins,157
+Wyoming,Warsaw 1,U.S. House,27,REP,Chris Collins,171
+Wyoming,Warsaw 2,U.S. House,27,REP,Chris Collins,145
+Wyoming,Warsaw 3,U.S. House,27,REP,Chris Collins,186
+Wyoming,Warsaw 4,U.S. House,27,REP,Chris Collins,162
+Wyoming,Warsaw 5,U.S. House,27,REP,Chris Collins,219
+Wyoming,Wethersfield 1,U.S. House,27,REP,Chris Collins,171
+Wyoming,Total,U.S. House,27,REP,Chris Collins,7527
+Wyoming,Arcade 1,U.S. House,27,CON,Chris Collins,34
+Wyoming,Arcade 2,U.S. House,27,CON,Chris Collins,29
+Wyoming,Arcade 3,U.S. House,27,CON,Chris Collins,32
+Wyoming,Arcade 4,U.S. House,27,CON,Chris Collins,40
+Wyoming,Attica 1,U.S. House,27,CON,Chris Collins,28
+Wyoming,Attica 2,U.S. House,27,CON,Chris Collins,15
+Wyoming,Attica 3,U.S. House,27,CON,Chris Collins,24
+Wyoming,Attica 4,U.S. House,27,CON,Chris Collins,44
+Wyoming,Bennington 1,U.S. House,27,CON,Chris Collins,53
+Wyoming,Bennington 2,U.S. House,27,CON,Chris Collins,47
+Wyoming,Bennington 3,U.S. House,27,CON,Chris Collins,54
+Wyoming,Castile 1,U.S. House,27,CON,Chris Collins,25
+Wyoming,Castile 2,U.S. House,27,CON,Chris Collins,30
+Wyoming,Castile 3,U.S. House,27,CON,Chris Collins,16
+Wyoming,Covington 1,U.S. House,27,CON,Chris Collins,26
+Wyoming,Eagle 1,U.S. House,27,CON,Chris Collins,23
+Wyoming,Gainesville 1,U.S. House,27,CON,Chris Collins,7
+Wyoming,Gainesville 2,U.S. House,27,CON,Chris Collins,18
+Wyoming,Gainesville 3,U.S. House,27,CON,Chris Collins,12
+Wyoming,Gainesville 4,U.S. House,27,CON,Chris Collins,10
+Wyoming,Genesee Falls 1,U.S. House,27,CON,Chris Collins,8
+Wyoming,Java 1,U.S. House,27,CON,Chris Collins,50
+Wyoming,Java 2,U.S. House,27,CON,Chris Collins,39
+Wyoming,Middlebury 1,U.S. House,27,CON,Chris Collins,35
+Wyoming,Middlebury 2,U.S. House,27,CON,Chris Collins,19
+Wyoming,Orangeville 1,U.S. House,27,CON,Chris Collins,51
+Wyoming,Perry 1,U.S. House,27,CON,Chris Collins,37
+Wyoming,Perry 2,U.S. House,27,CON,Chris Collins,20
+Wyoming,Perry 3,U.S. House,27,CON,Chris Collins,32
+Wyoming,Perry 4,U.S. House,27,CON,Chris Collins,27
+Wyoming,Pike 1,U.S. House,27,CON,Chris Collins,35
+Wyoming,Sheldon 1,U.S. House,27,CON,Chris Collins,25
+Wyoming,Sheldon 2,U.S. House,27,CON,Chris Collins,50
+Wyoming,Sheldon 3,U.S. House,27,CON,Chris Collins,32
+Wyoming,Warsaw 1,U.S. House,27,CON,Chris Collins,23
+Wyoming,Warsaw 2,U.S. House,27,CON,Chris Collins,30
+Wyoming,Warsaw 3,U.S. House,27,CON,Chris Collins,22
+Wyoming,Warsaw 4,U.S. House,27,CON,Chris Collins,28
+Wyoming,Warsaw 5,U.S. House,27,CON,Chris Collins,28
+Wyoming,Wethersfield 1,U.S. House,27,CON,Chris Collins,19
+Wyoming,Total,U.S. House,27,CON,Chris Collins,1177
+Wyoming,Arcade 1,U.S. House,27,WOR,Kathy C. Hochul,32
+Wyoming,Arcade 2,U.S. House,27,WOR,Kathy C. Hochul,17
+Wyoming,Arcade 3,U.S. House,27,WOR,Kathy C. Hochul,12
+Wyoming,Arcade 4,U.S. House,27,WOR,Kathy C. Hochul,20
+Wyoming,Attica 1,U.S. House,27,WOR,Kathy C. Hochul,23
+Wyoming,Attica 2,U.S. House,27,WOR,Kathy C. Hochul,13
+Wyoming,Attica 3,U.S. House,27,WOR,Kathy C. Hochul,31
+Wyoming,Attica 4,U.S. House,27,WOR,Kathy C. Hochul,28
+Wyoming,Bennington 1,U.S. House,27,WOR,Kathy C. Hochul,35
+Wyoming,Bennington 2,U.S. House,27,WOR,Kathy C. Hochul,29
+Wyoming,Bennington 3,U.S. House,27,WOR,Kathy C. Hochul,21
+Wyoming,Castile 1,U.S. House,27,WOR,Kathy C. Hochul,17
+Wyoming,Castile 2,U.S. House,27,WOR,Kathy C. Hochul,28
+Wyoming,Castile 3,U.S. House,27,WOR,Kathy C. Hochul,14
+Wyoming,Covington 1,U.S. House,27,WOR,Kathy C. Hochul,24
+Wyoming,Eagle 1,U.S. House,27,WOR,Kathy C. Hochul,36
+Wyoming,Gainesville 1,U.S. House,27,WOR,Kathy C. Hochul,10
+Wyoming,Gainesville 2,U.S. House,27,WOR,Kathy C. Hochul,9
+Wyoming,Gainesville 3,U.S. House,27,WOR,Kathy C. Hochul,14
+Wyoming,Gainesville 4,U.S. House,27,WOR,Kathy C. Hochul,19
+Wyoming,Genesee Falls 1,U.S. House,27,WOR,Kathy C. Hochul,7
+Wyoming,Java 1,U.S. House,27,WOR,Kathy C. Hochul,27
+Wyoming,Java 2,U.S. House,27,WOR,Kathy C. Hochul,26
+Wyoming,Middlebury 1,U.S. House,27,WOR,Kathy C. Hochul,17
+Wyoming,Middlebury 2,U.S. House,27,WOR,Kathy C. Hochul,11
+Wyoming,Orangeville 1,U.S. House,27,WOR,Kathy C. Hochul,37
+Wyoming,Perry 1,U.S. House,27,WOR,Kathy C. Hochul,32
+Wyoming,Perry 2,U.S. House,27,WOR,Kathy C. Hochul,6
+Wyoming,Perry 3,U.S. House,27,WOR,Kathy C. Hochul,27
+Wyoming,Perry 4,U.S. House,27,WOR,Kathy C. Hochul,25
+Wyoming,Pike 1,U.S. House,27,WOR,Kathy C. Hochul,19
+Wyoming,Sheldon 1,U.S. House,27,WOR,Kathy C. Hochul,13
+Wyoming,Sheldon 2,U.S. House,27,WOR,Kathy C. Hochul,26
+Wyoming,Sheldon 3,U.S. House,27,WOR,Kathy C. Hochul,25
+Wyoming,Warsaw 1,U.S. House,27,WOR,Kathy C. Hochul,19
+Wyoming,Warsaw 2,U.S. House,27,WOR,Kathy C. Hochul,23
+Wyoming,Warsaw 3,U.S. House,27,WOR,Kathy C. Hochul,20
+Wyoming,Warsaw 4,U.S. House,27,WOR,Kathy C. Hochul,12
+Wyoming,Warsaw 5,U.S. House,27,WOR,Kathy C. Hochul,20
+Wyoming,Wethersfield 1,U.S. House,27,WOR,Kathy C. Hochul,21
+Wyoming,Total,U.S. House,27,WOR,Kathy C. Hochul,845
+Wyoming,Arcade 1,U.S. House,27,,Write-ins,1
+Wyoming,Arcade 2,U.S. House,27,,Write-ins,0
+Wyoming,Arcade 3,U.S. House,27,,Write-ins,1
+Wyoming,Arcade 4,U.S. House,27,,Write-ins,3
+Wyoming,Attica 1,U.S. House,27,,Write-ins,0
+Wyoming,Attica 2,U.S. House,27,,Write-ins,1
+Wyoming,Attica 3,U.S. House,27,,Write-ins,0
+Wyoming,Attica 4,U.S. House,27,,Write-ins,0
+Wyoming,Bennington 1,U.S. House,27,,Write-ins,0
+Wyoming,Bennington 2,U.S. House,27,,Write-ins,0
+Wyoming,Bennington 3,U.S. House,27,,Write-ins,0
+Wyoming,Castile 1,U.S. House,27,,Write-ins,0
+Wyoming,Castile 2,U.S. House,27,,Write-ins,0
+Wyoming,Castile 3,U.S. House,27,,Write-ins,0
+Wyoming,Covington 1,U.S. House,27,,Write-ins,0
+Wyoming,Eagle 1,U.S. House,27,,Write-ins,0
+Wyoming,Gainesville 1,U.S. House,27,,Write-ins,0
+Wyoming,Gainesville 2,U.S. House,27,,Write-ins,0
+Wyoming,Gainesville 3,U.S. House,27,,Write-ins,0
+Wyoming,Gainesville 4,U.S. House,27,,Write-ins,0
+Wyoming,Genesee Falls 1,U.S. House,27,,Write-ins,0
+Wyoming,Java 1,U.S. House,27,,Write-ins,0
+Wyoming,Java 2,U.S. House,27,,Write-ins,0
+Wyoming,Middlebury 1,U.S. House,27,,Write-ins,0
+Wyoming,Middlebury 2,U.S. House,27,,Write-ins,0
+Wyoming,Orangeville 1,U.S. House,27,,Write-ins,0
+Wyoming,Perry 1,U.S. House,27,,Write-ins,0
+Wyoming,Perry 2,U.S. House,27,,Write-ins,0
+Wyoming,Perry 3,U.S. House,27,,Write-ins,0
+Wyoming,Perry 4,U.S. House,27,,Write-ins,0
+Wyoming,Pike 1,U.S. House,27,,Write-ins,0
+Wyoming,Sheldon 1,U.S. House,27,,Write-ins,1
+Wyoming,Sheldon 2,U.S. House,27,,Write-ins,0
+Wyoming,Sheldon 3,U.S. House,27,,Write-ins,0
+Wyoming,Warsaw 1,U.S. House,27,,Write-ins,0
+Wyoming,Warsaw 2,U.S. House,27,,Write-ins,0
+Wyoming,Warsaw 3,U.S. House,27,,Write-ins,1
+Wyoming,Warsaw 4,U.S. House,27,,Write-ins,0
+Wyoming,Warsaw 5,U.S. House,27,,Write-ins,0
+Wyoming,Wethersfield 1,U.S. House,27,,Write-ins,0
+Wyoming,Total,U.S. House,27,,Write-ins,8
+Wyoming,Arcade 1,U.S. House,27,,Blanks,21
+Wyoming,Arcade 2,U.S. House,27,,Blanks,4
+Wyoming,Arcade 3,U.S. House,27,,Blanks,7
+Wyoming,Arcade 4,U.S. House,27,,Blanks,17
+Wyoming,Attica 1,U.S. House,27,,Blanks,8
+Wyoming,Attica 2,U.S. House,27,,Blanks,16
+Wyoming,Attica 3,U.S. House,27,,Blanks,5
+Wyoming,Attica 4,U.S. House,27,,Blanks,15
+Wyoming,Bennington 1,U.S. House,27,,Blanks,19
+Wyoming,Bennington 2,U.S. House,27,,Blanks,13
+Wyoming,Bennington 3,U.S. House,27,,Blanks,15
+Wyoming,Castile 1,U.S. House,27,,Blanks,15
+Wyoming,Castile 2,U.S. House,27,,Blanks,25
+Wyoming,Castile 3,U.S. House,27,,Blanks,22
+Wyoming,Covington 1,U.S. House,27,,Blanks,54
+Wyoming,Eagle 1,U.S. House,27,,Blanks,12
+Wyoming,Gainesville 1,U.S. House,27,,Blanks,29
+Wyoming,Gainesville 2,U.S. House,27,,Blanks,6
+Wyoming,Gainesville 3,U.S. House,27,,Blanks,6
+Wyoming,Gainesville 4,U.S. House,27,,Blanks,11
+Wyoming,Genesee Falls 1,U.S. House,27,,Blanks,7
+Wyoming,Java 1,U.S. House,27,,Blanks,14
+Wyoming,Java 2,U.S. House,27,,Blanks,14
+Wyoming,Middlebury 1,U.S. House,27,,Blanks,25
+Wyoming,Middlebury 2,U.S. House,27,,Blanks,3
+Wyoming,Orangeville 1,U.S. House,27,,Blanks,24
+Wyoming,Perry 1,U.S. House,27,,Blanks,24
+Wyoming,Perry 2,U.S. House,27,,Blanks,11
+Wyoming,Perry 3,U.S. House,27,,Blanks,22
+Wyoming,Perry 4,U.S. House,27,,Blanks,18
+Wyoming,Pike 1,U.S. House,27,,Blanks,9
+Wyoming,Sheldon 1,U.S. House,27,,Blanks,20
+Wyoming,Sheldon 2,U.S. House,27,,Blanks,16
+Wyoming,Sheldon 3,U.S. House,27,,Blanks,29
+Wyoming,Warsaw 1,U.S. House,27,,Blanks,15
+Wyoming,Warsaw 2,U.S. House,27,,Blanks,11
+Wyoming,Warsaw 3,U.S. House,27,,Blanks,13
+Wyoming,Warsaw 4,U.S. House,27,,Blanks,11
+Wyoming,Warsaw 5,U.S. House,27,,Blanks,20
+Wyoming,Wethersfield 1,U.S. House,27,,Blanks,8
+Wyoming,Total,U.S. House,27,,Blanks,634
+Wyoming,Arcade 1,U.S. House,27,,Void,0
+Wyoming,Arcade 2,U.S. House,27,,Void,0
+Wyoming,Arcade 3,U.S. House,27,,Void,0
+Wyoming,Arcade 4,U.S. House,27,,Void,0
+Wyoming,Attica 1,U.S. House,27,,Void,0
+Wyoming,Attica 2,U.S. House,27,,Void,0
+Wyoming,Attica 3,U.S. House,27,,Void,0
+Wyoming,Attica 4,U.S. House,27,,Void,0
+Wyoming,Bennington 1,U.S. House,27,,Void,0
+Wyoming,Bennington 2,U.S. House,27,,Void,1
+Wyoming,Bennington 3,U.S. House,27,,Void,0
+Wyoming,Castile 1,U.S. House,27,,Void,0
+Wyoming,Castile 2,U.S. House,27,,Void,0
+Wyoming,Castile 3,U.S. House,27,,Void,0
+Wyoming,Covington 1,U.S. House,27,,Void,0
+Wyoming,Eagle 1,U.S. House,27,,Void,0
+Wyoming,Gainesville 1,U.S. House,27,,Void,0
+Wyoming,Gainesville 2,U.S. House,27,,Void,0
+Wyoming,Gainesville 3,U.S. House,27,,Void,0
+Wyoming,Gainesville 4,U.S. House,27,,Void,0
+Wyoming,Genesee Falls 1,U.S. House,27,,Void,0
+Wyoming,Java 1,U.S. House,27,,Void,0
+Wyoming,Java 2,U.S. House,27,,Void,0
+Wyoming,Middlebury 1,U.S. House,27,,Void,0
+Wyoming,Middlebury 2,U.S. House,27,,Void,0
+Wyoming,Orangeville 1,U.S. House,27,,Void,0
+Wyoming,Perry 1,U.S. House,27,,Void,0
+Wyoming,Perry 2,U.S. House,27,,Void,0
+Wyoming,Perry 3,U.S. House,27,,Void,0
+Wyoming,Perry 4,U.S. House,27,,Void,0
+Wyoming,Pike 1,U.S. House,27,,Void,1
+Wyoming,Sheldon 1,U.S. House,27,,Void,0
+Wyoming,Sheldon 2,U.S. House,27,,Void,0
+Wyoming,Sheldon 3,U.S. House,27,,Void,0
+Wyoming,Warsaw 1,U.S. House,27,,Void,0
+Wyoming,Warsaw 2,U.S. House,27,,Void,0
+Wyoming,Warsaw 3,U.S. House,27,,Void,0
+Wyoming,Warsaw 4,U.S. House,27,,Void,0
+Wyoming,Warsaw 5,U.S. House,27,,Void,0
+Wyoming,Wethersfield 1,U.S. House,27,,Void,0
+Wyoming,Total,U.S. House,27,,Void,2
+Wyoming,Arcade 1,State Senate,59,REP,Patrick M. Gallivan,329
+Wyoming,Arcade 2,State Senate,59,REP,Patrick M. Gallivan,184
+Wyoming,Arcade 3,State Senate,59,REP,Patrick M. Gallivan,197
+Wyoming,Arcade 4,State Senate,59,REP,Patrick M. Gallivan,302
+Wyoming,Attica 1,State Senate,59,REP,Patrick M. Gallivan,278
+Wyoming,Attica 2,State Senate,59,REP,Patrick M. Gallivan,208
+Wyoming,Attica 3,State Senate,59,REP,Patrick M. Gallivan,321
+Wyoming,Attica 4,State Senate,59,REP,Patrick M. Gallivan,317
+Wyoming,Bennington 1,State Senate,59,REP,Patrick M. Gallivan,284
+Wyoming,Bennington 2,State Senate,59,REP,Patrick M. Gallivan,343
+Wyoming,Bennington 3,State Senate,59,REP,Patrick M. Gallivan,320
+Wyoming,Castile 1,State Senate,59,REP,Patrick M. Gallivan,244
+Wyoming,Castile 2,State Senate,59,REP,Patrick M. Gallivan,279
+Wyoming,Castile 3,State Senate,59,REP,Patrick M. Gallivan,182
+Wyoming,Covington 1,State Senate,59,REP,Patrick M. Gallivan,312
+Wyoming,Eagle 1,State Senate,59,REP,Patrick M. Gallivan,313
+Wyoming,Gainesville 1,State Senate,59,REP,Patrick M. Gallivan,147
+Wyoming,Gainesville 2,State Senate,59,REP,Patrick M. Gallivan,127
+Wyoming,Gainesville 3,State Senate,59,REP,Patrick M. Gallivan,135
+Wyoming,Gainesville 4,State Senate,59,REP,Patrick M. Gallivan,133
+Wyoming,Genesee Falls 1,State Senate,59,REP,Patrick M. Gallivan,115
+Wyoming,Java 1,State Senate,59,REP,Patrick M. Gallivan,331
+Wyoming,Java 2,State Senate,59,REP,Patrick M. Gallivan,279
+Wyoming,Middlebury 1,State Senate,59,REP,Patrick M. Gallivan,252
+Wyoming,Middlebury 2,State Senate,59,REP,Patrick M. Gallivan,150
+Wyoming,Orangeville 1,State Senate,59,REP,Patrick M. Gallivan,361
+Wyoming,Perry 1,State Senate,59,REP,Patrick M. Gallivan,368
+Wyoming,Perry 2,State Senate,59,REP,Patrick M. Gallivan,147
+Wyoming,Perry 3,State Senate,59,REP,Patrick M. Gallivan,224
+Wyoming,Perry 4,State Senate,59,REP,Patrick M. Gallivan,238
+Wyoming,Pike 1,State Senate,59,REP,Patrick M. Gallivan,282
+Wyoming,Sheldon 1,State Senate,59,REP,Patrick M. Gallivan,142
+Wyoming,Sheldon 2,State Senate,59,REP,Patrick M. Gallivan,335
+Wyoming,Sheldon 3,State Senate,59,REP,Patrick M. Gallivan,228
+Wyoming,Warsaw 1,State Senate,59,REP,Patrick M. Gallivan,216
+Wyoming,Warsaw 2,State Senate,59,REP,Patrick M. Gallivan,197
+Wyoming,Warsaw 3,State Senate,59,REP,Patrick M. Gallivan,242
+Wyoming,Warsaw 4,State Senate,59,REP,Patrick M. Gallivan,220
+Wyoming,Warsaw 5,State Senate,59,REP,Patrick M. Gallivan,294
+Wyoming,Wethersfield 1,State Senate,59,REP,Patrick M. Gallivan,217
+Wyoming,Total,State Senate,59,REP,Patrick M. Gallivan,9793
+Wyoming,Arcade 1,State Senate,59,CON,Patrick M. Gallivan,46
+Wyoming,Arcade 2,State Senate,59,CON,Patrick M. Gallivan,37
+Wyoming,Arcade 3,State Senate,59,CON,Patrick M. Gallivan,40
+Wyoming,Arcade 4,State Senate,59,CON,Patrick M. Gallivan,47
+Wyoming,Attica 1,State Senate,59,CON,Patrick M. Gallivan,35
+Wyoming,Attica 2,State Senate,59,CON,Patrick M. Gallivan,26
+Wyoming,Attica 3,State Senate,59,CON,Patrick M. Gallivan,32
+Wyoming,Attica 4,State Senate,59,CON,Patrick M. Gallivan,50
+Wyoming,Bennington 1,State Senate,59,CON,Patrick M. Gallivan,62
+Wyoming,Bennington 2,State Senate,59,CON,Patrick M. Gallivan,57
+Wyoming,Bennington 3,State Senate,59,CON,Patrick M. Gallivan,65
+Wyoming,Castile 1,State Senate,59,CON,Patrick M. Gallivan,34
+Wyoming,Castile 2,State Senate,59,CON,Patrick M. Gallivan,49
+Wyoming,Castile 3,State Senate,59,CON,Patrick M. Gallivan,28
+Wyoming,Covington 1,State Senate,59,CON,Patrick M. Gallivan,37
+Wyoming,Eagle 1,State Senate,59,CON,Patrick M. Gallivan,47
+Wyoming,Gainesville 1,State Senate,59,CON,Patrick M. Gallivan,11
+Wyoming,Gainesville 2,State Senate,59,CON,Patrick M. Gallivan,24
+Wyoming,Gainesville 3,State Senate,59,CON,Patrick M. Gallivan,16
+Wyoming,Gainesville 4,State Senate,59,CON,Patrick M. Gallivan,17
+Wyoming,Genesee Falls 1,State Senate,59,CON,Patrick M. Gallivan,13
+Wyoming,Java 1,State Senate,59,CON,Patrick M. Gallivan,59
+Wyoming,Java 2,State Senate,59,CON,Patrick M. Gallivan,58
+Wyoming,Middlebury 1,State Senate,59,CON,Patrick M. Gallivan,41
+Wyoming,Middlebury 2,State Senate,59,CON,Patrick M. Gallivan,25
+Wyoming,Orangeville 1,State Senate,59,CON,Patrick M. Gallivan,66
+Wyoming,Perry 1,State Senate,59,CON,Patrick M. Gallivan,53
+Wyoming,Perry 2,State Senate,59,CON,Patrick M. Gallivan,26
+Wyoming,Perry 3,State Senate,59,CON,Patrick M. Gallivan,40
+Wyoming,Perry 4,State Senate,59,CON,Patrick M. Gallivan,40
+Wyoming,Pike 1,State Senate,59,CON,Patrick M. Gallivan,38
+Wyoming,Sheldon 1,State Senate,59,CON,Patrick M. Gallivan,31
+Wyoming,Sheldon 2,State Senate,59,CON,Patrick M. Gallivan,60
+Wyoming,Sheldon 3,State Senate,59,CON,Patrick M. Gallivan,46
+Wyoming,Warsaw 1,State Senate,59,CON,Patrick M. Gallivan,27
+Wyoming,Warsaw 2,State Senate,59,CON,Patrick M. Gallivan,34
+Wyoming,Warsaw 3,State Senate,59,CON,Patrick M. Gallivan,26
+Wyoming,Warsaw 4,State Senate,59,CON,Patrick M. Gallivan,49
+Wyoming,Warsaw 5,State Senate,59,CON,Patrick M. Gallivan,41
+Wyoming,Wethersfield 1,State Senate,59,CON,Patrick M. Gallivan,31
+Wyoming,Total,State Senate,59,CON,Patrick M. Gallivan,1564
+Wyoming,Arcade 1,State Senate,59,IND,Patrick M. Gallivan,53
+Wyoming,Arcade 2,State Senate,59,IND,Patrick M. Gallivan,24
+Wyoming,Arcade 3,State Senate,59,IND,Patrick M. Gallivan,27
+Wyoming,Arcade 4,State Senate,59,IND,Patrick M. Gallivan,48
+Wyoming,Attica 1,State Senate,59,IND,Patrick M. Gallivan,34
+Wyoming,Attica 2,State Senate,59,IND,Patrick M. Gallivan,31
+Wyoming,Attica 3,State Senate,59,IND,Patrick M. Gallivan,48
+Wyoming,Attica 4,State Senate,59,IND,Patrick M. Gallivan,45
+Wyoming,Bennington 1,State Senate,59,IND,Patrick M. Gallivan,61
+Wyoming,Bennington 2,State Senate,59,IND,Patrick M. Gallivan,50
+Wyoming,Bennington 3,State Senate,59,IND,Patrick M. Gallivan,62
+Wyoming,Castile 1,State Senate,59,IND,Patrick M. Gallivan,38
+Wyoming,Castile 2,State Senate,59,IND,Patrick M. Gallivan,32
+Wyoming,Castile 3,State Senate,59,IND,Patrick M. Gallivan,24
+Wyoming,Covington 1,State Senate,59,IND,Patrick M. Gallivan,26
+Wyoming,Eagle 1,State Senate,59,IND,Patrick M. Gallivan,36
+Wyoming,Gainesville 1,State Senate,59,IND,Patrick M. Gallivan,16
+Wyoming,Gainesville 2,State Senate,59,IND,Patrick M. Gallivan,16
+Wyoming,Gainesville 3,State Senate,59,IND,Patrick M. Gallivan,17
+Wyoming,Gainesville 4,State Senate,59,IND,Patrick M. Gallivan,18
+Wyoming,Genesee Falls 1,State Senate,59,IND,Patrick M. Gallivan,12
+Wyoming,Java 1,State Senate,59,IND,Patrick M. Gallivan,53
+Wyoming,Java 2,State Senate,59,IND,Patrick M. Gallivan,36
+Wyoming,Middlebury 1,State Senate,59,IND,Patrick M. Gallivan,24
+Wyoming,Middlebury 2,State Senate,59,IND,Patrick M. Gallivan,18
+Wyoming,Orangeville 1,State Senate,59,IND,Patrick M. Gallivan,51
+Wyoming,Perry 1,State Senate,59,IND,Patrick M. Gallivan,35
+Wyoming,Perry 2,State Senate,59,IND,Patrick M. Gallivan,14
+Wyoming,Perry 3,State Senate,59,IND,Patrick M. Gallivan,50
+Wyoming,Perry 4,State Senate,59,IND,Patrick M. Gallivan,42
+Wyoming,Pike 1,State Senate,59,IND,Patrick M. Gallivan,37
+Wyoming,Sheldon 1,State Senate,59,IND,Patrick M. Gallivan,25
+Wyoming,Sheldon 2,State Senate,59,IND,Patrick M. Gallivan,28
+Wyoming,Sheldon 3,State Senate,59,IND,Patrick M. Gallivan,29
+Wyoming,Warsaw 1,State Senate,59,IND,Patrick M. Gallivan,35
+Wyoming,Warsaw 2,State Senate,59,IND,Patrick M. Gallivan,34
+Wyoming,Warsaw 3,State Senate,59,IND,Patrick M. Gallivan,38
+Wyoming,Warsaw 4,State Senate,59,IND,Patrick M. Gallivan,20
+Wyoming,Warsaw 5,State Senate,59,IND,Patrick M. Gallivan,28
+Wyoming,Wethersfield 1,State Senate,59,IND,Patrick M. Gallivan,39
+Wyoming,Total,State Senate,59,IND,Patrick M. Gallivan,1354
+Wyoming,Arcade 1,State Senate,59,,Write-ins,2
+Wyoming,Arcade 2,State Senate,59,,Write-ins,1
+Wyoming,Arcade 3,State Senate,59,,Write-ins,0
+Wyoming,Arcade 4,State Senate,59,,Write-ins,0
+Wyoming,Attica 1,State Senate,59,,Write-ins,1
+Wyoming,Attica 2,State Senate,59,,Write-ins,0
+Wyoming,Attica 3,State Senate,59,,Write-ins,2
+Wyoming,Attica 4,State Senate,59,,Write-ins,1
+Wyoming,Bennington 1,State Senate,59,,Write-ins,0
+Wyoming,Bennington 2,State Senate,59,,Write-ins,1
+Wyoming,Bennington 3,State Senate,59,,Write-ins,0
+Wyoming,Castile 1,State Senate,59,,Write-ins,2
+Wyoming,Castile 2,State Senate,59,,Write-ins,2
+Wyoming,Castile 3,State Senate,59,,Write-ins,1
+Wyoming,Covington 1,State Senate,59,,Write-ins,0
+Wyoming,Eagle 1,State Senate,59,,Write-ins,1
+Wyoming,Gainesville 1,State Senate,59,,Write-ins,0
+Wyoming,Gainesville 2,State Senate,59,,Write-ins,1
+Wyoming,Gainesville 3,State Senate,59,,Write-ins,1
+Wyoming,Gainesville 4,State Senate,59,,Write-ins,0
+Wyoming,Genesee Falls 1,State Senate,59,,Write-ins,0
+Wyoming,Java 1,State Senate,59,,Write-ins,0
+Wyoming,Java 2,State Senate,59,,Write-ins,1
+Wyoming,Middlebury 1,State Senate,59,,Write-ins,1
+Wyoming,Middlebury 2,State Senate,59,,Write-ins,0
+Wyoming,Orangeville 1,State Senate,59,,Write-ins,0
+Wyoming,Perry 1,State Senate,59,,Write-ins,1
+Wyoming,Perry 2,State Senate,59,,Write-ins,0
+Wyoming,Perry 3,State Senate,59,,Write-ins,0
+Wyoming,Perry 4,State Senate,59,,Write-ins,0
+Wyoming,Pike 1,State Senate,59,,Write-ins,0
+Wyoming,Sheldon 1,State Senate,59,,Write-ins,2
+Wyoming,Sheldon 2,State Senate,59,,Write-ins,1
+Wyoming,Sheldon 3,State Senate,59,,Write-ins,1
+Wyoming,Warsaw 1,State Senate,59,,Write-ins,1
+Wyoming,Warsaw 2,State Senate,59,,Write-ins,0
+Wyoming,Warsaw 3,State Senate,59,,Write-ins,0
+Wyoming,Warsaw 4,State Senate,59,,Write-ins,0
+Wyoming,Warsaw 5,State Senate,59,,Write-ins,4
+Wyoming,Wethersfield 1,State Senate,59,,Write-ins,0
+Wyoming,Total,State Senate,59,,Write-ins,28
+Wyoming,Arcade 1,State Senate,59,,Blanks,102
+Wyoming,Arcade 2,State Senate,59,,Blanks,57
+Wyoming,Arcade 3,State Senate,59,,Blanks,50
+Wyoming,Arcade 4,State Senate,59,,Blanks,99
+Wyoming,Attica 1,State Senate,59,,Blanks,63
+Wyoming,Attica 2,State Senate,59,,Blanks,55
+Wyoming,Attica 3,State Senate,59,,Blanks,90
+Wyoming,Attica 4,State Senate,59,,Blanks,89
+Wyoming,Bennington 1,State Senate,59,,Blanks,83
+Wyoming,Bennington 2,State Senate,59,,Blanks,127
+Wyoming,Bennington 3,State Senate,59,,Blanks,95
+Wyoming,Castile 1,State Senate,59,,Blanks,88
+Wyoming,Castile 2,State Senate,59,,Blanks,148
+Wyoming,Castile 3,State Senate,59,,Blanks,104
+Wyoming,Covington 1,State Senate,59,,Blanks,133
+Wyoming,Eagle 1,State Senate,59,,Blanks,122
+Wyoming,Gainesville 1,State Senate,59,,Blanks,53
+Wyoming,Gainesville 2,State Senate,59,,Blanks,73
+Wyoming,Gainesville 3,State Senate,59,,Blanks,67
+Wyoming,Gainesville 4,State Senate,59,,Blanks,55
+Wyoming,Genesee Falls 1,State Senate,59,,Blanks,62
+Wyoming,Java 1,State Senate,59,,Blanks,110
+Wyoming,Java 2,State Senate,59,,Blanks,110
+Wyoming,Middlebury 1,State Senate,59,,Blanks,94
+Wyoming,Middlebury 2,State Senate,59,,Blanks,34
+Wyoming,Orangeville 1,State Senate,59,,Blanks,150
+Wyoming,Perry 1,State Senate,59,,Blanks,110
+Wyoming,Perry 2,State Senate,59,,Blanks,87
+Wyoming,Perry 3,State Senate,59,,Blanks,130
+Wyoming,Perry 4,State Senate,59,,Blanks,123
+Wyoming,Pike 1,State Senate,59,,Blanks,66
+Wyoming,Sheldon 1,State Senate,59,,Blanks,73
+Wyoming,Sheldon 2,State Senate,59,,Blanks,113
+Wyoming,Sheldon 3,State Senate,59,,Blanks,89
+Wyoming,Warsaw 1,State Senate,59,,Blanks,76
+Wyoming,Warsaw 2,State Senate,59,,Blanks,90
+Wyoming,Warsaw 3,State Senate,59,,Blanks,107
+Wyoming,Warsaw 4,State Senate,59,,Blanks,100
+Wyoming,Warsaw 5,State Senate,59,,Blanks,132
+Wyoming,Wethersfield 1,State Senate,59,,Blanks,62
+Wyoming,Total,State Senate,59,,Blanks,3671
+Wyoming,Arcade 1,State Senate,59,,Void,0
+Wyoming,Arcade 2,State Senate,59,,Void,0
+Wyoming,Arcade 3,State Senate,59,,Void,0
+Wyoming,Arcade 4,State Senate,59,,Void,0
+Wyoming,Attica 1,State Senate,59,,Void,0
+Wyoming,Attica 2,State Senate,59,,Void,0
+Wyoming,Attica 3,State Senate,59,,Void,0
+Wyoming,Attica 4,State Senate,59,,Void,0
+Wyoming,Bennington 1,State Senate,59,,Void,0
+Wyoming,Bennington 2,State Senate,59,,Void,1
+Wyoming,Bennington 3,State Senate,59,,Void,0
+Wyoming,Castile 1,State Senate,59,,Void,0
+Wyoming,Castile 2,State Senate,59,,Void,0
+Wyoming,Castile 3,State Senate,59,,Void,0
+Wyoming,Covington 1,State Senate,59,,Void,2
+Wyoming,Eagle 1,State Senate,59,,Void,0
+Wyoming,Gainesville 1,State Senate,59,,Void,0
+Wyoming,Gainesville 2,State Senate,59,,Void,1
+Wyoming,Gainesville 3,State Senate,59,,Void,0
+Wyoming,Gainesville 4,State Senate,59,,Void,0
+Wyoming,Genesee Falls 1,State Senate,59,,Void,0
+Wyoming,Java 1,State Senate,59,,Void,0
+Wyoming,Java 2,State Senate,59,,Void,0
+Wyoming,Middlebury 1,State Senate,59,,Void,0
+Wyoming,Middlebury 2,State Senate,59,,Void,0
+Wyoming,Orangeville 1,State Senate,59,,Void,0
+Wyoming,Perry 1,State Senate,59,,Void,0
+Wyoming,Perry 2,State Senate,59,,Void,0
+Wyoming,Perry 3,State Senate,59,,Void,0
+Wyoming,Perry 4,State Senate,59,,Void,1
+Wyoming,Pike 1,State Senate,59,,Void,1
+Wyoming,Sheldon 1,State Senate,59,,Void,0
+Wyoming,Sheldon 2,State Senate,59,,Void,0
+Wyoming,Sheldon 3,State Senate,59,,Void,0
+Wyoming,Warsaw 1,State Senate,59,,Void,0
+Wyoming,Warsaw 2,State Senate,59,,Void,0
+Wyoming,Warsaw 3,State Senate,59,,Void,0
+Wyoming,Warsaw 4,State Senate,59,,Void,0
+Wyoming,Warsaw 5,State Senate,59,,Void,0
+Wyoming,Wethersfield 1,State Senate,59,,Void,0
+Wyoming,Total,State Senate,59,,Void,6
+Wyoming,Arcade 1,State Assembly,147,DEM,Christina M. Abt,178
+Wyoming,Arcade 2,State Assembly,147,DEM,Christina M. Abt,92
+Wyoming,Arcade 3,State Assembly,147,DEM,Christina M. Abt,84
+Wyoming,Arcade 4,State Assembly,147,DEM,Christina M. Abt,146
+Wyoming,Attica 1,State Assembly,147,DEM,Christina M. Abt,109
+Wyoming,Attica 2,State Assembly,147,DEM,Christina M. Abt,72
+Wyoming,Attica 3,State Assembly,147,DEM,Christina M. Abt,145
+Wyoming,Attica 4,State Assembly,147,DEM,Christina M. Abt,106
+Wyoming,Bennington 1,State Assembly,147,DEM,Christina M. Abt,143
+Wyoming,Bennington 2,State Assembly,147,DEM,Christina M. Abt,160
+Wyoming,Bennington 3,State Assembly,147,DEM,Christina M. Abt,150
+Wyoming,Castile 1,State Assembly,147,DEM,Christina M. Abt,128
+Wyoming,Castile 2,State Assembly,147,DEM,Christina M. Abt,175
+Wyoming,Castile 3,State Assembly,147,DEM,Christina M. Abt,120
+Wyoming,Covington 1,State Assembly,147,DEM,Christina M. Abt,119
+Wyoming,Eagle 1,State Assembly,147,DEM,Christina M. Abt,181
+Wyoming,Gainesville 1,State Assembly,147,DEM,Christina M. Abt,71
+Wyoming,Gainesville 2,State Assembly,147,DEM,Christina M. Abt,108
+Wyoming,Gainesville 3,State Assembly,147,DEM,Christina M. Abt,114
+Wyoming,Gainesville 4,State Assembly,147,DEM,Christina M. Abt,79
+Wyoming,Genesee Falls 1,State Assembly,147,DEM,Christina M. Abt,61
+Wyoming,Java 1,State Assembly,147,DEM,Christina M. Abt,167
+Wyoming,Java 2,State Assembly,147,DEM,Christina M. Abt,138
+Wyoming,Middlebury 1,State Assembly,147,DEM,Christina M. Abt,106
+Wyoming,Middlebury 2,State Assembly,147,DEM,Christina M. Abt,50
+Wyoming,Orangeville 1,State Assembly,147,DEM,Christina M. Abt,185
+Wyoming,Perry 1,State Assembly,147,DEM,Christina M. Abt,138
+Wyoming,Perry 2,State Assembly,147,DEM,Christina M. Abt,107
+Wyoming,Perry 3,State Assembly,147,DEM,Christina M. Abt,165
+Wyoming,Perry 4,State Assembly,147,DEM,Christina M. Abt,163
+Wyoming,Pike 1,State Assembly,147,DEM,Christina M. Abt,112
+Wyoming,Sheldon 1,State Assembly,147,DEM,Christina M. Abt,84
+Wyoming,Sheldon 2,State Assembly,147,DEM,Christina M. Abt,154
+Wyoming,Sheldon 3,State Assembly,147,DEM,Christina M. Abt,122
+Wyoming,Warsaw 1,State Assembly,147,DEM,Christina M. Abt,113
+Wyoming,Warsaw 2,State Assembly,147,DEM,Christina M. Abt,131
+Wyoming,Warsaw 3,State Assembly,147,DEM,Christina M. Abt,144
+Wyoming,Warsaw 4,State Assembly,147,DEM,Christina M. Abt,145
+Wyoming,Warsaw 5,State Assembly,147,DEM,Christina M. Abt,195
+Wyoming,Wethersfield 1,State Assembly,147,DEM,Christina M. Abt,124
+Wyoming,Total,State Assembly,147,DEM,Christina M. Abt,5084
+Wyoming,Arcade 1,State Assembly,147,REP,David J. DiPietro,238
+Wyoming,Arcade 2,State Assembly,147,REP,David J. DiPietro,140
+Wyoming,Arcade 3,State Assembly,147,REP,David J. DiPietro,153
+Wyoming,Arcade 4,State Assembly,147,REP,David J. DiPietro,239
+Wyoming,Attica 1,State Assembly,147,REP,David J. DiPietro,209
+Wyoming,Attica 2,State Assembly,147,REP,David J. DiPietro,160
+Wyoming,Attica 3,State Assembly,147,REP,David J. DiPietro,245
+Wyoming,Attica 4,State Assembly,147,REP,David J. DiPietro,272
+Wyoming,Bennington 1,State Assembly,147,REP,David J. DiPietro,201
+Wyoming,Bennington 2,State Assembly,147,REP,David J. DiPietro,274
+Wyoming,Bennington 3,State Assembly,147,REP,David J. DiPietro,250
+Wyoming,Castile 1,State Assembly,147,REP,David J. DiPietro,191
+Wyoming,Castile 2,State Assembly,147,REP,David J. DiPietro,228
+Wyoming,Castile 3,State Assembly,147,REP,David J. DiPietro,132
+Wyoming,Covington 1,State Assembly,147,REP,David J. DiPietro,262
+Wyoming,Eagle 1,State Assembly,147,REP,David J. DiPietro,230
+Wyoming,Gainesville 1,State Assembly,147,REP,David J. DiPietro,113
+Wyoming,Gainesville 2,State Assembly,147,REP,David J. DiPietro,90
+Wyoming,Gainesville 3,State Assembly,147,REP,David J. DiPietro,91
+Wyoming,Gainesville 4,State Assembly,147,REP,David J. DiPietro,91
+Wyoming,Genesee Falls 1,State Assembly,147,REP,David J. DiPietro,102
+Wyoming,Java 1,State Assembly,147,REP,David J. DiPietro,261
+Wyoming,Java 2,State Assembly,147,REP,David J. DiPietro,218
+Wyoming,Middlebury 1,State Assembly,147,REP,David J. DiPietro,201
+Wyoming,Middlebury 2,State Assembly,147,REP,David J. DiPietro,121
+Wyoming,Orangeville 1,State Assembly,147,REP,David J. DiPietro,282
+Wyoming,Perry 1,State Assembly,147,REP,David J. DiPietro,295
+Wyoming,Perry 2,State Assembly,147,REP,David J. DiPietro,115
+Wyoming,Perry 3,State Assembly,147,REP,David J. DiPietro,174
+Wyoming,Perry 4,State Assembly,147,REP,David J. DiPietro,190
+Wyoming,Pike 1,State Assembly,147,REP,David J. DiPietro,220
+Wyoming,Sheldon 1,State Assembly,147,REP,David J. DiPietro,104
+Wyoming,Sheldon 2,State Assembly,147,REP,David J. DiPietro,273
+Wyoming,Sheldon 3,State Assembly,147,REP,David J. DiPietro,177
+Wyoming,Warsaw 1,State Assembly,147,REP,David J. DiPietro,162
+Wyoming,Warsaw 2,State Assembly,147,REP,David J. DiPietro,174
+Wyoming,Warsaw 3,State Assembly,147,REP,David J. DiPietro,185
+Wyoming,Warsaw 4,State Assembly,147,REP,David J. DiPietro,168
+Wyoming,Warsaw 5,State Assembly,147,REP,David J. DiPietro,196
+Wyoming,Wethersfield 1,State Assembly,147,REP,David J. DiPietro,163
+Wyoming,Total,State Assembly,147,REP,David J. DiPietro,7590
+Wyoming,Arcade 1,State Assembly,147,CON,David J. DiPietro,34
+Wyoming,Arcade 2,State Assembly,147,CON,David J. DiPietro,21
+Wyoming,Arcade 3,State Assembly,147,CON,David J. DiPietro,29
+Wyoming,Arcade 4,State Assembly,147,CON,David J. DiPietro,33
+Wyoming,Attica 1,State Assembly,147,CON,David J. DiPietro,25
+Wyoming,Attica 2,State Assembly,147,CON,David J. DiPietro,18
+Wyoming,Attica 3,State Assembly,147,CON,David J. DiPietro,25
+Wyoming,Attica 4,State Assembly,147,CON,David J. DiPietro,39
+Wyoming,Bennington 1,State Assembly,147,CON,David J. DiPietro,54
+Wyoming,Bennington 2,State Assembly,147,CON,David J. DiPietro,56
+Wyoming,Bennington 3,State Assembly,147,CON,David J. DiPietro,57
+Wyoming,Castile 1,State Assembly,147,CON,David J. DiPietro,27
+Wyoming,Castile 2,State Assembly,147,CON,David J. DiPietro,35
+Wyoming,Castile 3,State Assembly,147,CON,David J. DiPietro,18
+Wyoming,Covington 1,State Assembly,147,CON,David J. DiPietro,32
+Wyoming,Eagle 1,State Assembly,147,CON,David J. DiPietro,28
+Wyoming,Gainesville 1,State Assembly,147,CON,David J. DiPietro,7
+Wyoming,Gainesville 2,State Assembly,147,CON,David J. DiPietro,17
+Wyoming,Gainesville 3,State Assembly,147,CON,David J. DiPietro,10
+Wyoming,Gainesville 4,State Assembly,147,CON,David J. DiPietro,7
+Wyoming,Genesee Falls 1,State Assembly,147,CON,David J. DiPietro,9
+Wyoming,Java 1,State Assembly,147,CON,David J. DiPietro,43
+Wyoming,Java 2,State Assembly,147,CON,David J. DiPietro,46
+Wyoming,Middlebury 1,State Assembly,147,CON,David J. DiPietro,38
+Wyoming,Middlebury 2,State Assembly,147,CON,David J. DiPietro,21
+Wyoming,Orangeville 1,State Assembly,147,CON,David J. DiPietro,62
+Wyoming,Perry 1,State Assembly,147,CON,David J. DiPietro,43
+Wyoming,Perry 2,State Assembly,147,CON,David J. DiPietro,20
+Wyoming,Perry 3,State Assembly,147,CON,David J. DiPietro,32
+Wyoming,Perry 4,State Assembly,147,CON,David J. DiPietro,17
+Wyoming,Pike 1,State Assembly,147,CON,David J. DiPietro,32
+Wyoming,Sheldon 1,State Assembly,147,CON,David J. DiPietro,32
+Wyoming,Sheldon 2,State Assembly,147,CON,David J. DiPietro,53
+Wyoming,Sheldon 3,State Assembly,147,CON,David J. DiPietro,36
+Wyoming,Warsaw 1,State Assembly,147,CON,David J. DiPietro,22
+Wyoming,Warsaw 2,State Assembly,147,CON,David J. DiPietro,15
+Wyoming,Warsaw 3,State Assembly,147,CON,David J. DiPietro,20
+Wyoming,Warsaw 4,State Assembly,147,CON,David J. DiPietro,25
+Wyoming,Warsaw 5,State Assembly,147,CON,David J. DiPietro,34
+Wyoming,Wethersfield 1,State Assembly,147,CON,David J. DiPietro,14
+Wyoming,Total,State Assembly,147,CON,David J. DiPietro,1186
+Wyoming,Arcade 1,State Assembly,147,WOR,Christina M. Abt,19
+Wyoming,Arcade 2,State Assembly,147,WOR,Christina M. Abt,19
+Wyoming,Arcade 3,State Assembly,147,WOR,Christina M. Abt,16
+Wyoming,Arcade 4,State Assembly,147,WOR,Christina M. Abt,15
+Wyoming,Attica 1,State Assembly,147,WOR,Christina M. Abt,15
+Wyoming,Attica 2,State Assembly,147,WOR,Christina M. Abt,19
+Wyoming,Attica 3,State Assembly,147,WOR,Christina M. Abt,23
+Wyoming,Attica 4,State Assembly,147,WOR,Christina M. Abt,21
+Wyoming,Bennington 1,State Assembly,147,WOR,Christina M. Abt,25
+Wyoming,Bennington 2,State Assembly,147,WOR,Christina M. Abt,21
+Wyoming,Bennington 3,State Assembly,147,WOR,Christina M. Abt,22
+Wyoming,Castile 1,State Assembly,147,WOR,Christina M. Abt,13
+Wyoming,Castile 2,State Assembly,147,WOR,Christina M. Abt,22
+Wyoming,Castile 3,State Assembly,147,WOR,Christina M. Abt,17
+Wyoming,Covington 1,State Assembly,147,WOR,Christina M. Abt,19
+Wyoming,Eagle 1,State Assembly,147,WOR,Christina M. Abt,36
+Wyoming,Gainesville 1,State Assembly,147,WOR,Christina M. Abt,10
+Wyoming,Gainesville 2,State Assembly,147,WOR,Christina M. Abt,8
+Wyoming,Gainesville 3,State Assembly,147,WOR,Christina M. Abt,8
+Wyoming,Gainesville 4,State Assembly,147,WOR,Christina M. Abt,22
+Wyoming,Genesee Falls 1,State Assembly,147,WOR,Christina M. Abt,5
+Wyoming,Java 1,State Assembly,147,WOR,Christina M. Abt,21
+Wyoming,Java 2,State Assembly,147,WOR,Christina M. Abt,30
+Wyoming,Middlebury 1,State Assembly,147,WOR,Christina M. Abt,17
+Wyoming,Middlebury 2,State Assembly,147,WOR,Christina M. Abt,15
+Wyoming,Orangeville 1,State Assembly,147,WOR,Christina M. Abt,34
+Wyoming,Perry 1,State Assembly,147,WOR,Christina M. Abt,21
+Wyoming,Perry 2,State Assembly,147,WOR,Christina M. Abt,7
+Wyoming,Perry 3,State Assembly,147,WOR,Christina M. Abt,19
+Wyoming,Perry 4,State Assembly,147,WOR,Christina M. Abt,25
+Wyoming,Pike 1,State Assembly,147,WOR,Christina M. Abt,21
+Wyoming,Sheldon 1,State Assembly,147,WOR,Christina M. Abt,13
+Wyoming,Sheldon 2,State Assembly,147,WOR,Christina M. Abt,16
+Wyoming,Sheldon 3,State Assembly,147,WOR,Christina M. Abt,19
+Wyoming,Warsaw 1,State Assembly,147,WOR,Christina M. Abt,11
+Wyoming,Warsaw 2,State Assembly,147,WOR,Christina M. Abt,22
+Wyoming,Warsaw 3,State Assembly,147,WOR,Christina M. Abt,19
+Wyoming,Warsaw 4,State Assembly,147,WOR,Christina M. Abt,11
+Wyoming,Warsaw 5,State Assembly,147,WOR,Christina M. Abt,18
+Wyoming,Wethersfield 1,State Assembly,147,WOR,Christina M. Abt,21
+Wyoming,Total,State Assembly,147,WOR,Christina M. Abt,735
+Wyoming,Arcade 1,State Assembly,147,IND,Christina M. Abt,12
+Wyoming,Arcade 2,State Assembly,147,IND,Christina M. Abt,11
+Wyoming,Arcade 3,State Assembly,147,IND,Christina M. Abt,13
+Wyoming,Arcade 4,State Assembly,147,IND,Christina M. Abt,15
+Wyoming,Attica 1,State Assembly,147,IND,Christina M. Abt,20
+Wyoming,Attica 2,State Assembly,147,IND,Christina M. Abt,15
+Wyoming,Attica 3,State Assembly,147,IND,Christina M. Abt,18
+Wyoming,Attica 4,State Assembly,147,IND,Christina M. Abt,27
+Wyoming,Bennington 1,State Assembly,147,IND,Christina M. Abt,23
+Wyoming,Bennington 2,State Assembly,147,IND,Christina M. Abt,21
+Wyoming,Bennington 3,State Assembly,147,IND,Christina M. Abt,22
+Wyoming,Castile 1,State Assembly,147,IND,Christina M. Abt,18
+Wyoming,Castile 2,State Assembly,147,IND,Christina M. Abt,11
+Wyoming,Castile 3,State Assembly,147,IND,Christina M. Abt,8
+Wyoming,Covington 1,State Assembly,147,IND,Christina M. Abt,12
+Wyoming,Eagle 1,State Assembly,147,IND,Christina M. Abt,18
+Wyoming,Gainesville 1,State Assembly,147,IND,Christina M. Abt,15
+Wyoming,Gainesville 2,State Assembly,147,IND,Christina M. Abt,7
+Wyoming,Gainesville 3,State Assembly,147,IND,Christina M. Abt,7
+Wyoming,Gainesville 4,State Assembly,147,IND,Christina M. Abt,9
+Wyoming,Genesee Falls 1,State Assembly,147,IND,Christina M. Abt,5
+Wyoming,Java 1,State Assembly,147,IND,Christina M. Abt,22
+Wyoming,Java 2,State Assembly,147,IND,Christina M. Abt,15
+Wyoming,Middlebury 1,State Assembly,147,IND,Christina M. Abt,17
+Wyoming,Middlebury 2,State Assembly,147,IND,Christina M. Abt,8
+Wyoming,Orangeville 1,State Assembly,147,IND,Christina M. Abt,24
+Wyoming,Perry 1,State Assembly,147,IND,Christina M. Abt,17
+Wyoming,Perry 2,State Assembly,147,IND,Christina M. Abt,8
+Wyoming,Perry 3,State Assembly,147,IND,Christina M. Abt,21
+Wyoming,Perry 4,State Assembly,147,IND,Christina M. Abt,11
+Wyoming,Pike 1,State Assembly,147,IND,Christina M. Abt,20
+Wyoming,Sheldon 1,State Assembly,147,IND,Christina M. Abt,15
+Wyoming,Sheldon 2,State Assembly,147,IND,Christina M. Abt,9
+Wyoming,Sheldon 3,State Assembly,147,IND,Christina M. Abt,14
+Wyoming,Warsaw 1,State Assembly,147,IND,Christina M. Abt,20
+Wyoming,Warsaw 2,State Assembly,147,IND,Christina M. Abt,13
+Wyoming,Warsaw 3,State Assembly,147,IND,Christina M. Abt,20
+Wyoming,Warsaw 4,State Assembly,147,IND,Christina M. Abt,14
+Wyoming,Warsaw 5,State Assembly,147,IND,Christina M. Abt,15
+Wyoming,Wethersfield 1,State Assembly,147,IND,Christina M. Abt,14
+Wyoming,Total,State Assembly,147,IND,Christina M. Abt,604
+Wyoming,Arcade 1,State Assembly,147,,Write-ins,0
+Wyoming,Arcade 2,State Assembly,147,,Write-ins,0
+Wyoming,Arcade 3,State Assembly,147,,Write-ins,1
+Wyoming,Arcade 4,State Assembly,147,,Write-ins,0
+Wyoming,Attica 1,State Assembly,147,,Write-ins,1
+Wyoming,Attica 2,State Assembly,147,,Write-ins,1
+Wyoming,Attica 3,State Assembly,147,,Write-ins,0
+Wyoming,Attica 4,State Assembly,147,,Write-ins,0
+Wyoming,Bennington 1,State Assembly,147,,Write-ins,0
+Wyoming,Bennington 2,State Assembly,147,,Write-ins,0
+Wyoming,Bennington 3,State Assembly,147,,Write-ins,0
+Wyoming,Castile 1,State Assembly,147,,Write-ins,0
+Wyoming,Castile 2,State Assembly,147,,Write-ins,0
+Wyoming,Castile 3,State Assembly,147,,Write-ins,0
+Wyoming,Covington 1,State Assembly,147,,Write-ins,0
+Wyoming,Eagle 1,State Assembly,147,,Write-ins,0
+Wyoming,Gainesville 1,State Assembly,147,,Write-ins,0
+Wyoming,Gainesville 2,State Assembly,147,,Write-ins,0
+Wyoming,Gainesville 3,State Assembly,147,,Write-ins,0
+Wyoming,Gainesville 4,State Assembly,147,,Write-ins,0
+Wyoming,Genesee Falls 1,State Assembly,147,,Write-ins,0
+Wyoming,Java 1,State Assembly,147,,Write-ins,0
+Wyoming,Java 2,State Assembly,147,,Write-ins,0
+Wyoming,Middlebury 1,State Assembly,147,,Write-ins,0
+Wyoming,Middlebury 2,State Assembly,147,,Write-ins,0
+Wyoming,Orangeville 1,State Assembly,147,,Write-ins,2
+Wyoming,Perry 1,State Assembly,147,,Write-ins,0
+Wyoming,Perry 2,State Assembly,147,,Write-ins,0
+Wyoming,Perry 3,State Assembly,147,,Write-ins,0
+Wyoming,Perry 4,State Assembly,147,,Write-ins,0
+Wyoming,Pike 1,State Assembly,147,,Write-ins,0
+Wyoming,Sheldon 1,State Assembly,147,,Write-ins,1
+Wyoming,Sheldon 2,State Assembly,147,,Write-ins,0
+Wyoming,Sheldon 3,State Assembly,147,,Write-ins,0
+Wyoming,Warsaw 1,State Assembly,147,,Write-ins,0
+Wyoming,Warsaw 2,State Assembly,147,,Write-ins,0
+Wyoming,Warsaw 3,State Assembly,147,,Write-ins,0
+Wyoming,Warsaw 4,State Assembly,147,,Write-ins,0
+Wyoming,Warsaw 5,State Assembly,147,,Write-ins,0
+Wyoming,Wethersfield 1,State Assembly,147,,Write-ins,0
+Wyoming,Total,State Assembly,147,,Write-ins,6
+Wyoming,Arcade 1,State Assembly,147,,Blanks,51
+Wyoming,Arcade 2,State Assembly,147,,Blanks,20
+Wyoming,Arcade 3,State Assembly,147,,Blanks,18
+Wyoming,Arcade 4,State Assembly,147,,Blanks,48
+Wyoming,Attica 1,State Assembly,147,,Blanks,32
+Wyoming,Attica 2,State Assembly,147,,Blanks,35
+Wyoming,Attica 3,State Assembly,147,,Blanks,37
+Wyoming,Attica 4,State Assembly,147,,Blanks,37
+Wyoming,Bennington 1,State Assembly,147,,Blanks,44
+Wyoming,Bennington 2,State Assembly,147,,Blanks,46
+Wyoming,Bennington 3,State Assembly,147,,Blanks,41
+Wyoming,Castile 1,State Assembly,147,,Blanks,29
+Wyoming,Castile 2,State Assembly,147,,Blanks,39
+Wyoming,Castile 3,State Assembly,147,,Blanks,44
+Wyoming,Covington 1,State Assembly,147,,Blanks,65
+Wyoming,Eagle 1,State Assembly,147,,Blanks,26
+Wyoming,Gainesville 1,State Assembly,147,,Blanks,11
+Wyoming,Gainesville 2,State Assembly,147,,Blanks,12
+Wyoming,Gainesville 3,State Assembly,147,,Blanks,6
+Wyoming,Gainesville 4,State Assembly,147,,Blanks,15
+Wyoming,Genesee Falls 1,State Assembly,147,,Blanks,20
+Wyoming,Java 1,State Assembly,147,,Blanks,39
+Wyoming,Java 2,State Assembly,147,,Blanks,37
+Wyoming,Middlebury 1,State Assembly,147,,Blanks,33
+Wyoming,Middlebury 2,State Assembly,147,,Blanks,12
+Wyoming,Orangeville 1,State Assembly,147,,Blanks,39
+Wyoming,Perry 1,State Assembly,147,,Blanks,53
+Wyoming,Perry 2,State Assembly,147,,Blanks,17
+Wyoming,Perry 3,State Assembly,147,,Blanks,33
+Wyoming,Perry 4,State Assembly,147,,Blanks,38
+Wyoming,Pike 1,State Assembly,147,,Blanks,18
+Wyoming,Sheldon 1,State Assembly,147,,Blanks,24
+Wyoming,Sheldon 2,State Assembly,147,,Blanks,32
+Wyoming,Sheldon 3,State Assembly,147,,Blanks,25
+Wyoming,Warsaw 1,State Assembly,147,,Blanks,27
+Wyoming,Warsaw 2,State Assembly,147,,Blanks,0
+Wyoming,Warsaw 3,State Assembly,147,,Blanks,25
+Wyoming,Warsaw 4,State Assembly,147,,Blanks,26
+Wyoming,Warsaw 5,State Assembly,147,,Blanks,41
+Wyoming,Wethersfield 1,State Assembly,147,,Blanks,13
+Wyoming,Total,State Assembly,147,,Blanks,1208
+Wyoming,Arcade 1,State Assembly,147,,Void,0
+Wyoming,Arcade 2,State Assembly,147,,Void,0
+Wyoming,Arcade 3,State Assembly,147,,Void,0
+Wyoming,Arcade 4,State Assembly,147,,Void,0
+Wyoming,Attica 1,State Assembly,147,,Void,0
+Wyoming,Attica 2,State Assembly,147,,Void,0
+Wyoming,Attica 3,State Assembly,147,,Void,0
+Wyoming,Attica 4,State Assembly,147,,Void,0
+Wyoming,Bennington 1,State Assembly,147,,Void,0
+Wyoming,Bennington 2,State Assembly,147,,Void,1
+Wyoming,Bennington 3,State Assembly,147,,Void,0
+Wyoming,Castile 1,State Assembly,147,,Void,0
+Wyoming,Castile 2,State Assembly,147,,Void,0
+Wyoming,Castile 3,State Assembly,147,,Void,0
+Wyoming,Covington 1,State Assembly,147,,Void,1
+Wyoming,Eagle 1,State Assembly,147,,Void,0
+Wyoming,Gainesville 1,State Assembly,147,,Void,0
+Wyoming,Gainesville 2,State Assembly,147,,Void,0
+Wyoming,Gainesville 3,State Assembly,147,,Void,0
+Wyoming,Gainesville 4,State Assembly,147,,Void,0
+Wyoming,Genesee Falls 1,State Assembly,147,,Void,0
+Wyoming,Java 1,State Assembly,147,,Void,0
+Wyoming,Java 2,State Assembly,147,,Void,0
+Wyoming,Middlebury 1,State Assembly,147,,Void,0
+Wyoming,Middlebury 2,State Assembly,147,,Void,0
+Wyoming,Orangeville 1,State Assembly,147,,Void,0
+Wyoming,Perry 1,State Assembly,147,,Void,0
+Wyoming,Perry 2,State Assembly,147,,Void,0
+Wyoming,Perry 3,State Assembly,147,,Void,0
+Wyoming,Perry 4,State Assembly,147,,Void,0
+Wyoming,Pike 1,State Assembly,147,,Void,1
+Wyoming,Sheldon 1,State Assembly,147,,Void,0
+Wyoming,Sheldon 2,State Assembly,147,,Void,0
+Wyoming,Sheldon 3,State Assembly,147,,Void,0
+Wyoming,Warsaw 1,State Assembly,147,,Void,0
+Wyoming,Warsaw 2,State Assembly,147,,Void,0
+Wyoming,Warsaw 3,State Assembly,147,,Void,0
+Wyoming,Warsaw 4,State Assembly,147,,Void,0
+Wyoming,Warsaw 5,State Assembly,147,,Void,0
+Wyoming,Wethersfield 1,State Assembly,147,,Void,0
+Wyoming,Total,State Assembly,147,,Void,3
