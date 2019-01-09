@@ -1,0 +1,2232 @@
+county,precinct,office,district,party,candidate,votes
+Chenango,AFTON 1,Ballots Cast,,,,1014
+Chenango,BAINBRIDGE 1,Ballots Cast,,,,1119
+Chenango,COLUMBUS 1,Ballots Cast,,,,308
+Chenango,COVENTRY 1,Ballots Cast,,,,623
+Chenango,GERMAN 1,Ballots Cast,,,,141
+Chenango,GREENE 1,Ballots Cast,,,,1102
+Chenango,GREENE 2,Ballots Cast,,,,998
+Chenango,GUILFORD 1,Ballots Cast,,,,994
+Chenango,LINCKLAEN 1,Ballots Cast,,,,137
+Chenango,MCDONOUGH 1,Ballots Cast,,,,345
+Chenango,NEW BERLIN 1,Ballots Cast,,,,781
+Chenango,NORTH NORWICH 1,Ballots Cast,,,,594
+Chenango,NORWICH TOWN 1,Ballots Cast,,,,709
+Chenango,NORWICH TOWN 2,Ballots Cast,,,,606
+Chenango,AFTON 1,Governor,,DEM,Andrew M. Cuomo,235
+Chenango,BAINBRIDGE 1,Governor,,DEM,Andrew M. Cuomo,290
+Chenango,COLUMBUS 1,Governor,,DEM,Andrew M. Cuomo,62
+Chenango,COVENTRY 1,Governor,,DEM,Andrew M. Cuomo,121
+Chenango,GERMAN 1,Governor,,DEM,Andrew M. Cuomo,30
+Chenango,GREENE 1,Governor,,DEM,Andrew M. Cuomo,278
+Chenango,GREENE 2,Governor,,DEM,Andrew M. Cuomo,251
+Chenango,GUILFORD 1,Governor,,DEM,Andrew M. Cuomo,270
+Chenango,LINCKLAEN 1,Governor,,DEM,Andrew M. Cuomo,29
+Chenango,MCDONOUGH 1,Governor,,DEM,Andrew M. Cuomo,81
+Chenango,NEW BERLIN 1,Governor,,DEM,Andrew M. Cuomo,220
+Chenango,NORTH NORWICH 1,Governor,,DEM,Andrew M. Cuomo,163
+Chenango,NORWICH TOWN 1,Governor,,DEM,Andrew M. Cuomo,202
+Chenango,NORWICH TOWN 2,Governor,,DEM,Andrew M. Cuomo,179
+Chenango,AFTON 1,Governor,,REP,Marc Molinaro,601
+Chenango,BAINBRIDGE 1,Governor,,REP,Marc Molinaro,658
+Chenango,COLUMBUS 1,Governor,,REP,Marc Molinaro,181
+Chenango,COVENTRY 1,Governor,,REP,Marc Molinaro,390
+Chenango,GERMAN 1,Governor,,REP,Marc Molinaro,79
+Chenango,GREENE 1,Governor,,REP,Marc Molinaro,633
+Chenango,GREENE 2,Governor,,REP,Marc Molinaro,596
+Chenango,GUILFORD 1,Governor,,REP,Marc Molinaro,561
+Chenango,LINCKLAEN 1,Governor,,REP,Marc Molinaro,90
+Chenango,MCDONOUGH 1,Governor,,REP,Marc Molinaro,207
+Chenango,NEW BERLIN 1,Governor,,REP,Marc Molinaro,406
+Chenango,NORTH NORWICH 1,Governor,,REP,Marc Molinaro,329
+Chenango,NORWICH TOWN 1,Governor,,REP,Marc Molinaro,381
+Chenango,NORWICH TOWN 2,Governor,,REP,Marc Molinaro,332
+Chenango,AFTON 1,Governor,,CON,Marc Molinaro,51
+Chenango,BAINBRIDGE 1,Governor,,CON,Marc Molinaro,35
+Chenango,COLUMBUS 1,Governor,,CON,Marc Molinaro,15
+Chenango,COVENTRY 1,Governor,,CON,Marc Molinaro,36
+Chenango,GERMAN 1,Governor,,CON,Marc Molinaro,7
+Chenango,GREENE 1,Governor,,CON,Marc Molinaro,58
+Chenango,GREENE 2,Governor,,CON,Marc Molinaro,46
+Chenango,GUILFORD 1,Governor,,CON,Marc Molinaro,36
+Chenango,LINCKLAEN 1,Governor,,CON,Marc Molinaro,4
+Chenango,MCDONOUGH 1,Governor,,CON,Marc Molinaro,10
+Chenango,NEW BERLIN 1,Governor,,CON,Marc Molinaro,41
+Chenango,NORTH NORWICH 1,Governor,,CON,Marc Molinaro,26
+Chenango,NORWICH TOWN 1,Governor,,CON,Marc Molinaro,25
+Chenango,NORWICH TOWN 2,Governor,,CON,Marc Molinaro,18
+Chenango,AFTON 1,Governor,,GRE,Howie Hawkins,19
+Chenango,BAINBRIDGE 1,Governor,,GRE,Howie Hawkins,18
+Chenango,COLUMBUS 1,Governor,,GRE,Howie Hawkins,3
+Chenango,COVENTRY 1,Governor,,GRE,Howie Hawkins,8
+Chenango,GERMAN 1,Governor,,GRE,Howie Hawkins,3
+Chenango,GREENE 1,Governor,,GRE,Howie Hawkins,15
+Chenango,GREENE 2,Governor,,GRE,Howie Hawkins,15
+Chenango,GUILFORD 1,Governor,,GRE,Howie Hawkins,20
+Chenango,LINCKLAEN 1,Governor,,GRE,Howie Hawkins,2
+Chenango,MCDONOUGH 1,Governor,,GRE,Howie Hawkins,9
+Chenango,NEW BERLIN 1,Governor,,GRE,Howie Hawkins,14
+Chenango,NORTH NORWICH 1,Governor,,GRE,Howie Hawkins,11
+Chenango,NORWICH TOWN 1,Governor,,GRE,Howie Hawkins,8
+Chenango,NORWICH TOWN 2,Governor,,GRE,Howie Hawkins,6
+Chenango,AFTON 1,Governor,,WFP,Andrew M. Cuomo,7
+Chenango,BAINBRIDGE 1,Governor,,WFP,Andrew M. Cuomo,13
+Chenango,COLUMBUS 1,Governor,,WFP,Andrew M. Cuomo,2
+Chenango,COVENTRY 1,Governor,,WFP,Andrew M. Cuomo,5
+Chenango,GERMAN 1,Governor,,WFP,Andrew M. Cuomo,0
+Chenango,GREENE 1,Governor,,WFP,Andrew M. Cuomo,10
+Chenango,GREENE 2,Governor,,WFP,Andrew M. Cuomo,4
+Chenango,GUILFORD 1,Governor,,WFP,Andrew M. Cuomo,4
+Chenango,LINCKLAEN 1,Governor,,WFP,Andrew M. Cuomo,2
+Chenango,MCDONOUGH 1,Governor,,WFP,Andrew M. Cuomo,5
+Chenango,NEW BERLIN 1,Governor,,WFP,Andrew M. Cuomo,7
+Chenango,NORTH NORWICH 1,Governor,,WFP,Andrew M. Cuomo,5
+Chenango,NORWICH TOWN 1,Governor,,WFP,Andrew M. Cuomo,4
+Chenango,NORWICH TOWN 2,Governor,,WFP,Andrew M. Cuomo,4
+Chenango,AFTON 1,Governor,,IND,Andrew M. Cuomo,5
+Chenango,BAINBRIDGE 1,Governor,,IND,Andrew M. Cuomo,8
+Chenango,COLUMBUS 1,Governor,,IND,Andrew M. Cuomo,2
+Chenango,COVENTRY 1,Governor,,IND,Andrew M. Cuomo,7
+Chenango,GERMAN 1,Governor,,IND,Andrew M. Cuomo,0
+Chenango,GREENE 1,Governor,,IND,Andrew M. Cuomo,13
+Chenango,GREENE 2,Governor,,IND,Andrew M. Cuomo,9
+Chenango,GUILFORD 1,Governor,,IND,Andrew M. Cuomo,7
+Chenango,LINCKLAEN 1,Governor,,IND,Andrew M. Cuomo,4
+Chenango,MCDONOUGH 1,Governor,,IND,Andrew M. Cuomo,6
+Chenango,NEW BERLIN 1,Governor,,IND,Andrew M. Cuomo,12
+Chenango,NORTH NORWICH 1,Governor,,IND,Andrew M. Cuomo,2
+Chenango,NORWICH TOWN 1,Governor,,IND,Andrew M. Cuomo,3
+Chenango,NORWICH TOWN 2,Governor,,IND,Andrew M. Cuomo,5
+Chenango,AFTON 1,Governor,,WEP,Andrew M. Cuomo,3
+Chenango,BAINBRIDGE 1,Governor,,WEP,Andrew M. Cuomo,1
+Chenango,COLUMBUS 1,Governor,,WEP,Andrew M. Cuomo,3
+Chenango,COVENTRY 1,Governor,,WEP,Andrew M. Cuomo,0
+Chenango,GERMAN 1,Governor,,WEP,Andrew M. Cuomo,0
+Chenango,GREENE 1,Governor,,WEP,Andrew M. Cuomo,1
+Chenango,GREENE 2,Governor,,WEP,Andrew M. Cuomo,2
+Chenango,GUILFORD 1,Governor,,WEP,Andrew M. Cuomo,2
+Chenango,LINCKLAEN 1,Governor,,WEP,Andrew M. Cuomo,0
+Chenango,MCDONOUGH 1,Governor,,WEP,Andrew M. Cuomo,1
+Chenango,NEW BERLIN 1,Governor,,WEP,Andrew M. Cuomo,3
+Chenango,NORTH NORWICH 1,Governor,,WEP,Andrew M. Cuomo,3
+Chenango,NORWICH TOWN 1,Governor,,WEP,Andrew M. Cuomo,5
+Chenango,NORWICH TOWN 2,Governor,,WEP,Andrew M. Cuomo,4
+Chenango,AFTON 1,Governor,,REF,Marc Molinaro,7
+Chenango,BAINBRIDGE 1,Governor,,REF,Marc Molinaro,8
+Chenango,COLUMBUS 1,Governor,,REF,Marc Molinaro,3
+Chenango,COVENTRY 1,Governor,,REF,Marc Molinaro,5
+Chenango,GERMAN 1,Governor,,REF,Marc Molinaro,2
+Chenango,GREENE 1,Governor,,REF,Marc Molinaro,7
+Chenango,GREENE 2,Governor,,REF,Marc Molinaro,5
+Chenango,GUILFORD 1,Governor,,REF,Marc Molinaro,3
+Chenango,LINCKLAEN 1,Governor,,REF,Marc Molinaro,0
+Chenango,MCDONOUGH 1,Governor,,REF,Marc Molinaro,0
+Chenango,NEW BERLIN 1,Governor,,REF,Marc Molinaro,7
+Chenango,NORTH NORWICH 1,Governor,,REF,Marc Molinaro,2
+Chenango,NORWICH TOWN 1,Governor,,REF,Marc Molinaro,5
+Chenango,NORWICH TOWN 2,Governor,,REF,Marc Molinaro,4
+Chenango,AFTON 1,Governor,,SAM,Stephanie A. Miner,9
+Chenango,BAINBRIDGE 1,Governor,,SAM,Stephanie A. Miner,7
+Chenango,COLUMBUS 1,Governor,,SAM,Stephanie A. Miner,9
+Chenango,COVENTRY 1,Governor,,SAM,Stephanie A. Miner,6
+Chenango,GERMAN 1,Governor,,SAM,Stephanie A. Miner,4
+Chenango,GREENE 1,Governor,,SAM,Stephanie A. Miner,16
+Chenango,GREENE 2,Governor,,SAM,Stephanie A. Miner,12
+Chenango,GUILFORD 1,Governor,,SAM,Stephanie A. Miner,17
+Chenango,LINCKLAEN 1,Governor,,SAM,Stephanie A. Miner,4
+Chenango,MCDONOUGH 1,Governor,,SAM,Stephanie A. Miner,0
+Chenango,NEW BERLIN 1,Governor,,SAM,Stephanie A. Miner,6
+Chenango,NORTH NORWICH 1,Governor,,SAM,Stephanie A. Miner,9
+Chenango,NORWICH TOWN 1,Governor,,SAM,Stephanie A. Miner,10
+Chenango,NORWICH TOWN 2,Governor,,SAM,Stephanie A. Miner,6
+Chenango,AFTON 1,Governor,,LIB,Larry Sharpe,42
+Chenango,BAINBRIDGE 1,Governor,,LIB,Larry Sharpe,43
+Chenango,COLUMBUS 1,Governor,,LIB,Larry Sharpe,8
+Chenango,COVENTRY 1,Governor,,LIB,Larry Sharpe,26
+Chenango,GERMAN 1,Governor,,LIB,Larry Sharpe,10
+Chenango,GREENE 1,Governor,,LIB,Larry Sharpe,37
+Chenango,GREENE 2,Governor,,LIB,Larry Sharpe,31
+Chenango,GUILFORD 1,Governor,,LIB,Larry Sharpe,49
+Chenango,LINCKLAEN 1,Governor,,LIB,Larry Sharpe,1
+Chenango,MCDONOUGH 1,Governor,,LIB,Larry Sharpe,14
+Chenango,NEW BERLIN 1,Governor,,LIB,Larry Sharpe,48
+Chenango,NORTH NORWICH 1,Governor,,LIB,Larry Sharpe,28
+Chenango,NORWICH TOWN 1,Governor,,LIB,Larry Sharpe,39
+Chenango,NORWICH TOWN 2,Governor,,LIB,Larry Sharpe,27
+Chenango,AFTON 1,Governor,,,Write-Ins,0
+Chenango,BAINBRIDGE 1,Governor,,,Write-Ins,0
+Chenango,COLUMBUS 1,Governor,,,Write-Ins,0
+Chenango,COVENTRY 1,Governor,,,Write-Ins,1
+Chenango,GERMAN 1,Governor,,,Write-Ins,0
+Chenango,GREENE 1,Governor,,,Write-Ins,1
+Chenango,GREENE 2,Governor,,,Write-Ins,0
+Chenango,GUILFORD 1,Governor,,,Write-Ins,2
+Chenango,LINCKLAEN 1,Governor,,,Write-Ins,0
+Chenango,MCDONOUGH 1,Governor,,,Write-Ins,0
+Chenango,NEW BERLIN 1,Governor,,,Write-Ins,0
+Chenango,NORTH NORWICH 1,Governor,,,Write-Ins,0
+Chenango,NORWICH TOWN 1,Governor,,,Write-Ins,0
+Chenango,NORWICH TOWN 2,Governor,,,Write-Ins,1
+Chenango,AFTON 1,Governor,,,Void,0
+Chenango,BAINBRIDGE 1,Governor,,,Void,1
+Chenango,COLUMBUS 1,Governor,,,Void,0
+Chenango,COVENTRY 1,Governor,,,Void,0
+Chenango,GERMAN 1,Governor,,,Void,0
+Chenango,GREENE 1,Governor,,,Void,1
+Chenango,GREENE 2,Governor,,,Void,1
+Chenango,GUILFORD 1,Governor,,,Void,0
+Chenango,LINCKLAEN 1,Governor,,,Void,0
+Chenango,MCDONOUGH 1,Governor,,,Void,1
+Chenango,NEW BERLIN 1,Governor,,,Void,0
+Chenango,NORTH NORWICH 1,Governor,,,Void,1
+Chenango,NORWICH TOWN 1,Governor,,,Void,1
+Chenango,NORWICH TOWN 2,Governor,,,Void,1
+Chenango,AFTON 1,Governor,,,Blanks,35
+Chenango,BAINBRIDGE 1,Governor,,,Blanks,37
+Chenango,COLUMBUS 1,Governor,,,Blanks,20
+Chenango,COVENTRY 1,Governor,,,Blanks,18
+Chenango,GERMAN 1,Governor,,,Blanks,6
+Chenango,GREENE 1,Governor,,,Blanks,32
+Chenango,GREENE 2,Governor,,,Blanks,26
+Chenango,GUILFORD 1,Governor,,,Blanks,23
+Chenango,LINCKLAEN 1,Governor,,,Blanks,1
+Chenango,MCDONOUGH 1,Governor,,,Blanks,11
+Chenango,NEW BERLIN 1,Governor,,,Blanks,17
+Chenango,NORTH NORWICH 1,Governor,,,Blanks,15
+Chenango,NORWICH TOWN 1,Governor,,,Blanks,26
+Chenango,NORWICH TOWN 2,Governor,,,Blanks,19
+Chenango,CITY OF NORWICH WARD 1,Ballots Cast,,,,460
+Chenango,CITY OF NORWICH WARD 2,Ballots Cast,,,,375
+Chenango,CITY OF NORWICH WARD 3,Ballots Cast,,,,557
+Chenango,CITY OF NORWICH WARD 4,Ballots Cast,,,,253
+Chenango,CITY OF NORWICH WARD 5,Ballots Cast,,,,325
+Chenango,CITY OF NORWICH WARD 6,Ballots Cast,,,,337
+Chenango,OTSELIC 1,Ballots Cast,,,,294
+Chenango,OXFORD 1,Ballots Cast,,,,849
+Chenango,OXFORD 2,Ballots Cast,,,,558
+Chenango,PHARSALIA 1,Ballots Cast,,,,193
+Chenango,PITCHER 1,Ballots Cast,,,,217
+Chenango,PLYMOUTH 1,Ballots Cast,,,,606
+Chenango,PRESTON 1,Ballots Cast,,,,370
+Chenango,SHERBURNE 1,Ballots Cast,,,,685
+Chenango,SHERBURNE 2,Ballots Cast,,,,703
+Chenango,SMITHVILLE 1,Ballots Cast,,,,481
+Chenango,SMYRNA 1,Ballots Cast,,,,448
+Chenango,CITY OF NORWICH WARD 1,Governor,,DEM,Andrew M. Cuomo,197
+Chenango,CITY OF NORWICH WARD 2,Governor,,DEM,Andrew M. Cuomo,143
+Chenango,CITY OF NORWICH WARD 3,Governor,,DEM,Andrew M. Cuomo,208
+Chenango,CITY OF NORWICH WARD 4,Governor,,DEM,Andrew M. Cuomo,90
+Chenango,CITY OF NORWICH WARD 5,Governor,,DEM,Andrew M. Cuomo,114
+Chenango,CITY OF NORWICH WARD 6,Governor,,DEM,Andrew M. Cuomo,119
+Chenango,OTSELIC 1,Governor,,DEM,Andrew M. Cuomo,78
+Chenango,OXFORD 1,Governor,,DEM,Andrew M. Cuomo,224
+Chenango,OXFORD 2,Governor,,DEM,Andrew M. Cuomo,180
+Chenango,PHARSALIA 1,Governor,,DEM,Andrew M. Cuomo,55
+Chenango,PITCHER 1,Governor,,DEM,Andrew M. Cuomo,46
+Chenango,PLYMOUTH 1,Governor,,DEM,Andrew M. Cuomo,117
+Chenango,PRESTON 1,Governor,,DEM,Andrew M. Cuomo,124
+Chenango,SHERBURNE 1,Governor,,DEM,Andrew M. Cuomo,197
+Chenango,SHERBURNE 2,Governor,,DEM,Andrew M. Cuomo,184
+Chenango,SMITHVILLE 1,Governor,,DEM,Andrew M. Cuomo,123
+Chenango,SMYRNA 1,Governor,,DEM,Andrew M. Cuomo,104
+Chenango,CITY OF NORWICH WARD 1,Governor,,REP,Marc Molinaro,175
+Chenango,CITY OF NORWICH WARD 2,Governor,,REP,Marc Molinaro,153
+Chenango,CITY OF NORWICH WARD 3,Governor,,REP,Marc Molinaro,245
+Chenango,CITY OF NORWICH WARD 4,Governor,,REP,Marc Molinaro,119
+Chenango,CITY OF NORWICH WARD 5,Governor,,REP,Marc Molinaro,139
+Chenango,CITY OF NORWICH WARD 6,Governor,,REP,Marc Molinaro,155
+Chenango,OTSELIC 1,Governor,,REP,Marc Molinaro,169
+Chenango,OXFORD 1,Governor,,REP,Marc Molinaro,471
+Chenango,OXFORD 2,Governor,,REP,Marc Molinaro,283
+Chenango,PHARSALIA 1,Governor,,REP,Marc Molinaro,108
+Chenango,PITCHER 1,Governor,,REP,Marc Molinaro,128
+Chenango,PLYMOUTH 1,Governor,,REP,Marc Molinaro,391
+Chenango,PRESTON 1,Governor,,REP,Marc Molinaro,183
+Chenango,SHERBURNE 1,Governor,,REP,Marc Molinaro,353
+Chenango,SHERBURNE 2,Governor,,REP,Marc Molinaro,375
+Chenango,SMITHVILLE 1,Governor,,REP,Marc Molinaro,283
+Chenango,SMYRNA 1,Governor,,REP,Marc Molinaro,268
+Chenango,CITY OF NORWICH WARD 1,Governor,,CON,Marc Molinaro,10
+Chenango,CITY OF NORWICH WARD 2,Governor,,CON,Marc Molinaro,15
+Chenango,CITY OF NORWICH WARD 3,Governor,,CON,Marc Molinaro,14
+Chenango,CITY OF NORWICH WARD 4,Governor,,CON,Marc Molinaro,9
+Chenango,CITY OF NORWICH WARD 5,Governor,,CON,Marc Molinaro,14
+Chenango,CITY OF NORWICH WARD 6,Governor,,CON,Marc Molinaro,14
+Chenango,OTSELIC 1,Governor,,CON,Marc Molinaro,11
+Chenango,OXFORD 1,Governor,,CON,Marc Molinaro,33
+Chenango,OXFORD 2,Governor,,CON,Marc Molinaro,21
+Chenango,PHARSALIA 1,Governor,,CON,Marc Molinaro,15
+Chenango,PITCHER 1,Governor,,CON,Marc Molinaro,10
+Chenango,PLYMOUTH 1,Governor,,CON,Marc Molinaro,28
+Chenango,PRESTON 1,Governor,,CON,Marc Molinaro,20
+Chenango,SHERBURNE 1,Governor,,CON,Marc Molinaro,23
+Chenango,SHERBURNE 2,Governor,,CON,Marc Molinaro,31
+Chenango,SMITHVILLE 1,Governor,,CON,Marc Molinaro,23
+Chenango,SMYRNA 1,Governor,,CON,Marc Molinaro,16
+Chenango,CITY OF NORWICH WARD 1,Governor,,GRE,Howie Hawkins,10
+Chenango,CITY OF NORWICH WARD 2,Governor,,GRE,Howie Hawkins,6
+Chenango,CITY OF NORWICH WARD 3,Governor,,GRE,Howie Hawkins,13
+Chenango,CITY OF NORWICH WARD 4,Governor,,GRE,Howie Hawkins,5
+Chenango,CITY OF NORWICH WARD 5,Governor,,GRE,Howie Hawkins,6
+Chenango,CITY OF NORWICH WARD 6,Governor,,GRE,Howie Hawkins,3
+Chenango,OTSELIC 1,Governor,,GRE,Howie Hawkins,3
+Chenango,OXFORD 1,Governor,,GRE,Howie Hawkins,13
+Chenango,OXFORD 2,Governor,,GRE,Howie Hawkins,7
+Chenango,PHARSALIA 1,Governor,,GRE,Howie Hawkins,0
+Chenango,PITCHER 1,Governor,,GRE,Howie Hawkins,2
+Chenango,PLYMOUTH 1,Governor,,GRE,Howie Hawkins,11
+Chenango,PRESTON 1,Governor,,GRE,Howie Hawkins,4
+Chenango,SHERBURNE 1,Governor,,GRE,Howie Hawkins,14
+Chenango,SHERBURNE 2,Governor,,GRE,Howie Hawkins,8
+Chenango,SMITHVILLE 1,Governor,,GRE,Howie Hawkins,6
+Chenango,SMYRNA 1,Governor,,GRE,Howie Hawkins,7
+Chenango,CITY OF NORWICH WARD 1,Governor,,WFP,Andrew M. Cuomo,8
+Chenango,CITY OF NORWICH WARD 2,Governor,,WFP,Andrew M. Cuomo,3
+Chenango,CITY OF NORWICH WARD 3,Governor,,WFP,Andrew M. Cuomo,6
+Chenango,CITY OF NORWICH WARD 4,Governor,,WFP,Andrew M. Cuomo,5
+Chenango,CITY OF NORWICH WARD 5,Governor,,WFP,Andrew M. Cuomo,4
+Chenango,CITY OF NORWICH WARD 6,Governor,,WFP,Andrew M. Cuomo,6
+Chenango,OTSELIC 1,Governor,,WFP,Andrew M. Cuomo,2
+Chenango,OXFORD 1,Governor,,WFP,Andrew M. Cuomo,8
+Chenango,OXFORD 2,Governor,,WFP,Andrew M. Cuomo,2
+Chenango,PHARSALIA 1,Governor,,WFP,Andrew M. Cuomo,0
+Chenango,PITCHER 1,Governor,,WFP,Andrew M. Cuomo,1
+Chenango,PLYMOUTH 1,Governor,,WFP,Andrew M. Cuomo,0
+Chenango,PRESTON 1,Governor,,WFP,Andrew M. Cuomo,3
+Chenango,SHERBURNE 1,Governor,,WFP,Andrew M. Cuomo,7
+Chenango,SHERBURNE 2,Governor,,WFP,Andrew M. Cuomo,11
+Chenango,SMITHVILLE 1,Governor,,WFP,Andrew M. Cuomo,1
+Chenango,SMYRNA 1,Governor,,WFP,Andrew M. Cuomo,0
+Chenango,CITY OF NORWICH WARD 1,Governor,,IND,Andrew M. Cuomo,4
+Chenango,CITY OF NORWICH WARD 2,Governor,,IND,Andrew M. Cuomo,2
+Chenango,CITY OF NORWICH WARD 3,Governor,,IND,Andrew M. Cuomo,6
+Chenango,CITY OF NORWICH WARD 4,Governor,,IND,Andrew M. Cuomo,2
+Chenango,CITY OF NORWICH WARD 5,Governor,,IND,Andrew M. Cuomo,4
+Chenango,CITY OF NORWICH WARD 6,Governor,,IND,Andrew M. Cuomo,4
+Chenango,OTSELIC 1,Governor,,IND,Andrew M. Cuomo,3
+Chenango,OXFORD 1,Governor,,IND,Andrew M. Cuomo,7
+Chenango,OXFORD 2,Governor,,IND,Andrew M. Cuomo,9
+Chenango,PHARSALIA 1,Governor,,IND,Andrew M. Cuomo,2
+Chenango,PITCHER 1,Governor,,IND,Andrew M. Cuomo,1
+Chenango,PLYMOUTH 1,Governor,,IND,Andrew M. Cuomo,2
+Chenango,PRESTON 1,Governor,,IND,Andrew M. Cuomo,5
+Chenango,SHERBURNE 1,Governor,,IND,Andrew M. Cuomo,6
+Chenango,SHERBURNE 2,Governor,,IND,Andrew M. Cuomo,9
+Chenango,SMITHVILLE 1,Governor,,IND,Andrew M. Cuomo,3
+Chenango,SMYRNA 1,Governor,,IND,Andrew M. Cuomo,3
+Chenango,CITY OF NORWICH WARD 1,Governor,,WEP,Andrew M. Cuomo,4
+Chenango,CITY OF NORWICH WARD 2,Governor,,WEP,Andrew M. Cuomo,3
+Chenango,CITY OF NORWICH WARD 3,Governor,,WEP,Andrew M. Cuomo,4
+Chenango,CITY OF NORWICH WARD 4,Governor,,WEP,Andrew M. Cuomo,1
+Chenango,CITY OF NORWICH WARD 5,Governor,,WEP,Andrew M. Cuomo,3
+Chenango,CITY OF NORWICH WARD 6,Governor,,WEP,Andrew M. Cuomo,2
+Chenango,OTSELIC 1,Governor,,WEP,Andrew M. Cuomo,0
+Chenango,OXFORD 1,Governor,,WEP,Andrew M. Cuomo,2
+Chenango,OXFORD 2,Governor,,WEP,Andrew M. Cuomo,2
+Chenango,PHARSALIA 1,Governor,,WEP,Andrew M. Cuomo,0
+Chenango,PITCHER 1,Governor,,WEP,Andrew M. Cuomo,2
+Chenango,PLYMOUTH 1,Governor,,WEP,Andrew M. Cuomo,1
+Chenango,PRESTON 1,Governor,,WEP,Andrew M. Cuomo,2
+Chenango,SHERBURNE 1,Governor,,WEP,Andrew M. Cuomo,2
+Chenango,SHERBURNE 2,Governor,,WEP,Andrew M. Cuomo,2
+Chenango,SMITHVILLE 1,Governor,,WEP,Andrew M. Cuomo,3
+Chenango,SMYRNA 1,Governor,,WEP,Andrew M. Cuomo,0
+Chenango,CITY OF NORWICH WARD 1,Governor,,REF,Marc Molinaro,2
+Chenango,CITY OF NORWICH WARD 2,Governor,,REF,Marc Molinaro,5
+Chenango,CITY OF NORWICH WARD 3,Governor,,REF,Marc Molinaro,4
+Chenango,CITY OF NORWICH WARD 4,Governor,,REF,Marc Molinaro,1
+Chenango,CITY OF NORWICH WARD 5,Governor,,REF,Marc Molinaro,2
+Chenango,CITY OF NORWICH WARD 6,Governor,,REF,Marc Molinaro,1
+Chenango,OTSELIC 1,Governor,,REF,Marc Molinaro,0
+Chenango,OXFORD 1,Governor,,REF,Marc Molinaro,3
+Chenango,OXFORD 2,Governor,,REF,Marc Molinaro,4
+Chenango,PHARSALIA 1,Governor,,REF,Marc Molinaro,1
+Chenango,PITCHER 1,Governor,,REF,Marc Molinaro,0
+Chenango,PLYMOUTH 1,Governor,,REF,Marc Molinaro,3
+Chenango,PRESTON 1,Governor,,REF,Marc Molinaro,2
+Chenango,SHERBURNE 1,Governor,,REF,Marc Molinaro,4
+Chenango,SHERBURNE 2,Governor,,REF,Marc Molinaro,5
+Chenango,SMITHVILLE 1,Governor,,REF,Marc Molinaro,5
+Chenango,SMYRNA 1,Governor,,REF,Marc Molinaro,2
+Chenango,CITY OF NORWICH WARD 1,Governor,,SAM,Stephanie A. Miner,11
+Chenango,CITY OF NORWICH WARD 2,Governor,,SAM,Stephanie A. Miner,6
+Chenango,CITY OF NORWICH WARD 3,Governor,,SAM,Stephanie A. Miner,6
+Chenango,CITY OF NORWICH WARD 4,Governor,,SAM,Stephanie A. Miner,3
+Chenango,CITY OF NORWICH WARD 5,Governor,,SAM,Stephanie A. Miner,3
+Chenango,CITY OF NORWICH WARD 6,Governor,,SAM,Stephanie A. Miner,8
+Chenango,OTSELIC 1,Governor,,SAM,Stephanie A. Miner,8
+Chenango,OXFORD 1,Governor,,SAM,Stephanie A. Miner,11
+Chenango,OXFORD 2,Governor,,SAM,Stephanie A. Miner,6
+Chenango,PHARSALIA 1,Governor,,SAM,Stephanie A. Miner,4
+Chenango,PITCHER 1,Governor,,SAM,Stephanie A. Miner,3
+Chenango,PLYMOUTH 1,Governor,,SAM,Stephanie A. Miner,2
+Chenango,PRESTON 1,Governor,,SAM,Stephanie A. Miner,4
+Chenango,SHERBURNE 1,Governor,,SAM,Stephanie A. Miner,15
+Chenango,SHERBURNE 2,Governor,,SAM,Stephanie A. Miner,10
+Chenango,SMITHVILLE 1,Governor,,SAM,Stephanie A. Miner,2
+Chenango,SMYRNA 1,Governor,,SAM,Stephanie A. Miner,6
+Chenango,CITY OF NORWICH WARD 1,Governor,,LIB,Larry Sharpe,25
+Chenango,CITY OF NORWICH WARD 2,Governor,,LIB,Larry Sharpe,15
+Chenango,CITY OF NORWICH WARD 3,Governor,,LIB,Larry Sharpe,22
+Chenango,CITY OF NORWICH WARD 4,Governor,,LIB,Larry Sharpe,6
+Chenango,CITY OF NORWICH WARD 5,Governor,,LIB,Larry Sharpe,16
+Chenango,CITY OF NORWICH WARD 6,Governor,,LIB,Larry Sharpe,19
+Chenango,OTSELIC 1,Governor,,LIB,Larry Sharpe,13
+Chenango,OXFORD 1,Governor,,LIB,Larry Sharpe,45
+Chenango,OXFORD 2,Governor,,LIB,Larry Sharpe,25
+Chenango,PHARSALIA 1,Governor,,LIB,Larry Sharpe,5
+Chenango,PITCHER 1,Governor,,LIB,Larry Sharpe,16
+Chenango,PLYMOUTH 1,Governor,,LIB,Larry Sharpe,32
+Chenango,PRESTON 1,Governor,,LIB,Larry Sharpe,11
+Chenango,SHERBURNE 1,Governor,,LIB,Larry Sharpe,33
+Chenango,SHERBURNE 2,Governor,,LIB,Larry Sharpe,40
+Chenango,SMITHVILLE 1,Governor,,LIB,Larry Sharpe,16
+Chenango,SMYRNA 1,Governor,,LIB,Larry Sharpe,24
+Chenango,CITY OF NORWICH WARD 1,Governor,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 2,Governor,,,Write-Ins,1
+Chenango,CITY OF NORWICH WARD 3,Governor,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 4,Governor,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 5,Governor,,,Write-Ins,1
+Chenango,CITY OF NORWICH WARD 6,Governor,,,Write-Ins,0
+Chenango,OTSELIC 1,Governor,,,Write-Ins,1
+Chenango,OXFORD 1,Governor,,,Write-Ins,1
+Chenango,OXFORD 2,Governor,,,Write-Ins,0
+Chenango,PHARSALIA 1,Governor,,,Write-Ins,0
+Chenango,PITCHER 1,Governor,,,Write-Ins,0
+Chenango,PLYMOUTH 1,Governor,,,Write-Ins,0
+Chenango,PRESTON 1,Governor,,,Write-Ins,0
+Chenango,SHERBURNE 1,Governor,,,Write-Ins,0
+Chenango,SHERBURNE 2,Governor,,,Write-Ins,0
+Chenango,SMITHVILLE 1,Governor,,,Write-Ins,1
+Chenango,SMYRNA 1,Governor,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 1,Governor,,,Void,0
+Chenango,CITY OF NORWICH WARD 2,Governor,,,Void,0
+Chenango,CITY OF NORWICH WARD 3,Governor,,,Void,1
+Chenango,CITY OF NORWICH WARD 4,Governor,,,Void,1
+Chenango,CITY OF NORWICH WARD 5,Governor,,,Void,0
+Chenango,CITY OF NORWICH WARD 6,Governor,,,Void,0
+Chenango,OTSELIC 1,Governor,,,Void,0
+Chenango,OXFORD 1,Governor,,,Void,0
+Chenango,OXFORD 2,Governor,,,Void,0
+Chenango,PHARSALIA 1,Governor,,,Void,0
+Chenango,PITCHER 1,Governor,,,Void,1
+Chenango,PLYMOUTH 1,Governor,,,Void,0
+Chenango,PRESTON 1,Governor,,,Void,0
+Chenango,SHERBURNE 1,Governor,,,Void,0
+Chenango,SHERBURNE 2,Governor,,,Void,0
+Chenango,SMITHVILLE 1,Governor,,,Void,1
+Chenango,SMYRNA 1,Governor,,,Void,0
+Chenango,CITY OF NORWICH WARD 1,Governor,,,Blanks,14
+Chenango,CITY OF NORWICH WARD 2,Governor,,,Blanks,23
+Chenango,CITY OF NORWICH WARD 3,Governor,,,Blanks,28
+Chenango,CITY OF NORWICH WARD 4,Governor,,,Blanks,11
+Chenango,CITY OF NORWICH WARD 5,Governor,,,Blanks,19
+Chenango,CITY OF NORWICH WARD 6,Governor,,,Blanks,6
+Chenango,OTSELIC 1,Governor,,,Blanks,6
+Chenango,OXFORD 1,Governor,,,Blanks,31
+Chenango,OXFORD 2,Governor,,,Blanks,19
+Chenango,PHARSALIA 1,Governor,,,Blanks,3
+Chenango,PITCHER 1,Governor,,,Blanks,7
+Chenango,PLYMOUTH 1,Governor,,,Blanks,19
+Chenango,PRESTON 1,Governor,,,Blanks,12
+Chenango,SHERBURNE 1,Governor,,,Blanks,31
+Chenango,SHERBURNE 2,Governor,,,Blanks,28
+Chenango,SMITHVILLE 1,Governor,,,Blanks,14
+Chenango,SMYRNA 1,Governor,,,Blanks,18
+Chenango,AFTON 1,Comptroller,,DEM,Thomas P. DiNapoli,357
+Chenango,BAINBRIDGE 1,Comptroller,,DEM,Thomas P. DiNapoli,410
+Chenango,COLUMBUS 1,Comptroller,,DEM,Thomas P. DiNapoli,89
+Chenango,COVENTRY 1,Comptroller,,DEM,Thomas P. DiNapoli,171
+Chenango,GERMAN 1,Comptroller,,DEM,Thomas P. DiNapoli,41
+Chenango,GREENE 1,Comptroller,,DEM,Thomas P. DiNapoli,393
+Chenango,GREENE 2,Comptroller,,DEM,Thomas P. DiNapoli,350
+Chenango,GUILFORD 1,Comptroller,,DEM,Thomas P. DiNapoli,379
+Chenango,LINCKLAEN 1,Comptroller,,DEM,Thomas P. DiNapoli,41
+Chenango,MCDONOUGH 1,Comptroller,,DEM,Thomas P. DiNapoli,106
+Chenango,NEW BERLIN 1,Comptroller,,DEM,Thomas P. DiNapoli,286
+Chenango,NORTH NORWICH 1,Comptroller,,DEM,Thomas P. DiNapoli,229
+Chenango,NORWICH TOWN 1,Comptroller,,DEM,Thomas P. DiNapoli,277
+Chenango,NORWICH TOWN 2,Comptroller,,DEM,Thomas P. DiNapoli,257
+Chenango,AFTON 1,Comptroller,,REP,Jonathan Trichter,521
+Chenango,BAINBRIDGE 1,Comptroller,,REP,Jonathan Trichter,538
+Chenango,COLUMBUS 1,Comptroller,,REP,Jonathan Trichter,174
+Chenango,COVENTRY 1,Comptroller,,REP,Jonathan Trichter,356
+Chenango,GERMAN 1,Comptroller,,REP,Jonathan Trichter,78
+Chenango,GREENE 1,Comptroller,,REP,Jonathan Trichter,541
+Chenango,GREENE 2,Comptroller,,REP,Jonathan Trichter,522
+Chenango,GUILFORD 1,Comptroller,,REP,Jonathan Trichter,491
+Chenango,LINCKLAEN 1,Comptroller,,REP,Jonathan Trichter,78
+Chenango,MCDONOUGH 1,Comptroller,,REP,Jonathan Trichter,179
+Chenango,NEW BERLIN 1,Comptroller,,REP,Jonathan Trichter,372
+Chenango,NORTH NORWICH 1,Comptroller,,REP,Jonathan Trichter,281
+Chenango,NORWICH TOWN 1,Comptroller,,REP,Jonathan Trichter,315
+Chenango,NORWICH TOWN 2,Comptroller,,REP,Jonathan Trichter,272
+Chenango,AFTON 1,Comptroller,,CON,Jonathan Trichter,41
+Chenango,BAINBRIDGE 1,Comptroller,,CON,Jonathan Trichter,30
+Chenango,COLUMBUS 1,Comptroller,,CON,Jonathan Trichter,16
+Chenango,COVENTRY 1,Comptroller,,CON,Jonathan Trichter,28
+Chenango,GERMAN 1,Comptroller,,CON,Jonathan Trichter,8
+Chenango,GREENE 1,Comptroller,,CON,Jonathan Trichter,58
+Chenango,GREENE 2,Comptroller,,CON,Jonathan Trichter,39
+Chenango,GUILFORD 1,Comptroller,,CON,Jonathan Trichter,35
+Chenango,LINCKLAEN 1,Comptroller,,CON,Jonathan Trichter,2
+Chenango,MCDONOUGH 1,Comptroller,,CON,Jonathan Trichter,6
+Chenango,NEW BERLIN 1,Comptroller,,CON,Jonathan Trichter,29
+Chenango,NORTH NORWICH 1,Comptroller,,CON,Jonathan Trichter,19
+Chenango,NORWICH TOWN 1,Comptroller,,CON,Jonathan Trichter,18
+Chenango,NORWICH TOWN 2,Comptroller,,CON,Jonathan Trichter,11
+Chenango,AFTON 1,Comptroller,,GRE,Mark Dunlea,16
+Chenango,BAINBRIDGE 1,Comptroller,,GRE,Mark Dunlea,12
+Chenango,COLUMBUS 1,Comptroller,,GRE,Mark Dunlea,4
+Chenango,COVENTRY 1,Comptroller,,GRE,Mark Dunlea,5
+Chenango,GERMAN 1,Comptroller,,GRE,Mark Dunlea,1
+Chenango,GREENE 1,Comptroller,,GRE,Mark Dunlea,5
+Chenango,GREENE 2,Comptroller,,GRE,Mark Dunlea,10
+Chenango,GUILFORD 1,Comptroller,,GRE,Mark Dunlea,10
+Chenango,LINCKLAEN 1,Comptroller,,GRE,Mark Dunlea,0
+Chenango,MCDONOUGH 1,Comptroller,,GRE,Mark Dunlea,6
+Chenango,NEW BERLIN 1,Comptroller,,GRE,Mark Dunlea,11
+Chenango,NORTH NORWICH 1,Comptroller,,GRE,Mark Dunlea,8
+Chenango,NORWICH TOWN 1,Comptroller,,GRE,Mark Dunlea,8
+Chenango,NORWICH TOWN 2,Comptroller,,GRE,Mark Dunlea,3
+Chenango,AFTON 1,Comptroller,,WFP,Thomas P. DiNapoli,10
+Chenango,BAINBRIDGE 1,Comptroller,,WFP,Thomas P. DiNapoli,20
+Chenango,COLUMBUS 1,Comptroller,,WFP,Thomas P. DiNapoli,4
+Chenango,COVENTRY 1,Comptroller,,WFP,Thomas P. DiNapoli,7
+Chenango,GERMAN 1,Comptroller,,WFP,Thomas P. DiNapoli,3
+Chenango,GREENE 1,Comptroller,,WFP,Thomas P. DiNapoli,15
+Chenango,GREENE 2,Comptroller,,WFP,Thomas P. DiNapoli,12
+Chenango,GUILFORD 1,Comptroller,,WFP,Thomas P. DiNapoli,15
+Chenango,LINCKLAEN 1,Comptroller,,WFP,Thomas P. DiNapoli,5
+Chenango,MCDONOUGH 1,Comptroller,,WFP,Thomas P. DiNapoli,9
+Chenango,NEW BERLIN 1,Comptroller,,WFP,Thomas P. DiNapoli,16
+Chenango,NORTH NORWICH 1,Comptroller,,WFP,Thomas P. DiNapoli,8
+Chenango,NORWICH TOWN 1,Comptroller,,WFP,Thomas P. DiNapoli,14
+Chenango,NORWICH TOWN 2,Comptroller,,WFP,Thomas P. DiNapoli,10
+Chenango,AFTON 1,Comptroller,,IND,Thomas P. DiNapoli,14
+Chenango,BAINBRIDGE 1,Comptroller,,IND,Thomas P. DiNapoli,15
+Chenango,COLUMBUS 1,Comptroller,,IND,Thomas P. DiNapoli,2
+Chenango,COVENTRY 1,Comptroller,,IND,Thomas P. DiNapoli,13
+Chenango,GERMAN 1,Comptroller,,IND,Thomas P. DiNapoli,0
+Chenango,GREENE 1,Comptroller,,IND,Thomas P. DiNapoli,19
+Chenango,GREENE 2,Comptroller,,IND,Thomas P. DiNapoli,19
+Chenango,GUILFORD 1,Comptroller,,IND,Thomas P. DiNapoli,15
+Chenango,LINCKLAEN 1,Comptroller,,IND,Thomas P. DiNapoli,5
+Chenango,MCDONOUGH 1,Comptroller,,IND,Thomas P. DiNapoli,9
+Chenango,NEW BERLIN 1,Comptroller,,IND,Thomas P. DiNapoli,16
+Chenango,NORTH NORWICH 1,Comptroller,,IND,Thomas P. DiNapoli,8
+Chenango,NORWICH TOWN 1,Comptroller,,IND,Thomas P. DiNapoli,9
+Chenango,NORWICH TOWN 2,Comptroller,,IND,Thomas P. DiNapoli,7
+Chenango,AFTON 1,Comptroller,,WEP,Thomas P. DiNapoli,6
+Chenango,BAINBRIDGE 1,Comptroller,,WEP,Thomas P. DiNapoli,5
+Chenango,COLUMBUS 1,Comptroller,,WEP,Thomas P. DiNapoli,1
+Chenango,COVENTRY 1,Comptroller,,WEP,Thomas P. DiNapoli,0
+Chenango,GERMAN 1,Comptroller,,WEP,Thomas P. DiNapoli,0
+Chenango,GREENE 1,Comptroller,,WEP,Thomas P. DiNapoli,2
+Chenango,GREENE 2,Comptroller,,WEP,Thomas P. DiNapoli,2
+Chenango,GUILFORD 1,Comptroller,,WEP,Thomas P. DiNapoli,3
+Chenango,LINCKLAEN 1,Comptroller,,WEP,Thomas P. DiNapoli,0
+Chenango,MCDONOUGH 1,Comptroller,,WEP,Thomas P. DiNapoli,0
+Chenango,NEW BERLIN 1,Comptroller,,WEP,Thomas P. DiNapoli,5
+Chenango,NORTH NORWICH 1,Comptroller,,WEP,Thomas P. DiNapoli,6
+Chenango,NORWICH TOWN 1,Comptroller,,WEP,Thomas P. DiNapoli,3
+Chenango,NORWICH TOWN 2,Comptroller,,WEP,Thomas P. DiNapoli,2
+Chenango,AFTON 1,Comptroller,,REF,Thomas P. DiNapoli,3
+Chenango,BAINBRIDGE 1,Comptroller,,REF,Thomas P. DiNapoli,5
+Chenango,COLUMBUS 1,Comptroller,,REF,Thomas P. DiNapoli,3
+Chenango,COVENTRY 1,Comptroller,,REF,Thomas P. DiNapoli,2
+Chenango,GERMAN 1,Comptroller,,REF,Thomas P. DiNapoli,1
+Chenango,GREENE 1,Comptroller,,REF,Thomas P. DiNapoli,6
+Chenango,GREENE 2,Comptroller,,REF,Thomas P. DiNapoli,3
+Chenango,GUILFORD 1,Comptroller,,REF,Thomas P. DiNapoli,3
+Chenango,LINCKLAEN 1,Comptroller,,REF,Thomas P. DiNapoli,0
+Chenango,MCDONOUGH 1,Comptroller,,REF,Thomas P. DiNapoli,1
+Chenango,NEW BERLIN 1,Comptroller,,REF,Thomas P. DiNapoli,2
+Chenango,NORTH NORWICH 1,Comptroller,,REF,Thomas P. DiNapoli,0
+Chenango,NORWICH TOWN 1,Comptroller,,REF,Thomas P. DiNapoli,2
+Chenango,NORWICH TOWN 2,Comptroller,,REF,Thomas P. DiNapoli,1
+Chenango,AFTON 1,Comptroller,,LIB,Cruger E. Gallaudet,7
+Chenango,BAINBRIDGE 1,Comptroller,,LIB,Cruger E. Gallaudet,11
+Chenango,COLUMBUS 1,Comptroller,,LIB,Cruger E. Gallaudet,3
+Chenango,COVENTRY 1,Comptroller,,LIB,Cruger E. Gallaudet,9
+Chenango,GERMAN 1,Comptroller,,LIB,Cruger E. Gallaudet,4
+Chenango,GREENE 1,Comptroller,,LIB,Cruger E. Gallaudet,9
+Chenango,GREENE 2,Comptroller,,LIB,Cruger E. Gallaudet,5
+Chenango,GUILFORD 1,Comptroller,,LIB,Cruger E. Gallaudet,16
+Chenango,LINCKLAEN 1,Comptroller,,LIB,Cruger E. Gallaudet,1
+Chenango,MCDONOUGH 1,Comptroller,,LIB,Cruger E. Gallaudet,4
+Chenango,NEW BERLIN 1,Comptroller,,LIB,Cruger E. Gallaudet,8
+Chenango,NORTH NORWICH 1,Comptroller,,LIB,Cruger E. Gallaudet,6
+Chenango,NORWICH TOWN 1,Comptroller,,LIB,Cruger E. Gallaudet,10
+Chenango,NORWICH TOWN 2,Comptroller,,LIB,Cruger E. Gallaudet,8
+Chenango,AFTON 1,Comptroller,,,Write-Ins,0
+Chenango,BAINBRIDGE 1,Comptroller,,,Write-Ins,0
+Chenango,COLUMBUS 1,Comptroller,,,Write-Ins,0
+Chenango,COVENTRY 1,Comptroller,,,Write-Ins,1
+Chenango,GERMAN 1,Comptroller,,,Write-Ins,0
+Chenango,GREENE 1,Comptroller,,,Write-Ins,0
+Chenango,GREENE 2,Comptroller,,,Write-Ins,0
+Chenango,GUILFORD 1,Comptroller,,,Write-Ins,0
+Chenango,LINCKLAEN 1,Comptroller,,,Write-Ins,0
+Chenango,MCDONOUGH 1,Comptroller,,,Write-Ins,0
+Chenango,NEW BERLIN 1,Comptroller,,,Write-Ins,0
+Chenango,NORTH NORWICH 1,Comptroller,,,Write-Ins,0
+Chenango,NORWICH TOWN 1,Comptroller,,,Write-Ins,0
+Chenango,NORWICH TOWN 2,Comptroller,,,Write-Ins,0
+Chenango,AFTON 1,Comptroller,,,Void,0
+Chenango,BAINBRIDGE 1,Comptroller,,,Void,1
+Chenango,COLUMBUS 1,Comptroller,,,Void,0
+Chenango,COVENTRY 1,Comptroller,,,Void,0
+Chenango,GERMAN 1,Comptroller,,,Void,0
+Chenango,GREENE 1,Comptroller,,,Void,1
+Chenango,GREENE 2,Comptroller,,,Void,1
+Chenango,GUILFORD 1,Comptroller,,,Void,0
+Chenango,LINCKLAEN 1,Comptroller,,,Void,0
+Chenango,MCDONOUGH 1,Comptroller,,,Void,0
+Chenango,NEW BERLIN 1,Comptroller,,,Void,0
+Chenango,NORTH NORWICH 1,Comptroller,,,Void,1
+Chenango,NORWICH TOWN 1,Comptroller,,,Void,0
+Chenango,NORWICH TOWN 2,Comptroller,,,Void,0
+Chenango,AFTON 1,Comptroller,,,Blanks,39
+Chenango,BAINBRIDGE 1,Comptroller,,,Blanks,72
+Chenango,COLUMBUS 1,Comptroller,,,Blanks,12
+Chenango,COVENTRY 1,Comptroller,,,Blanks,31
+Chenango,GERMAN 1,Comptroller,,,Blanks,5
+Chenango,GREENE 1,Comptroller,,,Blanks,53
+Chenango,GREENE 2,Comptroller,,,Blanks,35
+Chenango,GUILFORD 1,Comptroller,,,Blanks,27
+Chenango,LINCKLAEN 1,Comptroller,,,Blanks,5
+Chenango,MCDONOUGH 1,Comptroller,,,Blanks,25
+Chenango,NEW BERLIN 1,Comptroller,,,Blanks,36
+Chenango,NORTH NORWICH 1,Comptroller,,,Blanks,28
+Chenango,NORWICH TOWN 1,Comptroller,,,Blanks,53
+Chenango,NORWICH TOWN 2,Comptroller,,,Blanks,35
+Chenango,CITY OF NORWICH WARD 1,Comptroller,,DEM,Thomas P. DiNapoli,241
+Chenango,CITY OF NORWICH WARD 2,Comptroller,,DEM,Thomas P. DiNapoli,184
+Chenango,CITY OF NORWICH WARD 3,Comptroller,,DEM,Thomas P. DiNapoli,266
+Chenango,CITY OF NORWICH WARD 4,Comptroller,,DEM,Thomas P. DiNapoli,112
+Chenango,CITY OF NORWICH WARD 5,Comptroller,,DEM,Thomas P. DiNapoli,151
+Chenango,CITY OF NORWICH WARD 6,Comptroller,,DEM,Thomas P. DiNapoli,166
+Chenango,OTSELIC 1,Comptroller,,DEM,Thomas P. DiNapoli,104
+Chenango,OXFORD 1,Comptroller,,DEM,Thomas P. DiNapoli,312
+Chenango,OXFORD 2,Comptroller,,DEM,Thomas P. DiNapoli,234
+Chenango,PHARSALIA 1,Comptroller,,DEM,Thomas P. DiNapoli,77
+Chenango,PITCHER 1,Comptroller,,DEM,Thomas P. DiNapoli,58
+Chenango,PLYMOUTH 1,Comptroller,,DEM,Thomas P. DiNapoli,185
+Chenango,PRESTON 1,Comptroller,,DEM,Thomas P. DiNapoli,150
+Chenango,SHERBURNE 1,Comptroller,,DEM,Thomas P. DiNapoli,288
+Chenango,SHERBURNE 2,Comptroller,,DEM,Thomas P. DiNapoli,249
+Chenango,SMITHVILLE 1,Comptroller,,DEM,Thomas P. DiNapoli,162
+Chenango,SMYRNA 1,Comptroller,,DEM,Thomas P. DiNapoli,150
+Chenango,CITY OF NORWICH WARD 1,Comptroller,,REP,Jonathan Trichter,145
+Chenango,CITY OF NORWICH WARD 2,Comptroller,,REP,Jonathan Trichter,123
+Chenango,CITY OF NORWICH WARD 3,Comptroller,,REP,Jonathan Trichter,198
+Chenango,CITY OF NORWICH WARD 4,Comptroller,,REP,Jonathan Trichter,92
+Chenango,CITY OF NORWICH WARD 5,Comptroller,,REP,Jonathan Trichter,116
+Chenango,CITY OF NORWICH WARD 6,Comptroller,,REP,Jonathan Trichter,121
+Chenango,OTSELIC 1,Comptroller,,REP,Jonathan Trichter,150
+Chenango,OXFORD 1,Comptroller,,REP,Jonathan Trichter,398
+Chenango,OXFORD 2,Comptroller,,REP,Jonathan Trichter,233
+Chenango,PHARSALIA 1,Comptroller,,REP,Jonathan Trichter,84
+Chenango,PITCHER 1,Comptroller,,REP,Jonathan Trichter,125
+Chenango,PLYMOUTH 1,Comptroller,,REP,Jonathan Trichter,333
+Chenango,PRESTON 1,Comptroller,,REP,Jonathan Trichter,159
+Chenango,SHERBURNE 1,Comptroller,,REP,Jonathan Trichter,298
+Chenango,SHERBURNE 2,Comptroller,,REP,Jonathan Trichter,340
+Chenango,SMITHVILLE 1,Comptroller,,REP,Jonathan Trichter,241
+Chenango,SMYRNA 1,Comptroller,,REP,Jonathan Trichter,241
+Chenango,CITY OF NORWICH WARD 1,Comptroller,,CON,Jonathan Trichter,12
+Chenango,CITY OF NORWICH WARD 2,Comptroller,,CON,Jonathan Trichter,11
+Chenango,CITY OF NORWICH WARD 3,Comptroller,,CON,Jonathan Trichter,15
+Chenango,CITY OF NORWICH WARD 4,Comptroller,,CON,Jonathan Trichter,2
+Chenango,CITY OF NORWICH WARD 5,Comptroller,,CON,Jonathan Trichter,10
+Chenango,CITY OF NORWICH WARD 6,Comptroller,,CON,Jonathan Trichter,8
+Chenango,OTSELIC 1,Comptroller,,CON,Jonathan Trichter,8
+Chenango,OXFORD 1,Comptroller,,CON,Jonathan Trichter,31
+Chenango,OXFORD 2,Comptroller,,CON,Jonathan Trichter,11
+Chenango,PHARSALIA 1,Comptroller,,CON,Jonathan Trichter,14
+Chenango,PITCHER 1,Comptroller,,CON,Jonathan Trichter,9
+Chenango,PLYMOUTH 1,Comptroller,,CON,Jonathan Trichter,22
+Chenango,PRESTON 1,Comptroller,,CON,Jonathan Trichter,15
+Chenango,SHERBURNE 1,Comptroller,,CON,Jonathan Trichter,24
+Chenango,SHERBURNE 2,Comptroller,,CON,Jonathan Trichter,24
+Chenango,SMITHVILLE 1,Comptroller,,CON,Jonathan Trichter,21
+Chenango,SMYRNA 1,Comptroller,,CON,Jonathan Trichter,14
+Chenango,CITY OF NORWICH WARD 1,Comptroller,,GRE,Mark Dunlea,5
+Chenango,CITY OF NORWICH WARD 2,Comptroller,,GRE,Mark Dunlea,1
+Chenango,CITY OF NORWICH WARD 3,Comptroller,,GRE,Mark Dunlea,5
+Chenango,CITY OF NORWICH WARD 4,Comptroller,,GRE,Mark Dunlea,4
+Chenango,CITY OF NORWICH WARD 5,Comptroller,,GRE,Mark Dunlea,3
+Chenango,CITY OF NORWICH WARD 6,Comptroller,,GRE,Mark Dunlea,2
+Chenango,OTSELIC 1,Comptroller,,GRE,Mark Dunlea,2
+Chenango,OXFORD 1,Comptroller,,GRE,Mark Dunlea,11
+Chenango,OXFORD 2,Comptroller,,GRE,Mark Dunlea,7
+Chenango,PHARSALIA 1,Comptroller,,GRE,Mark Dunlea,2
+Chenango,PITCHER 1,Comptroller,,GRE,Mark Dunlea,2
+Chenango,PLYMOUTH 1,Comptroller,,GRE,Mark Dunlea,9
+Chenango,PRESTON 1,Comptroller,,GRE,Mark Dunlea,2
+Chenango,SHERBURNE 1,Comptroller,,GRE,Mark Dunlea,6
+Chenango,SHERBURNE 2,Comptroller,,GRE,Mark Dunlea,4
+Chenango,SMITHVILLE 1,Comptroller,,GRE,Mark Dunlea,8
+Chenango,SMYRNA 1,Comptroller,,GRE,Mark Dunlea,6
+Chenango,CITY OF NORWICH WARD 1,Comptroller,,WFP,Thomas P. DiNapoli,13
+Chenango,CITY OF NORWICH WARD 2,Comptroller,,WFP,Thomas P. DiNapoli,9
+Chenango,CITY OF NORWICH WARD 3,Comptroller,,WFP,Thomas P. DiNapoli,9
+Chenango,CITY OF NORWICH WARD 4,Comptroller,,WFP,Thomas P. DiNapoli,9
+Chenango,CITY OF NORWICH WARD 5,Comptroller,,WFP,Thomas P. DiNapoli,7
+Chenango,CITY OF NORWICH WARD 6,Comptroller,,WFP,Thomas P. DiNapoli,11
+Chenango,OTSELIC 1,Comptroller,,WFP,Thomas P. DiNapoli,2
+Chenango,OXFORD 1,Comptroller,,WFP,Thomas P. DiNapoli,18
+Chenango,OXFORD 2,Comptroller,,WFP,Thomas P. DiNapoli,14
+Chenango,PHARSALIA 1,Comptroller,,WFP,Thomas P. DiNapoli,1
+Chenango,PITCHER 1,Comptroller,,WFP,Thomas P. DiNapoli,4
+Chenango,PLYMOUTH 1,Comptroller,,WFP,Thomas P. DiNapoli,7
+Chenango,PRESTON 1,Comptroller,,WFP,Thomas P. DiNapoli,9
+Chenango,SHERBURNE 1,Comptroller,,WFP,Thomas P. DiNapoli,17
+Chenango,SHERBURNE 2,Comptroller,,WFP,Thomas P. DiNapoli,16
+Chenango,SMITHVILLE 1,Comptroller,,WFP,Thomas P. DiNapoli,7
+Chenango,SMYRNA 1,Comptroller,,WFP,Thomas P. DiNapoli,1
+Chenango,CITY OF NORWICH WARD 1,Comptroller,,IND,Thomas P. DiNapoli,9
+Chenango,CITY OF NORWICH WARD 2,Comptroller,,IND,Thomas P. DiNapoli,8
+Chenango,CITY OF NORWICH WARD 3,Comptroller,,IND,Thomas P. DiNapoli,8
+Chenango,CITY OF NORWICH WARD 4,Comptroller,,IND,Thomas P. DiNapoli,6
+Chenango,CITY OF NORWICH WARD 5,Comptroller,,IND,Thomas P. DiNapoli,9
+Chenango,CITY OF NORWICH WARD 6,Comptroller,,IND,Thomas P. DiNapoli,6
+Chenango,OTSELIC 1,Comptroller,,IND,Thomas P. DiNapoli,9
+Chenango,OXFORD 1,Comptroller,,IND,Thomas P. DiNapoli,14
+Chenango,OXFORD 2,Comptroller,,IND,Thomas P. DiNapoli,12
+Chenango,PHARSALIA 1,Comptroller,,IND,Thomas P. DiNapoli,3
+Chenango,PITCHER 1,Comptroller,,IND,Thomas P. DiNapoli,4
+Chenango,PLYMOUTH 1,Comptroller,,IND,Thomas P. DiNapoli,9
+Chenango,PRESTON 1,Comptroller,,IND,Thomas P. DiNapoli,5
+Chenango,SHERBURNE 1,Comptroller,,IND,Thomas P. DiNapoli,20
+Chenango,SHERBURNE 2,Comptroller,,IND,Thomas P. DiNapoli,14
+Chenango,SMITHVILLE 1,Comptroller,,IND,Thomas P. DiNapoli,11
+Chenango,SMYRNA 1,Comptroller,,IND,Thomas P. DiNapoli,8
+Chenango,CITY OF NORWICH WARD 1,Comptroller,,WEP,Thomas P. DiNapoli,5
+Chenango,CITY OF NORWICH WARD 2,Comptroller,,WEP,Thomas P. DiNapoli,3
+Chenango,CITY OF NORWICH WARD 3,Comptroller,,WEP,Thomas P. DiNapoli,2
+Chenango,CITY OF NORWICH WARD 4,Comptroller,,WEP,Thomas P. DiNapoli,3
+Chenango,CITY OF NORWICH WARD 5,Comptroller,,WEP,Thomas P. DiNapoli,3
+Chenango,CITY OF NORWICH WARD 6,Comptroller,,WEP,Thomas P. DiNapoli,3
+Chenango,OTSELIC 1,Comptroller,,WEP,Thomas P. DiNapoli,0
+Chenango,OXFORD 1,Comptroller,,WEP,Thomas P. DiNapoli,8
+Chenango,OXFORD 2,Comptroller,,WEP,Thomas P. DiNapoli,4
+Chenango,PHARSALIA 1,Comptroller,,WEP,Thomas P. DiNapoli,1
+Chenango,PITCHER 1,Comptroller,,WEP,Thomas P. DiNapoli,1
+Chenango,PLYMOUTH 1,Comptroller,,WEP,Thomas P. DiNapoli,1
+Chenango,PRESTON 1,Comptroller,,WEP,Thomas P. DiNapoli,3
+Chenango,SHERBURNE 1,Comptroller,,WEP,Thomas P. DiNapoli,1
+Chenango,SHERBURNE 2,Comptroller,,WEP,Thomas P. DiNapoli,5
+Chenango,SMITHVILLE 1,Comptroller,,WEP,Thomas P. DiNapoli,1
+Chenango,SMYRNA 1,Comptroller,,WEP,Thomas P. DiNapoli,2
+Chenango,CITY OF NORWICH WARD 1,Comptroller,,REF,Thomas P. DiNapoli,1
+Chenango,CITY OF NORWICH WARD 2,Comptroller,,REF,Thomas P. DiNapoli,1
+Chenango,CITY OF NORWICH WARD 3,Comptroller,,REF,Thomas P. DiNapoli,2
+Chenango,CITY OF NORWICH WARD 4,Comptroller,,REF,Thomas P. DiNapoli,1
+Chenango,CITY OF NORWICH WARD 5,Comptroller,,REF,Thomas P. DiNapoli,1
+Chenango,CITY OF NORWICH WARD 6,Comptroller,,REF,Thomas P. DiNapoli,0
+Chenango,OTSELIC 1,Comptroller,,REF,Thomas P. DiNapoli,0
+Chenango,OXFORD 1,Comptroller,,REF,Thomas P. DiNapoli,7
+Chenango,OXFORD 2,Comptroller,,REF,Thomas P. DiNapoli,5
+Chenango,PHARSALIA 1,Comptroller,,REF,Thomas P. DiNapoli,2
+Chenango,PITCHER 1,Comptroller,,REF,Thomas P. DiNapoli,0
+Chenango,PLYMOUTH 1,Comptroller,,REF,Thomas P. DiNapoli,1
+Chenango,PRESTON 1,Comptroller,,REF,Thomas P. DiNapoli,1
+Chenango,SHERBURNE 1,Comptroller,,REF,Thomas P. DiNapoli,0
+Chenango,SHERBURNE 2,Comptroller,,REF,Thomas P. DiNapoli,1
+Chenango,SMITHVILLE 1,Comptroller,,REF,Thomas P. DiNapoli,1
+Chenango,SMYRNA 1,Comptroller,,REF,Thomas P. DiNapoli,1
+Chenango,CITY OF NORWICH WARD 1,Comptroller,,LIB,Cruger E. Gallaudet,6
+Chenango,CITY OF NORWICH WARD 2,Comptroller,,LIB,Cruger E. Gallaudet,6
+Chenango,CITY OF NORWICH WARD 3,Comptroller,,LIB,Cruger E. Gallaudet,9
+Chenango,CITY OF NORWICH WARD 4,Comptroller,,LIB,Cruger E. Gallaudet,2
+Chenango,CITY OF NORWICH WARD 5,Comptroller,,LIB,Cruger E. Gallaudet,5
+Chenango,CITY OF NORWICH WARD 6,Comptroller,,LIB,Cruger E. Gallaudet,6
+Chenango,OTSELIC 1,Comptroller,,LIB,Cruger E. Gallaudet,5
+Chenango,OXFORD 1,Comptroller,,LIB,Cruger E. Gallaudet,9
+Chenango,OXFORD 2,Comptroller,,LIB,Cruger E. Gallaudet,10
+Chenango,PHARSALIA 1,Comptroller,,LIB,Cruger E. Gallaudet,3
+Chenango,PITCHER 1,Comptroller,,LIB,Cruger E. Gallaudet,1
+Chenango,PLYMOUTH 1,Comptroller,,LIB,Cruger E. Gallaudet,7
+Chenango,PRESTON 1,Comptroller,,LIB,Cruger E. Gallaudet,1
+Chenango,SHERBURNE 1,Comptroller,,LIB,Cruger E. Gallaudet,8
+Chenango,SHERBURNE 2,Comptroller,,LIB,Cruger E. Gallaudet,11
+Chenango,SMITHVILLE 1,Comptroller,,LIB,Cruger E. Gallaudet,2
+Chenango,SMYRNA 1,Comptroller,,LIB,Cruger E. Gallaudet,9
+Chenango,CITY OF NORWICH WARD 1,Comptroller,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 2,Comptroller,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 3,Comptroller,,,Write-Ins,1
+Chenango,CITY OF NORWICH WARD 4,Comptroller,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 5,Comptroller,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 6,Comptroller,,,Write-Ins,0
+Chenango,OTSELIC 1,Comptroller,,,Write-Ins,1
+Chenango,OXFORD 1,Comptroller,,,Write-Ins,1
+Chenango,OXFORD 2,Comptroller,,,Write-Ins,0
+Chenango,PHARSALIA 1,Comptroller,,,Write-Ins,0
+Chenango,PITCHER 1,Comptroller,,,Write-Ins,0
+Chenango,PLYMOUTH 1,Comptroller,,,Write-Ins,0
+Chenango,PRESTON 1,Comptroller,,,Write-Ins,0
+Chenango,SHERBURNE 1,Comptroller,,,Write-Ins,0
+Chenango,SHERBURNE 2,Comptroller,,,Write-Ins,0
+Chenango,SMITHVILLE 1,Comptroller,,,Write-Ins,0
+Chenango,SMYRNA 1,Comptroller,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 1,Comptroller,,,Void,0
+Chenango,CITY OF NORWICH WARD 2,Comptroller,,,Void,0
+Chenango,CITY OF NORWICH WARD 3,Comptroller,,,Void,0
+Chenango,CITY OF NORWICH WARD 4,Comptroller,,,Void,0
+Chenango,CITY OF NORWICH WARD 5,Comptroller,,,Void,1
+Chenango,CITY OF NORWICH WARD 6,Comptroller,,,Void,0
+Chenango,OTSELIC 1,Comptroller,,,Void,0
+Chenango,OXFORD 1,Comptroller,,,Void,0
+Chenango,OXFORD 2,Comptroller,,,Void,0
+Chenango,PHARSALIA 1,Comptroller,,,Void,0
+Chenango,PITCHER 1,Comptroller,,,Void,1
+Chenango,PLYMOUTH 1,Comptroller,,,Void,0
+Chenango,PRESTON 1,Comptroller,,,Void,0
+Chenango,SHERBURNE 1,Comptroller,,,Void,0
+Chenango,SHERBURNE 2,Comptroller,,,Void,0
+Chenango,SMITHVILLE 1,Comptroller,,,Void,0
+Chenango,SMYRNA 1,Comptroller,,,Void,0
+Chenango,CITY OF NORWICH WARD 1,Comptroller,,,Blanks,23
+Chenango,CITY OF NORWICH WARD 2,Comptroller,,,Blanks,29
+Chenango,CITY OF NORWICH WARD 3,Comptroller,,,Blanks,42
+Chenango,CITY OF NORWICH WARD 4,Comptroller,,,Blanks,22
+Chenango,CITY OF NORWICH WARD 5,Comptroller,,,Blanks,19
+Chenango,CITY OF NORWICH WARD 6,Comptroller,,,Blanks,14
+Chenango,OTSELIC 1,Comptroller,,,Blanks,13
+Chenango,OXFORD 1,Comptroller,,,Blanks,40
+Chenango,OXFORD 2,Comptroller,,,Blanks,28
+Chenango,PHARSALIA 1,Comptroller,,,Blanks,6
+Chenango,PITCHER 1,Comptroller,,,Blanks,12
+Chenango,PLYMOUTH 1,Comptroller,,,Blanks,32
+Chenango,PRESTON 1,Comptroller,,,Blanks,25
+Chenango,SHERBURNE 1,Comptroller,,,Blanks,23
+Chenango,SHERBURNE 2,Comptroller,,,Blanks,39
+Chenango,SMITHVILLE 1,Comptroller,,,Blanks,27
+Chenango,SMYRNA 1,Comptroller,,,Blanks,16
+Chenango,AFTON 1,Attorney General,,DEM,Letitia James,288
+Chenango,BAINBRIDGE 1,Attorney General,,DEM,Letitia James,334
+Chenango,COLUMBUS 1,Attorney General,,DEM,Letitia James,73
+Chenango,COVENTRY 1,Attorney General,,DEM,Letitia James,137
+Chenango,GERMAN 1,Attorney General,,DEM,Letitia James,40
+Chenango,GREENE 1,Attorney General,,DEM,Letitia James,331
+Chenango,GREENE 2,Attorney General,,DEM,Letitia James,302
+Chenango,GUILFORD 1,Attorney General,,DEM,Letitia James,317
+Chenango,LINCKLAEN 1,Attorney General,,DEM,Letitia James,33
+Chenango,MCDONOUGH 1,Attorney General,,DEM,Letitia James,81
+Chenango,NEW BERLIN 1,Attorney General,,DEM,Letitia James,231
+Chenango,NORTH NORWICH 1,Attorney General,,DEM,Letitia James,178
+Chenango,NORWICH TOWN 1,Attorney General,,DEM,Letitia James,236
+Chenango,NORWICH TOWN 2,Attorney General,,DEM,Letitia James,201
+Chenango,AFTON 1,Attorney General,,REP,Keith Wofford,572
+Chenango,BAINBRIDGE 1,Attorney General,,REP,Keith Wofford,577
+Chenango,COLUMBUS 1,Attorney General,,REP,Keith Wofford,185
+Chenango,COVENTRY 1,Attorney General,,REP,Keith Wofford,383
+Chenango,GERMAN 1,Attorney General,,REP,Keith Wofford,82
+Chenango,GREENE 1,Attorney General,,REP,Keith Wofford,581
+Chenango,GREENE 2,Attorney General,,REP,Keith Wofford,562
+Chenango,GUILFORD 1,Attorney General,,REP,Keith Wofford,531
+Chenango,LINCKLAEN 1,Attorney General,,REP,Keith Wofford,86
+Chenango,MCDONOUGH 1,Attorney General,,REP,Keith Wofford,203
+Chenango,NEW BERLIN 1,Attorney General,,REP,Keith Wofford,406
+Chenango,NORTH NORWICH 1,Attorney General,,REP,Keith Wofford,311
+Chenango,NORWICH TOWN 1,Attorney General,,REP,Keith Wofford,354
+Chenango,NORWICH TOWN 2,Attorney General,,REP,Keith Wofford,308
+Chenango,AFTON 1,Attorney General,,CON,Keith Wofford,42
+Chenango,BAINBRIDGE 1,Attorney General,,CON,Keith Wofford,29
+Chenango,COLUMBUS 1,Attorney General,,CON,Keith Wofford,16
+Chenango,COVENTRY 1,Attorney General,,CON,Keith Wofford,26
+Chenango,GERMAN 1,Attorney General,,CON,Keith Wofford,7
+Chenango,GREENE 1,Attorney General,,CON,Keith Wofford,56
+Chenango,GREENE 2,Attorney General,,CON,Keith Wofford,41
+Chenango,GUILFORD 1,Attorney General,,CON,Keith Wofford,32
+Chenango,LINCKLAEN 1,Attorney General,,CON,Keith Wofford,3
+Chenango,MCDONOUGH 1,Attorney General,,CON,Keith Wofford,11
+Chenango,NEW BERLIN 1,Attorney General,,CON,Keith Wofford,33
+Chenango,NORTH NORWICH 1,Attorney General,,CON,Keith Wofford,22
+Chenango,NORWICH TOWN 1,Attorney General,,CON,Keith Wofford,18
+Chenango,NORWICH TOWN 2,Attorney General,,CON,Keith Wofford,15
+Chenango,AFTON 1,Attorney General,,GRN,Michael Sussman,14
+Chenango,BAINBRIDGE 1,Attorney General,,GRN,Michael Sussman,25
+Chenango,COLUMBUS 1,Attorney General,,GRN,Michael Sussman,7
+Chenango,COVENTRY 1,Attorney General,,GRN,Michael Sussman,4
+Chenango,GERMAN 1,Attorney General,,GRN,Michael Sussman,3
+Chenango,GREENE 1,Attorney General,,GRN,Michael Sussman,12
+Chenango,GREENE 2,Attorney General,,GRN,Michael Sussman,10
+Chenango,GUILFORD 1,Attorney General,,GRN,Michael Sussman,17
+Chenango,LINCKLAEN 1,Attorney General,,GRN,Michael Sussman,2
+Chenango,MCDONOUGH 1,Attorney General,,GRN,Michael Sussman,8
+Chenango,NEW BERLIN 1,Attorney General,,GRN,Michael Sussman,12
+Chenango,NORTH NORWICH 1,Attorney General,,GRN,Michael Sussman,7
+Chenango,NORWICH TOWN 1,Attorney General,,GRN,Michael Sussman,6
+Chenango,NORWICH TOWN 2,Attorney General,,GRN,Michael Sussman,5
+Chenango,AFTON 1,Attorney General,,WFP,Letitia James,13
+Chenango,BAINBRIDGE 1,Attorney General,,WFP,Letitia James,21
+Chenango,COLUMBUS 1,Attorney General,,WFP,Letitia James,1
+Chenango,COVENTRY 1,Attorney General,,WFP,Letitia James,8
+Chenango,GERMAN 1,Attorney General,,WFP,Letitia James,2
+Chenango,GREENE 1,Attorney General,,WFP,Letitia James,15
+Chenango,GREENE 2,Attorney General,,WFP,Letitia James,15
+Chenango,GUILFORD 1,Attorney General,,WFP,Letitia James,13
+Chenango,LINCKLAEN 1,Attorney General,,WFP,Letitia James,1
+Chenango,MCDONOUGH 1,Attorney General,,WFP,Letitia James,8
+Chenango,NEW BERLIN 1,Attorney General,,WFP,Letitia James,16
+Chenango,NORTH NORWICH 1,Attorney General,,WFP,Letitia James,9
+Chenango,NORWICH TOWN 1,Attorney General,,WFP,Letitia James,10
+Chenango,NORWICH TOWN 2,Attorney General,,WFP,Letitia James,8
+Chenango,AFTON 1,Attorney General,,IND,Letitia James,21
+Chenango,BAINBRIDGE 1,Attorney General,,IND,Letitia James,16
+Chenango,COLUMBUS 1,Attorney General,,IND,Letitia James,1
+Chenango,COVENTRY 1,Attorney General,,IND,Letitia James,10
+Chenango,GERMAN 1,Attorney General,,IND,Letitia James,1
+Chenango,GREENE 1,Attorney General,,IND,Letitia James,20
+Chenango,GREENE 2,Attorney General,,IND,Letitia James,17
+Chenango,GUILFORD 1,Attorney General,,IND,Letitia James,13
+Chenango,LINCKLAEN 1,Attorney General,,IND,Letitia James,3
+Chenango,MCDONOUGH 1,Attorney General,,IND,Letitia James,7
+Chenango,NEW BERLIN 1,Attorney General,,IND,Letitia James,21
+Chenango,NORTH NORWICH 1,Attorney General,,IND,Letitia James,7
+Chenango,NORWICH TOWN 1,Attorney General,,IND,Letitia James,10
+Chenango,NORWICH TOWN 2,Attorney General,,IND,Letitia James,6
+Chenango,AFTON 1,Attorney General,,REF,Nancy B. Sliwa,2
+Chenango,BAINBRIDGE 1,Attorney General,,REF,Nancy B. Sliwa,8
+Chenango,COLUMBUS 1,Attorney General,,REF,Nancy B. Sliwa,4
+Chenango,COVENTRY 1,Attorney General,,REF,Nancy B. Sliwa,6
+Chenango,GERMAN 1,Attorney General,,REF,Nancy B. Sliwa,1
+Chenango,GREENE 1,Attorney General,,REF,Nancy B. Sliwa,5
+Chenango,GREENE 2,Attorney General,,REF,Nancy B. Sliwa,3
+Chenango,GUILFORD 1,Attorney General,,REF,Nancy B. Sliwa,8
+Chenango,LINCKLAEN 1,Attorney General,,REF,Nancy B. Sliwa,1
+Chenango,MCDONOUGH 1,Attorney General,,REF,Nancy B. Sliwa,3
+Chenango,NEW BERLIN 1,Attorney General,,REF,Nancy B. Sliwa,8
+Chenango,NORTH NORWICH 1,Attorney General,,REF,Nancy B. Sliwa,5
+Chenango,NORWICH TOWN 1,Attorney General,,REF,Nancy B. Sliwa,2
+Chenango,NORWICH TOWN 2,Attorney General,,REF,Nancy B. Sliwa,3
+Chenango,AFTON 1,Attorney General,,LIB,Christopher B. Garvey,10
+Chenango,BAINBRIDGE 1,Attorney General,,LIB,Christopher B. Garvey,11
+Chenango,COLUMBUS 1,Attorney General,,LIB,Christopher B. Garvey,4
+Chenango,COVENTRY 1,Attorney General,,LIB,Christopher B. Garvey,10
+Chenango,GERMAN 1,Attorney General,,LIB,Christopher B. Garvey,1
+Chenango,GREENE 1,Attorney General,,LIB,Christopher B. Garvey,14
+Chenango,GREENE 2,Attorney General,,LIB,Christopher B. Garvey,7
+Chenango,GUILFORD 1,Attorney General,,LIB,Christopher B. Garvey,15
+Chenango,LINCKLAEN 1,Attorney General,,LIB,Christopher B. Garvey,0
+Chenango,MCDONOUGH 1,Attorney General,,LIB,Christopher B. Garvey,5
+Chenango,NEW BERLIN 1,Attorney General,,LIB,Christopher B. Garvey,10
+Chenango,NORTH NORWICH 1,Attorney General,,LIB,Christopher B. Garvey,6
+Chenango,NORWICH TOWN 1,Attorney General,,LIB,Christopher B. Garvey,8
+Chenango,NORWICH TOWN 2,Attorney General,,LIB,Christopher B. Garvey,11
+Chenango,AFTON 1,Attorney General,,,Write-Ins,0
+Chenango,BAINBRIDGE 1,Attorney General,,,Write-Ins,0
+Chenango,COLUMBUS 1,Attorney General,,,Write-Ins,0
+Chenango,COVENTRY 1,Attorney General,,,Write-Ins,1
+Chenango,GERMAN 1,Attorney General,,,Write-Ins,0
+Chenango,GREENE 1,Attorney General,,,Write-Ins,0
+Chenango,GREENE 2,Attorney General,,,Write-Ins,0
+Chenango,GUILFORD 1,Attorney General,,,Write-Ins,0
+Chenango,LINCKLAEN 1,Attorney General,,,Write-Ins,0
+Chenango,MCDONOUGH 1,Attorney General,,,Write-Ins,0
+Chenango,NEW BERLIN 1,Attorney General,,,Write-Ins,0
+Chenango,NORTH NORWICH 1,Attorney General,,,Write-Ins,0
+Chenango,NORWICH TOWN 1,Attorney General,,,Write-Ins,0
+Chenango,NORWICH TOWN 2,Attorney General,,,Write-Ins,1
+Chenango,AFTON 1,Attorney General,,,Void,0
+Chenango,BAINBRIDGE 1,Attorney General,,,Void,1
+Chenango,COLUMBUS 1,Attorney General,,,Void,0
+Chenango,COVENTRY 1,Attorney General,,,Void,0
+Chenango,GERMAN 1,Attorney General,,,Void,0
+Chenango,GREENE 1,Attorney General,,,Void,1
+Chenango,GREENE 2,Attorney General,,,Void,1
+Chenango,GUILFORD 1,Attorney General,,,Void,0
+Chenango,LINCKLAEN 1,Attorney General,,,Void,0
+Chenango,MCDONOUGH 1,Attorney General,,,Void,0
+Chenango,NEW BERLIN 1,Attorney General,,,Void,0
+Chenango,NORTH NORWICH 1,Attorney General,,,Void,2
+Chenango,NORWICH TOWN 1,Attorney General,,,Void,0
+Chenango,NORWICH TOWN 2,Attorney General,,,Void,0
+Chenango,AFTON 1,Attorney General,,,Blanks,52
+Chenango,BAINBRIDGE 1,Attorney General,,,Blanks,97
+Chenango,COLUMBUS 1,Attorney General,,,Blanks,17
+Chenango,COVENTRY 1,Attorney General,,,Blanks,38
+Chenango,GERMAN 1,Attorney General,,,Blanks,4
+Chenango,GREENE 1,Attorney General,,,Blanks,67
+Chenango,GREENE 2,Attorney General,,,Blanks,40
+Chenango,GUILFORD 1,Attorney General,,,Blanks,48
+Chenango,LINCKLAEN 1,Attorney General,,,Blanks,8
+Chenango,MCDONOUGH 1,Attorney General,,,Blanks,19
+Chenango,NEW BERLIN 1,Attorney General,,,Blanks,44
+Chenango,NORTH NORWICH 1,Attorney General,,,Blanks,47
+Chenango,NORWICH TOWN 1,Attorney General,,,Blanks,65
+Chenango,NORWICH TOWN 2,Attorney General,,,Blanks,48
+Chenango,CITY OF NORWICH WARD 1,Attorney General,,DEM,Letitia James,212
+Chenango,CITY OF NORWICH WARD 2,Attorney General,,DEM,Letitia James,170
+Chenango,CITY OF NORWICH WARD 3,Attorney General,,DEM,Letitia James,234
+Chenango,CITY OF NORWICH WARD 4,Attorney General,,DEM,Letitia James,93
+Chenango,CITY OF NORWICH WARD 5,Attorney General,,DEM,Letitia James,122
+Chenango,CITY OF NORWICH WARD 6,Attorney General,,DEM,Letitia James,136
+Chenango,OTSELIC 1,Attorney General,,DEM,Letitia James,83
+Chenango,OXFORD 1,Attorney General,,DEM,Letitia James,250
+Chenango,OXFORD 2,Attorney General,,DEM,Letitia James,203
+Chenango,PHARSALIA 1,Attorney General,,DEM,Letitia James,63
+Chenango,PITCHER 1,Attorney General,,DEM,Letitia James,42
+Chenango,PLYMOUTH 1,Attorney General,,DEM,Letitia James,152
+Chenango,PRESTON 1,Attorney General,,DEM,Letitia James,125
+Chenango,SHERBURNE 1,Attorney General,,DEM,Letitia James,232
+Chenango,SHERBURNE 2,Attorney General,,DEM,Letitia James,199
+Chenango,SMITHVILLE 1,Attorney General,,DEM,Letitia James,130
+Chenango,SMYRNA 1,Attorney General,,DEM,Letitia James,124
+Chenango,CITY OF NORWICH WARD 1,Attorney General,,REP,Keith Wofford,169
+Chenango,CITY OF NORWICH WARD 2,Attorney General,,REP,Keith Wofford,132
+Chenango,CITY OF NORWICH WARD 3,Attorney General,,REP,Keith Wofford,222
+Chenango,CITY OF NORWICH WARD 4,Attorney General,,REP,Keith Wofford,94
+Chenango,CITY OF NORWICH WARD 5,Attorney General,,REP,Keith Wofford,138
+Chenango,CITY OF NORWICH WARD 6,Attorney General,,REP,Keith Wofford,139
+Chenango,OTSELIC 1,Attorney General,,REP,Keith Wofford,164
+Chenango,OXFORD 1,Attorney General,,REP,Keith Wofford,452
+Chenango,OXFORD 2,Attorney General,,REP,Keith Wofford,267
+Chenango,PHARSALIA 1,Attorney General,,REP,Keith Wofford,91
+Chenango,PITCHER 1,Attorney General,,REP,Keith Wofford,135
+Chenango,PLYMOUTH 1,Attorney General,,REP,Keith Wofford,359
+Chenango,PRESTON 1,Attorney General,,REP,Keith Wofford,176
+Chenango,SHERBURNE 1,Attorney General,,REP,Keith Wofford,331
+Chenango,SHERBURNE 2,Attorney General,,REP,Keith Wofford,367
+Chenango,SMITHVILLE 1,Attorney General,,REP,Keith Wofford,264
+Chenango,SMYRNA 1,Attorney General,,REP,Keith Wofford,262
+Chenango,CITY OF NORWICH WARD 1,Attorney General,,CON,Keith Wofford,10
+Chenango,CITY OF NORWICH WARD 2,Attorney General,,CON,Keith Wofford,13
+Chenango,CITY OF NORWICH WARD 3,Attorney General,,CON,Keith Wofford,14
+Chenango,CITY OF NORWICH WARD 4,Attorney General,,CON,Keith Wofford,7
+Chenango,CITY OF NORWICH WARD 5,Attorney General,,CON,Keith Wofford,13
+Chenango,CITY OF NORWICH WARD 6,Attorney General,,CON,Keith Wofford,11
+Chenango,OTSELIC 1,Attorney General,,CON,Keith Wofford,11
+Chenango,OXFORD 1,Attorney General,,CON,Keith Wofford,32
+Chenango,OXFORD 2,Attorney General,,CON,Keith Wofford,14
+Chenango,PHARSALIA 1,Attorney General,,CON,Keith Wofford,16
+Chenango,PITCHER 1,Attorney General,,CON,Keith Wofford,8
+Chenango,PLYMOUTH 1,Attorney General,,CON,Keith Wofford,25
+Chenango,PRESTON 1,Attorney General,,CON,Keith Wofford,16
+Chenango,SHERBURNE 1,Attorney General,,CON,Keith Wofford,27
+Chenango,SHERBURNE 2,Attorney General,,CON,Keith Wofford,29
+Chenango,SMITHVILLE 1,Attorney General,,CON,Keith Wofford,24
+Chenango,SMYRNA 1,Attorney General,,CON,Keith Wofford,14
+Chenango,CITY OF NORWICH WARD 1,Attorney General,,GRN,Michael Sussman,6
+Chenango,CITY OF NORWICH WARD 2,Attorney General,,GRN,Michael Sussman,3
+Chenango,CITY OF NORWICH WARD 3,Attorney General,,GRN,Michael Sussman,9
+Chenango,CITY OF NORWICH WARD 4,Attorney General,,GRN,Michael Sussman,6
+Chenango,CITY OF NORWICH WARD 5,Attorney General,,GRN,Michael Sussman,2
+Chenango,CITY OF NORWICH WARD 6,Attorney General,,GRN,Michael Sussman,4
+Chenango,OTSELIC 1,Attorney General,,GRN,Michael Sussman,3
+Chenango,OXFORD 1,Attorney General,,GRN,Michael Sussman,9
+Chenango,OXFORD 2,Attorney General,,GRN,Michael Sussman,8
+Chenango,PHARSALIA 1,Attorney General,,GRN,Michael Sussman,3
+Chenango,PITCHER 1,Attorney General,,GRN,Michael Sussman,1
+Chenango,PLYMOUTH 1,Attorney General,,GRN,Michael Sussman,7
+Chenango,PRESTON 1,Attorney General,,GRN,Michael Sussman,4
+Chenango,SHERBURNE 1,Attorney General,,GRN,Michael Sussman,5
+Chenango,SHERBURNE 2,Attorney General,,GRN,Michael Sussman,10
+Chenango,SMITHVILLE 1,Attorney General,,GRN,Michael Sussman,3
+Chenango,SMYRNA 1,Attorney General,,GRN,Michael Sussman,7
+Chenango,CITY OF NORWICH WARD 1,Attorney General,,WFP,Letitia James,12
+Chenango,CITY OF NORWICH WARD 2,Attorney General,,WFP,Letitia James,7
+Chenango,CITY OF NORWICH WARD 3,Attorney General,,WFP,Letitia James,5
+Chenango,CITY OF NORWICH WARD 4,Attorney General,,WFP,Letitia James,8
+Chenango,CITY OF NORWICH WARD 5,Attorney General,,WFP,Letitia James,6
+Chenango,CITY OF NORWICH WARD 6,Attorney General,,WFP,Letitia James,11
+Chenango,OTSELIC 1,Attorney General,,WFP,Letitia James,2
+Chenango,OXFORD 1,Attorney General,,WFP,Letitia James,15
+Chenango,OXFORD 2,Attorney General,,WFP,Letitia James,7
+Chenango,PHARSALIA 1,Attorney General,,WFP,Letitia James,0
+Chenango,PITCHER 1,Attorney General,,WFP,Letitia James,4
+Chenango,PLYMOUTH 1,Attorney General,,WFP,Letitia James,5
+Chenango,PRESTON 1,Attorney General,,WFP,Letitia James,4
+Chenango,SHERBURNE 1,Attorney General,,WFP,Letitia James,13
+Chenango,SHERBURNE 2,Attorney General,,WFP,Letitia James,19
+Chenango,SMITHVILLE 1,Attorney General,,WFP,Letitia James,6
+Chenango,SMYRNA 1,Attorney General,,WFP,Letitia James,2
+Chenango,CITY OF NORWICH WARD 1,Attorney General,,IND,Letitia James,9
+Chenango,CITY OF NORWICH WARD 2,Attorney General,,IND,Letitia James,6
+Chenango,CITY OF NORWICH WARD 3,Attorney General,,IND,Letitia James,10
+Chenango,CITY OF NORWICH WARD 4,Attorney General,,IND,Letitia James,6
+Chenango,CITY OF NORWICH WARD 5,Attorney General,,IND,Letitia James,7
+Chenango,CITY OF NORWICH WARD 6,Attorney General,,IND,Letitia James,10
+Chenango,OTSELIC 1,Attorney General,,IND,Letitia James,6
+Chenango,OXFORD 1,Attorney General,,IND,Letitia James,14
+Chenango,OXFORD 2,Attorney General,,IND,Letitia James,11
+Chenango,PHARSALIA 1,Attorney General,,IND,Letitia James,6
+Chenango,PITCHER 1,Attorney General,,IND,Letitia James,4
+Chenango,PLYMOUTH 1,Attorney General,,IND,Letitia James,8
+Chenango,PRESTON 1,Attorney General,,IND,Letitia James,5
+Chenango,SHERBURNE 1,Attorney General,,IND,Letitia James,15
+Chenango,SHERBURNE 2,Attorney General,,IND,Letitia James,8
+Chenango,SMITHVILLE 1,Attorney General,,IND,Letitia James,9
+Chenango,SMYRNA 1,Attorney General,,IND,Letitia James,5
+Chenango,CITY OF NORWICH WARD 1,Attorney General,,REF,Nancy B. Sliwa,1
+Chenango,CITY OF NORWICH WARD 2,Attorney General,,REF,Nancy B. Sliwa,5
+Chenango,CITY OF NORWICH WARD 3,Attorney General,,REF,Nancy B. Sliwa,2
+Chenango,CITY OF NORWICH WARD 4,Attorney General,,REF,Nancy B. Sliwa,2
+Chenango,CITY OF NORWICH WARD 5,Attorney General,,REF,Nancy B. Sliwa,5
+Chenango,CITY OF NORWICH WARD 6,Attorney General,,REF,Nancy B. Sliwa,1
+Chenango,OTSELIC 1,Attorney General,,REF,Nancy B. Sliwa,2
+Chenango,OXFORD 1,Attorney General,,REF,Nancy B. Sliwa,3
+Chenango,OXFORD 2,Attorney General,,REF,Nancy B. Sliwa,5
+Chenango,PHARSALIA 1,Attorney General,,REF,Nancy B. Sliwa,1
+Chenango,PITCHER 1,Attorney General,,REF,Nancy B. Sliwa,1
+Chenango,PLYMOUTH 1,Attorney General,,REF,Nancy B. Sliwa,3
+Chenango,PRESTON 1,Attorney General,,REF,Nancy B. Sliwa,2
+Chenango,SHERBURNE 1,Attorney General,,REF,Nancy B. Sliwa,1
+Chenango,SHERBURNE 2,Attorney General,,REF,Nancy B. Sliwa,4
+Chenango,SMITHVILLE 1,Attorney General,,REF,Nancy B. Sliwa,3
+Chenango,SMYRNA 1,Attorney General,,REF,Nancy B. Sliwa,4
+Chenango,CITY OF NORWICH WARD 1,Attorney General,,LIB,Christopher B. Garvey,8
+Chenango,CITY OF NORWICH WARD 2,Attorney General,,LIB,Christopher B. Garvey,7
+Chenango,CITY OF NORWICH WARD 3,Attorney General,,LIB,Christopher B. Garvey,12
+Chenango,CITY OF NORWICH WARD 4,Attorney General,,LIB,Christopher B. Garvey,1
+Chenango,CITY OF NORWICH WARD 5,Attorney General,,LIB,Christopher B. Garvey,3
+Chenango,CITY OF NORWICH WARD 6,Attorney General,,LIB,Christopher B. Garvey,6
+Chenango,OTSELIC 1,Attorney General,,LIB,Christopher B. Garvey,5
+Chenango,OXFORD 1,Attorney General,,LIB,Christopher B. Garvey,19
+Chenango,OXFORD 2,Attorney General,,LIB,Christopher B. Garvey,12
+Chenango,PHARSALIA 1,Attorney General,,LIB,Christopher B. Garvey,2
+Chenango,PITCHER 1,Attorney General,,LIB,Christopher B. Garvey,5
+Chenango,PLYMOUTH 1,Attorney General,,LIB,Christopher B. Garvey,5
+Chenango,PRESTON 1,Attorney General,,LIB,Christopher B. Garvey,3
+Chenango,SHERBURNE 1,Attorney General,,LIB,Christopher B. Garvey,11
+Chenango,SHERBURNE 2,Attorney General,,LIB,Christopher B. Garvey,12
+Chenango,SMITHVILLE 1,Attorney General,,LIB,Christopher B. Garvey,3
+Chenango,SMYRNA 1,Attorney General,,LIB,Christopher B. Garvey,8
+Chenango,CITY OF NORWICH WARD 1,Attorney General,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 2,Attorney General,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 3,Attorney General,,,Write-Ins,1
+Chenango,CITY OF NORWICH WARD 4,Attorney General,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 5,Attorney General,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 6,Attorney General,,,Write-Ins,0
+Chenango,OTSELIC 1,Attorney General,,,Write-Ins,1
+Chenango,OXFORD 1,Attorney General,,,Write-Ins,1
+Chenango,OXFORD 2,Attorney General,,,Write-Ins,0
+Chenango,PHARSALIA 1,Attorney General,,,Write-Ins,0
+Chenango,PITCHER 1,Attorney General,,,Write-Ins,0
+Chenango,PLYMOUTH 1,Attorney General,,,Write-Ins,0
+Chenango,PRESTON 1,Attorney General,,,Write-Ins,0
+Chenango,SHERBURNE 1,Attorney General,,,Write-Ins,0
+Chenango,SHERBURNE 2,Attorney General,,,Write-Ins,1
+Chenango,SMITHVILLE 1,Attorney General,,,Write-Ins,0
+Chenango,SMYRNA 1,Attorney General,,,Write-Ins,1
+Chenango,CITY OF NORWICH WARD 1,Attorney General,,,Void,0
+Chenango,CITY OF NORWICH WARD 2,Attorney General,,,Void,0
+Chenango,CITY OF NORWICH WARD 3,Attorney General,,,Void,0
+Chenango,CITY OF NORWICH WARD 4,Attorney General,,,Void,0
+Chenango,CITY OF NORWICH WARD 5,Attorney General,,,Void,0
+Chenango,CITY OF NORWICH WARD 6,Attorney General,,,Void,0
+Chenango,OTSELIC 1,Attorney General,,,Void,0
+Chenango,OXFORD 1,Attorney General,,,Void,0
+Chenango,OXFORD 2,Attorney General,,,Void,0
+Chenango,PHARSALIA 1,Attorney General,,,Void,0
+Chenango,PITCHER 1,Attorney General,,,Void,0
+Chenango,PLYMOUTH 1,Attorney General,,,Void,0
+Chenango,PRESTON 1,Attorney General,,,Void,0
+Chenango,SHERBURNE 1,Attorney General,,,Void,0
+Chenango,SHERBURNE 2,Attorney General,,,Void,0
+Chenango,SMITHVILLE 1,Attorney General,,,Void,0
+Chenango,SMYRNA 1,Attorney General,,,Void,0
+Chenango,CITY OF NORWICH WARD 1,Attorney General,,,Blanks,33
+Chenango,CITY OF NORWICH WARD 2,Attorney General,,,Blanks,32
+Chenango,CITY OF NORWICH WARD 3,Attorney General,,,Blanks,48
+Chenango,CITY OF NORWICH WARD 4,Attorney General,,,Blanks,36
+Chenango,CITY OF NORWICH WARD 5,Attorney General,,,Blanks,29
+Chenango,CITY OF NORWICH WARD 6,Attorney General,,,Blanks,19
+Chenango,OTSELIC 1,Attorney General,,,Blanks,17
+Chenango,OXFORD 1,Attorney General,,,Blanks,54
+Chenango,OXFORD 2,Attorney General,,,Blanks,31
+Chenango,PHARSALIA 1,Attorney General,,,Blanks,11
+Chenango,PITCHER 1,Attorney General,,,Blanks,17
+Chenango,PLYMOUTH 1,Attorney General,,,Blanks,42
+Chenango,PRESTON 1,Attorney General,,,Blanks,35
+Chenango,SHERBURNE 1,Attorney General,,,Blanks,50
+Chenango,SHERBURNE 2,Attorney General,,,Blanks,54
+Chenango,SMITHVILLE 1,Attorney General,,,Blanks,39
+Chenango,SMYRNA 1,Attorney General,,,Blanks,21
+Chenango,AFTON 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,340
+Chenango,BAINBRIDGE 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,408
+Chenango,COLUMBUS 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,84
+Chenango,COVENTRY 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,170
+Chenango,GERMAN 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,46
+Chenango,GREENE 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,394
+Chenango,GREENE 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,362
+Chenango,GUILFORD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,383
+Chenango,LINCKLAEN 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,44
+Chenango,MCDONOUGH 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,108
+Chenango,NEW BERLIN 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,285
+Chenango,NORTH NORWICH 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,221
+Chenango,NORWICH TOWN 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,281
+Chenango,NORWICH TOWN 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,254
+Chenango,AFTON 1,U.S. Senate,,REP,Chele Chiavacci Farley,532
+Chenango,BAINBRIDGE 1,U.S. Senate,,REP,Chele Chiavacci Farley,553
+Chenango,COLUMBUS 1,U.S. Senate,,REP,Chele Chiavacci Farley,179
+Chenango,COVENTRY 1,U.S. Senate,,REP,Chele Chiavacci Farley,360
+Chenango,GERMAN 1,U.S. Senate,,REP,Chele Chiavacci Farley,77
+Chenango,GREENE 1,U.S. Senate,,REP,Chele Chiavacci Farley,557
+Chenango,GREENE 2,U.S. Senate,,REP,Chele Chiavacci Farley,518
+Chenango,GUILFORD 1,U.S. Senate,,REP,Chele Chiavacci Farley,493
+Chenango,LINCKLAEN 1,U.S. Senate,,REP,Chele Chiavacci Farley,77
+Chenango,MCDONOUGH 1,U.S. Senate,,REP,Chele Chiavacci Farley,191
+Chenango,NEW BERLIN 1,U.S. Senate,,REP,Chele Chiavacci Farley,383
+Chenango,NORTH NORWICH 1,U.S. Senate,,REP,Chele Chiavacci Farley,281
+Chenango,NORWICH TOWN 1,U.S. Senate,,REP,Chele Chiavacci Farley,328
+Chenango,NORWICH TOWN 2,U.S. Senate,,REP,Chele Chiavacci Farley,279
+Chenango,AFTON 1,U.S. Senate,,CON,Chele Chiavacci Farley,39
+Chenango,BAINBRIDGE 1,U.S. Senate,,CON,Chele Chiavacci Farley,31
+Chenango,COLUMBUS 1,U.S. Senate,,CON,Chele Chiavacci Farley,16
+Chenango,COVENTRY 1,U.S. Senate,,CON,Chele Chiavacci Farley,32
+Chenango,GERMAN 1,U.S. Senate,,CON,Chele Chiavacci Farley,8
+Chenango,GREENE 1,U.S. Senate,,CON,Chele Chiavacci Farley,50
+Chenango,GREENE 2,U.S. Senate,,CON,Chele Chiavacci Farley,39
+Chenango,GUILFORD 1,U.S. Senate,,CON,Chele Chiavacci Farley,33
+Chenango,LINCKLAEN 1,U.S. Senate,,CON,Chele Chiavacci Farley,3
+Chenango,MCDONOUGH 1,U.S. Senate,,CON,Chele Chiavacci Farley,8
+Chenango,NEW BERLIN 1,U.S. Senate,,CON,Chele Chiavacci Farley,33
+Chenango,NORTH NORWICH 1,U.S. Senate,,CON,Chele Chiavacci Farley,20
+Chenango,NORWICH TOWN 1,U.S. Senate,,CON,Chele Chiavacci Farley,18
+Chenango,NORWICH TOWN 2,U.S. Senate,,CON,Chele Chiavacci Farley,11
+Chenango,AFTON 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,19
+Chenango,BAINBRIDGE 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,29
+Chenango,COLUMBUS 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,5
+Chenango,COVENTRY 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,12
+Chenango,GERMAN 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,2
+Chenango,GREENE 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,21
+Chenango,GREENE 2,U.S. Senate,,WFP,Kirsten E. Gillibrand,20
+Chenango,GUILFORD 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,22
+Chenango,LINCKLAEN 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,3
+Chenango,MCDONOUGH 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,7
+Chenango,NEW BERLIN 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,17
+Chenango,NORTH NORWICH 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,11
+Chenango,NORWICH TOWN 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,17
+Chenango,NORWICH TOWN 2,U.S. Senate,,WFP,Kirsten E. Gillibrand,12
+Chenango,AFTON 1,U.S. Senate,,IND,Kirsten E. Gillibrand,17
+Chenango,BAINBRIDGE 1,U.S. Senate,,IND,Kirsten E. Gillibrand,20
+Chenango,COLUMBUS 1,U.S. Senate,,IND,Kirsten E. Gillibrand,2
+Chenango,COVENTRY 1,U.S. Senate,,IND,Kirsten E. Gillibrand,16
+Chenango,GERMAN 1,U.S. Senate,,IND,Kirsten E. Gillibrand,1
+Chenango,GREENE 1,U.S. Senate,,IND,Kirsten E. Gillibrand,24
+Chenango,GREENE 2,U.S. Senate,,IND,Kirsten E. Gillibrand,18
+Chenango,GUILFORD 1,U.S. Senate,,IND,Kirsten E. Gillibrand,15
+Chenango,LINCKLAEN 1,U.S. Senate,,IND,Kirsten E. Gillibrand,3
+Chenango,MCDONOUGH 1,U.S. Senate,,IND,Kirsten E. Gillibrand,7
+Chenango,NEW BERLIN 1,U.S. Senate,,IND,Kirsten E. Gillibrand,21
+Chenango,NORTH NORWICH 1,U.S. Senate,,IND,Kirsten E. Gillibrand,9
+Chenango,NORWICH TOWN 1,U.S. Senate,,IND,Kirsten E. Gillibrand,9
+Chenango,NORWICH TOWN 2,U.S. Senate,,IND,Kirsten E. Gillibrand,5
+Chenango,AFTON 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,10
+Chenango,BAINBRIDGE 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,9
+Chenango,COLUMBUS 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,5
+Chenango,COVENTRY 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,2
+Chenango,GERMAN 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,0
+Chenango,GREENE 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,3
+Chenango,GREENE 2,U.S. Senate,,WEP,Kirsten E. Gillibrand,4
+Chenango,GUILFORD 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,5
+Chenango,LINCKLAEN 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,0
+Chenango,MCDONOUGH 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,1
+Chenango,NEW BERLIN 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,8
+Chenango,NORTH NORWICH 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,7
+Chenango,NORWICH TOWN 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,6
+Chenango,NORWICH TOWN 2,U.S. Senate,,WEP,Kirsten E. Gillibrand,2
+Chenango,AFTON 1,U.S. Senate,,REF,Chele Chiavacci Farley,7
+Chenango,BAINBRIDGE 1,U.S. Senate,,REF,Chele Chiavacci Farley,5
+Chenango,COLUMBUS 1,U.S. Senate,,REF,Chele Chiavacci Farley,6
+Chenango,COVENTRY 1,U.S. Senate,,REF,Chele Chiavacci Farley,5
+Chenango,GERMAN 1,U.S. Senate,,REF,Chele Chiavacci Farley,1
+Chenango,GREENE 1,U.S. Senate,,REF,Chele Chiavacci Farley,8
+Chenango,GREENE 2,U.S. Senate,,REF,Chele Chiavacci Farley,2
+Chenango,GUILFORD 1,U.S. Senate,,REF,Chele Chiavacci Farley,7
+Chenango,LINCKLAEN 1,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Chenango,MCDONOUGH 1,U.S. Senate,,REF,Chele Chiavacci Farley,1
+Chenango,NEW BERLIN 1,U.S. Senate,,REF,Chele Chiavacci Farley,3
+Chenango,NORTH NORWICH 1,U.S. Senate,,REF,Chele Chiavacci Farley,4
+Chenango,NORWICH TOWN 1,U.S. Senate,,REF,Chele Chiavacci Farley,2
+Chenango,NORWICH TOWN 2,U.S. Senate,,REF,Chele Chiavacci Farley,7
+Chenango,AFTON 1,U.S. Senate,,,Write-Ins,2
+Chenango,BAINBRIDGE 1,U.S. Senate,,,Write-Ins,0
+Chenango,COLUMBUS 1,U.S. Senate,,,Write-Ins,0
+Chenango,COVENTRY 1,U.S. Senate,,,Write-Ins,1
+Chenango,GERMAN 1,U.S. Senate,,,Write-Ins,0
+Chenango,GREENE 1,U.S. Senate,,,Write-Ins,0
+Chenango,GREENE 2,U.S. Senate,,,Write-Ins,1
+Chenango,GUILFORD 1,U.S. Senate,,,Write-Ins,1
+Chenango,LINCKLAEN 1,U.S. Senate,,,Write-Ins,0
+Chenango,MCDONOUGH 1,U.S. Senate,,,Write-Ins,0
+Chenango,NEW BERLIN 1,U.S. Senate,,,Write-Ins,0
+Chenango,NORTH NORWICH 1,U.S. Senate,,,Write-Ins,1
+Chenango,NORWICH TOWN 1,U.S. Senate,,,Write-Ins,0
+Chenango,NORWICH TOWN 2,U.S. Senate,,,Write-Ins,0
+Chenango,AFTON 1,U.S. Senate,,,Void,0
+Chenango,BAINBRIDGE 1,U.S. Senate,,,Void,1
+Chenango,COLUMBUS 1,U.S. Senate,,,Void,0
+Chenango,COVENTRY 1,U.S. Senate,,,Void,0
+Chenango,GERMAN 1,U.S. Senate,,,Void,0
+Chenango,GREENE 1,U.S. Senate,,,Void,1
+Chenango,GREENE 2,U.S. Senate,,,Void,1
+Chenango,GUILFORD 1,U.S. Senate,,,Void,0
+Chenango,LINCKLAEN 1,U.S. Senate,,,Void,0
+Chenango,MCDONOUGH 1,U.S. Senate,,,Void,0
+Chenango,NEW BERLIN 1,U.S. Senate,,,Void,0
+Chenango,NORTH NORWICH 1,U.S. Senate,,,Void,1
+Chenango,NORWICH TOWN 1,U.S. Senate,,,Void,0
+Chenango,NORWICH TOWN 2,U.S. Senate,,,Void,0
+Chenango,AFTON 1,U.S. Senate,,,Blanks,48
+Chenango,BAINBRIDGE 1,U.S. Senate,,,Blanks,63
+Chenango,COLUMBUS 1,U.S. Senate,,,Blanks,11
+Chenango,COVENTRY 1,U.S. Senate,,,Blanks,25
+Chenango,GERMAN 1,U.S. Senate,,,Blanks,6
+Chenango,GREENE 1,U.S. Senate,,,Blanks,44
+Chenango,GREENE 2,U.S. Senate,,,Blanks,33
+Chenango,GUILFORD 1,U.S. Senate,,,Blanks,35
+Chenango,LINCKLAEN 1,U.S. Senate,,,Blanks,7
+Chenango,MCDONOUGH 1,U.S. Senate,,,Blanks,22
+Chenango,NEW BERLIN 1,U.S. Senate,,,Blanks,31
+Chenango,NORTH NORWICH 1,U.S. Senate,,,Blanks,39
+Chenango,NORWICH TOWN 1,U.S. Senate,,,Blanks,48
+Chenango,NORWICH TOWN 2,U.S. Senate,,,Blanks,36
+Chenango,CITY OF NORWICH WARD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,243
+Chenango,CITY OF NORWICH WARD 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,193
+Chenango,CITY OF NORWICH WARD 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,285
+Chenango,CITY OF NORWICH WARD 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,108
+Chenango,CITY OF NORWICH WARD 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,149
+Chenango,CITY OF NORWICH WARD 6,U.S. Senate,,DEM,Kirsten E. Gillibrand,156
+Chenango,OTSELIC 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,97
+Chenango,OXFORD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,306
+Chenango,OXFORD 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,247
+Chenango,PHARSALIA 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,71
+Chenango,PITCHER 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,58
+Chenango,PLYMOUTH 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,180
+Chenango,PRESTON 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,149
+Chenango,SHERBURNE 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,281
+Chenango,SHERBURNE 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,242
+Chenango,SMITHVILLE 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,166
+Chenango,SMYRNA 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,142
+Chenango,CITY OF NORWICH WARD 1,U.S. Senate,,REP,Chele Chiavacci Farley,154
+Chenango,CITY OF NORWICH WARD 2,U.S. Senate,,REP,Chele Chiavacci Farley,117
+Chenango,CITY OF NORWICH WARD 3,U.S. Senate,,REP,Chele Chiavacci Farley,193
+Chenango,CITY OF NORWICH WARD 4,U.S. Senate,,REP,Chele Chiavacci Farley,93
+Chenango,CITY OF NORWICH WARD 5,U.S. Senate,,REP,Chele Chiavacci Farley,120
+Chenango,CITY OF NORWICH WARD 6,U.S. Senate,,REP,Chele Chiavacci Farley,129
+Chenango,OTSELIC 1,U.S. Senate,,REP,Chele Chiavacci Farley,154
+Chenango,OXFORD 1,U.S. Senate,,REP,Chele Chiavacci Farley,419
+Chenango,OXFORD 2,U.S. Senate,,REP,Chele Chiavacci Farley,232
+Chenango,PHARSALIA 1,U.S. Senate,,REP,Chele Chiavacci Farley,88
+Chenango,PITCHER 1,U.S. Senate,,REP,Chele Chiavacci Farley,122
+Chenango,PLYMOUTH 1,U.S. Senate,,REP,Chele Chiavacci Farley,340
+Chenango,PRESTON 1,U.S. Senate,,REP,Chele Chiavacci Farley,161
+Chenango,SHERBURNE 1,U.S. Senate,,REP,Chele Chiavacci Farley,309
+Chenango,SHERBURNE 2,U.S. Senate,,REP,Chele Chiavacci Farley,355
+Chenango,SMITHVILLE 1,U.S. Senate,,REP,Chele Chiavacci Farley,243
+Chenango,SMYRNA 1,U.S. Senate,,REP,Chele Chiavacci Farley,242
+Chenango,CITY OF NORWICH WARD 1,U.S. Senate,,CON,Chele Chiavacci Farley,13
+Chenango,CITY OF NORWICH WARD 2,U.S. Senate,,CON,Chele Chiavacci Farley,14
+Chenango,CITY OF NORWICH WARD 3,U.S. Senate,,CON,Chele Chiavacci Farley,15
+Chenango,CITY OF NORWICH WARD 4,U.S. Senate,,CON,Chele Chiavacci Farley,6
+Chenango,CITY OF NORWICH WARD 5,U.S. Senate,,CON,Chele Chiavacci Farley,14
+Chenango,CITY OF NORWICH WARD 6,U.S. Senate,,CON,Chele Chiavacci Farley,11
+Chenango,OTSELIC 1,U.S. Senate,,CON,Chele Chiavacci Farley,9
+Chenango,OXFORD 1,U.S. Senate,,CON,Chele Chiavacci Farley,31
+Chenango,OXFORD 2,U.S. Senate,,CON,Chele Chiavacci Farley,11
+Chenango,PHARSALIA 1,U.S. Senate,,CON,Chele Chiavacci Farley,15
+Chenango,PITCHER 1,U.S. Senate,,CON,Chele Chiavacci Farley,9
+Chenango,PLYMOUTH 1,U.S. Senate,,CON,Chele Chiavacci Farley,20
+Chenango,PRESTON 1,U.S. Senate,,CON,Chele Chiavacci Farley,15
+Chenango,SHERBURNE 1,U.S. Senate,,CON,Chele Chiavacci Farley,21
+Chenango,SHERBURNE 2,U.S. Senate,,CON,Chele Chiavacci Farley,32
+Chenango,SMITHVILLE 1,U.S. Senate,,CON,Chele Chiavacci Farley,20
+Chenango,SMYRNA 1,U.S. Senate,,CON,Chele Chiavacci Farley,15
+Chenango,CITY OF NORWICH WARD 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,14
+Chenango,CITY OF NORWICH WARD 2,U.S. Senate,,WFP,Kirsten E. Gillibrand,10
+Chenango,CITY OF NORWICH WARD 3,U.S. Senate,,WFP,Kirsten E. Gillibrand,9
+Chenango,CITY OF NORWICH WARD 4,U.S. Senate,,WFP,Kirsten E. Gillibrand,7
+Chenango,CITY OF NORWICH WARD 5,U.S. Senate,,WFP,Kirsten E. Gillibrand,7
+Chenango,CITY OF NORWICH WARD 6,U.S. Senate,,WFP,Kirsten E. Gillibrand,10
+Chenango,OTSELIC 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,6
+Chenango,OXFORD 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,20
+Chenango,OXFORD 2,U.S. Senate,,WFP,Kirsten E. Gillibrand,15
+Chenango,PHARSALIA 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,2
+Chenango,PITCHER 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,4
+Chenango,PLYMOUTH 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,15
+Chenango,PRESTON 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,8
+Chenango,SHERBURNE 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,21
+Chenango,SHERBURNE 2,U.S. Senate,,WFP,Kirsten E. Gillibrand,17
+Chenango,SMITHVILLE 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,5
+Chenango,SMYRNA 1,U.S. Senate,,WFP,Kirsten E. Gillibrand,8
+Chenango,CITY OF NORWICH WARD 1,U.S. Senate,,IND,Kirsten E. Gillibrand,8
+Chenango,CITY OF NORWICH WARD 2,U.S. Senate,,IND,Kirsten E. Gillibrand,8
+Chenango,CITY OF NORWICH WARD 3,U.S. Senate,,IND,Kirsten E. Gillibrand,11
+Chenango,CITY OF NORWICH WARD 4,U.S. Senate,,IND,Kirsten E. Gillibrand,5
+Chenango,CITY OF NORWICH WARD 5,U.S. Senate,,IND,Kirsten E. Gillibrand,7
+Chenango,CITY OF NORWICH WARD 6,U.S. Senate,,IND,Kirsten E. Gillibrand,8
+Chenango,OTSELIC 1,U.S. Senate,,IND,Kirsten E. Gillibrand,8
+Chenango,OXFORD 1,U.S. Senate,,IND,Kirsten E. Gillibrand,17
+Chenango,OXFORD 2,U.S. Senate,,IND,Kirsten E. Gillibrand,13
+Chenango,PHARSALIA 1,U.S. Senate,,IND,Kirsten E. Gillibrand,4
+Chenango,PITCHER 1,U.S. Senate,,IND,Kirsten E. Gillibrand,4
+Chenango,PLYMOUTH 1,U.S. Senate,,IND,Kirsten E. Gillibrand,9
+Chenango,PRESTON 1,U.S. Senate,,IND,Kirsten E. Gillibrand,8
+Chenango,SHERBURNE 1,U.S. Senate,,IND,Kirsten E. Gillibrand,19
+Chenango,SHERBURNE 2,U.S. Senate,,IND,Kirsten E. Gillibrand,8
+Chenango,SMITHVILLE 1,U.S. Senate,,IND,Kirsten E. Gillibrand,12
+Chenango,SMYRNA 1,U.S. Senate,,IND,Kirsten E. Gillibrand,7
+Chenango,CITY OF NORWICH WARD 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,7
+Chenango,CITY OF NORWICH WARD 2,U.S. Senate,,WEP,Kirsten E. Gillibrand,4
+Chenango,CITY OF NORWICH WARD 3,U.S. Senate,,WEP,Kirsten E. Gillibrand,6
+Chenango,CITY OF NORWICH WARD 4,U.S. Senate,,WEP,Kirsten E. Gillibrand,7
+Chenango,CITY OF NORWICH WARD 5,U.S. Senate,,WEP,Kirsten E. Gillibrand,8
+Chenango,CITY OF NORWICH WARD 6,U.S. Senate,,WEP,Kirsten E. Gillibrand,5
+Chenango,OTSELIC 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,1
+Chenango,OXFORD 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,7
+Chenango,OXFORD 2,U.S. Senate,,WEP,Kirsten E. Gillibrand,6
+Chenango,PHARSALIA 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,1
+Chenango,PITCHER 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,2
+Chenango,PLYMOUTH 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,5
+Chenango,PRESTON 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,2
+Chenango,SHERBURNE 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,3
+Chenango,SHERBURNE 2,U.S. Senate,,WEP,Kirsten E. Gillibrand,4
+Chenango,SMITHVILLE 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,2
+Chenango,SMYRNA 1,U.S. Senate,,WEP,Kirsten E. Gillibrand,3
+Chenango,CITY OF NORWICH WARD 1,U.S. Senate,,REF,Chele Chiavacci Farley,3
+Chenango,CITY OF NORWICH WARD 2,U.S. Senate,,REF,Chele Chiavacci Farley,3
+Chenango,CITY OF NORWICH WARD 3,U.S. Senate,,REF,Chele Chiavacci Farley,3
+Chenango,CITY OF NORWICH WARD 4,U.S. Senate,,REF,Chele Chiavacci Farley,2
+Chenango,CITY OF NORWICH WARD 5,U.S. Senate,,REF,Chele Chiavacci Farley,1
+Chenango,CITY OF NORWICH WARD 6,U.S. Senate,,REF,Chele Chiavacci Farley,1
+Chenango,OTSELIC 1,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Chenango,OXFORD 1,U.S. Senate,,REF,Chele Chiavacci Farley,8
+Chenango,OXFORD 2,U.S. Senate,,REF,Chele Chiavacci Farley,5
+Chenango,PHARSALIA 1,U.S. Senate,,REF,Chele Chiavacci Farley,2
+Chenango,PITCHER 1,U.S. Senate,,REF,Chele Chiavacci Farley,1
+Chenango,PLYMOUTH 1,U.S. Senate,,REF,Chele Chiavacci Farley,4
+Chenango,PRESTON 1,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Chenango,SHERBURNE 1,U.S. Senate,,REF,Chele Chiavacci Farley,2
+Chenango,SHERBURNE 2,U.S. Senate,,REF,Chele Chiavacci Farley,3
+Chenango,SMITHVILLE 1,U.S. Senate,,REF,Chele Chiavacci Farley,4
+Chenango,SMYRNA 1,U.S. Senate,,REF,Chele Chiavacci Farley,5
+Chenango,CITY OF NORWICH WARD 1,U.S. Senate,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 2,U.S. Senate,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 3,U.S. Senate,,,Write-Ins,1
+Chenango,CITY OF NORWICH WARD 4,U.S. Senate,,,Write-Ins,1
+Chenango,CITY OF NORWICH WARD 5,U.S. Senate,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 6,U.S. Senate,,,Write-Ins,0
+Chenango,OTSELIC 1,U.S. Senate,,,Write-Ins,1
+Chenango,OXFORD 1,U.S. Senate,,,Write-Ins,1
+Chenango,OXFORD 2,U.S. Senate,,,Write-Ins,0
+Chenango,PHARSALIA 1,U.S. Senate,,,Write-Ins,0
+Chenango,PITCHER 1,U.S. Senate,,,Write-Ins,0
+Chenango,PLYMOUTH 1,U.S. Senate,,,Write-Ins,0
+Chenango,PRESTON 1,U.S. Senate,,,Write-Ins,0
+Chenango,SHERBURNE 1,U.S. Senate,,,Write-Ins,0
+Chenango,SHERBURNE 2,U.S. Senate,,,Write-Ins,0
+Chenango,SMITHVILLE 1,U.S. Senate,,,Write-Ins,0
+Chenango,SMYRNA 1,U.S. Senate,,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 1,U.S. Senate,,,Void,0
+Chenango,CITY OF NORWICH WARD 2,U.S. Senate,,,Void,0
+Chenango,CITY OF NORWICH WARD 3,U.S. Senate,,,Void,0
+Chenango,CITY OF NORWICH WARD 4,U.S. Senate,,,Void,0
+Chenango,CITY OF NORWICH WARD 5,U.S. Senate,,,Void,0
+Chenango,CITY OF NORWICH WARD 6,U.S. Senate,,,Void,0
+Chenango,OTSELIC 1,U.S. Senate,,,Void,0
+Chenango,OXFORD 1,U.S. Senate,,,Void,1
+Chenango,OXFORD 2,U.S. Senate,,,Void,0
+Chenango,PHARSALIA 1,U.S. Senate,,,Void,0
+Chenango,PITCHER 1,U.S. Senate,,,Void,0
+Chenango,PLYMOUTH 1,U.S. Senate,,,Void,0
+Chenango,PRESTON 1,U.S. Senate,,,Void,0
+Chenango,SHERBURNE 1,U.S. Senate,,,Void,0
+Chenango,SHERBURNE 2,U.S. Senate,,,Void,0
+Chenango,SMITHVILLE 1,U.S. Senate,,,Void,0
+Chenango,SMYRNA 1,U.S. Senate,,,Void,0
+Chenango,CITY OF NORWICH WARD 1,U.S. Senate,,,Blanks,18
+Chenango,CITY OF NORWICH WARD 2,U.S. Senate,,,Blanks,26
+Chenango,CITY OF NORWICH WARD 3,U.S. Senate,,,Blanks,34
+Chenango,CITY OF NORWICH WARD 4,U.S. Senate,,,Blanks,24
+Chenango,CITY OF NORWICH WARD 5,U.S. Senate,,,Blanks,19
+Chenango,CITY OF NORWICH WARD 6,U.S. Senate,,,Blanks,17
+Chenango,OTSELIC 1,U.S. Senate,,,Blanks,18
+Chenango,OXFORD 1,U.S. Senate,,,Blanks,39
+Chenango,OXFORD 2,U.S. Senate,,,Blanks,29
+Chenango,PHARSALIA 1,U.S. Senate,,,Blanks,10
+Chenango,PITCHER 1,U.S. Senate,,,Blanks,17
+Chenango,PLYMOUTH 1,U.S. Senate,,,Blanks,33
+Chenango,PRESTON 1,U.S. Senate,,,Blanks,27
+Chenango,SHERBURNE 1,U.S. Senate,,,Blanks,29
+Chenango,SHERBURNE 2,U.S. Senate,,,Blanks,42
+Chenango,SMITHVILLE 1,U.S. Senate,,,Blanks,29
+Chenango,SMYRNA 1,U.S. Senate,,,Blanks,26
+Chenango,AFTON 1,U.S. House,22,DEM,Anthony J. Brindisi,343
+Chenango,BAINBRIDGE 1,U.S. House,22,DEM,Anthony J. Brindisi,428
+Chenango,COLUMBUS 1,U.S. House,22,DEM,Anthony J. Brindisi,90
+Chenango,COVENTRY 1,U.S. House,22,DEM,Anthony J. Brindisi,174
+Chenango,GERMAN 1,U.S. House,22,DEM,Anthony J. Brindisi,47
+Chenango,GREENE 1,U.S. House,22,DEM,Anthony J. Brindisi,403
+Chenango,GREENE 2,U.S. House,22,DEM,Anthony J. Brindisi,366
+Chenango,GUILFORD 1,U.S. House,22,DEM,Anthony J. Brindisi,378
+Chenango,LINCKLAEN 1,U.S. House,22,DEM,Anthony J. Brindisi,48
+Chenango,MCDONOUGH 1,U.S. House,22,DEM,Anthony J. Brindisi,117
+Chenango,NEW BERLIN 1,U.S. House,22,DEM,Anthony J. Brindisi,292
+Chenango,NORTH NORWICH 1,U.S. House,22,DEM,Anthony J. Brindisi,232
+Chenango,NORWICH TOWN 1,U.S. House,22,DEM,Anthony J. Brindisi,310
+Chenango,NORWICH TOWN 2,U.S. House,22,DEM,Anthony J. Brindisi,262
+Chenango,AFTON 1,U.S. House,22,REP,Claudia Tenney,557
+Chenango,BAINBRIDGE 1,U.S. House,22,REP,Claudia Tenney,575
+Chenango,COLUMBUS 1,U.S. House,22,REP,Claudia Tenney,190
+Chenango,COVENTRY 1,U.S. House,22,REP,Claudia Tenney,367
+Chenango,GERMAN 1,U.S. House,22,REP,Claudia Tenney,79
+Chenango,GREENE 1,U.S. House,22,REP,Claudia Tenney,576
+Chenango,GREENE 2,U.S. House,22,REP,Claudia Tenney,531
+Chenango,GUILFORD 1,U.S. House,22,REP,Claudia Tenney,517
+Chenango,LINCKLAEN 1,U.S. House,22,REP,Claudia Tenney,79
+Chenango,MCDONOUGH 1,U.S. House,22,REP,Claudia Tenney,181
+Chenango,NEW BERLIN 1,U.S. House,22,REP,Claudia Tenney,395
+Chenango,NORTH NORWICH 1,U.S. House,22,REP,Claudia Tenney,296
+Chenango,NORWICH TOWN 1,U.S. House,22,REP,Claudia Tenney,335
+Chenango,NORWICH TOWN 2,U.S. House,22,REP,Claudia Tenney,296
+Chenango,AFTON 1,U.S. House,22,CON,Claudia Tenney,40
+Chenango,BAINBRIDGE 1,U.S. House,22,CON,Claudia Tenney,23
+Chenango,COLUMBUS 1,U.S. House,22,CON,Claudia Tenney,16
+Chenango,COVENTRY 1,U.S. House,22,CON,Claudia Tenney,28
+Chenango,GERMAN 1,U.S. House,22,CON,Claudia Tenney,7
+Chenango,GREENE 1,U.S. House,22,CON,Claudia Tenney,51
+Chenango,GREENE 2,U.S. House,22,CON,Claudia Tenney,33
+Chenango,GUILFORD 1,U.S. House,22,CON,Claudia Tenney,31
+Chenango,LINCKLAEN 1,U.S. House,22,CON,Claudia Tenney,1
+Chenango,MCDONOUGH 1,U.S. House,22,CON,Claudia Tenney,10
+Chenango,NEW BERLIN 1,U.S. House,22,CON,Claudia Tenney,29
+Chenango,NORTH NORWICH 1,U.S. House,22,CON,Claudia Tenney,22
+Chenango,NORWICH TOWN 1,U.S. House,22,CON,Claudia Tenney,14
+Chenango,NORWICH TOWN 2,U.S. House,22,CON,Claudia Tenney,13
+Chenango,AFTON 1,U.S. House,22,WFP,Anthony J. Brindisi,14
+Chenango,BAINBRIDGE 1,U.S. House,22,WFP,Anthony J. Brindisi,34
+Chenango,COLUMBUS 1,U.S. House,22,WFP,Anthony J. Brindisi,3
+Chenango,COVENTRY 1,U.S. House,22,WFP,Anthony J. Brindisi,14
+Chenango,GERMAN 1,U.S. House,22,WFP,Anthony J. Brindisi,3
+Chenango,GREENE 1,U.S. House,22,WFP,Anthony J. Brindisi,13
+Chenango,GREENE 2,U.S. House,22,WFP,Anthony J. Brindisi,17
+Chenango,GUILFORD 1,U.S. House,22,WFP,Anthony J. Brindisi,14
+Chenango,LINCKLAEN 1,U.S. House,22,WFP,Anthony J. Brindisi,3
+Chenango,MCDONOUGH 1,U.S. House,22,WFP,Anthony J. Brindisi,12
+Chenango,NEW BERLIN 1,U.S. House,22,WFP,Anthony J. Brindisi,20
+Chenango,NORTH NORWICH 1,U.S. House,22,WFP,Anthony J. Brindisi,12
+Chenango,NORWICH TOWN 1,U.S. House,22,WFP,Anthony J. Brindisi,11
+Chenango,NORWICH TOWN 2,U.S. House,22,WFP,Anthony J. Brindisi,9
+Chenango,AFTON 1,U.S. House,22,IND,Anthony J. Brindisi,16
+Chenango,BAINBRIDGE 1,U.S. House,22,IND,Anthony J. Brindisi,15
+Chenango,COLUMBUS 1,U.S. House,22,IND,Anthony J. Brindisi,1
+Chenango,COVENTRY 1,U.S. House,22,IND,Anthony J. Brindisi,14
+Chenango,GERMAN 1,U.S. House,22,IND,Anthony J. Brindisi,0
+Chenango,GREENE 1,U.S. House,22,IND,Anthony J. Brindisi,27
+Chenango,GREENE 2,U.S. House,22,IND,Anthony J. Brindisi,17
+Chenango,GUILFORD 1,U.S. House,22,IND,Anthony J. Brindisi,15
+Chenango,LINCKLAEN 1,U.S. House,22,IND,Anthony J. Brindisi,3
+Chenango,MCDONOUGH 1,U.S. House,22,IND,Anthony J. Brindisi,7
+Chenango,NEW BERLIN 1,U.S. House,22,IND,Anthony J. Brindisi,19
+Chenango,NORTH NORWICH 1,U.S. House,22,IND,Anthony J. Brindisi,11
+Chenango,NORWICH TOWN 1,U.S. House,22,IND,Anthony J. Brindisi,13
+Chenango,NORWICH TOWN 2,U.S. House,22,IND,Anthony J. Brindisi,6
+Chenango,AFTON 1,U.S. House,22,WEP,Anthony J. Brindisi,12
+Chenango,BAINBRIDGE 1,U.S. House,22,WEP,Anthony J. Brindisi,2
+Chenango,COLUMBUS 1,U.S. House,22,WEP,Anthony J. Brindisi,3
+Chenango,COVENTRY 1,U.S. House,22,WEP,Anthony J. Brindisi,2
+Chenango,GERMAN 1,U.S. House,22,WEP,Anthony J. Brindisi,0
+Chenango,GREENE 1,U.S. House,22,WEP,Anthony J. Brindisi,1
+Chenango,GREENE 2,U.S. House,22,WEP,Anthony J. Brindisi,4
+Chenango,GUILFORD 1,U.S. House,22,WEP,Anthony J. Brindisi,5
+Chenango,LINCKLAEN 1,U.S. House,22,WEP,Anthony J. Brindisi,1
+Chenango,MCDONOUGH 1,U.S. House,22,WEP,Anthony J. Brindisi,0
+Chenango,NEW BERLIN 1,U.S. House,22,WEP,Anthony J. Brindisi,6
+Chenango,NORTH NORWICH 1,U.S. House,22,WEP,Anthony J. Brindisi,4
+Chenango,NORWICH TOWN 1,U.S. House,22,WEP,Anthony J. Brindisi,6
+Chenango,NORWICH TOWN 2,U.S. House,22,WEP,Anthony J. Brindisi,1
+Chenango,AFTON 1,U.S. House,22,REF,Claudia Tenney,5
+Chenango,BAINBRIDGE 1,U.S. House,22,REF,Claudia Tenney,3
+Chenango,COLUMBUS 1,U.S. House,22,REF,Claudia Tenney,3
+Chenango,COVENTRY 1,U.S. House,22,REF,Claudia Tenney,5
+Chenango,GERMAN 1,U.S. House,22,REF,Claudia Tenney,2
+Chenango,GREENE 1,U.S. House,22,REF,Claudia Tenney,6
+Chenango,GREENE 2,U.S. House,22,REF,Claudia Tenney,5
+Chenango,GUILFORD 1,U.S. House,22,REF,Claudia Tenney,5
+Chenango,LINCKLAEN 1,U.S. House,22,REF,Claudia Tenney,2
+Chenango,MCDONOUGH 1,U.S. House,22,REF,Claudia Tenney,1
+Chenango,NEW BERLIN 1,U.S. House,22,REF,Claudia Tenney,3
+Chenango,NORTH NORWICH 1,U.S. House,22,REF,Claudia Tenney,1
+Chenango,NORWICH TOWN 1,U.S. House,22,REF,Claudia Tenney,4
+Chenango,NORWICH TOWN 2,U.S. House,22,REF,Claudia Tenney,5
+Chenango,AFTON 1,U.S. House,22,,Write-Ins,0
+Chenango,BAINBRIDGE 1,U.S. House,22,,Write-Ins,1
+Chenango,COLUMBUS 1,U.S. House,22,,Write-Ins,0
+Chenango,COVENTRY 1,U.S. House,22,,Write-Ins,1
+Chenango,GERMAN 1,U.S. House,22,,Write-Ins,1
+Chenango,GREENE 1,U.S. House,22,,Write-Ins,1
+Chenango,GREENE 2,U.S. House,22,,Write-Ins,5
+Chenango,GUILFORD 1,U.S. House,22,,Write-Ins,2
+Chenango,LINCKLAEN 1,U.S. House,22,,Write-Ins,0
+Chenango,MCDONOUGH 1,U.S. House,22,,Write-Ins,2
+Chenango,NEW BERLIN 1,U.S. House,22,,Write-Ins,1
+Chenango,NORTH NORWICH 1,U.S. House,22,,Write-Ins,1
+Chenango,NORWICH TOWN 1,U.S. House,22,,Write-Ins,2
+Chenango,NORWICH TOWN 2,U.S. House,22,,Write-Ins,0
+Chenango,AFTON 1,U.S. House,22,,Void,0
+Chenango,BAINBRIDGE 1,U.S. House,22,,Void,2
+Chenango,COLUMBUS 1,U.S. House,22,,Void,0
+Chenango,COVENTRY 1,U.S. House,22,,Void,0
+Chenango,GERMAN 1,U.S. House,22,,Void,0
+Chenango,GREENE 1,U.S. House,22,,Void,1
+Chenango,GREENE 2,U.S. House,22,,Void,1
+Chenango,GUILFORD 1,U.S. House,22,,Void,0
+Chenango,LINCKLAEN 1,U.S. House,22,,Void,0
+Chenango,MCDONOUGH 1,U.S. House,22,,Void,0
+Chenango,NEW BERLIN 1,U.S. House,22,,Void,1
+Chenango,NORTH NORWICH 1,U.S. House,22,,Void,1
+Chenango,NORWICH TOWN 1,U.S. House,22,,Void,0
+Chenango,NORWICH TOWN 2,U.S. House,22,,Void,0
+Chenango,AFTON 1,U.S. House,22,,Blanks,27
+Chenango,BAINBRIDGE 1,U.S. House,22,,Blanks,36
+Chenango,COLUMBUS 1,U.S. House,22,,Blanks,2
+Chenango,COVENTRY 1,U.S. House,22,,Blanks,18
+Chenango,GERMAN 1,U.S. House,22,,Blanks,2
+Chenango,GREENE 1,U.S. House,22,,Blanks,23
+Chenango,GREENE 2,U.S. House,22,,Blanks,19
+Chenango,GUILFORD 1,U.S. House,22,,Blanks,27
+Chenango,LINCKLAEN 1,U.S. House,22,,Blanks,0
+Chenango,MCDONOUGH 1,U.S. House,22,,Blanks,15
+Chenango,NEW BERLIN 1,U.S. House,22,,Blanks,15
+Chenango,NORTH NORWICH 1,U.S. House,22,,Blanks,14
+Chenango,NORWICH TOWN 1,U.S. House,22,,Blanks,14
+Chenango,NORWICH TOWN 2,U.S. House,22,,Blanks,14
+Chenango,CITY OF NORWICH WARD 1,U.S. House,22,DEM,Anthony J. Brindisi,255
+Chenango,CITY OF NORWICH WARD 2,U.S. House,22,DEM,Anthony J. Brindisi,212
+Chenango,CITY OF NORWICH WARD 3,U.S. House,22,DEM,Anthony J. Brindisi,288
+Chenango,CITY OF NORWICH WARD 4,U.S. House,22,DEM,Anthony J. Brindisi,123
+Chenango,CITY OF NORWICH WARD 5,U.S. House,22,DEM,Anthony J. Brindisi,163
+Chenango,CITY OF NORWICH WARD 6,U.S. House,22,DEM,Anthony J. Brindisi,175
+Chenango,OTSELIC 1,U.S. House,22,DEM,Anthony J. Brindisi,104
+Chenango,OXFORD 1,U.S. House,22,DEM,Anthony J. Brindisi,302
+Chenango,OXFORD 2,U.S. House,22,DEM,Anthony J. Brindisi,243
+Chenango,PHARSALIA 1,U.S. House,22,DEM,Anthony J. Brindisi,77
+Chenango,PITCHER 1,U.S. House,22,DEM,Anthony J. Brindisi,57
+Chenango,PLYMOUTH 1,U.S. House,22,DEM,Anthony J. Brindisi,190
+Chenango,PRESTON 1,U.S. House,22,DEM,Anthony J. Brindisi,160
+Chenango,SHERBURNE 1,U.S. House,22,DEM,Anthony J. Brindisi,298
+Chenango,SHERBURNE 2,U.S. House,22,DEM,Anthony J. Brindisi,256
+Chenango,SMITHVILLE 1,U.S. House,22,DEM,Anthony J. Brindisi,171
+Chenango,SMYRNA 1,U.S. House,22,DEM,Anthony J. Brindisi,148
+Chenango,CITY OF NORWICH WARD 1,U.S. House,22,REP,Claudia Tenney,154
+Chenango,CITY OF NORWICH WARD 2,U.S. House,22,REP,Claudia Tenney,118
+Chenango,CITY OF NORWICH WARD 3,U.S. House,22,REP,Claudia Tenney,214
+Chenango,CITY OF NORWICH WARD 4,U.S. House,22,REP,Claudia Tenney,97
+Chenango,CITY OF NORWICH WARD 5,U.S. House,22,REP,Claudia Tenney,115
+Chenango,CITY OF NORWICH WARD 6,U.S. House,22,REP,Claudia Tenney,128
+Chenango,OTSELIC 1,U.S. House,22,REP,Claudia Tenney,150
+Chenango,OXFORD 1,U.S. House,22,REP,Claudia Tenney,443
+Chenango,OXFORD 2,U.S. House,22,REP,Claudia Tenney,248
+Chenango,PHARSALIA 1,U.S. House,22,REP,Claudia Tenney,90
+Chenango,PITCHER 1,U.S. House,22,REP,Claudia Tenney,133
+Chenango,PLYMOUTH 1,U.S. House,22,REP,Claudia Tenney,355
+Chenango,PRESTON 1,U.S. House,22,REP,Claudia Tenney,173
+Chenango,SHERBURNE 1,U.S. House,22,REP,Claudia Tenney,322
+Chenango,SHERBURNE 2,U.S. House,22,REP,Claudia Tenney,378
+Chenango,SMITHVILLE 1,U.S. House,22,REP,Claudia Tenney,251
+Chenango,SMYRNA 1,U.S. House,22,REP,Claudia Tenney,264
+Chenango,CITY OF NORWICH WARD 1,U.S. House,22,CON,Claudia Tenney,13
+Chenango,CITY OF NORWICH WARD 2,U.S. House,22,CON,Claudia Tenney,13
+Chenango,CITY OF NORWICH WARD 3,U.S. House,22,CON,Claudia Tenney,12
+Chenango,CITY OF NORWICH WARD 4,U.S. House,22,CON,Claudia Tenney,5
+Chenango,CITY OF NORWICH WARD 5,U.S. House,22,CON,Claudia Tenney,13
+Chenango,CITY OF NORWICH WARD 6,U.S. House,22,CON,Claudia Tenney,9
+Chenango,OTSELIC 1,U.S. House,22,CON,Claudia Tenney,11
+Chenango,OXFORD 1,U.S. House,22,CON,Claudia Tenney,29
+Chenango,OXFORD 2,U.S. House,22,CON,Claudia Tenney,15
+Chenango,PHARSALIA 1,U.S. House,22,CON,Claudia Tenney,16
+Chenango,PITCHER 1,U.S. House,22,CON,Claudia Tenney,10
+Chenango,PLYMOUTH 1,U.S. House,22,CON,Claudia Tenney,22
+Chenango,PRESTON 1,U.S. House,22,CON,Claudia Tenney,14
+Chenango,SHERBURNE 1,U.S. House,22,CON,Claudia Tenney,22
+Chenango,SHERBURNE 2,U.S. House,22,CON,Claudia Tenney,28
+Chenango,SMITHVILLE 1,U.S. House,22,CON,Claudia Tenney,23
+Chenango,SMYRNA 1,U.S. House,22,CON,Claudia Tenney,20
+Chenango,CITY OF NORWICH WARD 1,U.S. House,22,WFP,Anthony J. Brindisi,14
+Chenango,CITY OF NORWICH WARD 2,U.S. House,22,WFP,Anthony J. Brindisi,13
+Chenango,CITY OF NORWICH WARD 3,U.S. House,22,WFP,Anthony J. Brindisi,6
+Chenango,CITY OF NORWICH WARD 4,U.S. House,22,WFP,Anthony J. Brindisi,8
+Chenango,CITY OF NORWICH WARD 5,U.S. House,22,WFP,Anthony J. Brindisi,8
+Chenango,CITY OF NORWICH WARD 6,U.S. House,22,WFP,Anthony J. Brindisi,8
+Chenango,OTSELIC 1,U.S. House,22,WFP,Anthony J. Brindisi,9
+Chenango,OXFORD 1,U.S. House,22,WFP,Anthony J. Brindisi,21
+Chenango,OXFORD 2,U.S. House,22,WFP,Anthony J. Brindisi,8
+Chenango,PHARSALIA 1,U.S. House,22,WFP,Anthony J. Brindisi,3
+Chenango,PITCHER 1,U.S. House,22,WFP,Anthony J. Brindisi,7
+Chenango,PLYMOUTH 1,U.S. House,22,WFP,Anthony J. Brindisi,8
+Chenango,PRESTON 1,U.S. House,22,WFP,Anthony J. Brindisi,3
+Chenango,SHERBURNE 1,U.S. House,22,WFP,Anthony J. Brindisi,17
+Chenango,SHERBURNE 2,U.S. House,22,WFP,Anthony J. Brindisi,13
+Chenango,SMITHVILLE 1,U.S. House,22,WFP,Anthony J. Brindisi,7
+Chenango,SMYRNA 1,U.S. House,22,WFP,Anthony J. Brindisi,1
+Chenango,CITY OF NORWICH WARD 1,U.S. House,22,IND,Anthony J. Brindisi,10
+Chenango,CITY OF NORWICH WARD 2,U.S. House,22,IND,Anthony J. Brindisi,5
+Chenango,CITY OF NORWICH WARD 3,U.S. House,22,IND,Anthony J. Brindisi,13
+Chenango,CITY OF NORWICH WARD 4,U.S. House,22,IND,Anthony J. Brindisi,6
+Chenango,CITY OF NORWICH WARD 5,U.S. House,22,IND,Anthony J. Brindisi,7
+Chenango,CITY OF NORWICH WARD 6,U.S. House,22,IND,Anthony J. Brindisi,7
+Chenango,OTSELIC 1,U.S. House,22,IND,Anthony J. Brindisi,10
+Chenango,OXFORD 1,U.S. House,22,IND,Anthony J. Brindisi,16
+Chenango,OXFORD 2,U.S. House,22,IND,Anthony J. Brindisi,13
+Chenango,PHARSALIA 1,U.S. House,22,IND,Anthony J. Brindisi,2
+Chenango,PITCHER 1,U.S. House,22,IND,Anthony J. Brindisi,2
+Chenango,PLYMOUTH 1,U.S. House,22,IND,Anthony J. Brindisi,7
+Chenango,PRESTON 1,U.S. House,22,IND,Anthony J. Brindisi,7
+Chenango,SHERBURNE 1,U.S. House,22,IND,Anthony J. Brindisi,12
+Chenango,SHERBURNE 2,U.S. House,22,IND,Anthony J. Brindisi,9
+Chenango,SMITHVILLE 1,U.S. House,22,IND,Anthony J. Brindisi,12
+Chenango,SMYRNA 1,U.S. House,22,IND,Anthony J. Brindisi,4
+Chenango,CITY OF NORWICH WARD 1,U.S. House,22,WEP,Anthony J. Brindisi,4
+Chenango,CITY OF NORWICH WARD 2,U.S. House,22,WEP,Anthony J. Brindisi,3
+Chenango,CITY OF NORWICH WARD 3,U.S. House,22,WEP,Anthony J. Brindisi,3
+Chenango,CITY OF NORWICH WARD 4,U.S. House,22,WEP,Anthony J. Brindisi,5
+Chenango,CITY OF NORWICH WARD 5,U.S. House,22,WEP,Anthony J. Brindisi,5
+Chenango,CITY OF NORWICH WARD 6,U.S. House,22,WEP,Anthony J. Brindisi,1
+Chenango,OTSELIC 1,U.S. House,22,WEP,Anthony J. Brindisi,2
+Chenango,OXFORD 1,U.S. House,22,WEP,Anthony J. Brindisi,6
+Chenango,OXFORD 2,U.S. House,22,WEP,Anthony J. Brindisi,7
+Chenango,PHARSALIA 1,U.S. House,22,WEP,Anthony J. Brindisi,2
+Chenango,PITCHER 1,U.S. House,22,WEP,Anthony J. Brindisi,1
+Chenango,PLYMOUTH 1,U.S. House,22,WEP,Anthony J. Brindisi,4
+Chenango,PRESTON 1,U.S. House,22,WEP,Anthony J. Brindisi,2
+Chenango,SHERBURNE 1,U.S. House,22,WEP,Anthony J. Brindisi,3
+Chenango,SHERBURNE 2,U.S. House,22,WEP,Anthony J. Brindisi,3
+Chenango,SMITHVILLE 1,U.S. House,22,WEP,Anthony J. Brindisi,4
+Chenango,SMYRNA 1,U.S. House,22,WEP,Anthony J. Brindisi,2
+Chenango,CITY OF NORWICH WARD 1,U.S. House,22,REF,Claudia Tenney,2
+Chenango,CITY OF NORWICH WARD 2,U.S. House,22,REF,Claudia Tenney,1
+Chenango,CITY OF NORWICH WARD 3,U.S. House,22,REF,Claudia Tenney,2
+Chenango,CITY OF NORWICH WARD 4,U.S. House,22,REF,Claudia Tenney,1
+Chenango,CITY OF NORWICH WARD 5,U.S. House,22,REF,Claudia Tenney,1
+Chenango,CITY OF NORWICH WARD 6,U.S. House,22,REF,Claudia Tenney,0
+Chenango,OTSELIC 1,U.S. House,22,REF,Claudia Tenney,0
+Chenango,OXFORD 1,U.S. House,22,REF,Claudia Tenney,5
+Chenango,OXFORD 2,U.S. House,22,REF,Claudia Tenney,5
+Chenango,PHARSALIA 1,U.S. House,22,REF,Claudia Tenney,0
+Chenango,PITCHER 1,U.S. House,22,REF,Claudia Tenney,1
+Chenango,PLYMOUTH 1,U.S. House,22,REF,Claudia Tenney,4
+Chenango,PRESTON 1,U.S. House,22,REF,Claudia Tenney,2
+Chenango,SHERBURNE 1,U.S. House,22,REF,Claudia Tenney,3
+Chenango,SHERBURNE 2,U.S. House,22,REF,Claudia Tenney,3
+Chenango,SMITHVILLE 1,U.S. House,22,REF,Claudia Tenney,1
+Chenango,SMYRNA 1,U.S. House,22,REF,Claudia Tenney,1
+Chenango,CITY OF NORWICH WARD 1,U.S. House,22,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 2,U.S. House,22,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 3,U.S. House,22,,Write-Ins,1
+Chenango,CITY OF NORWICH WARD 4,U.S. House,22,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 5,U.S. House,22,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 6,U.S. House,22,,Write-Ins,0
+Chenango,OTSELIC 1,U.S. House,22,,Write-Ins,1
+Chenango,OXFORD 1,U.S. House,22,,Write-Ins,2
+Chenango,OXFORD 2,U.S. House,22,,Write-Ins,1
+Chenango,PHARSALIA 1,U.S. House,22,,Write-Ins,0
+Chenango,PITCHER 1,U.S. House,22,,Write-Ins,0
+Chenango,PLYMOUTH 1,U.S. House,22,,Write-Ins,1
+Chenango,PRESTON 1,U.S. House,22,,Write-Ins,1
+Chenango,SHERBURNE 1,U.S. House,22,,Write-Ins,0
+Chenango,SHERBURNE 2,U.S. House,22,,Write-Ins,1
+Chenango,SMITHVILLE 1,U.S. House,22,,Write-Ins,1
+Chenango,SMYRNA 1,U.S. House,22,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 1,U.S. House,22,,Void,0
+Chenango,CITY OF NORWICH WARD 2,U.S. House,22,,Void,0
+Chenango,CITY OF NORWICH WARD 3,U.S. House,22,,Void,0
+Chenango,CITY OF NORWICH WARD 4,U.S. House,22,,Void,0
+Chenango,CITY OF NORWICH WARD 5,U.S. House,22,,Void,0
+Chenango,CITY OF NORWICH WARD 6,U.S. House,22,,Void,0
+Chenango,OTSELIC 1,U.S. House,22,,Void,0
+Chenango,OXFORD 1,U.S. House,22,,Void,0
+Chenango,OXFORD 2,U.S. House,22,,Void,0
+Chenango,PHARSALIA 1,U.S. House,22,,Void,0
+Chenango,PITCHER 1,U.S. House,22,,Void,0
+Chenango,PLYMOUTH 1,U.S. House,22,,Void,0
+Chenango,PRESTON 1,U.S. House,22,,Void,0
+Chenango,SHERBURNE 1,U.S. House,22,,Void,0
+Chenango,SHERBURNE 2,U.S. House,22,,Void,0
+Chenango,SMITHVILLE 1,U.S. House,22,,Void,0
+Chenango,SMYRNA 1,U.S. House,22,,Void,0
+Chenango,CITY OF NORWICH WARD 1,U.S. House,22,,Blanks,8
+Chenango,CITY OF NORWICH WARD 2,U.S. House,22,,Blanks,10
+Chenango,CITY OF NORWICH WARD 3,U.S. House,22,,Blanks,18
+Chenango,CITY OF NORWICH WARD 4,U.S. House,22,,Blanks,8
+Chenango,CITY OF NORWICH WARD 5,U.S. House,22,,Blanks,13
+Chenango,CITY OF NORWICH WARD 6,U.S. House,22,,Blanks,9
+Chenango,OTSELIC 1,U.S. House,22,,Blanks,7
+Chenango,OXFORD 1,U.S. House,22,,Blanks,25
+Chenango,OXFORD 2,U.S. House,22,,Blanks,18
+Chenango,PHARSALIA 1,U.S. House,22,,Blanks,3
+Chenango,PITCHER 1,U.S. House,22,,Blanks,6
+Chenango,PLYMOUTH 1,U.S. House,22,,Blanks,15
+Chenango,PRESTON 1,U.S. House,22,,Blanks,8
+Chenango,SHERBURNE 1,U.S. House,22,,Blanks,8
+Chenango,SHERBURNE 2,U.S. House,22,,Blanks,12
+Chenango,SMITHVILLE 1,U.S. House,22,,Blanks,11
+Chenango,SMYRNA 1,U.S. House,22,,Blanks,8
+Chenango,COLUMBUS 1,State Senate,51,DEM,Joyce St. George,57
+Chenango,LINCKLAEN 1,State Senate,51,DEM,Joyce St. George,24
+Chenango,NEW BERLIN 1,State Senate,51,DEM,Joyce St. George,187
+Chenango,NORTH NORWICH 1,State Senate,51,DEM,Joyce St. George,139
+Chenango,COLUMBUS 1,State Senate,51,REP,James L. Seward,217
+Chenango,LINCKLAEN 1,State Senate,51,REP,James L. Seward,99
+Chenango,NEW BERLIN 1,State Senate,51,REP,James L. Seward,497
+Chenango,NORTH NORWICH 1,State Senate,51,REP,James L. Seward,387
+Chenango,COLUMBUS 1,State Senate,51,CON,James L. Seward,16
+Chenango,LINCKLAEN 1,State Senate,51,CON,James L. Seward,3
+Chenango,NEW BERLIN 1,State Senate,51,CON,James L. Seward,40
+Chenango,NORTH NORWICH 1,State Senate,51,CON,James L. Seward,29
+Chenango,COLUMBUS 1,State Senate,51,IND,James L. Seward,2
+Chenango,LINCKLAEN 1,State Senate,51,IND,James L. Seward,5
+Chenango,NEW BERLIN 1,State Senate,51,IND,James L. Seward,22
+Chenango,NORTH NORWICH 1,State Senate,51,IND,James L. Seward,8
+Chenango,COLUMBUS 1,State Senate,51,WEP,Joyce St. George,5
+Chenango,LINCKLAEN 1,State Senate,51,WEP,Joyce St. George,3
+Chenango,NEW BERLIN 1,State Senate,51,WEP,Joyce St. George,11
+Chenango,NORTH NORWICH 1,State Senate,51,WEP,Joyce St. George,10
+Chenango,COLUMBUS 1,State Senate,51,REF,James L. Seward,2
+Chenango,LINCKLAEN 1,State Senate,51,REF,James L. Seward,0
+Chenango,NEW BERLIN 1,State Senate,51,REF,James L. Seward,3
+Chenango,NORTH NORWICH 1,State Senate,51,REF,James L. Seward,1
+Chenango,COLUMBUS 1,State Senate,51,,Write-Ins,0
+Chenango,LINCKLAEN 1,State Senate,51,,Write-Ins,0
+Chenango,NEW BERLIN 1,State Senate,51,,Write-Ins,0
+Chenango,NORTH NORWICH 1,State Senate,51,,Write-Ins,1
+Chenango,COLUMBUS 1,State Senate,51,,Void,0
+Chenango,LINCKLAEN 1,State Senate,51,,Void,0
+Chenango,NEW BERLIN 1,State Senate,51,,Void,0
+Chenango,NORTH NORWICH 1,State Senate,51,,Void,1
+Chenango,COLUMBUS 1,State Senate,51,,Blanks,9
+Chenango,LINCKLAEN 1,State Senate,51,,Blanks,3
+Chenango,NEW BERLIN 1,State Senate,51,,Blanks,21
+Chenango,NORTH NORWICH 1,State Senate,51,,Blanks,18
+Chenango,OTSELIC 1,State Senate,51,DEM,Joyce St. George,73
+Chenango,PHARSALIA 1,State Senate,51,DEM,Joyce St. George,61
+Chenango,PITCHER 1,State Senate,51,DEM,Joyce St. George,39
+Chenango,PLYMOUTH 1,State Senate,51,DEM,Joyce St. George,131
+Chenango,SHERBURNE 1,State Senate,51,DEM,Joyce St. George,174
+Chenango,SHERBURNE 2,State Senate,51,DEM,Joyce St. George,180
+Chenango,SMYRNA 1,State Senate,51,DEM,Joyce St. George,97
+Chenango,OTSELIC 1,State Senate,51,REP,James L. Seward,182
+Chenango,PHARSALIA 1,State Senate,51,REP,James L. Seward,107
+Chenango,PITCHER 1,State Senate,51,REP,James L. Seward,155
+Chenango,PLYMOUTH 1,State Senate,51,REP,James L. Seward,415
+Chenango,SHERBURNE 1,State Senate,51,REP,James L. Seward,429
+Chenango,SHERBURNE 2,State Senate,51,REP,James L. Seward,437
+Chenango,SMYRNA 1,State Senate,51,REP,James L. Seward,309
+Chenango,OTSELIC 1,State Senate,51,CON,James L. Seward,14
+Chenango,PHARSALIA 1,State Senate,51,CON,James L. Seward,15
+Chenango,PITCHER 1,State Senate,51,CON,James L. Seward,8
+Chenango,PLYMOUTH 1,State Senate,51,CON,James L. Seward,29
+Chenango,SHERBURNE 1,State Senate,51,CON,James L. Seward,29
+Chenango,SHERBURNE 2,State Senate,51,CON,James L. Seward,26
+Chenango,SMYRNA 1,State Senate,51,CON,James L. Seward,21
+Chenango,OTSELIC 1,State Senate,51,IND,James L. Seward,11
+Chenango,PHARSALIA 1,State Senate,51,IND,James L. Seward,3
+Chenango,PITCHER 1,State Senate,51,IND,James L. Seward,4
+Chenango,PLYMOUTH 1,State Senate,51,IND,James L. Seward,8
+Chenango,SHERBURNE 1,State Senate,51,IND,James L. Seward,15
+Chenango,SHERBURNE 2,State Senate,51,IND,James L. Seward,15
+Chenango,SMYRNA 1,State Senate,51,IND,James L. Seward,10
+Chenango,OTSELIC 1,State Senate,51,WEP,Joyce St. George,2
+Chenango,PHARSALIA 1,State Senate,51,WEP,Joyce St. George,1
+Chenango,PITCHER 1,State Senate,51,WEP,Joyce St. George,3
+Chenango,PLYMOUTH 1,State Senate,51,WEP,Joyce St. George,7
+Chenango,SHERBURNE 1,State Senate,51,WEP,Joyce St. George,6
+Chenango,SHERBURNE 2,State Senate,51,WEP,Joyce St. George,7
+Chenango,SMYRNA 1,State Senate,51,WEP,Joyce St. George,0
+Chenango,OTSELIC 1,State Senate,51,REF,James L. Seward,0
+Chenango,PHARSALIA 1,State Senate,51,REF,James L. Seward,0
+Chenango,PITCHER 1,State Senate,51,REF,James L. Seward,1
+Chenango,PLYMOUTH 1,State Senate,51,REF,James L. Seward,3
+Chenango,SHERBURNE 1,State Senate,51,REF,James L. Seward,1
+Chenango,SHERBURNE 2,State Senate,51,REF,James L. Seward,5
+Chenango,SMYRNA 1,State Senate,51,REF,James L. Seward,1
+Chenango,OTSELIC 1,State Senate,51,,Write-Ins,1
+Chenango,PHARSALIA 1,State Senate,51,,Write-Ins,0
+Chenango,PITCHER 1,State Senate,51,,Write-Ins,0
+Chenango,PLYMOUTH 1,State Senate,51,,Write-Ins,0
+Chenango,SHERBURNE 1,State Senate,51,,Write-Ins,0
+Chenango,SHERBURNE 2,State Senate,51,,Write-Ins,1
+Chenango,SMYRNA 1,State Senate,51,,Write-Ins,0
+Chenango,PHARSALIA 1,State Senate,51,,Void,0
+Chenango,PITCHER 1,State Senate,51,,Void,0
+Chenango,PLYMOUTH 1,State Senate,51,,Void,0
+Chenango,SHERBURNE 1,State Senate,51,,Void,0
+Chenango,SHERBURNE 2,State Senate,51,,Void,0
+Chenango,SMYRNA 1,State Senate,51,,Void,0
+Chenango,OTSELIC 1,State Senate,51,,Blanks,11
+Chenango,PHARSALIA 1,State Senate,51,,Blanks,6
+Chenango,PITCHER 1,State Senate,51,,Blanks,7
+Chenango,PLYMOUTH 1,State Senate,51,,Blanks,13
+Chenango,SHERBURNE 1,State Senate,51,,Blanks,31
+Chenango,SHERBURNE 2,State Senate,51,,Blanks,32
+Chenango,SMYRNA 1,State Senate,51,,Blanks,10
+Chenango,AFTON 1,State Senate,52,REP,Frederick J. Akshar II,756
+Chenango,BAINBRIDGE 1,State Senate,52,REP,Frederick J. Akshar II,823
+Chenango,COVENTRY 1,State Senate,52,REP,Frederick J. Akshar II,481
+Chenango,GERMAN 1,State Senate,52,REP,Frederick J. Akshar II,103
+Chenango,GREENE 1,State Senate,52,REP,Frederick J. Akshar II,793
+Chenango,GREENE 2,State Senate,52,REP,Frederick J. Akshar II,730
+Chenango,GUILFORD 1,State Senate,52,REP,Frederick J. Akshar II,715
+Chenango,MCDONOUGH 1,State Senate,52,REP,Frederick J. Akshar II,255
+Chenango,NORWICH TOWN 1,State Senate,52,REP,Frederick J. Akshar II,512
+Chenango,NORWICH TOWN 2,State Senate,52,REP,Frederick J. Akshar II,446
+Chenango,AFTON 1,State Senate,52,CON,Frederick J. Akshar II,60
+Chenango,BAINBRIDGE 1,State Senate,52,CON,Frederick J. Akshar II,49
+Chenango,COVENTRY 1,State Senate,52,CON,Frederick J. Akshar II,37
+Chenango,GERMAN 1,State Senate,52,CON,Frederick J. Akshar II,10
+Chenango,GREENE 1,State Senate,52,CON,Frederick J. Akshar II,68
+Chenango,GREENE 2,State Senate,52,CON,Frederick J. Akshar II,54
+Chenango,GUILFORD 1,State Senate,52,CON,Frederick J. Akshar II,47
+Chenango,MCDONOUGH 1,State Senate,52,CON,Frederick J. Akshar II,12
+Chenango,NORWICH TOWN 1,State Senate,52,CON,Frederick J. Akshar II,31
+Chenango,NORWICH TOWN 2,State Senate,52,CON,Frederick J. Akshar II,19
+Chenango,AFTON 1,State Senate,52,IND,Frederick J. Akshar II,51
+Chenango,BAINBRIDGE 1,State Senate,52,IND,Frederick J. Akshar II,61
+Chenango,COVENTRY 1,State Senate,52,IND,Frederick J. Akshar II,27
+Chenango,GERMAN 1,State Senate,52,IND,Frederick J. Akshar II,6
+Chenango,GREENE 1,State Senate,52,IND,Frederick J. Akshar II,66
+Chenango,GREENE 2,State Senate,52,IND,Frederick J. Akshar II,44
+Chenango,GUILFORD 1,State Senate,52,IND,Frederick J. Akshar II,54
+Chenango,MCDONOUGH 1,State Senate,52,IND,Frederick J. Akshar II,16
+Chenango,NORWICH TOWN 1,State Senate,52,IND,Frederick J. Akshar II,40
+Chenango,NORWICH TOWN 2,State Senate,52,IND,Frederick J. Akshar II,28
+Chenango,AFTON 1,State Senate,52,REF,Frederick J. Akshar II,13
+Chenango,BAINBRIDGE 1,State Senate,52,REF,Frederick J. Akshar II,13
+Chenango,COVENTRY 1,State Senate,52,REF,Frederick J. Akshar II,4
+Chenango,GERMAN 1,State Senate,52,REF,Frederick J. Akshar II,2
+Chenango,GREENE 1,State Senate,52,REF,Frederick J. Akshar II,17
+Chenango,GREENE 2,State Senate,52,REF,Frederick J. Akshar II,9
+Chenango,GUILFORD 1,State Senate,52,REF,Frederick J. Akshar II,6
+Chenango,MCDONOUGH 1,State Senate,52,REF,Frederick J. Akshar II,4
+Chenango,NORWICH TOWN 1,State Senate,52,REF,Frederick J. Akshar II,10
+Chenango,NORWICH TOWN 2,State Senate,52,REF,Frederick J. Akshar II,6
+Chenango,AFTON 1,State Senate,52,,Write-Ins,7
+Chenango,BAINBRIDGE 1,State Senate,52,,Write-Ins,5
+Chenango,COVENTRY 1,State Senate,52,,Write-Ins,4
+Chenango,GERMAN 1,State Senate,52,,Write-Ins,2
+Chenango,GREENE 1,State Senate,52,,Write-Ins,2
+Chenango,GREENE 2,State Senate,52,,Write-Ins,6
+Chenango,GUILFORD 1,State Senate,52,,Write-Ins,4
+Chenango,MCDONOUGH 1,State Senate,52,,Write-Ins,1
+Chenango,NORWICH TOWN 1,State Senate,52,,Write-Ins,4
+Chenango,NORWICH TOWN 2,State Senate,52,,Write-Ins,2
+Chenango,AFTON 1,State Senate,52,,Void,0
+Chenango,BAINBRIDGE 1,State Senate,52,,Void,1
+Chenango,COVENTRY 1,State Senate,52,,Void,0
+Chenango,GERMAN 1,State Senate,52,,Void,0
+Chenango,GREENE 1,State Senate,52,,Void,1
+Chenango,GREENE 2,State Senate,52,,Void,1
+Chenango,GUILFORD 1,State Senate,52,,Void,0
+Chenango,MCDONOUGH 1,State Senate,52,,Void,0
+Chenango,NORWICH TOWN 1,State Senate,52,,Void,0
+Chenango,NORWICH TOWN 2,State Senate,52,,Void,0
+Chenango,AFTON 1,State Senate,52,,Blanks,127
+Chenango,BAINBRIDGE 1,State Senate,52,,Blanks,167
+Chenango,COVENTRY 1,State Senate,52,,Blanks,70
+Chenango,GERMAN 1,State Senate,52,,Blanks,18
+Chenango,GREENE 1,State Senate,52,,Blanks,155
+Chenango,GREENE 2,State Senate,52,,Blanks,154
+Chenango,GUILFORD 1,State Senate,52,,Blanks,168
+Chenango,MCDONOUGH 1,State Senate,52,,Blanks,57
+Chenango,NORWICH TOWN 1,State Senate,52,,Blanks,112
+Chenango,NORWICH TOWN 2,State Senate,52,,Blanks,105
+Chenango,CITY OF NORWICH WARD 1,State Senate,52,REP,Frederick J. Akshar II,298
+Chenango,CITY OF NORWICH WARD 2,State Senate,52,REP,Frederick J. Akshar II,234
+Chenango,CITY OF NORWICH WARD 3,State Senate,52,REP,Frederick J. Akshar II,344
+Chenango,CITY OF NORWICH WARD 4,State Senate,52,REP,Frederick J. Akshar II,169
+Chenango,CITY OF NORWICH WARD 5,State Senate,52,REP,Frederick J. Akshar II,219
+Chenango,CITY OF NORWICH WARD 6,State Senate,52,REP,Frederick J. Akshar II,216
+Chenango,OXFORD 1,State Senate,52,REP,Frederick J. Akshar II,611
+Chenango,OXFORD 2,State Senate,52,REP,Frederick J. Akshar II,375
+Chenango,PRESTON 1,State Senate,52,REP,Frederick J. Akshar II,261
+Chenango,SMITHVILLE 1,State Senate,52,REP,Frederick J. Akshar II,354
+Chenango,CITY OF NORWICH WARD 1,State Senate,52,CON,Frederick J. Akshar II,26
+Chenango,CITY OF NORWICH WARD 2,State Senate,52,CON,Frederick J. Akshar II,19
+Chenango,CITY OF NORWICH WARD 3,State Senate,52,CON,Frederick J. Akshar II,18
+Chenango,CITY OF NORWICH WARD 4,State Senate,52,CON,Frederick J. Akshar II,14
+Chenango,CITY OF NORWICH WARD 5,State Senate,52,CON,Frederick J. Akshar II,16
+Chenango,CITY OF NORWICH WARD 6,State Senate,52,CON,Frederick J. Akshar II,16
+Chenango,OXFORD 1,State Senate,52,CON,Frederick J. Akshar II,48
+Chenango,OXFORD 2,State Senate,52,CON,Frederick J. Akshar II,28
+Chenango,PRESTON 1,State Senate,52,CON,Frederick J. Akshar II,19
+Chenango,SMITHVILLE 1,State Senate,52,CON,Frederick J. Akshar II,27
+Chenango,CITY OF NORWICH WARD 1,State Senate,52,IND,Frederick J. Akshar II,25
+Chenango,CITY OF NORWICH WARD 2,State Senate,52,IND,Frederick J. Akshar II,26
+Chenango,CITY OF NORWICH WARD 3,State Senate,52,IND,Frederick J. Akshar II,34
+Chenango,CITY OF NORWICH WARD 4,State Senate,52,IND,Frederick J. Akshar II,17
+Chenango,CITY OF NORWICH WARD 5,State Senate,52,IND,Frederick J. Akshar II,19
+Chenango,CITY OF NORWICH WARD 6,State Senate,52,IND,Frederick J. Akshar II,30
+Chenango,OXFORD 1,State Senate,52,IND,Frederick J. Akshar II,52
+Chenango,OXFORD 2,State Senate,52,IND,Frederick J. Akshar II,37
+Chenango,PRESTON 1,State Senate,52,IND,Frederick J. Akshar II,14
+Chenango,SMITHVILLE 1,State Senate,52,IND,Frederick J. Akshar II,26
+Chenango,CITY OF NORWICH WARD 1,State Senate,52,REF,Frederick J. Akshar II,7
+Chenango,CITY OF NORWICH WARD 2,State Senate,52,REF,Frederick J. Akshar II,6
+Chenango,CITY OF NORWICH WARD 3,State Senate,52,REF,Frederick J. Akshar II,7
+Chenango,CITY OF NORWICH WARD 4,State Senate,52,REF,Frederick J. Akshar II,5
+Chenango,CITY OF NORWICH WARD 5,State Senate,52,REF,Frederick J. Akshar II,4
+Chenango,CITY OF NORWICH WARD 6,State Senate,52,REF,Frederick J. Akshar II,5
+Chenango,OXFORD 1,State Senate,52,REF,Frederick J. Akshar II,7
+Chenango,OXFORD 2,State Senate,52,REF,Frederick J. Akshar II,8
+Chenango,PRESTON 1,State Senate,52,REF,Frederick J. Akshar II,3
+Chenango,SMITHVILLE 1,State Senate,52,REF,Frederick J. Akshar II,4
+Chenango,CITY OF NORWICH WARD 1,State Senate,52,,Write-Ins,2
+Chenango,CITY OF NORWICH WARD 2,State Senate,52,,Write-Ins,1
+Chenango,CITY OF NORWICH WARD 3,State Senate,52,,Write-Ins,6
+Chenango,CITY OF NORWICH WARD 4,State Senate,52,,Write-Ins,1
+Chenango,CITY OF NORWICH WARD 5,State Senate,52,,Write-Ins,1
+Chenango,CITY OF NORWICH WARD 6,State Senate,52,,Write-Ins,3
+Chenango,OXFORD 1,State Senate,52,,Write-Ins,4
+Chenango,OXFORD 2,State Senate,52,,Write-Ins,4
+Chenango,PRESTON 1,State Senate,52,,Write-Ins,0
+Chenango,SMITHVILLE 1,State Senate,52,,Write-Ins,1
+Chenango,CITY OF NORWICH WARD 1,State Senate,52,,Void,0
+Chenango,CITY OF NORWICH WARD 2,State Senate,52,,Void,0
+Chenango,CITY OF NORWICH WARD 3,State Senate,52,,Void,0
+Chenango,CITY OF NORWICH WARD 4,State Senate,52,,Void,0
+Chenango,CITY OF NORWICH WARD 5,State Senate,52,,Void,0
+Chenango,CITY OF NORWICH WARD 6,State Senate,52,,Void,0
+Chenango,OXFORD 1,State Senate,52,,Void,0
+Chenango,OXFORD 2,State Senate,52,,Void,0
+Chenango,PRESTON 1,State Senate,52,,Void,0
+Chenango,SMITHVILLE 1,State Senate,52,,Void,0
+Chenango,CITY OF NORWICH WARD 1,State Senate,52,,Blanks,102
+Chenango,CITY OF NORWICH WARD 2,State Senate,52,,Blanks,89
+Chenango,CITY OF NORWICH WARD 3,State Senate,52,,Blanks,148
+Chenango,CITY OF NORWICH WARD 4,State Senate,52,,Blanks,47
+Chenango,CITY OF NORWICH WARD 5,State Senate,52,,Blanks,66
+Chenango,CITY OF NORWICH WARD 6,State Senate,52,,Blanks,67
+Chenango,OXFORD 1,State Senate,52,,Blanks,127
+Chenango,OXFORD 2,State Senate,52,,Blanks,106
+Chenango,PRESTON 1,State Senate,52,,Blanks,73
+Chenango,SMITHVILLE 1,State Senate,52,,Blanks,69
+Chenango,AFTON 1,State Assembly,122,REP,Clifford W. Crouch,745
+Chenango,BAINBRIDGE 1,State Assembly,122,REP,Clifford W. Crouch,888
+Chenango,COVENTRY 1,State Assembly,122,REP,Clifford W. Crouch,481
+Chenango,GERMAN 1,State Assembly,122,REP,Clifford W. Crouch,97
+Chenango,GREENE 1,State Assembly,122,REP,Clifford W. Crouch,802
+Chenango,GREENE 2,State Assembly,122,REP,Clifford W. Crouch,693
+Chenango,GUILFORD 1,State Assembly,122,REP,Clifford W. Crouch,732
+Chenango,NEW BERLIN 1,State Assembly,122,REP,Clifford W. Crouch,565
+Chenango,NORTH NORWICH 1,State Assembly,122,REP,Clifford W. Crouch,440
+Chenango,NORWICH TOWN 1,State Assembly,122,REP,Clifford W. Crouch,500
+Chenango,NORWICH TOWN 2,State Assembly,122,REP,Clifford W. Crouch,435
+Chenango,AFTON 1,State Assembly,122,CON,Clifford W. Crouch,99
+Chenango,BAINBRIDGE 1,State Assembly,122,CON,Clifford W. Crouch,74
+Chenango,COVENTRY 1,State Assembly,122,CON,Clifford W. Crouch,59
+Chenango,GERMAN 1,State Assembly,122,CON,Clifford W. Crouch,17
+Chenango,GREENE 1,State Assembly,122,CON,Clifford W. Crouch,115
+Chenango,GREENE 2,State Assembly,122,CON,Clifford W. Crouch,129
+Chenango,GUILFORD 1,State Assembly,122,CON,Clifford W. Crouch,99
+Chenango,NEW BERLIN 1,State Assembly,122,CON,Clifford W. Crouch,73
+Chenango,NORTH NORWICH 1,State Assembly,122,CON,Clifford W. Crouch,60
+Chenango,NORWICH TOWN 1,State Assembly,122,CON,Clifford W. Crouch,77
+Chenango,NORWICH TOWN 2,State Assembly,122,CON,Clifford W. Crouch,61
+Chenango,AFTON 1,State Assembly,122,REF,Clifford W. Crouch,33
+Chenango,BAINBRIDGE 1,State Assembly,122,REF,Clifford W. Crouch,26
+Chenango,COVENTRY 1,State Assembly,122,REF,Clifford W. Crouch,9
+Chenango,GERMAN 1,State Assembly,122,REF,Clifford W. Crouch,5
+Chenango,GREENE 1,State Assembly,122,REF,Clifford W. Crouch,36
+Chenango,GREENE 2,State Assembly,122,REF,Clifford W. Crouch,17
+Chenango,GUILFORD 1,State Assembly,122,REF,Clifford W. Crouch,16
+Chenango,NEW BERLIN 1,State Assembly,122,REF,Clifford W. Crouch,23
+Chenango,NORTH NORWICH 1,State Assembly,122,REF,Clifford W. Crouch,12
+Chenango,NORWICH TOWN 1,State Assembly,122,REF,Clifford W. Crouch,19
+Chenango,NORWICH TOWN 2,State Assembly,122,REF,Clifford W. Crouch,17
+Chenango,AFTON 1,State Assembly,122,,Write-Ins,4
+Chenango,BAINBRIDGE 1,State Assembly,122,,Write-Ins,2
+Chenango,COVENTRY 1,State Assembly,122,,Write-Ins,4
+Chenango,GERMAN 1,State Assembly,122,,Write-Ins,2
+Chenango,GREENE 1,State Assembly,122,,Write-Ins,0
+Chenango,GREENE 2,State Assembly,122,,Write-Ins,2
+Chenango,GUILFORD 1,State Assembly,122,,Write-Ins,3
+Chenango,NEW BERLIN 1,State Assembly,122,,Write-Ins,3
+Chenango,NORTH NORWICH 1,State Assembly,122,,Write-Ins,1
+Chenango,NORWICH TOWN 1,State Assembly,122,,Write-Ins,1
+Chenango,NORWICH TOWN 2,State Assembly,122,,Write-Ins,2
+Chenango,AFTON 1,State Assembly,122,,Void,0
+Chenango,BAINBRIDGE 1,State Assembly,122,,Void,1
+Chenango,COVENTRY 1,State Assembly,122,,Void,0
+Chenango,GERMAN 1,State Assembly,122,,Void,0
+Chenango,GREENE 1,State Assembly,122,,Void,1
+Chenango,GREENE 2,State Assembly,122,,Void,1
+Chenango,GUILFORD 1,State Assembly,122,,Void,0
+Chenango,NEW BERLIN 1,State Assembly,122,,Void,0
+Chenango,NORTH NORWICH 1,State Assembly,122,,Void,1
+Chenango,NORWICH TOWN 1,State Assembly,122,,Void,0
+Chenango,NORWICH TOWN 2,State Assembly,122,,Void,0
+Chenango,AFTON 1,State Assembly,122,,Blanks,133
+Chenango,BAINBRIDGE 1,State Assembly,122,,Blanks,128
+Chenango,COVENTRY 1,State Assembly,122,,Blanks,70
+Chenango,GERMAN 1,State Assembly,122,,Blanks,20
+Chenango,GREENE 1,State Assembly,122,,Blanks,148
+Chenango,GREENE 2,State Assembly,122,,Blanks,156
+Chenango,GUILFORD 1,State Assembly,122,,Blanks,144
+Chenango,NEW BERLIN 1,State Assembly,122,,Blanks,117
+Chenango,NORTH NORWICH 1,State Assembly,122,,Blanks,80
+Chenango,NORWICH TOWN 1,State Assembly,122,,Blanks,112
+Chenango,NORWICH TOWN 2,State Assembly,122,,Blanks,91
+Chenango,CITY OF NORWICH WARD 1,State Assembly,122,REP,Clifford W. Crouch,300
+Chenango,CITY OF NORWICH WARD 2,State Assembly,122,REP,Clifford W. Crouch,240
+Chenango,CITY OF NORWICH WARD 3,State Assembly,122,REP,Clifford W. Crouch,355
+Chenango,CITY OF NORWICH WARD 4,State Assembly,122,REP,Clifford W. Crouch,163
+Chenango,CITY OF NORWICH WARD 5,State Assembly,122,REP,Clifford W. Crouch,217
+Chenango,CITY OF NORWICH WARD 6,State Assembly,122,REP,Clifford W. Crouch,209
+Chenango,OXFORD 1,State Assembly,122,REP,Clifford W. Crouch,619
+Chenango,OXFORD 2,State Assembly,122,REP,Clifford W. Crouch,380
+Chenango,PRESTON 1,State Assembly,122,REP,Clifford W. Crouch,258
+Chenango,SMITHVILLE 1,State Assembly,122,REP,Clifford W. Crouch,359
+Chenango,CITY OF NORWICH WARD 1,State Assembly,122,CON,Clifford W. Crouch,48
+Chenango,CITY OF NORWICH WARD 2,State Assembly,122,CON,Clifford W. Crouch,40
+Chenango,CITY OF NORWICH WARD 3,State Assembly,122,CON,Clifford W. Crouch,55
+Chenango,CITY OF NORWICH WARD 4,State Assembly,122,CON,Clifford W. Crouch,38
+Chenango,CITY OF NORWICH WARD 5,State Assembly,122,CON,Clifford W. Crouch,41
+Chenango,CITY OF NORWICH WARD 6,State Assembly,122,CON,Clifford W. Crouch,52
+Chenango,OXFORD 1,State Assembly,122,CON,Clifford W. Crouch,91
+Chenango,OXFORD 2,State Assembly,122,CON,Clifford W. Crouch,57
+Chenango,PRESTON 1,State Assembly,122,CON,Clifford W. Crouch,43
+Chenango,SMITHVILLE 1,State Assembly,122,CON,Clifford W. Crouch,37
+Chenango,CITY OF NORWICH WARD 1,State Assembly,122,REF,Clifford W. Crouch,15
+Chenango,CITY OF NORWICH WARD 2,State Assembly,122,REF,Clifford W. Crouch,10
+Chenango,CITY OF NORWICH WARD 3,State Assembly,122,REF,Clifford W. Crouch,10
+Chenango,CITY OF NORWICH WARD 4,State Assembly,122,REF,Clifford W. Crouch,10
+Chenango,CITY OF NORWICH WARD 5,State Assembly,122,REF,Clifford W. Crouch,10
+Chenango,CITY OF NORWICH WARD 6,State Assembly,122,REF,Clifford W. Crouch,7
+Chenango,OXFORD 1,State Assembly,122,REF,Clifford W. Crouch,25
+Chenango,OXFORD 2,State Assembly,122,REF,Clifford W. Crouch,19
+Chenango,PRESTON 1,State Assembly,122,REF,Clifford W. Crouch,5
+Chenango,SMITHVILLE 1,State Assembly,122,REF,Clifford W. Crouch,14
+Chenango,CITY OF NORWICH WARD 1,State Assembly,122,,Write-Ins,1
+Chenango,CITY OF NORWICH WARD 2,State Assembly,122,,Write-Ins,1
+Chenango,CITY OF NORWICH WARD 3,State Assembly,122,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 4,State Assembly,122,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 5,State Assembly,122,,Write-Ins,1
+Chenango,CITY OF NORWICH WARD 6,State Assembly,122,,Write-Ins,1
+Chenango,OXFORD 1,State Assembly,122,,Write-Ins,2
+Chenango,OXFORD 2,State Assembly,122,,Write-Ins,2
+Chenango,PRESTON 1,State Assembly,122,,Write-Ins,0
+Chenango,SMITHVILLE 1,State Assembly,122,,Write-Ins,0
+Chenango,CITY OF NORWICH WARD 1,State Assembly,122,,Void,0
+Chenango,CITY OF NORWICH WARD 2,State Assembly,122,,Void,0
+Chenango,CITY OF NORWICH WARD 3,State Assembly,122,,Void,0
+Chenango,CITY OF NORWICH WARD 4,State Assembly,122,,Void,0
+Chenango,CITY OF NORWICH WARD 5,State Assembly,122,,Void,0
+Chenango,CITY OF NORWICH WARD 6,State Assembly,122,,Void,0
+Chenango,OXFORD 1,State Assembly,122,,Void,0
+Chenango,OXFORD 2,State Assembly,122,,Void,0
+Chenango,PRESTON 1,State Assembly,122,,Void,0
+Chenango,SMITHVILLE 1,State Assembly,122,,Void,0
+Chenango,CITY OF NORWICH WARD 1,State Assembly,122,,Blanks,96
+Chenango,CITY OF NORWICH WARD 2,State Assembly,122,,Blanks,84
+Chenango,CITY OF NORWICH WARD 3,State Assembly,122,,Blanks,137
+Chenango,CITY OF NORWICH WARD 4,State Assembly,122,,Blanks,42
+Chenango,CITY OF NORWICH WARD 5,State Assembly,122,,Blanks,56
+Chenango,CITY OF NORWICH WARD 6,State Assembly,122,,Blanks,68
+Chenango,OXFORD 1,State Assembly,122,,Blanks,112
+Chenango,OXFORD 2,State Assembly,122,,Blanks,100
+Chenango,PRESTON 1,State Assembly,122,,Blanks,64
+Chenango,SMITHVILLE 1,State Assembly,122,,Blanks,71
+Chenango,COLUMBUS 1,State Assembly,126,DEM,Keith Batman,68
+Chenango,LINCKLAEN 1,State Assembly,126,DEM,Keith Batman,34
+Chenango,MCDONOUGH 1,State Assembly,126,DEM,Keith Batman,79
+Chenango,COLUMBUS 1,State Assembly,126,REP,Gary D. Finch,202
+Chenango,LINCKLAEN 1,State Assembly,126,REP,Gary D. Finch,89
+Chenango,MCDONOUGH 1,State Assembly,126,REP,Gary D. Finch,220
+Chenango,COLUMBUS 1,State Assembly,126,CON,Gary D. Finch,13
+Chenango,LINCKLAEN 1,State Assembly,126,CON,Gary D. Finch,2
+Chenango,MCDONOUGH 1,State Assembly,126,CON,Gary D. Finch,8
+Chenango,COLUMBUS 1,State Assembly,126,WFP,Keith Batman,5
+Chenango,LINCKLAEN 1,State Assembly,126,WFP,Keith Batman,5
+Chenango,MCDONOUGH 1,State Assembly,126,WFP,Keith Batman,8
+Chenango,COLUMBUS 1,State Assembly,126,IND,Gary D. Finch,4
+Chenango,LINCKLAEN 1,State Assembly,126,IND,Gary D. Finch,2
+Chenango,MCDONOUGH 1,State Assembly,126,IND,Gary D. Finch,8
+Chenango,COLUMBUS 1,State Assembly,126,WEP,Keith Batman,3
+Chenango,LINCKLAEN 1,State Assembly,126,WEP,Keith Batman,2
+Chenango,MCDONOUGH 1,State Assembly,126,WEP,Keith Batman,2
+Chenango,COLUMBUS 1,State Assembly,126,REF,Gary D. Finch,3
+Chenango,LINCKLAEN 1,State Assembly,126,REF,Gary D. Finch,0
+Chenango,MCDONOUGH 1,State Assembly,126,REF,Gary D. Finch,0
+Chenango,COLUMBUS 1,State Assembly,126,,Write-Ins,0
+Chenango,LINCKLAEN 1,State Assembly,126,,Write-Ins,0
+Chenango,MCDONOUGH 1,State Assembly,126,,Write-Ins,0
+Chenango,COLUMBUS 1,State Assembly,126,,Void,0
+Chenango,LINCKLAEN 1,State Assembly,126,,Void,0
+Chenango,MCDONOUGH 1,State Assembly,126,,Void,0
+Chenango,COLUMBUS 1,State Assembly,126,,Blanks,10
+Chenango,LINCKLAEN 1,State Assembly,126,,Blanks,3
+Chenango,MCDONOUGH 1,State Assembly,126,,Blanks,20
+Chenango,OTSELIC 1,State Assembly,126,DEM,Keith Batman,80
+Chenango,PHARSALIA 1,State Assembly,126,DEM,Keith Batman,68
+Chenango,PITCHER 1,State Assembly,126,DEM,Keith Batman,41
+Chenango,PLYMOUTH 1,State Assembly,126,DEM,Keith Batman,143
+Chenango,SHERBURNE 1,State Assembly,126,DEM,Keith Batman,221
+Chenango,SHERBURNE 2,State Assembly,126,DEM,Keith Batman,193
+Chenango,SMYRNA 1,State Assembly,126,DEM,Keith Batman,111
+Chenango,OTSELIC 1,State Assembly,126,REP,Gary D. Finch,174
+Chenango,PHARSALIA 1,State Assembly,126,REP,Gary D. Finch,95
+Chenango,PITCHER 1,State Assembly,126,REP,Gary D. Finch,141
+Chenango,PLYMOUTH 1,State Assembly,126,REP,Gary D. Finch,390
+Chenango,SHERBURNE 1,State Assembly,126,REP,Gary D. Finch,383
+Chenango,SHERBURNE 2,State Assembly,126,REP,Gary D. Finch,416
+Chenango,SMYRNA 1,State Assembly,126,REP,Gary D. Finch,292
+Chenango,OTSELIC 1,State Assembly,126,CON,Gary D. Finch,12
+Chenango,PHARSALIA 1,State Assembly,126,CON,Gary D. Finch,15
+Chenango,PITCHER 1,State Assembly,126,CON,Gary D. Finch,8
+Chenango,PLYMOUTH 1,State Assembly,126,CON,Gary D. Finch,23
+Chenango,SHERBURNE 1,State Assembly,126,CON,Gary D. Finch,27
+Chenango,SHERBURNE 2,State Assembly,126,CON,Gary D. Finch,26
+Chenango,SMYRNA 1,State Assembly,126,CON,Gary D. Finch,22
+Chenango,OTSELIC 1,State Assembly,126,WFP,Keith Batman,4
+Chenango,PHARSALIA 1,State Assembly,126,WFP,Keith Batman,2
+Chenango,PITCHER 1,State Assembly,126,WFP,Keith Batman,5
+Chenango,PLYMOUTH 1,State Assembly,126,WFP,Keith Batman,11
+Chenango,SHERBURNE 1,State Assembly,126,WFP,Keith Batman,12
+Chenango,SHERBURNE 2,State Assembly,126,WFP,Keith Batman,14
+Chenango,SMYRNA 1,State Assembly,126,WFP,Keith Batman,4
+Chenango,OTSELIC 1,State Assembly,126,IND,Gary D. Finch,11
+Chenango,PHARSALIA 1,State Assembly,126,IND,Gary D. Finch,4
+Chenango,PITCHER 1,State Assembly,126,IND,Gary D. Finch,5
+Chenango,PLYMOUTH 1,State Assembly,126,IND,Gary D. Finch,4
+Chenango,SHERBURNE 1,State Assembly,126,IND,Gary D. Finch,7
+Chenango,SHERBURNE 2,State Assembly,126,IND,Gary D. Finch,10
+Chenango,SMYRNA 1,State Assembly,126,IND,Gary D. Finch,6
+Chenango,OTSELIC 1,State Assembly,126,WEP,Keith Batman,0
+Chenango,PHARSALIA 1,State Assembly,126,WEP,Keith Batman,1
+Chenango,PITCHER 1,State Assembly,126,WEP,Keith Batman,4
+Chenango,PLYMOUTH 1,State Assembly,126,WEP,Keith Batman,4
+Chenango,SHERBURNE 1,State Assembly,126,WEP,Keith Batman,6
+Chenango,SHERBURNE 2,State Assembly,126,WEP,Keith Batman,8
+Chenango,SMYRNA 1,State Assembly,126,WEP,Keith Batman,1
+Chenango,OTSELIC 1,State Assembly,126,REF,Gary D. Finch,0
+Chenango,PHARSALIA 1,State Assembly,126,REF,Gary D. Finch,0
+Chenango,PITCHER 1,State Assembly,126,REF,Gary D. Finch,0
+Chenango,PLYMOUTH 1,State Assembly,126,REF,Gary D. Finch,2
+Chenango,SHERBURNE 1,State Assembly,126,REF,Gary D. Finch,2
+Chenango,SHERBURNE 2,State Assembly,126,REF,Gary D. Finch,3
+Chenango,SMYRNA 1,State Assembly,126,REF,Gary D. Finch,2
+Chenango,OTSELIC 1,State Assembly,126,,Write-Ins,1
+Chenango,PHARSALIA 1,State Assembly,126,,Write-Ins,0
+Chenango,PITCHER 1,State Assembly,126,,Write-Ins,0
+Chenango,PLYMOUTH 1,State Assembly,126,,Write-Ins,0
+Chenango,SHERBURNE 1,State Assembly,126,,Write-Ins,0
+Chenango,SHERBURNE 2,State Assembly,126,,Write-Ins,0
+Chenango,SMYRNA 1,State Assembly,126,,Write-Ins,0
+Chenango,OTSELIC 1,State Assembly,126,,Void,0
+Chenango,PHARSALIA 1,State Assembly,126,,Void,0
+Chenango,PITCHER 1,State Assembly,126,,Void,0
+Chenango,PLYMOUTH 1,State Assembly,126,,Void,0
+Chenango,SHERBURNE 1,State Assembly,126,,Void,0
+Chenango,SHERBURNE 2,State Assembly,126,,Void,0
+Chenango,SMYRNA 1,State Assembly,126,,Void,0
+Chenango,OTSELIC 1,State Assembly,126,,Blanks,12
+Chenango,PHARSALIA 1,State Assembly,126,,Blanks,8
+Chenango,PITCHER 1,State Assembly,126,,Blanks,13
+Chenango,PLYMOUTH 1,State Assembly,126,,Blanks,29
+Chenango,SHERBURNE 1,State Assembly,126,,Blanks,27
+Chenango,SHERBURNE 2,State Assembly,126,,Blanks,33
+Chenango,SMYRNA 1,State Assembly,126,,Blanks,10
