@@ -1,654 +1,654 @@
 county,precinct,office,district,candidate,party,election_day,absentee,votes
-Columbia,Ancram-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,123,77,200
-Columbia,Ancram-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,103,40,143
-Columbia,Austerlitz-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,220,62,282
-Columbia,Austerlitz-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,195,83,278
-Columbia,Canaan-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,216,66,282
-Columbia,Canaan-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,159,54,213
-Columbia,Chatham-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,329,82,411
-Columbia,Chatham-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,236,36,272
-Columbia,Chatham-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,344,76,420
-Columbia,Claverack-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,128,33,161
-Columbia,Claverack-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,171,41,212
-Columbia,Claverack-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,161,32,193
-Columbia,Claverack-4,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,218,47,265
-Columbia,Claverack-5,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,107,33,140
-Columbia,Clermont-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,254,47,301
-Columbia,Copake-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,269,154,423
-Columbia,Copake-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,238,27,265
-Columbia,Gallatin-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,209,93,302
-Columbia,Germantown-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,180,44,224
-Columbia,Germantown-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,157,45,202
-Columbia,Ghent-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,296,35,331
-Columbia,Ghent-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,329,87,416
-Columbia,Ghent-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,221,64,285
-Columbia,Greenport-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,229,23,252
-Columbia,Greenport-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,149,47,196
-Columbia,Greenport-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,174,18,192
-Columbia,Hillsdale-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,228,95,323
-Columbia,Hillsdale-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,202,96,298
-Columbia,Hudson 1-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,356,56,412
-Columbia,Hudson 2-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,236,28,264
-Columbia,Hudson 3-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,275,37,312
-Columbia,Hudson 4-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,239,68,307
-Columbia,Hudson 5-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,229,22,251
-Columbia,Kinderhook-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,200,21,221
-Columbia,Kinderhook-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,167,15,182
-Columbia,Kinderhook-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,164,32,196
-Columbia,Kinderhook-4,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,170,12,182
-Columbia,Kinderhook-5,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,194,34,228
-Columbia,Kinderhook-6,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,119,11,130
-Columbia,Kinderhook-7,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,175,18,193
-Columbia,Kinderhook-8,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,173,17,190
-Columbia,Livingston-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,241,56,297
-Columbia,Livingston-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,170,42,212
-Columbia,New Lebanon-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,209,33,242
-Columbia,New Lebanon-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,190,26,216
-Columbia,Stockport-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,124,9,133
-Columbia,Stockport-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,158,28,186
-Columbia,Stuyvesant-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,118,9,127
-Columbia,Stuyvesant-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,161,37,198
-Columbia,Taghkanic-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,188,102,290
-Columbia,Ancram-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,170,13,183
-Columbia,Ancram-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,153,12,165
-Columbia,Austerlitz-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,160,10,170
-Columbia,Austerlitz-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,121,14,135
-Columbia,Canaan-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,121,6,127
-Columbia,Canaan-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,146,11,157
-Columbia,Chatham-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,197,24,221
-Columbia,Chatham-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,182,14,196
-Columbia,Chatham-3,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,306,24,330
-Columbia,Claverack-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,256,23,279
-Columbia,Claverack-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,263,14,277
-Columbia,Claverack-3,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,217,7,224
-Columbia,Claverack-4,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,265,17,282
-Columbia,Claverack-5,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,171,11,182
-Columbia,Clermont-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,430,20,450
-Columbia,Copake-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,307,22,329
-Columbia,Copake-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,290,9,299
-Columbia,Gallatin-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,313,12,325
-Columbia,Germantown-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,262,20,282
-Columbia,Germantown-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,213,9,222
-Columbia,Ghent-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,260,18,278
-Columbia,Ghent-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,357,30,387
-Columbia,Ghent-3,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,388,28,416
-Columbia,Greenport-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,269,20,289
-Columbia,Greenport-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,198,8,206
-Columbia,Greenport-3,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,331,27,358
-Columbia,Hillsdale-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,142,8,150
-Columbia,Hillsdale-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,107,13,120
-Columbia,Hudson 1-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,52,4,56
-Columbia,Hudson 2-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,25,2,27
-Columbia,Hudson 3-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,105,3,108
-Columbia,Hudson 4-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,56,19,75
-Columbia,Hudson 5-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,186,6,192
-Columbia,Kinderhook-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,188,18,206
-Columbia,Kinderhook-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,179,13,192
-Columbia,Kinderhook-3,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,235,16,251
-Columbia,Kinderhook-4,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,237,21,258
-Columbia,Kinderhook-5,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,251,21,272
-Columbia,Kinderhook-6,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,244,13,257
-Columbia,Kinderhook-7,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,272,13,285
-Columbia,Kinderhook-8,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,278,13,291
-Columbia,Livingston-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,471,26,497
-Columbia,Livingston-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,339,22,361
-Columbia,New Lebanon-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,145,4,149
-Columbia,New Lebanon-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,211,11,222
-Columbia,Stockport-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,289,16,305
-Columbia,Stockport-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,245,20,265
-Columbia,Stuyvesant-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,175,14,189
-Columbia,Stuyvesant-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,210,11,221
-Columbia,Taghkanic-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,254,13,267
-Columbia,Ancram-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,18,0,18
-Columbia,Ancram-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,14,0,14
-Columbia,Austerlitz-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,25,0,25
-Columbia,Austerlitz-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,18,3,21
-Columbia,Canaan-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,25,3,28
-Columbia,Canaan-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,22,2,24
-Columbia,Chatham-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,45,5,50
-Columbia,Chatham-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,21,3,24
-Columbia,Chatham-3,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,64,3,67
-Columbia,Claverack-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,35,0,35
-Columbia,Claverack-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,54,2,56
-Columbia,Claverack-3,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,32,2,34
-Columbia,Claverack-4,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,37,0,37
-Columbia,Claverack-5,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,15,0,15
-Columbia,Clermont-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,77,5,82
-Columbia,Copake-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,43,12,55
-Columbia,Copake-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,54,1,55
-Columbia,Gallatin-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,38,4,42
-Columbia,Germantown-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,33,1,34
-Columbia,Germantown-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,29,2,31
-Columbia,Ghent-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,54,2,56
-Columbia,Ghent-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,67,4,71
-Columbia,Ghent-3,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,74,2,76
-Columbia,Greenport-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,42,7,49
-Columbia,Greenport-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,32,3,35
-Columbia,Greenport-3,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,31,7,38
-Columbia,Hillsdale-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,21,7,28
-Columbia,Hillsdale-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,23,0,23
-Columbia,Hudson 1-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,10,1,11
-Columbia,Hudson 2-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,5,0,5
-Columbia,Hudson 3-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,12,2,14
-Columbia,Hudson 4-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,8,1,9
-Columbia,Hudson 5-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,33,3,36
-Columbia,Kinderhook-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,34,2,36
-Columbia,Kinderhook-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,32,2,34
-Columbia,Kinderhook-3,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,43,3,46
-Columbia,Kinderhook-4,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,57,5,62
-Columbia,Kinderhook-5,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,54,8,62
-Columbia,Kinderhook-6,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,48,3,51
-Columbia,Kinderhook-7,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,52,7,59
-Columbia,Kinderhook-8,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,49,6,55
-Columbia,Livingston-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,44,5,49
-Columbia,Livingston-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,41,6,47
-Columbia,New Lebanon-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,25,4,29
-Columbia,New Lebanon-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,36,3,39
-Columbia,Stockport-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,42,1,43
-Columbia,Stockport-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,42,4,46
-Columbia,Stuyvesant-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,43,3,46
-Columbia,Stuyvesant-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,60,5,65
-Columbia,Taghkanic-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,42,0,42
-Columbia,Ancram-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,5,1,6
-Columbia,Ancram-2,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,4,2,6
-Columbia,Austerlitz-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,10,3,13
-Columbia,Austerlitz-2,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,15,2,17
-Columbia,Canaan-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,3,1,4
-Columbia,Canaan-2,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,14,2,16
-Columbia,Chatham-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,32,1,33
-Columbia,Chatham-2,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,24,3,27
-Columbia,Chatham-3,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,28,4,32
-Columbia,Claverack-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,8,3,11
-Columbia,Claverack-2,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,3,1,4
-Columbia,Claverack-3,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,16,2,18
-Columbia,Claverack-4,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,21,0,21
-Columbia,Claverack-5,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,6,1,7
-Columbia,Clermont-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,12,2,14
-Columbia,Copake-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,13,5,18
-Columbia,Copake-2,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,18,1,19
-Columbia,Gallatin-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,6,5,11
-Columbia,Germantown-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,4,0,4
-Columbia,Germantown-2,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,11,1,12
-Columbia,Ghent-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,23,7,30
-Columbia,Ghent-2,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,22,2,24
-Columbia,Ghent-3,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,9,4,13
-Columbia,Greenport-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,5,1,6
-Columbia,Greenport-2,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,9,2,11
-Columbia,Greenport-3,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,2,1,3
-Columbia,Hillsdale-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,17,4,21
-Columbia,Hillsdale-2,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,8,3,11
-Columbia,Hudson 1-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,12,3,15
-Columbia,Hudson 2-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,5,0,5
-Columbia,Hudson 3-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,16,2,18
-Columbia,Hudson 4-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,10,0,10
-Columbia,Hudson 5-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,7,0,7
-Columbia,Kinderhook-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,8,0,8
-Columbia,Kinderhook-2,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,11,0,11
-Columbia,Kinderhook-3,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,5,0,5
-Columbia,Kinderhook-4,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,10,0,10
-Columbia,Kinderhook-5,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,12,1,13
-Columbia,Kinderhook-6,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,4,0,4
-Columbia,Kinderhook-7,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,10,1,11
-Columbia,Kinderhook-8,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,13,2,15
-Columbia,Livingston-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,14,5,19
-Columbia,Livingston-2,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,10,1,11
-Columbia,New Lebanon-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,21,0,21
-Columbia,New Lebanon-2,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,14,4,18
-Columbia,Stockport-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,3,0,3
-Columbia,Stockport-2,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,8,0,8
-Columbia,Stuyvesant-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,9,2,11
-Columbia,Stuyvesant-2,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,14,2,16
-Columbia,Taghkanic-1,Governor / Lieutenant Governor,,HOWIE HAWKINS / JIA LEE,Green,9,9,18
-Columbia,Ancram-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,2,3,5
-Columbia,Ancram-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,4,1,5
-Columbia,Austerlitz-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,8,2,10
-Columbia,Austerlitz-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,11,3,14
-Columbia,Canaan-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,14,5,19
-Columbia,Canaan-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,18,3,21
-Columbia,Chatham-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,12,4,16
-Columbia,Chatham-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,17,2,19
-Columbia,Chatham-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,22,4,26
-Columbia,Claverack-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,6,1,7
-Columbia,Claverack-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,13,1,14
-Columbia,Claverack-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,9,0,9
-Columbia,Claverack-4,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,16,3,19
-Columbia,Claverack-5,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,9,2,11
-Columbia,Clermont-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,11,2,13
-Columbia,Copake-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,8,8,16
-Columbia,Copake-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,6,5,11
-Columbia,Gallatin-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,18,6,24
-Columbia,Germantown-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,16,8,24
-Columbia,Germantown-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,3,1,4
-Columbia,Ghent-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,17,0,17
-Columbia,Ghent-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,22,4,26
-Columbia,Ghent-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,7,4,11
-Columbia,Greenport-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,8,1,9
-Columbia,Greenport-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,12,1,13
-Columbia,Greenport-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,6,0,6
-Columbia,Hillsdale-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,15,8,23
-Columbia,Hillsdale-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,19,3,22
-Columbia,Hudson 1-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,29,5,34
-Columbia,Hudson 2-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,9,0,9
-Columbia,Hudson 3-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,17,3,20
-Columbia,Hudson 4-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,12,3,15
-Columbia,Hudson 5-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,14,3,17
-Columbia,Kinderhook-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,10,0,10
-Columbia,Kinderhook-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,5,0,5
-Columbia,Kinderhook-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,7,0,7
-Columbia,Kinderhook-4,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,12,0,12
-Columbia,Kinderhook-5,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,11,0,11
-Columbia,Kinderhook-6,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,5,0,5
-Columbia,Kinderhook-7,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,8,2,10
-Columbia,Kinderhook-8,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,14,1,15
-Columbia,Livingston-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,18,6,24
-Columbia,Livingston-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,10,1,11
-Columbia,New Lebanon-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,10,2,12
-Columbia,New Lebanon-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,8,4,12
-Columbia,Stockport-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,4,1,5
-Columbia,Stockport-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,12,3,15
-Columbia,Stuyvesant-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,9,0,9
-Columbia,Stuyvesant-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,12,1,13
-Columbia,Taghkanic-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,16,8,24
-Columbia,Ancram-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,2,3,5
-Columbia,Ancram-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,3,1,4
-Columbia,Austerlitz-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,2,1,3
-Columbia,Austerlitz-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,5,1,6
-Columbia,Canaan-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,10,0,10
-Columbia,Canaan-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,8,0,8
-Columbia,Chatham-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,7,2,9
-Columbia,Chatham-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,4,2,6
-Columbia,Chatham-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,7,1,8
-Columbia,Claverack-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,0,2,2
-Columbia,Claverack-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,1,7
-Columbia,Claverack-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,4,0,4
-Columbia,Claverack-4,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,4,0,4
-Columbia,Claverack-5,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,1,0,1
-Columbia,Clermont-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,1,7
-Columbia,Copake-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,5,1,6
-Columbia,Copake-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,11,1,12
-Columbia,Gallatin-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,2,0,2
-Columbia,Germantown-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,2,0,2
-Columbia,Germantown-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,1,7
-Columbia,Ghent-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,0,6
-Columbia,Ghent-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,4,1,5
-Columbia,Ghent-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,7,0,7
-Columbia,Greenport-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,2,8
-Columbia,Greenport-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,5,1,6
-Columbia,Greenport-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,2,8
-Columbia,Hillsdale-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,3,2,5
-Columbia,Hillsdale-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,1,1,2
-Columbia,Hudson 1-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,4,3,7
-Columbia,Hudson 2-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,3,1,4
-Columbia,Hudson 3-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,0,6
-Columbia,Hudson 4-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,2,0,2
-Columbia,Hudson 5-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,3,9
-Columbia,Kinderhook-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,12,1,13
-Columbia,Kinderhook-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,8,0,8
-Columbia,Kinderhook-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,2,2,4
-Columbia,Kinderhook-4,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,8,0,8
-Columbia,Kinderhook-5,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,5,0,5
-Columbia,Kinderhook-6,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,7,1,8
-Columbia,Kinderhook-7,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,7,0,7
-Columbia,Kinderhook-8,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,10,1,11
-Columbia,Livingston-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,8,0,8
-Columbia,Livingston-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,2,1,3
-Columbia,New Lebanon-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,11,0,11
-Columbia,New Lebanon-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,5,0,5
-Columbia,Stockport-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,8,0,8
-Columbia,Stockport-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,7,0,7
-Columbia,Stuyvesant-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,0,6
-Columbia,Stuyvesant-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,5,1,6
-Columbia,Taghkanic-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,8,1,9
-Columbia,Ancram-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,0,0,0
-Columbia,Ancram-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,1,1,2
-Columbia,Austerlitz-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,3,6
-Columbia,Austerlitz-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,1,3,4
-Columbia,Canaan-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,4,0,4
-Columbia,Canaan-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,2,5
-Columbia,Chatham-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,8,1,9
-Columbia,Chatham-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,2,4
-Columbia,Chatham-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,8,1,9
-Columbia,Claverack-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,0,3
-Columbia,Claverack-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,2,4
-Columbia,Claverack-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,4,1,5
-Columbia,Claverack-4,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,6,0,6
-Columbia,Claverack-5,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,0,0,0
-Columbia,Clermont-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,1,0,1
-Columbia,Copake-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,1,4
-Columbia,Copake-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,1,4
-Columbia,Gallatin-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,1,3,4
-Columbia,Germantown-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,1,3
-Columbia,Germantown-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,1,0,1
-Columbia,Ghent-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,5,1,6
-Columbia,Ghent-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,0,2
-Columbia,Ghent-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,5,0,5
-Columbia,Greenport-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,4,0,4
-Columbia,Greenport-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,4,0,4
-Columbia,Greenport-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,1,0,1
-Columbia,Hillsdale-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,4,0,4
-Columbia,Hillsdale-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,1,0,1
-Columbia,Hudson 1-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,4,0,4
-Columbia,Hudson 2-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,1,3
-Columbia,Hudson 3-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,7,0,7
-Columbia,Hudson 4-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,0,2,2
-Columbia,Hudson 5-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,5,0,5
-Columbia,Kinderhook-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,1,3
-Columbia,Kinderhook-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,5,0,5
-Columbia,Kinderhook-3,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,5,0,5
-Columbia,Kinderhook-4,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,0,3
-Columbia,Kinderhook-5,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,5,2,7
-Columbia,Kinderhook-6,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,0,2
-Columbia,Kinderhook-7,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,1,3
-Columbia,Kinderhook-8,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,0,2
-Columbia,Livingston-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,7,0,7
-Columbia,Livingston-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,0,1,1
-Columbia,New Lebanon-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,2,4
-Columbia,New Lebanon-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,6,0,6
-Columbia,Stockport-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,1,4
-Columbia,Stockport-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,0,3
-Columbia,Stuyvesant-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,1,3
-Columbia,Stuyvesant-2,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,0,3
-Columbia,Taghkanic-1,Governor / Lieutenant Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,1,3
-Columbia,Ancram-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,1,5
-Columbia,Ancram-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,2,1,3
-Columbia,Austerlitz-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,5,0,5
-Columbia,Austerlitz-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
-Columbia,Canaan-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
-Columbia,Canaan-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
-Columbia,Chatham-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,6,0,6
-Columbia,Chatham-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,2,0,2
-Columbia,Chatham-3,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,8,3,11
-Columbia,Claverack-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
-Columbia,Claverack-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,9,1,10
-Columbia,Claverack-3,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,11,0,11
-Columbia,Claverack-4,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
-Columbia,Claverack-5,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,0,0,0
-Columbia,Clermont-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,12,1,13
-Columbia,Copake-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,6,0,6
-Columbia,Copake-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,7,0,7
-Columbia,Gallatin-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
-Columbia,Germantown-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,5,0,5
-Columbia,Germantown-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,6,1,7
-Columbia,Ghent-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,9,2,11
-Columbia,Ghent-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
-Columbia,Ghent-3,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
-Columbia,Greenport-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
-Columbia,Greenport-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,2,0,2
-Columbia,Greenport-3,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,7,0,7
-Columbia,Hillsdale-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
-Columbia,Hillsdale-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
-Columbia,Hudson 1-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
-Columbia,Hudson 2-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,1,1,2
-Columbia,Hudson 3-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
-Columbia,Hudson 4-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,2,0,2
-Columbia,Hudson 5-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
-Columbia,Kinderhook-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,1,4
-Columbia,Kinderhook-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,10,1,11
-Columbia,Kinderhook-3,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
-Columbia,Kinderhook-4,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
-Columbia,Kinderhook-5,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,6,1,7
-Columbia,Kinderhook-6,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,5,1,6
-Columbia,Kinderhook-7,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
-Columbia,Kinderhook-8,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,8,0,8
-Columbia,Livingston-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,11,0,11
-Columbia,Livingston-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,7,0,7
-Columbia,New Lebanon-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,1,1,2
-Columbia,New Lebanon-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
-Columbia,Stockport-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
-Columbia,Stockport-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,5,0,5
-Columbia,Stuyvesant-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,6,0,6
-Columbia,Stuyvesant-2,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,7,0,7
-Columbia,Taghkanic-1,Governor / Lieutenant Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
-Columbia,Ancram-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,3,0,3
-Columbia,Ancram-2,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,0,1
-Columbia,Austerlitz-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,0,0,0
-Columbia,Austerlitz-2,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,6,1,7
-Columbia,Canaan-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,7,0,7
-Columbia,Canaan-2,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,5,0,5
-Columbia,Chatham-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,19,2,21
-Columbia,Chatham-2,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,3,0,3
-Columbia,Chatham-3,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,14,2,16
-Columbia,Claverack-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,3,0,3
-Columbia,Claverack-2,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,4,0,4
-Columbia,Claverack-3,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,2,0,2
-Columbia,Claverack-4,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,4,2,6
-Columbia,Claverack-5,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,0,0,0
-Columbia,Clermont-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,5,1,6
-Columbia,Copake-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,5,0,5
-Columbia,Copake-2,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,1,2
-Columbia,Gallatin-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,2,3,5
-Columbia,Germantown-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,0,0,0
-Columbia,Germantown-2,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,2,1,3
-Columbia,Ghent-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,10,3,13
-Columbia,Ghent-2,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,8,2,10
-Columbia,Ghent-3,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,5,0,5
-Columbia,Greenport-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,7,1,8
-Columbia,Greenport-2,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,0,1
-Columbia,Greenport-3,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,2,3
-Columbia,Hillsdale-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,2,2,4
-Columbia,Hillsdale-2,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,6,1,7
-Columbia,Hudson 1-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,6,1,7
-Columbia,Hudson 2-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,0,1
-Columbia,Hudson 3-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,3,0,3
-Columbia,Hudson 4-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,1,2
-Columbia,Hudson 5-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,0,1
-Columbia,Kinderhook-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,10,0,10
-Columbia,Kinderhook-2,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,6,2,8
-Columbia,Kinderhook-3,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,11,0,11
-Columbia,Kinderhook-4,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,6,3,9
-Columbia,Kinderhook-5,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,6,2,8
-Columbia,Kinderhook-6,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,6,0,6
-Columbia,Kinderhook-7,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,11,0,11
-Columbia,Kinderhook-8,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,8,0,8
-Columbia,Livingston-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,4,0,4
-Columbia,Livingston-2,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,7,0,7
-Columbia,New Lebanon-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,10,1,11
-Columbia,New Lebanon-2,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,16,0,16
-Columbia,Stockport-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,0,1
-Columbia,Stockport-2,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,3,1,4
-Columbia,Stuyvesant-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,8,1,9
-Columbia,Stuyvesant-2,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,7,0,7
-Columbia,Taghkanic-1,Governor / Lieutenant Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,0,2,2
-Columbia,Ancram-1,Governor / Lieutenant Governor,,Blanks,,5,4,9
-Columbia,Ancram-2,Governor / Lieutenant Governor,,Blanks,,5,0,5
-Columbia,Austerlitz-1,Governor / Lieutenant Governor,,Blanks,,3,1,4
-Columbia,Austerlitz-2,Governor / Lieutenant Governor,,Blanks,,9,0,9
-Columbia,Canaan-1,Governor / Lieutenant Governor,,Blanks,,7,0,7
-Columbia,Canaan-2,Governor / Lieutenant Governor,,Blanks,,11,0,11
-Columbia,Chatham-1,Governor / Lieutenant Governor,,Blanks,,18,3,21
-Columbia,Chatham-2,Governor / Lieutenant Governor,,Blanks,,10,1,11
-Columbia,Chatham-3,Governor / Lieutenant Governor,,Blanks,,12,3,15
-Columbia,Claverack-1,Governor / Lieutenant Governor,,Blanks,,12,3,15
-Columbia,Claverack-2,Governor / Lieutenant Governor,,Blanks,,7,0,7
-Columbia,Claverack-3,Governor / Lieutenant Governor,,Blanks,,12,1,13
-Columbia,Claverack-4,Governor / Lieutenant Governor,,Blanks,,8,1,9
-Columbia,Claverack-5,Governor / Lieutenant Governor,,Blanks,,4,0,4
-Columbia,Clermont-1,Governor / Lieutenant Governor,,Blanks,,9,0,9
-Columbia,Copake-1,Governor / Lieutenant Governor,,Blanks,,8,2,10
-Columbia,Copake-2,Governor / Lieutenant Governor,,Blanks,,16,2,18
-Columbia,Gallatin-1,Governor / Lieutenant Governor,,Blanks,,9,1,10
-Columbia,Germantown-1,Governor / Lieutenant Governor,,Blanks,,9,1,10
-Columbia,Germantown-2,Governor / Lieutenant Governor,,Blanks,,5,0,5
-Columbia,Ghent-1,Governor / Lieutenant Governor,,Blanks,,18,1,19
-Columbia,Ghent-2,Governor / Lieutenant Governor,,Blanks,,10,0,10
-Columbia,Ghent-3,Governor / Lieutenant Governor,,Blanks,,16,0,16
-Columbia,Greenport-1,Governor / Lieutenant Governor,,Blanks,,17,3,20
-Columbia,Greenport-2,Governor / Lieutenant Governor,,Blanks,,7,2,9
-Columbia,Greenport-3,Governor / Lieutenant Governor,,Blanks,,10,2,12
-Columbia,Hillsdale-1,Governor / Lieutenant Governor,,Blanks,,8,2,10
-Columbia,Hillsdale-2,Governor / Lieutenant Governor,,Blanks,,5,2,7
-Columbia,Hudson 1-1,Governor / Lieutenant Governor,,Blanks,,9,2,11
-Columbia,Hudson 2-1,Governor / Lieutenant Governor,,Blanks,,29,4,33
-Columbia,Hudson 3-1,Governor / Lieutenant Governor,,Blanks,,9,0,9
-Columbia,Hudson 4-1,Governor / Lieutenant Governor,,Blanks,,12,3,15
-Columbia,Hudson 5-1,Governor / Lieutenant Governor,,Blanks,,8,2,10
-Columbia,Kinderhook-1,Governor / Lieutenant Governor,,Blanks,,10,1,11
-Columbia,Kinderhook-2,Governor / Lieutenant Governor,,Blanks,,8,1,9
-Columbia,Kinderhook-3,Governor / Lieutenant Governor,,Blanks,,7,2,9
-Columbia,Kinderhook-4,Governor / Lieutenant Governor,,Blanks,,17,3,20
-Columbia,Kinderhook-5,Governor / Lieutenant Governor,,Blanks,,9,1,10
-Columbia,Kinderhook-6,Governor / Lieutenant Governor,,Blanks,,3,1,4
-Columbia,Kinderhook-7,Governor / Lieutenant Governor,,Blanks,,12,2,14
-Columbia,Kinderhook-8,Governor / Lieutenant Governor,,Blanks,,5,1,6
-Columbia,Livingston-1,Governor / Lieutenant Governor,,Blanks,,12,4,16
-Columbia,Livingston-2,Governor / Lieutenant Governor,,Blanks,,12,0,12
-Columbia,New Lebanon-1,Governor / Lieutenant Governor,,Blanks,,8,1,9
-Columbia,New Lebanon-2,Governor / Lieutenant Governor,,Blanks,,16,2,18
-Columbia,Stockport-1,Governor / Lieutenant Governor,,Blanks,,10,1,11
-Columbia,Stockport-2,Governor / Lieutenant Governor,,Blanks,,9,1,10
-Columbia,Stuyvesant-1,Governor / Lieutenant Governor,,Blanks,,7,0,7
-Columbia,Stuyvesant-2,Governor / Lieutenant Governor,,Blanks,,8,1,9
-Columbia,Taghkanic-1,Governor / Lieutenant Governor,,Blanks,,17,4,21
-Columbia,Ancram-1,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Ancram-2,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Austerlitz-1,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Austerlitz-2,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Canaan-1,Governor / Lieutenant Governor,,Voids,,0,1,1
-Columbia,Canaan-2,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Chatham-1,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Chatham-2,Governor / Lieutenant Governor,,Voids,,1,0,1
-Columbia,Chatham-3,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Claverack-1,Governor / Lieutenant Governor,,Voids,,1,1,2
-Columbia,Claverack-2,Governor / Lieutenant Governor,,Voids,,2,1,3
-Columbia,Claverack-3,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Claverack-4,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Claverack-5,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Clermont-1,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Copake-1,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Copake-2,Governor / Lieutenant Governor,,Voids,,1,0,1
-Columbia,Gallatin-1,Governor / Lieutenant Governor,,Voids,,2,0,2
-Columbia,Germantown-1,Governor / Lieutenant Governor,,Voids,,2,0,2
-Columbia,Germantown-2,Governor / Lieutenant Governor,,Voids,,1,0,1
-Columbia,Ghent-1,Governor / Lieutenant Governor,,Voids,,1,0,1
-Columbia,Ghent-2,Governor / Lieutenant Governor,,Voids,,3,3,6
-Columbia,Ghent-3,Governor / Lieutenant Governor,,Voids,,2,1,3
-Columbia,Greenport-1,Governor / Lieutenant Governor,,Voids,,2,1,3
-Columbia,Greenport-2,Governor / Lieutenant Governor,,Voids,,0,2,2
-Columbia,Greenport-3,Governor / Lieutenant Governor,,Voids,,2,0,2
-Columbia,Hillsdale-1,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Hillsdale-2,Governor / Lieutenant Governor,,Voids,,2,0,2
-Columbia,Hudson 1-1,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Hudson 2-1,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Hudson 3-1,Governor / Lieutenant Governor,,Voids,,1,0,1
-Columbia,Hudson 4-1,Governor / Lieutenant Governor,,Voids,,1,4,5
-Columbia,Hudson 5-1,Governor / Lieutenant Governor,,Voids,,3,0,3
-Columbia,Kinderhook-1,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Kinderhook-2,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Kinderhook-3,Governor / Lieutenant Governor,,Voids,,2,1,3
-Columbia,Kinderhook-4,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Kinderhook-5,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Kinderhook-6,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Kinderhook-7,Governor / Lieutenant Governor,,Voids,,1,0,1
-Columbia,Kinderhook-8,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Livingston-1,Governor / Lieutenant Governor,,Voids,,0,2,2
-Columbia,Livingston-2,Governor / Lieutenant Governor,,Voids,,1,0,1
-Columbia,New Lebanon-1,Governor / Lieutenant Governor,,Voids,,3,1,4
-Columbia,New Lebanon-2,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Stockport-1,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Stockport-2,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Stuyvesant-1,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Stuyvesant-2,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Taghkanic-1,Governor / Lieutenant Governor,,Voids,,0,0,0
-Columbia,Ancram-1,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Ancram-2,Governor / Lieutenant Governor,,Scatterings,,0,1,1
-Columbia,Austerlitz-1,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Austerlitz-2,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Canaan-1,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Canaan-2,Governor / Lieutenant Governor,,Scatterings,,1,0,1
-Columbia,Chatham-1,Governor / Lieutenant Governor,,Scatterings,,1,0,1
-Columbia,Chatham-2,Governor / Lieutenant Governor,,Scatterings,,1,0,1
-Columbia,Chatham-3,Governor / Lieutenant Governor,,Scatterings,,2,2,4
-Columbia,Claverack-1,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Claverack-2,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Claverack-3,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Claverack-4,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Claverack-5,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Clermont-1,Governor / Lieutenant Governor,,Scatterings,,1,0,1
-Columbia,Copake-1,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Copake-2,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Gallatin-1,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Germantown-1,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Germantown-2,Governor / Lieutenant Governor,,Scatterings,,1,0,1
-Columbia,Ghent-1,Governor / Lieutenant Governor,,Scatterings,,1,0,1
-Columbia,Ghent-2,Governor / Lieutenant Governor,,Scatterings,,0,1,1
-Columbia,Ghent-3,Governor / Lieutenant Governor,,Scatterings,,1,0,1
-Columbia,Greenport-1,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Greenport-2,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Greenport-3,Governor / Lieutenant Governor,,Scatterings,,1,0,1
-Columbia,Hillsdale-1,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Hillsdale-2,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Hudson 1-1,Governor / Lieutenant Governor,,Scatterings,,3,0,3
-Columbia,Hudson 2-1,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Hudson 3-1,Governor / Lieutenant Governor,,Scatterings,,2,1,3
-Columbia,Hudson 4-1,Governor / Lieutenant Governor,,Scatterings,,1,0,1
-Columbia,Hudson 5-1,Governor / Lieutenant Governor,,Scatterings,,3,0,3
-Columbia,Kinderhook-1,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Kinderhook-2,Governor / Lieutenant Governor,,Scatterings,,1,1,2
-Columbia,Kinderhook-3,Governor / Lieutenant Governor,,Scatterings,,3,0,3
-Columbia,Kinderhook-4,Governor / Lieutenant Governor,,Scatterings,,2,0,2
-Columbia,Kinderhook-5,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Kinderhook-6,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Kinderhook-7,Governor / Lieutenant Governor,,Scatterings,,1,1,2
-Columbia,Kinderhook-8,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Livingston-1,Governor / Lieutenant Governor,,Scatterings,,1,0,1
-Columbia,Livingston-2,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,New Lebanon-1,Governor / Lieutenant Governor,,Scatterings,,0,2,2
-Columbia,New Lebanon-2,Governor / Lieutenant Governor,,Scatterings,,1,2,3
-Columbia,Stockport-1,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Stockport-2,Governor / Lieutenant Governor,,Scatterings,,0,0,0
-Columbia,Stuyvesant-1,Governor / Lieutenant Governor,,Scatterings,,3,0,3
-Columbia,Stuyvesant-2,Governor / Lieutenant Governor,,Scatterings,,1,2,3
-Columbia,Taghkanic-1,Governor / Lieutenant Governor,,Scatterings,,0,1,1
-Columbia,Ancram-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,3,0,3
-Columbia,Ancram-2,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,2,0,2
-Columbia,Austerlitz-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,5,0,5
-Columbia,Austerlitz-2,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,4,1,5
-Columbia,Canaan-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,4,0,4
-Columbia,Canaan-2,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,10,0,10
-Columbia,Chatham-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,11,0,11
-Columbia,Chatham-2,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,13,1,14
-Columbia,Chatham-3,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,11,0,11
-Columbia,Claverack-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,3,0,3
-Columbia,Claverack-2,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,9,1,10
-Columbia,Claverack-3,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,5,0,5
-Columbia,Claverack-4,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,8,1,9
-Columbia,Claverack-5,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,2,0,2
-Columbia,Clermont-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,9,2,11
-Columbia,Copake-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,4,1,5
-Columbia,Copake-2,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,3,0,3
-Columbia,Gallatin-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,3,0,3
-Columbia,Germantown-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,3,0,3
-Columbia,Germantown-2,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,2,0,2
-Columbia,Ghent-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,15,1,16
-Columbia,Ghent-2,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,11,0,11
-Columbia,Ghent-3,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,11,1,12
-Columbia,Greenport-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,6,0,6
-Columbia,Greenport-2,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,2,0,2
-Columbia,Greenport-3,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,8,0,8
-Columbia,Hillsdale-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,1,0,1
-Columbia,Hillsdale-2,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,3,0,3
-Columbia,Hudson 1-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,9,0,9
-Columbia,Hudson 2-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,5,1,6
-Columbia,Hudson 3-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,7,0,7
-Columbia,Hudson 4-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,5,0,5
-Columbia,Hudson 5-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,2,0,2
-Columbia,Kinderhook-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,6,1,7
-Columbia,Kinderhook-2,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,3,1,4
-Columbia,Kinderhook-3,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,9,1,10
-Columbia,Kinderhook-4,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,6,1,7
-Columbia,Kinderhook-5,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,5,0,5
-Columbia,Kinderhook-6,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,7,0,7
-Columbia,Kinderhook-7,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,9,0,9
-Columbia,Kinderhook-8,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,4,0,4
-Columbia,Livingston-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,4,0,4
-Columbia,Livingston-2,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,9,0,9
-Columbia,New Lebanon-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,18,1,19
-Columbia,New Lebanon-2,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,15,3,18
-Columbia,Stockport-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,7,0,7
-Columbia,Stockport-2,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,2,0,2
-Columbia,Stuyvesant-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,8,0,8
-Columbia,Stuyvesant-2,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,5,2,7
-Columbia,Taghkanic-1,Governor / Lieutenant Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,4,0,4
+Columbia,Ancram-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,123,77,200
+Columbia,Ancram-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,103,40,143
+Columbia,Austerlitz-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,220,62,282
+Columbia,Austerlitz-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,195,83,278
+Columbia,Canaan-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,216,66,282
+Columbia,Canaan-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,159,54,213
+Columbia,Chatham-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,329,82,411
+Columbia,Chatham-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,236,36,272
+Columbia,Chatham-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,344,76,420
+Columbia,Claverack-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,128,33,161
+Columbia,Claverack-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,171,41,212
+Columbia,Claverack-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,161,32,193
+Columbia,Claverack-4,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,218,47,265
+Columbia,Claverack-5,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,107,33,140
+Columbia,Clermont-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,254,47,301
+Columbia,Copake-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,269,154,423
+Columbia,Copake-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,238,27,265
+Columbia,Gallatin-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,209,93,302
+Columbia,Germantown-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,180,44,224
+Columbia,Germantown-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,157,45,202
+Columbia,Ghent-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,296,35,331
+Columbia,Ghent-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,329,87,416
+Columbia,Ghent-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,221,64,285
+Columbia,Greenport-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,229,23,252
+Columbia,Greenport-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,149,47,196
+Columbia,Greenport-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,174,18,192
+Columbia,Hillsdale-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,228,95,323
+Columbia,Hillsdale-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,202,96,298
+Columbia,Hudson 1-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,356,56,412
+Columbia,Hudson 2-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,236,28,264
+Columbia,Hudson 3-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,275,37,312
+Columbia,Hudson 4-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,239,68,307
+Columbia,Hudson 5-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,229,22,251
+Columbia,Kinderhook-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,200,21,221
+Columbia,Kinderhook-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,167,15,182
+Columbia,Kinderhook-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,164,32,196
+Columbia,Kinderhook-4,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,170,12,182
+Columbia,Kinderhook-5,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,194,34,228
+Columbia,Kinderhook-6,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,119,11,130
+Columbia,Kinderhook-7,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,175,18,193
+Columbia,Kinderhook-8,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,173,17,190
+Columbia,Livingston-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,241,56,297
+Columbia,Livingston-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,170,42,212
+Columbia,New Lebanon-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,209,33,242
+Columbia,New Lebanon-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,190,26,216
+Columbia,Stockport-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,124,9,133
+Columbia,Stockport-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,158,28,186
+Columbia,Stuyvesant-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,118,9,127
+Columbia,Stuyvesant-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,161,37,198
+Columbia,Taghkanic-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Democratic,188,102,290
+Columbia,Ancram-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,170,13,183
+Columbia,Ancram-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,153,12,165
+Columbia,Austerlitz-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,160,10,170
+Columbia,Austerlitz-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,121,14,135
+Columbia,Canaan-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,121,6,127
+Columbia,Canaan-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,146,11,157
+Columbia,Chatham-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,197,24,221
+Columbia,Chatham-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,182,14,196
+Columbia,Chatham-3,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,306,24,330
+Columbia,Claverack-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,256,23,279
+Columbia,Claverack-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,263,14,277
+Columbia,Claverack-3,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,217,7,224
+Columbia,Claverack-4,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,265,17,282
+Columbia,Claverack-5,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,171,11,182
+Columbia,Clermont-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,430,20,450
+Columbia,Copake-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,307,22,329
+Columbia,Copake-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,290,9,299
+Columbia,Gallatin-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,313,12,325
+Columbia,Germantown-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,262,20,282
+Columbia,Germantown-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,213,9,222
+Columbia,Ghent-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,260,18,278
+Columbia,Ghent-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,357,30,387
+Columbia,Ghent-3,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,388,28,416
+Columbia,Greenport-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,269,20,289
+Columbia,Greenport-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,198,8,206
+Columbia,Greenport-3,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,331,27,358
+Columbia,Hillsdale-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,142,8,150
+Columbia,Hillsdale-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,107,13,120
+Columbia,Hudson 1-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,52,4,56
+Columbia,Hudson 2-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,25,2,27
+Columbia,Hudson 3-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,105,3,108
+Columbia,Hudson 4-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,56,19,75
+Columbia,Hudson 5-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,186,6,192
+Columbia,Kinderhook-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,188,18,206
+Columbia,Kinderhook-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,179,13,192
+Columbia,Kinderhook-3,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,235,16,251
+Columbia,Kinderhook-4,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,237,21,258
+Columbia,Kinderhook-5,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,251,21,272
+Columbia,Kinderhook-6,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,244,13,257
+Columbia,Kinderhook-7,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,272,13,285
+Columbia,Kinderhook-8,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,278,13,291
+Columbia,Livingston-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,471,26,497
+Columbia,Livingston-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,339,22,361
+Columbia,New Lebanon-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,145,4,149
+Columbia,New Lebanon-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,211,11,222
+Columbia,Stockport-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,289,16,305
+Columbia,Stockport-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,245,20,265
+Columbia,Stuyvesant-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,175,14,189
+Columbia,Stuyvesant-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,210,11,221
+Columbia,Taghkanic-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Republican,254,13,267
+Columbia,Ancram-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,18,0,18
+Columbia,Ancram-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,14,0,14
+Columbia,Austerlitz-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,25,0,25
+Columbia,Austerlitz-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,18,3,21
+Columbia,Canaan-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,25,3,28
+Columbia,Canaan-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,22,2,24
+Columbia,Chatham-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,45,5,50
+Columbia,Chatham-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,21,3,24
+Columbia,Chatham-3,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,64,3,67
+Columbia,Claverack-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,35,0,35
+Columbia,Claverack-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,54,2,56
+Columbia,Claverack-3,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,32,2,34
+Columbia,Claverack-4,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,37,0,37
+Columbia,Claverack-5,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,15,0,15
+Columbia,Clermont-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,77,5,82
+Columbia,Copake-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,43,12,55
+Columbia,Copake-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,54,1,55
+Columbia,Gallatin-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,38,4,42
+Columbia,Germantown-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,33,1,34
+Columbia,Germantown-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,29,2,31
+Columbia,Ghent-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,54,2,56
+Columbia,Ghent-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,67,4,71
+Columbia,Ghent-3,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,74,2,76
+Columbia,Greenport-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,42,7,49
+Columbia,Greenport-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,32,3,35
+Columbia,Greenport-3,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,31,7,38
+Columbia,Hillsdale-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,21,7,28
+Columbia,Hillsdale-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,23,0,23
+Columbia,Hudson 1-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,10,1,11
+Columbia,Hudson 2-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,5,0,5
+Columbia,Hudson 3-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,12,2,14
+Columbia,Hudson 4-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,8,1,9
+Columbia,Hudson 5-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,33,3,36
+Columbia,Kinderhook-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,34,2,36
+Columbia,Kinderhook-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,32,2,34
+Columbia,Kinderhook-3,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,43,3,46
+Columbia,Kinderhook-4,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,57,5,62
+Columbia,Kinderhook-5,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,54,8,62
+Columbia,Kinderhook-6,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,48,3,51
+Columbia,Kinderhook-7,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,52,7,59
+Columbia,Kinderhook-8,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,49,6,55
+Columbia,Livingston-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,44,5,49
+Columbia,Livingston-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,41,6,47
+Columbia,New Lebanon-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,25,4,29
+Columbia,New Lebanon-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,36,3,39
+Columbia,Stockport-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,42,1,43
+Columbia,Stockport-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,42,4,46
+Columbia,Stuyvesant-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,43,3,46
+Columbia,Stuyvesant-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,60,5,65
+Columbia,Taghkanic-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Conservative,42,0,42
+Columbia,Ancram-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,5,1,6
+Columbia,Ancram-2,Governor,,HOWIE HAWKINS / JIA LEE,Green,4,2,6
+Columbia,Austerlitz-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,10,3,13
+Columbia,Austerlitz-2,Governor,,HOWIE HAWKINS / JIA LEE,Green,15,2,17
+Columbia,Canaan-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,3,1,4
+Columbia,Canaan-2,Governor,,HOWIE HAWKINS / JIA LEE,Green,14,2,16
+Columbia,Chatham-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,32,1,33
+Columbia,Chatham-2,Governor,,HOWIE HAWKINS / JIA LEE,Green,24,3,27
+Columbia,Chatham-3,Governor,,HOWIE HAWKINS / JIA LEE,Green,28,4,32
+Columbia,Claverack-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,8,3,11
+Columbia,Claverack-2,Governor,,HOWIE HAWKINS / JIA LEE,Green,3,1,4
+Columbia,Claverack-3,Governor,,HOWIE HAWKINS / JIA LEE,Green,16,2,18
+Columbia,Claverack-4,Governor,,HOWIE HAWKINS / JIA LEE,Green,21,0,21
+Columbia,Claverack-5,Governor,,HOWIE HAWKINS / JIA LEE,Green,6,1,7
+Columbia,Clermont-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,12,2,14
+Columbia,Copake-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,13,5,18
+Columbia,Copake-2,Governor,,HOWIE HAWKINS / JIA LEE,Green,18,1,19
+Columbia,Gallatin-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,6,5,11
+Columbia,Germantown-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,4,0,4
+Columbia,Germantown-2,Governor,,HOWIE HAWKINS / JIA LEE,Green,11,1,12
+Columbia,Ghent-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,23,7,30
+Columbia,Ghent-2,Governor,,HOWIE HAWKINS / JIA LEE,Green,22,2,24
+Columbia,Ghent-3,Governor,,HOWIE HAWKINS / JIA LEE,Green,9,4,13
+Columbia,Greenport-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,5,1,6
+Columbia,Greenport-2,Governor,,HOWIE HAWKINS / JIA LEE,Green,9,2,11
+Columbia,Greenport-3,Governor,,HOWIE HAWKINS / JIA LEE,Green,2,1,3
+Columbia,Hillsdale-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,17,4,21
+Columbia,Hillsdale-2,Governor,,HOWIE HAWKINS / JIA LEE,Green,8,3,11
+Columbia,Hudson 1-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,12,3,15
+Columbia,Hudson 2-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,5,0,5
+Columbia,Hudson 3-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,16,2,18
+Columbia,Hudson 4-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,10,0,10
+Columbia,Hudson 5-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,7,0,7
+Columbia,Kinderhook-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,8,0,8
+Columbia,Kinderhook-2,Governor,,HOWIE HAWKINS / JIA LEE,Green,11,0,11
+Columbia,Kinderhook-3,Governor,,HOWIE HAWKINS / JIA LEE,Green,5,0,5
+Columbia,Kinderhook-4,Governor,,HOWIE HAWKINS / JIA LEE,Green,10,0,10
+Columbia,Kinderhook-5,Governor,,HOWIE HAWKINS / JIA LEE,Green,12,1,13
+Columbia,Kinderhook-6,Governor,,HOWIE HAWKINS / JIA LEE,Green,4,0,4
+Columbia,Kinderhook-7,Governor,,HOWIE HAWKINS / JIA LEE,Green,10,1,11
+Columbia,Kinderhook-8,Governor,,HOWIE HAWKINS / JIA LEE,Green,13,2,15
+Columbia,Livingston-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,14,5,19
+Columbia,Livingston-2,Governor,,HOWIE HAWKINS / JIA LEE,Green,10,1,11
+Columbia,New Lebanon-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,21,0,21
+Columbia,New Lebanon-2,Governor,,HOWIE HAWKINS / JIA LEE,Green,14,4,18
+Columbia,Stockport-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,3,0,3
+Columbia,Stockport-2,Governor,,HOWIE HAWKINS / JIA LEE,Green,8,0,8
+Columbia,Stuyvesant-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,9,2,11
+Columbia,Stuyvesant-2,Governor,,HOWIE HAWKINS / JIA LEE,Green,14,2,16
+Columbia,Taghkanic-1,Governor,,HOWIE HAWKINS / JIA LEE,Green,9,9,18
+Columbia,Ancram-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,2,3,5
+Columbia,Ancram-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,4,1,5
+Columbia,Austerlitz-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,8,2,10
+Columbia,Austerlitz-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,11,3,14
+Columbia,Canaan-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,14,5,19
+Columbia,Canaan-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,18,3,21
+Columbia,Chatham-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,12,4,16
+Columbia,Chatham-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,17,2,19
+Columbia,Chatham-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,22,4,26
+Columbia,Claverack-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,6,1,7
+Columbia,Claverack-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,13,1,14
+Columbia,Claverack-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,9,0,9
+Columbia,Claverack-4,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,16,3,19
+Columbia,Claverack-5,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,9,2,11
+Columbia,Clermont-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,11,2,13
+Columbia,Copake-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,8,8,16
+Columbia,Copake-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,6,5,11
+Columbia,Gallatin-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,18,6,24
+Columbia,Germantown-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,16,8,24
+Columbia,Germantown-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,3,1,4
+Columbia,Ghent-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,17,0,17
+Columbia,Ghent-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,22,4,26
+Columbia,Ghent-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,7,4,11
+Columbia,Greenport-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,8,1,9
+Columbia,Greenport-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,12,1,13
+Columbia,Greenport-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,6,0,6
+Columbia,Hillsdale-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,15,8,23
+Columbia,Hillsdale-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,19,3,22
+Columbia,Hudson 1-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,29,5,34
+Columbia,Hudson 2-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,9,0,9
+Columbia,Hudson 3-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,17,3,20
+Columbia,Hudson 4-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,12,3,15
+Columbia,Hudson 5-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,14,3,17
+Columbia,Kinderhook-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,10,0,10
+Columbia,Kinderhook-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,5,0,5
+Columbia,Kinderhook-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,7,0,7
+Columbia,Kinderhook-4,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,12,0,12
+Columbia,Kinderhook-5,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,11,0,11
+Columbia,Kinderhook-6,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,5,0,5
+Columbia,Kinderhook-7,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,8,2,10
+Columbia,Kinderhook-8,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,14,1,15
+Columbia,Livingston-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,18,6,24
+Columbia,Livingston-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,10,1,11
+Columbia,New Lebanon-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,10,2,12
+Columbia,New Lebanon-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,8,4,12
+Columbia,Stockport-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,4,1,5
+Columbia,Stockport-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,12,3,15
+Columbia,Stuyvesant-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,9,0,9
+Columbia,Stuyvesant-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,12,1,13
+Columbia,Taghkanic-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Working Families,16,8,24
+Columbia,Ancram-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,2,3,5
+Columbia,Ancram-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,3,1,4
+Columbia,Austerlitz-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,2,1,3
+Columbia,Austerlitz-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,5,1,6
+Columbia,Canaan-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,10,0,10
+Columbia,Canaan-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,8,0,8
+Columbia,Chatham-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,7,2,9
+Columbia,Chatham-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,4,2,6
+Columbia,Chatham-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,7,1,8
+Columbia,Claverack-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,0,2,2
+Columbia,Claverack-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,1,7
+Columbia,Claverack-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,4,0,4
+Columbia,Claverack-4,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,4,0,4
+Columbia,Claverack-5,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,1,0,1
+Columbia,Clermont-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,1,7
+Columbia,Copake-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,5,1,6
+Columbia,Copake-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,11,1,12
+Columbia,Gallatin-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,2,0,2
+Columbia,Germantown-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,2,0,2
+Columbia,Germantown-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,1,7
+Columbia,Ghent-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,0,6
+Columbia,Ghent-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,4,1,5
+Columbia,Ghent-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,7,0,7
+Columbia,Greenport-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,2,8
+Columbia,Greenport-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,5,1,6
+Columbia,Greenport-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,2,8
+Columbia,Hillsdale-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,3,2,5
+Columbia,Hillsdale-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,1,1,2
+Columbia,Hudson 1-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,4,3,7
+Columbia,Hudson 2-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,3,1,4
+Columbia,Hudson 3-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,0,6
+Columbia,Hudson 4-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,2,0,2
+Columbia,Hudson 5-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,3,9
+Columbia,Kinderhook-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,12,1,13
+Columbia,Kinderhook-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,8,0,8
+Columbia,Kinderhook-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,2,2,4
+Columbia,Kinderhook-4,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,8,0,8
+Columbia,Kinderhook-5,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,5,0,5
+Columbia,Kinderhook-6,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,7,1,8
+Columbia,Kinderhook-7,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,7,0,7
+Columbia,Kinderhook-8,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,10,1,11
+Columbia,Livingston-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,8,0,8
+Columbia,Livingston-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,2,1,3
+Columbia,New Lebanon-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,11,0,11
+Columbia,New Lebanon-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,5,0,5
+Columbia,Stockport-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,8,0,8
+Columbia,Stockport-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,7,0,7
+Columbia,Stuyvesant-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,6,0,6
+Columbia,Stuyvesant-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,5,1,6
+Columbia,Taghkanic-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Independence,8,1,9
+Columbia,Ancram-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,0,0,0
+Columbia,Ancram-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,1,1,2
+Columbia,Austerlitz-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,3,6
+Columbia,Austerlitz-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,1,3,4
+Columbia,Canaan-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,4,0,4
+Columbia,Canaan-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,2,5
+Columbia,Chatham-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,8,1,9
+Columbia,Chatham-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,2,4
+Columbia,Chatham-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,8,1,9
+Columbia,Claverack-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,0,3
+Columbia,Claverack-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,2,4
+Columbia,Claverack-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,4,1,5
+Columbia,Claverack-4,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,6,0,6
+Columbia,Claverack-5,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,0,0,0
+Columbia,Clermont-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,1,0,1
+Columbia,Copake-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,1,4
+Columbia,Copake-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,1,4
+Columbia,Gallatin-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,1,3,4
+Columbia,Germantown-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,1,3
+Columbia,Germantown-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,1,0,1
+Columbia,Ghent-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,5,1,6
+Columbia,Ghent-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,0,2
+Columbia,Ghent-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,5,0,5
+Columbia,Greenport-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,4,0,4
+Columbia,Greenport-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,4,0,4
+Columbia,Greenport-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,1,0,1
+Columbia,Hillsdale-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,4,0,4
+Columbia,Hillsdale-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,1,0,1
+Columbia,Hudson 1-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,4,0,4
+Columbia,Hudson 2-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,1,3
+Columbia,Hudson 3-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,7,0,7
+Columbia,Hudson 4-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,0,2,2
+Columbia,Hudson 5-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,5,0,5
+Columbia,Kinderhook-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,1,3
+Columbia,Kinderhook-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,5,0,5
+Columbia,Kinderhook-3,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,5,0,5
+Columbia,Kinderhook-4,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,0,3
+Columbia,Kinderhook-5,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,5,2,7
+Columbia,Kinderhook-6,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,0,2
+Columbia,Kinderhook-7,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,1,3
+Columbia,Kinderhook-8,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,0,2
+Columbia,Livingston-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,7,0,7
+Columbia,Livingston-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,0,1,1
+Columbia,New Lebanon-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,2,4
+Columbia,New Lebanon-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,6,0,6
+Columbia,Stockport-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,1,4
+Columbia,Stockport-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,0,3
+Columbia,Stuyvesant-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,1,3
+Columbia,Stuyvesant-2,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,3,0,3
+Columbia,Taghkanic-1,Governor,,ANDREW M CUOMO / KATHY C HOCHUL,Women's Equality Party,2,1,3
+Columbia,Ancram-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,1,5
+Columbia,Ancram-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,2,1,3
+Columbia,Austerlitz-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,5,0,5
+Columbia,Austerlitz-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
+Columbia,Canaan-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
+Columbia,Canaan-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
+Columbia,Chatham-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,6,0,6
+Columbia,Chatham-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,2,0,2
+Columbia,Chatham-3,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,8,3,11
+Columbia,Claverack-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
+Columbia,Claverack-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,9,1,10
+Columbia,Claverack-3,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,11,0,11
+Columbia,Claverack-4,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
+Columbia,Claverack-5,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,0,0,0
+Columbia,Clermont-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,12,1,13
+Columbia,Copake-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,6,0,6
+Columbia,Copake-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,7,0,7
+Columbia,Gallatin-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
+Columbia,Germantown-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,5,0,5
+Columbia,Germantown-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,6,1,7
+Columbia,Ghent-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,9,2,11
+Columbia,Ghent-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
+Columbia,Ghent-3,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
+Columbia,Greenport-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
+Columbia,Greenport-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,2,0,2
+Columbia,Greenport-3,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,7,0,7
+Columbia,Hillsdale-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
+Columbia,Hillsdale-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
+Columbia,Hudson 1-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
+Columbia,Hudson 2-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,1,1,2
+Columbia,Hudson 3-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
+Columbia,Hudson 4-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,2,0,2
+Columbia,Hudson 5-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
+Columbia,Kinderhook-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,1,4
+Columbia,Kinderhook-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,10,1,11
+Columbia,Kinderhook-3,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
+Columbia,Kinderhook-4,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
+Columbia,Kinderhook-5,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,6,1,7
+Columbia,Kinderhook-6,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,5,1,6
+Columbia,Kinderhook-7,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
+Columbia,Kinderhook-8,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,8,0,8
+Columbia,Livingston-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,11,0,11
+Columbia,Livingston-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,7,0,7
+Columbia,New Lebanon-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,1,1,2
+Columbia,New Lebanon-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
+Columbia,Stockport-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,3,0,3
+Columbia,Stockport-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,5,0,5
+Columbia,Stuyvesant-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,6,0,6
+Columbia,Stuyvesant-2,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,7,0,7
+Columbia,Taghkanic-1,Governor,,MARC MOLINARO / JULIE KILLIAN,Reform Party,4,0,4
+Columbia,Ancram-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,3,0,3
+Columbia,Ancram-2,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,0,1
+Columbia,Austerlitz-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,0,0,0
+Columbia,Austerlitz-2,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,6,1,7
+Columbia,Canaan-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,7,0,7
+Columbia,Canaan-2,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,5,0,5
+Columbia,Chatham-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,19,2,21
+Columbia,Chatham-2,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,3,0,3
+Columbia,Chatham-3,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,14,2,16
+Columbia,Claverack-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,3,0,3
+Columbia,Claverack-2,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,4,0,4
+Columbia,Claverack-3,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,2,0,2
+Columbia,Claverack-4,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,4,2,6
+Columbia,Claverack-5,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,0,0,0
+Columbia,Clermont-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,5,1,6
+Columbia,Copake-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,5,0,5
+Columbia,Copake-2,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,1,2
+Columbia,Gallatin-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,2,3,5
+Columbia,Germantown-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,0,0,0
+Columbia,Germantown-2,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,2,1,3
+Columbia,Ghent-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,10,3,13
+Columbia,Ghent-2,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,8,2,10
+Columbia,Ghent-3,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,5,0,5
+Columbia,Greenport-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,7,1,8
+Columbia,Greenport-2,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,0,1
+Columbia,Greenport-3,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,2,3
+Columbia,Hillsdale-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,2,2,4
+Columbia,Hillsdale-2,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,6,1,7
+Columbia,Hudson 1-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,6,1,7
+Columbia,Hudson 2-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,0,1
+Columbia,Hudson 3-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,3,0,3
+Columbia,Hudson 4-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,1,2
+Columbia,Hudson 5-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,0,1
+Columbia,Kinderhook-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,10,0,10
+Columbia,Kinderhook-2,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,6,2,8
+Columbia,Kinderhook-3,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,11,0,11
+Columbia,Kinderhook-4,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,6,3,9
+Columbia,Kinderhook-5,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,6,2,8
+Columbia,Kinderhook-6,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,6,0,6
+Columbia,Kinderhook-7,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,11,0,11
+Columbia,Kinderhook-8,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,8,0,8
+Columbia,Livingston-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,4,0,4
+Columbia,Livingston-2,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,7,0,7
+Columbia,New Lebanon-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,10,1,11
+Columbia,New Lebanon-2,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,16,0,16
+Columbia,Stockport-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,1,0,1
+Columbia,Stockport-2,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,3,1,4
+Columbia,Stuyvesant-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,8,1,9
+Columbia,Stuyvesant-2,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,7,0,7
+Columbia,Taghkanic-1,Governor,,STEPHANIE A MINER / MICHAEL J VOLPE,SAM,0,2,2
+Columbia,Ancram-1,Governor,,Blanks,,5,4,9
+Columbia,Ancram-2,Governor,,Blanks,,5,0,5
+Columbia,Austerlitz-1,Governor,,Blanks,,3,1,4
+Columbia,Austerlitz-2,Governor,,Blanks,,9,0,9
+Columbia,Canaan-1,Governor,,Blanks,,7,0,7
+Columbia,Canaan-2,Governor,,Blanks,,11,0,11
+Columbia,Chatham-1,Governor,,Blanks,,18,3,21
+Columbia,Chatham-2,Governor,,Blanks,,10,1,11
+Columbia,Chatham-3,Governor,,Blanks,,12,3,15
+Columbia,Claverack-1,Governor,,Blanks,,12,3,15
+Columbia,Claverack-2,Governor,,Blanks,,7,0,7
+Columbia,Claverack-3,Governor,,Blanks,,12,1,13
+Columbia,Claverack-4,Governor,,Blanks,,8,1,9
+Columbia,Claverack-5,Governor,,Blanks,,4,0,4
+Columbia,Clermont-1,Governor,,Blanks,,9,0,9
+Columbia,Copake-1,Governor,,Blanks,,8,2,10
+Columbia,Copake-2,Governor,,Blanks,,16,2,18
+Columbia,Gallatin-1,Governor,,Blanks,,9,1,10
+Columbia,Germantown-1,Governor,,Blanks,,9,1,10
+Columbia,Germantown-2,Governor,,Blanks,,5,0,5
+Columbia,Ghent-1,Governor,,Blanks,,18,1,19
+Columbia,Ghent-2,Governor,,Blanks,,10,0,10
+Columbia,Ghent-3,Governor,,Blanks,,16,0,16
+Columbia,Greenport-1,Governor,,Blanks,,17,3,20
+Columbia,Greenport-2,Governor,,Blanks,,7,2,9
+Columbia,Greenport-3,Governor,,Blanks,,10,2,12
+Columbia,Hillsdale-1,Governor,,Blanks,,8,2,10
+Columbia,Hillsdale-2,Governor,,Blanks,,5,2,7
+Columbia,Hudson 1-1,Governor,,Blanks,,9,2,11
+Columbia,Hudson 2-1,Governor,,Blanks,,29,4,33
+Columbia,Hudson 3-1,Governor,,Blanks,,9,0,9
+Columbia,Hudson 4-1,Governor,,Blanks,,12,3,15
+Columbia,Hudson 5-1,Governor,,Blanks,,8,2,10
+Columbia,Kinderhook-1,Governor,,Blanks,,10,1,11
+Columbia,Kinderhook-2,Governor,,Blanks,,8,1,9
+Columbia,Kinderhook-3,Governor,,Blanks,,7,2,9
+Columbia,Kinderhook-4,Governor,,Blanks,,17,3,20
+Columbia,Kinderhook-5,Governor,,Blanks,,9,1,10
+Columbia,Kinderhook-6,Governor,,Blanks,,3,1,4
+Columbia,Kinderhook-7,Governor,,Blanks,,12,2,14
+Columbia,Kinderhook-8,Governor,,Blanks,,5,1,6
+Columbia,Livingston-1,Governor,,Blanks,,12,4,16
+Columbia,Livingston-2,Governor,,Blanks,,12,0,12
+Columbia,New Lebanon-1,Governor,,Blanks,,8,1,9
+Columbia,New Lebanon-2,Governor,,Blanks,,16,2,18
+Columbia,Stockport-1,Governor,,Blanks,,10,1,11
+Columbia,Stockport-2,Governor,,Blanks,,9,1,10
+Columbia,Stuyvesant-1,Governor,,Blanks,,7,0,7
+Columbia,Stuyvesant-2,Governor,,Blanks,,8,1,9
+Columbia,Taghkanic-1,Governor,,Blanks,,17,4,21
+Columbia,Ancram-1,Governor,,Voids,,0,0,0
+Columbia,Ancram-2,Governor,,Voids,,0,0,0
+Columbia,Austerlitz-1,Governor,,Voids,,0,0,0
+Columbia,Austerlitz-2,Governor,,Voids,,0,0,0
+Columbia,Canaan-1,Governor,,Voids,,0,1,1
+Columbia,Canaan-2,Governor,,Voids,,0,0,0
+Columbia,Chatham-1,Governor,,Voids,,0,0,0
+Columbia,Chatham-2,Governor,,Voids,,1,0,1
+Columbia,Chatham-3,Governor,,Voids,,0,0,0
+Columbia,Claverack-1,Governor,,Voids,,1,1,2
+Columbia,Claverack-2,Governor,,Voids,,2,1,3
+Columbia,Claverack-3,Governor,,Voids,,0,0,0
+Columbia,Claverack-4,Governor,,Voids,,0,0,0
+Columbia,Claverack-5,Governor,,Voids,,0,0,0
+Columbia,Clermont-1,Governor,,Voids,,0,0,0
+Columbia,Copake-1,Governor,,Voids,,0,0,0
+Columbia,Copake-2,Governor,,Voids,,1,0,1
+Columbia,Gallatin-1,Governor,,Voids,,2,0,2
+Columbia,Germantown-1,Governor,,Voids,,2,0,2
+Columbia,Germantown-2,Governor,,Voids,,1,0,1
+Columbia,Ghent-1,Governor,,Voids,,1,0,1
+Columbia,Ghent-2,Governor,,Voids,,3,3,6
+Columbia,Ghent-3,Governor,,Voids,,2,1,3
+Columbia,Greenport-1,Governor,,Voids,,2,1,3
+Columbia,Greenport-2,Governor,,Voids,,0,2,2
+Columbia,Greenport-3,Governor,,Voids,,2,0,2
+Columbia,Hillsdale-1,Governor,,Voids,,0,0,0
+Columbia,Hillsdale-2,Governor,,Voids,,2,0,2
+Columbia,Hudson 1-1,Governor,,Voids,,0,0,0
+Columbia,Hudson 2-1,Governor,,Voids,,0,0,0
+Columbia,Hudson 3-1,Governor,,Voids,,1,0,1
+Columbia,Hudson 4-1,Governor,,Voids,,1,4,5
+Columbia,Hudson 5-1,Governor,,Voids,,3,0,3
+Columbia,Kinderhook-1,Governor,,Voids,,0,0,0
+Columbia,Kinderhook-2,Governor,,Voids,,0,0,0
+Columbia,Kinderhook-3,Governor,,Voids,,2,1,3
+Columbia,Kinderhook-4,Governor,,Voids,,0,0,0
+Columbia,Kinderhook-5,Governor,,Voids,,0,0,0
+Columbia,Kinderhook-6,Governor,,Voids,,0,0,0
+Columbia,Kinderhook-7,Governor,,Voids,,1,0,1
+Columbia,Kinderhook-8,Governor,,Voids,,0,0,0
+Columbia,Livingston-1,Governor,,Voids,,0,2,2
+Columbia,Livingston-2,Governor,,Voids,,1,0,1
+Columbia,New Lebanon-1,Governor,,Voids,,3,1,4
+Columbia,New Lebanon-2,Governor,,Voids,,0,0,0
+Columbia,Stockport-1,Governor,,Voids,,0,0,0
+Columbia,Stockport-2,Governor,,Voids,,0,0,0
+Columbia,Stuyvesant-1,Governor,,Voids,,0,0,0
+Columbia,Stuyvesant-2,Governor,,Voids,,0,0,0
+Columbia,Taghkanic-1,Governor,,Voids,,0,0,0
+Columbia,Ancram-1,Governor,,Scatterings,,0,0,0
+Columbia,Ancram-2,Governor,,Scatterings,,0,1,1
+Columbia,Austerlitz-1,Governor,,Scatterings,,0,0,0
+Columbia,Austerlitz-2,Governor,,Scatterings,,0,0,0
+Columbia,Canaan-1,Governor,,Scatterings,,0,0,0
+Columbia,Canaan-2,Governor,,Scatterings,,1,0,1
+Columbia,Chatham-1,Governor,,Scatterings,,1,0,1
+Columbia,Chatham-2,Governor,,Scatterings,,1,0,1
+Columbia,Chatham-3,Governor,,Scatterings,,2,2,4
+Columbia,Claverack-1,Governor,,Scatterings,,0,0,0
+Columbia,Claverack-2,Governor,,Scatterings,,0,0,0
+Columbia,Claverack-3,Governor,,Scatterings,,0,0,0
+Columbia,Claverack-4,Governor,,Scatterings,,0,0,0
+Columbia,Claverack-5,Governor,,Scatterings,,0,0,0
+Columbia,Clermont-1,Governor,,Scatterings,,1,0,1
+Columbia,Copake-1,Governor,,Scatterings,,0,0,0
+Columbia,Copake-2,Governor,,Scatterings,,0,0,0
+Columbia,Gallatin-1,Governor,,Scatterings,,0,0,0
+Columbia,Germantown-1,Governor,,Scatterings,,0,0,0
+Columbia,Germantown-2,Governor,,Scatterings,,1,0,1
+Columbia,Ghent-1,Governor,,Scatterings,,1,0,1
+Columbia,Ghent-2,Governor,,Scatterings,,0,1,1
+Columbia,Ghent-3,Governor,,Scatterings,,1,0,1
+Columbia,Greenport-1,Governor,,Scatterings,,0,0,0
+Columbia,Greenport-2,Governor,,Scatterings,,0,0,0
+Columbia,Greenport-3,Governor,,Scatterings,,1,0,1
+Columbia,Hillsdale-1,Governor,,Scatterings,,0,0,0
+Columbia,Hillsdale-2,Governor,,Scatterings,,0,0,0
+Columbia,Hudson 1-1,Governor,,Scatterings,,3,0,3
+Columbia,Hudson 2-1,Governor,,Scatterings,,0,0,0
+Columbia,Hudson 3-1,Governor,,Scatterings,,2,1,3
+Columbia,Hudson 4-1,Governor,,Scatterings,,1,0,1
+Columbia,Hudson 5-1,Governor,,Scatterings,,3,0,3
+Columbia,Kinderhook-1,Governor,,Scatterings,,0,0,0
+Columbia,Kinderhook-2,Governor,,Scatterings,,1,1,2
+Columbia,Kinderhook-3,Governor,,Scatterings,,3,0,3
+Columbia,Kinderhook-4,Governor,,Scatterings,,2,0,2
+Columbia,Kinderhook-5,Governor,,Scatterings,,0,0,0
+Columbia,Kinderhook-6,Governor,,Scatterings,,0,0,0
+Columbia,Kinderhook-7,Governor,,Scatterings,,1,1,2
+Columbia,Kinderhook-8,Governor,,Scatterings,,0,0,0
+Columbia,Livingston-1,Governor,,Scatterings,,1,0,1
+Columbia,Livingston-2,Governor,,Scatterings,,0,0,0
+Columbia,New Lebanon-1,Governor,,Scatterings,,0,2,2
+Columbia,New Lebanon-2,Governor,,Scatterings,,1,2,3
+Columbia,Stockport-1,Governor,,Scatterings,,0,0,0
+Columbia,Stockport-2,Governor,,Scatterings,,0,0,0
+Columbia,Stuyvesant-1,Governor,,Scatterings,,3,0,3
+Columbia,Stuyvesant-2,Governor,,Scatterings,,1,2,3
+Columbia,Taghkanic-1,Governor,,Scatterings,,0,1,1
+Columbia,Ancram-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,3,0,3
+Columbia,Ancram-2,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,2,0,2
+Columbia,Austerlitz-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,5,0,5
+Columbia,Austerlitz-2,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,4,1,5
+Columbia,Canaan-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,4,0,4
+Columbia,Canaan-2,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,10,0,10
+Columbia,Chatham-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,11,0,11
+Columbia,Chatham-2,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,13,1,14
+Columbia,Chatham-3,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,11,0,11
+Columbia,Claverack-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,3,0,3
+Columbia,Claverack-2,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,9,1,10
+Columbia,Claverack-3,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,5,0,5
+Columbia,Claverack-4,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,8,1,9
+Columbia,Claverack-5,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,2,0,2
+Columbia,Clermont-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,9,2,11
+Columbia,Copake-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,4,1,5
+Columbia,Copake-2,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,3,0,3
+Columbia,Gallatin-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,3,0,3
+Columbia,Germantown-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,3,0,3
+Columbia,Germantown-2,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,2,0,2
+Columbia,Ghent-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,15,1,16
+Columbia,Ghent-2,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,11,0,11
+Columbia,Ghent-3,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,11,1,12
+Columbia,Greenport-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,6,0,6
+Columbia,Greenport-2,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,2,0,2
+Columbia,Greenport-3,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,8,0,8
+Columbia,Hillsdale-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,1,0,1
+Columbia,Hillsdale-2,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,3,0,3
+Columbia,Hudson 1-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,9,0,9
+Columbia,Hudson 2-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,5,1,6
+Columbia,Hudson 3-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,7,0,7
+Columbia,Hudson 4-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,5,0,5
+Columbia,Hudson 5-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,2,0,2
+Columbia,Kinderhook-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,6,1,7
+Columbia,Kinderhook-2,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,3,1,4
+Columbia,Kinderhook-3,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,9,1,10
+Columbia,Kinderhook-4,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,6,1,7
+Columbia,Kinderhook-5,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,5,0,5
+Columbia,Kinderhook-6,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,7,0,7
+Columbia,Kinderhook-7,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,9,0,9
+Columbia,Kinderhook-8,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,4,0,4
+Columbia,Livingston-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,4,0,4
+Columbia,Livingston-2,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,9,0,9
+Columbia,New Lebanon-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,18,1,19
+Columbia,New Lebanon-2,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,15,3,18
+Columbia,Stockport-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,7,0,7
+Columbia,Stockport-2,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,2,0,2
+Columbia,Stuyvesant-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,8,0,8
+Columbia,Stuyvesant-2,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,5,2,7
+Columbia,Taghkanic-1,Governor,,LARRY SHARPE / ANDREW C HOLLISTER,Libertarian,4,0,4
 Columbia,Ancram-1,New York State Comptroller,,THOMAS P DINAPOLI,Democratic,169,81,250
 Columbia,Ancram-2,New York State Comptroller,,THOMAS P DINAPOLI,Democratic,137,45,182
 Columbia,Austerlitz-1,New York State Comptroller,,THOMAS P DINAPOLI,Democratic,249,63,312
