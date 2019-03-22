@@ -1,0 +1,1834 @@
+county,precinct,office,district,party,candidate,votes
+Allegany,Alfred 1,State Assembly,148,REP,Giglio,161
+Allegany,Alfred 2,State Assembly,148,REP,Giglio,288
+Allegany,Allen,State Assembly,148,REP,Giglio,114
+Allegany,Alma,State Assembly,148,REP,Giglio,217
+Allegany,Almond,State Assembly,148,REP,Giglio,446
+Allegany,Amity 1,State Assembly,148,REP,Giglio,341
+Allegany,Amity 2,State Assembly,148,REP,Giglio,231
+Allegany,Andover 1,State Assembly,148,REP,Giglio,279
+Allegany,Andover 2,State Assembly,148,REP,Giglio,232
+Allegany,Angelica 1,State Assembly,148,REP,Giglio,227
+Allegany,Angelica 2,State Assembly,148,REP,Giglio,182
+Allegany,Belfast,State Assembly,148,REP,Giglio,417
+Allegany,Birdsall,State Assembly,148,REP,Giglio,57
+Allegany,Bolivar,State Assembly,148,REP,Giglio,483
+Allegany,Burns,State Assembly,148,REP,Giglio,273
+Allegany,Caneadea 1,State Assembly,148,REP,Giglio,195
+Allegany,Caneadea 2,State Assembly,148,REP,Giglio,251
+Allegany,Centerville,State Assembly,148,REP,Giglio,161
+Allegany,Clarksville,State Assembly,148,REP,Giglio,237
+Allegany,Cuba 1,State Assembly,148,REP,Giglio,338
+Allegany,Cuba 2,State Assembly,148,REP,Giglio,470
+Allegany,Friendship,State Assembly,148,REP,Giglio,407
+Allegany,Genesee,State Assembly,148,REP,Giglio,408
+Allegany,Granger,State Assembly,148,REP,Giglio,145
+Allegany,Grove,State Assembly,148,REP,Giglio,152
+Allegany,Hume,State Assembly,148,REP,Giglio,424
+Allegany,Independence,State Assembly,148,REP,Giglio,248
+Allegany,New Hudson,State Assembly,148,REP,Giglio,181
+Allegany,Rushford,State Assembly,148,REP,Giglio,376
+Allegany,Scio,State Assembly,148,REP,Giglio,459
+Allegany,Ward,State Assembly,148,REP,Giglio,111
+Allegany,Wellsville 1,State Assembly,148,REP,Giglio,322
+Allegany,Wellsville 2,State Assembly,148,REP,Giglio,348
+Allegany,Wellsville 3,State Assembly,148,REP,Giglio,390
+Allegany,Wellsville 4,State Assembly,148,REP,Giglio,285
+Allegany,Wellsville 5,State Assembly,148,REP,Giglio,373
+Allegany,West Almond,State Assembly,148,REP,Giglio,83
+Allegany,Willing,State Assembly,148,REP,Giglio,345
+Allegany,Alfred 1,State Assembly,148,CON,Giglio,24
+Allegany,Alfred 2,State Assembly,148,CON,Giglio,43
+Allegany,Allen,State Assembly,148,CON,Giglio,15
+Allegany,Alma,State Assembly,148,CON,Giglio,21
+Allegany,Almond,State Assembly,148,CON,Giglio,67
+Allegany,Amity 1,State Assembly,148,CON,Giglio,24
+Allegany,Amity 2,State Assembly,148,CON,Giglio,11
+Allegany,Andover 1,State Assembly,148,CON,Giglio,29
+Allegany,Andover 2,State Assembly,148,CON,Giglio,12
+Allegany,Angelica 1,State Assembly,148,CON,Giglio,16
+Allegany,Angelica 2,State Assembly,148,CON,Giglio,15
+Allegany,Belfast,State Assembly,148,CON,Giglio,50
+Allegany,Birdsall,State Assembly,148,CON,Giglio,6
+Allegany,Bolivar,State Assembly,148,CON,Giglio,48
+Allegany,Burns,State Assembly,148,CON,Giglio,36
+Allegany,Caneadea 1,State Assembly,148,CON,Giglio,31
+Allegany,Caneadea 2,State Assembly,148,CON,Giglio,32
+Allegany,Centerville,State Assembly,148,CON,Giglio,25
+Allegany,Clarksville,State Assembly,148,CON,Giglio,18
+Allegany,Cuba 1,State Assembly,148,CON,Giglio,23
+Allegany,Cuba 2,State Assembly,148,CON,Giglio,36
+Allegany,Friendship,State Assembly,148,CON,Giglio,39
+Allegany,Genesee,State Assembly,148,CON,Giglio,41
+Allegany,Granger,State Assembly,148,CON,Giglio,24
+Allegany,Grove,State Assembly,148,CON,Giglio,29
+Allegany,Hume,State Assembly,148,CON,Giglio,50
+Allegany,Independence,State Assembly,148,CON,Giglio,20
+Allegany,New Hudson,State Assembly,148,CON,Giglio,22
+Allegany,Rushford,State Assembly,148,CON,Giglio,54
+Allegany,Scio,State Assembly,148,CON,Giglio,45
+Allegany,Ward,State Assembly,148,CON,Giglio,11
+Allegany,Wellsville 1,State Assembly,148,CON,Giglio,28
+Allegany,Wellsville 2,State Assembly,148,CON,Giglio,26
+Allegany,Wellsville 3,State Assembly,148,CON,Giglio,34
+Allegany,Wellsville 4,State Assembly,148,CON,Giglio,30
+Allegany,Wellsville 5,State Assembly,148,CON,Giglio,28
+Allegany,West Almond,State Assembly,148,CON,Giglio,14
+Allegany,Willing,State Assembly,148,CON,Giglio,32
+Allegany,Alfred 1,State Assembly,148,IND,Giglio,60
+Allegany,Alfred 2,State Assembly,148,IND,Giglio,33
+Allegany,Allen,State Assembly,148,IND,Giglio,5
+Allegany,Alma,State Assembly,148,IND,Giglio,8
+Allegany,Almond,State Assembly,148,IND,Giglio,34
+Allegany,Amity 1,State Assembly,148,IND,Giglio,18
+Allegany,Amity 2,State Assembly,148,IND,Giglio,11
+Allegany,Andover 1,State Assembly,148,IND,Giglio,21
+Allegany,Andover 2,State Assembly,148,IND,Giglio,12
+Allegany,Angelica 1,State Assembly,148,IND,Giglio,10
+Allegany,Angelica 2,State Assembly,148,IND,Giglio,4
+Allegany,Belfast,State Assembly,148,IND,Giglio,23
+Allegany,Birdsall,State Assembly,148,IND,Giglio,1
+Allegany,Bolivar,State Assembly,148,IND,Giglio,36
+Allegany,Burns,State Assembly,148,IND,Giglio,13
+Allegany,Caneadea 1,State Assembly,148,IND,Giglio,12
+Allegany,Caneadea 2,State Assembly,148,IND,Giglio,17
+Allegany,Centerville,State Assembly,148,IND,Giglio,8
+Allegany,Clarksville,State Assembly,148,IND,Giglio,22
+Allegany,Cuba 1,State Assembly,148,IND,Giglio,38
+Allegany,Cuba 2,State Assembly,148,IND,Giglio,34
+Allegany,Friendship,State Assembly,148,IND,Giglio,17
+Allegany,Genesee,State Assembly,148,IND,Giglio,16
+Allegany,Granger,State Assembly,148,IND,Giglio,4
+Allegany,Grove,State Assembly,148,IND,Giglio,12
+Allegany,Hume,State Assembly,148,IND,Giglio,27
+Allegany,Independence,State Assembly,148,IND,Giglio,14
+Allegany,New Hudson,State Assembly,148,IND,Giglio,11
+Allegany,Rushford,State Assembly,148,IND,Giglio,16
+Allegany,Scio,State Assembly,148,IND,Giglio,18
+Allegany,Ward,State Assembly,148,IND,Giglio,10
+Allegany,Wellsville 1,State Assembly,148,IND,Giglio,18
+Allegany,Wellsville 2,State Assembly,148,IND,Giglio,31
+Allegany,Wellsville 3,State Assembly,148,IND,Giglio,28
+Allegany,Wellsville 4,State Assembly,148,IND,Giglio,13
+Allegany,Wellsville 5,State Assembly,148,IND,Giglio,18
+Allegany,West Almond,State Assembly,148,IND,Giglio,4
+Allegany,Willing,State Assembly,148,IND,Giglio,21
+Allegany,Wirt,State Assembly,148,REP,Giglio,276
+Allegany,Wirt,State Assembly,148,CON,Giglio,28
+Allegany,Wirt,State Assembly,148,IND,Giglio,11
+Allegany,Alfred 1,State Senate,57,REP,Young,183
+Allegany,Alfred 2,State Senate,57,REP,Young,309
+Allegany,Allen,State Senate,57,REP,Young,116
+Allegany,Alma,State Senate,57,REP,Young,226
+Allegany,Almond,State Senate,57,REP,Young,470
+Allegany,Amity 1,State Senate,57,REP,Young,371
+Allegany,Amity 2,State Senate,57,REP,Young,239
+Allegany,Andover 1,State Senate,57,REP,Young,284
+Allegany,Andover 2,State Senate,57,REP,Young,245
+Allegany,Angelica 1,State Senate,57,REP,Young,240
+Allegany,Angelica 2,State Senate,57,REP,Young,186
+Allegany,Belfast,State Senate,57,REP,Young,438
+Allegany,Birdsall,State Senate,57,REP,Young,62
+Allegany,Bolivar,State Senate,57,REP,Young,513
+Allegany,Burns,State Senate,57,REP,Young,298
+Allegany,Caneadea 1,State Senate,57,REP,Young,204
+Allegany,Caneadea 2,State Senate,57,REP,Young,257
+Allegany,Centerville,State Senate,57,REP,Young,176
+Allegany,Clarksville,State Senate,57,REP,Young,240
+Allegany,Cuba 1,State Senate,57,REP,Young,359
+Allegany,Cuba 2,State Senate,57,REP,Young,482
+Allegany,Friendship,State Senate,57,REP,Young,433
+Allegany,Genesee,State Senate,57,REP,Young,424
+Allegany,Granger,State Senate,57,REP,Young,157
+Allegany,Grove,State Senate,57,REP,Young,159
+Allegany,Hume,State Senate,57,REP,Young,434
+Allegany,Independence,State Senate,57,REP,Young,259
+Allegany,New Hudson,State Senate,57,REP,Young,192
+Allegany,Rushford,State Senate,57,REP,Young,383
+Allegany,Scio,State Senate,57,REP,Young,496
+Allegany,Ward,State Senate,57,REP,Young,121
+Allegany,Wellsville 1,State Senate,57,REP,Young,345
+Allegany,Wellsville 2,State Senate,57,REP,Young,380
+Allegany,Wellsville 3,State Senate,57,REP,Young,424
+Allegany,Wellsville 4,State Senate,57,REP,Young,304
+Allegany,Wellsville 5,State Senate,57,REP,Young,395
+Allegany,West Almond,State Senate,57,REP,Young,89
+Allegany,Willing,State Senate,57,REP,Young,365
+Allegany,Wirt,State Senate,57,REP,Young,294
+Allegany,Alfred 1,State Senate,57,CON,Young,27
+Allegany,Alfred 2,State Senate,57,CON,Young,46
+Allegany,Allen,State Senate,57,CON,Young,13
+Allegany,Alma,State Senate,57,CON,Young,22
+Allegany,Almond,State Senate,57,CON,Young,65
+Allegany,Amity 1,State Senate,57,CON,Young,20
+Allegany,Amity 2,State Senate,57,CON,Young,14
+Allegany,Andover 1,State Senate,57,CON,Young,29
+Allegany,Andover 2,State Senate,57,CON,Young,11
+Allegany,Angelica 1,State Senate,57,CON,Young,19
+Allegany,Angelica 2,State Senate,57,CON,Young,17
+Allegany,Belfast,State Senate,57,CON,Young,47
+Allegany,Birdsall,State Senate,57,CON,Young,8
+Allegany,Bolivar,State Senate,57,CON,Young,53
+Allegany,Burns,State Senate,57,CON,Young,40
+Allegany,Caneadea 1,State Senate,57,CON,Young,29
+Allegany,Caneadea 2,State Senate,57,CON,Young,30
+Allegany,Centerville,State Senate,57,CON,Young,21
+Allegany,Clarksville,State Senate,57,CON,Young,19
+Allegany,Cuba 1,State Senate,57,CON,Young,22
+Allegany,Cuba 2,State Senate,57,CON,Young,40
+Allegany,Friendship,State Senate,57,CON,Young,44
+Allegany,Genesee,State Senate,57,CON,Young,41
+Allegany,Granger,State Senate,57,CON,Young,23
+Allegany,Grove,State Senate,57,CON,Young,27
+Allegany,Hume,State Senate,57,CON,Young,54
+Allegany,Independence,State Senate,57,CON,Young,24
+Allegany,New Hudson,State Senate,57,CON,Young,21
+Allegany,Rushford,State Senate,57,CON,Young,59
+Allegany,Scio,State Senate,57,CON,Young,46
+Allegany,Ward,State Senate,57,CON,Young,14
+Allegany,Wellsville 1,State Senate,57,CON,Young,33
+Allegany,Wellsville 2,State Senate,57,CON,Young,24
+Allegany,Wellsville 3,State Senate,57,CON,Young,37
+Allegany,Wellsville 4,State Senate,57,CON,Young,28
+Allegany,Wellsville 5,State Senate,57,CON,Young,26
+Allegany,West Almond,State Senate,57,CON,Young,13
+Allegany,Willing,State Senate,57,CON,Young,31
+Allegany,Wirt,State Senate,57,CON,Young,34
+Allegany,Alfred 1,State Senate,57,IND,Young,51
+Allegany,Alfred 2,State Senate,57,IND,Young,29
+Allegany,Allen,State Senate,57,IND,Young,7
+Allegany,Alma,State Senate,57,IND,Young,12
+Allegany,Almond,State Senate,57,IND,Young,31
+Allegany,Amity 1,State Senate,57,IND,Young,22
+Allegany,Amity 2,State Senate,57,IND,Young,11
+Allegany,Andover 1,State Senate,57,IND,Young,27
+Allegany,Andover 2,State Senate,57,IND,Young,14
+Allegany,Angelica 1,State Senate,57,IND,Young,10
+Allegany,Angelica 2,State Senate,57,IND,Young,6
+Allegany,Belfast,State Senate,57,IND,Young,22
+Allegany,Birdsall,State Senate,57,IND,Young,2
+Allegany,Bolivar,State Senate,57,IND,Young,36
+Allegany,Burns,State Senate,57,IND,Young,15
+Allegany,Caneadea 1,State Senate,57,IND,Young,13
+Allegany,Caneadea 2,State Senate,57,IND,Young,18
+Allegany,Centerville,State Senate,57,IND,Young,2
+Allegany,Clarksville,State Senate,57,IND,Young,25
+Allegany,Cuba 1,State Senate,57,IND,Young,36
+Allegany,Cuba 2,State Senate,57,IND,Young,33
+Allegany,Friendship,State Senate,57,IND,Young,18
+Allegany,Genesee,State Senate,57,IND,Young,20
+Allegany,Granger,State Senate,57,IND,Young,3
+Allegany,Grove,State Senate,57,IND,Young,13
+Allegany,Hume,State Senate,57,IND,Young,33
+Allegany,Independence,State Senate,57,IND,Young,6
+Allegany,New Hudson,State Senate,57,IND,Young,9
+Allegany,Rushford,State Senate,57,IND,Young,24
+Allegany,Scio,State Senate,57,IND,Young,19
+Allegany,Ward,State Senate,57,IND,Young,10
+Allegany,Wellsville 1,State Senate,57,IND,Young,21
+Allegany,Wellsville 2,State Senate,57,IND,Young,32
+Allegany,Wellsville 3,State Senate,57,IND,Young,28
+Allegany,Wellsville 4,State Senate,57,IND,Young,18
+Allegany,Wellsville 5,State Senate,57,IND,Young,19
+Allegany,West Almond,State Senate,57,IND,Young,5
+Allegany,Willing,State Senate,57,IND,Young,20
+Allegany,Wirt,State Senate,57,IND,Young,13
+Allegany,Alfred 1,State Senate,57,REF,Young,1
+Allegany,Alfred 2,State Senate,57,REF,Young,1
+Allegany,Allen,State Senate,57,REF,Young,1
+Allegany,Alma,State Senate,57,REF,Young,1
+Allegany,Almond,State Senate,57,REF,Young,1
+Allegany,Amity 1,State Senate,57,REF,Young,1
+Allegany,Amity 2,State Senate,57,REF,Young,1
+Allegany,Andover 1,State Senate,57,REF,Young,1
+Allegany,Andover 2,State Senate,57,REF,Young,1
+Allegany,Angelica 1,State Senate,57,REF,Young,1
+Allegany,Angelica 2,State Senate,57,REF,Young,1
+Allegany,Belfast,State Senate,57,REF,Young,1
+Allegany,Birdsall,State Senate,57,REF,Young,1
+Allegany,Bolivar,State Senate,57,REF,Young,1
+Allegany,Burns,State Senate,57,REF,Young,1
+Allegany,Caneadea 1,State Senate,57,REF,Young,1
+Allegany,Caneadea 2,State Senate,57,REF,Young,1
+Allegany,Centerville,State Senate,57,REF,Young,1
+Allegany,Clarksville,State Senate,57,REF,Young,1
+Allegany,Cuba 1,State Senate,57,REF,Young,1
+Allegany,Cuba 2,State Senate,57,REF,Young,1
+Allegany,Friendship,State Senate,57,REF,Young,1
+Allegany,Genesee,State Senate,57,REF,Young,1
+Allegany,Granger,State Senate,57,REF,Young,1
+Allegany,Grove,State Senate,57,REF,Young,1
+Allegany,Hume,State Senate,57,REF,Young,1
+Allegany,Independence,State Senate,57,REF,Young,1
+Allegany,New Hudson,State Senate,57,REF,Young,1
+Allegany,Rushford,State Senate,57,REF,Young,1
+Allegany,Scio,State Senate,57,REF,Young,1
+Allegany,Ward,State Senate,57,REF,Young,1
+Allegany,Wellsville 1,State Senate,57,REF,Young,1
+Allegany,Wellsville 2,State Senate,57,REF,Young,1
+Allegany,Wellsville 3,State Senate,57,REF,Young,1
+Allegany,Wellsville 4,State Senate,57,REF,Young,1
+Allegany,Wellsville 5,State Senate,57,REF,Young,1
+Allegany,West Almond,State Senate,57,REF,Young,1
+Allegany,Willing,State Senate,57,REF,Young,1
+Allegany,Wirt,State Senate,57,REF,Young,1
+Allegany,Alfred 1,U.S. House,23,DEM,Mitrano,291
+Allegany,Alfred 2,U.S. House,23,DEM,Mitrano,243
+Allegany,Allen,U.S. House,23,DEM,Mitrano,30
+Allegany,Alma,U.S. House,23,DEM,Mitrano,52
+Allegany,Almond,U.S. House,23,DEM,Mitrano,168
+Allegany,Amity 1,U.S. House,23,DEM,Mitrano,134
+Allegany,Amity 2,U.S. House,23,DEM,Mitrano,91
+Allegany,Andover 1,U.S. House,23,DEM,Mitrano,100
+Allegany,Andover 2,U.S. House,23,DEM,Mitrano,59
+Allegany,Angelica 1,U.S. House,23,DEM,Mitrano,74
+Allegany,Angelica 2,U.S. House,23,DEM,Mitrano,57
+Allegany,Belfast,U.S. House,23,DEM,Mitrano,156
+Allegany,Birdsall,U.S. House,23,DEM,Mitrano,18
+Allegany,Bolivar,U.S. House,23,DEM,Mitrano,174
+Allegany,Burns,U.S. House,23,DEM,Mitrano,68
+Allegany,Caneadea 1,U.S. House,23,DEM,Mitrano,72
+Allegany,Caneadea 2,U.S. House,23,DEM,Mitrano,80
+Allegany,Centerville,U.S. House,23,DEM,Mitrano,40
+Allegany,Clarksville,U.S. House,23,DEM,Mitrano,103
+Allegany,Cuba 1,U.S. House,23,DEM,Mitrano,201
+Allegany,Cuba 2,U.S. House,23,DEM,Mitrano,183
+Allegany,Friendship,U.S. House,23,DEM,Mitrano,116
+Allegany,Genesee,U.S. House,23,DEM,Mitrano,109
+Allegany,Granger,U.S. House,23,DEM,Mitrano,23
+Allegany,Grove,U.S. House,23,DEM,Mitrano,54
+Allegany,Hume,U.S. House,23,DEM,Mitrano,136
+Allegany,Independence,U.S. House,23,DEM,Mitrano,78
+Allegany,New Hudson,U.S. House,23,DEM,Mitrano,35
+Allegany,Rushford,U.S. House,23,DEM,Mitrano,94
+Allegany,Scio,U.S. House,23,DEM,Mitrano,154
+Allegany,Ward,U.S. House,23,DEM,Mitrano,52
+Allegany,Wellsville 1,U.S. House,23,DEM,Mitrano,148
+Allegany,Wellsville 2,U.S. House,23,DEM,Mitrano,204
+Allegany,Wellsville 3,U.S. House,23,DEM,Mitrano,234
+Allegany,Wellsville 4,U.S. House,23,DEM,Mitrano,99
+Allegany,Wellsville 5,U.S. House,23,DEM,Mitrano,138
+Allegany,West Almond,U.S. House,23,DEM,Mitrano,24
+Allegany,Willing,U.S. House,23,DEM,Mitrano,116
+Allegany,Wirt,U.S. House,23,DEM,Mitrano,49
+Allegany,Alfred 1,U.S. House,23,DEM,Reed,76
+Allegany,Alfred 2,U.S. House,23,DEM,Reed,198
+Allegany,Allen,U.S. House,23,DEM,Reed,99
+Allegany,Alma,U.S. House,23,DEM,Reed,197
+Allegany,Almond,U.S. House,23,DEM,Reed,378
+Allegany,Amity 1,U.S. House,23,DEM,Reed,292
+Allegany,Amity 2,U.S. House,23,DEM,Reed,177
+Allegany,Andover 1,U.S. House,23,DEM,Reed,244
+Allegany,Andover 2,U.S. House,23,DEM,Reed,210
+Allegany,Angelica 1,U.S. House,23,DEM,Reed,203
+Allegany,Angelica 2,U.S. House,23,DEM,Reed,160
+Allegany,Belfast,U.S. House,23,DEM,Reed,350
+Allegany,Birdsall,U.S. House,23,DEM,Reed,54
+Allegany,Bolivar,U.S. House,23,DEM,Reed,419
+Allegany,Burns,U.S. House,23,DEM,Reed,247
+Allegany,Caneadea 1,U.S. House,23,DEM,Reed,169
+Allegany,Caneadea 2,U.S. House,23,DEM,Reed,212
+Allegany,Centerville,U.S. House,23,DEM,Reed,156
+Allegany,Clarksville,U.S. House,23,DEM,Reed,199
+Allegany,Cuba 1,U.S. House,23,DEM,Reed,244
+Allegany,Cuba 2,U.S. House,23,DEM,Reed,387
+Allegany,Friendship,U.S. House,23,DEM,Reed,357
+Allegany,Genesee,U.S. House,23,DEM,Reed,343
+Allegany,Granger,U.S. House,23,DEM,Reed,149
+Allegany,Grove,U.S. House,23,DEM,Reed,136
+Allegany,Hume,U.S. House,23,DEM,Reed,379
+Allegany,Independence,U.S. House,23,DEM,Reed,223
+Allegany,New Hudson,U.S. House,23,DEM,Reed,162
+Allegany,Rushford,U.S. House,23,DEM,Reed,337
+Allegany,Scio,U.S. House,23,DEM,Reed,390
+Allegany,Ward,U.S. House,23,DEM,Reed,102
+Allegany,Wellsville 1,U.S. House,23,DEM,Reed,254
+Allegany,Wellsville 2,U.S. House,23,DEM,Reed,260
+Allegany,Wellsville 3,U.S. House,23,DEM,Reed,289
+Allegany,Wellsville 4,U.S. House,23,DEM,Reed,244
+Allegany,Wellsville 5,U.S. House,23,DEM,Reed,318
+Allegany,West Almond,U.S. House,23,DEM,Reed,81
+Allegany,Willing,U.S. House,23,DEM,Reed,297
+Allegany,Wirt,U.S. House,23,DEM,Reed,255
+Allegany,Alfred 1,U.S. House,23,REP,Reed,12
+Allegany,Alfred 2,U.S. House,23,REP,Reed,38
+Allegany,Allen,U.S. House,23,REP,Reed,11
+Allegany,Alma,U.S. House,23,REP,Reed,20
+Allegany,Almond,U.S. House,23,REP,Reed,61
+Allegany,Amity 1,U.S. House,23,REP,Reed,18
+Allegany,Amity 2,U.S. House,23,REP,Reed,8
+Allegany,Andover 1,U.S. House,23,REP,Reed,25
+Allegany,Andover 2,U.S. House,23,REP,Reed,10
+Allegany,Angelica 1,U.S. House,23,REP,Reed,14
+Allegany,Angelica 2,U.S. House,23,REP,Reed,13
+Allegany,Belfast,U.S. House,23,REP,Reed,44
+Allegany,Birdsall,U.S. House,23,REP,Reed,8
+Allegany,Bolivar,U.S. House,23,REP,Reed,27
+Allegany,Burns,U.S. House,23,REP,Reed,35
+Allegany,Caneadea 1,U.S. House,23,REP,Reed,19
+Allegany,Caneadea 2,U.S. House,23,REP,Reed,27
+Allegany,Centerville,U.S. House,23,REP,Reed,22
+Allegany,Clarksville,U.S. House,23,REP,Reed,15
+Allegany,Cuba 1,U.S. House,23,REP,Reed,14
+Allegany,Cuba 2,U.S. House,23,REP,Reed,27
+Allegany,Friendship,U.S. House,23,REP,Reed,34
+Allegany,Genesee,U.S. House,23,REP,Reed,40
+Allegany,Granger,U.S. House,23,REP,Reed,20
+Allegany,Grove,U.S. House,23,REP,Reed,25
+Allegany,Hume,U.S. House,23,REP,Reed,47
+Allegany,Independence,U.S. House,23,REP,Reed,17
+Allegany,New Hudson,U.S. House,23,REP,Reed,21
+Allegany,Rushford,U.S. House,23,REP,Reed,54
+Allegany,Scio,U.S. House,23,REP,Reed,30
+Allegany,Ward,U.S. House,23,REP,Reed,6
+Allegany,Wellsville 1,U.S. House,23,REP,Reed,22
+Allegany,Wellsville 2,U.S. House,23,REP,Reed,13
+Allegany,Wellsville 3,U.S. House,23,REP,Reed,25
+Allegany,Wellsville 4,U.S. House,23,REP,Reed,20
+Allegany,Wellsville 5,U.S. House,23,REP,Reed,16
+Allegany,West Almond,U.S. House,23,REP,Reed,13
+Allegany,Willing,U.S. House,23,REP,Reed,27
+Allegany,Wirt,U.S. House,23,REP,Reed,27
+Allegany,Alfred 1,U.S. House,23,REP,Mitrano,13
+Allegany,Alfred 2,U.S. House,23,REP,Mitrano,11
+Allegany,Allen,U.S. House,23,REP,Mitrano,1
+Allegany,Alma,U.S. House,23,REP,Mitrano,2
+Allegany,Almond,U.S. House,23,REP,Mitrano,6
+Allegany,Amity 1,U.S. House,23,REP,Mitrano,4
+Allegany,Amity 2,U.S. House,23,REP,Mitrano,4
+Allegany,Andover 1,U.S. House,23,REP,Mitrano,5
+Allegany,Andover 2,U.S. House,23,REP,Mitrano,4
+Allegany,Angelica 1,U.S. House,23,REP,Mitrano,4
+Allegany,Angelica 2,U.S. House,23,REP,Mitrano,1
+Allegany,Belfast,U.S. House,23,REP,Mitrano,5
+Allegany,Birdsall,U.S. House,23,REP,Mitrano,0
+Allegany,Bolivar,U.S. House,23,REP,Mitrano,8
+Allegany,Burns,U.S. House,23,REP,Mitrano,9
+Allegany,Caneadea 1,U.S. House,23,REP,Mitrano,10
+Allegany,Caneadea 2,U.S. House,23,REP,Mitrano,2
+Allegany,Centerville,U.S. House,23,REP,Mitrano,1
+Allegany,Clarksville,U.S. House,23,REP,Mitrano,8
+Allegany,Cuba 1,U.S. House,23,REP,Mitrano,12
+Allegany,Cuba 2,U.S. House,23,REP,Mitrano,9
+Allegany,Friendship,U.S. House,23,REP,Mitrano,8
+Allegany,Genesee,U.S. House,23,REP,Mitrano,5
+Allegany,Granger,U.S. House,23,REP,Mitrano,2
+Allegany,Grove,U.S. House,23,REP,Mitrano,6
+Allegany,Hume,U.S. House,23,REP,Mitrano,3
+Allegany,Independence,U.S. House,23,REP,Mitrano,4
+Allegany,New Hudson,U.S. House,23,REP,Mitrano,3
+Allegany,Rushford,U.S. House,23,REP,Mitrano,4
+Allegany,Scio,U.S. House,23,REP,Mitrano,7
+Allegany,Ward,U.S. House,23,REP,Mitrano,4
+Allegany,Wellsville 1,U.S. House,23,REP,Mitrano,8
+Allegany,Wellsville 2,U.S. House,23,REP,Mitrano,5
+Allegany,Wellsville 3,U.S. House,23,REP,Mitrano,5
+Allegany,Wellsville 4,U.S. House,23,REP,Mitrano,4
+Allegany,Wellsville 5,U.S. House,23,REP,Mitrano,6
+Allegany,West Almond,U.S. House,23,REP,Mitrano,1
+Allegany,Willing,U.S. House,23,REP,Mitrano,2
+Allegany,Wirt,U.S. House,23,REP,Mitrano,5
+Allegany,Alfred 1,U.S. House,23,CON,Reed,5
+Allegany,Alfred 2,U.S. House,23,CON,Reed,6
+Allegany,Allen,U.S. House,23,CON,Reed,3
+Allegany,Alma,U.S. House,23,CON,Reed,1
+Allegany,Almond,U.S. House,23,CON,Reed,10
+Allegany,Amity 1,U.S. House,23,CON,Reed,5
+Allegany,Amity 2,U.S. House,23,CON,Reed,4
+Allegany,Andover 1,U.S. House,23,CON,Reed,7
+Allegany,Andover 2,U.S. House,23,CON,Reed,1
+Allegany,Angelica 1,U.S. House,23,CON,Reed,2
+Allegany,Angelica 2,U.S. House,23,CON,Reed,0
+Allegany,Belfast,U.S. House,23,CON,Reed,10
+Allegany,Birdsall,U.S. House,23,CON,Reed,0
+Allegany,Bolivar,U.S. House,23,CON,Reed,9
+Allegany,Burns,U.S. House,23,CON,Reed,7
+Allegany,Caneadea 1,U.S. House,23,CON,Reed,2
+Allegany,Caneadea 2,U.S. House,23,CON,Reed,8
+Allegany,Centerville,U.S. House,23,CON,Reed,5
+Allegany,Clarksville,U.S. House,23,CON,Reed,2
+Allegany,Cuba 1,U.S. House,23,CON,Reed,11
+Allegany,Cuba 2,U.S. House,23,CON,Reed,8
+Allegany,Friendship,U.S. House,23,CON,Reed,9
+Allegany,Genesee,U.S. House,23,CON,Reed,2
+Allegany,Granger,U.S. House,23,CON,Reed,0
+Allegany,Grove,U.S. House,23,CON,Reed,2
+Allegany,Hume,U.S. House,23,CON,Reed,0
+Allegany,Independence,U.S. House,23,CON,Reed,3
+Allegany,New Hudson,U.S. House,23,CON,Reed,5
+Allegany,Rushford,U.S. House,23,CON,Reed,6
+Allegany,Scio,U.S. House,23,CON,Reed,1
+Allegany,Ward,U.S. House,23,CON,Reed,1
+Allegany,Wellsville 1,U.S. House,23,CON,Reed,2
+Allegany,Wellsville 2,U.S. House,23,CON,Reed,3
+Allegany,Wellsville 3,U.S. House,23,CON,Reed,8
+Allegany,Wellsville 4,U.S. House,23,CON,Reed,6
+Allegany,Wellsville 5,U.S. House,23,CON,Reed,4
+Allegany,West Almond,U.S. House,23,CON,Reed,0
+Allegany,Willing,U.S. House,23,CON,Reed,5
+Allegany,Wirt,U.S. House,23,CON,Reed,5
+Allegany,Alfred 1,U.S. House,23,CON,Mitrano,13
+Allegany,Alfred 2,U.S. House,23,CON,Mitrano,5
+Allegany,Allen,U.S. House,23,CON,Mitrano,2
+Allegany,Alma,U.S. House,23,CON,Mitrano,2
+Allegany,Almond,U.S. House,23,CON,Mitrano,6
+Allegany,Amity 1,U.S. House,23,CON,Mitrano,1
+Allegany,Amity 2,U.S. House,23,CON,Mitrano,4
+Allegany,Andover 1,U.S. House,23,CON,Mitrano,6
+Allegany,Andover 2,U.S. House,23,CON,Mitrano,4
+Allegany,Angelica 1,U.S. House,23,CON,Mitrano,3
+Allegany,Angelica 2,U.S. House,23,CON,Mitrano,2
+Allegany,Belfast,U.S. House,23,CON,Mitrano,3
+Allegany,Birdsall,U.S. House,23,CON,Mitrano,0
+Allegany,Bolivar,U.S. House,23,CON,Mitrano,2
+Allegany,Burns,U.S. House,23,CON,Mitrano,1
+Allegany,Caneadea 1,U.S. House,23,CON,Mitrano,3
+Allegany,Caneadea 2,U.S. House,23,CON,Mitrano,2
+Allegany,Centerville,U.S. House,23,CON,Mitrano,2
+Allegany,Clarksville,U.S. House,23,CON,Mitrano,2
+Allegany,Cuba 1,U.S. House,23,CON,Mitrano,6
+Allegany,Cuba 2,U.S. House,23,CON,Mitrano,7
+Allegany,Friendship,U.S. House,23,CON,Mitrano,2
+Allegany,Genesee,U.S. House,23,CON,Mitrano,4
+Allegany,Granger,U.S. House,23,CON,Mitrano,0
+Allegany,Grove,U.S. House,23,CON,Mitrano,0
+Allegany,Hume,U.S. House,23,CON,Mitrano,3
+Allegany,Independence,U.S. House,23,CON,Mitrano,2
+Allegany,New Hudson,U.S. House,23,CON,Mitrano,2
+Allegany,Rushford,U.S. House,23,CON,Mitrano,3
+Allegany,Scio,U.S. House,23,CON,Mitrano,3
+Allegany,Ward,U.S. House,23,CON,Mitrano,4
+Allegany,Wellsville 1,U.S. House,23,CON,Mitrano,4
+Allegany,Wellsville 2,U.S. House,23,CON,Mitrano,2
+Allegany,Wellsville 3,U.S. House,23,CON,Mitrano,6
+Allegany,Wellsville 4,U.S. House,23,CON,Mitrano,0
+Allegany,Wellsville 5,U.S. House,23,CON,Mitrano,4
+Allegany,West Almond,U.S. House,23,CON,Mitrano,1
+Allegany,Willing,U.S. House,23,CON,Mitrano,7
+Allegany,Wirt,U.S. House,23,CON,Mitrano,4
+Allegany,Alfred 1,U.S. Senate,,DEM,Gillibrand,290
+Allegany,Alfred 2,U.S. Senate,,DEM,Gillibrand,240
+Allegany,Allen,U.S. Senate,,DEM,Gillibrand,36
+Allegany,Alma,U.S. Senate,,DEM,Gillibrand,65
+Allegany,Almond,U.S. Senate,,DEM,Gillibrand,201
+Allegany,Amity 1,U.S. Senate,,DEM,Gillibrand,148
+Allegany,Amity 2,U.S. Senate,,DEM,Gillibrand,106
+Allegany,Andover 1,U.S. Senate,,DEM,Gillibrand,125
+Allegany,Andover 2,U.S. Senate,,DEM,Gillibrand,66
+Allegany,Angelica 1,U.S. Senate,,DEM,Gillibrand,90
+Allegany,Angelica 2,U.S. Senate,,DEM,Gillibrand,62
+Allegany,Belfast,U.S. Senate,,DEM,Gillibrand,178
+Allegany,Birdsall,U.S. Senate,,DEM,Gillibrand,20
+Allegany,Bolivar,U.S. Senate,,DEM,Gillibrand,209
+Allegany,Burns,U.S. Senate,,DEM,Gillibrand,88
+Allegany,Caneadea 1,U.S. Senate,,DEM,Gillibrand,85
+Allegany,Caneadea 2,U.S. Senate,,DEM,Gillibrand,96
+Allegany,Centerville,U.S. Senate,,DEM,Gillibrand,49
+Allegany,Clarksville,U.S. Senate,,DEM,Gillibrand,107
+Allegany,Cuba 1,U.S. Senate,,DEM,Gillibrand,211
+Allegany,Cuba 2,U.S. Senate,,DEM,Gillibrand,201
+Allegany,Friendship,U.S. Senate,,DEM,Gillibrand,136
+Allegany,Genesee,U.S. Senate,,DEM,Gillibrand,137
+Allegany,Granger,U.S. Senate,,DEM,Gillibrand,28
+Allegany,Grove,U.S. Senate,,DEM,Gillibrand,63
+Allegany,Hume,U.S. Senate,,DEM,Gillibrand,147
+Allegany,Independence,U.S. Senate,,DEM,Gillibrand,96
+Allegany,New Hudson,U.S. Senate,,DEM,Gillibrand,49
+Allegany,Rushford,U.S. Senate,,DEM,Gillibrand,109
+Allegany,Scio,U.S. Senate,,DEM,Gillibrand,177
+Allegany,Ward,U.S. Senate,,DEM,Gillibrand,65
+Allegany,Wellsville 1,U.S. Senate,,DEM,Gillibrand,172
+Allegany,Wellsville 2,U.S. Senate,,DEM,Gillibrand,229
+Allegany,Wellsville 3,U.S. Senate,,DEM,Gillibrand,251
+Allegany,Wellsville 4,U.S. Senate,,DEM,Gillibrand,125
+Allegany,Wellsville 5,U.S. Senate,,DEM,Gillibrand,159
+Allegany,West Almond,U.S. Senate,,DEM,Gillibrand,33
+Allegany,Willing,U.S. Senate,,DEM,Gillibrand,134
+Allegany,Wirt,U.S. Senate,,DEM,Gillibrand,61
+Allegany,Alfred 1,U.S. Senate,,WOR,Gillibrand,16
+Allegany,Alfred 2,U.S. Senate,,WOR,Gillibrand,11
+Allegany,Allen,U.S. Senate,,WOR,Gillibrand,5
+Allegany,Alma,U.S. Senate,,WOR,Gillibrand,6
+Allegany,Almond,U.S. Senate,,WOR,Gillibrand,19
+Allegany,Amity 1,U.S. Senate,,WOR,Gillibrand,2
+Allegany,Amity 2,U.S. Senate,,WOR,Gillibrand,3
+Allegany,Andover 1,U.S. Senate,,WOR,Gillibrand,6
+Allegany,Andover 2,U.S. Senate,,WOR,Gillibrand,6
+Allegany,Angelica 1,U.S. Senate,,WOR,Gillibrand,7
+Allegany,Angelica 2,U.S. Senate,,WOR,Gillibrand,0
+Allegany,Belfast,U.S. Senate,,WOR,Gillibrand,10
+Allegany,Birdsall,U.S. Senate,,WOR,Gillibrand,0
+Allegany,Bolivar,U.S. Senate,,WOR,Gillibrand,14
+Allegany,Burns,U.S. Senate,,WOR,Gillibrand,16
+Allegany,Caneadea 1,U.S. Senate,,WOR,Gillibrand,6
+Allegany,Caneadea 2,U.S. Senate,,WOR,Gillibrand,6
+Allegany,Centerville,U.S. Senate,,WOR,Gillibrand,1
+Allegany,Clarksville,U.S. Senate,,WOR,Gillibrand,9
+Allegany,Cuba 1,U.S. Senate,,WOR,Gillibrand,11
+Allegany,Cuba 2,U.S. Senate,,WOR,Gillibrand,11
+Allegany,Friendship,U.S. Senate,,WOR,Gillibrand,7
+Allegany,Genesee,U.S. Senate,,WOR,Gillibrand,9
+Allegany,Granger,U.S. Senate,,WOR,Gillibrand,5
+Allegany,Grove,U.S. Senate,,WOR,Gillibrand,3
+Allegany,Hume,U.S. Senate,,WOR,Gillibrand,8
+Allegany,Independence,U.S. Senate,,WOR,Gillibrand,4
+Allegany,New Hudson,U.S. Senate,,WOR,Gillibrand,4
+Allegany,Rushford,U.S. Senate,,WOR,Gillibrand,6
+Allegany,Scio,U.S. Senate,,WOR,Gillibrand,13
+Allegany,Ward,U.S. Senate,,WOR,Gillibrand,5
+Allegany,Wellsville 1,U.S. Senate,,WOR,Gillibrand,9
+Allegany,Wellsville 2,U.S. Senate,,WOR,Gillibrand,9
+Allegany,Wellsville 3,U.S. Senate,,WOR,Gillibrand,9
+Allegany,Wellsville 4,U.S. Senate,,WOR,Gillibrand,8
+Allegany,Wellsville 5,U.S. Senate,,WOR,Gillibrand,13
+Allegany,West Almond,U.S. Senate,,WOR,Gillibrand,1
+Allegany,Willing,U.S. Senate,,WOR,Gillibrand,11
+Allegany,Wirt,U.S. Senate,,WOR,Gillibrand,6
+Allegany,Alfred 1,U.S. Senate,,IND,Gillibrand,8
+Allegany,Alfred 2,U.S. Senate,,IND,Gillibrand,8
+Allegany,Allen,U.S. Senate,,IND,Gillibrand,2
+Allegany,Alma,U.S. Senate,,IND,Gillibrand,1
+Allegany,Almond,U.S. Senate,,IND,Gillibrand,10
+Allegany,Amity 1,U.S. Senate,,IND,Gillibrand,6
+Allegany,Amity 2,U.S. Senate,,IND,Gillibrand,3
+Allegany,Andover 1,U.S. Senate,,IND,Gillibrand,6
+Allegany,Andover 2,U.S. Senate,,IND,Gillibrand,3
+Allegany,Angelica 1,U.S. Senate,,IND,Gillibrand,1
+Allegany,Angelica 2,U.S. Senate,,IND,Gillibrand,1
+Allegany,Belfast,U.S. Senate,,IND,Gillibrand,5
+Allegany,Birdsall,U.S. Senate,,IND,Gillibrand,0
+Allegany,Bolivar,U.S. Senate,,IND,Gillibrand,8
+Allegany,Burns,U.S. Senate,,IND,Gillibrand,3
+Allegany,Caneadea 1,U.S. Senate,,IND,Gillibrand,6
+Allegany,Caneadea 2,U.S. Senate,,IND,Gillibrand,5
+Allegany,Centerville,U.S. Senate,,IND,Gillibrand,3
+Allegany,Clarksville,U.S. Senate,,IND,Gillibrand,3
+Allegany,Cuba 1,U.S. Senate,,IND,Gillibrand,16
+Allegany,Cuba 2,U.S. Senate,,IND,Gillibrand,19
+Allegany,Friendship,U.S. Senate,,IND,Gillibrand,7
+Allegany,Genesee,U.S. Senate,,IND,Gillibrand,3
+Allegany,Granger,U.S. Senate,,IND,Gillibrand,5
+Allegany,Grove,U.S. Senate,,IND,Gillibrand,4
+Allegany,Hume,U.S. Senate,,IND,Gillibrand,8
+Allegany,Independence,U.S. Senate,,IND,Gillibrand,6
+Allegany,New Hudson,U.S. Senate,,IND,Gillibrand,8
+Allegany,Rushford,U.S. Senate,,IND,Gillibrand,6
+Allegany,Scio,U.S. Senate,,IND,Gillibrand,2
+Allegany,Ward,U.S. Senate,,IND,Gillibrand,3
+Allegany,Wellsville 1,U.S. Senate,,IND,Gillibrand,9
+Allegany,Wellsville 2,U.S. Senate,,IND,Gillibrand,5
+Allegany,Wellsville 3,U.S. Senate,,IND,Gillibrand,12
+Allegany,Wellsville 4,U.S. Senate,,IND,Gillibrand,6
+Allegany,Wellsville 5,U.S. Senate,,IND,Gillibrand,6
+Allegany,West Almond,U.S. Senate,,IND,Gillibrand,2
+Allegany,Willing,U.S. Senate,,IND,Gillibrand,6
+Allegany,Alfred 1,U.S. Senate,,IND,Gillibrand,7
+Allegany,Alfred 2,U.S. Senate,,WEP,Gillibrand,5
+Allegany,Allen,U.S. Senate,,WEP,Gillibrand,7
+Allegany,Alma,U.S. Senate,,WEP,Gillibrand,0
+Allegany,Almond,U.S. Senate,,WEP,Gillibrand,0
+Allegany,Amity 1,U.S. Senate,,WEP,Gillibrand,6
+Allegany,Amity 2,U.S. Senate,,WEP,Gillibrand,0
+Allegany,Andover 1,U.S. Senate,,WEP,Gillibrand,3
+Allegany,Andover 2,U.S. Senate,,WEP,Gillibrand,3
+Allegany,Angelica 1,U.S. Senate,,WEP,Gillibrand,3
+Allegany,Angelica 2,U.S. Senate,,WEP,Gillibrand,3
+Allegany,Belfast,U.S. Senate,,WEP,Gillibrand,2
+Allegany,Birdsall,U.S. Senate,,WEP,Gillibrand,3
+Allegany,Bolivar,U.S. Senate,,WEP,Gillibrand,1
+Allegany,Burns,U.S. Senate,,WEP,Gillibrand,2
+Allegany,Caneadea 1,U.S. Senate,,WEP,Gillibrand,3
+Allegany,Caneadea 2,U.S. Senate,,WEP,Gillibrand,1
+Allegany,Centerville,U.S. Senate,,WEP,Gillibrand,2
+Allegany,Clarksville,U.S. Senate,,WEP,Gillibrand,0
+Allegany,Cuba 1,U.S. Senate,,WEP,Gillibrand,1
+Allegany,Cuba 2,U.S. Senate,,WEP,Gillibrand,6
+Allegany,Friendship,U.S. Senate,,WEP,Gillibrand,2
+Allegany,Genesee,U.S. Senate,,WEP,Gillibrand,3
+Allegany,Granger,U.S. Senate,,WEP,Gillibrand,0
+Allegany,Grove,U.S. Senate,,WEP,Gillibrand,0
+Allegany,Hume,U.S. Senate,,WEP,Gillibrand,0
+Allegany,Independence,U.S. Senate,,WEP,Gillibrand,3
+Allegany,New Hudson,U.S. Senate,,WEP,Gillibrand,2
+Allegany,Rushford,U.S. Senate,,WEP,Gillibrand,2
+Allegany,Scio,U.S. Senate,,WEP,Gillibrand,3
+Allegany,Ward,U.S. Senate,,WEP,Gillibrand,6
+Allegany,Wellsville 1,U.S. Senate,,WEP,Gillibrand,4
+Allegany,Wellsville 2,U.S. Senate,,WEP,Gillibrand,1
+Allegany,Wellsville 3,U.S. Senate,,WEP,Gillibrand,2
+Allegany,Wellsville 4,U.S. Senate,,WEP,Gillibrand,10
+Allegany,Wellsville 5,U.S. Senate,,WEP,Gillibrand,1
+Allegany,West Almond,U.S. Senate,,WEP,Gillibrand,1
+Allegany,Willing,U.S. Senate,,WEP,Gillibrand,1
+Allegany,Alfred 1,U.S. Senate,,WEP,Gillibrand,6
+Allegany,Alfred 2,U.S. Senate,,WEP,Gillibrand,1
+Allegany,Allen,U.S. Senate,,REP,Farley,73
+Allegany,Alma,U.S. Senate,,REP,Farley,189
+Allegany,Almond,U.S. Senate,,REP,Farley,88
+Allegany,Amity 1,U.S. Senate,,REP,Farley,176
+Allegany,Amity 2,U.S. Senate,,REP,Farley,335
+Allegany,Andover 1,U.S. Senate,,REP,Farley,274
+Allegany,Andover 2,U.S. Senate,,REP,Farley,153
+Allegany,Angelica 1,U.S. Senate,,REP,Farley,216
+Allegany,Angelica 2,U.S. Senate,,REP,Farley,197
+Allegany,Belfast,U.S. Senate,,REP,Farley,179
+Allegany,Birdsall,U.S. Senate,,REP,Farley,153
+Allegany,Bolivar,U.S. Senate,,REP,Farley,322
+Allegany,Burns,U.S. Senate,,REP,Farley,51
+Allegany,Caneadea 1,U.S. Senate,,REP,Farley,358
+Allegany,Caneadea 2,U.S. Senate,,REP,Farley,216
+Allegany,Centerville,U.S. Senate,,REP,Farley,154
+Allegany,Clarksville,U.S. Senate,,REP,Farley,196
+Allegany,Cuba 1,U.S. Senate,,REP,Farley,139
+Allegany,Cuba 2,U.S. Senate,,REP,Farley,191
+Allegany,Friendship,U.S. Senate,,REP,Farley,220
+Allegany,Genesee,U.S. Senate,,REP,Farley,351
+Allegany,Granger,U.S. Senate,,REP,Farley,311
+Allegany,Grove,U.S. Senate,,REP,Farley,315
+Allegany,Hume,U.S. Senate,,REP,Farley,131
+Allegany,Independence,U.S. Senate,,REP,Farley,123
+Allegany,New Hudson,U.S. Senate,,REP,Farley,343
+Allegany,Rushford,U.S. Senate,,REP,Farley,199
+Allegany,Scio,U.S. Senate,,REP,Farley,145
+Allegany,Ward,U.S. Senate,,REP,Farley,312
+Allegany,Wellsville 1,U.S. Senate,,REP,Farley,348
+Allegany,Wellsville 2,U.S. Senate,,REP,Farley,79
+Allegany,Wellsville 3,U.S. Senate,,REP,Farley,226
+Allegany,Wellsville 4,U.S. Senate,,REP,Farley,221
+Allegany,Wellsville 5,U.S. Senate,,REP,Farley,250
+Allegany,West Almond,U.S. Senate,,REP,Farley,212
+Allegany,Willing,U.S. Senate,,REP,Farley,287
+Allegany,Wirt,U.S. Senate,,REP,Farley,72
+Allegany,Wirt,U.S. Senate,,REP,Farley,266
+Allegany,Wirt,U.S. Senate,,REP,Farley,234
+Allegany,Alfred 1,U.S. Senate,,CON,Farley,15
+Allegany,Alfred 2,U.S. Senate,,CON,Farley,35
+Allegany,Allen,U.S. Senate,,CON,Farley,11
+Allegany,Alma,U.S. Senate,,CON,Farley,21
+Allegany,Almond,U.S. Senate,,CON,Farley,54
+Allegany,Amity 1,U.S. Senate,,CON,Farley,18
+Allegany,Amity 2,U.S. Senate,,CON,Farley,14
+Allegany,Andover 1,U.S. Senate,,CON,Farley,27
+Allegany,Andover 2,U.S. Senate,,CON,Farley,11
+Allegany,Angelica 1,U.S. Senate,,CON,Farley,15
+Allegany,Angelica 2,U.S. Senate,,CON,Farley,11
+Allegany,Belfast,U.S. Senate,,CON,Farley,35
+Allegany,Birdsall,U.S. Senate,,CON,Farley,6
+Allegany,Bolivar,U.S. Senate,,CON,Farley,28
+Allegany,Burns,U.S. Senate,,CON,Farley,33
+Allegany,Caneadea 1,U.S. Senate,,CON,Farley,20
+Allegany,Caneadea 2,U.S. Senate,,CON,Farley,24
+Allegany,Centerville,U.S. Senate,,CON,Farley,28
+Allegany,Clarksville,U.S. Senate,,CON,Farley,13
+Allegany,Cuba 1,U.S. Senate,,CON,Farley,18
+Allegany,Cuba 2,U.S. Senate,,CON,Farley,24
+Allegany,Friendship,U.S. Senate,,CON,Farley,41
+Allegany,Genesee,U.S. Senate,,CON,Farley,35
+Allegany,Granger,U.S. Senate,,CON,Farley,20
+Allegany,Grove,U.S. Senate,,CON,Farley,28
+Allegany,Hume,U.S. Senate,,CON,Farley,48
+Allegany,Independence,U.S. Senate,,CON,Farley,15
+Allegany,New Hudson,U.S. Senate,,CON,Farley,17
+Allegany,Rushford,U.S. Senate,,CON,Farley,54
+Allegany,Scio,U.S. Senate,,CON,Farley,23
+Allegany,Ward,U.S. Senate,,CON,Farley,6
+Allegany,Wellsville 1,U.S. Senate,,CON,Farley,20
+Allegany,Wellsville 2,U.S. Senate,,CON,Farley,11
+Allegany,Wellsville 3,U.S. Senate,,CON,Farley,21
+Allegany,Wellsville 4,U.S. Senate,,CON,Farley,18
+Allegany,Wellsville 5,U.S. Senate,,CON,Farley,13
+Allegany,West Almond,U.S. Senate,,CON,Farley,11
+Allegany,Willing,U.S. Senate,,CON,Farley,24
+Allegany,Wirt,U.S. Senate,,CON,Farley,26
+Allegany,Alfred 1,U.S. Senate,,REF,Farley,0
+Allegany,Alfred 2,U.S. Senate,,REF,Farley,2
+Allegany,Allen,U.S. Senate,,REF,Farley,1
+Allegany,Alma,U.S. Senate,,REF,Farley,1
+Allegany,Almond,U.S. Senate,,REF,Farley,2
+Allegany,Amity 1,U.S. Senate,,REF,Farley,1
+Allegany,Amity 2,U.S. Senate,,REF,Farley,2
+Allegany,Andover 1,U.S. Senate,,REF,Farley,0
+Allegany,Andover 2,U.S. Senate,,REF,Farley,1
+Allegany,Angelica 1,U.S. Senate,,REF,Farley,1
+Allegany,Angelica 2,U.S. Senate,,REF,Farley,0
+Allegany,Belfast,U.S. Senate,,REF,Farley,4
+Allegany,Birdsall,U.S. Senate,,REF,Farley,0
+Allegany,Bolivar,U.S. Senate,,REF,Farley,2
+Allegany,Burns,U.S. Senate,,REF,Farley,3
+Allegany,Caneadea 1,U.S. Senate,,REF,Farley,1
+Allegany,Caneadea 2,U.S. Senate,,REF,Farley,2
+Allegany,Centerville,U.S. Senate,,REF,Farley,2
+Allegany,Clarksville,U.S. Senate,,REF,Farley,3
+Allegany,Cuba 1,U.S. Senate,,REF,Farley,6
+Allegany,Cuba 2,U.S. Senate,,REF,Farley,3
+Allegany,Friendship,U.S. Senate,,REF,Farley,4
+Allegany,Genesee,U.S. Senate,,REF,Farley,3
+Allegany,Granger,U.S. Senate,,REF,Farley,0
+Allegany,Grove,U.S. Senate,,REF,Farley,1
+Allegany,Hume,U.S. Senate,,REF,Farley,3
+Allegany,Independence,U.S. Senate,,REF,Farley,1
+Allegany,New Hudson,U.S. Senate,,REF,Farley,1
+Allegany,Rushford,U.S. Senate,,REF,Farley,1
+Allegany,Scio,U.S. Senate,,REF,Farley,4
+Allegany,Ward,U.S. Senate,,REF,Farley,3
+Allegany,Wellsville 1,U.S. Senate,,REF,Farley,0
+Allegany,Wellsville 2,U.S. Senate,,REF,Farley,2
+Allegany,Wellsville 3,U.S. Senate,,REF,Farley,3
+Allegany,Wellsville 4,U.S. Senate,,REF,Farley,0
+Allegany,Wellsville 5,U.S. Senate,,REF,Farley,0
+Allegany,West Almond,U.S. Senate,,REF,Farley,0
+Allegany,Willing,U.S. Senate,,REF,Farley,0
+Allegany,Wirt,U.S. Senate,,REF,Farley,1
+Allegany,Alfred 1,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,235
+Allegany,Alfred 2,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,179
+Allegany,Allen,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,18
+Allegany,Alma,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,39
+Allegany,Almond,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,130
+Allegany,Amity 1,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,90
+Allegany,Amity 2,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,66
+Allegany,Andover 1,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,79
+Allegany,Andover 2,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,45
+Allegany,Angelica 1,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,59
+Allegany,Angelica 2,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,44
+Allegany,Belfast,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,118
+Allegany,Birdsall,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,16
+Allegany,Bolivar,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,134
+Allegany,Burns,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,47
+Allegany,Caneadea 1,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,54
+Allegany,Caneadea 2,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,66
+Allegany,Centerville,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,28
+Allegany,Clarksville,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,79
+Allegany,Cuba 1,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,153
+Allegany,Cuba 2,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,148
+Allegany,Friendship,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,89
+Allegany,Genesee,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,77
+Allegany,Granger,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,15
+Allegany,Grove,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,37
+Allegany,Hume,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,94
+Allegany,Independence,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,66
+Allegany,New Hudson,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,31
+Allegany,Rushford,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,76
+Allegany,Scio,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,111
+Allegany,Ward,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,36
+Allegany,Wellsville 1,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,126
+Allegany,Wellsville 2,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,172
+Allegany,Wellsville 3,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,167
+Allegany,Wellsville 4,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,80
+Allegany,Wellsville 5,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,112
+Allegany,West Almond,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,20
+Allegany,Willing,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,84
+Allegany,Wirt,GOVERNOR/ LT.,,DEM,Cuomo / Hochul,34
+Allegany,Alfred 1,GOVERNOR/ LT.,,DEM,Molinaro / Killian,74
+Allegany,Alfred 2,GOVERNOR/ LT.,,DEM,Molinaro / Killian,196
+Allegany,Allen,GOVERNOR/ LT.,,DEM,Molinaro / Killian,101
+Allegany,Alma,GOVERNOR/ LT.,,DEM,Molinaro / Killian,192
+Allegany,Almond,GOVERNOR/ LT.,,DEM,Molinaro / Killian,363
+Allegany,Amity 1,GOVERNOR/ LT.,,DEM,Molinaro / Killian,306
+Allegany,Amity 2,GOVERNOR/ LT.,,DEM,Molinaro / Killian,181
+Allegany,Andover 1,GOVERNOR/ LT.,,DEM,Molinaro / Killian,241
+Allegany,Andover 2,GOVERNOR/ LT.,,DEM,Molinaro / Killian,197
+Allegany,Angelica 1,GOVERNOR/ LT.,,DEM,Molinaro / Killian,201
+Allegany,Angelica 2,GOVERNOR/ LT.,,DEM,Molinaro / Killian,161
+Allegany,Belfast,GOVERNOR/ LT.,,DEM,Molinaro / Killian,344
+Allegany,Birdsall,GOVERNOR/ LT.,,DEM,Molinaro / Killian,56
+Allegany,Bolivar,GOVERNOR/ LT.,,DEM,Molinaro / Killian,395
+Allegany,Burns,GOVERNOR/ LT.,,DEM,Molinaro / Killian,247
+Allegany,Caneadea 1,GOVERNOR/ LT.,,DEM,Molinaro / Killian,171
+Allegany,Caneadea 2,GOVERNOR/ LT.,,DEM,Molinaro / Killian,209
+Allegany,Centerville,GOVERNOR/ LT.,,DEM,Molinaro / Killian,151
+Allegany,Clarksville,GOVERNOR/ LT.,,DEM,Molinaro / Killian,198
+Allegany,Cuba 1,GOVERNOR/ LT.,,DEM,Molinaro / Killian,255
+Allegany,Cuba 2,GOVERNOR/ LT.,,DEM,Molinaro / Killian,398
+Allegany,Friendship,GOVERNOR/ LT.,,DEM,Molinaro / Killian,356
+Allegany,Genesee,GOVERNOR/ LT.,,DEM,Molinaro / Killian,341
+Allegany,Granger,GOVERNOR/ LT.,,DEM,Molinaro / Killian,143
+Allegany,Grove,GOVERNOR/ LT.,,DEM,Molinaro / Killian,132
+Allegany,Hume,GOVERNOR/ LT.,,DEM,Molinaro / Killian,385
+Allegany,Independence,GOVERNOR/ LT.,,DEM,Molinaro / Killian,225
+Allegany,New Hudson,GOVERNOR/ LT.,,DEM,Molinaro / Killian,160
+Allegany,Rushford,GOVERNOR/ LT.,,DEM,Molinaro / Killian,322
+Allegany,Scio,GOVERNOR/ LT.,,DEM,Molinaro / Killian,400
+Allegany,Ward,GOVERNOR/ LT.,,DEM,Molinaro / Killian,97
+Allegany,Wellsville 1,GOVERNOR/ LT.,,DEM,Molinaro / Killian,252
+Allegany,Wellsville 2,GOVERNOR/ LT.,,DEM,Molinaro / Killian,258
+Allegany,Wellsville 3,GOVERNOR/ LT.,,DEM,Molinaro / Killian,322
+Allegany,Wellsville 4,GOVERNOR/ LT.,,DEM,Molinaro / Killian,249
+Allegany,Wellsville 5,GOVERNOR/ LT.,,DEM,Molinaro / Killian,327
+Allegany,West Almond,GOVERNOR/ LT.,,DEM,Molinaro / Killian,75
+Allegany,Willing,GOVERNOR/ LT.,,DEM,Molinaro / Killian,306
+Allegany,Wirt,GOVERNOR/ LT.,,DEM,Molinaro / Killian,247
+Allegany,Alfred 1,GOVERNOR/ LT.,,CON,Molinaro / Killian,11
+Allegany,Alfred 2,GOVERNOR/ LT.,,CON,Molinaro / Killian,26
+Allegany,Allen,GOVERNOR/ LT.,,CON,Molinaro / Killian,11
+Allegany,Alma,GOVERNOR/ LT.,,CON,Molinaro / Killian,15
+Allegany,Almond,GOVERNOR/ LT.,,CON,Molinaro / Killian,43
+Allegany,Amity 1,GOVERNOR/ LT.,,CON,Molinaro / Killian,22
+Allegany,Amity 2,GOVERNOR/ LT.,,CON,Molinaro / Killian,12
+Allegany,Andover 1,GOVERNOR/ LT.,,CON,Molinaro / Killian,23
+Allegany,Andover 2,GOVERNOR/ LT.,,CON,Molinaro / Killian,10
+Allegany,Angelica 1,GOVERNOR/ LT.,,CON,Molinaro / Killian,12
+Allegany,Angelica 2,GOVERNOR/ LT.,,CON,Molinaro / Killian,8
+Allegany,Belfast,GOVERNOR/ LT.,,CON,Molinaro / Killian,27
+Allegany,Birdsall,GOVERNOR/ LT.,,CON,Molinaro / Killian,5
+Allegany,Bolivar,GOVERNOR/ LT.,,CON,Molinaro / Killian,32
+Allegany,Burns,GOVERNOR/ LT.,,CON,Molinaro / Killian,33
+Allegany,Caneadea 1,GOVERNOR/ LT.,,CON,Molinaro / Killian,19
+Allegany,Caneadea 2,GOVERNOR/ LT.,,CON,Molinaro / Killian,28
+Allegany,Centerville,GOVERNOR/ LT.,,CON,Molinaro / Killian,28
+Allegany,Clarksville,GOVERNOR/ LT.,,CON,Molinaro / Killian,14
+Allegany,Cuba 1,GOVERNOR/ LT.,,CON,Molinaro / Killian,16
+Allegany,Cuba 2,GOVERNOR/ LT.,,CON,Molinaro / Killian,23
+Allegany,Friendship,GOVERNOR/ LT.,,CON,Molinaro / Killian,26
+Allegany,Genesee,GOVERNOR/ LT.,,CON,Molinaro / Killian,29
+Allegany,Granger,GOVERNOR/ LT.,,CON,Molinaro / Killian,20
+Allegany,Grove,GOVERNOR/ LT.,,CON,Molinaro / Killian,30
+Allegany,Hume,GOVERNOR/ LT.,,CON,Molinaro / Killian,44
+Allegany,Independence,GOVERNOR/ LT.,,CON,Molinaro / Killian,17
+Allegany,New Hudson,GOVERNOR/ LT.,,CON,Molinaro / Killian,23
+Allegany,Rushford,GOVERNOR/ LT.,,CON,Molinaro / Killian,44
+Allegany,Scio,GOVERNOR/ LT.,,CON,Molinaro / Killian,30
+Allegany,Ward,GOVERNOR/ LT.,,CON,Molinaro / Killian,8
+Allegany,Wellsville 1,GOVERNOR/ LT.,,CON,Molinaro / Killian,20
+Allegany,Wellsville 2,GOVERNOR/ LT.,,CON,Molinaro / Killian,14
+Allegany,Wellsville 3,GOVERNOR/ LT.,,CON,Molinaro / Killian,22
+Allegany,Wellsville 4,GOVERNOR/ LT.,,CON,Molinaro / Killian,17
+Allegany,Wellsville 5,GOVERNOR/ LT.,,CON,Molinaro / Killian,18
+Allegany,West Almond,GOVERNOR/ LT.,,CON,Molinaro / Killian,12
+Allegany,Willing,GOVERNOR/ LT.,,CON,Molinaro / Killian,25
+Allegany,Wirt,GOVERNOR/ LT.,,CON,Molinaro / Killian,16
+Allegany,Alfred 1,GOVERNOR/ LT.,,GRE,Hawkins / Lee,34
+Allegany,Alfred 2,GOVERNOR/ LT.,,GRE,Hawkins / Lee,13
+Allegany,Allen,GOVERNOR/ LT.,,GRE,Hawkins / Lee,1
+Allegany,Alma,GOVERNOR/ LT.,,GRE,Hawkins / Lee,2
+Allegany,Almond,GOVERNOR/ LT.,,GRE,Hawkins / Lee,14
+Allegany,Amity 1,GOVERNOR/ LT.,,GRE,Hawkins / Lee,4
+Allegany,Amity 2,GOVERNOR/ LT.,,GRE,Hawkins / Lee,3
+Allegany,Andover 1,GOVERNOR/ LT.,,GRE,Hawkins / Lee,3
+Allegany,Andover 2,GOVERNOR/ LT.,,GRE,Hawkins / Lee,2
+Allegany,Angelica 1,GOVERNOR/ LT.,,GRE,Hawkins / Lee,3
+Allegany,Angelica 2,GOVERNOR/ LT.,,GRE,Hawkins / Lee,1
+Allegany,Belfast,GOVERNOR/ LT.,,GRE,Hawkins / Lee,3
+Allegany,Birdsall,GOVERNOR/ LT.,,GRE,Hawkins / Lee,0
+Allegany,Bolivar,GOVERNOR/ LT.,,GRE,Hawkins / Lee,8
+Allegany,Burns,GOVERNOR/ LT.,,GRE,Hawkins / Lee,3
+Allegany,Caneadea 1,GOVERNOR/ LT.,,GRE,Hawkins / Lee,2
+Allegany,Caneadea 2,GOVERNOR/ LT.,,GRE,Hawkins / Lee,8
+Allegany,Centerville,GOVERNOR/ LT.,,GRE,Hawkins / Lee,1
+Allegany,Clarksville,GOVERNOR/ LT.,,GRE,Hawkins / Lee,1
+Allegany,Cuba 1,GOVERNOR/ LT.,,GRE,Hawkins / Lee,10
+Allegany,Cuba 2,GOVERNOR/ LT.,,GRE,Hawkins / Lee,3
+Allegany,Friendship,GOVERNOR/ LT.,,GRE,Hawkins / Lee,2
+Allegany,Genesee,GOVERNOR/ LT.,,GRE,Hawkins / Lee,7
+Allegany,Granger,GOVERNOR/ LT.,,GRE,Hawkins / Lee,1
+Allegany,Grove,GOVERNOR/ LT.,,GRE,Hawkins / Lee,1
+Allegany,Hume,GOVERNOR/ LT.,,GRE,Hawkins / Lee,11
+Allegany,Independence,GOVERNOR/ LT.,,GRE,Hawkins / Lee,1
+Allegany,New Hudson,GOVERNOR/ LT.,,GRE,Hawkins / Lee,3
+Allegany,Rushford,GOVERNOR/ LT.,,GRE,Hawkins / Lee,4
+Allegany,Scio,GOVERNOR/ LT.,,GRE,Hawkins / Lee,5
+Allegany,Ward,GOVERNOR/ LT.,,GRE,Hawkins / Lee,7
+Allegany,Wellsville 1,GOVERNOR/ LT.,,GRE,Hawkins / Lee,2
+Allegany,Wellsville 2,GOVERNOR/ LT.,,GRE,Hawkins / Lee,0
+Allegany,Wellsville 3,GOVERNOR/ LT.,,GRE,Hawkins / Lee,8
+Allegany,Wellsville 4,GOVERNOR/ LT.,,GRE,Hawkins / Lee,4
+Allegany,Wellsville 5,GOVERNOR/ LT.,,GRE,Hawkins / Lee,2
+Allegany,West Almond,GOVERNOR/ LT.,,GRE,Hawkins / Lee,2
+Allegany,Willing,GOVERNOR/ LT.,,GRE,Hawkins / Lee,4
+Allegany,Wirt,GOVERNOR/ LT.,,GRE,Hawkins / Lee,0
+Allegany,Alfred 1,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,8
+Allegany,Alfred 2,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,4
+Allegany,Allen,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,0
+Allegany,Alma,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,0
+Allegany,Almond,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,5
+Allegany,Amity 1,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,1
+Allegany,Amity 2,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,0
+Allegany,Andover 1,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,1
+Allegany,Andover 2,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,1
+Allegany,Angelica 1,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,2
+Allegany,Angelica 2,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,0
+Allegany,Belfast,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,3
+Allegany,Birdsall,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,0
+Allegany,Bolivar,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,4
+Allegany,Burns,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,2
+Allegany,Caneadea 1,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,3
+Allegany,Caneadea 2,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,0
+Allegany,Centerville,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,1
+Allegany,Clarksville,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,3
+Allegany,Cuba 1,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,6
+Allegany,Cuba 2,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,4
+Allegany,Friendship,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,3
+Allegany,Genesee,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,3
+Allegany,Granger,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,2
+Allegany,Grove,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,1
+Allegany,Hume,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,1
+Allegany,Independence,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,2
+Allegany,New Hudson,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,3
+Allegany,Rushford,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,2
+Allegany,Scio,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,0
+Allegany,Ward,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,2
+Allegany,Wellsville 1,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,1
+Allegany,Wellsville 2,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,2
+Allegany,Wellsville 3,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,3
+Allegany,Wellsville 4,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,1
+Allegany,Wellsville 5,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,3
+Allegany,West Almond,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,0
+Allegany,Willing,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,1
+Allegany,Wirt,GOVERNOR/ LT.,,WOR,Cuomo / Hochul,2
+Allegany,Alfred 1,GOVERNOR/ LT.,,IND,Cuomo / Hochul,6
+Allegany,Alfred 2,GOVERNOR/ LT.,,IND,Cuomo / Hochul,5
+Allegany,Allen,GOVERNOR/ LT.,,IND,Cuomo / Hochul,3
+Allegany,Alma,GOVERNOR/ LT.,,IND,Cuomo / Hochul,0
+Allegany,Almond,GOVERNOR/ LT.,,IND,Cuomo / Hochul,2
+Allegany,Amity 1,GOVERNOR/ LT.,,IND,Cuomo / Hochul,2
+Allegany,Amity 2,GOVERNOR/ LT.,,IND,Cuomo / Hochul,3
+Allegany,Andover 1,GOVERNOR/ LT.,,IND,Cuomo / Hochul,3
+Allegany,Andover 2,GOVERNOR/ LT.,,IND,Cuomo / Hochul,2
+Allegany,Angelica 1,GOVERNOR/ LT.,,IND,Cuomo / Hochul,1
+Allegany,Angelica 2,GOVERNOR/ LT.,,IND,Cuomo / Hochul,0
+Allegany,Belfast,GOVERNOR/ LT.,,IND,Cuomo / Hochul,3
+Allegany,Birdsall,GOVERNOR/ LT.,,IND,Cuomo / Hochul,0
+Allegany,Bolivar,GOVERNOR/ LT.,,IND,Cuomo / Hochul,4
+Allegany,Burns,GOVERNOR/ LT.,,IND,Cuomo / Hochul,1
+Allegany,Caneadea 1,GOVERNOR/ LT.,,IND,Cuomo / Hochul,4
+Allegany,Caneadea 2,GOVERNOR/ LT.,,IND,Cuomo / Hochul,2
+Allegany,Centerville,GOVERNOR/ LT.,,IND,Cuomo / Hochul,2
+Allegany,Clarksville,GOVERNOR/ LT.,,IND,Cuomo / Hochul,2
+Allegany,Cuba 1,GOVERNOR/ LT.,,IND,Cuomo / Hochul,7
+Allegany,Cuba 2,GOVERNOR/ LT.,,IND,Cuomo / Hochul,6
+Allegany,Friendship,GOVERNOR/ LT.,,IND,Cuomo / Hochul,1
+Allegany,Genesee,GOVERNOR/ LT.,,IND,Cuomo / Hochul,2
+Allegany,Granger,GOVERNOR/ LT.,,IND,Cuomo / Hochul,2
+Allegany,Grove,GOVERNOR/ LT.,,IND,Cuomo / Hochul,0
+Allegany,Hume,GOVERNOR/ LT.,,IND,Cuomo / Hochul,4
+Allegany,Independence,GOVERNOR/ LT.,,IND,Cuomo / Hochul,1
+Allegany,New Hudson,GOVERNOR/ LT.,,IND,Cuomo / Hochul,4
+Allegany,Rushford,GOVERNOR/ LT.,,IND,Cuomo / Hochul,3
+Allegany,Scio,GOVERNOR/ LT.,,IND,Cuomo / Hochul,1
+Allegany,Ward,GOVERNOR/ LT.,,IND,Cuomo / Hochul,1
+Allegany,Wellsville 1,GOVERNOR/ LT.,,IND,Cuomo / Hochul,4
+Allegany,Wellsville 2,GOVERNOR/ LT.,,IND,Cuomo / Hochul,5
+Allegany,Wellsville 3,GOVERNOR/ LT.,,IND,Cuomo / Hochul,7
+Allegany,Wellsville 4,GOVERNOR/ LT.,,IND,Cuomo / Hochul,4
+Allegany,Wellsville 5,GOVERNOR/ LT.,,IND,Cuomo / Hochul,3
+Allegany,West Almond,GOVERNOR/ LT.,,IND,Cuomo / Hochul,0
+Allegany,Willing,GOVERNOR/ LT.,,IND,Cuomo / Hochul,4
+Allegany,Wirt,GOVERNOR/ LT.,,IND,Cuomo / Hochul,2
+Allegany,Alfred 1,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,5
+Allegany,Alfred 2,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,2
+Allegany,Allen,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,0
+Allegany,Alma,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,0
+Allegany,Almond,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,2
+Allegany,Amity 1,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,0
+Allegany,Amity 2,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,2
+Allegany,Andover 1,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,4
+Allegany,Andover 2,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,1
+Allegany,Angelica 1,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,3
+Allegany,Angelica 2,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,0
+Allegany,Belfast,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,0
+Allegany,Birdsall,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,0
+Allegany,Bolivar,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,0
+Allegany,Burns,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,2
+Allegany,Caneadea 1,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,1
+Allegany,Caneadea 2,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,2
+Allegany,Centerville,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,0
+Allegany,Clarksville,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,1
+Allegany,Cuba 1,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,1
+Allegany,Cuba 2,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,2
+Allegany,Friendship,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,1
+Allegany,Genesee,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,0
+Allegany,Granger,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,0
+Allegany,Grove,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,1
+Allegany,Hume,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,1
+Allegany,Independence,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,1
+Allegany,New Hudson,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,2
+Allegany,Rushford,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,1
+Allegany,Scio,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,1
+Allegany,Ward,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,0
+Allegany,Wellsville 1,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,1
+Allegany,Wellsville 2,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,0
+Allegany,Wellsville 3,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,3
+Allegany,Wellsville 4,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,0
+Allegany,Wellsville 5,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,0
+Allegany,West Almond,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,1
+Allegany,Willing,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,4
+Allegany,Wirt,GOVERNOR/ LT.,,WEP,Cuomo / Hochul,1
+Allegany,Alfred 1,GOVERNOR/ LT.,,REF,Molinaro / Killian,1
+Allegany,Alfred 2,GOVERNOR/ LT.,,REF,Molinaro / Killian,2
+Allegany,Allen,GOVERNOR/ LT.,,REF,Molinaro / Killian,0
+Allegany,Alma,GOVERNOR/ LT.,,REF,Molinaro / Killian,1
+Allegany,Almond,GOVERNOR/ LT.,,REF,Molinaro / Killian,2
+Allegany,Amity 1,GOVERNOR/ LT.,,REF,Molinaro / Killian,3
+Allegany,Amity 2,GOVERNOR/ LT.,,REF,Molinaro / Killian,1
+Allegany,Andover 1,GOVERNOR/ LT.,,REF,Molinaro / Killian,3
+Allegany,Andover 2,GOVERNOR/ LT.,,REF,Molinaro / Killian,1
+Allegany,Angelica 1,GOVERNOR/ LT.,,REF,Molinaro / Killian,0
+Allegany,Angelica 2,GOVERNOR/ LT.,,REF,Molinaro / Killian,0
+Allegany,Belfast,GOVERNOR/ LT.,,REF,Molinaro / Killian,3
+Allegany,Birdsall,GOVERNOR/ LT.,,REF,Molinaro / Killian,0
+Allegany,Bolivar,GOVERNOR/ LT.,,REF,Molinaro / Killian,4
+Allegany,Burns,GOVERNOR/ LT.,,REF,Molinaro / Killian,1
+Allegany,Caneadea 1,GOVERNOR/ LT.,,REF,Molinaro / Killian,1
+Allegany,Caneadea 2,GOVERNOR/ LT.,,REF,Molinaro / Killian,1
+Allegany,Centerville,GOVERNOR/ LT.,,REF,Molinaro / Killian,1
+Allegany,Clarksville,GOVERNOR/ LT.,,REF,Molinaro / Killian,3
+Allegany,Cuba 1,GOVERNOR/ LT.,,REF,Molinaro / Killian,8
+Allegany,Cuba 2,GOVERNOR/ LT.,,REF,Molinaro / Killian,3
+Allegany,Friendship,GOVERNOR/ LT.,,REF,Molinaro / Killian,5
+Allegany,Genesee,GOVERNOR/ LT.,,REF,Molinaro / Killian,1
+Allegany,Granger,GOVERNOR/ LT.,,REF,Molinaro / Killian,0
+Allegany,Grove,GOVERNOR/ LT.,,REF,Molinaro / Killian,0
+Allegany,Hume,GOVERNOR/ LT.,,REF,Molinaro / Killian,4
+Allegany,Independence,GOVERNOR/ LT.,,REF,Molinaro / Killian,0
+Allegany,New Hudson,GOVERNOR/ LT.,,REF,Molinaro / Killian,1
+Allegany,Rushford,GOVERNOR/ LT.,,REF,Molinaro / Killian,3
+Allegany,Scio,GOVERNOR/ LT.,,REF,Molinaro / Killian,3
+Allegany,Ward,GOVERNOR/ LT.,,REF,Molinaro / Killian,1
+Allegany,Wellsville 1,GOVERNOR/ LT.,,REF,Molinaro / Killian,2
+Allegany,Wellsville 2,GOVERNOR/ LT.,,REF,Molinaro / Killian,2
+Allegany,Wellsville 3,GOVERNOR/ LT.,,REF,Molinaro / Killian,0
+Allegany,Wellsville 4,GOVERNOR/ LT.,,REF,Molinaro / Killian,0
+Allegany,Wellsville 5,GOVERNOR/ LT.,,REF,Molinaro / Killian,1
+Allegany,West Almond,GOVERNOR/ LT.,,REF,Molinaro / Killian,0
+Allegany,Willing,GOVERNOR/ LT.,,REF,Molinaro / Killian,1
+Allegany,Wirt,GOVERNOR/ LT.,,REF,Molinaro / Killian,2
+Allegany,Alfred 1,GOVERNOR/ LT.,,SAM,Miner / Volpe,11
+Allegany,Alfred 2,GOVERNOR/ LT.,,SAM,Miner / Volpe,2
+Allegany,Allen,GOVERNOR/ LT.,,SAM,Miner / Volpe,0
+Allegany,Alma,GOVERNOR/ LT.,,SAM,Miner / Volpe,4
+Allegany,Almond,GOVERNOR/ LT.,,SAM,Miner / Volpe,3
+Allegany,Amity 1,GOVERNOR/ LT.,,SAM,Miner / Volpe,3
+Allegany,Amity 2,GOVERNOR/ LT.,,SAM,Miner / Volpe,2
+Allegany,Andover 1,GOVERNOR/ LT.,,SAM,Miner / Volpe,2
+Allegany,Andover 2,GOVERNOR/ LT.,,SAM,Miner / Volpe,1
+Allegany,Angelica 1,GOVERNOR/ LT.,,SAM,Miner / Volpe,1
+Allegany,Angelica 2,GOVERNOR/ LT.,,SAM,Miner / Volpe,4
+Allegany,Belfast,GOVERNOR/ LT.,,SAM,Miner / Volpe,3
+Allegany,Birdsall,GOVERNOR/ LT.,,SAM,Miner / Volpe,0
+Allegany,Bolivar,GOVERNOR/ LT.,,SAM,Miner / Volpe,3
+Allegany,Burns,GOVERNOR/ LT.,,SAM,Miner / Volpe,5
+Allegany,Caneadea 1,GOVERNOR/ LT.,,SAM,Miner / Volpe,5
+Allegany,Caneadea 2,GOVERNOR/ LT.,,SAM,Miner / Volpe,6
+Allegany,Centerville,GOVERNOR/ LT.,,SAM,Miner / Volpe,0
+Allegany,Clarksville,GOVERNOR/ LT.,,SAM,Miner / Volpe,3
+Allegany,Cuba 1,GOVERNOR/ LT.,,SAM,Miner / Volpe,6
+Allegany,Cuba 2,GOVERNOR/ LT.,,SAM,Miner / Volpe,2
+Allegany,Friendship,GOVERNOR/ LT.,,SAM,Miner / Volpe,3
+Allegany,Genesee,GOVERNOR/ LT.,,SAM,Miner / Volpe,6
+Allegany,Granger,GOVERNOR/ LT.,,SAM,Miner / Volpe,0
+Allegany,Grove,GOVERNOR/ LT.,,SAM,Miner / Volpe,0
+Allegany,Hume,GOVERNOR/ LT.,,SAM,Miner / Volpe,9
+Allegany,Independence,GOVERNOR/ LT.,,SAM,Miner / Volpe,3
+Allegany,New Hudson,GOVERNOR/ LT.,,SAM,Miner / Volpe,1
+Allegany,Rushford,GOVERNOR/ LT.,,SAM,Miner / Volpe,5
+Allegany,Scio,GOVERNOR/ LT.,,SAM,Miner / Volpe,3
+Allegany,Ward,GOVERNOR/ LT.,,SAM,Miner / Volpe,1
+Allegany,Wellsville 1,GOVERNOR/ LT.,,SAM,Miner / Volpe,5
+Allegany,Wellsville 2,GOVERNOR/ LT.,,SAM,Miner / Volpe,4
+Allegany,Wellsville 3,GOVERNOR/ LT.,,SAM,Miner / Volpe,2
+Allegany,Wellsville 4,GOVERNOR/ LT.,,SAM,Miner / Volpe,2
+Allegany,Wellsville 5,GOVERNOR/ LT.,,SAM,Miner / Volpe,2
+Allegany,West Almond,GOVERNOR/ LT.,,SAM,Miner / Volpe,0
+Allegany,Willing,GOVERNOR/ LT.,,SAM,Miner / Volpe,2
+Allegany,Wirt,GOVERNOR/ LT.,,SAM,Miner / Volpe,3
+Allegany,Alfred 1,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,21
+Allegany,Alfred 2,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,59
+Allegany,Allen,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,11
+Allegany,Alma,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,18
+Allegany,Almond,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,69
+Allegany,Amity 1,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,18
+Allegany,Amity 2,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,29
+Allegany,Andover 1,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,25
+Allegany,Andover 2,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,23
+Allegany,Angelica 1,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,17
+Allegany,Angelica 2,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,9
+Allegany,Belfast,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,53
+Allegany,Birdsall,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,4
+Allegany,Bolivar,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,55
+Allegany,Burns,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,39
+Allegany,Caneadea 1,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,14
+Allegany,Caneadea 2,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,7
+Allegany,Centerville,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,14
+Allegany,Clarksville,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,21
+Allegany,Cuba 1,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,29
+Allegany,Cuba 2,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,18
+Allegany,Friendship,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,32
+Allegany,Genesee,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,41
+Allegany,Granger,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,8
+Allegany,Grove,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,20
+Allegany,Hume,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,28
+Allegany,Independence,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,14
+Allegany,New Hudson,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,3
+Allegany,Rushford,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,29
+Allegany,Scio,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,41
+Allegany,Ward,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,12
+Allegany,Wellsville 1,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,21
+Allegany,Wellsville 2,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,26
+Allegany,Wellsville 3,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,27
+Allegany,Wellsville 4,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,19
+Allegany,Wellsville 5,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,17
+Allegany,West Almond,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,10
+Allegany,Willing,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,17
+Allegany,Wirt,GOVERNOR/ LT.,,LIB,Sharpe / Hollister,45
+Allegany,Alfred 1,COMPTROLLER,,DEM,DiNapoli,266
+Allegany,Alfred 2,COMPTROLLER,,DEM,DiNapoli,234
+Allegany,Allen,COMPTROLLER,,DEM,DiNapoli,42
+Allegany,Alma,COMPTROLLER,,DEM,DiNapoli,66
+Allegany,Almond,COMPTROLLER,,DEM,DiNapoli,218
+Allegany,Amity 1,COMPTROLLER,,DEM,DiNapoli,155
+Allegany,Amity 2,COMPTROLLER,,DEM,DiNapoli,117
+Allegany,Andover 1,COMPTROLLER,,DEM,DiNapoli,125
+Allegany,Andover 2,COMPTROLLER,,DEM,DiNapoli,71
+Allegany,Angelica 1,COMPTROLLER,,DEM,DiNapoli,96
+Allegany,Angelica 2,COMPTROLLER,,DEM,DiNapoli,60
+Allegany,Belfast,COMPTROLLER,,DEM,DiNapoli,178
+Allegany,Birdsall,COMPTROLLER,,DEM,DiNapoli,20
+Allegany,Bolivar,COMPTROLLER,,DEM,DiNapoli,220
+Allegany,Burns,COMPTROLLER,,DEM,DiNapoli,90
+Allegany,Caneadea 1,COMPTROLLER,,DEM,DiNapoli,87
+Allegany,Caneadea 2,COMPTROLLER,,DEM,DiNapoli,80
+Allegany,Centerville,COMPTROLLER,,DEM,DiNapoli,45
+Allegany,Clarksville,COMPTROLLER,,DEM,DiNapoli,101
+Allegany,Cuba 1,COMPTROLLER,,DEM,DiNapoli,193
+Allegany,Cuba 2,COMPTROLLER,,DEM,DiNapoli,212
+Allegany,Friendship,COMPTROLLER,,DEM,DiNapoli,147
+Allegany,Genesee,COMPTROLLER,,DEM,DiNapoli,134
+Allegany,Granger,COMPTROLLER,,DEM,DiNapoli,31
+Allegany,Grove,COMPTROLLER,,DEM,DiNapoli,72
+Allegany,Hume,COMPTROLLER,,DEM,DiNapoli,143
+Allegany,Independence,COMPTROLLER,,DEM,DiNapoli,101
+Allegany,New Hudson,COMPTROLLER,,DEM,DiNapoli,57
+Allegany,Rushford,COMPTROLLER,,DEM,DiNapoli,116
+Allegany,Scio,COMPTROLLER,,DEM,DiNapoli,190
+Allegany,Ward,COMPTROLLER,,DEM,DiNapoli,65
+Allegany,Wellsville 1,COMPTROLLER,,DEM,DiNapoli,175
+Allegany,Wellsville 2,COMPTROLLER,,DEM,DiNapoli,224
+Allegany,Wellsville 3,COMPTROLLER,,DEM,DiNapoli,242
+Allegany,Wellsville 4,COMPTROLLER,,DEM,DiNapoli,119
+Allegany,Wellsville 5,COMPTROLLER,,DEM,DiNapoli,166
+Allegany,West Almond,COMPTROLLER,,DEM,DiNapoli,30
+Allegany,Willing,COMPTROLLER,,DEM,DiNapoli,144
+Allegany,Wirt,COMPTROLLER,,DEM,DiNapoli,62
+Allegany,Alfred 1,COMPTROLLER,,REP,Trichter,70
+Allegany,Alfred 2,COMPTROLLER,,REP,Trichter,182
+Allegany,Allen,COMPTROLLER,,REP,Trichter,85
+Allegany,Alma,COMPTROLLER,,REP,Trichter,173
+Allegany,Almond,COMPTROLLER,,REP,Trichter,318
+Allegany,Amity 1,COMPTROLLER,,REP,Trichter,255
+Allegany,Amity 2,COMPTROLLER,,REP,Trichter,136
+Allegany,Andover 1,COMPTROLLER,,REP,Trichter,208
+Allegany,Andover 2,COMPTROLLER,,REP,Trichter,192
+Allegany,Angelica 1,COMPTROLLER,,REP,Trichter,171
+Allegany,Angelica 2,COMPTROLLER,,REP,Trichter,140
+Allegany,Belfast,COMPTROLLER,,REP,Trichter,306
+Allegany,Birdsall,COMPTROLLER,,REP,Trichter,52
+Allegany,Bolivar,COMPTROLLER,,REP,Trichter,337
+Allegany,Burns,COMPTROLLER,,REP,Trichter,218
+Allegany,Caneadea 1,COMPTROLLER,,REP,Trichter,147
+Allegany,Caneadea 2,COMPTROLLER,,REP,Trichter,195
+Allegany,Centerville,COMPTROLLER,,REP,Trichter,135
+Allegany,Clarksville,COMPTROLLER,,REP,Trichter,185
+Allegany,Cuba 1,COMPTROLLER,,REP,Trichter,223
+Allegany,Cuba 2,COMPTROLLER,,REP,Trichter,333
+Allegany,Friendship,COMPTROLLER,,REP,Trichter,306
+Allegany,Genesee,COMPTROLLER,,REP,Trichter,308
+Allegany,Granger,COMPTROLLER,,REP,Trichter,127
+Allegany,Grove,COMPTROLLER,,REP,Trichter,112
+Allegany,Hume,COMPTROLLER,,REP,Trichter,338
+Allegany,Independence,COMPTROLLER,,REP,Trichter,196
+Allegany,New Hudson,COMPTROLLER,,REP,Trichter,136
+Allegany,Rushford,COMPTROLLER,,REP,Trichter,298
+Allegany,Scio,COMPTROLLER,,REP,Trichter,330
+Allegany,Ward,COMPTROLLER,,REP,Trichter,74
+Allegany,Wellsville 1,COMPTROLLER,,REP,Trichter,216
+Allegany,Wellsville 2,COMPTROLLER,,REP,Trichter,219
+Allegany,Wellsville 3,COMPTROLLER,,REP,Trichter,256
+Allegany,Wellsville 4,COMPTROLLER,,REP,Trichter,219
+Allegany,Wellsville 5,COMPTROLLER,,REP,Trichter,271
+Allegany,West Almond,COMPTROLLER,,REP,Trichter,73
+Allegany,Willing,COMPTROLLER,,REP,Trichter,251
+Allegany,Wirt,COMPTROLLER,,REP,Trichter,227
+Allegany,Alfred 1,COMPTROLLER,,CON,Trichter,12
+Allegany,Alfred 2,COMPTROLLER,,CON,Trichter,33
+Allegany,Allen,COMPTROLLER,,CON,Trichter,10
+Allegany,Alma,COMPTROLLER,,CON,Trichter,13
+Allegany,Almond,COMPTROLLER,,CON,Trichter,48
+Allegany,Amity 1,COMPTROLLER,,CON,Trichter,15
+Allegany,Amity 2,COMPTROLLER,,CON,Trichter,7
+Allegany,Andover 1,COMPTROLLER,,CON,Trichter,22
+Allegany,Andover 2,COMPTROLLER,,CON,Trichter,7
+Allegany,Angelica 1,COMPTROLLER,,CON,Trichter,14
+Allegany,Angelica 2,COMPTROLLER,,CON,Trichter,14
+Allegany,Belfast,COMPTROLLER,,CON,Trichter,37
+Allegany,Birdsall,COMPTROLLER,,CON,Trichter,6
+Allegany,Bolivar,COMPTROLLER,,CON,Trichter,26
+Allegany,Burns,COMPTROLLER,,CON,Trichter,32
+Allegany,Caneadea 1,COMPTROLLER,,CON,Trichter,19
+Allegany,Caneadea 2,COMPTROLLER,,CON,Trichter,29
+Allegany,Centerville,COMPTROLLER,,CON,Trichter,23
+Allegany,Clarksville,COMPTROLLER,,CON,Trichter,17
+Allegany,Cuba 1,COMPTROLLER,,CON,Trichter,14
+Allegany,Cuba 2,COMPTROLLER,,CON,Trichter,25
+Allegany,Friendship,COMPTROLLER,,CON,Trichter,27
+Allegany,Genesee,COMPTROLLER,,CON,Trichter,32
+Allegany,Granger,COMPTROLLER,,CON,Trichter,17
+Allegany,Grove,COMPTROLLER,,CON,Trichter,25
+Allegany,Hume,COMPTROLLER,,CON,Trichter,43
+Allegany,Independence,COMPTROLLER,,CON,Trichter,14
+Allegany,New Hudson,COMPTROLLER,,CON,Trichter,15
+Allegany,Rushford,COMPTROLLER,,CON,Trichter,48
+Allegany,Scio,COMPTROLLER,,CON,Trichter,25
+Allegany,Ward,COMPTROLLER,,CON,Trichter,7
+Allegany,Wellsville 1,COMPTROLLER,,CON,Trichter,16
+Allegany,Wellsville 2,COMPTROLLER,,CON,Trichter,15
+Allegany,Wellsville 3,COMPTROLLER,,CON,Trichter,20
+Allegany,Wellsville 4,COMPTROLLER,,CON,Trichter,17
+Allegany,Wellsville 5,COMPTROLLER,,CON,Trichter,16
+Allegany,West Almond,COMPTROLLER,,CON,Trichter,9
+Allegany,Willing,COMPTROLLER,,CON,Trichter,22
+Allegany,Wirt,COMPTROLLER,,CON,Trichter,22
+Allegany,Alfred 1,COMPTROLLER,,GRE,Dunlea,22
+Allegany,Alfred 2,COMPTROLLER,,GRE,Dunlea,5
+Allegany,Allen,COMPTROLLER,,GRE,Dunlea,1
+Allegany,Alma,COMPTROLLER,,GRE,Dunlea,1
+Allegany,Almond,COMPTROLLER,,GRE,Dunlea,4
+Allegany,Amity 1,COMPTROLLER,,GRE,Dunlea,1
+Allegany,Amity 2,COMPTROLLER,,GRE,Dunlea,2
+Allegany,Andover 1,COMPTROLLER,,GRE,Dunlea,2
+Allegany,Andover 2,COMPTROLLER,,GRE,Dunlea,2
+Allegany,Angelica 1,COMPTROLLER,,GRE,Dunlea,5
+Allegany,Angelica 2,COMPTROLLER,,GRE,Dunlea,1
+Allegany,Belfast,COMPTROLLER,,GRE,Dunlea,2
+Allegany,Birdsall,COMPTROLLER,,GRE,Dunlea,0
+Allegany,Bolivar,COMPTROLLER,,GRE,Dunlea,5
+Allegany,Burns,COMPTROLLER,,GRE,Dunlea,2
+Allegany,Caneadea 1,COMPTROLLER,,GRE,Dunlea,0
+Allegany,Caneadea 2,COMPTROLLER,,GRE,Dunlea,7
+Allegany,Centerville,COMPTROLLER,,GRE,Dunlea,0
+Allegany,Clarksville,COMPTROLLER,,GRE,Dunlea,0
+Allegany,Cuba 1,COMPTROLLER,,GRE,Dunlea,6
+Allegany,Cuba 2,COMPTROLLER,,GRE,Dunlea,5
+Allegany,Friendship,COMPTROLLER,,GRE,Dunlea,2
+Allegany,Genesee,COMPTROLLER,,GRE,Dunlea,7
+Allegany,Granger,COMPTROLLER,,GRE,Dunlea,4
+Allegany,Grove,COMPTROLLER,,GRE,Dunlea,1
+Allegany,Hume,COMPTROLLER,,GRE,Dunlea,8
+Allegany,Independence,COMPTROLLER,,GRE,Dunlea,1
+Allegany,New Hudson,COMPTROLLER,,GRE,Dunlea,2
+Allegany,Rushford,COMPTROLLER,,GRE,Dunlea,3
+Allegany,Scio,COMPTROLLER,,GRE,Dunlea,4
+Allegany,Ward,COMPTROLLER,,GRE,Dunlea,3
+Allegany,Wellsville 1,COMPTROLLER,,GRE,Dunlea,2
+Allegany,Wellsville 2,COMPTROLLER,,GRE,Dunlea,3
+Allegany,Wellsville 3,COMPTROLLER,,GRE,Dunlea,4
+Allegany,Wellsville 4,COMPTROLLER,,GRE,Dunlea,1
+Allegany,Wellsville 5,COMPTROLLER,,GRE,Dunlea,2
+Allegany,West Almond,COMPTROLLER,,GRE,Dunlea,2
+Allegany,Willing,COMPTROLLER,,GRE,Dunlea,2
+Allegany,Wirt,COMPTROLLER,,GRE,Dunlea,4
+Allegany,Alfred 1,COMPTROLLER,,WOR,DiNapoli,10
+Allegany,Alfred 2,COMPTROLLER,,WOR,DiNapoli,12
+Allegany,Allen,COMPTROLLER,,WOR,DiNapoli,1
+Allegany,Alma,COMPTROLLER,,WOR,DiNapoli,4
+Allegany,Almond,COMPTROLLER,,WOR,DiNapoli,15
+Allegany,Amity 1,COMPTROLLER,,WOR,DiNapoli,3
+Allegany,Amity 2,COMPTROLLER,,WOR,DiNapoli,8
+Allegany,Andover 1,COMPTROLLER,,WOR,DiNapoli,6
+Allegany,Andover 2,COMPTROLLER,,WOR,DiNapoli,3
+Allegany,Angelica 1,COMPTROLLER,,WOR,DiNapoli,4
+Allegany,Angelica 2,COMPTROLLER,,WOR,DiNapoli,2
+Allegany,Belfast,COMPTROLLER,,WOR,DiNapoli,9
+Allegany,Birdsall,COMPTROLLER,,WOR,DiNapoli,1
+Allegany,Bolivar,COMPTROLLER,,WOR,DiNapoli,12
+Allegany,Burns,COMPTROLLER,,WOR,DiNapoli,8
+Allegany,Caneadea 1,COMPTROLLER,,WOR,DiNapoli,8
+Allegany,Caneadea 2,COMPTROLLER,,WOR,DiNapoli,3
+Allegany,Centerville,COMPTROLLER,,WOR,DiNapoli,4
+Allegany,Clarksville,COMPTROLLER,,WOR,DiNapoli,10
+Allegany,Cuba 1,COMPTROLLER,,WOR,DiNapoli,9
+Allegany,Cuba 2,COMPTROLLER,,WOR,DiNapoli,12
+Allegany,Friendship,COMPTROLLER,,WOR,DiNapoli,7
+Allegany,Genesee,COMPTROLLER,,WOR,DiNapoli,3
+Allegany,Granger,COMPTROLLER,,WOR,DiNapoli,3
+Allegany,Grove,COMPTROLLER,,WOR,DiNapoli,4
+Allegany,Hume,COMPTROLLER,,WOR,DiNapoli,8
+Allegany,Independence,COMPTROLLER,,WOR,DiNapoli,5
+Allegany,New Hudson,COMPTROLLER,,WOR,DiNapoli,7
+Allegany,Rushford,COMPTROLLER,,WOR,DiNapoli,4
+Allegany,Scio,COMPTROLLER,,WOR,DiNapoli,14
+Allegany,Ward,COMPTROLLER,,WOR,DiNapoli,1
+Allegany,Wellsville 1,COMPTROLLER,,WOR,DiNapoli,7
+Allegany,Wellsville 2,COMPTROLLER,,WOR,DiNapoli,6
+Allegany,Wellsville 3,COMPTROLLER,,WOR,DiNapoli,8
+Allegany,Wellsville 4,COMPTROLLER,,WOR,DiNapoli,7
+Allegany,Wellsville 5,COMPTROLLER,,WOR,DiNapoli,13
+Allegany,West Almond,COMPTROLLER,,WOR,DiNapoli,0
+Allegany,Willing,COMPTROLLER,,WOR,DiNapoli,10
+Allegany,Wirt,COMPTROLLER,,WOR,DiNapoli,5
+Allegany,Alfred 1,COMPTROLLER,,IND,DiNapoli,7
+Allegany,Alfred 2,COMPTROLLER,,IND,DiNapoli,6
+Allegany,Allen,COMPTROLLER,,IND,DiNapoli,3
+Allegany,Alma,COMPTROLLER,,IND,DiNapoli,3
+Allegany,Almond,COMPTROLLER,,IND,DiNapoli,10
+Allegany,Amity 1,COMPTROLLER,,IND,DiNapoli,4
+Allegany,Amity 2,COMPTROLLER,,IND,DiNapoli,3
+Allegany,Andover 1,COMPTROLLER,,IND,DiNapoli,10
+Allegany,Andover 2,COMPTROLLER,,IND,DiNapoli,5
+Allegany,Angelica 1,COMPTROLLER,,IND,DiNapoli,3
+Allegany,Angelica 2,COMPTROLLER,,IND,DiNapoli,2
+Allegany,Belfast,COMPTROLLER,,IND,DiNapoli,9
+Allegany,Birdsall,COMPTROLLER,,IND,DiNapoli,1
+Allegany,Bolivar,COMPTROLLER,,IND,DiNapoli,9
+Allegany,Burns,COMPTROLLER,,IND,DiNapoli,4
+Allegany,Caneadea 1,COMPTROLLER,,IND,DiNapoli,7
+Allegany,Caneadea 2,COMPTROLLER,,IND,DiNapoli,3
+Allegany,Centerville,COMPTROLLER,,IND,DiNapoli,6
+Allegany,Clarksville,COMPTROLLER,,IND,DiNapoli,6
+Allegany,Cuba 1,COMPTROLLER,,IND,DiNapoli,13
+Allegany,Cuba 2,COMPTROLLER,,IND,DiNapoli,14
+Allegany,Friendship,COMPTROLLER,,IND,DiNapoli,5
+Allegany,Genesee,COMPTROLLER,,IND,DiNapoli,9
+Allegany,Granger,COMPTROLLER,,IND,DiNapoli,6
+Allegany,Grove,COMPTROLLER,,IND,DiNapoli,4
+Allegany,Hume,COMPTROLLER,,IND,DiNapoli,11
+Allegany,Independence,COMPTROLLER,,IND,DiNapoli,2
+Allegany,New Hudson,COMPTROLLER,,IND,DiNapoli,6
+Allegany,Rushford,COMPTROLLER,,IND,DiNapoli,6
+Allegany,Scio,COMPTROLLER,,IND,DiNapoli,2
+Allegany,Ward,COMPTROLLER,,IND,DiNapoli,5
+Allegany,Wellsville 1,COMPTROLLER,,IND,DiNapoli,9
+Allegany,Wellsville 2,COMPTROLLER,,IND,DiNapoli,5
+Allegany,Wellsville 3,COMPTROLLER,,IND,DiNapoli,18
+Allegany,Wellsville 4,COMPTROLLER,,IND,DiNapoli,5
+Allegany,Wellsville 5,COMPTROLLER,,IND,DiNapoli,9
+Allegany,West Almond,COMPTROLLER,,IND,DiNapoli,4
+Allegany,Willing,COMPTROLLER,,IND,DiNapoli,5
+Allegany,Wirt,COMPTROLLER,,IND,DiNapoli,6
+Allegany,Alfred 1,COMPTROLLER,,WEP,DiNapoli,9
+Allegany,Alfred 2,COMPTROLLER,,WEP,DiNapoli,3
+Allegany,Allen,COMPTROLLER,,WEP,DiNapoli,0
+Allegany,Alma,COMPTROLLER,,WEP,DiNapoli,1
+Allegany,Almond,COMPTROLLER,,WEP,DiNapoli,2
+Allegany,Amity 1,COMPTROLLER,,WEP,DiNapoli,0
+Allegany,Amity 2,COMPTROLLER,,WEP,DiNapoli,2
+Allegany,Andover 1,COMPTROLLER,,WEP,DiNapoli,5
+Allegany,Andover 2,COMPTROLLER,,WEP,DiNapoli,4
+Allegany,Angelica 1,COMPTROLLER,,WEP,DiNapoli,2
+Allegany,Angelica 2,COMPTROLLER,,WEP,DiNapoli,2
+Allegany,Belfast,COMPTROLLER,,WEP,DiNapoli,1
+Allegany,Birdsall,COMPTROLLER,,WEP,DiNapoli,0
+Allegany,Bolivar,COMPTROLLER,,WEP,DiNapoli,1
+Allegany,Burns,COMPTROLLER,,WEP,DiNapoli,3
+Allegany,Caneadea 1,COMPTROLLER,,WEP,DiNapoli,1
+Allegany,Caneadea 2,COMPTROLLER,,WEP,DiNapoli,3
+Allegany,Centerville,COMPTROLLER,,WEP,DiNapoli,1
+Allegany,Clarksville,COMPTROLLER,,WEP,DiNapoli,2
+Allegany,Cuba 1,COMPTROLLER,,WEP,DiNapoli,2
+Allegany,Cuba 2,COMPTROLLER,,WEP,DiNapoli,0
+Allegany,Friendship,COMPTROLLER,,WEP,DiNapoli,3
+Allegany,Genesee,COMPTROLLER,,WEP,DiNapoli,1
+Allegany,Granger,COMPTROLLER,,WEP,DiNapoli,0
+Allegany,Grove,COMPTROLLER,,WEP,DiNapoli,1
+Allegany,Hume,COMPTROLLER,,WEP,DiNapoli,0
+Allegany,Independence,COMPTROLLER,,WEP,DiNapoli,3
+Allegany,New Hudson,COMPTROLLER,,WEP,DiNapoli,1
+Allegany,Rushford,COMPTROLLER,,WEP,DiNapoli,1
+Allegany,Scio,COMPTROLLER,,WEP,DiNapoli,2
+Allegany,Ward,COMPTROLLER,,WEP,DiNapoli,6
+Allegany,Wellsville 1,COMPTROLLER,,WEP,DiNapoli,1
+Allegany,Wellsville 2,COMPTROLLER,,WEP,DiNapoli,1
+Allegany,Wellsville 3,COMPTROLLER,,WEP,DiNapoli,5
+Allegany,Wellsville 4,COMPTROLLER,,WEP,DiNapoli,0
+Allegany,Wellsville 5,COMPTROLLER,,WEP,DiNapoli,1
+Allegany,West Almond,COMPTROLLER,,WEP,DiNapoli,0
+Allegany,Willing,COMPTROLLER,,WEP,DiNapoli,6
+Allegany,Wirt,COMPTROLLER,,WEP,DiNapoli,2
+Allegany,Alfred 1,COMPTROLLER,,REF,DiNapoli,1
+Allegany,Alfred 2,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Allen,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Alma,COMPTROLLER,,REF,DiNapoli,1
+Allegany,Almond,COMPTROLLER,,REF,DiNapoli,2
+Allegany,Amity 1,COMPTROLLER,,REF,DiNapoli,2
+Allegany,Amity 2,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Andover 1,COMPTROLLER,,REF,DiNapoli,1
+Allegany,Andover 2,COMPTROLLER,,REF,DiNapoli,1
+Allegany,Angelica 1,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Angelica 2,COMPTROLLER,,REF,DiNapoli,1
+Allegany,Belfast,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Birdsall,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Bolivar,COMPTROLLER,,REF,DiNapoli,1
+Allegany,Burns,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Caneadea 1,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Caneadea 2,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Centerville,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Clarksville,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Cuba 1,COMPTROLLER,,REF,DiNapoli,2
+Allegany,Cuba 2,COMPTROLLER,,REF,DiNapoli,1
+Allegany,Friendship,COMPTROLLER,,REF,DiNapoli,3
+Allegany,Genesee,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Granger,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Grove,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Hume,COMPTROLLER,,REF,DiNapoli,6
+Allegany,Independence,COMPTROLLER,,REF,DiNapoli,2
+Allegany,New Hudson,COMPTROLLER,,REF,DiNapoli,1
+Allegany,Rushford,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Scio,COMPTROLLER,,REF,DiNapoli,1
+Allegany,Ward,COMPTROLLER,,REF,DiNapoli,0
+Allegany,Wellsville 1,COMPTROLLER,,REF,DiNapoli,1
+Allegany,Wellsville 2,COMPTROLLER,,REF,DiNapoli,2
+Allegany,Wellsville 3,COMPTROLLER,,REF,DiNapoli,2
+Allegany,Wellsville 4,COMPTROLLER,,REF,DiNapoli,1
+Allegany,Wellsville 5,COMPTROLLER,,REF,DiNapoli,0
+Allegany,West Almond,COMPTROLLER,,REF,DiNapoli,1
+Allegany,Willing,COMPTROLLER,,REF,DiNapoli,1
+Allegany,Wirt,COMPTROLLER,,REF,DiNapoli,1
+Allegany,Alfred 1,COMPTROLLER,,LIB,Gallaudet,6
+Allegany,Alfred 2,COMPTROLLER,,LIB,Gallaudet,12
+Allegany,Allen,COMPTROLLER,,LIB,Gallaudet,2
+Allegany,Alma,COMPTROLLER,,LIB,Gallaudet,1
+Allegany,Almond,COMPTROLLER,,LIB,Gallaudet,10
+Allegany,Amity 1,COMPTROLLER,,LIB,Gallaudet,5
+Allegany,Amity 2,COMPTROLLER,,LIB,Gallaudet,6
+Allegany,Andover 1,COMPTROLLER,,LIB,Gallaudet,5
+Allegany,Andover 2,COMPTROLLER,,LIB,Gallaudet,3
+Allegany,Angelica 1,COMPTROLLER,,LIB,Gallaudet,0
+Allegany,Angelica 2,COMPTROLLER,,LIB,Gallaudet,3
+Allegany,Belfast,COMPTROLLER,,LIB,Gallaudet,9
+Allegany,Birdsall,COMPTROLLER,,LIB,Gallaudet,0
+Allegany,Bolivar,COMPTROLLER,,LIB,Gallaudet,6
+Allegany,Burns,COMPTROLLER,,LIB,Gallaudet,4
+Allegany,Caneadea 1,COMPTROLLER,,LIB,Gallaudet,1
+Allegany,Caneadea 2,COMPTROLLER,,LIB,Gallaudet,6
+Allegany,Centerville,COMPTROLLER,,LIB,Gallaudet,5
+Allegany,Clarksville,COMPTROLLER,,LIB,Gallaudet,4
+Allegany,Cuba 1,COMPTROLLER,,LIB,Gallaudet,12
+Allegany,Cuba 2,COMPTROLLER,,LIB,Gallaudet,3
+Allegany,Friendship,COMPTROLLER,,LIB,Gallaudet,6
+Allegany,Genesee,COMPTROLLER,,LIB,Gallaudet,3
+Allegany,Granger,COMPTROLLER,,LIB,Gallaudet,0
+Allegany,Grove,COMPTROLLER,,LIB,Gallaudet,4
+Allegany,Hume,COMPTROLLER,,LIB,Gallaudet,7
+Allegany,Independence,COMPTROLLER,,LIB,Gallaudet,2
+Allegany,New Hudson,COMPTROLLER,,LIB,Gallaudet,3
+Allegany,Rushford,COMPTROLLER,,LIB,Gallaudet,9
+Allegany,Scio,COMPTROLLER,,LIB,Gallaudet,4
+Allegany,Ward,COMPTROLLER,,LIB,Gallaudet,3
+Allegany,Wellsville 1,COMPTROLLER,,LIB,Gallaudet,7
+Allegany,Wellsville 2,COMPTROLLER,,LIB,Gallaudet,3
+Allegany,Wellsville 3,COMPTROLLER,,LIB,Gallaudet,4
+Allegany,Wellsville 4,COMPTROLLER,,LIB,Gallaudet,3
+Allegany,Wellsville 5,COMPTROLLER,,LIB,Gallaudet,2
+Allegany,West Almond,COMPTROLLER,,LIB,Gallaudet,1
+Allegany,Willing,COMPTROLLER,,LIB,Gallaudet,6
+Allegany,Wirt,COMPTROLLER,,LIB,Gallaudet,6
+Allegany,Alfred 1,ATTORNEY GENERAL,,DEM,James,264
+Allegany,Alfred 2,ATTORNEY GENERAL,,DEM,James,207
+Allegany,Allen,ATTORNEY GENERAL,,DEM,James,25
+Allegany,Alma,ATTORNEY GENERAL,,DEM,James,46
+Allegany,Almond,ATTORNEY GENERAL,,DEM,James,152
+Allegany,Amity 1,ATTORNEY GENERAL,,DEM,James,95
+Allegany,Amity 2,ATTORNEY GENERAL,,DEM,James,72
+Allegany,Andover 1,ATTORNEY GENERAL,,DEM,James,91
+Allegany,Andover 2,ATTORNEY GENERAL,,DEM,James,47
+Allegany,Angelica 1,ATTORNEY GENERAL,,DEM,James,69
+Allegany,Angelica 2,ATTORNEY GENERAL,,DEM,James,37
+Allegany,Belfast,ATTORNEY GENERAL,,DEM,James,136
+Allegany,Birdsall,ATTORNEY GENERAL,,DEM,James,15
+Allegany,Bolivar,ATTORNEY GENERAL,,DEM,James,144
+Allegany,Burns,ATTORNEY GENERAL,,DEM,James,60
+Allegany,Caneadea 1,ATTORNEY GENERAL,,DEM,James,57
+Allegany,Caneadea 2,ATTORNEY GENERAL,,DEM,James,76
+Allegany,Centerville,ATTORNEY GENERAL,,DEM,James,32
+Allegany,Clarksville,ATTORNEY GENERAL,,DEM,James,85
+Allegany,Cuba 1,ATTORNEY GENERAL,,DEM,James,159
+Allegany,Cuba 2,ATTORNEY GENERAL,,DEM,James,139
+Allegany,Friendship,ATTORNEY GENERAL,,DEM,James,85
+Allegany,Genesee,ATTORNEY GENERAL,,DEM,James,92
+Allegany,Granger,ATTORNEY GENERAL,,DEM,James,18
+Allegany,Grove,ATTORNEY GENERAL,,DEM,James,49
+Allegany,Hume,ATTORNEY GENERAL,,DEM,James,103
+Allegany,Independence,ATTORNEY GENERAL,,DEM,James,79
+Allegany,New Hudson,ATTORNEY GENERAL,,DEM,James,33
+Allegany,Rushford,ATTORNEY GENERAL,,DEM,James,72
+Allegany,Scio,ATTORNEY GENERAL,,DEM,James,117
+Allegany,Ward,ATTORNEY GENERAL,,DEM,James,52
+Allegany,Wellsville 1,ATTORNEY GENERAL,,DEM,James,128
+Allegany,Wellsville 2,ATTORNEY GENERAL,,DEM,James,181
+Allegany,Wellsville 3,ATTORNEY GENERAL,,DEM,James,183
+Allegany,Wellsville 4,ATTORNEY GENERAL,,DEM,James,92
+Allegany,Wellsville 5,ATTORNEY GENERAL,,DEM,James,119
+Allegany,West Almond,ATTORNEY GENERAL,,DEM,James,22
+Allegany,Willing,ATTORNEY GENERAL,,DEM,James,97
+Allegany,Wirt,ATTORNEY GENERAL,,DEM,James,38
+Allegany,Alfred 1,ATTORNEY GENERAL,,REP,Wofford,79
+Allegany,Alfred 2,ATTORNEY GENERAL,,REP,Wofford,206
+Allegany,Allen,ATTORNEY GENERAL,,REP,Wofford,93
+Allegany,Alma,ATTORNEY GENERAL,,REP,Wofford,194
+Allegany,Almond,ATTORNEY GENERAL,,REP,Wofford,379
+Allegany,Amity 1,ATTORNEY GENERAL,,REP,Wofford,307
+Allegany,Amity 2,ATTORNEY GENERAL,,REP,Wofford,183
+Allegany,Andover 1,ATTORNEY GENERAL,,REP,Wofford,239
+Allegany,Andover 2,ATTORNEY GENERAL,,REP,Wofford,209
+Allegany,Angelica 1,ATTORNEY GENERAL,,REP,Wofford,199
+Allegany,Angelica 2,ATTORNEY GENERAL,,REP,Wofford,169
+Allegany,Belfast,ATTORNEY GENERAL,,REP,Wofford,353
+Allegany,Birdsall,ATTORNEY GENERAL,,REP,Wofford,55
+Allegany,Bolivar,ATTORNEY GENERAL,,REP,Wofford,412
+Allegany,Burns,ATTORNEY GENERAL,,REP,Wofford,239
+Allegany,Caneadea 1,ATTORNEY GENERAL,,REP,Wofford,176
+Allegany,Caneadea 2,ATTORNEY GENERAL,,REP,Wofford,203
+Allegany,Centerville,ATTORNEY GENERAL,,REP,Wofford,151
+Allegany,Clarksville,ATTORNEY GENERAL,,REP,Wofford,208
+Allegany,Cuba 1,ATTORNEY GENERAL,,REP,Wofford,254
+Allegany,Cuba 2,ATTORNEY GENERAL,,REP,Wofford,394
+Allegany,Friendship,ATTORNEY GENERAL,,REP,Wofford,355
+Allegany,Genesee,ATTORNEY GENERAL,,REP,Wofford,343
+Allegany,Granger,ATTORNEY GENERAL,,REP,Wofford,142
+Allegany,Grove,ATTORNEY GENERAL,,REP,Wofford,140
+Allegany,Hume,ATTORNEY GENERAL,,REP,Wofford,383
+Allegany,Independence,ATTORNEY GENERAL,,REP,Wofford,207
+Allegany,New Hudson,ATTORNEY GENERAL,,REP,Wofford,156
+Allegany,Rushford,ATTORNEY GENERAL,,REP,Wofford,346
+Allegany,Scio,ATTORNEY GENERAL,,REP,Wofford,394
+Allegany,Ward,ATTORNEY GENERAL,,REP,Wofford,89
+Allegany,Wellsville 1,ATTORNEY GENERAL,,REP,Wofford,254
+Allegany,Wellsville 2,ATTORNEY GENERAL,,REP,Wofford,253
+Allegany,Wellsville 3,ATTORNEY GENERAL,,REP,Wofford,308
+Allegany,Wellsville 4,ATTORNEY GENERAL,,REP,Wofford,241
+Allegany,Wellsville 5,ATTORNEY GENERAL,,REP,Wofford,314
+Allegany,West Almond,ATTORNEY GENERAL,,REP,Wofford,78
+Allegany,Willing,ATTORNEY GENERAL,,REP,Wofford,296
+Allegany,Wirt,ATTORNEY GENERAL,,REP,Wofford,245
+Allegany,Alfred 1,ATTORNEY GENERAL,,CON,Wofford,11
+Allegany,Alfred 2,ATTORNEY GENERAL,,CON,Wofford,37
+Allegany,Allen,ATTORNEY GENERAL,,CON,Wofford,13
+Allegany,Alma,ATTORNEY GENERAL,,CON,Wofford,18
+Allegany,Almond,ATTORNEY GENERAL,,CON,Wofford,53
+Allegany,Amity 1,ATTORNEY GENERAL,,CON,Wofford,17
+Allegany,Amity 2,ATTORNEY GENERAL,,CON,Wofford,9
+Allegany,Andover 1,ATTORNEY GENERAL,,CON,Wofford,24
+Allegany,Andover 2,ATTORNEY GENERAL,,CON,Wofford,11
+Allegany,Angelica 1,ATTORNEY GENERAL,,CON,Wofford,15
+Allegany,Angelica 2,ATTORNEY GENERAL,,CON,Wofford,12
+Allegany,Belfast,ATTORNEY GENERAL,,CON,Wofford,42
+Allegany,Birdsall,ATTORNEY GENERAL,,CON,Wofford,6
+Allegany,Bolivar,ATTORNEY GENERAL,,CON,Wofford,31
+Allegany,Burns,ATTORNEY GENERAL,,CON,Wofford,39
+Allegany,Caneadea 1,ATTORNEY GENERAL,,CON,Wofford,25
+Allegany,Caneadea 2,ATTORNEY GENERAL,,CON,Wofford,28
+Allegany,Centerville,ATTORNEY GENERAL,,CON,Wofford,29
+Allegany,Clarksville,ATTORNEY GENERAL,,CON,Wofford,15
+Allegany,Cuba 1,ATTORNEY GENERAL,,CON,Wofford,20
+Allegany,Cuba 2,ATTORNEY GENERAL,,CON,Wofford,28
+Allegany,Friendship,ATTORNEY GENERAL,,CON,Wofford,42
+Allegany,Genesee,ATTORNEY GENERAL,,CON,Wofford,41
+Allegany,Granger,ATTORNEY GENERAL,,CON,Wofford,20
+Allegany,Grove,ATTORNEY GENERAL,,CON,Wofford,28
+Allegany,Hume,ATTORNEY GENERAL,,CON,Wofford,47
+Allegany,Independence,ATTORNEY GENERAL,,CON,Wofford,21
+Allegany,New Hudson,ATTORNEY GENERAL,,CON,Wofford,21
+Allegany,Rushford,ATTORNEY GENERAL,,CON,Wofford,52
+Allegany,Scio,ATTORNEY GENERAL,,CON,Wofford,36
+Allegany,Ward,ATTORNEY GENERAL,,CON,Wofford,11
+Allegany,Wellsville 1,ATTORNEY GENERAL,,CON,Wofford,24
+Allegany,Wellsville 2,ATTORNEY GENERAL,,CON,Wofford,15
+Allegany,Wellsville 3,ATTORNEY GENERAL,,CON,Wofford,26
+Allegany,Wellsville 4,ATTORNEY GENERAL,,CON,Wofford,21
+Allegany,Wellsville 5,ATTORNEY GENERAL,,CON,Wofford,18
+Allegany,West Almond,ATTORNEY GENERAL,,CON,Wofford,12
+Allegany,Willing,ATTORNEY GENERAL,,CON,Wofford,26
+Allegany,Wirt,ATTORNEY GENERAL,,CON,Wofford,30
+Allegany,Alfred 1,ATTORNEY GENERAL,,GRE,Sussman,12
+Allegany,Alfred 2,ATTORNEY GENERAL,,GRE,Sussman,3
+Allegany,Allen,ATTORNEY GENERAL,,GRE,Sussman,1
+Allegany,Alma,ATTORNEY GENERAL,,GRE,Sussman,1
+Allegany,Almond,ATTORNEY GENERAL,,GRE,Sussman,8
+Allegany,Amity 1,ATTORNEY GENERAL,,GRE,Sussman,5
+Allegany,Amity 2,ATTORNEY GENERAL,,GRE,Sussman,1
+Allegany,Andover 1,ATTORNEY GENERAL,,GRE,Sussman,2
+Allegany,Andover 2,ATTORNEY GENERAL,,GRE,Sussman,3
+Allegany,Angelica 1,ATTORNEY GENERAL,,GRE,Sussman,1
+Allegany,Angelica 2,ATTORNEY GENERAL,,GRE,Sussman,1
+Allegany,Belfast,ATTORNEY GENERAL,,GRE,Sussman,6
+Allegany,Birdsall,ATTORNEY GENERAL,,GRE,Sussman,0
+Allegany,Bolivar,ATTORNEY GENERAL,,GRE,Sussman,9
+Allegany,Burns,ATTORNEY GENERAL,,GRE,Sussman,1
+Allegany,Caneadea 1,ATTORNEY GENERAL,,GRE,Sussman,0
+Allegany,Caneadea 2,ATTORNEY GENERAL,,GRE,Sussman,6
+Allegany,Centerville,ATTORNEY GENERAL,,GRE,Sussman,1
+Allegany,Clarksville,ATTORNEY GENERAL,,GRE,Sussman,3
+Allegany,Cuba 1,ATTORNEY GENERAL,,GRE,Sussman,9
+Allegany,Cuba 2,ATTORNEY GENERAL,,GRE,Sussman,4
+Allegany,Friendship,ATTORNEY GENERAL,,GRE,Sussman,3
+Allegany,Genesee,ATTORNEY GENERAL,,GRE,Sussman,4
+Allegany,Granger,ATTORNEY GENERAL,,GRE,Sussman,1
+Allegany,Grove,ATTORNEY GENERAL,,GRE,Sussman,1
+Allegany,Hume,ATTORNEY GENERAL,,GRE,Sussman,3
+Allegany,Independence,ATTORNEY GENERAL,,GRE,Sussman,1
+Allegany,New Hudson,ATTORNEY GENERAL,,GRE,Sussman,0
+Allegany,Rushford,ATTORNEY GENERAL,,GRE,Sussman,3
+Allegany,Scio,ATTORNEY GENERAL,,GRE,Sussman,7
+Allegany,Ward,ATTORNEY GENERAL,,GRE,Sussman,2
+Allegany,Wellsville 1,ATTORNEY GENERAL,,GRE,Sussman,2
+Allegany,Wellsville 2,ATTORNEY GENERAL,,GRE,Sussman,3
+Allegany,Wellsville 3,ATTORNEY GENERAL,,GRE,Sussman,8
+Allegany,Wellsville 4,ATTORNEY GENERAL,,GRE,Sussman,3
+Allegany,Wellsville 5,ATTORNEY GENERAL,,GRE,Sussman,3
+Allegany,West Almond,ATTORNEY GENERAL,,GRE,Sussman,0
+Allegany,Willing,ATTORNEY GENERAL,,GRE,Sussman,1
+Allegany,Wirt,ATTORNEY GENERAL,,GRE,Sussman,3
+Allegany,Alfred 1,ATTORNEY GENERAL,,WOR,James,11
+Allegany,Alfred 2,ATTORNEY GENERAL,,WOR,James,8
+Allegany,Allen,ATTORNEY GENERAL,,WOR,James,1
+Allegany,Alma,ATTORNEY GENERAL,,WOR,James,1
+Allegany,Almond,ATTORNEY GENERAL,,WOR,James,5
+Allegany,Amity 1,ATTORNEY GENERAL,,WOR,James,3
+Allegany,Amity 2,ATTORNEY GENERAL,,WOR,James,1
+Allegany,Andover 1,ATTORNEY GENERAL,,WOR,James,4
+Allegany,Andover 2,ATTORNEY GENERAL,,WOR,James,4
+Allegany,Angelica 1,ATTORNEY GENERAL,,WOR,James,2
+Allegany,Angelica 2,ATTORNEY GENERAL,,WOR,James,2
+Allegany,Belfast,ATTORNEY GENERAL,,WOR,James,4
+Allegany,Birdsall,ATTORNEY GENERAL,,WOR,James,0
+Allegany,Bolivar,ATTORNEY GENERAL,,WOR,James,6
+Allegany,Burns,ATTORNEY GENERAL,,WOR,James,0
+Allegany,Caneadea 1,ATTORNEY GENERAL,,WOR,James,2
+Allegany,Caneadea 2,ATTORNEY GENERAL,,WOR,James,3
+Allegany,Centerville,ATTORNEY GENERAL,,WOR,James,2
+Allegany,Clarksville,ATTORNEY GENERAL,,WOR,James,1
+Allegany,Cuba 1,ATTORNEY GENERAL,,WOR,James,12
+Allegany,Cuba 2,ATTORNEY GENERAL,,WOR,James,15
+Allegany,Friendship,ATTORNEY GENERAL,,WOR,James,2
+Allegany,Genesee,ATTORNEY GENERAL,,WOR,James,3
+Allegany,Granger,ATTORNEY GENERAL,,WOR,James,2
+Allegany,Grove,ATTORNEY GENERAL,,WOR,James,1
+Allegany,Hume,ATTORNEY GENERAL,,WOR,James,6
+Allegany,Independence,ATTORNEY GENERAL,,WOR,James,4
+Allegany,New Hudson,ATTORNEY GENERAL,,WOR,James,6
+Allegany,Rushford,ATTORNEY GENERAL,,WOR,James,4
+Allegany,Scio,ATTORNEY GENERAL,,WOR,James,2
+Allegany,Ward,ATTORNEY GENERAL,,WOR,James,2
+Allegany,Wellsville 1,ATTORNEY GENERAL,,WOR,James,7
+Allegany,Wellsville 2,ATTORNEY GENERAL,,WOR,James,4
+Allegany,Wellsville 3,ATTORNEY GENERAL,,WOR,James,10
+Allegany,Wellsville 4,ATTORNEY GENERAL,,WOR,James,3
+Allegany,Wellsville 5,ATTORNEY GENERAL,,WOR,James,9
+Allegany,West Almond,ATTORNEY GENERAL,,WOR,James,2
+Allegany,Willing,ATTORNEY GENERAL,,WOR,James,5
+Allegany,Wirt,ATTORNEY GENERAL,,WOR,James,3
+Allegany,Alfred 1,ATTORNEY GENERAL,,IND,James,11
+Allegany,Alfred 2,ATTORNEY GENERAL,,IND,James,8
+Allegany,Allen,ATTORNEY GENERAL,,IND,James,1
+Allegany,Alma,ATTORNEY GENERAL,,IND,James,1
+Allegany,Almond,ATTORNEY GENERAL,,IND,James,5
+Allegany,Amity 1,ATTORNEY GENERAL,,IND,James,3
+Allegany,Amity 2,ATTORNEY GENERAL,,IND,James,1
+Allegany,Andover 1,ATTORNEY GENERAL,,IND,James,4
+Allegany,Andover 2,ATTORNEY GENERAL,,IND,James,4
+Allegany,Angelica 1,ATTORNEY GENERAL,,IND,James,2
+Allegany,Angelica 2,ATTORNEY GENERAL,,IND,James,2
+Allegany,Belfast,ATTORNEY GENERAL,,IND,James,4
+Allegany,Birdsall,ATTORNEY GENERAL,,IND,James,0
+Allegany,Bolivar,ATTORNEY GENERAL,,IND,James,6
+Allegany,Burns,ATTORNEY GENERAL,,IND,James,0
+Allegany,Caneadea 1,ATTORNEY GENERAL,,IND,James,2
+Allegany,Caneadea 2,ATTORNEY GENERAL,,IND,James,3
+Allegany,Centerville,ATTORNEY GENERAL,,IND,James,2
+Allegany,Clarksville,ATTORNEY GENERAL,,IND,James,1
+Allegany,Cuba 1,ATTORNEY GENERAL,,IND,James,12
+Allegany,Cuba 2,ATTORNEY GENERAL,,IND,James,15
+Allegany,Friendship,ATTORNEY GENERAL,,IND,James,2
+Allegany,Genesee,ATTORNEY GENERAL,,IND,James,3
+Allegany,Granger,ATTORNEY GENERAL,,IND,James,2
+Allegany,Grove,ATTORNEY GENERAL,,IND,James,1
+Allegany,Hume,ATTORNEY GENERAL,,IND,James,6
+Allegany,Independence,ATTORNEY GENERAL,,IND,James,4
+Allegany,New Hudson,ATTORNEY GENERAL,,IND,James,6
+Allegany,Rushford,ATTORNEY GENERAL,,IND,James,4
+Allegany,Scio,ATTORNEY GENERAL,,IND,James,2
+Allegany,Ward,ATTORNEY GENERAL,,IND,James,2
+Allegany,Wellsville 1,ATTORNEY GENERAL,,IND,James,7
+Allegany,Wellsville 2,ATTORNEY GENERAL,,IND,James,4
+Allegany,Wellsville 3,ATTORNEY GENERAL,,IND,James,10
+Allegany,Wellsville 4,ATTORNEY GENERAL,,IND,James,3
+Allegany,Wellsville 5,ATTORNEY GENERAL,,IND,James,9
+Allegany,West Almond,ATTORNEY GENERAL,,IND,James,2
+Allegany,Willing,ATTORNEY GENERAL,,IND,James,5
+Allegany,Wirt,ATTORNEY GENERAL,,IND,James,3
+Allegany,Alfred 1,ATTORNEY GENERAL,,REF,Sliwa,4
+Allegany,Alfred 2,ATTORNEY GENERAL,,REF,Sliwa,1
+Allegany,Allen,ATTORNEY GENERAL,,REF,Sliwa,1
+Allegany,Alma,ATTORNEY GENERAL,,REF,Sliwa,0
+Allegany,Almond,ATTORNEY GENERAL,,REF,Sliwa,2
+Allegany,Amity 1,ATTORNEY GENERAL,,REF,Sliwa,4
+Allegany,Amity 2,ATTORNEY GENERAL,,REF,Sliwa,1
+Allegany,Andover 1,ATTORNEY GENERAL,,REF,Sliwa,1
+Allegany,Andover 2,ATTORNEY GENERAL,,REF,Sliwa,1
+Allegany,Angelica 1,ATTORNEY GENERAL,,REF,Sliwa,2
+Allegany,Angelica 2,ATTORNEY GENERAL,,REF,Sliwa,0
+Allegany,Belfast,ATTORNEY GENERAL,,REF,Sliwa,0
+Allegany,Birdsall,ATTORNEY GENERAL,,REF,Sliwa,1
+Allegany,Bolivar,ATTORNEY GENERAL,,REF,Sliwa,4
+Allegany,Burns,ATTORNEY GENERAL,,REF,Sliwa,1
+Allegany,Caneadea 1,ATTORNEY GENERAL,,REF,Sliwa,3
+Allegany,Caneadea 2,ATTORNEY GENERAL,,REF,Sliwa,1
+Allegany,Centerville,ATTORNEY GENERAL,,REF,Sliwa,1
+Allegany,Clarksville,ATTORNEY GENERAL,,REF,Sliwa,3
+Allegany,Cuba 1,ATTORNEY GENERAL,,REF,Sliwa,3
+Allegany,Cuba 2,ATTORNEY GENERAL,,REF,Sliwa,2
+Allegany,Friendship,ATTORNEY GENERAL,,REF,Sliwa,4
+Allegany,Genesee,ATTORNEY GENERAL,,REF,Sliwa,3
+Allegany,Granger,ATTORNEY GENERAL,,REF,Sliwa,0
+Allegany,Grove,ATTORNEY GENERAL,,REF,Sliwa,0
+Allegany,Hume,ATTORNEY GENERAL,,REF,Sliwa,3
+Allegany,Independence,ATTORNEY GENERAL,,REF,Sliwa,1
+Allegany,New Hudson,ATTORNEY GENERAL,,REF,Sliwa,3
+Allegany,Rushford,ATTORNEY GENERAL,,REF,Sliwa,3
+Allegany,Scio,ATTORNEY GENERAL,,REF,Sliwa,3
+Allegany,Ward,ATTORNEY GENERAL,,REF,Sliwa,0
+Allegany,Wellsville 1,ATTORNEY GENERAL,,REF,Sliwa,2
+Allegany,Wellsville 2,ATTORNEY GENERAL,,REF,Sliwa,4
+Allegany,Wellsville 3,ATTORNEY GENERAL,,REF,Sliwa,4
+Allegany,Wellsville 4,ATTORNEY GENERAL,,REF,Sliwa,1
+Allegany,Wellsville 5,ATTORNEY GENERAL,,REF,Sliwa,0
+Allegany,West Almond,ATTORNEY GENERAL,,REF,Sliwa,3
+Allegany,Willing,ATTORNEY GENERAL,,REF,Sliwa,1
+Allegany,Wirt,ATTORNEY GENERAL,,REF,Sliwa,1
+Allegany,Alfred 1,ATTORNEY GENERAL,,LIB,Garvey,7
+Allegany,Alfred 2,ATTORNEY GENERAL,,LIB,Garvey,14
+Allegany,Allen,ATTORNEY GENERAL,,LIB,Garvey,3
+Allegany,Alma,ATTORNEY GENERAL,,LIB,Garvey,1
+Allegany,Almond,ATTORNEY GENERAL,,LIB,Garvey,11
+Allegany,Amity 1,ATTORNEY GENERAL,,LIB,Garvey,4
+Allegany,Amity 2,ATTORNEY GENERAL,,LIB,Garvey,7
+Allegany,Andover 1,ATTORNEY GENERAL,,LIB,Garvey,7
+Allegany,Andover 2,ATTORNEY GENERAL,,LIB,Garvey,3
+Allegany,Angelica 1,ATTORNEY GENERAL,,LIB,Garvey,0
+Allegany,Angelica 2,ATTORNEY GENERAL,,LIB,Garvey,4
+Allegany,Belfast,ATTORNEY GENERAL,,LIB,Garvey,7
+Allegany,Birdsall,ATTORNEY GENERAL,,LIB,Garvey,0
+Allegany,Bolivar,ATTORNEY GENERAL,,LIB,Garvey,9
+Allegany,Burns,ATTORNEY GENERAL,,LIB,Garvey,6
+Allegany,Caneadea 1,ATTORNEY GENERAL,,LIB,Garvey,2
+Allegany,Caneadea 2,ATTORNEY GENERAL,,LIB,Garvey,9
+Allegany,Centerville,ATTORNEY GENERAL,,LIB,Garvey,3
+Allegany,Clarksville,ATTORNEY GENERAL,,LIB,Garvey,3
+Allegany,Cuba 1,ATTORNEY GENERAL,,LIB,Garvey,12
+Allegany,Cuba 2,ATTORNEY GENERAL,,LIB,Garvey,6
+Allegany,Friendship,ATTORNEY GENERAL,,LIB,Garvey,8
+Allegany,Genesee,ATTORNEY GENERAL,,LIB,Garvey,0
+Allegany,Granger,ATTORNEY GENERAL,,LIB,Garvey,0
+Allegany,Grove,ATTORNEY GENERAL,,LIB,Garvey,2
+Allegany,Hume,ATTORNEY GENERAL,,LIB,Garvey,11
+Allegany,Independence,ATTORNEY GENERAL,,LIB,Garvey,3
+Allegany,New Hudson,ATTORNEY GENERAL,,LIB,Garvey,3
+Allegany,Rushford,ATTORNEY GENERAL,,LIB,Garvey,5
+Allegany,Scio,ATTORNEY GENERAL,,LIB,Garvey,4
+Allegany,Ward,ATTORNEY GENERAL,,LIB,Garvey,4
+Allegany,Wellsville 1,ATTORNEY GENERAL,,LIB,Garvey,5
+Allegany,Wellsville 2,ATTORNEY GENERAL,,LIB,Garvey,6
+Allegany,Wellsville 3,ATTORNEY GENERAL,,LIB,Garvey,7
+Allegany,Wellsville 4,ATTORNEY GENERAL,,LIB,Garvey,2
+Allegany,Wellsville 5,ATTORNEY GENERAL,,LIB,Garvey,3
+Allegany,West Almond,ATTORNEY GENERAL,,LIB,Garvey,0
+Allegany,Willing,ATTORNEY GENERAL,,LIB,Garvey,7
+Allegany,Wirt,ATTORNEY GENERAL,,LIB,Garvey,9

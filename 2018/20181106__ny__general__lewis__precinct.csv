@@ -1,0 +1,2244 @@
+county ,precinct,office,district,party,candidate,votes
+Lewis,Croghan 1,Governor,,DEM,Andrew M. Cuomo,12
+Lewis,Croghan 2,Governor,,DEM,Andrew M. Cuomo,36
+Lewis,Croghan 3,Governor,,DEM,Andrew M. Cuomo,47
+Lewis,Croghan 4,Governor,,DEM,Andrew M. Cuomo,41
+Lewis,Croghan 5,Governor,,DEM,Andrew M. Cuomo,17
+Lewis,Croghan 6,Governor,,DEM,Andrew M. Cuomo,14
+Lewis,Denmark 1,Governor,,DEM,Andrew M. Cuomo,35
+Lewis,Denmark 2,Governor,,DEM,Andrew M. Cuomo,66
+Lewis,Denmark 3,Governor,,DEM,Andrew M. Cuomo,36
+Lewis,Diana 1,Governor,,DEM,Andrew M. Cuomo,81
+Lewis,Diana 2,Governor,,DEM,Andrew M. Cuomo,39
+Lewis,Greig,Governor,,DEM,Andrew M. Cuomo,88
+Lewis,Harrisburg,Governor,,DEM,Andrew M. Cuomo,31
+Lewis,Lewis,Governor,,DEM,Andrew M. Cuomo,31
+Lewis,Leyden 1,Governor,,DEM,Andrew M. Cuomo,36
+Lewis,Leyden 2,Governor,,DEM,Andrew M. Cuomo,20
+Lewis,Leyden 3,Governor,,DEM,Andrew M. Cuomo,22
+Lewis,Lowville 1,Governor,,DEM,Andrew M. Cuomo,54
+Lewis,Lowville 2,Governor,,DEM,Andrew M. Cuomo,70
+Lewis,Lowville 3,Governor,,DEM,Andrew M. Cuomo,35
+Lewis,Lowville 4,Governor,,DEM,Andrew M. Cuomo,178
+Lewis,Lowville 5,Governor,,DEM,Andrew M. Cuomo,20
+Lewis,Lyonsdale 1,Governor,,DEM,Andrew M. Cuomo,29
+Lewis,Lyonsdale 2,Governor,,DEM,Andrew M. Cuomo,8
+Lewis,Lyonsdale 3,Governor,,DEM,Andrew M. Cuomo,2
+Lewis,Martinsburg,Governor,,DEM,Andrew M. Cuomo,76
+Lewis,Montague,Governor,,DEM,Andrew M. Cuomo,3
+Lewis,New Bremen 1,Governor,,DEM,Andrew M. Cuomo,60
+Lewis,New Bremen 2,Governor,,DEM,Andrew M. Cuomo,62
+Lewis,New Bremen 3,Governor,,DEM,Andrew M. Cuomo,21
+Lewis,Osceola,Governor,,DEM,Andrew M. Cuomo,11
+Lewis,Pinckney,Governor,,DEM,Andrew M. Cuomo,13
+Lewis,Turin,Governor,,DEM,Andrew M. Cuomo,50
+Lewis,Watson,Governor,,DEM,Andrew M. Cuomo,116
+Lewis,West Turin 1,Governor,,DEM,Andrew M. Cuomo,32
+Lewis,West Turin 2,Governor,,DEM,Andrew M. Cuomo,7
+Lewis,West Turin 3,Governor,,DEM,Andrew M. Cuomo,16
+Lewis,West Turin 4,Governor,,DEM,Andrew M. Cuomo,31
+Lewis,Croghan 1,Governor,,REP,Marcus Molinaro,103
+Lewis,Croghan 2,Governor,,REP,Marcus Molinaro,84
+Lewis,Croghan 3,Governor,,REP,Marcus Molinaro,199
+Lewis,Croghan 4,Governor,,REP,Marcus Molinaro,180
+Lewis,Croghan 5,Governor,,REP,Marcus Molinaro,33
+Lewis,Croghan 6,Governor,,REP,Marcus Molinaro,30
+Lewis,Denmark 1,Governor,,REP,Marcus Molinaro,104
+Lewis,Denmark 2,Governor,,REP,Marcus Molinaro,230
+Lewis,Denmark 3,Governor,,REP,Marcus Molinaro,162
+Lewis,Diana 1,Governor,,REP,Marcus Molinaro,207
+Lewis,Diana 2,Governor,,REP,Marcus Molinaro,100
+Lewis,Greig,Governor,,REP,Marcus Molinaro,308
+Lewis,Harrisburg,Governor,,REP,Marcus Molinaro,113
+Lewis,Lewis,Governor,,REP,Marcus Molinaro,203
+Lewis,Leyden 1,Governor,,REP,Marcus Molinaro,182
+Lewis,Leyden 2,Governor,,REP,Marcus Molinaro,93
+Lewis,Leyden 3,Governor,,REP,Marcus Molinaro,94
+Lewis,Lowville 1,Governor,,REP,Marcus Molinaro,132
+Lewis,Lowville 2,Governor,,REP,Marcus Molinaro,172
+Lewis,Lowville 3,Governor,,REP,Marcus Molinaro,87
+Lewis,Lowville 4,Governor,,REP,Marcus Molinaro,365
+Lewis,Lowville 5,Governor,,REP,Marcus Molinaro,92
+Lewis,Lyonsdale 1,Governor,,REP,Marcus Molinaro,186
+Lewis,Lyonsdale 2,Governor,,REP,Marcus Molinaro,48
+Lewis,Lyonsdale 3,Governor,,REP,Marcus Molinaro,16
+Lewis,Martinsburg,Governor,,REP,Marcus Molinaro,255
+Lewis,Montague,Governor,,REP,Marcus Molinaro,30
+Lewis,New Bremen 1,Governor,,REP,Marcus Molinaro,274
+Lewis,New Bremen 2,Governor,,REP,Marcus Molinaro,273
+Lewis,New Bremen 3,Governor,,REP,Marcus Molinaro,55
+Lewis,Osceola,Governor,,REP,Marcus Molinaro,82
+Lewis,Pinckney,Governor,,REP,Marcus Molinaro,93
+Lewis,Turin,Governor,,REP,Marcus Molinaro,168
+Lewis,Watson,Governor,,REP,Marcus Molinaro,391
+Lewis,West Turin 1,Governor,,REP,Marcus Molinaro,189
+Lewis,West Turin 2,Governor,,REP,Marcus Molinaro,48
+Lewis,West Turin 3,Governor,,REP,Marcus Molinaro,78
+Lewis,West Turin 4,Governor,,REP,Marcus Molinaro,105
+Lewis,Croghan 1,Governor,,CON,Marcus Molinaro,14
+Lewis,Croghan 2,Governor,,CON,Marcus Molinaro,9
+Lewis,Croghan 3,Governor,,CON,Marcus Molinaro,23
+Lewis,Croghan 4,Governor,,CON,Marcus Molinaro,17
+Lewis,Croghan 5,Governor,,CON,Marcus Molinaro,2
+Lewis,Croghan 6,Governor,,CON,Marcus Molinaro,5
+Lewis,Denmark 1,Governor,,CON,Marcus Molinaro,7
+Lewis,Denmark 2,Governor,,CON,Marcus Molinaro,21
+Lewis,Denmark 3,Governor,,CON,Marcus Molinaro,24
+Lewis,Diana 1,Governor,,CON,Marcus Molinaro,31
+Lewis,Diana 2,Governor,,CON,Marcus Molinaro,6
+Lewis,Greig,Governor,,CON,Marcus Molinaro,20
+Lewis,Harrisburg,Governor,,CON,Marcus Molinaro,12
+Lewis,Lewis,Governor,,CON,Marcus Molinaro,19
+Lewis,Leyden 1,Governor,,CON,Marcus Molinaro,20
+Lewis,Leyden 2,Governor,,CON,Marcus Molinaro,9
+Lewis,Leyden 3,Governor,,CON,Marcus Molinaro,3
+Lewis,Lowville 1,Governor,,CON,Marcus Molinaro,8
+Lewis,Lowville 2,Governor,,CON,Marcus Molinaro,9
+Lewis,Lowville 3,Governor,,CON,Marcus Molinaro,10
+Lewis,Lowville 4,Governor,,CON,Marcus Molinaro,32
+Lewis,Lowville 5,Governor,,CON,Marcus Molinaro,6
+Lewis,Lyonsdale 1,Governor,,CON,Marcus Molinaro,13
+Lewis,Lyonsdale 2,Governor,,CON,Marcus Molinaro,2
+Lewis,Lyonsdale 3,Governor,,CON,Marcus Molinaro,0
+Lewis,Martinsburg,Governor,,CON,Marcus Molinaro,25
+Lewis,Montague,Governor,,CON,Marcus Molinaro,1
+Lewis,New Bremen 1,Governor,,CON,Marcus Molinaro,30
+Lewis,New Bremen 2,Governor,,CON,Marcus Molinaro,29
+Lewis,New Bremen 3,Governor,,CON,Marcus Molinaro,7
+Lewis,Osceola,Governor,,CON,Marcus Molinaro,5
+Lewis,Pinckney,Governor,,CON,Marcus Molinaro,6
+Lewis,Turin,Governor,,CON,Marcus Molinaro,8
+Lewis,Watson,Governor,,CON,Marcus Molinaro,29
+Lewis,West Turin 1,Governor,,CON,Marcus Molinaro,28
+Lewis,West Turin 2,Governor,,CON,Marcus Molinaro,4
+Lewis,West Turin 3,Governor,,CON,Marcus Molinaro,9
+Lewis,West Turin 4,Governor,,CON,Marcus Molinaro,8
+Lewis,Croghan 1,Governor,,GRE,Howie Hawkins,1
+Lewis,Croghan 2,Governor,,GRE,Howie Hawkins,0
+Lewis,Croghan 3,Governor,,GRE,Howie Hawkins,6
+Lewis,Croghan 4,Governor,,GRE,Howie Hawkins,2
+Lewis,Croghan 5,Governor,,GRE,Howie Hawkins,1
+Lewis,Croghan 6,Governor,,GRE,Howie Hawkins,0
+Lewis,Denmark 1,Governor,,GRE,Howie Hawkins,2
+Lewis,Denmark 2,Governor,,GRE,Howie Hawkins,5
+Lewis,Denmark 3,Governor,,GRE,Howie Hawkins,2
+Lewis,Diana 1,Governor,,GRE,Howie Hawkins,7
+Lewis,Diana 2,Governor,,GRE,Howie Hawkins,2
+Lewis,Greig,Governor,,GRE,Howie Hawkins,5
+Lewis,Harrisburg,Governor,,GRE,Howie Hawkins,2
+Lewis,Lewis,Governor,,GRE,Howie Hawkins,2
+Lewis,Leyden 1,Governor,,GRE,Howie Hawkins,3
+Lewis,Leyden 2,Governor,,GRE,Howie Hawkins,2
+Lewis,Leyden 3,Governor,,GRE,Howie Hawkins,3
+Lewis,Lowville 1,Governor,,GRE,Howie Hawkins,0
+Lewis,Lowville 2,Governor,,GRE,Howie Hawkins,6
+Lewis,Lowville 3,Governor,,GRE,Howie Hawkins,4
+Lewis,Lowville 4,Governor,,GRE,Howie Hawkins,9
+Lewis,Lowville 5,Governor,,GRE,Howie Hawkins,1
+Lewis,Lyonsdale 1,Governor,,GRE,Howie Hawkins,1
+Lewis,Lyonsdale 2,Governor,,GRE,Howie Hawkins,1
+Lewis,Lyonsdale 3,Governor,,GRE,Howie Hawkins,0
+Lewis,Martinsburg,Governor,,GRE,Howie Hawkins,3
+Lewis,Montague,Governor,,GRE,Howie Hawkins,0
+Lewis,New Bremen 1,Governor,,GRE,Howie Hawkins,6
+Lewis,New Bremen 2,Governor,,GRE,Howie Hawkins,4
+Lewis,New Bremen 3,Governor,,GRE,Howie Hawkins,1
+Lewis,Osceola,Governor,,GRE,Howie Hawkins,0
+Lewis,Pinckney,Governor,,GRE,Howie Hawkins,2
+Lewis,Turin,Governor,,GRE,Howie Hawkins,2
+Lewis,Watson,Governor,,GRE,Howie Hawkins,7
+Lewis,West Turin 1,Governor,,GRE,Howie Hawkins,2
+Lewis,West Turin 2,Governor,,GRE,Howie Hawkins,0
+Lewis,West Turin 3,Governor,,GRE,Howie Hawkins,0
+Lewis,West Turin 4,Governor,,GRE,Howie Hawkins,0
+Lewis,Croghan 1,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Croghan 2,Governor,,WOR,Andrew M. Cuomo,1
+Lewis,Croghan 3,Governor,,WOR,Andrew M. Cuomo,1
+Lewis,Croghan 4,Governor,,WOR,Andrew M. Cuomo,1
+Lewis,Croghan 5,Governor,,WOR,Andrew M. Cuomo,1
+Lewis,Croghan 6,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Denmark 1,Governor,,WOR,Andrew M. Cuomo,2
+Lewis,Denmark 2,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Denmark 3,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Diana 1,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Diana 2,Governor,,WOR,Andrew M. Cuomo,1
+Lewis,Greig,Governor,,WOR,Andrew M. Cuomo,1
+Lewis,Harrisburg,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Lewis,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Leyden 1,Governor,,WOR,Andrew M. Cuomo,2
+Lewis,Leyden 2,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Leyden 3,Governor,,WOR,Andrew M. Cuomo,2
+Lewis,Lowville 1,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Lowville 2,Governor,,WOR,Andrew M. Cuomo,1
+Lewis,Lowville 3,Governor,,WOR,Andrew M. Cuomo,1
+Lewis,Lowville 4,Governor,,WOR,Andrew M. Cuomo,5
+Lewis,Lowville 5,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Lyonsdale 1,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Lyonsdale 2,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Lyonsdale 3,Governor,,WOR,Andrew M. Cuomo,1
+Lewis,Martinsburg,Governor,,WOR,Andrew M. Cuomo,1
+Lewis,Montague,Governor,,WOR,Andrew M. Cuomo,1
+Lewis,New Bremen 1,Governor,,WOR,Andrew M. Cuomo,2
+Lewis,New Bremen 2,Governor,,WOR,Andrew M. Cuomo,1
+Lewis,New Bremen 3,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Osceola,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Pinckney,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Turin,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,Watson,Governor,,WOR,Andrew M. Cuomo,4
+Lewis,West Turin 1,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,West Turin 2,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,West Turin 3,Governor,,WOR,Andrew M. Cuomo,0
+Lewis,West Turin 4,Governor,,WOR,Andrew M. Cuomo,3
+Lewis,Croghan 1,Governor,,IND,Andrew M. Cuomo,2
+Lewis,Croghan 2,Governor,,IND,Andrew M. Cuomo,0
+Lewis,Croghan 3,Governor,,IND,Andrew M. Cuomo,0
+Lewis,Croghan 4,Governor,,IND,Andrew M. Cuomo,2
+Lewis,Croghan 5,Governor,,IND,Andrew M. Cuomo,0
+Lewis,Croghan 6,Governor,,IND,Andrew M. Cuomo,0
+Lewis,Denmark 1,Governor,,IND,Andrew M. Cuomo,2
+Lewis,Denmark 2,Governor,,IND,Andrew M. Cuomo,1
+Lewis,Denmark 3,Governor,,IND,Andrew M. Cuomo,2
+Lewis,Diana 1,Governor,,IND,Andrew M. Cuomo,3
+Lewis,Diana 2,Governor,,IND,Andrew M. Cuomo,0
+Lewis,Greig,Governor,,IND,Andrew M. Cuomo,2
+Lewis,Harrisburg,Governor,,IND,Andrew M. Cuomo,0
+Lewis,Lewis,Governor,,IND,Andrew M. Cuomo,0
+Lewis,Leyden 1,Governor,,IND,Andrew M. Cuomo,1
+Lewis,Leyden 2,Governor,,IND,Andrew M. Cuomo,0
+Lewis,Leyden 3,Governor,,IND,Andrew M. Cuomo,0
+Lewis,Lowville 1,Governor,,IND,Andrew M. Cuomo,1
+Lewis,Lowville 2,Governor,,IND,Andrew M. Cuomo,2
+Lewis,Lowville 3,Governor,,IND,Andrew M. Cuomo,1
+Lewis,Lowville 4,Governor,,IND,Andrew M. Cuomo,3
+Lewis,Lowville 5,Governor,,IND,Andrew M. Cuomo,1
+Lewis,Lyonsdale 1,Governor,,IND,Andrew M. Cuomo,0
+Lewis,Lyonsdale 2,Governor,,IND,Andrew M. Cuomo,1
+Lewis,Lyonsdale 3,Governor,,IND,Andrew M. Cuomo,0
+Lewis,Martinsburg,Governor,,IND,Andrew M. Cuomo,3
+Lewis,Montague,Governor,,IND,Andrew M. Cuomo,0
+Lewis,New Bremen 1,Governor,,IND,Andrew M. Cuomo,5
+Lewis,New Bremen 2,Governor,,IND,Andrew M. Cuomo,1
+Lewis,New Bremen 3,Governor,,IND,Andrew M. Cuomo,0
+Lewis,Osceola,Governor,,IND,Andrew M. Cuomo,0
+Lewis,Pinckney,Governor,,IND,Andrew M. Cuomo,0
+Lewis,Turin,Governor,,IND,Andrew M. Cuomo,1
+Lewis,Watson,Governor,,IND,Andrew M. Cuomo,6
+Lewis,West Turin 1,Governor,,IND,Andrew M. Cuomo,3
+Lewis,West Turin 2,Governor,,IND,Andrew M. Cuomo,0
+Lewis,West Turin 3,Governor,,IND,Andrew M. Cuomo,0
+Lewis,West Turin 4,Governor,,IND,Andrew M. Cuomo,1
+Lewis,Croghan 1,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Croghan 2,Governor,,WEP,Andrew M. Cuomo,1
+Lewis,Croghan 3,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Croghan 4,Governor,,WEP,Andrew M. Cuomo,1
+Lewis,Croghan 5,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Croghan 6,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Denmark 1,Governor,,WEP,Andrew M. Cuomo,1
+Lewis,Denmark 2,Governor,,WEP,Andrew M. Cuomo,1
+Lewis,Denmark 3,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Diana 1,Governor,,WEP,Andrew M. Cuomo,2
+Lewis,Diana 2,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Greig,Governor,,WEP,Andrew M. Cuomo,3
+Lewis,Harrisburg,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Lewis,Governor,,WEP,Andrew M. Cuomo,1
+Lewis,Leyden 1,Governor,,WEP,Andrew M. Cuomo,2
+Lewis,Leyden 2,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Leyden 3,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Lowville 1,Governor,,WEP,Andrew M. Cuomo,1
+Lewis,Lowville 2,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Lowville 3,Governor,,WEP,Andrew M. Cuomo,1
+Lewis,Lowville 4,Governor,,WEP,Andrew M. Cuomo,3
+Lewis,Lowville 5,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Lyonsdale 1,Governor,,WEP,Andrew M. Cuomo,2
+Lewis,Lyonsdale 2,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Lyonsdale 3,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Martinsburg,Governor,,WEP,Andrew M. Cuomo,1
+Lewis,Montague,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,New Bremen 1,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,New Bremen 2,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,New Bremen 3,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Osceola,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Pinckney,Governor,,WEP,Andrew M. Cuomo,1
+Lewis,Turin,Governor,,WEP,Andrew M. Cuomo,1
+Lewis,Watson,Governor,,WEP,Andrew M. Cuomo,2
+Lewis,West Turin 1,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,West Turin 2,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,West Turin 3,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,West Turin 4,Governor,,WEP,Andrew M. Cuomo,0
+Lewis,Croghan 1,Governor,,REF,Marcus Molinaro,2
+Lewis,Croghan 2,Governor,,REF,Marcus Molinaro,1
+Lewis,Croghan 3,Governor,,REF,Marcus Molinaro,1
+Lewis,Croghan 4,Governor,,REF,Marcus Molinaro,4
+Lewis,Croghan 5,Governor,,REF,Marcus Molinaro,1
+Lewis,Croghan 6,Governor,,REF,Marcus Molinaro,0
+Lewis,Denmark 1,Governor,,REF,Marcus Molinaro,1
+Lewis,Denmark 2,Governor,,REF,Marcus Molinaro,2
+Lewis,Denmark 3,Governor,,REF,Marcus Molinaro,0
+Lewis,Diana 1,Governor,,REF,Marcus Molinaro,3
+Lewis,Diana 2,Governor,,REF,Marcus Molinaro,0
+Lewis,Greig,Governor,,REF,Marcus Molinaro,2
+Lewis,Harrisburg,Governor,,REF,Marcus Molinaro,2
+Lewis,Lewis,Governor,,REF,Marcus Molinaro,2
+Lewis,Leyden 1,Governor,,REF,Marcus Molinaro,6
+Lewis,Leyden 2,Governor,,REF,Marcus Molinaro,3
+Lewis,Leyden 3,Governor,,REF,Marcus Molinaro,2
+Lewis,Lowville 1,Governor,,REF,Marcus Molinaro,1
+Lewis,Lowville 2,Governor,,REF,Marcus Molinaro,0
+Lewis,Lowville 3,Governor,,REF,Marcus Molinaro,3
+Lewis,Lowville 4,Governor,,REF,Marcus Molinaro,5
+Lewis,Lowville 5,Governor,,REF,Marcus Molinaro,0
+Lewis,Lyonsdale 1,Governor,,REF,Marcus Molinaro,3
+Lewis,Lyonsdale 2,Governor,,REF,Marcus Molinaro,0
+Lewis,Lyonsdale 3,Governor,,REF,Marcus Molinaro,0
+Lewis,Martinsburg,Governor,,REF,Marcus Molinaro,2
+Lewis,Montague,Governor,,REF,Marcus Molinaro,0
+Lewis,New Bremen 1,Governor,,REF,Marcus Molinaro,4
+Lewis,New Bremen 2,Governor,,REF,Marcus Molinaro,6
+Lewis,New Bremen 3,Governor,,REF,Marcus Molinaro,0
+Lewis,Osceola,Governor,,REF,Marcus Molinaro,1
+Lewis,Pinckney,Governor,,REF,Marcus Molinaro,2
+Lewis,Turin,Governor,,REF,Marcus Molinaro,0
+Lewis,Watson,Governor,,REF,Marcus Molinaro,10
+Lewis,West Turin 1,Governor,,REF,Marcus Molinaro,2
+Lewis,West Turin 2,Governor,,REF,Marcus Molinaro,0
+Lewis,West Turin 3,Governor,,REF,Marcus Molinaro,1
+Lewis,West Turin 4,Governor,,REF,Marcus Molinaro,1
+Lewis,Croghan 1,Governor,,SAM,Stephanie A. Miner,3
+Lewis,Croghan 2,Governor,,SAM,Stephanie A. Miner,1
+Lewis,Croghan 3,Governor,,SAM,Stephanie A. Miner,2
+Lewis,Croghan 4,Governor,,SAM,Stephanie A. Miner,0
+Lewis,Croghan 5,Governor,,SAM,Stephanie A. Miner,1
+Lewis,Croghan 6,Governor,,SAM,Stephanie A. Miner,1
+Lewis,Denmark 1,Governor,,SAM,Stephanie A. Miner,1
+Lewis,Denmark 2,Governor,,SAM,Stephanie A. Miner,7
+Lewis,Denmark 3,Governor,,SAM,Stephanie A. Miner,4
+Lewis,Diana 1,Governor,,SAM,Stephanie A. Miner,5
+Lewis,Diana 2,Governor,,SAM,Stephanie A. Miner,3
+Lewis,Greig,Governor,,SAM,Stephanie A. Miner,3
+Lewis,Harrisburg,Governor,,SAM,Stephanie A. Miner,3
+Lewis,Lewis,Governor,,SAM,Stephanie A. Miner,7
+Lewis,Leyden 1,Governor,,SAM,Stephanie A. Miner,1
+Lewis,Leyden 2,Governor,,SAM,Stephanie A. Miner,2
+Lewis,Leyden 3,Governor,,SAM,Stephanie A. Miner,1
+Lewis,Lowville 1,Governor,,SAM,Stephanie A. Miner,4
+Lewis,Lowville 2,Governor,,SAM,Stephanie A. Miner,5
+Lewis,Lowville 3,Governor,,SAM,Stephanie A. Miner,0
+Lewis,Lowville 4,Governor,,SAM,Stephanie A. Miner,11
+Lewis,Lowville 5,Governor,,SAM,Stephanie A. Miner,1
+Lewis,Lyonsdale 1,Governor,,SAM,Stephanie A. Miner,3
+Lewis,Lyonsdale 2,Governor,,SAM,Stephanie A. Miner,2
+Lewis,Lyonsdale 3,Governor,,SAM,Stephanie A. Miner,2
+Lewis,Martinsburg,Governor,,SAM,Stephanie A. Miner,2
+Lewis,Montague,Governor,,SAM,Stephanie A. Miner,1
+Lewis,New Bremen 1,Governor,,SAM,Stephanie A. Miner,5
+Lewis,New Bremen 2,Governor,,SAM,Stephanie A. Miner,7
+Lewis,New Bremen 3,Governor,,SAM,Stephanie A. Miner,3
+Lewis,Osceola,Governor,,SAM,Stephanie A. Miner,4
+Lewis,Pinckney,Governor,,SAM,Stephanie A. Miner,2
+Lewis,Turin,Governor,,SAM,Stephanie A. Miner,2
+Lewis,Watson,Governor,,SAM,Stephanie A. Miner,9
+Lewis,West Turin 1,Governor,,SAM,Stephanie A. Miner,4
+Lewis,West Turin 2,Governor,,SAM,Stephanie A. Miner,0
+Lewis,West Turin 3,Governor,,SAM,Stephanie A. Miner,1
+Lewis,West Turin 4,Governor,,SAM,Stephanie A. Miner,9
+Lewis,Croghan 1,Governor,,LIB,Larry Sharpe,5
+Lewis,Croghan 2,Governor,,LIB,Larry Sharpe,2
+Lewis,Croghan 3,Governor,,LIB,Larry Sharpe,20
+Lewis,Croghan 4,Governor,,LIB,Larry Sharpe,8
+Lewis,Croghan 5,Governor,,LIB,Larry Sharpe,2
+Lewis,Croghan 6,Governor,,LIB,Larry Sharpe,6
+Lewis,Denmark 1,Governor,,LIB,Larry Sharpe,7
+Lewis,Denmark 2,Governor,,LIB,Larry Sharpe,6
+Lewis,Denmark 3,Governor,,LIB,Larry Sharpe,5
+Lewis,Diana 1,Governor,,LIB,Larry Sharpe,10
+Lewis,Diana 2,Governor,,LIB,Larry Sharpe,5
+Lewis,Greig,Governor,,LIB,Larry Sharpe,21
+Lewis,Harrisburg,Governor,,LIB,Larry Sharpe,4
+Lewis,Lewis,Governor,,LIB,Larry Sharpe,9
+Lewis,Leyden 1,Governor,,LIB,Larry Sharpe,7
+Lewis,Leyden 2,Governor,,LIB,Larry Sharpe,8
+Lewis,Leyden 3,Governor,,LIB,Larry Sharpe,7
+Lewis,Lowville 1,Governor,,LIB,Larry Sharpe,12
+Lewis,Lowville 2,Governor,,LIB,Larry Sharpe,16
+Lewis,Lowville 3,Governor,,LIB,Larry Sharpe,4
+Lewis,Lowville 4,Governor,,LIB,Larry Sharpe,40
+Lewis,Lowville 5,Governor,,LIB,Larry Sharpe,3
+Lewis,Lyonsdale 1,Governor,,LIB,Larry Sharpe,17
+Lewis,Lyonsdale 2,Governor,,LIB,Larry Sharpe,10
+Lewis,Lyonsdale 3,Governor,,LIB,Larry Sharpe,0
+Lewis,Martinsburg,Governor,,LIB,Larry Sharpe,22
+Lewis,Montague,Governor,,LIB,Larry Sharpe,1
+Lewis,New Bremen 1,Governor,,LIB,Larry Sharpe,22
+Lewis,New Bremen 2,Governor,,LIB,Larry Sharpe,26
+Lewis,New Bremen 3,Governor,,LIB,Larry Sharpe,9
+Lewis,Osceola,Governor,,LIB,Larry Sharpe,4
+Lewis,Pinckney,Governor,,LIB,Larry Sharpe,1
+Lewis,Turin,Governor,,LIB,Larry Sharpe,14
+Lewis,Watson,Governor,,LIB,Larry Sharpe,33
+Lewis,West Turin 1,Governor,,LIB,Larry Sharpe,14
+Lewis,West Turin 2,Governor,,LIB,Larry Sharpe,5
+Lewis,West Turin 3,Governor,,LIB,Larry Sharpe,5
+Lewis,West Turin 4,Governor,,LIB,Larry Sharpe,6
+Lewis,Croghan 1,Governor,,,Write-Ins,0
+Lewis,Croghan 2,Governor,,,Write-Ins,0
+Lewis,Croghan 3,Governor,,,Write-Ins,0
+Lewis,Croghan 4,Governor,,,Write-Ins,0
+Lewis,Croghan 5,Governor,,,Write-Ins,0
+Lewis,Croghan 6,Governor,,,Write-Ins,0
+Lewis,Denmark 1,Governor,,,Write-Ins,0
+Lewis,Denmark 2,Governor,,,Write-Ins,0
+Lewis,Denmark 3,Governor,,,Write-Ins,0
+Lewis,Diana 1,Governor,,,Write-Ins,1
+Lewis,Diana 2,Governor,,,Write-Ins,0
+Lewis,Greig,Governor,,,Write-Ins,0
+Lewis,Harrisburg,Governor,,,Write-Ins,0
+Lewis,Lewis,Governor,,,Write-Ins,0
+Lewis,Leyden 1,Governor,,,Write-Ins,0
+Lewis,Leyden 2,Governor,,,Write-Ins,0
+Lewis,Leyden 3,Governor,,,Write-Ins,0
+Lewis,Lowville 1,Governor,,,Write-Ins,1
+Lewis,Lowville 2,Governor,,,Write-Ins,0
+Lewis,Lowville 3,Governor,,,Write-Ins,1
+Lewis,Lowville 4,Governor,,,Write-Ins,1
+Lewis,Lowville 5,Governor,,,Write-Ins,0
+Lewis,Lyonsdale 1,Governor,,,Write-Ins,0
+Lewis,Lyonsdale 2,Governor,,,Write-Ins,0
+Lewis,Lyonsdale 3,Governor,,,Write-Ins,0
+Lewis,Martinsburg,Governor,,,Write-Ins,1
+Lewis,Montague,Governor,,,Write-Ins,0
+Lewis,New Bremen 1,Governor,,,Write-Ins,0
+Lewis,New Bremen 2,Governor,,,Write-Ins,0
+Lewis,New Bremen 3,Governor,,,Write-Ins,0
+Lewis,Osceola,Governor,,,Write-Ins,0
+Lewis,Pinckney,Governor,,,Write-Ins,0
+Lewis,Turin,Governor,,,Write-Ins,0
+Lewis,Watson,Governor,,,Write-Ins,0
+Lewis,West Turin 1,Governor,,,Write-Ins,0
+Lewis,West Turin 2,Governor,,,Write-Ins,0
+Lewis,West Turin 3,Governor,,,Write-Ins,0
+Lewis,West Turin 4,Governor,,,Write-Ins,0
+Lewis,Croghan 1,Comptroller,,DEM,Thomas P. DiNapoli,32
+Lewis,Croghan 2,Comptroller,,DEM,Thomas P. DiNapoli,48
+Lewis,Croghan 3,Comptroller,,DEM,Thomas P. DiNapoli,101
+Lewis,Croghan 4,Comptroller,,DEM,Thomas P. DiNapoli,69
+Lewis,Croghan 5,Comptroller,,DEM,Thomas P. DiNapoli,26
+Lewis,Croghan 6,Comptroller,,DEM,Thomas P. DiNapoli,30
+Lewis,Denmark 1,Comptroller,,DEM,Thomas P. DiNapoli,51
+Lewis,Denmark 2,Comptroller,,DEM,Thomas P. DiNapoli,108
+Lewis,Denmark 3,Comptroller,,DEM,Thomas P. DiNapoli,73
+Lewis,Diana 1,Comptroller,,DEM,Thomas P. DiNapoli,134
+Lewis,Diana 2,Comptroller,,DEM,Thomas P. DiNapoli,71
+Lewis,Greig,Comptroller,,DEM,Thomas P. DiNapoli,149
+Lewis,Harrisburg,Comptroller,,DEM,Thomas P. DiNapoli,52
+Lewis,Lewis,Comptroller,,DEM,Thomas P. DiNapoli,66
+Lewis,Leyden 1,Comptroller,,DEM,Thomas P. DiNapoli,60
+Lewis,Leyden 2,Comptroller,,DEM,Thomas P. DiNapoli,38
+Lewis,Leyden 3,Comptroller,,DEM,Thomas P. DiNapoli,37
+Lewis,Lowville 1,Comptroller,,DEM,Thomas P. DiNapoli,96
+Lewis,Lowville 2,Comptroller,,DEM,Thomas P. DiNapoli,133
+Lewis,Lowville 3,Comptroller,,DEM,Thomas P. DiNapoli,63
+Lewis,Lowville 4,Comptroller,,DEM,Thomas P. DiNapoli,276
+Lewis,Lowville 5,Comptroller,,DEM,Thomas P. DiNapoli,42
+Lewis,Lyonsdale 1,Comptroller,,DEM,Thomas P. DiNapoli,69
+Lewis,Lyonsdale 2,Comptroller,,DEM,Thomas P. DiNapoli,16
+Lewis,Lyonsdale 3,Comptroller,,DEM,Thomas P. DiNapoli,6
+Lewis,Martinsburg,Comptroller,,DEM,Thomas P. DiNapoli,123
+Lewis,Montague,Comptroller,,DEM,Thomas P. DiNapoli,8
+Lewis,New Bremen 1,Comptroller,,DEM,Thomas P. DiNapoli,133
+Lewis,New Bremen 2,Comptroller,,DEM,Thomas P. DiNapoli,139
+Lewis,New Bremen 3,Comptroller,,DEM,Thomas P. DiNapoli,34
+Lewis,Osceola,Comptroller,,DEM,Thomas P. DiNapoli,27
+Lewis,Pinckney,Comptroller,,DEM,Thomas P. DiNapoli,32
+Lewis,Turin,Comptroller,,DEM,Thomas P. DiNapoli,82
+Lewis,Watson,Comptroller,,DEM,Thomas P. DiNapoli,213
+Lewis,West Turin 1,Comptroller,,DEM,Thomas P. DiNapoli,58
+Lewis,West Turin 2,Comptroller,,DEM,Thomas P. DiNapoli,20
+Lewis,West Turin 3,Comptroller,,DEM,Thomas P. DiNapoli,33
+Lewis,West Turin 4,Comptroller,,DEM,Thomas P. DiNapoli,63
+Lewis,Croghan 1,Comptroller,,REP,Jonathan Trichter,86
+Lewis,Croghan 2,Comptroller,,REP,Jonathan Trichter,64
+Lewis,Croghan 3,Comptroller,,REP,Jonathan Trichter,155
+Lewis,Croghan 4,Comptroller,,REP,Jonathan Trichter,143
+Lewis,Croghan 5,Comptroller,,REP,Jonathan Trichter,23
+Lewis,Croghan 6,Comptroller,,REP,Jonathan Trichter,22
+Lewis,Denmark 1,Comptroller,,REP,Jonathan Trichter,86
+Lewis,Denmark 2,Comptroller,,REP,Jonathan Trichter,178
+Lewis,Denmark 3,Comptroller,,REP,Jonathan Trichter,121
+Lewis,Diana 1,Comptroller,,REP,Jonathan Trichter,167
+Lewis,Diana 2,Comptroller,,REP,Jonathan Trichter,72
+Lewis,Greig,Comptroller,,REP,Jonathan Trichter,229
+Lewis,Harrisburg,Comptroller,,REP,Jonathan Trichter,86
+Lewis,Lewis,Comptroller,,REP,Jonathan Trichter,178
+Lewis,Leyden 1,Comptroller,,REP,Jonathan Trichter,149
+Lewis,Leyden 2,Comptroller,,REP,Jonathan Trichter,78
+Lewis,Leyden 3,Comptroller,,REP,Jonathan Trichter,75
+Lewis,Lowville 1,Comptroller,,REP,Jonathan Trichter,82
+Lewis,Lowville 2,Comptroller,,REP,Jonathan Trichter,121
+Lewis,Lowville 3,Comptroller,,REP,Jonathan Trichter,59
+Lewis,Lowville 4,Comptroller,,REP,Jonathan Trichter,280
+Lewis,Lowville 5,Comptroller,,REP,Jonathan Trichter,72
+Lewis,Lyonsdale 1,Comptroller,,REP,Jonathan Trichter,149
+Lewis,Lyonsdale 2,Comptroller,,REP,Jonathan Trichter,48
+Lewis,Lyonsdale 3,Comptroller,,REP,Jonathan Trichter,13
+Lewis,Martinsburg,Comptroller,,REP,Jonathan Trichter,209
+Lewis,Montague,Comptroller,,REP,Jonathan Trichter,24
+Lewis,New Bremen 1,Comptroller,,REP,Jonathan Trichter,205
+Lewis,New Bremen 2,Comptroller,,REP,Jonathan Trichter,204
+Lewis,New Bremen 3,Comptroller,,REP,Jonathan Trichter,50
+Lewis,Osceola,Comptroller,,REP,Jonathan Trichter,66
+Lewis,Pinckney,Comptroller,,REP,Jonathan Trichter,74
+Lewis,Turin,Comptroller,,REP,Jonathan Trichter,137
+Lewis,Watson,Comptroller,,REP,Jonathan Trichter,319
+Lewis,West Turin 1,Comptroller,,REP,Jonathan Trichter,165
+Lewis,West Turin 2,Comptroller,,REP,Jonathan Trichter,32
+Lewis,West Turin 3,Comptroller,,REP,Jonathan Trichter,59
+Lewis,West Turin 4,Comptroller,,REP,Jonathan Trichter,80
+Lewis,Croghan 1,Comptroller,,CON,Jonathan Trichter,9
+Lewis,Croghan 2,Comptroller,,CON,Jonathan Trichter,10
+Lewis,Croghan 3,Comptroller,,CON,Jonathan Trichter,23
+Lewis,Croghan 4,Comptroller,,CON,Jonathan Trichter,13
+Lewis,Croghan 5,Comptroller,,CON,Jonathan Trichter,5
+Lewis,Croghan 6,Comptroller,,CON,Jonathan Trichter,1
+Lewis,Denmark 1,Comptroller,,CON,Jonathan Trichter,12
+Lewis,Denmark 2,Comptroller,,CON,Jonathan Trichter,21
+Lewis,Denmark 3,Comptroller,,CON,Jonathan Trichter,20
+Lewis,Diana 1,Comptroller,,CON,Jonathan Trichter,24
+Lewis,Diana 2,Comptroller,,CON,Jonathan Trichter,6
+Lewis,Greig,Comptroller,,CON,Jonathan Trichter,20
+Lewis,Harrisburg,Comptroller,,CON,Jonathan Trichter,9
+Lewis,Lewis,Comptroller,,CON,Jonathan Trichter,15
+Lewis,Leyden 1,Comptroller,,CON,Jonathan Trichter,20
+Lewis,Leyden 2,Comptroller,,CON,Jonathan Trichter,9
+Lewis,Leyden 3,Comptroller,,CON,Jonathan Trichter,6
+Lewis,Lowville 1,Comptroller,,CON,Jonathan Trichter,12
+Lewis,Lowville 2,Comptroller,,CON,Jonathan Trichter,4
+Lewis,Lowville 3,Comptroller,,CON,Jonathan Trichter,8
+Lewis,Lowville 4,Comptroller,,CON,Jonathan Trichter,30
+Lewis,Lowville 5,Comptroller,,CON,Jonathan Trichter,2
+Lewis,Lyonsdale 1,Comptroller,,CON,Jonathan Trichter,11
+Lewis,Lyonsdale 2,Comptroller,,CON,Jonathan Trichter,2
+Lewis,Lyonsdale 3,Comptroller,,CON,Jonathan Trichter,0
+Lewis,Martinsburg,Comptroller,,CON,Jonathan Trichter,21
+Lewis,Montague,Comptroller,,CON,Jonathan Trichter,3
+Lewis,New Bremen 1,Comptroller,,CON,Jonathan Trichter,16
+Lewis,New Bremen 2,Comptroller,,CON,Jonathan Trichter,23
+Lewis,New Bremen 3,Comptroller,,CON,Jonathan Trichter,3
+Lewis,Osceola,Comptroller,,CON,Jonathan Trichter,5
+Lewis,Pinckney,Comptroller,,CON,Jonathan Trichter,5
+Lewis,Turin,Comptroller,,CON,Jonathan Trichter,6
+Lewis,Watson,Comptroller,,CON,Jonathan Trichter,23
+Lewis,West Turin 1,Comptroller,,CON,Jonathan Trichter,20
+Lewis,West Turin 2,Comptroller,,CON,Jonathan Trichter,1
+Lewis,West Turin 3,Comptroller,,CON,Jonathan Trichter,7
+Lewis,West Turin 4,Comptroller,,CON,Jonathan Trichter,6
+Lewis,Croghan 1,Comptroller,,GRE,Mark Dunlea,1
+Lewis,Croghan 2,Comptroller,,GRE,Mark Dunlea,0
+Lewis,Croghan 3,Comptroller,,GRE,Mark Dunlea,3
+Lewis,Croghan 4,Comptroller,,GRE,Mark Dunlea,3
+Lewis,Croghan 5,Comptroller,,GRE,Mark Dunlea,0
+Lewis,Croghan 6,Comptroller,,GRE,Mark Dunlea,0
+Lewis,Denmark 1,Comptroller,,GRE,Mark Dunlea,2
+Lewis,Denmark 2,Comptroller,,GRE,Mark Dunlea,4
+Lewis,Denmark 3,Comptroller,,GRE,Mark Dunlea,2
+Lewis,Diana 1,Comptroller,,GRE,Mark Dunlea,6
+Lewis,Diana 2,Comptroller,,GRE,Mark Dunlea,0
+Lewis,Greig,Comptroller,,GRE,Mark Dunlea,5
+Lewis,Harrisburg,Comptroller,,GRE,Mark Dunlea,3
+Lewis,Lewis,Comptroller,,GRE,Mark Dunlea,1
+Lewis,Leyden 1,Comptroller,,GRE,Mark Dunlea,2
+Lewis,Leyden 2,Comptroller,,GRE,Mark Dunlea,0
+Lewis,Leyden 3,Comptroller,,GRE,Mark Dunlea,1
+Lewis,Lowville 1,Comptroller,,GRE,Mark Dunlea,2
+Lewis,Lowville 2,Comptroller,,GRE,Mark Dunlea,2
+Lewis,Lowville 3,Comptroller,,GRE,Mark Dunlea,2
+Lewis,Lowville 4,Comptroller,,GRE,Mark Dunlea,8
+Lewis,Lowville 5,Comptroller,,GRE,Mark Dunlea,0
+Lewis,Lyonsdale 1,Comptroller,,GRE,Mark Dunlea,0
+Lewis,Lyonsdale 2,Comptroller,,GRE,Mark Dunlea,1
+Lewis,Lyonsdale 3,Comptroller,,GRE,Mark Dunlea,0
+Lewis,Martinsburg,Comptroller,,GRE,Mark Dunlea,0
+Lewis,Montague,Comptroller,,GRE,Mark Dunlea,0
+Lewis,New Bremen 1,Comptroller,,GRE,Mark Dunlea,3
+Lewis,New Bremen 2,Comptroller,,GRE,Mark Dunlea,5
+Lewis,New Bremen 3,Comptroller,,GRE,Mark Dunlea,1
+Lewis,Osceola,Comptroller,,GRE,Mark Dunlea,0
+Lewis,Pinckney,Comptroller,,GRE,Mark Dunlea,1
+Lewis,Turin,Comptroller,,GRE,Mark Dunlea,2
+Lewis,Watson,Comptroller,,GRE,Mark Dunlea,8
+Lewis,West Turin 1,Comptroller,,GRE,Mark Dunlea,6
+Lewis,West Turin 2,Comptroller,,GRE,Mark Dunlea,1
+Lewis,West Turin 3,Comptroller,,GRE,Mark Dunlea,0
+Lewis,West Turin 4,Comptroller,,GRE,Mark Dunlea,0
+Lewis,Croghan 1,Comptroller,,WOR,Thomas P. DiNapoli,3
+Lewis,Croghan 2,Comptroller,,WOR,Thomas P. DiNapoli,0
+Lewis,Croghan 3,Comptroller,,WOR,Thomas P. DiNapoli,6
+Lewis,Croghan 4,Comptroller,,WOR,Thomas P. DiNapoli,4
+Lewis,Croghan 5,Comptroller,,WOR,Thomas P. DiNapoli,1
+Lewis,Croghan 6,Comptroller,,WOR,Thomas P. DiNapoli,1
+Lewis,Denmark 1,Comptroller,,WOR,Thomas P. DiNapoli,2
+Lewis,Denmark 2,Comptroller,,WOR,Thomas P. DiNapoli,6
+Lewis,Denmark 3,Comptroller,,WOR,Thomas P. DiNapoli,2
+Lewis,Diana 1,Comptroller,,WOR,Thomas P. DiNapoli,5
+Lewis,Diana 2,Comptroller,,WOR,Thomas P. DiNapoli,3
+Lewis,Greig,Comptroller,,WOR,Thomas P. DiNapoli,5
+Lewis,Harrisburg,Comptroller,,WOR,Thomas P. DiNapoli,1
+Lewis,Lewis,Comptroller,,WOR,Thomas P. DiNapoli,5
+Lewis,Leyden 1,Comptroller,,WOR,Thomas P. DiNapoli,7
+Lewis,Leyden 2,Comptroller,,WOR,Thomas P. DiNapoli,0
+Lewis,Leyden 3,Comptroller,,WOR,Thomas P. DiNapoli,3
+Lewis,Lowville 1,Comptroller,,WOR,Thomas P. DiNapoli,3
+Lewis,Lowville 2,Comptroller,,WOR,Thomas P. DiNapoli,2
+Lewis,Lowville 3,Comptroller,,WOR,Thomas P. DiNapoli,3
+Lewis,Lowville 4,Comptroller,,WOR,Thomas P. DiNapoli,9
+Lewis,Lowville 5,Comptroller,,WOR,Thomas P. DiNapoli,2
+Lewis,Lyonsdale 1,Comptroller,,WOR,Thomas P. DiNapoli,3
+Lewis,Lyonsdale 2,Comptroller,,WOR,Thomas P. DiNapoli,1
+Lewis,Lyonsdale 3,Comptroller,,WOR,Thomas P. DiNapoli,0
+Lewis,Martinsburg,Comptroller,,WOR,Thomas P. DiNapoli,8
+Lewis,Montague,Comptroller,,WOR,Thomas P. DiNapoli,0
+Lewis,New Bremen 1,Comptroller,,WOR,Thomas P. DiNapoli,7
+Lewis,New Bremen 2,Comptroller,,WOR,Thomas P. DiNapoli,5
+Lewis,New Bremen 3,Comptroller,,WOR,Thomas P. DiNapoli,2
+Lewis,Osceola,Comptroller,,WOR,Thomas P. DiNapoli,3
+Lewis,Pinckney,Comptroller,,WOR,Thomas P. DiNapoli,0
+Lewis,Turin,Comptroller,,WOR,Thomas P. DiNapoli,3
+Lewis,Watson,Comptroller,,WOR,Thomas P. DiNapoli,7
+Lewis,West Turin 1,Comptroller,,WOR,Thomas P. DiNapoli,5
+Lewis,West Turin 2,Comptroller,,WOR,Thomas P. DiNapoli,2
+Lewis,West Turin 3,Comptroller,,WOR,Thomas P. DiNapoli,2
+Lewis,West Turin 4,Comptroller,,WOR,Thomas P. DiNapoli,4
+Lewis,Croghan 1,Comptroller,,IND,Thomas P. DiNapoli,3
+Lewis,Croghan 2,Comptroller,,IND,Thomas P. DiNapoli,6
+Lewis,Croghan 3,Comptroller,,IND,Thomas P. DiNapoli,2
+Lewis,Croghan 4,Comptroller,,IND,Thomas P. DiNapoli,6
+Lewis,Croghan 5,Comptroller,,IND,Thomas P. DiNapoli,1
+Lewis,Croghan 6,Comptroller,,IND,Thomas P. DiNapoli,1
+Lewis,Denmark 1,Comptroller,,IND,Thomas P. DiNapoli,3
+Lewis,Denmark 2,Comptroller,,IND,Thomas P. DiNapoli,6
+Lewis,Denmark 3,Comptroller,,IND,Thomas P. DiNapoli,8
+Lewis,Diana 1,Comptroller,,IND,Thomas P. DiNapoli,9
+Lewis,Diana 2,Comptroller,,IND,Thomas P. DiNapoli,2
+Lewis,Greig,Comptroller,,IND,Thomas P. DiNapoli,11
+Lewis,Harrisburg,Comptroller,,IND,Thomas P. DiNapoli,3
+Lewis,Lewis,Comptroller,,IND,Thomas P. DiNapoli,1
+Lewis,Leyden 1,Comptroller,,IND,Thomas P. DiNapoli,5
+Lewis,Leyden 2,Comptroller,,IND,Thomas P. DiNapoli,1
+Lewis,Leyden 3,Comptroller,,IND,Thomas P. DiNapoli,2
+Lewis,Lowville 1,Comptroller,,IND,Thomas P. DiNapoli,7
+Lewis,Lowville 2,Comptroller,,IND,Thomas P. DiNapoli,6
+Lewis,Lowville 3,Comptroller,,IND,Thomas P. DiNapoli,7
+Lewis,Lowville 4,Comptroller,,IND,Thomas P. DiNapoli,11
+Lewis,Lowville 5,Comptroller,,IND,Thomas P. DiNapoli,3
+Lewis,Lyonsdale 1,Comptroller,,IND,Thomas P. DiNapoli,5
+Lewis,Lyonsdale 2,Comptroller,,IND,Thomas P. DiNapoli,1
+Lewis,Lyonsdale 3,Comptroller,,IND,Thomas P. DiNapoli,1
+Lewis,Martinsburg,Comptroller,,IND,Thomas P. DiNapoli,4
+Lewis,Montague,Comptroller,,IND,Thomas P. DiNapoli,1
+Lewis,New Bremen 1,Comptroller,,IND,Thomas P. DiNapoli,13
+Lewis,New Bremen 2,Comptroller,,IND,Thomas P. DiNapoli,10
+Lewis,New Bremen 3,Comptroller,,IND,Thomas P. DiNapoli,2
+Lewis,Osceola,Comptroller,,IND,Thomas P. DiNapoli,3
+Lewis,Pinckney,Comptroller,,IND,Thomas P. DiNapoli,2
+Lewis,Turin,Comptroller,,IND,Thomas P. DiNapoli,6
+Lewis,Watson,Comptroller,,IND,Thomas P. DiNapoli,15
+Lewis,West Turin 1,Comptroller,,IND,Thomas P. DiNapoli,7
+Lewis,West Turin 2,Comptroller,,IND,Thomas P. DiNapoli,2
+Lewis,West Turin 3,Comptroller,,IND,Thomas P. DiNapoli,2
+Lewis,West Turin 4,Comptroller,,IND,Thomas P. DiNapoli,3
+Lewis,Croghan 1,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,Croghan 2,Comptroller,,WEP,Thomas P. DiNapoli,1
+Lewis,Croghan 3,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,Croghan 4,Comptroller,,WEP,Thomas P. DiNapoli,1
+Lewis,Croghan 5,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,Croghan 6,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,Denmark 1,Comptroller,,WEP,Thomas P. DiNapoli,1
+Lewis,Denmark 2,Comptroller,,WEP,Thomas P. DiNapoli,1
+Lewis,Denmark 3,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,Diana 1,Comptroller,,WEP,Thomas P. DiNapoli,4
+Lewis,Diana 2,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,Greig,Comptroller,,WEP,Thomas P. DiNapoli,1
+Lewis,Harrisburg,Comptroller,,WEP,Thomas P. DiNapoli,1
+Lewis,Lewis,Comptroller,,WEP,Thomas P. DiNapoli,1
+Lewis,Leyden 1,Comptroller,,WEP,Thomas P. DiNapoli,1
+Lewis,Leyden 2,Comptroller,,WEP,Thomas P. DiNapoli,1
+Lewis,Leyden 3,Comptroller,,WEP,Thomas P. DiNapoli,1
+Lewis,Lowville 1,Comptroller,,WEP,Thomas P. DiNapoli,3
+Lewis,Lowville 2,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,Lowville 3,Comptroller,,WEP,Thomas P. DiNapoli,2
+Lewis,Lowville 4,Comptroller,,WEP,Thomas P. DiNapoli,7
+Lewis,Lowville 5,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,Lyonsdale 1,Comptroller,,WEP,Thomas P. DiNapoli,4
+Lewis,Lyonsdale 2,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,Lyonsdale 3,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,Martinsburg,Comptroller,,WEP,Thomas P. DiNapoli,3
+Lewis,Montague,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,New Bremen 1,Comptroller,,WEP,Thomas P. DiNapoli,3
+Lewis,New Bremen 2,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,New Bremen 3,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,Osceola,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,Pinckney,Comptroller,,WEP,Thomas P. DiNapoli,2
+Lewis,Turin,Comptroller,,WEP,Thomas P. DiNapoli,2
+Lewis,Watson,Comptroller,,WEP,Thomas P. DiNapoli,3
+Lewis,West Turin 1,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,West Turin 2,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,West Turin 3,Comptroller,,WEP,Thomas P. DiNapoli,0
+Lewis,West Turin 4,Comptroller,,WEP,Thomas P. DiNapoli,1
+Lewis,Croghan 1,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Croghan 2,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Croghan 3,Comptroller,,REF,Thomas P. DiNapoli,1
+Lewis,Croghan 4,Comptroller,,REF,Thomas P. DiNapoli,3
+Lewis,Croghan 5,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Croghan 6,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Denmark 1,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Denmark 2,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Denmark 3,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Diana 1,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Diana 2,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Greig,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Harrisburg,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Lewis,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Leyden 1,Comptroller,,REF,Thomas P. DiNapoli,1
+Lewis,Leyden 2,Comptroller,,REF,Thomas P. DiNapoli,1
+Lewis,Leyden 3,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Lowville 1,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Lowville 2,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Lowville 3,Comptroller,,REF,Thomas P. DiNapoli,1
+Lewis,Lowville 4,Comptroller,,REF,Thomas P. DiNapoli,7
+Lewis,Lowville 5,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Lyonsdale 1,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Lyonsdale 2,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Lyonsdale 3,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Martinsburg,Comptroller,,REF,Thomas P. DiNapoli,2
+Lewis,Montague,Comptroller,,REF,Thomas P. DiNapoli,1
+Lewis,New Bremen 1,Comptroller,,REF,Thomas P. DiNapoli,3
+Lewis,New Bremen 2,Comptroller,,REF,Thomas P. DiNapoli,3
+Lewis,New Bremen 3,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Osceola,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Pinckney,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,Turin,Comptroller,,REF,Thomas P. DiNapoli,1
+Lewis,Watson,Comptroller,,REF,Thomas P. DiNapoli,1
+Lewis,West Turin 1,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,West Turin 2,Comptroller,,REF,Thomas P. DiNapoli,0
+Lewis,West Turin 3,Comptroller,,REF,Thomas P. DiNapoli,2
+Lewis,West Turin 4,Comptroller,,REF,Thomas P. DiNapoli,1
+Lewis,Croghan 1,Comptroller,,LIB,Cruger E. Gallaudet,2
+Lewis,Croghan 2,Comptroller,,LIB,Cruger E. Gallaudet,1
+Lewis,Croghan 3,Comptroller,,LIB,Cruger E. Gallaudet,3
+Lewis,Croghan 4,Comptroller,,LIB,Cruger E. Gallaudet,1
+Lewis,Croghan 5,Comptroller,,LIB,Cruger E. Gallaudet,1
+Lewis,Croghan 6,Comptroller,,LIB,Cruger E. Gallaudet,1
+Lewis,Denmark 1,Comptroller,,LIB,Cruger E. Gallaudet,2
+Lewis,Denmark 2,Comptroller,,LIB,Cruger E. Gallaudet,2
+Lewis,Denmark 3,Comptroller,,LIB,Cruger E. Gallaudet,0
+Lewis,Diana 1,Comptroller,,LIB,Cruger E. Gallaudet,4
+Lewis,Diana 2,Comptroller,,LIB,Cruger E. Gallaudet,1
+Lewis,Greig,Comptroller,,LIB,Cruger E. Gallaudet,6
+Lewis,Harrisburg,Comptroller,,LIB,Cruger E. Gallaudet,0
+Lewis,Lewis,Comptroller,,LIB,Cruger E. Gallaudet,0
+Lewis,Leyden 1,Comptroller,,LIB,Cruger E. Gallaudet,2
+Lewis,Leyden 2,Comptroller,,LIB,Cruger E. Gallaudet,1
+Lewis,Leyden 3,Comptroller,,LIB,Cruger E. Gallaudet,0
+Lewis,Lowville 1,Comptroller,,LIB,Cruger E. Gallaudet,1
+Lewis,Lowville 2,Comptroller,,LIB,Cruger E. Gallaudet,4
+Lewis,Lowville 3,Comptroller,,LIB,Cruger E. Gallaudet,1
+Lewis,Lowville 4,Comptroller,,LIB,Cruger E. Gallaudet,7
+Lewis,Lowville 5,Comptroller,,LIB,Cruger E. Gallaudet,0
+Lewis,Lyonsdale 1,Comptroller,,LIB,Cruger E. Gallaudet,2
+Lewis,Lyonsdale 2,Comptroller,,LIB,Cruger E. Gallaudet,0
+Lewis,Lyonsdale 3,Comptroller,,LIB,Cruger E. Gallaudet,0
+Lewis,Martinsburg,Comptroller,,LIB,Cruger E. Gallaudet,4
+Lewis,Montague,Comptroller,,LIB,Cruger E. Gallaudet,0
+Lewis,New Bremen 1,Comptroller,,LIB,Cruger E. Gallaudet,3
+Lewis,New Bremen 2,Comptroller,,LIB,Cruger E. Gallaudet,2
+Lewis,New Bremen 3,Comptroller,,LIB,Cruger E. Gallaudet,0
+Lewis,Osceola,Comptroller,,LIB,Cruger E. Gallaudet,3
+Lewis,Pinckney,Comptroller,,LIB,Cruger E. Gallaudet,0
+Lewis,Turin,Comptroller,,LIB,Cruger E. Gallaudet,0
+Lewis,Watson,Comptroller,,LIB,Cruger E. Gallaudet,4
+Lewis,West Turin 1,Comptroller,,LIB,Cruger E. Gallaudet,2
+Lewis,West Turin 2,Comptroller,,LIB,Cruger E. Gallaudet,0
+Lewis,West Turin 3,Comptroller,,LIB,Cruger E. Gallaudet,0
+Lewis,West Turin 4,Comptroller,,LIB,Cruger E. Gallaudet,1
+Lewis,Croghan 1,Comptroller,,,Write-Ins,0
+Lewis,Croghan 2,Comptroller,,,Write-Ins,0
+Lewis,Croghan 3,Comptroller,,,Write-Ins,0
+Lewis,Croghan 4,Comptroller,,,Write-Ins,0
+Lewis,Croghan 5,Comptroller,,,Write-Ins,0
+Lewis,Croghan 6,Comptroller,,,Write-Ins,0
+Lewis,Denmark 1,Comptroller,,,Write-Ins,0
+Lewis,Denmark 2,Comptroller,,,Write-Ins,0
+Lewis,Denmark 3,Comptroller,,,Write-Ins,1
+Lewis,Diana 1,Comptroller,,,Write-Ins,0
+Lewis,Diana 2,Comptroller,,,Write-Ins,0
+Lewis,Greig,Comptroller,,,Write-Ins,0
+Lewis,Harrisburg,Comptroller,,,Write-Ins,0
+Lewis,Lewis,Comptroller,,,Write-Ins,0
+Lewis,Leyden 1,Comptroller,,,Write-Ins,0
+Lewis,Leyden 2,Comptroller,,,Write-Ins,0
+Lewis,Leyden 3,Comptroller,,,Write-Ins,0
+Lewis,Lowville 1,Comptroller,,,Write-Ins,0
+Lewis,Lowville 2,Comptroller,,,Write-Ins,0
+Lewis,Lowville 3,Comptroller,,,Write-Ins,0
+Lewis,Lowville 4,Comptroller,,,Write-Ins,0
+Lewis,Lowville 5,Comptroller,,,Write-Ins,0
+Lewis,Lyonsdale 1,Comptroller,,,Write-Ins,0
+Lewis,Lyonsdale 2,Comptroller,,,Write-Ins,0
+Lewis,Lyonsdale 3,Comptroller,,,Write-Ins,0
+Lewis,Martinsburg,Comptroller,,,Write-Ins,1
+Lewis,Montague,Comptroller,,,Write-Ins,0
+Lewis,New Bremen 1,Comptroller,,,Write-Ins,0
+Lewis,New Bremen 2,Comptroller,,,Write-Ins,0
+Lewis,New Bremen 3,Comptroller,,,Write-Ins,0
+Lewis,Osceola,Comptroller,,,Write-Ins,0
+Lewis,Pinckney,Comptroller,,,Write-Ins,0
+Lewis,Turin,Comptroller,,,Write-Ins,0
+Lewis,Watson,Comptroller,,,Write-Ins,0
+Lewis,West Turin 1,Comptroller,,,Write-Ins,0
+Lewis,West Turin 2,Comptroller,,,Write-Ins,0
+Lewis,West Turin 3,Comptroller,,,Write-Ins,0
+Lewis,West Turin 4,Comptroller,,,Write-Ins,0
+Lewis,Croghan 1,Attorney General,,DEM,Lenitia James,28
+Lewis,Croghan 2,Attorney General,,DEM,Lenitia James,40
+Lewis,Croghan 3,Attorney General,,DEM,Lenitia James,76
+Lewis,Croghan 4,Attorney General,,DEM,Lenitia James,55
+Lewis,Croghan 5,Attorney General,,DEM,Lenitia James,19
+Lewis,Croghan 6,Attorney General,,DEM,Lenitia James,22
+Lewis,Denmark 1,Attorney General,,DEM,Lenitia James,42
+Lewis,Denmark 2,Attorney General,,DEM,Lenitia James,78
+Lewis,Denmark 3,Attorney General,,DEM,Lenitia James,50
+Lewis,Diana 1,Attorney General,,DEM,Lenitia James,104
+Lewis,Diana 2,Attorney General,,DEM,Lenitia James,61
+Lewis,Greig,Attorney General,,DEM,Lenitia James,114
+Lewis,Harrisburg,Attorney General,,DEM,Lenitia James,41
+Lewis,Lewis,Attorney General,,DEM,Lenitia James,54
+Lewis,Leyden 1,Attorney General,,DEM,Lenitia James,51
+Lewis,Leyden 2,Attorney General,,DEM,Lenitia James,32
+Lewis,Leyden 3,Attorney General,,DEM,Lenitia James,31
+Lewis,Lowville 1,Attorney General,,DEM,Lenitia James,62
+Lewis,Lowville 2,Attorney General,,DEM,Lenitia James,93
+Lewis,Lowville 3,Attorney General,,DEM,Lenitia James,45
+Lewis,Lowville 4,Attorney General,,DEM,Lenitia James,215
+Lewis,Lowville 5,Attorney General,,DEM,Lenitia James,23
+Lewis,Lyonsdale 1,Attorney General,,DEM,Lenitia James,52
+Lewis,Lyonsdale 2,Attorney General,,DEM,Lenitia James,13
+Lewis,Lyonsdale 3,Attorney General,,DEM,Lenitia James,3
+Lewis,Martinsburg,Attorney General,,DEM,Lenitia James,94
+Lewis,Montague,Attorney General,,DEM,Lenitia James,5
+Lewis,New Bremen 1,Attorney General,,DEM,Lenitia James,83
+Lewis,New Bremen 2,Attorney General,,DEM,Lenitia James,107
+Lewis,New Bremen 3,Attorney General,,DEM,Lenitia James,27
+Lewis,Osceola,Attorney General,,DEM,Lenitia James,20
+Lewis,Pinckney,Attorney General,,DEM,Lenitia James,24
+Lewis,Turin,Attorney General,,DEM,Lenitia James,64
+Lewis,Watson,Attorney General,,DEM,Lenitia James,165
+Lewis,West Turin 1,Attorney General,,DEM,Lenitia James,48
+Lewis,West Turin 2,Attorney General,,DEM,Lenitia James,16
+Lewis,West Turin 3,Attorney General,,DEM,Lenitia James,26
+Lewis,West Turin 4,Attorney General,,DEM,Lenitia James,50
+Lewis,Croghan 1,Attorney General,,REP,Kieth Wofford,87
+Lewis,Croghan 2,Attorney General,,REP,Kieth Wofford,69
+Lewis,Croghan 3,Attorney General,,REP,Kieth Wofford,173
+Lewis,Croghan 4,Attorney General,,REP,Kieth Wofford,154
+Lewis,Croghan 5,Attorney General,,REP,Kieth Wofford,28
+Lewis,Croghan 6,Attorney General,,REP,Kieth Wofford,29
+Lewis,Denmark 1,Attorney General,,REP,Kieth Wofford,94
+Lewis,Denmark 2,Attorney General,,REP,Kieth Wofford,206
+Lewis,Denmark 3,Attorney General,,REP,Kieth Wofford,143
+Lewis,Diana 1,Attorney General,,REP,Kieth Wofford,191
+Lewis,Diana 2,Attorney General,,REP,Kieth Wofford,76
+Lewis,Greig,Attorney General,,REP,Kieth Wofford,255
+Lewis,Harrisburg,Attorney General,,REP,Kieth Wofford,93
+Lewis,Lewis,Attorney General,,REP,Kieth Wofford,185
+Lewis,Leyden 1,Attorney General,,REP,Kieth Wofford,156
+Lewis,Leyden 2,Attorney General,,REP,Kieth Wofford,78
+Lewis,Leyden 3,Attorney General,,REP,Kieth Wofford,85
+Lewis,Lowville 1,Attorney General,,REP,Kieth Wofford,103
+Lewis,Lowville 2,Attorney General,,REP,Kieth Wofford,157
+Lewis,Lowville 3,Attorney General,,REP,Kieth Wofford,71
+Lewis,Lowville 4,Attorney General,,REP,Kieth Wofford,333
+Lewis,Lowville 5,Attorney General,,REP,Kieth Wofford,83
+Lewis,Lyonsdale 1,Attorney General,,REP,Kieth Wofford,165
+Lewis,Lyonsdale 2,Attorney General,,REP,Kieth Wofford,47
+Lewis,Lyonsdale 3,Attorney General,,REP,Kieth Wofford,13
+Lewis,Martinsburg,Attorney General,,REP,Kieth Wofford,224
+Lewis,Montague,Attorney General,,REP,Kieth Wofford,27
+Lewis,New Bremen 1,Attorney General,,REP,Kieth Wofford,234
+Lewis,New Bremen 2,Attorney General,,REP,Kieth Wofford,233
+Lewis,New Bremen 3,Attorney General,,REP,Kieth Wofford,57
+Lewis,Osceola,Attorney General,,REP,Kieth Wofford,69
+Lewis,Pinckney,Attorney General,,REP,Kieth Wofford,79
+Lewis,Turin,Attorney General,,REP,Kieth Wofford,149
+Lewis,Watson,Attorney General,,REP,Kieth Wofford,346
+Lewis,West Turin 1,Attorney General,,REP,Kieth Wofford,172
+Lewis,West Turin 2,Attorney General,,REP,Kieth Wofford,38
+Lewis,West Turin 3,Attorney General,,REP,Kieth Wofford,63
+Lewis,West Turin 4,Attorney General,,REP,Kieth Wofford,90
+Lewis,Croghan 1,Attorney General,,CON,Kieth Wofford,14
+Lewis,Croghan 2,Attorney General,,CON,Kieth Wofford,9
+Lewis,Croghan 3,Attorney General,,CON,Kieth Wofford,23
+Lewis,Croghan 4,Attorney General,,CON,Kieth Wofford,15
+Lewis,Croghan 5,Attorney General,,CON,Kieth Wofford,4
+Lewis,Croghan 6,Attorney General,,CON,Kieth Wofford,1
+Lewis,Denmark 1,Attorney General,,CON,Kieth Wofford,10
+Lewis,Denmark 2,Attorney General,,CON,Kieth Wofford,18
+Lewis,Denmark 3,Attorney General,,CON,Kieth Wofford,23
+Lewis,Diana 1,Attorney General,,CON,Kieth Wofford,27
+Lewis,Diana 2,Attorney General,,CON,Kieth Wofford,6
+Lewis,Greig,Attorney General,,CON,Kieth Wofford,23
+Lewis,Harrisburg,Attorney General,,CON,Kieth Wofford,10
+Lewis,Lewis,Attorney General,,CON,Kieth Wofford,18
+Lewis,Leyden 1,Attorney General,,CON,Kieth Wofford,20
+Lewis,Leyden 2,Attorney General,,CON,Kieth Wofford,9
+Lewis,Leyden 3,Attorney General,,CON,Kieth Wofford,2
+Lewis,Lowville 1,Attorney General,,CON,Kieth Wofford,10
+Lewis,Lowville 2,Attorney General,,CON,Kieth Wofford,7
+Lewis,Lowville 3,Attorney General,,CON,Kieth Wofford,10
+Lewis,Lowville 4,Attorney General,,CON,Kieth Wofford,40
+Lewis,Lowville 5,Attorney General,,CON,Kieth Wofford,3
+Lewis,Lyonsdale 1,Attorney General,,CON,Kieth Wofford,13
+Lewis,Lyonsdale 2,Attorney General,,CON,Kieth Wofford,3
+Lewis,Lyonsdale 3,Attorney General,,CON,Kieth Wofford,0
+Lewis,Martinsburg,Attorney General,,CON,Kieth Wofford,27
+Lewis,Montague,Attorney General,,CON,Kieth Wofford,4
+Lewis,New Bremen 1,Attorney General,,CON,Kieth Wofford,22
+Lewis,New Bremen 2,Attorney General,,CON,Kieth Wofford,27
+Lewis,New Bremen 3,Attorney General,,CON,Kieth Wofford,4
+Lewis,Osceola,Attorney General,,CON,Kieth Wofford,5
+Lewis,Pinckney,Attorney General,,CON,Kieth Wofford,4
+Lewis,Turin,Attorney General,,CON,Kieth Wofford,9
+Lewis,Watson,Attorney General,,CON,Kieth Wofford,26
+Lewis,West Turin 1,Attorney General,,CON,Kieth Wofford,19
+Lewis,West Turin 2,Attorney General,,CON,Kieth Wofford,0
+Lewis,West Turin 3,Attorney General,,CON,Kieth Wofford,7
+Lewis,West Turin 4,Attorney General,,CON,Kieth Wofford,9
+Lewis,Croghan 1,Attorney General,,GRE,Michael Sussman,1
+Lewis,Croghan 2,Attorney General,,GRE,Michael Sussman,0
+Lewis,Croghan 3,Attorney General,,GRE,Michael Sussman,2
+Lewis,Croghan 4,Attorney General,,GRE,Michael Sussman,1
+Lewis,Croghan 5,Attorney General,,GRE,Michael Sussman,1
+Lewis,Croghan 6,Attorney General,,GRE,Michael Sussman,1
+Lewis,Denmark 1,Attorney General,,GRE,Michael Sussman,3
+Lewis,Denmark 2,Attorney General,,GRE,Michael Sussman,5
+Lewis,Denmark 3,Attorney General,,GRE,Michael Sussman,2
+Lewis,Diana 1,Attorney General,,GRE,Michael Sussman,5
+Lewis,Diana 2,Attorney General,,GRE,Michael Sussman,3
+Lewis,Greig,Attorney General,,GRE,Michael Sussman,5
+Lewis,Harrisburg,Attorney General,,GRE,Michael Sussman,1
+Lewis,Lewis,Attorney General,,GRE,Michael Sussman,1
+Lewis,Leyden 1,Attorney General,,GRE,Michael Sussman,1
+Lewis,Leyden 2,Attorney General,,GRE,Michael Sussman,0
+Lewis,Leyden 3,Attorney General,,GRE,Michael Sussman,2
+Lewis,Lowville 1,Attorney General,,GRE,Michael Sussman,5
+Lewis,Lowville 2,Attorney General,,GRE,Michael Sussman,2
+Lewis,Lowville 3,Attorney General,,GRE,Michael Sussman,2
+Lewis,Lowville 4,Attorney General,,GRE,Michael Sussman,5
+Lewis,Lowville 5,Attorney General,,GRE,Michael Sussman,1
+Lewis,Lyonsdale 1,Attorney General,,GRE,Michael Sussman,4
+Lewis,Lyonsdale 2,Attorney General,,GRE,Michael Sussman,0
+Lewis,Lyonsdale 3,Attorney General,,GRE,Michael Sussman,1
+Lewis,Martinsburg,Attorney General,,GRE,Michael Sussman,1
+Lewis,Montague,Attorney General,,GRE,Michael Sussman,1
+Lewis,New Bremen 1,Attorney General,,GRE,Michael Sussman,4
+Lewis,New Bremen 2,Attorney General,,GRE,Michael Sussman,4
+Lewis,New Bremen 3,Attorney General,,GRE,Michael Sussman,1
+Lewis,Osceola,Attorney General,,GRE,Michael Sussman,1
+Lewis,Pinckney,Attorney General,,GRE,Michael Sussman,2
+Lewis,Turin,Attorney General,,GRE,Michael Sussman,0
+Lewis,Watson,Attorney General,,GRE,Michael Sussman,8
+Lewis,West Turin 1,Attorney General,,GRE,Michael Sussman,2
+Lewis,West Turin 2,Attorney General,,GRE,Michael Sussman,0
+Lewis,West Turin 3,Attorney General,,GRE,Michael Sussman,1
+Lewis,West Turin 4,Attorney General,,GRE,Michael Sussman,1
+Lewis,Croghan 1,Attorney General,,WOR,Letitia James,2
+Lewis,Croghan 2,Attorney General,,WOR,Letitia James,2
+Lewis,Croghan 3,Attorney General,,WOR,Letitia James,2
+Lewis,Croghan 4,Attorney General,,WOR,Letitia James,5
+Lewis,Croghan 5,Attorney General,,WOR,Letitia James,2
+Lewis,Croghan 6,Attorney General,,WOR,Letitia James,0
+Lewis,Denmark 1,Attorney General,,WOR,Letitia James,1
+Lewis,Denmark 2,Attorney General,,WOR,Letitia James,3
+Lewis,Denmark 3,Attorney General,,WOR,Letitia James,3
+Lewis,Diana 1,Attorney General,,WOR,Letitia James,6
+Lewis,Diana 2,Attorney General,,WOR,Letitia James,3
+Lewis,Greig,Attorney General,,WOR,Letitia James,4
+Lewis,Harrisburg,Attorney General,,WOR,Letitia James,2
+Lewis,Lewis,Attorney General,,WOR,Letitia James,1
+Lewis,Leyden 1,Attorney General,,WOR,Letitia James,4
+Lewis,Leyden 2,Attorney General,,WOR,Letitia James,2
+Lewis,Leyden 3,Attorney General,,WOR,Letitia James,2
+Lewis,Lowville 1,Attorney General,,WOR,Letitia James,3
+Lewis,Lowville 2,Attorney General,,WOR,Letitia James,1
+Lewis,Lowville 3,Attorney General,,WOR,Letitia James,2
+Lewis,Lowville 4,Attorney General,,WOR,Letitia James,10
+Lewis,Lowville 5,Attorney General,,WOR,Letitia James,1
+Lewis,Lyonsdale 1,Attorney General,,WOR,Letitia James,4
+Lewis,Lyonsdale 2,Attorney General,,WOR,Letitia James,2
+Lewis,Lyonsdale 3,Attorney General,,WOR,Letitia James,0
+Lewis,Martinsburg,Attorney General,,WOR,Letitia James,7
+Lewis,Montague,Attorney General,,WOR,Letitia James,0
+Lewis,New Bremen 1,Attorney General,,WOR,Letitia James,11
+Lewis,New Bremen 2,Attorney General,,WOR,Letitia James,4
+Lewis,New Bremen 3,Attorney General,,WOR,Letitia James,1
+Lewis,Osceola,Attorney General,,WOR,Letitia James,0
+Lewis,Pinckney,Attorney General,,WOR,Letitia James,0
+Lewis,Turin,Attorney General,,WOR,Letitia James,3
+Lewis,Watson,Attorney General,,WOR,Letitia James,10
+Lewis,West Turin 1,Attorney General,,WOR,Letitia James,5
+Lewis,West Turin 2,Attorney General,,WOR,Letitia James,0
+Lewis,West Turin 3,Attorney General,,WOR,Letitia James,1
+Lewis,West Turin 4,Attorney General,,WOR,Letitia James,1
+Lewis,Croghan 1,Attorney General,,IND,Letitia James,2
+Lewis,Croghan 2,Attorney General,,IND,Letitia James,5
+Lewis,Croghan 3,Attorney General,,IND,Letitia James,3
+Lewis,Croghan 4,Attorney General,,IND,Letitia James,5
+Lewis,Croghan 5,Attorney General,,IND,Letitia James,1
+Lewis,Croghan 6,Attorney General,,IND,Letitia James,0
+Lewis,Denmark 1,Attorney General,,IND,Letitia James,5
+Lewis,Denmark 2,Attorney General,,IND,Letitia James,3
+Lewis,Denmark 3,Attorney General,,IND,Letitia James,4
+Lewis,Diana 1,Attorney General,,IND,Letitia James,6
+Lewis,Diana 2,Attorney General,,IND,Letitia James,2
+Lewis,Greig,Attorney General,,IND,Letitia James,7
+Lewis,Harrisburg,Attorney General,,IND,Letitia James,1
+Lewis,Lewis,Attorney General,,IND,Letitia James,2
+Lewis,Leyden 1,Attorney General,,IND,Letitia James,5
+Lewis,Leyden 2,Attorney General,,IND,Letitia James,2
+Lewis,Leyden 3,Attorney General,,IND,Letitia James,2
+Lewis,Lowville 1,Attorney General,,IND,Letitia James,6
+Lewis,Lowville 2,Attorney General,,IND,Letitia James,3
+Lewis,Lowville 3,Attorney General,,IND,Letitia James,5
+Lewis,Lowville 4,Attorney General,,IND,Letitia James,7
+Lewis,Lowville 5,Attorney General,,IND,Letitia James,2
+Lewis,Lyonsdale 1,Attorney General,,IND,Letitia James,1
+Lewis,Lyonsdale 2,Attorney General,,IND,Letitia James,0
+Lewis,Lyonsdale 3,Attorney General,,IND,Letitia James,1
+Lewis,Martinsburg,Attorney General,,IND,Letitia James,8
+Lewis,Montague,Attorney General,,IND,Letitia James,0
+Lewis,New Bremen 1,Attorney General,,IND,Letitia James,5
+Lewis,New Bremen 2,Attorney General,,IND,Letitia James,5
+Lewis,New Bremen 3,Attorney General,,IND,Letitia James,1
+Lewis,Osceola,Attorney General,,IND,Letitia James,2
+Lewis,Pinckney,Attorney General,,IND,Letitia James,3
+Lewis,Turin,Attorney General,,IND,Letitia James,6
+Lewis,Watson,Attorney General,,IND,Letitia James,17
+Lewis,West Turin 1,Attorney General,,IND,Letitia James,3
+Lewis,West Turin 2,Attorney General,,IND,Letitia James,1
+Lewis,West Turin 3,Attorney General,,IND,Letitia James,2
+Lewis,West Turin 4,Attorney General,,IND,Letitia James,4
+Lewis,Croghan 1,Attorney General,,REF,Nancy B. Sliwa,0
+Lewis,Croghan 2,Attorney General,,REF,Nancy B. Sliwa,1
+Lewis,Croghan 3,Attorney General,,REF,Nancy B. Sliwa,1
+Lewis,Croghan 4,Attorney General,,REF,Nancy B. Sliwa,1
+Lewis,Croghan 5,Attorney General,,REF,Nancy B. Sliwa,0
+Lewis,Croghan 6,Attorney General,,REF,Nancy B. Sliwa,0
+Lewis,Denmark 1,Attorney General,,REF,Nancy B. Sliwa,0
+Lewis,Denmark 2,Attorney General,,REF,Nancy B. Sliwa,3
+Lewis,Denmark 3,Attorney General,,REF,Nancy B. Sliwa,0
+Lewis,Diana 1,Attorney General,,REF,Nancy B. Sliwa,0
+Lewis,Diana 2,Attorney General,,REF,Nancy B. Sliwa,1
+Lewis,Greig,Attorney General,,REF,Nancy B. Sliwa,0
+Lewis,Harrisburg,Attorney General,,REF,Nancy B. Sliwa,3
+Lewis,Lewis,Attorney General,,REF,Nancy B. Sliwa,2
+Lewis,Leyden 1,Attorney General,,REF,Nancy B. Sliwa,1
+Lewis,Leyden 2,Attorney General,,REF,Nancy B. Sliwa,1
+Lewis,Leyden 3,Attorney General,,REF,Nancy B. Sliwa,0
+Lewis,Lowville 1,Attorney General,,REF,Nancy B. Sliwa,3
+Lewis,Lowville 2,Attorney General,,REF,Nancy B. Sliwa,1
+Lewis,Lowville 3,Attorney General,,REF,Nancy B. Sliwa,0
+Lewis,Lowville 4,Attorney General,,REF,Nancy B. Sliwa,6
+Lewis,Lowville 5,Attorney General,,REF,Nancy B. Sliwa,1
+Lewis,Lyonsdale 1,Attorney General,,REF,Nancy B. Sliwa,3
+Lewis,Lyonsdale 2,Attorney General,,REF,Nancy B. Sliwa,0
+Lewis,Lyonsdale 3,Attorney General,,REF,Nancy B. Sliwa,0
+Lewis,Martinsburg,Attorney General,,REF,Nancy B. Sliwa,3
+Lewis,Montague,Attorney General,,REF,Nancy B. Sliwa,0
+Lewis,New Bremen 1,Attorney General,,REF,Nancy B. Sliwa,6
+Lewis,New Bremen 2,Attorney General,,REF,Nancy B. Sliwa,2
+Lewis,New Bremen 3,Attorney General,,REF,Nancy B. Sliwa,0
+Lewis,Osceola,Attorney General,,REF,Nancy B. Sliwa,1
+Lewis,Pinckney,Attorney General,,REF,Nancy B. Sliwa,1
+Lewis,Turin,Attorney General,,REF,Nancy B. Sliwa,1
+Lewis,Watson,Attorney General,,REF,Nancy B. Sliwa,4
+Lewis,West Turin 1,Attorney General,,REF,Nancy B. Sliwa,2
+Lewis,West Turin 2,Attorney General,,REF,Nancy B. Sliwa,0
+Lewis,West Turin 3,Attorney General,,REF,Nancy B. Sliwa,1
+Lewis,West Turin 4,Attorney General,,REF,Nancy B. Sliwa,0
+Lewis,Croghan 1,Attorney General,,LIB,Christopher P. Garvey,2
+Lewis,Croghan 2,Attorney General,,LIB,Christopher P. Garvey,0
+Lewis,Croghan 3,Attorney General,,LIB,Christopher P. Garvey,3
+Lewis,Croghan 4,Attorney General,,LIB,Christopher P. Garvey,2
+Lewis,Croghan 5,Attorney General,,LIB,Christopher P. Garvey,1
+Lewis,Croghan 6,Attorney General,,LIB,Christopher P. Garvey,1
+Lewis,Denmark 1,Attorney General,,LIB,Christopher P. Garvey,2
+Lewis,Denmark 2,Attorney General,,LIB,Christopher P. Garvey,2
+Lewis,Denmark 3,Attorney General,,LIB,Christopher P. Garvey,2
+Lewis,Diana 1,Attorney General,,LIB,Christopher P. Garvey,3
+Lewis,Diana 2,Attorney General,,LIB,Christopher P. Garvey,1
+Lewis,Greig,Attorney General,,LIB,Christopher P. Garvey,6
+Lewis,Harrisburg,Attorney General,,LIB,Christopher P. Garvey,1
+Lewis,Lewis,Attorney General,,LIB,Christopher P. Garvey,0
+Lewis,Leyden 1,Attorney General,,LIB,Christopher P. Garvey,2
+Lewis,Leyden 2,Attorney General,,LIB,Christopher P. Garvey,1
+Lewis,Leyden 3,Attorney General,,LIB,Christopher P. Garvey,0
+Lewis,Lowville 1,Attorney General,,LIB,Christopher P. Garvey,1
+Lewis,Lowville 2,Attorney General,,LIB,Christopher P. Garvey,5
+Lewis,Lowville 3,Attorney General,,LIB,Christopher P. Garvey,2
+Lewis,Lowville 4,Attorney General,,LIB,Christopher P. Garvey,7
+Lewis,Lowville 5,Attorney General,,LIB,Christopher P. Garvey,0
+Lewis,Lyonsdale 1,Attorney General,,LIB,Christopher P. Garvey,3
+Lewis,Lyonsdale 2,Attorney General,,LIB,Christopher P. Garvey,2
+Lewis,Lyonsdale 3,Attorney General,,LIB,Christopher P. Garvey,0
+Lewis,Martinsburg,Attorney General,,LIB,Christopher P. Garvey,7
+Lewis,Montague,Attorney General,,LIB,Christopher P. Garvey,0
+Lewis,New Bremen 1,Attorney General,,LIB,Christopher P. Garvey,2
+Lewis,New Bremen 2,Attorney General,,LIB,Christopher P. Garvey,2
+Lewis,New Bremen 3,Attorney General,,LIB,Christopher P. Garvey,0
+Lewis,Osceola,Attorney General,,LIB,Christopher P. Garvey,2
+Lewis,Pinckney,Attorney General,,LIB,Christopher P. Garvey,0
+Lewis,Turin,Attorney General,,LIB,Christopher P. Garvey,2
+Lewis,Watson,Attorney General,,LIB,Christopher P. Garvey,4
+Lewis,West Turin 1,Attorney General,,LIB,Christopher P. Garvey,3
+Lewis,West Turin 2,Attorney General,,LIB,Christopher P. Garvey,1
+Lewis,West Turin 3,Attorney General,,LIB,Christopher P. Garvey,0
+Lewis,West Turin 4,Attorney General,,LIB,Christopher P. Garvey,1
+Lewis,Croghan 1,Attorney General,,,Write-Ins,9
+Lewis,Croghan 2,Attorney General,,,Write-Ins,4
+Lewis,Croghan 3,Attorney General,,,Write-Ins,34
+Lewis,Croghan 4,Attorney General,,,Write-Ins,25
+Lewis,Croghan 5,Attorney General,,,Write-Ins,3
+Lewis,Croghan 6,Attorney General,,,Write-Ins,9
+Lewis,Denmark 1,Attorney General,,,Write-Ins,10
+Lewis,Denmark 2,Attorney General,,,Write-Ins,31
+Lewis,Denmark 3,Attorney General,,,Write-Ins,25
+Lewis,Diana 1,Attorney General,,,Write-Ins,18
+Lewis,Diana 2,Attorney General,,,Write-Ins,6
+Lewis,Greig,Attorney General,,,Write-Ins,57
+Lewis,Harrisburg,Attorney General,,,Write-Ins,21
+Lewis,Lewis,Attorney General,,,Write-Ins,32
+Lewis,Leyden 1,Attorney General,,,Write-Ins,28
+Lewis,Leyden 2,Attorney General,,,Write-Ins,16
+Lewis,Leyden 3,Attorney General,,,Write-Ins,14
+Lewis,Lowville 1,Attorney General,,,Write-Ins,32
+Lewis,Lowville 2,Attorney General,,,Write-Ins,26
+Lewis,Lowville 3,Attorney General,,,Write-Ins,18
+Lewis,Lowville 4,Attorney General,,,Write-Ins,70
+Lewis,Lowville 5,Attorney General,,,Write-Ins,16
+Lewis,Lyonsdale 1,Attorney General,,,Write-Ins,14
+Lewis,Lyonsdale 2,Attorney General,,,Write-Ins,7
+Lewis,Lyonsdale 3,Attorney General,,,Write-Ins,3
+Lewis,Martinsburg,Attorney General,,,Write-Ins,42
+Lewis,Montague,Attorney General,,,Write-Ins,1
+Lewis,New Bremen 1,Attorney General,,,Write-Ins,43
+Lewis,New Bremen 2,Attorney General,,,Write-Ins,37
+Lewis,New Bremen 3,Attorney General,,,Write-Ins,7
+Lewis,Osceola,Attorney General,,,Write-Ins,12
+Lewis,Pinckney,Attorney General,,,Write-Ins,10
+Lewis,Turin,Attorney General,,,Write-Ins,23
+Lewis,Watson,Attorney General,,,Write-Ins,56
+Lewis,West Turin 1,Attorney General,,,Write-Ins,33
+Lewis,West Turin 2,Attorney General,,,Write-Ins,10
+Lewis,West Turin 3,Attorney General,,,Write-Ins,11
+Lewis,West Turin 4,Attorney General,,,Write-Ins,12
+Lewis ,Croghan 1,U.S. Senate,,DEM,Kirstin E. Gillibrand,42
+Lewis ,Croghan 2,U.S. Senate,,DEM,Kirstin E. Gillibrand,47
+Lewis ,Croghan 3,U.S. Senate,,DEM,Kirstin E. Gillibrand,104
+Lewis ,Croghan 4,U.S. Senate,,DEM,Kirstin E. Gillibrand,77
+Lewis ,Croghan 5,U.S. Senate,,DEM,Kirstin E. Gillibrand,27
+Lewis ,Croghan 6,U.S. Senate,,DEM,Kirstin E. Gillibrand,30
+Lewis ,Denmark 1,U.S. Senate,,DEM,Kirstin E. Gillibrand,58
+Lewis ,Denmark 2,U.S. Senate,,DEM,Kirstin E. Gillibrand,118
+Lewis ,Denmark 3,U.S. Senate,,DEM,Kirstin E. Gillibrand,71
+Lewis ,Diana 1,U.S. Senate,,DEM,Kirstin E. Gillibrand,138
+Lewis ,Diana 2,U.S. Senate,,DEM,Kirstin E. Gillibrand,73
+Lewis ,Greig,U.S. Senate,,DEM,Kirstin E. Gillibrand,159
+Lewis ,Harrisburg,U.S. Senate,,DEM,Kirstin E. Gillibrand,55
+Lewis ,Lewis,U.S. Senate,,DEM,Kirstin E. Gillibrand,66
+Lewis ,Leyden 1,U.S. Senate,,DEM,Kirstin E. Gillibrand,66
+Lewis ,Leyden 2,U.S. Senate,,DEM,Kirstin E. Gillibrand,42
+Lewis ,Leyden 3,U.S. Senate,,DEM,Kirstin E. Gillibrand,40
+Lewis ,Lowville 1,U.S. Senate,,DEM,Kirstin E. Gillibrand,99
+Lewis ,Lowville 2,U.S. Senate,,DEM,Kirstin E. Gillibrand,130
+Lewis ,Lowville 3,U.S. Senate,,DEM,Kirstin E. Gillibrand,63
+Lewis ,Lowville 4,U.S. Senate,,DEM,Kirstin E. Gillibrand,296
+Lewis ,Lowville 5,U.S. Senate,,DEM,Kirstin E. Gillibrand,40
+Lewis ,Lyonsdale 1,U.S. Senate,,DEM,Kirstin E. Gillibrand,69
+Lewis ,Lyonsdale 2,U.S. Senate,,DEM,Kirstin E. Gillibrand,19
+Lewis ,Lyonsdale 3,U.S. Senate,,DEM,Kirstin E. Gillibrand,3
+Lewis ,Martinsburg,U.S. Senate,,DEM,Kirstin E. Gillibrand,143
+Lewis ,Montague,U.S. Senate,,DEM,Kirstin E. Gillibrand,8
+Lewis ,New Bremen 1,U.S. Senate,,DEM,Kirstin E. Gillibrand,137
+Lewis ,New Bremen 2,U.S. Senate,,DEM,Kirstin E. Gillibrand,153
+Lewis ,New Bremen 3,U.S. Senate,,DEM,Kirstin E. Gillibrand,37
+Lewis ,Osceola,U.S. Senate,,DEM,Kirstin E. Gillibrand,25
+Lewis ,Pinckney,U.S. Senate,,DEM,Kirstin E. Gillibrand,33
+Lewis ,Turin,U.S. Senate,,DEM,Kirstin E. Gillibrand,89
+Lewis ,Watson,U.S. Senate,,DEM,Kirstin E. Gillibrand,230
+Lewis ,West Turin 1,U.S. Senate,,DEM,Kirstin E. Gillibrand,75
+Lewis ,West Turin 2,U.S. Senate,,DEM,Kirstin E. Gillibrand,20
+Lewis ,West Turin 3,U.S. Senate,,DEM,Kirstin E. Gillibrand,34
+Lewis ,West Turin 4,U.S. Senate,,DEM,Kirstin E. Gillibrand,65
+Lewis ,Croghan 1,U.S. Senate,,REP,Chele Chiavacci Farley,80
+Lewis ,Croghan 2,U.S. Senate,,REP,Chele Chiavacci Farley,67
+Lewis ,Croghan 3,U.S. Senate,,REP,Chele Chiavacci Farley,158
+Lewis ,Croghan 4,U.S. Senate,,REP,Chele Chiavacci Farley,144
+Lewis ,Croghan 5,U.S. Senate,,REP,Chele Chiavacci Farley,24
+Lewis ,Croghan 6,U.S. Senate,,REP,Chele Chiavacci Farley,25
+Lewis ,Denmark 1,U.S. Senate,,REP,Chele Chiavacci Farley,83
+Lewis ,Denmark 2,U.S. Senate,,REP,Chele Chiavacci Farley,180
+Lewis ,Denmark 3,U.S. Senate,,REP,Chele Chiavacci Farley,121
+Lewis ,Diana 1,U.S. Senate,,REP,Chele Chiavacci Farley,158
+Lewis ,Diana 2,U.S. Senate,,REP,Chele Chiavacci Farley,66
+Lewis ,Greig,U.S. Senate,,REP,Chele Chiavacci Farley,219
+Lewis ,Harrisburg,U.S. Senate,,REP,Chele Chiavacci Farley,87
+Lewis ,Lewis,U.S. Senate,,REP,Chele Chiavacci Farley,176
+Lewis ,Leyden 1,U.S. Senate,,REP,Chele Chiavacci Farley,154
+Lewis ,Leyden 2,U.S. Senate,,REP,Chele Chiavacci Farley,72
+Lewis ,Leyden 3,U.S. Senate,,REP,Chele Chiavacci Farley,72
+Lewis ,Lowville 1,U.S. Senate,,REP,Chele Chiavacci Farley,81
+Lewis ,Lowville 2,U.S. Senate,,REP,Chele Chiavacci Farley,128
+Lewis ,Lowville 3,U.S. Senate,,REP,Chele Chiavacci Farley,62
+Lewis ,Lowville 4,U.S. Senate,,REP,Chele Chiavacci Farley,274
+Lewis ,Lowville 5,U.S. Senate,,REP,Chele Chiavacci Farley,72
+Lewis ,Lyonsdale 1,U.S. Senate,,REP,Chele Chiavacci Farley,144
+Lewis ,Lyonsdale 2,U.S. Senate,,REP,Chele Chiavacci Farley,42
+Lewis ,Lyonsdale 3,U.S. Senate,,REP,Chele Chiavacci Farley,15
+Lewis ,Martinsburg,U.S. Senate,,REP,Chele Chiavacci Farley,205
+Lewis ,Montague,U.S. Senate,,REP,Chele Chiavacci Farley,27
+Lewis ,New Bremen 1,U.S. Senate,,REP,Chele Chiavacci Farley,201
+Lewis ,New Bremen 2,U.S. Senate,,REP,Chele Chiavacci Farley,198
+Lewis ,New Bremen 3,U.S. Senate,,REP,Chele Chiavacci Farley,51
+Lewis ,Osceola,U.S. Senate,,REP,Chele Chiavacci Farley,70
+Lewis ,Pinckney,U.S. Senate,,REP,Chele Chiavacci Farley,74
+Lewis ,Turin,U.S. Senate,,REP,Chele Chiavacci Farley,133
+Lewis ,Watson,U.S. Senate,,REP,Chele Chiavacci Farley,308
+Lewis ,West Turin 1,U.S. Senate,,REP,Chele Chiavacci Farley,161
+Lewis ,West Turin 2,U.S. Senate,,REP,Chele Chiavacci Farley,36
+Lewis ,West Turin 3,U.S. Senate,,REP,Chele Chiavacci Farley,56
+Lewis ,West Turin 4,U.S. Senate,,REP,Chele Chiavacci Farley,74
+Lewis ,Croghan 1,U.S. Senate,,CON,Chele Chiavacci Farley,12
+Lewis ,Croghan 2,U.S. Senate,,CON,Chele Chiavacci Farley,8
+Lewis ,Croghan 3,U.S. Senate,,CON,Chele Chiavacci Farley,20
+Lewis ,Croghan 4,U.S. Senate,,CON,Chele Chiavacci Farley,14
+Lewis ,Croghan 5,U.S. Senate,,CON,Chele Chiavacci Farley,5
+Lewis ,Croghan 6,U.S. Senate,,CON,Chele Chiavacci Farley,1
+Lewis ,Denmark 1,U.S. Senate,,CON,Chele Chiavacci Farley,10
+Lewis ,Denmark 2,U.S. Senate,,CON,Chele Chiavacci Farley,22
+Lewis ,Denmark 3,U.S. Senate,,CON,Chele Chiavacci Farley,23
+Lewis ,Diana 1,U.S. Senate,,CON,Chele Chiavacci Farley,29
+Lewis ,Diana 2,U.S. Senate,,CON,Chele Chiavacci Farley,6
+Lewis ,Greig,U.S. Senate,,CON,Chele Chiavacci Farley,21
+Lewis ,Harrisburg,U.S. Senate,,CON,Chele Chiavacci Farley,10
+Lewis ,Lewis,U.S. Senate,,CON,Chele Chiavacci Farley,15
+Lewis ,Leyden 1,U.S. Senate,,CON,Chele Chiavacci Farley,19
+Lewis ,Leyden 2,U.S. Senate,,CON,Chele Chiavacci Farley,8
+Lewis ,Leyden 3,U.S. Senate,,CON,Chele Chiavacci Farley,7
+Lewis ,Lowville 1,U.S. Senate,,CON,Chele Chiavacci Farley,9
+Lewis ,Lowville 2,U.S. Senate,,CON,Chele Chiavacci Farley,4
+Lewis ,Lowville 3,U.S. Senate,,CON,Chele Chiavacci Farley,10
+Lewis ,Lowville 4,U.S. Senate,,CON,Chele Chiavacci Farley,38
+Lewis ,Lowville 5,U.S. Senate,,CON,Chele Chiavacci Farley,1
+Lewis ,Lyonsdale 1,U.S. Senate,,CON,Chele Chiavacci Farley,12
+Lewis ,Lyonsdale 2,U.S. Senate,,CON,Chele Chiavacci Farley,3
+Lewis ,Lyonsdale 3,U.S. Senate,,CON,Chele Chiavacci Farley,0
+Lewis ,Martinsburg,U.S. Senate,,CON,Chele Chiavacci Farley,18
+Lewis ,Montague,U.S. Senate,,CON,Chele Chiavacci Farley,3
+Lewis ,New Bremen 1,U.S. Senate,,CON,Chele Chiavacci Farley,18
+Lewis ,New Bremen 2,U.S. Senate,,CON,Chele Chiavacci Farley,22
+Lewis ,New Bremen 3,U.S. Senate,,CON,Chele Chiavacci Farley,3
+Lewis ,Osceola,U.S. Senate,,CON,Chele Chiavacci Farley,5
+Lewis ,Pinckney,U.S. Senate,,CON,Chele Chiavacci Farley,5
+Lewis ,Turin,U.S. Senate,,CON,Chele Chiavacci Farley,7
+Lewis ,Watson,U.S. Senate,,CON,Chele Chiavacci Farley,25
+Lewis ,West Turin 1,U.S. Senate,,CON,Chele Chiavacci Farley,19
+Lewis ,West Turin 2,U.S. Senate,,CON,Chele Chiavacci Farley,0
+Lewis ,West Turin 3,U.S. Senate,,CON,Chele Chiavacci Farley,9
+Lewis ,West Turin 4,U.S. Senate,,CON,Chele Chiavacci Farley,8
+Lewis ,Croghan 1,U.S. Senate,,WOR,Kirstin E. Gillibrand,3
+Lewis ,Croghan 2,U.S. Senate,,WOR,Kirstin E. Gillibrand,0
+Lewis ,Croghan 3,U.S. Senate,,WOR,Kirstin E. Gillibrand,8
+Lewis ,Croghan 4,U.S. Senate,,WOR,Kirstin E. Gillibrand,2
+Lewis ,Croghan 5,U.S. Senate,,WOR,Kirstin E. Gillibrand,1
+Lewis ,Croghan 6,U.S. Senate,,WOR,Kirstin E. Gillibrand,1
+Lewis ,Denmark 1,U.S. Senate,,WOR,Kirstin E. Gillibrand,1
+Lewis ,Denmark 2,U.S. Senate,,WOR,Kirstin E. Gillibrand,6
+Lewis ,Denmark 3,U.S. Senate,,WOR,Kirstin E. Gillibrand,8
+Lewis ,Diana 1,U.S. Senate,,WOR,Kirstin E. Gillibrand,9
+Lewis ,Diana 2,U.S. Senate,,WOR,Kirstin E. Gillibrand,5
+Lewis ,Greig,U.S. Senate,,WOR,Kirstin E. Gillibrand,5
+Lewis ,Harrisburg,U.S. Senate,,WOR,Kirstin E. Gillibrand,3
+Lewis ,Lewis,U.S. Senate,,WOR,Kirstin E. Gillibrand,5
+Lewis ,Leyden 1,U.S. Senate,,WOR,Kirstin E. Gillibrand,4
+Lewis ,Leyden 2,U.S. Senate,,WOR,Kirstin E. Gillibrand,1
+Lewis ,Leyden 3,U.S. Senate,,WOR,Kirstin E. Gillibrand,4
+Lewis ,Lowville 1,U.S. Senate,,WOR,Kirstin E. Gillibrand,2
+Lewis ,Lowville 2,U.S. Senate,,WOR,Kirstin E. Gillibrand,6
+Lewis ,Lowville 3,U.S. Senate,,WOR,Kirstin E. Gillibrand,4
+Lewis ,Lowville 4,U.S. Senate,,WOR,Kirstin E. Gillibrand,15
+Lewis ,Lowville 5,U.S. Senate,,WOR,Kirstin E. Gillibrand,1
+Lewis ,Lyonsdale 1,U.S. Senate,,WOR,Kirstin E. Gillibrand,8
+Lewis ,Lyonsdale 2,U.S. Senate,,WOR,Kirstin E. Gillibrand,4
+Lewis ,Lyonsdale 3,U.S. Senate,,WOR,Kirstin E. Gillibrand,1
+Lewis ,Martinsburg,U.S. Senate,,WOR,Kirstin E. Gillibrand,10
+Lewis ,Montague,U.S. Senate,,WOR,Kirstin E. Gillibrand,0
+Lewis ,New Bremen 1,U.S. Senate,,WOR,Kirstin E. Gillibrand,19
+Lewis ,New Bremen 2,U.S. Senate,,WOR,Kirstin E. Gillibrand,12
+Lewis ,New Bremen 3,U.S. Senate,,WOR,Kirstin E. Gillibrand,1
+Lewis ,Osceola,U.S. Senate,,WOR,Kirstin E. Gillibrand,1
+Lewis ,Pinckney,U.S. Senate,,WOR,Kirstin E. Gillibrand,1
+Lewis ,Turin,U.S. Senate,,WOR,Kirstin E. Gillibrand,8
+Lewis ,Watson,U.S. Senate,,WOR,Kirstin E. Gillibrand,16
+Lewis ,West Turin 1,U.S. Senate,,WOR,Kirstin E. Gillibrand,3
+Lewis ,West Turin 2,U.S. Senate,,WOR,Kirstin E. Gillibrand,1
+Lewis ,West Turin 3,U.S. Senate,,WOR,Kirstin E. Gillibrand,3
+Lewis ,West Turin 4,U.S. Senate,,WOR,Kirstin E. Gillibrand,5
+Lewis ,Croghan 1,U.S. Senate,,IND,Kirstin E. Gillibrand,3
+Lewis ,Croghan 2,U.S. Senate,,IND,Kirstin E. Gillibrand,6
+Lewis ,Croghan 3,U.S. Senate,,IND,Kirstin E. Gillibrand,2
+Lewis ,Croghan 4,U.S. Senate,,IND,Kirstin E. Gillibrand,6
+Lewis ,Croghan 5,U.S. Senate,,IND,Kirstin E. Gillibrand,1
+Lewis ,Croghan 6,U.S. Senate,,IND,Kirstin E. Gillibrand,1
+Lewis ,Denmark 1,U.S. Senate,,IND,Kirstin E. Gillibrand,6
+Lewis ,Denmark 2,U.S. Senate,,IND,Kirstin E. Gillibrand,7
+Lewis ,Denmark 3,U.S. Senate,,IND,Kirstin E. Gillibrand,7
+Lewis ,Diana 1,U.S. Senate,,IND,Kirstin E. Gillibrand,9
+Lewis ,Diana 2,U.S. Senate,,IND,Kirstin E. Gillibrand,4
+Lewis ,Greig,U.S. Senate,,IND,Kirstin E. Gillibrand,13
+Lewis ,Harrisburg,U.S. Senate,,IND,Kirstin E. Gillibrand,1
+Lewis ,Lewis,U.S. Senate,,IND,Kirstin E. Gillibrand,2
+Lewis ,Leyden 1,U.S. Senate,,IND,Kirstin E. Gillibrand,4
+Lewis ,Leyden 2,U.S. Senate,,IND,Kirstin E. Gillibrand,1
+Lewis ,Leyden 3,U.S. Senate,,IND,Kirstin E. Gillibrand,2
+Lewis ,Lowville 1,U.S. Senate,,IND,Kirstin E. Gillibrand,9
+Lewis ,Lowville 2,U.S. Senate,,IND,Kirstin E. Gillibrand,7
+Lewis ,Lowville 3,U.S. Senate,,IND,Kirstin E. Gillibrand,6
+Lewis ,Lowville 4,U.S. Senate,,IND,Kirstin E. Gillibrand,10
+Lewis ,Lowville 5,U.S. Senate,,IND,Kirstin E. Gillibrand,5
+Lewis ,Lyonsdale 1,U.S. Senate,,IND,Kirstin E. Gillibrand,3
+Lewis ,Lyonsdale 2,U.S. Senate,,IND,Kirstin E. Gillibrand,0
+Lewis ,Lyonsdale 3,U.S. Senate,,IND,Kirstin E. Gillibrand,2
+Lewis ,Martinsburg,U.S. Senate,,IND,Kirstin E. Gillibrand,4
+Lewis ,Montague,U.S. Senate,,IND,Kirstin E. Gillibrand,0
+Lewis ,New Bremen 1,U.S. Senate,,IND,Kirstin E. Gillibrand,14
+Lewis ,New Bremen 2,U.S. Senate,,IND,Kirstin E. Gillibrand,4
+Lewis ,New Bremen 3,U.S. Senate,,IND,Kirstin E. Gillibrand,1
+Lewis ,Osceola,U.S. Senate,,IND,Kirstin E. Gillibrand,2
+Lewis ,Pinckney,U.S. Senate,,IND,Kirstin E. Gillibrand,4
+Lewis ,Turin,U.S. Senate,,IND,Kirstin E. Gillibrand,6
+Lewis ,Watson,U.S. Senate,,IND,Kirstin E. Gillibrand,15
+Lewis ,West Turin 1,U.S. Senate,,IND,Kirstin E. Gillibrand,6
+Lewis ,West Turin 2,U.S. Senate,,IND,Kirstin E. Gillibrand,1
+Lewis ,West Turin 3,U.S. Senate,,IND,Kirstin E. Gillibrand,3
+Lewis ,West Turin 4,U.S. Senate,,IND,Kirstin E. Gillibrand,4
+Lewis ,Croghan 1,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,Croghan 2,U.S. Senate,,WEP,Kirstin E. Gillibrand,2
+Lewis ,Croghan 3,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,Croghan 4,U.S. Senate,,WEP,Kirstin E. Gillibrand,2
+Lewis ,Croghan 5,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,Croghan 6,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,Denmark 1,U.S. Senate,,WEP,Kirstin E. Gillibrand,1
+Lewis ,Denmark 2,U.S. Senate,,WEP,Kirstin E. Gillibrand,2
+Lewis ,Denmark 3,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,Diana 1,U.S. Senate,,WEP,Kirstin E. Gillibrand,5
+Lewis ,Diana 2,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,Greig,U.S. Senate,,WEP,Kirstin E. Gillibrand,3
+Lewis ,Harrisburg,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,Lewis,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,Leyden 1,U.S. Senate,,WEP,Kirstin E. Gillibrand,1
+Lewis ,Leyden 2,U.S. Senate,,WEP,Kirstin E. Gillibrand,1
+Lewis ,Leyden 3,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,Lowville 1,U.S. Senate,,WEP,Kirstin E. Gillibrand,3
+Lewis ,Lowville 2,U.S. Senate,,WEP,Kirstin E. Gillibrand,3
+Lewis ,Lowville 3,U.S. Senate,,WEP,Kirstin E. Gillibrand,2
+Lewis ,Lowville 4,U.S. Senate,,WEP,Kirstin E. Gillibrand,5
+Lewis ,Lowville 5,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,Lyonsdale 1,U.S. Senate,,WEP,Kirstin E. Gillibrand,3
+Lewis ,Lyonsdale 2,U.S. Senate,,WEP,Kirstin E. Gillibrand,1
+Lewis ,Lyonsdale 3,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,Martinsburg,U.S. Senate,,WEP,Kirstin E. Gillibrand,3
+Lewis ,Montague,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,New Bremen 1,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,New Bremen 2,U.S. Senate,,WEP,Kirstin E. Gillibrand,1
+Lewis ,New Bremen 3,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,Osceola,U.S. Senate,,WEP,Kirstin E. Gillibrand,1
+Lewis ,Pinckney,U.S. Senate,,WEP,Kirstin E. Gillibrand,1
+Lewis ,Turin,U.S. Senate,,WEP,Kirstin E. Gillibrand,2
+Lewis ,Watson,U.S. Senate,,WEP,Kirstin E. Gillibrand,4
+Lewis ,West Turin 1,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,West Turin 2,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,West Turin 3,U.S. Senate,,WEP,Kirstin E. Gillibrand,0
+Lewis ,West Turin 4,U.S. Senate,,WEP,Kirstin E. Gillibrand,3
+Lewis ,Croghan 1,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Croghan 2,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Croghan 3,U.S. Senate,,REF,Chele Chiavacci Farley,1
+Lewis ,Croghan 4,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Croghan 5,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Croghan 6,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Denmark 1,U.S. Senate,,REF,Chele Chiavacci Farley,2
+Lewis ,Denmark 2,U.S. Senate,,REF,Chele Chiavacci Farley,2
+Lewis ,Denmark 3,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Diana 1,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Diana 2,U.S. Senate,,REF,Chele Chiavacci Farley,1
+Lewis ,Greig,U.S. Senate,,REF,Chele Chiavacci Farley,3
+Lewis ,Harrisburg,U.S. Senate,,REF,Chele Chiavacci Farley,1
+Lewis ,Lewis,U.S. Senate,,REF,Chele Chiavacci Farley,1
+Lewis ,Leyden 1,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Leyden 2,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Leyden 3,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Lowville 1,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Lowville 2,U.S. Senate,,REF,Chele Chiavacci Farley,1
+Lewis ,Lowville 3,U.S. Senate,,REF,Chele Chiavacci Farley,1
+Lewis ,Lowville 4,U.S. Senate,,REF,Chele Chiavacci Farley,2
+Lewis ,Lowville 5,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Lyonsdale 1,U.S. Senate,,REF,Chele Chiavacci Farley,1
+Lewis ,Lyonsdale 2,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Lyonsdale 3,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Martinsburg,U.S. Senate,,REF,Chele Chiavacci Farley,4
+Lewis ,Montague,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,New Bremen 1,U.S. Senate,,REF,Chele Chiavacci Farley,3
+Lewis ,New Bremen 2,U.S. Senate,,REF,Chele Chiavacci Farley,2
+Lewis ,New Bremen 3,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Osceola,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Pinckney,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,Turin,U.S. Senate,,REF,Chele Chiavacci Farley,1
+Lewis ,Watson,U.S. Senate,,REF,Chele Chiavacci Farley,4
+Lewis ,West Turin 1,U.S. Senate,,REF,Chele Chiavacci Farley,1
+Lewis ,West Turin 2,U.S. Senate,,REF,Chele Chiavacci Farley,0
+Lewis ,West Turin 3,U.S. Senate,,REF,Chele Chiavacci Farley,1
+Lewis ,West Turin 4,U.S. Senate,,REF,Chele Chiavacci Farley,2
+Lewis ,Croghan 1,U.S. Senate,,,Write-Ins,0
+Lewis ,Croghan 2,U.S. Senate,,,Write-Ins,0
+Lewis ,Croghan 3,U.S. Senate,,,Write-Ins,0
+Lewis ,Croghan 4,U.S. Senate,,,Write-Ins,0
+Lewis ,Croghan 5,U.S. Senate,,,Write-Ins,0
+Lewis ,Croghan 6,U.S. Senate,,,Write-Ins,0
+Lewis ,Denmark 1,U.S. Senate,,,Write-Ins,0
+Lewis ,Denmark 2,U.S. Senate,,,Write-Ins,0
+Lewis ,Denmark 3,U.S. Senate,,,Write-Ins,1
+Lewis ,Diana 1,U.S. Senate,,,Write-Ins,0
+Lewis ,Diana 2,U.S. Senate,,,Write-Ins,0
+Lewis ,Greig,U.S. Senate,,,Write-Ins,0
+Lewis ,Harrisburg,U.S. Senate,,,Write-Ins,0
+Lewis ,Lewis,U.S. Senate,,,Write-Ins,0
+Lewis ,Leyden 1,U.S. Senate,,,Write-Ins,0
+Lewis ,Leyden 2,U.S. Senate,,,Write-Ins,0
+Lewis ,Leyden 3,U.S. Senate,,,Write-Ins,0
+Lewis ,Lowville 1,U.S. Senate,,,Write-Ins,0
+Lewis ,Lowville 2,U.S. Senate,,,Write-Ins,0
+Lewis ,Lowville 3,U.S. Senate,,,Write-Ins,0
+Lewis ,Lowville 4,U.S. Senate,,,Write-Ins,1
+Lewis ,Lowville 5,U.S. Senate,,,Write-Ins,0
+Lewis ,Lyonsdale 1,U.S. Senate,,,Write-Ins,0
+Lewis ,Lyonsdale 2,U.S. Senate,,,Write-Ins,0
+Lewis ,Lyonsdale 3,U.S. Senate,,,Write-Ins,0
+Lewis ,Martinsburg,U.S. Senate,,,Write-Ins,0
+Lewis ,Montague,U.S. Senate,,,Write-Ins,0
+Lewis ,New Bremen 1,U.S. Senate,,,Write-Ins,0
+Lewis ,New Bremen 2,U.S. Senate,,,Write-Ins,0
+Lewis ,New Bremen 3,U.S. Senate,,,Write-Ins,1
+Lewis ,Osceola,U.S. Senate,,,Write-Ins,0
+Lewis ,Pinckney,U.S. Senate,,,Write-Ins,0
+Lewis ,Turin,U.S. Senate,,,Write-Ins,0
+Lewis ,Watson,U.S. Senate,,,Write-Ins,0
+Lewis ,West Turin 1,U.S. Senate,,,Write-Ins,0
+Lewis ,West Turin 2,U.S. Senate,,,Write-Ins,0
+Lewis ,West Turin 3,U.S. Senate,,,Write-Ins,0
+Lewis ,West Turin 4,U.S. Senate,,,Write-Ins,0
+Lewis ,Croghan 1,U.S. Senate,,,Blank,9
+Lewis ,Croghan 2,U.S. Senate,,,Blank,7
+Lewis ,Croghan 3,U.S. Senate,,,Blank,23
+Lewis ,Croghan 4,U.S. Senate,,,Blank,18
+Lewis ,Croghan 5,U.S. Senate,,,Blank,0
+Lewis ,Croghan 6,U.S. Senate,,,Blank,3
+Lewis ,Denmark 1,U.S. Senate,,,Blank,6
+Lewis ,Denmark 2,U.S. Senate,,,Blank,9
+Lewis ,Denmark 3,U.S. Senate,,,Blank,19
+Lewis ,Diana 1,U.S. Senate,,,Blank,12
+Lewis ,Diana 2,U.S. Senate,,,Blank,4
+Lewis ,Greig,U.S. Senate,,,Blank,52
+Lewis ,Harrisburg,U.S. Senate,,,Blank,16
+Lewis ,Lewis,U.S. Senate,,,Blank,29
+Lewis ,Leyden 1,U.S. Senate,,,Blank,20
+Lewis ,Leyden 2,U.S. Senate,,,Blank,15
+Lewis ,Leyden 3,U.S. Senate,,,Blank,15
+Lewis ,Lowville 1,U.S. Senate,,,Blank,21
+Lewis ,Lowville 2,U.S. Senate,,,Blank,14
+Lewis ,Lowville 3,U.S. Senate,,,Blank,11
+Lewis ,Lowville 4,U.S. Senate,,,Blank,52
+Lewis ,Lowville 5,U.S. Senate,,,Blank,11
+Lewis ,Lyonsdale 1,U.S. Senate,,,Blank,20
+Lewis ,Lyonsdale 2,U.S. Senate,,,Blank,5
+Lewis ,Lyonsdale 3,U.S. Senate,,,Blank,0
+Lewis ,Martinsburg,U.S. Senate,,,Blank,25
+Lewis ,Montague,U.S. Senate,,,Blank,0
+Lewis ,New Bremen 1,U.S. Senate,,,Blank,17
+Lewis ,New Bremen 2,U.S. Senate,,,Blank,29
+Lewis ,New Bremen 3,U.S. Senate,,,Blank,3
+Lewis ,Osceola,U.S. Senate,,,Blank,8
+Lewis ,Pinckney,U.S. Senate,,,Blank,5
+Lewis ,Turin,U.S. Senate,,,Blank,12
+Lewis ,Watson,U.S. Senate,,,Blank,26
+Lewis ,West Turin 1,U.S. Senate,,,Blank,23
+Lewis ,West Turin 2,U.S. Senate,,,Blank,7
+Lewis ,West Turin 3,U.S. Senate,,,Blank,6
+Lewis ,West Turin 4,U.S. Senate,,,Blank,7
+Lewis ,Croghan 1,U.S. House,21,DEM,Tedra Cobb,28
+Lewis ,Croghan 2,U.S. House,21,DEM,Tedra Cobb,40
+Lewis ,Croghan 3,U.S. House,21,DEM,Tedra Cobb,86
+Lewis ,Croghan 4,U.S. House,21,DEM,Tedra Cobb,57
+Lewis ,Croghan 5,U.S. House,21,DEM,Tedra Cobb,20
+Lewis ,Croghan 6,U.S. House,21,DEM,Tedra Cobb,17
+Lewis ,Denmark 1,U.S. House,21,DEM,Tedra Cobb,47
+Lewis ,Denmark 2,U.S. House,21,DEM,Tedra Cobb,82
+Lewis ,Denmark 3,U.S. House,21,DEM,Tedra Cobb,48
+Lewis ,Diana 1,U.S. House,21,DEM,Tedra Cobb,107
+Lewis ,Diana 2,U.S. House,21,DEM,Tedra Cobb,60
+Lewis ,Greig,U.S. House,21,DEM,Tedra Cobb,124
+Lewis ,Harrisburg,U.S. House,21,DEM,Tedra Cobb,36
+Lewis ,Lewis,U.S. House,21,DEM,Tedra Cobb,52
+Lewis ,Leyden 1,U.S. House,21,DEM,Tedra Cobb,51
+Lewis ,Leyden 2,U.S. House,21,DEM,Tedra Cobb,34
+Lewis ,Leyden 3,U.S. House,21,DEM,Tedra Cobb,31
+Lewis ,Lowville 1,U.S. House,21,DEM,Tedra Cobb,79
+Lewis ,Lowville 2,U.S. House,21,DEM,Tedra Cobb,102
+Lewis ,Lowville 3,U.S. House,21,DEM,Tedra Cobb,53
+Lewis ,Lowville 4,U.S. House,21,DEM,Tedra Cobb,227
+Lewis ,Lowville 5,U.S. House,21,DEM,Tedra Cobb,30
+Lewis ,Lyonsdale 1,U.S. House,21,DEM,Tedra Cobb,48
+Lewis ,Lyonsdale 2,U.S. House,21,DEM,Tedra Cobb,15
+Lewis ,Lyonsdale 3,U.S. House,21,DEM,Tedra Cobb,6
+Lewis ,Martinsburg,U.S. House,21,DEM,Tedra Cobb,95
+Lewis ,Montague,U.S. House,21,DEM,Tedra Cobb,6
+Lewis ,New Bremen 1,U.S. House,21,DEM,Tedra Cobb,98
+Lewis ,New Bremen 2,U.S. House,21,DEM,Tedra Cobb,103
+Lewis ,New Bremen 3,U.S. House,21,DEM,Tedra Cobb,25
+Lewis ,Osceola,U.S. House,21,DEM,Tedra Cobb,16
+Lewis ,Pinckney,U.S. House,21,DEM,Tedra Cobb,20
+Lewis ,Turin,U.S. House,21,DEM,Tedra Cobb,70
+Lewis ,Watson,U.S. House,21,DEM,Tedra Cobb,175
+Lewis ,West Turin 1,U.S. House,21,DEM,Tedra Cobb,55
+Lewis ,West Turin 2,U.S. House,21,DEM,Tedra Cobb,11
+Lewis ,West Turin 3,U.S. House,21,DEM,Tedra Cobb,21
+Lewis ,West Turin 4,U.S. House,21,DEM,Tedra Cobb,42
+Lewis ,Croghan 1,U.S. House,21,REP,Elise M. Stefanik,99
+Lewis ,Croghan 2,U.S. House,21,REP,Elise M. Stefanik,72
+Lewis ,Croghan 3,U.S. House,21,REP,Elise M. Stefanik,191
+Lewis ,Croghan 4,U.S. House,21,REP,Elise M. Stefanik,173
+Lewis ,Croghan 5,U.S. House,21,REP,Elise M. Stefanik,30
+Lewis ,Croghan 6,U.S. House,21,REP,Elise M. Stefanik,35
+Lewis ,Denmark 1,U.S. House,21,REP,Elise M. Stefanik,90
+Lewis ,Denmark 2,U.S. House,21,REP,Elise M. Stefanik,217
+Lewis ,Denmark 3,U.S. House,21,REP,Elise M. Stefanik,150
+Lewis ,Diana 1,U.S. House,21,REP,Elise M. Stefanik,198
+Lewis ,Diana 2,U.S. House,21,REP,Elise M. Stefanik,88
+Lewis ,Greig,U.S. House,21,REP,Elise M. Stefanik,286
+Lewis ,Harrisburg,U.S. House,21,REP,Elise M. Stefanik,112
+Lewis ,Lewis,U.S. House,21,REP,Elise M. Stefanik,201
+Lewis ,Leyden 1,U.S. House,21,REP,Elise M. Stefanik,175
+Lewis ,Leyden 2,U.S. House,21,REP,Elise M. Stefanik,80
+Lewis ,Leyden 3,U.S. House,21,REP,Elise M. Stefanik,90
+Lewis ,Lowville 1,U.S. House,21,REP,Elise M. Stefanik,107
+Lewis ,Lowville 2,U.S. House,21,REP,Elise M. Stefanik,169
+Lewis ,Lowville 3,U.S. House,21,REP,Elise M. Stefanik,80
+Lewis ,Lowville 4,U.S. House,21,REP,Elise M. Stefanik,357
+Lewis ,Lowville 5,U.S. House,21,REP,Elise M. Stefanik,83
+Lewis ,Lyonsdale 1,U.S. House,21,REP,Elise M. Stefanik,176
+Lewis ,Lyonsdale 2,U.S. House,21,REP,Elise M. Stefanik,48
+Lewis ,Lyonsdale 3,U.S. House,21,REP,Elise M. Stefanik,14
+Lewis ,Martinsburg,U.S. House,21,REP,Elise M. Stefanik,260
+Lewis ,Montague,U.S. House,21,REP,Elise M. Stefanik,29
+Lewis ,New Bremen 1,U.S. House,21,REP,Elise M. Stefanik,247
+Lewis ,New Bremen 2,U.S. House,21,REP,Elise M. Stefanik,260
+Lewis ,New Bremen 3,U.S. House,21,REP,Elise M. Stefanik,59
+Lewis ,Osceola,U.S. House,21,REP,Elise M. Stefanik,79
+Lewis ,Pinckney,U.S. House,21,REP,Elise M. Stefanik,89
+Lewis ,Turin,U.S. House,21,REP,Elise M. Stefanik,163
+Lewis ,Watson,U.S. House,21,REP,Elise M. Stefanik,380
+Lewis ,West Turin 1,U.S. House,21,REP,Elise M. Stefanik,187
+Lewis ,West Turin 2,U.S. House,21,REP,Elise M. Stefanik,47
+Lewis ,West Turin 3,U.S. House,21,REP,Elise M. Stefanik,74
+Lewis ,West Turin 4,U.S. House,21,REP,Elise M. Stefanik,111
+Lewis ,Croghan 1,U.S. House,21,CON,Elise M. Stefanik,14
+Lewis ,Croghan 2,U.S. House,21,CON,Elise M. Stefanik,9
+Lewis ,Croghan 3,U.S. House,21,CON,Elise M. Stefanik,25
+Lewis ,Croghan 4,U.S. House,21,CON,Elise M. Stefanik,16
+Lewis ,Croghan 5,U.S. House,21,CON,Elise M. Stefanik,2
+Lewis ,Croghan 6,U.S. House,21,CON,Elise M. Stefanik,4
+Lewis ,Denmark 1,U.S. House,21,CON,Elise M. Stefanik,12
+Lewis ,Denmark 2,U.S. House,21,CON,Elise M. Stefanik,17
+Lewis ,Denmark 3,U.S. House,21,CON,Elise M. Stefanik,24
+Lewis ,Diana 1,U.S. House,21,CON,Elise M. Stefanik,27
+Lewis ,Diana 2,U.S. House,21,CON,Elise M. Stefanik,5
+Lewis ,Greig,U.S. House,21,CON,Elise M. Stefanik,25
+Lewis ,Harrisburg,U.S. House,21,CON,Elise M. Stefanik,10
+Lewis ,Lewis,U.S. House,21,CON,Elise M. Stefanik,16
+Lewis ,Leyden 1,U.S. House,21,CON,Elise M. Stefanik,17
+Lewis ,Leyden 2,U.S. House,21,CON,Elise M. Stefanik,10
+Lewis ,Leyden 3,U.S. House,21,CON,Elise M. Stefanik,1
+Lewis ,Lowville 1,U.S. House,21,CON,Elise M. Stefanik,11
+Lewis ,Lowville 2,U.S. House,21,CON,Elise M. Stefanik,5
+Lewis ,Lowville 3,U.S. House,21,CON,Elise M. Stefanik,8
+Lewis ,Lowville 4,U.S. House,21,CON,Elise M. Stefanik,36
+Lewis ,Lowville 5,U.S. House,21,CON,Elise M. Stefanik,6
+Lewis ,Lyonsdale 1,U.S. House,21,CON,Elise M. Stefanik,14
+Lewis ,Lyonsdale 2,U.S. House,21,CON,Elise M. Stefanik,3
+Lewis ,Lyonsdale 3,U.S. House,21,CON,Elise M. Stefanik,0
+Lewis ,Martinsburg,U.S. House,21,CON,Elise M. Stefanik,22
+Lewis ,Montague,U.S. House,21,CON,Elise M. Stefanik,1
+Lewis ,New Bremen 1,U.S. House,21,CON,Elise M. Stefanik,19
+Lewis ,New Bremen 2,U.S. House,21,CON,Elise M. Stefanik,23
+Lewis ,New Bremen 3,U.S. House,21,CON,Elise M. Stefanik,4
+Lewis ,Osceola,U.S. House,21,CON,Elise M. Stefanik,4
+Lewis ,Pinckney,U.S. House,21,CON,Elise M. Stefanik,6
+Lewis ,Turin,U.S. House,21,CON,Elise M. Stefanik,5
+Lewis ,Watson,U.S. House,21,CON,Elise M. Stefanik,21
+Lewis ,West Turin 1,U.S. House,21,CON,Elise M. Stefanik,22
+Lewis ,West Turin 2,U.S. House,21,CON,Elise M. Stefanik,3
+Lewis ,West Turin 3,U.S. House,21,CON,Elise M. Stefanik,7
+Lewis ,West Turin 4,U.S. House,21,CON,Elise M. Stefanik,6
+Lewis ,Croghan 1,U.S. House,21,GRE,Lynn Kahn,4
+Lewis ,Croghan 2,U.S. House,21,GRE,Lynn Kahn,7
+Lewis ,Croghan 3,U.S. House,21,GRE,Lynn Kahn,5
+Lewis ,Croghan 4,U.S. House,21,GRE,Lynn Kahn,6
+Lewis ,Croghan 5,U.S. House,21,GRE,Lynn Kahn,2
+Lewis ,Croghan 6,U.S. House,21,GRE,Lynn Kahn,1
+Lewis ,Denmark 1,U.S. House,21,GRE,Lynn Kahn,11
+Lewis ,Denmark 2,U.S. House,21,GRE,Lynn Kahn,13
+Lewis ,Denmark 3,U.S. House,21,GRE,Lynn Kahn,3
+Lewis ,Diana 1,U.S. House,21,GRE,Lynn Kahn,10
+Lewis ,Diana 2,U.S. House,21,GRE,Lynn Kahn,4
+Lewis ,Greig,U.S. House,21,GRE,Lynn Kahn,9
+Lewis ,Harrisburg,U.S. House,21,GRE,Lynn Kahn,5
+Lewis ,Lewis,U.S. House,21,GRE,Lynn Kahn,1
+Lewis ,Leyden 1,U.S. House,21,GRE,Lynn Kahn,1
+Lewis ,Leyden 2,U.S. House,21,GRE,Lynn Kahn,2
+Lewis ,Leyden 3,U.S. House,21,GRE,Lynn Kahn,2
+Lewis ,Lowville 1,U.S. House,21,GRE,Lynn Kahn,8
+Lewis ,Lowville 2,U.S. House,21,GRE,Lynn Kahn,4
+Lewis ,Lowville 3,U.S. House,21,GRE,Lynn Kahn,5
+Lewis ,Lowville 4,U.S. House,21,GRE,Lynn Kahn,13
+Lewis ,Lowville 5,U.S. House,21,GRE,Lynn Kahn,2
+Lewis ,Lyonsdale 1,U.S. House,21,GRE,Lynn Kahn,5
+Lewis ,Lyonsdale 2,U.S. House,21,GRE,Lynn Kahn,0
+Lewis ,Lyonsdale 3,U.S. House,21,GRE,Lynn Kahn,0
+Lewis ,Martinsburg,U.S. House,21,GRE,Lynn Kahn,11
+Lewis ,Montague,U.S. House,21,GRE,Lynn Kahn,0
+Lewis ,New Bremen 1,U.S. House,21,GRE,Lynn Kahn,18
+Lewis ,New Bremen 2,U.S. House,21,GRE,Lynn Kahn,16
+Lewis ,New Bremen 3,U.S. House,21,GRE,Lynn Kahn,5
+Lewis ,Osceola,U.S. House,21,GRE,Lynn Kahn,1
+Lewis ,Pinckney,U.S. House,21,GRE,Lynn Kahn,2
+Lewis ,Turin,U.S. House,21,GRE,Lynn Kahn,6
+Lewis ,Watson,U.S. House,21,GRE,Lynn Kahn,21
+Lewis ,West Turin 1,U.S. House,21,GRE,Lynn Kahn,3
+Lewis ,West Turin 2,U.S. House,21,GRE,Lynn Kahn,0
+Lewis ,West Turin 3,U.S. House,21,GRE,Lynn Kahn,0
+Lewis ,West Turin 4,U.S. House,21,GRE,Lynn Kahn,1
+Lewis ,Croghan 1,U.S. House,21,WOR,Tedra Cobb,0
+Lewis ,Croghan 2,U.S. House,21,WOR,Tedra Cobb,2
+Lewis ,Croghan 3,U.S. House,21,WOR,Tedra Cobb,1
+Lewis ,Croghan 4,U.S. House,21,WOR,Tedra Cobb,2
+Lewis ,Croghan 5,U.S. House,21,WOR,Tedra Cobb,2
+Lewis ,Croghan 6,U.S. House,21,WOR,Tedra Cobb,2
+Lewis ,Denmark 1,U.S. House,21,WOR,Tedra Cobb,0
+Lewis ,Denmark 2,U.S. House,21,WOR,Tedra Cobb,9
+Lewis ,Denmark 3,U.S. House,21,WOR,Tedra Cobb,2
+Lewis ,Diana 1,U.S. House,21,WOR,Tedra Cobb,5
+Lewis ,Diana 2,U.S. House,21,WOR,Tedra Cobb,2
+Lewis ,Greig,U.S. House,21,WOR,Tedra Cobb,2
+Lewis ,Harrisburg,U.S. House,21,WOR,Tedra Cobb,0
+Lewis ,Lewis,U.S. House,21,WOR,Tedra Cobb,1
+Lewis ,Leyden 1,U.S. House,21,WOR,Tedra Cobb,4
+Lewis ,Leyden 2,U.S. House,21,WOR,Tedra Cobb,1
+Lewis ,Leyden 3,U.S. House,21,WOR,Tedra Cobb,2
+Lewis ,Lowville 1,U.S. House,21,WOR,Tedra Cobb,5
+Lewis ,Lowville 2,U.S. House,21,WOR,Tedra Cobb,1
+Lewis ,Lowville 3,U.S. House,21,WOR,Tedra Cobb,1
+Lewis ,Lowville 4,U.S. House,21,WOR,Tedra Cobb,10
+Lewis ,Lowville 5,U.S. House,21,WOR,Tedra Cobb,0
+Lewis ,Lyonsdale 1,U.S. House,21,WOR,Tedra Cobb,3
+Lewis ,Lyonsdale 2,U.S. House,21,WOR,Tedra Cobb,0
+Lewis ,Lyonsdale 3,U.S. House,21,WOR,Tedra Cobb,0
+Lewis ,Martinsburg,U.S. House,21,WOR,Tedra Cobb,4
+Lewis ,Montague,U.S. House,21,WOR,Tedra Cobb,0
+Lewis ,New Bremen 1,U.S. House,21,WOR,Tedra Cobb,10
+Lewis ,New Bremen 2,U.S. House,21,WOR,Tedra Cobb,1
+Lewis ,New Bremen 3,U.S. House,21,WOR,Tedra Cobb,0
+Lewis ,Osceola,U.S. House,21,WOR,Tedra Cobb,0
+Lewis ,Pinckney,U.S. House,21,WOR,Tedra Cobb,1
+Lewis ,Turin,U.S. House,21,WOR,Tedra Cobb,2
+Lewis ,Watson,U.S. House,21,WOR,Tedra Cobb,7
+Lewis ,West Turin 1,U.S. House,21,WOR,Tedra Cobb,8
+Lewis ,West Turin 2,U.S. House,21,WOR,Tedra Cobb,2
+Lewis ,West Turin 3,U.S. House,21,WOR,Tedra Cobb,2
+Lewis ,West Turin 4,U.S. House,21,WOR,Tedra Cobb,2
+Lewis ,Croghan 1,U.S. House,21,IND,Elise M. Stefanik,2
+Lewis ,Croghan 2,U.S. House,21,IND,Elise M. Stefanik,5
+Lewis ,Croghan 3,U.S. House,21,IND,Elise M. Stefanik,0
+Lewis ,Croghan 4,U.S. House,21,IND,Elise M. Stefanik,2
+Lewis ,Croghan 5,U.S. House,21,IND,Elise M. Stefanik,2
+Lewis ,Croghan 6,U.S. House,21,IND,Elise M. Stefanik,2
+Lewis ,Denmark 1,U.S. House,21,IND,Elise M. Stefanik,1
+Lewis ,Denmark 2,U.S. House,21,IND,Elise M. Stefanik,6
+Lewis ,Denmark 3,U.S. House,21,IND,Elise M. Stefanik,7
+Lewis ,Diana 1,U.S. House,21,IND,Elise M. Stefanik,9
+Lewis ,Diana 2,U.S. House,21,IND,Elise M. Stefanik,0
+Lewis ,Greig,U.S. House,21,IND,Elise M. Stefanik,4
+Lewis ,Harrisburg,U.S. House,21,IND,Elise M. Stefanik,5
+Lewis ,Lewis,U.S. House,21,IND,Elise M. Stefanik,0
+Lewis ,Leyden 1,U.S. House,21,IND,Elise M. Stefanik,4
+Lewis ,Leyden 2,U.S. House,21,IND,Elise M. Stefanik,5
+Lewis ,Leyden 3,U.S. House,21,IND,Elise M. Stefanik,2
+Lewis ,Lowville 1,U.S. House,21,IND,Elise M. Stefanik,5
+Lewis ,Lowville 2,U.S. House,21,IND,Elise M. Stefanik,7
+Lewis ,Lowville 3,U.S. House,21,IND,Elise M. Stefanik,2
+Lewis ,Lowville 4,U.S. House,21,IND,Elise M. Stefanik,10
+Lewis ,Lowville 5,U.S. House,21,IND,Elise M. Stefanik,2
+Lewis ,Lyonsdale 1,U.S. House,21,IND,Elise M. Stefanik,1
+Lewis ,Lyonsdale 2,U.S. House,21,IND,Elise M. Stefanik,1
+Lewis ,Lyonsdale 3,U.S. House,21,IND,Elise M. Stefanik,1
+Lewis ,Martinsburg,U.S. House,21,IND,Elise M. Stefanik,8
+Lewis ,Montague,U.S. House,21,IND,Elise M. Stefanik,1
+Lewis ,New Bremen 1,U.S. House,21,IND,Elise M. Stefanik,10
+Lewis ,New Bremen 2,U.S. House,21,IND,Elise M. Stefanik,5
+Lewis ,New Bremen 3,U.S. House,21,IND,Elise M. Stefanik,0
+Lewis ,Osceola,U.S. House,21,IND,Elise M. Stefanik,2
+Lewis ,Pinckney,U.S. House,21,IND,Elise M. Stefanik,3
+Lewis ,Turin,U.S. House,21,IND,Elise M. Stefanik,5
+Lewis ,Watson,U.S. House,21,IND,Elise M. Stefanik,9
+Lewis ,West Turin 1,U.S. House,21,IND,Elise M. Stefanik,3
+Lewis ,West Turin 2,U.S. House,21,IND,Elise M. Stefanik,1
+Lewis ,West Turin 3,U.S. House,21,IND,Elise M. Stefanik,4
+Lewis ,West Turin 4,U.S. House,21,IND,Elise M. Stefanik,2
+Lewis ,Croghan 1,U.S. House,21,WEP,Tedra Cobb,0
+Lewis ,Croghan 2,U.S. House,21,WEP,Tedra Cobb,1
+Lewis ,Croghan 3,U.S. House,21,WEP,Tedra Cobb,1
+Lewis ,Croghan 4,U.S. House,21,WEP,Tedra Cobb,1
+Lewis ,Croghan 5,U.S. House,21,WEP,Tedra Cobb,0
+Lewis ,Croghan 6,U.S. House,21,WEP,Tedra Cobb,0
+Lewis ,Denmark 1,U.S. House,21,WEP,Tedra Cobb,1
+Lewis ,Denmark 2,U.S. House,21,WEP,Tedra Cobb,0
+Lewis ,Denmark 3,U.S. House,21,WEP,Tedra Cobb,3
+Lewis ,Diana 1,U.S. House,21,WEP,Tedra Cobb,3
+Lewis ,Diana 2,U.S. House,21,WEP,Tedra Cobb,0
+Lewis ,Greig,U.S. House,21,WEP,Tedra Cobb,1
+Lewis ,Harrisburg,U.S. House,21,WEP,Tedra Cobb,2
+Lewis ,Lewis,U.S. House,21,WEP,Tedra Cobb,0
+Lewis ,Leyden 1,U.S. House,21,WEP,Tedra Cobb,2
+Lewis ,Leyden 2,U.S. House,21,WEP,Tedra Cobb,1
+Lewis ,Leyden 3,U.S. House,21,WEP,Tedra Cobb,1
+Lewis ,Lowville 1,U.S. House,21,WEP,Tedra Cobb,2
+Lewis ,Lowville 2,U.S. House,21,WEP,Tedra Cobb,1
+Lewis ,Lowville 3,U.S. House,21,WEP,Tedra Cobb,1
+Lewis ,Lowville 4,U.S. House,21,WEP,Tedra Cobb,4
+Lewis ,Lowville 5,U.S. House,21,WEP,Tedra Cobb,0
+Lewis ,Lyonsdale 1,U.S. House,21,WEP,Tedra Cobb,3
+Lewis ,Lyonsdale 2,U.S. House,21,WEP,Tedra Cobb,1
+Lewis ,Lyonsdale 3,U.S. House,21,WEP,Tedra Cobb,0
+Lewis ,Martinsburg,U.S. House,21,WEP,Tedra Cobb,1
+Lewis ,Montague,U.S. House,21,WEP,Tedra Cobb,0
+Lewis ,New Bremen 1,U.S. House,21,WEP,Tedra Cobb,3
+Lewis ,New Bremen 2,U.S. House,21,WEP,Tedra Cobb,2
+Lewis ,New Bremen 3,U.S. House,21,WEP,Tedra Cobb,0
+Lewis ,Osceola,U.S. House,21,WEP,Tedra Cobb,3
+Lewis ,Pinckney,U.S. House,21,WEP,Tedra Cobb,1
+Lewis ,Turin,U.S. House,21,WEP,Tedra Cobb,0
+Lewis ,Watson,U.S. House,21,WEP,Tedra Cobb,8
+Lewis ,West Turin 1,U.S. House,21,WEP,Tedra Cobb,1
+Lewis ,West Turin 2,U.S. House,21,WEP,Tedra Cobb,0
+Lewis ,West Turin 3,U.S. House,21,WEP,Tedra Cobb,0
+Lewis ,West Turin 4,U.S. House,21,WEP,Tedra Cobb,0
+Lewis ,Croghan 1,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Croghan 2,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Croghan 3,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Croghan 4,U.S. House,21,REF,Elise M. Stefanik,2
+Lewis ,Croghan 5,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Croghan 6,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Denmark 1,U.S. House,21,REF,Elise M. Stefanik,2
+Lewis ,Denmark 2,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Denmark 3,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Diana 1,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Diana 2,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Greig,U.S. House,21,REF,Elise M. Stefanik,3
+Lewis ,Harrisburg,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Lewis,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Leyden 1,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Leyden 2,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Leyden 3,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Lowville 1,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Lowville 2,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Lowville 3,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Lowville 4,U.S. House,21,REF,Elise M. Stefanik,5
+Lewis ,Lowville 5,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Lyonsdale 1,U.S. House,21,REF,Elise M. Stefanik,2
+Lewis ,Lyonsdale 2,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Lyonsdale 3,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Martinsburg,U.S. House,21,REF,Elise M. Stefanik,2
+Lewis ,Montague,U.S. House,21,REF,Elise M. Stefanik,1
+Lewis ,New Bremen 1,U.S. House,21,REF,Elise M. Stefanik,1
+Lewis ,New Bremen 2,U.S. House,21,REF,Elise M. Stefanik,2
+Lewis ,New Bremen 3,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Osceola,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Pinckney,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,Turin,U.S. House,21,REF,Elise M. Stefanik,1
+Lewis ,Watson,U.S. House,21,REF,Elise M. Stefanik,1
+Lewis ,West Turin 1,U.S. House,21,REF,Elise M. Stefanik,1
+Lewis ,West Turin 2,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,West Turin 3,U.S. House,21,REF,Elise M. Stefanik,0
+Lewis ,West Turin 4,U.S. House,21,REF,Elise M. Stefanik,1
+Lewis ,Croghan 1,U.S. House,21,,Write-Ins,0
+Lewis ,Croghan 2,U.S. House,21,,Write-Ins,0
+Lewis ,Croghan 3,U.S. House,21,,Write-Ins,0
+Lewis ,Croghan 4,U.S. House,21,,Write-Ins,0
+Lewis ,Croghan 5,U.S. House,21,,Write-Ins,0
+Lewis ,Croghan 6,U.S. House,21,,Write-Ins,0
+Lewis ,Denmark 1,U.S. House,21,,Write-Ins,0
+Lewis ,Denmark 2,U.S. House,21,,Write-Ins,0
+Lewis ,Denmark 3,U.S. House,21,,Write-Ins,0
+Lewis ,Diana 1,U.S. House,21,,Write-Ins,0
+Lewis ,Diana 2,U.S. House,21,,Write-Ins,0
+Lewis ,Greig,U.S. House,21,,Write-Ins,0
+Lewis ,Harrisburg,U.S. House,21,,Write-Ins,0
+Lewis ,Lewis,U.S. House,21,,Write-Ins,0
+Lewis ,Leyden 1,U.S. House,21,,Write-Ins,0
+Lewis ,Leyden 2,U.S. House,21,,Write-Ins,0
+Lewis ,Leyden 3,U.S. House,21,,Write-Ins,0
+Lewis ,Lowville 1,U.S. House,21,,Write-Ins,0
+Lewis ,Lowville 2,U.S. House,21,,Write-Ins,0
+Lewis ,Lowville 3,U.S. House,21,,Write-Ins,0
+Lewis ,Lowville 4,U.S. House,21,,Write-Ins,2
+Lewis ,Lowville 5,U.S. House,21,,Write-Ins,0
+Lewis ,Lyonsdale 1,U.S. House,21,,Write-Ins,1
+Lewis ,Lyonsdale 2,U.S. House,21,,Write-Ins,0
+Lewis ,Lyonsdale 3,U.S. House,21,,Write-Ins,0
+Lewis ,Martinsburg,U.S. House,21,,Write-Ins,0
+Lewis ,Montague,U.S. House,21,,Write-Ins,0
+Lewis ,New Bremen 1,U.S. House,21,,Write-Ins,0
+Lewis ,New Bremen 2,U.S. House,21,,Write-Ins,0
+Lewis ,New Bremen 3,U.S. House,21,,Write-Ins,0
+Lewis ,Osceola,U.S. House,21,,Write-Ins,0
+Lewis ,Pinckney,U.S. House,21,,Write-Ins,0
+Lewis ,Turin,U.S. House,21,,Write-Ins,0
+Lewis ,Watson,U.S. House,21,,Write-Ins,0
+Lewis ,West Turin 1,U.S. House,21,,Write-Ins,0
+Lewis ,West Turin 2,U.S. House,21,,Write-Ins,0
+Lewis ,West Turin 3,U.S. House,21,,Write-Ins,0
+Lewis ,West Turin 4,U.S. House,21,,Write-Ins,0
+Lewis ,Croghan 1,U.S. House,21,,Blank,2
+Lewis ,Croghan 2,U.S. House,21,,Blank,1
+Lewis ,Croghan 3,U.S. House,21,,Blank,6
+Lewis ,Croghan 4,U.S. House,21,,Blank,3
+Lewis ,Croghan 5,U.S. House,21,,Blank,0
+Lewis ,Croghan 6,U.S. House,21,,Blank,0
+Lewis ,Denmark 1,U.S. House,21,,Blank,4
+Lewis ,Denmark 2,U.S. House,21,,Blank,3
+Lewis ,Denmark 3,U.S. House,21,,Blank,12
+Lewis ,Diana 1,U.S. House,21,,Blank,6
+Lewis ,Diana 2,U.S. House,21,,Blank,0
+Lewis ,Greig,U.S. House,21,,Blank,15
+Lewis ,Harrisburg,U.S. House,21,,Blank,3
+Lewis ,Lewis,U.S. House,21,,Blank,35
+Lewis ,Leyden 1,U.S. House,21,,Blank,14
+Lewis ,Leyden 2,U.S. House,21,,Blank,8
+Lewis ,Leyden 3,U.S. House,21,,Blank,12
+Lewis ,Lowville 1,U.S. House,21,,Blank,8
+Lewis ,Lowville 2,U.S. House,21,,Blank,5
+Lewis ,Lowville 3,U.S. House,21,,Blank,3
+Lewis ,Lowville 4,U.S. House,21,,Blank,32
+Lewis ,Lowville 5,U.S. House,21,,Blank,6
+Lewis ,Lyonsdale 1,U.S. House,21,,Blank,7
+Lewis ,Lyonsdale 2,U.S. House,21,,Blank,6
+Lewis ,Lyonsdale 3,U.S. House,21,,Blank,0
+Lewis ,Martinsburg,U.S. House,21,,Blank,8
+Lewis ,Montague,U.S. House,21,,Blank,0
+Lewis ,New Bremen 1,U.S. House,21,,Blank,5
+Lewis ,New Bremen 2,U.S. House,21,,Blank,9
+Lewis ,New Bremen 3,U.S. House,21,,Blank,4
+Lewis ,Osceola,U.S. House,21,,Blank,7
+Lewis ,Pinckney,U.S. House,21,,Blank,1
+Lewis ,Turin,U.S. House,21,,Blank,7
+Lewis ,Watson,U.S. House,21,,Blank,18
+Lewis ,West Turin 1,U.S. House,21,,Blank,8
+Lewis ,West Turin 2,U.S. House,21,,Blank,1
+Lewis ,West Turin 3,U.S. House,21,,Blank,4
+Lewis ,West Turin 4,U.S. House,21,,Blank,3
+Lewis ,Croghan 1,State Senate,47,REP,Joe Griffo,108
+Lewis ,Croghan 2,State Senate,47,REP,Joe Griffo,87
+Lewis ,Croghan 3,State Senate,47,REP,Joe Griffo,219
+Lewis ,Croghan 4,State Senate,47,REP,Joe Griffo,182
+Lewis ,Croghan 5,State Senate,47,REP,Joe Griffo,33
+Lewis ,Croghan 6,State Senate,47,REP,Joe Griffo,40
+Lewis ,Denmark 1,State Senate,47,REP,Joe Griffo,125
+Lewis ,Denmark 2,State Senate,47,REP,Joe Griffo,261
+Lewis ,Denmark 3,State Senate,47,REP,Joe Griffo,178
+Lewis ,Diana 1,State Senate,47,REP,Joe Griffo,251
+Lewis ,Diana 2,State Senate,47,REP,Joe Griffo,109
+Lewis ,Greig,State Senate,47,REP,Joe Griffo,333
+Lewis ,Harrisburg,State Senate,47,REP,Joe Griffo,118
+Lewis ,Lewis,State Senate,47,REP,Joe Griffo,205
+Lewis ,Leyden 1,State Senate,47,REP,Joe Griffo,191
+Lewis ,Leyden 2,State Senate,47,REP,Joe Griffo,99
+Lewis ,Leyden 3,State Senate,47,REP,Joe Griffo,100
+Lewis ,Lowville 1,State Senate,47,REP,Joe Griffo,150
+Lewis ,Lowville 2,State Senate,47,REP,Joe Griffo,211
+Lewis ,Lowville 3,State Senate,47,REP,Joe Griffo,100
+Lewis ,Lowville 4,State Senate,47,REP,Joe Griffo,477
+Lewis ,Lowville 5,State Senate,47,REP,Joe Griffo,105
+Lewis ,Lyonsdale 1,State Senate,47,REP,Joe Griffo,191
+Lewis ,Lyonsdale 2,State Senate,47,REP,Joe Griffo,62
+Lewis ,Lyonsdale 3,State Senate,47,REP,Joe Griffo,19
+Lewis ,Martinsburg,State Senate,47,REP,Joe Griffo,298
+Lewis ,Montague,State Senate,47,REP,Joe Griffo,30
+Lewis ,New Bremen 1,State Senate,47,REP,Joe Griffo,293
+Lewis ,New Bremen 2,State Senate,47,REP,Joe Griffo,306
+Lewis ,New Bremen 3,State Senate,47,REP,Joe Griffo,70
+Lewis ,Osceola,State Senate,47,REP,Joe Griffo,82
+Lewis ,Pinckney,State Senate,47,REP,Joe Griffo,101
+Lewis ,Turin,State Senate,47,REP,Joe Griffo,188
+Lewis ,Watson,State Senate,47,REP,Joe Griffo,444
+Lewis ,West Turin 1,State Senate,47,REP,Joe Griffo,200
+Lewis ,West Turin 2,State Senate,47,REP,Joe Griffo,50
+Lewis ,West Turin 3,State Senate,47,REP,Joe Griffo,82
+Lewis ,West Turin 4,State Senate,47,REP,Joe Griffo,127
+Lewis ,Croghan 1,State Senate,47,CON,Joe Griffo,17
+Lewis ,Croghan 2,State Senate,47,CON,Joe Griffo,18
+Lewis ,Croghan 3,State Senate,47,CON,Joe Griffo,28
+Lewis ,Croghan 4,State Senate,47,CON,Joe Griffo,16
+Lewis ,Croghan 5,State Senate,47,CON,Joe Griffo,3
+Lewis ,Croghan 6,State Senate,47,CON,Joe Griffo,6
+Lewis ,Denmark 1,State Senate,47,CON,Joe Griffo,15
+Lewis ,Denmark 2,State Senate,47,CON,Joe Griffo,27
+Lewis ,Denmark 3,State Senate,47,CON,Joe Griffo,31
+Lewis ,Diana 1,State Senate,47,CON,Joe Griffo,37
+Lewis ,Diana 2,State Senate,47,CON,Joe Griffo,10
+Lewis ,Greig,State Senate,47,CON,Joe Griffo,31
+Lewis ,Harrisburg,State Senate,47,CON,Joe Griffo,13
+Lewis ,Lewis,State Senate,47,CON,Joe Griffo,21
+Lewis ,Leyden 1,State Senate,47,CON,Joe Griffo,26
+Lewis ,Leyden 2,State Senate,47,CON,Joe Griffo,8
+Lewis ,Leyden 3,State Senate,47,CON,Joe Griffo,3
+Lewis ,Lowville 1,State Senate,47,CON,Joe Griffo,19
+Lewis ,Lowville 2,State Senate,47,CON,Joe Griffo,11
+Lewis ,Lowville 3,State Senate,47,CON,Joe Griffo,12
+Lewis ,Lowville 4,State Senate,47,CON,Joe Griffo,44
+Lewis ,Lowville 5,State Senate,47,CON,Joe Griffo,3
+Lewis ,Lyonsdale 1,State Senate,47,CON,Joe Griffo,15
+Lewis ,Lyonsdale 2,State Senate,47,CON,Joe Griffo,2
+Lewis ,Lyonsdale 3,State Senate,47,CON,Joe Griffo,1
+Lewis ,Martinsburg,State Senate,47,CON,Joe Griffo,28
+Lewis ,Montague,State Senate,47,CON,Joe Griffo,3
+Lewis ,New Bremen 1,State Senate,47,CON,Joe Griffo,31
+Lewis ,New Bremen 2,State Senate,47,CON,Joe Griffo,37
+Lewis ,New Bremen 3,State Senate,47,CON,Joe Griffo,7
+Lewis ,Osceola,State Senate,47,CON,Joe Griffo,9
+Lewis ,Pinckney,State Senate,47,CON,Joe Griffo,7
+Lewis ,Turin,State Senate,47,CON,Joe Griffo,18
+Lewis ,Watson,State Senate,47,CON,Joe Griffo,35
+Lewis ,West Turin 1,State Senate,47,CON,Joe Griffo,26
+Lewis ,West Turin 2,State Senate,47,CON,Joe Griffo,4
+Lewis ,West Turin 3,State Senate,47,CON,Joe Griffo,9
+Lewis ,West Turin 4,State Senate,47,CON,Joe Griffo,8
+Lewis ,Croghan 1,State Senate,47,IND,Joe Griffo,5
+Lewis ,Croghan 2,State Senate,47,IND,Joe Griffo,9
+Lewis ,Croghan 3,State Senate,47,IND,Joe Griffo,11
+Lewis ,Croghan 4,State Senate,47,IND,Joe Griffo,18
+Lewis ,Croghan 5,State Senate,47,IND,Joe Griffo,8
+Lewis ,Croghan 6,State Senate,47,IND,Joe Griffo,4
+Lewis ,Denmark 1,State Senate,47,IND,Joe Griffo,12
+Lewis ,Denmark 2,State Senate,47,IND,Joe Griffo,15
+Lewis ,Denmark 3,State Senate,47,IND,Joe Griffo,11
+Lewis ,Diana 1,State Senate,47,IND,Joe Griffo,23
+Lewis ,Diana 2,State Senate,47,IND,Joe Griffo,13
+Lewis ,Greig,State Senate,47,IND,Joe Griffo,27
+Lewis ,Harrisburg,State Senate,47,IND,Joe Griffo,7
+Lewis ,Lewis,State Senate,47,IND,Joe Griffo,8
+Lewis ,Leyden 1,State Senate,47,IND,Joe Griffo,11
+Lewis ,Leyden 2,State Senate,47,IND,Joe Griffo,7
+Lewis ,Leyden 3,State Senate,47,IND,Joe Griffo,8
+Lewis ,Lowville 1,State Senate,47,IND,Joe Griffo,18
+Lewis ,Lowville 2,State Senate,47,IND,Joe Griffo,24
+Lewis ,Lowville 3,State Senate,47,IND,Joe Griffo,18
+Lewis ,Lowville 4,State Senate,47,IND,Joe Griffo,34
+Lewis ,Lowville 5,State Senate,47,IND,Joe Griffo,4
+Lewis ,Lyonsdale 1,State Senate,47,IND,Joe Griffo,11
+Lewis ,Lyonsdale 2,State Senate,47,IND,Joe Griffo,3
+Lewis ,Lyonsdale 3,State Senate,47,IND,Joe Griffo,1
+Lewis ,Martinsburg,State Senate,47,IND,Joe Griffo,20
+Lewis ,Montague,State Senate,47,IND,Joe Griffo,1
+Lewis ,New Bremen 1,State Senate,47,IND,Joe Griffo,29
+Lewis ,New Bremen 2,State Senate,47,IND,Joe Griffo,21
+Lewis ,New Bremen 3,State Senate,47,IND,Joe Griffo,8
+Lewis ,Osceola,State Senate,47,IND,Joe Griffo,5
+Lewis ,Pinckney,State Senate,47,IND,Joe Griffo,6
+Lewis ,Turin,State Senate,47,IND,Joe Griffo,19
+Lewis ,Watson,State Senate,47,IND,Joe Griffo,46
+Lewis ,West Turin 1,State Senate,47,IND,Joe Griffo,11
+Lewis ,West Turin 2,State Senate,47,IND,Joe Griffo,5
+Lewis ,West Turin 3,State Senate,47,IND,Joe Griffo,9
+Lewis ,West Turin 4,State Senate,47,IND,Joe Griffo,11
+Lewis ,Croghan 1,State Senate,47,REF,Joe Griffo,1
+Lewis ,Croghan 2,State Senate,47,REF,Joe Griffo,0
+Lewis ,Croghan 3,State Senate,47,REF,Joe Griffo,3
+Lewis ,Croghan 4,State Senate,47,REF,Joe Griffo,0
+Lewis ,Croghan 5,State Senate,47,REF,Joe Griffo,0
+Lewis ,Croghan 6,State Senate,47,REF,Joe Griffo,1
+Lewis ,Denmark 1,State Senate,47,REF,Joe Griffo,1
+Lewis ,Denmark 2,State Senate,47,REF,Joe Griffo,0
+Lewis ,Denmark 3,State Senate,47,REF,Joe Griffo,1
+Lewis ,Diana 1,State Senate,47,REF,Joe Griffo,2
+Lewis ,Diana 2,State Senate,47,REF,Joe Griffo,0
+Lewis ,Greig,State Senate,47,REF,Joe Griffo,2
+Lewis ,Harrisburg,State Senate,47,REF,Joe Griffo,3
+Lewis ,Lewis,State Senate,47,REF,Joe Griffo,1
+Lewis ,Leyden 1,State Senate,47,REF,Joe Griffo,4
+Lewis ,Leyden 2,State Senate,47,REF,Joe Griffo,1
+Lewis ,Leyden 3,State Senate,47,REF,Joe Griffo,1
+Lewis ,Lowville 1,State Senate,47,REF,Joe Griffo,2
+Lewis ,Lowville 2,State Senate,47,REF,Joe Griffo,2
+Lewis ,Lowville 3,State Senate,47,REF,Joe Griffo,1
+Lewis ,Lowville 4,State Senate,47,REF,Joe Griffo,9
+Lewis ,Lowville 5,State Senate,47,REF,Joe Griffo,0
+Lewis ,Lyonsdale 1,State Senate,47,REF,Joe Griffo,2
+Lewis ,Lyonsdale 2,State Senate,47,REF,Joe Griffo,0
+Lewis ,Lyonsdale 3,State Senate,47,REF,Joe Griffo,0
+Lewis ,Martinsburg,State Senate,47,REF,Joe Griffo,0
+Lewis ,Montague,State Senate,47,REF,Joe Griffo,0
+Lewis ,New Bremen 1,State Senate,47,REF,Joe Griffo,7
+Lewis ,New Bremen 2,State Senate,47,REF,Joe Griffo,3
+Lewis ,New Bremen 3,State Senate,47,REF,Joe Griffo,1
+Lewis ,Osceola,State Senate,47,REF,Joe Griffo,1
+Lewis ,Pinckney,State Senate,47,REF,Joe Griffo,0
+Lewis ,Turin,State Senate,47,REF,Joe Griffo,2
+Lewis ,Watson,State Senate,47,REF,Joe Griffo,1
+Lewis ,West Turin 1,State Senate,47,REF,Joe Griffo,2
+Lewis ,West Turin 2,State Senate,47,REF,Joe Griffo,0
+Lewis ,West Turin 3,State Senate,47,REF,Joe Griffo,0
+Lewis ,West Turin 4,State Senate,47,REF,Joe Griffo,1
+Lewis ,Croghan 1,State Senate,47,,Write-Ins,0
+Lewis ,Croghan 2,State Senate,47,,Write-Ins,0
+Lewis ,Croghan 3,State Senate,47,,Write-Ins,1
+Lewis ,Croghan 4,State Senate,47,,Write-Ins,0
+Lewis ,Croghan 5,State Senate,47,,Write-Ins,1
+Lewis ,Croghan 6,State Senate,47,,Write-Ins,1
+Lewis ,Denmark 1,State Senate,47,,Write-Ins,0
+Lewis ,Denmark 2,State Senate,47,,Write-Ins,1
+Lewis ,Denmark 3,State Senate,47,,Write-Ins,2
+Lewis ,Diana 1,State Senate,47,,Write-Ins,1
+Lewis ,Diana 2,State Senate,47,,Write-Ins,2
+Lewis ,Greig,State Senate,47,,Write-Ins,0
+Lewis ,Harrisburg,State Senate,47,,Write-Ins,1
+Lewis ,Lewis,State Senate,47,,Write-Ins,3
+Lewis ,Leyden 1,State Senate,47,,Write-Ins,2
+Lewis ,Leyden 2,State Senate,47,,Write-Ins,2
+Lewis ,Leyden 3,State Senate,47,,Write-Ins,1
+Lewis ,Lowville 1,State Senate,47,,Write-Ins,0
+Lewis ,Lowville 2,State Senate,47,,Write-Ins,2
+Lewis ,Lowville 3,State Senate,47,,Write-Ins,2
+Lewis ,Lowville 4,State Senate,47,,Write-Ins,6
+Lewis ,Lowville 5,State Senate,47,,Write-Ins,0
+Lewis ,Lyonsdale 1,State Senate,47,,Write-Ins,2
+Lewis ,Lyonsdale 2,State Senate,47,,Write-Ins,0
+Lewis ,Lyonsdale 3,State Senate,47,,Write-Ins,0
+Lewis ,Martinsburg,State Senate,47,,Write-Ins,3
+Lewis ,Montague,State Senate,47,,Write-Ins,1
+Lewis ,New Bremen 1,State Senate,47,,Write-Ins,1
+Lewis ,New Bremen 2,State Senate,47,,Write-Ins,2
+Lewis ,New Bremen 3,State Senate,47,,Write-Ins,0
+Lewis ,Osceola,State Senate,47,,Write-Ins,0
+Lewis ,Pinckney,State Senate,47,,Write-Ins,1
+Lewis ,Turin,State Senate,47,,Write-Ins,1
+Lewis ,Watson,State Senate,47,,Write-Ins,2
+Lewis ,West Turin 1,State Senate,47,,Write-Ins,0
+Lewis ,West Turin 2,State Senate,47,,Write-Ins,0
+Lewis ,West Turin 3,State Senate,47,,Write-Ins,0
+Lewis ,West Turin 4,State Senate,47,,Write-Ins,1
+Lewis ,Croghan 1,State Senate,47,,Blank,22
+Lewis ,Croghan 2,State Senate,47,,Blank,25
+Lewis ,Croghan 3,State Senate,47,,Blank,56
+Lewis ,Croghan 4,State Senate,47,,Blank,52
+Lewis ,Croghan 5,State Senate,47,,Blank,13
+Lewis ,Croghan 6,State Senate,47,,Blank,10
+Lewis ,Denmark 1,State Senate,47,,Blank,16
+Lewis ,Denmark 2,State Senate,47,,Blank,49
+Lewis ,Denmark 3,State Senate,47,,Blank,27
+Lewis ,Diana 1,State Senate,47,,Blank,55
+Lewis ,Diana 2,State Senate,47,,Blank,25
+Lewis ,Greig,State Senate,47,,Blank,84
+Lewis ,Harrisburg,State Senate,47,,Blank,34
+Lewis ,Lewis,State Senate,47,,Blank,59
+Lewis ,Leyden 1,State Senate,47,,Blank,34
+Lewis ,Leyden 2,State Senate,47,,Blank,25
+Lewis ,Leyden 3,State Senate,47,,Blank,29
+Lewis ,Lowville 1,State Senate,47,,Blank,38
+Lewis ,Lowville 2,State Senate,47,,Blank,47
+Lewis ,Lowville 3,State Senate,47,,Blank,27
+Lewis ,Lowville 4,State Senate,47,,Blank,138
+Lewis ,Lowville 5,State Senate,47,,Blank,19
+Lewis ,Lyonsdale 1,State Senate,47,,Blank,40
+Lewis ,Lyonsdale 2,State Senate,47,,Blank,7
+Lewis ,Lyonsdale 3,State Senate,47,,Blank,1
+Lewis ,Martinsburg,State Senate,47,,Blank,68
+Lewis ,Montague,State Senate,47,,Blank,5
+Lewis ,New Bremen 1,State Senate,47,,Blank,49
+Lewis ,New Bremen 2,State Senate,47,,Blank,55
+Lewis ,New Bremen 3,State Senate,47,,Blank,12
+Lewis ,Osceola,State Senate,47,,Blank,18
+Lewis ,Pinckney,State Senate,47,,Blank,12
+Lewis ,Turin,State Senate,47,,Blank,32
+Lewis ,Watson,State Senate,47,,Blank,116
+Lewis ,West Turin 1,State Senate,47,,Blank,49
+Lewis ,West Turin 2,State Senate,47,,Blank,7
+Lewis ,West Turin 3,State Senate,47,,Blank,13
+Lewis ,West Turin 4,State Senate,47,,Blank,21
+Lewis,Croghan 1,State Assembly,117,REP,Kenneth D. Blackenbush,111
+Lewis,Croghan 2,State Assembly,117,REP,Kenneth D. Blackenbush,87
+Lewis,Croghan 3,State Assembly,117,REP,Kenneth D. Blackenbush,222
+Lewis,Croghan 4,State Assembly,117,REP,Kenneth D. Blackenbush,183
+Lewis,Croghan 5,State Assembly,117,REP,Kenneth D. Blackenbush,33
+Lewis,Croghan 6,State Assembly,117,REP,Kenneth D. Blackenbush,38
+Lewis,Denmark 1,State Assembly,117,REP,Kenneth D. Blackenbush,124
+Lewis,Denmark 2,State Assembly,117,REP,Kenneth D. Blackenbush,260
+Lewis,Denmark 3,State Assembly,117,REP,Kenneth D. Blackenbush,182
+Lewis,Diana 1,State Assembly,117,REP,Kenneth D. Blackenbush,252
+Lewis,Diana 2,State Assembly,117,REP,Kenneth D. Blackenbush,114
+Lewis,Greig,State Assembly,117,REP,Kenneth D. Blackenbush,325
+Lewis,Harrisburg,State Assembly,117,REP,Kenneth D. Blackenbush,118
+Lewis,Lewis,State Assembly,117,REP,Kenneth D. Blackenbush,206
+Lewis,Leyden 1,State Assembly,117,REP,Kenneth D. Blackenbush,181
+Lewis,Leyden 2,State Assembly,117,REP,Kenneth D. Blackenbush,97
+Lewis,Leyden 3,State Assembly,117,REP,Kenneth D. Blackenbush,87
+Lewis,Lowville 1,State Assembly,117,REP,Kenneth D. Blackenbush,149
+Lewis,Lowville 2,State Assembly,117,REP,Kenneth D. Blackenbush,205
+Lewis,Lowville 3,State Assembly,117,REP,Kenneth D. Blackenbush,99
+Lewis,Lowville 4,State Assembly,117,REP,Kenneth D. Blackenbush,469
+Lewis,Lowville 5,State Assembly,117,REP,Kenneth D. Blackenbush,101
+Lewis,Lyonsdale 1,State Assembly,117,REP,Kenneth D. Blackenbush,187
+Lewis,Lyonsdale 2,State Assembly,117,REP,Kenneth D. Blackenbush,58
+Lewis,Lyonsdale 3,State Assembly,117,REP,Kenneth D. Blackenbush,19
+Lewis,Martinsburg,State Assembly,117,REP,Kenneth D. Blackenbush,292
+Lewis,Montague,State Assembly,117,REP,Kenneth D. Blackenbush,31
+Lewis,New Bremen 1,State Assembly,117,REP,Kenneth D. Blackenbush,287
+Lewis,New Bremen 2,State Assembly,117,REP,Kenneth D. Blackenbush,302
+Lewis,New Bremen 3,State Assembly,117,REP,Kenneth D. Blackenbush,72
+Lewis,Osceola,State Assembly,117,REP,Kenneth D. Blackenbush,78
+Lewis,Pinckney,State Assembly,117,REP,Kenneth D. Blackenbush,97
+Lewis,Turin,State Assembly,117,REP,Kenneth D. Blackenbush,186
+Lewis,Watson,State Assembly,117,REP,Kenneth D. Blackenbush,437
+Lewis,West Turin 1,State Assembly,117,REP,Kenneth D. Blackenbush,199
+Lewis,West Turin 2,State Assembly,117,REP,Kenneth D. Blackenbush,50
+Lewis,West Turin 3,State Assembly,117,REP,Kenneth D. Blackenbush,81
+Lewis,West Turin 4,State Assembly,117,REP,Kenneth D. Blackenbush,129
+Lewis,Croghan 1,State Assembly,117,CON,Kenneth D. Blackenbush,15
+Lewis,Croghan 2,State Assembly,117,CON,Kenneth D. Blackenbush,17
+Lewis,Croghan 3,State Assembly,117,CON,Kenneth D. Blackenbush,29
+Lewis,Croghan 4,State Assembly,117,CON,Kenneth D. Blackenbush,15
+Lewis,Croghan 5,State Assembly,117,CON,Kenneth D. Blackenbush,3
+Lewis,Croghan 6,State Assembly,117,CON,Kenneth D. Blackenbush,7
+Lewis,Denmark 1,State Assembly,117,CON,Kenneth D. Blackenbush,16
+Lewis,Denmark 2,State Assembly,117,CON,Kenneth D. Blackenbush,28
+Lewis,Denmark 3,State Assembly,117,CON,Kenneth D. Blackenbush,28
+Lewis,Diana 1,State Assembly,117,CON,Kenneth D. Blackenbush,36
+Lewis,Diana 2,State Assembly,117,CON,Kenneth D. Blackenbush,10
+Lewis,Greig,State Assembly,117,CON,Kenneth D. Blackenbush,28
+Lewis,Harrisburg,State Assembly,117,CON,Kenneth D. Blackenbush,14
+Lewis,Lewis,State Assembly,117,CON,Kenneth D. Blackenbush,26
+Lewis,Leyden 1,State Assembly,117,CON,Kenneth D. Blackenbush,25
+Lewis,Leyden 2,State Assembly,117,CON,Kenneth D. Blackenbush,9
+Lewis,Leyden 3,State Assembly,117,CON,Kenneth D. Blackenbush,7
+Lewis,Lowville 1,State Assembly,117,CON,Kenneth D. Blackenbush,19
+Lewis,Lowville 2,State Assembly,117,CON,Kenneth D. Blackenbush,11
+Lewis,Lowville 3,State Assembly,117,CON,Kenneth D. Blackenbush,12
+Lewis,Lowville 4,State Assembly,117,CON,Kenneth D. Blackenbush,49
+Lewis,Lowville 5,State Assembly,117,CON,Kenneth D. Blackenbush,3
+Lewis,Lyonsdale 1,State Assembly,117,CON,Kenneth D. Blackenbush,14
+Lewis,Lyonsdale 2,State Assembly,117,CON,Kenneth D. Blackenbush,5
+Lewis,Lyonsdale 3,State Assembly,117,CON,Kenneth D. Blackenbush,0
+Lewis,Martinsburg,State Assembly,117,CON,Kenneth D. Blackenbush,26
+Lewis,Montague,State Assembly,117,CON,Kenneth D. Blackenbush,3
+Lewis,New Bremen 1,State Assembly,117,CON,Kenneth D. Blackenbush,38
+Lewis,New Bremen 2,State Assembly,117,CON,Kenneth D. Blackenbush,40
+Lewis,New Bremen 3,State Assembly,117,CON,Kenneth D. Blackenbush,7
+Lewis,Osceola,State Assembly,117,CON,Kenneth D. Blackenbush,9
+Lewis,Pinckney,State Assembly,117,CON,Kenneth D. Blackenbush,8
+Lewis,Turin,State Assembly,117,CON,Kenneth D. Blackenbush,16
+Lewis,Watson,State Assembly,117,CON,Kenneth D. Blackenbush,39
+Lewis,West Turin 1,State Assembly,117,CON,Kenneth D. Blackenbush,26
+Lewis,West Turin 2,State Assembly,117,CON,Kenneth D. Blackenbush,4
+Lewis,West Turin 3,State Assembly,117,CON,Kenneth D. Blackenbush,9
+Lewis,West Turin 4,State Assembly,117,CON,Kenneth D. Blackenbush,7
+Lewis,Croghan 1,State Assembly,117,IND,Kenneth D. Blackenbush,8
+Lewis,Croghan 2,State Assembly,117,IND,Kenneth D. Blackenbush,9
+Lewis,Croghan 3,State Assembly,117,IND,Kenneth D. Blackenbush,13
+Lewis,Croghan 4,State Assembly,117,IND,Kenneth D. Blackenbush,18
+Lewis,Croghan 5,State Assembly,117,IND,Kenneth D. Blackenbush,7
+Lewis,Croghan 6,State Assembly,117,IND,Kenneth D. Blackenbush,4
+Lewis,Denmark 1,State Assembly,117,IND,Kenneth D. Blackenbush,13
+Lewis,Denmark 2,State Assembly,117,IND,Kenneth D. Blackenbush,14
+Lewis,Denmark 3,State Assembly,117,IND,Kenneth D. Blackenbush,13
+Lewis,Diana 1,State Assembly,117,IND,Kenneth D. Blackenbush,28
+Lewis,Diana 2,State Assembly,117,IND,Kenneth D. Blackenbush,12
+Lewis,Greig,State Assembly,117,IND,Kenneth D. Blackenbush,31
+Lewis,Harrisburg,State Assembly,117,IND,Kenneth D. Blackenbush,10
+Lewis,Lewis,State Assembly,117,IND,Kenneth D. Blackenbush,10
+Lewis,Leyden 1,State Assembly,117,IND,Kenneth D. Blackenbush,16
+Lewis,Leyden 2,State Assembly,117,IND,Kenneth D. Blackenbush,6
+Lewis,Leyden 3,State Assembly,117,IND,Kenneth D. Blackenbush,10
+Lewis,Lowville 1,State Assembly,117,IND,Kenneth D. Blackenbush,18
+Lewis,Lowville 2,State Assembly,117,IND,Kenneth D. Blackenbush,22
+Lewis,Lowville 3,State Assembly,117,IND,Kenneth D. Blackenbush,17
+Lewis,Lowville 4,State Assembly,117,IND,Kenneth D. Blackenbush,38
+Lewis,Lowville 5,State Assembly,117,IND,Kenneth D. Blackenbush,4
+Lewis,Lyonsdale 1,State Assembly,117,IND,Kenneth D. Blackenbush,13
+Lewis,Lyonsdale 2,State Assembly,117,IND,Kenneth D. Blackenbush,2
+Lewis,Lyonsdale 3,State Assembly,117,IND,Kenneth D. Blackenbush,1
+Lewis,Martinsburg,State Assembly,117,IND,Kenneth D. Blackenbush,19
+Lewis,Montague,State Assembly,117,IND,Kenneth D. Blackenbush,1
+Lewis,New Bremen 1,State Assembly,117,IND,Kenneth D. Blackenbush,37
+Lewis,New Bremen 2,State Assembly,117,IND,Kenneth D. Blackenbush,21
+Lewis,New Bremen 3,State Assembly,117,IND,Kenneth D. Blackenbush,10
+Lewis,Osceola,State Assembly,117,IND,Kenneth D. Blackenbush,6
+Lewis,Pinckney,State Assembly,117,IND,Kenneth D. Blackenbush,6
+Lewis,Turin,State Assembly,117,IND,Kenneth D. Blackenbush,20
+Lewis,Watson,State Assembly,117,IND,Kenneth D. Blackenbush,47
+Lewis,West Turin 1,State Assembly,117,IND,Kenneth D. Blackenbush,16
+Lewis,West Turin 2,State Assembly,117,IND,Kenneth D. Blackenbush,4
+Lewis,West Turin 3,State Assembly,117,IND,Kenneth D. Blackenbush,9
+Lewis,West Turin 4,State Assembly,117,IND,Kenneth D. Blackenbush,11
+Lewis,Croghan 1,State Assembly,117,,Write-Ins,0
+Lewis,Croghan 2,State Assembly,117,,Write-Ins,0
+Lewis,Croghan 3,State Assembly,117,,Write-Ins,1
+Lewis,Croghan 4,State Assembly,117,,Write-Ins,0
+Lewis,Croghan 5,State Assembly,117,,Write-Ins,1
+Lewis,Croghan 6,State Assembly,117,,Write-Ins,2
+Lewis,Denmark 1,State Assembly,117,,Write-Ins,0
+Lewis,Denmark 2,State Assembly,117,,Write-Ins,1
+Lewis,Denmark 3,State Assembly,117,,Write-Ins,1
+Lewis,Diana 1,State Assembly,117,,Write-Ins,1
+Lewis,Diana 2,State Assembly,117,,Write-Ins,2
+Lewis,Greig,State Assembly,117,,Write-Ins,0
+Lewis,Harrisburg,State Assembly,117,,Write-Ins,0
+Lewis,Lewis,State Assembly,117,,Write-Ins,2
+Lewis,Leyden 1,State Assembly,117,,Write-Ins,2
+Lewis,Leyden 2,State Assembly,117,,Write-Ins,1
+Lewis,Leyden 3,State Assembly,117,,Write-Ins,1
+Lewis,Lowville 1,State Assembly,117,,Write-Ins,0
+Lewis,Lowville 2,State Assembly,117,,Write-Ins,3
+Lewis,Lowville 3,State Assembly,117,,Write-Ins,1
+Lewis,Lowville 4,State Assembly,117,,Write-Ins,6
+Lewis,Lowville 5,State Assembly,117,,Write-Ins,1
+Lewis,Lyonsdale 1,State Assembly,117,,Write-Ins,2
+Lewis,Lyonsdale 2,State Assembly,117,,Write-Ins,0
+Lewis,Lyonsdale 3,State Assembly,117,,Write-Ins,0
+Lewis,Martinsburg,State Assembly,117,,Write-Ins,4
+Lewis,Montague,State Assembly,117,,Write-Ins,0
+Lewis,New Bremen 1,State Assembly,117,,Write-Ins,2
+Lewis,New Bremen 2,State Assembly,117,,Write-Ins,2
+Lewis,New Bremen 3,State Assembly,117,,Write-Ins,0
+Lewis,Osceola,State Assembly,117,,Write-Ins,0
+Lewis,Pinckney,State Assembly,117,,Write-Ins,1
+Lewis,Turin,State Assembly,117,,Write-Ins,1
+Lewis,Watson,State Assembly,117,,Write-Ins,2
+Lewis,West Turin 1,State Assembly,117,,Write-Ins,0
+Lewis,West Turin 2,State Assembly,117,,Write-Ins,0
+Lewis,West Turin 3,State Assembly,117,,Write-Ins,0
+Lewis,West Turin 4,State Assembly,117,,Write-Ins,1
+,,,,,,
