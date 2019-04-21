@@ -1,0 +1,4298 @@
+county,precinct,office,district,party,candidate,votes
+Jefferson,Adams 1,Governor,,DEM,Cuomo,153
+Jefferson,Adams 1,Lt. Governor,,DEM,Hochul,153
+Jefferson,Adams 1,Governor,,REP,Molinaro,277
+Jefferson,Adams 1,Lt. Governor,,REP,Killian,277
+Jefferson,Adams 1,Governor,,CON,Molinaro,30
+Jefferson,Adams 1,Lt. Governor,,CON,Killian,30
+Jefferson,Adams 1,Governor,,GREEN,Hawkins,12
+Jefferson,Adams 1,Lt. Governor,,GREEN,Lee,12
+Jefferson,Adams 1,Governor,,WF,Cuomo,1
+Jefferson,Adams 1,Lt. Governor,,WF,Hochul,1
+Jefferson,Adams 1,Governor,,IND,Cuomo,3
+Jefferson,Adams 1,Lt. Governor,,IND,Hochul,3
+Jefferson,Adams 1,Governor,,WEP,Cuomo,0
+Jefferson,Adams 1,Lt. Governor,,WEP,Hochul,0
+Jefferson,Adams 1,Governor,,REF,Molinaro,2
+Jefferson,Adams 1,Lt. Governor,,REF,Killian,2
+Jefferson,Adams 1,Governor,,SAM,Miner,10
+Jefferson,Adams 1,Lt. Governor,,SAM,Volpe,10
+Jefferson,Adams 1,Governor,,LIB,Sharpe,26
+Jefferson,Adams 1,Lt. Governor,,LIB,Hollister,26
+Jefferson,Adams 1,Governor,,,Write-In,0
+Jefferson,Adams 2,Governor,,DEM,Cuomo,90
+Jefferson,Adams 2,Lt. Governor,,DEM,Hochul,90
+Jefferson,Adams 2,Governor,,REP,Molinaro,231
+Jefferson,Adams 2,Lt. Governor,,REP,Killian,231
+Jefferson,Adams 2,Governor,,CON,Molinaro,29
+Jefferson,Adams 2,Lt. Governor,,CON,Killian,29
+Jefferson,Adams 2,Governor,,GREEN,Hawkins,4
+Jefferson,Adams 2,Lt. Governor,,GREEN,Lee,4
+Jefferson,Adams 2,Governor,,WF,Cuomo,3
+Jefferson,Adams 2,Lt. Governor,,WF,Hochul,3
+Jefferson,Adams 2,Governor,,IND,Cuomo,3
+Jefferson,Adams 2,Lt. Governor,,IND,Hochul,3
+Jefferson,Adams 2,Governor,,WEP,Cuomo,2
+Jefferson,Adams 2,Lt. Governor,,WEP,Hochul,2
+Jefferson,Adams 2,Governor,,REF,Molinaro,3
+Jefferson,Adams 2,Lt. Governor,,REF,Killian,3
+Jefferson,Adams 2,Governor,,SAM,Miner,1
+Jefferson,Adams 2,Lt. Governor,,SAM,Volpe,1
+Jefferson,Adams 2,Governor,,LIB,Sharpe,10
+Jefferson,Adams 2,Lt. Governor,,LIB,Hollister,10
+Jefferson,Adams 2,Governor,,,Write-In,0
+Jefferson,Adams 3,Governor,,DEM,Cuomo,170
+Jefferson,Adams 3,Lt. Governor,,DEM,Hochul,170
+Jefferson,Adams 3,Governor,,REP,Molinaro,456
+Jefferson,Adams 3,Lt. Governor,,REP,Killian,456
+Jefferson,Adams 3,Governor,,CON,Molinaro,57
+Jefferson,Adams 3,Lt. Governor,,CON,Killian,57
+Jefferson,Adams 3,Governor,,GREEN,Hawkins,14
+Jefferson,Adams 3,Lt. Governor,,GREEN,Lee,14
+Jefferson,Adams 3,Governor,,WF,Cuomo,3
+Jefferson,Adams 3,Lt. Governor,,WF,Hochul,3
+Jefferson,Adams 3,Governor,,IND,Cuomo,8
+Jefferson,Adams 3,Lt. Governor,,IND,Hochul,8
+Jefferson,Adams 3,Governor,,WEP,Cuomo,2
+Jefferson,Adams 3,Lt. Governor,,WEP,Hochul,2
+Jefferson,Adams 3,Governor,,REF,Molinaro,9
+Jefferson,Adams 3,Lt. Governor,,REF,Killian,9
+Jefferson,Adams 3,Governor,,SAM,Miner,11
+Jefferson,Adams 3,Lt. Governor,,SAM,Volpe,11
+Jefferson,Adams 3,Governor,,LIB,Sharpe,34
+Jefferson,Adams 3,Lt. Governor,,LIB,Hollister,34
+Jefferson,Adams 3,Governor,,,Write-In,0
+Jefferson,Alexandria 1,Governor,,DEM,Cuomo,132
+Jefferson,Alexandria 1,Lt. Governor,,DEM,Hochul,132
+Jefferson,Alexandria 1,Governor,,REP,Molinaro,187
+Jefferson,Alexandria 1,Lt. Governor,,REP,Killian,187
+Jefferson,Alexandria 1,Governor,,CON,Molinaro,16
+Jefferson,Alexandria 1,Lt. Governor,,CON,Killian,16
+Jefferson,Alexandria 1,Governor,,GREEN,Hawkins,6
+Jefferson,Alexandria 1,Lt. Governor,,GREEN,Lee,6
+Jefferson,Alexandria 1,Governor,,WF,Cuomo,7
+Jefferson,Alexandria 1,Lt. Governor,,WF,Hochul,7
+Jefferson,Alexandria 1,Governor,,IND,Cuomo,3
+Jefferson,Alexandria 1,Lt. Governor,,IND,Hochul,3
+Jefferson,Alexandria 1,Governor,,WEP,Cuomo,0
+Jefferson,Alexandria 1,Lt. Governor,,WEP,Hochul,0
+Jefferson,Alexandria 1,Governor,,REF,Molinaro,5
+Jefferson,Alexandria 1,Lt. Governor,,REF,Killian,5
+Jefferson,Alexandria 1,Governor,,SAM,Miner,10
+Jefferson,Alexandria 1,Lt. Governor,,SAM,Volpe,10
+Jefferson,Alexandria 1,Governor,,LIB,Sharpe,8
+Jefferson,Alexandria 1,Lt. Governor,,LIB,Hollister,8
+Jefferson,Alexandria 1,Governor,,,Write-In,1
+Jefferson,Alexandria 2,Governor,,DEM,Cuomo,131
+Jefferson,Alexandria 2,Lt. Governor,,DEM,Hochul,131
+Jefferson,Alexandria 2,Governor,,REP,Molinaro,321
+Jefferson,Alexandria 2,Lt. Governor,,REP,Killian,321
+Jefferson,Alexandria 2,Governor,,CON,Molinaro,47
+Jefferson,Alexandria 2,Lt. Governor,,CON,Killian,47
+Jefferson,Alexandria 2,Governor,,GREEN,Hawkins,3
+Jefferson,Alexandria 2,Lt. Governor,,GREEN,Lee,3
+Jefferson,Alexandria 2,Governor,,WF,Cuomo,4
+Jefferson,Alexandria 2,Lt. Governor,,WF,Hochul,4
+Jefferson,Alexandria 2,Governor,,IND,Cuomo,3
+Jefferson,Alexandria 2,Lt. Governor,,IND,Hochul,3
+Jefferson,Alexandria 2,Governor,,WEP,Cuomo,0
+Jefferson,Alexandria 2,Lt. Governor,,WEP,Hochul,0
+Jefferson,Alexandria 2,Governor,,REF,Molinaro,6
+Jefferson,Alexandria 2,Lt. Governor,,REF,Killian,6
+Jefferson,Alexandria 2,Governor,,SAM,Miner,9
+Jefferson,Alexandria 2,Lt. Governor,,SAM,Volpe,9
+Jefferson,Alexandria 2,Governor,,LIB,Sharpe,10
+Jefferson,Alexandria 2,Lt. Governor,,LIB,Hollister,10
+Jefferson,Alexandria 2,Governor,,,Write-In,0
+Jefferson,Alexandria 3,Governor,,DEM,Cuomo,164
+Jefferson,Alexandria 3,Lt. Governor,,DEM,Hochul,164
+Jefferson,Alexandria 3,Governor,,REP,Molinaro,433
+Jefferson,Alexandria 3,Lt. Governor,,REP,Killian,433
+Jefferson,Alexandria 3,Governor,,CON,Molinaro,42
+Jefferson,Alexandria 3,Lt. Governor,,CON,Killian,42
+Jefferson,Alexandria 3,Governor,,GREEN,Hawkins,9
+Jefferson,Alexandria 3,Lt. Governor,,GREEN,Lee,9
+Jefferson,Alexandria 3,Governor,,WF,Cuomo,1
+Jefferson,Alexandria 3,Lt. Governor,,WF,Hochul,1
+Jefferson,Alexandria 3,Governor,,IND,Cuomo,4
+Jefferson,Alexandria 3,Lt. Governor,,IND,Hochul,4
+Jefferson,Alexandria 3,Governor,,WEP,Cuomo,0
+Jefferson,Alexandria 3,Lt. Governor,,WEP,Hochul,0
+Jefferson,Alexandria 3,Governor,,REF,Molinaro,6
+Jefferson,Alexandria 3,Lt. Governor,,REF,Killian,6
+Jefferson,Alexandria 3,Governor,,SAM,Miner,8
+Jefferson,Alexandria 3,Lt. Governor,,SAM,Volpe,8
+Jefferson,Alexandria 3,Governor,,LIB,Sharpe,30
+Jefferson,Alexandria 3,Lt. Governor,,LIB,Hollister,30
+Jefferson,Alexandria 3,Governor,,,Write-In,1
+Jefferson,Antwerp 1,Governor,,DEM,Cuomo,45
+Jefferson,Antwerp 1,Lt. Governor,,DEM,Hochul,45
+Jefferson,Antwerp 1,Governor,,REP,Molinaro,106
+Jefferson,Antwerp 1,Lt. Governor,,REP,Killian,106
+Jefferson,Antwerp 1,Governor,,CON,Molinaro,11
+Jefferson,Antwerp 1,Lt. Governor,,CON,Killian,11
+Jefferson,Antwerp 1,Governor,,GREEN,Hawkins,1
+Jefferson,Antwerp 1,Lt. Governor,,GREEN,Lee,1
+Jefferson,Antwerp 1,Governor,,WF,Cuomo,1
+Jefferson,Antwerp 1,Lt. Governor,,WF,Hochul,1
+Jefferson,Antwerp 1,Governor,,IND,Cuomo,2
+Jefferson,Antwerp 1,Lt. Governor,,IND,Hochul,2
+Jefferson,Antwerp 1,Governor,,WEP,Cuomo,0
+Jefferson,Antwerp 1,Lt. Governor,,WEP,Hochul,0
+Jefferson,Antwerp 1,Governor,,REF,Molinaro,1
+Jefferson,Antwerp 1,Lt. Governor,,REF,Killian,1
+Jefferson,Antwerp 1,Governor,,SAM,Miner,7
+Jefferson,Antwerp 1,Lt. Governor,,SAM,Volpe,7
+Jefferson,Antwerp 1,Governor,,LIB,Sharpe,6
+Jefferson,Antwerp 1,Lt. Governor,,LIB,Hollister,6
+Jefferson,Antwerp 1,Governor,,,Write-In,0
+Jefferson,Antwerp 2,Governor,,DEM,Cuomo,75
+Jefferson,Antwerp 2,Lt. Governor,,DEM,Hochul,75
+Jefferson,Antwerp 2,Governor,,REP,Molinaro,234
+Jefferson,Antwerp 2,Lt. Governor,,REP,Killian,234
+Jefferson,Antwerp 2,Governor,,CON,Molinaro,29
+Jefferson,Antwerp 2,Lt. Governor,,CON,Killian,29
+Jefferson,Antwerp 2,Governor,,GREEN,Hawkins,4
+Jefferson,Antwerp 2,Lt. Governor,,GREEN,Lee,4
+Jefferson,Antwerp 2,Governor,,WF,Cuomo,3
+Jefferson,Antwerp 2,Lt. Governor,,WF,Hochul,3
+Jefferson,Antwerp 2,Governor,,IND,Cuomo,2
+Jefferson,Antwerp 2,Lt. Governor,,IND,Hochul,2
+Jefferson,Antwerp 2,Governor,,WEP,Cuomo,0
+Jefferson,Antwerp 2,Lt. Governor,,WEP,Hochul,0
+Jefferson,Antwerp 2,Governor,,REF,Molinaro,3
+Jefferson,Antwerp 2,Lt. Governor,,REF,Killian,3
+Jefferson,Antwerp 2,Governor,,SAM,Miner,8
+Jefferson,Antwerp 2,Lt. Governor,,SAM,Volpe,8
+Jefferson,Antwerp 2,Governor,,LIB,Sharpe,9
+Jefferson,Antwerp 2,Lt. Governor,,LIB,Hollister,9
+Jefferson,Antwerp 2,Governor,,,Write-In,0
+Jefferson,Brownville 1,Governor,,DEM,Cuomo,82
+Jefferson,Brownville 1,Lt. Governor,,DEM,Hochul,82
+Jefferson,Brownville 1,Governor,,REP,Molinaro,270
+Jefferson,Brownville 1,Lt. Governor,,REP,Killian,270
+Jefferson,Brownville 1,Governor,,CON,Molinaro,30
+Jefferson,Brownville 1,Lt. Governor,,CON,Killian,30
+Jefferson,Brownville 1,Governor,,GREEN,Hawkins,2
+Jefferson,Brownville 1,Lt. Governor,,GREEN,Lee,2
+Jefferson,Brownville 1,Governor,,WF,Cuomo,1
+Jefferson,Brownville 1,Lt. Governor,,WF,Hochul,1
+Jefferson,Brownville 1,Governor,,IND,Cuomo,5
+Jefferson,Brownville 1,Lt. Governor,,IND,Hochul,5
+Jefferson,Brownville 1,Governor,,WEP,Cuomo,1
+Jefferson,Brownville 1,Lt. Governor,,WEP,Hochul,1
+Jefferson,Brownville 1,Governor,,REF,Molinaro,1
+Jefferson,Brownville 1,Lt. Governor,,REF,Killian,1
+Jefferson,Brownville 1,Governor,,SAM,Miner,7
+Jefferson,Brownville 1,Lt. Governor,,SAM,Volpe,7
+Jefferson,Brownville 1,Governor,,LIB,Sharpe,9
+Jefferson,Brownville 1,Lt. Governor,,LIB,Hollister,9
+Jefferson,Brownville 1,Governor,,,Write-In,0
+Jefferson,Brownville 2,Governor,,DEM,Cuomo,89
+Jefferson,Brownville 2,Lt. Governor,,DEM,Hochul,89
+Jefferson,Brownville 2,Governor,,REP,Molinaro,196
+Jefferson,Brownville 2,Lt. Governor,,REP,Killian,196
+Jefferson,Brownville 2,Governor,,CON,Molinaro,23
+Jefferson,Brownville 2,Lt. Governor,,CON,Killian,23
+Jefferson,Brownville 2,Governor,,GREEN,Hawkins,4
+Jefferson,Brownville 2,Lt. Governor,,GREEN,Lee,4
+Jefferson,Brownville 2,Governor,,WF,Cuomo,3
+Jefferson,Brownville 2,Lt. Governor,,WF,Hochul,3
+Jefferson,Brownville 2,Governor,,IND,Cuomo,2
+Jefferson,Brownville 2,Lt. Governor,,IND,Hochul,2
+Jefferson,Brownville 2,Governor,,WEP,Cuomo,0
+Jefferson,Brownville 2,Lt. Governor,,WEP,Hochul,0
+Jefferson,Brownville 2,Governor,,REF,Molinaro,1
+Jefferson,Brownville 2,Lt. Governor,,REF,Killian,1
+Jefferson,Brownville 2,Governor,,SAM,Miner,7
+Jefferson,Brownville 2,Lt. Governor,,SAM,Volpe,7
+Jefferson,Brownville 2,Governor,,LIB,Sharpe,11
+Jefferson,Brownville 2,Lt. Governor,,LIB,Hollister,11
+Jefferson,Brownville 2,Governor,,,Write-In,0
+Jefferson,Brownville 3,Governor,,DEM,Cuomo,120
+Jefferson,Brownville 3,Lt. Governor,,DEM,Hochul,120
+Jefferson,Brownville 3,Governor,,REP,Molinaro,297
+Jefferson,Brownville 3,Lt. Governor,,REP,Killian,297
+Jefferson,Brownville 3,Governor,,CON,Molinaro,29
+Jefferson,Brownville 3,Lt. Governor,,CON,Killian,29
+Jefferson,Brownville 3,Governor,,GREEN,Hawkins,2
+Jefferson,Brownville 3,Lt. Governor,,GREEN,Lee,2
+Jefferson,Brownville 3,Governor,,WF,Cuomo,2
+Jefferson,Brownville 3,Lt. Governor,,WF,Hochul,2
+Jefferson,Brownville 3,Governor,,IND,Cuomo,5
+Jefferson,Brownville 3,Lt. Governor,,IND,Hochul,5
+Jefferson,Brownville 3,Governor,,WEP,Cuomo,2
+Jefferson,Brownville 3,Lt. Governor,,WEP,Hochul,2
+Jefferson,Brownville 3,Governor,,REF,Molinaro,5
+Jefferson,Brownville 3,Lt. Governor,,REF,Killian,5
+Jefferson,Brownville 3,Governor,,SAM,Miner,12
+Jefferson,Brownville 3,Lt. Governor,,SAM,Volpe,12
+Jefferson,Brownville 3,Governor,,LIB,Sharpe,17
+Jefferson,Brownville 3,Lt. Governor,,LIB,Hollister,17
+Jefferson,Brownville 3,Governor,,,Write-In,0
+Jefferson,Brownville 4,Governor,,DEM,Cuomo,85
+Jefferson,Brownville 4,Lt. Governor,,DEM,Hochul,85
+Jefferson,Brownville 4,Governor,,REP,Molinaro,198
+Jefferson,Brownville 4,Lt. Governor,,REP,Killian,198
+Jefferson,Brownville 4,Governor,,CON,Molinaro,9
+Jefferson,Brownville 4,Lt. Governor,,CON,Killian,9
+Jefferson,Brownville 4,Governor,,GREEN,Hawkins,4
+Jefferson,Brownville 4,Lt. Governor,,GREEN,Lee,4
+Jefferson,Brownville 4,Governor,,WF,Cuomo,1
+Jefferson,Brownville 4,Lt. Governor,,WF,Hochul,1
+Jefferson,Brownville 4,Governor,,IND,Cuomo,3
+Jefferson,Brownville 4,Lt. Governor,,IND,Hochul,3
+Jefferson,Brownville 4,Governor,,WEP,Cuomo,2
+Jefferson,Brownville 4,Lt. Governor,,WEP,Hochul,2
+Jefferson,Brownville 4,Governor,,REF,Molinaro,2
+Jefferson,Brownville 4,Lt. Governor,,REF,Killian,2
+Jefferson,Brownville 4,Governor,,SAM,Miner,9
+Jefferson,Brownville 4,Lt. Governor,,SAM,Volpe,9
+Jefferson,Brownville 4,Governor,,LIB,Sharpe,14
+Jefferson,Brownville 4,Lt. Governor,,LIB,Hollister,14
+Jefferson,Brownville 4,Governor,,,Write-In,0
+Jefferson,Brownville 5,Governor,,DEM,Cuomo,127
+Jefferson,Brownville 5,Lt. Governor,,DEM,Hochul,127
+Jefferson,Brownville 5,Governor,,REP,Molinaro,308
+Jefferson,Brownville 5,Lt. Governor,,REP,Killian,308
+Jefferson,Brownville 5,Governor,,CON,Molinaro,36
+Jefferson,Brownville 5,Lt. Governor,,CON,Killian,36
+Jefferson,Brownville 5,Governor,,GREEN,Hawkins,8
+Jefferson,Brownville 5,Lt. Governor,,GREEN,Lee,8
+Jefferson,Brownville 5,Governor,,WF,Cuomo,1
+Jefferson,Brownville 5,Lt. Governor,,WF,Hochul,1
+Jefferson,Brownville 5,Governor,,IND,Cuomo,3
+Jefferson,Brownville 5,Lt. Governor,,IND,Hochul,3
+Jefferson,Brownville 5,Governor,,WEP,Cuomo,0
+Jefferson,Brownville 5,Lt. Governor,,WEP,Hochul,0
+Jefferson,Brownville 5,Governor,,REF,Molinaro,6
+Jefferson,Brownville 5,Lt. Governor,,REF,Killian,6
+Jefferson,Brownville 5,Governor,,SAM,Miner,13
+Jefferson,Brownville 5,Lt. Governor,,SAM,Volpe,13
+Jefferson,Brownville 5,Governor,,LIB,Sharpe,14
+Jefferson,Brownville 5,Lt. Governor,,LIB,Hollister,14
+Jefferson,Brownville 5,Governor,,,Write-In,1
+Jefferson,Cape Vincent 1,Governor,,DEM,Cuomo,105
+Jefferson,Cape Vincent 1,Lt. Governor,,DEM,Hochul,105
+Jefferson,Cape Vincent 1,Governor,,REP,Molinaro,220
+Jefferson,Cape Vincent 1,Lt. Governor,,REP,Killian,220
+Jefferson,Cape Vincent 1,Governor,,CON,Molinaro,21
+Jefferson,Cape Vincent 1,Lt. Governor,,CON,Killian,21
+Jefferson,Cape Vincent 1,Governor,,GREEN,Hawkins,7
+Jefferson,Cape Vincent 1,Lt. Governor,,GREEN,Lee,7
+Jefferson,Cape Vincent 1,Governor,,WF,Cuomo,2
+Jefferson,Cape Vincent 1,Lt. Governor,,WF,Hochul,2
+Jefferson,Cape Vincent 1,Governor,,IND,Cuomo,5
+Jefferson,Cape Vincent 1,Lt. Governor,,IND,Hochul,5
+Jefferson,Cape Vincent 1,Governor,,WEP,Cuomo,4
+Jefferson,Cape Vincent 1,Lt. Governor,,WEP,Hochul,4
+Jefferson,Cape Vincent 1,Governor,,REF,Molinaro,4
+Jefferson,Cape Vincent 1,Lt. Governor,,REF,Killian,4
+Jefferson,Cape Vincent 1,Governor,,SAM,Miner,7
+Jefferson,Cape Vincent 1,Lt. Governor,,SAM,Volpe,7
+Jefferson,Cape Vincent 1,Governor,,LIB,Sharpe,5
+Jefferson,Cape Vincent 1,Lt. Governor,,LIB,Hollister,5
+Jefferson,Cape Vincent 1,Governor,,,Write-In,1
+Jefferson,Cape Vincent 2,Governor,,DEM,Cuomo,166
+Jefferson,Cape Vincent 2,Lt. Governor,,DEM,Hochul,166
+Jefferson,Cape Vincent 2,Governor,,REP,Molinaro,458
+Jefferson,Cape Vincent 2,Lt. Governor,,REP,Killian,458
+Jefferson,Cape Vincent 2,Governor,,CON,Molinaro,48
+Jefferson,Cape Vincent 2,Lt. Governor,,CON,Killian,48
+Jefferson,Cape Vincent 2,Governor,,GREEN,Hawkins,9
+Jefferson,Cape Vincent 2,Lt. Governor,,GREEN,Lee,9
+Jefferson,Cape Vincent 2,Governor,,WF,Cuomo,3
+Jefferson,Cape Vincent 2,Lt. Governor,,WF,Hochul,3
+Jefferson,Cape Vincent 2,Governor,,IND,Cuomo,3
+Jefferson,Cape Vincent 2,Lt. Governor,,IND,Hochul,3
+Jefferson,Cape Vincent 2,Governor,,WEP,Cuomo,3
+Jefferson,Cape Vincent 2,Lt. Governor,,WEP,Hochul,3
+Jefferson,Cape Vincent 2,Governor,,REF,Molinaro,4
+Jefferson,Cape Vincent 2,Lt. Governor,,REF,Killian,4
+Jefferson,Cape Vincent 2,Governor,,SAM,Miner,17
+Jefferson,Cape Vincent 2,Lt. Governor,,SAM,Volpe,17
+Jefferson,Cape Vincent 2,Governor,,LIB,Sharpe,18
+Jefferson,Cape Vincent 2,Lt. Governor,,LIB,Hollister,18
+Jefferson,Cape Vincent 2,Governor,,,Write-In,0
+Jefferson,Champion 1,Governor,,DEM,Cuomo,162
+Jefferson,Champion 1,Lt. Governor,,DEM,Hochul,162
+Jefferson,Champion 1,Governor,,REP,Molinaro,511
+Jefferson,Champion 1,Lt. Governor,,REP,Killian,511
+Jefferson,Champion 1,Governor,,CON,Molinaro,38
+Jefferson,Champion 1,Lt. Governor,,CON,Killian,38
+Jefferson,Champion 1,Governor,,GREEN,Hawkins,11
+Jefferson,Champion 1,Lt. Governor,,GREEN,Lee,11
+Jefferson,Champion 1,Governor,,WF,Cuomo,5
+Jefferson,Champion 1,Lt. Governor,,WF,Hochul,5
+Jefferson,Champion 1,Governor,,IND,Cuomo,10
+Jefferson,Champion 1,Lt. Governor,,IND,Hochul,10
+Jefferson,Champion 1,Governor,,WEP,Cuomo,2
+Jefferson,Champion 1,Lt. Governor,,WEP,Hochul,2
+Jefferson,Champion 1,Governor,,REF,Molinaro,6
+Jefferson,Champion 1,Lt. Governor,,REF,Killian,6
+Jefferson,Champion 1,Governor,,SAM,Miner,12
+Jefferson,Champion 1,Lt. Governor,,SAM,Volpe,12
+Jefferson,Champion 1,Governor,,LIB,Sharpe,18
+Jefferson,Champion 1,Lt. Governor,,LIB,Hollister,18
+Jefferson,Champion 1,Governor,,,Write-In,0
+Jefferson,Champion 2,Governor,,DEM,Cuomo,122
+Jefferson,Champion 2,Lt. Governor,,DEM,Hochul,122
+Jefferson,Champion 2,Governor,,REP,Molinaro,231
+Jefferson,Champion 2,Lt. Governor,,REP,Killian,231
+Jefferson,Champion 2,Governor,,CON,Molinaro,27
+Jefferson,Champion 2,Lt. Governor,,CON,Killian,27
+Jefferson,Champion 2,Governor,,GREEN,Hawkins,4
+Jefferson,Champion 2,Lt. Governor,,GREEN,Lee,4
+Jefferson,Champion 2,Governor,,WF,Cuomo,2
+Jefferson,Champion 2,Lt. Governor,,WF,Hochul,2
+Jefferson,Champion 2,Governor,,IND,Cuomo,6
+Jefferson,Champion 2,Lt. Governor,,IND,Hochul,6
+Jefferson,Champion 2,Governor,,WEP,Cuomo,2
+Jefferson,Champion 2,Lt. Governor,,WEP,Hochul,2
+Jefferson,Champion 2,Governor,,REF,Molinaro,1
+Jefferson,Champion 2,Lt. Governor,,REF,Killian,1
+Jefferson,Champion 2,Governor,,SAM,Miner,14
+Jefferson,Champion 2,Lt. Governor,,SAM,Volpe,14
+Jefferson,Champion 2,Governor,,LIB,Sharpe,12
+Jefferson,Champion 2,Lt. Governor,,LIB,Hollister,12
+Jefferson,Champion 2,Governor,,,Write-In,0
+Jefferson,Clayton 1,Governor,,DEM,Cuomo,69
+Jefferson,Clayton 1,Lt. Governor,,DEM,Hochul,69
+Jefferson,Clayton 1,Governor,,REP,Molinaro,294
+Jefferson,Clayton 1,Lt. Governor,,REP,Killian,294
+Jefferson,Clayton 1,Governor,,CON,Molinaro,38
+Jefferson,Clayton 1,Lt. Governor,,CON,Killian,38
+Jefferson,Clayton 1,Governor,,GREEN,Hawkins,5
+Jefferson,Clayton 1,Lt. Governor,,GREEN,Lee,5
+Jefferson,Clayton 1,Governor,,WF,Cuomo,1
+Jefferson,Clayton 1,Lt. Governor,,WF,Hochul,1
+Jefferson,Clayton 1,Governor,,IND,Cuomo,4
+Jefferson,Clayton 1,Lt. Governor,,IND,Hochul,4
+Jefferson,Clayton 1,Governor,,WEP,Cuomo,0
+Jefferson,Clayton 1,Lt. Governor,,WEP,Hochul,0
+Jefferson,Clayton 1,Governor,,REF,Molinaro,3
+Jefferson,Clayton 1,Lt. Governor,,REF,Killian,3
+Jefferson,Clayton 1,Governor,,SAM,Miner,4
+Jefferson,Clayton 1,Lt. Governor,,SAM,Volpe,4
+Jefferson,Clayton 1,Governor,,LIB,Sharpe,37
+Jefferson,Clayton 1,Lt. Governor,,LIB,Hollister,37
+Jefferson,Clayton 1,Governor,,,Write-In,0
+Jefferson,Clayton 2,Governor,,DEM,Cuomo,214
+Jefferson,Clayton 2,Lt. Governor,,DEM,Hochul,214
+Jefferson,Clayton 2,Governor,,REP,Molinaro,348
+Jefferson,Clayton 2,Lt. Governor,,REP,Killian,348
+Jefferson,Clayton 2,Governor,,CON,Molinaro,37
+Jefferson,Clayton 2,Lt. Governor,,CON,Killian,37
+Jefferson,Clayton 2,Governor,,GREEN,Hawkins,11
+Jefferson,Clayton 2,Lt. Governor,,GREEN,Lee,11
+Jefferson,Clayton 2,Governor,,WF,Cuomo,4
+Jefferson,Clayton 2,Lt. Governor,,WF,Hochul,4
+Jefferson,Clayton 2,Governor,,IND,Cuomo,7
+Jefferson,Clayton 2,Lt. Governor,,IND,Hochul,7
+Jefferson,Clayton 2,Governor,,WEP,Cuomo,2
+Jefferson,Clayton 2,Lt. Governor,,WEP,Hochul,2
+Jefferson,Clayton 2,Governor,,REF,Molinaro,1
+Jefferson,Clayton 2,Lt. Governor,,REF,Killian,1
+Jefferson,Clayton 2,Governor,,SAM,Miner,19
+Jefferson,Clayton 2,Lt. Governor,,SAM,Volpe,19
+Jefferson,Clayton 2,Governor,,LIB,Sharpe,32
+Jefferson,Clayton 2,Lt. Governor,,LIB,Hollister,32
+Jefferson,Clayton 2,Governor,,,Write-In,0
+Jefferson,Clayton 3,Governor,,DEM,Cuomo,203
+Jefferson,Clayton 3,Lt. Governor,,DEM,Hochul,203
+Jefferson,Clayton 3,Governor,,REP,Molinaro,462
+Jefferson,Clayton 3,Lt. Governor,,REP,Killian,462
+Jefferson,Clayton 3,Governor,,CON,Molinaro,47
+Jefferson,Clayton 3,Lt. Governor,,CON,Killian,47
+Jefferson,Clayton 3,Governor,,GREEN,Hawkins,12
+Jefferson,Clayton 3,Lt. Governor,,GREEN,Lee,12
+Jefferson,Clayton 3,Governor,,WF,Cuomo,9
+Jefferson,Clayton 3,Lt. Governor,,WF,Hochul,9
+Jefferson,Clayton 3,Governor,,IND,Cuomo,10
+Jefferson,Clayton 3,Lt. Governor,,IND,Hochul,10
+Jefferson,Clayton 3,Governor,,WEP,Cuomo,2
+Jefferson,Clayton 3,Lt. Governor,,WEP,Hochul,2
+Jefferson,Clayton 3,Governor,,REF,Molinaro,5
+Jefferson,Clayton 3,Lt. Governor,,REF,Killian,5
+Jefferson,Clayton 3,Governor,,SAM,Miner,17
+Jefferson,Clayton 3,Lt. Governor,,SAM,Volpe,17
+Jefferson,Clayton 3,Governor,,LIB,Sharpe,32
+Jefferson,Clayton 3,Lt. Governor,,LIB,Hollister,32
+Jefferson,Clayton 3,Governor,,,Write-In,0
+Jefferson,Ellisburg 1,Governor,,DEM,Cuomo,33
+Jefferson,Ellisburg 1,Lt. Governor,,DEM,Hochul,33
+Jefferson,Ellisburg 1,Governor,,REP,Molinaro,88
+Jefferson,Ellisburg 1,Lt. Governor,,REP,Killian,88
+Jefferson,Ellisburg 1,Governor,,CON,Molinaro,6
+Jefferson,Ellisburg 1,Lt. Governor,,CON,Killian,6
+Jefferson,Ellisburg 1,Governor,,GREEN,Hawkins,4
+Jefferson,Ellisburg 1,Lt. Governor,,GREEN,Lee,4
+Jefferson,Ellisburg 1,Governor,,WF,Cuomo,1
+Jefferson,Ellisburg 1,Lt. Governor,,WF,Hochul,1
+Jefferson,Ellisburg 1,Governor,,IND,Cuomo,1
+Jefferson,Ellisburg 1,Lt. Governor,,IND,Hochul,1
+Jefferson,Ellisburg 1,Governor,,WEP,Cuomo,0
+Jefferson,Ellisburg 1,Lt. Governor,,WEP,Hochul,0
+Jefferson,Ellisburg 1,Governor,,REF,Molinaro,0
+Jefferson,Ellisburg 1,Lt. Governor,,REF,Killian,0
+Jefferson,Ellisburg 1,Governor,,SAM,Miner,1
+Jefferson,Ellisburg 1,Lt. Governor,,SAM,Volpe,1
+Jefferson,Ellisburg 1,Governor,,LIB,Sharpe,8
+Jefferson,Ellisburg 1,Lt. Governor,,LIB,Hollister,8
+Jefferson,Ellisburg 1,Governor,,,Write-In,0
+Jefferson,Elllisburg 2,Governor,,DEM,Cuomo,69
+Jefferson,Elllisburg 2,Lt. Governor,,DEM,Hochul,69
+Jefferson,Elllisburg 2,Governor,,REP,Molinaro,276
+Jefferson,Elllisburg 2,Lt. Governor,,REP,Killian,276
+Jefferson,Elllisburg 2,Governor,,CON,Molinaro,18
+Jefferson,Elllisburg 2,Lt. Governor,,CON,Killian,18
+Jefferson,Elllisburg 2,Governor,,GREEN,Hawkins,4
+Jefferson,Elllisburg 2,Lt. Governor,,GREEN,Lee,4
+Jefferson,Elllisburg 2,Governor,,WF,Cuomo,0
+Jefferson,Elllisburg 2,Lt. Governor,,WF,Hochul,0
+Jefferson,Elllisburg 2,Governor,,IND,Cuomo,4
+Jefferson,Elllisburg 2,Lt. Governor,,IND,Hochul,4
+Jefferson,Elllisburg 2,Governor,,WEP,Cuomo,2
+Jefferson,Elllisburg 2,Lt. Governor,,WEP,Hochul,2
+Jefferson,Elllisburg 2,Governor,,REF,Molinaro,1
+Jefferson,Elllisburg 2,Lt. Governor,,REF,Killian,1
+Jefferson,Elllisburg 2,Governor,,SAM,Miner,8
+Jefferson,Elllisburg 2,Lt. Governor,,SAM,Volpe,8
+Jefferson,Elllisburg 2,Governor,,LIB,Sharpe,12
+Jefferson,Elllisburg 2,Lt. Governor,,LIB,Hollister,12
+Jefferson,Elllisburg 2,Governor,,,Write-In,0
+Jefferson,Ellisburg 3,Governor,,DEM,Cuomo,25
+Jefferson,Ellisburg 3,Lt. Governor,,DEM,Hochul,25
+Jefferson,Ellisburg 3,Governor,,REP,Molinaro,52
+Jefferson,Ellisburg 3,Lt. Governor,,REP,Killian,52
+Jefferson,Ellisburg 3,Governor,,CON,Molinaro,5
+Jefferson,Ellisburg 3,Lt. Governor,,CON,Killian,5
+Jefferson,Ellisburg 3,Governor,,GREEN,Hawkins,2
+Jefferson,Ellisburg 3,Lt. Governor,,GREEN,Lee,2
+Jefferson,Ellisburg 3,Governor,,WF,Cuomo,3
+Jefferson,Ellisburg 3,Lt. Governor,,WF,Hochul,3
+Jefferson,Ellisburg 3,Governor,,IND,Cuomo,0
+Jefferson,Ellisburg 3,Lt. Governor,,IND,Hochul,0
+Jefferson,Ellisburg 3,Governor,,WEP,Cuomo,1
+Jefferson,Ellisburg 3,Lt. Governor,,WEP,Hochul,1
+Jefferson,Ellisburg 3,Governor,,REF,Molinaro,0
+Jefferson,Ellisburg 3,Lt. Governor,,REF,Killian,0
+Jefferson,Ellisburg 3,Governor,,SAM,Miner,0
+Jefferson,Ellisburg 3,Lt. Governor,,SAM,Volpe,0
+Jefferson,Ellisburg 3,Governor,,LIB,Sharpe,2
+Jefferson,Ellisburg 3,Lt. Governor,,LIB,Hollister,2
+Jefferson,Ellisburg 3,Governor,,,Write-In,0
+Jefferson,Ellisburg 4,Governor,,DEM,Cuomo,117
+Jefferson,Ellisburg 4,Lt. Governor,,DEM,Hochul,117
+Jefferson,Ellisburg 4,Governor,,REP,Molinaro,315
+Jefferson,Ellisburg 4,Lt. Governor,,REP,Killian,315
+Jefferson,Ellisburg 4,Governor,,CON,Molinaro,29
+Jefferson,Ellisburg 4,Lt. Governor,,CON,Killian,29
+Jefferson,Ellisburg 4,Governor,,GREEN,Hawkins,6
+Jefferson,Ellisburg 4,Lt. Governor,,GREEN,Lee,6
+Jefferson,Ellisburg 4,Governor,,WF,Cuomo,5
+Jefferson,Ellisburg 4,Lt. Governor,,WF,Hochul,5
+Jefferson,Ellisburg 4,Governor,,IND,Cuomo,3
+Jefferson,Ellisburg 4,Lt. Governor,,IND,Hochul,3
+Jefferson,Ellisburg 4,Governor,,WEP,Cuomo,1
+Jefferson,Ellisburg 4,Lt. Governor,,WEP,Hochul,1
+Jefferson,Ellisburg 4,Governor,,REF,Molinaro,4
+Jefferson,Ellisburg 4,Lt. Governor,,REF,Killian,4
+Jefferson,Ellisburg 4,Governor,,SAM,Miner,10
+Jefferson,Ellisburg 4,Lt. Governor,,SAM,Volpe,10
+Jefferson,Ellisburg 4,Governor,,LIB,Sharpe,18
+Jefferson,Ellisburg 4,Lt. Governor,,LIB,Hollister,18
+Jefferson,Ellisburg 4,Governor,,,Write-In,0
+Jefferson,Henderson 1,Governor,,DEM,Cuomo,181
+Jefferson,Henderson 1,Lt. Governor,,DEM,Hochul,181
+Jefferson,Henderson 1,Governor,,REP,Molinaro,403
+Jefferson,Henderson 1,Lt. Governor,,REP,Killian,403
+Jefferson,Henderson 1,Governor,,CON,Molinaro,37
+Jefferson,Henderson 1,Lt. Governor,,CON,Killian,37
+Jefferson,Henderson 1,Governor,,GREEN,Hawkins,5
+Jefferson,Henderson 1,Lt. Governor,,GREEN,Lee,5
+Jefferson,Henderson 1,Governor,,WF,Cuomo,3
+Jefferson,Henderson 1,Lt. Governor,,WF,Hochul,3
+Jefferson,Henderson 1,Governor,,IND,Cuomo,3
+Jefferson,Henderson 1,Lt. Governor,,IND,Hochul,3
+Jefferson,Henderson 1,Governor,,WEP,Cuomo,1
+Jefferson,Henderson 1,Lt. Governor,,WEP,Hochul,1
+Jefferson,Henderson 1,Governor,,REF,Molinaro,3
+Jefferson,Henderson 1,Lt. Governor,,REF,Killian,3
+Jefferson,Henderson 1,Governor,,SAM,Miner,18
+Jefferson,Henderson 1,Lt. Governor,,SAM,Volpe,18
+Jefferson,Henderson 1,Governor,,LIB,Sharpe,6
+Jefferson,Henderson 1,Lt. Governor,,LIB,Hollister,6
+Jefferson,Henderson 1,Governor,,,Write-In,0
+Jefferson,Hounsfield 1,Governor,,DEM,Cuomo,230
+Jefferson,Hounsfield 1,Lt. Governor,,DEM,Hochul,230
+Jefferson,Hounsfield 1,Governor,,REP,Molinaro,237
+Jefferson,Hounsfield 1,Lt. Governor,,REP,Killian,237
+Jefferson,Hounsfield 1,Governor,,CON,Molinaro,30
+Jefferson,Hounsfield 1,Lt. Governor,,CON,Killian,30
+Jefferson,Hounsfield 1,Governor,,GREEN,Hawkins,14
+Jefferson,Hounsfield 1,Lt. Governor,,GREEN,Lee,14
+Jefferson,Hounsfield 1,Governor,,WF,Cuomo,4
+Jefferson,Hounsfield 1,Lt. Governor,,WF,Hochul,4
+Jefferson,Hounsfield 1,Governor,,IND,Cuomo,0
+Jefferson,Hounsfield 1,Lt. Governor,,IND,Hochul,0
+Jefferson,Hounsfield 1,Governor,,WEP,Cuomo,1
+Jefferson,Hounsfield 1,Lt. Governor,,WEP,Hochul,1
+Jefferson,Hounsfield 1,Governor,,REF,Molinaro,6
+Jefferson,Hounsfield 1,Lt. Governor,,REF,Killian,6
+Jefferson,Hounsfield 1,Governor,,SAM,Miner,13
+Jefferson,Hounsfield 1,Lt. Governor,,SAM,Volpe,13
+Jefferson,Hounsfield 1,Governor,,LIB,Sharpe,14
+Jefferson,Hounsfield 1,Lt. Governor,,LIB,Hollister,14
+Jefferson,Hounsfield 1,Governor,,,Write-In,0
+Jefferson,Hounsfield 2,Governor,,DEM,Cuomo,192
+Jefferson,Hounsfield 2,Lt. Governor,,DEM,Hochul,192
+Jefferson,Hounsfield 2,Governor,,REP,Molinaro,427
+Jefferson,Hounsfield 2,Lt. Governor,,REP,Killian,427
+Jefferson,Hounsfield 2,Governor,,CON,Molinaro,54
+Jefferson,Hounsfield 2,Lt. Governor,,CON,Killian,54
+Jefferson,Hounsfield 2,Governor,,GREEN,Hawkins,9
+Jefferson,Hounsfield 2,Lt. Governor,,GREEN,Lee,9
+Jefferson,Hounsfield 2,Governor,,WF,Cuomo,4
+Jefferson,Hounsfield 2,Lt. Governor,,WF,Hochul,4
+Jefferson,Hounsfield 2,Governor,,IND,Cuomo,9
+Jefferson,Hounsfield 2,Lt. Governor,,IND,Hochul,9
+Jefferson,Hounsfield 2,Governor,,WEP,Cuomo,7
+Jefferson,Hounsfield 2,Lt. Governor,,WEP,Hochul,7
+Jefferson,Hounsfield 2,Governor,,REF,Molinaro,10
+Jefferson,Hounsfield 2,Lt. Governor,,REF,Killian,10
+Jefferson,Hounsfield 2,Governor,,SAM,Miner,14
+Jefferson,Hounsfield 2,Lt. Governor,,SAM,Volpe,14
+Jefferson,Hounsfield 2,Governor,,LIB,Sharpe,28
+Jefferson,Hounsfield 2,Lt. Governor,,LIB,Hollister,28
+Jefferson,Hounsfield 2,Governor,,,Write-In,0
+Jefferson,LeRay 1,Governor,,DEM,Cuomo,44
+Jefferson,LeRay 1,Lt. Governor,,DEM,Hochul,44
+Jefferson,LeRay 1,Governor,,REP,Molinaro,131
+Jefferson,LeRay 1,Lt. Governor,,REP,Killian,131
+Jefferson,LeRay 1,Governor,,CON,Molinaro,9
+Jefferson,LeRay 1,Lt. Governor,,CON,Killian,9
+Jefferson,LeRay 1,Governor,,GREEN,Hawkins,0
+Jefferson,LeRay 1,Lt. Governor,,GREEN,Lee,0
+Jefferson,LeRay 1,Governor,,WF,Cuomo,1
+Jefferson,LeRay 1,Lt. Governor,,WF,Hochul,1
+Jefferson,LeRay 1,Governor,,IND,Cuomo,0
+Jefferson,LeRay 1,Lt. Governor,,IND,Hochul,0
+Jefferson,LeRay 1,Governor,,WEP,Cuomo,0
+Jefferson,LeRay 1,Lt. Governor,,WEP,Hochul,0
+Jefferson,LeRay 1,Governor,,REF,Molinaro,1
+Jefferson,LeRay 1,Lt. Governor,,REF,Killian,1
+Jefferson,LeRay 1,Governor,,SAM,Miner,7
+Jefferson,LeRay 1,Lt. Governor,,SAM,Volpe,7
+Jefferson,LeRay 1,Governor,,LIB,Sharpe,4
+Jefferson,LeRay 1,Lt. Governor,,LIB,Hollister,4
+Jefferson,LeRay 1,Governor,,,Write-In,0
+Jefferson,LeRay 2,Governor,,DEM,Cuomo,21
+Jefferson,LeRay 2,Lt. Governor,,DEM,Hochul,21
+Jefferson,LeRay 2,Governor,,REP,Molinaro,70
+Jefferson,LeRay 2,Lt. Governor,,REP,Killian,70
+Jefferson,LeRay 2,Governor,,CON,Molinaro,9
+Jefferson,LeRay 2,Lt. Governor,,CON,Killian,9
+Jefferson,LeRay 2,Governor,,GREEN,Hawkins,1
+Jefferson,LeRay 2,Lt. Governor,,GREEN,Lee,1
+Jefferson,LeRay 2,Governor,,WF,Cuomo,1
+Jefferson,LeRay 2,Lt. Governor,,WF,Hochul,1
+Jefferson,LeRay 2,Governor,,IND,Cuomo,1
+Jefferson,LeRay 2,Lt. Governor,,IND,Hochul,1
+Jefferson,LeRay 2,Governor,,WEP,Cuomo,0
+Jefferson,LeRay 2,Lt. Governor,,WEP,Hochul,0
+Jefferson,LeRay 2,Governor,,REF,Molinaro,0
+Jefferson,LeRay 2,Lt. Governor,,REF,Killian,0
+Jefferson,LeRay 2,Governor,,SAM,Miner,0
+Jefferson,LeRay 2,Lt. Governor,,SAM,Volpe,0
+Jefferson,LeRay 2,Governor,,LIB,Sharpe,1
+Jefferson,LeRay 2,Lt. Governor,,LIB,Hollister,1
+Jefferson,LeRay 2,Governor,,,Write-In,0
+Jefferson,LeRay 3,Governor,,DEM,Cuomo,44
+Jefferson,LeRay 3,Lt. Governor,,DEM,Hochul,44
+Jefferson,LeRay 3,Governor,,REP,Molinaro,99
+Jefferson,LeRay 3,Lt. Governor,,REP,Killian,99
+Jefferson,LeRay 3,Governor,,CON,Molinaro,8
+Jefferson,LeRay 3,Lt. Governor,,CON,Killian,8
+Jefferson,LeRay 3,Governor,,GREEN,Hawkins,2
+Jefferson,LeRay 3,Lt. Governor,,GREEN,Lee,2
+Jefferson,LeRay 3,Governor,,WF,Cuomo,0
+Jefferson,LeRay 3,Lt. Governor,,WF,Hochul,0
+Jefferson,LeRay 3,Governor,,IND,Cuomo,0
+Jefferson,LeRay 3,Lt. Governor,,IND,Hochul,0
+Jefferson,LeRay 3,Governor,,WEP,Cuomo,0
+Jefferson,LeRay 3,Lt. Governor,,WEP,Hochul,0
+Jefferson,LeRay 3,Governor,,REF,Molinaro,2
+Jefferson,LeRay 3,Lt. Governor,,REF,Killian,2
+Jefferson,LeRay 3,Governor,,SAM,Miner,2
+Jefferson,LeRay 3,Lt. Governor,,SAM,Volpe,2
+Jefferson,LeRay 3,Governor,,LIB,Sharpe,7
+Jefferson,LeRay 3,Lt. Governor,,LIB,Hollister,7
+Jefferson,LeRay 3,Governor,,,Write-In,0
+Jefferson,LeRay 4,Governor,,DEM,Cuomo,173
+Jefferson,LeRay 4,Lt. Governor,,DEM,Hochul,173
+Jefferson,LeRay 4,Governor,,REP,Molinaro,261
+Jefferson,LeRay 4,Lt. Governor,,REP,Killian,261
+Jefferson,LeRay 4,Governor,,CON,Molinaro,22
+Jefferson,LeRay 4,Lt. Governor,,CON,Killian,22
+Jefferson,LeRay 4,Governor,,GREEN,Hawkins,6
+Jefferson,LeRay 4,Lt. Governor,,GREEN,Lee,6
+Jefferson,LeRay 4,Governor,,WF,Cuomo,1
+Jefferson,LeRay 4,Lt. Governor,,WF,Hochul,1
+Jefferson,LeRay 4,Governor,,IND,Cuomo,6
+Jefferson,LeRay 4,Lt. Governor,,IND,Hochul,6
+Jefferson,LeRay 4,Governor,,WEP,Cuomo,2
+Jefferson,LeRay 4,Lt. Governor,,WEP,Hochul,2
+Jefferson,LeRay 4,Governor,,REF,Molinaro,1
+Jefferson,LeRay 4,Lt. Governor,,REF,Killian,1
+Jefferson,LeRay 4,Governor,,SAM,Miner,8
+Jefferson,LeRay 4,Lt. Governor,,SAM,Volpe,8
+Jefferson,LeRay 4,Governor,,LIB,Sharpe,9
+Jefferson,LeRay 4,Lt. Governor,,LIB,Hollister,9
+Jefferson,LeRay 4,Governor,,,Write-In,0
+Jefferson,LeRay 5,Governor,,DEM,Cuomo,70
+Jefferson,LeRay 5,Lt. Governor,,DEM,Hochul,70
+Jefferson,LeRay 5,Governor,,REP,Molinaro,128
+Jefferson,LeRay 5,Lt. Governor,,REP,Killian,128
+Jefferson,LeRay 5,Governor,,CON,Molinaro,9
+Jefferson,LeRay 5,Lt. Governor,,CON,Killian,9
+Jefferson,LeRay 5,Governor,,GREEN,Hawkins,3
+Jefferson,LeRay 5,Lt. Governor,,GREEN,Lee,3
+Jefferson,LeRay 5,Governor,,WF,Cuomo,2
+Jefferson,LeRay 5,Lt. Governor,,WF,Hochul,2
+Jefferson,LeRay 5,Governor,,IND,Cuomo,4
+Jefferson,LeRay 5,Lt. Governor,,IND,Hochul,4
+Jefferson,LeRay 5,Governor,,WEP,Cuomo,0
+Jefferson,LeRay 5,Lt. Governor,,WEP,Hochul,0
+Jefferson,LeRay 5,Governor,,REF,Molinaro,3
+Jefferson,LeRay 5,Lt. Governor,,REF,Killian,3
+Jefferson,LeRay 5,Governor,,SAM,Miner,12
+Jefferson,LeRay 5,Lt. Governor,,SAM,Volpe,12
+Jefferson,LeRay 5,Governor,,LIB,Sharpe,4
+Jefferson,LeRay 5,Lt. Governor,,LIB,Hollister,4
+Jefferson,LeRay 5,Governor,,,Write-In,0
+Jefferson,LeRay 6,Governor,,DEM,Cuomo,30
+Jefferson,LeRay 6,Lt. Governor,,DEM,Hochul,30
+Jefferson,LeRay 6,Governor,,REP,Molinaro,65
+Jefferson,LeRay 6,Lt. Governor,,REP,Killian,65
+Jefferson,LeRay 6,Governor,,CON,Molinaro,8
+Jefferson,LeRay 6,Lt. Governor,,CON,Killian,8
+Jefferson,LeRay 6,Governor,,GREEN,Hawkins,0
+Jefferson,LeRay 6,Lt. Governor,,GREEN,Lee,0
+Jefferson,LeRay 6,Governor,,WF,Cuomo,1
+Jefferson,LeRay 6,Lt. Governor,,WF,Hochul,1
+Jefferson,LeRay 6,Governor,,IND,Cuomo,3
+Jefferson,LeRay 6,Lt. Governor,,IND,Hochul,3
+Jefferson,LeRay 6,Governor,,WEP,Cuomo,1
+Jefferson,LeRay 6,Lt. Governor,,WEP,Hochul,1
+Jefferson,LeRay 6,Governor,,REF,Molinaro,2
+Jefferson,LeRay 6,Lt. Governor,,REF,Killian,2
+Jefferson,LeRay 6,Governor,,SAM,Miner,0
+Jefferson,LeRay 6,Lt. Governor,,SAM,Volpe,0
+Jefferson,LeRay 6,Governor,,LIB,Sharpe,4
+Jefferson,LeRay 6,Lt. Governor,,LIB,Hollister,4
+Jefferson,LeRay 6,Governor,,,Write-In,0
+Jefferson,LeRay 7,Governor,,DEM,Cuomo,29
+Jefferson,LeRay 7,Lt. Governor,,DEM,Hochul,29
+Jefferson,LeRay 7,Governor,,REP,Molinaro,24
+Jefferson,LeRay 7,Lt. Governor,,REP,Killian,24
+Jefferson,LeRay 7,Governor,,CON,Molinaro,3
+Jefferson,LeRay 7,Lt. Governor,,CON,Killian,3
+Jefferson,LeRay 7,Governor,,GREEN,Hawkins,1
+Jefferson,LeRay 7,Lt. Governor,,GREEN,Lee,1
+Jefferson,LeRay 7,Governor,,WF,Cuomo,0
+Jefferson,LeRay 7,Lt. Governor,,WF,Hochul,0
+Jefferson,LeRay 7,Governor,,IND,Cuomo,0
+Jefferson,LeRay 7,Lt. Governor,,IND,Hochul,0
+Jefferson,LeRay 7,Governor,,WEP,Cuomo,0
+Jefferson,LeRay 7,Lt. Governor,,WEP,Hochul,0
+Jefferson,LeRay 7,Governor,,REF,Molinaro,0
+Jefferson,LeRay 7,Lt. Governor,,REF,Killian,0
+Jefferson,LeRay 7,Governor,,SAM,Miner,1
+Jefferson,LeRay 7,Lt. Governor,,SAM,Volpe,1
+Jefferson,LeRay 7,Governor,,LIB,Sharpe,1
+Jefferson,LeRay 7,Lt. Governor,,LIB,Hollister,1
+Jefferson,LeRay 7,Governor,,,Write-In,0
+Jefferson,LeRay 8,Governor,,DEM,Cuomo,120
+Jefferson,LeRay 8,Lt. Governor,,DEM,Hochul,120
+Jefferson,LeRay 8,Governor,,REP,Molinaro,200
+Jefferson,LeRay 8,Lt. Governor,,REP,Killian,200
+Jefferson,LeRay 8,Governor,,CON,Molinaro,20
+Jefferson,LeRay 8,Lt. Governor,,CON,Killian,20
+Jefferson,LeRay 8,Governor,,GREEN,Hawkins,5
+Jefferson,LeRay 8,Lt. Governor,,GREEN,Lee,5
+Jefferson,LeRay 8,Governor,,WF,Cuomo,2
+Jefferson,LeRay 8,Lt. Governor,,WF,Hochul,2
+Jefferson,LeRay 8,Governor,,IND,Cuomo,4
+Jefferson,LeRay 8,Lt. Governor,,IND,Hochul,4
+Jefferson,LeRay 8,Governor,,WEP,Cuomo,3
+Jefferson,LeRay 8,Lt. Governor,,WEP,Hochul,3
+Jefferson,LeRay 8,Governor,,REF,Molinaro,1
+Jefferson,LeRay 8,Lt. Governor,,REF,Killian,1
+Jefferson,LeRay 8,Governor,,SAM,Miner,11
+Jefferson,LeRay 8,Lt. Governor,,SAM,Volpe,11
+Jefferson,LeRay 8,Governor,,LIB,Sharpe,9
+Jefferson,LeRay 8,Lt. Governor,,LIB,Hollister,9
+Jefferson,LeRay 8,Governor,,,Write-In,0
+Jefferson,Lorraine 1,Governor,,DEM,Cuomo,45
+Jefferson,Lorraine 1,Lt. Governor,,DEM,Hochul,45
+Jefferson,Lorraine 1,Governor,,REP,Molinaro,247
+Jefferson,Lorraine 1,Lt. Governor,,REP,Killian,247
+Jefferson,Lorraine 1,Governor,,CON,Molinaro,20
+Jefferson,Lorraine 1,Lt. Governor,,CON,Killian,20
+Jefferson,Lorraine 1,Governor,,GREEN,Hawkins,3
+Jefferson,Lorraine 1,Lt. Governor,,GREEN,Lee,3
+Jefferson,Lorraine 1,Governor,,WF,Cuomo,2
+Jefferson,Lorraine 1,Lt. Governor,,WF,Hochul,2
+Jefferson,Lorraine 1,Governor,,IND,Cuomo,2
+Jefferson,Lorraine 1,Lt. Governor,,IND,Hochul,2
+Jefferson,Lorraine 1,Governor,,WEP,Cuomo,1
+Jefferson,Lorraine 1,Lt. Governor,,WEP,Hochul,1
+Jefferson,Lorraine 1,Governor,,REF,Molinaro,4
+Jefferson,Lorraine 1,Lt. Governor,,REF,Killian,4
+Jefferson,Lorraine 1,Governor,,SAM,Miner,9
+Jefferson,Lorraine 1,Lt. Governor,,SAM,Volpe,9
+Jefferson,Lorraine 1,Governor,,LIB,Sharpe,16
+Jefferson,Lorraine 1,Lt. Governor,,LIB,Hollister,16
+Jefferson,Lorraine 1,Governor,,,Write-In,0
+Jefferson,Lyme 1,Governor,,DEM,Cuomo,80
+Jefferson,Lyme 1,Lt. Governor,,DEM,Hochul,80
+Jefferson,Lyme 1,Governor,,REP,Molinaro,219
+Jefferson,Lyme 1,Lt. Governor,,REP,Killian,219
+Jefferson,Lyme 1,Governor,,CON,Molinaro,24
+Jefferson,Lyme 1,Lt. Governor,,CON,Killian,24
+Jefferson,Lyme 1,Governor,,GREEN,Hawkins,7
+Jefferson,Lyme 1,Lt. Governor,,GREEN,Lee,7
+Jefferson,Lyme 1,Governor,,WF,Cuomo,3
+Jefferson,Lyme 1,Lt. Governor,,WF,Hochul,3
+Jefferson,Lyme 1,Governor,,IND,Cuomo,3
+Jefferson,Lyme 1,Lt. Governor,,IND,Hochul,3
+Jefferson,Lyme 1,Governor,,WEP,Cuomo,1
+Jefferson,Lyme 1,Lt. Governor,,WEP,Hochul,1
+Jefferson,Lyme 1,Governor,,REF,Molinaro,2
+Jefferson,Lyme 1,Lt. Governor,,REF,Killian,2
+Jefferson,Lyme 1,Governor,,SAM,Miner,15
+Jefferson,Lyme 1,Lt. Governor,,SAM,Volpe,15
+Jefferson,Lyme 1,Governor,,LIB,Sharpe,5
+Jefferson,Lyme 1,Lt. Governor,,LIB,Hollister,5
+Jefferson,Lyme 1,Governor,,,Write-In,0
+Jefferson,Lyme 2,Governor,,DEM,Cuomo,141
+Jefferson,Lyme 2,Lt. Governor,,DEM,Hochul,141
+Jefferson,Lyme 2,Governor,,REP,Molinaro,251
+Jefferson,Lyme 2,Lt. Governor,,REP,Killian,251
+Jefferson,Lyme 2,Governor,,CON,Molinaro,39
+Jefferson,Lyme 2,Lt. Governor,,CON,Killian,39
+Jefferson,Lyme 2,Governor,,GREEN,Hawkins,4
+Jefferson,Lyme 2,Lt. Governor,,GREEN,Lee,4
+Jefferson,Lyme 2,Governor,,WF,Cuomo,2
+Jefferson,Lyme 2,Lt. Governor,,WF,Hochul,2
+Jefferson,Lyme 2,Governor,,IND,Cuomo,3
+Jefferson,Lyme 2,Lt. Governor,,IND,Hochul,3
+Jefferson,Lyme 2,Governor,,WEP,Cuomo,0
+Jefferson,Lyme 2,Lt. Governor,,WEP,Hochul,0
+Jefferson,Lyme 2,Governor,,REF,Molinaro,7
+Jefferson,Lyme 2,Lt. Governor,,REF,Killian,7
+Jefferson,Lyme 2,Governor,,SAM,Miner,7
+Jefferson,Lyme 2,Lt. Governor,,SAM,Volpe,7
+Jefferson,Lyme 2,Governor,,LIB,Sharpe,7
+Jefferson,Lyme 2,Lt. Governor,,LIB,Hollister,7
+Jefferson,Lyme 2,Governor,,,Write-In,0
+Jefferson,Lyme 3,Governor,,DEM,Cuomo,64
+Jefferson,Lyme 3,Lt. Governor,,DEM,Hochul,64
+Jefferson,Lyme 3,Governor,,REP,Molinaro,145
+Jefferson,Lyme 3,Lt. Governor,,REP,Killian,145
+Jefferson,Lyme 3,Governor,,CON,Molinaro,16
+Jefferson,Lyme 3,Lt. Governor,,CON,Killian,16
+Jefferson,Lyme 3,Governor,,GREEN,Hawkins,1
+Jefferson,Lyme 3,Lt. Governor,,GREEN,Lee,1
+Jefferson,Lyme 3,Governor,,WF,Cuomo,2
+Jefferson,Lyme 3,Lt. Governor,,WF,Hochul,2
+Jefferson,Lyme 3,Governor,,IND,Cuomo,3
+Jefferson,Lyme 3,Lt. Governor,,IND,Hochul,3
+Jefferson,Lyme 3,Governor,,WEP,Cuomo,1
+Jefferson,Lyme 3,Lt. Governor,,WEP,Hochul,1
+Jefferson,Lyme 3,Governor,,REF,Molinaro,1
+Jefferson,Lyme 3,Lt. Governor,,REF,Killian,1
+Jefferson,Lyme 3,Governor,,SAM,Miner,7
+Jefferson,Lyme 3,Lt. Governor,,SAM,Volpe,7
+Jefferson,Lyme 3,Governor,,LIB,Sharpe,8
+Jefferson,Lyme 3,Lt. Governor,,LIB,Hollister,8
+Jefferson,Lyme 3,Governor,,,Write-In,0
+Jefferson,Orleans 1,Governor,,DEM,Cuomo,113
+Jefferson,Orleans 1,Lt. Governor,,DEM,Hochul,113
+Jefferson,Orleans 1,Governor,,REP,Molinaro,408
+Jefferson,Orleans 1,Lt. Governor,,REP,Killian,408
+Jefferson,Orleans 1,Governor,,CON,Molinaro,28
+Jefferson,Orleans 1,Lt. Governor,,CON,Killian,28
+Jefferson,Orleans 1,Governor,,GREEN,Hawkins,4
+Jefferson,Orleans 1,Lt. Governor,,GREEN,Lee,4
+Jefferson,Orleans 1,Governor,,WF,Cuomo,2
+Jefferson,Orleans 1,Lt. Governor,,WF,Hochul,2
+Jefferson,Orleans 1,Governor,,IND,Cuomo,5
+Jefferson,Orleans 1,Lt. Governor,,IND,Hochul,5
+Jefferson,Orleans 1,Governor,,WEP,Cuomo,1
+Jefferson,Orleans 1,Lt. Governor,,WEP,Hochul,1
+Jefferson,Orleans 1,Governor,,REF,Molinaro,6
+Jefferson,Orleans 1,Lt. Governor,,REF,Killian,6
+Jefferson,Orleans 1,Governor,,SAM,Miner,8
+Jefferson,Orleans 1,Lt. Governor,,SAM,Volpe,8
+Jefferson,Orleans 1,Governor,,LIB,Sharpe,21
+Jefferson,Orleans 1,Lt. Governor,,LIB,Hollister,21
+Jefferson,Orleans 1,Governor,,,Write-In,2
+Jefferson,Orleans 2,Governor,,DEM,Cuomo,120
+Jefferson,Orleans 2,Lt. Governor,,DEM,Hochul,120
+Jefferson,Orleans 2,Governor,,REP,Molinaro,224
+Jefferson,Orleans 2,Lt. Governor,,REP,Killian,224
+Jefferson,Orleans 2,Governor,,CON,Molinaro,20
+Jefferson,Orleans 2,Lt. Governor,,CON,Killian,20
+Jefferson,Orleans 2,Governor,,GREEN,Hawkins,8
+Jefferson,Orleans 2,Lt. Governor,,GREEN,Lee,8
+Jefferson,Orleans 2,Governor,,WF,Cuomo,1
+Jefferson,Orleans 2,Lt. Governor,,WF,Hochul,1
+Jefferson,Orleans 2,Governor,,IND,Cuomo,4
+Jefferson,Orleans 2,Lt. Governor,,IND,Hochul,4
+Jefferson,Orleans 2,Governor,,WEP,Cuomo,1
+Jefferson,Orleans 2,Lt. Governor,,WEP,Hochul,1
+Jefferson,Orleans 2,Governor,,REF,Molinaro,7
+Jefferson,Orleans 2,Lt. Governor,,REF,Killian,7
+Jefferson,Orleans 2,Governor,,SAM,Miner,8
+Jefferson,Orleans 2,Lt. Governor,,SAM,Volpe,8
+Jefferson,Orleans 2,Governor,,LIB,Sharpe,6
+Jefferson,Orleans 2,Lt. Governor,,LIB,Hollister,6
+Jefferson,Orleans 2,Governor,,,Write-In,0
+Jefferson,Pamelia 1,Governor,,DEM,Cuomo,97
+Jefferson,Pamelia 1,Lt. Governor,,DEM,Hochul,97
+Jefferson,Pamelia 1,Governor,,REP,Molinaro,344
+Jefferson,Pamelia 1,Lt. Governor,,REP,Killian,344
+Jefferson,Pamelia 1,Governor,,CON,Molinaro,31
+Jefferson,Pamelia 1,Lt. Governor,,CON,Killian,31
+Jefferson,Pamelia 1,Governor,,GREEN,Hawkins,7
+Jefferson,Pamelia 1,Lt. Governor,,GREEN,Lee,7
+Jefferson,Pamelia 1,Governor,,WF,Cuomo,2
+Jefferson,Pamelia 1,Lt. Governor,,WF,Hochul,2
+Jefferson,Pamelia 1,Governor,,IND,Cuomo,9
+Jefferson,Pamelia 1,Lt. Governor,,IND,Hochul,9
+Jefferson,Pamelia 1,Governor,,WEP,Cuomo,3
+Jefferson,Pamelia 1,Lt. Governor,,WEP,Hochul,3
+Jefferson,Pamelia 1,Governor,,REF,Molinaro,3
+Jefferson,Pamelia 1,Lt. Governor,,REF,Killian,3
+Jefferson,Pamelia 1,Governor,,SAM,Miner,7
+Jefferson,Pamelia 1,Lt. Governor,,SAM,Volpe,7
+Jefferson,Pamelia 1,Governor,,LIB,Sharpe,12
+Jefferson,Pamelia 1,Lt. Governor,,LIB,Hollister,12
+Jefferson,Pamelia 1,Governor,,,Write-In,1
+Jefferson,Pamelia 2,Governor,,DEM,Cuomo,137
+Jefferson,Pamelia 2,Lt. Governor,,DEM,Hochul,137
+Jefferson,Pamelia 2,Governor,,REP,Molinaro,292
+Jefferson,Pamelia 2,Lt. Governor,,REP,Killian,292
+Jefferson,Pamelia 2,Governor,,CON,Molinaro,28
+Jefferson,Pamelia 2,Lt. Governor,,CON,Killian,28
+Jefferson,Pamelia 2,Governor,,GREEN,Hawkins,6
+Jefferson,Pamelia 2,Lt. Governor,,GREEN,Lee,6
+Jefferson,Pamelia 2,Governor,,WF,Cuomo,2
+Jefferson,Pamelia 2,Lt. Governor,,WF,Hochul,2
+Jefferson,Pamelia 2,Governor,,IND,Cuomo,10
+Jefferson,Pamelia 2,Lt. Governor,,IND,Hochul,10
+Jefferson,Pamelia 2,Governor,,WEP,Cuomo,1
+Jefferson,Pamelia 2,Lt. Governor,,WEP,Hochul,1
+Jefferson,Pamelia 2,Governor,,REF,Molinaro,4
+Jefferson,Pamelia 2,Lt. Governor,,REF,Killian,4
+Jefferson,Pamelia 2,Governor,,SAM,Miner,10
+Jefferson,Pamelia 2,Lt. Governor,,SAM,Volpe,10
+Jefferson,Pamelia 2,Governor,,LIB,Sharpe,17
+Jefferson,Pamelia 2,Lt. Governor,,LIB,Hollister,17
+Jefferson,Pamelia 2,Governor,,,Write-In,1
+Jefferson,Philadelphia 1,Governor,,DEM,Cuomo,65
+Jefferson,Philadelphia 1,Lt. Governor,,DEM,Hochul,65
+Jefferson,Philadelphia 1,Governor,,REP,Molinaro,146
+Jefferson,Philadelphia 1,Lt. Governor,,REP,Killian,146
+Jefferson,Philadelphia 1,Governor,,CON,Molinaro,11
+Jefferson,Philadelphia 1,Lt. Governor,,CON,Killian,11
+Jefferson,Philadelphia 1,Governor,,GREEN,Hawkins,3
+Jefferson,Philadelphia 1,Lt. Governor,,GREEN,Lee,3
+Jefferson,Philadelphia 1,Governor,,WF,Cuomo,2
+Jefferson,Philadelphia 1,Lt. Governor,,WF,Hochul,2
+Jefferson,Philadelphia 1,Governor,,IND,Cuomo,0
+Jefferson,Philadelphia 1,Lt. Governor,,IND,Hochul,0
+Jefferson,Philadelphia 1,Governor,,WEP,Cuomo,0
+Jefferson,Philadelphia 1,Lt. Governor,,WEP,Hochul,0
+Jefferson,Philadelphia 1,Governor,,REF,Molinaro,5
+Jefferson,Philadelphia 1,Lt. Governor,,REF,Killian,5
+Jefferson,Philadelphia 1,Governor,,SAM,Miner,4
+Jefferson,Philadelphia 1,Lt. Governor,,SAM,Volpe,4
+Jefferson,Philadelphia 1,Governor,,LIB,Sharpe,8
+Jefferson,Philadelphia 1,Lt. Governor,,LIB,Hollister,8
+Jefferson,Philadelphia 1,Governor,,,Write-In,0
+Jefferson,Philadelphia 2,Governor,,DEM,Cuomo,61
+Jefferson,Philadelphia 2,Lt. Governor,,DEM,Hochul,61
+Jefferson,Philadelphia 2,Governor,,REP,Molinaro,163
+Jefferson,Philadelphia 2,Lt. Governor,,REP,Killian,163
+Jefferson,Philadelphia 2,Governor,,CON,Molinaro,18
+Jefferson,Philadelphia 2,Lt. Governor,,CON,Killian,18
+Jefferson,Philadelphia 2,Governor,,GREEN,Hawkins,3
+Jefferson,Philadelphia 2,Lt. Governor,,GREEN,Lee,3
+Jefferson,Philadelphia 2,Governor,,WF,Cuomo,1
+Jefferson,Philadelphia 2,Lt. Governor,,WF,Hochul,1
+Jefferson,Philadelphia 2,Governor,,IND,Cuomo,2
+Jefferson,Philadelphia 2,Lt. Governor,,IND,Hochul,2
+Jefferson,Philadelphia 2,Governor,,WEP,Cuomo,1
+Jefferson,Philadelphia 2,Lt. Governor,,WEP,Hochul,1
+Jefferson,Philadelphia 2,Governor,,REF,Molinaro,6
+Jefferson,Philadelphia 2,Lt. Governor,,REF,Killian,6
+Jefferson,Philadelphia 2,Governor,,SAM,Miner,2
+Jefferson,Philadelphia 2,Lt. Governor,,SAM,Volpe,2
+Jefferson,Philadelphia 2,Governor,,LIB,Sharpe,9
+Jefferson,Philadelphia 2,Lt. Governor,,LIB,Hollister,9
+Jefferson,Philadelphia 2,Governor,,,Write-In,0
+Jefferson,Rodman 1,Governor,,DEM,Cuomo,77
+Jefferson,Rodman 1,Lt. Governor,,DEM,Hochul,77
+Jefferson,Rodman 1,Governor,,REP,Molinaro,308
+Jefferson,Rodman 1,Lt. Governor,,REP,Killian,308
+Jefferson,Rodman 1,Governor,,CON,Molinaro,29
+Jefferson,Rodman 1,Lt. Governor,,CON,Killian,29
+Jefferson,Rodman 1,Governor,,GREEN,Hawkins,9
+Jefferson,Rodman 1,Lt. Governor,,GREEN,Lee,9
+Jefferson,Rodman 1,Governor,,WF,Cuomo,2
+Jefferson,Rodman 1,Lt. Governor,,WF,Hochul,2
+Jefferson,Rodman 1,Governor,,IND,Cuomo,3
+Jefferson,Rodman 1,Lt. Governor,,IND,Hochul,3
+Jefferson,Rodman 1,Governor,,WEP,Cuomo,0
+Jefferson,Rodman 1,Lt. Governor,,WEP,Hochul,0
+Jefferson,Rodman 1,Governor,,REF,Molinaro,4
+Jefferson,Rodman 1,Lt. Governor,,REF,Killian,4
+Jefferson,Rodman 1,Governor,,SAM,Miner,8
+Jefferson,Rodman 1,Lt. Governor,,SAM,Volpe,8
+Jefferson,Rodman 1,Governor,,LIB,Sharpe,18
+Jefferson,Rodman 1,Lt. Governor,,LIB,Hollister,18
+Jefferson,Rodman 1,Governor,,,Write-In,0
+Jefferson,Rutland 1,Governor,,DEM,Cuomo,79
+Jefferson,Rutland 1,Lt. Governor,,DEM,Hochul,79
+Jefferson,Rutland 1,Governor,,REP,Molinaro,284
+Jefferson,Rutland 1,Lt. Governor,,REP,Killian,284
+Jefferson,Rutland 1,Governor,,CON,Molinaro,24
+Jefferson,Rutland 1,Lt. Governor,,CON,Killian,24
+Jefferson,Rutland 1,Governor,,GREEN,Hawkins,6
+Jefferson,Rutland 1,Lt. Governor,,GREEN,Lee,6
+Jefferson,Rutland 1,Governor,,WF,Cuomo,2
+Jefferson,Rutland 1,Lt. Governor,,WF,Hochul,2
+Jefferson,Rutland 1,Governor,,IND,Cuomo,2
+Jefferson,Rutland 1,Lt. Governor,,IND,Hochul,2
+Jefferson,Rutland 1,Governor,,WEP,Cuomo,4
+Jefferson,Rutland 1,Lt. Governor,,WEP,Hochul,4
+Jefferson,Rutland 1,Governor,,REF,Molinaro,1
+Jefferson,Rutland 1,Lt. Governor,,REF,Killian,1
+Jefferson,Rutland 1,Governor,,SAM,Miner,2
+Jefferson,Rutland 1,Lt. Governor,,SAM,Volpe,2
+Jefferson,Rutland 1,Governor,,LIB,Sharpe,16
+Jefferson,Rutland 1,Lt. Governor,,LIB,Hollister,16
+Jefferson,Rutland 1,Governor,,,Write-In,0
+Jefferson,Rutland 2,Governor,,DEM,Cuomo,56
+Jefferson,Rutland 2,Lt. Governor,,DEM,Hochul,56
+Jefferson,Rutland 2,Governor,,REP,Molinaro,229
+Jefferson,Rutland 2,Lt. Governor,,REP,Killian,229
+Jefferson,Rutland 2,Governor,,CON,Molinaro,22
+Jefferson,Rutland 2,Lt. Governor,,CON,Killian,22
+Jefferson,Rutland 2,Governor,,GREEN,Hawkins,5
+Jefferson,Rutland 2,Lt. Governor,,GREEN,Lee,5
+Jefferson,Rutland 2,Governor,,WF,Cuomo,1
+Jefferson,Rutland 2,Lt. Governor,,WF,Hochul,1
+Jefferson,Rutland 2,Governor,,IND,Cuomo,3
+Jefferson,Rutland 2,Lt. Governor,,IND,Hochul,3
+Jefferson,Rutland 2,Governor,,WEP,Cuomo,2
+Jefferson,Rutland 2,Lt. Governor,,WEP,Hochul,2
+Jefferson,Rutland 2,Governor,,REF,Molinaro,2
+Jefferson,Rutland 2,Lt. Governor,,REF,Killian,2
+Jefferson,Rutland 2,Governor,,SAM,Miner,1
+Jefferson,Rutland 2,Lt. Governor,,SAM,Volpe,1
+Jefferson,Rutland 2,Governor,,LIB,Sharpe,9
+Jefferson,Rutland 2,Lt. Governor,,LIB,Hollister,9
+Jefferson,Rutland 2,Governor,,,Write-In,0
+Jefferson,Rutland 3,Governor,,DEM,Cuomo,36
+Jefferson,Rutland 3,Lt. Governor,,DEM,Hochul,36
+Jefferson,Rutland 3,Governor,,REP,Molinaro,61
+Jefferson,Rutland 3,Lt. Governor,,REP,Killian,61
+Jefferson,Rutland 3,Governor,,CON,Molinaro,10
+Jefferson,Rutland 3,Lt. Governor,,CON,Killian,10
+Jefferson,Rutland 3,Governor,,GREEN,Hawkins,2
+Jefferson,Rutland 3,Lt. Governor,,GREEN,Lee,2
+Jefferson,Rutland 3,Governor,,WF,Cuomo,2
+Jefferson,Rutland 3,Lt. Governor,,WF,Hochul,2
+Jefferson,Rutland 3,Governor,,IND,Cuomo,1
+Jefferson,Rutland 3,Lt. Governor,,IND,Hochul,1
+Jefferson,Rutland 3,Governor,,WEP,Cuomo,1
+Jefferson,Rutland 3,Lt. Governor,,WEP,Hochul,1
+Jefferson,Rutland 3,Governor,,REF,Molinaro,1
+Jefferson,Rutland 3,Lt. Governor,,REF,Killian,1
+Jefferson,Rutland 3,Governor,,SAM,Miner,0
+Jefferson,Rutland 3,Lt. Governor,,SAM,Volpe,0
+Jefferson,Rutland 3,Governor,,LIB,Sharpe,2
+Jefferson,Rutland 3,Lt. Governor,,LIB,Hollister,2
+Jefferson,Rutland 3,Governor,,,Write-In,1
+Jefferson,Theresa 1,Governor,,DEM,Cuomo,193
+Jefferson,Theresa 1,Lt. Governor,,DEM,Hochul,193
+Jefferson,Theresa 1,Governor,,REP,Molinaro,530
+Jefferson,Theresa 1,Lt. Governor,,REP,Killian,530
+Jefferson,Theresa 1,Governor,,CON,Molinaro,38
+Jefferson,Theresa 1,Lt. Governor,,CON,Killian,38
+Jefferson,Theresa 1,Governor,,GREEN,Hawkins,13
+Jefferson,Theresa 1,Lt. Governor,,GREEN,Lee,13
+Jefferson,Theresa 1,Governor,,WF,Cuomo,7
+Jefferson,Theresa 1,Lt. Governor,,WF,Hochul,7
+Jefferson,Theresa 1,Governor,,IND,Cuomo,8
+Jefferson,Theresa 1,Lt. Governor,,IND,Hochul,8
+Jefferson,Theresa 1,Governor,,WEP,Cuomo,2
+Jefferson,Theresa 1,Lt. Governor,,WEP,Hochul,2
+Jefferson,Theresa 1,Governor,,REF,Molinaro,10
+Jefferson,Theresa 1,Lt. Governor,,REF,Killian,10
+Jefferson,Theresa 1,Governor,,SAM,Miner,9
+Jefferson,Theresa 1,Lt. Governor,,SAM,Volpe,9
+Jefferson,Theresa 1,Governor,,LIB,Sharpe,23
+Jefferson,Theresa 1,Lt. Governor,,LIB,Hollister,23
+Jefferson,Theresa 1,Governor,,,Write-In,0
+Jefferson,Watertown 1,Governor,,DEM,Cuomo,294
+Jefferson,Watertown 1,Lt. Governor,,DEM,Hochul,294
+Jefferson,Watertown 1,Governor,,REP,Molinaro,444
+Jefferson,Watertown 1,Lt. Governor,,REP,Killian,444
+Jefferson,Watertown 1,Governor,,CON,Molinaro,45
+Jefferson,Watertown 1,Lt. Governor,,CON,Killian,45
+Jefferson,Watertown 1,Governor,,GREEN,Hawkins,9
+Jefferson,Watertown 1,Lt. Governor,,GREEN,Lee,9
+Jefferson,Watertown 1,Governor,,WF,Cuomo,2
+Jefferson,Watertown 1,Lt. Governor,,WF,Hochul,2
+Jefferson,Watertown 1,Governor,,IND,Cuomo,8
+Jefferson,Watertown 1,Lt. Governor,,IND,Hochul,8
+Jefferson,Watertown 1,Governor,,WEP,Cuomo,3
+Jefferson,Watertown 1,Lt. Governor,,WEP,Hochul,3
+Jefferson,Watertown 1,Governor,,REF,Molinaro,3
+Jefferson,Watertown 1,Lt. Governor,,REF,Killian,3
+Jefferson,Watertown 1,Governor,,SAM,Miner,13
+Jefferson,Watertown 1,Lt. Governor,,SAM,Volpe,13
+Jefferson,Watertown 1,Governor,,LIB,Sharpe,10
+Jefferson,Watertown 1,Lt. Governor,,LIB,Hollister,10
+Jefferson,Watertown 1,Governor,,,Write-In,1
+Jefferson,Watertown 2,Governor,,DEM,Cuomo,162
+Jefferson,Watertown 2,Lt. Governor,,DEM,Hochul,162
+Jefferson,Watertown 2,Governor,,REP,Molinaro,509
+Jefferson,Watertown 2,Lt. Governor,,REP,Killian,509
+Jefferson,Watertown 2,Governor,,CON,Molinaro,47
+Jefferson,Watertown 2,Lt. Governor,,CON,Killian,47
+Jefferson,Watertown 2,Governor,,GREEN,Hawkins,6
+Jefferson,Watertown 2,Lt. Governor,,GREEN,Lee,6
+Jefferson,Watertown 2,Governor,,WF,Cuomo,6
+Jefferson,Watertown 2,Lt. Governor,,WF,Hochul,6
+Jefferson,Watertown 2,Governor,,IND,Cuomo,8
+Jefferson,Watertown 2,Lt. Governor,,IND,Hochul,8
+Jefferson,Watertown 2,Governor,,WEP,Cuomo,1
+Jefferson,Watertown 2,Lt. Governor,,WEP,Hochul,1
+Jefferson,Watertown 2,Governor,,REF,Molinaro,5
+Jefferson,Watertown 2,Lt. Governor,,REF,Killian,5
+Jefferson,Watertown 2,Governor,,SAM,Miner,13
+Jefferson,Watertown 2,Lt. Governor,,SAM,Volpe,13
+Jefferson,Watertown 2,Governor,,LIB,Sharpe,32
+Jefferson,Watertown 2,Lt. Governor,,LIB,Hollister,32
+Jefferson,Watertown 2,Governor,,,Write-In,0
+Jefferson,Wilna 1,Governor,,DEM,Cuomo,210
+Jefferson,Wilna 1,Lt. Governor,,DEM,Hochul,210
+Jefferson,Wilna 1,Governor,,REP,Molinaro,335
+Jefferson,Wilna 1,Lt. Governor,,REP,Killian,335
+Jefferson,Wilna 1,Governor,,CON,Molinaro,39
+Jefferson,Wilna 1,Lt. Governor,,CON,Killian,39
+Jefferson,Wilna 1,Governor,,GREEN,Hawkins,8
+Jefferson,Wilna 1,Lt. Governor,,GREEN,Lee,8
+Jefferson,Wilna 1,Governor,,WF,Cuomo,4
+Jefferson,Wilna 1,Lt. Governor,,WF,Hochul,4
+Jefferson,Wilna 1,Governor,,IND,Cuomo,4
+Jefferson,Wilna 1,Lt. Governor,,IND,Hochul,4
+Jefferson,Wilna 1,Governor,,WEP,Cuomo,3
+Jefferson,Wilna 1,Lt. Governor,,WEP,Hochul,3
+Jefferson,Wilna 1,Governor,,REF,Molinaro,5
+Jefferson,Wilna 1,Lt. Governor,,REF,Killian,5
+Jefferson,Wilna 1,Governor,,SAM,Miner,9
+Jefferson,Wilna 1,Lt. Governor,,SAM,Volpe,9
+Jefferson,Wilna 1,Governor,,LIB,Sharpe,19
+Jefferson,Wilna 1,Lt. Governor,,LIB,Hollister,19
+Jefferson,Wilna 1,Governor,,,Write-In,0
+Jefferson,Wilna 2,Governor,,DEM,Cuomo,6
+Jefferson,Wilna 2,Lt. Governor,,DEM,Hochul,6
+Jefferson,Wilna 2,Governor,,REP,Molinaro,10
+Jefferson,Wilna 2,Lt. Governor,,REP,Killian,10
+Jefferson,Wilna 2,Governor,,CON,Molinaro,0
+Jefferson,Wilna 2,Lt. Governor,,CON,Killian,0
+Jefferson,Wilna 2,Governor,,GREEN,Hawkins,3
+Jefferson,Wilna 2,Lt. Governor,,GREEN,Lee,3
+Jefferson,Wilna 2,Governor,,WF,Cuomo,0
+Jefferson,Wilna 2,Lt. Governor,,WF,Hochul,0
+Jefferson,Wilna 2,Governor,,IND,Cuomo,1
+Jefferson,Wilna 2,Lt. Governor,,IND,Hochul,1
+Jefferson,Wilna 2,Governor,,WEP,Cuomo,0
+Jefferson,Wilna 2,Lt. Governor,,WEP,Hochul,0
+Jefferson,Wilna 2,Governor,,REF,Molinaro,0
+Jefferson,Wilna 2,Lt. Governor,,REF,Killian,0
+Jefferson,Wilna 2,Governor,,SAM,Miner,0
+Jefferson,Wilna 2,Lt. Governor,,SAM,Volpe,0
+Jefferson,Wilna 2,Governor,,LIB,Sharpe,2
+Jefferson,Wilna 2,Lt. Governor,,LIB,Hollister,2
+Jefferson,Wilna 2,Governor,,,Write-In,0
+Jefferson,Wilna 3,Governor,,DEM,Cuomo,15
+Jefferson,Wilna 3,Lt. Governor,,DEM,Hochul,15
+Jefferson,Wilna 3,Governor,,REP,Molinaro,45
+Jefferson,Wilna 3,Lt. Governor,,REP,Killian,45
+Jefferson,Wilna 3,Governor,,CON,Molinaro,3
+Jefferson,Wilna 3,Lt. Governor,,CON,Killian,3
+Jefferson,Wilna 3,Governor,,GREEN,Hawkins,2
+Jefferson,Wilna 3,Lt. Governor,,GREEN,Lee,2
+Jefferson,Wilna 3,Governor,,WF,Cuomo,0
+Jefferson,Wilna 3,Lt. Governor,,WF,Hochul,0
+Jefferson,Wilna 3,Governor,,IND,Cuomo,0
+Jefferson,Wilna 3,Lt. Governor,,IND,Hochul,0
+Jefferson,Wilna 3,Governor,,WEP,Cuomo,0
+Jefferson,Wilna 3,Lt. Governor,,WEP,Hochul,0
+Jefferson,Wilna 3,Governor,,REF,Molinaro,0
+Jefferson,Wilna 3,Lt. Governor,,REF,Killian,0
+Jefferson,Wilna 3,Governor,,SAM,Miner,1
+Jefferson,Wilna 3,Lt. Governor,,SAM,Volpe,1
+Jefferson,Wilna 3,Governor,,LIB,Sharpe,6
+Jefferson,Wilna 3,Lt. Governor,,LIB,Hollister,6
+Jefferson,Wilna 3,Governor,,,Write-In,0
+Jefferson,Wilna 4,Governor,,DEM,Cuomo,18
+Jefferson,Wilna 4,Lt. Governor,,DEM,Hochul,18
+Jefferson,Wilna 4,Governor,,REP,Molinaro,133
+Jefferson,Wilna 4,Lt. Governor,,REP,Killian,133
+Jefferson,Wilna 4,Governor,,CON,Molinaro,15
+Jefferson,Wilna 4,Lt. Governor,,CON,Killian,15
+Jefferson,Wilna 4,Governor,,GREEN,Hawkins,0
+Jefferson,Wilna 4,Lt. Governor,,GREEN,Lee,0
+Jefferson,Wilna 4,Governor,,WF,Cuomo,1
+Jefferson,Wilna 4,Lt. Governor,,WF,Hochul,1
+Jefferson,Wilna 4,Governor,,IND,Cuomo,1
+Jefferson,Wilna 4,Lt. Governor,,IND,Hochul,1
+Jefferson,Wilna 4,Governor,,WEP,Cuomo,1
+Jefferson,Wilna 4,Lt. Governor,,WEP,Hochul,1
+Jefferson,Wilna 4,Governor,,REF,Molinaro,1
+Jefferson,Wilna 4,Lt. Governor,,REF,Killian,1
+Jefferson,Wilna 4,Governor,,SAM,Miner,2
+Jefferson,Wilna 4,Lt. Governor,,SAM,Volpe,2
+Jefferson,Wilna 4,Governor,,LIB,Sharpe,2
+Jefferson,Wilna 4,Lt. Governor,,LIB,Hollister,2
+Jefferson,Wilna 4,Governor,,,Write-In,0
+Jefferson,Wilna 5,Governor,,DEM,Cuomo,73
+Jefferson,Wilna 5,Lt. Governor,,DEM,Hochul,73
+Jefferson,Wilna 5,Governor,,REP,Molinaro,267
+Jefferson,Wilna 5,Lt. Governor,,REP,Killian,267
+Jefferson,Wilna 5,Governor,,CON,Molinaro,15
+Jefferson,Wilna 5,Lt. Governor,,CON,Killian,15
+Jefferson,Wilna 5,Governor,,GREEN,Hawkins,3
+Jefferson,Wilna 5,Lt. Governor,,GREEN,Lee,3
+Jefferson,Wilna 5,Governor,,WF,Cuomo,2
+Jefferson,Wilna 5,Lt. Governor,,WF,Hochul,2
+Jefferson,Wilna 5,Governor,,IND,Cuomo,1
+Jefferson,Wilna 5,Lt. Governor,,IND,Hochul,1
+Jefferson,Wilna 5,Governor,,WEP,Cuomo,1
+Jefferson,Wilna 5,Lt. Governor,,WEP,Hochul,1
+Jefferson,Wilna 5,Governor,,REF,Molinaro,1
+Jefferson,Wilna 5,Lt. Governor,,REF,Killian,1
+Jefferson,Wilna 5,Governor,,SAM,Miner,4
+Jefferson,Wilna 5,Lt. Governor,,SAM,Volpe,4
+Jefferson,Wilna 5,Governor,,LIB,Sharpe,7
+Jefferson,Wilna 5,Lt. Governor,,LIB,Hollister,7
+Jefferson,Wilna 5,Governor,,,Write-In,0
+Jefferson,Worth 1,Governor,,DEM,Cuomo,19
+Jefferson,Worth 1,Lt. Governor,,DEM,Hochul,19
+Jefferson,Worth 1,Governor,,REP,Molinaro,76
+Jefferson,Worth 1,Lt. Governor,,REP,Killian,76
+Jefferson,Worth 1,Governor,,CON,Molinaro,6
+Jefferson,Worth 1,Lt. Governor,,CON,Killian,6
+Jefferson,Worth 1,Governor,,GREEN,Hawkins,3
+Jefferson,Worth 1,Lt. Governor,,GREEN,Lee,3
+Jefferson,Worth 1,Governor,,WF,Cuomo,0
+Jefferson,Worth 1,Lt. Governor,,WF,Hochul,0
+Jefferson,Worth 1,Governor,,IND,Cuomo,1
+Jefferson,Worth 1,Lt. Governor,,IND,Hochul,1
+Jefferson,Worth 1,Governor,,WEP,Cuomo,0
+Jefferson,Worth 1,Lt. Governor,,WEP,Hochul,0
+Jefferson,Worth 1,Governor,,REF,Molinaro,2
+Jefferson,Worth 1,Lt. Governor,,REF,Killian,2
+Jefferson,Worth 1,Governor,,SAM,Miner,1
+Jefferson,Worth 1,Lt. Governor,,SAM,Volpe,1
+Jefferson,Worth 1,Governor,,LIB,Sharpe,2
+Jefferson,Worth 1,Lt. Governor,,LIB,Hollister,2
+Jefferson,Worth 1,Governor,,,Write-In,0
+Jefferson,Adams 1,Comptroller,,DEM,DiNapoli,2
+Jefferson,Adams 1,Comptroller,,REP,Trichter,2
+Jefferson,Adams 1,Comptroller,,CON,Trichter,2
+Jefferson,Adams 1,Comptroller,,GRE,Dunlea,2
+Jefferson,Adams 1,Comptroller,,WF,DiNapoli,2
+Jefferson,Adams 1,Comptroller,,IND,DiNapoli,2
+Jefferson,Adams 1,Comptroller,,WEP,DiNapoli,2
+Jefferson,Adams 1,Comptroller,,REF,DiNapoli,2
+Jefferson,Adams 1,Comptroller,,LIB,Gallaudet,2
+Jefferson,Adams 1,Comptroller,,,Write-ins,2
+Jefferson,Adams 2,Comptroller,,DEM,DiNapoli,0
+Jefferson,Adams 2,Comptroller,,REP,Trichter,0
+Jefferson,Adams 2,Comptroller,,CON,Trichter,0
+Jefferson,Adams 2,Comptroller,,GRE,Dunlea,0
+Jefferson,Adams 2,Comptroller,,WF,DiNapoli,0
+Jefferson,Adams 2,Comptroller,,IND,DiNapoli,0
+Jefferson,Adams 2,Comptroller,,WEP,DiNapoli,0
+Jefferson,Adams 2,Comptroller,,REF,DiNapoli,0
+Jefferson,Adams 2,Comptroller,,LIB,Gallaudet,0
+Jefferson,Adams 2,Comptroller,,,Write-ins,0
+Jefferson,Adams 3,Comptroller,,DEM,DiNapoli,4
+Jefferson,Adams 3,Comptroller,,REP,Trichter,4
+Jefferson,Adams 3,Comptroller,,CON,Trichter,4
+Jefferson,Adams 3,Comptroller,,GRE,Dunlea,4
+Jefferson,Adams 3,Comptroller,,WF,DiNapoli,4
+Jefferson,Adams 3,Comptroller,,IND,DiNapoli,4
+Jefferson,Adams 3,Comptroller,,WEP,DiNapoli,4
+Jefferson,Adams 3,Comptroller,,REF,DiNapoli,4
+Jefferson,Adams 3,Comptroller,,LIB,Gallaudet,4
+Jefferson,Adams 3,Comptroller,,,Write-ins,4
+Jefferson,Alexandria 1,Comptroller,,DEM,DiNapoli,3
+Jefferson,Alexandria 1,Comptroller,,REP,Trichter,3
+Jefferson,Alexandria 1,Comptroller,,CON,Trichter,3
+Jefferson,Alexandria 1,Comptroller,,GRE,Dunlea,3
+Jefferson,Alexandria 1,Comptroller,,WF,DiNapoli,3
+Jefferson,Alexandria 1,Comptroller,,IND,DiNapoli,3
+Jefferson,Alexandria 1,Comptroller,,WEP,DiNapoli,3
+Jefferson,Alexandria 1,Comptroller,,REF,DiNapoli,3
+Jefferson,Alexandria 1,Comptroller,,LIB,Gallaudet,3
+Jefferson,Alexandria 1,Comptroller,,,Write-ins,3
+Jefferson,Alexandria 2,Comptroller,,DEM,DiNapoli,2
+Jefferson,Alexandria 2,Comptroller,,REP,Trichter,2
+Jefferson,Alexandria 2,Comptroller,,CON,Trichter,2
+Jefferson,Alexandria 2,Comptroller,,GRE,Dunlea,2
+Jefferson,Alexandria 2,Comptroller,,WF,DiNapoli,2
+Jefferson,Alexandria 2,Comptroller,,IND,DiNapoli,2
+Jefferson,Alexandria 2,Comptroller,,WEP,DiNapoli,2
+Jefferson,Alexandria 2,Comptroller,,REF,DiNapoli,2
+Jefferson,Alexandria 2,Comptroller,,LIB,Gallaudet,2
+Jefferson,Alexandria 2,Comptroller,,,Write-ins,2
+Jefferson,Alexandria 3,Comptroller,,DEM,DiNapoli,1
+Jefferson,Alexandria 3,Comptroller,,REP,Trichter,1
+Jefferson,Alexandria 3,Comptroller,,CON,Trichter,1
+Jefferson,Alexandria 3,Comptroller,,GRE,Dunlea,1
+Jefferson,Alexandria 3,Comptroller,,WF,DiNapoli,1
+Jefferson,Alexandria 3,Comptroller,,IND,DiNapoli,1
+Jefferson,Alexandria 3,Comptroller,,WEP,DiNapoli,1
+Jefferson,Alexandria 3,Comptroller,,REF,DiNapoli,1
+Jefferson,Alexandria 3,Comptroller,,LIB,Gallaudet,1
+Jefferson,Alexandria 3,Comptroller,,,Write-ins,1
+Jefferson,Antwerp 1,Comptroller,,DEM,DiNapoli,1
+Jefferson,Antwerp 1,Comptroller,,REP,Trichter,1
+Jefferson,Antwerp 1,Comptroller,,CON,Trichter,1
+Jefferson,Antwerp 1,Comptroller,,GRE,Dunlea,1
+Jefferson,Antwerp 1,Comptroller,,WF,DiNapoli,1
+Jefferson,Antwerp 1,Comptroller,,IND,DiNapoli,1
+Jefferson,Antwerp 1,Comptroller,,WEP,DiNapoli,1
+Jefferson,Antwerp 1,Comptroller,,REF,DiNapoli,1
+Jefferson,Antwerp 1,Comptroller,,LIB,Gallaudet,1
+Jefferson,Antwerp 1,Comptroller,,,Write-ins,1
+Jefferson,Antwerp 2,Comptroller,,DEM,DiNapoli,0
+Jefferson,Antwerp 2,Comptroller,,REP,Trichter,0
+Jefferson,Antwerp 2,Comptroller,,CON,Trichter,0
+Jefferson,Antwerp 2,Comptroller,,GRE,Dunlea,0
+Jefferson,Antwerp 2,Comptroller,,WF,DiNapoli,0
+Jefferson,Antwerp 2,Comptroller,,IND,DiNapoli,0
+Jefferson,Antwerp 2,Comptroller,,WEP,DiNapoli,0
+Jefferson,Antwerp 2,Comptroller,,REF,DiNapoli,0
+Jefferson,Antwerp 2,Comptroller,,LIB,Gallaudet,0
+Jefferson,Antwerp 2,Comptroller,,,Write-ins,0
+Jefferson,Brownville 1,Comptroller,,DEM,DiNapoli,2
+Jefferson,Brownville 1,Comptroller,,REP,Trichter,2
+Jefferson,Brownville 1,Comptroller,,CON,Trichter,2
+Jefferson,Brownville 1,Comptroller,,GRE,Dunlea,2
+Jefferson,Brownville 1,Comptroller,,WF,DiNapoli,2
+Jefferson,Brownville 1,Comptroller,,IND,DiNapoli,2
+Jefferson,Brownville 1,Comptroller,,WEP,DiNapoli,2
+Jefferson,Brownville 1,Comptroller,,REF,DiNapoli,2
+Jefferson,Brownville 1,Comptroller,,LIB,Gallaudet,2
+Jefferson,Brownville 1,Comptroller,,,Write-ins,2
+Jefferson,Brownville 2,Comptroller,,DEM,DiNapoli,1
+Jefferson,Brownville 2,Comptroller,,REP,Trichter,1
+Jefferson,Brownville 2,Comptroller,,CON,Trichter,1
+Jefferson,Brownville 2,Comptroller,,GRE,Dunlea,1
+Jefferson,Brownville 2,Comptroller,,WF,DiNapoli,1
+Jefferson,Brownville 2,Comptroller,,IND,DiNapoli,1
+Jefferson,Brownville 2,Comptroller,,WEP,DiNapoli,1
+Jefferson,Brownville 2,Comptroller,,REF,DiNapoli,1
+Jefferson,Brownville 2,Comptroller,,LIB,Gallaudet,1
+Jefferson,Brownville 2,Comptroller,,,Write-ins,1
+Jefferson,Brownville 3,Comptroller,,DEM,DiNapoli,2
+Jefferson,Brownville 3,Comptroller,,REP,Trichter,2
+Jefferson,Brownville 3,Comptroller,,CON,Trichter,2
+Jefferson,Brownville 3,Comptroller,,GRE,Dunlea,2
+Jefferson,Brownville 3,Comptroller,,WF,DiNapoli,2
+Jefferson,Brownville 3,Comptroller,,IND,DiNapoli,2
+Jefferson,Brownville 3,Comptroller,,WEP,DiNapoli,2
+Jefferson,Brownville 3,Comptroller,,REF,DiNapoli,2
+Jefferson,Brownville 3,Comptroller,,LIB,Gallaudet,2
+Jefferson,Brownville 3,Comptroller,,,Write-ins,2
+Jefferson,Brownville 4,Comptroller,,DEM,DiNapoli,2
+Jefferson,Brownville 4,Comptroller,,REP,Trichter,2
+Jefferson,Brownville 4,Comptroller,,CON,Trichter,2
+Jefferson,Brownville 4,Comptroller,,GRE,Dunlea,2
+Jefferson,Brownville 4,Comptroller,,WF,DiNapoli,2
+Jefferson,Brownville 4,Comptroller,,IND,DiNapoli,2
+Jefferson,Brownville 4,Comptroller,,WEP,DiNapoli,2
+Jefferson,Brownville 4,Comptroller,,REF,DiNapoli,2
+Jefferson,Brownville 4,Comptroller,,LIB,Gallaudet,2
+Jefferson,Brownville 4,Comptroller,,,Write-ins,2
+Jefferson,Brownville 5,Comptroller,,DEM,DiNapoli,0
+Jefferson,Brownville 5,Comptroller,,REP,Trichter,0
+Jefferson,Brownville 5,Comptroller,,CON,Trichter,0
+Jefferson,Brownville 5,Comptroller,,GRE,Dunlea,0
+Jefferson,Brownville 5,Comptroller,,WF,DiNapoli,0
+Jefferson,Brownville 5,Comptroller,,IND,DiNapoli,0
+Jefferson,Brownville 5,Comptroller,,WEP,DiNapoli,0
+Jefferson,Brownville 5,Comptroller,,REF,DiNapoli,0
+Jefferson,Brownville 5,Comptroller,,LIB,Gallaudet,0
+Jefferson,Brownville 5,Comptroller,,,Write-ins,0
+Jefferson,Cape Vincent 1,Comptroller,,DEM,DiNapoli,0
+Jefferson,Cape Vincent 1,Comptroller,,REP,Trichter,0
+Jefferson,Cape Vincent 1,Comptroller,,CON,Trichter,0
+Jefferson,Cape Vincent 1,Comptroller,,GRE,Dunlea,0
+Jefferson,Cape Vincent 1,Comptroller,,WF,DiNapoli,0
+Jefferson,Cape Vincent 1,Comptroller,,IND,DiNapoli,0
+Jefferson,Cape Vincent 1,Comptroller,,WEP,DiNapoli,0
+Jefferson,Cape Vincent 1,Comptroller,,REF,DiNapoli,0
+Jefferson,Cape Vincent 1,Comptroller,,LIB,Gallaudet,0
+Jefferson,Cape Vincent 1,Comptroller,,,Write-ins,0
+Jefferson,Cape Vincent 2,Comptroller,,DEM,DiNapoli,3
+Jefferson,Cape Vincent 2,Comptroller,,REP,Trichter,3
+Jefferson,Cape Vincent 2,Comptroller,,CON,Trichter,3
+Jefferson,Cape Vincent 2,Comptroller,,GRE,Dunlea,3
+Jefferson,Cape Vincent 2,Comptroller,,WF,DiNapoli,3
+Jefferson,Cape Vincent 2,Comptroller,,IND,DiNapoli,3
+Jefferson,Cape Vincent 2,Comptroller,,WEP,DiNapoli,3
+Jefferson,Cape Vincent 2,Comptroller,,REF,DiNapoli,3
+Jefferson,Cape Vincent 2,Comptroller,,LIB,Gallaudet,3
+Jefferson,Cape Vincent 2,Comptroller,,,Write-ins,3
+Jefferson,Champion 1,Comptroller,,DEM,DiNapoli,4
+Jefferson,Champion 1,Comptroller,,REP,Trichter,4
+Jefferson,Champion 1,Comptroller,,CON,Trichter,4
+Jefferson,Champion 1,Comptroller,,GRE,Dunlea,4
+Jefferson,Champion 1,Comptroller,,WF,DiNapoli,4
+Jefferson,Champion 1,Comptroller,,IND,DiNapoli,4
+Jefferson,Champion 1,Comptroller,,WEP,DiNapoli,4
+Jefferson,Champion 1,Comptroller,,REF,DiNapoli,4
+Jefferson,Champion 1,Comptroller,,LIB,Gallaudet,4
+Jefferson,Champion 1,Comptroller,,,Write-ins,4
+Jefferson,Champion 2,Comptroller,,DEM,DiNapoli,0
+Jefferson,Champion 2,Comptroller,,REP,Trichter,0
+Jefferson,Champion 2,Comptroller,,CON,Trichter,0
+Jefferson,Champion 2,Comptroller,,GRE,Dunlea,0
+Jefferson,Champion 2,Comptroller,,WF,DiNapoli,0
+Jefferson,Champion 2,Comptroller,,IND,DiNapoli,0
+Jefferson,Champion 2,Comptroller,,WEP,DiNapoli,0
+Jefferson,Champion 2,Comptroller,,REF,DiNapoli,0
+Jefferson,Champion 2,Comptroller,,LIB,Gallaudet,0
+Jefferson,Champion 2,Comptroller,,,Write-ins,0
+Jefferson,Clayton 1,Comptroller,,DEM,DiNapoli,1
+Jefferson,Clayton 1,Comptroller,,REP,Trichter,1
+Jefferson,Clayton 1,Comptroller,,CON,Trichter,1
+Jefferson,Clayton 1,Comptroller,,GRE,Dunlea,1
+Jefferson,Clayton 1,Comptroller,,WF,DiNapoli,1
+Jefferson,Clayton 1,Comptroller,,IND,DiNapoli,1
+Jefferson,Clayton 1,Comptroller,,WEP,DiNapoli,1
+Jefferson,Clayton 1,Comptroller,,REF,DiNapoli,1
+Jefferson,Clayton 1,Comptroller,,LIB,Gallaudet,1
+Jefferson,Clayton 1,Comptroller,,,Write-ins,1
+Jefferson,Clayton 2,Comptroller,,DEM,DiNapoli,1
+Jefferson,Clayton 2,Comptroller,,REP,Trichter,1
+Jefferson,Clayton 2,Comptroller,,CON,Trichter,1
+Jefferson,Clayton 2,Comptroller,,GRE,Dunlea,1
+Jefferson,Clayton 2,Comptroller,,WF,DiNapoli,1
+Jefferson,Clayton 2,Comptroller,,IND,DiNapoli,1
+Jefferson,Clayton 2,Comptroller,,WEP,DiNapoli,1
+Jefferson,Clayton 2,Comptroller,,REF,DiNapoli,1
+Jefferson,Clayton 2,Comptroller,,LIB,Gallaudet,1
+Jefferson,Clayton 2,Comptroller,,,Write-ins,1
+Jefferson,Clayton 3,Comptroller,,DEM,DiNapoli,2
+Jefferson,Clayton 3,Comptroller,,REP,Trichter,2
+Jefferson,Clayton 3,Comptroller,,CON,Trichter,2
+Jefferson,Clayton 3,Comptroller,,GRE,Dunlea,2
+Jefferson,Clayton 3,Comptroller,,WF,DiNapoli,2
+Jefferson,Clayton 3,Comptroller,,IND,DiNapoli,2
+Jefferson,Clayton 3,Comptroller,,WEP,DiNapoli,2
+Jefferson,Clayton 3,Comptroller,,REF,DiNapoli,2
+Jefferson,Clayton 3,Comptroller,,LIB,Gallaudet,2
+Jefferson,Clayton 3,Comptroller,,,Write-ins,2
+Jefferson,Ellisburg 1,Comptroller,,DEM,DiNapoli,2
+Jefferson,Ellisburg 1,Comptroller,,REP,Trichter,2
+Jefferson,Ellisburg 1,Comptroller,,CON,Trichter,2
+Jefferson,Ellisburg 1,Comptroller,,GRE,Dunlea,2
+Jefferson,Ellisburg 1,Comptroller,,WF,DiNapoli,2
+Jefferson,Ellisburg 1,Comptroller,,IND,DiNapoli,2
+Jefferson,Ellisburg 1,Comptroller,,WEP,DiNapoli,2
+Jefferson,Ellisburg 1,Comptroller,,REF,DiNapoli,2
+Jefferson,Ellisburg 1,Comptroller,,LIB,Gallaudet,2
+Jefferson,Ellisburg 1,Comptroller,,,Write-ins,2
+Jefferson,Elllisburg 2,Comptroller,,DEM,DiNapoli,1
+Jefferson,Elllisburg 2,Comptroller,,REP,Trichter,1
+Jefferson,Elllisburg 2,Comptroller,,CON,Trichter,1
+Jefferson,Elllisburg 2,Comptroller,,GRE,Dunlea,1
+Jefferson,Elllisburg 2,Comptroller,,WF,DiNapoli,1
+Jefferson,Elllisburg 2,Comptroller,,IND,DiNapoli,1
+Jefferson,Elllisburg 2,Comptroller,,WEP,DiNapoli,1
+Jefferson,Elllisburg 2,Comptroller,,REF,DiNapoli,1
+Jefferson,Elllisburg 2,Comptroller,,LIB,Gallaudet,1
+Jefferson,Elllisburg 2,Comptroller,,,Write-ins,1
+Jefferson,Ellisburg 3,Comptroller,,DEM,DiNapoli,0
+Jefferson,Ellisburg 3,Comptroller,,REP,Trichter,0
+Jefferson,Ellisburg 3,Comptroller,,CON,Trichter,0
+Jefferson,Ellisburg 3,Comptroller,,GRE,Dunlea,0
+Jefferson,Ellisburg 3,Comptroller,,WF,DiNapoli,0
+Jefferson,Ellisburg 3,Comptroller,,IND,DiNapoli,0
+Jefferson,Ellisburg 3,Comptroller,,WEP,DiNapoli,0
+Jefferson,Ellisburg 3,Comptroller,,REF,DiNapoli,0
+Jefferson,Ellisburg 3,Comptroller,,LIB,Gallaudet,0
+Jefferson,Ellisburg 3,Comptroller,,,Write-ins,0
+Jefferson,Ellisburg 4,Comptroller,,DEM,DiNapoli,1
+Jefferson,Ellisburg 4,Comptroller,,REP,Trichter,1
+Jefferson,Ellisburg 4,Comptroller,,CON,Trichter,1
+Jefferson,Ellisburg 4,Comptroller,,GRE,Dunlea,1
+Jefferson,Ellisburg 4,Comptroller,,WF,DiNapoli,1
+Jefferson,Ellisburg 4,Comptroller,,IND,DiNapoli,1
+Jefferson,Ellisburg 4,Comptroller,,WEP,DiNapoli,1
+Jefferson,Ellisburg 4,Comptroller,,REF,DiNapoli,1
+Jefferson,Ellisburg 4,Comptroller,,LIB,Gallaudet,1
+Jefferson,Ellisburg 4,Comptroller,,,Write-ins,1
+Jefferson,Henderson 1,Comptroller,,DEM,DiNapoli,3
+Jefferson,Henderson 1,Comptroller,,REP,Trichter,3
+Jefferson,Henderson 1,Comptroller,,CON,Trichter,3
+Jefferson,Henderson 1,Comptroller,,GRE,Dunlea,3
+Jefferson,Henderson 1,Comptroller,,WF,DiNapoli,3
+Jefferson,Henderson 1,Comptroller,,IND,DiNapoli,3
+Jefferson,Henderson 1,Comptroller,,WEP,DiNapoli,3
+Jefferson,Henderson 1,Comptroller,,REF,DiNapoli,3
+Jefferson,Henderson 1,Comptroller,,LIB,Gallaudet,3
+Jefferson,Henderson 1,Comptroller,,,Write-ins,3
+Jefferson,Hounsfield 1,Comptroller,,DEM,DiNapoli,1
+Jefferson,Hounsfield 1,Comptroller,,REP,Trichter,1
+Jefferson,Hounsfield 1,Comptroller,,CON,Trichter,1
+Jefferson,Hounsfield 1,Comptroller,,GRE,Dunlea,1
+Jefferson,Hounsfield 1,Comptroller,,WF,DiNapoli,1
+Jefferson,Hounsfield 1,Comptroller,,IND,DiNapoli,1
+Jefferson,Hounsfield 1,Comptroller,,WEP,DiNapoli,1
+Jefferson,Hounsfield 1,Comptroller,,REF,DiNapoli,1
+Jefferson,Hounsfield 1,Comptroller,,LIB,Gallaudet,1
+Jefferson,Hounsfield 1,Comptroller,,,Write-ins,1
+Jefferson,Hounsfield 2,Comptroller,,DEM,DiNapoli,0
+Jefferson,Hounsfield 2,Comptroller,,REP,Trichter,0
+Jefferson,Hounsfield 2,Comptroller,,CON,Trichter,0
+Jefferson,Hounsfield 2,Comptroller,,GRE,Dunlea,0
+Jefferson,Hounsfield 2,Comptroller,,WF,DiNapoli,0
+Jefferson,Hounsfield 2,Comptroller,,IND,DiNapoli,0
+Jefferson,Hounsfield 2,Comptroller,,WEP,DiNapoli,0
+Jefferson,Hounsfield 2,Comptroller,,REF,DiNapoli,0
+Jefferson,Hounsfield 2,Comptroller,,LIB,Gallaudet,0
+Jefferson,Hounsfield 2,Comptroller,,,Write-ins,0
+Jefferson,LeRay 1,Comptroller,,DEM,DiNapoli,0
+Jefferson,LeRay 1,Comptroller,,REP,Trichter,0
+Jefferson,LeRay 1,Comptroller,,CON,Trichter,0
+Jefferson,LeRay 1,Comptroller,,GRE,Dunlea,0
+Jefferson,LeRay 1,Comptroller,,WF,DiNapoli,0
+Jefferson,LeRay 1,Comptroller,,IND,DiNapoli,0
+Jefferson,LeRay 1,Comptroller,,WEP,DiNapoli,0
+Jefferson,LeRay 1,Comptroller,,REF,DiNapoli,0
+Jefferson,LeRay 1,Comptroller,,LIB,Gallaudet,0
+Jefferson,LeRay 1,Comptroller,,,Write-ins,0
+Jefferson,LeRay 2,Comptroller,,DEM,DiNapoli,1
+Jefferson,LeRay 2,Comptroller,,REP,Trichter,1
+Jefferson,LeRay 2,Comptroller,,CON,Trichter,1
+Jefferson,LeRay 2,Comptroller,,GRE,Dunlea,1
+Jefferson,LeRay 2,Comptroller,,WF,DiNapoli,1
+Jefferson,LeRay 2,Comptroller,,IND,DiNapoli,1
+Jefferson,LeRay 2,Comptroller,,WEP,DiNapoli,1
+Jefferson,LeRay 2,Comptroller,,REF,DiNapoli,1
+Jefferson,LeRay 2,Comptroller,,LIB,Gallaudet,1
+Jefferson,LeRay 2,Comptroller,,,Write-ins,1
+Jefferson,LeRay 3,Comptroller,,DEM,DiNapoli,1
+Jefferson,LeRay 3,Comptroller,,REP,Trichter,1
+Jefferson,LeRay 3,Comptroller,,CON,Trichter,1
+Jefferson,LeRay 3,Comptroller,,GRE,Dunlea,1
+Jefferson,LeRay 3,Comptroller,,WF,DiNapoli,1
+Jefferson,LeRay 3,Comptroller,,IND,DiNapoli,1
+Jefferson,LeRay 3,Comptroller,,WEP,DiNapoli,1
+Jefferson,LeRay 3,Comptroller,,REF,DiNapoli,1
+Jefferson,LeRay 3,Comptroller,,LIB,Gallaudet,1
+Jefferson,LeRay 3,Comptroller,,,Write-ins,1
+Jefferson,LeRay 4,Comptroller,,DEM,DiNapoli,0
+Jefferson,LeRay 4,Comptroller,,REP,Trichter,0
+Jefferson,LeRay 4,Comptroller,,CON,Trichter,0
+Jefferson,LeRay 4,Comptroller,,GRE,Dunlea,0
+Jefferson,LeRay 4,Comptroller,,WF,DiNapoli,0
+Jefferson,LeRay 4,Comptroller,,IND,DiNapoli,0
+Jefferson,LeRay 4,Comptroller,,WEP,DiNapoli,0
+Jefferson,LeRay 4,Comptroller,,REF,DiNapoli,0
+Jefferson,LeRay 4,Comptroller,,LIB,Gallaudet,0
+Jefferson,LeRay 4,Comptroller,,,Write-ins,0
+Jefferson,LeRay 5,Comptroller,,DEM,DiNapoli,1
+Jefferson,LeRay 5,Comptroller,,REP,Trichter,1
+Jefferson,LeRay 5,Comptroller,,CON,Trichter,1
+Jefferson,LeRay 5,Comptroller,,GRE,Dunlea,1
+Jefferson,LeRay 5,Comptroller,,WF,DiNapoli,1
+Jefferson,LeRay 5,Comptroller,,IND,DiNapoli,1
+Jefferson,LeRay 5,Comptroller,,WEP,DiNapoli,1
+Jefferson,LeRay 5,Comptroller,,REF,DiNapoli,1
+Jefferson,LeRay 5,Comptroller,,LIB,Gallaudet,1
+Jefferson,LeRay 5,Comptroller,,,Write-ins,1
+Jefferson,LeRay 6,Comptroller,,DEM,DiNapoli,0
+Jefferson,LeRay 6,Comptroller,,REP,Trichter,0
+Jefferson,LeRay 6,Comptroller,,CON,Trichter,0
+Jefferson,LeRay 6,Comptroller,,GRE,Dunlea,0
+Jefferson,LeRay 6,Comptroller,,WF,DiNapoli,0
+Jefferson,LeRay 6,Comptroller,,IND,DiNapoli,0
+Jefferson,LeRay 6,Comptroller,,WEP,DiNapoli,0
+Jefferson,LeRay 6,Comptroller,,REF,DiNapoli,0
+Jefferson,LeRay 6,Comptroller,,LIB,Gallaudet,0
+Jefferson,LeRay 6,Comptroller,,,Write-ins,0
+Jefferson,LeRay 7,Comptroller,,DEM,DiNapoli,0
+Jefferson,LeRay 7,Comptroller,,REP,Trichter,0
+Jefferson,LeRay 7,Comptroller,,CON,Trichter,0
+Jefferson,LeRay 7,Comptroller,,GRE,Dunlea,0
+Jefferson,LeRay 7,Comptroller,,WF,DiNapoli,0
+Jefferson,LeRay 7,Comptroller,,IND,DiNapoli,0
+Jefferson,LeRay 7,Comptroller,,WEP,DiNapoli,0
+Jefferson,LeRay 7,Comptroller,,REF,DiNapoli,0
+Jefferson,LeRay 7,Comptroller,,LIB,Gallaudet,0
+Jefferson,LeRay 7,Comptroller,,,Write-ins,0
+Jefferson,LeRay 8,Comptroller,,DEM,DiNapoli,2
+Jefferson,LeRay 8,Comptroller,,REP,Trichter,2
+Jefferson,LeRay 8,Comptroller,,CON,Trichter,2
+Jefferson,LeRay 8,Comptroller,,GRE,Dunlea,2
+Jefferson,LeRay 8,Comptroller,,WF,DiNapoli,2
+Jefferson,LeRay 8,Comptroller,,IND,DiNapoli,2
+Jefferson,LeRay 8,Comptroller,,WEP,DiNapoli,2
+Jefferson,LeRay 8,Comptroller,,REF,DiNapoli,2
+Jefferson,LeRay 8,Comptroller,,LIB,Gallaudet,2
+Jefferson,LeRay 8,Comptroller,,,Write-ins,2
+Jefferson,Lorraine 1,Comptroller,,DEM,DiNapoli,0
+Jefferson,Lorraine 1,Comptroller,,REP,Trichter,0
+Jefferson,Lorraine 1,Comptroller,,CON,Trichter,0
+Jefferson,Lorraine 1,Comptroller,,GRE,Dunlea,0
+Jefferson,Lorraine 1,Comptroller,,WF,DiNapoli,0
+Jefferson,Lorraine 1,Comptroller,,IND,DiNapoli,0
+Jefferson,Lorraine 1,Comptroller,,WEP,DiNapoli,0
+Jefferson,Lorraine 1,Comptroller,,REF,DiNapoli,0
+Jefferson,Lorraine 1,Comptroller,,LIB,Gallaudet,0
+Jefferson,Lorraine 1,Comptroller,,,Write-ins,0
+Jefferson,Lyme 1,Comptroller,,DEM,DiNapoli,0
+Jefferson,Lyme 1,Comptroller,,REP,Trichter,0
+Jefferson,Lyme 1,Comptroller,,CON,Trichter,0
+Jefferson,Lyme 1,Comptroller,,GRE,Dunlea,0
+Jefferson,Lyme 1,Comptroller,,WF,DiNapoli,0
+Jefferson,Lyme 1,Comptroller,,IND,DiNapoli,0
+Jefferson,Lyme 1,Comptroller,,WEP,DiNapoli,0
+Jefferson,Lyme 1,Comptroller,,REF,DiNapoli,0
+Jefferson,Lyme 1,Comptroller,,LIB,Gallaudet,0
+Jefferson,Lyme 1,Comptroller,,,Write-ins,0
+Jefferson,Lyme 2,Comptroller,,DEM,DiNapoli,4
+Jefferson,Lyme 2,Comptroller,,REP,Trichter,4
+Jefferson,Lyme 2,Comptroller,,CON,Trichter,4
+Jefferson,Lyme 2,Comptroller,,GRE,Dunlea,4
+Jefferson,Lyme 2,Comptroller,,WF,DiNapoli,4
+Jefferson,Lyme 2,Comptroller,,IND,DiNapoli,4
+Jefferson,Lyme 2,Comptroller,,WEP,DiNapoli,4
+Jefferson,Lyme 2,Comptroller,,REF,DiNapoli,4
+Jefferson,Lyme 2,Comptroller,,LIB,Gallaudet,4
+Jefferson,Lyme 2,Comptroller,,,Write-ins,4
+Jefferson,Lyme 3,Comptroller,,DEM,DiNapoli,1
+Jefferson,Lyme 3,Comptroller,,REP,Trichter,1
+Jefferson,Lyme 3,Comptroller,,CON,Trichter,1
+Jefferson,Lyme 3,Comptroller,,GRE,Dunlea,1
+Jefferson,Lyme 3,Comptroller,,WF,DiNapoli,1
+Jefferson,Lyme 3,Comptroller,,IND,DiNapoli,1
+Jefferson,Lyme 3,Comptroller,,WEP,DiNapoli,1
+Jefferson,Lyme 3,Comptroller,,REF,DiNapoli,1
+Jefferson,Lyme 3,Comptroller,,LIB,Gallaudet,1
+Jefferson,Lyme 3,Comptroller,,,Write-ins,1
+Jefferson,Orleans 1,Comptroller,,DEM,DiNapoli,2
+Jefferson,Orleans 1,Comptroller,,REP,Trichter,2
+Jefferson,Orleans 1,Comptroller,,CON,Trichter,2
+Jefferson,Orleans 1,Comptroller,,GRE,Dunlea,2
+Jefferson,Orleans 1,Comptroller,,WF,DiNapoli,2
+Jefferson,Orleans 1,Comptroller,,IND,DiNapoli,2
+Jefferson,Orleans 1,Comptroller,,WEP,DiNapoli,2
+Jefferson,Orleans 1,Comptroller,,REF,DiNapoli,2
+Jefferson,Orleans 1,Comptroller,,LIB,Gallaudet,2
+Jefferson,Orleans 1,Comptroller,,,Write-ins,2
+Jefferson,Orleans 2,Comptroller,,DEM,DiNapoli,1
+Jefferson,Orleans 2,Comptroller,,REP,Trichter,1
+Jefferson,Orleans 2,Comptroller,,CON,Trichter,1
+Jefferson,Orleans 2,Comptroller,,GRE,Dunlea,1
+Jefferson,Orleans 2,Comptroller,,WF,DiNapoli,1
+Jefferson,Orleans 2,Comptroller,,IND,DiNapoli,1
+Jefferson,Orleans 2,Comptroller,,WEP,DiNapoli,1
+Jefferson,Orleans 2,Comptroller,,REF,DiNapoli,1
+Jefferson,Orleans 2,Comptroller,,LIB,Gallaudet,1
+Jefferson,Orleans 2,Comptroller,,,Write-ins,1
+Jefferson,Pamelia 1,Comptroller,,DEM,DiNapoli,2
+Jefferson,Pamelia 1,Comptroller,,REP,Trichter,2
+Jefferson,Pamelia 1,Comptroller,,CON,Trichter,2
+Jefferson,Pamelia 1,Comptroller,,GRE,Dunlea,2
+Jefferson,Pamelia 1,Comptroller,,WF,DiNapoli,2
+Jefferson,Pamelia 1,Comptroller,,IND,DiNapoli,2
+Jefferson,Pamelia 1,Comptroller,,WEP,DiNapoli,2
+Jefferson,Pamelia 1,Comptroller,,REF,DiNapoli,2
+Jefferson,Pamelia 1,Comptroller,,LIB,Gallaudet,2
+Jefferson,Pamelia 1,Comptroller,,,Write-ins,2
+Jefferson,Pamelia 2,Comptroller,,DEM,DiNapoli,2
+Jefferson,Pamelia 2,Comptroller,,REP,Trichter,2
+Jefferson,Pamelia 2,Comptroller,,CON,Trichter,2
+Jefferson,Pamelia 2,Comptroller,,GRE,Dunlea,2
+Jefferson,Pamelia 2,Comptroller,,WF,DiNapoli,2
+Jefferson,Pamelia 2,Comptroller,,IND,DiNapoli,2
+Jefferson,Pamelia 2,Comptroller,,WEP,DiNapoli,2
+Jefferson,Pamelia 2,Comptroller,,REF,DiNapoli,2
+Jefferson,Pamelia 2,Comptroller,,LIB,Gallaudet,2
+Jefferson,Pamelia 2,Comptroller,,,Write-ins,2
+Jefferson,Philadelphia 1,Comptroller,,DEM,DiNapoli,2
+Jefferson,Philadelphia 1,Comptroller,,REP,Trichter,2
+Jefferson,Philadelphia 1,Comptroller,,CON,Trichter,2
+Jefferson,Philadelphia 1,Comptroller,,GRE,Dunlea,2
+Jefferson,Philadelphia 1,Comptroller,,WF,DiNapoli,2
+Jefferson,Philadelphia 1,Comptroller,,IND,DiNapoli,2
+Jefferson,Philadelphia 1,Comptroller,,WEP,DiNapoli,2
+Jefferson,Philadelphia 1,Comptroller,,REF,DiNapoli,2
+Jefferson,Philadelphia 1,Comptroller,,LIB,Gallaudet,2
+Jefferson,Philadelphia 1,Comptroller,,,Write-ins,2
+Jefferson,Philadelphia 2,Comptroller,,DEM,DiNapoli,3
+Jefferson,Philadelphia 2,Comptroller,,REP,Trichter,3
+Jefferson,Philadelphia 2,Comptroller,,CON,Trichter,3
+Jefferson,Philadelphia 2,Comptroller,,GRE,Dunlea,3
+Jefferson,Philadelphia 2,Comptroller,,WF,DiNapoli,3
+Jefferson,Philadelphia 2,Comptroller,,IND,DiNapoli,3
+Jefferson,Philadelphia 2,Comptroller,,WEP,DiNapoli,3
+Jefferson,Philadelphia 2,Comptroller,,REF,DiNapoli,3
+Jefferson,Philadelphia 2,Comptroller,,LIB,Gallaudet,3
+Jefferson,Philadelphia 2,Comptroller,,,Write-ins,3
+Jefferson,Rodman 1,Comptroller,,DEM,DiNapoli,1
+Jefferson,Rodman 1,Comptroller,,REP,Trichter,1
+Jefferson,Rodman 1,Comptroller,,CON,Trichter,1
+Jefferson,Rodman 1,Comptroller,,GRE,Dunlea,1
+Jefferson,Rodman 1,Comptroller,,WF,DiNapoli,1
+Jefferson,Rodman 1,Comptroller,,IND,DiNapoli,1
+Jefferson,Rodman 1,Comptroller,,WEP,DiNapoli,1
+Jefferson,Rodman 1,Comptroller,,REF,DiNapoli,1
+Jefferson,Rodman 1,Comptroller,,LIB,Gallaudet,1
+Jefferson,Rodman 1,Comptroller,,,Write-ins,1
+Jefferson,Rutland 1,Comptroller,,DEM,DiNapoli,0
+Jefferson,Rutland 1,Comptroller,,REP,Trichter,0
+Jefferson,Rutland 1,Comptroller,,CON,Trichter,0
+Jefferson,Rutland 1,Comptroller,,GRE,Dunlea,0
+Jefferson,Rutland 1,Comptroller,,WF,DiNapoli,0
+Jefferson,Rutland 1,Comptroller,,IND,DiNapoli,0
+Jefferson,Rutland 1,Comptroller,,WEP,DiNapoli,0
+Jefferson,Rutland 1,Comptroller,,REF,DiNapoli,0
+Jefferson,Rutland 1,Comptroller,,LIB,Gallaudet,0
+Jefferson,Rutland 1,Comptroller,,,Write-ins,0
+Jefferson,Rutland 2,Comptroller,,DEM,DiNapoli,2
+Jefferson,Rutland 2,Comptroller,,REP,Trichter,2
+Jefferson,Rutland 2,Comptroller,,CON,Trichter,2
+Jefferson,Rutland 2,Comptroller,,GRE,Dunlea,2
+Jefferson,Rutland 2,Comptroller,,WF,DiNapoli,2
+Jefferson,Rutland 2,Comptroller,,IND,DiNapoli,2
+Jefferson,Rutland 2,Comptroller,,WEP,DiNapoli,2
+Jefferson,Rutland 2,Comptroller,,REF,DiNapoli,2
+Jefferson,Rutland 2,Comptroller,,LIB,Gallaudet,2
+Jefferson,Rutland 2,Comptroller,,,Write-ins,2
+Jefferson,Rutland 3,Comptroller,,DEM,DiNapoli,1
+Jefferson,Rutland 3,Comptroller,,REP,Trichter,1
+Jefferson,Rutland 3,Comptroller,,CON,Trichter,1
+Jefferson,Rutland 3,Comptroller,,GRE,Dunlea,1
+Jefferson,Rutland 3,Comptroller,,WF,DiNapoli,1
+Jefferson,Rutland 3,Comptroller,,IND,DiNapoli,1
+Jefferson,Rutland 3,Comptroller,,WEP,DiNapoli,1
+Jefferson,Rutland 3,Comptroller,,REF,DiNapoli,1
+Jefferson,Rutland 3,Comptroller,,LIB,Gallaudet,1
+Jefferson,Rutland 3,Comptroller,,,Write-ins,1
+Jefferson,Theresa 1,Comptroller,,DEM,DiNapoli,3
+Jefferson,Theresa 1,Comptroller,,REP,Trichter,3
+Jefferson,Theresa 1,Comptroller,,CON,Trichter,3
+Jefferson,Theresa 1,Comptroller,,GRE,Dunlea,3
+Jefferson,Theresa 1,Comptroller,,WF,DiNapoli,3
+Jefferson,Theresa 1,Comptroller,,IND,DiNapoli,3
+Jefferson,Theresa 1,Comptroller,,WEP,DiNapoli,3
+Jefferson,Theresa 1,Comptroller,,REF,DiNapoli,3
+Jefferson,Theresa 1,Comptroller,,LIB,Gallaudet,3
+Jefferson,Theresa 1,Comptroller,,,Write-ins,3
+Jefferson,Watertown 1,Comptroller,,DEM,DiNapoli,0
+Jefferson,Watertown 1,Comptroller,,REP,Trichter,0
+Jefferson,Watertown 1,Comptroller,,CON,Trichter,0
+Jefferson,Watertown 1,Comptroller,,GRE,Dunlea,0
+Jefferson,Watertown 1,Comptroller,,WF,DiNapoli,0
+Jefferson,Watertown 1,Comptroller,,IND,DiNapoli,0
+Jefferson,Watertown 1,Comptroller,,WEP,DiNapoli,0
+Jefferson,Watertown 1,Comptroller,,REF,DiNapoli,0
+Jefferson,Watertown 1,Comptroller,,LIB,Gallaudet,0
+Jefferson,Watertown 1,Comptroller,,,Write-ins,0
+Jefferson,Watertown 2,Comptroller,,DEM,DiNapoli,0
+Jefferson,Watertown 2,Comptroller,,REP,Trichter,0
+Jefferson,Watertown 2,Comptroller,,CON,Trichter,0
+Jefferson,Watertown 2,Comptroller,,GRE,Dunlea,0
+Jefferson,Watertown 2,Comptroller,,WF,DiNapoli,0
+Jefferson,Watertown 2,Comptroller,,IND,DiNapoli,0
+Jefferson,Watertown 2,Comptroller,,WEP,DiNapoli,0
+Jefferson,Watertown 2,Comptroller,,REF,DiNapoli,0
+Jefferson,Watertown 2,Comptroller,,LIB,Gallaudet,0
+Jefferson,Watertown 2,Comptroller,,,Write-ins,0
+Jefferson,Wilna 1,Comptroller,,DEM,DiNapoli,2
+Jefferson,Wilna 1,Comptroller,,REP,Trichter,2
+Jefferson,Wilna 1,Comptroller,,CON,Trichter,2
+Jefferson,Wilna 1,Comptroller,,GRE,Dunlea,2
+Jefferson,Wilna 1,Comptroller,,WF,DiNapoli,2
+Jefferson,Wilna 1,Comptroller,,IND,DiNapoli,2
+Jefferson,Wilna 1,Comptroller,,WEP,DiNapoli,2
+Jefferson,Wilna 1,Comptroller,,REF,DiNapoli,2
+Jefferson,Wilna 1,Comptroller,,LIB,Gallaudet,2
+Jefferson,Wilna 1,Comptroller,,,Write-ins,2
+Jefferson,Wilna 2,Comptroller,,DEM,DiNapoli,0
+Jefferson,Wilna 2,Comptroller,,REP,Trichter,0
+Jefferson,Wilna 2,Comptroller,,CON,Trichter,0
+Jefferson,Wilna 2,Comptroller,,GRE,Dunlea,0
+Jefferson,Wilna 2,Comptroller,,WF,DiNapoli,0
+Jefferson,Wilna 2,Comptroller,,IND,DiNapoli,0
+Jefferson,Wilna 2,Comptroller,,WEP,DiNapoli,0
+Jefferson,Wilna 2,Comptroller,,REF,DiNapoli,0
+Jefferson,Wilna 2,Comptroller,,LIB,Gallaudet,0
+Jefferson,Wilna 2,Comptroller,,,Write-ins,0
+Jefferson,Wilna 3,Comptroller,,DEM,DiNapoli,0
+Jefferson,Wilna 3,Comptroller,,REP,Trichter,0
+Jefferson,Wilna 3,Comptroller,,CON,Trichter,0
+Jefferson,Wilna 3,Comptroller,,GRE,Dunlea,0
+Jefferson,Wilna 3,Comptroller,,WF,DiNapoli,0
+Jefferson,Wilna 3,Comptroller,,IND,DiNapoli,0
+Jefferson,Wilna 3,Comptroller,,WEP,DiNapoli,0
+Jefferson,Wilna 3,Comptroller,,REF,DiNapoli,0
+Jefferson,Wilna 3,Comptroller,,LIB,Gallaudet,0
+Jefferson,Wilna 3,Comptroller,,,Write-ins,0
+Jefferson,Wilna 4,Comptroller,,DEM,DiNapoli,0
+Jefferson,Wilna 4,Comptroller,,REP,Trichter,0
+Jefferson,Wilna 4,Comptroller,,CON,Trichter,0
+Jefferson,Wilna 4,Comptroller,,GRE,Dunlea,0
+Jefferson,Wilna 4,Comptroller,,WF,DiNapoli,0
+Jefferson,Wilna 4,Comptroller,,IND,DiNapoli,0
+Jefferson,Wilna 4,Comptroller,,WEP,DiNapoli,0
+Jefferson,Wilna 4,Comptroller,,REF,DiNapoli,0
+Jefferson,Wilna 4,Comptroller,,LIB,Gallaudet,0
+Jefferson,Wilna 4,Comptroller,,,Write-ins,0
+Jefferson,Wilna 5,Comptroller,,DEM,DiNapoli,3
+Jefferson,Wilna 5,Comptroller,,REP,Trichter,3
+Jefferson,Wilna 5,Comptroller,,CON,Trichter,3
+Jefferson,Wilna 5,Comptroller,,GRE,Dunlea,3
+Jefferson,Wilna 5,Comptroller,,WF,DiNapoli,3
+Jefferson,Wilna 5,Comptroller,,IND,DiNapoli,3
+Jefferson,Wilna 5,Comptroller,,WEP,DiNapoli,3
+Jefferson,Wilna 5,Comptroller,,REF,DiNapoli,3
+Jefferson,Wilna 5,Comptroller,,LIB,Gallaudet,3
+Jefferson,Wilna 5,Comptroller,,,Write-ins,3
+Jefferson,Worth 1,Comptroller,,DEM,DiNapoli,1
+Jefferson,Worth 1,Comptroller,,REP,Trichter,1
+Jefferson,Worth 1,Comptroller,,CON,Trichter,1
+Jefferson,Worth 1,Comptroller,,GRE,Dunlea,1
+Jefferson,Worth 1,Comptroller,,WF,DiNapoli,1
+Jefferson,Worth 1,Comptroller,,IND,DiNapoli,1
+Jefferson,Worth 1,Comptroller,,WEP,DiNapoli,1
+Jefferson,Worth 1,Comptroller,,REF,DiNapoli,1
+Jefferson,Worth 1,Comptroller,,LIB,Gallaudet,1
+Jefferson,Worth 1,Comptroller,,,Write-ins,1
+Jefferson,Adams 2,Attorney General,,DEM,James,1
+Jefferson,Adams 2,Attorney General,,REP,Wofford,1
+Jefferson,Adams 2,Attorney General,,CON,Wofford,1
+Jefferson,Adams 2,Attorney General,,GREEN,Sussman,1
+Jefferson,Adams 2,Attorney General,,WF,James,1
+Jefferson,Adams 2,Attorney General,,IND,James,1
+Jefferson,Adams 2,Attorney General,,REF,Sliwa,1
+Jefferson,Adams 2,Attorney General,,LIB,Garvey,1
+Jefferson,Adams 2,Attorney General,,,Write-ins,1
+Jefferson,Adams 3,Attorney General,,DEM,James,10
+Jefferson,Adams 3,Attorney General,,REP,Wofford,10
+Jefferson,Adams 3,Attorney General,,CON,Wofford,10
+Jefferson,Adams 3,Attorney General,,GREEN,Sussman,10
+Jefferson,Adams 3,Attorney General,,WF,James,10
+Jefferson,Adams 3,Attorney General,,IND,James,10
+Jefferson,Adams 3,Attorney General,,REF,Sliwa,10
+Jefferson,Adams 3,Attorney General,,LIB,Garvey,10
+Jefferson,Adams 3,Attorney General,,,Write-ins,10
+Jefferson,Alexandria 1,Attorney General,,DEM,James,5
+Jefferson,Alexandria 1,Attorney General,,REP,Wofford,5
+Jefferson,Alexandria 1,Attorney General,,CON,Wofford,5
+Jefferson,Alexandria 1,Attorney General,,GREEN,Sussman,5
+Jefferson,Alexandria 1,Attorney General,,WF,James,5
+Jefferson,Alexandria 1,Attorney General,,IND,James,5
+Jefferson,Alexandria 1,Attorney General,,REF,Sliwa,5
+Jefferson,Alexandria 1,Attorney General,,LIB,Garvey,5
+Jefferson,Alexandria 1,Attorney General,,,Write-ins,5
+Jefferson,Alexandria 2,Attorney General,,DEM,James,4
+Jefferson,Alexandria 2,Attorney General,,REP,Wofford,4
+Jefferson,Alexandria 2,Attorney General,,CON,Wofford,4
+Jefferson,Alexandria 2,Attorney General,,GREEN,Sussman,4
+Jefferson,Alexandria 2,Attorney General,,WF,James,4
+Jefferson,Alexandria 2,Attorney General,,IND,James,4
+Jefferson,Alexandria 2,Attorney General,,REF,Sliwa,4
+Jefferson,Alexandria 2,Attorney General,,LIB,Garvey,4
+Jefferson,Alexandria 2,Attorney General,,,Write-ins,4
+Jefferson,Alexandria 3,Attorney General,,DEM,James,8
+Jefferson,Alexandria 3,Attorney General,,REP,Wofford,8
+Jefferson,Alexandria 3,Attorney General,,CON,Wofford,8
+Jefferson,Alexandria 3,Attorney General,,GREEN,Sussman,8
+Jefferson,Alexandria 3,Attorney General,,WF,James,8
+Jefferson,Alexandria 3,Attorney General,,IND,James,8
+Jefferson,Alexandria 3,Attorney General,,REF,Sliwa,8
+Jefferson,Alexandria 3,Attorney General,,LIB,Garvey,8
+Jefferson,Alexandria 3,Attorney General,,,Write-ins,8
+Jefferson,Antwerp 1,Attorney General,,DEM,James,1
+Jefferson,Antwerp 1,Attorney General,,REP,Wofford,1
+Jefferson,Antwerp 1,Attorney General,,CON,Wofford,1
+Jefferson,Antwerp 1,Attorney General,,GREEN,Sussman,1
+Jefferson,Antwerp 1,Attorney General,,WF,James,1
+Jefferson,Antwerp 1,Attorney General,,IND,James,1
+Jefferson,Antwerp 1,Attorney General,,REF,Sliwa,1
+Jefferson,Antwerp 1,Attorney General,,LIB,Garvey,1
+Jefferson,Antwerp 1,Attorney General,,,Write-ins,1
+Jefferson,Antwerp 2,Attorney General,,DEM,James,3
+Jefferson,Antwerp 2,Attorney General,,REP,Wofford,3
+Jefferson,Antwerp 2,Attorney General,,CON,Wofford,3
+Jefferson,Antwerp 2,Attorney General,,GREEN,Sussman,3
+Jefferson,Antwerp 2,Attorney General,,WF,James,3
+Jefferson,Antwerp 2,Attorney General,,IND,James,3
+Jefferson,Antwerp 2,Attorney General,,REF,Sliwa,3
+Jefferson,Antwerp 2,Attorney General,,LIB,Garvey,3
+Jefferson,Antwerp 2,Attorney General,,,Write-ins,3
+Jefferson,Brownville 1,Attorney General,,DEM,James,5
+Jefferson,Brownville 1,Attorney General,,REP,Wofford,5
+Jefferson,Brownville 1,Attorney General,,CON,Wofford,5
+Jefferson,Brownville 1,Attorney General,,GREEN,Sussman,5
+Jefferson,Brownville 1,Attorney General,,WF,James,5
+Jefferson,Brownville 1,Attorney General,,IND,James,5
+Jefferson,Brownville 1,Attorney General,,REF,Sliwa,5
+Jefferson,Brownville 1,Attorney General,,LIB,Garvey,5
+Jefferson,Brownville 1,Attorney General,,,Write-ins,5
+Jefferson,Brownville 2,Attorney General,,DEM,James,4
+Jefferson,Brownville 2,Attorney General,,REP,Wofford,4
+Jefferson,Brownville 2,Attorney General,,CON,Wofford,4
+Jefferson,Brownville 2,Attorney General,,GREEN,Sussman,4
+Jefferson,Brownville 2,Attorney General,,WF,James,4
+Jefferson,Brownville 2,Attorney General,,IND,James,4
+Jefferson,Brownville 2,Attorney General,,REF,Sliwa,4
+Jefferson,Brownville 2,Attorney General,,LIB,Garvey,4
+Jefferson,Brownville 2,Attorney General,,,Write-ins,4
+Jefferson,Brownville 3,Attorney General,,DEM,James,5
+Jefferson,Brownville 3,Attorney General,,REP,Wofford,5
+Jefferson,Brownville 3,Attorney General,,CON,Wofford,5
+Jefferson,Brownville 3,Attorney General,,GREEN,Sussman,5
+Jefferson,Brownville 3,Attorney General,,WF,James,5
+Jefferson,Brownville 3,Attorney General,,IND,James,5
+Jefferson,Brownville 3,Attorney General,,REF,Sliwa,5
+Jefferson,Brownville 3,Attorney General,,LIB,Garvey,5
+Jefferson,Brownville 3,Attorney General,,,Write-ins,5
+Jefferson,Brownville 4,Attorney General,,DEM,James,4
+Jefferson,Brownville 4,Attorney General,,REP,Wofford,4
+Jefferson,Brownville 4,Attorney General,,CON,Wofford,4
+Jefferson,Brownville 4,Attorney General,,GREEN,Sussman,4
+Jefferson,Brownville 4,Attorney General,,WF,James,4
+Jefferson,Brownville 4,Attorney General,,IND,James,4
+Jefferson,Brownville 4,Attorney General,,REF,Sliwa,4
+Jefferson,Brownville 4,Attorney General,,LIB,Garvey,4
+Jefferson,Brownville 4,Attorney General,,,Write-ins,4
+Jefferson,Brownville 5,Attorney General,,DEM,James,4
+Jefferson,Brownville 5,Attorney General,,REP,Wofford,4
+Jefferson,Brownville 5,Attorney General,,CON,Wofford,4
+Jefferson,Brownville 5,Attorney General,,GREEN,Sussman,4
+Jefferson,Brownville 5,Attorney General,,WF,James,4
+Jefferson,Brownville 5,Attorney General,,IND,James,4
+Jefferson,Brownville 5,Attorney General,,REF,Sliwa,4
+Jefferson,Brownville 5,Attorney General,,LIB,Garvey,4
+Jefferson,Brownville 5,Attorney General,,,Write-ins,4
+Jefferson,Cape Vincent 1,Attorney General,,DEM,James,3
+Jefferson,Cape Vincent 1,Attorney General,,REP,Wofford,3
+Jefferson,Cape Vincent 1,Attorney General,,CON,Wofford,3
+Jefferson,Cape Vincent 1,Attorney General,,GREEN,Sussman,3
+Jefferson,Cape Vincent 1,Attorney General,,WF,James,3
+Jefferson,Cape Vincent 1,Attorney General,,IND,James,3
+Jefferson,Cape Vincent 1,Attorney General,,REF,Sliwa,3
+Jefferson,Cape Vincent 1,Attorney General,,LIB,Garvey,3
+Jefferson,Cape Vincent 1,Attorney General,,,Write-ins,3
+Jefferson,Cape Vincent 2,Attorney General,,DEM,James,4
+Jefferson,Cape Vincent 2,Attorney General,,REP,Wofford,4
+Jefferson,Cape Vincent 2,Attorney General,,CON,Wofford,4
+Jefferson,Cape Vincent 2,Attorney General,,GREEN,Sussman,4
+Jefferson,Cape Vincent 2,Attorney General,,WF,James,4
+Jefferson,Cape Vincent 2,Attorney General,,IND,James,4
+Jefferson,Cape Vincent 2,Attorney General,,REF,Sliwa,4
+Jefferson,Cape Vincent 2,Attorney General,,LIB,Garvey,4
+Jefferson,Cape Vincent 2,Attorney General,,,Write-ins,4
+Jefferson,Champion 1,Attorney General,,DEM,James,6
+Jefferson,Champion 1,Attorney General,,REP,Wofford,6
+Jefferson,Champion 1,Attorney General,,CON,Wofford,6
+Jefferson,Champion 1,Attorney General,,GREEN,Sussman,6
+Jefferson,Champion 1,Attorney General,,WF,James,6
+Jefferson,Champion 1,Attorney General,,IND,James,6
+Jefferson,Champion 1,Attorney General,,REF,Sliwa,6
+Jefferson,Champion 1,Attorney General,,LIB,Garvey,6
+Jefferson,Champion 1,Attorney General,,,Write-ins,6
+Jefferson,Champion 2,Attorney General,,DEM,James,8
+Jefferson,Champion 2,Attorney General,,REP,Wofford,8
+Jefferson,Champion 2,Attorney General,,CON,Wofford,8
+Jefferson,Champion 2,Attorney General,,GREEN,Sussman,8
+Jefferson,Champion 2,Attorney General,,WF,James,8
+Jefferson,Champion 2,Attorney General,,IND,James,8
+Jefferson,Champion 2,Attorney General,,REF,Sliwa,8
+Jefferson,Champion 2,Attorney General,,LIB,Garvey,8
+Jefferson,Champion 2,Attorney General,,,Write-ins,8
+Jefferson,Clayton 1,Attorney General,,DEM,James,7
+Jefferson,Clayton 1,Attorney General,,REP,Wofford,7
+Jefferson,Clayton 1,Attorney General,,CON,Wofford,7
+Jefferson,Clayton 1,Attorney General,,GREEN,Sussman,7
+Jefferson,Clayton 1,Attorney General,,WF,James,7
+Jefferson,Clayton 1,Attorney General,,IND,James,7
+Jefferson,Clayton 1,Attorney General,,REF,Sliwa,7
+Jefferson,Clayton 1,Attorney General,,LIB,Garvey,7
+Jefferson,Clayton 1,Attorney General,,,Write-ins,7
+Jefferson,Clayton 2,Attorney General,,DEM,James,8
+Jefferson,Clayton 2,Attorney General,,REP,Wofford,8
+Jefferson,Clayton 2,Attorney General,,CON,Wofford,8
+Jefferson,Clayton 2,Attorney General,,GREEN,Sussman,8
+Jefferson,Clayton 2,Attorney General,,WF,James,8
+Jefferson,Clayton 2,Attorney General,,IND,James,8
+Jefferson,Clayton 2,Attorney General,,REF,Sliwa,8
+Jefferson,Clayton 2,Attorney General,,LIB,Garvey,8
+Jefferson,Clayton 2,Attorney General,,,Write-ins,8
+Jefferson,Clayton 3,Attorney General,,DEM,James,8
+Jefferson,Clayton 3,Attorney General,,REP,Wofford,8
+Jefferson,Clayton 3,Attorney General,,CON,Wofford,8
+Jefferson,Clayton 3,Attorney General,,GREEN,Sussman,8
+Jefferson,Clayton 3,Attorney General,,WF,James,8
+Jefferson,Clayton 3,Attorney General,,IND,James,8
+Jefferson,Clayton 3,Attorney General,,REF,Sliwa,8
+Jefferson,Clayton 3,Attorney General,,LIB,Garvey,8
+Jefferson,Clayton 3,Attorney General,,,Write-ins,8
+Jefferson,Ellisburg 1,Attorney General,,DEM,James,0
+Jefferson,Ellisburg 1,Attorney General,,REP,Wofford,0
+Jefferson,Ellisburg 1,Attorney General,,CON,Wofford,0
+Jefferson,Ellisburg 1,Attorney General,,GREEN,Sussman,0
+Jefferson,Ellisburg 1,Attorney General,,WF,James,0
+Jefferson,Ellisburg 1,Attorney General,,IND,James,0
+Jefferson,Ellisburg 1,Attorney General,,REF,Sliwa,0
+Jefferson,Ellisburg 1,Attorney General,,LIB,Garvey,0
+Jefferson,Ellisburg 1,Attorney General,,,Write-ins,0
+Jefferson,Elllisburg 2,Attorney General,,DEM,James,5
+Jefferson,Elllisburg 2,Attorney General,,REP,Wofford,5
+Jefferson,Elllisburg 2,Attorney General,,CON,Wofford,5
+Jefferson,Elllisburg 2,Attorney General,,GREEN,Sussman,5
+Jefferson,Elllisburg 2,Attorney General,,WF,James,5
+Jefferson,Elllisburg 2,Attorney General,,IND,James,5
+Jefferson,Elllisburg 2,Attorney General,,REF,Sliwa,5
+Jefferson,Elllisburg 2,Attorney General,,LIB,Garvey,5
+Jefferson,Elllisburg 2,Attorney General,,,Write-ins,5
+Jefferson,Ellisburg 3,Attorney General,,DEM,James,0
+Jefferson,Ellisburg 3,Attorney General,,REP,Wofford,0
+Jefferson,Ellisburg 3,Attorney General,,CON,Wofford,0
+Jefferson,Ellisburg 3,Attorney General,,GREEN,Sussman,0
+Jefferson,Ellisburg 3,Attorney General,,WF,James,0
+Jefferson,Ellisburg 3,Attorney General,,IND,James,0
+Jefferson,Ellisburg 3,Attorney General,,REF,Sliwa,0
+Jefferson,Ellisburg 3,Attorney General,,LIB,Garvey,0
+Jefferson,Ellisburg 3,Attorney General,,,Write-ins,0
+Jefferson,Ellisburg 4,Attorney General,,DEM,James,5
+Jefferson,Ellisburg 4,Attorney General,,REP,Wofford,5
+Jefferson,Ellisburg 4,Attorney General,,CON,Wofford,5
+Jefferson,Ellisburg 4,Attorney General,,GREEN,Sussman,5
+Jefferson,Ellisburg 4,Attorney General,,WF,James,5
+Jefferson,Ellisburg 4,Attorney General,,IND,James,5
+Jefferson,Ellisburg 4,Attorney General,,REF,Sliwa,5
+Jefferson,Ellisburg 4,Attorney General,,LIB,Garvey,5
+Jefferson,Ellisburg 4,Attorney General,,,Write-ins,5
+Jefferson,Henderson 1,Attorney General,,DEM,James,1
+Jefferson,Henderson 1,Attorney General,,REP,Wofford,1
+Jefferson,Henderson 1,Attorney General,,CON,Wofford,1
+Jefferson,Henderson 1,Attorney General,,GREEN,Sussman,1
+Jefferson,Henderson 1,Attorney General,,WF,James,1
+Jefferson,Henderson 1,Attorney General,,IND,James,1
+Jefferson,Henderson 1,Attorney General,,REF,Sliwa,1
+Jefferson,Henderson 1,Attorney General,,LIB,Garvey,1
+Jefferson,Henderson 1,Attorney General,,,Write-ins,1
+Jefferson,Hounsfield 1,Attorney General,,DEM,James,3
+Jefferson,Hounsfield 1,Attorney General,,REP,Wofford,3
+Jefferson,Hounsfield 1,Attorney General,,CON,Wofford,3
+Jefferson,Hounsfield 1,Attorney General,,GREEN,Sussman,3
+Jefferson,Hounsfield 1,Attorney General,,WF,James,3
+Jefferson,Hounsfield 1,Attorney General,,IND,James,3
+Jefferson,Hounsfield 1,Attorney General,,REF,Sliwa,3
+Jefferson,Hounsfield 1,Attorney General,,LIB,Garvey,3
+Jefferson,Hounsfield 1,Attorney General,,,Write-ins,3
+Jefferson,Hounsfield 2,Attorney General,,DEM,James,4
+Jefferson,Hounsfield 2,Attorney General,,REP,Wofford,4
+Jefferson,Hounsfield 2,Attorney General,,CON,Wofford,4
+Jefferson,Hounsfield 2,Attorney General,,GREEN,Sussman,4
+Jefferson,Hounsfield 2,Attorney General,,WF,James,4
+Jefferson,Hounsfield 2,Attorney General,,IND,James,4
+Jefferson,Hounsfield 2,Attorney General,,REF,Sliwa,4
+Jefferson,Hounsfield 2,Attorney General,,LIB,Garvey,4
+Jefferson,Hounsfield 2,Attorney General,,,Write-ins,4
+Jefferson,LeRay 1,Attorney General,,DEM,James,1
+Jefferson,LeRay 1,Attorney General,,REP,Wofford,1
+Jefferson,LeRay 1,Attorney General,,CON,Wofford,1
+Jefferson,LeRay 1,Attorney General,,GREEN,Sussman,1
+Jefferson,LeRay 1,Attorney General,,WF,James,1
+Jefferson,LeRay 1,Attorney General,,IND,James,1
+Jefferson,LeRay 1,Attorney General,,REF,Sliwa,1
+Jefferson,LeRay 1,Attorney General,,LIB,Garvey,1
+Jefferson,LeRay 1,Attorney General,,,Write-ins,1
+Jefferson,LeRay 2,Attorney General,,DEM,James,0
+Jefferson,LeRay 2,Attorney General,,REP,Wofford,0
+Jefferson,LeRay 2,Attorney General,,CON,Wofford,0
+Jefferson,LeRay 2,Attorney General,,GREEN,Sussman,0
+Jefferson,LeRay 2,Attorney General,,WF,James,0
+Jefferson,LeRay 2,Attorney General,,IND,James,0
+Jefferson,LeRay 2,Attorney General,,REF,Sliwa,0
+Jefferson,LeRay 2,Attorney General,,LIB,Garvey,0
+Jefferson,LeRay 2,Attorney General,,,Write-ins,0
+Jefferson,LeRay 3,Attorney General,,DEM,James,2
+Jefferson,LeRay 3,Attorney General,,REP,Wofford,2
+Jefferson,LeRay 3,Attorney General,,CON,Wofford,2
+Jefferson,LeRay 3,Attorney General,,GREEN,Sussman,2
+Jefferson,LeRay 3,Attorney General,,WF,James,2
+Jefferson,LeRay 3,Attorney General,,IND,James,2
+Jefferson,LeRay 3,Attorney General,,REF,Sliwa,2
+Jefferson,LeRay 3,Attorney General,,LIB,Garvey,2
+Jefferson,LeRay 3,Attorney General,,,Write-ins,2
+Jefferson,LeRay 4,Attorney General,,DEM,James,8
+Jefferson,LeRay 4,Attorney General,,REP,Wofford,8
+Jefferson,LeRay 4,Attorney General,,CON,Wofford,8
+Jefferson,LeRay 4,Attorney General,,GREEN,Sussman,8
+Jefferson,LeRay 4,Attorney General,,WF,James,8
+Jefferson,LeRay 4,Attorney General,,IND,James,8
+Jefferson,LeRay 4,Attorney General,,REF,Sliwa,8
+Jefferson,LeRay 4,Attorney General,,LIB,Garvey,8
+Jefferson,LeRay 4,Attorney General,,,Write-ins,8
+Jefferson,LeRay 5,Attorney General,,DEM,James,1
+Jefferson,LeRay 5,Attorney General,,REP,Wofford,1
+Jefferson,LeRay 5,Attorney General,,CON,Wofford,1
+Jefferson,LeRay 5,Attorney General,,GREEN,Sussman,1
+Jefferson,LeRay 5,Attorney General,,WF,James,1
+Jefferson,LeRay 5,Attorney General,,IND,James,1
+Jefferson,LeRay 5,Attorney General,,REF,Sliwa,1
+Jefferson,LeRay 5,Attorney General,,LIB,Garvey,1
+Jefferson,LeRay 5,Attorney General,,,Write-ins,1
+Jefferson,LeRay 6,Attorney General,,DEM,James,3
+Jefferson,LeRay 6,Attorney General,,REP,Wofford,3
+Jefferson,LeRay 6,Attorney General,,CON,Wofford,3
+Jefferson,LeRay 6,Attorney General,,GREEN,Sussman,3
+Jefferson,LeRay 6,Attorney General,,WF,James,3
+Jefferson,LeRay 6,Attorney General,,IND,James,3
+Jefferson,LeRay 6,Attorney General,,REF,Sliwa,3
+Jefferson,LeRay 6,Attorney General,,LIB,Garvey,3
+Jefferson,LeRay 6,Attorney General,,,Write-ins,3
+Jefferson,LeRay 7,Attorney General,,DEM,James,0
+Jefferson,LeRay 7,Attorney General,,REP,Wofford,0
+Jefferson,LeRay 7,Attorney General,,CON,Wofford,0
+Jefferson,LeRay 7,Attorney General,,GREEN,Sussman,0
+Jefferson,LeRay 7,Attorney General,,WF,James,0
+Jefferson,LeRay 7,Attorney General,,IND,James,0
+Jefferson,LeRay 7,Attorney General,,REF,Sliwa,0
+Jefferson,LeRay 7,Attorney General,,LIB,Garvey,0
+Jefferson,LeRay 7,Attorney General,,,Write-ins,0
+Jefferson,LeRay 8,Attorney General,,DEM,James,8
+Jefferson,LeRay 8,Attorney General,,REP,Wofford,8
+Jefferson,LeRay 8,Attorney General,,CON,Wofford,8
+Jefferson,LeRay 8,Attorney General,,GREEN,Sussman,8
+Jefferson,LeRay 8,Attorney General,,WF,James,8
+Jefferson,LeRay 8,Attorney General,,IND,James,8
+Jefferson,LeRay 8,Attorney General,,REF,Sliwa,8
+Jefferson,LeRay 8,Attorney General,,LIB,Garvey,8
+Jefferson,LeRay 8,Attorney General,,,Write-ins,8
+Jefferson,Lorraine 1,Attorney General,,DEM,James,3
+Jefferson,Lorraine 1,Attorney General,,REP,Wofford,3
+Jefferson,Lorraine 1,Attorney General,,CON,Wofford,3
+Jefferson,Lorraine 1,Attorney General,,GREEN,Sussman,3
+Jefferson,Lorraine 1,Attorney General,,WF,James,3
+Jefferson,Lorraine 1,Attorney General,,IND,James,3
+Jefferson,Lorraine 1,Attorney General,,REF,Sliwa,3
+Jefferson,Lorraine 1,Attorney General,,LIB,Garvey,3
+Jefferson,Lorraine 1,Attorney General,,,Write-ins,3
+Jefferson,Lyme 1,Attorney General,,DEM,James,4
+Jefferson,Lyme 1,Attorney General,,REP,Wofford,4
+Jefferson,Lyme 1,Attorney General,,CON,Wofford,4
+Jefferson,Lyme 1,Attorney General,,GREEN,Sussman,4
+Jefferson,Lyme 1,Attorney General,,WF,James,4
+Jefferson,Lyme 1,Attorney General,,IND,James,4
+Jefferson,Lyme 1,Attorney General,,REF,Sliwa,4
+Jefferson,Lyme 1,Attorney General,,LIB,Garvey,4
+Jefferson,Lyme 1,Attorney General,,,Write-ins,4
+Jefferson,Lyme 2,Attorney General,,DEM,James,2
+Jefferson,Lyme 2,Attorney General,,REP,Wofford,2
+Jefferson,Lyme 2,Attorney General,,CON,Wofford,2
+Jefferson,Lyme 2,Attorney General,,GREEN,Sussman,2
+Jefferson,Lyme 2,Attorney General,,WF,James,2
+Jefferson,Lyme 2,Attorney General,,IND,James,2
+Jefferson,Lyme 2,Attorney General,,REF,Sliwa,2
+Jefferson,Lyme 2,Attorney General,,LIB,Garvey,2
+Jefferson,Lyme 2,Attorney General,,,Write-ins,2
+Jefferson,Lyme 3,Attorney General,,DEM,James,2
+Jefferson,Lyme 3,Attorney General,,REP,Wofford,2
+Jefferson,Lyme 3,Attorney General,,CON,Wofford,2
+Jefferson,Lyme 3,Attorney General,,GREEN,Sussman,2
+Jefferson,Lyme 3,Attorney General,,WF,James,2
+Jefferson,Lyme 3,Attorney General,,IND,James,2
+Jefferson,Lyme 3,Attorney General,,REF,Sliwa,2
+Jefferson,Lyme 3,Attorney General,,LIB,Garvey,2
+Jefferson,Lyme 3,Attorney General,,,Write-ins,2
+Jefferson,Orleans 1,Attorney General,,DEM,James,3
+Jefferson,Orleans 1,Attorney General,,REP,Wofford,3
+Jefferson,Orleans 1,Attorney General,,CON,Wofford,3
+Jefferson,Orleans 1,Attorney General,,GREEN,Sussman,3
+Jefferson,Orleans 1,Attorney General,,WF,James,3
+Jefferson,Orleans 1,Attorney General,,IND,James,3
+Jefferson,Orleans 1,Attorney General,,REF,Sliwa,3
+Jefferson,Orleans 1,Attorney General,,LIB,Garvey,3
+Jefferson,Orleans 1,Attorney General,,,Write-ins,3
+Jefferson,Orleans 2,Attorney General,,DEM,James,2
+Jefferson,Orleans 2,Attorney General,,REP,Wofford,2
+Jefferson,Orleans 2,Attorney General,,CON,Wofford,2
+Jefferson,Orleans 2,Attorney General,,GREEN,Sussman,2
+Jefferson,Orleans 2,Attorney General,,WF,James,2
+Jefferson,Orleans 2,Attorney General,,IND,James,2
+Jefferson,Orleans 2,Attorney General,,REF,Sliwa,2
+Jefferson,Orleans 2,Attorney General,,LIB,Garvey,2
+Jefferson,Orleans 2,Attorney General,,,Write-ins,2
+Jefferson,Pamelia 1,Attorney General,,DEM,James,4
+Jefferson,Pamelia 1,Attorney General,,REP,Wofford,4
+Jefferson,Pamelia 1,Attorney General,,CON,Wofford,4
+Jefferson,Pamelia 1,Attorney General,,GREEN,Sussman,4
+Jefferson,Pamelia 1,Attorney General,,WF,James,4
+Jefferson,Pamelia 1,Attorney General,,IND,James,4
+Jefferson,Pamelia 1,Attorney General,,REF,Sliwa,4
+Jefferson,Pamelia 1,Attorney General,,LIB,Garvey,4
+Jefferson,Pamelia 1,Attorney General,,,Write-ins,4
+Jefferson,Pamelia 2,Attorney General,,DEM,James,8
+Jefferson,Pamelia 2,Attorney General,,REP,Wofford,8
+Jefferson,Pamelia 2,Attorney General,,CON,Wofford,8
+Jefferson,Pamelia 2,Attorney General,,GREEN,Sussman,8
+Jefferson,Pamelia 2,Attorney General,,WF,James,8
+Jefferson,Pamelia 2,Attorney General,,IND,James,8
+Jefferson,Pamelia 2,Attorney General,,REF,Sliwa,8
+Jefferson,Pamelia 2,Attorney General,,LIB,Garvey,8
+Jefferson,Pamelia 2,Attorney General,,,Write-ins,8
+Jefferson,Philadelphia 1,Attorney General,,DEM,James,1
+Jefferson,Philadelphia 1,Attorney General,,REP,Wofford,1
+Jefferson,Philadelphia 1,Attorney General,,CON,Wofford,1
+Jefferson,Philadelphia 1,Attorney General,,GREEN,Sussman,1
+Jefferson,Philadelphia 1,Attorney General,,WF,James,1
+Jefferson,Philadelphia 1,Attorney General,,IND,James,1
+Jefferson,Philadelphia 1,Attorney General,,REF,Sliwa,1
+Jefferson,Philadelphia 1,Attorney General,,LIB,Garvey,1
+Jefferson,Philadelphia 1,Attorney General,,,Write-ins,1
+Jefferson,Philadelphia 2,Attorney General,,DEM,James,1
+Jefferson,Philadelphia 2,Attorney General,,REP,Wofford,1
+Jefferson,Philadelphia 2,Attorney General,,CON,Wofford,1
+Jefferson,Philadelphia 2,Attorney General,,GREEN,Sussman,1
+Jefferson,Philadelphia 2,Attorney General,,WF,James,1
+Jefferson,Philadelphia 2,Attorney General,,IND,James,1
+Jefferson,Philadelphia 2,Attorney General,,REF,Sliwa,1
+Jefferson,Philadelphia 2,Attorney General,,LIB,Garvey,1
+Jefferson,Philadelphia 2,Attorney General,,,Write-ins,1
+Jefferson,Rodman 1,Attorney General,,DEM,James,3
+Jefferson,Rodman 1,Attorney General,,REP,Wofford,3
+Jefferson,Rodman 1,Attorney General,,CON,Wofford,3
+Jefferson,Rodman 1,Attorney General,,GREEN,Sussman,3
+Jefferson,Rodman 1,Attorney General,,WF,James,3
+Jefferson,Rodman 1,Attorney General,,IND,James,3
+Jefferson,Rodman 1,Attorney General,,REF,Sliwa,3
+Jefferson,Rodman 1,Attorney General,,LIB,Garvey,3
+Jefferson,Rodman 1,Attorney General,,,Write-ins,3
+Jefferson,Rutland 1,Attorney General,,DEM,James,1
+Jefferson,Rutland 1,Attorney General,,REP,Wofford,1
+Jefferson,Rutland 1,Attorney General,,CON,Wofford,1
+Jefferson,Rutland 1,Attorney General,,GREEN,Sussman,1
+Jefferson,Rutland 1,Attorney General,,WF,James,1
+Jefferson,Rutland 1,Attorney General,,IND,James,1
+Jefferson,Rutland 1,Attorney General,,REF,Sliwa,1
+Jefferson,Rutland 1,Attorney General,,LIB,Garvey,1
+Jefferson,Rutland 1,Attorney General,,,Write-ins,1
+Jefferson,Rutland 2,Attorney General,,DEM,James,5
+Jefferson,Rutland 2,Attorney General,,REP,Wofford,5
+Jefferson,Rutland 2,Attorney General,,CON,Wofford,5
+Jefferson,Rutland 2,Attorney General,,GREEN,Sussman,5
+Jefferson,Rutland 2,Attorney General,,WF,James,5
+Jefferson,Rutland 2,Attorney General,,IND,James,5
+Jefferson,Rutland 2,Attorney General,,REF,Sliwa,5
+Jefferson,Rutland 2,Attorney General,,LIB,Garvey,5
+Jefferson,Rutland 2,Attorney General,,,Write-ins,5
+Jefferson,Rutland 3,Attorney General,,DEM,James,2
+Jefferson,Rutland 3,Attorney General,,REP,Wofford,2
+Jefferson,Rutland 3,Attorney General,,CON,Wofford,2
+Jefferson,Rutland 3,Attorney General,,GREEN,Sussman,2
+Jefferson,Rutland 3,Attorney General,,WF,James,2
+Jefferson,Rutland 3,Attorney General,,IND,James,2
+Jefferson,Rutland 3,Attorney General,,REF,Sliwa,2
+Jefferson,Rutland 3,Attorney General,,LIB,Garvey,2
+Jefferson,Rutland 3,Attorney General,,,Write-ins,2
+Jefferson,Theresa 1,Attorney General,,DEM,James,4
+Jefferson,Theresa 1,Attorney General,,REP,Wofford,4
+Jefferson,Theresa 1,Attorney General,,CON,Wofford,4
+Jefferson,Theresa 1,Attorney General,,GREEN,Sussman,4
+Jefferson,Theresa 1,Attorney General,,WF,James,4
+Jefferson,Theresa 1,Attorney General,,IND,James,4
+Jefferson,Theresa 1,Attorney General,,REF,Sliwa,4
+Jefferson,Theresa 1,Attorney General,,LIB,Garvey,4
+Jefferson,Theresa 1,Attorney General,,,Write-ins,4
+Jefferson,Watertown 1,Attorney General,,DEM,James,3
+Jefferson,Watertown 1,Attorney General,,REP,Wofford,3
+Jefferson,Watertown 1,Attorney General,,CON,Wofford,3
+Jefferson,Watertown 1,Attorney General,,GREEN,Sussman,3
+Jefferson,Watertown 1,Attorney General,,WF,James,3
+Jefferson,Watertown 1,Attorney General,,IND,James,3
+Jefferson,Watertown 1,Attorney General,,REF,Sliwa,3
+Jefferson,Watertown 1,Attorney General,,LIB,Garvey,3
+Jefferson,Watertown 1,Attorney General,,,Write-ins,3
+Jefferson,Watertown 2,Attorney General,,DEM,James,4
+Jefferson,Watertown 2,Attorney General,,REP,Wofford,4
+Jefferson,Watertown 2,Attorney General,,CON,Wofford,4
+Jefferson,Watertown 2,Attorney General,,GREEN,Sussman,4
+Jefferson,Watertown 2,Attorney General,,WF,James,4
+Jefferson,Watertown 2,Attorney General,,IND,James,4
+Jefferson,Watertown 2,Attorney General,,REF,Sliwa,4
+Jefferson,Watertown 2,Attorney General,,LIB,Garvey,4
+Jefferson,Watertown 2,Attorney General,,,Write-ins,4
+Jefferson,Wilna 1,Attorney General,,DEM,James,10
+Jefferson,Wilna 1,Attorney General,,REP,Wofford,10
+Jefferson,Wilna 1,Attorney General,,CON,Wofford,10
+Jefferson,Wilna 1,Attorney General,,GREEN,Sussman,10
+Jefferson,Wilna 1,Attorney General,,WF,James,10
+Jefferson,Wilna 1,Attorney General,,IND,James,10
+Jefferson,Wilna 1,Attorney General,,REF,Sliwa,10
+Jefferson,Wilna 1,Attorney General,,LIB,Garvey,10
+Jefferson,Wilna 1,Attorney General,,,Write-ins,10
+Jefferson,Wilna 2,Attorney General,,DEM,James,0
+Jefferson,Wilna 2,Attorney General,,REP,Wofford,0
+Jefferson,Wilna 2,Attorney General,,CON,Wofford,0
+Jefferson,Wilna 2,Attorney General,,GREEN,Sussman,0
+Jefferson,Wilna 2,Attorney General,,WF,James,0
+Jefferson,Wilna 2,Attorney General,,IND,James,0
+Jefferson,Wilna 2,Attorney General,,REF,Sliwa,0
+Jefferson,Wilna 2,Attorney General,,LIB,Garvey,0
+Jefferson,Wilna 2,Attorney General,,,Write-ins,0
+Jefferson,Wilna 3,Attorney General,,DEM,James,4
+Jefferson,Wilna 3,Attorney General,,REP,Wofford,4
+Jefferson,Wilna 3,Attorney General,,CON,Wofford,4
+Jefferson,Wilna 3,Attorney General,,GREEN,Sussman,4
+Jefferson,Wilna 3,Attorney General,,WF,James,4
+Jefferson,Wilna 3,Attorney General,,IND,James,4
+Jefferson,Wilna 3,Attorney General,,REF,Sliwa,4
+Jefferson,Wilna 3,Attorney General,,LIB,Garvey,4
+Jefferson,Wilna 3,Attorney General,,,Write-ins,4
+Jefferson,Wilna 4,Attorney General,,DEM,James,0
+Jefferson,Wilna 4,Attorney General,,REP,Wofford,0
+Jefferson,Wilna 4,Attorney General,,CON,Wofford,0
+Jefferson,Wilna 4,Attorney General,,GREEN,Sussman,0
+Jefferson,Wilna 4,Attorney General,,WF,James,0
+Jefferson,Wilna 4,Attorney General,,IND,James,0
+Jefferson,Wilna 4,Attorney General,,REF,Sliwa,0
+Jefferson,Wilna 4,Attorney General,,LIB,Garvey,0
+Jefferson,Wilna 4,Attorney General,,,Write-ins,0
+Jefferson,Wilna 5,Attorney General,,DEM,James,4
+Jefferson,Wilna 5,Attorney General,,REP,Wofford,4
+Jefferson,Wilna 5,Attorney General,,CON,Wofford,4
+Jefferson,Wilna 5,Attorney General,,GREEN,Sussman,4
+Jefferson,Wilna 5,Attorney General,,WF,James,4
+Jefferson,Wilna 5,Attorney General,,IND,James,4
+Jefferson,Wilna 5,Attorney General,,REF,Sliwa,4
+Jefferson,Wilna 5,Attorney General,,LIB,Garvey,4
+Jefferson,Wilna 5,Attorney General,,,Write-ins,4
+Jefferson,Worth 1,Attorney General,,DEM,James,1
+Jefferson,Worth 1,Attorney General,,REP,Wofford,1
+Jefferson,Worth 1,Attorney General,,CON,Wofford,1
+Jefferson,Worth 1,Attorney General,,GREEN,Sussman,1
+Jefferson,Worth 1,Attorney General,,WF,James,1
+Jefferson,Worth 1,Attorney General,,IND,James,1
+Jefferson,Worth 1,Attorney General,,REF,Sliwa,1
+Jefferson,Worth 1,Attorney General,,LIB,Garvey,1
+Jefferson,Worth 1,Attorney General,,,Write-ins,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Jefferson,Adams 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Adams 1,U.S. Senate,,REP,Farley,0
+Jefferson,Adams 1,U.S. Senate,,CON,Farley,0
+Jefferson,Adams 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Adams 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Adams 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Adams 1,U.S. Senate,,REF,Farley,0
+Jefferson,Adams 1,U.S. Senate,,,Write-ins,0
+Jefferson,Adams 2,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Adams 2,U.S. Senate,,REP,Farley,0
+Jefferson,Adams 2,U.S. Senate,,CON,Farley,0
+Jefferson,Adams 2,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Adams 2,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Adams 2,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Adams 2,U.S. Senate,,REF,Farley,0
+Jefferson,Adams 2,U.S. Senate,,,Write-ins,0
+Jefferson,Adams 3,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Adams 3,U.S. Senate,,REP,Farley,0
+Jefferson,Adams 3,U.S. Senate,,CON,Farley,0
+Jefferson,Adams 3,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Adams 3,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Adams 3,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Adams 3,U.S. Senate,,REF,Farley,0
+Jefferson,Adams 3,U.S. Senate,,,Write-ins,0
+Jefferson,Alexandria 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Alexandria 1,U.S. Senate,,REP,Farley,0
+Jefferson,Alexandria 1,U.S. Senate,,CON,Farley,0
+Jefferson,Alexandria 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Alexandria 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Alexandria 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Alexandria 1,U.S. Senate,,REF,Farley,0
+Jefferson,Alexandria 1,U.S. Senate,,,Write-ins,0
+Jefferson,Alexandria 2,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Alexandria 2,U.S. Senate,,REP,Farley,0
+Jefferson,Alexandria 2,U.S. Senate,,CON,Farley,0
+Jefferson,Alexandria 2,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Alexandria 2,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Alexandria 2,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Alexandria 2,U.S. Senate,,REF,Farley,0
+Jefferson,Alexandria 2,U.S. Senate,,,Write-ins,0
+Jefferson,Alexandria 3,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Alexandria 3,U.S. Senate,,REP,Farley,0
+Jefferson,Alexandria 3,U.S. Senate,,CON,Farley,0
+Jefferson,Alexandria 3,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Alexandria 3,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Alexandria 3,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Alexandria 3,U.S. Senate,,REF,Farley,0
+Jefferson,Alexandria 3,U.S. Senate,,,Write-ins,0
+Jefferson,Antwerp 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Antwerp 1,U.S. Senate,,REP,Farley,0
+Jefferson,Antwerp 1,U.S. Senate,,CON,Farley,0
+Jefferson,Antwerp 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Antwerp 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Antwerp 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Antwerp 1,U.S. Senate,,REF,Farley,0
+Jefferson,Antwerp 1,U.S. Senate,,,Write-ins,0
+Jefferson,Antwerp 2,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Antwerp 2,U.S. Senate,,REP,Farley,0
+Jefferson,Antwerp 2,U.S. Senate,,CON,Farley,0
+Jefferson,Antwerp 2,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Antwerp 2,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Antwerp 2,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Antwerp 2,U.S. Senate,,REF,Farley,0
+Jefferson,Antwerp 2,U.S. Senate,,,Write-ins,0
+Jefferson,Brownville 1,U.S. Senate,,DEM,Gillibrand,1
+Jefferson,Brownville 1,U.S. Senate,,REP,Farley,1
+Jefferson,Brownville 1,U.S. Senate,,CON,Farley,1
+Jefferson,Brownville 1,U.S. Senate,,WFP,Gillibrand,1
+Jefferson,Brownville 1,U.S. Senate,,IND,Gillibrand,1
+Jefferson,Brownville 1,U.S. Senate,,WEP,Gillibrand,1
+Jefferson,Brownville 1,U.S. Senate,,REF,Farley,1
+Jefferson,Brownville 1,U.S. Senate,,,Write-ins,1
+Jefferson,Brownville 2,U.S. Senate,,DEM,Gillibrand,1
+Jefferson,Brownville 2,U.S. Senate,,REP,Farley,1
+Jefferson,Brownville 2,U.S. Senate,,CON,Farley,1
+Jefferson,Brownville 2,U.S. Senate,,WFP,Gillibrand,1
+Jefferson,Brownville 2,U.S. Senate,,IND,Gillibrand,1
+Jefferson,Brownville 2,U.S. Senate,,WEP,Gillibrand,1
+Jefferson,Brownville 2,U.S. Senate,,REF,Farley,1
+Jefferson,Brownville 2,U.S. Senate,,,Write-ins,1
+Jefferson,Brownville 3,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Brownville 3,U.S. Senate,,REP,Farley,0
+Jefferson,Brownville 3,U.S. Senate,,CON,Farley,0
+Jefferson,Brownville 3,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Brownville 3,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Brownville 3,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Brownville 3,U.S. Senate,,REF,Farley,0
+Jefferson,Brownville 3,U.S. Senate,,,Write-ins,0
+Jefferson,Brownville 4,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Brownville 4,U.S. Senate,,REP,Farley,0
+Jefferson,Brownville 4,U.S. Senate,,CON,Farley,0
+Jefferson,Brownville 4,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Brownville 4,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Brownville 4,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Brownville 4,U.S. Senate,,REF,Farley,0
+Jefferson,Brownville 4,U.S. Senate,,,Write-ins,0
+Jefferson,Brownville 5,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Brownville 5,U.S. Senate,,REP,Farley,0
+Jefferson,Brownville 5,U.S. Senate,,CON,Farley,0
+Jefferson,Brownville 5,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Brownville 5,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Brownville 5,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Brownville 5,U.S. Senate,,REF,Farley,0
+Jefferson,Brownville 5,U.S. Senate,,,Write-ins,0
+Jefferson,Cape Vincent 1,U.S. Senate,,DEM,Gillibrand,1
+Jefferson,Cape Vincent 1,U.S. Senate,,REP,Farley,1
+Jefferson,Cape Vincent 1,U.S. Senate,,CON,Farley,1
+Jefferson,Cape Vincent 1,U.S. Senate,,WFP,Gillibrand,1
+Jefferson,Cape Vincent 1,U.S. Senate,,IND,Gillibrand,1
+Jefferson,Cape Vincent 1,U.S. Senate,,WEP,Gillibrand,1
+Jefferson,Cape Vincent 1,U.S. Senate,,REF,Farley,1
+Jefferson,Cape Vincent 1,U.S. Senate,,,Write-ins,1
+Jefferson,Cape Vincent 2,U.S. Senate,,DEM,Gillibrand,1
+Jefferson,Cape Vincent 2,U.S. Senate,,REP,Farley,1
+Jefferson,Cape Vincent 2,U.S. Senate,,CON,Farley,1
+Jefferson,Cape Vincent 2,U.S. Senate,,WFP,Gillibrand,1
+Jefferson,Cape Vincent 2,U.S. Senate,,IND,Gillibrand,1
+Jefferson,Cape Vincent 2,U.S. Senate,,WEP,Gillibrand,1
+Jefferson,Cape Vincent 2,U.S. Senate,,REF,Farley,1
+Jefferson,Cape Vincent 2,U.S. Senate,,,Write-ins,1
+Jefferson,Champion 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Champion 1,U.S. Senate,,REP,Farley,0
+Jefferson,Champion 1,U.S. Senate,,CON,Farley,0
+Jefferson,Champion 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Champion 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Champion 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Champion 1,U.S. Senate,,REF,Farley,0
+Jefferson,Champion 1,U.S. Senate,,,Write-ins,0
+Jefferson,Champion 2,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Champion 2,U.S. Senate,,REP,Farley,0
+Jefferson,Champion 2,U.S. Senate,,CON,Farley,0
+Jefferson,Champion 2,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Champion 2,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Champion 2,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Champion 2,U.S. Senate,,REF,Farley,0
+Jefferson,Champion 2,U.S. Senate,,,Write-ins,0
+Jefferson,Clayton 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Clayton 1,U.S. Senate,,REP,Farley,0
+Jefferson,Clayton 1,U.S. Senate,,CON,Farley,0
+Jefferson,Clayton 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Clayton 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Clayton 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Clayton 1,U.S. Senate,,REF,Farley,0
+Jefferson,Clayton 1,U.S. Senate,,,Write-ins,0
+Jefferson,Clayton 2,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Clayton 2,U.S. Senate,,REP,Farley,0
+Jefferson,Clayton 2,U.S. Senate,,CON,Farley,0
+Jefferson,Clayton 2,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Clayton 2,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Clayton 2,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Clayton 2,U.S. Senate,,REF,Farley,0
+Jefferson,Clayton 2,U.S. Senate,,,Write-ins,0
+Jefferson,Clayton 3,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Clayton 3,U.S. Senate,,REP,Farley,0
+Jefferson,Clayton 3,U.S. Senate,,CON,Farley,0
+Jefferson,Clayton 3,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Clayton 3,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Clayton 3,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Clayton 3,U.S. Senate,,REF,Farley,0
+Jefferson,Clayton 3,U.S. Senate,,,Write-ins,0
+Jefferson,Ellisburg 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Ellisburg 1,U.S. Senate,,REP,Farley,0
+Jefferson,Ellisburg 1,U.S. Senate,,CON,Farley,0
+Jefferson,Ellisburg 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Ellisburg 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Ellisburg 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Ellisburg 1,U.S. Senate,,REF,Farley,0
+Jefferson,Ellisburg 1,U.S. Senate,,,Write-ins,0
+Jefferson,Elllisburg 2,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Elllisburg 2,U.S. Senate,,REP,Farley,0
+Jefferson,Elllisburg 2,U.S. Senate,,CON,Farley,0
+Jefferson,Elllisburg 2,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Elllisburg 2,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Elllisburg 2,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Elllisburg 2,U.S. Senate,,REF,Farley,0
+Jefferson,Elllisburg 2,U.S. Senate,,,Write-ins,0
+Jefferson,Ellisburg 3,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Ellisburg 3,U.S. Senate,,REP,Farley,0
+Jefferson,Ellisburg 3,U.S. Senate,,CON,Farley,0
+Jefferson,Ellisburg 3,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Ellisburg 3,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Ellisburg 3,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Ellisburg 3,U.S. Senate,,REF,Farley,0
+Jefferson,Ellisburg 3,U.S. Senate,,,Write-ins,0
+Jefferson,Ellisburg 4,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Ellisburg 4,U.S. Senate,,REP,Farley,0
+Jefferson,Ellisburg 4,U.S. Senate,,CON,Farley,0
+Jefferson,Ellisburg 4,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Ellisburg 4,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Ellisburg 4,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Ellisburg 4,U.S. Senate,,REF,Farley,0
+Jefferson,Ellisburg 4,U.S. Senate,,,Write-ins,0
+Jefferson,Henderson 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Henderson 1,U.S. Senate,,REP,Farley,0
+Jefferson,Henderson 1,U.S. Senate,,CON,Farley,0
+Jefferson,Henderson 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Henderson 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Henderson 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Henderson 1,U.S. Senate,,REF,Farley,0
+Jefferson,Henderson 1,U.S. Senate,,,Write-ins,0
+Jefferson,Hounsfield 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Hounsfield 1,U.S. Senate,,REP,Farley,0
+Jefferson,Hounsfield 1,U.S. Senate,,CON,Farley,0
+Jefferson,Hounsfield 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Hounsfield 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Hounsfield 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Hounsfield 1,U.S. Senate,,REF,Farley,0
+Jefferson,Hounsfield 1,U.S. Senate,,,Write-ins,0
+Jefferson,Hounsfield 2,U.S. Senate,,DEM,Gillibrand,1
+Jefferson,Hounsfield 2,U.S. Senate,,REP,Farley,1
+Jefferson,Hounsfield 2,U.S. Senate,,CON,Farley,1
+Jefferson,Hounsfield 2,U.S. Senate,,WFP,Gillibrand,1
+Jefferson,Hounsfield 2,U.S. Senate,,IND,Gillibrand,1
+Jefferson,Hounsfield 2,U.S. Senate,,WEP,Gillibrand,1
+Jefferson,Hounsfield 2,U.S. Senate,,REF,Farley,1
+Jefferson,Hounsfield 2,U.S. Senate,,,Write-ins,1
+Jefferson,LeRay 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,LeRay 1,U.S. Senate,,REP,Farley,0
+Jefferson,LeRay 1,U.S. Senate,,CON,Farley,0
+Jefferson,LeRay 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,LeRay 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,LeRay 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,LeRay 1,U.S. Senate,,REF,Farley,0
+Jefferson,LeRay 1,U.S. Senate,,,Write-ins,0
+Jefferson,LeRay 2,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,LeRay 2,U.S. Senate,,REP,Farley,0
+Jefferson,LeRay 2,U.S. Senate,,CON,Farley,0
+Jefferson,LeRay 2,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,LeRay 2,U.S. Senate,,IND,Gillibrand,0
+Jefferson,LeRay 2,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,LeRay 2,U.S. Senate,,REF,Farley,0
+Jefferson,LeRay 2,U.S. Senate,,,Write-ins,0
+Jefferson,LeRay 3,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,LeRay 3,U.S. Senate,,REP,Farley,0
+Jefferson,LeRay 3,U.S. Senate,,CON,Farley,0
+Jefferson,LeRay 3,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,LeRay 3,U.S. Senate,,IND,Gillibrand,0
+Jefferson,LeRay 3,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,LeRay 3,U.S. Senate,,REF,Farley,0
+Jefferson,LeRay 3,U.S. Senate,,,Write-ins,0
+Jefferson,LeRay 4,U.S. Senate,,DEM,Gillibrand,1
+Jefferson,LeRay 4,U.S. Senate,,REP,Farley,1
+Jefferson,LeRay 4,U.S. Senate,,CON,Farley,1
+Jefferson,LeRay 4,U.S. Senate,,WFP,Gillibrand,1
+Jefferson,LeRay 4,U.S. Senate,,IND,Gillibrand,1
+Jefferson,LeRay 4,U.S. Senate,,WEP,Gillibrand,1
+Jefferson,LeRay 4,U.S. Senate,,REF,Farley,1
+Jefferson,LeRay 4,U.S. Senate,,,Write-ins,1
+Jefferson,LeRay 5,U.S. Senate,,DEM,Gillibrand,1
+Jefferson,LeRay 5,U.S. Senate,,REP,Farley,1
+Jefferson,LeRay 5,U.S. Senate,,CON,Farley,1
+Jefferson,LeRay 5,U.S. Senate,,WFP,Gillibrand,1
+Jefferson,LeRay 5,U.S. Senate,,IND,Gillibrand,1
+Jefferson,LeRay 5,U.S. Senate,,WEP,Gillibrand,1
+Jefferson,LeRay 5,U.S. Senate,,REF,Farley,1
+Jefferson,LeRay 5,U.S. Senate,,,Write-ins,1
+Jefferson,LeRay 6,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,LeRay 6,U.S. Senate,,REP,Farley,0
+Jefferson,LeRay 6,U.S. Senate,,CON,Farley,0
+Jefferson,LeRay 6,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,LeRay 6,U.S. Senate,,IND,Gillibrand,0
+Jefferson,LeRay 6,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,LeRay 6,U.S. Senate,,REF,Farley,0
+Jefferson,LeRay 6,U.S. Senate,,,Write-ins,0
+Jefferson,LeRay 7,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,LeRay 7,U.S. Senate,,REP,Farley,0
+Jefferson,LeRay 7,U.S. Senate,,CON,Farley,0
+Jefferson,LeRay 7,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,LeRay 7,U.S. Senate,,IND,Gillibrand,0
+Jefferson,LeRay 7,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,LeRay 7,U.S. Senate,,REF,Farley,0
+Jefferson,LeRay 7,U.S. Senate,,,Write-ins,0
+Jefferson,LeRay 8,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,LeRay 8,U.S. Senate,,REP,Farley,0
+Jefferson,LeRay 8,U.S. Senate,,CON,Farley,0
+Jefferson,LeRay 8,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,LeRay 8,U.S. Senate,,IND,Gillibrand,0
+Jefferson,LeRay 8,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,LeRay 8,U.S. Senate,,REF,Farley,0
+Jefferson,LeRay 8,U.S. Senate,,,Write-ins,0
+Jefferson,Lorraine 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Lorraine 1,U.S. Senate,,REP,Farley,0
+Jefferson,Lorraine 1,U.S. Senate,,CON,Farley,0
+Jefferson,Lorraine 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Lorraine 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Lorraine 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Lorraine 1,U.S. Senate,,REF,Farley,0
+Jefferson,Lorraine 1,U.S. Senate,,,Write-ins,0
+Jefferson,Lyme 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Lyme 1,U.S. Senate,,REP,Farley,0
+Jefferson,Lyme 1,U.S. Senate,,CON,Farley,0
+Jefferson,Lyme 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Lyme 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Lyme 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Lyme 1,U.S. Senate,,REF,Farley,0
+Jefferson,Lyme 1,U.S. Senate,,,Write-ins,0
+Jefferson,Lyme 2,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Lyme 2,U.S. Senate,,REP,Farley,0
+Jefferson,Lyme 2,U.S. Senate,,CON,Farley,0
+Jefferson,Lyme 2,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Lyme 2,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Lyme 2,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Lyme 2,U.S. Senate,,REF,Farley,0
+Jefferson,Lyme 2,U.S. Senate,,,Write-ins,0
+Jefferson,Lyme 3,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Lyme 3,U.S. Senate,,REP,Farley,0
+Jefferson,Lyme 3,U.S. Senate,,CON,Farley,0
+Jefferson,Lyme 3,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Lyme 3,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Lyme 3,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Lyme 3,U.S. Senate,,REF,Farley,0
+Jefferson,Lyme 3,U.S. Senate,,,Write-ins,0
+Jefferson,Orleans 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Orleans 1,U.S. Senate,,REP,Farley,0
+Jefferson,Orleans 1,U.S. Senate,,CON,Farley,0
+Jefferson,Orleans 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Orleans 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Orleans 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Orleans 1,U.S. Senate,,REF,Farley,0
+Jefferson,Orleans 1,U.S. Senate,,,Write-ins,0
+Jefferson,Orleans 2,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Orleans 2,U.S. Senate,,REP,Farley,0
+Jefferson,Orleans 2,U.S. Senate,,CON,Farley,0
+Jefferson,Orleans 2,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Orleans 2,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Orleans 2,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Orleans 2,U.S. Senate,,REF,Farley,0
+Jefferson,Orleans 2,U.S. Senate,,,Write-ins,0
+Jefferson,Pamelia 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Pamelia 1,U.S. Senate,,REP,Farley,0
+Jefferson,Pamelia 1,U.S. Senate,,CON,Farley,0
+Jefferson,Pamelia 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Pamelia 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Pamelia 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Pamelia 1,U.S. Senate,,REF,Farley,0
+Jefferson,Pamelia 1,U.S. Senate,,,Write-ins,0
+Jefferson,Pamelia 2,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Pamelia 2,U.S. Senate,,REP,Farley,0
+Jefferson,Pamelia 2,U.S. Senate,,CON,Farley,0
+Jefferson,Pamelia 2,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Pamelia 2,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Pamelia 2,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Pamelia 2,U.S. Senate,,REF,Farley,0
+Jefferson,Pamelia 2,U.S. Senate,,,Write-ins,0
+Jefferson,Philadelphia 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Philadelphia 1,U.S. Senate,,REP,Farley,0
+Jefferson,Philadelphia 1,U.S. Senate,,CON,Farley,0
+Jefferson,Philadelphia 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Philadelphia 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Philadelphia 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Philadelphia 1,U.S. Senate,,REF,Farley,0
+Jefferson,Philadelphia 1,U.S. Senate,,,Write-ins,0
+Jefferson,Philadelphia 2,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Philadelphia 2,U.S. Senate,,REP,Farley,0
+Jefferson,Philadelphia 2,U.S. Senate,,CON,Farley,0
+Jefferson,Philadelphia 2,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Philadelphia 2,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Philadelphia 2,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Philadelphia 2,U.S. Senate,,REF,Farley,0
+Jefferson,Philadelphia 2,U.S. Senate,,,Write-ins,0
+Jefferson,Rodman 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Rodman 1,U.S. Senate,,REP,Farley,0
+Jefferson,Rodman 1,U.S. Senate,,CON,Farley,0
+Jefferson,Rodman 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Rodman 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Rodman 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Rodman 1,U.S. Senate,,REF,Farley,0
+Jefferson,Rodman 1,U.S. Senate,,,Write-ins,0
+Jefferson,Rutland 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Rutland 1,U.S. Senate,,REP,Farley,0
+Jefferson,Rutland 1,U.S. Senate,,CON,Farley,0
+Jefferson,Rutland 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Rutland 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Rutland 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Rutland 1,U.S. Senate,,REF,Farley,0
+Jefferson,Rutland 1,U.S. Senate,,,Write-ins,0
+Jefferson,Rutland 2,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Rutland 2,U.S. Senate,,REP,Farley,0
+Jefferson,Rutland 2,U.S. Senate,,CON,Farley,0
+Jefferson,Rutland 2,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Rutland 2,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Rutland 2,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Rutland 2,U.S. Senate,,REF,Farley,0
+Jefferson,Rutland 2,U.S. Senate,,,Write-ins,0
+Jefferson,Rutland 3,U.S. Senate,,DEM,Gillibrand,1
+Jefferson,Rutland 3,U.S. Senate,,REP,Farley,1
+Jefferson,Rutland 3,U.S. Senate,,CON,Farley,1
+Jefferson,Rutland 3,U.S. Senate,,WFP,Gillibrand,1
+Jefferson,Rutland 3,U.S. Senate,,IND,Gillibrand,1
+Jefferson,Rutland 3,U.S. Senate,,WEP,Gillibrand,1
+Jefferson,Rutland 3,U.S. Senate,,REF,Farley,1
+Jefferson,Rutland 3,U.S. Senate,,,Write-ins,1
+Jefferson,Theresa 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Theresa 1,U.S. Senate,,REP,Farley,0
+Jefferson,Theresa 1,U.S. Senate,,CON,Farley,0
+Jefferson,Theresa 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Theresa 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Theresa 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Theresa 1,U.S. Senate,,REF,Farley,0
+Jefferson,Theresa 1,U.S. Senate,,,Write-ins,0
+Jefferson,Watertown 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Watertown 1,U.S. Senate,,REP,Farley,0
+Jefferson,Watertown 1,U.S. Senate,,CON,Farley,0
+Jefferson,Watertown 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Watertown 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Watertown 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Watertown 1,U.S. Senate,,REF,Farley,0
+Jefferson,Watertown 1,U.S. Senate,,,Write-ins,0
+Jefferson,Watertown 2,U.S. Senate,,DEM,Gillibrand,1
+Jefferson,Watertown 2,U.S. Senate,,REP,Farley,1
+Jefferson,Watertown 2,U.S. Senate,,CON,Farley,1
+Jefferson,Watertown 2,U.S. Senate,,WFP,Gillibrand,1
+Jefferson,Watertown 2,U.S. Senate,,IND,Gillibrand,1
+Jefferson,Watertown 2,U.S. Senate,,WEP,Gillibrand,1
+Jefferson,Watertown 2,U.S. Senate,,REF,Farley,1
+Jefferson,Watertown 2,U.S. Senate,,,Write-ins,1
+Jefferson,Wilna 1,U.S. Senate,,DEM,Gillibrand,1
+Jefferson,Wilna 1,U.S. Senate,,REP,Farley,1
+Jefferson,Wilna 1,U.S. Senate,,CON,Farley,1
+Jefferson,Wilna 1,U.S. Senate,,WFP,Gillibrand,1
+Jefferson,Wilna 1,U.S. Senate,,IND,Gillibrand,1
+Jefferson,Wilna 1,U.S. Senate,,WEP,Gillibrand,1
+Jefferson,Wilna 1,U.S. Senate,,REF,Farley,1
+Jefferson,Wilna 1,U.S. Senate,,,Write-ins,1
+Jefferson,Wilna 2,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Wilna 2,U.S. Senate,,REP,Farley,0
+Jefferson,Wilna 2,U.S. Senate,,CON,Farley,0
+Jefferson,Wilna 2,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Wilna 2,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Wilna 2,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Wilna 2,U.S. Senate,,REF,Farley,0
+Jefferson,Wilna 2,U.S. Senate,,,Write-ins,0
+Jefferson,Wilna 3,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Wilna 3,U.S. Senate,,REP,Farley,0
+Jefferson,Wilna 3,U.S. Senate,,CON,Farley,0
+Jefferson,Wilna 3,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Wilna 3,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Wilna 3,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Wilna 3,U.S. Senate,,REF,Farley,0
+Jefferson,Wilna 3,U.S. Senate,,,Write-ins,0
+Jefferson,Wilna 4,U.S. Senate,,DEM,Gillibrand,1
+Jefferson,Wilna 4,U.S. Senate,,REP,Farley,1
+Jefferson,Wilna 4,U.S. Senate,,CON,Farley,1
+Jefferson,Wilna 4,U.S. Senate,,WFP,Gillibrand,1
+Jefferson,Wilna 4,U.S. Senate,,IND,Gillibrand,1
+Jefferson,Wilna 4,U.S. Senate,,WEP,Gillibrand,1
+Jefferson,Wilna 4,U.S. Senate,,REF,Farley,1
+Jefferson,Wilna 4,U.S. Senate,,,Write-ins,1
+Jefferson,Wilna 5,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Wilna 5,U.S. Senate,,REP,Farley,0
+Jefferson,Wilna 5,U.S. Senate,,CON,Farley,0
+Jefferson,Wilna 5,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Wilna 5,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Wilna 5,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Wilna 5,U.S. Senate,,REF,Farley,0
+Jefferson,Wilna 5,U.S. Senate,,,Write-ins,0
+Jefferson,Worth 1,U.S. Senate,,DEM,Gillibrand,0
+Jefferson,Worth 1,U.S. Senate,,REP,Farley,0
+Jefferson,Worth 1,U.S. Senate,,CON,Farley,0
+Jefferson,Worth 1,U.S. Senate,,WFP,Gillibrand,0
+Jefferson,Worth 1,U.S. Senate,,IND,Gillibrand,0
+Jefferson,Worth 1,U.S. Senate,,WEP,Gillibrand,0
+Jefferson,Worth 1,U.S. Senate,,REF,Farley,0
+Jefferson,Worth 1,U.S. Senate,,,Write-ins,0
+Jefferson,Adams 1,U.S. House,21,DEM,Cobb,1
+Jefferson,Adams 1,U.S. House,21,REP,Stefanik,1
+Jefferson,Adams 1,U.S. House,21,CON,Stefanik,1
+Jefferson,Adams 1,U.S. House,21,GREEN,Kahn,1
+Jefferson,Adams 1,U.S. House,21,WF,Cobb,1
+Jefferson,Adams 1,U.S. House,21,IND,Stefanik,1
+Jefferson,Adams 1,U.S. House,21,WE,Cobb,1
+Jefferson,Adams 1,U.S. House,21,REF,Stefanik,1
+Jefferson,Adams 1,U.S. House,21,,Write-ins,1
+Jefferson,Adams 2,U.S. House,21,DEM,Cobb,1
+Jefferson,Adams 2,U.S. House,21,REP,Stefanik,1
+Jefferson,Adams 2,U.S. House,21,CON,Stefanik,1
+Jefferson,Adams 2,U.S. House,21,GREEN,Kahn,1
+Jefferson,Adams 2,U.S. House,21,WF,Cobb,1
+Jefferson,Adams 2,U.S. House,21,IND,Stefanik,1
+Jefferson,Adams 2,U.S. House,21,WE,Cobb,1
+Jefferson,Adams 2,U.S. House,21,REF,Stefanik,1
+Jefferson,Adams 2,U.S. House,21,,Write-ins,1
+Jefferson,Adams 3,U.S. House,21,DEM,Cobb,1
+Jefferson,Adams 3,U.S. House,21,REP,Stefanik,1
+Jefferson,Adams 3,U.S. House,21,CON,Stefanik,1
+Jefferson,Adams 3,U.S. House,21,GREEN,Kahn,1
+Jefferson,Adams 3,U.S. House,21,WF,Cobb,1
+Jefferson,Adams 3,U.S. House,21,IND,Stefanik,1
+Jefferson,Adams 3,U.S. House,21,WE,Cobb,1
+Jefferson,Adams 3,U.S. House,21,REF,Stefanik,1
+Jefferson,Adams 3,U.S. House,21,,Write-ins,1
+Jefferson,Alexandria 1,U.S. House,21,DEM,Cobb,3
+Jefferson,Alexandria 1,U.S. House,21,REP,Stefanik,3
+Jefferson,Alexandria 1,U.S. House,21,CON,Stefanik,3
+Jefferson,Alexandria 1,U.S. House,21,GREEN,Kahn,3
+Jefferson,Alexandria 1,U.S. House,21,WF,Cobb,3
+Jefferson,Alexandria 1,U.S. House,21,IND,Stefanik,3
+Jefferson,Alexandria 1,U.S. House,21,WE,Cobb,3
+Jefferson,Alexandria 1,U.S. House,21,REF,Stefanik,3
+Jefferson,Alexandria 1,U.S. House,21,,Write-ins,3
+Jefferson,Alexandria 2,U.S. House,21,DEM,Cobb,1
+Jefferson,Alexandria 2,U.S. House,21,REP,Stefanik,1
+Jefferson,Alexandria 2,U.S. House,21,CON,Stefanik,1
+Jefferson,Alexandria 2,U.S. House,21,GREEN,Kahn,1
+Jefferson,Alexandria 2,U.S. House,21,WF,Cobb,1
+Jefferson,Alexandria 2,U.S. House,21,IND,Stefanik,1
+Jefferson,Alexandria 2,U.S. House,21,WE,Cobb,1
+Jefferson,Alexandria 2,U.S. House,21,REF,Stefanik,1
+Jefferson,Alexandria 2,U.S. House,21,,Write-ins,1
+Jefferson,Alexandria 3,U.S. House,21,DEM,Cobb,7
+Jefferson,Alexandria 3,U.S. House,21,REP,Stefanik,7
+Jefferson,Alexandria 3,U.S. House,21,CON,Stefanik,7
+Jefferson,Alexandria 3,U.S. House,21,GREEN,Kahn,7
+Jefferson,Alexandria 3,U.S. House,21,WF,Cobb,7
+Jefferson,Alexandria 3,U.S. House,21,IND,Stefanik,7
+Jefferson,Alexandria 3,U.S. House,21,WE,Cobb,7
+Jefferson,Alexandria 3,U.S. House,21,REF,Stefanik,7
+Jefferson,Alexandria 3,U.S. House,21,,Write-ins,7
+Jefferson,Antwerp 1,U.S. House,21,DEM,Cobb,1
+Jefferson,Antwerp 1,U.S. House,21,REP,Stefanik,1
+Jefferson,Antwerp 1,U.S. House,21,CON,Stefanik,1
+Jefferson,Antwerp 1,U.S. House,21,GREEN,Kahn,1
+Jefferson,Antwerp 1,U.S. House,21,WF,Cobb,1
+Jefferson,Antwerp 1,U.S. House,21,IND,Stefanik,1
+Jefferson,Antwerp 1,U.S. House,21,WE,Cobb,1
+Jefferson,Antwerp 1,U.S. House,21,REF,Stefanik,1
+Jefferson,Antwerp 1,U.S. House,21,,Write-ins,1
+Jefferson,Antwerp 2,U.S. House,21,DEM,Cobb,3
+Jefferson,Antwerp 2,U.S. House,21,REP,Stefanik,3
+Jefferson,Antwerp 2,U.S. House,21,CON,Stefanik,3
+Jefferson,Antwerp 2,U.S. House,21,GREEN,Kahn,3
+Jefferson,Antwerp 2,U.S. House,21,WF,Cobb,3
+Jefferson,Antwerp 2,U.S. House,21,IND,Stefanik,3
+Jefferson,Antwerp 2,U.S. House,21,WE,Cobb,3
+Jefferson,Antwerp 2,U.S. House,21,REF,Stefanik,3
+Jefferson,Antwerp 2,U.S. House,21,,Write-ins,3
+Jefferson,Brownville 1,U.S. House,21,DEM,Cobb,0
+Jefferson,Brownville 1,U.S. House,21,REP,Stefanik,0
+Jefferson,Brownville 1,U.S. House,21,CON,Stefanik,0
+Jefferson,Brownville 1,U.S. House,21,GREEN,Kahn,0
+Jefferson,Brownville 1,U.S. House,21,WF,Cobb,0
+Jefferson,Brownville 1,U.S. House,21,IND,Stefanik,0
+Jefferson,Brownville 1,U.S. House,21,WE,Cobb,0
+Jefferson,Brownville 1,U.S. House,21,REF,Stefanik,0
+Jefferson,Brownville 1,U.S. House,21,,Write-ins,0
+Jefferson,Brownville 2,U.S. House,21,DEM,Cobb,2
+Jefferson,Brownville 2,U.S. House,21,REP,Stefanik,2
+Jefferson,Brownville 2,U.S. House,21,CON,Stefanik,2
+Jefferson,Brownville 2,U.S. House,21,GREEN,Kahn,2
+Jefferson,Brownville 2,U.S. House,21,WF,Cobb,2
+Jefferson,Brownville 2,U.S. House,21,IND,Stefanik,2
+Jefferson,Brownville 2,U.S. House,21,WE,Cobb,2
+Jefferson,Brownville 2,U.S. House,21,REF,Stefanik,2
+Jefferson,Brownville 2,U.S. House,21,,Write-ins,2
+Jefferson,Brownville 3,U.S. House,21,DEM,Cobb,0
+Jefferson,Brownville 3,U.S. House,21,REP,Stefanik,0
+Jefferson,Brownville 3,U.S. House,21,CON,Stefanik,0
+Jefferson,Brownville 3,U.S. House,21,GREEN,Kahn,0
+Jefferson,Brownville 3,U.S. House,21,WF,Cobb,0
+Jefferson,Brownville 3,U.S. House,21,IND,Stefanik,0
+Jefferson,Brownville 3,U.S. House,21,WE,Cobb,0
+Jefferson,Brownville 3,U.S. House,21,REF,Stefanik,0
+Jefferson,Brownville 3,U.S. House,21,,Write-ins,0
+Jefferson,Brownville 4,U.S. House,21,DEM,Cobb,0
+Jefferson,Brownville 4,U.S. House,21,REP,Stefanik,0
+Jefferson,Brownville 4,U.S. House,21,CON,Stefanik,0
+Jefferson,Brownville 4,U.S. House,21,GREEN,Kahn,0
+Jefferson,Brownville 4,U.S. House,21,WF,Cobb,0
+Jefferson,Brownville 4,U.S. House,21,IND,Stefanik,0
+Jefferson,Brownville 4,U.S. House,21,WE,Cobb,0
+Jefferson,Brownville 4,U.S. House,21,REF,Stefanik,0
+Jefferson,Brownville 4,U.S. House,21,,Write-ins,0
+Jefferson,Brownville 5,U.S. House,21,DEM,Cobb,0
+Jefferson,Brownville 5,U.S. House,21,REP,Stefanik,0
+Jefferson,Brownville 5,U.S. House,21,CON,Stefanik,0
+Jefferson,Brownville 5,U.S. House,21,GREEN,Kahn,0
+Jefferson,Brownville 5,U.S. House,21,WF,Cobb,0
+Jefferson,Brownville 5,U.S. House,21,IND,Stefanik,0
+Jefferson,Brownville 5,U.S. House,21,WE,Cobb,0
+Jefferson,Brownville 5,U.S. House,21,REF,Stefanik,0
+Jefferson,Brownville 5,U.S. House,21,,Write-ins,0
+Jefferson,Cape Vincent 1,U.S. House,21,DEM,Cobb,2
+Jefferson,Cape Vincent 1,U.S. House,21,REP,Stefanik,2
+Jefferson,Cape Vincent 1,U.S. House,21,CON,Stefanik,2
+Jefferson,Cape Vincent 1,U.S. House,21,GREEN,Kahn,2
+Jefferson,Cape Vincent 1,U.S. House,21,WF,Cobb,2
+Jefferson,Cape Vincent 1,U.S. House,21,IND,Stefanik,2
+Jefferson,Cape Vincent 1,U.S. House,21,WE,Cobb,2
+Jefferson,Cape Vincent 1,U.S. House,21,REF,Stefanik,2
+Jefferson,Cape Vincent 1,U.S. House,21,,Write-ins,2
+Jefferson,Cape Vincent 2,U.S. House,21,DEM,Cobb,3
+Jefferson,Cape Vincent 2,U.S. House,21,REP,Stefanik,3
+Jefferson,Cape Vincent 2,U.S. House,21,CON,Stefanik,3
+Jefferson,Cape Vincent 2,U.S. House,21,GREEN,Kahn,3
+Jefferson,Cape Vincent 2,U.S. House,21,WF,Cobb,3
+Jefferson,Cape Vincent 2,U.S. House,21,IND,Stefanik,3
+Jefferson,Cape Vincent 2,U.S. House,21,WE,Cobb,3
+Jefferson,Cape Vincent 2,U.S. House,21,REF,Stefanik,3
+Jefferson,Cape Vincent 2,U.S. House,21,,Write-ins,3
+Jefferson,Champion 1,U.S. House,21,DEM,Cobb,3
+Jefferson,Champion 1,U.S. House,21,REP,Stefanik,3
+Jefferson,Champion 1,U.S. House,21,CON,Stefanik,3
+Jefferson,Champion 1,U.S. House,21,GREEN,Kahn,3
+Jefferson,Champion 1,U.S. House,21,WF,Cobb,3
+Jefferson,Champion 1,U.S. House,21,IND,Stefanik,3
+Jefferson,Champion 1,U.S. House,21,WE,Cobb,3
+Jefferson,Champion 1,U.S. House,21,REF,Stefanik,3
+Jefferson,Champion 1,U.S. House,21,,Write-ins,3
+Jefferson,Champion 2,U.S. House,21,DEM,Cobb,2
+Jefferson,Champion 2,U.S. House,21,REP,Stefanik,2
+Jefferson,Champion 2,U.S. House,21,CON,Stefanik,2
+Jefferson,Champion 2,U.S. House,21,GREEN,Kahn,2
+Jefferson,Champion 2,U.S. House,21,WF,Cobb,2
+Jefferson,Champion 2,U.S. House,21,IND,Stefanik,2
+Jefferson,Champion 2,U.S. House,21,WE,Cobb,2
+Jefferson,Champion 2,U.S. House,21,REF,Stefanik,2
+Jefferson,Champion 2,U.S. House,21,,Write-ins,2
+Jefferson,Clayton 1,U.S. House,21,DEM,Cobb,0
+Jefferson,Clayton 1,U.S. House,21,REP,Stefanik,0
+Jefferson,Clayton 1,U.S. House,21,CON,Stefanik,0
+Jefferson,Clayton 1,U.S. House,21,GREEN,Kahn,0
+Jefferson,Clayton 1,U.S. House,21,WF,Cobb,0
+Jefferson,Clayton 1,U.S. House,21,IND,Stefanik,0
+Jefferson,Clayton 1,U.S. House,21,WE,Cobb,0
+Jefferson,Clayton 1,U.S. House,21,REF,Stefanik,0
+Jefferson,Clayton 1,U.S. House,21,,Write-ins,0
+Jefferson,Clayton 2,U.S. House,21,DEM,Cobb,0
+Jefferson,Clayton 2,U.S. House,21,REP,Stefanik,0
+Jefferson,Clayton 2,U.S. House,21,CON,Stefanik,0
+Jefferson,Clayton 2,U.S. House,21,GREEN,Kahn,0
+Jefferson,Clayton 2,U.S. House,21,WF,Cobb,0
+Jefferson,Clayton 2,U.S. House,21,IND,Stefanik,0
+Jefferson,Clayton 2,U.S. House,21,WE,Cobb,0
+Jefferson,Clayton 2,U.S. House,21,REF,Stefanik,0
+Jefferson,Clayton 2,U.S. House,21,,Write-ins,0
+Jefferson,Clayton 3,U.S. House,21,DEM,Cobb,3
+Jefferson,Clayton 3,U.S. House,21,REP,Stefanik,3
+Jefferson,Clayton 3,U.S. House,21,CON,Stefanik,3
+Jefferson,Clayton 3,U.S. House,21,GREEN,Kahn,3
+Jefferson,Clayton 3,U.S. House,21,WF,Cobb,3
+Jefferson,Clayton 3,U.S. House,21,IND,Stefanik,3
+Jefferson,Clayton 3,U.S. House,21,WE,Cobb,3
+Jefferson,Clayton 3,U.S. House,21,REF,Stefanik,3
+Jefferson,Clayton 3,U.S. House,21,,Write-ins,3
+Jefferson,Ellisburg 1,U.S. House,21,DEM,Cobb,0
+Jefferson,Ellisburg 1,U.S. House,21,REP,Stefanik,0
+Jefferson,Ellisburg 1,U.S. House,21,CON,Stefanik,0
+Jefferson,Ellisburg 1,U.S. House,21,GREEN,Kahn,0
+Jefferson,Ellisburg 1,U.S. House,21,WF,Cobb,0
+Jefferson,Ellisburg 1,U.S. House,21,IND,Stefanik,0
+Jefferson,Ellisburg 1,U.S. House,21,WE,Cobb,0
+Jefferson,Ellisburg 1,U.S. House,21,REF,Stefanik,0
+Jefferson,Ellisburg 1,U.S. House,21,,Write-ins,0
+Jefferson,Elllisburg 2,U.S. House,21,DEM,Cobb,0
+Jefferson,Elllisburg 2,U.S. House,21,REP,Stefanik,0
+Jefferson,Elllisburg 2,U.S. House,21,CON,Stefanik,0
+Jefferson,Elllisburg 2,U.S. House,21,GREEN,Kahn,0
+Jefferson,Elllisburg 2,U.S. House,21,WF,Cobb,0
+Jefferson,Elllisburg 2,U.S. House,21,IND,Stefanik,0
+Jefferson,Elllisburg 2,U.S. House,21,WE,Cobb,0
+Jefferson,Elllisburg 2,U.S. House,21,REF,Stefanik,0
+Jefferson,Elllisburg 2,U.S. House,21,,Write-ins,0
+Jefferson,Ellisburg 3,U.S. House,21,DEM,Cobb,0
+Jefferson,Ellisburg 3,U.S. House,21,REP,Stefanik,0
+Jefferson,Ellisburg 3,U.S. House,21,CON,Stefanik,0
+Jefferson,Ellisburg 3,U.S. House,21,GREEN,Kahn,0
+Jefferson,Ellisburg 3,U.S. House,21,WF,Cobb,0
+Jefferson,Ellisburg 3,U.S. House,21,IND,Stefanik,0
+Jefferson,Ellisburg 3,U.S. House,21,WE,Cobb,0
+Jefferson,Ellisburg 3,U.S. House,21,REF,Stefanik,0
+Jefferson,Ellisburg 3,U.S. House,21,,Write-ins,0
+Jefferson,Ellisburg 4,U.S. House,21,DEM,Cobb,1
+Jefferson,Ellisburg 4,U.S. House,21,REP,Stefanik,1
+Jefferson,Ellisburg 4,U.S. House,21,CON,Stefanik,1
+Jefferson,Ellisburg 4,U.S. House,21,GREEN,Kahn,1
+Jefferson,Ellisburg 4,U.S. House,21,WF,Cobb,1
+Jefferson,Ellisburg 4,U.S. House,21,IND,Stefanik,1
+Jefferson,Ellisburg 4,U.S. House,21,WE,Cobb,1
+Jefferson,Ellisburg 4,U.S. House,21,REF,Stefanik,1
+Jefferson,Ellisburg 4,U.S. House,21,,Write-ins,1
+Jefferson,Henderson 1,U.S. House,21,DEM,Cobb,3
+Jefferson,Henderson 1,U.S. House,21,REP,Stefanik,3
+Jefferson,Henderson 1,U.S. House,21,CON,Stefanik,3
+Jefferson,Henderson 1,U.S. House,21,GREEN,Kahn,3
+Jefferson,Henderson 1,U.S. House,21,WF,Cobb,3
+Jefferson,Henderson 1,U.S. House,21,IND,Stefanik,3
+Jefferson,Henderson 1,U.S. House,21,WE,Cobb,3
+Jefferson,Henderson 1,U.S. House,21,REF,Stefanik,3
+Jefferson,Henderson 1,U.S. House,21,,Write-ins,3
+Jefferson,Hounsfield 1,U.S. House,21,DEM,Cobb,2
+Jefferson,Hounsfield 1,U.S. House,21,REP,Stefanik,2
+Jefferson,Hounsfield 1,U.S. House,21,CON,Stefanik,2
+Jefferson,Hounsfield 1,U.S. House,21,GREEN,Kahn,2
+Jefferson,Hounsfield 1,U.S. House,21,WF,Cobb,2
+Jefferson,Hounsfield 1,U.S. House,21,IND,Stefanik,2
+Jefferson,Hounsfield 1,U.S. House,21,WE,Cobb,2
+Jefferson,Hounsfield 1,U.S. House,21,REF,Stefanik,2
+Jefferson,Hounsfield 1,U.S. House,21,,Write-ins,2
+Jefferson,Hounsfield 2,U.S. House,21,DEM,Cobb,0
+Jefferson,Hounsfield 2,U.S. House,21,REP,Stefanik,0
+Jefferson,Hounsfield 2,U.S. House,21,CON,Stefanik,0
+Jefferson,Hounsfield 2,U.S. House,21,GREEN,Kahn,0
+Jefferson,Hounsfield 2,U.S. House,21,WF,Cobb,0
+Jefferson,Hounsfield 2,U.S. House,21,IND,Stefanik,0
+Jefferson,Hounsfield 2,U.S. House,21,WE,Cobb,0
+Jefferson,Hounsfield 2,U.S. House,21,REF,Stefanik,0
+Jefferson,Hounsfield 2,U.S. House,21,,Write-ins,0
+Jefferson,LeRay 1,U.S. House,21,DEM,Cobb,1
+Jefferson,LeRay 1,U.S. House,21,REP,Stefanik,1
+Jefferson,LeRay 1,U.S. House,21,CON,Stefanik,1
+Jefferson,LeRay 1,U.S. House,21,GREEN,Kahn,1
+Jefferson,LeRay 1,U.S. House,21,WF,Cobb,1
+Jefferson,LeRay 1,U.S. House,21,IND,Stefanik,1
+Jefferson,LeRay 1,U.S. House,21,WE,Cobb,1
+Jefferson,LeRay 1,U.S. House,21,REF,Stefanik,1
+Jefferson,LeRay 1,U.S. House,21,,Write-ins,1
+Jefferson,LeRay 2,U.S. House,21,DEM,Cobb,0
+Jefferson,LeRay 2,U.S. House,21,REP,Stefanik,0
+Jefferson,LeRay 2,U.S. House,21,CON,Stefanik,0
+Jefferson,LeRay 2,U.S. House,21,GREEN,Kahn,0
+Jefferson,LeRay 2,U.S. House,21,WF,Cobb,0
+Jefferson,LeRay 2,U.S. House,21,IND,Stefanik,0
+Jefferson,LeRay 2,U.S. House,21,WE,Cobb,0
+Jefferson,LeRay 2,U.S. House,21,REF,Stefanik,0
+Jefferson,LeRay 2,U.S. House,21,,Write-ins,0
+Jefferson,LeRay 3,U.S. House,21,DEM,Cobb,0
+Jefferson,LeRay 3,U.S. House,21,REP,Stefanik,0
+Jefferson,LeRay 3,U.S. House,21,CON,Stefanik,0
+Jefferson,LeRay 3,U.S. House,21,GREEN,Kahn,0
+Jefferson,LeRay 3,U.S. House,21,WF,Cobb,0
+Jefferson,LeRay 3,U.S. House,21,IND,Stefanik,0
+Jefferson,LeRay 3,U.S. House,21,WE,Cobb,0
+Jefferson,LeRay 3,U.S. House,21,REF,Stefanik,0
+Jefferson,LeRay 3,U.S. House,21,,Write-ins,0
+Jefferson,LeRay 4,U.S. House,21,DEM,Cobb,0
+Jefferson,LeRay 4,U.S. House,21,REP,Stefanik,0
+Jefferson,LeRay 4,U.S. House,21,CON,Stefanik,0
+Jefferson,LeRay 4,U.S. House,21,GREEN,Kahn,0
+Jefferson,LeRay 4,U.S. House,21,WF,Cobb,0
+Jefferson,LeRay 4,U.S. House,21,IND,Stefanik,0
+Jefferson,LeRay 4,U.S. House,21,WE,Cobb,0
+Jefferson,LeRay 4,U.S. House,21,REF,Stefanik,0
+Jefferson,LeRay 4,U.S. House,21,,Write-ins,0
+Jefferson,LeRay 5,U.S. House,21,DEM,Cobb,0
+Jefferson,LeRay 5,U.S. House,21,REP,Stefanik,0
+Jefferson,LeRay 5,U.S. House,21,CON,Stefanik,0
+Jefferson,LeRay 5,U.S. House,21,GREEN,Kahn,0
+Jefferson,LeRay 5,U.S. House,21,WF,Cobb,0
+Jefferson,LeRay 5,U.S. House,21,IND,Stefanik,0
+Jefferson,LeRay 5,U.S. House,21,WE,Cobb,0
+Jefferson,LeRay 5,U.S. House,21,REF,Stefanik,0
+Jefferson,LeRay 5,U.S. House,21,,Write-ins,0
+Jefferson,LeRay 6,U.S. House,21,DEM,Cobb,1
+Jefferson,LeRay 6,U.S. House,21,REP,Stefanik,1
+Jefferson,LeRay 6,U.S. House,21,CON,Stefanik,1
+Jefferson,LeRay 6,U.S. House,21,GREEN,Kahn,1
+Jefferson,LeRay 6,U.S. House,21,WF,Cobb,1
+Jefferson,LeRay 6,U.S. House,21,IND,Stefanik,1
+Jefferson,LeRay 6,U.S. House,21,WE,Cobb,1
+Jefferson,LeRay 6,U.S. House,21,REF,Stefanik,1
+Jefferson,LeRay 6,U.S. House,21,,Write-ins,1
+Jefferson,LeRay 7,U.S. House,21,DEM,Cobb,0
+Jefferson,LeRay 7,U.S. House,21,REP,Stefanik,0
+Jefferson,LeRay 7,U.S. House,21,CON,Stefanik,0
+Jefferson,LeRay 7,U.S. House,21,GREEN,Kahn,0
+Jefferson,LeRay 7,U.S. House,21,WF,Cobb,0
+Jefferson,LeRay 7,U.S. House,21,IND,Stefanik,0
+Jefferson,LeRay 7,U.S. House,21,WE,Cobb,0
+Jefferson,LeRay 7,U.S. House,21,REF,Stefanik,0
+Jefferson,LeRay 7,U.S. House,21,,Write-ins,0
+Jefferson,LeRay 8,U.S. House,21,DEM,Cobb,4
+Jefferson,LeRay 8,U.S. House,21,REP,Stefanik,4
+Jefferson,LeRay 8,U.S. House,21,CON,Stefanik,4
+Jefferson,LeRay 8,U.S. House,21,GREEN,Kahn,4
+Jefferson,LeRay 8,U.S. House,21,WF,Cobb,4
+Jefferson,LeRay 8,U.S. House,21,IND,Stefanik,4
+Jefferson,LeRay 8,U.S. House,21,WE,Cobb,4
+Jefferson,LeRay 8,U.S. House,21,REF,Stefanik,4
+Jefferson,LeRay 8,U.S. House,21,,Write-ins,4
+Jefferson,Lorraine 1,U.S. House,21,DEM,Cobb,0
+Jefferson,Lorraine 1,U.S. House,21,REP,Stefanik,0
+Jefferson,Lorraine 1,U.S. House,21,CON,Stefanik,0
+Jefferson,Lorraine 1,U.S. House,21,GREEN,Kahn,0
+Jefferson,Lorraine 1,U.S. House,21,WF,Cobb,0
+Jefferson,Lorraine 1,U.S. House,21,IND,Stefanik,0
+Jefferson,Lorraine 1,U.S. House,21,WE,Cobb,0
+Jefferson,Lorraine 1,U.S. House,21,REF,Stefanik,0
+Jefferson,Lorraine 1,U.S. House,21,,Write-ins,0
+Jefferson,Lyme 1,U.S. House,21,DEM,Cobb,2
+Jefferson,Lyme 1,U.S. House,21,REP,Stefanik,2
+Jefferson,Lyme 1,U.S. House,21,CON,Stefanik,2
+Jefferson,Lyme 1,U.S. House,21,GREEN,Kahn,2
+Jefferson,Lyme 1,U.S. House,21,WF,Cobb,2
+Jefferson,Lyme 1,U.S. House,21,IND,Stefanik,2
+Jefferson,Lyme 1,U.S. House,21,WE,Cobb,2
+Jefferson,Lyme 1,U.S. House,21,REF,Stefanik,2
+Jefferson,Lyme 1,U.S. House,21,,Write-ins,2
+Jefferson,Lyme 2,U.S. House,21,DEM,Cobb,0
+Jefferson,Lyme 2,U.S. House,21,REP,Stefanik,0
+Jefferson,Lyme 2,U.S. House,21,CON,Stefanik,0
+Jefferson,Lyme 2,U.S. House,21,GREEN,Kahn,0
+Jefferson,Lyme 2,U.S. House,21,WF,Cobb,0
+Jefferson,Lyme 2,U.S. House,21,IND,Stefanik,0
+Jefferson,Lyme 2,U.S. House,21,WE,Cobb,0
+Jefferson,Lyme 2,U.S. House,21,REF,Stefanik,0
+Jefferson,Lyme 2,U.S. House,21,,Write-ins,0
+Jefferson,Lyme 3,U.S. House,21,DEM,Cobb,0
+Jefferson,Lyme 3,U.S. House,21,REP,Stefanik,0
+Jefferson,Lyme 3,U.S. House,21,CON,Stefanik,0
+Jefferson,Lyme 3,U.S. House,21,GREEN,Kahn,0
+Jefferson,Lyme 3,U.S. House,21,WF,Cobb,0
+Jefferson,Lyme 3,U.S. House,21,IND,Stefanik,0
+Jefferson,Lyme 3,U.S. House,21,WE,Cobb,0
+Jefferson,Lyme 3,U.S. House,21,REF,Stefanik,0
+Jefferson,Lyme 3,U.S. House,21,,Write-ins,0
+Jefferson,Orleans 1,U.S. House,21,DEM,Cobb,2
+Jefferson,Orleans 1,U.S. House,21,REP,Stefanik,2
+Jefferson,Orleans 1,U.S. House,21,CON,Stefanik,2
+Jefferson,Orleans 1,U.S. House,21,GREEN,Kahn,2
+Jefferson,Orleans 1,U.S. House,21,WF,Cobb,2
+Jefferson,Orleans 1,U.S. House,21,IND,Stefanik,2
+Jefferson,Orleans 1,U.S. House,21,WE,Cobb,2
+Jefferson,Orleans 1,U.S. House,21,REF,Stefanik,2
+Jefferson,Orleans 1,U.S. House,21,,Write-ins,2
+Jefferson,Orleans 2,U.S. House,21,DEM,Cobb,1
+Jefferson,Orleans 2,U.S. House,21,REP,Stefanik,1
+Jefferson,Orleans 2,U.S. House,21,CON,Stefanik,1
+Jefferson,Orleans 2,U.S. House,21,GREEN,Kahn,1
+Jefferson,Orleans 2,U.S. House,21,WF,Cobb,1
+Jefferson,Orleans 2,U.S. House,21,IND,Stefanik,1
+Jefferson,Orleans 2,U.S. House,21,WE,Cobb,1
+Jefferson,Orleans 2,U.S. House,21,REF,Stefanik,1
+Jefferson,Orleans 2,U.S. House,21,,Write-ins,1
+Jefferson,Pamelia 1,U.S. House,21,DEM,Cobb,2
+Jefferson,Pamelia 1,U.S. House,21,REP,Stefanik,2
+Jefferson,Pamelia 1,U.S. House,21,CON,Stefanik,2
+Jefferson,Pamelia 1,U.S. House,21,GREEN,Kahn,2
+Jefferson,Pamelia 1,U.S. House,21,WF,Cobb,2
+Jefferson,Pamelia 1,U.S. House,21,IND,Stefanik,2
+Jefferson,Pamelia 1,U.S. House,21,WE,Cobb,2
+Jefferson,Pamelia 1,U.S. House,21,REF,Stefanik,2
+Jefferson,Pamelia 1,U.S. House,21,,Write-ins,2
+Jefferson,Pamelia 2,U.S. House,21,DEM,Cobb,3
+Jefferson,Pamelia 2,U.S. House,21,REP,Stefanik,3
+Jefferson,Pamelia 2,U.S. House,21,CON,Stefanik,3
+Jefferson,Pamelia 2,U.S. House,21,GREEN,Kahn,3
+Jefferson,Pamelia 2,U.S. House,21,WF,Cobb,3
+Jefferson,Pamelia 2,U.S. House,21,IND,Stefanik,3
+Jefferson,Pamelia 2,U.S. House,21,WE,Cobb,3
+Jefferson,Pamelia 2,U.S. House,21,REF,Stefanik,3
+Jefferson,Pamelia 2,U.S. House,21,,Write-ins,3
+Jefferson,Philadelphia 1,U.S. House,21,DEM,Cobb,2
+Jefferson,Philadelphia 1,U.S. House,21,REP,Stefanik,2
+Jefferson,Philadelphia 1,U.S. House,21,CON,Stefanik,2
+Jefferson,Philadelphia 1,U.S. House,21,GREEN,Kahn,2
+Jefferson,Philadelphia 1,U.S. House,21,WF,Cobb,2
+Jefferson,Philadelphia 1,U.S. House,21,IND,Stefanik,2
+Jefferson,Philadelphia 1,U.S. House,21,WE,Cobb,2
+Jefferson,Philadelphia 1,U.S. House,21,REF,Stefanik,2
+Jefferson,Philadelphia 1,U.S. House,21,,Write-ins,2
+Jefferson,Philadelphia 2,U.S. House,21,DEM,Cobb,2
+Jefferson,Philadelphia 2,U.S. House,21,REP,Stefanik,2
+Jefferson,Philadelphia 2,U.S. House,21,CON,Stefanik,2
+Jefferson,Philadelphia 2,U.S. House,21,GREEN,Kahn,2
+Jefferson,Philadelphia 2,U.S. House,21,WF,Cobb,2
+Jefferson,Philadelphia 2,U.S. House,21,IND,Stefanik,2
+Jefferson,Philadelphia 2,U.S. House,21,WE,Cobb,2
+Jefferson,Philadelphia 2,U.S. House,21,REF,Stefanik,2
+Jefferson,Philadelphia 2,U.S. House,21,,Write-ins,2
+Jefferson,Rodman 1,U.S. House,21,DEM,Cobb,2
+Jefferson,Rodman 1,U.S. House,21,REP,Stefanik,2
+Jefferson,Rodman 1,U.S. House,21,CON,Stefanik,2
+Jefferson,Rodman 1,U.S. House,21,GREEN,Kahn,2
+Jefferson,Rodman 1,U.S. House,21,WF,Cobb,2
+Jefferson,Rodman 1,U.S. House,21,IND,Stefanik,2
+Jefferson,Rodman 1,U.S. House,21,WE,Cobb,2
+Jefferson,Rodman 1,U.S. House,21,REF,Stefanik,2
+Jefferson,Rodman 1,U.S. House,21,,Write-ins,2
+Jefferson,Rutland 1,U.S. House,21,DEM,Cobb,2
+Jefferson,Rutland 1,U.S. House,21,REP,Stefanik,2
+Jefferson,Rutland 1,U.S. House,21,CON,Stefanik,2
+Jefferson,Rutland 1,U.S. House,21,GREEN,Kahn,2
+Jefferson,Rutland 1,U.S. House,21,WF,Cobb,2
+Jefferson,Rutland 1,U.S. House,21,IND,Stefanik,2
+Jefferson,Rutland 1,U.S. House,21,WE,Cobb,2
+Jefferson,Rutland 1,U.S. House,21,REF,Stefanik,2
+Jefferson,Rutland 1,U.S. House,21,,Write-ins,2
+Jefferson,Rutland 2,U.S. House,21,DEM,Cobb,2
+Jefferson,Rutland 2,U.S. House,21,REP,Stefanik,2
+Jefferson,Rutland 2,U.S. House,21,CON,Stefanik,2
+Jefferson,Rutland 2,U.S. House,21,GREEN,Kahn,2
+Jefferson,Rutland 2,U.S. House,21,WF,Cobb,2
+Jefferson,Rutland 2,U.S. House,21,IND,Stefanik,2
+Jefferson,Rutland 2,U.S. House,21,WE,Cobb,2
+Jefferson,Rutland 2,U.S. House,21,REF,Stefanik,2
+Jefferson,Rutland 2,U.S. House,21,,Write-ins,2
+Jefferson,Rutland 3,U.S. House,21,DEM,Cobb,1
+Jefferson,Rutland 3,U.S. House,21,REP,Stefanik,1
+Jefferson,Rutland 3,U.S. House,21,CON,Stefanik,1
+Jefferson,Rutland 3,U.S. House,21,GREEN,Kahn,1
+Jefferson,Rutland 3,U.S. House,21,WF,Cobb,1
+Jefferson,Rutland 3,U.S. House,21,IND,Stefanik,1
+Jefferson,Rutland 3,U.S. House,21,WE,Cobb,1
+Jefferson,Rutland 3,U.S. House,21,REF,Stefanik,1
+Jefferson,Rutland 3,U.S. House,21,,Write-ins,1
+Jefferson,Theresa 1,U.S. House,21,DEM,Cobb,2
+Jefferson,Theresa 1,U.S. House,21,REP,Stefanik,2
+Jefferson,Theresa 1,U.S. House,21,CON,Stefanik,2
+Jefferson,Theresa 1,U.S. House,21,GREEN,Kahn,2
+Jefferson,Theresa 1,U.S. House,21,WF,Cobb,2
+Jefferson,Theresa 1,U.S. House,21,IND,Stefanik,2
+Jefferson,Theresa 1,U.S. House,21,WE,Cobb,2
+Jefferson,Theresa 1,U.S. House,21,REF,Stefanik,2
+Jefferson,Theresa 1,U.S. House,21,,Write-ins,2
+Jefferson,Watertown 1,U.S. House,21,DEM,Cobb,2
+Jefferson,Watertown 1,U.S. House,21,REP,Stefanik,2
+Jefferson,Watertown 1,U.S. House,21,CON,Stefanik,2
+Jefferson,Watertown 1,U.S. House,21,GREEN,Kahn,2
+Jefferson,Watertown 1,U.S. House,21,WF,Cobb,2
+Jefferson,Watertown 1,U.S. House,21,IND,Stefanik,2
+Jefferson,Watertown 1,U.S. House,21,WE,Cobb,2
+Jefferson,Watertown 1,U.S. House,21,REF,Stefanik,2
+Jefferson,Watertown 1,U.S. House,21,,Write-ins,2
+Jefferson,Watertown 2,U.S. House,21,DEM,Cobb,1
+Jefferson,Watertown 2,U.S. House,21,REP,Stefanik,1
+Jefferson,Watertown 2,U.S. House,21,CON,Stefanik,1
+Jefferson,Watertown 2,U.S. House,21,GREEN,Kahn,1
+Jefferson,Watertown 2,U.S. House,21,WF,Cobb,1
+Jefferson,Watertown 2,U.S. House,21,IND,Stefanik,1
+Jefferson,Watertown 2,U.S. House,21,WE,Cobb,1
+Jefferson,Watertown 2,U.S. House,21,REF,Stefanik,1
+Jefferson,Watertown 2,U.S. House,21,,Write-ins,1
+Jefferson,Wilna 1,U.S. House,21,DEM,Cobb,3
+Jefferson,Wilna 1,U.S. House,21,REP,Stefanik,3
+Jefferson,Wilna 1,U.S. House,21,CON,Stefanik,3
+Jefferson,Wilna 1,U.S. House,21,GREEN,Kahn,3
+Jefferson,Wilna 1,U.S. House,21,WF,Cobb,3
+Jefferson,Wilna 1,U.S. House,21,IND,Stefanik,3
+Jefferson,Wilna 1,U.S. House,21,WE,Cobb,3
+Jefferson,Wilna 1,U.S. House,21,REF,Stefanik,3
+Jefferson,Wilna 1,U.S. House,21,,Write-ins,3
+Jefferson,Wilna 2,U.S. House,21,DEM,Cobb,0
+Jefferson,Wilna 2,U.S. House,21,REP,Stefanik,0
+Jefferson,Wilna 2,U.S. House,21,CON,Stefanik,0
+Jefferson,Wilna 2,U.S. House,21,GREEN,Kahn,0
+Jefferson,Wilna 2,U.S. House,21,WF,Cobb,0
+Jefferson,Wilna 2,U.S. House,21,IND,Stefanik,0
+Jefferson,Wilna 2,U.S. House,21,WE,Cobb,0
+Jefferson,Wilna 2,U.S. House,21,REF,Stefanik,0
+Jefferson,Wilna 2,U.S. House,21,,Write-ins,0
+Jefferson,Wilna 3,U.S. House,21,DEM,Cobb,0
+Jefferson,Wilna 3,U.S. House,21,REP,Stefanik,0
+Jefferson,Wilna 3,U.S. House,21,CON,Stefanik,0
+Jefferson,Wilna 3,U.S. House,21,GREEN,Kahn,0
+Jefferson,Wilna 3,U.S. House,21,WF,Cobb,0
+Jefferson,Wilna 3,U.S. House,21,IND,Stefanik,0
+Jefferson,Wilna 3,U.S. House,21,WE,Cobb,0
+Jefferson,Wilna 3,U.S. House,21,REF,Stefanik,0
+Jefferson,Wilna 3,U.S. House,21,,Write-ins,0
+Jefferson,Wilna 4,U.S. House,21,DEM,Cobb,2
+Jefferson,Wilna 4,U.S. House,21,REP,Stefanik,2
+Jefferson,Wilna 4,U.S. House,21,CON,Stefanik,2
+Jefferson,Wilna 4,U.S. House,21,GREEN,Kahn,2
+Jefferson,Wilna 4,U.S. House,21,WF,Cobb,2
+Jefferson,Wilna 4,U.S. House,21,IND,Stefanik,2
+Jefferson,Wilna 4,U.S. House,21,WE,Cobb,2
+Jefferson,Wilna 4,U.S. House,21,REF,Stefanik,2
+Jefferson,Wilna 4,U.S. House,21,,Write-ins,2
+Jefferson,Wilna 5,U.S. House,21,DEM,Cobb,1
+Jefferson,Wilna 5,U.S. House,21,REP,Stefanik,1
+Jefferson,Wilna 5,U.S. House,21,CON,Stefanik,1
+Jefferson,Wilna 5,U.S. House,21,GREEN,Kahn,1
+Jefferson,Wilna 5,U.S. House,21,WF,Cobb,1
+Jefferson,Wilna 5,U.S. House,21,IND,Stefanik,1
+Jefferson,Wilna 5,U.S. House,21,WE,Cobb,1
+Jefferson,Wilna 5,U.S. House,21,REF,Stefanik,1
+Jefferson,Wilna 5,U.S. House,21,,Write-ins,1
+Jefferson,Worth 1,U.S. House,21,DEM,Cobb,1
+Jefferson,Worth 1,U.S. House,21,REP,Stefanik,1
+Jefferson,Worth 1,U.S. House,21,CON,Stefanik,1
+Jefferson,Worth 1,U.S. House,21,GREEN,Kahn,1
+Jefferson,Worth 1,U.S. House,21,WF,Cobb,1
+Jefferson,Worth 1,U.S. House,21,IND,Stefanik,1
+Jefferson,Worth 1,U.S. House,21,WE,Cobb,1
+Jefferson,Worth 1,U.S. House,21,REF,Stefanik,1
+Jefferson,Worth 1,U.S. House,21,,Write-ins,1
