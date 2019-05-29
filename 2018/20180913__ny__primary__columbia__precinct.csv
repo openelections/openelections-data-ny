@@ -1,0 +1,946 @@
+county,precinct,office,district,candidate,party,election_day,absentee,votes
+Columbia,Ancram-1,Governor,,CYNTHIA E NIXON,Democratic,36,16,52
+Columbia,Ancram-1,Governor,,ANDREW M CUOMO,Democratic,29,19,48
+Columbia,Ancram-1,Governor,,Blanks,Democratic,1,2,3
+Columbia,Ancram-1,Governor,,Voids,Democratic,0,2,2
+Columbia,Ancram-1,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Ancram-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,31,24,55
+Columbia,Ancram-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,35,8,43
+Columbia,Ancram-1,Lieutenant Governor,,Blanks,Democratic,0,7,7
+Columbia,Ancram-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Ancram-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Ancram-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,10,7,17
+Columbia,Ancram-1,Attorney General,,LETITIA A JAMES,Democratic,8,9,17
+Columbia,Ancram-1,Attorney General,,LEECIA R EVE,Democratic,0,0,0
+Columbia,Ancram-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,48,22,70
+Columbia,Ancram-1,Attorney General,,Blanks,Democratic,0,1,1
+Columbia,Ancram-1,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Ancram-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Ancram-2,Governor,,CYNTHIA E NIXON,Democratic,28,7,35
+Columbia,Ancram-2,Governor,,ANDREW M CUOMO,Democratic,27,12,39
+Columbia,Ancram-2,Governor,,Blanks,Democratic,0,0,0
+Columbia,Ancram-2,Governor,,Voids,Democratic,0,0,0
+Columbia,Ancram-2,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Ancram-2,Lieutenant Governor,,KATHY C HOCHUL,Democratic,25,7,32
+Columbia,Ancram-2,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,26,10,36
+Columbia,Ancram-2,Lieutenant Governor,,Blanks,Democratic,4,2,6
+Columbia,Ancram-2,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Ancram-2,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Ancram-2,Attorney General,,SEAN PATRICK MALONEY,Democratic,12,3,15
+Columbia,Ancram-2,Attorney General,,LETITIA A JAMES,Democratic,1,1,2
+Columbia,Ancram-2,Attorney General,,LEECIA R EVE,Democratic,4,2,6
+Columbia,Ancram-2,Attorney General,,ZEPHYR TEACHOUT,Democratic,38,13,51
+Columbia,Ancram-2,Attorney General,,Blanks,Democratic,0,0,0
+Columbia,Ancram-2,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Ancram-2,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Austerlitz-1,Governor,,CYNTHIA E NIXON,Democratic,59,9,68
+Columbia,Austerlitz-1,Governor,,ANDREW M CUOMO,Democratic,53,12,65
+Columbia,Austerlitz-1,Governor,,Blanks,Democratic,1,3,4
+Columbia,Austerlitz-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Austerlitz-1,Governor,,Scatterings,Democratic,1,0,1
+Columbia,Austerlitz-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,47,10,57
+Columbia,Austerlitz-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,61,14,75
+Columbia,Austerlitz-1,Lieutenant Governor,,Blanks,Democratic,6,0,6
+Columbia,Austerlitz-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Austerlitz-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Austerlitz-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,21,4,25
+Columbia,Austerlitz-1,Attorney General,,LETITIA A JAMES,Democratic,5,5,10
+Columbia,Austerlitz-1,Attorney General,,LEECIA R EVE,Democratic,2,1,3
+Columbia,Austerlitz-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,84,14,98
+Columbia,Austerlitz-1,Attorney General,,Blanks,Democratic,1,0,1
+Columbia,Austerlitz-1,Attorney General,,Voids,Democratic,1,0,1
+Columbia,Austerlitz-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Austerlitz-1,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,97,17,114
+Columbia,Austerlitz-1,State Assembly,107,DONALD G BOYAJIAN,Democratic,8,4,12
+Columbia,Austerlitz-1,State Assembly,107,Blanks,Democratic,7,3,10
+Columbia,Austerlitz-1,State Assembly,107,Voids,Democratic,1,0,1
+Columbia,Austerlitz-1,State Assembly,107,Scatterings,Democratic,1,0,1
+Columbia,Austerlitz-2,Governor,,CYNTHIA E NIXON,Democratic,71,22,93
+Columbia,Austerlitz-2,Governor,,ANDREW M CUOMO,Democratic,56,18,74
+Columbia,Austerlitz-2,Governor,,Blanks,Democratic,3,0,3
+Columbia,Austerlitz-2,Governor,,Voids,Democratic,0,0,0
+Columbia,Austerlitz-2,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Austerlitz-2,Lieutenant Governor,,KATHY C HOCHUL,Democratic,54,17,71
+Columbia,Austerlitz-2,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,72,21,93
+Columbia,Austerlitz-2,Lieutenant Governor,,Blanks,Democratic,4,2,6
+Columbia,Austerlitz-2,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Austerlitz-2,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Austerlitz-2,Attorney General,,SEAN PATRICK MALONEY,Democratic,21,4,25
+Columbia,Austerlitz-2,Attorney General,,LETITIA A JAMES,Democratic,12,0,12
+Columbia,Austerlitz-2,Attorney General,,LEECIA R EVE,Democratic,2,2,4
+Columbia,Austerlitz-2,Attorney General,,ZEPHYR TEACHOUT,Democratic,93,33,126
+Columbia,Austerlitz-2,Attorney General,,Blanks,Democratic,1,1,2
+Columbia,Austerlitz-2,Attorney General,,Voids,Democratic,1,0,1
+Columbia,Austerlitz-2,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Austerlitz-2,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,106,33,139
+Columbia,Austerlitz-2,State Assembly,107,DONALD G BOYAJIAN,Democratic,19,5,24
+Columbia,Austerlitz-2,State Assembly,107,Blanks,Democratic,5,2,7
+Columbia,Austerlitz-2,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Austerlitz-2,State Assembly,107,Scatterings,Democratic,0,0,0
+Columbia,Canaan-1,Governor,,CYNTHIA E NIXON,Democratic,72,7,79
+Columbia,Canaan-1,Governor,,ANDREW M CUOMO,Democratic,57,15,72
+Columbia,Canaan-1,Governor,,Blanks,Democratic,2,0,2
+Columbia,Canaan-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Canaan-1,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Canaan-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,62,15,77
+Columbia,Canaan-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,79,6,85
+Columbia,Canaan-1,Lieutenant Governor,,Blanks,Democratic,7,1,8
+Columbia,Canaan-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Canaan-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Canaan-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,33,4,37
+Columbia,Canaan-1,Attorney General,,LETITIA A JAMES,Democratic,7,3,10
+Columbia,Canaan-1,Attorney General,,LEECIA R EVE,Democratic,4,0,4
+Columbia,Canaan-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,103,15,118
+Columbia,Canaan-1,Attorney General,,Blanks,Democratic,1,0,1
+Columbia,Canaan-1,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Canaan-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Canaan-1,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,120,15,135
+Columbia,Canaan-1,State Assembly,107,DONALD G BOYAJIAN,Democratic,25,6,31
+Columbia,Canaan-1,State Assembly,107,Blanks,Democratic,3,1,4
+Columbia,Canaan-1,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Canaan-1,State Assembly,107,Scatterings,Democratic,0,0,0
+Columbia,Canaan-2,Governor,,CYNTHIA E NIXON,Democratic,51,5,56
+Columbia,Canaan-2,Governor,,ANDREW M CUOMO,Democratic,40,19,59
+Columbia,Canaan-2,Governor,,Blanks,Democratic,2,0,2
+Columbia,Canaan-2,Governor,,Voids,Democratic,0,0,0
+Columbia,Canaan-2,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Canaan-2,Lieutenant Governor,,KATHY C HOCHUL,Democratic,37,14,51
+Columbia,Canaan-2,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,47,10,57
+Columbia,Canaan-2,Lieutenant Governor,,Blanks,Democratic,9,0,9
+Columbia,Canaan-2,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Canaan-2,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Canaan-2,Attorney General,,SEAN PATRICK MALONEY,Democratic,20,5,25
+Columbia,Canaan-2,Attorney General,,LETITIA A JAMES,Democratic,2,5,7
+Columbia,Canaan-2,Attorney General,,LEECIA R EVE,Democratic,5,0,5
+Columbia,Canaan-2,Attorney General,,ZEPHYR TEACHOUT,Democratic,48,13,61
+Columbia,Canaan-2,Attorney General,,Blanks,Democratic,1,1,2
+Columbia,Canaan-2,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Canaan-2,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Canaan-2,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,61,21,82
+Columbia,Canaan-2,State Assembly,107,DONALD G BOYAJIAN,Democratic,8,3,11
+Columbia,Canaan-2,State Assembly,107,Blanks,Democratic,7,0,7
+Columbia,Canaan-2,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Canaan-2,State Assembly,107,Scatterings,Democratic,0,0,0
+Columbia,Chatham-1,Governor,,CYNTHIA E NIXON,Democratic,107,15,122
+Columbia,Chatham-1,Governor,,ANDREW M CUOMO,Democratic,75,20,95
+Columbia,Chatham-1,Governor,,Blanks,Democratic,3,1,4
+Columbia,Chatham-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Chatham-1,Governor,,Scatterings,Democratic,1,0,1
+Columbia,Chatham-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,82,17,99
+Columbia,Chatham-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,93,16,109
+Columbia,Chatham-1,Lieutenant Governor,,Blanks,Democratic,11,3,14
+Columbia,Chatham-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Chatham-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Chatham-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,35,9,44
+Columbia,Chatham-1,Attorney General,,LETITIA A JAMES,Democratic,20,2,22
+Columbia,Chatham-1,Attorney General,,LEECIA R EVE,Democratic,0,1,1
+Columbia,Chatham-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,131,23,154
+Columbia,Chatham-1,Attorney General,,Blanks,Democratic,0,1,1
+Columbia,Chatham-1,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Chatham-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Chatham-1,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,144,32,176
+Columbia,Chatham-1,State Assembly,107,DONALD G BOYAJIAN,Democratic,35,3,38
+Columbia,Chatham-1,State Assembly,107,Blanks,Democratic,7,1,8
+Columbia,Chatham-1,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Chatham-1,State Assembly,107,Scatterings,Democratic,0,0,0
+Columbia,Chatham-2,Governor,,CYNTHIA E NIXON,Democratic,75,14,89
+Columbia,Chatham-2,Governor,,ANDREW M CUOMO,Democratic,51,2,53
+Columbia,Chatham-2,Governor,,Blanks,Democratic,1,0,1
+Columbia,Chatham-2,Governor,,Voids,Democratic,0,0,0
+Columbia,Chatham-2,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Chatham-2,Lieutenant Governor,,KATHY C HOCHUL,Democratic,48,5,53
+Columbia,Chatham-2,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,73,7,80
+Columbia,Chatham-2,Lieutenant Governor,,Blanks,Democratic,6,4,10
+Columbia,Chatham-2,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Chatham-2,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Chatham-2,Attorney General,,SEAN PATRICK MALONEY,Democratic,25,2,27
+Columbia,Chatham-2,Attorney General,,LETITIA A JAMES,Democratic,18,0,18
+Columbia,Chatham-2,Attorney General,,LEECIA R EVE,Democratic,1,1,2
+Columbia,Chatham-2,Attorney General,,ZEPHYR TEACHOUT,Democratic,83,13,96
+Columbia,Chatham-2,Attorney General,,Blanks,Democratic,0,0,0
+Columbia,Chatham-2,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Chatham-2,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Chatham-2,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,93,13,106
+Columbia,Chatham-2,State Assembly,107,DONALD G BOYAJIAN,Democratic,32,2,34
+Columbia,Chatham-2,State Assembly,107,Blanks,Democratic,2,1,3
+Columbia,Chatham-2,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Chatham-2,State Assembly,107,Scatterings,Democratic,0,0,0
+Columbia,Chatham-3,Governor,,CYNTHIA E NIXON,Democratic,87,18,105
+Columbia,Chatham-3,Governor,,ANDREW M CUOMO,Democratic,75,23,98
+Columbia,Chatham-3,Governor,,Blanks,Democratic,2,0,2
+Columbia,Chatham-3,Governor,,Voids,Democratic,0,0,0
+Columbia,Chatham-3,Governor,,Scatterings,Democratic,2,0,2
+Columbia,Chatham-3,Lieutenant Governor,,KATHY C HOCHUL,Democratic,78,32,110
+Columbia,Chatham-3,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,77,8,85
+Columbia,Chatham-3,Lieutenant Governor,,Blanks,Democratic,10,1,11
+Columbia,Chatham-3,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Chatham-3,Lieutenant Governor,,Scatterings,Democratic,1,0,1
+Columbia,Chatham-3,Attorney General,,SEAN PATRICK MALONEY,Democratic,43,5,48
+Columbia,Chatham-3,Attorney General,,LETITIA A JAMES,Democratic,15,4,19
+Columbia,Chatham-3,Attorney General,,LEECIA R EVE,Democratic,6,2,8
+Columbia,Chatham-3,Attorney General,,ZEPHYR TEACHOUT,Democratic,102,27,129
+Columbia,Chatham-3,Attorney General,,Blanks,Democratic,0,0,0
+Columbia,Chatham-3,Attorney General,,Voids,Democratic,0,3,3
+Columbia,Chatham-3,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Chatham-3,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,122,29,151
+Columbia,Chatham-3,State Assembly,107,DONALD G BOYAJIAN,Democratic,41,12,53
+Columbia,Chatham-3,State Assembly,107,Blanks,Democratic,2,0,2
+Columbia,Chatham-3,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Chatham-3,State Assembly,107,Scatterings,Democratic,1,0,1
+Columbia,Claverack-1,Governor,,CYNTHIA E NIXON,Democratic,32,4,36
+Columbia,Claverack-1,Governor,,ANDREW M CUOMO,Democratic,22,5,27
+Columbia,Claverack-1,Governor,,Blanks,Democratic,2,0,2
+Columbia,Claverack-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Claverack-1,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Claverack-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,26,5,31
+Columbia,Claverack-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,23,4,27
+Columbia,Claverack-1,Lieutenant Governor,,Blanks,Democratic,7,0,7
+Columbia,Claverack-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Claverack-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Claverack-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,18,2,20
+Columbia,Claverack-1,Attorney General,,LETITIA A JAMES,Democratic,1,0,1
+Columbia,Claverack-1,Attorney General,,LEECIA R EVE,Democratic,1,0,1
+Columbia,Claverack-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,32,7,39
+Columbia,Claverack-1,Attorney General,,Blanks,Democratic,4,0,4
+Columbia,Claverack-1,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Claverack-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Claverack-2,Governor,,CYNTHIA E NIXON,Democratic,53,12,65
+Columbia,Claverack-2,Governor,,ANDREW M CUOMO,Democratic,31,3,34
+Columbia,Claverack-2,Governor,,Blanks,Democratic,0,0,0
+Columbia,Claverack-2,Governor,,Voids,Democratic,0,0,0
+Columbia,Claverack-2,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Claverack-2,Lieutenant Governor,,KATHY C HOCHUL,Democratic,29,5,34
+Columbia,Claverack-2,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,51,9,60
+Columbia,Claverack-2,Lieutenant Governor,,Blanks,Democratic,4,1,5
+Columbia,Claverack-2,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Claverack-2,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Claverack-2,Attorney General,,SEAN PATRICK MALONEY,Democratic,24,3,27
+Columbia,Claverack-2,Attorney General,,LETITIA A JAMES,Democratic,6,3,9
+Columbia,Claverack-2,Attorney General,,LEECIA R EVE,Democratic,1,3,4
+Columbia,Claverack-2,Attorney General,,ZEPHYR TEACHOUT,Democratic,50,6,56
+Columbia,Claverack-2,Attorney General,,Blanks,Democratic,3,0,3
+Columbia,Claverack-2,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Claverack-2,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Claverack-3,Governor,,CYNTHIA E NIXON,Democratic,45,4,49
+Columbia,Claverack-3,Governor,,ANDREW M CUOMO,Democratic,35,8,43
+Columbia,Claverack-3,Governor,,Blanks,Democratic,0,1,1
+Columbia,Claverack-3,Governor,,Voids,Democratic,0,0,0
+Columbia,Claverack-3,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Claverack-3,Lieutenant Governor,,KATHY C HOCHUL,Democratic,36,8,44
+Columbia,Claverack-3,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,43,4,47
+Columbia,Claverack-3,Lieutenant Governor,,Blanks,Democratic,1,1,2
+Columbia,Claverack-3,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Claverack-3,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Claverack-3,Attorney General,,SEAN PATRICK MALONEY,Democratic,21,3,24
+Columbia,Claverack-3,Attorney General,,LETITIA A JAMES,Democratic,8,2,10
+Columbia,Claverack-3,Attorney General,,LEECIA R EVE,Democratic,1,0,1
+Columbia,Claverack-3,Attorney General,,ZEPHYR TEACHOUT,Democratic,50,8,58
+Columbia,Claverack-3,Attorney General,,Blanks,Democratic,0,0,0
+Columbia,Claverack-3,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Claverack-3,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Claverack-4,Governor,,CYNTHIA E NIXON,Democratic,61,15,76
+Columbia,Claverack-4,Governor,,ANDREW M CUOMO,Democratic,45,6,51
+Columbia,Claverack-4,Governor,,Blanks,Democratic,2,0,2
+Columbia,Claverack-4,Governor,,Voids,Democratic,0,0,0
+Columbia,Claverack-4,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Claverack-4,Lieutenant Governor,,KATHY C HOCHUL,Democratic,46,7,53
+Columbia,Claverack-4,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,56,8,64
+Columbia,Claverack-4,Lieutenant Governor,,Blanks,Democratic,6,6,12
+Columbia,Claverack-4,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Claverack-4,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Claverack-4,Attorney General,,SEAN PATRICK MALONEY,Democratic,23,2,25
+Columbia,Claverack-4,Attorney General,,LETITIA A JAMES,Democratic,6,3,9
+Columbia,Claverack-4,Attorney General,,LEECIA R EVE,Democratic,3,0,3
+Columbia,Claverack-4,Attorney General,,ZEPHYR TEACHOUT,Democratic,75,12,87
+Columbia,Claverack-4,Attorney General,,Blanks,Democratic,1,1,2
+Columbia,Claverack-4,Attorney General,,Voids,Democratic,0,3,3
+Columbia,Claverack-4,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Claverack-5,Governor,,CYNTHIA E NIXON,Democratic,22,8,30
+Columbia,Claverack-5,Governor,,ANDREW M CUOMO,Democratic,13,4,17
+Columbia,Claverack-5,Governor,,Blanks,Democratic,0,0,0
+Columbia,Claverack-5,Governor,,Voids,Democratic,0,0,0
+Columbia,Claverack-5,Governor,,Scatterings,Democratic,1,0,1
+Columbia,Claverack-5,Lieutenant Governor,,KATHY C HOCHUL,Democratic,15,6,21
+Columbia,Claverack-5,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,18,3,21
+Columbia,Claverack-5,Lieutenant Governor,,Blanks,Democratic,3,3,6
+Columbia,Claverack-5,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Claverack-5,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Claverack-5,Attorney General,,SEAN PATRICK MALONEY,Democratic,10,0,10
+Columbia,Claverack-5,Attorney General,,LETITIA A JAMES,Democratic,3,3,6
+Columbia,Claverack-5,Attorney General,,LEECIA R EVE,Democratic,3,0,3
+Columbia,Claverack-5,Attorney General,,ZEPHYR TEACHOUT,Democratic,20,8,28
+Columbia,Claverack-5,Attorney General,,Blanks,Democratic,0,1,1
+Columbia,Claverack-5,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Claverack-5,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Clermont-1,Governor,,CYNTHIA E NIXON,Democratic,72,14,86
+Columbia,Clermont-1,Governor,,ANDREW M CUOMO,Democratic,39,5,44
+Columbia,Clermont-1,Governor,,Blanks,Democratic,3,0,3
+Columbia,Clermont-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Clermont-1,Governor,,Scatterings,Democratic,0,1,1
+Columbia,Clermont-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,46,5,51
+Columbia,Clermont-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,64,12,76
+Columbia,Clermont-1,Lieutenant Governor,,Blanks,Democratic,4,2,6
+Columbia,Clermont-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Clermont-1,Lieutenant Governor,,Scatterings,Democratic,0,1,1
+Columbia,Clermont-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,24,1,25
+Columbia,Clermont-1,Attorney General,,LETITIA A JAMES,Democratic,11,1,12
+Columbia,Clermont-1,Attorney General,,LEECIA R EVE,Democratic,3,0,3
+Columbia,Clermont-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,74,15,89
+Columbia,Clermont-1,Attorney General,,Blanks,Democratic,2,1,3
+Columbia,Clermont-1,Attorney General,,Voids,Democratic,0,2,2
+Columbia,Clermont-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Copake-1,Governor,,CYNTHIA E NIXON,Democratic,65,16,81
+Columbia,Copake-1,Governor,,ANDREW M CUOMO,Democratic,56,34,90
+Columbia,Copake-1,Governor,,Blanks,Democratic,1,1,2
+Columbia,Copake-1,Governor,,Voids,Democratic,0,1,1
+Columbia,Copake-1,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Copake-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,57,31,88
+Columbia,Copake-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,63,16,79
+Columbia,Copake-1,Lieutenant Governor,,Blanks,Democratic,2,4,6
+Columbia,Copake-1,Lieutenant Governor,,Voids,Democratic,0,1,1
+Columbia,Copake-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Copake-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,30,5,35
+Columbia,Copake-1,Attorney General,,LETITIA A JAMES,Democratic,19,10,29
+Columbia,Copake-1,Attorney General,,LEECIA R EVE,Democratic,4,1,5
+Columbia,Copake-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,69,34,103
+Columbia,Copake-1,Attorney General,,Blanks,Democratic,0,1,1
+Columbia,Copake-1,Attorney General,,Voids,Democratic,0,1,1
+Columbia,Copake-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Copake-2,Governor,,CYNTHIA E NIXON,Democratic,49,19,68
+Columbia,Copake-2,Governor,,ANDREW M CUOMO,Democratic,41,26,67
+Columbia,Copake-2,Governor,,Blanks,Democratic,0,3,3
+Columbia,Copake-2,Governor,,Voids,Democratic,0,0,0
+Columbia,Copake-2,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Copake-2,Lieutenant Governor,,KATHY C HOCHUL,Democratic,41,26,67
+Columbia,Copake-2,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,44,20,64
+Columbia,Copake-2,Lieutenant Governor,,Blanks,Democratic,5,2,7
+Columbia,Copake-2,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Copake-2,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Copake-2,Attorney General,,SEAN PATRICK MALONEY,Democratic,29,8,37
+Columbia,Copake-2,Attorney General,,LETITIA A JAMES,Democratic,10,6,16
+Columbia,Copake-2,Attorney General,,LEECIA R EVE,Democratic,2,1,3
+Columbia,Copake-2,Attorney General,,ZEPHYR TEACHOUT,Democratic,48,32,80
+Columbia,Copake-2,Attorney General,,Blanks,Democratic,1,1,2
+Columbia,Copake-2,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Copake-2,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Gallatin-1,Governor,,CYNTHIA E NIXON,Democratic,41,13,54
+Columbia,Gallatin-1,Governor,,ANDREW M CUOMO,Democratic,46,17,63
+Columbia,Gallatin-1,Governor,,Blanks,Democratic,1,0,1
+Columbia,Gallatin-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Gallatin-1,Governor,,Scatterings,Democratic,0,1,1
+Columbia,Gallatin-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,27,14,41
+Columbia,Gallatin-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,58,16,74
+Columbia,Gallatin-1,Lieutenant Governor,,Blanks,Democratic,3,1,4
+Columbia,Gallatin-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Gallatin-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Gallatin-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,17,4,21
+Columbia,Gallatin-1,Attorney General,,LETITIA A JAMES,Democratic,10,3,13
+Columbia,Gallatin-1,Attorney General,,LEECIA R EVE,Democratic,1,1,2
+Columbia,Gallatin-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,60,22,82
+Columbia,Gallatin-1,Attorney General,,Blanks,Democratic,0,0,0
+Columbia,Gallatin-1,Attorney General,,Voids,Democratic,0,1,1
+Columbia,Gallatin-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Germantown-1,Governor,,CYNTHIA E NIXON,Democratic,60,10,70
+Columbia,Germantown-1,Governor,,ANDREW M CUOMO,Democratic,43,13,56
+Columbia,Germantown-1,Governor,,Blanks,Democratic,0,0,0
+Columbia,Germantown-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Germantown-1,Governor,,Scatterings,Democratic,1,0,1
+Columbia,Germantown-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,40,15,55
+Columbia,Germantown-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,61,8,69
+Columbia,Germantown-1,Lieutenant Governor,,Blanks,Democratic,2,0,2
+Columbia,Germantown-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Germantown-1,Lieutenant Governor,,Scatterings,Democratic,1,0,1
+Columbia,Germantown-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,20,1,21
+Columbia,Germantown-1,Attorney General,,LETITIA A JAMES,Democratic,8,2,10
+Columbia,Germantown-1,Attorney General,,LEECIA R EVE,Democratic,2,1,3
+Columbia,Germantown-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,73,19,92
+Columbia,Germantown-1,Attorney General,,Blanks,Democratic,1,0,1
+Columbia,Germantown-1,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Germantown-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Germantown-2,Governor,,CYNTHIA E NIXON,Democratic,51,9,60
+Columbia,Germantown-2,Governor,,ANDREW M CUOMO,Democratic,29,11,40
+Columbia,Germantown-2,Governor,,Blanks,Democratic,1,0,1
+Columbia,Germantown-2,Governor,,Voids,Democratic,0,0,0
+Columbia,Germantown-2,Governor,,Scatterings,Democratic,1,0,1
+Columbia,Germantown-2,Lieutenant Governor,,KATHY C HOCHUL,Democratic,31,11,42
+Columbia,Germantown-2,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,47,9,56
+Columbia,Germantown-2,Lieutenant Governor,,Blanks,Democratic,4,0,4
+Columbia,Germantown-2,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Germantown-2,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Germantown-2,Attorney General,,SEAN PATRICK MALONEY,Democratic,11,3,14
+Columbia,Germantown-2,Attorney General,,LETITIA A JAMES,Democratic,1,4,5
+Columbia,Germantown-2,Attorney General,,LEECIA R EVE,Democratic,3,1,4
+Columbia,Germantown-2,Attorney General,,ZEPHYR TEACHOUT,Democratic,66,12,78
+Columbia,Germantown-2,Attorney General,,Blanks,Democratic,1,0,1
+Columbia,Germantown-2,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Germantown-2,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Ghent-1,Governor,,CYNTHIA E NIXON,Democratic,69,14,83
+Columbia,Ghent-1,Governor,,ANDREW M CUOMO,Democratic,44,9,53
+Columbia,Ghent-1,Governor,,Blanks,Democratic,3,1,4
+Columbia,Ghent-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Ghent-1,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Ghent-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,47,11,58
+Columbia,Ghent-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,61,11,72
+Columbia,Ghent-1,Lieutenant Governor,,Blanks,Democratic,8,2,10
+Columbia,Ghent-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Ghent-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Ghent-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,35,6,41
+Columbia,Ghent-1,Attorney General,,LETITIA A JAMES,Democratic,11,1,12
+Columbia,Ghent-1,Attorney General,,LEECIA R EVE,Democratic,2,1,3
+Columbia,Ghent-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,65,14,79
+Columbia,Ghent-1,Attorney General,,Blanks,Democratic,3,0,3
+Columbia,Ghent-1,Attorney General,,Voids,Democratic,0,2,2
+Columbia,Ghent-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Ghent-2,Governor,,CYNTHIA E NIXON,Democratic,86,26,112
+Columbia,Ghent-2,Governor,,ANDREW M CUOMO,Democratic,58,16,74
+Columbia,Ghent-2,Governor,,Blanks,Democratic,5,0,5
+Columbia,Ghent-2,Governor,,Voids,Democratic,0,0,0
+Columbia,Ghent-2,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Ghent-2,Lieutenant Governor,,KATHY C HOCHUL,Democratic,60,15,75
+Columbia,Ghent-2,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,81,21,102
+Columbia,Ghent-2,Lieutenant Governor,,Blanks,Democratic,7,6,13
+Columbia,Ghent-2,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Ghent-2,Lieutenant Governor,,Scatterings,Democratic,1,0,1
+Columbia,Ghent-2,Attorney General,,SEAN PATRICK MALONEY,Democratic,32,6,38
+Columbia,Ghent-2,Attorney General,,LETITIA A JAMES,Democratic,11,2,13
+Columbia,Ghent-2,Attorney General,,LEECIA R EVE,Democratic,8,1,9
+Columbia,Ghent-2,Attorney General,,ZEPHYR TEACHOUT,Democratic,98,33,131
+Columbia,Ghent-2,Attorney General,,Blanks,Democratic,0,0,0
+Columbia,Ghent-2,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Ghent-2,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Ghent-3,Governor,,CYNTHIA E NIXON,Democratic,59,19,78
+Columbia,Ghent-3,Governor,,ANDREW M CUOMO,Democratic,51,16,67
+Columbia,Ghent-3,Governor,,Blanks,Democratic,3,0,3
+Columbia,Ghent-3,Governor,,Voids,Democratic,0,0,0
+Columbia,Ghent-3,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Ghent-3,Lieutenant Governor,,KATHY C HOCHUL,Democratic,48,15,63
+Columbia,Ghent-3,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,61,15,76
+Columbia,Ghent-3,Lieutenant Governor,,Blanks,Democratic,3,5,8
+Columbia,Ghent-3,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Ghent-3,Lieutenant Governor,,Scatterings,Democratic,1,0,1
+Columbia,Ghent-3,Attorney General,,SEAN PATRICK MALONEY,Democratic,27,6,33
+Columbia,Ghent-3,Attorney General,,LETITIA A JAMES,Democratic,11,2,13
+Columbia,Ghent-3,Attorney General,,LEECIA R EVE,Democratic,4,0,4
+Columbia,Ghent-3,Attorney General,,ZEPHYR TEACHOUT,Democratic,70,26,96
+Columbia,Ghent-3,Attorney General,,Blanks,Democratic,1,1,2
+Columbia,Ghent-3,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Ghent-3,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Greenport-1,Governor,,CYNTHIA E NIXON,Democratic,32,6,38
+Columbia,Greenport-1,Governor,,ANDREW M CUOMO,Democratic,44,6,50
+Columbia,Greenport-1,Governor,,Blanks,Democratic,0,0,0
+Columbia,Greenport-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Greenport-1,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Greenport-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,39,9,48
+Columbia,Greenport-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,35,2,37
+Columbia,Greenport-1,Lieutenant Governor,,Blanks,Democratic,2,1,3
+Columbia,Greenport-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Greenport-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Greenport-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,24,5,29
+Columbia,Greenport-1,Attorney General,,LETITIA A JAMES,Democratic,15,2,17
+Columbia,Greenport-1,Attorney General,,LEECIA R EVE,Democratic,2,1,3
+Columbia,Greenport-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,33,3,36
+Columbia,Greenport-1,Attorney General,,Blanks,Democratic,1,1,2
+Columbia,Greenport-1,Attorney General,,Voids,Democratic,1,0,1
+Columbia,Greenport-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Greenport-2,Governor,,CYNTHIA E NIXON,Democratic,28,5,33
+Columbia,Greenport-2,Governor,,ANDREW M CUOMO,Democratic,46,8,54
+Columbia,Greenport-2,Governor,,Blanks,Democratic,0,1,1
+Columbia,Greenport-2,Governor,,Voids,Democratic,0,0,0
+Columbia,Greenport-2,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Greenport-2,Lieutenant Governor,,KATHY C HOCHUL,Democratic,33,6,39
+Columbia,Greenport-2,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,33,7,40
+Columbia,Greenport-2,Lieutenant Governor,,Blanks,Democratic,8,1,9
+Columbia,Greenport-2,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Greenport-2,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Greenport-2,Attorney General,,SEAN PATRICK MALONEY,Democratic,25,2,27
+Columbia,Greenport-2,Attorney General,,LETITIA A JAMES,Democratic,4,1,5
+Columbia,Greenport-2,Attorney General,,LEECIA R EVE,Democratic,1,1,2
+Columbia,Greenport-2,Attorney General,,ZEPHYR TEACHOUT,Democratic,43,9,52
+Columbia,Greenport-2,Attorney General,,Blanks,Democratic,1,1,2
+Columbia,Greenport-2,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Greenport-2,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Greenport-3,Governor,,CYNTHIA E NIXON,Democratic,23,2,25
+Columbia,Greenport-3,Governor,,ANDREW M CUOMO,Democratic,39,6,45
+Columbia,Greenport-3,Governor,,Blanks,Democratic,1,0,1
+Columbia,Greenport-3,Governor,,Voids,Democratic,0,0,0
+Columbia,Greenport-3,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Greenport-3,Lieutenant Governor,,KATHY C HOCHUL,Democratic,41,6,47
+Columbia,Greenport-3,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,18,2,20
+Columbia,Greenport-3,Lieutenant Governor,,Blanks,Democratic,4,0,4
+Columbia,Greenport-3,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Greenport-3,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Greenport-3,Attorney General,,SEAN PATRICK MALONEY,Democratic,32,3,35
+Columbia,Greenport-3,Attorney General,,LETITIA A JAMES,Democratic,9,1,10
+Columbia,Greenport-3,Attorney General,,LEECIA R EVE,Democratic,2,2,4
+Columbia,Greenport-3,Attorney General,,ZEPHYR TEACHOUT,Democratic,18,2,20
+Columbia,Greenport-3,Attorney General,,Blanks,Democratic,1,0,1
+Columbia,Greenport-3,Attorney General,,Voids,Democratic,1,0,1
+Columbia,Greenport-3,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Hillsdale-1,Governor,,CYNTHIA E NIXON,Democratic,68,28,96
+Columbia,Hillsdale-1,Governor,,ANDREW M CUOMO,Democratic,62,26,88
+Columbia,Hillsdale-1,Governor,,Blanks,Democratic,1,0,1
+Columbia,Hillsdale-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Hillsdale-1,Governor,,Scatterings,Democratic,1,0,1
+Columbia,Hillsdale-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,59,30,89
+Columbia,Hillsdale-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,67,24,91
+Columbia,Hillsdale-1,Lieutenant Governor,,Blanks,Democratic,5,0,5
+Columbia,Hillsdale-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Hillsdale-1,Lieutenant Governor,,Scatterings,Democratic,1,0,1
+Columbia,Hillsdale-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,24,8,32
+Columbia,Hillsdale-1,Attorney General,,LETITIA A JAMES,Democratic,10,5,15
+Columbia,Hillsdale-1,Attorney General,,LEECIA R EVE,Democratic,3,1,4
+Columbia,Hillsdale-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,94,40,134
+Columbia,Hillsdale-1,Attorney General,,Blanks,Democratic,1,0,1
+Columbia,Hillsdale-1,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Hillsdale-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Hillsdale-1,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,107,46,153
+Columbia,Hillsdale-1,State Assembly,107,DONALD G BOYAJIAN,Democratic,21,7,28
+Columbia,Hillsdale-1,State Assembly,107,Blanks,Democratic,4,1,5
+Columbia,Hillsdale-1,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Hillsdale-1,State Assembly,107,Scatterings,Democratic,0,0,0
+Columbia,Hillsdale-2,Governor,,CYNTHIA E NIXON,Democratic,65,23,88
+Columbia,Hillsdale-2,Governor,,ANDREW M CUOMO,Democratic,41,21,62
+Columbia,Hillsdale-2,Governor,,Blanks,Democratic,0,1,1
+Columbia,Hillsdale-2,Governor,,Voids,Democratic,1,0,1
+Columbia,Hillsdale-2,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Hillsdale-2,Lieutenant Governor,,KATHY C HOCHUL,Democratic,39,18,57
+Columbia,Hillsdale-2,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,56,21,77
+Columbia,Hillsdale-2,Lieutenant Governor,,Blanks,Democratic,12,6,18
+Columbia,Hillsdale-2,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Hillsdale-2,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Hillsdale-2,Attorney General,,SEAN PATRICK MALONEY,Democratic,20,7,27
+Columbia,Hillsdale-2,Attorney General,,LETITIA A JAMES,Democratic,10,7,17
+Columbia,Hillsdale-2,Attorney General,,LEECIA R EVE,Democratic,2,0,2
+Columbia,Hillsdale-2,Attorney General,,ZEPHYR TEACHOUT,Democratic,73,30,103
+Columbia,Hillsdale-2,Attorney General,,Blanks,Democratic,2,1,3
+Columbia,Hillsdale-2,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Hillsdale-2,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Hillsdale-2,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,87,39,126
+Columbia,Hillsdale-2,State Assembly,107,DONALD G BOYAJIAN,Democratic,16,4,20
+Columbia,Hillsdale-2,State Assembly,107,Blanks,Democratic,4,2,6
+Columbia,Hillsdale-2,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Hillsdale-2,State Assembly,107,Scatterings,Democratic,0,0,0
+Columbia,Hudson 1-1,Governor,,CYNTHIA E NIXON,Democratic,172,18,190
+Columbia,Hudson 1-1,Governor,,ANDREW M CUOMO,Democratic,82,14,96
+Columbia,Hudson 1-1,Governor,,Blanks,Democratic,2,1,3
+Columbia,Hudson 1-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Hudson 1-1,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Hudson 1-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,90,17,107
+Columbia,Hudson 1-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,157,15,172
+Columbia,Hudson 1-1,Lieutenant Governor,,Blanks,Democratic,9,1,10
+Columbia,Hudson 1-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Hudson 1-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Hudson 1-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,34,4,38
+Columbia,Hudson 1-1,Attorney General,,LETITIA A JAMES,Democratic,25,4,29
+Columbia,Hudson 1-1,Attorney General,,LEECIA R EVE,Democratic,2,2,4
+Columbia,Hudson 1-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,192,23,215
+Columbia,Hudson 1-1,Attorney General,,Blanks,Democratic,3,0,3
+Columbia,Hudson 1-1,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Hudson 1-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Hudson 2-1,Governor,,CYNTHIA E NIXON,Democratic,41,0,41
+Columbia,Hudson 2-1,Governor,,ANDREW M CUOMO,Democratic,57,10,67
+Columbia,Hudson 2-1,Governor,,Blanks,Democratic,1,0,1
+Columbia,Hudson 2-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Hudson 2-1,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Hudson 2-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,41,10,51
+Columbia,Hudson 2-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,53,0,53
+Columbia,Hudson 2-1,Lieutenant Governor,,Blanks,Democratic,5,0,5
+Columbia,Hudson 2-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Hudson 2-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Hudson 2-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,16,3,19
+Columbia,Hudson 2-1,Attorney General,,LETITIA A JAMES,Democratic,25,5,30
+Columbia,Hudson 2-1,Attorney General,,LEECIA R EVE,Democratic,1,0,1
+Columbia,Hudson 2-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,51,2,53
+Columbia,Hudson 2-1,Attorney General,,Blanks,Democratic,5,0,5
+Columbia,Hudson 2-1,Attorney General,,Voids,Democratic,1,0,1
+Columbia,Hudson 2-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Hudson 3-1,Governor,,CYNTHIA E NIXON,Democratic,87,12,99
+Columbia,Hudson 3-1,Governor,,ANDREW M CUOMO,Democratic,50,7,57
+Columbia,Hudson 3-1,Governor,,Blanks,Democratic,1,0,1
+Columbia,Hudson 3-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Hudson 3-1,Governor,,Scatterings,Democratic,1,1,2
+Columbia,Hudson 3-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,45,9,54
+Columbia,Hudson 3-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,85,6,91
+Columbia,Hudson 3-1,Lieutenant Governor,,Blanks,Democratic,8,4,12
+Columbia,Hudson 3-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Hudson 3-1,Lieutenant Governor,,Scatterings,Democratic,1,1,2
+Columbia,Hudson 3-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,22,4,26
+Columbia,Hudson 3-1,Attorney General,,LETITIA A JAMES,Democratic,12,3,15
+Columbia,Hudson 3-1,Attorney General,,LEECIA R EVE,Democratic,4,0,4
+Columbia,Hudson 3-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,101,12,113
+Columbia,Hudson 3-1,Attorney General,,Blanks,Democratic,0,0,0
+Columbia,Hudson 3-1,Attorney General,,Voids,Democratic,0,1,1
+Columbia,Hudson 3-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Hudson 4-1,Governor,,CYNTHIA E NIXON,Democratic,71,14,85
+Columbia,Hudson 4-1,Governor,,ANDREW M CUOMO,Democratic,48,14,62
+Columbia,Hudson 4-1,Governor,,Blanks,Democratic,2,0,2
+Columbia,Hudson 4-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Hudson 4-1,Governor,,Scatterings,Democratic,1,0,1
+Columbia,Hudson 4-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,44,13,57
+Columbia,Hudson 4-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,71,12,83
+Columbia,Hudson 4-1,Lieutenant Governor,,Blanks,Democratic,7,2,9
+Columbia,Hudson 4-1,Lieutenant Governor,,Voids,Democratic,0,1,1
+Columbia,Hudson 4-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Hudson 4-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,16,6,22
+Columbia,Hudson 4-1,Attorney General,,LETITIA A JAMES,Democratic,17,6,23
+Columbia,Hudson 4-1,Attorney General,,LEECIA R EVE,Democratic,6,0,6
+Columbia,Hudson 4-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,81,13,94
+Columbia,Hudson 4-1,Attorney General,,Blanks,Democratic,2,2,4
+Columbia,Hudson 4-1,Attorney General,,Voids,Democratic,0,1,1
+Columbia,Hudson 4-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Hudson 5-1,Governor,,CYNTHIA E NIXON,Democratic,46,2,48
+Columbia,Hudson 5-1,Governor,,ANDREW M CUOMO,Democratic,30,5,35
+Columbia,Hudson 5-1,Governor,,Blanks,Democratic,0,0,0
+Columbia,Hudson 5-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Hudson 5-1,Governor,,Scatterings,Democratic,1,0,1
+Columbia,Hudson 5-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,29,5,34
+Columbia,Hudson 5-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,43,1,44
+Columbia,Hudson 5-1,Lieutenant Governor,,Blanks,Democratic,5,1,6
+Columbia,Hudson 5-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Hudson 5-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Hudson 5-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,18,2,20
+Columbia,Hudson 5-1,Attorney General,,LETITIA A JAMES,Democratic,16,3,19
+Columbia,Hudson 5-1,Attorney General,,LEECIA R EVE,Democratic,0,0,0
+Columbia,Hudson 5-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,41,2,43
+Columbia,Hudson 5-1,Attorney General,,Blanks,Democratic,2,0,2
+Columbia,Hudson 5-1,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Hudson 5-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-1,Governor,,CYNTHIA E NIXON,Democratic,45,3,48
+Columbia,Kinderhook-1,Governor,,ANDREW M CUOMO,Democratic,58,8,66
+Columbia,Kinderhook-1,Governor,,Blanks,Democratic,3,0,3
+Columbia,Kinderhook-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-1,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,62,6,68
+Columbia,Kinderhook-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,35,3,38
+Columbia,Kinderhook-1,Lieutenant Governor,,Blanks,Democratic,9,2,11
+Columbia,Kinderhook-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,30,2,32
+Columbia,Kinderhook-1,Attorney General,,LETITIA A JAMES,Democratic,8,0,8
+Columbia,Kinderhook-1,Attorney General,,LEECIA R EVE,Democratic,4,1,5
+Columbia,Kinderhook-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,61,8,69
+Columbia,Kinderhook-1,Attorney General,,Blanks,Democratic,3,0,3
+Columbia,Kinderhook-1,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-1,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,69,5,74
+Columbia,Kinderhook-1,State Assembly,107,DONALD G BOYAJIAN,Democratic,36,6,42
+Columbia,Kinderhook-1,State Assembly,107,Blanks,Democratic,1,0,1
+Columbia,Kinderhook-1,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Kinderhook-1,State Assembly,107,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-2,Governor,,CYNTHIA E NIXON,Democratic,48,1,49
+Columbia,Kinderhook-2,Governor,,ANDREW M CUOMO,Democratic,41,3,44
+Columbia,Kinderhook-2,Governor,,Blanks,Democratic,2,0,2
+Columbia,Kinderhook-2,Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-2,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-2,Lieutenant Governor,,KATHY C HOCHUL,Democratic,38,3,41
+Columbia,Kinderhook-2,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,50,1,51
+Columbia,Kinderhook-2,Lieutenant Governor,,Blanks,Democratic,3,0,3
+Columbia,Kinderhook-2,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-2,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-2,Attorney General,,SEAN PATRICK MALONEY,Democratic,20,0,20
+Columbia,Kinderhook-2,Attorney General,,LETITIA A JAMES,Democratic,10,1,11
+Columbia,Kinderhook-2,Attorney General,,LEECIA R EVE,Democratic,2,0,2
+Columbia,Kinderhook-2,Attorney General,,ZEPHYR TEACHOUT,Democratic,58,3,61
+Columbia,Kinderhook-2,Attorney General,,Blanks,Democratic,1,0,1
+Columbia,Kinderhook-2,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-2,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-2,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,61,4,65
+Columbia,Kinderhook-2,State Assembly,107,DONALD G BOYAJIAN,Democratic,28,0,28
+Columbia,Kinderhook-2,State Assembly,107,Blanks,Democratic,2,0,2
+Columbia,Kinderhook-2,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Kinderhook-2,State Assembly,107,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-3,Governor,,CYNTHIA E NIXON,Democratic,42,7,49
+Columbia,Kinderhook-3,Governor,,ANDREW M CUOMO,Democratic,27,5,32
+Columbia,Kinderhook-3,Governor,,Blanks,Democratic,1,0,1
+Columbia,Kinderhook-3,Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-3,Governor,,Scatterings,Democratic,3,0,3
+Columbia,Kinderhook-3,Lieutenant Governor,,KATHY C HOCHUL,Democratic,33,5,38
+Columbia,Kinderhook-3,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,36,6,42
+Columbia,Kinderhook-3,Lieutenant Governor,,Blanks,Democratic,3,1,4
+Columbia,Kinderhook-3,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-3,Lieutenant Governor,,Scatterings,Democratic,1,0,1
+Columbia,Kinderhook-3,Attorney General,,SEAN PATRICK MALONEY,Democratic,26,4,30
+Columbia,Kinderhook-3,Attorney General,,LETITIA A JAMES,Democratic,5,1,6
+Columbia,Kinderhook-3,Attorney General,,LEECIA R EVE,Democratic,2,2,4
+Columbia,Kinderhook-3,Attorney General,,ZEPHYR TEACHOUT,Democratic,37,5,42
+Columbia,Kinderhook-3,Attorney General,,Blanks,Democratic,3,0,3
+Columbia,Kinderhook-3,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-3,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-3,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,46,5,51
+Columbia,Kinderhook-3,State Assembly,107,DONALD G BOYAJIAN,Democratic,23,6,29
+Columbia,Kinderhook-3,State Assembly,107,Blanks,Democratic,3,1,4
+Columbia,Kinderhook-3,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Kinderhook-3,State Assembly,107,Scatterings,Democratic,1,0,1
+Columbia,Kinderhook-4,Governor,,CYNTHIA E NIXON,Democratic,52,2,54
+Columbia,Kinderhook-4,Governor,,ANDREW M CUOMO,Democratic,34,3,37
+Columbia,Kinderhook-4,Governor,,Blanks,Democratic,3,2,5
+Columbia,Kinderhook-4,Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-4,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-4,Lieutenant Governor,,KATHY C HOCHUL,Democratic,48,5,53
+Columbia,Kinderhook-4,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,35,2,37
+Columbia,Kinderhook-4,Lieutenant Governor,,Blanks,Democratic,6,0,6
+Columbia,Kinderhook-4,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-4,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-4,Attorney General,,SEAN PATRICK MALONEY,Democratic,33,1,34
+Columbia,Kinderhook-4,Attorney General,,LETITIA A JAMES,Democratic,8,2,10
+Columbia,Kinderhook-4,Attorney General,,LEECIA R EVE,Democratic,4,0,4
+Columbia,Kinderhook-4,Attorney General,,ZEPHYR TEACHOUT,Democratic,41,4,45
+Columbia,Kinderhook-4,Attorney General,,Blanks,Democratic,2,0,2
+Columbia,Kinderhook-4,Attorney General,,Voids,Democratic,1,0,1
+Columbia,Kinderhook-4,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-4,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,38,4,42
+Columbia,Kinderhook-4,State Assembly,107,DONALD G BOYAJIAN,Democratic,46,3,49
+Columbia,Kinderhook-4,State Assembly,107,Blanks,Democratic,5,0,5
+Columbia,Kinderhook-4,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Kinderhook-4,State Assembly,107,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-5,Governor,,CYNTHIA E NIXON,Democratic,46,3,49
+Columbia,Kinderhook-5,Governor,,ANDREW M CUOMO,Democratic,28,2,30
+Columbia,Kinderhook-5,Governor,,Blanks,Democratic,2,0,2
+Columbia,Kinderhook-5,Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-5,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-5,Lieutenant Governor,,KATHY C HOCHUL,Democratic,41,3,44
+Columbia,Kinderhook-5,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,31,1,32
+Columbia,Kinderhook-5,Lieutenant Governor,,Blanks,Democratic,4,1,5
+Columbia,Kinderhook-5,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-5,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-5,Attorney General,,SEAN PATRICK MALONEY,Democratic,22,1,23
+Columbia,Kinderhook-5,Attorney General,,LETITIA A JAMES,Democratic,6,2,8
+Columbia,Kinderhook-5,Attorney General,,LEECIA R EVE,Democratic,2,0,2
+Columbia,Kinderhook-5,Attorney General,,ZEPHYR TEACHOUT,Democratic,44,1,45
+Columbia,Kinderhook-5,Attorney General,,Blanks,Democratic,2,1,3
+Columbia,Kinderhook-5,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-5,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-5,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,57,3,60
+Columbia,Kinderhook-5,State Assembly,107,DONALD G BOYAJIAN,Democratic,17,1,18
+Columbia,Kinderhook-5,State Assembly,107,Blanks,Democratic,2,1,3
+Columbia,Kinderhook-5,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Kinderhook-5,State Assembly,107,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-6,Governor,,CYNTHIA E NIXON,Democratic,30,5,35
+Columbia,Kinderhook-6,Governor,,ANDREW M CUOMO,Democratic,22,2,24
+Columbia,Kinderhook-6,Governor,,Blanks,Democratic,1,0,1
+Columbia,Kinderhook-6,Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-6,Governor,,Scatterings,Democratic,1,0,1
+Columbia,Kinderhook-6,Lieutenant Governor,,KATHY C HOCHUL,Democratic,27,4,31
+Columbia,Kinderhook-6,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,25,3,28
+Columbia,Kinderhook-6,Lieutenant Governor,,Blanks,Democratic,1,0,1
+Columbia,Kinderhook-6,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-6,Lieutenant Governor,,Scatterings,Democratic,1,0,1
+Columbia,Kinderhook-6,Attorney General,,SEAN PATRICK MALONEY,Democratic,21,1,22
+Columbia,Kinderhook-6,Attorney General,,LETITIA A JAMES,Democratic,6,0,6
+Columbia,Kinderhook-6,Attorney General,,LEECIA R EVE,Democratic,5,0,5
+Columbia,Kinderhook-6,Attorney General,,ZEPHYR TEACHOUT,Democratic,21,6,27
+Columbia,Kinderhook-6,Attorney General,,Blanks,Democratic,1,0,1
+Columbia,Kinderhook-6,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-6,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-6,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,27,5,32
+Columbia,Kinderhook-6,State Assembly,107,DONALD G BOYAJIAN,Democratic,22,2,24
+Columbia,Kinderhook-6,State Assembly,107,Blanks,Democratic,3,0,3
+Columbia,Kinderhook-6,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Kinderhook-6,State Assembly,107,Scatterings,Democratic,2,0,2
+Columbia,Kinderhook-7,Governor,,CYNTHIA E NIXON,Democratic,26,0,26
+Columbia,Kinderhook-7,Governor,,ANDREW M CUOMO,Democratic,47,2,49
+Columbia,Kinderhook-7,Governor,,Blanks,Democratic,2,0,2
+Columbia,Kinderhook-7,Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-7,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-7,Lieutenant Governor,,KATHY C HOCHUL,Democratic,52,2,54
+Columbia,Kinderhook-7,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,17,0,17
+Columbia,Kinderhook-7,Lieutenant Governor,,Blanks,Democratic,6,0,6
+Columbia,Kinderhook-7,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-7,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-7,Attorney General,,SEAN PATRICK MALONEY,Democratic,29,2,31
+Columbia,Kinderhook-7,Attorney General,,LETITIA A JAMES,Democratic,7,0,7
+Columbia,Kinderhook-7,Attorney General,,LEECIA R EVE,Democratic,5,0,5
+Columbia,Kinderhook-7,Attorney General,,ZEPHYR TEACHOUT,Democratic,31,0,31
+Columbia,Kinderhook-7,Attorney General,,Blanks,Democratic,3,0,3
+Columbia,Kinderhook-7,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-7,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-7,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,40,2,42
+Columbia,Kinderhook-7,State Assembly,107,DONALD G BOYAJIAN,Democratic,31,0,31
+Columbia,Kinderhook-7,State Assembly,107,Blanks,Democratic,4,0,4
+Columbia,Kinderhook-7,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Kinderhook-7,State Assembly,107,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-8,Governor,,CYNTHIA E NIXON,Democratic,33,3,36
+Columbia,Kinderhook-8,Governor,,ANDREW M CUOMO,Democratic,37,5,42
+Columbia,Kinderhook-8,Governor,,Blanks,Democratic,2,0,2
+Columbia,Kinderhook-8,Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-8,Governor,,Scatterings,Democratic,1,0,1
+Columbia,Kinderhook-8,Lieutenant Governor,,KATHY C HOCHUL,Democratic,45,5,50
+Columbia,Kinderhook-8,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,27,2,29
+Columbia,Kinderhook-8,Lieutenant Governor,,Blanks,Democratic,1,1,2
+Columbia,Kinderhook-8,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-8,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-8,Attorney General,,SEAN PATRICK MALONEY,Democratic,28,2,30
+Columbia,Kinderhook-8,Attorney General,,LETITIA A JAMES,Democratic,6,2,8
+Columbia,Kinderhook-8,Attorney General,,LEECIA R EVE,Democratic,4,1,5
+Columbia,Kinderhook-8,Attorney General,,ZEPHYR TEACHOUT,Democratic,34,3,37
+Columbia,Kinderhook-8,Attorney General,,Blanks,Democratic,1,0,1
+Columbia,Kinderhook-8,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Kinderhook-8,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Kinderhook-8,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,29,4,33
+Columbia,Kinderhook-8,State Assembly,107,DONALD G BOYAJIAN,Democratic,43,4,47
+Columbia,Kinderhook-8,State Assembly,107,Blanks,Democratic,1,0,1
+Columbia,Kinderhook-8,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,Kinderhook-8,State Assembly,107,Scatterings,Democratic,0,0,0
+Columbia,Livingston-1,Governor,,CYNTHIA E NIXON,Democratic,77,12,89
+Columbia,Livingston-1,Governor,,ANDREW M CUOMO,Democratic,40,8,48
+Columbia,Livingston-1,Governor,,Blanks,Democratic,0,0,0
+Columbia,Livingston-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Livingston-1,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Livingston-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,50,9,59
+Columbia,Livingston-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,66,9,75
+Columbia,Livingston-1,Lieutenant Governor,,Blanks,Democratic,1,2,3
+Columbia,Livingston-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Livingston-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Livingston-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,30,0,30
+Columbia,Livingston-1,Attorney General,,LETITIA A JAMES,Democratic,19,2,21
+Columbia,Livingston-1,Attorney General,,LEECIA R EVE,Democratic,1,0,1
+Columbia,Livingston-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,65,18,83
+Columbia,Livingston-1,Attorney General,,Blanks,Democratic,2,0,2
+Columbia,Livingston-1,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Livingston-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Livingston-2,Governor,,CYNTHIA E NIXON,Democratic,44,3,47
+Columbia,Livingston-2,Governor,,ANDREW M CUOMO,Democratic,43,18,61
+Columbia,Livingston-2,Governor,,Blanks,Democratic,0,0,0
+Columbia,Livingston-2,Governor,,Voids,Democratic,0,1,1
+Columbia,Livingston-2,Governor,,Scatterings,Democratic,1,0,1
+Columbia,Livingston-2,Lieutenant Governor,,KATHY C HOCHUL,Democratic,43,8,51
+Columbia,Livingston-2,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,38,11,49
+Columbia,Livingston-2,Lieutenant Governor,,Blanks,Democratic,6,2,8
+Columbia,Livingston-2,Lieutenant Governor,,Voids,Democratic,0,1,1
+Columbia,Livingston-2,Lieutenant Governor,,Scatterings,Democratic,1,0,1
+Columbia,Livingston-2,Attorney General,,SEAN PATRICK MALONEY,Democratic,29,2,31
+Columbia,Livingston-2,Attorney General,,LETITIA A JAMES,Democratic,11,0,11
+Columbia,Livingston-2,Attorney General,,LEECIA R EVE,Democratic,2,2,4
+Columbia,Livingston-2,Attorney General,,ZEPHYR TEACHOUT,Democratic,45,15,60
+Columbia,Livingston-2,Attorney General,,Blanks,Democratic,0,1,1
+Columbia,Livingston-2,Attorney General,,Voids,Democratic,0,2,2
+Columbia,Livingston-2,Attorney General,,Scatterings,Democratic,1,0,1
+Columbia,New Lebanon-1,Governor,,CYNTHIA E NIXON,Democratic,82,6,88
+Columbia,New Lebanon-1,Governor,,ANDREW M CUOMO,Democratic,49,3,52
+Columbia,New Lebanon-1,Governor,,Blanks,Democratic,1,0,1
+Columbia,New Lebanon-1,Governor,,Voids,Democratic,0,0,0
+Columbia,New Lebanon-1,Governor,,Scatterings,Democratic,0,0,0
+Columbia,New Lebanon-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,69,6,75
+Columbia,New Lebanon-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,58,3,61
+Columbia,New Lebanon-1,Lieutenant Governor,,Blanks,Democratic,5,0,5
+Columbia,New Lebanon-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,New Lebanon-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,New Lebanon-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,32,4,36
+Columbia,New Lebanon-1,Attorney General,,LETITIA A JAMES,Democratic,8,1,9
+Columbia,New Lebanon-1,Attorney General,,LEECIA R EVE,Democratic,3,0,3
+Columbia,New Lebanon-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,88,4,92
+Columbia,New Lebanon-1,Attorney General,,Blanks,Democratic,1,0,1
+Columbia,New Lebanon-1,Attorney General,,Voids,Democratic,0,0,0
+Columbia,New Lebanon-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,New Lebanon-1,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,118,8,126
+Columbia,New Lebanon-1,State Assembly,107,DONALD G BOYAJIAN,Democratic,12,1,13
+Columbia,New Lebanon-1,State Assembly,107,Blanks,Democratic,2,0,2
+Columbia,New Lebanon-1,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,New Lebanon-1,State Assembly,107,Scatterings,Democratic,0,0,0
+Columbia,New Lebanon-2,Governor,,CYNTHIA E NIXON,Democratic,52,11,63
+Columbia,New Lebanon-2,Governor,,ANDREW M CUOMO,Democratic,45,5,50
+Columbia,New Lebanon-2,Governor,,Blanks,Democratic,0,0,0
+Columbia,New Lebanon-2,Governor,,Voids,Democratic,0,0,0
+Columbia,New Lebanon-2,Governor,,Scatterings,Democratic,0,1,1
+Columbia,New Lebanon-2,Lieutenant Governor,,KATHY C HOCHUL,Democratic,40,7,47
+Columbia,New Lebanon-2,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,51,8,59
+Columbia,New Lebanon-2,Lieutenant Governor,,Blanks,Democratic,6,2,8
+Columbia,New Lebanon-2,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,New Lebanon-2,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,New Lebanon-2,Attorney General,,SEAN PATRICK MALONEY,Democratic,17,3,20
+Columbia,New Lebanon-2,Attorney General,,LETITIA A JAMES,Democratic,6,1,7
+Columbia,New Lebanon-2,Attorney General,,LEECIA R EVE,Democratic,1,0,1
+Columbia,New Lebanon-2,Attorney General,,ZEPHYR TEACHOUT,Democratic,73,12,85
+Columbia,New Lebanon-2,Attorney General,,Blanks,Democratic,0,0,0
+Columbia,New Lebanon-2,Attorney General,,Voids,Democratic,0,1,1
+Columbia,New Lebanon-2,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,New Lebanon-2,State Assembly,107,TISTRYA G HOUGHTLING,Democratic,88,16,104
+Columbia,New Lebanon-2,State Assembly,107,DONALD G BOYAJIAN,Democratic,8,1,9
+Columbia,New Lebanon-2,State Assembly,107,Blanks,Democratic,0,0,0
+Columbia,New Lebanon-2,State Assembly,107,Voids,Democratic,0,0,0
+Columbia,New Lebanon-2,State Assembly,107,Scatterings,Democratic,1,0,1
+Columbia,Stockport-1,Governor,,CYNTHIA E NIXON,Democratic,21,4,25
+Columbia,Stockport-1,Governor,,ANDREW M CUOMO,Democratic,19,1,20
+Columbia,Stockport-1,Governor,,Blanks,Democratic,0,0,0
+Columbia,Stockport-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Stockport-1,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Stockport-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,18,1,19
+Columbia,Stockport-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,20,4,24
+Columbia,Stockport-1,Lieutenant Governor,,Blanks,Democratic,2,0,2
+Columbia,Stockport-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Stockport-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Stockport-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,17,0,17
+Columbia,Stockport-1,Attorney General,,LETITIA A JAMES,Democratic,5,3,8
+Columbia,Stockport-1,Attorney General,,LEECIA R EVE,Democratic,2,0,2
+Columbia,Stockport-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,15,2,17
+Columbia,Stockport-1,Attorney General,,Blanks,Democratic,1,0,1
+Columbia,Stockport-1,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Stockport-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Stockport-2,Governor,,CYNTHIA E NIXON,Democratic,26,7,33
+Columbia,Stockport-2,Governor,,ANDREW M CUOMO,Democratic,25,3,28
+Columbia,Stockport-2,Governor,,Blanks,Democratic,0,0,0
+Columbia,Stockport-2,Governor,,Voids,Democratic,0,0,0
+Columbia,Stockport-2,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Stockport-2,Lieutenant Governor,,KATHY C HOCHUL,Democratic,29,4,33
+Columbia,Stockport-2,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,20,4,24
+Columbia,Stockport-2,Lieutenant Governor,,Blanks,Democratic,2,2,4
+Columbia,Stockport-2,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Stockport-2,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Stockport-2,Attorney General,,SEAN PATRICK MALONEY,Democratic,19,3,22
+Columbia,Stockport-2,Attorney General,,LETITIA A JAMES,Democratic,4,0,4
+Columbia,Stockport-2,Attorney General,,LEECIA R EVE,Democratic,0,0,0
+Columbia,Stockport-2,Attorney General,,ZEPHYR TEACHOUT,Democratic,27,7,34
+Columbia,Stockport-2,Attorney General,,Blanks,Democratic,1,0,1
+Columbia,Stockport-2,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Stockport-2,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Stuyvesant-1,Governor,,CYNTHIA E NIXON,Democratic,35,8,43
+Columbia,Stuyvesant-1,Governor,,ANDREW M CUOMO,Democratic,27,0,27
+Columbia,Stuyvesant-1,Governor,,Blanks,Democratic,1,0,1
+Columbia,Stuyvesant-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Stuyvesant-1,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Stuyvesant-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,29,3,32
+Columbia,Stuyvesant-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,32,5,37
+Columbia,Stuyvesant-1,Lieutenant Governor,,Blanks,Democratic,2,0,2
+Columbia,Stuyvesant-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Stuyvesant-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Stuyvesant-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,13,2,15
+Columbia,Stuyvesant-1,Attorney General,,LETITIA A JAMES,Democratic,8,0,8
+Columbia,Stuyvesant-1,Attorney General,,LEECIA R EVE,Democratic,1,0,1
+Columbia,Stuyvesant-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,41,6,47
+Columbia,Stuyvesant-1,Attorney General,,Blanks,Democratic,0,0,0
+Columbia,Stuyvesant-1,Attorney General,,Voids,Democratic,0,0,0
+Columbia,Stuyvesant-1,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Stuyvesant-2,Governor,,CYNTHIA E NIXON,Democratic,37,6,43
+Columbia,Stuyvesant-2,Governor,,ANDREW M CUOMO,Democratic,37,10,47
+Columbia,Stuyvesant-2,Governor,,Blanks,Democratic,0,1,1
+Columbia,Stuyvesant-2,Governor,,Voids,Democratic,0,0,0
+Columbia,Stuyvesant-2,Governor,,Scatterings,Democratic,0,0,0
+Columbia,Stuyvesant-2,Lieutenant Governor,,KATHY C HOCHUL,Democratic,25,7,32
+Columbia,Stuyvesant-2,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,46,7,53
+Columbia,Stuyvesant-2,Lieutenant Governor,,Blanks,Democratic,3,3,6
+Columbia,Stuyvesant-2,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Stuyvesant-2,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Stuyvesant-2,Attorney General,,SEAN PATRICK MALONEY,Democratic,15,6,21
+Columbia,Stuyvesant-2,Attorney General,,LETITIA A JAMES,Democratic,7,0,7
+Columbia,Stuyvesant-2,Attorney General,,LEECIA R EVE,Democratic,2,0,2
+Columbia,Stuyvesant-2,Attorney General,,ZEPHYR TEACHOUT,Democratic,49,9,58
+Columbia,Stuyvesant-2,Attorney General,,Blanks,Democratic,1,0,1
+Columbia,Stuyvesant-2,Attorney General,,Voids,Democratic,0,2,2
+Columbia,Stuyvesant-2,Attorney General,,Scatterings,Democratic,0,0,0
+Columbia,Taghkanic-1,Governor,,CYNTHIA E NIXON,Democratic,51,21,72
+Columbia,Taghkanic-1,Governor,,ANDREW M CUOMO,Democratic,45,31,76
+Columbia,Taghkanic-1,Governor,,Blanks,Democratic,0,2,2
+Columbia,Taghkanic-1,Governor,,Voids,Democratic,0,0,0
+Columbia,Taghkanic-1,Governor,,Scatterings,Democratic,1,1,2
+Columbia,Taghkanic-1,Lieutenant Governor,,KATHY C HOCHUL,Democratic,41,30,71
+Columbia,Taghkanic-1,Lieutenant Governor,,JUMAANE WILLIAMS,Democratic,52,23,75
+Columbia,Taghkanic-1,Lieutenant Governor,,Blanks,Democratic,4,2,6
+Columbia,Taghkanic-1,Lieutenant Governor,,Voids,Democratic,0,0,0
+Columbia,Taghkanic-1,Lieutenant Governor,,Scatterings,Democratic,0,0,0
+Columbia,Taghkanic-1,Attorney General,,SEAN PATRICK MALONEY,Democratic,23,4,27
+Columbia,Taghkanic-1,Attorney General,,LETITIA A JAMES,Democratic,17,8,25
+Columbia,Taghkanic-1,Attorney General,,LEECIA R EVE,Democratic,3,0,3
+Columbia,Taghkanic-1,Attorney General,,ZEPHYR TEACHOUT,Democratic,50,43,93
+Columbia,Taghkanic-1,Attorney General,,Blanks,Democratic,2,0,2
+Columbia,Taghkanic-1,Attorney General,,Voids,Democratic,1,0,1
+Columbia,Taghkanic-1,Attorney General,,Scatterings,Democratic,1,0,1
