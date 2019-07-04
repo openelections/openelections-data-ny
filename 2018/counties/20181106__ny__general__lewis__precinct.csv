@@ -1,4 +1,4 @@
-county ,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Lewis,Croghan 1,Governor,,DEM,Andrew M. Cuomo,12
 Lewis,Croghan 2,Governor,,DEM,Andrew M. Cuomo,36
 Lewis,Croghan 3,Governor,,DEM,Andrew M. Cuomo,47
@@ -2241,4 +2241,3 @@ Lewis,West Turin 1,State Assembly,117,,Write-Ins,0
 Lewis,West Turin 2,State Assembly,117,,Write-Ins,0
 Lewis,West Turin 3,State Assembly,117,,Write-Ins,0
 Lewis,West Turin 4,State Assembly,117,,Write-Ins,1
-,,,,,,
