@@ -1,4 +1,4 @@
-county,district,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Albany,0001 ALBANY W1 ED1,Governor,,Dem,Andrew M. Cuomo,35
 Albany,0002 ALBANY W1 ED2,Governor,,Dem,Andrew M. Cuomo,148
 Albany,0003 ALBANY W1 ED3,Governor,,Dem,Andrew M. Cuomo,212
