@@ -1,0 +1,501 @@
+county,precinct,office,district,candidate,party,election_day,absentee,votes
+Columbia,Greenport-1,U.S. House,19,BRIAN FLYNN,Democratic,1,0,1
+Columbia,Greenport-3,U.S. House,19,BRIAN FLYNN,Democratic,8,0,8
+Columbia,Hudson 5-1,U.S. House,19,BRIAN FLYNN,Democratic,9,0,9
+Columbia,Kinderhook-6,U.S. House,19,BRIAN FLYNN,Democratic,4,0,4
+Columbia,Kinderhook-8,U.S. House,19,BRIAN FLYNN,Democratic,9,0,9
+Columbia,Austerlitz-1,U.S. House,19,BRIAN FLYNN,Democratic,11,1,12
+Columbia,Canaan-2,U.S. House,19,BRIAN FLYNN,Democratic,10,1,11
+Columbia,Chatham-2,U.S. House,19,BRIAN FLYNN,Democratic,10,1,11
+Columbia,Claverack-3,U.S. House,19,BRIAN FLYNN,Democratic,21,1,22
+Columbia,Claverack-5,U.S. House,19,BRIAN FLYNN,Democratic,9,1,10
+Columbia,Hudson 2-1,U.S. House,19,BRIAN FLYNN,Democratic,9,1,10
+Columbia,Hudson 3-1,U.S. House,19,BRIAN FLYNN,Democratic,14,1,15
+Columbia,Kinderhook-2,U.S. House,19,BRIAN FLYNN,Democratic,10,1,11
+Columbia,Kinderhook-4,U.S. House,19,BRIAN FLYNN,Democratic,5,1,6
+Columbia,Kinderhook-5,U.S. House,19,BRIAN FLYNN,Democratic,7,1,8
+Columbia,Kinderhook-7,U.S. House,19,BRIAN FLYNN,Democratic,11,1,12
+Columbia,Livingston-1,U.S. House,19,BRIAN FLYNN,Democratic,17,1,18
+Columbia,Stockport-1,U.S. House,19,BRIAN FLYNN,Democratic,4,1,5
+Columbia,Ancram-2,U.S. House,19,BRIAN FLYNN,Democratic,12,2,14
+Columbia,Austerlitz-2,U.S. House,19,BRIAN FLYNN,Democratic,13,2,15
+Columbia,Chatham-3,U.S. House,19,BRIAN FLYNN,Democratic,12,2,14
+Columbia,Claverack-1,U.S. House,19,BRIAN FLYNN,Democratic,26,2,28
+Columbia,Ghent-2,U.S. House,19,BRIAN FLYNN,Democratic,12,2,14
+Columbia,Hudson 1-1,U.S. House,19,BRIAN FLYNN,Democratic,24,2,26
+Columbia,Hudson 4-1,U.S. House,19,BRIAN FLYNN,Democratic,13,2,15
+Columbia,Kinderhook-3,U.S. House,19,BRIAN FLYNN,Democratic,4,2,6
+Columbia,New Lebanon-2,U.S. House,19,BRIAN FLYNN,Democratic,8,2,10
+Columbia,Stockport-2,U.S. House,19,BRIAN FLYNN,Democratic,4,2,6
+Columbia,Stuyvesant-1,U.S. House,19,BRIAN FLYNN,Democratic,4,2,6
+Columbia,Stuyvesant-2,U.S. House,19,BRIAN FLYNN,Democratic,4,2,6
+Columbia,Canaan-1,U.S. House,19,BRIAN FLYNN,Democratic,11,3,14
+Columbia,Chatham-1,U.S. House,19,BRIAN FLYNN,Democratic,21,3,24
+Columbia,Clermont-1,U.S. House,19,BRIAN FLYNN,Democratic,5,3,8
+Columbia,Ghent-1,U.S. House,19,BRIAN FLYNN,Democratic,13,3,16
+Columbia,New Lebanon-1,U.S. House,19,BRIAN FLYNN,Democratic,8,3,11
+Columbia,Copake-2,U.S. House,19,BRIAN FLYNN,Democratic,6,4,10
+Columbia,Gallatin-1,U.S. House,19,BRIAN FLYNN,Democratic,7,5,12
+Columbia,Livingston-2,U.S. House,19,BRIAN FLYNN,Democratic,10,5,15
+Columbia,Claverack-4,U.S. House,19,BRIAN FLYNN,Democratic,21,6,27
+Columbia,Greenport-2,U.S. House,19,BRIAN FLYNN,Democratic,7,6,13
+Columbia,Kinderhook-1,U.S. House,19,BRIAN FLYNN,Democratic,14,6,20
+Columbia,Claverack-2,U.S. House,19,BRIAN FLYNN,Democratic,19,7,26
+Columbia,Germantown-2,U.S. House,19,BRIAN FLYNN,Democratic,15,7,22
+Columbia,Hillsdale-2,U.S. House,19,BRIAN FLYNN,Democratic,14,7,21
+Columbia,Taghkanic-1,U.S. House,19,BRIAN FLYNN,Democratic,19,7,26
+Columbia,Copake-1,U.S. House,19,BRIAN FLYNN,Democratic,10,9,19
+Columbia,Ghent-3,U.S. House,19,BRIAN FLYNN,Democratic,8,9,17
+Columbia,Germantown-1,U.S. House,19,BRIAN FLYNN,Democratic,23,10,33
+Columbia,Ancram-1,U.S. House,19,BRIAN FLYNN,Democratic,14,11,25
+Columbia,Hillsdale-1,U.S. House,19,BRIAN FLYNN,Democratic,32,13,45
+Columbia,Austerlitz-2,U.S. House,19,ERIN COLLIER,Democratic,4,0,4
+Columbia,Chatham-1,U.S. House,19,ERIN COLLIER,Democratic,7,0,7
+Columbia,Claverack-1,U.S. House,19,ERIN COLLIER,Democratic,2,0,2
+Columbia,Claverack-2,U.S. House,19,ERIN COLLIER,Democratic,1,0,1
+Columbia,Claverack-3,U.S. House,19,ERIN COLLIER,Democratic,1,0,1
+Columbia,Claverack-4,U.S. House,19,ERIN COLLIER,Democratic,9,0,9
+Columbia,Clermont-1,U.S. House,19,ERIN COLLIER,Democratic,4,0,4
+Columbia,Ghent-2,U.S. House,19,ERIN COLLIER,Democratic,3,0,3
+Columbia,Greenport-1,U.S. House,19,ERIN COLLIER,Democratic,1,0,1
+Columbia,Greenport-2,U.S. House,19,ERIN COLLIER,Democratic,3,0,3
+Columbia,Greenport-3,U.S. House,19,ERIN COLLIER,Democratic,3,0,3
+Columbia,Hudson 2-1,U.S. House,19,ERIN COLLIER,Democratic,2,0,2
+Columbia,Hudson 4-1,U.S. House,19,ERIN COLLIER,Democratic,7,0,7
+Columbia,Kinderhook-1,U.S. House,19,ERIN COLLIER,Democratic,7,0,7
+Columbia,Kinderhook-2,U.S. House,19,ERIN COLLIER,Democratic,2,0,2
+Columbia,Kinderhook-4,U.S. House,19,ERIN COLLIER,Democratic,3,0,3
+Columbia,Kinderhook-5,U.S. House,19,ERIN COLLIER,Democratic,2,0,2
+Columbia,Kinderhook-6,U.S. House,19,ERIN COLLIER,Democratic,1,0,1
+Columbia,Kinderhook-7,U.S. House,19,ERIN COLLIER,Democratic,3,0,3
+Columbia,Kinderhook-8,U.S. House,19,ERIN COLLIER,Democratic,4,0,4
+Columbia,Livingston-1,U.S. House,19,ERIN COLLIER,Democratic,3,0,3
+Columbia,Livingston-2,U.S. House,19,ERIN COLLIER,Democratic,0,0,0
+Columbia,New Lebanon-1,U.S. House,19,ERIN COLLIER,Democratic,2,0,2
+Columbia,New Lebanon-2,U.S. House,19,ERIN COLLIER,Democratic,2,0,2
+Columbia,Stockport-2,U.S. House,19,ERIN COLLIER,Democratic,3,0,3
+Columbia,Stuyvesant-1,U.S. House,19,ERIN COLLIER,Democratic,0,0,0
+Columbia,Stuyvesant-2,U.S. House,19,ERIN COLLIER,Democratic,6,0,6
+Columbia,Ancram-2,U.S. House,19,ERIN COLLIER,Democratic,1,1,2
+Columbia,Austerlitz-1,U.S. House,19,ERIN COLLIER,Democratic,5,1,6
+Columbia,Canaan-1,U.S. House,19,ERIN COLLIER,Democratic,5,1,6
+Columbia,Canaan-2,U.S. House,19,ERIN COLLIER,Democratic,4,1,5
+Columbia,Chatham-2,U.S. House,19,ERIN COLLIER,Democratic,3,1,4
+Columbia,Claverack-5,U.S. House,19,ERIN COLLIER,Democratic,0,1,1
+Columbia,Germantown-1,U.S. House,19,ERIN COLLIER,Democratic,1,1,2
+Columbia,Germantown-2,U.S. House,19,ERIN COLLIER,Democratic,4,1,5
+Columbia,Ghent-1,U.S. House,19,ERIN COLLIER,Democratic,7,1,8
+Columbia,Ghent-3,U.S. House,19,ERIN COLLIER,Democratic,6,1,7
+Columbia,Hillsdale-1,U.S. House,19,ERIN COLLIER,Democratic,5,1,6
+Columbia,Hudson 5-1,U.S. House,19,ERIN COLLIER,Democratic,1,1,2
+Columbia,Stockport-1,U.S. House,19,ERIN COLLIER,Democratic,2,1,3
+Columbia,Ancram-1,U.S. House,19,ERIN COLLIER,Democratic,2,2,4
+Columbia,Chatham-3,U.S. House,19,ERIN COLLIER,Democratic,8,2,10
+Columbia,Copake-2,U.S. House,19,ERIN COLLIER,Democratic,2,2,4
+Columbia,Gallatin-1,U.S. House,19,ERIN COLLIER,Democratic,6,2,8
+Columbia,Hillsdale-2,U.S. House,19,ERIN COLLIER,Democratic,4,2,6
+Columbia,Kinderhook-3,U.S. House,19,ERIN COLLIER,Democratic,3,2,5
+Columbia,Hudson 1-1,U.S. House,19,ERIN COLLIER,Democratic,10,3,13
+Columbia,Hudson 3-1,U.S. House,19,ERIN COLLIER,Democratic,4,3,7
+Columbia,Taghkanic-1,U.S. House,19,ERIN COLLIER,Democratic,4,3,7
+Columbia,Copake-1,U.S. House,19,ERIN COLLIER,Democratic,2,4,6
+Columbia,Hudson 5-1,U.S. House,19,GARETH RHODES,Democratic,33,0,33
+Columbia,Kinderhook-6,U.S. House,19,GARETH RHODES,Democratic,8,0,8
+Columbia,Kinderhook-7,U.S. House,19,GARETH RHODES,Democratic,13,0,13
+Columbia,Livingston-2,U.S. House,19,GARETH RHODES,Democratic,16,0,16
+Columbia,New Lebanon-1,U.S. House,19,GARETH RHODES,Democratic,27,0,27
+Columbia,Stockport-1,U.S. House,19,GARETH RHODES,Democratic,11,0,11
+Columbia,Stuyvesant-1,U.S. House,19,GARETH RHODES,Democratic,22,0,22
+Columbia,Claverack-2,U.S. House,19,GARETH RHODES,Democratic,15,1,16
+Columbia,Greenport-1,U.S. House,19,GARETH RHODES,Democratic,14,1,15
+Columbia,Greenport-3,U.S. House,19,GARETH RHODES,Democratic,9,1,10
+Columbia,Hudson 2-1,U.S. House,19,GARETH RHODES,Democratic,22,1,23
+Columbia,Hudson 3-1,U.S. House,19,GARETH RHODES,Democratic,46,1,47
+Columbia,Stuyvesant-2,U.S. House,19,GARETH RHODES,Democratic,19,1,20
+Columbia,Hillsdale-2,U.S. House,19,GARETH RHODES,Democratic,22,2,24
+Columbia,Hudson 4-1,U.S. House,19,GARETH RHODES,Democratic,52,2,54
+Columbia,Kinderhook-2,U.S. House,19,GARETH RHODES,Democratic,33,2,35
+Columbia,Kinderhook-4,U.S. House,19,GARETH RHODES,Democratic,14,2,16
+Columbia,Kinderhook-8,U.S. House,19,GARETH RHODES,Democratic,15,2,17
+Columbia,Clermont-1,U.S. House,19,GARETH RHODES,Democratic,24,3,27
+Columbia,Germantown-2,U.S. House,19,GARETH RHODES,Democratic,23,3,26
+Columbia,Ghent-3,U.S. House,19,GARETH RHODES,Democratic,53,3,56
+Columbia,Kinderhook-3,U.S. House,19,GARETH RHODES,Democratic,11,3,14
+Columbia,New Lebanon-2,U.S. House,19,GARETH RHODES,Democratic,14,3,17
+Columbia,Stockport-2,U.S. House,19,GARETH RHODES,Democratic,11,3,14
+Columbia,Canaan-1,U.S. House,19,GARETH RHODES,Democratic,18,4,22
+Columbia,Claverack-1,U.S. House,19,GARETH RHODES,Democratic,14,4,18
+Columbia,Claverack-4,U.S. House,19,GARETH RHODES,Democratic,19,4,23
+Columbia,Claverack-5,U.S. House,19,GARETH RHODES,Democratic,8,4,12
+Columbia,Copake-2,U.S. House,19,GARETH RHODES,Democratic,24,4,28
+Columbia,Ghent-1,U.S. House,19,GARETH RHODES,Democratic,27,4,31
+Columbia,Ghent-2,U.S. House,19,GARETH RHODES,Democratic,47,4,51
+Columbia,Greenport-2,U.S. House,19,GARETH RHODES,Democratic,14,4,18
+Columbia,Kinderhook-5,U.S. House,19,GARETH RHODES,Democratic,24,4,28
+Columbia,Ancram-1,U.S. House,19,GARETH RHODES,Democratic,12,5,17
+Columbia,Ancram-2,U.S. House,19,GARETH RHODES,Democratic,17,5,22
+Columbia,Austerlitz-1,U.S. House,19,GARETH RHODES,Democratic,34,5,39
+Columbia,Austerlitz-2,U.S. House,19,GARETH RHODES,Democratic,42,5,47
+Columbia,Claverack-3,U.S. House,19,GARETH RHODES,Democratic,13,5,18
+Columbia,Gallatin-1,U.S. House,19,GARETH RHODES,Democratic,35,5,40
+Columbia,Chatham-2,U.S. House,19,GARETH RHODES,Democratic,59,6,65
+Columbia,Copake-1,U.S. House,19,GARETH RHODES,Democratic,25,7,32
+Columbia,Kinderhook-1,U.S. House,19,GARETH RHODES,Democratic,22,7,29
+Columbia,Livingston-1,U.S. House,19,GARETH RHODES,Democratic,40,7,47
+Columbia,Chatham-3,U.S. House,19,GARETH RHODES,Democratic,40,8,48
+Columbia,Germantown-1,U.S. House,19,GARETH RHODES,Democratic,17,8,25
+Columbia,Hillsdale-1,U.S. House,19,GARETH RHODES,Democratic,26,8,34
+Columbia,Taghkanic-1,U.S. House,19,GARETH RHODES,Democratic,16,8,24
+Columbia,Canaan-2,U.S. House,19,GARETH RHODES,Democratic,32,9,41
+Columbia,Chatham-1,U.S. House,19,GARETH RHODES,Democratic,53,11,64
+Columbia,Hudson 1-1,U.S. House,19,GARETH RHODES,Democratic,106,14,120
+Columbia,Claverack-1,U.S. House,19,PAT RYAN,Democratic,3,0,3
+Columbia,Claverack-2,U.S. House,19,PAT RYAN,Democratic,13,0,13
+Columbia,Clermont-1,U.S. House,19,PAT RYAN,Democratic,29,0,29
+Columbia,Greenport-3,U.S. House,19,PAT RYAN,Democratic,10,0,10
+Columbia,Hudson 2-1,U.S. House,19,PAT RYAN,Democratic,7,0,7
+Columbia,Kinderhook-1,U.S. House,19,PAT RYAN,Democratic,19,0,19
+Columbia,Kinderhook-6,U.S. House,19,PAT RYAN,Democratic,9,0,9
+Columbia,Kinderhook-7,U.S. House,19,PAT RYAN,Democratic,11,0,11
+Columbia,Germantown-2,U.S. House,19,PAT RYAN,Democratic,9,1,10
+Columbia,Ghent-3,U.S. House,19,PAT RYAN,Democratic,18,1,19
+Columbia,Greenport-1,U.S. House,19,PAT RYAN,Democratic,5,1,6
+Columbia,Hudson 1-1,U.S. House,19,PAT RYAN,Democratic,12,1,13
+Columbia,Hudson 5-1,U.S. House,19,PAT RYAN,Democratic,8,1,9
+Columbia,Kinderhook-4,U.S. House,19,PAT RYAN,Democratic,21,1,22
+Columbia,Kinderhook-5,U.S. House,19,PAT RYAN,Democratic,9,1,10
+Columbia,Kinderhook-8,U.S. House,19,PAT RYAN,Democratic,9,1,10
+Columbia,Livingston-1,U.S. House,19,PAT RYAN,Democratic,21,1,22
+Columbia,New Lebanon-1,U.S. House,19,PAT RYAN,Democratic,15,1,16
+Columbia,Stockport-1,U.S. House,19,PAT RYAN,Democratic,3,1,4
+Columbia,Stuyvesant-1,U.S. House,19,PAT RYAN,Democratic,7,1,8
+Columbia,Stuyvesant-2,U.S. House,19,PAT RYAN,Democratic,9,1,10
+Columbia,Chatham-2,U.S. House,19,PAT RYAN,Democratic,13,2,15
+Columbia,Germantown-1,U.S. House,19,PAT RYAN,Democratic,10,2,12
+Columbia,Kinderhook-3,U.S. House,19,PAT RYAN,Democratic,8,2,10
+Columbia,Stockport-2,U.S. House,19,PAT RYAN,Democratic,11,2,13
+Columbia,Austerlitz-2,U.S. House,19,PAT RYAN,Democratic,24,3,27
+Columbia,Canaan-2,U.S. House,19,PAT RYAN,Democratic,11,3,14
+Columbia,Chatham-3,U.S. House,19,PAT RYAN,Democratic,38,3,41
+Columbia,Claverack-3,U.S. House,19,PAT RYAN,Democratic,17,3,20
+Columbia,Ghent-1,U.S. House,19,PAT RYAN,Democratic,23,3,26
+Columbia,Hudson 4-1,U.S. House,19,PAT RYAN,Democratic,2,3,5
+Columbia,Kinderhook-2,U.S. House,19,PAT RYAN,Democratic,12,3,15
+Columbia,Ancram-2,U.S. House,19,PAT RYAN,Democratic,10,4,14
+Columbia,Canaan-1,U.S. House,19,PAT RYAN,Democratic,18,4,22
+Columbia,Claverack-5,U.S. House,19,PAT RYAN,Democratic,4,4,8
+Columbia,New Lebanon-2,U.S. House,19,PAT RYAN,Democratic,12,4,16
+Columbia,Chatham-1,U.S. House,19,PAT RYAN,Democratic,27,5,32
+Columbia,Ghent-2,U.S. House,19,PAT RYAN,Democratic,19,5,24
+Columbia,Greenport-2,U.S. House,19,PAT RYAN,Democratic,13,5,18
+Columbia,Austerlitz-1,U.S. House,19,PAT RYAN,Democratic,17,6,23
+Columbia,Gallatin-1,U.S. House,19,PAT RYAN,Democratic,13,6,19
+Columbia,Hudson 3-1,U.S. House,19,PAT RYAN,Democratic,9,6,15
+Columbia,Livingston-2,U.S. House,19,PAT RYAN,Democratic,23,6,29
+Columbia,Ancram-1,U.S. House,19,PAT RYAN,Democratic,18,7,25
+Columbia,Copake-1,U.S. House,19,PAT RYAN,Democratic,38,8,46
+Columbia,Taghkanic-1,U.S. House,19,PAT RYAN,Democratic,16,8,24
+Columbia,Copake-2,U.S. House,19,PAT RYAN,Democratic,25,9,34
+Columbia,Hillsdale-2,U.S. House,19,PAT RYAN,Democratic,29,10,39
+Columbia,Claverack-4,U.S. House,19,PAT RYAN,Democratic,9,11,20
+Columbia,Hillsdale-1,U.S. House,19,PAT RYAN,Democratic,28,11,39
+Columbia,Canaan-1,U.S. House,19,ANTONIO DELGADO,Democratic,17,0,17
+Columbia,Canaan-2,U.S. House,19,ANTONIO DELGADO,Democratic,15,0,15
+Columbia,Kinderhook-5,U.S. House,19,ANTONIO DELGADO,Democratic,14,0,14
+Columbia,Stockport-2,U.S. House,19,ANTONIO DELGADO,Democratic,5,0,5
+Columbia,Ancram-2,U.S. House,19,ANTONIO DELGADO,Democratic,3,1,4
+Columbia,Claverack-4,U.S. House,19,ANTONIO DELGADO,Democratic,22,1,23
+Columbia,Claverack-5,U.S. House,19,ANTONIO DELGADO,Democratic,6,1,7
+Columbia,Greenport-2,U.S. House,19,ANTONIO DELGADO,Democratic,13,1,14
+Columbia,Hudson 3-1,U.S. House,19,ANTONIO DELGADO,Democratic,23,1,24
+Columbia,Kinderhook-2,U.S. House,19,ANTONIO DELGADO,Democratic,17,1,18
+Columbia,Kinderhook-6,U.S. House,19,ANTONIO DELGADO,Democratic,8,1,9
+Columbia,Kinderhook-7,U.S. House,19,ANTONIO DELGADO,Democratic,18,1,19
+Columbia,New Lebanon-2,U.S. House,19,ANTONIO DELGADO,Democratic,8,1,9
+Columbia,Stockport-1,U.S. House,19,ANTONIO DELGADO,Democratic,8,1,9
+Columbia,Austerlitz-1,U.S. House,19,ANTONIO DELGADO,Democratic,17,2,19
+Columbia,Claverack-1,U.S. House,19,ANTONIO DELGADO,Democratic,6,2,8
+Columbia,Germantown-1,U.S. House,19,ANTONIO DELGADO,Democratic,18,2,20
+Columbia,Hillsdale-2,U.S. House,19,ANTONIO DELGADO,Democratic,11,2,13
+Columbia,Kinderhook-1,U.S. House,19,ANTONIO DELGADO,Democratic,10,2,12
+Columbia,Chatham-2,U.S. House,19,ANTONIO DELGADO,Democratic,21,3,24
+Columbia,Copake-2,U.S. House,19,ANTONIO DELGADO,Democratic,21,3,24
+Columbia,Gallatin-1,U.S. House,19,ANTONIO DELGADO,Democratic,13,3,16
+Columbia,Germantown-2,U.S. House,19,ANTONIO DELGADO,Democratic,12,3,15
+Columbia,Hudson 5-1,U.S. House,19,ANTONIO DELGADO,Democratic,33,3,36
+Columbia,Kinderhook-4,U.S. House,19,ANTONIO DELGADO,Democratic,14,3,17
+Columbia,Kinderhook-8,U.S. House,19,ANTONIO DELGADO,Democratic,22,3,25
+Columbia,Stuyvesant-1,U.S. House,19,ANTONIO DELGADO,Democratic,4,3,7
+Columbia,Austerlitz-2,U.S. House,19,ANTONIO DELGADO,Democratic,28,4,32
+Columbia,Clermont-1,U.S. House,19,ANTONIO DELGADO,Democratic,18,4,22
+Columbia,Ghent-3,U.S. House,19,ANTONIO DELGADO,Democratic,21,4,25
+Columbia,Greenport-1,U.S. House,19,ANTONIO DELGADO,Democratic,31,4,35
+Columbia,Kinderhook-3,U.S. House,19,ANTONIO DELGADO,Democratic,12,4,16
+Columbia,Livingston-1,U.S. House,19,ANTONIO DELGADO,Democratic,15,4,19
+Columbia,Chatham-1,U.S. House,19,ANTONIO DELGADO,Democratic,41,5,46
+Columbia,Chatham-3,U.S. House,19,ANTONIO DELGADO,Democratic,35,5,40
+Columbia,Claverack-2,U.S. House,19,ANTONIO DELGADO,Democratic,18,5,23
+Columbia,Claverack-3,U.S. House,19,ANTONIO DELGADO,Democratic,14,5,19
+Columbia,Hillsdale-1,U.S. House,19,ANTONIO DELGADO,Democratic,10,5,15
+Columbia,Livingston-2,U.S. House,19,ANTONIO DELGADO,Democratic,18,5,23
+Columbia,New Lebanon-1,U.S. House,19,ANTONIO DELGADO,Democratic,17,5,22
+Columbia,Ancram-1,U.S. House,19,ANTONIO DELGADO,Democratic,14,6,20
+Columbia,Stuyvesant-2,U.S. House,19,ANTONIO DELGADO,Democratic,11,6,17
+Columbia,Copake-1,U.S. House,19,ANTONIO DELGADO,Democratic,25,7,32
+Columbia,Greenport-3,U.S. House,19,ANTONIO DELGADO,Democratic,32,7,39
+Columbia,Hudson 1-1,U.S. House,19,ANTONIO DELGADO,Democratic,32,7,39
+Columbia,Ghent-1,U.S. House,19,ANTONIO DELGADO,Democratic,24,9,33
+Columbia,Hudson 2-1,U.S. House,19,ANTONIO DELGADO,Democratic,51,12,63
+Columbia,Hudson 4-1,U.S. House,19,ANTONIO DELGADO,Democratic,38,12,50
+Columbia,Ghent-2,U.S. House,19,ANTONIO DELGADO,Democratic,28,16,44
+Columbia,Taghkanic-1,U.S. House,19,ANTONIO DELGADO,Democratic,20,20,40
+Columbia,Austerlitz-2,U.S. House,19,JEFF BEALS,Democratic,10,0,10
+Columbia,Canaan-1,U.S. House,19,JEFF BEALS,Democratic,22,0,22
+Columbia,Canaan-2,U.S. House,19,JEFF BEALS,Democratic,3,0,3
+Columbia,Chatham-1,U.S. House,19,JEFF BEALS,Democratic,18,0,18
+Columbia,Chatham-2,U.S. House,19,JEFF BEALS,Democratic,17,0,17
+Columbia,Chatham-3,U.S. House,19,JEFF BEALS,Democratic,12,0,12
+Columbia,Claverack-3,U.S. House,19,JEFF BEALS,Democratic,7,0,7
+Columbia,Greenport-1,U.S. House,19,JEFF BEALS,Democratic,9,0,9
+Columbia,Greenport-2,U.S. House,19,JEFF BEALS,Democratic,17,0,17
+Columbia,Hillsdale-2,U.S. House,19,JEFF BEALS,Democratic,10,0,10
+Columbia,Hudson 2-1,U.S. House,19,JEFF BEALS,Democratic,8,0,8
+Columbia,Hudson 5-1,U.S. House,19,JEFF BEALS,Democratic,15,0,15
+Columbia,Kinderhook-6,U.S. House,19,JEFF BEALS,Democratic,4,0,4
+Columbia,Kinderhook-7,U.S. House,19,JEFF BEALS,Democratic,1,0,1
+Columbia,Kinderhook-8,U.S. House,19,JEFF BEALS,Democratic,6,0,6
+Columbia,Livingston-2,U.S. House,19,JEFF BEALS,Democratic,12,0,12
+Columbia,New Lebanon-1,U.S. House,19,JEFF BEALS,Democratic,22,0,22
+Columbia,New Lebanon-2,U.S. House,19,JEFF BEALS,Democratic,10,0,10
+Columbia,Stockport-1,U.S. House,19,JEFF BEALS,Democratic,5,0,5
+Columbia,Stuyvesant-2,U.S. House,19,JEFF BEALS,Democratic,8,0,8
+Columbia,Austerlitz-1,U.S. House,19,JEFF BEALS,Democratic,8,1,9
+Columbia,Claverack-2,U.S. House,19,JEFF BEALS,Democratic,3,1,4
+Columbia,Claverack-4,U.S. House,19,JEFF BEALS,Democratic,14,1,15
+Columbia,Claverack-5,U.S. House,19,JEFF BEALS,Democratic,1,1,2
+Columbia,Ghent-1,U.S. House,19,JEFF BEALS,Democratic,15,1,16
+Columbia,Ghent-2,U.S. House,19,JEFF BEALS,Democratic,17,1,18
+Columbia,Ghent-3,U.S. House,19,JEFF BEALS,Democratic,8,1,9
+Columbia,Kinderhook-1,U.S. House,19,JEFF BEALS,Democratic,11,1,12
+Columbia,Kinderhook-2,U.S. House,19,JEFF BEALS,Democratic,11,1,12
+Columbia,Kinderhook-3,U.S. House,19,JEFF BEALS,Democratic,12,1,13
+Columbia,Kinderhook-4,U.S. House,19,JEFF BEALS,Democratic,2,1,3
+Columbia,Kinderhook-5,U.S. House,19,JEFF BEALS,Democratic,9,1,10
+Columbia,Clermont-1,U.S. House,19,JEFF BEALS,Democratic,19,2,21
+Columbia,Copake-1,U.S. House,19,JEFF BEALS,Democratic,9,2,11
+Columbia,Copake-2,U.S. House,19,JEFF BEALS,Democratic,15,2,17
+Columbia,Gallatin-1,U.S. House,19,JEFF BEALS,Democratic,7,2,9
+Columbia,Greenport-3,U.S. House,19,JEFF BEALS,Democratic,5,2,7
+Columbia,Hudson 3-1,U.S. House,19,JEFF BEALS,Democratic,27,2,29
+Columbia,Hudson 4-1,U.S. House,19,JEFF BEALS,Democratic,21,2,23
+Columbia,Stockport-2,U.S. House,19,JEFF BEALS,Democratic,4,2,6
+Columbia,Taghkanic-1,U.S. House,19,JEFF BEALS,Democratic,8,2,10
+Columbia,Ancram-2,U.S. House,19,JEFF BEALS,Democratic,4,3,7
+Columbia,Livingston-1,U.S. House,19,JEFF BEALS,Democratic,15,3,18
+Columbia,Ancram-1,U.S. House,19,JEFF BEALS,Democratic,4,4,8
+Columbia,Claverack-1,U.S. House,19,JEFF BEALS,Democratic,2,4,6
+Columbia,Hillsdale-1,U.S. House,19,JEFF BEALS,Democratic,11,4,15
+Columbia,Germantown-2,U.S. House,19,JEFF BEALS,Democratic,19,5,24
+Columbia,Stuyvesant-1,U.S. House,19,JEFF BEALS,Democratic,6,5,11
+Columbia,Germantown-1,U.S. House,19,JEFF BEALS,Democratic,20,6,26
+Columbia,Hudson 1-1,U.S. House,19,JEFF BEALS,Democratic,48,8,56
+Columbia,Ancram-1,U.S. House,19,DAVE CLEGG,Democratic,3,0,3
+Columbia,Ancram-2,U.S. House,19,DAVE CLEGG,Democratic,1,0,1
+Columbia,Austerlitz-2,U.S. House,19,DAVE CLEGG,Democratic,8,0,8
+Columbia,Canaan-1,U.S. House,19,DAVE CLEGG,Democratic,3,0,3
+Columbia,Chatham-3,U.S. House,19,DAVE CLEGG,Democratic,7,0,7
+Columbia,Claverack-1,U.S. House,19,DAVE CLEGG,Democratic,0,0,0
+Columbia,Claverack-4,U.S. House,19,DAVE CLEGG,Democratic,3,0,3
+Columbia,Claverack-5,U.S. House,19,DAVE CLEGG,Democratic,2,0,2
+Columbia,Clermont-1,U.S. House,19,DAVE CLEGG,Democratic,8,0,8
+Columbia,Copake-1,U.S. House,19,DAVE CLEGG,Democratic,4,0,4
+Columbia,Germantown-2,U.S. House,19,DAVE CLEGG,Democratic,1,0,1
+Columbia,Ghent-2,U.S. House,19,DAVE CLEGG,Democratic,12,0,12
+Columbia,Ghent-3,U.S. House,19,DAVE CLEGG,Democratic,4,0,4
+Columbia,Greenport-1,U.S. House,19,DAVE CLEGG,Democratic,3,0,3
+Columbia,Greenport-2,U.S. House,19,DAVE CLEGG,Democratic,2,0,2
+Columbia,Greenport-3,U.S. House,19,DAVE CLEGG,Democratic,0,0,0
+Columbia,Hillsdale-1,U.S. House,19,DAVE CLEGG,Democratic,2,0,2
+Columbia,Hillsdale-2,U.S. House,19,DAVE CLEGG,Democratic,2,0,2
+Columbia,Hudson 2-1,U.S. House,19,DAVE CLEGG,Democratic,2,0,2
+Columbia,Hudson 4-1,U.S. House,19,DAVE CLEGG,Democratic,3,0,3
+Columbia,Hudson 5-1,U.S. House,19,DAVE CLEGG,Democratic,1,0,1
+Columbia,Kinderhook-3,U.S. House,19,DAVE CLEGG,Democratic,5,0,5
+Columbia,Kinderhook-4,U.S. House,19,DAVE CLEGG,Democratic,7,0,7
+Columbia,Kinderhook-7,U.S. House,19,DAVE CLEGG,Democratic,7,0,7
+Columbia,Kinderhook-8,U.S. House,19,DAVE CLEGG,Democratic,4,0,4
+Columbia,Livingston-1,U.S. House,19,DAVE CLEGG,Democratic,1,0,1
+Columbia,New Lebanon-1,U.S. House,19,DAVE CLEGG,Democratic,2,0,2
+Columbia,New Lebanon-2,U.S. House,19,DAVE CLEGG,Democratic,0,0,0
+Columbia,Stockport-1,U.S. House,19,DAVE CLEGG,Democratic,7,0,7
+Columbia,Stockport-2,U.S. House,19,DAVE CLEGG,Democratic,1,0,1
+Columbia,Stuyvesant-2,U.S. House,19,DAVE CLEGG,Democratic,7,0,7
+Columbia,Austerlitz-1,U.S. House,19,DAVE CLEGG,Democratic,4,1,5
+Columbia,Chatham-1,U.S. House,19,DAVE CLEGG,Democratic,8,1,9
+Columbia,Claverack-2,U.S. House,19,DAVE CLEGG,Democratic,3,1,4
+Columbia,Gallatin-1,U.S. House,19,DAVE CLEGG,Democratic,5,1,6
+Columbia,Ghent-1,U.S. House,19,DAVE CLEGG,Democratic,5,1,6
+Columbia,Hudson 1-1,U.S. House,19,DAVE CLEGG,Democratic,8,1,9
+Columbia,Hudson 3-1,U.S. House,19,DAVE CLEGG,Democratic,5,1,6
+Columbia,Kinderhook-2,U.S. House,19,DAVE CLEGG,Democratic,11,1,12
+Columbia,Chatham-2,U.S. House,19,DAVE CLEGG,Democratic,6,2,8
+Columbia,Claverack-3,U.S. House,19,DAVE CLEGG,Democratic,1,2,3
+Columbia,Copake-2,U.S. House,19,DAVE CLEGG,Democratic,5,2,7
+Columbia,Germantown-1,U.S. House,19,DAVE CLEGG,Democratic,3,2,5
+Columbia,Kinderhook-1,U.S. House,19,DAVE CLEGG,Democratic,14,2,16
+Columbia,Kinderhook-6,U.S. House,19,DAVE CLEGG,Democratic,7,2,9
+Columbia,Livingston-2,U.S. House,19,DAVE CLEGG,Democratic,5,2,7
+Columbia,Stuyvesant-1,U.S. House,19,DAVE CLEGG,Democratic,5,2,7
+Columbia,Canaan-2,U.S. House,19,DAVE CLEGG,Democratic,8,3,11
+Columbia,Kinderhook-5,U.S. House,19,DAVE CLEGG,Democratic,1,3,4
+Columbia,Taghkanic-1,U.S. House,19,DAVE CLEGG,Democratic,2,4,6
+Columbia,Ancram-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Ancram-2,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Austerlitz-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Austerlitz-2,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Canaan-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Canaan-2,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Chatham-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Chatham-2,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Chatham-3,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Claverack-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Claverack-2,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Claverack-3,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Claverack-4,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Claverack-5,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Clermont-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Copake-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Copake-2,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Gallatin-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Germantown-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Germantown-2,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Ghent-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Ghent-2,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Ghent-3,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Greenport-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Greenport-2,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Greenport-3,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Hillsdale-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Hillsdale-2,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Hudson 1-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Hudson 2-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Hudson 3-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Hudson 4-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Hudson 5-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Kinderhook-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Kinderhook-2,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Kinderhook-3,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Kinderhook-4,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Kinderhook-5,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Kinderhook-6,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Kinderhook-7,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Kinderhook-8,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Livingston-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Livingston-2,U.S. House,19,Blanks,Democratic,1,0,1
+Columbia,New Lebanon-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,New Lebanon-2,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Stockport-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Stockport-2,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Stuyvesant-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Stuyvesant-2,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Taghkanic-1,U.S. House,19,Blanks,Democratic,0,0,0
+Columbia,Ancram-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Ancram-2,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Austerlitz-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Austerlitz-2,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Canaan-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Canaan-2,U.S. House,19,Voids,Democratic,1,0,1
+Columbia,Chatham-1,U.S. House,19,Voids,Democratic,1,0,1
+Columbia,Chatham-2,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Chatham-3,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Claverack-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Claverack-2,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Claverack-3,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Claverack-5,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Clermont-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Copake-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Copake-2,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Gallatin-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Germantown-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Germantown-2,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Ghent-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Ghent-2,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Greenport-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Greenport-2,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Greenport-3,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Hillsdale-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Hillsdale-2,U.S. House,19,Voids,Democratic,1,0,1
+Columbia,Hudson 1-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Hudson 2-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Hudson 3-1,U.S. House,19,Voids,Democratic,1,0,1
+Columbia,Hudson 4-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Hudson 5-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Kinderhook-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Kinderhook-2,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Kinderhook-3,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Kinderhook-4,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Kinderhook-5,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Kinderhook-6,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Kinderhook-7,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Kinderhook-8,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Livingston-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Livingston-2,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,New Lebanon-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,New Lebanon-2,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Stockport-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Stockport-2,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Stuyvesant-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Stuyvesant-2,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Taghkanic-1,U.S. House,19,Voids,Democratic,0,0,0
+Columbia,Claverack-4,U.S. House,19,Voids,Democratic,0,1,1
+Columbia,Ghent-3,U.S. House,19,Voids,Democratic,0,1,1
+Columbia,Ancram-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Ancram-2,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Austerlitz-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Austerlitz-2,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Canaan-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Canaan-2,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Chatham-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Chatham-2,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Chatham-3,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Claverack-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Claverack-2,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Claverack-3,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Claverack-4,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Claverack-5,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Clermont-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Copake-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Copake-2,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Gallatin-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Germantown-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Germantown-2,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Ghent-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Ghent-2,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Ghent-3,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Greenport-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Greenport-2,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Greenport-3,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Hillsdale-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Hillsdale-2,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Hudson 1-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Hudson 2-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Hudson 3-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Hudson 4-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Hudson 5-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Kinderhook-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Kinderhook-2,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Kinderhook-3,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Kinderhook-4,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Kinderhook-5,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Kinderhook-6,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Kinderhook-7,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Kinderhook-8,U.S. House,19,Write-Ins,Democratic,1,0,1
+Columbia,Livingston-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Livingston-2,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,New Lebanon-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,New Lebanon-2,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Stockport-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Stockport-2,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Stuyvesant-1,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Stuyvesant-2,U.S. House,19,Write-Ins,Democratic,0,0,0
+Columbia,Taghkanic-1,U.S. House,19,Write-Ins,Democratic,0,0,0
