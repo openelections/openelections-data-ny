@@ -1,0 +1,343 @@
+county,precinct,office,district,party,candidate,election_day,absentee,votes
+Lewis,Croghan 1,U.S. House,21,DEM,Tedra L. Cobb,3,2,5
+Lewis,Croghan 2,U.S. House,21,DEM,Tedra L. Cobb,0,1,1
+Lewis,Croghan 3,U.S. House,21,DEM,Tedra L. Cobb,12,1,13
+Lewis,Croghan 4,U.S. House,21,DEM,Tedra L. Cobb,6,2,8
+Lewis,Croghan 5,U.S. House,21,DEM,Tedra L. Cobb,2,0,2
+Lewis,Croghan 6,U.S. House,21,DEM,Tedra L. Cobb,2,0,2
+Lewis,Denmark 1,U.S. House,21,DEM,Tedra L. Cobb,1,0,1
+Lewis,Denmark 2,U.S. House,21,DEM,Tedra L. Cobb,6,2,8
+Lewis,Denmark 3,U.S. House,21,DEM,Tedra L. Cobb,3,0,3
+Lewis,Diana 1,U.S. House,21,DEM,Tedra L. Cobb,18,3,21
+Lewis,Diana 2,U.S. House,21,DEM,Tedra L. Cobb,4,0,4
+Lewis,Greig,U.S. House,21,DEM,Tedra L. Cobb,11,1,12
+Lewis,Harrisburg,U.S. House,21,DEM,Tedra L. Cobb,7,0,7
+Lewis,Lewis,U.S. House,21,DEM,Tedra L. Cobb,0,0,0
+Lewis,Leyden 1,U.S. House,21,DEM,Tedra L. Cobb,4,0,4
+Lewis,Leyden 2,U.S. House,21,DEM,Tedra L. Cobb,0,0,0
+Lewis,Leyden 3,U.S. House,21,DEM,Tedra L. Cobb,2,0,2
+Lewis,Lowville 1,U.S. House,21,DEM,Tedra L. Cobb,8,0,8
+Lewis,Lowville 2,U.S. House,21,DEM,Tedra L. Cobb,9,0,9
+Lewis,Lowville 3,U.S. House,21,DEM,Tedra L. Cobb,3,0,3
+Lewis,Lowville 4,U.S. House,21,DEM,Tedra L. Cobb,24,2,26
+Lewis,Lowville 5,U.S. House,21,DEM,Tedra L. Cobb,4,0,4
+Lewis,Lyonsdale 1,U.S. House,21,DEM,Tedra L. Cobb,3,0,3
+Lewis,Lyonsdale 2,U.S. House,21,DEM,Tedra L. Cobb,0,0,0
+Lewis,Lyonsdale 3,U.S. House,21,DEM,Tedra L. Cobb,0,0,0
+Lewis,Martinsburg,U.S. House,21,DEM,Tedra L. Cobb,7,3,10
+Lewis,Montague,U.S. House,21,DEM,Tedra L. Cobb,2,0,2
+Lewis,New Bremen 1,U.S. House,21,DEM,Tedra L. Cobb,6,1,7
+Lewis,New Bremen 2,U.S. House,21,DEM,Tedra L. Cobb,6,0,6
+Lewis,New Bremen 3,U.S. House,21,DEM,Tedra L. Cobb,2,0,2
+Lewis,Osceola,U.S. House,21,DEM,Tedra L. Cobb,2,0,2
+Lewis,Pinckney,U.S. House,21,DEM,Tedra L. Cobb,4,0,4
+Lewis,Turin,U.S. House,21,DEM,Tedra L. Cobb,3,0,3
+Lewis,Watson,U.S. House,21,DEM,Tedra L. Cobb,18,1,19
+Lewis,West Turin 1,U.S. House,21,DEM,Tedra L. Cobb,4,0,4
+Lewis,West Turin 2,U.S. House,21,DEM,Tedra L. Cobb,1,0,1
+Lewis,West Turin 3,U.S. House,21,DEM,Tedra L. Cobb,2,0,2
+Lewis,West Turin 4,U.S. House,21,DEM,Tedra L. Cobb,1,0,1
+Lewis,Croghan 1,U.S. House,21,DEM,Patrick F. Nelson,1,0,1
+Lewis,Croghan 2,U.S. House,21,DEM,Patrick F. Nelson,2,0,2
+Lewis,Croghan 3,U.S. House,21,DEM,Patrick F. Nelson,3,0,3
+Lewis,Croghan 4,U.S. House,21,DEM,Patrick F. Nelson,1,0,1
+Lewis,Croghan 5,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Croghan 6,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Denmark 1,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Denmark 2,U.S. House,21,DEM,Patrick F. Nelson,4,1,5
+Lewis,Denmark 3,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Diana 1,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Diana 2,U.S. House,21,DEM,Patrick F. Nelson,1,0,1
+Lewis,Greig,U.S. House,21,DEM,Patrick F. Nelson,2,0,2
+Lewis,Harrisburg,U.S. House,21,DEM,Patrick F. Nelson,1,0,1
+Lewis,Lewis,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Leyden 1,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Leyden 2,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Leyden 3,U.S. House,21,DEM,Patrick F. Nelson,0,1,1
+Lewis,Lowville 1,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Lowville 2,U.S. House,21,DEM,Patrick F. Nelson,1,0,1
+Lewis,Lowville 3,U.S. House,21,DEM,Patrick F. Nelson,1,0,1
+Lewis,Lowville 4,U.S. House,21,DEM,Patrick F. Nelson,5,0,5
+Lewis,Lowville 5,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Lyonsdale 1,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Lyonsdale 2,U.S. House,21,DEM,Patrick F. Nelson,1,0,1
+Lewis,Lyonsdale 3,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Martinsburg,U.S. House,21,DEM,Patrick F. Nelson,0,1,1
+Lewis,Montague,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,New Bremen 1,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,New Bremen 2,U.S. House,21,DEM,Patrick F. Nelson,3,0,3
+Lewis,New Bremen 3,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Osceola,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Pinckney,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Turin,U.S. House,21,DEM,Patrick F. Nelson,3,1,4
+Lewis,Watson,U.S. House,21,DEM,Patrick F. Nelson,6,1,7
+Lewis,West Turin 1,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,West Turin 2,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,West Turin 3,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,West Turin 4,U.S. House,21,DEM,Patrick F. Nelson,0,0,0
+Lewis,Croghan 1,U.S. House,21,DEM,Dylan Ratigan,1,0,1
+Lewis,Croghan 2,U.S. House,21,DEM,Dylan Ratigan,1,0,1
+Lewis,Croghan 3,U.S. House,21,DEM,Dylan Ratigan,2,0,2
+Lewis,Croghan 4,U.S. House,21,DEM,Dylan Ratigan,1,0,1
+Lewis,Croghan 5,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,Croghan 6,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,Denmark 1,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,Denmark 2,U.S. House,21,DEM,Dylan Ratigan,1,0,1
+Lewis,Denmark 3,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,Diana 1,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,Diana 2,U.S. House,21,DEM,Dylan Ratigan,2,0,2
+Lewis,Greig,U.S. House,21,DEM,Dylan Ratigan,1,0,1
+Lewis,Harrisburg,U.S. House,21,DEM,Dylan Ratigan,1,0,1
+Lewis,Lewis,U.S. House,21,DEM,Dylan Ratigan,2,0,2
+Lewis,Leyden 1,U.S. House,21,DEM,Dylan Ratigan,2,0,2
+Lewis,Leyden 2,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,Leyden 3,U.S. House,21,DEM,Dylan Ratigan,1,0,1
+Lewis,Lowville 1,U.S. House,21,DEM,Dylan Ratigan,1,0,1
+Lewis,Lowville 2,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,Lowville 3,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,Lowville 4,U.S. House,21,DEM,Dylan Ratigan,4,0,4
+Lewis,Lowville 5,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,Lyonsdale 1,U.S. House,21,DEM,Dylan Ratigan,1,0,1
+Lewis,Lyonsdale 2,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,Lyonsdale 3,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,Martinsburg,U.S. House,21,DEM,Dylan Ratigan,2,0,2
+Lewis,Montague,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,New Bremen 1,U.S. House,21,DEM,Dylan Ratigan,5,1,6
+Lewis,New Bremen 2,U.S. House,21,DEM,Dylan Ratigan,1,0,1
+Lewis,New Bremen 3,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,Osceola,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,Pinckney,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,Turin,U.S. House,21,DEM,Dylan Ratigan,0,2,2
+Lewis,Watson,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,West Turin 1,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,West Turin 2,U.S. House,21,DEM,Dylan Ratigan,0,0,0
+Lewis,West Turin 3,U.S. House,21,DEM,Dylan Ratigan,1,0,1
+Lewis,West Turin 4,U.S. House,21,DEM,Dylan Ratigan,3,0,3
+Lewis,Croghan 1,U.S. House,21,DEM,Katie Wilson,0,0,0
+Lewis,Croghan 2,U.S. House,21,DEM,Katie Wilson,3,0,3
+Lewis,Croghan 3,U.S. House,21,DEM,Katie Wilson,3,0,3
+Lewis,Croghan 4,U.S. House,21,DEM,Katie Wilson,1,1,2
+Lewis,Croghan 5,U.S. House,21,DEM,Katie Wilson,0,0,0
+Lewis,Croghan 6,U.S. House,21,DEM,Katie Wilson,1,0,1
+Lewis,Denmark 1,U.S. House,21,DEM,Katie Wilson,0,0,0
+Lewis,Denmark 2,U.S. House,21,DEM,Katie Wilson,4,1,5
+Lewis,Denmark 3,U.S. House,21,DEM,Katie Wilson,0,0,0
+Lewis,Diana 1,U.S. House,21,DEM,Katie Wilson,1,0,1
+Lewis,Diana 2,U.S. House,21,DEM,Katie Wilson,0,0,0
+Lewis,Greig,U.S. House,21,DEM,Katie Wilson,0,1,1
+Lewis,Harrisburg,U.S. House,21,DEM,Katie Wilson,1,0,1
+Lewis,Lewis,U.S. House,21,DEM,Katie Wilson,2,1,3
+Lewis,Leyden 1,U.S. House,21,DEM,Katie Wilson,4,0,4
+Lewis,Leyden 2,U.S. House,21,DEM,Katie Wilson,1,0,1
+Lewis,Leyden 3,U.S. House,21,DEM,Katie Wilson,1,0,1
+Lewis,Lowville 1,U.S. House,21,DEM,Katie Wilson,3,0,3
+Lewis,Lowville 2,U.S. House,21,DEM,Katie Wilson,1,1,2
+Lewis,Lowville 3,U.S. House,21,DEM,Katie Wilson,0,0,0
+Lewis,Lowville 4,U.S. House,21,DEM,Katie Wilson,5,0,5
+Lewis,Lowville 5,U.S. House,21,DEM,Katie Wilson,2,0,2
+Lewis,Lyonsdale 1,U.S. House,21,DEM,Katie Wilson,3,0,3
+Lewis,Lyonsdale 2,U.S. House,21,DEM,Katie Wilson,0,0,0
+Lewis,Lyonsdale 3,U.S. House,21,DEM,Katie Wilson,0,0,0
+Lewis,Martinsburg,U.S. House,21,DEM,Katie Wilson,2,0,2
+Lewis,Montague,U.S. House,21,DEM,Katie Wilson,0,0,0
+Lewis,New Bremen 1,U.S. House,21,DEM,Katie Wilson,2,0,2
+Lewis,New Bremen 2,U.S. House,21,DEM,Katie Wilson,0,0,0
+Lewis,New Bremen 3,U.S. House,21,DEM,Katie Wilson,0,0,0
+Lewis,Osceola,U.S. House,21,DEM,Katie Wilson,1,0,1
+Lewis,Pinckney,U.S. House,21,DEM,Katie Wilson,0,0,0
+Lewis,Turin,U.S. House,21,DEM,Katie Wilson,2,0,2
+Lewis,Watson,U.S. House,21,DEM,Katie Wilson,2,2,4
+Lewis,West Turin 1,U.S. House,21,DEM,Katie Wilson,2,0,2
+Lewis,West Turin 2,U.S. House,21,DEM,Katie Wilson,0,0,0
+Lewis,West Turin 3,U.S. House,21,DEM,Katie Wilson,0,0,0
+Lewis,West Turin 4,U.S. House,21,DEM,Katie Wilson,2,2,4
+Lewis,Croghan 1,U.S. House,21,DEM,Emily Martz,1,0,1
+Lewis,Croghan 2,U.S. House,21,DEM,Emily Martz,1,0,1
+Lewis,Croghan 3,U.S. House,21,DEM,Emily Martz,1,0,1
+Lewis,Croghan 4,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,Croghan 5,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,Croghan 6,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,Denmark 1,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,Denmark 2,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,Denmark 3,U.S. House,21,DEM,Emily Martz,2,0,2
+Lewis,Diana 1,U.S. House,21,DEM,Emily Martz,2,0,2
+Lewis,Diana 2,U.S. House,21,DEM,Emily Martz,3,0,3
+Lewis,Greig,U.S. House,21,DEM,Emily Martz,1,0,1
+Lewis,Harrisburg,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,Lewis,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,Leyden 1,U.S. House,21,DEM,Emily Martz,2,0,2
+Lewis,Leyden 2,U.S. House,21,DEM,Emily Martz,1,0,1
+Lewis,Leyden 3,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,Lowville 1,U.S. House,21,DEM,Emily Martz,4,0,4
+Lewis,Lowville 2,U.S. House,21,DEM,Emily Martz,6,1,7
+Lewis,Lowville 3,U.S. House,21,DEM,Emily Martz,1,0,1
+Lewis,Lowville 4,U.S. House,21,DEM,Emily Martz,17,2,19
+Lewis,Lowville 5,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,Lyonsdale 1,U.S. House,21,DEM,Emily Martz,4,0,4
+Lewis,Lyonsdale 2,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,Lyonsdale 3,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,Martinsburg,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,Montague,U.S. House,21,DEM,Emily Martz,1,0,1
+Lewis,New Bremen 1,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,New Bremen 2,U.S. House,21,DEM,Emily Martz,6,0,6
+Lewis,New Bremen 3,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,Osceola,U.S. House,21,DEM,Emily Martz,1,0,1
+Lewis,Pinckney,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,Turin,U.S. House,21,DEM,Emily Martz,1,0,1
+Lewis,Watson,U.S. House,21,DEM,Emily Martz,10,0,10
+Lewis,West Turin 1,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,West Turin 2,U.S. House,21,DEM,Emily Martz,0,0,0
+Lewis,West Turin 3,U.S. House,21,DEM,Emily Martz,1,0,1
+Lewis,West Turin 4,U.S. House,21,DEM,Emily Martz,1,0,1
+Lewis,Croghan 1,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Croghan 2,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Croghan 3,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Croghan 4,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Croghan 5,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Croghan 6,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Denmark 1,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Denmark 2,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Denmark 3,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Diana 1,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Diana 2,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Greig,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Harrisburg,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Lewis,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Leyden 1,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Leyden 2,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Leyden 3,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Lowville 1,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Lowville 2,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Lowville 3,U.S. House,21,DEM,Don Boyajian,0,1,1
+Lewis,Lowville 4,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Lowville 5,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Lyonsdale 1,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Lyonsdale 2,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Lyonsdale 3,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Martinsburg,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Montague,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,New Bremen 1,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,New Bremen 2,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,New Bremen 3,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Osceola,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Pinckney,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Turin,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Watson,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,West Turin 1,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,West Turin 2,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,West Turin 3,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,West Turin 4,U.S. House,21,DEM,Don Boyajian,0,0,0
+Lewis,Croghan 1,U.S. House,21,DEM,Blank,,,0
+Lewis,Croghan 2,U.S. House,21,DEM,Blank,,,0
+Lewis,Croghan 3,U.S. House,21,DEM,Blank,,,0
+Lewis,Croghan 4,U.S. House,21,DEM,Blank,,,0
+Lewis,Croghan 5,U.S. House,21,DEM,Blank,,,0
+Lewis,Croghan 6,U.S. House,21,DEM,Blank,,,0
+Lewis,Denmark 1,U.S. House,21,DEM,Blank,,,0
+Lewis,Denmark 2,U.S. House,21,DEM,Blank,,,1
+Lewis,Denmark 3,U.S. House,21,DEM,Blank,,,0
+Lewis,Diana 1,U.S. House,21,DEM,Blank,,,0
+Lewis,Diana 2,U.S. House,21,DEM,Blank,,,0
+Lewis,Greig,U.S. House,21,DEM,Blank,,,0
+Lewis,Harrisburg,U.S. House,21,DEM,Blank,,,0
+Lewis,Lewis,U.S. House,21,DEM,Blank,,,0
+Lewis,Leyden 1,U.S. House,21,DEM,Blank,,,0
+Lewis,Leyden 2,U.S. House,21,DEM,Blank,,,0
+Lewis,Leyden 3,U.S. House,21,DEM,Blank,,,0
+Lewis,Lowville 1,U.S. House,21,DEM,Blank,,,0
+Lewis,Lowville 2,U.S. House,21,DEM,Blank,,,0
+Lewis,Lowville 3,U.S. House,21,DEM,Blank,,,0
+Lewis,Lowville 4,U.S. House,21,DEM,Blank,,,0
+Lewis,Lowville 5,U.S. House,21,DEM,Blank,,,0
+Lewis,Lyonsdale 1,U.S. House,21,DEM,Blank,,,0
+Lewis,Lyonsdale 2,U.S. House,21,DEM,Blank,,,0
+Lewis,Lyonsdale 3,U.S. House,21,DEM,Blank,,,0
+Lewis,Martinsburg,U.S. House,21,DEM,Blank,,,0
+Lewis,Montague,U.S. House,21,DEM,Blank,,,0
+Lewis,New Bremen 1,U.S. House,21,DEM,Blank,,,0
+Lewis,New Bremen 2,U.S. House,21,DEM,Blank,,,0
+Lewis,New Bremen 3,U.S. House,21,DEM,Blank,,,0
+Lewis,Osceola,U.S. House,21,DEM,Blank,,,0
+Lewis,Pinckney,U.S. House,21,DEM,Blank,,,0
+Lewis,Turin,U.S. House,21,DEM,Blank,,,0
+Lewis,Watson,U.S. House,21,DEM,Blank,,,0
+Lewis,West Turin 1,U.S. House,21,DEM,Blank,,,0
+Lewis,West Turin 2,U.S. House,21,DEM,Blank,,,0
+Lewis,West Turin 3,U.S. House,21,DEM,Blank,,,1
+Lewis,West Turin 4,U.S. House,21,DEM,Blank,,,0
+Lewis,Croghan 1,U.S. House,21,DEM,Void,,,0
+Lewis,Croghan 2,U.S. House,21,DEM,Void,,,0
+Lewis,Croghan 3,U.S. House,21,DEM,Void,,,0
+Lewis,Croghan 4,U.S. House,21,DEM,Void,,,0
+Lewis,Croghan 5,U.S. House,21,DEM,Void,,,0
+Lewis,Croghan 6,U.S. House,21,DEM,Void,,,0
+Lewis,Denmark 1,U.S. House,21,DEM,Void,,,0
+Lewis,Denmark 2,U.S. House,21,DEM,Void,,,0
+Lewis,Denmark 3,U.S. House,21,DEM,Void,,,0
+Lewis,Diana 1,U.S. House,21,DEM,Void,,,0
+Lewis,Diana 2,U.S. House,21,DEM,Void,,,0
+Lewis,Greig,U.S. House,21,DEM,Void,,,0
+Lewis,Harrisburg,U.S. House,21,DEM,Void,,,0
+Lewis,Lewis,U.S. House,21,DEM,Void,,,0
+Lewis,Leyden 1,U.S. House,21,DEM,Void,,,0
+Lewis,Leyden 2,U.S. House,21,DEM,Void,,,0
+Lewis,Leyden 3,U.S. House,21,DEM,Void,,,0
+Lewis,Lowville 1,U.S. House,21,DEM,Void,,,0
+Lewis,Lowville 2,U.S. House,21,DEM,Void,,,0
+Lewis,Lowville 3,U.S. House,21,DEM,Void,,,0
+Lewis,Lowville 4,U.S. House,21,DEM,Void,,,0
+Lewis,Lowville 5,U.S. House,21,DEM,Void,,,0
+Lewis,Lyonsdale 1,U.S. House,21,DEM,Void,,,0
+Lewis,Lyonsdale 2,U.S. House,21,DEM,Void,,,0
+Lewis,Lyonsdale 3,U.S. House,21,DEM,Void,,,0
+Lewis,Martinsburg,U.S. House,21,DEM,Void,,,0
+Lewis,Montague,U.S. House,21,DEM,Void,,,0
+Lewis,New Bremen 1,U.S. House,21,DEM,Void,,,0
+Lewis,New Bremen 2,U.S. House,21,DEM,Void,,,0
+Lewis,New Bremen 3,U.S. House,21,DEM,Void,,,0
+Lewis,Osceola,U.S. House,21,DEM,Void,,,0
+Lewis,Pinckney,U.S. House,21,DEM,Void,,,0
+Lewis,Turin,U.S. House,21,DEM,Void,,,0
+Lewis,Watson,U.S. House,21,DEM,Void,,,0
+Lewis,West Turin 1,U.S. House,21,DEM,Void,,,0
+Lewis,West Turin 2,U.S. House,21,DEM,Void,,,0
+Lewis,West Turin 3,U.S. House,21,DEM,Void,,,0
+Lewis,West Turin 4,U.S. House,21,DEM,Void,,,0
+Lewis,Croghan 1,U.S. House,21,DEM,Scattered,,,0
+Lewis,Croghan 2,U.S. House,21,DEM,Scattered,,,0
+Lewis,Croghan 3,U.S. House,21,DEM,Scattered,,,0
+Lewis,Croghan 4,U.S. House,21,DEM,Scattered,,,0
+Lewis,Croghan 5,U.S. House,21,DEM,Scattered,,,0
+Lewis,Croghan 6,U.S. House,21,DEM,Scattered,,,0
+Lewis,Denmark 1,U.S. House,21,DEM,Scattered,,,0
+Lewis,Denmark 2,U.S. House,21,DEM,Scattered,,,0
+Lewis,Denmark 3,U.S. House,21,DEM,Scattered,,,0
+Lewis,Diana 1,U.S. House,21,DEM,Scattered,,,0
+Lewis,Diana 2,U.S. House,21,DEM,Scattered,,,0
+Lewis,Greig,U.S. House,21,DEM,Scattered,,,0
+Lewis,Harrisburg,U.S. House,21,DEM,Scattered,,,0
+Lewis,Lewis,U.S. House,21,DEM,Scattered,,,0
+Lewis,Leyden 1,U.S. House,21,DEM,Scattered,,,0
+Lewis,Leyden 2,U.S. House,21,DEM,Scattered,,,0
+Lewis,Leyden 3,U.S. House,21,DEM,Scattered,,,0
+Lewis,Lowville 1,U.S. House,21,DEM,Scattered,,,0
+Lewis,Lowville 2,U.S. House,21,DEM,Scattered,,,0
+Lewis,Lowville 3,U.S. House,21,DEM,Scattered,,,0
+Lewis,Lowville 4,U.S. House,21,DEM,Scattered,,,0
+Lewis,Lowville 5,U.S. House,21,DEM,Scattered,,,0
+Lewis,Lyonsdale 1,U.S. House,21,DEM,Scattered,,,0
+Lewis,Lyonsdale 2,U.S. House,21,DEM,Scattered,,,0
+Lewis,Lyonsdale 3,U.S. House,21,DEM,Scattered,,,0
+Lewis,Martinsburg,U.S. House,21,DEM,Scattered,,,0
+Lewis,Montague,U.S. House,21,DEM,Scattered,,,0
+Lewis,New Bremen 1,U.S. House,21,DEM,Scattered,,,0
+Lewis,New Bremen 2,U.S. House,21,DEM,Scattered,,,0
+Lewis,New Bremen 3,U.S. House,21,DEM,Scattered,,,0
+Lewis,Osceola,U.S. House,21,DEM,Scattered,,,0
+Lewis,Pinckney,U.S. House,21,DEM,Scattered,,,0
+Lewis,Turin,U.S. House,21,DEM,Scattered,,,0
+Lewis,Watson,U.S. House,21,DEM,Scattered,,,0
+Lewis,West Turin 1,U.S. House,21,DEM,Scattered,,,0
+Lewis,West Turin 2,U.S. House,21,DEM,Scattered,,,0
+Lewis,West Turin 3,U.S. House,21,DEM,Scattered,,,0
+Lewis,West Turin 4,U.S. House,21,DEM,Scattered,,,0
