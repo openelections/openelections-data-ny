@@ -1,0 +1,533 @@
+county,precinct,office,district,party,candidate,election_day,absentee,votes
+Lewis,Croghan 1,Governor,,DEM,Cynthia E. Nixon,4,2,6
+Lewis,Croghan 2,Governor,,DEM,Cynthia E. Nixon,5,0,5
+Lewis,Croghan 3,Governor,,DEM,Cynthia E. Nixon,10,0,10
+Lewis,Croghan 4,Governor,,DEM,Cynthia E. Nixon,4,3,7
+Lewis,Croghan 5,Governor,,DEM,Cynthia E. Nixon,1,0,1
+Lewis,Croghan 6,Governor,,DEM,Cynthia E. Nixon,2,0,2
+Lewis,Denmark 1,Governor,,DEM,Cynthia E. Nixon,0,0,0
+Lewis,Denmark 2,Governor,,DEM,Cynthia E. Nixon,10,2,12
+Lewis,Denmark 3,Governor,,DEM,Cynthia E. Nixon,4,0,4
+Lewis,Diana 1,Governor,,DEM,Cynthia E. Nixon,10,1,11
+Lewis,Diana 2,Governor,,DEM,Cynthia E. Nixon,3,0,3
+Lewis,Greig,Governor,,DEM,Cynthia E. Nixon,7,1,8
+Lewis,Harrisburg,Governor,,DEM,Cynthia E. Nixon,4,0,4
+Lewis,Lewis,Governor,,DEM,Cynthia E. Nixon,17,1,18
+Lewis,Leyden 1,Governor,,DEM,Cynthia E. Nixon,15,1,16
+Lewis,Leyden 2,Governor,,DEM,Cynthia E. Nixon,5,0,5
+Lewis,Leyden 3,Governor,,DEM,Cynthia E. Nixon,6,1,7
+Lewis,Lowville 1,Governor,,DEM,Cynthia E. Nixon,10,2,12
+Lewis,Lowville 2,Governor,,DEM,Cynthia E. Nixon,8,2,10
+Lewis,Lowville 3,Governor,,DEM,Cynthia E. Nixon,7,1,8
+Lewis,Lowville 4,Governor,,DEM,Cynthia E. Nixon,30,4,34
+Lewis,Lowville 5,Governor,,DEM,Cynthia E. Nixon,4,1,5
+Lewis,Lyonsdale 1,Governor,,DEM,Cynthia E. Nixon,8,0,8
+Lewis,Lyonsdale 2,Governor,,DEM,Cynthia E. Nixon,2,0,2
+Lewis,Lyonsdale 3,Governor,,DEM,Cynthia E. Nixon,1,0,1
+Lewis,Martinsburg,Governor,,DEM,Cynthia E. Nixon,7,0,7
+Lewis,Montague,Governor,,DEM,Cynthia E. Nixon,2,0,2
+Lewis,New Bremen 1,Governor,,DEM,Cynthia E. Nixon,8,1,9
+Lewis,New Bremen 2,Governor,,DEM,Cynthia E. Nixon,11,0,11
+Lewis,New Bremen 3,Governor,,DEM,Cynthia E. Nixon,1,0,1
+Lewis,Osceola,Governor,,DEM,Cynthia E. Nixon,4,0,4
+Lewis,Pinckney,Governor,,DEM,Cynthia E. Nixon,6,0,6
+Lewis,Turin,Governor,,DEM,Cynthia E. Nixon,3,0,3
+Lewis,Watson,Governor,,DEM,Cynthia E. Nixon,24,3,27
+Lewis,West Turin 1,Governor,,DEM,Cynthia E. Nixon,12,1,13
+Lewis,West Turin 2,Governor,,DEM,Cynthia E. Nixon,0,0,0
+Lewis,West Turin 3,Governor,,DEM,Cynthia E. Nixon,4,0,4
+Lewis,West Turin 4,Governor,,DEM,Cynthia E. Nixon,4,1,5
+Lewis,Croghan 1,Governor,,DEM,Andrew M. Cuomo,5,1,6
+Lewis,Croghan 2,Governor,,DEM,Andrew M. Cuomo,5,1,6
+Lewis,Croghan 3,Governor,,DEM,Andrew M. Cuomo,10,2,12
+Lewis,Croghan 4,Governor,,DEM,Andrew M. Cuomo,8,0,8
+Lewis,Croghan 5,Governor,,DEM,Andrew M. Cuomo,0,0,0
+Lewis,Croghan 6,Governor,,DEM,Andrew M. Cuomo,1,1,2
+Lewis,Denmark 1,Governor,,DEM,Andrew M. Cuomo,3,0,3
+Lewis,Denmark 2,Governor,,DEM,Andrew M. Cuomo,9,2,11
+Lewis,Denmark 3,Governor,,DEM,Andrew M. Cuomo,3,0,3
+Lewis,Diana 1,Governor,,DEM,Andrew M. Cuomo,10,0,10
+Lewis,Diana 2,Governor,,DEM,Andrew M. Cuomo,3,0,3
+Lewis,Greig,Governor,,DEM,Andrew M. Cuomo,12,0,12
+Lewis,Harrisburg,Governor,,DEM,Andrew M. Cuomo,8,0,8
+Lewis,Lewis,Governor,,DEM,Andrew M. Cuomo,4,0,4
+Lewis,Leyden 1,Governor,,DEM,Andrew M. Cuomo,3,0,3
+Lewis,Leyden 2,Governor,,DEM,Andrew M. Cuomo,3,0,3
+Lewis,Leyden 3,Governor,,DEM,Andrew M. Cuomo,2,0,2
+Lewis,Lowville 1,Governor,,DEM,Andrew M. Cuomo,9,1,10
+Lewis,Lowville 2,Governor,,DEM,Andrew M. Cuomo,9,2,11
+Lewis,Lowville 3,Governor,,DEM,Andrew M. Cuomo,2,4,6
+Lewis,Lowville 4,Governor,,DEM,Andrew M. Cuomo,29,2,31
+Lewis,Lowville 5,Governor,,DEM,Andrew M. Cuomo,0,0,0
+Lewis,Lyonsdale 1,Governor,,DEM,Andrew M. Cuomo,5,1,6
+Lewis,Lyonsdale 2,Governor,,DEM,Andrew M. Cuomo,1,0,1
+Lewis,Lyonsdale 3,Governor,,DEM,Andrew M. Cuomo,0,0,0
+Lewis,Martinsburg,Governor,,DEM,Andrew M. Cuomo,9,5,14
+Lewis,Montague,Governor,,DEM,Andrew M. Cuomo,3,0,3
+Lewis,New Bremen 1,Governor,,DEM,Andrew M. Cuomo,8,3,11
+Lewis,New Bremen 2,Governor,,DEM,Andrew M. Cuomo,8,0,8
+Lewis,New Bremen 3,Governor,,DEM,Andrew M. Cuomo,2,0,2
+Lewis,Osceola,Governor,,DEM,Andrew M. Cuomo,2,0,2
+Lewis,Pinckney,Governor,,DEM,Andrew M. Cuomo,4,0,4
+Lewis,Turin,Governor,,DEM,Andrew M. Cuomo,8,1,9
+Lewis,Watson,Governor,,DEM,Andrew M. Cuomo,14,0,14
+Lewis,West Turin 1,Governor,,DEM,Andrew M. Cuomo,6,0,6
+Lewis,West Turin 2,Governor,,DEM,Andrew M. Cuomo,0,0,0
+Lewis,West Turin 3,Governor,,DEM,Andrew M. Cuomo,3,0,3
+Lewis,West Turin 4,Governor,,DEM,Andrew M. Cuomo,7,1,8
+Lewis,Croghan 1,Governor,,DEM,Write-ins,,,0
+Lewis,Croghan 2,Governor,,DEM,Write-ins,,,0
+Lewis,Croghan 3,Governor,,DEM,Write-ins,,,0
+Lewis,Croghan 4,Governor,,DEM,Write-ins,,,0
+Lewis,Croghan 5,Governor,,DEM,Write-ins,,,1
+Lewis,Croghan 6,Governor,,DEM,Write-ins,,,1
+Lewis,Denmark 1,Governor,,DEM,Write-ins,,,0
+Lewis,Denmark 2,Governor,,DEM,Write-ins,,,0
+Lewis,Denmark 3,Governor,,DEM,Write-ins,,,0
+Lewis,Diana 1,Governor,,DEM,Write-ins,,,0
+Lewis,Diana 2,Governor,,DEM,Write-ins,,,0
+Lewis,Greig,Governor,,DEM,Write-ins,,,0
+Lewis,Harrisburg,Governor,,DEM,Write-ins,,,0
+Lewis,Lewis,Governor,,DEM,Write-ins,,,0
+Lewis,Leyden 1,Governor,,DEM,Write-ins,,,0
+Lewis,Leyden 2,Governor,,DEM,Write-ins,,,0
+Lewis,Leyden 3,Governor,,DEM,Write-ins,,,0
+Lewis,Lowville 1,Governor,,DEM,Write-ins,,,1
+Lewis,Lowville 2,Governor,,DEM,Write-ins,,,0
+Lewis,Lowville 3,Governor,,DEM,Write-ins,,,0
+Lewis,Lowville 4,Governor,,DEM,Write-ins,,,0
+Lewis,Lowville 5,Governor,,DEM,Write-ins,,,0
+Lewis,Lyonsdale 1,Governor,,DEM,Write-ins,,,0
+Lewis,Lyonsdale 2,Governor,,DEM,Write-ins,,,0
+Lewis,Lyonsdale 3,Governor,,DEM,Write-ins,,,0
+Lewis,Martinsburg,Governor,,DEM,Write-ins,,,0
+Lewis,Montague,Governor,,DEM,Write-ins,,,0
+Lewis,New Bremen 1,Governor,,DEM,Write-ins,,,0
+Lewis,New Bremen 2,Governor,,DEM,Write-ins,,,0
+Lewis,New Bremen 3,Governor,,DEM,Write-ins,,,0
+Lewis,Osceola,Governor,,DEM,Write-ins,,,0
+Lewis,Pinckney,Governor,,DEM,Write-ins,,,0
+Lewis,Turin,Governor,,DEM,Write-ins,,,0
+Lewis,Watson,Governor,,DEM,Write-ins,,,1
+Lewis,West Turin 1,Governor,,DEM,Write-ins,,,0
+Lewis,West Turin 2,Governor,,DEM,Write-ins,,,0
+Lewis,West Turin 3,Governor,,DEM,Write-ins,,,0
+Lewis,West Turin 4,Governor,,DEM,Write-ins,,,0
+Lewis,Croghan 1,Governor,,DEM,Blank/Void,,,0
+Lewis,Croghan 2,Governor,,DEM,Blank/Void,,,0
+Lewis,Croghan 3,Governor,,DEM,Blank/Void,,,0
+Lewis,Croghan 4,Governor,,DEM,Blank/Void,,,0
+Lewis,Croghan 5,Governor,,DEM,Blank/Void,,,0
+Lewis,Croghan 6,Governor,,DEM,Blank/Void,,,0
+Lewis,Denmark 1,Governor,,DEM,Blank/Void,,,0
+Lewis,Denmark 2,Governor,,DEM,Blank/Void,,,1
+Lewis,Denmark 3,Governor,,DEM,Blank/Void,,,1
+Lewis,Diana 1,Governor,,DEM,Blank/Void,,,0
+Lewis,Diana 2,Governor,,DEM,Blank/Void,,,0
+Lewis,Greig,Governor,,DEM,Blank/Void,,,0
+Lewis,Harrisburg,Governor,,DEM,Blank/Void,,,0
+Lewis,Lewis,Governor,,DEM,Blank/Void,,,0
+Lewis,Leyden 1,Governor,,DEM,Blank/Void,,,0
+Lewis,Leyden 2,Governor,,DEM,Blank/Void,,,0
+Lewis,Leyden 3,Governor,,DEM,Blank/Void,,,0
+Lewis,Lowville 1,Governor,,DEM,Blank/Void,,,0
+Lewis,Lowville 2,Governor,,DEM,Blank/Void,,,1
+Lewis,Lowville 3,Governor,,DEM,Blank/Void,,,0
+Lewis,Lowville 4,Governor,,DEM,Blank/Void,,,2
+Lewis,Lowville 5,Governor,,DEM,Blank/Void,,,0
+Lewis,Lyonsdale 1,Governor,,DEM,Blank/Void,,,0
+Lewis,Lyonsdale 2,Governor,,DEM,Blank/Void,,,0
+Lewis,Lyonsdale 3,Governor,,DEM,Blank/Void,,,0
+Lewis,Martinsburg,Governor,,DEM,Blank/Void,,,0
+Lewis,Montague,Governor,,DEM,Blank/Void,,,0
+Lewis,New Bremen 1,Governor,,DEM,Blank/Void,,,0
+Lewis,New Bremen 2,Governor,,DEM,Blank/Void,,,0
+Lewis,New Bremen 3,Governor,,DEM,Blank/Void,,,0
+Lewis,Osceola,Governor,,DEM,Blank/Void,,,0
+Lewis,Pinckney,Governor,,DEM,Blank/Void,,,0
+Lewis,Turin,Governor,,DEM,Blank/Void,,,1
+Lewis,Watson,Governor,,DEM,Blank/Void,,,0
+Lewis,West Turin 1,Governor,,DEM,Blank/Void,,,0
+Lewis,West Turin 2,Governor,,DEM,Blank/Void,,,0
+Lewis,West Turin 3,Governor,,DEM,Blank/Void,,,0
+Lewis,West Turin 4,Governor,,DEM,Blank/Void,,,0
+Lewis,Croghan 1,Lieutenant Governor,,DEM,Kathy C. Hochul,5,1,6
+Lewis,Croghan 2,Lieutenant Governor,,DEM,Kathy C. Hochul,6,1,7
+Lewis,Croghan 3,Lieutenant Governor,,DEM,Kathy C. Hochul,11,2,13
+Lewis,Croghan 4,Lieutenant Governor,,DEM,Kathy C. Hochul,10,0,10
+Lewis,Croghan 5,Lieutenant Governor,,DEM,Kathy C. Hochul,1,0,1
+Lewis,Croghan 6,Lieutenant Governor,,DEM,Kathy C. Hochul,3,0,3
+Lewis,Denmark 1,Lieutenant Governor,,DEM,Kathy C. Hochul,2,0,2
+Lewis,Denmark 2,Lieutenant Governor,,DEM,Kathy C. Hochul,11,4,15
+Lewis,Denmark 3,Lieutenant Governor,,DEM,Kathy C. Hochul,6,0,6
+Lewis,Diana 1,Lieutenant Governor,,DEM,Kathy C. Hochul,7,1,8
+Lewis,Diana 2,Lieutenant Governor,,DEM,Kathy C. Hochul,4,0,4
+Lewis,Greig,Lieutenant Governor,,DEM,Kathy C. Hochul,7,1,8
+Lewis,Harrisburg,Lieutenant Governor,,DEM,Kathy C. Hochul,4,0,4
+Lewis,Lewis,Lieutenant Governor,,DEM,Kathy C. Hochul,13,1,14
+Lewis,Leyden 1,Lieutenant Governor,,DEM,Kathy C. Hochul,9,1,10
+Lewis,Leyden 2,Lieutenant Governor,,DEM,Kathy C. Hochul,4,0,4
+Lewis,Leyden 3,Lieutenant Governor,,DEM,Kathy C. Hochul,3,0,3
+Lewis,Lowville 1,Lieutenant Governor,,DEM,Kathy C. Hochul,10,1,11
+Lewis,Lowville 2,Lieutenant Governor,,DEM,Kathy C. Hochul,5,2,7
+Lewis,Lowville 3,Lieutenant Governor,,DEM,Kathy C. Hochul,7,3,10
+Lewis,Lowville 4,Lieutenant Governor,,DEM,Kathy C. Hochul,25,4,29
+Lewis,Lowville 5,Lieutenant Governor,,DEM,Kathy C. Hochul,2,1,3
+Lewis,Lyonsdale 1,Lieutenant Governor,,DEM,Kathy C. Hochul,8,1,9
+Lewis,Lyonsdale 2,Lieutenant Governor,,DEM,Kathy C. Hochul,3,0,3
+Lewis,Lyonsdale 3,Lieutenant Governor,,DEM,Kathy C. Hochul,0,0,0
+Lewis,Martinsburg,Lieutenant Governor,,DEM,Kathy C. Hochul,8,3,11
+Lewis,Montague,Lieutenant Governor,,DEM,Kathy C. Hochul,4,0,4
+Lewis,New Bremen 1,Lieutenant Governor,,DEM,Kathy C. Hochul,11,3,14
+Lewis,New Bremen 2,Lieutenant Governor,,DEM,Kathy C. Hochul,10,0,10
+Lewis,New Bremen 3,Lieutenant Governor,,DEM,Kathy C. Hochul,2,0,2
+Lewis,Osceola,Lieutenant Governor,,DEM,Kathy C. Hochul,5,0,5
+Lewis,Pinckney,Lieutenant Governor,,DEM,Kathy C. Hochul,6,0,6
+Lewis,Turin,Lieutenant Governor,,DEM,Kathy C. Hochul,9,1,10
+Lewis,Watson,Lieutenant Governor,,DEM,Kathy C. Hochul,19,1,20
+Lewis,West Turin 1,Lieutenant Governor,,DEM,Kathy C. Hochul,8,0,8
+Lewis,West Turin 2,Lieutenant Governor,,DEM,Kathy C. Hochul,0,0,0
+Lewis,West Turin 3,Lieutenant Governor,,DEM,Kathy C. Hochul,5,0,5
+Lewis,West Turin 4,Lieutenant Governor,,DEM,Kathy C. Hochul,8,2,10
+Lewis,Croghan 1,Lieutenant Governor,,DEM,Jumaane Williams,4,2,6
+Lewis,Croghan 2,Lieutenant Governor,,DEM,Jumaane Williams,4,0,4
+Lewis,Croghan 3,Lieutenant Governor,,DEM,Jumaane Williams,6,0,6
+Lewis,Croghan 4,Lieutenant Governor,,DEM,Jumaane Williams,2,3,5
+Lewis,Croghan 5,Lieutenant Governor,,DEM,Jumaane Williams,0,0,0
+Lewis,Croghan 6,Lieutenant Governor,,DEM,Jumaane Williams,1,0,1
+Lewis,Denmark 1,Lieutenant Governor,,DEM,Jumaane Williams,1,0,1
+Lewis,Denmark 2,Lieutenant Governor,,DEM,Jumaane Williams,7,0,7
+Lewis,Denmark 3,Lieutenant Governor,,DEM,Jumaane Williams,2,0,2
+Lewis,Diana 1,Lieutenant Governor,,DEM,Jumaane Williams,11,0,11
+Lewis,Diana 2,Lieutenant Governor,,DEM,Jumaane Williams,2,0,2
+Lewis,Greig,Lieutenant Governor,,DEM,Jumaane Williams,8,0,8
+Lewis,Harrisburg,Lieutenant Governor,,DEM,Jumaane Williams,6,0,6
+Lewis,Lewis,Lieutenant Governor,,DEM,Jumaane Williams,7,0,7
+Lewis,Leyden 1,Lieutenant Governor,,DEM,Jumaane Williams,7,0,7
+Lewis,Leyden 2,Lieutenant Governor,,DEM,Jumaane Williams,3,0,3
+Lewis,Leyden 3,Lieutenant Governor,,DEM,Jumaane Williams,3,1,4
+Lewis,Lowville 1,Lieutenant Governor,,DEM,Jumaane Williams,9,2,11
+Lewis,Lowville 2,Lieutenant Governor,,DEM,Jumaane Williams,10,1,11
+Lewis,Lowville 3,Lieutenant Governor,,DEM,Jumaane Williams,2,1,3
+Lewis,Lowville 4,Lieutenant Governor,,DEM,Jumaane Williams,33,3,36
+Lewis,Lowville 5,Lieutenant Governor,,DEM,Jumaane Williams,2,0,2
+Lewis,Lyonsdale 1,Lieutenant Governor,,DEM,Jumaane Williams,5,0,5
+Lewis,Lyonsdale 2,Lieutenant Governor,,DEM,Jumaane Williams,0,0,0
+Lewis,Lyonsdale 3,Lieutenant Governor,,DEM,Jumaane Williams,1,0,1
+Lewis,Martinsburg,Lieutenant Governor,,DEM,Jumaane Williams,5,1,6
+Lewis,Montague,Lieutenant Governor,,DEM,Jumaane Williams,1,0,1
+Lewis,New Bremen 1,Lieutenant Governor,,DEM,Jumaane Williams,3,0,3
+Lewis,New Bremen 2,Lieutenant Governor,,DEM,Jumaane Williams,8,0,8
+Lewis,New Bremen 3,Lieutenant Governor,,DEM,Jumaane Williams,1,0,1
+Lewis,Osceola,Lieutenant Governor,,DEM,Jumaane Williams,1,0,1
+Lewis,Pinckney,Lieutenant Governor,,DEM,Jumaane Williams,4,0,4
+Lewis,Turin,Lieutenant Governor,,DEM,Jumaane Williams,2,0,2
+Lewis,Watson,Lieutenant Governor,,DEM,Jumaane Williams,17,2,19
+Lewis,West Turin 1,Lieutenant Governor,,DEM,Jumaane Williams,9,1,10
+Lewis,West Turin 2,Lieutenant Governor,,DEM,Jumaane Williams,0,0,0
+Lewis,West Turin 3,Lieutenant Governor,,DEM,Jumaane Williams,0,0,0
+Lewis,West Turin 4,Lieutenant Governor,,DEM,Jumaane Williams,3,0,3
+Lewis,Croghan 1,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Croghan 2,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Croghan 3,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Croghan 4,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Croghan 5,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Croghan 6,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Denmark 1,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Denmark 2,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Denmark 3,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Diana 1,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Diana 2,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Greig,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Harrisburg,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Lewis,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Leyden 1,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Leyden 2,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Leyden 3,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Lowville 1,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Lowville 2,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Lowville 3,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Lowville 4,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Lowville 5,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Lyonsdale 1,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Lyonsdale 2,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Lyonsdale 3,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Martinsburg,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Montague,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,New Bremen 1,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,New Bremen 2,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,New Bremen 3,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Osceola,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Pinckney,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Turin,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Watson,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,West Turin 1,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,West Turin 2,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,West Turin 3,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,West Turin 4,Lieutenant Governor,,DEM,Write-ins,,,0
+Lewis,Croghan 1,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,Croghan 2,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,Croghan 3,Lieutenant Governor,,DEM,Blank/Void,,,3
+Lewis,Croghan 4,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,Croghan 5,Lieutenant Governor,,DEM,Blank/Void,,,1
+Lewis,Croghan 6,Lieutenant Governor,,DEM,Blank/Void,,,1
+Lewis,Denmark 1,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,Denmark 2,Lieutenant Governor,,DEM,Blank/Void,,,2
+Lewis,Denmark 3,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,Diana 1,Lieutenant Governor,,DEM,Blank/Void,,,2
+Lewis,Diana 2,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,Greig,Lieutenant Governor,,DEM,Blank/Void,,,4
+Lewis,Harrisburg,Lieutenant Governor,,DEM,Blank/Void,,,2
+Lewis,Lewis,Lieutenant Governor,,DEM,Blank/Void,,,1
+Lewis,Leyden 1,Lieutenant Governor,,DEM,Blank/Void,,,2
+Lewis,Leyden 2,Lieutenant Governor,,DEM,Blank/Void,,,1
+Lewis,Leyden 3,Lieutenant Governor,,DEM,Blank/Void,,,2
+Lewis,Lowville 1,Lieutenant Governor,,DEM,Blank/Void,,,1
+Lewis,Lowville 2,Lieutenant Governor,,DEM,Blank/Void,,,4
+Lewis,Lowville 3,Lieutenant Governor,,DEM,Blank/Void,,,1
+Lewis,Lowville 4,Lieutenant Governor,,DEM,Blank/Void,,,2
+Lewis,Lowville 5,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,Lyonsdale 1,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,Lyonsdale 2,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,Lyonsdale 3,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,Martinsburg,Lieutenant Governor,,DEM,Blank/Void,,,4
+Lewis,Montague,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,New Bremen 1,Lieutenant Governor,,DEM,Blank/Void,,,3
+Lewis,New Bremen 2,Lieutenant Governor,,DEM,Blank/Void,,,1
+Lewis,New Bremen 3,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,Osceola,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,Pinckney,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,Turin,Lieutenant Governor,,DEM,Blank/Void,,,1
+Lewis,Watson,Lieutenant Governor,,DEM,Blank/Void,,,3
+Lewis,West Turin 1,Lieutenant Governor,,DEM,Blank/Void,,,1
+Lewis,West Turin 2,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,West Turin 3,Lieutenant Governor,,DEM,Blank/Void,,,2
+Lewis,West Turin 4,Lieutenant Governor,,DEM,Blank/Void,,,0
+Lewis,Croghan 1,Attorney General,,DEM,Sean Patrick Maloney,3,2,5
+Lewis,Croghan 2,Attorney General,,DEM,Sean Patrick Maloney,5,1,6
+Lewis,Croghan 3,Attorney General,,DEM,Sean Patrick Maloney,10,1,11
+Lewis,Croghan 4,Attorney General,,DEM,Sean Patrick Maloney,4,0,4
+Lewis,Croghan 5,Attorney General,,DEM,Sean Patrick Maloney,0,0,0
+Lewis,Croghan 6,Attorney General,,DEM,Sean Patrick Maloney,1,0,1
+Lewis,Denmark 1,Attorney General,,DEM,Sean Patrick Maloney,2,0,2
+Lewis,Denmark 2,Attorney General,,DEM,Sean Patrick Maloney,6,1,7
+Lewis,Denmark 3,Attorney General,,DEM,Sean Patrick Maloney,4,0,4
+Lewis,Diana 1,Attorney General,,DEM,Sean Patrick Maloney,8,1,9
+Lewis,Diana 2,Attorney General,,DEM,Sean Patrick Maloney,3,0,3
+Lewis,Greig,Attorney General,,DEM,Sean Patrick Maloney,9,0,9
+Lewis,Harrisburg,Attorney General,,DEM,Sean Patrick Maloney,3,0,3
+Lewis,Lewis,Attorney General,,DEM,Sean Patrick Maloney,11,1,12
+Lewis,Leyden 1,Attorney General,,DEM,Sean Patrick Maloney,4,0,4
+Lewis,Leyden 2,Attorney General,,DEM,Sean Patrick Maloney,5,0,5
+Lewis,Leyden 3,Attorney General,,DEM,Sean Patrick Maloney,5,0,5
+Lewis,Lowville 1,Attorney General,,DEM,Sean Patrick Maloney,11,1,12
+Lewis,Lowville 2,Attorney General,,DEM,Sean Patrick Maloney,10,2,12
+Lewis,Lowville 3,Attorney General,,DEM,Sean Patrick Maloney,2,0,2
+Lewis,Lowville 4,Attorney General,,DEM,Sean Patrick Maloney,21,1,22
+Lewis,Lowville 5,Attorney General,,DEM,Sean Patrick Maloney,3,0,3
+Lewis,Lyonsdale 1,Attorney General,,DEM,Sean Patrick Maloney,4,1,5
+Lewis,Lyonsdale 2,Attorney General,,DEM,Sean Patrick Maloney,1,0,1
+Lewis,Lyonsdale 3,Attorney General,,DEM,Sean Patrick Maloney,0,0,0
+Lewis,Martinsburg,Attorney General,,DEM,Sean Patrick Maloney,9,5,14
+Lewis,Montague,Attorney General,,DEM,Sean Patrick Maloney,1,0,1
+Lewis,New Bremen 1,Attorney General,,DEM,Sean Patrick Maloney,5,2,7
+Lewis,New Bremen 2,Attorney General,,DEM,Sean Patrick Maloney,8,0,8
+Lewis,New Bremen 3,Attorney General,,DEM,Sean Patrick Maloney,2,0,2
+Lewis,Osceola,Attorney General,,DEM,Sean Patrick Maloney,3,0,3
+Lewis,Pinckney,Attorney General,,DEM,Sean Patrick Maloney,2,0,2
+Lewis,Turin,Attorney General,,DEM,Sean Patrick Maloney,9,0,9
+Lewis,Watson,Attorney General,,DEM,Sean Patrick Maloney,19,1,20
+Lewis,West Turin 1,Attorney General,,DEM,Sean Patrick Maloney,8,0,8
+Lewis,West Turin 2,Attorney General,,DEM,Sean Patrick Maloney,0,0,0
+Lewis,West Turin 3,Attorney General,,DEM,Sean Patrick Maloney,5,0,5
+Lewis,West Turin 4,Attorney General,,DEM,Sean Patrick Maloney,8,1,9
+Lewis,Croghan 1,Attorney General,,DEM,Letitia A. James,1,0,1
+Lewis,Croghan 2,Attorney General,,DEM,Letitia A. James,0,0,0
+Lewis,Croghan 3,Attorney General,,DEM,Letitia A. James,5,1,6
+Lewis,Croghan 4,Attorney General,,DEM,Letitia A. James,6,1,7
+Lewis,Croghan 5,Attorney General,,DEM,Letitia A. James,0,0,0
+Lewis,Croghan 6,Attorney General,,DEM,Letitia A. James,1,0,1
+Lewis,Denmark 1,Attorney General,,DEM,Letitia A. James,0,0,0
+Lewis,Denmark 2,Attorney General,,DEM,Letitia A. James,3,2,5
+Lewis,Denmark 3,Attorney General,,DEM,Letitia A. James,1,0,1
+Lewis,Diana 1,Attorney General,,DEM,Letitia A. James,2,0,2
+Lewis,Diana 2,Attorney General,,DEM,Letitia A. James,0,0,0
+Lewis,Greig,Attorney General,,DEM,Letitia A. James,0,0,0
+Lewis,Harrisburg,Attorney General,,DEM,Letitia A. James,1,0,1
+Lewis,Lewis,Attorney General,,DEM,Letitia A. James,1,0,1
+Lewis,Leyden 1,Attorney General,,DEM,Letitia A. James,3,0,3
+Lewis,Leyden 2,Attorney General,,DEM,Letitia A. James,0,0,0
+Lewis,Leyden 3,Attorney General,,DEM,Letitia A. James,0,0,0
+Lewis,Lowville 1,Attorney General,,DEM,Letitia A. James,4,0,4
+Lewis,Lowville 2,Attorney General,,DEM,Letitia A. James,1,0,1
+Lewis,Lowville 3,Attorney General,,DEM,Letitia A. James,2,2,4
+Lewis,Lowville 4,Attorney General,,DEM,Letitia A. James,8,1,9
+Lewis,Lowville 5,Attorney General,,DEM,Letitia A. James,0,0,0
+Lewis,Lyonsdale 1,Attorney General,,DEM,Letitia A. James,5,0,5
+Lewis,Lyonsdale 2,Attorney General,,DEM,Letitia A. James,0,0,0
+Lewis,Lyonsdale 3,Attorney General,,DEM,Letitia A. James,0,0,0
+Lewis,Martinsburg,Attorney General,,DEM,Letitia A. James,1,0,1
+Lewis,Montague,Attorney General,,DEM,Letitia A. James,2,0,2
+Lewis,New Bremen 1,Attorney General,,DEM,Letitia A. James,8,1,9
+Lewis,New Bremen 2,Attorney General,,DEM,Letitia A. James,4,0,4
+Lewis,New Bremen 3,Attorney General,,DEM,Letitia A. James,0,0,0
+Lewis,Osceola,Attorney General,,DEM,Letitia A. James,2,0,2
+Lewis,Pinckney,Attorney General,,DEM,Letitia A. James,5,0,5
+Lewis,Turin,Attorney General,,DEM,Letitia A. James,0,0,0
+Lewis,Watson,Attorney General,,DEM,Letitia A. James,3,1,4
+Lewis,West Turin 1,Attorney General,,DEM,Letitia A. James,3,0,3
+Lewis,West Turin 2,Attorney General,,DEM,Letitia A. James,0,0,0
+Lewis,West Turin 3,Attorney General,,DEM,Letitia A. James,0,0,0
+Lewis,West Turin 4,Attorney General,,DEM,Letitia A. James,3,0,3
+Lewis,Croghan 1,Attorney General,,DEM,Leecia R. Eve,2,0,2
+Lewis,Croghan 2,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Croghan 3,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Croghan 4,Attorney General,,DEM,Leecia R. Eve,1,2,3
+Lewis,Croghan 5,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Croghan 6,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Denmark 1,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Denmark 2,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Denmark 3,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Diana 1,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Diana 2,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Greig,Attorney General,,DEM,Leecia R. Eve,2,1,3
+Lewis,Harrisburg,Attorney General,,DEM,Leecia R. Eve,1,0,1
+Lewis,Lewis,Attorney General,,DEM,Leecia R. Eve,2,0,2
+Lewis,Leyden 1,Attorney General,,DEM,Leecia R. Eve,0,1,1
+Lewis,Leyden 2,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Leyden 3,Attorney General,,DEM,Leecia R. Eve,0,1,1
+Lewis,Lowville 1,Attorney General,,DEM,Leecia R. Eve,1,0,1
+Lewis,Lowville 2,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Lowville 3,Attorney General,,DEM,Leecia R. Eve,2,0,2
+Lewis,Lowville 4,Attorney General,,DEM,Leecia R. Eve,4,1,5
+Lewis,Lowville 5,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Lyonsdale 1,Attorney General,,DEM,Leecia R. Eve,1,0,1
+Lewis,Lyonsdale 2,Attorney General,,DEM,Leecia R. Eve,1,0,1
+Lewis,Lyonsdale 3,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Martinsburg,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Montague,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,New Bremen 1,Attorney General,,DEM,Leecia R. Eve,1,0,1
+Lewis,New Bremen 2,Attorney General,,DEM,Leecia R. Eve,3,0,3
+Lewis,New Bremen 3,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Osceola,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Pinckney,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Turin,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Watson,Attorney General,,DEM,Leecia R. Eve,1,0,1
+Lewis,West Turin 1,Attorney General,,DEM,Leecia R. Eve,1,0,1
+Lewis,West Turin 2,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,West Turin 3,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,West Turin 4,Attorney General,,DEM,Leecia R. Eve,0,0,0
+Lewis,Croghan 1,Attorney General,,DEM,Zephyr Teachout,3,1,4
+Lewis,Croghan 2,Attorney General,,DEM,Zephyr Teachout,5,0,5
+Lewis,Croghan 3,Attorney General,,DEM,Zephyr Teachout,2,0,2
+Lewis,Croghan 4,Attorney General,,DEM,Zephyr Teachout,1,0,1
+Lewis,Croghan 5,Attorney General,,DEM,Zephyr Teachout,1,0,1
+Lewis,Croghan 6,Attorney General,,DEM,Zephyr Teachout,2,0,2
+Lewis,Denmark 1,Attorney General,,DEM,Zephyr Teachout,1,0,1
+Lewis,Denmark 2,Attorney General,,DEM,Zephyr Teachout,8,1,9
+Lewis,Denmark 3,Attorney General,,DEM,Zephyr Teachout,2,0,2
+Lewis,Diana 1,Attorney General,,DEM,Zephyr Teachout,9,0,9
+Lewis,Diana 2,Attorney General,,DEM,Zephyr Teachout,3,0,3
+Lewis,Greig,Attorney General,,DEM,Zephyr Teachout,4,0,4
+Lewis,Harrisburg,Attorney General,,DEM,Zephyr Teachout,6,0,6
+Lewis,Lewis,Attorney General,,DEM,Zephyr Teachout,4,0,4
+Lewis,Leyden 1,Attorney General,,DEM,Zephyr Teachout,9,0,9
+Lewis,Leyden 2,Attorney General,,DEM,Zephyr Teachout,2,0,2
+Lewis,Leyden 3,Attorney General,,DEM,Zephyr Teachout,3,0,3
+Lewis,Lowville 1,Attorney General,,DEM,Zephyr Teachout,3,0,3
+Lewis,Lowville 2,Attorney General,,DEM,Zephyr Teachout,5,2,7
+Lewis,Lowville 3,Attorney General,,DEM,Zephyr Teachout,3,1,4
+Lewis,Lowville 4,Attorney General,,DEM,Zephyr Teachout,25,4,29
+Lewis,Lowville 5,Attorney General,,DEM,Zephyr Teachout,2,0,2
+Lewis,Lyonsdale 1,Attorney General,,DEM,Zephyr Teachout,2,0,2
+Lewis,Lyonsdale 2,Attorney General,,DEM,Zephyr Teachout,1,0,1
+Lewis,Lyonsdale 3,Attorney General,,DEM,Zephyr Teachout,0,0,0
+Lewis,Martinsburg,Attorney General,,DEM,Zephyr Teachout,4,0,4
+Lewis,Montague,Attorney General,,DEM,Zephyr Teachout,2,0,2
+Lewis,New Bremen 1,Attorney General,,DEM,Zephyr Teachout,1,0,1
+Lewis,New Bremen 2,Attorney General,,DEM,Zephyr Teachout,3,0,3
+Lewis,New Bremen 3,Attorney General,,DEM,Zephyr Teachout,1,0,1
+Lewis,Osceola,Attorney General,,DEM,Zephyr Teachout,0,0,0
+Lewis,Pinckney,Attorney General,,DEM,Zephyr Teachout,3,0,3
+Lewis,Turin,Attorney General,,DEM,Zephyr Teachout,3,0,3
+Lewis,Watson,Attorney General,,DEM,Zephyr Teachout,14,1,15
+Lewis,West Turin 1,Attorney General,,DEM,Zephyr Teachout,5,1,6
+Lewis,West Turin 2,Attorney General,,DEM,Zephyr Teachout,0,0,0
+Lewis,West Turin 3,Attorney General,,DEM,Zephyr Teachout,1,0,1
+Lewis,West Turin 4,Attorney General,,DEM,Zephyr Teachout,0,1,1
+Lewis,Croghan 1,Attorney General,,DEM,Write-ins,,,0
+Lewis,Croghan 2,Attorney General,,DEM,Write-ins,,,0
+Lewis,Croghan 3,Attorney General,,DEM,Write-ins,,,0
+Lewis,Croghan 4,Attorney General,,DEM,Write-ins,,,0
+Lewis,Croghan 5,Attorney General,,DEM,Write-ins,,,1
+Lewis,Croghan 6,Attorney General,,DEM,Write-ins,,,0
+Lewis,Denmark 1,Attorney General,,DEM,Write-ins,,,0
+Lewis,Denmark 2,Attorney General,,DEM,Write-ins,,,0
+Lewis,Denmark 3,Attorney General,,DEM,Write-ins,,,0
+Lewis,Diana 1,Attorney General,,DEM,Write-ins,,,0
+Lewis,Diana 2,Attorney General,,DEM,Write-ins,,,0
+Lewis,Greig,Attorney General,,DEM,Write-ins,,,0
+Lewis,Harrisburg,Attorney General,,DEM,Write-ins,,,0
+Lewis,Lewis,Attorney General,,DEM,Write-ins,,,0
+Lewis,Leyden 1,Attorney General,,DEM,Write-ins,,,0
+Lewis,Leyden 2,Attorney General,,DEM,Write-ins,,,0
+Lewis,Leyden 3,Attorney General,,DEM,Write-ins,,,0
+Lewis,Lowville 1,Attorney General,,DEM,Write-ins,,,0
+Lewis,Lowville 2,Attorney General,,DEM,Write-ins,,,0
+Lewis,Lowville 3,Attorney General,,DEM,Write-ins,,,0
+Lewis,Lowville 4,Attorney General,,DEM,Write-ins,,,0
+Lewis,Lowville 5,Attorney General,,DEM,Write-ins,,,0
+Lewis,Lyonsdale 1,Attorney General,,DEM,Write-ins,,,0
+Lewis,Lyonsdale 2,Attorney General,,DEM,Write-ins,,,0
+Lewis,Lyonsdale 3,Attorney General,,DEM,Write-ins,,,0
+Lewis,Martinsburg,Attorney General,,DEM,Write-ins,,,0
+Lewis,Montague,Attorney General,,DEM,Write-ins,,,0
+Lewis,New Bremen 1,Attorney General,,DEM,Write-ins,,,0
+Lewis,New Bremen 2,Attorney General,,DEM,Write-ins,,,0
+Lewis,New Bremen 3,Attorney General,,DEM,Write-ins,,,0
+Lewis,Osceola,Attorney General,,DEM,Write-ins,,,0
+Lewis,Pinckney,Attorney General,,DEM,Write-ins,,,0
+Lewis,Turin,Attorney General,,DEM,Write-ins,,,0
+Lewis,Watson,Attorney General,,DEM,Write-ins,,,0
+Lewis,West Turin 1,Attorney General,,DEM,Write-ins,,,0
+Lewis,West Turin 2,Attorney General,,DEM,Write-ins,,,0
+Lewis,West Turin 3,Attorney General,,DEM,Write-ins,,,0
+Lewis,West Turin 4,Attorney General,,DEM,Write-ins,,,0
+Lewis,Croghan 1,Attorney General,,DEM,Blank/Void,,,0
+Lewis,Croghan 2,Attorney General,,DEM,Blank/Void,,,0
+Lewis,Croghan 3,Attorney General,,DEM,Blank/Void,,,3
+Lewis,Croghan 4,Attorney General,,DEM,Blank/Void,,,0
+Lewis,Croghan 5,Attorney General,,DEM,Blank/Void,,,0
+Lewis,Croghan 6,Attorney General,,DEM,Blank/Void,,,1
+Lewis,Denmark 1,Attorney General,,DEM,Blank/Void,,,0
+Lewis,Denmark 2,Attorney General,,DEM,Blank/Void,,,3
+Lewis,Denmark 3,Attorney General,,DEM,Blank/Void,,,1
+Lewis,Diana 1,Attorney General,,DEM,Blank/Void,,,1
+Lewis,Diana 2,Attorney General,,DEM,Blank/Void,,,0
+Lewis,Greig,Attorney General,,DEM,Blank/Void,,,4
+Lewis,Harrisburg,Attorney General,,DEM,Blank/Void,,,1
+Lewis,Lewis,Attorney General,,DEM,Blank/Void,,,3
+Lewis,Leyden 1,Attorney General,,DEM,Blank/Void,,,2
+Lewis,Leyden 2,Attorney General,,DEM,Blank/Void,,,1
+Lewis,Leyden 3,Attorney General,,DEM,Blank/Void,,,0
+Lewis,Lowville 1,Attorney General,,DEM,Blank/Void,,,3
+Lewis,Lowville 2,Attorney General,,DEM,Blank/Void,,,2
+Lewis,Lowville 3,Attorney General,,DEM,Blank/Void,,,2
+Lewis,Lowville 4,Attorney General,,DEM,Blank/Void,,,2
+Lewis,Lowville 5,Attorney General,,DEM,Blank/Void,,,0
+Lewis,Lyonsdale 1,Attorney General,,DEM,Blank/Void,,,1
+Lewis,Lyonsdale 2,Attorney General,,DEM,Blank/Void,,,0
+Lewis,Lyonsdale 3,Attorney General,,DEM,Blank/Void,,,1
+Lewis,Martinsburg,Attorney General,,DEM,Blank/Void,,,2
+Lewis,Montague,Attorney General,,DEM,Blank/Void,,,0
+Lewis,New Bremen 1,Attorney General,,DEM,Blank/Void,,,2
+Lewis,New Bremen 2,Attorney General,,DEM,Blank/Void,,,1
+Lewis,New Bremen 3,Attorney General,,DEM,Blank/Void,,,0
+Lewis,Osceola,Attorney General,,DEM,Blank/Void,,,1
+Lewis,Pinckney,Attorney General,,DEM,Blank/Void,,,0
+Lewis,Turin,Attorney General,,DEM,Blank/Void,,,1
+Lewis,Watson,Attorney General,,DEM,Blank/Void,,,2
+Lewis,West Turin 1,Attorney General,,DEM,Blank/Void,,,1
+Lewis,West Turin 2,Attorney General,,DEM,Blank/Void,,,0
+Lewis,West Turin 3,Attorney General,,DEM,Blank/Void,,,1
+Lewis,West Turin 4,Attorney General,,DEM,Blank/Void,,,0
