@@ -1,0 +1,91 @@
+county,precinct,office,district,party,candidate,votes
+Rensselaer,"Troy 1, 3",Governor,,DEM,Cynthia E. Nixon,83
+Rensselaer,Troy 2,Governor,,DEM,Cynthia E. Nixon,12
+Rensselaer,"Troy 4, 5, 6",Governor,,DEM,Cynthia E. Nixon,53
+Rensselaer,"Troy 7, 8",Governor,,DEM,Cynthia E. Nixon,62
+Rensselaer,"Troy 9, 10",Governor,,DEM,Cynthia E. Nixon,53
+Rensselaer,Troy 11,Governor,,DEM,Cynthia E. Nixon,65
+Rensselaer,"Troy 12,14,15",Governor,,DEM,Cynthia E. Nixon,115
+Rensselaer,Troy 13,Governor,,DEM,Cynthia E. Nixon,47
+Rensselaer,"Troy 16, 18, 19",Governor,,DEM,Cynthia E. Nixon,259
+Rensselaer,Troy 17,Governor,,DEM,Cynthia E. Nixon,50
+Rensselaer,Troy 20,Governor,,DEM,Cynthia E. Nixon,49
+Rensselaer,"Troy 21, 27",Governor,,DEM,Cynthia E. Nixon,36
+Rensselaer,Troy 22,Governor,,DEM,Cynthia E. Nixon,54
+Rensselaer,Troy 23,Governor,,DEM,Cynthia E. Nixon,33
+Rensselaer,"Troy 24, 25",Governor,,DEM,Cynthia E. Nixon,97
+Rensselaer,"Troy 26, 30",Governor,,DEM,Cynthia E. Nixon,60
+Rensselaer,Troy 28,Governor,,DEM,Cynthia E. Nixon,25
+Rensselaer,Troy 29,Governor,,DEM,Cynthia E. Nixon,46
+Rensselaer,"Troy 1, 3",Governor,,DEM,Andrew M. Cuomo,77
+Rensselaer,Troy 2,Governor,,DEM,Andrew M. Cuomo,11
+Rensselaer,"Troy 4, 5, 6",Governor,,DEM,Andrew M. Cuomo,89
+Rensselaer,"Troy 7, 8",Governor,,DEM,Andrew M. Cuomo,81
+Rensselaer,"Troy 9, 10",Governor,,DEM,Andrew M. Cuomo,73
+Rensselaer,Troy 11,Governor,,DEM,Andrew M. Cuomo,37
+Rensselaer,"Troy 12,14,15",Governor,,DEM,Andrew M. Cuomo,127
+Rensselaer,Troy 13,Governor,,DEM,Andrew M. Cuomo,57
+Rensselaer,"Troy 16, 18, 19",Governor,,DEM,Andrew M. Cuomo,138
+Rensselaer,Troy 17,Governor,,DEM,Andrew M. Cuomo,56
+Rensselaer,Troy 20,Governor,,DEM,Andrew M. Cuomo,31
+Rensselaer,"Troy 21, 27",Governor,,DEM,Andrew M. Cuomo,66
+Rensselaer,Troy 22,Governor,,DEM,Andrew M. Cuomo,39
+Rensselaer,Troy 23,Governor,,DEM,Andrew M. Cuomo,18
+Rensselaer,"Troy 24, 25",Governor,,DEM,Andrew M. Cuomo,77
+Rensselaer,"Troy 26, 30",Governor,,DEM,Andrew M. Cuomo,49
+Rensselaer,Troy 28,Governor,,DEM,Andrew M. Cuomo,23
+Rensselaer,Troy 29,Governor,,DEM,Andrew M. Cuomo,44
+Rensselaer,"Troy 1, 3",Governor,,DEM,Write-ins,
+Rensselaer,Troy 2,Governor,,DEM,Write-ins,
+Rensselaer,"Troy 4, 5, 6",Governor,,DEM,Write-ins,
+Rensselaer,"Troy 7, 8",Governor,,DEM,Write-ins,
+Rensselaer,"Troy 9, 10",Governor,,DEM,Write-ins,
+Rensselaer,Troy 11,Governor,,DEM,Write-ins,
+Rensselaer,"Troy 12,14,15",Governor,,DEM,Write-ins,
+Rensselaer,Troy 13,Governor,,DEM,Write-ins,
+Rensselaer,"Troy 16, 18, 19",Governor,,DEM,Write-ins,
+Rensselaer,Troy 17,Governor,,DEM,Write-ins,
+Rensselaer,Troy 20,Governor,,DEM,Write-ins,
+Rensselaer,"Troy 21, 27",Governor,,DEM,Write-ins,
+Rensselaer,Troy 22,Governor,,DEM,Write-ins,
+Rensselaer,Troy 23,Governor,,DEM,Write-ins,
+Rensselaer,"Troy 24, 25",Governor,,DEM,Write-ins,
+Rensselaer,"Troy 26, 30",Governor,,DEM,Write-ins,
+Rensselaer,Troy 28,Governor,,DEM,Write-ins,
+Rensselaer,Troy 29,Governor,,DEM,Write-ins,
+Rensselaer,"Troy 1, 3",Governor,,DEM,Blanks,4
+Rensselaer,Troy 2,Governor,,DEM,Blanks,3
+Rensselaer,"Troy 4, 5, 6",Governor,,DEM,Blanks,4
+Rensselaer,"Troy 7, 8",Governor,,DEM,Blanks,6
+Rensselaer,"Troy 9, 10",Governor,,DEM,Blanks,1
+Rensselaer,Troy 11,Governor,,DEM,Blanks,0
+Rensselaer,"Troy 12,14,15",Governor,,DEM,Blanks,2
+Rensselaer,Troy 13,Governor,,DEM,Blanks,3
+Rensselaer,"Troy 16, 18, 19",Governor,,DEM,Blanks,2
+Rensselaer,Troy 17,Governor,,DEM,Blanks,1
+Rensselaer,Troy 20,Governor,,DEM,Blanks,2
+Rensselaer,"Troy 21, 27",Governor,,DEM,Blanks,1
+Rensselaer,Troy 22,Governor,,DEM,Blanks,1
+Rensselaer,Troy 23,Governor,,DEM,Blanks,2
+Rensselaer,"Troy 24, 25",Governor,,DEM,Blanks,1
+Rensselaer,"Troy 26, 30",Governor,,DEM,Blanks,0
+Rensselaer,Troy 28,Governor,,DEM,Blanks,0
+Rensselaer,Troy 29,Governor,,DEM,Blanks,4
+Rensselaer,"Troy 1, 3",Governor,,DEM,Void,
+Rensselaer,Troy 2,Governor,,DEM,Void,
+Rensselaer,"Troy 4, 5, 6",Governor,,DEM,Void,
+Rensselaer,"Troy 7, 8",Governor,,DEM,Void,
+Rensselaer,"Troy 9, 10",Governor,,DEM,Void,1
+Rensselaer,Troy 11,Governor,,DEM,Void,1
+Rensselaer,"Troy 12,14,15",Governor,,DEM,Void,1
+Rensselaer,Troy 13,Governor,,DEM,Void,
+Rensselaer,"Troy 16, 18, 19",Governor,,DEM,Void,
+Rensselaer,Troy 17,Governor,,DEM,Void,
+Rensselaer,Troy 20,Governor,,DEM,Void,
+Rensselaer,"Troy 21, 27",Governor,,DEM,Void,
+Rensselaer,Troy 22,Governor,,DEM,Void,
+Rensselaer,Troy 23,Governor,,DEM,Void,
+Rensselaer,"Troy 24, 25",Governor,,DEM,Void,
+Rensselaer,"Troy 26, 30",Governor,,DEM,Void,
+Rensselaer,Troy 28,Governor,,DEM,Void,2
+Rensselaer,Troy 29,Governor,,DEM,Void,
