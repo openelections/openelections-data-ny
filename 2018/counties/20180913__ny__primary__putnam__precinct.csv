@@ -1,0 +1,1031 @@
+﻿county,precinct,office,district,party,candidate,votes
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Governor,,DEM,Machine,184
+Putnam,CA  02 & 29,Governor,,DEM,Machine,164
+Putnam,"CA  03, 12, 16, 19 & 27",Governor,,DEM,Machine,263
+Putnam,"CA  04, 21 & 25",Governor,,DEM,Machine,122
+Putnam,"CA  05, 26 & 28",Governor,,DEM,Machine,114
+Putnam,"CA  06, 07, 15, 22 & 23",Governor,,DEM,Machine,197
+Putnam,"CA  08, 14 & 20",Governor,,DEM,Machine,154
+Putnam,"CA  09, 17 & 18",Governor,,DEM,Machine,135
+Putnam,KE  01 & 08,Governor,,DEM,Machine,181
+Putnam,"KE  02, 04, 06, 10 & 12",Governor,,DEM,Machine,233
+Putnam,"KE  03, 05, 07, 09 & 11",Governor,,DEM,Machine,232
+Putnam,"PA  01, 05 & 06",Governor,,DEM,Machine,178
+Putnam,"PA  02, 04 & 08",Governor,,DEM,Machine,225
+Putnam,PA  03 & 07,Governor,,DEM,Machine,162
+Putnam,"PH  01, 06 & 10",Governor,,DEM,Machine,308
+Putnam,"PH  02, 03, 05 & 11",Governor,,DEM,Machine,539
+Putnam,PH  04 & 09,Governor,,DEM,Machine,149
+Putnam,PH  07 & 08,Governor,,DEM,Machine,261
+Putnam,"PV  01, 05 & 07",Governor,,DEM,Machine,174
+Putnam,"PV  02, 06 & 09",Governor,,DEM,Machine,203
+Putnam,PV  03 & 08,Governor,,DEM,Machine,220
+Putnam,PV  04 & 10,Governor,,DEM,Machine,119
+Putnam,"SE  01, 03, 07, 10 & 13",Governor,,DEM,Machine,264
+Putnam,SE  02 & 04,Governor,,DEM,Machine,119
+Putnam,"SE  05, 08, 11 & 14",Governor,,DEM,Machine,249
+Putnam,"SE  06, 09, 12 & 15",Governor,,DEM,Machine,214
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Governor,,DEM,Absentee,11
+Putnam,CA  02 & 29,Governor,,DEM,Absentee,10
+Putnam,"CA  03, 12, 16, 19 & 27",Governor,,DEM,Absentee,20
+Putnam,"CA  04, 21 & 25",Governor,,DEM,Absentee,1
+Putnam,"CA  05, 26 & 28",Governor,,DEM,Absentee,2
+Putnam,"CA  06, 07, 15, 22 & 23",Governor,,DEM,Absentee,12
+Putnam,"CA  08, 14 & 20",Governor,,DEM,Absentee,11
+Putnam,"CA  09, 17 & 18",Governor,,DEM,Absentee,1
+Putnam,KE  01 & 08,Governor,,DEM,Absentee,22
+Putnam,"KE  02, 04, 06, 10 & 12",Governor,,DEM,Absentee,13
+Putnam,"KE  03, 05, 07, 09 & 11",Governor,,DEM,Absentee,21
+Putnam,"PA  01, 05 & 06",Governor,,DEM,Absentee,7
+Putnam,"PA  02, 04 & 08",Governor,,DEM,Absentee,8
+Putnam,PA  03 & 07,Governor,,DEM,Absentee,4
+Putnam,"PH  01, 06 & 10",Governor,,DEM,Absentee,30
+Putnam,"PH  02, 03, 05 & 11",Governor,,DEM,Absentee,28
+Putnam,PH  04 & 09,Governor,,DEM,Absentee,1
+Putnam,PH  07 & 08,Governor,,DEM,Absentee,25
+Putnam,"PV  01, 05 & 07",Governor,,DEM,Absentee,24
+Putnam,"PV  02, 06 & 09",Governor,,DEM,Absentee,6
+Putnam,PV  03 & 08,Governor,,DEM,Absentee,9
+Putnam,PV  04 & 10,Governor,,DEM,Absentee,5
+Putnam,"SE  01, 03, 07, 10 & 13",Governor,,DEM,Absentee,18
+Putnam,SE  02 & 04,Governor,,DEM,Absentee,21
+Putnam,"SE  05, 08, 11 & 14",Governor,,DEM,Absentee,17
+Putnam,"SE  06, 09, 12 & 15",Governor,,DEM,Absentee,30
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Governor,,DEM,Turnout,195
+Putnam,CA  02 & 29,Governor,,DEM,Turnout,174
+Putnam,"CA  03, 12, 16, 19 & 27",Governor,,DEM,Turnout,283
+Putnam,"CA  04, 21 & 25",Governor,,DEM,Turnout,123
+Putnam,"CA  05, 26 & 28",Governor,,DEM,Turnout,116
+Putnam,"CA  06, 07, 15, 22 & 23",Governor,,DEM,Turnout,209
+Putnam,"CA  08, 14 & 20",Governor,,DEM,Turnout,165
+Putnam,"CA  09, 17 & 18",Governor,,DEM,Turnout,136
+Putnam,KE  01 & 08,Governor,,DEM,Turnout,203
+Putnam,"KE  02, 04, 06, 10 & 12",Governor,,DEM,Turnout,246
+Putnam,"KE  03, 05, 07, 09 & 11",Governor,,DEM,Turnout,253
+Putnam,"PA  01, 05 & 06",Governor,,DEM,Turnout,185
+Putnam,"PA  02, 04 & 08",Governor,,DEM,Turnout,233
+Putnam,PA  03 & 07,Governor,,DEM,Turnout,166
+Putnam,"PH  01, 06 & 10",Governor,,DEM,Turnout,338
+Putnam,"PH  02, 03, 05 & 11",Governor,,DEM,Turnout,567
+Putnam,PH  04 & 09,Governor,,DEM,Turnout,150
+Putnam,PH  07 & 08,Governor,,DEM,Turnout,286
+Putnam,"PV  01, 05 & 07",Governor,,DEM,Turnout,198
+Putnam,"PV  02, 06 & 09",Governor,,DEM,Turnout,209
+Putnam,PV  03 & 08,Governor,,DEM,Turnout,229
+Putnam,PV  04 & 10,Governor,,DEM,Turnout,124
+Putnam,"SE  01, 03, 07, 10 & 13",Governor,,DEM,Turnout,282
+Putnam,SE  02 & 04,Governor,,DEM,Turnout,140
+Putnam,"SE  05, 08, 11 & 14",Governor,,DEM,Turnout,266
+Putnam,"SE  06, 09, 12 & 15",Governor,,DEM,Turnout,244
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Governor,,DEM,Voter Registration,892
+Putnam,CA  02 & 29,Governor,,DEM,Voter Registration,632
+Putnam,"CA  03, 12, 16, 19 & 27",Governor,,DEM,Voter Registration,940
+Putnam,"CA  04, 21 & 25",Governor,,DEM,Voter Registration,496
+Putnam,"CA  05, 26 & 28",Governor,,DEM,Voter Registration,516
+Putnam,"CA  06, 07, 15, 22 & 23",Governor,,DEM,Voter Registration,920
+Putnam,"CA  08, 14 & 20",Governor,,DEM,Voter Registration,604
+Putnam,"CA  09, 17 & 18",Governor,,DEM,Voter Registration,490
+Putnam,KE  01 & 08,Governor,,DEM,Voter Registration,567
+Putnam,"KE  02, 04, 06, 10 & 12",Governor,,DEM,Voter Registration,921
+Putnam,"KE  03, 05, 07, 09 & 11",Governor,,DEM,Voter Registration,1046
+Putnam,"PA  01, 05 & 06",Governor,,DEM,Voter Registration,568
+Putnam,"PA  02, 04 & 08",Governor,,DEM,Voter Registration,769
+Putnam,PA  03 & 07,Governor,,DEM,Voter Registration,561
+Putnam,"PH  01, 06 & 10",Governor,,DEM,Voter Registration,753
+Putnam,"PH  02, 03, 05 & 11",Governor,,DEM,Voter Registration,1077
+Putnam,PH  04 & 09,Governor,,DEM,Voter Registration,440
+Putnam,PH  07 & 08,Governor,,DEM,Voter Registration,663
+Putnam,"PV  01, 05 & 07",Governor,,DEM,Voter Registration,746
+Putnam,"PV  02, 06 & 09",Governor,,DEM,Voter Registration,667
+Putnam,PV  03 & 08,Governor,,DEM,Voter Registration,633
+Putnam,PV  04 & 10,Governor,,DEM,Voter Registration,371
+Putnam,"SE  01, 03, 07, 10 & 13",Governor,,DEM,Voter Registration,1037
+Putnam,SE  02 & 04,Governor,,DEM,Voter Registration,430
+Putnam,"SE  05, 08, 11 & 14",Governor,,DEM,Voter Registration,916
+Putnam,"SE  06, 09, 12 & 15",Governor,,DEM,Voter Registration,774
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Governor,,DEM,Cynthia E. Nixon,64
+Putnam,CA  02 & 29,Governor,,DEM,Cynthia E. Nixon,48
+Putnam,"CA  03, 12, 16, 19 & 27",Governor,,DEM,Cynthia E. Nixon,107
+Putnam,"CA  04, 21 & 25",Governor,,DEM,Cynthia E. Nixon,47
+Putnam,"CA  05, 26 & 28",Governor,,DEM,Cynthia E. Nixon,38
+Putnam,"CA  06, 07, 15, 22 & 23",Governor,,DEM,Cynthia E. Nixon,84
+Putnam,"CA  08, 14 & 20",Governor,,DEM,Cynthia E. Nixon,60
+Putnam,"CA  09, 17 & 18",Governor,,DEM,Cynthia E. Nixon,49
+Putnam,KE  01 & 08,Governor,,DEM,Cynthia E. Nixon,71
+Putnam,"KE  02, 04, 06, 10 & 12",Governor,,DEM,Cynthia E. Nixon,82
+Putnam,"KE  03, 05, 07, 09 & 11",Governor,,DEM,Cynthia E. Nixon,79
+Putnam,"PA  01, 05 & 06",Governor,,DEM,Cynthia E. Nixon,48
+Putnam,"PA  02, 04 & 08",Governor,,DEM,Cynthia E. Nixon,72
+Putnam,PA  03 & 07,Governor,,DEM,Cynthia E. Nixon,58
+Putnam,"PH  01, 06 & 10",Governor,,DEM,Cynthia E. Nixon,146
+Putnam,"PH  02, 03, 05 & 11",Governor,,DEM,Cynthia E. Nixon,274
+Putnam,PH  04 & 09,Governor,,DEM,Cynthia E. Nixon,57
+Putnam,PH  07 & 08,Governor,,DEM,Cynthia E. Nixon,119
+Putnam,"PV  01, 05 & 07",Governor,,DEM,Cynthia E. Nixon,89
+Putnam,"PV  02, 06 & 09",Governor,,DEM,Cynthia E. Nixon,84
+Putnam,PV  03 & 08,Governor,,DEM,Cynthia E. Nixon,96
+Putnam,PV  04 & 10,Governor,,DEM,Cynthia E. Nixon,41
+Putnam,"SE  01, 03, 07, 10 & 13",Governor,,DEM,Cynthia E. Nixon,77
+Putnam,SE  02 & 04,Governor,,DEM,Cynthia E. Nixon,44
+Putnam,"SE  05, 08, 11 & 14",Governor,,DEM,Cynthia E. Nixon,100
+Putnam,"SE  06, 09, 12 & 15",Governor,,DEM,Cynthia E. Nixon,81
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Governor,,DEM,Andrew M. Cuomo,130
+Putnam,CA  02 & 29,Governor,,DEM,Andrew M. Cuomo,125
+Putnam,"CA  03, 12, 16, 19 & 27",Governor,,DEM,Andrew M. Cuomo,175
+Putnam,"CA  04, 21 & 25",Governor,,DEM,Andrew M. Cuomo,76
+Putnam,"CA  05, 26 & 28",Governor,,DEM,Andrew M. Cuomo,78
+Putnam,"CA  06, 07, 15, 22 & 23",Governor,,DEM,Andrew M. Cuomo,122
+Putnam,"CA  08, 14 & 20",Governor,,DEM,Andrew M. Cuomo,104
+Putnam,"CA  09, 17 & 18",Governor,,DEM,Andrew M. Cuomo,84
+Putnam,KE  01 & 08,Governor,,DEM,Andrew M. Cuomo,128
+Putnam,"KE  02, 04, 06, 10 & 12",Governor,,DEM,Andrew M. Cuomo,162
+Putnam,"KE  03, 05, 07, 09 & 11",Governor,,DEM,Andrew M. Cuomo,172
+Putnam,"PA  01, 05 & 06",Governor,,DEM,Andrew M. Cuomo,134
+Putnam,"PA  02, 04 & 08",Governor,,DEM,Andrew M. Cuomo,155
+Putnam,PA  03 & 07,Governor,,DEM,Andrew M. Cuomo,104
+Putnam,"PH  01, 06 & 10",Governor,,DEM,Andrew M. Cuomo,185
+Putnam,"PH  02, 03, 05 & 11",Governor,,DEM,Andrew M. Cuomo,284
+Putnam,PH  04 & 09,Governor,,DEM,Andrew M. Cuomo,91
+Putnam,PH  07 & 08,Governor,,DEM,Andrew M. Cuomo,165
+Putnam,"PV  01, 05 & 07",Governor,,DEM,Andrew M. Cuomo,107
+Putnam,"PV  02, 06 & 09",Governor,,DEM,Andrew M. Cuomo,121
+Putnam,PV  03 & 08,Governor,,DEM,Andrew M. Cuomo,126
+Putnam,PV  04 & 10,Governor,,DEM,Andrew M. Cuomo,79
+Putnam,"SE  01, 03, 07, 10 & 13",Governor,,DEM,Andrew M. Cuomo,201
+Putnam,SE  02 & 04,Governor,,DEM,Andrew M. Cuomo,93
+Putnam,"SE  05, 08, 11 & 14",Governor,,DEM,Andrew M. Cuomo,164
+Putnam,"SE  06, 09, 12 & 15",Governor,,DEM,Andrew M. Cuomo,158
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Governor,,DEM,Write in,0
+Putnam,CA  02 & 29,Governor,,DEM,Write in,0
+Putnam,"CA  03, 12, 16, 19 & 27",Governor,,DEM,Write in,0
+Putnam,"CA  04, 21 & 25",Governor,,DEM,Write in,0
+Putnam,"CA  05, 26 & 28",Governor,,DEM,Write in,0
+Putnam,"CA  06, 07, 15, 22 & 23",Governor,,DEM,Write in,0
+Putnam,"CA  08, 14 & 20",Governor,,DEM,Write in,0
+Putnam,"CA  09, 17 & 18",Governor,,DEM,Write in,0
+Putnam,KE  01 & 08,Governor,,DEM,Write in,1
+Putnam,"KE  02, 04, 06, 10 & 12",Governor,,DEM,Write in,0
+Putnam,"KE  03, 05, 07, 09 & 11",Governor,,DEM,Write in,0
+Putnam,"PA  01, 05 & 06",Governor,,DEM,Write in,0
+Putnam,"PA  02, 04 & 08",Governor,,DEM,Write in,1
+Putnam,PA  03 & 07,Governor,,DEM,Write in,0
+Putnam,"PH  01, 06 & 10",Governor,,DEM,Write in,1
+Putnam,"PH  02, 03, 05 & 11",Governor,,DEM,Write in,1
+Putnam,PH  04 & 09,Governor,,DEM,Write in,0
+Putnam,PH  07 & 08,Governor,,DEM,Write in,0
+Putnam,"PV  01, 05 & 07",Governor,,DEM,Write in,1
+Putnam,"PV  02, 06 & 09",Governor,,DEM,Write in,1
+Putnam,PV  03 & 08,Governor,,DEM,Write in,2
+Putnam,PV  04 & 10,Governor,,DEM,Write in,0
+Putnam,"SE  01, 03, 07, 10 & 13",Governor,,DEM,Write in,1
+Putnam,SE  02 & 04,Governor,,DEM,Write in,1
+Putnam,"SE  05, 08, 11 & 14",Governor,,DEM,Write in,1
+Putnam,"SE  06, 09, 12 & 15",Governor,,DEM,Write in,1
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Governor,,DEM,Under/Over Votes,-1
+Putnam,CA  02 & 29,Governor,,DEM,Under/Over Votes,-1
+Putnam,"CA  03, 12, 16, 19 & 27",Governor,,DEM,Under/Over Votes,-1
+Putnam,"CA  04, 21 & 25",Governor,,DEM,Under/Over Votes,0
+Putnam,"CA  05, 26 & 28",Governor,,DEM,Under/Over Votes,0
+Putnam,"CA  06, 07, 15, 22 & 23",Governor,,DEM,Under/Over Votes,-3
+Putnam,"CA  08, 14 & 20",Governor,,DEM,Under/Over Votes,-1
+Putnam,"CA  09, 17 & 18",Governor,,DEM,Under/Over Votes,-3
+Putnam,KE  01 & 08,Governor,,DEM,Under/Over Votes,-3
+Putnam,"KE  02, 04, 06, 10 & 12",Governor,,DEM,Under/Over Votes,-2
+Putnam,"KE  03, 05, 07, 09 & 11",Governor,,DEM,Under/Over Votes,-2
+Putnam,"PA  01, 05 & 06",Governor,,DEM,Under/Over Votes,-3
+Putnam,"PA  02, 04 & 08",Governor,,DEM,Under/Over Votes,-5
+Putnam,PA  03 & 07,Governor,,DEM,Under/Over Votes,-4
+Putnam,"PH  01, 06 & 10",Governor,,DEM,Under/Over Votes,-6
+Putnam,"PH  02, 03, 05 & 11",Governor,,DEM,Under/Over Votes,-8
+Putnam,PH  04 & 09,Governor,,DEM,Under/Over Votes,-2
+Putnam,PH  07 & 08,Governor,,DEM,Under/Over Votes,-2
+Putnam,"PV  01, 05 & 07",Governor,,DEM,Under/Over Votes,-1
+Putnam,"PV  02, 06 & 09",Governor,,DEM,Under/Over Votes,-3
+Putnam,PV  03 & 08,Governor,,DEM,Under/Over Votes,-5
+Putnam,PV  04 & 10,Governor,,DEM,Under/Over Votes,-4
+Putnam,"SE  01, 03, 07, 10 & 13",Governor,,DEM,Under/Over Votes,-3
+Putnam,SE  02 & 04,Governor,,DEM,Under/Over Votes,-2
+Putnam,"SE  05, 08, 11 & 14",Governor,,DEM,Under/Over Votes,-1
+Putnam,"SE  06, 09, 12 & 15",Governor,,DEM,Under/Over Votes,-4
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Lieutenant Governor,,DEM,Machine,184
+Putnam,CA  02 & 29,Lieutenant Governor,,DEM,Machine,164
+Putnam,"CA  03, 12, 16, 19 & 27",Lieutenant Governor,,DEM,Machine,263
+Putnam,"CA  04, 21 & 25",Lieutenant Governor,,DEM,Machine,122
+Putnam,"CA  05, 26 & 28",Lieutenant Governor,,DEM,Machine,114
+Putnam,"CA  06, 07, 15, 22 & 23",Lieutenant Governor,,DEM,Machine,197
+Putnam,"CA  08, 14 & 20",Lieutenant Governor,,DEM,Machine,154
+Putnam,"CA  09, 17 & 18",Lieutenant Governor,,DEM,Machine,135
+Putnam,KE  01 & 08,Lieutenant Governor,,DEM,Machine,181
+Putnam,"KE  02, 04, 06, 10 & 12",Lieutenant Governor,,DEM,Machine,233
+Putnam,"KE  03, 05, 07, 09 & 11",Lieutenant Governor,,DEM,Machine,232
+Putnam,"PA  01, 05 & 06",Lieutenant Governor,,DEM,Machine,178
+Putnam,"PA  02, 04 & 08",Lieutenant Governor,,DEM,Machine,225
+Putnam,PA  03 & 07,Lieutenant Governor,,DEM,Machine,162
+Putnam,"PH  01, 06 & 10",Lieutenant Governor,,DEM,Machine,308
+Putnam,"PH  02, 03, 05 & 11",Lieutenant Governor,,DEM,Machine,539
+Putnam,PH  04 & 09,Lieutenant Governor,,DEM,Machine,149
+Putnam,PH  07 & 08,Lieutenant Governor,,DEM,Machine,261
+Putnam,"PV  01, 05 & 07",Lieutenant Governor,,DEM,Machine,174
+Putnam,"PV  02, 06 & 09",Lieutenant Governor,,DEM,Machine,203
+Putnam,PV  03 & 08,Lieutenant Governor,,DEM,Machine,220
+Putnam,PV  04 & 10,Lieutenant Governor,,DEM,Machine,119
+Putnam,"SE  01, 03, 07, 10 & 13",Lieutenant Governor,,DEM,Machine,264
+Putnam,SE  02 & 04,Lieutenant Governor,,DEM,Machine,119
+Putnam,"SE  05, 08, 11 & 14",Lieutenant Governor,,DEM,Machine,249
+Putnam,"SE  06, 09, 12 & 15",Lieutenant Governor,,DEM,Machine,214
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Lieutenant Governor,,DEM,Absentee,11
+Putnam,CA  02 & 29,Lieutenant Governor,,DEM,Absentee,10
+Putnam,"CA  03, 12, 16, 19 & 27",Lieutenant Governor,,DEM,Absentee,20
+Putnam,"CA  04, 21 & 25",Lieutenant Governor,,DEM,Absentee,1
+Putnam,"CA  05, 26 & 28",Lieutenant Governor,,DEM,Absentee,2
+Putnam,"CA  06, 07, 15, 22 & 23",Lieutenant Governor,,DEM,Absentee,12
+Putnam,"CA  08, 14 & 20",Lieutenant Governor,,DEM,Absentee,11
+Putnam,"CA  09, 17 & 18",Lieutenant Governor,,DEM,Absentee,1
+Putnam,KE  01 & 08,Lieutenant Governor,,DEM,Absentee,22
+Putnam,"KE  02, 04, 06, 10 & 12",Lieutenant Governor,,DEM,Absentee,13
+Putnam,"KE  03, 05, 07, 09 & 11",Lieutenant Governor,,DEM,Absentee,21
+Putnam,"PA  01, 05 & 06",Lieutenant Governor,,DEM,Absentee,7
+Putnam,"PA  02, 04 & 08",Lieutenant Governor,,DEM,Absentee,8
+Putnam,PA  03 & 07,Lieutenant Governor,,DEM,Absentee,4
+Putnam,"PH  01, 06 & 10",Lieutenant Governor,,DEM,Absentee,30
+Putnam,"PH  02, 03, 05 & 11",Lieutenant Governor,,DEM,Absentee,28
+Putnam,PH  04 & 09,Lieutenant Governor,,DEM,Absentee,1
+Putnam,PH  07 & 08,Lieutenant Governor,,DEM,Absentee,25
+Putnam,"PV  01, 05 & 07",Lieutenant Governor,,DEM,Absentee,24
+Putnam,"PV  02, 06 & 09",Lieutenant Governor,,DEM,Absentee,6
+Putnam,PV  03 & 08,Lieutenant Governor,,DEM,Absentee,9
+Putnam,PV  04 & 10,Lieutenant Governor,,DEM,Absentee,5
+Putnam,"SE  01, 03, 07, 10 & 13",Lieutenant Governor,,DEM,Absentee,18
+Putnam,SE  02 & 04,Lieutenant Governor,,DEM,Absentee,21
+Putnam,"SE  05, 08, 11 & 14",Lieutenant Governor,,DEM,Absentee,17
+Putnam,"SE  06, 09, 12 & 15",Lieutenant Governor,,DEM,Absentee,30
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Lieutenant Governor,,DEM,Turnout,195
+Putnam,CA  02 & 29,Lieutenant Governor,,DEM,Turnout,174
+Putnam,"CA  03, 12, 16, 19 & 27",Lieutenant Governor,,DEM,Turnout,283
+Putnam,"CA  04, 21 & 25",Lieutenant Governor,,DEM,Turnout,123
+Putnam,"CA  05, 26 & 28",Lieutenant Governor,,DEM,Turnout,116
+Putnam,"CA  06, 07, 15, 22 & 23",Lieutenant Governor,,DEM,Turnout,209
+Putnam,"CA  08, 14 & 20",Lieutenant Governor,,DEM,Turnout,165
+Putnam,"CA  09, 17 & 18",Lieutenant Governor,,DEM,Turnout,136
+Putnam,KE  01 & 08,Lieutenant Governor,,DEM,Turnout,203
+Putnam,"KE  02, 04, 06, 10 & 12",Lieutenant Governor,,DEM,Turnout,246
+Putnam,"KE  03, 05, 07, 09 & 11",Lieutenant Governor,,DEM,Turnout,253
+Putnam,"PA  01, 05 & 06",Lieutenant Governor,,DEM,Turnout,185
+Putnam,"PA  02, 04 & 08",Lieutenant Governor,,DEM,Turnout,233
+Putnam,PA  03 & 07,Lieutenant Governor,,DEM,Turnout,166
+Putnam,"PH  01, 06 & 10",Lieutenant Governor,,DEM,Turnout,338
+Putnam,"PH  02, 03, 05 & 11",Lieutenant Governor,,DEM,Turnout,567
+Putnam,PH  04 & 09,Lieutenant Governor,,DEM,Turnout,150
+Putnam,PH  07 & 08,Lieutenant Governor,,DEM,Turnout,286
+Putnam,"PV  01, 05 & 07",Lieutenant Governor,,DEM,Turnout,198
+Putnam,"PV  02, 06 & 09",Lieutenant Governor,,DEM,Turnout,209
+Putnam,PV  03 & 08,Lieutenant Governor,,DEM,Turnout,229
+Putnam,PV  04 & 10,Lieutenant Governor,,DEM,Turnout,124
+Putnam,"SE  01, 03, 07, 10 & 13",Lieutenant Governor,,DEM,Turnout,282
+Putnam,SE  02 & 04,Lieutenant Governor,,DEM,Turnout,140
+Putnam,"SE  05, 08, 11 & 14",Lieutenant Governor,,DEM,Turnout,266
+Putnam,"SE  06, 09, 12 & 15",Lieutenant Governor,,DEM,Turnout,244
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Lieutenant Governor,,DEM,Voter Registration,892
+Putnam,CA  02 & 29,Lieutenant Governor,,DEM,Voter Registration,632
+Putnam,"CA  03, 12, 16, 19 & 27",Lieutenant Governor,,DEM,Voter Registration,940
+Putnam,"CA  04, 21 & 25",Lieutenant Governor,,DEM,Voter Registration,496
+Putnam,"CA  05, 26 & 28",Lieutenant Governor,,DEM,Voter Registration,516
+Putnam,"CA  06, 07, 15, 22 & 23",Lieutenant Governor,,DEM,Voter Registration,920
+Putnam,"CA  08, 14 & 20",Lieutenant Governor,,DEM,Voter Registration,604
+Putnam,"CA  09, 17 & 18",Lieutenant Governor,,DEM,Voter Registration,490
+Putnam,KE  01 & 08,Lieutenant Governor,,DEM,Voter Registration,567
+Putnam,"KE  02, 04, 06, 10 & 12",Lieutenant Governor,,DEM,Voter Registration,921
+Putnam,"KE  03, 05, 07, 09 & 11",Lieutenant Governor,,DEM,Voter Registration,1046
+Putnam,"PA  01, 05 & 06",Lieutenant Governor,,DEM,Voter Registration,568
+Putnam,"PA  02, 04 & 08",Lieutenant Governor,,DEM,Voter Registration,769
+Putnam,PA  03 & 07,Lieutenant Governor,,DEM,Voter Registration,561
+Putnam,"PH  01, 06 & 10",Lieutenant Governor,,DEM,Voter Registration,753
+Putnam,"PH  02, 03, 05 & 11",Lieutenant Governor,,DEM,Voter Registration,1077
+Putnam,PH  04 & 09,Lieutenant Governor,,DEM,Voter Registration,440
+Putnam,PH  07 & 08,Lieutenant Governor,,DEM,Voter Registration,663
+Putnam,"PV  01, 05 & 07",Lieutenant Governor,,DEM,Voter Registration,746
+Putnam,"PV  02, 06 & 09",Lieutenant Governor,,DEM,Voter Registration,667
+Putnam,PV  03 & 08,Lieutenant Governor,,DEM,Voter Registration,633
+Putnam,PV  04 & 10,Lieutenant Governor,,DEM,Voter Registration,371
+Putnam,"SE  01, 03, 07, 10 & 13",Lieutenant Governor,,DEM,Voter Registration,1037
+Putnam,SE  02 & 04,Lieutenant Governor,,DEM,Voter Registration,430
+Putnam,"SE  05, 08, 11 & 14",Lieutenant Governor,,DEM,Voter Registration,916
+Putnam,"SE  06, 09, 12 & 15",Lieutenant Governor,,DEM,Voter Registration,774
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Lieutenant Governor,,DEM,Katny C. Hochul,122
+Putnam,CA  02 & 29,Lieutenant Governor,,DEM,Katny C. Hochul,113
+Putnam,"CA  03, 12, 16, 19 & 27",Lieutenant Governor,,DEM,Katny C. Hochul,158
+Putnam,"CA  04, 21 & 25",Lieutenant Governor,,DEM,Katny C. Hochul,61
+Putnam,"CA  05, 26 & 28",Lieutenant Governor,,DEM,Katny C. Hochul,68
+Putnam,"CA  06, 07, 15, 22 & 23",Lieutenant Governor,,DEM,Katny C. Hochul,116
+Putnam,"CA  08, 14 & 20",Lieutenant Governor,,DEM,Katny C. Hochul,96
+Putnam,"CA  09, 17 & 18",Lieutenant Governor,,DEM,Katny C. Hochul,74
+Putnam,KE  01 & 08,Lieutenant Governor,,DEM,Katny C. Hochul,102
+Putnam,"KE  02, 04, 06, 10 & 12",Lieutenant Governor,,DEM,Katny C. Hochul,138
+Putnam,"KE  03, 05, 07, 09 & 11",Lieutenant Governor,,DEM,Katny C. Hochul,144
+Putnam,"PA  01, 05 & 06",Lieutenant Governor,,DEM,Katny C. Hochul,96
+Putnam,"PA  02, 04 & 08",Lieutenant Governor,,DEM,Katny C. Hochul,136
+Putnam,PA  03 & 07,Lieutenant Governor,,DEM,Katny C. Hochul,88
+Putnam,"PH  01, 06 & 10",Lieutenant Governor,,DEM,Katny C. Hochul,134
+Putnam,"PH  02, 03, 05 & 11",Lieutenant Governor,,DEM,Katny C. Hochul,229
+Putnam,PH  04 & 09,Lieutenant Governor,,DEM,Katny C. Hochul,79
+Putnam,PH  07 & 08,Lieutenant Governor,,DEM,Katny C. Hochul,122
+Putnam,"PV  01, 05 & 07",Lieutenant Governor,,DEM,Katny C. Hochul,101
+Putnam,"PV  02, 06 & 09",Lieutenant Governor,,DEM,Katny C. Hochul,105
+Putnam,PV  03 & 08,Lieutenant Governor,,DEM,Katny C. Hochul,119
+Putnam,PV  04 & 10,Lieutenant Governor,,DEM,Katny C. Hochul,55
+Putnam,"SE  01, 03, 07, 10 & 13",Lieutenant Governor,,DEM,Katny C. Hochul,179
+Putnam,SE  02 & 04,Lieutenant Governor,,DEM,Katny C. Hochul,73
+Putnam,"SE  05, 08, 11 & 14",Lieutenant Governor,,DEM,Katny C. Hochul,133
+Putnam,"SE  06, 09, 12 & 15",Lieutenant Governor,,DEM,Katny C. Hochul,148
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Lieutenant Governor,,DEM,Jumaane Williams,53
+Putnam,CA  02 & 29,Lieutenant Governor,,DEM,Jumaane Williams,50
+Putnam,"CA  03, 12, 16, 19 & 27",Lieutenant Governor,,DEM,Jumaane Williams,97
+Putnam,"CA  04, 21 & 25",Lieutenant Governor,,DEM,Jumaane Williams,44
+Putnam,"CA  05, 26 & 28",Lieutenant Governor,,DEM,Jumaane Williams,34
+Putnam,"CA  06, 07, 15, 22 & 23",Lieutenant Governor,,DEM,Jumaane Williams,61
+Putnam,"CA  08, 14 & 20",Lieutenant Governor,,DEM,Jumaane Williams,59
+Putnam,"CA  09, 17 & 18",Lieutenant Governor,,DEM,Jumaane Williams,44
+Putnam,KE  01 & 08,Lieutenant Governor,,DEM,Jumaane Williams,72
+Putnam,"KE  02, 04, 06, 10 & 12",Lieutenant Governor,,DEM,Jumaane Williams,77
+Putnam,"KE  03, 05, 07, 09 & 11",Lieutenant Governor,,DEM,Jumaane Williams,84
+Putnam,"PA  01, 05 & 06",Lieutenant Governor,,DEM,Jumaane Williams,70
+Putnam,"PA  02, 04 & 08",Lieutenant Governor,,DEM,Jumaane Williams,74
+Putnam,PA  03 & 07,Lieutenant Governor,,DEM,Jumaane Williams,61
+Putnam,"PH  01, 06 & 10",Lieutenant Governor,,DEM,Jumaane Williams,161
+Putnam,"PH  02, 03, 05 & 11",Lieutenant Governor,,DEM,Jumaane Williams,266
+Putnam,PH  04 & 09,Lieutenant Governor,,DEM,Jumaane Williams,60
+Putnam,PH  07 & 08,Lieutenant Governor,,DEM,Jumaane Williams,127
+Putnam,"PV  01, 05 & 07",Lieutenant Governor,,DEM,Jumaane Williams,81
+Putnam,"PV  02, 06 & 09",Lieutenant Governor,,DEM,Jumaane Williams,74
+Putnam,PV  03 & 08,Lieutenant Governor,,DEM,Jumaane Williams,85
+Putnam,PV  04 & 10,Lieutenant Governor,,DEM,Jumaane Williams,55
+Putnam,"SE  01, 03, 07, 10 & 13",Lieutenant Governor,,DEM,Jumaane Williams,67
+Putnam,SE  02 & 04,Lieutenant Governor,,DEM,Jumaane Williams,42
+Putnam,"SE  05, 08, 11 & 14",Lieutenant Governor,,DEM,Jumaane Williams,110
+Putnam,"SE  06, 09, 12 & 15",Lieutenant Governor,,DEM,Jumaane Williams,69
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Lieutenant Governor,,DEM,Write in,0
+Putnam,CA  02 & 29,Lieutenant Governor,,DEM,Write in,0
+Putnam,"CA  03, 12, 16, 19 & 27",Lieutenant Governor,,DEM,Write in,0
+Putnam,"CA  04, 21 & 25",Lieutenant Governor,,DEM,Write in,0
+Putnam,"CA  05, 26 & 28",Lieutenant Governor,,DEM,Write in,0
+Putnam,"CA  06, 07, 15, 22 & 23",Lieutenant Governor,,DEM,Write in,0
+Putnam,"CA  08, 14 & 20",Lieutenant Governor,,DEM,Write in,0
+Putnam,"CA  09, 17 & 18",Lieutenant Governor,,DEM,Write in,1
+Putnam,KE  01 & 08,Lieutenant Governor,,DEM,Write in,1
+Putnam,"KE  02, 04, 06, 10 & 12",Lieutenant Governor,,DEM,Write in,0
+Putnam,"KE  03, 05, 07, 09 & 11",Lieutenant Governor,,DEM,Write in,0
+Putnam,"PA  01, 05 & 06",Lieutenant Governor,,DEM,Write in,0
+Putnam,"PA  02, 04 & 08",Lieutenant Governor,,DEM,Write in,0
+Putnam,PA  03 & 07,Lieutenant Governor,,DEM,Write in,2
+Putnam,"PH  01, 06 & 10",Lieutenant Governor,,DEM,Write in,1
+Putnam,"PH  02, 03, 05 & 11",Lieutenant Governor,,DEM,Write in,4
+Putnam,PH  04 & 09,Lieutenant Governor,,DEM,Write in,0
+Putnam,PH  07 & 08,Lieutenant Governor,,DEM,Write in,0
+Putnam,"PV  01, 05 & 07",Lieutenant Governor,,DEM,Write in,0
+Putnam,"PV  02, 06 & 09",Lieutenant Governor,,DEM,Write in,1
+Putnam,PV  03 & 08,Lieutenant Governor,,DEM,Write in,2
+Putnam,PV  04 & 10,Lieutenant Governor,,DEM,Write in,2
+Putnam,"SE  01, 03, 07, 10 & 13",Lieutenant Governor,,DEM,Write in,1
+Putnam,SE  02 & 04,Lieutenant Governor,,DEM,Write in,0
+Putnam,"SE  05, 08, 11 & 14",Lieutenant Governor,,DEM,Write in,0
+Putnam,"SE  06, 09, 12 & 15",Lieutenant Governor,,DEM,Write in,0
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Lieutenant Governor,,DEM,Under/Over Votes,-20
+Putnam,CA  02 & 29,Lieutenant Governor,,DEM,Under/Over Votes,-11
+Putnam,"CA  03, 12, 16, 19 & 27",Lieutenant Governor,,DEM,Under/Over Votes,-28
+Putnam,"CA  04, 21 & 25",Lieutenant Governor,,DEM,Under/Over Votes,-18
+Putnam,"CA  05, 26 & 28",Lieutenant Governor,,DEM,Under/Over Votes,-14
+Putnam,"CA  06, 07, 15, 22 & 23",Lieutenant Governor,,DEM,Under/Over Votes,-32
+Putnam,"CA  08, 14 & 20",Lieutenant Governor,,DEM,Under/Over Votes,-10
+Putnam,"CA  09, 17 & 18",Lieutenant Governor,,DEM,Under/Over Votes,-17
+Putnam,KE  01 & 08,Lieutenant Governor,,DEM,Under/Over Votes,-28
+Putnam,"KE  02, 04, 06, 10 & 12",Lieutenant Governor,,DEM,Under/Over Votes,-31
+Putnam,"KE  03, 05, 07, 09 & 11",Lieutenant Governor,,DEM,Under/Over Votes,-25
+Putnam,"PA  01, 05 & 06",Lieutenant Governor,,DEM,Under/Over Votes,-19
+Putnam,"PA  02, 04 & 08",Lieutenant Governor,,DEM,Under/Over Votes,-23
+Putnam,PA  03 & 07,Lieutenant Governor,,DEM,Under/Over Votes,-15
+Putnam,"PH  01, 06 & 10",Lieutenant Governor,,DEM,Under/Over Votes,-42
+Putnam,"PH  02, 03, 05 & 11",Lieutenant Governor,,DEM,Under/Over Votes,-68
+Putnam,PH  04 & 09,Lieutenant Governor,,DEM,Under/Over Votes,-11
+Putnam,PH  07 & 08,Lieutenant Governor,,DEM,Under/Over Votes,-37
+Putnam,"PV  01, 05 & 07",Lieutenant Governor,,DEM,Under/Over Votes,-16
+Putnam,"PV  02, 06 & 09",Lieutenant Governor,,DEM,Under/Over Votes,-29
+Putnam,PV  03 & 08,Lieutenant Governor,,DEM,Under/Over Votes,-23
+Putnam,PV  04 & 10,Lieutenant Governor,,DEM,Under/Over Votes,-12
+Putnam,"SE  01, 03, 07, 10 & 13",Lieutenant Governor,,DEM,Under/Over Votes,-35
+Putnam,SE  02 & 04,Lieutenant Governor,,DEM,Under/Over Votes,-25
+Putnam,"SE  05, 08, 11 & 14",Lieutenant Governor,,DEM,Under/Over Votes,-23
+Putnam,"SE  06, 09, 12 & 15",Lieutenant Governor,,DEM,Under/Over Votes,-27
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,DEM,Machine,184
+Putnam,CA  02 & 29,Attorney General,,DEM,Machine,164
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,DEM,Machine,263
+Putnam,"CA  04, 21 & 25",Attorney General,,DEM,Machine,122
+Putnam,"CA  05, 26 & 28",Attorney General,,DEM,Machine,114
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,DEM,Machine,197
+Putnam,"CA  08, 14 & 20",Attorney General,,DEM,Machine,154
+Putnam,"CA  09, 17 & 18",Attorney General,,DEM,Machine,135
+Putnam,KE  01 & 08,Attorney General,,DEM,Machine,181
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,DEM,Machine,233
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,DEM,Machine,232
+Putnam,"PA  01, 05 & 06",Attorney General,,DEM,Machine,178
+Putnam,"PA  02, 04 & 08",Attorney General,,DEM,Machine,225
+Putnam,PA  03 & 07,Attorney General,,DEM,Machine,162
+Putnam,"PH  01, 06 & 10",Attorney General,,DEM,Machine,308
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,DEM,Machine,539
+Putnam,PH  04 & 09,Attorney General,,DEM,Machine,149
+Putnam,PH  07 & 08,Attorney General,,DEM,Machine,261
+Putnam,"PV  01, 05 & 07",Attorney General,,DEM,Machine,174
+Putnam,"PV  02, 06 & 09",Attorney General,,DEM,Machine,203
+Putnam,PV  03 & 08,Attorney General,,DEM,Machine,220
+Putnam,PV  04 & 10,Attorney General,,DEM,Machine,119
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,DEM,Machine,264
+Putnam,SE  02 & 04,Attorney General,,DEM,Machine,119
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,DEM,Machine,249
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,DEM,Machine,214
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,DEM,Absentee,11
+Putnam,CA  02 & 29,Attorney General,,DEM,Absentee,10
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,DEM,Absentee,20
+Putnam,"CA  04, 21 & 25",Attorney General,,DEM,Absentee,1
+Putnam,"CA  05, 26 & 28",Attorney General,,DEM,Absentee,2
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,DEM,Absentee,12
+Putnam,"CA  08, 14 & 20",Attorney General,,DEM,Absentee,11
+Putnam,"CA  09, 17 & 18",Attorney General,,DEM,Absentee,1
+Putnam,KE  01 & 08,Attorney General,,DEM,Absentee,22
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,DEM,Absentee,13
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,DEM,Absentee,21
+Putnam,"PA  01, 05 & 06",Attorney General,,DEM,Absentee,7
+Putnam,"PA  02, 04 & 08",Attorney General,,DEM,Absentee,8
+Putnam,PA  03 & 07,Attorney General,,DEM,Absentee,4
+Putnam,"PH  01, 06 & 10",Attorney General,,DEM,Absentee,30
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,DEM,Absentee,28
+Putnam,PH  04 & 09,Attorney General,,DEM,Absentee,1
+Putnam,PH  07 & 08,Attorney General,,DEM,Absentee,25
+Putnam,"PV  01, 05 & 07",Attorney General,,DEM,Absentee,24
+Putnam,"PV  02, 06 & 09",Attorney General,,DEM,Absentee,6
+Putnam,PV  03 & 08,Attorney General,,DEM,Absentee,9
+Putnam,PV  04 & 10,Attorney General,,DEM,Absentee,5
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,DEM,Absentee,18
+Putnam,SE  02 & 04,Attorney General,,DEM,Absentee,21
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,DEM,Absentee,17
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,DEM,Absentee,30
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,DEM,Turnout,195
+Putnam,CA  02 & 29,Attorney General,,DEM,Turnout,174
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,DEM,Turnout,283
+Putnam,"CA  04, 21 & 25",Attorney General,,DEM,Turnout,123
+Putnam,"CA  05, 26 & 28",Attorney General,,DEM,Turnout,116
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,DEM,Turnout,209
+Putnam,"CA  08, 14 & 20",Attorney General,,DEM,Turnout,165
+Putnam,"CA  09, 17 & 18",Attorney General,,DEM,Turnout,136
+Putnam,KE  01 & 08,Attorney General,,DEM,Turnout,203
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,DEM,Turnout,246
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,DEM,Turnout,253
+Putnam,"PA  01, 05 & 06",Attorney General,,DEM,Turnout,185
+Putnam,"PA  02, 04 & 08",Attorney General,,DEM,Turnout,233
+Putnam,PA  03 & 07,Attorney General,,DEM,Turnout,166
+Putnam,"PH  01, 06 & 10",Attorney General,,DEM,Turnout,338
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,DEM,Turnout,567
+Putnam,PH  04 & 09,Attorney General,,DEM,Turnout,150
+Putnam,PH  07 & 08,Attorney General,,DEM,Turnout,286
+Putnam,"PV  01, 05 & 07",Attorney General,,DEM,Turnout,198
+Putnam,"PV  02, 06 & 09",Attorney General,,DEM,Turnout,209
+Putnam,PV  03 & 08,Attorney General,,DEM,Turnout,229
+Putnam,PV  04 & 10,Attorney General,,DEM,Turnout,124
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,DEM,Turnout,282
+Putnam,SE  02 & 04,Attorney General,,DEM,Turnout,140
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,DEM,Turnout,266
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,DEM,Turnout,244
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,DEM,Voter Registration,892
+Putnam,CA  02 & 29,Attorney General,,DEM,Voter Registration,632
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,DEM,Voter Registration,940
+Putnam,"CA  04, 21 & 25",Attorney General,,DEM,Voter Registration,496
+Putnam,"CA  05, 26 & 28",Attorney General,,DEM,Voter Registration,516
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,DEM,Voter Registration,920
+Putnam,"CA  08, 14 & 20",Attorney General,,DEM,Voter Registration,604
+Putnam,"CA  09, 17 & 18",Attorney General,,DEM,Voter Registration,490
+Putnam,KE  01 & 08,Attorney General,,DEM,Voter Registration,567
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,DEM,Voter Registration,921
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,DEM,Voter Registration,1046
+Putnam,"PA  01, 05 & 06",Attorney General,,DEM,Voter Registration,568
+Putnam,"PA  02, 04 & 08",Attorney General,,DEM,Voter Registration,769
+Putnam,PA  03 & 07,Attorney General,,DEM,Voter Registration,561
+Putnam,"PH  01, 06 & 10",Attorney General,,DEM,Voter Registration,753
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,DEM,Voter Registration,1077
+Putnam,PH  04 & 09,Attorney General,,DEM,Voter Registration,440
+Putnam,PH  07 & 08,Attorney General,,DEM,Voter Registration,663
+Putnam,"PV  01, 05 & 07",Attorney General,,DEM,Voter Registration,746
+Putnam,"PV  02, 06 & 09",Attorney General,,DEM,Voter Registration,667
+Putnam,PV  03 & 08,Attorney General,,DEM,Voter Registration,633
+Putnam,PV  04 & 10,Attorney General,,DEM,Voter Registration,371
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,DEM,Voter Registration,1037
+Putnam,SE  02 & 04,Attorney General,,DEM,Voter Registration,430
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,DEM,Voter Registration,916
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,DEM,Voter Registration,774
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,DEM,Sean Patrick Maloney,88
+Putnam,CA  02 & 29,Attorney General,,DEM,Sean Patrick Maloney,83
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,DEM,Sean Patrick Maloney,121
+Putnam,"CA  04, 21 & 25",Attorney General,,DEM,Sean Patrick Maloney,65
+Putnam,"CA  05, 26 & 28",Attorney General,,DEM,Sean Patrick Maloney,56
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,DEM,Sean Patrick Maloney,88
+Putnam,"CA  08, 14 & 20",Attorney General,,DEM,Sean Patrick Maloney,84
+Putnam,"CA  09, 17 & 18",Attorney General,,DEM,Sean Patrick Maloney,57
+Putnam,KE  01 & 08,Attorney General,,DEM,Sean Patrick Maloney,83
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,DEM,Sean Patrick Maloney,107
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,DEM,Sean Patrick Maloney,121
+Putnam,"PA  01, 05 & 06",Attorney General,,DEM,Sean Patrick Maloney,82
+Putnam,"PA  02, 04 & 08",Attorney General,,DEM,Sean Patrick Maloney,108
+Putnam,PA  03 & 07,Attorney General,,DEM,Sean Patrick Maloney,62
+Putnam,"PH  01, 06 & 10",Attorney General,,DEM,Sean Patrick Maloney,99
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,DEM,Sean Patrick Maloney,192
+Putnam,PH  04 & 09,Attorney General,,DEM,Sean Patrick Maloney,65
+Putnam,PH  07 & 08,Attorney General,,DEM,Sean Patrick Maloney,111
+Putnam,"PV  01, 05 & 07",Attorney General,,DEM,Sean Patrick Maloney,77
+Putnam,"PV  02, 06 & 09",Attorney General,,DEM,Sean Patrick Maloney,81
+Putnam,PV  03 & 08,Attorney General,,DEM,Sean Patrick Maloney,94
+Putnam,PV  04 & 10,Attorney General,,DEM,Sean Patrick Maloney,43
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,DEM,Sean Patrick Maloney,131
+Putnam,SE  02 & 04,Attorney General,,DEM,Sean Patrick Maloney,69
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,DEM,Sean Patrick Maloney,117
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,DEM,Sean Patrick Maloney,103
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,DEM,Letitia A. James,39
+Putnam,CA  02 & 29,Attorney General,,DEM,Letitia A. James,42
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,DEM,Letitia A. James,58
+Putnam,"CA  04, 21 & 25",Attorney General,,DEM,Letitia A. James,31
+Putnam,"CA  05, 26 & 28",Attorney General,,DEM,Letitia A. James,21
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,DEM,Letitia A. James,45
+Putnam,"CA  08, 14 & 20",Attorney General,,DEM,Letitia A. James,26
+Putnam,"CA  09, 17 & 18",Attorney General,,DEM,Letitia A. James,26
+Putnam,KE  01 & 08,Attorney General,,DEM,Letitia A. James,33
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,DEM,Letitia A. James,55
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,DEM,Letitia A. James,50
+Putnam,"PA  01, 05 & 06",Attorney General,,DEM,Letitia A. James,37
+Putnam,"PA  02, 04 & 08",Attorney General,,DEM,Letitia A. James,55
+Putnam,PA  03 & 07,Attorney General,,DEM,Letitia A. James,41
+Putnam,"PH  01, 06 & 10",Attorney General,,DEM,Letitia A. James,37
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,DEM,Letitia A. James,47
+Putnam,PH  04 & 09,Attorney General,,DEM,Letitia A. James,18
+Putnam,PH  07 & 08,Attorney General,,DEM,Letitia A. James,30
+Putnam,"PV  01, 05 & 07",Attorney General,,DEM,Letitia A. James,25
+Putnam,"PV  02, 06 & 09",Attorney General,,DEM,Letitia A. James,39
+Putnam,PV  03 & 08,Attorney General,,DEM,Letitia A. James,36
+Putnam,PV  04 & 10,Attorney General,,DEM,Letitia A. James,25
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,DEM,Letitia A. James,52
+Putnam,SE  02 & 04,Attorney General,,DEM,Letitia A. James,18
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,DEM,Letitia A. James,32
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,DEM,Letitia A. James,47
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,DEM,Leecia R. Eve,5
+Putnam,CA  02 & 29,Attorney General,,DEM,Leecia R. Eve,3
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,DEM,Leecia R. Eve,5
+Putnam,"CA  04, 21 & 25",Attorney General,,DEM,Leecia R. Eve,3
+Putnam,"CA  05, 26 & 28",Attorney General,,DEM,Leecia R. Eve,1
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,DEM,Leecia R. Eve,2
+Putnam,"CA  08, 14 & 20",Attorney General,,DEM,Leecia R. Eve,3
+Putnam,"CA  09, 17 & 18",Attorney General,,DEM,Leecia R. Eve,1
+Putnam,KE  01 & 08,Attorney General,,DEM,Leecia R. Eve,1
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,DEM,Leecia R. Eve,8
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,DEM,Leecia R. Eve,4
+Putnam,"PA  01, 05 & 06",Attorney General,,DEM,Leecia R. Eve,6
+Putnam,"PA  02, 04 & 08",Attorney General,,DEM,Leecia R. Eve,5
+Putnam,PA  03 & 07,Attorney General,,DEM,Leecia R. Eve,4
+Putnam,"PH  01, 06 & 10",Attorney General,,DEM,Leecia R. Eve,2
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,DEM,Leecia R. Eve,8
+Putnam,PH  04 & 09,Attorney General,,DEM,Leecia R. Eve,4
+Putnam,PH  07 & 08,Attorney General,,DEM,Leecia R. Eve,4
+Putnam,"PV  01, 05 & 07",Attorney General,,DEM,Leecia R. Eve,3
+Putnam,"PV  02, 06 & 09",Attorney General,,DEM,Leecia R. Eve,5
+Putnam,PV  03 & 08,Attorney General,,DEM,Leecia R. Eve,8
+Putnam,PV  04 & 10,Attorney General,,DEM,Leecia R. Eve,1
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,DEM,Leecia R. Eve,9
+Putnam,SE  02 & 04,Attorney General,,DEM,Leecia R. Eve,3
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,DEM,Leecia R. Eve,5
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,DEM,Leecia R. Eve,3
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,DEM,Zephyr Teachout,60
+Putnam,CA  02 & 29,Attorney General,,DEM,Zephyr Teachout,42
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,DEM,Zephyr Teachout,93
+Putnam,"CA  04, 21 & 25",Attorney General,,DEM,Zephyr Teachout,24
+Putnam,"CA  05, 26 & 28",Attorney General,,DEM,Zephyr Teachout,36
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,DEM,Zephyr Teachout,70
+Putnam,"CA  08, 14 & 20",Attorney General,,DEM,Zephyr Teachout,50
+Putnam,"CA  09, 17 & 18",Attorney General,,DEM,Zephyr Teachout,49
+Putnam,KE  01 & 08,Attorney General,,DEM,Zephyr Teachout,80
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,DEM,Zephyr Teachout,69
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,DEM,Zephyr Teachout,71
+Putnam,"PA  01, 05 & 06",Attorney General,,DEM,Zephyr Teachout,54
+Putnam,"PA  02, 04 & 08",Attorney General,,DEM,Zephyr Teachout,59
+Putnam,PA  03 & 07,Attorney General,,DEM,Zephyr Teachout,57
+Putnam,"PH  01, 06 & 10",Attorney General,,DEM,Zephyr Teachout,196
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,DEM,Zephyr Teachout,315
+Putnam,PH  04 & 09,Attorney General,,DEM,Zephyr Teachout,62
+Putnam,PH  07 & 08,Attorney General,,DEM,Zephyr Teachout,140
+Putnam,"PV  01, 05 & 07",Attorney General,,DEM,Zephyr Teachout,91
+Putnam,"PV  02, 06 & 09",Attorney General,,DEM,Zephyr Teachout,76
+Putnam,PV  03 & 08,Attorney General,,DEM,Zephyr Teachout,87
+Putnam,PV  04 & 10,Attorney General,,DEM,Zephyr Teachout,50
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,DEM,Zephyr Teachout,78
+Putnam,SE  02 & 04,Attorney General,,DEM,Zephyr Teachout,43
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,DEM,Zephyr Teachout,108
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,DEM,Zephyr Teachout,83
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,DEM,Write in,0
+Putnam,CA  02 & 29,Attorney General,,DEM,Write in,0
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,DEM,Write in,1
+Putnam,"CA  04, 21 & 25",Attorney General,,DEM,Write in,0
+Putnam,"CA  05, 26 & 28",Attorney General,,DEM,Write in,0
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,DEM,Write in,0
+Putnam,"CA  08, 14 & 20",Attorney General,,DEM,Write in,0
+Putnam,"CA  09, 17 & 18",Attorney General,,DEM,Write in,1
+Putnam,KE  01 & 08,Attorney General,,DEM,Write in,1
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,DEM,Write in,0
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,DEM,Write in,0
+Putnam,"PA  01, 05 & 06",Attorney General,,DEM,Write in,0
+Putnam,"PA  02, 04 & 08",Attorney General,,DEM,Write in,1
+Putnam,PA  03 & 07,Attorney General,,DEM,Write in,0
+Putnam,"PH  01, 06 & 10",Attorney General,,DEM,Write in,2
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,DEM,Write in,0
+Putnam,PH  04 & 09,Attorney General,,DEM,Write in,0
+Putnam,PH  07 & 08,Attorney General,,DEM,Write in,0
+Putnam,"PV  01, 05 & 07",Attorney General,,DEM,Write in,0
+Putnam,"PV  02, 06 & 09",Attorney General,,DEM,Write in,0
+Putnam,PV  03 & 08,Attorney General,,DEM,Write in,1
+Putnam,PV  04 & 10,Attorney General,,DEM,Write in,4
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,DEM,Write in,2
+Putnam,SE  02 & 04,Attorney General,,DEM,Write in,1
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,DEM,Write in,0
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,DEM,Write in,0
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,DEM,Under/Over Votes,-3
+Putnam,CA  02 & 29,Attorney General,,DEM,Under/Over Votes,-4
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,DEM,Under/Over Votes,-5
+Putnam,"CA  04, 21 & 25",Attorney General,,DEM,Under/Over Votes,0
+Putnam,"CA  05, 26 & 28",Attorney General,,DEM,Under/Over Votes,-2
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,DEM,Under/Over Votes,-4
+Putnam,"CA  08, 14 & 20",Attorney General,,DEM,Under/Over Votes,-2
+Putnam,"CA  09, 17 & 18",Attorney General,,DEM,Under/Over Votes,-2
+Putnam,KE  01 & 08,Attorney General,,DEM,Under/Over Votes,-5
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,DEM,Under/Over Votes,-7
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,DEM,Under/Over Votes,-7
+Putnam,"PA  01, 05 & 06",Attorney General,,DEM,Under/Over Votes,-6
+Putnam,"PA  02, 04 & 08",Attorney General,,DEM,Under/Over Votes,-5
+Putnam,PA  03 & 07,Attorney General,,DEM,Under/Over Votes,-2
+Putnam,"PH  01, 06 & 10",Attorney General,,DEM,Under/Over Votes,-2
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,DEM,Under/Over Votes,-5
+Putnam,PH  04 & 09,Attorney General,,DEM,Under/Over Votes,-1
+Putnam,PH  07 & 08,Attorney General,,DEM,Under/Over Votes,-1
+Putnam,"PV  01, 05 & 07",Attorney General,,DEM,Under/Over Votes,-2
+Putnam,"PV  02, 06 & 09",Attorney General,,DEM,Under/Over Votes,-8
+Putnam,PV  03 & 08,Attorney General,,DEM,Under/Over Votes,-3
+Putnam,PV  04 & 10,Attorney General,,DEM,Under/Over Votes,-1
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,DEM,Under/Over Votes,-10
+Putnam,SE  02 & 04,Attorney General,,DEM,Under/Over Votes,-6
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,DEM,Under/Over Votes,-4
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,DEM,Under/Over Votes,-8
+Putnam,"CA  01, 10, 11, 13, 24 & 30",State Senate,40,DEM,Machine,184
+Putnam,CA  02 & 29,State Senate,40,DEM,Machine,164
+Putnam,"CA  03, 12, 16, 19 & 27",State Senate,40,DEM,Machine,263
+Putnam,"CA  04, 21 & 25",State Senate,40,DEM,Machine,122
+Putnam,"CA  05, 26 & 28",State Senate,40,DEM,Machine,114
+Putnam,"CA  06, 07, 15, 22 & 23",State Senate,40,DEM,Machine,197
+Putnam,"CA  08, 14 & 20",State Senate,40,DEM,Machine,154
+Putnam,"CA  09, 17 & 18",State Senate,40,DEM,Machine,135
+Putnam,"PA  01, 05 & 06",State Senate,40,DEM,Machine,178
+Putnam,"PA  02, 04 & 08",State Senate,40,DEM,Machine,225
+Putnam,PA  03 & 07,State Senate,40,DEM,Machine,162
+Putnam,"SE  01, 03, 07, 10 & 13",State Senate,40,DEM,Machine,264
+Putnam,SE  02 & 04,State Senate,40,DEM,Machine,119
+Putnam,"SE  05, 08, 11 & 14",State Senate,40,DEM,Machine,249
+Putnam,"SE  06, 09, 12 & 15",State Senate,40,DEM,Machine,214
+Putnam,"CA  01, 10, 11, 13, 24 & 30",State Senate,40,DEM,Absentee,11
+Putnam,CA  02 & 29,State Senate,40,DEM,Absentee,10
+Putnam,"CA  03, 12, 16, 19 & 27",State Senate,40,DEM,Absentee,20
+Putnam,"CA  04, 21 & 25",State Senate,40,DEM,Absentee,1
+Putnam,"CA  05, 26 & 28",State Senate,40,DEM,Absentee,2
+Putnam,"CA  06, 07, 15, 22 & 23",State Senate,40,DEM,Absentee,12
+Putnam,"CA  08, 14 & 20",State Senate,40,DEM,Absentee,11
+Putnam,"CA  09, 17 & 18",State Senate,40,DEM,Absentee,1
+Putnam,"PA  01, 05 & 06",State Senate,40,DEM,Absentee,7
+Putnam,"PA  02, 04 & 08",State Senate,40,DEM,Absentee,8
+Putnam,PA  03 & 07,State Senate,40,DEM,Absentee,4
+Putnam,"SE  01, 03, 07, 10 & 13",State Senate,40,DEM,Absentee,18
+Putnam,SE  02 & 04,State Senate,40,DEM,Absentee,21
+Putnam,"SE  05, 08, 11 & 14",State Senate,40,DEM,Absentee,17
+Putnam,"SE  06, 09, 12 & 15",State Senate,40,DEM,Absentee,30
+Putnam,"CA  01, 10, 11, 13, 24 & 30",State Senate,40,DEM,Turnout,195
+Putnam,CA  02 & 29,State Senate,40,DEM,Turnout,174
+Putnam,"CA  03, 12, 16, 19 & 27",State Senate,40,DEM,Turnout,283
+Putnam,"CA  04, 21 & 25",State Senate,40,DEM,Turnout,123
+Putnam,"CA  05, 26 & 28",State Senate,40,DEM,Turnout,116
+Putnam,"CA  06, 07, 15, 22 & 23",State Senate,40,DEM,Turnout,209
+Putnam,"CA  08, 14 & 20",State Senate,40,DEM,Turnout,165
+Putnam,"CA  09, 17 & 18",State Senate,40,DEM,Turnout,136
+Putnam,"PA  01, 05 & 06",State Senate,40,DEM,Turnout,185
+Putnam,"PA  02, 04 & 08",State Senate,40,DEM,Turnout,233
+Putnam,PA  03 & 07,State Senate,40,DEM,Turnout,166
+Putnam,"SE  01, 03, 07, 10 & 13",State Senate,40,DEM,Turnout,282
+Putnam,SE  02 & 04,State Senate,40,DEM,Turnout,140
+Putnam,"SE  05, 08, 11 & 14",State Senate,40,DEM,Turnout,266
+Putnam,"SE  06, 09, 12 & 15",State Senate,40,DEM,Turnout,244
+Putnam,"CA  01, 10, 11, 13, 24 & 30",State Senate,40,DEM,Voter Registration,892
+Putnam,CA  02 & 29,State Senate,40,DEM,Voter Registration,632
+Putnam,"CA  03, 12, 16, 19 & 27",State Senate,40,DEM,Voter Registration,940
+Putnam,"CA  04, 21 & 25",State Senate,40,DEM,Voter Registration,496
+Putnam,"CA  05, 26 & 28",State Senate,40,DEM,Voter Registration,516
+Putnam,"CA  06, 07, 15, 22 & 23",State Senate,40,DEM,Voter Registration,920
+Putnam,"CA  08, 14 & 20",State Senate,40,DEM,Voter Registration,604
+Putnam,"CA  09, 17 & 18",State Senate,40,DEM,Voter Registration,490
+Putnam,"PA  01, 05 & 06",State Senate,40,DEM,Voter Registration,568
+Putnam,"PA  02, 04 & 08",State Senate,40,DEM,Voter Registration,769
+Putnam,PA  03 & 07,State Senate,40,DEM,Voter Registration,561
+Putnam,"SE  01, 03, 07, 10 & 13",State Senate,40,DEM,Voter Registration,1037
+Putnam,SE  02 & 04,State Senate,40,DEM,Voter Registration,430
+Putnam,"SE  05, 08, 11 & 14",State Senate,40,DEM,Voter Registration,916
+Putnam,"SE  06, 09, 12 & 15",State Senate,40,DEM,Voter Registration,774
+Putnam,"CA  01, 10, 11, 13, 24 & 30",State Senate,40,DEM,Peter B. Harckham,95
+Putnam,CA  02 & 29,State Senate,40,DEM,Peter B. Harckham,72
+Putnam,"CA  03, 12, 16, 19 & 27",State Senate,40,DEM,Peter B. Harckham,115
+Putnam,"CA  04, 21 & 25",State Senate,40,DEM,Peter B. Harckham,52
+Putnam,"CA  05, 26 & 28",State Senate,40,DEM,Peter B. Harckham,47
+Putnam,"CA  06, 07, 15, 22 & 23",State Senate,40,DEM,Peter B. Harckham,102
+Putnam,"CA  08, 14 & 20",State Senate,40,DEM,Peter B. Harckham,68
+Putnam,"CA  09, 17 & 18",State Senate,40,DEM,Peter B. Harckham,55
+Putnam,"PA  01, 05 & 06",State Senate,40,DEM,Peter B. Harckham,98
+Putnam,"PA  02, 04 & 08",State Senate,40,DEM,Peter B. Harckham,122
+Putnam,PA  03 & 07,State Senate,40,DEM,Peter B. Harckham,70
+Putnam,"SE  01, 03, 07, 10 & 13",State Senate,40,DEM,Peter B. Harckham,124
+Putnam,SE  02 & 04,State Senate,40,DEM,Peter B. Harckham,56
+Putnam,"SE  05, 08, 11 & 14",State Senate,40,DEM,Peter B. Harckham,114
+Putnam,"SE  06, 09, 12 & 15",State Senate,40,DEM,Peter B. Harckham,104
+Putnam,"CA  01, 10, 11, 13, 24 & 30",State Senate,40,DEM,Robert T. Kesten,79
+Putnam,CA  02 & 29,State Senate,40,DEM,Robert T. Kesten,68
+Putnam,"CA  03, 12, 16, 19 & 27",State Senate,40,DEM,Robert T. Kesten,134
+Putnam,"CA  04, 21 & 25",State Senate,40,DEM,Robert T. Kesten,50
+Putnam,"CA  05, 26 & 28",State Senate,40,DEM,Robert T. Kesten,61
+Putnam,"CA  06, 07, 15, 22 & 23",State Senate,40,DEM,Robert T. Kesten,68
+Putnam,"CA  08, 14 & 20",State Senate,40,DEM,Robert T. Kesten,78
+Putnam,"CA  09, 17 & 18",State Senate,40,DEM,Robert T. Kesten,61
+Putnam,"PA  01, 05 & 06",State Senate,40,DEM,Robert T. Kesten,57
+Putnam,"PA  02, 04 & 08",State Senate,40,DEM,Robert T. Kesten,72
+Putnam,PA  03 & 07,State Senate,40,DEM,Robert T. Kesten,71
+Putnam,"SE  01, 03, 07, 10 & 13",State Senate,40,DEM,Robert T. Kesten,121
+Putnam,SE  02 & 04,State Senate,40,DEM,Robert T. Kesten,59
+Putnam,"SE  05, 08, 11 & 14",State Senate,40,DEM,Robert T. Kesten,116
+Putnam,"SE  06, 09, 12 & 15",State Senate,40,DEM,Robert T. Kesten,105
+Putnam,"CA  01, 10, 11, 13, 24 & 30",State Senate,40,DEM,Write in,0
+Putnam,CA  02 & 29,State Senate,40,DEM,Write in,3
+Putnam,"CA  03, 12, 16, 19 & 27",State Senate,40,DEM,Write in,1
+Putnam,"CA  04, 21 & 25",State Senate,40,DEM,Write in,0
+Putnam,"CA  05, 26 & 28",State Senate,40,DEM,Write in,0
+Putnam,"CA  06, 07, 15, 22 & 23",State Senate,40,DEM,Write in,0
+Putnam,"CA  08, 14 & 20",State Senate,40,DEM,Write in,1
+Putnam,"CA  09, 17 & 18",State Senate,40,DEM,Write in,0
+Putnam,"PA  01, 05 & 06",State Senate,40,DEM,Write in,2
+Putnam,"PA  02, 04 & 08",State Senate,40,DEM,Write in,0
+Putnam,PA  03 & 07,State Senate,40,DEM,Write in,0
+Putnam,"SE  01, 03, 07, 10 & 13",State Senate,40,DEM,Write in,2
+Putnam,SE  02 & 04,State Senate,40,DEM,Write in,0
+Putnam,"SE  05, 08, 11 & 14",State Senate,40,DEM,Write in,0
+Putnam,"SE  06, 09, 12 & 15",State Senate,40,DEM,Write in,0
+Putnam,"CA  01, 10, 11, 13, 24 & 30",State Senate,40,DEM,Under/Over Votes,-21
+Putnam,CA  02 & 29,State Senate,40,DEM,Under/Over Votes,-31
+Putnam,"CA  03, 12, 16, 19 & 27",State Senate,40,DEM,Under/Over Votes,-33
+Putnam,"CA  04, 21 & 25",State Senate,40,DEM,Under/Over Votes,-21
+Putnam,"CA  05, 26 & 28",State Senate,40,DEM,Under/Over Votes,-8
+Putnam,"CA  06, 07, 15, 22 & 23",State Senate,40,DEM,Under/Over Votes,-39
+Putnam,"CA  08, 14 & 20",State Senate,40,DEM,Under/Over Votes,-18
+Putnam,"CA  09, 17 & 18",State Senate,40,DEM,Under/Over Votes,-20
+Putnam,"PA  01, 05 & 06",State Senate,40,DEM,Under/Over Votes,-28
+Putnam,"PA  02, 04 & 08",State Senate,40,DEM,Under/Over Votes,-39
+Putnam,PA  03 & 07,State Senate,40,DEM,Under/Over Votes,-25
+Putnam,"SE  01, 03, 07, 10 & 13",State Senate,40,DEM,Under/Over Votes,-35
+Putnam,SE  02 & 04,State Senate,40,DEM,Under/Over Votes,-25
+Putnam,"SE  05, 08, 11 & 14",State Senate,40,DEM,Under/Over Votes,-36
+Putnam,"SE  06, 09, 12 & 15",State Senate,40,DEM,Under/Over Votes,-35
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,REF,Machine,2
+Putnam,CA  02 & 29,Attorney General,,REF,Machine,2
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,REF,Machine,3
+Putnam,"CA  04, 21 & 25",Attorney General,,REF,Machine,5
+Putnam,"CA  05, 26 & 28",Attorney General,,REF,Machine,2
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,REF,Machine,6
+Putnam,"CA  08, 14 & 20",Attorney General,,REF,Machine,2
+Putnam,"CA  09, 17 & 18",Attorney General,,REF,Machine,0
+Putnam,KE  01 & 08,Attorney General,,REF,Machine,11
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,REF,Machine,11
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,REF,Machine,12
+Putnam,"PA  01, 05 & 06",Attorney General,,REF,Machine,5
+Putnam,"PA  02, 04 & 08",Attorney General,,REF,Machine,1
+Putnam,PA  03 & 07,Attorney General,,REF,Machine,7
+Putnam,"PH  01, 06 & 10",Attorney General,,REF,Machine,5
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,REF,Machine,17
+Putnam,PH  04 & 09,Attorney General,,REF,Machine,3
+Putnam,PH  07 & 08,Attorney General,,REF,Machine,1
+Putnam,"PV  01, 05 & 07",Attorney General,,REF,Machine,4
+Putnam,"PV  02, 06 & 09",Attorney General,,REF,Machine,6
+Putnam,PV  03 & 08,Attorney General,,REF,Machine,7
+Putnam,PV  04 & 10,Attorney General,,REF,Machine,6
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,REF,Machine,3
+Putnam,SE  02 & 04,Attorney General,,REF,Machine,2
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,REF,Machine,4
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,REF,Machine,6
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,REF,Absentee,1
+Putnam,CA  02 & 29,Attorney General,,REF,Absentee,0
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,REF,Absentee,2
+Putnam,"CA  04, 21 & 25",Attorney General,,REF,Absentee,1
+Putnam,"CA  05, 26 & 28",Attorney General,,REF,Absentee,0
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,REF,Absentee,1
+Putnam,"CA  08, 14 & 20",Attorney General,,REF,Absentee,1
+Putnam,"CA  09, 17 & 18",Attorney General,,REF,Absentee,0
+Putnam,KE  01 & 08,Attorney General,,REF,Absentee,0
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,REF,Absentee,2
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,REF,Absentee,1
+Putnam,"PA  01, 05 & 06",Attorney General,,REF,Absentee,1
+Putnam,"PA  02, 04 & 08",Attorney General,,REF,Absentee,0
+Putnam,PA  03 & 07,Attorney General,,REF,Absentee,1
+Putnam,"PH  01, 06 & 10",Attorney General,,REF,Absentee,0
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,REF,Absentee,1
+Putnam,PH  04 & 09,Attorney General,,REF,Absentee,0
+Putnam,PH  07 & 08,Attorney General,,REF,Absentee,0
+Putnam,"PV  01, 05 & 07",Attorney General,,REF,Absentee,1
+Putnam,"PV  02, 06 & 09",Attorney General,,REF,Absentee,0
+Putnam,PV  03 & 08,Attorney General,,REF,Absentee,0
+Putnam,PV  04 & 10,Attorney General,,REF,Absentee,1
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,REF,Absentee,1
+Putnam,SE  02 & 04,Attorney General,,REF,Absentee,1
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,REF,Absentee,0
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,REF,Absentee,0
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,REF,Turnout,3
+Putnam,CA  02 & 29,Attorney General,,REF,Turnout,2
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,REF,Turnout,5
+Putnam,"CA  04, 21 & 25",Attorney General,,REF,Turnout,6
+Putnam,"CA  05, 26 & 28",Attorney General,,REF,Turnout,2
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,REF,Turnout,7
+Putnam,"CA  08, 14 & 20",Attorney General,,REF,Turnout,3
+Putnam,"CA  09, 17 & 18",Attorney General,,REF,Turnout,0
+Putnam,KE  01 & 08,Attorney General,,REF,Turnout,11
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,REF,Turnout,13
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,REF,Turnout,13
+Putnam,"PA  01, 05 & 06",Attorney General,,REF,Turnout,6
+Putnam,"PA  02, 04 & 08",Attorney General,,REF,Turnout,1
+Putnam,PA  03 & 07,Attorney General,,REF,Turnout,8
+Putnam,"PH  01, 06 & 10",Attorney General,,REF,Turnout,5
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,REF,Turnout,18
+Putnam,PH  04 & 09,Attorney General,,REF,Turnout,3
+Putnam,PH  07 & 08,Attorney General,,REF,Turnout,1
+Putnam,"PV  01, 05 & 07",Attorney General,,REF,Turnout,5
+Putnam,"PV  02, 06 & 09",Attorney General,,REF,Turnout,6
+Putnam,PV  03 & 08,Attorney General,,REF,Turnout,7
+Putnam,PV  04 & 10,Attorney General,,REF,Turnout,7
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,REF,Turnout,4
+Putnam,SE  02 & 04,Attorney General,,REF,Turnout,3
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,REF,Turnout,4
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,REF,Turnout,6
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,REF,Voter Registration,947
+Putnam,CA  02 & 29,Attorney General,,REF,Voter Registration,535
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,REF,Voter Registration,954
+Putnam,"CA  04, 21 & 25",Attorney General,,REF,Voter Registration,517
+Putnam,"CA  05, 26 & 28",Attorney General,,REF,Voter Registration,507
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,REF,Voter Registration,996
+Putnam,"CA  08, 14 & 20",Attorney General,,REF,Voter Registration,631
+Putnam,"CA  09, 17 & 18",Attorney General,,REF,Voter Registration,477
+Putnam,KE  01 & 08,Attorney General,,REF,Voter Registration,410
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,REF,Voter Registration,754
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,REF,Voter Registration,934
+Putnam,"PA  01, 05 & 06",Attorney General,,REF,Voter Registration,560
+Putnam,"PA  02, 04 & 08",Attorney General,,REF,Voter Registration,565
+Putnam,PA  03 & 07,Attorney General,,REF,Voter Registration,542
+Putnam,"PH  01, 06 & 10",Attorney General,,REF,Voter Registration,362
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,REF,Voter Registration,583
+Putnam,PH  04 & 09,Attorney General,,REF,Voter Registration,327
+Putnam,PH  07 & 08,Attorney General,,REF,Voter Registration,474
+Putnam,"PV  01, 05 & 07",Attorney General,,REF,Voter Registration,657
+Putnam,"PV  02, 06 & 09",Attorney General,,REF,Voter Registration,541
+Putnam,PV  03 & 08,Attorney General,,REF,Voter Registration,473
+Putnam,PV  04 & 10,Attorney General,,REF,Voter Registration,332
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,REF,Voter Registration,1067
+Putnam,SE  02 & 04,Attorney General,,REF,Voter Registration,299
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,REF,Voter Registration,849
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,REF,Voter Registration,732
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,REF,Nancy B. Sliwa,0
+Putnam,CA  02 & 29,Attorney General,,REF,Nancy B. Sliwa,0
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,REF,Nancy B. Sliwa,1
+Putnam,"CA  04, 21 & 25",Attorney General,,REF,Nancy B. Sliwa,4
+Putnam,"CA  05, 26 & 28",Attorney General,,REF,Nancy B. Sliwa,2
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,REF,Nancy B. Sliwa,4
+Putnam,"CA  08, 14 & 20",Attorney General,,REF,Nancy B. Sliwa,0
+Putnam,"CA  09, 17 & 18",Attorney General,,REF,Nancy B. Sliwa,0
+Putnam,KE  01 & 08,Attorney General,,REF,Nancy B. Sliwa,7
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,REF,Nancy B. Sliwa,5
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,REF,Nancy B. Sliwa,8
+Putnam,"PA  01, 05 & 06",Attorney General,,REF,Nancy B. Sliwa,2
+Putnam,"PA  02, 04 & 08",Attorney General,,REF,Nancy B. Sliwa,1
+Putnam,PA  03 & 07,Attorney General,,REF,Nancy B. Sliwa,3
+Putnam,"PH  01, 06 & 10",Attorney General,,REF,Nancy B. Sliwa,2
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,REF,Nancy B. Sliwa,4
+Putnam,PH  04 & 09,Attorney General,,REF,Nancy B. Sliwa,3
+Putnam,PH  07 & 08,Attorney General,,REF,Nancy B. Sliwa,1
+Putnam,"PV  01, 05 & 07",Attorney General,,REF,Nancy B. Sliwa,1
+Putnam,"PV  02, 06 & 09",Attorney General,,REF,Nancy B. Sliwa,1
+Putnam,PV  03 & 08,Attorney General,,REF,Nancy B. Sliwa,2
+Putnam,PV  04 & 10,Attorney General,,REF,Nancy B. Sliwa,5
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,REF,Nancy B. Sliwa,3
+Putnam,SE  02 & 04,Attorney General,,REF,Nancy B. Sliwa,0
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,REF,Nancy B. Sliwa,2
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,REF,Nancy B. Sliwa,3
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,REF,Mike Diederich,1
+Putnam,CA  02 & 29,Attorney General,,REF,Mike Diederich,0
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,REF,Mike Diederich,2
+Putnam,"CA  04, 21 & 25",Attorney General,,REF,Mike Diederich,2
+Putnam,"CA  05, 26 & 28",Attorney General,,REF,Mike Diederich,0
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,REF,Mike Diederich,2
+Putnam,"CA  08, 14 & 20",Attorney General,,REF,Mike Diederich,1
+Putnam,"CA  09, 17 & 18",Attorney General,,REF,Mike Diederich,0
+Putnam,KE  01 & 08,Attorney General,,REF,Mike Diederich,0
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,REF,Mike Diederich,4
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,REF,Mike Diederich,1
+Putnam,"PA  01, 05 & 06",Attorney General,,REF,Mike Diederich,3
+Putnam,"PA  02, 04 & 08",Attorney General,,REF,Mike Diederich,0
+Putnam,PA  03 & 07,Attorney General,,REF,Mike Diederich,1
+Putnam,"PH  01, 06 & 10",Attorney General,,REF,Mike Diederich,0
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,REF,Mike Diederich,2
+Putnam,PH  04 & 09,Attorney General,,REF,Mike Diederich,0
+Putnam,PH  07 & 08,Attorney General,,REF,Mike Diederich,0
+Putnam,"PV  01, 05 & 07",Attorney General,,REF,Mike Diederich,4
+Putnam,"PV  02, 06 & 09",Attorney General,,REF,Mike Diederich,2
+Putnam,PV  03 & 08,Attorney General,,REF,Mike Diederich,1
+Putnam,PV  04 & 10,Attorney General,,REF,Mike Diederich,0
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,REF,Mike Diederich,0
+Putnam,SE  02 & 04,Attorney General,,REF,Mike Diederich,2
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,REF,Mike Diederich,1
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,REF,Mike Diederich,1
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,REF,Christopher B. Garvey,1
+Putnam,CA  02 & 29,Attorney General,,REF,Christopher B. Garvey,1
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,REF,Christopher B. Garvey,1
+Putnam,"CA  04, 21 & 25",Attorney General,,REF,Christopher B. Garvey,0
+Putnam,"CA  05, 26 & 28",Attorney General,,REF,Christopher B. Garvey,0
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,REF,Christopher B. Garvey,0
+Putnam,"CA  08, 14 & 20",Attorney General,,REF,Christopher B. Garvey,1
+Putnam,"CA  09, 17 & 18",Attorney General,,REF,Christopher B. Garvey,0
+Putnam,KE  01 & 08,Attorney General,,REF,Christopher B. Garvey,1
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,REF,Christopher B. Garvey,1
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,REF,Christopher B. Garvey,3
+Putnam,"PA  01, 05 & 06",Attorney General,,REF,Christopher B. Garvey,1
+Putnam,"PA  02, 04 & 08",Attorney General,,REF,Christopher B. Garvey,0
+Putnam,PA  03 & 07,Attorney General,,REF,Christopher B. Garvey,2
+Putnam,"PH  01, 06 & 10",Attorney General,,REF,Christopher B. Garvey,1
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,REF,Christopher B. Garvey,1
+Putnam,PH  04 & 09,Attorney General,,REF,Christopher B. Garvey,0
+Putnam,PH  07 & 08,Attorney General,,REF,Christopher B. Garvey,0
+Putnam,"PV  01, 05 & 07",Attorney General,,REF,Christopher B. Garvey,0
+Putnam,"PV  02, 06 & 09",Attorney General,,REF,Christopher B. Garvey,2
+Putnam,PV  03 & 08,Attorney General,,REF,Christopher B. Garvey,2
+Putnam,PV  04 & 10,Attorney General,,REF,Christopher B. Garvey,0
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,REF,Christopher B. Garvey,1
+Putnam,SE  02 & 04,Attorney General,,REF,Christopher B. Garvey,1
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,REF,Christopher B. Garvey,1
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,REF,Christopher B. Garvey,1
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,REF,Write in,1
+Putnam,CA  02 & 29,Attorney General,,REF,Write in,0
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,REF,Write in,1
+Putnam,"CA  04, 21 & 25",Attorney General,,REF,Write in,0
+Putnam,"CA  05, 26 & 28",Attorney General,,REF,Write in,0
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,REF,Write in,1
+Putnam,"CA  08, 14 & 20",Attorney General,,REF,Write in,1
+Putnam,"CA  09, 17 & 18",Attorney General,,REF,Write in,0
+Putnam,KE  01 & 08,Attorney General,,REF,Write in,3
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,REF,Write in,2
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,REF,Write in,1
+Putnam,"PA  01, 05 & 06",Attorney General,,REF,Write in,0
+Putnam,"PA  02, 04 & 08",Attorney General,,REF,Write in,0
+Putnam,PA  03 & 07,Attorney General,,REF,Write in,1
+Putnam,"PH  01, 06 & 10",Attorney General,,REF,Write in,1
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,REF,Write in,11
+Putnam,PH  04 & 09,Attorney General,,REF,Write in,0
+Putnam,PH  07 & 08,Attorney General,,REF,Write in,0
+Putnam,"PV  01, 05 & 07",Attorney General,,REF,Write in,0
+Putnam,"PV  02, 06 & 09",Attorney General,,REF,Write in,1
+Putnam,PV  03 & 08,Attorney General,,REF,Write in,2
+Putnam,PV  04 & 10,Attorney General,,REF,Write in,2
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,REF,Write in,0
+Putnam,SE  02 & 04,Attorney General,,REF,Write in,0
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,REF,Write in,0
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,REF,Write in,1
+Putnam,"CA  01, 10, 11, 13, 24 & 30",Attorney General,,REF,Under/Over Votes,0
+Putnam,CA  02 & 29,Attorney General,,REF,Under/Over Votes,-1
+Putnam,"CA  03, 12, 16, 19 & 27",Attorney General,,REF,Under/Over Votes,0
+Putnam,"CA  04, 21 & 25",Attorney General,,REF,Under/Over Votes,0
+Putnam,"CA  05, 26 & 28",Attorney General,,REF,Under/Over Votes,0
+Putnam,"CA  06, 07, 15, 22 & 23",Attorney General,,REF,Under/Over Votes,0
+Putnam,"CA  08, 14 & 20",Attorney General,,REF,Under/Over Votes,0
+Putnam,"CA  09, 17 & 18",Attorney General,,REF,Under/Over Votes,0
+Putnam,KE  01 & 08,Attorney General,,REF,Under/Over Votes,0
+Putnam,"KE  02, 04, 06, 10 & 12",Attorney General,,REF,Under/Over Votes,-1
+Putnam,"KE  03, 05, 07, 09 & 11",Attorney General,,REF,Under/Over Votes,0
+Putnam,"PA  01, 05 & 06",Attorney General,,REF,Under/Over Votes,0
+Putnam,"PA  02, 04 & 08",Attorney General,,REF,Under/Over Votes,0
+Putnam,PA  03 & 07,Attorney General,,REF,Under/Over Votes,-1
+Putnam,"PH  01, 06 & 10",Attorney General,,REF,Under/Over Votes,-1
+Putnam,"PH  02, 03, 05 & 11",Attorney General,,REF,Under/Over Votes,0
+Putnam,PH  04 & 09,Attorney General,,REF,Under/Over Votes,0
+Putnam,PH  07 & 08,Attorney General,,REF,Under/Over Votes,0
+Putnam,"PV  01, 05 & 07",Attorney General,,REF,Under/Over Votes,0
+Putnam,"PV  02, 06 & 09",Attorney General,,REF,Under/Over Votes,0
+Putnam,PV  03 & 08,Attorney General,,REF,Under/Over Votes,0
+Putnam,PV  04 & 10,Attorney General,,REF,Under/Over Votes,0
+Putnam,"SE  01, 03, 07, 10 & 13",Attorney General,,REF,Under/Over Votes,0
+Putnam,SE  02 & 04,Attorney General,,REF,Under/Over Votes,0
+Putnam,"SE  05, 08, 11 & 14",Attorney General,,REF,Under/Over Votes,0
+Putnam,"SE  06, 09, 12 & 15",Attorney General,,REF,Under/Over Votes,0
