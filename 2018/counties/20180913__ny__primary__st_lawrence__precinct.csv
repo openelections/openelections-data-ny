@@ -1,0 +1,921 @@
+﻿county,precinct,office,district,party,candidate,votes
+St. Lawrence,Brasher 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Brasher 2,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Canton 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Canton 2,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Canton 3,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Canton 4,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Canton 5,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Canton 6,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,Canton 7,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Canton 8,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Clare 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Clifton 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Clifton 2,Attorney General,,REF,Nancy B. Sliwa,2
+St. Lawrence,Colton 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,DeKalb 1,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,DeKalb 2,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,DePeyster 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Edwards 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Fine 1,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,Fowler 1,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,Fowler 2,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Gouverneur 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Gouverneur 2,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,Gouverneur 3,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Gouverneur 4,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Hammond 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Hermon 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Hopkinton 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Lawrence 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Lisbon 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Lisbon 2,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Lisbon 3,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Louisville 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Louisville 2,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Louisville 3,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Louisville 4,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Macomb 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Madrid 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Massena 1,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,Massena 2,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Massena 3,Attorney General,,REF,Nancy B. Sliwa,2
+St. Lawrence,Massena 4,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Massena 5,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,Massena 6,Attorney General,,REF,Nancy B. Sliwa,3
+St. Lawrence,Massena 7,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Massena 8,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Morristown 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Morristown 2,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Norfolk 1,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,Norfolk 2,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,Norfolk 3,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Oswegatchie 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Oswegatchie 2,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Oswegatchie 3,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Parishville 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Parishville 2,Attorney General,,REF,Nancy B. Sliwa,3
+St. Lawrence,Piercefield 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Pierrepont 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Pierrepont 2,Attorney General,,REF,Nancy B. Sliwa,4
+St. Lawrence,Pitcairn 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Potsdam 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Potsdam 2,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,Potsdam 3,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Potsdam 4,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Potsdam 5,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,Potsdam 6,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Potsdam 7,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Potsdam 8,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Rossie 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Russell 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Stockholm 1,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Stockholm 2,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,Stockholm 3,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,Waddington 1,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,Waddington 2,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Ogdensburg 1,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,Ogdensburg 2,Attorney General,,REF,Nancy B. Sliwa,3
+St. Lawrence,Ogdensburg 3,Attorney General,,REF,Nancy B. Sliwa,1
+St. Lawrence,Ogdensburg 4,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Ogdensburg 5,Attorney General,,REF,Nancy B. Sliwa,0
+St. Lawrence,Brasher 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Brasher 2,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Canton 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Canton 2,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Canton 3,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Canton 4,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Canton 5,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Canton 6,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Canton 7,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Canton 8,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Clare 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Clifton 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Clifton 2,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Colton 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,DeKalb 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,DeKalb 2,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,DePeyster 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Edwards 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Fine 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Fowler 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Fowler 2,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Gouverneur 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Gouverneur 2,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Gouverneur 3,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Gouverneur 4,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Hammond 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Hermon 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Hopkinton 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Lawrence 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Lisbon 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Lisbon 2,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Lisbon 3,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Louisville 1,Attorney General,,REF,Mike Diederich,2
+St. Lawrence,Louisville 2,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Louisville 3,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Louisville 4,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Macomb 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Madrid 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Massena 1,Attorney General,,REF,Mike Diederich,2
+St. Lawrence,Massena 2,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Massena 3,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Massena 4,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Massena 5,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Massena 6,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Massena 7,Attorney General,,REF,Mike Diederich,3
+St. Lawrence,Massena 8,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Morristown 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Morristown 2,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Norfolk 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Norfolk 2,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Norfolk 3,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Oswegatchie 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Oswegatchie 2,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Oswegatchie 3,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Parishville 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Parishville 2,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Piercefield 1,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Pierrepont 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Pierrepont 2,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Pitcairn 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Potsdam 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Potsdam 2,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Potsdam 3,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Potsdam 4,Attorney General,,REF,Mike Diederich,2
+St. Lawrence,Potsdam 5,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Potsdam 6,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Potsdam 7,Attorney General,,REF,Mike Diederich,2
+St. Lawrence,Potsdam 8,Attorney General,,REF,Mike Diederich,2
+St. Lawrence,Rossie 1,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Russell 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Stockholm 1,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Stockholm 2,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Stockholm 3,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Waddington 1,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Waddington 2,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Ogdensburg 1,Attorney General,,REF,Mike Diederich,2
+St. Lawrence,Ogdensburg 2,Attorney General,,REF,Mike Diederich,0
+St. Lawrence,Ogdensburg 3,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Ogdensburg 4,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Ogdensburg 5,Attorney General,,REF,Mike Diederich,1
+St. Lawrence,Brasher 1,Attorney General,,REF,Christopher B. Garvey,1
+St. Lawrence,Brasher 2,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Canton 1,Attorney General,,REF,Christopher B. Garvey,1
+St. Lawrence,Canton 2,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Canton 3,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Canton 4,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Canton 5,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Canton 6,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Canton 7,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Canton 8,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Clare 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Clifton 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Clifton 2,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Colton 1,Attorney General,,REF,Christopher B. Garvey,2
+St. Lawrence,DeKalb 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,DeKalb 2,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,DePeyster 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Edwards 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Fine 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Fowler 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Fowler 2,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Gouverneur 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Gouverneur 2,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Gouverneur 3,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Gouverneur 4,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Hammond 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Hermon 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Hopkinton 1,Attorney General,,REF,Christopher B. Garvey,2
+St. Lawrence,Lawrence 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Lisbon 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Lisbon 2,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Lisbon 3,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Louisville 1,Attorney General,,REF,Christopher B. Garvey,1
+St. Lawrence,Louisville 2,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Louisville 3,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Louisville 4,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Macomb 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Madrid 1,Attorney General,,REF,Christopher B. Garvey,1
+St. Lawrence,Massena 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Massena 2,Attorney General,,REF,Christopher B. Garvey,1
+St. Lawrence,Massena 3,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Massena 4,Attorney General,,REF,Christopher B. Garvey,1
+St. Lawrence,Massena 5,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Massena 6,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Massena 7,Attorney General,,REF,Christopher B. Garvey,2
+St. Lawrence,Massena 8,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Morristown 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Morristown 2,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Norfolk 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Norfolk 2,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Norfolk 3,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Oswegatchie 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Oswegatchie 2,Attorney General,,REF,Christopher B. Garvey,1
+St. Lawrence,Oswegatchie 3,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Parishville 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Parishville 2,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Piercefield 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Pierrepont 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Pierrepont 2,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Pitcairn 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Potsdam 1,Attorney General,,REF,Christopher B. Garvey,1
+St. Lawrence,Potsdam 2,Attorney General,,REF,Christopher B. Garvey,1
+St. Lawrence,Potsdam 3,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Potsdam 4,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Potsdam 5,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Potsdam 6,Attorney General,,REF,Christopher B. Garvey,1
+St. Lawrence,Potsdam 7,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Potsdam 8,Attorney General,,REF,Christopher B. Garvey,1
+St. Lawrence,Rossie 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Russell 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Stockholm 1,Attorney General,,REF,Christopher B. Garvey,1
+St. Lawrence,Stockholm 2,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Stockholm 3,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Waddington 1,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Waddington 2,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Ogdensburg 1,Attorney General,,REF,Christopher B. Garvey,1
+St. Lawrence,Ogdensburg 2,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Ogdensburg 3,Attorney General,,REF,Christopher B. Garvey,0
+St. Lawrence,Ogdensburg 4,Attorney General,,REF,Christopher B. Garvey,1
+St. Lawrence,Ogdensburg 5,Attorney General,,REF,Christopher B. Garvey,2
+St. Lawrence,Clare 1,State House,118,CON,Patrick Vincent,0
+St. Lawrence,Clifton 1,State House,118,CON,Patrick Vincent,0
+St. Lawrence,Clifton 2,State House,118,CON,Patrick Vincent,1
+St. Lawrence,Colton 1,State House,118,CON,Patrick Vincent,0
+St. Lawrence,Fine 1,State House,118,CON,Patrick Vincent,0
+St. Lawrence,Madrid 1,State House,118,CON,Patrick Vincent,1
+St. Lawrence,Norfolk 1,State House,118,CON,Patrick Vincent,0
+St. Lawrence,Norfolk 2,State House,118,CON,Patrick Vincent,1
+St. Lawrence,Norfolk 3,State House,118,CON,Patrick Vincent,0
+St. Lawrence,Parishville 1,State House,118,CON,Patrick Vincent,0
+St. Lawrence,Parishville 2,State House,118,CON,Patrick Vincent,0
+St. Lawrence,Pierrepont 1,State House,118,CON,Patrick Vincent,2
+St. Lawrence,Pierrepont 2,State House,118,CON,Patrick Vincent,0
+St. Lawrence,Stockholm 1,State House,118,CON,Patrick Vincent,0
+St. Lawrence,Stockholm 2,State House,118,CON,Patrick Vincent,0
+St. Lawrence,Stockholm 3,State House,118,CON,Patrick Vincent,0
+St. Lawrence,Clare 1,State House,118,CON,Robert J. Smullen,0
+St. Lawrence,Clifton 1,State House,118,CON,Robert J. Smullen,0
+St. Lawrence,Clifton 2,State House,118,CON,Robert J. Smullen,0
+St. Lawrence,Colton 1,State House,118,CON,Robert J. Smullen,2
+St. Lawrence,Fine 1,State House,118,CON,Robert J. Smullen,0
+St. Lawrence,Madrid 1,State House,118,CON,Robert J. Smullen,4
+St. Lawrence,Norfolk 1,State House,118,CON,Robert J. Smullen,1
+St. Lawrence,Norfolk 2,State House,118,CON,Robert J. Smullen,2
+St. Lawrence,Norfolk 3,State House,118,CON,Robert J. Smullen,0
+St. Lawrence,Parishville 1,State House,118,CON,Robert J. Smullen,0
+St. Lawrence,Parishville 2,State House,118,CON,Robert J. Smullen,0
+St. Lawrence,Pierrepont 1,State House,118,CON,Robert J. Smullen,4
+St. Lawrence,Pierrepont 2,State House,118,CON,Robert J. Smullen,2
+St. Lawrence,Stockholm 1,State House,118,CON,Robert J. Smullen,2
+St. Lawrence,Stockholm 2,State House,118,CON,Robert J. Smullen,1
+St. Lawrence,Stockholm 3,State House,118,CON,Robert J. Smullen,0
+St. Lawrence,Brasher 1,Lieutenant Governor,,DEM,Kathy C. Hochul,15
+St. Lawrence,Brasher 2,Lieutenant Governor,,DEM,Kathy C. Hochul,25
+St. Lawrence,Canton 1,Lieutenant Governor,,DEM,Kathy C. Hochul,50
+St. Lawrence,Canton 2,Lieutenant Governor,,DEM,Kathy C. Hochul,23
+St. Lawrence,Canton 3,Lieutenant Governor,,DEM,Kathy C. Hochul,46
+St. Lawrence,Canton 4,Lieutenant Governor,,DEM,Kathy C. Hochul,4
+St. Lawrence,Canton 5,Lieutenant Governor,,DEM,Kathy C. Hochul,8
+St. Lawrence,Canton 6,Lieutenant Governor,,DEM,Kathy C. Hochul,28
+St. Lawrence,Canton 7,Lieutenant Governor,,DEM,Kathy C. Hochul,14
+St. Lawrence,Canton 8,Lieutenant Governor,,DEM,Kathy C. Hochul,31
+St. Lawrence,Clare 1,Lieutenant Governor,,DEM,Kathy C. Hochul,0
+St. Lawrence,Clifton 1,Lieutenant Governor,,DEM,Kathy C. Hochul,10
+St. Lawrence,Clifton 2,Lieutenant Governor,,DEM,Kathy C. Hochul,14
+St. Lawrence,Colton 1,Lieutenant Governor,,DEM,Kathy C. Hochul,44
+St. Lawrence,DeKalb 1,Lieutenant Governor,,DEM,Kathy C. Hochul,18
+St. Lawrence,DeKalb 2,Lieutenant Governor,,DEM,Kathy C. Hochul,10
+St. Lawrence,DePeyster 1,Lieutenant Governor,,DEM,Kathy C. Hochul,3
+St. Lawrence,Edwards 1,Lieutenant Governor,,DEM,Kathy C. Hochul,15
+St. Lawrence,Fine 1,Lieutenant Governor,,DEM,Kathy C. Hochul,40
+St. Lawrence,Fowler 1,Lieutenant Governor,,DEM,Kathy C. Hochul,22
+St. Lawrence,Fowler 2,Lieutenant Governor,,DEM,Kathy C. Hochul,9
+St. Lawrence,Gouverneur 1,Lieutenant Governor,,DEM,Kathy C. Hochul,30
+St. Lawrence,Gouverneur 2,Lieutenant Governor,,DEM,Kathy C. Hochul,21
+St. Lawrence,Gouverneur 3,Lieutenant Governor,,DEM,Kathy C. Hochul,8
+St. Lawrence,Gouverneur 4,Lieutenant Governor,,DEM,Kathy C. Hochul,9
+St. Lawrence,Hammond 1,Lieutenant Governor,,DEM,Kathy C. Hochul,13
+St. Lawrence,Hermon 1,Lieutenant Governor,,DEM,Kathy C. Hochul,23
+St. Lawrence,Hopkinton 1,Lieutenant Governor,,DEM,Kathy C. Hochul,22
+St. Lawrence,Lawrence 1,Lieutenant Governor,,DEM,Kathy C. Hochul,31
+St. Lawrence,Lisbon 1,Lieutenant Governor,,DEM,Kathy C. Hochul,15
+St. Lawrence,Lisbon 2,Lieutenant Governor,,DEM,Kathy C. Hochul,17
+St. Lawrence,Lisbon 3,Lieutenant Governor,,DEM,Kathy C. Hochul,16
+St. Lawrence,Louisville 1,Lieutenant Governor,,DEM,Kathy C. Hochul,31
+St. Lawrence,Louisville 2,Lieutenant Governor,,DEM,Kathy C. Hochul,37
+St. Lawrence,Louisville 3,Lieutenant Governor,,DEM,Kathy C. Hochul,29
+St. Lawrence,Louisville 4,Lieutenant Governor,,DEM,Kathy C. Hochul,19
+St. Lawrence,Macomb 1,Lieutenant Governor,,DEM,Kathy C. Hochul,16
+St. Lawrence,Madrid 1,Lieutenant Governor,,DEM,Kathy C. Hochul,28
+St. Lawrence,Massena 1,Lieutenant Governor,,DEM,Kathy C. Hochul,93
+St. Lawrence,Massena 2,Lieutenant Governor,,DEM,Kathy C. Hochul,35
+St. Lawrence,Massena 3,Lieutenant Governor,,DEM,Kathy C. Hochul,47
+St. Lawrence,Massena 4,Lieutenant Governor,,DEM,Kathy C. Hochul,22
+St. Lawrence,Massena 5,Lieutenant Governor,,DEM,Kathy C. Hochul,46
+St. Lawrence,Massena 6,Lieutenant Governor,,DEM,Kathy C. Hochul,35
+St. Lawrence,Massena 7,Lieutenant Governor,,DEM,Kathy C. Hochul,35
+St. Lawrence,Massena 8,Lieutenant Governor,,DEM,Kathy C. Hochul,32
+St. Lawrence,Morristown 1,Lieutenant Governor,,DEM,Kathy C. Hochul,8
+St. Lawrence,Morristown 2,Lieutenant Governor,,DEM,Kathy C. Hochul,24
+St. Lawrence,Norfolk 1,Lieutenant Governor,,DEM,Kathy C. Hochul,38
+St. Lawrence,Norfolk 2,Lieutenant Governor,,DEM,Kathy C. Hochul,32
+St. Lawrence,Norfolk 3,Lieutenant Governor,,DEM,Kathy C. Hochul,37
+St. Lawrence,Oswegatchie 1,Lieutenant Governor,,DEM,Kathy C. Hochul,26
+St. Lawrence,Oswegatchie 2,Lieutenant Governor,,DEM,Kathy C. Hochul,24
+St. Lawrence,Oswegatchie 3,Lieutenant Governor,,DEM,Kathy C. Hochul,10
+St. Lawrence,Parishville 1,Lieutenant Governor,,DEM,Kathy C. Hochul,9
+St. Lawrence,Parishville 2,Lieutenant Governor,,DEM,Kathy C. Hochul,30
+St. Lawrence,Piercefield 1,Lieutenant Governor,,DEM,Kathy C. Hochul,8
+St. Lawrence,Pierrepont 1,Lieutenant Governor,,DEM,Kathy C. Hochul,31
+St. Lawrence,Pierrepont 2,Lieutenant Governor,,DEM,Kathy C. Hochul,23
+St. Lawrence,Pitcairn 1,Lieutenant Governor,,DEM,Kathy C. Hochul,8
+St. Lawrence,Potsdam 1,Lieutenant Governor,,DEM,Kathy C. Hochul,42
+St. Lawrence,Potsdam 2,Lieutenant Governor,,DEM,Kathy C. Hochul,32
+St. Lawrence,Potsdam 3,Lieutenant Governor,,DEM,Kathy C. Hochul,23
+St. Lawrence,Potsdam 4,Lieutenant Governor,,DEM,Kathy C. Hochul,34
+St. Lawrence,Potsdam 5,Lieutenant Governor,,DEM,Kathy C. Hochul,67
+St. Lawrence,Potsdam 6,Lieutenant Governor,,DEM,Kathy C. Hochul,38
+St. Lawrence,Potsdam 7,Lieutenant Governor,,DEM,Kathy C. Hochul,37
+St. Lawrence,Potsdam 8,Lieutenant Governor,,DEM,Kathy C. Hochul,36
+St. Lawrence,Rossie 1,Lieutenant Governor,,DEM,Kathy C. Hochul,13
+St. Lawrence,Russell 1,Lieutenant Governor,,DEM,Kathy C. Hochul,16
+St. Lawrence,Stockholm 1,Lieutenant Governor,,DEM,Kathy C. Hochul,28
+St. Lawrence,Stockholm 2,Lieutenant Governor,,DEM,Kathy C. Hochul,21
+St. Lawrence,Stockholm 3,Lieutenant Governor,,DEM,Kathy C. Hochul,11
+St. Lawrence,Waddington 1,Lieutenant Governor,,DEM,Kathy C. Hochul,31
+St. Lawrence,Waddington 2,Lieutenant Governor,,DEM,Kathy C. Hochul,19
+St. Lawrence,Ogdensburg 1,Lieutenant Governor,,DEM,Kathy C. Hochul,28
+St. Lawrence,Ogdensburg 2,Lieutenant Governor,,DEM,Kathy C. Hochul,20
+St. Lawrence,Ogdensburg 3,Lieutenant Governor,,DEM,Kathy C. Hochul,55
+St. Lawrence,Ogdensburg 4,Lieutenant Governor,,DEM,Kathy C. Hochul,41
+St. Lawrence,Ogdensburg 5,Lieutenant Governor,,DEM,Kathy C. Hochul,29
+St. Lawrence,Ogdensburg 6,Lieutenant Governor,,DEM,Kathy C. Hochul,35
+St. Lawrence,Brasher 1,Lieutenant Governor,,DEM,Jumaane Williams,8
+St. Lawrence,Brasher 2,Lieutenant Governor,,DEM,Jumaane Williams,10
+St. Lawrence,Canton 1,Lieutenant Governor,,DEM,Jumaane Williams,76
+St. Lawrence,Canton 2,Lieutenant Governor,,DEM,Jumaane Williams,21
+St. Lawrence,Canton 3,Lieutenant Governor,,DEM,Jumaane Williams,42
+St. Lawrence,Canton 4,Lieutenant Governor,,DEM,Jumaane Williams,2
+St. Lawrence,Canton 5,Lieutenant Governor,,DEM,Jumaane Williams,10
+St. Lawrence,Canton 6,Lieutenant Governor,,DEM,Jumaane Williams,30
+St. Lawrence,Canton 7,Lieutenant Governor,,DEM,Jumaane Williams,0
+St. Lawrence,Canton 8,Lieutenant Governor,,DEM,Jumaane Williams,27
+St. Lawrence,Clare 1,Lieutenant Governor,,DEM,Jumaane Williams,0
+St. Lawrence,Clifton 1,Lieutenant Governor,,DEM,Jumaane Williams,2
+St. Lawrence,Clifton 2,Lieutenant Governor,,DEM,Jumaane Williams,4
+St. Lawrence,Colton 1,Lieutenant Governor,,DEM,Jumaane Williams,20
+St. Lawrence,DeKalb 1,Lieutenant Governor,,DEM,Jumaane Williams,9
+St. Lawrence,DeKalb 2,Lieutenant Governor,,DEM,Jumaane Williams,6
+St. Lawrence,DePeyster 1,Lieutenant Governor,,DEM,Jumaane Williams,5
+St. Lawrence,Edwards 1,Lieutenant Governor,,DEM,Jumaane Williams,8
+St. Lawrence,Fine 1,Lieutenant Governor,,DEM,Jumaane Williams,10
+St. Lawrence,Fowler 1,Lieutenant Governor,,DEM,Jumaane Williams,6
+St. Lawrence,Fowler 2,Lieutenant Governor,,DEM,Jumaane Williams,9
+St. Lawrence,Gouverneur 1,Lieutenant Governor,,DEM,Jumaane Williams,11
+St. Lawrence,Gouverneur 2,Lieutenant Governor,,DEM,Jumaane Williams,8
+St. Lawrence,Gouverneur 3,Lieutenant Governor,,DEM,Jumaane Williams,2
+St. Lawrence,Gouverneur 4,Lieutenant Governor,,DEM,Jumaane Williams,2
+St. Lawrence,Hammond 1,Lieutenant Governor,,DEM,Jumaane Williams,12
+St. Lawrence,Hermon 1,Lieutenant Governor,,DEM,Jumaane Williams,9
+St. Lawrence,Hopkinton 1,Lieutenant Governor,,DEM,Jumaane Williams,16
+St. Lawrence,Lawrence 1,Lieutenant Governor,,DEM,Jumaane Williams,10
+St. Lawrence,Lisbon 1,Lieutenant Governor,,DEM,Jumaane Williams,7
+St. Lawrence,Lisbon 2,Lieutenant Governor,,DEM,Jumaane Williams,5
+St. Lawrence,Lisbon 3,Lieutenant Governor,,DEM,Jumaane Williams,5
+St. Lawrence,Louisville 1,Lieutenant Governor,,DEM,Jumaane Williams,13
+St. Lawrence,Louisville 2,Lieutenant Governor,,DEM,Jumaane Williams,12
+St. Lawrence,Louisville 3,Lieutenant Governor,,DEM,Jumaane Williams,11
+St. Lawrence,Louisville 4,Lieutenant Governor,,DEM,Jumaane Williams,8
+St. Lawrence,Macomb 1,Lieutenant Governor,,DEM,Jumaane Williams,11
+St. Lawrence,Madrid 1,Lieutenant Governor,,DEM,Jumaane Williams,14
+St. Lawrence,Massena 1,Lieutenant Governor,,DEM,Jumaane Williams,32
+St. Lawrence,Massena 2,Lieutenant Governor,,DEM,Jumaane Williams,15
+St. Lawrence,Massena 3,Lieutenant Governor,,DEM,Jumaane Williams,17
+St. Lawrence,Massena 4,Lieutenant Governor,,DEM,Jumaane Williams,7
+St. Lawrence,Massena 5,Lieutenant Governor,,DEM,Jumaane Williams,16
+St. Lawrence,Massena 6,Lieutenant Governor,,DEM,Jumaane Williams,18
+St. Lawrence,Massena 7,Lieutenant Governor,,DEM,Jumaane Williams,12
+St. Lawrence,Massena 8,Lieutenant Governor,,DEM,Jumaane Williams,6
+St. Lawrence,Morristown 1,Lieutenant Governor,,DEM,Jumaane Williams,4
+St. Lawrence,Morristown 2,Lieutenant Governor,,DEM,Jumaane Williams,14
+St. Lawrence,Norfolk 1,Lieutenant Governor,,DEM,Jumaane Williams,21
+St. Lawrence,Norfolk 2,Lieutenant Governor,,DEM,Jumaane Williams,9
+St. Lawrence,Norfolk 3,Lieutenant Governor,,DEM,Jumaane Williams,18
+St. Lawrence,Oswegatchie 1,Lieutenant Governor,,DEM,Jumaane Williams,9
+St. Lawrence,Oswegatchie 2,Lieutenant Governor,,DEM,Jumaane Williams,12
+St. Lawrence,Oswegatchie 3,Lieutenant Governor,,DEM,Jumaane Williams,3
+St. Lawrence,Parishville 1,Lieutenant Governor,,DEM,Jumaane Williams,13
+St. Lawrence,Parishville 2,Lieutenant Governor,,DEM,Jumaane Williams,14
+St. Lawrence,Piercefield 1,Lieutenant Governor,,DEM,Jumaane Williams,7
+St. Lawrence,Pierrepont 1,Lieutenant Governor,,DEM,Jumaane Williams,29
+St. Lawrence,Pierrepont 2,Lieutenant Governor,,DEM,Jumaane Williams,27
+St. Lawrence,Pitcairn 1,Lieutenant Governor,,DEM,Jumaane Williams,5
+St. Lawrence,Potsdam 1,Lieutenant Governor,,DEM,Jumaane Williams,28
+St. Lawrence,Potsdam 2,Lieutenant Governor,,DEM,Jumaane Williams,27
+St. Lawrence,Potsdam 3,Lieutenant Governor,,DEM,Jumaane Williams,7
+St. Lawrence,Potsdam 4,Lieutenant Governor,,DEM,Jumaane Williams,34
+St. Lawrence,Potsdam 5,Lieutenant Governor,,DEM,Jumaane Williams,39
+St. Lawrence,Potsdam 6,Lieutenant Governor,,DEM,Jumaane Williams,48
+St. Lawrence,Potsdam 7,Lieutenant Governor,,DEM,Jumaane Williams,53
+St. Lawrence,Potsdam 8,Lieutenant Governor,,DEM,Jumaane Williams,26
+St. Lawrence,Rossie 1,Lieutenant Governor,,DEM,Jumaane Williams,1
+St. Lawrence,Russell 1,Lieutenant Governor,,DEM,Jumaane Williams,12
+St. Lawrence,Stockholm 1,Lieutenant Governor,,DEM,Jumaane Williams,16
+St. Lawrence,Stockholm 2,Lieutenant Governor,,DEM,Jumaane Williams,12
+St. Lawrence,Stockholm 3,Lieutenant Governor,,DEM,Jumaane Williams,7
+St. Lawrence,Waddington 1,Lieutenant Governor,,DEM,Jumaane Williams,15
+St. Lawrence,Waddington 2,Lieutenant Governor,,DEM,Jumaane Williams,13
+St. Lawrence,Ogdensburg 1,Lieutenant Governor,,DEM,Jumaane Williams,10
+St. Lawrence,Ogdensburg 2,Lieutenant Governor,,DEM,Jumaane Williams,8
+St. Lawrence,Ogdensburg 3,Lieutenant Governor,,DEM,Jumaane Williams,22
+St. Lawrence,Ogdensburg 4,Lieutenant Governor,,DEM,Jumaane Williams,15
+St. Lawrence,Ogdensburg 5,Lieutenant Governor,,DEM,Jumaane Williams,14
+St. Lawrence,Ogdensburg 6,Lieutenant Governor,,DEM,Jumaane Williams,9
+St. Lawrence,Brasher 1,Attorney General,,DEM,Sean Patrick Maloney,12
+St. Lawrence,Brasher 2,Attorney General,,DEM,Sean Patrick Maloney,25
+St. Lawrence,Canton 1,Attorney General,,DEM,Sean Patrick Maloney,18
+St. Lawrence,Canton 2,Attorney General,,DEM,Sean Patrick Maloney,8
+St. Lawrence,Canton 3,Attorney General,,DEM,Sean Patrick Maloney,23
+St. Lawrence,Canton 4,Attorney General,,DEM,Sean Patrick Maloney,0
+St. Lawrence,Canton 5,Attorney General,,DEM,Sean Patrick Maloney,8
+St. Lawrence,Canton 6,Attorney General,,DEM,Sean Patrick Maloney,16
+St. Lawrence,Canton 7,Attorney General,,DEM,Sean Patrick Maloney,7
+St. Lawrence,Canton 8,Attorney General,,DEM,Sean Patrick Maloney,11
+St. Lawrence,Clare 1,Attorney General,,DEM,Sean Patrick Maloney,0
+St. Lawrence,Clifton 1,Attorney General,,DEM,Sean Patrick Maloney,4
+St. Lawrence,Clifton 2,Attorney General,,DEM,Sean Patrick Maloney,13
+St. Lawrence,Colton 1,Attorney General,,DEM,Sean Patrick Maloney,31
+St. Lawrence,DeKalb 1,Attorney General,,DEM,Sean Patrick Maloney,11
+St. Lawrence,DeKalb 2,Attorney General,,DEM,Sean Patrick Maloney,5
+St. Lawrence,DePeyster 1,Attorney General,,DEM,Sean Patrick Maloney,6
+St. Lawrence,Edwards 1,Attorney General,,DEM,Sean Patrick Maloney,12
+St. Lawrence,Fine 1,Attorney General,,DEM,Sean Patrick Maloney,26
+St. Lawrence,Fowler 1,Attorney General,,DEM,Sean Patrick Maloney,12
+St. Lawrence,Fowler 2,Attorney General,,DEM,Sean Patrick Maloney,8
+St. Lawrence,Gouverneur 1,Attorney General,,DEM,Sean Patrick Maloney,21
+St. Lawrence,Gouverneur 2,Attorney General,,DEM,Sean Patrick Maloney,16
+St. Lawrence,Gouverneur 3,Attorney General,,DEM,Sean Patrick Maloney,3
+St. Lawrence,Gouverneur 4,Attorney General,,DEM,Sean Patrick Maloney,9
+St. Lawrence,Hammond 1,Attorney General,,DEM,Sean Patrick Maloney,11
+St. Lawrence,Hermon 1,Attorney General,,DEM,Sean Patrick Maloney,20
+St. Lawrence,Hopkinton 1,Attorney General,,DEM,Sean Patrick Maloney,21
+St. Lawrence,Lawrence 1,Attorney General,,DEM,Sean Patrick Maloney,20
+St. Lawrence,Lisbon 1,Attorney General,,DEM,Sean Patrick Maloney,9
+St. Lawrence,Lisbon 2,Attorney General,,DEM,Sean Patrick Maloney,9
+St. Lawrence,Lisbon 3,Attorney General,,DEM,Sean Patrick Maloney,11
+St. Lawrence,Louisville 1,Attorney General,,DEM,Sean Patrick Maloney,17
+St. Lawrence,Louisville 2,Attorney General,,DEM,Sean Patrick Maloney,25
+St. Lawrence,Louisville 3,Attorney General,,DEM,Sean Patrick Maloney,21
+St. Lawrence,Louisville 4,Attorney General,,DEM,Sean Patrick Maloney,9
+St. Lawrence,Macomb 1,Attorney General,,DEM,Sean Patrick Maloney,14
+St. Lawrence,Madrid 1,Attorney General,,DEM,Sean Patrick Maloney,21
+St. Lawrence,Massena 1,Attorney General,,DEM,Sean Patrick Maloney,55
+St. Lawrence,Massena 2,Attorney General,,DEM,Sean Patrick Maloney,26
+St. Lawrence,Massena 3,Attorney General,,DEM,Sean Patrick Maloney,27
+St. Lawrence,Massena 4,Attorney General,,DEM,Sean Patrick Maloney,15
+St. Lawrence,Massena 5,Attorney General,,DEM,Sean Patrick Maloney,34
+St. Lawrence,Massena 6,Attorney General,,DEM,Sean Patrick Maloney,28
+St. Lawrence,Massena 7,Attorney General,,DEM,Sean Patrick Maloney,32
+St. Lawrence,Massena 8,Attorney General,,DEM,Sean Patrick Maloney,17
+St. Lawrence,Morristown 1,Attorney General,,DEM,Sean Patrick Maloney,4
+St. Lawrence,Morristown 2,Attorney General,,DEM,Sean Patrick Maloney,21
+St. Lawrence,Norfolk 1,Attorney General,,DEM,Sean Patrick Maloney,27
+St. Lawrence,Norfolk 2,Attorney General,,DEM,Sean Patrick Maloney,25
+St. Lawrence,Norfolk 3,Attorney General,,DEM,Sean Patrick Maloney,27
+St. Lawrence,Oswegatchie 1,Attorney General,,DEM,Sean Patrick Maloney,16
+St. Lawrence,Oswegatchie 2,Attorney General,,DEM,Sean Patrick Maloney,16
+St. Lawrence,Oswegatchie 3,Attorney General,,DEM,Sean Patrick Maloney,9
+St. Lawrence,Parishville 1,Attorney General,,DEM,Sean Patrick Maloney,9
+St. Lawrence,Parishville 2,Attorney General,,DEM,Sean Patrick Maloney,22
+St. Lawrence,Piercefield 1,Attorney General,,DEM,Sean Patrick Maloney,6
+St. Lawrence,Pierrepont 1,Attorney General,,DEM,Sean Patrick Maloney,24
+St. Lawrence,Pierrepont 2,Attorney General,,DEM,Sean Patrick Maloney,13
+St. Lawrence,Pitcairn 1,Attorney General,,DEM,Sean Patrick Maloney,7
+St. Lawrence,Potsdam 1,Attorney General,,DEM,Sean Patrick Maloney,11
+St. Lawrence,Potsdam 2,Attorney General,,DEM,Sean Patrick Maloney,13
+St. Lawrence,Potsdam 3,Attorney General,,DEM,Sean Patrick Maloney,14
+St. Lawrence,Potsdam 4,Attorney General,,DEM,Sean Patrick Maloney,14
+St. Lawrence,Potsdam 5,Attorney General,,DEM,Sean Patrick Maloney,20
+St. Lawrence,Potsdam 6,Attorney General,,DEM,Sean Patrick Maloney,15
+St. Lawrence,Potsdam 7,Attorney General,,DEM,Sean Patrick Maloney,11
+St. Lawrence,Potsdam 8,Attorney General,,DEM,Sean Patrick Maloney,29
+St. Lawrence,Rossie 1,Attorney General,,DEM,Sean Patrick Maloney,3
+St. Lawrence,Russell 1,Attorney General,,DEM,Sean Patrick Maloney,15
+St. Lawrence,Stockholm 1,Attorney General,,DEM,Sean Patrick Maloney,18
+St. Lawrence,Stockholm 2,Attorney General,,DEM,Sean Patrick Maloney,14
+St. Lawrence,Stockholm 3,Attorney General,,DEM,Sean Patrick Maloney,9
+St. Lawrence,Waddington 1,Attorney General,,DEM,Sean Patrick Maloney,21
+St. Lawrence,Waddington 2,Attorney General,,DEM,Sean Patrick Maloney,14
+St. Lawrence,Ogdensburg 1,Attorney General,,DEM,Sean Patrick Maloney,39
+St. Lawrence,Ogdensburg 2,Attorney General,,DEM,Sean Patrick Maloney,35
+St. Lawrence,Ogdensburg 3,Attorney General,,DEM,Sean Patrick Maloney,48
+St. Lawrence,Ogdensburg 4,Attorney General,,DEM,Sean Patrick Maloney,46
+St. Lawrence,Ogdensburg 5,Attorney General,,DEM,Sean Patrick Maloney,36
+St. Lawrence,Ogdensburg 6,Attorney General,,DEM,Sean Patrick Maloney,50
+St. Lawrence,Brasher 1,Attorney General,,DEM,Letitia A. James,4
+St. Lawrence,Brasher 2,Attorney General,,DEM,Letitia A. James,7
+St. Lawrence,Canton 1,Attorney General,,DEM,Letitia A. James,18
+St. Lawrence,Canton 2,Attorney General,,DEM,Letitia A. James,13
+St. Lawrence,Canton 3,Attorney General,,DEM,Letitia A. James,26
+St. Lawrence,Canton 4,Attorney General,,DEM,Letitia A. James,2
+St. Lawrence,Canton 5,Attorney General,,DEM,Letitia A. James,5
+St. Lawrence,Canton 6,Attorney General,,DEM,Letitia A. James,14
+St. Lawrence,Canton 7,Attorney General,,DEM,Letitia A. James,1
+St. Lawrence,Canton 8,Attorney General,,DEM,Letitia A. James,13
+St. Lawrence,Clare 1,Attorney General,,DEM,Letitia A. James,0
+St. Lawrence,Clifton 1,Attorney General,,DEM,Letitia A. James,6
+St. Lawrence,Clifton 2,Attorney General,,DEM,Letitia A. James,3
+St. Lawrence,Colton 1,Attorney General,,DEM,Letitia A. James,11
+St. Lawrence,DeKalb 1,Attorney General,,DEM,Letitia A. James,6
+St. Lawrence,DeKalb 2,Attorney General,,DEM,Letitia A. James,4
+St. Lawrence,DePeyster 1,Attorney General,,DEM,Letitia A. James,0
+St. Lawrence,Edwards 1,Attorney General,,DEM,Letitia A. James,6
+St. Lawrence,Fine 1,Attorney General,,DEM,Letitia A. James,14
+St. Lawrence,Fowler 1,Attorney General,,DEM,Letitia A. James,9
+St. Lawrence,Fowler 2,Attorney General,,DEM,Letitia A. James,3
+St. Lawrence,Gouverneur 1,Attorney General,,DEM,Letitia A. James,11
+St. Lawrence,Gouverneur 2,Attorney General,,DEM,Letitia A. James,5
+St. Lawrence,Gouverneur 3,Attorney General,,DEM,Letitia A. James,5
+St. Lawrence,Gouverneur 4,Attorney General,,DEM,Letitia A. James,0
+St. Lawrence,Hammond 1,Attorney General,,DEM,Letitia A. James,11
+St. Lawrence,Hermon 1,Attorney General,,DEM,Letitia A. James,11
+St. Lawrence,Hopkinton 1,Attorney General,,DEM,Letitia A. James,9
+St. Lawrence,Lawrence 1,Attorney General,,DEM,Letitia A. James,13
+St. Lawrence,Lisbon 1,Attorney General,,DEM,Letitia A. James,7
+St. Lawrence,Lisbon 2,Attorney General,,DEM,Letitia A. James,6
+St. Lawrence,Lisbon 3,Attorney General,,DEM,Letitia A. James,1
+St. Lawrence,Louisville 1,Attorney General,,DEM,Letitia A. James,14
+St. Lawrence,Louisville 2,Attorney General,,DEM,Letitia A. James,10
+St. Lawrence,Louisville 3,Attorney General,,DEM,Letitia A. James,13
+St. Lawrence,Louisville 4,Attorney General,,DEM,Letitia A. James,12
+St. Lawrence,Macomb 1,Attorney General,,DEM,Letitia A. James,5
+St. Lawrence,Madrid 1,Attorney General,,DEM,Letitia A. James,14
+St. Lawrence,Massena 1,Attorney General,,DEM,Letitia A. James,26
+St. Lawrence,Massena 2,Attorney General,,DEM,Letitia A. James,20
+St. Lawrence,Massena 3,Attorney General,,DEM,Letitia A. James,18
+St. Lawrence,Massena 4,Attorney General,,DEM,Letitia A. James,11
+St. Lawrence,Massena 5,Attorney General,,DEM,Letitia A. James,12
+St. Lawrence,Massena 6,Attorney General,,DEM,Letitia A. James,21
+St. Lawrence,Massena 7,Attorney General,,DEM,Letitia A. James,10
+St. Lawrence,Massena 8,Attorney General,,DEM,Letitia A. James,10
+St. Lawrence,Morristown 1,Attorney General,,DEM,Letitia A. James,7
+St. Lawrence,Morristown 2,Attorney General,,DEM,Letitia A. James,8
+St. Lawrence,Norfolk 1,Attorney General,,DEM,Letitia A. James,13
+St. Lawrence,Norfolk 2,Attorney General,,DEM,Letitia A. James,11
+St. Lawrence,Norfolk 3,Attorney General,,DEM,Letitia A. James,23
+St. Lawrence,Oswegatchie 1,Attorney General,,DEM,Letitia A. James,5
+St. Lawrence,Oswegatchie 2,Attorney General,,DEM,Letitia A. James,12
+St. Lawrence,Oswegatchie 3,Attorney General,,DEM,Letitia A. James,2
+St. Lawrence,Parishville 1,Attorney General,,DEM,Letitia A. James,4
+St. Lawrence,Parishville 2,Attorney General,,DEM,Letitia A. James,7
+St. Lawrence,Piercefield 1,Attorney General,,DEM,Letitia A. James,3
+St. Lawrence,Pierrepont 1,Attorney General,,DEM,Letitia A. James,15
+St. Lawrence,Pierrepont 2,Attorney General,,DEM,Letitia A. James,15
+St. Lawrence,Pitcairn 1,Attorney General,,DEM,Letitia A. James,5
+St. Lawrence,Potsdam 1,Attorney General,,DEM,Letitia A. James,12
+St. Lawrence,Potsdam 2,Attorney General,,DEM,Letitia A. James,17
+St. Lawrence,Potsdam 3,Attorney General,,DEM,Letitia A. James,9
+St. Lawrence,Potsdam 4,Attorney General,,DEM,Letitia A. James,27
+St. Lawrence,Potsdam 5,Attorney General,,DEM,Letitia A. James,23
+St. Lawrence,Potsdam 6,Attorney General,,DEM,Letitia A. James,15
+St. Lawrence,Potsdam 7,Attorney General,,DEM,Letitia A. James,14
+St. Lawrence,Potsdam 8,Attorney General,,DEM,Letitia A. James,17
+St. Lawrence,Rossie 1,Attorney General,,DEM,Letitia A. James,5
+St. Lawrence,Russell 1,Attorney General,,DEM,Letitia A. James,8
+St. Lawrence,Stockholm 1,Attorney General,,DEM,Letitia A. James,17
+St. Lawrence,Stockholm 2,Attorney General,,DEM,Letitia A. James,7
+St. Lawrence,Stockholm 3,Attorney General,,DEM,Letitia A. James,1
+St. Lawrence,Waddington 1,Attorney General,,DEM,Letitia A. James,7
+St. Lawrence,Waddington 2,Attorney General,,DEM,Letitia A. James,11
+St. Lawrence,Ogdensburg 1,Attorney General,,DEM,Letitia A. James,7
+St. Lawrence,Ogdensburg 2,Attorney General,,DEM,Letitia A. James,11
+St. Lawrence,Ogdensburg 3,Attorney General,,DEM,Letitia A. James,27
+St. Lawrence,Ogdensburg 4,Attorney General,,DEM,Letitia A. James,11
+St. Lawrence,Ogdensburg 5,Attorney General,,DEM,Letitia A. James,23
+St. Lawrence,Ogdensburg 6,Attorney General,,DEM,Letitia A. James,13
+St. Lawrence,Brasher 1,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Brasher 2,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Canton 1,Attorney General,,DEM,Leecia R.Eve,5
+St. Lawrence,Canton 2,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,Canton 3,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Canton 4,Attorney General,,DEM,Leecia R.Eve,0
+St. Lawrence,Canton 5,Attorney General,,DEM,Leecia R.Eve,0
+St. Lawrence,Canton 6,Attorney General,,DEM,Leecia R.Eve,5
+St. Lawrence,Canton 7,Attorney General,,DEM,Leecia R.Eve,2
+St. Lawrence,Canton 8,Attorney General,,DEM,Leecia R.Eve,5
+St. Lawrence,Clare 1,Attorney General,,DEM,Leecia R.Eve,0
+St. Lawrence,Clifton 1,Attorney General,,DEM,Leecia R.Eve,0
+St. Lawrence,Clifton 2,Attorney General,,DEM,Leecia R.Eve,0
+St. Lawrence,Colton 1,Attorney General,,DEM,Leecia R.Eve,4
+St. Lawrence,DeKalb 1,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,DeKalb 2,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,DePeyster 1,Attorney General,,DEM,Leecia R.Eve,0
+St. Lawrence,Edwards 1,Attorney General,,DEM,Leecia R.Eve,4
+St. Lawrence,Fine 1,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,Fowler 1,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,Fowler 2,Attorney General,,DEM,Leecia R.Eve,0
+St. Lawrence,Gouverneur 1,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Gouverneur 2,Attorney General,,DEM,Leecia R.Eve,2
+St. Lawrence,Gouverneur 3,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Gouverneur 4,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Hammond 1,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Hermon 1,Attorney General,,DEM,Leecia R.Eve,2
+St. Lawrence,Hopkinton 1,Attorney General,,DEM,Leecia R.Eve,0
+St. Lawrence,Lawrence 1,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,Lisbon 1,Attorney General,,DEM,Leecia R.Eve,2
+St. Lawrence,Lisbon 2,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Lisbon 3,Attorney General,,DEM,Leecia R.Eve,2
+St. Lawrence,Louisville 1,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,Louisville 2,Attorney General,,DEM,Leecia R.Eve,2
+St. Lawrence,Louisville 3,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,Louisville 4,Attorney General,,DEM,Leecia R.Eve,0
+St. Lawrence,Macomb 1,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Madrid 1,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,Massena 1,Attorney General,,DEM,Leecia R.Eve,5
+St. Lawrence,Massena 2,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,Massena 3,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Massena 4,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Massena 5,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,Massena 6,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,Massena 7,Attorney General,,DEM,Leecia R.Eve,4
+St. Lawrence,Massena 8,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,Morristown 1,Attorney General,,DEM,Leecia R.Eve,0
+St. Lawrence,Morristown 2,Attorney General,,DEM,Leecia R.Eve,2
+St. Lawrence,Norfolk 1,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,Norfolk 2,Attorney General,,DEM,Leecia R.Eve,4
+St. Lawrence,Norfolk 3,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Oswegatchie 1,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,Oswegatchie 2,Attorney General,,DEM,Leecia R.Eve,4
+St. Lawrence,Oswegatchie 3,Attorney General,,DEM,Leecia R.Eve,2
+St. Lawrence,Parishville 1,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Parishville 2,Attorney General,,DEM,Leecia R.Eve,2
+St. Lawrence,Piercefield 1,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Pierrepont 1,Attorney General,,DEM,Leecia R.Eve,2
+St. Lawrence,Pierrepont 2,Attorney General,,DEM,Leecia R.Eve,2
+St. Lawrence,Pitcairn 1,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Potsdam 1,Attorney General,,DEM,Leecia R.Eve,4
+St. Lawrence,Potsdam 2,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Potsdam 3,Attorney General,,DEM,Leecia R.Eve,0
+St. Lawrence,Potsdam 4,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Potsdam 5,Attorney General,,DEM,Leecia R.Eve,4
+St. Lawrence,Potsdam 6,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,Potsdam 7,Attorney General,,DEM,Leecia R.Eve,4
+St. Lawrence,Potsdam 8,Attorney General,,DEM,Leecia R.Eve,2
+St. Lawrence,Rossie 1,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Russell 1,Attorney General,,DEM,Leecia R.Eve,3
+St. Lawrence,Stockholm 1,Attorney General,,DEM,Leecia R.Eve,0
+St. Lawrence,Stockholm 2,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Stockholm 3,Attorney General,,DEM,Leecia R.Eve,2
+St. Lawrence,Waddington 1,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Waddington 2,Attorney General,,DEM,Leecia R.Eve,2
+St. Lawrence,Ogdensburg 1,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Ogdensburg 2,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Ogdensburg 3,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Ogdensburg 4,Attorney General,,DEM,Leecia R.Eve,0
+St. Lawrence,Ogdensburg 5,Attorney General,,DEM,Leecia R.Eve,0
+St. Lawrence,Ogdensburg 6,Attorney General,,DEM,Leecia R.Eve,1
+St. Lawrence,Brasher 1,Attorney General,,DEM,Zephyr Teachout,7
+St. Lawrence,Brasher 2,Attorney General,,DEM,Zephyr Teachout,11
+St. Lawrence,Canton 1,Attorney General,,DEM,Zephyr Teachout,96
+St. Lawrence,Canton 2,Attorney General,,DEM,Zephyr Teachout,28
+St. Lawrence,Canton 3,Attorney General,,DEM,Zephyr Teachout,49
+St. Lawrence,Canton 4,Attorney General,,DEM,Zephyr Teachout,4
+St. Lawrence,Canton 5,Attorney General,,DEM,Zephyr Teachout,13
+St. Lawrence,Canton 6,Attorney General,,DEM,Zephyr Teachout,35
+St. Lawrence,Canton 7,Attorney General,,DEM,Zephyr Teachout,6
+St. Lawrence,Canton 8,Attorney General,,DEM,Zephyr Teachout,41
+St. Lawrence,Clare 1,Attorney General,,DEM,Zephyr Teachout,0
+St. Lawrence,Clifton 1,Attorney General,,DEM,Zephyr Teachout,3
+St. Lawrence,Clifton 2,Attorney General,,DEM,Zephyr Teachout,6
+St. Lawrence,Colton 1,Attorney General,,DEM,Zephyr Teachout,38
+St. Lawrence,DeKalb 1,Attorney General,,DEM,Zephyr Teachout,12
+St. Lawrence,DeKalb 2,Attorney General,,DEM,Zephyr Teachout,9
+St. Lawrence,DePeyster 1,Attorney General,,DEM,Zephyr Teachout,1
+St. Lawrence,Edwards 1,Attorney General,,DEM,Zephyr Teachout,3
+St. Lawrence,Fine 1,Attorney General,,DEM,Zephyr Teachout,12
+St. Lawrence,Fowler 1,Attorney General,,DEM,Zephyr Teachout,5
+St. Lawrence,Fowler 2,Attorney General,,DEM,Zephyr Teachout,6
+St. Lawrence,Gouverneur 1,Attorney General,,DEM,Zephyr Teachout,12
+St. Lawrence,Gouverneur 2,Attorney General,,DEM,Zephyr Teachout,13
+St. Lawrence,Gouverneur 3,Attorney General,,DEM,Zephyr Teachout,2
+St. Lawrence,Gouverneur 4,Attorney General,,DEM,Zephyr Teachout,4
+St. Lawrence,Hammond 1,Attorney General,,DEM,Zephyr Teachout,11
+St. Lawrence,Hermon 1,Attorney General,,DEM,Zephyr Teachout,4
+St. Lawrence,Hopkinton 1,Attorney General,,DEM,Zephyr Teachout,12
+St. Lawrence,Lawrence 1,Attorney General,,DEM,Zephyr Teachout,10
+St. Lawrence,Lisbon 1,Attorney General,,DEM,Zephyr Teachout,6
+St. Lawrence,Lisbon 2,Attorney General,,DEM,Zephyr Teachout,8
+St. Lawrence,Lisbon 3,Attorney General,,DEM,Zephyr Teachout,8
+St. Lawrence,Louisville 1,Attorney General,,DEM,Zephyr Teachout,12
+St. Lawrence,Louisville 2,Attorney General,,DEM,Zephyr Teachout,13
+St. Lawrence,Louisville 3,Attorney General,,DEM,Zephyr Teachout,5
+St. Lawrence,Louisville 4,Attorney General,,DEM,Zephyr Teachout,8
+St. Lawrence,Macomb 1,Attorney General,,DEM,Zephyr Teachout,11
+St. Lawrence,Madrid 1,Attorney General,,DEM,Zephyr Teachout,16
+St. Lawrence,Massena 1,Attorney General,,DEM,Zephyr Teachout,43
+St. Lawrence,Massena 2,Attorney General,,DEM,Zephyr Teachout,16
+St. Lawrence,Massena 3,Attorney General,,DEM,Zephyr Teachout,20
+St. Lawrence,Massena 4,Attorney General,,DEM,Zephyr Teachout,8
+St. Lawrence,Massena 5,Attorney General,,DEM,Zephyr Teachout,15
+St. Lawrence,Massena 6,Attorney General,,DEM,Zephyr Teachout,9
+St. Lawrence,Massena 7,Attorney General,,DEM,Zephyr Teachout,13
+St. Lawrence,Massena 8,Attorney General,,DEM,Zephyr Teachout,10
+St. Lawrence,Morristown 1,Attorney General,,DEM,Zephyr Teachout,3
+St. Lawrence,Morristown 2,Attorney General,,DEM,Zephyr Teachout,8
+St. Lawrence,Norfolk 1,Attorney General,,DEM,Zephyr Teachout,18
+St. Lawrence,Norfolk 2,Attorney General,,DEM,Zephyr Teachout,7
+St. Lawrence,Norfolk 3,Attorney General,,DEM,Zephyr Teachout,11
+St. Lawrence,Oswegatchie 1,Attorney General,,DEM,Zephyr Teachout,15
+St. Lawrence,Oswegatchie 2,Attorney General,,DEM,Zephyr Teachout,8
+St. Lawrence,Oswegatchie 3,Attorney General,,DEM,Zephyr Teachout,4
+St. Lawrence,Parishville 1,Attorney General,,DEM,Zephyr Teachout,13
+St. Lawrence,Parishville 2,Attorney General,,DEM,Zephyr Teachout,14
+St. Lawrence,Piercefield 1,Attorney General,,DEM,Zephyr Teachout,6
+St. Lawrence,Pierrepont 1,Attorney General,,DEM,Zephyr Teachout,34
+St. Lawrence,Pierrepont 2,Attorney General,,DEM,Zephyr Teachout,31
+St. Lawrence,Pitcairn 1,Attorney General,,DEM,Zephyr Teachout,4
+St. Lawrence,Potsdam 1,Attorney General,,DEM,Zephyr Teachout,44
+St. Lawrence,Potsdam 2,Attorney General,,DEM,Zephyr Teachout,35
+St. Lawrence,Potsdam 3,Attorney General,,DEM,Zephyr Teachout,8
+St. Lawrence,Potsdam 4,Attorney General,,DEM,Zephyr Teachout,35
+St. Lawrence,Potsdam 5,Attorney General,,DEM,Zephyr Teachout,67
+St. Lawrence,Potsdam 6,Attorney General,,DEM,Zephyr Teachout,62
+St. Lawrence,Potsdam 7,Attorney General,,DEM,Zephyr Teachout,67
+St. Lawrence,Potsdam 8,Attorney General,,DEM,Zephyr Teachout,29
+St. Lawrence,Rossie 1,Attorney General,,DEM,Zephyr Teachout,8
+St. Lawrence,Russell 1,Attorney General,,DEM,Zephyr Teachout,8
+St. Lawrence,Stockholm 1,Attorney General,,DEM,Zephyr Teachout,15
+St. Lawrence,Stockholm 2,Attorney General,,DEM,Zephyr Teachout,14
+St. Lawrence,Stockholm 3,Attorney General,,DEM,Zephyr Teachout,9
+St. Lawrence,Waddington 1,Attorney General,,DEM,Zephyr Teachout,18
+St. Lawrence,Waddington 2,Attorney General,,DEM,Zephyr Teachout,11
+St. Lawrence,Ogdensburg 1,Attorney General,,DEM,Zephyr Teachout,11
+St. Lawrence,Ogdensburg 2,Attorney General,,DEM,Zephyr Teachout,10
+St. Lawrence,Ogdensburg 3,Attorney General,,DEM,Zephyr Teachout,28
+St. Lawrence,Ogdensburg 4,Attorney General,,DEM,Zephyr Teachout,17
+St. Lawrence,Ogdensburg 5,Attorney General,,DEM,Zephyr Teachout,14
+St. Lawrence,Ogdensburg 6,Attorney General,,DEM,Zephyr Teachout,13
+St. Lawrence,Brasher 1,Governor,,DEM,Cynthia E. Nixon,13
+St. Lawrence,Brasher 2,Governor,,DEM,Cynthia E. Nixon,23
+St. Lawrence,Canton 1,Governor,,DEM,Cynthia E. Nixon,80
+St. Lawrence,Canton 2,Governor,,DEM,Cynthia E. Nixon,28
+St. Lawrence,Canton 3,Governor,,DEM,Cynthia E. Nixon,47
+St. Lawrence,Canton 4,Governor,,DEM,Cynthia E. Nixon,4
+St. Lawrence,Canton 5,Governor,,DEM,Cynthia E. Nixon,16
+St. Lawrence,Canton 6,Governor,,DEM,Cynthia E. Nixon,38
+St. Lawrence,Canton 7,Governor,,DEM,Cynthia E. Nixon,3
+St. Lawrence,Canton 8,Governor,,DEM,Cynthia E. Nixon,40
+St. Lawrence,Clare 1,Governor,,DEM,Cynthia E. Nixon,0
+St. Lawrence,Clifton 1,Governor,,DEM,Cynthia E. Nixon,6
+St. Lawrence,Clifton 2,Governor,,DEM,Cynthia E. Nixon,9
+St. Lawrence,Colton 1,Governor,,DEM,Cynthia E. Nixon,42
+St. Lawrence,DeKalb 1,Governor,,DEM,Cynthia E. Nixon,12
+St. Lawrence,DeKalb 2,Governor,,DEM,Cynthia E. Nixon,7
+St. Lawrence,DePeyster 1,Governor,,DEM,Cynthia E. Nixon,7
+St. Lawrence,Edwards 1,Governor,,DEM,Cynthia E. Nixon,14
+St. Lawrence,Fine 1,Governor,,DEM,Cynthia E. Nixon,28
+St. Lawrence,Fowler 1,Governor,,DEM,Cynthia E. Nixon,20
+St. Lawrence,Fowler 2,Governor,,DEM,Cynthia E. Nixon,7
+St. Lawrence,Gouverneur 1,Governor,,DEM,Cynthia E. Nixon,23
+St. Lawrence,Gouverneur 2,Governor,,DEM,Cynthia E. Nixon,12
+St. Lawrence,Gouverneur 3,Governor,,DEM,Cynthia E. Nixon,2
+St. Lawrence,Gouverneur 4,Governor,,DEM,Cynthia E. Nixon,12
+St. Lawrence,Hammond 1,Governor,,DEM,Cynthia E. Nixon,12
+St. Lawrence,Hermon 1,Governor,,DEM,Cynthia E. Nixon,22
+St. Lawrence,Hopkinton 1,Governor,,DEM,Cynthia E. Nixon,27
+St. Lawrence,Lawrence 1,Governor,,DEM,Cynthia E. Nixon,13
+St. Lawrence,Lisbon 1,Governor,,DEM,Cynthia E. Nixon,6
+St. Lawrence,Lisbon 2,Governor,,DEM,Cynthia E. Nixon,15
+St. Lawrence,Lisbon 3,Governor,,DEM,Cynthia E. Nixon,15
+St. Lawrence,Louisville 1,Governor,,DEM,Cynthia E. Nixon,18
+St. Lawrence,Louisville 2,Governor,,DEM,Cynthia E. Nixon,32
+St. Lawrence,Louisville 3,Governor,,DEM,Cynthia E. Nixon,25
+St. Lawrence,Louisville 4,Governor,,DEM,Cynthia E. Nixon,12
+St. Lawrence,Macomb 1,Governor,,DEM,Cynthia E. Nixon,15
+St. Lawrence,Madrid 1,Governor,,DEM,Cynthia E. Nixon,36
+St. Lawrence,Massena 1,Governor,,DEM,Cynthia E. Nixon,42
+St. Lawrence,Massena 2,Governor,,DEM,Cynthia E. Nixon,34
+St. Lawrence,Massena 3,Governor,,DEM,Cynthia E. Nixon,29
+St. Lawrence,Massena 4,Governor,,DEM,Cynthia E. Nixon,18
+St. Lawrence,Massena 5,Governor,,DEM,Cynthia E. Nixon,37
+St. Lawrence,Massena 6,Governor,,DEM,Cynthia E. Nixon,35
+St. Lawrence,Massena 7,Governor,,DEM,Cynthia E. Nixon,32
+St. Lawrence,Massena 8,Governor,,DEM,Cynthia E. Nixon,16
+St. Lawrence,Morristown 1,Governor,,DEM,Cynthia E. Nixon,7
+St. Lawrence,Morristown 2,Governor,,DEM,Cynthia E. Nixon,19
+St. Lawrence,Norfolk 1,Governor,,DEM,Cynthia E. Nixon,36
+St. Lawrence,Norfolk 2,Governor,,DEM,Cynthia E. Nixon,29
+St. Lawrence,Norfolk 3,Governor,,DEM,Cynthia E. Nixon,36
+St. Lawrence,Oswegatchie 1,Governor,,DEM,Cynthia E. Nixon,16
+St. Lawrence,Oswegatchie 2,Governor,,DEM,Cynthia E. Nixon,20
+St. Lawrence,Oswegatchie 3,Governor,,DEM,Cynthia E. Nixon,11
+St. Lawrence,Parishville 1,Governor,,DEM,Cynthia E. Nixon,18
+St. Lawrence,Parishville 2,Governor,,DEM,Cynthia E. Nixon,26
+St. Lawrence,Piercefield 1,Governor,,DEM,Cynthia E. Nixon,11
+St. Lawrence,Pierrepont 1,Governor,,DEM,Cynthia E. Nixon,40
+St. Lawrence,Pierrepont 2,Governor,,DEM,Cynthia E. Nixon,23
+St. Lawrence,Pitcairn 1,Governor,,DEM,Cynthia E. Nixon,13
+St. Lawrence,Potsdam 1,Governor,,DEM,Cynthia E. Nixon,39
+St. Lawrence,Potsdam 2,Governor,,DEM,Cynthia E. Nixon,30
+St. Lawrence,Potsdam 3,Governor,,DEM,Cynthia E. Nixon,18
+St. Lawrence,Potsdam 4,Governor,,DEM,Cynthia E. Nixon,38
+St. Lawrence,Potsdam 5,Governor,,DEM,Cynthia E. Nixon,64
+St. Lawrence,Potsdam 6,Governor,,DEM,Cynthia E. Nixon,53
+St. Lawrence,Potsdam 7,Governor,,DEM,Cynthia E. Nixon,58
+St. Lawrence,Potsdam 8,Governor,,DEM,Cynthia E. Nixon,36
+St. Lawrence,Rossie 1,Governor,,DEM,Cynthia E. Nixon,6
+St. Lawrence,Russell 1,Governor,,DEM,Cynthia E. Nixon,15
+St. Lawrence,Stockholm 1,Governor,,DEM,Cynthia E. Nixon,24
+St. Lawrence,Stockholm 2,Governor,,DEM,Cynthia E. Nixon,21
+St. Lawrence,Stockholm 3,Governor,,DEM,Cynthia E. Nixon,11
+St. Lawrence,Waddington 1,Governor,,DEM,Cynthia E. Nixon,17
+St. Lawrence,Waddington 2,Governor,,DEM,Cynthia E. Nixon,25
+St. Lawrence,Ogdensburg 1,Governor,,DEM,Cynthia E. Nixon,28
+St. Lawrence,Ogdensburg 2,Governor,,DEM,Cynthia E. Nixon,28
+St. Lawrence,Ogdensburg 3,Governor,,DEM,Cynthia E. Nixon,57
+St. Lawrence,Ogdensburg 4,Governor,,DEM,Cynthia E. Nixon,38
+St. Lawrence,Ogdensburg 5,Governor,,DEM,Cynthia E. Nixon,34
+St. Lawrence,Ogdensburg 6,Governor,,DEM,Cynthia E. Nixon,48
+St. Lawrence,Brasher 1,Governor,,DEM,Andrew M. Cuomo,12
+St. Lawrence,Brasher 2,Governor,,DEM,Andrew M. Cuomo,26
+St. Lawrence,Canton 1,Governor,,DEM,Andrew M. Cuomo,62
+St. Lawrence,Canton 2,Governor,,DEM,Andrew M. Cuomo,26
+St. Lawrence,Canton 3,Governor,,DEM,Andrew M. Cuomo,54
+St. Lawrence,Canton 4,Governor,,DEM,Andrew M. Cuomo,3
+St. Lawrence,Canton 5,Governor,,DEM,Andrew M. Cuomo,10
+St. Lawrence,Canton 6,Governor,,DEM,Andrew M. Cuomo,31
+St. Lawrence,Canton 7,Governor,,DEM,Andrew M. Cuomo,15
+St. Lawrence,Canton 8,Governor,,DEM,Andrew M. Cuomo,31
+St. Lawrence,Clare 1,Governor,,DEM,Andrew M. Cuomo,0
+St. Lawrence,Clifton 1,Governor,,DEM,Andrew M. Cuomo,9
+St. Lawrence,Clifton 2,Governor,,DEM,Andrew M. Cuomo,12
+St. Lawrence,Colton 1,Governor,,DEM,Andrew M. Cuomo,45
+St. Lawrence,DeKalb 1,Governor,,DEM,Andrew M. Cuomo,24
+St. Lawrence,DeKalb 2,Governor,,DEM,Andrew M. Cuomo,12
+St. Lawrence,DePeyster 1,Governor,,DEM,Andrew M. Cuomo,4
+St. Lawrence,Edwards 1,Governor,,DEM,Andrew M. Cuomo,13
+St. Lawrence,Fine 1,Governor,,DEM,Andrew M. Cuomo,31
+St. Lawrence,Fowler 1,Governor,,DEM,Andrew M. Cuomo,12
+St. Lawrence,Fowler 2,Governor,,DEM,Andrew M. Cuomo,13
+St. Lawrence,Gouverneur 1,Governor,,DEM,Andrew M. Cuomo,24
+St. Lawrence,Gouverneur 2,Governor,,DEM,Andrew M. Cuomo,29
+St. Lawrence,Gouverneur 3,Governor,,DEM,Andrew M. Cuomo,9
+St. Lawrence,Gouverneur 4,Governor,,DEM,Andrew M. Cuomo,3
+St. Lawrence,Hammond 1,Governor,,DEM,Andrew M. Cuomo,23
+St. Lawrence,Hermon 1,Governor,,DEM,Andrew M. Cuomo,17
+St. Lawrence,Hopkinton 1,Governor,,DEM,Andrew M. Cuomo,17
+St. Lawrence,Lawrence 1,Governor,,DEM,Andrew M. Cuomo,33
+St. Lawrence,Lisbon 1,Governor,,DEM,Andrew M. Cuomo,18
+St. Lawrence,Lisbon 2,Governor,,DEM,Andrew M. Cuomo,10
+St. Lawrence,Lisbon 3,Governor,,DEM,Andrew M. Cuomo,10
+St. Lawrence,Louisville 1,Governor,,DEM,Andrew M. Cuomo,29
+St. Lawrence,Louisville 2,Governor,,DEM,Andrew M. Cuomo,28
+St. Lawrence,Louisville 3,Governor,,DEM,Andrew M. Cuomo,24
+St. Lawrence,Louisville 4,Governor,,DEM,Andrew M. Cuomo,18
+St. Lawrence,Macomb 1,Governor,,DEM,Andrew M. Cuomo,17
+St. Lawrence,Madrid 1,Governor,,DEM,Andrew M. Cuomo,20
+St. Lawrence,Massena 1,Governor,,DEM,Andrew M. Cuomo,95
+St. Lawrence,Massena 2,Governor,,DEM,Andrew M. Cuomo,31
+St. Lawrence,Massena 3,Governor,,DEM,Andrew M. Cuomo,43
+St. Lawrence,Massena 4,Governor,,DEM,Andrew M. Cuomo,17
+St. Lawrence,Massena 5,Governor,,DEM,Andrew M. Cuomo,36
+St. Lawrence,Massena 6,Governor,,DEM,Andrew M. Cuomo,30
+St. Lawrence,Massena 7,Governor,,DEM,Andrew M. Cuomo,33
+St. Lawrence,Massena 8,Governor,,DEM,Andrew M. Cuomo,27
+St. Lawrence,Morristown 1,Governor,,DEM,Andrew M. Cuomo,10
+St. Lawrence,Morristown 2,Governor,,DEM,Andrew M. Cuomo,23
+St. Lawrence,Norfolk 1,Governor,,DEM,Andrew M. Cuomo,33
+St. Lawrence,Norfolk 2,Governor,,DEM,Andrew M. Cuomo,27
+St. Lawrence,Norfolk 3,Governor,,DEM,Andrew M. Cuomo,26
+St. Lawrence,Oswegatchie 1,Governor,,DEM,Andrew M. Cuomo,22
+St. Lawrence,Oswegatchie 2,Governor,,DEM,Andrew M. Cuomo,27
+St. Lawrence,Oswegatchie 3,Governor,,DEM,Andrew M. Cuomo,7
+St. Lawrence,Parishville 1,Governor,,DEM,Andrew M. Cuomo,11
+St. Lawrence,Parishville 2,Governor,,DEM,Andrew M. Cuomo,22
+St. Lawrence,Piercefield 1,Governor,,DEM,Andrew M. Cuomo,5
+St. Lawrence,Pierrepont 1,Governor,,DEM,Andrew M. Cuomo,38
+St. Lawrence,Pierrepont 2,Governor,,DEM,Andrew M. Cuomo,42
+St. Lawrence,Pitcairn 1,Governor,,DEM,Andrew M. Cuomo,7
+St. Lawrence,Potsdam 1,Governor,,DEM,Andrew M. Cuomo,41
+St. Lawrence,Potsdam 2,Governor,,DEM,Andrew M. Cuomo,41
+St. Lawrence,Potsdam 3,Governor,,DEM,Andrew M. Cuomo,17
+St. Lawrence,Potsdam 4,Governor,,DEM,Andrew M. Cuomo,41
+St. Lawrence,Potsdam 5,Governor,,DEM,Andrew M. Cuomo,56
+St. Lawrence,Potsdam 6,Governor,,DEM,Andrew M. Cuomo,45
+St. Lawrence,Potsdam 7,Governor,,DEM,Andrew M. Cuomo,46
+St. Lawrence,Potsdam 8,Governor,,DEM,Andrew M. Cuomo,45
+St. Lawrence,Rossie 1,Governor,,DEM,Andrew M. Cuomo,13
+St. Lawrence,Russell 1,Governor,,DEM,Andrew M. Cuomo,20
+St. Lawrence,Stockholm 1,Governor,,DEM,Andrew M. Cuomo,30
+St. Lawrence,Stockholm 2,Governor,,DEM,Andrew M. Cuomo,19
+St. Lawrence,Stockholm 3,Governor,,DEM,Andrew M. Cuomo,10
+St. Lawrence,Waddington 1,Governor,,DEM,Andrew M. Cuomo,35
+St. Lawrence,Waddington 2,Governor,,DEM,Andrew M. Cuomo,17
+St. Lawrence,Ogdensburg 1,Governor,,DEM,Andrew M. Cuomo,39
+St. Lawrence,Ogdensburg 2,Governor,,DEM,Andrew M. Cuomo,31
+St. Lawrence,Ogdensburg 3,Governor,,DEM,Andrew M. Cuomo,50
+St. Lawrence,Ogdensburg 4,Governor,,DEM,Andrew M. Cuomo,41
+St. Lawrence,Ogdensburg 5,Governor,,DEM,Andrew M. Cuomo,40
+St. Lawrence,Ogdensburg 6,Governor,,DEM,Andrew M. Cuomo,40
