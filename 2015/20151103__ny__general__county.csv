@@ -1,0 +1,103 @@
+county,office,district,party,candidate,votes
+Queens,State House,29,DEM,Alicia L. Hyndman,4045
+Total,State House,29,DEM,Alicia L. Hyndman,4045
+Queens,State House,29,REP,Scherie S. Murray,281
+Total,State House,29,REP,Scherie S. Murray,281
+Queens,State House,29,REF,Scherie S. Murray,31
+Total,State House,29,REF,Scherie S. Murray,31
+Queens,State House,29,,Blank,106
+Total,State House,29,,Blank,106
+Queens,State House,29,,Void,0
+Total,State House,29,,Void,0
+Queens,State House,29,,Scattering,71
+Total,State House,29,,Scattering,71
+Broome,State Senate,52,DEM,Barbara J. Fiala,8539
+Tioga,State Senate,52,DEM,Barbara J. Fiala,1422
+Chenango,State Senate,52,DEM,Barbara J. Fiala,1132
+Delaware,State Senate,52,DEM,Barbara J. Fiala,116
+Total,State Senate,52,DEM,Barbara J. Fiala,11209
+Broome,State Senate,52,REP,"Frederick J. Akshar, II",25566
+Tioga,State Senate,52,REP,"Frederick J. Akshar, II",6281
+Chenango,State Senate,52,REP,"Frederick J. Akshar, II",5022
+Delaware,State Senate,52,REP,"Frederick J. Akshar, II",781
+Total,State Senate,52,REP,"Frederick J. Akshar, II",37650
+Broome,State Senate,52,CON,"Frederick J. Akshar, II",2724
+Tioga,State Senate,52,CON,"Frederick J. Akshar, II",499
+Chenango,State Senate,52,CON,"Frederick J. Akshar, II",475
+Delaware,State Senate,52,CON,"Frederick J. Akshar, II",56
+Total,State Senate,52,CON,"Frederick J. Akshar, II",3754
+Broome,State Senate,52,WOR,Barbara J. Fiala,856
+Tioga,State Senate,52,WOR,Barbara J. Fiala,139
+Chenango,State Senate,52,WOR,Barbara J. Fiala,119
+Delaware,State Senate,52,WOR,Barbara J. Fiala,20
+Total,State Senate,52,WOR,Barbara J. Fiala,1134
+Broome,State Senate,52,IND,"Frederick J. Akshar, II",2758
+Tioga,State Senate,52,IND,"Frederick J. Akshar, II",443
+Chenango,State Senate,52,IND,"Frederick J. Akshar, II",478
+Delaware,State Senate,52,IND,"Frederick J. Akshar, II",74
+Total,State Senate,52,IND,"Frederick J. Akshar, II",3753
+Broome,State Senate,52,,Blank,610
+Tioga,State Senate,52,,Blank,210
+Chenango,State Senate,52,,Blank,242
+Delaware,State Senate,52,,Blank,41
+Total,State Senate,52,,Blank,1103
+Broome,State Senate,52,,Void,28
+Tioga,State Senate,52,,Void,0
+Chenango,State Senate,52,,Void,3
+Delaware,State Senate,52,,Void,1
+Total,State Senate,52,,Void,32
+Broome,State Senate,52,,Scattering,529
+Tioga,State Senate,52,,Scattering,74
+Chenango,State Senate,52,,Scattering,25
+Delaware,State Senate,52,,Scattering,2
+Total,State Senate,52,,Scattering,630
+Kings,State Senate,19,DEM,Roxanne J. Persaud,7380
+Total,State Senate,19,DEM,Roxanne J. Persaud,7380
+Kings,State Senate,19,REP,Jeffrey J. Ferretti,779
+Total,State Senate,19,REP,Jeffrey J. Ferretti,779
+Kings,State Senate,19,CON,Elias J. Weir,278
+Total,State Senate,19,CON,Elias J. Weir,278
+Kings,State Senate,19,IND,Roxanne J. Persaud,72
+Total,State Senate,19,IND,Roxanne J. Persaud,72
+Kings,State Senate,19,WEP,Roxanne J. Persaud,94
+Total,State Senate,19,WEP,Roxanne J. Persaud,94
+Kings,State Senate,19,,Blank Votes,561
+Total,State Senate,19,,Blank Votes,561
+Kings,State Senate,19,,Void,0
+Total,State Senate,19,,Void,0
+Kings,State Senate,19,,Scattering,16
+Total,State Senate,19,,Scattering,16
+Kings,State House,46,DEM,Pamela Harris,4302
+Total,State House,46,DEM,Pamela Harris,4302
+Kings,State House,46,REP,Lucretia Regina-Potter,1988
+Total,State House,46,REP,Lucretia Regina-Potter,1988
+Kings,State House,46,CON,Lucretia Regina-Potter,570
+Total,State House,46,CON,Lucretia Regina-Potter,570
+Kings,State House,46,WOR,Pamela Harris,293
+Total,State House,46,WOR,Pamela Harris,293
+Kings,State House,46,IND,Lucretia Regina-Potter,113
+Total,State House,46,IND,Lucretia Regina-Potter,113
+Kings,State House,46,PCP,Lucretia Regina-Potter,36
+Total,State House,46,PCP,Lucretia Regina-Potter,36
+Kings,State House,46,,Blank,155
+Total,State House,46,,Blank,155
+Kings,State House,46,,Void,0
+Total,State House,46,,Void,0
+Kings,State House,46,,Scattering,40
+Total,State House,46,,Scattering,40
+Onondaga,State House,128,DEM,Pamela J. Hunter,10730
+Total,State House,128,DEM,Pamela J. Hunter,10730
+Onondaga,State House,128,REP,John W. Sharon,6309
+Total,State House,128,REP,John W. Sharon,6309
+Onondaga,State House,128,CON,David M. Stott,2111
+Total,State House,128,CON,David M. Stott,2111
+Onondaga,State House,128,IND,John W. Sharon,743
+Total,State House,128,IND,John W. Sharon,743
+Onondaga,State House,128,REF,John W. Sharon,78
+Total,State House,128,REF,John W. Sharon,78
+Onondaga,State House,128,,Blank,1100
+Total,State House,128,,Blank,1100
+Onondaga,State House,128,,Void,0
+Total,State House,128,,Void,0
+Onondaga,State House,128,,Scattering,19
+Total,State House,128,,Scattering,19
