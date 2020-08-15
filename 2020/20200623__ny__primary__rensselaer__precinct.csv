@@ -1,0 +1,534 @@
+﻿county,precinct,office,district,party,candidate,votes,early_voting,,,,,,,,
+rensselaer,"Troy 9-11, 16-22, 24-30",Member of Assembly,108,DEM,"John T.
+McDonald, III",735,,,,,,,,,
+rensselaer,Rensselaer 1 - 6,Member of Assembly,108,DEM,"John T.
+McDonald, III",348,,,,,,,,,
+rensselaer,North Greenbush 1,Member of Assembly,108,DEM,"John T.
+McDonald, III",38,,,,,,,,,
+rensselaer,North Greenbush 2,Member of Assembly,108,DEM,"John T.
+McDonald, III",101,,,,,,,,,
+rensselaer,North Greenbush 3,Member of Assembly,108,DEM,"John T.
+McDonald, III",64,,,,,,,,,
+rensselaer,North Greenbush 4,Member of Assembly,108,DEM,"John T.
+McDonald, III",102,,,,,,,,,
+rensselaer,North Greenbush 5,Member of Assembly,108,DEM,"John T.
+McDonald, III",76,,,,,,,,,
+rensselaer,North Greenbush 6,Member of Assembly,108,DEM,"John T.
+McDonald, III",99,,,,,,,,,
+rensselaer,North Greenbush 7,Member of Assembly,108,DEM,"John T.
+McDonald, III",59,,,,,,,,,
+rensselaer,North Greenbush 8,Member of Assembly,108,DEM,"John T.
+McDonald, III",118,,,,,,,,,
+rensselaer,,Member of Assembly,108,DEM,"John T.
+McDonald, III",77,77,,,,,,,,
+rensselaer,"Troy 9-11, 16-22, 24-30",Member of Assembly,108,DEM,"Sam
+Fein",782,,,,,,,,,
+rensselaer,Rensselaer 1 - 6,Member of Assembly,108,DEM,"Sam
+Fein",207,,,,,,,,,
+rensselaer,North Greenbush 1,Member of Assembly,108,DEM,"Sam
+Fein",10,,,,,,,,,
+rensselaer,North Greenbush 2,Member of Assembly,108,DEM,"Sam
+Fein",63,,,,,,,,,
+rensselaer,North Greenbush 3,Member of Assembly,108,DEM,"Sam
+Fein",11,,,,,,,,,
+rensselaer,North Greenbush 4,Member of Assembly,108,DEM,"Sam
+Fein",47,,,,,,,,,
+rensselaer,North Greenbush 5,Member of Assembly,108,DEM,"Sam
+Fein",31,,,,,,,,,
+rensselaer,North Greenbush 6,Member of Assembly,108,DEM,"Sam
+Fein",41,,,,,,,,,
+rensselaer,North Greenbush 7,Member of Assembly,108,DEM,"Sam
+Fein",22,,,,,,,,,
+rensselaer,North Greenbush 8,Member of Assembly,108,DEM,"Sam
+Fein",43,,,,,,,,,
+rensselaer,,Member of Assembly,108,DEM,"Sam
+Fein",56,56,,,,,,,,
+rensselaer,"Troy 9-11, 16-22, 24-30",Member of Assembly,108,DEM,Blank,83,,,,,,,,,
+rensselaer,Rensselaer 1 - 6,Member of Assembly,108,DEM,Blank,3,,,,,,,,,
+rensselaer,North Greenbush 1,Member of Assembly,108,DEM,Blank,7,,,,,,,,,
+rensselaer,North Greenbush 2,Member of Assembly,108,DEM,Blank,9,,,,,,,,,
+rensselaer,North Greenbush 3,Member of Assembly,108,DEM,Blank,12,,,,,,,,,
+rensselaer,North Greenbush 4,Member of Assembly,108,DEM,Blank,0,,,,,,,,,
+rensselaer,North Greenbush 5,Member of Assembly,108,DEM,Blank,5,,,,,,,,,
+rensselaer,North Greenbush 6,Member of Assembly,108,DEM,Blank,14,,,,,,,,,
+rensselaer,North Greenbush 7,Member of Assembly,108,DEM,Blank,10,,,,,,,,,
+rensselaer,North Greenbush 8,Member of Assembly,108,DEM,Blank,31,,,,,,,,,
+rensselaer,"Troy 9-11, 16-22, 24-30",Member of Assembly,108,DEM,Void,4,,,,,,,,,
+rensselaer,Rensselaer 1 - 6,Member of Assembly,108,DEM,Void,33,,,,,,,,,
+rensselaer,North Greenbush 1,Member of Assembly,108,DEM,Void,0,,,,,,,,,
+rensselaer,North Greenbush 2,Member of Assembly,108,DEM,Void,0,,,,,,,,,
+rensselaer,North Greenbush 3,Member of Assembly,108,DEM,Void,5,,,,,,,,,
+rensselaer,North Greenbush 4,Member of Assembly,108,DEM,Void,2,,,,,,,,,
+rensselaer,North Greenbush 5,Member of Assembly,108,DEM,Void,3,,,,,,,,,
+rensselaer,North Greenbush 6,Member of Assembly,108,DEM,Void,8,,,,,,,,,
+rensselaer,North Greenbush 7,Member of Assembly,108,DEM,Void,4,,,,,,,,,
+rensselaer,North Greenbush 8,Member of Assembly,108,DEM,Void,3,,,,,,,,,
+rensselaer,"Berlin 1, 2",Representative in Congress,19,REP,"Ola 
+Hawatmeh",17,,,,,,,,,
+rensselaer,Brunswick 1 - 10,Representative in Congress,19,REP,"Ola 
+Hawatmeh",57,,,,,,,,,
+rensselaer,"Grafton 1, 2",Representative in Congress,19,REP,"Ola 
+Hawatmeh",15,,,,,,,,,
+rensselaer,Hoosick 1 - 7,Representative in Congress,19,REP,"Ola 
+Hawatmeh",49,,,,,,,,,
+rensselaer,Nassau 1 - 4,Representative in Congress,19,REP,"Ola 
+Hawatmeh",45,,,,,,,,,
+rensselaer,Petersburgh 1,Representative in Congress,19,REP,"Ola 
+Hawatmeh",11,,,,,,,,,
+rensselaer,Pittstown 1 - 6,Representative in Congress,19,REP,"Ola 
+Hawatmeh",44,,,,,,,,,
+rensselaer,Poestenkill 1 - 4,Representative in Congress,19,REP,"Ola 
+Hawatmeh",40,,,,,,,,,
+rensselaer,Sand Lake 1 - 6,Representative in Congress,19,REP,"Ola 
+Hawatmeh",74,,,,,,,,,
+rensselaer,Schaghticoke 1 - 7,Representative in Congress,19,REP,"Ola 
+Hawatmeh",60,,,,,,,,,
+rensselaer,"Schodack 2,4,7,8,9",Representative in Congress,19,REP,"Ola 
+Hawatmeh",57,,,,,,,,,
+rensselaer,"Stephentown 1, 2",Representative in Congress,19,REP,"Ola 
+Hawatmeh",20,,,,,,,,,
+rensselaer,,Representative in Congress,19,REP,"Ola 
+Hawatmeh",18,18,,,,,,,,
+rensselaer,"Berlin 1, 2",Representative in Congress,19,REP,"Kyle 
+Van De Water",17,,,,,,,,,
+rensselaer,Brunswick 1 - 10,Representative in Congress,19,REP,"Kyle 
+Van De Water",98,,,,,,,,,
+rensselaer,"Grafton 1, 2",Representative in Congress,19,REP,"Kyle 
+Van De Water",26,,,,,,,,,
+rensselaer,Hoosick 1 - 7,Representative in Congress,19,REP,"Kyle 
+Van De Water",29,,,,,,,,,
+rensselaer,Nassau 1 - 4,Representative in Congress,19,REP,"Kyle 
+Van De Water",56,,,,,,,,,
+rensselaer,Petersburgh 1,Representative in Congress,19,REP,"Kyle 
+Van De Water",20,,,,,,,,,
+rensselaer,Pittstown 1 - 6,Representative in Congress,19,REP,"Kyle 
+Van De Water",71,,,,,,,,,
+rensselaer,Poestenkill 1 - 4,Representative in Congress,19,REP,"Kyle 
+Van De Water",32,,,,,,,,,
+rensselaer,Sand Lake 1 - 6,Representative in Congress,19,REP,"Kyle 
+Van De Water",70,,,,,,,,,
+rensselaer,Schaghticoke 1 - 7,Representative in Congress,19,REP,"Kyle 
+Van De Water",61,,,,,,,,,
+rensselaer,"Schodack 2,4,7,8,9",Representative in Congress,19,REP,"Kyle 
+Van De Water",54,,,,,,,,,
+rensselaer,"Stephentown 1, 2",Representative in Congress,19,REP,"Kyle 
+Van De Water",33,,,,,,,,,
+rensselaer,,Representative in Congress,19,REP,"Kyle 
+Van De Water",16,16,,,,,,,,
+rensselaer,"Berlin 1, 2",Representative in Congress,19,REP,Blank,0,,,,,,,,,
+rensselaer,Brunswick 1 - 10,Representative in Congress,19,REP,Blank,5,,,,,,,,,
+rensselaer,"Grafton 1, 2",Representative in Congress,19,REP,Blank,4,,,,,,,,,
+rensselaer,Hoosick 1 - 7,Representative in Congress,19,REP,Blank,0,,,,,,,,,
+rensselaer,Nassau 1 - 4,Representative in Congress,19,REP,Blank,0,,,,,,,,,
+rensselaer,Petersburgh 1,Representative in Congress,19,REP,Blank,0,,,,,,,,,
+rensselaer,Pittstown 1 - 6,Representative in Congress,19,REP,Blank,0,,,,,,,,,
+rensselaer,Poestenkill 1 - 4,Representative in Congress,19,REP,Blank,0,,,,,,,,,
+rensselaer,Sand Lake 1 - 6,Representative in Congress,19,REP,Blank,2,,,,,,,,,
+rensselaer,Schaghticoke 1 - 7,Representative in Congress,19,REP,Blank,3,,,,,,,,,
+rensselaer,"Schodack 2,4,7,8,9",Representative in Congress,19,REP,Blank,1,,,,,,,,,
+rensselaer,"Stephentown 1, 2",Representative in Congress,19,REP,Blank,2,,,,,,,,,
+rensselaer,"Berlin 1, 2",Representative in Congress,19,REP,Void,,,,,,,,,,
+rensselaer,Brunswick 1 - 10,Representative in Congress,19,REP,Void,,,,,,,,,,
+rensselaer,"Grafton 1, 2",Representative in Congress,19,REP,Void,,,,,,,,,,
+rensselaer,Hoosick 1 - 7,Representative in Congress,19,REP,Void,1,,,,,,,,,
+rensselaer,Nassau 1 - 4,Representative in Congress,19,REP,Void,,,,,,,,,,
+rensselaer,Petersburgh 1,Representative in Congress,19,REP,Void,,,,,,,,,,
+rensselaer,Pittstown 1 - 6,Representative in Congress,19,REP,Void,1,,,,,,,,,
+rensselaer,Poestenkill 1 - 4,Representative in Congress,19,REP,Void,1,,,,,,,,,
+rensselaer,Sand Lake 1 - 6,Representative in Congress,19,REP,Void,1,,,,,,,,,
+rensselaer,Schaghticoke 1 - 7,Representative in Congress,19,REP,Void,4,,,,,,,,,
+rensselaer,"Schodack 2,4,7,8,9",Representative in Congress,19,REP,Void,3,,,,,,,,,
+rensselaer,"Stephentown 1, 2",Representative in Congress,19,REP,Void,2,,,,,,,,,
+rensselaer,"Berlin 
+1 & 2",President,19,DEM,Pete Buttigieg,1,,,,,,,,,
+rensselaer,"Brunswick 
+1 - 10",President,19,DEM,Pete Buttigieg,12,,,,,,,,,
+rensselaer,"Grafton 
+1 & 2",President,19,DEM,Pete Buttigieg,1,,,,,,,,,
+rensselaer,"Hoosick 
+1 - 7",President,19,DEM,Pete Buttigieg,4,,,,,,,,,
+rensselaer,"Nassau 
+1 - 4",President,19,DEM,Pete Buttigieg,4,,,,,,,,,
+rensselaer,"Petersburgh 
+1",President,19,DEM,Pete Buttigieg,2,,,,,,,,,
+rensselaer,"Pittstown 
+1 - 6",President,19,DEM,Pete Buttigieg,3,,,,,,,,,
+rensselaer,"Poestenkill 
+1 - 4",President,19,DEM,Pete Buttigieg,2,,,,,,,,,
+rensselaer,"Sand Lake 
+1 - 6",President,19,DEM,Pete Buttigieg,15,,,,,,,,,
+rensselaer,"Schaghticoke 
+1 - 7",President,19,DEM,Pete Buttigieg,6,,,,,,,,,
+rensselaer,"Schodack 2, 4, 7, 8, 9",President,19,DEM,Pete Buttigieg,6,,,,,,,,,
+rensselaer,"Stephentown
+ 1 & 2",President,19,DEM,Pete Buttigieg,0,,,,,,,,,
+rensselaer,"Berlin 
+1 & 2",President,19,DEM,Amy Klobuchar,0,,,,,,,,,
+rensselaer,"Brunswick 
+1 - 10",President,19,DEM,Amy Klobuchar,10,,,,,,,,,
+rensselaer,"Grafton 
+1 & 2",President,19,DEM,Amy Klobuchar,0,,,,,,,,,
+rensselaer,"Hoosick 
+1 - 7",President,19,DEM,Amy Klobuchar,4,,,,,,,,,
+rensselaer,"Nassau 
+1 - 4",President,19,DEM,Amy Klobuchar,5,,,,,,,,,
+rensselaer,"Petersburgh 
+1",President,19,DEM,Amy Klobuchar,0,,,,,,,,,
+rensselaer,"Pittstown 
+1 - 6",President,19,DEM,Amy Klobuchar,0,,,,,,,,,
+rensselaer,"Poestenkill 
+1 - 4",President,19,DEM,Amy Klobuchar,1,,,,,,,,,
+rensselaer,"Sand Lake 
+1 - 6",President,19,DEM,Amy Klobuchar,2,,,,,,,,,
+rensselaer,"Schaghticoke 
+1 - 7",President,19,DEM,Amy Klobuchar,3,,,,,,,,,
+rensselaer,"Schodack 2, 4, 7, 8, 9",President,19,DEM,Amy Klobuchar,4,,,,,,,,,
+rensselaer,"Stephentown
+ 1 & 2",President,19,DEM,Amy Klobuchar,1,,,,,,,,,
+rensselaer,"Berlin 
+1 & 2",President,19,DEM,Joseph R. Biden,28,,,,,,,,,
+rensselaer,"Brunswick 
+1 - 10",President,19,DEM,Joseph R. Biden,517,,,,,,,,,
+rensselaer,"Grafton 
+1 & 2",President,19,DEM,Joseph R. Biden,60,,,,,,,,,
+rensselaer,"Hoosick 
+1 - 7",President,19,DEM,Joseph R. Biden,128,,,,,,,,,
+rensselaer,"Nassau 
+1 - 4",President,19,DEM,Joseph R. Biden,125,,,,,,,,,
+rensselaer,"Petersburgh 
+1",President,19,DEM,Joseph R. Biden,51,,,,,,,,,
+rensselaer,"Pittstown 
+1 - 6",President,19,DEM,Joseph R. Biden,91,,,,,,,,,
+rensselaer,"Poestenkill 
+1 - 4",President,19,DEM,Joseph R. Biden,142,,,,,,,,,
+rensselaer,"Sand Lake 
+1 - 6",President,19,DEM,Joseph R. Biden,382,,,,,,,,,
+rensselaer,"Schaghticoke 
+1 - 7",President,19,DEM,Joseph R. Biden,154,,,,,,,,,
+rensselaer,"Schodack 2, 4, 7, 8, 9",President,19,DEM,Joseph R. Biden,182,,,,,,,,,
+rensselaer,"Stephentown
+ 1 & 2",President,19,DEM,Joseph R. Biden,123,,,,,,,,,
+rensselaer,"Berlin 
+1 & 2",President,19,DEM,Tulsi Gabbard,1,,,,,,,,,
+rensselaer,"Brunswick 
+1 - 10",President,19,DEM,Tulsi Gabbard,3,,,,,,,,,
+rensselaer,"Grafton 
+1 & 2",President,19,DEM,Tulsi Gabbard,0,,,,,,,,,
+rensselaer,"Hoosick 
+1 - 7",President,19,DEM,Tulsi Gabbard,3,,,,,,,,,
+rensselaer,"Nassau 
+1 - 4",President,19,DEM,Tulsi Gabbard,1,,,,,,,,,
+rensselaer,"Petersburgh 
+1",President,19,DEM,Tulsi Gabbard,0,,,,,,,,,
+rensselaer,"Pittstown 
+1 - 6",President,19,DEM,Tulsi Gabbard,2,,,,,,,,,
+rensselaer,"Poestenkill 
+1 - 4",President,19,DEM,Tulsi Gabbard,3,,,,,,,,,
+rensselaer,"Sand Lake 
+1 - 6",President,19,DEM,Tulsi Gabbard,5,,,,,,,,,
+rensselaer,"Schaghticoke 
+1 - 7",President,19,DEM,Tulsi Gabbard,3,,,,,,,,,
+rensselaer,"Schodack 2, 4, 7, 8, 9",President,19,DEM,Tulsi Gabbard,1,,,,,,,,,
+rensselaer,"Stephentown
+ 1 & 2",President,19,DEM,Tulsi Gabbard,0,,,,,,,,,
+rensselaer,"Berlin 
+1 & 2",President,19,DEM,Bernie Sanders,9,,,,,,,,,
+rensselaer,"Brunswick 
+1 - 10",President,19,DEM,Bernie Sanders,126,,,,,,,,,
+rensselaer,"Grafton 
+1 & 2",President,19,DEM,Bernie Sanders,29,,,,,,,,,
+rensselaer,"Hoosick 
+1 - 7",President,19,DEM,Bernie Sanders,51,,,,,,,,,
+rensselaer,"Nassau 
+1 - 4",President,19,DEM,Bernie Sanders,48,,,,,,,,,
+rensselaer,"Petersburgh 
+1",President,19,DEM,Bernie Sanders,15,,,,,,,,,
+rensselaer,"Pittstown 
+1 - 6",President,19,DEM,Bernie Sanders,32,,,,,,,,,
+rensselaer,"Poestenkill 
+1 - 4",President,19,DEM,Bernie Sanders,62,,,,,,,,,
+rensselaer,"Sand Lake 
+1 - 6",President,19,DEM,Bernie Sanders,118,,,,,,,,,
+rensselaer,"Schaghticoke 
+1 - 7",President,19,DEM,Bernie Sanders,42,,,,,,,,,
+rensselaer,"Schodack 2, 4, 7, 8, 9",President,19,DEM,Bernie Sanders,56,,,,,,,,,
+rensselaer,"Stephentown
+ 1 & 2",President,19,DEM,Bernie Sanders,29,,,,,,,,,
+rensselaer,"Berlin 
+1 & 2",President,19,DEM,Michael R. Bloomberg,0,,,,,,,,,
+rensselaer,"Brunswick 
+1 - 10",President,19,DEM,Michael R. Bloomberg,1,,,,,,,,,
+rensselaer,"Grafton 
+1 & 2",President,19,DEM,Michael R. Bloomberg,0,,,,,,,,,
+rensselaer,"Hoosick 
+1 - 7",President,19,DEM,Michael R. Bloomberg,1,,,,,,,,,
+rensselaer,"Nassau 
+1 - 4",President,19,DEM,Michael R. Bloomberg,1,,,,,,,,,
+rensselaer,"Petersburgh 
+1",President,19,DEM,Michael R. Bloomberg,1,,,,,,,,,
+rensselaer,"Pittstown 
+1 - 6",President,19,DEM,Michael R. Bloomberg,0,,,,,,,,,
+rensselaer,"Poestenkill 
+1 - 4",President,19,DEM,Michael R. Bloomberg,3,,,,,,,,,
+rensselaer,"Sand Lake 
+1 - 6",President,19,DEM,Michael R. Bloomberg,4,,,,,,,,,
+rensselaer,"Schaghticoke 
+1 - 7",President,19,DEM,Michael R. Bloomberg,3,,,,,,,,,
+rensselaer,"Schodack 2, 4, 7, 8, 9",President,19,DEM,Michael R. Bloomberg,3,,,,,,,,,
+rensselaer,"Stephentown
+ 1 & 2",President,19,DEM,Michael R. Bloomberg,0,,,,,,,,,
+rensselaer,"Berlin 
+1 & 2",President,19,DEM,Tom Steyer,0,,,,,,,,,
+rensselaer,"Brunswick 
+1 - 10",President,19,DEM,Tom Steyer,4,,,,,,,,,
+rensselaer,"Grafton 
+1 & 2",President,19,DEM,Tom Steyer,0,,,,,,,,,
+rensselaer,"Hoosick 
+1 - 7",President,19,DEM,Tom Steyer,0,,,,,,,,,
+rensselaer,"Nassau 
+1 - 4",President,19,DEM,Tom Steyer,0,,,,,,,,,
+rensselaer,"Petersburgh 
+1",President,19,DEM,Tom Steyer,0,,,,,,,,,
+rensselaer,"Pittstown 
+1 - 6",President,19,DEM,Tom Steyer,0,,,,,,,,,
+rensselaer,"Poestenkill 
+1 - 4",President,19,DEM,Tom Steyer,0,,,,,,,,,
+rensselaer,"Sand Lake 
+1 - 6",President,19,DEM,Tom Steyer,1,,,,,,,,,
+rensselaer,"Schaghticoke 
+1 - 7",President,19,DEM,Tom Steyer,2,,,,,,,,,
+rensselaer,"Schodack 2, 4, 7, 8, 9",President,19,DEM,Tom Steyer,0,,,,,,,,,
+rensselaer,"Stephentown
+ 1 & 2",President,19,DEM,Tom Steyer,0,,,,,,,,,
+rensselaer,"Berlin 
+1 & 2",President,19,DEM,Michael Bennet,0,,,,,,,,,
+rensselaer,"Brunswick 
+1 - 10",President,19,DEM,Michael Bennet,1,,,,,,,,,
+rensselaer,"Grafton 
+1 & 2",President,19,DEM,Michael Bennet,1,,,,,,,,,
+rensselaer,"Hoosick 
+1 - 7",President,19,DEM,Michael Bennet,0,,,,,,,,,
+rensselaer,"Nassau 
+1 - 4",President,19,DEM,Michael Bennet,0,,,,,,,,,
+rensselaer,"Petersburgh 
+1",President,19,DEM,Michael Bennet,0,,,,,,,,,
+rensselaer,"Pittstown 
+1 - 6",President,19,DEM,Michael Bennet,0,,,,,,,,,
+rensselaer,"Poestenkill 
+1 - 4",President,19,DEM,Michael Bennet,0,,,,,,,,,
+rensselaer,"Sand Lake 
+1 - 6",President,19,DEM,Michael Bennet,0,,,,,,,,,
+rensselaer,"Schaghticoke 
+1 - 7",President,19,DEM,Michael Bennet,0,,,,,,,,,
+rensselaer,"Schodack 2, 4, 7, 8, 9",President,19,DEM,Michael Bennet,0,,,,,,,,,
+rensselaer,"Stephentown
+ 1 & 2",President,19,DEM,Michael Bennet,0,,,,,,,,,
+rensselaer,"Berlin 
+1 & 2",President,19,DEM,Elizabeth Warren,2,,,,,,,,,
+rensselaer,"Brunswick 
+1 - 10",President,19,DEM,Elizabeth Warren,38,,,,,,,,,
+rensselaer,"Grafton 
+1 & 2",President,19,DEM,Elizabeth Warren,10,,,,,,,,,
+rensselaer,"Hoosick 
+1 - 7",President,19,DEM,Elizabeth Warren,8,,,,,,,,,
+rensselaer,"Nassau 
+1 - 4",President,19,DEM,Elizabeth Warren,13,,,,,,,,,
+rensselaer,"Petersburgh 
+1",President,19,DEM,Elizabeth Warren,1,,,,,,,,,
+rensselaer,"Pittstown 
+1 - 6",President,19,DEM,Elizabeth Warren,4,,,,,,,,,
+rensselaer,"Poestenkill 
+1 - 4",President,19,DEM,Elizabeth Warren,12,,,,,,,,,
+rensselaer,"Sand Lake 
+1 - 6",President,19,DEM,Elizabeth Warren,29,,,,,,,,,
+rensselaer,"Schaghticoke 
+1 - 7",President,19,DEM,Elizabeth Warren,13,,,,,,,,,
+rensselaer,"Schodack 2, 4, 7, 8, 9",President,19,DEM,Elizabeth Warren,20,,,,,,,,,
+rensselaer,"Stephentown
+ 1 & 2",President,19,DEM,Elizabeth Warren,12,,,,,,,,,
+rensselaer,"Berlin 
+1 & 2",President,19,DEM,Andrew Yang,1,,,,,,,,,
+rensselaer,"Brunswick 
+1 - 10",President,19,DEM,Andrew Yang,18,,,,,,,,,
+rensselaer,"Grafton 
+1 & 2",President,19,DEM,Andrew Yang,0,,,,,,,,,
+rensselaer,"Hoosick 
+1 - 7",President,19,DEM,Andrew Yang,2,,,,,,,,,
+rensselaer,"Nassau 
+1 - 4",President,19,DEM,Andrew Yang,8,,,,,,,,,
+rensselaer,"Petersburgh 
+1",President,19,DEM,Andrew Yang,1,,,,,,,,,
+rensselaer,"Pittstown 
+1 - 6",President,19,DEM,Andrew Yang,2,,,,,,,,,
+rensselaer,"Poestenkill 
+1 - 4",President,19,DEM,Andrew Yang,5,,,,,,,,,
+rensselaer,"Sand Lake 
+1 - 6",President,19,DEM,Andrew Yang,11,,,,,,,,,
+rensselaer,"Schaghticoke 
+1 - 7",President,19,DEM,Andrew Yang,5,,,,,,,,,
+rensselaer,"Schodack 2, 4, 7, 8, 9",President,19,DEM,Andrew Yang,1,,,,,,,,,
+rensselaer,"Stephentown
+ 1 & 2",President,19,DEM,Andrew Yang,1,,,,,,,,,
+rensselaer,"Berlin 
+1 & 2",President,19,DEM,Deval Patrick,0,,,,,,,,,
+rensselaer,"Brunswick 
+1 - 10",President,19,DEM,Deval Patrick,1,,,,,,,,,
+rensselaer,"Grafton 
+1 & 2",President,19,DEM,Deval Patrick,0,,,,,,,,,
+rensselaer,"Hoosick 
+1 - 7",President,19,DEM,Deval Patrick,1,,,,,,,,,
+rensselaer,"Nassau 
+1 - 4",President,19,DEM,Deval Patrick,0,,,,,,,,,
+rensselaer,"Petersburgh 
+1",President,19,DEM,Deval Patrick,0,,,,,,,,,
+rensselaer,"Pittstown 
+1 - 6",President,19,DEM,Deval Patrick,2,,,,,,,,,
+rensselaer,"Poestenkill 
+1 - 4",President,19,DEM,Deval Patrick,1,,,,,,,,,
+rensselaer,"Sand Lake 
+1 - 6",President,19,DEM,Deval Patrick,2,,,,,,,,,
+rensselaer,"Schaghticoke 
+1 - 7",President,19,DEM,Deval Patrick,1,,,,,,,,,
+rensselaer,"Schodack 2, 4, 7, 8, 9",President,19,DEM,Deval Patrick,0,,,,,,,,,
+rensselaer,"Stephentown
+ 1 & 2",President,19,DEM,Deval Patrick,0,,,,,,,,,
+rensselaer,"Berlin 
+1 & 2",President,19,DEM,Blank,19,,,,,,,,,
+rensselaer,"Brunswick 
+1 - 10",President,19,DEM,Blank,223,,,,,,,,,
+rensselaer,"Grafton 
+1 & 2",President,19,DEM,Blank,0,,,,,,,,,
+rensselaer,"Hoosick 
+1 - 7",President,19,DEM,Blank,0,,,,,,,,,
+rensselaer,"Nassau 
+1 - 4",President,19,DEM,Blank,0,,,,,,,,,
+rensselaer,"Petersburgh 
+1",President,19,DEM,Blank,0,,,,,,,,,
+rensselaer,"Pittstown 
+1 - 6",President,19,DEM,Blank,0,,,,,,,,,
+rensselaer,"Poestenkill 
+1 - 4",President,19,DEM,Blank,3,,,,,,,,,
+rensselaer,"Sand Lake 
+1 - 6",President,19,DEM,Blank,5,,,,,,,,,
+rensselaer,"Schaghticoke 
+1 - 7",President,19,DEM,Blank,3,,,,,,,,,
+rensselaer,"Schodack 2, 4, 7, 8, 9",President,19,DEM,Blank,2,,,,,,,,,
+rensselaer,"Stephentown
+ 1 & 2",President,19,DEM,Blank,1,,,,,,,,,
+rensselaer,"East Greenbush
+ 1 - 12",President,20,DEM,Pete Buttigieg,32,,,,,,,,,
+rensselaer,"North Greenbush
+ 1 - 8",President,20,DEM,Pete Buttigieg,19,,,,,,,,,
+rensselaer,"Schodack
+ 1, 3, 5, 6, 10, 11",President,20,DEM,Pete Buttigieg,8,,,,,,,,,
+rensselaer,"Rensselaer
+ 1 - 6",President,20,DEM,Pete Buttigieg,12,,,,,,,,,
+rensselaer,Troy 1 - 30,President,20,DEM,Pete Buttigieg,31,,,,,,,,,
+rensselaer,"East Greenbush
+ 1 - 12",President,20,DEM,Amy Klobuchar,15,,,,,,,,,
+rensselaer,"North Greenbush
+ 1 - 8",President,20,DEM,Amy Klobuchar,12,,,,,,,,,
+rensselaer,"Schodack
+ 1, 3, 5, 6, 10, 11",President,20,DEM,Amy Klobuchar,0,,,,,,,,,
+rensselaer,"Rensselaer
+ 1 - 6",President,20,DEM,Amy Klobuchar,11,,,,,,,,,
+rensselaer,Troy 1 - 30,President,20,DEM,Amy Klobuchar,15,,,,,,,,,
+rensselaer,"East Greenbush
+ 1 - 12",President,20,DEM,Joseph R. Biden,784,,,,,,,,,
+rensselaer,"North Greenbush
+ 1 - 8",President,20,DEM,Joseph R. Biden,684,,,,,,,,,
+rensselaer,"Schodack
+ 1, 3, 5, 6, 10, 11",President,20,DEM,Joseph R. Biden,331,,,,,,,,,
+rensselaer,"Rensselaer
+ 1 - 6",President,20,DEM,Joseph R. Biden,404,,,,,,,,,
+rensselaer,Troy 1 - 30,President,20,DEM,Joseph R. Biden,1536,,,,,,,,,
+rensselaer,"East Greenbush
+ 1 - 12",President,20,DEM,Tulsi Gabbard,4,,,,,,,,,
+rensselaer,"North Greenbush
+ 1 - 8",President,20,DEM,Tulsi Gabbard,5,,,,,,,,,
+rensselaer,"Schodack
+ 1, 3, 5, 6, 10, 11",President,20,DEM,Tulsi Gabbard,3,,,,,,,,,
+rensselaer,"Rensselaer
+ 1 - 6",President,20,DEM,Tulsi Gabbard,6,,,,,,,,,
+rensselaer,Troy 1 - 30,President,20,DEM,Tulsi Gabbard,8,,,,,,,,,
+rensselaer,"East Greenbush
+ 1 - 12",President,20,DEM,Bernie Sanders,201,,,,,,,,,
+rensselaer,"North Greenbush
+ 1 - 8",President,20,DEM,Bernie Sanders,177,,,,,,,,,
+rensselaer,"Schodack
+ 1, 3, 5, 6, 10, 11",President,20,DEM,Bernie Sanders,71,,,,,,,,,
+rensselaer,"Rensselaer
+ 1 - 6",President,20,DEM,Bernie Sanders,108,,,,,,,,,
+rensselaer,Troy 1 - 30,President,20,DEM,Bernie Sanders,708,,,,,,,,,
+rensselaer,"East Greenbush
+ 1 - 12",President,20,DEM,Michael R. Bloomberg,9,,,,,,,,,
+rensselaer,"North Greenbush
+ 1 - 8",President,20,DEM,Michael R. Bloomberg,10,,,,,,,,,
+rensselaer,"Schodack
+ 1, 3, 5, 6, 10, 11",President,20,DEM,Michael R. Bloomberg,4,,,,,,,,,
+rensselaer,"Rensselaer
+ 1 - 6",President,20,DEM,Michael R. Bloomberg,5,,,,,,,,,
+rensselaer,Troy 1 - 30,President,20,DEM,Michael R. Bloomberg,12,,,,,,,,,
+rensselaer,"East Greenbush
+ 1 - 12",President,20,DEM,Tom Steyer,0,,,,,,,,,
+rensselaer,"North Greenbush
+ 1 - 8",President,20,DEM,Tom Steyer,4,,,,,,,,,
+rensselaer,"Schodack
+ 1, 3, 5, 6, 10, 11",President,20,DEM,Tom Steyer,0,,,,,,,,,
+rensselaer,"Rensselaer
+ 1 - 6",President,20,DEM,Tom Steyer,1,,,,,,,,,
+rensselaer,Troy 1 - 30,President,20,DEM,Tom Steyer,3,,,,,,,,,
+rensselaer,"East Greenbush
+ 1 - 12",President,20,DEM,Michael Bennet,2,,,,,,,,,
+rensselaer,"North Greenbush
+ 1 - 8",President,20,DEM,Michael Bennet,2,,,,,,,,,
+rensselaer,"Schodack
+ 1, 3, 5, 6, 10, 11",President,20,DEM,Michael Bennet,0,,,,,,,,,
+rensselaer,"Rensselaer
+ 1 - 6",President,20,DEM,Michael Bennet,2,,,,,,,,,
+rensselaer,Troy 1 - 30,President,20,DEM,Michael Bennet,2,,,,,,,,,
+rensselaer,"East Greenbush
+ 1 - 12",President,20,DEM,Elizabeth Warren,51,,,,,,,,,
+rensselaer,"North Greenbush
+ 1 - 8",President,20,DEM,Elizabeth Warren,39,,,,,,,,,
+rensselaer,"Schodack
+ 1, 3, 5, 6, 10, 11",President,20,DEM,Elizabeth Warren,30,,,,,,,,,
+rensselaer,"Rensselaer
+ 1 - 6",President,20,DEM,Elizabeth Warren,12,,,,,,,,,
+rensselaer,Troy 1 - 30,President,20,DEM,Elizabeth Warren,184,,,,,,,,,
+rensselaer,"East Greenbush
+ 1 - 12",President,20,DEM,Andrew Yang,6,,,,,,,,,
+rensselaer,"North Greenbush
+ 1 - 8",President,20,DEM,Andrew Yang,14,,,,,,,,,
+rensselaer,"Schodack
+ 1, 3, 5, 6, 10, 11",President,20,DEM,Andrew Yang,3,,,,,,,,,
+rensselaer,"Rensselaer
+ 1 - 6",President,20,DEM,Andrew Yang,9,,,,,,,,,
+rensselaer,Troy 1 - 30,President,20,DEM,Andrew Yang,29,,,,,,,,,
+rensselaer,"East Greenbush
+ 1 - 12",President,20,DEM,Deval Patrick,0,,,,,,,,,
+rensselaer,"North Greenbush
+ 1 - 8",President,20,DEM,Deval Patrick,6,,,,,,,,,
+rensselaer,"Schodack
+ 1, 3, 5, 6, 10, 11",President,20,DEM,Deval Patrick,1,,,,,,,,,
+rensselaer,"Rensselaer
+ 1 - 6",President,20,DEM,Deval Patrick,0,,,,,,,,,
+rensselaer,Troy 1 - 30,President,20,DEM,Deval Patrick,4,,,,,,,,,
+rensselaer,"East Greenbush
+ 1 - 12",President,20,DEM,Blank,2,,,,,,,,,
+rensselaer,"North Greenbush
+ 1 - 8",President,20,DEM,Blank,14,,,,,,,,,
+rensselaer,"Schodack
+ 1, 3, 5, 6, 10, 11",President,20,DEM,Blank,0,,,,,,,,,
+rensselaer,"Rensselaer
+ 1 - 6",President,20,DEM,Blank,16,,,,,,,,,
+rensselaer,Troy 1 - 30,President,20,DEM,Blank,33,,,,,,,,,
+rensselaer,"East Greenbush
+ 1 - 12",President,20,DEM,Void,,,,,,,,,,
+rensselaer,"North Greenbush
+ 1 - 8",President,20,DEM,Void,,,,,,,,,,
+rensselaer,"Schodack
+ 1, 3, 5, 6, 10, 11",President,20,DEM,Void,,,,,,,,,,
+rensselaer,"Rensselaer
+ 1 - 6",President,20,DEM,Void,,,,,,,,,,
+rensselaer,Troy 1 - 30,President,20,DEM,Void,2,,,,,,,,,
