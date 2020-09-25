@@ -1,0 +1,589 @@
+﻿county,precinct,office,district,party,candidate,votes
+Essex,Chesterfield 1,Ballots Cast,,DEM,,31
+Essex,Chesterfield 2,Ballots Cast,,DEM,,96
+Essex,Chesterfield 4,Ballots Cast,,DEM,,29
+Essex,Crown Point 1,Ballots Cast,,DEM,,32
+Essex,Crown Point 2,Ballots Cast,,DEM,,17
+Essex,Crown Point 3,Ballots Cast,,DEM,,27
+Essex,Elizabethtown,Ballots Cast,,DEM,,88
+Essex,Essex 1,Ballots Cast,,DEM,,45
+Essex,Essex 2,Ballots Cast,,DEM,,33
+Essex,Jay 1,Ballots Cast,,DEM,,192
+Essex,Jay 2,Ballots Cast,,DEM,,64
+Essex,Keene 1,Ballots Cast,,DEM,,134
+Essex,Keene 2,Ballots Cast,,DEM,,85
+Essex,Lewis,Ballots Cast,,DEM,,63
+Essex,Minerva,Ballots Cast,,DEM,,79
+Essex,Moriah 1,Ballots Cast,,DEM,,29
+Essex,Moriah 2,Ballots Cast,,DEM,,53
+Essex,Moriah 3,Ballots Cast,,DEM,,55
+Essex,Moriah 4,Ballots Cast,,DEM,,31
+Essex,Newcomb,Ballots Cast,,DEM,,50
+Essex,North Elba 1,Ballots Cast,,DEM,,50
+Essex,North Elba 2,Ballots Cast,,DEM,,137
+Essex,North Elba 3,Ballots Cast,,DEM,,76
+Essex,North Elba 4,Ballots Cast,,DEM,,71
+Essex,North Elba 5,Ballots Cast,,DEM,,98
+Essex,North Elba 6,Ballots Cast,,DEM,,126
+Essex,North Elba 7,Ballots Cast,,DEM,,70
+Essex,North Hudson,Ballots Cast,,DEM,,13
+Essex,Schroon 1,Ballots Cast,,DEM,,41
+Essex,Schroon 2,Ballots Cast,,DEM,,72
+Essex,St. Armand,Ballots Cast,,DEM,,147
+Essex,Ticonderoga 1,Ballots Cast,,DEM,,28
+Essex,Ticonderoga 2,Ballots Cast,,DEM,,38
+Essex,Ticonderoga 3,Ballots Cast,,DEM,,32
+Essex,Ticonderoga 4,Ballots Cast,,DEM,,36
+Essex,Ticonderoga 5,Ballots Cast,,DEM,,13
+Essex,Ticonderoga 6,Ballots Cast,,DEM,,30
+Essex,Westport 1,Ballots Cast,,DEM,,37
+Essex,Westport 2,Ballots Cast,,DEM,,109
+Essex,Willsboro 1,Ballots Cast,,DEM,,65
+Essex,Willsboro 2,Ballots Cast,,DEM,,38
+Essex,Wilmington,Ballots Cast,,DEM,,102
+Essex,Chesterfield 1,Voids,,DEM,,0
+Essex,Chesterfield 2,Voids,,DEM,,0
+Essex,Chesterfield 4,Voids,,DEM,,0
+Essex,Crown Point 1,Voids,,DEM,,0
+Essex,Crown Point 2,Voids,,DEM,,0
+Essex,Crown Point 3,Voids,,DEM,,0
+Essex,Elizabethtown,Voids,,DEM,,0
+Essex,Essex 1,Voids,,DEM,,0
+Essex,Essex 2,Voids,,DEM,,0
+Essex,Jay 1,Voids,,DEM,,1
+Essex,Jay 2,Voids,,DEM,,1
+Essex,Keene 1,Voids,,DEM,,0
+Essex,Keene 2,Voids,,DEM,,0
+Essex,Lewis,Voids,,DEM,,0
+Essex,Minerva,Voids,,DEM,,0
+Essex,Moriah 1,Voids,,DEM,,0
+Essex,Moriah 2,Voids,,DEM,,0
+Essex,Moriah 3,Voids,,DEM,,0
+Essex,Moriah 4,Voids,,DEM,,0
+Essex,Newcomb,Voids,,DEM,,0
+Essex,North Elba 1,Voids,,DEM,,0
+Essex,North Elba 2,Voids,,DEM,,0
+Essex,North Elba 3,Voids,,DEM,,3
+Essex,North Elba 4,Voids,,DEM,,0
+Essex,North Elba 5,Voids,,DEM,,0
+Essex,North Elba 6,Voids,,DEM,,0
+Essex,North Elba 7,Voids,,DEM,,0
+Essex,North Hudson,Voids,,DEM,,0
+Essex,Schroon 1,Voids,,DEM,,0
+Essex,Schroon 2,Voids,,DEM,,0
+Essex,St. Armand,Voids,,DEM,,1
+Essex,Ticonderoga 1,Voids,,DEM,,0
+Essex,Ticonderoga 2,Voids,,DEM,,0
+Essex,Ticonderoga 3,Voids,,DEM,,0
+Essex,Ticonderoga 4,Voids,,DEM,,2
+Essex,Ticonderoga 5,Voids,,DEM,,0
+Essex,Ticonderoga 6,Voids,,DEM,,0
+Essex,Westport 1,Voids,,DEM,,0
+Essex,Westport 2,Voids,,DEM,,0
+Essex,Willsboro 1,Voids,,DEM,,2
+Essex,Willsboro 2,Voids,,DEM,,0
+Essex,Wilmington,Voids,,DEM,,0
+Essex,Chesterfield 1,Blanks,,DEM,,1
+Essex,Chesterfield 2,Blanks,,DEM,,3
+Essex,Chesterfield 4,Blanks,,DEM,,0
+Essex,Crown Point 1,Blanks,,DEM,,1
+Essex,Crown Point 2,Blanks,,DEM,,0
+Essex,Crown Point 3,Blanks,,DEM,,0
+Essex,Elizabethtown,Blanks,,DEM,,0
+Essex,Essex 1,Blanks,,DEM,,0
+Essex,Essex 2,Blanks,,DEM,,0
+Essex,Jay 1,Blanks,,DEM,,2
+Essex,Jay 2,Blanks,,DEM,,1
+Essex,Keene 1,Blanks,,DEM,,0
+Essex,Keene 2,Blanks,,DEM,,0
+Essex,Lewis,Blanks,,DEM,,0
+Essex,Minerva,Blanks,,DEM,,1
+Essex,Moriah 1,Blanks,,DEM,,0
+Essex,Moriah 2,Blanks,,DEM,,1
+Essex,Moriah 3,Blanks,,DEM,,0
+Essex,Moriah 4,Blanks,,DEM,,1
+Essex,Newcomb,Blanks,,DEM,,1
+Essex,North Elba 1,Blanks,,DEM,,0
+Essex,North Elba 2,Blanks,,DEM,,1
+Essex,North Elba 3,Blanks,,DEM,,0
+Essex,North Elba 4,Blanks,,DEM,,0
+Essex,North Elba 5,Blanks,,DEM,,0
+Essex,North Elba 6,Blanks,,DEM,,0
+Essex,North Elba 7,Blanks,,DEM,,0
+Essex,North Hudson,Blanks,,DEM,,0
+Essex,Schroon 1,Blanks,,DEM,,1
+Essex,Schroon 2,Blanks,,DEM,,0
+Essex,St. Armand,Blanks,,DEM,,1
+Essex,Ticonderoga 1,Blanks,,DEM,,0
+Essex,Ticonderoga 2,Blanks,,DEM,,0
+Essex,Ticonderoga 3,Blanks,,DEM,,0
+Essex,Ticonderoga 4,Blanks,,DEM,,0
+Essex,Ticonderoga 5,Blanks,,DEM,,0
+Essex,Ticonderoga 6,Blanks,,DEM,,0
+Essex,Westport 1,Blanks,,DEM,,0
+Essex,Westport 2,Blanks,,DEM,,0
+Essex,Willsboro 1,Blanks,,DEM,,0
+Essex,Willsboro 2,Blanks,,DEM,,0
+Essex,Wilmington,Blanks,,DEM,,0
+Essex,Chesterfield 1,President,,DEM,Pete Buttigieg,1
+Essex,Chesterfield 2,President,,DEM,Pete Buttigieg,4
+Essex,Chesterfield 4,President,,DEM,Pete Buttigieg,0
+Essex,Crown Point 1,President,,DEM,Pete Buttigieg,1
+Essex,Crown Point 2,President,,DEM,Pete Buttigieg,0
+Essex,Crown Point 3,President,,DEM,Pete Buttigieg,1
+Essex,Elizabethtown,President,,DEM,Pete Buttigieg,4
+Essex,Essex 1,President,,DEM,Pete Buttigieg,0
+Essex,Essex 2,President,,DEM,Pete Buttigieg,0
+Essex,Jay 1,President,,DEM,Pete Buttigieg,6
+Essex,Jay 2,President,,DEM,Pete Buttigieg,0
+Essex,Keene 1,President,,DEM,Pete Buttigieg,3
+Essex,Keene 2,President,,DEM,Pete Buttigieg,0
+Essex,Lewis,President,,DEM,Pete Buttigieg,1
+Essex,Minerva,President,,DEM,Pete Buttigieg,2
+Essex,Moriah 1,President,,DEM,Pete Buttigieg,0
+Essex,Moriah 2,President,,DEM,Pete Buttigieg,2
+Essex,Moriah 3,President,,DEM,Pete Buttigieg,1
+Essex,Moriah 4,President,,DEM,Pete Buttigieg,0
+Essex,Newcomb,President,,DEM,Pete Buttigieg,0
+Essex,North Elba 1,President,,DEM,Pete Buttigieg,0
+Essex,North Elba 2,President,,DEM,Pete Buttigieg,2
+Essex,North Elba 3,President,,DEM,Pete Buttigieg,0
+Essex,North Elba 4,President,,DEM,Pete Buttigieg,1
+Essex,North Elba 5,President,,DEM,Pete Buttigieg,2
+Essex,North Elba 6,President,,DEM,Pete Buttigieg,0
+Essex,North Elba 7,President,,DEM,Pete Buttigieg,0
+Essex,North Hudson,President,,DEM,Pete Buttigieg,0
+Essex,Schroon 1,President,,DEM,Pete Buttigieg,1
+Essex,Schroon 2,President,,DEM,Pete Buttigieg,0
+Essex,St. Armand,President,,DEM,Pete Buttigieg,2
+Essex,Ticonderoga 1,President,,DEM,Pete Buttigieg,0
+Essex,Ticonderoga 2,President,,DEM,Pete Buttigieg,1
+Essex,Ticonderoga 3,President,,DEM,Pete Buttigieg,0
+Essex,Ticonderoga 4,President,,DEM,Pete Buttigieg,0
+Essex,Ticonderoga 5,President,,DEM,Pete Buttigieg,0
+Essex,Ticonderoga 6,President,,DEM,Pete Buttigieg,0
+Essex,Westport 1,President,,DEM,Pete Buttigieg,0
+Essex,Westport 2,President,,DEM,Pete Buttigieg,3
+Essex,Willsboro 1,President,,DEM,Pete Buttigieg,2
+Essex,Willsboro 2,President,,DEM,Pete Buttigieg,1
+Essex,Wilmington,President,,DEM,Pete Buttigieg,3
+Essex,Chesterfield 1,President,,DEM,Amy Klobuchar,0
+Essex,Chesterfield 2,President,,DEM,Amy Klobuchar,1
+Essex,Chesterfield 4,President,,DEM,Amy Klobuchar,1
+Essex,Crown Point 1,President,,DEM,Amy Klobuchar,0
+Essex,Crown Point 2,President,,DEM,Amy Klobuchar,0
+Essex,Crown Point 3,President,,DEM,Amy Klobuchar,1
+Essex,Elizabethtown,President,,DEM,Amy Klobuchar,1
+Essex,Essex 1,President,,DEM,Amy Klobuchar,0
+Essex,Essex 2,President,,DEM,Amy Klobuchar,0
+Essex,Jay 1,President,,DEM,Amy Klobuchar,0
+Essex,Jay 2,President,,DEM,Amy Klobuchar,1
+Essex,Keene 1,President,,DEM,Amy Klobuchar,0
+Essex,Keene 2,President,,DEM,Amy Klobuchar,0
+Essex,Lewis,President,,DEM,Amy Klobuchar,1
+Essex,Minerva,President,,DEM,Amy Klobuchar,0
+Essex,Moriah 1,President,,DEM,Amy Klobuchar,0
+Essex,Moriah 2,President,,DEM,Amy Klobuchar,0
+Essex,Moriah 3,President,,DEM,Amy Klobuchar,0
+Essex,Moriah 4,President,,DEM,Amy Klobuchar,1
+Essex,Newcomb,President,,DEM,Amy Klobuchar,1
+Essex,North Elba 1,President,,DEM,Amy Klobuchar,0
+Essex,North Elba 2,President,,DEM,Amy Klobuchar,1
+Essex,North Elba 3,President,,DEM,Amy Klobuchar,1
+Essex,North Elba 4,President,,DEM,Amy Klobuchar,0
+Essex,North Elba 5,President,,DEM,Amy Klobuchar,0
+Essex,North Elba 6,President,,DEM,Amy Klobuchar,0
+Essex,North Elba 7,President,,DEM,Amy Klobuchar,1
+Essex,North Hudson,President,,DEM,Amy Klobuchar,0
+Essex,Schroon 1,President,,DEM,Amy Klobuchar,0
+Essex,Schroon 2,President,,DEM,Amy Klobuchar,0
+Essex,St. Armand,President,,DEM,Amy Klobuchar,0
+Essex,Ticonderoga 1,President,,DEM,Amy Klobuchar,0
+Essex,Ticonderoga 2,President,,DEM,Amy Klobuchar,0
+Essex,Ticonderoga 3,President,,DEM,Amy Klobuchar,0
+Essex,Ticonderoga 4,President,,DEM,Amy Klobuchar,1
+Essex,Ticonderoga 5,President,,DEM,Amy Klobuchar,0
+Essex,Ticonderoga 6,President,,DEM,Amy Klobuchar,0
+Essex,Westport 1,President,,DEM,Amy Klobuchar,2
+Essex,Westport 2,President,,DEM,Amy Klobuchar,2
+Essex,Willsboro 1,President,,DEM,Amy Klobuchar,0
+Essex,Willsboro 2,President,,DEM,Amy Klobuchar,1
+Essex,Wilmington,President,,DEM,Amy Klobuchar,0
+Essex,Chesterfield 1,President,,DEM,Joseph R. Biden,22
+Essex,Chesterfield 2,President,,DEM,Joseph R. Biden,59
+Essex,Chesterfield 4,President,,DEM,Joseph R. Biden,27
+Essex,Crown Point 1,President,,DEM,Joseph R. Biden,24
+Essex,Crown Point 2,President,,DEM,Joseph R. Biden,9
+Essex,Crown Point 3,President,,DEM,Joseph R. Biden,17
+Essex,Elizabethtown,President,,DEM,Joseph R. Biden,63
+Essex,Essex 1,President,,DEM,Joseph R. Biden,30
+Essex,Essex 2,President,,DEM,Joseph R. Biden,20
+Essex,Jay 1,President,,DEM,Joseph R. Biden,121
+Essex,Jay 2,President,,DEM,Joseph R. Biden,43
+Essex,Keene 1,President,,DEM,Joseph R. Biden,95
+Essex,Keene 2,President,,DEM,Joseph R. Biden,63
+Essex,Lewis,President,,DEM,Joseph R. Biden,44
+Essex,Minerva,President,,DEM,Joseph R. Biden,57
+Essex,Moriah 1,President,,DEM,Joseph R. Biden,22
+Essex,Moriah 2,President,,DEM,Joseph R. Biden,36
+Essex,Moriah 3,President,,DEM,Joseph R. Biden,41
+Essex,Moriah 4,President,,DEM,Joseph R. Biden,22
+Essex,Newcomb,President,,DEM,Joseph R. Biden,34
+Essex,North Elba 1,President,,DEM,Joseph R. Biden,33
+Essex,North Elba 2,President,,DEM,Joseph R. Biden,77
+Essex,North Elba 3,President,,DEM,Joseph R. Biden,53
+Essex,North Elba 4,President,,DEM,Joseph R. Biden,51
+Essex,North Elba 5,President,,DEM,Joseph R. Biden,83
+Essex,North Elba 6,President,,DEM,Joseph R. Biden,94
+Essex,North Elba 7,President,,DEM,Joseph R. Biden,53
+Essex,North Hudson,President,,DEM,Joseph R. Biden,11
+Essex,Schroon 1,President,,DEM,Joseph R. Biden,31
+Essex,Schroon 2,President,,DEM,Joseph R. Biden,60
+Essex,St. Armand,President,,DEM,Joseph R. Biden,83
+Essex,Ticonderoga 1,President,,DEM,Joseph R. Biden,20
+Essex,Ticonderoga 2,President,,DEM,Joseph R. Biden,27
+Essex,Ticonderoga 3,President,,DEM,Joseph R. Biden,28
+Essex,Ticonderoga 4,President,,DEM,Joseph R. Biden,24
+Essex,Ticonderoga 5,President,,DEM,Joseph R. Biden,12
+Essex,Ticonderoga 6,President,,DEM,Joseph R. Biden,23
+Essex,Westport 1,President,,DEM,Joseph R. Biden,24
+Essex,Westport 2,President,,DEM,Joseph R. Biden,65
+Essex,Willsboro 1,President,,DEM,Joseph R. Biden,51
+Essex,Willsboro 2,President,,DEM,Joseph R. Biden,27
+Essex,Wilmington,President,,DEM,Joseph R. Biden,71
+Essex,Chesterfield 1,President,,DEM,Tulsi Gabbard,0
+Essex,Chesterfield 2,President,,DEM,Tulsi Gabbard,1
+Essex,Chesterfield 4,President,,DEM,Tulsi Gabbard,0
+Essex,Crown Point 1,President,,DEM,Tulsi Gabbard,0
+Essex,Crown Point 2,President,,DEM,Tulsi Gabbard,0
+Essex,Crown Point 3,President,,DEM,Tulsi Gabbard,0
+Essex,Elizabethtown,President,,DEM,Tulsi Gabbard,1
+Essex,Essex 1,President,,DEM,Tulsi Gabbard,0
+Essex,Essex 2,President,,DEM,Tulsi Gabbard,0
+Essex,Jay 1,President,,DEM,Tulsi Gabbard,3
+Essex,Jay 2,President,,DEM,Tulsi Gabbard,0
+Essex,Keene 1,President,,DEM,Tulsi Gabbard,1
+Essex,Keene 2,President,,DEM,Tulsi Gabbard,0
+Essex,Lewis,President,,DEM,Tulsi Gabbard,0
+Essex,Minerva,President,,DEM,Tulsi Gabbard,1
+Essex,Moriah 1,President,,DEM,Tulsi Gabbard,0
+Essex,Moriah 2,President,,DEM,Tulsi Gabbard,0
+Essex,Moriah 3,President,,DEM,Tulsi Gabbard,0
+Essex,Moriah 4,President,,DEM,Tulsi Gabbard,1
+Essex,Newcomb,President,,DEM,Tulsi Gabbard,1
+Essex,North Elba 1,President,,DEM,Tulsi Gabbard,0
+Essex,North Elba 2,President,,DEM,Tulsi Gabbard,1
+Essex,North Elba 3,President,,DEM,Tulsi Gabbard,0
+Essex,North Elba 4,President,,DEM,Tulsi Gabbard,0
+Essex,North Elba 5,President,,DEM,Tulsi Gabbard,0
+Essex,North Elba 6,President,,DEM,Tulsi Gabbard,0
+Essex,North Elba 7,President,,DEM,Tulsi Gabbard,0
+Essex,North Hudson,President,,DEM,Tulsi Gabbard,1
+Essex,Schroon 1,President,,DEM,Tulsi Gabbard,0
+Essex,Schroon 2,President,,DEM,Tulsi Gabbard,0
+Essex,St. Armand,President,,DEM,Tulsi Gabbard,1
+Essex,Ticonderoga 1,President,,DEM,Tulsi Gabbard,0
+Essex,Ticonderoga 2,President,,DEM,Tulsi Gabbard,0
+Essex,Ticonderoga 3,President,,DEM,Tulsi Gabbard,0
+Essex,Ticonderoga 4,President,,DEM,Tulsi Gabbard,0
+Essex,Ticonderoga 5,President,,DEM,Tulsi Gabbard,0
+Essex,Ticonderoga 6,President,,DEM,Tulsi Gabbard,0
+Essex,Westport 1,President,,DEM,Tulsi Gabbard,0
+Essex,Westport 2,President,,DEM,Tulsi Gabbard,0
+Essex,Willsboro 1,President,,DEM,Tulsi Gabbard,0
+Essex,Willsboro 2,President,,DEM,Tulsi Gabbard,0
+Essex,Wilmington,President,,DEM,Tulsi Gabbard,0
+Essex,Chesterfield 1,President,,DEM,Bernie Sanders,6
+Essex,Chesterfield 2,President,,DEM,Bernie Sanders,25
+Essex,Chesterfield 4,President,,DEM,Bernie Sanders,1
+Essex,Crown Point 1,President,,DEM,Bernie Sanders,4
+Essex,Crown Point 2,President,,DEM,Bernie Sanders,5
+Essex,Crown Point 3,President,,DEM,Bernie Sanders,7
+Essex,Elizabethtown,President,,DEM,Bernie Sanders,14
+Essex,Essex 1,President,,DEM,Bernie Sanders,11
+Essex,Essex 2,President,,DEM,Bernie Sanders,12
+Essex,Jay 1,President,,DEM,Bernie Sanders,46
+Essex,Jay 2,President,,DEM,Bernie Sanders,14
+Essex,Keene 1,President,,DEM,Bernie Sanders,31
+Essex,Keene 2,President,,DEM,Bernie Sanders,17
+Essex,Lewis,President,,DEM,Bernie Sanders,13
+Essex,Minerva,President,,DEM,Bernie Sanders,14
+Essex,Moriah 1,President,,DEM,Bernie Sanders,6
+Essex,Moriah 2,President,,DEM,Bernie Sanders,13
+Essex,Moriah 3,President,,DEM,Bernie Sanders,10
+Essex,Moriah 4,President,,DEM,Bernie Sanders,3
+Essex,Newcomb,President,,DEM,Bernie Sanders,10
+Essex,North Elba 1,President,,DEM,Bernie Sanders,16
+Essex,North Elba 2,President,,DEM,Bernie Sanders,44
+Essex,North Elba 3,President,,DEM,Bernie Sanders,14
+Essex,North Elba 4,President,,DEM,Bernie Sanders,15
+Essex,North Elba 5,President,,DEM,Bernie Sanders,7
+Essex,North Elba 6,President,,DEM,Bernie Sanders,25
+Essex,North Elba 7,President,,DEM,Bernie Sanders,13
+Essex,North Hudson,President,,DEM,Bernie Sanders,0
+Essex,Schroon 1,President,,DEM,Bernie Sanders,7
+Essex,Schroon 2,President,,DEM,Bernie Sanders,12
+Essex,St. Armand,President,,DEM,Bernie Sanders,49
+Essex,Ticonderoga 1,President,,DEM,Bernie Sanders,7
+Essex,Ticonderoga 2,President,,DEM,Bernie Sanders,5
+Essex,Ticonderoga 3,President,,DEM,Bernie Sanders,2
+Essex,Ticonderoga 4,President,,DEM,Bernie Sanders,8
+Essex,Ticonderoga 5,President,,DEM,Bernie Sanders,1
+Essex,Ticonderoga 6,President,,DEM,Bernie Sanders,6
+Essex,Westport 1,President,,DEM,Bernie Sanders,10
+Essex,Westport 2,President,,DEM,Bernie Sanders,28
+Essex,Willsboro 1,President,,DEM,Bernie Sanders,8
+Essex,Willsboro 2,President,,DEM,Bernie Sanders,5
+Essex,Wilmington,President,,DEM,Bernie Sanders,22
+Essex,Chesterfield 1,President,,DEM,Michael R. Bloomberg,0
+Essex,Chesterfield 2,President,,DEM,Michael R. Bloomberg,1
+Essex,Chesterfield 4,President,,DEM,Michael R. Bloomberg,0
+Essex,Crown Point 1,President,,DEM,Michael R. Bloomberg,0
+Essex,Crown Point 2,President,,DEM,Michael R. Bloomberg,0
+Essex,Crown Point 3,President,,DEM,Michael R. Bloomberg,0
+Essex,Elizabethtown,President,,DEM,Michael R. Bloomberg,0
+Essex,Essex 1,President,,DEM,Michael R. Bloomberg,1
+Essex,Essex 2,President,,DEM,Michael R. Bloomberg,0
+Essex,Jay 1,President,,DEM,Michael R. Bloomberg,1
+Essex,Jay 2,President,,DEM,Michael R. Bloomberg,1
+Essex,Keene 1,President,,DEM,Michael R. Bloomberg,1
+Essex,Keene 2,President,,DEM,Michael R. Bloomberg,0
+Essex,Lewis,President,,DEM,Michael R. Bloomberg,1
+Essex,Minerva,President,,DEM,Michael R. Bloomberg,1
+Essex,Moriah 1,President,,DEM,Michael R. Bloomberg,0
+Essex,Moriah 2,President,,DEM,Michael R. Bloomberg,1
+Essex,Moriah 3,President,,DEM,Michael R. Bloomberg,1
+Essex,Moriah 4,President,,DEM,Michael R. Bloomberg,1
+Essex,Newcomb,President,,DEM,Michael R. Bloomberg,0
+Essex,North Elba 1,President,,DEM,Michael R. Bloomberg,0
+Essex,North Elba 2,President,,DEM,Michael R. Bloomberg,1
+Essex,North Elba 3,President,,DEM,Michael R. Bloomberg,0
+Essex,North Elba 4,President,,DEM,Michael R. Bloomberg,0
+Essex,North Elba 5,President,,DEM,Michael R. Bloomberg,2
+Essex,North Elba 6,President,,DEM,Michael R. Bloomberg,3
+Essex,North Elba 7,President,,DEM,Michael R. Bloomberg,0
+Essex,North Hudson,President,,DEM,Michael R. Bloomberg,0
+Essex,Schroon 1,President,,DEM,Michael R. Bloomberg,0
+Essex,Schroon 2,President,,DEM,Michael R. Bloomberg,0
+Essex,St. Armand,President,,DEM,Michael R. Bloomberg,1
+Essex,Ticonderoga 1,President,,DEM,Michael R. Bloomberg,0
+Essex,Ticonderoga 2,President,,DEM,Michael R. Bloomberg,1
+Essex,Ticonderoga 3,President,,DEM,Michael R. Bloomberg,1
+Essex,Ticonderoga 4,President,,DEM,Michael R. Bloomberg,0
+Essex,Ticonderoga 5,President,,DEM,Michael R. Bloomberg,0
+Essex,Ticonderoga 6,President,,DEM,Michael R. Bloomberg,0
+Essex,Westport 1,President,,DEM,Michael R. Bloomberg,0
+Essex,Westport 2,President,,DEM,Michael R. Bloomberg,0
+Essex,Willsboro 1,President,,DEM,Michael R. Bloomberg,0
+Essex,Willsboro 2,President,,DEM,Michael R. Bloomberg,1
+Essex,Wilmington,President,,DEM,Michael R. Bloomberg,1
+Essex,Chesterfield 1,President,,DEM,Tom Steyer,0
+Essex,Chesterfield 2,President,,DEM,Tom Steyer,0
+Essex,Chesterfield 4,President,,DEM,Tom Steyer,0
+Essex,Crown Point 1,President,,DEM,Tom Steyer,0
+Essex,Crown Point 2,President,,DEM,Tom Steyer,0
+Essex,Crown Point 3,President,,DEM,Tom Steyer,0
+Essex,Elizabethtown,President,,DEM,Tom Steyer,0
+Essex,Essex 1,President,,DEM,Tom Steyer,0
+Essex,Essex 2,President,,DEM,Tom Steyer,0
+Essex,Jay 1,President,,DEM,Tom Steyer,0
+Essex,Jay 2,President,,DEM,Tom Steyer,1
+Essex,Keene 1,President,,DEM,Tom Steyer,0
+Essex,Keene 2,President,,DEM,Tom Steyer,0
+Essex,Lewis,President,,DEM,Tom Steyer,0
+Essex,Minerva,President,,DEM,Tom Steyer,0
+Essex,Moriah 1,President,,DEM,Tom Steyer,0
+Essex,Moriah 2,President,,DEM,Tom Steyer,0
+Essex,Moriah 3,President,,DEM,Tom Steyer,0
+Essex,Moriah 4,President,,DEM,Tom Steyer,0
+Essex,Newcomb,President,,DEM,Tom Steyer,0
+Essex,North Elba 1,President,,DEM,Tom Steyer,0
+Essex,North Elba 2,President,,DEM,Tom Steyer,0
+Essex,North Elba 3,President,,DEM,Tom Steyer,1
+Essex,North Elba 4,President,,DEM,Tom Steyer,0
+Essex,North Elba 5,President,,DEM,Tom Steyer,0
+Essex,North Elba 6,President,,DEM,Tom Steyer,0
+Essex,North Elba 7,President,,DEM,Tom Steyer,0
+Essex,North Hudson,President,,DEM,Tom Steyer,0
+Essex,Schroon 1,President,,DEM,Tom Steyer,0
+Essex,Schroon 2,President,,DEM,Tom Steyer,0
+Essex,St. Armand,President,,DEM,Tom Steyer,1
+Essex,Ticonderoga 1,President,,DEM,Tom Steyer,0
+Essex,Ticonderoga 2,President,,DEM,Tom Steyer,0
+Essex,Ticonderoga 3,President,,DEM,Tom Steyer,0
+Essex,Ticonderoga 4,President,,DEM,Tom Steyer,0
+Essex,Ticonderoga 5,President,,DEM,Tom Steyer,0
+Essex,Ticonderoga 6,President,,DEM,Tom Steyer,0
+Essex,Westport 1,President,,DEM,Tom Steyer,0
+Essex,Westport 2,President,,DEM,Tom Steyer,0
+Essex,Willsboro 1,President,,DEM,Tom Steyer,0
+Essex,Willsboro 2,President,,DEM,Tom Steyer,0
+Essex,Wilmington,President,,DEM,Tom Steyer,0
+Essex,Chesterfield 1,President,,DEM,Michael Bennet,0
+Essex,Chesterfield 2,President,,DEM,Michael Bennet,1
+Essex,Chesterfield 4,President,,DEM,Michael Bennet,0
+Essex,Crown Point 1,President,,DEM,Michael Bennet,0
+Essex,Crown Point 2,President,,DEM,Michael Bennet,0
+Essex,Crown Point 3,President,,DEM,Michael Bennet,0
+Essex,Elizabethtown,President,,DEM,Michael Bennet,0
+Essex,Essex 1,President,,DEM,Michael Bennet,0
+Essex,Essex 2,President,,DEM,Michael Bennet,0
+Essex,Jay 1,President,,DEM,Michael Bennet,0
+Essex,Jay 2,President,,DEM,Michael Bennet,0
+Essex,Keene 1,President,,DEM,Michael Bennet,0
+Essex,Keene 2,President,,DEM,Michael Bennet,0
+Essex,Lewis,President,,DEM,Michael Bennet,0
+Essex,Minerva,President,,DEM,Michael Bennet,1
+Essex,Moriah 1,President,,DEM,Michael Bennet,0
+Essex,Moriah 2,President,,DEM,Michael Bennet,0
+Essex,Moriah 3,President,,DEM,Michael Bennet,0
+Essex,Moriah 4,President,,DEM,Michael Bennet,0
+Essex,Newcomb,President,,DEM,Michael Bennet,0
+Essex,North Elba 1,President,,DEM,Michael Bennet,1
+Essex,North Elba 2,President,,DEM,Michael Bennet,0
+Essex,North Elba 3,President,,DEM,Michael Bennet,0
+Essex,North Elba 4,President,,DEM,Michael Bennet,0
+Essex,North Elba 5,President,,DEM,Michael Bennet,0
+Essex,North Elba 6,President,,DEM,Michael Bennet,0
+Essex,North Elba 7,President,,DEM,Michael Bennet,0
+Essex,North Hudson,President,,DEM,Michael Bennet,0
+Essex,Schroon 1,President,,DEM,Michael Bennet,0
+Essex,Schroon 2,President,,DEM,Michael Bennet,0
+Essex,St. Armand,President,,DEM,Michael Bennet,0
+Essex,Ticonderoga 1,President,,DEM,Michael Bennet,0
+Essex,Ticonderoga 2,President,,DEM,Michael Bennet,0
+Essex,Ticonderoga 3,President,,DEM,Michael Bennet,0
+Essex,Ticonderoga 4,President,,DEM,Michael Bennet,0
+Essex,Ticonderoga 5,President,,DEM,Michael Bennet,0
+Essex,Ticonderoga 6,President,,DEM,Michael Bennet,0
+Essex,Westport 1,President,,DEM,Michael Bennet,0
+Essex,Westport 2,President,,DEM,Michael Bennet,0
+Essex,Willsboro 1,President,,DEM,Michael Bennet,0
+Essex,Willsboro 2,President,,DEM,Michael Bennet,0
+Essex,Wilmington,President,,DEM,Michael Bennet,0
+Essex,Chesterfield 1,President,,DEM,Elizabeth Warren,0
+Essex,Chesterfield 2,President,,DEM,Elizabeth Warren,1
+Essex,Chesterfield 4,President,,DEM,Elizabeth Warren,0
+Essex,Crown Point 1,President,,DEM,Elizabeth Warren,1
+Essex,Crown Point 2,President,,DEM,Elizabeth Warren,2
+Essex,Crown Point 3,President,,DEM,Elizabeth Warren,0
+Essex,Elizabethtown,President,,DEM,Elizabeth Warren,4
+Essex,Essex 1,President,,DEM,Elizabeth Warren,3
+Essex,Essex 2,President,,DEM,Elizabeth Warren,1
+Essex,Jay 1,President,,DEM,Elizabeth Warren,11
+Essex,Jay 2,President,,DEM,Elizabeth Warren,0
+Essex,Keene 1,President,,DEM,Elizabeth Warren,3
+Essex,Keene 2,President,,DEM,Elizabeth Warren,4
+Essex,Lewis,President,,DEM,Elizabeth Warren,2
+Essex,Minerva,President,,DEM,Elizabeth Warren,2
+Essex,Moriah 1,President,,DEM,Elizabeth Warren,0
+Essex,Moriah 2,President,,DEM,Elizabeth Warren,0
+Essex,Moriah 3,President,,DEM,Elizabeth Warren,2
+Essex,Moriah 4,President,,DEM,Elizabeth Warren,2
+Essex,Newcomb,President,,DEM,Elizabeth Warren,2
+Essex,North Elba 1,President,,DEM,Elizabeth Warren,0
+Essex,North Elba 2,President,,DEM,Elizabeth Warren,7
+Essex,North Elba 3,President,,DEM,Elizabeth Warren,4
+Essex,North Elba 4,President,,DEM,Elizabeth Warren,4
+Essex,North Elba 5,President,,DEM,Elizabeth Warren,3
+Essex,North Elba 6,President,,DEM,Elizabeth Warren,3
+Essex,North Elba 7,President,,DEM,Elizabeth Warren,1
+Essex,North Hudson,President,,DEM,Elizabeth Warren,1
+Essex,Schroon 1,President,,DEM,Elizabeth Warren,1
+Essex,Schroon 2,President,,DEM,Elizabeth Warren,0
+Essex,St. Armand,President,,DEM,Elizabeth Warren,4
+Essex,Ticonderoga 1,President,,DEM,Elizabeth Warren,1
+Essex,Ticonderoga 2,President,,DEM,Elizabeth Warren,4
+Essex,Ticonderoga 3,President,,DEM,Elizabeth Warren,1
+Essex,Ticonderoga 4,President,,DEM,Elizabeth Warren,1
+Essex,Ticonderoga 5,President,,DEM,Elizabeth Warren,0
+Essex,Ticonderoga 6,President,,DEM,Elizabeth Warren,1
+Essex,Westport 1,President,,DEM,Elizabeth Warren,1
+Essex,Westport 2,President,,DEM,Elizabeth Warren,9
+Essex,Willsboro 1,President,,DEM,Elizabeth Warren,2
+Essex,Willsboro 2,President,,DEM,Elizabeth Warren,3
+Essex,Wilmington,President,,DEM,Elizabeth Warren,4
+Essex,Chesterfield 1,President,,DEM,Andrew Yang,1
+Essex,Chesterfield 2,President,,DEM,Andrew Yang,0
+Essex,Chesterfield 4,President,,DEM,Andrew Yang,0
+Essex,Crown Point 1,President,,DEM,Andrew Yang,1
+Essex,Crown Point 2,President,,DEM,Andrew Yang,1
+Essex,Crown Point 3,President,,DEM,Andrew Yang,1
+Essex,Elizabethtown,President,,DEM,Andrew Yang,0
+Essex,Essex 1,President,,DEM,Andrew Yang,0
+Essex,Essex 2,President,,DEM,Andrew Yang,0
+Essex,Jay 1,President,,DEM,Andrew Yang,1
+Essex,Jay 2,President,,DEM,Andrew Yang,1
+Essex,Keene 1,President,,DEM,Andrew Yang,0
+Essex,Keene 2,President,,DEM,Andrew Yang,1
+Essex,Lewis,President,,DEM,Andrew Yang,1
+Essex,Minerva,President,,DEM,Andrew Yang,0
+Essex,Moriah 1,President,,DEM,Andrew Yang,0
+Essex,Moriah 2,President,,DEM,Andrew Yang,0
+Essex,Moriah 3,President,,DEM,Andrew Yang,0
+Essex,Moriah 4,President,,DEM,Andrew Yang,0
+Essex,Newcomb,President,,DEM,Andrew Yang,1
+Essex,North Elba 1,President,,DEM,Andrew Yang,0
+Essex,North Elba 2,President,,DEM,Andrew Yang,3
+Essex,North Elba 3,President,,DEM,Andrew Yang,0
+Essex,North Elba 4,President,,DEM,Andrew Yang,0
+Essex,North Elba 5,President,,DEM,Andrew Yang,1
+Essex,North Elba 6,President,,DEM,Andrew Yang,1
+Essex,North Elba 7,President,,DEM,Andrew Yang,2
+Essex,North Hudson,President,,DEM,Andrew Yang,0
+Essex,Schroon 1,President,,DEM,Andrew Yang,0
+Essex,Schroon 2,President,,DEM,Andrew Yang,0
+Essex,St. Armand,President,,DEM,Andrew Yang,4
+Essex,Ticonderoga 1,President,,DEM,Andrew Yang,0
+Essex,Ticonderoga 2,President,,DEM,Andrew Yang,0
+Essex,Ticonderoga 3,President,,DEM,Andrew Yang,0
+Essex,Ticonderoga 4,President,,DEM,Andrew Yang,0
+Essex,Ticonderoga 5,President,,DEM,Andrew Yang,0
+Essex,Ticonderoga 6,President,,DEM,Andrew Yang,0
+Essex,Westport 1,President,,DEM,Andrew Yang,0
+Essex,Westport 2,President,,DEM,Andrew Yang,2
+Essex,Willsboro 1,President,,DEM,Andrew Yang,0
+Essex,Willsboro 2,President,,DEM,Andrew Yang,0
+Essex,Wilmington,President,,DEM,Andrew Yang,1
+Essex,Chesterfield 1,President,,DEM,Deval Patrick,0
+Essex,Chesterfield 2,President,,DEM,Deval Patrick,0
+Essex,Chesterfield 4,President,,DEM,Deval Patrick,0
+Essex,Crown Point 1,President,,DEM,Deval Patrick,0
+Essex,Crown Point 2,President,,DEM,Deval Patrick,0
+Essex,Crown Point 3,President,,DEM,Deval Patrick,0
+Essex,Elizabethtown,President,,DEM,Deval Patrick,1
+Essex,Essex 1,President,,DEM,Deval Patrick,0
+Essex,Essex 2,President,,DEM,Deval Patrick,0
+Essex,Jay 1,President,,DEM,Deval Patrick,0
+Essex,Jay 2,President,,DEM,Deval Patrick,1
+Essex,Keene 1,President,,DEM,Deval Patrick,0
+Essex,Keene 2,President,,DEM,Deval Patrick,0
+Essex,Lewis,President,,DEM,Deval Patrick,0
+Essex,Minerva,President,,DEM,Deval Patrick,0
+Essex,Moriah 1,President,,DEM,Deval Patrick,1
+Essex,Moriah 2,President,,DEM,Deval Patrick,0
+Essex,Moriah 3,President,,DEM,Deval Patrick,0
+Essex,Moriah 4,President,,DEM,Deval Patrick,0
+Essex,Newcomb,President,,DEM,Deval Patrick,0
+Essex,North Elba 1,President,,DEM,Deval Patrick,0
+Essex,North Elba 2,President,,DEM,Deval Patrick,0
+Essex,North Elba 3,President,,DEM,Deval Patrick,0
+Essex,North Elba 4,President,,DEM,Deval Patrick,0
+Essex,North Elba 5,President,,DEM,Deval Patrick,0
+Essex,North Elba 6,President,,DEM,Deval Patrick,0
+Essex,North Elba 7,President,,DEM,Deval Patrick,0
+Essex,North Hudson,President,,DEM,Deval Patrick,0
+Essex,Schroon 1,President,,DEM,Deval Patrick,0
+Essex,Schroon 2,President,,DEM,Deval Patrick,0
+Essex,St. Armand,President,,DEM,Deval Patrick,0
+Essex,Ticonderoga 1,President,,DEM,Deval Patrick,0
+Essex,Ticonderoga 2,President,,DEM,Deval Patrick,0
+Essex,Ticonderoga 3,President,,DEM,Deval Patrick,0
+Essex,Ticonderoga 4,President,,DEM,Deval Patrick,0
+Essex,Ticonderoga 5,President,,DEM,Deval Patrick,0
+Essex,Ticonderoga 6,President,,DEM,Deval Patrick,0
+Essex,Westport 1,President,,DEM,Deval Patrick,0
+Essex,Westport 2,President,,DEM,Deval Patrick,0
+Essex,Willsboro 1,President,,DEM,Deval Patrick,0
+Essex,Willsboro 2,President,,DEM,Deval Patrick,0
+Essex,Wilmington,President,,DEM,Deval Patrick,0
