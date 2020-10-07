@@ -1,0 +1,455 @@
+﻿county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee
+Dutchess,"East Fishkill 1-15,17-21",President,,DEM,Pete Buttigieg,36,14,0,22
+Dutchess,"Fishkill 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",President,,DEM,Pete Buttigieg,16,5,0,11
+Dutchess,"Hyde Park 2-4, 3-2",President,,DEM,Pete Buttigieg,3,1,0,2
+Dutchess,"LaGrange 2,3,4,5,8,11",President,,DEM,Pete Buttigieg,8,3,0,5
+Dutchess,"T-Poughkeepsie W1-All, W2-All, W3-1,2,4,5,6 W4-1,3,4,5, W5-All, W6-All",President,,DEM,Pete Buttigieg,31,9,1,21
+Dutchess,"Wappinger W1-All, W2-All ,W3-All, W4-All",President,,DEM,Pete Buttigieg,25,8,0,17
+Dutchess,"Beacon W1-ALL,W2-ALL W3-ALL,W4-ALL",President,,DEM,Pete Buttigieg,14,10,0,4
+Dutchess,"C-Poughkeepsie W1-All, W2-All, W3-All, W4-All ,W5-All, W6-All, W7-All,W8-All",President,,DEM,Pete Buttigieg,17,6,0,11
+Dutchess,"East Fishkill 1-15,17-21",President,,DEM,Amy Klobuchar,13,4,0,9
+Dutchess,"Fishkill 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",President,,DEM,Amy Klobuchar,6,2,0,4
+Dutchess,"Hyde Park 2-4, 3-2",President,,DEM,Amy Klobuchar,2,2,0,0
+Dutchess,"LaGrange 2,3,4,5,8,11",President,,DEM,Amy Klobuchar,5,2,0,3
+Dutchess,"T-Poughkeepsie W1-All, W2-All, W3-1,2,4,5,6 W4-1,3,4,5, W5-All, W6-All",President,,DEM,Amy Klobuchar,10,3,0,7
+Dutchess,"Wappinger W1-All, W2-All ,W3-All, W4-All",President,,DEM,Amy Klobuchar,8,3,0,5
+Dutchess,"Beacon W1-ALL,W2-ALL W3-ALL,W4-ALL",President,,DEM,Amy Klobuchar,5,0,0,5
+Dutchess,"C-Poughkeepsie W1-All, W2-All, W3-All, W4-All ,W5-All, W6-All, W7-All,W8-All",President,,DEM,Amy Klobuchar,9,4,0,5
+Dutchess,"East Fishkill 1-15,17-21",President,,DEM,Joseph R. Biden,1136,279,15,842
+Dutchess,"Fishkill 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",President,,DEM,Joseph R. Biden,1131,311,22,798
+Dutchess,"Hyde Park 2-4, 3-2",President,,DEM,Joseph R. Biden,102,68,0,34
+Dutchess,"LaGrange 2,3,4,5,8,11",President,,DEM,Joseph R. Biden,391,92,1,298
+Dutchess,"T-Poughkeepsie W1-All, W2-All, W3-1,2,4,5,6 W4-1,3,4,5, W5-All, W6-All",President,,DEM,Joseph R. Biden,2058,436,32,1590
+Dutchess,"Wappinger W1-All, W2-All ,W3-All, W4-All",President,,DEM,Joseph R. Biden,1177,344,8,825
+Dutchess,"Beacon W1-ALL,W2-ALL W3-ALL,W4-ALL",President,,DEM,Joseph R. Biden,1002,326,13,663
+Dutchess,"C-Poughkeepsie W1-All, W2-All, W3-All, W4-All ,W5-All, W6-All, W7-All,W8-All",President,,DEM,Joseph R. Biden,1543,490,17,1036
+Dutchess,"East Fishkill 1-15,17-21",President,,DEM,Tulsi Gabbard,6,2,0,4
+Dutchess,"Fishkill 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",President,,DEM,Tulsi Gabbard,8,4,0,4
+Dutchess,"Hyde Park 2-4, 3-2",President,,DEM,Tulsi Gabbard,0,0,0,0
+Dutchess,"LaGrange 2,3,4,5,8,11",President,,DEM,Tulsi Gabbard,2,1,0,1
+Dutchess,"T-Poughkeepsie W1-All, W2-All, W3-1,2,4,5,6 W4-1,3,4,5, W5-All, W6-All",President,,DEM,Tulsi Gabbard,11,1,0,10
+Dutchess,"Wappinger W1-All, W2-All ,W3-All, W4-All",President,,DEM,Tulsi Gabbard,3,0,0,3
+Dutchess,"Beacon W1-ALL,W2-ALL W3-ALL,W4-ALL",President,,DEM,Tulsi Gabbard,3,0,1,2
+Dutchess,"C-Poughkeepsie W1-All, W2-All, W3-All, W4-All ,W5-All, W6-All, W7-All,W8-All",President,,DEM,Tulsi Gabbard,3,2,0,1
+Dutchess,"East Fishkill 1-15,17-21",President,,DEM,Bernie Sanders,242,74,1,167
+Dutchess,"Fishkill 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",President,,DEM,Bernie Sanders,222,84,0,138
+Dutchess,"Hyde Park 2-4, 3-2",President,,DEM,Bernie Sanders,30,22,0,8
+Dutchess,"LaGrange 2,3,4,5,8,11",President,,DEM,Bernie Sanders,70,23,0,47
+Dutchess,"T-Poughkeepsie W1-All, W2-All, W3-1,2,4,5,6 W4-1,3,4,5, W5-All, W6-All",President,,DEM,Bernie Sanders,537,148,7,382
+Dutchess,"Wappinger W1-All, W2-All ,W3-All, W4-All",President,,DEM,Bernie Sanders,290,123,3,164
+Dutchess,"Beacon W1-ALL,W2-ALL W3-ALL,W4-ALL",President,,DEM,Bernie Sanders,520,190,5,325
+Dutchess,"C-Poughkeepsie W1-All, W2-All, W3-All, W4-All ,W5-All, W6-All, W7-All,W8-All",President,,DEM,Bernie Sanders,342,115,5,222
+Dutchess,"East Fishkill 1-15,17-21",President,,DEM,Michael R. Bloomberg,18,6,0,12
+Dutchess,"Fishkill 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",President,,DEM,Michael R. Bloomberg,19,4,0,15
+Dutchess,"Hyde Park 2-4, 3-2",President,,DEM,Michael R. Bloomberg,1,0,0,1
+Dutchess,"LaGrange 2,3,4,5,8,11",President,,DEM,Michael R. Bloomberg,15,5,0,10
+Dutchess,"T-Poughkeepsie W1-All, W2-All, W3-1,2,4,5,6 W4-1,3,4,5, W5-All, W6-All",President,,DEM,Michael R. Bloomberg,36,13,0,23
+Dutchess,"Wappinger W1-All, W2-All ,W3-All, W4-All",President,,DEM,Michael R. Bloomberg,27,9,0,18
+Dutchess,"Beacon W1-ALL,W2-ALL W3-ALL,W4-ALL",President,,DEM,Michael R. Bloomberg,9,4,0,5
+Dutchess,"C-Poughkeepsie W1-All, W2-All, W3-All, W4-All ,W5-All, W6-All, W7-All,W8-All",President,,DEM,Michael R. Bloomberg,20,11,0,9
+Dutchess,"East Fishkill 1-15,17-21",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"Fishkill 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"Hyde Park 2-4, 3-2",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"LaGrange 2,3,4,5,8,11",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"T-Poughkeepsie W1-All, W2-All, W3-1,2,4,5,6 W4-1,3,4,5, W5-All, W6-All",President,,DEM,Tom Steyer,5,1,0,4
+Dutchess,"Wappinger W1-All, W2-All ,W3-All, W4-All",President,,DEM,Tom Steyer,3,2,0,1
+Dutchess,"Beacon W1-ALL,W2-ALL W3-ALL,W4-ALL",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"C-Poughkeepsie W1-All, W2-All, W3-All, W4-All ,W5-All, W6-All, W7-All,W8-All",President,,DEM,Tom Steyer,2,2,0,0
+Dutchess,"East Fishkill 1-15,17-21",President,,DEM,Michael Bennet,0,0,0,0
+Dutchess,"Fishkill 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",President,,DEM,Michael Bennet,1,1,0,0
+Dutchess,"Hyde Park 2-4, 3-2",President,,DEM,Michael Bennet,0,0,0,0
+Dutchess,"LaGrange 2,3,4,5,8,11",President,,DEM,Michael Bennet,1,1,0,0
+Dutchess,"T-Poughkeepsie W1-All, W2-All, W3-1,2,4,5,6 W4-1,3,4,5, W5-All, W6-All",President,,DEM,Michael Bennet,1,1,0,0
+Dutchess,"Wappinger W1-All, W2-All ,W3-All, W4-All",President,,DEM,Michael Bennet,0,0,0,0
+Dutchess,"Beacon W1-ALL,W2-ALL W3-ALL,W4-ALL",President,,DEM,Michael Bennet,1,0,0,1
+Dutchess,"C-Poughkeepsie W1-All, W2-All, W3-All, W4-All ,W5-All, W6-All, W7-All,W8-All",President,,DEM,Michael Bennet,2,1,0,1
+Dutchess,"East Fishkill 1-15,17-21",President,,DEM,Elizabeth Warren,46,12,0,34
+Dutchess,"Fishkill 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",President,,DEM,Elizabeth Warren,41,7,3,31
+Dutchess,"Hyde Park 2-4, 3-2",President,,DEM,Elizabeth Warren,6,2,0,4
+Dutchess,"LaGrange 2,3,4,5,8,11",President,,DEM,Elizabeth Warren,17,7,0,10
+Dutchess,"T-Poughkeepsie W1-All, W2-All, W3-1,2,4,5,6 W4-1,3,4,5, W5-All, W6-All",President,,DEM,Elizabeth Warren,124,22,3,99
+Dutchess,"Wappinger W1-All, W2-All ,W3-All, W4-All",President,,DEM,Elizabeth Warren,59,20,0,39
+Dutchess,"Beacon W1-ALL,W2-ALL W3-ALL,W4-ALL",President,,DEM,Elizabeth Warren,206,41,1,164
+Dutchess,"C-Poughkeepsie W1-All, W2-All, W3-All, W4-All ,W5-All, W6-All, W7-All,W8-All",President,,DEM,Elizabeth Warren,99,27,0,72
+Dutchess,"East Fishkill 1-15,17-21",President,,DEM,Andrew Yang,11,5,0,6
+Dutchess,"Fishkill 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",President,,DEM,Andrew Yang,10,3,0,7
+Dutchess,"Hyde Park 2-4, 3-2",President,,DEM,Andrew Yang,1,1,0,0
+Dutchess,"LaGrange 2,3,4,5,8,11",President,,DEM,Andrew Yang,4,2,0,2
+Dutchess,"T-Poughkeepsie W1-All, W2-All, W3-1,2,4,5,6 W4-1,3,4,5, W5-All, W6-All",President,,DEM,Andrew Yang,40,12,1,27
+Dutchess,"Wappinger W1-All, W2-All ,W3-All, W4-All",President,,DEM,Andrew Yang,15,4,0,11
+Dutchess,"Beacon W1-ALL,W2-ALL W3-ALL,W4-ALL",President,,DEM,Andrew Yang,14,6,0,8
+Dutchess,"C-Poughkeepsie W1-All, W2-All, W3-All, W4-All ,W5-All, W6-All, W7-All,W8-All",President,,DEM,Andrew Yang,18,9,2,7
+Dutchess,"East Fishkill 1-15,17-21",President,,DEM,Deval Patrick,2,1,0,1
+Dutchess,"Fishkill 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",President,,DEM,Deval Patrick,0,0,0,0
+Dutchess,"Hyde Park 2-4, 3-2",President,,DEM,Deval Patrick,0,0,0,0
+Dutchess,"LaGrange 2,3,4,5,8,11",President,,DEM,Deval Patrick,1,1,0,0
+Dutchess,"T-Poughkeepsie W1-All, W2-All, W3-1,2,4,5,6 W4-1,3,4,5, W5-All, W6-All",President,,DEM,Deval Patrick,2,0,0,2
+Dutchess,"Wappinger W1-All, W2-All ,W3-All, W4-All",President,,DEM,Deval Patrick,5,2,0,3
+Dutchess,"Beacon W1-ALL,W2-ALL W3-ALL,W4-ALL",President,,DEM,Deval Patrick,4,1,0,3
+Dutchess,"C-Poughkeepsie W1-All, W2-All, W3-All, W4-All ,W5-All, W6-All, W7-All,W8-All",President,,DEM,Deval Patrick,2,0,0,2
+Dutchess,"East Fishkill 1-15,17-21",President,,DEM,Under Votes,7,2,0,5
+Dutchess,"Fishkill 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",President,,DEM,Under Votes,4,2,0,2
+Dutchess,"Hyde Park 2-4, 3-2",President,,DEM,Under Votes,1,1,0,0
+Dutchess,"LaGrange 2,3,4,5,8,11",President,,DEM,Under Votes,2,2,0,0
+Dutchess,"T-Poughkeepsie W1-All, W2-All, W3-1,2,4,5,6 W4-1,3,4,5, W5-All, W6-All",President,,DEM,Under Votes,9,0,1,8
+Dutchess,"Wappinger W1-All, W2-All ,W3-All, W4-All",President,,DEM,Under Votes,6,5,0,1
+Dutchess,"Beacon W1-ALL,W2-ALL W3-ALL,W4-ALL",President,,DEM,Under Votes,7,4,0,3
+Dutchess,"C-Poughkeepsie W1-All, W2-All, W3-All, W4-All ,W5-All, W6-All, W7-All,W8-All",President,,DEM,Under Votes,10,5,0,5
+Dutchess,"East Fishkill 1-15,17-21",President,,DEM,Over Votes,7,1,0,6
+Dutchess,"Fishkill 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",President,,DEM,Over Votes,4,0,0,4
+Dutchess,"Hyde Park 2-4, 3-2",President,,DEM,Over Votes,4,3,0,1
+Dutchess,"LaGrange 2,3,4,5,8,11",President,,DEM,Over Votes,2,0,0,2
+Dutchess,"T-Poughkeepsie W1-All, W2-All, W3-1,2,4,5,6 W4-1,3,4,5, W5-All, W6-All",President,,DEM,Over Votes,17,5,0,12
+Dutchess,"Wappinger W1-All, W2-All ,W3-All, W4-All",President,,DEM,Over Votes,17,1,0,16
+Dutchess,"Beacon W1-ALL,W2-ALL W3-ALL,W4-ALL",President,,DEM,Over Votes,8,1,0,7
+Dutchess,"C-Poughkeepsie W1-All, W2-All, W3-All, W4-All ,W5-All, W6-All, W7-All,W8-All",President,,DEM,Over Votes,16,1,0,15
+Dutchess,"East Fishkill 1-15,17-21",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Fishkill 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Hyde Park 2-4, 3-2",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"LaGrange 2,3,4,5,8,11",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"T-Poughkeepsie W1-All, W2-All, W3-1,2,4,5,6 W4-1,3,4,5, W5-All, W6-All",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Wappinger W1-All, W2-All ,W3-All, W4-All",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Beacon W1-ALL,W2-ALL W3-ALL,W4-ALL",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"C-Poughkeepsie W1-All, W2-All, W3-All, W4-All ,W5-All, W6-All, W7-All,W8-All",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Amenia 1,2,3",President,,DEM,Pete Buttigieg,10,3,0,7
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9",President,,DEM,Pete Buttigieg,18,8,0,10
+Dutchess,"Clinton 1,2,3",President,,DEM,Pete Buttigieg,5,1,0,4
+Dutchess,"Dover 1,2,3,4,5,6",President,,DEM,Pete Buttigieg,6,1,0,5
+Dutchess,East Fishkill 16,President,,DEM,Pete Buttigieg,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4,W4-All",President,,DEM,Pete Buttigieg,20,7,0,13
+Dutchess,"LaGrange 1,6,7,9,10,12",President,,DEM,Pete Buttigieg,7,5,0,2
+Dutchess,"Milan 1,2",President,,DEM,Pete Buttigieg,4,0,0,4
+Dutchess,"North East 1,2,3",President,,DEM,Pete Buttigieg,6,1,0,5
+Dutchess,"Pawling 1,2,3,4,5,6",President,,DEM,Pete Buttigieg,14,4,0,10
+Dutchess,"Pine Plains 1,2",President,,DEM,Pete Buttigieg,7,3,0,4
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7",President,,DEM,Pete Buttigieg,14,2,0,12
+Dutchess,"T-Poughkeepsie 3-3,4-2",President,,DEM,Pete Buttigieg,1,0,0,1
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8",President,,DEM,Pete Buttigieg,13,3,0,10
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7",President,,DEM,Pete Buttigieg,18,7,1,10
+Dutchess,"Stanford 1,2,3",President,,DEM,Pete Buttigieg,2,1,0,1
+Dutchess,"Union Vale 1,2,3,4",President,,DEM,Pete Buttigieg,2,0,0,2
+Dutchess,"Washington 1,2,3,4",President,,DEM,Pete Buttigieg,9,2,0,7
+Dutchess,"Amenia 1,2,3",President,,DEM,Amy Klobuchar,2,0,0,2
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9",President,,DEM,Amy Klobuchar,2,0,0,2
+Dutchess,"Clinton 1,2,3",President,,DEM,Amy Klobuchar,2,1,0,1
+Dutchess,"Dover 1,2,3,4,5,6",President,,DEM,Amy Klobuchar,0,0,0,0
+Dutchess,East Fishkill 16,President,,DEM,Amy Klobuchar,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4,W4-All",President,,DEM,Amy Klobuchar,4,1,0,3
+Dutchess,"LaGrange 1,6,7,9,10,12",President,,DEM,Amy Klobuchar,1,0,0,1
+Dutchess,"Milan 1,2",President,,DEM,Amy Klobuchar,2,0,0,2
+Dutchess,"North East 1,2,3",President,,DEM,Amy Klobuchar,1,1,0,0
+Dutchess,"Pawling 1,2,3,4,5,6",President,,DEM,Amy Klobuchar,7,3,0,4
+Dutchess,"Pine Plains 1,2",President,,DEM,Amy Klobuchar,0,0,0,0
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7",President,,DEM,Amy Klobuchar,6,1,0,5
+Dutchess,"T-Poughkeepsie 3-3,4-2",President,,DEM,Amy Klobuchar,1,0,0,1
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8",President,,DEM,Amy Klobuchar,7,2,0,5
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7",President,,DEM,Amy Klobuchar,9,4,0,5
+Dutchess,"Stanford 1,2,3",President,,DEM,Amy Klobuchar,6,2,0,4
+Dutchess,"Union Vale 1,2,3,4",President,,DEM,Amy Klobuchar,1,0,0,1
+Dutchess,"Washington 1,2,3,4",President,,DEM,Amy Klobuchar,2,1,0,1
+Dutchess,"Amenia 1,2,3",President,,DEM,Joseph R. Biden,166,43,0,123
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9",President,,DEM,Joseph R. Biden,465,112,3,350
+Dutchess,"Clinton 1,2,3",President,,DEM,Joseph R. Biden,301,59,0,242
+Dutchess,"Dover 1,2,3,4,5,6",President,,DEM,Joseph R. Biden,261,73,4,184
+Dutchess,East Fishkill 16,President,,DEM,Joseph R. Biden,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4,W4-All",President,,DEM,Joseph R. Biden,788,122,5,661
+Dutchess,"LaGrange 1,6,7,9,10,12",President,,DEM,Joseph R. Biden,391,99,3,289
+Dutchess,"Milan 1,2",President,,DEM,Joseph R. Biden,204,49,0,155
+Dutchess,"North East 1,2,3",President,,DEM,Joseph R. Biden,179,43,0,136
+Dutchess,"Pawling 1,2,3,4,5,6",President,,DEM,Joseph R. Biden,417,96,1,320
+Dutchess,"Pine Plains 1,2",President,,DEM,Joseph R. Biden,119,31,0,88
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7",President,,DEM,Joseph R. Biden,420,109,4,307
+Dutchess,"T-Poughkeepsie 3-3,4-2",President,,DEM,Joseph R. Biden,77,30,0,47
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8",President,,DEM,Joseph R. Biden,806,175,1,630
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7",President,,DEM,Joseph R. Biden,891,186,1,704
+Dutchess,"Stanford 1,2,3",President,,DEM,Joseph R. Biden,215,49,1,165
+Dutchess,"Union Vale 1,2,3,4",President,,DEM,Joseph R. Biden,163,33,0,130
+Dutchess,"Washington 1,2,3,4",President,,DEM,Joseph R. Biden,268,61,0,207
+Dutchess,"Amenia 1,2,3",President,,DEM,Tulsi Gabbard,1,0,0,1
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9",President,,DEM,Tulsi Gabbard,2,1,0,1
+Dutchess,"Clinton 1,2,3",President,,DEM,Tulsi Gabbard,2,0,0,2
+Dutchess,"Dover 1,2,3,4,5,6",President,,DEM,Tulsi Gabbard,2,2,0,0
+Dutchess,East Fishkill 16,President,,DEM,Tulsi Gabbard,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4,W4-All",President,,DEM,Tulsi Gabbard,6,2,0,4
+Dutchess,"LaGrange 1,6,7,9,10,12",President,,DEM,Tulsi Gabbard,2,0,0,2
+Dutchess,"Milan 1,2",President,,DEM,Tulsi Gabbard,0,0,0,0
+Dutchess,"North East 1,2,3",President,,DEM,Tulsi Gabbard,0,0,0,0
+Dutchess,"Pawling 1,2,3,4,5,6",President,,DEM,Tulsi Gabbard,3,1,0,2
+Dutchess,"Pine Plains 1,2",President,,DEM,Tulsi Gabbard,3,2,0,1
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7",President,,DEM,Tulsi Gabbard,4,1,0,3
+Dutchess,"T-Poughkeepsie 3-3,4-2",President,,DEM,Tulsi Gabbard,1,1,0,0
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8",President,,DEM,Tulsi Gabbard,2,1,0,1
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7",President,,DEM,Tulsi Gabbard,0,0,0,0
+Dutchess,"Stanford 1,2,3",President,,DEM,Tulsi Gabbard,1,1,0,0
+Dutchess,"Union Vale 1,2,3,4",President,,DEM,Tulsi Gabbard,3,1,0,2
+Dutchess,"Washington 1,2,3,4",President,,DEM,Tulsi Gabbard,1,1,0,0
+Dutchess,"Amenia 1,2,3",President,,DEM,Bernie Sanders,47,22,0,25
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9",President,,DEM,Bernie Sanders,93,32,1,60
+Dutchess,"Clinton 1,2,3",President,,DEM,Bernie Sanders,77,28,0,49
+Dutchess,"Dover 1,2,3,4,5,6",President,,DEM,Bernie Sanders,61,24,0,37
+Dutchess,East Fishkill 16,President,,DEM,Bernie Sanders,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4,W4-All",President,,DEM,Bernie Sanders,159,41,2,116
+Dutchess,"LaGrange 1,6,7,9,10,12",President,,DEM,Bernie Sanders,91,25,1,65
+Dutchess,"Milan 1,2",President,,DEM,Bernie Sanders,64,14,0,50
+Dutchess,"North East 1,2,3",President,,DEM,Bernie Sanders,38,18,0,20
+Dutchess,"Pawling 1,2,3,4,5,6",President,,DEM,Bernie Sanders,73,25,1,47
+Dutchess,"Pine Plains 1,2",President,,DEM,Bernie Sanders,25,10,0,15
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7",President,,DEM,Bernie Sanders,110,32,1,77
+Dutchess,"T-Poughkeepsie 3-3,4-2",President,,DEM,Bernie Sanders,12,5,0,7
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8",President,,DEM,Bernie Sanders,368,116,2,250
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7",President,,DEM,Bernie Sanders,200,74,0,126
+Dutchess,"Stanford 1,2,3",President,,DEM,Bernie Sanders,42,14,0,28
+Dutchess,"Union Vale 1,2,3,4",President,,DEM,Bernie Sanders,53,18,0,35
+Dutchess,"Washington 1,2,3,4",President,,DEM,Bernie Sanders,54,17,1,36
+Dutchess,"Amenia 1,2,3",President,,DEM,Michael R. Bloomberg,7,1,0,6
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9",President,,DEM,Michael R. Bloomberg,13,3,0,10
+Dutchess,"Clinton 1,2,3",President,,DEM,Michael R. Bloomberg,4,1,0,3
+Dutchess,"Dover 1,2,3,4,5,6",President,,DEM,Michael R. Bloomberg,2,1,0,1
+Dutchess,East Fishkill 16,President,,DEM,Michael R. Bloomberg,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4,W4-All",President,,DEM,Michael R. Bloomberg,10,1,0,9
+Dutchess,"LaGrange 1,6,7,9,10,12",President,,DEM,Michael R. Bloomberg,8,4,0,4
+Dutchess,"Milan 1,2",President,,DEM,Michael R. Bloomberg,1,0,0,1
+Dutchess,"North East 1,2,3",President,,DEM,Michael R. Bloomberg,1,0,0,1
+Dutchess,"Pawling 1,2,3,4,5,6",President,,DEM,Michael R. Bloomberg,2,0,0,2
+Dutchess,"Pine Plains 1,2",President,,DEM,Michael R. Bloomberg,0,0,0,0
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7",President,,DEM,Michael R. Bloomberg,7,1,0,6
+Dutchess,"T-Poughkeepsie 3-3,4-2",President,,DEM,Michael R. Bloomberg,2,0,0,2
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8",President,,DEM,Michael R. Bloomberg,10,2,0,8
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7",President,,DEM,Michael R. Bloomberg,5,1,0,4
+Dutchess,"Stanford 1,2,3",President,,DEM,Michael R. Bloomberg,2,2,0,0
+Dutchess,"Union Vale 1,2,3,4",President,,DEM,Michael R. Bloomberg,4,0,0,4
+Dutchess,"Washington 1,2,3,4",President,,DEM,Michael R. Bloomberg,3,0,0,3
+Dutchess,"Amenia 1,2,3",President,,DEM,Tom Steyer,2,1,0,1
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"Clinton 1,2,3",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"Dover 1,2,3,4,5,6",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,East Fishkill 16,President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4,W4-All",President,,DEM,Tom Steyer,1,0,0,1
+Dutchess,"LaGrange 1,6,7,9,10,12",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"Milan 1,2",President,,DEM,Tom Steyer,1,1,0,0
+Dutchess,"North East 1,2,3",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"Pawling 1,2,3,4,5,6",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"Pine Plains 1,2",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7",President,,DEM,Tom Steyer,1,1,0,0
+Dutchess,"T-Poughkeepsie 3-3,4-2",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7",President,,DEM,Tom Steyer,1,1,0,0
+Dutchess,"Stanford 1,2,3",President,,DEM,Tom Steyer,1,0,0,1
+Dutchess,"Union Vale 1,2,3,4",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"Washington 1,2,3,4",President,,DEM,Tom Steyer,0,0,0,0
+Dutchess,"Amenia 1,2,3",President,,DEM,Michael Bennet,1,1,0,0
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9",President,,DEM,Michael Bennet,1,1,0,0
+Dutchess,"Clinton 1,2,3",President,,DEM,Michael Bennet,0,0,0,0
+Dutchess,"Dover 1,2,3,4,5,6",President,,DEM,Michael Bennet,0,0,0,0
+Dutchess,East Fishkill 16,President,,DEM,Michael Bennet,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4,W4-All",President,,DEM,Michael Bennet,1,1,0,0
+Dutchess,"LaGrange 1,6,7,9,10,12",President,,DEM,Michael Bennet,0,0,0,0
+Dutchess,"Milan 1,2",President,,DEM,Michael Bennet,0,0,0,0
+Dutchess,"North East 1,2,3",President,,DEM,Michael Bennet,0,0,0,0
+Dutchess,"Pawling 1,2,3,4,5,6",President,,DEM,Michael Bennet,1,0,0,1
+Dutchess,"Pine Plains 1,2",President,,DEM,Michael Bennet,0,0,0,0
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7",President,,DEM,Michael Bennet,0,0,0,0
+Dutchess,"T-Poughkeepsie 3-3,4-2",President,,DEM,Michael Bennet,0,0,0,0
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8",President,,DEM,Michael Bennet,2,0,0,2
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7",President,,DEM,Michael Bennet,1,0,0,1
+Dutchess,"Stanford 1,2,3",President,,DEM,Michael Bennet,0,0,0,0
+Dutchess,"Union Vale 1,2,3,4",President,,DEM,Michael Bennet,0,0,0,0
+Dutchess,"Washington 1,2,3,4",President,,DEM,Michael Bennet,0,0,0,0
+Dutchess,"Amenia 1,2,3",President,,DEM,Elizabeth Warren,15,4,0,11
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9",President,,DEM,Elizabeth Warren,17,5,0,12
+Dutchess,"Clinton 1,2,3",President,,DEM,Elizabeth Warren,18,3,0,15
+Dutchess,"Dover 1,2,3,4,5,6",President,,DEM,Elizabeth Warren,12,5,0,7
+Dutchess,East Fishkill 16,President,,DEM,Elizabeth Warren,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4,W4-All",President,,DEM,Elizabeth Warren,50,6,1,43
+Dutchess,"LaGrange 1,6,7,9,10,12",President,,DEM,Elizabeth Warren,33,6,0,27
+Dutchess,"Milan 1,2",President,,DEM,Elizabeth Warren,18,5,0,13
+Dutchess,"North East 1,2,3",President,,DEM,Elizabeth Warren,18,6,0,12
+Dutchess,"Pawling 1,2,3,4,5,6",President,,DEM,Elizabeth Warren,34,8,2,24
+Dutchess,"Pine Plains 1,2",President,,DEM,Elizabeth Warren,12,1,0,11
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7",President,,DEM,Elizabeth Warren,23,3,0,20
+Dutchess,"T-Poughkeepsie 3-3,4-2",President,,DEM,Elizabeth Warren,4,0,0,4
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8",President,,DEM,Elizabeth Warren,119,21,0,98
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7",President,,DEM,Elizabeth Warren,85,23,0,62
+Dutchess,"Stanford 1,2,3",President,,DEM,Elizabeth Warren,16,6,0,10
+Dutchess,"Union Vale 1,2,3,4",President,,DEM,Elizabeth Warren,5,2,1,2
+Dutchess,"Washington 1,2,3,4",President,,DEM,Elizabeth Warren,25,10,0,15
+Dutchess,"Amenia 1,2,3",President,,DEM,Andrew Yang,0,0,0,0
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9",President,,DEM,Andrew Yang,4,2,0,2
+Dutchess,"Clinton 1,2,3",President,,DEM,Andrew Yang,3,2,0,1
+Dutchess,"Dover 1,2,3,4,5,6",President,,DEM,Andrew Yang,2,1,0,1
+Dutchess,East Fishkill 16,President,,DEM,Andrew Yang,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4,W4-All",President,,DEM,Andrew Yang,11,3,0,8
+Dutchess,"LaGrange 1,6,7,9,10,12",President,,DEM,Andrew Yang,7,3,0,4
+Dutchess,"Milan 1,2",President,,DEM,Andrew Yang,2,1,0,1
+Dutchess,"North East 1,2,3",President,,DEM,Andrew Yang,3,1,0,2
+Dutchess,"Pawling 1,2,3,4,5,6",President,,DEM,Andrew Yang,5,1,0,4
+Dutchess,"Pine Plains 1,2",President,,DEM,Andrew Yang,2,0,0,2
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7",President,,DEM,Andrew Yang,8,4,0,4
+Dutchess,"T-Poughkeepsie 3-3,4-2",President,,DEM,Andrew Yang,2,1,0,1
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8",President,,DEM,Andrew Yang,10,1,0,9
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7",President,,DEM,Andrew Yang,8,5,0,3
+Dutchess,"Stanford 1,2,3",President,,DEM,Andrew Yang,0,0,0,0
+Dutchess,"Union Vale 1,2,3,4",President,,DEM,Andrew Yang,0,0,0,0
+Dutchess,"Washington 1,2,3,4",President,,DEM,Andrew Yang,5,3,0,2
+Dutchess,"Amenia 1,2,3",President,,DEM,Deval Patrick,0,0,0,0
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9",President,,DEM,Deval Patrick,2,0,0,2
+Dutchess,"Clinton 1,2,3",President,,DEM,Deval Patrick,0,0,0,0
+Dutchess,"Dover 1,2,3,4,5,6",President,,DEM,Deval Patrick,1,1,0,0
+Dutchess,East Fishkill 16,President,,DEM,Deval Patrick,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4,W4-All",President,,DEM,Deval Patrick,3,2,0,1
+Dutchess,"LaGrange 1,6,7,9,10,12",President,,DEM,Deval Patrick,1,0,0,1
+Dutchess,"Milan 1,2",President,,DEM,Deval Patrick,0,0,0,0
+Dutchess,"North East 1,2,3",President,,DEM,Deval Patrick,0,0,0,0
+Dutchess,"Pawling 1,2,3,4,5,6",President,,DEM,Deval Patrick,3,1,0,2
+Dutchess,"Pine Plains 1,2",President,,DEM,Deval Patrick,0,0,0,0
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7",President,,DEM,Deval Patrick,1,1,0,0
+Dutchess,"T-Poughkeepsie 3-3,4-2",President,,DEM,Deval Patrick,0,0,0,0
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8",President,,DEM,Deval Patrick,1,1,0,0
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7",President,,DEM,Deval Patrick,3,0,0,3
+Dutchess,"Stanford 1,2,3",President,,DEM,Deval Patrick,0,0,0,0
+Dutchess,"Union Vale 1,2,3,4",President,,DEM,Deval Patrick,0,0,0,0
+Dutchess,"Washington 1,2,3,4",President,,DEM,Deval Patrick,0,0,0,0
+Dutchess,"Amenia 1,2,3",President,,DEM,Under Votes,0,0,0,0
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9",President,,DEM,Under Votes,3,2,0,1
+Dutchess,"Clinton 1,2,3",President,,DEM,Under Votes,7,5,0,2
+Dutchess,"Dover 1,2,3,4,5,6",President,,DEM,Under Votes,1,0,0,1
+Dutchess,East Fishkill 16,President,,DEM,Under Votes,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4,W4-All",President,,DEM,Under Votes,4,2,0,2
+Dutchess,"LaGrange 1,6,7,9,10,12",President,,DEM,Under Votes,0,0,0,0
+Dutchess,"Milan 1,2",President,,DEM,Under Votes,0,0,0,0
+Dutchess,"North East 1,2,3",President,,DEM,Under Votes,0,0,0,0
+Dutchess,"Pawling 1,2,3,4,5,6",President,,DEM,Under Votes,4,1,0,3
+Dutchess,"Pine Plains 1,2",President,,DEM,Under Votes,2,1,0,1
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7",President,,DEM,Under Votes,4,2,1,1
+Dutchess,"T-Poughkeepsie 3-3,4-2",President,,DEM,Under Votes,1,1,0,0
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8",President,,DEM,Under Votes,4,2,0,2
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7",President,,DEM,Under Votes,5,3,0,2
+Dutchess,"Stanford 1,2,3",President,,DEM,Under Votes,1,1,0,0
+Dutchess,"Union Vale 1,2,3,4",President,,DEM,Under Votes,2,2,0,0
+Dutchess,"Washington 1,2,3,4",President,,DEM,Under Votes,1,0,0,1
+Dutchess,"Amenia 1,2,3",President,,DEM,Over Votes,1,1,0,0
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9",President,,DEM,Over Votes,2,1,0,1
+Dutchess,"Clinton 1,2,3",President,,DEM,Over Votes,0,0,0,0
+Dutchess,"Dover 1,2,3,4,5,6",President,,DEM,Over Votes,2,0,0,2
+Dutchess,East Fishkill 16,President,,DEM,Over Votes,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4,W4-All",President,,DEM,Over Votes,6,1,0,5
+Dutchess,"LaGrange 1,6,7,9,10,12",President,,DEM,Over Votes,1,1,0,0
+Dutchess,"Milan 1,2",President,,DEM,Over Votes,0,0,0,0
+Dutchess,"North East 1,2,3",President,,DEM,Over Votes,1,0,0,1
+Dutchess,"Pawling 1,2,3,4,5,6",President,,DEM,Over Votes,3,1,0,2
+Dutchess,"Pine Plains 1,2",President,,DEM,Over Votes,0,0,0,0
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7",President,,DEM,Over Votes,1,0,0,1
+Dutchess,"T-Poughkeepsie 3-3,4-2",President,,DEM,Over Votes,0,0,0,0
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8",President,,DEM,Over Votes,6,3,0,3
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7",President,,DEM,Over Votes,3,0,0,3
+Dutchess,"Stanford 1,2,3",President,,DEM,Over Votes,1,0,0,1
+Dutchess,"Union Vale 1,2,3,4",President,,DEM,Over Votes,0,0,0,0
+Dutchess,"Washington 1,2,3,4",President,,DEM,Over Votes,4,0,0,4
+Dutchess,"Amenia 1,2,3",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Clinton 1,2,3",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Dover 1,2,3,4,5,6",President,,DEM,Write-ins,0,0,0,0
+Dutchess,East Fishkill 16,President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4,W4-All",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"LaGrange 1,6,7,9,10,12",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Milan 1,2",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"North East 1,2,3",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Pawling 1,2,3,4,5,6",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Pine Plains 1,2",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"T-Poughkeepsie 3-3,4-2",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Stanford 1,2,3",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Union Vale 1,2,3,4",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Washington 1,2,3,4",President,,DEM,Write-ins,0,0,0,0
+Dutchess,"Amenia 1,2,3 R",U.S. House,19,REP,Ola Hawatmeh,36,23,0,13
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9 R",U.S. House,19,REP,Ola Hawatmeh,134,81,1,52
+Dutchess,"Clinton 1,2,3 R",U.S. House,19,REP,Ola Hawatmeh,63,49,1,13
+Dutchess,"Dover 1,2,3,4,5,6 R",U.S. House,19,REP,Ola Hawatmeh,55,31,1,23
+Dutchess,East Fishkill 16 R,U.S. House,19,REP,Ola Hawatmeh,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4, W4-All R",U.S. House,19,REP,Ola Hawatmeh,192,123,0,69
+Dutchess,"LaGrange 1,6,7,9,10,12 R",U.S. House,19,REP,Ola Hawatmeh,110,67,2,41
+Dutchess,"Milan 1,2 R",U.S. House,19,REP,Ola Hawatmeh,24,15,0,9
+Dutchess,"North East 1,2,3 R",U.S. House,19,REP,Ola Hawatmeh,31,17,0,14
+Dutchess,"Pawling 1,2,3,4,5,6 R",U.S. House,19,REP,Ola Hawatmeh,81,38,1,42
+Dutchess,"Pine Plains 1,2 R",U.S. House,19,REP,Ola Hawatmeh,17,7,0,10
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7 R",U.S. House,19,REP,Ola Hawatmeh,171,123,3,45
+Dutchess,"T-Poughkeepsie 3-3,4-2 R",U.S. House,19,REP,Ola Hawatmeh,48,5,0,43
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8 R",U.S. House,19,REP,Ola Hawatmeh,68,47,0,21
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7 R",U.S. House,19,REP,Ola Hawatmeh,72,50,0,22
+Dutchess,"Stanford 1,2,3 R",U.S. House,19,REP,Ola Hawatmeh,43,32,0,11
+Dutchess,"Union Vale 1,2,3,4 R",U.S. House,19,REP,Ola Hawatmeh,52,35,0,17
+Dutchess,"Washington 1,2,3,4 R",U.S. House,19,REP,Ola Hawatmeh,35,24,0,11
+Dutchess,"Amenia 1,2,3 R",U.S. House,19,REP,Kyle Van De Water,77,37,0,40
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9 R",U.S. House,19,REP,Kyle Van De Water,225,88,1,136
+Dutchess,"Clinton 1,2,3 R",U.S. House,19,REP,Kyle Van De Water,77,32,0,45
+Dutchess,"Dover 1,2,3,4,5,6 R",U.S. House,19,REP,Kyle Van De Water,102,37,2,63
+Dutchess,East Fishkill 16 R,U.S. House,19,REP,Kyle Van De Water,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4, W4-All R",U.S. House,19,REP,Kyle Van De Water,237,78,1,158
+Dutchess,"LaGrange 1,6,7,9,10,12 R",U.S. House,19,REP,Kyle Van De Water,209,89,2,118
+Dutchess,"Milan 1,2 R",U.S. House,19,REP,Kyle Van De Water,36,17,0,19
+Dutchess,"North East 1,2,3 R",U.S. House,19,REP,Kyle Van De Water,35,10,0,25
+Dutchess,"Pawling 1,2,3,4,5,6 R",U.S. House,19,REP,Kyle Van De Water,165,80,0,85
+Dutchess,"Pine Plains 1,2 R",U.S. House,19,REP,Kyle Van De Water,64,11,0,53
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7 R",U.S. House,19,REP,Kyle Van De Water,194,102,1,91
+Dutchess,"T-Poughkeepsie 3-3,4-2 R",U.S. House,19,REP,Kyle Van De Water,114,3,0,111
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8 R",U.S. House,19,REP,Kyle Van De Water,122,43,0,79
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7 R",U.S. House,19,REP,Kyle Van De Water,101,48,1,52
+Dutchess,"Stanford 1,2,3 R",U.S. House,19,REP,Kyle Van De Water,50,40,1,9
+Dutchess,"Union Vale 1,2,3,4 R",U.S. House,19,REP,Kyle Van De Water,120,55,0,65
+Dutchess,"Washington 1,2,3,4 R",U.S. House,19,REP,Kyle Van De Water,91,35,0,56
+Dutchess,"Amenia 1,2,3 R",U.S. House,19,REP,Under Votes,1,1,0,0
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9 R",U.S. House,19,REP,Under Votes,0,0,0,0
+Dutchess,"Clinton 1,2,3 R",U.S. House,19,REP,Under Votes,0,0,0,0
+Dutchess,"Dover 1,2,3,4,5,6 R",U.S. House,19,REP,Under Votes,0,0,0,0
+Dutchess,East Fishkill 16 R,U.S. House,19,REP,Under Votes,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4, W4-All R",U.S. House,19,REP,Under Votes,1,1,0,0
+Dutchess,"LaGrange 1,6,7,9,10,12 R",U.S. House,19,REP,Under Votes,2,2,0,0
+Dutchess,"Milan 1,2 R",U.S. House,19,REP,Under Votes,2,0,0,2
+Dutchess,"North East 1,2,3 R",U.S. House,19,REP,Under Votes,0,0,0,0
+Dutchess,"Pawling 1,2,3,4,5,6 R",U.S. House,19,REP,Under Votes,1,0,0,1
+Dutchess,"Pine Plains 1,2 R",U.S. House,19,REP,Under Votes,0,0,0,0
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7 R",U.S. House,19,REP,Under Votes,0,0,0,0
+Dutchess,"T-Poughkeepsie 3-3,4-2 R",U.S. House,19,REP,Under Votes,2,0,0,2
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8 R",U.S. House,19,REP,Under Votes,3,1,0,2
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7 R",U.S. House,19,REP,Under Votes,1,0,0,1
+Dutchess,"Stanford 1,2,3 R",U.S. House,19,REP,Under Votes,1,1,0,0
+Dutchess,"Union Vale 1,2,3,4 R",U.S. House,19,REP,Under Votes,1,0,0,1
+Dutchess,"Washington 1,2,3,4 R",U.S. House,19,REP,Under Votes,1,0,0,1
+Dutchess,"Amenia 1,2,3 R",U.S. House,19,REP,Over Votes,2,0,0,2
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9 R",U.S. House,19,REP,Over Votes,7,1,0,6
+Dutchess,"Clinton 1,2,3 R",U.S. House,19,REP,Over Votes,2,1,0,1
+Dutchess,"Dover 1,2,3,4,5,6 R",U.S. House,19,REP,Over Votes,3,0,0,3
+Dutchess,East Fishkill 16 R,U.S. House,19,REP,Over Votes,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4, W4-All R",U.S. House,19,REP,Over Votes,5,1,0,4
+Dutchess,"LaGrange 1,6,7,9,10,12 R",U.S. House,19,REP,Over Votes,3,2,0,1
+Dutchess,"Milan 1,2 R",U.S. House,19,REP,Over Votes,1,0,0,1
+Dutchess,"North East 1,2,3 R",U.S. House,19,REP,Over Votes,0,0,0,0
+Dutchess,"Pawling 1,2,3,4,5,6 R",U.S. House,19,REP,Over Votes,2,0,0,2
+Dutchess,"Pine Plains 1,2 R",U.S. House,19,REP,Over Votes,1,0,0,1
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7 R",U.S. House,19,REP,Over Votes,2,0,0,2
+Dutchess,"T-Poughkeepsie 3-3,4-2 R",U.S. House,19,REP,Over Votes,1,0,0,1
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8 R",U.S. House,19,REP,Over Votes,3,1,0,2
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7 R",U.S. House,19,REP,Over Votes,0,0,0,0
+Dutchess,"Stanford 1,2,3 R",U.S. House,19,REP,Over Votes,0,0,0,0
+Dutchess,"Union Vale 1,2,3,4 R",U.S. House,19,REP,Over Votes,2,0,0,2
+Dutchess,"Washington 1,2,3,4 R",U.S. House,19,REP,Over Votes,0,0,0,0
+Dutchess,"Amenia 1,2,3 R",U.S. House,19,REP,Write-ins,1,0,0,1
+Dutchess,"Beekman 1,2,3,4,5,6,7,8,9 R",U.S. House,19,REP,Write-ins,4,2,0,2
+Dutchess,"Clinton 1,2,3 R",U.S. House,19,REP,Write-ins,1,0,0,1
+Dutchess,"Dover 1,2,3,4,5,6 R",U.S. House,19,REP,Write-ins,1,0,0,1
+Dutchess,East Fishkill 16 R,U.S. House,19,REP,Write-ins,0,0,0,0
+Dutchess,"Hyde Park W1-All, W2-1,2,3 W3-1,3,4, W4-All R",U.S. House,19,REP,Write-ins,3,0,0,3
+Dutchess,"LaGrange 1,6,7,9,10,12 R",U.S. House,19,REP,Write-ins,0,0,0,0
+Dutchess,"Milan 1,2 R",U.S. House,19,REP,Write-ins,0,0,0,0
+Dutchess,"North East 1,2,3 R",U.S. House,19,REP,Write-ins,1,0,0,1
+Dutchess,"Pawling 1,2,3,4,5,6 R",U.S. House,19,REP,Write-ins,1,0,0,1
+Dutchess,"Pine Plains 1,2 R",U.S. House,19,REP,Write-ins,0,0,0,0
+Dutchess,"Pleasant Valley 1,2,3,4,5,6,7 R",U.S. House,19,REP,Write-ins,5,0,0,5
+Dutchess,"T-Poughkeepsie 3-3,4-2 R",U.S. House,19,REP,Write-ins,3,0,0,3
+Dutchess,"Red Hook 1,2,3,4,5,6,7,8 R",U.S. House,19,REP,Write-ins,0,0,0,0
+Dutchess,"Rhinebeck 1,2,3,4,5,6,7 R",U.S. House,19,REP,Write-ins,2,0,0,2
+Dutchess,"Stanford 1,2,3 R",U.S. House,19,REP,Write-ins,1,0,0,1
+Dutchess,"Union Vale 1,2,3,4 R",U.S. House,19,REP,Write-ins,0,0,0,0
+Dutchess,"Washington 1,2,3,4 R",U.S. House,19,REP,Write-ins,1,1,0,0
