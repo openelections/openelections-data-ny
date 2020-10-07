@@ -1,0 +1,729 @@
+﻿county,precinct,office,district,party,candidate,election_day,absentee,votes
+Greene,Town of Ashland 1,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Athens 1,President,,DEM,Pete Buttigieg,1,1,2
+Greene,Town of Athens 2,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Athens 3,President,,DEM,Pete Buttigieg,1,3,4
+Greene,Town of Athens 4,President,,DEM,Pete Buttigieg,0,2,2
+Greene,Town of Cairo 1,President,,DEM,Pete Buttigieg,1,0,1
+Greene,Town of Cairo 2,President,,DEM,Pete Buttigieg,1,1,2
+Greene,Town of Cairo 3,President,,DEM,Pete Buttigieg,0,1,1
+Greene,Town of Cairo 4,President,,DEM,Pete Buttigieg,0,1,1
+Greene,Town of Cairo 5,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Cairo 6,President,,DEM,Pete Buttigieg,0,1,1
+Greene,Town of Cairo 7,President,,DEM,Pete Buttigieg,0,2,2
+Greene,Town of Catskill 1,President,,DEM,Pete Buttigieg,0,1,1
+Greene,Town of Catskill 2,President,,DEM,Pete Buttigieg,1,0,1
+Greene,Town of Catskill 3,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Catskill 4,President,,DEM,Pete Buttigieg,0,3,3
+Greene,Town of Catskill 5,President,,DEM,Pete Buttigieg,0,1,1
+Greene,Town of Catskill 6,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Catskill 7,President,,DEM,Pete Buttigieg,0,1,1
+Greene,Town of Catskill 8,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Catskill 9,President,,DEM,Pete Buttigieg,0,1,1
+Greene,Town of Catskill 10,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Catskill 11,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Catskill 12,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Catskill 13,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Catskill 14,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Coxsackie 1,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Coxsackie 2,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Coxsackie 3,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Coxsackie 4,President,,DEM,Pete Buttigieg,1,0,1
+Greene,Town of Coxsackie 5,President,,DEM,Pete Buttigieg,1,0,1
+Greene,Town of Coxsackie 6,President,,DEM,Pete Buttigieg,2,0,2
+Greene,Town of Durham 1,President,,DEM,Pete Buttigieg,0,1,1
+Greene,Town of Durham 2,President,,DEM,Pete Buttigieg,0,1,1
+Greene,Town of Greenville 1,President,,DEM,Pete Buttigieg,1,2,3
+Greene,Town of Greenville 2,President,,DEM,Pete Buttigieg,0,1,1
+Greene,Town of Greenville 3,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Halcott 1,President,,DEM,Pete Buttigieg,1,0,1
+Greene,Town of Hunter 1,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Hunter 2,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Hunter 3,President,,DEM,Pete Buttigieg,1,1,2
+Greene,Town of Hunter 4,President,,DEM,Pete Buttigieg,0,1,1
+Greene,Town of Jewett 1,President,,DEM,Pete Buttigieg,1,0,1
+Greene,Town of Lexington 1,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Lexington 2,President,,DEM,Pete Buttigieg,1,0,1
+Greene,Town of New Baltimore 1,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of New Baltimore 2,President,,DEM,Pete Buttigieg,0,1,1
+Greene,Town of New Baltimore 3,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of New Baltimore 4,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Prattsville 1,President,,DEM,Pete Buttigieg,0,2,2
+Greene,Town of Windham 1,President,,DEM,Pete Buttigieg,1,2,3
+Greene,Town of Windham 2,President,,DEM,Pete Buttigieg,0,0,0
+Greene,Town of Ashland 1,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Athens 1,President,,DEM,Amy Klobuchar,1,0,1
+Greene,Town of Athens 2,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Athens 3,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Athens 4,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Cairo 1,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Cairo 2,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Cairo 3,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Cairo 4,President,,DEM,Amy Klobuchar,0,1,1
+Greene,Town of Cairo 5,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Cairo 6,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Cairo 7,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Catskill 1,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Catskill 2,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Catskill 3,President,,DEM,Amy Klobuchar,0,1,1
+Greene,Town of Catskill 4,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Catskill 5,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Catskill 6,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Catskill 7,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Catskill 8,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Catskill 9,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Catskill 10,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Catskill 11,President,,DEM,Amy Klobuchar,2,0,2
+Greene,Town of Catskill 12,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Catskill 13,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Catskill 14,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Coxsackie 1,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Coxsackie 2,President,,DEM,Amy Klobuchar,0,1,1
+Greene,Town of Coxsackie 3,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Coxsackie 4,President,,DEM,Amy Klobuchar,1,0,1
+Greene,Town of Coxsackie 5,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Coxsackie 6,President,,DEM,Amy Klobuchar,0,1,1
+Greene,Town of Durham 1,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Durham 2,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Greenville 1,President,,DEM,Amy Klobuchar,1,0,1
+Greene,Town of Greenville 2,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Greenville 3,President,,DEM,Amy Klobuchar,1,0,1
+Greene,Town of Halcott 1,President,,DEM,Amy Klobuchar,0,1,1
+Greene,Town of Hunter 1,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Hunter 2,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Hunter 3,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Hunter 4,President,,DEM,Amy Klobuchar,0,1,1
+Greene,Town of Jewett 1,President,,DEM,Amy Klobuchar,1,0,1
+Greene,Town of Lexington 1,President,,DEM,Amy Klobuchar,1,0,1
+Greene,Town of Lexington 2,President,,DEM,Amy Klobuchar,0,1,1
+Greene,Town of New Baltimore 1,President,,DEM,Amy Klobuchar,2,0,2
+Greene,Town of New Baltimore 2,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of New Baltimore 3,President,,DEM,Amy Klobuchar,0,1,1
+Greene,Town of New Baltimore 4,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Prattsville 1,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Windham 1,President,,DEM,Amy Klobuchar,0,2,2
+Greene,Town of Windham 2,President,,DEM,Amy Klobuchar,0,0,0
+Greene,Town of Ashland 1,President,,DEM,Joseph R. Biden,12,14,26
+Greene,Town of Athens 1,President,,DEM,Joseph R. Biden,24,35,59
+Greene,Town of Athens 2,President,,DEM,Joseph R. Biden,6,13,19
+Greene,Town of Athens 3,President,,DEM,Joseph R. Biden,28,71,99
+Greene,Town of Athens 4,President,,DEM,Joseph R. Biden,5,16,21
+Greene,Town of Cairo 1,President,,DEM,Joseph R. Biden,4,20,24
+Greene,Town of Cairo 2,President,,DEM,Joseph R. Biden,3,21,24
+Greene,Town of Cairo 3,President,,DEM,Joseph R. Biden,3,7,10
+Greene,Town of Cairo 4,President,,DEM,Joseph R. Biden,10,17,27
+Greene,Town of Cairo 5,President,,DEM,Joseph R. Biden,5,9,14
+Greene,Town of Cairo 6,President,,DEM,Joseph R. Biden,8,34,42
+Greene,Town of Cairo 7,President,,DEM,Joseph R. Biden,13,18,31
+Greene,Town of Catskill 1,President,,DEM,Joseph R. Biden,18,51,69
+Greene,Town of Catskill 2,President,,DEM,Joseph R. Biden,8,30,38
+Greene,Town of Catskill 3,President,,DEM,Joseph R. Biden,10,16,26
+Greene,Town of Catskill 4,President,,DEM,Joseph R. Biden,12,10,22
+Greene,Town of Catskill 5,President,,DEM,Joseph R. Biden,12,26,38
+Greene,Town of Catskill 6,President,,DEM,Joseph R. Biden,8,13,21
+Greene,Town of Catskill 7,President,,DEM,Joseph R. Biden,16,21,37
+Greene,Town of Catskill 8,President,,DEM,Joseph R. Biden,2,6,8
+Greene,Town of Catskill 9,President,,DEM,Joseph R. Biden,17,44,61
+Greene,Town of Catskill 10,President,,DEM,Joseph R. Biden,35,39,74
+Greene,Town of Catskill 11,President,,DEM,Joseph R. Biden,12,19,31
+Greene,Town of Catskill 12,President,,DEM,Joseph R. Biden,3,6,9
+Greene,Town of Catskill 13,President,,DEM,Joseph R. Biden,7,28,35
+Greene,Town of Catskill 14,President,,DEM,Joseph R. Biden,9,20,29
+Greene,Town of Coxsackie 1,President,,DEM,Joseph R. Biden,21,53,74
+Greene,Town of Coxsackie 2,President,,DEM,Joseph R. Biden,10,20,30
+Greene,Town of Coxsackie 3,President,,DEM,Joseph R. Biden,5,6,11
+Greene,Town of Coxsackie 4,President,,DEM,Joseph R. Biden,8,22,30
+Greene,Town of Coxsackie 5,President,,DEM,Joseph R. Biden,13,8,21
+Greene,Town of Coxsackie 6,President,,DEM,Joseph R. Biden,13,23,36
+Greene,Town of Durham 1,President,,DEM,Joseph R. Biden,9,37,46
+Greene,Town of Durham 2,President,,DEM,Joseph R. Biden,16,38,54
+Greene,Town of Greenville 1,President,,DEM,Joseph R. Biden,13,38,51
+Greene,Town of Greenville 2,President,,DEM,Joseph R. Biden,6,18,24
+Greene,Town of Greenville 3,President,,DEM,Joseph R. Biden,6,31,37
+Greene,Town of Halcott 1,President,,DEM,Joseph R. Biden,4,16,20
+Greene,Town of Hunter 1,President,,DEM,Joseph R. Biden,19,34,53
+Greene,Town of Hunter 2,President,,DEM,Joseph R. Biden,16,38,54
+Greene,Town of Hunter 3,President,,DEM,Joseph R. Biden,15,24,39
+Greene,Town of Hunter 4,President,,DEM,Joseph R. Biden,3,20,23
+Greene,Town of Jewett 1,President,,DEM,Joseph R. Biden,15,43,58
+Greene,Town of Lexington 1,President,,DEM,Joseph R. Biden,16,20,36
+Greene,Town of Lexington 2,President,,DEM,Joseph R. Biden,12,15,27
+Greene,Town of New Baltimore 1,President,,DEM,Joseph R. Biden,19,32,51
+Greene,Town of New Baltimore 2,President,,DEM,Joseph R. Biden,6,9,15
+Greene,Town of New Baltimore 3,President,,DEM,Joseph R. Biden,11,32,43
+Greene,Town of New Baltimore 4,President,,DEM,Joseph R. Biden,4,8,12
+Greene,Town of Prattsville 1,President,,DEM,Joseph R. Biden,6,10,16
+Greene,Town of Windham 1,President,,DEM,Joseph R. Biden,20,42,62
+Greene,Town of Windham 2,President,,DEM,Joseph R. Biden,13,14,27
+Greene,Town of Ashland 1,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Athens 1,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Athens 2,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Athens 3,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Athens 4,President,,DEM,Tulsi Gabbard,1,0,1
+Greene,Town of Cairo 1,President,,DEM,Tulsi Gabbard,0,1,1
+Greene,Town of Cairo 2,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Cairo 3,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Cairo 4,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Cairo 5,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Cairo 6,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Cairo 7,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Catskill 1,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Catskill 2,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Catskill 3,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Catskill 4,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Catskill 5,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Catskill 6,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Catskill 7,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Catskill 8,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Catskill 9,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Catskill 10,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Catskill 11,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Catskill 12,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Catskill 13,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Catskill 14,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Coxsackie 1,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Coxsackie 2,President,,DEM,Tulsi Gabbard,1,0,1
+Greene,Town of Coxsackie 3,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Coxsackie 4,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Coxsackie 5,President,,DEM,Tulsi Gabbard,0,1,1
+Greene,Town of Coxsackie 6,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Durham 1,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Durham 2,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Greenville 1,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Greenville 2,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Greenville 3,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Halcott 1,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Hunter 1,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Hunter 2,President,,DEM,Tulsi Gabbard,2,0,2
+Greene,Town of Hunter 3,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Hunter 4,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Jewett 1,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Lexington 1,President,,DEM,Tulsi Gabbard,0,2,2
+Greene,Town of Lexington 2,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of New Baltimore 1,President,,DEM,Tulsi Gabbard,0,1,1
+Greene,Town of New Baltimore 2,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of New Baltimore 3,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of New Baltimore 4,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Prattsville 1,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Windham 1,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Windham 2,President,,DEM,Tulsi Gabbard,0,0,0
+Greene,Town of Ashland 1,President,,DEM,Bernie Sanders,4,2,6
+Greene,Town of Athens 1,President,,DEM,Bernie Sanders,6,12,18
+Greene,Town of Athens 2,President,,DEM,Bernie Sanders,3,7,10
+Greene,Town of Athens 3,President,,DEM,Bernie Sanders,21,18,39
+Greene,Town of Athens 4,President,,DEM,Bernie Sanders,4,7,11
+Greene,Town of Cairo 1,President,,DEM,Bernie Sanders,0,2,2
+Greene,Town of Cairo 2,President,,DEM,Bernie Sanders,0,6,6
+Greene,Town of Cairo 3,President,,DEM,Bernie Sanders,5,0,5
+Greene,Town of Cairo 4,President,,DEM,Bernie Sanders,2,5,7
+Greene,Town of Cairo 5,President,,DEM,Bernie Sanders,4,0,4
+Greene,Town of Cairo 6,President,,DEM,Bernie Sanders,2,5,7
+Greene,Town of Cairo 7,President,,DEM,Bernie Sanders,2,2,4
+Greene,Town of Catskill 1,President,,DEM,Bernie Sanders,5,16,21
+Greene,Town of Catskill 2,President,,DEM,Bernie Sanders,4,15,19
+Greene,Town of Catskill 3,President,,DEM,Bernie Sanders,23,17,40
+Greene,Town of Catskill 4,President,,DEM,Bernie Sanders,3,14,17
+Greene,Town of Catskill 5,President,,DEM,Bernie Sanders,1,4,5
+Greene,Town of Catskill 6,President,,DEM,Bernie Sanders,5,5,10
+Greene,Town of Catskill 7,President,,DEM,Bernie Sanders,4,5,9
+Greene,Town of Catskill 8,President,,DEM,Bernie Sanders,0,2,2
+Greene,Town of Catskill 9,President,,DEM,Bernie Sanders,8,16,24
+Greene,Town of Catskill 10,President,,DEM,Bernie Sanders,21,18,39
+Greene,Town of Catskill 11,President,,DEM,Bernie Sanders,7,9,16
+Greene,Town of Catskill 12,President,,DEM,Bernie Sanders,2,3,5
+Greene,Town of Catskill 13,President,,DEM,Bernie Sanders,5,3,8
+Greene,Town of Catskill 14,President,,DEM,Bernie Sanders,3,1,4
+Greene,Town of Coxsackie 1,President,,DEM,Bernie Sanders,8,10,18
+Greene,Town of Coxsackie 2,President,,DEM,Bernie Sanders,6,9,15
+Greene,Town of Coxsackie 3,President,,DEM,Bernie Sanders,2,1,3
+Greene,Town of Coxsackie 4,President,,DEM,Bernie Sanders,4,8,12
+Greene,Town of Coxsackie 5,President,,DEM,Bernie Sanders,0,5,5
+Greene,Town of Coxsackie 6,President,,DEM,Bernie Sanders,1,7,8
+Greene,Town of Durham 1,President,,DEM,Bernie Sanders,5,14,19
+Greene,Town of Durham 2,President,,DEM,Bernie Sanders,3,13,16
+Greene,Town of Greenville 1,President,,DEM,Bernie Sanders,5,8,13
+Greene,Town of Greenville 2,President,,DEM,Bernie Sanders,3,11,14
+Greene,Town of Greenville 3,President,,DEM,Bernie Sanders,2,14,16
+Greene,Town of Halcott 1,President,,DEM,Bernie Sanders,3,4,7
+Greene,Town of Hunter 1,President,,DEM,Bernie Sanders,10,8,18
+Greene,Town of Hunter 2,President,,DEM,Bernie Sanders,9,6,15
+Greene,Town of Hunter 3,President,,DEM,Bernie Sanders,1,2,3
+Greene,Town of Hunter 4,President,,DEM,Bernie Sanders,1,6,7
+Greene,Town of Jewett 1,President,,DEM,Bernie Sanders,8,8,16
+Greene,Town of Lexington 1,President,,DEM,Bernie Sanders,0,4,4
+Greene,Town of Lexington 2,President,,DEM,Bernie Sanders,1,3,4
+Greene,Town of New Baltimore 1,President,,DEM,Bernie Sanders,3,6,9
+Greene,Town of New Baltimore 2,President,,DEM,Bernie Sanders,0,4,4
+Greene,Town of New Baltimore 3,President,,DEM,Bernie Sanders,1,8,9
+Greene,Town of New Baltimore 4,President,,DEM,Bernie Sanders,0,4,4
+Greene,Town of Prattsville 1,President,,DEM,Bernie Sanders,2,6,8
+Greene,Town of Windham 1,President,,DEM,Bernie Sanders,3,8,11
+Greene,Town of Windham 2,President,,DEM,Bernie Sanders,2,2,4
+Greene,Town of Ashland 1,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Athens 1,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Athens 2,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Athens 3,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Athens 4,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Cairo 1,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Cairo 2,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Cairo 3,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Cairo 4,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Cairo 5,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Cairo 6,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Cairo 7,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Catskill 1,President,,DEM,Michael R. Bloomberg,1,1,2
+Greene,Town of Catskill 2,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Catskill 3,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Catskill 4,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Catskill 5,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Catskill 6,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Catskill 7,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Catskill 8,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Catskill 9,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Catskill 10,President,,DEM,Michael R. Bloomberg,1,0,1
+Greene,Town of Catskill 11,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Catskill 12,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Catskill 13,President,,DEM,Michael R. Bloomberg,0,1,1
+Greene,Town of Catskill 14,President,,DEM,Michael R. Bloomberg,0,1,1
+Greene,Town of Coxsackie 1,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Coxsackie 2,President,,DEM,Michael R. Bloomberg,1,0,1
+Greene,Town of Coxsackie 3,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Coxsackie 4,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Coxsackie 5,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Coxsackie 6,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Durham 1,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Durham 2,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Greenville 1,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Greenville 2,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Greenville 3,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Halcott 1,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Hunter 1,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Hunter 2,President,,DEM,Michael R. Bloomberg,0,2,2
+Greene,Town of Hunter 3,President,,DEM,Michael R. Bloomberg,1,0,1
+Greene,Town of Hunter 4,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Jewett 1,President,,DEM,Michael R. Bloomberg,1,0,1
+Greene,Town of Lexington 1,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Lexington 2,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of New Baltimore 1,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of New Baltimore 2,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of New Baltimore 3,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of New Baltimore 4,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Prattsville 1,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Windham 1,President,,DEM,Michael R. Bloomberg,0,1,1
+Greene,Town of Windham 2,President,,DEM,Michael R. Bloomberg,0,0,0
+Greene,Town of Ashland 1,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Athens 1,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Athens 2,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Athens 3,President,,DEM,Tom Steyer,0,3,3
+Greene,Town of Athens 4,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Cairo 1,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Cairo 2,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Cairo 3,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Cairo 4,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Cairo 5,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Cairo 6,President,,DEM,Tom Steyer,0,1,1
+Greene,Town of Cairo 7,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Catskill 1,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Catskill 2,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Catskill 3,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Catskill 4,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Catskill 5,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Catskill 6,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Catskill 7,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Catskill 8,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Catskill 9,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Catskill 10,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Catskill 11,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Catskill 12,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Catskill 13,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Catskill 14,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Coxsackie 1,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Coxsackie 2,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Coxsackie 3,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Coxsackie 4,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Coxsackie 5,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Coxsackie 6,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Durham 1,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Durham 2,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Greenville 1,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Greenville 2,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Greenville 3,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Halcott 1,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Hunter 1,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Hunter 2,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Hunter 3,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Hunter 4,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Jewett 1,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Lexington 1,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Lexington 2,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of New Baltimore 1,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of New Baltimore 2,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of New Baltimore 3,President,,DEM,Tom Steyer,1,0,1
+Greene,Town of New Baltimore 4,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Prattsville 1,President,,DEM,Tom Steyer,1,0,1
+Greene,Town of Windham 1,President,,DEM,Tom Steyer,0,0,0
+Greene,Town of Windham 2,President,,DEM,Tom Steyer,1,0,1
+Greene,Town of Ashland 1,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Athens 1,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Athens 2,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Athens 3,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Athens 4,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Cairo 1,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Cairo 2,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Cairo 3,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Cairo 4,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Cairo 5,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Cairo 6,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Cairo 7,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Catskill 1,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Catskill 2,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Catskill 3,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Catskill 4,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Catskill 5,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Catskill 6,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Catskill 7,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Catskill 8,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Catskill 9,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Catskill 10,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Catskill 11,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Catskill 12,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Catskill 13,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Catskill 14,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Coxsackie 1,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Coxsackie 2,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Coxsackie 3,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Coxsackie 4,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Coxsackie 5,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Coxsackie 6,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Durham 1,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Durham 2,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Greenville 1,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Greenville 2,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Greenville 3,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Halcott 1,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Hunter 1,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Hunter 2,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Hunter 3,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Hunter 4,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Jewett 1,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Lexington 1,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Lexington 2,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of New Baltimore 1,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of New Baltimore 2,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of New Baltimore 3,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of New Baltimore 4,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Prattsville 1,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Windham 1,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Windham 2,President,,DEM,Michael Bennet,0,0,0
+Greene,Town of Ashland 1,President,,DEM,Elizabeth Warren,1,1,2
+Greene,Town of Athens 1,President,,DEM,Elizabeth Warren,1,2,3
+Greene,Town of Athens 2,President,,DEM,Elizabeth Warren,1,2,3
+Greene,Town of Athens 3,President,,DEM,Elizabeth Warren,2,1,3
+Greene,Town of Athens 4,President,,DEM,Elizabeth Warren,2,2,4
+Greene,Town of Cairo 1,President,,DEM,Elizabeth Warren,0,2,2
+Greene,Town of Cairo 2,President,,DEM,Elizabeth Warren,2,1,3
+Greene,Town of Cairo 3,President,,DEM,Elizabeth Warren,2,0,2
+Greene,Town of Cairo 4,President,,DEM,Elizabeth Warren,0,5,5
+Greene,Town of Cairo 5,President,,DEM,Elizabeth Warren,0,0,0
+Greene,Town of Cairo 6,President,,DEM,Elizabeth Warren,1,1,2
+Greene,Town of Cairo 7,President,,DEM,Elizabeth Warren,0,0,0
+Greene,Town of Catskill 1,President,,DEM,Elizabeth Warren,1,2,3
+Greene,Town of Catskill 2,President,,DEM,Elizabeth Warren,3,3,6
+Greene,Town of Catskill 3,President,,DEM,Elizabeth Warren,2,5,7
+Greene,Town of Catskill 4,President,,DEM,Elizabeth Warren,1,0,1
+Greene,Town of Catskill 5,President,,DEM,Elizabeth Warren,1,0,1
+Greene,Town of Catskill 6,President,,DEM,Elizabeth Warren,0,2,2
+Greene,Town of Catskill 7,President,,DEM,Elizabeth Warren,0,1,1
+Greene,Town of Catskill 8,President,,DEM,Elizabeth Warren,0,0,0
+Greene,Town of Catskill 9,President,,DEM,Elizabeth Warren,1,3,4
+Greene,Town of Catskill 10,President,,DEM,Elizabeth Warren,2,5,7
+Greene,Town of Catskill 11,President,,DEM,Elizabeth Warren,2,1,3
+Greene,Town of Catskill 12,President,,DEM,Elizabeth Warren,0,0,0
+Greene,Town of Catskill 13,President,,DEM,Elizabeth Warren,0,3,3
+Greene,Town of Catskill 14,President,,DEM,Elizabeth Warren,0,1,1
+Greene,Town of Coxsackie 1,President,,DEM,Elizabeth Warren,0,0,0
+Greene,Town of Coxsackie 2,President,,DEM,Elizabeth Warren,2,1,3
+Greene,Town of Coxsackie 3,President,,DEM,Elizabeth Warren,0,1,1
+Greene,Town of Coxsackie 4,President,,DEM,Elizabeth Warren,2,3,5
+Greene,Town of Coxsackie 5,President,,DEM,Elizabeth Warren,1,3,4
+Greene,Town of Coxsackie 6,President,,DEM,Elizabeth Warren,0,0,0
+Greene,Town of Durham 1,President,,DEM,Elizabeth Warren,0,1,1
+Greene,Town of Durham 2,President,,DEM,Elizabeth Warren,1,6,7
+Greene,Town of Greenville 1,President,,DEM,Elizabeth Warren,0,2,2
+Greene,Town of Greenville 2,President,,DEM,Elizabeth Warren,0,0,0
+Greene,Town of Greenville 3,President,,DEM,Elizabeth Warren,0,5,5
+Greene,Town of Halcott 1,President,,DEM,Elizabeth Warren,2,2,4
+Greene,Town of Hunter 1,President,,DEM,Elizabeth Warren,0,3,3
+Greene,Town of Hunter 2,President,,DEM,Elizabeth Warren,1,1,2
+Greene,Town of Hunter 3,President,,DEM,Elizabeth Warren,2,0,2
+Greene,Town of Hunter 4,President,,DEM,Elizabeth Warren,0,2,2
+Greene,Town of Jewett 1,President,,DEM,Elizabeth Warren,3,4,7
+Greene,Town of Lexington 1,President,,DEM,Elizabeth Warren,2,1,3
+Greene,Town of Lexington 2,President,,DEM,Elizabeth Warren,1,2,3
+Greene,Town of New Baltimore 1,President,,DEM,Elizabeth Warren,4,4,8
+Greene,Town of New Baltimore 2,President,,DEM,Elizabeth Warren,0,2,2
+Greene,Town of New Baltimore 3,President,,DEM,Elizabeth Warren,1,1,2
+Greene,Town of New Baltimore 4,President,,DEM,Elizabeth Warren,0,0,0
+Greene,Town of Prattsville 1,President,,DEM,Elizabeth Warren,0,0,0
+Greene,Town of Windham 1,President,,DEM,Elizabeth Warren,2,2,4
+Greene,Town of Windham 2,President,,DEM,Elizabeth Warren,0,0,0
+Greene,Town of Ashland 1,President,,DEM,Andrew Yang,0,1,1
+Greene,Town of Athens 1,President,,DEM,Andrew Yang,2,0,2
+Greene,Town of Athens 2,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Athens 3,President,,DEM,Andrew Yang,2,2,4
+Greene,Town of Athens 4,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Cairo 1,President,,DEM,Andrew Yang,1,0,1
+Greene,Town of Cairo 2,President,,DEM,Andrew Yang,0,1,1
+Greene,Town of Cairo 3,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Cairo 4,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Cairo 5,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Cairo 6,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Cairo 7,President,,DEM,Andrew Yang,0,2,2
+Greene,Town of Catskill 1,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Catskill 2,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Catskill 3,President,,DEM,Andrew Yang,0,1,1
+Greene,Town of Catskill 4,President,,DEM,Andrew Yang,1,0,1
+Greene,Town of Catskill 5,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Catskill 6,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Catskill 7,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Catskill 8,President,,DEM,Andrew Yang,0,1,1
+Greene,Town of Catskill 9,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Catskill 10,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Catskill 11,President,,DEM,Andrew Yang,0,1,1
+Greene,Town of Catskill 12,President,,DEM,Andrew Yang,0,1,1
+Greene,Town of Catskill 13,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Catskill 14,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Coxsackie 1,President,,DEM,Andrew Yang,1,1,2
+Greene,Town of Coxsackie 2,President,,DEM,Andrew Yang,1,0,1
+Greene,Town of Coxsackie 3,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Coxsackie 4,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Coxsackie 5,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Coxsackie 6,President,,DEM,Andrew Yang,0,1,1
+Greene,Town of Durham 1,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Durham 2,President,,DEM,Andrew Yang,1,0,1
+Greene,Town of Greenville 1,President,,DEM,Andrew Yang,0,1,1
+Greene,Town of Greenville 2,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Greenville 3,President,,DEM,Andrew Yang,1,0,1
+Greene,Town of Halcott 1,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Hunter 1,President,,DEM,Andrew Yang,0,2,2
+Greene,Town of Hunter 2,President,,DEM,Andrew Yang,0,2,2
+Greene,Town of Hunter 3,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Hunter 4,President,,DEM,Andrew Yang,1,0,1
+Greene,Town of Jewett 1,President,,DEM,Andrew Yang,1,1,2
+Greene,Town of Lexington 1,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Lexington 2,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of New Baltimore 1,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of New Baltimore 2,President,,DEM,Andrew Yang,1,0,1
+Greene,Town of New Baltimore 3,President,,DEM,Andrew Yang,0,1,1
+Greene,Town of New Baltimore 4,President,,DEM,Andrew Yang,0,1,1
+Greene,Town of Prattsville 1,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Windham 1,President,,DEM,Andrew Yang,0,0,0
+Greene,Town of Windham 2,President,,DEM,Andrew Yang,1,0,1
+Greene,Town of Ashland 1,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Athens 1,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Athens 2,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Athens 3,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Athens 4,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Cairo 1,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Cairo 2,President,,DEM,Deval Patrick,1,0,1
+Greene,Town of Cairo 3,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Cairo 4,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Cairo 5,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Cairo 6,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Cairo 7,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Catskill 1,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Catskill 2,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Catskill 3,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Catskill 4,President,,DEM,Deval Patrick,0,1,1
+Greene,Town of Catskill 5,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Catskill 6,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Catskill 7,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Catskill 8,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Catskill 9,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Catskill 10,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Catskill 11,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Catskill 12,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Catskill 13,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Catskill 14,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Coxsackie 1,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Coxsackie 2,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Coxsackie 3,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Coxsackie 4,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Coxsackie 5,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Coxsackie 6,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Durham 1,President,,DEM,Deval Patrick,0,1,1
+Greene,Town of Durham 2,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Greenville 1,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Greenville 2,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Greenville 3,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Halcott 1,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Hunter 1,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Hunter 2,President,,DEM,Deval Patrick,1,0,1
+Greene,Town of Hunter 3,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Hunter 4,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Jewett 1,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Lexington 1,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Lexington 2,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of New Baltimore 1,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of New Baltimore 2,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of New Baltimore 3,President,,DEM,Deval Patrick,0,1,1
+Greene,Town of New Baltimore 4,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Prattsville 1,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Windham 1,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Windham 2,President,,DEM,Deval Patrick,0,0,0
+Greene,Town of Ashland 1,U.S. House,19,REP,Ola Hawatmeh,14,2,16
+Greene,Town of Athens 1,U.S. House,19,REP,Ola Hawatmeh,6,2,8
+Greene,Town of Athens 2 ,U.S. House,19,REP,Ola Hawatmeh,9,1,10
+Greene,Town of Athens 3,U.S. House,19,REP,Ola Hawatmeh,12,11,23
+Greene,Town of Athens 4,U.S. House,19,REP,Ola Hawatmeh,7,3,10
+Greene,Town of Cairo 1,U.S. House,19,REP,Ola Hawatmeh,11,5,16
+Greene,Town of Cairo 2,U.S. House,19,REP,Ola Hawatmeh,11,5,16
+Greene,Town of Cairo 3,U.S. House,19,REP,Ola Hawatmeh,25,17,42
+Greene,Town of Cairo 4,U.S. House,19,REP,Ola Hawatmeh,18,5,23
+Greene,Town of Cairo 5,U.S. House,19,REP,Ola Hawatmeh,5,2,7
+Greene,Town of Cairo 6,U.S. House,19,REP,Ola Hawatmeh,4,10,14
+Greene,Town of Cairo 7,U.S. House,19,REP,Ola Hawatmeh,7,0,7
+Greene,Town of Catskill 1,U.S. House,19,REP,Ola Hawatmeh,6,2,8
+Greene,Town of Catskil 2,U.S. House,19,REP,Ola Hawatmeh,5,9,14
+Greene,Town of Catskil 3,U.S. House,19,REP,Ola Hawatmeh,3,0,3
+Greene,Town of Catskil 4,U.S. House,19,REP,Ola Hawatmeh,0,2,2
+Greene,Town of Catskil 5,U.S. House,19,REP,Ola Hawatmeh,10,17,27
+Greene,Town of Catskil 6,U.S. House,19,REP,Ola Hawatmeh,10,6,16
+Greene,Town of Catskil 7,U.S. House,19,REP,Ola Hawatmeh,15,7,22
+Greene,Town of Catskil 8,U.S. House,19,REP,Ola Hawatmeh,0,0,0
+Greene,Town of Catskil 9,U.S. House,19,REP,Ola Hawatmeh,14,7,21
+Greene,Town of Catskil 10,U.S. House,19,REP,Ola Hawatmeh,23,5,28
+Greene,Town of Catskil 11,U.S. House,19,REP,Ola Hawatmeh,17,3,20
+Greene,Town of Catskil 12,U.S. House,19,REP,Ola Hawatmeh,2,3,5
+Greene,Town of Catskil 13,U.S. House,19,REP,Ola Hawatmeh,5,4,9
+Greene,Town of Catskil 14,U.S. House,19,REP,Ola Hawatmeh,7,5,12
+Greene,Town of Coxsackie 1,U.S. House,19,REP,Ola Hawatmeh,12,13,25
+Greene,Town of Coxsackie 2,U.S. House,19,REP,Ola Hawatmeh,8,2,10
+Greene,Town of Coxsackie 3,U.S. House,19,REP,Ola Hawatmeh,2,1,3
+Greene,Town of Coxsackie 4,U.S. House,19,REP,Ola Hawatmeh,17,13,30
+Greene,Town of Coxsackie 5,U.S. House,19,REP,Ola Hawatmeh,4,5,9
+Greene,Town of Coxsackie 6,U.S. House,19,REP,Ola Hawatmeh,17,5,22
+Greene,Town of Durham 1,U.S. House,19,REP,Ola Hawatmeh,3,8,11
+Greene,Town of Durham 2,U.S. House,19,REP,Ola Hawatmeh,9,11,20
+Greene,Town of Greenville 1,U.S. House,19,REP,Ola Hawatmeh,9,6,15
+Greene,Town of Greenville 2,U.S. House,19,REP,Ola Hawatmeh,6,5,11
+Greene,Town of Greenville 3,U.S. House,19,REP,Ola Hawatmeh,16,6,22
+Greene,Town of Halcott 1,U.S. House,19,REP,Ola Hawatmeh,8,1,9
+Greene,Town of Hunter 1,U.S. House,19,REP,Ola Hawatmeh,6,1,7
+Greene,Town of Hunter 2,U.S. House,19,REP,Ola Hawatmeh,7,5,12
+Greene,Town of Hunter 3,U.S. House,19,REP,Ola Hawatmeh,4,3,7
+Greene,Town of Hunter 4,U.S. House,19,REP,Ola Hawatmeh,3,1,4
+Greene,Town of Jewett 1,U.S. House,19,REP,Ola Hawatmeh,10,6,16
+Greene,Town of Lexington 1,U.S. House,19,REP,Ola Hawatmeh,4,2,6
+Greene,Town of Lexington 2,U.S. House,19,REP,Ola Hawatmeh,1,0,1
+Greene,Town of New Baltimore 1,U.S. House,19,REP,Ola Hawatmeh,8,0,8
+Greene,Town of New Baltimore 2,U.S. House,19,REP,Ola Hawatmeh,8,3,11
+Greene,Town of New Baltimore 3,U.S. House,19,REP,Ola Hawatmeh,22,6,28
+Greene,Town of New Baltimore 4,U.S. House,19,REP,Ola Hawatmeh,9,4,13
+Greene,Town of Prattsville 1,U.S. House,19,REP,Ola Hawatmeh,10,5,15
+Greene,Town of Windham 1,U.S. House,19,REP,Ola Hawatmeh,7,3,10
+Greene,Town of Windham 2,U.S. House,19,REP,Ola Hawatmeh,7,2,9
+Greene,Town of Ashland 1,U.S. House,19,REP,Kyle Van De Water,18,10,28
+Greene,Town of Athens 1,U.S. House,19,REP,Kyle Van De Water,11,11,22
+Greene,Town of Athens 2 ,U.S. House,19,REP,Kyle Van De Water,13,11,24
+Greene,Town of Athens 3,U.S. House,19,REP,Kyle Van De Water,12,18,30
+Greene,Town of Athens 4,U.S. House,19,REP,Kyle Van De Water,6,17,23
+Greene,Town of Cairo 1,U.S. House,19,REP,Kyle Van De Water,12,18,30
+Greene,Town of Cairo 2,U.S. House,19,REP,Kyle Van De Water,14,9,23
+Greene,Town of Cairo 3,U.S. House,19,REP,Kyle Van De Water,6,5,11
+Greene,Town of Cairo 4,U.S. House,19,REP,Kyle Van De Water,13,20,33
+Greene,Town of Cairo 5,U.S. House,19,REP,Kyle Van De Water,7,6,13
+Greene,Town of Cairo 6,U.S. House,19,REP,Kyle Van De Water,13,18,31
+Greene,Town of Cairo 7,U.S. House,19,REP,Kyle Van De Water,4,4,8
+Greene,Town of Catskill 1,U.S. House,19,REP,Kyle Van De Water,5,10,15
+Greene,Town of Catskil 2,U.S. House,19,REP,Kyle Van De Water,5,13,18
+Greene,Town of Catskil 3,U.S. House,19,REP,Kyle Van De Water,6,10,16
+Greene,Town of Catskil 4,U.S. House,19,REP,Kyle Van De Water,2,5,7
+Greene,Town of Catskil 5,U.S. House,19,REP,Kyle Van De Water,14,11,25
+Greene,Town of Catskil 6,U.S. House,19,REP,Kyle Van De Water,10,7,17
+Greene,Town of Catskil 7,U.S. House,19,REP,Kyle Van De Water,9,12,21
+Greene,Town of Catskil 8,U.S. House,19,REP,Kyle Van De Water,2,0,2
+Greene,Town of Catskil 9,U.S. House,19,REP,Kyle Van De Water,13,8,21
+Greene,Town of Catskil 10,U.S. House,19,REP,Kyle Van De Water,17,15,32
+Greene,Town of Catskil 11,U.S. House,19,REP,Kyle Van De Water,10,11,21
+Greene,Town of Catskil 12,U.S. House,19,REP,Kyle Van De Water,3,5,8
+Greene,Town of Catskil 13,U.S. House,19,REP,Kyle Van De Water,7,8,15
+Greene,Town of Catskil 14,U.S. House,19,REP,Kyle Van De Water,5,6,11
+Greene,Town of Coxsackie 1,U.S. House,19,REP,Kyle Van De Water,18,15,33
+Greene,Town of Coxsackie 2,U.S. House,19,REP,Kyle Van De Water,21,7,28
+Greene,Town of Coxsackie 3,U.S. House,19,REP,Kyle Van De Water,6,8,14
+Greene,Town of Coxsackie 4,U.S. House,19,REP,Kyle Van De Water,19,20,39
+Greene,Town of Coxsackie 5,U.S. House,19,REP,Kyle Van De Water,9,8,17
+Greene,Town of Coxsackie 6,U.S. House,19,REP,Kyle Van De Water,10,18,28
+Greene,Town of Durham 1,U.S. House,19,REP,Kyle Van De Water,12,26,38
+Greene,Town of Durham 2,U.S. House,19,REP,Kyle Van De Water,22,15,37
+Greene,Town of Greenville 1,U.S. House,19,REP,Kyle Van De Water,24,26,50
+Greene,Town of Greenville 2,U.S. House,19,REP,Kyle Van De Water,16,17,33
+Greene,Town of Greenville 3,U.S. House,19,REP,Kyle Van De Water,9,9,18
+Greene,Town of Halcott 1,U.S. House,19,REP,Kyle Van De Water,11,0,11
+Greene,Town of Hunter 1,U.S. House,19,REP,Kyle Van De Water,4,5,9
+Greene,Town of Hunter 2,U.S. House,19,REP,Kyle Van De Water,5,8,13
+Greene,Town of Hunter 3,U.S. House,19,REP,Kyle Van De Water,5,12,17
+Greene,Town of Hunter 4,U.S. House,19,REP,Kyle Van De Water,9,4,13
+Greene,Town of Jewett 1,U.S. House,19,REP,Kyle Van De Water,15,9,24
+Greene,Town of Lexington 1,U.S. House,19,REP,Kyle Van De Water,5,8,13
+Greene,Town of Lexington 2,U.S. House,19,REP,Kyle Van De Water,5,9,14
+Greene,Town of New Baltimore 1,U.S. House,19,REP,Kyle Van De Water,15,4,19
+Greene,Town of New Baltimore 2,U.S. House,19,REP,Kyle Van De Water,7,8,15
+Greene,Town of New Baltimore 3,U.S. House,19,REP,Kyle Van De Water,16,16,32
+Greene,Town of New Baltimore 4,U.S. House,19,REP,Kyle Van De Water,9,7,16
+Greene,Town of Prattsville 1,U.S. House,19,REP,Kyle Van De Water,8,6,14
+Greene,Town of Windham 1,U.S. House,19,REP,Kyle Van De Water,25,10,35
+Greene,Town of Windham 2,U.S. House,19,REP,Kyle Van De Water,19,16,35
+Greene,Town of Ashland 1,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Athens 1,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Athens 2 ,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Athens 3,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Athens 4,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Cairo 1,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Cairo 2,U.S. House,19,REP,Write-ins,0,1,1
+Greene,Town of Cairo 3,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Cairo 4,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Cairo 5,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Cairo 6,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Cairo 7,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Catskill 1,U.S. House,19,REP,Write-ins,0,1,1
+Greene,Town of Catskil 2,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Catskil 3,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Catskil 4,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Catskil 5,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Catskil 6,U.S. House,19,REP,Write-ins,1,0,1
+Greene,Town of Catskil 7,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Catskil 8,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Catskil 9,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Catskil 10,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Catskil 11,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Catskil 12,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Catskil 13,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Catskil 14,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Coxsackie 1,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Coxsackie 2,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Coxsackie 3,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Coxsackie 4,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Coxsackie 5,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Coxsackie 6,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Durham 1,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Durham 2,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Greenville 1,U.S. House,19,REP,Write-ins,0,1,1
+Greene,Town of Greenville 2,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Greenville 3,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Halcott 1,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Hunter 1,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Hunter 2,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Hunter 3,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Hunter 4,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Jewett 1,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Lexington 1,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Lexington 2,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of New Baltimore 1,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of New Baltimore 2,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of New Baltimore 3,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of New Baltimore 4,U.S. House,19,REP,Write-ins,0,0,0
+Greene,Town of Prattsville 1,U.S. House,19,REP,Write-ins,0,1,1
+Greene,Town of Windham 1,U.S. House,19,REP,Write-ins,2,0,2
+Greene,Town of Windham 2,U.S. House,19,REP,Write-ins,0,0,0
