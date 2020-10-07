@@ -1,0 +1,438 @@
+﻿county,precinct,office,district,party,candidate,election_day,absentee,votes
+Herkimer,"Town of Manheim 1,2",President,,DEM,Pete Buttigieg,1,0,1
+Herkimer,Town of Ohio,President,,DEM,Pete Buttigieg,0,0,0
+Herkimer,"Town of Russia 1,2",President,,DEM,Pete Buttigieg,1,1,2
+Herkimer,Town of Salisbury,President,,DEM,Pete Buttigieg,0,0,0
+Herkimer,Town of Webb,President,,DEM,Pete Buttigieg,3,0,3
+Herkimer,Military/UOCAVA/Federal 21st CD,President,,DEM,Pete Buttigieg,0,0,0
+Herkimer,City of Little Falls,President,,DEM,Pete Buttigieg,8,2,10
+Herkimer,Town of Columbia,President,,DEM,Pete Buttigieg,0,0,0
+Herkimer,Town of Danube,President,,DEM,Pete Buttigieg,0,0,0
+Herkimer,Town of Fairfield,President,,DEM,Pete Buttigieg,0,1,1
+Herkimer,Town of Frankfort,President,,DEM,Pete Buttigieg,1,5,6
+Herkimer,Town of German Flatts,President,,DEM,Pete Buttigieg,4,0,4
+Herkimer,Town of Herkimer,President,,DEM,Pete Buttigieg,2,6,8
+Herkimer,Town of Litchfield,President,,DEM,Pete Buttigieg,0,0,0
+Herkimer,Town of Little Falls,President,,DEM,Pete Buttigieg,1,0,1
+Herkimer,Town of Manheim 3,President,,DEM,Pete Buttigieg,1,0,1
+Herkimer,Town of Newport,President,,DEM,Pete Buttigieg,0,2,2
+Herkimer,Town of Norway,President,,DEM,Pete Buttigieg,0,0,0
+Herkimer,Town of Russia 3,President,,DEM,Pete Buttigieg,0,0,0
+Herkimer,Town of Schuyler,President,,DEM,Pete Buttigieg,1,1,2
+Herkimer,Town of Stark,President,,DEM,Pete Buttigieg,0,0,0
+Herkimer,Town of Warren,President,,DEM,Pete Buttigieg,0,0,0
+Herkimer,Town of Winfield,President,,DEM,Pete Buttigieg,2,3,5
+Herkimer,Military/UOCAVA/Federal 22nd CD,President,,DEM,Pete Buttigieg,0,0,0
+Herkimer,"Town of Manheim 1,2",President,,DEM,Amy Klobuchar,1,0,1
+Herkimer,Town of Ohio,President,,DEM,Amy Klobuchar,0,0,0
+Herkimer,"Town of Russia 1,2",President,,DEM,Amy Klobuchar,0,0,0
+Herkimer,Town of Salisbury,President,,DEM,Amy Klobuchar,0,0,0
+Herkimer,Town of Webb,President,,DEM,Amy Klobuchar,3,2,5
+Herkimer,Military/UOCAVA/Federal 21st CD,President,,DEM,Amy Klobuchar,0,0,0
+Herkimer,City of Little Falls,President,,DEM,Amy Klobuchar,4,5,9
+Herkimer,Town of Columbia,President,,DEM,Amy Klobuchar,0,1,1
+Herkimer,Town of Danube,President,,DEM,Amy Klobuchar,0,0,0
+Herkimer,Town of Fairfield,President,,DEM,Amy Klobuchar,1,0,1
+Herkimer,Town of Frankfort,President,,DEM,Amy Klobuchar,2,1,3
+Herkimer,Town of German Flatts,President,,DEM,Amy Klobuchar,3,1,4
+Herkimer,Town of Herkimer,President,,DEM,Amy Klobuchar,1,0,1
+Herkimer,Town of Litchfield,President,,DEM,Amy Klobuchar,0,2,2
+Herkimer,Town of Little Falls,President,,DEM,Amy Klobuchar,0,0,0
+Herkimer,Town of Manheim 3,President,,DEM,Amy Klobuchar,0,0,0
+Herkimer,Town of Newport,President,,DEM,Amy Klobuchar,1,1,2
+Herkimer,Town of Norway,President,,DEM,Amy Klobuchar,0,1,1
+Herkimer,Town of Russia 3,President,,DEM,Amy Klobuchar,1,0,1
+Herkimer,Town of Schuyler,President,,DEM,Amy Klobuchar,0,0,0
+Herkimer,Town of Stark,President,,DEM,Amy Klobuchar,0,1,1
+Herkimer,Town of Warren,President,,DEM,Amy Klobuchar,0,0,0
+Herkimer,Town of Winfield,President,,DEM,Amy Klobuchar,1,0,1
+Herkimer,Military/UOCAVA/Federal 22nd CD,President,,DEM,Amy Klobuchar,0,0,0
+Herkimer,"Town of Manheim 1,2",President,,DEM,Joseph R. Biden,25,24,49
+Herkimer,Town of Ohio,President,,DEM,Joseph R. Biden,1,6,7
+Herkimer,"Town of Russia 1,2",President,,DEM,Joseph R. Biden,4,29,33
+Herkimer,Town of Salisbury,President,,DEM,Joseph R. Biden,4,10,14
+Herkimer,Town of Webb,President,,DEM,Joseph R. Biden,37,53,90
+Herkimer,Military/UOCAVA/Federal 21st CD,President,,DEM,Joseph R. Biden,0,1,1
+Herkimer,City of Little Falls,President,,DEM,Joseph R. Biden,44,123,167
+Herkimer,Town of Columbia,President,,DEM,Joseph R. Biden,6,23,29
+Herkimer,Town of Danube,President,,DEM,Joseph R. Biden,2,5,7
+Herkimer,Town of Fairfield,President,,DEM,Joseph R. Biden,5,18,23
+Herkimer,Town of Frankfort,President,,DEM,Joseph R. Biden,37,143,180
+Herkimer,Town of German Flatts,President,,DEM,Joseph R. Biden,60,214,274
+Herkimer,Town of Herkimer,President,,DEM,Joseph R. Biden,50,155,205
+Herkimer,Town of Litchfield,President,,DEM,Joseph R. Biden,8,11,19
+Herkimer,Town of Little Falls,President,,DEM,Joseph R. Biden,9,16,25
+Herkimer,Town of Manheim 3,President,,DEM,Joseph R. Biden,1,20,21
+Herkimer,Town of Newport,President,,DEM,Joseph R. Biden,17,34,51
+Herkimer,Town of Norway,President,,DEM,Joseph R. Biden,2,5,7
+Herkimer,Town of Russia 3,President,,DEM,Joseph R. Biden,4,4,8
+Herkimer,Town of Schuyler,President,,DEM,Joseph R. Biden,12,50,62
+Herkimer,Town of Stark,President,,DEM,Joseph R. Biden,2,20,22
+Herkimer,Town of Warren,President,,DEM,Joseph R. Biden,0,7,7
+Herkimer,Town of Winfield,President,,DEM,Joseph R. Biden,4,21,25
+Herkimer,Military/UOCAVA/Federal 22nd CD,President,,DEM,Joseph R. Biden,0,3,3
+Herkimer,"Town of Manheim 1,2",President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Town of Ohio,President,,DEM,Tulsi Gabbard,1,0,1
+Herkimer,"Town of Russia 1,2",President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Town of Salisbury,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Town of Webb,President,,DEM,Tulsi Gabbard,1,2,3
+Herkimer,Military/UOCAVA/Federal 21st CD,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,City of Little Falls,President,,DEM,Tulsi Gabbard,0,1,1
+Herkimer,Town of Columbia,President,,DEM,Tulsi Gabbard,1,0,1
+Herkimer,Town of Danube,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Town of Fairfield,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Town of Frankfort,President,,DEM,Tulsi Gabbard,1,1,2
+Herkimer,Town of German Flatts,President,,DEM,Tulsi Gabbard,0,1,1
+Herkimer,Town of Herkimer,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Town of Litchfield,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Town of Little Falls,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Town of Manheim 3,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Town of Newport,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Town of Norway,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Town of Russia 3,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Town of Schuyler,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Town of Stark,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Town of Warren,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Town of Winfield,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,Military/UOCAVA/Federal 22nd CD,President,,DEM,Tulsi Gabbard,0,0,0
+Herkimer,"Town of Manheim 1,2",President,,DEM,Bernie Sanders,7,3,10
+Herkimer,Town of Ohio,President,,DEM,Bernie Sanders,2,4,6
+Herkimer,"Town of Russia 1,2",President,,DEM,Bernie Sanders,5,2,7
+Herkimer,Town of Salisbury,President,,DEM,Bernie Sanders,0,9,9
+Herkimer,Town of Webb,President,,DEM,Bernie Sanders,6,13,19
+Herkimer,Military/UOCAVA/Federal 21st CD,President,,DEM,Bernie Sanders,0,1,1
+Herkimer,City of Little Falls,President,,DEM,Bernie Sanders,28,30,58
+Herkimer,Town of Columbia,President,,DEM,Bernie Sanders,4,5,9
+Herkimer,Town of Danube,President,,DEM,Bernie Sanders,0,3,3
+Herkimer,Town of Fairfield,President,,DEM,Bernie Sanders,0,3,3
+Herkimer,Town of Frankfort,President,,DEM,Bernie Sanders,16,28,44
+Herkimer,Town of German Flatts,President,,DEM,Bernie Sanders,24,25,49
+Herkimer,Town of Herkimer,President,,DEM,Bernie Sanders,26,27,53
+Herkimer,Town of Litchfield,President,,DEM,Bernie Sanders,3,4,7
+Herkimer,Town of Little Falls,President,,DEM,Bernie Sanders,4,7,11
+Herkimer,Town of Manheim 3,President,,DEM,Bernie Sanders,2,1,3
+Herkimer,Town of Newport,President,,DEM,Bernie Sanders,4,5,9
+Herkimer,Town of Norway,President,,DEM,Bernie Sanders,1,0,1
+Herkimer,Town of Russia 3,President,,DEM,Bernie Sanders,0,3,3
+Herkimer,Town of Schuyler,President,,DEM,Bernie Sanders,8,1,9
+Herkimer,Town of Stark,President,,DEM,Bernie Sanders,1,3,4
+Herkimer,Town of Warren,President,,DEM,Bernie Sanders,1,3,4
+Herkimer,Town of Winfield,President,,DEM,Bernie Sanders,3,3,6
+Herkimer,Military/UOCAVA/Federal 22nd CD,President,,DEM,Bernie Sanders,0,1,1
+Herkimer,"Town of Manheim 1,2",President,,DEM,Michael R. Bloomberg,0,0,0
+Herkimer,Town of Ohio,President,,DEM,Michael R. Bloomberg,0,0,0
+Herkimer,"Town of Russia 1,2",President,,DEM,Michael R. Bloomberg,0,0,0
+Herkimer,Town of Salisbury,President,,DEM,Michael R. Bloomberg,0,0,0
+Herkimer,Town of Webb,President,,DEM,Michael R. Bloomberg,1,1,2
+Herkimer,Military/UOCAVA/Federal 21st CD,President,,DEM,Michael R. Bloomberg,0,0,0
+Herkimer,City of Little Falls,President,,DEM,Michael R. Bloomberg,2,1,3
+Herkimer,Town of Columbia,President,,DEM,Michael R. Bloomberg,0,0,0
+Herkimer,Town of Danube,President,,DEM,Michael R. Bloomberg,0,0,0
+Herkimer,Town of Fairfield,President,,DEM,Michael R. Bloomberg,1,0,1
+Herkimer,Town of Frankfort,President,,DEM,Michael R. Bloomberg,1,3,4
+Herkimer,Town of German Flatts,President,,DEM,Michael R. Bloomberg,3,1,4
+Herkimer,Town of Herkimer,President,,DEM,Michael R. Bloomberg,2,2,4
+Herkimer,Town of Litchfield,President,,DEM,Michael R. Bloomberg,0,0,0
+Herkimer,Town of Little Falls,President,,DEM,Michael R. Bloomberg,2,0,2
+Herkimer,Town of Manheim 3,President,,DEM,Michael R. Bloomberg,0,0,0
+Herkimer,Town of Newport,President,,DEM,Michael R. Bloomberg,1,0,1
+Herkimer,Town of Norway,President,,DEM,Michael R. Bloomberg,0,1,1
+Herkimer,Town of Russia 3,President,,DEM,Michael R. Bloomberg,0,0,0
+Herkimer,Town of Schuyler,President,,DEM,Michael R. Bloomberg,0,0,0
+Herkimer,Town of Stark,President,,DEM,Michael R. Bloomberg,0,0,0
+Herkimer,Town of Warren,President,,DEM,Michael R. Bloomberg,0,0,0
+Herkimer,Town of Winfield,President,,DEM,Michael R. Bloomberg,0,0,0
+Herkimer,Military/UOCAVA/Federal 22nd CD,President,,DEM,Michael R. Bloomberg,0,0,0
+Herkimer,"Town of Manheim 1,2",President,,DEM,Tom Steyer,0,0,0
+Herkimer,Town of Ohio,President,,DEM,Tom Steyer,0,0,0
+Herkimer,"Town of Russia 1,2",President,,DEM,Tom Steyer,0,0,0
+Herkimer,Town of Salisbury,President,,DEM,Tom Steyer,0,0,0
+Herkimer,Town of Webb,President,,DEM,Tom Steyer,0,0,0
+Herkimer,Military/UOCAVA/Federal 21st CD,President,,DEM,Tom Steyer,0,0,0
+Herkimer,City of Little Falls,President,,DEM,Tom Steyer,2,0,2
+Herkimer,Town of Columbia,President,,DEM,Tom Steyer,0,0,0
+Herkimer,Town of Danube,President,,DEM,Tom Steyer,0,0,0
+Herkimer,Town of Fairfield,President,,DEM,Tom Steyer,0,0,0
+Herkimer,Town of Frankfort,President,,DEM,Tom Steyer,1,0,1
+Herkimer,Town of German Flatts,President,,DEM,Tom Steyer,1,1,2
+Herkimer,Town of Herkimer,President,,DEM,Tom Steyer,0,0,0
+Herkimer,Town of Litchfield,President,,DEM,Tom Steyer,0,1,1
+Herkimer,Town of Little Falls,President,,DEM,Tom Steyer,0,0,0
+Herkimer,Town of Manheim 3,President,,DEM,Tom Steyer,0,0,0
+Herkimer,Town of Newport,President,,DEM,Tom Steyer,0,0,0
+Herkimer,Town of Norway,President,,DEM,Tom Steyer,0,0,0
+Herkimer,Town of Russia 3,President,,DEM,Tom Steyer,0,0,0
+Herkimer,Town of Schuyler,President,,DEM,Tom Steyer,0,1,1
+Herkimer,Town of Stark,President,,DEM,Tom Steyer,0,0,0
+Herkimer,Town of Warren,President,,DEM,Tom Steyer,0,0,0
+Herkimer,Town of Winfield,President,,DEM,Tom Steyer,0,0,0
+Herkimer,Military/UOCAVA/Federal 22nd CD,President,,DEM,Tom Steyer,0,0,0
+Herkimer,"Town of Manheim 1,2",President,,DEM,Michael Bennet,0,0,0
+Herkimer,Town of Ohio,President,,DEM,Michael Bennet,0,0,0
+Herkimer,"Town of Russia 1,2",President,,DEM,Michael Bennet,0,0,0
+Herkimer,Town of Salisbury,President,,DEM,Michael Bennet,0,0,0
+Herkimer,Town of Webb,President,,DEM,Michael Bennet,0,0,0
+Herkimer,Military/UOCAVA/Federal 21st CD,President,,DEM,Michael Bennet,0,0,0
+Herkimer,City of Little Falls,President,,DEM,Michael Bennet,1,1,2
+Herkimer,Town of Columbia,President,,DEM,Michael Bennet,0,0,0
+Herkimer,Town of Danube,President,,DEM,Michael Bennet,0,0,0
+Herkimer,Town of Fairfield,President,,DEM,Michael Bennet,0,0,0
+Herkimer,Town of Frankfort,President,,DEM,Michael Bennet,0,0,0
+Herkimer,Town of German Flatts,President,,DEM,Michael Bennet,0,1,1
+Herkimer,Town of Herkimer,President,,DEM,Michael Bennet,1,1,2
+Herkimer,Town of Litchfield,President,,DEM,Michael Bennet,0,0,0
+Herkimer,Town of Little Falls,President,,DEM,Michael Bennet,0,0,0
+Herkimer,Town of Manheim 3,President,,DEM,Michael Bennet,0,0,0
+Herkimer,Town of Newport,President,,DEM,Michael Bennet,0,0,0
+Herkimer,Town of Norway,President,,DEM,Michael Bennet,0,0,0
+Herkimer,Town of Russia 3,President,,DEM,Michael Bennet,1,0,1
+Herkimer,Town of Schuyler,President,,DEM,Michael Bennet,0,0,0
+Herkimer,Town of Stark,President,,DEM,Michael Bennet,1,0,1
+Herkimer,Town of Warren,President,,DEM,Michael Bennet,0,0,0
+Herkimer,Town of Winfield,President,,DEM,Michael Bennet,0,0,0
+Herkimer,Military/UOCAVA/Federal 22nd CD,President,,DEM,Michael Bennet,0,0,0
+Herkimer,"Town of Manheim 1,2",President,,DEM,Elizabeth Warren,1,4,5
+Herkimer,Town of Ohio,President,,DEM,Elizabeth Warren,0,1,1
+Herkimer,"Town of Russia 1,2",President,,DEM,Elizabeth Warren,1,1,2
+Herkimer,Town of Salisbury,President,,DEM,Elizabeth Warren,2,3,5
+Herkimer,Town of Webb,President,,DEM,Elizabeth Warren,5,1,6
+Herkimer,Military/UOCAVA/Federal 21st CD,President,,DEM,Elizabeth Warren,0,0,0
+Herkimer,City of Little Falls,President,,DEM,Elizabeth Warren,6,10,16
+Herkimer,Town of Columbia,President,,DEM,Elizabeth Warren,0,0,0
+Herkimer,Town of Danube,President,,DEM,Elizabeth Warren,0,1,1
+Herkimer,Town of Fairfield,President,,DEM,Elizabeth Warren,0,0,0
+Herkimer,Town of Frankfort,President,,DEM,Elizabeth Warren,2,6,8
+Herkimer,Town of German Flatts,President,,DEM,Elizabeth Warren,4,3,7
+Herkimer,Town of Herkimer,President,,DEM,Elizabeth Warren,2,7,9
+Herkimer,Town of Litchfield,President,,DEM,Elizabeth Warren,0,0,0
+Herkimer,Town of Little Falls,President,,DEM,Elizabeth Warren,0,1,1
+Herkimer,Town of Manheim 3,President,,DEM,Elizabeth Warren,0,1,1
+Herkimer,Town of Newport,President,,DEM,Elizabeth Warren,0,0,0
+Herkimer,Town of Norway,President,,DEM,Elizabeth Warren,0,0,0
+Herkimer,Town of Russia 3,President,,DEM,Elizabeth Warren,0,0,0
+Herkimer,Town of Schuyler,President,,DEM,Elizabeth Warren,0,0,0
+Herkimer,Town of Stark,President,,DEM,Elizabeth Warren,0,0,0
+Herkimer,Town of Warren,President,,DEM,Elizabeth Warren,0,0,0
+Herkimer,Town of Winfield,President,,DEM,Elizabeth Warren,0,2,2
+Herkimer,Military/UOCAVA/Federal 22nd CD,President,,DEM,Elizabeth Warren,0,0,0
+Herkimer,"Town of Manheim 1,2",President,,DEM,Andrew Yang,1,0,1
+Herkimer,Town of Ohio,President,,DEM,Andrew Yang,0,0,0
+Herkimer,"Town of Russia 1,2",President,,DEM,Andrew Yang,1,0,1
+Herkimer,Town of Salisbury,President,,DEM,Andrew Yang,0,2,2
+Herkimer,Town of Webb,President,,DEM,Andrew Yang,0,1,1
+Herkimer,Military/UOCAVA/Federal 21st CD,President,,DEM,Andrew Yang,0,0,0
+Herkimer,City of Little Falls,President,,DEM,Andrew Yang,1,1,2
+Herkimer,Town of Columbia,President,,DEM,Andrew Yang,0,0,0
+Herkimer,Town of Danube,President,,DEM,Andrew Yang,0,0,0
+Herkimer,Town of Fairfield,President,,DEM,Andrew Yang,0,0,0
+Herkimer,Town of Frankfort,President,,DEM,Andrew Yang,0,0,0
+Herkimer,Town of German Flatts,President,,DEM,Andrew Yang,1,1,2
+Herkimer,Town of Herkimer,President,,DEM,Andrew Yang,1,4,5
+Herkimer,Town of Litchfield,President,,DEM,Andrew Yang,0,0,0
+Herkimer,Town of Little Falls,President,,DEM,Andrew Yang,0,0,0
+Herkimer,Town of Manheim 3,President,,DEM,Andrew Yang,0,0,0
+Herkimer,Town of Newport,President,,DEM,Andrew Yang,1,0,1
+Herkimer,Town of Norway,President,,DEM,Andrew Yang,0,0,0
+Herkimer,Town of Russia 3,President,,DEM,Andrew Yang,0,0,0
+Herkimer,Town of Schuyler,President,,DEM,Andrew Yang,0,0,0
+Herkimer,Town of Stark,President,,DEM,Andrew Yang,0,0,0
+Herkimer,Town of Warren,President,,DEM,Andrew Yang,0,0,0
+Herkimer,Town of Winfield,President,,DEM,Andrew Yang,0,0,0
+Herkimer,Military/UOCAVA/Federal 22nd CD,President,,DEM,Andrew Yang,0,0,0
+Herkimer,"Town of Manheim 1,2",President,,DEM,Deval Patrick,0,0,0
+Herkimer,Town of Ohio,President,,DEM,Deval Patrick,0,1,1
+Herkimer,"Town of Russia 1,2",President,,DEM,Deval Patrick,0,0,0
+Herkimer,Town of Salisbury,President,,DEM,Deval Patrick,0,0,0
+Herkimer,Town of Webb,President,,DEM,Deval Patrick,0,1,1
+Herkimer,Military/UOCAVA/Federal 21st CD,President,,DEM,Deval Patrick,0,0,0
+Herkimer,City of Little Falls,President,,DEM,Deval Patrick,0,0,0
+Herkimer,Town of Columbia,President,,DEM,Deval Patrick,1,0,1
+Herkimer,Town of Danube,President,,DEM,Deval Patrick,0,0,0
+Herkimer,Town of Fairfield,President,,DEM,Deval Patrick,0,0,0
+Herkimer,Town of Frankfort,President,,DEM,Deval Patrick,1,1,2
+Herkimer,Town of German Flatts,President,,DEM,Deval Patrick,1,0,1
+Herkimer,Town of Herkimer,President,,DEM,Deval Patrick,0,1,1
+Herkimer,Town of Litchfield,President,,DEM,Deval Patrick,0,0,0
+Herkimer,Town of Little Falls,President,,DEM,Deval Patrick,1,0,1
+Herkimer,Town of Manheim 3,President,,DEM,Deval Patrick,0,0,0
+Herkimer,Town of Newport,President,,DEM,Deval Patrick,1,0,1
+Herkimer,Town of Norway,President,,DEM,Deval Patrick,0,0,0
+Herkimer,Town of Russia 3,President,,DEM,Deval Patrick,0,0,0
+Herkimer,Town of Schuyler,President,,DEM,Deval Patrick,0,0,0
+Herkimer,Town of Stark,President,,DEM,Deval Patrick,0,0,0
+Herkimer,Town of Warren,President,,DEM,Deval Patrick,0,0,0
+Herkimer,Town of Winfield,President,,DEM,Deval Patrick,0,0,0
+Herkimer,Military/UOCAVA/Federal 22nd CD,President,,DEM,Deval Patrick,0,0,0
+Herkimer,"Town of Manheim 1,2",President,,DEM,Blanks,,,0
+Herkimer,Town of Ohio,President,,DEM,Blanks,,,1
+Herkimer,"Town of Russia 1,2",President,,DEM,Blanks,,,0
+Herkimer,Town of Salisbury,President,,DEM,Blanks,,,0
+Herkimer,Town of Webb,President,,DEM,Blanks,,,0
+Herkimer,Military/UOCAVA/Federal 21st CD,President,,DEM,Blanks,,,0
+Herkimer,City of Little Falls,President,,DEM,Blanks,,,1
+Herkimer,Town of Columbia,President,,DEM,Blanks,,,0
+Herkimer,Town of Danube,President,,DEM,Blanks,,,0
+Herkimer,Town of Fairfield,President,,DEM,Blanks,,,0
+Herkimer,Town of Frankfort,President,,DEM,Blanks,,,4
+Herkimer,Town of German Flatts,President,,DEM,Blanks,,,4
+Herkimer,Town of Herkimer,President,,DEM,Blanks,,,3
+Herkimer,Town of Litchfield,President,,DEM,Blanks,,,0
+Herkimer,Town of Little Falls,President,,DEM,Blanks,,,0
+Herkimer,Town of Manheim 3,President,,DEM,Blanks,,,0
+Herkimer,Town of Newport,President,,DEM,Blanks,,,0
+Herkimer,Town of Norway,President,,DEM,Blanks,,,0
+Herkimer,Town of Russia 3,President,,DEM,Blanks,,,0
+Herkimer,Town of Schuyler,President,,DEM,Blanks,,,0
+Herkimer,Town of Stark,President,,DEM,Blanks,,,0
+Herkimer,Town of Warren,President,,DEM,Blanks,,,0
+Herkimer,Town of Winfield,President,,DEM,Blanks,,,0
+Herkimer,Military/UOCAVA/Federal 22nd CD,President,,DEM,Blanks,,,0
+Herkimer,"Town of Manheim 1,2",President,,DEM,Voids,,,0
+Herkimer,Town of Ohio,President,,DEM,Voids,,,0
+Herkimer,"Town of Russia 1,2",President,,DEM,Voids,,,0
+Herkimer,Town of Salisbury,President,,DEM,Voids,,,0
+Herkimer,Town of Webb,President,,DEM,Voids,,,0
+Herkimer,Military/UOCAVA/Federal 21st CD,President,,DEM,Voids,,,0
+Herkimer,City of Little Falls,President,,DEM,Voids,,,1
+Herkimer,Town of Columbia,President,,DEM,Voids,,,0
+Herkimer,Town of Danube,President,,DEM,Voids,,,0
+Herkimer,Town of Fairfield,President,,DEM,Voids,,,1
+Herkimer,Town of Frankfort,President,,DEM,Voids,,,2
+Herkimer,Town of German Flatts,President,,DEM,Voids,,,2
+Herkimer,Town of Herkimer,President,,DEM,Voids,,,0
+Herkimer,Town of Litchfield,President,,DEM,Voids,,,0
+Herkimer,Town of Little Falls,President,,DEM,Voids,,,0
+Herkimer,Town of Manheim 3,President,,DEM,Voids,,,0
+Herkimer,Town of Newport,President,,DEM,Voids,,,0
+Herkimer,Town of Norway,President,,DEM,Voids,,,0
+Herkimer,Town of Russia 3,President,,DEM,Voids,,,0
+Herkimer,Town of Schuyler,President,,DEM,Voids,,,0
+Herkimer,Town of Stark,President,,DEM,Voids,,,0
+Herkimer,Town of Warren,President,,DEM,Voids,,,0
+Herkimer,Town of Winfield,President,,DEM,Voids,,,0
+Herkimer,Military/UOCAVA/Federal 22nd CD,President,,DEM,Voids,,,0
+Herkimer,City of Little Falls,U.S. House,22,REP,Claudia Tenney,180,30,210
+Herkimer,Town of Columbia,U.S. House,22,REP,Claudia Tenney,97,33,130
+Herkimer,Town Of Danube,U.S. House,22,REP,Claudia Tenney,29,10,39
+Herkimer,Town of Fairfield,U.S. House,22,REP,Claudia Tenney,47,29,76
+Herkimer,Town of Frankfort,U.S. House,22,REP,Claudia Tenney,254,104,358
+Herkimer,Town of German Flatts,U.S. House,22,REP,Claudia Tenney,554,230,784
+Herkimer,Town of Herkimer,U.S. House,22,REP,Claudia Tenney,248,190,438
+Herkimer,Town of Litchfield,U.S. House,22,REP,Claudia Tenney,72,13,85
+Herkimer,Town of Little Falls,U.S. House,22,REP,Claudia Tenney,101,16,117
+Herkimer,Town of Manheim 3,U.S. House,22,REP,Claudia Tenney,46,10,56
+Herkimer,Town of Newport,U.S. House,22,REP,Claudia Tenney,86,23,109
+Herkimer,Town of Norway,U.S. House,22,REP,Claudia Tenney,27,13,40
+Herkimer,Town of Russia 3,U.S. House,22,REP,Claudia Tenney,21,1,22
+Herkimer,Town of Schuyler,U.S. House,22,REP,Claudia Tenney,63,33,96
+Herkimer,Town of Stark,U.S. House,22,REP,Claudia Tenney,15,7,22
+Herkimer,Town of Warren,U.S. House,22,REP,Claudia Tenney,20,11,31
+Herkimer,Town of Winfield,U.S. House,22,REP,Claudia Tenney,58,32,90
+Herkimer,City of Little Falls,U.S. House,22,REP,George K. Phillips,77,52,129
+Herkimer,Town of Columbia,U.S. House,22,REP,George K. Phillips,20,17,37
+Herkimer,Town Of Danube,U.S. House,22,REP,George K. Phillips,5,6,11
+Herkimer,Town of Fairfield,U.S. House,22,REP,George K. Phillips,11,21,32
+Herkimer,Town of Frankfort,U.S. House,22,REP,George K. Phillips,57,73,130
+Herkimer,Town of German Flatts,U.S. House,22,REP,George K. Phillips,104,174,278
+Herkimer,Town of Herkimer,U.S. House,22,REP,George K. Phillips,68,171,239
+Herkimer,Town of Litchfield,U.S. House,22,REP,George K. Phillips,8,14,22
+Herkimer,Town of Little Falls,U.S. House,22,REP,George K. Phillips,27,20,47
+Herkimer,Town of Manheim 3,U.S. House,22,REP,George K. Phillips,8,12,20
+Herkimer,Town of Newport,U.S. House,22,REP,George K. Phillips,20,21,41
+Herkimer,Town of Norway,U.S. House,22,REP,George K. Phillips,6,10,16
+Herkimer,Town of Russia 3,U.S. House,22,REP,George K. Phillips,5,2,7
+Herkimer,Town of Schuyler,U.S. House,22,REP,George K. Phillips,16,57,73
+Herkimer,Town of Stark,U.S. House,22,REP,George K. Phillips,6,5,11
+Herkimer,Town of Warren,U.S. House,22,REP,George K. Phillips,9,11,20
+Herkimer,Town of Winfield,U.S. House,22,REP,George K. Phillips,21,39,60
+Herkimer,City of Little Falls,U.S. House,22,REP,Write-ins,,,0
+Herkimer,Town of Columbia,U.S. House,22,REP,Write-ins,,,0
+Herkimer,Town Of Danube,U.S. House,22,REP,Write-ins,,,0
+Herkimer,Town of Fairfield,U.S. House,22,REP,Write-ins,,,0
+Herkimer,Town of Frankfort,U.S. House,22,REP,Write-ins,,,0
+Herkimer,Town of German Flatts,U.S. House,22,REP,Write-ins,,,0
+Herkimer,Town of Herkimer,U.S. House,22,REP,Write-ins,,,0
+Herkimer,Town of Litchfield,U.S. House,22,REP,Write-ins,,,0
+Herkimer,Town of Little Falls,U.S. House,22,REP,Write-ins,,,0
+Herkimer,Town of Manheim 3,U.S. House,22,REP,Write-ins,,,2
+Herkimer,Town of Newport,U.S. House,22,REP,Write-ins,,,0
+Herkimer,Town of Norway,U.S. House,22,REP,Write-ins,,,0
+Herkimer,Town of Russia 3,U.S. House,22,REP,Write-ins,,,0
+Herkimer,Town of Schuyler,U.S. House,22,REP,Write-ins,,,0
+Herkimer,Town of Stark,U.S. House,22,REP,Write-ins,,,0
+Herkimer,Town of Warren,U.S. House,22,REP,Write-ins,,,0
+Herkimer,Town of Winfield,U.S. House,22,REP,Write-ins,,,0
+Herkimer,City of Little Falls,U.S. House,22,REP,Blanks,,,13
+Herkimer,Town of Columbia,U.S. House,22,REP,Blanks,,,0
+Herkimer,Town Of Danube,U.S. House,22,REP,Blanks,,,1
+Herkimer,Town of Fairfield,U.S. House,22,REP,Blanks,,,4
+Herkimer,Town of Frankfort,U.S. House,22,REP,Blanks,,,5
+Herkimer,Town of German Flatts,U.S. House,22,REP,Blanks,,,29
+Herkimer,Town of Herkimer,U.S. House,22,REP,Blanks,,,34
+Herkimer,Town of Litchfield,U.S. House,22,REP,Blanks,,,0
+Herkimer,Town of Little Falls,U.S. House,22,REP,Blanks,,,6
+Herkimer,Town of Manheim 3,U.S. House,22,REP,Blanks,,,2
+Herkimer,Town of Newport,U.S. House,22,REP,Blanks,,,5
+Herkimer,Town of Norway,U.S. House,22,REP,Blanks,,,1
+Herkimer,Town of Russia 3,U.S. House,22,REP,Blanks,,,4
+Herkimer,Town of Schuyler,U.S. House,22,REP,Blanks,,,2
+Herkimer,Town of Stark,U.S. House,22,REP,Blanks,,,1
+Herkimer,Town of Warren,U.S. House,22,REP,Blanks,,,0
+Herkimer,Town of Winfield,U.S. House,22,REP,Blanks,,,0
+Herkimer,City of Little Falls,U.S. House,22,REP,Voids,,,1
+Herkimer,Town of Columbia,U.S. House,22,REP,Voids,,,1
+Herkimer,Town Of Danube,U.S. House,22,REP,Voids,,,0
+Herkimer,Town of Fairfield,U.S. House,22,REP,Voids,,,2
+Herkimer,Town of Frankfort,U.S. House,22,REP,Voids,,,1
+Herkimer,Town of German Flatts,U.S. House,22,REP,Voids,,,3
+Herkimer,Town of Herkimer,U.S. House,22,REP,Voids,,,3
+Herkimer,Town of Litchfield,U.S. House,22,REP,Voids,,,0
+Herkimer,Town of Little Falls,U.S. House,22,REP,Voids,,,0
+Herkimer,Town of Manheim 3,U.S. House,22,REP,Voids,,,2
+Herkimer,Town of Newport,U.S. House,22,REP,Voids,,,0
+Herkimer,Town of Norway,U.S. House,22,REP,Voids,,,0
+Herkimer,Town of Russia 3,U.S. House,22,REP,Voids,,,0
+Herkimer,Town of Schuyler,U.S. House,22,REP,Voids,,,1
+Herkimer,Town of Stark,U.S. House,22,REP,Voids,,,0
+Herkimer,Town of Warren,U.S. House,22,REP,Voids,,,0
+Herkimer,Town of Winfield,U.S. House,22,REP,Voids,,,0
+Herkimer,Town of Fairfield,State Senate,49,REP,Thearse McCalmon,4,15,19
+Herkimer,"Town of Manheim 1,2",State Senate,49,REP,Thearse McCalmon,26,18,44
+Herkimer,Town of Manheim 3,State Senate,49,REP,Thearse McCalmon,3,15,18
+Herkimer,Town of Ohio,State Senate,49,REP,Thearse McCalmon,3,10,13
+Herkimer,"Town of Russia 1,2",State Senate,49,REP,Thearse McCalmon,10,22,32
+Herkimer,Town of Russia 3,State Senate,49,REP,Thearse McCalmon,5,3,8
+Herkimer,Town of Salibury,State Senate,49,REP,Thearse McCalmon,5,17,22
+Herkimer,Town of Webb,State Senate,49,REP,Thearse McCalmon,24,39,63
+Herkimer,Town of Fairfield,State Senate,49,REP,Donovan McRae,2,4,6
+Herkimer,"Town of Manheim 1,2",State Senate,49,REP,Donovan McRae,10,8,18
+Herkimer,Town of Manheim 3,State Senate,49,REP,Donovan McRae,1,2,3
+Herkimer,Town of Ohio,State Senate,49,REP,Donovan McRae,1,2,3
+Herkimer,"Town of Russia 1,2",State Senate,49,REP,Donovan McRae,2,8,10
+Herkimer,Town of Russia 3,State Senate,49,REP,Donovan McRae,1,4,5
+Herkimer,Town of Salibury,State Senate,49,REP,Donovan McRae,1,5,6
+Herkimer,Town of Webb,State Senate,49,REP,Donovan McRae,3,18,21
+Herkimer,Town of Fairfield,State Senate,49,REP,Write-ins,,,0
+Herkimer,"Town of Manheim 1,2",State Senate,49,REP,Write-ins,,,0
+Herkimer,Town of Manheim 3,State Senate,49,REP,Write-ins,,,0
+Herkimer,Town of Ohio,State Senate,49,REP,Write-ins,,,0
+Herkimer,"Town of Russia 1,2",State Senate,49,REP,Write-ins,,,0
+Herkimer,Town of Russia 3,State Senate,49,REP,Write-ins,,,0
+Herkimer,Town of Salibury,State Senate,49,REP,Write-ins,,,0
+Herkimer,Town of Webb,State Senate,49,REP,Write-ins,,,0
+Herkimer,Town of Fairfield,State Senate,49,REP,Blanks,,,1
+Herkimer,"Town of Manheim 1,2",State Senate,49,REP,Blanks,,,2
+Herkimer,Town of Manheim 3,State Senate,49,REP,Blanks,,,0
+Herkimer,Town of Ohio,State Senate,49,REP,Blanks,,,0
+Herkimer,"Town of Russia 1,2",State Senate,49,REP,Blanks,,,1
+Herkimer,Town of Russia 3,State Senate,49,REP,Blanks,,,0
+Herkimer,Town of Salibury,State Senate,49,REP,Blanks,,,2
+Herkimer,Town of Webb,State Senate,49,REP,Blanks,,,29
+Herkimer,Town of Fairfield,State Senate,49,REP,Voids,,,0
+Herkimer,"Town of Manheim 1,2",State Senate,49,REP,Voids,,,0
+Herkimer,Town of Manheim 3,State Senate,49,REP,Voids,,,0
+Herkimer,Town of Ohio,State Senate,49,REP,Voids,,,0
+Herkimer,"Town of Russia 1,2",State Senate,49,REP,Voids,,,0
+Herkimer,Town of Russia 3,State Senate,49,REP,Voids,,,0
+Herkimer,Town of Salibury,State Senate,49,REP,Voids,,,0
+Herkimer,Town of Webb,State Senate,49,REP,Voids,,,0
