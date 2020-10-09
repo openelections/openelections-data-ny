@@ -1,0 +1,829 @@
+﻿county,precinct,office,district,party,candidate,election_day,absentee,hand_count,votes
+Tompkins,"City of Ithaca 1-1, 1-2",State Assembly,125,DEM,Jordan A. Lesser,24,29,0,53
+Tompkins,"City of Ithaca 1-3, 2-2",State Assembly,125,DEM,Jordan A. Lesser,19,28,0,47
+Tompkins,City of Ithaca 1-4,State Assembly,125,DEM,Jordan A. Lesser,29,50,0,79
+Tompkins,"City of Ithaca 2-1, 2-3",State Assembly,125,DEM,Jordan A. Lesser,29,31,0,60
+Tompkins,"City of Ithaca 2-4, 4-1",State Assembly,125,DEM,Jordan A. Lesser,21,20,0,41
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",State Assembly,125,DEM,Jordan A. Lesser,29,67,0,96
+Tompkins,"City of Ithaca 5-1, 5-2",State Assembly,125,DEM,Jordan A. Lesser,40,55,0,95
+Tompkins,City of Ithaca 5-3,State Assembly,125,DEM,Jordan A. Lesser,12,19,0,31
+Tompkins,Caroline 1,State Assembly,125,DEM,Jordan A. Lesser,3,5,0,8
+Tompkins,"Caroline 2, 3",State Assembly,125,DEM,Jordan A. Lesser,24,63,0,87
+Tompkins,"Danby 1, 2, 3",State Assembly,125,DEM,Jordan A. Lesser,34,70,0,104
+Tompkins,"Dryden 1, 5",State Assembly,125,DEM,Jordan A. Lesser,18,25,0,43
+Tompkins,Dryden 2,State Assembly,125,DEM,Jordan A. Lesser,9,14,0,23
+Tompkins,"Dryden 3, 6, 7, 10",State Assembly,125,DEM,Jordan A. Lesser,15,32,0,47
+Tompkins,"Dryden 4, 9",State Assembly,125,DEM,Jordan A. Lesser,33,50,0,83
+Tompkins,Dryden 8,State Assembly,125,DEM,Jordan A. Lesser,11,32,0,43
+Tompkins,"Enfield 1, 2, 3",State Assembly,125,DEM,Jordan A. Lesser,21,38,0,59
+Tompkins,Groton 1,State Assembly,125,DEM,Jordan A. Lesser,0,6,0,6
+Tompkins,"Groton 2, 3",State Assembly,125,DEM,Jordan A. Lesser,8,12,0,20
+Tompkins,Groton 4,State Assembly,125,DEM,Jordan A. Lesser,3,9,0,12
+Tompkins,Ithaca 1,State Assembly,125,DEM,Jordan A. Lesser,13,12,0,25
+Tompkins,Ithaca 2,State Assembly,125,DEM,Jordan A. Lesser,11,10,0,21
+Tompkins,Ithaca 3. 12,State Assembly,125,DEM,Jordan A. Lesser,24,39,0,63
+Tompkins,"Ithaca 4, 11",State Assembly,125,DEM,Jordan A. Lesser,34,101,0,135
+Tompkins,"Ithaca 5, 6",State Assembly,125,DEM,Jordan A. Lesser,30,58,0,88
+Tompkins,"Ithaca 7, 8, 9",State Assembly,125,DEM,Jordan A. Lesser,52,130,0,182
+Tompkins,Ithaca 10,State Assembly,125,DEM,Jordan A. Lesser,18,20,0,38
+Tompkins,"Lansing 1, 3",State Assembly,125,DEM,Jordan A. Lesser,27,44,0,71
+Tompkins,"Lansing 2, 8",State Assembly,125,DEM,Jordan A. Lesser,3,8,0,11
+Tompkins,Lansing 4,State Assembly,125,DEM,Jordan A. Lesser,8,7,0,15
+Tompkins,"Lansing 5, 7",State Assembly,125,DEM,Jordan A. Lesser,33,76,0,109
+Tompkins,Lansing 6,State Assembly,125,DEM,Jordan A. Lesser,18,28,0,46
+Tompkins,"Newfield 1, 2, 3",State Assembly,125,DEM,Jordan A. Lesser,18,29,0,47
+Tompkins,"Ulysses 1, 3",State Assembly,125,DEM,Jordan A. Lesser,31,56,0,87
+Tompkins,Ulysses 2,State Assembly,125,DEM,Jordan A. Lesser,5,18,0,23
+Tompkins,Ulysses 4,State Assembly,125,DEM,Jordan A. Lesser,20,38,0,58
+Tompkins,"City of Ithaca 1-1, 1-2",State Assembly,125,DEM,Anna Kelles,70,96,0,166
+Tompkins,"City of Ithaca 1-3, 2-2",State Assembly,125,DEM,Anna Kelles,57,115,0,172
+Tompkins,City of Ithaca 1-4,State Assembly,125,DEM,Anna Kelles,60,112,0,172
+Tompkins,"City of Ithaca 2-1, 2-3",State Assembly,125,DEM,Anna Kelles,101,172,0,273
+Tompkins,"City of Ithaca 2-4, 4-1",State Assembly,125,DEM,Anna Kelles,52,93,0,145
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",State Assembly,125,DEM,Anna Kelles,63,116,0,179
+Tompkins,"City of Ithaca 5-1, 5-2",State Assembly,125,DEM,Anna Kelles,142,291,0,433
+Tompkins,City of Ithaca 5-3,State Assembly,125,DEM,Anna Kelles,14,20,0,34
+Tompkins,Caroline 1,State Assembly,125,DEM,Anna Kelles,6,30,0,36
+Tompkins,"Caroline 2, 3",State Assembly,125,DEM,Anna Kelles,37,116,0,153
+Tompkins,"Danby 1, 2, 3",State Assembly,125,DEM,Anna Kelles,108,168,0,276
+Tompkins,"Dryden 1, 5",State Assembly,125,DEM,Anna Kelles,40,76,0,116
+Tompkins,Dryden 2,State Assembly,125,DEM,Anna Kelles,23,30,0,53
+Tompkins,"Dryden 3, 6, 7, 10",State Assembly,125,DEM,Anna Kelles,43,81,0,124
+Tompkins,"Dryden 4, 9",State Assembly,125,DEM,Anna Kelles,47,127,0,174
+Tompkins,Dryden 8,State Assembly,125,DEM,Anna Kelles,31,102,0,133
+Tompkins,"Enfield 1, 2, 3",State Assembly,125,DEM,Anna Kelles,68,115,0,183
+Tompkins,Groton 1,State Assembly,125,DEM,Anna Kelles,8,17,0,25
+Tompkins,"Groton 2, 3",State Assembly,125,DEM,Anna Kelles,19,36,0,55
+Tompkins,Groton 4,State Assembly,125,DEM,Anna Kelles,3,12,0,15
+Tompkins,Ithaca 1,State Assembly,125,DEM,Anna Kelles,37,81,0,118
+Tompkins,Ithaca 2,State Assembly,125,DEM,Anna Kelles,20,39,0,59
+Tompkins,Ithaca 3. 12,State Assembly,125,DEM,Anna Kelles,39,87,0,126
+Tompkins,"Ithaca 4, 11",State Assembly,125,DEM,Anna Kelles,50,196,0,246
+Tompkins,"Ithaca 5, 6",State Assembly,125,DEM,Anna Kelles,57,188,0,245
+Tompkins,"Ithaca 7, 8, 9",State Assembly,125,DEM,Anna Kelles,58,203,0,261
+Tompkins,Ithaca 10,State Assembly,125,DEM,Anna Kelles,40,71,0,111
+Tompkins,"Lansing 1, 3",State Assembly,125,DEM,Anna Kelles,61,120,0,181
+Tompkins,"Lansing 2, 8",State Assembly,125,DEM,Anna Kelles,19,36,0,55
+Tompkins,Lansing 4,State Assembly,125,DEM,Anna Kelles,12,33,0,45
+Tompkins,"Lansing 5, 7",State Assembly,125,DEM,Anna Kelles,69,122,0,191
+Tompkins,Lansing 6,State Assembly,125,DEM,Anna Kelles,24,65,0,89
+Tompkins,"Newfield 1, 2, 3",State Assembly,125,DEM,Anna Kelles,63,128,0,191
+Tompkins,"Ulysses 1, 3",State Assembly,125,DEM,Anna Kelles,65,140,0,205
+Tompkins,Ulysses 2,State Assembly,125,DEM,Anna Kelles,25,46,0,71
+Tompkins,Ulysses 4,State Assembly,125,DEM,Anna Kelles,34,58,0,92
+Tompkins,"City of Ithaca 1-1, 1-2",State Assembly,125,DEM,Beau A.C. Harbin,1,4,0,5
+Tompkins,"City of Ithaca 1-3, 2-2",State Assembly,125,DEM,Beau A.C. Harbin,5,3,0,8
+Tompkins,City of Ithaca 1-4,State Assembly,125,DEM,Beau A.C. Harbin,1,1,0,2
+Tompkins,"City of Ithaca 2-1, 2-3",State Assembly,125,DEM,Beau A.C. Harbin,1,5,0,6
+Tompkins,"City of Ithaca 2-4, 4-1",State Assembly,125,DEM,Beau A.C. Harbin,5,2,0,7
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",State Assembly,125,DEM,Beau A.C. Harbin,6,6,0,12
+Tompkins,"City of Ithaca 5-1, 5-2",State Assembly,125,DEM,Beau A.C. Harbin,0,5,0,5
+Tompkins,City of Ithaca 5-3,State Assembly,125,DEM,Beau A.C. Harbin,0,0,0,0
+Tompkins,Caroline 1,State Assembly,125,DEM,Beau A.C. Harbin,1,1,0,2
+Tompkins,"Caroline 2, 3",State Assembly,125,DEM,Beau A.C. Harbin,4,5,0,9
+Tompkins,"Danby 1, 2, 3",State Assembly,125,DEM,Beau A.C. Harbin,4,8,0,12
+Tompkins,"Dryden 1, 5",State Assembly,125,DEM,Beau A.C. Harbin,6,2,0,8
+Tompkins,Dryden 2,State Assembly,125,DEM,Beau A.C. Harbin,4,4,0,8
+Tompkins,"Dryden 3, 6, 7, 10",State Assembly,125,DEM,Beau A.C. Harbin,8,7,0,15
+Tompkins,"Dryden 4, 9",State Assembly,125,DEM,Beau A.C. Harbin,2,2,0,4
+Tompkins,Dryden 8,State Assembly,125,DEM,Beau A.C. Harbin,2,1,0,3
+Tompkins,"Enfield 1, 2, 3",State Assembly,125,DEM,Beau A.C. Harbin,1,1,0,2
+Tompkins,Groton 1,State Assembly,125,DEM,Beau A.C. Harbin,1,1,0,2
+Tompkins,"Groton 2, 3",State Assembly,125,DEM,Beau A.C. Harbin,4,9,0,13
+Tompkins,Groton 4,State Assembly,125,DEM,Beau A.C. Harbin,2,7,0,9
+Tompkins,Ithaca 1,State Assembly,125,DEM,Beau A.C. Harbin,1,0,0,1
+Tompkins,Ithaca 2,State Assembly,125,DEM,Beau A.C. Harbin,0,4,0,4
+Tompkins,Ithaca 3. 12,State Assembly,125,DEM,Beau A.C. Harbin,4,2,0,6
+Tompkins,"Ithaca 4, 11",State Assembly,125,DEM,Beau A.C. Harbin,1,4,0,5
+Tompkins,"Ithaca 5, 6",State Assembly,125,DEM,Beau A.C. Harbin,5,8,0,13
+Tompkins,"Ithaca 7, 8, 9",State Assembly,125,DEM,Beau A.C. Harbin,1,8,0,9
+Tompkins,Ithaca 10,State Assembly,125,DEM,Beau A.C. Harbin,0,3,0,3
+Tompkins,"Lansing 1, 3",State Assembly,125,DEM,Beau A.C. Harbin,1,3,0,4
+Tompkins,"Lansing 2, 8",State Assembly,125,DEM,Beau A.C. Harbin,1,5,0,6
+Tompkins,Lansing 4,State Assembly,125,DEM,Beau A.C. Harbin,0,1,0,1
+Tompkins,"Lansing 5, 7",State Assembly,125,DEM,Beau A.C. Harbin,1,4,0,5
+Tompkins,Lansing 6,State Assembly,125,DEM,Beau A.C. Harbin,2,4,0,6
+Tompkins,"Newfield 1, 2, 3",State Assembly,125,DEM,Beau A.C. Harbin,3,1,0,4
+Tompkins,"Ulysses 1, 3",State Assembly,125,DEM,Beau A.C. Harbin,3,2,0,5
+Tompkins,Ulysses 2,State Assembly,125,DEM,Beau A.C. Harbin,1,3,0,4
+Tompkins,Ulysses 4,State Assembly,125,DEM,Beau A.C. Harbin,0,5,0,5
+Tompkins,"City of Ithaca 1-1, 1-2",State Assembly,125,DEM,Jason Leifer,4,12,0,16
+Tompkins,"City of Ithaca 1-3, 2-2",State Assembly,125,DEM,Jason Leifer,12,9,0,21
+Tompkins,City of Ithaca 1-4,State Assembly,125,DEM,Jason Leifer,7,11,0,18
+Tompkins,"City of Ithaca 2-1, 2-3",State Assembly,125,DEM,Jason Leifer,8,8,0,16
+Tompkins,"City of Ithaca 2-4, 4-1",State Assembly,125,DEM,Jason Leifer,6,5,0,11
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",State Assembly,125,DEM,Jason Leifer,8,17,0,25
+Tompkins,"City of Ithaca 5-1, 5-2",State Assembly,125,DEM,Jason Leifer,9,14,0,23
+Tompkins,City of Ithaca 5-3,State Assembly,125,DEM,Jason Leifer,1,1,0,2
+Tompkins,Caroline 1,State Assembly,125,DEM,Jason Leifer,0,5,0,5
+Tompkins,"Caroline 2, 3",State Assembly,125,DEM,Jason Leifer,15,18,0,33
+Tompkins,"Danby 1, 2, 3",State Assembly,125,DEM,Jason Leifer,5,12,0,17
+Tompkins,"Dryden 1, 5",State Assembly,125,DEM,Jason Leifer,22,33,0,55
+Tompkins,Dryden 2,State Assembly,125,DEM,Jason Leifer,13,34,0,47
+Tompkins,"Dryden 3, 6, 7, 10",State Assembly,125,DEM,Jason Leifer,46,99,0,145
+Tompkins,"Dryden 4, 9",State Assembly,125,DEM,Jason Leifer,25,64,0,89
+Tompkins,Dryden 8,State Assembly,125,DEM,Jason Leifer,10,29,0,39
+Tompkins,"Enfield 1, 2, 3",State Assembly,125,DEM,Jason Leifer,6,18,0,24
+Tompkins,Groton 1,State Assembly,125,DEM,Jason Leifer,0,1,0,1
+Tompkins,"Groton 2, 3",State Assembly,125,DEM,Jason Leifer,2,9,0,11
+Tompkins,Groton 4,State Assembly,125,DEM,Jason Leifer,1,3,0,4
+Tompkins,Ithaca 1,State Assembly,125,DEM,Jason Leifer,3,6,0,9
+Tompkins,Ithaca 2,State Assembly,125,DEM,Jason Leifer,3,2,0,5
+Tompkins,Ithaca 3. 12,State Assembly,125,DEM,Jason Leifer,3,4,0,7
+Tompkins,"Ithaca 4, 11",State Assembly,125,DEM,Jason Leifer,6,28,0,34
+Tompkins,"Ithaca 5, 6",State Assembly,125,DEM,Jason Leifer,7,10,0,17
+Tompkins,"Ithaca 7, 8, 9",State Assembly,125,DEM,Jason Leifer,12,21,0,33
+Tompkins,Ithaca 10,State Assembly,125,DEM,Jason Leifer,6,3,0,9
+Tompkins,"Lansing 1, 3",State Assembly,125,DEM,Jason Leifer,8,17,0,25
+Tompkins,"Lansing 2, 8",State Assembly,125,DEM,Jason Leifer,2,6,0,8
+Tompkins,Lansing 4,State Assembly,125,DEM,Jason Leifer,6,5,0,11
+Tompkins,"Lansing 5, 7",State Assembly,125,DEM,Jason Leifer,14,20,0,34
+Tompkins,Lansing 6,State Assembly,125,DEM,Jason Leifer,2,5,0,7
+Tompkins,"Newfield 1, 2, 3",State Assembly,125,DEM,Jason Leifer,4,7,0,11
+Tompkins,"Ulysses 1, 3",State Assembly,125,DEM,Jason Leifer,10,18,0,28
+Tompkins,Ulysses 2,State Assembly,125,DEM,Jason Leifer,2,5,0,7
+Tompkins,Ulysses 4,State Assembly,125,DEM,Jason Leifer,4,4,0,8
+Tompkins,"City of Ithaca 1-1, 1-2",State Assembly,125,DEM,Sujata Gibson,22,23,0,45
+Tompkins,"City of Ithaca 1-3, 2-2",State Assembly,125,DEM,Sujata Gibson,21,33,0,54
+Tompkins,City of Ithaca 1-4,State Assembly,125,DEM,Sujata Gibson,31,31,0,62
+Tompkins,"City of Ithaca 2-1, 2-3",State Assembly,125,DEM,Sujata Gibson,69,70,0,139
+Tompkins,"City of Ithaca 2-4, 4-1",State Assembly,125,DEM,Sujata Gibson,41,35,0,76
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",State Assembly,125,DEM,Sujata Gibson,19,23,0,42
+Tompkins,"City of Ithaca 5-1, 5-2",State Assembly,125,DEM,Sujata Gibson,43,61,0,104
+Tompkins,City of Ithaca 5-3,State Assembly,125,DEM,Sujata Gibson,12,15,0,27
+Tompkins,Caroline 1,State Assembly,125,DEM,Sujata Gibson,7,10,0,17
+Tompkins,"Caroline 2, 3",State Assembly,125,DEM,Sujata Gibson,27,36,0,63
+Tompkins,"Danby 1, 2, 3",State Assembly,125,DEM,Sujata Gibson,40,58,0,98
+Tompkins,"Dryden 1, 5",State Assembly,125,DEM,Sujata Gibson,13,17,0,30
+Tompkins,Dryden 2,State Assembly,125,DEM,Sujata Gibson,15,4,0,19
+Tompkins,"Dryden 3, 6, 7, 10",State Assembly,125,DEM,Sujata Gibson,12,19,0,31
+Tompkins,"Dryden 4, 9",State Assembly,125,DEM,Sujata Gibson,30,43,0,73
+Tompkins,Dryden 8,State Assembly,125,DEM,Sujata Gibson,15,13,0,28
+Tompkins,"Enfield 1, 2, 3",State Assembly,125,DEM,Sujata Gibson,31,31,0,62
+Tompkins,Groton 1,State Assembly,125,DEM,Sujata Gibson,3,3,0,6
+Tompkins,"Groton 2, 3",State Assembly,125,DEM,Sujata Gibson,6,6,0,12
+Tompkins,Groton 4,State Assembly,125,DEM,Sujata Gibson,3,2,0,5
+Tompkins,Ithaca 1,State Assembly,125,DEM,Sujata Gibson,26,18,0,44
+Tompkins,Ithaca 2,State Assembly,125,DEM,Sujata Gibson,14,14,0,28
+Tompkins,Ithaca 3. 12,State Assembly,125,DEM,Sujata Gibson,20,16,0,36
+Tompkins,"Ithaca 4, 11",State Assembly,125,DEM,Sujata Gibson,26,42,0,68
+Tompkins,"Ithaca 5, 6",State Assembly,125,DEM,Sujata Gibson,31,34,0,65
+Tompkins,"Ithaca 7, 8, 9",State Assembly,125,DEM,Sujata Gibson,25,34,0,59
+Tompkins,Ithaca 10,State Assembly,125,DEM,Sujata Gibson,20,34,0,54
+Tompkins,"Lansing 1, 3",State Assembly,125,DEM,Sujata Gibson,9,16,0,25
+Tompkins,"Lansing 2, 8",State Assembly,125,DEM,Sujata Gibson,3,5,0,8
+Tompkins,Lansing 4,State Assembly,125,DEM,Sujata Gibson,16,4,0,20
+Tompkins,"Lansing 5, 7",State Assembly,125,DEM,Sujata Gibson,28,45,0,73
+Tompkins,Lansing 6,State Assembly,125,DEM,Sujata Gibson,5,8,0,13
+Tompkins,"Newfield 1, 2, 3",State Assembly,125,DEM,Sujata Gibson,32,44,0,76
+Tompkins,"Ulysses 1, 3",State Assembly,125,DEM,Sujata Gibson,19,17,0,36
+Tompkins,Ulysses 2,State Assembly,125,DEM,Sujata Gibson,14,11,0,25
+Tompkins,Ulysses 4,State Assembly,125,DEM,Sujata Gibson,12,21,0,33
+Tompkins,"City of Ithaca 1-1, 1-2",State Assembly,125,DEM,Seph Murtagh,39,62,0,101
+Tompkins,"City of Ithaca 1-3, 2-2",State Assembly,125,DEM,Seph Murtagh,35,90,0,125
+Tompkins,City of Ithaca 1-4,State Assembly,125,DEM,Seph Murtagh,21,50,0,71
+Tompkins,"City of Ithaca 2-1, 2-3",State Assembly,125,DEM,Seph Murtagh,77,121,0,198
+Tompkins,"City of Ithaca 2-4, 4-1",State Assembly,125,DEM,Seph Murtagh,48,63,0,111
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",State Assembly,125,DEM,Seph Murtagh,43,112,0,155
+Tompkins,"City of Ithaca 5-1, 5-2",State Assembly,125,DEM,Seph Murtagh,55,129,0,184
+Tompkins,City of Ithaca 5-3,State Assembly,125,DEM,Seph Murtagh,10,7,0,17
+Tompkins,Caroline 1,State Assembly,125,DEM,Seph Murtagh,9,9,0,18
+Tompkins,"Caroline 2, 3",State Assembly,125,DEM,Seph Murtagh,32,81,0,113
+Tompkins,"Danby 1, 2, 3",State Assembly,125,DEM,Seph Murtagh,64,127,0,191
+Tompkins,"Dryden 1, 5",State Assembly,125,DEM,Seph Murtagh,17,20,0,37
+Tompkins,Dryden 2,State Assembly,125,DEM,Seph Murtagh,11,20,0,31
+Tompkins,"Dryden 3, 6, 7, 10",State Assembly,125,DEM,Seph Murtagh,24,34,0,58
+Tompkins,"Dryden 4, 9",State Assembly,125,DEM,Seph Murtagh,31,54,0,85
+Tompkins,Dryden 8,State Assembly,125,DEM,Seph Murtagh,21,38,0,59
+Tompkins,"Enfield 1, 2, 3",State Assembly,125,DEM,Seph Murtagh,18,56,0,74
+Tompkins,Groton 1,State Assembly,125,DEM,Seph Murtagh,1,15,0,16
+Tompkins,"Groton 2, 3",State Assembly,125,DEM,Seph Murtagh,14,23,0,37
+Tompkins,Groton 4,State Assembly,125,DEM,Seph Murtagh,7,1,0,8
+Tompkins,Ithaca 1,State Assembly,125,DEM,Seph Murtagh,10,19,0,29
+Tompkins,Ithaca 2,State Assembly,125,DEM,Seph Murtagh,9,26,0,35
+Tompkins,Ithaca 3. 12,State Assembly,125,DEM,Seph Murtagh,25,66,0,91
+Tompkins,"Ithaca 4, 11",State Assembly,125,DEM,Seph Murtagh,41,107,0,148
+Tompkins,"Ithaca 5, 6",State Assembly,125,DEM,Seph Murtagh,24,95,0,119
+Tompkins,"Ithaca 7, 8, 9",State Assembly,125,DEM,Seph Murtagh,57,219,0,276
+Tompkins,Ithaca 10,State Assembly,125,DEM,Seph Murtagh,18,43,0,61
+Tompkins,"Lansing 1, 3",State Assembly,125,DEM,Seph Murtagh,24,59,0,83
+Tompkins,"Lansing 2, 8",State Assembly,125,DEM,Seph Murtagh,9,12,0,21
+Tompkins,Lansing 4,State Assembly,125,DEM,Seph Murtagh,10,7,0,17
+Tompkins,"Lansing 5, 7",State Assembly,125,DEM,Seph Murtagh,35,90,0,125
+Tompkins,Lansing 6,State Assembly,125,DEM,Seph Murtagh,18,40,0,58
+Tompkins,"Newfield 1, 2, 3",State Assembly,125,DEM,Seph Murtagh,31,60,0,91
+Tompkins,"Ulysses 1, 3",State Assembly,125,DEM,Seph Murtagh,64,144,0,208
+Tompkins,Ulysses 2,State Assembly,125,DEM,Seph Murtagh,24,45,0,69
+Tompkins,Ulysses 4,State Assembly,125,DEM,Seph Murtagh,21,47,0,68
+Tompkins,"City of Ithaca 1-1, 1-2",State Assembly,125,DEM,Lisa W. Hoeschele,1,4,0,5
+Tompkins,"City of Ithaca 1-3, 2-2",State Assembly,125,DEM,Lisa W. Hoeschele,3,8,0,11
+Tompkins,City of Ithaca 1-4,State Assembly,125,DEM,Lisa W. Hoeschele,2,2,0,4
+Tompkins,"City of Ithaca 2-1, 2-3",State Assembly,125,DEM,Lisa W. Hoeschele,1,2,0,3
+Tompkins,"City of Ithaca 2-4, 4-1",State Assembly,125,DEM,Lisa W. Hoeschele,5,2,0,7
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",State Assembly,125,DEM,Lisa W. Hoeschele,1,4,0,5
+Tompkins,"City of Ithaca 5-1, 5-2",State Assembly,125,DEM,Lisa W. Hoeschele,1,1,0,2
+Tompkins,City of Ithaca 5-3,State Assembly,125,DEM,Lisa W. Hoeschele,1,1,0,2
+Tompkins,Caroline 1,State Assembly,125,DEM,Lisa W. Hoeschele,0,2,0,2
+Tompkins,"Caroline 2, 3",State Assembly,125,DEM,Lisa W. Hoeschele,1,8,0,9
+Tompkins,"Danby 1, 2, 3",State Assembly,125,DEM,Lisa W. Hoeschele,1,5,0,6
+Tompkins,"Dryden 1, 5",State Assembly,125,DEM,Lisa W. Hoeschele,5,4,0,9
+Tompkins,Dryden 2,State Assembly,125,DEM,Lisa W. Hoeschele,1,2,0,3
+Tompkins,"Dryden 3, 6, 7, 10",State Assembly,125,DEM,Lisa W. Hoeschele,2,15,0,17
+Tompkins,"Dryden 4, 9",State Assembly,125,DEM,Lisa W. Hoeschele,1,10,0,11
+Tompkins,Dryden 8,State Assembly,125,DEM,Lisa W. Hoeschele,1,1,0,2
+Tompkins,"Enfield 1, 2, 3",State Assembly,125,DEM,Lisa W. Hoeschele,1,5,0,6
+Tompkins,Groton 1,State Assembly,125,DEM,Lisa W. Hoeschele,1,1,0,2
+Tompkins,"Groton 2, 3",State Assembly,125,DEM,Lisa W. Hoeschele,5,6,0,11
+Tompkins,Groton 4,State Assembly,125,DEM,Lisa W. Hoeschele,0,2,0,2
+Tompkins,Ithaca 1,State Assembly,125,DEM,Lisa W. Hoeschele,2,2,0,4
+Tompkins,Ithaca 2,State Assembly,125,DEM,Lisa W. Hoeschele,1,4,0,5
+Tompkins,Ithaca 3. 12,State Assembly,125,DEM,Lisa W. Hoeschele,6,4,0,10
+Tompkins,"Ithaca 4, 11",State Assembly,125,DEM,Lisa W. Hoeschele,2,6,0,8
+Tompkins,"Ithaca 5, 6",State Assembly,125,DEM,Lisa W. Hoeschele,3,9,0,12
+Tompkins,"Ithaca 7, 8, 9",State Assembly,125,DEM,Lisa W. Hoeschele,4,5,0,9
+Tompkins,Ithaca 10,State Assembly,125,DEM,Lisa W. Hoeschele,1,3,0,4
+Tompkins,"Lansing 1, 3",State Assembly,125,DEM,Lisa W. Hoeschele,3,7,0,10
+Tompkins,"Lansing 2, 8",State Assembly,125,DEM,Lisa W. Hoeschele,1,4,0,5
+Tompkins,Lansing 4,State Assembly,125,DEM,Lisa W. Hoeschele,0,3,0,3
+Tompkins,"Lansing 5, 7",State Assembly,125,DEM,Lisa W. Hoeschele,4,8,0,12
+Tompkins,Lansing 6,State Assembly,125,DEM,Lisa W. Hoeschele,0,3,0,3
+Tompkins,"Newfield 1, 2, 3",State Assembly,125,DEM,Lisa W. Hoeschele,2,9,0,11
+Tompkins,"Ulysses 1, 3",State Assembly,125,DEM,Lisa W. Hoeschele,2,3,0,5
+Tompkins,Ulysses 2,State Assembly,125,DEM,Lisa W. Hoeschele,4,3,0,7
+Tompkins,Ulysses 4,State Assembly,125,DEM,Lisa W. Hoeschele,0,5,0,5
+Tompkins,"City of Ithaca 1-1, 1-2",State Assembly,125,DEM,Under Votes,4,10,0,14
+Tompkins,"City of Ithaca 1-3, 2-2",State Assembly,125,DEM,Under Votes,6,1,0,7
+Tompkins,City of Ithaca 1-4,State Assembly,125,DEM,Under Votes,1,1,0,2
+Tompkins,"City of Ithaca 2-1, 2-3",State Assembly,125,DEM,Under Votes,16,13,0,29
+Tompkins,"City of Ithaca 2-4, 4-1",State Assembly,125,DEM,Under Votes,4,6,0,10
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",State Assembly,125,DEM,Under Votes,5,4,0,9
+Tompkins,"City of Ithaca 5-1, 5-2",State Assembly,125,DEM,Under Votes,5,4,0,9
+Tompkins,City of Ithaca 5-3,State Assembly,125,DEM,Under Votes,1,0,0,1
+Tompkins,Caroline 1,State Assembly,125,DEM,Under Votes,2,3,0,5
+Tompkins,"Caroline 2, 3",State Assembly,125,DEM,Under Votes,4,1,0,5
+Tompkins,"Danby 1, 2, 3",State Assembly,125,DEM,Under Votes,7,14,0,21
+Tompkins,"Dryden 1, 5",State Assembly,125,DEM,Under Votes,3,2,0,5
+Tompkins,Dryden 2,State Assembly,125,DEM,Under Votes,5,3,0,8
+Tompkins,"Dryden 3, 6, 7, 10",State Assembly,125,DEM,Under Votes,4,8,0,12
+Tompkins,"Dryden 4, 9",State Assembly,125,DEM,Under Votes,5,2,0,7
+Tompkins,Dryden 8,State Assembly,125,DEM,Under Votes,3,2,0,5
+Tompkins,"Enfield 1, 2, 3",State Assembly,125,DEM,Under Votes,5,7,0,12
+Tompkins,Groton 1,State Assembly,125,DEM,Under Votes,1,1,0,2
+Tompkins,"Groton 2, 3",State Assembly,125,DEM,Under Votes,3,3,0,6
+Tompkins,Groton 4,State Assembly,125,DEM,Under Votes,3,3,0,6
+Tompkins,Ithaca 1,State Assembly,125,DEM,Under Votes,4,6,0,10
+Tompkins,Ithaca 2,State Assembly,125,DEM,Under Votes,3,2,0,5
+Tompkins,Ithaca 3. 12,State Assembly,125,DEM,Under Votes,0,9,0,9
+Tompkins,"Ithaca 4, 11",State Assembly,125,DEM,Under Votes,5,12,0,17
+Tompkins,"Ithaca 5, 6",State Assembly,125,DEM,Under Votes,5,6,0,11
+Tompkins,"Ithaca 7, 8, 9",State Assembly,125,DEM,Under Votes,3,15,0,18
+Tompkins,Ithaca 10,State Assembly,125,DEM,Under Votes,5,8,0,13
+Tompkins,"Lansing 1, 3",State Assembly,125,DEM,Under Votes,5,12,0,17
+Tompkins,"Lansing 2, 8",State Assembly,125,DEM,Under Votes,1,5,0,6
+Tompkins,Lansing 4,State Assembly,125,DEM,Under Votes,2,1,0,3
+Tompkins,"Lansing 5, 7",State Assembly,125,DEM,Under Votes,9,16,0,25
+Tompkins,Lansing 6,State Assembly,125,DEM,Under Votes,2,10,0,12
+Tompkins,"Newfield 1, 2, 3",State Assembly,125,DEM,Under Votes,7,13,0,20
+Tompkins,"Ulysses 1, 3",State Assembly,125,DEM,Under Votes,3,11,0,14
+Tompkins,Ulysses 2,State Assembly,125,DEM,Under Votes,3,2,0,5
+Tompkins,Ulysses 4,State Assembly,125,DEM,Under Votes,2,2,0,4
+Tompkins,"City of Ithaca 1-1, 1-2",State Assembly,125,DEM,Over Votes,0,3,0,3
+Tompkins,"City of Ithaca 1-3, 2-2",State Assembly,125,DEM,Over Votes,1,1,0,2
+Tompkins,City of Ithaca 1-4,State Assembly,125,DEM,Over Votes,0,1,0,1
+Tompkins,"City of Ithaca 2-1, 2-3",State Assembly,125,DEM,Over Votes,0,1,0,1
+Tompkins,"City of Ithaca 2-4, 4-1",State Assembly,125,DEM,Over Votes,0,2,0,2
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",State Assembly,125,DEM,Over Votes,1,4,0,5
+Tompkins,"City of Ithaca 5-1, 5-2",State Assembly,125,DEM,Over Votes,1,4,0,5
+Tompkins,City of Ithaca 5-3,State Assembly,125,DEM,Over Votes,0,0,0,0
+Tompkins,Caroline 1,State Assembly,125,DEM,Over Votes,0,1,0,1
+Tompkins,"Caroline 2, 3",State Assembly,125,DEM,Over Votes,0,10,0,10
+Tompkins,"Danby 1, 2, 3",State Assembly,125,DEM,Over Votes,1,3,0,4
+Tompkins,"Dryden 1, 5",State Assembly,125,DEM,Over Votes,2,3,0,5
+Tompkins,Dryden 2,State Assembly,125,DEM,Over Votes,0,1,0,1
+Tompkins,"Dryden 3, 6, 7, 10",State Assembly,125,DEM,Over Votes,1,3,0,4
+Tompkins,"Dryden 4, 9",State Assembly,125,DEM,Over Votes,0,3,0,3
+Tompkins,Dryden 8,State Assembly,125,DEM,Over Votes,0,2,0,2
+Tompkins,"Enfield 1, 2, 3",State Assembly,125,DEM,Over Votes,0,0,0,0
+Tompkins,Groton 1,State Assembly,125,DEM,Over Votes,1,0,0,1
+Tompkins,"Groton 2, 3",State Assembly,125,DEM,Over Votes,0,3,0,3
+Tompkins,Groton 4,State Assembly,125,DEM,Over Votes,1,1,0,2
+Tompkins,Ithaca 1,State Assembly,125,DEM,Over Votes,0,3,0,3
+Tompkins,Ithaca 2,State Assembly,125,DEM,Over Votes,0,1,0,1
+Tompkins,Ithaca 3. 12,State Assembly,125,DEM,Over Votes,0,2,0,2
+Tompkins,"Ithaca 4, 11",State Assembly,125,DEM,Over Votes,0,3,0,3
+Tompkins,"Ithaca 5, 6",State Assembly,125,DEM,Over Votes,0,5,0,5
+Tompkins,"Ithaca 7, 8, 9",State Assembly,125,DEM,Over Votes,0,4,0,4
+Tompkins,Ithaca 10,State Assembly,125,DEM,Over Votes,0,3,0,3
+Tompkins,"Lansing 1, 3",State Assembly,125,DEM,Over Votes,0,3,0,3
+Tompkins,"Lansing 2, 8",State Assembly,125,DEM,Over Votes,0,0,0,0
+Tompkins,Lansing 4,State Assembly,125,DEM,Over Votes,0,1,0,1
+Tompkins,"Lansing 5, 7",State Assembly,125,DEM,Over Votes,2,8,0,10
+Tompkins,Lansing 6,State Assembly,125,DEM,Over Votes,0,1,0,1
+Tompkins,"Newfield 1, 2, 3",State Assembly,125,DEM,Over Votes,0,4,0,4
+Tompkins,"Ulysses 1, 3",State Assembly,125,DEM,Over Votes,0,5,0,5
+Tompkins,Ulysses 2,State Assembly,125,DEM,Over Votes,0,0,0,0
+Tompkins,Ulysses 4,State Assembly,125,DEM,Over Votes,0,3,0,3
+Tompkins,"City of Ithaca 1-1, 1-2",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"City of Ithaca 1-3, 2-2",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,City of Ithaca 1-4,State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"City of Ithaca 2-1, 2-3",State Assembly,125,DEM,Write-ins,0,2,0,2
+Tompkins,"City of Ithaca 2-4, 4-1",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"City of Ithaca 5-1, 5-2",State Assembly,125,DEM,Write-ins,0,1,0,1
+Tompkins,City of Ithaca 5-3,State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,Caroline 1,State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"Caroline 2, 3",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"Danby 1, 2, 3",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"Dryden 1, 5",State Assembly,125,DEM,Write-ins,0,1,0,1
+Tompkins,Dryden 2,State Assembly,125,DEM,Write-ins,0,1,0,1
+Tompkins,"Dryden 3, 6, 7, 10",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"Dryden 4, 9",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,Dryden 8,State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"Enfield 1, 2, 3",State Assembly,125,DEM,Write-ins,0,1,0,1
+Tompkins,Groton 1,State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"Groton 2, 3",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,Groton 4,State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,Ithaca 1,State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,Ithaca 2,State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,Ithaca 3. 12,State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"Ithaca 4, 11",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"Ithaca 5, 6",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"Ithaca 7, 8, 9",State Assembly,125,DEM,Write-ins,0,1,0,1
+Tompkins,Ithaca 10,State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"Lansing 1, 3",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"Lansing 2, 8",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,Lansing 4,State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"Lansing 5, 7",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,Lansing 6,State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"Newfield 1, 2, 3",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"Ulysses 1, 3",State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,Ulysses 2,State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,Ulysses 4,State Assembly,125,DEM,Write-ins,0,0,0,0
+Tompkins,"City of Ithaca 1-1, 1-2",President,,DEM,Pete Buttigieg,1,2,0,3
+Tompkins,"City of Ithaca 1-3, 2-2",President,,DEM,Pete Buttigieg,2,0,0,2
+Tompkins,City of Ithaca 1-4,President,,DEM,Pete Buttigieg,0,5,0,5
+Tompkins,"City of Ithaca 2-1, 2-3",President,,DEM,Pete Buttigieg,7,0,0,7
+Tompkins,"City of Ithaca 2-4, 4-1",President,,DEM,Pete Buttigieg,1,1,0,2
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",President,,DEM,Pete Buttigieg,0,5,0,5
+Tompkins,"City of Ithaca 5-1, 5-2",President,,DEM,Pete Buttigieg,1,2,0,3
+Tompkins,City of Ithaca 5-3,President,,DEM,Pete Buttigieg,0,1,0,1
+Tompkins,Caroline 1,President,,DEM,Pete Buttigieg,1,0,0,1
+Tompkins,"Caroline 2, 3",President,,DEM,Pete Buttigieg,3,8,0,11
+Tompkins,"Danby 1, 2, 3",President,,DEM,Pete Buttigieg,6,5,0,11
+Tompkins,"Dryden 1, 5",President,,DEM,Pete Buttigieg,0,2,0,2
+Tompkins,Dryden 2,President,,DEM,Pete Buttigieg,0,2,0,2
+Tompkins,"Dryden 3, 6, 7, 10",President,,DEM,Pete Buttigieg,2,5,0,7
+Tompkins,"Dryden 4, 9",President,,DEM,Pete Buttigieg,1,2,0,3
+Tompkins,Dryden 8,President,,DEM,Pete Buttigieg,2,1,0,3
+Tompkins,"Enfield 1, 2, 3",President,,DEM,Pete Buttigieg,4,4,0,8
+Tompkins,Groton 1,President,,DEM,Pete Buttigieg,0,1,0,1
+Tompkins,"Groton 2, 3",President,,DEM,Pete Buttigieg,2,3,0,5
+Tompkins,Groton 4,President,,DEM,Pete Buttigieg,1,0,0,1
+Tompkins,Ithaca 1,President,,DEM,Pete Buttigieg,1,1,0,2
+Tompkins,Ithaca 2,President,,DEM,Pete Buttigieg,1,0,0,1
+Tompkins,Ithaca 3. 12,President,,DEM,Pete Buttigieg,1,1,0,2
+Tompkins,"Ithaca 4, 11",President,,DEM,Pete Buttigieg,4,7,0,11
+Tompkins,"Ithaca 5, 6",President,,DEM,Pete Buttigieg,3,2,0,5
+Tompkins,"Ithaca 7, 8, 9",President,,DEM,Pete Buttigieg,4,8,0,12
+Tompkins,Ithaca 10,President,,DEM,Pete Buttigieg,2,1,0,3
+Tompkins,"Lansing 1, 3",President,,DEM,Pete Buttigieg,5,5,0,10
+Tompkins,"Lansing 2, 8",President,,DEM,Pete Buttigieg,0,5,0,5
+Tompkins,Lansing 4,President,,DEM,Pete Buttigieg,1,0,0,1
+Tompkins,"Lansing 5, 7",President,,DEM,Pete Buttigieg,4,6,0,10
+Tompkins,Lansing 6,President,,DEM,Pete Buttigieg,0,2,0,2
+Tompkins,"Newfield 1, 2, 3",President,,DEM,Pete Buttigieg,4,5,0,9
+Tompkins,"Ulysses 1, 3",President,,DEM,Pete Buttigieg,0,6,0,6
+Tompkins,Ulysses 2,President,,DEM,Pete Buttigieg,3,1,0,4
+Tompkins,Ulysses 4,President,,DEM,Pete Buttigieg,1,1,0,2
+Tompkins,"City of Ithaca 1-1, 1-2",President,,DEM,Amy Klobuchar,0,2,0,2
+Tompkins,"City of Ithaca 1-3, 2-2",President,,DEM,Amy Klobuchar,0,1,1,1
+Tompkins,City of Ithaca 1-4,President,,DEM,Amy Klobuchar,3,0,0,3
+Tompkins,"City of Ithaca 2-1, 2-3",President,,DEM,Amy Klobuchar,0,1,0,1
+Tompkins,"City of Ithaca 2-4, 4-1",President,,DEM,Amy Klobuchar,0,3,5,3
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",President,,DEM,Amy Klobuchar,0,4,0,4
+Tompkins,"City of Ithaca 5-1, 5-2",President,,DEM,Amy Klobuchar,0,1,0,1
+Tompkins,City of Ithaca 5-3,President,,DEM,Amy Klobuchar,0,0,0,0
+Tompkins,Caroline 1,President,,DEM,Amy Klobuchar,0,0,0,0
+Tompkins,"Caroline 2, 3",President,,DEM,Amy Klobuchar,0,0,0,0
+Tompkins,"Danby 1, 2, 3",President,,DEM,Amy Klobuchar,2,1,1,3
+Tompkins,"Dryden 1, 5",President,,DEM,Amy Klobuchar,2,0,0,2
+Tompkins,Dryden 2,President,,DEM,Amy Klobuchar,0,0,0,0
+Tompkins,"Dryden 3, 6, 7, 10",President,,DEM,Amy Klobuchar,0,5,0,5
+Tompkins,"Dryden 4, 9",President,,DEM,Amy Klobuchar,0,2,0,2
+Tompkins,Dryden 8,President,,DEM,Amy Klobuchar,1,1,0,2
+Tompkins,"Enfield 1, 2, 3",President,,DEM,Amy Klobuchar,1,2,0,3
+Tompkins,Groton 1,President,,DEM,Amy Klobuchar,0,0,0,0
+Tompkins,"Groton 2, 3",President,,DEM,Amy Klobuchar,0,2,0,2
+Tompkins,Groton 4,President,,DEM,Amy Klobuchar,1,1,0,2
+Tompkins,Ithaca 1,President,,DEM,Amy Klobuchar,1,2,0,3
+Tompkins,Ithaca 2,President,,DEM,Amy Klobuchar,0,0,0,0
+Tompkins,Ithaca 3. 12,President,,DEM,Amy Klobuchar,0,0,1,0
+Tompkins,"Ithaca 4, 11",President,,DEM,Amy Klobuchar,0,4,0,4
+Tompkins,"Ithaca 5, 6",President,,DEM,Amy Klobuchar,1,3,0,4
+Tompkins,"Ithaca 7, 8, 9",President,,DEM,Amy Klobuchar,2,2,2,4
+Tompkins,Ithaca 10,President,,DEM,Amy Klobuchar,0,0,0,0
+Tompkins,"Lansing 1, 3",President,,DEM,Amy Klobuchar,1,2,0,3
+Tompkins,"Lansing 2, 8",President,,DEM,Amy Klobuchar,3,0,0,3
+Tompkins,Lansing 4,President,,DEM,Amy Klobuchar,0,1,0,1
+Tompkins,"Lansing 5, 7",President,,DEM,Amy Klobuchar,2,3,0,5
+Tompkins,Lansing 6,President,,DEM,Amy Klobuchar,0,0,0,0
+Tompkins,"Newfield 1, 2, 3",President,,DEM,Amy Klobuchar,1,0,0,1
+Tompkins,"Ulysses 1, 3",President,,DEM,Amy Klobuchar,1,2,1,3
+Tompkins,Ulysses 2,President,,DEM,Amy Klobuchar,0,0,0,0
+Tompkins,Ulysses 4,President,,DEM,Amy Klobuchar,0,2,0,2
+Tompkins,"City of Ithaca 1-1, 1-2",President,,DEM,Joseph R. Biden,77,136,10,213
+Tompkins,"City of Ithaca 1-3, 2-2",President,,DEM,Joseph R. Biden,71,126,5,197
+Tompkins,City of Ithaca 1-4,President,,DEM,Joseph R. Biden,63,104,11,167
+Tompkins,"City of Ithaca 2-1, 2-3",President,,DEM,Joseph R. Biden,117,166,5,283
+Tompkins,"City of Ithaca 2-4, 4-1",President,,DEM,Joseph R. Biden,91,103,0,194
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",President,,DEM,Joseph R. Biden,93,198,6,291
+Tompkins,"City of Ithaca 5-1, 5-2",President,,DEM,Joseph R. Biden,136,261,12,397
+Tompkins,City of Ithaca 5-3,President,,DEM,Joseph R. Biden,24,41,2,65
+Tompkins,Caroline 1,President,,DEM,Joseph R. Biden,9,37,0,46
+Tompkins,"Caroline 2, 3",President,,DEM,Joseph R. Biden,76,170,4,246
+Tompkins,"Danby 1, 2, 3",President,,DEM,Joseph R. Biden,142,246,7,388
+Tompkins,"Dryden 1, 5",President,,DEM,Joseph R. Biden,69,111,5,180
+Tompkins,Dryden 2,President,,DEM,Joseph R. Biden,45,75,1,120
+Tompkins,"Dryden 3, 6, 7, 10",President,,DEM,Joseph R. Biden,99,200,5,299
+Tompkins,"Dryden 4, 9",President,,DEM,Joseph R. Biden,109,207,22,316
+Tompkins,Dryden 8,President,,DEM,Joseph R. Biden,50,134,7,184
+Tompkins,"Enfield 1, 2, 3",President,,DEM,Joseph R. Biden,75,143,5,218
+Tompkins,Groton 1,President,,DEM,Joseph R. Biden,9,32,0,41
+Tompkins,"Groton 2, 3",President,,DEM,Joseph R. Biden,36,67,5,103
+Tompkins,Groton 4,President,,DEM,Joseph R. Biden,15,34,3,49
+Tompkins,Ithaca 1,President,,DEM,Joseph R. Biden,53,82,6,135
+Tompkins,Ithaca 2,President,,DEM,Joseph R. Biden,29,73,2,102
+Tompkins,Ithaca 3. 12,President,,DEM,Joseph R. Biden,79,156,10,235
+Tompkins,"Ithaca 4, 11",President,,DEM,Joseph R. Biden,92,324,8,416
+Tompkins,"Ithaca 5, 6",President,,DEM,Joseph R. Biden,87,271,2,358
+Tompkins,"Ithaca 7, 8, 9",President,,DEM,Joseph R. Biden,129,447,22,576
+Tompkins,Ithaca 10,President,,DEM,Joseph R. Biden,58,109,2,167
+Tompkins,"Lansing 1, 3",President,,DEM,Joseph R. Biden,86,208,12,294
+Tompkins,"Lansing 2, 8",President,,DEM,Joseph R. Biden,26,56,1,82
+Tompkins,Lansing 4,President,,DEM,Joseph R. Biden,30,47,3,77
+Tompkins,"Lansing 5, 7",President,,DEM,Joseph R. Biden,114,264,11,378
+Tompkins,Lansing 6,President,,DEM,Joseph R. Biden,47,99,12,146
+Tompkins,"Newfield 1, 2, 3",President,,DEM,Joseph R. Biden,80,183,8,263
+Tompkins,"Ulysses 1, 3",President,,DEM,Joseph R. Biden,103,247,11,350
+Tompkins,Ulysses 2,President,,DEM,Joseph R. Biden,41,79,3,120
+Tompkins,Ulysses 4,President,,DEM,Joseph R. Biden,51,103,6,154
+Tompkins,"City of Ithaca 1-1, 1-2",President,,DEM,Tulsi Gabbard,0,0,0,0
+Tompkins,"City of Ithaca 1-3, 2-2",President,,DEM,Tulsi Gabbard,1,3,1,4
+Tompkins,City of Ithaca 1-4,President,,DEM,Tulsi Gabbard,0,1,0,1
+Tompkins,"City of Ithaca 2-1, 2-3",President,,DEM,Tulsi Gabbard,1,2,0,3
+Tompkins,"City of Ithaca 2-4, 4-1",President,,DEM,Tulsi Gabbard,1,0,0,1
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",President,,DEM,Tulsi Gabbard,1,0,0,1
+Tompkins,"City of Ithaca 5-1, 5-2",President,,DEM,Tulsi Gabbard,2,2,0,4
+Tompkins,City of Ithaca 5-3,President,,DEM,Tulsi Gabbard,0,0,0,0
+Tompkins,Caroline 1,President,,DEM,Tulsi Gabbard,0,1,0,1
+Tompkins,"Caroline 2, 3",President,,DEM,Tulsi Gabbard,1,1,0,2
+Tompkins,"Danby 1, 2, 3",President,,DEM,Tulsi Gabbard,2,0,0,2
+Tompkins,"Dryden 1, 5",President,,DEM,Tulsi Gabbard,0,0,0,0
+Tompkins,Dryden 2,President,,DEM,Tulsi Gabbard,0,0,0,0
+Tompkins,"Dryden 3, 6, 7, 10",President,,DEM,Tulsi Gabbard,0,0,0,0
+Tompkins,"Dryden 4, 9",President,,DEM,Tulsi Gabbard,0,0,0,0
+Tompkins,Dryden 8,President,,DEM,Tulsi Gabbard,0,0,0,0
+Tompkins,"Enfield 1, 2, 3",President,,DEM,Tulsi Gabbard,3,1,0,4
+Tompkins,Groton 1,President,,DEM,Tulsi Gabbard,0,0,0,0
+Tompkins,"Groton 2, 3",President,,DEM,Tulsi Gabbard,1,0,0,1
+Tompkins,Groton 4,President,,DEM,Tulsi Gabbard,0,0,0,0
+Tompkins,Ithaca 1,President,,DEM,Tulsi Gabbard,0,0,0,0
+Tompkins,Ithaca 2,President,,DEM,Tulsi Gabbard,0,0,0,0
+Tompkins,Ithaca 3. 12,President,,DEM,Tulsi Gabbard,0,0,0,0
+Tompkins,"Ithaca 4, 11",President,,DEM,Tulsi Gabbard,0,2,0,2
+Tompkins,"Ithaca 5, 6",President,,DEM,Tulsi Gabbard,0,1,0,1
+Tompkins,"Ithaca 7, 8, 9",President,,DEM,Tulsi Gabbard,1,2,0,3
+Tompkins,Ithaca 10,President,,DEM,Tulsi Gabbard,0,2,0,2
+Tompkins,"Lansing 1, 3",President,,DEM,Tulsi Gabbard,0,0,0,0
+Tompkins,"Lansing 2, 8",President,,DEM,Tulsi Gabbard,0,0,0,0
+Tompkins,Lansing 4,President,,DEM,Tulsi Gabbard,0,0,0,0
+Tompkins,"Lansing 5, 7",President,,DEM,Tulsi Gabbard,2,0,0,2
+Tompkins,Lansing 6,President,,DEM,Tulsi Gabbard,1,2,0,3
+Tompkins,"Newfield 1, 2, 3",President,,DEM,Tulsi Gabbard,3,1,0,4
+Tompkins,"Ulysses 1, 3",President,,DEM,Tulsi Gabbard,1,1,0,2
+Tompkins,Ulysses 2,President,,DEM,Tulsi Gabbard,1,3,0,4
+Tompkins,Ulysses 4,President,,DEM,Tulsi Gabbard,1,0,0,1
+Tompkins,"City of Ithaca 1-1, 1-2",President,,DEM,Bernie Sanders,66,53,8,119
+Tompkins,"City of Ithaca 1-3, 2-2",President,,DEM,Bernie Sanders,58,93,7,151
+Tompkins,City of Ithaca 1-4,President,,DEM,Bernie Sanders,62,79,4,141
+Tompkins,"City of Ithaca 2-1, 2-3",President,,DEM,Bernie Sanders,132,172,4,304
+Tompkins,"City of Ithaca 2-4, 4-1",President,,DEM,Bernie Sanders,68,88,4,156
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",President,,DEM,Bernie Sanders,54,84,2,138
+Tompkins,"City of Ithaca 5-1, 5-2",President,,DEM,Bernie Sanders,107,166,7,273
+Tompkins,City of Ithaca 5-3,President,,DEM,Bernie Sanders,21,27,1,48
+Tompkins,Caroline 1,President,,DEM,Bernie Sanders,14,18,0,32
+Tompkins,"Caroline 2, 3",President,,DEM,Bernie Sanders,43,107,2,150
+Tompkins,"Danby 1, 2, 3",President,,DEM,Bernie Sanders,84,136,10,220
+Tompkins,"Dryden 1, 5",President,,DEM,Bernie Sanders,40,51,0,91
+Tompkins,Dryden 2,President,,DEM,Bernie Sanders,27,21,2,48
+Tompkins,"Dryden 3, 6, 7, 10",President,,DEM,Bernie Sanders,40,51,1,91
+Tompkins,"Dryden 4, 9",President,,DEM,Bernie Sanders,46,88,5,134
+Tompkins,Dryden 8,President,,DEM,Bernie Sanders,31,42,3,73
+Tompkins,"Enfield 1, 2, 3",President,,DEM,Bernie Sanders,48,79,4,127
+Tompkins,Groton 1,President,,DEM,Bernie Sanders,5,6,1,11
+Tompkins,"Groton 2, 3",President,,DEM,Bernie Sanders,17,21,0,38
+Tompkins,Groton 4,President,,DEM,Bernie Sanders,5,6,1,11
+Tompkins,Ithaca 1,President,,DEM,Bernie Sanders,30,37,3,67
+Tompkins,Ithaca 2,President,,DEM,Bernie Sanders,22,17,1,39
+Tompkins,Ithaca 3. 12,President,,DEM,Bernie Sanders,25,44,1,69
+Tompkins,"Ithaca 4, 11",President,,DEM,Bernie Sanders,57,90,2,147
+Tompkins,"Ithaca 5, 6",President,,DEM,Bernie Sanders,47,95,4,142
+Tompkins,"Ithaca 7, 8, 9",President,,DEM,Bernie Sanders,47,92,7,139
+Tompkins,Ithaca 10,President,,DEM,Bernie Sanders,38,54,2,92
+Tompkins,"Lansing 1, 3",President,,DEM,Bernie Sanders,28,35,2,63
+Tompkins,"Lansing 2, 8",President,,DEM,Bernie Sanders,9,13,0,22
+Tompkins,Lansing 4,President,,DEM,Bernie Sanders,18,7,2,25
+Tompkins,"Lansing 5, 7",President,,DEM,Bernie Sanders,49,74,3,123
+Tompkins,Lansing 6,President,,DEM,Bernie Sanders,16,34,3,50
+Tompkins,"Newfield 1, 2, 3",President,,DEM,Bernie Sanders,56,66,1,122
+Tompkins,"Ulysses 1, 3",President,,DEM,Bernie Sanders,64,68,5,132
+Tompkins,Ulysses 2,President,,DEM,Bernie Sanders,23,32,0,55
+Tompkins,Ulysses 4,President,,DEM,Bernie Sanders,30,46,1,76
+Tompkins,"City of Ithaca 1-1, 1-2",President,,DEM,Michael R. Bloomberg,0,1,0,1
+Tompkins,"City of Ithaca 1-3, 2-2",President,,DEM,Michael R. Bloomberg,0,2,0,2
+Tompkins,City of Ithaca 1-4,President,,DEM,Michael R. Bloomberg,1,1,0,2
+Tompkins,"City of Ithaca 2-1, 2-3",President,,DEM,Michael R. Bloomberg,1,1,0,2
+Tompkins,"City of Ithaca 2-4, 4-1",President,,DEM,Michael R. Bloomberg,1,0,0,1
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",President,,DEM,Michael R. Bloomberg,0,1,0,1
+Tompkins,"City of Ithaca 5-1, 5-2",President,,DEM,Michael R. Bloomberg,0,1,0,1
+Tompkins,City of Ithaca 5-3,President,,DEM,Michael R. Bloomberg,0,1,0,1
+Tompkins,Caroline 1,President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,"Caroline 2, 3",President,,DEM,Michael R. Bloomberg,1,2,0,3
+Tompkins,"Danby 1, 2, 3",President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,"Dryden 1, 5",President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,Dryden 2,President,,DEM,Michael R. Bloomberg,0,1,0,1
+Tompkins,"Dryden 3, 6, 7, 10",President,,DEM,Michael R. Bloomberg,0,1,0,1
+Tompkins,"Dryden 4, 9",President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,Dryden 8,President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,"Enfield 1, 2, 3",President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,Groton 1,President,,DEM,Michael R. Bloomberg,0,1,0,1
+Tompkins,"Groton 2, 3",President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,Groton 4,President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,Ithaca 1,President,,DEM,Michael R. Bloomberg,1,0,0,1
+Tompkins,Ithaca 2,President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,Ithaca 3. 12,President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,"Ithaca 4, 11",President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,"Ithaca 5, 6",President,,DEM,Michael R. Bloomberg,2,1,0,3
+Tompkins,"Ithaca 7, 8, 9",President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,Ithaca 10,President,,DEM,Michael R. Bloomberg,0,1,0,1
+Tompkins,"Lansing 1, 3",President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,"Lansing 2, 8",President,,DEM,Michael R. Bloomberg,1,0,0,1
+Tompkins,Lansing 4,President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,"Lansing 5, 7",President,,DEM,Michael R. Bloomberg,1,1,0,2
+Tompkins,Lansing 6,President,,DEM,Michael R. Bloomberg,0,1,0,1
+Tompkins,"Newfield 1, 2, 3",President,,DEM,Michael R. Bloomberg,3,0,0,3
+Tompkins,"Ulysses 1, 3",President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,Ulysses 2,President,,DEM,Michael R. Bloomberg,0,0,0,0
+Tompkins,Ulysses 4,President,,DEM,Michael R. Bloomberg,0,1,0,1
+Tompkins,"City of Ithaca 1-1, 1-2",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"City of Ithaca 1-3, 2-2",President,,DEM,Tom Steyer,0,1,0,1
+Tompkins,City of Ithaca 1-4,President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"City of Ithaca 2-1, 2-3",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"City of Ithaca 2-4, 4-1",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"City of Ithaca 5-1, 5-2",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,City of Ithaca 5-3,President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,Caroline 1,President,,DEM,Tom Steyer,1,0,0,1
+Tompkins,"Caroline 2, 3",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"Danby 1, 2, 3",President,,DEM,Tom Steyer,1,1,0,2
+Tompkins,"Dryden 1, 5",President,,DEM,Tom Steyer,1,0,0,1
+Tompkins,Dryden 2,President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"Dryden 3, 6, 7, 10",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"Dryden 4, 9",President,,DEM,Tom Steyer,0,1,0,1
+Tompkins,Dryden 8,President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"Enfield 1, 2, 3",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,Groton 1,President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"Groton 2, 3",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,Groton 4,President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,Ithaca 1,President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,Ithaca 2,President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,Ithaca 3. 12,President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"Ithaca 4, 11",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"Ithaca 5, 6",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"Ithaca 7, 8, 9",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,Ithaca 10,President,,DEM,Tom Steyer,1,0,0,1
+Tompkins,"Lansing 1, 3",President,,DEM,Tom Steyer,1,0,0,1
+Tompkins,"Lansing 2, 8",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,Lansing 4,President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"Lansing 5, 7",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,Lansing 6,President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"Newfield 1, 2, 3",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"Ulysses 1, 3",President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,Ulysses 2,President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,Ulysses 4,President,,DEM,Tom Steyer,0,0,0,0
+Tompkins,"City of Ithaca 1-1, 1-2",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"City of Ithaca 1-3, 2-2",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,City of Ithaca 1-4,President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"City of Ithaca 2-1, 2-3",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"City of Ithaca 2-4, 4-1",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"City of Ithaca 5-1, 5-2",President,,DEM,Michael Bennet,0,1,0,1
+Tompkins,City of Ithaca 5-3,President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,Caroline 1,President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"Caroline 2, 3",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"Danby 1, 2, 3",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"Dryden 1, 5",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,Dryden 2,President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"Dryden 3, 6, 7, 10",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"Dryden 4, 9",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,Dryden 8,President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"Enfield 1, 2, 3",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,Groton 1,President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"Groton 2, 3",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,Groton 4,President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,Ithaca 1,President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,Ithaca 2,President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,Ithaca 3. 12,President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"Ithaca 4, 11",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"Ithaca 5, 6",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"Ithaca 7, 8, 9",President,,DEM,Michael Bennet,1,1,0,2
+Tompkins,Ithaca 10,President,,DEM,Michael Bennet,0,1,0,1
+Tompkins,"Lansing 1, 3",President,,DEM,Michael Bennet,1,0,0,1
+Tompkins,"Lansing 2, 8",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,Lansing 4,President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"Lansing 5, 7",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,Lansing 6,President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"Newfield 1, 2, 3",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"Ulysses 1, 3",President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,Ulysses 2,President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,Ulysses 4,President,,DEM,Michael Bennet,0,0,0,0
+Tompkins,"City of Ithaca 1-1, 1-2",President,,DEM,Elizabeth Warren,14,29,1,43
+Tompkins,"City of Ithaca 1-3, 2-2",President,,DEM,Elizabeth Warren,19,37,2,56
+Tompkins,City of Ithaca 1-4,President,,DEM,Elizabeth Warren,19,46,3,65
+Tompkins,"City of Ithaca 2-1, 2-3",President,,DEM,Elizabeth Warren,33,66,0,99
+Tompkins,"City of Ithaca 2-4, 4-1",President,,DEM,Elizabeth Warren,16,41,2,57
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",President,,DEM,Elizabeth Warren,23,52,0,75
+Tompkins,"City of Ithaca 5-1, 5-2",President,,DEM,Elizabeth Warren,45,103,1,148
+Tompkins,City of Ithaca 5-3,President,,DEM,Elizabeth Warren,4,7,0,11
+Tompkins,Caroline 1,President,,DEM,Elizabeth Warren,2,7,0,9
+Tompkins,"Caroline 2, 3",President,,DEM,Elizabeth Warren,11,42,2,53
+Tompkins,"Danby 1, 2, 3",President,,DEM,Elizabeth Warren,19,41,2,60
+Tompkins,"Dryden 1, 5",President,,DEM,Elizabeth Warren,11,14,0,25
+Tompkins,Dryden 2,President,,DEM,Elizabeth Warren,5,7,0,12
+Tompkins,"Dryden 3, 6, 7, 10",President,,DEM,Elizabeth Warren,10,21,0,31
+Tompkins,"Dryden 4, 9",President,,DEM,Elizabeth Warren,13,34,5,47
+Tompkins,Dryden 8,President,,DEM,Elizabeth Warren,7,36,2,43
+Tompkins,"Enfield 1, 2, 3",President,,DEM,Elizabeth Warren,15,24,0,39
+Tompkins,Groton 1,President,,DEM,Elizabeth Warren,0,6,0,6
+Tompkins,"Groton 2, 3",President,,DEM,Elizabeth Warren,2,7,1,9
+Tompkins,Groton 4,President,,DEM,Elizabeth Warren,0,1,0,1
+Tompkins,Ithaca 1,President,,DEM,Elizabeth Warren,8,22,0,30
+Tompkins,Ithaca 2,President,,DEM,Elizabeth Warren,6,10,0,16
+Tompkins,Ithaca 3. 12,President,,DEM,Elizabeth Warren,9,23,0,32
+Tompkins,"Ithaca 4, 11",President,,DEM,Elizabeth Warren,11,55,3,66
+Tompkins,"Ithaca 5, 6",President,,DEM,Elizabeth Warren,18,39,2,57
+Tompkins,"Ithaca 7, 8, 9",President,,DEM,Elizabeth Warren,24,66,1,90
+Tompkins,Ithaca 10,President,,DEM,Elizabeth Warren,9,24,2,33
+Tompkins,"Lansing 1, 3",President,,DEM,Elizabeth Warren,11,19,0,30
+Tompkins,"Lansing 2, 8",President,,DEM,Elizabeth Warren,0,3,0,3
+Tompkins,Lansing 4,President,,DEM,Elizabeth Warren,5,3,0,8
+Tompkins,"Lansing 5, 7",President,,DEM,Elizabeth Warren,18,30,0,48
+Tompkins,Lansing 6,President,,DEM,Elizabeth Warren,4,16,1,20
+Tompkins,"Newfield 1, 2, 3",President,,DEM,Elizabeth Warren,11,28,0,39
+Tompkins,"Ulysses 1, 3",President,,DEM,Elizabeth Warren,23,43,4,66
+Tompkins,Ulysses 2,President,,DEM,Elizabeth Warren,5,15,0,20
+Tompkins,Ulysses 4,President,,DEM,Elizabeth Warren,9,21,1,30
+Tompkins,"City of Ithaca 1-1, 1-2",President,,DEM,Andrew Yang,5,1,0,6
+Tompkins,"City of Ithaca 1-3, 2-2",President,,DEM,Andrew Yang,5,1,0,6
+Tompkins,City of Ithaca 1-4,President,,DEM,Andrew Yang,3,4,0,7
+Tompkins,"City of Ithaca 2-1, 2-3",President,,DEM,Andrew Yang,5,1,0,6
+Tompkins,"City of Ithaca 2-4, 4-1",President,,DEM,Andrew Yang,2,2,0,4
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",President,,DEM,Andrew Yang,1,8,0,9
+Tompkins,"City of Ithaca 5-1, 5-2",President,,DEM,Andrew Yang,2,8,0,10
+Tompkins,City of Ithaca 5-3,President,,DEM,Andrew Yang,0,0,0,0
+Tompkins,Caroline 1,President,,DEM,Andrew Yang,0,0,0,0
+Tompkins,"Caroline 2, 3",President,,DEM,Andrew Yang,3,3,1,6
+Tompkins,"Danby 1, 2, 3",President,,DEM,Andrew Yang,3,8,0,11
+Tompkins,"Dryden 1, 5",President,,DEM,Andrew Yang,2,0,0,2
+Tompkins,Dryden 2,President,,DEM,Andrew Yang,2,4,0,6
+Tompkins,"Dryden 3, 6, 7, 10",President,,DEM,Andrew Yang,5,2,0,7
+Tompkins,"Dryden 4, 9",President,,DEM,Andrew Yang,4,3,0,7
+Tompkins,Dryden 8,President,,DEM,Andrew Yang,1,1,0,2
+Tompkins,"Enfield 1, 2, 3",President,,DEM,Andrew Yang,3,0,0,3
+Tompkins,Groton 1,President,,DEM,Andrew Yang,1,0,0,1
+Tompkins,"Groton 2, 3",President,,DEM,Andrew Yang,2,0,0,2
+Tompkins,Groton 4,President,,DEM,Andrew Yang,1,0,0,1
+Tompkins,Ithaca 1,President,,DEM,Andrew Yang,0,1,0,1
+Tompkins,Ithaca 2,President,,DEM,Andrew Yang,0,1,0,1
+Tompkins,Ithaca 3. 12,President,,DEM,Andrew Yang,2,2,0,4
+Tompkins,"Ithaca 4, 11",President,,DEM,Andrew Yang,0,5,0,5
+Tompkins,"Ithaca 5, 6",President,,DEM,Andrew Yang,2,3,0,5
+Tompkins,"Ithaca 7, 8, 9",President,,DEM,Andrew Yang,4,6,0,10
+Tompkins,Ithaca 10,President,,DEM,Andrew Yang,0,0,0,0
+Tompkins,"Lansing 1, 3",President,,DEM,Andrew Yang,4,2,0,6
+Tompkins,"Lansing 2, 8",President,,DEM,Andrew Yang,0,0,0,0
+Tompkins,Lansing 4,President,,DEM,Andrew Yang,0,2,0,2
+Tompkins,"Lansing 5, 7",President,,DEM,Andrew Yang,2,6,0,8
+Tompkins,Lansing 6,President,,DEM,Andrew Yang,2,2,0,4
+Tompkins,"Newfield 1, 2, 3",President,,DEM,Andrew Yang,1,2,0,3
+Tompkins,"Ulysses 1, 3",President,,DEM,Andrew Yang,3,2,0,5
+Tompkins,Ulysses 2,President,,DEM,Andrew Yang,5,3,0,8
+Tompkins,Ulysses 4,President,,DEM,Andrew Yang,0,0,0,0
+Tompkins,"City of Ithaca 1-1, 1-2",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"City of Ithaca 1-3, 2-2",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,City of Ithaca 1-4,President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"City of Ithaca 2-1, 2-3",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"City of Ithaca 2-4, 4-1",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"City of Ithaca 5-1, 5-2",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,City of Ithaca 5-3,President,,DEM,Deval Patrick,0,1,0,1
+Tompkins,Caroline 1,President,,DEM,Deval Patrick,1,0,0,1
+Tompkins,"Caroline 2, 3",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"Danby 1, 2, 3",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"Dryden 1, 5",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,Dryden 2,President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"Dryden 3, 6, 7, 10",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"Dryden 4, 9",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,Dryden 8,President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"Enfield 1, 2, 3",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,Groton 1,President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"Groton 2, 3",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,Groton 4,President,,DEM,Deval Patrick,0,1,0,1
+Tompkins,Ithaca 1,President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,Ithaca 2,President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,Ithaca 3. 12,President,,DEM,Deval Patrick,2,0,0,2
+Tompkins,"Ithaca 4, 11",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"Ithaca 5, 6",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"Ithaca 7, 8, 9",President,,DEM,Deval Patrick,0,1,0,1
+Tompkins,Ithaca 10,President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"Lansing 1, 3",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"Lansing 2, 8",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,Lansing 4,President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"Lansing 5, 7",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,Lansing 6,President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"Newfield 1, 2, 3",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"Ulysses 1, 3",President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,Ulysses 2,President,,DEM,Deval Patrick,0,1,0,1
+Tompkins,Ulysses 4,President,,DEM,Deval Patrick,0,0,0,0
+Tompkins,"City of Ithaca 1-1, 1-2",President,,DEM,Under Votes,1,1,0,2
+Tompkins,"City of Ithaca 1-3, 2-2",President,,DEM,Under Votes,3,2,3,5
+Tompkins,City of Ithaca 1-4,President,,DEM,Under Votes,1,2,0,3
+Tompkins,"City of Ithaca 2-1, 2-3",President,,DEM,Under Votes,4,3,0,7
+Tompkins,"City of Ithaca 2-4, 4-1",President,,DEM,Under Votes,2,1,0,3
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",President,,DEM,Under Votes,3,1,0,4
+Tompkins,"City of Ithaca 5-1, 5-2",President,,DEM,Under Votes,3,3,0,6
+Tompkins,City of Ithaca 5-3,President,,DEM,Under Votes,1,0,0,1
+Tompkins,Caroline 1,President,,DEM,Under Votes,1,2,0,3
+Tompkins,"Caroline 2, 3",President,,DEM,Under Votes,4,2,0,6
+Tompkins,"Danby 1, 2, 3",President,,DEM,Under Votes,5,3,0,8
+Tompkins,"Dryden 1, 5",President,,DEM,Under Votes,0,0,0,0
+Tompkins,Dryden 2,President,,DEM,Under Votes,1,1,0,2
+Tompkins,"Dryden 3, 6, 7, 10",President,,DEM,Under Votes,0,3,0,3
+Tompkins,"Dryden 4, 9",President,,DEM,Under Votes,1,0,0,1
+Tompkins,Dryden 8,President,,DEM,Under Votes,0,0,0,0
+Tompkins,"Enfield 1, 2, 3",President,,DEM,Under Votes,2,3,1,5
+Tompkins,Groton 1,President,,DEM,Under Votes,1,0,0,1
+Tompkins,"Groton 2, 3",President,,DEM,Under Votes,1,0,0,1
+Tompkins,Groton 4,President,,DEM,Under Votes,0,1,0,1
+Tompkins,Ithaca 1,President,,DEM,Under Votes,1,0,0,1
+Tompkins,Ithaca 2,President,,DEM,Under Votes,3,1,0,4
+Tompkins,Ithaca 3. 12,President,,DEM,Under Votes,2,0,0,2
+Tompkins,"Ithaca 4, 11",President,,DEM,Under Votes,1,1,1,2
+Tompkins,"Ithaca 5, 6",President,,DEM,Under Votes,3,2,0,5
+Tompkins,"Ithaca 7, 8, 9",President,,DEM,Under Votes,1,2,1,3
+Tompkins,Ithaca 10,President,,DEM,Under Votes,0,2,0,2
+Tompkins,"Lansing 1, 3",President,,DEM,Under Votes,1,1,0,2
+Tompkins,"Lansing 2, 8",President,,DEM,Under Votes,0,2,0,2
+Tompkins,Lansing 4,President,,DEM,Under Votes,0,1,0,1
+Tompkins,"Lansing 5, 7",President,,DEM,Under Votes,2,2,0,4
+Tompkins,Lansing 6,President,,DEM,Under Votes,0,0,0,0
+Tompkins,"Newfield 1, 2, 3",President,,DEM,Under Votes,1,1,0,2
+Tompkins,"Ulysses 1, 3",President,,DEM,Under Votes,1,1,0,2
+Tompkins,Ulysses 2,President,,DEM,Under Votes,0,0,0,0
+Tompkins,Ulysses 4,President,,DEM,Under Votes,1,2,0,3
+Tompkins,"City of Ithaca 1-1, 1-2",President,,DEM,Over Votes,1,0,0,1
+Tompkins,"City of Ithaca 1-3, 2-2",President,,DEM,Over Votes,0,1,0,1
+Tompkins,City of Ithaca 1-4,President,,DEM,Over Votes,0,1,0,1
+Tompkins,"City of Ithaca 2-1, 2-3",President,,DEM,Over Votes,1,0,0,1
+Tompkins,"City of Ithaca 2-4, 4-1",President,,DEM,Over Votes,0,0,0,0
+Tompkins,"City of Ithaca 3-1, 3-2, 3-3",President,,DEM,Over Votes,0,0,0,0
+Tompkins,"City of Ithaca 5-1, 5-2",President,,DEM,Over Votes,0,0,0,0
+Tompkins,City of Ithaca 5-3,President,,DEM,Over Votes,0,2,0,2
+Tompkins,Caroline 1,President,,DEM,Over Votes,0,0,0,0
+Tompkins,"Caroline 2, 3",President,,DEM,Over Votes,2,1,1,3
+Tompkins,"Danby 1, 2, 3",President,,DEM,Over Votes,0,2,0,2
+Tompkins,"Dryden 1, 5",President,,DEM,Over Votes,1,2,0,3
+Tompkins,Dryden 2,President,,DEM,Over Votes,0,0,0,0
+Tompkins,"Dryden 3, 6, 7, 10",President,,DEM,Over Votes,0,4,0,4
+Tompkins,"Dryden 4, 9",President,,DEM,Over Votes,0,2,0,2
+Tompkins,Dryden 8,President,,DEM,Over Votes,0,0,0,0
+Tompkins,"Enfield 1, 2, 3",President,,DEM,Over Votes,0,2,1,2
+Tompkins,Groton 1,President,,DEM,Over Votes,0,0,0,0
+Tompkins,"Groton 2, 3",President,,DEM,Over Votes,0,0,0,0
+Tompkins,Groton 4,President,,DEM,Over Votes,0,0,0,0
+Tompkins,Ithaca 1,President,,DEM,Over Votes,0,1,0,1
+Tompkins,Ithaca 2,President,,DEM,Over Votes,0,2,0,2
+Tompkins,Ithaca 3. 12,President,,DEM,Over Votes,1,3,2,4
+Tompkins,"Ithaca 4, 11",President,,DEM,Over Votes,0,4,1,4
+Tompkins,"Ithaca 5, 6",President,,DEM,Over Votes,0,3,0,3
+Tompkins,"Ithaca 7, 8, 9",President,,DEM,Over Votes,0,5,2,5
+Tompkins,Ithaca 10,President,,DEM,Over Votes,0,0,0,0
+Tompkins,"Lansing 1, 3",President,,DEM,Over Votes,0,1,0,1
+Tompkins,"Lansing 2, 8",President,,DEM,Over Votes,0,0,0,0
+Tompkins,Lansing 4,President,,DEM,Over Votes,0,1,0,1
+Tompkins,"Lansing 5, 7",President,,DEM,Over Votes,1,1,1,2
+Tompkins,Lansing 6,President,,DEM,Over Votes,0,0,1,0
+Tompkins,"Newfield 1, 2, 3",President,,DEM,Over Votes,0,1,3,1
+Tompkins,"Ulysses 1, 3",President,,DEM,Over Votes,0,1,0,1
+Tompkins,Ulysses 2,President,,DEM,Over Votes,0,0,0,0
+Tompkins,Ulysses 4,President,,DEM,Over Votes,0,0,0,0
