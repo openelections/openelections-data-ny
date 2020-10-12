@@ -1,0 +1,485 @@
+﻿county,precinct,office,district,party,candidate,votes
+Madison,Brookfield 1-3,Registered Voters,,DEM,,389
+Madison,Cazenovia 1-6,Registered Voters,,DEM,,1569
+Madison,DeRuyter 1,Registered Voters,,DEM,,172
+Madison,"Eaton 1,2",Registered Voters,,DEM,,498
+Madison,Fenner 1,Registered Voters,,DEM,,250
+Madison,Georgetown 1,Registered Voters,,DEM,,76
+Madison,Hamilton 1-4,Registered Voters,,DEM,,1182
+Madison,"Lebanon 1,2",Registered Voters,,DEM,,241
+Madison,Lenox 1-6,Registered Voters,,DEM,,1329
+Madison,"Lincoln 1,2",Registered Voters,,DEM,,238
+Madison,"Madison 1,2",Registered Voters,,DEM,,499
+Madison,"Nelson 1,2",Registered Voters,,DEM,,362
+Madison,Oneida Wards 1-6,Registered Voters,,DEM,,1812
+Madison,Smithfield 1,Registered Voters,,DEM,,151
+Madison,"Stockbridge 1,2",Registered Voters,,DEM,,285
+Madison,"Sullivan 1,2,6,8,10",Registered Voters,,DEM,,1245
+Madison,"Sullivan 3,4,5,7,9,11",Registered Voters,,DEM,,1198
+Madison,Brookfield 1-3,President,,DEM,Pete Buttigieg,3
+Madison,Cazenovia 1-6,President,,DEM,Pete Buttigieg,16
+Madison,DeRuyter 1,President,,DEM,Pete Buttigieg,1
+Madison,"Eaton 1,2",President,,DEM,Pete Buttigieg,4
+Madison,Fenner 1,President,,DEM,Pete Buttigieg,3
+Madison,Georgetown 1,President,,DEM,Pete Buttigieg,0
+Madison,Hamilton 1-4,President,,DEM,Pete Buttigieg,11
+Madison,"Lebanon 1,2",President,,DEM,Pete Buttigieg,0
+Madison,Lenox 1-6,President,,DEM,Pete Buttigieg,9
+Madison,"Lincoln 1,2",President,,DEM,Pete Buttigieg,2
+Madison,"Madison 1,2",President,,DEM,Pete Buttigieg,4
+Madison,"Nelson 1,2",President,,DEM,Pete Buttigieg,3
+Madison,Oneida Wards 1-6,President,,DEM,Pete Buttigieg,15
+Madison,Smithfield 1,President,,DEM,Pete Buttigieg,2
+Madison,"Stockbridge 1,2",President,,DEM,Pete Buttigieg,2
+Madison,"Sullivan 1,2,6,8,10",President,,DEM,Pete Buttigieg,6
+Madison,"Sullivan 3,4,5,7,9,11",President,,DEM,Pete Buttigieg,10
+Madison,Early Voting,President,,DEM,Pete Buttigieg,3
+Madison,Brookfield 1-3,President,,DEM,Amy Klobuchar,1
+Madison,Cazenovia 1-6,President,,DEM,Amy Klobuchar,4
+Madison,DeRuyter 1,President,,DEM,Amy Klobuchar,2
+Madison,"Eaton 1,2",President,,DEM,Amy Klobuchar,2
+Madison,Fenner 1,President,,DEM,Amy Klobuchar,2
+Madison,Georgetown 1,President,,DEM,Amy Klobuchar,0
+Madison,Hamilton 1-4,President,,DEM,Amy Klobuchar,2
+Madison,"Lebanon 1,2",President,,DEM,Amy Klobuchar,0
+Madison,Lenox 1-6,President,,DEM,Amy Klobuchar,3
+Madison,"Lincoln 1,2",President,,DEM,Amy Klobuchar,0
+Madison,"Madison 1,2",President,,DEM,Amy Klobuchar,7
+Madison,"Nelson 1,2",President,,DEM,Amy Klobuchar,1
+Madison,Oneida Wards 1-6,President,,DEM,Amy Klobuchar,5
+Madison,Smithfield 1,President,,DEM,Amy Klobuchar,0
+Madison,"Stockbridge 1,2",President,,DEM,Amy Klobuchar,1
+Madison,"Sullivan 1,2,6,8,10",President,,DEM,Amy Klobuchar,1
+Madison,"Sullivan 3,4,5,7,9,11",President,,DEM,Amy Klobuchar,2
+Madison,Early Voting,President,,DEM,Amy Klobuchar,1
+Madison,Brookfield 1-3,President,,DEM,Joseph R. Biden,61
+Madison,Cazenovia 1-6,President,,DEM,Joseph R. Biden,491
+Madison,DeRuyter 1,President,,DEM,Joseph R. Biden,27
+Madison,"Eaton 1,2",President,,DEM,Joseph R. Biden,90
+Madison,Fenner 1,President,,DEM,Joseph R. Biden,59
+Madison,Georgetown 1,President,,DEM,Joseph R. Biden,14
+Madison,Hamilton 1-4,President,,DEM,Joseph R. Biden,310
+Madison,"Lebanon 1,2",President,,DEM,Joseph R. Biden,61
+Madison,Lenox 1-6,President,,DEM,Joseph R. Biden,228
+Madison,"Lincoln 1,2",President,,DEM,Joseph R. Biden,28
+Madison,"Madison 1,2",President,,DEM,Joseph R. Biden,135
+Madison,"Nelson 1,2",President,,DEM,Joseph R. Biden,98
+Madison,Oneida Wards 1-6,President,,DEM,Joseph R. Biden,293
+Madison,Smithfield 1,President,,DEM,Joseph R. Biden,39
+Madison,"Stockbridge 1,2",President,,DEM,Joseph R. Biden,38
+Madison,"Sullivan 1,2,6,8,10",President,,DEM,Joseph R. Biden,254
+Madison,"Sullivan 3,4,5,7,9,11",President,,DEM,Joseph R. Biden,195
+Madison,Early Voting,President,,DEM,Joseph R. Biden,61
+Madison,Brookfield 1-3,President,,DEM,Tulsi Gabbard,0
+Madison,Cazenovia 1-6,President,,DEM,Tulsi Gabbard,5
+Madison,DeRuyter 1,President,,DEM,Tulsi Gabbard,0
+Madison,"Eaton 1,2",President,,DEM,Tulsi Gabbard,1
+Madison,Fenner 1,President,,DEM,Tulsi Gabbard,0
+Madison,Georgetown 1,President,,DEM,Tulsi Gabbard,0
+Madison,Hamilton 1-4,President,,DEM,Tulsi Gabbard,3
+Madison,"Lebanon 1,2",President,,DEM,Tulsi Gabbard,1
+Madison,Lenox 1-6,President,,DEM,Tulsi Gabbard,3
+Madison,"Lincoln 1,2",President,,DEM,Tulsi Gabbard,2
+Madison,"Madison 1,2",President,,DEM,Tulsi Gabbard,1
+Madison,"Nelson 1,2",President,,DEM,Tulsi Gabbard,0
+Madison,Oneida Wards 1-6,President,,DEM,Tulsi Gabbard,4
+Madison,Smithfield 1,President,,DEM,Tulsi Gabbard,0
+Madison,"Stockbridge 1,2",President,,DEM,Tulsi Gabbard,1
+Madison,"Sullivan 1,2,6,8,10",President,,DEM,Tulsi Gabbard,1
+Madison,"Sullivan 3,4,5,7,9,11",President,,DEM,Tulsi Gabbard,1
+Madison,Early Voting,President,,DEM,Tulsi Gabbard,1
+Madison,Brookfield 1-3,President,,DEM,Bernie Sanders,12
+Madison,Cazenovia 1-6,President,,DEM,Bernie Sanders,99
+Madison,DeRuyter 1,President,,DEM,Bernie Sanders,8
+Madison,"Eaton 1,2",President,,DEM,Bernie Sanders,32
+Madison,Fenner 1,President,,DEM,Bernie Sanders,8
+Madison,Georgetown 1,President,,DEM,Bernie Sanders,0
+Madison,Hamilton 1-4,President,,DEM,Bernie Sanders,90
+Madison,"Lebanon 1,2",President,,DEM,Bernie Sanders,17
+Madison,Lenox 1-6,President,,DEM,Bernie Sanders,44
+Madison,"Lincoln 1,2",President,,DEM,Bernie Sanders,6
+Madison,"Madison 1,2",President,,DEM,Bernie Sanders,13
+Madison,"Nelson 1,2",President,,DEM,Bernie Sanders,18
+Madison,Oneida Wards 1-6,President,,DEM,Bernie Sanders,65
+Madison,Smithfield 1,President,,DEM,Bernie Sanders,13
+Madison,"Stockbridge 1,2",President,,DEM,Bernie Sanders,8
+Madison,"Sullivan 1,2,6,8,10",President,,DEM,Bernie Sanders,58
+Madison,"Sullivan 3,4,5,7,9,11",President,,DEM,Bernie Sanders,40
+Madison,Early Voting,President,,DEM,Bernie Sanders,14
+Madison,Brookfield 1-3,President,,DEM,Michael R. Bloomberg,1
+Madison,Cazenovia 1-6,President,,DEM,Michael R. Bloomberg,1
+Madison,DeRuyter 1,President,,DEM,Michael R. Bloomberg,0
+Madison,"Eaton 1,2",President,,DEM,Michael R. Bloomberg,0
+Madison,Fenner 1,President,,DEM,Michael R. Bloomberg,0
+Madison,Georgetown 1,President,,DEM,Michael R. Bloomberg,0
+Madison,Hamilton 1-4,President,,DEM,Michael R. Bloomberg,3
+Madison,"Lebanon 1,2",President,,DEM,Michael R. Bloomberg,0
+Madison,Lenox 1-6,President,,DEM,Michael R. Bloomberg,2
+Madison,"Lincoln 1,2",President,,DEM,Michael R. Bloomberg,3
+Madison,"Madison 1,2",President,,DEM,Michael R. Bloomberg,0
+Madison,"Nelson 1,2",President,,DEM,Michael R. Bloomberg,2
+Madison,Oneida Wards 1-6,President,,DEM,Michael R. Bloomberg,1
+Madison,Smithfield 1,President,,DEM,Michael R. Bloomberg,1
+Madison,"Stockbridge 1,2",President,,DEM,Michael R. Bloomberg,1
+Madison,"Sullivan 1,2,6,8,10",President,,DEM,Michael R. Bloomberg,2
+Madison,"Sullivan 3,4,5,7,9,11",President,,DEM,Michael R. Bloomberg,0
+Madison,Early Voting,President,,DEM,Michael R. Bloomberg,0
+Madison,Brookfield 1-3,President,,DEM,Tom Steyer,1
+Madison,Cazenovia 1-6,President,,DEM,Tom Steyer,1
+Madison,DeRuyter 1,President,,DEM,Tom Steyer,0
+Madison,"Eaton 1,2",President,,DEM,Tom Steyer,2
+Madison,Fenner 1,President,,DEM,Tom Steyer,0
+Madison,Georgetown 1,President,,DEM,Tom Steyer,1
+Madison,Hamilton 1-4,President,,DEM,Tom Steyer,0
+Madison,"Lebanon 1,2",President,,DEM,Tom Steyer,1
+Madison,Lenox 1-6,President,,DEM,Tom Steyer,2
+Madison,"Lincoln 1,2",President,,DEM,Tom Steyer,0
+Madison,"Madison 1,2",President,,DEM,Tom Steyer,0
+Madison,"Nelson 1,2",President,,DEM,Tom Steyer,1
+Madison,Oneida Wards 1-6,President,,DEM,Tom Steyer,1
+Madison,Smithfield 1,President,,DEM,Tom Steyer,0
+Madison,"Stockbridge 1,2",President,,DEM,Tom Steyer,2
+Madison,"Sullivan 1,2,6,8,10",President,,DEM,Tom Steyer,0
+Madison,"Sullivan 3,4,5,7,9,11",President,,DEM,Tom Steyer,0
+Madison,Early Voting,President,,DEM,Tom Steyer,0
+Madison,Brookfield 1-3,President,,DEM,Michael Bennet,0
+Madison,Cazenovia 1-6,President,,DEM,Michael Bennet,2
+Madison,DeRuyter 1,President,,DEM,Michael Bennet,0
+Madison,"Eaton 1,2",President,,DEM,Michael Bennet,0
+Madison,Fenner 1,President,,DEM,Michael Bennet,0
+Madison,Georgetown 1,President,,DEM,Michael Bennet,0
+Madison,Hamilton 1-4,President,,DEM,Michael Bennet,0
+Madison,"Lebanon 1,2",President,,DEM,Michael Bennet,1
+Madison,Lenox 1-6,President,,DEM,Michael Bennet,2
+Madison,"Lincoln 1,2",President,,DEM,Michael Bennet,1
+Madison,"Madison 1,2",President,,DEM,Michael Bennet,0
+Madison,"Nelson 1,2",President,,DEM,Michael Bennet,0
+Madison,Oneida Wards 1-6,President,,DEM,Michael Bennet,2
+Madison,Smithfield 1,President,,DEM,Michael Bennet,0
+Madison,"Stockbridge 1,2",President,,DEM,Michael Bennet,2
+Madison,"Sullivan 1,2,6,8,10",President,,DEM,Michael Bennet,2
+Madison,"Sullivan 3,4,5,7,9,11",President,,DEM,Michael Bennet,4
+Madison,Early Voting,President,,DEM,Michael Bennet,1
+Madison,Brookfield 1-3,President,,DEM,Elizabeth Warren,1
+Madison,Cazenovia 1-6,President,,DEM,Elizabeth Warren,34
+Madison,DeRuyter 1,President,,DEM,Elizabeth Warren,1
+Madison,"Eaton 1,2",President,,DEM,Elizabeth Warren,5
+Madison,Fenner 1,President,,DEM,Elizabeth Warren,4
+Madison,Georgetown 1,President,,DEM,Elizabeth Warren,0
+Madison,Hamilton 1-4,President,,DEM,Elizabeth Warren,51
+Madison,"Lebanon 1,2",President,,DEM,Elizabeth Warren,4
+Madison,Lenox 1-6,President,,DEM,Elizabeth Warren,7
+Madison,"Lincoln 1,2",President,,DEM,Elizabeth Warren,2
+Madison,"Madison 1,2",President,,DEM,Elizabeth Warren,12
+Madison,"Nelson 1,2",President,,DEM,Elizabeth Warren,3
+Madison,Oneida Wards 1-6,President,,DEM,Elizabeth Warren,14
+Madison,Smithfield 1,President,,DEM,Elizabeth Warren,1
+Madison,"Stockbridge 1,2",President,,DEM,Elizabeth Warren,3
+Madison,"Sullivan 1,2,6,8,10",President,,DEM,Elizabeth Warren,8
+Madison,"Sullivan 3,4,5,7,9,11",President,,DEM,Elizabeth Warren,10
+Madison,Early Voting,President,,DEM,Elizabeth Warren,4
+Madison,Brookfield 1-3,President,,DEM,Andrew Yang,0
+Madison,Cazenovia 1-6,President,,DEM,Andrew Yang,2
+Madison,DeRuyter 1,President,,DEM,Andrew Yang,0
+Madison,"Eaton 1,2",President,,DEM,Andrew Yang,2
+Madison,Fenner 1,President,,DEM,Andrew Yang,0
+Madison,Georgetown 1,President,,DEM,Andrew Yang,0
+Madison,Hamilton 1-4,President,,DEM,Andrew Yang,2
+Madison,"Lebanon 1,2",President,,DEM,Andrew Yang,0
+Madison,Lenox 1-6,President,,DEM,Andrew Yang,1
+Madison,"Lincoln 1,2",President,,DEM,Andrew Yang,0
+Madison,"Madison 1,2",President,,DEM,Andrew Yang,0
+Madison,"Nelson 1,2",President,,DEM,Andrew Yang,1
+Madison,Oneida Wards 1-6,President,,DEM,Andrew Yang,4
+Madison,Smithfield 1,President,,DEM,Andrew Yang,1
+Madison,"Stockbridge 1,2",President,,DEM,Andrew Yang,0
+Madison,"Sullivan 1,2,6,8,10",President,,DEM,Andrew Yang,5
+Madison,"Sullivan 3,4,5,7,9,11",President,,DEM,Andrew Yang,1
+Madison,Early Voting,President,,DEM,Andrew Yang,1
+Madison,Brookfield 1-3,President,,DEM,Deval Patrick,2
+Madison,Cazenovia 1-6,President,,DEM,Deval Patrick,0
+Madison,DeRuyter 1,President,,DEM,Deval Patrick,0
+Madison,"Eaton 1,2",President,,DEM,Deval Patrick,0
+Madison,Fenner 1,President,,DEM,Deval Patrick,0
+Madison,Georgetown 1,President,,DEM,Deval Patrick,0
+Madison,Hamilton 1-4,President,,DEM,Deval Patrick,0
+Madison,"Lebanon 1,2",President,,DEM,Deval Patrick,0
+Madison,Lenox 1-6,President,,DEM,Deval Patrick,0
+Madison,"Lincoln 1,2",President,,DEM,Deval Patrick,0
+Madison,"Madison 1,2",President,,DEM,Deval Patrick,0
+Madison,"Nelson 1,2",President,,DEM,Deval Patrick,0
+Madison,Oneida Wards 1-6,President,,DEM,Deval Patrick,2
+Madison,Smithfield 1,President,,DEM,Deval Patrick,0
+Madison,"Stockbridge 1,2",President,,DEM,Deval Patrick,0
+Madison,"Sullivan 1,2,6,8,10",President,,DEM,Deval Patrick,1
+Madison,"Sullivan 3,4,5,7,9,11",President,,DEM,Deval Patrick,1
+Madison,Early Voting,President,,DEM,Deval Patrick,2
+Madison,Brookfield 1-3,President,,DEM,Blanks,6
+Madison,Cazenovia 1-6,President,,DEM,Blanks,11
+Madison,DeRuyter 1,President,,DEM,Blanks,1
+Madison,"Eaton 1,2",President,,DEM,Blanks,4
+Madison,Fenner 1,President,,DEM,Blanks,2
+Madison,Georgetown 1,President,,DEM,Blanks,2
+Madison,Hamilton 1-4,President,,DEM,Blanks,10
+Madison,"Lebanon 1,2",President,,DEM,Blanks,1
+Madison,Lenox 1-6,President,,DEM,Blanks,4
+Madison,"Lincoln 1,2",President,,DEM,Blanks,0
+Madison,"Madison 1,2",President,,DEM,Blanks,3
+Madison,"Nelson 1,2",President,,DEM,Blanks,4
+Madison,Oneida Wards 1-6,President,,DEM,Blanks,14
+Madison,Smithfield 1,President,,DEM,Blanks,3
+Madison,"Stockbridge 1,2",President,,DEM,Blanks,3
+Madison,"Sullivan 1,2,6,8,10",President,,DEM,Blanks,2
+Madison,"Sullivan 3,4,5,7,9,11",President,,DEM,Blanks,5
+Madison,Early Voting,President,,DEM,Blanks,1
+Madison,Brookfield 1-3,President,,DEM,Voids,0
+Madison,Cazenovia 1-6,President,,DEM,Voids,0
+Madison,DeRuyter 1,President,,DEM,Voids,0
+Madison,"Eaton 1,2",President,,DEM,Voids,0
+Madison,Fenner 1,President,,DEM,Voids,0
+Madison,Georgetown 1,President,,DEM,Voids,0
+Madison,Hamilton 1-4,President,,DEM,Voids,0
+Madison,"Lebanon 1,2",President,,DEM,Voids,0
+Madison,Lenox 1-6,President,,DEM,Voids,0
+Madison,"Lincoln 1,2",President,,DEM,Voids,0
+Madison,"Madison 1,2",President,,DEM,Voids,0
+Madison,"Nelson 1,2",President,,DEM,Voids,0
+Madison,Oneida Wards 1-6,President,,DEM,Voids,0
+Madison,Smithfield 1,President,,DEM,Voids,0
+Madison,"Stockbridge 1,2",President,,DEM,Voids,0
+Madison,"Sullivan 1,2,6,8,10",President,,DEM,Voids,0
+Madison,"Sullivan 3,4,5,7,9,11",President,,DEM,Voids,0
+Madison,Early Voting,President,,DEM,Voids,0
+Madison,Brookfield 1-3,Ballots Cast,,DEM,,88
+Madison,Cazenovia 1-6,Ballots Cast,,DEM,,666
+Madison,DeRuyter 1,Ballots Cast,,DEM,,40
+Madison,"Eaton 1,2",Ballots Cast,,DEM,,142
+Madison,Fenner 1,Ballots Cast,,DEM,,78
+Madison,Georgetown 1,Ballots Cast,,DEM,,17
+Madison,Hamilton 1-4,Ballots Cast,,DEM,,482
+Madison,"Lebanon 1,2",Ballots Cast,,DEM,,86
+Madison,Lenox 1-6,Ballots Cast,,DEM,,305
+Madison,"Lincoln 1,2",Ballots Cast,,DEM,,44
+Madison,"Madison 1,2",Ballots Cast,,DEM,,175
+Madison,"Nelson 1,2",Ballots Cast,,DEM,,131
+Madison,Oneida Wards 1-6,Ballots Cast,,DEM,,420
+Madison,Smithfield 1,Ballots Cast,,DEM,,60
+Madison,"Stockbridge 1,2",Ballots Cast,,DEM,,61
+Madison,"Sullivan 1,2,6,8,10",Ballots Cast,,DEM,,340
+Madison,"Sullivan 3,4,5,7,9,11",Ballots Cast,,DEM,,269
+Madison,Early Voting,Ballots Cast,,DEM,,89
+Madison,Brookfield 1-3,State Assembly,121,DEM,Dan Buttermann,27
+Madison,Cazenovia 1-6,State Assembly,121,DEM,Dan Buttermann,347
+Madison,DeRuyter 1,State Assembly,121,DEM,Dan Buttermann,16
+Madison,"Eaton 1,2",State Assembly,121,DEM,Dan Buttermann,51
+Madison,Fenner 1,State Assembly,121,DEM,Dan Buttermann,29
+Madison,Georgetown 1,State Assembly,121,DEM,Dan Buttermann,5
+Madison,Hamilton 1-4,State Assembly,121,DEM,Dan Buttermann,111
+Madison,"Lebanon 1,2",State Assembly,121,DEM,Dan Buttermann,20
+Madison,Lenox 1-6,State Assembly,121,DEM,Dan Buttermann,165
+Madison,"Lincoln 1,2",State Assembly,121,DEM,Dan Buttermann,24
+Madison,"Madison 1,2",State Assembly,121,DEM,Dan Buttermann,32
+Madison,"Nelson 1,2",State Assembly,121,DEM,Dan Buttermann,83
+Madison,Oneida Wards 1-6,State Assembly,121,DEM,Dan Buttermann,243
+Madison,Smithfield 1,State Assembly,121,DEM,Dan Buttermann,41
+Madison,"Stockbridge 1,2",State Assembly,121,DEM,Dan Buttermann,23
+Madison,"Sullivan 1,2,6,8,10",State Assembly,121,DEM,Dan Buttermann,166
+Madison,"Sullivan 3,4,5,7,9,11",State Assembly,121,DEM,Dan Buttermann,145
+Madison,Early Voting,State Assembly,121,DEM,Dan Buttermann,40
+Madison,Brookfield 1-3,State Assembly,121,DEM,Corey J. Mosher,61
+Madison,Cazenovia 1-6,State Assembly,121,DEM,Corey J. Mosher,279
+Madison,DeRuyter 1,State Assembly,121,DEM,Corey J. Mosher,21
+Madison,"Eaton 1,2",State Assembly,121,DEM,Corey J. Mosher,88
+Madison,Fenner 1,State Assembly,121,DEM,Corey J. Mosher,40
+Madison,Georgetown 1,State Assembly,121,DEM,Corey J. Mosher,11
+Madison,Hamilton 1-4,State Assembly,121,DEM,Corey J. Mosher,351
+Madison,"Lebanon 1,2",State Assembly,121,DEM,Corey J. Mosher,58
+Madison,Lenox 1-6,State Assembly,121,DEM,Corey J. Mosher,123
+Madison,"Lincoln 1,2",State Assembly,121,DEM,Corey J. Mosher,17
+Madison,"Madison 1,2",State Assembly,121,DEM,Corey J. Mosher,138
+Madison,"Nelson 1,2",State Assembly,121,DEM,Corey J. Mosher,44
+Madison,Oneida Wards 1-6,State Assembly,121,DEM,Corey J. Mosher,154
+Madison,Smithfield 1,State Assembly,121,DEM,Corey J. Mosher,18
+Madison,"Stockbridge 1,2",State Assembly,121,DEM,Corey J. Mosher,36
+Madison,"Sullivan 1,2,6,8,10",State Assembly,121,DEM,Corey J. Mosher,151
+Madison,"Sullivan 3,4,5,7,9,11",State Assembly,121,DEM,Corey J. Mosher,100
+Madison,Early Voting,State Assembly,121,DEM,Corey J. Mosher,46
+Madison,Brookfield 1-3,State Assembly,121,DEM,Write-ins,0
+Madison,Cazenovia 1-6,State Assembly,121,DEM,Write-ins,3
+Madison,DeRuyter 1,State Assembly,121,DEM,Write-ins,0
+Madison,"Eaton 1,2",State Assembly,121,DEM,Write-ins,1
+Madison,Fenner 1,State Assembly,121,DEM,Write-ins,1
+Madison,Georgetown 1,State Assembly,121,DEM,Write-ins,0
+Madison,Hamilton 1-4,State Assembly,121,DEM,Write-ins,0
+Madison,"Lebanon 1,2",State Assembly,121,DEM,Write-ins,0
+Madison,Lenox 1-6,State Assembly,121,DEM,Write-ins,0
+Madison,"Lincoln 1,2",State Assembly,121,DEM,Write-ins,0
+Madison,"Madison 1,2",State Assembly,121,DEM,Write-ins,0
+Madison,"Nelson 1,2",State Assembly,121,DEM,Write-ins,1
+Madison,Oneida Wards 1-6,State Assembly,121,DEM,Write-ins,0
+Madison,Smithfield 1,State Assembly,121,DEM,Write-ins,0
+Madison,"Stockbridge 1,2",State Assembly,121,DEM,Write-ins,0
+Madison,"Sullivan 1,2,6,8,10",State Assembly,121,DEM,Write-ins,1
+Madison,"Sullivan 3,4,5,7,9,11",State Assembly,121,DEM,Write-ins,0
+Madison,Early Voting,State Assembly,121,DEM,Write-ins,0
+Madison,Brookfield 1-3,State Assembly,121,DEM,Blanks,2
+Madison,Cazenovia 1-6,State Assembly,121,DEM,Blanks,12
+Madison,DeRuyter 1,State Assembly,121,DEM,Blanks,0
+Madison,"Eaton 1,2",State Assembly,121,DEM,Blanks,0
+Madison,Fenner 1,State Assembly,121,DEM,Blanks,4
+Madison,Georgetown 1,State Assembly,121,DEM,Blanks,1
+Madison,Hamilton 1-4,State Assembly,121,DEM,Blanks,13
+Madison,"Lebanon 1,2",State Assembly,121,DEM,Blanks,4
+Madison,Lenox 1-6,State Assembly,121,DEM,Blanks,9
+Madison,"Lincoln 1,2",State Assembly,121,DEM,Blanks,1
+Madison,"Madison 1,2",State Assembly,121,DEM,Blanks,4
+Madison,"Nelson 1,2",State Assembly,121,DEM,Blanks,2
+Madison,Oneida Wards 1-6,State Assembly,121,DEM,Blanks,13
+Madison,Smithfield 1,State Assembly,121,DEM,Blanks,0
+Madison,"Stockbridge 1,2",State Assembly,121,DEM,Blanks,0
+Madison,"Sullivan 1,2,6,8,10",State Assembly,121,DEM,Blanks,11
+Madison,"Sullivan 3,4,5,7,9,11",State Assembly,121,DEM,Blanks,13
+Madison,Early Voting,State Assembly,121,DEM,Blanks,3
+Madison,Brookfield 1-3,State Assembly,121,DEM,Voids,0
+Madison,Cazenovia 1-6,State Assembly,121,DEM,Voids,0
+Madison,DeRuyter 1,State Assembly,121,DEM,Voids,0
+Madison,"Eaton 1,2",State Assembly,121,DEM,Voids,1
+Madison,Fenner 1,State Assembly,121,DEM,Voids,0
+Madison,Georgetown 1,State Assembly,121,DEM,Voids,0
+Madison,Hamilton 1-4,State Assembly,121,DEM,Voids,1
+Madison,"Lebanon 1,2",State Assembly,121,DEM,Voids,0
+Madison,Lenox 1-6,State Assembly,121,DEM,Voids,1
+Madison,"Lincoln 1,2",State Assembly,121,DEM,Voids,1
+Madison,"Madison 1,2",State Assembly,121,DEM,Voids,3
+Madison,"Nelson 1,2",State Assembly,121,DEM,Voids,2
+Madison,Oneida Wards 1-6,State Assembly,121,DEM,Voids,0
+Madison,Smithfield 1,State Assembly,121,DEM,Voids,0
+Madison,"Stockbridge 1,2",State Assembly,121,DEM,Voids,0
+Madison,"Sullivan 1,2,6,8,10",State Assembly,121,DEM,Voids,0
+Madison,"Sullivan 3,4,5,7,9,11",State Assembly,121,DEM,Voids,0
+Madison,Early Voting,State Assembly,121,DEM,Voids,0
+Madison,Brookfield 1-3,Registered Voters,,REP,,581
+Madison,Cazenovia 1-6,Registered Voters,,REP,,1879
+Madison,DeRuyter 1,Registered Voters,,REP,,437
+Madison,"Eaton 1,2",Registered Voters,,REP,,758
+Madison,Fenner 1,Registered Voters,,REP,,480
+Madison,Georgetown 1,Registered Voters,,REP,,183
+Madison,Hamilton 1-4,Registered Voters,,REP,,723
+Madison,"Lebanon 1,2",Registered Voters,,REP,,335
+Madison,Lenox 1-6,Registered Voters,,REP,,2105
+Madison,"Lincoln 1,2",Registered Voters,,REP,,556
+Madison,"Madison 1,2",Registered Voters,,REP,,759
+Madison,"Nelson 1,2",Registered Voters,,REP,,552
+Madison,Oneida Wards 1-6,Registered Voters,,REP,,2032
+Madison,Smithfield 1,Registered Voters,,REP,,320
+Madison,"Stockbridge 1,2",Registered Voters,,REP,,497
+Madison,"Sullivan 1,2,6,8,10",Registered Voters,,REP,,1984
+Madison,"Sullivan 3,4,5,7,9,11",Registered Voters,,REP,,1885
+Madison,Brookfield 1-3,U.S. House,22,REP,Claudia Tenney,63
+Madison,Cazenovia 1-6,U.S. House,22,REP,Claudia Tenney,227
+Madison,DeRuyter 1,U.S. House,22,REP,Claudia Tenney,51
+Madison,"Eaton 1,2",U.S. House,22,REP,Claudia Tenney,102
+Madison,Fenner 1,U.S. House,22,REP,Claudia Tenney,49
+Madison,Georgetown 1,U.S. House,22,REP,Claudia Tenney,22
+Madison,Hamilton 1-4,U.S. House,22,REP,Claudia Tenney,97
+Madison,"Lebanon 1,2",U.S. House,22,REP,Claudia Tenney,47
+Madison,Lenox 1-6,U.S. House,22,REP,Claudia Tenney,317
+Madison,"Lincoln 1,2",U.S. House,22,REP,Claudia Tenney,78
+Madison,"Madison 1,2",U.S. House,22,REP,Claudia Tenney,101
+Madison,"Nelson 1,2",U.S. House,22,REP,Claudia Tenney,67
+Madison,Oneida Wards 1-6,U.S. House,22,REP,Claudia Tenney,284
+Madison,Smithfield 1,U.S. House,22,REP,Claudia Tenney,35
+Madison,"Stockbridge 1,2",U.S. House,22,REP,Claudia Tenney,67
+Madison,"Sullivan 1,2,6,8,10",U.S. House,22,REP,Claudia Tenney,265
+Madison,"Sullivan 3,4,5,7,9,11",U.S. House,22,REP,Claudia Tenney,230
+Madison,Early Voting,U.S. House,22,REP,Claudia Tenney,56
+Madison,Brookfield 1-3,U.S. House,22,REP,George K. Phillips,28
+Madison,Cazenovia 1-6,U.S. House,22,REP,George K. Phillips,100
+Madison,DeRuyter 1,U.S. House,22,REP,George K. Phillips,22
+Madison,"Eaton 1,2",U.S. House,22,REP,George K. Phillips,47
+Madison,Fenner 1,U.S. House,22,REP,George K. Phillips,19
+Madison,Georgetown 1,U.S. House,22,REP,George K. Phillips,14
+Madison,Hamilton 1-4,U.S. House,22,REP,George K. Phillips,42
+Madison,"Lebanon 1,2",U.S. House,22,REP,George K. Phillips,18
+Madison,Lenox 1-6,U.S. House,22,REP,George K. Phillips,109
+Madison,"Lincoln 1,2",U.S. House,22,REP,George K. Phillips,25
+Madison,"Madison 1,2",U.S. House,22,REP,George K. Phillips,30
+Madison,"Nelson 1,2",U.S. House,22,REP,George K. Phillips,30
+Madison,Oneida Wards 1-6,U.S. House,22,REP,George K. Phillips,107
+Madison,Smithfield 1,U.S. House,22,REP,George K. Phillips,9
+Madison,"Stockbridge 1,2",U.S. House,22,REP,George K. Phillips,28
+Madison,"Sullivan 1,2,6,8,10",U.S. House,22,REP,George K. Phillips,76
+Madison,"Sullivan 3,4,5,7,9,11",U.S. House,22,REP,George K. Phillips,78
+Madison,Early Voting,U.S. House,22,REP,George K. Phillips,23
+Madison,Brookfield 1-3,U.S. House,22,REP,Write-ins,0
+Madison,Cazenovia 1-6,U.S. House,22,REP,Write-ins,1
+Madison,DeRuyter 1,U.S. House,22,REP,Write-ins,0
+Madison,"Eaton 1,2",U.S. House,22,REP,Write-ins,0
+Madison,Fenner 1,U.S. House,22,REP,Write-ins,0
+Madison,Georgetown 1,U.S. House,22,REP,Write-ins,0
+Madison,Hamilton 1-4,U.S. House,22,REP,Write-ins,2
+Madison,"Lebanon 1,2",U.S. House,22,REP,Write-ins,1
+Madison,Lenox 1-6,U.S. House,22,REP,Write-ins,1
+Madison,"Lincoln 1,2",U.S. House,22,REP,Write-ins,0
+Madison,"Madison 1,2",U.S. House,22,REP,Write-ins,3
+Madison,"Nelson 1,2",U.S. House,22,REP,Write-ins,2
+Madison,Oneida Wards 1-6,U.S. House,22,REP,Write-ins,0
+Madison,Smithfield 1,U.S. House,22,REP,Write-ins,0
+Madison,"Stockbridge 1,2",U.S. House,22,REP,Write-ins,0
+Madison,"Sullivan 1,2,6,8,10",U.S. House,22,REP,Write-ins,5
+Madison,"Sullivan 3,4,5,7,9,11",U.S. House,22,REP,Write-ins,2
+Madison,Early Voting,U.S. House,22,REP,Write-ins,0
+Madison,Brookfield 1-3,U.S. House,22,REP,Blanks,0
+Madison,Cazenovia 1-6,U.S. House,22,REP,Blanks,4
+Madison,DeRuyter 1,U.S. House,22,REP,Blanks,1
+Madison,"Eaton 1,2",U.S. House,22,REP,Blanks,0
+Madison,Fenner 1,U.S. House,22,REP,Blanks,0
+Madison,Georgetown 1,U.S. House,22,REP,Blanks,0
+Madison,Hamilton 1-4,U.S. House,22,REP,Blanks,0
+Madison,"Lebanon 1,2",U.S. House,22,REP,Blanks,0
+Madison,Lenox 1-6,U.S. House,22,REP,Blanks,4
+Madison,"Lincoln 1,2",U.S. House,22,REP,Blanks,0
+Madison,"Madison 1,2",U.S. House,22,REP,Blanks,0
+Madison,"Nelson 1,2",U.S. House,22,REP,Blanks,1
+Madison,Oneida Wards 1-6,U.S. House,22,REP,Blanks,4
+Madison,Smithfield 1,U.S. House,22,REP,Blanks,0
+Madison,"Stockbridge 1,2",U.S. House,22,REP,Blanks,1
+Madison,"Sullivan 1,2,6,8,10",U.S. House,22,REP,Blanks,3
+Madison,"Sullivan 3,4,5,7,9,11",U.S. House,22,REP,Blanks,2
+Madison,Early Voting,U.S. House,22,REP,Blanks,0
+Madison,Brookfield 1-3,U.S. House,22,REP,Voids,0
+Madison,Cazenovia 1-6,U.S. House,22,REP,Voids,1
+Madison,DeRuyter 1,U.S. House,22,REP,Voids,0
+Madison,"Eaton 1,2",U.S. House,22,REP,Voids,1
+Madison,Fenner 1,U.S. House,22,REP,Voids,0
+Madison,Georgetown 1,U.S. House,22,REP,Voids,0
+Madison,Hamilton 1-4,U.S. House,22,REP,Voids,0
+Madison,"Lebanon 1,2",U.S. House,22,REP,Voids,0
+Madison,Lenox 1-6,U.S. House,22,REP,Voids,2
+Madison,"Lincoln 1,2",U.S. House,22,REP,Voids,1
+Madison,"Madison 1,2",U.S. House,22,REP,Voids,0
+Madison,"Nelson 1,2",U.S. House,22,REP,Voids,0
+Madison,Oneida Wards 1-6,U.S. House,22,REP,Voids,0
+Madison,Smithfield 1,U.S. House,22,REP,Voids,0
+Madison,"Stockbridge 1,2",U.S. House,22,REP,Voids,0
+Madison,"Sullivan 1,2,6,8,10",U.S. House,22,REP,Voids,1
+Madison,"Sullivan 3,4,5,7,9,11",U.S. House,22,REP,Voids,1
+Madison,Early Voting,U.S. House,22,REP,Voids,0
+Madison,Brookfield 1-3,Ballots Cast,,REP,,91
+Madison,Cazenovia 1-6,Ballots Cast,,REP,,333
+Madison,DeRuyter 1,Ballots Cast,,REP,,74
+Madison,"Eaton 1,2",Ballots Cast,,REP,,150
+Madison,Fenner 1,Ballots Cast,,REP,,68
+Madison,Georgetown 1,Ballots Cast,,REP,,36
+Madison,Hamilton 1-4,Ballots Cast,,REP,,141
+Madison,"Lebanon 1,2",Ballots Cast,,REP,,66
+Madison,Lenox 1-6,Ballots Cast,,REP,,433
+Madison,"Lincoln 1,2",Ballots Cast,,REP,,104
+Madison,"Madison 1,2",Ballots Cast,,REP,,134
+Madison,"Nelson 1,2",Ballots Cast,,REP,,100
+Madison,Oneida Wards 1-6,Ballots Cast,,REP,,395
+Madison,Smithfield 1,Ballots Cast,,REP,,44
+Madison,"Stockbridge 1,2",Ballots Cast,,REP,,96
+Madison,"Sullivan 1,2,6,8,10",Ballots Cast,,REP,,350
+Madison,"Sullivan 3,4,5,7,9,11",Ballots Cast,,REP,,313
+Madison,Early Voting,Ballots Cast,,REP,,79
