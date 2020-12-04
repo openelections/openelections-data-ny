@@ -1,0 +1,647 @@
+﻿county,precinct,office,district,candidate,party,votes,election_day,absentee,early_voting
+Yates,Barrington 1,President,,Joseph R. Biden,DEM,227,93,62,72
+Yates,Benton 1,President,,Joseph R. Biden,DEM,141,54,31,56
+Yates,Benton 2,President,,Joseph R. Biden,DEM,230,68,64,98
+Yates,Italy 1,President,,Joseph R. Biden,DEM,181,89,38,54
+Yates,Jerusalem 1,President,,Joseph R. Biden,DEM,271,68,71,132
+Yates,Jerusalem 2,President,,Joseph R. Biden,DEM,196,66,52,78
+Yates,Jerusalem 3,President,,Joseph R. Biden,DEM,177,65,61,51
+Yates,Jerusalem 4,President,,Joseph R. Biden,DEM,227,53,47,127
+Yates,Middlesex 1,President,,Joseph R. Biden,DEM,251,117,85,49
+Yates,Milo 2,President,,Joseph R. Biden,DEM,323,61,99,163
+Yates,Milo 3,President,,Joseph R. Biden,DEM,242,63,73,106
+Yates,Milo 4,President,,Joseph R. Biden,DEM,108,51,22,35
+Yates,Milo 5,President,,Joseph R. Biden,DEM,298,52,95,151
+Yates,Milo 6,President,,Joseph R. Biden,DEM,263,50,92,121
+Yates,Potter 1,President,,Joseph R. Biden,DEM,191,95,36,60
+Yates,Starkey 1,President,,Joseph R. Biden,DEM,207,97,46,64
+Yates,Starkey 2,President,,Joseph R. Biden,DEM,246,81,86,79
+Yates,Torrey 1,President,,Joseph R. Biden,DEM,230,100,47,83
+Yates,Cumulative,President,,Joseph R. Biden,DEM,5,0,5,0
+Yates,Barrington 1,President,,Donald J. Trump,REP,331,254,33,44
+Yates,Benton 1,President,,Donald J. Trump,REP,277,205,29,43
+Yates,Benton 2,President,,Donald J. Trump,REP,335,247,31,57
+Yates,Italy 1,President,,Donald J. Trump,REP,293,258,20,15
+Yates,Jerusalem 1,President,,Donald J. Trump,REP,280,171,31,78
+Yates,Jerusalem 2,President,,Donald J. Trump,REP,252,181,28,43
+Yates,Jerusalem 3,President,,Donald J. Trump,REP,284,197,34,53
+Yates,Jerusalem 4,President,,Donald J. Trump,REP,255,140,38,77
+Yates,Middlesex 1,President,,Donald J. Trump,REP,420,349,39,32
+Yates,Milo 2,President,,Donald J. Trump,REP,320,160,50,110
+Yates,Milo 3,President,,Donald J. Trump,REP,273,145,35,93
+Yates,Milo 4,President,,Donald J. Trump,REP,216,178,18,20
+Yates,Milo 5,President,,Donald J. Trump,REP,290,139,35,116
+Yates,Milo 6,President,,Donald J. Trump,REP,339,149,55,135
+Yates,Potter 1,President,,Donald J. Trump,REP,414,339,20,55
+Yates,Starkey 1,President,,Donald J. Trump,REP,352,268,35,49
+Yates,Starkey 2,President,,Donald J. Trump,REP,372,281,27,64
+Yates,Torrey 1,President,,Donald J. Trump,REP,306,229,22,55
+Yates,Cumulative,President,,Donald J. Trump,REP,2,0,2,0
+Yates,Barrington 1,President,,Donald J. Trump,CON,36,26,5,5
+Yates,Benton 1,President,,Donald J. Trump,CON,32,26,2,4
+Yates,Benton 2,President,,Donald J. Trump,CON,28,16,1,11
+Yates,Italy 1,President,,Donald J. Trump,CON,32,30,1,1
+Yates,Jerusalem 1,President,,Donald J. Trump,CON,29,18,4,7
+Yates,Jerusalem 2,President,,Donald J. Trump,CON,21,16,4,1
+Yates,Jerusalem 3,President,,Donald J. Trump,CON,32,21,3,8
+Yates,Jerusalem 4,President,,Donald J. Trump,CON,24,16,3,5
+Yates,Middlesex 1,President,,Donald J. Trump,CON,63,60,2,1
+Yates,Milo 2,President,,Donald J. Trump,CON,36,11,6,19
+Yates,Milo 3,President,,Donald J. Trump,CON,28,21,2,5
+Yates,Milo 4,President,,Donald J. Trump,CON,26,23,1,2
+Yates,Milo 5,President,,Donald J. Trump,CON,26,13,3,10
+Yates,Milo 6,President,,Donald J. Trump,CON,44,25,6,13
+Yates,Potter 1,President,,Donald J. Trump,CON,49,35,9,5
+Yates,Starkey 1,President,,Donald J. Trump,CON,28,21,4,3
+Yates,Starkey 2,President,,Donald J. Trump,CON,33,25,4,4
+Yates,Torrey 1,President,,Donald J. Trump,CON,30,21,6,3
+Yates,Cumulative,President,,Donald J. Trump,CON,0,0,0,0
+Yates,Barrington 1,President,,Joseph R. Biden,WOR,8,2,3,3
+Yates,Benton 1,President,,Joseph R. Biden,WOR,5,3,1,1
+Yates,Benton 2,President,,Joseph R. Biden,WOR,15,4,4,7
+Yates,Italy 1,President,,Joseph R. Biden,WOR,16,9,3,4
+Yates,Jerusalem 1,President,,Joseph R. Biden,WOR,9,2,3,4
+Yates,Jerusalem 2,President,,Joseph R. Biden,WOR,19,6,6,7
+Yates,Jerusalem 3,President,,Joseph R. Biden,WOR,9,4,0,5
+Yates,Jerusalem 4,President,,Joseph R. Biden,WOR,8,3,1,4
+Yates,Middlesex 1,President,,Joseph R. Biden,WOR,19,9,5,5
+Yates,Milo 2,President,,Joseph R. Biden,WOR,17,7,4,6
+Yates,Milo 3,President,,Joseph R. Biden,WOR,14,3,3,8
+Yates,Milo 4,President,,Joseph R. Biden,WOR,7,4,0,3
+Yates,Milo 5,President,,Joseph R. Biden,WOR,10,0,4,6
+Yates,Milo 6,President,,Joseph R. Biden,WOR,6,4,0,2
+Yates,Potter 1,President,,Joseph R. Biden,WOR,7,3,3,1
+Yates,Starkey 1,President,,Joseph R. Biden,WOR,14,3,4,7
+Yates,Starkey 2,President,,Joseph R. Biden,WOR,13,6,1,6
+Yates,Torrey 1,President,,Joseph R. Biden,WOR,9,4,2,3
+Yates,Cumulative,President,,Joseph R. Biden,WOR,0,0,0,0
+Yates,Barrington 1,President,,Howie Hawkins,GRN,0,0,0,0
+Yates,Benton 1,President,,Howie Hawkins,GRN,3,3,0,0
+Yates,Benton 2,President,,Howie Hawkins,GRN,2,1,0,1
+Yates,Italy 1,President,,Howie Hawkins,GRN,2,2,0,0
+Yates,Jerusalem 1,President,,Howie Hawkins,GRN,5,0,5,0
+Yates,Jerusalem 2,President,,Howie Hawkins,GRN,1,1,0,0
+Yates,Jerusalem 3,President,,Howie Hawkins,GRN,3,3,0,0
+Yates,Jerusalem 4,President,,Howie Hawkins,GRN,3,3,0,0
+Yates,Middlesex 1,President,,Howie Hawkins,GRN,4,2,1,1
+Yates,Milo 2,President,,Howie Hawkins,GRN,3,1,0,2
+Yates,Milo 3,President,,Howie Hawkins,GRN,5,3,1,1
+Yates,Milo 4,President,,Howie Hawkins,GRN,0,0,0,0
+Yates,Milo 5,President,,Howie Hawkins,GRN,4,2,1,1
+Yates,Milo 6,President,,Howie Hawkins,GRN,0,0,0,0
+Yates,Potter 1,President,,Howie Hawkins,GRN,1,1,0,0
+Yates,Starkey 1,President,,Howie Hawkins,GRN,1,0,0,1
+Yates,Starkey 2,President,,Howie Hawkins,GRN,1,1,0,0
+Yates,Torrey 1,President,,Howie Hawkins,GRN,2,2,0,0
+Yates,Cumulative,President,,Howie Hawkins,GRN,0,0,0,0
+Yates,Barrington 1,President,,Jo Jorgensen,LBT,15,9,3,3
+Yates,Benton 1,President,,Jo Jorgensen,LBT,8,8,0,0
+Yates,Benton 2,President,,Jo Jorgensen,LBT,5,2,2,1
+Yates,Italy 1,President,,Jo Jorgensen,LBT,5,4,1,0
+Yates,Jerusalem 1,President,,Jo Jorgensen,LBT,5,4,1,0
+Yates,Jerusalem 2,President,,Jo Jorgensen,LBT,12,9,1,2
+Yates,Jerusalem 3,President,,Jo Jorgensen,LBT,8,6,1,1
+Yates,Jerusalem 4,President,,Jo Jorgensen,LBT,9,7,0,2
+Yates,Middlesex 1,President,,Jo Jorgensen,LBT,8,5,0,3
+Yates,Milo 2,President,,Jo Jorgensen,LBT,13,6,0,7
+Yates,Milo 3,President,,Jo Jorgensen,LBT,9,4,0,5
+Yates,Milo 4,President,,Jo Jorgensen,LBT,11,9,1,1
+Yates,Milo 5,President,,Jo Jorgensen,LBT,11,5,1,5
+Yates,Milo 6,President,,Jo Jorgensen,LBT,4,4,0,0
+Yates,Potter 1,President,,Jo Jorgensen,LBT,13,9,4,0
+Yates,Starkey 1,President,,Jo Jorgensen,LBT,13,8,4,1
+Yates,Starkey 2,President,,Jo Jorgensen,LBT,14,12,2,0
+Yates,Torrey 1,President,,Jo Jorgensen,LBT,2,1,0,1
+Yates,Cumulative,President,,Jo Jorgensen,LBT,0,0,0,0
+Yates,Barrington 1,President,,Brock Pierce,IND,3,2,0,1
+Yates,Benton 1,President,,Brock Pierce,IND,4,3,1,0
+Yates,Benton 2,President,,Brock Pierce,IND,1,1,0,0
+Yates,Italy 1,President,,Brock Pierce,IND,3,2,1,0
+Yates,Jerusalem 1,President,,Brock Pierce,IND,3,2,1,0
+Yates,Jerusalem 2,President,,Brock Pierce,IND,1,0,1,0
+Yates,Jerusalem 3,President,,Brock Pierce,IND,0,0,0,0
+Yates,Jerusalem 4,President,,Brock Pierce,IND,6,5,1,0
+Yates,Middlesex 1,President,,Brock Pierce,IND,4,4,0,0
+Yates,Milo 2,President,,Brock Pierce,IND,4,2,2,0
+Yates,Milo 3,President,,Brock Pierce,IND,7,4,0,3
+Yates,Milo 4,President,,Brock Pierce,IND,5,5,0,0
+Yates,Milo 5,President,,Brock Pierce,IND,3,1,1,1
+Yates,Milo 6,President,,Brock Pierce,IND,1,0,1,0
+Yates,Potter 1,President,,Brock Pierce,IND,1,0,1,0
+Yates,Starkey 1,President,,Brock Pierce,IND,4,3,1,0
+Yates,Starkey 2,President,,Brock Pierce,IND,5,2,3,0
+Yates,Torrey 1,President,,Brock Pierce,IND,4,3,0,1
+Yates,Cumulative,President,,Brock Pierce,IND,0,0,0,0
+Yates,Barrington 1,President,,Write-ins,,1,0,0,1
+Yates,Benton 1,President,,Write-ins,,0,0,0,0
+Yates,Benton 2,President,,Write-ins,,0,0,0,0
+Yates,Italy 1,President,,Write-ins,,0,0,0,0
+Yates,Jerusalem 1,President,,Write-ins,,0,0,0,0
+Yates,Jerusalem 2,President,,Write-ins,,4,1,0,3
+Yates,Jerusalem 3,President,,Write-ins,,4,1,2,1
+Yates,Jerusalem 4,President,,Write-ins,,0,0,0,0
+Yates,Middlesex 1,President,,Write-ins,,1,0,0,1
+Yates,Milo 2,President,,Write-ins,,8,7,1,0
+Yates,Milo 3,President,,Write-ins,,3,2,1,0
+Yates,Milo 4,President,,Write-ins,,0,0,0,0
+Yates,Milo 5,President,,Write-ins,,1,1,0,0
+Yates,Milo 6,President,,Write-ins,,2,0,1,1
+Yates,Potter 1,President,,Write-ins,,0,0,0,0
+Yates,Starkey 1,President,,Write-ins,,3,3,0,0
+Yates,Starkey 2,President,,Write-ins,,0,0,0,0
+Yates,Torrey 1,President,,Write-ins,,0,0,0,0
+Yates,Cumulative,President,,Write-ins,,8,4,2,2
+Yates,Barrington 1,President,,Under Votes,,3,1,2,0
+Yates,Benton 1,President,,Under Votes,,3,2,1,0
+Yates,Benton 2,President,,Under Votes,,1,0,0,1
+Yates,Italy 1,President,,Under Votes,,2,1,1,0
+Yates,Jerusalem 1,President,,Under Votes,,6,5,1,0
+Yates,Jerusalem 2,President,,Under Votes,,3,2,1,0
+Yates,Jerusalem 3,President,,Under Votes,,3,2,0,1
+Yates,Jerusalem 4,President,,Under Votes,,2,1,1,0
+Yates,Middlesex 1,President,,Under Votes,,7,6,1,0
+Yates,Milo 2,President,,Under Votes,,3,0,1,2
+Yates,Milo 3,President,,Under Votes,,5,0,2,3
+Yates,Milo 4,President,,Under Votes,,4,4,0,0
+Yates,Milo 5,President,,Under Votes,,3,1,0,2
+Yates,Milo 6,President,,Under Votes,,3,2,0,1
+Yates,Potter 1,President,,Under Votes,,2,2,0,0
+Yates,Starkey 1,President,,Under Votes,,0,0,0,0
+Yates,Starkey 2,President,,Under Votes,,3,2,0,1
+Yates,Torrey 1,President,,Under Votes,,2,2,0,0
+Yates,Cumulative,President,,Under Votes,,0,0,0,0
+Yates,Barrington 1,President,,Over Votes,,1,1,0,0
+Yates,Benton 1,President,,Over Votes,,0,0,0,0
+Yates,Benton 2,President,,Over Votes,,0,0,0,0
+Yates,Italy 1,President,,Over Votes,,1,0,1,0
+Yates,Jerusalem 1,President,,Over Votes,,0,0,0,0
+Yates,Jerusalem 2,President,,Over Votes,,1,0,0,1
+Yates,Jerusalem 3,President,,Over Votes,,0,0,0,0
+Yates,Jerusalem 4,President,,Over Votes,,1,0,0,1
+Yates,Middlesex 1,President,,Over Votes,,0,0,0,0
+Yates,Milo 2,President,,Over Votes,,2,0,1,1
+Yates,Milo 3,President,,Over Votes,,1,1,0,0
+Yates,Milo 4,President,,Over Votes,,1,0,0,1
+Yates,Milo 5,President,,Over Votes,,1,0,0,1
+Yates,Milo 6,President,,Over Votes,,0,0,0,0
+Yates,Potter 1,President,,Over Votes,,0,0,0,0
+Yates,Starkey 1,President,,Over Votes,,0,0,0,0
+Yates,Starkey 2,President,,Over Votes,,1,1,0,0
+Yates,Torrey 1,President,,Over Votes,,0,0,0,0
+Yates,Cumulative,President,,Over Votes,,0,0,0,0
+Yates,Barrington 1,U.S. House,23,Tracy Mitrano,DEM,204,81,55,68
+Yates,Benton 1,U.S. House,23,Tracy Mitrano,DEM,126,50,24,52
+Yates,Benton 2,U.S. House,23,Tracy Mitrano,DEM,205,62,54,89
+Yates,Italy 1,U.S. House,23,Tracy Mitrano,DEM,151,71,32,48
+Yates,Jerusalem 1,U.S. House,23,Tracy Mitrano,DEM,248,54,64,130
+Yates,Jerusalem 2,U.S. House,23,Tracy Mitrano,DEM,169,56,40,73
+Yates,Jerusalem 3,U.S. House,23,Tracy Mitrano,DEM,174,69,54,51
+Yates,Jerusalem 4,U.S. House,23,Tracy Mitrano,DEM,203,45,42,116
+Yates,Middlesex 1,U.S. House,23,Tracy Mitrano,DEM,224,105,74,45
+Yates,Milo 2,U.S. House,23,Tracy Mitrano,DEM,291,60,81,150
+Yates,Milo 3,U.S. House,23,Tracy Mitrano,DEM,228,68,64,96
+Yates,Milo 4,U.S. House,23,Tracy Mitrano,DEM,102,45,23,34
+Yates,Milo 5,U.S. House,23,Tracy Mitrano,DEM,275,46,89,140
+Yates,Milo 6,U.S. House,23,Tracy Mitrano,DEM,236,42,84,110
+Yates,Potter 1,U.S. House,23,Tracy Mitrano,DEM,158,81,24,53
+Yates,Starkey 1,U.S. House,23,Tracy Mitrano,DEM,190,85,40,65
+Yates,Starkey 2,U.S. House,23,Tracy Mitrano,DEM,224,75,80,69
+Yates,Torrey 1,U.S. House,23,Tracy Mitrano,DEM,209,88,44,77
+Yates,Cumulative,U.S. House,23,Tracy Mitrano,DEM,4,0,4,0
+Yates,Barrington 1,U.S. House,23,Tom Reed,REP,339,258,36,45
+Yates,Benton 1,U.S. House,23,Tom Reed,REP,277,208,30,39
+Yates,Benton 2,U.S. House,23,Tom Reed,REP,330,233,35,62
+Yates,Italy 1,U.S. House,23,Tom Reed,REP,294,252,24,18
+Yates,Jerusalem 1,U.S. House,23,Tom Reed,REP,291,184,33,74
+Yates,Jerusalem 2,U.S. House,23,Tom Reed,REP,262,172,40,50
+Yates,Jerusalem 3,U.S. House,23,Tom Reed,REP,280,188,36,56
+Yates,Jerusalem 4,U.S. House,23,Tom Reed,REP,270,148,41,81
+Yates,Middlesex 1,U.S. House,23,Tom Reed,REP,417,344,38,35
+Yates,Milo 2,U.S. House,23,Tom Reed,REP,328,156,56,116
+Yates,Milo 3,U.S. House,23,Tom Reed,REP,269,135,41,93
+Yates,Milo 4,U.S. House,23,Tom Reed,REP,221,182,18,21
+Yates,Milo 5,U.S. House,23,Tom Reed,REP,288,135,34,119
+Yates,Milo 6,U.S. House,23,Tom Reed,REP,347,153,53,141
+Yates,Potter 1,U.S. House,23,Tom Reed,REP,423,338,28,57
+Yates,Starkey 1,U.S. House,23,Tom Reed,REP,352,267,39,46
+Yates,Starkey 2,U.S. House,23,Tom Reed,REP,382,281,33,68
+Yates,Torrey 1,U.S. House,23,Tom Reed,REP,304,222,23,59
+Yates,Cumulative,U.S. House,23,Tom Reed,REP,2,0,2,0
+Yates,Barrington 1,U.S. House,23,Tom Reed,CON,39,28,4,7
+Yates,Benton 1,U.S. House,23,Tom Reed,CON,33,24,2,7
+Yates,Benton 2,U.S. House,23,Tom Reed,CON,32,19,1,12
+Yates,Italy 1,U.S. House,23,Tom Reed,CON,37,34,2,1
+Yates,Jerusalem 1,U.S. House,23,Tom Reed,CON,35,19,6,10
+Yates,Jerusalem 2,U.S. House,23,Tom Reed,CON,29,23,5,1
+Yates,Jerusalem 3,U.S. House,23,Tom Reed,CON,36,23,5,8
+Yates,Jerusalem 4,U.S. House,23,Tom Reed,CON,23,17,1,5
+Yates,Middlesex 1,U.S. House,23,Tom Reed,CON,64,60,3,1
+Yates,Milo 2,U.S. House,23,Tom Reed,CON,44,16,7,21
+Yates,Milo 3,U.S. House,23,Tom Reed,CON,29,21,1,7
+Yates,Milo 4,U.S. House,23,Tom Reed,CON,28,26,1,1
+Yates,Milo 5,U.S. House,23,Tom Reed,CON,35,18,4,13
+Yates,Milo 6,U.S. House,23,Tom Reed,CON,40,22,8,10
+Yates,Potter 1,U.S. House,23,Tom Reed,CON,50,35,9,6
+Yates,Starkey 1,U.S. House,23,Tom Reed,CON,27,20,5,2
+Yates,Starkey 2,U.S. House,23,Tom Reed,CON,30,22,4,4
+Yates,Torrey 1,U.S. House,23,Tom Reed,CON,34,25,6,3
+Yates,Cumulative,U.S. House,23,Tom Reed,CON,0,0,0,0
+Yates,Barrington 1,U.S. House,23,Tracy Mitrano,WOR,13,4,4,5
+Yates,Benton 1,U.S. House,23,Tracy Mitrano,WOR,9,5,2,2
+Yates,Benton 2,U.S. House,23,Tracy Mitrano,WOR,17,8,4,5
+Yates,Italy 1,U.S. House,23,Tracy Mitrano,WOR,19,11,3,5
+Yates,Jerusalem 1,U.S. House,23,Tracy Mitrano,WOR,11,4,4,3
+Yates,Jerusalem 2,U.S. House,23,Tracy Mitrano,WOR,22,12,4,6
+Yates,Jerusalem 3,U.S. House,23,Tracy Mitrano,WOR,11,8,1,2
+Yates,Jerusalem 4,U.S. House,23,Tracy Mitrano,WOR,17,8,2,7
+Yates,Middlesex 1,U.S. House,23,Tracy Mitrano,WOR,28,14,6,8
+Yates,Milo 2,U.S. House,23,Tracy Mitrano,WOR,27,14,4,9
+Yates,Milo 3,U.S. House,23,Tracy Mitrano,WOR,28,9,5,14
+Yates,Milo 4,U.S. House,23,Tracy Mitrano,WOR,12,9,0,3
+Yates,Milo 5,U.S. House,23,Tracy Mitrano,WOR,21,5,7,9
+Yates,Milo 6,U.S. House,23,Tracy Mitrano,WOR,15,6,2,7
+Yates,Potter 1,U.S. House,23,Tracy Mitrano,WOR,17,11,4,2
+Yates,Starkey 1,U.S. House,23,Tracy Mitrano,WOR,23,11,4,8
+Yates,Starkey 2,U.S. House,23,Tracy Mitrano,WOR,23,14,0,9
+Yates,Torrey 1,U.S. House,23,Tracy Mitrano,WOR,9,4,3,2
+Yates,Cumulative,U.S. House,23,Tracy Mitrano,WOR,0,0,0,0
+Yates,Barrington 1,U.S. House,23,Andrew M Kolstee,LBT,6,5,0,1
+Yates,Benton 1,U.S. House,23,Andrew M Kolstee,LBT,4,3,1,0
+Yates,Benton 2,U.S. House,23,Andrew M Kolstee,LBT,1,0,1,0
+Yates,Italy 1,U.S. House,23,Andrew M Kolstee,LBT,3,1,2,0
+Yates,Jerusalem 1,U.S. House,23,Andrew M Kolstee,LBT,3,0,3,0
+Yates,Jerusalem 2,U.S. House,23,Andrew M Kolstee,LBT,6,2,2,2
+Yates,Jerusalem 3,U.S. House,23,Andrew M Kolstee,LBT,3,3,0,0
+Yates,Jerusalem 4,U.S. House,23,Andrew M Kolstee,LBT,2,2,0,0
+Yates,Middlesex 1,U.S. House,23,Andrew M Kolstee,LBT,4,2,1,1
+Yates,Milo 2,U.S. House,23,Andrew M Kolstee,LBT,7,4,1,2
+Yates,Milo 3,U.S. House,23,Andrew M Kolstee,LBT,6,5,0,1
+Yates,Milo 4,U.S. House,23,Andrew M Kolstee,LBT,2,2,0,0
+Yates,Milo 5,U.S. House,23,Andrew M Kolstee,LBT,8,4,1,3
+Yates,Milo 6,U.S. House,23,Andrew M Kolstee,LBT,1,1,0,0
+Yates,Potter 1,U.S. House,23,Andrew M Kolstee,LBT,4,3,1,0
+Yates,Starkey 1,U.S. House,23,Andrew M Kolstee,LBT,2,1,1,0
+Yates,Starkey 2,U.S. House,23,Andrew M Kolstee,LBT,4,3,0,1
+Yates,Torrey 1,U.S. House,23,Andrew M Kolstee,LBT,3,3,0,0
+Yates,Cumulative,U.S. House,23,Andrew M Kolstee,LBT,0,0,0,0
+Yates,Barrington 1,U.S. House,23,Tom Reed,IND,5,2,3,0
+Yates,Benton 1,U.S. House,23,Tom Reed,IND,6,5,1,0
+Yates,Benton 2,U.S. House,23,Tom Reed,IND,5,4,1,0
+Yates,Italy 1,U.S. House,23,Tom Reed,IND,6,5,0,1
+Yates,Jerusalem 1,U.S. House,23,Tom Reed,IND,4,2,1,1
+Yates,Jerusalem 2,U.S. House,23,Tom Reed,IND,4,3,0,1
+Yates,Jerusalem 3,U.S. House,23,Tom Reed,IND,3,1,0,2
+Yates,Jerusalem 4,U.S. House,23,Tom Reed,IND,5,2,1,2
+Yates,Middlesex 1,U.S. House,23,Tom Reed,IND,10,8,2,0
+Yates,Milo 2,U.S. House,23,Tom Reed,IND,4,1,1,2
+Yates,Milo 3,U.S. House,23,Tom Reed,IND,6,3,0,3
+Yates,Milo 4,U.S. House,23,Tom Reed,IND,3,3,0,0
+Yates,Milo 5,U.S. House,23,Tom Reed,IND,2,0,1,1
+Yates,Milo 6,U.S. House,23,Tom Reed,IND,7,4,3,0
+Yates,Potter 1,U.S. House,23,Tom Reed,IND,8,5,3,0
+Yates,Starkey 1,U.S. House,23,Tom Reed,IND,9,8,1,0
+Yates,Starkey 2,U.S. House,23,Tom Reed,IND,8,7,1,0
+Yates,Torrey 1,U.S. House,23,Tom Reed,IND,3,3,0,0
+Yates,Cumulative,U.S. House,23,Tom Reed,IND,0,0,0,0
+Yates,Barrington 1,U.S. House,23,Write-ins,,0,0,0,0
+Yates,Benton 1,U.S. House,23,Write-ins,,0,0,0,0
+Yates,Benton 2,U.S. House,23,Write-ins,,0,0,0,0
+Yates,Italy 1,U.S. House,23,Write-ins,,0,0,0,0
+Yates,Jerusalem 1,U.S. House,23,Write-ins,,0,0,0,0
+Yates,Jerusalem 2,U.S. House,23,Write-ins,,1,1,0,0
+Yates,Jerusalem 3,U.S. House,23,Write-ins,,0,0,0,0
+Yates,Jerusalem 4,U.S. House,23,Write-ins,,0,0,0,0
+Yates,Middlesex 1,U.S. House,23,Write-ins,,0,0,0,0
+Yates,Milo 2,U.S. House,23,Write-ins,,1,0,1,0
+Yates,Milo 3,U.S. House,23,Write-ins,,0,0,0,0
+Yates,Milo 4,U.S. House,23,Write-ins,,0,0,0,0
+Yates,Milo 5,U.S. House,23,Write-ins,,0,0,0,0
+Yates,Milo 6,U.S. House,23,Write-ins,,0,0,0,0
+Yates,Potter 1,U.S. House,23,Write-ins,,0,0,0,0
+Yates,Starkey 1,U.S. House,23,Write-ins,,0,0,0,0
+Yates,Starkey 2,U.S. House,23,Write-ins,,1,1,0,0
+Yates,Torrey 1,U.S. House,23,Write-ins,,0,0,0,0
+Yates,Cumulative,U.S. House,23,Write-ins,,3,2,1,0
+Yates,Barrington 1,U.S. House,23,Under Votes,,19,10,6,3
+Yates,Benton 1,U.S. House,23,Under Votes,,18,9,5,4
+Yates,Benton 2,U.S. House,23,Under Votes,,26,13,5,8
+Yates,Italy 1,U.S. House,23,Under Votes,,25,23,2,0
+Yates,Jerusalem 1,U.S. House,23,Under Votes,,16,7,6,3
+Yates,Jerusalem 2,U.S. House,23,Under Votes,,16,13,2,1
+Yates,Jerusalem 3,U.S. House,23,Under Votes,,13,7,5,1
+Yates,Jerusalem 4,U.S. House,23,Under Votes,,15,6,4,5
+Yates,Middlesex 1,U.S. House,23,Under Votes,,31,20,9,2
+Yates,Milo 2,U.S. House,23,Under Votes,,27,5,12,10
+Yates,Milo 3,U.S. House,23,Under Votes,,19,5,5,9
+Yates,Milo 4,U.S. House,23,Under Votes,,9,7,0,2
+Yates,Milo 5,U.S. House,23,Under Votes,,19,7,4,8
+Yates,Milo 6,U.S. House,23,Under Votes,,16,6,5,5
+Yates,Potter 1,U.S. House,23,Under Votes,,18,11,4,3
+Yates,Starkey 1,U.S. House,23,Under Votes,,18,10,4,4
+Yates,Starkey 2,U.S. House,23,Under Votes,,16,8,5,3
+Yates,Torrey 1,U.S. House,23,Under Votes,,23,17,1,5
+Yates,Cumulative,U.S. House,23,Under Votes,,1,0,1,0
+Yates,Barrington 1,U.S. House,23,Over Votes,,0,0,0,0
+Yates,Benton 1,U.S. House,23,Over Votes,,0,0,0,0
+Yates,Benton 2,U.S. House,23,Over Votes,,1,0,1,0
+Yates,Italy 1,U.S. House,23,Over Votes,,2,0,1,1
+Yates,Jerusalem 1,U.S. House,23,Over Votes,,0,0,0,0
+Yates,Jerusalem 2,U.S. House,23,Over Votes,,1,0,0,1
+Yates,Jerusalem 3,U.S. House,23,Over Votes,,0,0,0,0
+Yates,Jerusalem 4,U.S. House,23,Over Votes,,0,0,0,0
+Yates,Middlesex 1,U.S. House,23,Over Votes,,0,0,0,0
+Yates,Milo 2,U.S. House,23,Over Votes,,1,0,1,0
+Yates,Milo 3,U.S. House,23,Over Votes,,2,0,1,1
+Yates,Milo 4,U.S. House,23,Over Votes,,1,0,0,1
+Yates,Milo 5,U.S. House,23,Over Votes,,0,0,0,0
+Yates,Milo 6,U.S. House,23,Over Votes,,0,0,0,0
+Yates,Potter 1,U.S. House,23,Over Votes,,0,0,0,0
+Yates,Starkey 1,U.S. House,23,Over Votes,,1,1,0,0
+Yates,Starkey 2,U.S. House,23,Over Votes,,0,0,0,0
+Yates,Torrey 1,U.S. House,23,Over Votes,,0,0,0,0
+Yates,Cumulative,U.S. House,23,Over Votes,,0,0,0,0
+Yates,Barrington 1,State Senate,58,Leslie Danks Burke,DEM,183,74,46,63
+Yates,Benton 1,State Senate,58,Leslie Danks Burke,DEM,104,35,24,45
+Yates,Benton 2,State Senate,58,Leslie Danks Burke,DEM,180,51,49,80
+Yates,Italy 1,State Senate,58,Leslie Danks Burke,DEM,147,69,31,47
+Yates,Jerusalem 1,State Senate,58,Leslie Danks Burke,DEM,230,50,58,122
+Yates,Jerusalem 2,State Senate,58,Leslie Danks Burke,DEM,162,54,40,68
+Yates,Jerusalem 3,State Senate,58,Leslie Danks Burke,DEM,152,59,49,44
+Yates,Jerusalem 4,State Senate,58,Leslie Danks Burke,DEM,183,40,39,104
+Yates,Middlesex 1,State Senate,58,Leslie Danks Burke,DEM,211,99,66,46
+Yates,Milo 2,State Senate,58,Leslie Danks Burke,DEM,274,53,76,145
+Yates,Milo 3,State Senate,58,Leslie Danks Burke,DEM,204,59,57,88
+Yates,Milo 4,State Senate,58,Leslie Danks Burke,DEM,92,40,21,31
+Yates,Milo 5,State Senate,58,Leslie Danks Burke,DEM,245,41,82,122
+Yates,Milo 6,State Senate,58,Leslie Danks Burke,DEM,205,37,71,97
+Yates,Potter 1,State Senate,58,Leslie Danks Burke,DEM,143,74,21,48
+Yates,Starkey 1,State Senate,58,Leslie Danks Burke,DEM,167,79,33,55
+Yates,Starkey 2,State Senate,58,Leslie Danks Burke,DEM,211,75,71,65
+Yates,Torrey 1,State Senate,58,Leslie Danks Burke,DEM,186,79,35,72
+Yates,Cumulative,State Senate,58,Leslie Danks Burke,DEM,1,0,1,0
+Yates,Barrington 1,State Senate,58,Thomas F O'Mara,REP,350,258,42,50
+Yates,Benton 1,State Senate,58,Thomas F O'Mara,REP,285,215,30,40
+Yates,Benton 2,State Senate,58,Thomas F O'Mara,REP,343,240,35,68
+Yates,Italy 1,State Senate,58,Thomas F O'Mara,REP,284,245,22,17
+Yates,Jerusalem 1,State Senate,58,Thomas F O'Mara,REP,294,180,36,78
+Yates,Jerusalem 2,State Senate,58,Thomas F O'Mara,REP,256,165,38,53
+Yates,Jerusalem 3,State Senate,58,Thomas F O'Mara,REP,285,190,38,57
+Yates,Jerusalem 4,State Senate,58,Thomas F O'Mara,REP,280,150,44,86
+Yates,Middlesex 1,State Senate,58,Thomas F O'Mara,REP,412,334,43,35
+Yates,Milo 2,State Senate,58,Thomas F O'Mara,REP,340,158,61,121
+Yates,Milo 3,State Senate,58,Thomas F O'Mara,REP,282,139,44,99
+Yates,Milo 4,State Senate,58,Thomas F O'Mara,REP,224,183,17,24
+Yates,Milo 5,State Senate,58,Thomas F O'Mara,REP,289,128,37,124
+Yates,Milo 6,State Senate,58,Thomas F O'Mara,REP,358,147,62,149
+Yates,Potter 1,State Senate,58,Thomas F O'Mara,REP,421,336,25,60
+Yates,Starkey 1,State Senate,58,Thomas F O'Mara,REP,361,269,41,51
+Yates,Starkey 2,State Senate,58,Thomas F O'Mara,REP,382,276,39,67
+Yates,Torrey 1,State Senate,58,Thomas F O'Mara,REP,308,219,26,63
+Yates,Cumulative,State Senate,58,Thomas F O'Mara,REP,0,0,0,0
+Yates,Barrington 1,State Senate,58,Thomas F O'Mara,CON,41,28,4,9
+Yates,Benton 1,State Senate,58,Thomas F O'Mara,CON,36,28,2,6
+Yates,Benton 2,State Senate,58,Thomas F O'Mara,CON,32,18,3,11
+Yates,Italy 1,State Senate,58,Thomas F O'Mara,CON,37,32,4,1
+Yates,Jerusalem 1,State Senate,58,Thomas F O'Mara,CON,30,17,4,9
+Yates,Jerusalem 2,State Senate,58,Thomas F O'Mara,CON,33,26,5,2
+Yates,Jerusalem 3,State Senate,58,Thomas F O'Mara,CON,36,23,6,7
+Yates,Jerusalem 4,State Senate,58,Thomas F O'Mara,CON,26,20,1,5
+Yates,Middlesex 1,State Senate,58,Thomas F O'Mara,CON,67,61,6,0
+Yates,Milo 2,State Senate,58,Thomas F O'Mara,CON,38,14,5,19
+Yates,Milo 3,State Senate,58,Thomas F O'Mara,CON,34,22,3,9
+Yates,Milo 4,State Senate,58,Thomas F O'Mara,CON,29,25,2,2
+Yates,Milo 5,State Senate,58,Thomas F O'Mara,CON,38,20,3,15
+Yates,Milo 6,State Senate,58,Thomas F O'Mara,CON,48,26,9,13
+Yates,Potter 1,State Senate,58,Thomas F O'Mara,CON,52,39,9,4
+Yates,Starkey 1,State Senate,58,Thomas F O'Mara,CON,36,27,5,4
+Yates,Starkey 2,State Senate,58,Thomas F O'Mara,CON,32,23,3,6
+Yates,Torrey 1,State Senate,58,Thomas F O'Mara,CON,39,31,6,2
+Yates,Cumulative,State Senate,58,Thomas F O'Mara,CON,0,0,0,0
+Yates,Barrington 1,State Senate,58,Leslie Danks Burke,WOR,9,4,3,2
+Yates,Benton 1,State Senate,58,Leslie Danks Burke,WOR,10,5,2,3
+Yates,Benton 2,State Senate,58,Leslie Danks Burke,WOR,13,6,2,5
+Yates,Italy 1,State Senate,58,Leslie Danks Burke,WOR,20,11,3,6
+Yates,Jerusalem 1,State Senate,58,Leslie Danks Burke,WOR,14,6,3,5
+Yates,Jerusalem 2,State Senate,58,Leslie Danks Burke,WOR,21,7,5,9
+Yates,Jerusalem 3,State Senate,58,Leslie Danks Burke,WOR,16,9,1,6
+Yates,Jerusalem 4,State Senate,58,Leslie Danks Burke,WOR,14,7,2,5
+Yates,Middlesex 1,State Senate,58,Leslie Danks Burke,WOR,27,13,6,8
+Yates,Milo 2,State Senate,58,Leslie Danks Burke,WOR,23,13,3,7
+Yates,Milo 3,State Senate,58,Leslie Danks Burke,WOR,23,9,4,10
+Yates,Milo 4,State Senate,58,Leslie Danks Burke,WOR,13,10,0,3
+Yates,Milo 5,State Senate,58,Leslie Danks Burke,WOR,22,8,7,7
+Yates,Milo 6,State Senate,58,Leslie Danks Burke,WOR,13,6,2,5
+Yates,Potter 1,State Senate,58,Leslie Danks Burke,WOR,15,9,4,2
+Yates,Starkey 1,State Senate,58,Leslie Danks Burke,WOR,21,8,5,8
+Yates,Starkey 2,State Senate,58,Leslie Danks Burke,WOR,18,11,0,7
+Yates,Torrey 1,State Senate,58,Leslie Danks Burke,WOR,10,5,3,2
+Yates,Cumulative,State Senate,58,Leslie Danks Burke,WOR,0,0,0,0
+Yates,Barrington 1,State Senate,58,Thomas F O'Mara,IND,10,4,5,1
+Yates,Benton 1,State Senate,58,Thomas F O'Mara,IND,8,6,1,1
+Yates,Benton 2,State Senate,58,Thomas F O'Mara,IND,8,5,2,1
+Yates,Italy 1,State Senate,58,Thomas F O'Mara,IND,7,6,1,0
+Yates,Jerusalem 1,State Senate,58,Thomas F O'Mara,IND,3,2,1,0
+Yates,Jerusalem 2,State Senate,58,Thomas F O'Mara,IND,2,2,0,0
+Yates,Jerusalem 3,State Senate,58,Thomas F O'Mara,IND,5,3,0,2
+Yates,Jerusalem 4,State Senate,58,Thomas F O'Mara,IND,5,3,1,1
+Yates,Middlesex 1,State Senate,58,Thomas F O'Mara,IND,9,8,1,0
+Yates,Milo 2,State Senate,58,Thomas F O'Mara,IND,8,4,0,4
+Yates,Milo 3,State Senate,58,Thomas F O'Mara,IND,9,7,0,2
+Yates,Milo 4,State Senate,58,Thomas F O'Mara,IND,5,5,0,0
+Yates,Milo 5,State Senate,58,Thomas F O'Mara,IND,8,3,1,4
+Yates,Milo 6,State Senate,58,Thomas F O'Mara,IND,10,5,4,1
+Yates,Potter 1,State Senate,58,Thomas F O'Mara,IND,7,4,3,0
+Yates,Starkey 1,State Senate,58,Thomas F O'Mara,IND,7,6,1,0
+Yates,Starkey 2,State Senate,58,Thomas F O'Mara,IND,8,5,2,1
+Yates,Torrey 1,State Senate,58,Thomas F O'Mara,IND,2,2,0,0
+Yates,Cumulative,State Senate,58,Thomas F O'Mara,IND,0,0,0,0
+Yates,Barrington 1,State Senate,58,Leslie Danks Burke,REF,2,1,1,0
+Yates,Benton 1,State Senate,58,Leslie Danks Burke,REF,1,1,0,0
+Yates,Benton 2,State Senate,58,Leslie Danks Burke,REF,1,0,1,0
+Yates,Italy 1,State Senate,58,Leslie Danks Burke,REF,1,1,0,0
+Yates,Jerusalem 1,State Senate,58,Leslie Danks Burke,REF,1,0,1,0
+Yates,Jerusalem 2,State Senate,58,Leslie Danks Burke,REF,2,0,1,1
+Yates,Jerusalem 3,State Senate,58,Leslie Danks Burke,REF,1,1,0,0
+Yates,Jerusalem 4,State Senate,58,Leslie Danks Burke,REF,0,0,0,0
+Yates,Middlesex 1,State Senate,58,Leslie Danks Burke,REF,1,0,0,1
+Yates,Milo 2,State Senate,58,Leslie Danks Burke,REF,3,1,1,1
+Yates,Milo 3,State Senate,58,Leslie Danks Burke,REF,2,0,0,2
+Yates,Milo 4,State Senate,58,Leslie Danks Burke,REF,0,0,0,0
+Yates,Milo 5,State Senate,58,Leslie Danks Burke,REF,2,1,0,1
+Yates,Milo 6,State Senate,58,Leslie Danks Burke,REF,0,0,0,0
+Yates,Potter 1,State Senate,58,Leslie Danks Burke,REF,0,0,0,0
+Yates,Starkey 1,State Senate,58,Leslie Danks Burke,REF,0,0,0,0
+Yates,Starkey 2,State Senate,58,Leslie Danks Burke,REF,1,1,0,0
+Yates,Torrey 1,State Senate,58,Leslie Danks Burke,REF,1,1,0,0
+Yates,Cumulative,State Senate,58,Leslie Danks Burke,REF,0,0,0,0
+Yates,Barrington 1,State Senate,58,Under Votes,,29,19,6,4
+Yates,Benton 1,State Senate,58,Under Votes,,29,14,6,9
+Yates,Benton 2,State Senate,58,Under Votes,,39,19,9,11
+Yates,Italy 1,State Senate,58,Under Votes,,38,33,3,2
+Yates,Jerusalem 1,State Senate,58,Under Votes,,30,15,8,7
+Yates,Jerusalem 2,State Senate,58,Under Votes,,34,28,4,2
+Yates,Jerusalem 3,State Senate,58,Under Votes,,24,14,6,4
+Yates,Jerusalem 4,State Senate,58,Under Votes,,26,8,4,14
+Yates,Middlesex 1,State Senate,58,Under Votes,,49,38,9,2
+Yates,Milo 2,State Senate,58,Under Votes,,40,13,14,13
+Yates,Milo 3,State Senate,58,Under Votes,,30,9,7,14
+Yates,Milo 4,State Senate,58,Under Votes,,12,11,0,1
+Yates,Milo 5,State Senate,58,Under Votes,,41,14,7,20
+Yates,Milo 6,State Senate,58,Under Votes,,26,13,5,8
+Yates,Potter 1,State Senate,58,Under Votes,,38,22,9,7
+Yates,Starkey 1,State Senate,58,Under Votes,,29,14,8,7
+Yates,Starkey 2,State Senate,58,Under Votes,,33,20,5,8
+Yates,Torrey 1,State Senate,58,Under Votes,,37,25,5,7
+Yates,Cumulative,State Senate,58,Under Votes,,0,0,0,0
+Yates,Barrington 1,State Senate,58,Over Votes,,0,0,0,0
+Yates,Benton 1,State Senate,58,Over Votes,,0,0,0,0
+Yates,Benton 2,State Senate,58,Over Votes,,0,0,0,0
+Yates,Italy 1,State Senate,58,Over Votes,,2,0,1,1
+Yates,Jerusalem 1,State Senate,58,Over Votes,,0,0,0,0
+Yates,Jerusalem 2,State Senate,58,Over Votes,,0,0,0,0
+Yates,Jerusalem 3,State Senate,58,Over Votes,,0,0,0,0
+Yates,Jerusalem 4,State Senate,58,Over Votes,,1,0,0,1
+Yates,Middlesex 1,State Senate,58,Over Votes,,0,0,0,0
+Yates,Milo 2,State Senate,58,Over Votes,,2,0,2,0
+Yates,Milo 3,State Senate,58,Over Votes,,2,1,1,0
+Yates,Milo 4,State Senate,58,Over Votes,,1,0,0,1
+Yates,Milo 5,State Senate,58,Over Votes,,0,0,0,0
+Yates,Milo 6,State Senate,58,Over Votes,,0,0,0,0
+Yates,Potter 1,State Senate,58,Over Votes,,0,0,0,0
+Yates,Starkey 1,State Senate,58,Over Votes,,0,0,0,0
+Yates,Starkey 2,State Senate,58,Over Votes,,0,0,0,0
+Yates,Torrey 1,State Senate,58,Over Votes,,0,0,0,0
+Yates,Cumulative,State Senate,58,Over Votes,,0,0,0,0
+Yates,Barrington 1,State Senate,58,Write-ins,,0,0,0,0
+Yates,Benton 1,State Senate,58,Write-ins,,0,0,0,0
+Yates,Benton 2,State Senate,58,Write-ins,,0,0,0,0
+Yates,Italy 1,State Senate,58,Write-ins,,0,0,0,0
+Yates,Jerusalem 1,State Senate,58,Write-ins,,0,0,0,0
+Yates,Jerusalem 2,State Senate,58,Write-ins,,0,0,0,0
+Yates,Jerusalem 3,State Senate,58,Write-ins,,0,0,0,0
+Yates,Jerusalem 4,State Senate,58,Write-ins,,0,0,0,0
+Yates,Middlesex 1,State Senate,58,Write-ins,,0,0,0,0
+Yates,Milo 2,State Senate,58,Write-ins,,0,0,0,0
+Yates,Milo 3,State Senate,58,Write-ins,,0,0,0,0
+Yates,Milo 4,State Senate,58,Write-ins,,0,0,0,0
+Yates,Milo 5,State Senate,58,Write-ins,,0,0,0,0
+Yates,Milo 6,State Senate,58,Write-ins,,0,0,0,0
+Yates,Potter 1,State Senate,58,Write-ins,,0,0,0,0
+Yates,Starkey 1,State Senate,58,Write-ins,,0,0,0,0
+Yates,Starkey 2,State Senate,58,Write-ins,,0,0,0,0
+Yates,Torrey 1,State Senate,58,Write-ins,,0,0,0,0
+Yates,Cumulative,State Senate,58,Write-ins,,0,0,0,0
+Yates,Barrington 1,State Assembly,132,Philip A Palmesano,REP,397,278,62,57
+Yates,Benton 1,State Assembly,132,Philip A Palmesano,REP,302,224,33,45
+Yates,Benton 2,State Assembly,132,Philip A Palmesano,REP,400,253,54,93
+Yates,Italy 1,State Assembly,132,Philip A Palmesano,REP,305,258,28,19
+Yates,Jerusalem 1,State Assembly,132,Philip A Palmesano,REP,332,194,42,96
+Yates,Jerusalem 2,State Assembly,132,Philip A Palmesano,REP,305,187,49,69
+Yates,Jerusalem 3,State Assembly,132,Philip A Palmesano,REP,311,202,45,64
+Yates,Jerusalem 4,State Assembly,132,Philip A Palmesano,REP,310,162,52,96
+Yates,Middlesex 1,State Assembly,132,Philip A Palmesano,REP,447,352,51,44
+Yates,Milo 2,State Assembly,132,Philip A Palmesano,REP,442,179,93,170
+Yates,Milo 3,State Assembly,132,Philip A Palmesano,REP,329,161,58,110
+Yates,Milo 4,State Assembly,132,Philip A Palmesano,REP,243,192,20,31
+Yates,Milo 5,State Assembly,132,Philip A Palmesano,REP,360,157,54,149
+Yates,Milo 6,State Assembly,132,Philip A Palmesano,REP,409,156,84,169
+Yates,Potter 1,State Assembly,132,Philip A Palmesano,REP,459,356,33,70
+Yates,Starkey 1,State Assembly,132,Philip A Palmesano,REP,401,286,54,61
+Yates,Starkey 2,State Assembly,132,Philip A Palmesano,REP,437,305,52,80
+Yates,Torrey 1,State Assembly,132,Philip A Palmesano,REP,355,248,32,75
+Yates,Cumulative,State Assembly,132,Philip A Palmesano,REP,0,0,0,0
+Yates,Barrington 1,State Assembly,132,Philip A Palmesano,CON,50,34,6,10
+Yates,Benton 1,State Assembly,132,Philip A Palmesano,CON,46,29,7,10
+Yates,Benton 2,State Assembly,132,Philip A Palmesano,CON,47,27,5,15
+Yates,Italy 1,State Assembly,132,Philip A Palmesano,CON,40,33,5,2
+Yates,Jerusalem 1,State Assembly,132,Philip A Palmesano,CON,44,20,9,15
+Yates,Jerusalem 2,State Assembly,132,Philip A Palmesano,CON,46,30,8,8
+Yates,Jerusalem 3,State Assembly,132,Philip A Palmesano,CON,42,26,8,8
+Yates,Jerusalem 4,State Assembly,132,Philip A Palmesano,CON,37,27,2,8
+Yates,Middlesex 1,State Assembly,132,Philip A Palmesano,CON,81,67,9,5
+Yates,Milo 2,State Assembly,132,Philip A Palmesano,CON,63,24,10,29
+Yates,Milo 3,State Assembly,132,Philip A Palmesano,CON,50,26,7,17
+Yates,Milo 4,State Assembly,132,Philip A Palmesano,CON,34,29,2,3
+Yates,Milo 5,State Assembly,132,Philip A Palmesano,CON,51,19,9,23
+Yates,Milo 6,State Assembly,132,Philip A Palmesano,CON,64,30,13,21
+Yates,Potter 1,State Assembly,132,Philip A Palmesano,CON,64,47,13,4
+Yates,Starkey 1,State Assembly,132,Philip A Palmesano,CON,39,28,4,7
+Yates,Starkey 2,State Assembly,132,Philip A Palmesano,CON,44,27,8,9
+Yates,Torrey 1,State Assembly,132,Philip A Palmesano,CON,42,28,9,5
+Yates,Cumulative,State Assembly,132,Philip A Palmesano,CON,0,0,0,0
+Yates,Barrington 1,State Assembly,132,Philip A Palmesano,IND,12,6,3,3
+Yates,Benton 1,State Assembly,132,Philip A Palmesano,IND,15,9,2,4
+Yates,Benton 2,State Assembly,132,Philip A Palmesano,IND,26,8,8,10
+Yates,Italy 1,State Assembly,132,Philip A Palmesano,IND,20,11,7,2
+Yates,Jerusalem 1,State Assembly,132,Philip A Palmesano,IND,13,5,5,3
+Yates,Jerusalem 2,State Assembly,132,Philip A Palmesano,IND,7,4,1,2
+Yates,Jerusalem 3,State Assembly,132,Philip A Palmesano,IND,11,8,0,3
+Yates,Jerusalem 4,State Assembly,132,Philip A Palmesano,IND,20,8,5,7
+Yates,Middlesex 1,State Assembly,132,Philip A Palmesano,IND,25,14,6,5
+Yates,Milo 2,State Assembly,132,Philip A Palmesano,IND,35,12,8,15
+Yates,Milo 3,State Assembly,132,Philip A Palmesano,IND,35,14,6,15
+Yates,Milo 4,State Assembly,132,Philip A Palmesano,IND,8,5,1,2
+Yates,Milo 5,State Assembly,132,Philip A Palmesano,IND,32,10,8,14
+Yates,Milo 6,State Assembly,132,Philip A Palmesano,IND,18,5,6,7
+Yates,Potter 1,State Assembly,132,Philip A Palmesano,IND,27,17,7,3
+Yates,Starkey 1,State Assembly,132,Philip A Palmesano,IND,24,14,4,6
+Yates,Starkey 2,State Assembly,132,Philip A Palmesano,IND,24,11,4,9
+Yates,Torrey 1,State Assembly,132,Philip A Palmesano,IND,17,9,3,5
+Yates,Cumulative,State Assembly,132,Philip A Palmesano,IND,0,0,0,0
+Yates,Barrington 1,State Assembly,132,Under Votes,,165,70,36,59
+Yates,Benton 1,State Assembly,132,Under Votes,,109,42,23,44
+Yates,Benton 2,State Assembly,132,Under Votes,,142,51,34,57
+Yates,Italy 1,State Assembly,132,Under Votes,,167,95,23,49
+Yates,Jerusalem 1,State Assembly,132,Under Votes,,213,51,55,107
+Yates,Jerusalem 2,State Assembly,132,Under Votes,,150,60,35,55
+Yates,Jerusalem 3,State Assembly,132,Under Votes,,154,63,46,45
+Yates,Jerusalem 4,State Assembly,132,Under Votes,,165,31,30,104
+Yates,Middlesex 1,State Assembly,132,Under Votes,,223,120,65,38
+Yates,Milo 2,State Assembly,132,Under Votes,,187,41,50,96
+Yates,Milo 3,State Assembly,132,Under Votes,,171,45,45,81
+Yates,Milo 4,State Assembly,132,Under Votes,,91,48,17,26
+Yates,Milo 5,State Assembly,132,Under Votes,,202,29,66,107
+Yates,Milo 6,State Assembly,132,Under Votes,,169,43,50,76
+Yates,Potter 1,State Assembly,132,Under Votes,,126,64,18,44
+Yates,Starkey 1,State Assembly,132,Under Votes,,156,74,31,51
+Yates,Starkey 2,State Assembly,132,Under Votes,,179,68,56,55
+Yates,Torrey 1,State Assembly,132,Under Votes,,169,77,31,61
+Yates,Cumulative,State Assembly,132,Under Votes,,1,0,1,0
+Yates,Barrington 1,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Benton 1,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Benton 2,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Italy 1,State Assembly,132,Over Votes,,1,0,1,0
+Yates,Jerusalem 1,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Jerusalem 2,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Jerusalem 3,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Jerusalem 4,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Middlesex 1,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Milo 2,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Milo 3,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Milo 4,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Milo 5,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Milo 6,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Potter 1,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Starkey 1,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Starkey 2,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Torrey 1,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Cumulative,State Assembly,132,Over Votes,,0,0,0,0
+Yates,Barrington 1,State Assembly,132,Write-ins,,0,0,0,0
+Yates,Benton 1,State Assembly,132,Write-ins,,1,0,0,1
+Yates,Benton 2,State Assembly,132,Write-ins,,1,0,0,1
+Yates,Italy 1,State Assembly,132,Write-ins,,3,0,1,2
+Yates,Jerusalem 1,State Assembly,132,Write-ins,,0,0,0,0
+Yates,Jerusalem 2,State Assembly,132,Write-ins,,2,1,0,1
+Yates,Jerusalem 3,State Assembly,132,Write-ins,,1,0,1,0
+Yates,Jerusalem 4,State Assembly,132,Write-ins,,3,0,2,1
+Yates,Middlesex 1,State Assembly,132,Write-ins,,0,0,0,0
+Yates,Milo 2,State Assembly,132,Write-ins,,1,0,1,0
+Yates,Milo 3,State Assembly,132,Write-ins,,1,0,0,1
+Yates,Milo 4,State Assembly,132,Write-ins,,0,0,0,0
+Yates,Milo 5,State Assembly,132,Write-ins,,0,0,0,0
+Yates,Milo 6,State Assembly,132,Write-ins,,0,0,0,0
+Yates,Potter 1,State Assembly,132,Write-ins,,0,0,0,0
+Yates,Starkey 1,State Assembly,132,Write-ins,,1,1,0,0
+Yates,Starkey 2,State Assembly,132,Write-ins,,1,0,0,1
+Yates,Torrey 1,State Assembly,132,Write-ins,,0,0,0,0
+Yates,Cumulative,State Assembly,132,Write-ins,,15,2,5,8
