@@ -1,0 +1,1790 @@
+county,precinct,office,district,candidate,party,votes,early_voting,election_day,absentee
+Otsego,Burlington 1,President,,Joseph R. Biden,DEM,148,17,93,38
+Otsego,Butternuts 1,President,,Joseph R. Biden,DEM,114,9,70,35
+Otsego,Butternuts 2,President,,Joseph R. Biden,DEM,246,31,148,67
+Otsego,Cherry Valley 1,President,,Joseph R. Biden,DEM,313,72,153,88
+Otsego,Decatur 1,President,,Joseph R. Biden,DEM,47,0,43,4
+Otsego,Edmeston 1,President,,Joseph R. Biden,DEM,269,41,161,67
+Otsego,Exeter 1,President,,Joseph R. Biden,DEM,135,22,76,37
+Otsego,Hartwick 1,President,,Joseph R. Biden,DEM,317,127,123,67
+Otsego,Hartwick 2,President,,Joseph R. Biden,DEM,158,67,39,52
+Otsego,Laurens 1,President,,Joseph R. Biden,DEM,219,49,100,70
+Otsego,Laurens 2,President,,Joseph R. Biden,DEM,233,56,103,74
+Otsego,Maryland 1,President,,Joseph R. Biden,DEM,127,35,48,44
+Otsego,Maryland 2,President,,Joseph R. Biden,DEM,155,17,90,48
+Otsego,Middlefield 1,President,,Joseph R. Biden,DEM,337,196,42,99
+Otsego,Middlefield 2,President,,Joseph R. Biden,DEM,307,190,46,71
+Otsego,Milford 1,President,,Joseph R. Biden,DEM,242,83,90,69
+Otsego,Milford 2,President,,Joseph R. Biden,DEM,415,147,146,122
+Otsego,Morris 1,President,,Joseph R. Biden,DEM,329,41,177,111
+Otsego,New Lisbon 1,President,,Joseph R. Biden,DEM,219,32,129,58
+Otsego,Oneonta 1,President,,Joseph R. Biden,DEM,420,101,179,140
+Otsego,Oneonta 2,President,,Joseph R. Biden,DEM,417,149,116,152
+Otsego,Oneonta 3,President,,Joseph R. Biden,DEM,314,91,118,105
+Otsego,Oneonta 4,President,,Joseph R. Biden,DEM,240,56,113,71
+Otsego,Otego 1,President,,Joseph R. Biden,DEM,236,20,119,97
+Otsego,Otego 2,President,,Joseph R. Biden,DEM,305,62,160,83
+Otsego,Otsego 1,President,,Joseph R. Biden,DEM,702,374,147,181
+Otsego,Otsego 2,President,,Joseph R. Biden,DEM,252,140,50,62
+Otsego,Otsego 3,President,,Joseph R. Biden,DEM,414,189,132,93
+Otsego,Pittsfield 1,President,,Joseph R. Biden,DEM,170,14,115,41
+Otsego,Plainfield 1,President,,Joseph R. Biden,DEM,107,10,82,15
+Otsego,Richfield 1,President,,Joseph R. Biden,DEM,192,36,109,47
+Otsego,Richfield 2,President,,Joseph R. Biden,DEM,150,30,80,40
+Otsego,Roseboom 1,President,,Joseph R. Biden,DEM,162,32,82,48
+Otsego,Springfield 1,President,,Joseph R. Biden,DEM,257,62,134,61
+Otsego,Unadilla 1,President,,Joseph R. Biden,DEM,192,33,109,50
+Otsego,Unadilla 2,President,,Joseph R. Biden,DEM,274,40,138,96
+Otsego,Unadilla 3,President,,Joseph R. Biden,DEM,251,36,134,81
+Otsego,Westford 1,President,,Joseph R. Biden,DEM,133,31,74,28
+Otsego,Worcester 1,President,,Joseph R. Biden,DEM,120,31,56,33
+Otsego,Worcester 2,President,,Joseph R. Biden,DEM,74,15,28,31
+Otsego,Worcester 3,President,,Joseph R. Biden,DEM,133,13,72,48
+Otsego,Oneonta City Ward 1,President,,Joseph R. Biden,DEM,518,167,195,156
+Otsego,Oneonta City Ward 2,President,,Joseph R. Biden,DEM,358,89,132,137
+Otsego,Oneonta City Ward 3,President,,Joseph R. Biden,DEM,212,61,73,78
+Otsego,Oneonta City Ward 4,President,,Joseph R. Biden,DEM,255,68,87,100
+Otsego,Oneonta City Ward 5,President,,Joseph R. Biden,DEM,296,84,126,86
+Otsego,Oneonta City Ward 6,President,,Joseph R. Biden,DEM,350,90,138,122
+Otsego,Oneonta City Ward 7,President,,Joseph R. Biden,DEM,196,45,82,69
+Otsego,Oneonta City Ward 8,President,,Joseph R. Biden,DEM,277,61,117,99
+Otsego,Burlington 1,President,,Donald J. Trump,REP,409,25,344,40
+Otsego,Butternuts 1,President,,Donald J. Trump,REP,211,7,182,22
+Otsego,Butternuts 2,President,,Donald J. Trump,REP,291,16,247,28
+Otsego,Cherry Valley 1,President,,Donald J. Trump,REP,306,24,247,35
+Otsego,Decatur 1,President,,Donald J. Trump,REP,141,4,122,15
+Otsego,Edmeston 1,President,,Donald J. Trump,REP,527,31,436,60
+Otsego,Exeter 1,President,,Donald J. Trump,REP,259,17,224,18
+Otsego,Hartwick 1,President,,Donald J. Trump,REP,330,26,265,39
+Otsego,Hartwick 2,President,,Donald J. Trump,REP,189,62,112,15
+Otsego,Laurens 1,President,,Donald J. Trump,REP,248,25,204,19
+Otsego,Laurens 2,President,,Donald J. Trump,REP,333,30,266,37
+Otsego,Maryland 1,President,,Donald J. Trump,REP,233,18,168,47
+Otsego,Maryland 2,President,,Donald J. Trump,REP,378,32,311,35
+Otsego,Middlefield 1,President,,Donald J. Trump,REP,126,44,65,17
+Otsego,Middlefield 2,President,,Donald J. Trump,REP,337,93,218,26
+Otsego,Milford 1,President,,Donald J. Trump,REP,293,62,192,39
+Otsego,Milford 2,President,,Donald J. Trump,REP,418,89,289,40
+Otsego,Morris 1,President,,Donald J. Trump,REP,448,13,398,37
+Otsego,New Lisbon 1,President,,Donald J. Trump,REP,344,22,277,45
+Otsego,Oneonta 1,President,,Donald J. Trump,REP,321,48,221,52
+Otsego,Oneonta 2,President,,Donald J. Trump,REP,295,69,177,49
+Otsego,Oneonta 3,President,,Donald J. Trump,REP,221,29,162,30
+Otsego,Oneonta 4,President,,Donald J. Trump,REP,214,27,160,27
+Otsego,Otego 1,President,,Donald J. Trump,REP,409,26,327,56
+Otsego,Otego 2,President,,Donald J. Trump,REP,421,17,333,71
+Otsego,Otsego 1,President,,Donald J. Trump,REP,212,74,103,35
+Otsego,Otsego 2,President,,Donald J. Trump,REP,151,37,87,27
+Otsego,Otsego 3,President,,Donald J. Trump,REP,332,50,234,48
+Otsego,Pittsfield 1,President,,Donald J. Trump,REP,370,10,327,33
+Otsego,Plainfield 1,President,,Donald J. Trump,REP,326,5,294,27
+Otsego,Richfield 1,President,,Donald J. Trump,REP,288,18,241,29
+Otsego,Richfield 2,President,,Donald J. Trump,REP,405,21,334,50
+Otsego,Roseboom 1,President,,Donald J. Trump,REP,222,11,200,11
+Otsego,Springfield 1,President,,Donald J. Trump,REP,341,13,285,43
+Otsego,Unadilla 1,President,,Donald J. Trump,REP,347,27,290,30
+Otsego,Unadilla 2,President,,Donald J. Trump,REP,491,14,404,73
+Otsego,Unadilla 3,President,,Donald J. Trump,REP,222,9,190,23
+Otsego,Westford 1,President,,Donald J. Trump,REP,298,29,249,20
+Otsego,Worcester 1,President,,Donald J. Trump,REP,260,13,222,25
+Otsego,Worcester 2,President,,Donald J. Trump,REP,189,8,168,13
+Otsego,Worcester 3,President,,Donald J. Trump,REP,242,10,201,31
+Otsego,Oneonta City Ward 1,President,,Donald J. Trump,REP,225,34,163,28
+Otsego,Oneonta City Ward 2,President,,Donald J. Trump,REP,94,20,60,14
+Otsego,Oneonta City Ward 3,President,,Donald J. Trump,REP,48,2,31,15
+Otsego,Oneonta City Ward 4,President,,Donald J. Trump,REP,82,8,55,19
+Otsego,Oneonta City Ward 5,President,,Donald J. Trump,REP,178,26,119,33
+Otsego,Oneonta City Ward 6,President,,Donald J. Trump,REP,245,30,178,37
+Otsego,Oneonta City Ward 7,President,,Donald J. Trump,REP,79,11,50,18
+Otsego,Oneonta City Ward 8,President,,Donald J. Trump,REP,99,7,71,21
+Otsego,Burlington 1,President,,Donald J. Trump,CON,22,2,17,3
+Otsego,Butternuts 1,President,,Donald J. Trump,CON,11,0,11,0
+Otsego,Butternuts 2,President,,Donald J. Trump,CON,17,0,17,0
+Otsego,Cherry Valley 1,President,,Donald J. Trump,CON,24,1,21,2
+Otsego,Decatur 1,President,,Donald J. Trump,CON,12,2,9,1
+Otsego,Edmeston 1,President,,Donald J. Trump,CON,34,3,28,3
+Otsego,Exeter 1,President,,Donald J. Trump,CON,24,0,22,2
+Otsego,Hartwick 1,President,,Donald J. Trump,CON,54,3,47,4
+Otsego,Hartwick 2,President,,Donald J. Trump,CON,8,2,5,1
+Otsego,Laurens 1,President,,Donald J. Trump,CON,26,0,21,5
+Otsego,Laurens 2,President,,Donald J. Trump,CON,24,2,18,4
+Otsego,Maryland 1,President,,Donald J. Trump,CON,10,1,7,2
+Otsego,Maryland 2,President,,Donald J. Trump,CON,22,1,20,1
+Otsego,Middlefield 1,President,,Donald J. Trump,CON,12,5,6,1
+Otsego,Middlefield 2,President,,Donald J. Trump,CON,19,8,11,0
+Otsego,Milford 1,President,,Donald J. Trump,CON,13,0,9,4
+Otsego,Milford 2,President,,Donald J. Trump,CON,36,7,27,2
+Otsego,Morris 1,President,,Donald J. Trump,CON,31,1,25,5
+Otsego,New Lisbon 1,President,,Donald J. Trump,CON,29,1,27,1
+Otsego,Oneonta 1,President,,Donald J. Trump,CON,25,6,18,1
+Otsego,Oneonta 2,President,,Donald J. Trump,CON,19,4,12,3
+Otsego,Oneonta 3,President,,Donald J. Trump,CON,10,2,7,1
+Otsego,Oneonta 4,President,,Donald J. Trump,CON,10,1,9,0
+Otsego,Otego 1,President,,Donald J. Trump,CON,33,3,30,0
+Otsego,Otego 2,President,,Donald J. Trump,CON,31,2,23,6
+Otsego,Otsego 1,President,,Donald J. Trump,CON,22,8,11,3
+Otsego,Otsego 2,President,,Donald J. Trump,CON,9,1,4,4
+Otsego,Otsego 3,President,,Donald J. Trump,CON,35,8,25,2
+Otsego,Pittsfield 1,President,,Donald J. Trump,CON,13,1,10,2
+Otsego,Plainfield 1,President,,Donald J. Trump,CON,19,2,15,2
+Otsego,Richfield 1,President,,Donald J. Trump,CON,16,4,9,3
+Otsego,Richfield 2,President,,Donald J. Trump,CON,21,2,18,1
+Otsego,Roseboom 1,President,,Donald J. Trump,CON,12,0,11,1
+Otsego,Springfield 1,President,,Donald J. Trump,CON,29,1,25,3
+Otsego,Unadilla 1,President,,Donald J. Trump,CON,24,1,20,3
+Otsego,Unadilla 2,President,,Donald J. Trump,CON,18,1,16,1
+Otsego,Unadilla 3,President,,Donald J. Trump,CON,12,0,11,1
+Otsego,Westford 1,President,,Donald J. Trump,CON,21,1,18,2
+Otsego,Worcester 1,President,,Donald J. Trump,CON,23,0,18,5
+Otsego,Worcester 2,President,,Donald J. Trump,CON,20,2,17,1
+Otsego,Worcester 3,President,,Donald J. Trump,CON,18,2,15,1
+Otsego,Oneonta City Ward 1,President,,Donald J. Trump,CON,17,1,13,3
+Otsego,Oneonta City Ward 2,President,,Donald J. Trump,CON,5,0,5,0
+Otsego,Oneonta City Ward 3,President,,Donald J. Trump,CON,4,0,2,2
+Otsego,Oneonta City Ward 4,President,,Donald J. Trump,CON,1,0,1,0
+Otsego,Oneonta City Ward 5,President,,Donald J. Trump,CON,12,2,8,2
+Otsego,Oneonta City Ward 6,President,,Donald J. Trump,CON,15,1,10,4
+Otsego,Oneonta City Ward 7,President,,Donald J. Trump,CON,4,1,3,0
+Otsego,Oneonta City Ward 8,President,,Donald J. Trump,CON,8,1,5,2
+Otsego,Burlington 1,President,,Joseph R. Biden,WOR,8,1,4,3
+Otsego,Butternuts 1,President,,Joseph R. Biden,WOR,6,0,6,0
+Otsego,Butternuts 2,President,,Joseph R. Biden,WOR,20,1,11,8
+Otsego,Cherry Valley 1,President,,Joseph R. Biden,WOR,25,8,14,3
+Otsego,Decatur 1,President,,Joseph R. Biden,WOR,7,2,1,4
+Otsego,Edmeston 1,President,,Joseph R. Biden,WOR,11,2,9,0
+Otsego,Exeter 1,President,,Joseph R. Biden,WOR,6,1,5,0
+Otsego,Hartwick 1,President,,Joseph R. Biden,WOR,14,4,6,4
+Otsego,Hartwick 2,President,,Joseph R. Biden,WOR,5,3,1,1
+Otsego,Laurens 1,President,,Joseph R. Biden,WOR,10,3,6,1
+Otsego,Laurens 2,President,,Joseph R. Biden,WOR,13,3,8,2
+Otsego,Maryland 1,President,,Joseph R. Biden,WOR,6,2,0,4
+Otsego,Maryland 2,President,,Joseph R. Biden,WOR,8,2,4,2
+Otsego,Middlefield 1,President,,Joseph R. Biden,WOR,20,13,2,5
+Otsego,Middlefield 2,President,,Joseph R. Biden,WOR,18,11,5,2
+Otsego,Milford 1,President,,Joseph R. Biden,WOR,11,10,1,0
+Otsego,Milford 2,President,,Joseph R. Biden,WOR,22,6,7,9
+Otsego,Morris 1,President,,Joseph R. Biden,WOR,14,1,7,6
+Otsego,New Lisbon 1,President,,Joseph R. Biden,WOR,11,3,7,1
+Otsego,Oneonta 1,President,,Joseph R. Biden,WOR,24,7,9,8
+Otsego,Oneonta 2,President,,Joseph R. Biden,WOR,23,6,8,9
+Otsego,Oneonta 3,President,,Joseph R. Biden,WOR,17,4,7,6
+Otsego,Oneonta 4,President,,Joseph R. Biden,WOR,8,1,4,3
+Otsego,Otego 1,President,,Joseph R. Biden,WOR,12,1,11,0
+Otsego,Otego 2,President,,Joseph R. Biden,WOR,12,3,7,2
+Otsego,Otsego 1,President,,Joseph R. Biden,WOR,38,25,5,8
+Otsego,Otsego 2,President,,Joseph R. Biden,WOR,5,3,0,2
+Otsego,Otsego 3,President,,Joseph R. Biden,WOR,20,8,8,4
+Otsego,Pittsfield 1,President,,Joseph R. Biden,WOR,8,0,5,3
+Otsego,Plainfield 1,President,,Joseph R. Biden,WOR,5,1,3,1
+Otsego,Richfield 1,President,,Joseph R. Biden,WOR,3,1,2,0
+Otsego,Richfield 2,President,,Joseph R. Biden,WOR,5,3,1,1
+Otsego,Roseboom 1,President,,Joseph R. Biden,WOR,20,6,5,9
+Otsego,Springfield 1,President,,Joseph R. Biden,WOR,11,1,4,6
+Otsego,Unadilla 1,President,,Joseph R. Biden,WOR,4,2,1,1
+Otsego,Unadilla 2,President,,Joseph R. Biden,WOR,14,0,8,6
+Otsego,Unadilla 3,President,,Joseph R. Biden,WOR,10,1,7,2
+Otsego,Westford 1,President,,Joseph R. Biden,WOR,10,6,1,3
+Otsego,Worcester 1,President,,Joseph R. Biden,WOR,7,2,3,2
+Otsego,Worcester 2,President,,Joseph R. Biden,WOR,5,0,2,3
+Otsego,Worcester 3,President,,Joseph R. Biden,WOR,5,0,4,1
+Otsego,Oneonta City Ward 1,President,,Joseph R. Biden,WOR,20,9,4,7
+Otsego,Oneonta City Ward 2,President,,Joseph R. Biden,WOR,29,14,12,3
+Otsego,Oneonta City Ward 3,President,,Joseph R. Biden,WOR,19,4,9,6
+Otsego,Oneonta City Ward 4,President,,Joseph R. Biden,WOR,20,6,10,4
+Otsego,Oneonta City Ward 5,President,,Joseph R. Biden,WOR,19,10,7,2
+Otsego,Oneonta City Ward 6,President,,Joseph R. Biden,WOR,23,5,13,5
+Otsego,Oneonta City Ward 7,President,,Joseph R. Biden,WOR,15,10,2,3
+Otsego,Oneonta City Ward 8,President,,Joseph R. Biden,WOR,22,11,9,2
+Otsego,Burlington 1,President,,Howie Hawkins,GRE,3,0,3,0
+Otsego,Butternuts 1,President,,Howie Hawkins,GRE,2,0,2,0
+Otsego,Butternuts 2,President,,Howie Hawkins,GRE,6,1,5,0
+Otsego,Cherry Valley 1,President,,Howie Hawkins,GRE,4,0,3,1
+Otsego,Decatur 1,President,,Howie Hawkins,GRE,0,0,0,0
+Otsego,Edmeston 1,President,,Howie Hawkins,GRE,5,0,3,2
+Otsego,Exeter 1,President,,Howie Hawkins,GRE,1,0,1,0
+Otsego,Hartwick 1,President,,Howie Hawkins,GRE,0,0,0,0
+Otsego,Hartwick 2,President,,Howie Hawkins,GRE,1,0,1,0
+Otsego,Laurens 1,President,,Howie Hawkins,GRE,2,0,2,0
+Otsego,Laurens 2,President,,Howie Hawkins,GRE,6,1,3,2
+Otsego,Maryland 1,President,,Howie Hawkins,GRE,4,0,2,2
+Otsego,Maryland 2,President,,Howie Hawkins,GRE,2,0,1,1
+Otsego,Middlefield 1,President,,Howie Hawkins,GRE,1,0,1,0
+Otsego,Middlefield 2,President,,Howie Hawkins,GRE,6,0,4,2
+Otsego,Milford 1,President,,Howie Hawkins,GRE,1,1,0,0
+Otsego,Milford 2,President,,Howie Hawkins,GRE,5,1,2,2
+Otsego,Morris 1,President,,Howie Hawkins,GRE,2,0,2,0
+Otsego,New Lisbon 1,President,,Howie Hawkins,GRE,3,0,3,0
+Otsego,Oneonta 1,President,,Howie Hawkins,GRE,4,0,3,1
+Otsego,Oneonta 2,President,,Howie Hawkins,GRE,2,1,1,0
+Otsego,Oneonta 3,President,,Howie Hawkins,GRE,0,0,0,0
+Otsego,Oneonta 4,President,,Howie Hawkins,GRE,5,0,1,4
+Otsego,Otego 1,President,,Howie Hawkins,GRE,1,0,1,0
+Otsego,Otego 2,President,,Howie Hawkins,GRE,3,0,3,0
+Otsego,Otsego 1,President,,Howie Hawkins,GRE,7,1,4,2
+Otsego,Otsego 2,President,,Howie Hawkins,GRE,3,1,1,1
+Otsego,Otsego 3,President,,Howie Hawkins,GRE,1,0,1,0
+Otsego,Pittsfield 1,President,,Howie Hawkins,GRE,1,0,0,1
+Otsego,Plainfield 1,President,,Howie Hawkins,GRE,1,0,1,0
+Otsego,Richfield 1,President,,Howie Hawkins,GRE,2,0,2,0
+Otsego,Richfield 2,President,,Howie Hawkins,GRE,3,0,3,0
+Otsego,Roseboom 1,President,,Howie Hawkins,GRE,3,0,0,3
+Otsego,Springfield 1,President,,Howie Hawkins,GRE,2,1,1,0
+Otsego,Unadilla 1,President,,Howie Hawkins,GRE,1,0,0,1
+Otsego,Unadilla 2,President,,Howie Hawkins,GRE,3,0,3,0
+Otsego,Unadilla 3,President,,Howie Hawkins,GRE,0,0,0,0
+Otsego,Westford 1,President,,Howie Hawkins,GRE,5,3,2,0
+Otsego,Worcester 1,President,,Howie Hawkins,GRE,0,0,0,0
+Otsego,Worcester 2,President,,Howie Hawkins,GRE,1,0,1,0
+Otsego,Worcester 3,President,,Howie Hawkins,GRE,3,1,1,1
+Otsego,Oneonta City Ward 1,President,,Howie Hawkins,GRE,4,0,4,0
+Otsego,Oneonta City Ward 2,President,,Howie Hawkins,GRE,3,1,1,1
+Otsego,Oneonta City Ward 3,President,,Howie Hawkins,GRE,6,1,2,3
+Otsego,Oneonta City Ward 4,President,,Howie Hawkins,GRE,2,0,1,1
+Otsego,Oneonta City Ward 5,President,,Howie Hawkins,GRE,1,0,1,0
+Otsego,Oneonta City Ward 6,President,,Howie Hawkins,GRE,5,1,4,0
+Otsego,Oneonta City Ward 7,President,,Howie Hawkins,GRE,3,1,1,1
+Otsego,Oneonta City Ward 8,President,,Howie Hawkins,GRE,7,0,4,3
+Otsego,Burlington 1,President,,Jo Jorgensen,LBT,7,0,5,2
+Otsego,Butternuts 1,President,,Jo Jorgensen,LBT,4,0,4,0
+Otsego,Butternuts 2,President,,Jo Jorgensen,LBT,7,0,7,0
+Otsego,Cherry Valley 1,President,,Jo Jorgensen,LBT,14,2,9,3
+Otsego,Decatur 1,President,,Jo Jorgensen,LBT,5,0,3,2
+Otsego,Edmeston 1,President,,Jo Jorgensen,LBT,14,0,12,2
+Otsego,Exeter 1,President,,Jo Jorgensen,LBT,6,0,3,3
+Otsego,Hartwick 1,President,,Jo Jorgensen,LBT,16,3,10,3
+Otsego,Hartwick 2,President,,Jo Jorgensen,LBT,8,2,5,1
+Otsego,Laurens 1,President,,Jo Jorgensen,LBT,10,0,5,5
+Otsego,Laurens 2,President,,Jo Jorgensen,LBT,9,2,7,0
+Otsego,Maryland 1,President,,Jo Jorgensen,LBT,6,3,1,2
+Otsego,Maryland 2,President,,Jo Jorgensen,LBT,10,0,7,3
+Otsego,Middlefield 1,President,,Jo Jorgensen,LBT,5,0,4,1
+Otsego,Middlefield 2,President,,Jo Jorgensen,LBT,12,1,10,1
+Otsego,Milford 1,President,,Jo Jorgensen,LBT,8,0,7,1
+Otsego,Milford 2,President,,Jo Jorgensen,LBT,9,1,7,1
+Otsego,Morris 1,President,,Jo Jorgensen,LBT,23,1,16,6
+Otsego,New Lisbon 1,President,,Jo Jorgensen,LBT,12,3,8,1
+Otsego,Oneonta 1,President,,Jo Jorgensen,LBT,9,0,9,0
+Otsego,Oneonta 2,President,,Jo Jorgensen,LBT,12,2,7,3
+Otsego,Oneonta 3,President,,Jo Jorgensen,LBT,5,1,3,1
+Otsego,Oneonta 4,President,,Jo Jorgensen,LBT,5,0,5,0
+Otsego,Otego 1,President,,Jo Jorgensen,LBT,8,0,7,1
+Otsego,Otego 2,President,,Jo Jorgensen,LBT,13,2,8,3
+Otsego,Otsego 1,President,,Jo Jorgensen,LBT,13,2,10,1
+Otsego,Otsego 2,President,,Jo Jorgensen,LBT,6,2,3,1
+Otsego,Otsego 3,President,,Jo Jorgensen,LBT,9,1,6,2
+Otsego,Pittsfield 1,President,,Jo Jorgensen,LBT,7,1,4,2
+Otsego,Plainfield 1,President,,Jo Jorgensen,LBT,10,0,10,0
+Otsego,Richfield 1,President,,Jo Jorgensen,LBT,3,0,2,1
+Otsego,Richfield 2,President,,Jo Jorgensen,LBT,6,2,3,1
+Otsego,Roseboom 1,President,,Jo Jorgensen,LBT,3,0,2,1
+Otsego,Springfield 1,President,,Jo Jorgensen,LBT,10,0,8,2
+Otsego,Unadilla 1,President,,Jo Jorgensen,LBT,4,1,2,1
+Otsego,Unadilla 2,President,,Jo Jorgensen,LBT,13,1,10,2
+Otsego,Unadilla 3,President,,Jo Jorgensen,LBT,6,0,5,1
+Otsego,Westford 1,President,,Jo Jorgensen,LBT,3,0,3,0
+Otsego,Worcester 1,President,,Jo Jorgensen,LBT,7,1,5,1
+Otsego,Worcester 2,President,,Jo Jorgensen,LBT,2,0,1,1
+Otsego,Worcester 3,President,,Jo Jorgensen,LBT,5,1,3,1
+Otsego,Oneonta City Ward 1,President,,Jo Jorgensen,LBT,13,1,11,1
+Otsego,Oneonta City Ward 2,President,,Jo Jorgensen,LBT,4,2,1,1
+Otsego,Oneonta City Ward 3,President,,Jo Jorgensen,LBT,7,1,3,3
+Otsego,Oneonta City Ward 4,President,,Jo Jorgensen,LBT,5,0,5,0
+Otsego,Oneonta City Ward 5,President,,Jo Jorgensen,LBT,8,1,6,1
+Otsego,Oneonta City Ward 6,President,,Jo Jorgensen,LBT,10,0,10,0
+Otsego,Oneonta City Ward 7,President,,Jo Jorgensen,LBT,12,0,10,2
+Otsego,Oneonta City Ward 8,President,,Jo Jorgensen,LBT,6,0,4,2
+Otsego,Burlington 1,President,,Brock Pierce,IND,2,0,2,0
+Otsego,Butternuts 1,President,,Brock Pierce,IND,0,0,0,0
+Otsego,Butternuts 2,President,,Brock Pierce,IND,1,0,1,0
+Otsego,Cherry Valley 1,President,,Brock Pierce,IND,4,0,3,1
+Otsego,Decatur 1,President,,Brock Pierce,IND,1,0,1,0
+Otsego,Edmeston 1,President,,Brock Pierce,IND,3,0,1,2
+Otsego,Exeter 1,President,,Brock Pierce,IND,1,1,0,0
+Otsego,Hartwick 1,President,,Brock Pierce,IND,1,1,0,0
+Otsego,Hartwick 2,President,,Brock Pierce,IND,1,1,0,0
+Otsego,Laurens 1,President,,Brock Pierce,IND,3,0,3,0
+Otsego,Laurens 2,President,,Brock Pierce,IND,2,0,2,0
+Otsego,Maryland 1,President,,Brock Pierce,IND,0,0,0,0
+Otsego,Maryland 2,President,,Brock Pierce,IND,1,0,0,1
+Otsego,Middlefield 1,President,,Brock Pierce,IND,0,0,0,0
+Otsego,Middlefield 2,President,,Brock Pierce,IND,3,0,1,2
+Otsego,Milford 1,President,,Brock Pierce,IND,0,0,0,0
+Otsego,Milford 2,President,,Brock Pierce,IND,6,1,4,1
+Otsego,Morris 1,President,,Brock Pierce,IND,6,1,4,1
+Otsego,New Lisbon 1,President,,Brock Pierce,IND,2,0,2,0
+Otsego,Oneonta 1,President,,Brock Pierce,IND,4,0,3,1
+Otsego,Oneonta 2,President,,Brock Pierce,IND,1,0,1,0
+Otsego,Oneonta 3,President,,Brock Pierce,IND,1,0,1,0
+Otsego,Oneonta 4,President,,Brock Pierce,IND,1,0,1,0
+Otsego,Otego 1,President,,Brock Pierce,IND,3,1,2,0
+Otsego,Otego 2,President,,Brock Pierce,IND,1,0,1,0
+Otsego,Otsego 1,President,,Brock Pierce,IND,4,1,3,0
+Otsego,Otsego 2,President,,Brock Pierce,IND,1,0,1,0
+Otsego,Otsego 3,President,,Brock Pierce,IND,5,1,4,0
+Otsego,Pittsfield 1,President,,Brock Pierce,IND,1,0,1,0
+Otsego,Plainfield 1,President,,Brock Pierce,IND,4,0,3,1
+Otsego,Richfield 1,President,,Brock Pierce,IND,2,0,2,0
+Otsego,Richfield 2,President,,Brock Pierce,IND,4,2,2,0
+Otsego,Roseboom 1,President,,Brock Pierce,IND,2,0,2,0
+Otsego,Springfield 1,President,,Brock Pierce,IND,2,0,2,0
+Otsego,Unadilla 1,President,,Brock Pierce,IND,2,0,2,0
+Otsego,Unadilla 2,President,,Brock Pierce,IND,5,0,5,0
+Otsego,Unadilla 3,President,,Brock Pierce,IND,2,0,2,0
+Otsego,Westford 1,President,,Brock Pierce,IND,2,0,2,0
+Otsego,Worcester 1,President,,Brock Pierce,IND,2,0,1,1
+Otsego,Worcester 2,President,,Brock Pierce,IND,0,0,0,0
+Otsego,Worcester 3,President,,Brock Pierce,IND,1,0,1,0
+Otsego,Oneonta City Ward 1,President,,Brock Pierce,IND,3,0,3,0
+Otsego,Oneonta City Ward 2,President,,Brock Pierce,IND,1,0,1,0
+Otsego,Oneonta City Ward 3,President,,Brock Pierce,IND,1,0,0,1
+Otsego,Oneonta City Ward 4,President,,Brock Pierce,IND,1,0,1,0
+Otsego,Oneonta City Ward 5,President,,Brock Pierce,IND,1,0,1,0
+Otsego,Oneonta City Ward 6,President,,Brock Pierce,IND,2,0,1,1
+Otsego,Oneonta City Ward 7,President,,Brock Pierce,IND,0,0,0,0
+Otsego,Oneonta City Ward 8,President,,Brock Pierce,IND,0,0,0,0
+Otsego,Burlington 1,President,,Write-ins,,0,0,0,0
+Otsego,Butternuts 1,President,,Write-ins,,0,0,0,0
+Otsego,Butternuts 2,President,,Write-ins,,0,0,0,0
+Otsego,Cherry Valley 1,President,,Write-ins,,0,0,0,0
+Otsego,Decatur 1,President,,Write-ins,,0,0,0,0
+Otsego,Edmeston 1,President,,Write-ins,,0,0,0,0
+Otsego,Exeter 1,President,,Write-ins,,0,0,0,0
+Otsego,Hartwick 1,President,,Write-ins,,0,0,0,0
+Otsego,Hartwick 2,President,,Write-ins,,0,0,0,0
+Otsego,Laurens 1,President,,Write-ins,,0,0,0,0
+Otsego,Laurens 2,President,,Write-ins,,0,0,0,0
+Otsego,Maryland 1,President,,Write-ins,,0,0,0,0
+Otsego,Maryland 2,President,,Write-ins,,0,0,0,0
+Otsego,Middlefield 1,President,,Write-ins,,0,0,0,0
+Otsego,Middlefield 2,President,,Write-ins,,2,0,2,0
+Otsego,Milford 1,President,,Write-ins,,0,0,0,0
+Otsego,Milford 2,President,,Write-ins,,1,0,1,0
+Otsego,Morris 1,President,,Write-ins,,0,0,0,0
+Otsego,New Lisbon 1,President,,Write-ins,,0,0,0,0
+Otsego,Oneonta 1,President,,Write-ins,,0,0,0,0
+Otsego,Oneonta 2,President,,Write-ins,,0,0,0,0
+Otsego,Oneonta 3,President,,Write-ins,,1,0,0,1
+Otsego,Oneonta 4,President,,Write-ins,,0,0,0,0
+Otsego,Otego 1,President,,Write-ins,,0,0,0,0
+Otsego,Otego 2,President,,Write-ins,,0,0,0,0
+Otsego,Otsego 1,President,,Write-ins,,2,1,0,1
+Otsego,Otsego 2,President,,Write-ins,,0,0,0,0
+Otsego,Otsego 3,President,,Write-ins,,0,0,0,0
+Otsego,Pittsfield 1,President,,Write-ins,,0,0,0,0
+Otsego,Plainfield 1,President,,Write-ins,,1,0,1,0
+Otsego,Richfield 1,President,,Write-ins,,0,0,0,0
+Otsego,Richfield 2,President,,Write-ins,,2,0,2,0
+Otsego,Roseboom 1,President,,Write-ins,,0,0,0,0
+Otsego,Springfield 1,President,,Write-ins,,0,0,0,0
+Otsego,Unadilla 1,President,,Write-ins,,0,0,0,0
+Otsego,Unadilla 2,President,,Write-ins,,0,0,0,0
+Otsego,Unadilla 3,President,,Write-ins,,0,0,0,0
+Otsego,Westford 1,President,,Write-ins,,0,0,0,0
+Otsego,Worcester 1,President,,Write-ins,,0,0,0,0
+Otsego,Worcester 2,President,,Write-ins,,0,0,0,0
+Otsego,Worcester 3,President,,Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 1,President,,Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 2,President,,Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 3,President,,Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 4,President,,Write-ins,,1,0,1,0
+Otsego,Oneonta City Ward 5,President,,Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 6,President,,Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 7,President,,Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 8,President,,Write-ins,,2,0,1,1
+Otsego,Burlington 1,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Butternuts 1,President,,Unqualified Write-ins,,1,0,0,1
+Otsego,Butternuts 2,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Cherry Valley 1,President,,Unqualified Write-ins,,1,0,1,0
+Otsego,Decatur 1,President,,Unqualified Write-ins,,1,0,0,1
+Otsego,Edmeston 1,President,,Unqualified Write-ins,,4,0,3,1
+Otsego,Exeter 1,President,,Unqualified Write-ins,,1,0,1,0
+Otsego,Hartwick 1,President,,Unqualified Write-ins,,2,0,2,0
+Otsego,Hartwick 2,President,,Unqualified Write-ins,,1,0,1,0
+Otsego,Laurens 1,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Laurens 2,President,,Unqualified Write-ins,,5,0,3,2
+Otsego,Maryland 1,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Maryland 2,President,,Unqualified Write-ins,,1,0,1,0
+Otsego,Middlefield 1,President,,Unqualified Write-ins,,1,0,0,1
+Otsego,Middlefield 2,President,,Unqualified Write-ins,,3,2,1,0
+Otsego,Milford 1,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Milford 2,President,,Unqualified Write-ins,,6,1,3,2
+Otsego,Morris 1,President,,Unqualified Write-ins,,1,0,1,0
+Otsego,New Lisbon 1,President,,Unqualified Write-ins,,2,0,2,0
+Otsego,Oneonta 1,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta 2,President,,Unqualified Write-ins,,1,0,1,0
+Otsego,Oneonta 3,President,,Unqualified Write-ins,,3,0,3,0
+Otsego,Oneonta 4,President,,Unqualified Write-ins,,4,0,2,2
+Otsego,Otego 1,President,,Unqualified Write-ins,,1,0,0,1
+Otsego,Otego 2,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Otsego 1,President,,Unqualified Write-ins,,2,0,2,0
+Otsego,Otsego 2,President,,Unqualified Write-ins,,1,0,1,0
+Otsego,Otsego 3,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Pittsfield 1,President,,Unqualified Write-ins,,4,0,3,1
+Otsego,Plainfield 1,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Richfield 1,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Richfield 2,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Roseboom 1,President,,Unqualified Write-ins,,1,0,1,0
+Otsego,Springfield 1,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Unadilla 1,President,,Unqualified Write-ins,,1,0,1,0
+Otsego,Unadilla 2,President,,Unqualified Write-ins,,1,0,0,1
+Otsego,Unadilla 3,President,,Unqualified Write-ins,,1,1,0,0
+Otsego,Westford 1,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Worcester 1,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Worcester 2,President,,Unqualified Write-ins,,2,0,2,0
+Otsego,Worcester 3,President,,Unqualified Write-ins,,3,1,1,1
+Otsego,Oneonta City Ward 1,President,,Unqualified Write-ins,,1,1,0,0
+Otsego,Oneonta City Ward 2,President,,Unqualified Write-ins,,1,0,0,1
+Otsego,Oneonta City Ward 3,President,,Unqualified Write-ins,,2,0,2,0
+Otsego,Oneonta City Ward 4,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 5,President,,Unqualified Write-ins,,2,0,2,0
+Otsego,Oneonta City Ward 6,President,,Unqualified Write-ins,,3,0,1,2
+Otsego,Oneonta City Ward 7,President,,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 8,President,,Unqualified Write-ins,,3,0,1,2
+Otsego,Burlington 1,President,,Under Votes,,3,0,3,0
+Otsego,Butternuts 1,President,,Under Votes,,1,0,1,0
+Otsego,Butternuts 2,President,,Under Votes,,3,0,3,0
+Otsego,Cherry Valley 1,President,,Under Votes,,0,0,0,0
+Otsego,Decatur 1,President,,Under Votes,,1,0,1,0
+Otsego,Edmeston 1,President,,Under Votes,,4,0,3,1
+Otsego,Exeter 1,President,,Under Votes,,2,0,2,0
+Otsego,Hartwick 1,President,,Under Votes,,4,1,3,0
+Otsego,Hartwick 2,President,,Under Votes,,2,1,1,0
+Otsego,Laurens 1,President,,Under Votes,,4,0,2,2
+Otsego,Laurens 2,President,,Under Votes,,3,0,0,3
+Otsego,Maryland 1,President,,Under Votes,,1,0,1,0
+Otsego,Maryland 2,President,,Under Votes,,2,0,2,0
+Otsego,Middlefield 1,President,,Under Votes,,2,1,0,1
+Otsego,Middlefield 2,President,,Under Votes,,5,2,3,0
+Otsego,Milford 1,President,,Under Votes,,4,0,3,1
+Otsego,Milford 2,President,,Under Votes,,9,4,2,3
+Otsego,Morris 1,President,,Under Votes,,3,0,2,1
+Otsego,New Lisbon 1,President,,Under Votes,,2,0,2,0
+Otsego,Oneonta 1,President,,Under Votes,,6,0,3,3
+Otsego,Oneonta 2,President,,Under Votes,,2,0,1,1
+Otsego,Oneonta 3,President,,Under Votes,,2,0,1,1
+Otsego,Oneonta 4,President,,Under Votes,,3,0,2,1
+Otsego,Otego 1,President,,Under Votes,,3,0,2,1
+Otsego,Otego 2,President,,Under Votes,,1,0,1,0
+Otsego,Otsego 1,President,,Under Votes,,10,3,1,6
+Otsego,Otsego 2,President,,Under Votes,,5,1,2,2
+Otsego,Otsego 3,President,,Under Votes,,12,0,7,5
+Otsego,Pittsfield 1,President,,Under Votes,,3,0,2,1
+Otsego,Plainfield 1,President,,Under Votes,,0,0,0,0
+Otsego,Richfield 1,President,,Under Votes,,4,1,2,1
+Otsego,Richfield 2,President,,Under Votes,,4,0,3,1
+Otsego,Roseboom 1,President,,Under Votes,,3,0,2,1
+Otsego,Springfield 1,President,,Under Votes,,3,0,2,1
+Otsego,Unadilla 1,President,,Under Votes,,1,0,1,0
+Otsego,Unadilla 2,President,,Under Votes,,3,0,2,1
+Otsego,Unadilla 3,President,,Under Votes,,3,0,3,0
+Otsego,Westford 1,President,,Under Votes,,0,0,0,0
+Otsego,Worcester 1,President,,Under Votes,,2,0,1,1
+Otsego,Worcester 2,President,,Under Votes,,1,0,1,0
+Otsego,Worcester 3,President,,Under Votes,,3,0,1,2
+Otsego,Oneonta City Ward 1,President,,Under Votes,,2,1,0,1
+Otsego,Oneonta City Ward 2,President,,Under Votes,,3,1,2,0
+Otsego,Oneonta City Ward 3,President,,Under Votes,,1,0,1,0
+Otsego,Oneonta City Ward 4,President,,Under Votes,,1,0,1,0
+Otsego,Oneonta City Ward 5,President,,Under Votes,,3,0,2,1
+Otsego,Oneonta City Ward 6,President,,Under Votes,,3,0,2,1
+Otsego,Oneonta City Ward 7,President,,Under Votes,,4,0,2,2
+Otsego,Oneonta City Ward 8,President,,Under Votes,,0,0,0,0
+Otsego,Burlington 1,President,,Over Votes,,3,0,3,0
+Otsego,Butternuts 1,President,,Over Votes,,1,0,1,0
+Otsego,Butternuts 2,President,,Over Votes,,0,0,0,0
+Otsego,Cherry Valley 1,President,,Over Votes,,2,0,2,0
+Otsego,Decatur 1,President,,Over Votes,,0,0,0,0
+Otsego,Edmeston 1,President,,Over Votes,,0,0,0,0
+Otsego,Exeter 1,President,,Over Votes,,2,0,0,2
+Otsego,Hartwick 1,President,,Over Votes,,0,0,0,0
+Otsego,Hartwick 2,President,,Over Votes,,0,0,0,0
+Otsego,Laurens 1,President,,Over Votes,,0,0,0,0
+Otsego,Laurens 2,President,,Over Votes,,0,0,0,0
+Otsego,Maryland 1,President,,Over Votes,,0,0,0,0
+Otsego,Maryland 2,President,,Over Votes,,0,0,0,0
+Otsego,Middlefield 1,President,,Over Votes,,0,0,0,0
+Otsego,Middlefield 2,President,,Over Votes,,0,0,0,0
+Otsego,Milford 1,President,,Over Votes,,0,0,0,0
+Otsego,Milford 2,President,,Over Votes,,3,0,3,0
+Otsego,Morris 1,President,,Over Votes,,0,0,0,0
+Otsego,New Lisbon 1,President,,Over Votes,,0,0,0,0
+Otsego,Oneonta 1,President,,Over Votes,,0,0,0,0
+Otsego,Oneonta 2,President,,Over Votes,,0,0,0,0
+Otsego,Oneonta 3,President,,Over Votes,,1,0,0,1
+Otsego,Oneonta 4,President,,Over Votes,,0,0,0,0
+Otsego,Otego 1,President,,Over Votes,,1,0,1,0
+Otsego,Otego 2,President,,Over Votes,,1,0,0,1
+Otsego,Otsego 1,President,,Over Votes,,0,0,0,0
+Otsego,Otsego 2,President,,Over Votes,,1,0,0,1
+Otsego,Otsego 3,President,,Over Votes,,0,0,0,0
+Otsego,Pittsfield 1,President,,Over Votes,,1,0,1,0
+Otsego,Plainfield 1,President,,Over Votes,,0,0,0,0
+Otsego,Richfield 1,President,,Over Votes,,3,0,3,0
+Otsego,Richfield 2,President,,Over Votes,,0,0,0,0
+Otsego,Roseboom 1,President,,Over Votes,,0,0,0,0
+Otsego,Springfield 1,President,,Over Votes,,0,0,0,0
+Otsego,Unadilla 1,President,,Over Votes,,0,0,0,0
+Otsego,Unadilla 2,President,,Over Votes,,0,0,0,0
+Otsego,Unadilla 3,President,,Over Votes,,0,0,0,0
+Otsego,Westford 1,President,,Over Votes,,1,1,0,0
+Otsego,Worcester 1,President,,Over Votes,,0,0,0,0
+Otsego,Worcester 2,President,,Over Votes,,0,0,0,0
+Otsego,Worcester 3,President,,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 1,President,,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 2,President,,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 3,President,,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 4,President,,Over Votes,,1,1,0,0
+Otsego,Oneonta City Ward 5,President,,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 6,President,,Over Votes,,1,1,0,0
+Otsego,Oneonta City Ward 7,President,,Over Votes,,1,0,1,0
+Otsego,Oneonta City Ward 8,President,,Over Votes,,0,0,0,0
+Otsego,Burlington 1,U.S. House,19,Antonio Delgado,DEM,169,18,111,40
+Otsego,Butternuts 1,U.S. House,19,Antonio Delgado,DEM,122,8,81,33
+Otsego,Butternuts 2,U.S. House,19,Antonio Delgado,DEM,250,32,157,61
+Otsego,Cherry Valley 1,U.S. House,19,Antonio Delgado,DEM,342,72,179,91
+Otsego,Decatur 1,U.S. House,19,Antonio Delgado,DEM,56,1,51,4
+Otsego,Edmeston 1,U.S. House,19,Antonio Delgado,DEM,284,42,185,57
+Otsego,Exeter 1,U.S. House,19,Antonio Delgado,DEM,146,22,88,36
+Otsego,Hartwick 1,U.S. House,19,Antonio Delgado,DEM,315,125,127,63
+Otsego,Hartwick 2,U.S. House,19,Antonio Delgado,DEM,151,63,40,48
+Otsego,Laurens 1,U.S. House,19,Antonio Delgado,DEM,224,48,102,74
+Otsego,Laurens 2,U.S. House,19,Antonio Delgado,DEM,253,57,119,77
+Otsego,Maryland 1,U.S. House,19,Antonio Delgado,DEM,139,33,55,51
+Otsego,Maryland 2,U.S. House,19,Antonio Delgado,DEM,180,19,107,54
+Otsego,Middlefield 1,U.S. House,19,Antonio Delgado,DEM,336,198,43,95
+Otsego,Middlefield 2,U.S. House,19,Antonio Delgado,DEM,312,188,55,69
+Otsego,Milford 1,U.S. House,19,Antonio Delgado,DEM,279,91,114,74
+Otsego,Milford 2,U.S. House,19,Antonio Delgado,DEM,425,140,169,116
+Otsego,Morris 1,U.S. House,19,Antonio Delgado,DEM,349,43,201,105
+Otsego,New Lisbon 1,U.S. House,19,Antonio Delgado,DEM,219,30,136,53
+Otsego,Oneonta 1,U.S. House,19,Antonio Delgado,DEM,435,104,194,137
+Otsego,Oneonta 2,U.S. House,19,Antonio Delgado,DEM,432,146,136,150
+Otsego,Oneonta 3,U.S. House,19,Antonio Delgado,DEM,329,93,129,107
+Otsego,Oneonta 4,U.S. House,19,Antonio Delgado,DEM,246,57,119,70
+Otsego,Otego 1,U.S. House,19,Antonio Delgado,DEM,243,21,126,96
+Otsego,Otego 2,U.S. House,19,Antonio Delgado,DEM,307,60,176,71
+Otsego,Otsego 1,U.S. House,19,Antonio Delgado,DEM,704,376,150,178
+Otsego,Otsego 2,U.S. House,19,Antonio Delgado,DEM,268,143,61,64
+Otsego,Otsego 3,U.S. House,19,Antonio Delgado,DEM,426,189,140,97
+Otsego,Pittsfield 1,U.S. House,19,Antonio Delgado,DEM,185,11,135,39
+Otsego,Plainfield 1,U.S. House,19,Antonio Delgado,DEM,112,10,87,15
+Otsego,Richfield 1,U.S. House,19,Antonio Delgado,DEM,205,36,126,43
+Otsego,Richfield 2,U.S. House,19,Antonio Delgado,DEM,165,27,100,38
+Otsego,Roseboom 1,U.S. House,19,Antonio Delgado,DEM,181,32,101,48
+Otsego,Springfield 1,U.S. House,19,Antonio Delgado,DEM,256,59,140,57
+Otsego,Unadilla 1,U.S. House,19,Antonio Delgado,DEM,205,35,119,51
+Otsego,Unadilla 2,U.S. House,19,Antonio Delgado,DEM,305,40,162,103
+Otsego,Unadilla 3,U.S. House,19,Antonio Delgado,DEM,269,36,154,79
+Otsego,Westford 1,U.S. House,19,Antonio Delgado,DEM,142,32,84,26
+Otsego,Worcester 1,U.S. House,19,Antonio Delgado,DEM,134,32,71,31
+Otsego,Worcester 2,U.S. House,19,Antonio Delgado,DEM,87,13,43,31
+Otsego,Worcester 3,U.S. House,19,Antonio Delgado,DEM,149,12,93,44
+Otsego,Oneonta City Ward 1,U.S. House,19,Antonio Delgado,DEM,521,160,206,155
+Otsego,Oneonta City Ward 2,U.S. House,19,Antonio Delgado,DEM,363,92,137,134
+Otsego,Oneonta City Ward 3,U.S. House,19,Antonio Delgado,DEM,219,60,78,81
+Otsego,Oneonta City Ward 4,U.S. House,19,Antonio Delgado,DEM,260,71,95,94
+Otsego,Oneonta City Ward 5,U.S. House,19,Antonio Delgado,DEM,308,84,140,84
+Otsego,Oneonta City Ward 6,U.S. House,19,Antonio Delgado,DEM,364,91,155,118
+Otsego,Oneonta City Ward 7,U.S. House,19,Antonio Delgado,DEM,211,48,94,69
+Otsego,Oneonta City Ward 8,U.S. House,19,Antonio Delgado,DEM,281,63,122,96
+Otsego,Burlington 1,U.S. House,19,Kyle Van De Water,REP,303,21,249,33
+Otsego,Butternuts 1,U.S. House,19,Kyle Van De Water,REP,186,5,161,20
+Otsego,Butternuts 2,U.S. House,19,Kyle Van De Water,REP,252,13,216,23
+Otsego,Cherry Valley 1,U.S. House,19,Kyle Van De Water,REP,252,21,201,30
+Otsego,Decatur 1,U.S. House,19,Kyle Van De Water,REP,108,4,92,12
+Otsego,Edmeston 1,U.S. House,19,Kyle Van De Water,REP,397,26,329,42
+Otsego,Exeter 1,U.S. House,19,Kyle Van De Water,REP,222,14,193,15
+Otsego,Hartwick 1,U.S. House,19,Kyle Van De Water,REP,166,16,119,31
+Otsego,Hartwick 2,U.S. House,19,Kyle Van De Water,REP,149,51,84,14
+Otsego,Laurens 1,U.S. House,19,Kyle Van De Water,REP,188,19,150,19
+Otsego,Laurens 2,U.S. House,19,Kyle Van De Water,REP,242,22,189,31
+Otsego,Maryland 1,U.S. House,19,Kyle Van De Water,REP,157,18,115,24
+Otsego,Maryland 2,U.S. House,19,Kyle Van De Water,REP,301,23,251,27
+Otsego,Middlefield 1,U.S. House,19,Kyle Van De Water,REP,113,39,57,17
+Otsego,Middlefield 2,U.S. House,19,Kyle Van De Water,REP,270,74,172,24
+Otsego,Milford 1,U.S. House,19,Kyle Van De Water,REP,215,49,140,26
+Otsego,Milford 2,U.S. House,19,Kyle Van De Water,REP,353,77,234,42
+Otsego,Morris 1,U.S. House,19,Kyle Van De Water,REP,358,10,320,28
+Otsego,New Lisbon 1,U.S. House,19,Kyle Van De Water,REP,252,17,193,42
+Otsego,Oneonta 1,U.S. House,19,Kyle Van De Water,REP,265,40,176,49
+Otsego,Oneonta 2,U.S. House,19,Kyle Van De Water,REP,233,53,137,43
+Otsego,Oneonta 3,U.S. House,19,Kyle Van De Water,REP,180,25,131,24
+Otsego,Oneonta 4,U.S. House,19,Kyle Van De Water,REP,173,18,131,24
+Otsego,Otego 1,U.S. House,19,Kyle Van De Water,REP,356,24,282,50
+Otsego,Otego 2,U.S. House,19,Kyle Van De Water,REP,364,18,274,72
+Otsego,Otsego 1,U.S. House,19,Kyle Van De Water,REP,192,63,95,34
+Otsego,Otsego 2,U.S. House,19,Kyle Van De Water,REP,117,31,62,24
+Otsego,Otsego 3,U.S. House,19,Kyle Van De Water,REP,261,40,185,36
+Otsego,Pittsfield 1,U.S. House,19,Kyle Van De Water,REP,288,8,244,36
+Otsego,Plainfield 1,U.S. House,19,Kyle Van De Water,REP,288,6,259,23
+Otsego,Richfield 1,U.S. House,19,Kyle Van De Water,REP,243,17,198,28
+Otsego,Richfield 2,U.S. House,19,Kyle Van De Water,REP,343,22,280,41
+Otsego,Roseboom 1,U.S. House,19,Kyle Van De Water,REP,165,8,144,13
+Otsego,Springfield 1,U.S. House,19,Kyle Van De Water,REP,304,11,251,42
+Otsego,Unadilla 1,U.S. House,19,Kyle Van De Water,REP,286,21,238,27
+Otsego,Unadilla 2,U.S. House,19,Kyle Van De Water,REP,421,15,345,61
+Otsego,Unadilla 3,U.S. House,19,Kyle Van De Water,REP,176,8,151,17
+Otsego,Westford 1,U.S. House,19,Kyle Van De Water,REP,234,25,189,20
+Otsego,Worcester 1,U.S. House,19,Kyle Van De Water,REP,226,12,190,24
+Otsego,Worcester 2,U.S. House,19,Kyle Van De Water,REP,152,7,133,12
+Otsego,Worcester 3,U.S. House,19,Kyle Van De Water,REP,214,11,172,31
+Otsego,Oneonta City Ward 1,U.S. House,19,Kyle Van De Water,REP,204,35,144,25
+Otsego,Oneonta City Ward 2,U.S. House,19,Kyle Van De Water,REP,83,19,50,14
+Otsego,Oneonta City Ward 3,U.S. House,19,Kyle Van De Water,REP,47,2,28,17
+Otsego,Oneonta City Ward 4,U.S. House,19,Kyle Van De Water,REP,68,5,42,21
+Otsego,Oneonta City Ward 5,U.S. House,19,Kyle Van De Water,REP,151,21,105,25
+Otsego,Oneonta City Ward 6,U.S. House,19,Kyle Van De Water,REP,193,26,131,36
+Otsego,Oneonta City Ward 7,U.S. House,19,Kyle Van De Water,REP,65,8,43,14
+Otsego,Oneonta City Ward 8,U.S. House,19,Kyle Van De Water,REP,85,6,60,19
+Otsego,Burlington 1,U.S. House,19,Antonio Delgado,WOR,16,0,12,4
+Otsego,Butternuts 1,U.S. House,19,Antonio Delgado,WOR,10,0,10,0
+Otsego,Butternuts 2,U.S. House,19,Antonio Delgado,WOR,28,1,16,11
+Otsego,Cherry Valley 1,U.S. House,19,Antonio Delgado,WOR,32,9,17,6
+Otsego,Decatur 1,U.S. House,19,Antonio Delgado,WOR,10,3,2,5
+Otsego,Edmeston 1,U.S. House,19,Antonio Delgado,WOR,33,1,30,2
+Otsego,Exeter 1,U.S. House,19,Antonio Delgado,WOR,14,2,11,1
+Otsego,Hartwick 1,U.S. House,19,Antonio Delgado,WOR,25,4,17,4
+Otsego,Hartwick 2,U.S. House,19,Antonio Delgado,WOR,10,4,6,0
+Otsego,Laurens 1,U.S. House,19,Antonio Delgado,WOR,21,2,15,4
+Otsego,Laurens 2,U.S. House,19,Antonio Delgado,WOR,20,6,10,4
+Otsego,Maryland 1,U.S. House,19,Antonio Delgado,WOR,15,2,5,8
+Otsego,Maryland 2,U.S. House,19,Antonio Delgado,WOR,15,2,8,5
+Otsego,Middlefield 1,U.S. House,19,Antonio Delgado,WOR,23,11,5,7
+Otsego,Middlefield 2,U.S. House,19,Antonio Delgado,WOR,35,17,16,2
+Otsego,Milford 1,U.S. House,19,Antonio Delgado,WOR,19,8,7,4
+Otsego,Milford 2,U.S. House,19,Antonio Delgado,WOR,43,15,17,11
+Otsego,Morris 1,U.S. House,19,Antonio Delgado,WOR,31,3,15,13
+Otsego,New Lisbon 1,U.S. House,19,Antonio Delgado,WOR,22,4,15,3
+Otsego,Oneonta 1,U.S. House,19,Antonio Delgado,WOR,23,4,11,8
+Otsego,Oneonta 2,U.S. House,19,Antonio Delgado,WOR,22,9,6,7
+Otsego,Oneonta 3,U.S. House,19,Antonio Delgado,WOR,18,3,10,5
+Otsego,Oneonta 4,U.S. House,19,Antonio Delgado,WOR,18,2,10,6
+Otsego,Otego 1,U.S. House,19,Antonio Delgado,WOR,20,1,16,3
+Otsego,Otego 2,U.S. House,19,Antonio Delgado,WOR,26,3,18,5
+Otsego,Otsego 1,U.S. House,19,Antonio Delgado,WOR,41,26,7,8
+Otsego,Otsego 2,U.S. House,19,Antonio Delgado,WOR,6,2,2,2
+Otsego,Otsego 3,U.S. House,19,Antonio Delgado,WOR,22,7,11,4
+Otsego,Pittsfield 1,U.S. House,19,Antonio Delgado,WOR,22,3,17,2
+Otsego,Plainfield 1,U.S. House,19,Antonio Delgado,WOR,19,2,15,2
+Otsego,Richfield 1,U.S. House,19,Antonio Delgado,WOR,16,2,13,1
+Otsego,Richfield 2,U.S. House,19,Antonio Delgado,WOR,16,2,14,0
+Otsego,Roseboom 1,U.S. House,19,Antonio Delgado,WOR,31,7,16,8
+Otsego,Springfield 1,U.S. House,19,Antonio Delgado,WOR,24,2,16,6
+Otsego,Unadilla 1,U.S. House,19,Antonio Delgado,WOR,14,3,10,1
+Otsego,Unadilla 2,U.S. House,19,Antonio Delgado,WOR,27,0,18,9
+Otsego,Unadilla 3,U.S. House,19,Antonio Delgado,WOR,12,1,7,4
+Otsego,Westford 1,U.S. House,19,Antonio Delgado,WOR,17,5,8,4
+Otsego,Worcester 1,U.S. House,19,Antonio Delgado,WOR,15,3,11,1
+Otsego,Worcester 2,U.S. House,19,Antonio Delgado,WOR,16,2,10,4
+Otsego,Worcester 3,U.S. House,19,Antonio Delgado,WOR,10,0,7,3
+Otsego,Oneonta City Ward 1,U.S. House,19,Antonio Delgado,WOR,25,11,7,7
+Otsego,Oneonta City Ward 2,U.S. House,19,Antonio Delgado,WOR,25,11,11,3
+Otsego,Oneonta City Ward 3,U.S. House,19,Antonio Delgado,WOR,20,5,7,8
+Otsego,Oneonta City Ward 4,U.S. House,19,Antonio Delgado,WOR,16,5,8,3
+Otsego,Oneonta City Ward 5,U.S. House,19,Antonio Delgado,WOR,26,10,11,5
+Otsego,Oneonta City Ward 6,U.S. House,19,Antonio Delgado,WOR,35,5,22,8
+Otsego,Oneonta City Ward 7,U.S. House,19,Antonio Delgado,WOR,17,10,3,4
+Otsego,Oneonta City Ward 8,U.S. House,19,Antonio Delgado,WOR,28,11,12,5
+Otsego,Burlington 1,U.S. House,19,Steven Greenfield,GRE,5,0,5,0
+Otsego,Butternuts 1,U.S. House,19,Steven Greenfield,GRE,1,0,1,0
+Otsego,Butternuts 2,U.S. House,19,Steven Greenfield,GRE,4,1,1,2
+Otsego,Cherry Valley 1,U.S. House,19,Steven Greenfield,GRE,7,1,4,2
+Otsego,Decatur 1,U.S. House,19,Steven Greenfield,GRE,2,0,2,0
+Otsego,Edmeston 1,U.S. House,19,Steven Greenfield,GRE,4,0,3,1
+Otsego,Exeter 1,U.S. House,19,Steven Greenfield,GRE,5,0,4,1
+Otsego,Hartwick 1,U.S. House,19,Steven Greenfield,GRE,3,1,1,1
+Otsego,Hartwick 2,U.S. House,19,Steven Greenfield,GRE,1,0,0,1
+Otsego,Laurens 1,U.S. House,19,Steven Greenfield,GRE,2,0,2,0
+Otsego,Laurens 2,U.S. House,19,Steven Greenfield,GRE,4,1,3,0
+Otsego,Maryland 1,U.S. House,19,Steven Greenfield,GRE,3,0,2,1
+Otsego,Maryland 2,U.S. House,19,Steven Greenfield,GRE,5,1,4,0
+Otsego,Middlefield 1,U.S. House,19,Steven Greenfield,GRE,0,0,0,0
+Otsego,Middlefield 2,U.S. House,19,Steven Greenfield,GRE,7,2,2,3
+Otsego,Milford 1,U.S. House,19,Steven Greenfield,GRE,1,0,1,0
+Otsego,Milford 2,U.S. House,19,Steven Greenfield,GRE,9,3,4,2
+Otsego,Morris 1,U.S. House,19,Steven Greenfield,GRE,6,0,3,3
+Otsego,New Lisbon 1,U.S. House,19,Steven Greenfield,GRE,2,0,2,0
+Otsego,Oneonta 1,U.S. House,19,Steven Greenfield,GRE,4,0,3,1
+Otsego,Oneonta 2,U.S. House,19,Steven Greenfield,GRE,2,1,0,1
+Otsego,Oneonta 3,U.S. House,19,Steven Greenfield,GRE,1,0,0,1
+Otsego,Oneonta 4,U.S. House,19,Steven Greenfield,GRE,9,2,4,3
+Otsego,Otego 1,U.S. House,19,Steven Greenfield,GRE,1,0,1,0
+Otsego,Otego 2,U.S. House,19,Steven Greenfield,GRE,8,0,2,6
+Otsego,Otsego 1,U.S. House,19,Steven Greenfield,GRE,5,3,1,1
+Otsego,Otsego 2,U.S. House,19,Steven Greenfield,GRE,2,1,0,1
+Otsego,Otsego 3,U.S. House,19,Steven Greenfield,GRE,2,1,1,0
+Otsego,Pittsfield 1,U.S. House,19,Steven Greenfield,GRE,6,0,4,2
+Otsego,Plainfield 1,U.S. House,19,Steven Greenfield,GRE,8,0,7,1
+Otsego,Richfield 1,U.S. House,19,Steven Greenfield,GRE,2,1,1,0
+Otsego,Richfield 2,U.S. House,19,Steven Greenfield,GRE,6,1,4,1
+Otsego,Roseboom 1,U.S. House,19,Steven Greenfield,GRE,2,0,2,0
+Otsego,Springfield 1,U.S. House,19,Steven Greenfield,GRE,6,0,5,1
+Otsego,Unadilla 1,U.S. House,19,Steven Greenfield,GRE,1,0,1,0
+Otsego,Unadilla 2,U.S. House,19,Steven Greenfield,GRE,6,0,6,0
+Otsego,Unadilla 3,U.S. House,19,Steven Greenfield,GRE,5,1,3,1
+Otsego,Westford 1,U.S. House,19,Steven Greenfield,GRE,8,3,5,0
+Otsego,Worcester 1,U.S. House,19,Steven Greenfield,GRE,3,0,2,1
+Otsego,Worcester 2,U.S. House,19,Steven Greenfield,GRE,1,0,1,0
+Otsego,Worcester 3,U.S. House,19,Steven Greenfield,GRE,3,1,2,0
+Otsego,Oneonta City Ward 1,U.S. House,19,Steven Greenfield,GRE,3,0,3,0
+Otsego,Oneonta City Ward 2,U.S. House,19,Steven Greenfield,GRE,7,1,5,1
+Otsego,Oneonta City Ward 3,U.S. House,19,Steven Greenfield,GRE,4,2,2,0
+Otsego,Oneonta City Ward 4,U.S. House,19,Steven Greenfield,GRE,5,0,4,1
+Otsego,Oneonta City Ward 5,U.S. House,19,Steven Greenfield,GRE,1,0,0,1
+Otsego,Oneonta City Ward 6,U.S. House,19,Steven Greenfield,GRE,4,0,4,0
+Otsego,Oneonta City Ward 7,U.S. House,19,Steven Greenfield,GRE,5,1,2,2
+Otsego,Oneonta City Ward 8,U.S. House,19,Steven Greenfield,GRE,9,0,4,5
+Otsego,Burlington 1,U.S. House,19,Victoria N. Alexander,LBT,6,1,3,2
+Otsego,Butternuts 1,U.S. House,19,Victoria N. Alexander,LBT,3,1,1,1
+Otsego,Butternuts 2,U.S. House,19,Victoria N. Alexander,LBT,11,0,8,3
+Otsego,Cherry Valley 1,U.S. House,19,Victoria N. Alexander,LBT,6,2,4,0
+Otsego,Decatur 1,U.S. House,19,Victoria N. Alexander,LBT,6,0,3,3
+Otsego,Edmeston 1,U.S. House,19,Victoria N. Alexander,LBT,15,0,11,4
+Otsego,Exeter 1,U.S. House,19,Victoria N. Alexander,LBT,9,0,3,6
+Otsego,Hartwick 1,U.S. House,19,Victoria N. Alexander,LBT,14,5,6,3
+Otsego,Hartwick 2,U.S. House,19,Victoria N. Alexander,LBT,6,3,2,1
+Otsego,Laurens 1,U.S. House,19,Victoria N. Alexander,LBT,11,0,9,2
+Otsego,Laurens 2,U.S. House,19,Victoria N. Alexander,LBT,12,2,9,1
+Otsego,Maryland 1,U.S. House,19,Victoria N. Alexander,LBT,3,0,1,2
+Otsego,Maryland 2,U.S. House,19,Victoria N. Alexander,LBT,13,1,10,2
+Otsego,Middlefield 1,U.S. House,19,Victoria N. Alexander,LBT,3,1,1,1
+Otsego,Middlefield 2,U.S. House,19,Victoria N. Alexander,LBT,8,1,7,0
+Otsego,Milford 1,U.S. House,19,Victoria N. Alexander,LBT,8,0,6,2
+Otsego,Milford 2,U.S. House,19,Victoria N. Alexander,LBT,9,1,7,1
+Otsego,Morris 1,U.S. House,19,Victoria N. Alexander,LBT,22,1,13,8
+Otsego,New Lisbon 1,U.S. House,19,Victoria N. Alexander,LBT,16,2,12,2
+Otsego,Oneonta 1,U.S. House,19,Victoria N. Alexander,LBT,13,0,13,0
+Otsego,Oneonta 2,U.S. House,19,Victoria N. Alexander,LBT,11,2,7,2
+Otsego,Oneonta 3,U.S. House,19,Victoria N. Alexander,LBT,9,1,6,2
+Otsego,Oneonta 4,U.S. House,19,Victoria N. Alexander,LBT,1,0,1,0
+Otsego,Otego 1,U.S. House,19,Victoria N. Alexander,LBT,7,0,7,0
+Otsego,Otego 2,U.S. House,19,Victoria N. Alexander,LBT,12,0,11,1
+Otsego,Otsego 1,U.S. House,19,Victoria N. Alexander,LBT,12,4,4,4
+Otsego,Otsego 2,U.S. House,19,Victoria N. Alexander,LBT,4,1,1,2
+Otsego,Otsego 3,U.S. House,19,Victoria N. Alexander,LBT,8,2,3,3
+Otsego,Pittsfield 1,U.S. House,19,Victoria N. Alexander,LBT,6,1,5,0
+Otsego,Plainfield 1,U.S. House,19,Victoria N. Alexander,LBT,8,0,6,2
+Otsego,Richfield 1,U.S. House,19,Victoria N. Alexander,LBT,3,0,3,0
+Otsego,Richfield 2,U.S. House,19,Victoria N. Alexander,LBT,5,3,1,1
+Otsego,Roseboom 1,U.S. House,19,Victoria N. Alexander,LBT,2,0,0,2
+Otsego,Springfield 1,U.S. House,19,Victoria N. Alexander,LBT,9,1,6,2
+Otsego,Unadilla 1,U.S. House,19,Victoria N. Alexander,LBT,8,2,4,2
+Otsego,Unadilla 2,U.S. House,19,Victoria N. Alexander,LBT,7,0,5,2
+Otsego,Unadilla 3,U.S. House,19,Victoria N. Alexander,LBT,7,0,6,1
+Otsego,Westford 1,U.S. House,19,Victoria N. Alexander,LBT,5,0,4,1
+Otsego,Worcester 1,U.S. House,19,Victoria N. Alexander,LBT,12,0,7,5
+Otsego,Worcester 2,U.S. House,19,Victoria N. Alexander,LBT,3,1,1,1
+Otsego,Worcester 3,U.S. House,19,Victoria N. Alexander,LBT,6,1,4,1
+Otsego,Oneonta City Ward 1,U.S. House,19,Victoria N. Alexander,LBT,6,1,5,0
+Otsego,Oneonta City Ward 2,U.S. House,19,Victoria N. Alexander,LBT,4,2,1,1
+Otsego,Oneonta City Ward 3,U.S. House,19,Victoria N. Alexander,LBT,5,0,4,1
+Otsego,Oneonta City Ward 4,U.S. House,19,Victoria N. Alexander,LBT,5,0,3,2
+Otsego,Oneonta City Ward 5,U.S. House,19,Victoria N. Alexander,LBT,6,1,4,1
+Otsego,Oneonta City Ward 6,U.S. House,19,Victoria N. Alexander,LBT,8,0,7,1
+Otsego,Oneonta City Ward 7,U.S. House,19,Victoria N. Alexander,LBT,4,0,2,2
+Otsego,Oneonta City Ward 8,U.S. House,19,Victoria N. Alexander,LBT,5,0,3,2
+Otsego,Burlington 1,U.S. House,19,Antonio Delgado,SAM,2,0,2,0
+Otsego,Butternuts 1,U.S. House,19,Antonio Delgado,SAM,2,0,2,0
+Otsego,Butternuts 2,U.S. House,19,Antonio Delgado,SAM,4,0,4,0
+Otsego,Cherry Valley 1,U.S. House,19,Antonio Delgado,SAM,1,0,1,0
+Otsego,Decatur 1,U.S. House,19,Antonio Delgado,SAM,0,0,0,0
+Otsego,Edmeston 1,U.S. House,19,Antonio Delgado,SAM,3,0,3,0
+Otsego,Exeter 1,U.S. House,19,Antonio Delgado,SAM,2,1,1,0
+Otsego,Hartwick 1,U.S. House,19,Antonio Delgado,SAM,2,1,1,0
+Otsego,Hartwick 2,U.S. House,19,Antonio Delgado,SAM,0,0,0,0
+Otsego,Laurens 1,U.S. House,19,Antonio Delgado,SAM,1,0,1,0
+Otsego,Laurens 2,U.S. House,19,Antonio Delgado,SAM,1,0,1,0
+Otsego,Maryland 1,U.S. House,19,Antonio Delgado,SAM,0,0,0,0
+Otsego,Maryland 2,U.S. House,19,Antonio Delgado,SAM,2,0,2,0
+Otsego,Middlefield 1,U.S. House,19,Antonio Delgado,SAM,1,0,0,1
+Otsego,Middlefield 2,U.S. House,19,Antonio Delgado,SAM,2,1,1,0
+Otsego,Milford 1,U.S. House,19,Antonio Delgado,SAM,2,0,1,1
+Otsego,Milford 2,U.S. House,19,Antonio Delgado,SAM,0,0,0,0
+Otsego,Morris 1,U.S. House,19,Antonio Delgado,SAM,2,0,2,0
+Otsego,New Lisbon 1,U.S. House,19,Antonio Delgado,SAM,1,0,1,0
+Otsego,Oneonta 1,U.S. House,19,Antonio Delgado,SAM,2,0,1,1
+Otsego,Oneonta 2,U.S. House,19,Antonio Delgado,SAM,1,0,1,0
+Otsego,Oneonta 3,U.S. House,19,Antonio Delgado,SAM,3,1,0,2
+Otsego,Oneonta 4,U.S. House,19,Antonio Delgado,SAM,0,0,0,0
+Otsego,Otego 1,U.S. House,19,Antonio Delgado,SAM,0,0,0,0
+Otsego,Otego 2,U.S. House,19,Antonio Delgado,SAM,2,0,1,1
+Otsego,Otsego 1,U.S. House,19,Antonio Delgado,SAM,2,1,1,0
+Otsego,Otsego 2,U.S. House,19,Antonio Delgado,SAM,1,1,0,0
+Otsego,Otsego 3,U.S. House,19,Antonio Delgado,SAM,4,1,2,1
+Otsego,Pittsfield 1,U.S. House,19,Antonio Delgado,SAM,2,0,2,0
+Otsego,Plainfield 1,U.S. House,19,Antonio Delgado,SAM,1,0,1,0
+Otsego,Richfield 1,U.S. House,19,Antonio Delgado,SAM,0,0,0,0
+Otsego,Richfield 2,U.S. House,19,Antonio Delgado,SAM,1,0,1,0
+Otsego,Roseboom 1,U.S. House,19,Antonio Delgado,SAM,0,0,0,0
+Otsego,Springfield 1,U.S. House,19,Antonio Delgado,SAM,0,0,0,0
+Otsego,Unadilla 1,U.S. House,19,Antonio Delgado,SAM,1,0,1,0
+Otsego,Unadilla 2,U.S. House,19,Antonio Delgado,SAM,1,0,1,0
+Otsego,Unadilla 3,U.S. House,19,Antonio Delgado,SAM,0,0,0,0
+Otsego,Westford 1,U.S. House,19,Antonio Delgado,SAM,2,0,1,1
+Otsego,Worcester 1,U.S. House,19,Antonio Delgado,SAM,2,0,0,2
+Otsego,Worcester 2,U.S. House,19,Antonio Delgado,SAM,2,0,2,0
+Otsego,Worcester 3,U.S. House,19,Antonio Delgado,SAM,1,0,1,0
+Otsego,Oneonta City Ward 1,U.S. House,19,Antonio Delgado,SAM,3,1,2,0
+Otsego,Oneonta City Ward 2,U.S. House,19,Antonio Delgado,SAM,1,0,1,0
+Otsego,Oneonta City Ward 3,U.S. House,19,Antonio Delgado,SAM,0,0,0,0
+Otsego,Oneonta City Ward 4,U.S. House,19,Antonio Delgado,SAM,1,0,1,0
+Otsego,Oneonta City Ward 5,U.S. House,19,Antonio Delgado,SAM,1,0,1,0
+Otsego,Oneonta City Ward 6,U.S. House,19,Antonio Delgado,SAM,1,0,1,0
+Otsego,Oneonta City Ward 7,U.S. House,19,Antonio Delgado,SAM,0,0,0,0
+Otsego,Oneonta City Ward 8,U.S. House,19,Antonio Delgado,SAM,0,0,0,0
+Otsego,Burlington 1,U.S. House,19,Ola Hawatmeh,,54,2,48,4
+Otsego,Butternuts 1,U.S. House,19,Ola Hawatmeh,,5,1,4,0
+Otsego,Butternuts 2,U.S. House,19,Ola Hawatmeh,,13,0,13,0
+Otsego,Cherry Valley 1,U.S. House,19,Ola Hawatmeh,,10,0,9,1
+Otsego,Decatur 1,U.S. House,19,Ola Hawatmeh,,7,0,5,2
+Otsego,Edmeston 1,U.S. House,19,Ola Hawatmeh,,33,3,28,2
+Otsego,Exeter 1,U.S. House,19,Ola Hawatmeh,,9,0,9,0
+Otsego,Hartwick 1,U.S. House,19,Ola Hawatmeh,,174,9,153,12
+Otsego,Hartwick 2,U.S. House,19,Ola Hawatmeh,,40,8,29,3
+Otsego,Laurens 1,U.S. House,19,Ola Hawatmeh,,56,3,50,3
+Otsego,Laurens 2,U.S. House,19,Ola Hawatmeh,,66,3,58,5
+Otsego,Maryland 1,U.S. House,19,Ola Hawatmeh,,37,5,28,4
+Otsego,Maryland 2,U.S. House,19,Ola Hawatmeh,,19,2,17,0
+Otsego,Middlefield 1,U.S. House,19,Ola Hawatmeh,,14,5,9,0
+Otsego,Middlefield 2,U.S. House,19,Ola Hawatmeh,,44,9,33,2
+Otsego,Milford 1,U.S. House,19,Ola Hawatmeh,,21,5,16,0
+Otsego,Milford 2,U.S. House,19,Ola Hawatmeh,,41,13,28,0
+Otsego,Morris 1,U.S. House,19,Ola Hawatmeh,,32,0,31,1
+Otsego,New Lisbon 1,U.S. House,19,Ola Hawatmeh,,80,7,69,4
+Otsego,Oneonta 1,U.S. House,19,Ola Hawatmeh,,28,8,20,0
+Otsego,Oneonta 2,U.S. House,19,Ola Hawatmeh,,36,8,20,8
+Otsego,Oneonta 3,U.S. House,19,Ola Hawatmeh,,16,3,11,2
+Otsego,Oneonta 4,U.S. House,19,Ola Hawatmeh,,20,4,14,2
+Otsego,Otego 1,U.S. House,19,Ola Hawatmeh,,30,3,25,2
+Otsego,Otego 2,U.S. House,19,Ola Hawatmeh,,34,1,31,2
+Otsego,Otsego 1,U.S. House,19,Ola Hawatmeh,,11,3,8,0
+Otsego,Otsego 2,U.S. House,19,Ola Hawatmeh,,21,3,18,0
+Otsego,Otsego 3,U.S. House,19,Ola Hawatmeh,,69,12,50,7
+Otsego,Pittsfield 1,U.S. House,19,Ola Hawatmeh,,14,1,13,0
+Otsego,Plainfield 1,U.S. House,19,Ola Hawatmeh,,11,0,10,1
+Otsego,Richfield 1,U.S. House,19,Ola Hawatmeh,,9,2,6,1
+Otsego,Richfield 2,U.S. House,19,Ola Hawatmeh,,9,2,7,0
+Otsego,Roseboom 1,U.S. House,19,Ola Hawatmeh,,26,0,25,1
+Otsego,Springfield 1,U.S. House,19,Ola Hawatmeh,,13,2,10,1
+Otsego,Unadilla 1,U.S. House,19,Ola Hawatmeh,,30,1,28,1
+Otsego,Unadilla 2,U.S. House,19,Ola Hawatmeh,,11,0,11,0
+Otsego,Unadilla 3,U.S. House,19,Ola Hawatmeh,,13,0,13,0
+Otsego,Westford 1,U.S. House,19,Ola Hawatmeh,,33,4,28,1
+Otsego,Worcester 1,U.S. House,19,Ola Hawatmeh,,6,0,6,0
+Otsego,Worcester 2,U.S. House,19,Ola Hawatmeh,,9,1,7,1
+Otsego,Worcester 3,U.S. House,19,Ola Hawatmeh,,9,0,8,1
+Otsego,Oneonta City Ward 1,U.S. House,19,Ola Hawatmeh,,14,2,12,0
+Otsego,Oneonta City Ward 2,U.S. House,19,Ola Hawatmeh,,5,0,5,0
+Otsego,Oneonta City Ward 3,U.S. House,19,Ola Hawatmeh,,3,0,3,0
+Otsego,Oneonta City Ward 4,U.S. House,19,Ola Hawatmeh,,8,2,6,0
+Otsego,Oneonta City Ward 5,U.S. House,19,Ola Hawatmeh,,6,4,2,0
+Otsego,Oneonta City Ward 6,U.S. House,19,Ola Hawatmeh,,14,2,11,1
+Otsego,Oneonta City Ward 7,U.S. House,19,Ola Hawatmeh,,3,1,2,0
+Otsego,Oneonta City Ward 8,U.S. House,19,Ola Hawatmeh,,2,0,2,0
+Otsego,Burlington 1,U.S. House,19,Under Votes,,49,3,44,2
+Otsego,Butternuts 1,U.S. House,19,Under Votes,,22,1,17,4
+Otsego,Butternuts 2,U.S. House,19,Under Votes,,28,2,23,3
+Otsego,Cherry Valley 1,U.S. House,19,Under Votes,,42,1,38,3
+Otsego,Decatur 1,U.S. House,19,Under Votes,,26,0,25,1
+Otsego,Edmeston 1,U.S. House,19,Under Votes,,100,5,65,30
+Otsego,Exeter 1,U.S. House,19,Under Votes,,29,2,25,2
+Otsego,Hartwick 1,U.S. House,19,Under Votes,,36,4,31,1
+Otsego,Hartwick 2,U.S. House,19,Under Votes,,16,9,4,3
+Otsego,Laurens 1,U.S. House,19,Under Votes,,19,5,14,0
+Otsego,Laurens 2,U.S. House,19,Under Votes,,30,3,21,6
+Otsego,Maryland 1,U.S. House,19,Under Votes,,32,1,20,11
+Otsego,Maryland 2,U.S. House,19,Under Votes,,44,4,37,3
+Otsego,Middlefield 1,U.S. House,19,Under Votes,,14,5,5,4
+Otsego,Middlefield 2,U.S. House,19,Under Votes,,33,15,15,3
+Otsego,Milford 1,U.S. House,19,Under Votes,,27,3,17,7
+Otsego,Milford 2,U.S. House,19,Under Votes,,46,7,30,9
+Otsego,Morris 1,U.S. House,19,Under Votes,,56,1,46,9
+Otsego,New Lisbon 1,U.S. House,19,Under Votes,,32,1,29,2
+Otsego,Oneonta 1,U.S. House,19,Under Votes,,42,6,27,9
+Otsego,Oneonta 2,U.S. House,19,Under Votes,,34,12,16,6
+Otsego,Oneonta 3,U.S. House,19,Under Votes,,19,1,15,3
+Otsego,Oneonta 4,U.S. House,19,Under Votes,,22,2,17,3
+Otsego,Otego 1,U.S. House,19,Under Votes,,47,2,41,4
+Otsego,Otego 2,U.S. House,19,Under Votes,,33,4,23,6
+Otsego,Otsego 1,U.S. House,19,Under Votes,,45,13,20,12
+Otsego,Otsego 2,U.S. House,19,Under Votes,,14,3,4,7
+Otsego,Otsego 3,U.S. House,19,Under Votes,,34,5,25,4
+Otsego,Pittsfield 1,U.S. House,19,Under Votes,,54,2,47,5
+Otsego,Plainfield 1,U.S. House,19,Under Votes,,26,0,24,2
+Otsego,Richfield 1,U.S. House,19,Under Votes,,32,2,22,8
+Otsego,Richfield 2,U.S. House,19,Under Votes,,55,3,39,13
+Otsego,Roseboom 1,U.S. House,19,Under Votes,,21,2,17,2
+Otsego,Springfield 1,U.S. House,19,Under Votes,,43,3,33,7
+Otsego,Unadilla 1,U.S. House,19,Under Votes,,29,2,23,4
+Otsego,Unadilla 2,U.S. House,19,Under Votes,,44,1,38,5
+Otsego,Unadilla 3,U.S. House,19,Under Votes,,25,1,18,6
+Otsego,Westford 1,U.S. House,19,Under Votes,,31,2,29,0
+Otsego,Worcester 1,U.S. House,19,Under Votes,,22,0,18,4
+Otsego,Worcester 2,U.S. House,19,Under Votes,,24,1,23,0
+Otsego,Worcester 3,U.S. House,19,Under Votes,,21,3,12,6
+Otsego,Oneonta City Ward 1,U.S. House,19,Under Votes,,27,4,14,9
+Otsego,Oneonta City Ward 2,U.S. House,19,Under Votes,,9,2,3,4
+Otsego,Oneonta City Ward 3,U.S. House,19,Under Votes,,2,0,1,1
+Otsego,Oneonta City Ward 4,U.S. House,19,Under Votes,,6,0,3,3
+Otsego,Oneonta City Ward 5,U.S. House,19,Under Votes,,21,3,9,9
+Otsego,Oneonta City Ward 6,U.S. House,19,Under Votes,,37,3,26,8
+Otsego,Oneonta City Ward 7,U.S. House,19,Under Votes,,9,0,5,4
+Otsego,Oneonta City Ward 8,U.S. House,19,Under Votes,,13,0,8,5
+Otsego,Burlington 1,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Butternuts 1,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Butternuts 2,U.S. House,19,Over Votes,,1,0,1,0
+Otsego,Cherry Valley 1,U.S. House,19,Over Votes,,1,1,0,0
+Otsego,Decatur 1,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Edmeston 1,U.S. House,19,Over Votes,,2,0,2,0
+Otsego,Exeter 1,U.S. House,19,Over Votes,,1,0,0,1
+Otsego,Hartwick 1,U.S. House,19,Over Votes,,2,0,1,1
+Otsego,Hartwick 2,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Laurens 1,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Laurens 2,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Maryland 1,U.S. House,19,Over Votes,,1,0,1,0
+Otsego,Maryland 2,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Middlefield 1,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Middlefield 2,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Milford 1,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Milford 2,U.S. House,19,Over Votes,,1,0,1,0
+Otsego,Morris 1,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,New Lisbon 1,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Oneonta 1,U.S. House,19,Over Votes,,1,0,0,1
+Otsego,Oneonta 2,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Oneonta 3,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Oneonta 4,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Otego 1,U.S. House,19,Over Votes,,3,0,2,1
+Otsego,Otego 2,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Otsego 1,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Otsego 2,U.S. House,19,Over Votes,,1,0,1,0
+Otsego,Otsego 3,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Pittsfield 1,U.S. House,19,Over Votes,,1,0,1,0
+Otsego,Plainfield 1,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Richfield 1,U.S. House,19,Over Votes,,3,0,3,0
+Otsego,Richfield 2,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Roseboom 1,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Springfield 1,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Unadilla 1,U.S. House,19,Over Votes,,1,0,1,0
+Otsego,Unadilla 2,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Unadilla 3,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Westford 1,U.S. House,19,Over Votes,,1,0,1,0
+Otsego,Worcester 1,U.S. House,19,Over Votes,,1,0,1,0
+Otsego,Worcester 2,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Worcester 3,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 1,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 2,U.S. House,19,Over Votes,,1,0,1,0
+Otsego,Oneonta City Ward 3,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 4,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 5,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 6,U.S. House,19,Over Votes,,1,1,0,0
+Otsego,Oneonta City Ward 7,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 8,U.S. House,19,Over Votes,,0,0,0,0
+Otsego,Burlington 1,U.S. House,19,Unqualified Write-ins,,1,0,0,1
+Otsego,Butternuts 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Butternuts 2,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Cherry Valley 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Decatur 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Edmeston 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Exeter 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Hartwick 1,U.S. House,19,Unqualified Write-ins,,1,0,0,1
+Otsego,Hartwick 2,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Laurens 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Laurens 2,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Maryland 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Maryland 2,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Middlefield 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Middlefield 2,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Milford 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Milford 2,U.S. House,19,Unqualified Write-ins,,3,1,1,1
+Otsego,Morris 1,U.S. House,19,Unqualified Write-ins,,1,0,1,0
+Otsego,New Lisbon 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta 2,U.S. House,19,Unqualified Write-ins,,1,0,1,0
+Otsego,Oneonta 3,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta 4,U.S. House,19,Unqualified Write-ins,,1,0,1,0
+Otsego,Otego 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Otego 2,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Otsego 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Otsego 2,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Otsego 3,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Pittsfield 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Plainfield 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Richfield 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Richfield 2,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Roseboom 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Springfield 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Unadilla 1,U.S. House,19,Unqualified Write-ins,,1,0,1,0
+Otsego,Unadilla 2,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Unadilla 3,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Westford 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Worcester 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Worcester 2,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Worcester 3,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 1,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 2,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 3,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 4,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 5,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 6,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 7,U.S. House,19,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 8,U.S. House,19,Unqualified Write-ins,,1,0,1,0
+Otsego,Burlington 1,State Senate,51,Jim Barber,DEM,157,14,104,39
+Otsego,Butternuts 1,State Senate,51,Jim Barber,DEM,116,7,77,32
+Otsego,Butternuts 2,State Senate,51,Jim Barber,DEM,250,30,149,71
+Otsego,Cherry Valley 1,State Senate,51,Jim Barber,DEM,316,78,163,75
+Otsego,Decatur 1,State Senate,51,Jim Barber,DEM,57,2,46,9
+Otsego,Edmeston 1,State Senate,51,Jim Barber,DEM,246,36,160,50
+Otsego,Exeter 1,State Senate,51,Jim Barber,DEM,113,19,59,35
+Otsego,Hartwick 1,State Senate,51,Jim Barber,DEM,288,124,107,57
+Otsego,Hartwick 2,State Senate,51,Jim Barber,DEM,148,61,40,47
+Otsego,Laurens 1,State Senate,51,Jim Barber,DEM,208,48,97,63
+Otsego,Laurens 2,State Senate,51,Jim Barber,DEM,237,54,117,66
+Otsego,Maryland 1,State Senate,51,Jim Barber,DEM,107,32,39,36
+Otsego,Maryland 2,State Senate,51,Jim Barber,DEM,154,17,92,45
+Otsego,Middlefield 1,State Senate,51,Jim Barber,DEM,324,191,36,97
+Otsego,Middlefield 2,State Senate,51,Jim Barber,DEM,316,193,58,65
+Otsego,Milford 1,State Senate,51,Jim Barber,DEM,212,82,77,53
+Otsego,Milford 2,State Senate,51,Jim Barber,DEM,375,131,132,112
+Otsego,Morris 1,State Senate,51,Jim Barber,DEM,308,42,170,96
+Otsego,New Lisbon 1,State Senate,51,Jim Barber,DEM,219,35,132,52
+Otsego,Oneonta 1,State Senate,51,Jim Barber,DEM,383,95,166,122
+Otsego,Oneonta 2,State Senate,51,Jim Barber,DEM,376,132,103,141
+Otsego,Oneonta 3,State Senate,51,Jim Barber,DEM,291,87,102,102
+Otsego,Oneonta 4,State Senate,51,Jim Barber,DEM,216,54,96,66
+Otsego,Otego 1,State Senate,51,Jim Barber,DEM,220,18,116,86
+Otsego,Otego 2,State Senate,51,Jim Barber,DEM,280,58,155,67
+Otsego,Otsego 1,State Senate,51,Jim Barber,DEM,656,377,130,149
+Otsego,Otsego 2,State Senate,51,Jim Barber,DEM,226,129,50,47
+Otsego,Otsego 3,State Senate,51,Jim Barber,DEM,386,178,121,87
+Otsego,Pittsfield 1,State Senate,51,Jim Barber,DEM,157,12,110,35
+Otsego,Plainfield 1,State Senate,51,Jim Barber,DEM,105,10,79,16
+Otsego,Richfield 1,State Senate,51,Jim Barber,DEM,164,37,92,35
+Otsego,Richfield 2,State Senate,51,Jim Barber,DEM,140,26,82,32
+Otsego,Roseboom 1,State Senate,51,Jim Barber,DEM,183,37,91,55
+Otsego,Springfield 1,State Senate,51,Jim Barber,DEM,216,59,104,53
+Otsego,Unadilla 1,State Senate,51,Jim Barber,DEM,190,32,105,53
+Otsego,Unadilla 2,State Senate,51,Jim Barber,DEM,260,36,131,93
+Otsego,Unadilla 3,State Senate,51,Jim Barber,DEM,228,36,120,72
+Otsego,Westford 1,State Senate,51,Jim Barber,DEM,124,33,68,23
+Otsego,Worcester 1,State Senate,51,Jim Barber,DEM,132,36,64,32
+Otsego,Worcester 2,State Senate,51,Jim Barber,DEM,80,13,35,32
+Otsego,Worcester 3,State Senate,51,Jim Barber,DEM,130,12,79,39
+Otsego,Oneonta City Ward 1,State Senate,51,Jim Barber,DEM,481,166,171,144
+Otsego,Oneonta City Ward 2,State Senate,51,Jim Barber,DEM,356,95,136,125
+Otsego,Oneonta City Ward 3,State Senate,51,Jim Barber,DEM,220,62,81,77
+Otsego,Oneonta City Ward 4,State Senate,51,Jim Barber,DEM,254,74,89,91
+Otsego,Oneonta City Ward 5,State Senate,51,Jim Barber,DEM,268,91,107,70
+Otsego,Oneonta City Ward 6,State Senate,51,Jim Barber,DEM,330,88,135,107
+Otsego,Oneonta City Ward 7,State Senate,51,Jim Barber,DEM,200,58,77,65
+Otsego,Oneonta City Ward 8,State Senate,51,Jim Barber,DEM,276,66,113,97
+Otsego,Burlington 1,State Senate,51,Peter Oberacker,REP,381,27,314,40
+Otsego,Butternuts 1,State Senate,51,Peter Oberacker,REP,202,6,176,20
+Otsego,Butternuts 2,State Senate,51,Peter Oberacker,REP,294,14,254,26
+Otsego,Cherry Valley 1,State Senate,51,Peter Oberacker,REP,297,24,235,38
+Otsego,Decatur 1,State Senate,51,Peter Oberacker,REP,138,6,115,17
+Otsego,Edmeston 1,State Senate,51,Peter Oberacker,REP,494,33,408,53
+Otsego,Exeter 1,State Senate,51,Peter Oberacker,REP,259,16,221,22
+Otsego,Hartwick 1,State Senate,51,Peter Oberacker,REP,316,28,244,44
+Otsego,Hartwick 2,State Senate,51,Peter Oberacker,REP,193,65,112,16
+Otsego,Laurens 1,State Senate,51,Peter Oberacker,REP,262,24,209,29
+Otsego,Laurens 2,State Senate,51,Peter Oberacker,REP,335,30,260,45
+Otsego,Maryland 1,State Senate,51,Peter Oberacker,REP,241,24,166,51
+Otsego,Maryland 2,State Senate,51,Peter Oberacker,REP,378,33,308,37
+Otsego,Middlefield 1,State Senate,51,Peter Oberacker,REP,140,50,71,19
+Otsego,Middlefield 2,State Senate,51,Peter Oberacker,REP,335,93,214,28
+Otsego,Milford 1,State Senate,51,Peter Oberacker,REP,312,69,194,49
+Otsego,Milford 2,State Senate,51,Peter Oberacker,REP,467,111,302,54
+Otsego,Morris 1,State Senate,51,Peter Oberacker,REP,456,13,393,50
+Otsego,New Lisbon 1,State Senate,51,Peter Oberacker,REP,336,23,268,45
+Otsego,Oneonta 1,State Senate,51,Peter Oberacker,REP,352,56,229,67
+Otsego,Oneonta 2,State Senate,51,Peter Oberacker,REP,327,82,188,57
+Otsego,Oneonta 3,State Senate,51,Peter Oberacker,REP,234,33,172,29
+Otsego,Oneonta 4,State Senate,51,Peter Oberacker,REP,234,27,173,34
+Otsego,Otego 1,State Senate,51,Peter Oberacker,REP,409,31,313,65
+Otsego,Otego 2,State Senate,51,Peter Oberacker,REP,432,22,326,84
+Otsego,Otsego 1,State Senate,51,Peter Oberacker,REP,265,89,125,51
+Otsego,Otsego 2,State Senate,51,Peter Oberacker,REP,165,48,88,29
+Otsego,Otsego 3,State Senate,51,Peter Oberacker,REP,372,60,253,59
+Otsego,Pittsfield 1,State Senate,51,Peter Oberacker,REP,342,11,293,38
+Otsego,Plainfield 1,State Senate,51,Peter Oberacker,REP,315,6,285,24
+Otsego,Richfield 1,State Senate,51,Peter Oberacker,REP,288,19,237,32
+Otsego,Richfield 2,State Senate,51,Peter Oberacker,REP,384,25,315,44
+Otsego,Roseboom 1,State Senate,51,Peter Oberacker,REP,205,9,183,13
+Otsego,Springfield 1,State Senate,51,Peter Oberacker,REP,365,15,304,46
+Otsego,Unadilla 1,State Senate,51,Peter Oberacker,REP,334,27,281,26
+Otsego,Unadilla 2,State Senate,51,Peter Oberacker,REP,495,18,407,70
+Otsego,Unadilla 3,State Senate,51,Peter Oberacker,REP,231,10,196,25
+Otsego,Westford 1,State Senate,51,Peter Oberacker,REP,301,32,247,22
+Otsego,Worcester 1,State Senate,51,Peter Oberacker,REP,245,11,209,25
+Otsego,Worcester 2,State Senate,51,Peter Oberacker,REP,180,10,156,14
+Otsego,Worcester 3,State Senate,51,Peter Oberacker,REP,247,11,200,36
+Otsego,Oneonta City Ward 1,State Senate,51,Peter Oberacker,REP,266,42,187,37
+Otsego,Oneonta City Ward 2,State Senate,51,Peter Oberacker,REP,115,26,70,19
+Otsego,Oneonta City Ward 3,State Senate,51,Peter Oberacker,REP,58,7,33,18
+Otsego,Oneonta City Ward 4,State Senate,51,Peter Oberacker,REP,96,8,62,26
+Otsego,Oneonta City Ward 5,State Senate,51,Peter Oberacker,REP,200,27,132,41
+Otsego,Oneonta City Ward 6,State Senate,51,Peter Oberacker,REP,258,35,181,42
+Otsego,Oneonta City Ward 7,State Senate,51,Peter Oberacker,REP,92,9,64,19
+Otsego,Oneonta City Ward 8,State Senate,51,Peter Oberacker,REP,112,11,78,23
+Otsego,Burlington 1,State Senate,51,Peter Oberacker,CON,17,2,13,2
+Otsego,Butternuts 1,State Senate,51,Peter Oberacker,CON,13,0,11,2
+Otsego,Butternuts 2,State Senate,51,Peter Oberacker,CON,18,1,16,1
+Otsego,Cherry Valley 1,State Senate,51,Peter Oberacker,CON,22,2,16,4
+Otsego,Decatur 1,State Senate,51,Peter Oberacker,CON,12,0,11,1
+Otsego,Edmeston 1,State Senate,51,Peter Oberacker,CON,37,1,35,1
+Otsego,Exeter 1,State Senate,51,Peter Oberacker,CON,27,3,23,1
+Otsego,Hartwick 1,State Senate,51,Peter Oberacker,CON,58,4,50,4
+Otsego,Hartwick 2,State Senate,51,Peter Oberacker,CON,9,4,4,1
+Otsego,Laurens 1,State Senate,51,Peter Oberacker,CON,26,2,18,6
+Otsego,Laurens 2,State Senate,51,Peter Oberacker,CON,24,5,16,3
+Otsego,Maryland 1,State Senate,51,Peter Oberacker,CON,10,0,7,3
+Otsego,Maryland 2,State Senate,51,Peter Oberacker,CON,22,0,20,2
+Otsego,Middlefield 1,State Senate,51,Peter Oberacker,CON,11,6,3,2
+Otsego,Middlefield 2,State Senate,51,Peter Oberacker,CON,19,10,9,0
+Otsego,Milford 1,State Senate,51,Peter Oberacker,CON,20,1,15,4
+Otsego,Milford 2,State Senate,51,Peter Oberacker,CON,40,9,26,5
+Otsego,Morris 1,State Senate,51,Peter Oberacker,CON,26,0,23,3
+Otsego,New Lisbon 1,State Senate,51,Peter Oberacker,CON,23,1,20,2
+Otsego,Oneonta 1,State Senate,51,Peter Oberacker,CON,30,4,24,2
+Otsego,Oneonta 2,State Senate,51,Peter Oberacker,CON,14,5,5,4
+Otsego,Oneonta 3,State Senate,51,Peter Oberacker,CON,17,4,11,2
+Otsego,Oneonta 4,State Senate,51,Peter Oberacker,CON,12,1,9,2
+Otsego,Otego 1,State Senate,51,Peter Oberacker,CON,28,2,26,0
+Otsego,Otego 2,State Senate,51,Peter Oberacker,CON,27,1,20,6
+Otsego,Otsego 1,State Senate,51,Peter Oberacker,CON,17,7,7,3
+Otsego,Otsego 2,State Senate,51,Peter Oberacker,CON,11,1,5,5
+Otsego,Otsego 3,State Senate,51,Peter Oberacker,CON,31,12,19,0
+Otsego,Pittsfield 1,State Senate,51,Peter Oberacker,CON,17,1,14,2
+Otsego,Plainfield 1,State Senate,51,Peter Oberacker,CON,14,2,10,2
+Otsego,Richfield 1,State Senate,51,Peter Oberacker,CON,15,3,8,4
+Otsego,Richfield 2,State Senate,51,Peter Oberacker,CON,23,4,17,2
+Otsego,Roseboom 1,State Senate,51,Peter Oberacker,CON,12,1,10,1
+Otsego,Springfield 1,State Senate,51,Peter Oberacker,CON,34,1,29,4
+Otsego,Unadilla 1,State Senate,51,Peter Oberacker,CON,18,1,13,4
+Otsego,Unadilla 2,State Senate,51,Peter Oberacker,CON,20,1,17,2
+Otsego,Unadilla 3,State Senate,51,Peter Oberacker,CON,9,0,9,0
+Otsego,Westford 1,State Senate,51,Peter Oberacker,CON,22,2,16,4
+Otsego,Worcester 1,State Senate,51,Peter Oberacker,CON,21,0,16,5
+Otsego,Worcester 2,State Senate,51,Peter Oberacker,CON,12,1,9,2
+Otsego,Worcester 3,State Senate,51,Peter Oberacker,CON,16,2,10,4
+Otsego,Oneonta City Ward 1,State Senate,51,Peter Oberacker,CON,17,1,13,3
+Otsego,Oneonta City Ward 2,State Senate,51,Peter Oberacker,CON,5,1,4,0
+Otsego,Oneonta City Ward 3,State Senate,51,Peter Oberacker,CON,6,0,4,2
+Otsego,Oneonta City Ward 4,State Senate,51,Peter Oberacker,CON,5,0,3,2
+Otsego,Oneonta City Ward 5,State Senate,51,Peter Oberacker,CON,15,1,12,2
+Otsego,Oneonta City Ward 6,State Senate,51,Peter Oberacker,CON,19,2,11,6
+Otsego,Oneonta City Ward 7,State Senate,51,Peter Oberacker,CON,5,0,3,2
+Otsego,Oneonta City Ward 8,State Senate,51,Peter Oberacker,CON,10,0,5,5
+Otsego,Burlington 1,State Senate,51,Peter Oberacker,IND,5,1,4,0
+Otsego,Butternuts 1,State Senate,51,Peter Oberacker,IND,3,1,1,1
+Otsego,Butternuts 2,State Senate,51,Peter Oberacker,IND,2,0,1,1
+Otsego,Cherry Valley 1,State Senate,51,Peter Oberacker,IND,13,3,7,3
+Otsego,Decatur 1,State Senate,51,Peter Oberacker,IND,5,0,5,0
+Otsego,Edmeston 1,State Senate,51,Peter Oberacker,IND,12,0,10,2
+Otsego,Exeter 1,State Senate,51,Peter Oberacker,IND,6,1,4,1
+Otsego,Hartwick 1,State Senate,51,Peter Oberacker,IND,5,1,2,2
+Otsego,Hartwick 2,State Senate,51,Peter Oberacker,IND,8,2,3,3
+Otsego,Laurens 1,State Senate,51,Peter Oberacker,IND,8,1,7,0
+Otsego,Laurens 2,State Senate,51,Peter Oberacker,IND,10,3,5,2
+Otsego,Maryland 1,State Senate,51,Peter Oberacker,IND,13,3,7,3
+Otsego,Maryland 2,State Senate,51,Peter Oberacker,IND,16,1,11,4
+Otsego,Middlefield 1,State Senate,51,Peter Oberacker,IND,9,4,5,0
+Otsego,Middlefield 2,State Senate,51,Peter Oberacker,IND,11,4,6,1
+Otsego,Milford 1,State Senate,51,Peter Oberacker,IND,1,0,0,1
+Otsego,Milford 2,State Senate,51,Peter Oberacker,IND,14,3,9,2
+Otsego,Morris 1,State Senate,51,Peter Oberacker,IND,18,3,9,6
+Otsego,New Lisbon 1,State Senate,51,Peter Oberacker,IND,13,0,12,1
+Otsego,Oneonta 1,State Senate,51,Peter Oberacker,IND,12,2,8,2
+Otsego,Oneonta 2,State Senate,51,Peter Oberacker,IND,16,4,6,6
+Otsego,Oneonta 3,State Senate,51,Peter Oberacker,IND,12,2,5,5
+Otsego,Oneonta 4,State Senate,51,Peter Oberacker,IND,9,0,8,1
+Otsego,Otego 1,State Senate,51,Peter Oberacker,IND,7,0,6,1
+Otsego,Otego 2,State Senate,51,Peter Oberacker,IND,7,0,6,1
+Otsego,Otsego 1,State Senate,51,Peter Oberacker,IND,11,4,5,2
+Otsego,Otsego 2,State Senate,51,Peter Oberacker,IND,12,5,3,4
+Otsego,Otsego 3,State Senate,51,Peter Oberacker,IND,7,2,5,0
+Otsego,Pittsfield 1,State Senate,51,Peter Oberacker,IND,11,0,9,2
+Otsego,Plainfield 1,State Senate,51,Peter Oberacker,IND,9,0,8,1
+Otsego,Richfield 1,State Senate,51,Peter Oberacker,IND,12,0,12,0
+Otsego,Richfield 2,State Senate,51,Peter Oberacker,IND,8,2,4,2
+Otsego,Roseboom 1,State Senate,51,Peter Oberacker,IND,4,1,3,0
+Otsego,Springfield 1,State Senate,51,Peter Oberacker,IND,10,0,8,2
+Otsego,Unadilla 1,State Senate,51,Peter Oberacker,IND,10,1,7,2
+Otsego,Unadilla 2,State Senate,51,Peter Oberacker,IND,9,0,3,6
+Otsego,Unadilla 3,State Senate,51,Peter Oberacker,IND,9,0,9,0
+Otsego,Westford 1,State Senate,51,Peter Oberacker,IND,7,1,5,1
+Otsego,Worcester 1,State Senate,51,Peter Oberacker,IND,11,0,9,2
+Otsego,Worcester 2,State Senate,51,Peter Oberacker,IND,12,0,11,1
+Otsego,Worcester 3,State Senate,51,Peter Oberacker,IND,6,2,3,1
+Otsego,Oneonta City Ward 1,State Senate,51,Peter Oberacker,IND,8,1,5,2
+Otsego,Oneonta City Ward 2,State Senate,51,Peter Oberacker,IND,6,2,2,2
+Otsego,Oneonta City Ward 3,State Senate,51,Peter Oberacker,IND,4,0,1,3
+Otsego,Oneonta City Ward 4,State Senate,51,Peter Oberacker,IND,3,0,1,2
+Otsego,Oneonta City Ward 5,State Senate,51,Peter Oberacker,IND,13,2,11,0
+Otsego,Oneonta City Ward 6,State Senate,51,Peter Oberacker,IND,12,0,6,6
+Otsego,Oneonta City Ward 7,State Senate,51,Peter Oberacker,IND,2,0,1,1
+Otsego,Oneonta City Ward 8,State Senate,51,Peter Oberacker,IND,6,0,4,2
+Otsego,Burlington 1,State Senate,51,Under Votes,,41,1,37,3
+Otsego,Butternuts 1,State Senate,51,Under Votes,,17,2,12,3
+Otsego,Butternuts 2,State Senate,51,Under Votes,,25,4,17,4
+Otsego,Cherry Valley 1,State Senate,51,Under Votes,,32,0,29,3
+Otsego,Decatur 1,State Senate,51,Under Votes,,3,0,3,0
+Otsego,Edmeston 1,State Senate,51,Under Votes,,79,7,41,31
+Otsego,Exeter 1,State Senate,51,Under Votes,,31,2,26,3
+Otsego,Hartwick 1,State Senate,51,Under Votes,,43,7,31,5
+Otsego,Hartwick 2,State Senate,51,Under Votes,,11,5,3,3
+Otsego,Laurens 1,State Senate,51,Under Votes,,13,1,9,3
+Otsego,Laurens 2,State Senate,51,Under Votes,,20,2,11,7
+Otsego,Maryland 1,State Senate,51,Under Votes,,10,0,6,4
+Otsego,Maryland 2,State Senate,51,Under Votes,,7,1,3,3
+Otsego,Middlefield 1,State Senate,51,Under Votes,,16,7,4,5
+Otsego,Middlefield 2,State Senate,51,Under Votes,,20,7,10,3
+Otsego,Milford 1,State Senate,51,Under Votes,,18,2,12,4
+Otsego,Milford 2,State Senate,51,Under Votes,,26,3,16,7
+Otsego,Morris 1,State Senate,51,Under Votes,,39,0,29,10
+Otsego,New Lisbon 1,State Senate,51,Under Votes,,20,2,17,1
+Otsego,Oneonta 1,State Senate,51,Under Votes,,34,4,18,12
+Otsego,Oneonta 2,State Senate,51,Under Votes,,37,7,21,9
+Otsego,Oneonta 3,State Senate,51,Under Votes,,18,1,11,6
+Otsego,Oneonta 4,State Senate,51,Under Votes,,16,2,10,4
+Otsego,Otego 1,State Senate,51,Under Votes,,30,0,27,3
+Otsego,Otego 2,State Senate,51,Under Votes,,31,5,21,5
+Otsego,Otsego 1,State Senate,51,Under Votes,,44,12,18,14
+Otsego,Otsego 2,State Senate,51,Under Votes,,17,2,3,12
+Otsego,Otsego 3,State Senate,51,Under Votes,,22,5,15,2
+Otsego,Pittsfield 1,State Senate,51,Under Votes,,50,2,41,7
+Otsego,Plainfield 1,State Senate,51,Under Votes,,30,0,27,3
+Otsego,Richfield 1,State Senate,51,Under Votes,,32,1,21,10
+Otsego,Richfield 2,State Senate,51,Under Votes,,44,3,28,13
+Otsego,Roseboom 1,State Senate,51,Under Votes,,19,1,16,2
+Otsego,Springfield 1,State Senate,51,Under Votes,,26,3,16,7
+Otsego,Unadilla 1,State Senate,51,Under Votes,,22,3,18,1
+Otsego,Unadilla 2,State Senate,51,Under Votes,,36,1,26,9
+Otsego,Unadilla 3,State Senate,51,Under Votes,,26,1,15,10
+Otsego,Westford 1,State Senate,51,Under Votes,,11,3,8,0
+Otsego,Worcester 1,State Senate,51,Under Votes,,12,0,8,4
+Otsego,Worcester 2,State Senate,51,Under Votes,,9,1,8,0
+Otsego,Worcester 3,State Senate,51,Under Votes,,14,1,7,6
+Otsego,Oneonta City Ward 1,State Senate,51,Under Votes,,25,4,12,9
+Otsego,Oneonta City Ward 2,State Senate,51,Under Votes,,11,3,2,6
+Otsego,Oneonta City Ward 3,State Senate,51,Under Votes,,4,0,2,2
+Otsego,Oneonta City Ward 4,State Senate,51,Under Votes,,10,1,6,3
+Otsego,Oneonta City Ward 5,State Senate,51,Under Votes,,19,2,10,7
+Otsego,Oneonta City Ward 6,State Senate,51,Under Votes,,32,2,21,9
+Otsego,Oneonta City Ward 7,State Senate,51,Under Votes,,12,1,6,5
+Otsego,Oneonta City Ward 8,State Senate,51,Under Votes,,18,3,11,4
+Otsego,Burlington 1,State Senate,51,Over Votes,,1,0,1,0
+Otsego,Butternuts 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Butternuts 2,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Cherry Valley 1,State Senate,51,Over Votes,,1,0,1,0
+Otsego,Decatur 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Edmeston 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Exeter 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Hartwick 1,State Senate,51,Over Votes,,2,0,2,0
+Otsego,Hartwick 2,State Senate,51,Over Votes,,1,0,1,0
+Otsego,Laurens 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Laurens 2,State Senate,51,Over Votes,,1,0,0,1
+Otsego,Maryland 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Maryland 2,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Middlefield 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Middlefield 2,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Milford 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Milford 2,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Morris 1,State Senate,51,Over Votes,,1,0,1,0
+Otsego,New Lisbon 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Oneonta 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Oneonta 2,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Oneonta 3,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Oneonta 4,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Otego 1,State Senate,51,Over Votes,,2,0,2,0
+Otsego,Otego 2,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Otsego 1,State Senate,51,Over Votes,,1,0,1,0
+Otsego,Otsego 2,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Otsego 3,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Pittsfield 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Plainfield 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Richfield 1,State Senate,51,Over Votes,,2,0,2,0
+Otsego,Richfield 2,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Roseboom 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Springfield 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Unadilla 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Unadilla 2,State Senate,51,Over Votes,,1,0,1,0
+Otsego,Unadilla 3,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Westford 1,State Senate,51,Over Votes,,2,0,2,0
+Otsego,Worcester 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Worcester 2,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Worcester 3,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 1,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 2,State Senate,51,Over Votes,,1,0,0,1
+Otsego,Oneonta City Ward 3,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 4,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 5,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 6,State Senate,51,Over Votes,,1,1,0,0
+Otsego,Oneonta City Ward 7,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 8,State Senate,51,Over Votes,,0,0,0,0
+Otsego,Burlington 1,State Senate,51,Unqualified Write-ins,,1,0,1,0
+Otsego,Butternuts 1,State Senate,51,Unqualified Write-ins,,0,0,0,0
+Otsego,Butternuts 2,State Senate,51,Unqualified Write-ins,,2,0,2,0
+Otsego,Cherry Valley 1,State Senate,51,Unqualified Write-ins,,2,0,2,0
+Otsego,Decatur 1,State Senate,51,Unqualified Write-ins,,0,0,0,0
+Otsego,Edmeston 1,State Senate,51,Unqualified Write-ins,,2,0,2,0
+Otsego,Exeter 1,State Senate,51,Unqualified Write-ins,,1,0,1,0
+Otsego,Hartwick 1,State Senate,51,Unqualified Write-ins,,23,1,20,2
+Otsego,Hartwick 2,State Senate,51,Unqualified Write-ins,,3,1,2,0
+Otsego,Laurens 1,State Senate,51,Unqualified Write-ins,,4,1,3,0
+Otsego,Laurens 2,State Senate,51,Unqualified Write-ins,,1,0,1,0
+Otsego,Maryland 1,State Senate,51,Unqualified Write-ins,,3,0,2,1
+Otsego,Maryland 2,State Senate,51,Unqualified Write-ins,,2,0,2,0
+Otsego,Middlefield 1,State Senate,51,Unqualified Write-ins,,2,1,1,0
+Otsego,Middlefield 2,State Senate,51,Unqualified Write-ins,,4,0,4,0
+Otsego,Milford 1,State Senate,51,Unqualified Write-ins,,8,2,4,2
+Otsego,Milford 2,State Senate,51,Unqualified Write-ins,,6,0,6,0
+Otsego,Morris 1,State Senate,51,Unqualified Write-ins,,7,0,7,0
+Otsego,New Lisbon 1,State Senate,51,Unqualified Write-ins,,8,0,8,0
+Otsego,Oneonta 1,State Senate,51,Unqualified Write-ins,,1,1,0,0
+Otsego,Oneonta 2,State Senate,51,Unqualified Write-ins,,2,1,1,0
+Otsego,Oneonta 3,State Senate,51,Unqualified Write-ins,,1,0,1,0
+Otsego,Oneonta 4,State Senate,51,Unqualified Write-ins,,2,1,1,0
+Otsego,Otego 1,State Senate,51,Unqualified Write-ins,,10,0,10,0
+Otsego,Otego 2,State Senate,51,Unqualified Write-ins,,8,0,8,0
+Otsego,Otsego 1,State Senate,51,Unqualified Write-ins,,0,0,0,0
+Otsego,Otsego 2,State Senate,51,Unqualified Write-ins,,0,0,0,0
+Otsego,Otsego 3,State Senate,51,Unqualified Write-ins,,4,0,4,0
+Otsego,Pittsfield 1,State Senate,51,Unqualified Write-ins,,1,0,1,0
+Otsego,Plainfield 1,State Senate,51,Unqualified Write-ins,,0,0,0,0
+Otsego,Richfield 1,State Senate,51,Unqualified Write-ins,,0,0,0,0
+Otsego,Richfield 2,State Senate,51,Unqualified Write-ins,,0,0,0,0
+Otsego,Roseboom 1,State Senate,51,Unqualified Write-ins,,2,0,2,0
+Otsego,Springfield 1,State Senate,51,Unqualified Write-ins,,0,0,0,0
+Otsego,Unadilla 1,State Senate,51,Unqualified Write-ins,,2,0,2,0
+Otsego,Unadilla 2,State Senate,51,Unqualified Write-ins,,1,0,1,0
+Otsego,Unadilla 3,State Senate,51,Unqualified Write-ins,,3,0,3,0
+Otsego,Westford 1,State Senate,51,Unqualified Write-ins,,3,0,3,0
+Otsego,Worcester 1,State Senate,51,Unqualified Write-ins,,0,0,0,0
+Otsego,Worcester 2,State Senate,51,Unqualified Write-ins,,1,0,1,0
+Otsego,Worcester 3,State Senate,51,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 1,State Senate,51,Unqualified Write-ins,,5,0,5,0
+Otsego,Oneonta City Ward 2,State Senate,51,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 3,State Senate,51,Unqualified Write-ins,,2,0,2,0
+Otsego,Oneonta City Ward 4,State Senate,51,Unqualified Write-ins,,1,0,1,0
+Otsego,Oneonta City Ward 5,State Senate,51,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 6,State Senate,51,Unqualified Write-ins,,3,0,3,0
+Otsego,Oneonta City Ward 7,State Senate,51,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 8,State Senate,51,Unqualified Write-ins,,1,0,1,0
+Otsego,Maryland 1,State Assembly,101,Chad J. McEvoy,DEM,104,29,36,39
+Otsego,Maryland 2,State Assembly,101,Chad J. McEvoy,DEM,135,16,81,38
+Otsego,Middlefield 1,State Assembly,101,Chad J. McEvoy,DEM,300,180,31,89
+Otsego,Middlefield 2,State Assembly,101,Chad J. McEvoy,DEM,268,170,43,55
+Otsego,Springfield 1,State Assembly,101,Chad J. McEvoy,DEM,200,57,94,49
+Otsego,Westford 1,State Assembly,101,Chad J. McEvoy,DEM,123,33,67,23
+Otsego,Maryland 1,State Assembly,101,Brian D. Miller,REP,218,23,155,40
+Otsego,Maryland 2,State Assembly,101,Brian D. Miller,REP,351,25,287,39
+Otsego,Middlefield 1,State Assembly,101,Brian D. Miller,REP,137,50,69,18
+Otsego,Middlefield 2,State Assembly,101,Brian D. Miller,REP,339,91,218,30
+Otsego,Springfield 1,State Assembly,101,Brian D. Miller,REP,355,14,291,50
+Otsego,Westford 1,State Assembly,101,Brian D. Miller,REP,271,28,222,21
+Otsego,Maryland 1,State Assembly,101,Brian D. Miller,CON,5,0,5,0
+Otsego,Maryland 2,State Assembly,101,Brian D. Miller,CON,20,0,18,2
+Otsego,Middlefield 1,State Assembly,101,Brian D. Miller,CON,10,3,6,1
+Otsego,Middlefield 2,State Assembly,101,Brian D. Miller,CON,13,6,7,0
+Otsego,Springfield 1,State Assembly,101,Brian D. Miller,CON,28,0,24,4
+Otsego,Westford 1,State Assembly,101,Brian D. Miller,CON,20,1,17,2
+Otsego,Maryland 1,State Assembly,101,Chad J. McEvoy,WOR,16,3,7,6
+Otsego,Maryland 2,State Assembly,101,Chad J. McEvoy,WOR,15,1,9,5
+Otsego,Middlefield 1,State Assembly,101,Chad J. McEvoy,WOR,15,10,1,4
+Otsego,Middlefield 2,State Assembly,101,Chad J. McEvoy,WOR,20,10,8,2
+Otsego,Springfield 1,State Assembly,101,Chad J. McEvoy,WOR,14,2,10,2
+Otsego,Westford 1,State Assembly,101,Chad J. McEvoy,WOR,13,5,4,4
+Otsego,Maryland 1,State Assembly,101,Barbara A. Kidney,GRE,5,1,3,1
+Otsego,Maryland 2,State Assembly,101,Barbara A. Kidney,GRE,18,3,12,3
+Otsego,Middlefield 1,State Assembly,101,Barbara A. Kidney,GRE,9,3,3,3
+Otsego,Middlefield 2,State Assembly,101,Barbara A. Kidney,GRE,17,9,5,3
+Otsego,Springfield 1,State Assembly,101,Barbara A. Kidney,GRE,5,0,5,0
+Otsego,Westford 1,State Assembly,101,Barbara A. Kidney,GRE,7,1,6,0
+Otsego,Maryland 1,State Assembly,101,Brian D. Miller,IND,3,0,2,1
+Otsego,Maryland 2,State Assembly,101,Brian D. Miller,IND,5,1,4,0
+Otsego,Middlefield 1,State Assembly,101,Brian D. Miller,IND,6,1,4,1
+Otsego,Middlefield 2,State Assembly,101,Brian D. Miller,IND,7,2,4,1
+Otsego,Springfield 1,State Assembly,101,Brian D. Miller,IND,9,1,7,1
+Otsego,Westford 1,State Assembly,101,Brian D. Miller,IND,2,0,2,0
+Otsego,Maryland 1,State Assembly,101,Under Votes,,30,3,19,8
+Otsego,Maryland 2,State Assembly,101,Under Votes,,34,6,24,4
+Otsego,Middlefield 1,State Assembly,101,Under Votes,,24,11,6,7
+Otsego,Middlefield 2,State Assembly,101,Under Votes,,41,19,16,6
+Otsego,Springfield 1,State Assembly,101,Under Votes,,39,4,29,6
+Otsego,Westford 1,State Assembly,101,Under Votes,,32,3,29,0
+Otsego,Maryland 1,State Assembly,101,Over Votes,,0,0,0,0
+Otsego,Maryland 2,State Assembly,101,Over Votes,,0,0,0,0
+Otsego,Middlefield 1,State Assembly,101,Over Votes,,1,1,0,0
+Otsego,Middlefield 2,State Assembly,101,Over Votes,,0,0,0,0
+Otsego,Springfield 1,State Assembly,101,Over Votes,,0,0,0,0
+Otsego,Westford 1,State Assembly,101,Over Votes,,1,0,1,0
+Otsego,Maryland 1,State Assembly,101,Unqualified Write-ins,,3,0,0,3
+Otsego,Maryland 2,State Assembly,101,Unqualified Write-ins,,1,0,1,0
+Otsego,Middlefield 1,State Assembly,101,Unqualified Write-ins,,0,0,0,0
+Otsego,Middlefield 2,State Assembly,101,Unqualified Write-ins,,0,0,0,0
+Otsego,Springfield 1,State Assembly,101,Unqualified Write-ins,,1,0,1,0
+Otsego,Westford 1,State Assembly,101,Unqualified Write-ins,,1,0,1,0
+Otsego,Cherry Valley 1,State Assembly,102,Betsy Kraat,DEM,283,78,137,68
+Otsego,Decatur 1,State Assembly,102,Betsy Kraat,DEM,34,2,28,4
+Otsego,Roseboom 1,State Assembly,102,Betsy Kraat,DEM,149,36,67,46
+Otsego,Worcester 1,State Assembly,102,Betsy Kraat,DEM,106,33,46,27
+Otsego,Worcester 2,State Assembly,102,Betsy Kraat,DEM,64,10,25,29
+Otsego,Worcester 3,State Assembly,102,Betsy Kraat,DEM,107,12,57,38
+Otsego,Cherry Valley 1,State Assembly,102,Christopher Tague,REP,316,21,249,46
+Otsego,Decatur 1,State Assembly,102,Christopher Tague,REP,139,5,116,18
+Otsego,Roseboom 1,State Assembly,102,Christopher Tague,REP,229,9,200,20
+Otsego,Worcester 1,State Assembly,102,Christopher Tague,REP,255,13,214,28
+Otsego,Worcester 2,State Assembly,102,Christopher Tague,REP,188,12,159,17
+Otsego,Worcester 3,State Assembly,102,Christopher Tague,REP,262,12,211,39
+Otsego,Cherry Valley 1,State Assembly,102,Christopher Tague,CON,25,2,17,6
+Otsego,Decatur 1,State Assembly,102,Christopher Tague,CON,15,0,14,1
+Otsego,Roseboom 1,State Assembly,102,Christopher Tague,CON,17,2,13,2
+Otsego,Worcester 1,State Assembly,102,Christopher Tague,CON,23,0,20,3
+Otsego,Worcester 2,State Assembly,102,Christopher Tague,CON,12,1,9,2
+Otsego,Worcester 3,State Assembly,102,Christopher Tague,CON,19,2,14,3
+Otsego,Cherry Valley 1,State Assembly,102,Christopher Tague,IND,12,3,8,1
+Otsego,Decatur 1,State Assembly,102,Christopher Tague,IND,8,1,4,3
+Otsego,Roseboom 1,State Assembly,102,Christopher Tague,IND,3,1,2,0
+Otsego,Worcester 1,State Assembly,102,Christopher Tague,IND,10,1,5,4
+Otsego,Worcester 2,State Assembly,102,Christopher Tague,IND,9,0,8,1
+Otsego,Worcester 3,State Assembly,102,Christopher Tague,IND,5,1,3,1
+Otsego,Cherry Valley 1,State Assembly,102,Under Votes,,46,3,41,2
+Otsego,Decatur 1,State Assembly,102,Under Votes,,19,0,18,1
+Otsego,Roseboom 1,State Assembly,102,Under Votes,,27,1,23,3
+Otsego,Worcester 1,State Assembly,102,Under Votes,,27,0,21,6
+Otsego,Worcester 2,State Assembly,102,Under Votes,,21,2,19,0
+Otsego,Worcester 3,State Assembly,102,Under Votes,,20,1,14,5
+Otsego,Cherry Valley 1,State Assembly,102,Over Votes,,0,0,0,0
+Otsego,Decatur 1,State Assembly,102,Over Votes,,0,0,0,0
+Otsego,Roseboom 1,State Assembly,102,Over Votes,,0,0,0,0
+Otsego,Worcester 1,State Assembly,102,Over Votes,,0,0,0,0
+Otsego,Worcester 2,State Assembly,102,Over Votes,,0,0,0,0
+Otsego,Worcester 3,State Assembly,102,Over Votes,,0,0,0,0
+Otsego,Cherry Valley 1,State Assembly,102,Unqualified Write-ins,,1,0,1,0
+Otsego,Decatur 1,State Assembly,102,Unqualified Write-ins,,0,0,0,0
+Otsego,Roseboom 1,State Assembly,102,Unqualified Write-ins,,0,0,0,0
+Otsego,Worcester 1,State Assembly,102,Unqualified Write-ins,,0,0,0,0
+Otsego,Worcester 2,State Assembly,102,Unqualified Write-ins,,0,0,0,0
+Otsego,Worcester 3,State Assembly,102,Unqualified Write-ins,,0,0,0,0
+Otsego,Burlington 1,State Assembly,121,Dan Buttermann,DEM,130,17,79,34
+Otsego,Edmeston 1,State Assembly,121,Dan Buttermann,DEM,202,33,133,36
+Otsego,Exeter 1,State Assembly,121,Dan Buttermann,DEM,100,19,49,32
+Otsego,Hartwick 1,State Assembly,121,Dan Buttermann,DEM,265,116,93,56
+Otsego,Hartwick 2,State Assembly,121,Dan Buttermann,DEM,135,57,29,49
+Otsego,Laurens 1,State Assembly,121,Dan Buttermann,DEM,210,46,98,66
+Otsego,Laurens 2,State Assembly,121,Dan Buttermann,DEM,238,56,110,72
+Otsego,Milford 1,State Assembly,121,Dan Buttermann,DEM,225,84,79,62
+Otsego,Milford 2,State Assembly,121,Dan Buttermann,DEM,382,135,138,109
+Otsego,New Lisbon 1,State Assembly,121,Dan Buttermann,DEM,195,32,114,49
+Otsego,Oneonta 1,State Assembly,121,Dan Buttermann,DEM,389,97,166,126
+Otsego,Oneonta 2,State Assembly,121,Dan Buttermann,DEM,402,144,114,144
+Otsego,Oneonta 3,State Assembly,121,Dan Buttermann,DEM,308,90,115,103
+Otsego,Oneonta 4,State Assembly,121,Dan Buttermann,DEM,229,60,105,64
+Otsego,Otego 1,State Assembly,121,Dan Buttermann,DEM,200,22,100,78
+Otsego,Otego 2,State Assembly,121,Dan Buttermann,DEM,278,61,146,71
+Otsego,Otsego 1,State Assembly,121,Dan Buttermann,DEM,638,369,121,148
+Otsego,Otsego 2,State Assembly,121,Dan Buttermann,DEM,221,120,49,52
+Otsego,Otsego 3,State Assembly,121,Dan Buttermann,DEM,357,176,103,78
+Otsego,Pittsfield 1,State Assembly,121,Dan Buttermann,DEM,155,13,113,29
+Otsego,Plainfield 1,State Assembly,121,Dan Buttermann,DEM,92,10,69,13
+Otsego,Richfield 1,State Assembly,121,Dan Buttermann,DEM,163,36,94,33
+Otsego,Richfield 2,State Assembly,121,Dan Buttermann,DEM,131,26,78,27
+Otsego,Oneonta City Ward 1,State Assembly,121,Dan Buttermann,DEM,492,160,188,144
+Otsego,Oneonta City Ward 2,State Assembly,121,Dan Buttermann,DEM,363,99,135,129
+Otsego,Oneonta City Ward 3,State Assembly,121,Dan Buttermann,DEM,211,64,71,76
+Otsego,Oneonta City Ward 4,State Assembly,121,Dan Buttermann,DEM,255,73,89,93
+Otsego,Oneonta City Ward 5,State Assembly,121,Dan Buttermann,DEM,286,86,125,75
+Otsego,Oneonta City Ward 6,State Assembly,121,Dan Buttermann,DEM,310,88,120,102
+Otsego,Oneonta City Ward 7,State Assembly,121,Dan Buttermann,DEM,200,57,79,64
+Otsego,Oneonta City Ward 8,State Assembly,121,Dan Buttermann,DEM,284,60,125,99
+Otsego,Burlington 1,State Assembly,121,John J. Salka,REP,403,24,338,41
+Otsego,Edmeston 1,State Assembly,121,John J. Salka,REP,516,33,421,62
+Otsego,Exeter 1,State Assembly,121,John J. Salka,REP,256,14,222,20
+Otsego,Hartwick 1,State Assembly,121,John J. Salka,REP,339,28,268,43
+Otsego,Hartwick 2,State Assembly,121,John J. Salka,REP,199,65,120,14
+Otsego,Laurens 1,State Assembly,121,John J. Salka,REP,247,24,197,26
+Otsego,Laurens 2,State Assembly,121,John J. Salka,REP,320,25,253,42
+Otsego,Milford 1,State Assembly,121,John J. Salka,REP,281,60,186,35
+Otsego,Milford 2,State Assembly,121,John J. Salka,REP,436,100,284,52
+Otsego,New Lisbon 1,State Assembly,121,John J. Salka,REP,337,25,270,42
+Otsego,Oneonta 1,State Assembly,121,John J. Salka,REP,322,52,212,58
+Otsego,Oneonta 2,State Assembly,121,John J. Salka,REP,284,64,169,51
+Otsego,Oneonta 3,State Assembly,121,John J. Salka,REP,214,31,154,29
+Otsego,Oneonta 4,State Assembly,121,John J. Salka,REP,207,20,155,32
+Otsego,Otego 1,State Assembly,121,John J. Salka,REP,393,26,304,63
+Otsego,Otego 2,State Assembly,121,John J. Salka,REP,412,19,323,70
+Otsego,Otsego 1,State Assembly,121,John J. Salka,REP,242,81,117,44
+Otsego,Otsego 2,State Assembly,121,John J. Salka,REP,166,54,87,25
+Otsego,Otsego 3,State Assembly,121,John J. Salka,REP,373,59,252,62
+Otsego,Pittsfield 1,State Assembly,121,John J. Salka,REP,336,9,287,40
+Otsego,Plainfield 1,State Assembly,121,John J. Salka,REP,313,3,283,27
+Otsego,Richfield 1,State Assembly,121,John J. Salka,REP,274,16,231,27
+Otsego,Richfield 2,State Assembly,121,John J. Salka,REP,377,26,303,48
+Otsego,Oneonta City Ward 1,State Assembly,121,John J. Salka,REP,229,40,161,28
+Otsego,Oneonta City Ward 2,State Assembly,121,John J. Salka,REP,98,20,64,14
+Otsego,Oneonta City Ward 3,State Assembly,121,John J. Salka,REP,53,4,33,16
+Otsego,Oneonta City Ward 4,State Assembly,121,John J. Salka,REP,92,9,61,22
+Otsego,Oneonta City Ward 5,State Assembly,121,John J. Salka,REP,176,25,118,33
+Otsego,Oneonta City Ward 6,State Assembly,121,John J. Salka,REP,249,33,175,41
+Otsego,Oneonta City Ward 7,State Assembly,121,John J. Salka,REP,83,9,58,16
+Otsego,Oneonta City Ward 8,State Assembly,121,John J. Salka,REP,92,7,66,19
+Otsego,Burlington 1,State Assembly,121,John J. Salka,CON,19,3,14,2
+Otsego,Edmeston 1,State Assembly,121,John J. Salka,CON,37,2,31,4
+Otsego,Exeter 1,State Assembly,121,John J. Salka,CON,22,2,20,0
+Otsego,Hartwick 1,State Assembly,121,John J. Salka,CON,51,3,44,4
+Otsego,Hartwick 2,State Assembly,121,John J. Salka,CON,10,3,6,1
+Otsego,Laurens 1,State Assembly,121,John J. Salka,CON,22,2,15,5
+Otsego,Laurens 2,State Assembly,121,John J. Salka,CON,22,3,18,1
+Otsego,Milford 1,State Assembly,121,John J. Salka,CON,12,0,11,1
+Otsego,Milford 2,State Assembly,121,John J. Salka,CON,31,8,19,4
+Otsego,New Lisbon 1,State Assembly,121,John J. Salka,CON,22,0,20,2
+Otsego,Oneonta 1,State Assembly,121,John J. Salka,CON,30,5,22,3
+Otsego,Oneonta 2,State Assembly,121,John J. Salka,CON,15,4,6,5
+Otsego,Oneonta 3,State Assembly,121,John J. Salka,CON,11,2,6,3
+Otsego,Oneonta 4,State Assembly,121,John J. Salka,CON,10,2,6,2
+Otsego,Otego 1,State Assembly,121,John J. Salka,CON,24,2,22,0
+Otsego,Otego 2,State Assembly,121,John J. Salka,CON,28,1,20,7
+Otsego,Otsego 1,State Assembly,121,John J. Salka,CON,25,12,9,4
+Otsego,Otsego 2,State Assembly,121,John J. Salka,CON,11,2,6,3
+Otsego,Otsego 3,State Assembly,121,John J. Salka,CON,35,10,24,1
+Otsego,Pittsfield 1,State Assembly,121,John J. Salka,CON,10,0,9,1
+Otsego,Plainfield 1,State Assembly,121,John J. Salka,CON,14,2,11,1
+Otsego,Richfield 1,State Assembly,121,John J. Salka,CON,19,3,10,6
+Otsego,Richfield 2,State Assembly,121,John J. Salka,CON,20,2,17,1
+Otsego,Oneonta City Ward 1,State Assembly,121,John J. Salka,CON,15,1,11,3
+Otsego,Oneonta City Ward 2,State Assembly,121,John J. Salka,CON,5,0,5,0
+Otsego,Oneonta City Ward 3,State Assembly,121,John J. Salka,CON,5,0,2,3
+Otsego,Oneonta City Ward 4,State Assembly,121,John J. Salka,CON,2,0,0,2
+Otsego,Oneonta City Ward 5,State Assembly,121,John J. Salka,CON,12,2,9,1
+Otsego,Oneonta City Ward 6,State Assembly,121,John J. Salka,CON,18,1,10,7
+Otsego,Oneonta City Ward 7,State Assembly,121,John J. Salka,CON,3,0,2,1
+Otsego,Oneonta City Ward 8,State Assembly,121,John J. Salka,CON,8,1,4,3
+Otsego,Burlington 1,State Assembly,121,Corey J. Mosher,WOR,6,0,4,2
+Otsego,Edmeston 1,State Assembly,121,Corey J. Mosher,WOR,14,0,12,2
+Otsego,Exeter 1,State Assembly,121,Corey J. Mosher,WOR,7,2,3,2
+Otsego,Hartwick 1,State Assembly,121,Corey J. Mosher,WOR,12,2,7,3
+Otsego,Hartwick 2,State Assembly,121,Corey J. Mosher,WOR,1,1,0,0
+Otsego,Laurens 1,State Assembly,121,Corey J. Mosher,WOR,4,1,3,0
+Otsego,Laurens 2,State Assembly,121,Corey J. Mosher,WOR,3,2,0,1
+Otsego,Milford 1,State Assembly,121,Corey J. Mosher,WOR,7,4,2,1
+Otsego,Milford 2,State Assembly,121,Corey J. Mosher,WOR,11,2,7,2
+Otsego,New Lisbon 1,State Assembly,121,Corey J. Mosher,WOR,11,1,7,3
+Otsego,Oneonta 1,State Assembly,121,Corey J. Mosher,WOR,5,1,3,1
+Otsego,Oneonta 2,State Assembly,121,Corey J. Mosher,WOR,10,2,3,5
+Otsego,Oneonta 3,State Assembly,121,Corey J. Mosher,WOR,9,1,7,1
+Otsego,Oneonta 4,State Assembly,121,Corey J. Mosher,WOR,10,0,6,4
+Otsego,Otego 1,State Assembly,121,Corey J. Mosher,WOR,21,1,17,3
+Otsego,Otego 2,State Assembly,121,Corey J. Mosher,WOR,14,1,10,3
+Otsego,Otsego 1,State Assembly,121,Corey J. Mosher,WOR,13,5,3,5
+Otsego,Otsego 2,State Assembly,121,Corey J. Mosher,WOR,2,2,0,0
+Otsego,Otsego 3,State Assembly,121,Corey J. Mosher,WOR,13,1,9,3
+Otsego,Pittsfield 1,State Assembly,121,Corey J. Mosher,WOR,17,2,10,5
+Otsego,Plainfield 1,State Assembly,121,Corey J. Mosher,WOR,11,1,9,1
+Otsego,Richfield 1,State Assembly,121,Corey J. Mosher,WOR,4,1,1,2
+Otsego,Richfield 2,State Assembly,121,Corey J. Mosher,WOR,7,0,7,0
+Otsego,Oneonta City Ward 1,State Assembly,121,Corey J. Mosher,WOR,12,5,3,4
+Otsego,Oneonta City Ward 2,State Assembly,121,Corey J. Mosher,WOR,5,1,4,0
+Otsego,Oneonta City Ward 3,State Assembly,121,Corey J. Mosher,WOR,8,1,5,2
+Otsego,Oneonta City Ward 4,State Assembly,121,Corey J. Mosher,WOR,8,1,4,3
+Otsego,Oneonta City Ward 5,State Assembly,121,Corey J. Mosher,WOR,11,3,7,1
+Otsego,Oneonta City Ward 6,State Assembly,121,Corey J. Mosher,WOR,20,3,11,6
+Otsego,Oneonta City Ward 7,State Assembly,121,Corey J. Mosher,WOR,6,1,2,3
+Otsego,Oneonta City Ward 8,State Assembly,121,Corey J. Mosher,WOR,16,8,5,3
+Otsego,Burlington 1,State Assembly,121,Jake Cornell,LBT,5,0,4,1
+Otsego,Edmeston 1,State Assembly,121,Jake Cornell,LBT,4,0,3,1
+Otsego,Exeter 1,State Assembly,121,Jake Cornell,LBT,8,0,6,2
+Otsego,Hartwick 1,State Assembly,121,Jake Cornell,LBT,15,4,6,5
+Otsego,Hartwick 2,State Assembly,121,Jake Cornell,LBT,5,2,2,1
+Otsego,Laurens 1,State Assembly,121,Jake Cornell,LBT,6,1,4,1
+Otsego,Laurens 2,State Assembly,121,Jake Cornell,LBT,6,1,5,0
+Otsego,Milford 1,State Assembly,121,Jake Cornell,LBT,6,0,4,2
+Otsego,Milford 2,State Assembly,121,Jake Cornell,LBT,6,1,5,0
+Otsego,New Lisbon 1,State Assembly,121,Jake Cornell,LBT,6,0,6,0
+Otsego,Oneonta 1,State Assembly,121,Jake Cornell,LBT,5,0,5,0
+Otsego,Oneonta 2,State Assembly,121,Jake Cornell,LBT,8,2,5,1
+Otsego,Oneonta 3,State Assembly,121,Jake Cornell,LBT,8,1,6,1
+Otsego,Oneonta 4,State Assembly,121,Jake Cornell,LBT,3,0,3,0
+Otsego,Otego 1,State Assembly,121,Jake Cornell,LBT,7,0,6,1
+Otsego,Otego 2,State Assembly,121,Jake Cornell,LBT,9,0,7,2
+Otsego,Otsego 1,State Assembly,121,Jake Cornell,LBT,8,1,5,2
+Otsego,Otsego 2,State Assembly,121,Jake Cornell,LBT,5,1,2,2
+Otsego,Otsego 3,State Assembly,121,Jake Cornell,LBT,4,2,1,1
+Otsego,Pittsfield 1,State Assembly,121,Jake Cornell,LBT,5,0,3,2
+Otsego,Plainfield 1,State Assembly,121,Jake Cornell,LBT,7,2,5,0
+Otsego,Richfield 1,State Assembly,121,Jake Cornell,LBT,4,1,3,0
+Otsego,Richfield 2,State Assembly,121,Jake Cornell,LBT,6,3,3,0
+Otsego,Oneonta City Ward 1,State Assembly,121,Jake Cornell,LBT,9,3,4,2
+Otsego,Oneonta City Ward 2,State Assembly,121,Jake Cornell,LBT,4,1,2,1
+Otsego,Oneonta City Ward 3,State Assembly,121,Jake Cornell,LBT,5,0,4,1
+Otsego,Oneonta City Ward 4,State Assembly,121,Jake Cornell,LBT,4,0,3,1
+Otsego,Oneonta City Ward 5,State Assembly,121,Jake Cornell,LBT,5,3,0,2
+Otsego,Oneonta City Ward 6,State Assembly,121,Jake Cornell,LBT,10,0,9,1
+Otsego,Oneonta City Ward 7,State Assembly,121,Jake Cornell,LBT,3,0,2,1
+Otsego,Oneonta City Ward 8,State Assembly,121,Jake Cornell,LBT,5,2,2,1
+Otsego,Burlington 1,State Assembly,121,John J. Salka,IND,5,0,4,1
+Otsego,Edmeston 1,State Assembly,121,John J. Salka,IND,14,2,11,1
+Otsego,Exeter 1,State Assembly,121,John J. Salka,IND,8,2,5,1
+Otsego,Hartwick 1,State Assembly,121,John J. Salka,IND,7,3,4,0
+Otsego,Hartwick 2,State Assembly,121,John J. Salka,IND,10,3,5,2
+Otsego,Laurens 1,State Assembly,121,John J. Salka,IND,12,0,12,0
+Otsego,Laurens 2,State Assembly,121,John J. Salka,IND,14,4,9,1
+Otsego,Milford 1,State Assembly,121,John J. Salka,IND,1,0,1,0
+Otsego,Milford 2,State Assembly,121,John J. Salka,IND,14,6,6,2
+Otsego,New Lisbon 1,State Assembly,121,John J. Salka,IND,15,1,11,3
+Otsego,Oneonta 1,State Assembly,121,John J. Salka,IND,12,2,8,2
+Otsego,Oneonta 2,State Assembly,121,John J. Salka,IND,12,3,7,2
+Otsego,Oneonta 3,State Assembly,121,John J. Salka,IND,6,1,3,2
+Otsego,Oneonta 4,State Assembly,121,John J. Salka,IND,10,0,10,0
+Otsego,Otego 1,State Assembly,121,John J. Salka,IND,14,0,9,5
+Otsego,Otego 2,State Assembly,121,John J. Salka,IND,5,0,4,1
+Otsego,Otsego 1,State Assembly,121,John J. Salka,IND,14,6,7,1
+Otsego,Otsego 2,State Assembly,121,John J. Salka,IND,7,4,1,2
+Otsego,Otsego 3,State Assembly,121,John J. Salka,IND,9,2,7,0
+Otsego,Pittsfield 1,State Assembly,121,John J. Salka,IND,5,0,5,0
+Otsego,Plainfield 1,State Assembly,121,John J. Salka,IND,8,0,6,2
+Otsego,Richfield 1,State Assembly,121,John J. Salka,IND,7,0,6,1
+Otsego,Richfield 2,State Assembly,121,John J. Salka,IND,7,0,4,3
+Otsego,Oneonta City Ward 1,State Assembly,121,John J. Salka,IND,10,1,7,2
+Otsego,Oneonta City Ward 2,State Assembly,121,John J. Salka,IND,8,2,3,3
+Otsego,Oneonta City Ward 3,State Assembly,121,John J. Salka,IND,6,0,3,3
+Otsego,Oneonta City Ward 4,State Assembly,121,John J. Salka,IND,1,0,1,0
+Otsego,Oneonta City Ward 5,State Assembly,121,John J. Salka,IND,5,1,4,0
+Otsego,Oneonta City Ward 6,State Assembly,121,John J. Salka,IND,9,0,6,3
+Otsego,Oneonta City Ward 7,State Assembly,121,John J. Salka,IND,1,0,0,1
+Otsego,Oneonta City Ward 8,State Assembly,121,John J. Salka,IND,3,1,1,1
+Otsego,Burlington 1,State Assembly,121,Under Votes,,35,1,31,3
+Otsego,Edmeston 1,State Assembly,121,Under Votes,,83,7,45,31
+Otsego,Exeter 1,State Assembly,121,Under Votes,,35,2,29,4
+Otsego,Hartwick 1,State Assembly,121,Under Votes,,46,9,34,3
+Otsego,Hartwick 2,State Assembly,121,Under Votes,,13,7,3,3
+Otsego,Laurens 1,State Assembly,121,Under Votes,,19,2,14,3
+Otsego,Laurens 2,State Assembly,121,Under Votes,,25,3,15,7
+Otsego,Milford 1,State Assembly,121,Under Votes,,37,7,19,11
+Otsego,Milford 2,State Assembly,121,Under Votes,,48,5,32,11
+Otsego,New Lisbon 1,State Assembly,121,Under Votes,,32,2,28,2
+Otsego,Oneonta 1,State Assembly,121,Under Votes,,49,5,29,15
+Otsego,Oneonta 2,State Assembly,121,Under Votes,,40,12,19,9
+Otsego,Oneonta 3,State Assembly,121,Under Votes,,17,1,11,5
+Otsego,Oneonta 4,State Assembly,121,Under Votes,,20,3,12,5
+Otsego,Otego 1,State Assembly,121,Under Votes,,47,0,42,5
+Otsego,Otego 2,State Assembly,121,Under Votes,,38,4,26,8
+Otsego,Otsego 1,State Assembly,121,Under Votes,,54,15,24,15
+Otsego,Otsego 2,State Assembly,121,Under Votes,,18,2,3,13
+Otsego,Otsego 3,State Assembly,121,Under Votes,,30,7,20,3
+Otsego,Pittsfield 1,State Assembly,121,Under Votes,,49,2,40,7
+Otsego,Plainfield 1,State Assembly,121,Under Votes,,27,0,25,2
+Otsego,Richfield 1,State Assembly,121,Under Votes,,37,3,24,10
+Otsego,Richfield 2,State Assembly,121,Under Votes,,51,3,34,14
+Otsego,Oneonta City Ward 1,State Assembly,121,Under Votes,,34,4,19,11
+Otsego,Oneonta City Ward 2,State Assembly,121,Under Votes,,11,4,1,6
+Otsego,Oneonta City Ward 3,State Assembly,121,Under Votes,,6,0,5,1
+Otsego,Oneonta City Ward 4,State Assembly,121,Under Votes,,7,0,4,3
+Otsego,Oneonta City Ward 5,State Assembly,121,Under Votes,,20,3,9,8
+Otsego,Oneonta City Ward 6,State Assembly,121,Under Votes,,38,2,26,10
+Otsego,Oneonta City Ward 7,State Assembly,121,Under Votes,,15,1,8,6
+Otsego,Oneonta City Ward 8,State Assembly,121,Under Votes,,14,1,8,5
+Otsego,Burlington 1,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Edmeston 1,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Exeter 1,State Assembly,121,Over Votes,,1,0,0,1
+Otsego,Hartwick 1,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Hartwick 2,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Laurens 1,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Laurens 2,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Milford 1,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Milford 2,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,New Lisbon 1,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Oneonta 1,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Oneonta 2,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Oneonta 3,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Oneonta 4,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Otego 1,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Otego 2,State Assembly,121,Over Votes,,1,0,0,1
+Otsego,Otsego 1,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Otsego 2,State Assembly,121,Over Votes,,1,0,1,0
+Otsego,Otsego 3,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Pittsfield 1,State Assembly,121,Over Votes,,1,0,1,0
+Otsego,Plainfield 1,State Assembly,121,Over Votes,,1,0,1,0
+Otsego,Richfield 1,State Assembly,121,Over Votes,,5,0,3,2
+Otsego,Richfield 2,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 1,State Assembly,121,Over Votes,,1,0,0,1
+Otsego,Oneonta City Ward 2,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 3,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 4,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 5,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 6,State Assembly,121,Over Votes,,1,1,0,0
+Otsego,Oneonta City Ward 7,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Oneonta City Ward 8,State Assembly,121,Over Votes,,0,0,0,0
+Otsego,Burlington 1,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Edmeston 1,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Exeter 1,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Hartwick 1,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Hartwick 2,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Laurens 1,State Assembly,121,Unqualified Write-ins,,1,1,0,0
+Otsego,Laurens 2,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Milford 1,State Assembly,121,Unqualified Write-ins,,2,1,0,1
+Otsego,Milford 2,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,New Lisbon 1,State Assembly,121,Unqualified Write-ins,,1,0,1,0
+Otsego,Oneonta 1,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta 2,State Assembly,121,Unqualified Write-ins,,1,0,1,0
+Otsego,Oneonta 3,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta 4,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Otego 1,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Otego 2,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Otsego 1,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Otsego 2,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Otsego 3,State Assembly,121,Unqualified Write-ins,,1,0,1,0
+Otsego,Pittsfield 1,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Plainfield 1,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Richfield 1,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Richfield 2,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 1,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 2,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 3,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 4,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 5,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 6,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 7,State Assembly,121,Unqualified Write-ins,,0,0,0,0
+Otsego,Oneonta City Ward 8,State Assembly,121,Unqualified Write-ins,,1,0,1,0
+Otsego,Butternuts 1,State Assembly,122,Richard O. Shaw,DEM,98,8,65,25
+Otsego,Butternuts 2,State Assembly,122,Richard O. Shaw,DEM,212,28,124,60
+Otsego,Morris 1,State Assembly,122,Richard O. Shaw,DEM,276,41,151,84
+Otsego,Unadilla 1,State Assembly,122,Richard O. Shaw,DEM,171,33,94,44
+Otsego,Unadilla 2,State Assembly,122,Richard O. Shaw,DEM,232,35,110,87
+Otsego,Unadilla 3,State Assembly,122,Richard O. Shaw,DEM,215,32,116,67
+Otsego,Butternuts 1,State Assembly,122,Joe G. Angelino,REP,218,6,185,27
+Otsego,Butternuts 2,State Assembly,122,Joe G. Angelino,REP,313,16,269,28
+Otsego,Morris 1,State Assembly,122,Joe G. Angelino,REP,474,13,406,55
+Otsego,Unadilla 1,State Assembly,122,Joe G. Angelino,REP,342,26,287,29
+Otsego,Unadilla 2,State Assembly,122,Joe G. Angelino,REP,515,19,420,76
+Otsego,Unadilla 3,State Assembly,122,Joe G. Angelino,REP,247,14,204,29
+Otsego,Butternuts 1,State Assembly,122,Joe G. Angelino,CON,16,0,13,3
+Otsego,Butternuts 2,State Assembly,122,Joe G. Angelino,CON,21,1,18,2
+Otsego,Morris 1,State Assembly,122,Joe G. Angelino,CON,34,2,23,9
+Otsego,Unadilla 1,State Assembly,122,Joe G. Angelino,CON,20,1,15,4
+Otsego,Unadilla 2,State Assembly,122,Joe G. Angelino,CON,25,0,21,4
+Otsego,Unadilla 3,State Assembly,122,Joe G. Angelino,CON,12,0,11,1
+Otsego,Butternuts 1,State Assembly,122,Joe G. Angelino,IND,4,0,3,1
+Otsego,Butternuts 2,State Assembly,122,Joe G. Angelino,IND,8,0,5,3
+Otsego,Morris 1,State Assembly,122,Joe G. Angelino,IND,17,0,13,4
+Otsego,Unadilla 1,State Assembly,122,Joe G. Angelino,IND,9,1,5,3
+Otsego,Unadilla 2,State Assembly,122,Joe G. Angelino,IND,9,0,5,4
+Otsego,Unadilla 3,State Assembly,122,Joe G. Angelino,IND,4,0,4,0
+Otsego,Butternuts 1,State Assembly,122,Under Votes,,15,2,11,2
+Otsego,Butternuts 2,State Assembly,122,Under Votes,,36,4,23,9
+Otsego,Morris 1,State Assembly,122,Under Votes,,54,2,39,13
+Otsego,Unadilla 1,State Assembly,122,Under Votes,,33,3,24,6
+Otsego,Unadilla 2,State Assembly,122,Under Votes,,41,2,30,9
+Otsego,Unadilla 3,State Assembly,122,Under Votes,,28,1,17,10
+Otsego,Butternuts 1,State Assembly,122,Over Votes,,0,0,0,0
+Otsego,Butternuts 2,State Assembly,122,Over Votes,,0,0,0,0
+Otsego,Morris 1,State Assembly,122,Over Votes,,0,0,0,0
+Otsego,Unadilla 1,State Assembly,122,Over Votes,,0,0,0,0
+Otsego,Unadilla 2,State Assembly,122,Over Votes,,0,0,0,0
+Otsego,Unadilla 3,State Assembly,122,Over Votes,,0,0,0,0
+Otsego,Butternuts 1,State Assembly,122,Unqualified Write-ins,,0,0,0,0
+Otsego,Butternuts 2,State Assembly,122,Unqualified Write-ins,,1,0,0,1
+Otsego,Morris 1,State Assembly,122,Unqualified Write-ins,,0,0,0,0
+Otsego,Unadilla 1,State Assembly,122,Unqualified Write-ins,,1,0,1,0
+Otsego,Unadilla 2,State Assembly,122,Unqualified Write-ins,,0,0,0,0
+Otsego,Unadilla 3,State Assembly,122,Unqualified Write-ins,,0,0,0,0
