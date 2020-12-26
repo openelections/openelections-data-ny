@@ -1,0 +1,2270 @@
+county,precinct,office,district,candidate,party,absentee,affidavit,election_day,votes
+Jefferson,12~1,Registered Voters,,,,,,,1523
+Jefferson,12~2,Registered Voters,,,,,,,1264
+Jefferson,12~3,Registered Voters,,,,,,,937
+Jefferson,13~1,Registered Voters,,,,,,,1361
+Jefferson,13~2,Registered Voters,,,,,,,1207
+Jefferson,13~3,Registered Voters,,,,,,,869
+Jefferson,14~1,Registered Voters,,,,,,,1204
+Jefferson,14~2,Registered Voters,,,,,,,720
+Jefferson,15~1,Registered Voters,,,,,,,1315
+Jefferson,15~2,Registered Voters,,,,,,,1429
+Jefferson,15~3,Registered Voters,,,,,,,538
+Jefferson,Adams 1,Registered Voters,,,,,,,1019
+Jefferson,Adams 2,Registered Voters,,,,,,,662
+Jefferson,Adams 3 ,Registered Voters,,,,,,,1455
+Jefferson,Alexandria 1,Registered Voters,,,,,,,703
+Jefferson,Alexandria 2,Registered Voters,,,,,,,810
+Jefferson,Alexandria 3,Registered Voters,,,,,,,1252
+Jefferson,Antwerp 1,Registered Voters,,,,,,,352
+Jefferson,Antwerp 2,Registered Voters,,,,,,,707
+Jefferson,Brownville 1,Registered Voters,,,,,,,813
+Jefferson,Brownville 2,Registered Voters,,,,,,,639
+Jefferson,Brownville 3,Registered Voters,,,,,,,992
+Jefferson,Brownville 4,Registered Voters,,,,,,,614
+Jefferson,Brownville 5,Registered Voters,,,,,,,935
+Jefferson,Cape Vincent 1,Registered Voters,,,,,,,601
+Jefferson,Cape Vincent 2,Registered Voters,,,,,,,1243
+Jefferson,Champion 1,Registered Voters,,,,,,,1554
+Jefferson,Champion 2,Registered Voters,,,,,,,916
+Jefferson,Clayton 1,Registered Voters,,,,,,,810
+Jefferson,Clayton 2,Registered Voters,,,,,,,1145
+Jefferson,Clayton 3,Registered Voters,,,,,,,1361
+Jefferson,Ellisburg 1,Registered Voters,,,,,,,216
+Jefferson,Ellisburg 2,Registered Voters,,,,,,,774
+Jefferson,Ellisburg 3,Registered Voters,,,,,,,147
+Jefferson,Ellisburg 4,Registered Voters,,,,,,,994
+Jefferson,Henderson 1,Registered Voters,,,,,,,1118
+Jefferson,Hounsfield 1,Registered Voters,,,,,,,990
+Jefferson,Hounsfield 2,Registered Voters,,,,,,,1361
+Jefferson,LeRay 1,Registered Voters,,,,,,,429
+Jefferson,LeRay 2,Registered Voters,,,,,,,233
+Jefferson,LeRay 3,Registered Voters,,,,,,,326
+Jefferson,LeRay 4,Registered Voters,,,,,,,1668
+Jefferson,LeRay 5,Registered Voters,,,,,,,439
+Jefferson,LeRay 6,Registered Voters,,,,,,,344
+Jefferson,LeRay 7,Registered Voters,,,,,,,375
+Jefferson,LeRay 8,Registered Voters,,,,,,,1542
+Jefferson,Lorraine 1,Registered Voters,,,,,,,634
+Jefferson,Lyme 1,Registered Voters,,,,,,,621
+Jefferson,Lyme 2,Registered Voters,,,,,,,758
+Jefferson,Lyme 3,Registered Voters,,,,,,,441
+Jefferson,Orleans 1,Registered Voters,,,,,,,1171
+Jefferson,Orleans 2,Registered Voters,,,,,,,693
+Jefferson,Pamelia 1,Registered Voters,,,,,,,985
+Jefferson,Pamelia 2,Registered Voters,,,,,,,1057
+Jefferson,Philadelphia 1,Registered Voters,,,,,,,562
+Jefferson,Philadelphia 2,Registered Voters,,,,,,,481
+Jefferson,Rodman 1,Registered Voters,,,,,,,834
+Jefferson,Rutland 1,Registered Voters,,,,,,,773
+Jefferson,Rutland 2,Registered Voters,,,,,,,740
+Jefferson,Rutland 3,Registered Voters,,,,,,,249
+Jefferson,Theresa 1,Registered Voters,,,,,,,1660
+Jefferson,Watertown 1,Registered Voters,,,,,,,1708
+Jefferson,Watertown 2,Registered Voters,,,,,,,1540
+Jefferson,Wilna 1,Registered Voters,,,,,,,1486
+Jefferson,Wilna 2,Registered Voters,,,,,,,57
+Jefferson,Wilna 3,Registered Voters,,,,,,,122
+Jefferson,Wilna 4,Registered Voters,,,,,,,336
+Jefferson,Wilna 5,Registered Voters,,,,,,,874
+Jefferson,Worth 1,Registered Voters,,,,,,,167
+Jefferson,12~1,Ballots Cast,,,,297,19,831,1147
+Jefferson,12~2,Ballots Cast,,,,176,15,751,942
+Jefferson,12~3,Ballots Cast,,,,182,8,577,767
+Jefferson,13~1,Ballots Cast,,,,170,10,706,886
+Jefferson,13~2,Ballots Cast,,,,188,6,683,877
+Jefferson,13~3,Ballots Cast,,,,109,15,488,612
+Jefferson,14~1,Ballots Cast,,,,154,14,646,814
+Jefferson,14~2,Ballots Cast,,,,108,10,309,427
+Jefferson,15~1,Ballots Cast,,,,183,15,686,884
+Jefferson,15~2,Ballots Cast,,,,180,19,804,1003
+Jefferson,15~3,Ballots Cast,,,,57,10,237,304
+Jefferson,Adams 1,Ballots Cast,,,,121,8,651,780
+Jefferson,Adams 2,Ballots Cast,,,,67,4,457,528
+Jefferson,Adams 3 ,Ballots Cast,,,,158,6,983,1147
+Jefferson,Alexandria 1,Ballots Cast,,,,94,10,444,548
+Jefferson,Alexandria 2,Ballots Cast,,,,162,1,486,649
+Jefferson,Alexandria 3,Ballots Cast,,,,125,10,820,955
+Jefferson,Antwerp 1,Ballots Cast,,,,35,1,219,255
+Jefferson,Antwerp 2,Ballots Cast,,,,61,6,459,526
+Jefferson,Brownville 1,Ballots Cast,,,,81,3,536,620
+Jefferson,Brownville 2,Ballots Cast,,,,64,1,403,468
+Jefferson,Brownville 3,Ballots Cast,,,,81,7,634,722
+Jefferson,Brownville 4,Ballots Cast,,,,84,3,385,472
+Jefferson,Brownville 5,Ballots Cast,,,,121,8,643,772
+Jefferson,Cape Vincent 1,Ballots Cast,,,,89,13,383,485
+Jefferson,Cape Vincent 2,Ballots Cast,,,,274,15,687,976
+Jefferson,Champion 1,Ballots Cast,,,,217,12,966,1195
+Jefferson,Champion 2,Ballots Cast,,,,107,4,524,635
+Jefferson,Clayton 1,Ballots Cast,,,,82,9,551,642
+Jefferson,Clayton 2,Ballots Cast,,,,190,4,735,929
+Jefferson,Clayton 3,Ballots Cast,,,,215,10,850,1075
+Jefferson,Ellisburg 1,Ballots Cast,,,,18,2,162,182
+Jefferson,Ellisburg 2,Ballots Cast,,,,92,5,502,599
+Jefferson,Ellisburg 3,Ballots Cast,,,,6,0,105,111
+Jefferson,Ellisburg 4,Ballots Cast,,,,134,8,621,763
+Jefferson,Henderson 1,Ballots Cast,,,,183,2,707,892
+Jefferson,Hounsfield 1,Ballots Cast,,,,169,11,590,770
+Jefferson,Hounsfield 2,Ballots Cast,,,,201,7,827,1035
+Jefferson,LeRay 1,Ballots Cast,,,,49,4,273,326
+Jefferson,LeRay 2,Ballots Cast,,,,15,3,147,165
+Jefferson,LeRay 3,Ballots Cast,,,,43,2,175,220
+Jefferson,LeRay 4,Ballots Cast,,,,252,9,709,970
+Jefferson,LeRay 5,Ballots Cast,,,,62,3,270,335
+Jefferson,LeRay 6,Ballots Cast,,,,17,2,189,208
+Jefferson,LeRay 7,Ballots Cast,,,,59,2,119,180
+Jefferson,LeRay 8,Ballots Cast,,,,184,15,645,844
+Jefferson,Lorraine 1,Ballots Cast,,,,47,3,436,486
+Jefferson,Lyme 1,Ballots Cast,,,,91,3,414,508
+Jefferson,Lyme 2,Ballots Cast,,,,116,13,487,616
+Jefferson,Lyme 3,Ballots Cast,,,,49,1,274,324
+Jefferson,Orleans 1,Ballots Cast,,,,114,4,731,849
+Jefferson,Orleans 2,Ballots Cast,,,,134,2,423,559
+Jefferson,Pamelia 1,Ballots Cast,,,,106,8,648,762
+Jefferson,Pamelia 2,Ballots Cast,,,,112,1,677,790
+Jefferson,Philadelphia 1,Ballots Cast,,,,54,4,321,379
+Jefferson,Philadelphia 2,Ballots Cast,,,,39,2,333,374
+Jefferson,Rodman 1,Ballots Cast,,,,47,1,605,653
+Jefferson,Rutland 1,Ballots Cast,,,,55,3,528,586
+Jefferson,Rutland 2,Ballots Cast,,,,64,7,465,536
+Jefferson,Rutland 3,Ballots Cast,,,,56,3,128,187
+Jefferson,Theresa 1,Ballots Cast,,,,167,11,1030,1208
+Jefferson,Watertown 1,Ballots Cast,,,,284,18,966,1268
+Jefferson,Watertown 2,Ballots Cast,,,,280,2,907,1189
+Jefferson,Wilna 1,Ballots Cast,,,,176,13,815,1004
+Jefferson,Wilna 2,Ballots Cast,,,,3,0,29,32
+Jefferson,Wilna 3,Ballots Cast,,,,9,2,86,97
+Jefferson,Wilna 4,Ballots Cast,,,,33,0,216,249
+Jefferson,Wilna 5,Ballots Cast,,,,101,2,506,609
+Jefferson,Worth 1,Ballots Cast,,,,15,1,130,146
+Jefferson,Special Federal & Special Presidential,Ballots Cast,,,,76,0,0,76
+Jefferson,12~1,President,,Joseph R. Biden,DEM,196,9,380,585
+Jefferson,12~2,President,,Joseph R. Biden,DEM,118,7,309,434
+Jefferson,12~3,President,,Joseph R. Biden,DEM,120,3,241,364
+Jefferson,13~1,President,,Joseph R. Biden,DEM,121,5,294,420
+Jefferson,13~2,President,,Joseph R. Biden,DEM,135,0,320,455
+Jefferson,13~3,President,,Joseph R. Biden,DEM,81,4,187,272
+Jefferson,14~1,President,,Joseph R. Biden,DEM,100,6,261,367
+Jefferson,14~2,President,,Joseph R. Biden,DEM,67,3,120,190
+Jefferson,15~1,President,,Joseph R. Biden,DEM,134,6,286,426
+Jefferson,15~2,President,,Joseph R. Biden,DEM,128,10,331,469
+Jefferson,15~3,President,,Joseph R. Biden,DEM,38,3,104,145
+Jefferson,Adams 1,President,,Joseph R. Biden,DEM,75,1,250,326
+Jefferson,Adams 2,President,,Joseph R. Biden,DEM,40,1,148,189
+Jefferson,Adams 3 ,President,,Joseph R. Biden,DEM,92,3,324,419
+Jefferson,Alexandria 1,President,,Joseph R. Biden,DEM,54,3,180,237
+Jefferson,Alexandria 2,President,,Joseph R. Biden,DEM,76,0,161,237
+Jefferson,Alexandria 3,President,,Joseph R. Biden,DEM,73,2,239,314
+Jefferson,Antwerp 1,President,,Joseph R. Biden,DEM,26,0,69,95
+Jefferson,Antwerp 2,President,,Joseph R. Biden,DEM,34,1,102,137
+Jefferson,Brownville 1,President,,Joseph R. Biden,DEM,55,0,140,195
+Jefferson,Brownville 2,President,,Joseph R. Biden,DEM,43,0,134,177
+Jefferson,Brownville 3,President,,Joseph R. Biden,DEM,42,0,182,224
+Jefferson,Brownville 4,President,,Joseph R. Biden,DEM,63,2,142,207
+Jefferson,Brownville 5,President,,Joseph R. Biden,DEM,81,3,174,258
+Jefferson,Cape Vincent 1,President,,Joseph R. Biden,DEM,57,2,148,207
+Jefferson,Cape Vincent 2,President,,Joseph R. Biden,DEM,148,2,192,342
+Jefferson,Champion 1,President,,Joseph R. Biden,DEM,127,1,246,374
+Jefferson,Champion 2,President,,Joseph R. Biden,DEM,74,1,174,249
+Jefferson,Clayton 1,President,,Joseph R. Biden,DEM,44,0,130,174
+Jefferson,Clayton 2,President,,Joseph R. Biden,DEM,124,2,301,427
+Jefferson,Clayton 3,President,,Joseph R. Biden,DEM,123,7,276,406
+Jefferson,Ellisburg 1,President,,Joseph R. Biden,DEM,10,0,48,58
+Jefferson,Ellisburg 2,President,,Joseph R. Biden,DEM,56,2,102,160
+Jefferson,Ellisburg 3,President,,Joseph R. Biden,DEM,6,0,32,38
+Jefferson,Ellisburg 4,President,,Joseph R. Biden,DEM,90,1,160,251
+Jefferson,Henderson 1,President,,Joseph R. Biden,DEM,113,1,194,308
+Jefferson,Hounsfield 1,President,,Joseph R. Biden,DEM,112,7,276,395
+Jefferson,Hounsfield 2,President,,Joseph R. Biden,DEM,120,1,232,353
+Jefferson,LeRay 1,President,,Joseph R. Biden,DEM,29,0,61,90
+Jefferson,LeRay 2,President,,Joseph R. Biden,DEM,8,0,38,46
+Jefferson,LeRay 3,President,,Joseph R. Biden,DEM,21,0,52,73
+Jefferson,LeRay 4,President,,Joseph R. Biden,DEM,160,4,271,435
+Jefferson,LeRay 5,President,,Joseph R. Biden,DEM,41,0,99,140
+Jefferson,LeRay 6,President,,Joseph R. Biden,DEM,11,0,59,70
+Jefferson,LeRay 7,President,,Joseph R. Biden,DEM,34,2,67,103
+Jefferson,LeRay 8,President,,Joseph R. Biden,DEM,129,7,267,403
+Jefferson,Lorraine 1,President,,Joseph R. Biden,DEM,18,0,98,116
+Jefferson,Lyme 1,President,,Joseph R. Biden,DEM,52,0,114,166
+Jefferson,Lyme 2,President,,Joseph R. Biden,DEM,78,5,166,249
+Jefferson,Lyme 3,President,,Joseph R. Biden,DEM,33,0,83,116
+Jefferson,Orleans 1,President,,Joseph R. Biden,DEM,65,1,193,259
+Jefferson,Orleans 2,President,,Joseph R. Biden,DEM,83,1,155,239
+Jefferson,Pamelia 1,President,,Joseph R. Biden,DEM,56,1,165,222
+Jefferson,Pamelia 2,President,,Joseph R. Biden,DEM,63,0,202,265
+Jefferson,Philadelphia 1,President,,Joseph R. Biden,DEM,40,1,102,143
+Jefferson,Philadelphia 2,President,,Joseph R. Biden,DEM,25,0,70,95
+Jefferson,Rodman 1,President,,Joseph R. Biden,DEM,30,0,134,164
+Jefferson,Rutland 1,President,,Joseph R. Biden,DEM,21,1,130,152
+Jefferson,Rutland 2,President,,Joseph R. Biden,DEM,34,1,105,140
+Jefferson,Rutland 3,President,,Joseph R. Biden,DEM,34,2,39,75
+Jefferson,Theresa 1,President,,Joseph R. Biden,DEM,87,4,285,376
+Jefferson,Watertown 1,President,,Joseph R. Biden,DEM,194,4,347,545
+Jefferson,Watertown 2,President,,Joseph R. Biden,DEM,158,0,214,372
+Jefferson,Wilna 1,President,,Joseph R. Biden,DEM,105,5,281,391
+Jefferson,Wilna 2,President,,Joseph R. Biden,DEM,2,0,7,9
+Jefferson,Wilna 3,President,,Joseph R. Biden,DEM,4,0,20,24
+Jefferson,Wilna 4,President,,Joseph R. Biden,DEM,16,0,47,63
+Jefferson,Wilna 5,President,,Joseph R. Biden,DEM,51,0,107,158
+Jefferson,Worth 1,President,,Joseph R. Biden,DEM,11,0,22,33
+Jefferson,Special Federal & Special Presidential,President,,Joseph R. Biden,DEM,63,0,0,63
+Jefferson,12~1,President,,Donald J. Trump,REP,82,7,382,471
+Jefferson,12~2,President,,Donald J. Trump,REP,43,7,387,437
+Jefferson,12~3,President,,Donald J. Trump,REP,53,5,295,353
+Jefferson,13~1,President,,Donald J. Trump,REP,29,3,345,377
+Jefferson,13~2,President,,Donald J. Trump,REP,39,6,304,349
+Jefferson,13~3,President,,Donald J. Trump,REP,20,11,250,281
+Jefferson,14~1,President,,Donald J. Trump,REP,44,6,326,376
+Jefferson,14~2,President,,Donald J. Trump,REP,30,5,160,195
+Jefferson,15~1,President,,Donald J. Trump,REP,36,9,358,403
+Jefferson,15~2,President,,Donald J. Trump,REP,35,7,417,459
+Jefferson,15~3,President,,Donald J. Trump,REP,12,7,112,131
+Jefferson,Adams 1,President,,Donald J. Trump,REP,33,5,354,392
+Jefferson,Adams 2,President,,Donald J. Trump,REP,23,2,274,299
+Jefferson,Adams 3 ,President,,Donald J. Trump,REP,48,3,580,631
+Jefferson,Alexandria 1,President,,Donald J. Trump,REP,28,6,236,270
+Jefferson,Alexandria 2,President,,Donald J. Trump,REP,73,1,281,355
+Jefferson,Alexandria 3,President,,Donald J. Trump,REP,42,7,527,576
+Jefferson,Antwerp 1,President,,Donald J. Trump,REP,9,1,127,137
+Jefferson,Antwerp 2,President,,Donald J. Trump,REP,20,4,320,344
+Jefferson,Brownville 1,President,,Donald J. Trump,REP,20,3,358,381
+Jefferson,Brownville 2,President,,Donald J. Trump,REP,17,0,233,250
+Jefferson,Brownville 3,President,,Donald J. Trump,REP,30,5,409,444
+Jefferson,Brownville 4,President,,Donald J. Trump,REP,18,1,214,233
+Jefferson,Brownville 5,President,,Donald J. Trump,REP,33,5,437,475
+Jefferson,Cape Vincent 1,President,,Donald J. Trump,REP,21,10,205,236
+Jefferson,Cape Vincent 2,President,,Donald J. Trump,REP,110,12,444,566
+Jefferson,Champion 1,President,,Donald J. Trump,REP,73,9,658,740
+Jefferson,Champion 2,President,,Donald J. Trump,REP,29,3,312,344
+Jefferson,Clayton 1,President,,Donald J. Trump,REP,31,9,362,402
+Jefferson,Clayton 2,President,,Donald J. Trump,REP,58,1,392,451
+Jefferson,Clayton 3,President,,Donald J. Trump,REP,73,3,496,572
+Jefferson,Ellisburg 1,President,,Donald J. Trump,REP,5,2,102,109
+Jefferson,Ellisburg 2,President,,Donald J. Trump,REP,25,2,373,400
+Jefferson,Ellisburg 3,President,,Donald J. Trump,REP,0,0,66,66
+Jefferson,Ellisburg 4,President,,Donald J. Trump,REP,32,5,421,458
+Jefferson,Henderson 1,President,,Donald J. Trump,REP,52,1,472,525
+Jefferson,Hounsfield 1,President,,Donald J. Trump,REP,41,4,267,312
+Jefferson,Hounsfield 2,President,,Donald J. Trump,REP,60,3,536,599
+Jefferson,LeRay 1,President,,Donald J. Trump,REP,17,4,196,217
+Jefferson,LeRay 2,President,,Donald J. Trump,REP,5,3,94,102
+Jefferson,LeRay 3,President,,Donald J. Trump,REP,19,2,110,131
+Jefferson,LeRay 4,President,,Donald J. Trump,REP,76,4,382,462
+Jefferson,LeRay 5,President,,Donald J. Trump,REP,17,0,147,164
+Jefferson,LeRay 6,President,,Donald J. Trump,REP,5,2,110,117
+Jefferson,LeRay 7,President,,Donald J. Trump,REP,19,0,45,64
+Jefferson,LeRay 8,President,,Donald J. Trump,REP,42,6,321,369
+Jefferson,Lorraine 1,President,,Donald J. Trump,REP,20,2,311,333
+Jefferson,Lyme 1,President,,Donald J. Trump,REP,30,2,274,306
+Jefferson,Lyme 2,President,,Donald J. Trump,REP,27,7,289,323
+Jefferson,Lyme 3,President,,Donald J. Trump,REP,15,1,174,190
+Jefferson,Orleans 1,President,,Donald J. Trump,REP,40,3,484,527
+Jefferson,Orleans 2,President,,Donald J. Trump,REP,43,0,243,286
+Jefferson,Pamelia 1,President,,Donald J. Trump,REP,38,7,428,473
+Jefferson,Pamelia 2,President,,Donald J. Trump,REP,39,0,423,462
+Jefferson,Philadelphia 1,President,,Donald J. Trump,REP,12,1,193,206
+Jefferson,Philadelphia 2,President,,Donald J. Trump,REP,12,2,228,242
+Jefferson,Rodman 1,President,,Donald J. Trump,REP,16,1,420,437
+Jefferson,Rutland 1,President,,Donald J. Trump,REP,31,2,361,394
+Jefferson,Rutland 2,President,,Donald J. Trump,REP,22,4,328,354
+Jefferson,Rutland 3,President,,Donald J. Trump,REP,15,0,74,89
+Jefferson,Theresa 1,President,,Donald J. Trump,REP,65,5,663,733
+Jefferson,Watertown 1,President,,Donald J. Trump,REP,74,13,544,631
+Jefferson,Watertown 2,President,,Donald J. Trump,REP,102,2,609,713
+Jefferson,Wilna 1,President,,Donald J. Trump,REP,55,7,462,524
+Jefferson,Wilna 2,President,,Donald J. Trump,REP,0,0,17,17
+Jefferson,Wilna 3,President,,Donald J. Trump,REP,5,1,58,64
+Jefferson,Wilna 4,President,,Donald J. Trump,REP,15,0,156,171
+Jefferson,Wilna 5,President,,Donald J. Trump,REP,38,2,365,405
+Jefferson,Worth 1,President,,Donald J. Trump,REP,4,1,97,102
+Jefferson,Special Federal & Special Presidential,President,,Donald J. Trump,REP,12,0,0,12
+Jefferson,12~1,President,,Donald J. Trump,CON,7,1,28,36
+Jefferson,12~2,President,,Donald J. Trump,CON,9,1,21,31
+Jefferson,12~3,President,,Donald J. Trump,CON,2,0,20,22
+Jefferson,13~1,President,,Donald J. Trump,CON,4,2,30,36
+Jefferson,13~2,President,,Donald J. Trump,CON,4,0,33,37
+Jefferson,13~3,President,,Donald J. Trump,CON,2,0,14,16
+Jefferson,14~1,President,,Donald J. Trump,CON,1,2,25,28
+Jefferson,14~2,President,,Donald J. Trump,CON,4,0,8,12
+Jefferson,15~1,President,,Donald J. Trump,CON,4,0,23,27
+Jefferson,15~2,President,,Donald J. Trump,CON,2,0,19,21
+Jefferson,15~3,President,,Donald J. Trump,CON,0,0,7,7
+Jefferson,Adams 1,President,,Donald J. Trump,CON,6,1,32,39
+Jefferson,Adams 2,President,,Donald J. Trump,CON,2,0,16,18
+Jefferson,Adams 3 ,President,,Donald J. Trump,CON,4,0,48,52
+Jefferson,Alexandria 1,President,,Donald J. Trump,CON,1,1,13,15
+Jefferson,Alexandria 2,President,,Donald J. Trump,CON,8,0,23,31
+Jefferson,Alexandria 3,President,,Donald J. Trump,CON,3,1,26,30
+Jefferson,Antwerp 1,President,,Donald J. Trump,CON,0,0,8,8
+Jefferson,Antwerp 2,President,,Donald J. Trump,CON,2,1,23,26
+Jefferson,Brownville 1,President,,Donald J. Trump,CON,0,0,19,19
+Jefferson,Brownville 2,President,,Donald J. Trump,CON,1,1,15,17
+Jefferson,Brownville 3,President,,Donald J. Trump,CON,3,2,29,34
+Jefferson,Brownville 4,President,,Donald J. Trump,CON,1,0,13,14
+Jefferson,Brownville 5,President,,Donald J. Trump,CON,1,0,18,19
+Jefferson,Cape Vincent 1,President,,Donald J. Trump,CON,5,1,12,18
+Jefferson,Cape Vincent 2,President,,Donald J. Trump,CON,5,1,36,42
+Jefferson,Champion 1,President,,Donald J. Trump,CON,8,1,38,47
+Jefferson,Champion 2,President,,Donald J. Trump,CON,1,0,14,15
+Jefferson,Clayton 1,President,,Donald J. Trump,CON,3,0,33,36
+Jefferson,Clayton 2,President,,Donald J. Trump,CON,3,0,18,21
+Jefferson,Clayton 3,President,,Donald J. Trump,CON,7,0,40,47
+Jefferson,Ellisburg 1,President,,Donald J. Trump,CON,0,0,7,7
+Jefferson,Ellisburg 2,President,,Donald J. Trump,CON,2,0,15,17
+Jefferson,Ellisburg 3,President,,Donald J. Trump,CON,0,0,1,1
+Jefferson,Ellisburg 4,President,,Donald J. Trump,CON,8,1,20,29
+Jefferson,Henderson 1,President,,Donald J. Trump,CON,4,0,24,28
+Jefferson,Hounsfield 1,President,,Donald J. Trump,CON,2,0,15,17
+Jefferson,Hounsfield 2,President,,Donald J. Trump,CON,7,1,36,44
+Jefferson,LeRay 1,President,,Donald J. Trump,CON,0,0,8,8
+Jefferson,LeRay 2,President,,Donald J. Trump,CON,0,0,5,5
+Jefferson,LeRay 3,President,,Donald J. Trump,CON,0,0,3,3
+Jefferson,LeRay 4,President,,Donald J. Trump,CON,7,0,26,33
+Jefferson,LeRay 5,President,,Donald J. Trump,CON,4,2,15,21
+Jefferson,LeRay 6,President,,Donald J. Trump,CON,0,0,15,15
+Jefferson,LeRay 7,President,,Donald J. Trump,CON,2,0,3,5
+Jefferson,LeRay 8,President,,Donald J. Trump,CON,3,1,28,32
+Jefferson,Lorraine 1,President,,Donald J. Trump,CON,4,0,14,18
+Jefferson,Lyme 1,President,,Donald J. Trump,CON,4,1,17,22
+Jefferson,Lyme 2,President,,Donald J. Trump,CON,9,1,24,34
+Jefferson,Lyme 3,President,,Donald J. Trump,CON,0,0,8,8
+Jefferson,Orleans 1,President,,Donald J. Trump,CON,1,0,28,29
+Jefferson,Orleans 2,President,,Donald J. Trump,CON,4,0,15,19
+Jefferson,Pamelia 1,President,,Donald J. Trump,CON,2,0,24,26
+Jefferson,Pamelia 2,President,,Donald J. Trump,CON,5,0,29,34
+Jefferson,Philadelphia 1,President,,Donald J. Trump,CON,2,0,7,9
+Jefferson,Philadelphia 2,President,,Donald J. Trump,CON,1,0,19,20
+Jefferson,Rodman 1,President,,Donald J. Trump,CON,1,0,28,29
+Jefferson,Rutland 1,President,,Donald J. Trump,CON,1,0,19,20
+Jefferson,Rutland 2,President,,Donald J. Trump,CON,3,2,23,28
+Jefferson,Rutland 3,President,,Donald J. Trump,CON,3,0,4,7
+Jefferson,Theresa 1,President,,Donald J. Trump,CON,4,0,46,50
+Jefferson,Watertown 1,President,,Donald J. Trump,CON,2,0,42,44
+Jefferson,Watertown 2,President,,Donald J. Trump,CON,8,0,44,52
+Jefferson,Wilna 1,President,,Donald J. Trump,CON,2,1,30,33
+Jefferson,Wilna 2,President,,Donald J. Trump,CON,0,0,1,1
+Jefferson,Wilna 3,President,,Donald J. Trump,CON,0,1,1,2
+Jefferson,Wilna 4,President,,Donald J. Trump,CON,0,0,7,7
+Jefferson,Wilna 5,President,,Donald J. Trump,CON,5,0,21,26
+Jefferson,Worth 1,President,,Donald J. Trump,CON,0,0,6,6
+Jefferson,Special Federal & Special Presidential,President,,Donald J. Trump,CON,0,0,0,0
+Jefferson,12~1,President,,Joseph R. Biden,WOR,5,1,15,21
+Jefferson,12~2,President,,Joseph R. Biden,WOR,2,0,16,18
+Jefferson,12~3,President,,Joseph R. Biden,WOR,2,0,3,5
+Jefferson,13~1,President,,Joseph R. Biden,WOR,6,0,18,24
+Jefferson,13~2,President,,Joseph R. Biden,WOR,5,0,7,12
+Jefferson,13~3,President,,Joseph R. Biden,WOR,0,0,23,23
+Jefferson,14~1,President,,Joseph R. Biden,WOR,2,0,16,18
+Jefferson,14~2,President,,Joseph R. Biden,WOR,5,1,6,12
+Jefferson,15~1,President,,Joseph R. Biden,WOR,4,0,13,17
+Jefferson,15~2,President,,Joseph R. Biden,WOR,8,0,11,19
+Jefferson,15~3,President,,Joseph R. Biden,WOR,1,0,8,9
+Jefferson,Adams 1,President,,Joseph R. Biden,WOR,0,0,2,2
+Jefferson,Adams 2,President,,Joseph R. Biden,WOR,1,0,8,9
+Jefferson,Adams 3 ,President,,Joseph R. Biden,WOR,9,0,10,19
+Jefferson,Alexandria 1,President,,Joseph R. Biden,WOR,2,0,6,8
+Jefferson,Alexandria 2,President,,Joseph R. Biden,WOR,1,0,4,5
+Jefferson,Alexandria 3,President,,Joseph R. Biden,WOR,1,0,11,12
+Jefferson,Antwerp 1,President,,Joseph R. Biden,WOR,0,0,4,4
+Jefferson,Antwerp 2,President,,Joseph R. Biden,WOR,2,0,4,6
+Jefferson,Brownville 1,President,,Joseph R. Biden,WOR,1,0,8,9
+Jefferson,Brownville 2,President,,Joseph R. Biden,WOR,0,0,5,5
+Jefferson,Brownville 3,President,,Joseph R. Biden,WOR,1,0,6,7
+Jefferson,Brownville 4,President,,Joseph R. Biden,WOR,0,0,5,5
+Jefferson,Brownville 5,President,,Joseph R. Biden,WOR,2,0,5,7
+Jefferson,Cape Vincent 1,President,,Joseph R. Biden,WOR,2,0,6,8
+Jefferson,Cape Vincent 2,President,,Joseph R. Biden,WOR,3,0,5,8
+Jefferson,Champion 1,President,,Joseph R. Biden,WOR,4,0,3,7
+Jefferson,Champion 2,President,,Joseph R. Biden,WOR,0,0,10,10
+Jefferson,Clayton 1,President,,Joseph R. Biden,WOR,0,0,4,4
+Jefferson,Clayton 2,President,,Joseph R. Biden,WOR,3,0,9,12
+Jefferson,Clayton 3,President,,Joseph R. Biden,WOR,5,0,15,20
+Jefferson,Ellisburg 1,President,,Joseph R. Biden,WOR,1,0,3,4
+Jefferson,Ellisburg 2,President,,Joseph R. Biden,WOR,4,0,7,11
+Jefferson,Ellisburg 3,President,,Joseph R. Biden,WOR,0,0,2,2
+Jefferson,Ellisburg 4,President,,Joseph R. Biden,WOR,3,0,7,10
+Jefferson,Henderson 1,President,,Joseph R. Biden,WOR,4,0,6,10
+Jefferson,Hounsfield 1,President,,Joseph R. Biden,WOR,5,0,13,18
+Jefferson,Hounsfield 2,President,,Joseph R. Biden,WOR,7,0,9,16
+Jefferson,LeRay 1,President,,Joseph R. Biden,WOR,1,0,1,2
+Jefferson,LeRay 2,President,,Joseph R. Biden,WOR,2,0,2,4
+Jefferson,LeRay 3,President,,Joseph R. Biden,WOR,1,0,2,3
+Jefferson,LeRay 4,President,,Joseph R. Biden,WOR,3,0,10,13
+Jefferson,LeRay 5,President,,Joseph R. Biden,WOR,0,0,2,2
+Jefferson,LeRay 6,President,,Joseph R. Biden,WOR,1,0,2,3
+Jefferson,LeRay 7,President,,Joseph R. Biden,WOR,1,0,2,3
+Jefferson,LeRay 8,President,,Joseph R. Biden,WOR,2,0,4,6
+Jefferson,Lorraine 1,President,,Joseph R. Biden,WOR,3,0,5,8
+Jefferson,Lyme 1,President,,Joseph R. Biden,WOR,2,0,3,5
+Jefferson,Lyme 2,President,,Joseph R. Biden,WOR,1,0,0,1
+Jefferson,Lyme 3,President,,Joseph R. Biden,WOR,0,0,1,1
+Jefferson,Orleans 1,President,,Joseph R. Biden,WOR,3,0,7,10
+Jefferson,Orleans 2,President,,Joseph R. Biden,WOR,1,0,4,5
+Jefferson,Pamelia 1,President,,Joseph R. Biden,WOR,5,0,14,19
+Jefferson,Pamelia 2,President,,Joseph R. Biden,WOR,3,0,11,14
+Jefferson,Philadelphia 1,President,,Joseph R. Biden,WOR,0,1,5,6
+Jefferson,Philadelphia 2,President,,Joseph R. Biden,WOR,0,0,4,4
+Jefferson,Rodman 1,President,,Joseph R. Biden,WOR,0,0,8,8
+Jefferson,Rutland 1,President,,Joseph R. Biden,WOR,1,0,6,7
+Jefferson,Rutland 2,President,,Joseph R. Biden,WOR,1,0,1,2
+Jefferson,Rutland 3,President,,Joseph R. Biden,WOR,1,0,3,4
+Jefferson,Theresa 1,President,,Joseph R. Biden,WOR,3,1,11,15
+Jefferson,Watertown 1,President,,Joseph R. Biden,WOR,5,0,13,18
+Jefferson,Watertown 2,President,,Joseph R. Biden,WOR,2,0,14,16
+Jefferson,Wilna 1,President,,Joseph R. Biden,WOR,7,0,12,19
+Jefferson,Wilna 2,President,,Joseph R. Biden,WOR,0,0,0,0
+Jefferson,Wilna 3,President,,Joseph R. Biden,WOR,0,0,2,2
+Jefferson,Wilna 4,President,,Joseph R. Biden,WOR,0,0,1,1
+Jefferson,Wilna 5,President,,Joseph R. Biden,WOR,3,0,4,7
+Jefferson,Worth 1,President,,Joseph R. Biden,WOR,0,0,3,3
+Jefferson,Special Federal & Special Presidential,President,,Joseph R. Biden,WOR,1,0,0,1
+Jefferson,12~1,President,,Howie Hawkins,GRE,2,0,1,3
+Jefferson,12~2,President,,Howie Hawkins,GRE,0,0,5,5
+Jefferson,12~3,President,,Howie Hawkins,GRE,3,0,4,7
+Jefferson,13~1,President,,Howie Hawkins,GRE,3,0,11,14
+Jefferson,13~2,President,,Howie Hawkins,GRE,1,0,0,1
+Jefferson,13~3,President,,Howie Hawkins,GRE,2,0,3,5
+Jefferson,14~1,President,,Howie Hawkins,GRE,1,0,5,6
+Jefferson,14~2,President,,Howie Hawkins,GRE,0,1,4,5
+Jefferson,15~1,President,,Howie Hawkins,GRE,2,0,2,4
+Jefferson,15~2,President,,Howie Hawkins,GRE,0,1,2,3
+Jefferson,15~3,President,,Howie Hawkins,GRE,3,0,1,4
+Jefferson,Adams 1,President,,Howie Hawkins,GRE,1,0,0,1
+Jefferson,Adams 2,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,Adams 3 ,President,,Howie Hawkins,GRE,1,0,2,3
+Jefferson,Alexandria 1,President,,Howie Hawkins,GRE,3,0,1,4
+Jefferson,Alexandria 2,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,Alexandria 3,President,,Howie Hawkins,GRE,3,0,3,6
+Jefferson,Antwerp 1,President,,Howie Hawkins,GRE,0,0,2,2
+Jefferson,Antwerp 2,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,Brownville 1,President,,Howie Hawkins,GRE,0,0,3,3
+Jefferson,Brownville 2,President,,Howie Hawkins,GRE,0,0,2,2
+Jefferson,Brownville 3,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,Brownville 4,President,,Howie Hawkins,GRE,1,0,1,2
+Jefferson,Brownville 5,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,Cape Vincent 1,President,,Howie Hawkins,GRE,3,0,2,5
+Jefferson,Cape Vincent 2,President,,Howie Hawkins,GRE,0,0,2,2
+Jefferson,Champion 1,President,,Howie Hawkins,GRE,1,0,5,6
+Jefferson,Champion 2,President,,Howie Hawkins,GRE,0,0,4,4
+Jefferson,Clayton 1,President,,Howie Hawkins,GRE,0,0,0,0
+Jefferson,Clayton 2,President,,Howie Hawkins,GRE,0,0,0,0
+Jefferson,Clayton 3,President,,Howie Hawkins,GRE,0,0,7,7
+Jefferson,Ellisburg 1,President,,Howie Hawkins,GRE,0,0,0,0
+Jefferson,Ellisburg 2,President,,Howie Hawkins,GRE,1,0,1,2
+Jefferson,Ellisburg 3,President,,Howie Hawkins,GRE,0,0,2,2
+Jefferson,Ellisburg 4,President,,Howie Hawkins,GRE,0,0,2,2
+Jefferson,Henderson 1,President,,Howie Hawkins,GRE,4,0,1,5
+Jefferson,Hounsfield 1,President,,Howie Hawkins,GRE,2,0,4,6
+Jefferson,Hounsfield 2,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,LeRay 1,President,,Howie Hawkins,GRE,0,0,0,0
+Jefferson,LeRay 2,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,LeRay 3,President,,Howie Hawkins,GRE,1,0,2,3
+Jefferson,LeRay 4,President,,Howie Hawkins,GRE,0,0,2,2
+Jefferson,LeRay 5,President,,Howie Hawkins,GRE,0,1,1,2
+Jefferson,LeRay 6,President,,Howie Hawkins,GRE,0,0,0,0
+Jefferson,LeRay 7,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,LeRay 8,President,,Howie Hawkins,GRE,1,0,0,1
+Jefferson,Lorraine 1,President,,Howie Hawkins,GRE,1,0,2,3
+Jefferson,Lyme 1,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,Lyme 2,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,Lyme 3,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,Orleans 1,President,,Howie Hawkins,GRE,0,0,0,0
+Jefferson,Orleans 2,President,,Howie Hawkins,GRE,2,0,0,2
+Jefferson,Pamelia 1,President,,Howie Hawkins,GRE,1,0,1,2
+Jefferson,Pamelia 2,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,Philadelphia 1,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,Philadelphia 2,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,Rodman 1,President,,Howie Hawkins,GRE,0,0,0,0
+Jefferson,Rutland 1,President,,Howie Hawkins,GRE,0,0,2,2
+Jefferson,Rutland 2,President,,Howie Hawkins,GRE,2,0,0,2
+Jefferson,Rutland 3,President,,Howie Hawkins,GRE,1,0,3,4
+Jefferson,Theresa 1,President,,Howie Hawkins,GRE,1,0,1,2
+Jefferson,Watertown 1,President,,Howie Hawkins,GRE,2,0,2,4
+Jefferson,Watertown 2,President,,Howie Hawkins,GRE,3,0,5,8
+Jefferson,Wilna 1,President,,Howie Hawkins,GRE,3,0,5,8
+Jefferson,Wilna 2,President,,Howie Hawkins,GRE,0,0,3,3
+Jefferson,Wilna 3,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,Wilna 4,President,,Howie Hawkins,GRE,0,0,0,0
+Jefferson,Wilna 5,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,Worth 1,President,,Howie Hawkins,GRE,0,0,1,1
+Jefferson,Special Federal & Special Presidential,President,,Howie Hawkins,GRE,0,0,0,0
+Jefferson,12~1,President,,Jo Jorgensen,LBT,3,0,12,15
+Jefferson,12~2,President,,Jo Jorgensen,LBT,2,0,7,9
+Jefferson,12~3,President,,Jo Jorgensen,LBT,0,0,5,5
+Jefferson,13~1,President,,Jo Jorgensen,LBT,5,0,3,8
+Jefferson,13~2,President,,Jo Jorgensen,LBT,3,0,11,14
+Jefferson,13~3,President,,Jo Jorgensen,LBT,3,0,7,10
+Jefferson,14~1,President,,Jo Jorgensen,LBT,2,0,8,10
+Jefferson,14~2,President,,Jo Jorgensen,LBT,1,0,7,8
+Jefferson,15~1,President,,Jo Jorgensen,LBT,2,0,3,5
+Jefferson,15~2,President,,Jo Jorgensen,LBT,4,0,14,18
+Jefferson,15~3,President,,Jo Jorgensen,LBT,1,0,5,6
+Jefferson,Adams 1,President,,Jo Jorgensen,LBT,2,0,6,8
+Jefferson,Adams 2,President,,Jo Jorgensen,LBT,0,0,5,5
+Jefferson,Adams 3 ,President,,Jo Jorgensen,LBT,2,0,12,14
+Jefferson,Alexandria 1,President,,Jo Jorgensen,LBT,0,0,4,4
+Jefferson,Alexandria 2,President,,Jo Jorgensen,LBT,0,0,2,2
+Jefferson,Alexandria 3,President,,Jo Jorgensen,LBT,0,0,5,5
+Jefferson,Antwerp 1,President,,Jo Jorgensen,LBT,0,0,2,2
+Jefferson,Antwerp 2,President,,Jo Jorgensen,LBT,3,0,6,9
+Jefferson,Brownville 1,President,,Jo Jorgensen,LBT,3,0,2,5
+Jefferson,Brownville 2,President,,Jo Jorgensen,LBT,2,0,6,8
+Jefferson,Brownville 3,President,,Jo Jorgensen,LBT,4,0,6,10
+Jefferson,Brownville 4,President,,Jo Jorgensen,LBT,0,0,4,4
+Jefferson,Brownville 5,President,,Jo Jorgensen,LBT,1,0,2,3
+Jefferson,Cape Vincent 1,President,,Jo Jorgensen,LBT,0,0,2,2
+Jefferson,Cape Vincent 2,President,,Jo Jorgensen,LBT,0,0,5,5
+Jefferson,Champion 1,President,,Jo Jorgensen,LBT,3,1,9,13
+Jefferson,Champion 2,President,,Jo Jorgensen,LBT,2,0,3,5
+Jefferson,Clayton 1,President,,Jo Jorgensen,LBT,1,0,13,14
+Jefferson,Clayton 2,President,,Jo Jorgensen,LBT,2,1,10,13
+Jefferson,Clayton 3,President,,Jo Jorgensen,LBT,4,0,9,13
+Jefferson,Ellisburg 1,President,,Jo Jorgensen,LBT,2,0,1,3
+Jefferson,Ellisburg 2,President,,Jo Jorgensen,LBT,4,1,4,9
+Jefferson,Ellisburg 3,President,,Jo Jorgensen,LBT,0,0,1,1
+Jefferson,Ellisburg 4,President,,Jo Jorgensen,LBT,0,0,3,3
+Jefferson,Henderson 1,President,,Jo Jorgensen,LBT,0,0,4,4
+Jefferson,Hounsfield 1,President,,Jo Jorgensen,LBT,6,0,8,14
+Jefferson,Hounsfield 2,President,,Jo Jorgensen,LBT,4,2,6,12
+Jefferson,LeRay 1,President,,Jo Jorgensen,LBT,2,0,5,7
+Jefferson,LeRay 2,President,,Jo Jorgensen,LBT,0,0,1,1
+Jefferson,LeRay 3,President,,Jo Jorgensen,LBT,0,0,3,3
+Jefferson,LeRay 4,President,,Jo Jorgensen,LBT,3,1,12,16
+Jefferson,LeRay 5,President,,Jo Jorgensen,LBT,0,0,2,2
+Jefferson,LeRay 6,President,,Jo Jorgensen,LBT,0,0,2,2
+Jefferson,LeRay 7,President,,Jo Jorgensen,LBT,2,0,1,3
+Jefferson,LeRay 8,President,,Jo Jorgensen,LBT,5,1,20,26
+Jefferson,Lorraine 1,President,,Jo Jorgensen,LBT,0,0,3,3
+Jefferson,Lyme 1,President,,Jo Jorgensen,LBT,1,0,2,3
+Jefferson,Lyme 2,President,,Jo Jorgensen,LBT,0,0,5,5
+Jefferson,Lyme 3,President,,Jo Jorgensen,LBT,0,0,5,5
+Jefferson,Orleans 1,President,,Jo Jorgensen,LBT,2,0,12,14
+Jefferson,Orleans 2,President,,Jo Jorgensen,LBT,1,1,5,7
+Jefferson,Pamelia 1,President,,Jo Jorgensen,LBT,3,0,8,11
+Jefferson,Pamelia 2,President,,Jo Jorgensen,LBT,1,1,8,10
+Jefferson,Philadelphia 1,President,,Jo Jorgensen,LBT,0,1,10,11
+Jefferson,Philadelphia 2,President,,Jo Jorgensen,LBT,0,0,3,3
+Jefferson,Rodman 1,President,,Jo Jorgensen,LBT,0,0,8,8
+Jefferson,Rutland 1,President,,Jo Jorgensen,LBT,0,0,4,4
+Jefferson,Rutland 2,President,,Jo Jorgensen,LBT,1,0,6,7
+Jefferson,Rutland 3,President,,Jo Jorgensen,LBT,1,0,2,3
+Jefferson,Theresa 1,President,,Jo Jorgensen,LBT,4,0,18,22
+Jefferson,Watertown 1,President,,Jo Jorgensen,LBT,3,0,12,15
+Jefferson,Watertown 2,President,,Jo Jorgensen,LBT,1,0,14,15
+Jefferson,Wilna 1,President,,Jo Jorgensen,LBT,2,0,16,18
+Jefferson,Wilna 2,President,,Jo Jorgensen,LBT,1,0,1,2
+Jefferson,Wilna 3,President,,Jo Jorgensen,LBT,0,0,3,3
+Jefferson,Wilna 4,President,,Jo Jorgensen,LBT,1,0,4,5
+Jefferson,Wilna 5,President,,Jo Jorgensen,LBT,0,0,5,5
+Jefferson,Worth 1,President,,Jo Jorgensen,LBT,0,0,0,0
+Jefferson,Special Federal & Special Presidential,President,,Jo Jorgensen,LBT,0,0,0,0
+Jefferson,12~1,President,,Brock Pierce,IND,2,0,3,5
+Jefferson,12~2,President,,Brock Pierce,IND,2,0,3,5
+Jefferson,12~3,President,,Brock Pierce,IND,0,0,3,3
+Jefferson,13~1,President,,Brock Pierce,IND,1,0,3,4
+Jefferson,13~2,President,,Brock Pierce,IND,0,0,3,3
+Jefferson,13~3,President,,Brock Pierce,IND,1,0,2,3
+Jefferson,14~1,President,,Brock Pierce,IND,1,0,0,1
+Jefferson,14~2,President,,Brock Pierce,IND,0,0,3,3
+Jefferson,15~1,President,,Brock Pierce,IND,0,0,1,1
+Jefferson,15~2,President,,Brock Pierce,IND,0,1,9,10
+Jefferson,15~3,President,,Brock Pierce,IND,0,0,0,0
+Jefferson,Adams 1,President,,Brock Pierce,IND,0,0,3,3
+Jefferson,Adams 2,President,,Brock Pierce,IND,1,0,1,2
+Jefferson,Adams 3 ,President,,Brock Pierce,IND,1,0,4,5
+Jefferson,Alexandria 1,President,,Brock Pierce,IND,2,0,1,3
+Jefferson,Alexandria 2,President,,Brock Pierce,IND,1,0,3,4
+Jefferson,Alexandria 3,President,,Brock Pierce,IND,2,0,1,3
+Jefferson,Antwerp 1,President,,Brock Pierce,IND,0,0,0,0
+Jefferson,Antwerp 2,President,,Brock Pierce,IND,0,0,2,2
+Jefferson,Brownville 1,President,,Brock Pierce,IND,1,0,2,3
+Jefferson,Brownville 2,President,,Brock Pierce,IND,1,0,3,4
+Jefferson,Brownville 3,President,,Brock Pierce,IND,1,0,0,1
+Jefferson,Brownville 4,President,,Brock Pierce,IND,0,0,4,4
+Jefferson,Brownville 5,President,,Brock Pierce,IND,1,0,4,5
+Jefferson,Cape Vincent 1,President,,Brock Pierce,IND,1,0,4,5
+Jefferson,Cape Vincent 2,President,,Brock Pierce,IND,1,0,2,3
+Jefferson,Champion 1,President,,Brock Pierce,IND,1,0,3,4
+Jefferson,Champion 2,President,,Brock Pierce,IND,0,0,4,4
+Jefferson,Clayton 1,President,,Brock Pierce,IND,2,0,3,5
+Jefferson,Clayton 2,President,,Brock Pierce,IND,0,0,0,0
+Jefferson,Clayton 3,President,,Brock Pierce,IND,1,0,4,5
+Jefferson,Ellisburg 1,President,,Brock Pierce,IND,0,0,1,1
+Jefferson,Ellisburg 2,President,,Brock Pierce,IND,0,0,0,0
+Jefferson,Ellisburg 3,President,,Brock Pierce,IND,0,0,0,0
+Jefferson,Ellisburg 4,President,,Brock Pierce,IND,1,0,5,6
+Jefferson,Henderson 1,President,,Brock Pierce,IND,2,0,3,5
+Jefferson,Hounsfield 1,President,,Brock Pierce,IND,0,0,3,3
+Jefferson,Hounsfield 2,President,,Brock Pierce,IND,1,0,4,5
+Jefferson,LeRay 1,President,,Brock Pierce,IND,0,0,1,1
+Jefferson,LeRay 2,President,,Brock Pierce,IND,0,0,2,2
+Jefferson,LeRay 3,President,,Brock Pierce,IND,1,0,0,1
+Jefferson,LeRay 4,President,,Brock Pierce,IND,2,0,4,6
+Jefferson,LeRay 5,President,,Brock Pierce,IND,0,0,2,2
+Jefferson,LeRay 6,President,,Brock Pierce,IND,0,0,1,1
+Jefferson,LeRay 7,President,,Brock Pierce,IND,1,0,0,1
+Jefferson,LeRay 8,President,,Brock Pierce,IND,0,0,4,4
+Jefferson,Lorraine 1,President,,Brock Pierce,IND,0,0,1,1
+Jefferson,Lyme 1,President,,Brock Pierce,IND,1,0,1,2
+Jefferson,Lyme 2,President,,Brock Pierce,IND,0,0,1,1
+Jefferson,Lyme 3,President,,Brock Pierce,IND,1,0,1,2
+Jefferson,Orleans 1,President,,Brock Pierce,IND,0,0,1,1
+Jefferson,Orleans 2,President,,Brock Pierce,IND,0,0,0,0
+Jefferson,Pamelia 1,President,,Brock Pierce,IND,0,0,3,3
+Jefferson,Pamelia 2,President,,Brock Pierce,IND,0,0,1,1
+Jefferson,Philadelphia 1,President,,Brock Pierce,IND,0,0,2,2
+Jefferson,Philadelphia 2,President,,Brock Pierce,IND,1,0,4,5
+Jefferson,Rodman 1,President,,Brock Pierce,IND,0,0,4,4
+Jefferson,Rutland 1,President,,Brock Pierce,IND,1,0,3,4
+Jefferson,Rutland 2,President,,Brock Pierce,IND,0,0,1,1
+Jefferson,Rutland 3,President,,Brock Pierce,IND,0,0,1,1
+Jefferson,Theresa 1,President,,Brock Pierce,IND,1,0,3,4
+Jefferson,Watertown 1,President,,Brock Pierce,IND,1,0,3,4
+Jefferson,Watertown 2,President,,Brock Pierce,IND,1,0,3,4
+Jefferson,Wilna 1,President,,Brock Pierce,IND,0,0,3,3
+Jefferson,Wilna 2,President,,Brock Pierce,IND,0,0,0,0
+Jefferson,Wilna 3,President,,Brock Pierce,IND,0,0,0,0
+Jefferson,Wilna 4,President,,Brock Pierce,IND,0,0,1,1
+Jefferson,Wilna 5,President,,Brock Pierce,IND,2,0,2,4
+Jefferson,Worth 1,President,,Brock Pierce,IND,0,0,0,0
+Jefferson,Special Federal & Special Presidential,President,,Brock Pierce,IND,0,0,0,0
+Jefferson,12~1,President,,Write-ins,,0,0,0,0
+Jefferson,12~2,President,,Write-ins,,0,0,0,0
+Jefferson,12~3,President,,Write-ins,,0,0,1,1
+Jefferson,13~1,President,,Write-ins,,0,0,0,0
+Jefferson,13~2,President,,Write-ins,,0,0,0,0
+Jefferson,13~3,President,,Write-ins,,0,0,0,0
+Jefferson,14~1,President,,Write-ins,,0,0,0,0
+Jefferson,14~2,President,,Write-ins,,0,0,1,1
+Jefferson,15~1,President,,Write-ins,,0,0,0,0
+Jefferson,15~2,President,,Write-ins,,0,0,0,0
+Jefferson,15~3,President,,Write-ins,,0,0,0,0
+Jefferson,Adams 1,President,,Write-ins,,0,0,0,0
+Jefferson,Adams 2,President,,Write-ins,,0,0,0,0
+Jefferson,Adams 3 ,President,,Write-ins,,0,0,0,0
+Jefferson,Alexandria 1,President,,Write-ins,,0,0,0,0
+Jefferson,Alexandria 2,President,,Write-ins,,0,0,0,0
+Jefferson,Alexandria 3,President,,Write-ins,,0,0,1,1
+Jefferson,Antwerp 1,President,,Write-ins,,0,0,0,0
+Jefferson,Antwerp 2,President,,Write-ins,,0,0,0,0
+Jefferson,Brownville 1,President,,Write-ins,,0,0,0,0
+Jefferson,Brownville 2,President,,Write-ins,,0,0,0,0
+Jefferson,Brownville 3,President,,Write-ins,,0,0,0,0
+Jefferson,Brownville 4,President,,Write-ins,,0,0,0,0
+Jefferson,Brownville 5,President,,Write-ins,,0,0,0,0
+Jefferson,Cape Vincent 1,President,,Write-ins,,0,0,0,0
+Jefferson,Cape Vincent 2,President,,Write-ins,,0,0,0,0
+Jefferson,Champion 1,President,,Write-ins,,0,0,0,0
+Jefferson,Champion 2,President,,Write-ins,,0,0,0,0
+Jefferson,Clayton 1,President,,Write-ins,,0,0,0,0
+Jefferson,Clayton 2,President,,Write-ins,,0,0,0,0
+Jefferson,Clayton 3,President,,Write-ins,,0,0,0,0
+Jefferson,Ellisburg 1,President,,Write-ins,,0,0,0,0
+Jefferson,Ellisburg 2,President,,Write-ins,,0,0,0,0
+Jefferson,Ellisburg 3,President,,Write-ins,,0,0,0,0
+Jefferson,Ellisburg 4,President,,Write-ins,,0,0,0,0
+Jefferson,Henderson 1,President,,Write-ins,,0,0,0,0
+Jefferson,Hounsfield 1,President,,Write-ins,,0,0,0,0
+Jefferson,Hounsfield 2,President,,Write-ins,,0,0,0,0
+Jefferson,LeRay 1,President,,Write-ins,,0,0,0,0
+Jefferson,LeRay 2,President,,Write-ins,,0,0,0,0
+Jefferson,LeRay 3,President,,Write-ins,,0,0,0,0
+Jefferson,LeRay 4,President,,Write-ins,,0,0,0,0
+Jefferson,LeRay 5,President,,Write-ins,,0,0,0,0
+Jefferson,LeRay 6,President,,Write-ins,,0,0,0,0
+Jefferson,LeRay 7,President,,Write-ins,,0,0,0,0
+Jefferson,LeRay 8,President,,Write-ins,,0,0,0,0
+Jefferson,Lorraine 1,President,,Write-ins,,0,0,0,0
+Jefferson,Lyme 1,President,,Write-ins,,0,0,0,0
+Jefferson,Lyme 2,President,,Write-ins,,0,0,0,0
+Jefferson,Lyme 3,President,,Write-ins,,0,0,0,0
+Jefferson,Orleans 1,President,,Write-ins,,1,0,1,2
+Jefferson,Orleans 2,President,,Write-ins,,0,0,0,0
+Jefferson,Pamelia 1,President,,Write-ins,,0,0,1,1
+Jefferson,Pamelia 2,President,,Write-ins,,0,0,0,0
+Jefferson,Philadelphia 1,President,,Write-ins,,0,0,1,1
+Jefferson,Philadelphia 2,President,,Write-ins,,0,0,0,0
+Jefferson,Rodman 1,President,,Write-ins,,0,0,0,0
+Jefferson,Rutland 1,President,,Write-ins,,0,0,0,0
+Jefferson,Rutland 2,President,,Write-ins,,0,0,0,0
+Jefferson,Rutland 3,President,,Write-ins,,0,0,0,0
+Jefferson,Theresa 1,President,,Write-ins,,0,0,0,0
+Jefferson,Watertown 1,President,,Write-ins,,0,0,0,0
+Jefferson,Watertown 2,President,,Write-ins,,0,0,0,0
+Jefferson,Wilna 1,President,,Write-ins,,0,0,0,0
+Jefferson,Wilna 2,President,,Write-ins,,0,0,0,0
+Jefferson,Wilna 3,President,,Write-ins,,0,0,0,0
+Jefferson,Wilna 4,President,,Write-ins,,0,0,0,0
+Jefferson,Wilna 5,President,,Write-ins,,0,0,0,0
+Jefferson,Worth 1,President,,Write-ins,,0,0,0,0
+Jefferson,Special Federal & Special Presidential,President,,Write-ins,,0,0,0,0
+Jefferson,12~1,President,,Blanks,,0,0,7,7
+Jefferson,12~2,President,,Blanks,,0,0,2,2
+Jefferson,12~3,President,,Blanks,,2,0,1,3
+Jefferson,13~1,President,,Blanks,,1,0,1,2
+Jefferson,13~2,President,,Blanks,,0,0,1,1
+Jefferson,13~3,President,,Blanks,,0,0,0,0
+Jefferson,14~1,President,,Blanks,,1,0,2,3
+Jefferson,14~2,President,,Blanks,,1,0,0,1
+Jefferson,15~1,President,,Blanks,,0,0,0,0
+Jefferson,15~2,President,,Blanks,,1,0,1,2
+Jefferson,15~3,President,,Blanks,,0,0,0,0
+Jefferson,Adams 1,President,,Blanks,,2,0,3,5
+Jefferson,Adams 2,President,,Blanks,,0,0,2,2
+Jefferson,Adams 3 ,President,,Blanks,,1,0,0,1
+Jefferson,Alexandria 1,President,,Blanks,,3,0,3,6
+Jefferson,Alexandria 2,President,,Blanks,,2,0,8,10
+Jefferson,Alexandria 3,President,,Blanks,,1,0,3,4
+Jefferson,Antwerp 1,President,,Blanks,,0,0,5,5
+Jefferson,Antwerp 2,President,,Blanks,,0,0,1,1
+Jefferson,Brownville 1,President,,Blanks,,0,0,2,2
+Jefferson,Brownville 2,President,,Blanks,,0,0,4,4
+Jefferson,Brownville 3,President,,Blanks,,0,0,1,1
+Jefferson,Brownville 4,President,,Blanks,,1,0,0,1
+Jefferson,Brownville 5,President,,Blanks,,1,0,1,2
+Jefferson,Cape Vincent 1,President,,Blanks,,0,0,2,2
+Jefferson,Cape Vincent 2,President,,Blanks,,5,0,0,5
+Jefferson,Champion 1,President,,Blanks,,0,0,1,1
+Jefferson,Champion 2,President,,Blanks,,0,0,1,1
+Jefferson,Clayton 1,President,,Blanks,,0,0,2,2
+Jefferson,Clayton 2,President,,Blanks,,0,0,2,2
+Jefferson,Clayton 3,President,,Blanks,,1,0,3,4
+Jefferson,Ellisburg 1,President,,Blanks,,0,0,0,0
+Jefferson,Ellisburg 2,President,,Blanks,,0,0,0,0
+Jefferson,Ellisburg 3,President,,Blanks,,0,0,1,1
+Jefferson,Ellisburg 4,President,,Blanks,,0,0,3,3
+Jefferson,Henderson 1,President,,Blanks,,2,0,2,4
+Jefferson,Hounsfield 1,President,,Blanks,,1,0,2,3
+Jefferson,Hounsfield 2,President,,Blanks,,2,0,2,4
+Jefferson,LeRay 1,President,,Blanks,,0,0,0,0
+Jefferson,LeRay 2,President,,Blanks,,0,0,3,3
+Jefferson,LeRay 3,President,,Blanks,,0,0,1,1
+Jefferson,LeRay 4,President,,Blanks,,0,0,0,0
+Jefferson,LeRay 5,President,,Blanks,,0,0,2,2
+Jefferson,LeRay 6,President,,Blanks,,0,0,0,0
+Jefferson,LeRay 7,President,,Blanks,,0,0,0,0
+Jefferson,LeRay 8,President,,Blanks,,0,0,1,1
+Jefferson,Lorraine 1,President,,Blanks,,0,1,2,3
+Jefferson,Lyme 1,President,,Blanks,,1,0,2,3
+Jefferson,Lyme 2,President,,Blanks,,1,0,1,2
+Jefferson,Lyme 3,President,,Blanks,,0,0,1,1
+Jefferson,Orleans 1,President,,Blanks,,1,0,3,4
+Jefferson,Orleans 2,President,,Blanks,,0,0,0,0
+Jefferson,Pamelia 1,President,,Blanks,,1,0,1,2
+Jefferson,Pamelia 2,President,,Blanks,,1,0,1,2
+Jefferson,Philadelphia 1,President,,Blanks,,0,0,0,0
+Jefferson,Philadelphia 2,President,,Blanks,,0,0,4,4
+Jefferson,Rodman 1,President,,Blanks,,0,0,3,3
+Jefferson,Rutland 1,President,,Blanks,,0,0,2,2
+Jefferson,Rutland 2,President,,Blanks,,1,0,1,2
+Jefferson,Rutland 3,President,,Blanks,,0,0,1,1
+Jefferson,Theresa 1,President,,Blanks,,1,0,2,3
+Jefferson,Watertown 1,President,,Blanks,,1,0,1,2
+Jefferson,Watertown 2,President,,Blanks,,4,0,2,6
+Jefferson,Wilna 1,President,,Blanks,,1,0,3,4
+Jefferson,Wilna 2,President,,Blanks,,0,0,0,0
+Jefferson,Wilna 3,President,,Blanks,,0,0,1,1
+Jefferson,Wilna 4,President,,Blanks,,0,0,0,0
+Jefferson,Wilna 5,President,,Blanks,,2,0,1,3
+Jefferson,Worth 1,President,,Blanks,,,0,0,0
+Jefferson,Special Federal & Special Presidential,President,,Blanks,,0,0,0,0
+Jefferson,12~1,President,,Voids,,0,1,3,4
+Jefferson,12~2,President,,Voids,,0,0,1,1
+Jefferson,12~3,President,,Voids,,0,0,4,4
+Jefferson,13~1,President,,Voids,,0,0,1,1
+Jefferson,13~2,President,,Voids,,1,0,4,5
+Jefferson,13~3,President,,Voids,,0,0,2,2
+Jefferson,14~1,President,,Voids,,2,0,3,5
+Jefferson,14~2,President,,Voids,,0,0,0,0
+Jefferson,15~1,President,,Voids,,1,0,0,1
+Jefferson,15~2,President,,Voids,,2,0,0,2
+Jefferson,15~3,President,,Voids,,2,0,0,2
+Jefferson,Adams 1,President,,Voids,,2,1,1,4
+Jefferson,Adams 2,President,,Voids,,0,1,2,3
+Jefferson,Adams 3 ,President,,Voids,,0,0,3,3
+Jefferson,Alexandria 1,President,,Voids,,1,0,0,1
+Jefferson,Alexandria 2,President,,Voids,,1,0,3,4
+Jefferson,Alexandria 3,President,,Voids,,0,0,4,4
+Jefferson,Antwerp 1,President,,Voids,,0,0,2,2
+Jefferson,Antwerp 2,President,,Voids,,0,0,0,0
+Jefferson,Brownville 1,President,,Voids,,1,0,2,3
+Jefferson,Brownville 2,President,,Voids,,0,0,1,1
+Jefferson,Brownville 3,President,,Voids,,0,0,0,0
+Jefferson,Brownville 4,President,,Voids,,0,0,2,2
+Jefferson,Brownville 5,President,,Voids,,1,0,1,2
+Jefferson,Cape Vincent 1,President,,Voids,,0,0,2,2
+Jefferson,Cape Vincent 2,President,,Voids,,2,0,1,3
+Jefferson,Champion 1,President,,Voids,,0,0,3,3
+Jefferson,Champion 2,President,,Voids,,1,0,2,3
+Jefferson,Clayton 1,President,,Voids,,1,0,4,5
+Jefferson,Clayton 2,President,,Voids,,0,0,3,3
+Jefferson,Clayton 3,President,,Voids,,1,0,0,1
+Jefferson,Ellisburg 1,President,,Voids,,0,0,0,0
+Jefferson,Ellisburg 2,President,,Voids,,0,0,0,0
+Jefferson,Ellisburg 3,President,,Voids,,0,0,0,0
+Jefferson,Ellisburg 4,President,,Voids,,0,1,0,1
+Jefferson,Henderson 1,President,,Voids,,2,0,1,3
+Jefferson,Hounsfield 1,President,,Voids,,0,0,2,2
+Jefferson,Hounsfield 2,President,,Voids,,0,0,1,1
+Jefferson,LeRay 1,President,,Voids,,0,0,1,1
+Jefferson,LeRay 2,President,,Voids,,0,0,1,1
+Jefferson,LeRay 3,President,,Voids,,0,0,2,2
+Jefferson,LeRay 4,President,,Voids,,1,0,2,3
+Jefferson,LeRay 5,President,,Voids,,0,0,0,0
+Jefferson,LeRay 6,President,,Voids,,0,0,0,0
+Jefferson,LeRay 7,President,,Voids,,0,0,0,0
+Jefferson,LeRay 8,President,,Voids,,2,0,0,2
+Jefferson,Lorraine 1,President,,Voids,,1,0,0,1
+Jefferson,Lyme 1,President,,Voids,,0,0,0,0
+Jefferson,Lyme 2,President,,Voids,,0,0,0,0
+Jefferson,Lyme 3,President,,Voids,,0,0,0,0
+Jefferson,Orleans 1,President,,Voids,,1,0,2,3
+Jefferson,Orleans 2,President,,Voids,,0,0,1,1
+Jefferson,Pamelia 1,President,,Voids,,0,0,3,3
+Jefferson,Pamelia 2,President,,Voids,,0,0,1,1
+Jefferson,Philadelphia 1,President,,Voids,,0,0,0,0
+Jefferson,Philadelphia 2,President,,Voids,,0,0,0,0
+Jefferson,Rodman 1,President,,Voids,,0,0,0,0
+Jefferson,Rutland 1,President,,Voids,,0,0,1,1
+Jefferson,Rutland 2,President,,Voids,,0,0,0,0
+Jefferson,Rutland 3,President,,Voids,,2,0,1,3
+Jefferson,Theresa 1,President,,Voids,,1,1,1,3
+Jefferson,Watertown 1,President,,Voids,,2,1,2,5
+Jefferson,Watertown 2,President,,Voids,,1,0,2,3
+Jefferson,Wilna 1,President,,Voids,,1,0,3,4
+Jefferson,Wilna 2,President,,Voids,,0,0,0,0
+Jefferson,Wilna 3,President,,Voids,,0,0,0,0
+Jefferson,Wilna 4,President,,Voids,,1,0,0,1
+Jefferson,Wilna 5,President,,Voids,,0,0,0,0
+Jefferson,Worth 1,President,,Voids,,,0,1,1
+Jefferson,Special Federal & Special Presidential,President,,Voids,,0,0,0,0
+Jefferson,12~1,U.S. House,21,Tedra L. Cobb,DEM,177,8,334,519
+Jefferson,12~2,U.S. House,21,Tedra L. Cobb,DEM,111,6,285,402
+Jefferson,12~3,U.S. House,21,Tedra L. Cobb,DEM,108,3,208,319
+Jefferson,13~1,U.S. House,21,Tedra L. Cobb,DEM,116,2,277,395
+Jefferson,13~2,U.S. House,21,Tedra L. Cobb,DEM,127,0,299,426
+Jefferson,13~3,U.S. House,21,Tedra L. Cobb,DEM,75,2,170,247
+Jefferson,14~1,U.S. House,21,Tedra L. Cobb,DEM,95,3,237,335
+Jefferson,14~2,U.S. House,21,Tedra L. Cobb,DEM,60,4,118,182
+Jefferson,15~1,U.S. House,21,Tedra L. Cobb,DEM,119,6,258,383
+Jefferson,15~2,U.S. House,21,Tedra L. Cobb,DEM,115,7,298,420
+Jefferson,15~3,U.S. House,21,Tedra L. Cobb,DEM,37,3,99,139
+Jefferson,Adams 1,U.S. House,21,Tedra L. Cobb,DEM,68,1,204,273
+Jefferson,Adams 2,U.S. House,21,Tedra L. Cobb,DEM,37,1,127,165
+Jefferson,Adams 3 ,U.S. House,21,Tedra L. Cobb,DEM,81,3,276,360
+Jefferson,Alexandria 1,U.S. House,21,Tedra L. Cobb,DEM,56,1,168,225
+Jefferson,Alexandria 2,U.S. House,21,Tedra L. Cobb,DEM,76,0,146,222
+Jefferson,Alexandria 3,U.S. House,21,Tedra L. Cobb,DEM,64,2,211,277
+Jefferson,Antwerp 1,U.S. House,21,Tedra L. Cobb,DEM,23,0,57,80
+Jefferson,Antwerp 2,U.S. House,21,Tedra L. Cobb,DEM,28,0,86,114
+Jefferson,Brownville 1,U.S. House,21,Tedra L. Cobb,DEM,49,0,119,168
+Jefferson,Brownville 2,U.S. House,21,Tedra L. Cobb,DEM,43,0,115,158
+Jefferson,Brownville 3,U.S. House,21,Tedra L. Cobb,DEM,38,0,165,203
+Jefferson,Brownville 4,U.S. House,21,Tedra L. Cobb,DEM,55,2,112,169
+Jefferson,Brownville 5,U.S. House,21,Tedra L. Cobb,DEM,69,2,158,229
+Jefferson,Cape Vincent 1,U.S. House,21,Tedra L. Cobb,DEM,52,1,139,192
+Jefferson,Cape Vincent 2,U.S. House,21,Tedra L. Cobb,DEM,129,2,172,303
+Jefferson,Champion 1,U.S. House,21,Tedra L. Cobb,DEM,113,0,211,324
+Jefferson,Champion 2,U.S. House,21,Tedra L. Cobb,DEM,62,1,130,193
+Jefferson,Clayton 1,U.S. House,21,Tedra L. Cobb,DEM,38,0,106,144
+Jefferson,Clayton 2,U.S. House,21,Tedra L. Cobb,DEM,110,3,262,375
+Jefferson,Clayton 3,U.S. House,21,Tedra L. Cobb,DEM,108,7,246,361
+Jefferson,Ellisburg 1,U.S. House,21,Tedra L. Cobb,DEM,12,0,40,52
+Jefferson,Ellisburg 2,U.S. House,21,Tedra L. Cobb,DEM,53,3,88,144
+Jefferson,Ellisburg 3,U.S. House,21,Tedra L. Cobb,DEM,6,0,28,34
+Jefferson,Ellisburg 4,U.S. House,21,Tedra L. Cobb,DEM,81,1,139,221
+Jefferson,Henderson 1,U.S. House,21,Tedra L. Cobb,DEM,105,1,162,268
+Jefferson,Hounsfield 1,U.S. House,21,Tedra L. Cobb,DEM,101,6,244,351
+Jefferson,Hounsfield 2,U.S. House,21,Tedra L. Cobb,DEM,108,2,198,308
+Jefferson,LeRay 1,U.S. House,21,Tedra L. Cobb,DEM,24,1,45,70
+Jefferson,LeRay 2,U.S. House,21,Tedra L. Cobb,DEM,8,0,35,43
+Jefferson,LeRay 3,U.S. House,21,Tedra L. Cobb,DEM,19,0,47,66
+Jefferson,LeRay 4,U.S. House,21,Tedra L. Cobb,DEM,139,4,243,386
+Jefferson,LeRay 5,U.S. House,21,Tedra L. Cobb,DEM,36,1,85,122
+Jefferson,LeRay 6,U.S. House,21,Tedra L. Cobb,DEM,9,0,51,60
+Jefferson,LeRay 7,U.S. House,21,Tedra L. Cobb,DEM,31,1,56,88
+Jefferson,LeRay 8,U.S. House,21,Tedra L. Cobb,DEM,101,7,221,329
+Jefferson,Lorraine 1,U.S. House,21,Tedra L. Cobb,DEM,18,0,83,101
+Jefferson,Lyme 1,U.S. House,21,Tedra L. Cobb,DEM,44,0,92,136
+Jefferson,Lyme 2,U.S. House,21,Tedra L. Cobb,DEM,68,4,148,220
+Jefferson,Lyme 3,U.S. House,21,Tedra L. Cobb,DEM,28,0,74,102
+Jefferson,Orleans 1,U.S. House,21,Tedra L. Cobb,DEM,59,1,152,212
+Jefferson,Orleans 2,U.S. House,21,Tedra L. Cobb,DEM,74,2,136,212
+Jefferson,Pamelia 1,U.S. House,21,Tedra L. Cobb,DEM,51,1,129,181
+Jefferson,Pamelia 2,U.S. House,21,Tedra L. Cobb,DEM,56,0,168,224
+Jefferson,Philadelphia 1,U.S. House,21,Tedra L. Cobb,DEM,35,2,95,132
+Jefferson,Philadelphia 2,U.S. House,21,Tedra L. Cobb,DEM,19,0,66,85
+Jefferson,Rodman 1,U.S. House,21,Tedra L. Cobb,DEM,27,0,105,132
+Jefferson,Rutland 1,U.S. House,21,Tedra L. Cobb,DEM,20,0,108,128
+Jefferson,Rutland 2,U.S. House,21,Tedra L. Cobb,DEM,31,0,91,122
+Jefferson,Rutland 3,U.S. House,21,Tedra L. Cobb,DEM,30,3,37,70
+Jefferson,Theresa 1,U.S. House,21,Tedra L. Cobb,DEM,76,4,242,322
+Jefferson,Watertown 1,U.S. House,21,Tedra L. Cobb,DEM,172,4,293,469
+Jefferson,Watertown 2,U.S. House,21,Tedra L. Cobb,DEM,136,1,172,309
+Jefferson,Wilna 1,U.S. House,21,Tedra L. Cobb,DEM,99,5,246,350
+Jefferson,Wilna 2,U.S. House,21,Tedra L. Cobb,DEM,2,0,10,12
+Jefferson,Wilna 3,U.S. House,21,Tedra L. Cobb,DEM,2,0,16,18
+Jefferson,Wilna 4,U.S. House,21,Tedra L. Cobb,DEM,16,0,41,57
+Jefferson,Wilna 5,U.S. House,21,Tedra L. Cobb,DEM,44,0,81,125
+Jefferson,Worth 1,U.S. House,21,Tedra L. Cobb,DEM,10,0,17,27
+Jefferson,Special Federal,U.S. House,21,Tedra L. Cobb,DEM,59,0,0,59
+Jefferson,12~1,U.S. House,21,Elise M. Stefanik,REP,96,5,418,519
+Jefferson,12~2,U.S. House,21,Elise M. Stefanik,REP,49,7,395,451
+Jefferson,12~3,U.S. House,21,Elise M. Stefanik,REP,64,5,324,393
+Jefferson,13~1,U.S. House,21,Elise M. Stefanik,REP,35,5,343,383
+Jefferson,13~2,U.S. House,21,Elise M. Stefanik,REP,43,6,323,372
+Jefferson,13~3,U.S. House,21,Elise M. Stefanik,REP,26,11,262,299
+Jefferson,14~1,U.S. House,21,Elise M. Stefanik,REP,49,9,343,401
+Jefferson,14~2,U.S. House,21,Elise M. Stefanik,REP,33,5,163,201
+Jefferson,15~1,U.S. House,21,Elise M. Stefanik,REP,39,9,366,414
+Jefferson,15~2,U.S. House,21,Elise M. Stefanik,REP,41,8,435,484
+Jefferson,15~3,U.S. House,21,Elise M. Stefanik,REP,11,7,110,128
+Jefferson,Adams 1,U.S. House,21,Elise M. Stefanik,REP,39,4,388,431
+Jefferson,Adams 2,U.S. House,21,Elise M. Stefanik,REP,25,2,295,322
+Jefferson,Adams 3 ,U.S. House,21,Elise M. Stefanik,REP,58,2,616,676
+Jefferson,Alexandria 1,U.S. House,21,Elise M. Stefanik,REP,33,8,241,282
+Jefferson,Alexandria 2,U.S. House,21,Elise M. Stefanik,REP,71,1,302,374
+Jefferson,Alexandria 3,U.S. House,21,Elise M. Stefanik,REP,50,7,540,597
+Jefferson,Antwerp 1,U.S. House,21,Elise M. Stefanik,REP,11,1,137,149
+Jefferson,Antwerp 2,U.S. House,21,Elise M. Stefanik,REP,23,4,336,363
+Jefferson,Brownville 1,U.S. House,21,Elise M. Stefanik,REP,27,3,362,392
+Jefferson,Brownville 2,U.S. House,21,Elise M. Stefanik,REP,15,0,253,268
+Jefferson,Brownville 3,U.S. House,21,Elise M. Stefanik,REP,34,5,427,466
+Jefferson,Brownville 4,U.S. House,21,Elise M. Stefanik,REP,26,1,237,264
+Jefferson,Brownville 5,U.S. House,21,Elise M. Stefanik,REP,42,5,449,496
+Jefferson,Cape Vincent 1,U.S. House,21,Elise M. Stefanik,REP,22,10,214,246
+Jefferson,Cape Vincent 2,U.S. House,21,Elise M. Stefanik,REP,128,12,450,590
+Jefferson,Champion 1,U.S. House,21,Elise M. Stefanik,REP,81,9,687,777
+Jefferson,Champion 2,U.S. House,21,Elise M. Stefanik,REP,34,3,348,385
+Jefferson,Clayton 1,U.S. House,21,Elise M. Stefanik,REP,33,8,374,415
+Jefferson,Clayton 2,U.S. House,21,Elise M. Stefanik,REP,71,1,417,489
+Jefferson,Clayton 3,U.S. House,21,Elise M. Stefanik,REP,86,3,525,614
+Jefferson,Ellisburg 1,U.S. House,21,Elise M. Stefanik,REP,5,2,106,113
+Jefferson,Ellisburg 2,U.S. House,21,Elise M. Stefanik,REP,27,2,374,403
+Jefferson,Ellisburg 3,U.S. House,21,Elise M. Stefanik,REP,0,0,73,73
+Jefferson,Ellisburg 4,U.S. House,21,Elise M. Stefanik,REP,35,5,427,467
+Jefferson,Henderson 1,U.S. House,21,Elise M. Stefanik,REP,62,1,490,553
+Jefferson,Hounsfield 1,U.S. House,21,Elise M. Stefanik,REP,54,4,301,359
+Jefferson,Hounsfield 2,U.S. House,21,Elise M. Stefanik,REP,69,4,550,623
+Jefferson,LeRay 1,U.S. House,21,Elise M. Stefanik,REP,20,3,204,227
+Jefferson,LeRay 2,U.S. House,21,Elise M. Stefanik,REP,5,2,95,102
+Jefferson,LeRay 3,U.S. House,21,Elise M. Stefanik,REP,22,2,113,137
+Jefferson,LeRay 4,U.S. House,21,Elise M. Stefanik,REP,80,4,400,484
+Jefferson,LeRay 5,U.S. House,21,Elise M. Stefanik,REP,20,0,154,174
+Jefferson,LeRay 6,U.S. House,21,Elise M. Stefanik,REP,7,1,116,124
+Jefferson,LeRay 7,U.S. House,21,Elise M. Stefanik,REP,19,0,49,68
+Jefferson,LeRay 8,U.S. House,21,Elise M. Stefanik,REP,47,7,346,400
+Jefferson,Lorraine 1,U.S. House,21,Elise M. Stefanik,REP,21,3,319,343
+Jefferson,Lyme 1,U.S. House,21,Elise M. Stefanik,REP,36,2,292,330
+Jefferson,Lyme 2,U.S. House,21,Elise M. Stefanik,REP,37,8,296,341
+Jefferson,Lyme 3,U.S. House,21,Elise M. Stefanik,REP,18,1,178,197
+Jefferson,Orleans 1,U.S. House,21,Elise M. Stefanik,REP,45,3,527,575
+Jefferson,Orleans 2,U.S. House,21,Elise M. Stefanik,REP,48,0,256,304
+Jefferson,Pamelia 1,U.S. House,21,Elise M. Stefanik,REP,41,6,464,511
+Jefferson,Pamelia 2,U.S. House,21,Elise M. Stefanik,REP,41,0,447,488
+Jefferson,Philadelphia 1,U.S. House,21,Elise M. Stefanik,REP,11,1,195,207
+Jefferson,Philadelphia 2,U.S. House,21,Elise M. Stefanik,REP,16,2,234,252
+Jefferson,Rodman 1,U.S. House,21,Elise M. Stefanik,REP,15,1,444,460
+Jefferson,Rutland 1,U.S. House,21,Elise M. Stefanik,REP,32,3,377,412
+Jefferson,Rutland 2,U.S. House,21,Elise M. Stefanik,REP,25,4,329,358
+Jefferson,Rutland 3,U.S. House,21,Elise M. Stefanik,REP,21,0,75,96
+Jefferson,Theresa 1,U.S. House,21,Elise M. Stefanik,REP,78,5,699,782
+Jefferson,Watertown 1,U.S. House,21,Elise M. Stefanik,REP,93,13,582,688
+Jefferson,Watertown 2,U.S. House,21,Elise M. Stefanik,REP,117,1,650,768
+Jefferson,Wilna 1,U.S. House,21,Elise M. Stefanik,REP,60,5,494,559
+Jefferson,Wilna 2,U.S. House,21,Elise M. Stefanik,REP,0,0,18,18
+Jefferson,Wilna 3,U.S. House,21,Elise M. Stefanik,REP,6,1,60,67
+Jefferson,Wilna 4,U.S. House,21,Elise M. Stefanik,REP,15,0,155,170
+Jefferson,Wilna 5,U.S. House,21,Elise M. Stefanik,REP,45,2,386,433
+Jefferson,Worth 1,U.S. House,21,Elise M. Stefanik,REP,4,1,102,107
+Jefferson,Special Federal,U.S. House,21,Elise M. Stefanik,REP,13,0,0,13
+Jefferson,12~1,U.S. House,21,Elise M. Stefanik,CON,6,1,34,41
+Jefferson,12~2,U.S. House,21,Elise M. Stefanik,CON,9,2,29,40
+Jefferson,12~3,U.S. House,21,Elise M. Stefanik,CON,2,0,29,31
+Jefferson,13~1,U.S. House,21,Elise M. Stefanik,CON,5,3,36,44
+Jefferson,13~2,U.S. House,21,Elise M. Stefanik,CON,5,0,39,44
+Jefferson,13~3,U.S. House,21,Elise M. Stefanik,CON,3,0,19,22
+Jefferson,14~1,U.S. House,21,Elise M. Stefanik,CON,2,0,29,31
+Jefferson,14~2,U.S. House,21,Elise M. Stefanik,CON,5,0,12,17
+Jefferson,15~1,U.S. House,21,Elise M. Stefanik,CON,6,0,27,33
+Jefferson,15~2,U.S. House,21,Elise M. Stefanik,CON,6,1,26,33
+Jefferson,15~3,U.S. House,21,Elise M. Stefanik,CON,1,0,8,9
+Jefferson,Adams 1,U.S. House,21,Elise M. Stefanik,CON,8,1,38,47
+Jefferson,Adams 2,U.S. House,21,Elise M. Stefanik,CON,2,0,20,22
+Jefferson,Adams 3 ,U.S. House,21,Elise M. Stefanik,CON,6,0,55,61
+Jefferson,Alexandria 1,U.S. House,21,Elise M. Stefanik,CON,2,1,14,17
+Jefferson,Alexandria 2,U.S. House,21,Elise M. Stefanik,CON,10,0,22,32
+Jefferson,Alexandria 3,U.S. House,21,Elise M. Stefanik,CON,6,1,36,43
+Jefferson,Antwerp 1,U.S. House,21,Elise M. Stefanik,CON,0,0,14,14
+Jefferson,Antwerp 2,U.S. House,21,Elise M. Stefanik,CON,4,2,26,32
+Jefferson,Brownville 1,U.S. House,21,Elise M. Stefanik,CON,0,0,31,31
+Jefferson,Brownville 2,U.S. House,21,Elise M. Stefanik,CON,2,1,17,20
+Jefferson,Brownville 3,U.S. House,21,Elise M. Stefanik,CON,3,2,31,36
+Jefferson,Brownville 4,U.S. House,21,Elise M. Stefanik,CON,2,0,17,19
+Jefferson,Brownville 5,U.S. House,21,Elise M. Stefanik,CON,4,0,18,22
+Jefferson,Cape Vincent 1,U.S. House,21,Elise M. Stefanik,CON,5,1,10,16
+Jefferson,Cape Vincent 2,U.S. House,21,Elise M. Stefanik,CON,9,0,41,50
+Jefferson,Champion 1,U.S. House,21,Elise M. Stefanik,CON,9,2,40,51
+Jefferson,Champion 2,U.S. House,21,Elise M. Stefanik,CON,4,0,21,25
+Jefferson,Clayton 1,U.S. House,21,Elise M. Stefanik,CON,4,1,36,41
+Jefferson,Clayton 2,U.S. House,21,Elise M. Stefanik,CON,3,0,29,32
+Jefferson,Clayton 3,U.S. House,21,Elise M. Stefanik,CON,12,0,48,60
+Jefferson,Ellisburg 1,U.S. House,21,Elise M. Stefanik,CON,0,0,11,11
+Jefferson,Ellisburg 2,U.S. House,21,Elise M. Stefanik,CON,3,0,16,19
+Jefferson,Ellisburg 3,U.S. House,21,Elise M. Stefanik,CON,0,0,1,1
+Jefferson,Ellisburg 4,U.S. House,21,Elise M. Stefanik,CON,4,1,30,35
+Jefferson,Henderson 1,U.S. House,21,Elise M. Stefanik,CON,4,0,31,35
+Jefferson,Hounsfield 1,U.S. House,21,Elise M. Stefanik,CON,2,1,20,23
+Jefferson,Hounsfield 2,U.S. House,21,Elise M. Stefanik,CON,9,1,47,57
+Jefferson,LeRay 1,U.S. House,21,Elise M. Stefanik,CON,1,0,15,16
+Jefferson,LeRay 2,U.S. House,21,Elise M. Stefanik,CON,0,0,9,9
+Jefferson,LeRay 3,U.S. House,21,Elise M. Stefanik,CON,0,0,6,6
+Jefferson,LeRay 4,U.S. House,21,Elise M. Stefanik,CON,10,1,34,45
+Jefferson,LeRay 5,U.S. House,21,Elise M. Stefanik,CON,3,2,19,24
+Jefferson,LeRay 6,U.S. House,21,Elise M. Stefanik,CON,0,1,16,17
+Jefferson,LeRay 7,U.S. House,21,Elise M. Stefanik,CON,3,0,5,8
+Jefferson,LeRay 8,U.S. House,21,Elise M. Stefanik,CON,4,1,34,39
+Jefferson,Lorraine 1,U.S. House,21,Elise M. Stefanik,CON,4,0,17,21
+Jefferson,Lyme 1,U.S. House,21,Elise M. Stefanik,CON,5,1,21,27
+Jefferson,Lyme 2,U.S. House,21,Elise M. Stefanik,CON,8,1,28,37
+Jefferson,Lyme 3,U.S. House,21,Elise M. Stefanik,CON,0,0,11,11
+Jefferson,Orleans 1,U.S. House,21,Elise M. Stefanik,CON,3,0,34,37
+Jefferson,Orleans 2,U.S. House,21,Elise M. Stefanik,CON,6,0,17,23
+Jefferson,Pamelia 1,U.S. House,21,Elise M. Stefanik,CON,2,1,26,29
+Jefferson,Pamelia 2,U.S. House,21,Elise M. Stefanik,CON,6,0,33,39
+Jefferson,Philadelphia 1,U.S. House,21,Elise M. Stefanik,CON,2,0,13,15
+Jefferson,Philadelphia 2,U.S. House,21,Elise M. Stefanik,CON,2,0,20,22
+Jefferson,Rodman 1,U.S. House,21,Elise M. Stefanik,CON,1,0,34,35
+Jefferson,Rutland 1,U.S. House,21,Elise M. Stefanik,CON,1,0,24,25
+Jefferson,Rutland 2,U.S. House,21,Elise M. Stefanik,CON,4,3,24,31
+Jefferson,Rutland 3,U.S. House,21,Elise M. Stefanik,CON,2,0,6,8
+Jefferson,Theresa 1,U.S. House,21,Elise M. Stefanik,CON,4,0,47,51
+Jefferson,Watertown 1,U.S. House,21,Elise M. Stefanik,CON,3,1,47,51
+Jefferson,Watertown 2,U.S. House,21,Elise M. Stefanik,CON,9,0,57,66
+Jefferson,Wilna 1,U.S. House,21,Elise M. Stefanik,CON,4,2,39,45
+Jefferson,Wilna 2,U.S. House,21,Elise M. Stefanik,CON,1,0,1,2
+Jefferson,Wilna 3,U.S. House,21,Elise M. Stefanik,CON,0,1,3,4
+Jefferson,Wilna 4,U.S. House,21,Elise M. Stefanik,CON,0,0,14,14
+Jefferson,Wilna 5,U.S. House,21,Elise M. Stefanik,CON,5,0,26,31
+Jefferson,Worth 1,U.S. House,21,Elise M. Stefanik,CON,0,0,6,6
+Jefferson,Special Federal,U.S. House,21,Elise M. Stefanik,CON,0,0,0,0
+Jefferson,12~1,U.S. House,21,Tedra L. Cobb,WOR,5,1,23,29
+Jefferson,12~2,U.S. House,21,Tedra L. Cobb,WOR,5,0,23,28
+Jefferson,12~3,U.S. House,21,Tedra L. Cobb,WOR,3,0,9,12
+Jefferson,13~1,U.S. House,21,Tedra L. Cobb,WOR,6,0,25,31
+Jefferson,13~2,U.S. House,21,Tedra L. Cobb,WOR,10,0,11,21
+Jefferson,13~3,U.S. House,21,Tedra L. Cobb,WOR,1,0,24,25
+Jefferson,14~1,U.S. House,21,Tedra L. Cobb,WOR,3,1,20,24
+Jefferson,14~2,U.S. House,21,Tedra L. Cobb,WOR,5,1,9,15
+Jefferson,15~1,U.S. House,21,Tedra L. Cobb,WOR,13,0,17,30
+Jefferson,15~2,U.S. House,21,Tedra L. Cobb,WOR,8,1,23,32
+Jefferson,15~3,U.S. House,21,Tedra L. Cobb,WOR,3,0,5,8
+Jefferson,Adams 1,U.S. House,21,Tedra L. Cobb,WOR,1,0,10,11
+Jefferson,Adams 2,U.S. House,21,Tedra L. Cobb,WOR,1,0,6,7
+Jefferson,Adams 3 ,U.S. House,21,Tedra L. Cobb,WOR,6,0,11,17
+Jefferson,Alexandria 1,U.S. House,21,Tedra L. Cobb,WOR,0,0,12,12
+Jefferson,Alexandria 2,U.S. House,21,Tedra L. Cobb,WOR,2,0,6,8
+Jefferson,Alexandria 3,U.S. House,21,Tedra L. Cobb,WOR,2,0,13,15
+Jefferson,Antwerp 1,U.S. House,21,Tedra L. Cobb,WOR,0,0,7,7
+Jefferson,Antwerp 2,U.S. House,21,Tedra L. Cobb,WOR,3,0,4,7
+Jefferson,Brownville 1,U.S. House,21,Tedra L. Cobb,WOR,1,0,6,7
+Jefferson,Brownville 2,U.S. House,21,Tedra L. Cobb,WOR,0,0,8,8
+Jefferson,Brownville 3,U.S. House,21,Tedra L. Cobb,WOR,1,0,6,7
+Jefferson,Brownville 4,U.S. House,21,Tedra L. Cobb,WOR,1,0,8,9
+Jefferson,Brownville 5,U.S. House,21,Tedra L. Cobb,WOR,5,0,7,12
+Jefferson,Cape Vincent 1,U.S. House,21,Tedra L. Cobb,WOR,4,0,8,12
+Jefferson,Cape Vincent 2,U.S. House,21,Tedra L. Cobb,WOR,4,0,8,12
+Jefferson,Champion 1,U.S. House,21,Tedra L. Cobb,WOR,6,1,9,16
+Jefferson,Champion 2,U.S. House,21,Tedra L. Cobb,WOR,3,0,14,17
+Jefferson,Clayton 1,U.S. House,21,Tedra L. Cobb,WOR,1,0,11,12
+Jefferson,Clayton 2,U.S. House,21,Tedra L. Cobb,WOR,5,0,9,14
+Jefferson,Clayton 3,U.S. House,21,Tedra L. Cobb,WOR,6,0,22,28
+Jefferson,Ellisburg 1,U.S. House,21,Tedra L. Cobb,WOR,0,0,3,3
+Jefferson,Ellisburg 2,U.S. House,21,Tedra L. Cobb,WOR,5,0,10,15
+Jefferson,Ellisburg 3,U.S. House,21,Tedra L. Cobb,WOR,0,0,2,2
+Jefferson,Ellisburg 4,U.S. House,21,Tedra L. Cobb,WOR,5,0,12,17
+Jefferson,Henderson 1,U.S. House,21,Tedra L. Cobb,WOR,5,0,9,14
+Jefferson,Hounsfield 1,U.S. House,21,Tedra L. Cobb,WOR,9,0,16,25
+Jefferson,Hounsfield 2,U.S. House,21,Tedra L. Cobb,WOR,10,0,14,24
+Jefferson,LeRay 1,U.S. House,21,Tedra L. Cobb,WOR,3,0,4,7
+Jefferson,LeRay 2,U.S. House,21,Tedra L. Cobb,WOR,2,1,2,5
+Jefferson,LeRay 3,U.S. House,21,Tedra L. Cobb,WOR,1,0,4,5
+Jefferson,LeRay 4,U.S. House,21,Tedra L. Cobb,WOR,8,0,17,25
+Jefferson,LeRay 5,U.S. House,21,Tedra L. Cobb,WOR,0,0,7,7
+Jefferson,LeRay 6,U.S. House,21,Tedra L. Cobb,WOR,1,0,3,4
+Jefferson,LeRay 7,U.S. House,21,Tedra L. Cobb,WOR,1,0,2,3
+Jefferson,LeRay 8,U.S. House,21,Tedra L. Cobb,WOR,6,0,17,23
+Jefferson,Lorraine 1,U.S. House,21,Tedra L. Cobb,WOR,2,0,6,8
+Jefferson,Lyme 1,U.S. House,21,Tedra L. Cobb,WOR,0,0,1,1
+Jefferson,Lyme 2,U.S. House,21,Tedra L. Cobb,WOR,1,0,4,5
+Jefferson,Lyme 3,U.S. House,21,Tedra L. Cobb,WOR,0,0,6,6
+Jefferson,Orleans 1,U.S. House,21,Tedra L. Cobb,WOR,5,0,6,11
+Jefferson,Orleans 2,U.S. House,21,Tedra L. Cobb,WOR,2,0,4,6
+Jefferson,Pamelia 1,U.S. House,21,Tedra L. Cobb,WOR,5,0,12,17
+Jefferson,Pamelia 2,U.S. House,21,Tedra L. Cobb,WOR,4,1,13,18
+Jefferson,Philadelphia 1,U.S. House,21,Tedra L. Cobb,WOR,2,0,11,13
+Jefferson,Philadelphia 2,U.S. House,21,Tedra L. Cobb,WOR,0,0,5,5
+Jefferson,Rodman 1,U.S. House,21,Tedra L. Cobb,WOR,1,0,8,9
+Jefferson,Rutland 1,U.S. House,21,Tedra L. Cobb,WOR,1,0,10,11
+Jefferson,Rutland 2,U.S. House,21,Tedra L. Cobb,WOR,2,0,8,10
+Jefferson,Rutland 3,U.S. House,21,Tedra L. Cobb,WOR,2,0,5,7
+Jefferson,Theresa 1,U.S. House,21,Tedra L. Cobb,WOR,5,1,14,20
+Jefferson,Watertown 1,U.S. House,21,Tedra L. Cobb,WOR,9,0,17,26
+Jefferson,Watertown 2,U.S. House,21,Tedra L. Cobb,WOR,2,0,16,18
+Jefferson,Wilna 1,U.S. House,21,Tedra L. Cobb,WOR,7,0,20,27
+Jefferson,Wilna 2,U.S. House,21,Tedra L. Cobb,WOR,0,0,0,0
+Jefferson,Wilna 3,U.S. House,21,Tedra L. Cobb,WOR,0,0,4,4
+Jefferson,Wilna 4,U.S. House,21,Tedra L. Cobb,WOR,0,0,3,3
+Jefferson,Wilna 5,U.S. House,21,Tedra L. Cobb,WOR,2,0,3,5
+Jefferson,Worth 1,U.S. House,21,Tedra L. Cobb,WOR,0,0,2,2
+Jefferson,Special Federal,U.S. House,21,Tedra L. Cobb,WOR,1,0,0,1
+Jefferson,12~1,U.S. House,21,Elise M. Stefanik,IND,3,0,7,10
+Jefferson,12~2,U.S. House,21,Elise M. Stefanik,IND,1,0,5,6
+Jefferson,12~3,U.S. House,21,Elise M. Stefanik,IND,2,0,7,9
+Jefferson,13~1,U.S. House,21,Elise M. Stefanik,IND,1,0,13,14
+Jefferson,13~2,U.S. House,21,Elise M. Stefanik,IND,1,0,7,8
+Jefferson,13~3,U.S. House,21,Elise M. Stefanik,IND,1,0,7,8
+Jefferson,14~1,U.S. House,21,Elise M. Stefanik,IND,0,0,9,9
+Jefferson,14~2,U.S. House,21,Elise M. Stefanik,IND,4,0,2,6
+Jefferson,15~1,U.S. House,21,Elise M. Stefanik,IND,1,0,8,9
+Jefferson,15~2,U.S. House,21,Elise M. Stefanik,IND,2,0,10,12
+Jefferson,15~3,U.S. House,21,Elise M. Stefanik,IND,1,0,5,6
+Jefferson,Adams 1,U.S. House,21,Elise M. Stefanik,IND,2,0,5,7
+Jefferson,Adams 2,U.S. House,21,Elise M. Stefanik,IND,2,0,6,8
+Jefferson,Adams 3 ,U.S. House,21,Elise M. Stefanik,IND,5,0,12,17
+Jefferson,Alexandria 1,U.S. House,21,Elise M. Stefanik,IND,0,0,5,5
+Jefferson,Alexandria 2,U.S. House,21,Elise M. Stefanik,IND,2,0,4,6
+Jefferson,Alexandria 3,U.S. House,21,Elise M. Stefanik,IND,1,0,9,10
+Jefferson,Antwerp 1,U.S. House,21,Elise M. Stefanik,IND,1,0,2,3
+Jefferson,Antwerp 2,U.S. House,21,Elise M. Stefanik,IND,0,0,4,4
+Jefferson,Brownville 1,U.S. House,21,Elise M. Stefanik,IND,2,0,12,14
+Jefferson,Brownville 2,U.S. House,21,Elise M. Stefanik,IND,3,0,5,8
+Jefferson,Brownville 3,U.S. House,21,Elise M. Stefanik,IND,4,0,4,8
+Jefferson,Brownville 4,U.S. House,21,Elise M. Stefanik,IND,0,0,4,4
+Jefferson,Brownville 5,U.S. House,21,Elise M. Stefanik,IND,1,0,6,7
+Jefferson,Cape Vincent 1,U.S. House,21,Elise M. Stefanik,IND,2,0,6,8
+Jefferson,Cape Vincent 2,U.S. House,21,Elise M. Stefanik,IND,1,0,8,9
+Jefferson,Champion 1,U.S. House,21,Elise M. Stefanik,IND,1,0,14,15
+Jefferson,Champion 2,U.S. House,21,Elise M. Stefanik,IND,0,0,4,4
+Jefferson,Clayton 1,U.S. House,21,Elise M. Stefanik,IND,3,0,15,18
+Jefferson,Clayton 2,U.S. House,21,Elise M. Stefanik,IND,0,0,11,11
+Jefferson,Clayton 3,U.S. House,21,Elise M. Stefanik,IND,1,0,7,8
+Jefferson,Ellisburg 1,U.S. House,21,Elise M. Stefanik,IND,1,0,0,1
+Jefferson,Ellisburg 2,U.S. House,21,Elise M. Stefanik,IND,1,0,5,6
+Jefferson,Ellisburg 3,U.S. House,21,Elise M. Stefanik,IND,0,0,0,0
+Jefferson,Ellisburg 4,U.S. House,21,Elise M. Stefanik,IND,5,1,9,15
+Jefferson,Henderson 1,U.S. House,21,Elise M. Stefanik,IND,0,0,6,6
+Jefferson,Hounsfield 1,U.S. House,21,Elise M. Stefanik,IND,1,0,4,5
+Jefferson,Hounsfield 2,U.S. House,21,Elise M. Stefanik,IND,3,0,10,13
+Jefferson,LeRay 1,U.S. House,21,Elise M. Stefanik,IND,0,0,1,1
+Jefferson,LeRay 2,U.S. House,21,Elise M. Stefanik,IND,0,0,4,4
+Jefferson,LeRay 3,U.S. House,21,Elise M. Stefanik,IND,0,0,3,3
+Jefferson,LeRay 4,U.S. House,21,Elise M. Stefanik,IND,4,0,5,9
+Jefferson,LeRay 5,U.S. House,21,Elise M. Stefanik,IND,1,0,1,2
+Jefferson,LeRay 6,U.S. House,21,Elise M. Stefanik,IND,0,0,1,1
+Jefferson,LeRay 7,U.S. House,21,Elise M. Stefanik,IND,1,0,1,2
+Jefferson,LeRay 8,U.S. House,21,Elise M. Stefanik,IND,6,0,10,16
+Jefferson,Lorraine 1,U.S. House,21,Elise M. Stefanik,IND,0,0,3,3
+Jefferson,Lyme 1,U.S. House,21,Elise M. Stefanik,IND,2,0,4,6
+Jefferson,Lyme 2,U.S. House,21,Elise M. Stefanik,IND,0,0,4,4
+Jefferson,Lyme 3,U.S. House,21,Elise M. Stefanik,IND,1,0,3,4
+Jefferson,Orleans 1,U.S. House,21,Elise M. Stefanik,IND,2,0,7,9
+Jefferson,Orleans 2,U.S. House,21,Elise M. Stefanik,IND,1,0,6,7
+Jefferson,Pamelia 1,U.S. House,21,Elise M. Stefanik,IND,1,0,10,11
+Jefferson,Pamelia 2,U.S. House,21,Elise M. Stefanik,IND,1,0,9,10
+Jefferson,Philadelphia 1,U.S. House,21,Elise M. Stefanik,IND,1,0,3,4
+Jefferson,Philadelphia 2,U.S. House,21,Elise M. Stefanik,IND,1,0,5,6
+Jefferson,Rodman 1,U.S. House,21,Elise M. Stefanik,IND,0,0,9,9
+Jefferson,Rutland 1,U.S. House,21,Elise M. Stefanik,IND,0,0,4,4
+Jefferson,Rutland 2,U.S. House,21,Elise M. Stefanik,IND,1,0,2,3
+Jefferson,Rutland 3,U.S. House,21,Elise M. Stefanik,IND,1,0,4,5
+Jefferson,Theresa 1,U.S. House,21,Elise M. Stefanik,IND,3,0,15,18
+Jefferson,Watertown 1,U.S. House,21,Elise M. Stefanik,IND,3,0,12,15
+Jefferson,Watertown 2,U.S. House,21,Elise M. Stefanik,IND,3,0,8,11
+Jefferson,Wilna 1,U.S. House,21,Elise M. Stefanik,IND,2,0,6,8
+Jefferson,Wilna 2,U.S. House,21,Elise M. Stefanik,IND,0,0,0,0
+Jefferson,Wilna 3,U.S. House,21,Elise M. Stefanik,IND,1,0,1,2
+Jefferson,Wilna 4,U.S. House,21,Elise M. Stefanik,IND,1,0,1,2
+Jefferson,Wilna 5,U.S. House,21,Elise M. Stefanik,IND,5,0,5,10
+Jefferson,Worth 1,U.S. House,21,Elise M. Stefanik,IND,0,0,1,1
+Jefferson,Special Federal,U.S. House,21,Elise M. Stefanik,IND,0,0,0,0
+Jefferson,12~1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,12~2,U.S. House,21,Write-ins,,1,0,2,3
+Jefferson,12~3,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,13~1,U.S. House,21,Write-ins,,1,0,1,2
+Jefferson,13~2,U.S. House,21,Write-ins,,0,0,1,1
+Jefferson,13~3,U.S. House,21,Write-ins,,0,0,1,1
+Jefferson,14~1,U.S. House,21,Write-ins,,1,0,0,1
+Jefferson,14~2,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,15~1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,15~2,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,15~3,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Adams 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Adams 2,U.S. House,21,Write-ins,,0,0,2,2
+Jefferson,Adams 3 ,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Alexandria 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Alexandria 2,U.S. House,21,Write-ins,,0,0,1,1
+Jefferson,Alexandria 3,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Antwerp 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Antwerp 2,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Brownville 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Brownville 2,U.S. House,21,Write-ins,,0,0,1,1
+Jefferson,Brownville 3,U.S. House,21,Write-ins,,1,0,0,1
+Jefferson,Brownville 4,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Brownville 5,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Cape Vincent 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Cape Vincent 2,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Champion 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Champion 2,U.S. House,21,Write-ins,,0,0,3,3
+Jefferson,Clayton 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Clayton 2,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Clayton 3,U.S. House,21,Write-ins,,0,0,1,1
+Jefferson,Ellisburg 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Ellisburg 2,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Ellisburg 3,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Ellisburg 4,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Henderson 1,U.S. House,21,Write-ins,,1,0,0,1
+Jefferson,Hounsfield 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Hounsfield 2,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,LeRay 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,LeRay 2,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,LeRay 3,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,LeRay 4,U.S. House,21,Write-ins,,0,0,1,1
+Jefferson,LeRay 5,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,LeRay 6,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,LeRay 7,U.S. House,21,Write-ins,,1,0,0,1
+Jefferson,LeRay 8,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Lorraine 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Lyme 1,U.S. House,21,Write-ins,,1,0,0,1
+Jefferson,Lyme 2,U.S. House,21,Write-ins,,0,0,1,1
+Jefferson,Lyme 3,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Orleans 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Orleans 2,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Pamelia 1,U.S. House,21,Write-ins,,0,0,1,1
+Jefferson,Pamelia 2,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Philadelphia 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Philadelphia 2,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Rodman 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Rutland 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Rutland 2,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Rutland 3,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Theresa 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Watertown 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Watertown 2,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Wilna 1,U.S. House,21,Write-ins,,0,0,1,1
+Jefferson,Wilna 2,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Wilna 3,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Wilna 4,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Wilna 5,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Worth 1,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Special Federal,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,12~1,U.S. House,21,Blanks,,10,3,15,28
+Jefferson,12~2,U.S. House,21,Blanks,,0,0,12,12
+Jefferson,12~3,U.S. House,21,Blanks,,3,0,0,3
+Jefferson,13~1,U.S. House,21,Blanks,,6,0,11,17
+Jefferson,13~2,U.S. House,21,Blanks,,2,0,2,4
+Jefferson,13~3,U.S. House,21,Blanks,,3,1,5,9
+Jefferson,14~1,U.S. House,21,Blanks,,4,1,8,13
+Jefferson,14~2,U.S. House,21,Blanks,,1,0,5,6
+Jefferson,15~1,U.S. House,21,Blanks,,4,0,10,14
+Jefferson,15~2,U.S. House,21,Blanks,,6,2,12,20
+Jefferson,15~3,U.S. House,21,Blanks,,4,0,10,14
+Jefferson,Adams 1,U.S. House,21,Blanks,,2,1,6,9
+Jefferson,Adams 2,U.S. House,21,Blanks,,0,1,1,2
+Jefferson,Adams 3 ,U.S. House,21,Blanks,,2,1,12,15
+Jefferson,Alexandria 1,U.S. House,21,Blanks,,2,0,4,6
+Jefferson,Alexandria 2,U.S. House,21,Blanks,,1,0,5,6
+Jefferson,Alexandria 3,U.S. House,21,Blanks,,2,0,10,12
+Jefferson,Antwerp 1,U.S. House,21,Blanks,,0,0,2,2
+Jefferson,Antwerp 2,U.S. House,21,Blanks,,3,0,3,6
+Jefferson,Brownville 1,U.S. House,21,Blanks,,2,0,6,8
+Jefferson,Brownville 2,U.S. House,21,Blanks,,1,0,4,5
+Jefferson,Brownville 3,U.S. House,21,Blanks,,0,0,1,1
+Jefferson,Brownville 4,U.S. House,21,Blanks,,0,0,7,7
+Jefferson,Brownville 5,U.S. House,21,Blanks,,0,1,5,6
+Jefferson,Cape Vincent 1,U.S. House,21,Blanks,,4,1,6,11
+Jefferson,Cape Vincent 2,U.S. House,21,Blanks,,3,1,8,12
+Jefferson,Champion 1,U.S. House,21,Blanks,,7,0,4,11
+Jefferson,Champion 2,U.S. House,21,Blanks,,2,0,4,6
+Jefferson,Clayton 1,U.S. House,21,Blanks,,3,0,9,12
+Jefferson,Clayton 2,U.S. House,21,Blanks,,1,0,7,8
+Jefferson,Clayton 3,U.S. House,21,Blanks,,2,0,1,3
+Jefferson,Ellisburg 1,U.S. House,21,Blanks,,0,0,2,2
+Jefferson,Ellisburg 2,U.S. House,21,Blanks,,3,0,9,12
+Jefferson,Ellisburg 3,U.S. House,21,Blanks,,0,0,1,1
+Jefferson,Ellisburg 4,U.S. House,21,Blanks,,4,0,4,8
+Jefferson,Henderson 1,U.S. House,21,Blanks,,5,0,9,14
+Jefferson,Hounsfield 1,U.S. House,21,Blanks,,2,0,5,7
+Jefferson,Hounsfield 2,U.S. House,21,Blanks,,2,0,7,9
+Jefferson,LeRay 1,U.S. House,21,Blanks,,1,0,4,5
+Jefferson,LeRay 2,U.S. House,21,Blanks,,0,0,2,2
+Jefferson,LeRay 3,U.S. House,21,Blanks,,0,0,2,2
+Jefferson,LeRay 4,U.S. House,21,Blanks,,11,0,9,20
+Jefferson,LeRay 5,U.S. House,21,Blanks,,2,0,4,6
+Jefferson,LeRay 6,U.S. House,21,Blanks,,0,0,2,2
+Jefferson,LeRay 7,U.S. House,21,Blanks,,3,1,6,10
+Jefferson,LeRay 8,U.S. House,21,Blanks,,16,0,17,33
+Jefferson,Lorraine 1,U.S. House,21,Blanks,,2,0,7,9
+Jefferson,Lyme 1,U.S. House,21,Blanks,,3,0,4,7
+Jefferson,Lyme 2,U.S. House,21,Blanks,,2,0,6,8
+Jefferson,Lyme 3,U.S. House,21,Blanks,,2,0,2,4
+Jefferson,Orleans 1,U.S. House,21,Blanks,,0,0,4,4
+Jefferson,Orleans 2,U.S. House,21,Blanks,,3,0,4,7
+Jefferson,Pamelia 1,U.S. House,21,Blanks,,6,0,6,12
+Jefferson,Pamelia 2,U.S. House,21,Blanks,,4,0,6,10
+Jefferson,Philadelphia 1,U.S. House,21,Blanks,,3,1,4,8
+Jefferson,Philadelphia 2,U.S. House,21,Blanks,,1,0,3,4
+Jefferson,Rodman 1,U.S. House,21,Blanks,,3,0,5,8
+Jefferson,Rutland 1,U.S. House,21,Blanks,,1,0,5,6
+Jefferson,Rutland 2,U.S. House,21,Blanks,,1,0,11,12
+Jefferson,Rutland 3,U.S. House,21,Blanks,,0,0,1,1
+Jefferson,Theresa 1,U.S. House,21,Blanks,,1,0,13,14
+Jefferson,Watertown 1,U.S. House,21,Blanks,,4,0,13,17
+Jefferson,Watertown 2,U.S. House,21,Blanks,,8,0,4,12
+Jefferson,Wilna 1,U.S. House,21,Blanks,,3,1,9,13
+Jefferson,Wilna 2,U.S. House,21,Blanks,,0,0,0,0
+Jefferson,Wilna 3,U.S. House,21,Blanks,,0,0,2,2
+Jefferson,Wilna 4,U.S. House,21,Blanks,,0,0,2,2
+Jefferson,Wilna 5,U.S. House,21,Blanks,,0,0,5,5
+Jefferson,Worth 1,U.S. House,21,Blanks,,1,0,2,3
+Jefferson,Special Federal,U.S. House,21,Blanks,,2,0,0,2
+Jefferson,12~1,U.S. House,21,Voids,,0,1,0,1
+Jefferson,12~2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,12~3,U.S. House,21,Voids,,0,0,0,0
+Jefferson,13~1,U.S. House,21,Voids,,0,0,0,0
+Jefferson,13~2,U.S. House,21,Voids,,0,0,1,1
+Jefferson,13~3,U.S. House,21,Voids,,0,1,0,1
+Jefferson,14~1,U.S. House,21,Voids,,0,0,0,0
+Jefferson,14~2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,15~1,U.S. House,21,Voids,,1,0,0,1
+Jefferson,15~2,U.S. House,21,Voids,,2,0,0,2
+Jefferson,15~3,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Adams 1,U.S. House,21,Voids,,1,1,0,2
+Jefferson,Adams 2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Adams 3 ,U.S. House,21,Voids,,0,0,1,1
+Jefferson,Alexandria 1,U.S. House,21,Voids,,1,0,0,1
+Jefferson,Alexandria 2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Alexandria 3,U.S. House,21,Voids,,0,0,1,1
+Jefferson,Antwerp 1,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Antwerp 2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Brownville 1,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Brownville 2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Brownville 3,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Brownville 4,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Brownville 5,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Cape Vincent 1,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Cape Vincent 2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Champion 1,U.S. House,21,Voids,,0,0,1,1
+Jefferson,Champion 2,U.S. House,21,Voids,,2,0,0,2
+Jefferson,Clayton 1,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Clayton 2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Clayton 3,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Ellisburg 1,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Ellisburg 2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Ellisburg 3,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Ellisburg 4,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Henderson 1,U.S. House,21,Voids,,1,0,0,1
+Jefferson,Hounsfield 1,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Hounsfield 2,U.S. House,21,Voids,,0,0,1,1
+Jefferson,LeRay 1,U.S. House,21,Voids,,0,0,0,0
+Jefferson,LeRay 2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,LeRay 3,U.S. House,21,Voids,,1,0,0,1
+Jefferson,LeRay 4,U.S. House,21,Voids,,0,0,0,0
+Jefferson,LeRay 5,U.S. House,21,Voids,,0,0,0,0
+Jefferson,LeRay 6,U.S. House,21,Voids,,0,0,0,0
+Jefferson,LeRay 7,U.S. House,21,Voids,,0,0,0,0
+Jefferson,LeRay 8,U.S. House,21,Voids,,4,0,0,4
+Jefferson,Lorraine 1,U.S. House,21,Voids,,0,0,1,1
+Jefferson,Lyme 1,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Lyme 2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Lyme 3,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Orleans 1,U.S. House,21,Voids,,0,0,1,1
+Jefferson,Orleans 2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Pamelia 1,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Pamelia 2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Philadelphia 1,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Philadelphia 2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Rodman 1,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Rutland 1,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Rutland 2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Rutland 3,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Theresa 1,U.S. House,21,Voids,,0,1,0,1
+Jefferson,Watertown 1,U.S. House,21,Voids,,0,0,2,2
+Jefferson,Watertown 2,U.S. House,21,Voids,,5,0,0,5
+Jefferson,Wilna 1,U.S. House,21,Voids,,1,0,0,1
+Jefferson,Wilna 2,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Wilna 3,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Wilna 4,U.S. House,21,Voids,,1,0,0,1
+Jefferson,Wilna 5,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Worth 1,U.S. House,21,Voids,,0,0,0,0
+Jefferson,Special Federal,U.S. House,21,Voids,,0,0,0,0
+Jefferson,12~1,State Senate,48,Patricia A. Ritchie,REP,160,7,523,690
+Jefferson,12~2,State Senate,48,Patricia A. Ritchie,REP,75,8,480,563
+Jefferson,12~3,State Senate,48,Patricia A. Ritchie,REP,103,4,397,504
+Jefferson,13~1,State Senate,48,Patricia A. Ritchie,REP,76,5,421,502
+Jefferson,13~2,State Senate,48,Patricia A. Ritchie,REP,90,4,433,527
+Jefferson,13~3,State Senate,48,Patricia A. Ritchie,REP,46,12,300,358
+Jefferson,14~1,State Senate,48,Patricia A. Ritchie,REP,73,7,405,485
+Jefferson,14~2,State Senate,48,Patricia A. Ritchie,REP,48,5,194,247
+Jefferson,15~1,State Senate,48,Patricia A. Ritchie,REP,77,8,426,511
+Jefferson,15~2,State Senate,48,Patricia A. Ritchie,REP,70,9,517,596
+Jefferson,15~3,State Senate,48,Patricia A. Ritchie,REP,17,6,135,158
+Jefferson,Adams 1,State Senate,48,Patricia A. Ritchie,REP,71,3,462,536
+Jefferson,Adams 2,State Senate,48,Patricia A. Ritchie,REP,40,2,345,387
+Jefferson,Adams 3 ,State Senate,48,Patricia A. Ritchie,REP,83,5,685,773
+Jefferson,Alexandria 1,State Senate,48,Patricia A. Ritchie,REP,51,8,298,357
+Jefferson,Alexandria 2,State Senate,48,Patricia A. Ritchie,REP,103,1,336,440
+Jefferson,Alexandria 3,State Senate,48,Patricia A. Ritchie,REP,72,10,605,687
+Jefferson,Antwerp 1,State Senate,48,Patricia A. Ritchie,REP,18,1,163,182
+Jefferson,Antwerp 2,State Senate,48,Patricia A. Ritchie,REP,30,4,369,403
+Jefferson,Brownville 1,State Senate,48,Patricia A. Ritchie,REP,41,2,406,449
+Jefferson,Brownville 2,State Senate,48,Patricia A. Ritchie,REP,36,0,293,329
+Jefferson,Brownville 3,State Senate,48,Patricia A. Ritchie,REP,42,5,475,522
+Jefferson,Brownville 4,State Senate,48,Patricia A. Ritchie,REP,53,1,265,319
+Jefferson,Brownville 5,State Senate,48,Patricia A. Ritchie,REP,73,6,484,563
+Jefferson,Cape Vincent 1,State Senate,48,Patricia A. Ritchie,REP,36,8,265,309
+Jefferson,Cape Vincent 2,State Senate,48,Patricia A. Ritchie,REP,165,12,483,660
+Jefferson,Champion 1,State Senate,48,Patricia A. Ritchie,REP,123,10,740,873
+Jefferson,Champion 2,State Senate,48,Patricia A. Ritchie,REP,52,2,388,442
+Jefferson,Clayton 1,State Senate,48,Patricia A. Ritchie,REP,50,8,411,469
+Jefferson,Clayton 2,State Senate,48,Patricia A. Ritchie,REP,103,1,493,597
+Jefferson,Clayton 3,State Senate,48,Patricia A. Ritchie,REP,128,7,589,724
+Jefferson,Ellisburg 1,State Senate,48,Patricia A. Ritchie,REP,6,2,107,115
+Jefferson,Ellisburg 2,State Senate,48,Patricia A. Ritchie,REP,54,3,407,464
+Jefferson,Ellisburg 3,State Senate,48,Patricia A. Ritchie,REP,2,0,87,89
+Jefferson,Ellisburg 4,State Senate,48,Patricia A. Ritchie,REP,61,5,488,554
+Jefferson,Henderson 1,State Senate,48,Patricia A. Ritchie,REP,90,2,535,627
+Jefferson,Hounsfield 1,State Senate,48,Patricia A. Ritchie,REP,86,6,368,460
+Jefferson,Hounsfield 2,State Senate,48,Patricia A. Ritchie,REP,96,4,616,716
+Jefferson,LeRay 1,State Senate,48,Patricia A. Ritchie,REP,25,4,209,238
+Jefferson,LeRay 2,State Senate,48,Patricia A. Ritchie,REP,4,3,112,119
+Jefferson,LeRay 3,State Senate,48,Patricia A. Ritchie,REP,29,2,134,165
+Jefferson,LeRay 4,State Senate,48,Patricia A. Ritchie,REP,117,7,464,588
+Jefferson,LeRay 5,State Senate,48,Patricia A. Ritchie,REP,31,0,196,227
+Jefferson,LeRay 6,State Senate,48,Patricia A. Ritchie,REP,8,1,120,129
+Jefferson,LeRay 7,State Senate,48,Patricia A. Ritchie,REP,31,0,59,90
+Jefferson,LeRay 8,State Senate,48,Patricia A. Ritchie,REP,62,9,397,468
+Jefferson,Lorraine 1,State Senate,48,Patricia A. Ritchie,REP,24,2,342,368
+Jefferson,Lyme 1,State Senate,48,Patricia A. Ritchie,REP,48,2,316,366
+Jefferson,Lyme 2,State Senate,48,Patricia A. Ritchie,REP,59,9,338,406
+Jefferson,Lyme 3,State Senate,48,Patricia A. Ritchie,REP,30,1,201,232
+Jefferson,Orleans 1,State Senate,48,Patricia A. Ritchie,REP,67,3,562,632
+Jefferson,Orleans 2,State Senate,48,Patricia A. Ritchie,REP,76,1,294,371
+Jefferson,Pamelia 1,State Senate,48,Patricia A. Ritchie,REP,54,6,508,568
+Jefferson,Pamelia 2,State Senate,48,Patricia A. Ritchie,REP,64,1,493,558
+Jefferson,Philadelphia 1,State Senate,48,Patricia A. Ritchie,REP,20,3,229,252
+Jefferson,Philadelphia 2,State Senate,48,Patricia A. Ritchie,REP,20,2,251,273
+Jefferson,Rodman 1,State Senate,48,Patricia A. Ritchie,REP,23,0,474,497
+Jefferson,Rutland 1,State Senate,48,Patricia A. Ritchie,REP,30,2,417,449
+Jefferson,Rutland 2,State Senate,48,Patricia A. Ritchie,REP,28,5,345,378
+Jefferson,Rutland 3,State Senate,48,Patricia A. Ritchie,REP,31,1,86,118
+Jefferson,Theresa 1,State Senate,48,Patricia A. Ritchie,REP,97,5,741,843
+Jefferson,Watertown 1,State Senate,48,Patricia A. Ritchie,REP,155,16,677,848
+Jefferson,Watertown 2,State Senate,48,Patricia A. Ritchie,REP,164,2,691,857
+Jefferson,Wilna 1,State Senate,48,Patricia A. Ritchie,REP,92,8,553,653
+Jefferson,Wilna 2,State Senate,48,Patricia A. Ritchie,REP,1,0,18,19
+Jefferson,Wilna 3,State Senate,48,Patricia A. Ritchie,REP,5,1,65,71
+Jefferson,Wilna 4,State Senate,48,Patricia A. Ritchie,REP,22,0,168,190
+Jefferson,Wilna 5,State Senate,48,Patricia A. Ritchie,REP,66,2,409,477
+Jefferson,Worth 1,State Senate,48,Patricia A. Ritchie,REP,7,1,99,107
+Jefferson,12~1,State Senate,48,Patricia A. Ritchie,CON,15,1,73,89
+Jefferson,12~2,State Senate,48,Patricia A. Ritchie,CON,16,3,55,74
+Jefferson,12~3,State Senate,48,Patricia A. Ritchie,CON,11,1,39,51
+Jefferson,13~1,State Senate,48,Patricia A. Ritchie,CON,27,4,67,98
+Jefferson,13~2,State Senate,48,Patricia A. Ritchie,CON,24,0,64,88
+Jefferson,13~3,State Senate,48,Patricia A. Ritchie,CON,13,0,45,58
+Jefferson,14~1,State Senate,48,Patricia A. Ritchie,CON,20,0,41,61
+Jefferson,14~2,State Senate,48,Patricia A. Ritchie,CON,13,1,31,45
+Jefferson,15~1,State Senate,48,Patricia A. Ritchie,CON,18,1,55,74
+Jefferson,15~2,State Senate,48,Patricia A. Ritchie,CON,16,3,59,78
+Jefferson,15~3,State Senate,48,Patricia A. Ritchie,CON,6,1,18,25
+Jefferson,Adams 1,State Senate,48,Patricia A. Ritchie,CON,11,1,65,77
+Jefferson,Adams 2,State Senate,48,Patricia A. Ritchie,CON,7,0,31,38
+Jefferson,Adams 3 ,State Senate,48,Patricia A. Ritchie,CON,10,1,87,98
+Jefferson,Alexandria 1,State Senate,48,Patricia A. Ritchie,CON,8,1,28,37
+Jefferson,Alexandria 2,State Senate,48,Patricia A. Ritchie,CON,12,0,33,45
+Jefferson,Alexandria 3,State Senate,48,Patricia A. Ritchie,CON,16,0,55,71
+Jefferson,Antwerp 1,State Senate,48,Patricia A. Ritchie,CON,2,0,17,19
+Jefferson,Antwerp 2,State Senate,48,Patricia A. Ritchie,CON,6,0,32,38
+Jefferson,Brownville 1,State Senate,48,Patricia A. Ritchie,CON,7,0,47,54
+Jefferson,Brownville 2,State Senate,48,Patricia A. Ritchie,CON,4,1,26,31
+Jefferson,Brownville 3,State Senate,48,Patricia A. Ritchie,CON,9,2,45,56
+Jefferson,Brownville 4,State Senate,48,Patricia A. Ritchie,CON,7,0,23,30
+Jefferson,Brownville 5,State Senate,48,Patricia A. Ritchie,CON,8,1,34,43
+Jefferson,Cape Vincent 1,State Senate,48,Patricia A. Ritchie,CON,13,1,25,39
+Jefferson,Cape Vincent 2,State Senate,48,Patricia A. Ritchie,CON,23,1,58,82
+Jefferson,Champion 1,State Senate,48,Patricia A. Ritchie,CON,18,2,62,82
+Jefferson,Champion 2,State Senate,48,Patricia A. Ritchie,CON,15,1,37,53
+Jefferson,Clayton 1,State Senate,48,Patricia A. Ritchie,CON,9,1,50,60
+Jefferson,Clayton 2,State Senate,48,Patricia A. Ritchie,CON,20,0,56,76
+Jefferson,Clayton 3,State Senate,48,Patricia A. Ritchie,CON,22,0,75,97
+Jefferson,Ellisburg 1,State Senate,48,Patricia A. Ritchie,CON,1,0,15,16
+Jefferson,Ellisburg 2,State Senate,48,Patricia A. Ritchie,CON,4,1,24,29
+Jefferson,Ellisburg 3,State Senate,48,Patricia A. Ritchie,CON,0,0,4,4
+Jefferson,Ellisburg 4,State Senate,48,Patricia A. Ritchie,CON,16,2,43,61
+Jefferson,Henderson 1,State Senate,48,Patricia A. Ritchie,CON,12,0,46,58
+Jefferson,Hounsfield 1,State Senate,48,Patricia A. Ritchie,CON,13,0,44,57
+Jefferson,Hounsfield 2,State Senate,48,Patricia A. Ritchie,CON,18,1,65,84
+Jefferson,LeRay 1,State Senate,48,Patricia A. Ritchie,CON,1,0,21,22
+Jefferson,LeRay 2,State Senate,48,Patricia A. Ritchie,CON,1,0,13,14
+Jefferson,LeRay 3,State Senate,48,Patricia A. Ritchie,CON,0,0,14,14
+Jefferson,LeRay 4,State Senate,48,Patricia A. Ritchie,CON,23,1,57,81
+Jefferson,LeRay 5,State Senate,48,Patricia A. Ritchie,CON,7,2,25,34
+Jefferson,LeRay 6,State Senate,48,Patricia A. Ritchie,CON,4,0,23,27
+Jefferson,LeRay 7,State Senate,48,Patricia A. Ritchie,CON,5,0,14,19
+Jefferson,LeRay 8,State Senate,48,Patricia A. Ritchie,CON,13,1,60,74
+Jefferson,Lorraine 1,State Senate,48,Patricia A. Ritchie,CON,5,0,26,31
+Jefferson,Lyme 1,State Senate,48,Patricia A. Ritchie,CON,9,1,32,42
+Jefferson,Lyme 2,State Senate,48,Patricia A. Ritchie,CON,15,1,42,58
+Jefferson,Lyme 3,State Senate,48,Patricia A. Ritchie,CON,2,0,20,22
+Jefferson,Orleans 1,State Senate,48,Patricia A. Ritchie,CON,12,0,52,64
+Jefferson,Orleans 2,State Senate,48,Patricia A. Ritchie,CON,15,0,24,39
+Jefferson,Pamelia 1,State Senate,48,Patricia A. Ritchie,CON,10,1,44,55
+Jefferson,Pamelia 2,State Senate,48,Patricia A. Ritchie,CON,11,0,52,63
+Jefferson,Philadelphia 1,State Senate,48,Patricia A. Ritchie,CON,6,0,28,34
+Jefferson,Philadelphia 2,State Senate,48,Patricia A. Ritchie,CON,4,0,28,32
+Jefferson,Rodman 1,State Senate,48,Patricia A. Ritchie,CON,3,0,44,47
+Jefferson,Rutland 1,State Senate,48,Patricia A. Ritchie,CON,1,0,39,40
+Jefferson,Rutland 2,State Senate,48,Patricia A. Ritchie,CON,6,2,40,48
+Jefferson,Rutland 3,State Senate,48,Patricia A. Ritchie,CON,7,0,12,19
+Jefferson,Theresa 1,State Senate,48,Patricia A. Ritchie,CON,8,1,72,81
+Jefferson,Watertown 1,State Senate,48,Patricia A. Ritchie,CON,16,1,71,88
+Jefferson,Watertown 2,State Senate,48,Patricia A. Ritchie,CON,24,0,83,107
+Jefferson,Wilna 1,State Senate,48,Patricia A. Ritchie,CON,15,3,76,94
+Jefferson,Wilna 2,State Senate,48,Patricia A. Ritchie,CON,1,0,3,4
+Jefferson,Wilna 3,State Senate,48,Patricia A. Ritchie,CON,0,1,4,5
+Jefferson,Wilna 4,State Senate,48,Patricia A. Ritchie,CON,2,0,19,21
+Jefferson,Wilna 5,State Senate,48,Patricia A. Ritchie,CON,9,0,30,39
+Jefferson,Worth 1,State Senate,48,Patricia A. Ritchie,CON,0,0,9,9
+Jefferson,12~1,State Senate,48,Patricia A. Ritchie,IND,19,2,61,82
+Jefferson,12~2,State Senate,48,Patricia A. Ritchie,IND,21,0,41,62
+Jefferson,12~3,State Senate,48,Patricia A. Ritchie,IND,12,0,27,39
+Jefferson,13~1,State Senate,48,Patricia A. Ritchie,IND,26,0,57,83
+Jefferson,13~2,State Senate,48,Patricia A. Ritchie,IND,13,0,51,64
+Jefferson,13~3,State Senate,48,Patricia A. Ritchie,IND,7,0,46,53
+Jefferson,14~1,State Senate,48,Patricia A. Ritchie,IND,18,2,45,65
+Jefferson,14~2,State Senate,48,Patricia A. Ritchie,IND,14,0,16,30
+Jefferson,15~1,State Senate,48,Patricia A. Ritchie,IND,27,1,33,61
+Jefferson,15~2,State Senate,48,Patricia A. Ritchie,IND,34,0,56,90
+Jefferson,15~3,State Senate,48,Patricia A. Ritchie,IND,15,0,21,36
+Jefferson,Adams 1,State Senate,48,Patricia A. Ritchie,IND,8,0,30,38
+Jefferson,Adams 2,State Senate,48,Patricia A. Ritchie,IND,5,1,23,29
+Jefferson,Adams 3 ,State Senate,48,Patricia A. Ritchie,IND,18,0,58,76
+Jefferson,Alexandria 1,State Senate,48,Patricia A. Ritchie,IND,5,1,38,44
+Jefferson,Alexandria 2,State Senate,48,Patricia A. Ritchie,IND,13,0,19,32
+Jefferson,Alexandria 3,State Senate,48,Patricia A. Ritchie,IND,7,0,39,46
+Jefferson,Antwerp 1,State Senate,48,Patricia A. Ritchie,IND,4,0,9,13
+Jefferson,Antwerp 2,State Senate,48,Patricia A. Ritchie,IND,4,0,12,16
+Jefferson,Brownville 1,State Senate,48,Patricia A. Ritchie,IND,6,0,24,30
+Jefferson,Brownville 2,State Senate,48,Patricia A. Ritchie,IND,7,0,22,29
+Jefferson,Brownville 3,State Senate,48,Patricia A. Ritchie,IND,8,0,18,26
+Jefferson,Brownville 4,State Senate,48,Patricia A. Ritchie,IND,7,0,21,28
+Jefferson,Brownville 5,State Senate,48,Patricia A. Ritchie,IND,7,0,23,30
+Jefferson,Cape Vincent 1,State Senate,48,Patricia A. Ritchie,IND,10,0,14,24
+Jefferson,Cape Vincent 2,State Senate,48,Patricia A. Ritchie,IND,11,1,17,29
+Jefferson,Champion 1,State Senate,48,Patricia A. Ritchie,IND,21,0,48,69
+Jefferson,Champion 2,State Senate,48,Patricia A. Ritchie,IND,12,0,32,44
+Jefferson,Clayton 1,State Senate,48,Patricia A. Ritchie,IND,11,0,15,26
+Jefferson,Clayton 2,State Senate,48,Patricia A. Ritchie,IND,13,1,39,53
+Jefferson,Clayton 3,State Senate,48,Patricia A. Ritchie,IND,23,1,53,77
+Jefferson,Ellisburg 1,State Senate,48,Patricia A. Ritchie,IND,1,0,9,10
+Jefferson,Ellisburg 2,State Senate,48,Patricia A. Ritchie,IND,11,0,15,26
+Jefferson,Ellisburg 3,State Senate,48,Patricia A. Ritchie,IND,0,0,1,1
+Jefferson,Ellisburg 4,State Senate,48,Patricia A. Ritchie,IND,12,1,28,41
+Jefferson,Henderson 1,State Senate,48,Patricia A. Ritchie,IND,16,0,30,46
+Jefferson,Hounsfield 1,State Senate,48,Patricia A. Ritchie,IND,16,1,32,49
+Jefferson,Hounsfield 2,State Senate,48,Patricia A. Ritchie,IND,25,1,45,71
+Jefferson,LeRay 1,State Senate,48,Patricia A. Ritchie,IND,2,0,9,11
+Jefferson,LeRay 2,State Senate,48,Patricia A. Ritchie,IND,2,0,9,11
+Jefferson,LeRay 3,State Senate,48,Patricia A. Ritchie,IND,2,0,8,10
+Jefferson,LeRay 4,State Senate,48,Patricia A. Ritchie,IND,29,0,69,98
+Jefferson,LeRay 5,State Senate,48,Patricia A. Ritchie,IND,3,0,13,16
+Jefferson,LeRay 6,State Senate,48,Patricia A. Ritchie,IND,2,0,15,17
+Jefferson,LeRay 7,State Senate,48,Patricia A. Ritchie,IND,7,0,15,22
+Jefferson,LeRay 8,State Senate,48,Patricia A. Ritchie,IND,22,0,42,64
+Jefferson,Lorraine 1,State Senate,48,Patricia A. Ritchie,IND,7,1,22,30
+Jefferson,Lyme 1,State Senate,48,Patricia A. Ritchie,IND,13,0,10,23
+Jefferson,Lyme 2,State Senate,48,Patricia A. Ritchie,IND,6,1,34,41
+Jefferson,Lyme 3,State Senate,48,Patricia A. Ritchie,IND,4,0,5,9
+Jefferson,Orleans 1,State Senate,48,Patricia A. Ritchie,IND,3,1,29,33
+Jefferson,Orleans 2,State Senate,48,Patricia A. Ritchie,IND,9,0,23,32
+Jefferson,Pamelia 1,State Senate,48,Patricia A. Ritchie,IND,12,0,28,40
+Jefferson,Pamelia 2,State Senate,48,Patricia A. Ritchie,IND,7,0,31,38
+Jefferson,Philadelphia 1,State Senate,48,Patricia A. Ritchie,IND,5,0,9,14
+Jefferson,Philadelphia 2,State Senate,48,Patricia A. Ritchie,IND,5,0,11,16
+Jefferson,Rodman 1,State Senate,48,Patricia A. Ritchie,IND,2,0,24,26
+Jefferson,Rutland 1,State Senate,48,Patricia A. Ritchie,IND,3,0,23,26
+Jefferson,Rutland 2,State Senate,48,Patricia A. Ritchie,IND,10,0,14,24
+Jefferson,Rutland 3,State Senate,48,Patricia A. Ritchie,IND,5,0,12,17
+Jefferson,Theresa 1,State Senate,48,Patricia A. Ritchie,IND,15,1,47,63
+Jefferson,Watertown 1,State Senate,48,Patricia A. Ritchie,IND,22,1,58,81
+Jefferson,Watertown 2,State Senate,48,Patricia A. Ritchie,IND,16,0,40,56
+Jefferson,Wilna 1,State Senate,48,Patricia A. Ritchie,IND,11,0,45,56
+Jefferson,Wilna 2,State Senate,48,Patricia A. Ritchie,IND,0,0,2,2
+Jefferson,Wilna 3,State Senate,48,Patricia A. Ritchie,IND,1,0,4,5
+Jefferson,Wilna 4,State Senate,48,Patricia A. Ritchie,IND,2,0,3,5
+Jefferson,Wilna 5,State Senate,48,Patricia A. Ritchie,IND,10,0,14,24
+Jefferson,Worth 1,State Senate,48,Patricia A. Ritchie,IND,4,0,4,8
+Jefferson,12~1,State Senate,48,Write-ins,,1,0,2,3
+Jefferson,12~2,State Senate,48,Write-ins,,1,0,4,5
+Jefferson,12~3,State Senate,48,Write-ins,,1,0,5,6
+Jefferson,13~1,State Senate,48,Write-ins,,5,0,5,10
+Jefferson,13~2,State Senate,48,Write-ins,,2,0,7,9
+Jefferson,13~3,State Senate,48,Write-ins,,1,0,4,5
+Jefferson,14~1,State Senate,48,Write-ins,,4,0,5,9
+Jefferson,14~2,State Senate,48,Write-ins,,1,0,3,4
+Jefferson,15~1,State Senate,48,Write-ins,,2,0,1,3
+Jefferson,15~2,State Senate,48,Write-ins,,1,0,2,3
+Jefferson,15~3,State Senate,48,Write-ins,,0,0,0,0
+Jefferson,Adams 1,State Senate,48,Write-ins,,1,0,3,4
+Jefferson,Adams 2,State Senate,48,Write-ins,,1,0,1,2
+Jefferson,Adams 3 ,State Senate,48,Write-ins,,2,0,3,5
+Jefferson,Alexandria 1,State Senate,48,Write-ins,,1,0,1,2
+Jefferson,Alexandria 2,State Senate,48,Write-ins,,1,0,0,1
+Jefferson,Alexandria 3,State Senate,48,Write-ins,,1,0,3,4
+Jefferson,Antwerp 1,State Senate,48,Write-ins,,0,0,1,1
+Jefferson,Antwerp 2,State Senate,48,Write-ins,,0,0,1,1
+Jefferson,Brownville 1,State Senate,48,Write-ins,,0,1,2,3
+Jefferson,Brownville 2,State Senate,48,Write-ins,,0,0,2,2
+Jefferson,Brownville 3,State Senate,48,Write-ins,,0,0,0,0
+Jefferson,Brownville 4,State Senate,48,Write-ins,,0,0,0,0
+Jefferson,Brownville 5,State Senate,48,Write-ins,,1,0,1,2
+Jefferson,Cape Vincent 1,State Senate,48,Write-ins,,1,0,1,2
+Jefferson,Cape Vincent 2,State Senate,48,Write-ins,,1,0,0,1
+Jefferson,Champion 1,State Senate,48,Write-ins,,4,0,4,8
+Jefferson,Champion 2,State Senate,48,Write-ins,,2,0,2,4
+Jefferson,Clayton 1,State Senate,48,Write-ins,,0,0,0,0
+Jefferson,Clayton 2,State Senate,48,Write-ins,,2,0,2,4
+Jefferson,Clayton 3,State Senate,48,Write-ins,,0,0,0,0
+Jefferson,Ellisburg 1,State Senate,48,Write-ins,,1,0,0,1
+Jefferson,Ellisburg 2,State Senate,48,Write-ins,,0,0,2,2
+Jefferson,Ellisburg 3,State Senate,48,Write-ins,,0,0,0,0
+Jefferson,Ellisburg 4,State Senate,48,Write-ins,,0,0,1,1
+Jefferson,Henderson 1,State Senate,48,Write-ins,,1,0,1,2
+Jefferson,Hounsfield 1,State Senate,48,Write-ins,,1,0,6,7
+Jefferson,Hounsfield 2,State Senate,48,Write-ins,,1,0,1,2
+Jefferson,LeRay 1,State Senate,48,Write-ins,,1,0,1,2
+Jefferson,LeRay 2,State Senate,48,Write-ins,,0,0,0,0
+Jefferson,LeRay 3,State Senate,48,Write-ins,,0,0,1,1
+Jefferson,LeRay 4,State Senate,48,Write-ins,,2,0,4,6
+Jefferson,LeRay 5,State Senate,48,Write-ins,,0,0,1,1
+Jefferson,LeRay 6,State Senate,48,Write-ins,,0,0,0,0
+Jefferson,LeRay 7,State Senate,48,Write-ins,,2,0,0,2
+Jefferson,LeRay 8,State Senate,48,Write-ins,,6,0,1,7
+Jefferson,Lorraine 1,State Senate,48,Write-ins,,2,0,0,2
+Jefferson,Lyme 1,State Senate,48,Write-ins,,0,0,0,0
+Jefferson,Lyme 2,State Senate,48,Write-ins,,0,0,1,1
+Jefferson,Lyme 3,State Senate,48,Write-ins,,2,0,1,3
+Jefferson,Orleans 1,State Senate,48,Write-ins,,1,0,1,2
+Jefferson,Orleans 2,State Senate,48,Write-ins,,0,0,2,2
+Jefferson,Pamelia 1,State Senate,48,Write-ins,,1,0,1,2
+Jefferson,Pamelia 2,State Senate,48,Write-ins,,1,0,1,2
+Jefferson,Philadelphia 1,State Senate,48,Write-ins,,0,0,5,5
+Jefferson,Philadelphia 2,State Senate,48,Write-ins,,0,0,2,2
+Jefferson,Rodman 1,State Senate,48,Write-ins,,0,0,0,0
+Jefferson,Rutland 1,State Senate,48,Write-ins,,1,0,1,2
+Jefferson,Rutland 2,State Senate,48,Write-ins,,0,0,0,0
+Jefferson,Rutland 3,State Senate,48,Write-ins,,4,0,1,5
+Jefferson,Theresa 1,State Senate,48,Write-ins,,4,0,3,7
+Jefferson,Watertown 1,State Senate,48,Write-ins,,1,0,1,2
+Jefferson,Watertown 2,State Senate,48,Write-ins,,0,0,3,3
+Jefferson,Wilna 1,State Senate,48,Write-ins,,2,0,2,4
+Jefferson,Wilna 2,State Senate,48,Write-ins,,0,0,0,0
+Jefferson,Wilna 3,State Senate,48,Write-ins,,0,0,0,0
+Jefferson,Wilna 4,State Senate,48,Write-ins,,0,0,0,0
+Jefferson,Wilna 5,State Senate,48,Write-ins,,0,,0,0
+Jefferson,Worth 1,State Senate,48,Write-ins,,0,,0,0
+Jefferson,12~1,State Senate,48,Blanks,,102,8,171,281
+Jefferson,12~2,State Senate,48,Blanks,,63,4,171,238
+Jefferson,12~3,State Senate,48,Blanks,,55,3,109,167
+Jefferson,13~1,State Senate,48,Blanks,,36,1,156,193
+Jefferson,13~2,State Senate,48,Blanks,,59,2,128,189
+Jefferson,13~3,State Senate,48,Blanks,,42,3,93,138
+Jefferson,14~1,State Senate,48,Blanks,,39,5,150,194
+Jefferson,14~2,State Senate,48,Blanks,,32,4,65,101
+Jefferson,15~1,State Senate,48,Blanks,,58,5,171,234
+Jefferson,15~2,State Senate,48,Blanks,,58,7,170,235
+Jefferson,15~3,State Senate,48,Blanks,,19,3,63,85
+Jefferson,Adams 1,State Senate,48,Blanks,,29,4,91,124
+Jefferson,Adams 2,State Senate,48,Blanks,,14,1,57,72
+Jefferson,Adams 3 ,State Senate,48,Blanks,,45,0,150,195
+Jefferson,Alexandria 1,State Senate,48,Blanks,,29,0,79,108
+Jefferson,Alexandria 2,State Senate,48,Blanks,,33,0,98,131
+Jefferson,Alexandria 3,State Senate,48,Blanks,,29,0,118,147
+Jefferson,Antwerp 1,State Senate,48,Blanks,,11,0,29,40
+Jefferson,Antwerp 2,State Senate,48,Blanks,,21,2,45,68
+Jefferson,Brownville 1,State Senate,48,Blanks,,27,0,57,84
+Jefferson,Brownville 2,State Senate,48,Blanks,,17,0,60,77
+Jefferson,Brownville 3,State Senate,48,Blanks,,22,0,96,118
+Jefferson,Brownville 4,State Senate,48,Blanks,,17,2,76,95
+Jefferson,Brownville 5,State Senate,48,Blanks,,32,1,101,134
+Jefferson,Cape Vincent 1,State Senate,48,Blanks,,29,4,78,111
+Jefferson,Cape Vincent 2,State Senate,48,Blanks,,74,1,129,204
+Jefferson,Champion 1,State Senate,48,Blanks,,51,0,112,163
+Jefferson,Champion 2,State Senate,48,Blanks,,26,1,65,92
+Jefferson,Clayton 1,State Senate,48,Blanks,,12,0,75,87
+Jefferson,Clayton 2,State Senate,48,Blanks,,52,2,145,199
+Jefferson,Clayton 3,State Senate,48,Blanks,,42,2,133,177
+Jefferson,Ellisburg 1,State Senate,48,Blanks,,9,0,31,40
+Jefferson,Ellisburg 2,State Senate,48,Blanks,,23,1,54,78
+Jefferson,Ellisburg 3,State Senate,48,Blanks,,4,0,13,17
+Jefferson,Ellisburg 4,State Senate,48,Blanks,,45,0,61,106
+Jefferson,Henderson 1,State Senate,48,Blanks,,64,0,95,159
+Jefferson,Hounsfield 1,State Senate,48,Blanks,,53,4,140,197
+Jefferson,Hounsfield 2,State Senate,48,Blanks,,61,1,100,162
+Jefferson,LeRay 1,State Senate,48,Blanks,,20,0,32,52
+Jefferson,LeRay 2,State Senate,48,Blanks,,8,0,13,21
+Jefferson,LeRay 3,State Senate,48,Blanks,,12,0,18,30
+Jefferson,LeRay 4,State Senate,48,Blanks,,81,1,115,197
+Jefferson,LeRay 5,State Senate,48,Blanks,,21,1,35,57
+Jefferson,LeRay 6,State Senate,48,Blanks,,3,1,31,35
+Jefferson,LeRay 7,State Senate,48,Blanks,,14,2,31,47
+Jefferson,LeRay 8,State Senate,48,Blanks,,80,5,145,230
+Jefferson,Lorraine 1,State Senate,48,Blanks,,9,0,46,55
+Jefferson,Lyme 1,State Senate,48,Blanks,,21,0,56,77
+Jefferson,Lyme 2,State Senate,48,Blanks,,36,2,72,110
+Jefferson,Lyme 3,State Senate,48,Blanks,,11,0,47,58
+Jefferson,Orleans 1,State Senate,48,Blanks,,31,0,86,117
+Jefferson,Orleans 2,State Senate,48,Blanks,,34,1,80,115
+Jefferson,Pamelia 1,State Senate,48,Blanks,,29,1,67,97
+Jefferson,Pamelia 2,State Senate,48,Blanks,,29,0,99,128
+Jefferson,Philadelphia 1,State Senate,48,Blanks,,23,1,50,74
+Jefferson,Philadelphia 2,State Senate,48,Blanks,,10,0,41,51
+Jefferson,Rodman 1,State Senate,48,Blanks,,19,1,63,83
+Jefferson,Rutland 1,State Senate,48,Blanks,,20,1,48,69
+Jefferson,Rutland 2,State Senate,48,Blanks,,20,0,66,86
+Jefferson,Rutland 3,State Senate,48,Blanks,,9,2,17,28
+Jefferson,Theresa 1,State Senate,48,Blanks,,43,3,167,213
+Jefferson,Watertown 1,State Senate,48,Blanks,,90,0,159,249
+Jefferson,Watertown 2,State Senate,48,Blanks,,75,0,90,165
+Jefferson,Wilna 1,State Senate,48,Blanks,,56,2,139,197
+Jefferson,Wilna 2,State Senate,48,Blanks,,1,0,6,7
+Jefferson,Wilna 3,State Senate,48,Blanks,,3,0,13,16
+Jefferson,Wilna 4,State Senate,48,Blanks,,6,0,26,32
+Jefferson,Wilna 5,State Senate,48,Blanks,,16,0,53,69
+Jefferson,Worth 1,State Senate,48,Blanks,,4,0,18,22
+Jefferson,12~1,State Senate,48,Voids,,0,1,1,2
+Jefferson,12~2,State Senate,48,Voids,,0,0,0,0
+Jefferson,12~3,State Senate,48,Voids,,0,0,0,0
+Jefferson,13~1,State Senate,48,Voids,,0,0,0,0
+Jefferson,13~2,State Senate,48,Voids,,0,0,0,0
+Jefferson,13~3,State Senate,48,Voids,,0,0,0,0
+Jefferson,14~1,State Senate,48,Voids,,0,0,0,0
+Jefferson,14~2,State Senate,48,Voids,,0,0,0,0
+Jefferson,15~1,State Senate,48,Voids,,1,0,0,1
+Jefferson,15~2,State Senate,48,Voids,,1,0,0,1
+Jefferson,15~3,State Senate,48,Voids,,0,0,0,0
+Jefferson,Adams 1,State Senate,48,Voids,,1,0,0,1
+Jefferson,Adams 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,Adams 3 ,State Senate,48,Voids,,0,0,0,0
+Jefferson,Alexandria 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Alexandria 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,Alexandria 3,State Senate,48,Voids,,0,0,0,0
+Jefferson,Antwerp 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Antwerp 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,Brownville 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Brownville 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,Brownville 3,State Senate,48,Voids,,0,0,0,0
+Jefferson,Brownville 4,State Senate,48,Voids,,0,0,0,0
+Jefferson,Brownville 5,State Senate,48,Voids,,0,0,0,0
+Jefferson,Cape Vincent 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Cape Vincent 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,Champion 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Champion 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,Clayton 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Clayton 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,Clayton 3,State Senate,48,Voids,,0,0,0,0
+Jefferson,Ellisburg 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Ellisburg 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,Ellisburg 3,State Senate,48,Voids,,0,0,0,0
+Jefferson,Ellisburg 4,State Senate,48,Voids,,0,0,0,0
+Jefferson,Henderson 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Hounsfield 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Hounsfield 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,LeRay 1,State Senate,48,Voids,,0,0,1,1
+Jefferson,LeRay 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,LeRay 3,State Senate,48,Voids,,0,0,0,0
+Jefferson,LeRay 4,State Senate,48,Voids,,0,0,0,0
+Jefferson,LeRay 5,State Senate,48,Voids,,0,0,0,0
+Jefferson,LeRay 6,State Senate,48,Voids,,0,0,0,0
+Jefferson,LeRay 7,State Senate,48,Voids,,0,0,0,0
+Jefferson,LeRay 8,State Senate,48,Voids,,1,0,0,1
+Jefferson,Lorraine 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Lyme 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Lyme 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,Lyme 3,State Senate,48,Voids,,0,0,0,0
+Jefferson,Orleans 1,State Senate,48,Voids,,0,0,1,1
+Jefferson,Orleans 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,Pamelia 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Pamelia 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,Philadelphia 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Philadelphia 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,Rodman 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Rutland 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Rutland 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,Rutland 3,State Senate,48,Voids,,0,0,0,0
+Jefferson,Theresa 1,State Senate,48,Voids,,0,1,0,1
+Jefferson,Watertown 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Watertown 2,State Senate,48,Voids,,1,0,0,1
+Jefferson,Wilna 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,Wilna 2,State Senate,48,Voids,,0,0,0,0
+Jefferson,Wilna 3,State Senate,48,Voids,,0,0,0,0
+Jefferson,Wilna 4,State Senate,48,Voids,,1,0,0,1
+Jefferson,Wilna 5,State Senate,48,Voids,,0,0,0,0
+Jefferson,Worth 1,State Senate,48,Voids,,0,0,0,0
+Jefferson,12~1,State Assembly,116,Alex V. Hammond,DEM,151,8,291,450
+Jefferson,12~2,State Assembly,116,Alex V. Hammond,DEM,95,6,269,370
+Jefferson,12~3,State Assembly,116,Alex V. Hammond,DEM,96,3,177,276
+Jefferson,13~1,State Assembly,116,Alex V. Hammond,DEM,95,4,252,351
+Jefferson,13~2,State Assembly,116,Alex V. Hammond,DEM,111,1,263,375
+Jefferson,13~3,State Assembly,116,Alex V. Hammond,DEM,61,2,173,236
+Jefferson,14~1,State Assembly,116,Alex V. Hammond,DEM,79,3,206,288
+Jefferson,14~2,State Assembly,116,Alex V. Hammond,DEM,58,3,105,166
+Jefferson,15~1,State Assembly,116,Alex V. Hammond,DEM,100,6,242,348
+Jefferson,15~2,State Assembly,116,Alex V. Hammond,DEM,100,5,278,383
+Jefferson,15~3,State Assembly,116,Alex V. Hammond,DEM,36,2,87,125
+Jefferson,Alexandria 1,State Assembly,116,Alex V. Hammond,DEM,47,1,160,208
+Jefferson,Alexandria 2,State Assembly,116,Alex V. Hammond,DEM,62,0,128,190
+Jefferson,Alexandria 3,State Assembly,116,Alex V. Hammond,DEM,58,2,214,274
+Jefferson,Antwerp 1,State Assembly,116,Alex V. Hammond,DEM,13,0,50,63
+Jefferson,Antwerp 2,State Assembly,116,Alex V. Hammond,DEM,31,1,83,115
+Jefferson,Brownville 1,State Assembly,116,Alex V. Hammond,DEM,40,0,109,149
+Jefferson,Brownville 2,State Assembly,116,Alex V. Hammond,DEM,34,0,94,128
+Jefferson,Brownville 3,State Assembly,116,Alex V. Hammond,DEM,38,0,138,176
+Jefferson,Brownville 4,State Assembly,116,Alex V. Hammond,DEM,37,2,100,139
+Jefferson,Brownville 5,State Assembly,116,Alex V. Hammond,DEM,58,2,142,202
+Jefferson,Cape Vincent 1,State Assembly,116,Alex V. Hammond,DEM,44,1,119,164
+Jefferson,Cape Vincent 2,State Assembly,116,Alex V. Hammond,DEM,112,2,171,285
+Jefferson,Clayton 1,State Assembly,116,Alex V. Hammond,DEM,29,0,86,115
+Jefferson,Clayton 2,State Assembly,116,Alex V. Hammond,DEM,85,3,237,325
+Jefferson,Clayton 3,State Assembly,116,Alex V. Hammond,DEM,98,5,230,333
+Jefferson,Hounsfield 1,State Assembly,116,Alex V. Hammond,DEM,92,6,216,314
+Jefferson,Hounsfield 2,State Assembly,116,Alex V. Hammond,DEM,97,2,165,264
+Jefferson,Lyme 1,State Assembly,116,Alex V. Hammond,DEM,33,0,83,116
+Jefferson,Lyme 2,State Assembly,116,Alex V. Hammond,DEM,52,2,137,191
+Jefferson,Lyme 3,State Assembly,116,Alex V. Hammond,DEM,17,0,53,70
+Jefferson,Orleans 1,State Assembly,116,Alex V. Hammond,DEM,48,1,154,203
+Jefferson,Orleans 2,State Assembly,116,Alex V. Hammond,DEM,67,2,124,193
+Jefferson,Pamelia 1,State Assembly,116,Alex V. Hammond,DEM,53,2,114,169
+Jefferson,Pamelia 2,State Assembly,116,Alex V. Hammond,DEM,52,1,156,209
+Jefferson,Philadelphia 1,State Assembly,116,Alex V. Hammond,DEM,35,0,91,126
+Jefferson,Philadelphia 2,State Assembly,116,Alex V. Hammond,DEM,20,0,72,92
+Jefferson,Theresa 1,State Assembly,116,Alex V. Hammond,DEM,76,3,237,316
+Jefferson,12~1,State Assembly,116,Mark C. Walczyk,REP,112,5,436,553
+Jefferson,12~2,State Assembly,116,Mark C. Walczyk,REP,59,7,417,483
+Jefferson,12~3,State Assembly,116,Mark C. Walczyk,REP,70,5,349,424
+Jefferson,13~1,State Assembly,116,Mark C. Walczyk,REP,45,3,359,407
+Jefferson,13~2,State Assembly,116,Mark C. Walczyk,REP,57,4,350,411
+Jefferson,13~3,State Assembly,116,Mark C. Walczyk,REP,36,11,256,303
+Jefferson,14~1,State Assembly,116,Mark C. Walczyk,REP,56,9,367,432
+Jefferson,14~2,State Assembly,116,Mark C. Walczyk,REP,37,5,171,213
+Jefferson,15~1,State Assembly,116,Mark C. Walczyk,REP,57,7,369,433
+Jefferson,15~2,State Assembly,116,Mark C. Walczyk,REP,58,9,446,513
+Jefferson,15~3,State Assembly,116,Mark C. Walczyk,REP,14,7,114,135
+Jefferson,Alexandria 1,State Assembly,116,Mark C. Walczyk,REP,39,8,253,300
+Jefferson,Alexandria 2,State Assembly,116,Mark C. Walczyk,REP,84,1,304,389
+Jefferson,Alexandria 3,State Assembly,116,Mark C. Walczyk,REP,53,8,537,598
+Jefferson,Antwerp 1,State Assembly,116,Mark C. Walczyk,REP,15,1,144,160
+Jefferson,Antwerp 2,State Assembly,116,Mark C. Walczyk,REP,22,4,333,359
+Jefferson,Brownville 1,State Assembly,116,Mark C. Walczyk,REP,34,2,368,404
+Jefferson,Brownville 2,State Assembly,116,Mark C. Walczyk,REP,23,0,271,294
+Jefferson,Brownville 3,State Assembly,116,Mark C. Walczyk,REP,34,5,437,476
+Jefferson,Brownville 4,State Assembly,116,Mark C. Walczyk,REP,41,1,243,285
+Jefferson,Brownville 5,State Assembly,116,Mark C. Walczyk,REP,55,5,452,512
+Jefferson,Cape Vincent 1,State Assembly,116,Mark C. Walczyk,REP,25,9,233,267
+Jefferson,Cape Vincent 2,State Assembly,116,Mark C. Walczyk,REP,139,11,452,602
+Jefferson,Clayton 1,State Assembly,116,Mark C. Walczyk,REP,37,8,384,429
+Jefferson,Clayton 2,State Assembly,116,Mark C. Walczyk,REP,90,1,428,519
+Jefferson,Clayton 3,State Assembly,116,Mark C. Walczyk,REP,95,5,534,634
+Jefferson,Hounsfield 1,State Assembly,116,Mark C. Walczyk,REP,62,4,326,392
+Jefferson,Hounsfield 2,State Assembly,116,Mark C. Walczyk,REP,75,3,570,648
+Jefferson,Lyme 1,State Assembly,116,Mark C. Walczyk,REP,39,2,286,327
+Jefferson,Lyme 2,State Assembly,116,Mark C. Walczyk,REP,49,10,306,365
+Jefferson,Lyme 3,State Assembly,116,Mark C. Walczyk,REP,28,1,198,227
+Jefferson,Orleans 1,State Assembly,116,Mark C. Walczyk,REP,54,3,520,577
+Jefferson,Orleans 2,State Assembly,116,Mark C. Walczyk,REP,57,0,260,317
+Jefferson,Pamelia 1,State Assembly,116,Mark C. Walczyk,REP,42,6,475,523
+Jefferson,Pamelia 2,State Assembly,116,Mark C. Walczyk,REP,48,0,462,510
+Jefferson,Philadelphia 1,State Assembly,116,Mark C. Walczyk,REP,9,3,199,211
+Jefferson,Philadelphia 2,State Assembly,116,Mark C. Walczyk,REP,14,2,231,247
+Jefferson,Theresa 1,State Assembly,116,Mark C. Walczyk,REP,81,6,687,774
+Jefferson,12~1,State Assembly,116,Mark C. Walczyk,CON,12,1,52,65
+Jefferson,12~2,State Assembly,116,Mark C. Walczyk,CON,13,1,33,47
+Jefferson,12~3,State Assembly,116,Mark C. Walczyk,CON,5,0,32,37
+Jefferson,13~1,State Assembly,116,Mark C. Walczyk,CON,13,3,45,61
+Jefferson,13~2,State Assembly,116,Mark C. Walczyk,CON,9,0,42,51
+Jefferson,13~3,State Assembly,116,Mark C. Walczyk,CON,5,0,22,27
+Jefferson,14~1,State Assembly,116,Mark C. Walczyk,CON,7,0,36,43
+Jefferson,14~2,State Assembly,116,Mark C. Walczyk,CON,5,0,17,22
+Jefferson,15~1,State Assembly,116,Mark C. Walczyk,CON,8,1,37,46
+Jefferson,15~2,State Assembly,116,Mark C. Walczyk,CON,6,1,34,41
+Jefferson,15~3,State Assembly,116,Mark C. Walczyk,CON,1,1,12,14
+Jefferson,Alexandria 1,State Assembly,116,Mark C. Walczyk,CON,3,1,15,19
+Jefferson,Alexandria 2,State Assembly,116,Mark C. Walczyk,CON,8,0,28,36
+Jefferson,Alexandria 3,State Assembly,116,Mark C. Walczyk,CON,7,0,36,43
+Jefferson,Antwerp 1,State Assembly,116,Mark C. Walczyk,CON,2,0,13,15
+Jefferson,Antwerp 2,State Assembly,116,Mark C. Walczyk,CON,3,1,29,33
+Jefferson,Brownville 1,State Assembly,116,Mark C. Walczyk,CON,1,0,30,31
+Jefferson,Brownville 2,State Assembly,116,Mark C. Walczyk,CON,3,1,18,22
+Jefferson,Brownville 3,State Assembly,116,Mark C. Walczyk,CON,4,2,36,42
+Jefferson,Brownville 4,State Assembly,116,Mark C. Walczyk,CON,3,0,17,20
+Jefferson,Brownville 5,State Assembly,116,Mark C. Walczyk,CON,3,0,26,29
+Jefferson,Cape Vincent 1,State Assembly,116,Mark C. Walczyk,CON,8,1,17,26
+Jefferson,Cape Vincent 2,State Assembly,116,Mark C. Walczyk,CON,13,1,44,58
+Jefferson,Clayton 1,State Assembly,116,Mark C. Walczyk,CON,6,1,46,53
+Jefferson,Clayton 2,State Assembly,116,Mark C. Walczyk,CON,9,0,33,42
+Jefferson,Clayton 3,State Assembly,116,Mark C. Walczyk,CON,13,0,56,69
+Jefferson,Hounsfield 1,State Assembly,116,Mark C. Walczyk,CON,5,0,22,27
+Jefferson,Hounsfield 2,State Assembly,116,Mark C. Walczyk,CON,16,1,54,71
+Jefferson,Lyme 1,State Assembly,116,Mark C. Walczyk,CON,7,1,25,33
+Jefferson,Lyme 2,State Assembly,116,Mark C. Walczyk,CON,9,1,27,37
+Jefferson,Lyme 3,State Assembly,116,Mark C. Walczyk,CON,1,0,15,16
+Jefferson,Orleans 1,State Assembly,116,Mark C. Walczyk,CON,7,0,36,43
+Jefferson,Orleans 2,State Assembly,116,Mark C. Walczyk,CON,6,0,14,20
+Jefferson,Pamelia 1,State Assembly,116,Mark C. Walczyk,CON,5,0,31,36
+Jefferson,Pamelia 2,State Assembly,116,Mark C. Walczyk,CON,4,0,33,37
+Jefferson,Philadelphia 1,State Assembly,116,Mark C. Walczyk,CON,4,0,17,21
+Jefferson,Philadelphia 2,State Assembly,116,Mark C. Walczyk,CON,1,0,21,22
+Jefferson,Theresa 1,State Assembly,116,Mark C. Walczyk,CON,3,0,55,58
+Jefferson,12~1,State Assembly,116,Mark C. Walczyk,IND,5,1,19,25
+Jefferson,12~2,State Assembly,116,Mark C. Walczyk,IND,3,0,10,13
+Jefferson,12~3,State Assembly,116,Mark C. Walczyk,IND,0,0,11,11
+Jefferson,13~1,State Assembly,116,Mark C. Walczyk,IND,11,0,23,34
+Jefferson,13~2,State Assembly,116,Mark C. Walczyk,IND,2,0,19,21
+Jefferson,13~3,State Assembly,116,Mark C. Walczyk,IND,1,0,17,18
+Jefferson,14~1,State Assembly,116,Mark C. Walczyk,IND,4,1,16,21
+Jefferson,14~2,State Assembly,116,Mark C. Walczyk,IND,3,0,6,9
+Jefferson,15~1,State Assembly,116,Mark C. Walczyk,IND,9,0,11,20
+Jefferson,15~2,State Assembly,116,Mark C. Walczyk,IND,5,1,24,30
+Jefferson,15~3,State Assembly,116,Mark C. Walczyk,IND,3,0,9,12
+Jefferson,Alexandria 1,State Assembly,116,Mark C. Walczyk,IND,0,0,7,7
+Jefferson,Alexandria 2,State Assembly,116,Mark C. Walczyk,IND,5,0,11,16
+Jefferson,Alexandria 3,State Assembly,116,Mark C. Walczyk,IND,3,0,12,15
+Jefferson,Antwerp 1,State Assembly,116,Mark C. Walczyk,IND,1,0,4,5
+Jefferson,Antwerp 2,State Assembly,116,Mark C. Walczyk,IND,1,0,4,5
+Jefferson,Brownville 1,State Assembly,116,Mark C. Walczyk,IND,2,0,15,17
+Jefferson,Brownville 2,State Assembly,116,Mark C. Walczyk,IND,3,0,8,11
+Jefferson,Brownville 3,State Assembly,116,Mark C. Walczyk,IND,4,0,8,12
+Jefferson,Brownville 4,State Assembly,116,Mark C. Walczyk,IND,0,0,9,9
+Jefferson,Brownville 5,State Assembly,116,Mark C. Walczyk,IND,4,0,10,14
+Jefferson,Cape Vincent 1,State Assembly,116,Mark C. Walczyk,IND,4,0,3,7
+Jefferson,Cape Vincent 2,State Assembly,116,Mark C. Walczyk,IND,2,0,10,12
+Jefferson,Clayton 1,State Assembly,116,Mark C. Walczyk,IND,5,0,16,21
+Jefferson,Clayton 2,State Assembly,116,Mark C. Walczyk,IND,2,0,14,16
+Jefferson,Clayton 3,State Assembly,116,Mark C. Walczyk,IND,4,0,15,19
+Jefferson,Hounsfield 1,State Assembly,116,Mark C. Walczyk,IND,4,0,6,10
+Jefferson,Hounsfield 2,State Assembly,116,Mark C. Walczyk,IND,6,0,20,26
+Jefferson,Lyme 1,State Assembly,116,Mark C. Walczyk,IND,6,0,10,16
+Jefferson,Lyme 2,State Assembly,116,Mark C. Walczyk,IND,2,0,8,10
+Jefferson,Lyme 3,State Assembly,116,Mark C. Walczyk,IND,0,0,2,2
+Jefferson,Orleans 1,State Assembly,116,Mark C. Walczyk,IND,3,0,9,12
+Jefferson,Orleans 2,State Assembly,116,Mark C. Walczyk,IND,2,0,10,12
+Jefferson,Pamelia 1,State Assembly,116,Mark C. Walczyk,IND,2,0,12,14
+Jefferson,Pamelia 2,State Assembly,116,Mark C. Walczyk,IND,2,0,10,12
+Jefferson,Philadelphia 1,State Assembly,116,Mark C. Walczyk,IND,1,0,4,5
+Jefferson,Philadelphia 2,State Assembly,116,Mark C. Walczyk,IND,1,0,2,3
+Jefferson,Theresa 1,State Assembly,116,Mark C. Walczyk,IND,5,0,18,23
+Jefferson,12~1,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,12~2,State Assembly,116,Write-ins,,1,0,1,2
+Jefferson,12~3,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,13~1,State Assembly,116,Write-ins,,1,0,1,2
+Jefferson,13~2,State Assembly,116,Write-ins,,0,0,1,1
+Jefferson,13~3,State Assembly,116,Write-ins,,0,0,1,1
+Jefferson,14~1,State Assembly,116,Write-ins,,1,0,1,2
+Jefferson,14~2,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,15~1,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,15~2,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,15~3,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Alexandria 1,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Alexandria 2,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Alexandria 3,State Assembly,116,Write-ins,,0,0,1,1
+Jefferson,Antwerp 1,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Antwerp 2,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Brownville 1,State Assembly,116,Write-ins,,0,1,0,1
+Jefferson,Brownville 2,State Assembly,116,Write-ins,,0,0,1,1
+Jefferson,Brownville 3,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Brownville 4,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Brownville 5,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Cape Vincent 1,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Cape Vincent 2,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Clayton 1,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Clayton 2,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Clayton 3,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Hounsfield 1,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Hounsfield 2,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Lyme 1,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Lyme 2,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Lyme 3,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Orleans 1,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Orleans 2,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Pamelia 1,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Pamelia 2,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Philadelphia 1,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Philadelphia 2,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,Theresa 1,State Assembly,116,Write-ins,,0,0,0,0
+Jefferson,12~1,State Assembly,116,Blanks,,17,3,33,53
+Jefferson,12~2,State Assembly,116,Blanks,,5,1,21,27
+Jefferson,12~3,State Assembly,116,Blanks,,11,0,8,19
+Jefferson,13~1,State Assembly,116,Blanks,,5,0,26,31
+Jefferson,13~2,State Assembly,116,Blanks,,9,1,8,18
+Jefferson,13~3,State Assembly,116,Blanks,,6,2,16,24
+Jefferson,14~1,State Assembly,116,Blanks,,7,1,20,28
+Jefferson,14~2,State Assembly,116,Blanks,,4,2,9,15
+Jefferson,15~1,State Assembly,116,Blanks,,7,1,26,34
+Jefferson,15~2,State Assembly,116,Blanks,,8,3,22,33
+Jefferson,15~3,State Assembly,116,Blanks,,3,0,15,18
+Jefferson,Alexandria 1,State Assembly,116,Blanks,,5,0,9,14
+Jefferson,Alexandria 2,State Assembly,116,Blanks,,3,0,15,18
+Jefferson,Alexandria 3,State Assembly,116,Blanks,,4,0,20,24
+Jefferson,Antwerp 1,State Assembly,116,Blanks,,4,0,8,12
+Jefferson,Antwerp 2,State Assembly,116,Blanks,,4,0,10,14
+Jefferson,Brownville 1,State Assembly,116,Blanks,,4,0,14,18
+Jefferson,Brownville 2,State Assembly,116,Blanks,,1,0,11,12
+Jefferson,Brownville 3,State Assembly,116,Blanks,,1,0,15,16
+Jefferson,Brownville 4,State Assembly,116,Blanks,,3,0,16,19
+Jefferson,Brownville 5,State Assembly,116,Blanks,,1,1,13,15
+Jefferson,Cape Vincent 1,State Assembly,116,Blanks,,8,2,11,21
+Jefferson,Cape Vincent 2,State Assembly,116,Blanks,,8,1,10,19
+Jefferson,Clayton 1,State Assembly,116,Blanks,,5,0,19,24
+Jefferson,Clayton 2,State Assembly,116,Blanks,,4,0,23,27
+Jefferson,Clayton 3,State Assembly,116,Blanks,,4,0,15,19
+Jefferson,Hounsfield 1,State Assembly,116,Blanks,,6,1,19,26
+Jefferson,Hounsfield 2,State Assembly,116,Blanks,,7,1,18,26
+Jefferson,Lyme 1,State Assembly,116,Blanks,,6,0,10,16
+Jefferson,Lyme 2,State Assembly,116,Blanks,,4,0,9,13
+Jefferson,Lyme 3,State Assembly,116,Blanks,,3,0,6,9
+Jefferson,Orleans 1,State Assembly,116,Blanks,,2,0,11,13
+Jefferson,Orleans 2,State Assembly,116,Blanks,,2,0,15,17
+Jefferson,Pamelia 1,State Assembly,116,Blanks,,4,0,15,19
+Jefferson,Pamelia 2,State Assembly,116,Blanks,,6,0,15,21
+Jefferson,Philadelphia 1,State Assembly,116,Blanks,,5,1,10,16
+Jefferson,Philadelphia 2,State Assembly,116,Blanks,,3,0,7,10
+Jefferson,Theresa 1,State Assembly,116,Blanks,,2,1,32,35
+Jefferson,12~1,State Assembly,116,Voids,,0,1,0,1
+Jefferson,12~2,State Assembly,116,Voids,,0,0,0,0
+Jefferson,12~3,State Assembly,116,Voids,,0,0,0,0
+Jefferson,13~1,State Assembly,116,Voids,,0,0,0,0
+Jefferson,13~2,State Assembly,116,Voids,,0,0,0,0
+Jefferson,13~3,State Assembly,116,Voids,,0,0,3,3
+Jefferson,14~1,State Assembly,116,Voids,,0,0,0,0
+Jefferson,14~2,State Assembly,116,Voids,,1,0,1,2
+Jefferson,15~1,State Assembly,116,Voids,,2,0,1,3
+Jefferson,15~2,State Assembly,116,Voids,,3,0,0,3
+Jefferson,15~3,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Alexandria 1,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Alexandria 2,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Alexandria 3,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Antwerp 1,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Antwerp 2,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Brownville 1,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Brownville 2,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Brownville 3,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Brownville 4,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Brownville 5,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Cape Vincent 1,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Cape Vincent 2,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Clayton 1,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Clayton 2,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Clayton 3,State Assembly,116,Voids,,1,0,0,1
+Jefferson,Hounsfield 1,State Assembly,116,Voids,,0,0,1,1
+Jefferson,Hounsfield 2,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Lyme 1,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Lyme 2,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Lyme 3,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Orleans 1,State Assembly,116,Voids,,0,0,1,1
+Jefferson,Orleans 2,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Pamelia 1,State Assembly,116,Voids,,0,0,1,1
+Jefferson,Pamelia 2,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Philadelphia 1,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Philadelphia 2,State Assembly,116,Voids,,0,0,0,0
+Jefferson,Theresa 1,State Assembly,116,Voids,,0,1,1,2
+Jefferson,Adams 1,State Assembly,117,Kenneth Blankenbush,REP,69,3,452,524
+Jefferson,Adams 2,State Assembly,117,Kenneth Blankenbush,REP,40,2,339,381
+Jefferson,Adams 3 ,State Assembly,117,Kenneth Blankenbush,REP,80,5,670,755
+Jefferson,Champion 1,State Assembly,117,Kenneth Blankenbush,REP,124,10,735,869
+Jefferson,Champion 2,State Assembly,117,Kenneth Blankenbush,REP,51,2,384,437
+Jefferson,Henderson 1,State Assembly,117,Kenneth Blankenbush,REP,87,1,526,614
+Jefferson,LeRay 1,State Assembly,117,Kenneth Blankenbush,REP,22,4,207,233
+Jefferson,LeRay 2,State Assembly,117,Kenneth Blankenbush,REP,4,3,111,118
+Jefferson,LeRay 3,State Assembly,117,Kenneth Blankenbush,REP,26,2,129,157
+Jefferson,LeRay 4,State Assembly,117,Kenneth Blankenbush,REP,107,7,457,571
+Jefferson,LeRay 5,State Assembly,117,Kenneth Blankenbush,REP,29,0,199,228
+Jefferson,LeRay 6,State Assembly,117,Kenneth Blankenbush,REP,6,1,119,126
+Jefferson,LeRay 7,State Assembly,117,Kenneth Blankenbush,REP,31,0,58,89
+Jefferson,LeRay 8,State Assembly,117,Kenneth Blankenbush,REP,57,9,392,458
+Jefferson,Lorraine 1,State Assembly,117,Kenneth Blankenbush,REP,25,2,339,366
+Jefferson,Rodman 1,State Assembly,117,Kenneth Blankenbush,REP,22,1,460,483
+Jefferson,Rutland 1,State Assembly,117,Kenneth Blankenbush,REP,29,2,414,445
+Jefferson,Rutland 2,State Assembly,117,Kenneth Blankenbush,REP,27,5,339,371
+Jefferson,Rutland 3,State Assembly,117,Kenneth Blankenbush,REP,31,1,90,122
+Jefferson,Watertown 1,State Assembly,117,Kenneth Blankenbush,REP,154,15,653,822
+Jefferson,Watertown 2,State Assembly,117,Kenneth Blankenbush,REP,160,2,676,838
+Jefferson,Wilna 1,State Assembly,117,Kenneth Blankenbush,REP,89,9,549,647
+Jefferson,Wilna 2,State Assembly,117,Kenneth Blankenbush,REP,0,0,18,18
+Jefferson,Wilna 3,State Assembly,117,Kenneth Blankenbush,REP,7,1,60,68
+Jefferson,Wilna 4,State Assembly,117,Kenneth Blankenbush,REP,21,0,162,183
+Jefferson,Wilna 5,State Assembly,117,Kenneth Blankenbush,REP,65,2,403,470
+Jefferson,Worth 1,State Assembly,117,Kenneth Blankenbush,REP,7,0,95,102
+Jefferson,Adams 1,State Assembly,117,Kenneth Blankenbush,CON,11,1,66,78
+Jefferson,Adams 2,State Assembly,117,Kenneth Blankenbush,CON,7,1,30,38
+Jefferson,Adams 3 ,State Assembly,117,Kenneth Blankenbush,CON,10,1,91,102
+Jefferson,Champion 1,State Assembly,117,Kenneth Blankenbush,CON,18,2,63,83
+Jefferson,Champion 2,State Assembly,117,Kenneth Blankenbush,CON,13,1,39,53
+Jefferson,Henderson 1,State Assembly,117,Kenneth Blankenbush,CON,13,0,40,53
+Jefferson,LeRay 1,State Assembly,117,Kenneth Blankenbush,CON,2,0,21,23
+Jefferson,LeRay 2,State Assembly,117,Kenneth Blankenbush,CON,1,0,12,13
+Jefferson,LeRay 3,State Assembly,117,Kenneth Blankenbush,CON,0,0,15,15
+Jefferson,LeRay 4,State Assembly,117,Kenneth Blankenbush,CON,24,1,56,81
+Jefferson,LeRay 5,State Assembly,117,Kenneth Blankenbush,CON,9,2,25,36
+Jefferson,LeRay 6,State Assembly,117,Kenneth Blankenbush,CON,4,0,27,31
+Jefferson,LeRay 7,State Assembly,117,Kenneth Blankenbush,CON,5,0,13,18
+Jefferson,LeRay 8,State Assembly,117,Kenneth Blankenbush,CON,14,1,63,78
+Jefferson,Lorraine 1,State Assembly,117,Kenneth Blankenbush,CON,4,0,22,26
+Jefferson,Rodman 1,State Assembly,117,Kenneth Blankenbush,CON,3,0,43,46
+Jefferson,Rutland 1,State Assembly,117,Kenneth Blankenbush,CON,2,0,39,41
+Jefferson,Rutland 2,State Assembly,117,Kenneth Blankenbush,CON,7,2,38,47
+Jefferson,Rutland 3,State Assembly,117,Kenneth Blankenbush,CON,9,0,10,19
+Jefferson,Watertown 1,State Assembly,117,Kenneth Blankenbush,CON,15,2,83,100
+Jefferson,Watertown 2,State Assembly,117,Kenneth Blankenbush,CON,27,0,85,112
+Jefferson,Wilna 1,State Assembly,117,Kenneth Blankenbush,CON,15,2,69,86
+Jefferson,Wilna 2,State Assembly,117,Kenneth Blankenbush,CON,1,0,3,4
+Jefferson,Wilna 3,State Assembly,117,Kenneth Blankenbush,CON,0,1,6,7
+Jefferson,Wilna 4,State Assembly,117,Kenneth Blankenbush,CON,1,0,20,21
+Jefferson,Wilna 5,State Assembly,117,Kenneth Blankenbush,CON,9,0,30,39
+Jefferson,Worth 1,State Assembly,117,Kenneth Blankenbush,CON,0,0,9,9
+Jefferson,Adams 1,State Assembly,117,Kenneth Blankenbush,IND,8,0,27,35
+Jefferson,Adams 2,State Assembly,117,Kenneth Blankenbush,IND,5,1,22,28
+Jefferson,Adams 3 ,State Assembly,117,Kenneth Blankenbush,IND,20,0,57,77
+Jefferson,Champion 1,State Assembly,117,Kenneth Blankenbush,IND,20,0,51,71
+Jefferson,Champion 2,State Assembly,117,Kenneth Blankenbush,IND,14,0,36,50
+Jefferson,Henderson 1,State Assembly,117,Kenneth Blankenbush,IND,12,0,30,42
+Jefferson,LeRay 1,State Assembly,117,Kenneth Blankenbush,IND,2,0,9,11
+Jefferson,LeRay 2,State Assembly,117,Kenneth Blankenbush,IND,2,0,11,13
+Jefferson,LeRay 3,State Assembly,117,Kenneth Blankenbush,IND,2,0,11,13
+Jefferson,LeRay 4,State Assembly,117,Kenneth Blankenbush,IND,31,0,68,99
+Jefferson,LeRay 5,State Assembly,117,Kenneth Blankenbush,IND,3,0,13,16
+Jefferson,LeRay 6,State Assembly,117,Kenneth Blankenbush,IND,2,0,10,12
+Jefferson,LeRay 7,State Assembly,117,Kenneth Blankenbush,IND,7,0,15,22
+Jefferson,LeRay 8,State Assembly,117,Kenneth Blankenbush,IND,22,0,40,62
+Jefferson,Lorraine 1,State Assembly,117,Kenneth Blankenbush,IND,7,0,21,28
+Jefferson,Rodman 1,State Assembly,117,Kenneth Blankenbush,IND,2,0,26,28
+Jefferson,Rutland 1,State Assembly,117,Kenneth Blankenbush,IND,3,0,25,28
+Jefferson,Rutland 2,State Assembly,117,Kenneth Blankenbush,IND,9,0,14,23
+Jefferson,Rutland 3,State Assembly,117,Kenneth Blankenbush,IND,5,0,9,14
+Jefferson,Watertown 1,State Assembly,117,Kenneth Blankenbush,IND,21,1,53,75
+Jefferson,Watertown 2,State Assembly,117,Kenneth Blankenbush,IND,17,0,42,59
+Jefferson,Wilna 1,State Assembly,117,Kenneth Blankenbush,IND,11,0,47,58
+Jefferson,Wilna 2,State Assembly,117,Kenneth Blankenbush,IND,0,0,2,2
+Jefferson,Wilna 3,State Assembly,117,Kenneth Blankenbush,IND,1,0,5,6
+Jefferson,Wilna 4,State Assembly,117,Kenneth Blankenbush,IND,3,0,5,8
+Jefferson,Wilna 5,State Assembly,117,Kenneth Blankenbush,IND,10,0,15,25
+Jefferson,Worth 1,State Assembly,117,Kenneth Blankenbush,IND,3,0,3,6
+Jefferson,Adams 1,State Assembly,117,Write-ins,,0,0,1,1
+Jefferson,Adams 2,State Assembly,117,Write-ins,,1,0,1,2
+Jefferson,Adams 3 ,State Assembly,117,Write-ins,,2,0,3,5
+Jefferson,Champion 1,State Assembly,117,Write-ins,,4,0,2,6
+Jefferson,Champion 2,State Assembly,117,Write-ins,,1,0,2,3
+Jefferson,Henderson 1,State Assembly,117,Write-ins,,1,0,1,2
+Jefferson,LeRay 1,State Assembly,117,Write-ins,,0,0,1,1
+Jefferson,LeRay 2,State Assembly,117,Write-ins,,0,0,0,0
+Jefferson,LeRay 3,State Assembly,117,Write-ins,,0,0,1,1
+Jefferson,LeRay 4,State Assembly,117,Write-ins,,2,0,3,5
+Jefferson,LeRay 5,State Assembly,117,Write-ins,,0,0,1,1
+Jefferson,LeRay 6,State Assembly,117,Write-ins,,0,0,0,0
+Jefferson,LeRay 7,State Assembly,117,Write-ins,,2,0,0,2
+Jefferson,LeRay 8,State Assembly,117,Write-ins,,4,0,0,4
+Jefferson,Lorraine 1,State Assembly,117,Write-ins,,2,0,1,3
+Jefferson,Rodman 1,State Assembly,117,Write-ins,,0,0,0,0
+Jefferson,Rutland 1,State Assembly,117,Write-ins,,1,0,1,2
+Jefferson,Rutland 2,State Assembly,117,Write-ins,,0,0,0,0
+Jefferson,Rutland 3,State Assembly,117,Write-ins,,2,0,1,3
+Jefferson,Watertown 1,State Assembly,117,Write-ins,,1,0,3,4
+Jefferson,Watertown 2,State Assembly,117,Write-ins,,0,0,6,6
+Jefferson,Wilna 1,State Assembly,117,Write-ins,,2,0,2,4
+Jefferson,Wilna 2,State Assembly,117,Write-ins,,0,0,0,0
+Jefferson,Wilna 3,State Assembly,117,Write-ins,,0,0,0,0
+Jefferson,Wilna 4,State Assembly,117,Write-ins,,0,0,0,0
+Jefferson,Wilna 5,State Assembly,117,Write-ins,,0,0,0,0
+Jefferson,Worth 1,State Assembly,117,Write-ins,,0,0,0,0
+Jefferson,Adams 1,State Assembly,117,Blanks,,32,4,105,141
+Jefferson,Adams 2,State Assembly,117,Blanks,,14,0,65,79
+Jefferson,Adams 3 ,State Assembly,117,Blanks,,46,0,161,207
+Jefferson,Champion 1,State Assembly,117,Blanks,,51,0,115,166
+Jefferson,Champion 2,State Assembly,117,Blanks,,28,1,63,92
+Jefferson,Henderson 1,State Assembly,117,Blanks,,70,1,110,181
+Jefferson,LeRay 1,State Assembly,117,Blanks,,23,0,34,57
+Jefferson,LeRay 2,State Assembly,117,Blanks,,8,0,13,21
+Jefferson,LeRay 3,State Assembly,117,Blanks,,15,0,19,34
+Jefferson,LeRay 4,State Assembly,117,Blanks,,88,1,125,214
+Jefferson,LeRay 5,State Assembly,117,Blanks,,21,1,32,54
+Jefferson,LeRay 6,State Assembly,117,Blanks,,5,1,33,39
+Jefferson,LeRay 7,State Assembly,117,Blanks,,14,2,33,49
+Jefferson,LeRay 8,State Assembly,117,Blanks,,86,5,150,241
+Jefferson,Lorraine 1,State Assembly,117,Blanks,,9,1,53,63
+Jefferson,Rodman 1,State Assembly,117,Blanks,,20,0,76,96
+Jefferson,Rutland 1,State Assembly,117,Blanks,,20,1,49,70
+Jefferson,Rutland 2,State Assembly,117,Blanks,,21,0,74,95
+Jefferson,Rutland 3,State Assembly,117,Blanks,,9,2,18,29
+Jefferson,Watertown 1,State Assembly,117,Blanks,,93,0,174,267
+Jefferson,Watertown 2,State Assembly,117,Blanks,,75,0,98,173
+Jefferson,Wilna 1,State Assembly,117,Blanks,,59,2,148,209
+Jefferson,Wilna 2,State Assembly,117,Blanks,,2,0,6,8
+Jefferson,Wilna 3,State Assembly,117,Blanks,,1,0,15,16
+Jefferson,Wilna 4,State Assembly,117,Blanks,,7,0,29,36
+Jefferson,Wilna 5,State Assembly,117,Blanks,,17,0,58,75
+Jefferson,Worth 1,State Assembly,117,Blanks,,5,1,23,29
+Jefferson,Adams 1,State Assembly,117,Voids,,1,0,0,1
+Jefferson,Adams 2,State Assembly,117,,,0,0,0,0
+Jefferson,Adams 3 ,State Assembly,117,,,0,0,1,1
+Jefferson,Champion 1,State Assembly,117,,,0,0,0,0
+Jefferson,Champion 2,State Assembly,117,,,0,0,0,0
+Jefferson,Henderson 1,State Assembly,117,,,0,0,0,0
+Jefferson,LeRay 1,State Assembly,117,,,0,0,1,1
+Jefferson,LeRay 2,State Assembly,117,,,0,0,0,0
+Jefferson,LeRay 3,State Assembly,117,,,0,0,0,0
+Jefferson,LeRay 4,State Assembly,117,,,0,0,0,0
+Jefferson,LeRay 5,State Assembly,117,,,0,0,0,0
+Jefferson,LeRay 6,State Assembly,117,,,0,0,0,0
+Jefferson,LeRay 7,State Assembly,117,,,0,0,0,0
+Jefferson,LeRay 8,State Assembly,117,,,1,0,0,1
+Jefferson,Lorraine 1,State Assembly,117,,,0,0,0,0
+Jefferson,Rodman 1,State Assembly,117,,,0,0,0,0
+Jefferson,Rutland 1,State Assembly,117,,,0,0,0,0
+Jefferson,Rutland 2,State Assembly,117,,,0,0,0,0
+Jefferson,Rutland 3,State Assembly,117,,,0,0,0,0
+Jefferson,Watertown 1,State Assembly,117,,,0,0,0,0
+Jefferson,Watertown 2,State Assembly,117,,,1,0,0,1
+Jefferson,Wilna 1,State Assembly,117,,,0,0,0,0
+Jefferson,Wilna 2,State Assembly,117,,,0,0,0,0
+Jefferson,Wilna 3,State Assembly,117,,,0,0,0,0
+Jefferson,Wilna 4,State Assembly,117,,,1,0,0,1
+Jefferson,Wilna 5,State Assembly,117,,,0,0,0,0
+Jefferson,Worth 1,State Assembly,117,,,0,0,0,0
+Jefferson,Ellisburg 1,State Assembly,120,Gail E. Tosh,DEM,9,0,33,42
+Jefferson,Ellisburg 2,State Assembly,120,Gail E. Tosh,DEM,44,3,65,112
+Jefferson,Ellisburg 3,State Assembly,120,Gail E. Tosh,DEM,4,0,23,27
+Jefferson,Ellisburg 4,State Assembly,120,Gail E. Tosh,DEM,69,1,103,173
+Jefferson,Ellisburg 1,State Assembly,120,William A. Barclay,REP,6,2,106,114
+Jefferson,Ellisburg 2,State Assembly,120,William A. Barclay,REP,36,2,381,419
+Jefferson,Ellisburg 3,State Assembly,120,William A. Barclay,REP,2,0,74,76
+Jefferson,Ellisburg 4,State Assembly,120,William A. Barclay,REP,42,5,450,497
+Jefferson,Ellisburg 1,State Assembly,120,William A. Barclay,CON,0,0,12,12
+Jefferson,Ellisburg 2,State Assembly,120,William A. Barclay,CON,4,0,20,24
+Jefferson,Ellisburg 3,State Assembly,120,William A. Barclay,CON,0,0,3,3
+Jefferson,Ellisburg 4,State Assembly,120,William A. Barclay,CON,6,1,33,40
+Jefferson,Ellisburg 1,State Assembly,120,William A. Barclay,IND,2,0,1,3
+Jefferson,Ellisburg 2,State Assembly,120,William A. Barclay,IND,1,0,10,11
+Jefferson,Ellisburg 3,State Assembly,120,William A. Barclay,IND,0,0,1,1
+Jefferson,Ellisburg 4,State Assembly,120,William A. Barclay,IND,7,1,15,23
+Jefferson,Ellisburg 1,State Assembly,120,Write-ins,,0,0,0,0
+Jefferson,Ellisburg 2,State Assembly,120,Write-ins,,0,0,1,1
+Jefferson,Ellisburg 3,State Assembly,120,Write-ins,,0,0,0,0
+Jefferson,Ellisburg 4,State Assembly,120,Write-ins,,0,0,0,0
+Jefferson,Ellisburg 1,State Assembly,120,Blanks,,1,0,10,11
+Jefferson,Ellisburg 2,State Assembly,120,Blanks,,7,0,25,32
+Jefferson,Ellisburg 3,State Assembly,120,Blanks,,0,0,4,4
+Jefferson,Ellisburg 4,State Assembly,120,Blanks,,10,0,20,30
+Jefferson,Ellisburg 1,State Assembly,120,Voids,,0,0,0,0
+Jefferson,Ellisburg 2,State Assembly,120,Voids,,0,0,0,0
+Jefferson,Ellisburg 3,State Assembly,120,Voids,,0,0,0,0
+Jefferson,Ellisburg 4,State Assembly,120,Voids,,0,0,0,0
