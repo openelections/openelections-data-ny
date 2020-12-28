@@ -1,0 +1,353 @@
+county,precinct,office,district,candidate,party,votes
+Hamilton,ARIETTA,President,,Joseph R. Biden,DEM,71
+Hamilton,BENSON,President,,Joseph R. Biden,DEM,35
+Hamilton,HOPE,President,,Joseph R. Biden,DEM,58
+Hamilton,INDIAN LAKE #1,President,,Joseph R. Biden,DEM,299
+Hamilton,INDIAN LAKE #2,President,,Joseph R. Biden,DEM,66
+Hamilton,INLET,President,,Joseph R. Biden,DEM,92
+Hamilton,LAKE PLEASANT,President,,Joseph R. Biden,DEM,137
+Hamilton,LONG LAKE #1,President,,Joseph R. Biden,DEM,228
+Hamilton,LONG LAKE #2,President,,Joseph R. Biden,DEM,40
+Hamilton,MOREHOUSE,President,,Joseph R. Biden,DEM,6
+Hamilton,WELLS,President,,Joseph R. Biden,DEM,99
+Hamilton,ARIETTA,President,,Donald J. Trump,REP,148
+Hamilton,BENSON,President,,Donald J. Trump,REP,99
+Hamilton,HOPE,President,,Donald J. Trump,REP,172
+Hamilton,INDIAN LAKE #1,President,,Donald J. Trump,REP,375
+Hamilton,INDIAN LAKE #2,President,,Donald J. Trump,REP,37
+Hamilton,INLET,President,,Donald J. Trump,REP,137
+Hamilton,LAKE PLEASANT,President,,Donald J. Trump,REP,451
+Hamilton,LONG LAKE #1,President,,Donald J. Trump,REP,198
+Hamilton,LONG LAKE #2,President,,Donald J. Trump,REP,41
+Hamilton,MOREHOUSE,President,,Donald J. Trump,REP,55
+Hamilton,WELLS,President,,Donald J. Trump,REP,343
+Hamilton,ARIETTA,President,,Donald J. Trump,CON,14
+Hamilton,BENSON,President,,Donald J. Trump,CON,4
+Hamilton,HOPE,President,,Donald J. Trump,CON,18
+Hamilton,INDIAN LAKE #1,President,,Donald J. Trump,CON,26
+Hamilton,INDIAN LAKE #2,President,,Donald J. Trump,CON,1
+Hamilton,INLET,President,,Donald J. Trump,CON,10
+Hamilton,LAKE PLEASANT,President,,Donald J. Trump,CON,41
+Hamilton,LONG LAKE #1,President,,Donald J. Trump,CON,23
+Hamilton,LONG LAKE #2,President,,Donald J. Trump,CON,4
+Hamilton,MOREHOUSE,President,,Donald J. Trump,CON,4
+Hamilton,WELLS,President,,Donald J. Trump,CON,24
+Hamilton,ARIETTA,President,,Joseph R. Biden,WOR,2
+Hamilton,BENSON,President,,Joseph R. Biden,WOR,1
+Hamilton,HOPE,President,,Joseph R. Biden,WOR,3
+Hamilton,INDIAN LAKE #1,President,,Joseph R. Biden,WOR,12
+Hamilton,INDIAN LAKE #2,President,,Joseph R. Biden,WOR,7
+Hamilton,INLET,President,,Joseph R. Biden,WOR,6
+Hamilton,LAKE PLEASANT,President,,Joseph R. Biden,WOR,2
+Hamilton,LONG LAKE #1,President,,Joseph R. Biden,WOR,10
+Hamilton,LONG LAKE #2,President,,Joseph R. Biden,WOR,0
+Hamilton,MOREHOUSE,President,,Joseph R. Biden,WOR,0
+Hamilton,WELLS,President,,Joseph R. Biden,WOR,4
+Hamilton,ARIETTA,President,,Howie Hawkins,GRE,0
+Hamilton,BENSON,President,,Howie Hawkins,GRE,0
+Hamilton,HOPE,President,,Howie Hawkins,GRE,0
+Hamilton,INDIAN LAKE #1,President,,Howie Hawkins,GRE,4
+Hamilton,INDIAN LAKE #2,President,,Howie Hawkins,GRE,0
+Hamilton,INLET,President,,Howie Hawkins,GRE,0
+Hamilton,LAKE PLEASANT,President,,Howie Hawkins,GRE,0
+Hamilton,LONG LAKE #1,President,,Howie Hawkins,GRE,2
+Hamilton,LONG LAKE #2,President,,Howie Hawkins,GRE,1
+Hamilton,MOREHOUSE,President,,Howie Hawkins,GRE,0
+Hamilton,WELLS,President,,Howie Hawkins,GRE,0
+Hamilton,ARIETTA,President,,Jo Jorgensen,LBT,5
+Hamilton,BENSON,President,,Jo Jorgensen,LBT,0
+Hamilton,HOPE,President,,Jo Jorgensen,LBT,1
+Hamilton,INDIAN LAKE #1,President,,Jo Jorgensen,LBT,12
+Hamilton,INDIAN LAKE #2,President,,Jo Jorgensen,LBT,1
+Hamilton,INLET,President,,Jo Jorgensen,LBT,3
+Hamilton,LAKE PLEASANT,President,,Jo Jorgensen,LBT,10
+Hamilton,LONG LAKE #1,President,,Jo Jorgensen,LBT,7
+Hamilton,LONG LAKE #2,President,,Jo Jorgensen,LBT,0
+Hamilton,MOREHOUSE,President,,Jo Jorgensen,LBT,0
+Hamilton,WELLS,President,,Jo Jorgensen,LBT,2
+Hamilton,ARIETTA,President,,Brock Pierce,IND,1
+Hamilton,BENSON,President,,Brock Pierce,IND,0
+Hamilton,HOPE,President,,Brock Pierce,IND,2
+Hamilton,INDIAN LAKE #1,President,,Brock Pierce,IND,0
+Hamilton,INDIAN LAKE #2,President,,Brock Pierce,IND,0
+Hamilton,INLET,President,,Brock Pierce,IND,0
+Hamilton,LAKE PLEASANT,President,,Brock Pierce,IND,3
+Hamilton,LONG LAKE #1,President,,Brock Pierce,IND,0
+Hamilton,LONG LAKE #2,President,,Brock Pierce,IND,2
+Hamilton,MOREHOUSE,President,,Brock Pierce,IND,0
+Hamilton,WELLS,President,,Brock Pierce,IND,0
+Hamilton,ARIETTA,President,,Write-ins,,0
+Hamilton,BENSON,President,,Write-ins,,0
+Hamilton,HOPE,President,,Write-ins,,0
+Hamilton,INDIAN LAKE #1,President,,Write-ins,,0
+Hamilton,INDIAN LAKE #2,President,,Write-ins,,0
+Hamilton,INLET,President,,Write-ins,,0
+Hamilton,LAKE PLEASANT,President,,Write-ins,,0
+Hamilton,LONG LAKE #1,President,,Write-ins,,0
+Hamilton,LONG LAKE #2,President,,Write-ins,,0
+Hamilton,MOREHOUSE,President,,Write-ins,,0
+Hamilton,WELLS,President,,Write-ins,,1
+Hamilton,ARIETTA,President,,Blanks,,2
+Hamilton,BENSON,President,,Blanks,,2
+Hamilton,HOPE,President,,Blanks,,3
+Hamilton,INDIAN LAKE #1,President,,Blanks,,4
+Hamilton,INDIAN LAKE #2,President,,Blanks,,0
+Hamilton,INLET,President,,Blanks,,1
+Hamilton,LAKE PLEASANT,President,,Blanks,,8
+Hamilton,LONG LAKE #1,President,,Blanks,,3
+Hamilton,LONG LAKE #2,President,,Blanks,,1
+Hamilton,MOREHOUSE,President,,Blanks,,0
+Hamilton,WELLS,President,,Blanks,,3
+Hamilton,ARIETTA,President,,Voids,,0
+Hamilton,BENSON,President,,Voids,,0
+Hamilton,HOPE,President,,Voids,,0
+Hamilton,INDIAN LAKE #1,President,,Voids,,0
+Hamilton,INDIAN LAKE #2,President,,Voids,,0
+Hamilton,INLET,President,,Voids,,0
+Hamilton,LAKE PLEASANT,President,,Voids,,1
+Hamilton,LONG LAKE #1,President,,Voids,,1
+Hamilton,LONG LAKE #2,President,,Voids,,0
+Hamilton,MOREHOUSE,President,,Voids,,0
+Hamilton,WELLS,President,,Voids,,0
+Hamilton,ARIETTA,U.S. House,21,Tedra L. Cobb,DEM,67
+Hamilton,BENSON,U.S. House,21,Tedra L. Cobb,DEM,34
+Hamilton,HOPE,U.S. House,21,Tedra L. Cobb,DEM,56
+Hamilton,INDIAN LAKE #1,U.S. House,21,Tedra L. Cobb,DEM,280
+Hamilton,INDIAN LAKE #2,U.S. House,21,Tedra L. Cobb,DEM,63
+Hamilton,INLET,U.S. House,21,Tedra L. Cobb,DEM,77
+Hamilton,LAKE PLEASANT,U.S. House,21,Tedra L. Cobb,DEM,113
+Hamilton,LONG LAKE #1,U.S. House,21,Tedra L. Cobb,DEM,211
+Hamilton,LONG LAKE #2,U.S. House,21,Tedra L. Cobb,DEM,37
+Hamilton,MOREHOUSE,U.S. House,21,Tedra L. Cobb,DEM,5
+Hamilton,WELLS,U.S. House,21,Tedra L. Cobb,DEM,87
+Hamilton,ARIETTA,U.S. House,21,Elise M. Stefanik,REP,152
+Hamilton,BENSON,U.S. House,21,Elise M. Stefanik,REP,98
+Hamilton,HOPE,U.S. House,21,Elise M. Stefanik,REP,169
+Hamilton,INDIAN LAKE #1,U.S. House,21,Elise M. Stefanik,REP,382
+Hamilton,INDIAN LAKE #2,U.S. House,21,Elise M. Stefanik,REP,42
+Hamilton,INLET,U.S. House,21,Elise M. Stefanik,REP,147
+Hamilton,LAKE PLEASANT,U.S. House,21,Elise M. Stefanik,REP,474
+Hamilton,LONG LAKE #1,U.S. House,21,Elise M. Stefanik,REP,208
+Hamilton,LONG LAKE #2,U.S. House,21,Elise M. Stefanik,REP,45
+Hamilton,MOREHOUSE,U.S. House,21,Elise M. Stefanik,REP,54
+Hamilton,WELLS,U.S. House,21,Elise M. Stefanik,REP,344
+Hamilton,ARIETTA,U.S. House,21,Elise M. Stefanik,CON,11
+Hamilton,BENSON,U.S. House,21,Elise M. Stefanik,CON,6
+Hamilton,HOPE,U.S. House,21,Elise M. Stefanik,CON,21
+Hamilton,INDIAN LAKE #1,U.S. House,21,Elise M. Stefanik,CON,29
+Hamilton,INDIAN LAKE #2,U.S. House,21,Elise M. Stefanik,CON,1
+Hamilton,INLET,U.S. House,21,Elise M. Stefanik,CON,12
+Hamilton,LAKE PLEASANT,U.S. House,21,Elise M. Stefanik,CON,43
+Hamilton,LONG LAKE #1,U.S. House,21,Elise M. Stefanik,CON,30
+Hamilton,LONG LAKE #2,U.S. House,21,Elise M. Stefanik,CON,4
+Hamilton,MOREHOUSE,U.S. House,21,Elise M. Stefanik,CON,4
+Hamilton,WELLS,U.S. House,21,Elise M. Stefanik,CON,24
+Hamilton,ARIETTA,U.S. House,21,Tedra L. Cobb,WOR,5
+Hamilton,BENSON,U.S. House,21,Tedra L. Cobb,WOR,0
+Hamilton,HOPE,U.S. House,21,Tedra L. Cobb,WOR,4
+Hamilton,INDIAN LAKE #1,U.S. House,21,Tedra L. Cobb,WOR,22
+Hamilton,INDIAN LAKE #2,U.S. House,21,Tedra L. Cobb,WOR,5
+Hamilton,INLET,U.S. House,21,Tedra L. Cobb,WOR,4
+Hamilton,LAKE PLEASANT,U.S. House,21,Tedra L. Cobb,WOR,6
+Hamilton,LONG LAKE #1,U.S. House,21,Tedra L. Cobb,WOR,14
+Hamilton,LONG LAKE #2,U.S. House,21,Tedra L. Cobb,WOR,1
+Hamilton,MOREHOUSE,U.S. House,21,Tedra L. Cobb,WOR,1
+Hamilton,WELLS,U.S. House,21,Tedra L. Cobb,WOR,8
+Hamilton,ARIETTA,U.S. House,21,Elise M. Stefanik,IND,3
+Hamilton,BENSON,U.S. House,21,Elise M. Stefanik,IND,1
+Hamilton,HOPE,U.S. House,21,Elise M. Stefanik,IND,0
+Hamilton,INDIAN LAKE #1,U.S. House,21,Elise M. Stefanik,IND,6
+Hamilton,INDIAN LAKE #2,U.S. House,21,Elise M. Stefanik,IND,0
+Hamilton,INLET,U.S. House,21,Elise M. Stefanik,IND,4
+Hamilton,LAKE PLEASANT,U.S. House,21,Elise M. Stefanik,IND,6
+Hamilton,LONG LAKE #1,U.S. House,21,Elise M. Stefanik,IND,4
+Hamilton,LONG LAKE #2,U.S. House,21,Elise M. Stefanik,IND,0
+Hamilton,MOREHOUSE,U.S. House,21,Elise M. Stefanik,IND,0
+Hamilton,WELLS,U.S. House,21,Elise M. Stefanik,IND,2
+Hamilton,ARIETTA,U.S. House,21,Write-ins,,0
+Hamilton,BENSON,U.S. House,21,Write-ins,,0
+Hamilton,HOPE,U.S. House,21,Write-ins,,0
+Hamilton,INDIAN LAKE #1,U.S. House,21,Write-ins,,0
+Hamilton,INDIAN LAKE #2,U.S. House,21,Write-ins,,0
+Hamilton,INLET,U.S. House,21,Write-ins,,0
+Hamilton,LAKE PLEASANT,U.S. House,21,Write-ins,,0
+Hamilton,LONG LAKE #1,U.S. House,21,Write-ins,,0
+Hamilton,LONG LAKE #2,U.S. House,21,Write-ins,,0
+Hamilton,MOREHOUSE,U.S. House,21,Write-ins,,0
+Hamilton,WELLS,U.S. House,21,Write-ins,,0
+Hamilton,ARIETTA,U.S. House,21,Blanks,,5
+Hamilton,BENSON,U.S. House,21,Blanks,,2
+Hamilton,HOPE,U.S. House,21,Blanks,,7
+Hamilton,INDIAN LAKE #1,U.S. House,21,Blanks,,13
+Hamilton,INDIAN LAKE #2,U.S. House,21,Blanks,,1
+Hamilton,INLET,U.S. House,21,Blanks,,5
+Hamilton,LAKE PLEASANT,U.S. House,21,Blanks,,11
+Hamilton,LONG LAKE #1,U.S. House,21,Blanks,,5
+Hamilton,LONG LAKE #2,U.S. House,21,Blanks,,2
+Hamilton,MOREHOUSE,U.S. House,21,Blanks,,1
+Hamilton,WELLS,U.S. House,21,Blanks,,11
+Hamilton,ARIETTA,U.S. House,21,Voids,,0
+Hamilton,BENSON,U.S. House,21,Voids,,0
+Hamilton,HOPE,U.S. House,21,Voids,,0
+Hamilton,INDIAN LAKE #1,U.S. House,21,Voids,,0
+Hamilton,INDIAN LAKE #2,U.S. House,21,Voids,,0
+Hamilton,INLET,U.S. House,21,Voids,,0
+Hamilton,LAKE PLEASANT,U.S. House,21,Voids,,0
+Hamilton,LONG LAKE #1,U.S. House,21,Voids,,0
+Hamilton,LONG LAKE #2,U.S. House,21,Voids,,0
+Hamilton,MOREHOUSE,U.S. House,21,Voids,,0
+Hamilton,WELLS,U.S. House,21,Voids,,0
+Hamilton,ARIETTA,State Senate,49,Thearse McCalmon,DEM,50
+Hamilton,BENSON,State Senate,49,Thearse McCalmon,DEM,19
+Hamilton,HOPE,State Senate,49,Thearse McCalmon,DEM,41
+Hamilton,INDIAN LAKE #1,State Senate,49,Thearse McCalmon,DEM,199
+Hamilton,INDIAN LAKE #2,State Senate,49,Thearse McCalmon,DEM,50
+Hamilton,INLET,State Senate,49,Thearse McCalmon,DEM,70
+Hamilton,LAKE PLEASANT,State Senate,49,Thearse McCalmon,DEM,74
+Hamilton,LONG LAKE #1,State Senate,49,Thearse McCalmon,DEM,163
+Hamilton,LONG LAKE #2,State Senate,49,Thearse McCalmon,DEM,29
+Hamilton,MOREHOUSE,State Senate,49,Thearse McCalmon,DEM,4
+Hamilton,WELLS,State Senate,49,Thearse McCalmon,DEM,64
+Hamilton,ARIETTA,State Senate,49,James N. Tedisco,REP,156
+Hamilton,BENSON,State Senate,49,James N. Tedisco,REP,106
+Hamilton,HOPE,State Senate,49,James N. Tedisco,REP,182
+Hamilton,INDIAN LAKE #1,State Senate,49,James N. Tedisco,REP,435
+Hamilton,INDIAN LAKE #2,State Senate,49,James N. Tedisco,REP,50
+Hamilton,INLET,State Senate,49,James N. Tedisco,REP,151
+Hamilton,LAKE PLEASANT,State Senate,49,James N. Tedisco,REP,502
+Hamilton,LONG LAKE #1,State Senate,49,James N. Tedisco,REP,241
+Hamilton,LONG LAKE #2,State Senate,49,James N. Tedisco,REP,52
+Hamilton,MOREHOUSE,State Senate,49,James N. Tedisco,REP,51
+Hamilton,WELLS,State Senate,49,James N. Tedisco,REP,364
+Hamilton,ARIETTA,State Senate,49,James N. Tedisco,CON,12
+Hamilton,BENSON,State Senate,49,James N. Tedisco,CON,6
+Hamilton,HOPE,State Senate,49,James N. Tedisco,CON,24
+Hamilton,INDIAN LAKE #1,State Senate,49,James N. Tedisco,CON,40
+Hamilton,INDIAN LAKE #2,State Senate,49,James N. Tedisco,CON,5
+Hamilton,INLET,State Senate,49,James N. Tedisco,CON,13
+Hamilton,LAKE PLEASANT,State Senate,49,James N. Tedisco,CON,46
+Hamilton,LONG LAKE #1,State Senate,49,James N. Tedisco,CON,33
+Hamilton,LONG LAKE #2,State Senate,49,James N. Tedisco,CON,4
+Hamilton,MOREHOUSE,State Senate,49,James N. Tedisco,CON,4
+Hamilton,WELLS,State Senate,49,James N. Tedisco,CON,32
+Hamilton,ARIETTA,State Senate,49,James N. Tedisco,IND,5
+Hamilton,BENSON,State Senate,49,James N. Tedisco,IND,4
+Hamilton,HOPE,State Senate,49,James N. Tedisco,IND,1
+Hamilton,INDIAN LAKE #1,State Senate,49,James N. Tedisco,IND,18
+Hamilton,INDIAN LAKE #2,State Senate,49,James N. Tedisco,IND,1
+Hamilton,INLET,State Senate,49,James N. Tedisco,IND,2
+Hamilton,LAKE PLEASANT,State Senate,49,James N. Tedisco,IND,6
+Hamilton,LONG LAKE #1,State Senate,49,James N. Tedisco,IND,9
+Hamilton,LONG LAKE #2,State Senate,49,James N. Tedisco,IND,2
+Hamilton,MOREHOUSE,State Senate,49,James N. Tedisco,IND,1
+Hamilton,WELLS,State Senate,49,James N. Tedisco,IND,3
+Hamilton,ARIETTA,State Senate,49,Write-ins,,0
+Hamilton,BENSON,State Senate,49,Write-ins,,0
+Hamilton,HOPE,State Senate,49,Write-ins,,0
+Hamilton,INDIAN LAKE #1,State Senate,49,Write-ins,,0
+Hamilton,INDIAN LAKE #2,State Senate,49,Write-ins,,0
+Hamilton,INLET,State Senate,49,Write-ins,,0
+Hamilton,LAKE PLEASANT,State Senate,49,Write-ins,,0
+Hamilton,LONG LAKE #1,State Senate,49,Write-ins,,0
+Hamilton,LONG LAKE #2,State Senate,49,Write-ins,,0
+Hamilton,MOREHOUSE,State Senate,49,Write-ins,,0
+Hamilton,WELLS,State Senate,49,Write-ins,,0
+Hamilton,ARIETTA,State Senate,49,Blanks,,20
+Hamilton,BENSON,State Senate,49,Blanks,,6
+Hamilton,HOPE,State Senate,49,Blanks,,9
+Hamilton,INDIAN LAKE #1,State Senate,49,Blanks,,40
+Hamilton,INDIAN LAKE #2,State Senate,49,Blanks,,6
+Hamilton,INLET,State Senate,49,Blanks,,13
+Hamilton,LAKE PLEASANT,State Senate,49,Blanks,,25
+Hamilton,LONG LAKE #1,State Senate,49,Blanks,,26
+Hamilton,LONG LAKE #2,State Senate,49,Blanks,,2
+Hamilton,MOREHOUSE,State Senate,49,Blanks,,5
+Hamilton,WELLS,State Senate,49,Blanks,,13
+Hamilton,ARIETTA,State Senate,49,Voids,,0
+Hamilton,BENSON,State Senate,49,Voids,,0
+Hamilton,HOPE,State Senate,49,Voids,,0
+Hamilton,INDIAN LAKE #1,State Senate,49,Voids,,0
+Hamilton,INDIAN LAKE #2,State Senate,49,Voids,,0
+Hamilton,INLET,State Senate,49,Voids,,0
+Hamilton,LAKE PLEASANT,State Senate,49,Voids,,0
+Hamilton,LONG LAKE #1,State Senate,49,Voids,,0
+Hamilton,LONG LAKE #2,State Senate,49,Voids,,0
+Hamilton,MOREHOUSE,State Senate,49,Voids,,0
+Hamilton,WELLS,State Senate,49,Voids,,0
+Hamilton,ARIETTA,State Assembly,118,Robert J. Smullen,REP,160
+Hamilton,BENSON,State Assembly,118,Robert J. Smullen,REP,104
+Hamilton,HOPE,State Assembly,118,Robert J. Smullen,REP,179
+Hamilton,INDIAN LAKE #1,State Assembly,118,Robert J. Smullen,REP,443
+Hamilton,INDIAN LAKE #2,State Assembly,118,Robert J. Smullen,REP,49
+Hamilton,INLET,State Assembly,118,Robert J. Smullen,REP,153
+Hamilton,LAKE PLEASANT,State Assembly,118,Robert J. Smullen,REP,486
+Hamilton,LONG LAKE #1,State Assembly,118,Robert J. Smullen,REP,255
+Hamilton,LONG LAKE #2,State Assembly,118,Robert J. Smullen,REP,50
+Hamilton,MOREHOUSE,State Assembly,118,Robert J. Smullen,REP,50
+Hamilton,WELLS,State Assembly,118,Robert J. Smullen,REP,340
+Hamilton,ARIETTA,State Assembly,118,Robert J. Smullen,CON,14
+Hamilton,BENSON,State Assembly,118,Robert J. Smullen,CON,6
+Hamilton,HOPE,State Assembly,118,Robert J. Smullen,CON,24
+Hamilton,INDIAN LAKE #1,State Assembly,118,Robert J. Smullen,CON,41
+Hamilton,INDIAN LAKE #2,State Assembly,118,Robert J. Smullen,CON,8
+Hamilton,INLET,State Assembly,118,Robert J. Smullen,CON,16
+Hamilton,LAKE PLEASANT,State Assembly,118,Robert J. Smullen,CON,46
+Hamilton,LONG LAKE #1,State Assembly,118,Robert J. Smullen,CON,37
+Hamilton,LONG LAKE #2,State Assembly,118,Robert J. Smullen,CON,5
+Hamilton,MOREHOUSE,State Assembly,118,Robert J. Smullen,CON,6
+Hamilton,WELLS,State Assembly,118,Robert J. Smullen,CON,31
+Hamilton,ARIETTA,State Assembly,118,Robert J. Smullen,IND,8
+Hamilton,BENSON,State Assembly,118,Robert J. Smullen,IND,7
+Hamilton,HOPE,State Assembly,118,Robert J. Smullen,IND,3
+Hamilton,INDIAN LAKE #1,State Assembly,118,Robert J. Smullen,IND,48
+Hamilton,INDIAN LAKE #2,State Assembly,118,Robert J. Smullen,IND,5
+Hamilton,INLET,State Assembly,118,Robert J. Smullen,IND,15
+Hamilton,LAKE PLEASANT,State Assembly,118,Robert J. Smullen,IND,19
+Hamilton,LONG LAKE #1,State Assembly,118,Robert J. Smullen,IND,29
+Hamilton,LONG LAKE #2,State Assembly,118,Robert J. Smullen,IND,6
+Hamilton,MOREHOUSE,State Assembly,118,Robert J. Smullen,IND,1
+Hamilton,WELLS,State Assembly,118,Robert J. Smullen,IND,9
+Hamilton,ARIETTA,State Assembly,118,Robert J. Smullen,SAM,1
+Hamilton,BENSON,State Assembly,118,Robert J. Smullen,SAM,0
+Hamilton,HOPE,State Assembly,118,Robert J. Smullen,SAM,1
+Hamilton,INDIAN LAKE #1,State Assembly,118,Robert J. Smullen,SAM,1
+Hamilton,INDIAN LAKE #2,State Assembly,118,Robert J. Smullen,SAM,0
+Hamilton,INLET,State Assembly,118,Robert J. Smullen,SAM,0
+Hamilton,LAKE PLEASANT,State Assembly,118,Robert J. Smullen,SAM,0
+Hamilton,LONG LAKE #1,State Assembly,118,Robert J. Smullen,SAM,4
+Hamilton,LONG LAKE #2,State Assembly,118,Robert J. Smullen,SAM,0
+Hamilton,MOREHOUSE,State Assembly,118,Robert J. Smullen,SAM,0
+Hamilton,WELLS,State Assembly,118,Robert J. Smullen,SAM,2
+Hamilton,ARIETTA,State Assembly,118,Write-ins,,0
+Hamilton,BENSON,State Assembly,118,Write-ins,,1
+Hamilton,HOPE,State Assembly,118,Write-ins,,1
+Hamilton,INDIAN LAKE #1,State Assembly,118,Write-ins,,2
+Hamilton,INDIAN LAKE #2,State Assembly,118,Write-ins,,1
+Hamilton,INLET,State Assembly,118,Write-ins,,0
+Hamilton,LAKE PLEASANT,State Assembly,118,Write-ins,,1
+Hamilton,LONG LAKE #1,State Assembly,118,Write-ins,,4
+Hamilton,LONG LAKE #2,State Assembly,118,Write-ins,,0
+Hamilton,MOREHOUSE,State Assembly,118,Write-ins,,1
+Hamilton,WELLS,State Assembly,118,Write-ins,,0
+Hamilton,ARIETTA,State Assembly,118,Blanks,,60
+Hamilton,BENSON,State Assembly,118,Blanks,,23
+Hamilton,HOPE,State Assembly,118,Blanks,,49
+Hamilton,INDIAN LAKE #1,State Assembly,118,Blanks,,197
+Hamilton,INDIAN LAKE #2,State Assembly,118,Blanks,,49
+Hamilton,INLET,State Assembly,118,Blanks,,65
+Hamilton,LAKE PLEASANT,State Assembly,118,Blanks,,101
+Hamilton,LONG LAKE #1,State Assembly,118,Blanks,,143
+Hamilton,LONG LAKE #2,State Assembly,118,Blanks,,28
+Hamilton,MOREHOUSE,State Assembly,118,Blanks,,7
+Hamilton,WELLS,State Assembly,118,Blanks,,94
+Hamilton,ARIETTA,State Assembly,118,Voids,,0
+Hamilton,BENSON,State Assembly,118,Voids,,0
+Hamilton,HOPE,State Assembly,118,Voids,,0
+Hamilton,INDIAN LAKE #1,State Assembly,118,Voids,,0
+Hamilton,INDIAN LAKE #2,State Assembly,118,Voids,,0
+Hamilton,INLET,State Assembly,118,Voids,,0
+Hamilton,LAKE PLEASANT,State Assembly,118,Voids,,0
+Hamilton,LONG LAKE #1,State Assembly,118,Voids,,0
+Hamilton,LONG LAKE #2,State Assembly,118,Voids,,0
+Hamilton,MOREHOUSE,State Assembly,118,Voids,,0
+Hamilton,WELLS,State Assembly,118,Voids,,0
