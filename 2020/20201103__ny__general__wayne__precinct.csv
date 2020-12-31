@@ -1,0 +1,2413 @@
+county,precinct,office,district,candidate,party,election_day,absentee,votes
+Wayne,Arcadia 01,President,,BIDEN/HARRIS,DEM,206,36,242
+Wayne,Arcadia 02,President,,BIDEN/HARRIS,DEM,209,92,301
+Wayne,Arcadia 03,President,,BIDEN/HARRIS,DEM,188,65,253
+Wayne,Arcadia 04,President,,BIDEN/HARRIS,DEM,142,51,193
+Wayne,Arcadia 05,President,,BIDEN/HARRIS,DEM,152,45,197
+Wayne,Arcadia 06,President,,BIDEN/HARRIS,DEM,254,106,360
+Wayne,Arcadia 07,President,,BIDEN/HARRIS,DEM,166,52,218
+Wayne,Arcadia 08,President,,BIDEN/HARRIS,DEM,154,45,199
+Wayne,Arcadia 09,President,,BIDEN/HARRIS,DEM,162,60,222
+Wayne,Arcadia 10,President,,BIDEN/HARRIS,DEM,175,104,279
+Wayne,Butler 01,President,,BIDEN/HARRIS,DEM,119,52,171
+Wayne,Galen 01,President,,BIDEN/HARRIS,DEM,108,33,141
+Wayne,Galen 02,President,,BIDEN/HARRIS,DEM,99,33,132
+Wayne,Galen 03,President,,BIDEN/HARRIS,DEM,132,58,190
+Wayne,Galen 04,President,,BIDEN/HARRIS,DEM,142,36,178
+Wayne,Huron 01,President,,BIDEN/HARRIS,DEM,128,56,184
+Wayne,Huron 02,President,,BIDEN/HARRIS,DEM,135,54,189
+Wayne,Lyons 01,President,,BIDEN/HARRIS,DEM,98,47,145
+Wayne,Lyons 02,President,,BIDEN/HARRIS,DEM,119,54,173
+Wayne,Lyons 03,President,,BIDEN/HARRIS,DEM,166,51,217
+Wayne,Lyons 04,President,,BIDEN/HARRIS,DEM,162,47,209
+Wayne,Lyons 05,President,,BIDEN/HARRIS,DEM,64,33,97
+Wayne,Macedon 01,President,,BIDEN/HARRIS,DEM,277,157,434
+Wayne,Macedon 02,President,,BIDEN/HARRIS,DEM,394,149,543
+Wayne,Macedon 03,President,,BIDEN/HARRIS,DEM,263,165,428
+Wayne,Macedon 04,President,,BIDEN/HARRIS,DEM,188,73,261
+Wayne,Macedon 05,President,,BIDEN/HARRIS,DEM,225,72,297
+Wayne,Marion 01,President,,BIDEN/HARRIS,DEM,122,53,175
+Wayne,Marion 02,President,,BIDEN/HARRIS,DEM,102,35,137
+Wayne,Marion 03,President,,BIDEN/HARRIS,DEM,183,48,231
+Wayne,Marion 04,President,,BIDEN/HARRIS,DEM,118,35,153
+Wayne,Ontario 01,President,,BIDEN/HARRIS,DEM,212,82,294
+Wayne,Ontario 02,President,,BIDEN/HARRIS,DEM,368,155,523
+Wayne,Ontario 03,President,,BIDEN/HARRIS,DEM,322,95,417
+Wayne,Ontario 04,President,,BIDEN/HARRIS,DEM,129,41,170
+Wayne,Ontario 05,President,,BIDEN/HARRIS,DEM,227,52,279
+Wayne,Ontario 06,President,,BIDEN/HARRIS,DEM,314,154,468
+Wayne,Palmyra 01,President,,BIDEN/HARRIS,DEM,163,59,222
+Wayne,Palmyra 02,President,,BIDEN/HARRIS,DEM,190,60,250
+Wayne,Palmyra 03,President,,BIDEN/HARRIS,DEM,142,61,203
+Wayne,Palmyra 04,President,,BIDEN/HARRIS,DEM,197,69,266
+Wayne,Palmyra 05,President,,BIDEN/HARRIS,DEM,161,50,211
+Wayne,Palmyra 06,President,,BIDEN/HARRIS,DEM,132,64,196
+Wayne,Rose 01,President,,BIDEN/HARRIS,DEM,131,41,172
+Wayne,Rose 02,President,,BIDEN/HARRIS,DEM,129,28,157
+Wayne,Savannah 01,President,,BIDEN/HARRIS,DEM,68,21,89
+Wayne,Savannah 02,President,,BIDEN/HARRIS,DEM,79,21,100
+Wayne,Sodus 01,President,,BIDEN/HARRIS,DEM,159,65,224
+Wayne,Sodus 02,President,,BIDEN/HARRIS,DEM,139,45,184
+Wayne,Sodus 03,President,,BIDEN/HARRIS,DEM,155,43,198
+Wayne,Sodus 04,President,,BIDEN/HARRIS,DEM,183,40,223
+Wayne,Sodus 05,President,,BIDEN/HARRIS,DEM,225,73,298
+Wayne,Sodus 06,President,,BIDEN/HARRIS,DEM,175,66,241
+Wayne,Walworth 01,President,,BIDEN/HARRIS,DEM,210,53,263
+Wayne,Walworth 02,President,,BIDEN/HARRIS,DEM,642,308,950
+Wayne,Walworth 03,President,,BIDEN/HARRIS,DEM,247,80,327
+Wayne,Walworth 04,President,,BIDEN/HARRIS,DEM,334,110,444
+Wayne,Walworth 05,President,,BIDEN/HARRIS,DEM,213,88,301
+Wayne,Williamson 01,President,,BIDEN/HARRIS,DEM,162,50,212
+Wayne,Williamson 02,President,,BIDEN/HARRIS,DEM,225,77,302
+Wayne,Williamson 03,President,,BIDEN/HARRIS,DEM,261,84,345
+Wayne,Williamson 04,President,,BIDEN/HARRIS,DEM,161,28,189
+Wayne,Williamson 05,President,,BIDEN/HARRIS,DEM,186,71,257
+Wayne,Wolcott 01,President,,BIDEN/HARRIS,DEM,114,37,151
+Wayne,Wolcott 02,President,,BIDEN/HARRIS,DEM,34,21,55
+Wayne,Wolcott 03,President,,BIDEN/HARRIS,DEM,80,24,104
+Wayne,Wolcott 04,President,,BIDEN/HARRIS,DEM,120,49,169
+Wayne,Arcadia 01,President,,BIDEN/HARRIS,WOR,15,3,18
+Wayne,Arcadia 02,President,,BIDEN/HARRIS,WOR,18,4,22
+Wayne,Arcadia 03,President,,BIDEN/HARRIS,WOR,10,1,11
+Wayne,Arcadia 04,President,,BIDEN/HARRIS,WOR,13,2,15
+Wayne,Arcadia 05,President,,BIDEN/HARRIS,WOR,12,0,12
+Wayne,Arcadia 06,President,,BIDEN/HARRIS,WOR,10,4,14
+Wayne,Arcadia 07,President,,BIDEN/HARRIS,WOR,13,1,14
+Wayne,Arcadia 08,President,,BIDEN/HARRIS,WOR,4,1,5
+Wayne,Arcadia 09,President,,BIDEN/HARRIS,WOR,5,3,8
+Wayne,Arcadia 10,President,,BIDEN/HARRIS,WOR,14,6,20
+Wayne,Butler 01,President,,BIDEN/HARRIS,WOR,8,10,18
+Wayne,Galen 01,President,,BIDEN/HARRIS,WOR,5,2,7
+Wayne,Galen 02,President,,BIDEN/HARRIS,WOR,6,1,7
+Wayne,Galen 03,President,,BIDEN/HARRIS,WOR,5,2,7
+Wayne,Galen 04,President,,BIDEN/HARRIS,WOR,7,0,7
+Wayne,Huron 01,President,,BIDEN/HARRIS,WOR,3,1,4
+Wayne,Huron 02,President,,BIDEN/HARRIS,WOR,8,2,10
+Wayne,Lyons 01,President,,BIDEN/HARRIS,WOR,7,6,13
+Wayne,Lyons 02,President,,BIDEN/HARRIS,WOR,4,1,5
+Wayne,Lyons 03,President,,BIDEN/HARRIS,WOR,7,4,11
+Wayne,Lyons 04,President,,BIDEN/HARRIS,WOR,9,3,12
+Wayne,Lyons 05,President,,BIDEN/HARRIS,WOR,6,2,8
+Wayne,Macedon 01,President,,BIDEN/HARRIS,WOR,14,6,20
+Wayne,Macedon 02,President,,BIDEN/HARRIS,WOR,26,8,34
+Wayne,Macedon 03,President,,BIDEN/HARRIS,WOR,15,9,24
+Wayne,Macedon 04,President,,BIDEN/HARRIS,WOR,15,3,18
+Wayne,Macedon 05,President,,BIDEN/HARRIS,WOR,18,7,25
+Wayne,Marion 01,President,,BIDEN/HARRIS,WOR,4,1,5
+Wayne,Marion 02,President,,BIDEN/HARRIS,WOR,7,0,7
+Wayne,Marion 03,President,,BIDEN/HARRIS,WOR,8,3,11
+Wayne,Marion 04,President,,BIDEN/HARRIS,WOR,8,2,10
+Wayne,Ontario 01,President,,BIDEN/HARRIS,WOR,14,2,16
+Wayne,Ontario 02,President,,BIDEN/HARRIS,WOR,20,3,23
+Wayne,Ontario 03,President,,BIDEN/HARRIS,WOR,11,3,14
+Wayne,Ontario 04,President,,BIDEN/HARRIS,WOR,6,1,7
+Wayne,Ontario 05,President,,BIDEN/HARRIS,WOR,5,4,9
+Wayne,Ontario 06,President,,BIDEN/HARRIS,WOR,17,6,23
+Wayne,Palmyra 01,President,,BIDEN/HARRIS,WOR,12,4,16
+Wayne,Palmyra 02,President,,BIDEN/HARRIS,WOR,9,1,10
+Wayne,Palmyra 03,President,,BIDEN/HARRIS,WOR,10,5,15
+Wayne,Palmyra 04,President,,BIDEN/HARRIS,WOR,11,0,11
+Wayne,Palmyra 05,President,,BIDEN/HARRIS,WOR,15,1,16
+Wayne,Palmyra 06,President,,BIDEN/HARRIS,WOR,4,2,6
+Wayne,Rose 01,President,,BIDEN/HARRIS,WOR,6,1,7
+Wayne,Rose 02,President,,BIDEN/HARRIS,WOR,10,4,14
+Wayne,Savannah 01,President,,BIDEN/HARRIS,WOR,4,0,4
+Wayne,Savannah 02,President,,BIDEN/HARRIS,WOR,2,0,2
+Wayne,Sodus 01,President,,BIDEN/HARRIS,WOR,13,2,15
+Wayne,Sodus 02,President,,BIDEN/HARRIS,WOR,6,1,7
+Wayne,Sodus 03,President,,BIDEN/HARRIS,WOR,10,1,11
+Wayne,Sodus 04,President,,BIDEN/HARRIS,WOR,6,3,9
+Wayne,Sodus 05,President,,BIDEN/HARRIS,WOR,6,3,9
+Wayne,Sodus 06,President,,BIDEN/HARRIS,WOR,1,1,2
+Wayne,Walworth 01,President,,BIDEN/HARRIS,WOR,5,1,6
+Wayne,Walworth 02,President,,BIDEN/HARRIS,WOR,33,16,49
+Wayne,Walworth 03,President,,BIDEN/HARRIS,WOR,14,1,15
+Wayne,Walworth 04,President,,BIDEN/HARRIS,WOR,16,7,23
+Wayne,Walworth 05,President,,BIDEN/HARRIS,WOR,7,7,14
+Wayne,Williamson 01,President,,BIDEN/HARRIS,WOR,9,1,10
+Wayne,Williamson 02,President,,BIDEN/HARRIS,WOR,12,1,13
+Wayne,Williamson 03,President,,BIDEN/HARRIS,WOR,11,0,11
+Wayne,Williamson 04,President,,BIDEN/HARRIS,WOR,13,5,18
+Wayne,Williamson 05,President,,BIDEN/HARRIS,WOR,10,7,17
+Wayne,Wolcott 01,President,,BIDEN/HARRIS,WOR,6,1,7
+Wayne,Wolcott 02,President,,BIDEN/HARRIS,WOR,2,0,2
+Wayne,Wolcott 03,President,,BIDEN/HARRIS,WOR,11,1,12
+Wayne,Wolcott 04,President,,BIDEN/HARRIS,WOR,7,1,8
+Wayne,Arcadia 01,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Arcadia 02,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Arcadia 03,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Arcadia 04,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Arcadia 05,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Arcadia 06,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Arcadia 07,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Arcadia 08,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Arcadia 09,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Arcadia 10,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Butler 01,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Galen 01,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Galen 02,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Galen 03,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Galen 04,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Huron 01,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Huron 02,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Lyons 01,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Lyons 02,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Lyons 03,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Lyons 04,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Lyons 05,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Macedon 01,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Macedon 02,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Macedon 03,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Macedon 04,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Macedon 05,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Marion 01,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Marion 02,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Marion 03,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Marion 04,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Ontario 01,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Ontario 02,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Ontario 03,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Ontario 04,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Ontario 05,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Ontario 06,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Palmyra 01,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Palmyra 02,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Palmyra 03,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Palmyra 04,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Palmyra 05,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Palmyra 06,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Rose 01,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Rose 02,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Savannah 01,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Savannah 02,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Sodus 01,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Sodus 02,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Sodus 03,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Sodus 04,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Sodus 05,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Sodus 06,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Walworth 01,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Walworth 02,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Walworth 03,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Walworth 04,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Walworth 05,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Williamson 01,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Williamson 02,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Williamson 03,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Williamson 04,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Williamson 05,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Wolcott 01,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Wolcott 02,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Wolcott 03,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Wolcott 04,President,,BLANKENSHIP DON,SCA,0,0,0
+Wayne,Arcadia 01,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Arcadia 02,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Arcadia 03,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Arcadia 04,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Arcadia 05,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Arcadia 06,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Arcadia 07,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Arcadia 08,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Arcadia 09,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Arcadia 10,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Butler 01,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Galen 01,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Galen 02,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Galen 03,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Galen 04,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Huron 01,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Huron 02,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Lyons 01,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Lyons 02,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Lyons 03,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Lyons 04,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Lyons 05,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Macedon 01,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Macedon 02,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Macedon 03,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Macedon 04,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Macedon 05,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Marion 01,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Marion 02,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Marion 03,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Marion 04,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Ontario 01,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Ontario 02,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Ontario 03,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Ontario 04,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Ontario 05,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Ontario 06,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Palmyra 01,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Palmyra 02,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Palmyra 03,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Palmyra 04,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Palmyra 05,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Palmyra 06,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Rose 01,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Rose 02,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Savannah 01,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Savannah 02,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Sodus 01,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Sodus 02,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Sodus 03,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Sodus 04,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Sodus 05,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Sodus 06,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Walworth 01,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Walworth 02,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Walworth 03,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Walworth 04,President,,CARROLL BRIAN,SCA,2,0,2
+Wayne,Walworth 05,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Williamson 01,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Williamson 02,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Williamson 03,President,,CARROLL BRIAN,SCA,1,0,1
+Wayne,Williamson 04,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Williamson 05,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Wolcott 01,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Wolcott 02,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Wolcott 03,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Wolcott 04,President,,CARROLL BRIAN,SCA,0,0,0
+Wayne,Arcadia 01,State Assembly,130,COMEGYS,DEM,143,32,175
+Wayne,Arcadia 02,State Assembly,130,COMEGYS,DEM,148,75,223
+Wayne,Arcadia 03,State Assembly,130,COMEGYS,DEM,140,50,190
+Wayne,Arcadia 04,State Assembly,130,COMEGYS,DEM,115,44,159
+Wayne,Arcadia 05,State Assembly,130,COMEGYS,DEM,123,31,154
+Wayne,Arcadia 06,State Assembly,130,COMEGYS,DEM,199,79,278
+Wayne,Arcadia 07,State Assembly,130,COMEGYS,DEM,116,34,150
+Wayne,Arcadia 08,State Assembly,130,COMEGYS,DEM,113,34,147
+Wayne,Arcadia 09,State Assembly,130,COMEGYS,DEM,123,45,168
+Wayne,Arcadia 10,State Assembly,130,COMEGYS,DEM,126,64,190
+Wayne,Butler 01,State Assembly,130,COMEGYS,DEM,80,44,124
+Wayne,Galen 01,State Assembly,130,COMEGYS,DEM,58,25,83
+Wayne,Galen 02,State Assembly,130,COMEGYS,DEM,59,29,88
+Wayne,Galen 03,State Assembly,130,COMEGYS,DEM,97,37,134
+Wayne,Galen 04,State Assembly,130,COMEGYS,DEM,93,25,118
+Wayne,Huron 01,State Assembly,130,COMEGYS,DEM,86,44,130
+Wayne,Huron 02,State Assembly,130,COMEGYS,DEM,99,34,133
+Wayne,Lyons 01,State Assembly,130,COMEGYS,DEM,60,26,86
+Wayne,Lyons 02,State Assembly,130,COMEGYS,DEM,61,36,97
+Wayne,Lyons 03,State Assembly,130,COMEGYS,DEM,87,34,121
+Wayne,Lyons 04,State Assembly,130,COMEGYS,DEM,90,30,120
+Wayne,Lyons 05,State Assembly,130,COMEGYS,DEM,37,19,56
+Wayne,Macedon 01,State Assembly,130,COMEGYS,DEM,240,122,362
+Wayne,Macedon 02,State Assembly,130,COMEGYS,DEM,339,123,462
+Wayne,Macedon 03,State Assembly,130,COMEGYS,DEM,209,122,331
+Wayne,Macedon 04,State Assembly,130,COMEGYS,DEM,157,61,218
+Wayne,Macedon 05,State Assembly,130,COMEGYS,DEM,195,57,252
+Wayne,Marion 01,State Assembly,130,COMEGYS,DEM,91,41,132
+Wayne,Marion 02,State Assembly,130,COMEGYS,DEM,66,23,89
+Wayne,Marion 03,State Assembly,130,COMEGYS,DEM,144,44,188
+Wayne,Marion 04,State Assembly,130,COMEGYS,DEM,95,22,117
+Wayne,Ontario 01,State Assembly,130,COMEGYS,DEM,155,71,226
+Wayne,Ontario 02,State Assembly,130,COMEGYS,DEM,302,117,419
+Wayne,Ontario 03,State Assembly,130,COMEGYS,DEM,258,67,325
+Wayne,Ontario 04,State Assembly,130,COMEGYS,DEM,102,28,130
+Wayne,Ontario 05,State Assembly,130,COMEGYS,DEM,170,37,207
+Wayne,Ontario 06,State Assembly,130,COMEGYS,DEM,235,119,354
+Wayne,Palmyra 01,State Assembly,130,COMEGYS,DEM,146,44,190
+Wayne,Palmyra 02,State Assembly,130,COMEGYS,DEM,158,47,205
+Wayne,Palmyra 03,State Assembly,130,COMEGYS,DEM,129,53,182
+Wayne,Palmyra 04,State Assembly,130,COMEGYS,DEM,167,53,220
+Wayne,Palmyra 05,State Assembly,130,COMEGYS,DEM,115,38,153
+Wayne,Palmyra 06,State Assembly,130,COMEGYS,DEM,99,47,146
+Wayne,Rose 01,State Assembly,130,COMEGYS,DEM,86,30,116
+Wayne,Rose 02,State Assembly,130,COMEGYS,DEM,85,29,114
+Wayne,Savannah 01,State Assembly,130,COMEGYS,DEM,47,15,62
+Wayne,Savannah 02,State Assembly,130,COMEGYS,DEM,49,12,61
+Wayne,Sodus 01,State Assembly,130,COMEGYS,DEM,137,46,183
+Wayne,Sodus 02,State Assembly,130,COMEGYS,DEM,84,28,112
+Wayne,Sodus 03,State Assembly,130,COMEGYS,DEM,109,30,139
+Wayne,Sodus 04,State Assembly,130,COMEGYS,DEM,122,32,154
+Wayne,Sodus 05,State Assembly,130,COMEGYS,DEM,164,59,223
+Wayne,Sodus 06,State Assembly,130,COMEGYS,DEM,134,40,174
+Wayne,Walworth 01,State Assembly,130,COMEGYS,DEM,156,41,197
+Wayne,Walworth 02,State Assembly,130,COMEGYS,DEM,535,273,808
+Wayne,Walworth 03,State Assembly,130,COMEGYS,DEM,200,60,260
+Wayne,Walworth 04,State Assembly,130,COMEGYS,DEM,281,90,371
+Wayne,Walworth 05,State Assembly,130,COMEGYS,DEM,160,72,232
+Wayne,Williamson 01,State Assembly,130,COMEGYS,DEM,124,37,161
+Wayne,Williamson 02,State Assembly,130,COMEGYS,DEM,154,63,217
+Wayne,Williamson 03,State Assembly,130,COMEGYS,DEM,181,59,240
+Wayne,Williamson 04,State Assembly,130,COMEGYS,DEM,116,23,139
+Wayne,Williamson 05,State Assembly,130,COMEGYS,DEM,130,56,186
+Wayne,Wolcott 01,State Assembly,130,COMEGYS,DEM,82,29,111
+Wayne,Wolcott 02,State Assembly,130,COMEGYS,DEM,18,20,38
+Wayne,Wolcott 03,State Assembly,130,COMEGYS,DEM,63,20,83
+Wayne,Wolcott 04,State Assembly,130,COMEGYS,DEM,99,42,141
+Wayne,Arcadia 01,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Arcadia 02,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Arcadia 03,State Assembly,130,COMEGYS,SAM,1,1,2
+Wayne,Arcadia 04,State Assembly,130,COMEGYS,SAM,0,1,1
+Wayne,Arcadia 05,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Arcadia 06,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Arcadia 07,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Arcadia 08,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Arcadia 09,State Assembly,130,COMEGYS,SAM,2,1,3
+Wayne,Arcadia 10,State Assembly,130,COMEGYS,SAM,2,0,2
+Wayne,Butler 01,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Galen 01,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Galen 02,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Galen 03,State Assembly,130,COMEGYS,SAM,0,1,1
+Wayne,Galen 04,State Assembly,130,COMEGYS,SAM,3,0,3
+Wayne,Huron 01,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Huron 02,State Assembly,130,COMEGYS,SAM,0,2,2
+Wayne,Lyons 01,State Assembly,130,COMEGYS,SAM,0,1,1
+Wayne,Lyons 02,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Lyons 03,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Lyons 04,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Lyons 05,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Macedon 01,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Macedon 02,State Assembly,130,COMEGYS,SAM,2,1,3
+Wayne,Macedon 03,State Assembly,130,COMEGYS,SAM,3,0,3
+Wayne,Macedon 04,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Macedon 05,State Assembly,130,COMEGYS,SAM,1,1,2
+Wayne,Marion 01,State Assembly,130,COMEGYS,SAM,2,2,4
+Wayne,Marion 02,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Marion 03,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Marion 04,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Ontario 01,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Ontario 02,State Assembly,130,COMEGYS,SAM,2,0,2
+Wayne,Ontario 03,State Assembly,130,COMEGYS,SAM,2,1,3
+Wayne,Ontario 04,State Assembly,130,COMEGYS,SAM,1,1,2
+Wayne,Ontario 05,State Assembly,130,COMEGYS,SAM,1,1,2
+Wayne,Ontario 06,State Assembly,130,COMEGYS,SAM,4,2,6
+Wayne,Palmyra 01,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Palmyra 02,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Palmyra 03,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Palmyra 04,State Assembly,130,COMEGYS,SAM,5,0,5
+Wayne,Palmyra 05,State Assembly,130,COMEGYS,SAM,3,1,4
+Wayne,Palmyra 06,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Rose 01,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Rose 02,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Savannah 01,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Savannah 02,State Assembly,130,COMEGYS,SAM,0,1,1
+Wayne,Sodus 01,State Assembly,130,COMEGYS,SAM,2,0,2
+Wayne,Sodus 02,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Sodus 03,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Sodus 04,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Sodus 05,State Assembly,130,COMEGYS,SAM,5,0,5
+Wayne,Sodus 06,State Assembly,130,COMEGYS,SAM,2,0,2
+Wayne,Walworth 01,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Walworth 02,State Assembly,130,COMEGYS,SAM,2,2,4
+Wayne,Walworth 03,State Assembly,130,COMEGYS,SAM,3,1,4
+Wayne,Walworth 04,State Assembly,130,COMEGYS,SAM,1,1,2
+Wayne,Walworth 05,State Assembly,130,COMEGYS,SAM,2,0,2
+Wayne,Williamson 01,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Williamson 02,State Assembly,130,COMEGYS,SAM,1,1,2
+Wayne,Williamson 03,State Assembly,130,COMEGYS,SAM,0,1,1
+Wayne,Williamson 04,State Assembly,130,COMEGYS,SAM,0,2,2
+Wayne,Williamson 05,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Wolcott 01,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Wolcott 02,State Assembly,130,COMEGYS,SAM,0,0,0
+Wayne,Wolcott 03,State Assembly,130,COMEGYS,SAM,0,1,1
+Wayne,Wolcott 04,State Assembly,130,COMEGYS,SAM,1,0,1
+Wayne,Arcadia 01,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Arcadia 02,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Arcadia 03,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Arcadia 04,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Arcadia 05,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Arcadia 06,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Arcadia 07,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Arcadia 08,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Arcadia 09,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Arcadia 10,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Butler 01,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Galen 01,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Galen 02,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Galen 03,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Galen 04,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Huron 01,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Huron 02,President,,DE LA FUENTE ROQU,SCA,1,0,1
+Wayne,Lyons 01,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Lyons 02,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Lyons 03,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Lyons 04,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Lyons 05,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Macedon 01,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Macedon 02,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Macedon 03,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Macedon 04,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Macedon 05,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Marion 01,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Marion 02,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Marion 03,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Marion 04,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Ontario 01,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Ontario 02,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Ontario 03,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Ontario 04,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Ontario 05,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Ontario 06,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Palmyra 01,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Palmyra 02,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Palmyra 03,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Palmyra 04,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Palmyra 05,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Palmyra 06,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Rose 01,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Rose 02,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Savannah 01,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Savannah 02,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Sodus 01,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Sodus 02,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Sodus 03,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Sodus 04,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Sodus 05,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Sodus 06,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Walworth 01,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Walworth 02,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Walworth 03,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Walworth 04,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Walworth 05,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Williamson 01,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Williamson 02,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Williamson 03,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Williamson 04,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Williamson 05,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Wolcott 01,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Wolcott 02,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Wolcott 03,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Wolcott 04,President,,DE LA FUENTE ROQU,SCA,0,0,0
+Wayne,Arcadia 01,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Arcadia 02,President,,HAWKINS/WALKER,GRE,6,0,6
+Wayne,Arcadia 03,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Arcadia 04,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Arcadia 05,President,,HAWKINS/WALKER,GRE,1,1,2
+Wayne,Arcadia 06,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Arcadia 07,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Arcadia 08,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Arcadia 09,President,,HAWKINS/WALKER,GRE,1,1,2
+Wayne,Arcadia 10,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Butler 01,President,,HAWKINS/WALKER,GRE,1,0,1
+Wayne,Galen 01,President,,HAWKINS/WALKER,GRE,1,0,1
+Wayne,Galen 02,President,,HAWKINS/WALKER,GRE,0,3,3
+Wayne,Galen 03,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Galen 04,President,,HAWKINS/WALKER,GRE,1,0,1
+Wayne,Huron 01,President,,HAWKINS/WALKER,GRE,1,0,1
+Wayne,Huron 02,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Lyons 01,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Lyons 02,President,,HAWKINS/WALKER,GRE,1,0,1
+Wayne,Lyons 03,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Lyons 04,President,,HAWKINS/WALKER,GRE,3,2,5
+Wayne,Lyons 05,President,,HAWKINS/WALKER,GRE,1,1,2
+Wayne,Macedon 01,President,,HAWKINS/WALKER,GRE,2,1,3
+Wayne,Macedon 02,President,,HAWKINS/WALKER,GRE,3,1,4
+Wayne,Macedon 03,President,,HAWKINS/WALKER,GRE,3,0,3
+Wayne,Macedon 04,President,,HAWKINS/WALKER,GRE,1,1,2
+Wayne,Macedon 05,President,,HAWKINS/WALKER,GRE,1,0,1
+Wayne,Marion 01,President,,HAWKINS/WALKER,GRE,3,1,4
+Wayne,Marion 02,President,,HAWKINS/WALKER,GRE,0,0,0
+Wayne,Marion 03,President,,HAWKINS/WALKER,GRE,3,0,3
+Wayne,Marion 04,President,,HAWKINS/WALKER,GRE,0,0,0
+Wayne,Ontario 01,President,,HAWKINS/WALKER,GRE,4,1,5
+Wayne,Ontario 02,President,,HAWKINS/WALKER,GRE,4,0,4
+Wayne,Ontario 03,President,,HAWKINS/WALKER,GRE,5,1,6
+Wayne,Ontario 04,President,,HAWKINS/WALKER,GRE,3,0,3
+Wayne,Ontario 05,President,,HAWKINS/WALKER,GRE,6,1,7
+Wayne,Ontario 06,President,,HAWKINS/WALKER,GRE,3,1,4
+Wayne,Palmyra 01,President,,HAWKINS/WALKER,GRE,6,0,6
+Wayne,Palmyra 02,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Palmyra 03,President,,HAWKINS/WALKER,GRE,1,1,2
+Wayne,Palmyra 04,President,,HAWKINS/WALKER,GRE,3,0,3
+Wayne,Palmyra 05,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Palmyra 06,President,,HAWKINS/WALKER,GRE,2,1,3
+Wayne,Rose 01,President,,HAWKINS/WALKER,GRE,2,1,3
+Wayne,Rose 02,President,,HAWKINS/WALKER,GRE,1,1,2
+Wayne,Savannah 01,President,,HAWKINS/WALKER,GRE,3,0,3
+Wayne,Savannah 02,President,,HAWKINS/WALKER,GRE,1,0,1
+Wayne,Sodus 01,President,,HAWKINS/WALKER,GRE,3,3,6
+Wayne,Sodus 02,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Sodus 03,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Sodus 04,President,,HAWKINS/WALKER,GRE,0,0,0
+Wayne,Sodus 05,President,,HAWKINS/WALKER,GRE,2,1,3
+Wayne,Sodus 06,President,,HAWKINS/WALKER,GRE,1,0,1
+Wayne,Walworth 01,President,,HAWKINS/WALKER,GRE,0,1,1
+Wayne,Walworth 02,President,,HAWKINS/WALKER,GRE,2,3,5
+Wayne,Walworth 03,President,,HAWKINS/WALKER,GRE,3,0,3
+Wayne,Walworth 04,President,,HAWKINS/WALKER,GRE,3,0,3
+Wayne,Walworth 05,President,,HAWKINS/WALKER,GRE,5,2,7
+Wayne,Williamson 01,President,,HAWKINS/WALKER,GRE,1,1,2
+Wayne,Williamson 02,President,,HAWKINS/WALKER,GRE,1,1,2
+Wayne,Williamson 03,President,,HAWKINS/WALKER,GRE,5,0,5
+Wayne,Williamson 04,President,,HAWKINS/WALKER,GRE,2,0,2
+Wayne,Williamson 05,President,,HAWKINS/WALKER,GRE,6,1,7
+Wayne,Wolcott 01,President,,HAWKINS/WALKER,GRE,1,0,1
+Wayne,Wolcott 02,President,,HAWKINS/WALKER,GRE,1,0,1
+Wayne,Wolcott 03,President,,HAWKINS/WALKER,GRE,3,1,4
+Wayne,Wolcott 04,President,,HAWKINS/WALKER,GRE,3,1,4
+Wayne,Arcadia 01,State Senate,54,HELMING,REP,471,42,513
+Wayne,Arcadia 02,State Senate,54,HELMING,REP,405,68,473
+Wayne,Arcadia 03,State Senate,54,HELMING,REP,217,23,240
+Wayne,Arcadia 04,State Senate,54,HELMING,REP,183,29,212
+Wayne,Arcadia 05,State Senate,54,HELMING,REP,217,40,257
+Wayne,Arcadia 06,State Senate,54,HELMING,REP,315,71,386
+Wayne,Arcadia 07,State Senate,54,HELMING,REP,216,25,241
+Wayne,Arcadia 08,State Senate,54,HELMING,REP,162,24,186
+Wayne,Arcadia 09,State Senate,54,HELMING,REP,173,35,208
+Wayne,Arcadia 10,State Senate,54,HELMING,REP,341,66,407
+Wayne,Butler 01,State Senate,54,HELMING,REP,436,53,489
+Wayne,Galen 01,State Senate,54,HELMING,REP,246,25,271
+Wayne,Galen 02,State Senate,54,HELMING,REP,233,28,261
+Wayne,Galen 03,State Senate,54,HELMING,REP,251,39,290
+Wayne,Galen 04,State Senate,54,HELMING,REP,190,25,215
+Wayne,Huron 01,State Senate,54,HELMING,REP,237,41,278
+Wayne,Huron 02,State Senate,54,HELMING,REP,310,29,339
+Wayne,Lyons 01,State Senate,54,HELMING,REP,230,45,275
+Wayne,Lyons 02,State Senate,54,HELMING,REP,185,31,216
+Wayne,Lyons 03,State Senate,54,HELMING,REP,200,32,232
+Wayne,Lyons 04,State Senate,54,HELMING,REP,235,22,257
+Wayne,Lyons 05,State Senate,54,HELMING,REP,240,30,270
+Wayne,Macedon 01,State Senate,54,HELMING,REP,421,65,486
+Wayne,Macedon 02,State Senate,54,HELMING,REP,574,81,655
+Wayne,Macedon 03,State Senate,54,HELMING,REP,491,110,601
+Wayne,Macedon 04,State Senate,54,HELMING,REP,348,53,401
+Wayne,Macedon 05,State Senate,54,HELMING,REP,375,52,427
+Wayne,Marion 01,State Senate,54,HELMING,REP,325,38,363
+Wayne,Marion 02,State Senate,54,HELMING,REP,343,40,383
+Wayne,Marion 03,State Senate,54,HELMING,REP,370,38,408
+Wayne,Marion 04,State Senate,54,HELMING,REP,310,35,345
+Wayne,Ontario 01,State Senate,54,HELMING,REP,468,68,536
+Wayne,Ontario 02,State Senate,54,HELMING,REP,653,56,709
+Wayne,Ontario 03,State Senate,54,HELMING,REP,611,73,684
+Wayne,Ontario 04,State Senate,54,HELMING,REP,295,26,321
+Wayne,Ontario 05,State Senate,54,HELMING,REP,376,20,396
+Wayne,Ontario 06,State Senate,54,HELMING,REP,593,95,688
+Wayne,Palmyra 01,State Senate,54,HELMING,REP,256,27,283
+Wayne,Palmyra 02,State Senate,54,HELMING,REP,246,24,270
+Wayne,Palmyra 03,State Senate,54,HELMING,REP,201,27,228
+Wayne,Palmyra 04,State Senate,54,HELMING,REP,364,40,404
+Wayne,Palmyra 05,State Senate,54,HELMING,REP,385,25,410
+Wayne,Palmyra 06,State Senate,54,HELMING,REP,302,45,347
+Wayne,Rose 01,State Senate,54,HELMING,REP,277,29,306
+Wayne,Rose 02,State Senate,54,HELMING,REP,312,25,337
+Wayne,Savannah 01,State Senate,54,HELMING,REP,179,26,205
+Wayne,Savannah 02,State Senate,54,HELMING,REP,217,20,237
+Wayne,Sodus 01,State Senate,54,HELMING,REP,219,61,280
+Wayne,Sodus 02,State Senate,54,HELMING,REP,316,28,344
+Wayne,Sodus 03,State Senate,54,HELMING,REP,329,29,358
+Wayne,Sodus 04,State Senate,54,HELMING,REP,385,43,428
+Wayne,Sodus 05,State Senate,54,HELMING,REP,280,39,319
+Wayne,Sodus 06,State Senate,54,HELMING,REP,302,42,344
+Wayne,Walworth 01,State Senate,54,HELMING,REP,355,40,395
+Wayne,Walworth 02,State Senate,54,HELMING,REP,760,132,892
+Wayne,Walworth 03,State Senate,54,HELMING,REP,545,45,590
+Wayne,Walworth 04,State Senate,54,HELMING,REP,440,59,499
+Wayne,Walworth 05,State Senate,54,HELMING,REP,395,52,447
+Wayne,Williamson 01,State Senate,54,HELMING,REP,276,24,300
+Wayne,Williamson 02,State Senate,54,HELMING,REP,437,43,480
+Wayne,Williamson 03,State Senate,54,HELMING,REP,566,71,637
+Wayne,Williamson 04,State Senate,54,HELMING,REP,306,22,328
+Wayne,Williamson 05,State Senate,54,HELMING,REP,417,45,462
+Wayne,Wolcott 01,State Senate,54,HELMING,REP,227,35,262
+Wayne,Wolcott 02,State Senate,54,HELMING,REP,120,18,138
+Wayne,Wolcott 03,State Senate,54,HELMING,REP,256,31,287
+Wayne,Wolcott 04,State Senate,54,HELMING,REP,308,36,344
+Wayne,Arcadia 01,State Senate,54,HELMING,CON,99,7,106
+Wayne,Arcadia 02,State Senate,54,HELMING,CON,61,9,70
+Wayne,Arcadia 03,State Senate,54,HELMING,CON,27,5,32
+Wayne,Arcadia 04,State Senate,54,HELMING,CON,23,5,28
+Wayne,Arcadia 05,State Senate,54,HELMING,CON,28,3,31
+Wayne,Arcadia 06,State Senate,54,HELMING,CON,43,15,58
+Wayne,Arcadia 07,State Senate,54,HELMING,CON,32,7,39
+Wayne,Arcadia 08,State Senate,54,HELMING,CON,27,5,32
+Wayne,Arcadia 09,State Senate,54,HELMING,CON,35,5,40
+Wayne,Arcadia 10,State Senate,54,HELMING,CON,50,18,68
+Wayne,Butler 01,State Senate,54,HELMING,CON,61,9,70
+Wayne,Galen 01,State Senate,54,HELMING,CON,44,6,50
+Wayne,Galen 02,State Senate,54,HELMING,CON,27,2,29
+Wayne,Galen 03,State Senate,54,HELMING,CON,26,4,30
+Wayne,Galen 04,State Senate,54,HELMING,CON,23,8,31
+Wayne,Huron 01,State Senate,54,HELMING,CON,32,10,42
+Wayne,Huron 02,State Senate,54,HELMING,CON,49,12,61
+Wayne,Lyons 01,State Senate,54,HELMING,CON,30,6,36
+Wayne,Lyons 02,State Senate,54,HELMING,CON,19,7,26
+Wayne,Lyons 03,State Senate,54,HELMING,CON,34,5,39
+Wayne,Lyons 04,State Senate,54,HELMING,CON,53,7,60
+Wayne,Lyons 05,State Senate,54,HELMING,CON,33,6,39
+Wayne,Macedon 01,State Senate,54,HELMING,CON,49,7,56
+Wayne,Macedon 02,State Senate,54,HELMING,CON,92,14,106
+Wayne,Macedon 03,State Senate,54,HELMING,CON,87,21,108
+Wayne,Macedon 04,State Senate,54,HELMING,CON,68,10,78
+Wayne,Macedon 05,State Senate,54,HELMING,CON,42,5,47
+Wayne,Marion 01,State Senate,54,HELMING,CON,60,7,67
+Wayne,Marion 02,State Senate,54,HELMING,CON,57,4,61
+Wayne,Marion 03,State Senate,54,HELMING,CON,77,4,81
+Wayne,Marion 04,State Senate,54,HELMING,CON,68,5,73
+Wayne,Ontario 01,State Senate,54,HELMING,CON,73,11,84
+Wayne,Ontario 02,State Senate,54,HELMING,CON,96,13,109
+Wayne,Ontario 03,State Senate,54,HELMING,CON,99,3,102
+Wayne,Ontario 04,State Senate,54,HELMING,CON,56,8,64
+Wayne,Ontario 05,State Senate,54,HELMING,CON,57,7,64
+Wayne,Ontario 06,State Senate,54,HELMING,CON,97,8,105
+Wayne,Palmyra 01,State Senate,54,HELMING,CON,32,3,35
+Wayne,Palmyra 02,State Senate,54,HELMING,CON,45,8,53
+Wayne,Palmyra 03,State Senate,54,HELMING,CON,22,3,25
+Wayne,Palmyra 04,State Senate,54,HELMING,CON,65,5,70
+Wayne,Palmyra 05,State Senate,54,HELMING,CON,68,6,74
+Wayne,Palmyra 06,State Senate,54,HELMING,CON,50,9,59
+Wayne,Rose 01,State Senate,54,HELMING,CON,48,3,51
+Wayne,Rose 02,State Senate,54,HELMING,CON,41,3,44
+Wayne,Savannah 01,State Senate,54,HELMING,CON,23,6,29
+Wayne,Savannah 02,State Senate,54,HELMING,CON,31,3,34
+Wayne,Sodus 01,State Senate,54,HELMING,CON,35,17,52
+Wayne,Sodus 02,State Senate,54,HELMING,CON,71,8,79
+Wayne,Sodus 03,State Senate,54,HELMING,CON,66,3,69
+Wayne,Sodus 04,State Senate,54,HELMING,CON,67,3,70
+Wayne,Sodus 05,State Senate,54,HELMING,CON,49,7,56
+Wayne,Sodus 06,State Senate,54,HELMING,CON,67,9,76
+Wayne,Walworth 01,State Senate,54,HELMING,CON,86,4,90
+Wayne,Walworth 02,State Senate,54,HELMING,CON,157,26,183
+Wayne,Walworth 03,State Senate,54,HELMING,CON,81,11,92
+Wayne,Walworth 04,State Senate,54,HELMING,CON,76,9,85
+Wayne,Walworth 05,State Senate,54,HELMING,CON,88,5,93
+Wayne,Williamson 01,State Senate,54,HELMING,CON,40,2,42
+Wayne,Williamson 02,State Senate,54,HELMING,CON,76,7,83
+Wayne,Williamson 03,State Senate,54,HELMING,CON,92,7,99
+Wayne,Williamson 04,State Senate,54,HELMING,CON,58,7,65
+Wayne,Williamson 05,State Senate,54,HELMING,CON,70,9,79
+Wayne,Wolcott 01,State Senate,54,HELMING,CON,22,2,24
+Wayne,Wolcott 02,State Senate,54,HELMING,CON,14,2,16
+Wayne,Wolcott 03,State Senate,54,HELMING,CON,32,2,34
+Wayne,Wolcott 04,State Senate,54,HELMING,CON,44,5,49
+Wayne,Arcadia 01,State Senate,54,HELMING,IND,8,0,8
+Wayne,Arcadia 02,State Senate,54,HELMING,IND,8,4,12
+Wayne,Arcadia 03,State Senate,54,HELMING,IND,13,3,16
+Wayne,Arcadia 04,State Senate,54,HELMING,IND,7,0,7
+Wayne,Arcadia 05,State Senate,54,HELMING,IND,6,1,7
+Wayne,Arcadia 06,State Senate,54,HELMING,IND,7,8,15
+Wayne,Arcadia 07,State Senate,54,HELMING,IND,9,2,11
+Wayne,Arcadia 08,State Senate,54,HELMING,IND,8,0,8
+Wayne,Arcadia 09,State Senate,54,HELMING,IND,8,1,9
+Wayne,Arcadia 10,State Senate,54,HELMING,IND,5,0,5
+Wayne,Butler 01,State Senate,54,HELMING,IND,6,4,10
+Wayne,Galen 01,State Senate,54,HELMING,IND,10,1,11
+Wayne,Galen 02,State Senate,54,HELMING,IND,2,0,2
+Wayne,Galen 03,State Senate,54,HELMING,IND,7,1,8
+Wayne,Galen 04,State Senate,54,HELMING,IND,5,1,6
+Wayne,Huron 01,State Senate,54,HELMING,IND,4,3,7
+Wayne,Huron 02,State Senate,54,HELMING,IND,3,1,4
+Wayne,Lyons 01,State Senate,54,HELMING,IND,3,3,6
+Wayne,Lyons 02,State Senate,54,HELMING,IND,3,0,3
+Wayne,Lyons 03,State Senate,54,HELMING,IND,5,2,7
+Wayne,Lyons 04,State Senate,54,HELMING,IND,7,0,7
+Wayne,Lyons 05,State Senate,54,HELMING,IND,4,3,7
+Wayne,Macedon 01,State Senate,54,HELMING,IND,8,6,14
+Wayne,Macedon 02,State Senate,54,HELMING,IND,9,6,15
+Wayne,Macedon 03,State Senate,54,HELMING,IND,13,8,21
+Wayne,Macedon 04,State Senate,54,HELMING,IND,11,1,12
+Wayne,Macedon 05,State Senate,54,HELMING,IND,7,4,11
+Wayne,Marion 01,State Senate,54,HELMING,IND,6,3,9
+Wayne,Marion 02,State Senate,54,HELMING,IND,8,3,11
+Wayne,Marion 03,State Senate,54,HELMING,IND,6,3,9
+Wayne,Marion 04,State Senate,54,HELMING,IND,3,1,4
+Wayne,Ontario 01,State Senate,54,HELMING,IND,10,2,12
+Wayne,Ontario 02,State Senate,54,HELMING,IND,11,1,12
+Wayne,Ontario 03,State Senate,54,HELMING,IND,11,1,12
+Wayne,Ontario 04,State Senate,54,HELMING,IND,6,1,7
+Wayne,Ontario 05,State Senate,54,HELMING,IND,9,1,10
+Wayne,Ontario 06,State Senate,54,HELMING,IND,18,13,31
+Wayne,Palmyra 01,State Senate,54,HELMING,IND,8,2,10
+Wayne,Palmyra 02,State Senate,54,HELMING,IND,7,2,9
+Wayne,Palmyra 03,State Senate,54,HELMING,IND,7,3,10
+Wayne,Palmyra 04,State Senate,54,HELMING,IND,9,2,11
+Wayne,Palmyra 05,State Senate,54,HELMING,IND,13,0,13
+Wayne,Palmyra 06,State Senate,54,HELMING,IND,9,2,11
+Wayne,Rose 01,State Senate,54,HELMING,IND,6,2,8
+Wayne,Rose 02,State Senate,54,HELMING,IND,5,1,6
+Wayne,Savannah 01,State Senate,54,HELMING,IND,3,0,3
+Wayne,Savannah 02,State Senate,54,HELMING,IND,2,0,2
+Wayne,Sodus 01,State Senate,54,HELMING,IND,6,2,8
+Wayne,Sodus 02,State Senate,54,HELMING,IND,11,2,13
+Wayne,Sodus 03,State Senate,54,HELMING,IND,12,0,12
+Wayne,Sodus 04,State Senate,54,HELMING,IND,6,3,9
+Wayne,Sodus 05,State Senate,54,HELMING,IND,10,2,12
+Wayne,Sodus 06,State Senate,54,HELMING,IND,9,0,9
+Wayne,Walworth 01,State Senate,54,HELMING,IND,8,3,11
+Wayne,Walworth 02,State Senate,54,HELMING,IND,18,12,30
+Wayne,Walworth 03,State Senate,54,HELMING,IND,18,1,19
+Wayne,Walworth 04,State Senate,54,HELMING,IND,4,3,7
+Wayne,Walworth 05,State Senate,54,HELMING,IND,11,6,17
+Wayne,Williamson 01,State Senate,54,HELMING,IND,8,2,10
+Wayne,Williamson 02,State Senate,54,HELMING,IND,19,1,20
+Wayne,Williamson 03,State Senate,54,HELMING,IND,11,4,15
+Wayne,Williamson 04,State Senate,54,HELMING,IND,11,0,11
+Wayne,Williamson 05,State Senate,54,HELMING,IND,9,1,10
+Wayne,Wolcott 01,State Senate,54,HELMING,IND,4,0,4
+Wayne,Wolcott 02,State Senate,54,HELMING,IND,1,0,1
+Wayne,Wolcott 03,State Senate,54,HELMING,IND,6,0,6
+Wayne,Wolcott 04,State Senate,54,HELMING,IND,5,0,5
+Wayne,Arcadia 01,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Arcadia 02,State Senate,54,HELMING,SAM,1,0,1
+Wayne,Arcadia 03,State Senate,54,HELMING,SAM,1,0,1
+Wayne,Arcadia 04,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Arcadia 05,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Arcadia 06,State Senate,54,HELMING,SAM,1,0,1
+Wayne,Arcadia 07,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Arcadia 08,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Arcadia 09,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Arcadia 10,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Butler 01,State Senate,54,HELMING,SAM,0,1,1
+Wayne,Galen 01,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Galen 02,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Galen 03,State Senate,54,HELMING,SAM,1,0,1
+Wayne,Galen 04,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Huron 01,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Huron 02,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Lyons 01,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Lyons 02,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Lyons 03,State Senate,54,HELMING,SAM,1,0,1
+Wayne,Lyons 04,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Lyons 05,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Macedon 01,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Macedon 02,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Macedon 03,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Macedon 04,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Macedon 05,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Marion 01,State Senate,54,HELMING,SAM,0,1,1
+Wayne,Marion 02,State Senate,54,HELMING,SAM,1,0,1
+Wayne,Marion 03,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Marion 04,State Senate,54,HELMING,SAM,1,0,1
+Wayne,Ontario 01,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Ontario 02,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Ontario 03,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Ontario 04,State Senate,54,HELMING,SAM,1,0,1
+Wayne,Ontario 05,State Senate,54,HELMING,SAM,1,2,3
+Wayne,Ontario 06,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Palmyra 01,State Senate,54,HELMING,SAM,1,0,1
+Wayne,Palmyra 02,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Palmyra 03,State Senate,54,HELMING,SAM,1,0,1
+Wayne,Palmyra 04,State Senate,54,HELMING,SAM,1,0,1
+Wayne,Palmyra 05,State Senate,54,HELMING,SAM,1,0,1
+Wayne,Palmyra 06,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Rose 01,State Senate,54,HELMING,SAM,1,0,1
+Wayne,Rose 02,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Savannah 01,State Senate,54,HELMING,SAM,1,0,1
+Wayne,Savannah 02,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Sodus 01,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Sodus 02,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Sodus 03,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Sodus 04,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Sodus 05,State Senate,54,HELMING,SAM,2,0,2
+Wayne,Sodus 06,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Walworth 01,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Walworth 02,State Senate,54,HELMING,SAM,1,3,4
+Wayne,Walworth 03,State Senate,54,HELMING,SAM,0,1,1
+Wayne,Walworth 04,State Senate,54,HELMING,SAM,1,1,2
+Wayne,Walworth 05,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Williamson 01,State Senate,54,HELMING,SAM,2,0,2
+Wayne,Williamson 02,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Williamson 03,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Williamson 04,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Williamson 05,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Wolcott 01,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Wolcott 02,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Wolcott 03,State Senate,54,HELMING,SAM,1,0,1
+Wayne,Wolcott 04,State Senate,54,HELMING,SAM,0,0,0
+Wayne,Arcadia 01,President,,JORGENSEN/COHEN,LIB,9,1,10
+Wayne,Arcadia 02,President,,JORGENSEN/COHEN,LIB,9,3,12
+Wayne,Arcadia 03,President,,JORGENSEN/COHEN,LIB,9,0,9
+Wayne,Arcadia 04,President,,JORGENSEN/COHEN,LIB,7,0,7
+Wayne,Arcadia 05,President,,JORGENSEN/COHEN,LIB,5,0,5
+Wayne,Arcadia 06,President,,JORGENSEN/COHEN,LIB,5,1,6
+Wayne,Arcadia 07,President,,JORGENSEN/COHEN,LIB,6,1,7
+Wayne,Arcadia 08,President,,JORGENSEN/COHEN,LIB,2,0,2
+Wayne,Arcadia 09,President,,JORGENSEN/COHEN,LIB,6,1,7
+Wayne,Arcadia 10,President,,JORGENSEN/COHEN,LIB,10,1,11
+Wayne,Butler 01,President,,JORGENSEN/COHEN,LIB,6,0,6
+Wayne,Galen 01,President,,JORGENSEN/COHEN,LIB,2,1,3
+Wayne,Galen 02,President,,JORGENSEN/COHEN,LIB,2,0,2
+Wayne,Galen 03,President,,JORGENSEN/COHEN,LIB,6,0,6
+Wayne,Galen 04,President,,JORGENSEN/COHEN,LIB,5,2,7
+Wayne,Huron 01,President,,JORGENSEN/COHEN,LIB,6,1,7
+Wayne,Huron 02,President,,JORGENSEN/COHEN,LIB,5,1,6
+Wayne,Lyons 01,President,,JORGENSEN/COHEN,LIB,4,0,4
+Wayne,Lyons 02,President,,JORGENSEN/COHEN,LIB,2,0,2
+Wayne,Lyons 03,President,,JORGENSEN/COHEN,LIB,4,0,4
+Wayne,Lyons 04,President,,JORGENSEN/COHEN,LIB,6,0,6
+Wayne,Lyons 05,President,,JORGENSEN/COHEN,LIB,10,0,10
+Wayne,Macedon 01,President,,JORGENSEN/COHEN,LIB,11,1,12
+Wayne,Macedon 02,President,,JORGENSEN/COHEN,LIB,11,4,15
+Wayne,Macedon 03,President,,JORGENSEN/COHEN,LIB,14,3,17
+Wayne,Macedon 04,President,,JORGENSEN/COHEN,LIB,22,1,23
+Wayne,Macedon 05,President,,JORGENSEN/COHEN,LIB,11,1,12
+Wayne,Marion 01,President,,JORGENSEN/COHEN,LIB,7,1,8
+Wayne,Marion 02,President,,JORGENSEN/COHEN,LIB,8,3,11
+Wayne,Marion 03,President,,JORGENSEN/COHEN,LIB,7,1,8
+Wayne,Marion 04,President,,JORGENSEN/COHEN,LIB,10,1,11
+Wayne,Ontario 01,President,,JORGENSEN/COHEN,LIB,13,4,17
+Wayne,Ontario 02,President,,JORGENSEN/COHEN,LIB,19,2,21
+Wayne,Ontario 03,President,,JORGENSEN/COHEN,LIB,16,0,16
+Wayne,Ontario 04,President,,JORGENSEN/COHEN,LIB,10,0,10
+Wayne,Ontario 05,President,,JORGENSEN/COHEN,LIB,10,1,11
+Wayne,Ontario 06,President,,JORGENSEN/COHEN,LIB,20,6,26
+Wayne,Palmyra 01,President,,JORGENSEN/COHEN,LIB,8,1,9
+Wayne,Palmyra 02,President,,JORGENSEN/COHEN,LIB,7,1,8
+Wayne,Palmyra 03,President,,JORGENSEN/COHEN,LIB,8,0,8
+Wayne,Palmyra 04,President,,JORGENSEN/COHEN,LIB,10,3,13
+Wayne,Palmyra 05,President,,JORGENSEN/COHEN,LIB,6,2,8
+Wayne,Palmyra 06,President,,JORGENSEN/COHEN,LIB,6,1,7
+Wayne,Rose 01,President,,JORGENSEN/COHEN,LIB,2,0,2
+Wayne,Rose 02,President,,JORGENSEN/COHEN,LIB,4,1,5
+Wayne,Savannah 01,President,,JORGENSEN/COHEN,LIB,0,0,0
+Wayne,Savannah 02,President,,JORGENSEN/COHEN,LIB,5,0,5
+Wayne,Sodus 01,President,,JORGENSEN/COHEN,LIB,2,3,5
+Wayne,Sodus 02,President,,JORGENSEN/COHEN,LIB,7,1,8
+Wayne,Sodus 03,President,,JORGENSEN/COHEN,LIB,3,1,4
+Wayne,Sodus 04,President,,JORGENSEN/COHEN,LIB,8,1,9
+Wayne,Sodus 05,President,,JORGENSEN/COHEN,LIB,7,0,7
+Wayne,Sodus 06,President,,JORGENSEN/COHEN,LIB,12,0,12
+Wayne,Walworth 01,President,,JORGENSEN/COHEN,LIB,5,0,5
+Wayne,Walworth 02,President,,JORGENSEN/COHEN,LIB,31,14,45
+Wayne,Walworth 03,President,,JORGENSEN/COHEN,LIB,14,2,16
+Wayne,Walworth 04,President,,JORGENSEN/COHEN,LIB,14,1,15
+Wayne,Walworth 05,President,,JORGENSEN/COHEN,LIB,15,1,16
+Wayne,Williamson 01,President,,JORGENSEN/COHEN,LIB,15,1,16
+Wayne,Williamson 02,President,,JORGENSEN/COHEN,LIB,7,0,7
+Wayne,Williamson 03,President,,JORGENSEN/COHEN,LIB,24,2,26
+Wayne,Williamson 04,President,,JORGENSEN/COHEN,LIB,16,0,16
+Wayne,Williamson 05,President,,JORGENSEN/COHEN,LIB,13,1,14
+Wayne,Wolcott 01,President,,JORGENSEN/COHEN,LIB,3,1,4
+Wayne,Wolcott 02,President,,JORGENSEN/COHEN,LIB,1,2,3
+Wayne,Wolcott 03,President,,JORGENSEN/COHEN,LIB,4,1,5
+Wayne,Wolcott 04,President,,JORGENSEN/COHEN,LIB,1,0,1
+Wayne,Arcadia 01,President,,KANYE WEST,SCA,0,0,0
+Wayne,Arcadia 02,President,,KANYE WEST,SCA,0,0,0
+Wayne,Arcadia 03,President,,KANYE WEST,SCA,0,0,0
+Wayne,Arcadia 04,President,,KANYE WEST,SCA,0,0,0
+Wayne,Arcadia 05,President,,KANYE WEST,SCA,0,0,0
+Wayne,Arcadia 06,President,,KANYE WEST,SCA,0,0,0
+Wayne,Arcadia 07,President,,KANYE WEST,SCA,0,0,0
+Wayne,Arcadia 08,President,,KANYE WEST,SCA,0,0,0
+Wayne,Arcadia 09,President,,KANYE WEST,SCA,0,0,0
+Wayne,Arcadia 10,President,,KANYE WEST,SCA,1,0,1
+Wayne,Butler 01,President,,KANYE WEST,SCA,0,0,0
+Wayne,Galen 01,President,,KANYE WEST,SCA,0,0,0
+Wayne,Galen 02,President,,KANYE WEST,SCA,0,0,0
+Wayne,Galen 03,President,,KANYE WEST,SCA,0,0,0
+Wayne,Galen 04,President,,KANYE WEST,SCA,0,0,0
+Wayne,Huron 01,President,,KANYE WEST,SCA,0,0,0
+Wayne,Huron 02,President,,KANYE WEST,SCA,0,0,0
+Wayne,Lyons 01,President,,KANYE WEST,SCA,0,0,0
+Wayne,Lyons 02,President,,KANYE WEST,SCA,0,0,0
+Wayne,Lyons 03,President,,KANYE WEST,SCA,0,0,0
+Wayne,Lyons 04,President,,KANYE WEST,SCA,0,0,0
+Wayne,Lyons 05,President,,KANYE WEST,SCA,0,0,0
+Wayne,Macedon 01,President,,KANYE WEST,SCA,0,0,0
+Wayne,Macedon 02,President,,KANYE WEST,SCA,0,0,0
+Wayne,Macedon 03,President,,KANYE WEST,SCA,0,0,0
+Wayne,Macedon 04,President,,KANYE WEST,SCA,0,0,0
+Wayne,Macedon 05,President,,KANYE WEST,SCA,0,0,0
+Wayne,Marion 01,President,,KANYE WEST,SCA,0,0,0
+Wayne,Marion 02,President,,KANYE WEST,SCA,0,0,0
+Wayne,Marion 03,President,,KANYE WEST,SCA,0,0,0
+Wayne,Marion 04,President,,KANYE WEST,SCA,1,0,1
+Wayne,Ontario 01,President,,KANYE WEST,SCA,0,0,0
+Wayne,Ontario 02,President,,KANYE WEST,SCA,1,0,1
+Wayne,Ontario 03,President,,KANYE WEST,SCA,0,0,0
+Wayne,Ontario 04,President,,KANYE WEST,SCA,0,0,0
+Wayne,Ontario 05,President,,KANYE WEST,SCA,0,0,0
+Wayne,Ontario 06,President,,KANYE WEST,SCA,0,0,0
+Wayne,Palmyra 01,President,,KANYE WEST,SCA,0,0,0
+Wayne,Palmyra 02,President,,KANYE WEST,SCA,0,0,0
+Wayne,Palmyra 03,President,,KANYE WEST,SCA,0,0,0
+Wayne,Palmyra 04,President,,KANYE WEST,SCA,0,0,0
+Wayne,Palmyra 05,President,,KANYE WEST,SCA,0,0,0
+Wayne,Palmyra 06,President,,KANYE WEST,SCA,0,0,0
+Wayne,Rose 01,President,,KANYE WEST,SCA,0,0,0
+Wayne,Rose 02,President,,KANYE WEST,SCA,0,0,0
+Wayne,Savannah 01,President,,KANYE WEST,SCA,0,0,0
+Wayne,Savannah 02,President,,KANYE WEST,SCA,0,0,0
+Wayne,Sodus 01,President,,KANYE WEST,SCA,0,0,0
+Wayne,Sodus 02,President,,KANYE WEST,SCA,1,0,1
+Wayne,Sodus 03,President,,KANYE WEST,SCA,0,0,0
+Wayne,Sodus 04,President,,KANYE WEST,SCA,0,0,0
+Wayne,Sodus 05,President,,KANYE WEST,SCA,0,0,0
+Wayne,Sodus 06,President,,KANYE WEST,SCA,0,0,0
+Wayne,Walworth 01,President,,KANYE WEST,SCA,0,0,0
+Wayne,Walworth 02,President,,KANYE WEST,SCA,0,0,0
+Wayne,Walworth 03,President,,KANYE WEST,SCA,0,0,0
+Wayne,Walworth 04,President,,KANYE WEST,SCA,0,0,0
+Wayne,Walworth 05,President,,KANYE WEST,SCA,0,0,0
+Wayne,Williamson 01,President,,KANYE WEST,SCA,3,0,3
+Wayne,Williamson 02,President,,KANYE WEST,SCA,0,0,0
+Wayne,Williamson 03,President,,KANYE WEST,SCA,0,0,0
+Wayne,Williamson 04,President,,KANYE WEST,SCA,0,0,0
+Wayne,Williamson 05,President,,KANYE WEST,SCA,0,0,0
+Wayne,Wolcott 01,President,,KANYE WEST,SCA,0,0,0
+Wayne,Wolcott 02,President,,KANYE WEST,SCA,0,0,0
+Wayne,Wolcott 03,President,,KANYE WEST,SCA,2,0,2
+Wayne,Wolcott 04,President,,KANYE WEST,SCA,0,0,0
+Wayne,Arcadia 01,U.S. House,24,KATKO,REP,435,39,474
+Wayne,Arcadia 02,U.S. House,24,KATKO,REP,365,62,427
+Wayne,Arcadia 03,U.S. House,24,KATKO,REP,190,22,212
+Wayne,Arcadia 04,U.S. House,24,KATKO,REP,158,21,179
+Wayne,Arcadia 05,U.S. House,24,KATKO,REP,190,36,226
+Wayne,Arcadia 06,U.S. House,24,KATKO,REP,286,71,357
+Wayne,Arcadia 07,U.S. House,24,KATKO,REP,186,21,207
+Wayne,Arcadia 08,U.S. House,24,KATKO,REP,144,26,170
+Wayne,Arcadia 09,U.S. House,24,KATKO,REP,168,25,193
+Wayne,Arcadia 10,U.S. House,24,KATKO,REP,325,60,385
+Wayne,Butler 01,U.S. House,24,KATKO,REP,433,49,482
+Wayne,Galen 01,U.S. House,24,KATKO,REP,218,19,237
+Wayne,Galen 02,U.S. House,24,KATKO,REP,222,26,248
+Wayne,Galen 03,U.S. House,24,KATKO,REP,237,32,269
+Wayne,Galen 04,U.S. House,24,KATKO,REP,176,23,199
+Wayne,Huron 01,U.S. House,24,KATKO,REP,230,32,262
+Wayne,Huron 02,U.S. House,24,KATKO,REP,295,27,322
+Wayne,Lyons 01,U.S. House,24,KATKO,REP,204,33,237
+Wayne,Lyons 02,U.S. House,24,KATKO,REP,160,27,187
+Wayne,Lyons 03,U.S. House,24,KATKO,REP,175,22,197
+Wayne,Lyons 04,U.S. House,24,KATKO,REP,199,20,219
+Wayne,Lyons 05,U.S. House,24,KATKO,REP,221,30,251
+Wayne,Macedon 01,U.S. House,24,KATKO,REP,405,60,465
+Wayne,Macedon 02,U.S. House,24,KATKO,REP,565,72,637
+Wayne,Macedon 03,U.S. House,24,KATKO,REP,466,97,563
+Wayne,Macedon 04,U.S. House,24,KATKO,REP,329,50,379
+Wayne,Macedon 05,U.S. House,24,KATKO,REP,351,54,405
+Wayne,Marion 01,U.S. House,24,KATKO,REP,304,35,339
+Wayne,Marion 02,U.S. House,24,KATKO,REP,318,35,353
+Wayne,Marion 03,U.S. House,24,KATKO,REP,339,33,372
+Wayne,Marion 04,U.S. House,24,KATKO,REP,290,30,320
+Wayne,Ontario 01,U.S. House,24,KATKO,REP,461,54,515
+Wayne,Ontario 02,U.S. House,24,KATKO,REP,640,49,689
+Wayne,Ontario 03,U.S. House,24,KATKO,REP,589,70,659
+Wayne,Ontario 04,U.S. House,24,KATKO,REP,267,24,291
+Wayne,Ontario 05,U.S. House,24,KATKO,REP,360,19,379
+Wayne,Ontario 06,U.S. House,24,KATKO,REP,561,93,654
+Wayne,Palmyra 01,U.S. House,24,KATKO,REP,233,23,256
+Wayne,Palmyra 02,U.S. House,24,KATKO,REP,218,19,237
+Wayne,Palmyra 03,U.S. House,24,KATKO,REP,180,16,196
+Wayne,Palmyra 04,U.S. House,24,KATKO,REP,358,32,390
+Wayne,Palmyra 05,U.S. House,24,KATKO,REP,364,24,388
+Wayne,Palmyra 06,U.S. House,24,KATKO,REP,284,35,319
+Wayne,Rose 01,U.S. House,24,KATKO,REP,265,26,291
+Wayne,Rose 02,U.S. House,24,KATKO,REP,294,26,320
+Wayne,Savannah 01,U.S. House,24,KATKO,REP,171,27,198
+Wayne,Savannah 02,U.S. House,24,KATKO,REP,204,20,224
+Wayne,Sodus 01,U.S. House,24,KATKO,REP,188,54,242
+Wayne,Sodus 02,U.S. House,24,KATKO,REP,287,23,310
+Wayne,Sodus 03,U.S. House,24,KATKO,REP,294,23,317
+Wayne,Sodus 04,U.S. House,24,KATKO,REP,355,36,391
+Wayne,Sodus 05,U.S. House,24,KATKO,REP,238,31,269
+Wayne,Sodus 06,U.S. House,24,KATKO,REP,300,35,335
+Wayne,Walworth 01,U.S. House,24,KATKO,REP,328,36,364
+Wayne,Walworth 02,U.S. House,24,KATKO,REP,736,106,842
+Wayne,Walworth 03,U.S. House,24,KATKO,REP,534,43,577
+Wayne,Walworth 04,U.S. House,24,KATKO,REP,420,57,477
+Wayne,Walworth 05,U.S. House,24,KATKO,REP,374,46,420
+Wayne,Williamson 01,U.S. House,24,KATKO,REP,256,21,277
+Wayne,Williamson 02,U.S. House,24,KATKO,REP,396,42,438
+Wayne,Williamson 03,U.S. House,24,KATKO,REP,534,61,595
+Wayne,Williamson 04,U.S. House,24,KATKO,REP,288,20,308
+Wayne,Williamson 05,U.S. House,24,KATKO,REP,393,43,436
+Wayne,Wolcott 01,U.S. House,24,KATKO,REP,217,34,251
+Wayne,Wolcott 02,U.S. House,24,KATKO,REP,117,17,134
+Wayne,Wolcott 03,U.S. House,24,KATKO,REP,259,26,285
+Wayne,Wolcott 04,U.S. House,24,KATKO,REP,312,33,345
+Wayne,Arcadia 01,U.S. House,24,KATKO,CON,85,6,91
+Wayne,Arcadia 02,U.S. House,24,KATKO,CON,50,6,56
+Wayne,Arcadia 03,U.S. House,24,KATKO,CON,26,5,31
+Wayne,Arcadia 04,U.S. House,24,KATKO,CON,16,1,17
+Wayne,Arcadia 05,U.S. House,24,KATKO,CON,23,1,24
+Wayne,Arcadia 06,U.S. House,24,KATKO,CON,37,6,43
+Wayne,Arcadia 07,U.S. House,24,KATKO,CON,21,2,23
+Wayne,Arcadia 08,U.S. House,24,KATKO,CON,23,4,27
+Wayne,Arcadia 09,U.S. House,24,KATKO,CON,29,4,33
+Wayne,Arcadia 10,U.S. House,24,KATKO,CON,47,8,55
+Wayne,Butler 01,U.S. House,24,KATKO,CON,55,7,62
+Wayne,Galen 01,U.S. House,24,KATKO,CON,37,6,43
+Wayne,Galen 02,U.S. House,24,KATKO,CON,21,1,22
+Wayne,Galen 03,U.S. House,24,KATKO,CON,18,3,21
+Wayne,Galen 04,U.S. House,24,KATKO,CON,12,7,19
+Wayne,Huron 01,U.S. House,24,KATKO,CON,21,10,31
+Wayne,Huron 02,U.S. House,24,KATKO,CON,43,11,54
+Wayne,Lyons 01,U.S. House,24,KATKO,CON,22,6,28
+Wayne,Lyons 02,U.S. House,24,KATKO,CON,14,5,19
+Wayne,Lyons 03,U.S. House,24,KATKO,CON,24,2,26
+Wayne,Lyons 04,U.S. House,24,KATKO,CON,42,4,46
+Wayne,Lyons 05,U.S. House,24,KATKO,CON,27,8,35
+Wayne,Macedon 01,U.S. House,24,KATKO,CON,49,5,54
+Wayne,Macedon 02,U.S. House,24,KATKO,CON,85,11,96
+Wayne,Macedon 03,U.S. House,24,KATKO,CON,82,19,101
+Wayne,Macedon 04,U.S. House,24,KATKO,CON,64,6,70
+Wayne,Macedon 05,U.S. House,24,KATKO,CON,42,8,50
+Wayne,Marion 01,U.S. House,24,KATKO,CON,57,6,63
+Wayne,Marion 02,U.S. House,24,KATKO,CON,55,3,58
+Wayne,Marion 03,U.S. House,24,KATKO,CON,69,3,72
+Wayne,Marion 04,U.S. House,24,KATKO,CON,65,1,66
+Wayne,Ontario 01,U.S. House,24,KATKO,CON,68,9,77
+Wayne,Ontario 02,U.S. House,24,KATKO,CON,86,11,97
+Wayne,Ontario 03,U.S. House,24,KATKO,CON,86,2,88
+Wayne,Ontario 04,U.S. House,24,KATKO,CON,48,3,51
+Wayne,Ontario 05,U.S. House,24,KATKO,CON,51,3,54
+Wayne,Ontario 06,U.S. House,24,KATKO,CON,94,7,101
+Wayne,Palmyra 01,U.S. House,24,KATKO,CON,31,1,32
+Wayne,Palmyra 02,U.S. House,24,KATKO,CON,39,7,46
+Wayne,Palmyra 03,U.S. House,24,KATKO,CON,21,4,25
+Wayne,Palmyra 04,U.S. House,24,KATKO,CON,51,3,54
+Wayne,Palmyra 05,U.S. House,24,KATKO,CON,64,5,69
+Wayne,Palmyra 06,U.S. House,24,KATKO,CON,44,9,53
+Wayne,Rose 01,U.S. House,24,KATKO,CON,41,3,44
+Wayne,Rose 02,U.S. House,24,KATKO,CON,32,3,35
+Wayne,Savannah 01,U.S. House,24,KATKO,CON,24,5,29
+Wayne,Savannah 02,U.S. House,24,KATKO,CON,33,2,35
+Wayne,Sodus 01,U.S. House,24,KATKO,CON,36,13,49
+Wayne,Sodus 02,U.S. House,24,KATKO,CON,59,5,64
+Wayne,Sodus 03,U.S. House,24,KATKO,CON,59,4,63
+Wayne,Sodus 04,U.S. House,24,KATKO,CON,64,3,67
+Wayne,Sodus 05,U.S. House,24,KATKO,CON,46,1,47
+Wayne,Sodus 06,U.S. House,24,KATKO,CON,61,7,68
+Wayne,Walworth 01,U.S. House,24,KATKO,CON,82,5,87
+Wayne,Walworth 02,U.S. House,24,KATKO,CON,151,20,171
+Wayne,Walworth 03,U.S. House,24,KATKO,CON,74,11,85
+Wayne,Walworth 04,U.S. House,24,KATKO,CON,65,7,72
+Wayne,Walworth 05,U.S. House,24,KATKO,CON,73,5,78
+Wayne,Williamson 01,U.S. House,24,KATKO,CON,33,2,35
+Wayne,Williamson 02,U.S. House,24,KATKO,CON,66,6,72
+Wayne,Williamson 03,U.S. House,24,KATKO,CON,80,7,87
+Wayne,Williamson 04,U.S. House,24,KATKO,CON,48,4,52
+Wayne,Williamson 05,U.S. House,24,KATKO,CON,62,10,72
+Wayne,Wolcott 01,U.S. House,24,KATKO,CON,22,2,24
+Wayne,Wolcott 02,U.S. House,24,KATKO,CON,13,1,14
+Wayne,Wolcott 03,U.S. House,24,KATKO,CON,27,2,29
+Wayne,Wolcott 04,U.S. House,24,KATKO,CON,42,5,47
+Wayne,Arcadia 01,U.S. House,24,KATKO,IND,4,0,4
+Wayne,Arcadia 02,U.S. House,24,KATKO,IND,8,0,8
+Wayne,Arcadia 03,U.S. House,24,KATKO,IND,6,1,7
+Wayne,Arcadia 04,U.S. House,24,KATKO,IND,3,0,3
+Wayne,Arcadia 05,U.S. House,24,KATKO,IND,5,0,5
+Wayne,Arcadia 06,U.S. House,24,KATKO,IND,5,4,9
+Wayne,Arcadia 07,U.S. House,24,KATKO,IND,4,1,5
+Wayne,Arcadia 08,U.S. House,24,KATKO,IND,2,0,2
+Wayne,Arcadia 09,U.S. House,24,KATKO,IND,3,0,3
+Wayne,Arcadia 10,U.S. House,24,KATKO,IND,2,0,2
+Wayne,Butler 01,U.S. House,24,KATKO,IND,5,2,7
+Wayne,Galen 01,U.S. House,24,KATKO,IND,7,0,7
+Wayne,Galen 02,U.S. House,24,KATKO,IND,2,0,2
+Wayne,Galen 03,U.S. House,24,KATKO,IND,5,0,5
+Wayne,Galen 04,U.S. House,24,KATKO,IND,4,0,4
+Wayne,Huron 01,U.S. House,24,KATKO,IND,4,0,4
+Wayne,Huron 02,U.S. House,24,KATKO,IND,2,0,2
+Wayne,Lyons 01,U.S. House,24,KATKO,IND,2,0,2
+Wayne,Lyons 02,U.S. House,24,KATKO,IND,1,0,1
+Wayne,Lyons 03,U.S. House,24,KATKO,IND,5,1,6
+Wayne,Lyons 04,U.S. House,24,KATKO,IND,5,0,5
+Wayne,Lyons 05,U.S. House,24,KATKO,IND,3,2,5
+Wayne,Macedon 01,U.S. House,24,KATKO,IND,7,4,11
+Wayne,Macedon 02,U.S. House,24,KATKO,IND,5,6,11
+Wayne,Macedon 03,U.S. House,24,KATKO,IND,8,7,15
+Wayne,Macedon 04,U.S. House,24,KATKO,IND,8,0,8
+Wayne,Macedon 05,U.S. House,24,KATKO,IND,7,0,7
+Wayne,Marion 01,U.S. House,24,KATKO,IND,2,2,4
+Wayne,Marion 02,U.S. House,24,KATKO,IND,4,2,6
+Wayne,Marion 03,U.S. House,24,KATKO,IND,2,3,5
+Wayne,Marion 04,U.S. House,24,KATKO,IND,2,0,2
+Wayne,Ontario 01,U.S. House,24,KATKO,IND,6,1,7
+Wayne,Ontario 02,U.S. House,24,KATKO,IND,11,0,11
+Wayne,Ontario 03,U.S. House,24,KATKO,IND,7,1,8
+Wayne,Ontario 04,U.S. House,24,KATKO,IND,2,1,3
+Wayne,Ontario 05,U.S. House,24,KATKO,IND,10,3,13
+Wayne,Ontario 06,U.S. House,24,KATKO,IND,14,6,20
+Wayne,Palmyra 01,U.S. House,24,KATKO,IND,6,1,7
+Wayne,Palmyra 02,U.S. House,24,KATKO,IND,7,2,9
+Wayne,Palmyra 03,U.S. House,24,KATKO,IND,7,2,9
+Wayne,Palmyra 04,U.S. House,24,KATKO,IND,4,2,6
+Wayne,Palmyra 05,U.S. House,24,KATKO,IND,6,1,7
+Wayne,Palmyra 06,U.S. House,24,KATKO,IND,2,1,3
+Wayne,Rose 01,U.S. House,24,KATKO,IND,5,1,6
+Wayne,Rose 02,U.S. House,24,KATKO,IND,3,1,4
+Wayne,Savannah 01,U.S. House,24,KATKO,IND,2,0,2
+Wayne,Savannah 02,U.S. House,24,KATKO,IND,2,0,2
+Wayne,Sodus 01,U.S. House,24,KATKO,IND,3,2,5
+Wayne,Sodus 02,U.S. House,24,KATKO,IND,5,1,6
+Wayne,Sodus 03,U.S. House,24,KATKO,IND,6,0,6
+Wayne,Sodus 04,U.S. House,24,KATKO,IND,4,1,5
+Wayne,Sodus 05,U.S. House,24,KATKO,IND,3,1,4
+Wayne,Sodus 06,U.S. House,24,KATKO,IND,4,0,4
+Wayne,Walworth 01,U.S. House,24,KATKO,IND,7,2,9
+Wayne,Walworth 02,U.S. House,24,KATKO,IND,17,9,26
+Wayne,Walworth 03,U.S. House,24,KATKO,IND,12,3,15
+Wayne,Walworth 04,U.S. House,24,KATKO,IND,2,1,3
+Wayne,Walworth 05,U.S. House,24,KATKO,IND,9,0,9
+Wayne,Williamson 01,U.S. House,24,KATKO,IND,5,0,5
+Wayne,Williamson 02,U.S. House,24,KATKO,IND,15,0,15
+Wayne,Williamson 03,U.S. House,24,KATKO,IND,9,2,11
+Wayne,Williamson 04,U.S. House,24,KATKO,IND,9,0,9
+Wayne,Williamson 05,U.S. House,24,KATKO,IND,5,1,6
+Wayne,Wolcott 01,U.S. House,24,KATKO,IND,3,0,3
+Wayne,Wolcott 02,U.S. House,24,KATKO,IND,1,0,1
+Wayne,Wolcott 03,U.S. House,24,KATKO,IND,4,0,4
+Wayne,Wolcott 04,U.S. House,24,KATKO,IND,5,0,5
+Wayne,Arcadia 01,State Assembly,130,MANKTELOW,REP,472,42,514
+Wayne,Arcadia 02,State Assembly,130,MANKTELOW,REP,398,64,462
+Wayne,Arcadia 03,State Assembly,130,MANKTELOW,REP,207,22,229
+Wayne,Arcadia 04,State Assembly,130,MANKTELOW,REP,172,25,197
+Wayne,Arcadia 05,State Assembly,130,MANKTELOW,REP,203,38,241
+Wayne,Arcadia 06,State Assembly,130,MANKTELOW,REP,314,66,380
+Wayne,Arcadia 07,State Assembly,130,MANKTELOW,REP,213,23,236
+Wayne,Arcadia 08,State Assembly,130,MANKTELOW,REP,152,24,176
+Wayne,Arcadia 09,State Assembly,130,MANKTELOW,REP,174,35,209
+Wayne,Arcadia 10,State Assembly,130,MANKTELOW,REP,341,66,407
+Wayne,Butler 01,State Assembly,130,MANKTELOW,REP,444,54,498
+Wayne,Galen 01,State Assembly,130,MANKTELOW,REP,249,25,274
+Wayne,Galen 02,State Assembly,130,MANKTELOW,REP,241,32,273
+Wayne,Galen 03,State Assembly,130,MANKTELOW,REP,245,36,281
+Wayne,Galen 04,State Assembly,130,MANKTELOW,REP,201,28,229
+Wayne,Huron 01,State Assembly,130,MANKTELOW,REP,238,34,272
+Wayne,Huron 02,State Assembly,130,MANKTELOW,REP,305,30,335
+Wayne,Lyons 01,State Assembly,130,MANKTELOW,REP,231,50,281
+Wayne,Lyons 02,State Assembly,130,MANKTELOW,REP,198,32,230
+Wayne,Lyons 03,State Assembly,130,MANKTELOW,REP,232,33,265
+Wayne,Lyons 04,State Assembly,130,MANKTELOW,REP,257,25,282
+Wayne,Lyons 05,State Assembly,130,MANKTELOW,REP,250,32,282
+Wayne,Macedon 01,State Assembly,130,MANKTELOW,REP,401,62,463
+Wayne,Macedon 02,State Assembly,130,MANKTELOW,REP,557,73,630
+Wayne,Macedon 03,State Assembly,130,MANKTELOW,REP,473,105,578
+Wayne,Macedon 04,State Assembly,130,MANKTELOW,REP,334,48,382
+Wayne,Macedon 05,State Assembly,130,MANKTELOW,REP,359,51,410
+Wayne,Marion 01,State Assembly,130,MANKTELOW,REP,324,38,362
+Wayne,Marion 02,State Assembly,130,MANKTELOW,REP,351,39,390
+Wayne,Marion 03,State Assembly,130,MANKTELOW,REP,359,34,393
+Wayne,Marion 04,State Assembly,130,MANKTELOW,REP,304,34,338
+Wayne,Ontario 01,State Assembly,130,MANKTELOW,REP,461,61,522
+Wayne,Ontario 02,State Assembly,130,MANKTELOW,REP,641,56,697
+Wayne,Ontario 03,State Assembly,130,MANKTELOW,REP,588,67,655
+Wayne,Ontario 04,State Assembly,130,MANKTELOW,REP,285,23,308
+Wayne,Ontario 05,State Assembly,130,MANKTELOW,REP,365,21,386
+Wayne,Ontario 06,State Assembly,130,MANKTELOW,REP,580,91,671
+Wayne,Palmyra 01,State Assembly,130,MANKTELOW,REP,246,25,271
+Wayne,Palmyra 02,State Assembly,130,MANKTELOW,REP,225,17,242
+Wayne,Palmyra 03,State Assembly,130,MANKTELOW,REP,190,25,215
+Wayne,Palmyra 04,State Assembly,130,MANKTELOW,REP,351,36,387
+Wayne,Palmyra 05,State Assembly,130,MANKTELOW,REP,383,26,409
+Wayne,Palmyra 06,State Assembly,130,MANKTELOW,REP,291,42,333
+Wayne,Rose 01,State Assembly,130,MANKTELOW,REP,279,30,309
+Wayne,Rose 02,State Assembly,130,MANKTELOW,REP,314,22,336
+Wayne,Savannah 01,State Assembly,130,MANKTELOW,REP,177,24,201
+Wayne,Savannah 02,State Assembly,130,MANKTELOW,REP,223,21,244
+Wayne,Sodus 01,State Assembly,130,MANKTELOW,REP,203,55,258
+Wayne,Sodus 02,State Assembly,130,MANKTELOW,REP,316,27,343
+Wayne,Sodus 03,State Assembly,130,MANKTELOW,REP,327,26,353
+Wayne,Sodus 04,State Assembly,130,MANKTELOW,REP,392,43,435
+Wayne,Sodus 05,State Assembly,130,MANKTELOW,REP,272,37,309
+Wayne,Sodus 06,State Assembly,130,MANKTELOW,REP,311,38,349
+Wayne,Walworth 01,State Assembly,130,MANKTELOW,REP,340,40,380
+Wayne,Walworth 02,State Assembly,130,MANKTELOW,REP,737,121,858
+Wayne,Walworth 03,State Assembly,130,MANKTELOW,REP,532,46,578
+Wayne,Walworth 04,State Assembly,130,MANKTELOW,REP,426,58,484
+Wayne,Walworth 05,State Assembly,130,MANKTELOW,REP,396,49,445
+Wayne,Williamson 01,State Assembly,130,MANKTELOW,REP,281,23,304
+Wayne,Williamson 02,State Assembly,130,MANKTELOW,REP,450,41,491
+Wayne,Williamson 03,State Assembly,130,MANKTELOW,REP,582,73,655
+Wayne,Williamson 04,State Assembly,130,MANKTELOW,REP,323,21,344
+Wayne,Williamson 05,State Assembly,130,MANKTELOW,REP,424,48,472
+Wayne,Wolcott 01,State Assembly,130,MANKTELOW,REP,220,35,255
+Wayne,Wolcott 02,State Assembly,130,MANKTELOW,REP,121,16,137
+Wayne,Wolcott 03,State Assembly,130,MANKTELOW,REP,255,31,286
+Wayne,Wolcott 04,State Assembly,130,MANKTELOW,REP,300,36,336
+Wayne,Arcadia 01,State Assembly,130,MANKTELOW,CON,96,6,102
+Wayne,Arcadia 02,State Assembly,130,MANKTELOW,CON,66,7,73
+Wayne,Arcadia 03,State Assembly,130,MANKTELOW,CON,30,6,36
+Wayne,Arcadia 04,State Assembly,130,MANKTELOW,CON,24,4,28
+Wayne,Arcadia 05,State Assembly,130,MANKTELOW,CON,28,2,30
+Wayne,Arcadia 06,State Assembly,130,MANKTELOW,CON,41,8,49
+Wayne,Arcadia 07,State Assembly,130,MANKTELOW,CON,29,6,35
+Wayne,Arcadia 08,State Assembly,130,MANKTELOW,CON,28,3,31
+Wayne,Arcadia 09,State Assembly,130,MANKTELOW,CON,38,3,41
+Wayne,Arcadia 10,State Assembly,130,MANKTELOW,CON,49,20,69
+Wayne,Butler 01,State Assembly,130,MANKTELOW,CON,65,8,73
+Wayne,Galen 01,State Assembly,130,MANKTELOW,CON,47,4,51
+Wayne,Galen 02,State Assembly,130,MANKTELOW,CON,26,2,28
+Wayne,Galen 03,State Assembly,130,MANKTELOW,CON,24,4,28
+Wayne,Galen 04,State Assembly,130,MANKTELOW,CON,21,6,27
+Wayne,Huron 01,State Assembly,130,MANKTELOW,CON,29,9,38
+Wayne,Huron 02,State Assembly,130,MANKTELOW,CON,51,14,65
+Wayne,Lyons 01,State Assembly,130,MANKTELOW,CON,31,9,40
+Wayne,Lyons 02,State Assembly,130,MANKTELOW,CON,25,11,36
+Wayne,Lyons 03,State Assembly,130,MANKTELOW,CON,34,5,39
+Wayne,Lyons 04,State Assembly,130,MANKTELOW,CON,51,6,57
+Wayne,Lyons 05,State Assembly,130,MANKTELOW,CON,32,10,42
+Wayne,Macedon 01,State Assembly,130,MANKTELOW,CON,51,7,58
+Wayne,Macedon 02,State Assembly,130,MANKTELOW,CON,82,11,93
+Wayne,Macedon 03,State Assembly,130,MANKTELOW,CON,84,22,106
+Wayne,Macedon 04,State Assembly,130,MANKTELOW,CON,71,8,79
+Wayne,Macedon 05,State Assembly,130,MANKTELOW,CON,41,6,47
+Wayne,Marion 01,State Assembly,130,MANKTELOW,CON,61,9,70
+Wayne,Marion 02,State Assembly,130,MANKTELOW,CON,58,4,62
+Wayne,Marion 03,State Assembly,130,MANKTELOW,CON,76,4,80
+Wayne,Marion 04,State Assembly,130,MANKTELOW,CON,73,3,76
+Wayne,Ontario 01,State Assembly,130,MANKTELOW,CON,74,10,84
+Wayne,Ontario 02,State Assembly,130,MANKTELOW,CON,89,12,101
+Wayne,Ontario 03,State Assembly,130,MANKTELOW,CON,88,6,94
+Wayne,Ontario 04,State Assembly,130,MANKTELOW,CON,52,8,60
+Wayne,Ontario 05,State Assembly,130,MANKTELOW,CON,57,5,62
+Wayne,Ontario 06,State Assembly,130,MANKTELOW,CON,97,11,108
+Wayne,Palmyra 01,State Assembly,130,MANKTELOW,CON,32,1,33
+Wayne,Palmyra 02,State Assembly,130,MANKTELOW,CON,40,8,48
+Wayne,Palmyra 03,State Assembly,130,MANKTELOW,CON,18,2,20
+Wayne,Palmyra 04,State Assembly,130,MANKTELOW,CON,58,6,64
+Wayne,Palmyra 05,State Assembly,130,MANKTELOW,CON,75,4,79
+Wayne,Palmyra 06,State Assembly,130,MANKTELOW,CON,51,10,61
+Wayne,Rose 01,State Assembly,130,MANKTELOW,CON,51,2,53
+Wayne,Rose 02,State Assembly,130,MANKTELOW,CON,37,4,41
+Wayne,Savannah 01,State Assembly,130,MANKTELOW,CON,24,7,31
+Wayne,Savannah 02,State Assembly,130,MANKTELOW,CON,32,2,34
+Wayne,Sodus 01,State Assembly,130,MANKTELOW,CON,38,15,53
+Wayne,Sodus 02,State Assembly,130,MANKTELOW,CON,65,9,74
+Wayne,Sodus 03,State Assembly,130,MANKTELOW,CON,60,5,65
+Wayne,Sodus 04,State Assembly,130,MANKTELOW,CON,65,5,70
+Wayne,Sodus 05,State Assembly,130,MANKTELOW,CON,54,4,58
+Wayne,Sodus 06,State Assembly,130,MANKTELOW,CON,66,9,75
+Wayne,Walworth 01,State Assembly,130,MANKTELOW,CON,81,4,85
+Wayne,Walworth 02,State Assembly,130,MANKTELOW,CON,156,17,173
+Wayne,Walworth 03,State Assembly,130,MANKTELOW,CON,77,12,89
+Wayne,Walworth 04,State Assembly,130,MANKTELOW,CON,76,8,84
+Wayne,Walworth 05,State Assembly,130,MANKTELOW,CON,81,7,88
+Wayne,Williamson 01,State Assembly,130,MANKTELOW,CON,35,3,38
+Wayne,Williamson 02,State Assembly,130,MANKTELOW,CON,77,8,85
+Wayne,Williamson 03,State Assembly,130,MANKTELOW,CON,98,6,104
+Wayne,Williamson 04,State Assembly,130,MANKTELOW,CON,55,5,60
+Wayne,Williamson 05,State Assembly,130,MANKTELOW,CON,68,9,77
+Wayne,Wolcott 01,State Assembly,130,MANKTELOW,CON,29,2,31
+Wayne,Wolcott 02,State Assembly,130,MANKTELOW,CON,15,3,18
+Wayne,Wolcott 03,State Assembly,130,MANKTELOW,CON,36,2,38
+Wayne,Wolcott 04,State Assembly,130,MANKTELOW,CON,44,5,49
+Wayne,Arcadia 01,State Assembly,130,MANKTELOW,IND,11,1,12
+Wayne,Arcadia 02,State Assembly,130,MANKTELOW,IND,10,2,12
+Wayne,Arcadia 03,State Assembly,130,MANKTELOW,IND,10,2,12
+Wayne,Arcadia 04,State Assembly,130,MANKTELOW,IND,7,0,7
+Wayne,Arcadia 05,State Assembly,130,MANKTELOW,IND,8,1,9
+Wayne,Arcadia 06,State Assembly,130,MANKTELOW,IND,5,9,14
+Wayne,Arcadia 07,State Assembly,130,MANKTELOW,IND,10,1,11
+Wayne,Arcadia 08,State Assembly,130,MANKTELOW,IND,8,0,8
+Wayne,Arcadia 09,State Assembly,130,MANKTELOW,IND,7,0,7
+Wayne,Arcadia 10,State Assembly,130,MANKTELOW,IND,5,0,5
+Wayne,Butler 01,State Assembly,130,MANKTELOW,IND,7,4,11
+Wayne,Galen 01,State Assembly,130,MANKTELOW,IND,12,0,12
+Wayne,Galen 02,State Assembly,130,MANKTELOW,IND,2,0,2
+Wayne,Galen 03,State Assembly,130,MANKTELOW,IND,7,1,8
+Wayne,Galen 04,State Assembly,130,MANKTELOW,IND,7,1,8
+Wayne,Huron 01,State Assembly,130,MANKTELOW,IND,6,0,6
+Wayne,Huron 02,State Assembly,130,MANKTELOW,IND,3,1,4
+Wayne,Lyons 01,State Assembly,130,MANKTELOW,IND,3,2,5
+Wayne,Lyons 02,State Assembly,130,MANKTELOW,IND,7,0,7
+Wayne,Lyons 03,State Assembly,130,MANKTELOW,IND,7,3,10
+Wayne,Lyons 04,State Assembly,130,MANKTELOW,IND,11,1,12
+Wayne,Lyons 05,State Assembly,130,MANKTELOW,IND,4,3,7
+Wayne,Macedon 01,State Assembly,130,MANKTELOW,IND,7,5,12
+Wayne,Macedon 02,State Assembly,130,MANKTELOW,IND,9,5,14
+Wayne,Macedon 03,State Assembly,130,MANKTELOW,IND,14,7,21
+Wayne,Macedon 04,State Assembly,130,MANKTELOW,IND,5,0,5
+Wayne,Macedon 05,State Assembly,130,MANKTELOW,IND,9,2,11
+Wayne,Marion 01,State Assembly,130,MANKTELOW,IND,3,2,5
+Wayne,Marion 02,State Assembly,130,MANKTELOW,IND,6,1,7
+Wayne,Marion 03,State Assembly,130,MANKTELOW,IND,6,3,9
+Wayne,Marion 04,State Assembly,130,MANKTELOW,IND,3,1,4
+Wayne,Ontario 01,State Assembly,130,MANKTELOW,IND,6,2,8
+Wayne,Ontario 02,State Assembly,130,MANKTELOW,IND,14,1,15
+Wayne,Ontario 03,State Assembly,130,MANKTELOW,IND,11,2,13
+Wayne,Ontario 04,State Assembly,130,MANKTELOW,IND,3,1,4
+Wayne,Ontario 05,State Assembly,130,MANKTELOW,IND,10,2,12
+Wayne,Ontario 06,State Assembly,130,MANKTELOW,IND,18,15,33
+Wayne,Palmyra 01,State Assembly,130,MANKTELOW,IND,8,1,9
+Wayne,Palmyra 02,State Assembly,130,MANKTELOW,IND,7,3,10
+Wayne,Palmyra 03,State Assembly,130,MANKTELOW,IND,11,3,14
+Wayne,Palmyra 04,State Assembly,130,MANKTELOW,IND,5,1,6
+Wayne,Palmyra 05,State Assembly,130,MANKTELOW,IND,13,1,14
+Wayne,Palmyra 06,State Assembly,130,MANKTELOW,IND,6,2,8
+Wayne,Rose 01,State Assembly,130,MANKTELOW,IND,5,2,7
+Wayne,Rose 02,State Assembly,130,MANKTELOW,IND,2,1,3
+Wayne,Savannah 01,State Assembly,130,MANKTELOW,IND,3,0,3
+Wayne,Savannah 02,State Assembly,130,MANKTELOW,IND,2,0,2
+Wayne,Sodus 01,State Assembly,130,MANKTELOW,IND,4,4,8
+Wayne,Sodus 02,State Assembly,130,MANKTELOW,IND,10,2,12
+Wayne,Sodus 03,State Assembly,130,MANKTELOW,IND,11,0,11
+Wayne,Sodus 04,State Assembly,130,MANKTELOW,IND,7,1,8
+Wayne,Sodus 05,State Assembly,130,MANKTELOW,IND,7,3,10
+Wayne,Sodus 06,State Assembly,130,MANKTELOW,IND,6,0,6
+Wayne,Walworth 01,State Assembly,130,MANKTELOW,IND,9,3,12
+Wayne,Walworth 02,State Assembly,130,MANKTELOW,IND,18,9,27
+Wayne,Walworth 03,State Assembly,130,MANKTELOW,IND,16,1,17
+Wayne,Walworth 04,State Assembly,130,MANKTELOW,IND,5,3,8
+Wayne,Walworth 05,State Assembly,130,MANKTELOW,IND,9,3,12
+Wayne,Williamson 01,State Assembly,130,MANKTELOW,IND,10,3,13
+Wayne,Williamson 02,State Assembly,130,MANKTELOW,IND,19,1,20
+Wayne,Williamson 03,State Assembly,130,MANKTELOW,IND,15,2,17
+Wayne,Williamson 04,State Assembly,130,MANKTELOW,IND,14,0,14
+Wayne,Williamson 05,State Assembly,130,MANKTELOW,IND,12,1,13
+Wayne,Wolcott 01,State Assembly,130,MANKTELOW,IND,4,2,6
+Wayne,Wolcott 02,State Assembly,130,MANKTELOW,IND,1,0,1
+Wayne,Wolcott 03,State Assembly,130,MANKTELOW,IND,4,0,4
+Wayne,Wolcott 04,State Assembly,130,MANKTELOW,IND,5,0,5
+Wayne,Arcadia 01,U.S. House,24,O'TOOLE,DEM,143,32,175
+Wayne,Arcadia 02,U.S. House,24,O'TOOLE,DEM,154,66,220
+Wayne,Arcadia 03,U.S. House,24,O'TOOLE,DEM,139,50,189
+Wayne,Arcadia 04,U.S. House,24,O'TOOLE,DEM,109,40,149
+Wayne,Arcadia 05,U.S. House,24,O'TOOLE,DEM,118,27,145
+Wayne,Arcadia 06,U.S. House,24,O'TOOLE,DEM,189,70,259
+Wayne,Arcadia 07,U.S. House,24,O'TOOLE,DEM,115,35,150
+Wayne,Arcadia 08,U.S. House,24,O'TOOLE,DEM,112,34,146
+Wayne,Arcadia 09,U.S. House,24,O'TOOLE,DEM,131,45,176
+Wayne,Arcadia 10,U.S. House,24,O'TOOLE,DEM,131,70,201
+Wayne,Butler 01,U.S. House,24,O'TOOLE,DEM,89,43,132
+Wayne,Galen 01,U.S. House,24,O'TOOLE,DEM,61,23,84
+Wayne,Galen 02,U.S. House,24,O'TOOLE,DEM,62,32,94
+Wayne,Galen 03,U.S. House,24,O'TOOLE,DEM,91,36,127
+Wayne,Galen 04,U.S. House,24,O'TOOLE,DEM,102,26,128
+Wayne,Huron 01,U.S. House,24,O'TOOLE,DEM,83,35,118
+Wayne,Huron 02,U.S. House,24,O'TOOLE,DEM,94,37,131
+Wayne,Lyons 01,U.S. House,24,O'TOOLE,DEM,61,32,93
+Wayne,Lyons 02,U.S. House,24,O'TOOLE,DEM,82,37,119
+Wayne,Lyons 03,U.S. House,24,O'TOOLE,DEM,106,33,139
+Wayne,Lyons 04,U.S. House,24,O'TOOLE,DEM,105,32,137
+Wayne,Lyons 05,U.S. House,24,O'TOOLE,DEM,33,22,55
+Wayne,Macedon 01,U.S. House,24,O'TOOLE,DEM,237,120,357
+Wayne,Macedon 02,U.S. House,24,O'TOOLE,DEM,322,115,437
+Wayne,Macedon 03,U.S. House,24,O'TOOLE,DEM,204,119,323
+Wayne,Macedon 04,U.S. House,24,O'TOOLE,DEM,146,53,199
+Wayne,Macedon 05,U.S. House,24,O'TOOLE,DEM,186,59,245
+Wayne,Marion 01,U.S. House,24,O'TOOLE,DEM,92,43,135
+Wayne,Marion 02,U.S. House,24,O'TOOLE,DEM,70,19,89
+Wayne,Marion 03,U.S. House,24,O'TOOLE,DEM,136,40,176
+Wayne,Marion 04,U.S. House,24,O'TOOLE,DEM,94,19,113
+Wayne,Ontario 01,U.S. House,24,O'TOOLE,DEM,153,63,216
+Wayne,Ontario 02,U.S. House,24,O'TOOLE,DEM,294,120,414
+Wayne,Ontario 03,U.S. House,24,O'TOOLE,DEM,239,68,307
+Wayne,Ontario 04,U.S. House,24,O'TOOLE,DEM,94,28,122
+Wayne,Ontario 05,U.S. House,24,O'TOOLE,DEM,169,37,206
+Wayne,Ontario 06,U.S. House,24,O'TOOLE,DEM,227,128,355
+Wayne,Palmyra 01,U.S. House,24,O'TOOLE,DEM,136,39,175
+Wayne,Palmyra 02,U.S. House,24,O'TOOLE,DEM,142,43,185
+Wayne,Palmyra 03,U.S. House,24,O'TOOLE,DEM,122,50,172
+Wayne,Palmyra 04,U.S. House,24,O'TOOLE,DEM,156,50,206
+Wayne,Palmyra 05,U.S. House,24,O'TOOLE,DEM,125,39,164
+Wayne,Palmyra 06,U.S. House,24,O'TOOLE,DEM,92,46,138
+Wayne,Rose 01,U.S. House,24,O'TOOLE,DEM,91,30,121
+Wayne,Rose 02,U.S. House,24,O'TOOLE,DEM,83,27,110
+Wayne,Savannah 01,U.S. House,24,O'TOOLE,DEM,48,15,63
+Wayne,Savannah 02,U.S. House,24,O'TOOLE,DEM,56,15,71
+Wayne,Sodus 01,U.S. House,24,O'TOOLE,DEM,126,41,167
+Wayne,Sodus 02,U.S. House,24,O'TOOLE,DEM,83,27,110
+Wayne,Sodus 03,U.S. House,24,O'TOOLE,DEM,113,31,144
+Wayne,Sodus 04,U.S. House,24,O'TOOLE,DEM,124,34,158
+Wayne,Sodus 05,U.S. House,24,O'TOOLE,DEM,164,56,220
+Wayne,Sodus 06,U.S. House,24,O'TOOLE,DEM,136,39,175
+Wayne,Walworth 01,U.S. House,24,O'TOOLE,DEM,144,41,185
+Wayne,Walworth 02,U.S. House,24,O'TOOLE,DEM,523,254,777
+Wayne,Walworth 03,U.S. House,24,O'TOOLE,DEM,187,63,250
+Wayne,Walworth 04,U.S. House,24,O'TOOLE,DEM,269,86,355
+Wayne,Walworth 05,U.S. House,24,O'TOOLE,DEM,161,70,231
+Wayne,Williamson 01,U.S. House,24,O'TOOLE,DEM,126,38,164
+Wayne,Williamson 02,U.S. House,24,O'TOOLE,DEM,154,62,216
+Wayne,Williamson 03,U.S. House,24,O'TOOLE,DEM,202,60,262
+Wayne,Williamson 04,U.S. House,24,O'TOOLE,DEM,127,22,149
+Wayne,Williamson 05,U.S. House,24,O'TOOLE,DEM,139,60,199
+Wayne,Wolcott 01,U.S. House,24,O'TOOLE,DEM,81,32,113
+Wayne,Wolcott 02,U.S. House,24,O'TOOLE,DEM,19,19,38
+Wayne,Wolcott 03,U.S. House,24,O'TOOLE,DEM,64,23,87
+Wayne,Wolcott 04,U.S. House,24,O'TOOLE,DEM,94,43,137
+Wayne,Arcadia 01,President,,Over Votes,,1,0,1
+Wayne,Arcadia 02,President,,Over Votes,,0,1,1
+Wayne,Arcadia 03,President,,Over Votes,,1,0,1
+Wayne,Arcadia 04,President,,Over Votes,,0,0,0
+Wayne,Arcadia 05,President,,Over Votes,,2,1,3
+Wayne,Arcadia 06,President,,Over Votes,,2,0,2
+Wayne,Arcadia 07,President,,Over Votes,,1,1,2
+Wayne,Arcadia 08,President,,Over Votes,,0,0,0
+Wayne,Arcadia 09,President,,Over Votes,,3,0,3
+Wayne,Arcadia 10,President,,Over Votes,,0,1,1
+Wayne,Butler 01,President,,Over Votes,,0,1,1
+Wayne,Galen 01,President,,Over Votes,,1,0,1
+Wayne,Galen 02,President,,Over Votes,,0,1,1
+Wayne,Galen 03,President,,Over Votes,,1,0,1
+Wayne,Galen 04,President,,Over Votes,,1,0,1
+Wayne,Huron 01,President,,Over Votes,,0,0,0
+Wayne,Huron 02,President,,Over Votes,,2,0,2
+Wayne,Lyons 01,President,,Over Votes,,0,0,0
+Wayne,Lyons 02,President,,Over Votes,,0,3,3
+Wayne,Lyons 03,President,,Over Votes,,0,3,3
+Wayne,Lyons 04,President,,Over Votes,,0,3,3
+Wayne,Lyons 05,President,,Over Votes,,0,0,0
+Wayne,Macedon 01,President,,Over Votes,,1,0,1
+Wayne,Macedon 02,President,,Over Votes,,3,0,3
+Wayne,Macedon 03,President,,Over Votes,,1,1,2
+Wayne,Macedon 04,President,,Over Votes,,3,4,7
+Wayne,Macedon 05,President,,Over Votes,,3,0,3
+Wayne,Marion 01,President,,Over Votes,,0,0,0
+Wayne,Marion 02,President,,Over Votes,,0,0,0
+Wayne,Marion 03,President,,Over Votes,,0,0,0
+Wayne,Marion 04,President,,Over Votes,,0,0,0
+Wayne,Ontario 01,President,,Over Votes,,2,1,3
+Wayne,Ontario 02,President,,Over Votes,,2,1,3
+Wayne,Ontario 03,President,,Over Votes,,4,0,4
+Wayne,Ontario 04,President,,Over Votes,,2,1,3
+Wayne,Ontario 05,President,,Over Votes,,3,1,4
+Wayne,Ontario 06,President,,Over Votes,,1,2,3
+Wayne,Palmyra 01,President,,Over Votes,,1,0,1
+Wayne,Palmyra 02,President,,Over Votes,,0,0,0
+Wayne,Palmyra 03,President,,Over Votes,,0,0,0
+Wayne,Palmyra 04,President,,Over Votes,,0,1,1
+Wayne,Palmyra 05,President,,Over Votes,,1,0,1
+Wayne,Palmyra 06,President,,Over Votes,,0,0,0
+Wayne,Rose 01,President,,Over Votes,,0,0,0
+Wayne,Rose 02,President,,Over Votes,,1,0,1
+Wayne,Savannah 01,President,,Over Votes,,0,0,0
+Wayne,Savannah 02,President,,Over Votes,,0,0,0
+Wayne,Sodus 01,President,,Over Votes,,0,1,1
+Wayne,Sodus 02,President,,Over Votes,,1,0,1
+Wayne,Sodus 03,President,,Over Votes,,0,0,0
+Wayne,Sodus 04,President,,Over Votes,,1,0,1
+Wayne,Sodus 05,President,,Over Votes,,3,0,3
+Wayne,Sodus 06,President,,Over Votes,,1,0,1
+Wayne,Walworth 01,President,,Over Votes,,1,0,1
+Wayne,Walworth 02,President,,Over Votes,,1,2,3
+Wayne,Walworth 03,President,,Over Votes,,2,0,2
+Wayne,Walworth 04,President,,Over Votes,,4,1,5
+Wayne,Walworth 05,President,,Over Votes,,3,0,3
+Wayne,Williamson 01,President,,Over Votes,,0,1,1
+Wayne,Williamson 02,President,,Over Votes,,5,0,5
+Wayne,Williamson 03,President,,Over Votes,,1,0,1
+Wayne,Williamson 04,President,,Over Votes,,1,0,1
+Wayne,Williamson 05,President,,Over Votes,,0,0,0
+Wayne,Wolcott 01,President,,Over Votes,,0,0,0
+Wayne,Wolcott 02,President,,Over Votes,,0,2,2
+Wayne,Wolcott 03,President,,Over Votes,,0,0,0
+Wayne,Wolcott 04,President,,Over Votes,,0,1,1
+Wayne,Arcadia 01,U.S. House,24,Over Votes,,0,0,0
+Wayne,Arcadia 02,U.S. House,24,Over Votes,,0,0,0
+Wayne,Arcadia 03,U.S. House,24,Over Votes,,0,0,0
+Wayne,Arcadia 04,U.S. House,24,Over Votes,,1,0,1
+Wayne,Arcadia 05,U.S. House,24,Over Votes,,0,1,1
+Wayne,Arcadia 06,U.S. House,24,Over Votes,,1,0,1
+Wayne,Arcadia 07,U.S. House,24,Over Votes,,0,0,0
+Wayne,Arcadia 08,U.S. House,24,Over Votes,,0,0,0
+Wayne,Arcadia 09,U.S. House,24,Over Votes,,1,0,1
+Wayne,Arcadia 10,U.S. House,24,Over Votes,,0,0,0
+Wayne,Butler 01,U.S. House,24,Over Votes,,1,1,2
+Wayne,Galen 01,U.S. House,24,Over Votes,,0,1,1
+Wayne,Galen 02,U.S. House,24,Over Votes,,0,1,1
+Wayne,Galen 03,U.S. House,24,Over Votes,,1,0,1
+Wayne,Galen 04,U.S. House,24,Over Votes,,1,0,1
+Wayne,Huron 01,U.S. House,24,Over Votes,,0,0,0
+Wayne,Huron 02,U.S. House,24,Over Votes,,0,0,0
+Wayne,Lyons 01,U.S. House,24,Over Votes,,0,1,1
+Wayne,Lyons 02,U.S. House,24,Over Votes,,1,1,2
+Wayne,Lyons 03,U.S. House,24,Over Votes,,2,1,3
+Wayne,Lyons 04,U.S. House,24,Over Votes,,1,1,2
+Wayne,Lyons 05,U.S. House,24,Over Votes,,0,0,0
+Wayne,Macedon 01,U.S. House,24,Over Votes,,0,1,1
+Wayne,Macedon 02,U.S. House,24,Over Votes,,0,1,1
+Wayne,Macedon 03,U.S. House,24,Over Votes,,0,0,0
+Wayne,Macedon 04,U.S. House,24,Over Votes,,1,0,1
+Wayne,Macedon 05,U.S. House,24,Over Votes,,0,0,0
+Wayne,Marion 01,U.S. House,24,Over Votes,,0,0,0
+Wayne,Marion 02,U.S. House,24,Over Votes,,0,0,0
+Wayne,Marion 03,U.S. House,24,Over Votes,,1,0,1
+Wayne,Marion 04,U.S. House,24,Over Votes,,0,0,0
+Wayne,Ontario 01,U.S. House,24,Over Votes,,0,0,0
+Wayne,Ontario 02,U.S. House,24,Over Votes,,0,0,0
+Wayne,Ontario 03,U.S. House,24,Over Votes,,0,0,0
+Wayne,Ontario 04,U.S. House,24,Over Votes,,1,0,1
+Wayne,Ontario 05,U.S. House,24,Over Votes,,0,0,0
+Wayne,Ontario 06,U.S. House,24,Over Votes,,0,0,0
+Wayne,Palmyra 01,U.S. House,24,Over Votes,,0,0,0
+Wayne,Palmyra 02,U.S. House,24,Over Votes,,0,0,0
+Wayne,Palmyra 03,U.S. House,24,Over Votes,,0,0,0
+Wayne,Palmyra 04,U.S. House,24,Over Votes,,0,1,1
+Wayne,Palmyra 05,U.S. House,24,Over Votes,,1,0,1
+Wayne,Palmyra 06,U.S. House,24,Over Votes,,0,0,0
+Wayne,Rose 01,U.S. House,24,Over Votes,,0,0,0
+Wayne,Rose 02,U.S. House,24,Over Votes,,0,0,0
+Wayne,Savannah 01,U.S. House,24,Over Votes,,1,0,1
+Wayne,Savannah 02,U.S. House,24,Over Votes,,0,0,0
+Wayne,Sodus 01,U.S. House,24,Over Votes,,0,1,1
+Wayne,Sodus 02,U.S. House,24,Over Votes,,2,0,2
+Wayne,Sodus 03,U.S. House,24,Over Votes,,1,0,1
+Wayne,Sodus 04,U.S. House,24,Over Votes,,0,0,0
+Wayne,Sodus 05,U.S. House,24,Over Votes,,4,1,5
+Wayne,Sodus 06,U.S. House,24,Over Votes,,1,0,1
+Wayne,Walworth 01,U.S. House,24,Over Votes,,0,0,0
+Wayne,Walworth 02,U.S. House,24,Over Votes,,0,1,1
+Wayne,Walworth 03,U.S. House,24,Over Votes,,0,0,0
+Wayne,Walworth 04,U.S. House,24,Over Votes,,0,0,0
+Wayne,Walworth 05,U.S. House,24,Over Votes,,0,1,1
+Wayne,Williamson 01,U.S. House,24,Over Votes,,0,0,0
+Wayne,Williamson 02,U.S. House,24,Over Votes,,0,0,0
+Wayne,Williamson 03,U.S. House,24,Over Votes,,3,0,3
+Wayne,Williamson 04,U.S. House,24,Over Votes,,0,0,0
+Wayne,Williamson 05,U.S. House,24,Over Votes,,0,0,0
+Wayne,Wolcott 01,U.S. House,24,Over Votes,,0,0,0
+Wayne,Wolcott 02,U.S. House,24,Over Votes,,0,0,0
+Wayne,Wolcott 03,U.S. House,24,Over Votes,,0,0,0
+Wayne,Wolcott 04,U.S. House,24,Over Votes,,0,0,0
+Wayne,Arcadia 01,State Senate,54,Over Votes,,0,0,0
+Wayne,Arcadia 02,State Senate,54,Over Votes,,0,0,0
+Wayne,Arcadia 03,State Senate,54,Over Votes,,0,0,0
+Wayne,Arcadia 04,State Senate,54,Over Votes,,0,0,0
+Wayne,Arcadia 05,State Senate,54,Over Votes,,0,1,1
+Wayne,Arcadia 06,State Senate,54,Over Votes,,1,0,1
+Wayne,Arcadia 07,State Senate,54,Over Votes,,0,0,0
+Wayne,Arcadia 08,State Senate,54,Over Votes,,0,1,1
+Wayne,Arcadia 09,State Senate,54,Over Votes,,0,0,0
+Wayne,Arcadia 10,State Senate,54,Over Votes,,0,0,0
+Wayne,Butler 01,State Senate,54,Over Votes,,0,0,0
+Wayne,Galen 01,State Senate,54,Over Votes,,0,0,0
+Wayne,Galen 02,State Senate,54,Over Votes,,0,0,0
+Wayne,Galen 03,State Senate,54,Over Votes,,0,0,0
+Wayne,Galen 04,State Senate,54,Over Votes,,0,0,0
+Wayne,Huron 01,State Senate,54,Over Votes,,0,0,0
+Wayne,Huron 02,State Senate,54,Over Votes,,0,0,0
+Wayne,Lyons 01,State Senate,54,Over Votes,,0,0,0
+Wayne,Lyons 02,State Senate,54,Over Votes,,0,1,1
+Wayne,Lyons 03,State Senate,54,Over Votes,,0,1,1
+Wayne,Lyons 04,State Senate,54,Over Votes,,1,1,2
+Wayne,Lyons 05,State Senate,54,Over Votes,,0,0,0
+Wayne,Macedon 01,State Senate,54,Over Votes,,0,0,0
+Wayne,Macedon 02,State Senate,54,Over Votes,,0,0,0
+Wayne,Macedon 03,State Senate,54,Over Votes,,0,0,0
+Wayne,Macedon 04,State Senate,54,Over Votes,,0,0,0
+Wayne,Macedon 05,State Senate,54,Over Votes,,0,0,0
+Wayne,Marion 01,State Senate,54,Over Votes,,0,0,0
+Wayne,Marion 02,State Senate,54,Over Votes,,0,0,0
+Wayne,Marion 03,State Senate,54,Over Votes,,0,0,0
+Wayne,Marion 04,State Senate,54,Over Votes,,0,0,0
+Wayne,Ontario 01,State Senate,54,Over Votes,,0,0,0
+Wayne,Ontario 02,State Senate,54,Over Votes,,0,0,0
+Wayne,Ontario 03,State Senate,54,Over Votes,,0,0,0
+Wayne,Ontario 04,State Senate,54,Over Votes,,0,0,0
+Wayne,Ontario 05,State Senate,54,Over Votes,,0,0,0
+Wayne,Ontario 06,State Senate,54,Over Votes,,0,0,0
+Wayne,Palmyra 01,State Senate,54,Over Votes,,0,0,0
+Wayne,Palmyra 02,State Senate,54,Over Votes,,0,0,0
+Wayne,Palmyra 03,State Senate,54,Over Votes,,0,0,0
+Wayne,Palmyra 04,State Senate,54,Over Votes,,0,1,1
+Wayne,Palmyra 05,State Senate,54,Over Votes,,0,0,0
+Wayne,Palmyra 06,State Senate,54,Over Votes,,1,0,1
+Wayne,Rose 01,State Senate,54,Over Votes,,0,0,0
+Wayne,Rose 02,State Senate,54,Over Votes,,0,0,0
+Wayne,Savannah 01,State Senate,54,Over Votes,,1,0,1
+Wayne,Savannah 02,State Senate,54,Over Votes,,0,0,0
+Wayne,Sodus 01,State Senate,54,Over Votes,,1,1,2
+Wayne,Sodus 02,State Senate,54,Over Votes,,2,0,2
+Wayne,Sodus 03,State Senate,54,Over Votes,,1,0,1
+Wayne,Sodus 04,State Senate,54,Over Votes,,0,0,0
+Wayne,Sodus 05,State Senate,54,Over Votes,,1,0,1
+Wayne,Sodus 06,State Senate,54,Over Votes,,1,0,1
+Wayne,Walworth 01,State Senate,54,Over Votes,,0,0,0
+Wayne,Walworth 02,State Senate,54,Over Votes,,0,0,0
+Wayne,Walworth 03,State Senate,54,Over Votes,,0,0,0
+Wayne,Walworth 04,State Senate,54,Over Votes,,0,0,0
+Wayne,Walworth 05,State Senate,54,Over Votes,,0,0,0
+Wayne,Williamson 01,State Senate,54,Over Votes,,0,0,0
+Wayne,Williamson 02,State Senate,54,Over Votes,,0,0,0
+Wayne,Williamson 03,State Senate,54,Over Votes,,0,0,0
+Wayne,Williamson 04,State Senate,54,Over Votes,,0,0,0
+Wayne,Williamson 05,State Senate,54,Over Votes,,0,0,0
+Wayne,Wolcott 01,State Senate,54,Over Votes,,0,0,0
+Wayne,Wolcott 02,State Senate,54,Over Votes,,0,0,0
+Wayne,Wolcott 03,State Senate,54,Over Votes,,0,0,0
+Wayne,Wolcott 04,State Senate,54,Over Votes,,0,0,0
+Wayne,Arcadia 01,State Assembly,130,Over Votes,,1,0,1
+Wayne,Arcadia 02,State Assembly,130,Over Votes,,0,0,0
+Wayne,Arcadia 03,State Assembly,130,Over Votes,,0,0,0
+Wayne,Arcadia 04,State Assembly,130,Over Votes,,1,0,1
+Wayne,Arcadia 05,State Assembly,130,Over Votes,,0,1,1
+Wayne,Arcadia 06,State Assembly,130,Over Votes,,0,0,0
+Wayne,Arcadia 07,State Assembly,130,Over Votes,,0,0,0
+Wayne,Arcadia 08,State Assembly,130,Over Votes,,0,1,1
+Wayne,Arcadia 09,State Assembly,130,Over Votes,,0,0,0
+Wayne,Arcadia 10,State Assembly,130,Over Votes,,0,0,0
+Wayne,Butler 01,State Assembly,130,Over Votes,,0,0,0
+Wayne,Galen 01,State Assembly,130,Over Votes,,1,0,1
+Wayne,Galen 02,State Assembly,130,Over Votes,,0,0,0
+Wayne,Galen 03,State Assembly,130,Over Votes,,0,0,0
+Wayne,Galen 04,State Assembly,130,Over Votes,,0,0,0
+Wayne,Huron 01,State Assembly,130,Over Votes,,1,0,1
+Wayne,Huron 02,State Assembly,130,Over Votes,,1,0,1
+Wayne,Lyons 01,State Assembly,130,Over Votes,,0,0,0
+Wayne,Lyons 02,State Assembly,130,Over Votes,,0,1,1
+Wayne,Lyons 03,State Assembly,130,Over Votes,,0,1,1
+Wayne,Lyons 04,State Assembly,130,Over Votes,,1,1,2
+Wayne,Lyons 05,State Assembly,130,Over Votes,,0,0,0
+Wayne,Macedon 01,State Assembly,130,Over Votes,,0,0,0
+Wayne,Macedon 02,State Assembly,130,Over Votes,,1,0,1
+Wayne,Macedon 03,State Assembly,130,Over Votes,,0,1,1
+Wayne,Macedon 04,State Assembly,130,Over Votes,,0,0,0
+Wayne,Macedon 05,State Assembly,130,Over Votes,,0,1,1
+Wayne,Marion 01,State Assembly,130,Over Votes,,0,0,0
+Wayne,Marion 02,State Assembly,130,Over Votes,,0,0,0
+Wayne,Marion 03,State Assembly,130,Over Votes,,0,0,0
+Wayne,Marion 04,State Assembly,130,Over Votes,,0,0,0
+Wayne,Ontario 01,State Assembly,130,Over Votes,,0,0,0
+Wayne,Ontario 02,State Assembly,130,Over Votes,,0,0,0
+Wayne,Ontario 03,State Assembly,130,Over Votes,,0,0,0
+Wayne,Ontario 04,State Assembly,130,Over Votes,,0,0,0
+Wayne,Ontario 05,State Assembly,130,Over Votes,,0,0,0
+Wayne,Ontario 06,State Assembly,130,Over Votes,,0,0,0
+Wayne,Palmyra 01,State Assembly,130,Over Votes,,0,0,0
+Wayne,Palmyra 02,State Assembly,130,Over Votes,,0,0,0
+Wayne,Palmyra 03,State Assembly,130,Over Votes,,0,0,0
+Wayne,Palmyra 04,State Assembly,130,Over Votes,,0,1,1
+Wayne,Palmyra 05,State Assembly,130,Over Votes,,0,0,0
+Wayne,Palmyra 06,State Assembly,130,Over Votes,,2,0,2
+Wayne,Rose 01,State Assembly,130,Over Votes,,0,0,0
+Wayne,Rose 02,State Assembly,130,Over Votes,,0,0,0
+Wayne,Savannah 01,State Assembly,130,Over Votes,,0,0,0
+Wayne,Savannah 02,State Assembly,130,Over Votes,,0,0,0
+Wayne,Sodus 01,State Assembly,130,Over Votes,,0,1,1
+Wayne,Sodus 02,State Assembly,130,Over Votes,,2,0,2
+Wayne,Sodus 03,State Assembly,130,Over Votes,,1,0,1
+Wayne,Sodus 04,State Assembly,130,Over Votes,,0,0,0
+Wayne,Sodus 05,State Assembly,130,Over Votes,,0,0,0
+Wayne,Sodus 06,State Assembly,130,Over Votes,,0,0,0
+Wayne,Walworth 01,State Assembly,130,Over Votes,,0,0,0
+Wayne,Walworth 02,State Assembly,130,Over Votes,,0,0,0
+Wayne,Walworth 03,State Assembly,130,Over Votes,,0,0,0
+Wayne,Walworth 04,State Assembly,130,Over Votes,,0,0,0
+Wayne,Walworth 05,State Assembly,130,Over Votes,,0,0,0
+Wayne,Williamson 01,State Assembly,130,Over Votes,,0,0,0
+Wayne,Williamson 02,State Assembly,130,Over Votes,,0,0,0
+Wayne,Williamson 03,State Assembly,130,Over Votes,,1,0,1
+Wayne,Williamson 04,State Assembly,130,Over Votes,,0,0,0
+Wayne,Williamson 05,State Assembly,130,Over Votes,,0,0,0
+Wayne,Wolcott 01,State Assembly,130,Over Votes,,0,0,0
+Wayne,Wolcott 02,State Assembly,130,Over Votes,,0,0,0
+Wayne,Wolcott 03,State Assembly,130,Over Votes,,0,0,0
+Wayne,Wolcott 04,State Assembly,130,Over Votes,,0,0,0
+Wayne,Arcadia 01,President,,PIERCE/BALLARD,IND,4,0,4
+Wayne,Arcadia 02,President,,PIERCE/BALLARD,IND,2,5,7
+Wayne,Arcadia 03,President,,PIERCE/BALLARD,IND,2,1,3
+Wayne,Arcadia 04,President,,PIERCE/BALLARD,IND,1,1,2
+Wayne,Arcadia 05,President,,PIERCE/BALLARD,IND,3,1,4
+Wayne,Arcadia 06,President,,PIERCE/BALLARD,IND,7,3,10
+Wayne,Arcadia 07,President,,PIERCE/BALLARD,IND,1,0,1
+Wayne,Arcadia 08,President,,PIERCE/BALLARD,IND,0,0,0
+Wayne,Arcadia 09,President,,PIERCE/BALLARD,IND,3,0,3
+Wayne,Arcadia 10,President,,PIERCE/BALLARD,IND,0,0,0
+Wayne,Butler 01,President,,PIERCE/BALLARD,IND,4,1,5
+Wayne,Galen 01,President,,PIERCE/BALLARD,IND,1,1,2
+Wayne,Galen 02,President,,PIERCE/BALLARD,IND,1,0,1
+Wayne,Galen 03,President,,PIERCE/BALLARD,IND,1,0,1
+Wayne,Galen 04,President,,PIERCE/BALLARD,IND,1,0,1
+Wayne,Huron 01,President,,PIERCE/BALLARD,IND,2,2,4
+Wayne,Huron 02,President,,PIERCE/BALLARD,IND,2,0,2
+Wayne,Lyons 01,President,,PIERCE/BALLARD,IND,2,0,2
+Wayne,Lyons 02,President,,PIERCE/BALLARD,IND,2,0,2
+Wayne,Lyons 03,President,,PIERCE/BALLARD,IND,2,0,2
+Wayne,Lyons 04,President,,PIERCE/BALLARD,IND,4,0,4
+Wayne,Lyons 05,President,,PIERCE/BALLARD,IND,4,0,4
+Wayne,Macedon 01,President,,PIERCE/BALLARD,IND,2,5,7
+Wayne,Macedon 02,President,,PIERCE/BALLARD,IND,0,1,1
+Wayne,Macedon 03,President,,PIERCE/BALLARD,IND,5,1,6
+Wayne,Macedon 04,President,,PIERCE/BALLARD,IND,3,1,4
+Wayne,Macedon 05,President,,PIERCE/BALLARD,IND,1,0,1
+Wayne,Marion 01,President,,PIERCE/BALLARD,IND,3,0,3
+Wayne,Marion 02,President,,PIERCE/BALLARD,IND,4,1,5
+Wayne,Marion 03,President,,PIERCE/BALLARD,IND,4,1,5
+Wayne,Marion 04,President,,PIERCE/BALLARD,IND,4,0,4
+Wayne,Ontario 01,President,,PIERCE/BALLARD,IND,2,0,2
+Wayne,Ontario 02,President,,PIERCE/BALLARD,IND,5,1,6
+Wayne,Ontario 03,President,,PIERCE/BALLARD,IND,7,0,7
+Wayne,Ontario 04,President,,PIERCE/BALLARD,IND,2,2,4
+Wayne,Ontario 05,President,,PIERCE/BALLARD,IND,1,1,2
+Wayne,Ontario 06,President,,PIERCE/BALLARD,IND,7,3,10
+Wayne,Palmyra 01,President,,PIERCE/BALLARD,IND,2,0,2
+Wayne,Palmyra 02,President,,PIERCE/BALLARD,IND,3,0,3
+Wayne,Palmyra 03,President,,PIERCE/BALLARD,IND,3,0,3
+Wayne,Palmyra 04,President,,PIERCE/BALLARD,IND,4,0,4
+Wayne,Palmyra 05,President,,PIERCE/BALLARD,IND,2,0,2
+Wayne,Palmyra 06,President,,PIERCE/BALLARD,IND,2,0,2
+Wayne,Rose 01,President,,PIERCE/BALLARD,IND,1,0,1
+Wayne,Rose 02,President,,PIERCE/BALLARD,IND,1,1,2
+Wayne,Savannah 01,President,,PIERCE/BALLARD,IND,0,0,0
+Wayne,Savannah 02,President,,PIERCE/BALLARD,IND,2,0,2
+Wayne,Sodus 01,President,,PIERCE/BALLARD,IND,2,0,2
+Wayne,Sodus 02,President,,PIERCE/BALLARD,IND,3,0,3
+Wayne,Sodus 03,President,,PIERCE/BALLARD,IND,1,0,1
+Wayne,Sodus 04,President,,PIERCE/BALLARD,IND,2,1,3
+Wayne,Sodus 05,President,,PIERCE/BALLARD,IND,3,1,4
+Wayne,Sodus 06,President,,PIERCE/BALLARD,IND,1,0,1
+Wayne,Walworth 01,President,,PIERCE/BALLARD,IND,7,2,9
+Wayne,Walworth 02,President,,PIERCE/BALLARD,IND,3,1,4
+Wayne,Walworth 03,President,,PIERCE/BALLARD,IND,5,0,5
+Wayne,Walworth 04,President,,PIERCE/BALLARD,IND,3,0,3
+Wayne,Walworth 05,President,,PIERCE/BALLARD,IND,4,1,5
+Wayne,Williamson 01,President,,PIERCE/BALLARD,IND,0,0,0
+Wayne,Williamson 02,President,,PIERCE/BALLARD,IND,4,2,6
+Wayne,Williamson 03,President,,PIERCE/BALLARD,IND,3,2,5
+Wayne,Williamson 04,President,,PIERCE/BALLARD,IND,2,1,3
+Wayne,Williamson 05,President,,PIERCE/BALLARD,IND,2,0,2
+Wayne,Wolcott 01,President,,PIERCE/BALLARD,IND,1,0,1
+Wayne,Wolcott 02,President,,PIERCE/BALLARD,IND,0,0,0
+Wayne,Wolcott 03,President,,PIERCE/BALLARD,IND,3,0,3
+Wayne,Wolcott 04,President,,PIERCE/BALLARD,IND,2,0,2
+Wayne,Arcadia 01,U.S. House,24,Write-ins,,0,0,0
+Wayne,Arcadia 02,U.S. House,24,Write-ins,,0,0,0
+Wayne,Arcadia 03,U.S. House,24,Write-ins,,0,0,0
+Wayne,Arcadia 04,U.S. House,24,Write-ins,,0,0,0
+Wayne,Arcadia 05,U.S. House,24,Write-ins,,0,0,0
+Wayne,Arcadia 06,U.S. House,24,Write-ins,,0,0,0
+Wayne,Arcadia 07,U.S. House,24,Write-ins,,0,0,0
+Wayne,Arcadia 08,U.S. House,24,Write-ins,,0,0,0
+Wayne,Arcadia 09,U.S. House,24,Write-ins,,0,0,0
+Wayne,Arcadia 10,U.S. House,24,Write-ins,,0,0,0
+Wayne,Butler 01,U.S. House,24,Write-ins,,0,0,0
+Wayne,Galen 01,U.S. House,24,Write-ins,,0,0,0
+Wayne,Galen 02,U.S. House,24,Write-ins,,0,0,0
+Wayne,Galen 03,U.S. House,24,Write-ins,,0,0,0
+Wayne,Galen 04,U.S. House,24,Write-ins,,0,0,0
+Wayne,Huron 01,U.S. House,24,Write-ins,,0,0,0
+Wayne,Huron 02,U.S. House,24,Write-ins,,0,0,0
+Wayne,Lyons 01,U.S. House,24,Write-ins,,0,0,0
+Wayne,Lyons 02,U.S. House,24,Write-ins,,0,1,1
+Wayne,Lyons 03,U.S. House,24,Write-ins,,0,0,0
+Wayne,Lyons 04,U.S. House,24,Write-ins,,0,0,0
+Wayne,Lyons 05,U.S. House,24,Write-ins,,0,0,0
+Wayne,Macedon 01,U.S. House,24,Write-ins,,0,0,0
+Wayne,Macedon 02,U.S. House,24,Write-ins,,0,0,0
+Wayne,Macedon 03,U.S. House,24,Write-ins,,0,0,0
+Wayne,Macedon 04,U.S. House,24,Write-ins,,0,0,0
+Wayne,Macedon 05,U.S. House,24,Write-ins,,0,0,0
+Wayne,Marion 01,U.S. House,24,Write-ins,,0,0,0
+Wayne,Marion 02,U.S. House,24,Write-ins,,0,0,0
+Wayne,Marion 03,U.S. House,24,Write-ins,,0,0,0
+Wayne,Marion 04,U.S. House,24,Write-ins,,0,0,0
+Wayne,Ontario 01,U.S. House,24,Write-ins,,0,0,0
+Wayne,Ontario 02,U.S. House,24,Write-ins,,0,0,0
+Wayne,Ontario 03,U.S. House,24,Write-ins,,0,0,0
+Wayne,Ontario 04,U.S. House,24,Write-ins,,0,0,0
+Wayne,Ontario 05,U.S. House,24,Write-ins,,1,0,1
+Wayne,Ontario 06,U.S. House,24,Write-ins,,0,0,0
+Wayne,Palmyra 01,U.S. House,24,Write-ins,,0,0,0
+Wayne,Palmyra 02,U.S. House,24,Write-ins,,0,0,0
+Wayne,Palmyra 03,U.S. House,24,Write-ins,,0,0,0
+Wayne,Palmyra 04,U.S. House,24,Write-ins,,0,0,0
+Wayne,Palmyra 05,U.S. House,24,Write-ins,,0,0,0
+Wayne,Palmyra 06,U.S. House,24,Write-ins,,0,0,0
+Wayne,Rose 01,U.S. House,24,Write-ins,,0,0,0
+Wayne,Rose 02,U.S. House,24,Write-ins,,0,0,0
+Wayne,Savannah 01,U.S. House,24,Write-ins,,0,0,0
+Wayne,Savannah 02,U.S. House,24,Write-ins,,0,0,0
+Wayne,Sodus 01,U.S. House,24,Write-ins,,0,0,0
+Wayne,Sodus 02,U.S. House,24,Write-ins,,0,0,0
+Wayne,Sodus 03,U.S. House,24,Write-ins,,0,0,0
+Wayne,Sodus 04,U.S. House,24,Write-ins,,2,0,2
+Wayne,Sodus 05,U.S. House,24,Write-ins,,0,0,0
+Wayne,Sodus 06,U.S. House,24,Write-ins,,0,0,0
+Wayne,Walworth 01,U.S. House,24,Write-ins,,1,0,1
+Wayne,Walworth 02,U.S. House,24,Write-ins,,0,0,0
+Wayne,Walworth 03,U.S. House,24,Write-ins,,0,0,0
+Wayne,Walworth 04,U.S. House,24,Write-ins,,0,0,0
+Wayne,Walworth 05,U.S. House,24,Write-ins,,1,0,1
+Wayne,Williamson 01,U.S. House,24,Write-ins,,0,0,0
+Wayne,Williamson 02,U.S. House,24,Write-ins,,1,0,1
+Wayne,Williamson 03,U.S. House,24,Write-ins,,0,0,0
+Wayne,Williamson 04,U.S. House,24,Write-ins,,0,0,0
+Wayne,Williamson 05,U.S. House,24,Write-ins,,0,0,0
+Wayne,Wolcott 01,U.S. House,24,Write-ins,,0,0,0
+Wayne,Wolcott 02,U.S. House,24,Write-ins,,0,0,0
+Wayne,Wolcott 03,U.S. House,24,Write-ins,,0,0,0
+Wayne,Wolcott 04,U.S. House,24,Write-ins,,0,0,0
+Wayne,Arcadia 01,State Senate,54,Write-ins,,0,0,0
+Wayne,Arcadia 02,State Senate,54,Write-ins,,0,0,0
+Wayne,Arcadia 03,State Senate,54,Write-ins,,0,1,1
+Wayne,Arcadia 04,State Senate,54,Write-ins,,0,0,0
+Wayne,Arcadia 05,State Senate,54,Write-ins,,0,0,0
+Wayne,Arcadia 06,State Senate,54,Write-ins,,0,0,0
+Wayne,Arcadia 07,State Senate,54,Write-ins,,0,0,0
+Wayne,Arcadia 08,State Senate,54,Write-ins,,0,0,0
+Wayne,Arcadia 09,State Senate,54,Write-ins,,0,0,0
+Wayne,Arcadia 10,State Senate,54,Write-ins,,0,0,0
+Wayne,Butler 01,State Senate,54,Write-ins,,0,0,0
+Wayne,Galen 01,State Senate,54,Write-ins,,0,0,0
+Wayne,Galen 02,State Senate,54,Write-ins,,0,0,0
+Wayne,Galen 03,State Senate,54,Write-ins,,0,0,0
+Wayne,Galen 04,State Senate,54,Write-ins,,0,0,0
+Wayne,Huron 01,State Senate,54,Write-ins,,0,0,0
+Wayne,Huron 02,State Senate,54,Write-ins,,0,0,0
+Wayne,Lyons 01,State Senate,54,Write-ins,,0,0,0
+Wayne,Lyons 02,State Senate,54,Write-ins,,0,1,1
+Wayne,Lyons 03,State Senate,54,Write-ins,,0,0,0
+Wayne,Lyons 04,State Senate,54,Write-ins,,0,0,0
+Wayne,Lyons 05,State Senate,54,Write-ins,,0,0,0
+Wayne,Macedon 01,State Senate,54,Write-ins,,0,0,0
+Wayne,Macedon 02,State Senate,54,Write-ins,,0,0,0
+Wayne,Macedon 03,State Senate,54,Write-ins,,0,0,0
+Wayne,Macedon 04,State Senate,54,Write-ins,,1,0,1
+Wayne,Macedon 05,State Senate,54,Write-ins,,0,0,0
+Wayne,Marion 01,State Senate,54,Write-ins,,0,0,0
+Wayne,Marion 02,State Senate,54,Write-ins,,0,0,0
+Wayne,Marion 03,State Senate,54,Write-ins,,0,0,0
+Wayne,Marion 04,State Senate,54,Write-ins,,0,0,0
+Wayne,Ontario 01,State Senate,54,Write-ins,,0,0,0
+Wayne,Ontario 02,State Senate,54,Write-ins,,0,0,0
+Wayne,Ontario 03,State Senate,54,Write-ins,,0,1,1
+Wayne,Ontario 04,State Senate,54,Write-ins,,0,0,0
+Wayne,Ontario 05,State Senate,54,Write-ins,,1,0,1
+Wayne,Ontario 06,State Senate,54,Write-ins,,0,0,0
+Wayne,Palmyra 01,State Senate,54,Write-ins,,1,0,1
+Wayne,Palmyra 02,State Senate,54,Write-ins,,0,0,0
+Wayne,Palmyra 03,State Senate,54,Write-ins,,0,0,0
+Wayne,Palmyra 04,State Senate,54,Write-ins,,0,0,0
+Wayne,Palmyra 05,State Senate,54,Write-ins,,0,0,0
+Wayne,Palmyra 06,State Senate,54,Write-ins,,0,0,0
+Wayne,Rose 01,State Senate,54,Write-ins,,0,0,0
+Wayne,Rose 02,State Senate,54,Write-ins,,0,0,0
+Wayne,Savannah 01,State Senate,54,Write-ins,,0,0,0
+Wayne,Savannah 02,State Senate,54,Write-ins,,0,0,0
+Wayne,Sodus 01,State Senate,54,Write-ins,,0,0,0
+Wayne,Sodus 02,State Senate,54,Write-ins,,1,0,1
+Wayne,Sodus 03,State Senate,54,Write-ins,,0,0,0
+Wayne,Sodus 04,State Senate,54,Write-ins,,1,0,1
+Wayne,Sodus 05,State Senate,54,Write-ins,,0,0,0
+Wayne,Sodus 06,State Senate,54,Write-ins,,0,0,0
+Wayne,Walworth 01,State Senate,54,Write-ins,,1,0,1
+Wayne,Walworth 02,State Senate,54,Write-ins,,0,0,0
+Wayne,Walworth 03,State Senate,54,Write-ins,,0,0,0
+Wayne,Walworth 04,State Senate,54,Write-ins,,0,0,0
+Wayne,Walworth 05,State Senate,54,Write-ins,,1,0,1
+Wayne,Williamson 01,State Senate,54,Write-ins,,0,0,0
+Wayne,Williamson 02,State Senate,54,Write-ins,,1,0,1
+Wayne,Williamson 03,State Senate,54,Write-ins,,0,0,0
+Wayne,Williamson 04,State Senate,54,Write-ins,,0,0,0
+Wayne,Williamson 05,State Senate,54,Write-ins,,0,0,0
+Wayne,Wolcott 01,State Senate,54,Write-ins,,0,0,0
+Wayne,Wolcott 02,State Senate,54,Write-ins,,0,0,0
+Wayne,Wolcott 03,State Senate,54,Write-ins,,0,0,0
+Wayne,Wolcott 04,State Senate,54,Write-ins,,0,0,0
+Wayne,Arcadia 01,State Assembly,130,Write-ins,,0,0,0
+Wayne,Arcadia 02,State Assembly,130,Write-ins,,0,0,0
+Wayne,Arcadia 03,State Assembly,130,Write-ins,,0,0,0
+Wayne,Arcadia 04,State Assembly,130,Write-ins,,0,0,0
+Wayne,Arcadia 05,State Assembly,130,Write-ins,,0,0,0
+Wayne,Arcadia 06,State Assembly,130,Write-ins,,0,0,0
+Wayne,Arcadia 07,State Assembly,130,Write-ins,,0,0,0
+Wayne,Arcadia 08,State Assembly,130,Write-ins,,0,0,0
+Wayne,Arcadia 09,State Assembly,130,Write-ins,,0,0,0
+Wayne,Arcadia 10,State Assembly,130,Write-ins,,0,0,0
+Wayne,Butler 01,State Assembly,130,Write-ins,,0,0,0
+Wayne,Galen 01,State Assembly,130,Write-ins,,0,0,0
+Wayne,Galen 02,State Assembly,130,Write-ins,,0,0,0
+Wayne,Galen 03,State Assembly,130,Write-ins,,0,0,0
+Wayne,Galen 04,State Assembly,130,Write-ins,,0,0,0
+Wayne,Huron 01,State Assembly,130,Write-ins,,0,0,0
+Wayne,Huron 02,State Assembly,130,Write-ins,,0,0,0
+Wayne,Lyons 01,State Assembly,130,Write-ins,,0,0,0
+Wayne,Lyons 02,State Assembly,130,Write-ins,,0,1,1
+Wayne,Lyons 03,State Assembly,130,Write-ins,,0,0,0
+Wayne,Lyons 04,State Assembly,130,Write-ins,,0,0,0
+Wayne,Lyons 05,State Assembly,130,Write-ins,,0,0,0
+Wayne,Macedon 01,State Assembly,130,Write-ins,,0,0,0
+Wayne,Macedon 02,State Assembly,130,Write-ins,,0,0,0
+Wayne,Macedon 03,State Assembly,130,Write-ins,,0,0,0
+Wayne,Macedon 04,State Assembly,130,Write-ins,,0,0,0
+Wayne,Macedon 05,State Assembly,130,Write-ins,,0,0,0
+Wayne,Marion 01,State Assembly,130,Write-ins,,0,0,0
+Wayne,Marion 02,State Assembly,130,Write-ins,,0,0,0
+Wayne,Marion 03,State Assembly,130,Write-ins,,0,0,0
+Wayne,Marion 04,State Assembly,130,Write-ins,,0,0,0
+Wayne,Ontario 01,State Assembly,130,Write-ins,,0,0,0
+Wayne,Ontario 02,State Assembly,130,Write-ins,,0,0,0
+Wayne,Ontario 03,State Assembly,130,Write-ins,,0,1,1
+Wayne,Ontario 04,State Assembly,130,Write-ins,,0,0,0
+Wayne,Ontario 05,State Assembly,130,Write-ins,,1,0,1
+Wayne,Ontario 06,State Assembly,130,Write-ins,,0,0,0
+Wayne,Palmyra 01,State Assembly,130,Write-ins,,0,0,0
+Wayne,Palmyra 02,State Assembly,130,Write-ins,,0,0,0
+Wayne,Palmyra 03,State Assembly,130,Write-ins,,0,0,0
+Wayne,Palmyra 04,State Assembly,130,Write-ins,,0,0,0
+Wayne,Palmyra 05,State Assembly,130,Write-ins,,0,0,0
+Wayne,Palmyra 06,State Assembly,130,Write-ins,,0,0,0
+Wayne,Rose 01,State Assembly,130,Write-ins,,0,0,0
+Wayne,Rose 02,State Assembly,130,Write-ins,,0,0,0
+Wayne,Savannah 01,State Assembly,130,Write-ins,,0,0,0
+Wayne,Savannah 02,State Assembly,130,Write-ins,,0,0,0
+Wayne,Sodus 01,State Assembly,130,Write-ins,,0,0,0
+Wayne,Sodus 02,State Assembly,130,Write-ins,,0,0,0
+Wayne,Sodus 03,State Assembly,130,Write-ins,,0,0,0
+Wayne,Sodus 04,State Assembly,130,Write-ins,,1,0,1
+Wayne,Sodus 05,State Assembly,130,Write-ins,,0,0,0
+Wayne,Sodus 06,State Assembly,130,Write-ins,,0,0,0
+Wayne,Walworth 01,State Assembly,130,Write-ins,,1,0,1
+Wayne,Walworth 02,State Assembly,130,Write-ins,,0,0,0
+Wayne,Walworth 03,State Assembly,130,Write-ins,,0,0,0
+Wayne,Walworth 04,State Assembly,130,Write-ins,,0,0,0
+Wayne,Walworth 05,State Assembly,130,Write-ins,,1,0,1
+Wayne,Williamson 01,State Assembly,130,Write-ins,,0,0,0
+Wayne,Williamson 02,State Assembly,130,Write-ins,,1,0,1
+Wayne,Williamson 03,State Assembly,130,Write-ins,,0,0,0
+Wayne,Williamson 04,State Assembly,130,Write-ins,,0,0,0
+Wayne,Williamson 05,State Assembly,130,Write-ins,,0,0,0
+Wayne,Wolcott 01,State Assembly,130,Write-ins,,0,0,0
+Wayne,Wolcott 02,State Assembly,130,Write-ins,,0,0,0
+Wayne,Wolcott 03,State Assembly,130,Write-ins,,0,0,0
+Wayne,Wolcott 04,State Assembly,130,Write-ins,,0,0,0
+Wayne,Arcadia 01,President,,TRUMP/PENCE,REP,452,41,493
+Wayne,Arcadia 02,President,,TRUMP/PENCE,REP,373,49,422
+Wayne,Arcadia 03,President,,TRUMP/PENCE,REP,191,21,212
+Wayne,Arcadia 04,President,,TRUMP/PENCE,REP,158,21,179
+Wayne,Arcadia 05,President,,TRUMP/PENCE,REP,197,31,228
+Wayne,Arcadia 06,President,,TRUMP/PENCE,REP,275,56,331
+Wayne,Arcadia 07,President,,TRUMP/PENCE,REP,178,16,194
+Wayne,Arcadia 08,President,,TRUMP/PENCE,REP,142,19,161
+Wayne,Arcadia 09,President,,TRUMP/PENCE,REP,162,21,183
+Wayne,Arcadia 10,President,,TRUMP/PENCE,REP,311,58,369
+Wayne,Butler 01,President,,TRUMP/PENCE,REP,431,48,479
+Wayne,Galen 01,President,,TRUMP/PENCE,REP,233,19,252
+Wayne,Galen 02,President,,TRUMP/PENCE,REP,219,26,245
+Wayne,Galen 03,President,,TRUMP/PENCE,REP,244,20,264
+Wayne,Galen 04,President,,TRUMP/PENCE,REP,175,21,196
+Wayne,Huron 01,President,,TRUMP/PENCE,REP,219,24,243
+Wayne,Huron 02,President,,TRUMP/PENCE,REP,287,21,308
+Wayne,Lyons 01,President,,TRUMP/PENCE,REP,208,36,244
+Wayne,Lyons 02,President,,TRUMP/PENCE,REP,161,26,187
+Wayne,Lyons 03,President,,TRUMP/PENCE,REP,173,19,192
+Wayne,Lyons 04,President,,TRUMP/PENCE,REP,208,14,222
+Wayne,Lyons 05,President,,TRUMP/PENCE,REP,223,23,246
+Wayne,Macedon 01,President,,TRUMP/PENCE,REP,410,48,458
+Wayne,Macedon 02,President,,TRUMP/PENCE,REP,550,59,609
+Wayne,Macedon 03,President,,TRUMP/PENCE,REP,466,78,544
+Wayne,Macedon 04,President,,TRUMP/PENCE,REP,317,37,354
+Wayne,Macedon 05,President,,TRUMP/PENCE,REP,355,48,403
+Wayne,Marion 01,President,,TRUMP/PENCE,REP,311,34,345
+Wayne,Marion 02,President,,TRUMP/PENCE,REP,326,29,355
+Wayne,Marion 03,President,,TRUMP/PENCE,REP,344,31,375
+Wayne,Marion 04,President,,TRUMP/PENCE,REP,296,26,322
+Wayne,Ontario 01,President,,TRUMP/PENCE,REP,447,54,501
+Wayne,Ontario 02,President,,TRUMP/PENCE,REP,636,35,671
+Wayne,Ontario 03,President,,TRUMP/PENCE,REP,568,52,620
+Wayne,Ontario 04,President,,TRUMP/PENCE,REP,290,25,315
+Wayne,Ontario 05,President,,TRUMP/PENCE,REP,361,16,377
+Wayne,Ontario 06,President,,TRUMP/PENCE,REP,568,77,645
+Wayne,Palmyra 01,President,,TRUMP/PENCE,REP,234,13,247
+Wayne,Palmyra 02,President,,TRUMP/PENCE,REP,220,18,238
+Wayne,Palmyra 03,President,,TRUMP/PENCE,REP,197,16,213
+Wayne,Palmyra 04,President,,TRUMP/PENCE,REP,365,31,396
+Wayne,Palmyra 05,President,,TRUMP/PENCE,REP,365,20,385
+Wayne,Palmyra 06,President,,TRUMP/PENCE,REP,293,30,323
+Wayne,Rose 01,President,,TRUMP/PENCE,REP,274,25,299
+Wayne,Rose 02,President,,TRUMP/PENCE,REP,287,23,310
+Wayne,Savannah 01,President,,TRUMP/PENCE,REP,170,26,196
+Wayne,Savannah 02,President,,TRUMP/PENCE,REP,208,19,227
+Wayne,Sodus 01,President,,TRUMP/PENCE,REP,191,38,229
+Wayne,Sodus 02,President,,TRUMP/PENCE,REP,293,18,311
+Wayne,Sodus 03,President,,TRUMP/PENCE,REP,317,19,336
+Wayne,Sodus 04,President,,TRUMP/PENCE,REP,364,34,398
+Wayne,Sodus 05,President,,TRUMP/PENCE,REP,243,29,272
+Wayne,Sodus 06,President,,TRUMP/PENCE,REP,298,26,324
+Wayne,Walworth 01,President,,TRUMP/PENCE,REP,332,31,363
+Wayne,Walworth 02,President,,TRUMP/PENCE,REP,697,95,792
+Wayne,Walworth 03,President,,TRUMP/PENCE,REP,538,41,579
+Wayne,Walworth 04,President,,TRUMP/PENCE,REP,392,48,440
+Wayne,Walworth 05,President,,TRUMP/PENCE,REP,373,44,417
+Wayne,Williamson 01,President,,TRUMP/PENCE,REP,254,15,269
+Wayne,Williamson 02,President,,TRUMP/PENCE,REP,403,34,437
+Wayne,Williamson 03,President,,TRUMP/PENCE,REP,524,54,578
+Wayne,Williamson 04,President,,TRUMP/PENCE,REP,306,19,325
+Wayne,Williamson 05,President,,TRUMP/PENCE,REP,395,36,431
+Wayne,Wolcott 01,President,,TRUMP/PENCE,REP,218,29,247
+Wayne,Wolcott 02,President,,TRUMP/PENCE,REP,114,13,127
+Wayne,Wolcott 03,President,,TRUMP/PENCE,REP,247,27,274
+Wayne,Wolcott 04,President,,TRUMP/PENCE,REP,307,31,338
+Wayne,Arcadia 01,President,,TRUMP/PENCE,CON,74,5,79
+Wayne,Arcadia 02,President,,TRUMP/PENCE,CON,35,2,37
+Wayne,Arcadia 03,President,,TRUMP/PENCE,CON,23,4,27
+Wayne,Arcadia 04,President,,TRUMP/PENCE,CON,16,1,17
+Wayne,Arcadia 05,President,,TRUMP/PENCE,CON,24,1,25
+Wayne,Arcadia 06,President,,TRUMP/PENCE,CON,27,8,35
+Wayne,Arcadia 07,President,,TRUMP/PENCE,CON,19,2,21
+Wayne,Arcadia 08,President,,TRUMP/PENCE,CON,20,3,23
+Wayne,Arcadia 09,President,,TRUMP/PENCE,CON,26,3,29
+Wayne,Arcadia 10,President,,TRUMP/PENCE,CON,44,4,48
+Wayne,Butler 01,President,,TRUMP/PENCE,CON,52,6,58
+Wayne,Galen 01,President,,TRUMP/PENCE,CON,33,4,37
+Wayne,Galen 02,President,,TRUMP/PENCE,CON,17,1,18
+Wayne,Galen 03,President,,TRUMP/PENCE,CON,18,3,21
+Wayne,Galen 04,President,,TRUMP/PENCE,CON,17,3,20
+Wayne,Huron 01,President,,TRUMP/PENCE,CON,23,6,29
+Wayne,Huron 02,President,,TRUMP/PENCE,CON,41,8,49
+Wayne,Lyons 01,President,,TRUMP/PENCE,CON,21,5,26
+Wayne,Lyons 02,President,,TRUMP/PENCE,CON,18,4,22
+Wayne,Lyons 03,President,,TRUMP/PENCE,CON,18,2,20
+Wayne,Lyons 04,President,,TRUMP/PENCE,CON,36,3,39
+Wayne,Lyons 05,President,,TRUMP/PENCE,CON,22,5,27
+Wayne,Macedon 01,President,,TRUMP/PENCE,CON,41,4,45
+Wayne,Macedon 02,President,,TRUMP/PENCE,CON,71,6,77
+Wayne,Macedon 03,President,,TRUMP/PENCE,CON,68,16,84
+Wayne,Macedon 04,President,,TRUMP/PENCE,CON,50,7,57
+Wayne,Macedon 05,President,,TRUMP/PENCE,CON,37,2,39
+Wayne,Marion 01,President,,TRUMP/PENCE,CON,51,6,57
+Wayne,Marion 02,President,,TRUMP/PENCE,CON,44,2,46
+Wayne,Marion 03,President,,TRUMP/PENCE,CON,61,4,65
+Wayne,Marion 04,President,,TRUMP/PENCE,CON,55,1,56
+Wayne,Ontario 01,President,,TRUMP/PENCE,CON,65,8,73
+Wayne,Ontario 02,President,,TRUMP/PENCE,CON,72,8,80
+Wayne,Ontario 03,President,,TRUMP/PENCE,CON,75,2,77
+Wayne,Ontario 04,President,,TRUMP/PENCE,CON,41,2,43
+Wayne,Ontario 05,President,,TRUMP/PENCE,CON,41,1,42
+Wayne,Ontario 06,President,,TRUMP/PENCE,CON,75,4,79
+Wayne,Palmyra 01,President,,TRUMP/PENCE,CON,28,1,29
+Wayne,Palmyra 02,President,,TRUMP/PENCE,CON,35,7,42
+Wayne,Palmyra 03,President,,TRUMP/PENCE,CON,19,5,24
+Wayne,Palmyra 04,President,,TRUMP/PENCE,CON,41,2,43
+Wayne,Palmyra 05,President,,TRUMP/PENCE,CON,62,3,65
+Wayne,Palmyra 06,President,,TRUMP/PENCE,CON,43,6,49
+Wayne,Rose 01,President,,TRUMP/PENCE,CON,37,1,38
+Wayne,Rose 02,President,,TRUMP/PENCE,CON,30,1,31
+Wayne,Savannah 01,President,,TRUMP/PENCE,CON,26,4,30
+Wayne,Savannah 02,President,,TRUMP/PENCE,CON,28,1,29
+Wayne,Sodus 01,President,,TRUMP/PENCE,CON,29,14,43
+Wayne,Sodus 02,President,,TRUMP/PENCE,CON,53,4,57
+Wayne,Sodus 03,President,,TRUMP/PENCE,CON,48,2,50
+Wayne,Sodus 04,President,,TRUMP/PENCE,CON,61,5,66
+Wayne,Sodus 05,President,,TRUMP/PENCE,CON,38,3,41
+Wayne,Sodus 06,President,,TRUMP/PENCE,CON,54,4,58
+Wayne,Walworth 01,President,,TRUMP/PENCE,CON,75,4,79
+Wayne,Walworth 02,President,,TRUMP/PENCE,CON,132,14,146
+Wayne,Walworth 03,President,,TRUMP/PENCE,CON,63,11,74
+Wayne,Walworth 04,President,,TRUMP/PENCE,CON,57,4,61
+Wayne,Walworth 05,President,,TRUMP/PENCE,CON,63,4,67
+Wayne,Williamson 01,President,,TRUMP/PENCE,CON,28,2,30
+Wayne,Williamson 02,President,,TRUMP/PENCE,CON,57,4,61
+Wayne,Williamson 03,President,,TRUMP/PENCE,CON,85,5,90
+Wayne,Williamson 04,President,,TRUMP/PENCE,CON,36,2,38
+Wayne,Williamson 05,President,,TRUMP/PENCE,CON,52,8,60
+Wayne,Wolcott 01,President,,TRUMP/PENCE,CON,22,4,26
+Wayne,Wolcott 02,President,,TRUMP/PENCE,CON,9,2,11
+Wayne,Wolcott 03,President,,TRUMP/PENCE,CON,29,2,31
+Wayne,Wolcott 04,President,,TRUMP/PENCE,CON,39,4,43
+Wayne,Arcadia 01,President,,Under Votes,,1,1,2
+Wayne,Arcadia 02,President,,Under Votes,,5,2,7
+Wayne,Arcadia 03,President,,Under Votes,,0,1,1
+Wayne,Arcadia 04,President,,Under Votes,,4,0,4
+Wayne,Arcadia 05,President,,Under Votes,,1,2,3
+Wayne,Arcadia 06,President,,Under Votes,,4,1,5
+Wayne,Arcadia 07,President,,Under Votes,,1,1,2
+Wayne,Arcadia 08,President,,Under Votes,,3,0,3
+Wayne,Arcadia 09,President,,Under Votes,,0,0,0
+Wayne,Arcadia 10,President,,Under Votes,,3,2,5
+Wayne,Butler 01,President,,Under Votes,,2,0,2
+Wayne,Galen 01,President,,Under Votes,,4,0,4
+Wayne,Galen 02,President,,Under Votes,,2,0,2
+Wayne,Galen 03,President,,Under Votes,,3,0,3
+Wayne,Galen 04,President,,Under Votes,,3,2,5
+Wayne,Huron 01,President,,Under Votes,,0,2,2
+Wayne,Huron 02,President,,Under Votes,,6,0,6
+Wayne,Lyons 01,President,,Under Votes,,0,0,0
+Wayne,Lyons 02,President,,Under Votes,,1,0,1
+Wayne,Lyons 03,President,,Under Votes,,0,0,0
+Wayne,Lyons 04,President,,Under Votes,,1,0,1
+Wayne,Lyons 05,President,,Under Votes,,1,0,1
+Wayne,Macedon 01,President,,Under Votes,,4,1,5
+Wayne,Macedon 02,President,,Under Votes,,4,1,5
+Wayne,Macedon 03,President,,Under Votes,,1,6,7
+Wayne,Macedon 04,President,,Under Votes,,4,0,4
+Wayne,Macedon 05,President,,Under Votes,,2,1,3
+Wayne,Marion 01,President,,Under Votes,,2,0,2
+Wayne,Marion 02,President,,Under Votes,,1,1,2
+Wayne,Marion 03,President,,Under Votes,,2,0,2
+Wayne,Marion 04,President,,Under Votes,,5,0,5
+Wayne,Ontario 01,President,,Under Votes,,2,2,4
+Wayne,Ontario 02,President,,Under Votes,,2,0,2
+Wayne,Ontario 03,President,,Under Votes,,5,1,6
+Wayne,Ontario 04,President,,Under Votes,,0,1,1
+Wayne,Ontario 05,President,,Under Votes,,1,0,1
+Wayne,Ontario 06,President,,Under Votes,,7,5,12
+Wayne,Palmyra 01,President,,Under Votes,,4,1,5
+Wayne,Palmyra 02,President,,Under Votes,,4,0,4
+Wayne,Palmyra 03,President,,Under Votes,,0,0,0
+Wayne,Palmyra 04,President,,Under Votes,,5,1,6
+Wayne,Palmyra 05,President,,Under Votes,,2,0,2
+Wayne,Palmyra 06,President,,Under Votes,,2,1,3
+Wayne,Rose 01,President,,Under Votes,,3,0,3
+Wayne,Rose 02,President,,Under Votes,,1,1,2
+Wayne,Savannah 01,President,,Under Votes,,2,0,2
+Wayne,Savannah 02,President,,Under Votes,,3,0,3
+Wayne,Sodus 01,President,,Under Votes,,2,1,3
+Wayne,Sodus 02,President,,Under Votes,,1,0,1
+Wayne,Sodus 03,President,,Under Votes,,3,0,3
+Wayne,Sodus 04,President,,Under Votes,,2,2,4
+Wayne,Sodus 05,President,,Under Votes,,2,0,2
+Wayne,Sodus 06,President,,Under Votes,,1,0,1
+Wayne,Walworth 01,President,,Under Votes,,2,1,3
+Wayne,Walworth 02,President,,Under Votes,,4,0,4
+Wayne,Walworth 03,President,,Under Votes,,2,3,5
+Wayne,Walworth 04,President,,Under Votes,,2,0,2
+Wayne,Walworth 05,President,,Under Votes,,3,0,3
+Wayne,Williamson 01,President,,Under Votes,,2,0,2
+Wayne,Williamson 02,President,,Under Votes,,3,1,4
+Wayne,Williamson 03,President,,Under Votes,,1,1,2
+Wayne,Williamson 04,President,,Under Votes,,0,0,0
+Wayne,Williamson 05,President,,Under Votes,,1,1,2
+Wayne,Wolcott 01,President,,Under Votes,,1,0,1
+Wayne,Wolcott 02,President,,Under Votes,,0,1,1
+Wayne,Wolcott 03,President,,Under Votes,,4,0,4
+Wayne,Wolcott 04,President,,Under Votes,,2,3,5
+Wayne,Arcadia 01,U.S. House,24,Under Votes,,32,5,37
+Wayne,Arcadia 02,U.S. House,24,Under Votes,,28,9,37
+Wayne,Arcadia 03,U.S. House,24,Under Votes,,29,4,33
+Wayne,Arcadia 04,U.S. House,24,Under Votes,,21,2,23
+Wayne,Arcadia 05,U.S. House,24,Under Votes,,28,7,35
+Wayne,Arcadia 06,U.S. House,24,Under Votes,,21,10,31
+Wayne,Arcadia 07,U.S. House,24,Under Votes,,9,5,14
+Wayne,Arcadia 08,U.S. House,24,Under Votes,,11,1,12
+Wayne,Arcadia 09,U.S. House,24,Under Votes,,18,2,20
+Wayne,Arcadia 10,U.S. House,24,Under Votes,,25,16,41
+Wayne,Butler 01,U.S. House,24,Under Votes,,14,6,20
+Wayne,Galen 01,U.S. House,24,Under Votes,,19,2,21
+Wayne,Galen 02,U.S. House,24,Under Votes,,15,2,17
+Wayne,Galen 03,U.S. House,24,Under Votes,,26,1,27
+Wayne,Galen 04,U.S. House,24,Under Votes,,26,6,32
+Wayne,Huron 01,U.S. House,24,Under Votes,,13,2,15
+Wayne,Huron 02,U.S. House,24,Under Votes,,16,3,19
+Wayne,Lyons 01,U.S. House,24,Under Votes,,17,7,24
+Wayne,Lyons 02,U.S. House,24,Under Votes,,16,9,25
+Wayne,Lyons 03,U.S. House,24,Under Votes,,12,4,16
+Wayne,Lyons 04,U.S. House,24,Under Votes,,26,7,33
+Wayne,Lyons 05,U.S. House,24,Under Votes,,18,0,18
+Wayne,Macedon 01,U.S. House,24,Under Votes,,29,16,45
+Wayne,Macedon 02,U.S. House,24,Under Votes,,44,13,57
+Wayne,Macedon 03,U.S. House,24,Under Votes,,35,16,51
+Wayne,Macedon 04,U.S. House,24,Under Votes,,19,5,24
+Wayne,Macedon 05,U.S. House,24,Under Votes,,34,7,41
+Wayne,Marion 01,U.S. House,24,Under Votes,,13,5,18
+Wayne,Marion 02,U.S. House,24,Under Votes,,13,3,16
+Wayne,Marion 03,U.S. House,24,Under Votes,,18,3,21
+Wayne,Marion 04,U.S. House,24,Under Votes,,25,4,29
+Wayne,Ontario 01,U.S. House,24,Under Votes,,36,10,46
+Wayne,Ontario 02,U.S. House,24,Under Votes,,40,9,49
+Wayne,Ontario 03,U.S. House,24,Under Votes,,38,3,41
+Wayne,Ontario 04,U.S. House,24,Under Votes,,26,6,32
+Wayne,Ontario 05,U.S. House,24,Under Votes,,31,9,40
+Wayne,Ontario 06,U.S. House,24,Under Votes,,53,11,64
+Wayne,Palmyra 01,U.S. House,24,Under Votes,,21,3,24
+Wayne,Palmyra 02,U.S. House,24,Under Votes,,27,9,36
+Wayne,Palmyra 03,U.S. House,24,Under Votes,,23,2,25
+Wayne,Palmyra 04,U.S. House,24,Under Votes,,32,6,38
+Wayne,Palmyra 05,U.S. House,24,Under Votes,,23,3,26
+Wayne,Palmyra 06,U.S. House,24,Under Votes,,19,2,21
+Wayne,Rose 01,U.S. House,24,Under Votes,,21,2,23
+Wayne,Rose 02,U.S. House,24,Under Votes,,19,4,23
+Wayne,Savannah 01,U.S. House,24,Under Votes,,15,3,18
+Wayne,Savannah 02,U.S. House,24,Under Votes,,13,2,15
+Wayne,Sodus 01,U.S. House,24,Under Votes,,17,3,20
+Wayne,Sodus 02,U.S. House,24,Under Votes,,20,4,24
+Wayne,Sodus 03,U.S. House,24,Under Votes,,22,2,24
+Wayne,Sodus 04,U.S. House,24,Under Votes,,33,6,39
+Wayne,Sodus 05,U.S. House,24,Under Votes,,22,6,28
+Wayne,Sodus 06,U.S. House,24,Under Votes,,15,6,21
+Wayne,Walworth 01,U.S. House,24,Under Votes,,32,1,33
+Wayne,Walworth 02,U.S. House,24,Under Votes,,54,20,74
+Wayne,Walworth 03,U.S. House,24,Under Votes,,37,9,46
+Wayne,Walworth 04,U.S. House,24,Under Votes,,29,10,39
+Wayne,Walworth 05,U.S. House,24,Under Votes,,30,3,33
+Wayne,Williamson 01,U.S. House,24,Under Votes,,18,5,23
+Wayne,Williamson 02,U.S. House,24,Under Votes,,19,3,22
+Wayne,Williamson 03,U.S. House,24,Under Votes,,44,7,51
+Wayne,Williamson 04,U.S. House,24,Under Votes,,29,1,30
+Wayne,Williamson 05,U.S. House,24,Under Votes,,23,7,30
+Wayne,Wolcott 01,U.S. House,24,Under Votes,,21,1,22
+Wayne,Wolcott 02,U.S. House,24,Under Votes,,4,2,6
+Wayne,Wolcott 03,U.S. House,24,Under Votes,,10,0,10
+Wayne,Wolcott 04,U.S. House,24,Under Votes,,8,2,10
+Wayne,Arcadia 01,State Senate,54,Under Votes,,43,6,49
+Wayne,Arcadia 02,State Senate,54,Under Votes,,28,11,39
+Wayne,Arcadia 03,State Senate,54,Under Votes,,29,11,40
+Wayne,Arcadia 04,State Senate,54,Under Votes,,21,2,23
+Wayne,Arcadia 05,State Senate,54,Under Votes,,28,10,38
+Wayne,Arcadia 06,State Senate,54,Under Votes,,30,15,45
+Wayne,Arcadia 07,State Senate,54,Under Votes,,15,5,20
+Wayne,Arcadia 08,State Senate,54,Under Votes,,18,4,22
+Wayne,Arcadia 09,State Senate,54,Under Votes,,21,3,24
+Wayne,Arcadia 10,State Senate,54,Under Votes,,33,22,55
+Wayne,Butler 01,State Senate,54,Under Votes,,31,8,39
+Wayne,Galen 01,State Senate,54,Under Votes,,27,5,32
+Wayne,Galen 02,State Senate,54,Under Votes,,22,3,25
+Wayne,Galen 03,State Senate,54,Under Votes,,36,3,39
+Wayne,Galen 04,State Senate,54,Under Votes,,32,4,36
+Wayne,Huron 01,State Senate,54,Under Votes,,26,3,29
+Wayne,Huron 02,State Senate,54,Under Votes,,33,7,40
+Wayne,Lyons 01,State Senate,54,Under Votes,,18,8,26
+Wayne,Lyons 02,State Senate,54,Under Votes,,19,11,30
+Wayne,Lyons 03,State Senate,54,Under Votes,,26,6,32
+Wayne,Lyons 04,State Senate,54,Under Votes,,28,10,38
+Wayne,Lyons 05,State Senate,54,Under Votes,,21,3,24
+Wayne,Macedon 01,State Senate,54,Under Votes,,47,25,72
+Wayne,Macedon 02,State Senate,54,Under Votes,,65,13,78
+Wayne,Macedon 03,State Senate,54,Under Votes,,41,21,62
+Wayne,Macedon 04,State Senate,54,Under Votes,,29,10,39
+Wayne,Macedon 05,State Senate,54,Under Votes,,43,11,54
+Wayne,Marion 01,State Senate,54,Under Votes,,20,4,24
+Wayne,Marion 02,State Senate,54,Under Votes,,13,5,18
+Wayne,Marion 03,State Senate,54,Under Votes,,23,3,26
+Wayne,Marion 04,State Senate,54,Under Votes,,21,5,26
+Wayne,Ontario 01,State Senate,54,Under Votes,,57,10,67
+Wayne,Ontario 02,State Senate,54,Under Votes,,75,15,90
+Wayne,Ontario 03,State Senate,54,Under Votes,,53,8,61
+Wayne,Ontario 04,State Senate,54,Under Votes,,31,10,41
+Wayne,Ontario 05,State Senate,54,Under Votes,,42,10,52
+Wayne,Ontario 06,State Senate,54,Under Votes,,77,14,91
+Wayne,Palmyra 01,State Senate,54,Under Votes,,24,8,32
+Wayne,Palmyra 02,State Senate,54,Under Votes,,30,10,40
+Wayne,Palmyra 03,State Senate,54,Under Votes,,27,5,32
+Wayne,Palmyra 04,State Senate,54,Under Votes,,41,9,50
+Wayne,Palmyra 05,State Senate,54,Under Votes,,24,6,30
+Wayne,Palmyra 06,State Senate,54,Under Votes,,30,3,33
+Wayne,Rose 01,State Senate,54,Under Votes,,33,5,38
+Wayne,Rose 02,State Senate,54,Under Votes,,23,4,27
+Wayne,Savannah 01,State Senate,54,Under Votes,,18,4,22
+Wayne,Savannah 02,State Senate,54,Under Votes,,22,3,25
+Wayne,Sodus 01,State Senate,54,Under Votes,,14,5,19
+Wayne,Sodus 02,State Senate,54,Under Votes,,22,4,26
+Wayne,Sodus 03,State Senate,54,Under Votes,,18,3,21
+Wayne,Sodus 04,State Senate,54,Under Votes,,44,3,47
+Wayne,Sodus 05,State Senate,54,Under Votes,,23,6,29
+Wayne,Sodus 06,State Senate,54,Under Votes,,29,7,36
+Wayne,Walworth 01,State Senate,54,Under Votes,,43,5,48
+Wayne,Walworth 02,State Senate,54,Under Votes,,86,26,112
+Wayne,Walworth 03,State Senate,54,Under Votes,,57,17,74
+Wayne,Walworth 04,State Senate,54,Under Votes,,37,13,50
+Wayne,Walworth 05,State Senate,54,Under Votes,,30,14,44
+Wayne,Williamson 01,State Senate,54,Under Votes,,22,5,27
+Wayne,Williamson 02,State Senate,54,Under Votes,,30,7,37
+Wayne,Williamson 03,State Senate,54,Under Votes,,45,6,51
+Wayne,Williamson 04,State Senate,54,Under Votes,,35,4,39
+Wayne,Williamson 05,State Senate,54,Under Votes,,30,10,40
+Wayne,Wolcott 01,State Senate,54,Under Votes,,32,3,35
+Wayne,Wolcott 02,State Senate,54,Under Votes,,7,2,9
+Wayne,Wolcott 03,State Senate,54,Under Votes,,24,0,24
+Wayne,Wolcott 04,State Senate,54,Under Votes,,30,6,36
+Wayne,Arcadia 01,State Assembly,130,Under Votes,,41,6,47
+Wayne,Arcadia 02,State Assembly,130,Under Votes,,34,10,44
+Wayne,Arcadia 03,State Assembly,130,Under Votes,,38,12,50
+Wayne,Arcadia 04,State Assembly,130,Under Votes,,24,2,26
+Wayne,Arcadia 05,State Assembly,130,Under Votes,,34,9,43
+Wayne,Arcadia 06,State Assembly,130,Under Votes,,26,17,43
+Wayne,Arcadia 07,State Assembly,130,Under Votes,,18,10,28
+Wayne,Arcadia 08,State Assembly,130,Under Votes,,26,6,32
+Wayne,Arcadia 09,State Assembly,130,Under Votes,,24,5,29
+Wayne,Arcadia 10,State Assembly,130,Under Votes,,37,26,63
+Wayne,Butler 01,State Assembly,130,Under Votes,,26,8,34
+Wayne,Galen 01,State Assembly,130,Under Votes,,21,6,27
+Wayne,Galen 02,State Assembly,130,Under Votes,,18,2,20
+Wayne,Galen 03,State Assembly,130,Under Votes,,39,4,43
+Wayne,Galen 04,State Assembly,130,Under Votes,,27,4,31
+Wayne,Huron 01,State Assembly,130,Under Votes,,22,5,27
+Wayne,Huron 02,State Assembly,130,Under Votes,,30,5,35
+Wayne,Lyons 01,State Assembly,130,Under Votes,,17,6,23
+Wayne,Lyons 02,State Assembly,130,Under Votes,,17,7,24
+Wayne,Lyons 03,State Assembly,130,Under Votes,,12,3,15
+Wayne,Lyons 04,State Assembly,130,Under Votes,,18,9,27
+Wayne,Lyons 05,State Assembly,130,Under Votes,,8,0,8
+Wayne,Macedon 01,State Assembly,130,Under Votes,,63,27,90
+Wayne,Macedon 02,State Assembly,130,Under Votes,,72,16,88
+Wayne,Macedon 03,State Assembly,130,Under Votes,,53,22,75
+Wayne,Macedon 04,State Assembly,130,Under Votes,,35,10,45
+Wayne,Macedon 05,State Assembly,130,Under Votes,,48,13,61
+Wayne,Marion 01,State Assembly,130,Under Votes,,22,4,26
+Wayne,Marion 02,State Assembly,130,Under Votes,,10,4,14
+Wayne,Marion 03,State Assembly,130,Under Votes,,27,3,30
+Wayne,Marion 04,State Assembly,130,Under Votes,,22,5,27
+Wayne,Ontario 01,State Assembly,130,Under Votes,,65,10,75
+Wayne,Ontario 02,State Assembly,130,Under Votes,,81,19,100
+Wayne,Ontario 03,State Assembly,130,Under Votes,,66,10,76
+Wayne,Ontario 04,State Assembly,130,Under Votes,,40,12,52
+Wayne,Ontario 05,State Assembly,130,Under Votes,,51,11,62
+Wayne,Ontario 06,State Assembly,130,Under Votes,,78,20,98
+Wayne,Palmyra 01,State Assembly,130,Under Votes,,25,8,33
+Wayne,Palmyra 02,State Assembly,130,Under Votes,,40,12,52
+Wayne,Palmyra 03,State Assembly,130,Under Votes,,31,5,36
+Wayne,Palmyra 04,State Assembly,130,Under Votes,,50,10,60
+Wayne,Palmyra 05,State Assembly,130,Under Votes,,27,6,33
+Wayne,Palmyra 06,State Assembly,130,Under Votes,,34,4,38
+Wayne,Rose 01,State Assembly,130,Under Votes,,35,5,40
+Wayne,Rose 02,State Assembly,130,Under Votes,,26,4,30
+Wayne,Savannah 01,State Assembly,130,Under Votes,,22,5,27
+Wayne,Savannah 02,State Assembly,130,Under Votes,,22,5,27
+Wayne,Sodus 01,State Assembly,130,Under Votes,,17,6,23
+Wayne,Sodus 02,State Assembly,130,Under Votes,,28,3,31
+Wayne,Sodus 03,State Assembly,130,Under Votes,,30,5,35
+Wayne,Sodus 04,State Assembly,130,Under Votes,,39,5,44
+Wayne,Sodus 05,State Assembly,130,Under Votes,,27,7,34
+Wayne,Sodus 06,State Assembly,130,Under Votes,,25,10,35
+Wayne,Walworth 01,State Assembly,130,Under Votes,,50,5,55
+Wayne,Walworth 02,State Assembly,130,Under Votes,,97,31,128
+Wayne,Walworth 03,State Assembly,130,Under Votes,,60,18,78
+Wayne,Walworth 04,State Assembly,130,Under Votes,,38,11,49
+Wayne,Walworth 05,State Assembly,130,Under Votes,,37,16,53
+Wayne,Williamson 01,State Assembly,130,Under Votes,,23,5,28
+Wayne,Williamson 02,State Assembly,130,Under Votes,,15,6,21
+Wayne,Williamson 03,State Assembly,130,Under Votes,,39,7,46
+Wayne,Williamson 04,State Assembly,130,Under Votes,,29,4,33
+Wayne,Williamson 05,State Assembly,130,Under Votes,,30,11,41
+Wayne,Wolcott 01,State Assembly,130,Under Votes,,31,4,35
+Wayne,Wolcott 02,State Assembly,130,Under Votes,,6,2,8
+Wayne,Wolcott 03,State Assembly,130,Under Votes,,25,2,27
+Wayne,Wolcott 04,State Assembly,130,Under Votes,,32,7,39
+Wayne,Arcadia 01,U.S. House,24,WILLIAMS,WOR,43,4,47
+Wayne,Arcadia 02,U.S. House,24,WILLIAMS,WOR,31,4,35
+Wayne,Arcadia 03,U.S. House,24,WILLIAMS,WOR,31,3,34
+Wayne,Arcadia 04,U.S. House,24,WILLIAMS,WOR,22,7,29
+Wayne,Arcadia 05,U.S. House,24,WILLIAMS,WOR,26,5,31
+Wayne,Arcadia 06,U.S. House,24,WILLIAMS,WOR,32,6,38
+Wayne,Arcadia 07,U.S. House,24,WILLIAMS,WOR,27,1,28
+Wayne,Arcadia 08,U.S. House,24,WILLIAMS,WOR,22,2,24
+Wayne,Arcadia 09,U.S. House,24,WILLIAMS,WOR,25,1,26
+Wayne,Arcadia 10,U.S. House,24,WILLIAMS,WOR,18,7,25
+Wayne,Butler 01,U.S. House,24,WILLIAMS,WOR,23,3,26
+Wayne,Galen 01,U.S. House,24,WILLIAMS,WOR,21,5,26
+Wayne,Galen 02,U.S. House,24,WILLIAMS,WOR,12,2,14
+Wayne,Galen 03,U.S. House,24,WILLIAMS,WOR,20,6,26
+Wayne,Galen 04,U.S. House,24,WILLIAMS,WOR,20,0,20
+Wayne,Huron 01,U.S. House,24,WILLIAMS,WOR,10,0,10
+Wayne,Huron 02,U.S. House,24,WILLIAMS,WOR,15,4,19
+Wayne,Lyons 01,U.S. House,24,WILLIAMS,WOR,15,7,22
+Wayne,Lyons 02,U.S. House,24,WILLIAMS,WOR,18,5,23
+Wayne,Lyons 03,U.S. House,24,WILLIAMS,WOR,20,7,27
+Wayne,Lyons 04,U.S. House,24,WILLIAMS,WOR,25,5,30
+Wayne,Lyons 05,U.S. House,24,WILLIAMS,WOR,12,1,13
+Wayne,Macedon 01,U.S. House,24,WILLIAMS,WOR,41,7,48
+Wayne,Macedon 02,U.S. House,24,WILLIAMS,WOR,36,7,43
+Wayne,Macedon 03,U.S. House,24,WILLIAMS,WOR,26,8,34
+Wayne,Macedon 04,U.S. House,24,WILLIAMS,WOR,27,5,32
+Wayne,Macedon 05,U.S. House,24,WILLIAMS,WOR,16,4,20
+Wayne,Marion 01,U.S. House,24,WILLIAMS,WOR,20,1,21
+Wayne,Marion 02,U.S. House,24,WILLIAMS,WOR,21,3,24
+Wayne,Marion 03,U.S. House,24,WILLIAMS,WOR,31,4,35
+Wayne,Marion 04,U.S. House,24,WILLIAMS,WOR,19,4,23
+Wayne,Ontario 01,U.S. House,24,WILLIAMS,WOR,27,8,35
+Wayne,Ontario 02,U.S. House,24,WILLIAMS,WOR,32,1,33
+Wayne,Ontario 03,U.S. House,24,WILLIAMS,WOR,32,3,35
+Wayne,Ontario 04,U.S. House,24,WILLIAMS,WOR,37,7,44
+Wayne,Ontario 05,U.S. House,24,WILLIAMS,WOR,26,4,30
+Wayne,Ontario 06,U.S. House,24,WILLIAMS,WOR,29,9,38
+Wayne,Palmyra 01,U.S. House,24,WILLIAMS,WOR,19,4,23
+Wayne,Palmyra 02,U.S. House,24,WILLIAMS,WOR,23,1,24
+Wayne,Palmyra 03,U.S. House,24,WILLIAMS,WOR,24,7,31
+Wayne,Palmyra 04,U.S. House,24,WILLIAMS,WOR,27,2,29
+Wayne,Palmyra 05,U.S. House,24,WILLIAMS,WOR,40,3,43
+Wayne,Palmyra 06,U.S. House,24,WILLIAMS,WOR,19,8,27
+Wayne,Rose 01,U.S. House,24,WILLIAMS,WOR,18,1,19
+Wayne,Rose 02,U.S. House,24,WILLIAMS,WOR,15,0,15
+Wayne,Savannah 01,U.S. House,24,WILLIAMS,WOR,14,0,14
+Wayne,Savannah 02,U.S. House,24,WILLIAMS,WOR,19,1,20
+Wayne,Sodus 01,U.S. House,24,WILLIAMS,WOR,14,2,16
+Wayne,Sodus 02,U.S. House,24,WILLIAMS,WOR,21,7,28
+Wayne,Sodus 03,U.S. House,24,WILLIAMS,WOR,29,1,30
+Wayne,Sodus 04,U.S. House,24,WILLIAMS,WOR,29,6,35
+Wayne,Sodus 05,U.S. House,24,WILLIAMS,WOR,32,4,36
+Wayne,Sodus 06,U.S. House,24,WILLIAMS,WOR,11,4,15
+Wayne,Walworth 01,U.S. House,24,WILLIAMS,WOR,22,3,25
+Wayne,Walworth 02,U.S. House,24,WILLIAMS,WOR,42,11,53
+Wayne,Walworth 03,U.S. House,24,WILLIAMS,WOR,32,6,38
+Wayne,Walworth 04,U.S. House,24,WILLIAMS,WOR,38,8,46
+Wayne,Walworth 05,U.S. House,24,WILLIAMS,WOR,23,6,29
+Wayne,Williamson 01,U.S. House,24,WILLIAMS,WOR,20,1,21
+Wayne,Williamson 02,U.S. House,24,WILLIAMS,WOR,23,2,25
+Wayne,Williamson 03,U.S. House,24,WILLIAMS,WOR,39,4,43
+Wayne,Williamson 04,U.S. House,24,WILLIAMS,WOR,34,3,37
+Wayne,Williamson 05,U.S. House,24,WILLIAMS,WOR,20,3,23
+Wayne,Wolcott 01,U.S. House,24,WILLIAMS,WOR,23,2,25
+Wayne,Wolcott 02,U.S. House,24,WILLIAMS,WOR,4,1,5
+Wayne,Wolcott 03,U.S. House,24,WILLIAMS,WOR,16,5,21
+Wayne,Wolcott 04,U.S. House,24,WILLIAMS,WOR,18,4,22
