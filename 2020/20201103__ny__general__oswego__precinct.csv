@@ -1,0 +1,3573 @@
+county,precinct,office,district,candidate,party,votes
+Oswego,ALBION 1,Ballots Cast,,,,446
+Oswego,ALBION 2,Ballots Cast,,,,473
+Oswego,AMBOY 1,Ballots Cast,,,,643
+Oswego,BOYLSTON 1,Ballots Cast,,,,323
+Oswego,CONSTANTIA 1,Ballots Cast,,,,607
+Oswego,CONSTANTIA 2,Ballots Cast,,,,568
+Oswego,CONSTANTIA 3,Ballots Cast,,,,536
+Oswego,CONSTANTIA 4,Ballots Cast,,,,808
+Oswego,GRANBY 1,Ballots Cast,,,,531
+Oswego,GRANBY 2,Ballots Cast,,,,482
+Oswego,GRANBY 3,Ballots Cast,,,,392
+Oswego,GRANBY 4,Ballots Cast,,,,812
+Oswego,GRANBY 5,Ballots Cast,,,,829
+Oswego,HANNIBAL 1,Ballots Cast,,,,244
+Oswego,HANNIBAL 2,Ballots Cast,,,,518
+Oswego,HANNIBAL 3,Ballots Cast,,,,512
+Oswego,HANNIBAL 4,Ballots Cast,,,,708
+Oswego,HASTINGS 1,Ballots Cast,,,,606
+Oswego,HASTINGS 2,Ballots Cast,,,,527
+Oswego,HASTINGS 3,Ballots Cast,,,,915
+Oswego,HASTINGS 4,Ballots Cast,,,,454
+Oswego,HASTINGS 5,Ballots Cast,,,,564
+Oswego,HASTINGS 6,Ballots Cast,,,,39
+Oswego,HASTINGS 7,Ballots Cast,,,,614
+Oswego,HASTINGS 8,Ballots Cast,,,,935
+Oswego,MEXICO 1,Ballots Cast,,,,595
+Oswego,MEXICO 2,Ballots Cast,,,,815
+Oswego,MEXICO 3,Ballots Cast,,,,"1,032"
+Oswego,MEXICO 4,Ballots Cast,,,,205
+Oswego,MINETTO 1,Ballots Cast,,,,819
+Oswego,MINETTO 2,Ballots Cast,,,,234
+Oswego,NEW HAVEN 1,Ballots Cast,,,,743
+Oswego,NEW HAVEN 2,Ballots Cast,,,,334
+Oswego,NEW HAVEN 3,Ballots Cast,,,,405
+Oswego,ORWELL 1,Ballots Cast,,,,544
+Oswego,OSWEGO TOWN 1,Ballots Cast,,,,32
+Oswego,OSWEGO TOWN 2,Ballots Cast,,,,73
+Oswego,OSWEGO TOWN 3,Ballots Cast,,,,607
+Oswego,OSWEGO TOWN 4,Ballots Cast,,,,525
+Oswego,OSWEGO TOWN 5,Ballots Cast,,,,321
+Oswego,OSWEGO TOWN 6,Ballots Cast,,,,407
+Oswego,OSWEGO TOWN 7,Ballots Cast,,,,681
+Oswego,PALERMO 1,Ballots Cast,,,,617
+Oswego,PALERMO 2,Ballots Cast,,,,462
+Oswego,PALERMO 3,Ballots Cast,,,,492
+Oswego,PALERMO 4,Ballots Cast,,,,95
+Oswego,PARISH 1,Ballots Cast,,,,721
+Oswego,PARISH 2,Ballots Cast,,,,561
+Oswego,REDFIELD 1,Ballots Cast,,,,277
+Oswego,RICHLAND 1,Ballots Cast,,,,523
+Oswego,RICHLAND 2,Ballots Cast,,,,446
+Oswego,RICHLAND 3,Ballots Cast,,,,508
+Oswego,RICHLAND 4,Ballots Cast,,,,895
+Oswego,RICHLAND 5,Ballots Cast,,,,180
+Oswego,RICHLAND 6,Ballots Cast,,,,146
+Oswego,SANDY CREEK 1,Ballots Cast,,,,905
+Oswego,SANDY CREEK 2,Ballots Cast,,,,613
+Oswego,SANDY CREEK 3,Ballots Cast,,,,311
+Oswego,SCHROEPPEL 1,Ballots Cast,,,,927
+Oswego,SCHROEPPEL 2,Ballots Cast,,,,697
+Oswego,SCHROEPPEL 3,Ballots Cast,,,,523
+Oswego,SCHROEPPEL 4,Ballots Cast,,,,953
+Oswego,SCHROEPPEL 5,Ballots Cast,,,,"1,020"
+Oswego,SCRIBA 1,Ballots Cast,,,,658
+Oswego,SCRIBA 2,Ballots Cast,,,,430
+Oswego,SCRIBA 3,Ballots Cast,,,,916
+Oswego,SCRIBA 4,Ballots Cast,,,,617
+Oswego,SCRIBA 5,Ballots Cast,,,,509
+Oswego,SCRIBA 6,Ballots Cast,,,,175
+Oswego,VOLNEY 1,Ballots Cast,,,,377
+Oswego,VOLNEY 2,Ballots Cast,,,,596
+Oswego,VOLNEY 3,Ballots Cast,,,,831
+Oswego,VOLNEY 4,Ballots Cast,,,,871
+Oswego,VOLNEY 5,Ballots Cast,,,,189
+Oswego,WEST MONROE 1,Ballots Cast,,,,246
+Oswego,WEST MONROE 2,Ballots Cast,,,,838
+Oswego,WEST MONROE 3,Ballots Cast,,,,964
+Oswego,WILLIAMSTOWN 1,Ballots Cast,,,,583
+Oswego,OSWEGO CITY 1-1,Ballots Cast,,,,584
+Oswego,OSWEGO CITY 1-2,Ballots Cast,,,,263
+Oswego,OSWEGO CITY 2-1,Ballots Cast,,,,258
+Oswego,OSWEGO CITY 2-2,Ballots Cast,,,,735
+Oswego,OSWEGO CITY 3-1,Ballots Cast,,,,546
+Oswego,OSWEGO CITY 3-2,Ballots Cast,,,,145
+Oswego,OSWEGO CITY 4-1,Ballots Cast,,,,557
+Oswego,OSWEGO CITY 4-2,Ballots Cast,,,,226
+Oswego,OSWEGO CITY 4-3,Ballots Cast,,,,299
+Oswego,OSWEGO CITY 5-1,Ballots Cast,,,,558
+Oswego,OSWEGO CITY 5-2,Ballots Cast,,,,365
+Oswego,OSWEGO CITY 5-3,Ballots Cast,,,,116
+Oswego,OSWEGO CITY 5-4,Ballots Cast,,,,66
+Oswego,OSWEGO CITY 6-1,Ballots Cast,,,,904
+Oswego,OSWEGO CITY 6-2,Ballots Cast,,,,167
+Oswego,OSWEGO CITY 7-1,Ballots Cast,,,,691
+Oswego,OSWEGO CITY 7-2,Ballots Cast,,,,794
+Oswego,OSWEGO CITY 7-3,Ballots Cast,,,,27
+Oswego,FULTON CITY 1-1,Ballots Cast,,,,475
+Oswego,FULTON CITY 1-2,Ballots Cast,,,,338
+Oswego,FULTON CITY 2-1,Ballots Cast,,,,99
+Oswego,FULTON CITY 2-2,Ballots Cast,,,,491
+Oswego,FULTON CITY 3-1,Ballots Cast,,,,647
+Oswego,FULTON CITY 3-2,Ballots Cast,,,,385
+Oswego,FULTON CITY 4-1,Ballots Cast,,,,280
+Oswego,FULTON CITY 4-2,Ballots Cast,,,,284
+Oswego,FULTON CITY 4-3,Ballots Cast,,,,168
+Oswego,FULTON CITY 5-1,Ballots Cast,,,,366
+Oswego,FULTON CITY 5-2,Ballots Cast,,,,291
+Oswego,FULTON CITY 5-3,Ballots Cast,,,,39
+Oswego,FULTON CITY 6-1,Ballots Cast,,,,388
+Oswego,FULTON CITY 6-2,Ballots Cast,,,,176
+Oswego,ALBION 1,President,,Joseph R. Biden,DEM,103
+Oswego,ALBION 2,President,,Joseph R. Biden,DEM,114
+Oswego,AMBOY 1,President,,Joseph R. Biden,DEM,153
+Oswego,BOYLSTON 1,President,,Joseph R. Biden,DEM,62
+Oswego,CONSTANTIA 1,President,,Joseph R. Biden,DEM,164
+Oswego,CONSTANTIA 2,President,,Joseph R. Biden,DEM,163
+Oswego,CONSTANTIA 3,President,,Joseph R. Biden,DEM,160
+Oswego,CONSTANTIA 4,President,,Joseph R. Biden,DEM,212
+Oswego,GRANBY 1,President,,Joseph R. Biden,DEM,197
+Oswego,GRANBY 2,President,,Joseph R. Biden,DEM,140
+Oswego,GRANBY 3,President,,Joseph R. Biden,DEM,121
+Oswego,GRANBY 4,President,,Joseph R. Biden,DEM,219
+Oswego,GRANBY 5,President,,Joseph R. Biden,DEM,279
+Oswego,HANNIBAL 1,President,,Joseph R. Biden,DEM,68
+Oswego,HANNIBAL 2,President,,Joseph R. Biden,DEM,183
+Oswego,HANNIBAL 3,President,,Joseph R. Biden,DEM,145
+Oswego,HANNIBAL 4,President,,Joseph R. Biden,DEM,199
+Oswego,HASTINGS 1,President,,Joseph R. Biden,DEM,173
+Oswego,HASTINGS 2,President,,Joseph R. Biden,DEM,122
+Oswego,HASTINGS 3,President,,Joseph R. Biden,DEM,325
+Oswego,HASTINGS 4,President,,Joseph R. Biden,DEM,146
+Oswego,HASTINGS 5,President,,Joseph R. Biden,DEM,192
+Oswego,HASTINGS 6,President,,Joseph R. Biden,DEM,15
+Oswego,HASTINGS 7,President,,Joseph R. Biden,DEM,175
+Oswego,HASTINGS 8,President,,Joseph R. Biden,DEM,380
+Oswego,MEXICO 1,President,,Joseph R. Biden,DEM,175
+Oswego,MEXICO 2,President,,Joseph R. Biden,DEM,273
+Oswego,MEXICO 3,President,,Joseph R. Biden,DEM,337
+Oswego,MEXICO 4,President,,Joseph R. Biden,DEM,57
+Oswego,MINETTO 1,President,,Joseph R. Biden,DEM,429
+Oswego,MINETTO 2,President,,Joseph R. Biden,DEM,113
+Oswego,NEW HAVEN 1,President,,Joseph R. Biden,DEM,228
+Oswego,NEW HAVEN 2,President,,Joseph R. Biden,DEM,93
+Oswego,NEW HAVEN 3,President,,Joseph R. Biden,DEM,136
+Oswego,ORWELL 1,President,,Joseph R. Biden,DEM,149
+Oswego,OSWEGO TOWN 1,President,,Joseph R. Biden,DEM,24
+Oswego,OSWEGO TOWN 2,President,,Joseph R. Biden,DEM,57
+Oswego,OSWEGO TOWN 3,President,,Joseph R. Biden,DEM,325
+Oswego,OSWEGO TOWN 4,President,,Joseph R. Biden,DEM,259
+Oswego,OSWEGO TOWN 5,President,,Joseph R. Biden,DEM,128
+Oswego,OSWEGO TOWN 6,President,,Joseph R. Biden,DEM,138
+Oswego,OSWEGO TOWN 7,President,,Joseph R. Biden,DEM,322
+Oswego,PALERMO 1,President,,Joseph R. Biden,DEM,185
+Oswego,PALERMO 2,President,,Joseph R. Biden,DEM,109
+Oswego,PALERMO 3,President,,Joseph R. Biden,DEM,141
+Oswego,PALERMO 4,President,,Joseph R. Biden,DEM,25
+Oswego,PARISH 1,President,,Joseph R. Biden,DEM,182
+Oswego,PARISH 2,President,,Joseph R. Biden,DEM,165
+Oswego,REDFIELD 1,President,,Joseph R. Biden,DEM,67
+Oswego,RICHLAND 1,President,,Joseph R. Biden,DEM,238
+Oswego,RICHLAND 2,President,,Joseph R. Biden,DEM,157
+Oswego,RICHLAND 3,President,,Joseph R. Biden,DEM,134
+Oswego,RICHLAND 4,President,,Joseph R. Biden,DEM,252
+Oswego,RICHLAND 5,President,,Joseph R. Biden,DEM,55
+Oswego,RICHLAND 6,President,,Joseph R. Biden,DEM,48
+Oswego,SANDY CREEK 1,President,,Joseph R. Biden,DEM,312
+Oswego,SANDY CREEK 2,President,,Joseph R. Biden,DEM,193
+Oswego,SANDY CREEK 3,President,,Joseph R. Biden,DEM,101
+Oswego,SCHROEPPEL 1,President,,Joseph R. Biden,DEM,375
+Oswego,SCHROEPPEL 2,President,,Joseph R. Biden,DEM,287
+Oswego,SCHROEPPEL 3,President,,Joseph R. Biden,DEM,135
+Oswego,SCHROEPPEL 4,President,,Joseph R. Biden,DEM,331
+Oswego,SCHROEPPEL 5,President,,Joseph R. Biden,DEM,427
+Oswego,SCRIBA 1,President,,Joseph R. Biden,DEM,246
+Oswego,SCRIBA 2,President,,Joseph R. Biden,DEM,125
+Oswego,SCRIBA 3,President,,Joseph R. Biden,DEM,398
+Oswego,SCRIBA 4,President,,Joseph R. Biden,DEM,210
+Oswego,SCRIBA 5,President,,Joseph R. Biden,DEM,173
+Oswego,SCRIBA 6,President,,Joseph R. Biden,DEM,81
+Oswego,VOLNEY 1,President,,Joseph R. Biden,DEM,163
+Oswego,VOLNEY 2,President,,Joseph R. Biden,DEM,172
+Oswego,VOLNEY 3,President,,Joseph R. Biden,DEM,239
+Oswego,VOLNEY 4,President,,Joseph R. Biden,DEM,288
+Oswego,VOLNEY 5,President,,Joseph R. Biden,DEM,56
+Oswego,WEST MONROE 1,President,,Joseph R. Biden,DEM,65
+Oswego,WEST MONROE 2,President,,Joseph R. Biden,DEM,253
+Oswego,WEST MONROE 3,President,,Joseph R. Biden,DEM,274
+Oswego,WILLIAMSTOWN 1,President,,Joseph R. Biden,DEM,107
+Oswego,OSWEGO CITY 1-1,President,,Joseph R. Biden,DEM,368
+Oswego,OSWEGO CITY 1-2,President,,Joseph R. Biden,DEM,138
+Oswego,OSWEGO CITY 2-1,President,,Joseph R. Biden,DEM,124
+Oswego,OSWEGO CITY 2-2,President,,Joseph R. Biden,DEM,380
+Oswego,OSWEGO CITY 3-1,President,,Joseph R. Biden,DEM,307
+Oswego,OSWEGO CITY 3-2,President,,Joseph R. Biden,DEM,80
+Oswego,OSWEGO CITY 4-1,President,,Joseph R. Biden,DEM,286
+Oswego,OSWEGO CITY 4-2,President,,Joseph R. Biden,DEM,126
+Oswego,OSWEGO CITY 4-3,President,,Joseph R. Biden,DEM,149
+Oswego,OSWEGO CITY 5-1,President,,Joseph R. Biden,DEM,313
+Oswego,OSWEGO CITY 5-2,President,,Joseph R. Biden,DEM,186
+Oswego,OSWEGO CITY 5-3,President,,Joseph R. Biden,DEM,66
+Oswego,OSWEGO CITY 5-4,President,,Joseph R. Biden,DEM,33
+Oswego,OSWEGO CITY 6-1,President,,Joseph R. Biden,DEM,474
+Oswego,OSWEGO CITY 6-2,President,,Joseph R. Biden,DEM,77
+Oswego,OSWEGO CITY 7-1,President,,Joseph R. Biden,DEM,409
+Oswego,OSWEGO CITY 7-2,President,,Joseph R. Biden,DEM,436
+Oswego,OSWEGO CITY 7-3,President,,Joseph R. Biden,DEM,11
+Oswego,FULTON CITY 1-1,President,,Joseph R. Biden,DEM,189
+Oswego,FULTON CITY 1-2,President,,Joseph R. Biden,DEM,116
+Oswego,FULTON CITY 2-1,President,,Joseph R. Biden,DEM,39
+Oswego,FULTON CITY 2-2,President,,Joseph R. Biden,DEM,194
+Oswego,FULTON CITY 3-1,President,,Joseph R. Biden,DEM,270
+Oswego,FULTON CITY 3-2,President,,Joseph R. Biden,DEM,184
+Oswego,FULTON CITY 4-1,President,,Joseph R. Biden,DEM,111
+Oswego,FULTON CITY 4-2,President,,Joseph R. Biden,DEM,130
+Oswego,FULTON CITY 4-3,President,,Joseph R. Biden,DEM,73
+Oswego,FULTON CITY 5-1,President,,Joseph R. Biden,DEM,160
+Oswego,FULTON CITY 5-2,President,,Joseph R. Biden,DEM,137
+Oswego,FULTON CITY 5-3,President,,Joseph R. Biden,DEM,19
+Oswego,FULTON CITY 6-1,President,,Joseph R. Biden,DEM,146
+Oswego,FULTON CITY 6-2,President,,Joseph R. Biden,DEM,64
+Oswego,ALBION 1,President,,Donald J. Trump,REP,304
+Oswego,ALBION 2,President,,Donald J. Trump,REP,312
+Oswego,AMBOY 1,President,,Donald J. Trump,REP,427
+Oswego,BOYLSTON 1,President,,Donald J. Trump,REP,228
+Oswego,CONSTANTIA 1,President,,Donald J. Trump,REP,373
+Oswego,CONSTANTIA 2,President,,Donald J. Trump,REP,357
+Oswego,CONSTANTIA 3,President,,Donald J. Trump,REP,322
+Oswego,CONSTANTIA 4,President,,Donald J. Trump,REP,528
+Oswego,GRANBY 1,President,,Donald J. Trump,REP,275
+Oswego,GRANBY 2,President,,Donald J. Trump,REP,293
+Oswego,GRANBY 3,President,,Donald J. Trump,REP,240
+Oswego,GRANBY 4,President,,Donald J. Trump,REP,497
+Oswego,GRANBY 5,President,,Donald J. Trump,REP,458
+Oswego,HANNIBAL 1,President,,Donald J. Trump,REP,152
+Oswego,HANNIBAL 2,President,,Donald J. Trump,REP,274
+Oswego,HANNIBAL 3,President,,Donald J. Trump,REP,293
+Oswego,HANNIBAL 4,President,,Donald J. Trump,REP,421
+Oswego,HASTINGS 1,President,,Donald J. Trump,REP,377
+Oswego,HASTINGS 2,President,,Donald J. Trump,REP,340
+Oswego,HASTINGS 3,President,,Donald J. Trump,REP,493
+Oswego,HASTINGS 4,President,,Donald J. Trump,REP,255
+Oswego,HASTINGS 5,President,,Donald J. Trump,REP,316
+Oswego,HASTINGS 6,President,,Donald J. Trump,REP,19
+Oswego,HASTINGS 7,President,,Donald J. Trump,REP,377
+Oswego,HASTINGS 8,President,,Donald J. Trump,REP,463
+Oswego,MEXICO 1,President,,Donald J. Trump,REP,354
+Oswego,MEXICO 2,President,,Donald J. Trump,REP,479
+Oswego,MEXICO 3,President,,Donald J. Trump,REP,600
+Oswego,MEXICO 4,President,,Donald J. Trump,REP,124
+Oswego,MINETTO 1,President,,Donald J. Trump,REP,310
+Oswego,MINETTO 2,President,,Donald J. Trump,REP,95
+Oswego,NEW HAVEN 1,President,,Donald J. Trump,REP,449
+Oswego,NEW HAVEN 2,President,,Donald J. Trump,REP,211
+Oswego,NEW HAVEN 3,President,,Donald J. Trump,REP,228
+Oswego,ORWELL 1,President,,Donald J. Trump,REP,346
+Oswego,OSWEGO TOWN 1,President,,Donald J. Trump,REP,4
+Oswego,OSWEGO TOWN 2,President,,Donald J. Trump,REP,7
+Oswego,OSWEGO TOWN 3,President,,Donald J. Trump,REP,226
+Oswego,OSWEGO TOWN 4,President,,Donald J. Trump,REP,214
+Oswego,OSWEGO TOWN 5,President,,Donald J. Trump,REP,165
+Oswego,OSWEGO TOWN 6,President,,Donald J. Trump,REP,232
+Oswego,OSWEGO TOWN 7,President,,Donald J. Trump,REP,292
+Oswego,PALERMO 1,President,,Donald J. Trump,REP,369
+Oswego,PALERMO 2,President,,Donald J. Trump,REP,302
+Oswego,PALERMO 3,President,,Donald J. Trump,REP,304
+Oswego,PALERMO 4,President,,Donald J. Trump,REP,60
+Oswego,PARISH 1,President,,Donald J. Trump,REP,463
+Oswego,PARISH 2,President,,Donald J. Trump,REP,341
+Oswego,REDFIELD 1,President,,Donald J. Trump,REP,187
+Oswego,RICHLAND 1,President,,Donald J. Trump,REP,233
+Oswego,RICHLAND 2,President,,Donald J. Trump,REP,248
+Oswego,RICHLAND 3,President,,Donald J. Trump,REP,329
+Oswego,RICHLAND 4,President,,Donald J. Trump,REP,557
+Oswego,RICHLAND 5,President,,Donald J. Trump,REP,117
+Oswego,RICHLAND 6,President,,Donald J. Trump,REP,83
+Oswego,SANDY CREEK 1,President,,Donald J. Trump,REP,539
+Oswego,SANDY CREEK 2,President,,Donald J. Trump,REP,356
+Oswego,SANDY CREEK 3,President,,Donald J. Trump,REP,184
+Oswego,SCHROEPPEL 1,President,,Donald J. Trump,REP,453
+Oswego,SCHROEPPEL 2,President,,Donald J. Trump,REP,358
+Oswego,SCHROEPPEL 3,President,,Donald J. Trump,REP,332
+Oswego,SCHROEPPEL 4,President,,Donald J. Trump,REP,509
+Oswego,SCHROEPPEL 5,President,,Donald J. Trump,REP,511
+Oswego,SCRIBA 1,President,,Donald J. Trump,REP,345
+Oswego,SCRIBA 2,President,,Donald J. Trump,REP,259
+Oswego,SCRIBA 3,President,,Donald J. Trump,REP,438
+Oswego,SCRIBA 4,President,,Donald J. Trump,REP,337
+Oswego,SCRIBA 5,President,,Donald J. Trump,REP,280
+Oswego,SCRIBA 6,President,,Donald J. Trump,REP,70
+Oswego,VOLNEY 1,President,,Donald J. Trump,REP,177
+Oswego,VOLNEY 2,President,,Donald J. Trump,REP,373
+Oswego,VOLNEY 3,President,,Donald J. Trump,REP,524
+Oswego,VOLNEY 4,President,,Donald J. Trump,REP,479
+Oswego,VOLNEY 5,President,,Donald J. Trump,REP,112
+Oswego,WEST MONROE 1,President,,Donald J. Trump,REP,155
+Oswego,WEST MONROE 2,President,,Donald J. Trump,REP,506
+Oswego,WEST MONROE 3,President,,Donald J. Trump,REP,594
+Oswego,WILLIAMSTOWN 1,President,,Donald J. Trump,REP,409
+Oswego,OSWEGO CITY 1-1,President,,Donald J. Trump,REP,163
+Oswego,OSWEGO CITY 1-2,President,,Donald J. Trump,REP,92
+Oswego,OSWEGO CITY 2-1,President,,Donald J. Trump,REP,116
+Oswego,OSWEGO CITY 2-2,President,,Donald J. Trump,REP,285
+Oswego,OSWEGO CITY 3-1,President,,Donald J. Trump,REP,174
+Oswego,OSWEGO CITY 3-2,President,,Donald J. Trump,REP,37
+Oswego,OSWEGO CITY 4-1,President,,Donald J. Trump,REP,207
+Oswego,OSWEGO CITY 4-2,President,,Donald J. Trump,REP,71
+Oswego,OSWEGO CITY 4-3,President,,Donald J. Trump,REP,120
+Oswego,OSWEGO CITY 5-1,President,,Donald J. Trump,REP,202
+Oswego,OSWEGO CITY 5-2,President,,Donald J. Trump,REP,143
+Oswego,OSWEGO CITY 5-3,President,,Donald J. Trump,REP,43
+Oswego,OSWEGO CITY 5-4,President,,Donald J. Trump,REP,26
+Oswego,OSWEGO CITY 6-1,President,,Donald J. Trump,REP,315
+Oswego,OSWEGO CITY 6-2,President,,Donald J. Trump,REP,68
+Oswego,OSWEGO CITY 7-1,President,,Donald J. Trump,REP,216
+Oswego,OSWEGO CITY 7-2,President,,Donald J. Trump,REP,266
+Oswego,OSWEGO CITY 7-3,President,,Donald J. Trump,REP,16
+Oswego,FULTON CITY 1-1,President,,Donald J. Trump,REP,239
+Oswego,FULTON CITY 1-2,President,,Donald J. Trump,REP,180
+Oswego,FULTON CITY 2-1,President,,Donald J. Trump,REP,53
+Oswego,FULTON CITY 2-2,President,,Donald J. Trump,REP,249
+Oswego,FULTON CITY 3-1,President,,Donald J. Trump,REP,310
+Oswego,FULTON CITY 3-2,President,,Donald J. Trump,REP,170
+Oswego,FULTON CITY 4-1,President,,Donald J. Trump,REP,132
+Oswego,FULTON CITY 4-2,President,,Donald J. Trump,REP,124
+Oswego,FULTON CITY 4-3,President,,Donald J. Trump,REP,82
+Oswego,FULTON CITY 5-1,President,,Donald J. Trump,REP,172
+Oswego,FULTON CITY 5-2,President,,Donald J. Trump,REP,127
+Oswego,FULTON CITY 5-3,President,,Donald J. Trump,REP,16
+Oswego,FULTON CITY 6-1,President,,Donald J. Trump,REP,196
+Oswego,FULTON CITY 6-2,President,,Donald J. Trump,REP,92
+Oswego,ALBION 1,President,,Donald J. Trump,CON,20
+Oswego,ALBION 2,President,,Donald J. Trump,CON,34
+Oswego,AMBOY 1,President,,Donald J. Trump,CON,32
+Oswego,BOYLSTON 1,President,,Donald J. Trump,CON,22
+Oswego,CONSTANTIA 1,President,,Donald J. Trump,CON,39
+Oswego,CONSTANTIA 2,President,,Donald J. Trump,CON,24
+Oswego,CONSTANTIA 3,President,,Donald J. Trump,CON,28
+Oswego,CONSTANTIA 4,President,,Donald J. Trump,CON,37
+Oswego,GRANBY 1,President,,Donald J. Trump,CON,35
+Oswego,GRANBY 2,President,,Donald J. Trump,CON,19
+Oswego,GRANBY 3,President,,Donald J. Trump,CON,17
+Oswego,GRANBY 4,President,,Donald J. Trump,CON,60
+Oswego,GRANBY 5,President,,Donald J. Trump,CON,49
+Oswego,HANNIBAL 1,President,,Donald J. Trump,CON,14
+Oswego,HANNIBAL 2,President,,Donald J. Trump,CON,32
+Oswego,HANNIBAL 3,President,,Donald J. Trump,CON,60
+Oswego,HANNIBAL 4,President,,Donald J. Trump,CON,58
+Oswego,HASTINGS 1,President,,Donald J. Trump,CON,35
+Oswego,HASTINGS 2,President,,Donald J. Trump,CON,37
+Oswego,HASTINGS 3,President,,Donald J. Trump,CON,54
+Oswego,HASTINGS 4,President,,Donald J. Trump,CON,36
+Oswego,HASTINGS 5,President,,Donald J. Trump,CON,29
+Oswego,HASTINGS 6,President,,Donald J. Trump,CON,0
+Oswego,HASTINGS 7,President,,Donald J. Trump,CON,36
+Oswego,HASTINGS 8,President,,Donald J. Trump,CON,43
+Oswego,MEXICO 1,President,,Donald J. Trump,CON,27
+Oswego,MEXICO 2,President,,Donald J. Trump,CON,34
+Oswego,MEXICO 3,President,,Donald J. Trump,CON,47
+Oswego,MEXICO 4,President,,Donald J. Trump,CON,12
+Oswego,MINETTO 1,President,,Donald J. Trump,CON,25
+Oswego,MINETTO 2,President,,Donald J. Trump,CON,9
+Oswego,NEW HAVEN 1,President,,Donald J. Trump,CON,35
+Oswego,NEW HAVEN 2,President,,Donald J. Trump,CON,11
+Oswego,NEW HAVEN 3,President,,Donald J. Trump,CON,26
+Oswego,ORWELL 1,President,,Donald J. Trump,CON,26
+Oswego,OSWEGO TOWN 1,President,,Donald J. Trump,CON,0
+Oswego,OSWEGO TOWN 2,President,,Donald J. Trump,CON,2
+Oswego,OSWEGO TOWN 3,President,,Donald J. Trump,CON,20
+Oswego,OSWEGO TOWN 4,President,,Donald J. Trump,CON,29
+Oswego,OSWEGO TOWN 5,President,,Donald J. Trump,CON,15
+Oswego,OSWEGO TOWN 6,President,,Donald J. Trump,CON,14
+Oswego,OSWEGO TOWN 7,President,,Donald J. Trump,CON,31
+Oswego,PALERMO 1,President,,Donald J. Trump,CON,42
+Oswego,PALERMO 2,President,,Donald J. Trump,CON,35
+Oswego,PALERMO 3,President,,Donald J. Trump,CON,30
+Oswego,PALERMO 4,President,,Donald J. Trump,CON,6
+Oswego,PARISH 1,President,,Donald J. Trump,CON,44
+Oswego,PARISH 2,President,,Donald J. Trump,CON,26
+Oswego,REDFIELD 1,President,,Donald J. Trump,CON,14
+Oswego,RICHLAND 1,President,,Donald J. Trump,CON,18
+Oswego,RICHLAND 2,President,,Donald J. Trump,CON,15
+Oswego,RICHLAND 3,President,,Donald J. Trump,CON,20
+Oswego,RICHLAND 4,President,,Donald J. Trump,CON,51
+Oswego,RICHLAND 5,President,,Donald J. Trump,CON,2
+Oswego,RICHLAND 6,President,,Donald J. Trump,CON,9
+Oswego,SANDY CREEK 1,President,,Donald J. Trump,CON,25
+Oswego,SANDY CREEK 2,President,,Donald J. Trump,CON,34
+Oswego,SANDY CREEK 3,President,,Donald J. Trump,CON,6
+Oswego,SCHROEPPEL 1,President,,Donald J. Trump,CON,54
+Oswego,SCHROEPPEL 2,President,,Donald J. Trump,CON,25
+Oswego,SCHROEPPEL 3,President,,Donald J. Trump,CON,34
+Oswego,SCHROEPPEL 4,President,,Donald J. Trump,CON,53
+Oswego,SCHROEPPEL 5,President,,Donald J. Trump,CON,38
+Oswego,SCRIBA 1,President,,Donald J. Trump,CON,37
+Oswego,SCRIBA 2,President,,Donald J. Trump,CON,28
+Oswego,SCRIBA 3,President,,Donald J. Trump,CON,43
+Oswego,SCRIBA 4,President,,Donald J. Trump,CON,41
+Oswego,SCRIBA 5,President,,Donald J. Trump,CON,22
+Oswego,SCRIBA 6,President,,Donald J. Trump,CON,10
+Oswego,VOLNEY 1,President,,Donald J. Trump,CON,13
+Oswego,VOLNEY 2,President,,Donald J. Trump,CON,31
+Oswego,VOLNEY 3,President,,Donald J. Trump,CON,42
+Oswego,VOLNEY 4,President,,Donald J. Trump,CON,67
+Oswego,VOLNEY 5,President,,Donald J. Trump,CON,17
+Oswego,WEST MONROE 1,President,,Donald J. Trump,CON,13
+Oswego,WEST MONROE 2,President,,Donald J. Trump,CON,44
+Oswego,WEST MONROE 3,President,,Donald J. Trump,CON,61
+Oswego,WILLIAMSTOWN 1,President,,Donald J. Trump,CON,36
+Oswego,OSWEGO CITY 1-1,President,,Donald J. Trump,CON,12
+Oswego,OSWEGO CITY 1-2,President,,Donald J. Trump,CON,11
+Oswego,OSWEGO CITY 2-1,President,,Donald J. Trump,CON,7
+Oswego,OSWEGO CITY 2-2,President,,Donald J. Trump,CON,24
+Oswego,OSWEGO CITY 3-1,President,,Donald J. Trump,CON,25
+Oswego,OSWEGO CITY 3-2,President,,Donald J. Trump,CON,11
+Oswego,OSWEGO CITY 4-1,President,,Donald J. Trump,CON,24
+Oswego,OSWEGO CITY 4-2,President,,Donald J. Trump,CON,6
+Oswego,OSWEGO CITY 4-3,President,,Donald J. Trump,CON,13
+Oswego,OSWEGO CITY 5-1,President,,Donald J. Trump,CON,18
+Oswego,OSWEGO CITY 5-2,President,,Donald J. Trump,CON,9
+Oswego,OSWEGO CITY 5-3,President,,Donald J. Trump,CON,2
+Oswego,OSWEGO CITY 5-4,President,,Donald J. Trump,CON,3
+Oswego,OSWEGO CITY 6-1,President,,Donald J. Trump,CON,51
+Oswego,OSWEGO CITY 6-2,President,,Donald J. Trump,CON,10
+Oswego,OSWEGO CITY 7-1,President,,Donald J. Trump,CON,27
+Oswego,OSWEGO CITY 7-2,President,,Donald J. Trump,CON,33
+Oswego,OSWEGO CITY 7-3,President,,Donald J. Trump,CON,0
+Oswego,FULTON CITY 1-1,President,,Donald J. Trump,CON,25
+Oswego,FULTON CITY 1-2,President,,Donald J. Trump,CON,24
+Oswego,FULTON CITY 2-1,President,,Donald J. Trump,CON,1
+Oswego,FULTON CITY 2-2,President,,Donald J. Trump,CON,21
+Oswego,FULTON CITY 3-1,President,,Donald J. Trump,CON,42
+Oswego,FULTON CITY 3-2,President,,Donald J. Trump,CON,14
+Oswego,FULTON CITY 4-1,President,,Donald J. Trump,CON,14
+Oswego,FULTON CITY 4-2,President,,Donald J. Trump,CON,17
+Oswego,FULTON CITY 4-3,President,,Donald J. Trump,CON,7
+Oswego,FULTON CITY 5-1,President,,Donald J. Trump,CON,16
+Oswego,FULTON CITY 5-2,President,,Donald J. Trump,CON,13
+Oswego,FULTON CITY 5-3,President,,Donald J. Trump,CON,0
+Oswego,FULTON CITY 6-1,President,,Donald J. Trump,CON,24
+Oswego,FULTON CITY 6-2,President,,Donald J. Trump,CON,14
+Oswego,ALBION 1,President,,Joseph R. Biden,WOR,5
+Oswego,ALBION 2,President,,Joseph R. Biden,WOR,4
+Oswego,AMBOY 1,President,,Joseph R. Biden,WOR,10
+Oswego,BOYLSTON 1,President,,Joseph R. Biden,WOR,4
+Oswego,CONSTANTIA 1,President,,Joseph R. Biden,WOR,12
+Oswego,CONSTANTIA 2,President,,Joseph R. Biden,WOR,10
+Oswego,CONSTANTIA 3,President,,Joseph R. Biden,WOR,9
+Oswego,CONSTANTIA 4,President,,Joseph R. Biden,WOR,12
+Oswego,GRANBY 1,President,,Joseph R. Biden,WOR,12
+Oswego,GRANBY 2,President,,Joseph R. Biden,WOR,14
+Oswego,GRANBY 3,President,,Joseph R. Biden,WOR,5
+Oswego,GRANBY 4,President,,Joseph R. Biden,WOR,18
+Oswego,GRANBY 5,President,,Joseph R. Biden,WOR,18
+Oswego,HANNIBAL 1,President,,Joseph R. Biden,WOR,3
+Oswego,HANNIBAL 2,President,,Joseph R. Biden,WOR,7
+Oswego,HANNIBAL 3,President,,Joseph R. Biden,WOR,8
+Oswego,HANNIBAL 4,President,,Joseph R. Biden,WOR,8
+Oswego,HASTINGS 1,President,,Joseph R. Biden,WOR,10
+Oswego,HASTINGS 2,President,,Joseph R. Biden,WOR,15
+Oswego,HASTINGS 3,President,,Joseph R. Biden,WOR,15
+Oswego,HASTINGS 4,President,,Joseph R. Biden,WOR,7
+Oswego,HASTINGS 5,President,,Joseph R. Biden,WOR,13
+Oswego,HASTINGS 6,President,,Joseph R. Biden,WOR,3
+Oswego,HASTINGS 7,President,,Joseph R. Biden,WOR,11
+Oswego,HASTINGS 8,President,,Joseph R. Biden,WOR,17
+Oswego,MEXICO 1,President,,Joseph R. Biden,WOR,18
+Oswego,MEXICO 2,President,,Joseph R. Biden,WOR,17
+Oswego,MEXICO 3,President,,Joseph R. Biden,WOR,14
+Oswego,MEXICO 4,President,,Joseph R. Biden,WOR,6
+Oswego,MINETTO 1,President,,Joseph R. Biden,WOR,29
+Oswego,MINETTO 2,President,,Joseph R. Biden,WOR,9
+Oswego,NEW HAVEN 1,President,,Joseph R. Biden,WOR,15
+Oswego,NEW HAVEN 2,President,,Joseph R. Biden,WOR,7
+Oswego,NEW HAVEN 3,President,,Joseph R. Biden,WOR,5
+Oswego,ORWELL 1,President,,Joseph R. Biden,WOR,8
+Oswego,OSWEGO TOWN 1,President,,Joseph R. Biden,WOR,4
+Oswego,OSWEGO TOWN 2,President,,Joseph R. Biden,WOR,5
+Oswego,OSWEGO TOWN 3,President,,Joseph R. Biden,WOR,15
+Oswego,OSWEGO TOWN 4,President,,Joseph R. Biden,WOR,9
+Oswego,OSWEGO TOWN 5,President,,Joseph R. Biden,WOR,7
+Oswego,OSWEGO TOWN 6,President,,Joseph R. Biden,WOR,8
+Oswego,OSWEGO TOWN 7,President,,Joseph R. Biden,WOR,15
+Oswego,PALERMO 1,President,,Joseph R. Biden,WOR,9
+Oswego,PALERMO 2,President,,Joseph R. Biden,WOR,7
+Oswego,PALERMO 3,President,,Joseph R. Biden,WOR,6
+Oswego,PALERMO 4,President,,Joseph R. Biden,WOR,1
+Oswego,PARISH 1,President,,Joseph R. Biden,WOR,9
+Oswego,PARISH 2,President,,Joseph R. Biden,WOR,10
+Oswego,REDFIELD 1,President,,Joseph R. Biden,WOR,3
+Oswego,RICHLAND 1,President,,Joseph R. Biden,WOR,16
+Oswego,RICHLAND 2,President,,Joseph R. Biden,WOR,9
+Oswego,RICHLAND 3,President,,Joseph R. Biden,WOR,11
+Oswego,RICHLAND 4,President,,Joseph R. Biden,WOR,18
+Oswego,RICHLAND 5,President,,Joseph R. Biden,WOR,2
+Oswego,RICHLAND 6,President,,Joseph R. Biden,WOR,2
+Oswego,SANDY CREEK 1,President,,Joseph R. Biden,WOR,8
+Oswego,SANDY CREEK 2,President,,Joseph R. Biden,WOR,10
+Oswego,SANDY CREEK 3,President,,Joseph R. Biden,WOR,8
+Oswego,SCHROEPPEL 1,President,,Joseph R. Biden,WOR,14
+Oswego,SCHROEPPEL 2,President,,Joseph R. Biden,WOR,14
+Oswego,SCHROEPPEL 3,President,,Joseph R. Biden,WOR,6
+Oswego,SCHROEPPEL 4,President,,Joseph R. Biden,WOR,24
+Oswego,SCHROEPPEL 5,President,,Joseph R. Biden,WOR,15
+Oswego,SCRIBA 1,President,,Joseph R. Biden,WOR,11
+Oswego,SCRIBA 2,President,,Joseph R. Biden,WOR,10
+Oswego,SCRIBA 3,President,,Joseph R. Biden,WOR,13
+Oswego,SCRIBA 4,President,,Joseph R. Biden,WOR,15
+Oswego,SCRIBA 5,President,,Joseph R. Biden,WOR,11
+Oswego,SCRIBA 6,President,,Joseph R. Biden,WOR,5
+Oswego,VOLNEY 1,President,,Joseph R. Biden,WOR,13
+Oswego,VOLNEY 2,President,,Joseph R. Biden,WOR,10
+Oswego,VOLNEY 3,President,,Joseph R. Biden,WOR,15
+Oswego,VOLNEY 4,President,,Joseph R. Biden,WOR,16
+Oswego,VOLNEY 5,President,,Joseph R. Biden,WOR,1
+Oswego,WEST MONROE 1,President,,Joseph R. Biden,WOR,6
+Oswego,WEST MONROE 2,President,,Joseph R. Biden,WOR,12
+Oswego,WEST MONROE 3,President,,Joseph R. Biden,WOR,14
+Oswego,WILLIAMSTOWN 1,President,,Joseph R. Biden,WOR,14
+Oswego,OSWEGO CITY 1-1,President,,Joseph R. Biden,WOR,23
+Oswego,OSWEGO CITY 1-2,President,,Joseph R. Biden,WOR,8
+Oswego,OSWEGO CITY 2-1,President,,Joseph R. Biden,WOR,4
+Oswego,OSWEGO CITY 2-2,President,,Joseph R. Biden,WOR,17
+Oswego,OSWEGO CITY 3-1,President,,Joseph R. Biden,WOR,17
+Oswego,OSWEGO CITY 3-2,President,,Joseph R. Biden,WOR,12
+Oswego,OSWEGO CITY 4-1,President,,Joseph R. Biden,WOR,16
+Oswego,OSWEGO CITY 4-2,President,,Joseph R. Biden,WOR,15
+Oswego,OSWEGO CITY 4-3,President,,Joseph R. Biden,WOR,7
+Oswego,OSWEGO CITY 5-1,President,,Joseph R. Biden,WOR,16
+Oswego,OSWEGO CITY 5-2,President,,Joseph R. Biden,WOR,12
+Oswego,OSWEGO CITY 5-3,President,,Joseph R. Biden,WOR,2
+Oswego,OSWEGO CITY 5-4,President,,Joseph R. Biden,WOR,3
+Oswego,OSWEGO CITY 6-1,President,,Joseph R. Biden,WOR,32
+Oswego,OSWEGO CITY 6-2,President,,Joseph R. Biden,WOR,7
+Oswego,OSWEGO CITY 7-1,President,,Joseph R. Biden,WOR,18
+Oswego,OSWEGO CITY 7-2,President,,Joseph R. Biden,WOR,25
+Oswego,OSWEGO CITY 7-3,President,,Joseph R. Biden,WOR,0
+Oswego,FULTON CITY 1-1,President,,Joseph R. Biden,WOR,12
+Oswego,FULTON CITY 1-2,President,,Joseph R. Biden,WOR,3
+Oswego,FULTON CITY 2-1,President,,Joseph R. Biden,WOR,3
+Oswego,FULTON CITY 2-2,President,,Joseph R. Biden,WOR,13
+Oswego,FULTON CITY 3-1,President,,Joseph R. Biden,WOR,10
+Oswego,FULTON CITY 3-2,President,,Joseph R. Biden,WOR,5
+Oswego,FULTON CITY 4-1,President,,Joseph R. Biden,WOR,11
+Oswego,FULTON CITY 4-2,President,,Joseph R. Biden,WOR,5
+Oswego,FULTON CITY 4-3,President,,Joseph R. Biden,WOR,0
+Oswego,FULTON CITY 5-1,President,,Joseph R. Biden,WOR,2
+Oswego,FULTON CITY 5-2,President,,Joseph R. Biden,WOR,6
+Oswego,FULTON CITY 5-3,President,,Joseph R. Biden,WOR,2
+Oswego,FULTON CITY 6-1,President,,Joseph R. Biden,WOR,10
+Oswego,FULTON CITY 6-2,President,,Joseph R. Biden,WOR,3
+Oswego,ALBION 1,President,,Howie Hawkins,GRE,1
+Oswego,ALBION 2,President,,Howie Hawkins,GRE,0
+Oswego,AMBOY 1,President,,Howie Hawkins,GRE,6
+Oswego,BOYLSTON 1,President,,Howie Hawkins,GRE,0
+Oswego,CONSTANTIA 1,President,,Howie Hawkins,GRE,2
+Oswego,CONSTANTIA 2,President,,Howie Hawkins,GRE,7
+Oswego,CONSTANTIA 3,President,,Howie Hawkins,GRE,2
+Oswego,CONSTANTIA 4,President,,Howie Hawkins,GRE,3
+Oswego,GRANBY 1,President,,Howie Hawkins,GRE,4
+Oswego,GRANBY 2,President,,Howie Hawkins,GRE,2
+Oswego,GRANBY 3,President,,Howie Hawkins,GRE,0
+Oswego,GRANBY 4,President,,Howie Hawkins,GRE,5
+Oswego,GRANBY 5,President,,Howie Hawkins,GRE,5
+Oswego,HANNIBAL 1,President,,Howie Hawkins,GRE,2
+Oswego,HANNIBAL 2,President,,Howie Hawkins,GRE,4
+Oswego,HANNIBAL 3,President,,Howie Hawkins,GRE,0
+Oswego,HANNIBAL 4,President,,Howie Hawkins,GRE,3
+Oswego,HASTINGS 1,President,,Howie Hawkins,GRE,4
+Oswego,HASTINGS 2,President,,Howie Hawkins,GRE,4
+Oswego,HASTINGS 3,President,,Howie Hawkins,GRE,5
+Oswego,HASTINGS 4,President,,Howie Hawkins,GRE,1
+Oswego,HASTINGS 5,President,,Howie Hawkins,GRE,1
+Oswego,HASTINGS 6,President,,Howie Hawkins,GRE,0
+Oswego,HASTINGS 7,President,,Howie Hawkins,GRE,3
+Oswego,HASTINGS 8,President,,Howie Hawkins,GRE,2
+Oswego,MEXICO 1,President,,Howie Hawkins,GRE,2
+Oswego,MEXICO 2,President,,Howie Hawkins,GRE,0
+Oswego,MEXICO 3,President,,Howie Hawkins,GRE,9
+Oswego,MEXICO 4,President,,Howie Hawkins,GRE,0
+Oswego,MINETTO 1,President,,Howie Hawkins,GRE,4
+Oswego,MINETTO 2,President,,Howie Hawkins,GRE,1
+Oswego,NEW HAVEN 1,President,,Howie Hawkins,GRE,4
+Oswego,NEW HAVEN 2,President,,Howie Hawkins,GRE,4
+Oswego,NEW HAVEN 3,President,,Howie Hawkins,GRE,1
+Oswego,ORWELL 1,President,,Howie Hawkins,GRE,2
+Oswego,OSWEGO TOWN 1,President,,Howie Hawkins,GRE,0
+Oswego,OSWEGO TOWN 2,President,,Howie Hawkins,GRE,0
+Oswego,OSWEGO TOWN 3,President,,Howie Hawkins,GRE,4
+Oswego,OSWEGO TOWN 4,President,,Howie Hawkins,GRE,3
+Oswego,OSWEGO TOWN 5,President,,Howie Hawkins,GRE,2
+Oswego,OSWEGO TOWN 6,President,,Howie Hawkins,GRE,4
+Oswego,OSWEGO TOWN 7,President,,Howie Hawkins,GRE,5
+Oswego,PALERMO 1,President,,Howie Hawkins,GRE,0
+Oswego,PALERMO 2,President,,Howie Hawkins,GRE,0
+Oswego,PALERMO 3,President,,Howie Hawkins,GRE,3
+Oswego,PALERMO 4,President,,Howie Hawkins,GRE,1
+Oswego,PARISH 1,President,,Howie Hawkins,GRE,4
+Oswego,PARISH 2,President,,Howie Hawkins,GRE,2
+Oswego,REDFIELD 1,President,,Howie Hawkins,GRE,0
+Oswego,RICHLAND 1,President,,Howie Hawkins,GRE,4
+Oswego,RICHLAND 2,President,,Howie Hawkins,GRE,2
+Oswego,RICHLAND 3,President,,Howie Hawkins,GRE,0
+Oswego,RICHLAND 4,President,,Howie Hawkins,GRE,1
+Oswego,RICHLAND 5,President,,Howie Hawkins,GRE,0
+Oswego,RICHLAND 6,President,,Howie Hawkins,GRE,2
+Oswego,SANDY CREEK 1,President,,Howie Hawkins,GRE,9
+Oswego,SANDY CREEK 2,President,,Howie Hawkins,GRE,4
+Oswego,SANDY CREEK 3,President,,Howie Hawkins,GRE,1
+Oswego,SCHROEPPEL 1,President,,Howie Hawkins,GRE,4
+Oswego,SCHROEPPEL 2,President,,Howie Hawkins,GRE,2
+Oswego,SCHROEPPEL 3,President,,Howie Hawkins,GRE,1
+Oswego,SCHROEPPEL 4,President,,Howie Hawkins,GRE,9
+Oswego,SCHROEPPEL 5,President,,Howie Hawkins,GRE,3
+Oswego,SCRIBA 1,President,,Howie Hawkins,GRE,3
+Oswego,SCRIBA 2,President,,Howie Hawkins,GRE,1
+Oswego,SCRIBA 3,President,,Howie Hawkins,GRE,4
+Oswego,SCRIBA 4,President,,Howie Hawkins,GRE,3
+Oswego,SCRIBA 5,President,,Howie Hawkins,GRE,2
+Oswego,SCRIBA 6,President,,Howie Hawkins,GRE,1
+Oswego,VOLNEY 1,President,,Howie Hawkins,GRE,2
+Oswego,VOLNEY 2,President,,Howie Hawkins,GRE,2
+Oswego,VOLNEY 3,President,,Howie Hawkins,GRE,1
+Oswego,VOLNEY 4,President,,Howie Hawkins,GRE,5
+Oswego,VOLNEY 5,President,,Howie Hawkins,GRE,1
+Oswego,WEST MONROE 1,President,,Howie Hawkins,GRE,2
+Oswego,WEST MONROE 2,President,,Howie Hawkins,GRE,5
+Oswego,WEST MONROE 3,President,,Howie Hawkins,GRE,3
+Oswego,WILLIAMSTOWN 1,President,,Howie Hawkins,GRE,5
+Oswego,OSWEGO CITY 1-1,President,,Howie Hawkins,GRE,5
+Oswego,OSWEGO CITY 1-2,President,,Howie Hawkins,GRE,1
+Oswego,OSWEGO CITY 2-1,President,,Howie Hawkins,GRE,0
+Oswego,OSWEGO CITY 2-2,President,,Howie Hawkins,GRE,4
+Oswego,OSWEGO CITY 3-1,President,,Howie Hawkins,GRE,5
+Oswego,OSWEGO CITY 3-2,President,,Howie Hawkins,GRE,3
+Oswego,OSWEGO CITY 4-1,President,,Howie Hawkins,GRE,4
+Oswego,OSWEGO CITY 4-2,President,,Howie Hawkins,GRE,1
+Oswego,OSWEGO CITY 4-3,President,,Howie Hawkins,GRE,5
+Oswego,OSWEGO CITY 5-1,President,,Howie Hawkins,GRE,3
+Oswego,OSWEGO CITY 5-2,President,,Howie Hawkins,GRE,4
+Oswego,OSWEGO CITY 5-3,President,,Howie Hawkins,GRE,2
+Oswego,OSWEGO CITY 5-4,President,,Howie Hawkins,GRE,1
+Oswego,OSWEGO CITY 6-1,President,,Howie Hawkins,GRE,7
+Oswego,OSWEGO CITY 6-2,President,,Howie Hawkins,GRE,0
+Oswego,OSWEGO CITY 7-1,President,,Howie Hawkins,GRE,6
+Oswego,OSWEGO CITY 7-2,President,,Howie Hawkins,GRE,2
+Oswego,OSWEGO CITY 7-3,President,,Howie Hawkins,GRE,0
+Oswego,FULTON CITY 1-1,President,,Howie Hawkins,GRE,0
+Oswego,FULTON CITY 1-2,President,,Howie Hawkins,GRE,3
+Oswego,FULTON CITY 2-1,President,,Howie Hawkins,GRE,0
+Oswego,FULTON CITY 2-2,President,,Howie Hawkins,GRE,3
+Oswego,FULTON CITY 3-1,President,,Howie Hawkins,GRE,4
+Oswego,FULTON CITY 3-2,President,,Howie Hawkins,GRE,4
+Oswego,FULTON CITY 4-1,President,,Howie Hawkins,GRE,5
+Oswego,FULTON CITY 4-2,President,,Howie Hawkins,GRE,0
+Oswego,FULTON CITY 4-3,President,,Howie Hawkins,GRE,0
+Oswego,FULTON CITY 5-1,President,,Howie Hawkins,GRE,5
+Oswego,FULTON CITY 5-2,President,,Howie Hawkins,GRE,2
+Oswego,FULTON CITY 5-3,President,,Howie Hawkins,GRE,0
+Oswego,FULTON CITY 6-1,President,,Howie Hawkins,GRE,2
+Oswego,FULTON CITY 6-2,President,,Howie Hawkins,GRE,0
+Oswego,ALBION 1,President,,Jo Jorgensen,LBT,9
+Oswego,ALBION 2,President,,Jo Jorgensen,LBT,7
+Oswego,AMBOY 1,President,,Jo Jorgensen,LBT,9
+Oswego,BOYLSTON 1,President,,Jo Jorgensen,LBT,3
+Oswego,CONSTANTIA 1,President,,Jo Jorgensen,LBT,12
+Oswego,CONSTANTIA 2,President,,Jo Jorgensen,LBT,7
+Oswego,CONSTANTIA 3,President,,Jo Jorgensen,LBT,6
+Oswego,CONSTANTIA 4,President,,Jo Jorgensen,LBT,8
+Oswego,GRANBY 1,President,,Jo Jorgensen,LBT,3
+Oswego,GRANBY 2,President,,Jo Jorgensen,LBT,9
+Oswego,GRANBY 3,President,,Jo Jorgensen,LBT,7
+Oswego,GRANBY 4,President,,Jo Jorgensen,LBT,9
+Oswego,GRANBY 5,President,,Jo Jorgensen,LBT,15
+Oswego,HANNIBAL 1,President,,Jo Jorgensen,LBT,1
+Oswego,HANNIBAL 2,President,,Jo Jorgensen,LBT,8
+Oswego,HANNIBAL 3,President,,Jo Jorgensen,LBT,1
+Oswego,HANNIBAL 4,President,,Jo Jorgensen,LBT,11
+Oswego,HASTINGS 1,President,,Jo Jorgensen,LBT,2
+Oswego,HASTINGS 2,President,,Jo Jorgensen,LBT,7
+Oswego,HASTINGS 3,President,,Jo Jorgensen,LBT,12
+Oswego,HASTINGS 4,President,,Jo Jorgensen,LBT,6
+Oswego,HASTINGS 5,President,,Jo Jorgensen,LBT,7
+Oswego,HASTINGS 6,President,,Jo Jorgensen,LBT,2
+Oswego,HASTINGS 7,President,,Jo Jorgensen,LBT,8
+Oswego,HASTINGS 8,President,,Jo Jorgensen,LBT,19
+Oswego,MEXICO 1,President,,Jo Jorgensen,LBT,9
+Oswego,MEXICO 2,President,,Jo Jorgensen,LBT,7
+Oswego,MEXICO 3,President,,Jo Jorgensen,LBT,13
+Oswego,MEXICO 4,President,,Jo Jorgensen,LBT,4
+Oswego,MINETTO 1,President,,Jo Jorgensen,LBT,9
+Oswego,MINETTO 2,President,,Jo Jorgensen,LBT,3
+Oswego,NEW HAVEN 1,President,,Jo Jorgensen,LBT,7
+Oswego,NEW HAVEN 2,President,,Jo Jorgensen,LBT,4
+Oswego,NEW HAVEN 3,President,,Jo Jorgensen,LBT,2
+Oswego,ORWELL 1,President,,Jo Jorgensen,LBT,8
+Oswego,OSWEGO TOWN 1,President,,Jo Jorgensen,LBT,0
+Oswego,OSWEGO TOWN 2,President,,Jo Jorgensen,LBT,1
+Oswego,OSWEGO TOWN 3,President,,Jo Jorgensen,LBT,9
+Oswego,OSWEGO TOWN 4,President,,Jo Jorgensen,LBT,4
+Oswego,OSWEGO TOWN 5,President,,Jo Jorgensen,LBT,0
+Oswego,OSWEGO TOWN 6,President,,Jo Jorgensen,LBT,7
+Oswego,OSWEGO TOWN 7,President,,Jo Jorgensen,LBT,8
+Oswego,PALERMO 1,President,,Jo Jorgensen,LBT,7
+Oswego,PALERMO 2,President,,Jo Jorgensen,LBT,5
+Oswego,PALERMO 3,President,,Jo Jorgensen,LBT,4
+Oswego,PALERMO 4,President,,Jo Jorgensen,LBT,2
+Oswego,PARISH 1,President,,Jo Jorgensen,LBT,12
+Oswego,PARISH 2,President,,Jo Jorgensen,LBT,9
+Oswego,REDFIELD 1,President,,Jo Jorgensen,LBT,2
+Oswego,RICHLAND 1,President,,Jo Jorgensen,LBT,7
+Oswego,RICHLAND 2,President,,Jo Jorgensen,LBT,7
+Oswego,RICHLAND 3,President,,Jo Jorgensen,LBT,9
+Oswego,RICHLAND 4,President,,Jo Jorgensen,LBT,8
+Oswego,RICHLAND 5,President,,Jo Jorgensen,LBT,2
+Oswego,RICHLAND 6,President,,Jo Jorgensen,LBT,1
+Oswego,SANDY CREEK 1,President,,Jo Jorgensen,LBT,7
+Oswego,SANDY CREEK 2,President,,Jo Jorgensen,LBT,7
+Oswego,SANDY CREEK 3,President,,Jo Jorgensen,LBT,9
+Oswego,SCHROEPPEL 1,President,,Jo Jorgensen,LBT,17
+Oswego,SCHROEPPEL 2,President,,Jo Jorgensen,LBT,7
+Oswego,SCHROEPPEL 3,President,,Jo Jorgensen,LBT,11
+Oswego,SCHROEPPEL 4,President,,Jo Jorgensen,LBT,23
+Oswego,SCHROEPPEL 5,President,,Jo Jorgensen,LBT,18
+Oswego,SCRIBA 1,President,,Jo Jorgensen,LBT,6
+Oswego,SCRIBA 2,President,,Jo Jorgensen,LBT,6
+Oswego,SCRIBA 3,President,,Jo Jorgensen,LBT,10
+Oswego,SCRIBA 4,President,,Jo Jorgensen,LBT,4
+Oswego,SCRIBA 5,President,,Jo Jorgensen,LBT,15
+Oswego,SCRIBA 6,President,,Jo Jorgensen,LBT,6
+Oswego,VOLNEY 1,President,,Jo Jorgensen,LBT,2
+Oswego,VOLNEY 2,President,,Jo Jorgensen,LBT,4
+Oswego,VOLNEY 3,President,,Jo Jorgensen,LBT,5
+Oswego,VOLNEY 4,President,,Jo Jorgensen,LBT,6
+Oswego,VOLNEY 5,President,,Jo Jorgensen,LBT,2
+Oswego,WEST MONROE 1,President,,Jo Jorgensen,LBT,4
+Oswego,WEST MONROE 2,President,,Jo Jorgensen,LBT,11
+Oswego,WEST MONROE 3,President,,Jo Jorgensen,LBT,8
+Oswego,WILLIAMSTOWN 1,President,,Jo Jorgensen,LBT,9
+Oswego,OSWEGO CITY 1-1,President,,Jo Jorgensen,LBT,7
+Oswego,OSWEGO CITY 1-2,President,,Jo Jorgensen,LBT,5
+Oswego,OSWEGO CITY 2-1,President,,Jo Jorgensen,LBT,4
+Oswego,OSWEGO CITY 2-2,President,,Jo Jorgensen,LBT,13
+Oswego,OSWEGO CITY 3-1,President,,Jo Jorgensen,LBT,7
+Oswego,OSWEGO CITY 3-2,President,,Jo Jorgensen,LBT,1
+Oswego,OSWEGO CITY 4-1,President,,Jo Jorgensen,LBT,11
+Oswego,OSWEGO CITY 4-2,President,,Jo Jorgensen,LBT,3
+Oswego,OSWEGO CITY 4-3,President,,Jo Jorgensen,LBT,4
+Oswego,OSWEGO CITY 5-1,President,,Jo Jorgensen,LBT,4
+Oswego,OSWEGO CITY 5-2,President,,Jo Jorgensen,LBT,5
+Oswego,OSWEGO CITY 5-3,President,,Jo Jorgensen,LBT,0
+Oswego,OSWEGO CITY 5-4,President,,Jo Jorgensen,LBT,0
+Oswego,OSWEGO CITY 6-1,President,,Jo Jorgensen,LBT,10
+Oswego,OSWEGO CITY 6-2,President,,Jo Jorgensen,LBT,3
+Oswego,OSWEGO CITY 7-1,President,,Jo Jorgensen,LBT,3
+Oswego,OSWEGO CITY 7-2,President,,Jo Jorgensen,LBT,9
+Oswego,OSWEGO CITY 7-3,President,,Jo Jorgensen,LBT,0
+Oswego,FULTON CITY 1-1,President,,Jo Jorgensen,LBT,3
+Oswego,FULTON CITY 1-2,President,,Jo Jorgensen,LBT,8
+Oswego,FULTON CITY 2-1,President,,Jo Jorgensen,LBT,2
+Oswego,FULTON CITY 2-2,President,,Jo Jorgensen,LBT,6
+Oswego,FULTON CITY 3-1,President,,Jo Jorgensen,LBT,3
+Oswego,FULTON CITY 3-2,President,,Jo Jorgensen,LBT,4
+Oswego,FULTON CITY 4-1,President,,Jo Jorgensen,LBT,4
+Oswego,FULTON CITY 4-2,President,,Jo Jorgensen,LBT,2
+Oswego,FULTON CITY 4-3,President,,Jo Jorgensen,LBT,2
+Oswego,FULTON CITY 5-1,President,,Jo Jorgensen,LBT,5
+Oswego,FULTON CITY 5-2,President,,Jo Jorgensen,LBT,3
+Oswego,FULTON CITY 5-3,President,,Jo Jorgensen,LBT,1
+Oswego,FULTON CITY 6-1,President,,Jo Jorgensen,LBT,8
+Oswego,FULTON CITY 6-2,President,,Jo Jorgensen,LBT,3
+Oswego,ALBION 1,President,,Brock Pierce,IND,0
+Oswego,ALBION 2,President,,Brock Pierce,IND,0
+Oswego,AMBOY 1,President,,Brock Pierce,IND,3
+Oswego,BOYLSTON 1,President,,Brock Pierce,IND,2
+Oswego,CONSTANTIA 1,President,,Brock Pierce,IND,1
+Oswego,CONSTANTIA 2,President,,Brock Pierce,IND,0
+Oswego,CONSTANTIA 3,President,,Brock Pierce,IND,3
+Oswego,CONSTANTIA 4,President,,Brock Pierce,IND,1
+Oswego,GRANBY 1,President,,Brock Pierce,IND,2
+Oswego,GRANBY 2,President,,Brock Pierce,IND,2
+Oswego,GRANBY 3,President,,Brock Pierce,IND,1
+Oswego,GRANBY 4,President,,Brock Pierce,IND,1
+Oswego,GRANBY 5,President,,Brock Pierce,IND,2
+Oswego,HANNIBAL 1,President,,Brock Pierce,IND,2
+Oswego,HANNIBAL 2,President,,Brock Pierce,IND,4
+Oswego,HANNIBAL 3,President,,Brock Pierce,IND,1
+Oswego,HANNIBAL 4,President,,Brock Pierce,IND,1
+Oswego,HASTINGS 1,President,,Brock Pierce,IND,2
+Oswego,HASTINGS 2,President,,Brock Pierce,IND,0
+Oswego,HASTINGS 3,President,,Brock Pierce,IND,4
+Oswego,HASTINGS 4,President,,Brock Pierce,IND,1
+Oswego,HASTINGS 5,President,,Brock Pierce,IND,3
+Oswego,HASTINGS 6,President,,Brock Pierce,IND,0
+Oswego,HASTINGS 7,President,,Brock Pierce,IND,1
+Oswego,HASTINGS 8,President,,Brock Pierce,IND,6
+Oswego,MEXICO 1,President,,Brock Pierce,IND,4
+Oswego,MEXICO 2,President,,Brock Pierce,IND,1
+Oswego,MEXICO 3,President,,Brock Pierce,IND,7
+Oswego,MEXICO 4,President,,Brock Pierce,IND,0
+Oswego,MINETTO 1,President,,Brock Pierce,IND,3
+Oswego,MINETTO 2,President,,Brock Pierce,IND,1
+Oswego,NEW HAVEN 1,President,,Brock Pierce,IND,0
+Oswego,NEW HAVEN 2,President,,Brock Pierce,IND,1
+Oswego,NEW HAVEN 3,President,,Brock Pierce,IND,3
+Oswego,ORWELL 1,President,,Brock Pierce,IND,1
+Oswego,OSWEGO TOWN 1,President,,Brock Pierce,IND,0
+Oswego,OSWEGO TOWN 2,President,,Brock Pierce,IND,0
+Oswego,OSWEGO TOWN 3,President,,Brock Pierce,IND,2
+Oswego,OSWEGO TOWN 4,President,,Brock Pierce,IND,3
+Oswego,OSWEGO TOWN 5,President,,Brock Pierce,IND,1
+Oswego,OSWEGO TOWN 6,President,,Brock Pierce,IND,0
+Oswego,OSWEGO TOWN 7,President,,Brock Pierce,IND,4
+Oswego,PALERMO 1,President,,Brock Pierce,IND,4
+Oswego,PALERMO 2,President,,Brock Pierce,IND,0
+Oswego,PALERMO 3,President,,Brock Pierce,IND,2
+Oswego,PALERMO 4,President,,Brock Pierce,IND,0
+Oswego,PARISH 1,President,,Brock Pierce,IND,3
+Oswego,PARISH 2,President,,Brock Pierce,IND,2
+Oswego,REDFIELD 1,President,,Brock Pierce,IND,1
+Oswego,RICHLAND 1,President,,Brock Pierce,IND,0
+Oswego,RICHLAND 2,President,,Brock Pierce,IND,0
+Oswego,RICHLAND 3,President,,Brock Pierce,IND,3
+Oswego,RICHLAND 4,President,,Brock Pierce,IND,4
+Oswego,RICHLAND 5,President,,Brock Pierce,IND,1
+Oswego,RICHLAND 6,President,,Brock Pierce,IND,0
+Oswego,SANDY CREEK 1,President,,Brock Pierce,IND,2
+Oswego,SANDY CREEK 2,President,,Brock Pierce,IND,3
+Oswego,SANDY CREEK 3,President,,Brock Pierce,IND,1
+Oswego,SCHROEPPEL 1,President,,Brock Pierce,IND,7
+Oswego,SCHROEPPEL 2,President,,Brock Pierce,IND,2
+Oswego,SCHROEPPEL 3,President,,Brock Pierce,IND,0
+Oswego,SCHROEPPEL 4,President,,Brock Pierce,IND,2
+Oswego,SCHROEPPEL 5,President,,Brock Pierce,IND,3
+Oswego,SCRIBA 1,President,,Brock Pierce,IND,3
+Oswego,SCRIBA 2,President,,Brock Pierce,IND,1
+Oswego,SCRIBA 3,President,,Brock Pierce,IND,7
+Oswego,SCRIBA 4,President,,Brock Pierce,IND,3
+Oswego,SCRIBA 5,President,,Brock Pierce,IND,5
+Oswego,SCRIBA 6,President,,Brock Pierce,IND,0
+Oswego,VOLNEY 1,President,,Brock Pierce,IND,4
+Oswego,VOLNEY 2,President,,Brock Pierce,IND,3
+Oswego,VOLNEY 3,President,,Brock Pierce,IND,2
+Oswego,VOLNEY 4,President,,Brock Pierce,IND,3
+Oswego,VOLNEY 5,President,,Brock Pierce,IND,0
+Oswego,WEST MONROE 1,President,,Brock Pierce,IND,0
+Oswego,WEST MONROE 2,President,,Brock Pierce,IND,4
+Oswego,WEST MONROE 3,President,,Brock Pierce,IND,2
+Oswego,WILLIAMSTOWN 1,President,,Brock Pierce,IND,2
+Oswego,OSWEGO CITY 1-1,President,,Brock Pierce,IND,0
+Oswego,OSWEGO CITY 1-2,President,,Brock Pierce,IND,3
+Oswego,OSWEGO CITY 2-1,President,,Brock Pierce,IND,1
+Oswego,OSWEGO CITY 2-2,President,,Brock Pierce,IND,4
+Oswego,OSWEGO CITY 3-1,President,,Brock Pierce,IND,1
+Oswego,OSWEGO CITY 3-2,President,,Brock Pierce,IND,0
+Oswego,OSWEGO CITY 4-1,President,,Brock Pierce,IND,3
+Oswego,OSWEGO CITY 4-2,President,,Brock Pierce,IND,1
+Oswego,OSWEGO CITY 4-3,President,,Brock Pierce,IND,0
+Oswego,OSWEGO CITY 5-1,President,,Brock Pierce,IND,1
+Oswego,OSWEGO CITY 5-2,President,,Brock Pierce,IND,4
+Oswego,OSWEGO CITY 5-3,President,,Brock Pierce,IND,0
+Oswego,OSWEGO CITY 5-4,President,,Brock Pierce,IND,0
+Oswego,OSWEGO CITY 6-1,President,,Brock Pierce,IND,3
+Oswego,OSWEGO CITY 6-2,President,,Brock Pierce,IND,1
+Oswego,OSWEGO CITY 7-1,President,,Brock Pierce,IND,5
+Oswego,OSWEGO CITY 7-2,President,,Brock Pierce,IND,6
+Oswego,OSWEGO CITY 7-3,President,,Brock Pierce,IND,0
+Oswego,FULTON CITY 1-1,President,,Brock Pierce,IND,3
+Oswego,FULTON CITY 1-2,President,,Brock Pierce,IND,2
+Oswego,FULTON CITY 2-1,President,,Brock Pierce,IND,0
+Oswego,FULTON CITY 2-2,President,,Brock Pierce,IND,3
+Oswego,FULTON CITY 3-1,President,,Brock Pierce,IND,2
+Oswego,FULTON CITY 3-2,President,,Brock Pierce,IND,2
+Oswego,FULTON CITY 4-1,President,,Brock Pierce,IND,1
+Oswego,FULTON CITY 4-2,President,,Brock Pierce,IND,1
+Oswego,FULTON CITY 4-3,President,,Brock Pierce,IND,2
+Oswego,FULTON CITY 5-1,President,,Brock Pierce,IND,3
+Oswego,FULTON CITY 5-2,President,,Brock Pierce,IND,1
+Oswego,FULTON CITY 5-3,President,,Brock Pierce,IND,0
+Oswego,FULTON CITY 6-1,President,,Brock Pierce,IND,1
+Oswego,FULTON CITY 6-2,President,,Brock Pierce,IND,0
+Oswego,ALBION 1,President,,Write-ins,,0
+Oswego,ALBION 2,President,,Write-ins,,0
+Oswego,AMBOY 1,President,,Write-ins,,0
+Oswego,BOYLSTON 1,President,,Write-ins,,0
+Oswego,CONSTANTIA 1,President,,Write-ins,,0
+Oswego,CONSTANTIA 2,President,,Write-ins,,0
+Oswego,CONSTANTIA 3,President,,Write-ins,,0
+Oswego,CONSTANTIA 4,President,,Write-ins,,2
+Oswego,GRANBY 1,President,,Write-ins,,1
+Oswego,GRANBY 2,President,,Write-ins,,0
+Oswego,GRANBY 3,President,,Write-ins,,0
+Oswego,GRANBY 4,President,,Write-ins,,0
+Oswego,GRANBY 5,President,,Write-ins,,0
+Oswego,HANNIBAL 1,President,,Write-ins,,0
+Oswego,HANNIBAL 2,President,,Write-ins,,1
+Oswego,HANNIBAL 3,President,,Write-ins,,0
+Oswego,HANNIBAL 4,President,,Write-ins,,1
+Oswego,HASTINGS 1,President,,Write-ins,,0
+Oswego,HASTINGS 2,President,,Write-ins,,0
+Oswego,HASTINGS 3,President,,Write-ins,,0
+Oswego,HASTINGS 4,President,,Write-ins,,0
+Oswego,HASTINGS 5,President,,Write-ins,,1
+Oswego,HASTINGS 6,President,,Write-ins,,0
+Oswego,HASTINGS 7,President,,Write-ins,,0
+Oswego,HASTINGS 8,President,,Write-ins,,1
+Oswego,MEXICO 1,President,,Write-ins,,2
+Oswego,MEXICO 2,President,,Write-ins,,0
+Oswego,MEXICO 3,President,,Write-ins,,0
+Oswego,MEXICO 4,President,,Write-ins,,0
+Oswego,MINETTO 1,President,,Write-ins,,1
+Oswego,MINETTO 2,President,,Write-ins,,0
+Oswego,NEW HAVEN 1,President,,Write-ins,,1
+Oswego,NEW HAVEN 2,President,,Write-ins,,0
+Oswego,NEW HAVEN 3,President,,Write-ins,,0
+Oswego,ORWELL 1,President,,Write-ins,,2
+Oswego,OSWEGO TOWN 1,President,,Write-ins,,0
+Oswego,OSWEGO TOWN 2,President,,Write-ins,,0
+Oswego,OSWEGO TOWN 3,President,,Write-ins,,0
+Oswego,OSWEGO TOWN 4,President,,Write-ins,,0
+Oswego,OSWEGO TOWN 5,President,,Write-ins,,0
+Oswego,OSWEGO TOWN 6,President,,Write-ins,,0
+Oswego,OSWEGO TOWN 7,President,,Write-ins,,0
+Oswego,PALERMO 1,President,,Write-ins,,0
+Oswego,PALERMO 2,President,,Write-ins,,0
+Oswego,PALERMO 3,President,,Write-ins,,0
+Oswego,PALERMO 4,President,,Write-ins,,0
+Oswego,PARISH 1,President,,Write-ins,,1
+Oswego,PARISH 2,President,,Write-ins,,0
+Oswego,REDFIELD 1,President,,Write-ins,,0
+Oswego,RICHLAND 1,President,,Write-ins,,0
+Oswego,RICHLAND 2,President,,Write-ins,,0
+Oswego,RICHLAND 3,President,,Write-ins,,0
+Oswego,RICHLAND 4,President,,Write-ins,,0
+Oswego,RICHLAND 5,President,,Write-ins,,0
+Oswego,RICHLAND 6,President,,Write-ins,,0
+Oswego,SANDY CREEK 1,President,,Write-ins,,0
+Oswego,SANDY CREEK 2,President,,Write-ins,,2
+Oswego,SANDY CREEK 3,President,,Write-ins,,0
+Oswego,SCHROEPPEL 1,President,,Write-ins,,0
+Oswego,SCHROEPPEL 2,President,,Write-ins,,0
+Oswego,SCHROEPPEL 3,President,,Write-ins,,0
+Oswego,SCHROEPPEL 4,President,,Write-ins,,0
+Oswego,SCHROEPPEL 5,President,,Write-ins,,1
+Oswego,SCRIBA 1,President,,Write-ins,,0
+Oswego,SCRIBA 2,President,,Write-ins,,0
+Oswego,SCRIBA 3,President,,Write-ins,,0
+Oswego,SCRIBA 4,President,,Write-ins,,1
+Oswego,SCRIBA 5,President,,Write-ins,,0
+Oswego,SCRIBA 6,President,,Write-ins,,0
+Oswego,VOLNEY 1,President,,Write-ins,,0
+Oswego,VOLNEY 2,President,,Write-ins,,0
+Oswego,VOLNEY 3,President,,Write-ins,,0
+Oswego,VOLNEY 4,President,,Write-ins,,0
+Oswego,VOLNEY 5,President,,Write-ins,,0
+Oswego,WEST MONROE 1,President,,Write-ins,,0
+Oswego,WEST MONROE 2,President,,Write-ins,,0
+Oswego,WEST MONROE 3,President,,Write-ins,,0
+Oswego,WILLIAMSTOWN 1,President,,Write-ins,,0
+Oswego,OSWEGO CITY 1-1,President,,Write-ins,,0
+Oswego,OSWEGO CITY 1-2,President,,Write-ins,,0
+Oswego,OSWEGO CITY 2-1,President,,Write-ins,,0
+Oswego,OSWEGO CITY 2-2,President,,Write-ins,,0
+Oswego,OSWEGO CITY 3-1,President,,Write-ins,,0
+Oswego,OSWEGO CITY 3-2,President,,Write-ins,,0
+Oswego,OSWEGO CITY 4-1,President,,Write-ins,,0
+Oswego,OSWEGO CITY 4-2,President,,Write-ins,,0
+Oswego,OSWEGO CITY 4-3,President,,Write-ins,,0
+Oswego,OSWEGO CITY 5-1,President,,Write-ins,,0
+Oswego,OSWEGO CITY 5-2,President,,Write-ins,,0
+Oswego,OSWEGO CITY 5-3,President,,Write-ins,,0
+Oswego,OSWEGO CITY 5-4,President,,Write-ins,,0
+Oswego,OSWEGO CITY 6-1,President,,Write-ins,,1
+Oswego,OSWEGO CITY 6-2,President,,Write-ins,,1
+Oswego,OSWEGO CITY 7-1,President,,Write-ins,,1
+Oswego,OSWEGO CITY 7-2,President,,Write-ins,,0
+Oswego,OSWEGO CITY 7-3,President,,Write-ins,,0
+Oswego,FULTON CITY 1-1,President,,Write-ins,,0
+Oswego,FULTON CITY 1-2,President,,Write-ins,,0
+Oswego,FULTON CITY 2-1,President,,Write-ins,,0
+Oswego,FULTON CITY 2-2,President,,Write-ins,,0
+Oswego,FULTON CITY 3-1,President,,Write-ins,,0
+Oswego,FULTON CITY 3-2,President,,Write-ins,,0
+Oswego,FULTON CITY 4-1,President,,Write-ins,,0
+Oswego,FULTON CITY 4-2,President,,Write-ins,,0
+Oswego,FULTON CITY 4-3,President,,Write-ins,,0
+Oswego,FULTON CITY 5-1,President,,Write-ins,,0
+Oswego,FULTON CITY 5-2,President,,Write-ins,,0
+Oswego,FULTON CITY 5-3,President,,Write-ins,,0
+Oswego,FULTON CITY 6-1,President,,Write-ins,,1
+Oswego,FULTON CITY 6-2,President,,Write-ins,,0
+Oswego,ALBION 1,President,,Blanks,,2
+Oswego,ALBION 2,President,,Blanks,,1
+Oswego,AMBOY 1,President,,Blanks,,3
+Oswego,BOYLSTON 1,President,,Blanks,,1
+Oswego,CONSTANTIA 1,President,,Blanks,,3
+Oswego,CONSTANTIA 2,President,,Blanks,,0
+Oswego,CONSTANTIA 3,President,,Blanks,,2
+Oswego,CONSTANTIA 4,President,,Blanks,,5
+Oswego,GRANBY 1,President,,Blanks,,2
+Oswego,GRANBY 2,President,,Blanks,,2
+Oswego,GRANBY 3,President,,Blanks,,1
+Oswego,GRANBY 4,President,,Blanks,,1
+Oswego,GRANBY 5,President,,Blanks,,1
+Oswego,HANNIBAL 1,President,,Blanks,,1
+Oswego,HANNIBAL 2,President,,Blanks,,5
+Oswego,HANNIBAL 3,President,,Blanks,,3
+Oswego,HANNIBAL 4,President,,Blanks,,2
+Oswego,HASTINGS 1,President,,Blanks,,2
+Oswego,HASTINGS 2,President,,Blanks,,0
+Oswego,HASTINGS 3,President,,Blanks,,4
+Oswego,HASTINGS 4,President,,Blanks,,1
+Oswego,HASTINGS 5,President,,Blanks,,0
+Oswego,HASTINGS 6,President,,Blanks,,0
+Oswego,HASTINGS 7,President,,Blanks,,0
+Oswego,HASTINGS 8,President,,Blanks,,3
+Oswego,MEXICO 1,President,,Blanks,,3
+Oswego,MEXICO 2,President,,Blanks,,0
+Oswego,MEXICO 3,President,,Blanks,,4
+Oswego,MEXICO 4,President,,Blanks,,1
+Oswego,MINETTO 1,President,,Blanks,,6
+Oswego,MINETTO 2,President,,Blanks,,2
+Oswego,NEW HAVEN 1,President,,Blanks,,2
+Oswego,NEW HAVEN 2,President,,Blanks,,3
+Oswego,NEW HAVEN 3,President,,Blanks,,3
+Oswego,ORWELL 1,President,,Blanks,,0
+Oswego,OSWEGO TOWN 1,President,,Blanks,,0
+Oswego,OSWEGO TOWN 2,President,,Blanks,,0
+Oswego,OSWEGO TOWN 3,President,,Blanks,,3
+Oswego,OSWEGO TOWN 4,President,,Blanks,,2
+Oswego,OSWEGO TOWN 5,President,,Blanks,,3
+Oswego,OSWEGO TOWN 6,President,,Blanks,,2
+Oswego,OSWEGO TOWN 7,President,,Blanks,,2
+Oswego,PALERMO 1,President,,Blanks,,1
+Oswego,PALERMO 2,President,,Blanks,,1
+Oswego,PALERMO 3,President,,Blanks,,1
+Oswego,PALERMO 4,President,,Blanks,,0
+Oswego,PARISH 1,President,,Blanks,,2
+Oswego,PARISH 2,President,,Blanks,,3
+Oswego,REDFIELD 1,President,,Blanks,,0
+Oswego,RICHLAND 1,President,,Blanks,,2
+Oswego,RICHLAND 2,President,,Blanks,,4
+Oswego,RICHLAND 3,President,,Blanks,,2
+Oswego,RICHLAND 4,President,,Blanks,,2
+Oswego,RICHLAND 5,President,,Blanks,,1
+Oswego,RICHLAND 6,President,,Blanks,,1
+Oswego,SANDY CREEK 1,President,,Blanks,,3
+Oswego,SANDY CREEK 2,President,,Blanks,,2
+Oswego,SANDY CREEK 3,President,,Blanks,,1
+Oswego,SCHROEPPEL 1,President,,Blanks,,1
+Oswego,SCHROEPPEL 2,President,,Blanks,,0
+Oswego,SCHROEPPEL 3,President,,Blanks,,1
+Oswego,SCHROEPPEL 4,President,,Blanks,,1
+Oswego,SCHROEPPEL 5,President,,Blanks,,3
+Oswego,SCRIBA 1,President,,Blanks,,5
+Oswego,SCRIBA 2,President,,Blanks,,0
+Oswego,SCRIBA 3,President,,Blanks,,1
+Oswego,SCRIBA 4,President,,Blanks,,0
+Oswego,SCRIBA 5,President,,Blanks,,1
+Oswego,SCRIBA 6,President,,Blanks,,1
+Oswego,VOLNEY 1,President,,Blanks,,2
+Oswego,VOLNEY 2,President,,Blanks,,1
+Oswego,VOLNEY 3,President,,Blanks,,1
+Oswego,VOLNEY 4,President,,Blanks,,4
+Oswego,VOLNEY 5,President,,Blanks,,0
+Oswego,WEST MONROE 1,President,,Blanks,,1
+Oswego,WEST MONROE 2,President,,Blanks,,1
+Oswego,WEST MONROE 3,President,,Blanks,,2
+Oswego,WILLIAMSTOWN 1,President,,Blanks,,1
+Oswego,OSWEGO CITY 1-1,President,,Blanks,,2
+Oswego,OSWEGO CITY 1-2,President,,Blanks,,4
+Oswego,OSWEGO CITY 2-1,President,,Blanks,,1
+Oswego,OSWEGO CITY 2-2,President,,Blanks,,7
+Oswego,OSWEGO CITY 3-1,President,,Blanks,,5
+Oswego,OSWEGO CITY 3-2,President,,Blanks,,1
+Oswego,OSWEGO CITY 4-1,President,,Blanks,,5
+Oswego,OSWEGO CITY 4-2,President,,Blanks,,3
+Oswego,OSWEGO CITY 4-3,President,,Blanks,,0
+Oswego,OSWEGO CITY 5-1,President,,Blanks,,0
+Oswego,OSWEGO CITY 5-2,President,,Blanks,,0
+Oswego,OSWEGO CITY 5-3,President,,Blanks,,0
+Oswego,OSWEGO CITY 5-4,President,,Blanks,,0
+Oswego,OSWEGO CITY 6-1,President,,Blanks,,9
+Oswego,OSWEGO CITY 6-2,President,,Blanks,,0
+Oswego,OSWEGO CITY 7-1,President,,Blanks,,2
+Oswego,OSWEGO CITY 7-2,President,,Blanks,,12
+Oswego,OSWEGO CITY 7-3,President,,Blanks,,0
+Oswego,FULTON CITY 1-1,President,,Blanks,,3
+Oswego,FULTON CITY 1-2,President,,Blanks,,2
+Oswego,FULTON CITY 2-1,President,,Blanks,,0
+Oswego,FULTON CITY 2-2,President,,Blanks,,1
+Oswego,FULTON CITY 3-1,President,,Blanks,,5
+Oswego,FULTON CITY 3-2,President,,Blanks,,1
+Oswego,FULTON CITY 4-1,President,,Blanks,,1
+Oswego,FULTON CITY 4-2,President,,Blanks,,4
+Oswego,FULTON CITY 4-3,President,,Blanks,,0
+Oswego,FULTON CITY 5-1,President,,Blanks,,1
+Oswego,FULTON CITY 5-2,President,,Blanks,,1
+Oswego,FULTON CITY 5-3,President,,Blanks,,1
+Oswego,FULTON CITY 6-1,President,,Blanks,,0
+Oswego,FULTON CITY 6-2,President,,Blanks,,0
+Oswego,ALBION 1,President,,Void,,2
+Oswego,ALBION 2,President,,Void,,1
+Oswego,AMBOY 1,President,,Void,,0
+Oswego,BOYLSTON 1,President,,Void,,1
+Oswego,CONSTANTIA 1,President,,Void,,1
+Oswego,CONSTANTIA 2,President,,Void,,0
+Oswego,CONSTANTIA 3,President,,Void,,4
+Oswego,CONSTANTIA 4,President,,Void,,0
+Oswego,GRANBY 1,President,,Void,,0
+Oswego,GRANBY 2,President,,Void,,1
+Oswego,GRANBY 3,President,,Void,,0
+Oswego,GRANBY 4,President,,Void,,2
+Oswego,GRANBY 5,President,,Void,,2
+Oswego,HANNIBAL 1,President,,Void,,1
+Oswego,HANNIBAL 2,President,,Void,,0
+Oswego,HANNIBAL 3,President,,Void,,1
+Oswego,HANNIBAL 4,President,,Void,,4
+Oswego,HASTINGS 1,President,,Void,,1
+Oswego,HASTINGS 2,President,,Void,,2
+Oswego,HASTINGS 3,President,,Void,,3
+Oswego,HASTINGS 4,President,,Void,,1
+Oswego,HASTINGS 5,President,,Void,,2
+Oswego,HASTINGS 6,President,,Void,,0
+Oswego,HASTINGS 7,President,,Void,,3
+Oswego,HASTINGS 8,President,,Void,,1
+Oswego,MEXICO 1,President,,Void,,1
+Oswego,MEXICO 2,President,,Void,,4
+Oswego,MEXICO 3,President,,Void,,1
+Oswego,MEXICO 4,President,,Void,,1
+Oswego,MINETTO 1,President,,Void,,3
+Oswego,MINETTO 2,President,,Void,,1
+Oswego,NEW HAVEN 1,President,,Void,,2
+Oswego,NEW HAVEN 2,President,,Void,,0
+Oswego,NEW HAVEN 3,President,,Void,,1
+Oswego,ORWELL 1,President,,Void,,2
+Oswego,OSWEGO TOWN 1,President,,Void,,0
+Oswego,OSWEGO TOWN 2,President,,Void,,1
+Oswego,OSWEGO TOWN 3,President,,Void,,3
+Oswego,OSWEGO TOWN 4,President,,Void,,2
+Oswego,OSWEGO TOWN 5,President,,Void,,0
+Oswego,OSWEGO TOWN 6,President,,Void,,2
+Oswego,OSWEGO TOWN 7,President,,Void,,2
+Oswego,PALERMO 1,President,,Void,,0
+Oswego,PALERMO 2,President,,Void,,3
+Oswego,PALERMO 3,President,,Void,,1
+Oswego,PALERMO 4,President,,Void,,0
+Oswego,PARISH 1,President,,Void,,1
+Oswego,PARISH 2,President,,Void,,3
+Oswego,REDFIELD 1,President,,Void,,3
+Oswego,RICHLAND 1,President,,Void,,5
+Oswego,RICHLAND 2,President,,Void,,4
+Oswego,RICHLAND 3,President,,Void,,0
+Oswego,RICHLAND 4,President,,Void,,2
+Oswego,RICHLAND 5,President,,Void,,0
+Oswego,RICHLAND 6,President,,Void,,0
+Oswego,SANDY CREEK 1,President,,Void,,0
+Oswego,SANDY CREEK 2,President,,Void,,2
+Oswego,SANDY CREEK 3,President,,Void,,0
+Oswego,SCHROEPPEL 1,President,,Void,,2
+Oswego,SCHROEPPEL 2,President,,Void,,2
+Oswego,SCHROEPPEL 3,President,,Void,,3
+Oswego,SCHROEPPEL 4,President,,Void,,1
+Oswego,SCHROEPPEL 5,President,,Void,,1
+Oswego,SCRIBA 1,President,,Void,,2
+Oswego,SCRIBA 2,President,,Void,,0
+Oswego,SCRIBA 3,President,,Void,,2
+Oswego,SCRIBA 4,President,,Void,,3
+Oswego,SCRIBA 5,President,,Void,,0
+Oswego,SCRIBA 6,President,,Void,,1
+Oswego,VOLNEY 1,President,,Void,,1
+Oswego,VOLNEY 2,President,,Void,,0
+Oswego,VOLNEY 3,President,,Void,,2
+Oswego,VOLNEY 4,President,,Void,,3
+Oswego,VOLNEY 5,President,,Void,,0
+Oswego,WEST MONROE 1,President,,Void,,0
+Oswego,WEST MONROE 2,President,,Void,,2
+Oswego,WEST MONROE 3,President,,Void,,6
+Oswego,WILLIAMSTOWN 1,President,,Void,,0
+Oswego,OSWEGO CITY 1-1,President,,Void,,4
+Oswego,OSWEGO CITY 1-2,President,,Void,,1
+Oswego,OSWEGO CITY 2-1,President,,Void,,1
+Oswego,OSWEGO CITY 2-2,President,,Void,,1
+Oswego,OSWEGO CITY 3-1,President,,Void,,5
+Oswego,OSWEGO CITY 3-2,President,,Void,,0
+Oswego,OSWEGO CITY 4-1,President,,Void,,1
+Oswego,OSWEGO CITY 4-2,President,,Void,,0
+Oswego,OSWEGO CITY 4-3,President,,Void,,1
+Oswego,OSWEGO CITY 5-1,President,,Void,,1
+Oswego,OSWEGO CITY 5-2,President,,Void,,2
+Oswego,OSWEGO CITY 5-3,President,,Void,,1
+Oswego,OSWEGO CITY 5-4,President,,Void,,0
+Oswego,OSWEGO CITY 6-1,President,,Void,,2
+Oswego,OSWEGO CITY 6-2,President,,Void,,0
+Oswego,OSWEGO CITY 7-1,President,,Void,,4
+Oswego,OSWEGO CITY 7-2,President,,Void,,5
+Oswego,OSWEGO CITY 7-3,President,,Void,,0
+Oswego,FULTON CITY 1-1,President,,Void,,1
+Oswego,FULTON CITY 1-2,President,,Void,,0
+Oswego,FULTON CITY 2-1,President,,Void,,1
+Oswego,FULTON CITY 2-2,President,,Void,,1
+Oswego,FULTON CITY 3-1,President,,Void,,1
+Oswego,FULTON CITY 3-2,President,,Void,,1
+Oswego,FULTON CITY 4-1,President,,Void,,1
+Oswego,FULTON CITY 4-2,President,,Void,,1
+Oswego,FULTON CITY 4-3,President,,Void,,2
+Oswego,FULTON CITY 5-1,President,,Void,,2
+Oswego,FULTON CITY 5-2,President,,Void,,1
+Oswego,FULTON CITY 5-3,President,,Void,,0
+Oswego,FULTON CITY 6-1,President,,Void,,0
+Oswego,FULTON CITY 6-2,President,,Void,,0
+Oswego,ALBION 1,U.S. House,22,Anthony J. Brindisi,DEM,104
+Oswego,ALBION 2,U.S. House,22,Anthony J. Brindisi,DEM,108
+Oswego,AMBOY 1,U.S. House,22,Anthony J. Brindisi,DEM,142
+Oswego,BOYLSTON 1,U.S. House,22,Anthony J. Brindisi,DEM,66
+Oswego,CONSTANTIA 1,U.S. House,22,Anthony J. Brindisi,DEM,175
+Oswego,CONSTANTIA 2,U.S. House,22,Anthony J. Brindisi,DEM,181
+Oswego,CONSTANTIA 3,U.S. House,22,Anthony J. Brindisi,DEM,151
+Oswego,CONSTANTIA 4,U.S. House,22,Anthony J. Brindisi,DEM,216
+Oswego,HASTINGS 1,U.S. House,22,Anthony J. Brindisi,DEM,165
+Oswego,HASTINGS 2,U.S. House,22,Anthony J. Brindisi,DEM,131
+Oswego,HASTINGS 3,U.S. House,22,Anthony J. Brindisi,DEM,314
+Oswego,HASTINGS 4,U.S. House,22,Anthony J. Brindisi,DEM,141
+Oswego,HASTINGS 5,U.S. House,22,Anthony J. Brindisi,DEM,192
+Oswego,HASTINGS 6,U.S. House,22,Anthony J. Brindisi,DEM,16
+Oswego,HASTINGS 7,U.S. House,22,Anthony J. Brindisi,DEM,185
+Oswego,HASTINGS 8,U.S. House,22,Anthony J. Brindisi,DEM,376
+Oswego,MEXICO 1,U.S. House,22,Anthony J. Brindisi,DEM,187
+Oswego,MEXICO 2,U.S. House,22,Anthony J. Brindisi,DEM,253
+Oswego,MEXICO 3,U.S. House,22,Anthony J. Brindisi,DEM,332
+Oswego,MEXICO 4,U.S. House,22,Anthony J. Brindisi,DEM,53
+Oswego,NEW HAVEN 1,U.S. House,22,Anthony J. Brindisi,DEM,218
+Oswego,NEW HAVEN 2,U.S. House,22,Anthony J. Brindisi,DEM,95
+Oswego,ORWELL 1,U.S. House,22,Anthony J. Brindisi,DEM,144
+Oswego,PARISH 1,U.S. House,22,Anthony J. Brindisi,DEM,177
+Oswego,PARISH 2,U.S. House,22,Anthony J. Brindisi,DEM,164
+Oswego,REDFIELD 1,U.S. House,22,Anthony J. Brindisi,DEM,63
+Oswego,RICHLAND 1,U.S. House,22,Anthony J. Brindisi,DEM,229
+Oswego,RICHLAND 2,U.S. House,22,Anthony J. Brindisi,DEM,155
+Oswego,RICHLAND 3,U.S. House,22,Anthony J. Brindisi,DEM,129
+Oswego,RICHLAND 4,U.S. House,22,Anthony J. Brindisi,DEM,240
+Oswego,RICHLAND 5,U.S. House,22,Anthony J. Brindisi,DEM,55
+Oswego,RICHLAND 6,U.S. House,22,Anthony J. Brindisi,DEM,43
+Oswego,SANDY CREEK 1,U.S. House,22,Anthony J. Brindisi,DEM,305
+Oswego,SANDY CREEK 2,U.S. House,22,Anthony J. Brindisi,DEM,196
+Oswego,SANDY CREEK 3,U.S. House,22,Anthony J. Brindisi,DEM,94
+Oswego,WEST MONROE 1,U.S. House,22,Anthony J. Brindisi,DEM,64
+Oswego,WEST MONROE 2,U.S. House,22,Anthony J. Brindisi,DEM,262
+Oswego,WEST MONROE 3,U.S. House,22,Anthony J. Brindisi,DEM,276
+Oswego,WILLIAMSTOWN 1,U.S. House,22,Anthony J. Brindisi,DEM,114
+Oswego,ALBION 1,U.S. House,22,Claudia Tenney,REP,278
+Oswego,ALBION 2,U.S. House,22,Claudia Tenney,REP,283
+Oswego,AMBOY 1,U.S. House,22,Claudia Tenney,REP,404
+Oswego,BOYLSTON 1,U.S. House,22,Claudia Tenney,REP,211
+Oswego,CONSTANTIA 1,U.S. House,22,Claudia Tenney,REP,344
+Oswego,CONSTANTIA 2,U.S. House,22,Claudia Tenney,REP,325
+Oswego,CONSTANTIA 3,U.S. House,22,Claudia Tenney,REP,304
+Oswego,CONSTANTIA 4,U.S. House,22,Claudia Tenney,REP,492
+Oswego,HASTINGS 1,U.S. House,22,Claudia Tenney,REP,332
+Oswego,HASTINGS 2,U.S. House,22,Claudia Tenney,REP,320
+Oswego,HASTINGS 3,U.S. House,22,Claudia Tenney,REP,464
+Oswego,HASTINGS 4,U.S. House,22,Claudia Tenney,REP,233
+Oswego,HASTINGS 5,U.S. House,22,Claudia Tenney,REP,292
+Oswego,HASTINGS 6,U.S. House,22,Claudia Tenney,REP,19
+Oswego,HASTINGS 7,U.S. House,22,Claudia Tenney,REP,338
+Oswego,HASTINGS 8,U.S. House,22,Claudia Tenney,REP,427
+Oswego,MEXICO 1,U.S. House,22,Claudia Tenney,REP,326
+Oswego,MEXICO 2,U.S. House,22,Claudia Tenney,REP,450
+Oswego,MEXICO 3,U.S. House,22,Claudia Tenney,REP,556
+Oswego,MEXICO 4,U.S. House,22,Claudia Tenney,REP,116
+Oswego,NEW HAVEN 1,U.S. House,22,Claudia Tenney,REP,412
+Oswego,NEW HAVEN 2,U.S. House,22,Claudia Tenney,REP,185
+Oswego,ORWELL 1,U.S. House,22,Claudia Tenney,REP,319
+Oswego,PARISH 1,U.S. House,22,Claudia Tenney,REP,445
+Oswego,PARISH 2,U.S. House,22,Claudia Tenney,REP,308
+Oswego,REDFIELD 1,U.S. House,22,Claudia Tenney,REP,183
+Oswego,RICHLAND 1,U.S. House,22,Claudia Tenney,REP,229
+Oswego,RICHLAND 2,U.S. House,22,Claudia Tenney,REP,229
+Oswego,RICHLAND 3,U.S. House,22,Claudia Tenney,REP,315
+Oswego,RICHLAND 4,U.S. House,22,Claudia Tenney,REP,526
+Oswego,RICHLAND 5,U.S. House,22,Claudia Tenney,REP,104
+Oswego,RICHLAND 6,U.S. House,22,Claudia Tenney,REP,79
+Oswego,SANDY CREEK 1,U.S. House,22,Claudia Tenney,REP,503
+Oswego,SANDY CREEK 2,U.S. House,22,Claudia Tenney,REP,336
+Oswego,SANDY CREEK 3,U.S. House,22,Claudia Tenney,REP,173
+Oswego,WEST MONROE 1,U.S. House,22,Claudia Tenney,REP,140
+Oswego,WEST MONROE 2,U.S. House,22,Claudia Tenney,REP,455
+Oswego,WEST MONROE 3,U.S. House,22,Claudia Tenney,REP,532
+Oswego,WILLIAMSTOWN 1,U.S. House,22,Claudia Tenney,REP,385
+Oswego,ALBION 1,U.S. House,22,Claudia Tenney,CON,19
+Oswego,ALBION 2,U.S. House,22,Claudia Tenney,CON,34
+Oswego,AMBOY 1,U.S. House,22,Claudia Tenney,CON,32
+Oswego,BOYLSTON 1,U.S. House,22,Claudia Tenney,CON,21
+Oswego,CONSTANTIA 1,U.S. House,22,Claudia Tenney,CON,39
+Oswego,CONSTANTIA 2,U.S. House,22,Claudia Tenney,CON,25
+Oswego,CONSTANTIA 3,U.S. House,22,Claudia Tenney,CON,34
+Oswego,CONSTANTIA 4,U.S. House,22,Claudia Tenney,CON,34
+Oswego,HASTINGS 1,U.S. House,22,Claudia Tenney,CON,41
+Oswego,HASTINGS 2,U.S. House,22,Claudia Tenney,CON,36
+Oswego,HASTINGS 3,U.S. House,22,Claudia Tenney,CON,53
+Oswego,HASTINGS 4,U.S. House,22,Claudia Tenney,CON,39
+Oswego,HASTINGS 5,U.S. House,22,Claudia Tenney,CON,29
+Oswego,HASTINGS 6,U.S. House,22,Claudia Tenney,CON,0
+Oswego,HASTINGS 7,U.S. House,22,Claudia Tenney,CON,41
+Oswego,HASTINGS 8,U.S. House,22,Claudia Tenney,CON,45
+Oswego,MEXICO 1,U.S. House,22,Claudia Tenney,CON,31
+Oswego,MEXICO 2,U.S. House,22,Claudia Tenney,CON,37
+Oswego,MEXICO 3,U.S. House,22,Claudia Tenney,CON,47
+Oswego,MEXICO 4,U.S. House,22,Claudia Tenney,CON,18
+Oswego,NEW HAVEN 1,U.S. House,22,Claudia Tenney,CON,33
+Oswego,NEW HAVEN 2,U.S. House,22,Claudia Tenney,CON,16
+Oswego,ORWELL 1,U.S. House,22,Claudia Tenney,CON,34
+Oswego,PARISH 1,U.S. House,22,Claudia Tenney,CON,49
+Oswego,PARISH 2,U.S. House,22,Claudia Tenney,CON,30
+Oswego,REDFIELD 1,U.S. House,22,Claudia Tenney,CON,15
+Oswego,RICHLAND 1,U.S. House,22,Claudia Tenney,CON,21
+Oswego,RICHLAND 2,U.S. House,22,Claudia Tenney,CON,18
+Oswego,RICHLAND 3,U.S. House,22,Claudia Tenney,CON,27
+Oswego,RICHLAND 4,U.S. House,22,Claudia Tenney,CON,60
+Oswego,RICHLAND 5,U.S. House,22,Claudia Tenney,CON,7
+Oswego,RICHLAND 6,U.S. House,22,Claudia Tenney,CON,12
+Oswego,SANDY CREEK 1,U.S. House,22,Claudia Tenney,CON,33
+Oswego,SANDY CREEK 2,U.S. House,22,Claudia Tenney,CON,35
+Oswego,SANDY CREEK 3,U.S. House,22,Claudia Tenney,CON,10
+Oswego,WEST MONROE 1,U.S. House,22,Claudia Tenney,CON,15
+Oswego,WEST MONROE 2,U.S. House,22,Claudia Tenney,CON,46
+Oswego,WEST MONROE 3,U.S. House,22,Claudia Tenney,CON,72
+Oswego,WILLIAMSTOWN 1,U.S. House,22,Claudia Tenney,CON,41
+Oswego,ALBION 1,U.S. House,22,Anthony J. Brindisi,WOR,14
+Oswego,ALBION 2,U.S. House,22,Anthony J. Brindisi,WOR,18
+Oswego,AMBOY 1,U.S. House,22,Anthony J. Brindisi,WOR,30
+Oswego,BOYLSTON 1,U.S. House,22,Anthony J. Brindisi,WOR,5
+Oswego,CONSTANTIA 1,U.S. House,22,Anthony J. Brindisi,WOR,20
+Oswego,CONSTANTIA 2,U.S. House,22,Anthony J. Brindisi,WOR,8
+Oswego,CONSTANTIA 3,U.S. House,22,Anthony J. Brindisi,WOR,13
+Oswego,CONSTANTIA 4,U.S. House,22,Anthony J. Brindisi,WOR,28
+Oswego,HASTINGS 1,U.S. House,22,Anthony J. Brindisi,WOR,27
+Oswego,HASTINGS 2,U.S. House,22,Anthony J. Brindisi,WOR,12
+Oswego,HASTINGS 3,U.S. House,22,Anthony J. Brindisi,WOR,23
+Oswego,HASTINGS 4,U.S. House,22,Anthony J. Brindisi,WOR,11
+Oswego,HASTINGS 5,U.S. House,22,Anthony J. Brindisi,WOR,13
+Oswego,HASTINGS 6,U.S. House,22,Anthony J. Brindisi,WOR,1
+Oswego,HASTINGS 7,U.S. House,22,Anthony J. Brindisi,WOR,24
+Oswego,HASTINGS 8,U.S. House,22,Anthony J. Brindisi,WOR,25
+Oswego,MEXICO 1,U.S. House,22,Anthony J. Brindisi,WOR,25
+Oswego,MEXICO 2,U.S. House,22,Anthony J. Brindisi,WOR,28
+Oswego,MEXICO 3,U.S. House,22,Anthony J. Brindisi,WOR,37
+Oswego,MEXICO 4,U.S. House,22,Anthony J. Brindisi,WOR,8
+Oswego,NEW HAVEN 1,U.S. House,22,Anthony J. Brindisi,WOR,27
+Oswego,NEW HAVEN 2,U.S. House,22,Anthony J. Brindisi,WOR,16
+Oswego,ORWELL 1,U.S. House,22,Anthony J. Brindisi,WOR,11
+Oswego,PARISH 1,U.S. House,22,Anthony J. Brindisi,WOR,15
+Oswego,PARISH 2,U.S. House,22,Anthony J. Brindisi,WOR,10
+Oswego,REDFIELD 1,U.S. House,22,Anthony J. Brindisi,WOR,5
+Oswego,RICHLAND 1,U.S. House,22,Anthony J. Brindisi,WOR,17
+Oswego,RICHLAND 2,U.S. House,22,Anthony J. Brindisi,WOR,12
+Oswego,RICHLAND 3,U.S. House,22,Anthony J. Brindisi,WOR,15
+Oswego,RICHLAND 4,U.S. House,22,Anthony J. Brindisi,WOR,24
+Oswego,RICHLAND 5,U.S. House,22,Anthony J. Brindisi,WOR,7
+Oswego,RICHLAND 6,U.S. House,22,Anthony J. Brindisi,WOR,3
+Oswego,SANDY CREEK 1,U.S. House,22,Anthony J. Brindisi,WOR,18
+Oswego,SANDY CREEK 2,U.S. House,22,Anthony J. Brindisi,WOR,11
+Oswego,SANDY CREEK 3,U.S. House,22,Anthony J. Brindisi,WOR,14
+Oswego,WEST MONROE 1,U.S. House,22,Anthony J. Brindisi,WOR,11
+Oswego,WEST MONROE 2,U.S. House,22,Anthony J. Brindisi,WOR,19
+Oswego,WEST MONROE 3,U.S. House,22,Anthony J. Brindisi,WOR,30
+Oswego,WILLIAMSTOWN 1,U.S. House,22,Anthony J. Brindisi,WOR,16
+Oswego,ALBION 1,U.S. House,22,Keith D. Price Jr.,LBT,10
+Oswego,ALBION 2,U.S. House,22,Keith D. Price Jr.,LBT,8
+Oswego,AMBOY 1,U.S. House,22,Keith D. Price Jr.,LBT,8
+Oswego,BOYLSTON 1,U.S. House,22,Keith D. Price Jr.,LBT,6
+Oswego,CONSTANTIA 1,U.S. House,22,Keith D. Price Jr.,LBT,10
+Oswego,CONSTANTIA 2,U.S. House,22,Keith D. Price Jr.,LBT,8
+Oswego,CONSTANTIA 3,U.S. House,22,Keith D. Price Jr.,LBT,14
+Oswego,CONSTANTIA 4,U.S. House,22,Keith D. Price Jr.,LBT,13
+Oswego,HASTINGS 1,U.S. House,22,Keith D. Price Jr.,LBT,8
+Oswego,HASTINGS 2,U.S. House,22,Keith D. Price Jr.,LBT,8
+Oswego,HASTINGS 3,U.S. House,22,Keith D. Price Jr.,LBT,21
+Oswego,HASTINGS 4,U.S. House,22,Keith D. Price Jr.,LBT,14
+Oswego,HASTINGS 5,U.S. House,22,Keith D. Price Jr.,LBT,12
+Oswego,HASTINGS 6,U.S. House,22,Keith D. Price Jr.,LBT,2
+Oswego,HASTINGS 7,U.S. House,22,Keith D. Price Jr.,LBT,9
+Oswego,HASTINGS 8,U.S. House,22,Keith D. Price Jr.,LBT,20
+Oswego,MEXICO 1,U.S. House,22,Keith D. Price Jr.,LBT,11
+Oswego,MEXICO 2,U.S. House,22,Keith D. Price Jr.,LBT,19
+Oswego,MEXICO 3,U.S. House,22,Keith D. Price Jr.,LBT,20
+Oswego,MEXICO 4,U.S. House,22,Keith D. Price Jr.,LBT,3
+Oswego,NEW HAVEN 1,U.S. House,22,Keith D. Price Jr.,LBT,16
+Oswego,NEW HAVEN 2,U.S. House,22,Keith D. Price Jr.,LBT,12
+Oswego,ORWELL 1,U.S. House,22,Keith D. Price Jr.,LBT,11
+Oswego,PARISH 1,U.S. House,22,Keith D. Price Jr.,LBT,17
+Oswego,PARISH 2,U.S. House,22,Keith D. Price Jr.,LBT,18
+Oswego,REDFIELD 1,U.S. House,22,Keith D. Price Jr.,LBT,4
+Oswego,RICHLAND 1,U.S. House,22,Keith D. Price Jr.,LBT,6
+Oswego,RICHLAND 2,U.S. House,22,Keith D. Price Jr.,LBT,10
+Oswego,RICHLAND 3,U.S. House,22,Keith D. Price Jr.,LBT,9
+Oswego,RICHLAND 4,U.S. House,22,Keith D. Price Jr.,LBT,9
+Oswego,RICHLAND 5,U.S. House,22,Keith D. Price Jr.,LBT,2
+Oswego,RICHLAND 6,U.S. House,22,Keith D. Price Jr.,LBT,2
+Oswego,SANDY CREEK 1,U.S. House,22,Keith D. Price Jr.,LBT,9
+Oswego,SANDY CREEK 2,U.S. House,22,Keith D. Price Jr.,LBT,9
+Oswego,SANDY CREEK 3,U.S. House,22,Keith D. Price Jr.,LBT,11
+Oswego,WEST MONROE 1,U.S. House,22,Keith D. Price Jr.,LBT,6
+Oswego,WEST MONROE 2,U.S. House,22,Keith D. Price Jr.,LBT,18
+Oswego,WEST MONROE 3,U.S. House,22,Keith D. Price Jr.,LBT,18
+Oswego,WILLIAMSTOWN 1,U.S. House,22,Keith D. Price Jr.,LBT,3
+Oswego,ALBION 1,U.S. House,22,Anthony J. Brindisi,IND,5
+Oswego,ALBION 2,U.S. House,22,Anthony J. Brindisi,IND,4
+Oswego,AMBOY 1,U.S. House,22,Anthony J. Brindisi,IND,7
+Oswego,BOYLSTON 1,U.S. House,22,Anthony J. Brindisi,IND,2
+Oswego,CONSTANTIA 1,U.S. House,22,Anthony J. Brindisi,IND,7
+Oswego,CONSTANTIA 2,U.S. House,22,Anthony J. Brindisi,IND,3
+Oswego,CONSTANTIA 3,U.S. House,22,Anthony J. Brindisi,IND,11
+Oswego,CONSTANTIA 4,U.S. House,22,Anthony J. Brindisi,IND,9
+Oswego,HASTINGS 1,U.S. House,22,Anthony J. Brindisi,IND,10
+Oswego,HASTINGS 2,U.S. House,22,Anthony J. Brindisi,IND,5
+Oswego,HASTINGS 3,U.S. House,22,Anthony J. Brindisi,IND,8
+Oswego,HASTINGS 4,U.S. House,22,Anthony J. Brindisi,IND,5
+Oswego,HASTINGS 5,U.S. House,22,Anthony J. Brindisi,IND,10
+Oswego,HASTINGS 6,U.S. House,22,Anthony J. Brindisi,IND,0
+Oswego,HASTINGS 7,U.S. House,22,Anthony J. Brindisi,IND,9
+Oswego,HASTINGS 8,U.S. House,22,Anthony J. Brindisi,IND,11
+Oswego,MEXICO 1,U.S. House,22,Anthony J. Brindisi,IND,4
+Oswego,MEXICO 2,U.S. House,22,Anthony J. Brindisi,IND,10
+Oswego,MEXICO 3,U.S. House,22,Anthony J. Brindisi,IND,13
+Oswego,MEXICO 4,U.S. House,22,Anthony J. Brindisi,IND,3
+Oswego,NEW HAVEN 1,U.S. House,22,Anthony J. Brindisi,IND,15
+Oswego,NEW HAVEN 2,U.S. House,22,Anthony J. Brindisi,IND,5
+Oswego,ORWELL 1,U.S. House,22,Anthony J. Brindisi,IND,6
+Oswego,PARISH 1,U.S. House,22,Anthony J. Brindisi,IND,8
+Oswego,PARISH 2,U.S. House,22,Anthony J. Brindisi,IND,11
+Oswego,REDFIELD 1,U.S. House,22,Anthony J. Brindisi,IND,1
+Oswego,RICHLAND 1,U.S. House,22,Anthony J. Brindisi,IND,9
+Oswego,RICHLAND 2,U.S. House,22,Anthony J. Brindisi,IND,3
+Oswego,RICHLAND 3,U.S. House,22,Anthony J. Brindisi,IND,6
+Oswego,RICHLAND 4,U.S. House,22,Anthony J. Brindisi,IND,8
+Oswego,RICHLAND 5,U.S. House,22,Anthony J. Brindisi,IND,2
+Oswego,RICHLAND 6,U.S. House,22,Anthony J. Brindisi,IND,2
+Oswego,SANDY CREEK 1,U.S. House,22,Anthony J. Brindisi,IND,12
+Oswego,SANDY CREEK 2,U.S. House,22,Anthony J. Brindisi,IND,8
+Oswego,SANDY CREEK 3,U.S. House,22,Anthony J. Brindisi,IND,3
+Oswego,WEST MONROE 1,U.S. House,22,Anthony J. Brindisi,IND,2
+Oswego,WEST MONROE 2,U.S. House,22,Anthony J. Brindisi,IND,14
+Oswego,WEST MONROE 3,U.S. House,22,Anthony J. Brindisi,IND,10
+Oswego,WILLIAMSTOWN 1,U.S. House,22,Anthony J. Brindisi,IND,10
+Oswego,ALBION 1,U.S. House,22,Write-ins,,0
+Oswego,ALBION 2,U.S. House,22,Write-ins,,1
+Oswego,AMBOY 1,U.S. House,22,Write-ins,,0
+Oswego,BOYLSTON 1,U.S. House,22,Write-ins,,0
+Oswego,CONSTANTIA 1,U.S. House,22,Write-ins,,0
+Oswego,CONSTANTIA 2,U.S. House,22,Write-ins,,0
+Oswego,CONSTANTIA 3,U.S. House,22,Write-ins,,0
+Oswego,CONSTANTIA 4,U.S. House,22,Write-ins,,0
+Oswego,HASTINGS 1,U.S. House,22,Write-ins,,0
+Oswego,HASTINGS 2,U.S. House,22,Write-ins,,0
+Oswego,HASTINGS 3,U.S. House,22,Write-ins,,0
+Oswego,HASTINGS 4,U.S. House,22,Write-ins,,0
+Oswego,HASTINGS 5,U.S. House,22,Write-ins,,1
+Oswego,HASTINGS 6,U.S. House,22,Write-ins,,0
+Oswego,HASTINGS 7,U.S. House,22,Write-ins,,0
+Oswego,HASTINGS 8,U.S. House,22,Write-ins,,2
+Oswego,MEXICO 1,U.S. House,22,Write-ins,,1
+Oswego,MEXICO 2,U.S. House,22,Write-ins,,0
+Oswego,MEXICO 3,U.S. House,22,Write-ins,,0
+Oswego,MEXICO 4,U.S. House,22,Write-ins,,0
+Oswego,NEW HAVEN 1,U.S. House,22,Write-ins,,1
+Oswego,NEW HAVEN 2,U.S. House,22,Write-ins,,0
+Oswego,ORWELL 1,U.S. House,22,Write-ins,,0
+Oswego,PARISH 1,U.S. House,22,Write-ins,,0
+Oswego,PARISH 2,U.S. House,22,Write-ins,,0
+Oswego,REDFIELD 1,U.S. House,22,Write-ins,,0
+Oswego,RICHLAND 1,U.S. House,22,Write-ins,,0
+Oswego,RICHLAND 2,U.S. House,22,Write-ins,,2
+Oswego,RICHLAND 3,U.S. House,22,Write-ins,,0
+Oswego,RICHLAND 4,U.S. House,22,Write-ins,,1
+Oswego,RICHLAND 5,U.S. House,22,Write-ins,,0
+Oswego,RICHLAND 6,U.S. House,22,Write-ins,,0
+Oswego,SANDY CREEK 1,U.S. House,22,Write-ins,,1
+Oswego,SANDY CREEK 2,U.S. House,22,Write-ins,,0
+Oswego,SANDY CREEK 3,U.S. House,22,Write-ins,,0
+Oswego,WEST MONROE 1,U.S. House,22,Write-ins,,0
+Oswego,WEST MONROE 2,U.S. House,22,Write-ins,,0
+Oswego,WEST MONROE 3,U.S. House,22,Write-ins,,1
+Oswego,WILLIAMSTOWN 1,U.S. House,22,Write-ins,,0
+Oswego,ALBION 1,U.S. House,22,Blanks,,15
+Oswego,ALBION 2,U.S. House,22,Blanks,,17
+Oswego,AMBOY 1,U.S. House,22,Blanks,,20
+Oswego,BOYLSTON 1,U.S. House,22,Blanks,,12
+Oswego,CONSTANTIA 1,U.S. House,22,Blanks,,11
+Oswego,CONSTANTIA 2,U.S. House,22,Blanks,,18
+Oswego,CONSTANTIA 3,U.S. House,22,Blanks,,8
+Oswego,CONSTANTIA 4,U.S. House,22,Blanks,,16
+Oswego,HASTINGS 1,U.S. House,22,Blanks,,23
+Oswego,HASTINGS 2,U.S. House,22,Blanks,,15
+Oswego,HASTINGS 3,U.S. House,22,Blanks,,32
+Oswego,HASTINGS 4,U.S. House,22,Blanks,,11
+Oswego,HASTINGS 5,U.S. House,22,Blanks,,14
+Oswego,HASTINGS 6,U.S. House,22,Blanks,,1
+Oswego,HASTINGS 7,U.S. House,22,Blanks,,8
+Oswego,HASTINGS 8,U.S. House,22,Blanks,,28
+Oswego,MEXICO 1,U.S. House,22,Blanks,,10
+Oswego,MEXICO 2,U.S. House,22,Blanks,,18
+Oswego,MEXICO 3,U.S. House,22,Blanks,,26
+Oswego,MEXICO 4,U.S. House,22,Blanks,,3
+Oswego,NEW HAVEN 1,U.S. House,22,Blanks,,21
+Oswego,NEW HAVEN 2,U.S. House,22,Blanks,,5
+Oswego,ORWELL 1,U.S. House,22,Blanks,,18
+Oswego,PARISH 1,U.S. House,22,Blanks,,10
+Oswego,PARISH 2,U.S. House,22,Blanks,,20
+Oswego,REDFIELD 1,U.S. House,22,Blanks,,5
+Oswego,RICHLAND 1,U.S. House,22,Blanks,,11
+Oswego,RICHLAND 2,U.S. House,22,Blanks,,16
+Oswego,RICHLAND 3,U.S. House,22,Blanks,,7
+Oswego,RICHLAND 4,U.S. House,22,Blanks,,27
+Oswego,RICHLAND 5,U.S. House,22,Blanks,,3
+Oswego,RICHLAND 6,U.S. House,22,Blanks,,5
+Oswego,SANDY CREEK 1,U.S. House,22,Blanks,,24
+Oswego,SANDY CREEK 2,U.S. House,22,Blanks,,16
+Oswego,SANDY CREEK 3,U.S. House,22,Blanks,,6
+Oswego,WEST MONROE 1,U.S. House,22,Blanks,,8
+Oswego,WEST MONROE 2,U.S. House,22,Blanks,,23
+Oswego,WEST MONROE 3,U.S. House,22,Blanks,,24
+Oswego,WILLIAMSTOWN 1,U.S. House,22,Blanks,,14
+Oswego,ALBION 1,U.S. House,22,Void,,1
+Oswego,ALBION 2,U.S. House,22,Void,,0
+Oswego,AMBOY 1,U.S. House,22,Void,,0
+Oswego,BOYLSTON 1,U.S. House,22,Void,,0
+Oswego,CONSTANTIA 1,U.S. House,22,Void,,1
+Oswego,CONSTANTIA 2,U.S. House,22,Void,,0
+Oswego,CONSTANTIA 3,U.S. House,22,Void,,1
+Oswego,CONSTANTIA 4,U.S. House,22,Void,,0
+Oswego,HASTINGS 1,U.S. House,22,Void,,0
+Oswego,HASTINGS 2,U.S. House,22,Void,,0
+Oswego,HASTINGS 3,U.S. House,22,Void,,0
+Oswego,HASTINGS 4,U.S. House,22,Void,,0
+Oswego,HASTINGS 5,U.S. House,22,Void,,1
+Oswego,HASTINGS 6,U.S. House,22,Void,,0
+Oswego,HASTINGS 7,U.S. House,22,Void,,0
+Oswego,HASTINGS 8,U.S. House,22,Void,,1
+Oswego,MEXICO 1,U.S. House,22,Void,,0
+Oswego,MEXICO 2,U.S. House,22,Void,,0
+Oswego,MEXICO 3,U.S. House,22,Void,,1
+Oswego,MEXICO 4,U.S. House,22,Void,,1
+Oswego,NEW HAVEN 1,U.S. House,22,Void,,0
+Oswego,NEW HAVEN 2,U.S. House,22,Void,,0
+Oswego,ORWELL 1,U.S. House,22,Void,,1
+Oswego,PARISH 1,U.S. House,22,Void,,0
+Oswego,PARISH 2,U.S. House,22,Void,,0
+Oswego,REDFIELD 1,U.S. House,22,Void,,1
+Oswego,RICHLAND 1,U.S. House,22,Void,,1
+Oswego,RICHLAND 2,U.S. House,22,Void,,1
+Oswego,RICHLAND 3,U.S. House,22,Void,,0
+Oswego,RICHLAND 4,U.S. House,22,Void,,0
+Oswego,RICHLAND 5,U.S. House,22,Void,,0
+Oswego,RICHLAND 6,U.S. House,22,Void,,0
+Oswego,SANDY CREEK 1,U.S. House,22,Void,,0
+Oswego,SANDY CREEK 2,U.S. House,22,Void,,2
+Oswego,SANDY CREEK 3,U.S. House,22,Void,,0
+Oswego,WEST MONROE 1,U.S. House,22,Void,,0
+Oswego,WEST MONROE 2,U.S. House,22,Void,,1
+Oswego,WEST MONROE 3,U.S. House,22,Void,,1
+Oswego,WILLIAMSTOWN 1,U.S. House,22,Void,,0
+Oswego,GRANBY 1,U.S. House,24,Dana Balter,DEM,169
+Oswego,GRANBY 2,U.S. House,24,Dana Balter,DEM,122
+Oswego,GRANBY 3,U.S. House,24,Dana Balter,DEM,91
+Oswego,GRANBY 4,U.S. House,24,Dana Balter,DEM,168
+Oswego,GRANBY 5,U.S. House,24,Dana Balter,DEM,232
+Oswego,HANNIBAL 1,U.S. House,24,Dana Balter,DEM,57
+Oswego,HANNIBAL 2,U.S. House,24,Dana Balter,DEM,150
+Oswego,HANNIBAL 3,U.S. House,24,Dana Balter,DEM,116
+Oswego,HANNIBAL 4,U.S. House,24,Dana Balter,DEM,161
+Oswego,MINETTO 1,U.S. House,24,Dana Balter,DEM,340
+Oswego,MINETTO 2,U.S. House,24,Dana Balter,DEM,95
+Oswego,NEW HAVEN 3,U.S. House,24,Dana Balter,DEM,105
+Oswego,OSWEGO TOWN 1,U.S. House,24,Dana Balter,DEM,22
+Oswego,OSWEGO TOWN 2,U.S. House,24,Dana Balter,DEM,56
+Oswego,OSWEGO TOWN 3,U.S. House,24,Dana Balter,DEM,273
+Oswego,OSWEGO TOWN 4,U.S. House,24,Dana Balter,DEM,208
+Oswego,OSWEGO TOWN 5,U.S. House,24,Dana Balter,DEM,106
+Oswego,OSWEGO TOWN 6,U.S. House,24,Dana Balter,DEM,122
+Oswego,OSWEGO TOWN 7,U.S. House,24,Dana Balter,DEM,262
+Oswego,PALERMO 1,U.S. House,24,Dana Balter,DEM,142
+Oswego,PALERMO 2,U.S. House,24,Dana Balter,DEM,82
+Oswego,PALERMO 3,U.S. House,24,Dana Balter,DEM,109
+Oswego,PALERMO 4,U.S. House,24,Dana Balter,DEM,15
+Oswego,SCHROEPPEL 1,U.S. House,24,Dana Balter,DEM,307
+Oswego,SCHROEPPEL 2,U.S. House,24,Dana Balter,DEM,227
+Oswego,SCHROEPPEL 3,U.S. House,24,Dana Balter,DEM,120
+Oswego,SCHROEPPEL 4,U.S. House,24,Dana Balter,DEM,277
+Oswego,SCHROEPPEL 5,U.S. House,24,Dana Balter,DEM,343
+Oswego,SCRIBA 1,U.S. House,24,Dana Balter,DEM,182
+Oswego,SCRIBA 2,U.S. House,24,Dana Balter,DEM,95
+Oswego,SCRIBA 3,U.S. House,24,Dana Balter,DEM,299
+Oswego,SCRIBA 4,U.S. House,24,Dana Balter,DEM,172
+Oswego,SCRIBA 5,U.S. House,24,Dana Balter,DEM,152
+Oswego,SCRIBA 6,U.S. House,24,Dana Balter,DEM,70
+Oswego,VOLNEY 1,U.S. House,24,Dana Balter,DEM,119
+Oswego,VOLNEY 2,U.S. House,24,Dana Balter,DEM,140
+Oswego,VOLNEY 3,U.S. House,24,Dana Balter,DEM,182
+Oswego,VOLNEY 4,U.S. House,24,Dana Balter,DEM,217
+Oswego,VOLNEY 5,U.S. House,24,Dana Balter,DEM,48
+Oswego,OSWEGO CITY 1-1,U.S. House,24,Dana Balter,DEM,324
+Oswego,OSWEGO CITY 1-2,U.S. House,24,Dana Balter,DEM,125
+Oswego,OSWEGO CITY 2-1,U.S. House,24,Dana Balter,DEM,102
+Oswego,OSWEGO CITY 2-2,U.S. House,24,Dana Balter,DEM,301
+Oswego,OSWEGO CITY 3-1,U.S. House,24,Dana Balter,DEM,264
+Oswego,OSWEGO CITY 3-2,U.S. House,24,Dana Balter,DEM,76
+Oswego,OSWEGO CITY 4-1,U.S. House,24,Dana Balter,DEM,238
+Oswego,OSWEGO CITY 4-2,U.S. House,24,Dana Balter,DEM,125
+Oswego,OSWEGO CITY 4-3,U.S. House,24,Dana Balter,DEM,125
+Oswego,OSWEGO CITY 5-1,U.S. House,24,Dana Balter,DEM,263
+Oswego,OSWEGO CITY 5-2,U.S. House,24,Dana Balter,DEM,149
+Oswego,OSWEGO CITY 5-3,U.S. House,24,Dana Balter,DEM,53
+Oswego,OSWEGO CITY 5-4,U.S. House,24,Dana Balter,DEM,26
+Oswego,OSWEGO CITY 6-1,U.S. House,24,Dana Balter,DEM,377
+Oswego,OSWEGO CITY 6-2,U.S. House,24,Dana Balter,DEM,63
+Oswego,OSWEGO CITY 7-1,U.S. House,24,Dana Balter,DEM,343
+Oswego,OSWEGO CITY 7-2,U.S. House,24,Dana Balter,DEM,334
+Oswego,OSWEGO CITY 7-3,U.S. House,24,Dana Balter,DEM,9
+Oswego,FULTON CITY 1-1,U.S. House,24,Dana Balter,DEM,153
+Oswego,FULTON CITY 1-2,U.S. House,24,Dana Balter,DEM,96
+Oswego,FULTON CITY 2-1,U.S. House,24,Dana Balter,DEM,34
+Oswego,FULTON CITY 2-2,U.S. House,24,Dana Balter,DEM,165
+Oswego,FULTON CITY 3-1,U.S. House,24,Dana Balter,DEM,217
+Oswego,FULTON CITY 3-2,U.S. House,24,Dana Balter,DEM,143
+Oswego,FULTON CITY 4-1,U.S. House,24,Dana Balter,DEM,93
+Oswego,FULTON CITY 4-2,U.S. House,24,Dana Balter,DEM,103
+Oswego,FULTON CITY 4-3,U.S. House,24,Dana Balter,DEM,58
+Oswego,FULTON CITY 5-1,U.S. House,24,Dana Balter,DEM,120
+Oswego,FULTON CITY 5-2,U.S. House,24,Dana Balter,DEM,115
+Oswego,FULTON CITY 5-3,U.S. House,24,Dana Balter,DEM,14
+Oswego,FULTON CITY 6-1,U.S. House,24,Dana Balter,DEM,135
+Oswego,FULTON CITY 6-2,U.S. House,24,Dana Balter,DEM,58
+Oswego,GRANBY 1,U.S. House,24,John Katko,REP,298
+Oswego,GRANBY 2,U.S. House,24,John Katko,REP,282
+Oswego,GRANBY 3,U.S. House,24,John Katko,REP,253
+Oswego,GRANBY 4,U.S. House,24,John Katko,REP,505
+Oswego,GRANBY 5,U.S. House,24,John Katko,REP,477
+Oswego,HANNIBAL 1,U.S. House,24,John Katko,REP,150
+Oswego,HANNIBAL 2,U.S. House,24,John Katko,REP,285
+Oswego,HANNIBAL 3,U.S. House,24,John Katko,REP,299
+Oswego,HANNIBAL 4,U.S. House,24,John Katko,REP,419
+Oswego,MINETTO 1,U.S. House,24,John Katko,REP,363
+Oswego,MINETTO 2,U.S. House,24,John Katko,REP,98
+Oswego,NEW HAVEN 3,U.S. House,24,John Katko,REP,228
+Oswego,OSWEGO TOWN 1,U.S. House,24,John Katko,REP,5
+Oswego,OSWEGO TOWN 2,U.S. House,24,John Katko,REP,10
+Oswego,OSWEGO TOWN 3,U.S. House,24,John Katko,REP,272
+Oswego,OSWEGO TOWN 4,U.S. House,24,John Katko,REP,240
+Oswego,OSWEGO TOWN 5,U.S. House,24,John Katko,REP,174
+Oswego,OSWEGO TOWN 6,U.S. House,24,John Katko,REP,234
+Oswego,OSWEGO TOWN 7,U.S. House,24,John Katko,REP,341
+Oswego,PALERMO 1,U.S. House,24,John Katko,REP,371
+Oswego,PALERMO 2,U.S. House,24,John Katko,REP,302
+Oswego,PALERMO 3,U.S. House,24,John Katko,REP,301
+Oswego,PALERMO 4,U.S. House,24,John Katko,REP,63
+Oswego,SCHROEPPEL 1,U.S. House,24,John Katko,REP,464
+Oswego,SCHROEPPEL 2,U.S. House,24,John Katko,REP,374
+Oswego,SCHROEPPEL 3,U.S. House,24,John Katko,REP,324
+Oswego,SCHROEPPEL 4,U.S. House,24,John Katko,REP,529
+Oswego,SCHROEPPEL 5,U.S. House,24,John Katko,REP,542
+Oswego,SCRIBA 1,U.S. House,24,John Katko,REP,383
+Oswego,SCRIBA 2,U.S. House,24,John Katko,REP,263
+Oswego,SCRIBA 3,U.S. House,24,John Katko,REP,498
+Oswego,SCRIBA 4,U.S. House,24,John Katko,REP,357
+Oswego,SCRIBA 5,U.S. House,24,John Katko,REP,287
+Oswego,SCRIBA 6,U.S. House,24,John Katko,REP,70
+Oswego,VOLNEY 1,U.S. House,24,John Katko,REP,205
+Oswego,VOLNEY 2,U.S. House,24,John Katko,REP,371
+Oswego,VOLNEY 3,U.S. House,24,John Katko,REP,506
+Oswego,VOLNEY 4,U.S. House,24,John Katko,REP,508
+Oswego,VOLNEY 5,U.S. House,24,John Katko,REP,111
+Oswego,OSWEGO CITY 1-1,U.S. House,24,John Katko,REP,195
+Oswego,OSWEGO CITY 1-2,U.S. House,24,John Katko,REP,104
+Oswego,OSWEGO CITY 2-1,U.S. House,24,John Katko,REP,125
+Oswego,OSWEGO CITY 2-2,U.S. House,24,John Katko,REP,310
+Oswego,OSWEGO CITY 3-1,U.S. House,24,John Katko,REP,195
+Oswego,OSWEGO CITY 3-2,U.S. House,24,John Katko,REP,49
+Oswego,OSWEGO CITY 4-1,U.S. House,24,John Katko,REP,239
+Oswego,OSWEGO CITY 4-2,U.S. House,24,John Katko,REP,75
+Oswego,OSWEGO CITY 4-3,U.S. House,24,John Katko,REP,121
+Oswego,OSWEGO CITY 5-1,U.S. House,24,John Katko,REP,223
+Oswego,OSWEGO CITY 5-2,U.S. House,24,John Katko,REP,164
+Oswego,OSWEGO CITY 5-3,U.S. House,24,John Katko,REP,51
+Oswego,OSWEGO CITY 5-4,U.S. House,24,John Katko,REP,29
+Oswego,OSWEGO CITY 6-1,U.S. House,24,John Katko,REP,341
+Oswego,OSWEGO CITY 6-2,U.S. House,24,John Katko,REP,71
+Oswego,OSWEGO CITY 7-1,U.S. House,24,John Katko,REP,268
+Oswego,OSWEGO CITY 7-2,U.S. House,24,John Katko,REP,357
+Oswego,OSWEGO CITY 7-3,U.S. House,24,John Katko,REP,16
+Oswego,FULTON CITY 1-1,U.S. House,24,John Katko,REP,247
+Oswego,FULTON CITY 1-2,U.S. House,24,John Katko,REP,201
+Oswego,FULTON CITY 2-1,U.S. House,24,John Katko,REP,50
+Oswego,FULTON CITY 2-2,U.S. House,24,John Katko,REP,254
+Oswego,FULTON CITY 3-1,U.S. House,24,John Katko,REP,335
+Oswego,FULTON CITY 3-2,U.S. House,24,John Katko,REP,190
+Oswego,FULTON CITY 4-1,U.S. House,24,John Katko,REP,136
+Oswego,FULTON CITY 4-2,U.S. House,24,John Katko,REP,128
+Oswego,FULTON CITY 4-3,U.S. House,24,John Katko,REP,84
+Oswego,FULTON CITY 5-1,U.S. House,24,John Katko,REP,192
+Oswego,FULTON CITY 5-2,U.S. House,24,John Katko,REP,125
+Oswego,FULTON CITY 5-3,U.S. House,24,John Katko,REP,21
+Oswego,FULTON CITY 6-1,U.S. House,24,John Katko,REP,189
+Oswego,FULTON CITY 6-2,U.S. House,24,John Katko,REP,94
+Oswego,GRANBY 1,U.S. House,24,John Katko,CON,32
+Oswego,GRANBY 2,U.S. House,24,John Katko,CON,24
+Oswego,GRANBY 3,U.S. House,24,John Katko,CON,23
+Oswego,GRANBY 4,U.S. House,24,John Katko,CON,67
+Oswego,GRANBY 5,U.S. House,24,John Katko,CON,53
+Oswego,HANNIBAL 1,U.S. House,24,John Katko,CON,15
+Oswego,HANNIBAL 2,U.S. House,24,John Katko,CON,33
+Oswego,HANNIBAL 3,U.S. House,24,John Katko,CON,55
+Oswego,HANNIBAL 4,U.S. House,24,John Katko,CON,66
+Oswego,MINETTO 1,U.S. House,24,John Katko,CON,39
+Oswego,MINETTO 2,U.S. House,24,John Katko,CON,14
+Oswego,NEW HAVEN 3,U.S. House,24,John Katko,CON,28
+Oswego,OSWEGO TOWN 1,U.S. House,24,John Katko,CON,0
+Oswego,OSWEGO TOWN 2,U.S. House,24,John Katko,CON,1
+Oswego,OSWEGO TOWN 3,U.S. House,24,John Katko,CON,33
+Oswego,OSWEGO TOWN 4,U.S. House,24,John Katko,CON,34
+Oswego,OSWEGO TOWN 5,U.S. House,24,John Katko,CON,17
+Oswego,OSWEGO TOWN 6,U.S. House,24,John Katko,CON,19
+Oswego,OSWEGO TOWN 7,U.S. House,24,John Katko,CON,36
+Oswego,PALERMO 1,U.S. House,24,John Katko,CON,51
+Oswego,PALERMO 2,U.S. House,24,John Katko,CON,42
+Oswego,PALERMO 3,U.S. House,24,John Katko,CON,37
+Oswego,PALERMO 4,U.S. House,24,John Katko,CON,8
+Oswego,SCHROEPPEL 1,U.S. House,24,John Katko,CON,64
+Oswego,SCHROEPPEL 2,U.S. House,24,John Katko,CON,35
+Oswego,SCHROEPPEL 3,U.S. House,24,John Katko,CON,48
+Oswego,SCHROEPPEL 4,U.S. House,24,John Katko,CON,66
+Oswego,SCHROEPPEL 5,U.S. House,24,John Katko,CON,53
+Oswego,SCRIBA 1,U.S. House,24,John Katko,CON,46
+Oswego,SCRIBA 2,U.S. House,24,John Katko,CON,33
+Oswego,SCRIBA 3,U.S. House,24,John Katko,CON,50
+Oswego,SCRIBA 4,U.S. House,24,John Katko,CON,47
+Oswego,SCRIBA 5,U.S. House,24,John Katko,CON,30
+Oswego,SCRIBA 6,U.S. House,24,John Katko,CON,17
+Oswego,VOLNEY 1,U.S. House,24,John Katko,CON,19
+Oswego,VOLNEY 2,U.S. House,24,John Katko,CON,31
+Oswego,VOLNEY 3,U.S. House,24,John Katko,CON,54
+Oswego,VOLNEY 4,U.S. House,24,John Katko,CON,71
+Oswego,VOLNEY 5,U.S. House,24,John Katko,CON,20
+Oswego,OSWEGO CITY 1-1,U.S. House,24,John Katko,CON,19
+Oswego,OSWEGO CITY 1-2,U.S. House,24,John Katko,CON,10
+Oswego,OSWEGO CITY 2-1,U.S. House,24,John Katko,CON,9
+Oswego,OSWEGO CITY 2-2,U.S. House,24,John Katko,CON,27
+Oswego,OSWEGO CITY 3-1,U.S. House,24,John Katko,CON,28
+Oswego,OSWEGO CITY 3-2,U.S. House,24,John Katko,CON,13
+Oswego,OSWEGO CITY 4-1,U.S. House,24,John Katko,CON,28
+Oswego,OSWEGO CITY 4-2,U.S. House,24,John Katko,CON,10
+Oswego,OSWEGO CITY 4-3,U.S. House,24,John Katko,CON,17
+Oswego,OSWEGO CITY 5-1,U.S. House,24,John Katko,CON,27
+Oswego,OSWEGO CITY 5-2,U.S. House,24,John Katko,CON,15
+Oswego,OSWEGO CITY 5-3,U.S. House,24,John Katko,CON,5
+Oswego,OSWEGO CITY 5-4,U.S. House,24,John Katko,CON,3
+Oswego,OSWEGO CITY 6-1,U.S. House,24,John Katko,CON,63
+Oswego,OSWEGO CITY 6-2,U.S. House,24,John Katko,CON,13
+Oswego,OSWEGO CITY 7-1,U.S. House,24,John Katko,CON,29
+Oswego,OSWEGO CITY 7-2,U.S. House,24,John Katko,CON,45
+Oswego,OSWEGO CITY 7-3,U.S. House,24,John Katko,CON,0
+Oswego,FULTON CITY 1-1,U.S. House,24,John Katko,CON,28
+Oswego,FULTON CITY 1-2,U.S. House,24,John Katko,CON,20
+Oswego,FULTON CITY 2-1,U.S. House,24,John Katko,CON,3
+Oswego,FULTON CITY 2-2,U.S. House,24,John Katko,CON,26
+Oswego,FULTON CITY 3-1,U.S. House,24,John Katko,CON,49
+Oswego,FULTON CITY 3-2,U.S. House,24,John Katko,CON,17
+Oswego,FULTON CITY 4-1,U.S. House,24,John Katko,CON,14
+Oswego,FULTON CITY 4-2,U.S. House,24,John Katko,CON,21
+Oswego,FULTON CITY 4-3,U.S. House,24,John Katko,CON,9
+Oswego,FULTON CITY 5-1,U.S. House,24,John Katko,CON,22
+Oswego,FULTON CITY 5-2,U.S. House,24,John Katko,CON,15
+Oswego,FULTON CITY 5-3,U.S. House,24,John Katko,CON,1
+Oswego,FULTON CITY 6-1,U.S. House,24,John Katko,CON,27
+Oswego,FULTON CITY 6-2,U.S. House,24,John Katko,CON,13
+Oswego,GRANBY 1,U.S. House,24,Steven Williams,WOR,16
+Oswego,GRANBY 2,U.S. House,24,Steven Williams,WOR,26
+Oswego,GRANBY 3,U.S. House,24,Steven Williams,WOR,16
+Oswego,GRANBY 4,U.S. House,24,Steven Williams,WOR,48
+Oswego,GRANBY 5,U.S. House,24,Steven Williams,WOR,25
+Oswego,HANNIBAL 1,U.S. House,24,Steven Williams,WOR,14
+Oswego,HANNIBAL 2,U.S. House,24,Steven Williams,WOR,21
+Oswego,HANNIBAL 3,U.S. House,24,Steven Williams,WOR,18
+Oswego,HANNIBAL 4,U.S. House,24,Steven Williams,WOR,30
+Oswego,MINETTO 1,U.S. House,24,Steven Williams,WOR,28
+Oswego,MINETTO 2,U.S. House,24,Steven Williams,WOR,15
+Oswego,NEW HAVEN 3,U.S. House,24,Steven Williams,WOR,30
+Oswego,OSWEGO TOWN 1,U.S. House,24,Steven Williams,WOR,4
+Oswego,OSWEGO TOWN 2,U.S. House,24,Steven Williams,WOR,1
+Oswego,OSWEGO TOWN 3,U.S. House,24,Steven Williams,WOR,11
+Oswego,OSWEGO TOWN 4,U.S. House,24,Steven Williams,WOR,15
+Oswego,OSWEGO TOWN 5,U.S. House,24,Steven Williams,WOR,14
+Oswego,OSWEGO TOWN 6,U.S. House,24,Steven Williams,WOR,11
+Oswego,OSWEGO TOWN 7,U.S. House,24,Steven Williams,WOR,18
+Oswego,PALERMO 1,U.S. House,24,Steven Williams,WOR,32
+Oswego,PALERMO 2,U.S. House,24,Steven Williams,WOR,19
+Oswego,PALERMO 3,U.S. House,24,Steven Williams,WOR,25
+Oswego,PALERMO 4,U.S. House,24,Steven Williams,WOR,5
+Oswego,SCHROEPPEL 1,U.S. House,24,Steven Williams,WOR,50
+Oswego,SCHROEPPEL 2,U.S. House,24,Steven Williams,WOR,33
+Oswego,SCHROEPPEL 3,U.S. House,24,Steven Williams,WOR,22
+Oswego,SCHROEPPEL 4,U.S. House,24,Steven Williams,WOR,56
+Oswego,SCHROEPPEL 5,U.S. House,24,Steven Williams,WOR,44
+Oswego,SCRIBA 1,U.S. House,24,Steven Williams,WOR,21
+Oswego,SCRIBA 2,U.S. House,24,Steven Williams,WOR,27
+Oswego,SCRIBA 3,U.S. House,24,Steven Williams,WOR,35
+Oswego,SCRIBA 4,U.S. House,24,Steven Williams,WOR,20
+Oswego,SCRIBA 5,U.S. House,24,Steven Williams,WOR,23
+Oswego,SCRIBA 6,U.S. House,24,Steven Williams,WOR,11
+Oswego,VOLNEY 1,U.S. House,24,Steven Williams,WOR,21
+Oswego,VOLNEY 2,U.S. House,24,Steven Williams,WOR,32
+Oswego,VOLNEY 3,U.S. House,24,Steven Williams,WOR,58
+Oswego,VOLNEY 4,U.S. House,24,Steven Williams,WOR,39
+Oswego,VOLNEY 5,U.S. House,24,Steven Williams,WOR,3
+Oswego,OSWEGO CITY 1-1,U.S. House,24,Steven Williams,WOR,26
+Oswego,OSWEGO CITY 1-2,U.S. House,24,Steven Williams,WOR,12
+Oswego,OSWEGO CITY 2-1,U.S. House,24,Steven Williams,WOR,4
+Oswego,OSWEGO CITY 2-2,U.S. House,24,Steven Williams,WOR,53
+Oswego,OSWEGO CITY 3-1,U.S. House,24,Steven Williams,WOR,24
+Oswego,OSWEGO CITY 3-2,U.S. House,24,Steven Williams,WOR,3
+Oswego,OSWEGO CITY 4-1,U.S. House,24,Steven Williams,WOR,24
+Oswego,OSWEGO CITY 4-2,U.S. House,24,Steven Williams,WOR,11
+Oswego,OSWEGO CITY 4-3,U.S. House,24,Steven Williams,WOR,20
+Oswego,OSWEGO CITY 5-1,U.S. House,24,Steven Williams,WOR,23
+Oswego,OSWEGO CITY 5-2,U.S. House,24,Steven Williams,WOR,18
+Oswego,OSWEGO CITY 5-3,U.S. House,24,Steven Williams,WOR,5
+Oswego,OSWEGO CITY 5-4,U.S. House,24,Steven Williams,WOR,7
+Oswego,OSWEGO CITY 6-1,U.S. House,24,Steven Williams,WOR,65
+Oswego,OSWEGO CITY 6-2,U.S. House,24,Steven Williams,WOR,10
+Oswego,OSWEGO CITY 7-1,U.S. House,24,Steven Williams,WOR,18
+Oswego,OSWEGO CITY 7-2,U.S. House,24,Steven Williams,WOR,27
+Oswego,OSWEGO CITY 7-3,U.S. House,24,Steven Williams,WOR,0
+Oswego,FULTON CITY 1-1,U.S. House,24,Steven Williams,WOR,23
+Oswego,FULTON CITY 1-2,U.S. House,24,Steven Williams,WOR,13
+Oswego,FULTON CITY 2-1,U.S. House,24,Steven Williams,WOR,6
+Oswego,FULTON CITY 2-2,U.S. House,24,Steven Williams,WOR,26
+Oswego,FULTON CITY 3-1,U.S. House,24,Steven Williams,WOR,24
+Oswego,FULTON CITY 3-2,U.S. House,24,Steven Williams,WOR,18
+Oswego,FULTON CITY 4-1,U.S. House,24,Steven Williams,WOR,22
+Oswego,FULTON CITY 4-2,U.S. House,24,Steven Williams,WOR,20
+Oswego,FULTON CITY 4-3,U.S. House,24,Steven Williams,WOR,10
+Oswego,FULTON CITY 5-1,U.S. House,24,Steven Williams,WOR,23
+Oswego,FULTON CITY 5-2,U.S. House,24,Steven Williams,WOR,21
+Oswego,FULTON CITY 5-3,U.S. House,24,Steven Williams,WOR,1
+Oswego,FULTON CITY 6-1,U.S. House,24,Steven Williams,WOR,21
+Oswego,FULTON CITY 6-2,U.S. House,24,Steven Williams,WOR,6
+Oswego,GRANBY 1,U.S. House,24,John Katko,IND,5
+Oswego,GRANBY 2,U.S. House,24,John Katko,IND,8
+Oswego,GRANBY 3,U.S. House,24,John Katko,IND,5
+Oswego,GRANBY 4,U.S. House,24,John Katko,IND,9
+Oswego,GRANBY 5,U.S. House,24,John Katko,IND,10
+Oswego,HANNIBAL 1,U.S. House,24,John Katko,IND,0
+Oswego,HANNIBAL 2,U.S. House,24,John Katko,IND,7
+Oswego,HANNIBAL 3,U.S. House,24,John Katko,IND,7
+Oswego,HANNIBAL 4,U.S. House,24,John Katko,IND,3
+Oswego,MINETTO 1,U.S. House,24,John Katko,IND,14
+Oswego,MINETTO 2,U.S. House,24,John Katko,IND,3
+Oswego,NEW HAVEN 3,U.S. House,24,John Katko,IND,1
+Oswego,OSWEGO TOWN 1,U.S. House,24,John Katko,IND,0
+Oswego,OSWEGO TOWN 2,U.S. House,24,John Katko,IND,0
+Oswego,OSWEGO TOWN 3,U.S. House,24,John Katko,IND,5
+Oswego,OSWEGO TOWN 4,U.S. House,24,John Katko,IND,6
+Oswego,OSWEGO TOWN 5,U.S. House,24,John Katko,IND,1
+Oswego,OSWEGO TOWN 6,U.S. House,24,John Katko,IND,3
+Oswego,OSWEGO TOWN 7,U.S. House,24,John Katko,IND,11
+Oswego,PALERMO 1,U.S. House,24,John Katko,IND,6
+Oswego,PALERMO 2,U.S. House,24,John Katko,IND,4
+Oswego,PALERMO 3,U.S. House,24,John Katko,IND,3
+Oswego,PALERMO 4,U.S. House,24,John Katko,IND,1
+Oswego,SCHROEPPEL 1,U.S. House,24,John Katko,IND,11
+Oswego,SCHROEPPEL 2,U.S. House,24,John Katko,IND,8
+Oswego,SCHROEPPEL 3,U.S. House,24,John Katko,IND,1
+Oswego,SCHROEPPEL 4,U.S. House,24,John Katko,IND,11
+Oswego,SCHROEPPEL 5,U.S. House,24,John Katko,IND,11
+Oswego,SCRIBA 1,U.S. House,24,John Katko,IND,6
+Oswego,SCRIBA 2,U.S. House,24,John Katko,IND,3
+Oswego,SCRIBA 3,U.S. House,24,John Katko,IND,8
+Oswego,SCRIBA 4,U.S. House,24,John Katko,IND,8
+Oswego,SCRIBA 5,U.S. House,24,John Katko,IND,7
+Oswego,SCRIBA 6,U.S. House,24,John Katko,IND,2
+Oswego,VOLNEY 1,U.S. House,24,John Katko,IND,2
+Oswego,VOLNEY 2,U.S. House,24,John Katko,IND,7
+Oswego,VOLNEY 3,U.S. House,24,John Katko,IND,10
+Oswego,VOLNEY 4,U.S. House,24,John Katko,IND,11
+Oswego,VOLNEY 5,U.S. House,24,John Katko,IND,3
+Oswego,OSWEGO CITY 1-1,U.S. House,24,John Katko,IND,6
+Oswego,OSWEGO CITY 1-2,U.S. House,24,John Katko,IND,4
+Oswego,OSWEGO CITY 2-1,U.S. House,24,John Katko,IND,2
+Oswego,OSWEGO CITY 2-2,U.S. House,24,John Katko,IND,10
+Oswego,OSWEGO CITY 3-1,U.S. House,24,John Katko,IND,6
+Oswego,OSWEGO CITY 3-2,U.S. House,24,John Katko,IND,2
+Oswego,OSWEGO CITY 4-1,U.S. House,24,John Katko,IND,11
+Oswego,OSWEGO CITY 4-2,U.S. House,24,John Katko,IND,1
+Oswego,OSWEGO CITY 4-3,U.S. House,24,John Katko,IND,8
+Oswego,OSWEGO CITY 5-1,U.S. House,24,John Katko,IND,2
+Oswego,OSWEGO CITY 5-2,U.S. House,24,John Katko,IND,7
+Oswego,OSWEGO CITY 5-3,U.S. House,24,John Katko,IND,1
+Oswego,OSWEGO CITY 5-4,U.S. House,24,John Katko,IND,1
+Oswego,OSWEGO CITY 6-1,U.S. House,24,John Katko,IND,13
+Oswego,OSWEGO CITY 6-2,U.S. House,24,John Katko,IND,6
+Oswego,OSWEGO CITY 7-1,U.S. House,24,John Katko,IND,17
+Oswego,OSWEGO CITY 7-2,U.S. House,24,John Katko,IND,13
+Oswego,OSWEGO CITY 7-3,U.S. House,24,John Katko,IND,1
+Oswego,FULTON CITY 1-1,U.S. House,24,John Katko,IND,8
+Oswego,FULTON CITY 1-2,U.S. House,24,John Katko,IND,3
+Oswego,FULTON CITY 2-1,U.S. House,24,John Katko,IND,2
+Oswego,FULTON CITY 2-2,U.S. House,24,John Katko,IND,3
+Oswego,FULTON CITY 3-1,U.S. House,24,John Katko,IND,9
+Oswego,FULTON CITY 3-2,U.S. House,24,John Katko,IND,7
+Oswego,FULTON CITY 4-1,U.S. House,24,John Katko,IND,5
+Oswego,FULTON CITY 4-2,U.S. House,24,John Katko,IND,3
+Oswego,FULTON CITY 4-3,U.S. House,24,John Katko,IND,1
+Oswego,FULTON CITY 5-1,U.S. House,24,John Katko,IND,3
+Oswego,FULTON CITY 5-2,U.S. House,24,John Katko,IND,5
+Oswego,FULTON CITY 5-3,U.S. House,24,John Katko,IND,1
+Oswego,FULTON CITY 6-1,U.S. House,24,John Katko,IND,6
+Oswego,FULTON CITY 6-2,U.S. House,24,John Katko,IND,2
+Oswego,GRANBY 1,U.S. House,24,Write-ins,,0
+Oswego,GRANBY 2,U.S. House,24,Write-ins,,1
+Oswego,GRANBY 3,U.S. House,24,Write-ins,,0
+Oswego,GRANBY 4,U.S. House,24,Write-ins,,2
+Oswego,GRANBY 5,U.S. House,24,Write-ins,,0
+Oswego,HANNIBAL 1,U.S. House,24,Write-ins,,0
+Oswego,HANNIBAL 2,U.S. House,24,Write-ins,,1
+Oswego,HANNIBAL 3,U.S. House,24,Write-ins,,0
+Oswego,HANNIBAL 4,U.S. House,24,Write-ins,,0
+Oswego,MINETTO 1,U.S. House,24,Write-ins,,0
+Oswego,MINETTO 2,U.S. House,24,Write-ins,,0
+Oswego,NEW HAVEN 3,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO TOWN 1,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO TOWN 2,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO TOWN 3,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO TOWN 4,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO TOWN 5,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO TOWN 6,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO TOWN 7,U.S. House,24,Write-ins,,0
+Oswego,PALERMO 1,U.S. House,24,Write-ins,,2
+Oswego,PALERMO 2,U.S. House,24,Write-ins,,2
+Oswego,PALERMO 3,U.S. House,24,Write-ins,,0
+Oswego,PALERMO 4,U.S. House,24,Write-ins,,0
+Oswego,SCHROEPPEL 1,U.S. House,24,Write-ins,,0
+Oswego,SCHROEPPEL 2,U.S. House,24,Write-ins,,1
+Oswego,SCHROEPPEL 3,U.S. House,24,Write-ins,,0
+Oswego,SCHROEPPEL 4,U.S. House,24,Write-ins,,0
+Oswego,SCHROEPPEL 5,U.S. House,24,Write-ins,,0
+Oswego,SCRIBA 1,U.S. House,24,Write-ins,,1
+Oswego,SCRIBA 2,U.S. House,24,Write-ins,,0
+Oswego,SCRIBA 3,U.S. House,24,Write-ins,,2
+Oswego,SCRIBA 4,U.S. House,24,Write-ins,,0
+Oswego,SCRIBA 5,U.S. House,24,Write-ins,,0
+Oswego,SCRIBA 6,U.S. House,24,Write-ins,,0
+Oswego,VOLNEY 1,U.S. House,24,Write-ins,,0
+Oswego,VOLNEY 2,U.S. House,24,Write-ins,,0
+Oswego,VOLNEY 3,U.S. House,24,Write-ins,,0
+Oswego,VOLNEY 4,U.S. House,24,Write-ins,,0
+Oswego,VOLNEY 5,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO CITY 1-1,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO CITY 1-2,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO CITY 2-1,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO CITY 2-2,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO CITY 3-1,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO CITY 3-2,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO CITY 4-1,U.S. House,24,Write-ins,,2
+Oswego,OSWEGO CITY 4-2,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO CITY 4-3,U.S. House,24,Write-ins,,1
+Oswego,OSWEGO CITY 5-1,U.S. House,24,Write-ins,,1
+Oswego,OSWEGO CITY 5-2,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO CITY 5-3,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO CITY 5-4,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO CITY 6-1,U.S. House,24,Write-ins,,1
+Oswego,OSWEGO CITY 6-2,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO CITY 7-1,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO CITY 7-2,U.S. House,24,Write-ins,,0
+Oswego,OSWEGO CITY 7-3,U.S. House,24,Write-ins,,0
+Oswego,FULTON CITY 1-1,U.S. House,24,Write-ins,,0
+Oswego,FULTON CITY 1-2,U.S. House,24,Write-ins,,0
+Oswego,FULTON CITY 2-1,U.S. House,24,Write-ins,,0
+Oswego,FULTON CITY 2-2,U.S. House,24,Write-ins,,0
+Oswego,FULTON CITY 3-1,U.S. House,24,Write-ins,,1
+Oswego,FULTON CITY 3-2,U.S. House,24,Write-ins,,0
+Oswego,FULTON CITY 4-1,U.S. House,24,Write-ins,,1
+Oswego,FULTON CITY 4-2,U.S. House,24,Write-ins,,0
+Oswego,FULTON CITY 4-3,U.S. House,24,Write-ins,,1
+Oswego,FULTON CITY 5-1,U.S. House,24,Write-ins,,0
+Oswego,FULTON CITY 5-2,U.S. House,24,Write-ins,,1
+Oswego,FULTON CITY 5-3,U.S. House,24,Write-ins,,0
+Oswego,FULTON CITY 6-1,U.S. House,24,Write-ins,,0
+Oswego,FULTON CITY 6-2,U.S. House,24,Write-ins,,0
+Oswego,GRANBY 1,U.S. House,24,Blanks,,11
+Oswego,GRANBY 2,U.S. House,24,Blanks,,19
+Oswego,GRANBY 3,U.S. House,24,Blanks,,4
+Oswego,GRANBY 4,U.S. House,24,Blanks,,13
+Oswego,GRANBY 5,U.S. House,24,Blanks,,31
+Oswego,HANNIBAL 1,U.S. House,24,Blanks,,8
+Oswego,HANNIBAL 2,U.S. House,24,Blanks,,20
+Oswego,HANNIBAL 3,U.S. House,24,Blanks,,17
+Oswego,HANNIBAL 4,U.S. House,24,Blanks,,29
+Oswego,MINETTO 1,U.S. House,24,Blanks,,34
+Oswego,MINETTO 2,U.S. House,24,Blanks,,8
+Oswego,NEW HAVEN 3,U.S. House,24,Blanks,,13
+Oswego,OSWEGO TOWN 1,U.S. House,24,Blanks,,1
+Oswego,OSWEGO TOWN 2,U.S. House,24,Blanks,,5
+Oswego,OSWEGO TOWN 3,U.S. House,24,Blanks,,13
+Oswego,OSWEGO TOWN 4,U.S. House,24,Blanks,,22
+Oswego,OSWEGO TOWN 5,U.S. House,24,Blanks,,9
+Oswego,OSWEGO TOWN 6,U.S. House,24,Blanks,,17
+Oswego,OSWEGO TOWN 7,U.S. House,24,Blanks,,13
+Oswego,PALERMO 1,U.S. House,24,Blanks,,13
+Oswego,PALERMO 2,U.S. House,24,Blanks,,11
+Oswego,PALERMO 3,U.S. House,24,Blanks,,17
+Oswego,PALERMO 4,U.S. House,24,Blanks,,3
+Oswego,SCHROEPPEL 1,U.S. House,24,Blanks,,30
+Oswego,SCHROEPPEL 2,U.S. House,24,Blanks,,19
+Oswego,SCHROEPPEL 3,U.S. House,24,Blanks,,8
+Oswego,SCHROEPPEL 4,U.S. House,24,Blanks,,14
+Oswego,SCHROEPPEL 5,U.S. House,24,Blanks,,27
+Oswego,SCRIBA 1,U.S. House,24,Blanks,,19
+Oswego,SCRIBA 2,U.S. House,24,Blanks,,9
+Oswego,SCRIBA 3,U.S. House,24,Blanks,,23
+Oswego,SCRIBA 4,U.S. House,24,Blanks,,13
+Oswego,SCRIBA 5,U.S. House,24,Blanks,,9
+Oswego,SCRIBA 6,U.S. House,24,Blanks,,5
+Oswego,VOLNEY 1,U.S. House,24,Blanks,,10
+Oswego,VOLNEY 2,U.S. House,24,Blanks,,14
+Oswego,VOLNEY 3,U.S. House,24,Blanks,,21
+Oswego,VOLNEY 4,U.S. House,24,Blanks,,25
+Oswego,VOLNEY 5,U.S. House,24,Blanks,,4
+Oswego,OSWEGO CITY 1-1,U.S. House,24,Blanks,,12
+Oswego,OSWEGO CITY 1-2,U.S. House,24,Blanks,,7
+Oswego,OSWEGO CITY 2-1,U.S. House,24,Blanks,,16
+Oswego,OSWEGO CITY 2-2,U.S. House,24,Blanks,,33
+Oswego,OSWEGO CITY 3-1,U.S. House,24,Blanks,,28
+Oswego,OSWEGO CITY 3-2,U.S. House,24,Blanks,,2
+Oswego,OSWEGO CITY 4-1,U.S. House,24,Blanks,,15
+Oswego,OSWEGO CITY 4-2,U.S. House,24,Blanks,,4
+Oswego,OSWEGO CITY 4-3,U.S. House,24,Blanks,,7
+Oswego,OSWEGO CITY 5-1,U.S. House,24,Blanks,,17
+Oswego,OSWEGO CITY 5-2,U.S. House,24,Blanks,,12
+Oswego,OSWEGO CITY 5-3,U.S. House,24,Blanks,,1
+Oswego,OSWEGO CITY 5-4,U.S. House,24,Blanks,,0
+Oswego,OSWEGO CITY 6-1,U.S. House,24,Blanks,,42
+Oswego,OSWEGO CITY 6-2,U.S. House,24,Blanks,,4
+Oswego,OSWEGO CITY 7-1,U.S. House,24,Blanks,,16
+Oswego,OSWEGO CITY 7-2,U.S. House,24,Blanks,,18
+Oswego,OSWEGO CITY 7-3,U.S. House,24,Blanks,,1
+Oswego,FULTON CITY 1-1,U.S. House,24,Blanks,,16
+Oswego,FULTON CITY 1-2,U.S. House,24,Blanks,,5
+Oswego,FULTON CITY 2-1,U.S. House,24,Blanks,,4
+Oswego,FULTON CITY 2-2,U.S. House,24,Blanks,,17
+Oswego,FULTON CITY 3-1,U.S. House,24,Blanks,,12
+Oswego,FULTON CITY 3-2,U.S. House,24,Blanks,,10
+Oswego,FULTON CITY 4-1,U.S. House,24,Blanks,,9
+Oswego,FULTON CITY 4-2,U.S. House,24,Blanks,,8
+Oswego,FULTON CITY 4-3,U.S. House,24,Blanks,,5
+Oswego,FULTON CITY 5-1,U.S. House,24,Blanks,,5
+Oswego,FULTON CITY 5-2,U.S. House,24,Blanks,,9
+Oswego,FULTON CITY 5-3,U.S. House,24,Blanks,,1
+Oswego,FULTON CITY 6-1,U.S. House,24,Blanks,,9
+Oswego,FULTON CITY 6-2,U.S. House,24,Blanks,,3
+Oswego,GRANBY 1,U.S. House,24,Void,,0
+Oswego,GRANBY 2,U.S. House,24,Void,,0
+Oswego,GRANBY 3,U.S. House,24,Void,,0
+Oswego,GRANBY 4,U.S. House,24,Void,,0
+Oswego,GRANBY 5,U.S. House,24,Void,,1
+Oswego,HANNIBAL 1,U.S. House,24,Void,,0
+Oswego,HANNIBAL 2,U.S. House,24,Void,,1
+Oswego,HANNIBAL 3,U.S. House,24,Void,,0
+Oswego,HANNIBAL 4,U.S. House,24,Void,,0
+Oswego,MINETTO 1,U.S. House,24,Void,,1
+Oswego,MINETTO 2,U.S. House,24,Void,,1
+Oswego,NEW HAVEN 3,U.S. House,24,Void,,0
+Oswego,OSWEGO TOWN 1,U.S. House,24,Void,,0
+Oswego,OSWEGO TOWN 2,U.S. House,24,Void,,0
+Oswego,OSWEGO TOWN 3,U.S. House,24,Void,,0
+Oswego,OSWEGO TOWN 4,U.S. House,24,Void,,0
+Oswego,OSWEGO TOWN 5,U.S. House,24,Void,,0
+Oswego,OSWEGO TOWN 6,U.S. House,24,Void,,1
+Oswego,OSWEGO TOWN 7,U.S. House,24,Void,,0
+Oswego,PALERMO 1,U.S. House,24,Void,,0
+Oswego,PALERMO 2,U.S. House,24,Void,,0
+Oswego,PALERMO 3,U.S. House,24,Void,,0
+Oswego,PALERMO 4,U.S. House,24,Void,,0
+Oswego,SCHROEPPEL 1,U.S. House,24,Void,,1
+Oswego,SCHROEPPEL 2,U.S. House,24,Void,,0
+Oswego,SCHROEPPEL 3,U.S. House,24,Void,,0
+Oswego,SCHROEPPEL 4,U.S. House,24,Void,,0
+Oswego,SCHROEPPEL 5,U.S. House,24,Void,,0
+Oswego,SCRIBA 1,U.S. House,24,Void,,0
+Oswego,SCRIBA 2,U.S. House,24,Void,,0
+Oswego,SCRIBA 3,U.S. House,24,Void,,1
+Oswego,SCRIBA 4,U.S. House,24,Void,,0
+Oswego,SCRIBA 5,U.S. House,24,Void,,1
+Oswego,SCRIBA 6,U.S. House,24,Void,,0
+Oswego,VOLNEY 1,U.S. House,24,Void,,1
+Oswego,VOLNEY 2,U.S. House,24,Void,,1
+Oswego,VOLNEY 3,U.S. House,24,Void,,0
+Oswego,VOLNEY 4,U.S. House,24,Void,,0
+Oswego,VOLNEY 5,U.S. House,24,Void,,0
+Oswego,OSWEGO CITY 1-1,U.S. House,24,Void,,2
+Oswego,OSWEGO CITY 1-2,U.S. House,24,Void,,1
+Oswego,OSWEGO CITY 2-1,U.S. House,24,Void,,0
+Oswego,OSWEGO CITY 2-2,U.S. House,24,Void,,1
+Oswego,OSWEGO CITY 3-1,U.S. House,24,Void,,1
+Oswego,OSWEGO CITY 3-2,U.S. House,24,Void,,0
+Oswego,OSWEGO CITY 4-1,U.S. House,24,Void,,0
+Oswego,OSWEGO CITY 4-2,U.S. House,24,Void,,0
+Oswego,OSWEGO CITY 4-3,U.S. House,24,Void,,0
+Oswego,OSWEGO CITY 5-1,U.S. House,24,Void,,2
+Oswego,OSWEGO CITY 5-2,U.S. House,24,Void,,0
+Oswego,OSWEGO CITY 5-3,U.S. House,24,Void,,0
+Oswego,OSWEGO CITY 5-4,U.S. House,24,Void,,0
+Oswego,OSWEGO CITY 6-1,U.S. House,24,Void,,2
+Oswego,OSWEGO CITY 6-2,U.S. House,24,Void,,0
+Oswego,OSWEGO CITY 7-1,U.S. House,24,Void,,0
+Oswego,OSWEGO CITY 7-2,U.S. House,24,Void,,0
+Oswego,OSWEGO CITY 7-3,U.S. House,24,Void,,0
+Oswego,FULTON CITY 1-1,U.S. House,24,Void,,0
+Oswego,FULTON CITY 1-2,U.S. House,24,Void,,0
+Oswego,FULTON CITY 2-1,U.S. House,24,Void,,0
+Oswego,FULTON CITY 2-2,U.S. House,24,Void,,0
+Oswego,FULTON CITY 3-1,U.S. House,24,Void,,0
+Oswego,FULTON CITY 3-2,U.S. House,24,Void,,0
+Oswego,FULTON CITY 4-1,U.S. House,24,Void,,0
+Oswego,FULTON CITY 4-2,U.S. House,24,Void,,1
+Oswego,FULTON CITY 4-3,U.S. House,24,Void,,0
+Oswego,FULTON CITY 5-1,U.S. House,24,Void,,1
+Oswego,FULTON CITY 5-2,U.S. House,24,Void,,0
+Oswego,FULTON CITY 5-3,U.S. House,24,Void,,0
+Oswego,FULTON CITY 6-1,U.S. House,24,Void,,1
+Oswego,FULTON CITY 6-2,U.S. House,24,Void,,0
+Oswego,ALBION 1,State Senate,48,Patricia A. Ritchie,REP,324
+Oswego,ALBION 2,State Senate,48,Patricia A. Ritchie,REP,323
+Oswego,AMBOY 1,State Senate,48,Patricia A. Ritchie,REP,470
+Oswego,BOYLSTON 1,State Senate,48,Patricia A. Ritchie,REP,243
+Oswego,CONSTANTIA 1,State Senate,48,Patricia A. Ritchie,REP,399
+Oswego,CONSTANTIA 2,State Senate,48,Patricia A. Ritchie,REP,394
+Oswego,CONSTANTIA 3,State Senate,48,Patricia A. Ritchie,REP,356
+Oswego,CONSTANTIA 4,State Senate,48,Patricia A. Ritchie,REP,560
+Oswego,GRANBY 1,State Senate,48,Patricia A. Ritchie,REP,341
+Oswego,GRANBY 2,State Senate,48,Patricia A. Ritchie,REP,310
+Oswego,GRANBY 3,State Senate,48,Patricia A. Ritchie,REP,273
+Oswego,GRANBY 4,State Senate,48,Patricia A. Ritchie,REP,570
+Oswego,GRANBY 5,State Senate,48,Patricia A. Ritchie,REP,540
+Oswego,HANNIBAL 1,State Senate,48,Patricia A. Ritchie,REP,156
+Oswego,HANNIBAL 2,State Senate,48,Patricia A. Ritchie,REP,343
+Oswego,HANNIBAL 3,State Senate,48,Patricia A. Ritchie,REP,331
+Oswego,HANNIBAL 4,State Senate,48,Patricia A. Ritchie,REP,473
+Oswego,HASTINGS 1,State Senate,48,Patricia A. Ritchie,REP,412
+Oswego,HASTINGS 2,State Senate,48,Patricia A. Ritchie,REP,355
+Oswego,HASTINGS 3,State Senate,48,Patricia A. Ritchie,REP,579
+Oswego,HASTINGS 4,State Senate,48,Patricia A. Ritchie,REP,287
+Oswego,HASTINGS 5,State Senate,48,Patricia A. Ritchie,REP,367
+Oswego,HASTINGS 6,State Senate,48,Patricia A. Ritchie,REP,23
+Oswego,HASTINGS 7,State Senate,48,Patricia A. Ritchie,REP,409
+Oswego,HASTINGS 8,State Senate,48,Patricia A. Ritchie,REP,584
+Oswego,MEXICO 1,State Senate,48,Patricia A. Ritchie,REP,409
+Oswego,MEXICO 2,State Senate,48,Patricia A. Ritchie,REP,593
+Oswego,MEXICO 3,State Senate,48,Patricia A. Ritchie,REP,716
+Oswego,MEXICO 4,State Senate,48,Patricia A. Ritchie,REP,142
+Oswego,MINETTO 1,State Senate,48,Patricia A. Ritchie,REP,440
+Oswego,MINETTO 2,State Senate,48,Patricia A. Ritchie,REP,116
+Oswego,NEW HAVEN 1,State Senate,48,Patricia A. Ritchie,REP,527
+Oswego,NEW HAVEN 2,State Senate,48,Patricia A. Ritchie,REP,244
+Oswego,NEW HAVEN 3,State Senate,48,Patricia A. Ritchie,REP,267
+Oswego,ORWELL 1,State Senate,48,Patricia A. Ritchie,REP,371
+Oswego,OSWEGO TOWN 1,State Senate,48,Patricia A. Ritchie,REP,10
+Oswego,OSWEGO TOWN 2,State Senate,48,Patricia A. Ritchie,REP,21
+Oswego,OSWEGO TOWN 3,State Senate,48,Patricia A. Ritchie,REP,324
+Oswego,OSWEGO TOWN 4,State Senate,48,Patricia A. Ritchie,REP,296
+Oswego,OSWEGO TOWN 5,State Senate,48,Patricia A. Ritchie,REP,202
+Oswego,OSWEGO TOWN 6,State Senate,48,Patricia A. Ritchie,REP,248
+Oswego,OSWEGO TOWN 7,State Senate,48,Patricia A. Ritchie,REP,399
+Oswego,PALERMO 1,State Senate,48,Patricia A. Ritchie,REP,410
+Oswego,PALERMO 2,State Senate,48,Patricia A. Ritchie,REP,319
+Oswego,PALERMO 3,State Senate,48,Patricia A. Ritchie,REP,338
+Oswego,PALERMO 4,State Senate,48,Patricia A. Ritchie,REP,68
+Oswego,PARISH 1,State Senate,48,Patricia A. Ritchie,REP,498
+Oswego,PARISH 2,State Senate,48,Patricia A. Ritchie,REP,379
+Oswego,REDFIELD 1,State Senate,48,Patricia A. Ritchie,REP,193
+Oswego,RICHLAND 1,State Senate,48,Patricia A. Ritchie,REP,315
+Oswego,RICHLAND 2,State Senate,48,Patricia A. Ritchie,REP,315
+Oswego,RICHLAND 3,State Senate,48,Patricia A. Ritchie,REP,370
+Oswego,RICHLAND 4,State Senate,48,Patricia A. Ritchie,REP,622
+Oswego,RICHLAND 5,State Senate,48,Patricia A. Ritchie,REP,128
+Oswego,RICHLAND 6,State Senate,48,Patricia A. Ritchie,REP,100
+Oswego,SANDY CREEK 1,State Senate,48,Patricia A. Ritchie,REP,639
+Oswego,SANDY CREEK 2,State Senate,48,Patricia A. Ritchie,REP,429
+Oswego,SANDY CREEK 3,State Senate,48,Patricia A. Ritchie,REP,224
+Oswego,SCHROEPPEL 1,State Senate,48,Patricia A. Ritchie,REP,567
+Oswego,SCHROEPPEL 2,State Senate,48,Patricia A. Ritchie,REP,437
+Oswego,SCHROEPPEL 3,State Senate,48,Patricia A. Ritchie,REP,352
+Oswego,SCHROEPPEL 4,State Senate,48,Patricia A. Ritchie,REP,595
+Oswego,SCHROEPPEL 5,State Senate,48,Patricia A. Ritchie,REP,628
+Oswego,SCRIBA 1,State Senate,48,Patricia A. Ritchie,REP,445
+Oswego,SCRIBA 2,State Senate,48,Patricia A. Ritchie,REP,312
+Oswego,SCRIBA 3,State Senate,48,Patricia A. Ritchie,REP,580
+Oswego,SCRIBA 4,State Senate,48,Patricia A. Ritchie,REP,410
+Oswego,SCRIBA 5,State Senate,48,Patricia A. Ritchie,REP,343
+Oswego,SCRIBA 6,State Senate,48,Patricia A. Ritchie,REP,92
+Oswego,VOLNEY 1,State Senate,48,Patricia A. Ritchie,REP,250
+Oswego,VOLNEY 2,State Senate,48,Patricia A. Ritchie,REP,414
+Oswego,VOLNEY 3,State Senate,48,Patricia A. Ritchie,REP,570
+Oswego,VOLNEY 4,State Senate,48,Patricia A. Ritchie,REP,574
+Oswego,VOLNEY 5,State Senate,48,Patricia A. Ritchie,REP,113
+Oswego,WEST MONROE 1,State Senate,48,Patricia A. Ritchie,REP,161
+Oswego,WEST MONROE 2,State Senate,48,Patricia A. Ritchie,REP,542
+Oswego,WEST MONROE 3,State Senate,48,Patricia A. Ritchie,REP,639
+Oswego,WILLIAMSTOWN 1,State Senate,48,Patricia A. Ritchie,REP,423
+Oswego,OSWEGO CITY 1-1,State Senate,48,Patricia A. Ritchie,REP,277
+Oswego,OSWEGO CITY 1-2,State Senate,48,Patricia A. Ritchie,REP,129
+Oswego,OSWEGO CITY 2-1,State Senate,48,Patricia A. Ritchie,REP,146
+Oswego,OSWEGO CITY 2-2,State Senate,48,Patricia A. Ritchie,REP,389
+Oswego,OSWEGO CITY 3-1,State Senate,48,Patricia A. Ritchie,REP,270
+Oswego,OSWEGO CITY 3-2,State Senate,48,Patricia A. Ritchie,REP,71
+Oswego,OSWEGO CITY 4-1,State Senate,48,Patricia A. Ritchie,REP,293
+Oswego,OSWEGO CITY 4-2,State Senate,48,Patricia A. Ritchie,REP,111
+Oswego,OSWEGO CITY 4-3,State Senate,48,Patricia A. Ritchie,REP,156
+Oswego,OSWEGO CITY 5-1,State Senate,48,Patricia A. Ritchie,REP,307
+Oswego,OSWEGO CITY 5-2,State Senate,48,Patricia A. Ritchie,REP,198
+Oswego,OSWEGO CITY 5-3,State Senate,48,Patricia A. Ritchie,REP,59
+Oswego,OSWEGO CITY 5-4,State Senate,48,Patricia A. Ritchie,REP,33
+Oswego,OSWEGO CITY 6-1,State Senate,48,Patricia A. Ritchie,REP,452
+Oswego,OSWEGO CITY 6-2,State Senate,48,Patricia A. Ritchie,REP,101
+Oswego,OSWEGO CITY 7-1,State Senate,48,Patricia A. Ritchie,REP,361
+Oswego,OSWEGO CITY 7-2,State Senate,48,Patricia A. Ritchie,REP,440
+Oswego,OSWEGO CITY 7-3,State Senate,48,Patricia A. Ritchie,REP,16
+Oswego,FULTON CITY 1-1,State Senate,48,Patricia A. Ritchie,REP,296
+Oswego,FULTON CITY 1-2,State Senate,48,Patricia A. Ritchie,REP,239
+Oswego,FULTON CITY 2-1,State Senate,48,Patricia A. Ritchie,REP,68
+Oswego,FULTON CITY 2-2,State Senate,48,Patricia A. Ritchie,REP,289
+Oswego,FULTON CITY 3-1,State Senate,48,Patricia A. Ritchie,REP,394
+Oswego,FULTON CITY 3-2,State Senate,48,Patricia A. Ritchie,REP,226
+Oswego,FULTON CITY 4-1,State Senate,48,Patricia A. Ritchie,REP,156
+Oswego,FULTON CITY 4-2,State Senate,48,Patricia A. Ritchie,REP,167
+Oswego,FULTON CITY 4-3,State Senate,48,Patricia A. Ritchie,REP,105
+Oswego,FULTON CITY 5-1,State Senate,48,Patricia A. Ritchie,REP,236
+Oswego,FULTON CITY 5-2,State Senate,48,Patricia A. Ritchie,REP,164
+Oswego,FULTON CITY 5-3,State Senate,48,Patricia A. Ritchie,REP,24
+Oswego,FULTON CITY 6-1,State Senate,48,Patricia A. Ritchie,REP,231
+Oswego,FULTON CITY 6-2,State Senate,48,Patricia A. Ritchie,REP,110
+Oswego,ALBION 1,State Senate,48,Patricia A. Ritchie,CON,33
+Oswego,ALBION 2,State Senate,48,Patricia A. Ritchie,CON,41
+Oswego,AMBOY 1,State Senate,48,Patricia A. Ritchie,CON,44
+Oswego,BOYLSTON 1,State Senate,48,Patricia A. Ritchie,CON,27
+Oswego,CONSTANTIA 1,State Senate,48,Patricia A. Ritchie,CON,48
+Oswego,CONSTANTIA 2,State Senate,48,Patricia A. Ritchie,CON,35
+Oswego,CONSTANTIA 3,State Senate,48,Patricia A. Ritchie,CON,53
+Oswego,CONSTANTIA 4,State Senate,48,Patricia A. Ritchie,CON,61
+Oswego,GRANBY 1,State Senate,48,Patricia A. Ritchie,CON,52
+Oswego,GRANBY 2,State Senate,48,Patricia A. Ritchie,CON,39
+Oswego,GRANBY 3,State Senate,48,Patricia A. Ritchie,CON,42
+Oswego,GRANBY 4,State Senate,48,Patricia A. Ritchie,CON,90
+Oswego,GRANBY 5,State Senate,48,Patricia A. Ritchie,CON,81
+Oswego,HANNIBAL 1,State Senate,48,Patricia A. Ritchie,CON,30
+Oswego,HANNIBAL 2,State Senate,48,Patricia A. Ritchie,CON,51
+Oswego,HANNIBAL 3,State Senate,48,Patricia A. Ritchie,CON,72
+Oswego,HANNIBAL 4,State Senate,48,Patricia A. Ritchie,CON,86
+Oswego,HASTINGS 1,State Senate,48,Patricia A. Ritchie,CON,62
+Oswego,HASTINGS 2,State Senate,48,Patricia A. Ritchie,CON,49
+Oswego,HASTINGS 3,State Senate,48,Patricia A. Ritchie,CON,84
+Oswego,HASTINGS 4,State Senate,48,Patricia A. Ritchie,CON,49
+Oswego,HASTINGS 5,State Senate,48,Patricia A. Ritchie,CON,52
+Oswego,HASTINGS 6,State Senate,48,Patricia A. Ritchie,CON,0
+Oswego,HASTINGS 7,State Senate,48,Patricia A. Ritchie,CON,53
+Oswego,HASTINGS 8,State Senate,48,Patricia A. Ritchie,CON,70
+Oswego,MEXICO 1,State Senate,48,Patricia A. Ritchie,CON,64
+Oswego,MEXICO 2,State Senate,48,Patricia A. Ritchie,CON,66
+Oswego,MEXICO 3,State Senate,48,Patricia A. Ritchie,CON,83
+Oswego,MEXICO 4,State Senate,48,Patricia A. Ritchie,CON,19
+Oswego,MINETTO 1,State Senate,48,Patricia A. Ritchie,CON,68
+Oswego,MINETTO 2,State Senate,48,Patricia A. Ritchie,CON,27
+Oswego,NEW HAVEN 1,State Senate,48,Patricia A. Ritchie,CON,66
+Oswego,NEW HAVEN 2,State Senate,48,Patricia A. Ritchie,CON,25
+Oswego,NEW HAVEN 3,State Senate,48,Patricia A. Ritchie,CON,44
+Oswego,ORWELL 1,State Senate,48,Patricia A. Ritchie,CON,37
+Oswego,OSWEGO TOWN 1,State Senate,48,Patricia A. Ritchie,CON,2
+Oswego,OSWEGO TOWN 2,State Senate,48,Patricia A. Ritchie,CON,4
+Oswego,OSWEGO TOWN 3,State Senate,48,Patricia A. Ritchie,CON,54
+Oswego,OSWEGO TOWN 4,State Senate,48,Patricia A. Ritchie,CON,60
+Oswego,OSWEGO TOWN 5,State Senate,48,Patricia A. Ritchie,CON,27
+Oswego,OSWEGO TOWN 6,State Senate,48,Patricia A. Ritchie,CON,35
+Oswego,OSWEGO TOWN 7,State Senate,48,Patricia A. Ritchie,CON,67
+Oswego,PALERMO 1,State Senate,48,Patricia A. Ritchie,CON,71
+Oswego,PALERMO 2,State Senate,48,Patricia A. Ritchie,CON,52
+Oswego,PALERMO 3,State Senate,48,Patricia A. Ritchie,CON,52
+Oswego,PALERMO 4,State Senate,48,Patricia A. Ritchie,CON,12
+Oswego,PARISH 1,State Senate,48,Patricia A. Ritchie,CON,60
+Oswego,PARISH 2,State Senate,48,Patricia A. Ritchie,CON,44
+Oswego,REDFIELD 1,State Senate,48,Patricia A. Ritchie,CON,25
+Oswego,RICHLAND 1,State Senate,48,Patricia A. Ritchie,CON,40
+Oswego,RICHLAND 2,State Senate,48,Patricia A. Ritchie,CON,29
+Oswego,RICHLAND 3,State Senate,48,Patricia A. Ritchie,CON,38
+Oswego,RICHLAND 4,State Senate,48,Patricia A. Ritchie,CON,80
+Oswego,RICHLAND 5,State Senate,48,Patricia A. Ritchie,CON,11
+Oswego,RICHLAND 6,State Senate,48,Patricia A. Ritchie,CON,19
+Oswego,SANDY CREEK 1,State Senate,48,Patricia A. Ritchie,CON,59
+Oswego,SANDY CREEK 2,State Senate,48,Patricia A. Ritchie,CON,41
+Oswego,SANDY CREEK 3,State Senate,48,Patricia A. Ritchie,CON,20
+Oswego,SCHROEPPEL 1,State Senate,48,Patricia A. Ritchie,CON,113
+Oswego,SCHROEPPEL 2,State Senate,48,Patricia A. Ritchie,CON,55
+Oswego,SCHROEPPEL 3,State Senate,48,Patricia A. Ritchie,CON,57
+Oswego,SCHROEPPEL 4,State Senate,48,Patricia A. Ritchie,CON,116
+Oswego,SCHROEPPEL 5,State Senate,48,Patricia A. Ritchie,CON,105
+Oswego,SCRIBA 1,State Senate,48,Patricia A. Ritchie,CON,70
+Oswego,SCRIBA 2,State Senate,48,Patricia A. Ritchie,CON,46
+Oswego,SCRIBA 3,State Senate,48,Patricia A. Ritchie,CON,95
+Oswego,SCRIBA 4,State Senate,48,Patricia A. Ritchie,CON,59
+Oswego,SCRIBA 5,State Senate,48,Patricia A. Ritchie,CON,42
+Oswego,SCRIBA 6,State Senate,48,Patricia A. Ritchie,CON,24
+Oswego,VOLNEY 1,State Senate,48,Patricia A. Ritchie,CON,39
+Oswego,VOLNEY 2,State Senate,48,Patricia A. Ritchie,CON,57
+Oswego,VOLNEY 3,State Senate,48,Patricia A. Ritchie,CON,86
+Oswego,VOLNEY 4,State Senate,48,Patricia A. Ritchie,CON,92
+Oswego,VOLNEY 5,State Senate,48,Patricia A. Ritchie,CON,26
+Oswego,WEST MONROE 1,State Senate,48,Patricia A. Ritchie,CON,18
+Oswego,WEST MONROE 2,State Senate,48,Patricia A. Ritchie,CON,59
+Oswego,WEST MONROE 3,State Senate,48,Patricia A. Ritchie,CON,94
+Oswego,WILLIAMSTOWN 1,State Senate,48,Patricia A. Ritchie,CON,51
+Oswego,OSWEGO CITY 1-1,State Senate,48,Patricia A. Ritchie,CON,51
+Oswego,OSWEGO CITY 1-2,State Senate,48,Patricia A. Ritchie,CON,25
+Oswego,OSWEGO CITY 2-1,State Senate,48,Patricia A. Ritchie,CON,19
+Oswego,OSWEGO CITY 2-2,State Senate,48,Patricia A. Ritchie,CON,74
+Oswego,OSWEGO CITY 3-1,State Senate,48,Patricia A. Ritchie,CON,60
+Oswego,OSWEGO CITY 3-2,State Senate,48,Patricia A. Ritchie,CON,15
+Oswego,OSWEGO CITY 4-1,State Senate,48,Patricia A. Ritchie,CON,49
+Oswego,OSWEGO CITY 4-2,State Senate,48,Patricia A. Ritchie,CON,30
+Oswego,OSWEGO CITY 4-3,State Senate,48,Patricia A. Ritchie,CON,32
+Oswego,OSWEGO CITY 5-1,State Senate,48,Patricia A. Ritchie,CON,57
+Oswego,OSWEGO CITY 5-2,State Senate,48,Patricia A. Ritchie,CON,32
+Oswego,OSWEGO CITY 5-3,State Senate,48,Patricia A. Ritchie,CON,12
+Oswego,OSWEGO CITY 5-4,State Senate,48,Patricia A. Ritchie,CON,5
+Oswego,OSWEGO CITY 6-1,State Senate,48,Patricia A. Ritchie,CON,113
+Oswego,OSWEGO CITY 6-2,State Senate,48,Patricia A. Ritchie,CON,17
+Oswego,OSWEGO CITY 7-1,State Senate,48,Patricia A. Ritchie,CON,54
+Oswego,OSWEGO CITY 7-2,State Senate,48,Patricia A. Ritchie,CON,73
+Oswego,OSWEGO CITY 7-3,State Senate,48,Patricia A. Ritchie,CON,3
+Oswego,FULTON CITY 1-1,State Senate,48,Patricia A. Ritchie,CON,48
+Oswego,FULTON CITY 1-2,State Senate,48,Patricia A. Ritchie,CON,32
+Oswego,FULTON CITY 2-1,State Senate,48,Patricia A. Ritchie,CON,7
+Oswego,FULTON CITY 2-2,State Senate,48,Patricia A. Ritchie,CON,54
+Oswego,FULTON CITY 3-1,State Senate,48,Patricia A. Ritchie,CON,70
+Oswego,FULTON CITY 3-2,State Senate,48,Patricia A. Ritchie,CON,33
+Oswego,FULTON CITY 4-1,State Senate,48,Patricia A. Ritchie,CON,30
+Oswego,FULTON CITY 4-2,State Senate,48,Patricia A. Ritchie,CON,34
+Oswego,FULTON CITY 4-3,State Senate,48,Patricia A. Ritchie,CON,16
+Oswego,FULTON CITY 5-1,State Senate,48,Patricia A. Ritchie,CON,39
+Oswego,FULTON CITY 5-2,State Senate,48,Patricia A. Ritchie,CON,32
+Oswego,FULTON CITY 5-3,State Senate,48,Patricia A. Ritchie,CON,2
+Oswego,FULTON CITY 6-1,State Senate,48,Patricia A. Ritchie,CON,45
+Oswego,FULTON CITY 6-2,State Senate,48,Patricia A. Ritchie,CON,21
+Oswego,ALBION 1,State Senate,48,Patricia A. Ritchie,IND,25
+Oswego,ALBION 2,State Senate,48,Patricia A. Ritchie,IND,29
+Oswego,AMBOY 1,State Senate,48,Patricia A. Ritchie,IND,37
+Oswego,BOYLSTON 1,State Senate,48,Patricia A. Ritchie,IND,12
+Oswego,CONSTANTIA 1,State Senate,48,Patricia A. Ritchie,IND,36
+Oswego,CONSTANTIA 2,State Senate,48,Patricia A. Ritchie,IND,30
+Oswego,CONSTANTIA 3,State Senate,48,Patricia A. Ritchie,IND,32
+Oswego,CONSTANTIA 4,State Senate,48,Patricia A. Ritchie,IND,37
+Oswego,GRANBY 1,State Senate,48,Patricia A. Ritchie,IND,21
+Oswego,GRANBY 2,State Senate,48,Patricia A. Ritchie,IND,29
+Oswego,GRANBY 3,State Senate,48,Patricia A. Ritchie,IND,15
+Oswego,GRANBY 4,State Senate,48,Patricia A. Ritchie,IND,35
+Oswego,GRANBY 5,State Senate,48,Patricia A. Ritchie,IND,38
+Oswego,HANNIBAL 1,State Senate,48,Patricia A. Ritchie,IND,15
+Oswego,HANNIBAL 2,State Senate,48,Patricia A. Ritchie,IND,25
+Oswego,HANNIBAL 3,State Senate,48,Patricia A. Ritchie,IND,19
+Oswego,HANNIBAL 4,State Senate,48,Patricia A. Ritchie,IND,21
+Oswego,HASTINGS 1,State Senate,48,Patricia A. Ritchie,IND,35
+Oswego,HASTINGS 2,State Senate,48,Patricia A. Ritchie,IND,23
+Oswego,HASTINGS 3,State Senate,48,Patricia A. Ritchie,IND,60
+Oswego,HASTINGS 4,State Senate,48,Patricia A. Ritchie,IND,32
+Oswego,HASTINGS 5,State Senate,48,Patricia A. Ritchie,IND,36
+Oswego,HASTINGS 6,State Senate,48,Patricia A. Ritchie,IND,6
+Oswego,HASTINGS 7,State Senate,48,Patricia A. Ritchie,IND,29
+Oswego,HASTINGS 8,State Senate,48,Patricia A. Ritchie,IND,77
+Oswego,MEXICO 1,State Senate,48,Patricia A. Ritchie,IND,40
+Oswego,MEXICO 2,State Senate,48,Patricia A. Ritchie,IND,43
+Oswego,MEXICO 3,State Senate,48,Patricia A. Ritchie,IND,62
+Oswego,MEXICO 4,State Senate,48,Patricia A. Ritchie,IND,15
+Oswego,MINETTO 1,State Senate,48,Patricia A. Ritchie,IND,69
+Oswego,MINETTO 2,State Senate,48,Patricia A. Ritchie,IND,17
+Oswego,NEW HAVEN 1,State Senate,48,Patricia A. Ritchie,IND,52
+Oswego,NEW HAVEN 2,State Senate,48,Patricia A. Ritchie,IND,14
+Oswego,NEW HAVEN 3,State Senate,48,Patricia A. Ritchie,IND,13
+Oswego,ORWELL 1,State Senate,48,Patricia A. Ritchie,IND,25
+Oswego,OSWEGO TOWN 1,State Senate,48,Patricia A. Ritchie,IND,11
+Oswego,OSWEGO TOWN 2,State Senate,48,Patricia A. Ritchie,IND,13
+Oswego,OSWEGO TOWN 3,State Senate,48,Patricia A. Ritchie,IND,46
+Oswego,OSWEGO TOWN 4,State Senate,48,Patricia A. Ritchie,IND,34
+Oswego,OSWEGO TOWN 5,State Senate,48,Patricia A. Ritchie,IND,10
+Oswego,OSWEGO TOWN 6,State Senate,48,Patricia A. Ritchie,IND,20
+Oswego,OSWEGO TOWN 7,State Senate,48,Patricia A. Ritchie,IND,59
+Oswego,PALERMO 1,State Senate,48,Patricia A. Ritchie,IND,31
+Oswego,PALERMO 2,State Senate,48,Patricia A. Ritchie,IND,18
+Oswego,PALERMO 3,State Senate,48,Patricia A. Ritchie,IND,22
+Oswego,PALERMO 4,State Senate,48,Patricia A. Ritchie,IND,1
+Oswego,PARISH 1,State Senate,48,Patricia A. Ritchie,IND,41
+Oswego,PARISH 2,State Senate,48,Patricia A. Ritchie,IND,44
+Oswego,REDFIELD 1,State Senate,48,Patricia A. Ritchie,IND,12
+Oswego,RICHLAND 1,State Senate,48,Patricia A. Ritchie,IND,40
+Oswego,RICHLAND 2,State Senate,48,Patricia A. Ritchie,IND,18
+Oswego,RICHLAND 3,State Senate,48,Patricia A. Ritchie,IND,21
+Oswego,RICHLAND 4,State Senate,48,Patricia A. Ritchie,IND,34
+Oswego,RICHLAND 5,State Senate,48,Patricia A. Ritchie,IND,9
+Oswego,RICHLAND 6,State Senate,48,Patricia A. Ritchie,IND,8
+Oswego,SANDY CREEK 1,State Senate,48,Patricia A. Ritchie,IND,52
+Oswego,SANDY CREEK 2,State Senate,48,Patricia A. Ritchie,IND,37
+Oswego,SANDY CREEK 3,State Senate,48,Patricia A. Ritchie,IND,18
+Oswego,SCHROEPPEL 1,State Senate,48,Patricia A. Ritchie,IND,65
+Oswego,SCHROEPPEL 2,State Senate,48,Patricia A. Ritchie,IND,40
+Oswego,SCHROEPPEL 3,State Senate,48,Patricia A. Ritchie,IND,21
+Oswego,SCHROEPPEL 4,State Senate,48,Patricia A. Ritchie,IND,50
+Oswego,SCHROEPPEL 5,State Senate,48,Patricia A. Ritchie,IND,69
+Oswego,SCRIBA 1,State Senate,48,Patricia A. Ritchie,IND,32
+Oswego,SCRIBA 2,State Senate,48,Patricia A. Ritchie,IND,18
+Oswego,SCRIBA 3,State Senate,48,Patricia A. Ritchie,IND,47
+Oswego,SCRIBA 4,State Senate,48,Patricia A. Ritchie,IND,38
+Oswego,SCRIBA 5,State Senate,48,Patricia A. Ritchie,IND,29
+Oswego,SCRIBA 6,State Senate,48,Patricia A. Ritchie,IND,17
+Oswego,VOLNEY 1,State Senate,48,Patricia A. Ritchie,IND,20
+Oswego,VOLNEY 2,State Senate,48,Patricia A. Ritchie,IND,24
+Oswego,VOLNEY 3,State Senate,48,Patricia A. Ritchie,IND,35
+Oswego,VOLNEY 4,State Senate,48,Patricia A. Ritchie,IND,49
+Oswego,VOLNEY 5,State Senate,48,Patricia A. Ritchie,IND,10
+Oswego,WEST MONROE 1,State Senate,48,Patricia A. Ritchie,IND,18
+Oswego,WEST MONROE 2,State Senate,48,Patricia A. Ritchie,IND,65
+Oswego,WEST MONROE 3,State Senate,48,Patricia A. Ritchie,IND,54
+Oswego,WILLIAMSTOWN 1,State Senate,48,Patricia A. Ritchie,IND,23
+Oswego,OSWEGO CITY 1-1,State Senate,48,Patricia A. Ritchie,IND,52
+Oswego,OSWEGO CITY 1-2,State Senate,48,Patricia A. Ritchie,IND,18
+Oswego,OSWEGO CITY 2-1,State Senate,48,Patricia A. Ritchie,IND,21
+Oswego,OSWEGO CITY 2-2,State Senate,48,Patricia A. Ritchie,IND,66
+Oswego,OSWEGO CITY 3-1,State Senate,48,Patricia A. Ritchie,IND,48
+Oswego,OSWEGO CITY 3-2,State Senate,48,Patricia A. Ritchie,IND,10
+Oswego,OSWEGO CITY 4-1,State Senate,48,Patricia A. Ritchie,IND,46
+Oswego,OSWEGO CITY 4-2,State Senate,48,Patricia A. Ritchie,IND,20
+Oswego,OSWEGO CITY 4-3,State Senate,48,Patricia A. Ritchie,IND,26
+Oswego,OSWEGO CITY 5-1,State Senate,48,Patricia A. Ritchie,IND,32
+Oswego,OSWEGO CITY 5-2,State Senate,48,Patricia A. Ritchie,IND,36
+Oswego,OSWEGO CITY 5-3,State Senate,48,Patricia A. Ritchie,IND,11
+Oswego,OSWEGO CITY 5-4,State Senate,48,Patricia A. Ritchie,IND,6
+Oswego,OSWEGO CITY 6-1,State Senate,48,Patricia A. Ritchie,IND,75
+Oswego,OSWEGO CITY 6-2,State Senate,48,Patricia A. Ritchie,IND,15
+Oswego,OSWEGO CITY 7-1,State Senate,48,Patricia A. Ritchie,IND,49
+Oswego,OSWEGO CITY 7-2,State Senate,48,Patricia A. Ritchie,IND,66
+Oswego,OSWEGO CITY 7-3,State Senate,48,Patricia A. Ritchie,IND,2
+Oswego,FULTON CITY 1-1,State Senate,48,Patricia A. Ritchie,IND,29
+Oswego,FULTON CITY 1-2,State Senate,48,Patricia A. Ritchie,IND,23
+Oswego,FULTON CITY 2-1,State Senate,48,Patricia A. Ritchie,IND,7
+Oswego,FULTON CITY 2-2,State Senate,48,Patricia A. Ritchie,IND,24
+Oswego,FULTON CITY 3-1,State Senate,48,Patricia A. Ritchie,IND,57
+Oswego,FULTON CITY 3-2,State Senate,48,Patricia A. Ritchie,IND,29
+Oswego,FULTON CITY 4-1,State Senate,48,Patricia A. Ritchie,IND,20
+Oswego,FULTON CITY 4-2,State Senate,48,Patricia A. Ritchie,IND,14
+Oswego,FULTON CITY 4-3,State Senate,48,Patricia A. Ritchie,IND,9
+Oswego,FULTON CITY 5-1,State Senate,48,Patricia A. Ritchie,IND,20
+Oswego,FULTON CITY 5-2,State Senate,48,Patricia A. Ritchie,IND,16
+Oswego,FULTON CITY 5-3,State Senate,48,Patricia A. Ritchie,IND,1
+Oswego,FULTON CITY 6-1,State Senate,48,Patricia A. Ritchie,IND,37
+Oswego,FULTON CITY 6-2,State Senate,48,Patricia A. Ritchie,IND,8
+Oswego,ALBION 1,State Senate,48,Write-ins,,1
+Oswego,ALBION 2,State Senate,48,Write-ins,,3
+Oswego,AMBOY 1,State Senate,48,Write-ins,,2
+Oswego,BOYLSTON 1,State Senate,48,Write-ins,,3
+Oswego,CONSTANTIA 1,State Senate,48,Write-ins,,3
+Oswego,CONSTANTIA 2,State Senate,48,Write-ins,,6
+Oswego,CONSTANTIA 3,State Senate,48,Write-ins,,4
+Oswego,CONSTANTIA 4,State Senate,48,Write-ins,,2
+Oswego,GRANBY 1,State Senate,48,Write-ins,,3
+Oswego,GRANBY 2,State Senate,48,Write-ins,,0
+Oswego,GRANBY 3,State Senate,48,Write-ins,,3
+Oswego,GRANBY 4,State Senate,48,Write-ins,,1
+Oswego,GRANBY 5,State Senate,48,Write-ins,,5
+Oswego,HANNIBAL 1,State Senate,48,Write-ins,,1
+Oswego,HANNIBAL 2,State Senate,48,Write-ins,,1
+Oswego,HANNIBAL 3,State Senate,48,Write-ins,,2
+Oswego,HANNIBAL 4,State Senate,48,Write-ins,,1
+Oswego,HASTINGS 1,State Senate,48,Write-ins,,0
+Oswego,HASTINGS 2,State Senate,48,Write-ins,,5
+Oswego,HASTINGS 3,State Senate,48,Write-ins,,2
+Oswego,HASTINGS 4,State Senate,48,Write-ins,,1
+Oswego,HASTINGS 5,State Senate,48,Write-ins,,3
+Oswego,HASTINGS 6,State Senate,48,Write-ins,,0
+Oswego,HASTINGS 7,State Senate,48,Write-ins,,2
+Oswego,HASTINGS 8,State Senate,48,Write-ins,,4
+Oswego,MEXICO 1,State Senate,48,Write-ins,,9
+Oswego,MEXICO 2,State Senate,48,Write-ins,,4
+Oswego,MEXICO 3,State Senate,48,Write-ins,,2
+Oswego,MEXICO 4,State Senate,48,Write-ins,,0
+Oswego,MINETTO 1,State Senate,48,Write-ins,,7
+Oswego,MINETTO 2,State Senate,48,Write-ins,,0
+Oswego,NEW HAVEN 1,State Senate,48,Write-ins,,3
+Oswego,NEW HAVEN 2,State Senate,48,Write-ins,,0
+Oswego,NEW HAVEN 3,State Senate,48,Write-ins,,8
+Oswego,ORWELL 1,State Senate,48,Write-ins,,2
+Oswego,OSWEGO TOWN 1,State Senate,48,Write-ins,,0
+Oswego,OSWEGO TOWN 2,State Senate,48,Write-ins,,1
+Oswego,OSWEGO TOWN 3,State Senate,48,Write-ins,,6
+Oswego,OSWEGO TOWN 4,State Senate,48,Write-ins,,4
+Oswego,OSWEGO TOWN 5,State Senate,48,Write-ins,,4
+Oswego,OSWEGO TOWN 6,State Senate,48,Write-ins,,0
+Oswego,OSWEGO TOWN 7,State Senate,48,Write-ins,,7
+Oswego,PALERMO 1,State Senate,48,Write-ins,,6
+Oswego,PALERMO 2,State Senate,48,Write-ins,,0
+Oswego,PALERMO 3,State Senate,48,Write-ins,,2
+Oswego,PALERMO 4,State Senate,48,Write-ins,,0
+Oswego,PARISH 1,State Senate,48,Write-ins,,1
+Oswego,PARISH 2,State Senate,48,Write-ins,,2
+Oswego,REDFIELD 1,State Senate,48,Write-ins,,4
+Oswego,RICHLAND 1,State Senate,48,Write-ins,,2
+Oswego,RICHLAND 2,State Senate,48,Write-ins,,3
+Oswego,RICHLAND 3,State Senate,48,Write-ins,,5
+Oswego,RICHLAND 4,State Senate,48,Write-ins,,5
+Oswego,RICHLAND 5,State Senate,48,Write-ins,,0
+Oswego,RICHLAND 6,State Senate,48,Write-ins,,0
+Oswego,SANDY CREEK 1,State Senate,48,Write-ins,,5
+Oswego,SANDY CREEK 2,State Senate,48,Write-ins,,3
+Oswego,SANDY CREEK 3,State Senate,48,Write-ins,,0
+Oswego,SCHROEPPEL 1,State Senate,48,Write-ins,,6
+Oswego,SCHROEPPEL 2,State Senate,48,Write-ins,,6
+Oswego,SCHROEPPEL 3,State Senate,48,Write-ins,,4
+Oswego,SCHROEPPEL 4,State Senate,48,Write-ins,,7
+Oswego,SCHROEPPEL 5,State Senate,48,Write-ins,,10
+Oswego,SCRIBA 1,State Senate,48,Write-ins,,4
+Oswego,SCRIBA 2,State Senate,48,Write-ins,,2
+Oswego,SCRIBA 3,State Senate,48,Write-ins,,8
+Oswego,SCRIBA 4,State Senate,48,Write-ins,,2
+Oswego,SCRIBA 5,State Senate,48,Write-ins,,2
+Oswego,SCRIBA 6,State Senate,48,Write-ins,,4
+Oswego,VOLNEY 1,State Senate,48,Write-ins,,1
+Oswego,VOLNEY 2,State Senate,48,Write-ins,,5
+Oswego,VOLNEY 3,State Senate,48,Write-ins,,2
+Oswego,VOLNEY 4,State Senate,48,Write-ins,,4
+Oswego,VOLNEY 5,State Senate,48,Write-ins,,1
+Oswego,WEST MONROE 1,State Senate,48,Write-ins,,1
+Oswego,WEST MONROE 2,State Senate,48,Write-ins,,5
+Oswego,WEST MONROE 3,State Senate,48,Write-ins,,6
+Oswego,WILLIAMSTOWN 1,State Senate,48,Write-ins,,2
+Oswego,OSWEGO CITY 1-1,State Senate,48,Write-ins,,17
+Oswego,OSWEGO CITY 1-2,State Senate,48,Write-ins,,2
+Oswego,OSWEGO CITY 2-1,State Senate,48,Write-ins,,5
+Oswego,OSWEGO CITY 2-2,State Senate,48,Write-ins,,5
+Oswego,OSWEGO CITY 3-1,State Senate,48,Write-ins,,29
+Oswego,OSWEGO CITY 3-2,State Senate,48,Write-ins,,6
+Oswego,OSWEGO CITY 4-1,State Senate,48,Write-ins,,5
+Oswego,OSWEGO CITY 4-2,State Senate,48,Write-ins,,9
+Oswego,OSWEGO CITY 4-3,State Senate,48,Write-ins,,6
+Oswego,OSWEGO CITY 5-1,State Senate,48,Write-ins,,10
+Oswego,OSWEGO CITY 5-2,State Senate,48,Write-ins,,2
+Oswego,OSWEGO CITY 5-3,State Senate,48,Write-ins,,1
+Oswego,OSWEGO CITY 5-4,State Senate,48,Write-ins,,0
+Oswego,OSWEGO CITY 6-1,State Senate,48,Write-ins,,8
+Oswego,OSWEGO CITY 6-2,State Senate,48,Write-ins,,1
+Oswego,OSWEGO CITY 7-1,State Senate,48,Write-ins,,13
+Oswego,OSWEGO CITY 7-2,State Senate,48,Write-ins,,8
+Oswego,OSWEGO CITY 7-3,State Senate,48,Write-ins,,0
+Oswego,FULTON CITY 1-1,State Senate,48,Write-ins,,0
+Oswego,FULTON CITY 1-2,State Senate,48,Write-ins,,0
+Oswego,FULTON CITY 2-1,State Senate,48,Write-ins,,1
+Oswego,FULTON CITY 2-2,State Senate,48,Write-ins,,5
+Oswego,FULTON CITY 3-1,State Senate,48,Write-ins,,4
+Oswego,FULTON CITY 3-2,State Senate,48,Write-ins,,3
+Oswego,FULTON CITY 4-1,State Senate,48,Write-ins,,1
+Oswego,FULTON CITY 4-2,State Senate,48,Write-ins,,2
+Oswego,FULTON CITY 4-3,State Senate,48,Write-ins,,2
+Oswego,FULTON CITY 5-1,State Senate,48,Write-ins,,4
+Oswego,FULTON CITY 5-2,State Senate,48,Write-ins,,6
+Oswego,FULTON CITY 5-3,State Senate,48,Write-ins,,0
+Oswego,FULTON CITY 6-1,State Senate,48,Write-ins,,0
+Oswego,FULTON CITY 6-2,State Senate,48,Write-ins,,0
+Oswego,ALBION 1,State Senate,48,Blanks,,62
+Oswego,ALBION 2,State Senate,48,Blanks,,77
+Oswego,AMBOY 1,State Senate,48,Blanks,,89
+Oswego,BOYLSTON 1,State Senate,48,Blanks,,38
+Oswego,CONSTANTIA 1,State Senate,48,Blanks,,120
+Oswego,CONSTANTIA 2,State Senate,48,Blanks,,102
+Oswego,CONSTANTIA 3,State Senate,48,Blanks,,90
+Oswego,CONSTANTIA 4,State Senate,48,Blanks,,146
+Oswego,GRANBY 1,State Senate,48,Blanks,,113
+Oswego,GRANBY 2,State Senate,48,Blanks,,104
+Oswego,GRANBY 3,State Senate,48,Blanks,,57
+Oswego,GRANBY 4,State Senate,48,Blanks,,115
+Oswego,GRANBY 5,State Senate,48,Blanks,,162
+Oswego,HANNIBAL 1,State Senate,48,Blanks,,42
+Oswego,HANNIBAL 2,State Senate,48,Blanks,,97
+Oswego,HANNIBAL 3,State Senate,48,Blanks,,88
+Oswego,HANNIBAL 4,State Senate,48,Blanks,,126
+Oswego,HASTINGS 1,State Senate,48,Blanks,,97
+Oswego,HASTINGS 2,State Senate,48,Blanks,,95
+Oswego,HASTINGS 3,State Senate,48,Blanks,,189
+Oswego,HASTINGS 4,State Senate,48,Blanks,,83
+Oswego,HASTINGS 5,State Senate,48,Blanks,,105
+Oswego,HASTINGS 6,State Senate,48,Blanks,,10
+Oswego,HASTINGS 7,State Senate,48,Blanks,,121
+Oswego,HASTINGS 8,State Senate,48,Blanks,,199
+Oswego,MEXICO 1,State Senate,48,Blanks,,72
+Oswego,MEXICO 2,State Senate,48,Blanks,,107
+Oswego,MEXICO 3,State Senate,48,Blanks,,166
+Oswego,MEXICO 4,State Senate,48,Blanks,,28
+Oswego,MINETTO 1,State Senate,48,Blanks,,233
+Oswego,MINETTO 2,State Senate,48,Blanks,,74
+Oswego,NEW HAVEN 1,State Senate,48,Blanks,,95
+Oswego,NEW HAVEN 2,State Senate,48,Blanks,,50
+Oswego,NEW HAVEN 3,State Senate,48,Blanks,,72
+Oswego,ORWELL 1,State Senate,48,Blanks,,108
+Oswego,OSWEGO TOWN 1,State Senate,48,Blanks,,9
+Oswego,OSWEGO TOWN 2,State Senate,48,Blanks,,33
+Oswego,OSWEGO TOWN 3,State Senate,48,Blanks,,175
+Oswego,OSWEGO TOWN 4,State Senate,48,Blanks,,128
+Oswego,OSWEGO TOWN 5,State Senate,48,Blanks,,78
+Oswego,OSWEGO TOWN 6,State Senate,48,Blanks,,103
+Oswego,OSWEGO TOWN 7,State Senate,48,Blanks,,146
+Oswego,PALERMO 1,State Senate,48,Blanks,,97
+Oswego,PALERMO 2,State Senate,48,Blanks,,73
+Oswego,PALERMO 3,State Senate,48,Blanks,,78
+Oswego,PALERMO 4,State Senate,48,Blanks,,14
+Oswego,PARISH 1,State Senate,48,Blanks,,119
+Oswego,PARISH 2,State Senate,48,Blanks,,92
+Oswego,REDFIELD 1,State Senate,48,Blanks,,43
+Oswego,RICHLAND 1,State Senate,48,Blanks,,122
+Oswego,RICHLAND 2,State Senate,48,Blanks,,80
+Oswego,RICHLAND 3,State Senate,48,Blanks,,72
+Oswego,RICHLAND 4,State Senate,48,Blanks,,151
+Oswego,RICHLAND 5,State Senate,48,Blanks,,32
+Oswego,RICHLAND 6,State Senate,48,Blanks,,18
+Oswego,SANDY CREEK 1,State Senate,48,Blanks,,148
+Oswego,SANDY CREEK 2,State Senate,48,Blanks,,102
+Oswego,SANDY CREEK 3,State Senate,48,Blanks,,47
+Oswego,SCHROEPPEL 1,State Senate,48,Blanks,,176
+Oswego,SCHROEPPEL 2,State Senate,48,Blanks,,158
+Oswego,SCHROEPPEL 3,State Senate,48,Blanks,,86
+Oswego,SCHROEPPEL 4,State Senate,48,Blanks,,185
+Oswego,SCHROEPPEL 5,State Senate,48,Blanks,,208
+Oswego,SCRIBA 1,State Senate,48,Blanks,,106
+Oswego,SCRIBA 2,State Senate,48,Blanks,,52
+Oswego,SCRIBA 3,State Senate,48,Blanks,,184
+Oswego,SCRIBA 4,State Senate,48,Blanks,,107
+Oswego,SCRIBA 5,State Senate,48,Blanks,,92
+Oswego,SCRIBA 6,State Senate,48,Blanks,,37
+Oswego,VOLNEY 1,State Senate,48,Blanks,,67
+Oswego,VOLNEY 2,State Senate,48,Blanks,,95
+Oswego,VOLNEY 3,State Senate,48,Blanks,,137
+Oswego,VOLNEY 4,State Senate,48,Blanks,,150
+Oswego,VOLNEY 5,State Senate,48,Blanks,,39
+Oswego,WEST MONROE 1,State Senate,48,Blanks,,48
+Oswego,WEST MONROE 2,State Senate,48,Blanks,,167
+Oswego,WEST MONROE 3,State Senate,48,Blanks,,171
+Oswego,WILLIAMSTOWN 1,State Senate,48,Blanks,,84
+Oswego,OSWEGO CITY 1-1,State Senate,48,Blanks,,186
+Oswego,OSWEGO CITY 1-2,State Senate,48,Blanks,,89
+Oswego,OSWEGO CITY 2-1,State Senate,48,Blanks,,65
+Oswego,OSWEGO CITY 2-2,State Senate,48,Blanks,,200
+Oswego,OSWEGO CITY 3-1,State Senate,48,Blanks,,137
+Oswego,OSWEGO CITY 3-2,State Senate,48,Blanks,,43
+Oswego,OSWEGO CITY 4-1,State Senate,48,Blanks,,163
+Oswego,OSWEGO CITY 4-2,State Senate,48,Blanks,,55
+Oswego,OSWEGO CITY 4-3,State Senate,48,Blanks,,79
+Oswego,OSWEGO CITY 5-1,State Senate,48,Blanks,,147
+Oswego,OSWEGO CITY 5-2,State Senate,48,Blanks,,97
+Oswego,OSWEGO CITY 5-3,State Senate,48,Blanks,,33
+Oswego,OSWEGO CITY 5-4,State Senate,48,Blanks,,22
+Oswego,OSWEGO CITY 6-1,State Senate,48,Blanks,,251
+Oswego,OSWEGO CITY 6-2,State Senate,48,Blanks,,33
+Oswego,OSWEGO CITY 7-1,State Senate,48,Blanks,,212
+Oswego,OSWEGO CITY 7-2,State Senate,48,Blanks,,205
+Oswego,OSWEGO CITY 7-3,State Senate,48,Blanks,,6
+Oswego,FULTON CITY 1-1,State Senate,48,Blanks,,102
+Oswego,FULTON CITY 1-2,State Senate,48,Blanks,,44
+Oswego,FULTON CITY 2-1,State Senate,48,Blanks,,16
+Oswego,FULTON CITY 2-2,State Senate,48,Blanks,,119
+Oswego,FULTON CITY 3-1,State Senate,48,Blanks,,121
+Oswego,FULTON CITY 3-2,State Senate,48,Blanks,,94
+Oswego,FULTON CITY 4-1,State Senate,48,Blanks,,73
+Oswego,FULTON CITY 4-2,State Senate,48,Blanks,,66
+Oswego,FULTON CITY 4-3,State Senate,48,Blanks,,36
+Oswego,FULTON CITY 5-1,State Senate,48,Blanks,,65
+Oswego,FULTON CITY 5-2,State Senate,48,Blanks,,72
+Oswego,FULTON CITY 5-3,State Senate,48,Blanks,,12
+Oswego,FULTON CITY 6-1,State Senate,48,Blanks,,71
+Oswego,FULTON CITY 6-2,State Senate,48,Blanks,,37
+Oswego,ALBION 1,State Senate,48,Void,,1
+Oswego,ALBION 2,State Senate,48,Void,,0
+Oswego,AMBOY 1,State Senate,48,Void,,0
+Oswego,BOYLSTON 1,State Senate,48,Void,,0
+Oswego,CONSTANTIA 1,State Senate,48,Void,,1
+Oswego,CONSTANTIA 2,State Senate,48,Void,,0
+Oswego,CONSTANTIA 3,State Senate,48,Void,,1
+Oswego,CONSTANTIA 4,State Senate,48,Void,,0
+Oswego,GRANBY 1,State Senate,48,Void,,0
+Oswego,GRANBY 2,State Senate,48,Void,,0
+Oswego,GRANBY 3,State Senate,48,Void,,0
+Oswego,GRANBY 4,State Senate,48,Void,,0
+Oswego,GRANBY 5,State Senate,48,Void,,1
+Oswego,HANNIBAL 1,State Senate,48,Void,,0
+Oswego,HANNIBAL 2,State Senate,48,Void,,0
+Oswego,HANNIBAL 3,State Senate,48,Void,,0
+Oswego,HANNIBAL 4,State Senate,48,Void,,0
+Oswego,HASTINGS 1,State Senate,48,Void,,0
+Oswego,HASTINGS 2,State Senate,48,Void,,0
+Oswego,HASTINGS 3,State Senate,48,Void,,0
+Oswego,HASTINGS 4,State Senate,48,Void,,0
+Oswego,HASTINGS 5,State Senate,48,Void,,1
+Oswego,HASTINGS 6,State Senate,48,Void,,0
+Oswego,HASTINGS 7,State Senate,48,Void,,0
+Oswego,HASTINGS 8,State Senate,48,Void,,0
+Oswego,MEXICO 1,State Senate,48,Void,,1
+Oswego,MEXICO 2,State Senate,48,Void,,1
+Oswego,MEXICO 3,State Senate,48,Void,,0
+Oswego,MEXICO 4,State Senate,48,Void,,1
+Oswego,MINETTO 1,State Senate,48,Void,,0
+Oswego,MINETTO 2,State Senate,48,Void,,0
+Oswego,NEW HAVEN 1,State Senate,48,Void,,0
+Oswego,NEW HAVEN 2,State Senate,48,Void,,0
+Oswego,NEW HAVEN 3,State Senate,48,Void,,0
+Oswego,ORWELL 1,State Senate,48,Void,,1
+Oswego,OSWEGO TOWN 1,State Senate,48,Void,,0
+Oswego,OSWEGO TOWN 2,State Senate,48,Void,,0
+Oswego,OSWEGO TOWN 3,State Senate,48,Void,,0
+Oswego,OSWEGO TOWN 4,State Senate,48,Void,,0
+Oswego,OSWEGO TOWN 5,State Senate,48,Void,,0
+Oswego,OSWEGO TOWN 6,State Senate,48,Void,,0
+Oswego,OSWEGO TOWN 7,State Senate,48,Void,,0
+Oswego,PALERMO 1,State Senate,48,Void,,0
+Oswego,PALERMO 2,State Senate,48,Void,,0
+Oswego,PALERMO 3,State Senate,48,Void,,0
+Oswego,PALERMO 4,State Senate,48,Void,,0
+Oswego,PARISH 1,State Senate,48,Void,,0
+Oswego,PARISH 2,State Senate,48,Void,,0
+Oswego,REDFIELD 1,State Senate,48,Void,,0
+Oswego,RICHLAND 1,State Senate,48,Void,,1
+Oswego,RICHLAND 2,State Senate,48,Void,,0
+Oswego,RICHLAND 3,State Senate,48,Void,,0
+Oswego,RICHLAND 4,State Senate,48,Void,,0
+Oswego,RICHLAND 5,State Senate,48,Void,,0
+Oswego,RICHLAND 6,State Senate,48,Void,,0
+Oswego,SANDY CREEK 1,State Senate,48,Void,,0
+Oswego,SANDY CREEK 2,State Senate,48,Void,,1
+Oswego,SANDY CREEK 3,State Senate,48,Void,,0
+Oswego,SCHROEPPEL 1,State Senate,48,Void,,0
+Oswego,SCHROEPPEL 2,State Senate,48,Void,,0
+Oswego,SCHROEPPEL 3,State Senate,48,Void,,0
+Oswego,SCHROEPPEL 4,State Senate,48,Void,,0
+Oswego,SCHROEPPEL 5,State Senate,48,Void,,0
+Oswego,SCRIBA 1,State Senate,48,Void,,0
+Oswego,SCRIBA 2,State Senate,48,Void,,0
+Oswego,SCRIBA 3,State Senate,48,Void,,0
+Oswego,SCRIBA 4,State Senate,48,Void,,0
+Oswego,SCRIBA 5,State Senate,48,Void,,0
+Oswego,SCRIBA 6,State Senate,48,Void,,0
+Oswego,VOLNEY 1,State Senate,48,Void,,0
+Oswego,VOLNEY 2,State Senate,48,Void,,0
+Oswego,VOLNEY 3,State Senate,48,Void,,0
+Oswego,VOLNEY 4,State Senate,48,Void,,0
+Oswego,VOLNEY 5,State Senate,48,Void,,0
+Oswego,WEST MONROE 1,State Senate,48,Void,,0
+Oswego,WEST MONROE 2,State Senate,48,Void,,0
+Oswego,WEST MONROE 3,State Senate,48,Void,,0
+Oswego,WILLIAMSTOWN 1,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 1-1,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 1-2,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 2-1,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 2-2,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 3-1,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 3-2,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 4-1,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 4-2,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 4-3,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 5-1,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 5-2,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 5-3,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 5-4,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 6-1,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 6-2,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 7-1,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 7-2,State Senate,48,Void,,0
+Oswego,OSWEGO CITY 7-3,State Senate,48,Void,,0
+Oswego,FULTON CITY 1-1,State Senate,48,Void,,0
+Oswego,FULTON CITY 1-2,State Senate,48,Void,,0
+Oswego,FULTON CITY 2-1,State Senate,48,Void,,0
+Oswego,FULTON CITY 2-2,State Senate,48,Void,,0
+Oswego,FULTON CITY 3-1,State Senate,48,Void,,0
+Oswego,FULTON CITY 3-2,State Senate,48,Void,,0
+Oswego,FULTON CITY 4-1,State Senate,48,Void,,0
+Oswego,FULTON CITY 4-2,State Senate,48,Void,,0
+Oswego,FULTON CITY 4-3,State Senate,48,Void,,0
+Oswego,FULTON CITY 5-1,State Senate,48,Void,,0
+Oswego,FULTON CITY 5-2,State Senate,48,Void,,0
+Oswego,FULTON CITY 5-3,State Senate,48,Void,,0
+Oswego,FULTON CITY 6-1,State Senate,48,Void,,0
+Oswego,FULTON CITY 6-2,State Senate,48,Void,,0
+Oswego,ALBION 1,State Assembly,120,Gail E. Tosh,DEM,72
+Oswego,ALBION 2,State Assembly,120,Gail E. Tosh,DEM,88
+Oswego,AMBOY 1,State Assembly,120,Gail E. Tosh,DEM,118
+Oswego,BOYLSTON 1,State Assembly,120,Gail E. Tosh,DEM,36
+Oswego,CONSTANTIA 1,State Assembly,120,Gail E. Tosh,DEM,141
+Oswego,CONSTANTIA 2,State Assembly,120,Gail E. Tosh,DEM,138
+Oswego,CONSTANTIA 3,State Assembly,120,Gail E. Tosh,DEM,127
+Oswego,CONSTANTIA 4,State Assembly,120,Gail E. Tosh,DEM,167
+Oswego,GRANBY 1,State Assembly,120,Gail E. Tosh,DEM,131
+Oswego,GRANBY 2,State Assembly,120,Gail E. Tosh,DEM,112
+Oswego,GRANBY 3,State Assembly,120,Gail E. Tosh,DEM,79
+Oswego,GRANBY 4,State Assembly,120,Gail E. Tosh,DEM,186
+Oswego,GRANBY 5,State Assembly,120,Gail E. Tosh,DEM,210
+Oswego,HASTINGS 1,State Assembly,120,Gail E. Tosh,DEM,121
+Oswego,HASTINGS 2,State Assembly,120,Gail E. Tosh,DEM,109
+Oswego,HASTINGS 3,State Assembly,120,Gail E. Tosh,DEM,250
+Oswego,HASTINGS 4,State Assembly,120,Gail E. Tosh,DEM,110
+Oswego,HASTINGS 5,State Assembly,120,Gail E. Tosh,DEM,150
+Oswego,HASTINGS 6,State Assembly,120,Gail E. Tosh,DEM,14
+Oswego,HASTINGS 7,State Assembly,120,Gail E. Tosh,DEM,150
+Oswego,HASTINGS 8,State Assembly,120,Gail E. Tosh,DEM,279
+Oswego,MEXICO 1,State Assembly,120,Gail E. Tosh,DEM,116
+Oswego,MEXICO 2,State Assembly,120,Gail E. Tosh,DEM,170
+Oswego,MEXICO 3,State Assembly,120,Gail E. Tosh,DEM,239
+Oswego,MEXICO 4,State Assembly,120,Gail E. Tosh,DEM,39
+Oswego,NEW HAVEN 1,State Assembly,120,Gail E. Tosh,DEM,144
+Oswego,NEW HAVEN 2,State Assembly,120,Gail E. Tosh,DEM,78
+Oswego,NEW HAVEN 3,State Assembly,120,Gail E. Tosh,DEM,87
+Oswego,ORWELL 1,State Assembly,120,Gail E. Tosh,DEM,107
+Oswego,PALERMO 1,State Assembly,120,Gail E. Tosh,DEM,142
+Oswego,PALERMO 2,State Assembly,120,Gail E. Tosh,DEM,80
+Oswego,PALERMO 3,State Assembly,120,Gail E. Tosh,DEM,97
+Oswego,PALERMO 4,State Assembly,120,Gail E. Tosh,DEM,17
+Oswego,PARISH 1,State Assembly,120,Gail E. Tosh,DEM,114
+Oswego,PARISH 2,State Assembly,120,Gail E. Tosh,DEM,114
+Oswego,REDFIELD 1,State Assembly,120,Gail E. Tosh,DEM,47
+Oswego,RICHLAND 1,State Assembly,120,Gail E. Tosh,DEM,132
+Oswego,RICHLAND 2,State Assembly,120,Gail E. Tosh,DEM,81
+Oswego,RICHLAND 3,State Assembly,120,Gail E. Tosh,DEM,81
+Oswego,RICHLAND 4,State Assembly,120,Gail E. Tosh,DEM,156
+Oswego,RICHLAND 5,State Assembly,120,Gail E. Tosh,DEM,27
+Oswego,RICHLAND 6,State Assembly,120,Gail E. Tosh,DEM,23
+Oswego,SANDY CREEK 1,State Assembly,120,Gail E. Tosh,DEM,179
+Oswego,SANDY CREEK 2,State Assembly,120,Gail E. Tosh,DEM,126
+Oswego,SANDY CREEK 3,State Assembly,120,Gail E. Tosh,DEM,52
+Oswego,SCHROEPPEL 1,State Assembly,120,Gail E. Tosh,DEM,304
+Oswego,SCHROEPPEL 2,State Assembly,120,Gail E. Tosh,DEM,232
+Oswego,SCHROEPPEL 3,State Assembly,120,Gail E. Tosh,DEM,108
+Oswego,SCHROEPPEL 4,State Assembly,120,Gail E. Tosh,DEM,270
+Oswego,SCHROEPPEL 5,State Assembly,120,Gail E. Tosh,DEM,338
+Oswego,SCRIBA 1,State Assembly,120,Gail E. Tosh,DEM,146
+Oswego,SCRIBA 2,State Assembly,120,Gail E. Tosh,DEM,86
+Oswego,SCRIBA 3,State Assembly,120,Gail E. Tosh,DEM,255
+Oswego,SCRIBA 4,State Assembly,120,Gail E. Tosh,DEM,144
+Oswego,SCRIBA 5,State Assembly,120,Gail E. Tosh,DEM,126
+Oswego,SCRIBA 6,State Assembly,120,Gail E. Tosh,DEM,60
+Oswego,VOLNEY 1,State Assembly,120,Gail E. Tosh,DEM,108
+Oswego,VOLNEY 2,State Assembly,120,Gail E. Tosh,DEM,136
+Oswego,VOLNEY 3,State Assembly,120,Gail E. Tosh,DEM,167
+Oswego,VOLNEY 4,State Assembly,120,Gail E. Tosh,DEM,195
+Oswego,VOLNEY 5,State Assembly,120,Gail E. Tosh,DEM,53
+Oswego,WEST MONROE 1,State Assembly,120,Gail E. Tosh,DEM,59
+Oswego,WEST MONROE 2,State Assembly,120,Gail E. Tosh,DEM,215
+Oswego,WEST MONROE 3,State Assembly,120,Gail E. Tosh,DEM,216
+Oswego,WILLIAMSTOWN 1,State Assembly,120,Gail E. Tosh,DEM,92
+Oswego,OSWEGO CITY 1-1,State Assembly,120,Gail E. Tosh,DEM,282
+Oswego,OSWEGO CITY 1-2,State Assembly,120,Gail E. Tosh,DEM,109
+Oswego,OSWEGO CITY 2-1,State Assembly,120,Gail E. Tosh,DEM,87
+Oswego,OSWEGO CITY 2-2,State Assembly,120,Gail E. Tosh,DEM,265
+Oswego,OSWEGO CITY 3-1,State Assembly,120,Gail E. Tosh,DEM,234
+Oswego,OSWEGO CITY 3-2,State Assembly,120,Gail E. Tosh,DEM,67
+Oswego,OSWEGO CITY 4-1,State Assembly,120,Gail E. Tosh,DEM,208
+Oswego,OSWEGO CITY 4-2,State Assembly,120,Gail E. Tosh,DEM,109
+Oswego,OSWEGO CITY 4-3,State Assembly,120,Gail E. Tosh,DEM,105
+Oswego,OSWEGO CITY 5-1,State Assembly,120,Gail E. Tosh,DEM,218
+Oswego,OSWEGO CITY 5-2,State Assembly,120,Gail E. Tosh,DEM,122
+Oswego,OSWEGO CITY 5-3,State Assembly,120,Gail E. Tosh,DEM,46
+Oswego,OSWEGO CITY 5-4,State Assembly,120,Gail E. Tosh,DEM,27
+Oswego,OSWEGO CITY 6-1,State Assembly,120,Gail E. Tosh,DEM,351
+Oswego,OSWEGO CITY 6-2,State Assembly,120,Gail E. Tosh,DEM,57
+Oswego,OSWEGO CITY 7-1,State Assembly,120,Gail E. Tosh,DEM,283
+Oswego,OSWEGO CITY 7-2,State Assembly,120,Gail E. Tosh,DEM,300
+Oswego,OSWEGO CITY 7-3,State Assembly,120,Gail E. Tosh,DEM,7
+Oswego,FULTON CITY 1-1,State Assembly,120,Gail E. Tosh,DEM,123
+Oswego,FULTON CITY 1-2,State Assembly,120,Gail E. Tosh,DEM,81
+Oswego,FULTON CITY 2-1,State Assembly,120,Gail E. Tosh,DEM,28
+Oswego,FULTON CITY 2-2,State Assembly,120,Gail E. Tosh,DEM,152
+Oswego,FULTON CITY 3-1,State Assembly,120,Gail E. Tosh,DEM,172
+Oswego,FULTON CITY 3-2,State Assembly,120,Gail E. Tosh,DEM,127
+Oswego,FULTON CITY 4-1,State Assembly,120,Gail E. Tosh,DEM,95
+Oswego,FULTON CITY 4-2,State Assembly,120,Gail E. Tosh,DEM,96
+Oswego,FULTON CITY 4-3,State Assembly,120,Gail E. Tosh,DEM,56
+Oswego,FULTON CITY 5-1,State Assembly,120,Gail E. Tosh,DEM,99
+Oswego,FULTON CITY 5-2,State Assembly,120,Gail E. Tosh,DEM,120
+Oswego,FULTON CITY 5-3,State Assembly,120,Gail E. Tosh,DEM,11
+Oswego,FULTON CITY 6-1,State Assembly,120,Gail E. Tosh,DEM,118
+Oswego,FULTON CITY 6-2,State Assembly,120,Gail E. Tosh,DEM,44
+Oswego,ALBION 1,State Assembly,120,William A. Barclay,REP,309
+Oswego,ALBION 2,State Assembly,120,William A. Barclay,REP,311
+Oswego,AMBOY 1,State Assembly,120,William A. Barclay,REP,431
+Oswego,BOYLSTON 1,State Assembly,120,William A. Barclay,REP,239
+Oswego,CONSTANTIA 1,State Assembly,120,William A. Barclay,REP,361
+Oswego,CONSTANTIA 2,State Assembly,120,William A. Barclay,REP,363
+Oswego,CONSTANTIA 3,State Assembly,120,William A. Barclay,REP,333
+Oswego,CONSTANTIA 4,State Assembly,120,William A. Barclay,REP,532
+Oswego,GRANBY 1,State Assembly,120,William A. Barclay,REP,316
+Oswego,GRANBY 2,State Assembly,120,William A. Barclay,REP,289
+Oswego,GRANBY 3,State Assembly,120,William A. Barclay,REP,248
+Oswego,GRANBY 4,State Assembly,120,William A. Barclay,REP,526
+Oswego,GRANBY 5,State Assembly,120,William A. Barclay,REP,488
+Oswego,HASTINGS 1,State Assembly,120,William A. Barclay,REP,378
+Oswego,HASTINGS 2,State Assembly,120,William A. Barclay,REP,335
+Oswego,HASTINGS 3,State Assembly,120,William A. Barclay,REP,529
+Oswego,HASTINGS 4,State Assembly,120,William A. Barclay,REP,258
+Oswego,HASTINGS 5,State Assembly,120,William A. Barclay,REP,332
+Oswego,HASTINGS 6,State Assembly,120,William A. Barclay,REP,20
+Oswego,HASTINGS 7,State Assembly,120,William A. Barclay,REP,383
+Oswego,HASTINGS 8,State Assembly,120,William A. Barclay,REP,508
+Oswego,MEXICO 1,State Assembly,120,William A. Barclay,REP,400
+Oswego,MEXICO 2,State Assembly,120,William A. Barclay,REP,543
+Oswego,MEXICO 3,State Assembly,120,William A. Barclay,REP,671
+Oswego,MEXICO 4,State Assembly,120,William A. Barclay,REP,134
+Oswego,NEW HAVEN 1,State Assembly,120,William A. Barclay,REP,491
+Oswego,NEW HAVEN 2,State Assembly,120,William A. Barclay,REP,218
+Oswego,NEW HAVEN 3,State Assembly,120,William A. Barclay,REP,241
+Oswego,ORWELL 1,State Assembly,120,William A. Barclay,REP,361
+Oswego,PALERMO 1,State Assembly,120,William A. Barclay,REP,378
+Oswego,PALERMO 2,State Assembly,120,William A. Barclay,REP,308
+Oswego,PALERMO 3,State Assembly,120,William A. Barclay,REP,321
+Oswego,PALERMO 4,State Assembly,120,William A. Barclay,REP,65
+Oswego,PARISH 1,State Assembly,120,William A. Barclay,REP,490
+Oswego,PARISH 2,State Assembly,120,William A. Barclay,REP,357
+Oswego,REDFIELD 1,State Assembly,120,William A. Barclay,REP,186
+Oswego,RICHLAND 1,State Assembly,120,William A. Barclay,REP,318
+Oswego,RICHLAND 2,State Assembly,120,William A. Barclay,REP,326
+Oswego,RICHLAND 3,State Assembly,120,William A. Barclay,REP,365
+Oswego,RICHLAND 4,State Assembly,120,William A. Barclay,REP,616
+Oswego,RICHLAND 5,State Assembly,120,William A. Barclay,REP,132
+Oswego,RICHLAND 6,State Assembly,120,William A. Barclay,REP,102
+Oswego,SANDY CREEK 1,State Assembly,120,William A. Barclay,REP,617
+Oswego,SANDY CREEK 2,State Assembly,120,William A. Barclay,REP,408
+Oswego,SANDY CREEK 3,State Assembly,120,William A. Barclay,REP,215
+Oswego,SCHROEPPEL 1,State Assembly,120,William A. Barclay,REP,480
+Oswego,SCHROEPPEL 2,State Assembly,120,William A. Barclay,REP,367
+Oswego,SCHROEPPEL 3,State Assembly,120,William A. Barclay,REP,333
+Oswego,SCHROEPPEL 4,State Assembly,120,William A. Barclay,REP,542
+Oswego,SCHROEPPEL 5,State Assembly,120,William A. Barclay,REP,540
+Oswego,SCRIBA 1,State Assembly,120,William A. Barclay,REP,424
+Oswego,SCRIBA 2,State Assembly,120,William A. Barclay,REP,290
+Oswego,SCRIBA 3,State Assembly,120,William A. Barclay,REP,529
+Oswego,SCRIBA 4,State Assembly,120,William A. Barclay,REP,379
+Oswego,SCRIBA 5,State Assembly,120,William A. Barclay,REP,309
+Oswego,SCRIBA 6,State Assembly,120,William A. Barclay,REP,77
+Oswego,VOLNEY 1,State Assembly,120,William A. Barclay,REP,221
+Oswego,VOLNEY 2,State Assembly,120,William A. Barclay,REP,381
+Oswego,VOLNEY 3,State Assembly,120,William A. Barclay,REP,544
+Oswego,VOLNEY 4,State Assembly,120,William A. Barclay,REP,528
+Oswego,VOLNEY 5,State Assembly,120,William A. Barclay,REP,101
+Oswego,WEST MONROE 1,State Assembly,120,William A. Barclay,REP,149
+Oswego,WEST MONROE 2,State Assembly,120,William A. Barclay,REP,500
+Oswego,WEST MONROE 3,State Assembly,120,William A. Barclay,REP,585
+Oswego,WILLIAMSTOWN 1,State Assembly,120,William A. Barclay,REP,416
+Oswego,OSWEGO CITY 1-1,State Assembly,120,William A. Barclay,REP,231
+Oswego,OSWEGO CITY 1-2,State Assembly,120,William A. Barclay,REP,117
+Oswego,OSWEGO CITY 2-1,State Assembly,120,William A. Barclay,REP,132
+Oswego,OSWEGO CITY 2-2,State Assembly,120,William A. Barclay,REP,344
+Oswego,OSWEGO CITY 3-1,State Assembly,120,William A. Barclay,REP,214
+Oswego,OSWEGO CITY 3-2,State Assembly,120,William A. Barclay,REP,53
+Oswego,OSWEGO CITY 4-1,State Assembly,120,William A. Barclay,REP,259
+Oswego,OSWEGO CITY 4-2,State Assembly,120,William A. Barclay,REP,88
+Oswego,OSWEGO CITY 4-3,State Assembly,120,William A. Barclay,REP,141
+Oswego,OSWEGO CITY 5-1,State Assembly,120,William A. Barclay,REP,269
+Oswego,OSWEGO CITY 5-2,State Assembly,120,William A. Barclay,REP,182
+Oswego,OSWEGO CITY 5-3,State Assembly,120,William A. Barclay,REP,54
+Oswego,OSWEGO CITY 5-4,State Assembly,120,William A. Barclay,REP,32
+Oswego,OSWEGO CITY 6-1,State Assembly,120,William A. Barclay,REP,384
+Oswego,OSWEGO CITY 6-2,State Assembly,120,William A. Barclay,REP,82
+Oswego,OSWEGO CITY 7-1,State Assembly,120,William A. Barclay,REP,312
+Oswego,OSWEGO CITY 7-2,State Assembly,120,William A. Barclay,REP,382
+Oswego,OSWEGO CITY 7-3,State Assembly,120,William A. Barclay,REP,16
+Oswego,FULTON CITY 1-1,State Assembly,120,William A. Barclay,REP,273
+Oswego,FULTON CITY 1-2,State Assembly,120,William A. Barclay,REP,204
+Oswego,FULTON CITY 2-1,State Assembly,120,William A. Barclay,REP,52
+Oswego,FULTON CITY 2-2,State Assembly,120,William A. Barclay,REP,267
+Oswego,FULTON CITY 3-1,State Assembly,120,William A. Barclay,REP,363
+Oswego,FULTON CITY 3-2,State Assembly,120,William A. Barclay,REP,211
+Oswego,FULTON CITY 4-1,State Assembly,120,William A. Barclay,REP,136
+Oswego,FULTON CITY 4-2,State Assembly,120,William A. Barclay,REP,141
+Oswego,FULTON CITY 4-3,State Assembly,120,William A. Barclay,REP,92
+Oswego,FULTON CITY 5-1,State Assembly,120,William A. Barclay,REP,212
+Oswego,FULTON CITY 5-2,State Assembly,120,William A. Barclay,REP,130
+Oswego,FULTON CITY 5-3,State Assembly,120,William A. Barclay,REP,21
+Oswego,FULTON CITY 6-1,State Assembly,120,William A. Barclay,REP,200
+Oswego,FULTON CITY 6-2,State Assembly,120,William A. Barclay,REP,99
+Oswego,ALBION 1,State Assembly,120,William A. Barclay,CON,27
+Oswego,ALBION 2,State Assembly,120,William A. Barclay,CON,37
+Oswego,AMBOY 1,State Assembly,120,William A. Barclay,CON,38
+Oswego,BOYLSTON 1,State Assembly,120,William A. Barclay,CON,24
+Oswego,CONSTANTIA 1,State Assembly,120,William A. Barclay,CON,47
+Oswego,CONSTANTIA 2,State Assembly,120,William A. Barclay,CON,23
+Oswego,CONSTANTIA 3,State Assembly,120,William A. Barclay,CON,40
+Oswego,CONSTANTIA 4,State Assembly,120,William A. Barclay,CON,44
+Oswego,GRANBY 1,State Assembly,120,William A. Barclay,CON,46
+Oswego,GRANBY 2,State Assembly,120,William A. Barclay,CON,30
+Oswego,GRANBY 3,State Assembly,120,William A. Barclay,CON,31
+Oswego,GRANBY 4,State Assembly,120,William A. Barclay,CON,61
+Oswego,GRANBY 5,State Assembly,120,William A. Barclay,CON,58
+Oswego,HASTINGS 1,State Assembly,120,William A. Barclay,CON,48
+Oswego,HASTINGS 2,State Assembly,120,William A. Barclay,CON,41
+Oswego,HASTINGS 3,State Assembly,120,William A. Barclay,CON,64
+Oswego,HASTINGS 4,State Assembly,120,William A. Barclay,CON,46
+Oswego,HASTINGS 5,State Assembly,120,William A. Barclay,CON,40
+Oswego,HASTINGS 6,State Assembly,120,William A. Barclay,CON,0
+Oswego,HASTINGS 7,State Assembly,120,William A. Barclay,CON,41
+Oswego,HASTINGS 8,State Assembly,120,William A. Barclay,CON,61
+Oswego,MEXICO 1,State Assembly,120,William A. Barclay,CON,53
+Oswego,MEXICO 2,State Assembly,120,William A. Barclay,CON,57
+Oswego,MEXICO 3,State Assembly,120,William A. Barclay,CON,70
+Oswego,MEXICO 4,State Assembly,120,William A. Barclay,CON,18
+Oswego,NEW HAVEN 1,State Assembly,120,William A. Barclay,CON,59
+Oswego,NEW HAVEN 2,State Assembly,120,William A. Barclay,CON,17
+Oswego,NEW HAVEN 3,State Assembly,120,William A. Barclay,CON,40
+Oswego,ORWELL 1,State Assembly,120,William A. Barclay,CON,36
+Oswego,PALERMO 1,State Assembly,120,William A. Barclay,CON,54
+Oswego,PALERMO 2,State Assembly,120,William A. Barclay,CON,43
+Oswego,PALERMO 3,State Assembly,120,William A. Barclay,CON,39
+Oswego,PALERMO 4,State Assembly,120,William A. Barclay,CON,9
+Oswego,PARISH 1,State Assembly,120,William A. Barclay,CON,58
+Oswego,PARISH 2,State Assembly,120,William A. Barclay,CON,36
+Oswego,REDFIELD 1,State Assembly,120,William A. Barclay,CON,18
+Oswego,RICHLAND 1,State Assembly,120,William A. Barclay,CON,31
+Oswego,RICHLAND 2,State Assembly,120,William A. Barclay,CON,20
+Oswego,RICHLAND 3,State Assembly,120,William A. Barclay,CON,36
+Oswego,RICHLAND 4,State Assembly,120,William A. Barclay,CON,74
+Oswego,RICHLAND 5,State Assembly,120,William A. Barclay,CON,8
+Oswego,RICHLAND 6,State Assembly,120,William A. Barclay,CON,13
+Oswego,SANDY CREEK 1,State Assembly,120,William A. Barclay,CON,48
+Oswego,SANDY CREEK 2,State Assembly,120,William A. Barclay,CON,43
+Oswego,SANDY CREEK 3,State Assembly,120,William A. Barclay,CON,17
+Oswego,SCHROEPPEL 1,State Assembly,120,William A. Barclay,CON,69
+Oswego,SCHROEPPEL 2,State Assembly,120,William A. Barclay,CON,36
+Oswego,SCHROEPPEL 3,State Assembly,120,William A. Barclay,CON,44
+Oswego,SCHROEPPEL 4,State Assembly,120,William A. Barclay,CON,71
+Oswego,SCHROEPPEL 5,State Assembly,120,William A. Barclay,CON,73
+Oswego,SCRIBA 1,State Assembly,120,William A. Barclay,CON,46
+Oswego,SCRIBA 2,State Assembly,120,William A. Barclay,CON,38
+Oswego,SCRIBA 3,State Assembly,120,William A. Barclay,CON,70
+Oswego,SCRIBA 4,State Assembly,120,William A. Barclay,CON,49
+Oswego,SCRIBA 5,State Assembly,120,William A. Barclay,CON,36
+Oswego,SCRIBA 6,State Assembly,120,William A. Barclay,CON,21
+Oswego,VOLNEY 1,State Assembly,120,William A. Barclay,CON,23
+Oswego,VOLNEY 2,State Assembly,120,William A. Barclay,CON,42
+Oswego,VOLNEY 3,State Assembly,120,William A. Barclay,CON,67
+Oswego,VOLNEY 4,State Assembly,120,William A. Barclay,CON,76
+Oswego,VOLNEY 5,State Assembly,120,William A. Barclay,CON,21
+Oswego,WEST MONROE 1,State Assembly,120,William A. Barclay,CON,17
+Oswego,WEST MONROE 2,State Assembly,120,William A. Barclay,CON,49
+Oswego,WEST MONROE 3,State Assembly,120,William A. Barclay,CON,73
+Oswego,WILLIAMSTOWN 1,State Assembly,120,William A. Barclay,CON,39
+Oswego,OSWEGO CITY 1-1,State Assembly,120,William A. Barclay,CON,31
+Oswego,OSWEGO CITY 1-2,State Assembly,120,William A. Barclay,CON,22
+Oswego,OSWEGO CITY 2-1,State Assembly,120,William A. Barclay,CON,12
+Oswego,OSWEGO CITY 2-2,State Assembly,120,William A. Barclay,CON,50
+Oswego,OSWEGO CITY 3-1,State Assembly,120,William A. Barclay,CON,37
+Oswego,OSWEGO CITY 3-2,State Assembly,120,William A. Barclay,CON,16
+Oswego,OSWEGO CITY 4-1,State Assembly,120,William A. Barclay,CON,40
+Oswego,OSWEGO CITY 4-2,State Assembly,120,William A. Barclay,CON,15
+Oswego,OSWEGO CITY 4-3,State Assembly,120,William A. Barclay,CON,24
+Oswego,OSWEGO CITY 5-1,State Assembly,120,William A. Barclay,CON,33
+Oswego,OSWEGO CITY 5-2,State Assembly,120,William A. Barclay,CON,19
+Oswego,OSWEGO CITY 5-3,State Assembly,120,William A. Barclay,CON,9
+Oswego,OSWEGO CITY 5-4,State Assembly,120,William A. Barclay,CON,4
+Oswego,OSWEGO CITY 6-1,State Assembly,120,William A. Barclay,CON,78
+Oswego,OSWEGO CITY 6-2,State Assembly,120,William A. Barclay,CON,14
+Oswego,OSWEGO CITY 7-1,State Assembly,120,William A. Barclay,CON,45
+Oswego,OSWEGO CITY 7-2,State Assembly,120,William A. Barclay,CON,50
+Oswego,OSWEGO CITY 7-3,State Assembly,120,William A. Barclay,CON,0
+Oswego,FULTON CITY 1-1,State Assembly,120,William A. Barclay,CON,35
+Oswego,FULTON CITY 1-2,State Assembly,120,William A. Barclay,CON,31
+Oswego,FULTON CITY 2-1,State Assembly,120,William A. Barclay,CON,5
+Oswego,FULTON CITY 2-2,State Assembly,120,William A. Barclay,CON,33
+Oswego,FULTON CITY 3-1,State Assembly,120,William A. Barclay,CON,62
+Oswego,FULTON CITY 3-2,State Assembly,120,William A. Barclay,CON,20
+Oswego,FULTON CITY 4-1,State Assembly,120,William A. Barclay,CON,21
+Oswego,FULTON CITY 4-2,State Assembly,120,William A. Barclay,CON,28
+Oswego,FULTON CITY 4-3,State Assembly,120,William A. Barclay,CON,12
+Oswego,FULTON CITY 5-1,State Assembly,120,William A. Barclay,CON,27
+Oswego,FULTON CITY 5-2,State Assembly,120,William A. Barclay,CON,19
+Oswego,FULTON CITY 5-3,State Assembly,120,William A. Barclay,CON,2
+Oswego,FULTON CITY 6-1,State Assembly,120,William A. Barclay,CON,32
+Oswego,FULTON CITY 6-2,State Assembly,120,William A. Barclay,CON,17
+Oswego,ALBION 1,State Assembly,120,William A. Barclay,IND,11
+Oswego,ALBION 2,State Assembly,120,William A. Barclay,IND,14
+Oswego,AMBOY 1,State Assembly,120,William A. Barclay,IND,14
+Oswego,BOYLSTON 1,State Assembly,120,William A. Barclay,IND,6
+Oswego,CONSTANTIA 1,State Assembly,120,William A. Barclay,IND,14
+Oswego,CONSTANTIA 2,State Assembly,120,William A. Barclay,IND,10
+Oswego,CONSTANTIA 3,State Assembly,120,William A. Barclay,IND,13
+Oswego,CONSTANTIA 4,State Assembly,120,William A. Barclay,IND,9
+Oswego,GRANBY 1,State Assembly,120,William A. Barclay,IND,12
+Oswego,GRANBY 2,State Assembly,120,William A. Barclay,IND,13
+Oswego,GRANBY 3,State Assembly,120,William A. Barclay,IND,5
+Oswego,GRANBY 4,State Assembly,120,William A. Barclay,IND,13
+Oswego,GRANBY 5,State Assembly,120,William A. Barclay,IND,15
+Oswego,HASTINGS 1,State Assembly,120,William A. Barclay,IND,16
+Oswego,HASTINGS 2,State Assembly,120,William A. Barclay,IND,8
+Oswego,HASTINGS 3,State Assembly,120,William A. Barclay,IND,18
+Oswego,HASTINGS 4,State Assembly,120,William A. Barclay,IND,8
+Oswego,HASTINGS 5,State Assembly,120,William A. Barclay,IND,12
+Oswego,HASTINGS 6,State Assembly,120,William A. Barclay,IND,3
+Oswego,HASTINGS 7,State Assembly,120,William A. Barclay,IND,14
+Oswego,HASTINGS 8,State Assembly,120,William A. Barclay,IND,27
+Oswego,MEXICO 1,State Assembly,120,William A. Barclay,IND,13
+Oswego,MEXICO 2,State Assembly,120,William A. Barclay,IND,16
+Oswego,MEXICO 3,State Assembly,120,William A. Barclay,IND,21
+Oswego,MEXICO 4,State Assembly,120,William A. Barclay,IND,5
+Oswego,NEW HAVEN 1,State Assembly,120,William A. Barclay,IND,19
+Oswego,NEW HAVEN 2,State Assembly,120,William A. Barclay,IND,6
+Oswego,NEW HAVEN 3,State Assembly,120,William A. Barclay,IND,5
+Oswego,ORWELL 1,State Assembly,120,William A. Barclay,IND,13
+Oswego,PALERMO 1,State Assembly,120,William A. Barclay,IND,15
+Oswego,PALERMO 2,State Assembly,120,William A. Barclay,IND,9
+Oswego,PALERMO 3,State Assembly,120,William A. Barclay,IND,8
+Oswego,PALERMO 4,State Assembly,120,William A. Barclay,IND,1
+Oswego,PARISH 1,State Assembly,120,William A. Barclay,IND,18
+Oswego,PARISH 2,State Assembly,120,William A. Barclay,IND,22
+Oswego,REDFIELD 1,State Assembly,120,William A. Barclay,IND,6
+Oswego,RICHLAND 1,State Assembly,120,William A. Barclay,IND,23
+Oswego,RICHLAND 2,State Assembly,120,William A. Barclay,IND,7
+Oswego,RICHLAND 3,State Assembly,120,William A. Barclay,IND,12
+Oswego,RICHLAND 4,State Assembly,120,William A. Barclay,IND,15
+Oswego,RICHLAND 5,State Assembly,120,William A. Barclay,IND,5
+Oswego,RICHLAND 6,State Assembly,120,William A. Barclay,IND,4
+Oswego,SANDY CREEK 1,State Assembly,120,William A. Barclay,IND,28
+Oswego,SANDY CREEK 2,State Assembly,120,William A. Barclay,IND,13
+Oswego,SANDY CREEK 3,State Assembly,120,William A. Barclay,IND,13
+Oswego,SCHROEPPEL 1,State Assembly,120,William A. Barclay,IND,17
+Oswego,SCHROEPPEL 2,State Assembly,120,William A. Barclay,IND,10
+Oswego,SCHROEPPEL 3,State Assembly,120,William A. Barclay,IND,6
+Oswego,SCHROEPPEL 4,State Assembly,120,William A. Barclay,IND,17
+Oswego,SCHROEPPEL 5,State Assembly,120,William A. Barclay,IND,20
+Oswego,SCRIBA 1,State Assembly,120,William A. Barclay,IND,17
+Oswego,SCRIBA 2,State Assembly,120,William A. Barclay,IND,5
+Oswego,SCRIBA 3,State Assembly,120,William A. Barclay,IND,15
+Oswego,SCRIBA 4,State Assembly,120,William A. Barclay,IND,19
+Oswego,SCRIBA 5,State Assembly,120,William A. Barclay,IND,13
+Oswego,SCRIBA 6,State Assembly,120,William A. Barclay,IND,6
+Oswego,VOLNEY 1,State Assembly,120,William A. Barclay,IND,9
+Oswego,VOLNEY 2,State Assembly,120,William A. Barclay,IND,8
+Oswego,VOLNEY 3,State Assembly,120,William A. Barclay,IND,13
+Oswego,VOLNEY 4,State Assembly,120,William A. Barclay,IND,21
+Oswego,VOLNEY 5,State Assembly,120,William A. Barclay,IND,3
+Oswego,WEST MONROE 1,State Assembly,120,William A. Barclay,IND,3
+Oswego,WEST MONROE 2,State Assembly,120,William A. Barclay,IND,22
+Oswego,WEST MONROE 3,State Assembly,120,William A. Barclay,IND,23
+Oswego,WILLIAMSTOWN 1,State Assembly,120,William A. Barclay,IND,15
+Oswego,OSWEGO CITY 1-1,State Assembly,120,William A. Barclay,IND,21
+Oswego,OSWEGO CITY 1-2,State Assembly,120,William A. Barclay,IND,3
+Oswego,OSWEGO CITY 2-1,State Assembly,120,William A. Barclay,IND,6
+Oswego,OSWEGO CITY 2-2,State Assembly,120,William A. Barclay,IND,23
+Oswego,OSWEGO CITY 3-1,State Assembly,120,William A. Barclay,IND,16
+Oswego,OSWEGO CITY 3-2,State Assembly,120,William A. Barclay,IND,3
+Oswego,OSWEGO CITY 4-1,State Assembly,120,William A. Barclay,IND,20
+Oswego,OSWEGO CITY 4-2,State Assembly,120,William A. Barclay,IND,5
+Oswego,OSWEGO CITY 4-3,State Assembly,120,William A. Barclay,IND,16
+Oswego,OSWEGO CITY 5-1,State Assembly,120,William A. Barclay,IND,10
+Oswego,OSWEGO CITY 5-2,State Assembly,120,William A. Barclay,IND,19
+Oswego,OSWEGO CITY 5-3,State Assembly,120,William A. Barclay,IND,3
+Oswego,OSWEGO CITY 5-4,State Assembly,120,William A. Barclay,IND,3
+Oswego,OSWEGO CITY 6-1,State Assembly,120,William A. Barclay,IND,36
+Oswego,OSWEGO CITY 6-2,State Assembly,120,William A. Barclay,IND,7
+Oswego,OSWEGO CITY 7-1,State Assembly,120,William A. Barclay,IND,24
+Oswego,OSWEGO CITY 7-2,State Assembly,120,William A. Barclay,IND,22
+Oswego,OSWEGO CITY 7-3,State Assembly,120,William A. Barclay,IND,2
+Oswego,FULTON CITY 1-1,State Assembly,120,William A. Barclay,IND,16
+Oswego,FULTON CITY 1-2,State Assembly,120,William A. Barclay,IND,8
+Oswego,FULTON CITY 2-1,State Assembly,120,William A. Barclay,IND,5
+Oswego,FULTON CITY 2-2,State Assembly,120,William A. Barclay,IND,11
+Oswego,FULTON CITY 3-1,State Assembly,120,William A. Barclay,IND,18
+Oswego,FULTON CITY 3-2,State Assembly,120,William A. Barclay,IND,13
+Oswego,FULTON CITY 4-1,State Assembly,120,William A. Barclay,IND,14
+Oswego,FULTON CITY 4-2,State Assembly,120,William A. Barclay,IND,6
+Oswego,FULTON CITY 4-3,State Assembly,120,William A. Barclay,IND,4
+Oswego,FULTON CITY 5-1,State Assembly,120,William A. Barclay,IND,8
+Oswego,FULTON CITY 5-2,State Assembly,120,William A. Barclay,IND,7
+Oswego,FULTON CITY 5-3,State Assembly,120,William A. Barclay,IND,0
+Oswego,FULTON CITY 6-1,State Assembly,120,William A. Barclay,IND,13
+Oswego,FULTON CITY 6-2,State Assembly,120,William A. Barclay,IND,4
+Oswego,ALBION 1,State Assembly,120,Write-ins,,1
+Oswego,ALBION 2,State Assembly,120,Write-ins,,1
+Oswego,AMBOY 1,State Assembly,120,Write-ins,,1
+Oswego,BOYLSTON 1,State Assembly,120,Write-ins,,0
+Oswego,CONSTANTIA 1,State Assembly,120,Write-ins,,2
+Oswego,CONSTANTIA 2,State Assembly,120,Write-ins,,0
+Oswego,CONSTANTIA 3,State Assembly,120,Write-ins,,0
+Oswego,CONSTANTIA 4,State Assembly,120,Write-ins,,0
+Oswego,GRANBY 1,State Assembly,120,Write-ins,,0
+Oswego,GRANBY 2,State Assembly,120,Write-ins,,0
+Oswego,GRANBY 3,State Assembly,120,Write-ins,,1
+Oswego,GRANBY 4,State Assembly,120,Write-ins,,0
+Oswego,GRANBY 5,State Assembly,120,Write-ins,,0
+Oswego,HASTINGS 1,State Assembly,120,Write-ins,,0
+Oswego,HASTINGS 2,State Assembly,120,Write-ins,,0
+Oswego,HASTINGS 3,State Assembly,120,Write-ins,,1
+Oswego,HASTINGS 4,State Assembly,120,Write-ins,,0
+Oswego,HASTINGS 5,State Assembly,120,Write-ins,,0
+Oswego,HASTINGS 6,State Assembly,120,Write-ins,,0
+Oswego,HASTINGS 7,State Assembly,120,Write-ins,,0
+Oswego,HASTINGS 8,State Assembly,120,Write-ins,,0
+Oswego,MEXICO 1,State Assembly,120,Write-ins,,0
+Oswego,MEXICO 2,State Assembly,120,Write-ins,,1
+Oswego,MEXICO 3,State Assembly,120,Write-ins,,0
+Oswego,MEXICO 4,State Assembly,120,Write-ins,,0
+Oswego,NEW HAVEN 1,State Assembly,120,Write-ins,,1
+Oswego,NEW HAVEN 2,State Assembly,120,Write-ins,,0
+Oswego,NEW HAVEN 3,State Assembly,120,Write-ins,,2
+Oswego,ORWELL 1,State Assembly,120,Write-ins,,1
+Oswego,PALERMO 1,State Assembly,120,Write-ins,,1
+Oswego,PALERMO 2,State Assembly,120,Write-ins,,1
+Oswego,PALERMO 3,State Assembly,120,Write-ins,,0
+Oswego,PALERMO 4,State Assembly,120,Write-ins,,0
+Oswego,PARISH 1,State Assembly,120,Write-ins,,0
+Oswego,PARISH 2,State Assembly,120,Write-ins,,0
+Oswego,REDFIELD 1,State Assembly,120,Write-ins,,0
+Oswego,RICHLAND 1,State Assembly,120,Write-ins,,0
+Oswego,RICHLAND 2,State Assembly,120,Write-ins,,2
+Oswego,RICHLAND 3,State Assembly,120,Write-ins,,0
+Oswego,RICHLAND 4,State Assembly,120,Write-ins,,2
+Oswego,RICHLAND 5,State Assembly,120,Write-ins,,0
+Oswego,RICHLAND 6,State Assembly,120,Write-ins,,0
+Oswego,SANDY CREEK 1,State Assembly,120,Write-ins,,1
+Oswego,SANDY CREEK 2,State Assembly,120,Write-ins,,0
+Oswego,SANDY CREEK 3,State Assembly,120,Write-ins,,1
+Oswego,SCHROEPPEL 1,State Assembly,120,Write-ins,,1
+Oswego,SCHROEPPEL 2,State Assembly,120,Write-ins,,3
+Oswego,SCHROEPPEL 3,State Assembly,120,Write-ins,,4
+Oswego,SCHROEPPEL 4,State Assembly,120,Write-ins,,0
+Oswego,SCHROEPPEL 5,State Assembly,120,Write-ins,,0
+Oswego,SCRIBA 1,State Assembly,120,Write-ins,,0
+Oswego,SCRIBA 2,State Assembly,120,Write-ins,,0
+Oswego,SCRIBA 3,State Assembly,120,Write-ins,,0
+Oswego,SCRIBA 4,State Assembly,120,Write-ins,,0
+Oswego,SCRIBA 5,State Assembly,120,Write-ins,,0
+Oswego,SCRIBA 6,State Assembly,120,Write-ins,,0
+Oswego,VOLNEY 1,State Assembly,120,Write-ins,,0
+Oswego,VOLNEY 2,State Assembly,120,Write-ins,,1
+Oswego,VOLNEY 3,State Assembly,120,Write-ins,,2
+Oswego,VOLNEY 4,State Assembly,120,Write-ins,,1
+Oswego,VOLNEY 5,State Assembly,120,Write-ins,,0
+Oswego,WEST MONROE 1,State Assembly,120,Write-ins,,1
+Oswego,WEST MONROE 2,State Assembly,120,Write-ins,,0
+Oswego,WEST MONROE 3,State Assembly,120,Write-ins,,2
+Oswego,WILLIAMSTOWN 1,State Assembly,120,Write-ins,,0
+Oswego,OSWEGO CITY 1-1,State Assembly,120,Write-ins,,0
+Oswego,OSWEGO CITY 1-2,State Assembly,120,Write-ins,,0
+Oswego,OSWEGO CITY 2-1,State Assembly,120,Write-ins,,0
+Oswego,OSWEGO CITY 2-2,State Assembly,120,Write-ins,,1
+Oswego,OSWEGO CITY 3-1,State Assembly,120,Write-ins,,0
+Oswego,OSWEGO CITY 3-2,State Assembly,120,Write-ins,,0
+Oswego,OSWEGO CITY 4-1,State Assembly,120,Write-ins,,1
+Oswego,OSWEGO CITY 4-2,State Assembly,120,Write-ins,,0
+Oswego,OSWEGO CITY 4-3,State Assembly,120,Write-ins,,1
+Oswego,OSWEGO CITY 5-1,State Assembly,120,Write-ins,,0
+Oswego,OSWEGO CITY 5-2,State Assembly,120,Write-ins,,0
+Oswego,OSWEGO CITY 5-3,State Assembly,120,Write-ins,,0
+Oswego,OSWEGO CITY 5-4,State Assembly,120,Write-ins,,0
+Oswego,OSWEGO CITY 6-1,State Assembly,120,Write-ins,,3
+Oswego,OSWEGO CITY 6-2,State Assembly,120,Write-ins,,0
+Oswego,OSWEGO CITY 7-1,State Assembly,120,Write-ins,,0
+Oswego,OSWEGO CITY 7-2,State Assembly,120,Write-ins,,0
+Oswego,OSWEGO CITY 7-3,State Assembly,120,Write-ins,,0
+Oswego,FULTON CITY 1-1,State Assembly,120,Write-ins,,0
+Oswego,FULTON CITY 1-2,State Assembly,120,Write-ins,,0
+Oswego,FULTON CITY 2-1,State Assembly,120,Write-ins,,0
+Oswego,FULTON CITY 2-2,State Assembly,120,Write-ins,,1
+Oswego,FULTON CITY 3-1,State Assembly,120,Write-ins,,0
+Oswego,FULTON CITY 3-2,State Assembly,120,Write-ins,,1
+Oswego,FULTON CITY 4-1,State Assembly,120,Write-ins,,0
+Oswego,FULTON CITY 4-2,State Assembly,120,Write-ins,,0
+Oswego,FULTON CITY 4-3,State Assembly,120,Write-ins,,0
+Oswego,FULTON CITY 5-1,State Assembly,120,Write-ins,,0
+Oswego,FULTON CITY 5-2,State Assembly,120,Write-ins,,1
+Oswego,FULTON CITY 5-3,State Assembly,120,Write-ins,,0
+Oswego,FULTON CITY 6-1,State Assembly,120,Write-ins,,0
+Oswego,FULTON CITY 6-2,State Assembly,120,Write-ins,,0
+Oswego,ALBION 1,State Assembly,120,Blanks,,25
+Oswego,ALBION 2,State Assembly,120,Blanks,,22
+Oswego,AMBOY 1,State Assembly,120,Blanks,,40
+Oswego,BOYLSTON 1,State Assembly,120,Blanks,,18
+Oswego,CONSTANTIA 1,State Assembly,120,Blanks,,41
+Oswego,CONSTANTIA 2,State Assembly,120,Blanks,,33
+Oswego,CONSTANTIA 3,State Assembly,120,Blanks,,22
+Oswego,CONSTANTIA 4,State Assembly,120,Blanks,,54
+Oswego,GRANBY 1,State Assembly,120,Blanks,,25
+Oswego,GRANBY 2,State Assembly,120,Blanks,,38
+Oswego,GRANBY 3,State Assembly,120,Blanks,,25
+Oswego,GRANBY 4,State Assembly,120,Blanks,,25
+Oswego,GRANBY 5,State Assembly,120,Blanks,,54
+Oswego,HASTINGS 1,State Assembly,120,Blanks,,42
+Oswego,HASTINGS 2,State Assembly,120,Blanks,,34
+Oswego,HASTINGS 3,State Assembly,120,Blanks,,52
+Oswego,HASTINGS 4,State Assembly,120,Blanks,,30
+Oswego,HASTINGS 5,State Assembly,120,Blanks,,29
+Oswego,HASTINGS 6,State Assembly,120,Blanks,,2
+Oswego,HASTINGS 7,State Assembly,120,Blanks,,26
+Oswego,HASTINGS 8,State Assembly,120,Blanks,,57
+Oswego,MEXICO 1,State Assembly,120,Blanks,,13
+Oswego,MEXICO 2,State Assembly,120,Blanks,,26
+Oswego,MEXICO 3,State Assembly,120,Blanks,,26
+Oswego,MEXICO 4,State Assembly,120,Blanks,,8
+Oswego,NEW HAVEN 1,State Assembly,120,Blanks,,28
+Oswego,NEW HAVEN 2,State Assembly,120,Blanks,,13
+Oswego,NEW HAVEN 3,State Assembly,120,Blanks,,29
+Oswego,ORWELL 1,State Assembly,120,Blanks,,25
+Oswego,PALERMO 1,State Assembly,120,Blanks,,25
+Oswego,PALERMO 2,State Assembly,120,Blanks,,21
+Oswego,PALERMO 3,State Assembly,120,Blanks,,27
+Oswego,PALERMO 4,State Assembly,120,Blanks,,3
+Oswego,PARISH 1,State Assembly,120,Blanks,,39
+Oswego,PARISH 2,State Assembly,120,Blanks,,32
+Oswego,REDFIELD 1,State Assembly,120,Blanks,,20
+Oswego,RICHLAND 1,State Assembly,120,Blanks,,14
+Oswego,RICHLAND 2,State Assembly,120,Blanks,,9
+Oswego,RICHLAND 3,State Assembly,120,Blanks,,12
+Oswego,RICHLAND 4,State Assembly,120,Blanks,,29
+Oswego,RICHLAND 5,State Assembly,120,Blanks,,7
+Oswego,RICHLAND 6,State Assembly,120,Blanks,,3
+Oswego,SANDY CREEK 1,State Assembly,120,Blanks,,30
+Oswego,SANDY CREEK 2,State Assembly,120,Blanks,,22
+Oswego,SANDY CREEK 3,State Assembly,120,Blanks,,11
+Oswego,SCHROEPPEL 1,State Assembly,120,Blanks,,55
+Oswego,SCHROEPPEL 2,State Assembly,120,Blanks,,48
+Oswego,SCHROEPPEL 3,State Assembly,120,Blanks,,24
+Oswego,SCHROEPPEL 4,State Assembly,120,Blanks,,53
+Oswego,SCHROEPPEL 5,State Assembly,120,Blanks,,48
+Oswego,SCRIBA 1,State Assembly,120,Blanks,,24
+Oswego,SCRIBA 2,State Assembly,120,Blanks,,11
+Oswego,SCRIBA 3,State Assembly,120,Blanks,,43
+Oswego,SCRIBA 4,State Assembly,120,Blanks,,24
+Oswego,SCRIBA 5,State Assembly,120,Blanks,,24
+Oswego,SCRIBA 6,State Assembly,120,Blanks,,9
+Oswego,VOLNEY 1,State Assembly,120,Blanks,,16
+Oswego,VOLNEY 2,State Assembly,120,Blanks,,27
+Oswego,VOLNEY 3,State Assembly,120,Blanks,,37
+Oswego,VOLNEY 4,State Assembly,120,Blanks,,48
+Oswego,VOLNEY 5,State Assembly,120,Blanks,,10
+Oswego,WEST MONROE 1,State Assembly,120,Blanks,,17
+Oswego,WEST MONROE 2,State Assembly,120,Blanks,,51
+Oswego,WEST MONROE 3,State Assembly,120,Blanks,,63
+Oswego,WILLIAMSTOWN 1,State Assembly,120,Blanks,,21
+Oswego,OSWEGO CITY 1-1,State Assembly,120,Blanks,,17
+Oswego,OSWEGO CITY 1-2,State Assembly,120,Blanks,,12
+Oswego,OSWEGO CITY 2-1,State Assembly,120,Blanks,,19
+Oswego,OSWEGO CITY 2-2,State Assembly,120,Blanks,,50
+Oswego,OSWEGO CITY 3-1,State Assembly,120,Blanks,,42
+Oswego,OSWEGO CITY 3-2,State Assembly,120,Blanks,,6
+Oswego,OSWEGO CITY 4-1,State Assembly,120,Blanks,,28
+Oswego,OSWEGO CITY 4-2,State Assembly,120,Blanks,,8
+Oswego,OSWEGO CITY 4-3,State Assembly,120,Blanks,,12
+Oswego,OSWEGO CITY 5-1,State Assembly,120,Blanks,,23
+Oswego,OSWEGO CITY 5-2,State Assembly,120,Blanks,,23
+Oswego,OSWEGO CITY 5-3,State Assembly,120,Blanks,,4
+Oswego,OSWEGO CITY 5-4,State Assembly,120,Blanks,,0
+Oswego,OSWEGO CITY 6-1,State Assembly,120,Blanks,,46
+Oswego,OSWEGO CITY 6-2,State Assembly,120,Blanks,,7
+Oswego,OSWEGO CITY 7-1,State Assembly,120,Blanks,,25
+Oswego,OSWEGO CITY 7-2,State Assembly,120,Blanks,,38
+Oswego,OSWEGO CITY 7-3,State Assembly,120,Blanks,,2
+Oswego,FULTON CITY 1-1,State Assembly,120,Blanks,,27
+Oswego,FULTON CITY 1-2,State Assembly,120,Blanks,,14
+Oswego,FULTON CITY 2-1,State Assembly,120,Blanks,,9
+Oswego,FULTON CITY 2-2,State Assembly,120,Blanks,,27
+Oswego,FULTON CITY 3-1,State Assembly,120,Blanks,,30
+Oswego,FULTON CITY 3-2,State Assembly,120,Blanks,,13
+Oswego,FULTON CITY 4-1,State Assembly,120,Blanks,,14
+Oswego,FULTON CITY 4-2,State Assembly,120,Blanks,,12
+Oswego,FULTON CITY 4-3,State Assembly,120,Blanks,,4
+Oswego,FULTON CITY 5-1,State Assembly,120,Blanks,,17
+Oswego,FULTON CITY 5-2,State Assembly,120,Blanks,,13
+Oswego,FULTON CITY 5-3,State Assembly,120,Blanks,,5
+Oswego,FULTON CITY 6-1,State Assembly,120,Blanks,,21
+Oswego,FULTON CITY 6-2,State Assembly,120,Blanks,,12
+Oswego,ALBION 1,State Assembly,120,Void,,1
+Oswego,ALBION 2,State Assembly,120,Void,,0
+Oswego,AMBOY 1,State Assembly,120,Void,,0
+Oswego,BOYLSTON 1,State Assembly,120,Void,,0
+Oswego,CONSTANTIA 1,State Assembly,120,Void,,1
+Oswego,CONSTANTIA 2,State Assembly,120,Void,,0
+Oswego,CONSTANTIA 3,State Assembly,120,Void,,1
+Oswego,CONSTANTIA 4,State Assembly,120,Void,,0
+Oswego,GRANBY 1,State Assembly,120,Void,,0
+Oswego,GRANBY 2,State Assembly,120,Void,,0
+Oswego,GRANBY 3,State Assembly,120,Void,,1
+Oswego,GRANBY 4,State Assembly,120,Void,,0
+Oswego,GRANBY 5,State Assembly,120,Void,,2
+Oswego,HASTINGS 1,State Assembly,120,Void,,1
+Oswego,HASTINGS 2,State Assembly,120,Void,,0
+Oswego,HASTINGS 3,State Assembly,120,Void,,0
+Oswego,HASTINGS 4,State Assembly,120,Void,,0
+Oswego,HASTINGS 5,State Assembly,120,Void,,1
+Oswego,HASTINGS 6,State Assembly,120,Void,,0
+Oswego,HASTINGS 7,State Assembly,120,Void,,0
+Oswego,HASTINGS 8,State Assembly,120,Void,,2
+Oswego,MEXICO 1,State Assembly,120,Void,,0
+Oswego,MEXICO 2,State Assembly,120,Void,,1
+Oswego,MEXICO 3,State Assembly,120,Void,,2
+Oswego,MEXICO 4,State Assembly,120,Void,,1
+Oswego,NEW HAVEN 1,State Assembly,120,Void,,1
+Oswego,NEW HAVEN 2,State Assembly,120,Void,,1
+Oswego,NEW HAVEN 3,State Assembly,120,Void,,0
+Oswego,ORWELL 1,State Assembly,120,Void,,1
+Oswego,PALERMO 1,State Assembly,120,Void,,0
+Oswego,PALERMO 2,State Assembly,120,Void,,0
+Oswego,PALERMO 3,State Assembly,120,Void,,0
+Oswego,PALERMO 4,State Assembly,120,Void,,0
+Oswego,PARISH 1,State Assembly,120,Void,,0
+Oswego,PARISH 2,State Assembly,120,Void,,0
+Oswego,REDFIELD 1,State Assembly,120,Void,,0
+Oswego,RICHLAND 1,State Assembly,120,Void,,2
+Oswego,RICHLAND 2,State Assembly,120,Void,,0
+Oswego,RICHLAND 3,State Assembly,120,Void,,0
+Oswego,RICHLAND 4,State Assembly,120,Void,,0
+Oswego,RICHLAND 5,State Assembly,120,Void,,1
+Oswego,RICHLAND 6,State Assembly,120,Void,,0
+Oswego,SANDY CREEK 1,State Assembly,120,Void,,0
+Oswego,SANDY CREEK 2,State Assembly,120,Void,,1
+Oswego,SANDY CREEK 3,State Assembly,120,Void,,0
+Oswego,SCHROEPPEL 1,State Assembly,120,Void,,1
+Oswego,SCHROEPPEL 2,State Assembly,120,Void,,0
+Oswego,SCHROEPPEL 3,State Assembly,120,Void,,1
+Oswego,SCHROEPPEL 4,State Assembly,120,Void,,0
+Oswego,SCHROEPPEL 5,State Assembly,120,Void,,1
+Oswego,SCRIBA 1,State Assembly,120,Void,,0
+Oswego,SCRIBA 2,State Assembly,120,Void,,0
+Oswego,SCRIBA 3,State Assembly,120,Void,,2
+Oswego,SCRIBA 4,State Assembly,120,Void,,1
+Oswego,SCRIBA 5,State Assembly,120,Void,,0
+Oswego,SCRIBA 6,State Assembly,120,Void,,1
+Oswego,VOLNEY 1,State Assembly,120,Void,,0
+Oswego,VOLNEY 2,State Assembly,120,Void,,0
+Oswego,VOLNEY 3,State Assembly,120,Void,,0
+Oswego,VOLNEY 4,State Assembly,120,Void,,0
+Oswego,VOLNEY 5,State Assembly,120,Void,,1
+Oswego,WEST MONROE 1,State Assembly,120,Void,,0
+Oswego,WEST MONROE 2,State Assembly,120,Void,,1
+Oswego,WEST MONROE 3,State Assembly,120,Void,,2
+Oswego,WILLIAMSTOWN 1,State Assembly,120,Void,,0
+Oswego,OSWEGO CITY 1-1,State Assembly,120,Void,,1
+Oswego,OSWEGO CITY 1-2,State Assembly,120,Void,,0
+Oswego,OSWEGO CITY 2-1,State Assembly,120,Void,,0
+Oswego,OSWEGO CITY 2-2,State Assembly,120,Void,,1
+Oswego,OSWEGO CITY 3-1,State Assembly,120,Void,,1
+Oswego,OSWEGO CITY 3-2,State Assembly,120,Void,,0
+Oswego,OSWEGO CITY 4-1,State Assembly,120,Void,,0
+Oswego,OSWEGO CITY 4-2,State Assembly,120,Void,,0
+Oswego,OSWEGO CITY 4-3,State Assembly,120,Void,,0
+Oswego,OSWEGO CITY 5-1,State Assembly,120,Void,,0
+Oswego,OSWEGO CITY 5-2,State Assembly,120,Void,,0
+Oswego,OSWEGO CITY 5-3,State Assembly,120,Void,,0
+Oswego,OSWEGO CITY 5-4,State Assembly,120,Void,,0
+Oswego,OSWEGO CITY 6-1,State Assembly,120,Void,,1
+Oswego,OSWEGO CITY 6-2,State Assembly,120,Void,,0
+Oswego,OSWEGO CITY 7-1,State Assembly,120,Void,,0
+Oswego,OSWEGO CITY 7-2,State Assembly,120,Void,,0
+Oswego,OSWEGO CITY 7-3,State Assembly,120,Void,,0
+Oswego,FULTON CITY 1-1,State Assembly,120,Void,,1
+Oswego,FULTON CITY 1-2,State Assembly,120,Void,,0
+Oswego,FULTON CITY 2-1,State Assembly,120,Void,,0
+Oswego,FULTON CITY 2-2,State Assembly,120,Void,,0
+Oswego,FULTON CITY 3-1,State Assembly,120,Void,,1
+Oswego,FULTON CITY 3-2,State Assembly,120,Void,,0
+Oswego,FULTON CITY 4-1,State Assembly,120,Void,,0
+Oswego,FULTON CITY 4-2,State Assembly,120,Void,,0
+Oswego,FULTON CITY 4-3,State Assembly,120,Void,,0
+Oswego,FULTON CITY 5-1,State Assembly,120,Void,,1
+Oswego,FULTON CITY 5-2,State Assembly,120,Void,,0
+Oswego,FULTON CITY 5-3,State Assembly,120,Void,,0
+Oswego,FULTON CITY 6-1,State Assembly,120,Void,,0
+Oswego,FULTON CITY 6-2,State Assembly,120,Void,,0
+Oswego,HANNIBAL 1,State Assembly,130,Scott Comegys,DEM,58
+Oswego,HANNIBAL 2,State Assembly,130,Scott Comegys,DEM,146
+Oswego,HANNIBAL 3,State Assembly,130,Scott Comegys,DEM,107
+Oswego,HANNIBAL 4,State Assembly,130,Scott Comegys,DEM,146
+Oswego,MINETTO 1,State Assembly,130,Scott Comegys,DEM,348
+Oswego,MINETTO 2,State Assembly,130,Scott Comegys,DEM,87
+Oswego,OSWEGO TOWN 1,State Assembly,130,Scott Comegys,DEM,24
+Oswego,OSWEGO TOWN 2,State Assembly,130,Scott Comegys,DEM,54
+Oswego,OSWEGO TOWN 3,State Assembly,130,Scott Comegys,DEM,272
+Oswego,OSWEGO TOWN 4,State Assembly,130,Scott Comegys,DEM,185
+Oswego,OSWEGO TOWN 5,State Assembly,130,Scott Comegys,DEM,103
+Oswego,OSWEGO TOWN 6,State Assembly,130,Scott Comegys,DEM,108
+Oswego,OSWEGO TOWN 7,State Assembly,130,Scott Comegys,DEM,248
+Oswego,HANNIBAL 1,State Assembly,130,Brian D. Manktelow,REP,144
+Oswego,HANNIBAL 2,State Assembly,130,Brian D. Manktelow,REP,271
+Oswego,HANNIBAL 3,State Assembly,130,Brian D. Manktelow,REP,278
+Oswego,HANNIBAL 4,State Assembly,130,Brian D. Manktelow,REP,403
+Oswego,MINETTO 1,State Assembly,130,Brian D. Manktelow,REP,315
+Oswego,MINETTO 2,State Assembly,130,Brian D. Manktelow,REP,84
+Oswego,OSWEGO TOWN 1,State Assembly,130,Brian D. Manktelow,REP,3
+Oswego,OSWEGO TOWN 2,State Assembly,130,Brian D. Manktelow,REP,8
+Oswego,OSWEGO TOWN 3,State Assembly,130,Brian D. Manktelow,REP,244
+Oswego,OSWEGO TOWN 4,State Assembly,130,Brian D. Manktelow,REP,226
+Oswego,OSWEGO TOWN 5,State Assembly,130,Brian D. Manktelow,REP,160
+Oswego,OSWEGO TOWN 6,State Assembly,130,Brian D. Manktelow,REP,218
+Oswego,OSWEGO TOWN 7,State Assembly,130,Brian D. Manktelow,REP,312
+Oswego,HANNIBAL 1,State Assembly,130,Brian D. Manktelow,CON,18
+Oswego,HANNIBAL 2,State Assembly,130,Brian D. Manktelow,CON,32
+Oswego,HANNIBAL 3,State Assembly,130,Brian D. Manktelow,CON,54
+Oswego,HANNIBAL 4,State Assembly,130,Brian D. Manktelow,CON,70
+Oswego,MINETTO 1,State Assembly,130,Brian D. Manktelow,CON,37
+Oswego,MINETTO 2,State Assembly,130,Brian D. Manktelow,CON,11
+Oswego,OSWEGO TOWN 1,State Assembly,130,Brian D. Manktelow,CON,2
+Oswego,OSWEGO TOWN 2,State Assembly,130,Brian D. Manktelow,CON,2
+Oswego,OSWEGO TOWN 3,State Assembly,130,Brian D. Manktelow,CON,31
+Oswego,OSWEGO TOWN 4,State Assembly,130,Brian D. Manktelow,CON,39
+Oswego,OSWEGO TOWN 5,State Assembly,130,Brian D. Manktelow,CON,17
+Oswego,OSWEGO TOWN 6,State Assembly,130,Brian D. Manktelow,CON,21
+Oswego,OSWEGO TOWN 7,State Assembly,130,Brian D. Manktelow,CON,42
+Oswego,HANNIBAL 1,State Assembly,130,Brian D. Manktelow,IND,2
+Oswego,HANNIBAL 2,State Assembly,130,Brian D. Manktelow,IND,11
+Oswego,HANNIBAL 3,State Assembly,130,Brian D. Manktelow,IND,7
+Oswego,HANNIBAL 4,State Assembly,130,Brian D. Manktelow,IND,8
+Oswego,MINETTO 1,State Assembly,130,Brian D. Manktelow,IND,12
+Oswego,MINETTO 2,State Assembly,130,Brian D. Manktelow,IND,4
+Oswego,OSWEGO TOWN 1,State Assembly,130,Brian D. Manktelow,IND,0
+Oswego,OSWEGO TOWN 2,State Assembly,130,Brian D. Manktelow,IND,0
+Oswego,OSWEGO TOWN 3,State Assembly,130,Brian D. Manktelow,IND,2
+Oswego,OSWEGO TOWN 4,State Assembly,130,Brian D. Manktelow,IND,8
+Oswego,OSWEGO TOWN 5,State Assembly,130,Brian D. Manktelow,IND,6
+Oswego,OSWEGO TOWN 6,State Assembly,130,Brian D. Manktelow,IND,6
+Oswego,OSWEGO TOWN 7,State Assembly,130,Brian D. Manktelow,IND,16
+Oswego,HANNIBAL 1,State Assembly,130,Scott Comegys,SAM,0
+Oswego,HANNIBAL 2,State Assembly,130,Scott Comegys,SAM,1
+Oswego,HANNIBAL 3,State Assembly,130,Scott Comegys,SAM,1
+Oswego,HANNIBAL 4,State Assembly,130,Scott Comegys,SAM,1
+Oswego,MINETTO 1,State Assembly,130,Scott Comegys,SAM,3
+Oswego,MINETTO 2,State Assembly,130,Scott Comegys,SAM,1
+Oswego,OSWEGO TOWN 1,State Assembly,130,Scott Comegys,SAM,0
+Oswego,OSWEGO TOWN 2,State Assembly,130,Scott Comegys,SAM,0
+Oswego,OSWEGO TOWN 3,State Assembly,130,Scott Comegys,SAM,0
+Oswego,OSWEGO TOWN 4,State Assembly,130,Scott Comegys,SAM,2
+Oswego,OSWEGO TOWN 5,State Assembly,130,Scott Comegys,SAM,1
+Oswego,OSWEGO TOWN 6,State Assembly,130,Scott Comegys,SAM,2
+Oswego,OSWEGO TOWN 7,State Assembly,130,Scott Comegys,SAM,5
+Oswego,HANNIBAL 1,State Assembly,130,Write-ins,,0
+Oswego,HANNIBAL 2,State Assembly,130,Write-ins,,0
+Oswego,HANNIBAL 3,State Assembly,130,Write-ins,,0
+Oswego,HANNIBAL 4,State Assembly,130,Write-ins,,0
+Oswego,MINETTO 1,State Assembly,130,Write-ins,,0
+Oswego,MINETTO 2,State Assembly,130,Write-ins,,0
+Oswego,OSWEGO TOWN 1,State Assembly,130,Write-ins,,0
+Oswego,OSWEGO TOWN 2,State Assembly,130,Write-ins,,0
+Oswego,OSWEGO TOWN 3,State Assembly,130,Write-ins,,0
+Oswego,OSWEGO TOWN 4,State Assembly,130,Write-ins,,0
+Oswego,OSWEGO TOWN 5,State Assembly,130,Write-ins,,0
+Oswego,OSWEGO TOWN 6,State Assembly,130,Write-ins,,2
+Oswego,OSWEGO TOWN 7,State Assembly,130,Write-ins,,0
+Oswego,HANNIBAL 1,State Assembly,130,Blanks,,22
+Oswego,HANNIBAL 2,State Assembly,130,Blanks,,56
+Oswego,HANNIBAL 3,State Assembly,130,Blanks,,65
+Oswego,HANNIBAL 4,State Assembly,130,Blanks,,78
+Oswego,MINETTO 1,State Assembly,130,Blanks,,102
+Oswego,MINETTO 2,State Assembly,130,Blanks,,45
+Oswego,OSWEGO TOWN 1,State Assembly,130,Blanks,,2
+Oswego,OSWEGO TOWN 2,State Assembly,130,Blanks,,7
+Oswego,OSWEGO TOWN 3,State Assembly,130,Blanks,,56
+Oswego,OSWEGO TOWN 4,State Assembly,130,Blanks,,62
+Oswego,OSWEGO TOWN 5,State Assembly,130,Blanks,,34
+Oswego,OSWEGO TOWN 6,State Assembly,130,Blanks,,49
+Oswego,OSWEGO TOWN 7,State Assembly,130,Blanks,,53
+Oswego,HANNIBAL 1,State Assembly,130,Void,,0
+Oswego,HANNIBAL 2,State Assembly,130,Void,,0
+Oswego,HANNIBAL 3,State Assembly,130,Void,,0
+Oswego,HANNIBAL 4,State Assembly,130,Void,,1
+Oswego,MINETTO 1,State Assembly,130,Void,,0
+Oswego,MINETTO 2,State Assembly,130,Void,,2
+Oswego,OSWEGO TOWN 1,State Assembly,130,Void,,1
+Oswego,OSWEGO TOWN 2,State Assembly,130,Void,,1
+Oswego,OSWEGO TOWN 3,State Assembly,130,Void,,0
+Oswego,OSWEGO TOWN 4,State Assembly,130,Void,,0
+Oswego,OSWEGO TOWN 5,State Assembly,130,Void,,0
+Oswego,OSWEGO TOWN 6,State Assembly,130,Void,,0
+Oswego,OSWEGO TOWN 7,State Assembly,130,Void,,2
