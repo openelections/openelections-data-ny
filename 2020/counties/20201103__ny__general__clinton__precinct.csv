@@ -1,4 +1,4 @@
-county,precinct,office,,candidate,party,absentee,early_voting,election_day,votes
+county,precinct,office,district,candidate,party,absentee,early_voting,election_day,votes
 Clinton,City of Plattsburgh W1 D1 LD 8,President,,Joseph R. Biden and Kamala D. Harris,DEM,98,62,30,190
 Clinton,City of Plattsburgh W1 D2 LD 8,President,,Joseph R. Biden and Kamala D. Harris,DEM,340,307,105,752
 Clinton,City of Plattsburgh W1 D3 LD 9,President,,Joseph R. Biden and Kamala D. Harris,DEM,13,8,4,25
