@@ -1,30 +1,30 @@
 ﻿county,precinct,office,district,party,candidate,election_day,early_voting,ed_early_combined,absentee,votes
-Chenango,CITY OF NORWICH WARD 1- 6,Registered Voters, ,DEM,,,,,,174
-Chenango,AFTON 1,Registered Voters, ,DEM,,,,,,385
-Chenango,BAINBRIDGE 1,Registered Voters, ,DEM,,,,,,514
-Chenango,COLUMBUS 1,Registered Voters, ,DEM,,,,,,124
-Chenango,COVENTRY 1,Registered Voters, ,DEM,,,,,,201
-Chenango,GERMAN 1,Registered Voters, ,DEM,,,,,,67
-Chenango,GREENE 1,Registered Voters, ,DEM,,,,,,397
-Chenango,GREENE 2,Registered Voters, ,DEM,,,,,,415
-Chenango,GUILFORD 1,Registered Voters, ,DEM,,,,,,439
-Chenango,LINCKLAEN 1,Registered Voters, ,DEM,,,,,,41
-Chenango,MCDONOUGH 1,Registered Voters, ,DEM,,,,,,135
-Chenango,NEW BERLIN 1,Registered Voters, ,DEM,,,,,,309
-Chenango,NORTH NORWICH 1,Registered Voters, ,DEM,,,,,,248
-Chenango,NORWICH TOWN 1,Registered Voters, ,DEM,,,,,,283
-Chenango,NORWICH TOWN 2,Registered Voters, ,DEM,,,,,,262
-Chenango,OTSELIC 1,Registered Voters, ,DEM,,,,,,114
-Chenango,OXFORD 1,Registered Voters, ,DEM,,,,,,312
-Chenango,OXFORD 2,Registered Voters, ,DEM,,,,,,268
-Chenango,PHARSALIA 1,Registered Voters, ,DEM,,,,,,90
-Chenango,PITCHER 1,Registered Voters, ,DEM,,,,,,81
-Chenango,PLYMOUTH 1,Registered Voters, ,DEM,,,,,,224
-Chenango,PRESTON 1,Registered Voters, ,DEM,,,,,,151
-Chenango,SHERBURNE 1,Registered Voters, ,DEM,,,,,,281
-Chenango,SHERBURNE 2,Registered Voters, ,DEM,,,,,,286
-Chenango,SMITHVILLE 1,Registered Voters, ,DEM,,,,,,197
-Chenango,SMYRNA 1,Registered Voters, ,DEM,,,,,,157
+Chenango,CITY OF NORWICH WARD 1- 6,Registered Voters,,DEM,,,,,,174
+Chenango,AFTON 1,Registered Voters,,DEM,,,,,,385
+Chenango,BAINBRIDGE 1,Registered Voters,,DEM,,,,,,514
+Chenango,COLUMBUS 1,Registered Voters,,DEM,,,,,,124
+Chenango,COVENTRY 1,Registered Voters,,DEM,,,,,,201
+Chenango,GERMAN 1,Registered Voters,,DEM,,,,,,67
+Chenango,GREENE 1,Registered Voters,,DEM,,,,,,397
+Chenango,GREENE 2,Registered Voters,,DEM,,,,,,415
+Chenango,GUILFORD 1,Registered Voters,,DEM,,,,,,439
+Chenango,LINCKLAEN 1,Registered Voters,,DEM,,,,,,41
+Chenango,MCDONOUGH 1,Registered Voters,,DEM,,,,,,135
+Chenango,NEW BERLIN 1,Registered Voters,,DEM,,,,,,309
+Chenango,NORTH NORWICH 1,Registered Voters,,DEM,,,,,,248
+Chenango,NORWICH TOWN 1,Registered Voters,,DEM,,,,,,283
+Chenango,NORWICH TOWN 2,Registered Voters,,DEM,,,,,,262
+Chenango,OTSELIC 1,Registered Voters,,DEM,,,,,,114
+Chenango,OXFORD 1,Registered Voters,,DEM,,,,,,312
+Chenango,OXFORD 2,Registered Voters,,DEM,,,,,,268
+Chenango,PHARSALIA 1,Registered Voters,,DEM,,,,,,90
+Chenango,PITCHER 1,Registered Voters,,DEM,,,,,,81
+Chenango,PLYMOUTH 1,Registered Voters,,DEM,,,,,,224
+Chenango,PRESTON 1,Registered Voters,,DEM,,,,,,151
+Chenango,SHERBURNE 1,Registered Voters,,DEM,,,,,,281
+Chenango,SHERBURNE 2,Registered Voters,,DEM,,,,,,286
+Chenango,SMITHVILLE 1,Registered Voters,,DEM,,,,,,197
+Chenango,SMYRNA 1,Registered Voters,,DEM,,,,,,157
 Chenango,CITY OF NORWICH WARD 1- 6,President,,DEM,Pete Buttigieg,1,0,,5,6
 Chenango,AFTON 1,President,,DEM,Pete Buttigieg,0,0,,1,1
 Chenango,BAINBRIDGE 1,President,,DEM,Pete Buttigieg,0,0,,2,2
@@ -389,32 +389,32 @@ Chenango,SHERBURNE 1,President,,DEM,Blanks,0,0,,0,0
 Chenango,SHERBURNE 2,President,,DEM,Blanks,0,0,,0,0
 Chenango,SMITHVILLE 1,President,,DEM,Blanks,0,0,,0,0
 Chenango,SMYRNA 1,President,,DEM,Blanks,0,0,,0,0
-Chenango,CITY OF NORWICH WARD 1-6,Registered Voters, ,REP,,,,,,245
-Chenango,AFTON 1,Registered Voters, ,REP,,,,,,720
-Chenango,BAINBRIDGE 1,Registered Voters, ,REP,,,,,,770
-Chenango,COLUMBUS 1,Registered Voters, ,REP,,,,,,245
-Chenango,COVENTRY 1,Registered Voters, ,REP,,,,,,441
-Chenango,GERMAN 1,Registered Voters, ,REP,,,,,,89
-Chenango,GREENE 1,Registered Voters, ,REP,,,,,,776
-Chenango,GREENE 2,Registered Voters, ,REP,,,,,,747
-Chenango,GUILFORD 1,Registered Voters, ,REP,,,,,,694
-Chenango,LINCKLAEN 1,Registered Voters, ,REP,,,,,,102
-Chenango,MCDONOUGH 1,Registered Voters, ,REP,,,,,,245
-Chenango,NEW BERLIN 1,Registered Voters, ,REP,,,,,,602
-Chenango,NORTH NORWICH 1,Registered Voters, ,REP,,,,,,480
-Chenango,NORWICH TOWN 1,Registered Voters, ,REP,,,,,,528
-Chenango,NORWICH TOWN 2,Registered Voters, ,REP,,,,,,495
-Chenango,OTSELIC 1,Registered Voters, ,REP,,,,,,214
-Chenango,OXFORD 1,Registered Voters, ,REP,,,,,,578
-Chenango,OXFORD 2,Registered Voters, ,REP,,,,,,373
-Chenango,PHARSALIA 1,Registered Voters, ,REP,,,,,,132
-Chenango,PITCHER 1,Registered Voters, ,REP,,,,,,179
-Chenango,PLYMOUTH 1,Registered Voters, ,REP,,,,,,475
-Chenango,PRESTON 1,Registered Voters, ,REP,,,,,,278
-Chenango,SHERBURNE 1,Registered Voters, ,REP,,,,,,514
-Chenango,SHERBURNE 2,Registered Voters, ,REP,,,,,,561
-Chenango,SMITHVILLE 1,Registered Voters, ,REP,,,,,,359
-Chenango,SMYRNA 1,Registered Voters, ,REP,,,,,,370
+Chenango,CITY OF NORWICH WARD 1-6,Registered Voters,,REP,,,,,,245
+Chenango,AFTON 1,Registered Voters,,REP,,,,,,720
+Chenango,BAINBRIDGE 1,Registered Voters,,REP,,,,,,770
+Chenango,COLUMBUS 1,Registered Voters,,REP,,,,,,245
+Chenango,COVENTRY 1,Registered Voters,,REP,,,,,,441
+Chenango,GERMAN 1,Registered Voters,,REP,,,,,,89
+Chenango,GREENE 1,Registered Voters,,REP,,,,,,776
+Chenango,GREENE 2,Registered Voters,,REP,,,,,,747
+Chenango,GUILFORD 1,Registered Voters,,REP,,,,,,694
+Chenango,LINCKLAEN 1,Registered Voters,,REP,,,,,,102
+Chenango,MCDONOUGH 1,Registered Voters,,REP,,,,,,245
+Chenango,NEW BERLIN 1,Registered Voters,,REP,,,,,,602
+Chenango,NORTH NORWICH 1,Registered Voters,,REP,,,,,,480
+Chenango,NORWICH TOWN 1,Registered Voters,,REP,,,,,,528
+Chenango,NORWICH TOWN 2,Registered Voters,,REP,,,,,,495
+Chenango,OTSELIC 1,Registered Voters,,REP,,,,,,214
+Chenango,OXFORD 1,Registered Voters,,REP,,,,,,578
+Chenango,OXFORD 2,Registered Voters,,REP,,,,,,373
+Chenango,PHARSALIA 1,Registered Voters,,REP,,,,,,132
+Chenango,PITCHER 1,Registered Voters,,REP,,,,,,179
+Chenango,PLYMOUTH 1,Registered Voters,,REP,,,,,,475
+Chenango,PRESTON 1,Registered Voters,,REP,,,,,,278
+Chenango,SHERBURNE 1,Registered Voters,,REP,,,,,,514
+Chenango,SHERBURNE 2,Registered Voters,,REP,,,,,,561
+Chenango,SMITHVILLE 1,Registered Voters,,REP,,,,,,359
+Chenango,SMYRNA 1,Registered Voters,,REP,,,,,,370
 Chenango,CITY OF NORWICH WARD 1-6,U.S. House,22,REP,Claudia Tenney,,,135,143,278
 Chenango,AFTON 1,U.S. House,22,REP,Claudia Tenney,,,45,68,113
 Chenango,BAINBRIDGE 1,U.S. House,22,REP,Claudia Tenney,,,45,86,131
