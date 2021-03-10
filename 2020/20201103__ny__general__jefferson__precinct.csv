@@ -12,7 +12,7 @@ Jefferson,15~2,Registered Voters,,,,,,,1429
 Jefferson,15~3,Registered Voters,,,,,,,538
 Jefferson,Adams 1,Registered Voters,,,,,,,1019
 Jefferson,Adams 2,Registered Voters,,,,,,,662
-Jefferson,Adams 3 ,Registered Voters,,,,,,,1455
+Jefferson,Adams 3,Registered Voters,,,,,,,1455
 Jefferson,Alexandria 1,Registered Voters,,,,,,,703
 Jefferson,Alexandria 2,Registered Voters,,,,,,,810
 Jefferson,Alexandria 3,Registered Voters,,,,,,,1252
@@ -81,7 +81,7 @@ Jefferson,15~2,Ballots Cast,,,,180,19,804,1003
 Jefferson,15~3,Ballots Cast,,,,57,10,237,304
 Jefferson,Adams 1,Ballots Cast,,,,121,8,651,780
 Jefferson,Adams 2,Ballots Cast,,,,67,4,457,528
-Jefferson,Adams 3 ,Ballots Cast,,,,158,6,983,1147
+Jefferson,Adams 3,Ballots Cast,,,,158,6,983,1147
 Jefferson,Alexandria 1,Ballots Cast,,,,94,10,444,548
 Jefferson,Alexandria 2,Ballots Cast,,,,162,1,486,649
 Jefferson,Alexandria 3,Ballots Cast,,,,125,10,820,955
@@ -151,7 +151,7 @@ Jefferson,15~2,President,,Joseph R. Biden,DEM,128,10,331,469
 Jefferson,15~3,President,,Joseph R. Biden,DEM,38,3,104,145
 Jefferson,Adams 1,President,,Joseph R. Biden,DEM,75,1,250,326
 Jefferson,Adams 2,President,,Joseph R. Biden,DEM,40,1,148,189
-Jefferson,Adams 3 ,President,,Joseph R. Biden,DEM,92,3,324,419
+Jefferson,Adams 3,President,,Joseph R. Biden,DEM,92,3,324,419
 Jefferson,Alexandria 1,President,,Joseph R. Biden,DEM,54,3,180,237
 Jefferson,Alexandria 2,President,,Joseph R. Biden,DEM,76,0,161,237
 Jefferson,Alexandria 3,President,,Joseph R. Biden,DEM,73,2,239,314
@@ -221,7 +221,7 @@ Jefferson,15~2,President,,Donald J. Trump,REP,35,7,417,459
 Jefferson,15~3,President,,Donald J. Trump,REP,12,7,112,131
 Jefferson,Adams 1,President,,Donald J. Trump,REP,33,5,354,392
 Jefferson,Adams 2,President,,Donald J. Trump,REP,23,2,274,299
-Jefferson,Adams 3 ,President,,Donald J. Trump,REP,48,3,580,631
+Jefferson,Adams 3,President,,Donald J. Trump,REP,48,3,580,631
 Jefferson,Alexandria 1,President,,Donald J. Trump,REP,28,6,236,270
 Jefferson,Alexandria 2,President,,Donald J. Trump,REP,73,1,281,355
 Jefferson,Alexandria 3,President,,Donald J. Trump,REP,42,7,527,576
@@ -291,7 +291,7 @@ Jefferson,15~2,President,,Donald J. Trump,CON,2,0,19,21
 Jefferson,15~3,President,,Donald J. Trump,CON,0,0,7,7
 Jefferson,Adams 1,President,,Donald J. Trump,CON,6,1,32,39
 Jefferson,Adams 2,President,,Donald J. Trump,CON,2,0,16,18
-Jefferson,Adams 3 ,President,,Donald J. Trump,CON,4,0,48,52
+Jefferson,Adams 3,President,,Donald J. Trump,CON,4,0,48,52
 Jefferson,Alexandria 1,President,,Donald J. Trump,CON,1,1,13,15
 Jefferson,Alexandria 2,President,,Donald J. Trump,CON,8,0,23,31
 Jefferson,Alexandria 3,President,,Donald J. Trump,CON,3,1,26,30
@@ -361,7 +361,7 @@ Jefferson,15~2,President,,Joseph R. Biden,WOR,8,0,11,19
 Jefferson,15~3,President,,Joseph R. Biden,WOR,1,0,8,9
 Jefferson,Adams 1,President,,Joseph R. Biden,WOR,0,0,2,2
 Jefferson,Adams 2,President,,Joseph R. Biden,WOR,1,0,8,9
-Jefferson,Adams 3 ,President,,Joseph R. Biden,WOR,9,0,10,19
+Jefferson,Adams 3,President,,Joseph R. Biden,WOR,9,0,10,19
 Jefferson,Alexandria 1,President,,Joseph R. Biden,WOR,2,0,6,8
 Jefferson,Alexandria 2,President,,Joseph R. Biden,WOR,1,0,4,5
 Jefferson,Alexandria 3,President,,Joseph R. Biden,WOR,1,0,11,12
@@ -431,7 +431,7 @@ Jefferson,15~2,President,,Howie Hawkins,GRE,0,1,2,3
 Jefferson,15~3,President,,Howie Hawkins,GRE,3,0,1,4
 Jefferson,Adams 1,President,,Howie Hawkins,GRE,1,0,0,1
 Jefferson,Adams 2,President,,Howie Hawkins,GRE,0,0,1,1
-Jefferson,Adams 3 ,President,,Howie Hawkins,GRE,1,0,2,3
+Jefferson,Adams 3,President,,Howie Hawkins,GRE,1,0,2,3
 Jefferson,Alexandria 1,President,,Howie Hawkins,GRE,3,0,1,4
 Jefferson,Alexandria 2,President,,Howie Hawkins,GRE,0,0,1,1
 Jefferson,Alexandria 3,President,,Howie Hawkins,GRE,3,0,3,6
@@ -501,7 +501,7 @@ Jefferson,15~2,President,,Jo Jorgensen,LBT,4,0,14,18
 Jefferson,15~3,President,,Jo Jorgensen,LBT,1,0,5,6
 Jefferson,Adams 1,President,,Jo Jorgensen,LBT,2,0,6,8
 Jefferson,Adams 2,President,,Jo Jorgensen,LBT,0,0,5,5
-Jefferson,Adams 3 ,President,,Jo Jorgensen,LBT,2,0,12,14
+Jefferson,Adams 3,President,,Jo Jorgensen,LBT,2,0,12,14
 Jefferson,Alexandria 1,President,,Jo Jorgensen,LBT,0,0,4,4
 Jefferson,Alexandria 2,President,,Jo Jorgensen,LBT,0,0,2,2
 Jefferson,Alexandria 3,President,,Jo Jorgensen,LBT,0,0,5,5
@@ -571,7 +571,7 @@ Jefferson,15~2,President,,Brock Pierce,IND,0,1,9,10
 Jefferson,15~3,President,,Brock Pierce,IND,0,0,0,0
 Jefferson,Adams 1,President,,Brock Pierce,IND,0,0,3,3
 Jefferson,Adams 2,President,,Brock Pierce,IND,1,0,1,2
-Jefferson,Adams 3 ,President,,Brock Pierce,IND,1,0,4,5
+Jefferson,Adams 3,President,,Brock Pierce,IND,1,0,4,5
 Jefferson,Alexandria 1,President,,Brock Pierce,IND,2,0,1,3
 Jefferson,Alexandria 2,President,,Brock Pierce,IND,1,0,3,4
 Jefferson,Alexandria 3,President,,Brock Pierce,IND,2,0,1,3
@@ -641,7 +641,7 @@ Jefferson,15~2,President,,Write-ins,,0,0,0,0
 Jefferson,15~3,President,,Write-ins,,0,0,0,0
 Jefferson,Adams 1,President,,Write-ins,,0,0,0,0
 Jefferson,Adams 2,President,,Write-ins,,0,0,0,0
-Jefferson,Adams 3 ,President,,Write-ins,,0,0,0,0
+Jefferson,Adams 3,President,,Write-ins,,0,0,0,0
 Jefferson,Alexandria 1,President,,Write-ins,,0,0,0,0
 Jefferson,Alexandria 2,President,,Write-ins,,0,0,0,0
 Jefferson,Alexandria 3,President,,Write-ins,,0,0,1,1
@@ -711,7 +711,7 @@ Jefferson,15~2,President,,Blanks,,1,0,1,2
 Jefferson,15~3,President,,Blanks,,0,0,0,0
 Jefferson,Adams 1,President,,Blanks,,2,0,3,5
 Jefferson,Adams 2,President,,Blanks,,0,0,2,2
-Jefferson,Adams 3 ,President,,Blanks,,1,0,0,1
+Jefferson,Adams 3,President,,Blanks,,1,0,0,1
 Jefferson,Alexandria 1,President,,Blanks,,3,0,3,6
 Jefferson,Alexandria 2,President,,Blanks,,2,0,8,10
 Jefferson,Alexandria 3,President,,Blanks,,1,0,3,4
@@ -781,7 +781,7 @@ Jefferson,15~2,President,,Voids,,2,0,0,2
 Jefferson,15~3,President,,Voids,,2,0,0,2
 Jefferson,Adams 1,President,,Voids,,2,1,1,4
 Jefferson,Adams 2,President,,Voids,,0,1,2,3
-Jefferson,Adams 3 ,President,,Voids,,0,0,3,3
+Jefferson,Adams 3,President,,Voids,,0,0,3,3
 Jefferson,Alexandria 1,President,,Voids,,1,0,0,1
 Jefferson,Alexandria 2,President,,Voids,,1,0,3,4
 Jefferson,Alexandria 3,President,,Voids,,0,0,4,4
@@ -851,7 +851,7 @@ Jefferson,15~2,U.S. House,21,Tedra L. Cobb,DEM,115,7,298,420
 Jefferson,15~3,U.S. House,21,Tedra L. Cobb,DEM,37,3,99,139
 Jefferson,Adams 1,U.S. House,21,Tedra L. Cobb,DEM,68,1,204,273
 Jefferson,Adams 2,U.S. House,21,Tedra L. Cobb,DEM,37,1,127,165
-Jefferson,Adams 3 ,U.S. House,21,Tedra L. Cobb,DEM,81,3,276,360
+Jefferson,Adams 3,U.S. House,21,Tedra L. Cobb,DEM,81,3,276,360
 Jefferson,Alexandria 1,U.S. House,21,Tedra L. Cobb,DEM,56,1,168,225
 Jefferson,Alexandria 2,U.S. House,21,Tedra L. Cobb,DEM,76,0,146,222
 Jefferson,Alexandria 3,U.S. House,21,Tedra L. Cobb,DEM,64,2,211,277
@@ -921,7 +921,7 @@ Jefferson,15~2,U.S. House,21,Elise M. Stefanik,REP,41,8,435,484
 Jefferson,15~3,U.S. House,21,Elise M. Stefanik,REP,11,7,110,128
 Jefferson,Adams 1,U.S. House,21,Elise M. Stefanik,REP,39,4,388,431
 Jefferson,Adams 2,U.S. House,21,Elise M. Stefanik,REP,25,2,295,322
-Jefferson,Adams 3 ,U.S. House,21,Elise M. Stefanik,REP,58,2,616,676
+Jefferson,Adams 3,U.S. House,21,Elise M. Stefanik,REP,58,2,616,676
 Jefferson,Alexandria 1,U.S. House,21,Elise M. Stefanik,REP,33,8,241,282
 Jefferson,Alexandria 2,U.S. House,21,Elise M. Stefanik,REP,71,1,302,374
 Jefferson,Alexandria 3,U.S. House,21,Elise M. Stefanik,REP,50,7,540,597
@@ -991,7 +991,7 @@ Jefferson,15~2,U.S. House,21,Elise M. Stefanik,CON,6,1,26,33
 Jefferson,15~3,U.S. House,21,Elise M. Stefanik,CON,1,0,8,9
 Jefferson,Adams 1,U.S. House,21,Elise M. Stefanik,CON,8,1,38,47
 Jefferson,Adams 2,U.S. House,21,Elise M. Stefanik,CON,2,0,20,22
-Jefferson,Adams 3 ,U.S. House,21,Elise M. Stefanik,CON,6,0,55,61
+Jefferson,Adams 3,U.S. House,21,Elise M. Stefanik,CON,6,0,55,61
 Jefferson,Alexandria 1,U.S. House,21,Elise M. Stefanik,CON,2,1,14,17
 Jefferson,Alexandria 2,U.S. House,21,Elise M. Stefanik,CON,10,0,22,32
 Jefferson,Alexandria 3,U.S. House,21,Elise M. Stefanik,CON,6,1,36,43
@@ -1061,7 +1061,7 @@ Jefferson,15~2,U.S. House,21,Tedra L. Cobb,WOR,8,1,23,32
 Jefferson,15~3,U.S. House,21,Tedra L. Cobb,WOR,3,0,5,8
 Jefferson,Adams 1,U.S. House,21,Tedra L. Cobb,WOR,1,0,10,11
 Jefferson,Adams 2,U.S. House,21,Tedra L. Cobb,WOR,1,0,6,7
-Jefferson,Adams 3 ,U.S. House,21,Tedra L. Cobb,WOR,6,0,11,17
+Jefferson,Adams 3,U.S. House,21,Tedra L. Cobb,WOR,6,0,11,17
 Jefferson,Alexandria 1,U.S. House,21,Tedra L. Cobb,WOR,0,0,12,12
 Jefferson,Alexandria 2,U.S. House,21,Tedra L. Cobb,WOR,2,0,6,8
 Jefferson,Alexandria 3,U.S. House,21,Tedra L. Cobb,WOR,2,0,13,15
@@ -1131,7 +1131,7 @@ Jefferson,15~2,U.S. House,21,Elise M. Stefanik,IND,2,0,10,12
 Jefferson,15~3,U.S. House,21,Elise M. Stefanik,IND,1,0,5,6
 Jefferson,Adams 1,U.S. House,21,Elise M. Stefanik,IND,2,0,5,7
 Jefferson,Adams 2,U.S. House,21,Elise M. Stefanik,IND,2,0,6,8
-Jefferson,Adams 3 ,U.S. House,21,Elise M. Stefanik,IND,5,0,12,17
+Jefferson,Adams 3,U.S. House,21,Elise M. Stefanik,IND,5,0,12,17
 Jefferson,Alexandria 1,U.S. House,21,Elise M. Stefanik,IND,0,0,5,5
 Jefferson,Alexandria 2,U.S. House,21,Elise M. Stefanik,IND,2,0,4,6
 Jefferson,Alexandria 3,U.S. House,21,Elise M. Stefanik,IND,1,0,9,10
@@ -1201,7 +1201,7 @@ Jefferson,15~2,U.S. House,21,Write-ins,,0,0,0,0
 Jefferson,15~3,U.S. House,21,Write-ins,,0,0,0,0
 Jefferson,Adams 1,U.S. House,21,Write-ins,,0,0,0,0
 Jefferson,Adams 2,U.S. House,21,Write-ins,,0,0,2,2
-Jefferson,Adams 3 ,U.S. House,21,Write-ins,,0,0,0,0
+Jefferson,Adams 3,U.S. House,21,Write-ins,,0,0,0,0
 Jefferson,Alexandria 1,U.S. House,21,Write-ins,,0,0,0,0
 Jefferson,Alexandria 2,U.S. House,21,Write-ins,,0,0,1,1
 Jefferson,Alexandria 3,U.S. House,21,Write-ins,,0,0,0,0
@@ -1271,7 +1271,7 @@ Jefferson,15~2,U.S. House,21,Blanks,,6,2,12,20
 Jefferson,15~3,U.S. House,21,Blanks,,4,0,10,14
 Jefferson,Adams 1,U.S. House,21,Blanks,,2,1,6,9
 Jefferson,Adams 2,U.S. House,21,Blanks,,0,1,1,2
-Jefferson,Adams 3 ,U.S. House,21,Blanks,,2,1,12,15
+Jefferson,Adams 3,U.S. House,21,Blanks,,2,1,12,15
 Jefferson,Alexandria 1,U.S. House,21,Blanks,,2,0,4,6
 Jefferson,Alexandria 2,U.S. House,21,Blanks,,1,0,5,6
 Jefferson,Alexandria 3,U.S. House,21,Blanks,,2,0,10,12
@@ -1341,7 +1341,7 @@ Jefferson,15~2,U.S. House,21,Voids,,2,0,0,2
 Jefferson,15~3,U.S. House,21,Voids,,0,0,0,0
 Jefferson,Adams 1,U.S. House,21,Voids,,1,1,0,2
 Jefferson,Adams 2,U.S. House,21,Voids,,0,0,0,0
-Jefferson,Adams 3 ,U.S. House,21,Voids,,0,0,1,1
+Jefferson,Adams 3,U.S. House,21,Voids,,0,0,1,1
 Jefferson,Alexandria 1,U.S. House,21,Voids,,1,0,0,1
 Jefferson,Alexandria 2,U.S. House,21,Voids,,0,0,0,0
 Jefferson,Alexandria 3,U.S. House,21,Voids,,0,0,1,1
@@ -1411,7 +1411,7 @@ Jefferson,15~2,State Senate,48,Patricia A. Ritchie,REP,70,9,517,596
 Jefferson,15~3,State Senate,48,Patricia A. Ritchie,REP,17,6,135,158
 Jefferson,Adams 1,State Senate,48,Patricia A. Ritchie,REP,71,3,462,536
 Jefferson,Adams 2,State Senate,48,Patricia A. Ritchie,REP,40,2,345,387
-Jefferson,Adams 3 ,State Senate,48,Patricia A. Ritchie,REP,83,5,685,773
+Jefferson,Adams 3,State Senate,48,Patricia A. Ritchie,REP,83,5,685,773
 Jefferson,Alexandria 1,State Senate,48,Patricia A. Ritchie,REP,51,8,298,357
 Jefferson,Alexandria 2,State Senate,48,Patricia A. Ritchie,REP,103,1,336,440
 Jefferson,Alexandria 3,State Senate,48,Patricia A. Ritchie,REP,72,10,605,687
@@ -1480,7 +1480,7 @@ Jefferson,15~2,State Senate,48,Patricia A. Ritchie,CON,16,3,59,78
 Jefferson,15~3,State Senate,48,Patricia A. Ritchie,CON,6,1,18,25
 Jefferson,Adams 1,State Senate,48,Patricia A. Ritchie,CON,11,1,65,77
 Jefferson,Adams 2,State Senate,48,Patricia A. Ritchie,CON,7,0,31,38
-Jefferson,Adams 3 ,State Senate,48,Patricia A. Ritchie,CON,10,1,87,98
+Jefferson,Adams 3,State Senate,48,Patricia A. Ritchie,CON,10,1,87,98
 Jefferson,Alexandria 1,State Senate,48,Patricia A. Ritchie,CON,8,1,28,37
 Jefferson,Alexandria 2,State Senate,48,Patricia A. Ritchie,CON,12,0,33,45
 Jefferson,Alexandria 3,State Senate,48,Patricia A. Ritchie,CON,16,0,55,71
@@ -1549,7 +1549,7 @@ Jefferson,15~2,State Senate,48,Patricia A. Ritchie,IND,34,0,56,90
 Jefferson,15~3,State Senate,48,Patricia A. Ritchie,IND,15,0,21,36
 Jefferson,Adams 1,State Senate,48,Patricia A. Ritchie,IND,8,0,30,38
 Jefferson,Adams 2,State Senate,48,Patricia A. Ritchie,IND,5,1,23,29
-Jefferson,Adams 3 ,State Senate,48,Patricia A. Ritchie,IND,18,0,58,76
+Jefferson,Adams 3,State Senate,48,Patricia A. Ritchie,IND,18,0,58,76
 Jefferson,Alexandria 1,State Senate,48,Patricia A. Ritchie,IND,5,1,38,44
 Jefferson,Alexandria 2,State Senate,48,Patricia A. Ritchie,IND,13,0,19,32
 Jefferson,Alexandria 3,State Senate,48,Patricia A. Ritchie,IND,7,0,39,46
@@ -1618,7 +1618,7 @@ Jefferson,15~2,State Senate,48,Write-ins,,1,0,2,3
 Jefferson,15~3,State Senate,48,Write-ins,,0,0,0,0
 Jefferson,Adams 1,State Senate,48,Write-ins,,1,0,3,4
 Jefferson,Adams 2,State Senate,48,Write-ins,,1,0,1,2
-Jefferson,Adams 3 ,State Senate,48,Write-ins,,2,0,3,5
+Jefferson,Adams 3,State Senate,48,Write-ins,,2,0,3,5
 Jefferson,Alexandria 1,State Senate,48,Write-ins,,1,0,1,2
 Jefferson,Alexandria 2,State Senate,48,Write-ins,,1,0,0,1
 Jefferson,Alexandria 3,State Senate,48,Write-ins,,1,0,3,4
@@ -1687,7 +1687,7 @@ Jefferson,15~2,State Senate,48,Blanks,,58,7,170,235
 Jefferson,15~3,State Senate,48,Blanks,,19,3,63,85
 Jefferson,Adams 1,State Senate,48,Blanks,,29,4,91,124
 Jefferson,Adams 2,State Senate,48,Blanks,,14,1,57,72
-Jefferson,Adams 3 ,State Senate,48,Blanks,,45,0,150,195
+Jefferson,Adams 3,State Senate,48,Blanks,,45,0,150,195
 Jefferson,Alexandria 1,State Senate,48,Blanks,,29,0,79,108
 Jefferson,Alexandria 2,State Senate,48,Blanks,,33,0,98,131
 Jefferson,Alexandria 3,State Senate,48,Blanks,,29,0,118,147
@@ -1756,7 +1756,7 @@ Jefferson,15~2,State Senate,48,Voids,,1,0,0,1
 Jefferson,15~3,State Senate,48,Voids,,0,0,0,0
 Jefferson,Adams 1,State Senate,48,Voids,,1,0,0,1
 Jefferson,Adams 2,State Senate,48,Voids,,0,0,0,0
-Jefferson,Adams 3 ,State Senate,48,Voids,,0,0,0,0
+Jefferson,Adams 3,State Senate,48,Voids,,0,0,0,0
 Jefferson,Alexandria 1,State Senate,48,Voids,,0,0,0,0
 Jefferson,Alexandria 2,State Senate,48,Voids,,0,0,0,0
 Jefferson,Alexandria 3,State Senate,48,Voids,,0,0,0,0
@@ -2080,7 +2080,7 @@ Jefferson,Philadelphia 2,State Assembly,116,Voids,,0,0,0,0
 Jefferson,Theresa 1,State Assembly,116,Voids,,0,1,1,2
 Jefferson,Adams 1,State Assembly,117,Kenneth Blankenbush,REP,69,3,452,524
 Jefferson,Adams 2,State Assembly,117,Kenneth Blankenbush,REP,40,2,339,381
-Jefferson,Adams 3 ,State Assembly,117,Kenneth Blankenbush,REP,80,5,670,755
+Jefferson,Adams 3,State Assembly,117,Kenneth Blankenbush,REP,80,5,670,755
 Jefferson,Champion 1,State Assembly,117,Kenneth Blankenbush,REP,124,10,735,869
 Jefferson,Champion 2,State Assembly,117,Kenneth Blankenbush,REP,51,2,384,437
 Jefferson,Henderson 1,State Assembly,117,Kenneth Blankenbush,REP,87,1,526,614
@@ -2107,7 +2107,7 @@ Jefferson,Wilna 5,State Assembly,117,Kenneth Blankenbush,REP,65,2,403,470
 Jefferson,Worth 1,State Assembly,117,Kenneth Blankenbush,REP,7,0,95,102
 Jefferson,Adams 1,State Assembly,117,Kenneth Blankenbush,CON,11,1,66,78
 Jefferson,Adams 2,State Assembly,117,Kenneth Blankenbush,CON,7,1,30,38
-Jefferson,Adams 3 ,State Assembly,117,Kenneth Blankenbush,CON,10,1,91,102
+Jefferson,Adams 3,State Assembly,117,Kenneth Blankenbush,CON,10,1,91,102
 Jefferson,Champion 1,State Assembly,117,Kenneth Blankenbush,CON,18,2,63,83
 Jefferson,Champion 2,State Assembly,117,Kenneth Blankenbush,CON,13,1,39,53
 Jefferson,Henderson 1,State Assembly,117,Kenneth Blankenbush,CON,13,0,40,53
@@ -2134,7 +2134,7 @@ Jefferson,Wilna 5,State Assembly,117,Kenneth Blankenbush,CON,9,0,30,39
 Jefferson,Worth 1,State Assembly,117,Kenneth Blankenbush,CON,0,0,9,9
 Jefferson,Adams 1,State Assembly,117,Kenneth Blankenbush,IND,8,0,27,35
 Jefferson,Adams 2,State Assembly,117,Kenneth Blankenbush,IND,5,1,22,28
-Jefferson,Adams 3 ,State Assembly,117,Kenneth Blankenbush,IND,20,0,57,77
+Jefferson,Adams 3,State Assembly,117,Kenneth Blankenbush,IND,20,0,57,77
 Jefferson,Champion 1,State Assembly,117,Kenneth Blankenbush,IND,20,0,51,71
 Jefferson,Champion 2,State Assembly,117,Kenneth Blankenbush,IND,14,0,36,50
 Jefferson,Henderson 1,State Assembly,117,Kenneth Blankenbush,IND,12,0,30,42
@@ -2161,7 +2161,7 @@ Jefferson,Wilna 5,State Assembly,117,Kenneth Blankenbush,IND,10,0,15,25
 Jefferson,Worth 1,State Assembly,117,Kenneth Blankenbush,IND,3,0,3,6
 Jefferson,Adams 1,State Assembly,117,Write-ins,,0,0,1,1
 Jefferson,Adams 2,State Assembly,117,Write-ins,,1,0,1,2
-Jefferson,Adams 3 ,State Assembly,117,Write-ins,,2,0,3,5
+Jefferson,Adams 3,State Assembly,117,Write-ins,,2,0,3,5
 Jefferson,Champion 1,State Assembly,117,Write-ins,,4,0,2,6
 Jefferson,Champion 2,State Assembly,117,Write-ins,,1,0,2,3
 Jefferson,Henderson 1,State Assembly,117,Write-ins,,1,0,1,2
@@ -2188,7 +2188,7 @@ Jefferson,Wilna 5,State Assembly,117,Write-ins,,0,0,0,0
 Jefferson,Worth 1,State Assembly,117,Write-ins,,0,0,0,0
 Jefferson,Adams 1,State Assembly,117,Blanks,,32,4,105,141
 Jefferson,Adams 2,State Assembly,117,Blanks,,14,0,65,79
-Jefferson,Adams 3 ,State Assembly,117,Blanks,,46,0,161,207
+Jefferson,Adams 3,State Assembly,117,Blanks,,46,0,161,207
 Jefferson,Champion 1,State Assembly,117,Blanks,,51,0,115,166
 Jefferson,Champion 2,State Assembly,117,Blanks,,28,1,63,92
 Jefferson,Henderson 1,State Assembly,117,Blanks,,70,1,110,181
@@ -2215,7 +2215,7 @@ Jefferson,Wilna 5,State Assembly,117,Blanks,,17,0,58,75
 Jefferson,Worth 1,State Assembly,117,Blanks,,5,1,23,29
 Jefferson,Adams 1,State Assembly,117,Voids,,1,0,0,1
 Jefferson,Adams 2,State Assembly,117,,,0,0,0,0
-Jefferson,Adams 3 ,State Assembly,117,,,0,0,1,1
+Jefferson,Adams 3,State Assembly,117,,,0,0,1,1
 Jefferson,Champion 1,State Assembly,117,,,0,0,0,0
 Jefferson,Champion 2,State Assembly,117,,,0,0,0,0
 Jefferson,Henderson 1,State Assembly,117,,,0,0,0,0
