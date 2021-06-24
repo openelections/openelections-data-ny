@@ -1,8 +1,8 @@
 candidate,office,district,party,county,precinct,votes
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Middletown - W1-D1,2 W4-D2",48
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Middletown - W1-D1,2 W4-D2",134
-Write-Ins,Governor ,,DEM,Orange,"Middletown - W1-D1,2 W4-D2",1
-Blank & Void,Governor ,,DEM,Orange,"Middletown - W1-D1,2 W4-D2",3
+Cynthia E. Nixon,Governor,,DEM,Orange,"Middletown - W1-D1,2 W4-D2",48
+Andrew M. Cuomo,Governor,,DEM,Orange,"Middletown - W1-D1,2 W4-D2",134
+Write-Ins,Governor,,DEM,Orange,"Middletown - W1-D1,2 W4-D2",1
+Blank & Void,Governor,,DEM,Orange,"Middletown - W1-D1,2 W4-D2",3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Middletown - W1-D1,2 W4-D2",92
 Letitia A. James,Attorney General,,DEM,Orange,"Middletown - W1-D1,2 W4-D2",60
 Leecia R. Eve,Attorney General,,DEM,Orange,"Middletown - W1-D1,2 W4-D2",3
@@ -31,10 +31,10 @@ Blank & Void,State Senate,39,REF,Orange,"Middletown - W1-D1,2 W4-D2",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Middletown - W1-D1,2 W4-D2",4
 Write-Ins,State Senate,42,REF,Orange,"Middletown - W1-D1,2 W4-D2",2
 Blank & Void,State Senate,42,REF,Orange,"Middletown - W1-D1,2 W4-D2",3
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Middletown - W1-D3,4",24
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Middletown - W1-D3,4",42
-Write-Ins,Governor ,,DEM,Orange,"Middletown - W1-D3,4",0
-Blank & Void,Governor ,,DEM,Orange,"Middletown - W1-D3,4",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Middletown - W1-D3,4",24
+Andrew M. Cuomo,Governor,,DEM,Orange,"Middletown - W1-D3,4",42
+Write-Ins,Governor,,DEM,Orange,"Middletown - W1-D3,4",0
+Blank & Void,Governor,,DEM,Orange,"Middletown - W1-D3,4",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Middletown - W1-D3,4",33
 Letitia A. James,Attorney General,,DEM,Orange,"Middletown - W1-D3,4",13
 Leecia R. Eve,Attorney General,,DEM,Orange,"Middletown - W1-D3,4",1
@@ -63,10 +63,10 @@ Blank & Void,State Senate,39,REF,Orange,"Middletown - W1-D3,4",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Middletown - W1-D3,4",1
 Write-Ins,State Senate,42,REF,Orange,"Middletown - W1-D3,4",0
 Blank & Void,State Senate,42,REF,Orange,"Middletown - W1-D3,4",2
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Middletown - W1-D5,6",32
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Middletown - W1-D5,6",69
-Write-Ins,Governor ,,DEM,Orange,"Middletown - W1-D5,6",0
-Blank & Void,Governor ,,DEM,Orange,"Middletown - W1-D5,6",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Middletown - W1-D5,6",32
+Andrew M. Cuomo,Governor,,DEM,Orange,"Middletown - W1-D5,6",69
+Write-Ins,Governor,,DEM,Orange,"Middletown - W1-D5,6",0
+Blank & Void,Governor,,DEM,Orange,"Middletown - W1-D5,6",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Middletown - W1-D5,6",39
 Letitia A. James,Attorney General,,DEM,Orange,"Middletown - W1-D5,6",38
 Leecia R. Eve,Attorney General,,DEM,Orange,"Middletown - W1-D5,6",4
@@ -95,10 +95,10 @@ Blank & Void,State Senate,39,REF,Orange,"Middletown - W1-D5,6",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Middletown - W1-D5,6",0
 Write-Ins,State Senate,42,REF,Orange,"Middletown - W1-D5,6",0
 Blank & Void,State Senate,42,REF,Orange,"Middletown - W1-D5,6",1
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Middletown - W2-D1,4,6 W3-D1,2,4",123
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Middletown - W2-D1,4,6 W3-D1,2,4",245
-Write-Ins,Governor ,,DEM,Orange,"Middletown - W2-D1,4,6 W3-D1,2,4",0
-Blank & Void,Governor ,,DEM,Orange,"Middletown - W2-D1,4,6 W3-D1,2,4",3
+Cynthia E. Nixon,Governor,,DEM,Orange,"Middletown - W2-D1,4,6 W3-D1,2,4",123
+Andrew M. Cuomo,Governor,,DEM,Orange,"Middletown - W2-D1,4,6 W3-D1,2,4",245
+Write-Ins,Governor,,DEM,Orange,"Middletown - W2-D1,4,6 W3-D1,2,4",0
+Blank & Void,Governor,,DEM,Orange,"Middletown - W2-D1,4,6 W3-D1,2,4",3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Middletown - W2-D1,4,6 W3-D1,2,4",181
 Letitia A. James,Attorney General,,DEM,Orange,"Middletown - W2-D1,4,6 W3-D1,2,4",91
 Leecia R. Eve,Attorney General,,DEM,Orange,"Middletown - W2-D1,4,6 W3-D1,2,4",8
@@ -127,10 +127,10 @@ Blank & Void,State Senate,39,REF,Orange,"Middletown - W2-D1,4,6 W3-D1,2,4",9
 Ann G Rabbitt,State Senate,42,REF,Orange,"Middletown - W2-D1,4,6 W3-D1,2,4",
 Write-Ins,State Senate,42,REF,Orange,"Middletown - W2-D1,4,6 W3-D1,2,4",
 Blank & Void,State Senate,42,REF,Orange,"Middletown - W2-D1,4,6 W3-D1,2,4",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Middletown - W2-D2,3,5,7",59
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Middletown - W2-D2,3,5,7",113
-Write-Ins,Governor ,,DEM,Orange,"Middletown - W2-D2,3,5,7",0
-Blank & Void,Governor ,,DEM,Orange,"Middletown - W2-D2,3,5,7",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Middletown - W2-D2,3,5,7",59
+Andrew M. Cuomo,Governor,,DEM,Orange,"Middletown - W2-D2,3,5,7",113
+Write-Ins,Governor,,DEM,Orange,"Middletown - W2-D2,3,5,7",0
+Blank & Void,Governor,,DEM,Orange,"Middletown - W2-D2,3,5,7",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Middletown - W2-D2,3,5,7",75
 Letitia A. James,Attorney General,,DEM,Orange,"Middletown - W2-D2,3,5,7",53
 Leecia R. Eve,Attorney General,,DEM,Orange,"Middletown - W2-D2,3,5,7",3
@@ -159,10 +159,10 @@ Blank & Void,State Senate,39,REF,Orange,"Middletown - W2-D2,3,5,7",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Middletown - W2-D2,3,5,7",2
 Write-Ins,State Senate,42,REF,Orange,"Middletown - W2-D2,3,5,7",6
 Blank & Void,State Senate,42,REF,Orange,"Middletown - W2-D2,3,5,7",4
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Middletown - W3-D3,5,6",25
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Middletown - W3-D3,5,6",56
-Write-Ins,Governor ,,DEM,Orange,"Middletown - W3-D3,5,6",0
-Blank & Void,Governor ,,DEM,Orange,"Middletown - W3-D3,5,6",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Middletown - W3-D3,5,6",25
+Andrew M. Cuomo,Governor,,DEM,Orange,"Middletown - W3-D3,5,6",56
+Write-Ins,Governor,,DEM,Orange,"Middletown - W3-D3,5,6",0
+Blank & Void,Governor,,DEM,Orange,"Middletown - W3-D3,5,6",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Middletown - W3-D3,5,6",41
 Letitia A. James,Attorney General,,DEM,Orange,"Middletown - W3-D3,5,6",28
 Leecia R. Eve,Attorney General,,DEM,Orange,"Middletown - W3-D3,5,6",6
@@ -191,10 +191,10 @@ Blank & Void,State Senate,39,REF,Orange,"Middletown - W3-D3,5,6",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Middletown - W3-D3,5,6",2
 Write-Ins,State Senate,42,REF,Orange,"Middletown - W3-D3,5,6",2
 Blank & Void,State Senate,42,REF,Orange,"Middletown - W3-D3,5,6",2
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Middletown - W4-D1,5",58
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Middletown - W4-D1,5",133
-Write-Ins,Governor ,,DEM,Orange,"Middletown - W4-D1,5",0
-Blank & Void,Governor ,,DEM,Orange,"Middletown - W4-D1,5",4
+Cynthia E. Nixon,Governor,,DEM,Orange,"Middletown - W4-D1,5",58
+Andrew M. Cuomo,Governor,,DEM,Orange,"Middletown - W4-D1,5",133
+Write-Ins,Governor,,DEM,Orange,"Middletown - W4-D1,5",0
+Blank & Void,Governor,,DEM,Orange,"Middletown - W4-D1,5",4
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Middletown - W4-D1,5",83
 Letitia A. James,Attorney General,,DEM,Orange,"Middletown - W4-D1,5",65
 Leecia R. Eve,Attorney General,,DEM,Orange,"Middletown - W4-D1,5",0
@@ -223,10 +223,10 @@ Blank & Void,State Senate,39,REF,Orange,"Middletown - W4-D1,5",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Middletown - W4-D1,5",5
 Write-Ins,State Senate,42,REF,Orange,"Middletown - W4-D1,5",5
 Blank & Void,State Senate,42,REF,Orange,"Middletown - W4-D1,5",1
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Middletown - W4-D3,4",43
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Middletown - W4-D3,4",94
-Write-Ins,Governor ,,DEM,Orange,"Middletown - W4-D3,4",0
-Blank & Void,Governor ,,DEM,Orange,"Middletown - W4-D3,4",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Middletown - W4-D3,4",43
+Andrew M. Cuomo,Governor,,DEM,Orange,"Middletown - W4-D3,4",94
+Write-Ins,Governor,,DEM,Orange,"Middletown - W4-D3,4",0
+Blank & Void,Governor,,DEM,Orange,"Middletown - W4-D3,4",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Middletown - W4-D3,4",73
 Letitia A. James,Attorney General,,DEM,Orange,"Middletown - W4-D3,4",43
 Leecia R. Eve,Attorney General,,DEM,Orange,"Middletown - W4-D3,4",1
@@ -255,10 +255,10 @@ Blank & Void,State Senate,39,REF,Orange,"Middletown - W4-D3,4",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Middletown - W4-D3,4",
 Write-Ins,State Senate,42,REF,Orange,"Middletown - W4-D3,4",
 Blank & Void,State Senate,42,REF,Orange,"Middletown - W4-D3,4",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Middletown - W4-D6,7,8",59
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Middletown - W4-D6,7,8",198
-Write-Ins,Governor ,,DEM,Orange,"Middletown - W4-D6,7,8",0
-Blank & Void,Governor ,,DEM,Orange,"Middletown - W4-D6,7,8",4
+Cynthia E. Nixon,Governor,,DEM,Orange,"Middletown - W4-D6,7,8",59
+Andrew M. Cuomo,Governor,,DEM,Orange,"Middletown - W4-D6,7,8",198
+Write-Ins,Governor,,DEM,Orange,"Middletown - W4-D6,7,8",0
+Blank & Void,Governor,,DEM,Orange,"Middletown - W4-D6,7,8",4
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Middletown - W4-D6,7,8",104
 Letitia A. James,Attorney General,,DEM,Orange,"Middletown - W4-D6,7,8",112
 Leecia R. Eve,Attorney General,,DEM,Orange,"Middletown - W4-D6,7,8",6
@@ -287,10 +287,10 @@ Blank & Void,State Senate,39,REF,Orange,"Middletown - W4-D6,7,8",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Middletown - W4-D6,7,8",3
 Write-Ins,State Senate,42,REF,Orange,"Middletown - W4-D6,7,8",1
 Blank & Void,State Senate,42,REF,Orange,"Middletown - W4-D6,7,8",0
-Cynthia E. Nixon,Governor ,,DEM,Orange,City of Newburgh W1-D1,27
-Andrew M. Cuomo,Governor ,,DEM,Orange,City of Newburgh W1-D1,43
-Write-Ins,Governor ,,DEM,Orange,City of Newburgh W1-D1,0
-Blank & Void,Governor ,,DEM,Orange,City of Newburgh W1-D1,0
+Cynthia E. Nixon,Governor,,DEM,Orange,City of Newburgh W1-D1,27
+Andrew M. Cuomo,Governor,,DEM,Orange,City of Newburgh W1-D1,43
+Write-Ins,Governor,,DEM,Orange,City of Newburgh W1-D1,0
+Blank & Void,Governor,,DEM,Orange,City of Newburgh W1-D1,0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,City of Newburgh W1-D1,27
 Letitia A. James,Attorney General,,DEM,Orange,City of Newburgh W1-D1,21
 Leecia R. Eve,Attorney General,,DEM,Orange,City of Newburgh W1-D1,0
@@ -319,10 +319,10 @@ Blank & Void,State Senate,39,REF,Orange,City of Newburgh W1-D1,1
 Ann G Rabbitt,State Senate,42,REF,Orange,City of Newburgh W1-D1,
 Write-Ins,State Senate,42,REF,Orange,City of Newburgh W1-D1,
 Blank & Void,State Senate,42,REF,Orange,City of Newburgh W1-D1,
-Cynthia E. Nixon,Governor ,,DEM,Orange,City of Newburgh W1-D2,47
-Andrew M. Cuomo,Governor ,,DEM,Orange,City of Newburgh W1-D2,131
-Write-Ins,Governor ,,DEM,Orange,City of Newburgh W1-D2,0
-Blank & Void,Governor ,,DEM,Orange,City of Newburgh W1-D2,4
+Cynthia E. Nixon,Governor,,DEM,Orange,City of Newburgh W1-D2,47
+Andrew M. Cuomo,Governor,,DEM,Orange,City of Newburgh W1-D2,131
+Write-Ins,Governor,,DEM,Orange,City of Newburgh W1-D2,0
+Blank & Void,Governor,,DEM,Orange,City of Newburgh W1-D2,4
 Sean Patrick Maloney,Attorney General,,DEM,Orange,City of Newburgh W1-D2,74
 Letitia A. James,Attorney General,,DEM,Orange,City of Newburgh W1-D2,56
 Leecia R. Eve,Attorney General,,DEM,Orange,City of Newburgh W1-D2,5
@@ -351,10 +351,10 @@ Blank & Void,State Senate,39,REF,Orange,City of Newburgh W1-D2,2
 Ann G Rabbitt,State Senate,42,REF,Orange,City of Newburgh W1-D2,
 Write-Ins,State Senate,42,REF,Orange,City of Newburgh W1-D2,
 Blank & Void,State Senate,42,REF,Orange,City of Newburgh W1-D2,
-Cynthia E. Nixon,Governor ,,DEM,Orange,"City of Newburgh W1-D3,4",104
-Andrew M. Cuomo,Governor ,,DEM,Orange,"City of Newburgh W1-D3,4",143
-Write-Ins,Governor ,,DEM,Orange,"City of Newburgh W1-D3,4",0
-Blank & Void,Governor ,,DEM,Orange,"City of Newburgh W1-D3,4",10
+Cynthia E. Nixon,Governor,,DEM,Orange,"City of Newburgh W1-D3,4",104
+Andrew M. Cuomo,Governor,,DEM,Orange,"City of Newburgh W1-D3,4",143
+Write-Ins,Governor,,DEM,Orange,"City of Newburgh W1-D3,4",0
+Blank & Void,Governor,,DEM,Orange,"City of Newburgh W1-D3,4",10
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"City of Newburgh W1-D3,4",90
 Letitia A. James,Attorney General,,DEM,Orange,"City of Newburgh W1-D3,4",77
 Leecia R. Eve,Attorney General,,DEM,Orange,"City of Newburgh W1-D3,4",6
@@ -383,10 +383,10 @@ Blank & Void,State Senate,39,REF,Orange,"City of Newburgh W1-D3,4",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"City of Newburgh W1-D3,4",
 Write-Ins,State Senate,42,REF,Orange,"City of Newburgh W1-D3,4",
 Blank & Void,State Senate,42,REF,Orange,"City of Newburgh W1-D3,4",
-Cynthia E. Nixon,Governor ,,DEM,Orange,City of Newburgh W2-D1,53
-Andrew M. Cuomo,Governor ,,DEM,Orange,City of Newburgh W2-D1,74
-Write-Ins,Governor ,,DEM,Orange,City of Newburgh W2-D1,0
-Blank & Void,Governor ,,DEM,Orange,City of Newburgh W2-D1,3
+Cynthia E. Nixon,Governor,,DEM,Orange,City of Newburgh W2-D1,53
+Andrew M. Cuomo,Governor,,DEM,Orange,City of Newburgh W2-D1,74
+Write-Ins,Governor,,DEM,Orange,City of Newburgh W2-D1,0
+Blank & Void,Governor,,DEM,Orange,City of Newburgh W2-D1,3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,City of Newburgh W2-D1,43
 Letitia A. James,Attorney General,,DEM,Orange,City of Newburgh W2-D1,28
 Leecia R. Eve,Attorney General,,DEM,Orange,City of Newburgh W2-D1,2
@@ -415,10 +415,10 @@ Blank & Void,State Senate,39,REF,Orange,City of Newburgh W2-D1,0
 Ann G Rabbitt,State Senate,42,REF,Orange,City of Newburgh W2-D1,
 Write-Ins,State Senate,42,REF,Orange,City of Newburgh W2-D1,
 Blank & Void,State Senate,42,REF,Orange,City of Newburgh W2-D1,
-Cynthia E. Nixon,Governor ,,DEM,Orange,City of Newburgh W2-D2,64
-Andrew M. Cuomo,Governor ,,DEM,Orange,City of Newburgh W2-D2,122
-Write-Ins,Governor ,,DEM,Orange,City of Newburgh W2-D2,0
-Blank & Void,Governor ,,DEM,Orange,City of Newburgh W2-D2,5
+Cynthia E. Nixon,Governor,,DEM,Orange,City of Newburgh W2-D2,64
+Andrew M. Cuomo,Governor,,DEM,Orange,City of Newburgh W2-D2,122
+Write-Ins,Governor,,DEM,Orange,City of Newburgh W2-D2,0
+Blank & Void,Governor,,DEM,Orange,City of Newburgh W2-D2,5
 Sean Patrick Maloney,Attorney General,,DEM,Orange,City of Newburgh W2-D2,80
 Letitia A. James,Attorney General,,DEM,Orange,City of Newburgh W2-D2,50
 Leecia R. Eve,Attorney General,,DEM,Orange,City of Newburgh W2-D2,5
@@ -447,10 +447,10 @@ Blank & Void,State Senate,39,REF,Orange,City of Newburgh W2-D2,1
 Ann G Rabbitt,State Senate,42,REF,Orange,City of Newburgh W2-D2,
 Write-Ins,State Senate,42,REF,Orange,City of Newburgh W2-D2,
 Blank & Void,State Senate,42,REF,Orange,City of Newburgh W2-D2,
-Cynthia E. Nixon,Governor ,,DEM,Orange,"City of Newburgh W3-D1,2 W4-D2,4",108
-Andrew M. Cuomo,Governor ,,DEM,Orange,"City of Newburgh W3-D1,2 W4-D2,4",284
-Write-Ins,Governor ,,DEM,Orange,"City of Newburgh W3-D1,2 W4-D2,4",3
-Blank & Void,Governor ,,DEM,Orange,"City of Newburgh W3-D1,2 W4-D2,4",14
+Cynthia E. Nixon,Governor,,DEM,Orange,"City of Newburgh W3-D1,2 W4-D2,4",108
+Andrew M. Cuomo,Governor,,DEM,Orange,"City of Newburgh W3-D1,2 W4-D2,4",284
+Write-Ins,Governor,,DEM,Orange,"City of Newburgh W3-D1,2 W4-D2,4",3
+Blank & Void,Governor,,DEM,Orange,"City of Newburgh W3-D1,2 W4-D2,4",14
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"City of Newburgh W3-D1,2 W4-D2,4",194
 Letitia A. James,Attorney General,,DEM,Orange,"City of Newburgh W3-D1,2 W4-D2,4",109
 Leecia R. Eve,Attorney General,,DEM,Orange,"City of Newburgh W3-D1,2 W4-D2,4",6
@@ -479,10 +479,10 @@ Blank & Void,State Senate,39,REF,Orange,"City of Newburgh W3-D1,2 W4-D2,4",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"City of Newburgh W3-D1,2 W4-D2,4",
 Write-Ins,State Senate,42,REF,Orange,"City of Newburgh W3-D1,2 W4-D2,4",
 Blank & Void,State Senate,42,REF,Orange,"City of Newburgh W3-D1,2 W4-D2,4",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"City of Newburgh W3-D3,4 W4-D1,3,5",78
-Andrew M. Cuomo,Governor ,,DEM,Orange,"City of Newburgh W3-D3,4 W4-D1,3,5",330
-Write-Ins,Governor ,,DEM,Orange,"City of Newburgh W3-D3,4 W4-D1,3,5",0
-Blank & Void,Governor ,,DEM,Orange,"City of Newburgh W3-D3,4 W4-D1,3,5",11
+Cynthia E. Nixon,Governor,,DEM,Orange,"City of Newburgh W3-D3,4 W4-D1,3,5",78
+Andrew M. Cuomo,Governor,,DEM,Orange,"City of Newburgh W3-D3,4 W4-D1,3,5",330
+Write-Ins,Governor,,DEM,Orange,"City of Newburgh W3-D3,4 W4-D1,3,5",0
+Blank & Void,Governor,,DEM,Orange,"City of Newburgh W3-D3,4 W4-D1,3,5",11
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"City of Newburgh W3-D3,4 W4-D1,3,5",215
 Letitia A. James,Attorney General,,DEM,Orange,"City of Newburgh W3-D3,4 W4-D1,3,5",107
 Leecia R. Eve,Attorney General,,DEM,Orange,"City of Newburgh W3-D3,4 W4-D1,3,5",21
@@ -511,10 +511,10 @@ Blank & Void,State Senate,39,REF,Orange,"City of Newburgh W3-D3,4 W4-D1,3,5",1
 Ann G Rabbitt,State Senate,42,REF,Orange,"City of Newburgh W3-D3,4 W4-D1,3,5",
 Write-Ins,State Senate,42,REF,Orange,"City of Newburgh W3-D3,4 W4-D1,3,5",
 Blank & Void,State Senate,42,REF,Orange,"City of Newburgh W3-D3,4 W4-D1,3,5",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Port Jervis W1-D1,2",32
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Port Jervis W1-D1,2",56
-Write-Ins,Governor ,,DEM,Orange,"Port Jervis W1-D1,2",0
-Blank & Void,Governor ,,DEM,Orange,"Port Jervis W1-D1,2",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Port Jervis W1-D1,2",32
+Andrew M. Cuomo,Governor,,DEM,Orange,"Port Jervis W1-D1,2",56
+Write-Ins,Governor,,DEM,Orange,"Port Jervis W1-D1,2",0
+Blank & Void,Governor,,DEM,Orange,"Port Jervis W1-D1,2",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Port Jervis W1-D1,2",53
 Letitia A. James,Attorney General,,DEM,Orange,"Port Jervis W1-D1,2",14
 Leecia R. Eve,Attorney General,,DEM,Orange,"Port Jervis W1-D1,2",1
@@ -543,10 +543,10 @@ Blank & Void,State Senate,39,REF,Orange,"Port Jervis W1-D1,2",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Port Jervis W1-D1,2",5
 Write-Ins,State Senate,42,REF,Orange,"Port Jervis W1-D1,2",3
 Blank & Void,State Senate,42,REF,Orange,"Port Jervis W1-D1,2",1
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Port Jervis W2-D1,2",27
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Port Jervis W2-D1,2",68
-Write-Ins,Governor ,,DEM,Orange,"Port Jervis W2-D1,2",0
-Blank & Void,Governor ,,DEM,Orange,"Port Jervis W2-D1,2",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Port Jervis W2-D1,2",27
+Andrew M. Cuomo,Governor,,DEM,Orange,"Port Jervis W2-D1,2",68
+Write-Ins,Governor,,DEM,Orange,"Port Jervis W2-D1,2",0
+Blank & Void,Governor,,DEM,Orange,"Port Jervis W2-D1,2",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Port Jervis W2-D1,2",40
 Letitia A. James,Attorney General,,DEM,Orange,"Port Jervis W2-D1,2",18
 Leecia R. Eve,Attorney General,,DEM,Orange,"Port Jervis W2-D1,2",2
@@ -575,10 +575,10 @@ Blank & Void,State Senate,39,REF,Orange,"Port Jervis W2-D1,2",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Port Jervis W2-D1,2",1
 Write-Ins,State Senate,42,REF,Orange,"Port Jervis W2-D1,2",2
 Blank & Void,State Senate,42,REF,Orange,"Port Jervis W2-D1,2",0
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Port Jervis W3-D1,2",36
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Port Jervis W3-D1,2",70
-Write-Ins,Governor ,,DEM,Orange,"Port Jervis W3-D1,2",0
-Blank & Void,Governor ,,DEM,Orange,"Port Jervis W3-D1,2",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Port Jervis W3-D1,2",36
+Andrew M. Cuomo,Governor,,DEM,Orange,"Port Jervis W3-D1,2",70
+Write-Ins,Governor,,DEM,Orange,"Port Jervis W3-D1,2",0
+Blank & Void,Governor,,DEM,Orange,"Port Jervis W3-D1,2",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Port Jervis W3-D1,2",58
 Letitia A. James,Attorney General,,DEM,Orange,"Port Jervis W3-D1,2",16
 Leecia R. Eve,Attorney General,,DEM,Orange,"Port Jervis W3-D1,2",3
@@ -607,10 +607,10 @@ Blank & Void,State Senate,39,REF,Orange,"Port Jervis W3-D1,2",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Port Jervis W3-D1,2",4
 Write-Ins,State Senate,42,REF,Orange,"Port Jervis W3-D1,2",2
 Blank & Void,State Senate,42,REF,Orange,"Port Jervis W3-D1,2",0
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Port Jervis W4-D1,2",35
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Port Jervis W4-D1,2",67
-Write-Ins,Governor ,,DEM,Orange,"Port Jervis W4-D1,2",0
-Blank & Void,Governor ,,DEM,Orange,"Port Jervis W4-D1,2",4
+Cynthia E. Nixon,Governor,,DEM,Orange,"Port Jervis W4-D1,2",35
+Andrew M. Cuomo,Governor,,DEM,Orange,"Port Jervis W4-D1,2",67
+Write-Ins,Governor,,DEM,Orange,"Port Jervis W4-D1,2",0
+Blank & Void,Governor,,DEM,Orange,"Port Jervis W4-D1,2",4
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Port Jervis W4-D1,2",49
 Letitia A. James,Attorney General,,DEM,Orange,"Port Jervis W4-D1,2",22
 Leecia R. Eve,Attorney General,,DEM,Orange,"Port Jervis W4-D1,2",2
@@ -639,10 +639,10 @@ Blank & Void,State Senate,39,REF,Orange,"Port Jervis W4-D1,2",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Port Jervis W4-D1,2",11
 Write-Ins,State Senate,42,REF,Orange,"Port Jervis W4-D1,2",0
 Blank & Void,State Senate,42,REF,Orange,"Port Jervis W4-D1,2",3
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Blooming Grove W1-D1,2,4 W2-D1,2,3",106
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Blooming Grove W1-D1,2,4 W2-D1,2,3",217
-Write-Ins,Governor ,,DEM,Orange,"Blooming Grove W1-D1,2,4 W2-D1,2,3",0
-Blank & Void,Governor ,,DEM,Orange,"Blooming Grove W1-D1,2,4 W2-D1,2,3",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Blooming Grove W1-D1,2,4 W2-D1,2,3",106
+Andrew M. Cuomo,Governor,,DEM,Orange,"Blooming Grove W1-D1,2,4 W2-D1,2,3",217
+Write-Ins,Governor,,DEM,Orange,"Blooming Grove W1-D1,2,4 W2-D1,2,3",0
+Blank & Void,Governor,,DEM,Orange,"Blooming Grove W1-D1,2,4 W2-D1,2,3",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Blooming Grove W1-D1,2,4 W2-D1,2,3",167
 Letitia A. James,Attorney General,,DEM,Orange,"Blooming Grove W1-D1,2,4 W2-D1,2,3",85
 Leecia R. Eve,Attorney General,,DEM,Orange,"Blooming Grove W1-D1,2,4 W2-D1,2,3",11
@@ -671,10 +671,10 @@ Blank & Void,State Senate,39,REF,Orange,"Blooming Grove W1-D1,2,4 W2-D1,2,3",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Blooming Grove W1-D1,2,4 W2-D1,2,3",
 Write-Ins,State Senate,42,REF,Orange,"Blooming Grove W1-D1,2,4 W2-D1,2,3",
 Blank & Void,State Senate,42,REF,Orange,"Blooming Grove W1-D1,2,4 W2-D1,2,3",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Blooming Grove W1-D3 W3-D1 W5-D1,2",75
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Blooming Grove W1-D3 W3-D1 W5-D1,2",101
-Write-Ins,Governor ,,DEM,Orange,"Blooming Grove W1-D3 W3-D1 W5-D1,2",0
-Blank & Void,Governor ,,DEM,Orange,"Blooming Grove W1-D3 W3-D1 W5-D1,2",3
+Cynthia E. Nixon,Governor,,DEM,Orange,"Blooming Grove W1-D3 W3-D1 W5-D1,2",75
+Andrew M. Cuomo,Governor,,DEM,Orange,"Blooming Grove W1-D3 W3-D1 W5-D1,2",101
+Write-Ins,Governor,,DEM,Orange,"Blooming Grove W1-D3 W3-D1 W5-D1,2",0
+Blank & Void,Governor,,DEM,Orange,"Blooming Grove W1-D3 W3-D1 W5-D1,2",3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Blooming Grove W1-D3 W3-D1 W5-D1,2",75
 Letitia A. James,Attorney General,,DEM,Orange,"Blooming Grove W1-D3 W3-D1 W5-D1,2",43
 Leecia R. Eve,Attorney General,,DEM,Orange,"Blooming Grove W1-D3 W3-D1 W5-D1,2",4
@@ -703,10 +703,10 @@ Blank & Void,State Senate,39,REF,Orange,"Blooming Grove W1-D3 W3-D1 W5-D1,2",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Blooming Grove W1-D3 W3-D1 W5-D1,2",
 Write-Ins,State Senate,42,REF,Orange,"Blooming Grove W1-D3 W3-D1 W5-D1,2",
 Blank & Void,State Senate,42,REF,Orange,"Blooming Grove W1-D3 W3-D1 W5-D1,2",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Blooming Grove W3-D2,3",48
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Blooming Grove W3-D2,3",29
-Write-Ins,Governor ,,DEM,Orange,"Blooming Grove W3-D2,3",0
-Blank & Void,Governor ,,DEM,Orange,"Blooming Grove W3-D2,3",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Blooming Grove W3-D2,3",48
+Andrew M. Cuomo,Governor,,DEM,Orange,"Blooming Grove W3-D2,3",29
+Write-Ins,Governor,,DEM,Orange,"Blooming Grove W3-D2,3",0
+Blank & Void,Governor,,DEM,Orange,"Blooming Grove W3-D2,3",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Blooming Grove W3-D2,3",30
 Letitia A. James,Attorney General,,DEM,Orange,"Blooming Grove W3-D2,3",19
 Leecia R. Eve,Attorney General,,DEM,Orange,"Blooming Grove W3-D2,3",0
@@ -735,10 +735,10 @@ Blank & Void,State Senate,39,REF,Orange,"Blooming Grove W3-D2,3",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Blooming Grove W3-D2,3",
 Write-Ins,State Senate,42,REF,Orange,"Blooming Grove W3-D2,3",
 Blank & Void,State Senate,42,REF,Orange,"Blooming Grove W3-D2,3",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Blooming Grove W3-D4, W4-D1,2,3, W5-D5,W6-D1",87
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Blooming Grove W3-D4, W4-D1,2,3, W5-D5,W6-D1",99
-Write-Ins,Governor ,,DEM,Orange,"Blooming Grove W3-D4, W4-D1,2,3, W5-D5,W6-D1",1
-Blank & Void,Governor ,,DEM,Orange,"Blooming Grove W3-D4, W4-D1,2,3, W5-D5,W6-D1",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Blooming Grove W3-D4, W4-D1,2,3, W5-D5,W6-D1",87
+Andrew M. Cuomo,Governor,,DEM,Orange,"Blooming Grove W3-D4, W4-D1,2,3, W5-D5,W6-D1",99
+Write-Ins,Governor,,DEM,Orange,"Blooming Grove W3-D4, W4-D1,2,3, W5-D5,W6-D1",1
+Blank & Void,Governor,,DEM,Orange,"Blooming Grove W3-D4, W4-D1,2,3, W5-D5,W6-D1",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Blooming Grove W3-D4, W4-D1,2,3, W5-D5,W6-D1",76
 Letitia A. James,Attorney General,,DEM,Orange,"Blooming Grove W3-D4, W4-D1,2,3, W5-D5,W6-D1",44
 Leecia R. Eve,Attorney General,,DEM,Orange,"Blooming Grove W3-D4, W4-D1,2,3, W5-D5,W6-D1",8
@@ -767,10 +767,10 @@ Blank & Void,State Senate,39,REF,Orange,"Blooming Grove W3-D4, W4-D1,2,3, W5-D5,
 Ann G Rabbitt,State Senate,42,REF,Orange,"Blooming Grove W3-D4, W4-D1,2,3, W5-D5,W6-D1",
 Write-Ins,State Senate,42,REF,Orange,"Blooming Grove W3-D4, W4-D1,2,3, W5-D5,W6-D1",
 Blank & Void,State Senate,42,REF,Orange,"Blooming Grove W3-D4, W4-D1,2,3, W5-D5,W6-D1",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Blooming Grove W5-D3,4",41
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Blooming Grove W5-D3,4",45
-Write-Ins,Governor ,,DEM,Orange,"Blooming Grove W5-D3,4",1
-Blank & Void,Governor ,,DEM,Orange,"Blooming Grove W5-D3,4",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Blooming Grove W5-D3,4",41
+Andrew M. Cuomo,Governor,,DEM,Orange,"Blooming Grove W5-D3,4",45
+Write-Ins,Governor,,DEM,Orange,"Blooming Grove W5-D3,4",1
+Blank & Void,Governor,,DEM,Orange,"Blooming Grove W5-D3,4",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Blooming Grove W5-D3,4",40
 Letitia A. James,Attorney General,,DEM,Orange,"Blooming Grove W5-D3,4",20
 Leecia R. Eve,Attorney General,,DEM,Orange,"Blooming Grove W5-D3,4",1
@@ -799,10 +799,10 @@ Blank & Void,State Senate,39,REF,Orange,"Blooming Grove W5-D3,4",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Blooming Grove W5-D3,4",
 Write-Ins,State Senate,42,REF,Orange,"Blooming Grove W5-D3,4",
 Blank & Void,State Senate,42,REF,Orange,"Blooming Grove W5-D3,4",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Blooming Grove W6-D2,3,4",56
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Blooming Grove W6-D2,3,4",54
-Write-Ins,Governor ,,DEM,Orange,"Blooming Grove W6-D2,3,4",0
-Blank & Void,Governor ,,DEM,Orange,"Blooming Grove W6-D2,3,4",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Blooming Grove W6-D2,3,4",56
+Andrew M. Cuomo,Governor,,DEM,Orange,"Blooming Grove W6-D2,3,4",54
+Write-Ins,Governor,,DEM,Orange,"Blooming Grove W6-D2,3,4",0
+Blank & Void,Governor,,DEM,Orange,"Blooming Grove W6-D2,3,4",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Blooming Grove W6-D2,3,4",54
 Letitia A. James,Attorney General,,DEM,Orange,"Blooming Grove W6-D2,3,4",8
 Leecia R. Eve,Attorney General,,DEM,Orange,"Blooming Grove W6-D2,3,4",3
@@ -831,10 +831,10 @@ Blank & Void,State Senate,39,REF,Orange,"Blooming Grove W6-D2,3,4",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Blooming Grove W6-D2,3,4",
 Write-Ins,State Senate,42,REF,Orange,"Blooming Grove W6-D2,3,4",
 Blank & Void,State Senate,42,REF,Orange,"Blooming Grove W6-D2,3,4",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Chester D-1,2",40
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Chester D-1,2",86
-Write-Ins,Governor ,,DEM,Orange,"Chester D-1,2",0
-Blank & Void,Governor ,,DEM,Orange,"Chester D-1,2",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Chester D-1,2",40
+Andrew M. Cuomo,Governor,,DEM,Orange,"Chester D-1,2",86
+Write-Ins,Governor,,DEM,Orange,"Chester D-1,2",0
+Blank & Void,Governor,,DEM,Orange,"Chester D-1,2",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Chester D-1,2",62
 Letitia A. James,Attorney General,,DEM,Orange,"Chester D-1,2",36
 Leecia R. Eve,Attorney General,,DEM,Orange,"Chester D-1,2",2
@@ -863,10 +863,10 @@ Blank & Void,State Senate,39,REF,Orange,"Chester D-1,2",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Chester D-1,2",
 Write-Ins,State Senate,42,REF,Orange,"Chester D-1,2",
 Blank & Void,State Senate,42,REF,Orange,"Chester D-1,2",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Chester D-3,7,12",98
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Chester D-3,7,12",105
-Write-Ins,Governor ,,DEM,Orange,"Chester D-3,7,12",0
-Blank & Void,Governor ,,DEM,Orange,"Chester D-3,7,12",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Chester D-3,7,12",98
+Andrew M. Cuomo,Governor,,DEM,Orange,"Chester D-3,7,12",105
+Write-Ins,Governor,,DEM,Orange,"Chester D-3,7,12",0
+Blank & Void,Governor,,DEM,Orange,"Chester D-3,7,12",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Chester D-3,7,12",82
 Letitia A. James,Attorney General,,DEM,Orange,"Chester D-3,7,12",37
 Leecia R. Eve,Attorney General,,DEM,Orange,"Chester D-3,7,12",4
@@ -895,10 +895,10 @@ Blank & Void,State Senate,39,REF,Orange,"Chester D-3,7,12",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Chester D-3,7,12",
 Write-Ins,State Senate,42,REF,Orange,"Chester D-3,7,12",
 Blank & Void,State Senate,42,REF,Orange,"Chester D-3,7,12",
-Cynthia E. Nixon,Governor ,,DEM,Orange,Chester D-4,34
-Andrew M. Cuomo,Governor ,,DEM,Orange,Chester D-4,47
-Write-Ins,Governor ,,DEM,Orange,Chester D-4,0
-Blank & Void,Governor ,,DEM,Orange,Chester D-4,3
+Cynthia E. Nixon,Governor,,DEM,Orange,Chester D-4,34
+Andrew M. Cuomo,Governor,,DEM,Orange,Chester D-4,47
+Write-Ins,Governor,,DEM,Orange,Chester D-4,0
+Blank & Void,Governor,,DEM,Orange,Chester D-4,3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Chester D-4,34
 Letitia A. James,Attorney General,,DEM,Orange,Chester D-4,28
 Leecia R. Eve,Attorney General,,DEM,Orange,Chester D-4,2
@@ -927,10 +927,10 @@ Blank & Void,State Senate,39,REF,Orange,Chester D-4,0
 Ann G Rabbitt,State Senate,42,REF,Orange,Chester D-4,
 Write-Ins,State Senate,42,REF,Orange,Chester D-4,
 Blank & Void,State Senate,42,REF,Orange,Chester D-4,
-Cynthia E. Nixon,Governor ,,DEM,Orange,Chester D-5,26
-Andrew M. Cuomo,Governor ,,DEM,Orange,Chester D-5,22
-Write-Ins,Governor ,,DEM,Orange,Chester D-5,0
-Blank & Void,Governor ,,DEM,Orange,Chester D-5,0
+Cynthia E. Nixon,Governor,,DEM,Orange,Chester D-5,26
+Andrew M. Cuomo,Governor,,DEM,Orange,Chester D-5,22
+Write-Ins,Governor,,DEM,Orange,Chester D-5,0
+Blank & Void,Governor,,DEM,Orange,Chester D-5,0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Chester D-5,30
 Letitia A. James,Attorney General,,DEM,Orange,Chester D-5,10
 Leecia R. Eve,Attorney General,,DEM,Orange,Chester D-5,0
@@ -959,10 +959,10 @@ Blank & Void,State Senate,39,REF,Orange,Chester D-5,0
 Ann G Rabbitt,State Senate,42,REF,Orange,Chester D-5,
 Write-Ins,State Senate,42,REF,Orange,Chester D-5,
 Blank & Void,State Senate,42,REF,Orange,Chester D-5,
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Chester D-6,10,11",76
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Chester D-6,10,11",85
-Write-Ins,Governor ,,DEM,Orange,"Chester D-6,10,11",0
-Blank & Void,Governor ,,DEM,Orange,"Chester D-6,10,11",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Chester D-6,10,11",76
+Andrew M. Cuomo,Governor,,DEM,Orange,"Chester D-6,10,11",85
+Write-Ins,Governor,,DEM,Orange,"Chester D-6,10,11",0
+Blank & Void,Governor,,DEM,Orange,"Chester D-6,10,11",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Chester D-6,10,11",78
 Letitia A. James,Attorney General,,DEM,Orange,"Chester D-6,10,11",24
 Leecia R. Eve,Attorney General,,DEM,Orange,"Chester D-6,10,11",3
@@ -991,10 +991,10 @@ Blank & Void,State Senate,39,REF,Orange,"Chester D-6,10,11",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Chester D-6,10,11",
 Write-Ins,State Senate,42,REF,Orange,"Chester D-6,10,11",
 Blank & Void,State Senate,42,REF,Orange,"Chester D-6,10,11",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Chester D-8,9",52
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Chester D-8,9",88
-Write-Ins,Governor ,,DEM,Orange,"Chester D-8,9",0
-Blank & Void,Governor ,,DEM,Orange,"Chester D-8,9",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Chester D-8,9",52
+Andrew M. Cuomo,Governor,,DEM,Orange,"Chester D-8,9",88
+Write-Ins,Governor,,DEM,Orange,"Chester D-8,9",0
+Blank & Void,Governor,,DEM,Orange,"Chester D-8,9",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Chester D-8,9",65
 Letitia A. James,Attorney General,,DEM,Orange,"Chester D-8,9",45
 Leecia R. Eve,Attorney General,,DEM,Orange,"Chester D-8,9",9
@@ -1023,10 +1023,10 @@ Blank & Void,State Senate,39,REF,Orange,"Chester D-8,9",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Chester D-8,9",
 Write-Ins,State Senate,42,REF,Orange,"Chester D-8,9",
 Blank & Void,State Senate,42,REF,Orange,"Chester D-8,9",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Cornwall D-1,4,8",146
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Cornwall D-1,4,8",128
-Write-Ins,Governor ,,DEM,Orange,"Cornwall D-1,4,8",1
-Blank & Void,Governor ,,DEM,Orange,"Cornwall D-1,4,8",5
+Cynthia E. Nixon,Governor,,DEM,Orange,"Cornwall D-1,4,8",146
+Andrew M. Cuomo,Governor,,DEM,Orange,"Cornwall D-1,4,8",128
+Write-Ins,Governor,,DEM,Orange,"Cornwall D-1,4,8",1
+Blank & Void,Governor,,DEM,Orange,"Cornwall D-1,4,8",5
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Cornwall D-1,4,8",127
 Letitia A. James,Attorney General,,DEM,Orange,"Cornwall D-1,4,8",19
 Leecia R. Eve,Attorney General,,DEM,Orange,"Cornwall D-1,4,8",4
@@ -1055,10 +1055,10 @@ Blank & Void,State Senate,39,REF,Orange,"Cornwall D-1,4,8",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Cornwall D-1,4,8",
 Write-Ins,State Senate,42,REF,Orange,"Cornwall D-1,4,8",
 Blank & Void,State Senate,42,REF,Orange,"Cornwall D-1,4,8",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Cornwall D-2,7,10",65
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Cornwall D-2,7,10",68
-Write-Ins,Governor ,,DEM,Orange,"Cornwall D-2,7,10",0
-Blank & Void,Governor ,,DEM,Orange,"Cornwall D-2,7,10",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Cornwall D-2,7,10",65
+Andrew M. Cuomo,Governor,,DEM,Orange,"Cornwall D-2,7,10",68
+Write-Ins,Governor,,DEM,Orange,"Cornwall D-2,7,10",0
+Blank & Void,Governor,,DEM,Orange,"Cornwall D-2,7,10",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Cornwall D-2,7,10",63
 Letitia A. James,Attorney General,,DEM,Orange,"Cornwall D-2,7,10",13
 Leecia R. Eve,Attorney General,,DEM,Orange,"Cornwall D-2,7,10",1
@@ -1087,10 +1087,10 @@ Blank & Void,State Senate,39,REF,Orange,"Cornwall D-2,7,10",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Cornwall D-2,7,10",
 Write-Ins,State Senate,42,REF,Orange,"Cornwall D-2,7,10",
 Blank & Void,State Senate,42,REF,Orange,"Cornwall D-2,7,10",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Cornwall D-3,11",97
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Cornwall D-3,11",77
-Write-Ins,Governor ,,DEM,Orange,"Cornwall D-3,11",0
-Blank & Void,Governor ,,DEM,Orange,"Cornwall D-3,11",5
+Cynthia E. Nixon,Governor,,DEM,Orange,"Cornwall D-3,11",97
+Andrew M. Cuomo,Governor,,DEM,Orange,"Cornwall D-3,11",77
+Write-Ins,Governor,,DEM,Orange,"Cornwall D-3,11",0
+Blank & Void,Governor,,DEM,Orange,"Cornwall D-3,11",5
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Cornwall D-3,11",56
 Letitia A. James,Attorney General,,DEM,Orange,"Cornwall D-3,11",24
 Leecia R. Eve,Attorney General,,DEM,Orange,"Cornwall D-3,11",2
@@ -1119,10 +1119,10 @@ Blank & Void,State Senate,39,REF,Orange,"Cornwall D-3,11",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Cornwall D-3,11",
 Write-Ins,State Senate,42,REF,Orange,"Cornwall D-3,11",
 Blank & Void,State Senate,42,REF,Orange,"Cornwall D-3,11",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Cornwall D-5,9,12,13",100
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Cornwall D-5,9,12,13",145
-Write-Ins,Governor ,,DEM,Orange,"Cornwall D-5,9,12,13",1
-Blank & Void,Governor ,,DEM,Orange,"Cornwall D-5,9,12,13",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Cornwall D-5,9,12,13",100
+Andrew M. Cuomo,Governor,,DEM,Orange,"Cornwall D-5,9,12,13",145
+Write-Ins,Governor,,DEM,Orange,"Cornwall D-5,9,12,13",1
+Blank & Void,Governor,,DEM,Orange,"Cornwall D-5,9,12,13",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Cornwall D-5,9,12,13",117
 Letitia A. James,Attorney General,,DEM,Orange,"Cornwall D-5,9,12,13",34
 Leecia R. Eve,Attorney General,,DEM,Orange,"Cornwall D-5,9,12,13",3
@@ -1151,10 +1151,10 @@ Blank & Void,State Senate,39,REF,Orange,"Cornwall D-5,9,12,13",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Cornwall D-5,9,12,13",
 Write-Ins,State Senate,42,REF,Orange,"Cornwall D-5,9,12,13",
 Blank & Void,State Senate,42,REF,Orange,"Cornwall D-5,9,12,13",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Cornwall D-6,14",67
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Cornwall D-6,14",61
-Write-Ins,Governor ,,DEM,Orange,"Cornwall D-6,14",0
-Blank & Void,Governor ,,DEM,Orange,"Cornwall D-6,14",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Cornwall D-6,14",67
+Andrew M. Cuomo,Governor,,DEM,Orange,"Cornwall D-6,14",61
+Write-Ins,Governor,,DEM,Orange,"Cornwall D-6,14",0
+Blank & Void,Governor,,DEM,Orange,"Cornwall D-6,14",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Cornwall D-6,14",61
 Letitia A. James,Attorney General,,DEM,Orange,"Cornwall D-6,14",19
 Leecia R. Eve,Attorney General,,DEM,Orange,"Cornwall D-6,14",2
@@ -1183,10 +1183,10 @@ Blank & Void,State Senate,39,REF,Orange,"Cornwall D-6,14",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Cornwall D-6,14",
 Write-Ins,State Senate,42,REF,Orange,"Cornwall D-6,14",
 Blank & Void,State Senate,42,REF,Orange,"Cornwall D-6,14",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Crawford D-1,6",43
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Crawford D-1,6",66
-Write-Ins,Governor ,,DEM,Orange,"Crawford D-1,6",0
-Blank & Void,Governor ,,DEM,Orange,"Crawford D-1,6",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Crawford D-1,6",43
+Andrew M. Cuomo,Governor,,DEM,Orange,"Crawford D-1,6",66
+Write-Ins,Governor,,DEM,Orange,"Crawford D-1,6",0
+Blank & Void,Governor,,DEM,Orange,"Crawford D-1,6",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Crawford D-1,6",49
 Letitia A. James,Attorney General,,DEM,Orange,"Crawford D-1,6",14
 Leecia R. Eve,Attorney General,,DEM,Orange,"Crawford D-1,6",3
@@ -1215,10 +1215,10 @@ Blank & Void,State Senate,39,REF,Orange,"Crawford D-1,6",3
 Ann G Rabbitt,State Senate,42,REF,Orange,"Crawford D-1,6",
 Write-Ins,State Senate,42,REF,Orange,"Crawford D-1,6",
 Blank & Void,State Senate,42,REF,Orange,"Crawford D-1,6",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Crawford D-2,8",34
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Crawford D-2,8",53
-Write-Ins,Governor ,,DEM,Orange,"Crawford D-2,8",0
-Blank & Void,Governor ,,DEM,Orange,"Crawford D-2,8",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Crawford D-2,8",34
+Andrew M. Cuomo,Governor,,DEM,Orange,"Crawford D-2,8",53
+Write-Ins,Governor,,DEM,Orange,"Crawford D-2,8",0
+Blank & Void,Governor,,DEM,Orange,"Crawford D-2,8",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Crawford D-2,8",43
 Letitia A. James,Attorney General,,DEM,Orange,"Crawford D-2,8",18
 Leecia R. Eve,Attorney General,,DEM,Orange,"Crawford D-2,8",2
@@ -1247,10 +1247,10 @@ Blank & Void,State Senate,39,REF,Orange,"Crawford D-2,8",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Crawford D-2,8",
 Write-Ins,State Senate,42,REF,Orange,"Crawford D-2,8",
 Blank & Void,State Senate,42,REF,Orange,"Crawford D-2,8",
-Cynthia E. Nixon,Governor ,,DEM,Orange,Crawford D-3,29
-Andrew M. Cuomo,Governor ,,DEM,Orange,Crawford D-3,30
-Write-Ins,Governor ,,DEM,Orange,Crawford D-3,0
-Blank & Void,Governor ,,DEM,Orange,Crawford D-3,0
+Cynthia E. Nixon,Governor,,DEM,Orange,Crawford D-3,29
+Andrew M. Cuomo,Governor,,DEM,Orange,Crawford D-3,30
+Write-Ins,Governor,,DEM,Orange,Crawford D-3,0
+Blank & Void,Governor,,DEM,Orange,Crawford D-3,0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Crawford D-3,22
 Letitia A. James,Attorney General,,DEM,Orange,Crawford D-3,7
 Leecia R. Eve,Attorney General,,DEM,Orange,Crawford D-3,0
@@ -1279,10 +1279,10 @@ Blank & Void,State Senate,39,REF,Orange,Crawford D-3,0
 Ann G Rabbitt,State Senate,42,REF,Orange,Crawford D-3,
 Write-Ins,State Senate,42,REF,Orange,Crawford D-3,
 Blank & Void,State Senate,42,REF,Orange,Crawford D-3,
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Crawford D-4,5,7",60
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Crawford D-4,5,7",72
-Write-Ins,Governor ,,DEM,Orange,"Crawford D-4,5,7",1
-Blank & Void,Governor ,,DEM,Orange,"Crawford D-4,5,7",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Crawford D-4,5,7",60
+Andrew M. Cuomo,Governor,,DEM,Orange,"Crawford D-4,5,7",72
+Write-Ins,Governor,,DEM,Orange,"Crawford D-4,5,7",1
+Blank & Void,Governor,,DEM,Orange,"Crawford D-4,5,7",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Crawford D-4,5,7",50
 Letitia A. James,Attorney General,,DEM,Orange,"Crawford D-4,5,7",34
 Leecia R. Eve,Attorney General,,DEM,Orange,"Crawford D-4,5,7",2
@@ -1311,10 +1311,10 @@ Blank & Void,State Senate,39,REF,Orange,"Crawford D-4,5,7",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Crawford D-4,5,7",
 Write-Ins,State Senate,42,REF,Orange,"Crawford D-4,5,7",
 Blank & Void,State Senate,42,REF,Orange,"Crawford D-4,5,7",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Deerpark D-1,2,6",39
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Deerpark D-1,2,6",71
-Write-Ins,Governor ,,DEM,Orange,"Deerpark D-1,2,6",0
-Blank & Void,Governor ,,DEM,Orange,"Deerpark D-1,2,6",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Deerpark D-1,2,6",39
+Andrew M. Cuomo,Governor,,DEM,Orange,"Deerpark D-1,2,6",71
+Write-Ins,Governor,,DEM,Orange,"Deerpark D-1,2,6",0
+Blank & Void,Governor,,DEM,Orange,"Deerpark D-1,2,6",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Deerpark D-1,2,6",58
 Letitia A. James,Attorney General,,DEM,Orange,"Deerpark D-1,2,6",9
 Leecia R. Eve,Attorney General,,DEM,Orange,"Deerpark D-1,2,6",1
@@ -1343,10 +1343,10 @@ Blank & Void,State Senate,39,REF,Orange,"Deerpark D-1,2,6",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Deerpark D-1,2,6",9
 Write-Ins,State Senate,42,REF,Orange,"Deerpark D-1,2,6",2
 Blank & Void,State Senate,42,REF,Orange,"Deerpark D-1,2,6",2
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Deerpark D-3,7",35
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Deerpark D-3,7",39
-Write-Ins,Governor ,,DEM,Orange,"Deerpark D-3,7",0
-Blank & Void,Governor ,,DEM,Orange,"Deerpark D-3,7",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Deerpark D-3,7",35
+Andrew M. Cuomo,Governor,,DEM,Orange,"Deerpark D-3,7",39
+Write-Ins,Governor,,DEM,Orange,"Deerpark D-3,7",0
+Blank & Void,Governor,,DEM,Orange,"Deerpark D-3,7",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Deerpark D-3,7",36
 Letitia A. James,Attorney General,,DEM,Orange,"Deerpark D-3,7",21
 Leecia R. Eve,Attorney General,,DEM,Orange,"Deerpark D-3,7",1
@@ -1375,10 +1375,10 @@ Blank & Void,State Senate,39,REF,Orange,"Deerpark D-3,7",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Deerpark D-3,7",1
 Write-Ins,State Senate,42,REF,Orange,"Deerpark D-3,7",3
 Blank & Void,State Senate,42,REF,Orange,"Deerpark D-3,7",1
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Deerpark D-4,5",45
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Deerpark D-4,5",59
-Write-Ins,Governor ,,DEM,Orange,"Deerpark D-4,5",0
-Blank & Void,Governor ,,DEM,Orange,"Deerpark D-4,5",8
+Cynthia E. Nixon,Governor,,DEM,Orange,"Deerpark D-4,5",45
+Andrew M. Cuomo,Governor,,DEM,Orange,"Deerpark D-4,5",59
+Write-Ins,Governor,,DEM,Orange,"Deerpark D-4,5",0
+Blank & Void,Governor,,DEM,Orange,"Deerpark D-4,5",8
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Deerpark D-4,5",51
 Letitia A. James,Attorney General,,DEM,Orange,"Deerpark D-4,5",19
 Leecia R. Eve,Attorney General,,DEM,Orange,"Deerpark D-4,5",1
@@ -1407,10 +1407,10 @@ Blank & Void,State Senate,39,REF,Orange,"Deerpark D-4,5",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Deerpark D-4,5",5
 Write-Ins,State Senate,42,REF,Orange,"Deerpark D-4,5",1
 Blank & Void,State Senate,42,REF,Orange,"Deerpark D-4,5",0
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Goshen D-1,2,3",77
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Goshen D-1,2,3",104
-Write-Ins,Governor ,,DEM,Orange,"Goshen D-1,2,3",0
-Blank & Void,Governor ,,DEM,Orange,"Goshen D-1,2,3",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Goshen D-1,2,3",77
+Andrew M. Cuomo,Governor,,DEM,Orange,"Goshen D-1,2,3",104
+Write-Ins,Governor,,DEM,Orange,"Goshen D-1,2,3",0
+Blank & Void,Governor,,DEM,Orange,"Goshen D-1,2,3",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Goshen D-1,2,3",93
 Letitia A. James,Attorney General,,DEM,Orange,"Goshen D-1,2,3",20
 Leecia R. Eve,Attorney General,,DEM,Orange,"Goshen D-1,2,3",5
@@ -1439,10 +1439,10 @@ Blank & Void,State Senate,39,REF,Orange,"Goshen D-1,2,3",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Goshen D-1,2,3",6
 Write-Ins,State Senate,42,REF,Orange,"Goshen D-1,2,3",3
 Blank & Void,State Senate,42,REF,Orange,"Goshen D-1,2,3",1
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Goshen D-4,5,9,10",152
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Goshen D-4,5,9,10",174
-Write-Ins,Governor ,,DEM,Orange,"Goshen D-4,5,9,10",1
-Blank & Void,Governor ,,DEM,Orange,"Goshen D-4,5,9,10",5
+Cynthia E. Nixon,Governor,,DEM,Orange,"Goshen D-4,5,9,10",152
+Andrew M. Cuomo,Governor,,DEM,Orange,"Goshen D-4,5,9,10",174
+Write-Ins,Governor,,DEM,Orange,"Goshen D-4,5,9,10",1
+Blank & Void,Governor,,DEM,Orange,"Goshen D-4,5,9,10",5
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Goshen D-4,5,9,10",151
 Letitia A. James,Attorney General,,DEM,Orange,"Goshen D-4,5,9,10",47
 Leecia R. Eve,Attorney General,,DEM,Orange,"Goshen D-4,5,9,10",6
@@ -1471,10 +1471,10 @@ Blank & Void,State Senate,39,REF,Orange,"Goshen D-4,5,9,10",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Goshen D-4,5,9,10",9
 Write-Ins,State Senate,42,REF,Orange,"Goshen D-4,5,9,10",4
 Blank & Void,State Senate,42,REF,Orange,"Goshen D-4,5,9,10",3
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Goshen D-6,8,11",65
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Goshen D-6,8,11",102
-Write-Ins,Governor ,,DEM,Orange,"Goshen D-6,8,11",0
-Blank & Void,Governor ,,DEM,Orange,"Goshen D-6,8,11",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Goshen D-6,8,11",65
+Andrew M. Cuomo,Governor,,DEM,Orange,"Goshen D-6,8,11",102
+Write-Ins,Governor,,DEM,Orange,"Goshen D-6,8,11",0
+Blank & Void,Governor,,DEM,Orange,"Goshen D-6,8,11",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Goshen D-6,8,11",79
 Letitia A. James,Attorney General,,DEM,Orange,"Goshen D-6,8,11",36
 Leecia R. Eve,Attorney General,,DEM,Orange,"Goshen D-6,8,11",3
@@ -1503,10 +1503,10 @@ Blank & Void,State Senate,39,REF,Orange,"Goshen D-6,8,11",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Goshen D-6,8,11",5
 Write-Ins,State Senate,42,REF,Orange,"Goshen D-6,8,11",11
 Blank & Void,State Senate,42,REF,Orange,"Goshen D-6,8,11",8
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Goshen D-7,12",44
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Goshen D-7,12",58
-Write-Ins,Governor ,,DEM,Orange,"Goshen D-7,12",1
-Blank & Void,Governor ,,DEM,Orange,"Goshen D-7,12",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Goshen D-7,12",44
+Andrew M. Cuomo,Governor,,DEM,Orange,"Goshen D-7,12",58
+Write-Ins,Governor,,DEM,Orange,"Goshen D-7,12",1
+Blank & Void,Governor,,DEM,Orange,"Goshen D-7,12",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Goshen D-7,12",54
 Letitia A. James,Attorney General,,DEM,Orange,"Goshen D-7,12",16
 Leecia R. Eve,Attorney General,,DEM,Orange,"Goshen D-7,12",3
@@ -1535,10 +1535,10 @@ Blank & Void,State Senate,39,REF,Orange,"Goshen D-7,12",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Goshen D-7,12",1
 Write-Ins,State Senate,42,REF,Orange,"Goshen D-7,12",4
 Blank & Void,State Senate,42,REF,Orange,"Goshen D-7,12",2
-Cynthia E. Nixon,Governor ,,DEM,Orange,Goshen D-13,7
-Andrew M. Cuomo,Governor ,,DEM,Orange,Goshen D-13,7
-Write-Ins,Governor ,,DEM,Orange,Goshen D-13,0
-Blank & Void,Governor ,,DEM,Orange,Goshen D-13,0
+Cynthia E. Nixon,Governor,,DEM,Orange,Goshen D-13,7
+Andrew M. Cuomo,Governor,,DEM,Orange,Goshen D-13,7
+Write-Ins,Governor,,DEM,Orange,Goshen D-13,0
+Blank & Void,Governor,,DEM,Orange,Goshen D-13,0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Goshen D-13,6
 Letitia A. James,Attorney General,,DEM,Orange,Goshen D-13,4
 Leecia R. Eve,Attorney General,,DEM,Orange,Goshen D-13,1
@@ -1567,10 +1567,10 @@ Blank & Void,State Senate,39,REF,Orange,Goshen D-13,
 Ann G Rabbitt,State Senate,42,REF,Orange,Goshen D-13,0
 Write-Ins,State Senate,42,REF,Orange,Goshen D-13,0
 Blank & Void,State Senate,42,REF,Orange,Goshen D-13,0
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Greenville D-1,2,3,4",96
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Greenville D-1,2,3,4",97
-Write-Ins,Governor ,,DEM,Orange,"Greenville D-1,2,3,4",1
-Blank & Void,Governor ,,DEM,Orange,"Greenville D-1,2,3,4",4
+Cynthia E. Nixon,Governor,,DEM,Orange,"Greenville D-1,2,3,4",96
+Andrew M. Cuomo,Governor,,DEM,Orange,"Greenville D-1,2,3,4",97
+Write-Ins,Governor,,DEM,Orange,"Greenville D-1,2,3,4",1
+Blank & Void,Governor,,DEM,Orange,"Greenville D-1,2,3,4",4
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Greenville D-1,2,3,4",104
 Letitia A. James,Attorney General,,DEM,Orange,"Greenville D-1,2,3,4",26
 Leecia R. Eve,Attorney General,,DEM,Orange,"Greenville D-1,2,3,4",10
@@ -1599,10 +1599,10 @@ Blank & Void,State Senate,39,REF,Orange,"Greenville D-1,2,3,4",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Greenville D-1,2,3,4",9
 Write-Ins,State Senate,42,REF,Orange,"Greenville D-1,2,3,4",7
 Blank & Void,State Senate,42,REF,Orange,"Greenville D-1,2,3,4",0
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Hamptonburgh D-1,2,3,4,5",104
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Hamptonburgh D-1,2,3,4,5",165
-Write-Ins,Governor ,,DEM,Orange,"Hamptonburgh D-1,2,3,4,5",1
-Blank & Void,Governor ,,DEM,Orange,"Hamptonburgh D-1,2,3,4,5",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Hamptonburgh D-1,2,3,4,5",104
+Andrew M. Cuomo,Governor,,DEM,Orange,"Hamptonburgh D-1,2,3,4,5",165
+Write-Ins,Governor,,DEM,Orange,"Hamptonburgh D-1,2,3,4,5",1
+Blank & Void,Governor,,DEM,Orange,"Hamptonburgh D-1,2,3,4,5",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Hamptonburgh D-1,2,3,4,5",147
 Letitia A. James,Attorney General,,DEM,Orange,"Hamptonburgh D-1,2,3,4,5",53
 Leecia R. Eve,Attorney General,,DEM,Orange,"Hamptonburgh D-1,2,3,4,5",13
@@ -1631,10 +1631,10 @@ Blank & Void,State Senate,39,REF,Orange,"Hamptonburgh D-1,2,3,4,5",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Hamptonburgh D-1,2,3,4,5",15
 Write-Ins,State Senate,42,REF,Orange,"Hamptonburgh D-1,2,3,4,5",1
 Blank & Void,State Senate,42,REF,Orange,"Hamptonburgh D-1,2,3,4,5",2
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Highlands D-1,2,3,5",66
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Highlands D-1,2,3,5",149
-Write-Ins,Governor ,,DEM,Orange,"Highlands D-1,2,3,5",0
-Blank & Void,Governor ,,DEM,Orange,"Highlands D-1,2,3,5",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Highlands D-1,2,3,5",66
+Andrew M. Cuomo,Governor,,DEM,Orange,"Highlands D-1,2,3,5",149
+Write-Ins,Governor,,DEM,Orange,"Highlands D-1,2,3,5",0
+Blank & Void,Governor,,DEM,Orange,"Highlands D-1,2,3,5",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Highlands D-1,2,3,5",116
 Letitia A. James,Attorney General,,DEM,Orange,"Highlands D-1,2,3,5",42
 Leecia R. Eve,Attorney General,,DEM,Orange,"Highlands D-1,2,3,5",6
@@ -1663,10 +1663,10 @@ Blank & Void,State Senate,39,REF,Orange,"Highlands D-1,2,3,5",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Highlands D-1,2,3,5",
 Write-Ins,State Senate,42,REF,Orange,"Highlands D-1,2,3,5",
 Blank & Void,State Senate,42,REF,Orange,"Highlands D-1,2,3,5",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Highlands D-4,6",45
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Highlands D-4,6",70
-Write-Ins,Governor ,,DEM,Orange,"Highlands D-4,6",0
-Blank & Void,Governor ,,DEM,Orange,"Highlands D-4,6",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Highlands D-4,6",45
+Andrew M. Cuomo,Governor,,DEM,Orange,"Highlands D-4,6",70
+Write-Ins,Governor,,DEM,Orange,"Highlands D-4,6",0
+Blank & Void,Governor,,DEM,Orange,"Highlands D-4,6",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Highlands D-4,6",41
 Letitia A. James,Attorney General,,DEM,Orange,"Highlands D-4,6",28
 Leecia R. Eve,Attorney General,,DEM,Orange,"Highlands D-4,6",1
@@ -1695,10 +1695,10 @@ Blank & Void,State Senate,39,REF,Orange,"Highlands D-4,6",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Highlands D-4,6",
 Write-Ins,State Senate,42,REF,Orange,"Highlands D-4,6",
 Blank & Void,State Senate,42,REF,Orange,"Highlands D-4,6",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Minisink D-1,2,3,4",115
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Minisink D-1,2,3,4",81
-Write-Ins,Governor ,,DEM,Orange,"Minisink D-1,2,3,4",1
-Blank & Void,Governor ,,DEM,Orange,"Minisink D-1,2,3,4",3
+Cynthia E. Nixon,Governor,,DEM,Orange,"Minisink D-1,2,3,4",115
+Andrew M. Cuomo,Governor,,DEM,Orange,"Minisink D-1,2,3,4",81
+Write-Ins,Governor,,DEM,Orange,"Minisink D-1,2,3,4",1
+Blank & Void,Governor,,DEM,Orange,"Minisink D-1,2,3,4",3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Minisink D-1,2,3,4",85
 Letitia A. James,Attorney General,,DEM,Orange,"Minisink D-1,2,3,4",29
 Leecia R. Eve,Attorney General,,DEM,Orange,"Minisink D-1,2,3,4",5
@@ -1727,10 +1727,10 @@ Blank & Void,State Senate,39,REF,Orange,"Minisink D-1,2,3,4",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Minisink D-1,2,3,4",7
 Write-Ins,State Senate,42,REF,Orange,"Minisink D-1,2,3,4",9
 Blank & Void,State Senate,42,REF,Orange,"Minisink D-1,2,3,4",2
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Monroe D-1,4,5,8,9,19,20,21",133
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Monroe D-1,4,5,8,9,19,20,21",161
-Write-Ins,Governor ,,DEM,Orange,"Monroe D-1,4,5,8,9,19,20,21",0
-Blank & Void,Governor ,,DEM,Orange,"Monroe D-1,4,5,8,9,19,20,21",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Monroe D-1,4,5,8,9,19,20,21",133
+Andrew M. Cuomo,Governor,,DEM,Orange,"Monroe D-1,4,5,8,9,19,20,21",161
+Write-Ins,Governor,,DEM,Orange,"Monroe D-1,4,5,8,9,19,20,21",0
+Blank & Void,Governor,,DEM,Orange,"Monroe D-1,4,5,8,9,19,20,21",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Monroe D-1,4,5,8,9,19,20,21",143
 Letitia A. James,Attorney General,,DEM,Orange,"Monroe D-1,4,5,8,9,19,20,21",65
 Leecia R. Eve,Attorney General,,DEM,Orange,"Monroe D-1,4,5,8,9,19,20,21",6
@@ -1759,10 +1759,10 @@ Blank & Void,State Senate,39,REF,Orange,"Monroe D-1,4,5,8,9,19,20,21",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Monroe D-1,4,5,8,9,19,20,21",
 Write-Ins,State Senate,42,REF,Orange,"Monroe D-1,4,5,8,9,19,20,21",
 Blank & Void,State Senate,42,REF,Orange,"Monroe D-1,4,5,8,9,19,20,21",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Monroe D-2,6,7,10,12,13",166
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Monroe D-2,6,7,10,12,13",147
-Write-Ins,Governor ,,DEM,Orange,"Monroe D-2,6,7,10,12,13",1
-Blank & Void,Governor ,,DEM,Orange,"Monroe D-2,6,7,10,12,13",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Monroe D-2,6,7,10,12,13",166
+Andrew M. Cuomo,Governor,,DEM,Orange,"Monroe D-2,6,7,10,12,13",147
+Write-Ins,Governor,,DEM,Orange,"Monroe D-2,6,7,10,12,13",1
+Blank & Void,Governor,,DEM,Orange,"Monroe D-2,6,7,10,12,13",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Monroe D-2,6,7,10,12,13",154
 Letitia A. James,Attorney General,,DEM,Orange,"Monroe D-2,6,7,10,12,13",54
 Leecia R. Eve,Attorney General,,DEM,Orange,"Monroe D-2,6,7,10,12,13",5
@@ -1791,10 +1791,10 @@ Blank & Void,State Senate,39,REF,Orange,"Monroe D-2,6,7,10,12,13",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Monroe D-2,6,7,10,12,13",
 Write-Ins,State Senate,42,REF,Orange,"Monroe D-2,6,7,10,12,13",
 Blank & Void,State Senate,42,REF,Orange,"Monroe D-2,6,7,10,12,13",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Monroe D-3,18",23
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Monroe D-3,18",26
-Write-Ins,Governor ,,DEM,Orange,"Monroe D-3,18",0
-Blank & Void,Governor ,,DEM,Orange,"Monroe D-3,18",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Monroe D-3,18",23
+Andrew M. Cuomo,Governor,,DEM,Orange,"Monroe D-3,18",26
+Write-Ins,Governor,,DEM,Orange,"Monroe D-3,18",0
+Blank & Void,Governor,,DEM,Orange,"Monroe D-3,18",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Monroe D-3,18",22
 Letitia A. James,Attorney General,,DEM,Orange,"Monroe D-3,18",7
 Leecia R. Eve,Attorney General,,DEM,Orange,"Monroe D-3,18",0
@@ -1823,10 +1823,10 @@ Blank & Void,State Senate,39,REF,Orange,"Monroe D-3,18",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Monroe D-3,18",
 Write-Ins,State Senate,42,REF,Orange,"Monroe D-3,18",
 Blank & Void,State Senate,42,REF,Orange,"Monroe D-3,18",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Monroe D-11,14",43
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Monroe D-11,14",44
-Write-Ins,Governor ,,DEM,Orange,"Monroe D-11,14",0
-Blank & Void,Governor ,,DEM,Orange,"Monroe D-11,14",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Monroe D-11,14",43
+Andrew M. Cuomo,Governor,,DEM,Orange,"Monroe D-11,14",44
+Write-Ins,Governor,,DEM,Orange,"Monroe D-11,14",0
+Blank & Void,Governor,,DEM,Orange,"Monroe D-11,14",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Monroe D-11,14",37
 Letitia A. James,Attorney General,,DEM,Orange,"Monroe D-11,14",16
 Leecia R. Eve,Attorney General,,DEM,Orange,"Monroe D-11,14",2
@@ -1855,10 +1855,10 @@ Blank & Void,State Senate,39,REF,Orange,"Monroe D-11,14",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Monroe D-11,14",
 Write-Ins,State Senate,42,REF,Orange,"Monroe D-11,14",
 Blank & Void,State Senate,42,REF,Orange,"Monroe D-11,14",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Monroe D-15,16,17",86
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Monroe D-15,16,17",69
-Write-Ins,Governor ,,DEM,Orange,"Monroe D-15,16,17",0
-Blank & Void,Governor ,,DEM,Orange,"Monroe D-15,16,17",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Monroe D-15,16,17",86
+Andrew M. Cuomo,Governor,,DEM,Orange,"Monroe D-15,16,17",69
+Write-Ins,Governor,,DEM,Orange,"Monroe D-15,16,17",0
+Blank & Void,Governor,,DEM,Orange,"Monroe D-15,16,17",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Monroe D-15,16,17",63
 Letitia A. James,Attorney General,,DEM,Orange,"Monroe D-15,16,17",23
 Leecia R. Eve,Attorney General,,DEM,Orange,"Monroe D-15,16,17",0
@@ -1887,10 +1887,10 @@ Blank & Void,State Senate,39,REF,Orange,"Monroe D-15,16,17",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Monroe D-15,16,17",
 Write-Ins,State Senate,42,REF,Orange,"Monroe D-15,16,17",
 Blank & Void,State Senate,42,REF,Orange,"Monroe D-15,16,17",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Montgomery D-1,13,18",77
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Montgomery D-1,13,18",95
-Write-Ins,Governor ,,DEM,Orange,"Montgomery D-1,13,18",0
-Blank & Void,Governor ,,DEM,Orange,"Montgomery D-1,13,18",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Montgomery D-1,13,18",77
+Andrew M. Cuomo,Governor,,DEM,Orange,"Montgomery D-1,13,18",95
+Write-Ins,Governor,,DEM,Orange,"Montgomery D-1,13,18",0
+Blank & Void,Governor,,DEM,Orange,"Montgomery D-1,13,18",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Montgomery D-1,13,18",63
 Letitia A. James,Attorney General,,DEM,Orange,"Montgomery D-1,13,18",33
 Leecia R. Eve,Attorney General,,DEM,Orange,"Montgomery D-1,13,18",4
@@ -1919,10 +1919,10 @@ Blank & Void,State Senate,39,REF,Orange,"Montgomery D-1,13,18",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Montgomery D-1,13,18",
 Write-Ins,State Senate,42,REF,Orange,"Montgomery D-1,13,18",
 Blank & Void,State Senate,42,REF,Orange,"Montgomery D-1,13,18",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Montgomery D-2,15,16",83
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Montgomery D-2,15,16",150
-Write-Ins,Governor ,,DEM,Orange,"Montgomery D-2,15,16",2
-Blank & Void,Governor ,,DEM,Orange,"Montgomery D-2,15,16",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Montgomery D-2,15,16",83
+Andrew M. Cuomo,Governor,,DEM,Orange,"Montgomery D-2,15,16",150
+Write-Ins,Governor,,DEM,Orange,"Montgomery D-2,15,16",2
+Blank & Void,Governor,,DEM,Orange,"Montgomery D-2,15,16",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Montgomery D-2,15,16",114
 Letitia A. James,Attorney General,,DEM,Orange,"Montgomery D-2,15,16",45
 Leecia R. Eve,Attorney General,,DEM,Orange,"Montgomery D-2,15,16",2
@@ -1951,10 +1951,10 @@ Blank & Void,State Senate,39,REF,Orange,"Montgomery D-2,15,16",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Montgomery D-2,15,16",
 Write-Ins,State Senate,42,REF,Orange,"Montgomery D-2,15,16",
 Blank & Void,State Senate,42,REF,Orange,"Montgomery D-2,15,16",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Montgomery D-3,12",48
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Montgomery D-3,12",117
-Write-Ins,Governor ,,DEM,Orange,"Montgomery D-3,12",1
-Blank & Void,Governor ,,DEM,Orange,"Montgomery D-3,12",3
+Cynthia E. Nixon,Governor,,DEM,Orange,"Montgomery D-3,12",48
+Andrew M. Cuomo,Governor,,DEM,Orange,"Montgomery D-3,12",117
+Write-Ins,Governor,,DEM,Orange,"Montgomery D-3,12",1
+Blank & Void,Governor,,DEM,Orange,"Montgomery D-3,12",3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Montgomery D-3,12",85
 Letitia A. James,Attorney General,,DEM,Orange,"Montgomery D-3,12",44
 Leecia R. Eve,Attorney General,,DEM,Orange,"Montgomery D-3,12",4
@@ -1983,10 +1983,10 @@ Blank & Void,State Senate,39,REF,Orange,"Montgomery D-3,12",1
 Ann G Rabbitt,State Senate,42,REF,Orange,"Montgomery D-3,12",
 Write-Ins,State Senate,42,REF,Orange,"Montgomery D-3,12",
 Blank & Void,State Senate,42,REF,Orange,"Montgomery D-3,12",
-Cynthia E. Nixon,Governor ,,DEM,Orange,Montgomery D-4,18
-Andrew M. Cuomo,Governor ,,DEM,Orange,Montgomery D-4,22
-Write-Ins,Governor ,,DEM,Orange,Montgomery D-4,0
-Blank & Void,Governor ,,DEM,Orange,Montgomery D-4,0
+Cynthia E. Nixon,Governor,,DEM,Orange,Montgomery D-4,18
+Andrew M. Cuomo,Governor,,DEM,Orange,Montgomery D-4,22
+Write-Ins,Governor,,DEM,Orange,Montgomery D-4,0
+Blank & Void,Governor,,DEM,Orange,Montgomery D-4,0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Montgomery D-4,24
 Letitia A. James,Attorney General,,DEM,Orange,Montgomery D-4,5
 Leecia R. Eve,Attorney General,,DEM,Orange,Montgomery D-4,1
@@ -2015,10 +2015,10 @@ Blank & Void,State Senate,39,REF,Orange,Montgomery D-4,0
 Ann G Rabbitt,State Senate,42,REF,Orange,Montgomery D-4,
 Write-Ins,State Senate,42,REF,Orange,Montgomery D-4,
 Blank & Void,State Senate,42,REF,Orange,Montgomery D-4,
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Montgomery D-5,6,7",69
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Montgomery D-5,6,7",84
-Write-Ins,Governor ,,DEM,Orange,"Montgomery D-5,6,7",1
-Blank & Void,Governor ,,DEM,Orange,"Montgomery D-5,6,7",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Montgomery D-5,6,7",69
+Andrew M. Cuomo,Governor,,DEM,Orange,"Montgomery D-5,6,7",84
+Write-Ins,Governor,,DEM,Orange,"Montgomery D-5,6,7",1
+Blank & Void,Governor,,DEM,Orange,"Montgomery D-5,6,7",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Montgomery D-5,6,7",73
 Letitia A. James,Attorney General,,DEM,Orange,"Montgomery D-5,6,7",24
 Leecia R. Eve,Attorney General,,DEM,Orange,"Montgomery D-5,6,7",4
@@ -2047,10 +2047,10 @@ Blank & Void,State Senate,39,REF,Orange,"Montgomery D-5,6,7",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Montgomery D-5,6,7",
 Write-Ins,State Senate,42,REF,Orange,"Montgomery D-5,6,7",
 Blank & Void,State Senate,42,REF,Orange,"Montgomery D-5,6,7",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Montgomery D-8,17",43
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Montgomery D-8,17",78
-Write-Ins,Governor ,,DEM,Orange,"Montgomery D-8,17",0
-Blank & Void,Governor ,,DEM,Orange,"Montgomery D-8,17",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Montgomery D-8,17",43
+Andrew M. Cuomo,Governor,,DEM,Orange,"Montgomery D-8,17",78
+Write-Ins,Governor,,DEM,Orange,"Montgomery D-8,17",0
+Blank & Void,Governor,,DEM,Orange,"Montgomery D-8,17",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Montgomery D-8,17",57
 Letitia A. James,Attorney General,,DEM,Orange,"Montgomery D-8,17",27
 Leecia R. Eve,Attorney General,,DEM,Orange,"Montgomery D-8,17",2
@@ -2079,10 +2079,10 @@ Blank & Void,State Senate,39,REF,Orange,"Montgomery D-8,17",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Montgomery D-8,17",
 Write-Ins,State Senate,42,REF,Orange,"Montgomery D-8,17",
 Blank & Void,State Senate,42,REF,Orange,"Montgomery D-8,17",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Montgomery D-9,10",26
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Montgomery D-9,10",29
-Write-Ins,Governor ,,DEM,Orange,"Montgomery D-9,10",0
-Blank & Void,Governor ,,DEM,Orange,"Montgomery D-9,10",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Montgomery D-9,10",26
+Andrew M. Cuomo,Governor,,DEM,Orange,"Montgomery D-9,10",29
+Write-Ins,Governor,,DEM,Orange,"Montgomery D-9,10",0
+Blank & Void,Governor,,DEM,Orange,"Montgomery D-9,10",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Montgomery D-9,10",24
 Letitia A. James,Attorney General,,DEM,Orange,"Montgomery D-9,10",12
 Leecia R. Eve,Attorney General,,DEM,Orange,"Montgomery D-9,10",2
@@ -2111,10 +2111,10 @@ Blank & Void,State Senate,39,REF,Orange,"Montgomery D-9,10",1
 Ann G Rabbitt,State Senate,42,REF,Orange,"Montgomery D-9,10",
 Write-Ins,State Senate,42,REF,Orange,"Montgomery D-9,10",
 Blank & Void,State Senate,42,REF,Orange,"Montgomery D-9,10",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Montgomery D-11,14",31
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Montgomery D-11,14",30
-Write-Ins,Governor ,,DEM,Orange,"Montgomery D-11,14",0
-Blank & Void,Governor ,,DEM,Orange,"Montgomery D-11,14",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Montgomery D-11,14",31
+Andrew M. Cuomo,Governor,,DEM,Orange,"Montgomery D-11,14",30
+Write-Ins,Governor,,DEM,Orange,"Montgomery D-11,14",0
+Blank & Void,Governor,,DEM,Orange,"Montgomery D-11,14",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Montgomery D-11,14",35
 Letitia A. James,Attorney General,,DEM,Orange,"Montgomery D-11,14",5
 Leecia R. Eve,Attorney General,,DEM,Orange,"Montgomery D-11,14",1
@@ -2143,10 +2143,10 @@ Blank & Void,State Senate,39,REF,Orange,"Montgomery D-11,14",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Montgomery D-11,14",
 Write-Ins,State Senate,42,REF,Orange,"Montgomery D-11,14",
 Blank & Void,State Senate,42,REF,Orange,"Montgomery D-11,14",
-Cynthia E. Nixon,Governor ,,DEM,Orange,Mount Hope D-1,32
-Andrew M. Cuomo,Governor ,,DEM,Orange,Mount Hope D-1,24
-Write-Ins,Governor ,,DEM,Orange,Mount Hope D-1,2
-Blank & Void,Governor ,,DEM,Orange,Mount Hope D-1,1
+Cynthia E. Nixon,Governor,,DEM,Orange,Mount Hope D-1,32
+Andrew M. Cuomo,Governor,,DEM,Orange,Mount Hope D-1,24
+Write-Ins,Governor,,DEM,Orange,Mount Hope D-1,2
+Blank & Void,Governor,,DEM,Orange,Mount Hope D-1,1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Mount Hope D-1,29
 Letitia A. James,Attorney General,,DEM,Orange,Mount Hope D-1,9
 Leecia R. Eve,Attorney General,,DEM,Orange,Mount Hope D-1,0
@@ -2175,10 +2175,10 @@ Blank & Void,State Senate,39,REF,Orange,Mount Hope D-1,
 Ann G Rabbitt,State Senate,42,REF,Orange,Mount Hope D-1,2
 Write-Ins,State Senate,42,REF,Orange,Mount Hope D-1,2
 Blank & Void,State Senate,42,REF,Orange,Mount Hope D-1,2
-Cynthia E. Nixon,Governor ,,DEM,Orange,Mount Hope D-2,32
-Andrew M. Cuomo,Governor ,,DEM,Orange,Mount Hope D-2,27
-Write-Ins,Governor ,,DEM,Orange,Mount Hope D-2,1
-Blank & Void,Governor ,,DEM,Orange,Mount Hope D-2,1
+Cynthia E. Nixon,Governor,,DEM,Orange,Mount Hope D-2,32
+Andrew M. Cuomo,Governor,,DEM,Orange,Mount Hope D-2,27
+Write-Ins,Governor,,DEM,Orange,Mount Hope D-2,1
+Blank & Void,Governor,,DEM,Orange,Mount Hope D-2,1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Mount Hope D-2,35
 Letitia A. James,Attorney General,,DEM,Orange,Mount Hope D-2,9
 Leecia R. Eve,Attorney General,,DEM,Orange,Mount Hope D-2,2
@@ -2207,10 +2207,10 @@ Blank & Void,State Senate,39,REF,Orange,Mount Hope D-2,
 Ann G Rabbitt,State Senate,42,REF,Orange,Mount Hope D-2,0
 Write-Ins,State Senate,42,REF,Orange,Mount Hope D-2,3
 Blank & Void,State Senate,42,REF,Orange,Mount Hope D-2,1
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Mount Hope D-3,4",60
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Mount Hope D-3,4",61
-Write-Ins,Governor ,,DEM,Orange,"Mount Hope D-3,4",0
-Blank & Void,Governor ,,DEM,Orange,"Mount Hope D-3,4",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Mount Hope D-3,4",60
+Andrew M. Cuomo,Governor,,DEM,Orange,"Mount Hope D-3,4",61
+Write-Ins,Governor,,DEM,Orange,"Mount Hope D-3,4",0
+Blank & Void,Governor,,DEM,Orange,"Mount Hope D-3,4",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Mount Hope D-3,4",57
 Letitia A. James,Attorney General,,DEM,Orange,"Mount Hope D-3,4",19
 Leecia R. Eve,Attorney General,,DEM,Orange,"Mount Hope D-3,4",2
@@ -2239,10 +2239,10 @@ Blank & Void,State Senate,39,REF,Orange,"Mount Hope D-3,4",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Mount Hope D-3,4",6
 Write-Ins,State Senate,42,REF,Orange,"Mount Hope D-3,4",0
 Blank & Void,State Senate,42,REF,Orange,"Mount Hope D-3,4",0
-Cynthia E. Nixon,Governor ,,DEM,Orange,"New Windsor D-1,4,6",63
-Andrew M. Cuomo,Governor ,,DEM,Orange,"New Windsor D-1,4,6",135
-Write-Ins,Governor ,,DEM,Orange,"New Windsor D-1,4,6",0
-Blank & Void,Governor ,,DEM,Orange,"New Windsor D-1,4,6",4
+Cynthia E. Nixon,Governor,,DEM,Orange,"New Windsor D-1,4,6",63
+Andrew M. Cuomo,Governor,,DEM,Orange,"New Windsor D-1,4,6",135
+Write-Ins,Governor,,DEM,Orange,"New Windsor D-1,4,6",0
+Blank & Void,Governor,,DEM,Orange,"New Windsor D-1,4,6",4
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"New Windsor D-1,4,6",107
 Letitia A. James,Attorney General,,DEM,Orange,"New Windsor D-1,4,6",35
 Leecia R. Eve,Attorney General,,DEM,Orange,"New Windsor D-1,4,6",2
@@ -2271,10 +2271,10 @@ Blank & Void,State Senate,39,REF,Orange,"New Windsor D-1,4,6",1
 Ann G Rabbitt,State Senate,42,REF,Orange,"New Windsor D-1,4,6",
 Write-Ins,State Senate,42,REF,Orange,"New Windsor D-1,4,6",
 Blank & Void,State Senate,42,REF,Orange,"New Windsor D-1,4,6",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"New Windsor D-2,3",39
-Andrew M. Cuomo,Governor ,,DEM,Orange,"New Windsor D-2,3",71
-Write-Ins,Governor ,,DEM,Orange,"New Windsor D-2,3",1
-Blank & Void,Governor ,,DEM,Orange,"New Windsor D-2,3",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"New Windsor D-2,3",39
+Andrew M. Cuomo,Governor,,DEM,Orange,"New Windsor D-2,3",71
+Write-Ins,Governor,,DEM,Orange,"New Windsor D-2,3",1
+Blank & Void,Governor,,DEM,Orange,"New Windsor D-2,3",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"New Windsor D-2,3",65
 Letitia A. James,Attorney General,,DEM,Orange,"New Windsor D-2,3",21
 Leecia R. Eve,Attorney General,,DEM,Orange,"New Windsor D-2,3",5
@@ -2303,10 +2303,10 @@ Blank & Void,State Senate,39,REF,Orange,"New Windsor D-2,3",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"New Windsor D-2,3",
 Write-Ins,State Senate,42,REF,Orange,"New Windsor D-2,3",
 Blank & Void,State Senate,42,REF,Orange,"New Windsor D-2,3",
-Cynthia E. Nixon,Governor ,,DEM,Orange,New Windsor D-5,27
-Andrew M. Cuomo,Governor ,,DEM,Orange,New Windsor D-5,46
-Write-Ins,Governor ,,DEM,Orange,New Windsor D-5,0
-Blank & Void,Governor ,,DEM,Orange,New Windsor D-5,2
+Cynthia E. Nixon,Governor,,DEM,Orange,New Windsor D-5,27
+Andrew M. Cuomo,Governor,,DEM,Orange,New Windsor D-5,46
+Write-Ins,Governor,,DEM,Orange,New Windsor D-5,0
+Blank & Void,Governor,,DEM,Orange,New Windsor D-5,2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,New Windsor D-5,38
 Letitia A. James,Attorney General,,DEM,Orange,New Windsor D-5,19
 Leecia R. Eve,Attorney General,,DEM,Orange,New Windsor D-5,5
@@ -2335,10 +2335,10 @@ Blank & Void,State Senate,39,REF,Orange,New Windsor D-5,0
 Ann G Rabbitt,State Senate,42,REF,Orange,New Windsor D-5,
 Write-Ins,State Senate,42,REF,Orange,New Windsor D-5,
 Blank & Void,State Senate,42,REF,Orange,New Windsor D-5,
-Cynthia E. Nixon,Governor ,,DEM,Orange,"New Windsor D-7,8",36
-Andrew M. Cuomo,Governor ,,DEM,Orange,"New Windsor D-7,8",72
-Write-Ins,Governor ,,DEM,Orange,"New Windsor D-7,8",0
-Blank & Void,Governor ,,DEM,Orange,"New Windsor D-7,8",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"New Windsor D-7,8",36
+Andrew M. Cuomo,Governor,,DEM,Orange,"New Windsor D-7,8",72
+Write-Ins,Governor,,DEM,Orange,"New Windsor D-7,8",0
+Blank & Void,Governor,,DEM,Orange,"New Windsor D-7,8",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"New Windsor D-7,8",56
 Letitia A. James,Attorney General,,DEM,Orange,"New Windsor D-7,8",27
 Leecia R. Eve,Attorney General,,DEM,Orange,"New Windsor D-7,8",1
@@ -2367,10 +2367,10 @@ Blank & Void,State Senate,39,REF,Orange,"New Windsor D-7,8",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"New Windsor D-7,8",
 Write-Ins,State Senate,42,REF,Orange,"New Windsor D-7,8",
 Blank & Void,State Senate,42,REF,Orange,"New Windsor D-7,8",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"New Windsor D-9,10,11,12,17",120
-Andrew M. Cuomo,Governor ,,DEM,Orange,"New Windsor D-9,10,11,12,17",286
-Write-Ins,Governor ,,DEM,Orange,"New Windsor D-9,10,11,12,17",1
-Blank & Void,Governor ,,DEM,Orange,"New Windsor D-9,10,11,12,17",3
+Cynthia E. Nixon,Governor,,DEM,Orange,"New Windsor D-9,10,11,12,17",120
+Andrew M. Cuomo,Governor,,DEM,Orange,"New Windsor D-9,10,11,12,17",286
+Write-Ins,Governor,,DEM,Orange,"New Windsor D-9,10,11,12,17",1
+Blank & Void,Governor,,DEM,Orange,"New Windsor D-9,10,11,12,17",3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"New Windsor D-9,10,11,12,17",219
 Letitia A. James,Attorney General,,DEM,Orange,"New Windsor D-9,10,11,12,17",118
 Leecia R. Eve,Attorney General,,DEM,Orange,"New Windsor D-9,10,11,12,17",7
@@ -2399,10 +2399,10 @@ Blank & Void,State Senate,39,REF,Orange,"New Windsor D-9,10,11,12,17",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"New Windsor D-9,10,11,12,17",
 Write-Ins,State Senate,42,REF,Orange,"New Windsor D-9,10,11,12,17",
 Blank & Void,State Senate,42,REF,Orange,"New Windsor D-9,10,11,12,17",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"New Windsor D-13,14,15,18,19,22",140
-Andrew M. Cuomo,Governor ,,DEM,Orange,"New Windsor D-13,14,15,18,19,22",365
-Write-Ins,Governor ,,DEM,Orange,"New Windsor D-13,14,15,18,19,22",1
-Blank & Void,Governor ,,DEM,Orange,"New Windsor D-13,14,15,18,19,22",7
+Cynthia E. Nixon,Governor,,DEM,Orange,"New Windsor D-13,14,15,18,19,22",140
+Andrew M. Cuomo,Governor,,DEM,Orange,"New Windsor D-13,14,15,18,19,22",365
+Write-Ins,Governor,,DEM,Orange,"New Windsor D-13,14,15,18,19,22",1
+Blank & Void,Governor,,DEM,Orange,"New Windsor D-13,14,15,18,19,22",7
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"New Windsor D-13,14,15,18,19,22",219
 Letitia A. James,Attorney General,,DEM,Orange,"New Windsor D-13,14,15,18,19,22",171
 Leecia R. Eve,Attorney General,,DEM,Orange,"New Windsor D-13,14,15,18,19,22",9
@@ -2431,10 +2431,10 @@ Blank & Void,State Senate,39,REF,Orange,"New Windsor D-13,14,15,18,19,22",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"New Windsor D-13,14,15,18,19,22",
 Write-Ins,State Senate,42,REF,Orange,"New Windsor D-13,14,15,18,19,22",
 Blank & Void,State Senate,42,REF,Orange,"New Windsor D-13,14,15,18,19,22",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"New Windsor D-16,20,21",55
-Andrew M. Cuomo,Governor ,,DEM,Orange,"New Windsor D-16,20,21",111
-Write-Ins,Governor ,,DEM,Orange,"New Windsor D-16,20,21",0
-Blank & Void,Governor ,,DEM,Orange,"New Windsor D-16,20,21",3
+Cynthia E. Nixon,Governor,,DEM,Orange,"New Windsor D-16,20,21",55
+Andrew M. Cuomo,Governor,,DEM,Orange,"New Windsor D-16,20,21",111
+Write-Ins,Governor,,DEM,Orange,"New Windsor D-16,20,21",0
+Blank & Void,Governor,,DEM,Orange,"New Windsor D-16,20,21",3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"New Windsor D-16,20,21",81
 Letitia A. James,Attorney General,,DEM,Orange,"New Windsor D-16,20,21",41
 Leecia R. Eve,Attorney General,,DEM,Orange,"New Windsor D-16,20,21",3
@@ -2463,10 +2463,10 @@ Blank & Void,State Senate,39,REF,Orange,"New Windsor D-16,20,21",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"New Windsor D-16,20,21",
 Write-Ins,State Senate,42,REF,Orange,"New Windsor D-16,20,21",
 Blank & Void,State Senate,42,REF,Orange,"New Windsor D-16,20,21",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Newburgh Town D-1,2,14",94
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Newburgh Town D-1,2,14",126
-Write-Ins,Governor ,,DEM,Orange,"Newburgh Town D-1,2,14",0
-Blank & Void,Governor ,,DEM,Orange,"Newburgh Town D-1,2,14",5
+Cynthia E. Nixon,Governor,,DEM,Orange,"Newburgh Town D-1,2,14",94
+Andrew M. Cuomo,Governor,,DEM,Orange,"Newburgh Town D-1,2,14",126
+Write-Ins,Governor,,DEM,Orange,"Newburgh Town D-1,2,14",0
+Blank & Void,Governor,,DEM,Orange,"Newburgh Town D-1,2,14",5
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Newburgh Town D-1,2,14",93
 Letitia A. James,Attorney General,,DEM,Orange,"Newburgh Town D-1,2,14",46
 Leecia R. Eve,Attorney General,,DEM,Orange,"Newburgh Town D-1,2,14",1
@@ -2495,10 +2495,10 @@ Blank & Void,State Senate,39,REF,Orange,"Newburgh Town D-1,2,14",1
 Ann G Rabbitt,State Senate,42,REF,Orange,"Newburgh Town D-1,2,14",
 Write-Ins,State Senate,42,REF,Orange,"Newburgh Town D-1,2,14",
 Blank & Void,State Senate,42,REF,Orange,"Newburgh Town D-1,2,14",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Newburgh Town D-3,13",49
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Newburgh Town D-3,13",145
-Write-Ins,Governor ,,DEM,Orange,"Newburgh Town D-3,13",0
-Blank & Void,Governor ,,DEM,Orange,"Newburgh Town D-3,13",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Newburgh Town D-3,13",49
+Andrew M. Cuomo,Governor,,DEM,Orange,"Newburgh Town D-3,13",145
+Write-Ins,Governor,,DEM,Orange,"Newburgh Town D-3,13",0
+Blank & Void,Governor,,DEM,Orange,"Newburgh Town D-3,13",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Newburgh Town D-3,13",100
 Letitia A. James,Attorney General,,DEM,Orange,"Newburgh Town D-3,13",49
 Leecia R. Eve,Attorney General,,DEM,Orange,"Newburgh Town D-3,13",8
@@ -2527,10 +2527,10 @@ Blank & Void,State Senate,39,REF,Orange,"Newburgh Town D-3,13",4
 Ann G Rabbitt,State Senate,42,REF,Orange,"Newburgh Town D-3,13",
 Write-Ins,State Senate,42,REF,Orange,"Newburgh Town D-3,13",
 Blank & Void,State Senate,42,REF,Orange,"Newburgh Town D-3,13",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Newburgh Town D-4,11",67
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Newburgh Town D-4,11",119
-Write-Ins,Governor ,,DEM,Orange,"Newburgh Town D-4,11",1
-Blank & Void,Governor ,,DEM,Orange,"Newburgh Town D-4,11",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Newburgh Town D-4,11",67
+Andrew M. Cuomo,Governor,,DEM,Orange,"Newburgh Town D-4,11",119
+Write-Ins,Governor,,DEM,Orange,"Newburgh Town D-4,11",1
+Blank & Void,Governor,,DEM,Orange,"Newburgh Town D-4,11",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Newburgh Town D-4,11",92
 Letitia A. James,Attorney General,,DEM,Orange,"Newburgh Town D-4,11",47
 Leecia R. Eve,Attorney General,,DEM,Orange,"Newburgh Town D-4,11",4
@@ -2559,10 +2559,10 @@ Blank & Void,State Senate,39,REF,Orange,"Newburgh Town D-4,11",1
 Ann G Rabbitt,State Senate,42,REF,Orange,"Newburgh Town D-4,11",
 Write-Ins,State Senate,42,REF,Orange,"Newburgh Town D-4,11",
 Blank & Void,State Senate,42,REF,Orange,"Newburgh Town D-4,11",
-Cynthia E. Nixon,Governor ,,DEM,Orange,Newburgh Town D-5,13
-Andrew M. Cuomo,Governor ,,DEM,Orange,Newburgh Town D-5,49
-Write-Ins,Governor ,,DEM,Orange,Newburgh Town D-5,0
-Blank & Void,Governor ,,DEM,Orange,Newburgh Town D-5,2
+Cynthia E. Nixon,Governor,,DEM,Orange,Newburgh Town D-5,13
+Andrew M. Cuomo,Governor,,DEM,Orange,Newburgh Town D-5,49
+Write-Ins,Governor,,DEM,Orange,Newburgh Town D-5,0
+Blank & Void,Governor,,DEM,Orange,Newburgh Town D-5,2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Newburgh Town D-5,32
 Letitia A. James,Attorney General,,DEM,Orange,Newburgh Town D-5,16
 Leecia R. Eve,Attorney General,,DEM,Orange,Newburgh Town D-5,1
@@ -2591,10 +2591,10 @@ Blank & Void,State Senate,39,REF,Orange,Newburgh Town D-5,1
 Ann G Rabbitt,State Senate,42,REF,Orange,Newburgh Town D-5,
 Write-Ins,State Senate,42,REF,Orange,Newburgh Town D-5,
 Blank & Void,State Senate,42,REF,Orange,Newburgh Town D-5,
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Newburgh Town D-6,9",51
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Newburgh Town D-6,9",124
-Write-Ins,Governor ,,DEM,Orange,"Newburgh Town D-6,9",0
-Blank & Void,Governor ,,DEM,Orange,"Newburgh Town D-6,9",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Newburgh Town D-6,9",51
+Andrew M. Cuomo,Governor,,DEM,Orange,"Newburgh Town D-6,9",124
+Write-Ins,Governor,,DEM,Orange,"Newburgh Town D-6,9",0
+Blank & Void,Governor,,DEM,Orange,"Newburgh Town D-6,9",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Newburgh Town D-6,9",83
 Letitia A. James,Attorney General,,DEM,Orange,"Newburgh Town D-6,9",57
 Leecia R. Eve,Attorney General,,DEM,Orange,"Newburgh Town D-6,9",4
@@ -2623,10 +2623,10 @@ Blank & Void,State Senate,39,REF,Orange,"Newburgh Town D-6,9",4
 Ann G Rabbitt,State Senate,42,REF,Orange,"Newburgh Town D-6,9",
 Write-Ins,State Senate,42,REF,Orange,"Newburgh Town D-6,9",
 Blank & Void,State Senate,42,REF,Orange,"Newburgh Town D-6,9",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Newburgh Town D-7,26",34
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Newburgh Town D-7,26",30
-Write-Ins,Governor ,,DEM,Orange,"Newburgh Town D-7,26",0
-Blank & Void,Governor ,,DEM,Orange,"Newburgh Town D-7,26",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Newburgh Town D-7,26",34
+Andrew M. Cuomo,Governor,,DEM,Orange,"Newburgh Town D-7,26",30
+Write-Ins,Governor,,DEM,Orange,"Newburgh Town D-7,26",0
+Blank & Void,Governor,,DEM,Orange,"Newburgh Town D-7,26",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Newburgh Town D-7,26",34
 Letitia A. James,Attorney General,,DEM,Orange,"Newburgh Town D-7,26",9
 Leecia R. Eve,Attorney General,,DEM,Orange,"Newburgh Town D-7,26",0
@@ -2655,10 +2655,10 @@ Blank & Void,State Senate,39,REF,Orange,"Newburgh Town D-7,26",1
 Ann G Rabbitt,State Senate,42,REF,Orange,"Newburgh Town D-7,26",
 Write-Ins,State Senate,42,REF,Orange,"Newburgh Town D-7,26",
 Blank & Void,State Senate,42,REF,Orange,"Newburgh Town D-7,26",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Newburgh Town D-8,22",37
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Newburgh Town D-8,22",82
-Write-Ins,Governor ,,DEM,Orange,"Newburgh Town D-8,22",0
-Blank & Void,Governor ,,DEM,Orange,"Newburgh Town D-8,22",3
+Cynthia E. Nixon,Governor,,DEM,Orange,"Newburgh Town D-8,22",37
+Andrew M. Cuomo,Governor,,DEM,Orange,"Newburgh Town D-8,22",82
+Write-Ins,Governor,,DEM,Orange,"Newburgh Town D-8,22",0
+Blank & Void,Governor,,DEM,Orange,"Newburgh Town D-8,22",3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Newburgh Town D-8,22",61
 Letitia A. James,Attorney General,,DEM,Orange,"Newburgh Town D-8,22",30
 Leecia R. Eve,Attorney General,,DEM,Orange,"Newburgh Town D-8,22",0
@@ -2687,10 +2687,10 @@ Blank & Void,State Senate,39,REF,Orange,"Newburgh Town D-8,22",1
 Ann G Rabbitt,State Senate,42,REF,Orange,"Newburgh Town D-8,22",
 Write-Ins,State Senate,42,REF,Orange,"Newburgh Town D-8,22",
 Blank & Void,State Senate,42,REF,Orange,"Newburgh Town D-8,22",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Newburgh Town D-10,20,23,27",89
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Newburgh Town D-10,20,23,27",227
-Write-Ins,Governor ,,DEM,Orange,"Newburgh Town D-10,20,23,27",0
-Blank & Void,Governor ,,DEM,Orange,"Newburgh Town D-10,20,23,27",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Newburgh Town D-10,20,23,27",89
+Andrew M. Cuomo,Governor,,DEM,Orange,"Newburgh Town D-10,20,23,27",227
+Write-Ins,Governor,,DEM,Orange,"Newburgh Town D-10,20,23,27",0
+Blank & Void,Governor,,DEM,Orange,"Newburgh Town D-10,20,23,27",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Newburgh Town D-10,20,23,27",138
 Letitia A. James,Attorney General,,DEM,Orange,"Newburgh Town D-10,20,23,27",137
 Leecia R. Eve,Attorney General,,DEM,Orange,"Newburgh Town D-10,20,23,27",3
@@ -2719,10 +2719,10 @@ Blank & Void,State Senate,39,REF,Orange,"Newburgh Town D-10,20,23,27",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Newburgh Town D-10,20,23,27",
 Write-Ins,State Senate,42,REF,Orange,"Newburgh Town D-10,20,23,27",
 Blank & Void,State Senate,42,REF,Orange,"Newburgh Town D-10,20,23,27",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Newburgh Town D-12,18,19,21",97
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Newburgh Town D-12,18,19,21",136
-Write-Ins,Governor ,,DEM,Orange,"Newburgh Town D-12,18,19,21",0
-Blank & Void,Governor ,,DEM,Orange,"Newburgh Town D-12,18,19,21",5
+Cynthia E. Nixon,Governor,,DEM,Orange,"Newburgh Town D-12,18,19,21",97
+Andrew M. Cuomo,Governor,,DEM,Orange,"Newburgh Town D-12,18,19,21",136
+Write-Ins,Governor,,DEM,Orange,"Newburgh Town D-12,18,19,21",0
+Blank & Void,Governor,,DEM,Orange,"Newburgh Town D-12,18,19,21",5
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Newburgh Town D-12,18,19,21",96
 Letitia A. James,Attorney General,,DEM,Orange,"Newburgh Town D-12,18,19,21",64
 Leecia R. Eve,Attorney General,,DEM,Orange,"Newburgh Town D-12,18,19,21",2
@@ -2751,10 +2751,10 @@ Blank & Void,State Senate,39,REF,Orange,"Newburgh Town D-12,18,19,21",2
 Ann G Rabbitt,State Senate,42,REF,Orange,"Newburgh Town D-12,18,19,21",
 Write-Ins,State Senate,42,REF,Orange,"Newburgh Town D-12,18,19,21",
 Blank & Void,State Senate,42,REF,Orange,"Newburgh Town D-12,18,19,21",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Newburgh Town D-15,16,24",81
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Newburgh Town D-15,16,24",123
-Write-Ins,Governor ,,DEM,Orange,"Newburgh Town D-15,16,24",0
-Blank & Void,Governor ,,DEM,Orange,"Newburgh Town D-15,16,24",3
+Cynthia E. Nixon,Governor,,DEM,Orange,"Newburgh Town D-15,16,24",81
+Andrew M. Cuomo,Governor,,DEM,Orange,"Newburgh Town D-15,16,24",123
+Write-Ins,Governor,,DEM,Orange,"Newburgh Town D-15,16,24",0
+Blank & Void,Governor,,DEM,Orange,"Newburgh Town D-15,16,24",3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Newburgh Town D-15,16,24",107
 Letitia A. James,Attorney General,,DEM,Orange,"Newburgh Town D-15,16,24",44
 Leecia R. Eve,Attorney General,,DEM,Orange,"Newburgh Town D-15,16,24",2
@@ -2783,10 +2783,10 @@ Blank & Void,State Senate,39,REF,Orange,"Newburgh Town D-15,16,24",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Newburgh Town D-15,16,24",
 Write-Ins,State Senate,42,REF,Orange,"Newburgh Town D-15,16,24",
 Blank & Void,State Senate,42,REF,Orange,"Newburgh Town D-15,16,24",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Newburgh Town D-17,25",70
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Newburgh Town D-17,25",112
-Write-Ins,Governor ,,DEM,Orange,"Newburgh Town D-17,25",0
-Blank & Void,Governor ,,DEM,Orange,"Newburgh Town D-17,25",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Newburgh Town D-17,25",70
+Andrew M. Cuomo,Governor,,DEM,Orange,"Newburgh Town D-17,25",112
+Write-Ins,Governor,,DEM,Orange,"Newburgh Town D-17,25",0
+Blank & Void,Governor,,DEM,Orange,"Newburgh Town D-17,25",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Newburgh Town D-17,25",93
 Letitia A. James,Attorney General,,DEM,Orange,"Newburgh Town D-17,25",57
 Leecia R. Eve,Attorney General,,DEM,Orange,"Newburgh Town D-17,25",1
@@ -2815,10 +2815,10 @@ Blank & Void,State Senate,39,REF,Orange,"Newburgh Town D-17,25",1
 Ann G Rabbitt,State Senate,42,REF,Orange,"Newburgh Town D-17,25",
 Write-Ins,State Senate,42,REF,Orange,"Newburgh Town D-17,25",
 Blank & Void,State Senate,42,REF,Orange,"Newburgh Town D-17,25",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Palm Tree D-1,2,3,4",2
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Palm Tree D-1,2,3,4",10
-Write-Ins,Governor ,,DEM,Orange,"Palm Tree D-1,2,3,4",0
-Blank & Void,Governor ,,DEM,Orange,"Palm Tree D-1,2,3,4",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Palm Tree D-1,2,3,4",2
+Andrew M. Cuomo,Governor,,DEM,Orange,"Palm Tree D-1,2,3,4",10
+Write-Ins,Governor,,DEM,Orange,"Palm Tree D-1,2,3,4",0
+Blank & Void,Governor,,DEM,Orange,"Palm Tree D-1,2,3,4",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Palm Tree D-1,2,3,4",5
 Letitia A. James,Attorney General,,DEM,Orange,"Palm Tree D-1,2,3,4",7
 Leecia R. Eve,Attorney General,,DEM,Orange,"Palm Tree D-1,2,3,4",0
@@ -2847,10 +2847,10 @@ Blank & Void,State Senate,39,REF,Orange,"Palm Tree D-1,2,3,4",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Palm Tree D-1,2,3,4",
 Write-Ins,State Senate,42,REF,Orange,"Palm Tree D-1,2,3,4",
 Blank & Void,State Senate,42,REF,Orange,"Palm Tree D-1,2,3,4",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Palm Tree D-5,6,7,8",5
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Palm Tree D-5,6,7,8",4
-Write-Ins,Governor ,,DEM,Orange,"Palm Tree D-5,6,7,8",0
-Blank & Void,Governor ,,DEM,Orange,"Palm Tree D-5,6,7,8",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Palm Tree D-5,6,7,8",5
+Andrew M. Cuomo,Governor,,DEM,Orange,"Palm Tree D-5,6,7,8",4
+Write-Ins,Governor,,DEM,Orange,"Palm Tree D-5,6,7,8",0
+Blank & Void,Governor,,DEM,Orange,"Palm Tree D-5,6,7,8",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Palm Tree D-5,6,7,8",3
 Letitia A. James,Attorney General,,DEM,Orange,"Palm Tree D-5,6,7,8",4
 Leecia R. Eve,Attorney General,,DEM,Orange,"Palm Tree D-5,6,7,8",0
@@ -2879,10 +2879,10 @@ Blank & Void,State Senate,39,REF,Orange,"Palm Tree D-5,6,7,8",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Palm Tree D-5,6,7,8",
 Write-Ins,State Senate,42,REF,Orange,"Palm Tree D-5,6,7,8",
 Blank & Void,State Senate,42,REF,Orange,"Palm Tree D-5,6,7,8",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Palm Tree D-9,10,11,12",1
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Palm Tree D-9,10,11,12",7
-Write-Ins,Governor ,,DEM,Orange,"Palm Tree D-9,10,11,12",0
-Blank & Void,Governor ,,DEM,Orange,"Palm Tree D-9,10,11,12",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Palm Tree D-9,10,11,12",1
+Andrew M. Cuomo,Governor,,DEM,Orange,"Palm Tree D-9,10,11,12",7
+Write-Ins,Governor,,DEM,Orange,"Palm Tree D-9,10,11,12",0
+Blank & Void,Governor,,DEM,Orange,"Palm Tree D-9,10,11,12",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Palm Tree D-9,10,11,12",6
 Letitia A. James,Attorney General,,DEM,Orange,"Palm Tree D-9,10,11,12",2
 Leecia R. Eve,Attorney General,,DEM,Orange,"Palm Tree D-9,10,11,12",0
@@ -2911,10 +2911,10 @@ Blank & Void,State Senate,39,REF,Orange,"Palm Tree D-9,10,11,12",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Palm Tree D-9,10,11,12",
 Write-Ins,State Senate,42,REF,Orange,"Palm Tree D-9,10,11,12",
 Blank & Void,State Senate,42,REF,Orange,"Palm Tree D-9,10,11,12",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Palm Tree D-13,14,15",2
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Palm Tree D-13,14,15",3
-Write-Ins,Governor ,,DEM,Orange,"Palm Tree D-13,14,15",0
-Blank & Void,Governor ,,DEM,Orange,"Palm Tree D-13,14,15",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Palm Tree D-13,14,15",2
+Andrew M. Cuomo,Governor,,DEM,Orange,"Palm Tree D-13,14,15",3
+Write-Ins,Governor,,DEM,Orange,"Palm Tree D-13,14,15",0
+Blank & Void,Governor,,DEM,Orange,"Palm Tree D-13,14,15",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Palm Tree D-13,14,15",1
 Letitia A. James,Attorney General,,DEM,Orange,"Palm Tree D-13,14,15",3
 Leecia R. Eve,Attorney General,,DEM,Orange,"Palm Tree D-13,14,15",1
@@ -2943,10 +2943,10 @@ Blank & Void,State Senate,39,REF,Orange,"Palm Tree D-13,14,15",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Palm Tree D-13,14,15",
 Write-Ins,State Senate,42,REF,Orange,"Palm Tree D-13,14,15",
 Blank & Void,State Senate,42,REF,Orange,"Palm Tree D-13,14,15",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Palm Tree D-16,17,18,19",0
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Palm Tree D-16,17,18,19",3
-Write-Ins,Governor ,,DEM,Orange,"Palm Tree D-16,17,18,19",0
-Blank & Void,Governor ,,DEM,Orange,"Palm Tree D-16,17,18,19",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Palm Tree D-16,17,18,19",0
+Andrew M. Cuomo,Governor,,DEM,Orange,"Palm Tree D-16,17,18,19",3
+Write-Ins,Governor,,DEM,Orange,"Palm Tree D-16,17,18,19",0
+Blank & Void,Governor,,DEM,Orange,"Palm Tree D-16,17,18,19",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Palm Tree D-16,17,18,19",1
 Letitia A. James,Attorney General,,DEM,Orange,"Palm Tree D-16,17,18,19",2
 Leecia R. Eve,Attorney General,,DEM,Orange,"Palm Tree D-16,17,18,19",0
@@ -2975,10 +2975,10 @@ Blank & Void,State Senate,39,REF,Orange,"Palm Tree D-16,17,18,19",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Palm Tree D-16,17,18,19",
 Write-Ins,State Senate,42,REF,Orange,"Palm Tree D-16,17,18,19",
 Blank & Void,State Senate,42,REF,Orange,"Palm Tree D-16,17,18,19",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Tuxedo D-1,3",41
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Tuxedo D-1,3",52
-Write-Ins,Governor ,,DEM,Orange,"Tuxedo D-1,3",0
-Blank & Void,Governor ,,DEM,Orange,"Tuxedo D-1,3",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Tuxedo D-1,3",41
+Andrew M. Cuomo,Governor,,DEM,Orange,"Tuxedo D-1,3",52
+Write-Ins,Governor,,DEM,Orange,"Tuxedo D-1,3",0
+Blank & Void,Governor,,DEM,Orange,"Tuxedo D-1,3",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Tuxedo D-1,3",44
 Letitia A. James,Attorney General,,DEM,Orange,"Tuxedo D-1,3",11
 Leecia R. Eve,Attorney General,,DEM,Orange,"Tuxedo D-1,3",4
@@ -3007,10 +3007,10 @@ Blank & Void,State Senate,39,REF,Orange,"Tuxedo D-1,3",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Tuxedo D-1,3",5
 Write-Ins,State Senate,42,REF,Orange,"Tuxedo D-1,3",5
 Blank & Void,State Senate,42,REF,Orange,"Tuxedo D-1,3",0
-Cynthia E. Nixon,Governor ,,DEM,Orange,Tuxedo D-2,37
-Andrew M. Cuomo,Governor ,,DEM,Orange,Tuxedo D-2,44
-Write-Ins,Governor ,,DEM,Orange,Tuxedo D-2,0
-Blank & Void,Governor ,,DEM,Orange,Tuxedo D-2,0
+Cynthia E. Nixon,Governor,,DEM,Orange,Tuxedo D-2,37
+Andrew M. Cuomo,Governor,,DEM,Orange,Tuxedo D-2,44
+Write-Ins,Governor,,DEM,Orange,Tuxedo D-2,0
+Blank & Void,Governor,,DEM,Orange,Tuxedo D-2,0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Tuxedo D-2,40
 Letitia A. James,Attorney General,,DEM,Orange,Tuxedo D-2,5
 Leecia R. Eve,Attorney General,,DEM,Orange,Tuxedo D-2,1
@@ -3039,10 +3039,10 @@ Blank & Void,State Senate,39,REF,Orange,Tuxedo D-2,
 Ann G Rabbitt,State Senate,42,REF,Orange,Tuxedo D-2,0
 Write-Ins,State Senate,42,REF,Orange,Tuxedo D-2,3
 Blank & Void,State Senate,42,REF,Orange,Tuxedo D-2,0
-Cynthia E. Nixon,Governor ,,DEM,Orange,Tuxedo D-4,26
-Andrew M. Cuomo,Governor ,,DEM,Orange,Tuxedo D-4,58
-Write-Ins,Governor ,,DEM,Orange,Tuxedo D-4,0
-Blank & Void,Governor ,,DEM,Orange,Tuxedo D-4,1
+Cynthia E. Nixon,Governor,,DEM,Orange,Tuxedo D-4,26
+Andrew M. Cuomo,Governor,,DEM,Orange,Tuxedo D-4,58
+Write-Ins,Governor,,DEM,Orange,Tuxedo D-4,0
+Blank & Void,Governor,,DEM,Orange,Tuxedo D-4,1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Tuxedo D-4,32
 Letitia A. James,Attorney General,,DEM,Orange,Tuxedo D-4,22
 Leecia R. Eve,Attorney General,,DEM,Orange,Tuxedo D-4,3
@@ -3071,10 +3071,10 @@ Blank & Void,State Senate,39,REF,Orange,Tuxedo D-4,
 Ann G Rabbitt,State Senate,42,REF,Orange,Tuxedo D-4,0
 Write-Ins,State Senate,42,REF,Orange,Tuxedo D-4,1
 Blank & Void,State Senate,42,REF,Orange,Tuxedo D-4,1
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Wallkill W1-D1,7",52
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Wallkill W1-D1,7",53
-Write-Ins,Governor ,,DEM,Orange,"Wallkill W1-D1,7",2
-Blank & Void,Governor ,,DEM,Orange,"Wallkill W1-D1,7",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Wallkill W1-D1,7",52
+Andrew M. Cuomo,Governor,,DEM,Orange,"Wallkill W1-D1,7",53
+Write-Ins,Governor,,DEM,Orange,"Wallkill W1-D1,7",2
+Blank & Void,Governor,,DEM,Orange,"Wallkill W1-D1,7",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Wallkill W1-D1,7",49
 Letitia A. James,Attorney General,,DEM,Orange,"Wallkill W1-D1,7",17
 Leecia R. Eve,Attorney General,,DEM,Orange,"Wallkill W1-D1,7",2
@@ -3103,10 +3103,10 @@ Blank & Void,State Senate,39,REF,Orange,"Wallkill W1-D1,7",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Wallkill W1-D1,7",0
 Write-Ins,State Senate,42,REF,Orange,"Wallkill W1-D1,7",5
 Blank & Void,State Senate,42,REF,Orange,"Wallkill W1-D1,7",0
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Wallkill W1-D2,3",55
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Wallkill W1-D2,3",82
-Write-Ins,Governor ,,DEM,Orange,"Wallkill W1-D2,3",0
-Blank & Void,Governor ,,DEM,Orange,"Wallkill W1-D2,3",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Wallkill W1-D2,3",55
+Andrew M. Cuomo,Governor,,DEM,Orange,"Wallkill W1-D2,3",82
+Write-Ins,Governor,,DEM,Orange,"Wallkill W1-D2,3",0
+Blank & Void,Governor,,DEM,Orange,"Wallkill W1-D2,3",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Wallkill W1-D2,3",62
 Letitia A. James,Attorney General,,DEM,Orange,"Wallkill W1-D2,3",28
 Leecia R. Eve,Attorney General,,DEM,Orange,"Wallkill W1-D2,3",4
@@ -3135,10 +3135,10 @@ Blank & Void,State Senate,39,REF,Orange,"Wallkill W1-D2,3",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Wallkill W1-D2,3",2
 Write-Ins,State Senate,42,REF,Orange,"Wallkill W1-D2,3",7
 Blank & Void,State Senate,42,REF,Orange,"Wallkill W1-D2,3",0
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Wallkill W1-D4,6 W2-D1,2,3,6,7",81
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Wallkill W1-D4,6 W2-D1,2,3,6,7",280
-Write-Ins,Governor ,,DEM,Orange,"Wallkill W1-D4,6 W2-D1,2,3,6,7",0
-Blank & Void,Governor ,,DEM,Orange,"Wallkill W1-D4,6 W2-D1,2,3,6,7",3
+Cynthia E. Nixon,Governor,,DEM,Orange,"Wallkill W1-D4,6 W2-D1,2,3,6,7",81
+Andrew M. Cuomo,Governor,,DEM,Orange,"Wallkill W1-D4,6 W2-D1,2,3,6,7",280
+Write-Ins,Governor,,DEM,Orange,"Wallkill W1-D4,6 W2-D1,2,3,6,7",0
+Blank & Void,Governor,,DEM,Orange,"Wallkill W1-D4,6 W2-D1,2,3,6,7",3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Wallkill W1-D4,6 W2-D1,2,3,6,7",173
 Letitia A. James,Attorney General,,DEM,Orange,"Wallkill W1-D4,6 W2-D1,2,3,6,7",117
 Leecia R. Eve,Attorney General,,DEM,Orange,"Wallkill W1-D4,6 W2-D1,2,3,6,7",11
@@ -3167,10 +3167,10 @@ Blank & Void,State Senate,39,REF,Orange,"Wallkill W1-D4,6 W2-D1,2,3,6,7",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Wallkill W1-D4,6 W2-D1,2,3,6,7",8
 Write-Ins,State Senate,42,REF,Orange,"Wallkill W1-D4,6 W2-D1,2,3,6,7",5
 Blank & Void,State Senate,42,REF,Orange,"Wallkill W1-D4,6 W2-D1,2,3,6,7",4
-Cynthia E. Nixon,Governor ,,DEM,Orange,Wallkill W1-D5,6
-Andrew M. Cuomo,Governor ,,DEM,Orange,Wallkill W1-D5,16
-Write-Ins,Governor ,,DEM,Orange,Wallkill W1-D5,0
-Blank & Void,Governor ,,DEM,Orange,Wallkill W1-D5,0
+Cynthia E. Nixon,Governor,,DEM,Orange,Wallkill W1-D5,6
+Andrew M. Cuomo,Governor,,DEM,Orange,Wallkill W1-D5,16
+Write-Ins,Governor,,DEM,Orange,Wallkill W1-D5,0
+Blank & Void,Governor,,DEM,Orange,Wallkill W1-D5,0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Wallkill W1-D5,8
 Letitia A. James,Attorney General,,DEM,Orange,Wallkill W1-D5,5
 Leecia R. Eve,Attorney General,,DEM,Orange,Wallkill W1-D5,1
@@ -3199,10 +3199,10 @@ Blank & Void,State Senate,39,REF,Orange,Wallkill W1-D5,
 Ann G Rabbitt,State Senate,42,REF,Orange,Wallkill W1-D5,0
 Write-Ins,State Senate,42,REF,Orange,Wallkill W1-D5,0
 Blank & Void,State Senate,42,REF,Orange,Wallkill W1-D5,0
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Wallkill W2-D4,5 W3-D2",68
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Wallkill W2-D4,5 W3-D2",161
-Write-Ins,Governor ,,DEM,Orange,"Wallkill W2-D4,5 W3-D2",1
-Blank & Void,Governor ,,DEM,Orange,"Wallkill W2-D4,5 W3-D2",4
+Cynthia E. Nixon,Governor,,DEM,Orange,"Wallkill W2-D4,5 W3-D2",68
+Andrew M. Cuomo,Governor,,DEM,Orange,"Wallkill W2-D4,5 W3-D2",161
+Write-Ins,Governor,,DEM,Orange,"Wallkill W2-D4,5 W3-D2",1
+Blank & Void,Governor,,DEM,Orange,"Wallkill W2-D4,5 W3-D2",4
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Wallkill W2-D4,5 W3-D2",114
 Letitia A. James,Attorney General,,DEM,Orange,"Wallkill W2-D4,5 W3-D2",79
 Leecia R. Eve,Attorney General,,DEM,Orange,"Wallkill W2-D4,5 W3-D2",6
@@ -3231,10 +3231,10 @@ Blank & Void,State Senate,39,REF,Orange,"Wallkill W2-D4,5 W3-D2",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Wallkill W2-D4,5 W3-D2",7
 Write-Ins,State Senate,42,REF,Orange,"Wallkill W2-D4,5 W3-D2",10
 Blank & Void,State Senate,42,REF,Orange,"Wallkill W2-D4,5 W3-D2",2
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Wallkill W3-D1,3",68
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Wallkill W3-D1,3",243
-Write-Ins,Governor ,,DEM,Orange,"Wallkill W3-D1,3",0
-Blank & Void,Governor ,,DEM,Orange,"Wallkill W3-D1,3",3
+Cynthia E. Nixon,Governor,,DEM,Orange,"Wallkill W3-D1,3",68
+Andrew M. Cuomo,Governor,,DEM,Orange,"Wallkill W3-D1,3",243
+Write-Ins,Governor,,DEM,Orange,"Wallkill W3-D1,3",0
+Blank & Void,Governor,,DEM,Orange,"Wallkill W3-D1,3",3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Wallkill W3-D1,3",123
 Letitia A. James,Attorney General,,DEM,Orange,"Wallkill W3-D1,3",128
 Leecia R. Eve,Attorney General,,DEM,Orange,"Wallkill W3-D1,3",7
@@ -3263,10 +3263,10 @@ Blank & Void,State Senate,39,REF,Orange,"Wallkill W3-D1,3",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Wallkill W3-D1,3",0
 Write-Ins,State Senate,42,REF,Orange,"Wallkill W3-D1,3",2
 Blank & Void,State Senate,42,REF,Orange,"Wallkill W3-D1,3",3
-Cynthia E. Nixon,Governor ,,DEM,Orange,Wallkill W3-D4,21
-Andrew M. Cuomo,Governor ,,DEM,Orange,Wallkill W3-D4,92
-Write-Ins,Governor ,,DEM,Orange,Wallkill W3-D4,1
-Blank & Void,Governor ,,DEM,Orange,Wallkill W3-D4,5
+Cynthia E. Nixon,Governor,,DEM,Orange,Wallkill W3-D4,21
+Andrew M. Cuomo,Governor,,DEM,Orange,Wallkill W3-D4,92
+Write-Ins,Governor,,DEM,Orange,Wallkill W3-D4,1
+Blank & Void,Governor,,DEM,Orange,Wallkill W3-D4,5
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Wallkill W3-D4,53
 Letitia A. James,Attorney General,,DEM,Orange,Wallkill W3-D4,37
 Leecia R. Eve,Attorney General,,DEM,Orange,Wallkill W3-D4,6
@@ -3295,10 +3295,10 @@ Blank & Void,State Senate,39,REF,Orange,Wallkill W3-D4,
 Ann G Rabbitt,State Senate,42,REF,Orange,Wallkill W3-D4,4
 Write-Ins,State Senate,42,REF,Orange,Wallkill W3-D4,0
 Blank & Void,State Senate,42,REF,Orange,Wallkill W3-D4,4
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Wallkill W3-D5,6,7",93
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Wallkill W3-D5,6,7",245
-Write-Ins,Governor ,,DEM,Orange,"Wallkill W3-D5,6,7",1
-Blank & Void,Governor ,,DEM,Orange,"Wallkill W3-D5,6,7",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Wallkill W3-D5,6,7",93
+Andrew M. Cuomo,Governor,,DEM,Orange,"Wallkill W3-D5,6,7",245
+Write-Ins,Governor,,DEM,Orange,"Wallkill W3-D5,6,7",1
+Blank & Void,Governor,,DEM,Orange,"Wallkill W3-D5,6,7",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Wallkill W3-D5,6,7",162
 Letitia A. James,Attorney General,,DEM,Orange,"Wallkill W3-D5,6,7",116
 Leecia R. Eve,Attorney General,,DEM,Orange,"Wallkill W3-D5,6,7",8
@@ -3327,10 +3327,10 @@ Blank & Void,State Senate,39,REF,Orange,"Wallkill W3-D5,6,7",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Wallkill W3-D5,6,7",13
 Write-Ins,State Senate,42,REF,Orange,"Wallkill W3-D5,6,7",0
 Blank & Void,State Senate,42,REF,Orange,"Wallkill W3-D5,6,7",1
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Wallkill W4-D1,5",50
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Wallkill W4-D1,5",77
-Write-Ins,Governor ,,DEM,Orange,"Wallkill W4-D1,5",0
-Blank & Void,Governor ,,DEM,Orange,"Wallkill W4-D1,5",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Wallkill W4-D1,5",50
+Andrew M. Cuomo,Governor,,DEM,Orange,"Wallkill W4-D1,5",77
+Write-Ins,Governor,,DEM,Orange,"Wallkill W4-D1,5",0
+Blank & Void,Governor,,DEM,Orange,"Wallkill W4-D1,5",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Wallkill W4-D1,5",54
 Letitia A. James,Attorney General,,DEM,Orange,"Wallkill W4-D1,5",34
 Leecia R. Eve,Attorney General,,DEM,Orange,"Wallkill W4-D1,5",1
@@ -3359,10 +3359,10 @@ Blank & Void,State Senate,39,REF,Orange,"Wallkill W4-D1,5",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Wallkill W4-D1,5",12
 Write-Ins,State Senate,42,REF,Orange,"Wallkill W4-D1,5",7
 Blank & Void,State Senate,42,REF,Orange,"Wallkill W4-D1,5",7
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Wallkill W4-D2,3",30
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Wallkill W4-D2,3",58
-Write-Ins,Governor ,,DEM,Orange,"Wallkill W4-D2,3",0
-Blank & Void,Governor ,,DEM,Orange,"Wallkill W4-D2,3",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Wallkill W4-D2,3",30
+Andrew M. Cuomo,Governor,,DEM,Orange,"Wallkill W4-D2,3",58
+Write-Ins,Governor,,DEM,Orange,"Wallkill W4-D2,3",0
+Blank & Void,Governor,,DEM,Orange,"Wallkill W4-D2,3",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Wallkill W4-D2,3",49
 Letitia A. James,Attorney General,,DEM,Orange,"Wallkill W4-D2,3",20
 Leecia R. Eve,Attorney General,,DEM,Orange,"Wallkill W4-D2,3",5
@@ -3391,10 +3391,10 @@ Blank & Void,State Senate,39,REF,Orange,"Wallkill W4-D2,3",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Wallkill W4-D2,3",4
 Write-Ins,State Senate,42,REF,Orange,"Wallkill W4-D2,3",0
 Blank & Void,State Senate,42,REF,Orange,"Wallkill W4-D2,3",0
-Cynthia E. Nixon,Governor ,,DEM,Orange,Wallkill W4-D4,42
-Andrew M. Cuomo,Governor ,,DEM,Orange,Wallkill W4-D4,43
-Write-Ins,Governor ,,DEM,Orange,Wallkill W4-D4,0
-Blank & Void,Governor ,,DEM,Orange,Wallkill W4-D4,0
+Cynthia E. Nixon,Governor,,DEM,Orange,Wallkill W4-D4,42
+Andrew M. Cuomo,Governor,,DEM,Orange,Wallkill W4-D4,43
+Write-Ins,Governor,,DEM,Orange,Wallkill W4-D4,0
+Blank & Void,Governor,,DEM,Orange,Wallkill W4-D4,0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Wallkill W4-D4,39
 Letitia A. James,Attorney General,,DEM,Orange,Wallkill W4-D4,20
 Leecia R. Eve,Attorney General,,DEM,Orange,Wallkill W4-D4,3
@@ -3423,10 +3423,10 @@ Blank & Void,State Senate,39,REF,Orange,Wallkill W4-D4,
 Ann G Rabbitt,State Senate,42,REF,Orange,Wallkill W4-D4,3
 Write-Ins,State Senate,42,REF,Orange,Wallkill W4-D4,0
 Blank & Void,State Senate,42,REF,Orange,Wallkill W4-D4,1
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Warwick D-1,4,24",131
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Warwick D-1,4,24",108
-Write-Ins,Governor ,,DEM,Orange,"Warwick D-1,4,24",0
-Blank & Void,Governor ,,DEM,Orange,"Warwick D-1,4,24",3
+Cynthia E. Nixon,Governor,,DEM,Orange,"Warwick D-1,4,24",131
+Andrew M. Cuomo,Governor,,DEM,Orange,"Warwick D-1,4,24",108
+Write-Ins,Governor,,DEM,Orange,"Warwick D-1,4,24",0
+Blank & Void,Governor,,DEM,Orange,"Warwick D-1,4,24",3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Warwick D-1,4,24",85
 Letitia A. James,Attorney General,,DEM,Orange,"Warwick D-1,4,24",33
 Leecia R. Eve,Attorney General,,DEM,Orange,"Warwick D-1,4,24",8
@@ -3455,10 +3455,10 @@ Blank & Void,State Senate,39,REF,Orange,"Warwick D-1,4,24",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Warwick D-1,4,24",10
 Write-Ins,State Senate,42,REF,Orange,"Warwick D-1,4,24",6
 Blank & Void,State Senate,42,REF,Orange,"Warwick D-1,4,24",3
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Warwick D-2,15,28",55
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Warwick D-2,15,28",91
-Write-Ins,Governor ,,DEM,Orange,"Warwick D-2,15,28",0
-Blank & Void,Governor ,,DEM,Orange,"Warwick D-2,15,28",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Warwick D-2,15,28",55
+Andrew M. Cuomo,Governor,,DEM,Orange,"Warwick D-2,15,28",91
+Write-Ins,Governor,,DEM,Orange,"Warwick D-2,15,28",0
+Blank & Void,Governor,,DEM,Orange,"Warwick D-2,15,28",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Warwick D-2,15,28",84
 Letitia A. James,Attorney General,,DEM,Orange,"Warwick D-2,15,28",16
 Leecia R. Eve,Attorney General,,DEM,Orange,"Warwick D-2,15,28",1
@@ -3487,10 +3487,10 @@ Blank & Void,State Senate,39,REF,Orange,"Warwick D-2,15,28",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Warwick D-2,15,28",8
 Write-Ins,State Senate,42,REF,Orange,"Warwick D-2,15,28",11
 Blank & Void,State Senate,42,REF,Orange,"Warwick D-2,15,28",1
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Warwick D-3,12",60
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Warwick D-3,12",102
-Write-Ins,Governor ,,DEM,Orange,"Warwick D-3,12",0
-Blank & Void,Governor ,,DEM,Orange,"Warwick D-3,12",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Warwick D-3,12",60
+Andrew M. Cuomo,Governor,,DEM,Orange,"Warwick D-3,12",102
+Write-Ins,Governor,,DEM,Orange,"Warwick D-3,12",0
+Blank & Void,Governor,,DEM,Orange,"Warwick D-3,12",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Warwick D-3,12",60
 Letitia A. James,Attorney General,,DEM,Orange,"Warwick D-3,12",48
 Leecia R. Eve,Attorney General,,DEM,Orange,"Warwick D-3,12",3
@@ -3519,10 +3519,10 @@ Blank & Void,State Senate,39,REF,Orange,"Warwick D-3,12",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Warwick D-3,12",6
 Write-Ins,State Senate,42,REF,Orange,"Warwick D-3,12",9
 Blank & Void,State Senate,42,REF,Orange,"Warwick D-3,12",3
-Cynthia E. Nixon,Governor ,,DEM,Orange,Warwick D-5,33
-Andrew M. Cuomo,Governor ,,DEM,Orange,Warwick D-5,55
-Write-Ins,Governor ,,DEM,Orange,Warwick D-5,0
-Blank & Void,Governor ,,DEM,Orange,Warwick D-5,2
+Cynthia E. Nixon,Governor,,DEM,Orange,Warwick D-5,33
+Andrew M. Cuomo,Governor,,DEM,Orange,Warwick D-5,55
+Write-Ins,Governor,,DEM,Orange,Warwick D-5,0
+Blank & Void,Governor,,DEM,Orange,Warwick D-5,2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Warwick D-5,43
 Letitia A. James,Attorney General,,DEM,Orange,Warwick D-5,15
 Leecia R. Eve,Attorney General,,DEM,Orange,Warwick D-5,3
@@ -3551,10 +3551,10 @@ Blank & Void,State Senate,39,REF,Orange,Warwick D-5,
 Ann G Rabbitt,State Senate,42,REF,Orange,Warwick D-5,2
 Write-Ins,State Senate,42,REF,Orange,Warwick D-5,7
 Blank & Void,State Senate,42,REF,Orange,Warwick D-5,0
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Warwick D-6,9,29",74
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Warwick D-6,9,29",138
-Write-Ins,Governor ,,DEM,Orange,"Warwick D-6,9,29",0
-Blank & Void,Governor ,,DEM,Orange,"Warwick D-6,9,29",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Warwick D-6,9,29",74
+Andrew M. Cuomo,Governor,,DEM,Orange,"Warwick D-6,9,29",138
+Write-Ins,Governor,,DEM,Orange,"Warwick D-6,9,29",0
+Blank & Void,Governor,,DEM,Orange,"Warwick D-6,9,29",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Warwick D-6,9,29",96
 Letitia A. James,Attorney General,,DEM,Orange,"Warwick D-6,9,29",52
 Leecia R. Eve,Attorney General,,DEM,Orange,"Warwick D-6,9,29",3
@@ -3583,10 +3583,10 @@ Blank & Void,State Senate,39,REF,Orange,"Warwick D-6,9,29",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Warwick D-6,9,29",11
 Write-Ins,State Senate,42,REF,Orange,"Warwick D-6,9,29",7
 Blank & Void,State Senate,42,REF,Orange,"Warwick D-6,9,29",0
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Warwick D-7,21,31",59
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Warwick D-7,21,31",117
-Write-Ins,Governor ,,DEM,Orange,"Warwick D-7,21,31",0
-Blank & Void,Governor ,,DEM,Orange,"Warwick D-7,21,31",4
+Cynthia E. Nixon,Governor,,DEM,Orange,"Warwick D-7,21,31",59
+Andrew M. Cuomo,Governor,,DEM,Orange,"Warwick D-7,21,31",117
+Write-Ins,Governor,,DEM,Orange,"Warwick D-7,21,31",0
+Blank & Void,Governor,,DEM,Orange,"Warwick D-7,21,31",4
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Warwick D-7,21,31",84
 Letitia A. James,Attorney General,,DEM,Orange,"Warwick D-7,21,31",24
 Leecia R. Eve,Attorney General,,DEM,Orange,"Warwick D-7,21,31",3
@@ -3615,10 +3615,10 @@ Blank & Void,State Senate,39,REF,Orange,"Warwick D-7,21,31",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Warwick D-7,21,31",7
 Write-Ins,State Senate,42,REF,Orange,"Warwick D-7,21,31",7
 Blank & Void,State Senate,42,REF,Orange,"Warwick D-7,21,31",2
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Warwick D-8,16,26",133
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Warwick D-8,16,26",130
-Write-Ins,Governor ,,DEM,Orange,"Warwick D-8,16,26",0
-Blank & Void,Governor ,,DEM,Orange,"Warwick D-8,16,26",3
+Cynthia E. Nixon,Governor,,DEM,Orange,"Warwick D-8,16,26",133
+Andrew M. Cuomo,Governor,,DEM,Orange,"Warwick D-8,16,26",130
+Write-Ins,Governor,,DEM,Orange,"Warwick D-8,16,26",0
+Blank & Void,Governor,,DEM,Orange,"Warwick D-8,16,26",3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Warwick D-8,16,26",125
 Letitia A. James,Attorney General,,DEM,Orange,"Warwick D-8,16,26",30
 Leecia R. Eve,Attorney General,,DEM,Orange,"Warwick D-8,16,26",3
@@ -3647,10 +3647,10 @@ Blank & Void,State Senate,39,REF,Orange,"Warwick D-8,16,26",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Warwick D-8,16,26",3
 Write-Ins,State Senate,42,REF,Orange,"Warwick D-8,16,26",12
 Blank & Void,State Senate,42,REF,Orange,"Warwick D-8,16,26",0
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Warwick D-10,11,14,18,19,25",159
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Warwick D-10,11,14,18,19,25",208
-Write-Ins,Governor ,,DEM,Orange,"Warwick D-10,11,14,18,19,25",3
-Blank & Void,Governor ,,DEM,Orange,"Warwick D-10,11,14,18,19,25",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Warwick D-10,11,14,18,19,25",159
+Andrew M. Cuomo,Governor,,DEM,Orange,"Warwick D-10,11,14,18,19,25",208
+Write-Ins,Governor,,DEM,Orange,"Warwick D-10,11,14,18,19,25",3
+Blank & Void,Governor,,DEM,Orange,"Warwick D-10,11,14,18,19,25",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Warwick D-10,11,14,18,19,25",184
 Letitia A. James,Attorney General,,DEM,Orange,"Warwick D-10,11,14,18,19,25",56
 Leecia R. Eve,Attorney General,,DEM,Orange,"Warwick D-10,11,14,18,19,25",9
@@ -3679,10 +3679,10 @@ Blank & Void,State Senate,39,REF,Orange,"Warwick D-10,11,14,18,19,25",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Warwick D-10,11,14,18,19,25",39
 Write-Ins,State Senate,42,REF,Orange,"Warwick D-10,11,14,18,19,25",7
 Blank & Void,State Senate,42,REF,Orange,"Warwick D-10,11,14,18,19,25",6
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Warwick D-13,22",92
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Warwick D-13,22",104
-Write-Ins,Governor ,,DEM,Orange,"Warwick D-13,22",0
-Blank & Void,Governor ,,DEM,Orange,"Warwick D-13,22",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Warwick D-13,22",92
+Andrew M. Cuomo,Governor,,DEM,Orange,"Warwick D-13,22",104
+Write-Ins,Governor,,DEM,Orange,"Warwick D-13,22",0
+Blank & Void,Governor,,DEM,Orange,"Warwick D-13,22",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Warwick D-13,22",81
 Letitia A. James,Attorney General,,DEM,Orange,"Warwick D-13,22",26
 Leecia R. Eve,Attorney General,,DEM,Orange,"Warwick D-13,22",3
@@ -3711,10 +3711,10 @@ Blank & Void,State Senate,39,REF,Orange,"Warwick D-13,22",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Warwick D-13,22",8
 Write-Ins,State Senate,42,REF,Orange,"Warwick D-13,22",6
 Blank & Void,State Senate,42,REF,Orange,"Warwick D-13,22",3
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Warwick D-17,30",37
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Warwick D-17,30",39
-Write-Ins,Governor ,,DEM,Orange,"Warwick D-17,30",1
-Blank & Void,Governor ,,DEM,Orange,"Warwick D-17,30",3
+Cynthia E. Nixon,Governor,,DEM,Orange,"Warwick D-17,30",37
+Andrew M. Cuomo,Governor,,DEM,Orange,"Warwick D-17,30",39
+Write-Ins,Governor,,DEM,Orange,"Warwick D-17,30",1
+Blank & Void,Governor,,DEM,Orange,"Warwick D-17,30",3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Warwick D-17,30",29
 Letitia A. James,Attorney General,,DEM,Orange,"Warwick D-17,30",16
 Leecia R. Eve,Attorney General,,DEM,Orange,"Warwick D-17,30",0
@@ -3743,10 +3743,10 @@ Blank & Void,State Senate,39,REF,Orange,"Warwick D-17,30",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Warwick D-17,30",4
 Write-Ins,State Senate,42,REF,Orange,"Warwick D-17,30",1
 Blank & Void,State Senate,42,REF,Orange,"Warwick D-17,30",4
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Warwick D-20,23,27",91
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Warwick D-20,23,27",125
-Write-Ins,Governor ,,DEM,Orange,"Warwick D-20,23,27",1
-Blank & Void,Governor ,,DEM,Orange,"Warwick D-20,23,27",4
+Cynthia E. Nixon,Governor,,DEM,Orange,"Warwick D-20,23,27",91
+Andrew M. Cuomo,Governor,,DEM,Orange,"Warwick D-20,23,27",125
+Write-Ins,Governor,,DEM,Orange,"Warwick D-20,23,27",1
+Blank & Void,Governor,,DEM,Orange,"Warwick D-20,23,27",4
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Warwick D-20,23,27",103
 Letitia A. James,Attorney General,,DEM,Orange,"Warwick D-20,23,27",30
 Leecia R. Eve,Attorney General,,DEM,Orange,"Warwick D-20,23,27",3
@@ -3775,10 +3775,10 @@ Blank & Void,State Senate,39,REF,Orange,"Warwick D-20,23,27",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Warwick D-20,23,27",4
 Write-Ins,State Senate,42,REF,Orange,"Warwick D-20,23,27",8
 Blank & Void,State Senate,42,REF,Orange,"Warwick D-20,23,27",1
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Wawayanda D-1,4,6",105
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Wawayanda D-1,4,6",89
-Write-Ins,Governor ,,DEM,Orange,"Wawayanda D-1,4,6",1
-Blank & Void,Governor ,,DEM,Orange,"Wawayanda D-1,4,6",4
+Cynthia E. Nixon,Governor,,DEM,Orange,"Wawayanda D-1,4,6",105
+Andrew M. Cuomo,Governor,,DEM,Orange,"Wawayanda D-1,4,6",89
+Write-Ins,Governor,,DEM,Orange,"Wawayanda D-1,4,6",1
+Blank & Void,Governor,,DEM,Orange,"Wawayanda D-1,4,6",4
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Wawayanda D-1,4,6",85
 Letitia A. James,Attorney General,,DEM,Orange,"Wawayanda D-1,4,6",34
 Leecia R. Eve,Attorney General,,DEM,Orange,"Wawayanda D-1,4,6",9
@@ -3807,10 +3807,10 @@ Blank & Void,State Senate,39,REF,Orange,"Wawayanda D-1,4,6",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Wawayanda D-1,4,6",7
 Write-Ins,State Senate,42,REF,Orange,"Wawayanda D-1,4,6",12
 Blank & Void,State Senate,42,REF,Orange,"Wawayanda D-1,4,6",3
-Cynthia E. Nixon,Governor ,,DEM,Orange,Wawayanda D-2,39
-Andrew M. Cuomo,Governor ,,DEM,Orange,Wawayanda D-2,42
-Write-Ins,Governor ,,DEM,Orange,Wawayanda D-2,0
-Blank & Void,Governor ,,DEM,Orange,Wawayanda D-2,0
+Cynthia E. Nixon,Governor,,DEM,Orange,Wawayanda D-2,39
+Andrew M. Cuomo,Governor,,DEM,Orange,Wawayanda D-2,42
+Write-Ins,Governor,,DEM,Orange,Wawayanda D-2,0
+Blank & Void,Governor,,DEM,Orange,Wawayanda D-2,0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Wawayanda D-2,35
 Letitia A. James,Attorney General,,DEM,Orange,Wawayanda D-2,19
 Leecia R. Eve,Attorney General,,DEM,Orange,Wawayanda D-2,2
@@ -3839,10 +3839,10 @@ Blank & Void,State Senate,39,REF,Orange,Wawayanda D-2,
 Ann G Rabbitt,State Senate,42,REF,Orange,Wawayanda D-2,3
 Write-Ins,State Senate,42,REF,Orange,Wawayanda D-2,2
 Blank & Void,State Senate,42,REF,Orange,Wawayanda D-2,0
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Wawayanda D-3,5",62
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Wawayanda D-3,5",63
-Write-Ins,Governor ,,DEM,Orange,"Wawayanda D-3,5",0
-Blank & Void,Governor ,,DEM,Orange,"Wawayanda D-3,5",0
+Cynthia E. Nixon,Governor,,DEM,Orange,"Wawayanda D-3,5",62
+Andrew M. Cuomo,Governor,,DEM,Orange,"Wawayanda D-3,5",63
+Write-Ins,Governor,,DEM,Orange,"Wawayanda D-3,5",0
+Blank & Void,Governor,,DEM,Orange,"Wawayanda D-3,5",0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Wawayanda D-3,5",63
 Letitia A. James,Attorney General,,DEM,Orange,"Wawayanda D-3,5",23
 Leecia R. Eve,Attorney General,,DEM,Orange,"Wawayanda D-3,5",5
@@ -3871,10 +3871,10 @@ Blank & Void,State Senate,39,REF,Orange,"Wawayanda D-3,5",
 Ann G Rabbitt,State Senate,42,REF,Orange,"Wawayanda D-3,5",4
 Write-Ins,State Senate,42,REF,Orange,"Wawayanda D-3,5",6
 Blank & Void,State Senate,42,REF,Orange,"Wawayanda D-3,5",0
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Woodbury D-1,2,3,5,8",179
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Woodbury D-1,2,3,5,8",158
-Write-Ins,Governor ,,DEM,Orange,"Woodbury D-1,2,3,5,8",0
-Blank & Void,Governor ,,DEM,Orange,"Woodbury D-1,2,3,5,8",3
+Cynthia E. Nixon,Governor,,DEM,Orange,"Woodbury D-1,2,3,5,8",179
+Andrew M. Cuomo,Governor,,DEM,Orange,"Woodbury D-1,2,3,5,8",158
+Write-Ins,Governor,,DEM,Orange,"Woodbury D-1,2,3,5,8",0
+Blank & Void,Governor,,DEM,Orange,"Woodbury D-1,2,3,5,8",3
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Woodbury D-1,2,3,5,8",149
 Letitia A. James,Attorney General,,DEM,Orange,"Woodbury D-1,2,3,5,8",70
 Leecia R. Eve,Attorney General,,DEM,Orange,"Woodbury D-1,2,3,5,8",10
@@ -3903,10 +3903,10 @@ Blank & Void,State Senate,39,REF,Orange,"Woodbury D-1,2,3,5,8",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Woodbury D-1,2,3,5,8",
 Write-Ins,State Senate,42,REF,Orange,"Woodbury D-1,2,3,5,8",
 Blank & Void,State Senate,42,REF,Orange,"Woodbury D-1,2,3,5,8",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Woodbury D-4,6",56
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Woodbury D-4,6",63
-Write-Ins,Governor ,,DEM,Orange,"Woodbury D-4,6",1
-Blank & Void,Governor ,,DEM,Orange,"Woodbury D-4,6",2
+Cynthia E. Nixon,Governor,,DEM,Orange,"Woodbury D-4,6",56
+Andrew M. Cuomo,Governor,,DEM,Orange,"Woodbury D-4,6",63
+Write-Ins,Governor,,DEM,Orange,"Woodbury D-4,6",1
+Blank & Void,Governor,,DEM,Orange,"Woodbury D-4,6",2
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Woodbury D-4,6",54
 Letitia A. James,Attorney General,,DEM,Orange,"Woodbury D-4,6",33
 Leecia R. Eve,Attorney General,,DEM,Orange,"Woodbury D-4,6",4
@@ -3935,10 +3935,10 @@ Blank & Void,State Senate,39,REF,Orange,"Woodbury D-4,6",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Woodbury D-4,6",
 Write-Ins,State Senate,42,REF,Orange,"Woodbury D-4,6",
 Blank & Void,State Senate,42,REF,Orange,"Woodbury D-4,6",
-Cynthia E. Nixon,Governor ,,DEM,Orange,"Woodbury D-7,10",99
-Andrew M. Cuomo,Governor ,,DEM,Orange,"Woodbury D-7,10",103
-Write-Ins,Governor ,,DEM,Orange,"Woodbury D-7,10",0
-Blank & Void,Governor ,,DEM,Orange,"Woodbury D-7,10",1
+Cynthia E. Nixon,Governor,,DEM,Orange,"Woodbury D-7,10",99
+Andrew M. Cuomo,Governor,,DEM,Orange,"Woodbury D-7,10",103
+Write-Ins,Governor,,DEM,Orange,"Woodbury D-7,10",0
+Blank & Void,Governor,,DEM,Orange,"Woodbury D-7,10",1
 Sean Patrick Maloney,Attorney General,,DEM,Orange,"Woodbury D-7,10",92
 Letitia A. James,Attorney General,,DEM,Orange,"Woodbury D-7,10",49
 Leecia R. Eve,Attorney General,,DEM,Orange,"Woodbury D-7,10",1
@@ -3967,10 +3967,10 @@ Blank & Void,State Senate,39,REF,Orange,"Woodbury D-7,10",0
 Ann G Rabbitt,State Senate,42,REF,Orange,"Woodbury D-7,10",
 Write-Ins,State Senate,42,REF,Orange,"Woodbury D-7,10",
 Blank & Void,State Senate,42,REF,Orange,"Woodbury D-7,10",
-Cynthia E. Nixon,Governor ,,DEM,Orange,Woodbury D-9,7
-Andrew M. Cuomo,Governor ,,DEM,Orange,Woodbury D-9,24
-Write-Ins,Governor ,,DEM,Orange,Woodbury D-9,0
-Blank & Void,Governor ,,DEM,Orange,Woodbury D-9,0
+Cynthia E. Nixon,Governor,,DEM,Orange,Woodbury D-9,7
+Andrew M. Cuomo,Governor,,DEM,Orange,Woodbury D-9,24
+Write-Ins,Governor,,DEM,Orange,Woodbury D-9,0
+Blank & Void,Governor,,DEM,Orange,Woodbury D-9,0
 Sean Patrick Maloney,Attorney General,,DEM,Orange,Woodbury D-9,10
 Letitia A. James,Attorney General,,DEM,Orange,Woodbury D-9,16
 Leecia R. Eve,Attorney General,,DEM,Orange,Woodbury D-9,1
