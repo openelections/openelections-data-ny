@@ -1,0 +1,31 @@
+name: Format Tests
+
+on: [push, pull_request]
+
+jobs:
+  format_tests:
+    name: Format tests
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+
+    steps:
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Check out data
+      uses: actions/checkout@v2.3.4
+      with:
+        path: data
+
+    - name: Check out format tests
+      uses: actions/checkout@v2.3.4
+      with:
+        repository: openelections/openelections-format-tests
+        ref: v0.1.0
+        path: format_tests
+
+    - name: Run format tests
+      run: python3 ${{ github.workspace }}/format_tests/run_tests.py ${{ github.workspace }}/data
