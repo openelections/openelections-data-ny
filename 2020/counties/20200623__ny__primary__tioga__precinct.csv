@@ -459,7 +459,7 @@ Tioga,Owego - 14,President,,DEM,Valid Votes,63
 Tioga,Owego - 15,President,,DEM,Valid Votes,101
 Tioga,Owego - 16,President,,DEM,Valid Votes,40
 Tioga,Owego - 17,President,,DEM,Valid Votes,108
-Tio+A419ga,Owego - 19,President,,DEM,Valid Votes,57
+Tioga,Owego - 19,President,,DEM,Valid Votes,57
 Tioga,Barton - 1,President,,DEM,Valid Votes,73
 Tioga,Barton - 2,President,,DEM,Valid Votes,80
 Tioga,Barton - 3,President,,DEM,Valid Votes,23
@@ -532,88 +532,47 @@ Tioga,Spencer - 2,President,,DEM,Overvotes (Voids),0
 Tioga,Tioga - 1,President,,DEM,Overvotes (Voids),0
 Tioga,Tioga - 2,President,,DEM,Overvotes (Voids),0
 Tioga,Tioga - 4,President,,DEM,Overvotes (Voids),0
-Tioga,Nichols - 1,President,,DEM,"Undervotes
-(Blank )",1
-Tioga,Nichols - 2,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Owego - 11,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Owego - 12,President,,DEM,"Undervotes
-(Blank )",3
-Tioga,Owego - 13,President,,DEM,"Undervotes
-(Blank )",1
-Tioga,Owego - 14,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Owego - 15,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Owego - 16,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Owego - 17,President,,DEM,"Undervotes
-(Blank )",1
-Tioga,Owego - 19,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Barton - 1,President,,DEM,"Undervotes
-(Blank )",1
-Tioga,Barton - 2,President,,DEM,"Undervotes
-(Blank )",2
-Tioga,Barton - 3,President,,DEM,"Undervotes
-(Blank )",2
-Tioga,Barton - 4,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Barton - 5,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Barton - 7,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Berkshire - 1,President,,DEM,"Undervotes
-(Blank )",2
-Tioga,Candor - 1,President,,DEM,"Undervotes
-(Blank )",1
-Tioga,Candor - 2,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Candor - 3,President,,DEM,"Undervotes
-(Blank )",1
-Tioga,Candor - 4,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Newark Valley - 1,President,,DEM,"Undervotes
-(Blank )",1
-Tioga,Newark Valley - 2,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Newark Valley - 3,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Nichols - 3,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Owego - 1,President,,DEM,"Undervotes
-(Blank )",1
-Tioga,Owego - 2,President,,DEM,"Undervotes
-(Blank )",1
-Tioga,Owego - 3,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Owego - 4,President,,DEM,"Undervotes
-(Blank )",3
-Tioga,Owego - 5,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Owego - 6,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Owego - 7,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Owego - 8,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Owego - 10,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Owego - 18,President,,DEM,"Undervotes
-(Blank )",1
-Tioga,Richford - 1,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Spencer - 1,President,,DEM,"Undervotes
-(Blank )",1
-Tioga,Spencer - 2,President,,DEM,"Undervotes
-(Blank )",1
-Tioga,Tioga - 1,President,,DEM,"Undervotes
-(Blank )",0
-Tioga,Tioga - 2,President,,DEM,"Undervotes
-(Blank )",1
-Tioga,Tioga - 4,President,,DEM,"Undervotes
-(Blank )",1
+Tioga,Nichols - 1,President,,DEM,Undervotes (Blank ),1
+Tioga,Nichols - 2,President,,DEM,Undervotes (Blank ),0
+Tioga,Owego - 11,President,,DEM,Undervotes (Blank ),0
+Tioga,Owego - 12,President,,DEM,Undervotes (Blank ),3
+Tioga,Owego - 13,President,,DEM,Undervotes (Blank ),1
+Tioga,Owego - 14,President,,DEM,Undervotes (Blank ),0
+Tioga,Owego - 15,President,,DEM,Undervotes (Blank ),0
+Tioga,Owego - 16,President,,DEM,Undervotes (Blank ),0
+Tioga,Owego - 17,President,,DEM,Undervotes (Blank ),1
+Tioga,Owego - 19,President,,DEM,Undervotes (Blank ),0
+Tioga,Barton - 1,President,,DEM,Undervotes (Blank ),1
+Tioga,Barton - 2,President,,DEM,Undervotes (Blank ),2
+Tioga,Barton - 3,President,,DEM,Undervotes (Blank ),2
+Tioga,Barton - 4,President,,DEM,Undervotes (Blank ),0
+Tioga,Barton - 5,President,,DEM,Undervotes (Blank ),0
+Tioga,Barton - 7,President,,DEM,Undervotes (Blank ),0
+Tioga,Berkshire - 1,President,,DEM,Undervotes (Blank ),2
+Tioga,Candor - 1,President,,DEM,Undervotes (Blank ),1
+Tioga,Candor - 2,President,,DEM,Undervotes (Blank ),0
+Tioga,Candor - 3,President,,DEM,Undervotes (Blank ),1
+Tioga,Candor - 4,President,,DEM,Undervotes (Blank ),0
+Tioga,Newark Valley - 1,President,,DEM,Undervotes (Blank ),1
+Tioga,Newark Valley - 2,President,,DEM,Undervotes (Blank ),0
+Tioga,Newark Valley - 3,President,,DEM,Undervotes (Blank ),0
+Tioga,Nichols - 3,President,,DEM,Undervotes (Blank ),0
+Tioga,Owego - 1,President,,DEM,Undervotes (Blank ),1
+Tioga,Owego - 2,President,,DEM,Undervotes (Blank ),1
+Tioga,Owego - 3,President,,DEM,Undervotes (Blank ),0
+Tioga,Owego - 4,President,,DEM,Undervotes (Blank ),3
+Tioga,Owego - 5,President,,DEM,Undervotes (Blank ),0
+Tioga,Owego - 6,President,,DEM,Undervotes (Blank ),0
+Tioga,Owego - 7,President,,DEM,Undervotes (Blank ),0
+Tioga,Owego - 8,President,,DEM,Undervotes (Blank ),0
+Tioga,Owego - 10,President,,DEM,Undervotes (Blank ),0
+Tioga,Owego - 18,President,,DEM,Undervotes (Blank ),1
+Tioga,Richford - 1,President,,DEM,Undervotes (Blank ),0
+Tioga,Spencer - 1,President,,DEM,Undervotes (Blank ),1
+Tioga,Spencer - 2,President,,DEM,Undervotes (Blank ),1
+Tioga,Tioga - 1,President,,DEM,Undervotes (Blank ),0
+Tioga,Tioga - 2,President,,DEM,Undervotes (Blank ),1
+Tioga,Tioga - 4,President,,DEM,Undervotes (Blank ),1
 Tioga,Nichols - 1,President,,DEM,Total Votes,48
 Tioga,Nichols - 2,President,,DEM,Total Votes,21
 Tioga,Owego - 11,President,,DEM,Total Votes,35

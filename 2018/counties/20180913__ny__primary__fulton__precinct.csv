@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,votes
 Fulton,Bangor 1 & 2 3,Governor,,DEM,Cynthia E. Nixon,42
-Fulton,Bellmont 1  2,Governor,,DEM,Cynthia E. Nixon,13
+Fulton,Bellmont 1 2,Governor,,DEM,Cynthia E. Nixon,13
 Fulton,Bellmont 2 2,Governor,,DEM,Cynthia E. Nixon,17
 Fulton,Bombay 1 & 2 5,Governor,,DEM,Cynthia E. Nixon,37
 Fulton,Brandon 1 5,Governor,,DEM,Cynthia E. Nixon,8
@@ -15,12 +15,12 @@ Fulton,Franklin 1 & 2 7,Governor,,DEM,Cynthia E. Nixon,42
 Fulton,Harrietstown 1-5 7,Governor,,DEM,Cynthia E. Nixon,146
 Fulton,Malone 1-10 4,Governor,,DEM,Cynthia E. Nixon,187
 Fulton,Moira 1 & 2 5,Governor,,DEM,Cynthia E. Nixon,63
-Fulton,Santa Clara 1  6,Governor,,DEM,Cynthia E. Nixon,9
+Fulton,Santa Clara 1 6,Governor,,DEM,Cynthia E. Nixon,9
 Fulton,Tupper Lake 1-5 6,Governor,,DEM,Cynthia E. Nixon,115
 Fulton,Waverly 1 5,Governor,,DEM,Cynthia E. Nixon,13
 Fulton,Westville 1 & 2 1,Governor,,DEM,Cynthia E. Nixon,38
 Fulton,Bangor 1 & 2 3,Governor,,DEM,Andrew M. Cuomo,33
-Fulton,Bellmont 1  2,Governor,,DEM,Andrew M. Cuomo,24
+Fulton,Bellmont 1 2,Governor,,DEM,Andrew M. Cuomo,24
 Fulton,Bellmont 2 2,Governor,,DEM,Andrew M. Cuomo,14
 Fulton,Bombay 1 & 2 5,Governor,,DEM,Andrew M. Cuomo,40
 Fulton,Brandon 1 5,Governor,,DEM,Andrew M. Cuomo,3
@@ -35,12 +35,12 @@ Fulton,Franklin 1 & 2 7,Governor,,DEM,Andrew M. Cuomo,46
 Fulton,Harrietstown 1-5 7,Governor,,DEM,Andrew M. Cuomo,276
 Fulton,Malone 1-10 4,Governor,,DEM,Andrew M. Cuomo,213
 Fulton,Moira 1 & 2 5,Governor,,DEM,Andrew M. Cuomo,37
-Fulton,Santa Clara 1  6,Governor,,DEM,Andrew M. Cuomo,32
+Fulton,Santa Clara 1 6,Governor,,DEM,Andrew M. Cuomo,32
 Fulton,Tupper Lake 1-5 6,Governor,,DEM,Andrew M. Cuomo,104
 Fulton,Waverly 1 5,Governor,,DEM,Andrew M. Cuomo,14
 Fulton,Westville 1 & 2 1,Governor,,DEM,Andrew M. Cuomo,19
 Fulton,Bangor 1 & 2 3,Governor,,DEM,Write-ins,1
-Fulton,Bellmont 1  2,Governor,,DEM,Write-ins,0
+Fulton,Bellmont 1 2,Governor,,DEM,Write-ins,0
 Fulton,Bellmont 2 2,Governor,,DEM,Write-ins,0
 Fulton,Bombay 1 & 2 5,Governor,,DEM,Write-ins,0
 Fulton,Brandon 1 5,Governor,,DEM,Write-ins,0
@@ -55,12 +55,12 @@ Fulton,Franklin 1 & 2 7,Governor,,DEM,Write-ins,0
 Fulton,Harrietstown 1-5 7,Governor,,DEM,Write-ins,1
 Fulton,Malone 1-10 4,Governor,,DEM,Write-ins,2
 Fulton,Moira 1 & 2 5,Governor,,DEM,Write-ins,0
-Fulton,Santa Clara 1  6,Governor,,DEM,Write-ins,0
+Fulton,Santa Clara 1 6,Governor,,DEM,Write-ins,0
 Fulton,Tupper Lake 1-5 6,Governor,,DEM,Write-ins,0
 Fulton,Waverly 1 5,Governor,,DEM,Write-ins,0
 Fulton,Westville 1 & 2 1,Governor,,DEM,Write-ins,1
 Fulton,Bangor 1 & 2 3,Lieutenant Governor,,DEM,Kathy C. Hochul,47
-Fulton,Bellmont 1  2,Lieutenant Governor,,DEM,Kathy C. Hochul,22
+Fulton,Bellmont 1 2,Lieutenant Governor,,DEM,Kathy C. Hochul,22
 Fulton,Bellmont 2 2,Lieutenant Governor,,DEM,Kathy C. Hochul,19
 Fulton,Bombay 1 & 2 5,Lieutenant Governor,,DEM,Kathy C. Hochul,44
 Fulton,Brandon 1 5,Lieutenant Governor,,DEM,Kathy C. Hochul,6
@@ -75,12 +75,12 @@ Fulton,Franklin 1 & 2 7,Lieutenant Governor,,DEM,Kathy C. Hochul,42
 Fulton,Harrietstown 1-5 7,Lieutenant Governor,,DEM,Kathy C. Hochul,238
 Fulton,Malone 1-10 4,Lieutenant Governor,,DEM,Kathy C. Hochul,253
 Fulton,Moira 1 & 2 5,Lieutenant Governor,,DEM,Kathy C. Hochul,59
-Fulton,Santa Clara 1  6,Lieutenant Governor,,DEM,Kathy C. Hochul,25
+Fulton,Santa Clara 1 6,Lieutenant Governor,,DEM,Kathy C. Hochul,25
 Fulton,Tupper Lake 1-5 6,Lieutenant Governor,,DEM,Kathy C. Hochul,117
 Fulton,Waverly 1 5,Lieutenant Governor,,DEM,Kathy C. Hochul,16
 Fulton,Westville 1 & 2 1,Lieutenant Governor,,DEM,Kathy C. Hochul,37
 Fulton,Bangor 1 & 2 3,Lieutenant Governor,,DEM,Jumaane Williams,21
-Fulton,Bellmont 1  2,Lieutenant Governor,,DEM,Jumaane Williams,12
+Fulton,Bellmont 1 2,Lieutenant Governor,,DEM,Jumaane Williams,12
 Fulton,Bellmont 2 2,Lieutenant Governor,,DEM,Jumaane Williams,11
 Fulton,Bombay 1 & 2 5,Lieutenant Governor,,DEM,Jumaane Williams,29
 Fulton,Brandon 1 5,Lieutenant Governor,,DEM,Jumaane Williams,3
@@ -95,12 +95,12 @@ Fulton,Franklin 1 & 2 7,Lieutenant Governor,,DEM,Jumaane Williams,36
 Fulton,Harrietstown 1-5 7,Lieutenant Governor,,DEM,Jumaane Williams,154
 Fulton,Malone 1-10 4,Lieutenant Governor,,DEM,Jumaane Williams,115
 Fulton,Moira 1 & 2 5,Lieutenant Governor,,DEM,Jumaane Williams,33
-Fulton,Santa Clara 1  6,Lieutenant Governor,,DEM,Jumaane Williams,14
+Fulton,Santa Clara 1 6,Lieutenant Governor,,DEM,Jumaane Williams,14
 Fulton,Tupper Lake 1-5 6,Lieutenant Governor,,DEM,Jumaane Williams,85
 Fulton,Waverly 1 5,Lieutenant Governor,,DEM,Jumaane Williams,11
 Fulton,Westville 1 & 2 1,Lieutenant Governor,,DEM,Jumaane Williams,11
 Fulton,Bangor 1 & 2 3,Lieutenant Governor,,DEM,Write-ins,0
-Fulton,Bellmont 1  2,Lieutenant Governor,,DEM,Write-ins,0
+Fulton,Bellmont 1 2,Lieutenant Governor,,DEM,Write-ins,0
 Fulton,Bellmont 2 2,Lieutenant Governor,,DEM,Write-ins,0
 Fulton,Bombay 1 & 2 5,Lieutenant Governor,,DEM,Write-ins,0
 Fulton,Brandon 1 5,Lieutenant Governor,,DEM,Write-ins,0
@@ -115,12 +115,12 @@ Fulton,Franklin 1 & 2 7,Lieutenant Governor,,DEM,Write-ins,0
 Fulton,Harrietstown 1-5 7,Lieutenant Governor,,DEM,Write-ins,2
 Fulton,Malone 1-10 4,Lieutenant Governor,,DEM,Write-ins,3
 Fulton,Moira 1 & 2 5,Lieutenant Governor,,DEM,Write-ins,0
-Fulton,Santa Clara 1  6,Lieutenant Governor,,DEM,Write-ins,0
+Fulton,Santa Clara 1 6,Lieutenant Governor,,DEM,Write-ins,0
 Fulton,Tupper Lake 1-5 6,Lieutenant Governor,,DEM,Write-ins,2
 Fulton,Waverly 1 5,Lieutenant Governor,,DEM,Write-ins,0
 Fulton,Westville 1 & 2 1,Lieutenant Governor,,DEM,Write-ins,0
 Fulton,Bangor 1 & 2 3,Attorney General,,DEM,Sean Patrick Maloney,39
-Fulton,Bellmont 1  2,Attorney General,,DEM,Sean Patrick Maloney,17
+Fulton,Bellmont 1 2,Attorney General,,DEM,Sean Patrick Maloney,17
 Fulton,Bellmont 2 2,Attorney General,,DEM,Sean Patrick Maloney,17
 Fulton,Bombay 1 & 2 5,Attorney General,,DEM,Sean Patrick Maloney,26
 Fulton,Brandon 1 5,Attorney General,,DEM,Sean Patrick Maloney,3
@@ -135,12 +135,12 @@ Fulton,Franklin 1 & 2 7,Attorney General,,DEM,Sean Patrick Maloney,19
 Fulton,Harrietstown 1-5 7,Attorney General,,DEM,Sean Patrick Maloney,82
 Fulton,Malone 1-10 4,Attorney General,,DEM,Sean Patrick Maloney,178
 Fulton,Moira 1 & 2 5,Attorney General,,DEM,Sean Patrick Maloney,44
-Fulton,Santa Clara 1  6,Attorney General,,DEM,Sean Patrick Maloney,7
+Fulton,Santa Clara 1 6,Attorney General,,DEM,Sean Patrick Maloney,7
 Fulton,Tupper Lake 1-5 6,Attorney General,,DEM,Sean Patrick Maloney,73
 Fulton,Waverly 1 5,Attorney General,,DEM,Sean Patrick Maloney,12
 Fulton,Westville 1 & 2 1,Attorney General,,DEM,Sean Patrick Maloney,30
 Fulton,Bangor 1 & 2 3,Attorney General,,DEM,Letitia A. James,8
-Fulton,Bellmont 1  2,Attorney General,,DEM,Letitia A. James,8
+Fulton,Bellmont 1 2,Attorney General,,DEM,Letitia A. James,8
 Fulton,Bellmont 2 2,Attorney General,,DEM,Letitia A. James,7
 Fulton,Bombay 1 & 2 5,Attorney General,,DEM,Letitia A. James,19
 Fulton,Brandon 1 5,Attorney General,,DEM,Letitia A. James,3
@@ -155,12 +155,12 @@ Fulton,Franklin 1 & 2 7,Attorney General,,DEM,Letitia A. James,9
 Fulton,Harrietstown 1-5 7,Attorney General,,DEM,Letitia A. James,80
 Fulton,Malone 1-10 4,Attorney General,,DEM,Letitia A. James,71
 Fulton,Moira 1 & 2 5,Attorney General,,DEM,Letitia A. James,17
-Fulton,Santa Clara 1  6,Attorney General,,DEM,Letitia A. James,6
+Fulton,Santa Clara 1 6,Attorney General,,DEM,Letitia A. James,6
 Fulton,Tupper Lake 1-5 6,Attorney General,,DEM,Letitia A. James,39
 Fulton,Waverly 1 5,Attorney General,,DEM,Letitia A. James,8
 Fulton,Westville 1 & 2 1,Attorney General,,DEM,Letitia A. James,9
 Fulton,Bangor 1 & 2 3,Attorney General,,DEM,Leecia R. Eve,1
-Fulton,Bellmont 1  2,Attorney General,,DEM,Leecia R. Eve,3
+Fulton,Bellmont 1 2,Attorney General,,DEM,Leecia R. Eve,3
 Fulton,Bellmont 2 2,Attorney General,,DEM,Leecia R. Eve,0
 Fulton,Bombay 1 & 2 5,Attorney General,,DEM,Leecia R. Eve,2
 Fulton,Brandon 1 5,Attorney General,,DEM,Leecia R. Eve,2
@@ -175,12 +175,12 @@ Fulton,Franklin 1 & 2 7,Attorney General,,DEM,Leecia R. Eve,4
 Fulton,Harrietstown 1-5 7,Attorney General,,DEM,Leecia R. Eve,24
 Fulton,Malone 1-10 4,Attorney General,,DEM,Leecia R. Eve,18
 Fulton,Moira 1 & 2 5,Attorney General,,DEM,Leecia R. Eve,4
-Fulton,Santa Clara 1  6,Attorney General,,DEM,Leecia R. Eve,4
+Fulton,Santa Clara 1 6,Attorney General,,DEM,Leecia R. Eve,4
 Fulton,Tupper Lake 1-5 6,Attorney General,,DEM,Leecia R. Eve,14
 Fulton,Waverly 1 5,Attorney General,,DEM,Leecia R. Eve,1
 Fulton,Westville 1 & 2 1,Attorney General,,DEM,Leecia R. Eve,2
 Fulton,Bangor 1 & 2 3,Attorney General,,DEM,Zephyr Teachout,23
-Fulton,Bellmont 1  2,Attorney General,,DEM,Zephyr Teachout,6
+Fulton,Bellmont 1 2,Attorney General,,DEM,Zephyr Teachout,6
 Fulton,Bellmont 2 2,Attorney General,,DEM,Zephyr Teachout,7
 Fulton,Bombay 1 & 2 5,Attorney General,,DEM,Zephyr Teachout,29
 Fulton,Brandon 1 5,Attorney General,,DEM,Zephyr Teachout,1
@@ -195,12 +195,12 @@ Fulton,Franklin 1 & 2 7,Attorney General,,DEM,Zephyr Teachout,53
 Fulton,Harrietstown 1-5 7,Attorney General,,DEM,Zephyr Teachout,211
 Fulton,Malone 1-10 4,Attorney General,,DEM,Zephyr Teachout,109
 Fulton,Moira 1 & 2 5,Attorney General,,DEM,Zephyr Teachout,27
-Fulton,Santa Clara 1  6,Attorney General,,DEM,Zephyr Teachout,22
+Fulton,Santa Clara 1 6,Attorney General,,DEM,Zephyr Teachout,22
 Fulton,Tupper Lake 1-5 6,Attorney General,,DEM,Zephyr Teachout,80
 Fulton,Waverly 1 5,Attorney General,,DEM,Zephyr Teachout,4
 Fulton,Westville 1 & 2 1,Attorney General,,DEM,Zephyr Teachout,9
 Fulton,Bangor 1 & 2 3,Attorney General,,DEM,Write-ins,0
-Fulton,Bellmont 1  2,Attorney General,,DEM,Write-ins,0
+Fulton,Bellmont 1 2,Attorney General,,DEM,Write-ins,0
 Fulton,Bellmont 2 2,Attorney General,,DEM,Write-ins,0
 Fulton,Bombay 1 & 2 5,Attorney General,,DEM,Write-ins,0
 Fulton,Brandon 1 5,Attorney General,,DEM,Write-ins,0
@@ -215,12 +215,12 @@ Fulton,Franklin 1 & 2 7,Attorney General,,DEM,Write-ins,0
 Fulton,Harrietstown 1-5 7,Attorney General,,DEM,Write-ins,0
 Fulton,Malone 1-10 4,Attorney General,,DEM,Write-ins,3
 Fulton,Moira 1 & 2 5,Attorney General,,DEM,Write-ins,0
-Fulton,Santa Clara 1  6,Attorney General,,DEM,Write-ins,0
+Fulton,Santa Clara 1 6,Attorney General,,DEM,Write-ins,0
 Fulton,Tupper Lake 1-5 6,Attorney General,,DEM,Write-ins,0
 Fulton,Waverly 1 5,Attorney General,,DEM,Write-ins,0
 Fulton,Westville 1 & 2 1,Attorney General,,DEM,Write-ins,1
 Fulton,Bangor 1 & 2 3,Attorney General,,REF,Nancy B. Sliwa,2
-Fulton,Bellmont 1  2,Attorney General,,REF,Nancy B. Sliwa,0
+Fulton,Bellmont 1 2,Attorney General,,REF,Nancy B. Sliwa,0
 Fulton,Bellmont 2 2,Attorney General,,REF,Nancy B. Sliwa,0
 Fulton,Bombay 1 & 2 5,Attorney General,,REF,Nancy B. Sliwa,0
 Fulton,Brandon 1 5,Attorney General,,REF,Nancy B. Sliwa,0
@@ -235,12 +235,12 @@ Fulton,Franklin 1 & 2 7,Attorney General,,REF,Nancy B. Sliwa,1
 Fulton,Harrietstown 1-5 7,Attorney General,,REF,Nancy B. Sliwa,1
 Fulton,Malone 1-10 4,Attorney General,,REF,Nancy B. Sliwa,0
 Fulton,Moira 1 & 2 5,Attorney General,,REF,Nancy B. Sliwa,0
-Fulton,Santa Clara 1  6,Attorney General,,REF,Nancy B. Sliwa,0
+Fulton,Santa Clara 1 6,Attorney General,,REF,Nancy B. Sliwa,0
 Fulton,Tupper Lake 1-5 6,Attorney General,,REF,Nancy B. Sliwa,0
 Fulton,Waverly 1 5,Attorney General,,REF,Nancy B. Sliwa,0
 Fulton,Westville 1 & 2 1,Attorney General,,REF,Nancy B. Sliwa,0
 Fulton,Bangor 1 & 2 3,Attorney General,,REF,Mike Diederich,1
-Fulton,Bellmont 1  2,Attorney General,,REF,Mike Diederich,0
+Fulton,Bellmont 1 2,Attorney General,,REF,Mike Diederich,0
 Fulton,Bellmont 2 2,Attorney General,,REF,Mike Diederich,0
 Fulton,Bombay 1 & 2 5,Attorney General,,REF,Mike Diederich,0
 Fulton,Brandon 1 5,Attorney General,,REF,Mike Diederich,0
@@ -255,12 +255,12 @@ Fulton,Franklin 1 & 2 7,Attorney General,,REF,Mike Diederich,1
 Fulton,Harrietstown 1-5 7,Attorney General,,REF,Mike Diederich,0
 Fulton,Malone 1-10 4,Attorney General,,REF,Mike Diederich,0
 Fulton,Moira 1 & 2 5,Attorney General,,REF,Mike Diederich,0
-Fulton,Santa Clara 1  6,Attorney General,,REF,Mike Diederich,0
+Fulton,Santa Clara 1 6,Attorney General,,REF,Mike Diederich,0
 Fulton,Tupper Lake 1-5 6,Attorney General,,REF,Mike Diederich,0
 Fulton,Waverly 1 5,Attorney General,,REF,Mike Diederich,0
 Fulton,Westville 1 & 2 1,Attorney General,,REF,Mike Diederich,1
 Fulton,Bangor 1 & 2 3,Attorney General,,REF,Christopher B. Garvey,1
-Fulton,Bellmont 1  2,Attorney General,,REF,Christopher B. Garvey,0
+Fulton,Bellmont 1 2,Attorney General,,REF,Christopher B. Garvey,0
 Fulton,Bellmont 2 2,Attorney General,,REF,Christopher B. Garvey,0
 Fulton,Bombay 1 & 2 5,Attorney General,,REF,Christopher B. Garvey,0
 Fulton,Brandon 1 5,Attorney General,,REF,Christopher B. Garvey,1
@@ -275,12 +275,12 @@ Fulton,Franklin 1 & 2 7,Attorney General,,REF,Christopher B. Garvey,0
 Fulton,Harrietstown 1-5 7,Attorney General,,REF,Christopher B. Garvey,0
 Fulton,Malone 1-10 4,Attorney General,,REF,Christopher B. Garvey,0
 Fulton,Moira 1 & 2 5,Attorney General,,REF,Christopher B. Garvey,1
-Fulton,Santa Clara 1  6,Attorney General,,REF,Christopher B. Garvey,0
+Fulton,Santa Clara 1 6,Attorney General,,REF,Christopher B. Garvey,0
 Fulton,Tupper Lake 1-5 6,Attorney General,,REF,Christopher B. Garvey,0
 Fulton,Waverly 1 5,Attorney General,,REF,Christopher B. Garvey,0
 Fulton,Westville 1 & 2 1,Attorney General,,REF,Christopher B. Garvey,1
 Fulton,Bangor 1 & 2 3,Attorney General,,REF,Write-ins,0
-Fulton,Bellmont 1  2,Attorney General,,REF,Write-ins,0
+Fulton,Bellmont 1 2,Attorney General,,REF,Write-ins,0
 Fulton,Bellmont 2 2,Attorney General,,REF,Write-ins,0
 Fulton,Bombay 1 & 2 5,Attorney General,,REF,Write-ins,0
 Fulton,Brandon 1 5,Attorney General,,REF,Write-ins,0
@@ -295,7 +295,7 @@ Fulton,Franklin 1 & 2 7,Attorney General,,REF,Write-ins,0
 Fulton,Harrietstown 1-5 7,Attorney General,,REF,Write-ins,0
 Fulton,Malone 1-10 4,Attorney General,,REF,Write-ins,0
 Fulton,Moira 1 & 2 5,Attorney General,,REF,Write-ins,0
-Fulton,Santa Clara 1  6,Attorney General,,REF,Write-ins,0
+Fulton,Santa Clara 1 6,Attorney General,,REF,Write-ins,0
 Fulton,Tupper Lake 1-5 6,Attorney General,,REF,Write-ins,0
 Fulton,Waverly 1 5,Attorney General,,REF,Write-ins,0
 Fulton,Westville 1 & 2 1,Attorney General,,REF,Write-ins,0

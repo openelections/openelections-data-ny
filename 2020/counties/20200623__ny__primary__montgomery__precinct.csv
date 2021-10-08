@@ -1,44 +1,44 @@
-﻿county,precinct,office,district,party,candidate,votes,election_day,,affidavit,absentee
-Montgomery,20th CD,President,,DEM,Pete Buttigieg,38,25,0,0,13
-Montgomery,20th CD,President,,DEM,Amy Klobuchar,19,9,0,0,10
-Montgomery,20th CD,President,,DEM,Joseph R. Biden,1012,367,0,2,643
-Montgomery,20th CD,President,,DEM,Tulsi Gabbard,17,12,0,0,5
-Montgomery,20th CD,President,,DEM,Bernie Sanders,184,97,0,2,85
-Montgomery,20th CD,President,,DEM,Michael R. Bloomberg,19,7,0,0,12
-Montgomery,20th CD,President,,DEM,Tom Steyer,5,3,0,0,2
-Montgomery,20th CD,President,,DEM,Michael Bennet,3,2,0,0,1
-Montgomery,20th CD,President,,DEM,Elizabeth Warren,17,7,0,0,10
-Montgomery,20th CD,President,,DEM,Andrew Yang,25,14,0,0,11
-Montgomery,20th CD,President,,DEM,Deval Patrick,7,6,0,0,1
-Montgomery,20th CD,President,,DEM,Under Votes,48,,,,
-Montgomery,20th CD,President,,DEM,Over Votes,7,,,,
-Montgomery,20th CD,President,,DEM,Ballots Cast,1401,591,,5,805
-Montgomery,19th CD,President,,DEM,Pete Buttigieg,11,10,0,0,1
-Montgomery,19th CD,President,,DEM,Amy Klobuchar,0,0,0,0,0
-Montgomery,19th CD,President,,DEM,Joseph R. Biden,289,114,0,1,174
-Montgomery,19th CD,President,,DEM,Tulsi Gabbard,4,2,0,0,2
-Montgomery,19th CD,President,,DEM,Bernie Sanders,74,40,0,0,34
-Montgomery,19th CD,President,,DEM,Michael R. Bloomberg,2,1,0,0,1
-Montgomery,19th CD,President,,DEM,Tom Steyer,0,0,0,0,0
-Montgomery,19th CD,President,,DEM,Michael Bennet,2,1,0,0,1
-Montgomery,19th CD,President,,DEM,Elizabeth Warren,16,5,0,0,11
-Montgomery,19th CD,President,,DEM,Andrew Yang,8,6,0,0,2
-Montgomery,19th CD,President,,DEM,Deval Patrick,2,1,0,0,1
-Montgomery,19th CD,President,,DEM,Under Votes,7,,,,
-Montgomery,19th CD,President,,DEM,Over Votes,1,,,,
-Montgomery,19th CD,President,,DEM,Ballots Cast,416,186,,1,229
-Montgomery,19th CD,U.S. House,19,REP,Ola Hawatmeh,182,124,0,0,58
-Montgomery,19th CD,U.S. House,19,REP,Kyle Van De Water,330,224,0,1,105
-Montgomery,19th CD,U.S. House,19,REP,Under Votes,136,,,,
-Montgomery,19th CD,U.S. House,19,REP,Over Votes,2,,,,
-Montgomery,19th CD,U.S. House,19,REP,Write-ins,2,,,,
-Montgomery,19th CD,State Assembly,111,CON,Angelo L. Santabarbara,8,5,0,0,3
-Montgomery,20th CD,State Assembly,111,CON,Angelo L. Santabarbara,37,16,0,0,21
-Montgomery,19th CD,State Assembly,111,CON,Paul E. DeLorenzo,29,25,0,0,4
-Montgomery,20th CD,State Assembly,111,CON,Paul E. DeLorenzo,77,63,0,0,14
-Montgomery,19th CD,State Assembly,111,CON,Under Votes,0,,,,
-Montgomery,20th CD,State Assembly,111,CON,Under Votes,1,,,,
-Montgomery,19th CD,State Assembly,111,CON,Over Votes,1,,,,
-Montgomery,20th CD,State Assembly,111,CON,Over Votes,2,,,,
-Montgomery,19th CD,State Assembly,111,CON,Write-ins,0,,,,
-Montgomery,20th CD,State Assembly,111,CON,Write-ins,0,,,,
+﻿county,precinct,office,district,party,candidate,votes,election_day,affidavit,absentee
+Montgomery,20th CD,President,,DEM,Pete Buttigieg,38,25,0,13
+Montgomery,20th CD,President,,DEM,Amy Klobuchar,19,9,0,10
+Montgomery,20th CD,President,,DEM,Joseph R. Biden,1012,367,2,643
+Montgomery,20th CD,President,,DEM,Tulsi Gabbard,17,12,0,5
+Montgomery,20th CD,President,,DEM,Bernie Sanders,184,97,2,85
+Montgomery,20th CD,President,,DEM,Michael R. Bloomberg,19,7,0,12
+Montgomery,20th CD,President,,DEM,Tom Steyer,5,3,0,2
+Montgomery,20th CD,President,,DEM,Michael Bennet,3,2,0,1
+Montgomery,20th CD,President,,DEM,Elizabeth Warren,17,7,0,10
+Montgomery,20th CD,President,,DEM,Andrew Yang,25,14,0,11
+Montgomery,20th CD,President,,DEM,Deval Patrick,7,6,0,1
+Montgomery,20th CD,President,,DEM,Under Votes,48,,,
+Montgomery,20th CD,President,,DEM,Over Votes,7,,,
+Montgomery,20th CD,President,,DEM,Ballots Cast,1401,591,5,805
+Montgomery,19th CD,President,,DEM,Pete Buttigieg,11,10,0,1
+Montgomery,19th CD,President,,DEM,Amy Klobuchar,0,0,0,0
+Montgomery,19th CD,President,,DEM,Joseph R. Biden,289,114,1,174
+Montgomery,19th CD,President,,DEM,Tulsi Gabbard,4,2,0,2
+Montgomery,19th CD,President,,DEM,Bernie Sanders,74,40,0,34
+Montgomery,19th CD,President,,DEM,Michael R. Bloomberg,2,1,0,1
+Montgomery,19th CD,President,,DEM,Tom Steyer,0,0,0,0
+Montgomery,19th CD,President,,DEM,Michael Bennet,2,1,0,1
+Montgomery,19th CD,President,,DEM,Elizabeth Warren,16,5,0,11
+Montgomery,19th CD,President,,DEM,Andrew Yang,8,6,0,2
+Montgomery,19th CD,President,,DEM,Deval Patrick,2,1,0,1
+Montgomery,19th CD,President,,DEM,Under Votes,7,,,
+Montgomery,19th CD,President,,DEM,Over Votes,1,,,
+Montgomery,19th CD,President,,DEM,Ballots Cast,416,186,1,229
+Montgomery,19th CD,U.S. House,19,REP,Ola Hawatmeh,182,124,0,58
+Montgomery,19th CD,U.S. House,19,REP,Kyle Van De Water,330,224,1,105
+Montgomery,19th CD,U.S. House,19,REP,Under Votes,136,,,
+Montgomery,19th CD,U.S. House,19,REP,Over Votes,2,,,
+Montgomery,19th CD,U.S. House,19,REP,Write-ins,2,,,
+Montgomery,19th CD,State Assembly,111,CON,Angelo L. Santabarbara,8,5,0,3
+Montgomery,20th CD,State Assembly,111,CON,Angelo L. Santabarbara,37,16,0,21
+Montgomery,19th CD,State Assembly,111,CON,Paul E. DeLorenzo,29,25,0,4
+Montgomery,20th CD,State Assembly,111,CON,Paul E. DeLorenzo,77,63,0,14
+Montgomery,19th CD,State Assembly,111,CON,Under Votes,0,,,
+Montgomery,20th CD,State Assembly,111,CON,Under Votes,1,,,
+Montgomery,19th CD,State Assembly,111,CON,Over Votes,1,,,
+Montgomery,20th CD,State Assembly,111,CON,Over Votes,2,,,
+Montgomery,19th CD,State Assembly,111,CON,Write-ins,0,,,
+Montgomery,20th CD,State Assembly,111,CON,Write-ins,0,,,

@@ -466,8 +466,8 @@ Monroe,Hamlin 7,Governor,,Andrew M. Cuomo,DEM,85
 Monroe,Hamlin 8,Governor,,Andrew M. Cuomo,DEM,46
 Monroe,Hamlin 9,Governor,,Andrew M. Cuomo,DEM,49
 Monroe,Hamlin 10,Governor,,Andrew M. Cuomo,DEM,77
-Monroe, 1,Governor,,Andrew M. Cuomo,DEM,107
-Monroe, 2,Governor,,Andrew M. Cuomo,DEM,88
+Monroe,1,Governor,,Andrew M. Cuomo,DEM,107
+Monroe,2,Governor,,Andrew M. Cuomo,DEM,88
 Monroe,Henrietta 3,Governor,,Andrew M. Cuomo,DEM,54
 Monroe,Henrietta 4,Governor,,Andrew M. Cuomo,DEM,164
 Monroe,Henrietta 5,Governor,,Andrew M. Cuomo,DEM,94
@@ -568,7 +568,7 @@ Monroe,Irondequoit 64,Governor,,Andrew M. Cuomo,DEM,49
 Monroe,Irondequoit 65,Governor,,Andrew M. Cuomo,DEM,101
 Monroe,Irondequoit 66,Governor,,Andrew M. Cuomo,DEM,65
 Monroe,Irondequoit 67,Governor,,Andrew M. Cuomo,DEM,92
-Monroe, 68,Governor,,Andrew M. Cuomo,DEM,116
+Monroe,68,Governor,,Andrew M. Cuomo,DEM,116
 Monroe,Mendon 1,Governor,,Andrew M. Cuomo,DEM,142
 Monroe,Mendon 2,Governor,,Andrew M. Cuomo,DEM,130
 Monroe,Mendon 3,Governor,,Andrew M. Cuomo,DEM,147
@@ -1283,8 +1283,8 @@ Monroe,Hamlin 7,Governor,,Rob Astorino,REP,196
 Monroe,Hamlin 8,Governor,,Rob Astorino,REP,95
 Monroe,Hamlin 9,Governor,,Rob Astorino,REP,97
 Monroe,Hamlin 10,Governor,,Rob Astorino,REP,167
-Monroe, 1,Governor,,Rob Astorino,REP,157
-Monroe, 2,Governor,,Rob Astorino,REP,119
+Monroe,1,Governor,,Rob Astorino,REP,157
+Monroe,2,Governor,,Rob Astorino,REP,119
 Monroe,Henrietta 3,Governor,,Rob Astorino,REP,34
 Monroe,Henrietta 4,Governor,,Rob Astorino,REP,77
 Monroe,Henrietta 5,Governor,,Rob Astorino,REP,117
@@ -1385,7 +1385,7 @@ Monroe,Irondequoit 64,Governor,,Rob Astorino,REP,18
 Monroe,Irondequoit 65,Governor,,Rob Astorino,REP,35
 Monroe,Irondequoit 66,Governor,,Rob Astorino,REP,28
 Monroe,Irondequoit 67,Governor,,Rob Astorino,REP,73
-Monroe, 68,Governor,,Rob Astorino,REP,72
+Monroe,68,Governor,,Rob Astorino,REP,72
 Monroe,Mendon 1,Governor,,Rob Astorino,REP,228
 Monroe,Mendon 2,Governor,,Rob Astorino,REP,156
 Monroe,Mendon 3,Governor,,Rob Astorino,REP,206
@@ -2100,8 +2100,8 @@ Monroe,Hamlin 7,Governor,,Rob Astorino,CON,47
 Monroe,Hamlin 8,Governor,,Rob Astorino,CON,22
 Monroe,Hamlin 9,Governor,,Rob Astorino,CON,20
 Monroe,Hamlin 10,Governor,,Rob Astorino,CON,48
-Monroe, 1,Governor,,Rob Astorino,CON,28
-Monroe, 2,Governor,,Rob Astorino,CON,24
+Monroe,1,Governor,,Rob Astorino,CON,28
+Monroe,2,Governor,,Rob Astorino,CON,24
 Monroe,Henrietta 3,Governor,,Rob Astorino,CON,10
 Monroe,Henrietta 4,Governor,,Rob Astorino,CON,14
 Monroe,Henrietta 5,Governor,,Rob Astorino,CON,31
@@ -2202,7 +2202,7 @@ Monroe,Irondequoit 64,Governor,,Rob Astorino,CON,0
 Monroe,Irondequoit 65,Governor,,Rob Astorino,CON,8
 Monroe,Irondequoit 66,Governor,,Rob Astorino,CON,6
 Monroe,Irondequoit 67,Governor,,Rob Astorino,CON,16
-Monroe, 68,Governor,,Rob Astorino,CON,17
+Monroe,68,Governor,,Rob Astorino,CON,17
 Monroe,Mendon 1,Governor,,Rob Astorino,CON,64
 Monroe,Mendon 2,Governor,,Rob Astorino,CON,31
 Monroe,Mendon 3,Governor,,Rob Astorino,CON,51
@@ -2917,8 +2917,8 @@ Monroe,Hamlin 7,Governor,,Andrew M. Cuomo,WOR,7
 Monroe,Hamlin 8,Governor,,Andrew M. Cuomo,WOR,3
 Monroe,Hamlin 9,Governor,,Andrew M. Cuomo,WOR,2
 Monroe,Hamlin 10,Governor,,Andrew M. Cuomo,WOR,4
-Monroe, 1,Governor,,Andrew M. Cuomo,WOR,2
-Monroe, 2,Governor,,Andrew M. Cuomo,WOR,7
+Monroe,1,Governor,,Andrew M. Cuomo,WOR,2
+Monroe,2,Governor,,Andrew M. Cuomo,WOR,7
 Monroe,Henrietta 3,Governor,,Andrew M. Cuomo,WOR,2
 Monroe,Henrietta 4,Governor,,Andrew M. Cuomo,WOR,9
 Monroe,Henrietta 5,Governor,,Andrew M. Cuomo,WOR,11
@@ -3019,7 +3019,7 @@ Monroe,Irondequoit 64,Governor,,Andrew M. Cuomo,WOR,2
 Monroe,Irondequoit 65,Governor,,Andrew M. Cuomo,WOR,6
 Monroe,Irondequoit 66,Governor,,Andrew M. Cuomo,WOR,0
 Monroe,Irondequoit 67,Governor,,Andrew M. Cuomo,WOR,6
-Monroe, 68,Governor,,Andrew M. Cuomo,WOR,2
+Monroe,68,Governor,,Andrew M. Cuomo,WOR,2
 Monroe,Mendon 1,Governor,,Andrew M. Cuomo,WOR,9
 Monroe,Mendon 2,Governor,,Andrew M. Cuomo,WOR,8
 Monroe,Mendon 3,Governor,,Andrew M. Cuomo,WOR,5
@@ -3734,8 +3734,8 @@ Monroe,Hamlin 7,Governor,,Andrew M. Cuomo,IND,6
 Monroe,Hamlin 8,Governor,,Andrew M. Cuomo,IND,1
 Monroe,Hamlin 9,Governor,,Andrew M. Cuomo,IND,4
 Monroe,Hamlin 10,Governor,,Andrew M. Cuomo,IND,3
-Monroe, 1,Governor,,Andrew M. Cuomo,IND,8
-Monroe, 2,Governor,,Andrew M. Cuomo,IND,9
+Monroe,1,Governor,,Andrew M. Cuomo,IND,8
+Monroe,2,Governor,,Andrew M. Cuomo,IND,9
 Monroe,Henrietta 3,Governor,,Andrew M. Cuomo,IND,5
 Monroe,Henrietta 4,Governor,,Andrew M. Cuomo,IND,9
 Monroe,Henrietta 5,Governor,,Andrew M. Cuomo,IND,6
@@ -3836,7 +3836,7 @@ Monroe,Irondequoit 64,Governor,,Andrew M. Cuomo,IND,1
 Monroe,Irondequoit 65,Governor,,Andrew M. Cuomo,IND,2
 Monroe,Irondequoit 66,Governor,,Andrew M. Cuomo,IND,2
 Monroe,Irondequoit 67,Governor,,Andrew M. Cuomo,IND,5
-Monroe, 68,Governor,,Andrew M. Cuomo,IND,4
+Monroe,68,Governor,,Andrew M. Cuomo,IND,4
 Monroe,Mendon 1,Governor,,Andrew M. Cuomo,IND,23
 Monroe,Mendon 2,Governor,,Andrew M. Cuomo,IND,8
 Monroe,Mendon 3,Governor,,Andrew M. Cuomo,IND,9
@@ -4551,8 +4551,8 @@ Monroe,Hamlin 7,Governor,,Howie Hawkins,GRE,12
 Monroe,Hamlin 8,Governor,,Howie Hawkins,GRE,3
 Monroe,Hamlin 9,Governor,,Howie Hawkins,GRE,2
 Monroe,Hamlin 10,Governor,,Howie Hawkins,GRE,10
-Monroe, 1,Governor,,Howie Hawkins,GRE,17
-Monroe, 2,Governor,,Howie Hawkins,GRE,7
+Monroe,1,Governor,,Howie Hawkins,GRE,17
+Monroe,2,Governor,,Howie Hawkins,GRE,7
 Monroe,Henrietta 3,Governor,,Howie Hawkins,GRE,11
 Monroe,Henrietta 4,Governor,,Howie Hawkins,GRE,13
 Monroe,Henrietta 5,Governor,,Howie Hawkins,GRE,7
@@ -4653,7 +4653,7 @@ Monroe,Irondequoit 64,Governor,,Howie Hawkins,GRE,0
 Monroe,Irondequoit 65,Governor,,Howie Hawkins,GRE,5
 Monroe,Irondequoit 66,Governor,,Howie Hawkins,GRE,4
 Monroe,Irondequoit 67,Governor,,Howie Hawkins,GRE,7
-Monroe, 68,Governor,,Howie Hawkins,GRE,9
+Monroe,68,Governor,,Howie Hawkins,GRE,9
 Monroe,Mendon 1,Governor,,Howie Hawkins,GRE,19
 Monroe,Mendon 2,Governor,,Howie Hawkins,GRE,28
 Monroe,Mendon 3,Governor,,Howie Hawkins,GRE,15
@@ -5368,8 +5368,8 @@ Monroe,Hamlin 7,Governor,,Andrew M. Cuomo,WEP,5
 Monroe,Hamlin 8,Governor,,Andrew M. Cuomo,WEP,1
 Monroe,Hamlin 9,Governor,,Andrew M. Cuomo,WEP,0
 Monroe,Hamlin 10,Governor,,Andrew M. Cuomo,WEP,2
-Monroe, 1,Governor,,Andrew M. Cuomo,WEP,1
-Monroe, 2,Governor,,Andrew M. Cuomo,WEP,2
+Monroe,1,Governor,,Andrew M. Cuomo,WEP,1
+Monroe,2,Governor,,Andrew M. Cuomo,WEP,2
 Monroe,Henrietta 3,Governor,,Andrew M. Cuomo,WEP,0
 Monroe,Henrietta 4,Governor,,Andrew M. Cuomo,WEP,3
 Monroe,Henrietta 5,Governor,,Andrew M. Cuomo,WEP,4
@@ -5470,7 +5470,7 @@ Monroe,Irondequoit 64,Governor,,Andrew M. Cuomo,WEP,2
 Monroe,Irondequoit 65,Governor,,Andrew M. Cuomo,WEP,1
 Monroe,Irondequoit 66,Governor,,Andrew M. Cuomo,WEP,0
 Monroe,Irondequoit 67,Governor,,Andrew M. Cuomo,WEP,1
-Monroe, 68,Governor,,Andrew M. Cuomo,WEP,3
+Monroe,68,Governor,,Andrew M. Cuomo,WEP,3
 Monroe,Mendon 1,Governor,,Andrew M. Cuomo,WEP,7
 Monroe,Mendon 2,Governor,,Andrew M. Cuomo,WEP,5
 Monroe,Mendon 3,Governor,,Andrew M. Cuomo,WEP,4
@@ -6185,8 +6185,8 @@ Monroe,Hamlin 7,Governor,,Steven Cohn,SAP,1
 Monroe,Hamlin 8,Governor,,Steven Cohn,SAP,0
 Monroe,Hamlin 9,Governor,,Steven Cohn,SAP,0
 Monroe,Hamlin 10,Governor,,Steven Cohn,SAP,1
-Monroe, 1,Governor,,Steven Cohn,SAP,0
-Monroe, 2,Governor,,Steven Cohn,SAP,1
+Monroe,1,Governor,,Steven Cohn,SAP,0
+Monroe,2,Governor,,Steven Cohn,SAP,1
 Monroe,Henrietta 3,Governor,,Steven Cohn,SAP,0
 Monroe,Henrietta 4,Governor,,Steven Cohn,SAP,1
 Monroe,Henrietta 5,Governor,,Steven Cohn,SAP,0
@@ -6287,7 +6287,7 @@ Monroe,Irondequoit 64,Governor,,Steven Cohn,SAP,0
 Monroe,Irondequoit 65,Governor,,Steven Cohn,SAP,0
 Monroe,Irondequoit 66,Governor,,Steven Cohn,SAP,1
 Monroe,Irondequoit 67,Governor,,Steven Cohn,SAP,0
-Monroe, 68,Governor,,Steven Cohn,SAP,0
+Monroe,68,Governor,,Steven Cohn,SAP,0
 Monroe,Mendon 1,Governor,,Steven Cohn,SAP,1
 Monroe,Mendon 2,Governor,,Steven Cohn,SAP,0
 Monroe,Mendon 3,Governor,,Steven Cohn,SAP,1
@@ -7002,8 +7002,8 @@ Monroe,Hamlin 7,Governor,,Rob Astorino,SCC,16
 Monroe,Hamlin 8,Governor,,Rob Astorino,SCC,4
 Monroe,Hamlin 9,Governor,,Rob Astorino,SCC,3
 Monroe,Hamlin 10,Governor,,Rob Astorino,SCC,7
-Monroe, 1,Governor,,Rob Astorino,SCC,12
-Monroe, 2,Governor,,Rob Astorino,SCC,7
+Monroe,1,Governor,,Rob Astorino,SCC,12
+Monroe,2,Governor,,Rob Astorino,SCC,7
 Monroe,Henrietta 3,Governor,,Rob Astorino,SCC,2
 Monroe,Henrietta 4,Governor,,Rob Astorino,SCC,2
 Monroe,Henrietta 5,Governor,,Rob Astorino,SCC,7
@@ -7104,7 +7104,7 @@ Monroe,Irondequoit 64,Governor,,Rob Astorino,SCC,0
 Monroe,Irondequoit 65,Governor,,Rob Astorino,SCC,2
 Monroe,Irondequoit 66,Governor,,Rob Astorino,SCC,1
 Monroe,Irondequoit 67,Governor,,Rob Astorino,SCC,0
-Monroe, 68,Governor,,Rob Astorino,SCC,4
+Monroe,68,Governor,,Rob Astorino,SCC,4
 Monroe,Mendon 1,Governor,,Rob Astorino,SCC,11
 Monroe,Mendon 2,Governor,,Rob Astorino,SCC,8
 Monroe,Mendon 3,Governor,,Rob Astorino,SCC,12
@@ -7819,8 +7819,8 @@ Monroe,Hamlin 7,Governor,,Michael McDermott,LBN,2
 Monroe,Hamlin 8,Governor,,Michael McDermott,LBN,4
 Monroe,Hamlin 9,Governor,,Michael McDermott,LBN,1
 Monroe,Hamlin 10,Governor,,Michael McDermott,LBN,5
-Monroe, 1,Governor,,Michael McDermott,LBN,2
-Monroe, 2,Governor,,Michael McDermott,LBN,0
+Monroe,1,Governor,,Michael McDermott,LBN,2
+Monroe,2,Governor,,Michael McDermott,LBN,0
 Monroe,Henrietta 3,Governor,,Michael McDermott,LBN,4
 Monroe,Henrietta 4,Governor,,Michael McDermott,LBN,3
 Monroe,Henrietta 5,Governor,,Michael McDermott,LBN,0
@@ -7921,7 +7921,7 @@ Monroe,Irondequoit 64,Governor,,Michael McDermott,LBN,1
 Monroe,Irondequoit 65,Governor,,Michael McDermott,LBN,1
 Monroe,Irondequoit 66,Governor,,Michael McDermott,LBN,0
 Monroe,Irondequoit 67,Governor,,Michael McDermott,LBN,0
-Monroe, 68,Governor,,Michael McDermott,LBN,1
+Monroe,68,Governor,,Michael McDermott,LBN,1
 Monroe,Mendon 1,Governor,,Michael McDermott,LBN,3
 Monroe,Mendon 2,Governor,,Michael McDermott,LBN,5
 Monroe,Mendon 3,Governor,,Michael McDermott,LBN,0
@@ -8636,8 +8636,8 @@ Monroe,Hamlin 7,Comptroller,,Thomas P. Dinapoli,DEM,112
 Monroe,Hamlin 8,Comptroller,,Thomas P. Dinapoli,DEM,59
 Monroe,Hamlin 9,Comptroller,,Thomas P. Dinapoli,DEM,55
 Monroe,Hamlin 10,Comptroller,,Thomas P. Dinapoli,DEM,97
-Monroe, 1,Comptroller,,Thomas P. Dinapoli,DEM,136
-Monroe, 2,Comptroller,,Thomas P. Dinapoli,DEM,95
+Monroe,1,Comptroller,,Thomas P. Dinapoli,DEM,136
+Monroe,2,Comptroller,,Thomas P. Dinapoli,DEM,95
 Monroe,Henrietta 3,Comptroller,,Thomas P. Dinapoli,DEM,67
 Monroe,Henrietta 4,Comptroller,,Thomas P. Dinapoli,DEM,175
 Monroe,Henrietta 5,Comptroller,,Thomas P. Dinapoli,DEM,118
@@ -8738,7 +8738,7 @@ Monroe,Irondequoit 64,Comptroller,,Thomas P. Dinapoli,DEM,47
 Monroe,Irondequoit 65,Comptroller,,Thomas P. Dinapoli,DEM,95
 Monroe,Irondequoit 66,Comptroller,,Thomas P. Dinapoli,DEM,72
 Monroe,Irondequoit 67,Comptroller,,Thomas P. Dinapoli,DEM,92
-Monroe, 68,Comptroller,,Thomas P. Dinapoli,DEM,126
+Monroe,68,Comptroller,,Thomas P. Dinapoli,DEM,126
 Monroe,Mendon 1,Comptroller,,Thomas P. Dinapoli,DEM,166
 Monroe,Mendon 2,Comptroller,,Thomas P. Dinapoli,DEM,148
 Monroe,Mendon 3,Comptroller,,Thomas P. Dinapoli,DEM,164
@@ -9453,8 +9453,8 @@ Monroe,Hamlin 7,Comptroller,,Robert Antonaci,REP,174
 Monroe,Hamlin 8,Comptroller,,Robert Antonaci,REP,66
 Monroe,Hamlin 9,Comptroller,,Robert Antonaci,REP,83
 Monroe,Hamlin 10,Comptroller,,Robert Antonaci,REP,149
-Monroe, 1,Comptroller,,Robert Antonaci,REP,130
-Monroe, 2,Comptroller,,Robert Antonaci,REP,102
+Monroe,1,Comptroller,,Robert Antonaci,REP,130
+Monroe,2,Comptroller,,Robert Antonaci,REP,102
 Monroe,Henrietta 3,Comptroller,,Robert Antonaci,REP,26
 Monroe,Henrietta 4,Comptroller,,Robert Antonaci,REP,70
 Monroe,Henrietta 5,Comptroller,,Robert Antonaci,REP,88
@@ -9555,7 +9555,7 @@ Monroe,Irondequoit 64,Comptroller,,Robert Antonaci,REP,20
 Monroe,Irondequoit 65,Comptroller,,Robert Antonaci,REP,33
 Monroe,Irondequoit 66,Comptroller,,Robert Antonaci,REP,20
 Monroe,Irondequoit 67,Comptroller,,Robert Antonaci,REP,67
-Monroe, 68,Comptroller,,Robert Antonaci,REP,55
+Monroe,68,Comptroller,,Robert Antonaci,REP,55
 Monroe,Mendon 1,Comptroller,,Robert Antonaci,REP,210
 Monroe,Mendon 2,Comptroller,,Robert Antonaci,REP,134
 Monroe,Mendon 3,Comptroller,,Robert Antonaci,REP,202
@@ -10270,8 +10270,8 @@ Monroe,Hamlin 7,Comptroller,,Robert Antonaci,CON,46
 Monroe,Hamlin 8,Comptroller,,Robert Antonaci,CON,24
 Monroe,Hamlin 9,Comptroller,,Robert Antonaci,CON,20
 Monroe,Hamlin 10,Comptroller,,Robert Antonaci,CON,45
-Monroe, 1,Comptroller,,Robert Antonaci,CON,31
-Monroe, 2,Comptroller,,Robert Antonaci,CON,28
+Monroe,1,Comptroller,,Robert Antonaci,CON,31
+Monroe,2,Comptroller,,Robert Antonaci,CON,28
 Monroe,Henrietta 3,Comptroller,,Robert Antonaci,CON,9
 Monroe,Henrietta 4,Comptroller,,Robert Antonaci,CON,18
 Monroe,Henrietta 5,Comptroller,,Robert Antonaci,CON,30
@@ -10372,7 +10372,7 @@ Monroe,Irondequoit 64,Comptroller,,Robert Antonaci,CON,0
 Monroe,Irondequoit 65,Comptroller,,Robert Antonaci,CON,9
 Monroe,Irondequoit 66,Comptroller,,Robert Antonaci,CON,6
 Monroe,Irondequoit 67,Comptroller,,Robert Antonaci,CON,18
-Monroe, 68,Comptroller,,Robert Antonaci,CON,15
+Monroe,68,Comptroller,,Robert Antonaci,CON,15
 Monroe,Mendon 1,Comptroller,,Robert Antonaci,CON,64
 Monroe,Mendon 2,Comptroller,,Robert Antonaci,CON,33
 Monroe,Mendon 3,Comptroller,,Robert Antonaci,CON,56
@@ -11087,8 +11087,8 @@ Monroe,Hamlin 7,Comptroller,,Thomas P. Dinapoli,WOR,13
 Monroe,Hamlin 8,Comptroller,,Thomas P. Dinapoli,WOR,7
 Monroe,Hamlin 9,Comptroller,,Thomas P. Dinapoli,WOR,6
 Monroe,Hamlin 10,Comptroller,,Thomas P. Dinapoli,WOR,6
-Monroe, 1,Comptroller,,Thomas P. Dinapoli,WOR,12
-Monroe, 2,Comptroller,,Thomas P. Dinapoli,WOR,12
+Monroe,1,Comptroller,,Thomas P. Dinapoli,WOR,12
+Monroe,2,Comptroller,,Thomas P. Dinapoli,WOR,12
 Monroe,Henrietta 3,Comptroller,,Thomas P. Dinapoli,WOR,3
 Monroe,Henrietta 4,Comptroller,,Thomas P. Dinapoli,WOR,12
 Monroe,Henrietta 5,Comptroller,,Thomas P. Dinapoli,WOR,13
@@ -11189,7 +11189,7 @@ Monroe,Irondequoit 64,Comptroller,,Thomas P. Dinapoli,WOR,3
 Monroe,Irondequoit 65,Comptroller,,Thomas P. Dinapoli,WOR,4
 Monroe,Irondequoit 66,Comptroller,,Thomas P. Dinapoli,WOR,4
 Monroe,Irondequoit 67,Comptroller,,Thomas P. Dinapoli,WOR,10
-Monroe, 68,Comptroller,,Thomas P. Dinapoli,WOR,8
+Monroe,68,Comptroller,,Thomas P. Dinapoli,WOR,8
 Monroe,Mendon 1,Comptroller,,Thomas P. Dinapoli,WOR,15
 Monroe,Mendon 2,Comptroller,,Thomas P. Dinapoli,WOR,16
 Monroe,Mendon 3,Comptroller,,Thomas P. Dinapoli,WOR,7
@@ -11904,8 +11904,8 @@ Monroe,Hamlin 7,Comptroller,,Thomas P. Dinapoli,IND,10
 Monroe,Hamlin 8,Comptroller,,Thomas P. Dinapoli,IND,6
 Monroe,Hamlin 9,Comptroller,,Thomas P. Dinapoli,IND,6
 Monroe,Hamlin 10,Comptroller,,Thomas P. Dinapoli,IND,5
-Monroe, 1,Comptroller,,Thomas P. Dinapoli,IND,7
-Monroe, 2,Comptroller,,Thomas P. Dinapoli,IND,16
+Monroe,1,Comptroller,,Thomas P. Dinapoli,IND,7
+Monroe,2,Comptroller,,Thomas P. Dinapoli,IND,16
 Monroe,Henrietta 3,Comptroller,,Thomas P. Dinapoli,IND,5
 Monroe,Henrietta 4,Comptroller,,Thomas P. Dinapoli,IND,10
 Monroe,Henrietta 5,Comptroller,,Thomas P. Dinapoli,IND,11
@@ -12006,7 +12006,7 @@ Monroe,Irondequoit 64,Comptroller,,Thomas P. Dinapoli,IND,2
 Monroe,Irondequoit 65,Comptroller,,Thomas P. Dinapoli,IND,4
 Monroe,Irondequoit 66,Comptroller,,Thomas P. Dinapoli,IND,3
 Monroe,Irondequoit 67,Comptroller,,Thomas P. Dinapoli,IND,3
-Monroe, 68,Comptroller,,Thomas P. Dinapoli,IND,6
+Monroe,68,Comptroller,,Thomas P. Dinapoli,IND,6
 Monroe,Mendon 1,Comptroller,,Thomas P. Dinapoli,IND,23
 Monroe,Mendon 2,Comptroller,,Thomas P. Dinapoli,IND,15
 Monroe,Mendon 3,Comptroller,,Thomas P. Dinapoli,IND,11
@@ -12721,8 +12721,8 @@ Monroe,Hamlin 7,Comptroller,,Theresa M. Portelli,GRE,6
 Monroe,Hamlin 8,Comptroller,,Theresa M. Portelli,GRE,9
 Monroe,Hamlin 9,Comptroller,,Theresa M. Portelli,GRE,1
 Monroe,Hamlin 10,Comptroller,,Theresa M. Portelli,GRE,7
-Monroe, 1,Comptroller,,Theresa M. Portelli,GRE,11
-Monroe, 2,Comptroller,,Theresa M. Portelli,GRE,3
+Monroe,1,Comptroller,,Theresa M. Portelli,GRE,11
+Monroe,2,Comptroller,,Theresa M. Portelli,GRE,3
 Monroe,Henrietta 3,Comptroller,,Theresa M. Portelli,GRE,7
 Monroe,Henrietta 4,Comptroller,,Theresa M. Portelli,GRE,9
 Monroe,Henrietta 5,Comptroller,,Theresa M. Portelli,GRE,5
@@ -12823,7 +12823,7 @@ Monroe,Irondequoit 64,Comptroller,,Theresa M. Portelli,GRE,0
 Monroe,Irondequoit 65,Comptroller,,Theresa M. Portelli,GRE,7
 Monroe,Irondequoit 66,Comptroller,,Theresa M. Portelli,GRE,1
 Monroe,Irondequoit 67,Comptroller,,Theresa M. Portelli,GRE,1
-Monroe, 68,Comptroller,,Theresa M. Portelli,GRE,7
+Monroe,68,Comptroller,,Theresa M. Portelli,GRE,7
 Monroe,Mendon 1,Comptroller,,Theresa M. Portelli,GRE,15
 Monroe,Mendon 2,Comptroller,,Theresa M. Portelli,GRE,17
 Monroe,Mendon 3,Comptroller,,Theresa M. Portelli,GRE,9
@@ -13538,8 +13538,8 @@ Monroe,Hamlin 7,Comptroller,,John Clifton,LBN,4
 Monroe,Hamlin 8,Comptroller,,John Clifton,LBN,4
 Monroe,Hamlin 9,Comptroller,,John Clifton,LBN,1
 Monroe,Hamlin 10,Comptroller,,John Clifton,LBN,8
-Monroe, 1,Comptroller,,John Clifton,LBN,3
-Monroe, 2,Comptroller,,John Clifton,LBN,2
+Monroe,1,Comptroller,,John Clifton,LBN,3
+Monroe,2,Comptroller,,John Clifton,LBN,2
 Monroe,Henrietta 3,Comptroller,,John Clifton,LBN,3
 Monroe,Henrietta 4,Comptroller,,John Clifton,LBN,2
 Monroe,Henrietta 5,Comptroller,,John Clifton,LBN,1
@@ -13640,7 +13640,7 @@ Monroe,Irondequoit 64,Comptroller,,John Clifton,LBN,0
 Monroe,Irondequoit 65,Comptroller,,John Clifton,LBN,0
 Monroe,Irondequoit 66,Comptroller,,John Clifton,LBN,0
 Monroe,Irondequoit 67,Comptroller,,John Clifton,LBN,0
-Monroe, 68,Comptroller,,John Clifton,LBN,1
+Monroe,68,Comptroller,,John Clifton,LBN,1
 Monroe,Mendon 1,Comptroller,,John Clifton,LBN,7
 Monroe,Mendon 2,Comptroller,,John Clifton,LBN,7
 Monroe,Mendon 3,Comptroller,,John Clifton,LBN,3
@@ -14355,8 +14355,8 @@ Monroe,Hamlin 7,Attorney General,,Eric T. Scneiderman,DEM,92
 Monroe,Hamlin 8,Attorney General,,Eric T. Scneiderman,DEM,47
 Monroe,Hamlin 9,Attorney General,,Eric T. Scneiderman,DEM,43
 Monroe,Hamlin 10,Attorney General,,Eric T. Scneiderman,DEM,78
-Monroe, 1,Attorney General,,Eric T. Scneiderman,DEM,119
-Monroe, 2,Attorney General,,Eric T. Scneiderman,DEM,83
+Monroe,1,Attorney General,,Eric T. Scneiderman,DEM,119
+Monroe,2,Attorney General,,Eric T. Scneiderman,DEM,83
 Monroe,Henrietta 3,Attorney General,,Eric T. Scneiderman,DEM,54
 Monroe,Henrietta 4,Attorney General,,Eric T. Scneiderman,DEM,158
 Monroe,Henrietta 5,Attorney General,,Eric T. Scneiderman,DEM,94
@@ -14457,7 +14457,7 @@ Monroe,Irondequoit 64,Attorney General,,Eric T. Scneiderman,DEM,48
 Monroe,Irondequoit 65,Attorney General,,Eric T. Scneiderman,DEM,89
 Monroe,Irondequoit 66,Attorney General,,Eric T. Scneiderman,DEM,70
 Monroe,Irondequoit 67,Attorney General,,Eric T. Scneiderman,DEM,89
-Monroe, 68,Attorney General,,Eric T. Scneiderman,DEM,119
+Monroe,68,Attorney General,,Eric T. Scneiderman,DEM,119
 Monroe,Mendon 1,Attorney General,,Eric T. Scneiderman,DEM,154
 Monroe,Mendon 2,Attorney General,,Eric T. Scneiderman,DEM,132
 Monroe,Mendon 3,Attorney General,,Eric T. Scneiderman,DEM,146
@@ -15172,8 +15172,8 @@ Monroe,Hamlin 7,Attorney General,,John Cahill,REP,188
 Monroe,Hamlin 8,Attorney General,,John Cahill,REP,78
 Monroe,Hamlin 9,Attorney General,,John Cahill,REP,92
 Monroe,Hamlin 10,Attorney General,,John Cahill,REP,164
-Monroe, 1,Attorney General,,John Cahill,REP,148
-Monroe, 2,Attorney General,,John Cahill,REP,110
+Monroe,1,Attorney General,,John Cahill,REP,148
+Monroe,2,Attorney General,,John Cahill,REP,110
 Monroe,Henrietta 3,Attorney General,,John Cahill,REP,36
 Monroe,Henrietta 4,Attorney General,,John Cahill,REP,83
 Monroe,Henrietta 5,Attorney General,,John Cahill,REP,108
@@ -15274,7 +15274,7 @@ Monroe,Irondequoit 64,Attorney General,,John Cahill,REP,19
 Monroe,Irondequoit 65,Attorney General,,John Cahill,REP,38
 Monroe,Irondequoit 66,Attorney General,,John Cahill,REP,22
 Monroe,Irondequoit 67,Attorney General,,John Cahill,REP,74
-Monroe, 68,Attorney General,,John Cahill,REP,71
+Monroe,68,Attorney General,,John Cahill,REP,71
 Monroe,Mendon 1,Attorney General,,John Cahill,REP,224
 Monroe,Mendon 2,Attorney General,,John Cahill,REP,150
 Monroe,Mendon 3,Attorney General,,John Cahill,REP,219
@@ -15989,8 +15989,8 @@ Monroe,Hamlin 7,Attorney General,,John Cahill,CON,48
 Monroe,Hamlin 8,Attorney General,,John Cahill,CON,29
 Monroe,Hamlin 9,Attorney General,,John Cahill,CON,23
 Monroe,Hamlin 10,Attorney General,,John Cahill,CON,49
-Monroe, 1,Attorney General,,John Cahill,CON,32
-Monroe, 2,Attorney General,,John Cahill,CON,33
+Monroe,1,Attorney General,,John Cahill,CON,32
+Monroe,2,Attorney General,,John Cahill,CON,33
 Monroe,Henrietta 3,Attorney General,,John Cahill,CON,12
 Monroe,Henrietta 4,Attorney General,,John Cahill,CON,20
 Monroe,Henrietta 5,Attorney General,,John Cahill,CON,38
@@ -16091,7 +16091,7 @@ Monroe,Irondequoit 64,Attorney General,,John Cahill,CON,1
 Monroe,Irondequoit 65,Attorney General,,John Cahill,CON,11
 Monroe,Irondequoit 66,Attorney General,,John Cahill,CON,7
 Monroe,Irondequoit 67,Attorney General,,John Cahill,CON,18
-Monroe, 68,Attorney General,,John Cahill,CON,18
+Monroe,68,Attorney General,,John Cahill,CON,18
 Monroe,Mendon 1,Attorney General,,John Cahill,CON,72
 Monroe,Mendon 2,Attorney General,,John Cahill,CON,40
 Monroe,Mendon 3,Attorney General,,John Cahill,CON,58
@@ -16806,8 +16806,8 @@ Monroe,Hamlin 7,Attorney General,,Eric T. Scneiderman,WOR,14
 Monroe,Hamlin 8,Attorney General,,Eric T. Scneiderman,WOR,4
 Monroe,Hamlin 9,Attorney General,,Eric T. Scneiderman,WOR,6
 Monroe,Hamlin 10,Attorney General,,Eric T. Scneiderman,WOR,9
-Monroe, 1,Attorney General,,Eric T. Scneiderman,WOR,9
-Monroe, 2,Attorney General,,Eric T. Scneiderman,WOR,9
+Monroe,1,Attorney General,,Eric T. Scneiderman,WOR,9
+Monroe,2,Attorney General,,Eric T. Scneiderman,WOR,9
 Monroe,Henrietta 3,Attorney General,,Eric T. Scneiderman,WOR,5
 Monroe,Henrietta 4,Attorney General,,Eric T. Scneiderman,WOR,11
 Monroe,Henrietta 5,Attorney General,,Eric T. Scneiderman,WOR,14
@@ -16908,7 +16908,7 @@ Monroe,Irondequoit 64,Attorney General,,Eric T. Scneiderman,WOR,1
 Monroe,Irondequoit 65,Attorney General,,Eric T. Scneiderman,WOR,6
 Monroe,Irondequoit 66,Attorney General,,Eric T. Scneiderman,WOR,0
 Monroe,Irondequoit 67,Attorney General,,Eric T. Scneiderman,WOR,9
-Monroe, 68,Attorney General,,Eric T. Scneiderman,WOR,3
+Monroe,68,Attorney General,,Eric T. Scneiderman,WOR,3
 Monroe,Mendon 1,Attorney General,,Eric T. Scneiderman,WOR,12
 Monroe,Mendon 2,Attorney General,,Eric T. Scneiderman,WOR,12
 Monroe,Mendon 3,Attorney General,,Eric T. Scneiderman,WOR,7
@@ -17623,8 +17623,8 @@ Monroe,Hamlin 7,Attorney General,,Eric T. Scneiderman,IND,11
 Monroe,Hamlin 8,Attorney General,,Eric T. Scneiderman,IND,7
 Monroe,Hamlin 9,Attorney General,,Eric T. Scneiderman,IND,5
 Monroe,Hamlin 10,Attorney General,,Eric T. Scneiderman,IND,7
-Monroe, 1,Attorney General,,Eric T. Scneiderman,IND,8
-Monroe, 2,Attorney General,,Eric T. Scneiderman,IND,13
+Monroe,1,Attorney General,,Eric T. Scneiderman,IND,8
+Monroe,2,Attorney General,,Eric T. Scneiderman,IND,13
 Monroe,Henrietta 3,Attorney General,,Eric T. Scneiderman,IND,3
 Monroe,Henrietta 4,Attorney General,,Eric T. Scneiderman,IND,10
 Monroe,Henrietta 5,Attorney General,,Eric T. Scneiderman,IND,7
@@ -17725,7 +17725,7 @@ Monroe,Irondequoit 64,Attorney General,,Eric T. Scneiderman,IND,2
 Monroe,Irondequoit 65,Attorney General,,Eric T. Scneiderman,IND,2
 Monroe,Irondequoit 66,Attorney General,,Eric T. Scneiderman,IND,3
 Monroe,Irondequoit 67,Attorney General,,Eric T. Scneiderman,IND,4
-Monroe, 68,Attorney General,,Eric T. Scneiderman,IND,6
+Monroe,68,Attorney General,,Eric T. Scneiderman,IND,6
 Monroe,Mendon 1,Attorney General,,Eric T. Scneiderman,IND,23
 Monroe,Mendon 2,Attorney General,,Eric T. Scneiderman,IND,18
 Monroe,Mendon 3,Attorney General,,Eric T. Scneiderman,IND,11
@@ -18440,8 +18440,8 @@ Monroe,Hamlin 7,Attorney General,,Ramon Jimenez,GRE,4
 Monroe,Hamlin 8,Attorney General,,Ramon Jimenez,GRE,6
 Monroe,Hamlin 9,Attorney General,,Ramon Jimenez,GRE,2
 Monroe,Hamlin 10,Attorney General,,Ramon Jimenez,GRE,3
-Monroe, 1,Attorney General,,Ramon Jimenez,GRE,4
-Monroe, 2,Attorney General,,Ramon Jimenez,GRE,4
+Monroe,1,Attorney General,,Ramon Jimenez,GRE,4
+Monroe,2,Attorney General,,Ramon Jimenez,GRE,4
 Monroe,Henrietta 3,Attorney General,,Ramon Jimenez,GRE,7
 Monroe,Henrietta 4,Attorney General,,Ramon Jimenez,GRE,6
 Monroe,Henrietta 5,Attorney General,,Ramon Jimenez,GRE,4
@@ -18542,7 +18542,7 @@ Monroe,Irondequoit 64,Attorney General,,Ramon Jimenez,GRE,1
 Monroe,Irondequoit 65,Attorney General,,Ramon Jimenez,GRE,6
 Monroe,Irondequoit 66,Attorney General,,Ramon Jimenez,GRE,2
 Monroe,Irondequoit 67,Attorney General,,Ramon Jimenez,GRE,0
-Monroe, 68,Attorney General,,Ramon Jimenez,GRE,4
+Monroe,68,Attorney General,,Ramon Jimenez,GRE,4
 Monroe,Mendon 1,Attorney General,,Ramon Jimenez,GRE,9
 Monroe,Mendon 2,Attorney General,,Ramon Jimenez,GRE,11
 Monroe,Mendon 3,Attorney General,,Ramon Jimenez,GRE,10
@@ -19257,8 +19257,8 @@ Monroe,Hamlin 7,Attorney General,,Carl E. Person,LBT,5
 Monroe,Hamlin 8,Attorney General,,Carl E. Person,LBT,5
 Monroe,Hamlin 9,Attorney General,,Carl E. Person,LBT,3
 Monroe,Hamlin 10,Attorney General,,Carl E. Person,LBT,5
-Monroe, 1,Attorney General,,Carl E. Person,LBT,4
-Monroe, 2,Attorney General,,Carl E. Person,LBT,3
+Monroe,1,Attorney General,,Carl E. Person,LBT,4
+Monroe,2,Attorney General,,Carl E. Person,LBT,3
 Monroe,Henrietta 3,Attorney General,,Carl E. Person,LBT,3
 Monroe,Henrietta 4,Attorney General,,Carl E. Person,LBT,3
 Monroe,Henrietta 5,Attorney General,,Carl E. Person,LBT,3
@@ -19359,7 +19359,7 @@ Monroe,Irondequoit 64,Attorney General,,Carl E. Person,LBT,0
 Monroe,Irondequoit 65,Attorney General,,Carl E. Person,LBT,1
 Monroe,Irondequoit 66,Attorney General,,Carl E. Person,LBT,0
 Monroe,Irondequoit 67,Attorney General,,Carl E. Person,LBT,0
-Monroe, 68,Attorney General,,Carl E. Person,LBT,1
+Monroe,68,Attorney General,,Carl E. Person,LBT,1
 Monroe,Mendon 1,Attorney General,,Carl E. Person,LBT,9
 Monroe,Mendon 2,Attorney General,,Carl E. Person,LBT,6
 Monroe,Mendon 3,Attorney General,,Carl E. Person,LBT,3
