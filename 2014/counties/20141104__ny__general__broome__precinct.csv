@@ -5479,7 +5479,6 @@ Broome,Maine W:000 D:002,U.S. House,22,Claudia Jones,write-In,0
 Broome,Maine W:000 D:003,U.S. House,22,Claudia Jones,write-In,0
 Broome,Maine W:000 D:004,U.S. House,22,Claudia Jones,write-In,0
 Broome,Nanticoke W:000 D:001,U.S. House,22,Claudia Jones,write-In,0
-Broome,Sanford W:000 D:001,U.S. House,22,Claudia Tenney,write-In,0
 Broome,Town Binghamton W:000 D:001,U.S. House,22,Claudia Jones,write-In,0
 Broome,Town Binghamton W:000 D:002,U.S. House,22,Claudia Jones,write-In,0
 Broome,Town Binghamton W:000 D:003,U.S. House,22,Claudia Jones,write-In,0
@@ -5727,10 +5726,10 @@ Broome,Sanford W:000 D:001,State Assembly,122,Clifford W Crouch,REP,18
 Broome,Sanford W:000 D:002,State Assembly,122,Clifford W Crouch,REP,261
 Broome,Sanford W:000 D:003,State Assembly,122,Clifford W Crouch,REP,272
 Broome,Town Binghamton W:000 D:001,State Assembly,122,Clifford W Crouch,REP,406
-Broome,Town Binghamton W:000 D:002,State Assembly,122,Scatter,,378
-Broome,Town Binghamton W:000 D:003,State Assembly,122,Scatter,,467
-Broome,Triangle W:000 D:001,State Assembly,122,Scatter,,224
-Broome,Triangle W:000 D:002,State Assembly,122,Scatter,,330
+Broome,Town Binghamton W:000 D:002,State Assembly,122,Clifford W Crouch,REP,378
+Broome,Town Binghamton W:000 D:003,State Assembly,122,Clifford W Crouch,REP,467
+Broome,Triangle W:000 D:001,State Assembly,122,Clifford W Crouch,REP,224
+Broome,Triangle W:000 D:002,State Assembly,122,Clifford W Crouch,REP,330
 Broome,Windsor W:000 D:001,State Assembly,122,Scatter,,329
 Broome,Windsor W:000 D:002,State Assembly,122,Scatter,,216
 Broome,Windsor W:000 D:003,State Assembly,122,Scatter,,264
