@@ -1,0 +1,56 @@
+name: Comment on Pull Request
+
+on:
+  workflow_run:
+    workflows: [Data Tests (Changed Files)]
+    types:
+      - completed
+
+jobs:
+  comment:
+    name: Comment on pull request
+    runs-on: ubuntu-latest
+    if: github.event.workflow_run.event == 'pull_request' && github.event.workflow_run.conclusion == 'failure'
+    strategy:
+      fail-fast: false
+      matrix:
+        test: [duplicate_entries, file_format, missing_values, vote_breakdown_totals]
+
+    steps:
+      - name: Download artifacts
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          run_id: ${{ github.event.workflow_run.id }}
+
+      - name: Read pull request number
+        id: pull_request_number_reader
+        uses: juliangruber/read-file-action@v1
+        with:
+          path: ./pull_request_number/pull_request_number.txt
+
+      - name: Check for failures
+        id: check_failures
+        uses: andstor/file-existence-action@v2
+        with:
+          files: ./${{ matrix.test }}/${{ matrix.test }}.txt
+
+      - name: Read failure logs
+        if: steps.check_failures.outputs.files_exists == 'true'
+        id: failure_reader
+        uses: juliangruber/read-file-action@v1
+        with:
+          path: ./${{ matrix.test }}/${{ matrix.test }}.txt
+
+      - name: Comment on pull request
+        if: steps.check_failures.outputs.files_exists == 'true'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: ${{ steps.pull_request_number_reader.outputs.content }},
+              body: `Thank you for your contribution!  Our <code>${{ matrix.test }}</code> `+
+                `test detected some potential issues in the files you added.\n\n`+
+                `<pre><code>${{ steps.failure_reader.outputs.content }}</code></pre>`
+            });
