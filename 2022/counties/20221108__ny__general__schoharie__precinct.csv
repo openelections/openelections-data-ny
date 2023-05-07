@@ -1,0 +1,760 @@
+county,precinct,office,district,party,candidate,votes
+Schoharie,Town of Blenheim 1 LD 1,Governor,,DEM,Kathy C. Hochul,59
+Schoharie,Town of Broome 1 LD 1,Governor,,DEM,Kathy C. Hochul,102
+Schoharie,Town of Carlisle 1 LD 1,Governor,,DEM,Kathy C. Hochul,173
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,DEM,Kathy C. Hochul,258
+Schoharie,Town of Cobleskill 2 LD 1,Governor,,DEM,Kathy C. Hochul,482
+Schoharie,Town of Conesville 1 LD 1,Governor,,DEM,Kathy C. Hochul,83
+Schoharie,Town of Esperance 1 LD 1,Governor,,DEM,Kathy C. Hochul,156
+Schoharie,Town of Esperance 2 LD 1,Governor,,DEM,Kathy C. Hochul,47
+Schoharie,Town of Fulton 1 LD 1,Governor,,DEM,Kathy C. Hochul,136
+Schoharie,Town of Gilboa 1 LD 1,Governor,,DEM,Kathy C. Hochul,141
+Schoharie,Town of Jefferson 1 LD 1,Governor,,DEM,Kathy C. Hochul,166
+Schoharie,Town of Middleburgh 1 LD 1,Governor,,DEM,Kathy C. Hochul,197
+Schoharie,Town of Middleburgh 2 LD 1,Governor,,DEM,Kathy C. Hochul,172
+Schoharie,Town of Richmondville 1 LD 1,Governor,,DEM,Kathy C. Hochul,184
+Schoharie,Town of Richmondville 2 LD 1,Governor,,DEM,Kathy C. Hochul,84
+Schoharie,Town of Schoharie 1 LD 1,Governor,,DEM,Kathy C. Hochul,230
+Schoharie,Town of Schoharie 2 LD 1,Governor,,DEM,Kathy C. Hochul,142
+Schoharie,Town of Seward 1 LD 1,Governor,,DEM,Kathy C. Hochul,191
+Schoharie,Town of Sharon 1 LD 1,Governor,,DEM,Kathy C. Hochul,125
+Schoharie,Town of Sharon 2 LD 1,Governor,,DEM,Kathy C. Hochul,71
+Schoharie,Town of Summit 1 LD 1,Governor,,DEM,Kathy C. Hochul,125
+Schoharie,Town of Wright 1 LD 1,Governor,,DEM,Kathy C. Hochul,236
+Schoharie,Town of Blenheim 1 LD 1,Governor,,WOR,Kathy C. Hochul,4
+Schoharie,Town of Broome 1 LD 1,Governor,,WOR,Kathy C. Hochul,9
+Schoharie,Town of Carlisle 1 LD 1,Governor,,WOR,Kathy C. Hochul,23
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,WOR,Kathy C. Hochul,17
+Schoharie,Town of Cobleskill 2 LD 1,Governor,,WOR,Kathy C. Hochul,42
+Schoharie,Town of Conesville 1 LD 1,Governor,,WOR,Kathy C. Hochul,8
+Schoharie,Town of Esperance 1 LD 1,Governor,,WOR,Kathy C. Hochul,18
+Schoharie,Town of Esperance 2 LD 1,Governor,,WOR,Kathy C. Hochul,4
+Schoharie,Town of Fulton 1 LD 1,Governor,,WOR,Kathy C. Hochul,22
+Schoharie,Town of Gilboa 1 LD 1,Governor,,WOR,Kathy C. Hochul,15
+Schoharie,Town of Jefferson 1 LD 1,Governor,,WOR,Kathy C. Hochul,30
+Schoharie,Town of Middleburgh 1 LD 1,Governor,,WOR,Kathy C. Hochul,11
+Schoharie,Town of Middleburgh 2 LD 1,Governor,,WOR,Kathy C. Hochul,12
+Schoharie,Town of Richmondville 1 LD 1,Governor,,WOR,Kathy C. Hochul,18
+Schoharie,Town of Richmondville 2 LD 1,Governor,,WOR,Kathy C. Hochul,8
+Schoharie,Town of Schoharie 1 LD 1,Governor,,WOR,Kathy C. Hochul,30
+Schoharie,Town of Schoharie 2 LD 1,Governor,,WOR,Kathy C. Hochul,16
+Schoharie,Town of Seward 1 LD 1,Governor,,WOR,Kathy C. Hochul,18
+Schoharie,Town of Sharon 1 LD 1,Governor,,WOR,Kathy C. Hochul,11
+Schoharie,Town of Sharon 2 LD 1,Governor,,WOR,Kathy C. Hochul,2
+Schoharie,Town of Summit 1 LD 1,Governor,,WOR,Kathy C. Hochul,16
+Schoharie,Town of Wright 1 LD 1,Governor,,WOR,Kathy C. Hochul,29
+Schoharie,Town of Blenheim 1 LD 1,Governor,,REP,Lee Zeldin,93
+Schoharie,Town of Broome 1 LD 1,Governor,,REP,Lee Zeldin,286
+Schoharie,Town of Carlisle 1 LD 1,Governor,,REP,Lee Zeldin,523
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,REP,Lee Zeldin,457
+Schoharie,Town of Cobleskill 2 LD 1,Governor,,REP,Lee Zeldin,573
+Schoharie,Town of Conesville 1 LD 1,Governor,,REP,Lee Zeldin,232
+Schoharie,Town of Esperance 1 LD 1,Governor,,REP,Lee Zeldin,391
+Schoharie,Town of Esperance 2 LD 1,Governor,,REP,Lee Zeldin,79
+Schoharie,Town of Fulton 1 LD 1,Governor,,REP,Lee Zeldin,348
+Schoharie,Town of Gilboa 1 LD 1,Governor,,REP,Lee Zeldin,309
+Schoharie,Town of Jefferson 1 LD 1,Governor,,REP,Lee Zeldin,370
+Schoharie,Town of Middleburgh 1 LD 1,Governor,,REP,Lee Zeldin,611
+Schoharie,Town of Middleburgh 2 LD 1,Governor,,REP,Lee Zeldin,326
+Schoharie,Town of Richmondville 1 LD 1,Governor,,REP,Lee Zeldin,405
+Schoharie,Town of Richmondville 2 LD 1,Governor,,REP,Lee Zeldin,182
+Schoharie,Town of Schoharie 1 LD 1,Governor,,REP,Lee Zeldin,611
+Schoharie,Town of Schoharie 2 LD 1,Governor,,REP,Lee Zeldin,194
+Schoharie,Town of Seward 1 LD 1,Governor,,REP,Lee Zeldin,459
+Schoharie,Town of Sharon 1 LD 1,Governor,,REP,Lee Zeldin,327
+Schoharie,Town of Sharon 2 LD 1,Governor,,REP,Lee Zeldin,88
+Schoharie,Town of Summit 1 LD 1,Governor,,REP,Lee Zeldin,365
+Schoharie,Town of Wright 1 LD 1,Governor,,REP,Lee Zeldin,422
+Schoharie,Town of Blenheim 1 LD 1,Governor,,CON,Lee Zeldin,19
+Schoharie,Town of Broome 1 LD 1,Governor,,CON,Lee Zeldin,37
+Schoharie,Town of Carlisle 1 LD 1,Governor,,CON,Lee Zeldin,95
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,CON,Lee Zeldin,89
+Schoharie,Town of Cobleskill 2 LD 1,Governor,,CON,Lee Zeldin,90
+Schoharie,Town of Conesville 1 LD 1,Governor,,CON,Lee Zeldin,24
+Schoharie,Town of Esperance 1 LD 1,Governor,,CON,Lee Zeldin,73
+Schoharie,Town of Esperance 2 LD 1,Governor,,CON,Lee Zeldin,19
+Schoharie,Town of Fulton 1 LD 1,Governor,,CON,Lee Zeldin,63
+Schoharie,Town of Gilboa 1 LD 1,Governor,,CON,Lee Zeldin,41
+Schoharie,Town of Jefferson 1 LD 1,Governor,,CON,Lee Zeldin,62
+Schoharie,Town of Middleburgh 1 LD 1,Governor,,CON,Lee Zeldin,93
+Schoharie,Town of Middleburgh 2 LD 1,Governor,,CON,Lee Zeldin,55
+Schoharie,Town of Richmondville 1 LD 1,Governor,,CON,Lee Zeldin,82
+Schoharie,Town of Richmondville 2 LD 1,Governor,,CON,Lee Zeldin,23
+Schoharie,Town of Schoharie 1 LD 1,Governor,,CON,Lee Zeldin,104
+Schoharie,Town of Schoharie 2 LD 1,Governor,,CON,Lee Zeldin,31
+Schoharie,Town of Seward 1 LD 1,Governor,,CON,Lee Zeldin,63
+Schoharie,Town of Sharon 1 LD 1,Governor,,CON,Lee Zeldin,57
+Schoharie,Town of Sharon 2 LD 1,Governor,,CON,Lee Zeldin,13
+Schoharie,Town of Summit 1 LD 1,Governor,,CON,Lee Zeldin,56
+Schoharie,Town of Wright 1 LD 1,Governor,,CON,Lee Zeldin,70
+Schoharie,Town of Blenheim 1 LD 1,Governor,,,Write-In,0
+Schoharie,Town of Broome 1 LD 1,Governor,,,Write-In,2
+Schoharie,Town of Carlisle 1 LD 1,Governor,,,Write-In,1
+Schoharie,Town of Cobleskill 1 LD 1,Governor,,,Write-In,1
+Schoharie,Town of Cobleskill 2 LD 1,Governor,,,Write-In,1
+Schoharie,Town of Conesville 1 LD 1,Governor,,,Write-In,0
+Schoharie,Town of Esperance 1 LD 1,Governor,,,Write-In,1
+Schoharie,Town of Esperance 2 LD 1,Governor,,,Write-In,1
+Schoharie,Town of Fulton 1 LD 1,Governor,,,Write-In,2
+Schoharie,Town of Gilboa 1 LD 1,Governor,,,Write-In,1
+Schoharie,Town of Jefferson 1 LD 1,Governor,,,Write-In,0
+Schoharie,Town of Middleburgh 1 LD 1,Governor,,,Write-In,2
+Schoharie,Town of Middleburgh 2 LD 1,Governor,,,Write-In,4
+Schoharie,Town of Richmondville 1 LD 1,Governor,,,Write-In,3
+Schoharie,Town of Richmondville 2 LD 1,Governor,,,Write-In,0
+Schoharie,Town of Schoharie 1 LD 1,Governor,,,Write-In,4
+Schoharie,Town of Schoharie 2 LD 1,Governor,,,Write-In,0
+Schoharie,Town of Seward 1 LD 1,Governor,,,Write-In,0
+Schoharie,Town of Sharon 1 LD 1,Governor,,,Write-In,1
+Schoharie,Town of Sharon 2 LD 1,Governor,,,Write-In,0
+Schoharie,Town of Summit 1 LD 1,Governor,,,Write-In,0
+Schoharie,Town of Wright 1 LD 1,Governor,,,Write-In,3
+Schoharie,Town of Blenheim 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,62
+Schoharie,Town of Broome 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,124
+Schoharie,Town of Carlisle 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,212
+Schoharie,Town of Cobleskill 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,314
+Schoharie,Town of Cobleskill 2 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,531
+Schoharie,Town of Conesville 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,110
+Schoharie,Town of Esperance 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,185
+Schoharie,Town of Esperance 2 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,55
+Schoharie,Town of Fulton 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,173
+Schoharie,Town of Gilboa 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,165
+Schoharie,Town of Jefferson 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,183
+Schoharie,Town of Middleburgh 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,245
+Schoharie,Town of Middleburgh 2 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,211
+Schoharie,Town of Richmondville 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,220
+Schoharie,Town of Richmondville 2 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,102
+Schoharie,Town of Schoharie 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,320
+Schoharie,Town of Schoharie 2 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,171
+Schoharie,Town of Seward 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,250
+Schoharie,Town of Sharon 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,145
+Schoharie,Town of Sharon 2 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,74
+Schoharie,Town of Summit 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,152
+Schoharie,Town of Wright 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,284
+Schoharie,Town of Blenheim 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,11
+Schoharie,Town of Broome 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,14
+Schoharie,Town of Carlisle 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,38
+Schoharie,Town of Cobleskill 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,39
+Schoharie,Town of Cobleskill 2 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,65
+Schoharie,Town of Conesville 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,9
+Schoharie,Town of Esperance 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,31
+Schoharie,Town of Esperance 2 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,8
+Schoharie,Town of Fulton 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,37
+Schoharie,Town of Gilboa 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,25
+Schoharie,Town of Jefferson 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,42
+Schoharie,Town of Middleburgh 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,42
+Schoharie,Town of Middleburgh 2 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,18
+Schoharie,Town of Richmondville 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,40
+Schoharie,Town of Richmondville 2 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,10
+Schoharie,Town of Schoharie 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,50
+Schoharie,Town of Schoharie 2 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,16
+Schoharie,Town of Seward 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,28
+Schoharie,Town of Sharon 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,24
+Schoharie,Town of Sharon 2 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,10
+Schoharie,Town of Summit 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,26
+Schoharie,Town of Wright 1 LD 1,Comptroller,,WOR,Thomas P. DiNapoli,45
+Schoharie,Town of Blenheim 1 LD 1,Comptroller,,REP,Paul Rodriguez,77
+Schoharie,Town of Broome 1 LD 1,Comptroller,,REP,Paul Rodriguez,257
+Schoharie,Town of Carlisle 1 LD 1,Comptroller,,REP,Paul Rodriguez,458
+Schoharie,Town of Cobleskill 1 LD 1,Comptroller,,REP,Paul Rodriguez,395
+Schoharie,Town of Cobleskill 2 LD 1,Comptroller,,REP,Paul Rodriguez,508
+Schoharie,Town of Conesville 1 LD 1,Comptroller,,REP,Paul Rodriguez,204
+Schoharie,Town of Esperance 1 LD 1,Comptroller,,REP,Paul Rodriguez,351
+Schoharie,Town of Esperance 2 LD 1,Comptroller,,REP,Paul Rodriguez,68
+Schoharie,Town of Fulton 1 LD 1,Comptroller,,REP,Paul Rodriguez,309
+Schoharie,Town of Gilboa 1 LD 1,Comptroller,,REP,Paul Rodriguez,271
+Schoharie,Town of Jefferson 1 LD 1,Comptroller,,REP,Paul Rodriguez,342
+Schoharie,Town of Middleburgh 1 LD 1,Comptroller,,REP,Paul Rodriguez,524
+Schoharie,Town of Middleburgh 2 LD 1,Comptroller,,REP,Paul Rodriguez,293
+Schoharie,Town of Richmondville 1 LD 1,Comptroller,,REP,Paul Rodriguez,344
+Schoharie,Town of Richmondville 2 LD 1,Comptroller,,REP,Paul Rodriguez,162
+Schoharie,Town of Schoharie 1 LD 1,Comptroller,,REP,Paul Rodriguez,503
+Schoharie,Town of Schoharie 2 LD 1,Comptroller,,REP,Paul Rodriguez,166
+Schoharie,Town of Seward 1 LD 1,Comptroller,,REP,Paul Rodriguez,387
+Schoharie,Town of Sharon 1 LD 1,Comptroller,,REP,Paul Rodriguez,296
+Schoharie,Town of Sharon 2 LD 1,Comptroller,,REP,Paul Rodriguez,76
+Schoharie,Town of Summit 1 LD 1,Comptroller,,REP,Paul Rodriguez,324
+Schoharie,Town of Wright 1 LD 1,Comptroller,,REP,Paul Rodriguez,370
+Schoharie,Town of Blenheim 1 LD 1,Comptroller,,CON,Paul Rodriguez,21
+Schoharie,Town of Broome 1 LD 1,Comptroller,,CON,Paul Rodriguez,31
+Schoharie,Town of Carlisle 1 LD 1,Comptroller,,CON,Paul Rodriguez,92
+Schoharie,Town of Cobleskill 1 LD 1,Comptroller,,CON,Paul Rodriguez,73
+Schoharie,Town of Cobleskill 2 LD 1,Comptroller,,CON,Paul Rodriguez,72
+Schoharie,Town of Conesville 1 LD 1,Comptroller,,CON,Paul Rodriguez,20
+Schoharie,Town of Esperance 1 LD 1,Comptroller,,CON,Paul Rodriguez,68
+Schoharie,Town of Esperance 2 LD 1,Comptroller,,CON,Paul Rodriguez,18
+Schoharie,Town of Fulton 1 LD 1,Comptroller,,CON,Paul Rodriguez,49
+Schoharie,Town of Gilboa 1 LD 1,Comptroller,,CON,Paul Rodriguez,36
+Schoharie,Town of Jefferson 1 LD 1,Comptroller,,CON,Paul Rodriguez,55
+Schoharie,Town of Middleburgh 1 LD 1,Comptroller,,CON,Paul Rodriguez,81
+Schoharie,Town of Middleburgh 2 LD 1,Comptroller,,CON,Paul Rodriguez,45
+Schoharie,Town of Richmondville 1 LD 1,Comptroller,,CON,Paul Rodriguez,78
+Schoharie,Town of Richmondville 2 LD 1,Comptroller,,CON,Paul Rodriguez,22
+Schoharie,Town of Schoharie 1 LD 1,Comptroller,,CON,Paul Rodriguez,90
+Schoharie,Town of Schoharie 2 LD 1,Comptroller,,CON,Paul Rodriguez,23
+Schoharie,Town of Seward 1 LD 1,Comptroller,,CON,Paul Rodriguez,57
+Schoharie,Town of Sharon 1 LD 1,Comptroller,,CON,Paul Rodriguez,54
+Schoharie,Town of Sharon 2 LD 1,Comptroller,,CON,Paul Rodriguez,14
+Schoharie,Town of Summit 1 LD 1,Comptroller,,CON,Paul Rodriguez,52
+Schoharie,Town of Wright 1 LD 1,Comptroller,,CON,Paul Rodriguez,56
+Schoharie,Town of Blenheim 1 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Broome 1 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Carlisle 1 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Cobleskill 1 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Cobleskill 2 LD 1,Comptroller,,,Write-In,1
+Schoharie,Town of Conesville 1 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Esperance 1 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Esperance 2 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Fulton 1 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Gilboa 1 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Jefferson 1 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Middleburgh 1 LD 1,Comptroller,,,Write-In,1
+Schoharie,Town of Middleburgh 2 LD 1,Comptroller,,,Write-In,2
+Schoharie,Town of Richmondville 1 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Richmondville 2 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Schoharie 1 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Schoharie 2 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Seward 1 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Sharon 1 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Sharon 2 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Summit 1 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Wright 1 LD 1,Comptroller,,,Write-In,0
+Schoharie,Town of Blenheim 1 LD 1,Attorney General,,DEM,Letitia A. James,62
+Schoharie,Town of Broome 1 LD 1,Attorney General,,DEM,Letitia A. James,106
+Schoharie,Town of Carlisle 1 LD 1,Attorney General,,DEM,Letitia A. James,197
+Schoharie,Town of Cobleskill 1 LD 1,Attorney General,,DEM,Letitia A. James,276
+Schoharie,Town of Cobleskill 2 LD 1,Attorney General,,DEM,Letitia A. James,484
+Schoharie,Town of Conesville 1 LD 1,Attorney General,,DEM,Letitia A. James,90
+Schoharie,Town of Esperance 1 LD 1,Attorney General,,DEM,Letitia A. James,168
+Schoharie,Town of Esperance 2 LD 1,Attorney General,,DEM,Letitia A. James,49
+Schoharie,Town of Fulton 1 LD 1,Attorney General,,DEM,Letitia A. James,145
+Schoharie,Town of Gilboa 1 LD 1,Attorney General,,DEM,Letitia A. James,147
+Schoharie,Town of Jefferson 1 LD 1,Attorney General,,DEM,Letitia A. James,160
+Schoharie,Town of Middleburgh 1 LD 1,Attorney General,,DEM,Letitia A. James,202
+Schoharie,Town of Middleburgh 2 LD 1,Attorney General,,DEM,Letitia A. James,189
+Schoharie,Town of Richmondville 1 LD 1,Attorney General,,DEM,Letitia A. James,185
+Schoharie,Town of Richmondville 2 LD 1,Attorney General,,DEM,Letitia A. James,87
+Schoharie,Town of Schoharie 1 LD 1,Attorney General,,DEM,Letitia A. James,239
+Schoharie,Town of Schoharie 2 LD 1,Attorney General,,DEM,Letitia A. James,144
+Schoharie,Town of Seward 1 LD 1,Attorney General,,DEM,Letitia A. James,199
+Schoharie,Town of Sharon 1 LD 1,Attorney General,,DEM,Letitia A. James,124
+Schoharie,Town of Sharon 2 LD 1,Attorney General,,DEM,Letitia A. James,67
+Schoharie,Town of Summit 1 LD 1,Attorney General,,DEM,Letitia A. James,133
+Schoharie,Town of Wright 1 LD 1,Attorney General,,DEM,Letitia A. James,242
+Schoharie,Town of Blenheim 1 LD 1,Attorney General,,WOR,Letitia A. James,5
+Schoharie,Town of Broome 1 LD 1,Attorney General,,WOR,Letitia A. James,12
+Schoharie,Town of Carlisle 1 LD 1,Attorney General,,WOR,Letitia A. James,20
+Schoharie,Town of Cobleskill 1 LD 1,Attorney General,,WOR,Letitia A. James,25
+Schoharie,Town of Cobleskill 2 LD 1,Attorney General,,WOR,Letitia A. James,56
+Schoharie,Town of Conesville 1 LD 1,Attorney General,,WOR,Letitia A. James,6
+Schoharie,Town of Esperance 1 LD 1,Attorney General,,WOR,Letitia A. James,25
+Schoharie,Town of Esperance 2 LD 1,Attorney General,,WOR,Letitia A. James,5
+Schoharie,Town of Fulton 1 LD 1,Attorney General,,WOR,Letitia A. James,34
+Schoharie,Town of Gilboa 1 LD 1,Attorney General,,WOR,Letitia A. James,17
+Schoharie,Town of Jefferson 1 LD 1,Attorney General,,WOR,Letitia A. James,36
+Schoharie,Town of Middleburgh 1 LD 1,Attorney General,,WOR,Letitia A. James,21
+Schoharie,Town of Middleburgh 2 LD 1,Attorney General,,WOR,Letitia A. James,14
+Schoharie,Town of Richmondville 1 LD 1,Attorney General,,WOR,Letitia A. James,23
+Schoharie,Town of Richmondville 2 LD 1,Attorney General,,WOR,Letitia A. James,12
+Schoharie,Town of Schoharie 1 LD 1,Attorney General,,WOR,Letitia A. James,35
+Schoharie,Town of Schoharie 2 LD 1,Attorney General,,WOR,Letitia A. James,15
+Schoharie,Town of Seward 1 LD 1,Attorney General,,WOR,Letitia A. James,20
+Schoharie,Town of Sharon 1 LD 1,Attorney General,,WOR,Letitia A. James,17
+Schoharie,Town of Sharon 2 LD 1,Attorney General,,WOR,Letitia A. James,5
+Schoharie,Town of Summit 1 LD 1,Attorney General,,WOR,Letitia A. James,18
+Schoharie,Town of Wright 1 LD 1,Attorney General,,WOR,Letitia A. James,34
+Schoharie,Town of Blenheim 1 LD 1,Attorney General,,REP,Michael Henry,84
+Schoharie,Town of Broome 1 LD 1,Attorney General,,REP,Michael Henry,273
+Schoharie,Town of Carlisle 1 LD 1,Attorney General,,REP,Michael Henry,485
+Schoharie,Town of Cobleskill 1 LD 1,Attorney General,,REP,Michael Henry,437
+Schoharie,Town of Cobleskill 2 LD 1,Attorney General,,REP,Michael Henry,543
+Schoharie,Town of Conesville 1 LD 1,Attorney General,,REP,Michael Henry,221
+Schoharie,Town of Esperance 1 LD 1,Attorney General,,REP,Michael Henry,367
+Schoharie,Town of Esperance 2 LD 1,Attorney General,,REP,Michael Henry,76
+Schoharie,Town of Fulton 1 LD 1,Attorney General,,REP,Michael Henry,330
+Schoharie,Town of Gilboa 1 LD 1,Attorney General,,REP,Michael Henry,297
+Schoharie,Town of Jefferson 1 LD 1,Attorney General,,REP,Michael Henry,360
+Schoharie,Town of Middleburgh 1 LD 1,Attorney General,,REP,Michael Henry,576
+Schoharie,Town of Middleburgh 2 LD 1,Attorney General,,REP,Michael Henry,312
+Schoharie,Town of Richmondville 1 LD 1,Attorney General,,REP,Michael Henry,387
+Schoharie,Town of Richmondville 2 LD 1,Attorney General,,REP,Michael Henry,175
+Schoharie,Town of Schoharie 1 LD 1,Attorney General,,REP,Michael Henry,578
+Schoharie,Town of Schoharie 2 LD 1,Attorney General,,REP,Michael Henry,183
+Schoharie,Town of Seward 1 LD 1,Attorney General,,REP,Michael Henry,436
+Schoharie,Town of Sharon 1 LD 1,Attorney General,,REP,Michael Henry,317
+Schoharie,Town of Sharon 2 LD 1,Attorney General,,REP,Michael Henry,85
+Schoharie,Town of Summit 1 LD 1,Attorney General,,REP,Michael Henry,345
+Schoharie,Town of Wright 1 LD 1,Attorney General,,REP,Michael Henry,420
+Schoharie,Town of Blenheim 1 LD 1,Attorney General,,CON,Michael Henry,21
+Schoharie,Town of Broome 1 LD 1,Attorney General,,CON,Michael Henry,35
+Schoharie,Town of Carlisle 1 LD 1,Attorney General,,CON,Michael Henry,99
+Schoharie,Town of Cobleskill 1 LD 1,Attorney General,,CON,Michael Henry,81
+Schoharie,Town of Cobleskill 2 LD 1,Attorney General,,CON,Michael Henry,86
+Schoharie,Town of Conesville 1 LD 1,Attorney General,,CON,Michael Henry,20
+Schoharie,Town of Esperance 1 LD 1,Attorney General,,CON,Michael Henry,76
+Schoharie,Town of Esperance 2 LD 1,Attorney General,,CON,Michael Henry,19
+Schoharie,Town of Fulton 1 LD 1,Attorney General,,CON,Michael Henry,56
+Schoharie,Town of Gilboa 1 LD 1,Attorney General,,CON,Michael Henry,38
+Schoharie,Town of Jefferson 1 LD 1,Attorney General,,CON,Michael Henry,61
+Schoharie,Town of Middleburgh 1 LD 1,Attorney General,,CON,Michael Henry,90
+Schoharie,Town of Middleburgh 2 LD 1,Attorney General,,CON,Michael Henry,51
+Schoharie,Town of Richmondville 1 LD 1,Attorney General,,CON,Michael Henry,87
+Schoharie,Town of Richmondville 2 LD 1,Attorney General,,CON,Michael Henry,22
+Schoharie,Town of Schoharie 1 LD 1,Attorney General,,CON,Michael Henry,106
+Schoharie,Town of Schoharie 2 LD 1,Attorney General,,CON,Michael Henry,29
+Schoharie,Town of Seward 1 LD 1,Attorney General,,CON,Michael Henry,62
+Schoharie,Town of Sharon 1 LD 1,Attorney General,,CON,Michael Henry,57
+Schoharie,Town of Sharon 2 LD 1,Attorney General,,CON,Michael Henry,15
+Schoharie,Town of Summit 1 LD 1,Attorney General,,CON,Michael Henry,56
+Schoharie,Town of Wright 1 LD 1,Attorney General,,CON,Michael Henry,63
+Schoharie,Town of Blenheim 1 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Broome 1 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Carlisle 1 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Cobleskill 1 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Cobleskill 2 LD 1,Attorney General,,,Write-In,1
+Schoharie,Town of Conesville 1 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Esperance 1 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Esperance 2 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Fulton 1 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Gilboa 1 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Jefferson 1 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Middleburgh 1 LD 1,Attorney General,,,Write-In,1
+Schoharie,Town of Middleburgh 2 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Richmondville 1 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Richmondville 2 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Schoharie 1 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Schoharie 2 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Seward 1 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Sharon 1 LD 1,Attorney General,,,Write-In,1
+Schoharie,Town of Sharon 2 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Summit 1 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Wright 1 LD 1,Attorney General,,,Write-In,0
+Schoharie,Town of Blenheim 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,66
+Schoharie,Town of Broome 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,111
+Schoharie,Town of Carlisle 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,189
+Schoharie,Town of Cobleskill 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,287
+Schoharie,Town of Cobleskill 2 LD 1,U.S. Senate,,DEM,Charles E. Schumer,494
+Schoharie,Town of Conesville 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,91
+Schoharie,Town of Esperance 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,164
+Schoharie,Town of Esperance 2 LD 1,U.S. Senate,,DEM,Charles E. Schumer,56
+Schoharie,Town of Fulton 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,150
+Schoharie,Town of Gilboa 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,152
+Schoharie,Town of Jefferson 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,172
+Schoharie,Town of Middleburgh 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,215
+Schoharie,Town of Middleburgh 2 LD 1,U.S. Senate,,DEM,Charles E. Schumer,196
+Schoharie,Town of Richmondville 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,199
+Schoharie,Town of Richmondville 2 LD 1,U.S. Senate,,DEM,Charles E. Schumer,91
+Schoharie,Town of Schoharie 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,260
+Schoharie,Town of Schoharie 2 LD 1,U.S. Senate,,DEM,Charles E. Schumer,160
+Schoharie,Town of Seward 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,214
+Schoharie,Town of Sharon 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,129
+Schoharie,Town of Sharon 2 LD 1,U.S. Senate,,DEM,Charles E. Schumer,69
+Schoharie,Town of Summit 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,157
+Schoharie,Town of Wright 1 LD 1,U.S. Senate,,DEM,Charles E. Schumer,251
+Schoharie,Multi-ED Collection,U.S. Senate,,DEM,Charles E. Schumer,2
+Schoharie,Town of Blenheim 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,5
+Schoharie,Town of Broome 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,15
+Schoharie,Town of Carlisle 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,27
+Schoharie,Town of Cobleskill 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,28
+Schoharie,Town of Cobleskill 2 LD 1,U.S. Senate,,WOR,Charles E. Schumer,57
+Schoharie,Town of Conesville 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,6
+Schoharie,Town of Esperance 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,28
+Schoharie,Town of Esperance 2 LD 1,U.S. Senate,,WOR,Charles E. Schumer,7
+Schoharie,Town of Fulton 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,29
+Schoharie,Town of Gilboa 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,21
+Schoharie,Town of Jefferson 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,37
+Schoharie,Town of Middleburgh 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,24
+Schoharie,Town of Middleburgh 2 LD 1,U.S. Senate,,WOR,Charles E. Schumer,16
+Schoharie,Town of Richmondville 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,33
+Schoharie,Town of Richmondville 2 LD 1,U.S. Senate,,WOR,Charles E. Schumer,12
+Schoharie,Town of Schoharie 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,40
+Schoharie,Town of Schoharie 2 LD 1,U.S. Senate,,WOR,Charles E. Schumer,15
+Schoharie,Town of Seward 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,33
+Schoharie,Town of Sharon 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,16
+Schoharie,Town of Sharon 2 LD 1,U.S. Senate,,WOR,Charles E. Schumer,8
+Schoharie,Town of Summit 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,17
+Schoharie,Town of Wright 1 LD 1,U.S. Senate,,WOR,Charles E. Schumer,36
+Schoharie,Multi-ED Collection,U.S. Senate,,WOR,Charles E. Schumer,0
+Schoharie,Town of Blenheim 1 LD 1,U.S. Senate,,REP,Joe Pinion,81
+Schoharie,Town of Broome 1 LD 1,U.S. Senate,,REP,Joe Pinion,266
+Schoharie,Town of Carlisle 1 LD 1,U.S. Senate,,REP,Joe Pinion,488
+Schoharie,Town of Cobleskill 1 LD 1,U.S. Senate,,REP,Joe Pinion,422
+Schoharie,Town of Cobleskill 2 LD 1,U.S. Senate,,REP,Joe Pinion,529
+Schoharie,Town of Conesville 1 LD 1,U.S. Senate,,REP,Joe Pinion,221
+Schoharie,Town of Esperance 1 LD 1,U.S. Senate,,REP,Joe Pinion,371
+Schoharie,Town of Esperance 2 LD 1,U.S. Senate,,REP,Joe Pinion,68
+Schoharie,Town of Fulton 1 LD 1,U.S. Senate,,REP,Joe Pinion,324
+Schoharie,Town of Gilboa 1 LD 1,U.S. Senate,,REP,Joe Pinion,291
+Schoharie,Town of Jefferson 1 LD 1,U.S. Senate,,REP,Joe Pinion,347
+Schoharie,Town of Middleburgh 1 LD 1,U.S. Senate,,REP,Joe Pinion,562
+Schoharie,Town of Middleburgh 2 LD 1,U.S. Senate,,REP,Joe Pinion,296
+Schoharie,Town of Richmondville 1 LD 1,U.S. Senate,,REP,Joe Pinion,371
+Schoharie,Town of Richmondville 2 LD 1,U.S. Senate,,REP,Joe Pinion,171
+Schoharie,Town of Schoharie 1 LD 1,U.S. Senate,,REP,Joe Pinion,547
+Schoharie,Town of Schoharie 2 LD 1,U.S. Senate,,REP,Joe Pinion,173
+Schoharie,Town of Seward 1 LD 1,U.S. Senate,,REP,Joe Pinion,413
+Schoharie,Town of Sharon 1 LD 1,U.S. Senate,,REP,Joe Pinion,308
+Schoharie,Town of Sharon 2 LD 1,U.S. Senate,,REP,Joe Pinion,80
+Schoharie,Town of Summit 1 LD 1,U.S. Senate,,REP,Joe Pinion,334
+Schoharie,Town of Wright 1 LD 1,U.S. Senate,,REP,Joe Pinion,406
+Schoharie,Multi-ED Collection,U.S. Senate,,REP,Joe Pinion,0
+Schoharie,Town of Blenheim 1 LD 1,U.S. Senate,,CON,Joe Pinion,22
+Schoharie,Town of Broome 1 LD 1,U.S. Senate,,CON,Joe Pinion,32
+Schoharie,Town of Carlisle 1 LD 1,U.S. Senate,,CON,Joe Pinion,98
+Schoharie,Town of Cobleskill 1 LD 1,U.S. Senate,,CON,Joe Pinion,78
+Schoharie,Town of Cobleskill 2 LD 1,U.S. Senate,,CON,Joe Pinion,79
+Schoharie,Town of Conesville 1 LD 1,U.S. Senate,,CON,Joe Pinion,21
+Schoharie,Town of Esperance 1 LD 1,U.S. Senate,,CON,Joe Pinion,69
+Schoharie,Town of Esperance 2 LD 1,U.S. Senate,,CON,Joe Pinion,18
+Schoharie,Town of Fulton 1 LD 1,U.S. Senate,,CON,Joe Pinion,59
+Schoharie,Town of Gilboa 1 LD 1,U.S. Senate,,CON,Joe Pinion,37
+Schoharie,Town of Jefferson 1 LD 1,U.S. Senate,,CON,Joe Pinion,59
+Schoharie,Town of Middleburgh 1 LD 1,U.S. Senate,,CON,Joe Pinion,89
+Schoharie,Town of Middleburgh 2 LD 1,U.S. Senate,,CON,Joe Pinion,50
+Schoharie,Town of Richmondville 1 LD 1,U.S. Senate,,CON,Joe Pinion,78
+Schoharie,Town of Richmondville 2 LD 1,U.S. Senate,,CON,Joe Pinion,20
+Schoharie,Town of Schoharie 1 LD 1,U.S. Senate,,CON,Joe Pinion,104
+Schoharie,Town of Schoharie 2 LD 1,U.S. Senate,,CON,Joe Pinion,25
+Schoharie,Town of Seward 1 LD 1,U.S. Senate,,CON,Joe Pinion,63
+Schoharie,Town of Sharon 1 LD 1,U.S. Senate,,CON,Joe Pinion,59
+Schoharie,Town of Sharon 2 LD 1,U.S. Senate,,CON,Joe Pinion,15
+Schoharie,Town of Summit 1 LD 1,U.S. Senate,,CON,Joe Pinion,50
+Schoharie,Town of Wright 1 LD 1,U.S. Senate,,CON,Joe Pinion,60
+Schoharie,Multi-ED Collection,U.S. Senate,,CON,Joe Pinion,0
+Schoharie,Town of Blenheim 1 LD 1,U.S. Senate,,LAR,Diane Sare,1
+Schoharie,Town of Broome 1 LD 1,U.S. Senate,,LAR,Diane Sare,2
+Schoharie,Town of Carlisle 1 LD 1,U.S. Senate,,LAR,Diane Sare,7
+Schoharie,Town of Cobleskill 1 LD 1,U.S. Senate,,LAR,Diane Sare,8
+Schoharie,Town of Cobleskill 2 LD 1,U.S. Senate,,LAR,Diane Sare,12
+Schoharie,Town of Conesville 1 LD 1,U.S. Senate,,LAR,Diane Sare,1
+Schoharie,Town of Esperance 1 LD 1,U.S. Senate,,LAR,Diane Sare,2
+Schoharie,Town of Esperance 2 LD 1,U.S. Senate,,LAR,Diane Sare,1
+Schoharie,Town of Fulton 1 LD 1,U.S. Senate,,LAR,Diane Sare,6
+Schoharie,Town of Gilboa 1 LD 1,U.S. Senate,,LAR,Diane Sare,1
+Schoharie,Town of Jefferson 1 LD 1,U.S. Senate,,LAR,Diane Sare,5
+Schoharie,Town of Middleburgh 1 LD 1,U.S. Senate,,LAR,Diane Sare,7
+Schoharie,Town of Middleburgh 2 LD 1,U.S. Senate,,LAR,Diane Sare,8
+Schoharie,Town of Richmondville 1 LD 1,U.S. Senate,,LAR,Diane Sare,5
+Schoharie,Town of Richmondville 2 LD 1,U.S. Senate,,LAR,Diane Sare,1
+Schoharie,Town of Schoharie 1 LD 1,U.S. Senate,,LAR,Diane Sare,10
+Schoharie,Town of Schoharie 2 LD 1,U.S. Senate,,LAR,Diane Sare,4
+Schoharie,Town of Seward 1 LD 1,U.S. Senate,,LAR,Diane Sare,1
+Schoharie,Town of Sharon 1 LD 1,U.S. Senate,,LAR,Diane Sare,3
+Schoharie,Town of Sharon 2 LD 1,U.S. Senate,,LAR,Diane Sare,1
+Schoharie,Town of Summit 1 LD 1,U.S. Senate,,LAR,Diane Sare,3
+Schoharie,Town of Wright 1 LD 1,U.S. Senate,,LAR,Diane Sare,7
+Schoharie,Town of Wright 1 LD 1,U.S. Senate,,LAR,Diane Sare,0
+Schoharie,Town of Blenheim 1 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Broome 1 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Carlisle 1 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Cobleskill 1 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Cobleskill 2 LD 1,U.S. Senate,,,Write-In,1
+Schoharie,Town of Conesville 1 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Esperance 1 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Esperance 2 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Fulton 1 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Gilboa 1 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Jefferson 1 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Middleburgh 1 LD 1,U.S. Senate,,,Write-In,1
+Schoharie,Town of Middleburgh 2 LD 1,U.S. Senate,,,Write-In,1
+Schoharie,Town of Richmondville 1 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Richmondville 2 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Schoharie 1 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Schoharie 2 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Seward 1 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Sharon 1 LD 1,U.S. Senate,,,Write-In,2
+Schoharie,Town of Sharon 2 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Summit 1 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Town of Wright 1 LD 1,U.S. Senate,,,Write-In,0
+Schoharie,Multi-ED Collection,U.S. Senate,,,Write-In,0
+Schoharie,Town of Blenheim 1 LD 1,U.S. House,21,DEM,Matt Castelli,63
+Schoharie,Town of Broome 1 LD 1,U.S. House,21,DEM,Matt Castelli,118
+Schoharie,Town of Carlisle 1 LD 1,U.S. House,21,DEM,Matt Castelli,200
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,21,DEM,Matt Castelli,287
+Schoharie,Town of Cobleskill 2 LD 1,U.S. House,21,DEM,Matt Castelli,519
+Schoharie,Town of Conesville 1 LD 1,U.S. House,21,DEM,Matt Castelli,93
+Schoharie,Town of Esperance 1 LD 1,U.S. House,21,DEM,Matt Castelli,186
+Schoharie,Town of Esperance 2 LD 1,U.S. House,21,DEM,Matt Castelli,54
+Schoharie,Town of Fulton 1 LD 1,U.S. House,21,DEM,Matt Castelli,176
+Schoharie,Town of Gilboa 1 LD 1,U.S. House,21,DEM,Matt Castelli,162
+Schoharie,Town of Jefferson 1 LD 1,U.S. House,21,DEM,Matt Castelli,197
+Schoharie,Town of Middleburgh 1 LD 1,U.S. House,21,DEM,Matt Castelli,225
+Schoharie,Town of Middleburgh 2 LD 1,U.S. House,21,DEM,Matt Castelli,192
+Schoharie,Town of Richmondville 1 LD 1,U.S. House,21,DEM,Matt Castelli,208
+Schoharie,Town of Richmondville 2 LD 1,U.S. House,21,DEM,Matt Castelli,96
+Schoharie,Town of Schoharie 1 LD 1,U.S. House,21,DEM,Matt Castelli,276
+Schoharie,Town of Schoharie 2 LD 1,U.S. House,21,DEM,Matt Castelli,160
+Schoharie,Town of Seward 1 LD 1,U.S. House,21,DEM,Matt Castelli,218
+Schoharie,Town of Sharon 1 LD 1,U.S. House,21,DEM,Matt Castelli,130
+Schoharie,Town of Sharon 2 LD 1,U.S. House,21,DEM,Matt Castelli,73
+Schoharie,Town of Summit 1 LD 1,U.S. House,21,DEM,Matt Castelli,154
+Schoharie,Town of Wright 1 LD 1,U.S. House,21,DEM,Matt Castelli,283
+Schoharie,Multi-ED Collection,U.S. House,21,DEM,Matt Castelli,2
+Schoharie,Town of Blenheim 1 LD 1,U.S. House,21,MOD,Matt Castelli,0
+Schoharie,Town of Broome 1 LD 1,U.S. House,21,MOD,Matt Castelli,2
+Schoharie,Town of Carlisle 1 LD 1,U.S. House,21,MOD,Matt Castelli,13
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,21,MOD,Matt Castelli,13
+Schoharie,Town of Cobleskill 2 LD 1,U.S. House,21,MOD,Matt Castelli,37
+Schoharie,Town of Conesville 1 LD 1,U.S. House,21,MOD,Matt Castelli,7
+Schoharie,Town of Esperance 1 LD 1,U.S. House,21,MOD,Matt Castelli,10
+Schoharie,Town of Esperance 2 LD 1,U.S. House,21,MOD,Matt Castelli,3
+Schoharie,Town of Fulton 1 LD 1,U.S. House,21,MOD,Matt Castelli,7
+Schoharie,Town of Gilboa 1 LD 1,U.S. House,21,MOD,Matt Castelli,3
+Schoharie,Town of Jefferson 1 LD 1,U.S. House,21,MOD,Matt Castelli,6
+Schoharie,Town of Middleburgh 1 LD 1,U.S. House,21,MOD,Matt Castelli,6
+Schoharie,Town of Middleburgh 2 LD 1,U.S. House,21,MOD,Matt Castelli,17
+Schoharie,Town of Richmondville 1 LD 1,U.S. House,21,MOD,Matt Castelli,14
+Schoharie,Town of Richmondville 2 LD 1,U.S. House,21,MOD,Matt Castelli,5
+Schoharie,Town of Schoharie 1 LD 1,U.S. House,21,MOD,Matt Castelli,17
+Schoharie,Town of Schoharie 2 LD 1,U.S. House,21,MOD,Matt Castelli,12
+Schoharie,Town of Seward 1 LD 1,U.S. House,21,MOD,Matt Castelli,10
+Schoharie,Town of Sharon 1 LD 1,U.S. House,21,MOD,Matt Castelli,7
+Schoharie,Town of Sharon 2 LD 1,U.S. House,21,MOD,Matt Castelli,5
+Schoharie,Town of Summit 1 LD 1,U.S. House,21,MOD,Matt Castelli,7
+Schoharie,Town of Wright 1 LD 1,U.S. House,21,MOD,Matt Castelli,12
+Schoharie,Multi-ED Collection,U.S. House,21,MOD,Matt Castelli,0
+Schoharie,Town of Blenheim 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,89
+Schoharie,Town of Broome 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,276
+Schoharie,Town of Carlisle 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,492
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,434
+Schoharie,Town of Cobleskill 2 LD 1,U.S. House,21,REP,Elise M. Stefanik,538
+Schoharie,Town of Conesville 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,224
+Schoharie,Town of Esperance 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,368
+Schoharie,Town of Esperance 2 LD 1,U.S. House,21,REP,Elise M. Stefanik,76
+Schoharie,Town of Fulton 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,325
+Schoharie,Town of Gilboa 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,302
+Schoharie,Town of Jefferson 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,361
+Schoharie,Town of Middleburgh 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,577
+Schoharie,Town of Middleburgh 2 LD 1,U.S. House,21,REP,Elise M. Stefanik,304
+Schoharie,Town of Richmondville 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,378
+Schoharie,Town of Richmondville 2 LD 1,U.S. House,21,REP,Elise M. Stefanik,171
+Schoharie,Town of Schoharie 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,576
+Schoharie,Town of Schoharie 2 LD 1,U.S. House,21,REP,Elise M. Stefanik,185
+Schoharie,Town of Seward 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,431
+Schoharie,Town of Sharon 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,319
+Schoharie,Town of Sharon 2 LD 1,U.S. House,21,REP,Elise M. Stefanik,83
+Schoharie,Town of Summit 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,348
+Schoharie,Town of Wright 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,406
+Schoharie,Town of Wright 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,0
+Schoharie,Town of Blenheim 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,19
+Schoharie,Town of Broome 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,36
+Schoharie,Town of Carlisle 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,97
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,85
+Schoharie,Town of Cobleskill 2 LD 1,U.S. House,21,CON,Elise M. Stefanik,74
+Schoharie,Town of Conesville 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,20
+Schoharie,Town of Esperance 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,69
+Schoharie,Town of Esperance 2 LD 1,U.S. House,21,CON,Elise M. Stefanik,17
+Schoharie,Town of Fulton 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,57
+Schoharie,Town of Gilboa 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,35
+Schoharie,Town of Jefferson 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,59
+Schoharie,Town of Middleburgh 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,92
+Schoharie,Town of Middleburgh 2 LD 1,U.S. House,21,CON,Elise M. Stefanik,50
+Schoharie,Town of Richmondville 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,82
+Schoharie,Town of Richmondville 2 LD 1,U.S. House,21,CON,Elise M. Stefanik,22
+Schoharie,Town of Schoharie 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,100
+Schoharie,Town of Schoharie 2 LD 1,U.S. House,21,CON,Elise M. Stefanik,22
+Schoharie,Town of Seward 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,62
+Schoharie,Town of Sharon 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,62
+Schoharie,Town of Sharon 2 LD 1,U.S. House,21,CON,Elise M. Stefanik,13
+Schoharie,Town of Summit 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,53
+Schoharie,Town of Wright 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,57
+Schoharie,Town of Wright 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,0
+Schoharie,Town of Blenheim 1 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Broome 1 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Carlisle 1 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Cobleskill 2 LD 1,U.S. House,21,,Write-In,1
+Schoharie,Town of Conesville 1 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Esperance 1 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Esperance 2 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Fulton 1 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Gilboa 1 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Jefferson 1 LD 1,U.S. House,21,,Write-In,1
+Schoharie,Town of Middleburgh 1 LD 1,U.S. House,21,,Write-In,1
+Schoharie,Town of Middleburgh 2 LD 1,U.S. House,21,,Write-In,1
+Schoharie,Town of Richmondville 1 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Richmondville 2 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Schoharie 1 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Schoharie 2 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Seward 1 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Sharon 1 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Sharon 2 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Summit 1 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Wright 1 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Wright 1 LD 1,U.S. House,21,,Write-In,0
+Schoharie,Town of Blenheim 1 LD 1,State Senate,51,DEM,Eric Ball,57
+Schoharie,Town of Broome 1 LD 1,State Senate,51,DEM,Eric Ball,110
+Schoharie,Town of Carlisle 1 LD 1,State Senate,51,DEM,Eric Ball,175
+Schoharie,Town of Cobleskill 1 LD 1,State Senate,51,DEM,Eric Ball,253
+Schoharie,Town of Cobleskill 2 LD 1,State Senate,51,DEM,Eric Ball,448
+Schoharie,Town of Conesville 1 LD 1,State Senate,51,DEM,Eric Ball,83
+Schoharie,Town of Esperance 1 LD 1,State Senate,51,DEM,Eric Ball,155
+Schoharie,Town of Esperance 2 LD 1,State Senate,51,DEM,Eric Ball,40
+Schoharie,Town of Fulton 1 LD 1,State Senate,51,DEM,Eric Ball,151
+Schoharie,Town of Gilboa 1 LD 1,State Senate,51,DEM,Eric Ball,139
+Schoharie,Town of Jefferson 1 LD 1,State Senate,51,DEM,Eric Ball,176
+Schoharie,Town of Middleburgh 1 LD 1,State Senate,51,DEM,Eric Ball,192
+Schoharie,Town of Middleburgh 2 LD 1,State Senate,51,DEM,Eric Ball,161
+Schoharie,Town of Richmondville 1 LD 1,State Senate,51,DEM,Eric Ball,176
+Schoharie,Town of Richmondville 2 LD 1,State Senate,51,DEM,Eric Ball,72
+Schoharie,Town of Schoharie 1 LD 1,State Senate,51,DEM,Eric Ball,233
+Schoharie,Town of Schoharie 2 LD 1,State Senate,51,DEM,Eric Ball,142
+Schoharie,Town of Seward 1 LD 1,State Senate,51,DEM,Eric Ball,182
+Schoharie,Town of Sharon 1 LD 1,State Senate,51,DEM,Eric Ball,121
+Schoharie,Town of Sharon 2 LD 1,State Senate,51,DEM,Eric Ball,64
+Schoharie,Town of Summit 1 LD 1,State Senate,51,DEM,Eric Ball,121
+Schoharie,Town of Wright 1 LD 1,State Senate,51,DEM,Eric Ball,256
+Schoharie,Town of Blenheim 1 LD 1,State Senate,51,REP,Peter K. Oberacker,94
+Schoharie,Town of Broome 1 LD 1,State Senate,51,REP,Peter K. Oberacker,279
+Schoharie,Town of Carlisle 1 LD 1,State Senate,51,REP,Peter K. Oberacker,513
+Schoharie,Town of Cobleskill 1 LD 1,State Senate,51,REP,Peter K. Oberacker,464
+Schoharie,Town of Cobleskill 2 LD 1,State Senate,51,REP,Peter K. Oberacker,625
+Schoharie,Town of Conesville 1 LD 1,State Senate,51,REP,Peter K. Oberacker,234
+Schoharie,Town of Esperance 1 LD 1,State Senate,51,REP,Peter K. Oberacker,390
+Schoharie,Town of Esperance 2 LD 1,State Senate,51,REP,Peter K. Oberacker,87
+Schoharie,Town of Fulton 1 LD 1,State Senate,51,REP,Peter K. Oberacker,340
+Schoharie,Town of Gilboa 1 LD 1,State Senate,51,REP,Peter K. Oberacker,317
+Schoharie,Town of Jefferson 1 LD 1,State Senate,51,REP,Peter K. Oberacker,379
+Schoharie,Town of Middleburgh 1 LD 1,State Senate,51,REP,Peter K. Oberacker,605
+Schoharie,Town of Middleburgh 2 LD 1,State Senate,51,REP,Peter K. Oberacker,346
+Schoharie,Town of Richmondville 1 LD 1,State Senate,51,REP,Peter K. Oberacker,411
+Schoharie,Town of Richmondville 2 LD 1,State Senate,51,REP,Peter K. Oberacker,191
+Schoharie,Town of Schoharie 1 LD 1,State Senate,51,REP,Peter K. Oberacker,617
+Schoharie,Town of Schoharie 2 LD 1,State Senate,51,REP,Peter K. Oberacker,203
+Schoharie,Town of Seward 1 LD 1,State Senate,51,REP,Peter K. Oberacker,466
+Schoharie,Town of Sharon 1 LD 1,State Senate,51,REP,Peter K. Oberacker,329
+Schoharie,Town of Sharon 2 LD 1,State Senate,51,REP,Peter K. Oberacker,93
+Schoharie,Town of Summit 1 LD 1,State Senate,51,REP,Peter K. Oberacker,375
+Schoharie,Town of Wright 1 LD 1,State Senate,51,REP,Peter K. Oberacker,437
+Schoharie,Town of Blenheim 1 LD 1,State Senate,51,CON,Peter K. Oberacker,19
+Schoharie,Town of Broome 1 LD 1,State Senate,51,CON,Peter K. Oberacker,35
+Schoharie,Town of Carlisle 1 LD 1,State Senate,51,CON,Peter K. Oberacker,101
+Schoharie,Town of Cobleskill 1 LD 1,State Senate,51,CON,Peter K. Oberacker,94
+Schoharie,Town of Cobleskill 2 LD 1,State Senate,51,CON,Peter K. Oberacker,91
+Schoharie,Town of Conesville 1 LD 1,State Senate,51,CON,Peter K. Oberacker,22
+Schoharie,Town of Esperance 1 LD 1,State Senate,51,CON,Peter K. Oberacker,78
+Schoharie,Town of Esperance 2 LD 1,State Senate,51,CON,Peter K. Oberacker,21
+Schoharie,Town of Fulton 1 LD 1,State Senate,51,CON,Peter K. Oberacker,65
+Schoharie,Town of Gilboa 1 LD 1,State Senate,51,CON,Peter K. Oberacker,39
+Schoharie,Town of Jefferson 1 LD 1,State Senate,51,CON,Peter K. Oberacker,65
+Schoharie,Town of Middleburgh 1 LD 1,State Senate,51,CON,Peter K. Oberacker,99
+Schoharie,Town of Middleburgh 2 LD 1,State Senate,51,CON,Peter K. Oberacker,54
+Schoharie,Town of Richmondville 1 LD 1,State Senate,51,CON,Peter K. Oberacker,93
+Schoharie,Town of Richmondville 2 LD 1,State Senate,51,CON,Peter K. Oberacker,28
+Schoharie,Town of Schoharie 1 LD 1,State Senate,51,CON,Peter K. Oberacker,111
+Schoharie,Town of Schoharie 2 LD 1,State Senate,51,CON,Peter K. Oberacker,29
+Schoharie,Town of Seward 1 LD 1,State Senate,51,CON,Peter K. Oberacker,63
+Schoharie,Town of Sharon 1 LD 1,State Senate,51,CON,Peter K. Oberacker,61
+Schoharie,Town of Sharon 2 LD 1,State Senate,51,CON,Peter K. Oberacker,13
+Schoharie,Town of Summit 1 LD 1,State Senate,51,CON,Peter K. Oberacker,57
+Schoharie,Town of Wright 1 LD 1,State Senate,51,CON,Peter K. Oberacker,59
+Schoharie,Town of Blenheim 1 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Broome 1 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Carlisle 1 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Cobleskill 1 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Cobleskill 2 LD 1,State Senate,51,,Write-In,1
+Schoharie,Town of Conesville 1 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Esperance 1 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Esperance 2 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Fulton 1 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Gilboa 1 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Jefferson 1 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Middleburgh 1 LD 1,State Senate,51,,Write-In,1
+Schoharie,Town of Middleburgh 2 LD 1,State Senate,51,,Write-In,1
+Schoharie,Town of Richmondville 1 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Richmondville 2 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Schoharie 1 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Schoharie 2 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Seward 1 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Sharon 1 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Sharon 2 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Summit 1 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Wright 1 LD 1,State Senate,51,,Write-In,0
+Schoharie,Town of Blenheim 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,49
+Schoharie,Town of Broome 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,109
+Schoharie,Town of Carlisle 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,158
+Schoharie,Town of Cobleskill 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,236
+Schoharie,Town of Cobleskill 2 LD 1,State Assembly,102,DEM,Nicholas S. Chase,417
+Schoharie,Town of Conesville 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,81
+Schoharie,Town of Esperance 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,132
+Schoharie,Town of Esperance 2 LD 1,State Assembly,102,DEM,Nicholas S. Chase,34
+Schoharie,Town of Fulton 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,143
+Schoharie,Town of Gilboa 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,140
+Schoharie,Town of Jefferson 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,171
+Schoharie,Town of Middleburgh 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,175
+Schoharie,Town of Middleburgh 2 LD 1,State Assembly,102,DEM,Nicholas S. Chase,149
+Schoharie,Town of Richmondville 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,181
+Schoharie,Town of Richmondville 2 LD 1,State Assembly,102,DEM,Nicholas S. Chase,71
+Schoharie,Town of Schoharie 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,212
+Schoharie,Town of Schoharie 2 LD 1,State Assembly,102,DEM,Nicholas S. Chase,129
+Schoharie,Town of Seward 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,172
+Schoharie,Town of Sharon 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,108
+Schoharie,Town of Sharon 2 LD 1,State Assembly,102,DEM,Nicholas S. Chase,59
+Schoharie,Town of Summit 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,121
+Schoharie,Town of Wright 1 LD 1,State Assembly,102,DEM,Nicholas S. Chase,251
+Schoharie,Town of Blenheim 1 LD 1,State Assembly,102,REP,Christopher Tague,98
+Schoharie,Town of Broome 1 LD 1,State Assembly,102,REP,Christopher Tague,285
+Schoharie,Town of Carlisle 1 LD 1,State Assembly,102,REP,Christopher Tague,530
+Schoharie,Town of Cobleskill 1 LD 1,State Assembly,102,REP,Christopher Tague,481
+Schoharie,Town of Cobleskill 2 LD 1,State Assembly,102,REP,Christopher Tague,660
+Schoharie,Town of Conesville 1 LD 1,State Assembly,102,REP,Christopher Tague,236
+Schoharie,Town of Esperance 1 LD 1,State Assembly,102,REP,Christopher Tague,409
+Schoharie,Town of Esperance 2 LD 1,State Assembly,102,REP,Christopher Tague,93
+Schoharie,Town of Fulton 1 LD 1,State Assembly,102,REP,Christopher Tague,353
+Schoharie,Town of Gilboa 1 LD 1,State Assembly,102,REP,Christopher Tague,318
+Schoharie,Town of Jefferson 1 LD 1,State Assembly,102,REP,Christopher Tague,387
+Schoharie,Town of Middleburgh 1 LD 1,State Assembly,102,REP,Christopher Tague,628
+Schoharie,Town of Middleburgh 2 LD 1,State Assembly,102,REP,Christopher Tague,357
+Schoharie,Town of Richmondville 1 LD 1,State Assembly,102,REP,Christopher Tague,409
+Schoharie,Town of Richmondville 2 LD 1,State Assembly,102,REP,Christopher Tague,191
+Schoharie,Town of Schoharie 1 LD 1,State Assembly,102,REP,Christopher Tague,645
+Schoharie,Town of Schoharie 2 LD 1,State Assembly,102,REP,Christopher Tague,214
+Schoharie,Town of Seward 1 LD 1,State Assembly,102,REP,Christopher Tague,481
+Schoharie,Town of Sharon 1 LD 1,State Assembly,102,REP,Christopher Tague,340
+Schoharie,Town of Sharon 2 LD 1,State Assembly,102,REP,Christopher Tague,95
+Schoharie,Town of Summit 1 LD 1,State Assembly,102,REP,Christopher Tague,372
+Schoharie,Town of Wright 1 LD 1,State Assembly,102,REP,Christopher Tague,445
+Schoharie,Town of Blenheim 1 LD 1,State Assembly,102,CON,Christopher Tague,25
+Schoharie,Town of Broome 1 LD 1,State Assembly,102,CON,Christopher Tague,37
+Schoharie,Town of Carlisle 1 LD 1,State Assembly,102,CON,Christopher Tague,102
+Schoharie,Town of Cobleskill 1 LD 1,State Assembly,102,CON,Christopher Tague,98
+Schoharie,Town of Cobleskill 2 LD 1,State Assembly,102,CON,Christopher Tague,96
+Schoharie,Town of Conesville 1 LD 1,State Assembly,102,CON,Christopher Tague,23
+Schoharie,Town of Esperance 1 LD 1,State Assembly,102,CON,Christopher Tague,83
+Schoharie,Town of Esperance 2 LD 1,State Assembly,102,CON,Christopher Tague,21
+Schoharie,Town of Fulton 1 LD 1,State Assembly,102,CON,Christopher Tague,64
+Schoharie,Town of Gilboa 1 LD 1,State Assembly,102,CON,Christopher Tague,38
+Schoharie,Town of Jefferson 1 LD 1,State Assembly,102,CON,Christopher Tague,67
+Schoharie,Town of Middleburgh 1 LD 1,State Assembly,102,CON,Christopher Tague,98
+Schoharie,Town of Middleburgh 2 LD 1,State Assembly,102,CON,Christopher Tague,59
+Schoharie,Town of Richmondville 1 LD 1,State Assembly,102,CON,Christopher Tague,94
+Schoharie,Town of Richmondville 2 LD 1,State Assembly,102,CON,Christopher Tague,30
+Schoharie,Town of Schoharie 1 LD 1,State Assembly,102,CON,Christopher Tague,110
+Schoharie,Town of Schoharie 2 LD 1,State Assembly,102,CON,Christopher Tague,31
+Schoharie,Town of Seward 1 LD 1,State Assembly,102,CON,Christopher Tague,64
+Schoharie,Town of Sharon 1 LD 1,State Assembly,102,CON,Christopher Tague,63
+Schoharie,Town of Sharon 2 LD 1,State Assembly,102,CON,Christopher Tague,13
+Schoharie,Town of Summit 1 LD 1,State Assembly,102,CON,Christopher Tague,59
+Schoharie,Town of Wright 1 LD 1,State Assembly,102,CON,Christopher Tague,59
+Schoharie,Town of Blenheim 1 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Broome 1 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Carlisle 1 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Cobleskill 1 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Cobleskill 2 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Conesville 1 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Esperance 1 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Esperance 2 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Fulton 1 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Gilboa 1 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Jefferson 1 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Middleburgh 1 LD 1,State Assembly,102,,Write-In,1
+Schoharie,Town of Middleburgh 2 LD 1,State Assembly,102,,Write-In,2
+Schoharie,Town of Richmondville 1 LD 1,State Assembly,102,,Write-In,1
+Schoharie,Town of Richmondville 2 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Schoharie 1 LD 1,State Assembly,102,,Write-In,1
+Schoharie,Town of Schoharie 2 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Seward 1 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Sharon 1 LD 1,State Assembly,102,,Write-In,1
+Schoharie,Town of Sharon 2 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Summit 1 LD 1,State Assembly,102,,Write-In,0
+Schoharie,Town of Wright 1 LD 1,State Assembly,102,,Write-In,0

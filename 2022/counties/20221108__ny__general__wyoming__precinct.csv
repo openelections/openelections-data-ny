@@ -1,0 +1,2185 @@
+county,precinct,office,district,party,candidate,election_day,early_voting,votes
+Wyoming,Arcade 1 1,Governor,,DEM,Kathy C. Hochul,113,27,140
+Wyoming,Arcade 2 1,Governor,,DEM,Kathy C. Hochul,38,11,49
+Wyoming,Arcade 3 1,Governor,,DEM,Kathy C. Hochul,68,3,71
+Wyoming,Arcade 4 1,Governor,,DEM,Kathy C. Hochul,99,6,105
+Wyoming,Attica 1 1,Governor,,DEM,Kathy C. Hochul,56,15,71
+Wyoming,Attica 2 1,Governor,,DEM,Kathy C. Hochul,41,8,49
+Wyoming,Attica 3 1,Governor,,DEM,Kathy C. Hochul,65,15,80
+Wyoming,Attica 4 1,Governor,,DEM,Kathy C. Hochul,59,21,80
+Wyoming,Bennington 1 1,Governor,,DEM,Kathy C. Hochul,79,24,103
+Wyoming,Bennington 2 1,Governor,,DEM,Kathy C. Hochul,50,27,77
+Wyoming,Bennington 3 1,Governor,,DEM,Kathy C. Hochul,55,25,80
+Wyoming,Castile 1 1,Governor,,DEM,Kathy C. Hochul,45,27,72
+Wyoming,Castile 2 1,Governor,,DEM,Kathy C. Hochul,80,40,120
+Wyoming,Castile 3 1,Governor,,DEM,Kathy C. Hochul,33,37,70
+Wyoming,Covington 1 1,Governor,,DEM,Kathy C. Hochul,46,15,61
+Wyoming,Eagle 1 1,Governor,,DEM,Kathy C. Hochul,46,35,81
+Wyoming,Gainesville 1 1,Governor,,DEM,Kathy C. Hochul,29,6,35
+Wyoming,Gainesville 2 1,Governor,,DEM,Kathy C. Hochul,39,13,52
+Wyoming,Gainesville 3 1,Governor,,DEM,Kathy C. Hochul,12,31,43
+Wyoming,Gainesville 4 1,Governor,,DEM,Kathy C. Hochul,14,26,40
+Wyoming,Genesee Falls 1 1,Governor,,DEM,Kathy C. Hochul,38,1,39
+Wyoming,Java 1 1,Governor,,DEM,Kathy C. Hochul,80,11,91
+Wyoming,Java 2 1,Governor,,DEM,Kathy C. Hochul,58,8,66
+Wyoming,Middlebury 1 1,Governor,,DEM,Kathy C. Hochul,50,16,66
+Wyoming,Middlebury 2 1,Governor,,DEM,Kathy C. Hochul,28,8,36
+Wyoming,Orangeville 1 1,Governor,,DEM,Kathy C. Hochul,64,22,86
+Wyoming,Perry 1 1,Governor,,DEM,Kathy C. Hochul,78,16,94
+Wyoming,Perry 2 1,Governor,,DEM,Kathy C. Hochul,46,13,59
+Wyoming,Perry 3 1,Governor,,DEM,Kathy C. Hochul,81,27,108
+Wyoming,Perry 4 1,Governor,,DEM,Kathy C. Hochul,99,26,125
+Wyoming,Pike 1 1,Governor,,DEM,Kathy C. Hochul,50,5,55
+Wyoming,Sheldon 1 1,Governor,,DEM,Kathy C. Hochul,23,18,41
+Wyoming,Sheldon 2 1,Governor,,DEM,Kathy C. Hochul,62,11,73
+Wyoming,Sheldon 3 1,Governor,,DEM,Kathy C. Hochul,37,13,50
+Wyoming,Warsaw 1 1,Governor,,DEM,Kathy C. Hochul,47,60,107
+Wyoming,Warsaw 2 1,Governor,,DEM,Kathy C. Hochul,49,24,73
+Wyoming,Warsaw 3 1,Governor,,DEM,Kathy C. Hochul,55,31,86
+Wyoming,Warsaw 4 1,Governor,,DEM,Kathy C. Hochul,54,32,86
+Wyoming,Warsaw 5 1,Governor,,DEM,Kathy C. Hochul,63,67,130
+Wyoming,Wethersfield 1 1,Governor,,DEM,Kathy C. Hochul,47,20,67
+Wyoming,Cumulative,Governor,,DEM,Kathy C. Hochul,24,0,24
+Wyoming,Arcade 1 1,Governor,,REP,Lee Zeldin,298,19,317
+Wyoming,Arcade 2 1,Governor,,REP,Lee Zeldin,235,4,239
+Wyoming,Arcade 3 1,Governor,,REP,Lee Zeldin,208,9,217
+Wyoming,Arcade 4 1,Governor,,REP,Lee Zeldin,311,21,332
+Wyoming,Attica 1 1,Governor,,REP,Lee Zeldin,214,17,231
+Wyoming,Attica 2 1,Governor,,REP,Lee Zeldin,205,14,219
+Wyoming,Attica 3 1,Governor,,REP,Lee Zeldin,278,24,302
+Wyoming,Attica 4 1,Governor,,REP,Lee Zeldin,332,34,366
+Wyoming,Bennington 1 1,Governor,,REP,Lee Zeldin,333,77,410
+Wyoming,Bennington 2 1,Governor,,REP,Lee Zeldin,265,52,317
+Wyoming,Bennington 3 1,Governor,,REP,Lee Zeldin,256,97,353
+Wyoming,Castile 1 1,Governor,,REP,Lee Zeldin,168,68,236
+Wyoming,Castile 2 1,Governor,,REP,Lee Zeldin,229,46,275
+Wyoming,Castile 3 1,Governor,,REP,Lee Zeldin,119,76,195
+Wyoming,Covington 1 1,Governor,,REP,Lee Zeldin,361,13,374
+Wyoming,Eagle 1 1,Governor,,REP,Lee Zeldin,251,99,350
+Wyoming,Gainesville 1 1,Governor,,REP,Lee Zeldin,141,19,160
+Wyoming,Gainesville 2 1,Governor,,REP,Lee Zeldin,138,17,155
+Wyoming,Gainesville 3 1,Governor,,REP,Lee Zeldin,71,34,105
+Wyoming,Gainesville 4 1,Governor,,REP,Lee Zeldin,69,37,106
+Wyoming,Genesee Falls 1 1,Governor,,REP,Lee Zeldin,122,6,128
+Wyoming,Java 1 1,Governor,,REP,Lee Zeldin,347,15,362
+Wyoming,Java 2 1,Governor,,REP,Lee Zeldin,328,20,348
+Wyoming,Middlebury 1 1,Governor,,REP,Lee Zeldin,283,23,306
+Wyoming,Middlebury 2 1,Governor,,REP,Lee Zeldin,135,12,147
+Wyoming,Orangeville 1 1,Governor,,REP,Lee Zeldin,366,55,421
+Wyoming,Perry 1 1,Governor,,REP,Lee Zeldin,319,38,357
+Wyoming,Perry 2 1,Governor,,REP,Lee Zeldin,123,10,133
+Wyoming,Perry 3 1,Governor,,REP,Lee Zeldin,194,16,210
+Wyoming,Perry 4 1,Governor,,REP,Lee Zeldin,199,11,210
+Wyoming,Pike 1 1,Governor,,REP,Lee Zeldin,281,19,300
+Wyoming,Sheldon 1 1,Governor,,REP,Lee Zeldin,138,27,165
+Wyoming,Sheldon 2 1,Governor,,REP,Lee Zeldin,293,24,317
+Wyoming,Sheldon 3 1,Governor,,REP,Lee Zeldin,239,21,260
+Wyoming,Warsaw 1 1,Governor,,REP,Lee Zeldin,203,64,267
+Wyoming,Warsaw 2 1,Governor,,REP,Lee Zeldin,188,34,222
+Wyoming,Warsaw 3 1,Governor,,REP,Lee Zeldin,185,54,239
+Wyoming,Warsaw 4 1,Governor,,REP,Lee Zeldin,167,42,209
+Wyoming,Warsaw 5 1,Governor,,REP,Lee Zeldin,167,70,237
+Wyoming,Wethersfield 1 1,Governor,,REP,Lee Zeldin,229,21,250
+Wyoming,Cumulative,Governor,,Rep,Lee Zeldin,29,0,29
+Wyoming,Arcade 1 1,Governor,,CON,Lee Zeldin,14,3,17
+Wyoming,Arcade 2 1,Governor,,CON,Lee Zeldin,31,1,32
+Wyoming,Arcade 3 1,Governor,,CON,Lee Zeldin,35,0,35
+Wyoming,Arcade 4 1,Governor,,CON,Lee Zeldin,37,0,37
+Wyoming,Attica 1 1,Governor,,CON,Lee Zeldin,35,1,36
+Wyoming,Attica 2 1,Governor,,CON,Lee Zeldin,14,0,14
+Wyoming,Attica 3 1,Governor,,CON,Lee Zeldin,49,5,54
+Wyoming,Attica 4 1,Governor,,CON,Lee Zeldin,47,7,54
+Wyoming,Bennington 1 1,Governor,,CON,Lee Zeldin,68,16,84
+Wyoming,Bennington 2 1,Governor,,CON,Lee Zeldin,64,9,73
+Wyoming,Bennington 3 1,Governor,,CON,Lee Zeldin,61,28,89
+Wyoming,Castile 1 1,Governor,,CON,Lee Zeldin,16,10,26
+Wyoming,Castile 2 1,Governor,,CON,Lee Zeldin,34,4,38
+Wyoming,Castile 3 1,Governor,,CON,Lee Zeldin,13,13,26
+Wyoming,Covington 1 1,Governor,,CON,Lee Zeldin,46,4,50
+Wyoming,Eagle 1 1,Governor,,CON,Lee Zeldin,22,12,34
+Wyoming,Gainesville 1 1,Governor,,CON,Lee Zeldin,20,4,24
+Wyoming,Gainesville 2 1,Governor,,CON,Lee Zeldin,22,1,23
+Wyoming,Gainesville 3 1,Governor,,CON,Lee Zeldin,9,5,14
+Wyoming,Gainesville 4 1,Governor,,CON,Lee Zeldin,10,4,14
+Wyoming,Genesee Falls 1 1,Governor,,CON,Lee Zeldin,13,2,15
+Wyoming,Java 1 1,Governor,,CON,Lee Zeldin,62,0,62
+Wyoming,Java 2 1,Governor,,CON,Lee Zeldin,53,3,56
+Wyoming,Middlebury 1 1,Governor,,CON,Lee Zeldin,43,5,48
+Wyoming,Middlebury 2 1,Governor,,CON,Lee Zeldin,19,1,20
+Wyoming,Orangeville 1 1,Governor,,CON,Lee Zeldin,76,2,78
+Wyoming,Perry 1 1,Governor,,CON,Lee Zeldin,53,15,68
+Wyoming,Perry 2 1,Governor,,CON,Lee Zeldin,12,2,14
+Wyoming,Perry 3 1,Governor,,CON,Lee Zeldin,30,1,31
+Wyoming,Perry 4 1,Governor,,CON,Lee Zeldin,24,2,26
+Wyoming,Pike 1 1,Governor,,CON,Lee Zeldin,30,4,34
+Wyoming,Sheldon 1 1,Governor,,CON,Lee Zeldin,32,7,39
+Wyoming,Sheldon 2 1,Governor,,CON,Lee Zeldin,82,1,83
+Wyoming,Sheldon 3 1,Governor,,CON,Lee Zeldin,55,2,57
+Wyoming,Warsaw 1 1,Governor,,CON,Lee Zeldin,28,6,34
+Wyoming,Warsaw 2 1,Governor,,CON,Lee Zeldin,23,5,28
+Wyoming,Warsaw 3 1,Governor,,CON,Lee Zeldin,33,5,38
+Wyoming,Warsaw 4 1,Governor,,CON,Lee Zeldin,31,3,34
+Wyoming,Warsaw 5 1,Governor,,CON,Lee Zeldin,29,7,36
+Wyoming,Wethersfield 1 1,Governor,,CON,Lee Zeldin,22,4,26
+Wyoming,Cumulative,Governor,,CON,Lee Zeldin,1,0,1
+Wyoming,Arcade 1 1,Governor,,WOR,Kathy C. Hochul,7,1,8
+Wyoming,Arcade 2 1,Governor,,WOR,Kathy C. Hochul,7,0,7
+Wyoming,Arcade 3 1,Governor,,WOR,Kathy C. Hochul,10,1,11
+Wyoming,Arcade 4 1,Governor,,WOR,Kathy C. Hochul,8,0,8
+Wyoming,Attica 1 1,Governor,,WOR,Kathy C. Hochul,8,0,8
+Wyoming,Attica 2 1,Governor,,WOR,Kathy C. Hochul,2,2,4
+Wyoming,Attica 3 1,Governor,,WOR,Kathy C. Hochul,6,1,7
+Wyoming,Attica 4 1,Governor,,WOR,Kathy C. Hochul,3,3,6
+Wyoming,Bennington 1 1,Governor,,WOR,Kathy C. Hochul,8,4,12
+Wyoming,Bennington 2 1,Governor,,WOR,Kathy C. Hochul,4,3,7
+Wyoming,Bennington 3 1,Governor,,WOR,Kathy C. Hochul,6,1,7
+Wyoming,Castile 1 1,Governor,,WOR,Kathy C. Hochul,2,1,3
+Wyoming,Castile 2 1,Governor,,WOR,Kathy C. Hochul,7,4,11
+Wyoming,Castile 3 1,Governor,,WOR,Kathy C. Hochul,3,5,8
+Wyoming,Covington 1 1,Governor,,WOR,Kathy C. Hochul,4,1,5
+Wyoming,Eagle 1 1,Governor,,WOR,Kathy C. Hochul,3,0,3
+Wyoming,Gainesville 1 1,Governor,,WOR,Kathy C. Hochul,1,0,1
+Wyoming,Gainesville 2 1,Governor,,WOR,Kathy C. Hochul,4,0,4
+Wyoming,Gainesville 3 1,Governor,,WOR,Kathy C. Hochul,0,1,1
+Wyoming,Gainesville 4 1,Governor,,WOR,Kathy C. Hochul,2,1,3
+Wyoming,Genesee Falls 1 1,Governor,,WOR,Kathy C. Hochul,2,0,2
+Wyoming,Java 1 1,Governor,,WOR,Kathy C. Hochul,3,1,4
+Wyoming,Java 2 1,Governor,,WOR,Kathy C. Hochul,4,0,4
+Wyoming,Middlebury 1 1,Governor,,WOR,Kathy C. Hochul,5,0,5
+Wyoming,Middlebury 2 1,Governor,,WOR,Kathy C. Hochul,0,1,1
+Wyoming,Orangeville 1 1,Governor,,WOR,Kathy C. Hochul,14,2,16
+Wyoming,Perry 1 1,Governor,,WOR,Kathy C. Hochul,10,0,10
+Wyoming,Perry 2 1,Governor,,WOR,Kathy C. Hochul,4,1,5
+Wyoming,Perry 3 1,Governor,,WOR,Kathy C. Hochul,8,1,9
+Wyoming,Perry 4 1,Governor,,WOR,Kathy C. Hochul,6,1,7
+Wyoming,Pike 1 1,Governor,,WOR,Kathy C. Hochul,6,1,7
+Wyoming,Sheldon 1 1,Governor,,WOR,Kathy C. Hochul,2,5,7
+Wyoming,Sheldon 2 1,Governor,,WOR,Kathy C. Hochul,12,2,14
+Wyoming,Sheldon 3 1,Governor,,WOR,Kathy C. Hochul,4,0,4
+Wyoming,Warsaw 1 1,Governor,,WOR,Kathy C. Hochul,6,0,6
+Wyoming,Warsaw 2 1,Governor,,WOR,Kathy C. Hochul,1,1,2
+Wyoming,Warsaw 3 1,Governor,,WOR,Kathy C. Hochul,1,3,4
+Wyoming,Warsaw 4 1,Governor,,WOR,Kathy C. Hochul,3,2,5
+Wyoming,Warsaw 5 1,Governor,,WOR,Kathy C. Hochul,6,2,8
+Wyoming,Wethersfield 1 1,Governor,,WOR,Kathy C. Hochul,2,2,4
+Wyoming,Cumulative,Governor,,WOR,Kathy C. Hochul,3,0,3
+Wyoming,Arcade 1 1,Governor,,,Undervotes,3,1,4
+Wyoming,Arcade 2 1,Governor,,,Undervotes,3,0,3
+Wyoming,Arcade 3 1,Governor,,,Undervotes,1,1,2
+Wyoming,Arcade 4 1,Governor,,,Undervotes,1,0,1
+Wyoming,Attica 1 1,Governor,,,Undervotes,1,0,1
+Wyoming,Attica 2 1,Governor,,,Undervotes,3,0,3
+Wyoming,Attica 3 1,Governor,,,Undervotes,4,0,4
+Wyoming,Attica 4 1,Governor,,,Undervotes,1,0,1
+Wyoming,Bennington 1 1,Governor,,,Undervotes,2,0,2
+Wyoming,Bennington 2 1,Governor,,,Undervotes,2,0,2
+Wyoming,Bennington 3 1,Governor,,,Undervotes,2,0,2
+Wyoming,Castile 1 1,Governor,,,Undervotes,2,0,2
+Wyoming,Castile 2 1,Governor,,,Undervotes,3,2,5
+Wyoming,Castile 3 1,Governor,,,Undervotes,2,1,3
+Wyoming,Covington 1 1,Governor,,,Undervotes,2,0,2
+Wyoming,Eagle 1 1,Governor,,,Undervotes,0,1,1
+Wyoming,Gainesville 1 1,Governor,,,Undervotes,2,0,2
+Wyoming,Gainesville 2 1,Governor,,,Undervotes,1,0,1
+Wyoming,Gainesville 3 1,Governor,,,Undervotes,0,0,0
+Wyoming,Gainesville 4 1,Governor,,,Undervotes,0,0,0
+Wyoming,Genesee Falls 1 1,Governor,,,Undervotes,0,1,1
+Wyoming,Java 1 1,Governor,,,Undervotes,2,0,2
+Wyoming,Java 2 1,Governor,,,Undervotes,3,0,3
+Wyoming,Middlebury 1 1,Governor,,,Undervotes,2,0,2
+Wyoming,Middlebury 2 1,Governor,,,Undervotes,1,0,1
+Wyoming,Orangeville 1 1,Governor,,,Undervotes,2,0,2
+Wyoming,Perry 1 1,Governor,,,Undervotes,4,0,4
+Wyoming,Perry 2 1,Governor,,,Undervotes,1,0,1
+Wyoming,Perry 3 1,Governor,,,Undervotes,1,0,1
+Wyoming,Perry 4 1,Governor,,,Undervotes,3,0,3
+Wyoming,Pike 1 1,Governor,,,Undervotes,2,0,2
+Wyoming,Sheldon 1 1,Governor,,,Undervotes,1,0,1
+Wyoming,Sheldon 2 1,Governor,,,Undervotes,3,1,4
+Wyoming,Sheldon 3 1,Governor,,,Undervotes,5,0,5
+Wyoming,Warsaw 1 1,Governor,,,Undervotes,1,2,3
+Wyoming,Warsaw 2 1,Governor,,,Undervotes,0,0,0
+Wyoming,Warsaw 3 1,Governor,,,Undervotes,1,1,2
+Wyoming,Warsaw 4 1,Governor,,,Undervotes,3,0,3
+Wyoming,Warsaw 5 1,Governor,,,Undervotes,1,0,1
+Wyoming,Wethersfield 1 1,Governor,,,Undervotes,0,0,0
+Wyoming,Cumulative,Governor,,,Undervotes,0,0,0
+Wyoming,Arcade 1 1,Governor,,,Overvotes,0,0,0
+Wyoming,Arcade 2 1,Governor,,,Overvotes,0,0,0
+Wyoming,Arcade 3 1,Governor,,,Overvotes,1,0,1
+Wyoming,Arcade 4 1,Governor,,,Overvotes,0,0,0
+Wyoming,Attica 1 1,Governor,,,Overvotes,0,0,0
+Wyoming,Attica 2 1,Governor,,,Overvotes,1,0,1
+Wyoming,Attica 3 1,Governor,,,Overvotes,0,0,0
+Wyoming,Attica 4 1,Governor,,,Overvotes,0,0,0
+Wyoming,Bennington 1 1,Governor,,,Overvotes,0,0,0
+Wyoming,Bennington 2 1,Governor,,,Overvotes,0,0,0
+Wyoming,Bennington 3 1,Governor,,,Overvotes,0,0,0
+Wyoming,Castile 1 1,Governor,,,Overvotes,0,0,0
+Wyoming,Castile 2 1,Governor,,,Overvotes,0,0,0
+Wyoming,Castile 3 1,Governor,,,Overvotes,0,0,0
+Wyoming,Covington 1 1,Governor,,,Overvotes,0,0,0
+Wyoming,Eagle 1 1,Governor,,,Overvotes,0,0,0
+Wyoming,Gainesville 1 1,Governor,,,Overvotes,0,0,0
+Wyoming,Gainesville 2 1,Governor,,,Overvotes,0,0,0
+Wyoming,Gainesville 3 1,Governor,,,Overvotes,0,0,0
+Wyoming,Gainesville 4 1,Governor,,,Overvotes,0,0,0
+Wyoming,Genesee Falls 1 1,Governor,,,Overvotes,0,0,0
+Wyoming,Java 1 1,Governor,,,Overvotes,0,0,0
+Wyoming,Java 2 1,Governor,,,Overvotes,0,0,0
+Wyoming,Middlebury 1 1,Governor,,,Overvotes,0,0,0
+Wyoming,Middlebury 2 1,Governor,,,Overvotes,0,0,0
+Wyoming,Orangeville 1 1,Governor,,,Overvotes,3,0,3
+Wyoming,Perry 1 1,Governor,,,Overvotes,0,0,0
+Wyoming,Perry 2 1,Governor,,,Overvotes,0,0,0
+Wyoming,Perry 3 1,Governor,,,Overvotes,1,0,1
+Wyoming,Perry 4 1,Governor,,,Overvotes,0,0,0
+Wyoming,Pike 1 1,Governor,,,Overvotes,1,0,1
+Wyoming,Sheldon 1 1,Governor,,,Overvotes,0,0,0
+Wyoming,Sheldon 2 1,Governor,,,Overvotes,0,0,0
+Wyoming,Sheldon 3 1,Governor,,,Overvotes,0,0,0
+Wyoming,Warsaw 1 1,Governor,,,Overvotes,0,0,0
+Wyoming,Warsaw 2 1,Governor,,,Overvotes,0,1,1
+Wyoming,Warsaw 3 1,Governor,,,Overvotes,0,0,0
+Wyoming,Warsaw 4 1,Governor,,,Overvotes,0,0,0
+Wyoming,Warsaw 5 1,Governor,,,Overvotes,0,0,0
+Wyoming,Wethersfield 1 1,Governor,,,Overvotes,0,0,0
+Wyoming,Cumulative,Governor,,,Overvotes,0,0,0
+Wyoming,Arcade 1 1,Governor,,,Unqualified Write-Ins,1,0,1
+Wyoming,Arcade 2 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 3 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 4 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 1 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 2 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 3 1,Governor,,,Unqualified Write-Ins,2,0,2
+Wyoming,Attica 4 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 1 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 2 1,Governor,,,Unqualified Write-Ins,2,0,2
+Wyoming,Bennington 3 1,Governor,,,Unqualified Write-Ins,1,0,1
+Wyoming,Castile 1 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Castile 2 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Castile 3 1,Governor,,,Unqualified Write-Ins,1,1,2
+Wyoming,Covington 1 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Eagle 1 1,Governor,,,Unqualified Write-Ins,0,1,1
+Wyoming,Gainesville 1 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 2 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 3 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 4 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Genesee Falls 1 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Java 1 1,Governor,,,Unqualified Write-Ins,1,0,1
+Wyoming,Java 2 1,Governor,,,Unqualified Write-Ins,2,0,2
+Wyoming,Middlebury 1 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Middlebury 2 1,Governor,,,Unqualified Write-Ins,1,0,1
+Wyoming,Orangeville 1 1,Governor,,,Unqualified Write-Ins,3,1,4
+Wyoming,Perry 1 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 2 1,Governor,,,Unqualified Write-Ins,4,0,4
+Wyoming,Perry 3 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 4 1,Governor,,,Unqualified Write-Ins,2,0,2
+Wyoming,Pike 1 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 1 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 2 1,Governor,,,Unqualified Write-Ins,1,0,1
+Wyoming,Sheldon 3 1,Governor,,,Unqualified Write-Ins,1,0,1
+Wyoming,Warsaw 1 1,Governor,,,Unqualified Write-Ins,2,0,2
+Wyoming,Warsaw 2 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 3 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 4 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 5 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Wethersfield 1 1,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Cumulative,Governor,,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 1 1,Governor,,,Special Votes,4,1,5
+Wyoming,Arcade 2 1,Governor,,,Special Votes,3,0,3
+Wyoming,Arcade 3 1,Governor,,,Special Votes,2,1,3
+Wyoming,Arcade 4 1,Governor,,,Special Votes,1,0,1
+Wyoming,Attica 1 1,Governor,,,Special Votes,1,0,1
+Wyoming,Attica 2 1,Governor,,,Special Votes,4,0,4
+Wyoming,Attica 3 1,Governor,,,Special Votes,6,0,6
+Wyoming,Attica 4 1,Governor,,,Special Votes,1,0,1
+Wyoming,Bennington 1 1,Governor,,,Special Votes,2,0,2
+Wyoming,Bennington 2 1,Governor,,,Special Votes,4,0,4
+Wyoming,Bennington 3 1,Governor,,,Special Votes,3,0,3
+Wyoming,Castile 1 1,Governor,,,Special Votes,2,0,2
+Wyoming,Castile 2 1,Governor,,,Special Votes,3,2,5
+Wyoming,Castile 3 1,Governor,,,Special Votes,3,2,5
+Wyoming,Covington 1 1,Governor,,,Special Votes,2,0,2
+Wyoming,Eagle 1 1,Governor,,,Special Votes,0,2,2
+Wyoming,Gainesville 1 1,Governor,,,Special Votes,2,0,2
+Wyoming,Gainesville 2 1,Governor,,,Special Votes,1,0,1
+Wyoming,Gainesville 3 1,Governor,,,Special Votes,0,0,0
+Wyoming,Gainesville 4 1,Governor,,,Special Votes,0,0,0
+Wyoming,Genesee Falls 1 1,Governor,,,Special Votes,0,1,1
+Wyoming,Java 1 1,Governor,,,Special Votes,3,0,3
+Wyoming,Java 2 1,Governor,,,Special Votes,5,0,5
+Wyoming,Middlebury 1 1,Governor,,,Special Votes,2,0,2
+Wyoming,Middlebury 2 1,Governor,,,Special Votes,2,0,2
+Wyoming,Orangeville 1 1,Governor,,,Special Votes,8,1,9
+Wyoming,Perry 1 1,Governor,,,Special Votes,4,0,4
+Wyoming,Perry 2 1,Governor,,,Special Votes,5,0,5
+Wyoming,Perry 3 1,Governor,,,Special Votes,2,0,2
+Wyoming,Perry 4 1,Governor,,,Special Votes,5,0,5
+Wyoming,Pike 1 1,Governor,,,Special Votes,3,0,3
+Wyoming,Sheldon 1 1,Governor,,,Special Votes,1,0,1
+Wyoming,Sheldon 2 1,Governor,,,Special Votes,4,1,5
+Wyoming,Sheldon 3 1,Governor,,,Special Votes,6,0,6
+Wyoming,Warsaw 1 1,Governor,,,Special Votes,3,2,5
+Wyoming,Warsaw 2 1,Governor,,,Special Votes,0,1,1
+Wyoming,Warsaw 3 1,Governor,,,Special Votes,1,1,2
+Wyoming,Warsaw 4 1,Governor,,,Special Votes,3,0,3
+Wyoming,Warsaw 5 1,Governor,,,Special Votes,1,0,1
+Wyoming,Wethersfield 1 1,Governor,,,Special Votes,0,0,0
+Wyoming,Cumulative,Governor,,,Special Votes,0,0,0
+Wyoming,Arcade 1 1,Comptroller,,DEM,Thomas P. DiNapoli,116,28,144
+Wyoming,Arcade 2 1,Comptroller,,DEM,Thomas P. DiNapoli,50,10,60
+Wyoming,Arcade 3 1,Comptroller,,DEM,Thomas P. DiNapoli,86,5,91
+Wyoming,Arcade 4 1,Comptroller,,DEM,Thomas P. DiNapoli,115,2,117
+Wyoming,Attica 1 1,Comptroller,,DEM,Thomas P. DiNapoli,69,15,84
+Wyoming,Attica 2 1,Comptroller,,DEM,Thomas P. DiNapoli,62,8,70
+Wyoming,Attica 3 1,Comptroller,,DEM,Thomas P. DiNapoli,85,17,102
+Wyoming,Attica 4 1,Comptroller,,DEM,Thomas P. DiNapoli,81,20,101
+Wyoming,Bennington 1 1,Comptroller,,DEM,Thomas P. DiNapoli,95,37,132
+Wyoming,Bennington 2 1,Comptroller,,DEM,Thomas P. DiNapoli,67,26,93
+Wyoming,Bennington 3 1,Comptroller,,DEM,Thomas P. DiNapoli,67,27,94
+Wyoming,Castile 1 1,Comptroller,,DEM,Thomas P. DiNapoli,53,30,83
+Wyoming,Castile 2 1,Comptroller,,DEM,Thomas P. DiNapoli,88,42,130
+Wyoming,Castile 3 1,Comptroller,,DEM,Thomas P. DiNapoli,43,45,88
+Wyoming,Covington 1 1,Comptroller,,DEM,Thomas P. DiNapoli,65,14,79
+Wyoming,Eagle 1 1,Comptroller,,DEM,Thomas P. DiNapoli,60,35,95
+Wyoming,Gainesville 1 1,Comptroller,,DEM,Thomas P. DiNapoli,37,6,43
+Wyoming,Gainesville 2 1,Comptroller,,DEM,Thomas P. DiNapoli,47,14,61
+Wyoming,Gainesville 3 1,Comptroller,,DEM,Thomas P. DiNapoli,17,31,48
+Wyoming,Gainesville 4 1,Comptroller,,DEM,Thomas P. DiNapoli,16,25,41
+Wyoming,Genesee Falls 1 1,Comptroller,,DEM,Thomas P. DiNapoli,47,2,49
+Wyoming,Java 1 1,Comptroller,,DEM,Thomas P. DiNapoli,98,13,111
+Wyoming,Java 2 1,Comptroller,,DEM,Thomas P. DiNapoli,72,8,80
+Wyoming,Middlebury 1 1,Comptroller,,DEM,Thomas P. DiNapoli,68,17,85
+Wyoming,Middlebury 2 1,Comptroller,,DEM,Thomas P. DiNapoli,32,8,40
+Wyoming,Orangeville 1 1,Comptroller,,DEM,Thomas P. DiNapoli,85,25,110
+Wyoming,Perry 1 1,Comptroller,,DEM,Thomas P. DiNapoli,96,19,115
+Wyoming,Perry 2 1,Comptroller,,DEM,Thomas P. DiNapoli,54,12,66
+Wyoming,Perry 3 1,Comptroller,,DEM,Thomas P. DiNapoli,92,28,120
+Wyoming,Perry 4 1,Comptroller,,DEM,Thomas P. DiNapoli,111,26,137
+Wyoming,Pike 1 1,Comptroller,,DEM,Thomas P. DiNapoli,61,4,65
+Wyoming,Sheldon 1 1,Comptroller,,DEM,Thomas P. DiNapoli,40,19,59
+Wyoming,Sheldon 2 1,Comptroller,,DEM,Thomas P. DiNapoli,72,11,83
+Wyoming,Sheldon 3 1,Comptroller,,DEM,Thomas P. DiNapoli,56,16,72
+Wyoming,Warsaw 1 1,Comptroller,,DEM,Thomas P. DiNapoli,57,61,118
+Wyoming,Warsaw 2 1,Comptroller,,DEM,Thomas P. DiNapoli,64,24,88
+Wyoming,Warsaw 3 1,Comptroller,,DEM,Thomas P. DiNapoli,63,36,99
+Wyoming,Warsaw 4 1,Comptroller,,DEM,Thomas P. DiNapoli,68,34,102
+Wyoming,Warsaw 5 1,Comptroller,,DEM,Thomas P. DiNapoli,81,75,156
+Wyoming,Wethersfield 1 1,Comptroller,,DEM,Thomas P. DiNapoli,56,22,78
+Wyoming,Cumulative,Comptroller,,DEM,Thomas P. DiNapoli,25,0,25
+Wyoming,Arcade 1 1,Comptroller,,REP,Paul Rodriguez,285,15,300
+Wyoming,Arcade 2 1,Comptroller,,REP,Paul Rodriguez,214,5,219
+Wyoming,Arcade 3 1,Comptroller,,REP,Paul Rodriguez,188,7,195
+Wyoming,Arcade 4 1,Comptroller,,REP,Paul Rodriguez,277,23,300
+Wyoming,Attica 1 1,Comptroller,,REP,Paul Rodriguez,195,17,212
+Wyoming,Attica 2 1,Comptroller,,REP,Paul Rodriguez,173,11,184
+Wyoming,Attica 3 1,Comptroller,,REP,Paul Rodriguez,241,21,262
+Wyoming,Attica 4 1,Comptroller,,REP,Paul Rodriguez,289,31,320
+Wyoming,Bennington 1 1,Comptroller,,REP,Paul Rodriguez,305,61,366
+Wyoming,Bennington 2 1,Comptroller,,REP,Paul Rodriguez,245,46,291
+Wyoming,Bennington 3 1,Comptroller,,REP,Paul Rodriguez,233,81,314
+Wyoming,Castile 1 1,Comptroller,,REP,Paul Rodriguez,150,65,215
+Wyoming,Castile 2 1,Comptroller,,REP,Paul Rodriguez,213,40,253
+Wyoming,Castile 3 1,Comptroller,,REP,Paul Rodriguez,111,69,180
+Wyoming,Covington 1 1,Comptroller,,REP,Paul Rodriguez,331,11,342
+Wyoming,Eagle 1 1,Comptroller,,REP,Paul Rodriguez,227,99,326
+Wyoming,Gainesville 1 1,Comptroller,,REP,Paul Rodriguez,128,17,145
+Wyoming,Gainesville 2 1,Comptroller,,REP,Paul Rodriguez,127,13,140
+Wyoming,Gainesville 3 1,Comptroller,,REP,Paul Rodriguez,62,28,90
+Wyoming,Gainesville 4 1,Comptroller,,REP,Paul Rodriguez,65,35,100
+Wyoming,Genesee Falls 1 1,Comptroller,,REP,Paul Rodriguez,105,6,111
+Wyoming,Java 1 1,Comptroller,,REP,Paul Rodriguez,314,10,324
+Wyoming,Java 2 1,Comptroller,,REP,Paul Rodriguez,303,17,320
+Wyoming,Middlebury 1 1,Comptroller,,REP,Paul Rodriguez,249,22,271
+Wyoming,Middlebury 2 1,Comptroller,,REP,Paul Rodriguez,124,12,136
+Wyoming,Orangeville 1 1,Comptroller,,REP,Paul Rodriguez,328,49,377
+Wyoming,Perry 1 1,Comptroller,,REP,Paul Rodriguez,294,32,326
+Wyoming,Perry 2 1,Comptroller,,REP,Paul Rodriguez,108,8,116
+Wyoming,Perry 3 1,Comptroller,,REP,Paul Rodriguez,176,12,188
+Wyoming,Perry 4 1,Comptroller,,REP,Paul Rodriguez,185,12,197
+Wyoming,Pike 1 1,Comptroller,,REP,Paul Rodriguez,262,20,282
+Wyoming,Sheldon 1 1,Comptroller,,REP,Paul Rodriguez,118,25,143
+Wyoming,Sheldon 2 1,Comptroller,,REP,Paul Rodriguez,269,24,293
+Wyoming,Sheldon 3 1,Comptroller,,REP,Paul Rodriguez,212,17,229
+Wyoming,Warsaw 1 1,Comptroller,,REP,Paul Rodriguez,184,61,245
+Wyoming,Warsaw 2 1,Comptroller,,REP,Paul Rodriguez,165,31,196
+Wyoming,Warsaw 3 1,Comptroller,,REP,Paul Rodriguez,162,49,211
+Wyoming,Warsaw 4 1,Comptroller,,REP,Paul Rodriguez,145,35,180
+Wyoming,Warsaw 5 1,Comptroller,,REP,Paul Rodriguez,144,63,207
+Wyoming,Wethersfield 1 1,Comptroller,,REP,Paul Rodriguez,209,19,228
+Wyoming,Cumulative,Comptroller,,REP,Paul Rodriguez,25,0,25
+Wyoming,Arcade 1 1,Comptroller,,CON,Paul Rodriguez,14,6,20
+Wyoming,Arcade 2 1,Comptroller,,CON,Paul Rodriguez,30,1,31
+Wyoming,Arcade 3 1,Comptroller,,CON,Paul Rodriguez,28,0,28
+Wyoming,Arcade 4 1,Comptroller,,CON,Paul Rodriguez,36,0,36
+Wyoming,Attica 1 1,Comptroller,,CON,Paul Rodriguez,32,1,33
+Wyoming,Attica 2 1,Comptroller,,CON,Paul Rodriguez,16,1,17
+Wyoming,Attica 3 1,Comptroller,,CON,Paul Rodriguez,45,3,48
+Wyoming,Attica 4 1,Comptroller,,CON,Paul Rodriguez,44,8,52
+Wyoming,Bennington 1 1,Comptroller,,CON,Paul Rodriguez,60,13,73
+Wyoming,Bennington 2 1,Comptroller,,CON,Paul Rodriguez,61,11,72
+Wyoming,Bennington 3 1,Comptroller,,CON,Paul Rodriguez,56,30,86
+Wyoming,Castile 1 1,Comptroller,,CON,Paul Rodriguez,18,11,29
+Wyoming,Castile 2 1,Comptroller,,CON,Paul Rodriguez,36,4,40
+Wyoming,Castile 3 1,Comptroller,,CON,Paul Rodriguez,11,12,23
+Wyoming,Covington 1 1,Comptroller,,CON,Paul Rodriguez,42,5,47
+Wyoming,Eagle 1 1,Comptroller,,CON,Paul Rodriguez,22,9,31
+Wyoming,Gainesville 1 1,Comptroller,,CON,Paul Rodriguez,20,5,25
+Wyoming,Gainesville 2 1,Comptroller,,CON,Paul Rodriguez,21,2,23
+Wyoming,Gainesville 3 1,Comptroller,,CON,Paul Rodriguez,8,5,13
+Wyoming,Gainesville 4 1,Comptroller,,CON,Paul Rodriguez,10,3,13
+Wyoming,Genesee Falls 1 1,Comptroller,,CON,Paul Rodriguez,12,2,14
+Wyoming,Java 1 1,Comptroller,,CON,Paul Rodriguez,64,0,64
+Wyoming,Java 2 1,Comptroller,,CON,Paul Rodriguez,51,6,57
+Wyoming,Middlebury 1 1,Comptroller,,CON,Paul Rodriguez,47,4,51
+Wyoming,Middlebury 2 1,Comptroller,,CON,Paul Rodriguez,18,1,19
+Wyoming,Orangeville 1 1,Comptroller,,CON,Paul Rodriguez,77,4,81
+Wyoming,Perry 1 1,Comptroller,,CON,Paul Rodriguez,52,14,66
+Wyoming,Perry 2 1,Comptroller,,CON,Paul Rodriguez,15,0,15
+Wyoming,Perry 3 1,Comptroller,,CON,Paul Rodriguez,30,1,31
+Wyoming,Perry 4 1,Comptroller,,CON,Paul Rodriguez,22,1,23
+Wyoming,Pike 1 1,Comptroller,,CON,Paul Rodriguez,30,4,34
+Wyoming,Sheldon 1 1,Comptroller,,CON,Paul Rodriguez,32,3,35
+Wyoming,Sheldon 2 1,Comptroller,,CON,Paul Rodriguez,80,1,81
+Wyoming,Sheldon 3 1,Comptroller,,CON,Paul Rodriguez,53,2,55
+Wyoming,Warsaw 1 1,Comptroller,,CON,Paul Rodriguez,30,5,35
+Wyoming,Warsaw 2 1,Comptroller,,CON,Paul Rodriguez,21,3,24
+Wyoming,Warsaw 3 1,Comptroller,,CON,Paul Rodriguez,35,5,40
+Wyoming,Warsaw 4 1,Comptroller,,CON,Paul Rodriguez,27,3,30
+Wyoming,Warsaw 5 1,Comptroller,,CON,Paul Rodriguez,29,4,33
+Wyoming,Wethersfield 1 1,Comptroller,,CON,Paul Rodriguez,19,4,23
+Wyoming,Cumulative,Comptroller,,CON,Paul Rodriguez,0,0,0
+Wyoming,Arcade 1 1,Comptroller,,WOR,Thomas P. DiNapoli,12,0,12
+Wyoming,Arcade 2 1,Comptroller,,WOR,Thomas P. DiNapoli,14,0,14
+Wyoming,Arcade 3 1,Comptroller,,WOR,Thomas P. DiNapoli,10,0,10
+Wyoming,Arcade 4 1,Comptroller,,WOR,Thomas P. DiNapoli,15,1,16
+Wyoming,Attica 1 1,Comptroller,,WOR,Thomas P. DiNapoli,16,0,16
+Wyoming,Attica 2 1,Comptroller,,WOR,Thomas P. DiNapoli,5,2,7
+Wyoming,Attica 3 1,Comptroller,,WOR,Thomas P. DiNapoli,16,2,18
+Wyoming,Attica 4 1,Comptroller,,WOR,Thomas P. DiNapoli,13,5,18
+Wyoming,Bennington 1 1,Comptroller,,WOR,Thomas P. DiNapoli,20,6,26
+Wyoming,Bennington 2 1,Comptroller,,WOR,Thomas P. DiNapoli,8,7,15
+Wyoming,Bennington 3 1,Comptroller,,WOR,Thomas P. DiNapoli,12,7,19
+Wyoming,Castile 1 1,Comptroller,,WOR,Thomas P. DiNapoli,7,0,7
+Wyoming,Castile 2 1,Comptroller,,WOR,Thomas P. DiNapoli,12,7,19
+Wyoming,Castile 3 1,Comptroller,,WOR,Thomas P. DiNapoli,5,6,11
+Wyoming,Covington 1 1,Comptroller,,WOR,Thomas P. DiNapoli,13,2,15
+Wyoming,Eagle 1 1,Comptroller,,WOR,Thomas P. DiNapoli,8,1,9
+Wyoming,Gainesville 1 1,Comptroller,,WOR,Thomas P. DiNapoli,3,0,3
+Wyoming,Gainesville 2 1,Comptroller,,WOR,Thomas P. DiNapoli,6,0,6
+Wyoming,Gainesville 3 1,Comptroller,,WOR,Thomas P. DiNapoli,2,4,6
+Wyoming,Gainesville 4 1,Comptroller,,WOR,Thomas P. DiNapoli,3,4,7
+Wyoming,Genesee Falls 1 1,Comptroller,,WOR,Thomas P. DiNapoli,5,0,5
+Wyoming,Java 1 1,Comptroller,,WOR,Thomas P. DiNapoli,14,4,18
+Wyoming,Java 2 1,Comptroller,,WOR,Thomas P. DiNapoli,10,0,10
+Wyoming,Middlebury 1 1,Comptroller,,WOR,Thomas P. DiNapoli,15,0,15
+Wyoming,Middlebury 2 1,Comptroller,,WOR,Thomas P. DiNapoli,2,1,3
+Wyoming,Orangeville 1 1,Comptroller,,WOR,Thomas P. DiNapoli,21,4,25
+Wyoming,Perry 1 1,Comptroller,,WOR,Thomas P. DiNapoli,11,2,13
+Wyoming,Perry 2 1,Comptroller,,WOR,Thomas P. DiNapoli,8,4,12
+Wyoming,Perry 3 1,Comptroller,,WOR,Thomas P. DiNapoli,12,3,15
+Wyoming,Perry 4 1,Comptroller,,WOR,Thomas P. DiNapoli,11,1,12
+Wyoming,Pike 1 1,Comptroller,,WOR,Thomas P. DiNapoli,10,1,11
+Wyoming,Sheldon 1 1,Comptroller,,WOR,Thomas P. DiNapoli,4,7,11
+Wyoming,Sheldon 2 1,Comptroller,,WOR,Thomas P. DiNapoli,15,2,17
+Wyoming,Sheldon 3 1,Comptroller,,WOR,Thomas P. DiNapoli,10,0,10
+Wyoming,Warsaw 1 1,Comptroller,,WOR,Thomas P. DiNapoli,7,0,7
+Wyoming,Warsaw 2 1,Comptroller,,WOR,Thomas P. DiNapoli,9,3,12
+Wyoming,Warsaw 3 1,Comptroller,,WOR,Thomas P. DiNapoli,8,4,12
+Wyoming,Warsaw 4 1,Comptroller,,WOR,Thomas P. DiNapoli,9,4,13
+Wyoming,Warsaw 5 1,Comptroller,,WOR,Thomas P. DiNapoli,9,4,13
+Wyoming,Wethersfield 1 1,Comptroller,,WOR,Thomas P. DiNapoli,9,1,10
+Wyoming,Cumulative,Comptroller,,WOR,Thomas P. DiNapoli,2,0,2
+Wyoming,Arcade 1 1,Comptroller,,,Undervotes,9,2,11
+Wyoming,Arcade 2 1,Comptroller,,,Undervotes,6,0,6
+Wyoming,Arcade 3 1,Comptroller,,,Undervotes,10,2,12
+Wyoming,Arcade 4 1,Comptroller,,,Undervotes,13,1,14
+Wyoming,Attica 1 1,Comptroller,,,Undervotes,2,0,2
+Wyoming,Attica 2 1,Comptroller,,,Undervotes,10,2,12
+Wyoming,Attica 3 1,Comptroller,,,Undervotes,16,2,18
+Wyoming,Attica 4 1,Comptroller,,,Undervotes,15,1,16
+Wyoming,Bennington 1 1,Comptroller,,,Undervotes,10,4,14
+Wyoming,Bennington 2 1,Comptroller,,,Undervotes,6,1,7
+Wyoming,Bennington 3 1,Comptroller,,,Undervotes,13,6,19
+Wyoming,Castile 1 1,Comptroller,,,Undervotes,5,0,5
+Wyoming,Castile 2 1,Comptroller,,,Undervotes,4,3,7
+Wyoming,Castile 3 1,Comptroller,,,Undervotes,1,1,2
+Wyoming,Covington 1 1,Comptroller,,,Undervotes,8,1,9
+Wyoming,Eagle 1 1,Comptroller,,,Undervotes,5,4,9
+Wyoming,Gainesville 1 1,Comptroller,,,Undervotes,5,1,6
+Wyoming,Gainesville 2 1,Comptroller,,,Undervotes,3,2,5
+Wyoming,Gainesville 3 1,Comptroller,,,Undervotes,3,3,6
+Wyoming,Gainesville 4 1,Comptroller,,,Undervotes,1,0,1
+Wyoming,Genesee Falls 1 1,Comptroller,,,Undervotes,6,0,6
+Wyoming,Java 1 1,Comptroller,,,Undervotes,5,0,5
+Wyoming,Java 2 1,Comptroller,,,Undervotes,12,0,12
+Wyoming,Middlebury 1 1,Comptroller,,,Undervotes,4,0,4
+Wyoming,Middlebury 2 1,Comptroller,,,Undervotes,8,0,8
+Wyoming,Orangeville 1 1,Comptroller,,,Undervotes,14,0,14
+Wyoming,Perry 1 1,Comptroller,,,Undervotes,11,2,13
+Wyoming,Perry 2 1,Comptroller,,,Undervotes,4,2,6
+Wyoming,Perry 3 1,Comptroller,,,Undervotes,4,1,5
+Wyoming,Perry 4 1,Comptroller,,,Undervotes,4,0,4
+Wyoming,Pike 1 1,Comptroller,,,Undervotes,6,0,6
+Wyoming,Sheldon 1 1,Comptroller,,,Undervotes,2,3,5
+Wyoming,Sheldon 2 1,Comptroller,,,Undervotes,17,1,18
+Wyoming,Sheldon 3 1,Comptroller,,,Undervotes,10,1,11
+Wyoming,Warsaw 1 1,Comptroller,,,Undervotes,8,5,13
+Wyoming,Warsaw 2 1,Comptroller,,,Undervotes,2,4,6
+Wyoming,Warsaw 3 1,Comptroller,,,Undervotes,7,0,7
+Wyoming,Warsaw 4 1,Comptroller,,,Undervotes,9,3,12
+Wyoming,Warsaw 5 1,Comptroller,,,Undervotes,3,0,3
+Wyoming,Wethersfield 1 1,Comptroller,,,Undervotes,7,1,8
+Wyoming,Cumulative,Comptroller,,,Undervotes,0,0,0
+Wyoming,Arcade 1 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Arcade 2 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Arcade 3 1,Comptroller,,,Overvotes,0,1,1
+Wyoming,Arcade 4 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Attica 1 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Attica 2 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Attica 3 1,Comptroller,,,Overvotes,0,1,1
+Wyoming,Attica 4 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Bennington 1 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Bennington 2 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Bennington 3 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Castile 1 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Castile 2 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Castile 3 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Covington 1 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Eagle 1 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Gainesville 1 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Gainesville 2 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Gainesville 3 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Gainesville 4 1,Comptroller,,,Overvotes,1,0,1
+Wyoming,Genesee Falls 1 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Java 1 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Java 2 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Middlebury 1 1,Comptroller,,,Overvotes,1,0,1
+Wyoming,Middlebury 2 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Orangeville 1 1,Comptroller,,,Overvotes,0,3,3
+Wyoming,Perry 1 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Perry 2 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Perry 3 1,Comptroller,,,Overvotes,0,1,1
+Wyoming,Perry 4 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Pike 1 1,Comptroller,,,Overvotes,0,1,1
+Wyoming,Sheldon 1 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Sheldon 2 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Sheldon 3 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Warsaw 1 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Warsaw 2 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Warsaw 3 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Warsaw 4 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Warsaw 5 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Wethersfield 1 1,Comptroller,,,Overvotes,0,0,0
+Wyoming,Cumulative,Comptroller,,,Overvotes,0,0,0
+Wyoming,Arcade 1 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 2 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 3 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 4 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 1 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 2 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 3 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 4 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 1 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 2 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 3 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Castile 1 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Castile 2 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Castile 3 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Covington 1 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Eagle 1 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 1 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 2 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 3 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 4 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Genesee Falls 1 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Java 1 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Java 2 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Middlebury 1 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Middlebury 2 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Orangeville 1 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 1 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 2 1,Comptroller,,,Unqualified Write-Ins,1,0,1
+Wyoming,Perry 3 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 4 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Pike 1 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 1 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 2 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 3 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 1 1,Comptroller,,,Unqualified Write-Ins,1,0,1
+Wyoming,Warsaw 2 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 3 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 4 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 5 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Wethersfield 1 1,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Cumulative,Comptroller,,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 1 1,Comptroller,,,Special Votes,9,2,11
+Wyoming,Arcade 2 1,Comptroller,,,Special Votes,6,0,6
+Wyoming,Arcade 3 1,Comptroller,,,Special Votes,11,2,13
+Wyoming,Arcade 4 1,Comptroller,,,Special Votes,13,1,14
+Wyoming,Attica 1 1,Comptroller,,,Special Votes,2,0,2
+Wyoming,Attica 2 1,Comptroller,,,Special Votes,10,2,12
+Wyoming,Attica 3 1,Comptroller,,,Special Votes,17,2,19
+Wyoming,Attica 4 1,Comptroller,,,Special Votes,15,1,16
+Wyoming,Bennington 1 1,Comptroller,,,Special Votes,10,4,14
+Wyoming,Bennington 2 1,Comptroller,,,Special Votes,6,1,7
+Wyoming,Bennington 3 1,Comptroller,,,Special Votes,13,6,19
+Wyoming,Castile 1 1,Comptroller,,,Special Votes,5,0,5
+Wyoming,Castile 2 1,Comptroller,,,Special Votes,4,3,7
+Wyoming,Castile 3 1,Comptroller,,,Special Votes,1,1,2
+Wyoming,Covington 1 1,Comptroller,,,Special Votes,8,1,9
+Wyoming,Eagle 1 1,Comptroller,,,Special Votes,5,4,9
+Wyoming,Gainesville 1 1,Comptroller,,,Special Votes,5,1,6
+Wyoming,Gainesville 2 1,Comptroller,,,Special Votes,3,2,5
+Wyoming,Gainesville 3 1,Comptroller,,,Special Votes,3,3,6
+Wyoming,Gainesville 4 1,Comptroller,,,Special Votes,1,1,2
+Wyoming,Genesee Falls 1 1,Comptroller,,,Special Votes,6,0,6
+Wyoming,Java 1 1,Comptroller,,,Special Votes,5,0,5
+Wyoming,Java 2 1,Comptroller,,,Special Votes,12,0,12
+Wyoming,Middlebury 1 1,Comptroller,,,Special Votes,4,1,5
+Wyoming,Middlebury 2 1,Comptroller,,,Special Votes,8,0,8
+Wyoming,Orangeville 1 1,Comptroller,,,Special Votes,17,0,17
+Wyoming,Perry 1 1,Comptroller,,,Special Votes,11,2,13
+Wyoming,Perry 2 1,Comptroller,,,Special Votes,5,2,7
+Wyoming,Perry 3 1,Comptroller,,,Special Votes,5,1,6
+Wyoming,Perry 4 1,Comptroller,,,Special Votes,4,0,4
+Wyoming,Pike 1 1,Comptroller,,,Special Votes,7,0,7
+Wyoming,Sheldon 1 1,Comptroller,,,Special Votes,2,3,5
+Wyoming,Sheldon 2 1,Comptroller,,,Special Votes,17,1,18
+Wyoming,Sheldon 3 1,Comptroller,,,Special Votes,10,1,11
+Wyoming,Warsaw 1 1,Comptroller,,,Special Votes,9,5,14
+Wyoming,Warsaw 2 1,Comptroller,,,Special Votes,2,4,6
+Wyoming,Warsaw 3 1,Comptroller,,,Special Votes,7,0,7
+Wyoming,Warsaw 4 1,Comptroller,,,Special Votes,9,3,12
+Wyoming,Warsaw 5 1,Comptroller,,,Special Votes,3,0,3
+Wyoming,Wethersfield 1 1,Comptroller,,,Special Votes,7,1,8
+Wyoming,Cumulative,Comptroller,,,Special Votes,0,0,0
+Wyoming,Arcade 1 1,Attorney General,,DEM,Letitia A. James,104,28,132
+Wyoming,Arcade 2 1,Attorney General,,DEM,Letitia A. James,36,9,45
+Wyoming,Arcade 3 1,Attorney General,,DEM,Letitia A. James,67,4,71
+Wyoming,Arcade 4 1,Attorney General,,DEM,Letitia A. James,99,4,103
+Wyoming,Attica 1 1,Attorney General,,DEM,Letitia A. James,56,16,72
+Wyoming,Attica 2 1,Attorney General,,DEM,Letitia A. James,37,7,44
+Wyoming,Attica 3 1,Attorney General,,DEM,Letitia A. James,65,17,82
+Wyoming,Attica 4 1,Attorney General,,DEM,Letitia A. James,56,20,76
+Wyoming,Bennington 1 1,Attorney General,,DEM,Letitia A. James,83,26,109
+Wyoming,Bennington 2 1,Attorney General,,DEM,Letitia A. James,59,27,86
+Wyoming,Bennington 3 1,Attorney General,,DEM,Letitia A. James,59,23,82
+Wyoming,Castile 1 1,Attorney General,,DEM,Letitia A. James,46,28,74
+Wyoming,Castile 2 1,Attorney General,,DEM,Letitia A. James,74,42,116
+Wyoming,Castile 3 1,Attorney General,,DEM,Letitia A. James,34,39,73
+Wyoming,Covington 1 1,Attorney General,,DEM,Letitia A. James,51,14,65
+Wyoming,Eagle 1 1,Attorney General,,DEM,Letitia A. James,50,32,82
+Wyoming,Gainesville 1 1,Attorney General,,DEM,Letitia A. James,27,6,33
+Wyoming,Gainesville 2 1,Attorney General,,DEM,Letitia A. James,42,12,54
+Wyoming,Gainesville 3 1,Attorney General,,DEM,Letitia A. James,15,31,46
+Wyoming,Gainesville 4 1,Attorney General,,DEM,Letitia A. James,14,24,38
+Wyoming,Genesee Falls 1 1,Attorney General,,DEM,Letitia A. James,42,2,44
+Wyoming,Java 1 1,Attorney General,,DEM,Letitia A. James,88,12,100
+Wyoming,Java 2 1,Attorney General,,DEM,Letitia A. James,66,6,72
+Wyoming,Middlebury 1 1,Attorney General,,DEM,Letitia A. James,53,16,69
+Wyoming,Middlebury 2 1,Attorney General,,DEM,Letitia A. James,31,8,39
+Wyoming,Orangeville 1 1,Attorney General,,DEM,Letitia A. James,72,23,95
+Wyoming,Perry 1 1,Attorney General,,DEM,Letitia A. James,79,17,96
+Wyoming,Perry 2 1,Attorney General,,DEM,Letitia A. James,53,11,64
+Wyoming,Perry 3 1,Attorney General,,DEM,Letitia A. James,84,27,111
+Wyoming,Perry 4 1,Attorney General,,DEM,Letitia A. James,102,27,129
+Wyoming,Pike 1 1,Attorney General,,DEM,Letitia A. James,49,4,53
+Wyoming,Sheldon 1 1,Attorney General,,DEM,Letitia A. James,30,20,50
+Wyoming,Sheldon 2 1,Attorney General,,DEM,Letitia A. James,70,11,81
+Wyoming,Sheldon 3 1,Attorney General,,DEM,Letitia A. James,46,16,62
+Wyoming,Warsaw 1 1,Attorney General,,DEM,Letitia A. James,51,57,108
+Wyoming,Warsaw 2 1,Attorney General,,DEM,Letitia A. James,50,26,76
+Wyoming,Warsaw 3 1,Attorney General,,DEM,Letitia A. James,57,32,89
+Wyoming,Warsaw 4 1,Attorney General,,DEM,Letitia A. James,59,34,93
+Wyoming,Warsaw 5 1,Attorney General,,DEM,Letitia A. James,59,65,124
+Wyoming,Wethersfield 1 1,Attorney General,,DEM,Letitia A. James,51,19,70
+Wyoming,Cumulative,Attorney General,,DEM,Letitia A. James,23,0,23
+Wyoming,Arcade 1 1,Attorney General,,REP,Michael Henry,298,16,314
+Wyoming,Arcade 2 1,Attorney General,,REP,Michael Henry,228,5,233
+Wyoming,Arcade 3 1,Attorney General,,REP,Michael Henry,202,9,211
+Wyoming,Arcade 4 1,Attorney General,,REP,Michael Henry,300,21,321
+Wyoming,Attica 1 1,Attorney General,,REP,Michael Henry,213,16,229
+Wyoming,Attica 2 1,Attorney General,,REP,Michael Henry,196,13,209
+Wyoming,Attica 3 1,Attorney General,,REP,Michael Henry,265,22,287
+Wyoming,Attica 4 1,Attorney General,,REP,Michael Henry,318,35,353
+Wyoming,Bennington 1 1,Attorney General,,REP,Michael Henry,317,70,387
+Wyoming,Bennington 2 1,Attorney General,,REP,Michael Henry,255,48,303
+Wyoming,Bennington 3 1,Attorney General,,REP,Michael Henry,242,90,332
+Wyoming,Castile 1 1,Attorney General,,REP,Michael Henry,156,66,222
+Wyoming,Castile 2 1,Attorney General,,REP,Michael Henry,225,43,268
+Wyoming,Castile 3 1,Attorney General,,REP,Michael Henry,120,73,193
+Wyoming,Covington 1 1,Attorney General,,REP,Michael Henry,345,11,356
+Wyoming,Eagle 1 1,Attorney General,,REP,Michael Henry,238,102,340
+Wyoming,Gainesville 1 1,Attorney General,,REP,Michael Henry,136,17,153
+Wyoming,Gainesville 2 1,Attorney General,,REP,Michael Henry,132,15,147
+Wyoming,Gainesville 3 1,Attorney General,,REP,Michael Henry,65,33,98
+Wyoming,Gainesville 4 1,Attorney General,,REP,Michael Henry,68,38,106
+Wyoming,Genesee Falls 1 1,Attorney General,,REP,Michael Henry,109,6,115
+Wyoming,Java 1 1,Attorney General,,REP,Michael Henry,327,12,339
+Wyoming,Java 2 1,Attorney General,,REP,Michael Henry,309,18,327
+Wyoming,Middlebury 1 1,Attorney General,,REP,Michael Henry,271,24,295
+Wyoming,Middlebury 2 1,Attorney General,,REP,Michael Henry,129,13,142
+Wyoming,Orangeville 1 1,Attorney General,,REP,Michael Henry,344,52,396
+Wyoming,Perry 1 1,Attorney General,,REP,Michael Henry,306,33,339
+Wyoming,Perry 2 1,Attorney General,,REP,Michael Henry,117,9,126
+Wyoming,Perry 3 1,Attorney General,,REP,Michael Henry,186,15,201
+Wyoming,Perry 4 1,Attorney General,,REP,Michael Henry,193,12,205
+Wyoming,Pike 1 1,Attorney General,,REP,Michael Henry,274,19,293
+Wyoming,Sheldon 1 1,Attorney General,,REP,Michael Henry,122,28,150
+Wyoming,Sheldon 2 1,Attorney General,,REP,Michael Henry,270,23,293
+Wyoming,Sheldon 3 1,Attorney General,,REP,Michael Henry,224,18,242
+Wyoming,Warsaw 1 1,Attorney General,,REP,Michael Henry,191,66,257
+Wyoming,Warsaw 2 1,Attorney General,,REP,Michael Henry,181,31,212
+Wyoming,Warsaw 3 1,Attorney General,,REP,Michael Henry,170,52,222
+Wyoming,Warsaw 4 1,Attorney General,,REP,Michael Henry,154,39,193
+Wyoming,Warsaw 5 1,Attorney General,,REP,Michael Henry,163,71,234
+Wyoming,Wethersfield 1 1,Attorney General,,REP,Michael Henry,218,20,238
+Wyoming,Cumulative,Attorney General,,REP,Michael Henry,35,0,35
+Wyoming,Arcade 1 1,Attorney General,,CON,Michael Henry,13,4,17
+Wyoming,Arcade 2 1,Attorney General,,CON,Michael Henry,38,0,38
+Wyoming,Arcade 3 1,Attorney General,,CON,Michael Henry,36,0,36
+Wyoming,Arcade 4 1,Attorney General,,CON,Michael Henry,37,1,38
+Wyoming,Attica 1 1,Attorney General,,CON,Michael Henry,34,1,35
+Wyoming,Attica 2 1,Attorney General,,CON,Michael Henry,18,1,19
+Wyoming,Attica 3 1,Attorney General,,CON,Michael Henry,43,4,47
+Wyoming,Attica 4 1,Attorney General,,CON,Michael Henry,48,7,55
+Wyoming,Bennington 1 1,Attorney General,,CON,Michael Henry,69,18,87
+Wyoming,Bennington 2 1,Attorney General,,CON,Michael Henry,61,11,72
+Wyoming,Bennington 3 1,Attorney General,,CON,Michael Henry,61,32,93
+Wyoming,Castile 1 1,Attorney General,,CON,Michael Henry,19,11,30
+Wyoming,Castile 2 1,Attorney General,,CON,Michael Henry,38,5,43
+Wyoming,Castile 3 1,Attorney General,,CON,Michael Henry,11,15,26
+Wyoming,Covington 1 1,Attorney General,,CON,Michael Henry,44,5,49
+Wyoming,Eagle 1 1,Attorney General,,CON,Michael Henry,22,7,29
+Wyoming,Gainesville 1 1,Attorney General,,CON,Michael Henry,23,5,28
+Wyoming,Gainesville 2 1,Attorney General,,CON,Michael Henry,22,1,23
+Wyoming,Gainesville 3 1,Attorney General,,CON,Michael Henry,7,4,11
+Wyoming,Gainesville 4 1,Attorney General,,CON,Michael Henry,10,3,13
+Wyoming,Genesee Falls 1 1,Attorney General,,CON,Michael Henry,12,2,14
+Wyoming,Java 1 1,Attorney General,,CON,Michael Henry,71,1,72
+Wyoming,Java 2 1,Attorney General,,CON,Michael Henry,53,6,59
+Wyoming,Middlebury 1 1,Attorney General,,CON,Michael Henry,49,4,53
+Wyoming,Middlebury 2 1,Attorney General,,CON,Michael Henry,17,1,18
+Wyoming,Orangeville 1 1,Attorney General,,CON,Michael Henry,83,2,85
+Wyoming,Perry 1 1,Attorney General,,CON,Michael Henry,57,13,70
+Wyoming,Perry 2 1,Attorney General,,CON,Michael Henry,11,1,12
+Wyoming,Perry 3 1,Attorney General,,CON,Michael Henry,33,1,34
+Wyoming,Perry 4 1,Attorney General,,CON,Michael Henry,27,1,28
+Wyoming,Pike 1 1,Attorney General,,CON,Michael Henry,37,5,42
+Wyoming,Sheldon 1 1,Attorney General,,CON,Michael Henry,37,3,40
+Wyoming,Sheldon 2 1,Attorney General,,CON,Michael Henry,84,0,84
+Wyoming,Sheldon 3 1,Attorney General,,CON,Michael Henry,50,2,52
+Wyoming,Warsaw 1 1,Attorney General,,CON,Michael Henry,31,6,37
+Wyoming,Warsaw 2 1,Attorney General,,CON,Michael Henry,23,4,27
+Wyoming,Warsaw 3 1,Attorney General,,CON,Michael Henry,36,7,43
+Wyoming,Warsaw 4 1,Attorney General,,CON,Michael Henry,31,3,34
+Wyoming,Warsaw 5 1,Attorney General,,CON,Michael Henry,30,8,38
+Wyoming,Wethersfield 1 1,Attorney General,,CON,Michael Henry,21,5,26
+Wyoming,Cumulative,Attorney General,,CON,Michael Henry,0,0,0
+Wyoming,Arcade 1 1,Attorney General,,WOR,Letitia A. James,12,1,13
+Wyoming,Arcade 2 1,Attorney General,,WOR,Letitia A. James,7,2,9
+Wyoming,Arcade 3 1,Attorney General,,WOR,Letitia A. James,8,0,8
+Wyoming,Arcade 4 1,Attorney General,,WOR,Letitia A. James,10,1,11
+Wyoming,Attica 1 1,Attorney General,,WOR,Letitia A. James,10,0,10
+Wyoming,Attica 2 1,Attorney General,,WOR,Letitia A. James,6,2,8
+Wyoming,Attica 3 1,Attorney General,,WOR,Letitia A. James,12,1,13
+Wyoming,Attica 4 1,Attorney General,,WOR,Letitia A. James,9,3,12
+Wyoming,Bennington 1 1,Attorney General,,WOR,Letitia A. James,10,3,13
+Wyoming,Bennington 2 1,Attorney General,,WOR,Letitia A. James,5,4,9
+Wyoming,Bennington 3 1,Attorney General,,WOR,Letitia A. James,9,2,11
+Wyoming,Castile 1 1,Attorney General,,WOR,Letitia A. James,5,0,5
+Wyoming,Castile 2 1,Attorney General,,WOR,Letitia A. James,8,3,11
+Wyoming,Castile 3 1,Attorney General,,WOR,Letitia A. James,5,4,9
+Wyoming,Covington 1 1,Attorney General,,WOR,Letitia A. James,7,2,9
+Wyoming,Eagle 1 1,Attorney General,,WOR,Letitia A. James,7,3,10
+Wyoming,Gainesville 1 1,Attorney General,,WOR,Letitia A. James,3,0,3
+Wyoming,Gainesville 2 1,Attorney General,,WOR,Letitia A. James,5,1,6
+Wyoming,Gainesville 3 1,Attorney General,,WOR,Letitia A. James,3,1,4
+Wyoming,Gainesville 4 1,Attorney General,,WOR,Letitia A. James,0,2,2
+Wyoming,Genesee Falls 1 1,Attorney General,,WOR,Letitia A. James,3,0,3
+Wyoming,Java 1 1,Attorney General,,WOR,Letitia A. James,5,2,7
+Wyoming,Java 2 1,Attorney General,,WOR,Letitia A. James,8,0,8
+Wyoming,Middlebury 1 1,Attorney General,,WOR,Letitia A. James,6,0,6
+Wyoming,Middlebury 2 1,Attorney General,,WOR,Letitia A. James,1,0,1
+Wyoming,Orangeville 1 1,Attorney General,,WOR,Letitia A. James,14,4,18
+Wyoming,Perry 1 1,Attorney General,,WOR,Letitia A. James,10,2,12
+Wyoming,Perry 2 1,Attorney General,,WOR,Letitia A. James,5,3,8
+Wyoming,Perry 3 1,Attorney General,,WOR,Letitia A. James,7,2,9
+Wyoming,Perry 4 1,Attorney General,,WOR,Letitia A. James,6,0,6
+Wyoming,Pike 1 1,Attorney General,,WOR,Letitia A. James,6,1,7
+Wyoming,Sheldon 1 1,Attorney General,,WOR,Letitia A. James,3,5,8
+Wyoming,Sheldon 2 1,Attorney General,,WOR,Letitia A. James,13,3,16
+Wyoming,Sheldon 3 1,Attorney General,,WOR,Letitia A. James,6,0,6
+Wyoming,Warsaw 1 1,Attorney General,,WOR,Letitia A. James,6,0,6
+Wyoming,Warsaw 2 1,Attorney General,,WOR,Letitia A. James,3,0,3
+Wyoming,Warsaw 3 1,Attorney General,,WOR,Letitia A. James,3,3,6
+Wyoming,Warsaw 4 1,Attorney General,,WOR,Letitia A. James,5,1,6
+Wyoming,Warsaw 5 1,Attorney General,,WOR,Letitia A. James,8,2,10
+Wyoming,Wethersfield 1 1,Attorney General,,WOR,Letitia A. James,3,2,5
+Wyoming,Cumulative,Attorney General,,WOR,Letitia A. James,3,0,3
+Wyoming,Arcade 1 1,Attorney General,,,Undervotes,9,2,11
+Wyoming,Arcade 2 1,Attorney General,,,Undervotes,5,0,5
+Wyoming,Arcade 3 1,Attorney General,,,Undervotes,9,1,10
+Wyoming,Arcade 4 1,Attorney General,,,Undervotes,10,0,10
+Wyoming,Attica 1 1,Attorney General,,,Undervotes,1,0,1
+Wyoming,Attica 2 1,Attorney General,,,Undervotes,9,1,10
+Wyoming,Attica 3 1,Attorney General,,,Undervotes,19,1,20
+Wyoming,Attica 4 1,Attorney General,,,Undervotes,11,0,11
+Wyoming,Bennington 1 1,Attorney General,,,Undervotes,11,4,15
+Wyoming,Bennington 2 1,Attorney General,,,Undervotes,6,1,7
+Wyoming,Bennington 3 1,Attorney General,,,Undervotes,10,4,14
+Wyoming,Castile 1 1,Attorney General,,,Undervotes,7,1,8
+Wyoming,Castile 2 1,Attorney General,,,Undervotes,8,3,11
+Wyoming,Castile 3 1,Attorney General,,,Undervotes,1,2,3
+Wyoming,Covington 1 1,Attorney General,,,Undervotes,12,1,13
+Wyoming,Eagle 1 1,Attorney General,,,Undervotes,5,4,9
+Wyoming,Gainesville 1 1,Attorney General,,,Undervotes,4,1,5
+Wyoming,Gainesville 2 1,Attorney General,,,Undervotes,3,2,5
+Wyoming,Gainesville 3 1,Attorney General,,,Undervotes,2,2,4
+Wyoming,Gainesville 4 1,Attorney General,,,Undervotes,3,1,4
+Wyoming,Genesee Falls 1 1,Attorney General,,,Undervotes,9,0,9
+Wyoming,Java 1 1,Attorney General,,,Undervotes,4,0,4
+Wyoming,Java 2 1,Attorney General,,,Undervotes,12,1,13
+Wyoming,Middlebury 1 1,Attorney General,,,Undervotes,4,0,4
+Wyoming,Middlebury 2 1,Attorney General,,,Undervotes,6,0,6
+Wyoming,Orangeville 1 1,Attorney General,,,Undervotes,13,1,14
+Wyoming,Perry 1 1,Attorney General,,,Undervotes,12,4,16
+Wyoming,Perry 2 1,Attorney General,,,Undervotes,2,2,4
+Wyoming,Perry 3 1,Attorney General,,,Undervotes,4,0,4
+Wyoming,Perry 4 1,Attorney General,,,Undervotes,5,0,5
+Wyoming,Pike 1 1,Attorney General,,,Undervotes,3,0,3
+Wyoming,Sheldon 1 1,Attorney General,,,Undervotes,4,1,5
+Wyoming,Sheldon 2 1,Attorney General,,,Undervotes,15,2,17
+Wyoming,Sheldon 3 1,Attorney General,,,Undervotes,15,0,15
+Wyoming,Warsaw 1 1,Attorney General,,,Undervotes,6,3,9
+Wyoming,Warsaw 2 1,Attorney General,,,Undervotes,4,4,8
+Wyoming,Warsaw 3 1,Attorney General,,,Undervotes,9,0,9
+Wyoming,Warsaw 4 1,Attorney General,,,Undervotes,9,2,11
+Wyoming,Warsaw 5 1,Attorney General,,,Undervotes,6,0,6
+Wyoming,Wethersfield 1 1,Attorney General,,,Undervotes,6,1,7
+Wyoming,Cumulative,Attorney General,,,Undervotes,0,0,0
+Wyoming,Arcade 1 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Arcade 2 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Arcade 3 1,Attorney General,,,Overvotes,1,0,1
+Wyoming,Arcade 4 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Attica 1 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Attica 2 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Attica 3 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Attica 4 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Bennington 1 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Bennington 2 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Bennington 3 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Castile 1 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Castile 2 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Castile 3 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Covington 1 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Eagle 1 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Gainesville 1 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Gainesville 2 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Gainesville 3 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Gainesville 4 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Genesee Falls 1 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Java 1 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Java 2 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Middlebury 1 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Middlebury 2 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Orangeville 1 1,Attorney General,,,Overvotes,2,0,2
+Wyoming,Perry 1 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Perry 2 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Perry 3 1,Attorney General,,,Overvotes,1,0,1
+Wyoming,Perry 4 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Pike 1 1,Attorney General,,,Overvotes,1,0,1
+Wyoming,Sheldon 1 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Sheldon 2 1,Attorney General,,,Overvotes,1,0,1
+Wyoming,Sheldon 3 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Warsaw 1 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Warsaw 2 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Warsaw 3 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Warsaw 4 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Warsaw 5 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Wethersfield 1 1,Attorney General,,,Overvotes,0,0,0
+Wyoming,Cumulative,Attorney General,,,Overvotes,0,0,0
+Wyoming,Arcade 1 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 2 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 3 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 4 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 1 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 2 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 3 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 4 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 1 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 2 1,Attorney General,,,Unqualified Write-Ins,1,0,1
+Wyoming,Bennington 3 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Castile 1 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Castile 2 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Castile 3 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Covington 1 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Eagle 1 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 1 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 2 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 3 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 4 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Genesee Falls 1 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Java 1 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Java 2 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Middlebury 1 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Middlebury 2 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Orangeville 1 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 1 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 2 1,Attorney General,,,Unqualified Write-Ins,2,0,2
+Wyoming,Perry 3 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 4 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Pike 1 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 1 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 2 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 3 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 1 1,Attorney General,,,Unqualified Write-Ins,2,0,2
+Wyoming,Warsaw 2 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 3 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 4 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 5 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Wethersfield 1 1,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Cumulative,Attorney General,,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 1 1,Attorney General,,,Special Votes,9,2,11
+Wyoming,Arcade 2 1,Attorney General,,,Special Votes,5,0,5
+Wyoming,Arcade 3 1,Attorney General,,,Special Votes,10,1,11
+Wyoming,Arcade 4 1,Attorney General,,,Special Votes,10,0,10
+Wyoming,Attica 1 1,Attorney General,,,Special Votes,1,0,1
+Wyoming,Attica 2 1,Attorney General,,,Special Votes,9,1,10
+Wyoming,Attica 3 1,Attorney General,,,Special Votes,19,1,20
+Wyoming,Attica 4 1,Attorney General,,,Special Votes,11,0,11
+Wyoming,Bennington 1 1,Attorney General,,,Special Votes,11,4,15
+Wyoming,Bennington 2 1,Attorney General,,,Special Votes,7,1,8
+Wyoming,Bennington 3 1,Attorney General,,,Special Votes,10,4,14
+Wyoming,Castile 1 1,Attorney General,,,Special Votes,7,1,8
+Wyoming,Castile 2 1,Attorney General,,,Special Votes,8,3,11
+Wyoming,Castile 3 1,Attorney General,,,Special Votes,1,2,3
+Wyoming,Covington 1 1,Attorney General,,,Special Votes,12,1,13
+Wyoming,Eagle 1 1,Attorney General,,,Special Votes,5,4,9
+Wyoming,Gainesville 1 1,Attorney General,,,Special Votes,4,1,5
+Wyoming,Gainesville 2 1,Attorney General,,,Special Votes,3,2,5
+Wyoming,Gainesville 3 1,Attorney General,,,Special Votes,2,2,4
+Wyoming,Gainesville 4 1,Attorney General,,,Special Votes,3,1,4
+Wyoming,Genesee Falls 1 1,Attorney General,,,Special Votes,9,0,9
+Wyoming,Java 1 1,Attorney General,,,Special Votes,4,0,4
+Wyoming,Java 2 1,Attorney General,,,Special Votes,12,1,13
+Wyoming,Middlebury 1 1,Attorney General,,,Special Votes,4,0,4
+Wyoming,Middlebury 2 1,Attorney General,,,Special Votes,6,0,6
+Wyoming,Orangeville 1 1,Attorney General,,,Special Votes,15,1,16
+Wyoming,Perry 1 1,Attorney General,,,Special Votes,12,4,16
+Wyoming,Perry 2 1,Attorney General,,,Special Votes,4,2,6
+Wyoming,Perry 3 1,Attorney General,,,Special Votes,5,0,5
+Wyoming,Perry 4 1,Attorney General,,,Special Votes,5,0,5
+Wyoming,Pike 1 1,Attorney General,,,Special Votes,4,0,4
+Wyoming,Sheldon 1 1,Attorney General,,,Special Votes,4,1,5
+Wyoming,Sheldon 2 1,Attorney General,,,Special Votes,16,2,18
+Wyoming,Sheldon 3 1,Attorney General,,,Special Votes,15,0,15
+Wyoming,Warsaw 1 1,Attorney General,,,Special Votes,8,3,11
+Wyoming,Warsaw 2 1,Attorney General,,,Special Votes,4,4,8
+Wyoming,Warsaw 3 1,Attorney General,,,Special Votes,9,0,9
+Wyoming,Warsaw 4 1,Attorney General,,,Special Votes,9,2,11
+Wyoming,Warsaw 5 1,Attorney General,,,Special Votes,6,0,6
+Wyoming,Wethersfield 1 1,Attorney General,,,Special Votes,6,1,7
+Wyoming,Cumulative,Attorney General,,,Special Votes,0,0,0
+Wyoming,Arcade 1 1,U.S. Senate,,DEM,Charles E. Schumer,113,29,142
+Wyoming,Arcade 2 1,U.S. Senate,,DEM,Charles E. Schumer,49,11,60
+Wyoming,Arcade 3 1,U.S. Senate,,DEM,Charles E. Schumer,79,6,85
+Wyoming,Arcade 4 1,U.S. Senate,,DEM,Charles E. Schumer,110,4,114
+Wyoming,Attica 1 1,U.S. Senate,,DEM,Charles E. Schumer,66,16,82
+Wyoming,Attica 2 1,U.S. Senate,,DEM,Charles E. Schumer,48,6,54
+Wyoming,Attica 3 1,U.S. Senate,,DEM,Charles E. Schumer,74,16,90
+Wyoming,Attica 4 1,U.S. Senate,,DEM,Charles E. Schumer,67,21,88
+Wyoming,Bennington 1 1,U.S. Senate,,DEM,Charles E. Schumer,86,27,113
+Wyoming,Bennington 2 1,U.S. Senate,,DEM,Charles E. Schumer,68,30,98
+Wyoming,Bennington 3 1,U.S. Senate,,DEM,Charles E. Schumer,65,28,93
+Wyoming,Castile 1 1,U.S. Senate,,DEM,Charles E. Schumer,50,27,77
+Wyoming,Castile 2 1,U.S. Senate,,DEM,Charles E. Schumer,82,42,124
+Wyoming,Castile 3 1,U.S. Senate,,DEM,Charles E. Schumer,41,41,82
+Wyoming,Covington 1 1,U.S. Senate,,DEM,Charles E. Schumer,62,15,77
+Wyoming,Eagle 1 1,U.S. Senate,,DEM,Charles E. Schumer,65,39,104
+Wyoming,Gainesville 1 1,U.S. Senate,,DEM,Charles E. Schumer,34,6,40
+Wyoming,Gainesville 2 1,U.S. Senate,,DEM,Charles E. Schumer,43,14,57
+Wyoming,Gainesville 3 1,U.S. Senate,,DEM,Charles E. Schumer,13,32,45
+Wyoming,Gainesville 4 1,U.S. Senate,,DEM,Charles E. Schumer,14,23,37
+Wyoming,Genesee Falls 1 1,U.S. Senate,,DEM,Charles E. Schumer,43,2,45
+Wyoming,Java 1 1,U.S. Senate,,DEM,Charles E. Schumer,90,12,102
+Wyoming,Java 2 1,U.S. Senate,,DEM,Charles E. Schumer,68,7,75
+Wyoming,Middlebury 1 1,U.S. Senate,,DEM,Charles E. Schumer,55,16,71
+Wyoming,Middlebury 2 1,U.S. Senate,,DEM,Charles E. Schumer,36,9,45
+Wyoming,Orangeville 1 1,U.S. Senate,,DEM,Charles E. Schumer,81,26,107
+Wyoming,Perry 1 1,U.S. Senate,,DEM,Charles E. Schumer,92,18,110
+Wyoming,Perry 2 1,U.S. Senate,,DEM,Charles E. Schumer,56,13,69
+Wyoming,Perry 3 1,U.S. Senate,,DEM,Charles E. Schumer,88,28,116
+Wyoming,Perry 4 1,U.S. Senate,,DEM,Charles E. Schumer,107,27,134
+Wyoming,Pike 1 1,U.S. Senate,,DEM,Charles E. Schumer,52,4,56
+Wyoming,Sheldon 1 1,U.S. Senate,,DEM,Charles E. Schumer,28,19,47
+Wyoming,Sheldon 2 1,U.S. Senate,,DEM,Charles E. Schumer,78,13,91
+Wyoming,Sheldon 3 1,U.S. Senate,,DEM,Charles E. Schumer,53,12,65
+Wyoming,Warsaw 1 1,U.S. Senate,,DEM,Charles E. Schumer,51,61,112
+Wyoming,Warsaw 2 1,U.S. Senate,,DEM,Charles E. Schumer,51,28,79
+Wyoming,Warsaw 3 1,U.S. Senate,,DEM,Charles E. Schumer,62,31,93
+Wyoming,Warsaw 4 1,U.S. Senate,,DEM,Charles E. Schumer,68,36,104
+Wyoming,Warsaw 5 1,U.S. Senate,,DEM,Charles E. Schumer,67,70,137
+Wyoming,Wethersfield 1 1,U.S. Senate,,DEM,Charles E. Schumer,59,20,79
+Wyoming,Cumulative,U.S. Senate,,DEM,Charles E. Schumer,24,0,24
+Wyoming,Arcade 1 1,U.S. Senate,,REP,Joe Pinion,294,15,309
+Wyoming,Arcade 2 1,U.S. Senate,,REP,Joe Pinion,214,3,217
+Wyoming,Arcade 3 1,U.S. Senate,,REP,Joe Pinion,196,8,204
+Wyoming,Arcade 4 1,U.S. Senate,,REP,Joe Pinion,288,21,309
+Wyoming,Attica 1 1,U.S. Senate,,REP,Joe Pinion,198,16,214
+Wyoming,Attica 2 1,U.S. Senate,,REP,Joe Pinion,185,14,199
+Wyoming,Attica 3 1,U.S. Senate,,REP,Joe Pinion,257,20,277
+Wyoming,Attica 4 1,U.S. Senate,,REP,Joe Pinion,308,35,343
+Wyoming,Bennington 1 1,U.S. Senate,,REP,Joe Pinion,310,68,378
+Wyoming,Bennington 2 1,U.S. Senate,,REP,Joe Pinion,243,46,289
+Wyoming,Bennington 3 1,U.S. Senate,,REP,Joe Pinion,235,86,321
+Wyoming,Castile 1 1,U.S. Senate,,REP,Joe Pinion,148,66,214
+Wyoming,Castile 2 1,U.S. Senate,,REP,Joe Pinion,218,41,259
+Wyoming,Castile 3 1,U.S. Senate,,REP,Joe Pinion,110,72,182
+Wyoming,Covington 1 1,U.S. Senate,,REP,Joe Pinion,335,10,345
+Wyoming,Eagle 1 1,U.S. Senate,,REP,Joe Pinion,221,96,317
+Wyoming,Gainesville 1 1,U.S. Senate,,REP,Joe Pinion,130,18,148
+Wyoming,Gainesville 2 1,U.S. Senate,,REP,Joe Pinion,128,15,143
+Wyoming,Gainesville 3 1,U.S. Senate,,REP,Joe Pinion,68,31,99
+Wyoming,Gainesville 4 1,U.S. Senate,,REP,Joe Pinion,69,37,106
+Wyoming,Genesee Falls 1 1,U.S. Senate,,REP,Joe Pinion,110,6,116
+Wyoming,Java 1 1,U.S. Senate,,REP,Joe Pinion,322,13,335
+Wyoming,Java 2 1,U.S. Senate,,REP,Joe Pinion,307,20,327
+Wyoming,Middlebury 1 1,U.S. Senate,,REP,Joe Pinion,270,22,292
+Wyoming,Middlebury 2 1,U.S. Senate,,REP,Joe Pinion,128,12,140
+Wyoming,Orangeville 1 1,U.S. Senate,,REP,Joe Pinion,334,49,383
+Wyoming,Perry 1 1,U.S. Senate,,REP,Joe Pinion,298,33,331
+Wyoming,Perry 2 1,U.S. Senate,,REP,Joe Pinion,110,7,117
+Wyoming,Perry 3 1,U.S. Senate,,REP,Joe Pinion,176,14,190
+Wyoming,Perry 4 1,U.S. Senate,,REP,Joe Pinion,186,12,198
+Wyoming,Pike 1 1,U.S. Senate,,REP,Joe Pinion,265,20,285
+Wyoming,Sheldon 1 1,U.S. Senate,,REP,Joe Pinion,122,27,149
+Wyoming,Sheldon 2 1,U.S. Senate,,REP,Joe Pinion,272,23,295
+Wyoming,Sheldon 3 1,U.S. Senate,,REP,Joe Pinion,218,21,239
+Wyoming,Warsaw 1 1,U.S. Senate,,REP,Joe Pinion,188,63,251
+Wyoming,Warsaw 2 1,U.S. Senate,,REP,Joe Pinion,174,30,204
+Wyoming,Warsaw 3 1,U.S. Senate,,REP,Joe Pinion,169,53,222
+Wyoming,Warsaw 4 1,U.S. Senate,,REP,Joe Pinion,144,36,180
+Wyoming,Warsaw 5 1,U.S. Senate,,REP,Joe Pinion,154,65,219
+Wyoming,Wethersfield 1 1,U.S. Senate,,REP,Joe Pinion,208,19,227
+Wyoming,Cumulative,U.S. Senate,,REP,Joe Pinion,34,0,34
+Wyoming,Arcade 1 1,U.S. Senate,,CON,Joe Pinion,12,4,16
+Wyoming,Arcade 2 1,U.S. Senate,,CON,Joe Pinion,34,1,35
+Wyoming,Arcade 3 1,U.S. Senate,,CON,Joe Pinion,28,0,28
+Wyoming,Arcade 4 1,U.S. Senate,,CON,Joe Pinion,37,1,38
+Wyoming,Attica 1 1,U.S. Senate,,CON,Joe Pinion,36,1,37
+Wyoming,Attica 2 1,U.S. Senate,,CON,Joe Pinion,18,1,19
+Wyoming,Attica 3 1,U.S. Senate,,CON,Joe Pinion,44,5,49
+Wyoming,Attica 4 1,U.S. Senate,,CON,Joe Pinion,46,6,52
+Wyoming,Bennington 1 1,U.S. Senate,,CON,Joe Pinion,63,17,80
+Wyoming,Bennington 2 1,U.S. Senate,,CON,Joe Pinion,62,9,71
+Wyoming,Bennington 3 1,U.S. Senate,,CON,Joe Pinion,58,29,87
+Wyoming,Castile 1 1,U.S. Senate,,CON,Joe Pinion,21,11,32
+Wyoming,Castile 2 1,U.S. Senate,,CON,Joe Pinion,35,5,40
+Wyoming,Castile 3 1,U.S. Senate,,CON,Joe Pinion,11,14,25
+Wyoming,Covington 1 1,U.S. Senate,,CON,Joe Pinion,45,5,50
+Wyoming,Eagle 1 1,U.S. Senate,,CON,Joe Pinion,21,8,29
+Wyoming,Gainesville 1 1,U.S. Senate,,CON,Joe Pinion,21,5,26
+Wyoming,Gainesville 2 1,U.S. Senate,,CON,Joe Pinion,24,2,26
+Wyoming,Gainesville 3 1,U.S. Senate,,CON,Joe Pinion,7,5,12
+Wyoming,Gainesville 4 1,U.S. Senate,,CON,Joe Pinion,8,2,10
+Wyoming,Genesee Falls 1 1,U.S. Senate,,CON,Joe Pinion,11,2,13
+Wyoming,Java 1 1,U.S. Senate,,CON,Joe Pinion,65,1,66
+Wyoming,Java 2 1,U.S. Senate,,CON,Joe Pinion,49,4,53
+Wyoming,Middlebury 1 1,U.S. Senate,,CON,Joe Pinion,47,5,52
+Wyoming,Middlebury 2 1,U.S. Senate,,CON,Joe Pinion,15,1,16
+Wyoming,Orangeville 1 1,U.S. Senate,,CON,Joe Pinion,78,2,80
+Wyoming,Perry 1 1,U.S. Senate,,CON,Joe Pinion,52,13,65
+Wyoming,Perry 2 1,U.S. Senate,,CON,Joe Pinion,11,1,12
+Wyoming,Perry 3 1,U.S. Senate,,CON,Joe Pinion,32,1,33
+Wyoming,Perry 4 1,U.S. Senate,,CON,Joe Pinion,23,1,24
+Wyoming,Pike 1 1,U.S. Senate,,CON,Joe Pinion,36,5,41
+Wyoming,Sheldon 1 1,U.S. Senate,,CON,Joe Pinion,34,4,38
+Wyoming,Sheldon 2 1,U.S. Senate,,CON,Joe Pinion,74,2,76
+Wyoming,Sheldon 3 1,U.S. Senate,,CON,Joe Pinion,52,2,54
+Wyoming,Warsaw 1 1,U.S. Senate,,CON,Joe Pinion,32,6,38
+Wyoming,Warsaw 2 1,U.S. Senate,,CON,Joe Pinion,24,5,29
+Wyoming,Warsaw 3 1,U.S. Senate,,CON,Joe Pinion,36,5,41
+Wyoming,Warsaw 4 1,U.S. Senate,,CON,Joe Pinion,29,3,32
+Wyoming,Warsaw 5 1,U.S. Senate,,CON,Joe Pinion,30,6,36
+Wyoming,Wethersfield 1 1,U.S. Senate,,CON,Joe Pinion,18,5,23
+Wyoming,Cumulative,U.S. Senate,,CON,Joe Pinion,0,0,0
+Wyoming,Arcade 1 1,U.S. Senate,,WOR,Charles E. Schumer,10,1,11
+Wyoming,Arcade 2 1,U.S. Senate,,WOR,Charles E. Schumer,14,1,15
+Wyoming,Arcade 3 1,U.S. Senate,,WOR,Charles E. Schumer,13,0,13
+Wyoming,Arcade 4 1,U.S. Senate,,WOR,Charles E. Schumer,10,1,11
+Wyoming,Attica 1 1,U.S. Senate,,WOR,Charles E. Schumer,12,0,12
+Wyoming,Attica 2 1,U.S. Senate,,WOR,Charles E. Schumer,5,3,8
+Wyoming,Attica 3 1,U.S. Senate,,WOR,Charles E. Schumer,11,3,14
+Wyoming,Attica 4 1,U.S. Senate,,WOR,Charles E. Schumer,9,3,12
+Wyoming,Bennington 1 1,U.S. Senate,,WOR,Charles E. Schumer,12,6,18
+Wyoming,Bennington 2 1,U.S. Senate,,WOR,Charles E. Schumer,7,3,10
+Wyoming,Bennington 3 1,U.S. Senate,,WOR,Charles E. Schumer,11,5,16
+Wyoming,Castile 1 1,U.S. Senate,,WOR,Charles E. Schumer,7,1,8
+Wyoming,Castile 2 1,U.S. Senate,,WOR,Charles E. Schumer,12,4,16
+Wyoming,Castile 3 1,U.S. Senate,,WOR,Charles E. Schumer,5,5,10
+Wyoming,Covington 1 1,U.S. Senate,,WOR,Charles E. Schumer,8,1,9
+Wyoming,Eagle 1 1,U.S. Senate,,WOR,Charles E. Schumer,9,2,11
+Wyoming,Gainesville 1 1,U.S. Senate,,WOR,Charles E. Schumer,3,0,3
+Wyoming,Gainesville 2 1,U.S. Senate,,WOR,Charles E. Schumer,7,0,7
+Wyoming,Gainesville 3 1,U.S. Senate,,WOR,Charles E. Schumer,2,1,3
+Wyoming,Gainesville 4 1,U.S. Senate,,WOR,Charles E. Schumer,2,3,5
+Wyoming,Genesee Falls 1 1,U.S. Senate,,WOR,Charles E. Schumer,3,0,3
+Wyoming,Java 1 1,U.S. Senate,,WOR,Charles E. Schumer,7,1,8
+Wyoming,Java 2 1,U.S. Senate,,WOR,Charles E. Schumer,12,0,12
+Wyoming,Middlebury 1 1,U.S. Senate,,WOR,Charles E. Schumer,7,1,8
+Wyoming,Middlebury 2 1,U.S. Senate,,WOR,Charles E. Schumer,2,0,2
+Wyoming,Orangeville 1 1,U.S. Senate,,WOR,Charles E. Schumer,16,4,20
+Wyoming,Perry 1 1,U.S. Senate,,WOR,Charles E. Schumer,11,2,13
+Wyoming,Perry 2 1,U.S. Senate,,WOR,Charles E. Schumer,7,3,10
+Wyoming,Perry 3 1,U.S. Senate,,WOR,Charles E. Schumer,12,1,13
+Wyoming,Perry 4 1,U.S. Senate,,WOR,Charles E. Schumer,11,0,11
+Wyoming,Pike 1 1,U.S. Senate,,WOR,Charles E. Schumer,8,0,8
+Wyoming,Sheldon 1 1,U.S. Senate,,WOR,Charles E. Schumer,5,5,10
+Wyoming,Sheldon 2 1,U.S. Senate,,WOR,Charles E. Schumer,16,1,17
+Wyoming,Sheldon 3 1,U.S. Senate,,WOR,Charles E. Schumer,7,1,8
+Wyoming,Warsaw 1 1,U.S. Senate,,WOR,Charles E. Schumer,8,1,9
+Wyoming,Warsaw 2 1,U.S. Senate,,WOR,Charles E. Schumer,8,0,8
+Wyoming,Warsaw 3 1,U.S. Senate,,WOR,Charles E. Schumer,4,4,8
+Wyoming,Warsaw 4 1,U.S. Senate,,WOR,Charles E. Schumer,8,2,10
+Wyoming,Warsaw 5 1,U.S. Senate,,WOR,Charles E. Schumer,11,3,14
+Wyoming,Wethersfield 1 1,U.S. Senate,,WOR,Charles E. Schumer,7,1,8
+Wyoming,Cumulative,U.S. Senate,,WOR,Charles E. Schumer,3,0,3
+Wyoming,Arcade 1 1,U.S. Senate,,LAR,Diane Sare,0,0,0
+Wyoming,Arcade 2 1,U.S. Senate,,LAR,Diane Sare,0,0,0
+Wyoming,Arcade 3 1,U.S. Senate,,LAR,Diane Sare,0,0,0
+Wyoming,Arcade 4 1,U.S. Senate,,LAR,Diane Sare,3,0,3
+Wyoming,Attica 1 1,U.S. Senate,,LAR,Diane Sare,0,0,0
+Wyoming,Attica 2 1,U.S. Senate,,LAR,Diane Sare,1,0,1
+Wyoming,Attica 3 1,U.S. Senate,,LAR,Diane Sare,4,0,4
+Wyoming,Attica 4 1,U.S. Senate,,LAR,Diane Sare,1,0,1
+Wyoming,Bennington 1 1,U.S. Senate,,LAR,Diane Sare,9,0,9
+Wyoming,Bennington 2 1,U.S. Senate,,LAR,Diane Sare,3,1,4
+Wyoming,Bennington 3 1,U.S. Senate,,LAR,Diane Sare,0,1,1
+Wyoming,Castile 1 1,U.S. Senate,,LAR,Diane Sare,2,0,2
+Wyoming,Castile 2 1,U.S. Senate,,LAR,Diane Sare,2,3,5
+Wyoming,Castile 3 1,U.S. Senate,,LAR,Diane Sare,3,0,3
+Wyoming,Covington 1 1,U.S. Senate,,LAR,Diane Sare,1,0,1
+Wyoming,Eagle 1 1,U.S. Senate,,LAR,Diane Sare,1,1,2
+Wyoming,Gainesville 1 1,U.S. Senate,,LAR,Diane Sare,0,0,0
+Wyoming,Gainesville 2 1,U.S. Senate,,LAR,Diane Sare,0,0,0
+Wyoming,Gainesville 3 1,U.S. Senate,,LAR,Diane Sare,0,0,0
+Wyoming,Gainesville 4 1,U.S. Senate,,LAR,Diane Sare,1,3,4
+Wyoming,Genesee Falls 1 1,U.S. Senate,,LAR,Diane Sare,1,0,1
+Wyoming,Java 1 1,U.S. Senate,,LAR,Diane Sare,1,0,1
+Wyoming,Java 2 1,U.S. Senate,,LAR,Diane Sare,3,0,3
+Wyoming,Middlebury 1 1,U.S. Senate,,LAR,Diane Sare,3,0,3
+Wyoming,Middlebury 2 1,U.S. Senate,,LAR,Diane Sare,0,0,0
+Wyoming,Orangeville 1 1,U.S. Senate,,LAR,Diane Sare,3,0,3
+Wyoming,Perry 1 1,U.S. Senate,,LAR,Diane Sare,3,0,3
+Wyoming,Perry 2 1,U.S. Senate,,LAR,Diane Sare,2,0,2
+Wyoming,Perry 3 1,U.S. Senate,,LAR,Diane Sare,3,0,3
+Wyoming,Perry 4 1,U.S. Senate,,LAR,Diane Sare,3,0,3
+Wyoming,Pike 1 1,U.S. Senate,,LAR,Diane Sare,3,0,3
+Wyoming,Sheldon 1 1,U.S. Senate,,LAR,Diane Sare,2,1,3
+Wyoming,Sheldon 2 1,U.S. Senate,,LAR,Diane Sare,1,0,1
+Wyoming,Sheldon 3 1,U.S. Senate,,LAR,Diane Sare,3,0,3
+Wyoming,Warsaw 1 1,U.S. Senate,,LAR,Diane Sare,0,0,0
+Wyoming,Warsaw 2 1,U.S. Senate,,LAR,Diane Sare,0,0,0
+Wyoming,Warsaw 3 1,U.S. Senate,,LAR,Diane Sare,1,0,1
+Wyoming,Warsaw 4 1,U.S. Senate,,LAR,Diane Sare,2,0,2
+Wyoming,Warsaw 5 1,U.S. Senate,,LAR,Diane Sare,1,0,1
+Wyoming,Wethersfield 1 1,U.S. Senate,,LAR,Diane Sare,2,1,3
+Wyoming,Cumulative,U.S. Senate,,LAR,Diane Sare,0,0,0
+Wyoming,Arcade 1 1,U.S. Senate,,,Undervotes,6,2,8
+Wyoming,Arcade 2 1,U.S. Senate,,,Undervotes,3,0,3
+Wyoming,Arcade 3 1,U.S. Senate,,,Undervotes,6,0,6
+Wyoming,Arcade 4 1,U.S. Senate,,,Undervotes,8,0,8
+Wyoming,Attica 1 1,U.S. Senate,,,Undervotes,2,0,2
+Wyoming,Attica 2 1,U.S. Senate,,,Undervotes,9,0,9
+Wyoming,Attica 3 1,U.S. Senate,,,Undervotes,13,1,14
+Wyoming,Attica 4 1,U.S. Senate,,,Undervotes,11,0,11
+Wyoming,Bennington 1 1,U.S. Senate,,,Undervotes,10,3,13
+Wyoming,Bennington 2 1,U.S. Senate,,,Undervotes,4,2,6
+Wyoming,Bennington 3 1,U.S. Senate,,,Undervotes,11,2,13
+Wyoming,Castile 1 1,U.S. Senate,,,Undervotes,5,1,6
+Wyoming,Castile 2 1,U.S. Senate,,,Undervotes,3,1,4
+Wyoming,Castile 3 1,U.S. Senate,,,Undervotes,1,1,2
+Wyoming,Covington 1 1,U.S. Senate,,,Undervotes,8,1,9
+Wyoming,Eagle 1 1,U.S. Senate,,,Undervotes,4,2,6
+Wyoming,Gainesville 1 1,U.S. Senate,,,Undervotes,5,0,5
+Wyoming,Gainesville 2 1,U.S. Senate,,,Undervotes,2,0,2
+Wyoming,Gainesville 3 1,U.S. Senate,,,Undervotes,2,2,4
+Wyoming,Gainesville 4 1,U.S. Senate,,,Undervotes,1,0,1
+Wyoming,Genesee Falls 1 1,U.S. Senate,,,Undervotes,7,0,7
+Wyoming,Java 1 1,U.S. Senate,,,Undervotes,10,0,10
+Wyoming,Java 2 1,U.S. Senate,,,Undervotes,9,0,9
+Wyoming,Middlebury 1 1,U.S. Senate,,,Undervotes,1,0,1
+Wyoming,Middlebury 2 1,U.S. Senate,,,Undervotes,3,0,3
+Wyoming,Orangeville 1 1,U.S. Senate,,,Undervotes,14,1,15
+Wyoming,Perry 1 1,U.S. Senate,,,Undervotes,8,3,11
+Wyoming,Perry 2 1,U.S. Senate,,,Undervotes,1,2,3
+Wyoming,Perry 3 1,U.S. Senate,,,Undervotes,3,1,4
+Wyoming,Perry 4 1,U.S. Senate,,,Undervotes,3,0,3
+Wyoming,Pike 1 1,U.S. Senate,,,Undervotes,3,0,3
+Wyoming,Sheldon 1 1,U.S. Senate,,,Undervotes,5,1,6
+Wyoming,Sheldon 2 1,U.S. Senate,,,Undervotes,12,0,12
+Wyoming,Sheldon 3 1,U.S. Senate,,,Undervotes,8,0,8
+Wyoming,Warsaw 1 1,U.S. Senate,,,Undervotes,6,1,7
+Wyoming,Warsaw 2 1,U.S. Senate,,,Undervotes,2,2,4
+Wyoming,Warsaw 3 1,U.S. Senate,,,Undervotes,3,0,3
+Wyoming,Warsaw 4 1,U.S. Senate,,,Undervotes,7,2,9
+Wyoming,Warsaw 5 1,U.S. Senate,,,Undervotes,3,2,5
+Wyoming,Wethersfield 1 1,U.S. Senate,,,Undervotes,6,1,7
+Wyoming,Cumulative,U.S. Senate,,,Undervotes,0,0,0
+Wyoming,Arcade 1 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Arcade 2 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Arcade 3 1,U.S. Senate,,,Overvotes,1,0,1
+Wyoming,Arcade 4 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Attica 1 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Attica 2 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Attica 3 1,U.S. Senate,,,Overvotes,1,0,1
+Wyoming,Attica 4 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Bennington 1 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Bennington 2 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Bennington 3 1,U.S. Senate,,,Overvotes,1,0,1
+Wyoming,Castile 1 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Castile 2 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Castile 3 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Covington 1 1,U.S. Senate,,,Overvotes,0,1,1
+Wyoming,Eagle 1 1,U.S. Senate,,,Overvotes,1,0,1
+Wyoming,Gainesville 1 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Gainesville 2 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Gainesville 3 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Gainesville 4 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Genesee Falls 1 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Java 1 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Java 2 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Middlebury 1 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Middlebury 2 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Orangeville 1 1,U.S. Senate,,,Overvotes,2,0,2
+Wyoming,Perry 1 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Perry 2 1,U.S. Senate,,,Overvotes,1,0,1
+Wyoming,Perry 3 1,U.S. Senate,,,Overvotes,1,0,1
+Wyoming,Perry 4 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Pike 1 1,U.S. Senate,,,Overvotes,3,0,3
+Wyoming,Sheldon 1 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Sheldon 2 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Sheldon 3 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Warsaw 1 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Warsaw 2 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Warsaw 3 1,U.S. Senate,,,Overvotes,0,1,1
+Wyoming,Warsaw 4 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Warsaw 5 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Wethersfield 1 1,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Cumulative,U.S. Senate,,,Overvotes,0,0,0
+Wyoming,Arcade 1 1,U.S. Senate,,,Unqualified Write-Ins,1,0,1
+Wyoming,Arcade 2 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 3 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 4 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 1 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 2 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 3 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 4 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 1 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 2 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 3 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Castile 1 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Castile 2 1,U.S. Senate,,,Unqualified Write-Ins,1,0,1
+Wyoming,Castile 3 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Covington 1 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Eagle 1 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 1 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 2 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 3 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 4 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Genesee Falls 1 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Java 1 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Java 2 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Middlebury 1 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Middlebury 2 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Orangeville 1 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 1 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 2 1,U.S. Senate,,,Unqualified Write-Ins,2,0,2
+Wyoming,Perry 3 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 4 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Pike 1 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 1 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 2 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 3 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 1 1,U.S. Senate,,,Unqualified Write-Ins,2,0,2
+Wyoming,Warsaw 2 1,U.S. Senate,,,Unqualified Write-Ins,2,0,2
+Wyoming,Warsaw 3 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 4 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 5 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Wethersfield 1 1,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Cumulative,U.S. Senate,,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 1 1,U.S. Senate,,,Special Votes,7,2,9
+Wyoming,Arcade 2 1,U.S. Senate,,,Special Votes,3,0,3
+Wyoming,Arcade 3 1,U.S. Senate,,,Special Votes,7,0,7
+Wyoming,Arcade 4 1,U.S. Senate,,,Special Votes,8,0,8
+Wyoming,Attica 1 1,U.S. Senate,,,Special Votes,2,0,2
+Wyoming,Attica 2 1,U.S. Senate,,,Special Votes,9,0,9
+Wyoming,Attica 3 1,U.S. Senate,,,Special Votes,14,1,15
+Wyoming,Attica 4 1,U.S. Senate,,,Special Votes,11,0,11
+Wyoming,Bennington 1 1,U.S. Senate,,,Special Votes,10,3,13
+Wyoming,Bennington 2 1,U.S. Senate,,,Special Votes,4,2,6
+Wyoming,Bennington 3 1,U.S. Senate,,,Special Votes,12,2,14
+Wyoming,Castile 1 1,U.S. Senate,,,Special Votes,5,1,6
+Wyoming,Castile 2 1,U.S. Senate,,,Special Votes,4,1,5
+Wyoming,Castile 3 1,U.S. Senate,,,Special Votes,1,1,2
+Wyoming,Covington 1 1,U.S. Senate,,,Special Votes,8,2,10
+Wyoming,Eagle 1 1,U.S. Senate,,,Special Votes,5,2,7
+Wyoming,Gainesville 1 1,U.S. Senate,,,Special Votes,5,0,5
+Wyoming,Gainesville 2 1,U.S. Senate,,,Special Votes,2,0,2
+Wyoming,Gainesville 3 1,U.S. Senate,,,Special Votes,2,2,4
+Wyoming,Gainesville 4 1,U.S. Senate,,,Special Votes,1,0,1
+Wyoming,Genesee Falls 1 1,U.S. Senate,,,Special Votes,7,0,7
+Wyoming,Java 1 1,U.S. Senate,,,Special Votes,10,0,10
+Wyoming,Java 2 1,U.S. Senate,,,Special Votes,9,0,9
+Wyoming,Middlebury 1 1,U.S. Senate,,,Special Votes,1,0,1
+Wyoming,Middlebury 2 1,U.S. Senate,,,Special Votes,3,0,3
+Wyoming,Orangeville 1 1,U.S. Senate,,,Special Votes,16,1,17
+Wyoming,Perry 1 1,U.S. Senate,,,Special Votes,8,3,11
+Wyoming,Perry 2 1,U.S. Senate,,,Special Votes,4,2,6
+Wyoming,Perry 3 1,U.S. Senate,,,Special Votes,4,1,5
+Wyoming,Perry 4 1,U.S. Senate,,,Special Votes,3,0,3
+Wyoming,Pike 1 1,U.S. Senate,,,Special Votes,6,0,6
+Wyoming,Sheldon 1 1,U.S. Senate,,,Special Votes,5,1,6
+Wyoming,Sheldon 2 1,U.S. Senate,,,Special Votes,12,0,12
+Wyoming,Sheldon 3 1,U.S. Senate,,,Special Votes,8,0,8
+Wyoming,Warsaw 1 1,U.S. Senate,,,Special Votes,8,1,9
+Wyoming,Warsaw 2 1,U.S. Senate,,,Special Votes,4,2,6
+Wyoming,Warsaw 3 1,U.S. Senate,,,Special Votes,3,1,4
+Wyoming,Warsaw 4 1,U.S. Senate,,,Special Votes,7,2,9
+Wyoming,Warsaw 5 1,U.S. Senate,,,Special Votes,3,2,5
+Wyoming,Wethersfield 1 1,U.S. Senate,,,Special Votes,6,1,7
+Wyoming,Cumulative,U.S. Senate,,,Special Votes,0,0,0
+Wyoming,Arcade 1 1,U.S. House,24,DEM,Steven Holden,109,27,136
+Wyoming,Arcade 2 1,U.S. House,24,DEM,Steven Holden,40,9,49
+Wyoming,Arcade 3 1,U.S. House,24,DEM,Steven Holden,72,4,76
+Wyoming,Arcade 4 1,U.S. House,24,DEM,Steven Holden,98,4,102
+Wyoming,Attica 1 1,U.S. House,24,DEM,Steven Holden,61,16,77
+Wyoming,Attica 2 1,U.S. House,24,DEM,Steven Holden,49,8,57
+Wyoming,Attica 3 1,U.S. House,24,DEM,Steven Holden,67,17,84
+Wyoming,Attica 4 1,U.S. House,24,DEM,Steven Holden,63,23,86
+Wyoming,Bennington 1 1,U.S. House,24,DEM,Steven Holden,87,28,115
+Wyoming,Bennington 2 1,U.S. House,24,DEM,Steven Holden,61,30,91
+Wyoming,Bennington 3 1,U.S. House,24,DEM,Steven Holden,60,25,85
+Wyoming,Castile 1 1,U.S. House,24,DEM,Steven Holden,44,27,71
+Wyoming,Castile 2 1,U.S. House,24,DEM,Steven Holden,83,42,125
+Wyoming,Castile 3 1,U.S. House,24,DEM,Steven Holden,37,36,73
+Wyoming,Covington 1 1,U.S. House,24,DEM,Steven Holden,54,14,68
+Wyoming,Eagle 1 1,U.S. House,24,DEM,Steven Holden,55,29,84
+Wyoming,Gainesville 1 1,U.S. House,24,DEM,Steven Holden,26,6,32
+Wyoming,Gainesville 2 1,U.S. House,24,DEM,Steven Holden,41,11,52
+Wyoming,Gainesville 3 1,U.S. House,24,DEM,Steven Holden,10,31,41
+Wyoming,Gainesville 4 1,U.S. House,24,DEM,Steven Holden,13,23,36
+Wyoming,Genesee Falls 1 1,U.S. House,24,DEM,Steven Holden,35,2,37
+Wyoming,Java 1 1,U.S. House,24,DEM,Steven Holden,79,12,91
+Wyoming,Java 2 1,U.S. House,24,DEM,Steven Holden,65,5,70
+Wyoming,Middlebury 1 1,U.S. House,24,DEM,Steven Holden,56,17,73
+Wyoming,Middlebury 2 1,U.S. House,24,DEM,Steven Holden,28,7,35
+Wyoming,Orangeville 1 1,U.S. House,24,DEM,Steven Holden,78,29,107
+Wyoming,Perry 1 1,U.S. House,24,DEM,Steven Holden,78,17,95
+Wyoming,Perry 2 1,U.S. House,24,DEM,Steven Holden,50,15,65
+Wyoming,Perry 3 1,U.S. House,24,DEM,Steven Holden,82,27,109
+Wyoming,Perry 4 1,U.S. House,24,DEM,Steven Holden,94,27,121
+Wyoming,Pike 1 1,U.S. House,24,DEM,Steven Holden,52,4,56
+Wyoming,Sheldon 1 1,U.S. House,24,DEM,Steven Holden,26,23,49
+Wyoming,Sheldon 2 1,U.S. House,24,DEM,Steven Holden,73,12,85
+Wyoming,Sheldon 3 1,U.S. House,24,DEM,Steven Holden,46,12,58
+Wyoming,Warsaw 1 1,U.S. House,24,DEM,Steven Holden,51,56,107
+Wyoming,Warsaw 2 1,U.S. House,24,DEM,Steven Holden,46,20,66
+Wyoming,Warsaw 3 1,U.S. House,24,DEM,Steven Holden,53,34,87
+Wyoming,Warsaw 4 1,U.S. House,24,DEM,Steven Holden,60,31,91
+Wyoming,Warsaw 5 1,U.S. House,24,DEM,Steven Holden,64,66,130
+Wyoming,Wethersfield 1 1,U.S. House,24,DEM,Steven Holden,52,20,72
+Wyoming,Cumulative,U.S. House,24,DEM,Steven Holden,24,0,24
+Wyoming,Arcade 1 1,U.S. House,24,REP,Claudia Tenney,291,16,307
+Wyoming,Arcade 2 1,U.S. House,24,REP,Claudia Tenney,229,5,234
+Wyoming,Arcade 3 1,U.S. House,24,REP,Claudia Tenney,203,8,211
+Wyoming,Arcade 4 1,U.S. House,24,REP,Claudia Tenney,298,22,320
+Wyoming,Attica 1 1,U.S. House,24,REP,Claudia Tenney,206,16,222
+Wyoming,Attica 2 1,U.S. House,24,REP,Claudia Tenney,189,16,205
+Wyoming,Attica 3 1,U.S. House,24,REP,Claudia Tenney,276,23,299
+Wyoming,Attica 4 1,U.S. House,24,REP,Claudia Tenney,316,35,351
+Wyoming,Bennington 1 1,U.S. House,24,REP,Claudia Tenney,314,72,386
+Wyoming,Bennington 2 1,U.S. House,24,REP,Claudia Tenney,257,49,306
+Wyoming,Bennington 3 1,U.S. House,24,REP,Claudia Tenney,241,85,326
+Wyoming,Castile 1 1,U.S. House,24,REP,Claudia Tenney,165,68,233
+Wyoming,Castile 2 1,U.S. House,24,REP,Claudia Tenney,227,45,272
+Wyoming,Castile 3 1,U.S. House,24,REP,Claudia Tenney,113,80,193
+Wyoming,Covington 1 1,U.S. House,24,REP,Claudia Tenney,346,13,359
+Wyoming,Eagle 1 1,U.S. House,24,REP,Claudia Tenney,234,101,335
+Wyoming,Gainesville 1 1,U.S. House,24,REP,Claudia Tenney,141,15,156
+Wyoming,Gainesville 2 1,U.S. House,24,REP,Claudia Tenney,138,14,152
+Wyoming,Gainesville 3 1,U.S. House,24,REP,Claudia Tenney,68,34,102
+Wyoming,Gainesville 4 1,U.S. House,24,REP,Claudia Tenney,72,36,108
+Wyoming,Genesee Falls 1 1,U.S. House,24,REP,Claudia Tenney,118,7,125
+Wyoming,Java 1 1,U.S. House,24,REP,Claudia Tenney,331,13,344
+Wyoming,Java 2 1,U.S. House,24,REP,Claudia Tenney,309,20,329
+Wyoming,Middlebury 1 1,U.S. House,24,REP,Claudia Tenney,276,22,298
+Wyoming,Middlebury 2 1,U.S. House,24,REP,Claudia Tenney,131,14,145
+Wyoming,Orangeville 1 1,U.S. House,24,REP,Claudia Tenney,345,48,393
+Wyoming,Perry 1 1,U.S. House,24,REP,Claudia Tenney,311,34,345
+Wyoming,Perry 2 1,U.S. House,24,REP,Claudia Tenney,123,9,132
+Wyoming,Perry 3 1,U.S. House,24,REP,Claudia Tenney,192,16,208
+Wyoming,Perry 4 1,U.S. House,24,REP,Claudia Tenney,198,12,210
+Wyoming,Pike 1 1,U.S. House,24,REP,Claudia Tenney,273,20,293
+Wyoming,Sheldon 1 1,U.S. House,24,REP,Claudia Tenney,128,28,156
+Wyoming,Sheldon 2 1,U.S. House,24,REP,Claudia Tenney,274,24,298
+Wyoming,Sheldon 3 1,U.S. House,24,REP,Claudia Tenney,224,21,245
+Wyoming,Warsaw 1 1,U.S. House,24,REP,Claudia Tenney,194,65,259
+Wyoming,Warsaw 2 1,U.S. House,24,REP,Claudia Tenney,185,33,218
+Wyoming,Warsaw 3 1,U.S. House,24,REP,Claudia Tenney,185,52,237
+Wyoming,Warsaw 4 1,U.S. House,24,REP,Claudia Tenney,155,43,198
+Wyoming,Warsaw 5 1,U.S. House,24,REP,Claudia Tenney,164,71,235
+Wyoming,Wethersfield 1 1,U.S. House,24,REP,Claudia Tenney,216,20,236
+Wyoming,Cumulative,U.S. House,24,REP,Claudia Tenney,37,0,37
+Wyoming,Arcade 1 1,U.S. House,24,CON,Claudia Tenney,18,6,24
+Wyoming,Arcade 2 1,U.S. House,24,CON,Claudia Tenney,34,2,36
+Wyoming,Arcade 3 1,U.S. House,24,CON,Claudia Tenney,31,1,32
+Wyoming,Arcade 4 1,U.S. House,24,CON,Claudia Tenney,40,1,41
+Wyoming,Attica 1 1,U.S. House,24,CON,Claudia Tenney,37,1,38
+Wyoming,Attica 2 1,U.S. House,24,CON,Claudia Tenney,16,0,16
+Wyoming,Attica 3 1,U.S. House,24,CON,Claudia Tenney,47,3,50
+Wyoming,Attica 4 1,U.S. House,24,CON,Claudia Tenney,49,7,56
+Wyoming,Bennington 1 1,U.S. House,24,CON,Claudia Tenney,67,18,85
+Wyoming,Bennington 2 1,U.S. House,24,CON,Claudia Tenney,61,10,71
+Wyoming,Bennington 3 1,U.S. House,24,CON,Claudia Tenney,59,31,90
+Wyoming,Castile 1 1,U.S. House,24,CON,Claudia Tenney,17,10,27
+Wyoming,Castile 2 1,U.S. House,24,CON,Claudia Tenney,37,7,44
+Wyoming,Castile 3 1,U.S. House,24,CON,Claudia Tenney,13,15,28
+Wyoming,Covington 1 1,U.S. House,24,CON,Claudia Tenney,42,4,46
+Wyoming,Eagle 1 1,U.S. House,24,CON,Claudia Tenney,23,7,30
+Wyoming,Gainesville 1 1,U.S. House,24,CON,Claudia Tenney,24,5,29
+Wyoming,Gainesville 2 1,U.S. House,24,CON,Claudia Tenney,21,2,23
+Wyoming,Gainesville 3 1,U.S. House,24,CON,Claudia Tenney,9,4,13
+Wyoming,Gainesville 4 1,U.S. House,24,CON,Claudia Tenney,8,4,12
+Wyoming,Genesee Falls 1 1,U.S. House,24,CON,Claudia Tenney,12,1,13
+Wyoming,Java 1 1,U.S. House,24,CON,Claudia Tenney,66,1,67
+Wyoming,Java 2 1,U.S. House,24,CON,Claudia Tenney,48,5,53
+Wyoming,Middlebury 1 1,U.S. House,24,CON,Claudia Tenney,43,4,47
+Wyoming,Middlebury 2 1,U.S. House,24,CON,Claudia Tenney,19,1,20
+Wyoming,Orangeville 1 1,U.S. House,24,CON,Claudia Tenney,78,4,82
+Wyoming,Perry 1 1,U.S. House,24,CON,Claudia Tenney,56,16,72
+Wyoming,Perry 2 1,U.S. House,24,CON,Claudia Tenney,15,2,17
+Wyoming,Perry 3 1,U.S. House,24,CON,Claudia Tenney,31,1,32
+Wyoming,Perry 4 1,U.S. House,24,CON,Claudia Tenney,22,1,23
+Wyoming,Pike 1 1,U.S. House,24,CON,Claudia Tenney,35,5,40
+Wyoming,Sheldon 1 1,U.S. House,24,CON,Claudia Tenney,35,4,39
+Wyoming,Sheldon 2 1,U.S. House,24,CON,Claudia Tenney,76,2,78
+Wyoming,Sheldon 3 1,U.S. House,24,CON,Claudia Tenney,49,3,52
+Wyoming,Warsaw 1 1,U.S. House,24,CON,Claudia Tenney,32,6,38
+Wyoming,Warsaw 2 1,U.S. House,24,CON,Claudia Tenney,24,5,29
+Wyoming,Warsaw 3 1,U.S. House,24,CON,Claudia Tenney,30,7,37
+Wyoming,Warsaw 4 1,U.S. House,24,CON,Claudia Tenney,34,4,38
+Wyoming,Warsaw 5 1,U.S. House,24,CON,Claudia Tenney,30,6,36
+Wyoming,Wethersfield 1 1,U.S. House,24,CON,Claudia Tenney,21,4,25
+Wyoming,Cumulative,U.S. House,24,CON,Claudia Tenney,0,0,0
+Wyoming,Arcade 1 1,U.S. House,24,,Undervotes,18,1,19
+Wyoming,Arcade 2 1,U.S. House,24,,Undervotes,11,0,11
+Wyoming,Arcade 3 1,U.S. House,24,,Undervotes,16,1,17
+Wyoming,Arcade 4 1,U.S. House,24,,Undervotes,20,0,20
+Wyoming,Attica 1 1,U.S. House,24,,Undervotes,10,0,10
+Wyoming,Attica 2 1,U.S. House,24,,Undervotes,12,0,12
+Wyoming,Attica 3 1,U.S. House,24,,Undervotes,14,2,16
+Wyoming,Attica 4 1,U.S. House,24,,Undervotes,14,0,14
+Wyoming,Bennington 1 1,U.S. House,24,,Undervotes,22,3,25
+Wyoming,Bennington 2 1,U.S. House,24,,Undervotes,8,2,10
+Wyoming,Bennington 3 1,U.S. House,24,,Undervotes,21,10,31
+Wyoming,Castile 1 1,U.S. House,24,,Undervotes,7,1,8
+Wyoming,Castile 2 1,U.S. House,24,,Undervotes,5,2,7
+Wyoming,Castile 3 1,U.S. House,24,,Undervotes,8,2,10
+Wyoming,Covington 1 1,U.S. House,24,,Undervotes,16,2,18
+Wyoming,Eagle 1 1,U.S. House,24,,Undervotes,10,10,20
+Wyoming,Gainesville 1 1,U.S. House,24,,Undervotes,2,3,5
+Wyoming,Gainesville 2 1,U.S. House,24,,Undervotes,4,4,8
+Wyoming,Gainesville 3 1,U.S. House,24,,Undervotes,5,2,7
+Wyoming,Gainesville 4 1,U.S. House,24,,Undervotes,2,5,7
+Wyoming,Genesee Falls 1 1,U.S. House,24,,Undervotes,10,0,10
+Wyoming,Java 1 1,U.S. House,24,,Undervotes,19,1,20
+Wyoming,Java 2 1,U.S. House,24,,Undervotes,26,1,27
+Wyoming,Middlebury 1 1,U.S. House,24,,Undervotes,8,1,9
+Wyoming,Middlebury 2 1,U.S. House,24,,Undervotes,6,0,6
+Wyoming,Orangeville 1 1,U.S. House,24,,Undervotes,25,1,26
+Wyoming,Perry 1 1,U.S. House,24,,Undervotes,18,2,20
+Wyoming,Perry 2 1,U.S. House,24,,Undervotes,1,0,1
+Wyoming,Perry 3 1,U.S. House,24,,Undervotes,9,1,10
+Wyoming,Perry 4 1,U.S. House,24,,Undervotes,19,0,19
+Wyoming,Pike 1 1,U.S. House,24,,Undervotes,9,0,9
+Wyoming,Sheldon 1 1,U.S. House,24,,Undervotes,7,2,9
+Wyoming,Sheldon 2 1,U.S. House,24,,Undervotes,30,1,31
+Wyoming,Sheldon 3 1,U.S. House,24,,Undervotes,22,0,22
+Wyoming,Warsaw 1 1,U.S. House,24,,Undervotes,10,5,15
+Wyoming,Warsaw 2 1,U.S. House,24,,Undervotes,6,7,13
+Wyoming,Warsaw 3 1,U.S. House,24,,Undervotes,7,1,8
+Wyoming,Warsaw 4 1,U.S. House,24,,Undervotes,9,1,10
+Wyoming,Warsaw 5 1,U.S. House,24,,Undervotes,8,2,10
+Wyoming,Wethersfield 1 1,U.S. House,24,,Undervotes,11,3,14
+Wyoming,Cumulative,U.S. House,24,,Undervotes,0,0,0
+Wyoming,Arcade 1 1,U.S. House,24,,Overvotes,0,1,1
+Wyoming,Arcade 2 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Arcade 3 1,U.S. House,24,,Overvotes,1,0,1
+Wyoming,Arcade 4 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Attica 1 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Attica 2 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Attica 3 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Attica 4 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Bennington 1 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Bennington 2 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Bennington 3 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Castile 1 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Castile 2 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Castile 3 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Covington 1 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Eagle 1 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Gainesville 1 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Gainesville 2 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Gainesville 3 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Gainesville 4 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Genesee Falls 1 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Java 1 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Java 2 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Middlebury 1 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Middlebury 2 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Orangeville 1 1,U.S. House,24,,Overvotes,2,0,2
+Wyoming,Perry 1 1,U.S. House,24,,Overvotes,1,0,1
+Wyoming,Perry 2 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Perry 3 1,U.S. House,24,,Overvotes,1,0,1
+Wyoming,Perry 4 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Pike 1 1,U.S. House,24,,Overvotes,1,0,1
+Wyoming,Sheldon 1 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Sheldon 2 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Sheldon 3 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Warsaw 1 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Warsaw 2 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Warsaw 3 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Warsaw 4 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Warsaw 5 1,U.S. House,24,,Overvotes,0,1,1
+Wyoming,Wethersfield 1 1,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Cumulative,U.S. House,24,,Overvotes,0,0,0
+Wyoming,Arcade 1 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 2 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 3 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 4 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 1 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 2 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 3 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 4 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 1 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 2 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 3 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Castile 1 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Castile 2 1,U.S. House,24,,Unqualified Write-Ins,1,0,1
+Wyoming,Castile 3 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Covington 1 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Eagle 1 1,U.S. House,24,,Unqualified Write-Ins,0,1,1
+Wyoming,Gainesville 1 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 2 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 3 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 4 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Genesee Falls 1 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Java 1 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Java 2 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Middlebury 1 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Middlebury 2 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Orangeville 1 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 1 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 2 1,U.S. House,24,,Unqualified Write-Ins,1,0,1
+Wyoming,Perry 3 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 4 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Pike 1 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 1 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 2 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 3 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 1 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 2 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 3 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 4 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 5 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Wethersfield 1 1,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Cumulative,U.S. House,24,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 1 1,U.S. House,24,,Special Votes,18,2,20
+Wyoming,Arcade 2 1,U.S. House,24,,Special Votes,11,0,11
+Wyoming,Arcade 3 1,U.S. House,24,,Special Votes,17,1,18
+Wyoming,Arcade 4 1,U.S. House,24,,Special Votes,20,0,20
+Wyoming,Attica 1 1,U.S. House,24,,Special Votes,10,0,10
+Wyoming,Attica 2 1,U.S. House,24,,Special Votes,12,0,12
+Wyoming,Attica 3 1,U.S. House,24,,Special Votes,14,2,16
+Wyoming,Attica 4 1,U.S. House,24,,Special Votes,14,0,14
+Wyoming,Bennington 1 1,U.S. House,24,,Special Votes,22,3,25
+Wyoming,Bennington 2 1,U.S. House,24,,Special Votes,8,2,10
+Wyoming,Bennington 3 1,U.S. House,24,,Special Votes,21,10,31
+Wyoming,Castile 1 1,U.S. House,24,,Special Votes,7,1,8
+Wyoming,Castile 2 1,U.S. House,24,,Special Votes,6,2,8
+Wyoming,Castile 3 1,U.S. House,24,,Special Votes,8,2,10
+Wyoming,Covington 1 1,U.S. House,24,,Special Votes,16,2,18
+Wyoming,Eagle 1 1,U.S. House,24,,Special Votes,10,11,21
+Wyoming,Gainesville 1 1,U.S. House,24,,Special Votes,2,3,5
+Wyoming,Gainesville 2 1,U.S. House,24,,Special Votes,4,4,8
+Wyoming,Gainesville 3 1,U.S. House,24,,Special Votes,5,2,7
+Wyoming,Gainesville 4 1,U.S. House,24,,Special Votes,2,5,7
+Wyoming,Genesee Falls 1 1,U.S. House,24,,Special Votes,10,0,10
+Wyoming,Java 1 1,U.S. House,24,,Special Votes,19,1,20
+Wyoming,Java 2 1,U.S. House,24,,Special Votes,26,1,27
+Wyoming,Middlebury 1 1,U.S. House,24,,Special Votes,8,1,9
+Wyoming,Middlebury 2 1,U.S. House,24,,Special Votes,6,0,6
+Wyoming,Orangeville 1 1,U.S. House,24,,Special Votes,27,1,28
+Wyoming,Perry 1 1,U.S. House,24,,Special Votes,19,2,21
+Wyoming,Perry 2 1,U.S. House,24,,Special Votes,2,0,2
+Wyoming,Perry 3 1,U.S. House,24,,Special Votes,10,1,11
+Wyoming,Perry 4 1,U.S. House,24,,Special Votes,19,0,19
+Wyoming,Pike 1 1,U.S. House,24,,Special Votes,10,0,10
+Wyoming,Sheldon 1 1,U.S. House,24,,Special Votes,7,2,9
+Wyoming,Sheldon 2 1,U.S. House,24,,Special Votes,30,1,31
+Wyoming,Sheldon 3 1,U.S. House,24,,Special Votes,22,0,22
+Wyoming,Warsaw 1 1,U.S. House,24,,Special Votes,10,5,15
+Wyoming,Warsaw 2 1,U.S. House,24,,Special Votes,6,7,13
+Wyoming,Warsaw 3 1,U.S. House,24,,Special Votes,7,1,8
+Wyoming,Warsaw 4 1,U.S. House,24,,Special Votes,9,1,10
+Wyoming,Warsaw 5 1,U.S. House,24,,Special Votes,8,3,11
+Wyoming,Wethersfield 1 1,U.S. House,24,,Special Votes,11,3,14
+Wyoming,Cumulative,U.S. House,24,,Special Votes,0,0,0
+Wyoming,Arcade 1 1,State Senate,57,DEM,Daniel J. Brown,103,26,129
+Wyoming,Arcade 2 1,State Senate,57,DEM,Daniel J. Brown,46,9,55
+Wyoming,Arcade 3 1,State Senate,57,DEM,Daniel J. Brown,81,5,86
+Wyoming,Arcade 4 1,State Senate,57,DEM,Daniel J. Brown,99,4,103
+Wyoming,Attica 1 1,State Senate,57,DEM,Daniel J. Brown,62,13,75
+Wyoming,Attica 2 1,State Senate,57,DEM,Daniel J. Brown,46,7,53
+Wyoming,Attica 3 1,State Senate,57,DEM,Daniel J. Brown,74,18,92
+Wyoming,Attica 4 1,State Senate,57,DEM,Daniel J. Brown,59,24,83
+Wyoming,Bennington 1 1,State Senate,57,DEM,Daniel J. Brown,84,30,114
+Wyoming,Bennington 2 1,State Senate,57,DEM,Daniel J. Brown,58,29,87
+Wyoming,Bennington 3 1,State Senate,57,DEM,Daniel J. Brown,57,24,81
+Wyoming,Castile 1 1,State Senate,57,DEM,Daniel J. Brown,47,25,72
+Wyoming,Castile 2 1,State Senate,57,DEM,Daniel J. Brown,82,44,126
+Wyoming,Castile 3 1,State Senate,57,DEM,Daniel J. Brown,35,39,74
+Wyoming,Covington 1 1,State Senate,57,DEM,Daniel J. Brown,64,14,78
+Wyoming,Eagle 1 1,State Senate,57,DEM,Daniel J. Brown,53,29,82
+Wyoming,Gainesville 1 1,State Senate,57,DEM,Daniel J. Brown,27,6,33
+Wyoming,Gainesville 2 1,State Senate,57,DEM,Daniel J. Brown,42,11,53
+Wyoming,Gainesville 3 1,State Senate,57,DEM,Daniel J. Brown,13,32,45
+Wyoming,Gainesville 4 1,State Senate,57,DEM,Daniel J. Brown,14,23,37
+Wyoming,Genesee Falls 1 1,State Senate,57,DEM,Daniel J. Brown,38,3,41
+Wyoming,Java 1 1,State Senate,57,DEM,Daniel J. Brown,81,11,92
+Wyoming,Java 2 1,State Senate,57,DEM,Daniel J. Brown,61,5,66
+Wyoming,Middlebury 1 1,State Senate,57,DEM,Daniel J. Brown,58,17,75
+Wyoming,Middlebury 2 1,State Senate,57,DEM,Daniel J. Brown,31,8,39
+Wyoming,Orangeville 1 1,State Senate,57,DEM,Daniel J. Brown,77,29,106
+Wyoming,Perry 1 1,State Senate,57,DEM,Daniel J. Brown,73,17,90
+Wyoming,Perry 2 1,State Senate,57,DEM,Daniel J. Brown,46,13,59
+Wyoming,Perry 3 1,State Senate,57,DEM,Daniel J. Brown,85,26,111
+Wyoming,Perry 4 1,State Senate,57,DEM,Daniel J. Brown,100,25,125
+Wyoming,Pike 1 1,State Senate,57,DEM,Daniel J. Brown,48,4,52
+Wyoming,Sheldon 1 1,State Senate,57,DEM,Daniel J. Brown,30,23,53
+Wyoming,Sheldon 2 1,State Senate,57,DEM,Daniel J. Brown,68,11,79
+Wyoming,Sheldon 3 1,State Senate,57,DEM,Daniel J. Brown,46,13,59
+Wyoming,Warsaw 1 1,State Senate,57,DEM,Daniel J. Brown,56,51,107
+Wyoming,Warsaw 2 1,State Senate,57,DEM,Daniel J. Brown,52,22,74
+Wyoming,Warsaw 3 1,State Senate,57,DEM,Daniel J. Brown,60,31,91
+Wyoming,Warsaw 4 1,State Senate,57,DEM,Daniel J. Brown,62,31,93
+Wyoming,Warsaw 5 1,State Senate,57,DEM,Daniel J. Brown,65,64,129
+Wyoming,Wethersfield 1 1,State Senate,57,DEM,Daniel J. Brown,43,22,65
+Wyoming,Cumulative,State Senate,57,DEM,Daniel J. Brown,23,0,23
+Wyoming,Arcade 1 1,State Senate,57,REP,George M. Borrello,294,17,311
+Wyoming,Arcade 2 1,State Senate,57,REP,George M. Borrello,219,4,223
+Wyoming,Arcade 3 1,State Senate,57,REP,George M. Borrello,196,6,202
+Wyoming,Arcade 4 1,State Senate,57,REP,George M. Borrello,295,23,318
+Wyoming,Attica 1 1,State Senate,57,REP,George M. Borrello,205,17,222
+Wyoming,Attica 2 1,State Senate,57,REP,George M. Borrello,186,13,199
+Wyoming,Attica 3 1,State Senate,57,REP,George M. Borrello,264,22,286
+Wyoming,Attica 4 1,State Senate,57,REP,George M. Borrello,311,34,345
+Wyoming,Bennington 1 1,State Senate,57,REP,George M. Borrello,312,65,377
+Wyoming,Bennington 2 1,State Senate,57,REP,George M. Borrello,254,50,304
+Wyoming,Bennington 3 1,State Senate,57,REP,George M. Borrello,237,89,326
+Wyoming,Castile 1 1,State Senate,57,REP,George M. Borrello,155,67,222
+Wyoming,Castile 2 1,State Senate,57,REP,George M. Borrello,219,42,261
+Wyoming,Castile 3 1,State Senate,57,REP,George M. Borrello,114,75,189
+Wyoming,Covington 1 1,State Senate,57,REP,George M. Borrello,329,11,340
+Wyoming,Eagle 1 1,State Senate,57,REP,George M. Borrello,237,101,338
+Wyoming,Gainesville 1 1,State Senate,57,REP,George M. Borrello,138,14,152
+Wyoming,Gainesville 2 1,State Senate,57,REP,George M. Borrello,131,13,144
+Wyoming,Gainesville 3 1,State Senate,57,REP,George M. Borrello,67,31,98
+Wyoming,Gainesville 4 1,State Senate,57,REP,George M. Borrello,69,37,106
+Wyoming,Genesee Falls 1 1,State Senate,57,REP,George M. Borrello,111,6,117
+Wyoming,Java 1 1,State Senate,57,REP,George M. Borrello,326,14,340
+Wyoming,Java 2 1,State Senate,57,REP,George M. Borrello,311,18,329
+Wyoming,Middlebury 1 1,State Senate,57,REP,George M. Borrello,272,21,293
+Wyoming,Middlebury 2 1,State Senate,57,REP,George M. Borrello,125,12,137
+Wyoming,Orangeville 1 1,State Senate,57,REP,George M. Borrello,337,48,385
+Wyoming,Perry 1 1,State Senate,57,REP,George M. Borrello,314,33,347
+Wyoming,Perry 2 1,State Senate,57,REP,George M. Borrello,122,9,131
+Wyoming,Perry 3 1,State Senate,57,REP,George M. Borrello,185,17,202
+Wyoming,Perry 4 1,State Senate,57,REP,George M. Borrello,193,13,206
+Wyoming,Pike 1 1,State Senate,57,REP,George M. Borrello,270,20,290
+Wyoming,Sheldon 1 1,State Senate,57,REP,George M. Borrello,127,28,155
+Wyoming,Sheldon 2 1,State Senate,57,REP,George M. Borrello,275,24,299
+Wyoming,Sheldon 3 1,State Senate,57,REP,George M. Borrello,218,20,238
+Wyoming,Warsaw 1 1,State Senate,57,REP,George M. Borrello,189,66,255
+Wyoming,Warsaw 2 1,State Senate,57,REP,George M. Borrello,179,33,212
+Wyoming,Warsaw 3 1,State Senate,57,REP,George M. Borrello,177,52,229
+Wyoming,Warsaw 4 1,State Senate,57,REP,George M. Borrello,150,41,191
+Wyoming,Warsaw 5 1,State Senate,57,REP,George M. Borrello,162,71,233
+Wyoming,Wethersfield 1 1,State Senate,57,REP,George M. Borrello,215,18,233
+Wyoming,Cumulative,State Senate,57,REP,George M. Borrello,36,0,36
+Wyoming,Arcade 1 1,State Senate,57,CON,George M. Borrello,20,6,26
+Wyoming,Arcade 2 1,State Senate,57,CON,George M. Borrello,32,2,34
+Wyoming,Arcade 3 1,State Senate,57,CON,George M. Borrello,28,1,29
+Wyoming,Arcade 4 1,State Senate,57,CON,George M. Borrello,39,0,39
+Wyoming,Attica 1 1,State Senate,57,CON,George M. Borrello,35,1,36
+Wyoming,Attica 2 1,State Senate,57,CON,George M. Borrello,16,1,17
+Wyoming,Attica 3 1,State Senate,57,CON,George M. Borrello,45,3,48
+Wyoming,Attica 4 1,State Senate,57,CON,George M. Borrello,52,6,58
+Wyoming,Bennington 1 1,State Senate,57,CON,George M. Borrello,66,17,83
+Wyoming,Bennington 2 1,State Senate,57,CON,George M. Borrello,62,8,70
+Wyoming,Bennington 3 1,State Senate,57,CON,George M. Borrello,57,26,83
+Wyoming,Castile 1 1,State Senate,57,CON,George M. Borrello,21,11,32
+Wyoming,Castile 2 1,State Senate,57,CON,George M. Borrello,36,6,42
+Wyoming,Castile 3 1,State Senate,57,CON,George M. Borrello,14,14,28
+Wyoming,Covington 1 1,State Senate,57,CON,George M. Borrello,42,5,47
+Wyoming,Eagle 1 1,State Senate,57,CON,George M. Borrello,22,10,32
+Wyoming,Gainesville 1 1,State Senate,57,CON,George M. Borrello,23,5,28
+Wyoming,Gainesville 2 1,State Senate,57,CON,George M. Borrello,20,2,22
+Wyoming,Gainesville 3 1,State Senate,57,CON,George M. Borrello,7,5,12
+Wyoming,Gainesville 4 1,State Senate,57,CON,George M. Borrello,8,5,13
+Wyoming,Genesee Falls 1 1,State Senate,57,CON,George M. Borrello,12,1,13
+Wyoming,Java 1 1,State Senate,57,CON,George M. Borrello,63,0,63
+Wyoming,Java 2 1,State Senate,57,CON,George M. Borrello,49,5,54
+Wyoming,Middlebury 1 1,State Senate,57,CON,George M. Borrello,41,6,47
+Wyoming,Middlebury 2 1,State Senate,57,CON,George M. Borrello,18,1,19
+Wyoming,Orangeville 1 1,State Senate,57,CON,George M. Borrello,79,3,82
+Wyoming,Perry 1 1,State Senate,57,CON,George M. Borrello,55,15,70
+Wyoming,Perry 2 1,State Senate,57,CON,George M. Borrello,15,2,17
+Wyoming,Perry 3 1,State Senate,57,CON,George M. Borrello,34,1,35
+Wyoming,Perry 4 1,State Senate,57,CON,George M. Borrello,21,2,23
+Wyoming,Pike 1 1,State Senate,57,CON,George M. Borrello,39,4,43
+Wyoming,Sheldon 1 1,State Senate,57,CON,George M. Borrello,32,4,36
+Wyoming,Sheldon 2 1,State Senate,57,CON,George M. Borrello,76,2,78
+Wyoming,Sheldon 3 1,State Senate,57,CON,George M. Borrello,47,2,49
+Wyoming,Warsaw 1 1,State Senate,57,CON,George M. Borrello,31,5,36
+Wyoming,Warsaw 2 1,State Senate,57,CON,George M. Borrello,20,5,25
+Wyoming,Warsaw 3 1,State Senate,57,CON,George M. Borrello,28,7,35
+Wyoming,Warsaw 4 1,State Senate,57,CON,George M. Borrello,33,4,37
+Wyoming,Warsaw 5 1,State Senate,57,CON,George M. Borrello,25,6,31
+Wyoming,Wethersfield 1 1,State Senate,57,CON,George M. Borrello,18,5,23
+Wyoming,Cumulative,State Senate,57,CON,George M. Borrello,0,0,0
+Wyoming,Arcade 1 1,State Senate,57,,Undervotes,19,2,21
+Wyoming,Arcade 2 1,State Senate,57,,Undervotes,17,1,18
+Wyoming,Arcade 3 1,State Senate,57,,Undervotes,17,2,19
+Wyoming,Arcade 4 1,State Senate,57,,Undervotes,23,0,23
+Wyoming,Attica 1 1,State Senate,57,,Undervotes,12,2,14
+Wyoming,Attica 2 1,State Senate,57,,Undervotes,18,3,21
+Wyoming,Attica 3 1,State Senate,57,,Undervotes,21,2,23
+Wyoming,Attica 4 1,State Senate,57,,Undervotes,20,1,21
+Wyoming,Bennington 1 1,State Senate,57,,Undervotes,28,9,37
+Wyoming,Bennington 2 1,State Senate,57,,Undervotes,13,4,17
+Wyoming,Bennington 3 1,State Senate,57,,Undervotes,30,12,42
+Wyoming,Castile 1 1,State Senate,57,,Undervotes,10,3,13
+Wyoming,Castile 2 1,State Senate,57,,Undervotes,15,4,19
+Wyoming,Castile 3 1,State Senate,57,,Undervotes,8,5,13
+Wyoming,Covington 1 1,State Senate,57,,Undervotes,24,3,27
+Wyoming,Eagle 1 1,State Senate,57,,Undervotes,10,7,17
+Wyoming,Gainesville 1 1,State Senate,57,,Undervotes,5,4,9
+Wyoming,Gainesville 2 1,State Senate,57,,Undervotes,11,5,16
+Wyoming,Gainesville 3 1,State Senate,57,,Undervotes,5,3,8
+Wyoming,Gainesville 4 1,State Senate,57,,Undervotes,4,3,7
+Wyoming,Genesee Falls 1 1,State Senate,57,,Undervotes,14,0,14
+Wyoming,Java 1 1,State Senate,57,,Undervotes,25,2,27
+Wyoming,Java 2 1,State Senate,57,,Undervotes,27,3,30
+Wyoming,Middlebury 1 1,State Senate,57,,Undervotes,12,0,12
+Wyoming,Middlebury 2 1,State Senate,57,,Undervotes,10,1,11
+Wyoming,Orangeville 1 1,State Senate,57,,Undervotes,33,2,35
+Wyoming,Perry 1 1,State Senate,57,,Undervotes,22,4,26
+Wyoming,Perry 2 1,State Senate,57,,Undervotes,6,2,8
+Wyoming,Perry 3 1,State Senate,57,,Undervotes,10,1,11
+Wyoming,Perry 4 1,State Senate,57,,Undervotes,19,0,19
+Wyoming,Pike 1 1,State Senate,57,,Undervotes,12,1,13
+Wyoming,Sheldon 1 1,State Senate,57,,Undervotes,7,2,9
+Wyoming,Sheldon 2 1,State Senate,57,,Undervotes,34,2,36
+Wyoming,Sheldon 3 1,State Senate,57,,Undervotes,30,1,31
+Wyoming,Warsaw 1 1,State Senate,57,,Undervotes,11,10,21
+Wyoming,Warsaw 2 1,State Senate,57,,Undervotes,10,5,15
+Wyoming,Warsaw 3 1,State Senate,57,,Undervotes,10,4,14
+Wyoming,Warsaw 4 1,State Senate,57,,Undervotes,13,3,16
+Wyoming,Warsaw 5 1,State Senate,57,,Undervotes,14,5,19
+Wyoming,Wethersfield 1 1,State Senate,57,,Undervotes,23,2,25
+Wyoming,Cumulative,State Senate,57,,Undervotes,0,0,0
+Wyoming,Arcade 1 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Arcade 2 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Arcade 3 1,State Senate,57,,Overvotes,1,0,1
+Wyoming,Arcade 4 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Attica 1 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Attica 2 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Attica 3 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Attica 4 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Bennington 1 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Bennington 2 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Bennington 3 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Castile 1 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Castile 2 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Castile 3 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Covington 1 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Eagle 1 1,State Senate,57,,Overvotes,0,1,1
+Wyoming,Gainesville 1 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Gainesville 2 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Gainesville 3 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Gainesville 4 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Genesee Falls 1 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Java 1 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Java 2 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Middlebury 1 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Middlebury 2 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Orangeville 1 1,State Senate,57,,Overvotes,2,0,2
+Wyoming,Perry 1 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Perry 2 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Perry 3 1,State Senate,57,,Overvotes,1,0,1
+Wyoming,Perry 4 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Pike 1 1,State Senate,57,,Overvotes,1,0,1
+Wyoming,Sheldon 1 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Sheldon 2 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Sheldon 3 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Warsaw 1 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Warsaw 2 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Warsaw 3 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Warsaw 4 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Warsaw 5 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Wethersfield 1 1,State Senate,57,,Overvotes,0,0,0
+Wyoming,Cumulative,State Senate,57,,Overvotes,0,0,0
+Wyoming,Arcade 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 2 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 3 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 4 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 2 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 3 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 4 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 2 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 3 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Castile 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Castile 2 1,State Senate,57,,Unqualified Write-Ins,1,0,1
+Wyoming,Castile 3 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Covington 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Eagle 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 2 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 3 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 4 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Genesee Falls 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Java 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Java 2 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Middlebury 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Middlebury 2 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Orangeville 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 2 1,State Senate,57,,Unqualified Write-Ins,1,0,1
+Wyoming,Perry 3 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 4 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Pike 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 2 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 3 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 2 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 3 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 4 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 5 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Wethersfield 1 1,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Cumulative,State Senate,57,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 1 1,State Senate,57,,Special Votes,19,2,21
+Wyoming,Arcade 2 1,State Senate,57,,Special Votes,17,1,18
+Wyoming,Arcade 3 1,State Senate,57,,Special Votes,18,2,20
+Wyoming,Arcade 4 1,State Senate,57,,Special Votes,23,0,23
+Wyoming,Attica 1 1,State Senate,57,,Special Votes,12,2,14
+Wyoming,Attica 2 1,State Senate,57,,Special Votes,18,3,21
+Wyoming,Attica 3 1,State Senate,57,,Special Votes,21,2,23
+Wyoming,Attica 4 1,State Senate,57,,Special Votes,20,1,21
+Wyoming,Bennington 1 1,State Senate,57,,Special Votes,28,9,37
+Wyoming,Bennington 2 1,State Senate,57,,Special Votes,13,4,17
+Wyoming,Bennington 3 1,State Senate,57,,Special Votes,30,12,42
+Wyoming,Castile 1 1,State Senate,57,,Special Votes,10,3,13
+Wyoming,Castile 2 1,State Senate,57,,Special Votes,16,4,20
+Wyoming,Castile 3 1,State Senate,57,,Special Votes,8,5,13
+Wyoming,Covington 1 1,State Senate,57,,Special Votes,24,3,27
+Wyoming,Eagle 1 1,State Senate,57,,Special Votes,10,8,18
+Wyoming,Gainesville 1 1,State Senate,57,,Special Votes,5,4,9
+Wyoming,Gainesville 2 1,State Senate,57,,Special Votes,11,5,16
+Wyoming,Gainesville 3 1,State Senate,57,,Special Votes,5,3,8
+Wyoming,Gainesville 4 1,State Senate,57,,Special Votes,4,3,7
+Wyoming,Genesee Falls 1 1,State Senate,57,,Special Votes,14,0,14
+Wyoming,Java 1 1,State Senate,57,,Special Votes,25,2,27
+Wyoming,Java 2 1,State Senate,57,,Special Votes,27,3,30
+Wyoming,Middlebury 1 1,State Senate,57,,Special Votes,12,0,12
+Wyoming,Middlebury 2 1,State Senate,57,,Special Votes,10,1,11
+Wyoming,Orangeville 1 1,State Senate,57,,Special Votes,35,2,37
+Wyoming,Perry 1 1,State Senate,57,,Special Votes,22,4,26
+Wyoming,Perry 2 1,State Senate,57,,Special Votes,7,2,9
+Wyoming,Perry 3 1,State Senate,57,,Special Votes,11,1,12
+Wyoming,Perry 4 1,State Senate,57,,Special Votes,19,0,19
+Wyoming,Pike 1 1,State Senate,57,,Special Votes,13,1,14
+Wyoming,Sheldon 1 1,State Senate,57,,Special Votes,7,2,9
+Wyoming,Sheldon 2 1,State Senate,57,,Special Votes,34,2,36
+Wyoming,Sheldon 3 1,State Senate,57,,Special Votes,30,1,31
+Wyoming,Warsaw 1 1,State Senate,57,,Special Votes,11,10,21
+Wyoming,Warsaw 2 1,State Senate,57,,Special Votes,10,5,15
+Wyoming,Warsaw 3 1,State Senate,57,,Special Votes,10,4,14
+Wyoming,Warsaw 4 1,State Senate,57,,Special Votes,13,3,16
+Wyoming,Warsaw 5 1,State Senate,57,,Special Votes,14,5,19
+Wyoming,Wethersfield 1 1,State Senate,57,,Special Votes,23,2,25
+Wyoming,Cumulative,State Senate,57,,Special Votes,0,0,0
+Wyoming,Perry 1 1,State Assembly,133,DEM,Sara M. Spezzano,71,16,87
+Wyoming,Perry 2 1,State Assembly,133,DEM,Sara M. Spezzano,46,14,60
+Wyoming,Perry 3 1,State Assembly,133,DEM,Sara M. Spezzano,86,25,111
+Wyoming,Perry 4 1,State Assembly,133,DEM,Sara M. Spezzano,99,25,124
+Wyoming,Cumulative,State Assembly,133,DEM,Sara M. Spezzano,1,0,1
+Wyoming,Perry 1 1,State Assembly,133,REP,Marjorie L. Byrnes,314,36,350
+Wyoming,Perry 2 1,State Assembly,133,REP,Marjorie L. Byrnes,127,8,135
+Wyoming,Perry 3 1,State Assembly,133,REP,Marjorie L. Byrnes,187,18,205
+Wyoming,Perry 4 1,State Assembly,133,REP,Marjorie L. Byrnes,195,14,209
+Wyoming,Cumulative,State Assembly,133,REP,Marjorie L. Byrnes,0,0,0
+Wyoming,Perry 1 1,State Assembly,133,CON,Marjorie L. Byrnes,55,14,69
+Wyoming,Perry 2 1,State Assembly,133,CON,Marjorie L. Byrnes,10,2,12
+Wyoming,Perry 3 1,State Assembly,133,CON,Marjorie L. Byrnes,34,1,35
+Wyoming,Perry 4 1,State Assembly,133,CON,Marjorie L. Byrnes,22,1,23
+Wyoming,Cumulative,State Assembly,133,CON,Marjorie L. Byrnes,0,0,0
+Wyoming,Perry 1 1,State Assembly,133,,Undervotes,24,3,27
+Wyoming,Perry 2 1,State Assembly,133,,Undervotes,6,2,8
+Wyoming,Perry 3 1,State Assembly,133,,Undervotes,7,1,8
+Wyoming,Perry 4 1,State Assembly,133,,Undervotes,17,0,17
+Wyoming,Cumulative,State Assembly,133,,Undervotes,0,0,0
+Wyoming,Perry 1 1,State Assembly,133,,Overvotes,0,0,0
+Wyoming,Perry 2 1,State Assembly,133,,Overvotes,0,0,0
+Wyoming,Perry 3 1,State Assembly,133,,Overvotes,1,0,1
+Wyoming,Perry 4 1,State Assembly,133,,Overvotes,0,0,0
+Wyoming,Cumulative,State Assembly,133,,Overvotes,0,0,0
+Wyoming,Perry 1 1,State Assembly,133,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 2 1,State Assembly,133,,Unqualified Write-Ins,1,0,1
+Wyoming,Perry 3 1,State Assembly,133,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 4 1,State Assembly,133,,Unqualified Write-Ins,0,0,0
+Wyoming,Cumulative,State Assembly,133,,Unqualified Write-Ins,0,0,0
+Wyoming,Perry 1 1,State Assembly,133,,Special Votes,24,3,27
+Wyoming,Perry 2 1,State Assembly,133,,Special Votes,7,2,9
+Wyoming,Perry 3 1,State Assembly,133,,Special Votes,8,1,9
+Wyoming,Perry 4 1,State Assembly,133,,Special Votes,17,0,17
+Wyoming,Cumulative,State Assembly,133,,Special Votes,0,0,0
+Wyoming,Arcade 1 1,State Senate,147,REP,David J. DiPietro,323,28,351
+Wyoming,Arcade 2 1,State Senate,147,REP,David J. DiPietro,243,7,250
+Wyoming,Arcade 3 1,State Senate,147,REP,David J. DiPietro,223,10,233
+Wyoming,Arcade 4 1,State Senate,147,REP,David J. DiPietro,326,23,349
+Wyoming,Attica 1 1,State Senate,147,REP,David J. DiPietro,222,21,243
+Wyoming,Attica 2 1,State Senate,147,REP,David J. DiPietro,203,14,217
+Wyoming,Attica 3 1,State Senate,147,REP,David J. DiPietro,286,27,313
+Wyoming,Attica 4 1,State Senate,147,REP,David J. DiPietro,330,40,370
+Wyoming,Bennington 1 1,State Senate,147,REP,David J. DiPietro,343,71,414
+Wyoming,Bennington 2 1,State Senate,147,REP,David J. DiPietro,271,59,330
+Wyoming,Bennington 3 1,State Senate,147,REP,David J. DiPietro,255,92,347
+Wyoming,Castile 1 1,State Senate,147,REP,David J. DiPietro,180,76,256
+Wyoming,Castile 2 1,State Senate,147,REP,David J. DiPietro,246,48,294
+Wyoming,Castile 3 1,State Senate,147,REP,David J. DiPietro,133,92,225
+Wyoming,Covington 1 1,State Senate,147,REP,David J. DiPietro,347,14,361
+Wyoming,Eagle 1 1,State Senate,147,REP,David J. DiPietro,244,108,352
+Wyoming,Gainesville 1 1,State Senate,147,REP,David J. DiPietro,141,12,153
+Wyoming,Gainesville 2 1,State Senate,147,REP,David J. DiPietro,144,16,160
+Wyoming,Gainesville 3 1,State Senate,147,REP,David J. DiPietro,72,40,112
+Wyoming,Gainesville 4 1,State Senate,147,REP,David J. DiPietro,75,48,123
+Wyoming,Genesee Falls 1 1,State Senate,147,REP,David J. DiPietro,114,7,121
+Wyoming,Java 1 1,State Senate,147,REP,David J. DiPietro,365,14,379
+Wyoming,Java 2 1,State Assembly,147,REP,David J. DiPietro,319,20,339
+Wyoming,Middlebury 1 1,State Assembly,147,REP,David J. DiPietro,280,24,304
+Wyoming,Middlebury 2 1,State Assembly,147,REP,David J. DiPietro,137,15,152
+Wyoming,Orangeville 1 1,State Assembly,147,REP,David J. DiPietro,359,55,414
+Wyoming,Pike 1 1,State Assembly,147,REP,David J. DiPietro,298,20,318
+Wyoming,Sheldon 1 1,State Assembly,147,REP,David J. DiPietro,132,30,162
+Wyoming,Sheldon 2 1,State Assembly,147,REP,David J. DiPietro,291,25,316
+Wyoming,Sheldon 3 1,State Assembly,147,REP,David J. DiPietro,234,24,258
+Wyoming,Warsaw 1 1,State Assembly,147,REP,David J. DiPietro,210,81,291
+Wyoming,Warsaw 2 1,State Assembly,147,REP,David J. DiPietro,197,40,237
+Wyoming,Warsaw 3 1,State Assembly,147,REP,David J. DiPietro,195,66,261
+Wyoming,Warsaw 4 1,State Assembly,147,REP,David J. DiPietro,174,52,226
+Wyoming,Warsaw 5 1,State Assembly,147,REP,David J. DiPietro,185,85,270
+Wyoming,Wethersfield 1 1,State Assembly,147,REP,David J. DiPietro,223,24,247
+Wyoming,Cumulative,State Assembly,147,REP,David J. DiPietro,42,0,42
+Wyoming,Arcade 1 1,State Assembly,147,CON,David J. DiPietro,32,8,40
+Wyoming,Arcade 2 1,State Assembly,147,CON,David J. DiPietro,37,2,39
+Wyoming,Arcade 3 1,State Assembly,147,CON,David J. DiPietro,39,1,40
+Wyoming,Arcade 4 1,State Assembly,147,CON,David J. DiPietro,51,0,51
+Wyoming,Attica 1 1,State Assembly,147,CON,David J. DiPietro,40,1,41
+Wyoming,Attica 2 1,State Assembly,147,CON,David J. DiPietro,18,3,21
+Wyoming,Attica 3 1,State Assembly,147,CON,David J. DiPietro,55,6,61
+Wyoming,Attica 4 1,State Assembly,147,CON,David J. DiPietro,55,8,63
+Wyoming,Bennington 1 1,State Assembly,147,CON,David J. DiPietro,72,19,91
+Wyoming,Bennington 2 1,State Assembly,147,CON,David J. DiPietro,71,12,83
+Wyoming,Bennington 3 1,State Assembly,147,CON,David J. DiPietro,65,29,94
+Wyoming,Castile 1 1,State Assembly,147,CON,David J. DiPietro,23,13,36
+Wyoming,Castile 2 1,State Assembly,147,CON,David J. DiPietro,43,13,56
+Wyoming,Castile 3 1,State Assembly,147,CON,David J. DiPietro,16,15,31
+Wyoming,Covington 1 1,State Senate,147,CON,David J. DiPietro,43,6,49
+Wyoming,Eagle 1 1,State Senate,147,CON,David J. DiPietro,24,13,37
+Wyoming,Gainesville 1 1,State Senate,147,CON,David J. DiPietro,27,6,33
+Wyoming,Gainesville 2 1,State Senate,147,CON,David J. DiPietro,23,3,26
+Wyoming,Gainesville 3 1,State Senate,147,CON,David J. DiPietro,8,11,19
+Wyoming,Gainesville 4 1,State Senate,147,CON,David J. DiPietro,11,5,16
+Wyoming,Genesee Falls 1 1,State Senate,147,CON,David J. DiPietro,15,1,16
+Wyoming,Java 1 1,State Senate,147,CON,David J. DiPietro,71,3,74
+Wyoming,Java 2 1,State Senate,147,CON,David J. DiPietro,55,5,60
+Wyoming,Middlebury 1 1,State Senate,147,CON,David J. DiPietro,48,5,53
+Wyoming,Middlebury 2 1,State Senate,147,CON,David J. DiPietro,18,2,20
+Wyoming,Orangeville 1 1,State Senate,147,CON,David J. DiPietro,92,6,98
+Wyoming,Pike 1 1,State Senate,147,CON,David J. DiPietro,41,4,45
+Wyoming,Sheldon 1 1,State Senate,147,CON,David J. DiPietro,38,7,45
+Wyoming,Sheldon 2 1,State Senate,147,CON,David J. DiPietro,87,1,88
+Wyoming,Sheldon 3 1,State Senate,147,CON,David J. DiPietro,53,2,55
+Wyoming,Warsaw 1 1,State Senate,147,CON,David J. DiPietro,36,8,44
+Wyoming,Warsaw 2 1,State Senate,147,CON,David J. DiPietro,26,5,31
+Wyoming,Warsaw 3 1,State Senate,147,CON,David J. DiPietro,37,8,45
+Wyoming,Warsaw 4 1,State Senate,147,CON,David J. DiPietro,39,4,43
+Wyoming,Warsaw 5 1,State Senate,147,CON,David J. DiPietro,32,13,45
+Wyoming,Wethersfield 1 1,State Senate,147,CON,David J. DiPietro,25,5,30
+Wyoming,Cumulative,State Senate,147,CON,David J. DiPietro,0,0,0
+Wyoming,Arcade 1 1,State Assembly,147,,Undervotes,79,15,94
+Wyoming,Arcade 2 1,State Assembly,147,,Undervotes,33,7,40
+Wyoming,Arcade 3 1,State Assembly,147,,Undervotes,59,3,62
+Wyoming,Arcade 4 1,State Assembly,147,,Undervotes,78,4,82
+Wyoming,Attica 1 1,State Assembly,147,,Undervotes,50,10,60
+Wyoming,Attica 2 1,State Assembly,147,,Undervotes,45,7,52
+Wyoming,Attica 3 1,State Assembly,147,,Undervotes,61,11,72
+Wyoming,Attica 4 1,State Assembly,147,,Undervotes,56,17,73
+Wyoming,Bennington 1 1,State Assembly,147,,Undervotes,75,31,106
+Wyoming,Bennington 2 1,State Assembly,147,,Undervotes,43,19,62
+Wyoming,Bennington 3 1,State Assembly,147,,Undervotes,61,30,91
+Wyoming,Castile 1 1,State Assembly,147,,Undervotes,29,17,46
+Wyoming,Castile 2 1,State Assembly,147,,Undervotes,64,34,98
+Wyoming,Castile 3 1,State Assembly,147,,Undervotes,21,24,45
+Wyoming,Covington 1 1,State Assembly,147,,Undervotes,67,13,80
+Wyoming,Eagle 1 1,State Assembly,147,,Undervotes,54,27,81
+Wyoming,Gainesville 1 1,State Assembly,147,,Undervotes,25,9,34
+Wyoming,Gainesville 2 1,State Assembly,147,,Undervotes,36,12,48
+Wyoming,Gainesville 3 1,State Assembly,147,,Undervotes,11,20,31
+Wyoming,Gainesville 4 1,State Assembly,147,,Undervotes,9,14,23
+Wyoming,Genesee Falls 1 1,State Assembly,147,,Undervotes,46,2,48
+Wyoming,Java 1 1,State Assembly,147,,Undervotes,59,10,69
+Wyoming,Java 2 1,State Assembly,147,,Undervotes,72,6,78
+Wyoming,Middlebury 1 1,State Assembly,147,,Undervotes,54,15,69
+Wyoming,Middlebury 2 1,State Assembly,147,,Undervotes,29,5,34
+Wyoming,Orangeville 1 1,State Assembly,147,,Undervotes,73,21,94
+Wyoming,Pike 1 1,State Assembly,147,,Undervotes,30,5,35
+Wyoming,Sheldon 1 1,State Assembly,147,,Undervotes,26,20,46
+Wyoming,Sheldon 2 1,State Senate,147,,Undervotes,74,13,87
+Wyoming,Sheldon 3 1,State Senate,147,,Undervotes,54,10,64
+Wyoming,Warsaw 1 1,State Senate,147,,Undervotes,41,42,83
+Wyoming,Warsaw 2 1,State Senate,147,,Undervotes,37,20,57
+Wyoming,Warsaw 3 1,State Senate,147,,Undervotes,42,20,62
+Wyoming,Warsaw 4 1,State Senate,147,,Undervotes,44,23,67
+Wyoming,Warsaw 5 1,State Senate,147,,Undervotes,49,48,97
+Wyoming,Wethersfield 1 1,State Senate,147,,Undervotes,49,18,67
+Wyoming,Cumulative,State Senate,147,,Undervotes,0,0,0
+Wyoming,Arcade 1 1,State Senate,147,,Overvotes,0,0,0
+Wyoming,Arcade 2 1,State Senate,147,,Overvotes,0,0,0
+Wyoming,Arcade 3 1,State Senate,147,,Overvotes,1,0,1
+Wyoming,Arcade 4 1,State Senate,147,,Overvotes,0,0,0
+Wyoming,Attica 1 1,State Senate,147,,Overvotes,0,0,0
+Wyoming,Attica 2 1,State Senate,147,,Overvotes,0,0,0
+Wyoming,Attica 3 1,State Senate,147,,Overvotes,0,0,0
+Wyoming,Attica 4 1,State Senate,147,,Overvotes,0,0,0
+Wyoming,Bennington 1 1,State Senate,147,,Overvotes,0,0,0
+Wyoming,Bennington 2 1,State Senate,147,,Overvotes,0,0,0
+Wyoming,Bennington 3 1,State Senate,147,,Overvotes,0,0,0
+Wyoming,Castile 1 1,State Senate,147,,Overvotes,0,0,0
+Wyoming,Castile 2 1,State Senate,147,,Overvotes,0,0,0
+Wyoming,Castile 3 1,State Senate,147,,Overvotes,0,0,0
+Wyoming,Covington 1 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Eagle 1 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Gainesville 1 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Gainesville 2 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Gainesville 3 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Gainesville 4 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Genesee Falls 1 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Java 1 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Java 2 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Middlebury 1 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Middlebury 2 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Orangeville 1 1,State Assembly,147,,Overvotes,2,0,2
+Wyoming,Pike 1 1,State Assembly,147,,Overvotes,1,0,1
+Wyoming,Sheldon 1 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Sheldon 2 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Sheldon 3 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Warsaw 1 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Warsaw 2 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Warsaw 3 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Warsaw 4 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Warsaw 5 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Wethersfield 1 1,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Cumulative,State Assembly,147,,Overvotes,0,0,0
+Wyoming,Arcade 1 1,State Assembly,147,,Unqualified Write-Ins,2,0,2
+Wyoming,Arcade 2 1,State Assembly,147,,Unqualified Write-Ins,1,0,1
+Wyoming,Arcade 3 1,State Assembly,147,,Unqualified Write-Ins,1,0,1
+Wyoming,Arcade 4 1,State Assembly,147,,Unqualified Write-Ins,1,0,1
+Wyoming,Attica 1 1,State Assembly,147,,Unqualified Write-Ins,2,1,3
+Wyoming,Attica 2 1,State Assembly,147,,Unqualified Write-Ins,0,0,0
+Wyoming,Attica 3 1,State Senate,147,,Unqualified Write-Ins,2,1,3
+Wyoming,Attica 4 1,State Senate,147,,Unqualified Write-Ins,1,0,1
+Wyoming,Bennington 1 1,State Senate,147,,Unqualified Write-Ins,0,0,0
+Wyoming,Bennington 2 1,State Senate,147,,Unqualified Write-Ins,2,1,3
+Wyoming,Bennington 3 1,State Senate,147,,Unqualified Write-Ins,0,0,0
+Wyoming,Castile 1 1,State Senate,147,,Unqualified Write-Ins,1,0,1
+Wyoming,Castile 2 1,State Senate,147,,Unqualified Write-Ins,0,1,1
+Wyoming,Castile 3 1,State Senate,147,,Unqualified Write-Ins,1,2,3
+Wyoming,Covington 1 1,State Senate,147,,Unqualified Write-Ins,1,0,1
+Wyoming,Eagle 1 1,State Senate,147,,Unqualified Write-Ins,0,0,0
+Wyoming,Gainesville 1 1,State Senate,147,,Unqualified Write-Ins,0,2,2
+Wyoming,Gainesville 2 1,State Senate,147,,Unqualified Write-Ins,1,0,1
+Wyoming,Gainesville 3 1,State Senate,147,,Unqualified Write-Ins,1,0,1
+Wyoming,Gainesville 4 1,State Senate,147,,Unqualified Write-Ins,0,1,1
+Wyoming,Genesee Falls 1 1,State Senate,147,,Unqualified Write-Ins,0,0,0
+Wyoming,Java 1 1,State Senate,147,,Unqualified Write-Ins,0,0,0
+Wyoming,Java 2 1,State Senate,147,,Unqualified Write-Ins,2,0,2
+Wyoming,Middlebury 1 1,State Senate,147,,Unqualified Write-Ins,1,0,1
+Wyoming,Middlebury 2 1,State Senate,147,,Unqualified Write-Ins,0,0,0
+Wyoming,Orangeville 1 1,State Senate,147,,Unqualified Write-Ins,1,0,1
+Wyoming,Pike 1 1,State Senate,147,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 1 1,State Senate,147,,Unqualified Write-Ins,0,0,0
+Wyoming,Sheldon 2 1,State Assembly,147,,Unqualified Write-Ins,1,0,1
+Wyoming,Sheldon 3 1,State Assembly,147,,Unqualified Write-Ins,0,0,0
+Wyoming,Warsaw 1 1,State Assembly,147,,Unqualified Write-Ins,0,1,1
+Wyoming,Warsaw 2 1,State Assembly,147,,Unqualified Write-Ins,1,0,1
+Wyoming,Warsaw 3 1,State Assembly,147,,Unqualified Write-Ins,1,0,1
+Wyoming,Warsaw 4 1,State Assembly,147,,Unqualified Write-Ins,1,0,1
+Wyoming,Warsaw 5 1,State Assembly,147,,Unqualified Write-Ins,0,0,0
+Wyoming,Wethersfield 1 1,State Assembly,147,,Unqualified Write-Ins,0,0,0
+Wyoming,Cumulative,State Assembly,147,,Unqualified Write-Ins,0,0,0
+Wyoming,Arcade 1 1,State Assembly,147,,Special Votes,81,15,96
+Wyoming,Arcade 2 1,State Assembly,147,,Special Votes,34,7,41
+Wyoming,Arcade 3 1,State Assembly,147,,Special Votes,61,3,64
+Wyoming,Arcade 4 1,State Assembly,147,,Special Votes,79,4,83
+Wyoming,Attica 1 1,State Assembly,147,,Special Votes,52,11,63
+Wyoming,Attica 2 1,State Assembly,147,,Special Votes,45,7,52
+Wyoming,Attica 3 1,State Assembly,147,,Special Votes,63,12,75
+Wyoming,Attica 4 1,State Assembly,147,,Special Votes,57,17,74
+Wyoming,Bennington 1 1,State Assembly,147,,Special Votes,75,31,106
+Wyoming,Bennington 2 1,State Assembly,147,,Special Votes,45,20,65
+Wyoming,Bennington 3 1,State Assembly,147,,Special Votes,61,30,91
+Wyoming,Castile 1 1,State Assembly,147,,Special Votes,30,17,47
+Wyoming,Castile 2 1,State Assembly,147,,Special Votes,64,35,99
+Wyoming,Castile 3 1,State Assembly,147,,Special Votes,22,26,48
+Wyoming,Covington 1 1,State Assembly,147,,Special Votes,68,13,81
+Wyoming,Eagle 1 1,State Assembly,147,,Special Votes,54,27,81
+Wyoming,Gainesville 1 1,State Assembly,147,,Special Votes,25,11,36
+Wyoming,Gainesville 2 1,State Assembly,147,,Special Votes,37,12,49
+Wyoming,Gainesville 3 1,State Assembly,147,,Special Votes,12,20,32
+Wyoming,Gainesville 4 1,State Assembly,147,,Special Votes,9,15,24
+Wyoming,Genesee Falls 1 1,State Senate,147,,Special Votes,46,2,48
+Wyoming,Java 1 1,State Senate,147,,Special Votes,59,10,69
+Wyoming,Java 2 1,State Senate,147,,Special Votes,74,6,80
+Wyoming,Middlebury 1 1,State Senate,147,,Special Votes,55,15,70
+Wyoming,Middlebury 2 1,State Senate,147,,Special Votes,29,5,34
+Wyoming,Orangeville 1 1,State Senate,147,,Special Votes,76,21,97
+Wyoming,Pike 1 1,State Senate,147,,Special Votes,31,5,36
+Wyoming,Sheldon 1 1,State Senate,147,,Special Votes,26,20,46
+Wyoming,Sheldon 2 1,State Senate,147,,Special Votes,75,13,88
+Wyoming,Sheldon 3 1,State Senate,147,,Special Votes,54,10,64
+Wyoming,Warsaw 1 1,State Senate,147,,Special Votes,41,43,84
+Wyoming,Warsaw 2 1,State Senate,147,,Special Votes,38,20,58
+Wyoming,Warsaw 3 1,State Senate,147,,Special Votes,43,20,63
+Wyoming,Warsaw 4 1,State Senate,147,,Special Votes,45,23,68
+Wyoming,Warsaw 5 1,State Senate,147,,Special Votes,49,48,97
+Wyoming,Wethersfield 1 1,State Senate,147,,Special Votes,49,18,67
+Wyoming,Cumulative,State Senate,147,,Special Votes,0,0,0
