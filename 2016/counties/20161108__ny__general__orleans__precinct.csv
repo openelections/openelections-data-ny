@@ -39,7 +39,6 @@ Orleans,Town of Shelby 3 LD 2,President,,DEM,Hillary Clinton,141
 Orleans,Town of Shelby 4 LD 1,President,,DEM,Hillary Clinton,136
 Orleans,Town of Yates 1 LD 2,President,,DEM,Hillary Clinton,140
 Orleans,Town of Yates 2 LID 2,President,,DEM,Hillary Clinton,87
-Orleans,TOTAL,President,,DEM,Hillary Clinton,4239
 Orleans,Town of Albion 1 LD 3,President,,REP,Donald J. Trump,162
 Orleans,Town of Albion 2 LD 3,President,,REP,Donald J. Trump,216
 Orleans,Town of Albion 3 LD 3,President,,REP,Donald J. Trump,164
@@ -80,7 +79,6 @@ Orleans,Town of Shelby 3 LD 2,President,,REP,Donald J. Trump,185
 Orleans,Town of Shelby 4 LD 1,President,,REP,Donald J. Trump,332
 Orleans,Town of Yates 1 LD 2,President,,REP,Donald J. Trump,409
 Orleans,Town of Yates 2 LID 2,President,,REP,Donald J. Trump,330
-Orleans,TOTAL,President,,REP,Donald J. Trump,9700
 Orleans,Town of Albion 1 LD 3,President,,CON,Donald J. Trump,23
 Orleans,Town of Albion 2 LD 3,President,,CON,Donald J. Trump,30
 Orleans,Town of Albion 3 LD 3,President,,CON,Donald J. Trump,18
@@ -121,7 +119,6 @@ Orleans,Town of Shelby 3 LD 2,President,,CON,Donald J. Trump,20
 Orleans,Town of Shelby 4 LD 1,President,,CON,Donald J. Trump,38
 Orleans,Town of Yates 1 LD 2,President,,CON,Donald J. Trump,73
 Orleans,Town of Yates 2 LID 2,President,,CON,Donald J. Trump,33
-Orleans,TOTAL,President,,CON,Donald J. Trump,1236
 Orleans,Town of Albion 1 LD 3,President,,GRE,Jill Stein,7
 Orleans,Town of Albion 2 LD 3,President,,GRE,Jill Stein,3
 Orleans,Town of Albion 3 LD 3,President,,GRE,Jill Stein,8
@@ -162,7 +159,6 @@ Orleans,Town of Shelby 3 LD 2,President,,GRE,Jill Stein,4
 Orleans,Town of Shelby 4 LD 1,President,,GRE,Jill Stein,8
 Orleans,Town of Yates 1 LD 2,President,,GRE,Jill Stein,5
 Orleans,Town of Yates 2 LID 2,President,,GRE,Jill Stein,6
-Orleans,TOTAL,President,,GRE,Jill Stein,184
 Orleans,Town of Albion 1 LD 3,President,,WOR,Hillary Clinton,4
 Orleans,Town of Albion 2 LD 3,President,,WOR,Hillary Clinton,11
 Orleans,Town of Albion 3 LD 3,President,,WOR,Hillary Clinton,2
@@ -203,7 +199,6 @@ Orleans,Town of Shelby 3 LD 2,President,,WOR,Hillary Clinton,5
 Orleans,Town of Shelby 4 LD 1,President,,WOR,Hillary Clinton,4
 Orleans,Town of Yates 1 LD 2,President,,WOR,Hillary Clinton,5
 Orleans,Town of Yates 2 LID 2,President,,WOR,Hillary Clinton,0
-Orleans,TOTAL,President,,WOR,Hillary Clinton,150
 Orleans,Town of Albion 1 LD 3,President,,IND,Gary Johnson,8
 Orleans,Town of Albion 2 LD 3,President,,IND,Gary Johnson,15
 Orleans,Town of Albion 3 LD 3,President,,IND,Gary Johnson,8
@@ -244,7 +239,6 @@ Orleans,Town of Shelby 3 LD 2,President,,IND,Gary Johnson,9
 Orleans,Town of Shelby 4 LD 1,President,,IND,Gary Johnson,21
 Orleans,Town of Yates 1 LD 2,President,,IND,Gary Johnson,20
 Orleans,Town of Yates 2 LID 2,President,,IND,Gary Johnson,8
-Orleans,TOTAL,President,,IND,Gary Johnson,470
 Orleans,Town of Albion 1 LD 3,President,,WEP,Hillary Clinton,1
 Orleans,Town of Albion 2 LD 3,President,,WEP,Hillary Clinton,1
 Orleans,Town of Albion 3 LD 3,President,,WEP,Hillary Clinton,5
@@ -285,7 +279,6 @@ Orleans,Town of Shelby 3 LD 2,President,,WEP,Hillary Clinton,3
 Orleans,Town of Shelby 4 LD 1,President,,WEP,Hillary Clinton,5
 Orleans,Town of Yates 1 LD 2,President,,WEP,Hillary Clinton,1
 Orleans,Town of Yates 2 LID 2,President,,WEP,Hillary Clinton,0
-Orleans,TOTAL,President,,WEP,Hillary Clinton,81
 Orleans,Town of Albion 1 LD 3,President,,LIB,Gary Johnson,6
 Orleans,Town of Albion 2 LD 3,President,,LIB,Gary Johnson,5
 Orleans,Town of Albion 3 LD 3,President,,LIB,Gary Johnson,7
@@ -326,7 +319,6 @@ Orleans,Town of Shelby 3 LD 2,President,,LIB,Gary Johnson,6
 Orleans,Town of Shelby 4 LD 1,President,,LIB,Gary Johnson,4
 Orleans,Town of Yates 1 LD 2,President,,LIB,Gary Johnson,10
 Orleans,Town of Yates 2 LID 2,President,,LIB,Gary Johnson,4
-Orleans,TOTAL,President,,LIB,Gary Johnson,210
 Orleans,Town of Albion 1 LD 3,President,,,Darrell Castle,1
 Orleans,Town of Albion 2 LD 3,President,,,Darrell Castle,0
 Orleans,Town of Albion 3 LD 3,President,,,Darrell Castle,0
@@ -367,7 +359,6 @@ Orleans,Town of Shelby 3 LD 2,President,,,Darrell Castle,0
 Orleans,Town of Shelby 4 LD 1,President,,,Darrell Castle,0
 Orleans,Town of Yates 1 LD 2,President,,,Darrell Castle,0
 Orleans,Town of Yates 2 LID 2,President,,,Darrell Castle,0
-Orleans,TOTAL,President,,,Darrell Castle,4
 Orleans,Town of Albion 1 LD 3,President,,,Rocky De La Fuente,0
 Orleans,Town of Albion 2 LD 3,President,,,Rocky De La Fuente,0
 Orleans,Town of Albion 3 LD 3,President,,,Rocky De La Fuente,0
@@ -408,7 +399,6 @@ Orleans,Town of Shelby 3 LD 2,President,,,Rocky De La Fuente,0
 Orleans,Town of Shelby 4 LD 1,President,,,Rocky De La Fuente,0
 Orleans,Town of Yates 1 LD 2,President,,,Rocky De La Fuente,0
 Orleans,Town of Yates 2 LID 2,President,,,Rocky De La Fuente,0
-Orleans,TOTAL,President,,,Rocky De La Fuente,1
 Orleans,Town of Albion 1 LD 3,President,,,Ben Hartnell,0
 Orleans,Town of Albion 2 LD 3,President,,,Ben Hartnell,0
 Orleans,Town of Albion 3 LD 3,President,,,Ben Hartnell,1
@@ -449,7 +439,6 @@ Orleans,Town of Shelby 3 LD 2,President,,,Ben Hartnell,0
 Orleans,Town of Shelby 4 LD 1,President,,,Ben Hartnell,0
 Orleans,Town of Yates 1 LD 2,President,,,Ben Hartnell,0
 Orleans,Town of Yates 2 LID 2,President,,,Ben Hartnell,0
-Orleans,TOTAL,President,,,Ben Hartnell,1
 Orleans,Town of Albion 1 LD 3,President,,,Michael A. Maturen,0
 Orleans,Town of Albion 2 LD 3,President,,,Michael A. Maturen,0
 Orleans,Town of Albion 3 LD 3,President,,,Michael A. Maturen,0
@@ -490,7 +479,6 @@ Orleans,Town of Shelby 3 LD 2,President,,,Michael A. Maturen,2
 Orleans,Town of Shelby 4 LD 1,President,,,Michael A. Maturen,0
 Orleans,Town of Yates 1 LD 2,President,,,Michael A. Maturen,0
 Orleans,Town of Yates 2 LID 2,President,,,Michael A. Maturen,0
-Orleans,TOTAL,President,,,Michael A. Maturen,2
 Orleans,Town of Albion 1 LD 3,President,,,Evan McMullin,0
 Orleans,Town of Albion 2 LD 3,President,,,Evan McMullin,0
 Orleans,Town of Albion 3 LD 3,President,,,Evan McMullin,1
@@ -531,7 +519,6 @@ Orleans,Town of Shelby 3 LD 2,President,,,Evan McMullin,0
 Orleans,Town of Shelby 4 LD 1,President,,,Evan McMullin,0
 Orleans,Town of Yates 1 LD 2,President,,,Evan McMullin,2
 Orleans,Town of Yates 2 LID 2,President,,,Evan McMullin,0
-Orleans,TOTAL,President,,,Evan McMullin,23
 Orleans,Town of Albion 1 LD 3,President,,,Under Votes,5
 Orleans,Town of Albion 2 LD 3,President,,,Under Votes,5
 Orleans,Town of Albion 3 LD 3,President,,,Under Votes,3
@@ -572,7 +559,6 @@ Orleans,Town of Shelby 3 LD 2,President,,,Under Votes,8
 Orleans,Town of Shelby 4 LD 1,President,,,Under Votes,6
 Orleans,Town of Yates 1 LD 2,President,,,Under Votes,3
 Orleans,Town of Yates 2 LID 2,President,,,Under Votes,11
-Orleans,TOTAL,President,,,Under Votes,182
 Orleans,Town of Albion 1 LD 3,President,,,Over Votes,0
 Orleans,Town of Albion 2 LD 3,President,,,Over Votes,1
 Orleans,Town of Albion 3 LD 3,President,,,Over Votes,0
@@ -613,7 +599,6 @@ Orleans,Town of Shelby 3 LD 2,President,,,Over Votes,1
 Orleans,Town of Shelby 4 LD 1,President,,,Over Votes,0
 Orleans,Town of Yates 1 LD 2,President,,,Over Votes,0
 Orleans,Town of Yates 2 LID 2,President,,,Over Votes,0
-Orleans,TOTAL,President,,,Over Votes,7
 Orleans,Town of Albion 1 LD 3,President,,,Write-ins,0
 Orleans,Town of Albion 2 LD 3,President,,,Write-ins,6
 Orleans,Town of Albion 3 LD 3,President,,,Write-ins,0
@@ -654,7 +639,6 @@ Orleans,Town of Shelby 3 LD 2,President,,,Write-ins,3
 Orleans,Town of Shelby 4 LD 1,President,,,Write-ins,1
 Orleans,Town of Yates 1 LD 2,President,,,Write-ins,3
 Orleans,Town of Yates 2 LID 2,President,,,Write-ins,2
-Orleans,TOTAL,President,,,Write-ins,79
 Orleans,Town of Albion 1 LD 3,President,,,Special Votes,5
 Orleans,Town of Albion 2 LD 3,President,,,Special Votes,12
 Orleans,Town of Albion 3 LD 3,President,,,Special Votes,3
@@ -695,7 +679,6 @@ Orleans,Town of Shelby 3 LD 2,President,,,Special Votes,12
 Orleans,Town of Shelby 4 LD 1,President,,,Special Votes,7
 Orleans,Town of Yates 1 LD 2,President,,,Special Votes,6
 Orleans,Town of Yates 2 LID 2,President,,,Special Votes,13
-Orleans,TOTAL,President,,,Special Votes,268
 Orleans,Town of Albion 1 LD 3,U.S. Senate,,DEM,Charles E. Schumer,129
 Orleans,Town of Albion 2 LD 3,U.S. Senate,,DEM,Charles E. Schumer,210
 Orleans,Town of Albion 3 LD 3,U.S. Senate,,DEM,Charles E. Schumer,184
@@ -736,7 +719,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. Senate,,DEM,Charles E. Schumer,201
 Orleans,Town of Shelby 4 LD 1,U.S. Senate,,DEM,Charles E. Schumer,214
 Orleans,Town of Yates 1 LD 2,U.S. Senate,,DEM,Charles E. Schumer,204
 Orleans,Town of Yates 2 LID 2,U.S. Senate,,DEM,Charles E. Schumer,129
-Orleans,TOTAL,U.S. Senate,,DEM,Charles E. Schumer,6041
 Orleans,Town of Albion 1 LD 3,U.S. Senate,,REP,Wendy Long,125
 Orleans,Town of Albion 2 LD 3,U.S. Senate,,REP,Wendy Long,154
 Orleans,Town of Albion 3 LD 3,U.S. Senate,,REP,Wendy Long,110
@@ -777,7 +759,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. Senate,,REP,Wendy Long,112
 Orleans,Town of Shelby 4 LD 1,U.S. Senate,,REP,Wendy Long,225
 Orleans,Town of Yates 1 LD 2,U.S. Senate,,REP,Wendy Long,308
 Orleans,Town of Yates 2 LID 2,U.S. Senate,,REP,Wendy Long,267
-Orleans,TOTAL,U.S. Senate,,REP,Wendy Long,6946
 Orleans,Town of Albion 1 LD 3,U.S. Senate,,CON,Wendy Long,13
 Orleans,Town of Albion 2 LD 3,U.S. Senate,,CON,Wendy Long,24
 Orleans,Town of Albion 3 LD 3,U.S. Senate,,CON,Wendy Long,14
@@ -818,7 +799,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. Senate,,CON,Wendy Long,21
 Orleans,Town of Shelby 4 LD 1,U.S. Senate,,CON,Wendy Long,31
 Orleans,Town of Yates 1 LD 2,U.S. Senate,,CON,Wendy Long,71
 Orleans,Town of Yates 2 LID 2,U.S. Senate,,CON,Wendy Long,27
-Orleans,TOTAL,U.S. Senate,,CON,Wendy Long,1153
 Orleans,Town of Albion 1 LD 3,U.S. Senate,,GRE,Robin Laverne Wilson,4
 Orleans,Town of Albion 2 LD 3,U.S. Senate,,GRE,Robin Laverne Wilson,2
 Orleans,Town of Albion 3 LD 3,U.S. Senate,,GRE,Robin Laverne Wilson,3
@@ -859,7 +839,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. Senate,,GRE,Robin Laverne Wilson,1
 Orleans,Town of Shelby 4 LD 1,U.S. Senate,,GRE,Robin Laverne Wilson,8
 Orleans,Town of Yates 1 LD 2,U.S. Senate,,GRE,Robin Laverne Wilson,2
 Orleans,Town of Yates 2 LID 2,U.S. Senate,,GRE,Robin Laverne Wilson,4
-Orleans,TOTAL,U.S. Senate,,GRE,Robin Laverne Wilson,147
 Orleans,Town of Albion 1 LD 3,U.S. Senate,,WOR,Charles E. Schumer,13
 Orleans,Town of Albion 2 LD 3,U.S. Senate,,WOR,Charles E. Schumer,18
 Orleans,Town of Albion 3 LD 3,U.S. Senate,,WOR,Charles E. Schumer,6
@@ -900,7 +879,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. Senate,,WOR,Charles E. Schumer,13
 Orleans,Town of Shelby 4 LD 1,U.S. Senate,,WOR,Charles E. Schumer,17
 Orleans,Town of Yates 1 LD 2,U.S. Senate,,WOR,Charles E. Schumer,17
 Orleans,Town of Yates 2 LID 2,U.S. Senate,,WOR,Charles E. Schumer,12
-Orleans,TOTAL,U.S. Senate,,WOR,Charles E. Schumer,549
 Orleans,Town of Albion 1 LD 3,U.S. Senate,,IND,Charles E. Schumer,6
 Orleans,Town of Albion 2 LD 3,U.S. Senate,,IND,Charles E. Schumer,7
 Orleans,Town of Albion 3 LD 3,U.S. Senate,,IND,Charles E. Schumer,10
@@ -941,7 +919,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. Senate,,IND,Charles E. Schumer,10
 Orleans,Town of Shelby 4 LD 1,U.S. Senate,,IND,Charles E. Schumer,9
 Orleans,Town of Yates 1 LD 2,U.S. Senate,,IND,Charles E. Schumer,19
 Orleans,Town of Yates 2 LID 2,U.S. Senate,,IND,Charles E. Schumer,7
-Orleans,TOTAL,U.S. Senate,,IND,Charles E. Schumer,409
 Orleans,Town of Albion 1 LD 3,U.S. Senate,,WEP,Charles E. Schumer,2
 Orleans,Town of Albion 2 LD 3,U.S. Senate,,WEP,Charles E. Schumer,2
 Orleans,Town of Albion 3 LD 3,U.S. Senate,,WEP,Charles E. Schumer,2
@@ -982,7 +959,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. Senate,,WEP,Charles E. Schumer,3
 Orleans,Town of Shelby 4 LD 1,U.S. Senate,,WEP,Charles E. Schumer,6
 Orleans,Town of Yates 1 LD 2,U.S. Senate,,WEP,Charles E. Schumer,4
 Orleans,Town of Yates 2 LID 2,U.S. Senate,,WEP,Charles E. Schumer,0
-Orleans,TOTAL,U.S. Senate,,WEP,Charles E. Schumer,100
 Orleans,Town of Albion 1 LD 3,U.S. Senate,,REF,Charles E. Schumer,3
 Orleans,Town of Albion 2 LD 3,U.S. Senate,,REF,Charles E. Schumer,0
 Orleans,Town of Albion 3 LD 3,U.S. Senate,,REF,Charles E. Schumer,1
@@ -1023,7 +999,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. Senate,,REF,Charles E. Schumer,0
 Orleans,Town of Shelby 4 LD 1,U.S. Senate,,REF,Charles E. Schumer,1
 Orleans,Town of Yates 1 LD 2,U.S. Senate,,REF,Charles E. Schumer,1
 Orleans,Town of Yates 2 LID 2,U.S. Senate,,REF,Charles E. Schumer,3
-Orleans,TOTAL,U.S. Senate,,REF,Charles E. Schumer,49
 Orleans,Town of Albion 1 LD 3,U.S. Senate,,LIB,Alex Merced,5
 Orleans,Town of Albion 2 LD 3,U.S. Senate,,LIB,Alex Merced,5
 Orleans,Town of Albion 3 LD 3,U.S. Senate,,LIB,Alex Merced,3
@@ -1064,7 +1039,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. Senate,,LIB,Alex Merced,2
 Orleans,Town of Shelby 4 LD 1,U.S. Senate,,LIB,Alex Merced,5
 Orleans,Town of Yates 1 LD 2,U.S. Senate,,LIB,Alex Merced,6
 Orleans,Town of Yates 2 LID 2,U.S. Senate,,LIB,Alex Merced,4
-Orleans,TOTAL,U.S. Senate,,LIB,Alex Merced,154
 Orleans,Town of Albion 1 LD 3,U.S. Senate,,,Under Votes,18
 Orleans,Town of Albion 2 LD 3,U.S. Senate,,,Under Votes,34
 Orleans,Town of Albion 3 LD 3,U.S. Senate,,,Under Votes,32
@@ -1105,7 +1079,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. Senate,,,Under Votes,22
 Orleans,Town of Shelby 4 LD 1,U.S. Senate,,,Under Votes,39
 Orleans,Town of Yates 1 LD 2,U.S. Senate,,,Under Votes,39
 Orleans,Town of Yates 2 LID 2,U.S. Senate,,,Under Votes,28
-Orleans,TOTAL,U.S. Senate,,,Under Votes,996
 Orleans,Town of Albion 1 LD 3,U.S. Senate,,,Over Votes,0
 Orleans,Town of Albion 2 LD 3,U.S. Senate,,,Over Votes,0
 Orleans,Town of Albion 3 LD 3,U.S. Senate,,,Over Votes,1
@@ -1146,7 +1119,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. Senate,,,Over Votes,2
 Orleans,Town of Shelby 4 LD 1,U.S. Senate,,,Over Votes,0
 Orleans,Town of Yates 1 LD 2,U.S. Senate,,,Over Votes,0
 Orleans,Town of Yates 2 LID 2,U.S. Senate,,,Over Votes,0
-Orleans,TOTAL,U.S. Senate,,,Over Votes,19
 Orleans,Town of Albion 1 LD 3,U.S. Senate,,,Write-ins,0
 Orleans,Town of Albion 2 LD 3,U.S. Senate,,,Write-ins,0
 Orleans,Town of Albion 3 LD 3,U.S. Senate,,,Write-ins,0
@@ -1187,7 +1159,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. Senate,,,Write-ins,0
 Orleans,Town of Shelby 4 LD 1,U.S. Senate,,,Write-ins,0
 Orleans,Town of Yates 1 LD 2,U.S. Senate,,,Write-ins,0
 Orleans,Town of Yates 2 LID 2,U.S. Senate,,,Write-ins,0
-Orleans,TOTAL,U.S. Senate,,,Write-ins,4
 Orleans,Town of Albion 1 LD 3,U.S. Senate,,,Special Votes,18
 Orleans,Town of Albion 2 LD 3,U.S. Senate,,,Special Votes,34
 Orleans,Town of Albion 3 LD 3,U.S. Senate,,,Special Votes,33
@@ -1228,7 +1199,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. Senate,,,Special Votes,24
 Orleans,Town of Shelby 4 LD 1,U.S. Senate,,,Special Votes,39
 Orleans,Town of Yates 1 LD 2,U.S. Senate,,,Special Votes,39
 Orleans,Town of Yates 2 LID 2,U.S. Senate,,,Special Votes,28
-Orleans,TOTAL,U.S. Senate,,,Special Votes,1019
 Orleans,Town of Albion 1 LD 3,U.S. House,27,DEM,Diana K. Kastenbaum,102
 Orleans,Town of Albion 2 LD 3,U.S. House,27,DEM,Diana K. Kastenbaum,159
 Orleans,Town of Albion 3 LD 3,U.S. House,27,DEM,Diana K. Kastenbaum,116
@@ -1269,7 +1239,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. House,27,DEM,Diana K. Kastenbaum,115
 Orleans,Town of Shelby 4 LD 1,U.S. House,27,DEM,Diana K. Kastenbaum,135
 Orleans,Town of Yates 1 LD 2,U.S. House,27,DEM,Diana K. Kastenbaum,123
 Orleans,Town of Yates 2 LID 2,U.S. House,27,DEM,Diana K. Kastenbaum,85
-Orleans,TOTAL,U.S. House,27,DEM,Diana K. Kastenbaum,3906
 Orleans,Town of Albion 1 LD 3,U.S. House,27,REP,Chris Collins,163
 Orleans,Town of Albion 2 LD 3,U.S. House,27,REP,Chris Collins,213
 Orleans,Town of Albion 3 LD 3,U.S. House,27,REP,Chris Collins,160
@@ -1310,7 +1279,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. House,27,REP,Chris Collins,182
 Orleans,Town of Shelby 4 LD 1,U.S. House,27,REP,Chris Collins,319
 Orleans,Town of Yates 1 LD 2,U.S. House,27,REP,Chris Collins,393
 Orleans,Town of Yates 2 LID 2,U.S. House,27,REP,Chris Collins,315
-Orleans,TOTAL,U.S. House,27,REP,Chris Collins,9204
 Orleans,Town of Albion 1 LD 3,U.S. House,27,CON,Chris Collins,22
 Orleans,Town of Albion 2 LD 3,U.S. House,27,CON,Chris Collins,27
 Orleans,Town of Albion 3 LD 3,U.S. House,27,CON,Chris Collins,22
@@ -1351,7 +1319,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. House,27,CON,Chris Collins,31
 Orleans,Town of Shelby 4 LD 1,U.S. House,27,CON,Chris Collins,35
 Orleans,Town of Yates 1 LD 2,U.S. House,27,CON,Chris Collins,90
 Orleans,Town of Yates 2 LID 2,U.S. House,27,CON,Chris Collins,32
-Orleans,TOTAL,U.S. House,27,CON,Chris Collins,1381
 Orleans,Town of Albion 1 LD 3,U.S. House,27,IND,Chris Collins,4
 Orleans,Town of Albion 2 LD 3,U.S. House,27,IND,Chris Collins,14
 Orleans,Town of Albion 3 LD 3,U.S. House,27,IND,Chris Collins,8
@@ -1392,7 +1359,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. House,27,IND,Chris Collins,15
 Orleans,Town of Shelby 4 LD 1,U.S. House,27,IND,Chris Collins,14
 Orleans,Town of Yates 1 LD 2,U.S. House,27,IND,Chris Collins,16
 Orleans,Town of Yates 2 LID 2,U.S. House,27,IND,Chris Collins,7
-Orleans,TOTAL,U.S. House,27,IND,Chris Collins,393
 Orleans,Town of Albion 1 LD 3,U.S. House,27,REF,Chris Collins,0
 Orleans,Town of Albion 2 LD 3,U.S. House,27,REF,Chris Collins,1
 Orleans,Town of Albion 3 LD 3,U.S. House,27,REF,Chris Collins,1
@@ -1433,7 +1399,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. House,27,REF,Chris Collins,2
 Orleans,Town of Shelby 4 LD 1,U.S. House,27,REF,Chris Collins,2
 Orleans,Town of Yates 1 LD 2,U.S. House,27,REF,Chris Collins,0
 Orleans,Town of Yates 2 LID 2,U.S. House,27,REF,Chris Collins,1
-Orleans,TOTAL,U.S. House,27,REF,Chris Collins,50
 Orleans,Town of Albion 1 LD 3,U.S. House,27,,Under Votes,27
 Orleans,Town of Albion 2 LD 3,U.S. House,27,,Under Votes,42
 Orleans,Town of Albion 3 LD 3,U.S. House,27,,Under Votes,59
@@ -1474,7 +1439,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. House,27,,Under Votes,40
 Orleans,Town of Shelby 4 LD 1,U.S. House,27,,Under Votes,50
 Orleans,Town of Yates 1 LD 2,U.S. House,27,,Under Votes,49
 Orleans,Town of Yates 2 LID 2,U.S. House,27,,Under Votes,40
-Orleans,TOTAL,U.S. House,27,,Under Votes,1621
 Orleans,Town of Albion 1 LD 3,U.S. House,27,,Over Votes,0
 Orleans,Town of Albion 2 LD 3,U.S. House,27,,Over Votes,0
 Orleans,Town of Albion 3 LD 3,U.S. House,27,,Over Votes,0
@@ -1515,7 +1479,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. House,27,,Over Votes,2
 Orleans,Town of Shelby 4 LD 1,U.S. House,27,,Over Votes,0
 Orleans,Town of Yates 1 LD 2,U.S. House,27,,Over Votes,0
 Orleans,Town of Yates 2 LID 2,U.S. House,27,,Over Votes,0
-Orleans,TOTAL,U.S. House,27,,Over Votes,8
 Orleans,Town of Albion 1 LD 3,U.S. House,27,,Write-ins,0
 Orleans,Town of Albion 2 LD 3,U.S. House,27,,Write-ins,0
 Orleans,Town of Albion 3 LD 3,U.S. House,27,,Write-ins,0
@@ -1556,7 +1519,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. House,27,,Write-ins,0
 Orleans,Town of Shelby 4 LD 1,U.S. House,27,,Write-ins,0
 Orleans,Town of Yates 1 LD 2,U.S. House,27,,Write-ins,0
 Orleans,Town of Yates 2 LID 2,U.S. House,27,,Write-ins,1
-Orleans,TOTAL,U.S. House,27,,Write-ins,6
 Orleans,Town of Albion 1 LD 3,U.S. House,27,,Special Votes,27
 Orleans,Town of Albion 2 LD 3,U.S. House,27,,Special Votes,42
 Orleans,Town of Albion 3 LD 3,U.S. House,27,,Special Votes,59
@@ -1597,7 +1559,6 @@ Orleans,Town of Shelby 3 LD 2,U.S. House,27,,Special Votes,42
 Orleans,Town of Shelby 4 LD 1,U.S. House,27,,Special Votes,50
 Orleans,Town of Yates 1 LD 2,U.S. House,27,,Special Votes,49
 Orleans,Town of Yates 2 LID 2,U.S. House,27,,Special Votes,41
-Orleans,TOTAL,U.S. House,27,,Special Votes,1635
 Orleans,Town of Albion 1 LD 3,State Senate,62,REP,Robert G. Ortt,176
 Orleans,Town of Albion 2 LD 3,State Senate,62,REP,Robert G. Ortt,254
 Orleans,Town of Albion 3 LD 3,State Senate,62,REP,Robert G. Ortt,193
@@ -1638,7 +1599,6 @@ Orleans,Town of Shelby 3 LD 2,State Senate,62,REP,Robert G. Ortt,213
 Orleans,Town of Shelby 4 LD 1,State Senate,62,REP,Robert G. Ortt,345
 Orleans,Town of Yates 1 LD 2,State Senate,62,REP,Robert G. Ortt,430
 Orleans,Town of Yates 2 LID 2,State Senate,62,REP,Robert G. Ortt,330
-Orleans,TOTAL,State Senate,62,REP,Robert G. Ortt,10078
 Orleans,Town of Albion 1 LD 3,State Senate,62,CON,Robert G. Ortt,28
 Orleans,Town of Albion 2 LD 3,State Senate,62,CON,Robert G. Ortt,36
 Orleans,Town of Albion 3 LD 3,State Senate,62,CON,Robert G. Ortt,22
@@ -1679,7 +1639,6 @@ Orleans,Town of Shelby 3 LD 2,State Senate,62,CON,Robert G. Ortt,38
 Orleans,Town of Shelby 4 LD 1,State Senate,62,CON,Robert G. Ortt,47
 Orleans,Town of Yates 1 LD 2,State Senate,62,CON,Robert G. Ortt,86
 Orleans,Town of Yates 2 LID 2,State Senate,62,CON,Robert G. Ortt,31
-Orleans,TOTAL,State Senate,62,CON,Robert G. Ortt,1508
 Orleans,Town of Albion 1 LD 3,State Senate,62,IND,Robert G. Ortt,21
 Orleans,Town of Albion 2 LD 3,State Senate,62,IND,Robert G. Ortt,21
 Orleans,Town of Albion 3 LD 3,State Senate,62,IND,Robert G. Ortt,15
@@ -1720,7 +1679,6 @@ Orleans,Town of Shelby 3 LD 2,State Senate,62,IND,Robert G. Ortt,18
 Orleans,Town of Shelby 4 LD 1,State Senate,62,IND,Robert G. Ortt,17
 Orleans,Town of Yates 1 LD 2,State Senate,62,IND,Robert G. Ortt,32
 Orleans,Town of Yates 2 LID 2,State Senate,62,IND,Robert G. Ortt,17
-Orleans,TOTAL,State Senate,62,IND,Robert G. Ortt,744
 Orleans,Town of Albion 1 LD 3,State Senate,62,REF,Robert G. Ortt,1
 Orleans,Town of Albion 2 LD 3,State Senate,62,REF,Robert G. Ortt,2
 Orleans,Town of Albion 3 LD 3,State Senate,62,REF,Robert G. Ortt,3
@@ -1761,7 +1719,6 @@ Orleans,Town of Shelby 3 LD 2,State Senate,62,REF,Robert G. Ortt,2
 Orleans,Town of Shelby 4 LD 1,State Senate,62,REF,Robert G. Ortt,3
 Orleans,Town of Yates 1 LD 2,State Senate,62,REF,Robert G. Ortt,4
 Orleans,Town of Yates 2 LID 2,State Senate,62,REF,Robert G. Ortt,0
-Orleans,TOTAL,State Senate,62,REF,Robert G. Ortt,96
 Orleans,Town of Albion 1 LD 3,State Senate,62,,Under Votes,91
 Orleans,Town of Albion 2 LD 3,State Senate,62,,Under Votes,143
 Orleans,Town of Albion 3 LD 3,State Senate,62,,Under Votes,133
@@ -1802,7 +1759,6 @@ Orleans,Town of Shelby 3 LD 2,State Senate,62,,Under Votes,115
 Orleans,Town of Shelby 4 LD 1,State Senate,62,,Under Votes,143
 Orleans,Town of Yates 1 LD 2,State Senate,62,,Under Votes,117
 Orleans,Town of Yates 2 LID 2,State Senate,62,,Under Votes,103
-Orleans,TOTAL,State Senate,62,,Under Votes,4121
 Orleans,Town of Albion 1 LD 3,State Senate,62,,Over Votes,0
 Orleans,Town of Albion 2 LD 3,State Senate,62,,Over Votes,0
 Orleans,Town of Albion 3 LD 3,State Senate,62,,Over Votes,0
@@ -1843,7 +1799,6 @@ Orleans,Town of Shelby 3 LD 2,State Senate,62,,Over Votes,1
 Orleans,Town of Shelby 4 LD 1,State Senate,62,,Over Votes,0
 Orleans,Town of Yates 1 LD 2,State Senate,62,,Over Votes,0
 Orleans,Town of Yates 2 LID 2,State Senate,62,,Over Votes,0
-Orleans,TOTAL,State Senate,62,,Over Votes,4
 Orleans,Town of Albion 1 LD 3,State Senate,62,,Write-ins,1
 Orleans,Town of Albion 2 LD 3,State Senate,62,,Write-ins,0
 Orleans,Town of Albion 3 LD 3,State Senate,62,,Write-ins,0
@@ -1884,7 +1839,6 @@ Orleans,Town of Shelby 3 LD 2,State Senate,62,,Write-ins,0
 Orleans,Town of Shelby 4 LD 1,State Senate,62,,Write-ins,0
 Orleans,Town of Yates 1 LD 2,State Senate,62,,Write-ins,2
 Orleans,Town of Yates 2 LID 2,State Senate,62,,Write-ins,0
-Orleans,TOTAL,State Senate,62,,Write-ins,18
 Orleans,Town of Albion 1 LD 3,State Senate,62,,Special Votes,92
 Orleans,Town of Albion 2 LD 3,State Senate,62,,Special Votes,143
 Orleans,Town of Albion 3 LD 3,State Senate,62,,Special Votes,133
@@ -1925,7 +1879,6 @@ Orleans,Town of Shelby 3 LD 2,State Senate,62,,Special Votes,116
 Orleans,Town of Shelby 4 LD 1,State Senate,62,,Special Votes,143
 Orleans,Town of Yates 1 LD 2,State Senate,62,,Special Votes,119
 Orleans,Town of Yates 2 LID 2,State Senate,62,,Special Votes,103
-Orleans,TOTAL,State Senate,62,,Special Votes,4143
 Orleans,Town of Albion 1 LD 3,State Assembly,139,REP,Stephen M. Hawley,191
 Orleans,Town of Albion 2 LD 3,State Assembly,139,REP,Stephen M. Hawley,267
 Orleans,Town of Albion 3 LD 3,State Assembly,139,REP,Stephen M. Hawley,211
@@ -1962,7 +1915,6 @@ Orleans,Town of Ridgeway 6 LD 2,State Assembly,139,REP,Stephen M. Hawley,295
 Orleans,Town of Ridgeway 7 LD 2,State Assembly,139,REP,Stephen M. Hawley,228
 Orleans,Town of Yates 1 LD 2,State Assembly,139,REP,Stephen M. Hawley,430
 Orleans,Town of Yates 2 LD 2,State Assembly,139,REP,Stephen M. Hawley,339
-Orleans,TOTAL,State Assembly,139,REP,Stephen M. Hawley,9342
 Orleans,Town of Albion 1 LD 3,State Assembly,139,CON,Stephen M. Hawley,33
 Orleans,Town of Albion 2 LD 3,State Assembly,139,CON,Stephen M. Hawley,31
 Orleans,Town of Albion 3 LD 3,State Assembly,139,CON,Stephen M. Hawley,24
@@ -1999,7 +1951,6 @@ Orleans,Town of Ridgeway 6 LD 2,State Assembly,139,CON,Stephen M. Hawley,35
 Orleans,Town of Ridgeway 7 LD 2,State Assembly,139,CON,Stephen M. Hawley,34
 Orleans,Town of Yates 1 LD 2,State Assembly,139,CON,Stephen M. Hawley,89
 Orleans,Town of Yates 2 LD 2,State Assembly,139,CON,Stephen M. Hawley,36
-Orleans,TOTAL,State Assembly,139,CON,Stephen M. Hawley,1385
 Orleans,Town of Albion 1 LD 3,State Assembly,139,IND,Stephen M. Hawley,17
 Orleans,Town of Albion 2 LD 3,State Assembly,139,IND,Stephen M. Hawley,22
 Orleans,Town of Albion 3 LD 3,State Assembly,139,IND,Stephen M. Hawley,16
@@ -2036,7 +1987,6 @@ Orleans,Town of Ridgeway 6 LD 2,State Assembly,139,IND,Stephen M. Hawley,22
 Orleans,Town of Ridgeway 7 LD 2,State Assembly,139,IND,Stephen M. Hawley,14
 Orleans,Town of Yates 1 LD 2,State Assembly,139,IND,Stephen M. Hawley,30
 Orleans,Town of Yates 2 LD 2,State Assembly,139,IND,Stephen M. Hawley,17
-Orleans,TOTAL,State Assembly,139,IND,Stephen M. Hawley,704
 Orleans,Town of Albion 1 LD 3,State Assembly,139,REF,Stephen M. Hawley,2
 Orleans,Town of Albion 2 LD 3,State Assembly,139,REF,Stephen M. Hawley,3
 Orleans,Town of Albion 3 LD 3,State Assembly,139,REF,Stephen M. Hawley,4
@@ -2073,7 +2023,6 @@ Orleans,Town of Ridgeway 6 LD 2,State Assembly,139,REF,Stephen M. Hawley,2
 Orleans,Town of Ridgeway 7 LD 2,State Assembly,139,REF,Stephen M. Hawley,1
 Orleans,Town of Yates 1 LD 2,State Assembly,139,REF,Stephen M. Hawley,4
 Orleans,Town of Yates 2 LD 2,State Assembly,139,REF,Stephen M. Hawley,1
-Orleans,TOTAL,State Assembly,139,REF,Stephen M. Hawley,99
 Orleans,Town of Albion 1 LD 3,State Assembly,139,,Under Votes,75
 Orleans,Town of Albion 2 LD 3,State Assembly,139,,Under Votes,133
 Orleans,Town of Albion 3 LD 3,State Assembly,139,,Under Votes,111
@@ -2110,7 +2059,6 @@ Orleans,Town of Ridgeway 6 LD 2,State Assembly,139,,Under Votes,98
 Orleans,Town of Ridgeway 7 LD 2,State Assembly,139,,Under Votes,57
 Orleans,Town of Yates 1 LD 2,State Assembly,139,,Under Votes,118
 Orleans,Town of Yates 2 LD 2,State Assembly,139,,Under Votes,88
-Orleans,TOTAL,State Assembly,139,,Under Votes,3048
 Orleans,Town of Albion 1 LD 3,State Assembly,139,,Over Votes,0
 Orleans,Town of Albion 2 LD 3,State Assembly,139,,Over Votes,0
 Orleans,Town of Albion 3 LD 3,State Assembly,139,,Over Votes,0
@@ -2147,7 +2095,6 @@ Orleans,Town of Ridgeway 6 LD 2,State Assembly,139,,Over Votes,0
 Orleans,Town of Ridgeway 7 LD 2,State Assembly,139,,Over Votes,0
 Orleans,Town of Yates 1 LD 2,State Assembly,139,,Over Votes,0
 Orleans,Town of Yates 2 LD 2,State Assembly,139,,Over Votes,0
-Orleans,TOTAL,State Assembly,139,,Over Votes,3
 Orleans,Town of Albion 1 LD 3,State Assembly,139,,Write-ins,0
 Orleans,Town of Albion 2 LD 3,State Assembly,139,,Write-ins,0
 Orleans,Town of Albion 3 LD 3,State Assembly,139,,Write-ins,0
@@ -2184,7 +2131,6 @@ Orleans,Town of Ridgeway 6 LD 2,State Assembly,139,,Write-ins,0
 Orleans,Town of Ridgeway 7 LD 2,State Assembly,139,,Write-ins,0
 Orleans,Town of Yates 1 LD 2,State Assembly,139,,Write-ins,0
 Orleans,Town of Yates 2 LD 2,State Assembly,139,,Write-ins,0
-Orleans,TOTAL,State Assembly,139,,Write-ins,13
 Orleans,Town of Albion 1 LD 3,State Assembly,139,,Special Votes,75
 Orleans,Town of Albion 2 LD 3,State Assembly,139,,Special Votes,133
 Orleans,Town of Albion 3 LD 3,State Assembly,139,,Special Votes,111
@@ -2221,32 +2167,26 @@ Orleans,Town of Ridgeway 6 LD 2,State Assembly,139,,Special Votes,98
 Orleans,Town of Ridgeway 7 LD 2,State Assembly,139,,Special Votes,57
 Orleans,Town of Yates 1 LD 2,State Assembly,139,,Special Votes,118
 Orleans,Town of Yates 2 LD 2,State Assembly,139,,Special Votes,88
-Orleans,TOTAL,State Assembly,139,,Special Votes,3064
 Orleans,Town of Shelby 1 LD 1,State Assembly,144,REP,Michael J. Norris,303
 Orleans,Town of Shelby 2 LD 1,State Assembly,144,REP,Michael J. Norris,313
 Orleans,Town of Shelby 3 LD 2,State Assembly,144,REP,Michael J. Norris,223
 Orleans,Town of Shelby 4 LD 1,State Assembly,144,REP,Michael J. Norris,354
-Orleans,TOTAL,State Assembly,144,REP,Michael J. Norris,1193
 Orleans,Town of Shelby 1 LD 1,State Assembly,144,IND,Michael J. Norris,26
 Orleans,Town of Shelby 2 LD 1,State Assembly,144,IND,Michael J. Norris,36
 Orleans,Town of Shelby 3 LD 2,State Assembly,144,IND,Michael J. Norris,21
 Orleans,Town of Shelby 4 LD 1,State Assembly,144,IND,Michael J. Norris,29
-Orleans,TOTAL,State Assembly,144,IND,Michael J. Norris,112
 Orleans,Town of Shelby 1 LD 1,State Assembly,144,,Under Votes,164
 Orleans,Town of Shelby 2 LD 1,State Assembly,144,,Under Votes,191
 Orleans,Town of Shelby 3 LD 2,State Assembly,144,,Under Votes,143
 Orleans,Town of Shelby 4 LD 1,State Assembly,144,,Under Votes,172
-Orleans,TOTAL,State Assembly,144,,Under Votes,670
 Orleans,Town of Shelby 1 LD 1,State Assembly,144,,Over Votes,0
 Orleans,Town of Shelby 2 LD 1,State Assembly,144,,Over Votes,0
 Orleans,Town of Shelby 3 LD 2,State Assembly,144,,Over Votes,0
 Orleans,Town of Shelby 4 LD 1,State Assembly,144,,Over Votes,0
-Orleans,TOTAL,State Assembly,144,,Over Votes,0
 Orleans,Town of Shelby 1 LD 1,State Assembly,144,,Write-ins,0
 Orleans,Town of Shelby 2 LD 1,State Assembly,144,,Write-ins,0
 Orleans,Town of Shelby 3 LD 2,State Assembly,144,,Write-ins,0
 Orleans,Town of Shelby 4 LD 1,State Assembly,144,,Write-ins,0
-Orleans,TOTAL,State Assembly,144,,Write-ins,0
 Orleans,Town of Shelby 1 LD 1,State Assembly,144,,Special Votes,164
 Orleans,Town of Shelby 2 LD 1,State Assembly,144,,Special Votes,191
 Orleans,Town of Shelby 3 LD 2,State Assembly,144,,Special Votes,143
