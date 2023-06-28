@@ -1,5 +1,5 @@
 county,precinct,office,district,party,candidate,election_day,early_voting,absentee,hand_tally,votes
-Tompkins,Ithaca City 1 -1,Governor,,DEM,Kathy C. Hochul,288,132,43,4,467
+Tompkins,Ithaca City 1-1,Governor,,DEM,Kathy C. Hochul,288,132,43,4,467
 Tompkins,Ithaca City 1-2,Governor,,DEM,Kathy C. Hochul,79,55,25,3,162
 Tompkins,Ithaca City 1-3,Governor,,DEM,Kathy C. Hochul,268,128,48,4,448
 Tompkins,Ithaca City 2-1,Governor,,DEM,Kathy C. Hochul,187,97,34,1,319
@@ -61,7 +61,7 @@ Tompkins,Ulysses 1,Governor,,DEM,Kathy C. Hochul,361,44,46,6,457
 Tompkins,Ulysses 2,Governor,,DEM,Kathy C. Hochul,264,44,16,2,326
 Tompkins,Ulysses 3,Governor,,DEM,Kathy C. Hochul,370,33,23,0,426
 Tompkins,Ulysses 4,Governor,,DEM,Kathy C. Hochul,356,69,34,6,465
-Tompkins,Ithaca City 1 -1,Governor,,REP,Lee Zeldin,61,7,6,0,74
+Tompkins,Ithaca City 1-1,Governor,,REP,Lee Zeldin,61,7,6,0,74
 Tompkins,Ithaca City 1-2,Governor,,REP,Lee Zeldin,26,7,12,0,45
 Tompkins,Ithaca City 1-3,Governor,,REP,Lee Zeldin,34,9,5,0,48
 Tompkins,Ithaca City 2-1,Governor,,REP,Lee Zeldin,22,8,2,0,32
@@ -123,7 +123,7 @@ Tompkins,Ulysses 1,Governor,,REP,Lee Zeldin,118,8,9,1,136
 Tompkins,Ulysses 2,Governor,,REP,Lee Zeldin,168,8,6,2,184
 Tompkins,Ulysses 3,Governor,,REP,Lee Zeldin,93,4,5,1,103
 Tompkins,Ulysses 4,Governor,,REP,Lee Zeldin,132,8,15,0,155
-Tompkins,Ithaca City 1 -1,Governor,,CON,Lee Zeldin,11,0,0,0,11
+Tompkins,Ithaca City 1-1,Governor,,CON,Lee Zeldin,11,0,0,0,11
 Tompkins,Ithaca City 1-2,Governor,,CON,Lee Zeldin,2,1,0,0,3
 Tompkins,Ithaca City 1-3,Governor,,CON,Lee Zeldin,5,1,1,0,7
 Tompkins,Ithaca City 2-1,Governor,,CON,Lee Zeldin,10,0,0,0,10
@@ -185,7 +185,7 @@ Tompkins,Ulysses 1,Governor,,CON,Lee Zeldin,13,1,1,0,15
 Tompkins,Ulysses 2,Governor,,CON,Lee Zeldin,20,1,0,0,21
 Tompkins,Ulysses 3,Governor,,CON,Lee Zeldin,7,0,0,0,7
 Tompkins,Ulysses 4,Governor,,CON,Lee Zeldin,13,0,1,0,14
-Tompkins,Ithaca City 1 -1,Governor,,DEM,Kathy C. Hochul,139,34,5,1,179
+Tompkins,Ithaca City 1-1,Governor,,DEM,Kathy C. Hochul,139,34,5,1,179
 Tompkins,Ithaca City 1-2,Governor,,DEM,Kathy C. Hochul,29,13,0,0,42
 Tompkins,Ithaca City 1-3,Governor,,DEM,Kathy C. Hochul,106,54,10,0,170
 Tompkins,Ithaca City 2-1,Governor,,DEM,Kathy C. Hochul,117,53,15,1,186
@@ -247,7 +247,7 @@ Tompkins,Ulysses 1,Governor,,DEM,Kathy C. Hochul,58,12,3,0,73
 Tompkins,Ulysses 2,Governor,,DEM,Kathy C. Hochul,58,15,4,1,78
 Tompkins,Ulysses 3,Governor,,DEM,Kathy C. Hochul,78,15,2,1,96
 Tompkins,Ulysses 4,Governor,,DEM,Kathy C. Hochul,67,6,8,0,81
-Tompkins,Ithaca City 1 -1,Governor,,,Undervotes,5,0,0,0,5
+Tompkins,Ithaca City 1-1,Governor,,,Undervotes,5,0,0,0,5
 Tompkins,Ithaca City 1-2,Governor,,,Undervotes,1,0,0,0,1
 Tompkins,Ithaca City 1-3,Governor,,,Undervotes,3,0,0,0,3
 Tompkins,Ithaca City 2-1,Governor,,,Undervotes,3,1,0,0,4
@@ -309,7 +309,7 @@ Tompkins,Ulysses 1,Governor,,,Undervotes,0,0,1,0,1
 Tompkins,Ulysses 2,Governor,,,Undervotes,5,0,1,0,6
 Tompkins,Ulysses 3,Governor,,,Undervotes,5,1,0,0,6
 Tompkins,Ulysses 4,Governor,,,Undervotes,4,0,0,0,4
-Tompkins,Ithaca City 1 -1,Governor,,,Overvotes,0,0,0,0,0
+Tompkins,Ithaca City 1-1,Governor,,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 1-2,Governor,,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 1-3,Governor,,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 2-1,Governor,,,Overvotes,0,0,0,0,0
@@ -371,7 +371,7 @@ Tompkins,Ulysses 1,Governor,,,Overvotes,0,0,0,0,0
 Tompkins,Ulysses 2,Governor,,,Overvotes,0,0,0,1,1
 Tompkins,Ulysses 3,Governor,,,Overvotes,0,0,0,0,0
 Tompkins,Ulysses 4,Governor,,,Overvotes,0,0,0,0,0
-Tompkins,Ithaca City 1 -1,Governor,,,Write-Ins,1,1,0,0,2
+Tompkins,Ithaca City 1-1,Governor,,,Write-Ins,1,1,0,0,2
 Tompkins,Ithaca City 1-2,Governor,,,Write-Ins,1,0,0,0,1
 Tompkins,Ithaca City 1-3,Governor,,,Write-Ins,1,0,0,0,1
 Tompkins,Ithaca City 2-1,Governor,,,Write-Ins,0,0,0,2,2
@@ -433,7 +433,7 @@ Tompkins,Ulysses 1,Governor,,,Write-Ins,2,0,0,0,2
 Tompkins,Ulysses 2,Governor,,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 3,Governor,,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 4,Governor,,,Write-Ins,2,0,0,0,2
-Tompkins,Ithaca City 1 -1,Comptroller,,DEM,Thomas P. DiNapoli,288,135,43,4,470
+Tompkins,Ithaca City 1-1,Comptroller,,DEM,Thomas P. DiNapoli,288,135,43,4,470
 Tompkins,Ithaca City 1-2,Comptroller,,DEM,Thomas P. DiNapoli,78,55,25,2,160
 Tompkins,Ithaca City 1-3,Comptroller,,DEM,Thomas P. DiNapoli,267,126,47,4,444
 Tompkins,Ithaca City 2-1,Comptroller,,DEM,Thomas P. DiNapoli,180,99,33,1,313
@@ -495,7 +495,7 @@ Tompkins,Ulysses 1,Comptroller,,DEM,Thomas P. DiNapoli,366,44,46,6,462
 Tompkins,Ulysses 2,Comptroller,,DEM,Thomas P. DiNapoli,274,43,16,1,334
 Tompkins,Ulysses 3,Comptroller,,DEM,Thomas P. DiNapoli,369,34,26,0,429
 Tompkins,Ulysses 4,Comptroller,,DEM,Thomas P. DiNapoli,368,67,35,6,476
-Tompkins,Ithaca City 1 -1,Comptroller,,REP,Paul Rodriguez,59,5,4,0,68
+Tompkins,Ithaca City 1-1,Comptroller,,REP,Paul Rodriguez,59,5,4,0,68
 Tompkins,Ithaca City 1-2,Comptroller,,REP,Paul Rodriguez,23,6,11,0,40
 Tompkins,Ithaca City 1-3,Comptroller,,REP,Paul Rodriguez,30,8,7,0,45
 Tompkins,Ithaca City 2-1,Comptroller,,REP,Paul Rodriguez,25,8,1,0,34
@@ -557,7 +557,7 @@ Tompkins,Ulysses 1,Comptroller,,REP,Paul Rodriguez,108,9,10,1,128
 Tompkins,Ulysses 2,Comptroller,,REP,Paul Rodriguez,148,6,6,2,162
 Tompkins,Ulysses 3,Comptroller,,REP,Paul Rodriguez,88,3,2,1,94
 Tompkins,Ulysses 4,Comptroller,,REP,Paul Rodriguez,120,6,12,0,138
-Tompkins,Ithaca City 1 -1,Comptroller,,CON,Paul Rodriguez,9,0,1,0,10
+Tompkins,Ithaca City 1-1,Comptroller,,CON,Paul Rodriguez,9,0,1,0,10
 Tompkins,Ithaca City 1-2,Comptroller,,CON,Paul Rodriguez,3,1,0,0,4
 Tompkins,Ithaca City 1-3,Comptroller,,CON,Paul Rodriguez,7,1,0,0,8
 Tompkins,Ithaca City 2-1,Comptroller,,CON,Paul Rodriguez,6,0,0,0,6
@@ -619,7 +619,7 @@ Tompkins,Ulysses 1,Comptroller,,CON,Paul Rodriguez,13,0,0,0,13
 Tompkins,Ulysses 2,Comptroller,,CON,Paul Rodriguez,21,2,0,0,23
 Tompkins,Ulysses 3,Comptroller,,CON,Paul Rodriguez,7,0,1,0,8
 Tompkins,Ulysses 4,Comptroller,,CON,Paul Rodriguez,14,1,1,0,16
-Tompkins,Ithaca City 1 -1,Comptroller,,DEM,Thomas P. DiNapoli,132,34,6,1,173
+Tompkins,Ithaca City 1-1,Comptroller,,DEM,Thomas P. DiNapoli,132,34,6,1,173
 Tompkins,Ithaca City 1-2,Comptroller,,DEM,Thomas P. DiNapoli,31,14,1,0,46
 Tompkins,Ithaca City 1-3,Comptroller,,DEM,Thomas P. DiNapoli,104,53,8,0,165
 Tompkins,Ithaca City 2-1,Comptroller,,DEM,Thomas P. DiNapoli,122,50,17,1,190
@@ -681,7 +681,7 @@ Tompkins,Ulysses 1,Comptroller,,DEM,Thomas P. DiNapoli,60,12,3,0,75
 Tompkins,Ulysses 2,Comptroller,,DEM,Thomas P. DiNapoli,60,17,4,2,83
 Tompkins,Ulysses 3,Comptroller,,DEM,Thomas P. DiNapoli,77,16,1,1,95
 Tompkins,Ulysses 4,Comptroller,,DEM,Thomas P. DiNapoli,67,8,8,0,83
-Tompkins,Ithaca City 1 -1,Comptroller,,,Undervotes,17,0,0,0,17
+Tompkins,Ithaca City 1-1,Comptroller,,,Undervotes,17,0,0,0,17
 Tompkins,Ithaca City 1-2,Comptroller,,,Undervotes,3,0,0,1,4
 Tompkins,Ithaca City 1-3,Comptroller,,,Undervotes,9,4,2,0,15
 Tompkins,Ithaca City 2-1,Comptroller,,,Undervotes,6,2,0,1,9
@@ -743,7 +743,7 @@ Tompkins,Ulysses 1,Comptroller,,,Undervotes,5,0,1,0,6
 Tompkins,Ulysses 2,Comptroller,,,Undervotes,12,0,1,0,13
 Tompkins,Ulysses 3,Comptroller,,,Undervotes,12,0,0,0,12
 Tompkins,Ulysses 4,Comptroller,,,Undervotes,5,1,2,0,8
-Tompkins,Ithaca City 1 -1,Comptroller,,,Overvotes,0,0,0,0,0
+Tompkins,Ithaca City 1-1,Comptroller,,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 1-2,Comptroller,,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 1-3,Comptroller,,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 2-1,Comptroller,,,Overvotes,0,0,0,0,0
@@ -805,7 +805,7 @@ Tompkins,Ulysses 1,Comptroller,,,Overvotes,0,0,0,0,0
 Tompkins,Ulysses 2,Comptroller,,,Overvotes,0,0,0,1,1
 Tompkins,Ulysses 3,Comptroller,,,Overvotes,0,0,0,0,0
 Tompkins,Ulysses 4,Comptroller,,,Overvotes,0,0,0,0,0
-Tompkins,Ithaca City 1 -1,Comptroller,,,Write-Ins,0,0,0,0,0
+Tompkins,Ithaca City 1-1,Comptroller,,,Write-Ins,0,0,0,0,0
 Tompkins,Ithaca City 1-2,Comptroller,,,Write-Ins,0,0,0,0,0
 Tompkins,Ithaca City 1-3,Comptroller,,,Write-Ins,0,0,0,0,0
 Tompkins,Ithaca City 2-1,Comptroller,,,Write-Ins,0,0,0,1,1
@@ -867,7 +867,7 @@ Tompkins,Ulysses 1,Comptroller,,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 2,Comptroller,,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 3,Comptroller,,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 4,Comptroller,,,Write-Ins,0,0,0,0,0
-Tompkins,Ithaca City 1 -1,Attorney General,,DEM,Letitia A. James,288,128,41,4,461
+Tompkins,Ithaca City 1-1,Attorney General,,DEM,Letitia A. James,288,128,41,4,461
 Tompkins,Ithaca City 1-2,Attorney General,,DEM,Letitia A. James,78,56,25,3,162
 Tompkins,Ithaca City 1-3,Attorney General,,DEM,Letitia A. James,264,128,48,4,444
 Tompkins,Ithaca City 2-1,Attorney General,,DEM,Letitia A. James,183,101,32,1,317
@@ -929,7 +929,7 @@ Tompkins,Ulysses 1,Attorney General,,DEM,Letitia A. James,356,44,47,6,453
 Tompkins,Ulysses 2,Attorney General,,DEM,Letitia A. James,263,42,16,2,323
 Tompkins,Ulysses 3,Attorney General,,DEM,Letitia A. James,364,33,23,0,420
 Tompkins,Ulysses 4,Attorney General,,DEM,Letitia A. James,360,68,34,6,468
-Tompkins,Ithaca City 1 -1,Attorney General,,REP,Michael Henry,57,7,8,0,72
+Tompkins,Ithaca City 1-1,Attorney General,,REP,Michael Henry,57,7,8,0,72
 Tompkins,Ithaca City 1-2,Attorney General,,REP,Michael Henry,22,5,11,0,38
 Tompkins,Ithaca City 1-3,Attorney General,,REP,Michael Henry,34,10,5,0,49
 Tompkins,Ithaca City 2-1,Attorney General,,REP,Michael Henry,24,7,2,0,33
@@ -991,7 +991,7 @@ Tompkins,Ulysses 1,Attorney General,,REP,Michael Henry,119,9,9,1,138
 Tompkins,Ulysses 2,Attorney General,,REP,Michael Henry,159,8,6,2,175
 Tompkins,Ulysses 3,Attorney General,,REP,Michael Henry,91,4,5,1,101
 Tompkins,Ulysses 4,Attorney General,,REP,Michael Henry,127,7,13,0,147
-Tompkins,Ithaca City 1 -1,Attorney General,,CON,Michael Henry,12,0,0,0,12
+Tompkins,Ithaca City 1-1,Attorney General,,CON,Michael Henry,12,0,0,0,12
 Tompkins,Ithaca City 1-2,Attorney General,,CON,Michael Henry,3,1,0,0,4
 Tompkins,Ithaca City 1-3,Attorney General,,CON,Michael Henry,6,1,0,0,7
 Tompkins,Ithaca City 2-1,Attorney General,,CON,Michael Henry,7,0,0,0,7
@@ -1053,7 +1053,7 @@ Tompkins,Ulysses 1,Attorney General,,CON,Michael Henry,14,0,0,0,14
 Tompkins,Ulysses 2,Attorney General,,CON,Michael Henry,21,1,0,0,22
 Tompkins,Ulysses 3,Attorney General,,CON,Michael Henry,8,0,1,0,9
 Tompkins,Ulysses 4,Attorney General,,CON,Michael Henry,14,0,1,0,15
-Tompkins,Ithaca City 1 -1,Attorney General,,DEM,Letitia A. James,135,37,5,1,178
+Tompkins,Ithaca City 1-1,Attorney General,,DEM,Letitia A. James,135,37,5,1,178
 Tompkins,Ithaca City 1-2,Attorney General,,DEM,Letitia A. James,32,14,1,0,47
 Tompkins,Ithaca City 1-3,Attorney General,,DEM,Letitia A. James,108,52,11,0,171
 Tompkins,Ithaca City 2-1,Attorney General,,DEM,Letitia A. James,121,50,17,1,189
@@ -1115,7 +1115,7 @@ Tompkins,Ulysses 1,Attorney General,,DEM,Letitia A. James,56,12,3,0,71
 Tompkins,Ulysses 2,Attorney General,,DEM,Letitia A. James,59,17,4,1,81
 Tompkins,Ulysses 3,Attorney General,,DEM,Letitia A. James,77,16,1,1,95
 Tompkins,Ulysses 4,Attorney General,,DEM,Letitia A. James,63,6,7,0,76
-Tompkins,Ithaca City 1 -1,Attorney General,,,Undervotes,13,2,0,0,15
+Tompkins,Ithaca City 1-1,Attorney General,,,Undervotes,13,2,0,0,15
 Tompkins,Ithaca City 1-2,Attorney General,,,Undervotes,3,0,0,0,3
 Tompkins,Ithaca City 1-3,Attorney General,,,Undervotes,5,1,0,0,6
 Tompkins,Ithaca City 2-1,Attorney General,,,Undervotes,4,1,0,2,7
@@ -1177,7 +1177,7 @@ Tompkins,Ulysses 1,Attorney General,,,Undervotes,7,0,1,0,8
 Tompkins,Ulysses 2,Attorney General,,,Undervotes,13,0,1,0,14
 Tompkins,Ulysses 3,Attorney General,,,Undervotes,13,0,0,0,13
 Tompkins,Ulysses 4,Attorney General,,,Undervotes,9,2,3,0,14
-Tompkins,Ithaca City 1 -1,Attorney General,,,Overvotes,0,0,0,0,0
+Tompkins,Ithaca City 1-1,Attorney General,,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 1-2,Attorney General,,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 1-3,Attorney General,,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 2-1,Attorney General,,,Overvotes,0,0,0,0,0
@@ -1239,7 +1239,7 @@ Tompkins,Ulysses 1,Attorney General,,,Overvotes,0,0,0,0,0
 Tompkins,Ulysses 2,Attorney General,,,Overvotes,0,0,0,1,1
 Tompkins,Ulysses 3,Attorney General,,,Overvotes,0,0,0,0,0
 Tompkins,Ulysses 4,Attorney General,,,Overvotes,0,0,0,0,0
-Tompkins,Ithaca City 1 -1,Attorney General,,,Write-Ins,0,0,0,0,0
+Tompkins,Ithaca City 1-1,Attorney General,,,Write-Ins,0,0,0,0,0
 Tompkins,Ithaca City 1-2,Attorney General,,,Write-Ins,0,0,0,0,0
 Tompkins,Ithaca City 1-3,Attorney General,,,Write-Ins,0,0,0,0,0
 Tompkins,Ithaca City 2-1,Attorney General,,,Write-Ins,0,0,0,0,0
@@ -1301,7 +1301,7 @@ Tompkins,Ulysses 1,Attorney General,,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 2,Attorney General,,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 3,Attorney General,,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 4,Attorney General,,,Write-Ins,1,0,0,0,1
-Tompkins,Ithaca City 1 -1,U.S. Senate,,DEM,Charles E. Schumer,295,136,43,12,486
+Tompkins,Ithaca City 1-1,U.S. Senate,,DEM,Charles E. Schumer,295,136,43,12,486
 Tompkins,Ithaca City 1-2,U.S. Senate,,DEM,Charles E. Schumer,76,57,25,4,162
 Tompkins,Ithaca City 1-3,U.S. Senate,,DEM,Charles E. Schumer,265,131,46,18,460
 Tompkins,Ithaca City 2-1,U.S. Senate,,DEM,Charles E. Schumer,185,101,33,12,331
@@ -1363,7 +1363,7 @@ Tompkins,Ulysses 1,U.S. Senate,,DEM,Charles E. Schumer,372,45,47,6,470
 Tompkins,Ulysses 2,U.S. Senate,,DEM,Charles E. Schumer,271,42,16,5,334
 Tompkins,Ulysses 3,U.S. Senate,,DEM,Charles E. Schumer,366,35,25,0,426
 Tompkins,Ulysses 4,U.S. Senate,,DEM,Charles E. Schumer,367,69,33,6,475
-Tompkins,Ithaca City 1 -1,U.S. Senate,,REP,Joe Pinion,48,5,6,1,60
+Tompkins,Ithaca City 1-1,U.S. Senate,,REP,Joe Pinion,48,5,6,1,60
 Tompkins,Ithaca City 1-2,U.S. Senate,,REP,Joe Pinion,22,5,11,0,38
 Tompkins,Ithaca City 1-3,U.S. Senate,,REP,Joe Pinion,30,7,7,0,44
 Tompkins,Ithaca City 2-1,U.S. Senate,,REP,Joe Pinion,24,8,1,0,33
@@ -1425,7 +1425,7 @@ Tompkins,Ulysses 1,U.S. Senate,,REP,Joe Pinion,107,9,9,1,126
 Tompkins,Ulysses 2,U.S. Senate,,REP,Joe Pinion,153,7,6,2,168
 Tompkins,Ulysses 3,U.S. Senate,,REP,Joe Pinion,93,3,3,1,100
 Tompkins,Ulysses 4,U.S. Senate,,REP,Joe Pinion,127,7,15,0,149
-Tompkins,Ithaca City 1 -1,U.S. Senate,,CON,Joe Pinion,12,0,0,0,12
+Tompkins,Ithaca City 1-1,U.S. Senate,,CON,Joe Pinion,12,0,0,0,12
 Tompkins,Ithaca City 1-2,U.S. Senate,,CON,Joe Pinion,1,1,0,0,2
 Tompkins,Ithaca City 1-3,U.S. Senate,,CON,Joe Pinion,7,1,0,2,10
 Tompkins,Ithaca City 2-1,U.S. Senate,,CON,Joe Pinion,7,0,0,0,7
@@ -1487,7 +1487,7 @@ Tompkins,Ulysses 1,U.S. Senate,,CON,Joe Pinion,13,0,1,0,14
 Tompkins,Ulysses 2,U.S. Senate,,CON,Joe Pinion,19,1,0,0,20
 Tompkins,Ulysses 3,U.S. Senate,,CON,Joe Pinion,8,0,1,0,9
 Tompkins,Ulysses 4,U.S. Senate,,CON,Joe Pinion,11,0,1,0,12
-Tompkins,Ithaca City 1 -1,U.S. Senate,,DEM,Charles E. Schumer,127,32,5,2,166
+Tompkins,Ithaca City 1-1,U.S. Senate,,DEM,Charles E. Schumer,127,32,5,2,166
 Tompkins,Ithaca City 1-2,U.S. Senate,,DEM,Charles E. Schumer,33,13,1,0,47
 Tompkins,Ithaca City 1-3,U.S. Senate,,DEM,Charles E. Schumer,103,51,10,0,164
 Tompkins,Ithaca City 2-1,U.S. Senate,,DEM,Charles E. Schumer,113,48,17,9,187
@@ -1549,7 +1549,7 @@ Tompkins,Ulysses 1,U.S. Senate,,DEM,Charles E. Schumer,56,11,3,0,70
 Tompkins,Ulysses 2,U.S. Senate,,DEM,Charles E. Schumer,60,16,4,1,81
 Tompkins,Ulysses 3,U.S. Senate,,DEM,Charles E. Schumer,75,15,1,0,91
 Tompkins,Ulysses 4,U.S. Senate,,DEM,Charles E. Schumer,62,6,8,0,76
-Tompkins,Ithaca City 1 -1,U.S. Senate,,LAR,Diane Sare,9,0,0,0,9
+Tompkins,Ithaca City 1-1,U.S. Senate,,LAR,Diane Sare,9,0,0,0,9
 Tompkins,Ithaca City 1-2,U.S. Senate,,LAR,Diane Sare,1,0,0,0,1
 Tompkins,Ithaca City 1-3,U.S. Senate,,LAR,Diane Sare,7,0,1,0,8
 Tompkins,Ithaca City 2-1,U.S. Senate,,LAR,Diane Sare,5,1,0,0,6
@@ -1611,7 +1611,7 @@ Tompkins,Ulysses 1,U.S. Senate,,LAR,Diane Sare,1,0,0,0,1
 Tompkins,Ulysses 2,U.S. Senate,,LAR,Diane Sare,4,1,0,0,5
 Tompkins,Ulysses 3,U.S. Senate,,LAR,Diane Sare,5,0,0,0,5
 Tompkins,Ulysses 4,U.S. Senate,,LAR,Diane Sare,4,0,0,1,5
-Tompkins,Ithaca City 1 -1,U.S. Senate,,,Undervotes,13,0,0,0,13
+Tompkins,Ithaca City 1-1,U.S. Senate,,,Undervotes,13,0,0,0,13
 Tompkins,Ithaca City 1-2,U.S. Senate,,,Undervotes,5,0,0,0,5
 Tompkins,Ithaca City 1-3,U.S. Senate,,,Undervotes,5,2,0,0,7
 Tompkins,Ithaca City 2-1,U.S. Senate,,,Undervotes,5,1,0,2,8
@@ -1673,7 +1673,7 @@ Tompkins,Ulysses 1,U.S. Senate,,,Undervotes,3,0,0,0,3
 Tompkins,Ulysses 2,U.S. Senate,,,Undervotes,8,1,1,0,10
 Tompkins,Ulysses 3,U.S. Senate,,,Undervotes,6,0,0,1,7
 Tompkins,Ulysses 4,U.S. Senate,,,Undervotes,2,1,1,0,4
-Tompkins,Ithaca City 1 -1,U.S. Senate,,,Overvotes,0,0,0,0,0
+Tompkins,Ithaca City 1-1,U.S. Senate,,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 1-2,U.S. Senate,,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 1-3,U.S. Senate,,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 2-1,U.S. Senate,,,Overvotes,0,0,0,0,0
@@ -1735,7 +1735,7 @@ Tompkins,Ulysses 1,U.S. Senate,,,Overvotes,0,0,0,0,0
 Tompkins,Ulysses 2,U.S. Senate,,,Overvotes,0,0,0,1,1
 Tompkins,Ulysses 3,U.S. Senate,,,Overvotes,0,0,0,0,0
 Tompkins,Ulysses 4,U.S. Senate,,,Overvotes,0,0,0,0,0
-Tompkins,Ithaca City 1 -1,U.S. Senate,,,Write-Ins,1,1,0,0,2
+Tompkins,Ithaca City 1-1,U.S. Senate,,,Write-Ins,1,1,0,0,2
 Tompkins,Ithaca City 1-2,U.S. Senate,,,Write-Ins,0,0,0,0,0
 Tompkins,Ithaca City 1-3,U.S. Senate,,,Write-Ins,0,0,0,0,0
 Tompkins,Ithaca City 2-1,U.S. Senate,,,Write-Ins,0,0,0,0,0
@@ -1797,7 +1797,7 @@ Tompkins,Ulysses 1,U.S. Senate,,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 2,U.S. Senate,,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 3,U.S. Senate,,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 4,U.S. Senate,,,Write-Ins,1,0,0,0,1
-Tompkins,Ithaca City 1 -1,U.S. House,19,DEM,Josh Riley,286,135,43,12,476
+Tompkins,Ithaca City 1-1,U.S. House,19,DEM,Josh Riley,286,135,43,12,476
 Tompkins,Ithaca City 1-2,U.S. House,19,DEM,Josh Riley,74,56,23,3,156
 Tompkins,Ithaca City 1-3,U.S. House,19,DEM,Josh Riley,267,130,47,18,462
 Tompkins,Ithaca City 2-1,U.S. House,19,DEM,Josh Riley,185,103,33,11,332
@@ -1859,7 +1859,7 @@ Tompkins,Ulysses 1,U.S. House,19,DEM,Josh Riley,364,45,47,6,462
 Tompkins,Ulysses 2,U.S. House,19,DEM,Josh Riley,265,43,16,5,329
 Tompkins,Ulysses 3,U.S. House,19,DEM,Josh Riley,365,33,23,0,421
 Tompkins,Ulysses 4,U.S. House,19,DEM,Josh Riley,365,68,35,6,474
-Tompkins,Ithaca City 1 -1,U.S. House,19,REP,Marcus Molinaro,62,6,6,1,75
+Tompkins,Ithaca City 1-1,U.S. House,19,REP,Marcus Molinaro,62,6,6,1,75
 Tompkins,Ithaca City 1-2,U.S. House,19,REP,Marcus Molinaro,24,5,12,0,41
 Tompkins,Ithaca City 1-3,U.S. House,19,REP,Marcus Molinaro,30,8,8,0,46
 Tompkins,Ithaca City 2-1,U.S. House,19,REP,Marcus Molinaro,23,7,1,0,31
@@ -1921,7 +1921,7 @@ Tompkins,Ulysses 1,U.S. House,19,REP,Marcus Molinaro,116,9,9,1,135
 Tompkins,Ulysses 2,U.S. House,19,REP,Marcus Molinaro,161,8,7,2,178
 Tompkins,Ulysses 3,U.S. House,19,REP,Marcus Molinaro,90,4,6,1,101
 Tompkins,Ulysses 4,U.S. House,19,REP,Marcus Molinaro,124,7,13,1,145
-Tompkins,Ithaca City 1 -1,U.S. House,19,CON,Marcus Molinaro,11,0,0,0,11
+Tompkins,Ithaca City 1-1,U.S. House,19,CON,Marcus Molinaro,11,0,0,0,11
 Tompkins,Ithaca City 1-2,U.S. House,19,CON,Marcus Molinaro,3,1,0,0,4
 Tompkins,Ithaca City 1-3,U.S. House,19,CON,Marcus Molinaro,6,1,0,0,7
 Tompkins,Ithaca City 2-1,U.S. House,19,CON,Marcus Molinaro,8,0,0,0,8
@@ -1983,7 +1983,7 @@ Tompkins,Ulysses 1,U.S. House,19,CON,Marcus Molinaro,12,0,1,0,13
 Tompkins,Ulysses 2,U.S. House,19,CON,Marcus Molinaro,19,2,0,0,21
 Tompkins,Ulysses 3,U.S. House,19,CON,Marcus Molinaro,12,0,0,0,12
 Tompkins,Ulysses 4,U.S. House,19,CON,Marcus Molinaro,15,0,1,0,16
-Tompkins,Ithaca City 1 -1,U.S. House,19,DEM,Josh Riley,133,33,5,2,173
+Tompkins,Ithaca City 1-1,U.S. House,19,DEM,Josh Riley,133,33,5,2,173
 Tompkins,Ithaca City 1-2,U.S. House,19,DEM,Josh Riley,34,14,1,0,49
 Tompkins,Ithaca City 1-3,U.S. House,19,DEM,Josh Riley,110,52,9,2,173
 Tompkins,Ithaca City 2-1,U.S. House,19,DEM,Josh Riley,119,49,17,9,194
@@ -2045,7 +2045,7 @@ Tompkins,Ulysses 1,U.S. House,19,DEM,Josh Riley,55,11,3,0,69
 Tompkins,Ulysses 2,U.S. House,19,DEM,Josh Riley,57,15,4,1,77
 Tompkins,Ulysses 3,U.S. House,19,DEM,Josh Riley,80,16,1,1,98
 Tompkins,Ulysses 4,U.S. House,19,DEM,Josh Riley,64,6,7,0,77
-Tompkins,Ithaca City 1 -1,U.S. House,19,,Undervotes,13,0,0,0,13
+Tompkins,Ithaca City 1-1,U.S. House,19,,Undervotes,13,0,0,0,13
 Tompkins,Ithaca City 1-2,U.S. House,19,,Undervotes,3,0,1,1,5
 Tompkins,Ithaca City 1-3,U.S. House,19,,Undervotes,4,1,0,0,5
 Tompkins,Ithaca City 2-1,U.S. House,19,,Undervotes,4,0,0,2,6
@@ -2107,7 +2107,7 @@ Tompkins,Ulysses 1,U.S. House,19,,Undervotes,5,0,0,0,5
 Tompkins,Ulysses 2,U.S. House,19,,Undervotes,13,0,0,0,13
 Tompkins,Ulysses 3,U.S. House,19,,Undervotes,6,0,0,0,6
 Tompkins,Ulysses 4,U.S. House,19,,Undervotes,4,2,2,0,8
-Tompkins,Ithaca City 1 -1,U.S. House,19,,Overvotes,0,0,0,0,0
+Tompkins,Ithaca City 1-1,U.S. House,19,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 1-2,U.S. House,19,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 1-3,U.S. House,19,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 2-1,U.S. House,19,,Overvotes,0,0,0,0,0
@@ -2169,7 +2169,7 @@ Tompkins,Ulysses 1,U.S. House,19,,Overvotes,0,0,0,0,0
 Tompkins,Ulysses 2,U.S. House,19,,Overvotes,0,0,0,1,1
 Tompkins,Ulysses 3,U.S. House,19,,Overvotes,0,0,0,0,0
 Tompkins,Ulysses 4,U.S. House,19,,Overvotes,0,0,0,0,0
-Tompkins,Ithaca City 1 -1,U.S. House,19,,Write-Ins,0,0,0,0,0
+Tompkins,Ithaca City 1-1,U.S. House,19,,Write-Ins,0,0,0,0,0
 Tompkins,Ithaca City 1-2,U.S. House,19,,Write-Ins,0,0,0,0,0
 Tompkins,Ithaca City 1-3,U.S. House,19,,Write-Ins,0,0,0,0,0
 Tompkins,Ithaca City 2-1,U.S. House,19,,Write-Ins,0,0,0,1,1
@@ -2231,7 +2231,7 @@ Tompkins,Ulysses 1,U.S. House,19,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 2,U.S. House,19,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 3,U.S. House,19,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 4,U.S. House,19,,Write-Ins,2,0,0,0,2
-Tompkins,Ithaca City 1 -1,State Senate,52,DEM,Lea Webb,280,127,40,4,451
+Tompkins,Ithaca City 1-1,State Senate,52,DEM,Lea Webb,280,127,40,4,451
 Tompkins,Ithaca City 1-2,State Senate,52,DEM,Lea Webb,74,55,26,2,157
 Tompkins,Ithaca City 1-3,State Senate,52,DEM,Lea Webb,263,127,46,4,440
 Tompkins,Ithaca City 2-1,State Senate,52,DEM,Lea Webb,180,98,33,2,313
@@ -2293,7 +2293,7 @@ Tompkins,Ulysses 1,State Senate,52,DEM,Lea Webb,346,45,47,6,444
 Tompkins,Ulysses 2,State Senate,52,DEM,Lea Webb,262,43,16,2,323
 Tompkins,Ulysses 3,State Senate,52,DEM,Lea Webb,364,34,23,0,421
 Tompkins,Ulysses 4,State Senate,52,DEM,Lea Webb,351,67,34,6,458
-Tompkins,Ithaca City 1 -1,State Senate,52,REP,Richard C. David,65,13,8,0,86
+Tompkins,Ithaca City 1-1,State Senate,52,REP,Richard C. David,65,13,8,0,86
 Tompkins,Ithaca City 1-2,State Senate,52,REP,Richard C. David,25,6,10,0,41
 Tompkins,Ithaca City 1-3,State Senate,52,REP,Richard C. David,38,11,8,0,57
 Tompkins,Ithaca City 2-1,State Senate,52,REP,Richard C. David,27,10,1,0,38
@@ -2355,7 +2355,7 @@ Tompkins,Ulysses 1,State Senate,52,REP,Richard C. David,131,9,9,1,150
 Tompkins,Ulysses 2,State Senate,52,REP,Richard C. David,162,8,6,2,178
 Tompkins,Ulysses 3,State Senate,52,REP,Richard C. David,94,4,6,1,105
 Tompkins,Ulysses 4,State Senate,52,REP,Richard C. David,133,9,13,0,155
-Tompkins,Ithaca City 1 -1,State Senate,52,CON,Richard C. David,13,0,0,0,13
+Tompkins,Ithaca City 1-1,State Senate,52,CON,Richard C. David,13,0,0,0,13
 Tompkins,Ithaca City 1-2,State Senate,52,CON,Richard C. David,2,1,0,0,3
 Tompkins,Ithaca City 1-3,State Senate,52,CON,Richard C. David,7,1,0,0,8
 Tompkins,Ithaca City 2-1,State Senate,52,CON,Richard C. David,6,0,0,0,6
@@ -2417,7 +2417,7 @@ Tompkins,Ulysses 1,State Senate,52,CON,Richard C. David,14,0,1,0,15
 Tompkins,Ulysses 2,State Senate,52,CON,Richard C. David,20,1,0,0,21
 Tompkins,Ulysses 3,State Senate,52,CON,Richard C. David,9,0,0,0,9
 Tompkins,Ulysses 4,State Senate,52,CON,Richard C. David,16,0,1,0,17
-Tompkins,Ithaca City 1 -1,State Senate,52,DEM,Lea Webb,138,33,5,1,177
+Tompkins,Ithaca City 1-1,State Senate,52,DEM,Lea Webb,138,33,5,1,177
 Tompkins,Ithaca City 1-2,State Senate,52,DEM,Lea Webb,35,13,1,0,49
 Tompkins,Ithaca City 1-3,State Senate,52,DEM,Lea Webb,107,52,10,0,169
 Tompkins,Ithaca City 2-1,State Senate,52,DEM,Lea Webb,123,50,17,2,192
@@ -2479,7 +2479,7 @@ Tompkins,Ulysses 1,State Senate,52,DEM,Lea Webb,55,11,3,0,69
 Tompkins,Ulysses 2,State Senate,52,DEM,Lea Webb,60,16,4,1,81
 Tompkins,Ulysses 3,State Senate,52,DEM,Lea Webb,77,15,1,1,94
 Tompkins,Ulysses 4,State Senate,52,DEM,Lea Webb,65,6,7,0,78
-Tompkins,Ithaca City 1 -1,State Senate,52,,Undervotes,9,1,1,0,11
+Tompkins,Ithaca City 1-1,State Senate,52,,Undervotes,9,1,1,0,11
 Tompkins,Ithaca City 1-2,State Senate,52,,Undervotes,2,1,0,1,4
 Tompkins,Ithaca City 1-3,State Senate,52,,Undervotes,2,1,0,0,3
 Tompkins,Ithaca City 2-1,State Senate,52,,Undervotes,3,1,0,0,4
@@ -2541,7 +2541,7 @@ Tompkins,Ulysses 1,State Senate,52,,Undervotes,6,0,0,0,6
 Tompkins,Ulysses 2,State Senate,52,,Undervotes,11,0,1,0,12
 Tompkins,Ulysses 3,State Senate,52,,Undervotes,9,0,0,0,9
 Tompkins,Ulysses 4,State Senate,52,,Undervotes,7,1,3,0,11
-Tompkins,Ithaca City 1 -1,State Senate,52,,Overvotes,0,0,0,0,0
+Tompkins,Ithaca City 1-1,State Senate,52,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 1-2,State Senate,52,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 1-3,State Senate,52,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 2-1,State Senate,52,,Overvotes,0,0,0,0,0
@@ -2603,7 +2603,7 @@ Tompkins,Ulysses 1,State Senate,52,,Overvotes,0,0,0,0,0
 Tompkins,Ulysses 2,State Senate,52,,Overvotes,0,0,0,1,1
 Tompkins,Ulysses 3,State Senate,52,,Overvotes,0,0,0,0,0
 Tompkins,Ulysses 4,State Senate,52,,Overvotes,1,0,0,0,1
-Tompkins,Ithaca City 1 -1,State Senate,52,,Write-Ins,0,0,0,0,0
+Tompkins,Ithaca City 1-1,State Senate,52,,Write-Ins,0,0,0,0,0
 Tompkins,Ithaca City 1-2,State Senate,52,,Write-Ins,0,0,0,0,0
 Tompkins,Ithaca City 1-3,State Senate,52,,Write-Ins,0,0,0,0,0
 Tompkins,Ithaca City 2-1,State Senate,52,,Write-Ins,0,0,0,0,0
@@ -2665,7 +2665,7 @@ Tompkins,Ulysses 1,State Senate,52,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 2,State Senate,52,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 3,State Senate,52,,Write-Ins,0,0,0,0,0
 Tompkins,Ulysses 4,State Senate,52,,Write-Ins,1,0,0,0,1
-Tompkins,Ithaca City 1 -1,State Assembly,125,DEM,Anna Kelles,297,129,41,3,470
+Tompkins,Ithaca City 1-1,State Assembly,125,DEM,Anna Kelles,297,129,41,3,470
 Tompkins,Ithaca City 1-2,State Assembly,125,DEM,Anna Kelles,76,56,27,2,161
 Tompkins,Ithaca City 1-3,State Assembly,125,DEM,Anna Kelles,261,124,48,4,437
 Tompkins,Ithaca City 2-1,State Assembly,125,DEM,Anna Kelles,183,98,33,1,315
@@ -2727,7 +2727,7 @@ Tompkins,Ulysses 1,State Assembly,125,DEM,Anna Kelles,367,44,46,6,463
 Tompkins,Ulysses 2,State Assembly,125,DEM,Anna Kelles,277,45,18,2,342
 Tompkins,Ulysses 3,State Assembly,125,DEM,Anna Kelles,370,34,26,0,430
 Tompkins,Ulysses 4,State Assembly,125,DEM,Anna Kelles,371,69,34,6,480
-Tompkins,Ithaca City 1 -1,State Assembly,125,DEM,Anna Kelles,136,34,6,1,177
+Tompkins,Ithaca City 1-1,State Assembly,125,DEM,Anna Kelles,136,34,6,1,177
 Tompkins,Ithaca City 1-2,State Assembly,125,DEM,Anna Kelles,37,13,3,0,53
 Tompkins,Ithaca City 1-3,State Assembly,125,DEM,Anna Kelles,112,54,11,0,177
 Tompkins,Ithaca City 2-1,State Assembly,125,DEM,Anna Kelles,123,49,17,1,190
@@ -2789,7 +2789,7 @@ Tompkins,Ulysses 1,State Assembly,125,DEM,Anna Kelles,65,13,4,0,82
 Tompkins,Ulysses 2,State Assembly,125,DEM,Anna Kelles,82,17,4,1,104
 Tompkins,Ulysses 3,State Assembly,125,DEM,Anna Kelles,81,16,1,2,100
 Tompkins,Ulysses 4,State Assembly,125,DEM,Anna Kelles,77,6,9,0,92
-Tompkins,Ithaca City 1 -1,State Assembly,125,,Undervotes,71,10,6,1,88
+Tompkins,Ithaca City 1-1,State Assembly,125,,Undervotes,71,10,6,1,88
 Tompkins,Ithaca City 1-2,State Assembly,125,,Undervotes,24,7,7,1,39
 Tompkins,Ithaca City 1-3,State Assembly,125,,Undervotes,43,13,5,0,61
 Tompkins,Ithaca City 2-1,State Assembly,125,,Undervotes,32,12,1,2,47
@@ -2851,7 +2851,7 @@ Tompkins,Ulysses 1,State Assembly,125,,Undervotes,119,8,10,1,138
 Tompkins,Ulysses 2,State Assembly,125,,Undervotes,154,5,5,2,166
 Tompkins,Ulysses 3,State Assembly,125,,Undervotes,99,3,3,0,105
 Tompkins,Ulysses 4,State Assembly,125,,Undervotes,126,8,15,0,149
-Tompkins,Ithaca City 1 -1,State Assembly,125,,Overvotes,0,0,1,0,1
+Tompkins,Ithaca City 1-1,State Assembly,125,,Overvotes,0,0,1,0,1
 Tompkins,Ithaca City 1-2,State Assembly,125,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 1-3,State Assembly,125,,Overvotes,0,0,0,0,0
 Tompkins,Ithaca City 2-1,State Assembly,125,,Overvotes,0,0,0,0,0
@@ -2913,7 +2913,7 @@ Tompkins,Ulysses 1,State Assembly,125,,Overvotes,0,0,0,0,0
 Tompkins,Ulysses 2,State Assembly,125,,Overvotes,0,0,0,1,1
 Tompkins,Ulysses 3,State Assembly,125,,Overvotes,0,0,0,0,0
 Tompkins,Ulysses 4,State Assembly,125,,Overvotes,0,0,0,0,0
-Tompkins,Ithaca City 1 -1,State Assembly,125,,Write-Ins,1,1,0,0,2
+Tompkins,Ithaca City 1-1,State Assembly,125,,Write-Ins,1,1,0,0,2
 Tompkins,Ithaca City 1-2,State Assembly,125,,Write-Ins,1,0,0,0,1
 Tompkins,Ithaca City 1-3,State Assembly,125,,Write-Ins,1,1,0,0,2
 Tompkins,Ithaca City 2-1,State Assembly,125,,Write-Ins,1,0,0,0,1

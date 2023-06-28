@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,election day,absentee,votes
+county,precinct,office,district,party,candidate,election_day,absentee,votes
 Ulster,Kingston Ward 1-1,Governor,,DEM,Kathy C. Hochul,121,15,136
 Ulster,Kingston Ward 1-2,Governor,,DEM,Kathy C. Hochul,238,26,264
 Ulster,Kingston Ward 1-3,Governor,,DEM,Kathy C. Hochul,263,24,287
