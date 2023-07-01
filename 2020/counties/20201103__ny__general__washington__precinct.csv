@@ -38,7 +38,7 @@ Washington,Argyle 3,U.S. House,21,Elise M Stefanik,Republican,424
 Washington,Argyle 3,U.S. House,21,Elise M Stefanik,Conservative,51
 Washington,Argyle 3,U.S. House,21,Tedra L Cobb,Working Families,17
 Washington,Argyle 3,U.S. House,21,Elise M Stefanik,Independence,8
-Washington,Argyle 3,U.S. House,21,Scott Murphy,Write-In,1
+Washington,Argyle 3,U.S. House,21,Scott Murphy,,1
 Washington,Argyle 1,State Senate,45,Kimberly A Davis,Democratic,164
 Washington,Argyle 1,State Senate,45,Daniel G Stec,Republican,366
 Washington,Argyle 1,State Senate,45,Daniel G Stec,Conservative,47
@@ -100,7 +100,7 @@ Washington,Cambridge 1,State Senate,43,Daphne V Jordan,Republican,278
 Washington,Cambridge 1,State Senate,43,Daphne V Jordan,Conservative,43
 Washington,Cambridge 1,State Senate,43,Patrick F Nelson,Working Families,26
 Washington,Cambridge 1,State Senate,43,Daphne V Jordan,Independence,7
-Washington,Cambridge 1,State Senate,43,Kevin Collery,Write-In,1
+Washington,Cambridge 1,State Senate,43,Kevin Collery,,1
 Washington,Cambridge 2,State Senate,43,Patrick F Nelson,Democratic,217
 Washington,Cambridge 2,State Senate,43,Daphne V Jordan,Republican,229
 Washington,Cambridge 2,State Senate,43,Daphne V Jordan,Conservative,29
@@ -112,7 +112,7 @@ Washington,Cambridge 1,State Assembly,107,Jacob C Ashby,Conservative,37
 Washington,Cambridge 1,State Assembly,107,Brittany L Vogel,Working Families,28
 Washington,Cambridge 1,State Assembly,107,Charles A Senrick,Libertarian,1
 Washington,Cambridge 1,State Assembly,107,Jacob C Ashby,Independence,6
-Washington,Cambridge 1,State Assembly,107,Kevin Collery,Write-In,1
+Washington,Cambridge 1,State Assembly,107,Kevin Collery,,1
 Washington,Cambridge 2,State Assembly,107,Brittany L Vogel,Democratic,220
 Washington,Cambridge 2,State Assembly,107,Jacob C Ashby,Republican,226
 Washington,Cambridge 2,State Assembly,107,Jacob C Ashby,Conservative,29
@@ -266,8 +266,8 @@ Washington,Fort Edward 1,President,,Joseph R Biden / Kamala D Harris,Working Fam
 Washington,Fort Edward 1,President,,Howie Hawkins / Angela Nicole Walker,Green,1
 Washington,Fort Edward 1,President,,Jo Jorgensen / Jeremy Cohen,Libertarian,7
 Washington,Fort Edward 1,President,,Brock Pierce / Karla Ballard,Independence,4
-Washington,Fort Edward 1,President,,Kanye West,Write-In,1
-Washington,Fort Edward 1,President,,Mark Charles,Write-In,1
+Washington,Fort Edward 1,President,,Kanye West,,1
+Washington,Fort Edward 1,President,,Mark Charles,,1
 Washington,Fort Edward 2,President,,Joseph R Biden / Kamala D Harris,Democratic,256
 Washington,Fort Edward 2,President,,Donald J Trump / Michael R Pence,Republican,270
 Washington,Fort Edward 2,President,,Donald J Trump / Michael R Pence,Conservative,35
@@ -275,7 +275,7 @@ Washington,Fort Edward 2,President,,Joseph R Biden / Kamala D Harris,Working Fam
 Washington,Fort Edward 2,President,,Howie Hawkins / Angela Nicole Walker,Green,0
 Washington,Fort Edward 2,President,,Jo Jorgensen / Jeremy Cohen,Libertarian,12
 Washington,Fort Edward 2,President,,Brock Pierce / Karla Ballard,Independence,2
-Washington,Fort Edward 2,President,,Scattering,Write-In,1
+Washington,Fort Edward 2,President,,Scattering,,1
 Washington,Fort Edward 3,President,,Joseph R Biden / Kamala D Harris,Democratic,99
 Washington,Fort Edward 3,President,,Donald J Trump / Michael R Pence,Republican,116
 Washington,Fort Edward 3,President,,Donald J Trump / Michael R Pence,Conservative,10
@@ -283,7 +283,7 @@ Washington,Fort Edward 3,President,,Joseph R Biden / Kamala D Harris,Working Fam
 Washington,Fort Edward 3,President,,Howie Hawkins / Angela Nicole Walker,Green,1
 Washington,Fort Edward 3,President,,Jo Jorgensen / Jeremy Cohen,Libertarian,6
 Washington,Fort Edward 3,President,,Brock Pierce / Karla Ballard,Independence,0
-Washington,Fort Edward 3,President,,Kanye West,Write-In,1
+Washington,Fort Edward 3,President,,Kanye West,,1
 Washington,Fort Edward 4,President,,Joseph R Biden / Kamala D Harris,Democratic,315
 Washington,Fort Edward 4,President,,Donald J Trump / Michael R Pence,Republican,372
 Washington,Fort Edward 4,President,,Donald J Trump / Michael R Pence,Conservative,36
@@ -291,7 +291,7 @@ Washington,Fort Edward 4,President,,Joseph R Biden / Kamala D Harris,Working Fam
 Washington,Fort Edward 4,President,,Howie Hawkins / Angela Nicole Walker,Green,4
 Washington,Fort Edward 4,President,,Jo Jorgensen / Jeremy Cohen,Libertarian,11
 Washington,Fort Edward 4,President,,Brock Pierce / Karla Ballard,Independence,2
-Washington,Fort Edward 4,President,,Scattering,Write-In,1
+Washington,Fort Edward 4,President,,Scattering,,1
 Washington,Fort Edward 5,President,,Joseph R Biden / Kamala D Harris,Democratic,85
 Washington,Fort Edward 5,President,,Donald J Trump / Michael R Pence,Republican,151
 Washington,Fort Edward 5,President,,Donald J Trump / Michael R Pence,Conservative,12
@@ -304,7 +304,7 @@ Washington,Fort Edward 1,U.S. House,21,Elise M Stefanik,Republican,309
 Washington,Fort Edward 1,U.S. House,21,Elise M Stefanik,Conservative,26
 Washington,Fort Edward 1,U.S. House,21,Tedra L Cobb,Working Families,15
 Washington,Fort Edward 1,U.S. House,21,Elise M Stefanik,Independence,9
-Washington,Fort Edward 1,U.S. House,21,Scattering,Write-In,1
+Washington,Fort Edward 1,U.S. House,21,Scattering,,1
 Washington,Fort Edward 2,U.S. House,21,Tedra L Cobb,Democratic,244
 Washington,Fort Edward 2,U.S. House,21,Elise M Stefanik,Republican,281
 Washington,Fort Edward 2,U.S. House,21,Elise M Stefanik,Conservative,37
@@ -355,7 +355,7 @@ Washington,Fort Edward 1,State Assembly,113,David M Catalfamo,Republican,267
 Washington,Fort Edward 1,State Assembly,113,David M Catalfamo,Conservative,25
 Washington,Fort Edward 1,State Assembly,113,Carrie Woerner,Independence,18
 Washington,Fort Edward 1,State Assembly,113,Carrie Woerner,SAM,0
-Washington,Fort Edward 1,State Assembly,113,Paul Casimano,Write-In,1
+Washington,Fort Edward 1,State Assembly,113,Paul Casimano,,1
 Washington,Fort Edward 2,State Assembly,113,Carrie Woerner,Democratic,289
 Washington,Fort Edward 2,State Assembly,113,David M Catalfamo,Republican,230
 Washington,Fort Edward 2,State Assembly,113,David M Catalfamo,Conservative,41
@@ -384,7 +384,7 @@ Washington,Granville 1,President,,Joseph R Biden / Kamala D Harris,Working Famil
 Washington,Granville 1,President,,Howie Hawkins / Angela Nicole Walker,Green,2
 Washington,Granville 1,President,,Jo Jorgensen / Jeremy Cohen,Libertarian,2
 Washington,Granville 1,President,,Brock Pierce / Karla Ballard,Independence,0
-Washington,Granville 1,President,,Scattering,Write-In,1
+Washington,Granville 1,President,,Scattering,,1
 Washington,Granville 2,President,,Joseph R Biden / Kamala D Harris,Democratic,223
 Washington,Granville 2,President,,Donald J Trump / Michael R Pence,Republican,259
 Washington,Granville 2,President,,Donald J Trump / Michael R Pence,Conservative,18
@@ -500,7 +500,7 @@ Washington,Greenwich 1,President,,Joseph R Biden / Kamala D Harris,Working Famil
 Washington,Greenwich 1,President,,Howie Hawkins / Angela Nicole Walker,Green,2
 Washington,Greenwich 1,President,,Jo Jorgensen / Jeremy Cohen,Libertarian,3
 Washington,Greenwich 1,President,,Brock Pierce / Karla Ballard,Independence,4
-Washington,Greenwich 1,President,,Scattering,Write-In,1
+Washington,Greenwich 1,President,,Scattering,,1
 Washington,Greenwich 2,President,,Joseph R Biden / Kamala D Harris,Democratic,171
 Washington,Greenwich 2,President,,Donald J Trump / Michael R Pence,Republican,136
 Washington,Greenwich 2,President,,Donald J Trump / Michael R Pence,Conservative,19
@@ -508,7 +508,7 @@ Washington,Greenwich 2,President,,Joseph R Biden / Kamala D Harris,Working Famil
 Washington,Greenwich 2,President,,Howie Hawkins / Angela Nicole Walker,Green,1
 Washington,Greenwich 2,President,,Jo Jorgensen / Jeremy Cohen,Libertarian,2
 Washington,Greenwich 2,President,,Brock Pierce / Karla Ballard,Independence,3
-Washington,Greenwich 2,President,,Scattering,Write-In,2
+Washington,Greenwich 2,President,,Scattering,,2
 Washington,Greenwich 3,President,,Joseph R Biden / Kamala D Harris,Democratic,338
 Washington,Greenwich 3,President,,Donald J Trump / Michael R Pence,Republican,298
 Washington,Greenwich 3,President,,Donald J Trump / Michael R Pence,Conservative,27
@@ -516,7 +516,7 @@ Washington,Greenwich 3,President,,Joseph R Biden / Kamala D Harris,Working Famil
 Washington,Greenwich 3,President,,Howie Hawkins / Angela Nicole Walker,Green,1
 Washington,Greenwich 3,President,,Jo Jorgensen / Jeremy Cohen,Libertarian,4
 Washington,Greenwich 3,President,,Brock Pierce / Karla Ballard,Independence,6
-Washington,Greenwich 3,President,,Scattering,Write-In,1
+Washington,Greenwich 3,President,,Scattering,,1
 Washington,Greenwich 4,President,,Joseph R Biden / Kamala D Harris,Democratic,387
 Washington,Greenwich 4,President,,Donald J Trump / Michael R Pence,Republican,316
 Washington,Greenwich 4,President,,Donald J Trump / Michael R Pence,Conservative,47
@@ -524,7 +524,7 @@ Washington,Greenwich 4,President,,Joseph R Biden / Kamala D Harris,Working Famil
 Washington,Greenwich 4,President,,Howie Hawkins / Angela Nicole Walker,Green,3
 Washington,Greenwich 4,President,,Jo Jorgensen / Jeremy Cohen,Libertarian,5
 Washington,Greenwich 4,President,,Brock Pierce / Karla Ballard,Independence,1
-Washington,Greenwich 4,President,,Scattering,Write-In,4
+Washington,Greenwich 4,President,,Scattering,,4
 Washington,Greenwich 5,President,,Joseph R Biden / Kamala D Harris,Democratic,174
 Washington,Greenwich 5,President,,Donald J Trump / Michael R Pence,Republican,214
 Washington,Greenwich 5,President,,Donald J Trump / Michael R Pence,Conservative,15
@@ -670,7 +670,7 @@ Washington,Hartford 1,State Assembly,113,David M Catalfamo,Republican,192
 Washington,Hartford 1,State Assembly,113,David M Catalfamo,Conservative,23
 Washington,Hartford 1,State Assembly,113,Carrie Woerner,Independence,13
 Washington,Hartford 1,State Assembly,113,Carrie Woerner,SAM,0
-Washington,Hartford 1,State Assembly,113,Jill Pratt,Write-In,1
+Washington,Hartford 1,State Assembly,113,Jill Pratt,,1
 Washington,Hartford 2,State Assembly,113,Carrie Woerner,Democratic,296
 Washington,Hartford 2,State Assembly,113,David M Catalfamo,Republican,366
 Washington,Hartford 2,State Assembly,113,David M Catalfamo,Conservative,49
@@ -704,7 +704,7 @@ Washington,Hebron 1,State Assembly,114,Matthew J Simpson,Conservative,39
 Washington,Hebron 1,State Assembly,114,Claudia K Braymer,Working Families,34
 Washington,Hebron 1,State Assembly,114,Matthew J Simpson,Independence,8
 Washington,Hebron 1,State Assembly,114,Evelyn M Wood,SAM,5
-Washington,Hebron 1,State Assembly,114,Greg Guvera,Write-In,1
+Washington,Hebron 1,State Assembly,114,Greg Guvera,,1
 Washington,Hebron 1,State Assembly,114,Greg Guvera,,1
 Washington,Jackson 1,President,,Joseph R Biden / Kamala D Harris,Democratic,415
 Washington,Jackson 1,President,,Donald J Trump / Michael R Pence,Republican,485
@@ -743,7 +743,7 @@ Washington,Kingsbury 2,President,,Joseph R Biden / Kamala D Harris,Working Famil
 Washington,Kingsbury 2,President,,Howie Hawkins / Angela Nicole Walker,Green,7
 Washington,Kingsbury 2,President,,Jo Jorgensen / Jeremy Cohen,Libertarian,11
 Washington,Kingsbury 2,President,,Brock Pierce / Karla Ballard,Independence,3
-Washington,Kingsbury 2,President,,Scattering,Write-In,2
+Washington,Kingsbury 2,President,,Scattering,,2
 Washington,Kingsbury 3,President,,Joseph R Biden / Kamala D Harris,Democratic,233
 Washington,Kingsbury 3,President,,Donald J Trump / Michael R Pence,Republican,304
 Washington,Kingsbury 3,President,,Donald J Trump / Michael R Pence,Conservative,17
@@ -772,7 +772,7 @@ Washington,Kingsbury 6,President,,Joseph R Biden / Kamala D Harris,Working Famil
 Washington,Kingsbury 6,President,,Howie Hawkins / Angela Nicole Walker,Green,1
 Washington,Kingsbury 6,President,,Jo Jorgensen / Jeremy Cohen,Libertarian,7
 Washington,Kingsbury 6,President,,Brock Pierce / Karla Ballard,Independence,3
-Washington,Kingsbury 6,President,,Scattering,Write-In,1
+Washington,Kingsbury 6,President,,Scattering,,1
 Washington,Kingsbury 7,President,,Joseph R Biden / Kamala D Harris,Democratic,203
 Washington,Kingsbury 7,President,,Donald J Trump / Michael R Pence,Republican,214
 Washington,Kingsbury 7,President,,Donald J Trump / Michael R Pence,Conservative,14
@@ -780,7 +780,7 @@ Washington,Kingsbury 7,President,,Joseph R Biden / Kamala D Harris,Working Famil
 Washington,Kingsbury 7,President,,Howie Hawkins / Angela Nicole Walker,Green,3
 Washington,Kingsbury 7,President,,Jo Jorgensen / Jeremy Cohen,Libertarian,7
 Washington,Kingsbury 7,President,,Brock Pierce / Karla Ballard,Independence,1
-Washington,Kingsbury 7,President,,Kanye West,Write-In,1
+Washington,Kingsbury 7,President,,Kanye West,,1
 Washington,Kingsbury 8,President,,Joseph R Biden / Kamala D Harris,Democratic,113
 Washington,Kingsbury 8,President,,Donald J Trump / Michael R Pence,Republican,120
 Washington,Kingsbury 8,President,,Donald J Trump / Michael R Pence,Conservative,5
@@ -795,8 +795,8 @@ Washington,Kingsbury 9,President,,Joseph R Biden / Kamala D Harris,Working Famil
 Washington,Kingsbury 9,President,,Howie Hawkins / Angela Nicole Walker,Green,5
 Washington,Kingsbury 9,President,,Jo Jorgensen / Jeremy Cohen,Libertarian,12
 Washington,Kingsbury 9,President,,Brock Pierce / Karla Ballard,Independence,4
-Washington,Kingsbury 9,President,,Scattering,Write-In,2
-Washington,Kingsbury 9,President,,Kanye West,Write-In,1
+Washington,Kingsbury 9,President,,Scattering,,2
+Washington,Kingsbury 9,President,,Kanye West,,1
 Washington,Kingsbury 9,President,,Kanye West,,2
 Washington,Kingsbury 1,U.S. House,21,Tedra L Cobb,Democratic,272
 Washington,Kingsbury 1,U.S. House,21,Elise M Stefanik,Republican,520
@@ -1007,8 +1007,8 @@ Washington,Salem 1,State Senate,45,Daniel G Stec,Republican,216
 Washington,Salem 1,State Senate,45,Daniel G Stec,Conservative,30
 Washington,Salem 1,State Senate,45,Kimberly A Davis,Working Families,15
 Washington,Salem 1,State Senate,45,Daniel G Stec,Independence,12
-Washington,Salem 1,State Senate,45,Scattering,Write-In,1
-Washington,Salem 1,State Senate,45,Kanye West,Write-In,1
+Washington,Salem 1,State Senate,45,Scattering,,1
+Washington,Salem 1,State Senate,45,Kanye West,,1
 Washington,Salem 2,State Senate,45,Kimberly A Davis,Democratic,156
 Washington,Salem 2,State Senate,45,Daniel G Stec,Republican,196
 Washington,Salem 2,State Senate,45,Daniel G Stec,Conservative,20
@@ -1024,8 +1024,8 @@ Washington,Salem 1,State Assembly,113,David M Catalfamo,Republican,173
 Washington,Salem 1,State Assembly,113,David M Catalfamo,Conservative,24
 Washington,Salem 1,State Assembly,113,Carrie Woerner,Independence,22
 Washington,Salem 1,State Assembly,113,Carrie Woerner,SAM,0
-Washington,Salem 1,State Assembly,113,Scattering,Write-In,1
-Washington,Salem 1,State Assembly,113,Kanye West,Write-In,1
+Washington,Salem 1,State Assembly,113,Scattering,,1
+Washington,Salem 1,State Assembly,113,Kanye West,,1
 Washington,Salem 1,State Assembly,113,Zena Pesta,,1
 Washington,Salem 2,State Assembly,113,Carrie Woerner,Democratic,210
 Washington,Salem 2,State Assembly,113,David M Catalfamo,Republican,149
@@ -1075,7 +1075,7 @@ Washington,White Creek 3,U.S. House,21,Elise M Stefanik,Republican,238
 Washington,White Creek 3,U.S. House,21,Elise M Stefanik,Conservative,42
 Washington,White Creek 3,U.S. House,21,Tedra L Cobb,Working Families,11
 Washington,White Creek 3,U.S. House,21,Elise M Stefanik,Independence,8
-Washington,White Creek 3,U.S. House,21,Christopher Blake,Write-In,1
+Washington,White Creek 3,U.S. House,21,Christopher Blake,,1
 Washington,White Creek 1,State Senate,45,Kimberly A Davis,Democratic,236
 Washington,White Creek 1,State Senate,45,Daniel G Stec,Republican,240
 Washington,White Creek 1,State Senate,45,Daniel G Stec,Conservative,41
@@ -1091,7 +1091,7 @@ Washington,White Creek 3,State Senate,45,Daniel G Stec,Republican,239
 Washington,White Creek 3,State Senate,45,Daniel G Stec,Conservative,42
 Washington,White Creek 3,State Senate,45,Kimberly A Davis,Working Families,14
 Washington,White Creek 3,State Senate,45,Daniel G Stec,Independence,8
-Washington,White Creek 3,State Senate,45,Christopher Blake,Write-In,1
+Washington,White Creek 3,State Senate,45,Christopher Blake,,1
 Washington,White Creek 1,State Assembly,107,Brittany L Vogel,Democratic,237
 Washington,White Creek 1,State Assembly,107,Jacob C Ashby,Republican,241
 Washington,White Creek 1,State Assembly,107,Jacob C Ashby,Conservative,38
