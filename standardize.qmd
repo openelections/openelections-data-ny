@@ -3,31 +3,43 @@ library(tidyverse)
 ```
 
 ```{r}
-ny2022 <- read_csv("2022/20221108__ny__general__precinct.csv", 
+ny_statewide <- read_csv("2020/20201103__ny__general__precinct.csv", 
     col_types = cols(district = col_double(), election_day=col_double(), affidavit = col_double(), early_voting = col_double(), military = col_double(), federal = col_double(), provisional = col_double()))
 ```
 
 ```{r}
-ny_parties_2022 <- ny2022 %>% distinct(party)
+ny_parties <- ny_statewide %>% distinct(party)
 ```
 
 ```{r}
-ny2022_parties <- ny2022 %>% mutate(party = case_when(
+ny_statewide_parties <- ny_statewide %>% mutate(party = case_when(
   party == 'LaRouche' ~ 'LAR',
   party == 'Larouche' ~ 'LAR',
   party == 'LRE' ~ 'LAR',
   party == 'LI' ~ 'LAR',
+  party == 'LIB' ~ 'LBT',
   party == 'Rep' ~ 'REP',
   party == 'WORK' ~ 'WOR',
   party == 'WFP' ~ 'WOR',
   party == 'Dem' ~ 'DEM',
   party == 'Democratic' ~ 'DEM',
   party == 'Republican' ~ 'REP',
+  party == 'REP.' ~ 'REP',
   party == 'Conservative' ~ 'CON',
+  party == 'CON.' ~ 'CON',
+  party == 'IND.' ~ 'IND',
   party == 'Working Families' ~ 'WOR',
   party == 'Moderate' ~ 'MOD',
   party == 'GOP' ~ 'REP',
   party == 'Integrity' ~ 'INT',
+  party == 'LBN' ~ 'LBT',
+  party == 'Justice & Peace' ~ 'J&P',
+  party == 'Save Our City' ~ 'SOC',
+  party == 'Proven Leader' ~ 'PVL',
+  party == 'Rise and Unite' ~ 'RAU',
+  party == 'New Moderate' ~ 'NMO',
+  party == 'COVID19 Stories' ~ 'CVD',
+  party == 'Liberal' ~ 'LIB',
   TRUE ~ party
 ))
 ```
@@ -35,20 +47,29 @@ ny2022_parties <- ny2022 %>% mutate(party = case_when(
 
 
 ```{r}
-ny_cands_2022 <- ny2022_parties %>% distinct(office, district, candidate, party) %>% mutate(candidate = str_to_title(candidate)) %>% filter(!candidate %in% c('Blanks','Under Votes', 'Bvs', 'Over and Under Votes', 'Over Votes', 'Special Votes', 'Voids', 'Void', 'Write-in', 'Blank', 'Void', 'Absentee / Military', 'Affidavit', 'Blank/Void', 'Write-In', 'Overvotes', 'Undervotes', 'Unqualified Write-Ins', 'Write-Ins', 'Scattered', 'Public Counter', 'Manually Counted Emergency', 'Federal', 'Scattering', 'Over Vote', 'Under Vote', 'Scatter', 'Undervote', 'Overvote', 'Undervotess', 'Unqualified Write-In', 'Overvotess')) %>% filter(!is.na(candidate))
+ny_cands <- ny_statewide_parties %>% distinct(office, district, candidate, party) %>% mutate(candidate = str_to_title(candidate)) %>% filter(!candidate %in% c('Blanks','Under Votes', 'Bvs', 'Over and Under Votes', 'Over Votes', 'Special Votes', 'Voids', 'Void', 'Write-in', 'Blank', 'Void', 'Absentee / Military', 'Affidavit', 'Blank/Void', 'Write-In', 'Overvotes', 'Undervotes', 'Unqualified Write-Ins', 'Write-Ins', 'Scattered', 'Public Counter', 'Manually Counted Emergency', 'Federal', 'Scattering', 'Over Vote', 'Under Vote', 'Scatter', 'Undervote', 'Overvote', 'Undervotess', 'Unqualified Write-In', 'Overvotess')) %>% filter(!is.na(candidate))
 ```
 
 ```{r}
-ny_cands_2022 %>% distinct(party)
+ny_cands %>% distinct(party)
 ```
 ```{r}
-ny_cands_2022 <- ny2022_parties %>% distinct(office, district, candidate) %>% mutate(candidate = str_to_title(candidate)) %>% filter(!candidate %in% c('Blanks','Under Votes', 'Bvs', 'Over and Under Votes', 'Over Votes', 'Special Votes', 'Voids', 'Void', 'Write-in', 'Blank', 'Void', 'Absentee / Military', 'Affidavit', 'Blank/Void', 'Write-In', 'Overvotes', 'Undervotes', 'Unqualified Write-Ins', 'Write-Ins', 'Scattered', 'Public Counter', 'Manually Counted Emergency', 'Federal', 'Scattering', 'Over Vote', 'Under Vote', 'Scatter', 'Undervote', 'Overvote', 'Undervotess', 'Unqualified Write-In', 'Overvotess')) %>% filter(!is.na(candidate))
+ny_cands <- ny_statewide_parties %>% distinct(office, district, candidate) %>% mutate(candidate = str_squish(str_to_title(candidate))) %>% filter(!candidate %in% c('Blanks','Under Votes', 'Bvs', 'Over and Under Votes', 'Over Votes', 'Special Votes', 'Voids', 'Void', 'Write-in', 'Blank', 'Void', 'Absentee / Military', 'Affidavit', 'Blank/Void', 'Write-In', 'Overvotes', 'Undervotes', 'Unqualified Write-Ins', 'Write-Ins', 'Scattered', 'Public Counter', 'Manually Counted Emergency', 'Federal', 'Scattering', 'Over Vote', 'Under Vote', 'Scatter', 'Undervote', 'Overvote', 'Undervotess', 'Unqualified Write-In', 'Overvotess', 'Ballots', 'Ballots Cast', 'Blanks/Voids')) %>% filter(!is.na(candidate))
 ```
 
 ```{r}
-ny_2022_master <- ny2022_parties %>% 
-  mutate(candidate = str_to_title(candidate)) %>% 
+ny_master <- ny_statewide_parties %>% 
+  mutate(candidate = str_squish(str_to_title(candidate))) %>% 
   mutate(candidate = case_when(
+    candidate == 'Jorgensen/Cohen' ~ 'Jo Jorgensen',
+    candidate == 'Jo Jorgensen / Jeremy Cohen' ~ 'Jo Jorgensen',
+    candidate == 'Jo Jorgensen And Jeremy Cohen' ~ 'Jo Jorgensen',
+    candidate == 'Jo Jorgensen Jeremy Cohen' ~ 'Jo Jorgensen',
+    candidate == 'Jo Jorgensen/Jeremy Cohen' ~ 'Jo Jorgensen',
+    candidate == 'Brock Pierce / Karla Ballard' ~ 'Brock Pierce',
+    candidate == 'Brock Pierce And Karla Ballard' ~ 'Brock Pierce',
+    candidate == 'Brock Pierce Karla Ballard' ~ 'Brock Pierce',
+    candidate == 'Brock Pierce/Karla Ballard' ~ 'Brock Pierce',
     candidate == 'Colton Menning' ~ 'Colton Mennig',
     candidate == 'Christopher Friend' ~ 'Christopher S. Friend',
     candidate == 'Daniel Brown' ~ 'Daniel J. Brown',
@@ -59,6 +80,7 @@ ny_2022_master <- ny2022_parties %>%
    candidate == 'Dianne Sare' ~ 'Diane Sare',
    candidate == 'Edward A. Rath Iii' ~ 'Edward A. Rath III',
    candidate == 'Elise M Stefanik' ~ 'Elise M. Stefanik',
+   candidate == 'Elise Stefanik' ~ 'Elise M. Stefanik',
    candidate == 'George A.d. Santos' ~ 'George Santos',
    candidate == 'George Borrello' ~ 'George M. Borrello',
    candidate == 'Jacob C Ashby' ~ 'Jacob C. Ashby',
@@ -99,18 +121,68 @@ ny_2022_master <- ny2022_parties %>%
    candidate == "Thomas F. O'mara" ~ "Thomas F. O'Mara",
    candidate == 'William C. Conrad Iii' ~ 'William C. Conrad III',
    candidate == 'William C. Conrad, Iii' ~ 'William C. Conrad III',
+   candidate == 'Andrew Gauzza Iv' ~ 'Andrew Gauzza IV',
+   candidate == "Andrew Gauzza, Iv" ~ 'Andrew Gauzza IV',
+   candidate == 'Andrew M Kolstee' ~ 'Andrew M. Kolstee',
+   candidate == 'Anthony Brindisi' ~ 'Anthony J. Brindisi',
+   candidate == 'Barbara Kidney' ~ 'Barbara A. Kidney',
+   candidate == 'Blankenship Don' ~ 'Don Blankenship',
+   candidate == 'Write-Ins Don Blankenship' ~ 'Don Blankenship',
+   candidate == 'Brian Carroll Write-Ins' ~ 'Brian Carroll',
+   candidate == 'Carroll Brian' ~ 'Brian Carroll',
+   candidate == 'Brittany L Vogel' ~ 'Brittany L. Vogel',
+   candidate == 'Chad Mcevoy' ~ 'Chad J. McEvoy',
+   candidate == 'Chad J. Mcevoy' ~ 'Chad J. McEvoy',
+   candidate == 'Charles A Senrick' ~ 'Charles A. Senrick',
+   candidate == 'Chele Farley' ~ 'Chele C. Farley',
+   candidate == 'Chris Jacobs Rep' ~ 'Chris Jacobs',
+   candidate == 'Chris Jacos' ~ 'Chris Jacobs',
+   candidate == 'Claudia K Braymer' ~ 'Claudia K. Braymer',
+   candidate == 'Comegys' ~ 'Scott Comegys',
+   candidate == 'Daphne V Jordan' ~ 'Daphne V. Jordan',
+   candidate == 'Ballots' ~ 'Ballots Cast',
+   candidate == 'De La Fuente Roqu' ~ 'Roque "Rocky" De La Fuente',
+   candidate == 'Roque De La Fuente' ~ 'Roque "Rocky" De La Fuente',
+   candidate == 'Duane Whitmer' ~ 'Duane J. Whitmer',
+   candidate == 'Edward Rath Iii' ~ 'Edward A. Rath III',
+   candidate == 'Edward A. Rath Iii' ~ 'Edward A. Rath III',
+   candidate == 'Elijah Reichlin Melnick' ~ 'Elijah Reichlin-Melnick',
+   candidate == 'Elijah Reichlin- Melnick' ~ 'Elijah Reichlin-Melnick',
+   candidate == 'Evelyn M Wood' ~ 'Evelyn M. Wood',
+   candidate == 'Frederick J. Akshar Ii' ~ 'Frederick J. Akshar II',
+   candidate == 'Frederick J. Akshar, Ii' ~ 'Frederick J. Akshar II',
+   candidate == 'George M. Borrello' ~ 'George M. Borello',
+   candidate == 'Gloria Lariva' ~ 'Gloria La Riva',
+   candidate == 'Helming' ~ 'Pamela A. Helming',
+   candidate == 'Jacqualine Berger' ~ 'Jacqualine G. Berger',
+   candidate == 'Jake Cormell' ~ 'Jake Cornell',
+   candidate == 'James Tedisco' ~ 'James N. Tedisco',
+   candidate == 'John Katko' ~ 'John M. Katko',
+   candidate == 'Katko' ~ 'John M. Katko',
+   candidate == 'John Lemondes, Jr.' ~ 'John Lemondes Jr.',
+   candidate == 'John T. Mcdonald Iii' ~ 'John T. McDonald III',
+   candidate == 'John Zielinski' ~ 'John S. Zielinski',
+   candidate == 'Kanye West Write-Ins' ~ 'Kanye West',
+   candidate == 'Kayne West' ~ 'Kanye West',
+   candidate == 'Keith Price Jr.' ~ 'Keith D. Price Jr.',
+   candidate == 'Kevin Collery Write-Ins' ~ 'Kevin Collery',
+   candidate == 'Kimberly A Davis' ~ 'Kimberly A. Davis',
+   candidate == 'Manktelow' ~ 'Brian D. Manktelow',
+   candidate == 'Mark Glogowski' ~ 'Mark E. Glogowski',
+   candidate == 'Michael Gentile' ~ 'Michael C. Gentile',
+   
     TRUE ~ candidate
   ))
 ```
 
 ```{r}
-ny_2022_master %>% 
+ny_master %>% 
   group_by(candidate) %>% 
   summarize(total = sum(votes)) %>% 
-  arrange(desc(total))
+  arrange(candidate)
 ```
 ```{r}
-write_csv(ny_2022_master, "2022/20221108__ny__general__precinct.csv", na="")
+write_csv(ny_master, "2020/20201103__ny__general__precinct.csv", na="")
 ```
 
 
