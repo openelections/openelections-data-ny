@@ -16,17 +16,17 @@ jobs:
 
     steps:
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: 3.x
 
     - name: Check out data
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         path: data
 
     - name: Check out data tests
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: openelections/openelections-data-tests
         ref: v2.2.0
@@ -36,7 +36,7 @@ jobs:
       run: python3 ${{ github.workspace }}/data_tests/run_tests.py --group-failures --log-file=${{ env.LOG_FILE }} ${{ matrix.test }} ${{ github.workspace }}/data
 
     - name: Upload artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       if: failure()
       with:
         name: ${{ matrix.test }}_full_logs

@@ -21,18 +21,18 @@ jobs:
       run: echo ${{ github.event.number }} > pull_request_number.txt
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: 3.x
 
     - name: Check out data
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         path: data
         fetch-depth: 0
 
     - name: Check out data tests
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: openelections/openelections-data-tests
         ref: v2.2.0
@@ -40,7 +40,7 @@ jobs:
 
     - name: Get changed *.csv files
       id: changed-files
-      uses: tj-actions/changed-files@v35
+      uses: tj-actions/changed-files@v44
       with:
         path: data
         files: |
@@ -51,14 +51,14 @@ jobs:
       run: python3 ${{ github.workspace }}/data_tests/run_tests.py --files ${{ steps.changed-files.outputs.added_files }} --group-failures --log-file=${{ env.LOG_FILE }} --truncate-log-file ${{ matrix.test }} ${{ github.workspace }}/data
 
     - name: Upload the pull request number
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       if: failure()
       with:
         name: pull_request_number
         path: ./pull_request_number.txt
 
     - name: Upload error logs
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       if: failure()
       with:
         name: ${{ matrix.test }}
