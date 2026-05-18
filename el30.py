@@ -55,7 +55,7 @@ for line in lines:
             party = party.replace(')','')
         try:
             votes, pct = line.split('\t')[1:]
-        except:
+        except Exception:
             votes = line.split('\t')[1:][0]
         results.append(['Rockland', precinct, office, None, party, candidate, votes.replace(',','').strip()])
 
