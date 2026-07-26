@@ -9,6 +9,10 @@ Pre-processed election results for New York. These CSV files are converted from 
 
 | year  | general  | primary  |
 |---|---|---|
+| 2024  | [working](https://github.com/openelections/openelections-data-ny/issues/148) | not started |
+| 2022  | [done](https://github.com/openelections/openelections-data-ny/blob/master/2022/20221108__ny__general__precinct.csv) | not started |
+| 2020  | [done](https://github.com/openelections/openelections-data-ny/blob/master/2020/20201103__ny__general__precinct.csv) | not started |
+| 2018  | [done](https://github.com/openelections/openelections-data-ny/blob/master/2018/20181106__ny__general__precinct.csv) | not started |
 | 2016  | done  |  [working](https://github.com/openelections/openelections-data-ny/issues/5) |
 | 2014 |  [working](https://github.com/openelections/openelections-data-ny/issues/35) | [working](https://github.com/openelections/openelections-data-ny/issues/39)  |
 | 2012  |  [working](https://github.com/openelections/openelections-data-ny/issues/37) | [not started](https://github.com/openelections/openelections-data-ny/issues/38) |
