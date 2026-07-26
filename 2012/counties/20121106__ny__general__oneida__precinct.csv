@@ -16,9 +16,9 @@ Oneida,City of New Hartford,W4D1,AD101,Dem,Daniel Carter,231
 Oneida,City of New Hartford,W4D2,AD101,Dem,Daniel Carter,112
 Oneida,City of New Hartford,W4D3,AD101,Dem,Daniel Carter,106
 Oneida,City of New Hartford,W4D4,AD101,Dem,Daniel Carter,239
-Oneida,Paris 1,,AD101,Dem,Daniel Carter,101
-Oneida,Paris 2,,AD101,Dem,Daniel Carter,152
-Oneida,Paris 3,,AD101,Dem,Daniel Carter,147
+Oneida,Paris 1,State Assembly,AD101,Dem,Daniel Carter,101
+Oneida,Paris 2,State Assembly,AD101,Dem,Daniel Carter,152
+Oneida,Paris 3,State Assembly,AD101,Dem,Daniel Carter,147
 Oneida,City of New Hartford,W1D1,AD101,Rep,Claudia Tenney,490
 Oneida,City of New Hartford,W1D2,AD101,Rep,Claudia Tenney,315
 Oneida,City of New Hartford,W1D3,AD101,Rep,Claudia Tenney,450
@@ -36,9 +36,9 @@ Oneida,City of New Hartford,W4D1,AD101,Rep,Claudia Tenney,413
 Oneida,City of New Hartford,W4D2,AD101,Rep,Claudia Tenney,238
 Oneida,City of New Hartford,W4D3,AD101,Rep,Claudia Tenney,220
 Oneida,City of New Hartford,W4D4,AD101,Rep,Claudia Tenney,535
-Oneida,Paris 1,,AD101,Rep,Claudia Tenney,317
-Oneida,Paris 2,,AD101,Rep,Claudia Tenney,430
-Oneida,Paris 3,,AD101,Rep,Claudia Tenney,515
+Oneida,Paris 1,State Assembly,AD101,Rep,Claudia Tenney,317
+Oneida,Paris 2,State Assembly,AD101,Rep,Claudia Tenney,430
+Oneida,Paris 3,State Assembly,AD101,Rep,Claudia Tenney,515
 Oneida,City of New Hartford,W1D1,AD101,Con,Claudia Tenney,36
 Oneida,City of New Hartford,W1D2,AD101,Con,Claudia Tenney,32
 Oneida,City of New Hartford,W1D3,AD101,Con,Claudia Tenney,25
@@ -56,9 +56,9 @@ Oneida,City of New Hartford,W4D1,AD101,Con,Claudia Tenney,32
 Oneida,City of New Hartford,W4D2,AD101,Con,Claudia Tenney,20
 Oneida,City of New Hartford,W4D3,AD101,Con,Claudia Tenney,30
 Oneida,City of New Hartford,W4D4,AD101,Con,Claudia Tenney,42
-Oneida,Paris 1,,AD101,Con,Claudia Tenney,36
-Oneida,Paris 2,,AD101,Con,Claudia Tenney,53
-Oneida,Paris 3,,AD101,Con,Claudia Tenney,48
+Oneida,Paris 1,State Assembly,AD101,Con,Claudia Tenney,36
+Oneida,Paris 2,State Assembly,AD101,Con,Claudia Tenney,53
+Oneida,Paris 3,State Assembly,AD101,Con,Claudia Tenney,48
 Oneida,City of New Hartford,W1D1,AD101,Ind,Claudia Tenney,34
 Oneida,City of New Hartford,W1D2,AD101,Ind,Claudia Tenney,26
 Oneida,City of New Hartford,W1D3,AD101,Ind,Claudia Tenney,48
@@ -76,9 +76,9 @@ Oneida,City of New Hartford,W4D1,AD101,Ind,Claudia Tenney,33
 Oneida,City of New Hartford,W4D2,AD101,Ind,Claudia Tenney,23
 Oneida,City of New Hartford,W4D3,AD101,Ind,Claudia Tenney,19
 Oneida,City of New Hartford,W4D4,AD101,Ind,Claudia Tenney,56
-Oneida,Paris 1,,AD101,Ind,Claudia Tenney,42
-Oneida,Paris 2,,AD101,Ind,Claudia Tenney,40
-Oneida,Paris 3,,AD101,Ind,Claudia Tenney,55
+Oneida,Paris 1,State Assembly,AD101,Ind,Claudia Tenney,42
+Oneida,Paris 2,State Assembly,AD101,Ind,Claudia Tenney,40
+Oneida,Paris 3,State Assembly,AD101,Ind,Claudia Tenney,55
 Oneida,City of New Hartford,W1D1,AD101,Ind,writein,0
 Oneida,City of New Hartford,W1D2,AD101,Ind,writein,0
 Oneida,City of New Hartford,W1D3,AD101,Ind,writein,0
@@ -96,9 +96,9 @@ Oneida,City of New Hartford,W4D1,AD101,Ind,writein,0
 Oneida,City of New Hartford,W4D2,AD101,Ind,writein,0
 Oneida,City of New Hartford,W4D3,AD101,Ind,writein,0
 Oneida,City of New Hartford,W4D4,AD101,Ind,writein,0
-Oneida,Paris 1,,AD101,Ind,writein,0
-Oneida,Paris 2,,AD101,Ind,writein,0
-Oneida,Paris 3,,AD101,Ind,writein,0
+Oneida,Paris 1,State Assembly,AD101,Ind,writein,0
+Oneida,Paris 2,State Assembly,AD101,Ind,writein,0
+Oneida,Paris 3,State Assembly,AD101,Ind,writein,0
 Oneida,Annsville 1,State Assembly,117,Rep,Kenneth Blankenbush,322
 Oneida,Annsville 2,State Assembly,117,Rep,Kenneth Blankenbush,122
 Oneida,Annsville 3,State Assembly,117,Rep,Kenneth Blankenbush,81

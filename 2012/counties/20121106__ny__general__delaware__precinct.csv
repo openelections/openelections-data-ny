@@ -1,52 +1,52 @@
 county,precinct,office,district,party,candidate,votes
-Delaware,ANDES - 1,,AD101,Dem,Daniel Carter,180
-Delaware,ANDES - 2,,AD101,Dem,Daniel Carter,67
-Delaware,BOVINA - 1,,AD101,Dem,Daniel Carter,138
-Delaware,DAVENPORT - 1,,AD101,Dem,Daniel Carter,99
-Delaware,DAVENPORT - 2,,AD101,Dem,Daniel Carter,217
-Delaware,DELHI - 1,,AD101,Dem,Daniel Carter,125
-Delaware,DELHI - 2,,AD101,Dem,Daniel Carter,110
-Delaware,DELHI - 3,,AD101,Dem,Daniel Carter,139
-Delaware,DELHI - 4,,AD101,Dem,Daniel Carter,164
-Delaware,HAMDEN - 1,,AD101,Dem,Daniel Carter,171
-Delaware,MEREDITH - 1,,AD101,Dem,Daniel Carter,171
-Delaware,MEREDITH - 2,,AD101,Dem,Daniel Carter,89
-Delaware,ANDES - 1,,AD101,Rep,Claudia Tenney,245
-Delaware,ANDES - 2,,AD101,Rep,Claudia Tenney,119
-Delaware,BOVINA - 1,,AD101,Rep,Claudia Tenney,161
-Delaware,DAVENPORT - 1,,AD101,Rep,Claudia Tenney,246
-Delaware,DAVENPORT - 2,,AD101,Rep,Claudia Tenney,336
-Delaware,DELHI - 1,,AD101,Rep,Claudia Tenney,231
-Delaware,DELHI - 2,,AD101,Rep,Claudia Tenney,193
-Delaware,DELHI - 3,,AD101,Rep,Claudia Tenney,182
-Delaware,DELHI - 4,,AD101,Rep,Claudia Tenney,160
-Delaware,HAMDEN - 1,,AD101,Rep,Claudia Tenney,280
-Delaware,MEREDITH - 1,,AD101,Rep,Claudia Tenney,232
-Delaware,MEREDITH - 2,,AD101,Rep,Claudia Tenney,109
-Delaware,ANDES - 1,,AD101,Con,Claudia Tenney,19
-Delaware,ANDES - 2,,AD101,Con,Claudia Tenney,9
-Delaware,BOVINA - 1,,AD101,Con,Claudia Tenney,25
-Delaware,DAVENPORT - 1,,AD101,Con,Claudia Tenney,22
-Delaware,DAVENPORT - 2,,AD101,Con,Claudia Tenney,26
-Delaware,DELHI - 1,,AD101,Con,Claudia Tenney,22
-Delaware,DELHI - 2,,AD101,Con,Claudia Tenney,15
-Delaware,DELHI - 3,,AD101,Con,Claudia Tenney,26
-Delaware,DELHI - 4,,AD101,Con,Claudia Tenney,13
-Delaware,HAMDEN - 1,,AD101,Con,Claudia Tenney,34
-Delaware,MEREDITH - 1,,AD101,Con,Claudia Tenney,33
-Delaware,MEREDITH - 2,,AD101,Con,Claudia Tenney,28
-Delaware,ANDES - 1,,AD101,Ind,Claudia Tenney,9
-Delaware,ANDES - 2,,AD101,Ind,Claudia Tenney,5
-Delaware,BOVINA - 1,,AD101,Ind,Claudia Tenney,9
-Delaware,DAVENPORT - 1,,AD101,Ind,Claudia Tenney,15
-Delaware,DAVENPORT - 2,,AD101,Ind,Claudia Tenney,17
-Delaware,DELHI - 1,,AD101,Ind,Claudia Tenney,17
-Delaware,DELHI - 2,,AD101,Ind,Claudia Tenney,19
-Delaware,DELHI - 3,,AD101,Ind,Claudia Tenney,14
-Delaware,DELHI - 4,,AD101,Ind,Claudia Tenney,12
-Delaware,HAMDEN - 1,,AD101,Ind,Claudia Tenney,28
-Delaware,MEREDITH - 1,,AD101,Ind,Claudia Tenney,20
-Delaware,MEREDITH - 2,,AD101,Ind,Claudia Tenney,4
+Delaware,ANDES - 1,State Assembly,AD101,Dem,Daniel Carter,180
+Delaware,ANDES - 2,State Assembly,AD101,Dem,Daniel Carter,67
+Delaware,BOVINA - 1,State Assembly,AD101,Dem,Daniel Carter,138
+Delaware,DAVENPORT - 1,State Assembly,AD101,Dem,Daniel Carter,99
+Delaware,DAVENPORT - 2,State Assembly,AD101,Dem,Daniel Carter,217
+Delaware,DELHI - 1,State Assembly,AD101,Dem,Daniel Carter,125
+Delaware,DELHI - 2,State Assembly,AD101,Dem,Daniel Carter,110
+Delaware,DELHI - 3,State Assembly,AD101,Dem,Daniel Carter,139
+Delaware,DELHI - 4,State Assembly,AD101,Dem,Daniel Carter,164
+Delaware,HAMDEN - 1,State Assembly,AD101,Dem,Daniel Carter,171
+Delaware,MEREDITH - 1,State Assembly,AD101,Dem,Daniel Carter,171
+Delaware,MEREDITH - 2,State Assembly,AD101,Dem,Daniel Carter,89
+Delaware,ANDES - 1,State Assembly,AD101,Rep,Claudia Tenney,245
+Delaware,ANDES - 2,State Assembly,AD101,Rep,Claudia Tenney,119
+Delaware,BOVINA - 1,State Assembly,AD101,Rep,Claudia Tenney,161
+Delaware,DAVENPORT - 1,State Assembly,AD101,Rep,Claudia Tenney,246
+Delaware,DAVENPORT - 2,State Assembly,AD101,Rep,Claudia Tenney,336
+Delaware,DELHI - 1,State Assembly,AD101,Rep,Claudia Tenney,231
+Delaware,DELHI - 2,State Assembly,AD101,Rep,Claudia Tenney,193
+Delaware,DELHI - 3,State Assembly,AD101,Rep,Claudia Tenney,182
+Delaware,DELHI - 4,State Assembly,AD101,Rep,Claudia Tenney,160
+Delaware,HAMDEN - 1,State Assembly,AD101,Rep,Claudia Tenney,280
+Delaware,MEREDITH - 1,State Assembly,AD101,Rep,Claudia Tenney,232
+Delaware,MEREDITH - 2,State Assembly,AD101,Rep,Claudia Tenney,109
+Delaware,ANDES - 1,State Assembly,AD101,Con,Claudia Tenney,19
+Delaware,ANDES - 2,State Assembly,AD101,Con,Claudia Tenney,9
+Delaware,BOVINA - 1,State Assembly,AD101,Con,Claudia Tenney,25
+Delaware,DAVENPORT - 1,State Assembly,AD101,Con,Claudia Tenney,22
+Delaware,DAVENPORT - 2,State Assembly,AD101,Con,Claudia Tenney,26
+Delaware,DELHI - 1,State Assembly,AD101,Con,Claudia Tenney,22
+Delaware,DELHI - 2,State Assembly,AD101,Con,Claudia Tenney,15
+Delaware,DELHI - 3,State Assembly,AD101,Con,Claudia Tenney,26
+Delaware,DELHI - 4,State Assembly,AD101,Con,Claudia Tenney,13
+Delaware,HAMDEN - 1,State Assembly,AD101,Con,Claudia Tenney,34
+Delaware,MEREDITH - 1,State Assembly,AD101,Con,Claudia Tenney,33
+Delaware,MEREDITH - 2,State Assembly,AD101,Con,Claudia Tenney,28
+Delaware,ANDES - 1,State Assembly,AD101,Ind,Claudia Tenney,9
+Delaware,ANDES - 2,State Assembly,AD101,Ind,Claudia Tenney,5
+Delaware,BOVINA - 1,State Assembly,AD101,Ind,Claudia Tenney,9
+Delaware,DAVENPORT - 1,State Assembly,AD101,Ind,Claudia Tenney,15
+Delaware,DAVENPORT - 2,State Assembly,AD101,Ind,Claudia Tenney,17
+Delaware,DELHI - 1,State Assembly,AD101,Ind,Claudia Tenney,17
+Delaware,DELHI - 2,State Assembly,AD101,Ind,Claudia Tenney,19
+Delaware,DELHI - 3,State Assembly,AD101,Ind,Claudia Tenney,14
+Delaware,DELHI - 4,State Assembly,AD101,Ind,Claudia Tenney,12
+Delaware,HAMDEN - 1,State Assembly,AD101,Ind,Claudia Tenney,28
+Delaware,MEREDITH - 1,State Assembly,AD101,Ind,Claudia Tenney,20
+Delaware,MEREDITH - 2,State Assembly,AD101,Ind,Claudia Tenney,4
 Delaware,Harpersfield 1,State Assembly,102,Dem,James Miller,171
 Delaware,Kortright 1,State Assembly,102,Dem,James Miller,104
 Delaware,Kortright 2,State Assembly,102,Dem,James Miller,127

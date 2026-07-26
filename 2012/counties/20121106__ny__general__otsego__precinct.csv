@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes
-Otsego,Maryland 1,,AD101,Dem,Daniel Carter,82
-Otsego,Maryland 2,,AD101,Dem,Daniel Carter,109
-Otsego,Middlefield 1,,AD101,Dem,Daniel Carter,204
-Otsego,Middlefield 2,,AD101,Dem,Daniel Carter,238
-Otsego,Springfield 1,,AD101,Dem,Daniel Carter,189
-Otsego,Westfield 1,,AD101,Dem,Daniel Carter,106
-Otsego,Maryland 1,,AD101,Rep,Claudia Tenney,165
-Otsego,Maryland 2,,AD101,Rep,Claudia Tenney,259
-Otsego,Middlefield 1,,AD101,Rep,Claudia Tenney,164
-Otsego,Middlefield 2,,AD101,Rep,Claudia Tenney,228
-Otsego,Springfield 1,,AD101,Rep,Claudia Tenney,346
-Otsego,Westfield 1,,AD101,Rep,Claudia Tenney,201
-Otsego,Maryland 1,,AD101,Con,Claudia Tenney,19
-Otsego,Maryland 2,,AD101,Con,Claudia Tenney,27
-Otsego,Middlefield 1,,AD101,Con,Claudia Tenney,11
-Otsego,Middlefield 2,,AD101,Con,Claudia Tenney,26
-Otsego,Springfield 1,,AD101,Con,Claudia Tenney,30
-Otsego,Westfield 1,,AD101,Con,Claudia Tenney,26
-Otsego,Maryland 1,,AD101,Ind,Claudia Tenney,5
-Otsego,Maryland 2,,AD101,Ind,Claudia Tenney,17
-Otsego,Middlefield 1,,AD101,Ind,Claudia Tenney,12
-Otsego,Middlefield 2,,AD101,Ind,Claudia Tenney,24
-Otsego,Springfield 1,,AD101,Ind,Claudia Tenney,21
-Otsego,Westfield 1,,AD101,Ind,Claudia Tenney,20
+Otsego,Maryland 1,State Assembly,AD101,Dem,Daniel Carter,82
+Otsego,Maryland 2,State Assembly,AD101,Dem,Daniel Carter,109
+Otsego,Middlefield 1,State Assembly,AD101,Dem,Daniel Carter,204
+Otsego,Middlefield 2,State Assembly,AD101,Dem,Daniel Carter,238
+Otsego,Springfield 1,State Assembly,AD101,Dem,Daniel Carter,189
+Otsego,Westfield 1,State Assembly,AD101,Dem,Daniel Carter,106
+Otsego,Maryland 1,State Assembly,AD101,Rep,Claudia Tenney,165
+Otsego,Maryland 2,State Assembly,AD101,Rep,Claudia Tenney,259
+Otsego,Middlefield 1,State Assembly,AD101,Rep,Claudia Tenney,164
+Otsego,Middlefield 2,State Assembly,AD101,Rep,Claudia Tenney,228
+Otsego,Springfield 1,State Assembly,AD101,Rep,Claudia Tenney,346
+Otsego,Westfield 1,State Assembly,AD101,Rep,Claudia Tenney,201
+Otsego,Maryland 1,State Assembly,AD101,Con,Claudia Tenney,19
+Otsego,Maryland 2,State Assembly,AD101,Con,Claudia Tenney,27
+Otsego,Middlefield 1,State Assembly,AD101,Con,Claudia Tenney,11
+Otsego,Middlefield 2,State Assembly,AD101,Con,Claudia Tenney,26
+Otsego,Springfield 1,State Assembly,AD101,Con,Claudia Tenney,30
+Otsego,Westfield 1,State Assembly,AD101,Con,Claudia Tenney,26
+Otsego,Maryland 1,State Assembly,AD101,Ind,Claudia Tenney,5
+Otsego,Maryland 2,State Assembly,AD101,Ind,Claudia Tenney,17
+Otsego,Middlefield 1,State Assembly,AD101,Ind,Claudia Tenney,12
+Otsego,Middlefield 2,State Assembly,AD101,Ind,Claudia Tenney,24
+Otsego,Springfield 1,State Assembly,AD101,Ind,Claudia Tenney,21
+Otsego,Westfield 1,State Assembly,AD101,Ind,Claudia Tenney,20
 Otsego,Cherry Valley 1,State Assembly,102,Dem,James Miller,219
 Otsego,Decatur 1,State Assembly,102,Dem,James Miller,35
 Otsego,Roseboom 1,State Assembly,102,Dem,James Miller,116

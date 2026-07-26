@@ -3,7 +3,7 @@ Herkimer,C LITTLE FALLS W1,Governor,,DEM,Kathy C. Hochul,95,9,104
 Herkimer,C LITTLE FALLS W2,Governor,,DEM,Kathy C. Hochul,127,5,132
 Herkimer,C LITTLE FALLS W3,Governor,,DEM,Kathy C. Hochul,93,3,96
 Herkimer,C LITTLE FALLS W4,Governor,,DEM,Kathy C. Hochul,65,5,70
-Herkimer,COLUMBIA 1 ,Governor,,DEM,Kathy C. Hochul,50,3,53
+Herkimer,COLUMBIA 1,Governor,,DEM,Kathy C. Hochul,50,3,53
 Herkimer,COLUMBIA 2,Governor,,DEM,Kathy C. Hochul,21,0,21
 Herkimer,DANUBE 1,Governor,,DEM,Kathy C. Hochul,45,2,47
 Herkimer,FAIRFIELD 1,Governor,,DEM,Kathy C. Hochul,61,4,65
@@ -49,7 +49,7 @@ Herkimer,C LITTLE FALLS W1,Governor,,WOR,Kathy C. Hochul,9,1,10
 Herkimer,C LITTLE FALLS W2,Governor,,WOR,Kathy C. Hochul,10,2,12
 Herkimer,C LITTLE FALLS W3,Governor,,WOR,Kathy C. Hochul,6,0,6
 Herkimer,C LITTLE FALLS W4,Governor,,WOR,Kathy C. Hochul,4,1,5
-Herkimer,COLUMBIA 1 ,Governor,,WOR,Kathy C. Hochul,4,0,4
+Herkimer,COLUMBIA 1,Governor,,WOR,Kathy C. Hochul,4,0,4
 Herkimer,COLUMBIA 2,Governor,,WOR,Kathy C. Hochul,1,0,1
 Herkimer,DANUBE 1,Governor,,WOR,Kathy C. Hochul,5,0,5
 Herkimer,FAIRFIELD 1,Governor,,WOR,Kathy C. Hochul,8,0,8
@@ -95,7 +95,7 @@ Herkimer,C LITTLE FALLS W1,Governor,,REP,Lee Zeldin,193,8,201
 Herkimer,C LITTLE FALLS W2,Governor,,REP,Lee Zeldin,182,6,188
 Herkimer,C LITTLE FALLS W3,Governor,,REP,Lee Zeldin,129,5,134
 Herkimer,C LITTLE FALLS W4,Governor,,REP,Lee Zeldin,93,3,96
-Herkimer,COLUMBIA 1 ,Governor,,REP,Lee Zeldin,360,10,370
+Herkimer,COLUMBIA 1,Governor,,REP,Lee Zeldin,360,10,370
 Herkimer,COLUMBIA 2,Governor,,REP,Lee Zeldin,113,0,113
 Herkimer,DANUBE 1,Governor,,REP,Lee Zeldin,251,2,253
 Herkimer,FAIRFIELD 1,Governor,,REP,Lee Zeldin,432,8,440
@@ -141,7 +141,7 @@ Herkimer,C LITTLE FALLS W1,Governor,,CON,Lee Zeldin,19,2,21
 Herkimer,C LITTLE FALLS W2,Governor,,CON,Lee Zeldin,32,0,32
 Herkimer,C LITTLE FALLS W3,Governor,,CON,Lee Zeldin,12,0,12
 Herkimer,C LITTLE FALLS W4,Governor,,CON,Lee Zeldin,18,1,19
-Herkimer,COLUMBIA 1 ,Governor,,CON,Lee Zeldin,50,0,50
+Herkimer,COLUMBIA 1,Governor,,CON,Lee Zeldin,50,0,50
 Herkimer,COLUMBIA 2,Governor,,CON,Lee Zeldin,12,0,12
 Herkimer,DANUBE 1,Governor,,CON,Lee Zeldin,29,1,30
 Herkimer,FAIRFIELD 1,Governor,,CON,Lee Zeldin,38,1,39
@@ -187,7 +187,7 @@ Herkimer,C LITTLE FALLS W1,Governor,,,Write-In,0,,0
 Herkimer,C LITTLE FALLS W2,Governor,,,Write-In,1,,1
 Herkimer,C LITTLE FALLS W3,Governor,,,Write-In,1,,1
 Herkimer,C LITTLE FALLS W4,Governor,,,Write-In,2,,2
-Herkimer,COLUMBIA 1 ,Governor,,,Write-In,4,,4
+Herkimer,COLUMBIA 1,Governor,,,Write-In,4,,4
 Herkimer,COLUMBIA 2,Governor,,,Write-In,0,,0
 Herkimer,DANUBE 1,Governor,,,Write-In,0,,0
 Herkimer,FAIRFIELD 1,Governor,,,Write-In,1,,1
@@ -233,7 +233,7 @@ Herkimer,C LITTLE FALLS W1,Governor,,,Void,0,,0
 Herkimer,C LITTLE FALLS W2,Governor,,,Void,0,,0
 Herkimer,C LITTLE FALLS W3,Governor,,,Void,0,,0
 Herkimer,C LITTLE FALLS W4,Governor,,,Void,0,,0
-Herkimer,COLUMBIA 1 ,Governor,,,Void,0,,0
+Herkimer,COLUMBIA 1,Governor,,,Void,0,,0
 Herkimer,COLUMBIA 2,Governor,,,Void,0,,0
 Herkimer,DANUBE 1,Governor,,,Void,0,,0
 Herkimer,FAIRFIELD 1,Governor,,,Void,0,,0
@@ -279,7 +279,7 @@ Herkimer,C LITTLE FALLS W1,Governor,,,Blank,4,,4
 Herkimer,C LITTLE FALLS W2,Governor,,,Blank,5,,5
 Herkimer,C LITTLE FALLS W3,Governor,,,Blank,2,,2
 Herkimer,C LITTLE FALLS W4,Governor,,,Blank,2,,2
-Herkimer,COLUMBIA 1 ,Governor,,,Blank,2,,2
+Herkimer,COLUMBIA 1,Governor,,,Blank,2,,2
 Herkimer,COLUMBIA 2,Governor,,,Blank,1,,1
 Herkimer,DANUBE 1,Governor,,,Blank,0,,0
 Herkimer,FAIRFIELD 1,Governor,,,Blank,4,,4
@@ -325,7 +325,7 @@ Herkimer,C LITTLE FALLS W1,Comptroller,,DEM,Thomas P. DiNapoli,120,11,131
 Herkimer,C LITTLE FALLS W2,Comptroller,,DEM,Thomas P. DiNapoli,142,5,147
 Herkimer,C LITTLE FALLS W3,Comptroller,,DEM,Thomas P. DiNapoli,102,4,106
 Herkimer,C LITTLE FALLS W4,Comptroller,,DEM,Thomas P. DiNapoli,79,6,85
-Herkimer,COLUMBIA 1 ,Comptroller,,DEM,Thomas P. DiNapoli,63,4,67
+Herkimer,COLUMBIA 1,Comptroller,,DEM,Thomas P. DiNapoli,63,4,67
 Herkimer,COLUMBIA 2,Comptroller,,DEM,Thomas P. DiNapoli,19,0,19
 Herkimer,DANUBE 1,Comptroller,,DEM,Thomas P. DiNapoli,54,2,56
 Herkimer,FAIRFIELD 1,Comptroller,,DEM,Thomas P. DiNapoli,86,4,90
@@ -371,7 +371,7 @@ Herkimer,C LITTLE FALLS W1,Comptroller,,WOR,Thomas P. DiNapoli,110,1,111
 Herkimer,C LITTLE FALLS W2,Comptroller,,WOR,Thomas P. DiNapoli,14,3,17
 Herkimer,C LITTLE FALLS W3,Comptroller,,WOR,Thomas P. DiNapoli,12,0,12
 Herkimer,C LITTLE FALLS W4,Comptroller,,WOR,Thomas P. DiNapoli,6,0,6
-Herkimer,COLUMBIA 1 ,Comptroller,,WOR,Thomas P. DiNapoli,12,0,12
+Herkimer,COLUMBIA 1,Comptroller,,WOR,Thomas P. DiNapoli,12,0,12
 Herkimer,COLUMBIA 2,Comptroller,,WOR,Thomas P. DiNapoli,2,0,2
 Herkimer,DANUBE 1,Comptroller,,WOR,Thomas P. DiNapoli,8,0,8
 Herkimer,FAIRFIELD 1,Comptroller,,WOR,Thomas P. DiNapoli,18,0,18
@@ -417,7 +417,7 @@ Herkimer,C LITTLE FALLS W1,Comptroller,,REP,Paul Rodriguez,163,4,167
 Herkimer,C LITTLE FALLS W2,Comptroller,,REP,Paul Rodriguez,154,4,158
 Herkimer,C LITTLE FALLS W3,Comptroller,,REP,Paul Rodriguez,111,4,115
 Herkimer,C LITTLE FALLS W4,Comptroller,,REP,Paul Rodriguez,78,3,81
-Herkimer,COLUMBIA 1 ,Comptroller,,REP,Paul Rodriguez,355,7,362
+Herkimer,COLUMBIA 1,Comptroller,,REP,Paul Rodriguez,355,7,362
 Herkimer,COLUMBIA 2,Comptroller,,REP,Paul Rodriguez,107,0,107
 Herkimer,DANUBE 1,Comptroller,,REP,Paul Rodriguez,232,3,235
 Herkimer,FAIRFIELD 1,Comptroller,,REP,Paul Rodriguez,382,8,390
@@ -463,7 +463,7 @@ Herkimer,C LITTLE FALLS W1,Comptroller,,CON,Paul Rodriguez,16,3,19
 Herkimer,C LITTLE FALLS W2,Comptroller,,CON,Paul Rodriguez,24,0,24
 Herkimer,C LITTLE FALLS W3,Comptroller,,CON,Paul Rodriguez,10,0,10
 Herkimer,C LITTLE FALLS W4,Comptroller,,CON,Paul Rodriguez,12,1,13
-Herkimer,COLUMBIA 1 ,Comptroller,,CON,Paul Rodriguez,49,0,49
+Herkimer,COLUMBIA 1,Comptroller,,CON,Paul Rodriguez,49,0,49
 Herkimer,COLUMBIA 2,Comptroller,,CON,Paul Rodriguez,12,0,12
 Herkimer,DANUBE 1,Comptroller,,CON,Paul Rodriguez,26,0,26
 Herkimer,FAIRFIELD 1,Comptroller,,CON,Paul Rodriguez,38,1,39
@@ -509,7 +509,7 @@ Herkimer,C LITTLE FALLS W1,Comptroller,,,Write-In,0,,0
 Herkimer,C LITTLE FALLS W2,Comptroller,,,Write-In,1,,1
 Herkimer,C LITTLE FALLS W3,Comptroller,,,Write-In,0,,0
 Herkimer,C LITTLE FALLS W4,Comptroller,,,Write-In,0,,0
-Herkimer,COLUMBIA 1 ,Comptroller,,,Write-In,0,,0
+Herkimer,COLUMBIA 1,Comptroller,,,Write-In,0,,0
 Herkimer,COLUMBIA 2,Comptroller,,,Write-In,0,,0
 Herkimer,DANUBE 1,Comptroller,,,Write-In,0,,0
 Herkimer,FAIRFIELD 1,Comptroller,,,Write-In,0,,0
@@ -555,7 +555,7 @@ Herkimer,C LITTLE FALLS W1,Comptroller,,,Void,0,,0
 Herkimer,C LITTLE FALLS W2,Comptroller,,,Void,0,,0
 Herkimer,C LITTLE FALLS W3,Comptroller,,,Void,0,,0
 Herkimer,C LITTLE FALLS W4,Comptroller,,,Void,0,,0
-Herkimer,COLUMBIA 1 ,Comptroller,,,Void,0,,0
+Herkimer,COLUMBIA 1,Comptroller,,,Void,0,,0
 Herkimer,COLUMBIA 2,Comptroller,,,Void,0,,0
 Herkimer,DANUBE 1,Comptroller,,,Void,0,,0
 Herkimer,FAIRFIELD 1,Comptroller,,,Void,0,,0
@@ -601,7 +601,7 @@ Herkimer,C LITTLE FALLS W1,Comptroller,,,Blank,11,,11
 Herkimer,C LITTLE FALLS W2,Comptroller,,,Blank,22,,22
 Herkimer,C LITTLE FALLS W3,Comptroller,,,Blank,8,,8
 Herkimer,C LITTLE FALLS W4,Comptroller,,,Blank,9,,9
-Herkimer,COLUMBIA 1 ,Comptroller,,,Blank,9,,9
+Herkimer,COLUMBIA 1,Comptroller,,,Blank,9,,9
 Herkimer,COLUMBIA 2,Comptroller,,,Blank,8,,8
 Herkimer,DANUBE 1,Comptroller,,,Blank,10,,10
 Herkimer,FAIRFIELD 1,Comptroller,,,Blank,20,,20
@@ -647,7 +647,7 @@ Herkimer,C LITTLE FALLS W1,Attorney General,,DEM,Letitia A. James,112,9,121
 Herkimer,C LITTLE FALLS W2,Attorney General,,DEM,Letitia A. James,129,6,135
 Herkimer,C LITTLE FALLS W3,Attorney General,,DEM,Letitia A. James,100,4,104
 Herkimer,C LITTLE FALLS W4,Attorney General,,DEM,Letitia A. James,71,4,75
-Herkimer,COLUMBIA 1 ,Attorney General,,DEM,Letitia A. James,55,4,59
+Herkimer,COLUMBIA 1,Attorney General,,DEM,Letitia A. James,55,4,59
 Herkimer,COLUMBIA 2,Attorney General,,DEM,Letitia A. James,19,0,19
 Herkimer,DANUBE 1,Attorney General,,DEM,Letitia A. James,47,2,49
 Herkimer,FAIRFIELD 1,Attorney General,,DEM,Letitia A. James,70,4,74
@@ -693,7 +693,7 @@ Herkimer,C LITTLE FALLS W1,Attorney General,,WOR,Letitia A. James,11,2,13
 Herkimer,C LITTLE FALLS W2,Attorney General,,WOR,Letitia A. James,13,3,16
 Herkimer,C LITTLE FALLS W3,Attorney General,,WOR,Letitia A. James,7,0,7
 Herkimer,C LITTLE FALLS W4,Attorney General,,WOR,Letitia A. James,4,1,5
-Herkimer,COLUMBIA 1 ,Attorney General,,WOR,Letitia A. James,4,0,4
+Herkimer,COLUMBIA 1,Attorney General,,WOR,Letitia A. James,4,0,4
 Herkimer,COLUMBIA 2,Attorney General,,WOR,Letitia A. James,1,0,1
 Herkimer,DANUBE 1,Attorney General,,WOR,Letitia A. James,5,0,5
 Herkimer,FAIRFIELD 1,Attorney General,,WOR,Letitia A. James,13,0,13
@@ -739,7 +739,7 @@ Herkimer,C LITTLE FALLS W1,Attorney General,,REP,Michael Henry,169,8,177
 Herkimer,C LITTLE FALLS W2,Attorney General,,REP,Michael Henry,168,3,171
 Herkimer,C LITTLE FALLS W3,Attorney General,,REP,Michael Henry,118,4,122
 Herkimer,C LITTLE FALLS W4,Attorney General,,REP,Michael Henry,86,2,88
-Herkimer,COLUMBIA 1 ,Attorney General,,REP,Michael Henry,344,9,353
+Herkimer,COLUMBIA 1,Attorney General,,REP,Michael Henry,344,9,353
 Herkimer,COLUMBIA 2,Attorney General,,REP,Michael Henry,109,0,109
 Herkimer,DANUBE 1,Attorney General,,REP,Michael Henry,245,3,248
 Herkimer,FAIRFIELD 1,Attorney General,,REP,Michael Henry,397,8,405
@@ -785,7 +785,7 @@ Herkimer,C LITTLE FALLS W1,Attorney General,,CON,Michael Henry,15,1,16
 Herkimer,C LITTLE FALLS W2,Attorney General,,CON,Michael Henry,25,0,25
 Herkimer,C LITTLE FALLS W3,Attorney General,,CON,Michael Henry,10,0,10
 Herkimer,C LITTLE FALLS W4,Attorney General,,CON,Michael Henry,15,1,16
-Herkimer,COLUMBIA 1 ,Attorney General,,CON,Michael Henry,54,0,54
+Herkimer,COLUMBIA 1,Attorney General,,CON,Michael Henry,54,0,54
 Herkimer,COLUMBIA 2,Attorney General,,CON,Michael Henry,12,0,12
 Herkimer,DANUBE 1,Attorney General,,CON,Michael Henry,28,0,28
 Herkimer,FAIRFIELD 1,Attorney General,,CON,Michael Henry,43,1,44
@@ -831,7 +831,7 @@ Herkimer,C LITTLE FALLS W1,Attorney General,,,Write-In,0,,0
 Herkimer,C LITTLE FALLS W2,Attorney General,,,Write-In,1,,1
 Herkimer,C LITTLE FALLS W3,Attorney General,,,Write-In,0,,0
 Herkimer,C LITTLE FALLS W4,Attorney General,,,Write-In,0,,0
-Herkimer,COLUMBIA 1 ,Attorney General,,,Write-In,0,,0
+Herkimer,COLUMBIA 1,Attorney General,,,Write-In,0,,0
 Herkimer,COLUMBIA 2,Attorney General,,,Write-In,0,,0
 Herkimer,DANUBE 1,Attorney General,,,Write-In,0,,0
 Herkimer,FAIRFIELD 1,Attorney General,,,Write-In,0,,0
@@ -877,7 +877,7 @@ Herkimer,C LITTLE FALLS W1,Attorney General,,,Void,0,,0
 Herkimer,C LITTLE FALLS W2,Attorney General,,,Void,0,,0
 Herkimer,C LITTLE FALLS W3,Attorney General,,,Void,0,,0
 Herkimer,C LITTLE FALLS W4,Attorney General,,,Void,0,,0
-Herkimer,COLUMBIA 1 ,Attorney General,,,Void,0,,0
+Herkimer,COLUMBIA 1,Attorney General,,,Void,0,,0
 Herkimer,COLUMBIA 2,Attorney General,,,Void,0,,0
 Herkimer,DANUBE 1,Attorney General,,,Void,0,,0
 Herkimer,FAIRFIELD 1,Attorney General,,,Void,0,,0
@@ -923,7 +923,7 @@ Herkimer,C LITTLE FALLS W1,Attorney General,,,Blank,13,,13
 Herkimer,C LITTLE FALLS W2,Attorney General,,,Blank,21,,21
 Herkimer,C LITTLE FALLS W3,Attorney General,,,Blank,8,,8
 Herkimer,C LITTLE FALLS W4,Attorney General,,,Blank,8,,8
-Herkimer,COLUMBIA 1 ,Attorney General,,,Blank,11,,11
+Herkimer,COLUMBIA 1,Attorney General,,,Blank,11,,11
 Herkimer,COLUMBIA 2,Attorney General,,,Blank,7,,7
 Herkimer,DANUBE 1,Attorney General,,,Blank,5,,5
 Herkimer,FAIRFIELD 1,Attorney General,,,Blank,31,,31
@@ -969,7 +969,7 @@ Herkimer,C LITTLE FALLS W1,U.S. Senate,,DEM,Charles E. Schumer,118,11,129
 Herkimer,C LITTLE FALLS W2,U.S. Senate,,DEM,Charles E. Schumer,139,6,145
 Herkimer,C LITTLE FALLS W3,U.S. Senate,,DEM,Charles E. Schumer,107,4,111
 Herkimer,C LITTLE FALLS W4,U.S. Senate,,DEM,Charles E. Schumer,74,4,78
-Herkimer,COLUMBIA 1 ,U.S. Senate,,DEM,Charles E. Schumer,71,4,75
+Herkimer,COLUMBIA 1,U.S. Senate,,DEM,Charles E. Schumer,71,4,75
 Herkimer,COLUMBIA 2,U.S. Senate,,DEM,Charles E. Schumer,22,0,22
 Herkimer,DANUBE 1,U.S. Senate,,DEM,Charles E. Schumer,59,2,61
 Herkimer,FAIRFIELD 1,U.S. Senate,,DEM,Charles E. Schumer,87,4,91
@@ -1015,7 +1015,7 @@ Herkimer,C LITTLE FALLS W1,U.S. Senate,,WOR,Charles E. Schumer,9,0,9
 Herkimer,C LITTLE FALLS W2,U.S. Senate,,WOR,Charles E. Schumer,12,3,15
 Herkimer,C LITTLE FALLS W3,U.S. Senate,,WOR,Charles E. Schumer,7,0,7
 Herkimer,C LITTLE FALLS W4,U.S. Senate,,WOR,Charles E. Schumer,5,4,9
-Herkimer,COLUMBIA 1 ,U.S. Senate,,WOR,Charles E. Schumer,7,0,7
+Herkimer,COLUMBIA 1,U.S. Senate,,WOR,Charles E. Schumer,7,0,7
 Herkimer,COLUMBIA 2,U.S. Senate,,WOR,Charles E. Schumer,4,0,4
 Herkimer,DANUBE 1,U.S. Senate,,WOR,Charles E. Schumer,6,0,6
 Herkimer,FAIRFIELD 1,U.S. Senate,,WOR,Charles E. Schumer,11,0,11
@@ -1061,7 +1061,7 @@ Herkimer,C LITTLE FALLS W1,U.S. Senate,,REP,Joe Pinion,167,7,174
 Herkimer,C LITTLE FALLS W2,U.S. Senate,,REP,Joe Pinion,162,4,166
 Herkimer,C LITTLE FALLS W3,U.S. Senate,,REP,Joe Pinion,112,4,116
 Herkimer,C LITTLE FALLS W4,U.S. Senate,,REP,Joe Pinion,80,3,83
-Herkimer,COLUMBIA 1 ,U.S. Senate,,REP,Joe Pinion,330,9,339
+Herkimer,COLUMBIA 1,U.S. Senate,,REP,Joe Pinion,330,9,339
 Herkimer,COLUMBIA 2,U.S. Senate,,REP,Joe Pinion,107,0,107
 Herkimer,DANUBE 1,U.S. Senate,,REP,Joe Pinion,236,3,239
 Herkimer,FAIRFIELD 1,U.S. Senate,,REP,Joe Pinion,388,8,396
@@ -1107,7 +1107,7 @@ Herkimer,C LITTLE FALLS W1,U.S. Senate,,CON,Joe Pinion,14,1,15
 Herkimer,C LITTLE FALLS W2,U.S. Senate,,CON,Joe Pinion,25,0,25
 Herkimer,C LITTLE FALLS W3,U.S. Senate,,CON,Joe Pinion,12,0,12
 Herkimer,C LITTLE FALLS W4,U.S. Senate,,CON,Joe Pinion,15,1,16
-Herkimer,COLUMBIA 1 ,U.S. Senate,,CON,Joe Pinion,53,0,53
+Herkimer,COLUMBIA 1,U.S. Senate,,CON,Joe Pinion,53,0,53
 Herkimer,COLUMBIA 2,U.S. Senate,,CON,Joe Pinion,10,0,10
 Herkimer,DANUBE 1,U.S. Senate,,CON,Joe Pinion,27,0,27
 Herkimer,FAIRFIELD 1,U.S. Senate,,CON,Joe Pinion,35,1,36
@@ -1153,7 +1153,7 @@ Herkimer,C LITTLE FALLS W1,U.S. Senate,,LAR,Diane Sare,1,0,1
 Herkimer,C LITTLE FALLS W2,U.S. Senate,,LAR,Diane Sare,2,0,2
 Herkimer,C LITTLE FALLS W3,U.S. Senate,,LAR,Diane Sare,0,0,0
 Herkimer,C LITTLE FALLS W4,U.S. Senate,,LAR,Diane Sare,3,1,4
-Herkimer,COLUMBIA 1 ,U.S. Senate,,LAR,Diane Sare,0,0,0
+Herkimer,COLUMBIA 1,U.S. Senate,,LAR,Diane Sare,0,0,0
 Herkimer,COLUMBIA 2,U.S. Senate,,LAR,Diane Sare,0,0,0
 Herkimer,DANUBE 1,U.S. Senate,,LAR,Diane Sare,0,0,0
 Herkimer,FAIRFIELD 1,U.S. Senate,,LAR,Diane Sare,1,0,1
@@ -1199,7 +1199,7 @@ Herkimer,C LITTLE FALLS W1,U.S. Senate,,,Write-In,0,,0
 Herkimer,C LITTLE FALLS W2,U.S. Senate,,,Write-In,1,,1
 Herkimer,C LITTLE FALLS W3,U.S. Senate,,,Write-In,0,,0
 Herkimer,C LITTLE FALLS W4,U.S. Senate,,,Write-In,0,,0
-Herkimer,COLUMBIA 1 ,U.S. Senate,,,Write-In,0,,0
+Herkimer,COLUMBIA 1,U.S. Senate,,,Write-In,0,,0
 Herkimer,COLUMBIA 2,U.S. Senate,,,Write-In,0,,0
 Herkimer,DANUBE 1,U.S. Senate,,,Write-In,0,,0
 Herkimer,FAIRFIELD 1,U.S. Senate,,,Write-In,0,,0
@@ -1245,7 +1245,7 @@ Herkimer,C LITTLE FALLS W1,U.S. Senate,,,Void,0,,0
 Herkimer,C LITTLE FALLS W2,U.S. Senate,,,Void,0,,0
 Herkimer,C LITTLE FALLS W3,U.S. Senate,,,Void,0,,0
 Herkimer,C LITTLE FALLS W4,U.S. Senate,,,Void,0,,0
-Herkimer,COLUMBIA 1 ,U.S. Senate,,,Void,0,,0
+Herkimer,COLUMBIA 1,U.S. Senate,,,Void,0,,0
 Herkimer,COLUMBIA 2,U.S. Senate,,,Void,0,,0
 Herkimer,DANUBE 1,U.S. Senate,,,Void,0,,0
 Herkimer,FAIRFIELD 1,U.S. Senate,,,Void,0,,0
@@ -1291,7 +1291,7 @@ Herkimer,C LITTLE FALLS W1,U.S. Senate,,,Blank,11,,11
 Herkimer,C LITTLE FALLS W2,U.S. Senate,,,Blank,16,,16
 Herkimer,C LITTLE FALLS W3,U.S. Senate,,,Blank,5,,5
 Herkimer,C LITTLE FALLS W4,U.S. Senate,,,Blank,7,,7
-Herkimer,COLUMBIA 1 ,U.S. Senate,,,Blank,11,,11
+Herkimer,COLUMBIA 1,U.S. Senate,,,Blank,11,,11
 Herkimer,COLUMBIA 2,U.S. Senate,,,Blank,5,,5
 Herkimer,DANUBE 1,U.S. Senate,,,Blank,2,,2
 Herkimer,FAIRFIELD 1,U.S. Senate,,,Blank,22,,22
@@ -1337,7 +1337,7 @@ Herkimer,C LITTLE FALLS W1,U.S. House,21,DEM,Matt Castelli,114,9,123
 Herkimer,C LITTLE FALLS W2,U.S. House,21,DEM,Matt Castelli,147,10,157
 Herkimer,C LITTLE FALLS W3,U.S. House,21,DEM,Matt Castelli,106,4,110
 Herkimer,C LITTLE FALLS W4,U.S. House,21,DEM,Matt Castelli,69,5,74
-Herkimer,COLUMBIA 1 ,U.S. House,21,DEM,Matt Castelli,58,4,62
+Herkimer,COLUMBIA 1,U.S. House,21,DEM,Matt Castelli,58,4,62
 Herkimer,COLUMBIA 2,U.S. House,21,DEM,Matt Castelli,24,0,24
 Herkimer,DANUBE 1,U.S. House,21,DEM,Matt Castelli,58,2,60
 Herkimer,FAIRFIELD 1,U.S. House,21,DEM,Matt Castelli,75,4,79
@@ -1383,7 +1383,7 @@ Herkimer,C LITTLE FALLS W1,U.S. House,21,MOD,Matt Castelli,2,0,2
 Herkimer,C LITTLE FALLS W2,U.S. House,21,MOD,Matt Castelli,6,0,6
 Herkimer,C LITTLE FALLS W3,U.S. House,21,MOD,Matt Castelli,2,0,2
 Herkimer,C LITTLE FALLS W4,U.S. House,21,MOD,Matt Castelli,2,0,2
-Herkimer,COLUMBIA 1 ,U.S. House,21,MOD,Matt Castelli,4,0,4
+Herkimer,COLUMBIA 1,U.S. House,21,MOD,Matt Castelli,4,0,4
 Herkimer,COLUMBIA 2,U.S. House,21,MOD,Matt Castelli,1,0,1
 Herkimer,DANUBE 1,U.S. House,21,MOD,Matt Castelli,1,0,1
 Herkimer,FAIRFIELD 1,U.S. House,21,MOD,Matt Castelli,4,0,4
@@ -1429,7 +1429,7 @@ Herkimer,C LITTLE FALLS W1,U.S. House,21,REP,Elise M. Stefanik,180,9,189
 Herkimer,C LITTLE FALLS W2,U.S. House,21,REP,Elise M. Stefanik,168,3,171
 Herkimer,C LITTLE FALLS W3,U.S. House,21,REP,Elise M. Stefanik,120,4,124
 Herkimer,C LITTLE FALLS W4,U.S. House,21,REP,Elise M. Stefanik,85,3,88
-Herkimer,COLUMBIA 1 ,U.S. House,21,REP,Elise M. Stefanik,343,10,353
+Herkimer,COLUMBIA 1,U.S. House,21,REP,Elise M. Stefanik,343,10,353
 Herkimer,COLUMBIA 2,U.S. House,21,REP,Elise M. Stefanik,107,0,107
 Herkimer,DANUBE 1,U.S. House,21,REP,Elise M. Stefanik,241,3,244
 Herkimer,FAIRFIELD 1,U.S. House,21,REP,Elise M. Stefanik,398,8,406
@@ -1475,7 +1475,7 @@ Herkimer,C LITTLE FALLS W1,U.S. House,21,CON,Elise M. Stefanik,18,2,20
 Herkimer,C LITTLE FALLS W2,U.S. House,21,CON,Elise M. Stefanik,22,0,22
 Herkimer,C LITTLE FALLS W3,U.S. House,21,CON,Elise M. Stefanik,11,0,11
 Herkimer,C LITTLE FALLS W4,U.S. House,21,CON,Elise M. Stefanik,17,2,19
-Herkimer,COLUMBIA 1 ,U.S. House,21,CON,Elise M. Stefanik,52,0,52
+Herkimer,COLUMBIA 1,U.S. House,21,CON,Elise M. Stefanik,52,0,52
 Herkimer,COLUMBIA 2,U.S. House,21,CON,Elise M. Stefanik,12,0,12
 Herkimer,DANUBE 1,U.S. House,21,CON,Elise M. Stefanik,25,0,25
 Herkimer,FAIRFIELD 1,U.S. House,21,CON,Elise M. Stefanik,37,1,38
@@ -1521,7 +1521,7 @@ Herkimer,C LITTLE FALLS W1,U.S. House,21,,Write-In,0,,0
 Herkimer,C LITTLE FALLS W2,U.S. House,21,,Write-In,1,,1
 Herkimer,C LITTLE FALLS W3,U.S. House,21,,Write-In,0,,0
 Herkimer,C LITTLE FALLS W4,U.S. House,21,,Write-In,0,,0
-Herkimer,COLUMBIA 1 ,U.S. House,21,,Write-In,0,,0
+Herkimer,COLUMBIA 1,U.S. House,21,,Write-In,0,,0
 Herkimer,COLUMBIA 2,U.S. House,21,,Write-In,0,,0
 Herkimer,DANUBE 1,U.S. House,21,,Write-In,0,,0
 Herkimer,FAIRFIELD 1,U.S. House,21,,Write-In,0,,0
@@ -1567,7 +1567,7 @@ Herkimer,C LITTLE FALLS W1,U.S. House,21,,Void,6,,6
 Herkimer,C LITTLE FALLS W2,U.S. House,21,,Void,13,,13
 Herkimer,C LITTLE FALLS W3,U.S. House,21,,Void,4,,4
 Herkimer,C LITTLE FALLS W4,U.S. House,21,,Void,11,,11
-Herkimer,COLUMBIA 1 ,U.S. House,21,,Void,11,,11
+Herkimer,COLUMBIA 1,U.S. House,21,,Void,11,,11
 Herkimer,COLUMBIA 2,U.S. House,21,,Void,4,,4
 Herkimer,DANUBE 1,U.S. House,21,,Void,5,,5
 Herkimer,FAIRFIELD 1,U.S. House,21,,Void,30,,30
@@ -1613,7 +1613,7 @@ Herkimer,C LITTLE FALLS W1,U.S. House,21,,Blank,0,,0
 Herkimer,C LITTLE FALLS W2,U.S. House,21,,Blank,0,,0
 Herkimer,C LITTLE FALLS W3,U.S. House,21,,Blank,0,,0
 Herkimer,C LITTLE FALLS W4,U.S. House,21,,Blank,0,,0
-Herkimer,COLUMBIA 1 ,U.S. House,21,,Blank,0,,0
+Herkimer,COLUMBIA 1,U.S. House,21,,Blank,0,,0
 Herkimer,COLUMBIA 2,U.S. House,21,,Blank,0,,0
 Herkimer,DANUBE 1,U.S. House,21,,Blank,0,,0
 Herkimer,FAIRFIELD 1,U.S. House,21,,Blank,0,,0
@@ -1867,31 +1867,31 @@ Herkimer,Early Voting,State Senate,49,,Blank,447,,447
 Herkimer,Mail-in Ballots,State Senate,49,,Blank,454,,454
 Herkimer,Litchfield 1,State Senate,53,REP,Joseph A. Griffo,426,5,431
 Herkimer,WINFIELD 1,State Senate,53,REP,Joseph A. Griffo,534,17,551
-Herkimer,COLUMBIA 1 ,State Senate,53,REP,Joseph A. Griffo,367,8,375
+Herkimer,COLUMBIA 1,State Senate,53,REP,Joseph A. Griffo,367,8,375
 Herkimer,Columbia 2,State Senate,53,REP,Joseph A. Griffo,115,0,115
 Herkimer,Early Voting,State Senate,53,REP,Joseph A. Griffo,21,0,21
 Herkimer,Mail-in Ballots,State Senate,53,REP,Joseph A. Griffo,63,0,63
 Herkimer,Litchfield 1,State Senate,53,CON,Joseph A. Griffo,65,0,65
 Herkimer,WINFIELD 1,State Senate,53,CON,Joseph A. Griffo,68,1,69
-Herkimer,COLUMBIA 1 ,State Senate,53,CON,Joseph A. Griffo,59,0,59
+Herkimer,COLUMBIA 1,State Senate,53,CON,Joseph A. Griffo,59,0,59
 Herkimer,Columbia 2,State Senate,53,CON,Joseph A. Griffo,13,0,13
 Herkimer,Early Voting,State Senate,53,CON,Joseph A. Griffo,2,0,2
 Herkimer,Mail-in Ballots,State Senate,53,CON,Joseph A. Griffo,18,0,18
 Herkimer,Litchfield 1,State Senate,53,,Write-In,1,,1
 Herkimer,WINFIELD 1,State Senate,53,,Write-In,0,,0
-Herkimer,COLUMBIA 1 ,State Senate,53,,Write-In,0,,0
+Herkimer,COLUMBIA 1,State Senate,53,,Write-In,0,,0
 Herkimer,Columbia 2,State Senate,53,,Write-In,0,,0
 Herkimer,Early Voting,State Senate,53,,Write-In,1,,1
 Herkimer,Mail-in Ballots,State Senate,53,,Write-In,0,,0
 Herkimer,Litchfield 1,State Senate,53,,Blank,91,,91
 Herkimer,WINFIELD 1,State Senate,53,,Blank,101,,101
-Herkimer,COLUMBIA 1 ,State Senate,53,,Blank,35,,35
+Herkimer,COLUMBIA 1,State Senate,53,,Blank,35,,35
 Herkimer,Columbia 2,State Senate,53,,Blank,20,,20
 Herkimer,Early Voting,State Senate,53,,Blank,23,,23
 Herkimer,Mail-in Ballots,State Senate,53,,Blank,21,,21
 Herkimer,Litchfield 1,State Senate,53,,Void,0,,0
 Herkimer,WINFIELD 1,State Senate,53,,Void,0,,0
-Herkimer,COLUMBIA 1 ,State Senate,53,,Void,0,,0
+Herkimer,COLUMBIA 1,State Senate,53,,Void,0,,0
 Herkimer,Columbia 2,State Senate,53,,Void,0,,0
 Herkimer,Early Voting,State Senate,53,,Void,0,,0
 Herkimer,Mail-in Ballots,State Senate,53,,Void,0,,0
@@ -1899,7 +1899,7 @@ Herkimer,C LITTLE FALLS W1,State Assembly,118,REP,Robert J. Smullen,196,10,206
 Herkimer,C LITTLE FALLS W2,State Assembly,118,REP,Robert J. Smullen,188,3,191
 Herkimer,C LITTLE FALLS W3,State Assembly,118,REP,Robert J. Smullen,140,6,146
 Herkimer,C LITTLE FALLS W4,State Assembly,118,REP,Robert J. Smullen,89,2,91
-Herkimer,COLUMBIA 1 ,State Assembly,118,REP,Robert J. Smullen,358,7,365
+Herkimer,COLUMBIA 1,State Assembly,118,REP,Robert J. Smullen,358,7,365
 Herkimer,COLUMBIA 2,State Assembly,118,REP,Robert J. Smullen,109,0,109
 Herkimer,DANUBE 1,State Assembly,118,REP,Robert J. Smullen,243,3,246
 Herkimer,FAIRFIELD 1,State Assembly,118,REP,Robert J. Smullen,406,7,413
@@ -1943,7 +1943,7 @@ Herkimer,C LITTLE FALLS W1,State Assembly,118,CON,Robert J. Smullen,28,1,29
 Herkimer,C LITTLE FALLS W2,State Assembly,118,CON,Robert J. Smullen,40,2,42
 Herkimer,C LITTLE FALLS W3,State Assembly,118,CON,Robert J. Smullen,25,0,25
 Herkimer,C LITTLE FALLS W4,State Assembly,118,CON,Robert J. Smullen,21,1,22
-Herkimer,COLUMBIA 1 ,State Assembly,118,CON,Robert J. Smullen,57,0,57
+Herkimer,COLUMBIA 1,State Assembly,118,CON,Robert J. Smullen,57,0,57
 Herkimer,COLUMBIA 2,State Assembly,118,CON,Robert J. Smullen,13,0,13
 Herkimer,DANUBE 1,State Assembly,118,CON,Robert J. Smullen,35,0,35
 Herkimer,FAIRFIELD 1,State Assembly,118,CON,Robert J. Smullen,37,1,38
@@ -1987,7 +1987,7 @@ Herkimer,C LITTLE FALLS W1,State Assembly,118,,Write-In,0,,0
 Herkimer,C LITTLE FALLS W2,State Assembly,118,,Write-In,0,,0
 Herkimer,C LITTLE FALLS W3,State Assembly,118,,Write-In,0,,0
 Herkimer,C LITTLE FALLS W4,State Assembly,118,,Write-In,0,,0
-Herkimer,COLUMBIA 1 ,State Assembly,118,,Write-In,0,,0
+Herkimer,COLUMBIA 1,State Assembly,118,,Write-In,0,,0
 Herkimer,COLUMBIA 2,State Assembly,118,,Write-In,0,,0
 Herkimer,DANUBE 1,State Assembly,118,,Write-In,0,,0
 Herkimer,FAIRFIELD 1,State Assembly,118,,Write-In,0,,0
@@ -2031,7 +2031,7 @@ Herkimer,C LITTLE FALLS W1,State Assembly,118,,Void,0,,0
 Herkimer,C LITTLE FALLS W2,State Assembly,118,,Void,0,,0
 Herkimer,C LITTLE FALLS W3,State Assembly,118,,Void,0,,0
 Herkimer,C LITTLE FALLS W4,State Assembly,118,,Void,0,,0
-Herkimer,COLUMBIA 1 ,State Assembly,118,,Void,0,,0
+Herkimer,COLUMBIA 1,State Assembly,118,,Void,0,,0
 Herkimer,COLUMBIA 2,State Assembly,118,,Void,0,,0
 Herkimer,DANUBE 1,State Assembly,118,,Void,0,,0
 Herkimer,FAIRFIELD 1,State Assembly,118,,Void,0,,0
@@ -2075,7 +2075,7 @@ Herkimer,C LITTLE FALLS W1,State Assembly,118,,Blank,95,,95
 Herkimer,C LITTLE FALLS W2,State Assembly,118,,Blank,125,,125
 Herkimer,C LITTLE FALLS W3,State Assembly,118,,Blank,78,,78
 Herkimer,C LITTLE FALLS W4,State Assembly,118,,Blank,73,,73
-Herkimer,COLUMBIA 1 ,State Assembly,118,,Blank,47,,47
+Herkimer,COLUMBIA 1,State Assembly,118,,Blank,47,,47
 Herkimer,COLUMBIA 2,State Assembly,118,,Blank,26,,26
 Herkimer,DANUBE 1,State Assembly,118,,Blank,49,,49
 Herkimer,FAIRFIELD 1,State Assembly,118,,Blank,101,,101
