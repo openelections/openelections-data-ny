@@ -3327,107 +3327,107 @@ Madison,Town of Sullivan 8,State House,121,,Blanks,5
 Madison,Town of Sullivan 9,State House,121,,Blanks,9
 Madison,Town of Sullivan 10,State House,121,,Blanks,11
 Madison,Town of Sullivan 11,State House,121,,Blanks,6
-Madison,City of Oneida 1,,,,Registered Voters,1202
-Madison,City of Oneida 2,,,,Registered Voters,1088
-Madison,City of Oneida 3,,,,Registered Voters,1197
-Madison,City of Oneida 4,,,,Registered Voters,602
-Madison,City of Oneida 5,,,,Registered Voters,876
-Madison,City of Oneida 6,,,,Registered Voters,935
-Madison,Town of Brookfield 1,,,,Registered Voters,396
-Madison,Town of Brookfield 2,,,,Registered Voters,599
-Madison,Town of Brookfield 3,,,,Registered Voters,397
-Madison,Town of Cazenovia 1,,,,Registered Voters,670
-Madison,Town of Cazenovia 2,,,,Registered Voters,661
-Madison,Town of Cazenovia 3,,,,Registered Voters,741
-Madison,Town of Cazenovia 4,,,,Registered Voters,917
-Madison,Town of Cazenovia 5,,,,Registered Voters,1066
-Madison,Town of Cazenovia 6,,,,Registered Voters,679
-Madison,Town of DeRuyter 1,,,,Registered Voters,965
-Madison,Town of Eaton 1,,,,Registered Voters,983
-Madison,Town of Eaton 2,,,,Registered Voters,1014
-Madison,Town of Fenner 1,,,,Registered Voters,1080
-Madison,Town of Georgetown 1,,,,Registered Voters,425
-Madison,Town of Hamilton 1,,,,Registered Voters,574
-Madison,Town of Hamilton 2,,,,Registered Voters,949
-Madison,Town of Hamilton 3,,,,Registered Voters,354
-Madison,Town of Hamilton 4,,,,Registered Voters,833
-Madison,Town of Lebanon 1,,,,Registered Voters,305
-Madison,Town of Lebanon 2,,,,Registered Voters,533
-Madison,Town of Lenox 1,,,,Registered Voters,1048
-Madison,Town of Lenox 2,,,,Registered Voters,948
-Madison,Town of Lenox 3,,,,Registered Voters,925
-Madison,Town of Lenox 4,,,,Registered Voters,762
-Madison,Town of Lenox 5,,,,Registered Voters,1039
-Madison,Town of Lenox 6,,,,Registered Voters,467
-Madison,Town of Lincoln 1,,,,Registered Voters,561
-Madison,Town of Lincoln 2,,,,Registered Voters,652
-Madison,Town of Madison 1,,,,Registered Voters,993
-Madison,Town of Madison 2,,,,Registered Voters,850
-Madison,Town of Nelson 1,,,,Registered Voters,705
-Madison,Town of Nelson 2,,,,Registered Voters,672
-Madison,Town of Smithfield 1,,,,Registered Voters,710
-Madison,Town of Stockbridge 1,,,,Registered Voters,519
-Madison,Town of Stockbridge 2,,,,Registered Voters,659
-Madison,Town of Sullivan 1,,,,Registered Voters,1398
-Madison,Town of Sullivan 2,,,,Registered Voters,1090
-Madison,Town of Sullivan 3,,,,Registered Voters,810
-Madison,Town of Sullivan 4,,,,Registered Voters,480
-Madison,Town of Sullivan 5,,,,Registered Voters,1087
-Madison,Town of Sullivan 6,,,,Registered Voters,966
-Madison,Town of Sullivan 7,,,,Registered Voters,908
-Madison,Town of Sullivan 8,,,,Registered Voters,582
-Madison,Town of Sullivan 9,,,,Registered Voters,724
-Madison,Town of Sullivan 10,,,,Registered Voters,721
-Madison,Town of Sullivan 11,,,,Registered Voters,763
-Madison,City of Oneida 1,,,,Whole Vote Cast,830
-Madison,City of Oneida 2,,,,Whole Vote Cast,719
-Madison,City of Oneida 3,,,,Whole Vote Cast,776
-Madison,City of Oneida 4,,,,Whole Vote Cast,287
-Madison,City of Oneida 5,,,,Whole Vote Cast,416
-Madison,City of Oneida 6,,,,Whole Vote Cast,527
-Madison,Town of Brookfield 1,,,,Whole Vote Cast,247
-Madison,Town of Brookfield 2,,,,Whole Vote Cast,393
-Madison,Town of Brookfield 3,,,,Whole Vote Cast,267
-Madison,Town of Cazenovia 1,,,,Whole Vote Cast,469
-Madison,Town of Cazenovia 2,,,,Whole Vote Cast,501
-Madison,Town of Cazenovia 3,,,,Whole Vote Cast,525
-Madison,Town of Cazenovia 4,,,,Whole Vote Cast,674
-Madison,Town of Cazenovia 5,,,,Whole Vote Cast,775
-Madison,Town of Cazenovia 6,,,,Whole Vote Cast,527
-Madison,Town of DeRuyter 1,,,,Whole Vote Cast,607
-Madison,Town of Eaton 1,,,,Whole Vote Cast,563
-Madison,Town of Eaton 2,,,,Whole Vote Cast,626
-Madison,Town of Fenner 1,,,,Whole Vote Cast,717
-Madison,Town of Georgetown 1,,,,Whole Vote Cast,268
-Madison,Town of Hamilton 1,,,,Whole Vote Cast,433
-Madison,Town of Hamilton 2,,,,Whole Vote Cast,644
-Madison,Town of Hamilton 3,,,,Whole Vote Cast,218
-Madison,Town of Hamilton 4,,,,Whole Vote Cast,561
-Madison,Town of Lebanon 1,,,,Whole Vote Cast,195
-Madison,Town of Lebanon 2,,,,Whole Vote Cast,336
-Madison,Town of Lenox 1,,,,Whole Vote Cast,668
-Madison,Town of Lenox 2,,,,Whole Vote Cast,530
-Madison,Town of Lenox 3,,,,Whole Vote Cast,533
-Madison,Town of Lenox 4,,,,Whole Vote Cast,465
-Madison,Town of Lenox 5,,,,Whole Vote Cast,695
-Madison,Town of Lenox 6,,,,Whole Vote Cast,305
-Madison,Town of Lincoln 1,,,,Whole Vote Cast,365
-Madison,Town of Lincoln 2,,,,Whole Vote Cast,386
-Madison,Town of Madison 1,,,,Whole Vote Cast,681
-Madison,Town of Madison 2,,,,Whole Vote Cast,508
-Madison,Town of Nelson 1,,,,Whole Vote Cast,481
-Madison,Town of Nelson 2,,,,Whole Vote Cast,464
-Madison,Town of Smithfield 1,,,,Whole Vote Cast,412
-Madison,Town of Stockbridge 1,,,,Whole Vote Cast,330
-Madison,Town of Stockbridge 2,,,,Whole Vote Cast,397
-Madison,Town of Sullivan 1,,,,Whole Vote Cast,948
-Madison,Town of Sullivan 2,,,,Whole Vote Cast,717
-Madison,Town of Sullivan 3,,,,Whole Vote Cast,540
-Madison,Town of Sullivan 4,,,,Whole Vote Cast,298
-Madison,Town of Sullivan 5,,,,Whole Vote Cast,684
-Madison,Town of Sullivan 6,,,,Whole Vote Cast,647
-Madison,Town of Sullivan 7,,,,Whole Vote Cast,581
-Madison,Town of Sullivan 8,,,,Whole Vote Cast,355
-Madison,Town of Sullivan 9,,,,Whole Vote Cast,437
-Madison,Town of Sullivan 10,,,,Whole Vote Cast,460
-Madison,Town of Sullivan 11,,,,Whole Vote Cast,454
+Madison,City of Oneida 1,Registered Voters,,,,1202
+Madison,City of Oneida 2,Registered Voters,,,,1088
+Madison,City of Oneida 3,Registered Voters,,,,1197
+Madison,City of Oneida 4,Registered Voters,,,,602
+Madison,City of Oneida 5,Registered Voters,,,,876
+Madison,City of Oneida 6,Registered Voters,,,,935
+Madison,Town of Brookfield 1,Registered Voters,,,,396
+Madison,Town of Brookfield 2,Registered Voters,,,,599
+Madison,Town of Brookfield 3,Registered Voters,,,,397
+Madison,Town of Cazenovia 1,Registered Voters,,,,670
+Madison,Town of Cazenovia 2,Registered Voters,,,,661
+Madison,Town of Cazenovia 3,Registered Voters,,,,741
+Madison,Town of Cazenovia 4,Registered Voters,,,,917
+Madison,Town of Cazenovia 5,Registered Voters,,,,1066
+Madison,Town of Cazenovia 6,Registered Voters,,,,679
+Madison,Town of DeRuyter 1,Registered Voters,,,,965
+Madison,Town of Eaton 1,Registered Voters,,,,983
+Madison,Town of Eaton 2,Registered Voters,,,,1014
+Madison,Town of Fenner 1,Registered Voters,,,,1080
+Madison,Town of Georgetown 1,Registered Voters,,,,425
+Madison,Town of Hamilton 1,Registered Voters,,,,574
+Madison,Town of Hamilton 2,Registered Voters,,,,949
+Madison,Town of Hamilton 3,Registered Voters,,,,354
+Madison,Town of Hamilton 4,Registered Voters,,,,833
+Madison,Town of Lebanon 1,Registered Voters,,,,305
+Madison,Town of Lebanon 2,Registered Voters,,,,533
+Madison,Town of Lenox 1,Registered Voters,,,,1048
+Madison,Town of Lenox 2,Registered Voters,,,,948
+Madison,Town of Lenox 3,Registered Voters,,,,925
+Madison,Town of Lenox 4,Registered Voters,,,,762
+Madison,Town of Lenox 5,Registered Voters,,,,1039
+Madison,Town of Lenox 6,Registered Voters,,,,467
+Madison,Town of Lincoln 1,Registered Voters,,,,561
+Madison,Town of Lincoln 2,Registered Voters,,,,652
+Madison,Town of Madison 1,Registered Voters,,,,993
+Madison,Town of Madison 2,Registered Voters,,,,850
+Madison,Town of Nelson 1,Registered Voters,,,,705
+Madison,Town of Nelson 2,Registered Voters,,,,672
+Madison,Town of Smithfield 1,Registered Voters,,,,710
+Madison,Town of Stockbridge 1,Registered Voters,,,,519
+Madison,Town of Stockbridge 2,Registered Voters,,,,659
+Madison,Town of Sullivan 1,Registered Voters,,,,1398
+Madison,Town of Sullivan 2,Registered Voters,,,,1090
+Madison,Town of Sullivan 3,Registered Voters,,,,810
+Madison,Town of Sullivan 4,Registered Voters,,,,480
+Madison,Town of Sullivan 5,Registered Voters,,,,1087
+Madison,Town of Sullivan 6,Registered Voters,,,,966
+Madison,Town of Sullivan 7,Registered Voters,,,,908
+Madison,Town of Sullivan 8,Registered Voters,,,,582
+Madison,Town of Sullivan 9,Registered Voters,,,,724
+Madison,Town of Sullivan 10,Registered Voters,,,,721
+Madison,Town of Sullivan 11,Registered Voters,,,,763
+Madison,City of Oneida 1,Whole Vote Cast,,,,830
+Madison,City of Oneida 2,Whole Vote Cast,,,,719
+Madison,City of Oneida 3,Whole Vote Cast,,,,776
+Madison,City of Oneida 4,Whole Vote Cast,,,,287
+Madison,City of Oneida 5,Whole Vote Cast,,,,416
+Madison,City of Oneida 6,Whole Vote Cast,,,,527
+Madison,Town of Brookfield 1,Whole Vote Cast,,,,247
+Madison,Town of Brookfield 2,Whole Vote Cast,,,,393
+Madison,Town of Brookfield 3,Whole Vote Cast,,,,267
+Madison,Town of Cazenovia 1,Whole Vote Cast,,,,469
+Madison,Town of Cazenovia 2,Whole Vote Cast,,,,501
+Madison,Town of Cazenovia 3,Whole Vote Cast,,,,525
+Madison,Town of Cazenovia 4,Whole Vote Cast,,,,674
+Madison,Town of Cazenovia 5,Whole Vote Cast,,,,775
+Madison,Town of Cazenovia 6,Whole Vote Cast,,,,527
+Madison,Town of DeRuyter 1,Whole Vote Cast,,,,607
+Madison,Town of Eaton 1,Whole Vote Cast,,,,563
+Madison,Town of Eaton 2,Whole Vote Cast,,,,626
+Madison,Town of Fenner 1,Whole Vote Cast,,,,717
+Madison,Town of Georgetown 1,Whole Vote Cast,,,,268
+Madison,Town of Hamilton 1,Whole Vote Cast,,,,433
+Madison,Town of Hamilton 2,Whole Vote Cast,,,,644
+Madison,Town of Hamilton 3,Whole Vote Cast,,,,218
+Madison,Town of Hamilton 4,Whole Vote Cast,,,,561
+Madison,Town of Lebanon 1,Whole Vote Cast,,,,195
+Madison,Town of Lebanon 2,Whole Vote Cast,,,,336
+Madison,Town of Lenox 1,Whole Vote Cast,,,,668
+Madison,Town of Lenox 2,Whole Vote Cast,,,,530
+Madison,Town of Lenox 3,Whole Vote Cast,,,,533
+Madison,Town of Lenox 4,Whole Vote Cast,,,,465
+Madison,Town of Lenox 5,Whole Vote Cast,,,,695
+Madison,Town of Lenox 6,Whole Vote Cast,,,,305
+Madison,Town of Lincoln 1,Whole Vote Cast,,,,365
+Madison,Town of Lincoln 2,Whole Vote Cast,,,,386
+Madison,Town of Madison 1,Whole Vote Cast,,,,681
+Madison,Town of Madison 2,Whole Vote Cast,,,,508
+Madison,Town of Nelson 1,Whole Vote Cast,,,,481
+Madison,Town of Nelson 2,Whole Vote Cast,,,,464
+Madison,Town of Smithfield 1,Whole Vote Cast,,,,412
+Madison,Town of Stockbridge 1,Whole Vote Cast,,,,330
+Madison,Town of Stockbridge 2,Whole Vote Cast,,,,397
+Madison,Town of Sullivan 1,Whole Vote Cast,,,,948
+Madison,Town of Sullivan 2,Whole Vote Cast,,,,717
+Madison,Town of Sullivan 3,Whole Vote Cast,,,,540
+Madison,Town of Sullivan 4,Whole Vote Cast,,,,298
+Madison,Town of Sullivan 5,Whole Vote Cast,,,,684
+Madison,Town of Sullivan 6,Whole Vote Cast,,,,647
+Madison,Town of Sullivan 7,Whole Vote Cast,,,,581
+Madison,Town of Sullivan 8,Whole Vote Cast,,,,355
+Madison,Town of Sullivan 9,Whole Vote Cast,,,,437
+Madison,Town of Sullivan 10,Whole Vote Cast,,,,460
+Madison,Town of Sullivan 11,Whole Vote Cast,,,,454
