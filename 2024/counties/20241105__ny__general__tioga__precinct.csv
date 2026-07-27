@@ -1,0 +1,715 @@
+county,precinct,office,district,party,candidate,votes
+Tioga,Barton - 1,President,,DEM,Kamala D. Harris,240
+Tioga,Barton - 1,President,,REP,Donald J. Trump,359
+Tioga,Barton - 1,President,,CON,Donald J. Trump,21
+Tioga,Barton - 1,President,,WOR,Kamala D. Harris,14
+Tioga,Barton - 1,President,,,Write-in,1
+Tioga,Barton - 2,President,,DEM,Kamala D. Harris,328
+Tioga,Barton - 2,President,,REP,Donald J. Trump,494
+Tioga,Barton - 2,President,,CON,Donald J. Trump,34
+Tioga,Barton - 2,President,,WOR,Kamala D. Harris,16
+Tioga,Barton - 2,President,,,Write-in,2
+Tioga,Barton - 3,President,,DEM,Kamala D. Harris,184
+Tioga,Barton - 3,President,,REP,Donald J. Trump,283
+Tioga,Barton - 3,President,,CON,Donald J. Trump,32
+Tioga,Barton - 3,President,,WOR,Kamala D. Harris,9
+Tioga,Barton - 3,President,,,Write-in,1
+Tioga,Barton - 4,President,,DEM,Kamala D. Harris,103
+Tioga,Barton - 4,President,,REP,Donald J. Trump,340
+Tioga,Barton - 4,President,,CON,Donald J. Trump,26
+Tioga,Barton - 4,President,,WOR,Kamala D. Harris,5
+Tioga,Barton - 4,President,,,Write-in,1
+Tioga,Barton - 5,President,,DEM,Kamala D. Harris,107
+Tioga,Barton - 5,President,,REP,Donald J. Trump,362
+Tioga,Barton - 5,President,,CON,Donald J. Trump,21
+Tioga,Barton - 5,President,,WOR,Kamala D. Harris,12
+Tioga,Barton - 5,President,,,Write-in,1
+Tioga,Barton - 7,President,,DEM,Kamala D. Harris,149
+Tioga,Barton - 7,President,,REP,Donald J. Trump,335
+Tioga,Barton - 7,President,,CON,Donald J. Trump,25
+Tioga,Barton - 7,President,,WOR,Kamala D. Harris,4
+Tioga,Barton - 7,President,,,Write-in,2
+Tioga,Berkshire - 1,President,,DEM,Kamala D. Harris,195
+Tioga,Berkshire - 1,President,,REP,Donald J. Trump,517
+Tioga,Berkshire - 1,President,,CON,Donald J. Trump,35
+Tioga,Berkshire - 1,President,,WOR,Kamala D. Harris,20
+Tioga,Berkshire - 1,President,,,Write-in,1
+Tioga,Candor - 1,President,,DEM,Kamala D. Harris,393
+Tioga,Candor - 1,President,,REP,Donald J. Trump,600
+Tioga,Candor - 1,President,,CON,Donald J. Trump,41
+Tioga,Candor - 1,President,,WOR,Kamala D. Harris,28
+Tioga,Candor - 1,President,,,Write-in,4
+Tioga,Candor - 2,President,,DEM,Kamala D. Harris,111
+Tioga,Candor - 2,President,,REP,Donald J. Trump,254
+Tioga,Candor - 2,President,,CON,Donald J. Trump,11
+Tioga,Candor - 2,President,,WOR,Kamala D. Harris,4
+Tioga,Candor - 2,President,,,Write-in,0
+Tioga,Candor - 3,President,,DEM,Kamala D. Harris,334
+Tioga,Candor - 3,President,,REP,Donald J. Trump,676
+Tioga,Candor - 3,President,,CON,Donald J. Trump,44
+Tioga,Candor - 3,President,,WOR,Kamala D. Harris,30
+Tioga,Candor - 3,President,,,Write-in,6
+Tioga,Newark Valley - 1,President,,DEM,Kamala D. Harris,354
+Tioga,Newark Valley - 1,President,,REP,Donald J. Trump,705
+Tioga,Newark Valley - 1,President,,CON,Donald J. Trump,46
+Tioga,Newark Valley - 1,President,,WOR,Kamala D. Harris,23
+Tioga,Newark Valley - 1,President,,,Write-in,1
+Tioga,Newark Valley - 2,President,,DEM,Kamala D. Harris,268
+Tioga,Newark Valley - 2,President,,REP,Donald J. Trump,477
+Tioga,Newark Valley - 2,President,,CON,Donald J. Trump,42
+Tioga,Newark Valley - 2,President,,WOR,Kamala D. Harris,15
+Tioga,Newark Valley - 2,President,,,Write-in,1
+Tioga,Nichols - 1,President,,DEM,Kamala D. Harris,182
+Tioga,Nichols - 1,President,,REP,Donald J. Trump,331
+Tioga,Nichols - 1,President,,CON,Donald J. Trump,19
+Tioga,Nichols - 1,President,,WOR,Kamala D. Harris,7
+Tioga,Nichols - 1,President,,,Write-in,0
+Tioga,Nichols - 2,President,,DEM,Kamala D. Harris,158
+Tioga,Nichols - 2,President,,REP,Donald J. Trump,411
+Tioga,Nichols - 2,President,,CON,Donald J. Trump,25
+Tioga,Nichols - 2,President,,WOR,Kamala D. Harris,9
+Tioga,Nichols - 2,President,,,Write-in,2
+Tioga,Owego - 1,President,,DEM,Kamala D. Harris,390
+Tioga,Owego - 1,President,,REP,Donald J. Trump,318
+Tioga,Owego - 1,President,,CON,Donald J. Trump,25
+Tioga,Owego - 1,President,,WOR,Kamala D. Harris,10
+Tioga,Owego - 1,President,,,Write-in,5
+Tioga,Owego - 2,President,,DEM,Kamala D. Harris,480
+Tioga,Owego - 2,President,,REP,Donald J. Trump,559
+Tioga,Owego - 2,President,,CON,Donald J. Trump,33
+Tioga,Owego - 2,President,,WOR,Kamala D. Harris,32
+Tioga,Owego - 2,President,,,Write-in,5
+Tioga,Owego - 3,President,,DEM,Kamala D. Harris,170
+Tioga,Owego - 3,President,,REP,Donald J. Trump,263
+Tioga,Owego - 3,President,,CON,Donald J. Trump,30
+Tioga,Owego - 3,President,,WOR,Kamala D. Harris,5
+Tioga,Owego - 3,President,,,Write-in,0
+Tioga,Owego - 4,President,,DEM,Kamala D. Harris,328
+Tioga,Owego - 4,President,,REP,Donald J. Trump,467
+Tioga,Owego - 4,President,,CON,Donald J. Trump,45
+Tioga,Owego - 4,President,,WOR,Kamala D. Harris,22
+Tioga,Owego - 4,President,,,Write-in,2
+Tioga,Owego - 5,President,,DEM,Kamala D. Harris,311
+Tioga,Owego - 5,President,,REP,Donald J. Trump,395
+Tioga,Owego - 5,President,,CON,Donald J. Trump,35
+Tioga,Owego - 5,President,,WOR,Kamala D. Harris,11
+Tioga,Owego - 5,President,,,Write-in,1
+Tioga,Owego - 6,President,,DEM,Kamala D. Harris,324
+Tioga,Owego - 6,President,,REP,Donald J. Trump,362
+Tioga,Owego - 6,President,,CON,Donald J. Trump,20
+Tioga,Owego - 6,President,,WOR,Kamala D. Harris,25
+Tioga,Owego - 6,President,,,Write-in,2
+Tioga,Owego - 7,President,,DEM,Kamala D. Harris,320
+Tioga,Owego - 7,President,,REP,Donald J. Trump,264
+Tioga,Owego - 7,President,,CON,Donald J. Trump,27
+Tioga,Owego - 7,President,,WOR,Kamala D. Harris,24
+Tioga,Owego - 7,President,,,Write-in,4
+Tioga,Owego - 8,President,,DEM,Kamala D. Harris,204
+Tioga,Owego - 8,President,,REP,Donald J. Trump,237
+Tioga,Owego - 8,President,,CON,Donald J. Trump,22
+Tioga,Owego - 8,President,,WOR,Kamala D. Harris,7
+Tioga,Owego - 8,President,,,Write-in,3
+Tioga,Owego - 11,President,,DEM,Kamala D. Harris,123
+Tioga,Owego - 11,President,,REP,Donald J. Trump,254
+Tioga,Owego - 11,President,,CON,Donald J. Trump,28
+Tioga,Owego - 11,President,,WOR,Kamala D. Harris,9
+Tioga,Owego - 11,President,,,Write-in,1
+Tioga,Owego - 12,President,,DEM,Kamala D. Harris,252
+Tioga,Owego - 12,President,,REP,Donald J. Trump,435
+Tioga,Owego - 12,President,,CON,Donald J. Trump,29
+Tioga,Owego - 12,President,,WOR,Kamala D. Harris,18
+Tioga,Owego - 12,President,,,Write-in,1
+Tioga,Owego - 13,President,,DEM,Kamala D. Harris,224
+Tioga,Owego - 13,President,,REP,Donald J. Trump,343
+Tioga,Owego - 13,President,,CON,Donald J. Trump,34
+Tioga,Owego - 13,President,,WOR,Kamala D. Harris,16
+Tioga,Owego - 13,President,,,Write-in,4
+Tioga,Owego - 14,President,,DEM,Kamala D. Harris,219
+Tioga,Owego - 14,President,,REP,Donald J. Trump,270
+Tioga,Owego - 14,President,,CON,Donald J. Trump,24
+Tioga,Owego - 14,President,,WOR,Kamala D. Harris,9
+Tioga,Owego - 14,President,,,Write-in,1
+Tioga,Owego - 15,President,,DEM,Kamala D. Harris,397
+Tioga,Owego - 15,President,,REP,Donald J. Trump,415
+Tioga,Owego - 15,President,,CON,Donald J. Trump,31
+Tioga,Owego - 15,President,,WOR,Kamala D. Harris,11
+Tioga,Owego - 15,President,,,Write-in,3
+Tioga,Owego - 17,President,,DEM,Kamala D. Harris,457
+Tioga,Owego - 17,President,,REP,Donald J. Trump,383
+Tioga,Owego - 17,President,,CON,Donald J. Trump,42
+Tioga,Owego - 17,President,,WOR,Kamala D. Harris,19
+Tioga,Owego - 17,President,,,Write-in,4
+Tioga,Owego - 19,President,,DEM,Kamala D. Harris,255
+Tioga,Owego - 19,President,,REP,Donald J. Trump,354
+Tioga,Owego - 19,President,,CON,Donald J. Trump,37
+Tioga,Owego - 19,President,,WOR,Kamala D. Harris,11
+Tioga,Owego - 19,President,,,Write-in,4
+Tioga,Richford - 1,President,,DEM,Kamala D. Harris,202
+Tioga,Richford - 1,President,,REP,Donald J. Trump,321
+Tioga,Richford - 1,President,,CON,Donald J. Trump,17
+Tioga,Richford - 1,President,,WOR,Kamala D. Harris,9
+Tioga,Richford - 1,President,,,Write-in,1
+Tioga,Spencer - 1,President,,DEM,Kamala D. Harris,406
+Tioga,Spencer - 1,President,,REP,Donald J. Trump,550
+Tioga,Spencer - 1,President,,CON,Donald J. Trump,41
+Tioga,Spencer - 1,President,,WOR,Kamala D. Harris,36
+Tioga,Spencer - 1,President,,,Write-in,8
+Tioga,Spencer - 2,President,,DEM,Kamala D. Harris,142
+Tioga,Spencer - 2,President,,REP,Donald J. Trump,302
+Tioga,Spencer - 2,President,,CON,Donald J. Trump,33
+Tioga,Spencer - 2,President,,WOR,Kamala D. Harris,8
+Tioga,Spencer - 2,President,,,Write-in,2
+Tioga,Tioga - 1,President,,DEM,Kamala D. Harris,405
+Tioga,Tioga - 1,President,,REP,Donald J. Trump,723
+Tioga,Tioga - 1,President,,CON,Donald J. Trump,37
+Tioga,Tioga - 1,President,,WOR,Kamala D. Harris,20
+Tioga,Tioga - 1,President,,,Write-in,7
+Tioga,Tioga - 2,President,,DEM,Kamala D. Harris,218
+Tioga,Tioga - 2,President,,REP,Donald J. Trump,629
+Tioga,Tioga - 2,President,,CON,Donald J. Trump,38
+Tioga,Tioga - 2,President,,WOR,Kamala D. Harris,6
+Tioga,Tioga - 2,President,,,Write-in,3
+Tioga,Barton - 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,241
+Tioga,Barton - 1,U.S. Senate,,REP,Michael D. Sapraicone,315
+Tioga,Barton - 1,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Barton - 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,21
+Tioga,Barton - 1,U.S. Senate,,LAR,Diane Sare,2
+Tioga,Barton - 1,U.S. Senate,,,Write-in,0
+Tioga,Barton - 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,335
+Tioga,Barton - 2,U.S. Senate,,REP,Michael D. Sapraicone,445
+Tioga,Barton - 2,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Barton - 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,23
+Tioga,Barton - 2,U.S. Senate,,LAR,Diane Sare,4
+Tioga,Barton - 2,U.S. Senate,,,Write-in,0
+Tioga,Barton - 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,183
+Tioga,Barton - 3,U.S. Senate,,REP,Michael D. Sapraicone,252
+Tioga,Barton - 3,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Barton - 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,14
+Tioga,Barton - 3,U.S. Senate,,LAR,Diane Sare,2
+Tioga,Barton - 3,U.S. Senate,,,Write-in,1
+Tioga,Barton - 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,107
+Tioga,Barton - 4,U.S. Senate,,REP,Michael D. Sapraicone,298
+Tioga,Barton - 4,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Barton - 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Tioga,Barton - 4,U.S. Senate,,LAR,Diane Sare,1
+Tioga,Barton - 4,U.S. Senate,,,Write-in,0
+Tioga,Barton - 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,114
+Tioga,Barton - 5,U.S. Senate,,REP,Michael D. Sapraicone,331
+Tioga,Barton - 5,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Barton - 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,19
+Tioga,Barton - 5,U.S. Senate,,LAR,Diane Sare,1
+Tioga,Barton - 5,U.S. Senate,,,Write-in,0
+Tioga,Barton - 7,U.S. Senate,,DEM,Kirsten E. Gillibrand,165
+Tioga,Barton - 7,U.S. Senate,,REP,Michael D. Sapraicone,290
+Tioga,Barton - 7,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Barton - 7,U.S. Senate,,WOR,Kirsten E. Gillibrand,14
+Tioga,Barton - 7,U.S. Senate,,LAR,Diane Sare,1
+Tioga,Barton - 7,U.S. Senate,,,Write-in,0
+Tioga,Berkshire - 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,199
+Tioga,Berkshire - 1,U.S. Senate,,REP,Michael D. Sapraicone,451
+Tioga,Berkshire - 1,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Berkshire - 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,30
+Tioga,Berkshire - 1,U.S. Senate,,LAR,Diane Sare,2
+Tioga,Berkshire - 1,U.S. Senate,,,Write-in,0
+Tioga,Candor - 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,392
+Tioga,Candor - 1,U.S. Senate,,REP,Michael D. Sapraicone,547
+Tioga,Candor - 1,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Candor - 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,48
+Tioga,Candor - 1,U.S. Senate,,LAR,Diane Sare,7
+Tioga,Candor - 1,U.S. Senate,,,Write-in,0
+Tioga,Candor - 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,107
+Tioga,Candor - 2,U.S. Senate,,REP,Michael D. Sapraicone,240
+Tioga,Candor - 2,U.S. Senate,,CON,Michael D. Sapraicone,8
+Tioga,Candor - 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,9
+Tioga,Candor - 2,U.S. Senate,,LAR,Diane Sare,3
+Tioga,Candor - 2,U.S. Senate,,,Write-in,0
+Tioga,Candor - 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,329
+Tioga,Candor - 3,U.S. Senate,,REP,Michael D. Sapraicone,629
+Tioga,Candor - 3,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Candor - 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,51
+Tioga,Candor - 3,U.S. Senate,,LAR,Diane Sare,2
+Tioga,Candor - 3,U.S. Senate,,,Write-in,0
+Tioga,Newark Valley - 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,372
+Tioga,Newark Valley - 1,U.S. Senate,,REP,Michael D. Sapraicone,645
+Tioga,Newark Valley - 1,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Newark Valley - 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,29
+Tioga,Newark Valley - 1,U.S. Senate,,LAR,Diane Sare,4
+Tioga,Newark Valley - 1,U.S. Senate,,,Write-in,0
+Tioga,Newark Valley - 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,267
+Tioga,Newark Valley - 2,U.S. Senate,,REP,Michael D. Sapraicone,451
+Tioga,Newark Valley - 2,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Newark Valley - 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,19
+Tioga,Newark Valley - 2,U.S. Senate,,LAR,Diane Sare,3
+Tioga,Newark Valley - 2,U.S. Senate,,,Write-in,0
+Tioga,Nichols - 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,187
+Tioga,Nichols - 1,U.S. Senate,,REP,Michael D. Sapraicone,296
+Tioga,Nichols - 1,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Nichols - 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Tioga,Nichols - 1,U.S. Senate,,LAR,Diane Sare,4
+Tioga,Nichols - 1,U.S. Senate,,,Write-in,0
+Tioga,Nichols - 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,158
+Tioga,Nichols - 2,U.S. Senate,,REP,Michael D. Sapraicone,381
+Tioga,Nichols - 2,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Nichols - 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Tioga,Nichols - 2,U.S. Senate,,LAR,Diane Sare,2
+Tioga,Nichols - 2,U.S. Senate,,,Write-in,0
+Tioga,Owego - 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,384
+Tioga,Owego - 1,U.S. Senate,,REP,Michael D. Sapraicone,304
+Tioga,Owego - 1,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Owego - 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,13
+Tioga,Owego - 1,U.S. Senate,,LAR,Diane Sare,4
+Tioga,Owego - 1,U.S. Senate,,,Write-in,0
+Tioga,Owego - 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,485
+Tioga,Owego - 2,U.S. Senate,,REP,Michael D. Sapraicone,522
+Tioga,Owego - 2,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Owego - 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,36
+Tioga,Owego - 2,U.S. Senate,,LAR,Diane Sare,2
+Tioga,Owego - 2,U.S. Senate,,,Write-in,0
+Tioga,Owego - 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,163
+Tioga,Owego - 3,U.S. Senate,,REP,Michael D. Sapraicone,253
+Tioga,Owego - 3,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Owego - 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,12
+Tioga,Owego - 3,U.S. Senate,,LAR,Diane Sare,1
+Tioga,Owego - 3,U.S. Senate,,,Write-in,0
+Tioga,Owego - 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,324
+Tioga,Owego - 4,U.S. Senate,,REP,Michael D. Sapraicone,455
+Tioga,Owego - 4,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Owego - 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,26
+Tioga,Owego - 4,U.S. Senate,,LAR,Diane Sare,4
+Tioga,Owego - 4,U.S. Senate,,,Write-in,0
+Tioga,Owego - 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,297
+Tioga,Owego - 5,U.S. Senate,,REP,Michael D. Sapraicone,390
+Tioga,Owego - 5,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Owego - 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,14
+Tioga,Owego - 5,U.S. Senate,,LAR,Diane Sare,0
+Tioga,Owego - 5,U.S. Senate,,,Write-in,0
+Tioga,Owego - 6,U.S. Senate,,DEM,Kirsten E. Gillibrand,331
+Tioga,Owego - 6,U.S. Senate,,REP,Michael D. Sapraicone,324
+Tioga,Owego - 6,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Owego - 6,U.S. Senate,,WOR,Kirsten E. Gillibrand,29
+Tioga,Owego - 6,U.S. Senate,,LAR,Diane Sare,2
+Tioga,Owego - 6,U.S. Senate,,,Write-in,0
+Tioga,Owego - 7,U.S. Senate,,DEM,Kirsten E. Gillibrand,314
+Tioga,Owego - 7,U.S. Senate,,REP,Michael D. Sapraicone,235
+Tioga,Owego - 7,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Owego - 7,U.S. Senate,,WOR,Kirsten E. Gillibrand,21
+Tioga,Owego - 7,U.S. Senate,,LAR,Diane Sare,2
+Tioga,Owego - 7,U.S. Senate,,,Write-in,1
+Tioga,Owego - 8,U.S. Senate,,DEM,Kirsten E. Gillibrand,203
+Tioga,Owego - 8,U.S. Senate,,REP,Michael D. Sapraicone,214
+Tioga,Owego - 8,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Owego - 8,U.S. Senate,,WOR,Kirsten E. Gillibrand,15
+Tioga,Owego - 8,U.S. Senate,,LAR,Diane Sare,4
+Tioga,Owego - 8,U.S. Senate,,,Write-in,0
+Tioga,Owego - 11,U.S. Senate,,DEM,Kirsten E. Gillibrand,113
+Tioga,Owego - 11,U.S. Senate,,REP,Michael D. Sapraicone,250
+Tioga,Owego - 11,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Owego - 11,U.S. Senate,,WOR,Kirsten E. Gillibrand,14
+Tioga,Owego - 11,U.S. Senate,,LAR,Diane Sare,2
+Tioga,Owego - 11,U.S. Senate,,,Write-in,0
+Tioga,Owego - 12,U.S. Senate,,DEM,Kirsten E. Gillibrand,261
+Tioga,Owego - 12,U.S. Senate,,REP,Michael D. Sapraicone,407
+Tioga,Owego - 12,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Owego - 12,U.S. Senate,,WOR,Kirsten E. Gillibrand,24
+Tioga,Owego - 12,U.S. Senate,,LAR,Diane Sare,3
+Tioga,Owego - 12,U.S. Senate,,,Write-in,0
+Tioga,Owego - 13,U.S. Senate,,DEM,Kirsten E. Gillibrand,222
+Tioga,Owego - 13,U.S. Senate,,REP,Michael D. Sapraicone,325
+Tioga,Owego - 13,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Owego - 13,U.S. Senate,,WOR,Kirsten E. Gillibrand,18
+Tioga,Owego - 13,U.S. Senate,,LAR,Diane Sare,5
+Tioga,Owego - 13,U.S. Senate,,,Write-in,0
+Tioga,Owego - 14,U.S. Senate,,DEM,Kirsten E. Gillibrand,216
+Tioga,Owego - 14,U.S. Senate,,REP,Michael D. Sapraicone,252
+Tioga,Owego - 14,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Owego - 14,U.S. Senate,,WOR,Kirsten E. Gillibrand,12
+Tioga,Owego - 14,U.S. Senate,,LAR,Diane Sare,1
+Tioga,Owego - 14,U.S. Senate,,,Write-in,0
+Tioga,Owego - 15,U.S. Senate,,DEM,Kirsten E. Gillibrand,407
+Tioga,Owego - 15,U.S. Senate,,REP,Michael D. Sapraicone,384
+Tioga,Owego - 15,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Owego - 15,U.S. Senate,,WOR,Kirsten E. Gillibrand,23
+Tioga,Owego - 15,U.S. Senate,,LAR,Diane Sare,0
+Tioga,Owego - 15,U.S. Senate,,,Write-in,0
+Tioga,Owego - 17,U.S. Senate,,DEM,Kirsten E. Gillibrand,456
+Tioga,Owego - 17,U.S. Senate,,REP,Michael D. Sapraicone,361
+Tioga,Owego - 17,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Owego - 17,U.S. Senate,,WOR,Kirsten E. Gillibrand,29
+Tioga,Owego - 17,U.S. Senate,,LAR,Diane Sare,1
+Tioga,Owego - 17,U.S. Senate,,,Write-in,0
+Tioga,Owego - 19,U.S. Senate,,DEM,Kirsten E. Gillibrand,257
+Tioga,Owego - 19,U.S. Senate,,REP,Michael D. Sapraicone,325
+Tioga,Owego - 19,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Owego - 19,U.S. Senate,,WOR,Kirsten E. Gillibrand,22
+Tioga,Owego - 19,U.S. Senate,,LAR,Diane Sare,3
+Tioga,Owego - 19,U.S. Senate,,,Write-in,0
+Tioga,Richford - 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,210
+Tioga,Richford - 1,U.S. Senate,,REP,Michael D. Sapraicone,293
+Tioga,Richford - 1,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Richford - 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Tioga,Richford - 1,U.S. Senate,,LAR,Diane Sare,2
+Tioga,Richford - 1,U.S. Senate,,,Write-in,0
+Tioga,Spencer - 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,409
+Tioga,Spencer - 1,U.S. Senate,,REP,Michael D. Sapraicone,517
+Tioga,Spencer - 1,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Spencer - 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,42
+Tioga,Spencer - 1,U.S. Senate,,LAR,Diane Sare,3
+Tioga,Spencer - 1,U.S. Senate,,,Write-in,1
+Tioga,Spencer - 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,147
+Tioga,Spencer - 2,U.S. Senate,,REP,Michael D. Sapraicone,269
+Tioga,Spencer - 2,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Spencer - 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,12
+Tioga,Spencer - 2,U.S. Senate,,LAR,Diane Sare,1
+Tioga,Spencer - 2,U.S. Senate,,,Write-in,1
+Tioga,Tioga - 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,414
+Tioga,Tioga - 1,U.S. Senate,,REP,Michael D. Sapraicone,647
+Tioga,Tioga - 1,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Tioga - 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,32
+Tioga,Tioga - 1,U.S. Senate,,LAR,Diane Sare,5
+Tioga,Tioga - 1,U.S. Senate,,,Write-in,0
+Tioga,Tioga - 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,233
+Tioga,Tioga - 2,U.S. Senate,,REP,Michael D. Sapraicone,583
+Tioga,Tioga - 2,U.S. Senate,,CON,Michael D. Sapraicone,0
+Tioga,Tioga - 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,12
+Tioga,Tioga - 2,U.S. Senate,,LAR,Diane Sare,3
+Tioga,Tioga - 2,U.S. Senate,,,Write-in,0
+Tioga,Barton - 1,U.S. House,23,DEM,Thomas Carle,228
+Tioga,Barton - 1,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Barton - 1,U.S. House,23,CON,Nicholas Langworthy,33
+Tioga,Barton - 1,U.S. House,23,,Write-in,0
+Tioga,Barton - 2,U.S. House,23,DEM,Thomas Carle,290
+Tioga,Barton - 2,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Barton - 2,U.S. House,23,CON,Nicholas Langworthy,45
+Tioga,Barton - 2,U.S. House,23,,Write-in,0
+Tioga,Barton - 3,U.S. House,23,DEM,Thomas Carle,170
+Tioga,Barton - 3,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Barton - 3,U.S. House,23,CON,Nicholas Langworthy,41
+Tioga,Barton - 3,U.S. House,23,,Write-in,0
+Tioga,Barton - 4,U.S. House,23,DEM,Thomas Carle,92
+Tioga,Barton - 4,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Barton - 4,U.S. House,23,CON,Nicholas Langworthy,26
+Tioga,Barton - 4,U.S. House,23,,Write-in,0
+Tioga,Barton - 5,U.S. House,23,DEM,Thomas Carle,105
+Tioga,Barton - 5,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Barton - 5,U.S. House,23,CON,Nicholas Langworthy,29
+Tioga,Barton - 5,U.S. House,23,,Write-in,0
+Tioga,Barton - 7,U.S. House,23,DEM,Thomas Carle,143
+Tioga,Barton - 7,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Barton - 7,U.S. House,23,CON,Nicholas Langworthy,38
+Tioga,Barton - 7,U.S. House,23,,Write-in,0
+Tioga,Berkshire - 1,U.S. House,23,DEM,Thomas Carle,175
+Tioga,Berkshire - 1,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Berkshire - 1,U.S. House,23,CON,Nicholas Langworthy,41
+Tioga,Berkshire - 1,U.S. House,23,,Write-in,0
+Tioga,Candor - 1,U.S. House,23,DEM,Thomas Carle,381
+Tioga,Candor - 1,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Candor - 1,U.S. House,23,CON,Nicholas Langworthy,57
+Tioga,Candor - 1,U.S. House,23,,Write-in,1
+Tioga,Candor - 2,U.S. House,23,DEM,Thomas Carle,99
+Tioga,Candor - 2,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Candor - 2,U.S. House,23,CON,Nicholas Langworthy,13
+Tioga,Candor - 2,U.S. House,23,,Write-in,0
+Tioga,Candor - 3,U.S. House,23,DEM,Thomas Carle,328
+Tioga,Candor - 3,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Candor - 3,U.S. House,23,CON,Nicholas Langworthy,52
+Tioga,Candor - 3,U.S. House,23,,Write-in,1
+Tioga,Newark Valley - 1,U.S. House,23,DEM,Thomas Carle,325
+Tioga,Newark Valley - 1,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Newark Valley - 1,U.S. House,23,CON,Nicholas Langworthy,58
+Tioga,Newark Valley - 1,U.S. House,23,,Write-in,0
+Tioga,Newark Valley - 2,U.S. House,23,DEM,Thomas Carle,255
+Tioga,Newark Valley - 2,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Newark Valley - 2,U.S. House,23,CON,Nicholas Langworthy,46
+Tioga,Newark Valley - 2,U.S. House,23,,Write-in,0
+Tioga,Nichols - 1,U.S. House,23,DEM,Thomas Carle,170
+Tioga,Nichols - 1,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Nichols - 1,U.S. House,23,CON,Nicholas Langworthy,22
+Tioga,Nichols - 1,U.S. House,23,,Write-in,0
+Tioga,Nichols - 2,U.S. House,23,DEM,Thomas Carle,136
+Tioga,Nichols - 2,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Nichols - 2,U.S. House,23,CON,Nicholas Langworthy,33
+Tioga,Nichols - 2,U.S. House,23,,Write-in,0
+Tioga,Owego - 1,U.S. House,23,DEM,Thomas Carle,367
+Tioga,Owego - 1,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Owego - 1,U.S. House,23,CON,Nicholas Langworthy,34
+Tioga,Owego - 1,U.S. House,23,,Write-in,0
+Tioga,Owego - 2,U.S. House,23,DEM,Thomas Carle,459
+Tioga,Owego - 2,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Owego - 2,U.S. House,23,CON,Nicholas Langworthy,50
+Tioga,Owego - 2,U.S. House,23,,Write-in,2
+Tioga,Owego - 3,U.S. House,23,DEM,Thomas Carle,156
+Tioga,Owego - 3,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Owego - 3,U.S. House,23,CON,Nicholas Langworthy,40
+Tioga,Owego - 3,U.S. House,23,,Write-in,0
+Tioga,Owego - 4,U.S. House,23,DEM,Thomas Carle,306
+Tioga,Owego - 4,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Owego - 4,U.S. House,23,CON,Nicholas Langworthy,52
+Tioga,Owego - 4,U.S. House,23,,Write-in,1
+Tioga,Owego - 5,U.S. House,23,DEM,Thomas Carle,296
+Tioga,Owego - 5,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Owego - 5,U.S. House,23,CON,Nicholas Langworthy,40
+Tioga,Owego - 5,U.S. House,23,,Write-in,0
+Tioga,Owego - 6,U.S. House,23,DEM,Thomas Carle,314
+Tioga,Owego - 6,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Owego - 6,U.S. House,23,CON,Nicholas Langworthy,31
+Tioga,Owego - 6,U.S. House,23,,Write-in,1
+Tioga,Owego - 7,U.S. House,23,DEM,Thomas Carle,308
+Tioga,Owego - 7,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Owego - 7,U.S. House,23,CON,Nicholas Langworthy,38
+Tioga,Owego - 7,U.S. House,23,,Write-in,1
+Tioga,Owego - 8,U.S. House,23,DEM,Thomas Carle,194
+Tioga,Owego - 8,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Owego - 8,U.S. House,23,CON,Nicholas Langworthy,29
+Tioga,Owego - 8,U.S. House,23,,Write-in,0
+Tioga,Owego - 11,U.S. House,23,DEM,Thomas Carle,115
+Tioga,Owego - 11,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Owego - 11,U.S. House,23,CON,Nicholas Langworthy,31
+Tioga,Owego - 11,U.S. House,23,,Write-in,0
+Tioga,Owego - 12,U.S. House,23,DEM,Thomas Carle,237
+Tioga,Owego - 12,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Owego - 12,U.S. House,23,CON,Nicholas Langworthy,35
+Tioga,Owego - 12,U.S. House,23,,Write-in,0
+Tioga,Owego - 13,U.S. House,23,DEM,Thomas Carle,199
+Tioga,Owego - 13,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Owego - 13,U.S. House,23,CON,Nicholas Langworthy,43
+Tioga,Owego - 13,U.S. House,23,,Write-in,0
+Tioga,Owego - 14,U.S. House,23,DEM,Thomas Carle,199
+Tioga,Owego - 14,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Owego - 14,U.S. House,23,CON,Nicholas Langworthy,28
+Tioga,Owego - 14,U.S. House,23,,Write-in,0
+Tioga,Owego - 15,U.S. House,23,DEM,Thomas Carle,379
+Tioga,Owego - 15,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Owego - 15,U.S. House,23,CON,Nicholas Langworthy,39
+Tioga,Owego - 15,U.S. House,23,,Write-in,0
+Tioga,Owego - 17,U.S. House,23,DEM,Thomas Carle,427
+Tioga,Owego - 17,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Owego - 17,U.S. House,23,CON,Nicholas Langworthy,56
+Tioga,Owego - 17,U.S. House,23,,Write-in,0
+Tioga,Owego - 19,U.S. House,23,DEM,Thomas Carle,246
+Tioga,Owego - 19,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Owego - 19,U.S. House,23,CON,Nicholas Langworthy,41
+Tioga,Owego - 19,U.S. House,23,,Write-in,1
+Tioga,Richford - 1,U.S. House,23,DEM,Thomas Carle,199
+Tioga,Richford - 1,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Richford - 1,U.S. House,23,CON,Nicholas Langworthy,28
+Tioga,Richford - 1,U.S. House,23,,Write-in,1
+Tioga,Spencer - 1,U.S. House,23,DEM,Thomas Carle,409
+Tioga,Spencer - 1,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Spencer - 1,U.S. House,23,CON,Nicholas Langworthy,59
+Tioga,Spencer - 1,U.S. House,23,,Write-in,0
+Tioga,Spencer - 2,U.S. House,23,DEM,Thomas Carle,146
+Tioga,Spencer - 2,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Spencer - 2,U.S. House,23,CON,Nicholas Langworthy,32
+Tioga,Spencer - 2,U.S. House,23,,Write-in,1
+Tioga,Tioga - 1,U.S. House,23,DEM,Thomas Carle,371
+Tioga,Tioga - 1,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Tioga - 1,U.S. House,23,CON,Nicholas Langworthy,51
+Tioga,Tioga - 1,U.S. House,23,,Write-in,0
+Tioga,Tioga - 2,U.S. House,23,DEM,Thomas Carle,206
+Tioga,Tioga - 2,U.S. House,23,REP,Nicholas Langworthy,0
+Tioga,Tioga - 2,U.S. House,23,CON,Nicholas Langworthy,41
+Tioga,Tioga - 2,U.S. House,23,,Write-in,0
+Tioga,Barton - 1,State Senate,58,REP,Thomas F. O'Mara,393
+Tioga,Barton - 1,State Senate,58,CON,Thomas F. O'Mara,61
+Tioga,Barton - 1,State Senate,58,,Write-in,6
+Tioga,Barton - 2,State Senate,58,REP,Thomas F. O'Mara,572
+Tioga,Barton - 2,State Senate,58,CON,Thomas F. O'Mara,67
+Tioga,Barton - 2,State Senate,58,,Write-in,5
+Tioga,Barton - 3,State Senate,58,REP,Thomas F. O'Mara,300
+Tioga,Barton - 3,State Senate,58,CON,Thomas F. O'Mara,61
+Tioga,Barton - 3,State Senate,58,,Write-in,4
+Tioga,Barton - 4,State Senate,58,REP,Thomas F. O'Mara,341
+Tioga,Barton - 4,State Senate,58,CON,Thomas F. O'Mara,35
+Tioga,Barton - 4,State Senate,58,,Write-in,0
+Tioga,Barton - 5,State Senate,58,REP,Thomas F. O'Mara,364
+Tioga,Barton - 5,State Senate,58,CON,Thomas F. O'Mara,40
+Tioga,Barton - 5,State Senate,58,,Write-in,2
+Tioga,Barton - 7,State Senate,58,REP,Thomas F. O'Mara,357
+Tioga,Barton - 7,State Senate,58,CON,Thomas F. O'Mara,47
+Tioga,Barton - 7,State Senate,58,,Write-in,0
+Tioga,Berkshire - 1,State Senate,58,REP,Thomas F. O'Mara,511
+Tioga,Berkshire - 1,State Senate,58,CON,Thomas F. O'Mara,47
+Tioga,Berkshire - 1,State Senate,58,,Write-in,4
+Tioga,Candor - 1,State Senate,58,REP,Thomas F. O'Mara,664
+Tioga,Candor - 1,State Senate,58,CON,Thomas F. O'Mara,87
+Tioga,Candor - 1,State Senate,58,,Write-in,9
+Tioga,Candor - 2,State Senate,58,REP,Thomas F. O'Mara,273
+Tioga,Candor - 2,State Senate,58,CON,Thomas F. O'Mara,30
+Tioga,Candor - 2,State Senate,58,,Write-in,0
+Tioga,Candor - 3,State Senate,58,REP,Thomas F. O'Mara,712
+Tioga,Candor - 3,State Senate,58,CON,Thomas F. O'Mara,77
+Tioga,Candor - 3,State Senate,58,,Write-in,6
+Tioga,Newark Valley - 1,State Senate,58,REP,Thomas F. O'Mara,770
+Tioga,Newark Valley - 1,State Senate,58,CON,Thomas F. O'Mara,98
+Tioga,Newark Valley - 1,State Senate,58,,Write-in,4
+Tioga,Newark Valley - 2,State Senate,58,REP,Thomas F. O'Mara,507
+Tioga,Newark Valley - 2,State Senate,58,CON,Thomas F. O'Mara,62
+Tioga,Newark Valley - 2,State Senate,58,,Write-in,5
+Tioga,Nichols - 1,State Senate,58,REP,Thomas F. O'Mara,366
+Tioga,Nichols - 1,State Senate,58,CON,Thomas F. O'Mara,40
+Tioga,Nichols - 1,State Senate,58,,Write-in,1
+Tioga,Nichols - 2,State Senate,58,REP,Thomas F. O'Mara,435
+Tioga,Nichols - 2,State Senate,58,CON,Thomas F. O'Mara,48
+Tioga,Nichols - 2,State Senate,58,,Write-in,1
+Tioga,Owego - 1,State Senate,58,REP,Thomas F. O'Mara,408
+Tioga,Owego - 1,State Senate,58,CON,Thomas F. O'Mara,63
+Tioga,Owego - 1,State Senate,58,,Write-in,7
+Tioga,Owego - 2,State Senate,58,REP,Thomas F. O'Mara,663
+Tioga,Owego - 2,State Senate,58,CON,Thomas F. O'Mara,98
+Tioga,Owego - 2,State Senate,58,,Write-in,13
+Tioga,Owego - 3,State Senate,58,REP,Thomas F. O'Mara,291
+Tioga,Owego - 3,State Senate,58,CON,Thomas F. O'Mara,61
+Tioga,Owego - 3,State Senate,58,,Write-in,0
+Tioga,Owego - 4,State Senate,58,REP,Thomas F. O'Mara,547
+Tioga,Owego - 4,State Senate,58,CON,Thomas F. O'Mara,77
+Tioga,Owego - 4,State Senate,58,,Write-in,5
+Tioga,Owego - 5,State Senate,58,REP,Thomas F. O'Mara,467
+Tioga,Owego - 5,State Senate,58,CON,Thomas F. O'Mara,64
+Tioga,Owego - 5,State Senate,58,,Write-in,6
+Tioga,Owego - 6,State Senate,58,REP,Thomas F. O'Mara,428
+Tioga,Owego - 6,State Senate,58,CON,Thomas F. O'Mara,53
+Tioga,Owego - 6,State Senate,58,,Write-in,12
+Tioga,Owego - 7,State Senate,58,REP,Thomas F. O'Mara,303
+Tioga,Owego - 7,State Senate,58,CON,Thomas F. O'Mara,58
+Tioga,Owego - 7,State Senate,58,,Write-in,13
+Tioga,Owego - 8,State Senate,58,REP,Thomas F. O'Mara,266
+Tioga,Owego - 8,State Senate,58,CON,Thomas F. O'Mara,47
+Tioga,Owego - 8,State Senate,58,,Write-in,3
+Tioga,Owego - 11,State Senate,58,REP,Thomas F. O'Mara,278
+Tioga,Owego - 11,State Senate,58,CON,Thomas F. O'Mara,42
+Tioga,Owego - 11,State Senate,58,,Write-in,2
+Tioga,Owego - 12,State Senate,58,REP,Thomas F. O'Mara,494
+Tioga,Owego - 12,State Senate,58,CON,Thomas F. O'Mara,58
+Tioga,Owego - 12,State Senate,58,,Write-in,5
+Tioga,Owego - 13,State Senate,58,REP,Thomas F. O'Mara,407
+Tioga,Owego - 13,State Senate,58,CON,Thomas F. O'Mara,57
+Tioga,Owego - 13,State Senate,58,,Write-in,3
+Tioga,Owego - 14,State Senate,58,REP,Thomas F. O'Mara,322
+Tioga,Owego - 14,State Senate,58,CON,Thomas F. O'Mara,50
+Tioga,Owego - 14,State Senate,58,,Write-in,3
+Tioga,Owego - 15,State Senate,58,REP,Thomas F. O'Mara,515
+Tioga,Owego - 15,State Senate,58,CON,Thomas F. O'Mara,59
+Tioga,Owego - 15,State Senate,58,,Write-in,10
+Tioga,Owego - 17,State Senate,58,REP,Thomas F. O'Mara,502
+Tioga,Owego - 17,State Senate,58,CON,Thomas F. O'Mara,91
+Tioga,Owego - 17,State Senate,58,,Write-in,10
+Tioga,Owego - 19,State Senate,58,REP,Thomas F. O'Mara,398
+Tioga,Owego - 19,State Senate,58,CON,Thomas F. O'Mara,75
+Tioga,Owego - 19,State Senate,58,,Write-in,4
+Tioga,Richford - 1,State Senate,58,REP,Thomas F. O'Mara,356
+Tioga,Richford - 1,State Senate,58,CON,Thomas F. O'Mara,41
+Tioga,Richford - 1,State Senate,58,,Write-in,3
+Tioga,Spencer - 1,State Senate,58,REP,Thomas F. O'Mara,617
+Tioga,Spencer - 1,State Senate,58,CON,Thomas F. O'Mara,82
+Tioga,Spencer - 1,State Senate,58,,Write-in,10
+Tioga,Spencer - 2,State Senate,58,REP,Thomas F. O'Mara,299
+Tioga,Spencer - 2,State Senate,58,CON,Thomas F. O'Mara,51
+Tioga,Spencer - 2,State Senate,58,,Write-in,3
+Tioga,Tioga - 1,State Senate,58,REP,Thomas F. O'Mara,801
+Tioga,Tioga - 1,State Senate,58,CON,Thomas F. O'Mara,88
+Tioga,Tioga - 1,State Senate,58,,Write-in,6
+Tioga,Tioga - 2,State Senate,58,REP,Thomas F. O'Mara,643
+Tioga,Tioga - 2,State Senate,58,CON,Thomas F. O'Mara,67
+Tioga,Tioga - 2,State Senate,58,,Write-in,2
+Tioga,Barton - 1,State Assembly,124,REP,Christopher Friend,388
+Tioga,Barton - 1,State Assembly,124,CON,S. Christopher Friend,61
+Tioga,Barton - 1,State Assembly,124,,Write-in,7
+Tioga,Barton - 2,State Assembly,124,REP,Christopher Friend,580
+Tioga,Barton - 2,State Assembly,124,CON,S. Christopher Friend,66
+Tioga,Barton - 2,State Assembly,124,,Write-in,6
+Tioga,Barton - 3,State Assembly,124,REP,Christopher Friend,304
+Tioga,Barton - 3,State Assembly,124,CON,S. Christopher Friend,60
+Tioga,Barton - 3,State Assembly,124,,Write-in,4
+Tioga,Barton - 4,State Assembly,124,REP,Christopher Friend,342
+Tioga,Barton - 4,State Assembly,124,CON,S. Christopher Friend,37
+Tioga,Barton - 4,State Assembly,124,,Write-in,0
+Tioga,Barton - 5,State Assembly,124,REP,Christopher Friend,364
+Tioga,Barton - 5,State Assembly,124,CON,S. Christopher Friend,43
+Tioga,Barton - 5,State Assembly,124,,Write-in,1
+Tioga,Barton - 7,State Assembly,124,REP,Christopher Friend,354
+Tioga,Barton - 7,State Assembly,124,CON,S. Christopher Friend,51
+Tioga,Barton - 7,State Assembly,124,,Write-in,0
+Tioga,Berkshire - 1,State Assembly,124,REP,Christopher Friend,520
+Tioga,Berkshire - 1,State Assembly,124,CON,S. Christopher Friend,46
+Tioga,Berkshire - 1,State Assembly,124,,Write-in,4
+Tioga,Candor - 1,State Assembly,124,REP,Christopher Friend,665
+Tioga,Candor - 1,State Assembly,124,CON,S. Christopher Friend,85
+Tioga,Candor - 1,State Assembly,124,,Write-in,8
+Tioga,Candor - 2,State Assembly,124,REP,Christopher Friend,276
+Tioga,Candor - 2,State Assembly,124,CON,S. Christopher Friend,29
+Tioga,Candor - 2,State Assembly,124,,Write-in,1
+Tioga,Candor - 3,State Assembly,124,REP,Christopher Friend,709
+Tioga,Candor - 3,State Assembly,124,CON,S. Christopher Friend,77
+Tioga,Candor - 3,State Assembly,124,,Write-in,6
+Tioga,Newark Valley - 1,State Assembly,124,REP,Christopher Friend,772
+Tioga,Newark Valley - 1,State Assembly,124,CON,S. Christopher Friend,95
+Tioga,Newark Valley - 1,State Assembly,124,,Write-in,5
+Tioga,Newark Valley - 2,State Assembly,124,REP,Christopher Friend,509
+Tioga,Newark Valley - 2,State Assembly,124,CON,S. Christopher Friend,66
+Tioga,Newark Valley - 2,State Assembly,124,,Write-in,6
+Tioga,Nichols - 1,State Assembly,124,REP,Christopher Friend,366
+Tioga,Nichols - 1,State Assembly,124,CON,S. Christopher Friend,38
+Tioga,Nichols - 1,State Assembly,124,,Write-in,1
+Tioga,Nichols - 2,State Assembly,124,REP,Christopher Friend,435
+Tioga,Nichols - 2,State Assembly,124,CON,S. Christopher Friend,46
+Tioga,Nichols - 2,State Assembly,124,,Write-in,1
+Tioga,Owego - 1,State Assembly,124,REP,Christopher Friend,410
+Tioga,Owego - 1,State Assembly,124,CON,S. Christopher Friend,63
+Tioga,Owego - 1,State Assembly,124,,Write-in,7
+Tioga,Owego - 2,State Assembly,124,REP,Christopher Friend,667
+Tioga,Owego - 2,State Assembly,124,CON,S. Christopher Friend,97
+Tioga,Owego - 2,State Assembly,124,,Write-in,11
+Tioga,Owego - 3,State Assembly,124,REP,Christopher Friend,289
+Tioga,Owego - 3,State Assembly,124,CON,S. Christopher Friend,60
+Tioga,Owego - 3,State Assembly,124,,Write-in,0
+Tioga,Owego - 4,State Assembly,124,REP,Christopher Friend,544
+Tioga,Owego - 4,State Assembly,124,CON,S. Christopher Friend,82
+Tioga,Owego - 4,State Assembly,124,,Write-in,5
+Tioga,Owego - 5,State Assembly,124,REP,Christopher Friend,469
+Tioga,Owego - 5,State Assembly,124,CON,S. Christopher Friend,63
+Tioga,Owego - 5,State Assembly,124,,Write-in,6
+Tioga,Owego - 6,State Assembly,124,REP,Christopher Friend,427
+Tioga,Owego - 6,State Assembly,124,CON,S. Christopher Friend,62
+Tioga,Owego - 6,State Assembly,124,,Write-in,11
+Tioga,Owego - 7,State Assembly,124,REP,Christopher Friend,300
+Tioga,Owego - 7,State Assembly,124,CON,S. Christopher Friend,63
+Tioga,Owego - 7,State Assembly,124,,Write-in,13
+Tioga,Owego - 8,State Assembly,124,REP,Christopher Friend,264
+Tioga,Owego - 8,State Assembly,124,CON,S. Christopher Friend,46
+Tioga,Owego - 8,State Assembly,124,,Write-in,6
+Tioga,Owego - 11,State Assembly,124,REP,Christopher Friend,277
+Tioga,Owego - 11,State Assembly,124,CON,S. Christopher Friend,44
+Tioga,Owego - 11,State Assembly,124,,Write-in,1
+Tioga,Owego - 12,State Assembly,124,REP,Christopher Friend,494
+Tioga,Owego - 12,State Assembly,124,CON,S. Christopher Friend,59
+Tioga,Owego - 12,State Assembly,124,,Write-in,5
+Tioga,Owego - 13,State Assembly,124,REP,Christopher Friend,408
+Tioga,Owego - 13,State Assembly,124,CON,S. Christopher Friend,54
+Tioga,Owego - 13,State Assembly,124,,Write-in,1
+Tioga,Owego - 14,State Assembly,124,REP,Christopher Friend,320
+Tioga,Owego - 14,State Assembly,124,CON,S. Christopher Friend,52
+Tioga,Owego - 14,State Assembly,124,,Write-in,3
+Tioga,Owego - 15,State Assembly,124,REP,Christopher Friend,515
+Tioga,Owego - 15,State Assembly,124,CON,S. Christopher Friend,59
+Tioga,Owego - 15,State Assembly,124,,Write-in,12
+Tioga,Owego - 17,State Assembly,124,REP,Christopher Friend,505
+Tioga,Owego - 17,State Assembly,124,CON,S. Christopher Friend,93
+Tioga,Owego - 17,State Assembly,124,,Write-in,10
+Tioga,Owego - 19,State Assembly,124,REP,Christopher Friend,395
+Tioga,Owego - 19,State Assembly,124,CON,S. Christopher Friend,75
+Tioga,Owego - 19,State Assembly,124,,Write-in,3
+Tioga,Richford - 1,State Assembly,124,REP,Christopher Friend,351
+Tioga,Richford - 1,State Assembly,124,CON,S. Christopher Friend,43
+Tioga,Richford - 1,State Assembly,124,,Write-in,2
+Tioga,Spencer - 1,State Assembly,124,REP,Christopher Friend,618
+Tioga,Spencer - 1,State Assembly,124,CON,S. Christopher Friend,85
+Tioga,Spencer - 1,State Assembly,124,,Write-in,9
+Tioga,Spencer - 2,State Assembly,124,REP,Christopher Friend,303
+Tioga,Spencer - 2,State Assembly,124,CON,S. Christopher Friend,50
+Tioga,Spencer - 2,State Assembly,124,,Write-in,3
+Tioga,Tioga - 1,State Assembly,124,REP,Christopher Friend,799
+Tioga,Tioga - 1,State Assembly,124,CON,S. Christopher Friend,92
+Tioga,Tioga - 1,State Assembly,124,,Write-in,6
+Tioga,Tioga - 2,State Assembly,124,REP,Christopher Friend,645
+Tioga,Tioga - 2,State Assembly,124,CON,S. Christopher Friend,65
+Tioga,Tioga - 2,State Assembly,124,,Write-in,2
