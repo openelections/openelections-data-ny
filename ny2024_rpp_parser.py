@@ -87,15 +87,21 @@ OFFICE_PATTERNS = [
     (re.compile(r"\bUS\s+Rep\b.*?Congress", re.I), "U.S. House", re.compile(r"(\d+)")),
     (re.compile(r"Representative in Congress,?\s*(\d+)\D", re.I), "U.S. House", re.compile(r"(\d+)\s*(?:st|nd|rd|th)?\s*District", re.I)),
     (re.compile(r"Representative in Congress", re.I), "U.S. House", None),
+    # SOVC rotated-format titles: "21st Congressional District", "24th Congressional".
+    (re.compile(r"\b\d+(?:st|nd|rd|th)?\s+Congressional\b", re.I), "U.S. House", re.compile(r"(\d+)")),
     (re.compile(r"State\s+Senator\b.*?Dist", re.I), "State Senate", re.compile(r"(\d+)")),
     (re.compile(r"State Senator,?\s*(\d+)", re.I), "State Senate", re.compile(r"(\d+)\s*(?:st|nd|rd|th)?\s*District", re.I)),
     (re.compile(r"New York State Senator", re.I), "State Senate", re.compile(r"(\d+)", re.I)),
     # Bare "State Senator" with no district suffix (Warren "STATE SENATOR").
     # Listed last among State Senate patterns so district-bearing titles win first.
     (re.compile(r"\bState\s+Senator\b", re.I), "State Senate", None),
+    # SOVC rotated-format titles: "49th Senatorial District", "49th Senatorial".
+    (re.compile(r"\b\d+(?:st|nd|rd|th)?\s+Senatorial\b", re.I), "State Senate", re.compile(r"(\d+)")),
     (re.compile(r"Member\s+of\s+(?:the\s+)?Assembly\b.*?Dist", re.I), "State Assembly", re.compile(r"(\d+)")),
     (re.compile(r"Member of (the )?Assembly,?\s*(\d+)", re.I), "State Assembly", re.compile(r"(\d+)\s*(?:st|nd|rd|th)?\s*District", re.I)),
     (re.compile(r"New York State Assembly", re.I), "State Assembly", re.compile(r"(\d+)", re.I)),
+    # SOVC rotated-format titles: "116th Assembly District", "116th Assembly".
+    (re.compile(r"\b\d+(?:st|nd|rd|th)?\s+Assembly\b", re.I), "State Assembly", re.compile(r"(\d+)")),
 ]
 
 # Normalize candidate surnames/fragments to full names for top-of-ticket.
@@ -423,11 +429,13 @@ def parse_pdf(pdf_path):
     """
     with pdfplumber.open(pdf_path) as doc:
         all_words = []
+        page_diagonals = {}
         for pi, pg in enumerate(doc.pages):
             for w in pg.extract_words(use_text_flow=False, keep_blank_chars=False):
                 ww = dict(w)
                 ww["page"] = pi + 1
                 all_words.append(ww)
+            page_diagonals[pi + 1] = _rotated_diagonals(pg)
     lines = cluster_lines(all_words, gap=4)
 
     # Split into sections. A section starts at a contest title (office match, or
@@ -450,7 +458,12 @@ def parse_pdf(pdf_path):
         # a Proposal's Yes/No numbers mis-assigned to the prior office's party
         # columns). Mid-table subtotals like "Lloyd Total" start with the
         # precinct name, so they don't match and don't close here.
-        if cur is not None and (first in ("total", "totals") or (first == "grand" and second == "total")):
+        if cur is not None and (
+            first in ("total", "totals")
+            or (first == "grand" and second == "total")
+            # SOVC rotated-format tables end with a "Contest Total" summary row.
+            or (first == "contest" and second == "total")
+        ):
             cur["lines"].append(ws)
             sections.append(cur)
             cur = None
@@ -473,13 +486,195 @@ def parse_pdf(pdf_path):
     for sec in sections:
         if sec["office"] is None:
             continue  # drop non-requested offices (Supreme Court, proposals, etc.)
-        parsed = parse_section(sec)
+        parsed = parse_section(sec, page_diagonals)
         if parsed:
             results.append(parsed)
-    return results
+
+    # SOVC rotated-format PDFs repeat each office's title as a running header on
+    # every page and close each page with "Contest Total", so one logical office
+    # (all its precincts) is split into one section per page. Merge consecutive
+    # parsed sections that are clearly the SAME contest continued across pages:
+    # same requested office + same district AND identical candidate columns
+    # (same parties + same candidate names). Requiring matching candidates is
+    # what prevents merging two genuinely distinct same-office contests whose
+    # district the parser failed to extract (e.g. Ulster NY-18 Pat Ryan vs
+    # NY-19 Josh Riley, both with district="").
+    def col_sig(cols):
+        return tuple((c.get("party"), c.get("candidate")) for c in cols)
+    merged = []
+    for r in results:
+        if (
+            r["office"] is not None
+            and merged
+            and merged[-1]["office"] == r["office"]
+            and (merged[-1].get("district") or "") == (r.get("district") or "")
+            and col_sig(merged[-1]["columns"]) == col_sig(r["columns"])
+        ):
+            merged[-1]["rows"].extend(r["rows"])
+            # A continued page brings its own Contest Total; the merged contest's
+            # verifiable total is no longer a single row, so drop it rather than
+            # keep a misleading partial total.
+            merged[-1]["total_row"] = None
+        else:
+            merged.append(r)
+
+    # SOVC continuation pages occasionally reprint a precinct that sat at a page
+    # boundary (its row appears at the foot of one page and the head of the next),
+    # so after merging the same precinct name can occur twice in one contest. Each
+    # precinct should appear once per contest, so drop duplicate precinct rows
+    # (keep the first occurrence). This is safe: within a single contest a precinct
+    # name maps to exactly one row of vote totals.
+    for r in merged:
+        seen = set()
+        deduped = []
+        for row in r["rows"]:
+            p = row["precinct"]
+            if p in seen:
+                continue
+            seen.add(p)
+            deduped.append(row)
+        r["rows"] = deduped
+    return merged
 
 
-def parse_section(sec):
+# --- Rotated (SOVC) candidate-name reassembly -------------------------------
+# Some NY county BOE PDFs print candidate names rotated ~60deg so each
+# character sits at its own (x, top) along an upward diagonal. pdfplumber's
+# extract_text interleaves the chars of all candidates (and the VP running
+# mates), yielding garbage like "m Ti s arri H . D a l z K W". The glyph
+# matrix on each char exposes the exact rotation, so we cluster chars by their
+# perpendicular offset (one diagonal = one name), sort along the baseline to
+# read the name, then strip VP tokens and merge split long names.
+
+_VP_NAME_TOKENS = {"walz", "vance", "tim", "jd", "j.d."}
+
+
+def _add_name_spaces(s):
+    """Insert spaces into a concatenated rotated name: 'KamalaD.Harris' ->
+    'Kamala D. Harris'. Insert a space before an uppercase letter that follows a
+    lowercase letter (word boundary / middle initial), and after a '.' that is
+    followed by a letter. Don't split Scottish 'McDonald'."""
+    out = []
+    for i, ch in enumerate(s):
+        if ch.isupper() and i > 0 and s[i - 1].islower():
+            if i >= 2 and s[i - 1] == "c" and s[i - 2] == "M":
+                out.append(ch)            # McDonald, McClain
+            else:
+                out.append(" " + ch)
+        elif ch == "." and i + 1 < len(s) and s[i + 1].isalpha():
+            out.append(ch + " ")
+        else:
+            out.append(ch)
+    return " ".join("".join(out).split())  # collapse runs of spaces
+
+
+def _strip_vp(name):
+    """Strip leading and trailing VP running-mate tokens ('Tim Walz', 'JD
+    Vance') from an assembled name. Returns '' if the whole name is a VP."""
+    toks = name.split()
+    while toks and toks[0].lower().strip(".,") in _VP_NAME_TOKENS:
+        toks.pop(0)
+    while toks and toks[-1].lower().strip(".,") in _VP_NAME_TOKENS:
+        toks.pop()
+    # The VP running mate prints as "... and Tim Walz"; after stripping the VP
+    # tokens a stray "and"/"&" can remain at either end — drop it.
+    while toks and toks[0].lower().strip(".,") in ("and", "&"):
+        toks.pop(0)
+    while toks and toks[-1].lower().strip(".,") in ("and", "&"):
+        toks.pop()
+    return " ".join(toks)
+
+
+def _rotated_diagonals(page):
+    """Return candidate-name diagonals on a page as [{'name', 'anchor_x'}],
+    where name is VP-stripped (may be '' for an all-VP diagonal) and anchor_x
+    is the x of the bottom-most (nearest the party line) char's center."""
+    chars = page.chars
+    rot = [c for c in chars if abs(c["matrix"][1]) > 0.1]
+    if len(rot) < 4:
+        return []
+    # dominant rotation matrix (a, b): cos/sin of the glyph angle.
+    from collections import Counter as _C
+    ang = _C((round(c["matrix"][0], 3), round(c["matrix"][1], 3)) for c in rot)
+    a, b = ang.most_common(1)[0][0]
+    for c in rot:
+        c["cx"] = (c["x0"] + c["x1"]) / 2
+        c["perp"] = b * c["cx"] + a * c["top"]   # constant along a diagonal
+        c["along"] = a * c["cx"] - b * c["top"]  # increases in reading order
+    rot.sort(key=lambda c: c["perp"])
+    clusters = []
+    cur = [rot[0]]
+    for c in rot[1:]:
+        if abs(c["perp"] - cur[-1]["perp"]) < 4:
+            cur.append(c)
+        else:
+            clusters.append(cur)
+            cur = [c]
+    clusters.append(cur)
+    out = []
+    for cl in clusters:
+        cl.sort(key=lambda c: c["along"])
+        raw = "".join(c["text"] for c in cl)
+        name = _strip_vp(_add_name_spaces(raw))
+        bottom = max(cl, key=lambda c: c["top"])
+        out.append({"name": name, "anchor_x": bottom["cx"]})
+    return out
+
+
+def _rotated_name_for_columns(sec, columns, page_diagonals):
+    """Map party column index -> candidate name, by matching rotated diagonals
+    on the section's pages to each column's x0. Diagonals are accumulated per
+    column: keep merging while the running name ends in a middle-initial
+    'X.' (a long surname wrapped to a second rotated line); once the name is
+    complete, the remaining diagonals in that column are VP/extra and ignored.
+    """
+    if not page_diagonals:
+        return {}
+    pages = {w.get("page") for ws in sec.get("lines", []) for w in ws}
+    pages.discard(None)
+    seen = set()
+    diags = []
+    for pg in pages:
+        for d in page_diagonals.get(pg, []):
+            key = (d["name"], round(d["anchor_x"]))
+            if key in seen:
+                continue
+            seen.add(key)
+            diags.append(d)
+    if not diags:
+        return {}
+    out = {}
+    for ci, col in enumerate(columns):
+        if col.get("kind") != "party":
+            continue
+        cx = col["x0"]
+        col_diags = [d for d in diags if abs(d["anchor_x"] - cx) <= 30]
+        if not col_diags:
+            continue
+        col_diags.sort(key=lambda d: d["anchor_x"])
+        acc = ""
+        for d in col_diags:
+            nm = d["name"]
+            if not nm:
+                continue
+            if acc == "":
+                acc = nm
+            elif re.search(r"[A-Z]\.$", acc):
+                # Previous fragment ended in a middle initial ("Michael D.") ->
+                # the wrapped surname ("Sapraicone") is the next diagonal.
+                acc = acc + " " + nm
+            elif " " not in acc:
+                # Previous fragment is a bare first name ("Marianne") with no
+                # surname yet -> the wrapped surname ("Buttenschon") is next.
+                acc = acc + " " + nm
+            else:
+                break  # acc is a complete name; rest are VP/extra
+        if acc:
+            out[ci] = acc
+    return out
+
+
+def parse_section(sec, page_diagonals=None):
     office, district = sec["office"], sec["district"]
     lines = sec["lines"]
     if not lines:
@@ -595,6 +790,10 @@ def parse_section(sec):
     # Fallback name fragments from positional candidate-name grouping (handles
     # fusion headers where one name serves adjacent party columns).
     group_frags = assign_name_groups(header_lines, columns)
+    # Rotated (SOVC) candidate names reassembled from per-char diagonals.
+    # authoritatively correct for rotated-text counties; empty for ordinary
+    # horizontal-name counties, so it only overrides where present.
+    rotated_map = _rotated_name_for_columns(sec, columns, page_diagonals)
     for ci, col in enumerate(columns):
         if col["kind"] != "party":
             continue
@@ -653,7 +852,12 @@ def parse_section(sec):
         gp_superset = (gp_toks and (not st_toks or st_toks <= gp_toks)
                        and len(gp_toks) > len(st_toks)
                        and not _is_label_garbage(gp_frag))
-        if st_norm in known:
+        rot_frag = rotated_map.get(ci, "")
+        # Rotated SOVC names are ground truth where present: walk-left/stacked
+        # only collect garbage from the interleaved rotated chars.
+        if rot_frag and not _is_label_garbage(rot_frag):
+            frag = rot_frag
+        elif st_norm in known:
             frag = st_frag
         elif wl_norm in known:
             frag = wl_frag
@@ -948,11 +1152,13 @@ def parse_pdf_all(pdf_path):
     9755 14036 86'). Returns parsed sections with office set to the real title."""
     with pdfplumber.open(pdf_path) as doc:
         all_words = []
+        page_diagonals = {}
         for pi, pg in enumerate(doc.pages):
             for w in pg.extract_words(use_text_flow=False, keep_blank_chars=False):
                 ww = dict(w)
                 ww["page"] = pi + 1
                 all_words.append(ww)
+            page_diagonals[pi + 1] = _rotated_diagonals(pg)
     lines = cluster_lines(all_words, gap=4)
     n = len(lines)
     secs = []
@@ -1040,7 +1246,7 @@ def parse_pdf_all(pdf_path):
     for sec in secs:
         if sec["office"] is None:
             continue
-        parsed = parse_section(sec)
+        parsed = parse_section(sec, page_diagonals)
         if parsed and parsed["rows"]:
             results.append(parsed)
     return results
