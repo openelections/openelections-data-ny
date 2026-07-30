@@ -1,0 +1,793 @@
+county,precinct,office,district,party,candidate,votes
+Essex,CHESTERFIELD 1,President,,DEM,Kamala D. Harris,311
+Essex,CHESTERFIELD 1,President,,WOR,Kamala D. Harris,12
+Essex,CHESTERFIELD 1,President,,REP,Donald J. Trump,258
+Essex,CHESTERFIELD 1,President,,CON,Donald J. Trump,26
+Essex,CHESTERFIELD 1,President,,,Write-in,3
+Essex,CHESTERFIELD 2,President,,DEM,Kamala D. Harris,269
+Essex,CHESTERFIELD 2,President,,WOR,Kamala D. Harris,16
+Essex,CHESTERFIELD 2,President,,REP,Donald J. Trump,352
+Essex,CHESTERFIELD 2,President,,CON,Donald J. Trump,23
+Essex,CHESTERFIELD 2,President,,,Write-in,1
+Essex,CROWN POINT 1,President,,DEM,Kamala D. Harris,233
+Essex,CROWN POINT 1,President,,WOR,Kamala D. Harris,6
+Essex,CROWN POINT 1,President,,REP,Donald J. Trump,447
+Essex,CROWN POINT 1,President,,CON,Donald J. Trump,22
+Essex,CROWN POINT 1,President,,,Write-in,1
+Essex,CROWN POINT 2,President,,DEM,Kamala D. Harris,71
+Essex,CROWN POINT 2,President,,WOR,Kamala D. Harris,7
+Essex,CROWN POINT 2,President,,REP,Donald J. Trump,157
+Essex,CROWN POINT 2,President,,CON,Donald J. Trump,9
+Essex,CROWN POINT 2,President,,,Write-in,0
+Essex,ELIZABETHTOWN 0,President,,DEM,Kamala D. Harris,298
+Essex,ELIZABETHTOWN 0,President,,WOR,Kamala D. Harris,22
+Essex,ELIZABETHTOWN 0,President,,REP,Donald J. Trump,302
+Essex,ELIZABETHTOWN 0,President,,CON,Donald J. Trump,18
+Essex,ELIZABETHTOWN 0,President,,,Write-in,1
+Essex,ESSEX 0,President,,DEM,Kamala D. Harris,255
+Essex,ESSEX 0,President,,WOR,Kamala D. Harris,21
+Essex,ESSEX 0,President,,REP,Donald J. Trump,117
+Essex,ESSEX 0,President,,CON,Donald J. Trump,8
+Essex,ESSEX 0,President,,,Write-in,6
+Essex,JAY 1,President,,DEM,Kamala D. Harris,527
+Essex,JAY 1,President,,WOR,Kamala D. Harris,24
+Essex,JAY 1,President,,REP,Donald J. Trump,356
+Essex,JAY 1,President,,CON,Donald J. Trump,41
+Essex,JAY 1,President,,,Write-in,7
+Essex,JAY 2,President,,DEM,Kamala D. Harris,173
+Essex,JAY 2,President,,WOR,Kamala D. Harris,7
+Essex,JAY 2,President,,REP,Donald J. Trump,147
+Essex,JAY 2,President,,CON,Donald J. Trump,22
+Essex,JAY 2,President,,,Write-in,1
+Essex,KEENE 0,President,,DEM,Kamala D. Harris,517
+Essex,KEENE 0,President,,WOR,Kamala D. Harris,33
+Essex,KEENE 0,President,,REP,Donald J. Trump,175
+Essex,KEENE 0,President,,CON,Donald J. Trump,14
+Essex,KEENE 0,President,,,Write-in,4
+Essex,LEWIS 0,President,,DEM,Kamala D. Harris,233
+Essex,LEWIS 0,President,,WOR,Kamala D. Harris,14
+Essex,LEWIS 0,President,,REP,Donald J. Trump,340
+Essex,LEWIS 0,President,,CON,Donald J. Trump,24
+Essex,LEWIS 0,President,,,Write-in,2
+Essex,MINERVA 0,President,,DEM,Kamala D. Harris,178
+Essex,MINERVA 0,President,,WOR,Kamala D. Harris,12
+Essex,MINERVA 0,President,,REP,Donald J. Trump,224
+Essex,MINERVA 0,President,,CON,Donald J. Trump,30
+Essex,MINERVA 0,President,,,Write-in,4
+Essex,MORIAH 1,President,,DEM,Kamala D. Harris,283
+Essex,MORIAH 1,President,,WOR,Kamala D. Harris,19
+Essex,MORIAH 1,President,,REP,Donald J. Trump,410
+Essex,MORIAH 1,President,,CON,Donald J. Trump,15
+Essex,MORIAH 1,President,,,Write-in,4
+Essex,MORIAH 2,President,,DEM,Kamala D. Harris,243
+Essex,MORIAH 2,President,,WOR,Kamala D. Harris,17
+Essex,MORIAH 2,President,,REP,Donald J. Trump,530
+Essex,MORIAH 2,President,,CON,Donald J. Trump,20
+Essex,MORIAH 2,President,,,Write-in,1
+Essex,MORIAH 3,President,,DEM,Kamala D. Harris,147
+Essex,MORIAH 3,President,,WOR,Kamala D. Harris,8
+Essex,MORIAH 3,President,,REP,Donald J. Trump,298
+Essex,MORIAH 3,President,,CON,Donald J. Trump,12
+Essex,MORIAH 3,President,,,Write-in,0
+Essex,NEWCOMB 0,President,,DEM,Kamala D. Harris,125
+Essex,NEWCOMB 0,President,,WOR,Kamala D. Harris,12
+Essex,NEWCOMB 0,President,,REP,Donald J. Trump,152
+Essex,NEWCOMB 0,President,,CON,Donald J. Trump,20
+Essex,NEWCOMB 0,President,,,Write-in,2
+Essex,NORTH ELBA 1,President,,DEM,Kamala D. Harris,202
+Essex,NORTH ELBA 1,President,,WOR,Kamala D. Harris,14
+Essex,NORTH ELBA 1,President,,REP,Donald J. Trump,136
+Essex,NORTH ELBA 1,President,,CON,Donald J. Trump,13
+Essex,NORTH ELBA 1,President,,,Write-in,4
+Essex,NORTH ELBA 2,President,,DEM,Kamala D. Harris,576
+Essex,NORTH ELBA 2,President,,WOR,Kamala D. Harris,55
+Essex,NORTH ELBA 2,President,,REP,Donald J. Trump,258
+Essex,NORTH ELBA 2,President,,CON,Donald J. Trump,30
+Essex,NORTH ELBA 2,President,,,Write-in,3
+Essex,NORTH ELBA 3,President,,DEM,Kamala D. Harris,308
+Essex,NORTH ELBA 3,President,,WOR,Kamala D. Harris,11
+Essex,NORTH ELBA 3,President,,REP,Donald J. Trump,183
+Essex,NORTH ELBA 3,President,,CON,Donald J. Trump,24
+Essex,NORTH ELBA 3,President,,,Write-in,1
+Essex,NORTH ELBA 4,President,,DEM,Kamala D. Harris,274
+Essex,NORTH ELBA 4,President,,WOR,Kamala D. Harris,15
+Essex,NORTH ELBA 4,President,,REP,Donald J. Trump,152
+Essex,NORTH ELBA 4,President,,CON,Donald J. Trump,13
+Essex,NORTH ELBA 4,President,,,Write-in,1
+Essex,NORTH ELBA 5,President,,DEM,Kamala D. Harris,340
+Essex,NORTH ELBA 5,President,,WOR,Kamala D. Harris,16
+Essex,NORTH ELBA 5,President,,REP,Donald J. Trump,205
+Essex,NORTH ELBA 5,President,,CON,Donald J. Trump,29
+Essex,NORTH ELBA 5,President,,,Write-in,1
+Essex,NORTH ELBA 6,President,,DEM,Kamala D. Harris,485
+Essex,NORTH ELBA 6,President,,WOR,Kamala D. Harris,17
+Essex,NORTH ELBA 6,President,,REP,Donald J. Trump,270
+Essex,NORTH ELBA 6,President,,CON,Donald J. Trump,19
+Essex,NORTH ELBA 6,President,,,Write-in,5
+Essex,NORTH HUDSON 0,President,,DEM,Kamala D. Harris,50
+Essex,NORTH HUDSON 0,President,,WOR,Kamala D. Harris,7
+Essex,NORTH HUDSON 0,President,,REP,Donald J. Trump,108
+Essex,NORTH HUDSON 0,President,,CON,Donald J. Trump,11
+Essex,NORTH HUDSON 0,President,,,Write-in,0
+Essex,SCHROON 1,President,,DEM,Kamala D. Harris,192
+Essex,SCHROON 1,President,,WOR,Kamala D. Harris,9
+Essex,SCHROON 1,President,,REP,Donald J. Trump,307
+Essex,SCHROON 1,President,,CON,Donald J. Trump,35
+Essex,SCHROON 1,President,,,Write-in,0
+Essex,SCHROON 2,President,,DEM,Kamala D. Harris,264
+Essex,SCHROON 2,President,,WOR,Kamala D. Harris,15
+Essex,SCHROON 2,President,,REP,Donald J. Trump,351
+Essex,SCHROON 2,President,,CON,Donald J. Trump,29
+Essex,SCHROON 2,President,,,Write-in,1
+Essex,ST. ARMAND 0,President,,DEM,Kamala D. Harris,413
+Essex,ST. ARMAND 0,President,,WOR,Kamala D. Harris,32
+Essex,ST. ARMAND 0,President,,REP,Donald J. Trump,308
+Essex,ST. ARMAND 0,President,,CON,Donald J. Trump,27
+Essex,ST. ARMAND 0,President,,,Write-in,8
+Essex,TICONDEROGA 1,President,,DEM,Kamala D. Harris,230
+Essex,TICONDEROGA 1,President,,WOR,Kamala D. Harris,22
+Essex,TICONDEROGA 1,President,,REP,Donald J. Trump,372
+Essex,TICONDEROGA 1,President,,CON,Donald J. Trump,25
+Essex,TICONDEROGA 1,President,,,Write-in,3
+Essex,TICONDEROGA 2,President,,DEM,Kamala D. Harris,157
+Essex,TICONDEROGA 2,President,,WOR,Kamala D. Harris,9
+Essex,TICONDEROGA 2,President,,REP,Donald J. Trump,288
+Essex,TICONDEROGA 2,President,,CON,Donald J. Trump,14
+Essex,TICONDEROGA 2,President,,,Write-in,0
+Essex,TICONDEROGA 3,President,,DEM,Kamala D. Harris,232
+Essex,TICONDEROGA 3,President,,WOR,Kamala D. Harris,11
+Essex,TICONDEROGA 3,President,,REP,Donald J. Trump,304
+Essex,TICONDEROGA 3,President,,CON,Donald J. Trump,18
+Essex,TICONDEROGA 3,President,,,Write-in,1
+Essex,TICONDEROGA 4,President,,DEM,Kamala D. Harris,131
+Essex,TICONDEROGA 4,President,,WOR,Kamala D. Harris,13
+Essex,TICONDEROGA 4,President,,REP,Donald J. Trump,276
+Essex,TICONDEROGA 4,President,,CON,Donald J. Trump,15
+Essex,TICONDEROGA 4,President,,,Write-in,0
+Essex,WESTPORT 0,President,,DEM,Kamala D. Harris,461
+Essex,WESTPORT 0,President,,WOR,Kamala D. Harris,40
+Essex,WESTPORT 0,President,,REP,Donald J. Trump,289
+Essex,WESTPORT 0,President,,CON,Donald J. Trump,26
+Essex,WESTPORT 0,President,,,Write-in,7
+Essex,WILLSBORO 1,President,,DEM,Kamala D. Harris,304
+Essex,WILLSBORO 1,President,,WOR,Kamala D. Harris,19
+Essex,WILLSBORO 1,President,,REP,Donald J. Trump,262
+Essex,WILLSBORO 1,President,,CON,Donald J. Trump,27
+Essex,WILLSBORO 1,President,,,Write-in,0
+Essex,WILLSBORO 2,President,,DEM,Kamala D. Harris,182
+Essex,WILLSBORO 2,President,,WOR,Kamala D. Harris,10
+Essex,WILLSBORO 2,President,,REP,Donald J. Trump,220
+Essex,WILLSBORO 2,President,,CON,Donald J. Trump,16
+Essex,WILLSBORO 2,President,,,Write-in,2
+Essex,WILMINGTON 0,President,,DEM,Kamala D. Harris,399
+Essex,WILMINGTON 0,President,,WOR,Kamala D. Harris,21
+Essex,WILMINGTON 0,President,,REP,Donald J. Trump,273
+Essex,WILMINGTON 0,President,,CON,Donald J. Trump,31
+Essex,WILMINGTON 0,President,,,Write-in,0
+Essex,CHESTERFIELD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,322
+Essex,CHESTERFIELD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Essex,CHESTERFIELD 1,U.S. Senate,,REP,Michael D. Sapraicone,243
+Essex,CHESTERFIELD 1,U.S. Senate,,CON,Michael D. Sapraicone,21
+Essex,CHESTERFIELD 1,U.S. Senate,,LAR,Diane Sare,2
+Essex,CHESTERFIELD 1,U.S. Senate,,,Write-in,0
+Essex,CHESTERFIELD 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,284
+Essex,CHESTERFIELD 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,57
+Essex,CHESTERFIELD 2,U.S. Senate,,REP,Michael D. Sapraicone,275
+Essex,CHESTERFIELD 2,U.S. Senate,,CON,Michael D. Sapraicone,18
+Essex,CHESTERFIELD 2,U.S. Senate,,LAR,Diane Sare,4
+Essex,CHESTERFIELD 2,U.S. Senate,,,Write-in,0
+Essex,CROWN POINT 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,245
+Essex,CROWN POINT 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,15
+Essex,CROWN POINT 1,U.S. Senate,,REP,Michael D. Sapraicone,387
+Essex,CROWN POINT 1,U.S. Senate,,CON,Michael D. Sapraicone,24
+Essex,CROWN POINT 1,U.S. Senate,,LAR,Diane Sare,2
+Essex,CROWN POINT 1,U.S. Senate,,,Write-in,0
+Essex,CROWN POINT 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,72
+Essex,CROWN POINT 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,10
+Essex,CROWN POINT 2,U.S. Senate,,REP,Michael D. Sapraicone,136
+Essex,CROWN POINT 2,U.S. Senate,,CON,Michael D. Sapraicone,10
+Essex,CROWN POINT 2,U.S. Senate,,LAR,Diane Sare,1
+Essex,CROWN POINT 2,U.S. Senate,,,Write-in,0
+Essex,ELIZABETHTOWN 0,U.S. Senate,,DEM,Kirsten E. Gillibrand,305
+Essex,ELIZABETHTOWN 0,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Essex,ELIZABETHTOWN 0,U.S. Senate,,REP,Michael D. Sapraicone,258
+Essex,ELIZABETHTOWN 0,U.S. Senate,,CON,Michael D. Sapraicone,15
+Essex,ELIZABETHTOWN 0,U.S. Senate,,LAR,Diane Sare,1
+Essex,ELIZABETHTOWN 0,U.S. Senate,,,Write-in,0
+Essex,ESSEX 0,U.S. Senate,,DEM,Kirsten E. Gillibrand,263
+Essex,ESSEX 0,U.S. Senate,,WOR,Kirsten E. Gillibrand,26
+Essex,ESSEX 0,U.S. Senate,,REP,Michael D. Sapraicone,97
+Essex,ESSEX 0,U.S. Senate,,CON,Michael D. Sapraicone,10
+Essex,ESSEX 0,U.S. Senate,,LAR,Diane Sare,3
+Essex,ESSEX 0,U.S. Senate,,,Write-in,1
+Essex,JAY 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,528
+Essex,JAY 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,41
+Essex,JAY 1,U.S. Senate,,REP,Michael D. Sapraicone,325
+Essex,JAY 1,U.S. Senate,,CON,Michael D. Sapraicone,33
+Essex,JAY 1,U.S. Senate,,LAR,Diane Sare,3
+Essex,JAY 1,U.S. Senate,,,Write-in,0
+Essex,JAY 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,168
+Essex,JAY 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Essex,JAY 2,U.S. Senate,,REP,Michael D. Sapraicone,128
+Essex,JAY 2,U.S. Senate,,CON,Michael D. Sapraicone,23
+Essex,JAY 2,U.S. Senate,,LAR,Diane Sare,1
+Essex,JAY 2,U.S. Senate,,,Write-in,0
+Essex,KEENE 0,U.S. Senate,,DEM,Kirsten E. Gillibrand,511
+Essex,KEENE 0,U.S. Senate,,WOR,Kirsten E. Gillibrand,41
+Essex,KEENE 0,U.S. Senate,,REP,Michael D. Sapraicone,163
+Essex,KEENE 0,U.S. Senate,,CON,Michael D. Sapraicone,12
+Essex,KEENE 0,U.S. Senate,,LAR,Diane Sare,5
+Essex,KEENE 0,U.S. Senate,,,Write-in,0
+Essex,LEWIS 0,U.S. Senate,,DEM,Kirsten E. Gillibrand,240
+Essex,LEWIS 0,U.S. Senate,,WOR,Kirsten E. Gillibrand,25
+Essex,LEWIS 0,U.S. Senate,,REP,Michael D. Sapraicone,284
+Essex,LEWIS 0,U.S. Senate,,CON,Michael D. Sapraicone,25
+Essex,LEWIS 0,U.S. Senate,,LAR,Diane Sare,2
+Essex,LEWIS 0,U.S. Senate,,,Write-in,0
+Essex,MINERVA 0,U.S. Senate,,DEM,Kirsten E. Gillibrand,186
+Essex,MINERVA 0,U.S. Senate,,WOR,Kirsten E. Gillibrand,22
+Essex,MINERVA 0,U.S. Senate,,REP,Michael D. Sapraicone,171
+Essex,MINERVA 0,U.S. Senate,,CON,Michael D. Sapraicone,25
+Essex,MINERVA 0,U.S. Senate,,LAR,Diane Sare,7
+Essex,MINERVA 0,U.S. Senate,,,Write-in,0
+Essex,MORIAH 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,275
+Essex,MORIAH 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,25
+Essex,MORIAH 1,U.S. Senate,,REP,Michael D. Sapraicone,358
+Essex,MORIAH 1,U.S. Senate,,CON,Michael D. Sapraicone,21
+Essex,MORIAH 1,U.S. Senate,,LAR,Diane Sare,3
+Essex,MORIAH 1,U.S. Senate,,,Write-in,0
+Essex,MORIAH 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,249
+Essex,MORIAH 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,25
+Essex,MORIAH 2,U.S. Senate,,REP,Michael D. Sapraicone,440
+Essex,MORIAH 2,U.S. Senate,,CON,Michael D. Sapraicone,23
+Essex,MORIAH 2,U.S. Senate,,LAR,Diane Sare,2
+Essex,MORIAH 2,U.S. Senate,,,Write-in,0
+Essex,MORIAH 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,147
+Essex,MORIAH 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,13
+Essex,MORIAH 3,U.S. Senate,,REP,Michael D. Sapraicone,268
+Essex,MORIAH 3,U.S. Senate,,CON,Michael D. Sapraicone,11
+Essex,MORIAH 3,U.S. Senate,,LAR,Diane Sare,1
+Essex,MORIAH 3,U.S. Senate,,,Write-in,0
+Essex,NEWCOMB 0,U.S. Senate,,DEM,Kirsten E. Gillibrand,138
+Essex,NEWCOMB 0,U.S. Senate,,WOR,Kirsten E. Gillibrand,14
+Essex,NEWCOMB 0,U.S. Senate,,REP,Michael D. Sapraicone,131
+Essex,NEWCOMB 0,U.S. Senate,,CON,Michael D. Sapraicone,15
+Essex,NEWCOMB 0,U.S. Senate,,LAR,Diane Sare,1
+Essex,NEWCOMB 0,U.S. Senate,,,Write-in,1
+Essex,NORTH ELBA 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,201
+Essex,NORTH ELBA 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,25
+Essex,NORTH ELBA 1,U.S. Senate,,REP,Michael D. Sapraicone,113
+Essex,NORTH ELBA 1,U.S. Senate,,CON,Michael D. Sapraicone,11
+Essex,NORTH ELBA 1,U.S. Senate,,LAR,Diane Sare,3
+Essex,NORTH ELBA 1,U.S. Senate,,,Write-in,0
+Essex,NORTH ELBA 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,573
+Essex,NORTH ELBA 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,69
+Essex,NORTH ELBA 2,U.S. Senate,,REP,Michael D. Sapraicone,241
+Essex,NORTH ELBA 2,U.S. Senate,,CON,Michael D. Sapraicone,24
+Essex,NORTH ELBA 2,U.S. Senate,,LAR,Diane Sare,0
+Essex,NORTH ELBA 2,U.S. Senate,,,Write-in,0
+Essex,NORTH ELBA 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,305
+Essex,NORTH ELBA 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,19
+Essex,NORTH ELBA 3,U.S. Senate,,REP,Michael D. Sapraicone,163
+Essex,NORTH ELBA 3,U.S. Senate,,CON,Michael D. Sapraicone,24
+Essex,NORTH ELBA 3,U.S. Senate,,LAR,Diane Sare,2
+Essex,NORTH ELBA 3,U.S. Senate,,,Write-in,0
+Essex,NORTH ELBA 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,271
+Essex,NORTH ELBA 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,13
+Essex,NORTH ELBA 4,U.S. Senate,,REP,Michael D. Sapraicone,146
+Essex,NORTH ELBA 4,U.S. Senate,,CON,Michael D. Sapraicone,17
+Essex,NORTH ELBA 4,U.S. Senate,,LAR,Diane Sare,2
+Essex,NORTH ELBA 4,U.S. Senate,,,Write-in,0
+Essex,NORTH ELBA 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,340
+Essex,NORTH ELBA 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,23
+Essex,NORTH ELBA 5,U.S. Senate,,REP,Michael D. Sapraicone,192
+Essex,NORTH ELBA 5,U.S. Senate,,CON,Michael D. Sapraicone,28
+Essex,NORTH ELBA 5,U.S. Senate,,LAR,Diane Sare,0
+Essex,NORTH ELBA 5,U.S. Senate,,,Write-in,0
+Essex,NORTH ELBA 6,U.S. Senate,,DEM,Kirsten E. Gillibrand,481
+Essex,NORTH ELBA 6,U.S. Senate,,WOR,Kirsten E. Gillibrand,33
+Essex,NORTH ELBA 6,U.S. Senate,,REP,Michael D. Sapraicone,237
+Essex,NORTH ELBA 6,U.S. Senate,,CON,Michael D. Sapraicone,25
+Essex,NORTH ELBA 6,U.S. Senate,,LAR,Diane Sare,2
+Essex,NORTH ELBA 6,U.S. Senate,,,Write-in,0
+Essex,NORTH HUDSON 0,U.S. Senate,,DEM,Kirsten E. Gillibrand,46
+Essex,NORTH HUDSON 0,U.S. Senate,,WOR,Kirsten E. Gillibrand,7
+Essex,NORTH HUDSON 0,U.S. Senate,,REP,Michael D. Sapraicone,93
+Essex,NORTH HUDSON 0,U.S. Senate,,CON,Michael D. Sapraicone,13
+Essex,NORTH HUDSON 0,U.S. Senate,,LAR,Diane Sare,0
+Essex,NORTH HUDSON 0,U.S. Senate,,,Write-in,0
+Essex,SCHROON 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,187
+Essex,SCHROON 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Essex,SCHROON 1,U.S. Senate,,REP,Michael D. Sapraicone,278
+Essex,SCHROON 1,U.S. Senate,,CON,Michael D. Sapraicone,31
+Essex,SCHROON 1,U.S. Senate,,LAR,Diane Sare,0
+Essex,SCHROON 1,U.S. Senate,,,Write-in,0
+Essex,SCHROON 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,269
+Essex,SCHROON 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,19
+Essex,SCHROON 2,U.S. Senate,,REP,Michael D. Sapraicone,321
+Essex,SCHROON 2,U.S. Senate,,CON,Michael D. Sapraicone,33
+Essex,SCHROON 2,U.S. Senate,,LAR,Diane Sare,0
+Essex,SCHROON 2,U.S. Senate,,,Write-in,0
+Essex,ST. ARMAND 0,U.S. Senate,,DEM,Kirsten E. Gillibrand,401
+Essex,ST. ARMAND 0,U.S. Senate,,WOR,Kirsten E. Gillibrand,44
+Essex,ST. ARMAND 0,U.S. Senate,,REP,Michael D. Sapraicone,277
+Essex,ST. ARMAND 0,U.S. Senate,,CON,Michael D. Sapraicone,22
+Essex,ST. ARMAND 0,U.S. Senate,,LAR,Diane Sare,2
+Essex,ST. ARMAND 0,U.S. Senate,,,Write-in,0
+Essex,TICONDEROGA 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,239
+Essex,TICONDEROGA 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,33
+Essex,TICONDEROGA 1,U.S. Senate,,REP,Michael D. Sapraicone,326
+Essex,TICONDEROGA 1,U.S. Senate,,CON,Michael D. Sapraicone,26
+Essex,TICONDEROGA 1,U.S. Senate,,LAR,Diane Sare,2
+Essex,TICONDEROGA 1,U.S. Senate,,,Write-in,0
+Essex,TICONDEROGA 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,177
+Essex,TICONDEROGA 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,14
+Essex,TICONDEROGA 2,U.S. Senate,,REP,Michael D. Sapraicone,234
+Essex,TICONDEROGA 2,U.S. Senate,,CON,Michael D. Sapraicone,12
+Essex,TICONDEROGA 2,U.S. Senate,,LAR,Diane Sare,3
+Essex,TICONDEROGA 2,U.S. Senate,,,Write-in,0
+Essex,TICONDEROGA 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,249
+Essex,TICONDEROGA 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,18
+Essex,TICONDEROGA 3,U.S. Senate,,REP,Michael D. Sapraicone,260
+Essex,TICONDEROGA 3,U.S. Senate,,CON,Michael D. Sapraicone,18
+Essex,TICONDEROGA 3,U.S. Senate,,LAR,Diane Sare,1
+Essex,TICONDEROGA 3,U.S. Senate,,,Write-in,1
+Essex,TICONDEROGA 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,135
+Essex,TICONDEROGA 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,15
+Essex,TICONDEROGA 4,U.S. Senate,,REP,Michael D. Sapraicone,240
+Essex,TICONDEROGA 4,U.S. Senate,,CON,Michael D. Sapraicone,16
+Essex,TICONDEROGA 4,U.S. Senate,,LAR,Diane Sare,1
+Essex,TICONDEROGA 4,U.S. Senate,,,Write-in,0
+Essex,WESTPORT 0,U.S. Senate,,DEM,Kirsten E. Gillibrand,472
+Essex,WESTPORT 0,U.S. Senate,,WOR,Kirsten E. Gillibrand,51
+Essex,WESTPORT 0,U.S. Senate,,REP,Michael D. Sapraicone,248
+Essex,WESTPORT 0,U.S. Senate,,CON,Michael D. Sapraicone,32
+Essex,WESTPORT 0,U.S. Senate,,LAR,Diane Sare,5
+Essex,WESTPORT 0,U.S. Senate,,,Write-in,0
+Essex,WILLSBORO 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,303
+Essex,WILLSBORO 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,36
+Essex,WILLSBORO 1,U.S. Senate,,REP,Michael D. Sapraicone,220
+Essex,WILLSBORO 1,U.S. Senate,,CON,Michael D. Sapraicone,23
+Essex,WILLSBORO 1,U.S. Senate,,LAR,Diane Sare,2
+Essex,WILLSBORO 1,U.S. Senate,,,Write-in,0
+Essex,WILLSBORO 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,174
+Essex,WILLSBORO 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,21
+Essex,WILLSBORO 2,U.S. Senate,,REP,Michael D. Sapraicone,188
+Essex,WILLSBORO 2,U.S. Senate,,CON,Michael D. Sapraicone,13
+Essex,WILLSBORO 2,U.S. Senate,,LAR,Diane Sare,1
+Essex,WILLSBORO 2,U.S. Senate,,,Write-in,0
+Essex,WILMINGTON 0,U.S. Senate,,DEM,Kirsten E. Gillibrand,393
+Essex,WILMINGTON 0,U.S. Senate,,WOR,Kirsten E. Gillibrand,33
+Essex,WILMINGTON 0,U.S. Senate,,REP,Michael D. Sapraicone,230
+Essex,WILMINGTON 0,U.S. Senate,,CON,Michael D. Sapraicone,26
+Essex,WILMINGTON 0,U.S. Senate,,LAR,Diane Sare,1
+Essex,WILMINGTON 0,U.S. Senate,,,Write-in,0
+Essex,CHESTERFIELD 1,U.S. House,,DEM,Paula Collins,293
+Essex,CHESTERFIELD 1,U.S. House,,WOR,Paula Collins,17
+Essex,CHESTERFIELD 1,U.S. House,,REP,Elise M. Stefanik,270
+Essex,CHESTERFIELD 1,U.S. House,,CON,Elise M. Stefanik,24
+Essex,CHESTERFIELD 1,U.S. House,,,Write-in,0
+Essex,CHESTERFIELD 2,U.S. House,,DEM,Paula Collins,259
+Essex,CHESTERFIELD 2,U.S. House,,WOR,Paula Collins,17
+Essex,CHESTERFIELD 2,U.S. House,,REP,Elise M. Stefanik,358
+Essex,CHESTERFIELD 2,U.S. House,,CON,Elise M. Stefanik,21
+Essex,CHESTERFIELD 2,U.S. House,,,Write-in,0
+Essex,CROWN POINT 1,U.S. House,,DEM,Paula Collins,197
+Essex,CROWN POINT 1,U.S. House,,WOR,Paula Collins,11
+Essex,CROWN POINT 1,U.S. House,,REP,Elise M. Stefanik,448
+Essex,CROWN POINT 1,U.S. House,,CON,Elise M. Stefanik,31
+Essex,CROWN POINT 1,U.S. House,,,Write-in,1
+Essex,CROWN POINT 2,U.S. House,,DEM,Paula Collins,59
+Essex,CROWN POINT 2,U.S. House,,WOR,Paula Collins,6
+Essex,CROWN POINT 2,U.S. House,,REP,Elise M. Stefanik,160
+Essex,CROWN POINT 2,U.S. House,,CON,Elise M. Stefanik,15
+Essex,CROWN POINT 2,U.S. House,,,Write-in,0
+Essex,ELIZABETHTOWN 0,U.S. House,,DEM,Paula Collins,283
+Essex,ELIZABETHTOWN 0,U.S. House,,WOR,Paula Collins,24
+Essex,ELIZABETHTOWN 0,U.S. House,,REP,Elise M. Stefanik,308
+Essex,ELIZABETHTOWN 0,U.S. House,,CON,Elise M. Stefanik,19
+Essex,ELIZABETHTOWN 0,U.S. House,,,Write-in,0
+Essex,ESSEX 0,U.S. House,,DEM,Paula Collins,244
+Essex,ESSEX 0,U.S. House,,WOR,Paula Collins,27
+Essex,ESSEX 0,U.S. House,,REP,Elise M. Stefanik,127
+Essex,ESSEX 0,U.S. House,,CON,Elise M. Stefanik,10
+Essex,ESSEX 0,U.S. House,,,Write-in,0
+Essex,JAY 1,U.S. House,,DEM,Paula Collins,505
+Essex,JAY 1,U.S. House,,WOR,Paula Collins,37
+Essex,JAY 1,U.S. House,,REP,Elise M. Stefanik,360
+Essex,JAY 1,U.S. House,,CON,Elise M. Stefanik,42
+Essex,JAY 1,U.S. House,,,Write-in,0
+Essex,JAY 2,U.S. House,,DEM,Paula Collins,163
+Essex,JAY 2,U.S. House,,WOR,Paula Collins,14
+Essex,JAY 2,U.S. House,,REP,Elise M. Stefanik,144
+Essex,JAY 2,U.S. House,,CON,Elise M. Stefanik,26
+Essex,JAY 2,U.S. House,,,Write-in,0
+Essex,KEENE 0,U.S. House,,DEM,Paula Collins,487
+Essex,KEENE 0,U.S. House,,WOR,Paula Collins,43
+Essex,KEENE 0,U.S. House,,REP,Elise M. Stefanik,195
+Essex,KEENE 0,U.S. House,,CON,Elise M. Stefanik,13
+Essex,KEENE 0,U.S. House,,,Write-in,0
+Essex,LEWIS 0,U.S. House,,DEM,Paula Collins,217
+Essex,LEWIS 0,U.S. House,,WOR,Paula Collins,21
+Essex,LEWIS 0,U.S. House,,REP,Elise M. Stefanik,333
+Essex,LEWIS 0,U.S. House,,CON,Elise M. Stefanik,29
+Essex,LEWIS 0,U.S. House,,,Write-in,0
+Essex,MINERVA 0,U.S. House,,DEM,Paula Collins,167
+Essex,MINERVA 0,U.S. House,,WOR,Paula Collins,22
+Essex,MINERVA 0,U.S. House,,REP,Elise M. Stefanik,217
+Essex,MINERVA 0,U.S. House,,CON,Elise M. Stefanik,32
+Essex,MINERVA 0,U.S. House,,,Write-in,0
+Essex,MORIAH 1,U.S. House,,DEM,Paula Collins,241
+Essex,MORIAH 1,U.S. House,,WOR,Paula Collins,30
+Essex,MORIAH 1,U.S. House,,REP,Elise M. Stefanik,406
+Essex,MORIAH 1,U.S. House,,CON,Elise M. Stefanik,23
+Essex,MORIAH 1,U.S. House,,,Write-in,0
+Essex,MORIAH 2,U.S. House,,DEM,Paula Collins,201
+Essex,MORIAH 2,U.S. House,,WOR,Paula Collins,21
+Essex,MORIAH 2,U.S. House,,REP,Elise M. Stefanik,539
+Essex,MORIAH 2,U.S. House,,CON,Elise M. Stefanik,19
+Essex,MORIAH 2,U.S. House,,,Write-in,0
+Essex,MORIAH 3,U.S. House,,DEM,Paula Collins,132
+Essex,MORIAH 3,U.S. House,,WOR,Paula Collins,10
+Essex,MORIAH 3,U.S. House,,REP,Elise M. Stefanik,297
+Essex,MORIAH 3,U.S. House,,CON,Elise M. Stefanik,15
+Essex,MORIAH 3,U.S. House,,,Write-in,0
+Essex,NEWCOMB 0,U.S. House,,DEM,Paula Collins,119
+Essex,NEWCOMB 0,U.S. House,,WOR,Paula Collins,7
+Essex,NEWCOMB 0,U.S. House,,REP,Elise M. Stefanik,154
+Essex,NEWCOMB 0,U.S. House,,CON,Elise M. Stefanik,25
+Essex,NEWCOMB 0,U.S. House,,,Write-in,0
+Essex,NORTH ELBA 1,U.S. House,,DEM,Paula Collins,187
+Essex,NORTH ELBA 1,U.S. House,,WOR,Paula Collins,17
+Essex,NORTH ELBA 1,U.S. House,,REP,Elise M. Stefanik,140
+Essex,NORTH ELBA 1,U.S. House,,CON,Elise M. Stefanik,14
+Essex,NORTH ELBA 1,U.S. House,,,Write-in,0
+Essex,NORTH ELBA 2,U.S. House,,DEM,Paula Collins,547
+Essex,NORTH ELBA 2,U.S. House,,WOR,Paula Collins,60
+Essex,NORTH ELBA 2,U.S. House,,REP,Elise M. Stefanik,267
+Essex,NORTH ELBA 2,U.S. House,,CON,Elise M. Stefanik,33
+Essex,NORTH ELBA 2,U.S. House,,,Write-in,1
+Essex,NORTH ELBA 3,U.S. House,,DEM,Paula Collins,286
+Essex,NORTH ELBA 3,U.S. House,,WOR,Paula Collins,18
+Essex,NORTH ELBA 3,U.S. House,,REP,Elise M. Stefanik,185
+Essex,NORTH ELBA 3,U.S. House,,CON,Elise M. Stefanik,28
+Essex,NORTH ELBA 3,U.S. House,,,Write-in,0
+Essex,NORTH ELBA 4,U.S. House,,DEM,Paula Collins,253
+Essex,NORTH ELBA 4,U.S. House,,WOR,Paula Collins,17
+Essex,NORTH ELBA 4,U.S. House,,REP,Elise M. Stefanik,157
+Essex,NORTH ELBA 4,U.S. House,,CON,Elise M. Stefanik,16
+Essex,NORTH ELBA 4,U.S. House,,,Write-in,0
+Essex,NORTH ELBA 5,U.S. House,,DEM,Paula Collins,319
+Essex,NORTH ELBA 5,U.S. House,,WOR,Paula Collins,25
+Essex,NORTH ELBA 5,U.S. House,,REP,Elise M. Stefanik,206
+Essex,NORTH ELBA 5,U.S. House,,CON,Elise M. Stefanik,32
+Essex,NORTH ELBA 5,U.S. House,,,Write-in,0
+Essex,NORTH ELBA 6,U.S. House,,DEM,Paula Collins,457
+Essex,NORTH ELBA 6,U.S. House,,WOR,Paula Collins,26
+Essex,NORTH ELBA 6,U.S. House,,REP,Elise M. Stefanik,278
+Essex,NORTH ELBA 6,U.S. House,,CON,Elise M. Stefanik,20
+Essex,NORTH ELBA 6,U.S. House,,,Write-in,3
+Essex,NORTH HUDSON 0,U.S. House,,DEM,Paula Collins,45
+Essex,NORTH HUDSON 0,U.S. House,,WOR,Paula Collins,3
+Essex,NORTH HUDSON 0,U.S. House,,REP,Elise M. Stefanik,111
+Essex,NORTH HUDSON 0,U.S. House,,CON,Elise M. Stefanik,14
+Essex,NORTH HUDSON 0,U.S. House,,,Write-in,0
+Essex,SCHROON 1,U.S. House,,DEM,Paula Collins,175
+Essex,SCHROON 1,U.S. House,,WOR,Paula Collins,19
+Essex,SCHROON 1,U.S. House,,REP,Elise M. Stefanik,313
+Essex,SCHROON 1,U.S. House,,CON,Elise M. Stefanik,31
+Essex,SCHROON 1,U.S. House,,,Write-in,0
+Essex,SCHROON 2,U.S. House,,DEM,Paula Collins,254
+Essex,SCHROON 2,U.S. House,,WOR,Paula Collins,18
+Essex,SCHROON 2,U.S. House,,REP,Elise M. Stefanik,344
+Essex,SCHROON 2,U.S. House,,CON,Elise M. Stefanik,35
+Essex,SCHROON 2,U.S. House,,,Write-in,0
+Essex,ST. ARMAND 0,U.S. House,,DEM,Paula Collins,384
+Essex,ST. ARMAND 0,U.S. House,,WOR,Paula Collins,38
+Essex,ST. ARMAND 0,U.S. House,,REP,Elise M. Stefanik,311
+Essex,ST. ARMAND 0,U.S. House,,CON,Elise M. Stefanik,29
+Essex,ST. ARMAND 0,U.S. House,,,Write-in,0
+Essex,TICONDEROGA 1,U.S. House,,DEM,Paula Collins,212
+Essex,TICONDEROGA 1,U.S. House,,WOR,Paula Collins,26
+Essex,TICONDEROGA 1,U.S. House,,REP,Elise M. Stefanik,380
+Essex,TICONDEROGA 1,U.S. House,,CON,Elise M. Stefanik,26
+Essex,TICONDEROGA 1,U.S. House,,,Write-in,0
+Essex,TICONDEROGA 2,U.S. House,,DEM,Paula Collins,139
+Essex,TICONDEROGA 2,U.S. House,,WOR,Paula Collins,7
+Essex,TICONDEROGA 2,U.S. House,,REP,Elise M. Stefanik,285
+Essex,TICONDEROGA 2,U.S. House,,CON,Elise M. Stefanik,19
+Essex,TICONDEROGA 2,U.S. House,,,Write-in,0
+Essex,TICONDEROGA 3,U.S. House,,DEM,Paula Collins,216
+Essex,TICONDEROGA 3,U.S. House,,WOR,Paula Collins,13
+Essex,TICONDEROGA 3,U.S. House,,REP,Elise M. Stefanik,300
+Essex,TICONDEROGA 3,U.S. House,,CON,Elise M. Stefanik,26
+Essex,TICONDEROGA 3,U.S. House,,,Write-in,1
+Essex,TICONDEROGA 4,U.S. House,,DEM,Paula Collins,111
+Essex,TICONDEROGA 4,U.S. House,,WOR,Paula Collins,7
+Essex,TICONDEROGA 4,U.S. House,,REP,Elise M. Stefanik,283
+Essex,TICONDEROGA 4,U.S. House,,CON,Elise M. Stefanik,20
+Essex,TICONDEROGA 4,U.S. House,,,Write-in,1
+Essex,WESTPORT 0,U.S. House,,DEM,Paula Collins,431
+Essex,WESTPORT 0,U.S. House,,WOR,Paula Collins,46
+Essex,WESTPORT 0,U.S. House,,REP,Elise M. Stefanik,311
+Essex,WESTPORT 0,U.S. House,,CON,Elise M. Stefanik,32
+Essex,WESTPORT 0,U.S. House,,,Write-in,0
+Essex,WILLSBORO 1,U.S. House,,DEM,Paula Collins,281
+Essex,WILLSBORO 1,U.S. House,,WOR,Paula Collins,27
+Essex,WILLSBORO 1,U.S. House,,REP,Elise M. Stefanik,266
+Essex,WILLSBORO 1,U.S. House,,CON,Elise M. Stefanik,28
+Essex,WILLSBORO 1,U.S. House,,,Write-in,0
+Essex,WILLSBORO 2,U.S. House,,DEM,Paula Collins,146
+Essex,WILLSBORO 2,U.S. House,,WOR,Paula Collins,17
+Essex,WILLSBORO 2,U.S. House,,REP,Elise M. Stefanik,227
+Essex,WILLSBORO 2,U.S. House,,CON,Elise M. Stefanik,17
+Essex,WILLSBORO 2,U.S. House,,,Write-in,0
+Essex,WILMINGTON 0,U.S. House,,DEM,Paula Collins,374
+Essex,WILMINGTON 0,U.S. House,,WOR,Paula Collins,24
+Essex,WILMINGTON 0,U.S. House,,REP,Elise M. Stefanik,275
+Essex,WILMINGTON 0,U.S. House,,CON,Elise M. Stefanik,36
+Essex,WILMINGTON 0,U.S. House,,,Write-in,0
+Essex,CHESTERFIELD 1,State Senate,45,REP,Daniel G. Stec,372
+Essex,CHESTERFIELD 1,State Senate,45,CON,Daniel G. Stec,56
+Essex,CHESTERFIELD 1,State Senate,45,,Write-in,3
+Essex,CHESTERFIELD 2,State Senate,45,REP,Daniel G. Stec,425
+Essex,CHESTERFIELD 2,State Senate,45,CON,Daniel G. Stec,61
+Essex,CHESTERFIELD 2,State Senate,45,,Write-in,2
+Essex,CROWN POINT 1,State Senate,45,REP,Daniel G. Stec,500
+Essex,CROWN POINT 1,State Senate,45,CON,Daniel G. Stec,46
+Essex,CROWN POINT 1,State Senate,45,,Write-in,2
+Essex,CROWN POINT 2,State Senate,45,REP,Daniel G. Stec,172
+Essex,CROWN POINT 2,State Senate,45,CON,Daniel G. Stec,15
+Essex,CROWN POINT 2,State Senate,45,,Write-in,0
+Essex,ELIZABETHTOWN 0,State Senate,45,REP,Daniel G. Stec,382
+Essex,ELIZABETHTOWN 0,State Senate,45,CON,Daniel G. Stec,47
+Essex,ELIZABETHTOWN 0,State Senate,45,,Write-in,2
+Essex,ESSEX 0,State Senate,45,REP,Daniel G. Stec,177
+Essex,ESSEX 0,State Senate,45,CON,Daniel G. Stec,30
+Essex,ESSEX 0,State Senate,45,,Write-in,1
+Essex,JAY 1,State Senate,45,REP,Daniel G. Stec,478
+Essex,JAY 1,State Senate,45,CON,Daniel G. Stec,95
+Essex,JAY 1,State Senate,45,,Write-in,5
+Essex,JAY 2,State Senate,45,REP,Daniel G. Stec,190
+Essex,JAY 2,State Senate,45,CON,Daniel G. Stec,43
+Essex,JAY 2,State Senate,45,,Write-in,2
+Essex,KEENE 0,State Senate,45,REP,Daniel G. Stec,312
+Essex,KEENE 0,State Senate,45,CON,Daniel G. Stec,47
+Essex,KEENE 0,State Senate,45,,Write-in,7
+Essex,LEWIS 0,State Senate,45,REP,Daniel G. Stec,417
+Essex,LEWIS 0,State Senate,45,CON,Daniel G. Stec,49
+Essex,LEWIS 0,State Senate,45,,Write-in,5
+Essex,MINERVA 0,State Senate,45,REP,Daniel G. Stec,248
+Essex,MINERVA 0,State Senate,45,CON,Daniel G. Stec,42
+Essex,MINERVA 0,State Senate,45,,Write-in,4
+Essex,MORIAH 1,State Senate,45,REP,Daniel G. Stec,492
+Essex,MORIAH 1,State Senate,45,CON,Daniel G. Stec,57
+Essex,MORIAH 1,State Senate,45,,Write-in,1
+Essex,MORIAH 2,State Senate,45,REP,Daniel G. Stec,600
+Essex,MORIAH 2,State Senate,45,CON,Daniel G. Stec,47
+Essex,MORIAH 2,State Senate,45,,Write-in,1
+Essex,MORIAH 3,State Senate,45,REP,Daniel G. Stec,333
+Essex,MORIAH 3,State Senate,45,CON,Daniel G. Stec,31
+Essex,MORIAH 3,State Senate,45,,Write-in,0
+Essex,NEWCOMB 0,State Senate,45,REP,Daniel G. Stec,189
+Essex,NEWCOMB 0,State Senate,45,CON,Daniel G. Stec,34
+Essex,NEWCOMB 0,State Senate,45,,Write-in,0
+Essex,NORTH ELBA 1,State Senate,45,REP,Daniel G. Stec,184
+Essex,NORTH ELBA 1,State Senate,45,CON,Daniel G. Stec,37
+Essex,NORTH ELBA 1,State Senate,45,,Write-in,1
+Essex,NORTH ELBA 2,State Senate,45,REP,Daniel G. Stec,394
+Essex,NORTH ELBA 2,State Senate,45,CON,Daniel G. Stec,93
+Essex,NORTH ELBA 2,State Senate,45,,Write-in,5
+Essex,NORTH ELBA 3,State Senate,45,REP,Daniel G. Stec,263
+Essex,NORTH ELBA 3,State Senate,45,CON,Daniel G. Stec,49
+Essex,NORTH ELBA 3,State Senate,45,,Write-in,1
+Essex,NORTH ELBA 4,State Senate,45,REP,Daniel G. Stec,232
+Essex,NORTH ELBA 4,State Senate,45,CON,Daniel G. Stec,37
+Essex,NORTH ELBA 4,State Senate,45,,Write-in,2
+Essex,NORTH ELBA 5,State Senate,45,REP,Daniel G. Stec,303
+Essex,NORTH ELBA 5,State Senate,45,CON,Daniel G. Stec,64
+Essex,NORTH ELBA 5,State Senate,45,,Write-in,2
+Essex,NORTH ELBA 6,State Senate,45,REP,Daniel G. Stec,373
+Essex,NORTH ELBA 6,State Senate,45,CON,Daniel G. Stec,53
+Essex,NORTH ELBA 6,State Senate,45,,Write-in,3
+Essex,NORTH HUDSON 0,State Senate,45,REP,Daniel G. Stec,126
+Essex,NORTH HUDSON 0,State Senate,45,CON,Daniel G. Stec,15
+Essex,NORTH HUDSON 0,State Senate,45,,Write-in,0
+Essex,SCHROON 1,State Senate,45,REP,Daniel G. Stec,367
+Essex,SCHROON 1,State Senate,45,CON,Daniel G. Stec,56
+Essex,SCHROON 1,State Senate,45,,Write-in,3
+Essex,SCHROON 2,State Senate,45,REP,Daniel G. Stec,413
+Essex,SCHROON 2,State Senate,45,CON,Daniel G. Stec,54
+Essex,SCHROON 2,State Senate,45,,Write-in,1
+Essex,ST. ARMAND 0,State Senate,45,REP,Daniel G. Stec,390
+Essex,ST. ARMAND 0,State Senate,45,CON,Daniel G. Stec,64
+Essex,ST. ARMAND 0,State Senate,45,,Write-in,5
+Essex,TICONDEROGA 1,State Senate,45,REP,Daniel G. Stec,449
+Essex,TICONDEROGA 1,State Senate,45,CON,Daniel G. Stec,56
+Essex,TICONDEROGA 1,State Senate,45,,Write-in,4
+Essex,TICONDEROGA 2,State Senate,45,REP,Daniel G. Stec,341
+Essex,TICONDEROGA 2,State Senate,45,CON,Daniel G. Stec,41
+Essex,TICONDEROGA 2,State Senate,45,,Write-in,1
+Essex,TICONDEROGA 3,State Senate,45,REP,Daniel G. Stec,379
+Essex,TICONDEROGA 3,State Senate,45,CON,Daniel G. Stec,55
+Essex,TICONDEROGA 3,State Senate,45,,Write-in,0
+Essex,TICONDEROGA 4,State Senate,45,REP,Daniel G. Stec,319
+Essex,TICONDEROGA 4,State Senate,45,CON,Daniel G. Stec,36
+Essex,TICONDEROGA 4,State Senate,45,,Write-in,1
+Essex,WESTPORT 0,State Senate,45,REP,Daniel G. Stec,415
+Essex,WESTPORT 0,State Senate,45,CON,Daniel G. Stec,73
+Essex,WESTPORT 0,State Senate,45,,Write-in,8
+Essex,WILLSBORO 1,State Senate,45,REP,Daniel G. Stec,355
+Essex,WILLSBORO 1,State Senate,45,CON,Daniel G. Stec,57
+Essex,WILLSBORO 1,State Senate,45,,Write-in,3
+Essex,WILLSBORO 2,State Senate,45,REP,Daniel G. Stec,277
+Essex,WILLSBORO 2,State Senate,45,CON,Daniel G. Stec,39
+Essex,WILLSBORO 2,State Senate,45,,Write-in,0
+Essex,WILMINGTON 0,State Senate,45,REP,Daniel G. Stec,366
+Essex,WILMINGTON 0,State Senate,45,CON,Daniel G. Stec,72
+Essex,WILMINGTON 0,State Senate,45,,Write-in,3
+Essex,CHESTERFIELD 1,State Assembly,114,REP,Matthew Simpson,357
+Essex,CHESTERFIELD 1,State Assembly,114,CON,Matthew Simpson,53
+Essex,CHESTERFIELD 1,State Assembly,114,,Write-in,3
+Essex,CHESTERFIELD 2,State Assembly,114,REP,Matthew Simpson,417
+Essex,CHESTERFIELD 2,State Assembly,114,CON,Matthew Simpson,58
+Essex,CHESTERFIELD 2,State Assembly,114,,Write-in,1
+Essex,CROWN POINT 1,State Assembly,114,REP,Matthew Simpson,487
+Essex,CROWN POINT 1,State Assembly,114,CON,Matthew Simpson,45
+Essex,CROWN POINT 1,State Assembly,114,,Write-in,2
+Essex,CROWN POINT 2,State Assembly,114,REP,Matthew Simpson,167
+Essex,CROWN POINT 2,State Assembly,114,CON,Matthew Simpson,14
+Essex,CROWN POINT 2,State Assembly,114,,Write-in,0
+Essex,ELIZABETHTOWN 0,State Assembly,114,REP,Matthew Simpson,361
+Essex,ELIZABETHTOWN 0,State Assembly,114,CON,Matthew Simpson,54
+Essex,ELIZABETHTOWN 0,State Assembly,114,,Write-in,1
+Essex,ESSEX 0,State Assembly,114,REP,Matthew Simpson,172
+Essex,ESSEX 0,State Assembly,114,CON,Matthew Simpson,31
+Essex,ESSEX 0,State Assembly,114,,Write-in,0
+Essex,JAY 1,State Assembly,114,REP,Matthew Simpson,0
+Essex,JAY 1,State Assembly,114,CON,Matthew Simpson,0
+Essex,JAY 1,State Assembly,114,,Write-in,0
+Essex,JAY 2,State Assembly,114,REP,Matthew Simpson,0
+Essex,JAY 2,State Assembly,114,CON,Matthew Simpson,0
+Essex,JAY 2,State Assembly,114,,Write-in,0
+Essex,KEENE 0,State Assembly,114,REP,Matthew Simpson,0
+Essex,KEENE 0,State Assembly,114,CON,Matthew Simpson,0
+Essex,KEENE 0,State Assembly,114,,Write-in,0
+Essex,LEWIS 0,State Assembly,114,REP,Matthew Simpson,400
+Essex,LEWIS 0,State Assembly,114,CON,Matthew Simpson,51
+Essex,LEWIS 0,State Assembly,114,,Write-in,5
+Essex,MINERVA 0,State Assembly,114,REP,Matthew Simpson,252
+Essex,MINERVA 0,State Assembly,114,CON,Matthew Simpson,45
+Essex,MINERVA 0,State Assembly,114,,Write-in,6
+Essex,MORIAH 1,State Assembly,114,REP,Matthew Simpson,477
+Essex,MORIAH 1,State Assembly,114,CON,Matthew Simpson,54
+Essex,MORIAH 1,State Assembly,114,,Write-in,0
+Essex,MORIAH 2,State Assembly,114,REP,Matthew Simpson,584
+Essex,MORIAH 2,State Assembly,114,CON,Matthew Simpson,49
+Essex,MORIAH 2,State Assembly,114,,Write-in,1
+Essex,MORIAH 3,State Assembly,114,REP,Matthew Simpson,325
+Essex,MORIAH 3,State Assembly,114,CON,Matthew Simpson,36
+Essex,MORIAH 3,State Assembly,114,,Write-in,0
+Essex,NEWCOMB 0,State Assembly,114,REP,Matthew Simpson,188
+Essex,NEWCOMB 0,State Assembly,114,CON,Matthew Simpson,35
+Essex,NEWCOMB 0,State Assembly,114,,Write-in,0
+Essex,NORTH ELBA 1,State Assembly,114,REP,Matthew Simpson,0
+Essex,NORTH ELBA 1,State Assembly,114,CON,Matthew Simpson,0
+Essex,NORTH ELBA 1,State Assembly,114,,Write-in,0
+Essex,NORTH ELBA 2,State Assembly,114,REP,Matthew Simpson,0
+Essex,NORTH ELBA 2,State Assembly,114,CON,Matthew Simpson,0
+Essex,NORTH ELBA 2,State Assembly,114,,Write-in,0
+Essex,NORTH ELBA 3,State Assembly,114,REP,Matthew Simpson,0
+Essex,NORTH ELBA 3,State Assembly,114,CON,Matthew Simpson,0
+Essex,NORTH ELBA 3,State Assembly,114,,Write-in,0
+Essex,NORTH ELBA 4,State Assembly,114,REP,Matthew Simpson,0
+Essex,NORTH ELBA 4,State Assembly,114,CON,Matthew Simpson,0
+Essex,NORTH ELBA 4,State Assembly,114,,Write-in,0
+Essex,NORTH ELBA 5,State Assembly,114,REP,Matthew Simpson,0
+Essex,NORTH ELBA 5,State Assembly,114,CON,Matthew Simpson,0
+Essex,NORTH ELBA 5,State Assembly,114,,Write-in,0
+Essex,NORTH ELBA 6,State Assembly,114,REP,Matthew Simpson,0
+Essex,NORTH ELBA 6,State Assembly,114,CON,Matthew Simpson,0
+Essex,NORTH ELBA 6,State Assembly,114,,Write-in,0
+Essex,NORTH HUDSON 0,State Assembly,114,REP,Matthew Simpson,117
+Essex,NORTH HUDSON 0,State Assembly,114,CON,Matthew Simpson,17
+Essex,NORTH HUDSON 0,State Assembly,114,,Write-in,0
+Essex,SCHROON 1,State Assembly,114,REP,Matthew Simpson,363
+Essex,SCHROON 1,State Assembly,114,CON,Matthew Simpson,59
+Essex,SCHROON 1,State Assembly,114,,Write-in,2
+Essex,SCHROON 2,State Assembly,114,REP,Matthew Simpson,408
+Essex,SCHROON 2,State Assembly,114,CON,Matthew Simpson,57
+Essex,SCHROON 2,State Assembly,114,,Write-in,1
+Essex,ST. ARMAND 0,State Assembly,114,REP,Matthew Simpson,0
+Essex,ST. ARMAND 0,State Assembly,114,CON,Matthew Simpson,0
+Essex,ST. ARMAND 0,State Assembly,114,,Write-in,0
+Essex,TICONDEROGA 1,State Assembly,114,REP,Matthew Simpson,440
+Essex,TICONDEROGA 1,State Assembly,114,CON,Matthew Simpson,51
+Essex,TICONDEROGA 1,State Assembly,114,,Write-in,3
+Essex,TICONDEROGA 2,State Assembly,114,REP,Matthew Simpson,326
+Essex,TICONDEROGA 2,State Assembly,114,CON,Matthew Simpson,39
+Essex,TICONDEROGA 2,State Assembly,114,,Write-in,1
+Essex,TICONDEROGA 3,State Assembly,114,REP,Matthew Simpson,379
+Essex,TICONDEROGA 3,State Assembly,114,CON,Matthew Simpson,51
+Essex,TICONDEROGA 3,State Assembly,114,,Write-in,0
+Essex,TICONDEROGA 4,State Assembly,114,REP,Matthew Simpson,310
+Essex,TICONDEROGA 4,State Assembly,114,CON,Matthew Simpson,39
+Essex,TICONDEROGA 4,State Assembly,114,,Write-in,0
+Essex,WESTPORT 0,State Assembly,114,REP,Matthew Simpson,407
+Essex,WESTPORT 0,State Assembly,114,CON,Matthew Simpson,66
+Essex,WESTPORT 0,State Assembly,114,,Write-in,7
+Essex,WILLSBORO 1,State Assembly,114,REP,Matthew Simpson,342
+Essex,WILLSBORO 1,State Assembly,114,CON,Matthew Simpson,59
+Essex,WILLSBORO 1,State Assembly,114,,Write-in,3
+Essex,WILLSBORO 2,State Assembly,114,REP,Matthew Simpson,267
+Essex,WILLSBORO 2,State Assembly,114,CON,Matthew Simpson,35
+Essex,WILLSBORO 2,State Assembly,114,,Write-in,0
+Essex,WILMINGTON 0,State Assembly,114,REP,Matthew Simpson,0
+Essex,WILMINGTON 0,State Assembly,114,CON,Matthew Simpson,0
+Essex,WILMINGTON 0,State Assembly,114,,Write-in,0
+Essex,CHESTERFIELD 1,State Assembly,115,DEM,Billy Jones,0
+Essex,CHESTERFIELD 1,State Assembly,115,,Write-in,0
+Essex,CHESTERFIELD 2,State Assembly,115,DEM,Billy Jones,0
+Essex,CHESTERFIELD 2,State Assembly,115,,Write-in,0
+Essex,CROWN POINT 1,State Assembly,115,DEM,Billy Jones,0
+Essex,CROWN POINT 1,State Assembly,115,,Write-in,0
+Essex,CROWN POINT 2,State Assembly,115,DEM,Billy Jones,0
+Essex,CROWN POINT 2,State Assembly,115,,Write-in,0
+Essex,ELIZABETHTOWN 0,State Assembly,115,DEM,Billy Jones,0
+Essex,ELIZABETHTOWN 0,State Assembly,115,,Write-in,0
+Essex,ESSEX 0,State Assembly,115,DEM,Billy Jones,0
+Essex,ESSEX 0,State Assembly,115,,Write-in,0
+Essex,JAY 1,State Assembly,115,DEM,Billy Jones,661
+Essex,JAY 1,State Assembly,115,,Write-in,0
+Essex,JAY 2,State Assembly,115,DEM,Billy Jones,240
+Essex,JAY 2,State Assembly,115,,Write-in,0
+Essex,KEENE 0,State Assembly,115,DEM,Billy Jones,554
+Essex,KEENE 0,State Assembly,115,,Write-in,1
+Essex,LEWIS 0,State Assembly,115,DEM,Billy Jones,0
+Essex,LEWIS 0,State Assembly,115,,Write-in,0
+Essex,MINERVA 0,State Assembly,115,DEM,Billy Jones,0
+Essex,MINERVA 0,State Assembly,115,,Write-in,0
+Essex,MORIAH 1,State Assembly,115,DEM,Billy Jones,0
+Essex,MORIAH 1,State Assembly,115,,Write-in,0
+Essex,MORIAH 2,State Assembly,115,DEM,Billy Jones,0
+Essex,MORIAH 2,State Assembly,115,,Write-in,0
+Essex,MORIAH 3,State Assembly,115,DEM,Billy Jones,0
+Essex,MORIAH 3,State Assembly,115,,Write-in,0
+Essex,NEWCOMB 0,State Assembly,115,DEM,Billy Jones,0
+Essex,NEWCOMB 0,State Assembly,115,,Write-in,0
+Essex,NORTH ELBA 1,State Assembly,115,DEM,Billy Jones,258
+Essex,NORTH ELBA 1,State Assembly,115,,Write-in,0
+Essex,NORTH ELBA 2,State Assembly,115,DEM,Billy Jones,691
+Essex,NORTH ELBA 2,State Assembly,115,,Write-in,0
+Essex,NORTH ELBA 3,State Assembly,115,DEM,Billy Jones,350
+Essex,NORTH ELBA 3,State Assembly,115,,Write-in,0
+Essex,NORTH ELBA 4,State Assembly,115,DEM,Billy Jones,317
+Essex,NORTH ELBA 4,State Assembly,115,,Write-in,0
+Essex,NORTH ELBA 5,State Assembly,115,DEM,Billy Jones,394
+Essex,NORTH ELBA 5,State Assembly,115,,Write-in,3
+Essex,NORTH ELBA 6,State Assembly,115,DEM,Billy Jones,544
+Essex,NORTH ELBA 6,State Assembly,115,,Write-in,1
+Essex,NORTH HUDSON 0,State Assembly,115,DEM,Billy Jones,0
+Essex,NORTH HUDSON 0,State Assembly,115,,Write-in,0
+Essex,SCHROON 1,State Assembly,115,DEM,Billy Jones,0
+Essex,SCHROON 1,State Assembly,115,,Write-in,0
+Essex,SCHROON 2,State Assembly,115,DEM,Billy Jones,0
+Essex,SCHROON 2,State Assembly,115,,Write-in,0
+Essex,ST. ARMAND 0,State Assembly,115,DEM,Billy Jones,511
+Essex,ST. ARMAND 0,State Assembly,115,,Write-in,1
+Essex,TICONDEROGA 1,State Assembly,115,DEM,Billy Jones,0
+Essex,TICONDEROGA 1,State Assembly,115,,Write-in,0
+Essex,TICONDEROGA 2,State Assembly,115,DEM,Billy Jones,0
+Essex,TICONDEROGA 2,State Assembly,115,,Write-in,0
+Essex,TICONDEROGA 3,State Assembly,115,DEM,Billy Jones,0
+Essex,TICONDEROGA 3,State Assembly,115,,Write-in,0
+Essex,TICONDEROGA 4,State Assembly,115,DEM,Billy Jones,0
+Essex,TICONDEROGA 4,State Assembly,115,,Write-in,0
+Essex,WESTPORT 0,State Assembly,115,DEM,Billy Jones,0
+Essex,WESTPORT 0,State Assembly,115,,Write-in,0
+Essex,WILLSBORO 1,State Assembly,115,DEM,Billy Jones,0
+Essex,WILLSBORO 1,State Assembly,115,,Write-in,0
+Essex,WILLSBORO 2,State Assembly,115,DEM,Billy Jones,0
+Essex,WILLSBORO 2,State Assembly,115,,Write-in,0
+Essex,WILMINGTON 0,State Assembly,115,DEM,Billy Jones,447
+Essex,WILMINGTON 0,State Assembly,115,,Write-in,0
