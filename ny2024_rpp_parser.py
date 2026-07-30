@@ -482,6 +482,8 @@ def parse_pdf(pdf_path):
     if cur:
         sections.append(cur)
 
+    _inject_rotated_party_headers(sections, page_diagonals)
+
     results = []
     for sec in sections:
         if sec["office"] is None:
@@ -570,17 +572,15 @@ def _add_name_spaces(s):
 
 def _strip_vp(name):
     """Strip leading and trailing VP running-mate tokens ('Tim Walz', 'JD
-    Vance') from an assembled name. Returns '' if the whole name is a VP."""
+    Vance') and the connecting 'and'/'&' that precedes them, from an assembled
+    name. Returns '' if the whole name is a VP. The 'and'/'&' and VP tokens are
+    stripped together at each end so a leading 'and Tim Walz' is fully removed
+    (the VP-only loop would stop at the leading 'and' and leave 'Tim Walz')."""
+    drop = _VP_NAME_TOKENS | {"and", "&"}
     toks = name.split()
-    while toks and toks[0].lower().strip(".,") in _VP_NAME_TOKENS:
+    while toks and toks[0].lower().strip(".,") in drop:
         toks.pop(0)
-    while toks and toks[-1].lower().strip(".,") in _VP_NAME_TOKENS:
-        toks.pop()
-    # The VP running mate prints as "... and Tim Walz"; after stripping the VP
-    # tokens a stray "and"/"&" can remain at either end — drop it.
-    while toks and toks[0].lower().strip(".,") in ("and", "&"):
-        toks.pop(0)
-    while toks and toks[-1].lower().strip(".,") in ("and", "&"):
+    while toks and toks[-1].lower().strip(".,") in drop:
         toks.pop()
     return " ".join(toks)
 
@@ -659,19 +659,158 @@ def _rotated_name_for_columns(sec, columns, page_diagonals):
                 continue
             if acc == "":
                 acc = nm
-            elif re.search(r"[A-Z]\.$", acc):
-                # Previous fragment ended in a middle initial ("Michael D.") ->
-                # the wrapped surname ("Sapraicone") is the next diagonal.
-                acc = acc + " " + nm
-            elif " " not in acc:
-                # Previous fragment is a bare first name ("Marianne") with no
-                # surname yet -> the wrapped surname ("Buttenschon") is next.
+                continue
+            # Keep merging while the running fragment is clearly INCOMPLETE:
+            # it ends in a middle initial ("Michael D."), is a bare first name
+            # ("Marianne"), or still carries label/VP words from a wrapped SOVC
+            # ballot label ("Electors for Kamala ... for President"). Stop once
+            # it is a clean complete name; normalize_candidate strips any
+            # residual label/VP words via substring match on the surname.
+            ends_initial = bool(re.search(r"[A-Z]\.$", acc))
+            has_label = any(w.lower().strip(".,") in _LABEL_FRAG_WORDS
+                            for w in acc.split())
+            if ends_initial or " " not in acc or has_label:
                 acc = acc + " " + nm
             else:
-                break  # acc is a complete name; rest are VP/extra
+                break
         if acc:
             out[ci] = acc
     return out
+
+
+# Words that mark a rotated-name fragment as still incomplete (a wrapped SOVC
+# ballot label like "Electors for Kamala ... for President and Tim Walz for Vice
+# President" carries these between the candidate's own name tokens).
+_LABEL_FRAG_WORDS = {"electors", "for", "president", "vice", "and", "of", "the",
+                     "tim", "jd", "j.d.", "walz", "vance"}
+
+
+def _rotated_columns(sec, page_diagonals):
+    """Build candidate columns directly from rotated diagonals when a section
+    has NO horizontal party-code row (Columbia President). Groups diagonals by
+    anchor_x (within 30px = one column), merges each group's name with the same
+    incomplete-fragment rule as _rotated_name_for_columns. Returns a list of
+    {name, anchor_x} in left-to-right column order."""
+    if not page_diagonals:
+        return []
+    pages = {w.get("page") for ws in sec.get("lines", []) for w in ws}
+    pages.discard(None)
+    seen = set()
+    diags = []
+    for pg in pages:
+        for d in page_diagonals.get(pg, []):
+            key = (d["name"], round(d["anchor_x"]))
+            if key in seen:
+                continue
+            seen.add(key)
+            diags.append(d)
+    if not diags:
+        return []
+    diags.sort(key=lambda d: d["anchor_x"])
+    groups = []
+    cur = [diags[0]]
+    for d in diags[1:]:
+        if d["anchor_x"] - cur[-1]["anchor_x"] <= 30:
+            cur.append(d)
+        else:
+            groups.append(cur)
+            cur = [d]
+    groups.append(cur)
+    out = []
+    for g in groups:
+        acc = ""
+        for d in g:
+            nm = d["name"]
+            if not nm:
+                continue
+            if acc == "":
+                acc = nm
+                continue
+            ends_initial = bool(re.search(r"[A-Z]\.$", acc))
+            has_label = any(w.lower().strip(".,") in _LABEL_FRAG_WORDS
+                            for w in acc.split())
+            if ends_initial or " " not in acc or has_label:
+                acc = acc + " " + nm
+            else:
+                break
+        out.append({"name": acc, "anchor_x": g[0]["anchor_x"]})
+    return out
+
+
+def _synthetic_header_from_rotated(rc, county_party_order):
+    """For a section with no party-code row, build a synthetic header line of
+    word-dicts from rotated columns so parse_section's normal party/skip/
+    write-in + rotated-name detection works. Candidate columns get a party code
+    (assigned positionally from the county's ballot order); write-in and
+    summary columns (Under/Over/Total/Registered/Votes) get label tokens so
+    they become skip/write-in columns. Returns a list of word-dicts, or []."""
+    if not rc:
+        return []
+    labels_lower = {h.lower() for h in HEADER_LABELS}
+    cand_idx = 0
+    words = []
+    for col in rc:
+        name = col["name"]
+        low = name.lower().replace(".", " ")
+        x = col["anchor_x"]
+        page = None
+        if "write" in low:
+            words.append({"text": "Write-in", "x0": x, "x1": x, "top": 0,
+                          "page": page})
+            continue
+        if _norm_match(low):
+            # candidate column -> party code from county ballot order
+            party = (county_party_order[cand_idx]
+                     if cand_idx < len(county_party_order) else "")
+            cand_idx += 1
+            if not party:
+                return []  # ran out of known parties; cannot assign safely
+            words.append({"text": party, "x0": x, "x1": x, "top": 0,
+                          "page": page})
+            continue
+        # summary / skip column: inject a HEADER_LABELS token at its x
+        tok = None
+        for w in name.split():
+            if w.lower() in labels_lower:
+                tok = w
+                break
+        if tok is None:
+            tok = "Total"  # safe default skip label
+        words.append({"text": tok, "x0": x, "x1": x, "top": 0, "page": page})
+    return words
+
+
+def _inject_rotated_party_headers(sections, page_diagonals):
+    """For sections whose source PDF prints no horizontal party-code row (e.g.
+    Columbia President), inject a synthetic party/label header line built from
+    the rotated candidate-name diagonals so parse_section's normal column /
+    skip / write-in / rotated-name detection handles the section. Parties are
+    assigned positionally from the county's ballot order, derived from the
+    party-code tokens of sibling sections that DO print a party row."""
+    # Derive county party-ballot order: first appearance across all sections,
+    # reading party tokens left-to-right within each line.
+    county_party_order = []
+    seen_p = set()
+    for sec in sections:
+        for ws in sec["lines"]:
+            for w in sorted(ws, key=lambda w: w["x0"]):
+                p = party_of(w["text"])
+                if p and p != "WRITEIN" and p not in seen_p:
+                    seen_p.add(p)
+                    county_party_order.append(p)
+    if not county_party_order:
+        return
+    for sec in sections:
+        has_party = any(party_of(w["text"]) not in (None, "WRITEIN")
+                        for ws in sec["lines"] for w in ws)
+        if has_party:
+            continue
+        rc = _rotated_columns(sec, page_diagonals)
+        if not rc:
+            continue
+        syn = _synthetic_header_from_rotated(rc, county_party_order)
+        if syn:
+            sec["lines"].insert(0, syn)
 
 
 def parse_section(sec, page_diagonals=None):
@@ -1242,6 +1381,7 @@ def parse_pdf_all(pdf_path):
         secs.append({"office": office, "district": district,
                      "lines": sec_lines, "title": title_txt})
         i = k if k > i else i + 1
+    _inject_rotated_party_headers(secs, page_diagonals)
     results = []
     for sec in secs:
         if sec["office"] is None:
