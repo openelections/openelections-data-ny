@@ -144,6 +144,16 @@ CAND_NORMALIZE = {
     # county PDFs; the party row carries "O'Mara". Normalize both to full name.
     "omara": "Thomas F. O'Mara",
     "fellers": "Thomas F. O'Mara",
+    # Ontario 2024: candidate-name tokens sit ~29px LEFT of the party code,
+    # outside the 25px stacked-name window, so stacked/group capture only the
+    # first name + middle initial and lose the surname. The walk-left method
+    # does recover the surname from the line just left of the party code; a
+    # surname key here makes wl_norm match (known) so the surname path wins and
+    # the fragment normalizes to the full name. Senate 54 REP/CON fusion lines
+    # both surface "Helming"; Assembly 133 REP/CON both surface "Bailey".
+    "helming": "Pamela A. Helming",
+    "bailey": "Andrea K. Bailey",
+    "walsh": "Colleen Walsh-Williams",
 }
 
 # Vice-presidential running-mate tokens that appear after "&" on the
