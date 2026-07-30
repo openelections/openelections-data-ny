@@ -90,6 +90,9 @@ OFFICE_PATTERNS = [
     (re.compile(r"State\s+Senator\b.*?Dist", re.I), "State Senate", re.compile(r"(\d+)")),
     (re.compile(r"State Senator,?\s*(\d+)", re.I), "State Senate", re.compile(r"(\d+)\s*(?:st|nd|rd|th)?\s*District", re.I)),
     (re.compile(r"New York State Senator", re.I), "State Senate", re.compile(r"(\d+)", re.I)),
+    # Bare "State Senator" with no district suffix (Warren "STATE SENATOR").
+    # Listed last among State Senate patterns so district-bearing titles win first.
+    (re.compile(r"\bState\s+Senator\b", re.I), "State Senate", None),
     (re.compile(r"Member\s+of\s+(?:the\s+)?Assembly\b.*?Dist", re.I), "State Assembly", re.compile(r"(\d+)")),
     (re.compile(r"Member of (the )?Assembly,?\s*(\d+)", re.I), "State Assembly", re.compile(r"(\d+)\s*(?:st|nd|rd|th)?\s*District", re.I)),
     (re.compile(r"New York State Assembly", re.I), "State Assembly", re.compile(r"(\d+)", re.I)),
@@ -113,7 +116,6 @@ CAND_NORMALIZE = {
     "oliver": "Chase Oliver",
     "chase": "Chase Oliver",
     "de la cruz": "Claudia De la Cruz",
-    "claudia": "Claudia De la Cruz",
     "west": "Cornel West",
     "cornel": "Cornel West",
     "sonski": "Peter Sonski",
@@ -448,7 +450,7 @@ def parse_pdf(pdf_path):
         # a Proposal's Yes/No numbers mis-assigned to the prior office's party
         # columns). Mid-table subtotals like "Lloyd Total" start with the
         # precinct name, so they don't match and don't close here.
-        if cur is not None and (first == "total" or (first == "grand" and second == "total")):
+        if cur is not None and (first in ("total", "totals") or (first == "grand" and second == "total")):
             cur["lines"].append(ws)
             sections.append(cur)
             cur = None
@@ -782,19 +784,45 @@ def nearest_col(x1, columns, tol=40):
     return best
 
 
+def _norm_match(low):
+    """Apply CAND_NORMALIZE to a lowercased fragment string.
+
+    First-name-only keys (a single token equal to the candidate's first name,
+    e.g. "kamala" -> "Kamala D. Harris") are ambiguous: many candidates share a
+    first name. Match them only when the fragment is essentially just that
+    first name, so a complete different name that merely starts with it is
+    preserved (e.g. "Claudia Tenney" must NOT collapse to "Claudia De la
+    Cruz"). Surname/multi-token keys keep their substring match.
+    """
+    for key, full in CAND_NORMALIZE.items():
+        if " " in key:
+            if key in low:
+                return full
+            continue
+        is_firstname = key == full.split()[0].lower()
+        if is_firstname:
+            toks = [t for t in low.split() if t]
+            if toks == [key]:
+                return full
+        else:
+            if key in low:
+                return full
+    return ""
+
+
 def normalize_candidate(frag, party):
     if not frag:
         return ""
     low = frag.lower().replace("'", "").replace(".", " ")
-    for key, full in CAND_NORMALIZE.items():
-        if key in low:
-            return full
+    hit = _norm_match(low)
+    if hit:
+        return hit
     # some county PDFs reverse every header token ("zlaW" -> "Walz"); try the
     # per-token reverse before giving up on a known top-of-ticket candidate.
     rlow = " ".join(t[::-1] for t in low.split())
-    for key, full in CAND_NORMALIZE.items():
-        if key in rlow:
-            return full
+    hit = _norm_match(rlow)
+    if hit:
+        return hit
     # strip common header/context words
     strip_words = {"and", "the", "for", "of", "tim", "jd", "j.", "d.", "town",
                    "city", "village", "county", "vote", "one", "candidates",

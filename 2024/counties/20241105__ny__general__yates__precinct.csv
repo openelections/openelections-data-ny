@@ -1,0 +1,325 @@
+county,precinct,office,district,party,candidate,votes
+Yates,Barrington,President,,DEM,Kamala D. Harris,219
+Yates,Barrington,President,,WF,Kamala D. Harris,6
+Yates,Barrington,President,,REP,Donald J. Trump,327
+Yates,Barrington,President,,CON,Donald J. Trump,29
+Yates,Benton 1,President,,DEM,Kamala D. Harris,158
+Yates,Benton 1,President,,WF,Kamala D. Harris,8
+Yates,Benton 1,President,,REP,Donald J. Trump,262
+Yates,Benton 1,President,,CON,Donald J. Trump,30
+Yates,Benton 2,President,,DEM,Kamala D. Harris,135
+Yates,Benton 2,President,,WF,Kamala D. Harris,11
+Yates,Benton 2,President,,REP,Donald J. Trump,247
+Yates,Benton 2,President,,CON,Donald J. Trump,31
+Yates,Benton 3,President,,DEM,Kamala D. Harris,84
+Yates,Benton 3,President,,WF,Kamala D. Harris,3
+Yates,Benton 3,President,,REP,Donald J. Trump,58
+Yates,Benton 3,President,,CON,Donald J. Trump,14
+Yates,Italy,President,,DEM,Kamala D. Harris,196
+Yates,Italy,President,,WF,Kamala D. Harris,20
+Yates,Italy,President,,REP,Donald J. Trump,319
+Yates,Italy,President,,CON,Donald J. Trump,46
+Yates,Jerusalem 1,President,,DEM,Kamala D. Harris,300
+Yates,Jerusalem 1,President,,WF,Kamala D. Harris,14
+Yates,Jerusalem 1,President,,REP,Donald J. Trump,267
+Yates,Jerusalem 1,President,,CON,Donald J. Trump,31
+Yates,Jerusalem 2,President,,DEM,Kamala D. Harris,214
+Yates,Jerusalem 2,President,,WF,Kamala D. Harris,17
+Yates,Jerusalem 2,President,,REP,Donald J. Trump,238
+Yates,Jerusalem 2,President,,CON,Donald J. Trump,37
+Yates,Jerusalem 3,President,,DEM,Kamala D. Harris,189
+Yates,Jerusalem 3,President,,WF,Kamala D. Harris,15
+Yates,Jerusalem 3,President,,REP,Donald J. Trump,270
+Yates,Jerusalem 3,President,,CON,Donald J. Trump,38
+Yates,Jerusalem 4,President,,DEM,Kamala D. Harris,244
+Yates,Jerusalem 4,President,,WF,Kamala D. Harris,13
+Yates,Jerusalem 4,President,,REP,Donald J. Trump,245
+Yates,Jerusalem 4,President,,CON,Donald J. Trump,19
+Yates,Middlesex,President,,DEM,Kamala D. Harris,252
+Yates,Middlesex,President,,WF,Kamala D. Harris,24
+Yates,Middlesex,President,,REP,Donald J. Trump,420
+Yates,Middlesex,President,,CON,Donald J. Trump,57
+Yates,Milo 2,President,,DEM,Kamala D. Harris,296
+Yates,Milo 2,President,,WF,Kamala D. Harris,27
+Yates,Milo 2,President,,REP,Donald J. Trump,325
+Yates,Milo 2,President,,CON,Donald J. Trump,36
+Yates,Milo 3,President,,DEM,Kamala D. Harris,240
+Yates,Milo 3,President,,WF,Kamala D. Harris,14
+Yates,Milo 3,President,,REP,Donald J. Trump,268
+Yates,Milo 3,President,,CON,Donald J. Trump,42
+Yates,Milo 4,President,,DEM,Kamala D. Harris,89
+Yates,Milo 4,President,,WF,Kamala D. Harris,6
+Yates,Milo 4,President,,REP,Donald J. Trump,118
+Yates,Milo 4,President,,CON,Donald J. Trump,22
+Yates,Milo 5,President,,DEM,Kamala D. Harris,255
+Yates,Milo 5,President,,WF,Kamala D. Harris,13
+Yates,Milo 5,President,,REP,Donald J. Trump,306
+Yates,Milo 5,President,,CON,Donald J. Trump,33
+Yates,Milo 6,President,,DEM,Kamala D. Harris,316
+Yates,Milo 6,President,,WF,Kamala D. Harris,15
+Yates,Milo 6,President,,REP,Donald J. Trump,330
+Yates,Milo 6,President,,CON,Donald J. Trump,42
+Yates,Milo 7,President,,DEM,Kamala D. Harris,52
+Yates,Milo 7,President,,WF,Kamala D. Harris,1
+Yates,Milo 7,President,,REP,Donald J. Trump,67
+Yates,Milo 7,President,,CON,Donald J. Trump,11
+Yates,Potter,President,,DEM,Kamala D. Harris,185
+Yates,Potter,President,,WF,Kamala D. Harris,22
+Yates,Potter,President,,REP,Donald J. Trump,417
+Yates,Potter,President,,CON,Donald J. Trump,44
+Yates,Starkey 1,President,,DEM,Kamala D. Harris,217
+Yates,Starkey 1,President,,WF,Kamala D. Harris,16
+Yates,Starkey 1,President,,REP,Donald J. Trump,338
+Yates,Starkey 1,President,,CON,Donald J. Trump,29
+Yates,Starkey 2,President,,DEM,Kamala D. Harris,231
+Yates,Starkey 2,President,,WF,Kamala D. Harris,15
+Yates,Starkey 2,President,,REP,Donald J. Trump,358
+Yates,Starkey 2,President,,CON,Donald J. Trump,38
+Yates,Torrey,President,,DEM,Kamala D. Harris,251
+Yates,Torrey,President,,WF,Kamala D. Harris,16
+Yates,Torrey,President,,REP,Donald J. Trump,257
+Yates,Torrey,President,,CON,Donald J. Trump,32
+Yates,SpecPresidential,President,,DEM,Kamala D. Harris,2
+Yates,SpecPresidential,President,,WF,Kamala D. Harris,0
+Yates,SpecPresidential,President,,REP,Donald J. Trump,0
+Yates,SpecPresidential,President,,CON,Donald J. Trump,0
+Yates,Barrington,U.S. Senate,,DEM,Kirsten E. Gillibrand,217
+Yates,Barrington,U.S. Senate,,WF,Kirsten E. Gillibrand,18
+Yates,Barrington,U.S. Senate,,REP,Michael D. Sapraicone,300
+Yates,Barrington,U.S. Senate,,CON,Michael D. Sapraicone,27
+Yates,Barrington,U.S. Senate,,LAR,Diane Sare,3
+Yates,Benton 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,156
+Yates,Benton 1,U.S. Senate,,WF,Kirsten E. Gillibrand,15
+Yates,Benton 1,U.S. Senate,,REP,Michael D. Sapraicone,251
+Yates,Benton 1,U.S. Senate,,CON,Michael D. Sapraicone,31
+Yates,Benton 1,U.S. Senate,,LAR,Diane Sare,3
+Yates,Benton 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,139
+Yates,Benton 2,U.S. Senate,,WF,Kirsten E. Gillibrand,14
+Yates,Benton 2,U.S. Senate,,REP,Michael D. Sapraicone,228
+Yates,Benton 2,U.S. Senate,,CON,Michael D. Sapraicone,32
+Yates,Benton 2,U.S. Senate,,LAR,Diane Sare,2
+Yates,Benton 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,85
+Yates,Benton 3,U.S. Senate,,WF,Kirsten E. Gillibrand,4
+Yates,Benton 3,U.S. Senate,,REP,Michael D. Sapraicone,56
+Yates,Benton 3,U.S. Senate,,CON,Michael D. Sapraicone,11
+Yates,Benton 3,U.S. Senate,,LAR,Diane Sare,0
+Yates,Italy,U.S. Senate,,DEM,Kirsten E. Gillibrand,185
+Yates,Italy,U.S. Senate,,WF,Kirsten E. Gillibrand,20
+Yates,Italy,U.S. Senate,,REP,Michael D. Sapraicone,299
+Yates,Italy,U.S. Senate,,CON,Michael D. Sapraicone,52
+Yates,Italy,U.S. Senate,,LAR,Diane Sare,5
+Yates,Jerusalem 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,302
+Yates,Jerusalem 1,U.S. Senate,,WF,Kirsten E. Gillibrand,21
+Yates,Jerusalem 1,U.S. Senate,,REP,Michael D. Sapraicone,247
+Yates,Jerusalem 1,U.S. Senate,,CON,Michael D. Sapraicone,31
+Yates,Jerusalem 1,U.S. Senate,,LAR,Diane Sare,0
+Yates,Jerusalem 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,210
+Yates,Jerusalem 2,U.S. Senate,,WF,Kirsten E. Gillibrand,21
+Yates,Jerusalem 2,U.S. Senate,,REP,Michael D. Sapraicone,230
+Yates,Jerusalem 2,U.S. Senate,,CON,Michael D. Sapraicone,46
+Yates,Jerusalem 2,U.S. Senate,,LAR,Diane Sare,0
+Yates,Jerusalem 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,194
+Yates,Jerusalem 3,U.S. Senate,,WF,Kirsten E. Gillibrand,14
+Yates,Jerusalem 3,U.S. Senate,,REP,Michael D. Sapraicone,250
+Yates,Jerusalem 3,U.S. Senate,,CON,Michael D. Sapraicone,42
+Yates,Jerusalem 3,U.S. Senate,,LAR,Diane Sare,5
+Yates,Jerusalem 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,245
+Yates,Jerusalem 4,U.S. Senate,,WF,Kirsten E. Gillibrand,14
+Yates,Jerusalem 4,U.S. Senate,,REP,Michael D. Sapraicone,229
+Yates,Jerusalem 4,U.S. Senate,,CON,Michael D. Sapraicone,23
+Yates,Jerusalem 4,U.S. Senate,,LAR,Diane Sare,3
+Yates,Middlesex,U.S. Senate,,DEM,Kirsten E. Gillibrand,240
+Yates,Middlesex,U.S. Senate,,WF,Kirsten E. Gillibrand,37
+Yates,Middlesex,U.S. Senate,,REP,Michael D. Sapraicone,410
+Yates,Middlesex,U.S. Senate,,CON,Michael D. Sapraicone,58
+Yates,Middlesex,U.S. Senate,,LAR,Diane Sare,2
+Yates,Milo 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,289
+Yates,Milo 2,U.S. Senate,,WF,Kirsten E. Gillibrand,40
+Yates,Milo 2,U.S. Senate,,REP,Michael D. Sapraicone,298
+Yates,Milo 2,U.S. Senate,,CON,Michael D. Sapraicone,41
+Yates,Milo 2,U.S. Senate,,LAR,Diane Sare,3
+Yates,Milo 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,234
+Yates,Milo 3,U.S. Senate,,WF,Kirsten E. Gillibrand,28
+Yates,Milo 3,U.S. Senate,,REP,Michael D. Sapraicone,236
+Yates,Milo 3,U.S. Senate,,CON,Michael D. Sapraicone,44
+Yates,Milo 3,U.S. Senate,,LAR,Diane Sare,4
+Yates,Milo 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,89
+Yates,Milo 4,U.S. Senate,,WF,Kirsten E. Gillibrand,3
+Yates,Milo 4,U.S. Senate,,REP,Michael D. Sapraicone,116
+Yates,Milo 4,U.S. Senate,,CON,Michael D. Sapraicone,20
+Yates,Milo 4,U.S. Senate,,LAR,Diane Sare,1
+Yates,Milo 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,247
+Yates,Milo 5,U.S. Senate,,WF,Kirsten E. Gillibrand,25
+Yates,Milo 5,U.S. Senate,,REP,Michael D. Sapraicone,285
+Yates,Milo 5,U.S. Senate,,CON,Michael D. Sapraicone,35
+Yates,Milo 5,U.S. Senate,,LAR,Diane Sare,1
+Yates,Milo 6,U.S. Senate,,DEM,Kirsten E. Gillibrand,311
+Yates,Milo 6,U.S. Senate,,WF,Kirsten E. Gillibrand,26
+Yates,Milo 6,U.S. Senate,,REP,Michael D. Sapraicone,299
+Yates,Milo 6,U.S. Senate,,CON,Michael D. Sapraicone,52
+Yates,Milo 6,U.S. Senate,,LAR,Diane Sare,0
+Yates,Milo 7,U.S. Senate,,DEM,Kirsten E. Gillibrand,45
+Yates,Milo 7,U.S. Senate,,WF,Kirsten E. Gillibrand,3
+Yates,Milo 7,U.S. Senate,,REP,Michael D. Sapraicone,68
+Yates,Milo 7,U.S. Senate,,CON,Michael D. Sapraicone,10
+Yates,Milo 7,U.S. Senate,,LAR,Diane Sare,0
+Yates,Potter,U.S. Senate,,DEM,Kirsten E. Gillibrand,189
+Yates,Potter,U.S. Senate,,WF,Kirsten E. Gillibrand,31
+Yates,Potter,U.S. Senate,,REP,Michael D. Sapraicone,387
+Yates,Potter,U.S. Senate,,CON,Michael D. Sapraicone,45
+Yates,Potter,U.S. Senate,,LAR,Diane Sare,1
+Yates,Starkey 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,211
+Yates,Starkey 1,U.S. Senate,,WF,Kirsten E. Gillibrand,24
+Yates,Starkey 1,U.S. Senate,,REP,Michael D. Sapraicone,313
+Yates,Starkey 1,U.S. Senate,,CON,Michael D. Sapraicone,34
+Yates,Starkey 1,U.S. Senate,,LAR,Diane Sare,1
+Yates,Starkey 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,232
+Yates,Starkey 2,U.S. Senate,,WF,Kirsten E. Gillibrand,23
+Yates,Starkey 2,U.S. Senate,,REP,Michael D. Sapraicone,336
+Yates,Starkey 2,U.S. Senate,,CON,Michael D. Sapraicone,42
+Yates,Starkey 2,U.S. Senate,,LAR,Diane Sare,0
+Yates,Torrey,U.S. Senate,,DEM,Kirsten E. Gillibrand,250
+Yates,Torrey,U.S. Senate,,WF,Kirsten E. Gillibrand,20
+Yates,Torrey,U.S. Senate,,REP,Michael D. Sapraicone,236
+Yates,Torrey,U.S. Senate,,CON,Michael D. Sapraicone,37
+Yates,Torrey,U.S. Senate,,LAR,Diane Sare,2
+Yates,Barrington,U.S. House,42,DEM,David Wagenhauser,200
+Yates,Barrington,U.S. House,42,REP,Claudia Tenney,337
+Yates,Barrington,U.S. House,42,CON,Claudia Tenney,37
+Yates,Benton 1,U.S. House,42,DEM,David Wagenhauser,146
+Yates,Benton 1,U.S. House,42,REP,Claudia Tenney,260
+Yates,Benton 1,U.S. House,42,CON,Claudia Tenney,37
+Yates,Benton 2,U.S. House,42,DEM,David Wagenhauser,123
+Yates,Benton 2,U.S. House,42,REP,Claudia Tenney,246
+Yates,Benton 2,U.S. House,42,CON,Claudia Tenney,39
+Yates,Benton 3,U.S. House,42,DEM,David Wagenhauser,77
+Yates,Benton 3,U.S. House,42,REP,Claudia Tenney,64
+Yates,Benton 3,U.S. House,42,CON,Claudia Tenney,11
+Yates,Italy,U.S. House,42,DEM,David Wagenhauser,192
+Yates,Italy,U.S. House,42,REP,Claudia Tenney,314
+Yates,Italy,U.S. House,42,CON,Claudia Tenney,55
+Yates,Jerusalem 1,U.S. House,42,DEM,David Wagenhauser,282
+Yates,Jerusalem 1,U.S. House,42,REP,Claudia Tenney,275
+Yates,Jerusalem 1,U.S. House,42,CON,Claudia Tenney,39
+Yates,Jerusalem 2,U.S. House,42,DEM,David Wagenhauser,199
+Yates,Jerusalem 2,U.S. House,42,REP,Claudia Tenney,262
+Yates,Jerusalem 2,U.S. House,42,CON,Claudia Tenney,45
+Yates,Jerusalem 3,U.S. House,42,DEM,David Wagenhauser,189
+Yates,Jerusalem 3,U.S. House,42,REP,Claudia Tenney,271
+Yates,Jerusalem 3,U.S. House,42,CON,Claudia Tenney,42
+Yates,Jerusalem 4,U.S. House,42,DEM,David Wagenhauser,218
+Yates,Jerusalem 4,U.S. House,42,REP,Claudia Tenney,268
+Yates,Jerusalem 4,U.S. House,42,CON,Claudia Tenney,21
+Yates,Middlesex,U.S. House,42,DEM,David Wagenhauser,239
+Yates,Middlesex,U.S. House,42,REP,Claudia Tenney,436
+Yates,Middlesex,U.S. House,42,CON,Claudia Tenney,62
+Yates,Milo 2,U.S. House,42,DEM,David Wagenhauser,291
+Yates,Milo 2,U.S. House,42,REP,Claudia Tenney,319
+Yates,Milo 2,U.S. House,42,CON,Claudia Tenney,52
+Yates,Milo 3,U.S. House,42,DEM,David Wagenhauser,233
+Yates,Milo 3,U.S. House,42,REP,Claudia Tenney,255
+Yates,Milo 3,U.S. House,42,CON,Claudia Tenney,47
+Yates,Milo 4,U.S. House,42,DEM,David Wagenhauser,78
+Yates,Milo 4,U.S. House,42,REP,Claudia Tenney,126
+Yates,Milo 4,U.S. House,42,CON,Claudia Tenney,23
+Yates,Milo 5,U.S. House,42,DEM,David Wagenhauser,235
+Yates,Milo 5,U.S. House,42,REP,Claudia Tenney,316
+Yates,Milo 5,U.S. House,42,CON,Claudia Tenney,42
+Yates,Milo 6,U.S. House,42,DEM,David Wagenhauser,272
+Yates,Milo 6,U.S. House,42,REP,Claudia Tenney,349
+Yates,Milo 6,U.S. House,42,CON,Claudia Tenney,61
+Yates,Milo 7,U.S. House,42,DEM,David Wagenhauser,44
+Yates,Milo 7,U.S. House,42,REP,Claudia Tenney,70
+Yates,Milo 7,U.S. House,42,CON,Claudia Tenney,11
+Yates,Potter,U.S. House,42,DEM,David Wagenhauser,173
+Yates,Potter,U.S. House,42,REP,Claudia Tenney,426
+Yates,Potter,U.S. House,42,CON,Claudia Tenney,51
+Yates,Starkey 1,U.S. House,42,DEM,David Wagenhauser,195
+Yates,Starkey 1,U.S. House,42,REP,Claudia Tenney,343
+Yates,Starkey 1,U.S. House,42,CON,Claudia Tenney,38
+Yates,Starkey 2,U.S. House,42,DEM,David Wagenhauser,207
+Yates,Starkey 2,U.S. House,42,REP,Claudia Tenney,374
+Yates,Starkey 2,U.S. House,42,CON,Claudia Tenney,51
+Yates,Torrey,U.S. House,42,DEM,David Wagenhauser,233
+Yates,Torrey,U.S. House,42,REP,Claudia Tenney,266
+Yates,Torrey,U.S. House,42,CON,Claudia Tenney,40
+Yates,Barrington,State Senate,58,REP,Thomas F. O'Mara,380
+Yates,Barrington,State Senate,58,CON,Thomas F. O'Mara,60
+Yates,Benton 1,State Senate,58,REP,Thomas F. O'Mara,318
+Yates,Benton 1,State Senate,58,CON,Thomas F. O'Mara,43
+Yates,Benton 2,State Senate,58,REP,Thomas F. O'Mara,283
+Yates,Benton 2,State Senate,58,CON,Thomas F. O'Mara,50
+Yates,Benton 3,State Senate,58,REP,Thomas F. O'Mara,87
+Yates,Benton 3,State Senate,58,CON,Thomas F. O'Mara,22
+Yates,Italy,State Senate,58,REP,Thomas F. O'Mara,334
+Yates,Italy,State Senate,58,CON,Thomas F. O'Mara,75
+Yates,Jerusalem 1,State Senate,58,REP,Thomas F. O'Mara,339
+Yates,Jerusalem 1,State Senate,58,CON,Thomas F. O'Mara,50
+Yates,Jerusalem 2,State Senate,58,REP,Thomas F. O'Mara,314
+Yates,Jerusalem 2,State Senate,58,CON,Thomas F. O'Mara,62
+Yates,Jerusalem 3,State Senate,58,REP,Thomas F. O'Mara,313
+Yates,Jerusalem 3,State Senate,58,CON,Thomas F. O'Mara,61
+Yates,Jerusalem 4,State Senate,58,REP,Thomas F. O'Mara,315
+Yates,Jerusalem 4,State Senate,58,CON,Thomas F. O'Mara,40
+Yates,Middlesex,State Senate,58,REP,Thomas F. O'Mara,482
+Yates,Middlesex,State Senate,58,CON,Thomas F. O'Mara,76
+Yates,Milo 2,State Senate,58,REP,Thomas F. O'Mara,405
+Yates,Milo 2,State Senate,58,CON,Thomas F. O'Mara,87
+Yates,Milo 3,State Senate,58,REP,Thomas F. O'Mara,326
+Yates,Milo 3,State Senate,58,CON,Thomas F. O'Mara,81
+Yates,Milo 4,State Senate,58,REP,Thomas F. O'Mara,151
+Yates,Milo 4,State Senate,58,CON,Thomas F. O'Mara,22
+Yates,Milo 5,State Senate,58,REP,Thomas F. O'Mara,386
+Yates,Milo 5,State Senate,58,CON,Thomas F. O'Mara,60
+Yates,Milo 6,State Senate,58,REP,Thomas F. O'Mara,419
+Yates,Milo 6,State Senate,58,CON,Thomas F. O'Mara,88
+Yates,Milo 7,State Senate,58,REP,Thomas F. O'Mara,79
+Yates,Milo 7,State Senate,58,CON,Thomas F. O'Mara,16
+Yates,Potter,State Senate,58,REP,Thomas F. O'Mara,484
+Yates,Potter,State Senate,58,CON,Thomas F. O'Mara,68
+Yates,Starkey 1,State Senate,58,REP,Thomas F. O'Mara,412
+Yates,Starkey 1,State Senate,58,CON,Thomas F. O'Mara,56
+Yates,Starkey 2,State Senate,58,REP,Thomas F. O'Mara,419
+Yates,Starkey 2,State Senate,58,CON,Thomas F. O'Mara,72
+Yates,Torrey,State Senate,58,REP,Thomas F. O'Mara,329
+Yates,Torrey,State Senate,58,CON,Thomas F. O'Mara,62
+Yates,Barrington,State Assembly,132,REP,Philip A. Palmesano,375
+Yates,Barrington,State Assembly,132,CON,Philip A. Palmesano,59
+Yates,Benton 1,State Assembly,132,REP,Philip A. Palmesano,319
+Yates,Benton 1,State Assembly,132,CON,Philip A. Palmesano,44
+Yates,Benton 2,State Assembly,132,REP,Philip A. Palmesano,285
+Yates,Benton 2,State Assembly,132,CON,Philip A. Palmesano,51
+Yates,Benton 3,State Assembly,132,REP,Philip A. Palmesano,86
+Yates,Benton 3,State Assembly,132,CON,Philip A. Palmesano,24
+Yates,Italy,State Assembly,132,REP,Philip A. Palmesano,329
+Yates,Italy,State Assembly,132,CON,Philip A. Palmesano,70
+Yates,Jerusalem 1,State Assembly,132,REP,Philip A. Palmesano,339
+Yates,Jerusalem 1,State Assembly,132,CON,Philip A. Palmesano,53
+Yates,Jerusalem 2,State Assembly,132,REP,Philip A. Palmesano,306
+Yates,Jerusalem 2,State Assembly,132,CON,Philip A. Palmesano,63
+Yates,Jerusalem 3,State Assembly,132,REP,Philip A. Palmesano,308
+Yates,Jerusalem 3,State Assembly,132,CON,Philip A. Palmesano,59
+Yates,Jerusalem 4,State Assembly,132,REP,Philip A. Palmesano,319
+Yates,Jerusalem 4,State Assembly,132,CON,Philip A. Palmesano,41
+Yates,Middlesex,State Assembly,132,REP,Philip A. Palmesano,474
+Yates,Middlesex,State Assembly,132,CON,Philip A. Palmesano,80
+Yates,Milo 2,State Assembly,132,REP,Philip A. Palmesano,413
+Yates,Milo 2,State Assembly,132,CON,Philip A. Palmesano,85
+Yates,Milo 3,State Assembly,132,REP,Philip A. Palmesano,332
+Yates,Milo 3,State Assembly,132,CON,Philip A. Palmesano,78
+Yates,Milo 4,State Assembly,132,REP,Philip A. Palmesano,153
+Yates,Milo 4,State Assembly,132,CON,Philip A. Palmesano,23
+Yates,Milo 5,State Assembly,132,REP,Philip A. Palmesano,387
+Yates,Milo 5,State Assembly,132,CON,Philip A. Palmesano,59
+Yates,Milo 6,State Assembly,132,REP,Philip A. Palmesano,426
+Yates,Milo 6,State Assembly,132,CON,Philip A. Palmesano,76
+Yates,Milo 7,State Assembly,132,REP,Philip A. Palmesano,78
+Yates,Milo 7,State Assembly,132,CON,Philip A. Palmesano,16
+Yates,Potter,State Assembly,132,REP,Philip A. Palmesano,483
+Yates,Potter,State Assembly,132,CON,Philip A. Palmesano,67
+Yates,Starkey 1,State Assembly,132,REP,Philip A. Palmesano,409
+Yates,Starkey 1,State Assembly,132,CON,Philip A. Palmesano,55
+Yates,Starkey 2,State Assembly,132,REP,Philip A. Palmesano,422
+Yates,Starkey 2,State Assembly,132,CON,Philip A. Palmesano,68
+Yates,Torrey,State Assembly,132,REP,Philip A. Palmesano,328
+Yates,Torrey,State Assembly,132,CON,Philip A. Palmesano,62
