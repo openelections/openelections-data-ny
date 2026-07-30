@@ -125,6 +125,13 @@ CAND_NORMALIZE = {
     "fellers": "Thomas F. O'Mara",
 }
 
+# Vice-presidential running-mate tokens that appear after "&" on the
+# President candidate line (e.g. "Kamala D. Harris & Tim Walz"). These are NOT
+# part of any candidate name group: skipping them opens the gap between the
+# two presidential candidates so they cluster separately, instead of the VP
+# tokens bridging them into one merged group.
+VP_TOKENS = {"walz", "vance", "tim", "jd", "j.d."}
+
 
 def is_num(t):
     return t.replace(",", "").isdigit()
@@ -202,6 +209,209 @@ def is_section_start(line):
     return False
 
 
+# Row-name header words (the precinct/ED label column, e.g.
+# "Town/Ward/District"). These sit left of all party columns; name extraction
+# must drop them or they become a fake candidate name.
+ROW_LABEL_WORDS = {"town", "ward", "city", "village", "county", "of", "the",
+                   "number", "ed", "election", "district", "precinct", "#"}
+
+OFFICE_TITLE_WORDS = {
+    "senator", "representative", "assembly", "electors", "president",
+    "member", "congress", "senate", "states", "united", "vote", "for",
+    "one", "new", "york", "state", "justice", "clerk", "judge", "court",
+}
+
+
+def _is_label_garbage(frag):
+    """True if frag is row-label/office header residue rather than a candidate
+    name (e.g. 'Town/Ward/District', 'United States Senator')."""
+    if not frag:
+        return True
+    toks = [t for t in frag.replace("/", " ").split() if t not in ("-", "–", "—")]
+    if not toks:
+        return True
+    return all(t.lower() in ROW_LABEL_WORDS or t.lower() in OFFICE_TITLE_WORDS
+               or party_of(t) is not None for t in toks)
+
+
+def _name_tokens(frag):
+    """Lowercased alpha token set of a candidate fragment, for subset checks."""
+    out = set()
+    for t in (frag or "").replace("/", " ").split():
+        t = t.strip(".,'").lower()
+        if t and t not in ("-", "–", "—", "&", "and"):
+            out.add(t)
+    return out
+
+
+def assign_name_groups(header_lines, columns):
+    """Cluster candidate-name tokens across header lines into name groups (by
+    x-position) and assign each party column a candidate-name fragment by
+    nearest positional coverage. Handles fusion, where one candidate name is
+    printed once and serves several adjacent party columns (e.g. Gillibrand
+    on DEM+WOR): the name group's x-range covers each of those columns.
+
+    Returns {column_index: name_fragment} for party columns only. Only the
+    caller decides whether to use this fragment (it is a fallback for when
+    walk-left/stacked extraction yields garbage or nothing).
+    """
+    party_cols = [c for c in columns if c["kind"] == "party"]
+    if not party_cols:
+        return {}
+    leftmost = min(c["x0"] for c in party_cols)
+    party_line_ids = {id(c["src_line"]) for c in columns}
+
+    cand = []  # (top, x0, text)
+    for ws in header_lines:
+        if id(ws) in party_line_ids:
+            continue  # the party-code line itself
+        txt = line_text(ws)
+        if match_office(txt) is not None:
+            continue  # office title line
+        if VOTE_FOR_RE.search(txt):
+            continue  # "(Vote for one)" sub-header
+        # row-label line: leading token is a row-name keyword
+        ft = ""
+        for w in ws:
+            if w["text"] not in ("-", "–", "—"):
+                ft = w["text"]
+                break
+        if ft and ft.lower() in ROW_LABEL_WORDS:
+            continue
+        for w in ws:
+            wt = w["text"]
+            if wt in ("-", "–", "—"):
+                continue
+            if party_of(wt) is not None:
+                break  # reached a party code -> rest of line is the party header
+            if wt in ("&", "and") or wt.lower() in VP_TOKENS:
+                continue  # VP running-mate / "&" separator, not a name token
+            if w["x0"] < leftmost - 30:
+                continue  # row-label column, left of the data area
+            if wt.lower() in OFFICE_TITLE_WORDS or wt in HEADER_LABELS:
+                continue
+            cand.append((w["top"], w["x0"], wt))
+    if not cand:
+        return {}
+
+    # Cluster by x0 proximity: tokens within 45px horizontally form one candidate.
+    # This alone separates candidates in the "one printed name per fusion pair"
+    # layout (Ulster: candidates ~100px apart, within-name ~35px). But in the
+    # "one printed name per party column" layout (Tioga: fusion columns RE-PRINT
+    # the name, so adjacent candidates are only ~30px apart — no x-gap signal at
+    # all), clustering merges everyone into one giant group. We recover those by
+    # SPLITTING a group at any party column that has a name token anchored at its
+    # x0: that anchor marks where the next candidate's name starts.
+    party_x0 = [c["x0"] for c in columns if c["kind"] == "party"]
+    cand.sort(key=lambda t: t[1])
+    groups = [[cand[0]]]
+    for t in cand[1:]:
+        if t[1] - groups[-1][-1][1] <= 45:
+            groups[-1].append(t)
+        else:
+            groups.append([t])
+
+    def _anchor_col(x0):
+        """Party column index whose x0 is within 15px of token x0, else None."""
+        for ci, c in enumerate(columns):
+            if c["kind"] == "party" and abs(c["x0"] - x0) <= 15:
+                return ci
+        return None
+
+    # Build final (sub)groups with an optional anchor column. Two header
+    # conventions exist:
+    #  - "reprint": each fusion column re-prints the candidate's name at its own
+    #    x0 (Tioga: Nicholas@173 AND Nicholas@231 for REP+CON; Tompkins: Josh@169
+    #    AND Josh@221 for DEM+WOR). A name TOKEN TEXT repeats at >=2 distinct x0
+    #    positions. Clustering merges these (candidates sit ~30px apart, no x-gap
+    #    signal), so we SPLIT the cluster at every party-column anchor.
+    #  - "spanning": one name is printed once across a fusion pair (Ulster:
+    #    "Kirsten E. Gillibrand" sits at x198-243 covering DEM@170 + WOR@234).
+    #    Each token text appears ONCE, and candidates are ~100px apart so
+    #    clustering already separated them — do NOT split, let fusion columns
+    #    share the whole group.
+    # The token-repeat test reliably tells them apart; splitting a spanning
+    # group would fragment a single candidate's name across its fusion columns.
+    final = []  # (lo, hi, tokens, anchor_ci_or_None)
+    for g in groups:
+        xs = [t[1] for t in g]
+        lo, hi = min(xs), max(xs)
+        anch = {}  # ci -> leftmost in-range token x0
+        for t in sorted(g, key=lambda t: (t[1], t[0])):
+            ac = _anchor_col(t[1])
+            if ac is not None and ac not in anch:
+                anch[ac] = t[1]
+        text_x0s = {}
+        for t in g:
+            text_x0s.setdefault(t[2].lower(), set()).add(round(t[1] / 2))
+        reprint = any(len(s) >= 2 for s in text_x0s.values())
+        if reprint and len(anch) >= 2:
+            order = sorted(anch.items(), key=lambda kv: kv[1])
+            strong = [ci for ci, _ in order]
+            cut_x = [x0 for _, x0 in order]
+            sub = [[] for _ in strong]
+            for t in g:
+                k = 0
+                for i, cx in enumerate(cut_x):
+                    if t[1] >= cx - 0.5:
+                        k = i
+                sub[k].append(t)
+            for ac, s in zip(strong, sub):
+                if s:
+                    sxs = [t[1] for t in s]
+                    final.append((min(sxs), max(sxs), s, ac))
+        else:
+            final.append((lo, hi, g, None))
+
+    # Dedup tokens reprinted across sub-tables (same text on a later page's
+    # header, possibly at a slightly shifted x0) — keep the first (lowest top)
+    # occurrence of each lowercased token text. This collapses e.g.
+    # "Michael J. Michael J. Sigler Sigler" -> "Michael J. Sigler". Safe for a
+    # single candidate's name (no repeated token text); a merged two-candidate
+    # group would not be deduped by this (distinct texts), but that is the
+    # split step's job, not dedup's.
+    def _dedup(toks):
+        seen = set()
+        out = []
+        for t in sorted(toks, key=lambda t: (t[0], t[1])):
+            key = t[2].lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            out.append(t)
+        return out
+
+    # Map anchor column -> its dedicated subgroup; remaining (fusion, un-anchored)
+    # groups assign to columns by nearest x-range.
+    anchored_map = {}
+    fusion = []
+    for lo, hi, g, ac in final:
+        g = _dedup(g)
+        if ac is not None:
+            anchored_map[ac] = g
+        else:
+            fusion.append((lo, hi, g))
+
+    result = {}
+    for ci, col in enumerate(columns):
+        if col["kind"] != "party":
+            continue
+        if ci in anchored_map:
+            toks = sorted(anchored_map[ci], key=lambda t: (t[0], t[1]))
+            result[ci] = " ".join(t[2] for t in toks).strip()
+            continue
+        cx0 = col["x0"]
+        best, bestd = None, 10 ** 9
+        for lo, hi, g in fusion:
+            d = 0 if lo <= cx0 <= hi else (lo - cx0 if cx0 < lo else cx0 - hi)
+            if d < bestd:
+                bestd, best = d, g
+        if best is not None:
+            toks = sorted(best, key=lambda t: (t[0], t[1]))
+            result[ci] = " ".join(t[2] for t in toks).strip()
+    return result
+
+
 def parse_pdf(pdf_path):
     """Return list of sections: each {office, district, columns, rows, total_row}.
 
@@ -229,9 +439,16 @@ def parse_pdf(pdf_path):
     for ws in lines:
         txt = line_text(ws)
         first = ws[0]["text"].lower() if ws else ""
-        # A Total row ends the current section (it stays in the section for
-        # verification), then the next line begins a new section.
-        if cur is not None and first == "total":
+        second = ws[1]["text"].lower() if len(ws) > 1 else ""
+        # A Total/Grand Total row ends the current section (it stays in the
+        # section for verification), then the next line begins a new section.
+        # "Grand Total" must close too: these tables end with "Grand Total"
+        # (first word "Grand"), not bare "Total", so without this the section
+        # runs past its table and absorbs the following contest's rows (e.g.
+        # a Proposal's Yes/No numbers mis-assigned to the prior office's party
+        # columns). Mid-table subtotals like "Lloyd Total" start with the
+        # precinct name, so they don't match and don't close here.
+        if cur is not None and (first == "total" or (first == "grand" and second == "total")):
             cur["lines"].append(ws)
             sections.append(cur)
             cur = None
@@ -373,7 +590,10 @@ def parse_section(sec):
     # candidate; else prefer a walk-left that does; else prefer whichever is
     # non-empty (stacked first).
     known = set(CAND_NORMALIZE.values())
-    for col in columns:
+    # Fallback name fragments from positional candidate-name grouping (handles
+    # fusion headers where one name serves adjacent party columns).
+    group_frags = assign_name_groups(header_lines, columns)
+    for ci, col in enumerate(columns):
         if col["kind"] != "party":
             continue
         line = col["src_line"]
@@ -407,6 +627,8 @@ def parse_section(sec):
                     continue
                 if wt == "#" or wt in HEADER_LABELS:
                     continue
+                if wt in ("&", "and") or wt.lower() in VP_TOKENS:
+                    continue  # VP running-mate / "&" separator, not a name token
                 if abs(w["x0"] - cx0) <= 25:
                     stacked.append((w["top"], w["x0"], wt))
         stacked.sort()
@@ -419,12 +641,32 @@ def parse_section(sec):
         st_frag = " ".join(frag_toks).strip()
         wl_norm = normalize_candidate(wl_frag, col["party"])
         st_norm = normalize_candidate(st_frag, col["party"])
+        gp_frag = group_frags.get(ci, "")
+        gp_norm = normalize_candidate(gp_frag, col["party"])
+        # Group fragment completes a partial stacked fragment when it is a
+        # strict superset (e.g. stacked caught only the surname "Hinchey" but
+        # the name group holds the full "Michelle Hinchey").
+        st_toks = _name_tokens(st_frag)
+        gp_toks = _name_tokens(gp_frag)
+        gp_superset = (gp_toks and (not st_toks or st_toks <= gp_toks)
+                       and len(gp_toks) > len(st_toks)
+                       and not _is_label_garbage(gp_frag))
         if st_norm in known:
             frag = st_frag
         elif wl_norm in known:
             frag = wl_frag
+        elif gp_norm in known:
+            frag = gp_frag
+        elif gp_superset:
+            frag = gp_frag
+        elif st_frag and not _is_label_garbage(st_frag):
+            frag = st_frag
+        elif gp_frag and not _is_label_garbage(gp_frag):
+            frag = gp_frag
         elif st_frag:
             frag = st_frag
+        elif gp_frag:
+            frag = gp_frag
         else:
             frag = wl_frag
         col["cand_frag"] = frag
@@ -478,7 +720,7 @@ def parse_section(sec):
             raw_rows.append((name, num_words, True))
             continue
         if "total" in nmlow:
-            continue  # "Grand Total" / "Totals" / "Total Votes Cast" — not a precinct
+            continue  # "Grand Total" / "Lloyd Total" / "Totals" — subtotal or non-precinct
         if not num_words:
             continue
         raw_rows.append((name, num_words, False))
