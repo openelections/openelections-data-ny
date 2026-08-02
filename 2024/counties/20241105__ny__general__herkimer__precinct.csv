@@ -1,0 +1,858 @@
+county,precinct,office,district,party,candidate,votes
+Herkimer,Little Falls Ward 1,President,,REP,Donald J. Trump,237
+Herkimer,Little Falls Ward 1,President,,DEM,Kamala D. Harris,250
+Herkimer,Little Falls Ward 1,President,,CON,Donald J. Trump,33
+Herkimer,Little Falls Ward 1,President,,WOR,Kamala D. Harris,14
+Herkimer,Little Falls Ward 2,President,,REP,Donald J. Trump,278
+Herkimer,Little Falls Ward 2,President,,DEM,Kamala D. Harris,331
+Herkimer,Little Falls Ward 2,President,,CON,Donald J. Trump,32
+Herkimer,Little Falls Ward 2,President,,WOR,Kamala D. Harris,21
+Herkimer,Little Falls Ward 3,President,,REP,Donald J. Trump,183
+Herkimer,Little Falls Ward 3,President,,DEM,Kamala D. Harris,194
+Herkimer,Little Falls Ward 3,President,,CON,Donald J. Trump,28
+Herkimer,Little Falls Ward 3,President,,WOR,Kamala D. Harris,13
+Herkimer,Little Falls Ward 3,President,,,Write-in,2
+Herkimer,Little Falls Ward 4,President,,REP,Donald J. Trump,157
+Herkimer,Little Falls Ward 4,President,,DEM,Kamala D. Harris,140
+Herkimer,Little Falls Ward 4,President,,CON,Donald J. Trump,20
+Herkimer,Little Falls Ward 4,President,,WOR,Kamala D. Harris,8
+Herkimer,Little Falls Ward 4,President,,,Write-in,4
+Herkimer,Columbia ED 1,President,,REP,Donald J. Trump,513
+Herkimer,Columbia ED 1,President,,DEM,Kamala D. Harris,124
+Herkimer,Columbia ED 1,President,,CON,Donald J. Trump,77
+Herkimer,Columbia ED 1,President,,WOR,Kamala D. Harris,11
+Herkimer,Columbia ED 2,President,,REP,Donald J. Trump,98
+Herkimer,Columbia ED 2,President,,DEM,Kamala D. Harris,17
+Herkimer,Columbia ED 2,President,,CON,Donald J. Trump,6
+Herkimer,Columbia ED 2,President,,WOR,Kamala D. Harris,1
+Herkimer,Danube ED 1,President,,REP,Donald J. Trump,341
+Herkimer,Danube ED 1,President,,DEM,Kamala D. Harris,93
+Herkimer,Danube ED 1,President,,CON,Donald J. Trump,24
+Herkimer,Danube ED 1,President,,WOR,Kamala D. Harris,7
+Herkimer,Fairfield ED 1,President,,REP,Donald J. Trump,555
+Herkimer,Fairfield ED 1,President,,DEM,Kamala D. Harris,158
+Herkimer,Fairfield ED 1,President,,CON,Donald J. Trump,50
+Herkimer,Fairfield ED 1,President,,WOR,Kamala D. Harris,6
+Herkimer,Frankfort ED 1,President,,REP,Donald J. Trump,274
+Herkimer,Frankfort ED 1,President,,DEM,Kamala D. Harris,105
+Herkimer,Frankfort ED 1,President,,CON,Donald J. Trump,25
+Herkimer,Frankfort ED 1,President,,WOR,Kamala D. Harris,5
+Herkimer,Frankfort ED 1,President,,,Write-in,1
+Herkimer,Frankfort ED 2,President,,REP,Donald J. Trump,279
+Herkimer,Frankfort ED 2,President,,DEM,Kamala D. Harris,144
+Herkimer,Frankfort ED 2,President,,CON,Donald J. Trump,22
+Herkimer,Frankfort ED 2,President,,WOR,Kamala D. Harris,10
+Herkimer,Frankfort ED 2,President,,,Write-in,1
+Herkimer,Frankfort ED 3,President,,REP,Donald J. Trump,806
+Herkimer,Frankfort ED 3,President,,DEM,Kamala D. Harris,374
+Herkimer,Frankfort ED 3,President,,CON,Donald J. Trump,81
+Herkimer,Frankfort ED 3,President,,WOR,Kamala D. Harris,20
+Herkimer,Frankfort ED 3,President,,,Write-in,3
+Herkimer,Frankfort ED 4,President,,REP,Donald J. Trump,938
+Herkimer,Frankfort ED 4,President,,DEM,Kamala D. Harris,382
+Herkimer,Frankfort ED 4,President,,CON,Donald J. Trump,112
+Herkimer,Frankfort ED 4,President,,WOR,Kamala D. Harris,12
+Herkimer,Frankfort ED 4,President,,,Write-in,2
+Herkimer,German Flatts ED 1,President,,REP,Donald J. Trump,148
+Herkimer,German Flatts ED 1,President,,DEM,Kamala D. Harris,53
+Herkimer,German Flatts ED 1,President,,CON,Donald J. Trump,22
+Herkimer,German Flatts ED 1,President,,WOR,Kamala D. Harris,4
+Herkimer,German Flatts ED 2,President,,REP,Donald J. Trump,258
+Herkimer,German Flatts ED 2,President,,DEM,Kamala D. Harris,137
+Herkimer,German Flatts ED 2,President,,CON,Donald J. Trump,29
+Herkimer,German Flatts ED 2,President,,WOR,Kamala D. Harris,10
+Herkimer,German Flatts ED 2,President,,,Write-in,1
+Herkimer,German Flatts ED 3,President,,REP,Donald J. Trump,701
+Herkimer,German Flatts ED 3,President,,DEM,Kamala D. Harris,360
+Herkimer,German Flatts ED 3,President,,CON,Donald J. Trump,62
+Herkimer,German Flatts ED 3,President,,WOR,Kamala D. Harris,32
+Herkimer,German Flatts ED 3,President,,,Write-in,3
+Herkimer,German Flatts ED 4,President,,REP,Donald J. Trump,216
+Herkimer,German Flatts ED 4,President,,DEM,Kamala D. Harris,136
+Herkimer,German Flatts ED 4,President,,CON,Donald J. Trump,38
+Herkimer,German Flatts ED 4,President,,WOR,Kamala D. Harris,13
+Herkimer,German Flatts ED 4,President,,,Write-in,1
+Herkimer,German Flatts ED 5,President,,REP,Donald J. Trump,195
+Herkimer,German Flatts ED 5,President,,DEM,Kamala D. Harris,111
+Herkimer,German Flatts ED 5,President,,CON,Donald J. Trump,20
+Herkimer,German Flatts ED 5,President,,WOR,Kamala D. Harris,8
+Herkimer,German Flatts ED 5,President,,,Write-in,3
+Herkimer,German Flatts ED 6,President,,REP,Donald J. Trump,678
+Herkimer,German Flatts ED 6,President,,DEM,Kamala D. Harris,451
+Herkimer,German Flatts ED 6,President,,CON,Donald J. Trump,64
+Herkimer,German Flatts ED 6,President,,WOR,Kamala D. Harris,32
+Herkimer,German Flatts ED 6,President,,,Write-in,4
+Herkimer,German Flatts ED 7,President,,REP,Donald J. Trump,219
+Herkimer,German Flatts ED 7,President,,DEM,Kamala D. Harris,111
+Herkimer,German Flatts ED 7,President,,CON,Donald J. Trump,20
+Herkimer,German Flatts ED 7,President,,WOR,Kamala D. Harris,5
+Herkimer,German Flatts ED 8,President,,REP,Donald J. Trump,698
+Herkimer,German Flatts ED 8,President,,DEM,Kamala D. Harris,373
+Herkimer,German Flatts ED 8,President,,CON,Donald J. Trump,83
+Herkimer,German Flatts ED 8,President,,WOR,Kamala D. Harris,35
+Herkimer,German Flatts ED 8,President,,,Write-in,2
+Herkimer,Herkimer ED 1,President,,REP,Donald J. Trump,658
+Herkimer,Herkimer ED 1,President,,DEM,Kamala D. Harris,317
+Herkimer,Herkimer ED 1,President,,CON,Donald J. Trump,53
+Herkimer,Herkimer ED 1,President,,WOR,Kamala D. Harris,19
+Herkimer,Herkimer ED 1,President,,,Write-in,1
+Herkimer,Herkimer ED 2,President,,REP,Donald J. Trump,241
+Herkimer,Herkimer ED 2,President,,DEM,Kamala D. Harris,190
+Herkimer,Herkimer ED 2,President,,CON,Donald J. Trump,32
+Herkimer,Herkimer ED 2,President,,WOR,Kamala D. Harris,12
+Herkimer,Herkimer ED 2,President,,,Write-in,4
+Herkimer,Herkimer ED 3,President,,REP,Donald J. Trump,277
+Herkimer,Herkimer ED 3,President,,DEM,Kamala D. Harris,214
+Herkimer,Herkimer ED 3,President,,CON,Donald J. Trump,30
+Herkimer,Herkimer ED 3,President,,WOR,Kamala D. Harris,15
+Herkimer,Herkimer ED 3,President,,,Write-in,2
+Herkimer,Herkimer ED 4,President,,REP,Donald J. Trump,406
+Herkimer,Herkimer ED 4,President,,DEM,Kamala D. Harris,208
+Herkimer,Herkimer ED 4,President,,CON,Donald J. Trump,35
+Herkimer,Herkimer ED 4,President,,WOR,Kamala D. Harris,17
+Herkimer,Herkimer ED 4,President,,,Write-in,1
+Herkimer,Herkimer ED 5,President,,REP,Donald J. Trump,609
+Herkimer,Herkimer ED 5,President,,DEM,Kamala D. Harris,410
+Herkimer,Herkimer ED 5,President,,CON,Donald J. Trump,81
+Herkimer,Herkimer ED 5,President,,WOR,Kamala D. Harris,29
+Herkimer,Herkimer ED 5,President,,,Write-in,2
+Herkimer,Litchfield ED 1,President,,REP,Donald J. Trump,560
+Herkimer,Litchfield ED 1,President,,DEM,Kamala D. Harris,162
+Herkimer,Litchfield ED 1,President,,CON,Donald J. Trump,59
+Herkimer,Litchfield ED 1,President,,WOR,Kamala D. Harris,11
+Herkimer,Litchfield ED 1,President,,,Write-in,2
+Herkimer,Manheim ED 1,President,,REP,Donald J. Trump,668
+Herkimer,Manheim ED 1,President,,DEM,Kamala D. Harris,274
+Herkimer,Manheim ED 1,President,,CON,Donald J. Trump,85
+Herkimer,Manheim ED 1,President,,WOR,Kamala D. Harris,12
+Herkimer,Manheim ED 1,President,,,Write-in,2
+Herkimer,Manheim ED 2,President,,REP,Donald J. Trump,196
+Herkimer,Manheim ED 2,President,,DEM,Kamala D. Harris,106
+Herkimer,Manheim ED 2,President,,CON,Donald J. Trump,24
+Herkimer,Manheim ED 2,President,,WOR,Kamala D. Harris,8
+Herkimer,Newport ED 1,President,,REP,Donald J. Trump,612
+Herkimer,Newport ED 1,President,,DEM,Kamala D. Harris,224
+Herkimer,Newport ED 1,President,,CON,Donald J. Trump,80
+Herkimer,Newport ED 1,President,,WOR,Kamala D. Harris,21
+Herkimer,Newport ED 1,President,,,Write-in,3
+Herkimer,Newport ED 2,President,,REP,Donald J. Trump,72
+Herkimer,Newport ED 2,President,,DEM,Kamala D. Harris,34
+Herkimer,Newport ED 2,President,,CON,Donald J. Trump,6
+Herkimer,Newport ED 2,President,,WOR,Kamala D. Harris,2
+Herkimer,Norway ED 1,President,,REP,Donald J. Trump,322
+Herkimer,Norway ED 1,President,,DEM,Kamala D. Harris,87
+Herkimer,Norway ED 1,President,,CON,Donald J. Trump,23
+Herkimer,Norway ED 1,President,,WOR,Kamala D. Harris,3
+Herkimer,Ohio ED 1,President,,REP,Donald J. Trump,436
+Herkimer,Ohio ED 1,President,,DEM,Kamala D. Harris,112
+Herkimer,Ohio ED 1,President,,CON,Donald J. Trump,42
+Herkimer,Ohio ED 1,President,,WOR,Kamala D. Harris,8
+Herkimer,Ohio ED 1,President,,,Write-in,1
+Herkimer,Russia ED 1,President,,REP,Donald J. Trump,534
+Herkimer,Russia ED 1,President,,DEM,Kamala D. Harris,247
+Herkimer,Russia ED 1,President,,CON,Donald J. Trump,76
+Herkimer,Russia ED 1,President,,WOR,Kamala D. Harris,15
+Herkimer,Russia ED 1,President,,,Write-in,1
+Herkimer,Russia ED 2,President,,REP,Donald J. Trump,258
+Herkimer,Russia ED 2,President,,DEM,Kamala D. Harris,76
+Herkimer,Russia ED 2,President,,CON,Donald J. Trump,27
+Herkimer,Russia ED 2,President,,WOR,Kamala D. Harris,10
+Herkimer,Russia ED 2,President,,,Write-in,2
+Herkimer,Salisbury ED 1,President,,REP,Donald J. Trump,534
+Herkimer,Salisbury ED 1,President,,DEM,Kamala D. Harris,112
+Herkimer,Salisbury ED 1,President,,CON,Donald J. Trump,51
+Herkimer,Salisbury ED 1,President,,WOR,Kamala D. Harris,9
+Herkimer,Salisbury ED 2,President,,REP,Donald J. Trump,161
+Herkimer,Salisbury ED 2,President,,DEM,Kamala D. Harris,42
+Herkimer,Salisbury ED 2,President,,CON,Donald J. Trump,17
+Herkimer,Salisbury ED 2,President,,WOR,Kamala D. Harris,5
+Herkimer,Schuyler ED 1,President,,REP,Donald J. Trump,614
+Herkimer,Schuyler ED 1,President,,DEM,Kamala D. Harris,255
+Herkimer,Schuyler ED 1,President,,CON,Donald J. Trump,60
+Herkimer,Schuyler ED 1,President,,WOR,Kamala D. Harris,17
+Herkimer,Schuyler ED 1,President,,,Write-in,2
+Herkimer,Schuyler ED 2,President,,REP,Donald J. Trump,452
+Herkimer,Schuyler ED 2,President,,DEM,Kamala D. Harris,179
+Herkimer,Schuyler ED 2,President,,CON,Donald J. Trump,39
+Herkimer,Schuyler ED 2,President,,WOR,Kamala D. Harris,24
+Herkimer,Stark ED 1,President,,REP,Donald J. Trump,206
+Herkimer,Stark ED 1,President,,DEM,Kamala D. Harris,104
+Herkimer,Stark ED 1,President,,CON,Donald J. Trump,12
+Herkimer,Stark ED 1,President,,WOR,Kamala D. Harris,7
+Herkimer,Stark ED 1,President,,,Write-in,2
+Herkimer,Little Falls ED 1,President,,REP,Donald J. Trump,542
+Herkimer,Little Falls ED 1,President,,DEM,Kamala D. Harris,215
+Herkimer,Little Falls ED 1,President,,CON,Donald J. Trump,47
+Herkimer,Little Falls ED 1,President,,WOR,Kamala D. Harris,12
+Herkimer,Warren ED 1,President,,REP,Donald J. Trump,307
+Herkimer,Warren ED 1,President,,DEM,Kamala D. Harris,120
+Herkimer,Warren ED 1,President,,CON,Donald J. Trump,53
+Herkimer,Warren ED 1,President,,WOR,Kamala D. Harris,5
+Herkimer,Warren ED 1,President,,,Write-in,2
+Herkimer,Webb ED 1,President,,REP,Donald J. Trump,499
+Herkimer,Webb ED 1,President,,DEM,Kamala D. Harris,420
+Herkimer,Webb ED 1,President,,CON,Donald J. Trump,52
+Herkimer,Webb ED 1,President,,WOR,Kamala D. Harris,33
+Herkimer,Webb ED 1,President,,,Write-in,1
+Herkimer,Webb ED 2,President,,REP,Donald J. Trump,108
+Herkimer,Webb ED 2,President,,DEM,Kamala D. Harris,88
+Herkimer,Webb ED 2,President,,CON,Donald J. Trump,13
+Herkimer,Webb ED 2,President,,WOR,Kamala D. Harris,2
+Herkimer,Webb ED 2,President,,,Write-in,1
+Herkimer,Winfield ED 1,President,,REP,Donald J. Trump,589
+Herkimer,Winfield ED 1,President,,DEM,Kamala D. Harris,287
+Herkimer,Winfield ED 1,President,,CON,Donald J. Trump,79
+Herkimer,Winfield ED 1,President,,WOR,Kamala D. Harris,20
+Herkimer,Winfield ED 1,President,,,Write-in,2
+Herkimer,Little Falls Ward 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,243
+Herkimer,Little Falls Ward 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,28
+Herkimer,Little Falls Ward 1,U.S. Senate,,REP,Michael D. Sapraicone,215
+Herkimer,Little Falls Ward 1,U.S. Senate,,CON,Michael D. Sapraicone,30
+Herkimer,Little Falls Ward 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,304
+Herkimer,Little Falls Ward 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,26
+Herkimer,Little Falls Ward 2,U.S. Senate,,REP,Michael D. Sapraicone,261
+Herkimer,Little Falls Ward 2,U.S. Senate,,CON,Michael D. Sapraicone,30
+Herkimer,Little Falls Ward 2,U.S. Senate,,LAR,Diane Sare,3
+Herkimer,Little Falls Ward 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,191
+Herkimer,Little Falls Ward 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Herkimer,Little Falls Ward 3,U.S. Senate,,REP,Michael D. Sapraicone,157
+Herkimer,Little Falls Ward 3,U.S. Senate,,CON,Michael D. Sapraicone,29
+Herkimer,Little Falls Ward 3,U.S. Senate,,LAR,Diane Sare,2
+Herkimer,Little Falls Ward 3,U.S. Senate,,,Write-in,1
+Herkimer,Little Falls Ward 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,135
+Herkimer,Little Falls Ward 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,15
+Herkimer,Little Falls Ward 4,U.S. Senate,,REP,Michael D. Sapraicone,143
+Herkimer,Little Falls Ward 4,U.S. Senate,,CON,Michael D. Sapraicone,19
+Herkimer,Columbia ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,124
+Herkimer,Columbia ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,23
+Herkimer,Columbia ED 1,U.S. Senate,,REP,Michael D. Sapraicone,477
+Herkimer,Columbia ED 1,U.S. Senate,,CON,Michael D. Sapraicone,67
+Herkimer,Columbia ED 1,U.S. Senate,,LAR,Diane Sare,4
+Herkimer,Columbia ED 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,16
+Herkimer,Columbia ED 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,4
+Herkimer,Columbia ED 2,U.S. Senate,,REP,Michael D. Sapraicone,91
+Herkimer,Columbia ED 2,U.S. Senate,,CON,Michael D. Sapraicone,7
+Herkimer,Danube ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,98
+Herkimer,Danube ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,19
+Herkimer,Danube ED 1,U.S. Senate,,REP,Michael D. Sapraicone,298
+Herkimer,Danube ED 1,U.S. Senate,,CON,Michael D. Sapraicone,18
+Herkimer,Danube ED 1,U.S. Senate,,LAR,Diane Sare,1
+Herkimer,Fairfield ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,163
+Herkimer,Fairfield ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Herkimer,Fairfield ED 1,U.S. Senate,,REP,Michael D. Sapraicone,505
+Herkimer,Fairfield ED 1,U.S. Senate,,CON,Michael D. Sapraicone,49
+Herkimer,Fairfield ED 1,U.S. Senate,,LAR,Diane Sare,2
+Herkimer,Frankfort ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,105
+Herkimer,Frankfort ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Herkimer,Frankfort ED 1,U.S. Senate,,REP,Michael D. Sapraicone,242
+Herkimer,Frankfort ED 1,U.S. Senate,,CON,Michael D. Sapraicone,20
+Herkimer,Frankfort ED 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,136
+Herkimer,Frankfort ED 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Herkimer,Frankfort ED 2,U.S. Senate,,REP,Michael D. Sapraicone,250
+Herkimer,Frankfort ED 2,U.S. Senate,,CON,Michael D. Sapraicone,23
+Herkimer,Frankfort ED 2,U.S. Senate,,LAR,Diane Sare,3
+Herkimer,Frankfort ED 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,379
+Herkimer,Frankfort ED 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,37
+Herkimer,Frankfort ED 3,U.S. Senate,,REP,Michael D. Sapraicone,731
+Herkimer,Frankfort ED 3,U.S. Senate,,CON,Michael D. Sapraicone,76
+Herkimer,Frankfort ED 3,U.S. Senate,,LAR,Diane Sare,4
+Herkimer,Frankfort ED 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,409
+Herkimer,Frankfort ED 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,34
+Herkimer,Frankfort ED 4,U.S. Senate,,REP,Michael D. Sapraicone,872
+Herkimer,Frankfort ED 4,U.S. Senate,,CON,Michael D. Sapraicone,99
+Herkimer,Frankfort ED 4,U.S. Senate,,LAR,Diane Sare,5
+Herkimer,Frankfort ED 4,U.S. Senate,,,Write-in,1
+Herkimer,German Flatts ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,51
+Herkimer,German Flatts ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,8
+Herkimer,German Flatts ED 1,U.S. Senate,,REP,Michael D. Sapraicone,136
+Herkimer,German Flatts ED 1,U.S. Senate,,CON,Michael D. Sapraicone,21
+Herkimer,German Flatts ED 1,U.S. Senate,,LAR,Diane Sare,2
+Herkimer,German Flatts ED 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,136
+Herkimer,German Flatts ED 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,22
+Herkimer,German Flatts ED 2,U.S. Senate,,REP,Michael D. Sapraicone,222
+Herkimer,German Flatts ED 2,U.S. Senate,,CON,Michael D. Sapraicone,29
+Herkimer,German Flatts ED 2,U.S. Senate,,LAR,Diane Sare,1
+Herkimer,German Flatts ED 2,U.S. Senate,,,Write-in,1
+Herkimer,German Flatts ED 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,360
+Herkimer,German Flatts ED 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,47
+Herkimer,German Flatts ED 3,U.S. Senate,,REP,Michael D. Sapraicone,628
+Herkimer,German Flatts ED 3,U.S. Senate,,CON,Michael D. Sapraicone,61
+Herkimer,German Flatts ED 3,U.S. Senate,,LAR,Diane Sare,5
+Herkimer,German Flatts ED 3,U.S. Senate,,,Write-in,2
+Herkimer,German Flatts ED 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,143
+Herkimer,German Flatts ED 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,25
+Herkimer,German Flatts ED 4,U.S. Senate,,REP,Michael D. Sapraicone,196
+Herkimer,German Flatts ED 4,U.S. Senate,,CON,Michael D. Sapraicone,30
+Herkimer,German Flatts ED 4,U.S. Senate,,LAR,Diane Sare,1
+Herkimer,German Flatts ED 4,U.S. Senate,,,Write-in,1
+Herkimer,German Flatts ED 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,121
+Herkimer,German Flatts ED 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,11
+Herkimer,German Flatts ED 5,U.S. Senate,,REP,Michael D. Sapraicone,169
+Herkimer,German Flatts ED 5,U.S. Senate,,CON,Michael D. Sapraicone,18
+Herkimer,German Flatts ED 5,U.S. Senate,,LAR,Diane Sare,2
+Herkimer,German Flatts ED 6,U.S. Senate,,DEM,Kirsten E. Gillibrand,460
+Herkimer,German Flatts ED 6,U.S. Senate,,WOR,Kirsten E. Gillibrand,40
+Herkimer,German Flatts ED 6,U.S. Senate,,REP,Michael D. Sapraicone,624
+Herkimer,German Flatts ED 6,U.S. Senate,,CON,Michael D. Sapraicone,64
+Herkimer,German Flatts ED 6,U.S. Senate,,LAR,Diane Sare,7
+Herkimer,German Flatts ED 6,U.S. Senate,,,Write-in,1
+Herkimer,German Flatts ED 7,U.S. Senate,,DEM,Kirsten E. Gillibrand,99
+Herkimer,German Flatts ED 7,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Herkimer,German Flatts ED 7,U.S. Senate,,REP,Michael D. Sapraicone,188
+Herkimer,German Flatts ED 7,U.S. Senate,,CON,Michael D. Sapraicone,19
+Herkimer,German Flatts ED 7,U.S. Senate,,LAR,Diane Sare,5
+Herkimer,German Flatts ED 8,U.S. Senate,,DEM,Kirsten E. Gillibrand,371
+Herkimer,German Flatts ED 8,U.S. Senate,,WOR,Kirsten E. Gillibrand,44
+Herkimer,German Flatts ED 8,U.S. Senate,,REP,Michael D. Sapraicone,635
+Herkimer,German Flatts ED 8,U.S. Senate,,CON,Michael D. Sapraicone,85
+Herkimer,German Flatts ED 8,U.S. Senate,,LAR,Diane Sare,5
+Herkimer,German Flatts ED 8,U.S. Senate,,,Write-in,2
+Herkimer,Herkimer ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,317
+Herkimer,Herkimer ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,35
+Herkimer,Herkimer ED 1,U.S. Senate,,REP,Michael D. Sapraicone,575
+Herkimer,Herkimer ED 1,U.S. Senate,,CON,Michael D. Sapraicone,56
+Herkimer,Herkimer ED 1,U.S. Senate,,LAR,Diane Sare,3
+Herkimer,Herkimer ED 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,184
+Herkimer,Herkimer ED 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Herkimer,Herkimer ED 2,U.S. Senate,,REP,Michael D. Sapraicone,235
+Herkimer,Herkimer ED 2,U.S. Senate,,CON,Michael D. Sapraicone,29
+Herkimer,Herkimer ED 2,U.S. Senate,,LAR,Diane Sare,1
+Herkimer,Herkimer ED 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,212
+Herkimer,Herkimer ED 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,28
+Herkimer,Herkimer ED 3,U.S. Senate,,REP,Michael D. Sapraicone,238
+Herkimer,Herkimer ED 3,U.S. Senate,,CON,Michael D. Sapraicone,28
+Herkimer,Herkimer ED 3,U.S. Senate,,LAR,Diane Sare,5
+Herkimer,Herkimer ED 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,217
+Herkimer,Herkimer ED 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Herkimer,Herkimer ED 4,U.S. Senate,,REP,Michael D. Sapraicone,344
+Herkimer,Herkimer ED 4,U.S. Senate,,CON,Michael D. Sapraicone,35
+Herkimer,Herkimer ED 4,U.S. Senate,,LAR,Diane Sare,3
+Herkimer,Herkimer ED 4,U.S. Senate,,,Write-in,2
+Herkimer,Herkimer ED 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,396
+Herkimer,Herkimer ED 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,48
+Herkimer,Herkimer ED 5,U.S. Senate,,REP,Michael D. Sapraicone,570
+Herkimer,Herkimer ED 5,U.S. Senate,,CON,Michael D. Sapraicone,77
+Herkimer,Herkimer ED 5,U.S. Senate,,LAR,Diane Sare,1
+Herkimer,Litchfield ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,163
+Herkimer,Litchfield ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,24
+Herkimer,Litchfield ED 1,U.S. Senate,,REP,Michael D. Sapraicone,522
+Herkimer,Litchfield ED 1,U.S. Senate,,CON,Michael D. Sapraicone,58
+Herkimer,Litchfield ED 1,U.S. Senate,,LAR,Diane Sare,1
+Herkimer,Manheim ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,280
+Herkimer,Manheim ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,36
+Herkimer,Manheim ED 1,U.S. Senate,,REP,Michael D. Sapraicone,597
+Herkimer,Manheim ED 1,U.S. Senate,,CON,Michael D. Sapraicone,79
+Herkimer,Manheim ED 1,U.S. Senate,,LAR,Diane Sare,3
+Herkimer,Manheim ED 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,104
+Herkimer,Manheim ED 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,11
+Herkimer,Manheim ED 2,U.S. Senate,,REP,Michael D. Sapraicone,181
+Herkimer,Manheim ED 2,U.S. Senate,,CON,Michael D. Sapraicone,24
+Herkimer,Manheim ED 2,U.S. Senate,,LAR,Diane Sare,3
+Herkimer,Newport ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,244
+Herkimer,Newport ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,37
+Herkimer,Newport ED 1,U.S. Senate,,REP,Michael D. Sapraicone,557
+Herkimer,Newport ED 1,U.S. Senate,,CON,Michael D. Sapraicone,73
+Herkimer,Newport ED 1,U.S. Senate,,LAR,Diane Sare,3
+Herkimer,Newport ED 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,33
+Herkimer,Newport ED 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,3
+Herkimer,Newport ED 2,U.S. Senate,,REP,Michael D. Sapraicone,64
+Herkimer,Newport ED 2,U.S. Senate,,CON,Michael D. Sapraicone,6
+Herkimer,Newport ED 2,U.S. Senate,,LAR,Diane Sare,2
+Herkimer,Norway ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,87
+Herkimer,Norway ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,14
+Herkimer,Norway ED 1,U.S. Senate,,REP,Michael D. Sapraicone,286
+Herkimer,Norway ED 1,U.S. Senate,,CON,Michael D. Sapraicone,24
+Herkimer,Norway ED 1,U.S. Senate,,LAR,Diane Sare,1
+Herkimer,Ohio ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,110
+Herkimer,Ohio ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,13
+Herkimer,Ohio ED 1,U.S. Senate,,REP,Michael D. Sapraicone,416
+Herkimer,Ohio ED 1,U.S. Senate,,CON,Michael D. Sapraicone,38
+Herkimer,Ohio ED 1,U.S. Senate,,LAR,Diane Sare,2
+Herkimer,Russia ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,241
+Herkimer,Russia ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,30
+Herkimer,Russia ED 1,U.S. Senate,,REP,Michael D. Sapraicone,479
+Herkimer,Russia ED 1,U.S. Senate,,CON,Michael D. Sapraicone,76
+Herkimer,Russia ED 1,U.S. Senate,,LAR,Diane Sare,3
+Herkimer,Russia ED 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,90
+Herkimer,Russia ED 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Herkimer,Russia ED 2,U.S. Senate,,REP,Michael D. Sapraicone,226
+Herkimer,Russia ED 2,U.S. Senate,,CON,Michael D. Sapraicone,28
+Herkimer,Salisbury ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,118
+Herkimer,Salisbury ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,29
+Herkimer,Salisbury ED 1,U.S. Senate,,REP,Michael D. Sapraicone,486
+Herkimer,Salisbury ED 1,U.S. Senate,,CON,Michael D. Sapraicone,48
+Herkimer,Salisbury ED 1,U.S. Senate,,LAR,Diane Sare,4
+Herkimer,Salisbury ED 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,44
+Herkimer,Salisbury ED 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,12
+Herkimer,Salisbury ED 2,U.S. Senate,,REP,Michael D. Sapraicone,137
+Herkimer,Salisbury ED 2,U.S. Senate,,CON,Michael D. Sapraicone,20
+Herkimer,Salisbury ED 2,U.S. Senate,,LAR,Diane Sare,1
+Herkimer,Schuyler ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,278
+Herkimer,Schuyler ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,35
+Herkimer,Schuyler ED 1,U.S. Senate,,REP,Michael D. Sapraicone,548
+Herkimer,Schuyler ED 1,U.S. Senate,,CON,Michael D. Sapraicone,49
+Herkimer,Schuyler ED 1,U.S. Senate,,LAR,Diane Sare,6
+Herkimer,Schuyler ED 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,187
+Herkimer,Schuyler ED 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,36
+Herkimer,Schuyler ED 2,U.S. Senate,,REP,Michael D. Sapraicone,399
+Herkimer,Schuyler ED 2,U.S. Senate,,CON,Michael D. Sapraicone,22
+Herkimer,Schuyler ED 2,U.S. Senate,,LAR,Diane Sare,4
+Herkimer,Stark ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,118
+Herkimer,Stark ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,18
+Herkimer,Stark ED 1,U.S. Senate,,REP,Michael D. Sapraicone,178
+Herkimer,Stark ED 1,U.S. Senate,,CON,Michael D. Sapraicone,11
+Herkimer,Little Falls ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,216
+Herkimer,Little Falls ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Herkimer,Little Falls ED 1,U.S. Senate,,REP,Michael D. Sapraicone,494
+Herkimer,Little Falls ED 1,U.S. Senate,,CON,Michael D. Sapraicone,44
+Herkimer,Little Falls ED 1,U.S. Senate,,LAR,Diane Sare,2
+Herkimer,Warren ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,132
+Herkimer,Warren ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,18
+Herkimer,Warren ED 1,U.S. Senate,,REP,Michael D. Sapraicone,287
+Herkimer,Warren ED 1,U.S. Senate,,CON,Michael D. Sapraicone,44
+Herkimer,Warren ED 1,U.S. Senate,,LAR,Diane Sare,2
+Herkimer,Warren ED 1,U.S. Senate,,,Write-in,2
+Herkimer,Webb ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,402
+Herkimer,Webb ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,43
+Herkimer,Webb ED 1,U.S. Senate,,REP,Michael D. Sapraicone,464
+Herkimer,Webb ED 1,U.S. Senate,,CON,Michael D. Sapraicone,45
+Herkimer,Webb ED 1,U.S. Senate,,LAR,Diane Sare,5
+Herkimer,Webb ED 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,85
+Herkimer,Webb ED 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,4
+Herkimer,Webb ED 2,U.S. Senate,,REP,Michael D. Sapraicone,103
+Herkimer,Webb ED 2,U.S. Senate,,CON,Michael D. Sapraicone,12
+Herkimer,Winfield ED 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,289
+Herkimer,Winfield ED 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,46
+Herkimer,Winfield ED 1,U.S. Senate,,REP,Michael D. Sapraicone,534
+Herkimer,Winfield ED 1,U.S. Senate,,CON,Michael D. Sapraicone,86
+Herkimer,Winfield ED 1,U.S. Senate,,LAR,Diane Sare,2
+Herkimer,Little Falls Ward 1,U.S. House,21,DEM,Paula Collins,216
+Herkimer,Little Falls Ward 1,U.S. House,21,WOR,Paula Collins,20
+Herkimer,Little Falls Ward 1,U.S. House,21,REP,Elise Stefanik,247
+Herkimer,Little Falls Ward 1,U.S. House,21,CON,Elise Stefanik,35
+Herkimer,Little Falls Ward 2,U.S. House,21,DEM,Paula Collins,290
+Herkimer,Little Falls Ward 2,U.S. House,21,WOR,Paula Collins,21
+Herkimer,Little Falls Ward 2,U.S. House,21,REP,Elise Stefanik,286
+Herkimer,Little Falls Ward 2,U.S. House,21,CON,Elise Stefanik,36
+Herkimer,Little Falls Ward 3,U.S. House,21,DEM,Paula Collins,177
+Herkimer,Little Falls Ward 3,U.S. House,21,WOR,Paula Collins,16
+Herkimer,Little Falls Ward 3,U.S. House,21,REP,Elise Stefanik,181
+Herkimer,Little Falls Ward 3,U.S. House,21,CON,Elise Stefanik,32
+Herkimer,Little Falls Ward 4,U.S. House,21,DEM,Paula Collins,119
+Herkimer,Little Falls Ward 4,U.S. House,21,WOR,Paula Collins,15
+Herkimer,Little Falls Ward 4,U.S. House,21,REP,Elise Stefanik,152
+Herkimer,Little Falls Ward 4,U.S. House,21,CON,Elise Stefanik,22
+Herkimer,Columbia ED 1,U.S. House,21,DEM,Paula Collins,106
+Herkimer,Columbia ED 1,U.S. House,21,WOR,Paula Collins,14
+Herkimer,Columbia ED 1,U.S. House,21,REP,Elise Stefanik,509
+Herkimer,Columbia ED 1,U.S. House,21,CON,Elise Stefanik,77
+Herkimer,Columbia ED 2,U.S. House,21,DEM,Paula Collins,14
+Herkimer,Columbia ED 2,U.S. House,21,WOR,Paula Collins,3
+Herkimer,Columbia ED 2,U.S. House,21,REP,Elise Stefanik,97
+Herkimer,Columbia ED 2,U.S. House,21,CON,Elise Stefanik,7
+Herkimer,Danube ED 1,U.S. House,21,DEM,Paula Collins,79
+Herkimer,Danube ED 1,U.S. House,21,WOR,Paula Collins,13
+Herkimer,Danube ED 1,U.S. House,21,REP,Elise Stefanik,327
+Herkimer,Danube ED 1,U.S. House,21,CON,Elise Stefanik,27
+Herkimer,Fairfield ED 1,U.S. House,21,DEM,Paula Collins,139
+Herkimer,Fairfield ED 1,U.S. House,21,WOR,Paula Collins,10
+Herkimer,Fairfield ED 1,U.S. House,21,REP,Elise Stefanik,544
+Herkimer,Fairfield ED 1,U.S. House,21,CON,Elise Stefanik,56
+Herkimer,Frankfort ED 1,U.S. House,21,DEM,Paula Collins,85
+Herkimer,Frankfort ED 1,U.S. House,21,WOR,Paula Collins,11
+Herkimer,Frankfort ED 1,U.S. House,21,REP,Elise Stefanik,264
+Herkimer,Frankfort ED 1,U.S. House,21,CON,Elise Stefanik,26
+Herkimer,Frankfort ED 2,U.S. House,21,DEM,Paula Collins,120
+Herkimer,Frankfort ED 2,U.S. House,21,WOR,Paula Collins,16
+Herkimer,Frankfort ED 2,U.S. House,21,REP,Elise Stefanik,263
+Herkimer,Frankfort ED 2,U.S. House,21,CON,Elise Stefanik,27
+Herkimer,Frankfort ED 3,U.S. House,21,DEM,Paula Collins,325
+Herkimer,Frankfort ED 3,U.S. House,21,WOR,Paula Collins,23
+Herkimer,Frankfort ED 3,U.S. House,21,REP,Elise Stefanik,789
+Herkimer,Frankfort ED 3,U.S. House,21,CON,Elise Stefanik,89
+Herkimer,Frankfort ED 4,U.S. House,21,DEM,Paula Collins,336
+Herkimer,Frankfort ED 4,U.S. House,21,WOR,Paula Collins,25
+Herkimer,Frankfort ED 4,U.S. House,21,REP,Elise Stefanik,949
+Herkimer,Frankfort ED 4,U.S. House,21,CON,Elise Stefanik,112
+Herkimer,German Flatts ED 1,U.S. House,21,DEM,Paula Collins,44
+Herkimer,German Flatts ED 1,U.S. House,21,WOR,Paula Collins,6
+Herkimer,German Flatts ED 1,U.S. House,21,REP,Elise Stefanik,144
+Herkimer,German Flatts ED 1,U.S. House,21,CON,Elise Stefanik,26
+Herkimer,German Flatts ED 2,U.S. House,21,DEM,Paula Collins,111
+Herkimer,German Flatts ED 2,U.S. House,21,WOR,Paula Collins,13
+Herkimer,German Flatts ED 2,U.S. House,21,REP,Elise Stefanik,267
+Herkimer,German Flatts ED 2,U.S. House,21,CON,Elise Stefanik,27
+Herkimer,German Flatts ED 3,U.S. House,21,DEM,Paula Collins,301
+Herkimer,German Flatts ED 3,U.S. House,21,WOR,Paula Collins,38
+Herkimer,German Flatts ED 3,U.S. House,21,REP,Elise Stefanik,697
+Herkimer,German Flatts ED 3,U.S. House,21,CON,Elise Stefanik,66
+Herkimer,German Flatts ED 3,U.S. House,21,,Write-in,1
+Herkimer,German Flatts ED 4,U.S. House,21,DEM,Paula Collins,117
+Herkimer,German Flatts ED 4,U.S. House,21,WOR,Paula Collins,11
+Herkimer,German Flatts ED 4,U.S. House,21,REP,Elise Stefanik,230
+Herkimer,German Flatts ED 4,U.S. House,21,CON,Elise Stefanik,34
+Herkimer,German Flatts ED 5,U.S. House,21,DEM,Paula Collins,101
+Herkimer,German Flatts ED 5,U.S. House,21,WOR,Paula Collins,8
+Herkimer,German Flatts ED 5,U.S. House,21,REP,Elise Stefanik,190
+Herkimer,German Flatts ED 5,U.S. House,21,CON,Elise Stefanik,22
+Herkimer,German Flatts ED 6,U.S. House,21,DEM,Paula Collins,396
+Herkimer,German Flatts ED 6,U.S. House,21,WOR,Paula Collins,44
+Herkimer,German Flatts ED 6,U.S. House,21,REP,Elise Stefanik,685
+Herkimer,German Flatts ED 6,U.S. House,21,CON,Elise Stefanik,70
+Herkimer,German Flatts ED 6,U.S. House,21,,Write-in,1
+Herkimer,German Flatts ED 7,U.S. House,21,DEM,Paula Collins,85
+Herkimer,German Flatts ED 7,U.S. House,21,WOR,Paula Collins,12
+Herkimer,German Flatts ED 7,U.S. House,21,REP,Elise Stefanik,209
+Herkimer,German Flatts ED 7,U.S. House,21,CON,Elise Stefanik,23
+Herkimer,German Flatts ED 8,U.S. House,21,DEM,Paula Collins,322
+Herkimer,German Flatts ED 8,U.S. House,21,WOR,Paula Collins,35
+Herkimer,German Flatts ED 8,U.S. House,21,REP,Elise Stefanik,692
+Herkimer,German Flatts ED 8,U.S. House,21,CON,Elise Stefanik,95
+Herkimer,German Flatts ED 8,U.S. House,21,,Write-in,1
+Herkimer,Herkimer ED 1,U.S. House,21,DEM,Paula Collins,273
+Herkimer,Herkimer ED 1,U.S. House,21,WOR,Paula Collins,20
+Herkimer,Herkimer ED 1,U.S. House,21,REP,Elise Stefanik,639
+Herkimer,Herkimer ED 1,U.S. House,21,CON,Elise Stefanik,59
+Herkimer,Herkimer ED 2,U.S. House,21,DEM,Paula Collins,166
+Herkimer,Herkimer ED 2,U.S. House,21,WOR,Paula Collins,12
+Herkimer,Herkimer ED 2,U.S. House,21,REP,Elise Stefanik,254
+Herkimer,Herkimer ED 2,U.S. House,21,CON,Elise Stefanik,34
+Herkimer,Herkimer ED 3,U.S. House,21,DEM,Paula Collins,180
+Herkimer,Herkimer ED 3,U.S. House,21,WOR,Paula Collins,23
+Herkimer,Herkimer ED 3,U.S. House,21,REP,Elise Stefanik,280
+Herkimer,Herkimer ED 3,U.S. House,21,CON,Elise Stefanik,34
+Herkimer,Herkimer ED 4,U.S. House,21,DEM,Paula Collins,164
+Herkimer,Herkimer ED 4,U.S. House,21,WOR,Paula Collins,22
+Herkimer,Herkimer ED 4,U.S. House,21,REP,Elise Stefanik,403
+Herkimer,Herkimer ED 4,U.S. House,21,CON,Elise Stefanik,45
+Herkimer,Herkimer ED 4,U.S. House,21,,Write-in,1
+Herkimer,Herkimer ED 5,U.S. House,21,DEM,Paula Collins,342
+Herkimer,Herkimer ED 5,U.S. House,21,WOR,Paula Collins,36
+Herkimer,Herkimer ED 5,U.S. House,21,REP,Elise Stefanik,644
+Herkimer,Herkimer ED 5,U.S. House,21,CON,Elise Stefanik,77
+Herkimer,Litchfield ED 1,U.S. House,21,DEM,Paula Collins,143
+Herkimer,Litchfield ED 1,U.S. House,21,WOR,Paula Collins,16
+Herkimer,Litchfield ED 1,U.S. House,21,REP,Elise Stefanik,548
+Herkimer,Litchfield ED 1,U.S. House,21,CON,Elise Stefanik,59
+Herkimer,Manheim ED 1,U.S. House,21,DEM,Paula Collins,253
+Herkimer,Manheim ED 1,U.S. House,21,WOR,Paula Collins,17
+Herkimer,Manheim ED 1,U.S. House,21,REP,Elise Stefanik,663
+Herkimer,Manheim ED 1,U.S. House,21,CON,Elise Stefanik,91
+Herkimer,Manheim ED 2,U.S. House,21,DEM,Paula Collins,99
+Herkimer,Manheim ED 2,U.S. House,21,WOR,Paula Collins,9
+Herkimer,Manheim ED 2,U.S. House,21,REP,Elise Stefanik,194
+Herkimer,Manheim ED 2,U.S. House,21,CON,Elise Stefanik,25
+Herkimer,Manheim ED 2,U.S. House,21,,Write-in,2
+Herkimer,Newport ED 1,U.S. House,21,DEM,Paula Collins,197
+Herkimer,Newport ED 1,U.S. House,21,WOR,Paula Collins,22
+Herkimer,Newport ED 1,U.S. House,21,REP,Elise Stefanik,618
+Herkimer,Newport ED 1,U.S. House,21,CON,Elise Stefanik,82
+Herkimer,Newport ED 2,U.S. House,21,DEM,Paula Collins,30
+Herkimer,Newport ED 2,U.S. House,21,WOR,Paula Collins,2
+Herkimer,Newport ED 2,U.S. House,21,REP,Elise Stefanik,69
+Herkimer,Newport ED 2,U.S. House,21,CON,Elise Stefanik,7
+Herkimer,Norway ED 1,U.S. House,21,DEM,Paula Collins,73
+Herkimer,Norway ED 1,U.S. House,21,WOR,Paula Collins,8
+Herkimer,Norway ED 1,U.S. House,21,REP,Elise Stefanik,313
+Herkimer,Norway ED 1,U.S. House,21,CON,Elise Stefanik,24
+Herkimer,Ohio ED 1,U.S. House,21,DEM,Paula Collins,98
+Herkimer,Ohio ED 1,U.S. House,21,WOR,Paula Collins,10
+Herkimer,Ohio ED 1,U.S. House,21,REP,Elise Stefanik,439
+Herkimer,Ohio ED 1,U.S. House,21,CON,Elise Stefanik,45
+Herkimer,Russia ED 1,U.S. House,21,DEM,Paula Collins,216
+Herkimer,Russia ED 1,U.S. House,21,WOR,Paula Collins,19
+Herkimer,Russia ED 1,U.S. House,21,REP,Elise Stefanik,527
+Herkimer,Russia ED 1,U.S. House,21,CON,Elise Stefanik,85
+Herkimer,Russia ED 1,U.S. House,21,,Write-in,1
+Herkimer,Russia ED 2,U.S. House,21,DEM,Paula Collins,72
+Herkimer,Russia ED 2,U.S. House,21,WOR,Paula Collins,10
+Herkimer,Russia ED 2,U.S. House,21,REP,Elise Stefanik,254
+Herkimer,Russia ED 2,U.S. House,21,CON,Elise Stefanik,29
+Herkimer,Salisbury ED 1,U.S. House,21,DEM,Paula Collins,95
+Herkimer,Salisbury ED 1,U.S. House,21,WOR,Paula Collins,15
+Herkimer,Salisbury ED 1,U.S. House,21,REP,Elise Stefanik,522
+Herkimer,Salisbury ED 1,U.S. House,21,CON,Elise Stefanik,53
+Herkimer,Salisbury ED 2,U.S. House,21,DEM,Paula Collins,35
+Herkimer,Salisbury ED 2,U.S. House,21,WOR,Paula Collins,6
+Herkimer,Salisbury ED 2,U.S. House,21,REP,Elise Stefanik,159
+Herkimer,Salisbury ED 2,U.S. House,21,CON,Elise Stefanik,21
+Herkimer,Schuyler ED 1,U.S. House,21,DEM,Paula Collins,222
+Herkimer,Schuyler ED 1,U.S. House,21,WOR,Paula Collins,22
+Herkimer,Schuyler ED 1,U.S. House,21,REP,Elise Stefanik,614
+Herkimer,Schuyler ED 1,U.S. House,21,CON,Elise Stefanik,59
+Herkimer,Schuyler ED 2,U.S. House,21,DEM,Paula Collins,144
+Herkimer,Schuyler ED 2,U.S. House,21,WOR,Paula Collins,24
+Herkimer,Schuyler ED 2,U.S. House,21,REP,Elise Stefanik,452
+Herkimer,Schuyler ED 2,U.S. House,21,CON,Elise Stefanik,32
+Herkimer,Stark ED 1,U.S. House,21,DEM,Paula Collins,93
+Herkimer,Stark ED 1,U.S. House,21,WOR,Paula Collins,9
+Herkimer,Stark ED 1,U.S. House,21,REP,Elise Stefanik,212
+Herkimer,Stark ED 1,U.S. House,21,CON,Elise Stefanik,15
+Herkimer,Little Falls ED 1,U.S. House,21,DEM,Paula Collins,178
+Herkimer,Little Falls ED 1,U.S. House,21,WOR,Paula Collins,17
+Herkimer,Little Falls ED 1,U.S. House,21,REP,Elise Stefanik,529
+Herkimer,Little Falls ED 1,U.S. House,21,CON,Elise Stefanik,57
+Herkimer,Warren ED 1,U.S. House,21,DEM,Paula Collins,115
+Herkimer,Warren ED 1,U.S. House,21,WOR,Paula Collins,11
+Herkimer,Warren ED 1,U.S. House,21,REP,Elise Stefanik,307
+Herkimer,Warren ED 1,U.S. House,21,CON,Elise Stefanik,54
+Herkimer,Webb ED 1,U.S. House,21,DEM,Paula Collins,354
+Herkimer,Webb ED 1,U.S. House,21,WOR,Paula Collins,37
+Herkimer,Webb ED 1,U.S. House,21,REP,Elise Stefanik,529
+Herkimer,Webb ED 1,U.S. House,21,CON,Elise Stefanik,50
+Herkimer,Webb ED 2,U.S. House,21,DEM,Paula Collins,79
+Herkimer,Webb ED 2,U.S. House,21,WOR,Paula Collins,2
+Herkimer,Webb ED 2,U.S. House,21,REP,Elise Stefanik,115
+Herkimer,Webb ED 2,U.S. House,21,CON,Elise Stefanik,13
+Herkimer,Winfield ED 1,U.S. House,21,DEM,Paula Collins,243
+Herkimer,Winfield ED 1,U.S. House,21,WOR,Paula Collins,27
+Herkimer,Winfield ED 1,U.S. House,21,REP,Elise Stefanik,597
+Herkimer,Winfield ED 1,U.S. House,21,CON,Elise Stefanik,89
+Herkimer,Little Falls Ward 1,State Senate,49,REP,Mark C. Walczyk,305
+Herkimer,Little Falls Ward 1,State Senate,49,CON,Mark C. Walczyk,55
+Herkimer,Little Falls Ward 1,State Senate,49,,Write-in,3
+Herkimer,Little Falls Ward 2,State Senate,49,REP,Mark C. Walczyk,355
+Herkimer,Little Falls Ward 2,State Senate,49,CON,Mark C. Walczyk,75
+Herkimer,Little Falls Ward 2,State Senate,49,,Write-in,6
+Herkimer,Little Falls Ward 3,State Senate,49,REP,Mark C. Walczyk,232
+Herkimer,Little Falls Ward 3,State Senate,49,CON,Mark C. Walczyk,60
+Herkimer,Little Falls Ward 3,State Senate,49,,Write-in,2
+Herkimer,Little Falls Ward 4,State Senate,49,REP,Mark C. Walczyk,191
+Herkimer,Little Falls Ward 4,State Senate,49,CON,Mark C. Walczyk,35
+Herkimer,Little Falls Ward 4,State Senate,49,,Write-in,1
+Herkimer,Danube ED 1,State Senate,49,REP,Mark C. Walczyk,334
+Herkimer,Danube ED 1,State Senate,49,CON,Mark C. Walczyk,29
+Herkimer,Danube ED 1,State Senate,49,,Write-in,1
+Herkimer,Fairfield ED 1,State Senate,49,REP,Mark C. Walczyk,562
+Herkimer,Fairfield ED 1,State Senate,49,CON,Mark C. Walczyk,62
+Herkimer,Fairfield ED 1,State Senate,49,,Write-in,1
+Herkimer,Frankfort ED 1,State Senate,49,REP,Mark C. Walczyk,283
+Herkimer,Frankfort ED 1,State Senate,49,CON,Mark C. Walczyk,36
+Herkimer,Frankfort ED 1,State Senate,49,,Write-in,2
+Herkimer,Frankfort ED 2,State Senate,49,REP,Mark C. Walczyk,290
+Herkimer,Frankfort ED 2,State Senate,49,CON,Mark C. Walczyk,41
+Herkimer,Frankfort ED 3,State Senate,49,REP,Mark C. Walczyk,868
+Herkimer,Frankfort ED 3,State Senate,49,CON,Mark C. Walczyk,121
+Herkimer,Frankfort ED 3,State Senate,49,,Write-in,1
+Herkimer,Frankfort ED 4,State Senate,49,REP,Mark C. Walczyk,989
+Herkimer,Frankfort ED 4,State Senate,49,CON,Mark C. Walczyk,159
+Herkimer,Frankfort ED 4,State Senate,49,,Write-in,4
+Herkimer,German Flatts ED 1,State Senate,49,REP,Mark C. Walczyk,153
+Herkimer,German Flatts ED 1,State Senate,49,CON,Mark C. Walczyk,30
+Herkimer,German Flatts ED 2,State Senate,49,REP,Mark C. Walczyk,303
+Herkimer,German Flatts ED 2,State Senate,49,CON,Mark C. Walczyk,47
+Herkimer,German Flatts ED 2,State Senate,49,,Write-in,2
+Herkimer,German Flatts ED 3,State Senate,49,REP,Mark C. Walczyk,805
+Herkimer,German Flatts ED 3,State Senate,49,CON,Mark C. Walczyk,99
+Herkimer,German Flatts ED 3,State Senate,49,,Write-in,5
+Herkimer,German Flatts ED 4,State Senate,49,REP,Mark C. Walczyk,270
+Herkimer,German Flatts ED 4,State Senate,49,CON,Mark C. Walczyk,54
+Herkimer,German Flatts ED 4,State Senate,49,,Write-in,3
+Herkimer,German Flatts ED 5,State Senate,49,REP,Mark C. Walczyk,219
+Herkimer,German Flatts ED 5,State Senate,49,CON,Mark C. Walczyk,42
+Herkimer,German Flatts ED 5,State Senate,49,,Write-in,2
+Herkimer,German Flatts ED 6,State Senate,49,REP,Mark C. Walczyk,823
+Herkimer,German Flatts ED 6,State Senate,49,CON,Mark C. Walczyk,134
+Herkimer,German Flatts ED 6,State Senate,49,,Write-in,3
+Herkimer,German Flatts ED 7,State Senate,49,REP,Mark C. Walczyk,226
+Herkimer,German Flatts ED 7,State Senate,49,CON,Mark C. Walczyk,37
+Herkimer,German Flatts ED 8,State Senate,49,REP,Mark C. Walczyk,814
+Herkimer,German Flatts ED 8,State Senate,49,CON,Mark C. Walczyk,118
+Herkimer,German Flatts ED 8,State Senate,49,,Write-in,4
+Herkimer,Herkimer ED 1,State Senate,49,REP,Mark C. Walczyk,697
+Herkimer,Herkimer ED 1,State Senate,49,CON,Mark C. Walczyk,91
+Herkimer,Herkimer ED 1,State Senate,49,,Write-in,4
+Herkimer,Herkimer ED 2,State Senate,49,REP,Mark C. Walczyk,285
+Herkimer,Herkimer ED 2,State Senate,49,CON,Mark C. Walczyk,59
+Herkimer,Herkimer ED 2,State Senate,49,,Write-in,2
+Herkimer,Herkimer ED 3,State Senate,49,REP,Mark C. Walczyk,314
+Herkimer,Herkimer ED 3,State Senate,49,CON,Mark C. Walczyk,58
+Herkimer,Herkimer ED 4,State Senate,49,REP,Mark C. Walczyk,445
+Herkimer,Herkimer ED 4,State Senate,49,CON,Mark C. Walczyk,97
+Herkimer,Herkimer ED 4,State Senate,49,,Write-in,2
+Herkimer,Herkimer ED 5,State Senate,49,REP,Mark C. Walczyk,721
+Herkimer,Herkimer ED 5,State Senate,49,CON,Mark C. Walczyk,128
+Herkimer,Herkimer ED 5,State Senate,49,,Write-in,2
+Herkimer,Manheim ED 1,State Senate,49,REP,Mark C. Walczyk,713
+Herkimer,Manheim ED 1,State Senate,49,CON,Mark C. Walczyk,124
+Herkimer,Manheim ED 1,State Senate,49,,Write-in,1
+Herkimer,Manheim ED 2,State Senate,49,REP,Mark C. Walczyk,220
+Herkimer,Manheim ED 2,State Senate,49,CON,Mark C. Walczyk,39
+Herkimer,Newport ED 1,State Senate,49,REP,Mark C. Walczyk,655
+Herkimer,Newport ED 1,State Senate,49,CON,Mark C. Walczyk,100
+Herkimer,Newport ED 1,State Senate,49,,Write-in,7
+Herkimer,Newport ED 2,State Senate,49,REP,Mark C. Walczyk,77
+Herkimer,Newport ED 2,State Senate,49,CON,Mark C. Walczyk,12
+Herkimer,Norway ED 1,State Senate,49,REP,Mark C. Walczyk,327
+Herkimer,Norway ED 1,State Senate,49,CON,Mark C. Walczyk,32
+Herkimer,Ohio ED 1,State Senate,49,REP,Mark C. Walczyk,445
+Herkimer,Ohio ED 1,State Senate,49,CON,Mark C. Walczyk,53
+Herkimer,Ohio ED 1,State Senate,49,,Write-in,2
+Herkimer,Russia ED 1,State Senate,49,REP,Mark C. Walczyk,549
+Herkimer,Russia ED 1,State Senate,49,CON,Mark C. Walczyk,108
+Herkimer,Russia ED 1,State Senate,49,,Write-in,1
+Herkimer,Russia ED 2,State Senate,49,REP,Mark C. Walczyk,261
+Herkimer,Russia ED 2,State Senate,49,CON,Mark C. Walczyk,39
+Herkimer,Salisbury ED 1,State Senate,49,REP,Mark C. Walczyk,542
+Herkimer,Salisbury ED 1,State Senate,49,CON,Mark C. Walczyk,67
+Herkimer,Salisbury ED 1,State Senate,49,,Write-in,3
+Herkimer,Salisbury ED 2,State Senate,49,REP,Mark C. Walczyk,153
+Herkimer,Salisbury ED 2,State Senate,49,CON,Mark C. Walczyk,31
+Herkimer,Schuyler ED 1,State Senate,49,REP,Mark C. Walczyk,653
+Herkimer,Schuyler ED 1,State Senate,49,CON,Mark C. Walczyk,94
+Herkimer,Schuyler ED 2,State Senate,49,REP,Mark C. Walczyk,484
+Herkimer,Schuyler ED 2,State Senate,49,CON,Mark C. Walczyk,62
+Herkimer,Schuyler ED 2,State Senate,49,,Write-in,1
+Herkimer,Stark ED 1,State Senate,49,REP,Mark C. Walczyk,231
+Herkimer,Stark ED 1,State Senate,49,CON,Mark C. Walczyk,31
+Herkimer,Little Falls ED 1,State Senate,49,REP,Mark C. Walczyk,533
+Herkimer,Little Falls ED 1,State Senate,49,CON,Mark C. Walczyk,83
+Herkimer,Little Falls ED 1,State Senate,49,,Write-in,4
+Herkimer,Warren ED 1,State Senate,49,REP,Mark C. Walczyk,325
+Herkimer,Warren ED 1,State Senate,49,CON,Mark C. Walczyk,69
+Herkimer,Warren ED 1,State Senate,49,,Write-in,3
+Herkimer,Webb ED 1,State Senate,49,REP,Mark C. Walczyk,592
+Herkimer,Webb ED 1,State Senate,49,CON,Mark C. Walczyk,98
+Herkimer,Webb ED 1,State Senate,49,,Write-in,5
+Herkimer,Webb ED 2,State Senate,49,REP,Mark C. Walczyk,131
+Herkimer,Webb ED 2,State Senate,49,CON,Mark C. Walczyk,21
+Herkimer,Webb ED 2,State Senate,49,,Write-in,1
+Herkimer,Winfield ED 1,State Senate,53,DEM,James Meyers,168
+Herkimer,Winfield ED 1,State Senate,53,REP,Joseph A. Griffo,668
+Herkimer,Winfield ED 1,State Senate,53,WOR,James Meyers,28
+Herkimer,Winfield ED 1,State Senate,53,CON,Joseph A. Griffo,98
+Herkimer,Columbia ED 1,State Senate,53,DEM,James Meyers,83
+Herkimer,Columbia ED 1,State Senate,53,REP,Joseph A. Griffo,537
+Herkimer,Columbia ED 1,State Senate,53,WOR,James Meyers,15
+Herkimer,Columbia ED 1,State Senate,53,CON,Joseph A. Griffo,78
+Herkimer,Columbia ED 2,State Senate,53,DEM,James Meyers,10
+Herkimer,Columbia ED 2,State Senate,53,REP,Joseph A. Griffo,101
+Herkimer,Columbia ED 2,State Senate,53,WOR,James Meyers,3
+Herkimer,Columbia ED 2,State Senate,53,CON,Joseph A. Griffo,6
+Herkimer,Litchfield ED 1,State Senate,53,DEM,James Meyers,104
+Herkimer,Litchfield ED 1,State Senate,53,REP,Joseph A. Griffo,598
+Herkimer,Litchfield ED 1,State Senate,53,WOR,James Meyers,15
+Herkimer,Litchfield ED 1,State Senate,53,CON,Joseph A. Griffo,63
+Herkimer,Little Falls Ward 1,State Assembly,118,REP,Robert Smullen,303
+Herkimer,Little Falls Ward 1,State Assembly,118,CON,Robert Smullen,62
+Herkimer,Little Falls Ward 1,State Assembly,118,,Write-in,3
+Herkimer,Little Falls Ward 2,State Assembly,118,REP,Robert Smullen,370
+Herkimer,Little Falls Ward 2,State Assembly,118,CON,Robert Smullen,73
+Herkimer,Little Falls Ward 2,State Assembly,118,,Write-in,4
+Herkimer,Little Falls Ward 3,State Assembly,118,REP,Robert Smullen,230
+Herkimer,Little Falls Ward 3,State Assembly,118,CON,Robert Smullen,62
+Herkimer,Little Falls Ward 3,State Assembly,118,,Write-in,2
+Herkimer,Little Falls Ward 4,State Assembly,118,REP,Robert Smullen,192
+Herkimer,Little Falls Ward 4,State Assembly,118,CON,Robert Smullen,37
+Herkimer,Little Falls Ward 4,State Assembly,118,,Write-in,2
+Herkimer,Columbia ED 1,State Assembly,118,REP,Robert Smullen,532
+Herkimer,Columbia ED 1,State Assembly,118,CON,Robert Smullen,78
+Herkimer,Columbia ED 1,State Assembly,118,,Write-in,2
+Herkimer,Columbia ED 2,State Assembly,118,REP,Robert Smullen,101
+Herkimer,Columbia ED 2,State Assembly,118,CON,Robert Smullen,8
+Herkimer,Danube ED 1,State Assembly,118,REP,Robert Smullen,342
+Herkimer,Danube ED 1,State Assembly,118,CON,Robert Smullen,29
+Herkimer,Danube ED 1,State Assembly,118,,Write-in,1
+Herkimer,Fairfield ED 1,State Assembly,118,REP,Robert Smullen,561
+Herkimer,Fairfield ED 1,State Assembly,118,CON,Robert Smullen,64
+Herkimer,Frankfort ED 1,State Assembly,118,REP,Robert Smullen,282
+Herkimer,Frankfort ED 1,State Assembly,118,CON,Robert Smullen,39
+Herkimer,Frankfort ED 1,State Assembly,118,,Write-in,3
+Herkimer,Frankfort ED 2,State Assembly,118,REP,Robert Smullen,283
+Herkimer,Frankfort ED 2,State Assembly,118,CON,Robert Smullen,46
+Herkimer,Frankfort ED 3,State Assembly,118,REP,Robert Smullen,853
+Herkimer,Frankfort ED 3,State Assembly,118,CON,Robert Smullen,125
+Herkimer,Frankfort ED 3,State Assembly,118,,Write-in,3
+Herkimer,Frankfort ED 4,State Assembly,118,REP,Robert Smullen,983
+Herkimer,Frankfort ED 4,State Assembly,118,CON,Robert Smullen,162
+Herkimer,Frankfort ED 4,State Assembly,118,,Write-in,3
+Herkimer,German Flatts ED 1,State Assembly,118,REP,Robert Smullen,147
+Herkimer,German Flatts ED 1,State Assembly,118,CON,Robert Smullen,29
+Herkimer,German Flatts ED 2,State Assembly,118,REP,Robert Smullen,299
+Herkimer,German Flatts ED 2,State Assembly,118,CON,Robert Smullen,51
+Herkimer,German Flatts ED 2,State Assembly,118,,Write-in,3
+Herkimer,German Flatts ED 3,State Assembly,118,REP,Robert Smullen,792
+Herkimer,German Flatts ED 3,State Assembly,118,CON,Robert Smullen,105
+Herkimer,German Flatts ED 3,State Assembly,118,,Write-in,4
+Herkimer,German Flatts ED 4,State Assembly,118,REP,Robert Smullen,266
+Herkimer,German Flatts ED 4,State Assembly,118,CON,Robert Smullen,55
+Herkimer,German Flatts ED 4,State Assembly,118,,Write-in,3
+Herkimer,German Flatts ED 5,State Assembly,118,REP,Robert Smullen,215
+Herkimer,German Flatts ED 5,State Assembly,118,CON,Robert Smullen,44
+Herkimer,German Flatts ED 5,State Assembly,118,,Write-in,2
+Herkimer,German Flatts ED 6,State Assembly,118,REP,Robert Smullen,819
+Herkimer,German Flatts ED 6,State Assembly,118,CON,Robert Smullen,120
+Herkimer,German Flatts ED 6,State Assembly,118,,Write-in,4
+Herkimer,German Flatts ED 7,State Assembly,118,REP,Robert Smullen,224
+Herkimer,German Flatts ED 7,State Assembly,118,CON,Robert Smullen,40
+Herkimer,German Flatts ED 8,State Assembly,118,REP,Robert Smullen,817
+Herkimer,German Flatts ED 8,State Assembly,118,CON,Robert Smullen,119
+Herkimer,German Flatts ED 8,State Assembly,118,,Write-in,4
+Herkimer,Herkimer ED 1,State Assembly,118,REP,Robert Smullen,692
+Herkimer,Herkimer ED 1,State Assembly,118,CON,Robert Smullen,93
+Herkimer,Herkimer ED 1,State Assembly,118,,Write-in,3
+Herkimer,Herkimer ED 2,State Assembly,118,REP,Robert Smullen,290
+Herkimer,Herkimer ED 2,State Assembly,118,CON,Robert Smullen,65
+Herkimer,Herkimer ED 2,State Assembly,118,,Write-in,2
+Herkimer,Herkimer ED 3,State Assembly,118,REP,Robert Smullen,328
+Herkimer,Herkimer ED 3,State Assembly,118,CON,Robert Smullen,56
+Herkimer,Herkimer ED 3,State Assembly,118,,Write-in,1
+Herkimer,Herkimer ED 4,State Assembly,118,REP,Robert Smullen,456
+Herkimer,Herkimer ED 4,State Assembly,118,CON,Robert Smullen,84
+Herkimer,Herkimer ED 4,State Assembly,118,,Write-in,3
+Herkimer,Herkimer ED 5,State Assembly,118,REP,Robert Smullen,727
+Herkimer,Herkimer ED 5,State Assembly,118,CON,Robert Smullen,126
+Herkimer,Herkimer ED 5,State Assembly,118,,Write-in,4
+Herkimer,Manheim ED 1,State Assembly,118,REP,Robert Smullen,716
+Herkimer,Manheim ED 1,State Assembly,118,CON,Robert Smullen,125
+Herkimer,Manheim ED 1,State Assembly,118,,Write-in,3
+Herkimer,Manheim ED 2,State Assembly,118,REP,Robert Smullen,224
+Herkimer,Manheim ED 2,State Assembly,118,CON,Robert Smullen,39
+Herkimer,Newport ED 1,State Assembly,118,REP,Robert Smullen,663
+Herkimer,Newport ED 1,State Assembly,118,CON,Robert Smullen,99
+Herkimer,Newport ED 1,State Assembly,118,,Write-in,5
+Herkimer,Newport ED 2,State Assembly,118,REP,Robert Smullen,77
+Herkimer,Newport ED 2,State Assembly,118,CON,Robert Smullen,12
+Herkimer,Newport ED 2,State Assembly,118,,Write-in,1
+Herkimer,Norway ED 1,State Assembly,118,REP,Robert Smullen,332
+Herkimer,Norway ED 1,State Assembly,118,CON,Robert Smullen,28
+Herkimer,Ohio ED 1,State Assembly,118,REP,Robert Smullen,440
+Herkimer,Ohio ED 1,State Assembly,118,CON,Robert Smullen,48
+Herkimer,Ohio ED 1,State Assembly,118,,Write-in,2
+Herkimer,Russia ED 1,State Assembly,118,REP,Robert Smullen,545
+Herkimer,Russia ED 1,State Assembly,118,CON,Robert Smullen,112
+Herkimer,Russia ED 1,State Assembly,118,,Write-in,1
+Herkimer,Russia ED 2,State Assembly,118,REP,Robert Smullen,253
+Herkimer,Russia ED 2,State Assembly,118,CON,Robert Smullen,45
+Herkimer,Salisbury ED 1,State Assembly,118,REP,Robert Smullen,544
+Herkimer,Salisbury ED 1,State Assembly,118,CON,Robert Smullen,61
+Herkimer,Salisbury ED 1,State Assembly,118,,Write-in,5
+Herkimer,Salisbury ED 2,State Assembly,118,REP,Robert Smullen,156
+Herkimer,Salisbury ED 2,State Assembly,118,CON,Robert Smullen,30
+Herkimer,Schuyler ED 1,State Assembly,118,REP,Robert Smullen,653
+Herkimer,Schuyler ED 1,State Assembly,118,CON,Robert Smullen,92
+Herkimer,Schuyler ED 1,State Assembly,118,,Write-in,1
+Herkimer,Schuyler ED 2,State Assembly,118,REP,Robert Smullen,499
+Herkimer,Schuyler ED 2,State Assembly,118,CON,Robert Smullen,55
+Herkimer,Stark ED 1,State Assembly,118,REP,Robert Smullen,232
+Herkimer,Stark ED 1,State Assembly,118,CON,Robert Smullen,31
+Herkimer,Little Falls ED 1,State Assembly,118,REP,Robert Smullen,530
+Herkimer,Little Falls ED 1,State Assembly,118,CON,Robert Smullen,86
+Herkimer,Little Falls ED 1,State Assembly,118,,Write-in,5
+Herkimer,Warren ED 1,State Assembly,118,REP,Robert Smullen,320
+Herkimer,Warren ED 1,State Assembly,118,CON,Robert Smullen,68
+Herkimer,Warren ED 1,State Assembly,118,,Write-in,4
+Herkimer,Webb ED 1,State Assembly,118,REP,Robert Smullen,603
+Herkimer,Webb ED 1,State Assembly,118,CON,Robert Smullen,91
+Herkimer,Webb ED 1,State Assembly,118,,Write-in,5
+Herkimer,Webb ED 2,State Assembly,118,REP,Robert Smullen,133
+Herkimer,Webb ED 2,State Assembly,118,CON,Robert Smullen,18
+Herkimer,Webb ED 2,State Assembly,118,,Write-in,1
+Herkimer,Winfield ED 1,State Assembly,122,DEM,Adrienne Martini,169
+Herkimer,Winfield ED 1,State Assembly,122,REP,Brian Miller,657
+Herkimer,Winfield ED 1,State Assembly,122,WOR,Adrienne Martini,23
+Herkimer,Winfield ED 1,State Assembly,122,CON,Brian Miller,100
+Herkimer,Litchfield ED 1,State Assembly,122,DEM,Adrienne Martini,107
+Herkimer,Litchfield ED 1,State Assembly,122,REP,Brian Miller,590
+Herkimer,Litchfield ED 1,State Assembly,122,WOR,Adrienne Martini,15
+Herkimer,Litchfield ED 1,State Assembly,122,CON,Brian Miller,59

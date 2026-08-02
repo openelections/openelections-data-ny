@@ -1,0 +1,511 @@
+county,precinct,office,district,party,candidate,votes
+Schoharie,Town of Blenheim 1 LD 1,President,,DEM,Kamala D. Harris,72
+Schoharie,Town of Blenheim 1 LD 1,President,,REP,Donald J. Trump,117
+Schoharie,Town of Blenheim 1 LD 1,President,,CON,Donald J. Trump,15
+Schoharie,Town of Blenheim 1 LD 1,President,,WOR,Kamala D. Harris,5
+Schoharie,Town of Blenheim 1 LD 1,President,,,Write-in,1
+Schoharie,Town of Blenheim 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,79
+Schoharie,Town of Blenheim 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,101
+Schoharie,Town of Blenheim 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,14
+Schoharie,Town of Blenheim 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,11
+Schoharie,Town of Blenheim 1 LD 1,U.S. House,21,DEM,Paula Collins,67
+Schoharie,Town of Blenheim 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,112
+Schoharie,Town of Blenheim 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,19
+Schoharie,Town of Blenheim 1 LD 1,U.S. House,21,WOR,Paula Collins,7
+Schoharie,Town of Blenheim 1 LD 1,State Senate,51,DEM,Michele Frazier,63
+Schoharie,Town of Blenheim 1 LD 1,State Senate,51,REP,Peter Oberacker,117
+Schoharie,Town of Blenheim 1 LD 1,State Senate,51,CON,Peter Oberacker,16
+Schoharie,Town of Blenheim 1 LD 1,State Senate,51,WOR,Michele Frazier,6
+Schoharie,Town of Blenheim 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,59
+Schoharie,Town of Blenheim 1 LD 1,State Assembly,102,REP,Christopher Tague,121
+Schoharie,Town of Blenheim 1 LD 1,State Assembly,102,CON,Christopher Tague,18
+Schoharie,Town of Blenheim 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,7
+Schoharie,Town of Broome 1 LD 1,President,,DEM,Kamala D. Harris,140
+Schoharie,Town of Broome 1 LD 1,President,,REP,Donald J. Trump,336
+Schoharie,Town of Broome 1 LD 1,President,,CON,Donald J. Trump,29
+Schoharie,Town of Broome 1 LD 1,President,,WOR,Kamala D. Harris,6
+Schoharie,Town of Broome 1 LD 1,President,,,Write-in,3
+Schoharie,Town of Broome 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,147
+Schoharie,Town of Broome 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,302
+Schoharie,Town of Broome 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,30
+Schoharie,Town of Broome 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,14
+Schoharie,Town of Broome 1 LD 1,U.S. Senate,,LAR,Diane Sare,2
+Schoharie,Town of Broome 1 LD 1,U.S. House,21,DEM,Paula Collins,131
+Schoharie,Town of Broome 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,330
+Schoharie,Town of Broome 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,34
+Schoharie,Town of Broome 1 LD 1,U.S. House,21,WOR,Paula Collins,8
+Schoharie,Town of Broome 1 LD 1,State Senate,51,DEM,Michele Frazier,130
+Schoharie,Town of Broome 1 LD 1,State Senate,51,REP,Peter Oberacker,327
+Schoharie,Town of Broome 1 LD 1,State Senate,51,CON,Peter Oberacker,33
+Schoharie,Town of Broome 1 LD 1,State Senate,51,WOR,Michele Frazier,9
+Schoharie,Town of Broome 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,125
+Schoharie,Town of Broome 1 LD 1,State Assembly,102,REP,Christopher Tague,335
+Schoharie,Town of Broome 1 LD 1,State Assembly,102,CON,Christopher Tague,37
+Schoharie,Town of Broome 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,6
+Schoharie,Town of Carlisle 1 LD 1,President,,DEM,Kamala D. Harris,266
+Schoharie,Town of Carlisle 1 LD 1,President,,REP,Donald J. Trump,615
+Schoharie,Town of Carlisle 1 LD 1,President,,CON,Donald J. Trump,72
+Schoharie,Town of Carlisle 1 LD 1,President,,WOR,Kamala D. Harris,17
+Schoharie,Town of Carlisle 1 LD 1,President,,,Write-in,11
+Schoharie,Town of Carlisle 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,278
+Schoharie,Town of Carlisle 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,569
+Schoharie,Town of Carlisle 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,78
+Schoharie,Town of Carlisle 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,37
+Schoharie,Town of Carlisle 1 LD 1,U.S. Senate,,LAR,Diane Sare,2
+Schoharie,Town of Carlisle 1 LD 1,U.S. House,21,DEM,Paula Collins,237
+Schoharie,Town of Carlisle 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,620
+Schoharie,Town of Carlisle 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,82
+Schoharie,Town of Carlisle 1 LD 1,U.S. House,21,WOR,Paula Collins,23
+Schoharie,Town of Carlisle 1 LD 1,State Senate,51,DEM,Michele Frazier,220
+Schoharie,Town of Carlisle 1 LD 1,State Senate,51,REP,Peter Oberacker,632
+Schoharie,Town of Carlisle 1 LD 1,State Senate,51,CON,Peter Oberacker,87
+Schoharie,Town of Carlisle 1 LD 1,State Senate,51,WOR,Michele Frazier,20
+Schoharie,Town of Carlisle 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,209
+Schoharie,Town of Carlisle 1 LD 1,State Assembly,102,REP,Christopher Tague,657
+Schoharie,Town of Carlisle 1 LD 1,State Assembly,102,CON,Christopher Tague,87
+Schoharie,Town of Carlisle 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,18
+Schoharie,Town of Cobleskill 1 LD 1,President,,DEM,Kamala D. Harris,358
+Schoharie,Town of Cobleskill 1 LD 1,President,,REP,Donald J. Trump,560
+Schoharie,Town of Cobleskill 1 LD 1,President,,CON,Donald J. Trump,74
+Schoharie,Town of Cobleskill 1 LD 1,President,,WOR,Kamala D. Harris,22
+Schoharie,Town of Cobleskill 1 LD 1,President,,,Write-in,8
+Schoharie,Town of Cobleskill 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,367
+Schoharie,Town of Cobleskill 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,513
+Schoharie,Town of Cobleskill 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,73
+Schoharie,Town of Cobleskill 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,40
+Schoharie,Town of Cobleskill 1 LD 1,U.S. Senate,,LAR,Diane Sare,5
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,21,DEM,Paula Collins,325
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,564
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,81
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,21,WOR,Paula Collins,32
+Schoharie,Town of Cobleskill 1 LD 1,U.S. House,21,,Write-in,1
+Schoharie,Town of Cobleskill 1 LD 1,State Senate,51,DEM,Michele Frazier,308
+Schoharie,Town of Cobleskill 1 LD 1,State Senate,51,REP,Peter Oberacker,581
+Schoharie,Town of Cobleskill 1 LD 1,State Senate,51,CON,Peter Oberacker,87
+Schoharie,Town of Cobleskill 1 LD 1,State Senate,51,WOR,Michele Frazier,27
+Schoharie,Town of Cobleskill 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,290
+Schoharie,Town of Cobleskill 1 LD 1,State Assembly,102,REP,Christopher Tague,598
+Schoharie,Town of Cobleskill 1 LD 1,State Assembly,102,CON,Christopher Tague,98
+Schoharie,Town of Cobleskill 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,21
+Schoharie,Town of Cobleskill 2 LD 1,President,,DEM,Kamala D. Harris,742
+Schoharie,Town of Cobleskill 2 LD 1,President,,REP,Donald J. Trump,740
+Schoharie,Town of Cobleskill 2 LD 1,President,,CON,Donald J. Trump,90
+Schoharie,Town of Cobleskill 2 LD 1,President,,WOR,Kamala D. Harris,42
+Schoharie,Town of Cobleskill 2 LD 1,President,,,Write-in,23
+Schoharie,Town of Cobleskill 2 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,725
+Schoharie,Town of Cobleskill 2 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,683
+Schoharie,Town of Cobleskill 2 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,89
+Schoharie,Town of Cobleskill 2 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,81
+Schoharie,Town of Cobleskill 2 LD 1,U.S. Senate,,LAR,Diane Sare,9
+Schoharie,Town of Cobleskill 2 LD 1,U.S. Senate,,,Write-in,2
+Schoharie,Town of Cobleskill 2 LD 1,U.S. House,21,DEM,Paula Collins,673
+Schoharie,Town of Cobleskill 2 LD 1,U.S. House,21,REP,Elise M. Stefanik,738
+Schoharie,Town of Cobleskill 2 LD 1,U.S. House,21,CON,Elise M. Stefanik,99
+Schoharie,Town of Cobleskill 2 LD 1,U.S. House,21,WOR,Paula Collins,74
+Schoharie,Town of Cobleskill 2 LD 1,U.S. House,21,,Write-in,1
+Schoharie,Town of Cobleskill 2 LD 1,State Senate,51,DEM,Michele Frazier,615
+Schoharie,Town of Cobleskill 2 LD 1,State Senate,51,REP,Peter Oberacker,790
+Schoharie,Town of Cobleskill 2 LD 1,State Senate,51,CON,Peter Oberacker,114
+Schoharie,Town of Cobleskill 2 LD 1,State Senate,51,WOR,Michele Frazier,60
+Schoharie,Town of Cobleskill 2 LD 1,State Senate,51,,Write-in,1
+Schoharie,Town of Cobleskill 2 LD 1,State Assembly,102,DEM,Janet S. Tweed,588
+Schoharie,Town of Cobleskill 2 LD 1,State Assembly,102,REP,Christopher Tague,818
+Schoharie,Town of Cobleskill 2 LD 1,State Assembly,102,CON,Christopher Tague,123
+Schoharie,Town of Cobleskill 2 LD 1,State Assembly,102,WOR,Janet S. Tweed,52
+Schoharie,Town of Conesville 1 LD 1,President,,DEM,Kamala D. Harris,122
+Schoharie,Town of Conesville 1 LD 1,President,,REP,Donald J. Trump,287
+Schoharie,Town of Conesville 1 LD 1,President,,CON,Donald J. Trump,25
+Schoharie,Town of Conesville 1 LD 1,President,,WOR,Kamala D. Harris,11
+Schoharie,Town of Conesville 1 LD 1,President,,,Write-in,2
+Schoharie,Town of Conesville 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,138
+Schoharie,Town of Conesville 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,255
+Schoharie,Town of Conesville 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,15
+Schoharie,Town of Conesville 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,26
+Schoharie,Town of Conesville 1 LD 1,U.S. Senate,,LAR,Diane Sare,2
+Schoharie,Town of Conesville 1 LD 1,U.S. Senate,,,Write-in,1
+Schoharie,Town of Conesville 1 LD 1,U.S. House,21,DEM,Paula Collins,102
+Schoharie,Town of Conesville 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,291
+Schoharie,Town of Conesville 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,28
+Schoharie,Town of Conesville 1 LD 1,U.S. House,21,WOR,Paula Collins,14
+Schoharie,Town of Conesville 1 LD 1,U.S. House,21,,Write-in,1
+Schoharie,Town of Conesville 1 LD 1,State Senate,51,DEM,Michele Frazier,107
+Schoharie,Town of Conesville 1 LD 1,State Senate,51,REP,Peter Oberacker,284
+Schoharie,Town of Conesville 1 LD 1,State Senate,51,CON,Peter Oberacker,25
+Schoharie,Town of Conesville 1 LD 1,State Senate,51,WOR,Michele Frazier,11
+Schoharie,Town of Conesville 1 LD 1,State Senate,51,,Write-in,1
+Schoharie,Town of Conesville 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,92
+Schoharie,Town of Conesville 1 LD 1,State Assembly,102,REP,Christopher Tague,300
+Schoharie,Town of Conesville 1 LD 1,State Assembly,102,CON,Christopher Tague,30
+Schoharie,Town of Conesville 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,9
+Schoharie,Town of Conesville 1 LD 1,State Assembly,102,,Write-in,1
+Schoharie,Town of Esperance 1 LD 1,President,,DEM,Kamala D. Harris,228
+Schoharie,Town of Esperance 1 LD 1,President,,REP,Donald J. Trump,476
+Schoharie,Town of Esperance 1 LD 1,President,,CON,Donald J. Trump,72
+Schoharie,Town of Esperance 1 LD 1,President,,WOR,Kamala D. Harris,14
+Schoharie,Town of Esperance 1 LD 1,President,,,Write-in,9
+Schoharie,Town of Esperance 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,230
+Schoharie,Town of Esperance 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,447
+Schoharie,Town of Esperance 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,70
+Schoharie,Town of Esperance 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Schoharie,Town of Esperance 1 LD 1,U.S. Senate,,LAR,Diane Sare,4
+Schoharie,Town of Esperance 1 LD 1,U.S. Senate,,,Write-in,1
+Schoharie,Town of Esperance 1 LD 1,U.S. House,21,DEM,Paula Collins,210
+Schoharie,Town of Esperance 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,473
+Schoharie,Town of Esperance 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,72
+Schoharie,Town of Esperance 1 LD 1,U.S. House,21,WOR,Paula Collins,24
+Schoharie,Town of Esperance 1 LD 1,State Senate,51,DEM,Michele Frazier,180
+Schoharie,Town of Esperance 1 LD 1,State Senate,51,REP,Peter Oberacker,495
+Schoharie,Town of Esperance 1 LD 1,State Senate,51,CON,Peter Oberacker,76
+Schoharie,Town of Esperance 1 LD 1,State Senate,51,WOR,Michele Frazier,26
+Schoharie,Town of Esperance 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,166
+Schoharie,Town of Esperance 1 LD 1,State Assembly,102,REP,Christopher Tague,519
+Schoharie,Town of Esperance 1 LD 1,State Assembly,102,CON,Christopher Tague,83
+Schoharie,Town of Esperance 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,22
+Schoharie,Town of Esperance 2 LD 1,President,,DEM,Kamala D. Harris,71
+Schoharie,Town of Esperance 2 LD 1,President,,REP,Donald J. Trump,104
+Schoharie,Town of Esperance 2 LD 1,President,,CON,Donald J. Trump,15
+Schoharie,Town of Esperance 2 LD 1,President,,WOR,Kamala D. Harris,7
+Schoharie,Town of Esperance 2 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,74
+Schoharie,Town of Esperance 2 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,91
+Schoharie,Town of Esperance 2 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,15
+Schoharie,Town of Esperance 2 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,10
+Schoharie,Town of Esperance 2 LD 1,U.S. Senate,,LAR,Diane Sare,1
+Schoharie,Town of Esperance 2 LD 1,U.S. House,21,DEM,Paula Collins,62
+Schoharie,Town of Esperance 2 LD 1,U.S. House,21,REP,Elise M. Stefanik,106
+Schoharie,Town of Esperance 2 LD 1,U.S. House,21,CON,Elise M. Stefanik,15
+Schoharie,Town of Esperance 2 LD 1,U.S. House,21,WOR,Paula Collins,8
+Schoharie,Town of Esperance 2 LD 1,State Senate,51,DEM,Michele Frazier,61
+Schoharie,Town of Esperance 2 LD 1,State Senate,51,REP,Peter Oberacker,105
+Schoharie,Town of Esperance 2 LD 1,State Senate,51,CON,Peter Oberacker,15
+Schoharie,Town of Esperance 2 LD 1,State Senate,51,WOR,Michele Frazier,6
+Schoharie,Town of Esperance 2 LD 1,State Assembly,102,DEM,Janet S. Tweed,49
+Schoharie,Town of Esperance 2 LD 1,State Assembly,102,REP,Christopher Tague,118
+Schoharie,Town of Esperance 2 LD 1,State Assembly,102,CON,Christopher Tague,17
+Schoharie,Town of Esperance 2 LD 1,State Assembly,102,WOR,Janet S. Tweed,4
+Schoharie,Town of Esperance 2 LD 1,State Assembly,102,,Write-in,1
+Schoharie,Town of Fulton 1 LD 1,President,,DEM,Kamala D. Harris,206
+Schoharie,Town of Fulton 1 LD 1,President,,REP,Donald J. Trump,396
+Schoharie,Town of Fulton 1 LD 1,President,,CON,Donald J. Trump,54
+Schoharie,Town of Fulton 1 LD 1,President,,WOR,Kamala D. Harris,19
+Schoharie,Town of Fulton 1 LD 1,President,,,Write-in,10
+Schoharie,Town of Fulton 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,215
+Schoharie,Town of Fulton 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,357
+Schoharie,Town of Fulton 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,55
+Schoharie,Town of Fulton 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,34
+Schoharie,Town of Fulton 1 LD 1,U.S. Senate,,LAR,Diane Sare,8
+Schoharie,Town of Fulton 1 LD 1,U.S. House,21,DEM,Paula Collins,197
+Schoharie,Town of Fulton 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,391
+Schoharie,Town of Fulton 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,61
+Schoharie,Town of Fulton 1 LD 1,U.S. House,21,WOR,Paula Collins,24
+Schoharie,Town of Fulton 1 LD 1,State Senate,51,DEM,Michele Frazier,185
+Schoharie,Town of Fulton 1 LD 1,State Senate,51,REP,Peter Oberacker,396
+Schoharie,Town of Fulton 1 LD 1,State Senate,51,CON,Peter Oberacker,64
+Schoharie,Town of Fulton 1 LD 1,State Senate,51,WOR,Michele Frazier,21
+Schoharie,Town of Fulton 1 LD 1,State Senate,51,,Write-in,1
+Schoharie,Town of Fulton 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,174
+Schoharie,Town of Fulton 1 LD 1,State Assembly,102,REP,Christopher Tague,406
+Schoharie,Town of Fulton 1 LD 1,State Assembly,102,CON,Christopher Tague,76
+Schoharie,Town of Fulton 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,16
+Schoharie,Town of Gilboa 1 LD 1,President,,DEM,Kamala D. Harris,221
+Schoharie,Town of Gilboa 1 LD 1,President,,REP,Donald J. Trump,388
+Schoharie,Town of Gilboa 1 LD 1,President,,CON,Donald J. Trump,47
+Schoharie,Town of Gilboa 1 LD 1,President,,WOR,Kamala D. Harris,12
+Schoharie,Town of Gilboa 1 LD 1,President,,,Write-in,5
+Schoharie,Town of Gilboa 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,236
+Schoharie,Town of Gilboa 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,343
+Schoharie,Town of Gilboa 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,49
+Schoharie,Town of Gilboa 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,28
+Schoharie,Town of Gilboa 1 LD 1,U.S. Senate,,LAR,Diane Sare,2
+Schoharie,Town of Gilboa 1 LD 1,U.S. House,21,DEM,Paula Collins,206
+Schoharie,Town of Gilboa 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,382
+Schoharie,Town of Gilboa 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,52
+Schoharie,Town of Gilboa 1 LD 1,U.S. House,21,WOR,Paula Collins,21
+Schoharie,Town of Gilboa 1 LD 1,U.S. House,21,,Write-in,1
+Schoharie,Town of Gilboa 1 LD 1,State Senate,51,DEM,Michele Frazier,195
+Schoharie,Town of Gilboa 1 LD 1,State Senate,51,REP,Peter Oberacker,383
+Schoharie,Town of Gilboa 1 LD 1,State Senate,51,CON,Peter Oberacker,53
+Schoharie,Town of Gilboa 1 LD 1,State Senate,51,WOR,Michele Frazier,24
+Schoharie,Town of Gilboa 1 LD 1,State Senate,51,,Write-in,1
+Schoharie,Town of Gilboa 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,179
+Schoharie,Town of Gilboa 1 LD 1,State Assembly,102,REP,Christopher Tague,413
+Schoharie,Town of Gilboa 1 LD 1,State Assembly,102,CON,Christopher Tague,54
+Schoharie,Town of Gilboa 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,15
+Schoharie,Town of Jefferson 1 LD 1,President,,DEM,Kamala D. Harris,236
+Schoharie,Town of Jefferson 1 LD 1,President,,REP,Donald J. Trump,484
+Schoharie,Town of Jefferson 1 LD 1,President,,CON,Donald J. Trump,39
+Schoharie,Town of Jefferson 1 LD 1,President,,WOR,Kamala D. Harris,34
+Schoharie,Town of Jefferson 1 LD 1,President,,,Write-in,2
+Schoharie,Town of Jefferson 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,234
+Schoharie,Town of Jefferson 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,441
+Schoharie,Town of Jefferson 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,43
+Schoharie,Town of Jefferson 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,56
+Schoharie,Town of Jefferson 1 LD 1,U.S. Senate,,LAR,Diane Sare,3
+Schoharie,Town of Jefferson 1 LD 1,U.S. House,21,DEM,Paula Collins,208
+Schoharie,Town of Jefferson 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,474
+Schoharie,Town of Jefferson 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,46
+Schoharie,Town of Jefferson 1 LD 1,U.S. House,21,WOR,Paula Collins,49
+Schoharie,Town of Jefferson 1 LD 1,State Senate,51,DEM,Michele Frazier,197
+Schoharie,Town of Jefferson 1 LD 1,State Senate,51,REP,Peter Oberacker,483
+Schoharie,Town of Jefferson 1 LD 1,State Senate,51,CON,Peter Oberacker,53
+Schoharie,Town of Jefferson 1 LD 1,State Senate,51,WOR,Michele Frazier,43
+Schoharie,Town of Jefferson 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,191
+Schoharie,Town of Jefferson 1 LD 1,State Assembly,102,REP,Christopher Tague,490
+Schoharie,Town of Jefferson 1 LD 1,State Assembly,102,CON,Christopher Tague,57
+Schoharie,Town of Jefferson 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,40
+Schoharie,Town of Middleburgh 1 LD 1,President,,DEM,Kamala D. Harris,265
+Schoharie,Town of Middleburgh 1 LD 1,President,,REP,Donald J. Trump,711
+Schoharie,Town of Middleburgh 1 LD 1,President,,CON,Donald J. Trump,70
+Schoharie,Town of Middleburgh 1 LD 1,President,,WOR,Kamala D. Harris,31
+Schoharie,Town of Middleburgh 1 LD 1,President,,,Write-in,14
+Schoharie,Town of Middleburgh 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,288
+Schoharie,Town of Middleburgh 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,632
+Schoharie,Town of Middleburgh 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,72
+Schoharie,Town of Middleburgh 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,56
+Schoharie,Town of Middleburgh 1 LD 1,U.S. Senate,,LAR,Diane Sare,13
+Schoharie,Town of Middleburgh 1 LD 1,U.S. Senate,,,Write-in,1
+Schoharie,Town of Middleburgh 1 LD 1,U.S. House,21,DEM,Paula Collins,257
+Schoharie,Town of Middleburgh 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,686
+Schoharie,Town of Middleburgh 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,80
+Schoharie,Town of Middleburgh 1 LD 1,U.S. House,21,WOR,Paula Collins,44
+Schoharie,Town of Middleburgh 1 LD 1,U.S. House,21,,Write-in,1
+Schoharie,Town of Middleburgh 1 LD 1,State Senate,51,DEM,Michele Frazier,223
+Schoharie,Town of Middleburgh 1 LD 1,State Senate,51,REP,Peter Oberacker,724
+Schoharie,Town of Middleburgh 1 LD 1,State Senate,51,CON,Peter Oberacker,86
+Schoharie,Town of Middleburgh 1 LD 1,State Senate,51,WOR,Michele Frazier,29
+Schoharie,Town of Middleburgh 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,208
+Schoharie,Town of Middleburgh 1 LD 1,State Assembly,102,REP,Christopher Tague,744
+Schoharie,Town of Middleburgh 1 LD 1,State Assembly,102,CON,Christopher Tague,93
+Schoharie,Town of Middleburgh 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,26
+Schoharie,Town of Middleburgh 1 LD 1,State Assembly,102,,Write-in,1
+Schoharie,Town of Middleburgh 2 LD 1,President,,DEM,Kamala D. Harris,258
+Schoharie,Town of Middleburgh 2 LD 1,President,,REP,Donald J. Trump,409
+Schoharie,Town of Middleburgh 2 LD 1,President,,CON,Donald J. Trump,53
+Schoharie,Town of Middleburgh 2 LD 1,President,,WOR,Kamala D. Harris,14
+Schoharie,Town of Middleburgh 2 LD 1,President,,,Write-in,10
+Schoharie,Town of Middleburgh 2 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,265
+Schoharie,Town of Middleburgh 2 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,372
+Schoharie,Town of Middleburgh 2 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,49
+Schoharie,Town of Middleburgh 2 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,40
+Schoharie,Town of Middleburgh 2 LD 1,U.S. Senate,,LAR,Diane Sare,6
+Schoharie,Town of Middleburgh 2 LD 1,U.S. Senate,,,Write-in,1
+Schoharie,Town of Middleburgh 2 LD 1,U.S. House,21,DEM,Paula Collins,238
+Schoharie,Town of Middleburgh 2 LD 1,U.S. House,21,REP,Elise M. Stefanik,409
+Schoharie,Town of Middleburgh 2 LD 1,U.S. House,21,CON,Elise M. Stefanik,60
+Schoharie,Town of Middleburgh 2 LD 1,U.S. House,21,WOR,Paula Collins,24
+Schoharie,Town of Middleburgh 2 LD 1,U.S. House,21,,Write-in,1
+Schoharie,Town of Middleburgh 2 LD 1,State Senate,51,DEM,Michele Frazier,211
+Schoharie,Town of Middleburgh 2 LD 1,State Senate,51,REP,Peter Oberacker,439
+Schoharie,Town of Middleburgh 2 LD 1,State Senate,51,CON,Peter Oberacker,59
+Schoharie,Town of Middleburgh 2 LD 1,State Senate,51,WOR,Michele Frazier,18
+Schoharie,Town of Middleburgh 2 LD 1,State Senate,51,,Write-in,1
+Schoharie,Town of Middleburgh 2 LD 1,State Assembly,102,DEM,Janet S. Tweed,194
+Schoharie,Town of Middleburgh 2 LD 1,State Assembly,102,REP,Christopher Tague,463
+Schoharie,Town of Middleburgh 2 LD 1,State Assembly,102,CON,Christopher Tague,62
+Schoharie,Town of Middleburgh 2 LD 1,State Assembly,102,WOR,Janet S. Tweed,17
+Schoharie,Town of Middleburgh 2 LD 1,State Assembly,102,,Write-in,1
+Schoharie,Town of Richmondville 1 LD 1,President,,DEM,Kamala D. Harris,247
+Schoharie,Town of Richmondville 1 LD 1,President,,REP,Donald J. Trump,519
+Schoharie,Town of Richmondville 1 LD 1,President,,CON,Donald J. Trump,67
+Schoharie,Town of Richmondville 1 LD 1,President,,WOR,Kamala D. Harris,22
+Schoharie,Town of Richmondville 1 LD 1,President,,,Write-in,7
+Schoharie,Town of Richmondville 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,272
+Schoharie,Town of Richmondville 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,459
+Schoharie,Town of Richmondville 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,59
+Schoharie,Town of Richmondville 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,50
+Schoharie,Town of Richmondville 1 LD 1,U.S. Senate,,LAR,Diane Sare,1
+Schoharie,Town of Richmondville 1 LD 1,U.S. House,21,DEM,Paula Collins,227
+Schoharie,Town of Richmondville 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,515
+Schoharie,Town of Richmondville 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,70
+Schoharie,Town of Richmondville 1 LD 1,U.S. House,21,WOR,Paula Collins,30
+Schoharie,Town of Richmondville 1 LD 1,State Senate,51,DEM,Michele Frazier,211
+Schoharie,Town of Richmondville 1 LD 1,State Senate,51,REP,Peter Oberacker,542
+Schoharie,Town of Richmondville 1 LD 1,State Senate,51,CON,Peter Oberacker,74
+Schoharie,Town of Richmondville 1 LD 1,State Senate,51,WOR,Michele Frazier,21
+Schoharie,Town of Richmondville 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,203
+Schoharie,Town of Richmondville 1 LD 1,State Assembly,102,REP,Christopher Tague,553
+Schoharie,Town of Richmondville 1 LD 1,State Assembly,102,CON,Christopher Tague,75
+Schoharie,Town of Richmondville 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,24
+Schoharie,Town of Richmondville 2 LD 1,President,,DEM,Kamala D. Harris,129
+Schoharie,Town of Richmondville 2 LD 1,President,,REP,Donald J. Trump,216
+Schoharie,Town of Richmondville 2 LD 1,President,,CON,Donald J. Trump,20
+Schoharie,Town of Richmondville 2 LD 1,President,,WOR,Kamala D. Harris,9
+Schoharie,Town of Richmondville 2 LD 1,President,,,Write-in,3
+Schoharie,Town of Richmondville 2 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,138
+Schoharie,Town of Richmondville 2 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,185
+Schoharie,Town of Richmondville 2 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,27
+Schoharie,Town of Richmondville 2 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Schoharie,Town of Richmondville 2 LD 1,U.S. Senate,,,Write-in,2
+Schoharie,Town of Richmondville 2 LD 1,U.S. House,21,DEM,Paula Collins,115
+Schoharie,Town of Richmondville 2 LD 1,U.S. House,21,REP,Elise M. Stefanik,209
+Schoharie,Town of Richmondville 2 LD 1,U.S. House,21,CON,Elise M. Stefanik,31
+Schoharie,Town of Richmondville 2 LD 1,U.S. House,21,WOR,Paula Collins,12
+Schoharie,Town of Richmondville 2 LD 1,U.S. House,21,,Write-in,1
+Schoharie,Town of Richmondville 2 LD 1,State Senate,51,DEM,Michele Frazier,105
+Schoharie,Town of Richmondville 2 LD 1,State Senate,51,REP,Peter Oberacker,217
+Schoharie,Town of Richmondville 2 LD 1,State Senate,51,CON,Peter Oberacker,34
+Schoharie,Town of Richmondville 2 LD 1,State Senate,51,WOR,Michele Frazier,12
+Schoharie,Town of Richmondville 2 LD 1,State Senate,51,,Write-in,1
+Schoharie,Town of Richmondville 2 LD 1,State Assembly,102,DEM,Janet S. Tweed,103
+Schoharie,Town of Richmondville 2 LD 1,State Assembly,102,REP,Christopher Tague,218
+Schoharie,Town of Richmondville 2 LD 1,State Assembly,102,CON,Christopher Tague,33
+Schoharie,Town of Richmondville 2 LD 1,State Assembly,102,WOR,Janet S. Tweed,14
+Schoharie,Town of Richmondville 2 LD 1,State Assembly,102,,Write-in,1
+Schoharie,Town of Schoharie 1 LD 1,President,,DEM,Kamala D. Harris,346
+Schoharie,Town of Schoharie 1 LD 1,President,,REP,Donald J. Trump,726
+Schoharie,Town of Schoharie 1 LD 1,President,,CON,Donald J. Trump,72
+Schoharie,Town of Schoharie 1 LD 1,President,,WOR,Kamala D. Harris,36
+Schoharie,Town of Schoharie 1 LD 1,President,,,Write-in,10
+Schoharie,Town of Schoharie 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,351
+Schoharie,Town of Schoharie 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,662
+Schoharie,Town of Schoharie 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,73
+Schoharie,Town of Schoharie 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,64
+Schoharie,Town of Schoharie 1 LD 1,U.S. Senate,,LAR,Diane Sare,5
+Schoharie,Town of Schoharie 1 LD 1,U.S. House,21,DEM,Paula Collins,299
+Schoharie,Town of Schoharie 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,728
+Schoharie,Town of Schoharie 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,83
+Schoharie,Town of Schoharie 1 LD 1,U.S. House,21,WOR,Paula Collins,48
+Schoharie,Town of Schoharie 1 LD 1,U.S. House,21,,Write-in,2
+Schoharie,Town of Schoharie 1 LD 1,State Senate,51,DEM,Michele Frazier,268
+Schoharie,Town of Schoharie 1 LD 1,State Senate,51,REP,Peter Oberacker,747
+Schoharie,Town of Schoharie 1 LD 1,State Senate,51,CON,Peter Oberacker,87
+Schoharie,Town of Schoharie 1 LD 1,State Senate,51,WOR,Michele Frazier,44
+Schoharie,Town of Schoharie 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,261
+Schoharie,Town of Schoharie 1 LD 1,State Assembly,102,REP,Christopher Tague,763
+Schoharie,Town of Schoharie 1 LD 1,State Assembly,102,CON,Christopher Tague,93
+Schoharie,Town of Schoharie 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,43
+Schoharie,Town of Schoharie 1 LD 1,State Assembly,102,,Write-in,1
+Schoharie,Town of Schoharie 2 LD 1,President,,DEM,Kamala D. Harris,195
+Schoharie,Town of Schoharie 2 LD 1,President,,REP,Donald J. Trump,266
+Schoharie,Town of Schoharie 2 LD 1,President,,CON,Donald J. Trump,23
+Schoharie,Town of Schoharie 2 LD 1,President,,WOR,Kamala D. Harris,13
+Schoharie,Town of Schoharie 2 LD 1,President,,,Write-in,6
+Schoharie,Town of Schoharie 2 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,205
+Schoharie,Town of Schoharie 2 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,236
+Schoharie,Town of Schoharie 2 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,27
+Schoharie,Town of Schoharie 2 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,23
+Schoharie,Town of Schoharie 2 LD 1,U.S. Senate,,LAR,Diane Sare,1
+Schoharie,Town of Schoharie 2 LD 1,U.S. House,21,DEM,Paula Collins,178
+Schoharie,Town of Schoharie 2 LD 1,U.S. House,21,REP,Elise M. Stefanik,267
+Schoharie,Town of Schoharie 2 LD 1,U.S. House,21,CON,Elise M. Stefanik,29
+Schoharie,Town of Schoharie 2 LD 1,U.S. House,21,WOR,Paula Collins,20
+Schoharie,Town of Schoharie 2 LD 1,State Senate,51,DEM,Michele Frazier,163
+Schoharie,Town of Schoharie 2 LD 1,State Senate,51,REP,Peter Oberacker,271
+Schoharie,Town of Schoharie 2 LD 1,State Senate,51,CON,Peter Oberacker,36
+Schoharie,Town of Schoharie 2 LD 1,State Senate,51,WOR,Michele Frazier,20
+Schoharie,Town of Schoharie 2 LD 1,State Assembly,102,DEM,Janet S. Tweed,150
+Schoharie,Town of Schoharie 2 LD 1,State Assembly,102,REP,Christopher Tague,293
+Schoharie,Town of Schoharie 2 LD 1,State Assembly,102,CON,Christopher Tague,32
+Schoharie,Town of Schoharie 2 LD 1,State Assembly,102,WOR,Janet S. Tweed,20
+Schoharie,Town of Seward 1 LD 1,President,,DEM,Kamala D. Harris,283
+Schoharie,Town of Seward 1 LD 1,President,,REP,Donald J. Trump,559
+Schoharie,Town of Seward 1 LD 1,President,,CON,Donald J. Trump,57
+Schoharie,Town of Seward 1 LD 1,President,,WOR,Kamala D. Harris,23
+Schoharie,Town of Seward 1 LD 1,President,,,Write-in,2
+Schoharie,Town of Seward 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,301
+Schoharie,Town of Seward 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,496
+Schoharie,Town of Seward 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,51
+Schoharie,Town of Seward 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,51
+Schoharie,Town of Seward 1 LD 1,U.S. Senate,,LAR,Diane Sare,6
+Schoharie,Town of Seward 1 LD 1,U.S. House,21,DEM,Paula Collins,249
+Schoharie,Town of Seward 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,569
+Schoharie,Town of Seward 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,63
+Schoharie,Town of Seward 1 LD 1,U.S. House,21,WOR,Paula Collins,28
+Schoharie,Town of Seward 1 LD 1,State Senate,51,DEM,Michele Frazier,226
+Schoharie,Town of Seward 1 LD 1,State Senate,51,REP,Peter Oberacker,579
+Schoharie,Town of Seward 1 LD 1,State Senate,51,CON,Peter Oberacker,69
+Schoharie,Town of Seward 1 LD 1,State Senate,51,WOR,Michele Frazier,29
+Schoharie,Town of Seward 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,208
+Schoharie,Town of Seward 1 LD 1,State Assembly,102,REP,Christopher Tague,597
+Schoharie,Town of Seward 1 LD 1,State Assembly,102,CON,Christopher Tague,71
+Schoharie,Town of Seward 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,29
+Schoharie,Town of Seward 1 LD 1,State Assembly,102,,Write-in,1
+Schoharie,Town of Sharon 1 LD 1,President,,DEM,Kamala D. Harris,172
+Schoharie,Town of Sharon 1 LD 1,President,,REP,Donald J. Trump,415
+Schoharie,Town of Sharon 1 LD 1,President,,CON,Donald J. Trump,63
+Schoharie,Town of Sharon 1 LD 1,President,,WOR,Kamala D. Harris,16
+Schoharie,Town of Sharon 1 LD 1,President,,,Write-in,5
+Schoharie,Town of Sharon 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,191
+Schoharie,Town of Sharon 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,360
+Schoharie,Town of Sharon 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,61
+Schoharie,Town of Sharon 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,36
+Schoharie,Town of Sharon 1 LD 1,U.S. Senate,,LAR,Diane Sare,2
+Schoharie,Town of Sharon 1 LD 1,U.S. House,21,DEM,Paula Collins,155
+Schoharie,Town of Sharon 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,412
+Schoharie,Town of Sharon 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,64
+Schoharie,Town of Sharon 1 LD 1,U.S. House,21,WOR,Paula Collins,22
+Schoharie,Town of Sharon 1 LD 1,State Senate,51,DEM,Michele Frazier,155
+Schoharie,Town of Sharon 1 LD 1,State Senate,51,REP,Peter Oberacker,400
+Schoharie,Town of Sharon 1 LD 1,State Senate,51,CON,Peter Oberacker,70
+Schoharie,Town of Sharon 1 LD 1,State Senate,51,WOR,Michele Frazier,19
+Schoharie,Town of Sharon 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,133
+Schoharie,Town of Sharon 1 LD 1,State Assembly,102,REP,Christopher Tague,420
+Schoharie,Town of Sharon 1 LD 1,State Assembly,102,CON,Christopher Tague,75
+Schoharie,Town of Sharon 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,16
+Schoharie,Town of Sharon 2 LD 1,President,,DEM,Kamala D. Harris,97
+Schoharie,Town of Sharon 2 LD 1,President,,REP,Donald J. Trump,107
+Schoharie,Town of Sharon 2 LD 1,President,,CON,Donald J. Trump,10
+Schoharie,Town of Sharon 2 LD 1,President,,WOR,Kamala D. Harris,10
+Schoharie,Town of Sharon 2 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,99
+Schoharie,Town of Sharon 2 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,95
+Schoharie,Town of Sharon 2 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,11
+Schoharie,Town of Sharon 2 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,15
+Schoharie,Town of Sharon 2 LD 1,U.S. House,21,DEM,Paula Collins,93
+Schoharie,Town of Sharon 2 LD 1,U.S. House,21,REP,Elise M. Stefanik,108
+Schoharie,Town of Sharon 2 LD 1,U.S. House,21,CON,Elise M. Stefanik,10
+Schoharie,Town of Sharon 2 LD 1,U.S. House,21,WOR,Paula Collins,11
+Schoharie,Town of Sharon 2 LD 1,State Senate,51,DEM,Michele Frazier,87
+Schoharie,Town of Sharon 2 LD 1,State Senate,51,REP,Peter Oberacker,110
+Schoharie,Town of Sharon 2 LD 1,State Senate,51,CON,Peter Oberacker,11
+Schoharie,Town of Sharon 2 LD 1,State Senate,51,WOR,Michele Frazier,12
+Schoharie,Town of Sharon 2 LD 1,State Assembly,102,DEM,Janet S. Tweed,79
+Schoharie,Town of Sharon 2 LD 1,State Assembly,102,REP,Christopher Tague,121
+Schoharie,Town of Sharon 2 LD 1,State Assembly,102,CON,Christopher Tague,11
+Schoharie,Town of Sharon 2 LD 1,State Assembly,102,WOR,Janet S. Tweed,11
+Schoharie,Town of Summit 1 LD 1,President,,DEM,Kamala D. Harris,176
+Schoharie,Town of Summit 1 LD 1,President,,REP,Donald J. Trump,425
+Schoharie,Town of Summit 1 LD 1,President,,CON,Donald J. Trump,46
+Schoharie,Town of Summit 1 LD 1,President,,WOR,Kamala D. Harris,17
+Schoharie,Town of Summit 1 LD 1,President,,,Write-in,5
+Schoharie,Town of Summit 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,185
+Schoharie,Town of Summit 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,391
+Schoharie,Town of Summit 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,51
+Schoharie,Town of Summit 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Schoharie,Town of Summit 1 LD 1,U.S. Senate,,LAR,Diane Sare,5
+Schoharie,Town of Summit 1 LD 1,U.S. House,21,DEM,Paula Collins,160
+Schoharie,Town of Summit 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,418
+Schoharie,Town of Summit 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,53
+Schoharie,Town of Summit 1 LD 1,U.S. House,21,WOR,Paula Collins,26
+Schoharie,Town of Summit 1 LD 1,U.S. House,21,,Write-in,1
+Schoharie,Town of Summit 1 LD 1,State Senate,51,DEM,Michele Frazier,144
+Schoharie,Town of Summit 1 LD 1,State Senate,51,REP,Peter Oberacker,434
+Schoharie,Town of Summit 1 LD 1,State Senate,51,CON,Peter Oberacker,57
+Schoharie,Town of Summit 1 LD 1,State Senate,51,WOR,Michele Frazier,18
+Schoharie,Town of Summit 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,138
+Schoharie,Town of Summit 1 LD 1,State Assembly,102,REP,Christopher Tague,439
+Schoharie,Town of Summit 1 LD 1,State Assembly,102,CON,Christopher Tague,59
+Schoharie,Town of Summit 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,17
+Schoharie,Town of Wright 1 LD 1,President,,DEM,Kamala D. Harris,311
+Schoharie,Town of Wright 1 LD 1,President,,REP,Donald J. Trump,488
+Schoharie,Town of Wright 1 LD 1,President,,CON,Donald J. Trump,66
+Schoharie,Town of Wright 1 LD 1,President,,WOR,Kamala D. Harris,26
+Schoharie,Town of Wright 1 LD 1,President,,,Write-in,6
+Schoharie,Town of Wright 1 LD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,338
+Schoharie,Town of Wright 1 LD 1,U.S. Senate,,REP,Michael D. Sapraicone,431
+Schoharie,Town of Wright 1 LD 1,U.S. Senate,,CON,Michael D. Sapraicone,62
+Schoharie,Town of Wright 1 LD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,49
+Schoharie,Town of Wright 1 LD 1,U.S. Senate,,LAR,Diane Sare,2
+Schoharie,Town of Wright 1 LD 1,U.S. Senate,,,Write-in,1
+Schoharie,Town of Wright 1 LD 1,U.S. House,21,DEM,Paula Collins,285
+Schoharie,Town of Wright 1 LD 1,U.S. House,21,REP,Elise M. Stefanik,492
+Schoharie,Town of Wright 1 LD 1,U.S. House,21,CON,Elise M. Stefanik,70
+Schoharie,Town of Wright 1 LD 1,U.S. House,21,WOR,Paula Collins,35
+Schoharie,Town of Wright 1 LD 1,U.S. House,21,,Write-in,1
+Schoharie,Town of Wright 1 LD 1,State Senate,51,DEM,Michele Frazier,271
+Schoharie,Town of Wright 1 LD 1,State Senate,51,REP,Peter Oberacker,496
+Schoharie,Town of Wright 1 LD 1,State Senate,51,CON,Peter Oberacker,70
+Schoharie,Town of Wright 1 LD 1,State Senate,51,WOR,Michele Frazier,37
+Schoharie,Town of Wright 1 LD 1,State Senate,51,,Write-in,1
+Schoharie,Town of Wright 1 LD 1,State Assembly,102,DEM,Janet S. Tweed,249
+Schoharie,Town of Wright 1 LD 1,State Assembly,102,REP,Christopher Tague,526
+Schoharie,Town of Wright 1 LD 1,State Assembly,102,CON,Christopher Tague,74
+Schoharie,Town of Wright 1 LD 1,State Assembly,102,WOR,Janet S. Tweed,37

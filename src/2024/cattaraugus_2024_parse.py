@@ -46,8 +46,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import ny2024_rpp_parser as P
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-PDF_PATH = os.path.join(HERE, "2024", "pdf_src", "Cattaraugus.pdf")
-OUT_PATH = os.path.join(HERE, "2024", "counties",
+PDF_PATH = os.path.join(HERE, "..", "..", "2024", "pdf_src", "Cattaraugus.pdf")
+OUT_PATH = os.path.join(HERE, "..", "..", "2024", "counties",
                        "20241105__ny__general__cattaraugus__precinct.csv")
 
 # Contest page ranges (1-indexed) -> (canonical office, district).

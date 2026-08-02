@@ -1,0 +1,614 @@
+county,precinct,office,district,party,candidate,votes
+Washington,Argyle 1,President,,DEM,Kamala D. Harris,178
+Washington,Argyle 1,President,,REP,Donald J. Trump,433
+Washington,Argyle 1,President,,,Write-in,1
+Washington,Argyle 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,211
+Washington,Argyle 1,U.S. Senate,,REP,Michael D. Sapraicone,381
+Washington,Argyle 1,U.S. Senate,,LAR,Diane Sare,5
+Washington,Argyle 1,U.S. House,21,DEM,Paula Collins,163
+Washington,Argyle 1,U.S. House,21,REP,Elise M. Stefanik,448
+Washington,Argyle 1,U.S. House,21,,Write-in,1
+Washington,Argyle 1,State Senate,43,DEM,Alvin Gamble,147
+Washington,Argyle 1,State Senate,43,REP,Jake Ashby,443
+Washington,Argyle 1,State Assembly,114,REP,Matthew J. Simpson,481
+Washington,Argyle 1,State Assembly,114,,Write-in,2
+Washington,Argyle 2,President,,DEM,Kamala D. Harris,208
+Washington,Argyle 2,President,,REP,Donald J. Trump,415
+Washington,Argyle 2,President,,,Write-in,7
+Washington,Argyle 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,243
+Washington,Argyle 2,U.S. Senate,,REP,Michael D. Sapraicone,376
+Washington,Argyle 2,U.S. Senate,,LAR,Diane Sare,2
+Washington,Argyle 2,U.S. House,21,DEM,Paula Collins,195
+Washington,Argyle 2,U.S. House,21,REP,Elise M. Stefanik,433
+Washington,Argyle 2,U.S. House,21,,Write-in,1
+Washington,Argyle 2,State Senate,43,DEM,Alvin Gamble,160
+Washington,Argyle 2,State Senate,43,REP,Jake Ashby,448
+Washington,Argyle 2,State Assembly,114,REP,Matthew J. Simpson,495
+Washington,Argyle 2,State Assembly,114,,Write-in,1
+Washington,Argyle 3,President,,DEM,Kamala D. Harris,230
+Washington,Argyle 3,President,,REP,Donald J. Trump,450
+Washington,Argyle 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,261
+Washington,Argyle 3,U.S. Senate,,REP,Michael D. Sapraicone,412
+Washington,Argyle 3,U.S. House,21,DEM,Paula Collins,215
+Washington,Argyle 3,U.S. House,21,REP,Elise M. Stefanik,459
+Washington,Argyle 3,State Senate,43,DEM,Alvin Gamble,190
+Washington,Argyle 3,State Senate,43,REP,Jake Ashby,473
+Washington,Argyle 3,State Assembly,114,REP,Matthew J. Simpson,519
+Washington,Cambridge 1,President,,DEM,Kamala D. Harris,303
+Washington,Cambridge 1,President,,REP,Donald J. Trump,313
+Washington,Cambridge 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,315
+Washington,Cambridge 1,U.S. Senate,,REP,Michael D. Sapraicone,288
+Washington,Cambridge 1,U.S. Senate,,LAR,Diane Sare,2
+Washington,Cambridge 1,U.S. Senate,,,Write-in,2
+Washington,Cambridge 1,U.S. House,21,DEM,Paula Collins,291
+Washington,Cambridge 1,U.S. House,21,REP,Elise M. Stefanik,309
+Washington,Cambridge 1,U.S. House,21,,Write-in,1
+Washington,Cambridge 1,State Senate,43,DEM,Alvin Gamble,261
+Washington,Cambridge 1,State Senate,43,REP,Jake Ashby,332
+Washington,Cambridge 1,State Senate,43,,Write-in,1
+Washington,Cambridge 1,State Assembly,107,DEM,Chloe E. Pierce,278
+Washington,Cambridge 1,State Assembly,107,REP,Scott H. Bendett,313
+Washington,Cambridge 1,State Assembly,107,,Write-in,1
+Washington,Cambridge 2,President,,DEM,Kamala D. Harris,283
+Washington,Cambridge 2,President,,REP,Donald J. Trump,249
+Washington,Cambridge 2,President,,,Write-in,3
+Washington,Cambridge 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,300
+Washington,Cambridge 2,U.S. Senate,,REP,Michael D. Sapraicone,228
+Washington,Cambridge 2,U.S. Senate,,LAR,Diane Sare,2
+Washington,Cambridge 2,U.S. Senate,,,Write-in,1
+Washington,Cambridge 2,U.S. House,21,DEM,Paula Collins,280
+Washington,Cambridge 2,U.S. House,21,REP,Elise M. Stefanik,253
+Washington,Cambridge 2,State Senate,43,DEM,Alvin Gamble,246
+Washington,Cambridge 2,State Senate,43,REP,Jake Ashby,283
+Washington,Cambridge 2,State Assembly,107,DEM,Chloe E. Pierce,270
+Washington,Cambridge 2,State Assembly,107,REP,Scott H. Bendett,255
+Washington,Dresden 1,President,,DEM,Kamala D. Harris,107
+Washington,Dresden 1,President,,REP,Donald J. Trump,209
+Washington,Dresden 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,118
+Washington,Dresden 1,U.S. Senate,,REP,Michael D. Sapraicone,173
+Washington,Dresden 1,U.S. Senate,,LAR,Diane Sare,3
+Washington,Dresden 1,U.S. House,21,DEM,Paula Collins,100
+Washington,Dresden 1,U.S. House,21,REP,Elise M. Stefanik,204
+Washington,Dresden 1,State Senate,45,REP,Daniel G. Stec,230
+Washington,Dresden 1,State Senate,45,,Write-in,5
+Washington,Dresden 1,State Assembly,114,REP,Matthew J. Simpson,226
+Washington,Dresden 1,State Assembly,114,,Write-in,4
+Washington,Easton 1,President,,DEM,Kamala D. Harris,301
+Washington,Easton 1,President,,REP,Donald J. Trump,402
+Washington,Easton 1,President,,,Write-in,4
+Washington,Easton 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,311
+Washington,Easton 1,U.S. Senate,,REP,Michael D. Sapraicone,381
+Washington,Easton 1,U.S. Senate,,LAR,Diane Sare,5
+Washington,Easton 1,U.S. House,21,DEM,Paula Collins,267
+Washington,Easton 1,U.S. House,21,REP,Elise M. Stefanik,426
+Washington,Easton 1,U.S. House,21,,Write-in,1
+Washington,Easton 1,State Senate,43,DEM,Alvin Gamble,235
+Washington,Easton 1,State Senate,43,REP,Jake Ashby,455
+Washington,Easton 1,State Assembly,107,DEM,Chloe E. Pierce,250
+Washington,Easton 1,State Assembly,107,REP,Scott H. Bendett,438
+Washington,Easton 2,President,,DEM,Kamala D. Harris,228
+Washington,Easton 2,President,,REP,Donald J. Trump,421
+Washington,Easton 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,263
+Washington,Easton 2,U.S. Senate,,REP,Michael D. Sapraicone,372
+Washington,Easton 2,U.S. Senate,,LAR,Diane Sare,2
+Washington,Easton 2,U.S. Senate,,,Write-in,1
+Washington,Easton 2,U.S. House,21,DEM,Paula Collins,212
+Washington,Easton 2,U.S. House,21,REP,Elise M. Stefanik,427
+Washington,Easton 2,U.S. House,21,,Write-in,2
+Washington,Easton 2,State Senate,43,DEM,Alvin Gamble,181
+Washington,Easton 2,State Senate,43,REP,Jake Ashby,449
+Washington,Easton 2,State Senate,43,,Write-in,1
+Washington,Easton 2,State Assembly,107,DEM,Chloe E. Pierce,195
+Washington,Easton 2,State Assembly,107,REP,Scott H. Bendett,432
+Washington,Easton 2,State Assembly,107,,Write-in,2
+Washington,Fort Ann 1,President,,DEM,Kamala D. Harris,102
+Washington,Fort Ann 1,President,,REP,Donald J. Trump,258
+Washington,Fort Ann 1,President,,,Write-in,2
+Washington,Fort Ann 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,114
+Washington,Fort Ann 1,U.S. Senate,,REP,Michael D. Sapraicone,227
+Washington,Fort Ann 1,U.S. Senate,,LAR,Diane Sare,1
+Washington,Fort Ann 1,U.S. House,21,DEM,Paula Collins,94
+Washington,Fort Ann 1,U.S. House,21,REP,Elise M. Stefanik,255
+Washington,Fort Ann 1,State Senate,45,REP,Daniel G. Stec,292
+Washington,Fort Ann 1,State Senate,45,,Write-in,3
+Washington,Fort Ann 1,State Assembly,114,REP,Matthew J. Simpson,282
+Washington,Fort Ann 1,State Assembly,114,,Write-in,2
+Washington,Fort Ann 2,President,,DEM,Kamala D. Harris,160
+Washington,Fort Ann 2,President,,REP,Donald J. Trump,379
+Washington,Fort Ann 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,178
+Washington,Fort Ann 2,U.S. Senate,,REP,Michael D. Sapraicone,339
+Washington,Fort Ann 2,U.S. Senate,,LAR,Diane Sare,1
+Washington,Fort Ann 2,U.S. House,21,DEM,Paula Collins,141
+Washington,Fort Ann 2,U.S. House,21,REP,Elise M. Stefanik,391
+Washington,Fort Ann 2,State Senate,45,REP,Daniel G. Stec,438
+Washington,Fort Ann 2,State Senate,45,,Write-in,3
+Washington,Fort Ann 2,State Assembly,114,REP,Matthew J. Simpson,427
+Washington,Fort Ann 2,State Assembly,114,,Write-in,3
+Washington,Fort Ann 3,President,,DEM,Kamala D. Harris,333
+Washington,Fort Ann 3,President,,REP,Donald J. Trump,737
+Washington,Fort Ann 3,President,,,Write-in,4
+Washington,Fort Ann 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,394
+Washington,Fort Ann 3,U.S. Senate,,REP,Michael D. Sapraicone,657
+Washington,Fort Ann 3,U.S. Senate,,LAR,Diane Sare,8
+Washington,Fort Ann 3,U.S. Senate,,,Write-in,2
+Washington,Fort Ann 3,U.S. House,21,DEM,Paula Collins,328
+Washington,Fort Ann 3,U.S. House,21,REP,Elise M. Stefanik,747
+Washington,Fort Ann 3,State Senate,45,REP,Daniel G. Stec,875
+Washington,Fort Ann 3,State Senate,45,,Write-in,6
+Washington,Fort Ann 3,State Assembly,114,REP,Matthew J. Simpson,866
+Washington,Fort Ann 3,State Assembly,114,,Write-in,4
+Washington,Fort Edward 1,President,,DEM,Kamala D. Harris,284
+Washington,Fort Edward 1,President,,REP,Donald J. Trump,375
+Washington,Fort Edward 1,President,,,Write-in,2
+Washington,Fort Edward 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,324
+Washington,Fort Edward 1,U.S. Senate,,REP,Michael D. Sapraicone,311
+Washington,Fort Edward 1,U.S. Senate,,LAR,Diane Sare,1
+Washington,Fort Edward 1,U.S. House,21,DEM,Paula Collins,258
+Washington,Fort Edward 1,U.S. House,21,REP,Elise M. Stefanik,388
+Washington,Fort Edward 1,State Senate,43,DEM,Alvin Gamble,222
+Washington,Fort Edward 1,State Senate,43,REP,Jake Ashby,399
+Washington,Fort Edward 1,State Assembly,113,DEM,Carrie Woerner,303
+Washington,Fort Edward 1,State Assembly,113,REP,Jeremy Messina,336
+Washington,Fort Edward 2,President,,DEM,Kamala D. Harris,255
+Washington,Fort Edward 2,President,,REP,Donald J. Trump,316
+Washington,Fort Edward 2,President,,,Write-in,2
+Washington,Fort Edward 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,292
+Washington,Fort Edward 2,U.S. Senate,,REP,Michael D. Sapraicone,259
+Washington,Fort Edward 2,U.S. Senate,,LAR,Diane Sare,5
+Washington,Fort Edward 2,U.S. House,21,DEM,Paula Collins,238
+Washington,Fort Edward 2,U.S. House,21,REP,Elise M. Stefanik,316
+Washington,Fort Edward 2,State Senate,43,DEM,Alvin Gamble,212
+Washington,Fort Edward 2,State Senate,43,REP,Jake Ashby,321
+Washington,Fort Edward 2,State Assembly,113,DEM,Carrie Woerner,287
+Washington,Fort Edward 2,State Assembly,113,REP,Jeremy Messina,265
+Washington,Fort Edward 3,President,,DEM,Kamala D. Harris,93
+Washington,Fort Edward 3,President,,REP,Donald J. Trump,134
+Washington,Fort Edward 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,105
+Washington,Fort Edward 3,U.S. Senate,,REP,Michael D. Sapraicone,112
+Washington,Fort Edward 3,U.S. Senate,,LAR,Diane Sare,1
+Washington,Fort Edward 3,U.S. House,21,DEM,Paula Collins,86
+Washington,Fort Edward 3,U.S. House,21,REP,Elise M. Stefanik,136
+Washington,Fort Edward 3,State Senate,43,DEM,Alvin Gamble,74
+Washington,Fort Edward 3,State Senate,43,REP,Jake Ashby,144
+Washington,Fort Edward 3,State Assembly,113,DEM,Carrie Woerner,99
+Washington,Fort Edward 3,State Assembly,113,REP,Jeremy Messina,122
+Washington,Fort Edward 4,President,,DEM,Kamala D. Harris,317
+Washington,Fort Edward 4,President,,REP,Donald J. Trump,431
+Washington,Fort Edward 4,President,,,Write-in,4
+Washington,Fort Edward 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,335
+Washington,Fort Edward 4,U.S. Senate,,REP,Michael D. Sapraicone,387
+Washington,Fort Edward 4,U.S. Senate,,LAR,Diane Sare,7
+Washington,Fort Edward 4,U.S. House,21,DEM,Paula Collins,295
+Washington,Fort Edward 4,U.S. House,21,REP,Elise M. Stefanik,442
+Washington,Fort Edward 4,State Senate,43,DEM,Alvin Gamble,258
+Washington,Fort Edward 4,State Senate,43,REP,Jake Ashby,452
+Washington,Fort Edward 4,State Assembly,113,DEM,Carrie Woerner,347
+Washington,Fort Edward 4,State Assembly,113,REP,Jeremy Messina,387
+Washington,Fort Edward 5,President,,DEM,Kamala D. Harris,87
+Washington,Fort Edward 5,President,,REP,Donald J. Trump,187
+Washington,Fort Edward 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,100
+Washington,Fort Edward 5,U.S. Senate,,REP,Michael D. Sapraicone,168
+Washington,Fort Edward 5,U.S. Senate,,LAR,Diane Sare,1
+Washington,Fort Edward 5,U.S. House,21,DEM,Paula Collins,78
+Washington,Fort Edward 5,U.S. House,21,REP,Elise M. Stefanik,193
+Washington,Fort Edward 5,State Senate,43,DEM,Alvin Gamble,73
+Washington,Fort Edward 5,State Senate,43,REP,Jake Ashby,192
+Washington,Fort Edward 5,State Assembly,113,DEM,Carrie Woerner,93
+Washington,Fort Edward 5,State Assembly,113,REP,Jeremy Messina,177
+Washington,Granville 1,President,,DEM,Kamala D. Harris,95
+Washington,Granville 1,President,,REP,Donald J. Trump,155
+Washington,Granville 1,President,,,Write-in,1
+Washington,Granville 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,106
+Washington,Granville 1,U.S. Senate,,REP,Michael D. Sapraicone,138
+Washington,Granville 1,U.S. Senate,,LAR,Diane Sare,2
+Washington,Granville 1,U.S. House,21,DEM,Paula Collins,85
+Washington,Granville 1,U.S. House,21,REP,Elise M. Stefanik,160
+Washington,Granville 1,State Senate,43,DEM,Alvin Gamble,78
+Washington,Granville 1,State Senate,43,REP,Jake Ashby,160
+Washington,Granville 1,State Assembly,114,REP,Matthew J. Simpson,191
+Washington,Granville 1,State Assembly,114,,Write-in,1
+Washington,Granville 2,President,,DEM,Kamala D. Harris,229
+Washington,Granville 2,President,,REP,Donald J. Trump,284
+Washington,Granville 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,248
+Washington,Granville 2,U.S. Senate,,REP,Michael D. Sapraicone,252
+Washington,Granville 2,U.S. Senate,,LAR,Diane Sare,5
+Washington,Granville 2,U.S. Senate,,,Write-in,1
+Washington,Granville 2,U.S. House,21,DEM,Paula Collins,215
+Washington,Granville 2,U.S. House,21,REP,Elise M. Stefanik,294
+Washington,Granville 2,State Senate,43,DEM,Alvin Gamble,189
+Washington,Granville 2,State Senate,43,REP,Jake Ashby,309
+Washington,Granville 2,State Assembly,114,REP,Matthew J. Simpson,363
+Washington,Granville 2,State Assembly,114,,Write-in,5
+Washington,Granville 3,President,,DEM,Kamala D. Harris,233
+Washington,Granville 3,President,,REP,Donald J. Trump,471
+Washington,Granville 3,President,,,Write-in,4
+Washington,Granville 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,261
+Washington,Granville 3,U.S. Senate,,REP,Michael D. Sapraicone,423
+Washington,Granville 3,U.S. Senate,,LAR,Diane Sare,2
+Washington,Granville 3,U.S. House,21,DEM,Paula Collins,206
+Washington,Granville 3,U.S. House,21,REP,Elise M. Stefanik,487
+Washington,Granville 3,State Senate,43,DEM,Alvin Gamble,178
+Washington,Granville 3,State Senate,43,REP,Jake Ashby,499
+Washington,Granville 3,State Assembly,114,REP,Matthew J. Simpson,540
+Washington,Granville 3,State Assembly,114,,Write-in,3
+Washington,Granville 4,President,,DEM,Kamala D. Harris,207
+Washington,Granville 4,President,,REP,Donald J. Trump,428
+Washington,Granville 4,President,,,Write-in,2
+Washington,Granville 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,238
+Washington,Granville 4,U.S. Senate,,REP,Michael D. Sapraicone,378
+Washington,Granville 4,U.S. Senate,,LAR,Diane Sare,2
+Washington,Granville 4,U.S. House,21,DEM,Paula Collins,189
+Washington,Granville 4,U.S. House,21,REP,Elise M. Stefanik,427
+Washington,Granville 4,State Senate,43,DEM,Alvin Gamble,158
+Washington,Granville 4,State Senate,43,REP,Jake Ashby,435
+Washington,Granville 4,State Assembly,114,REP,Matthew J. Simpson,472
+Washington,Granville 4,State Assembly,114,,Write-in,2
+Washington,Granville 5,President,,DEM,Kamala D. Harris,162
+Washington,Granville 5,President,,REP,Donald J. Trump,425
+Washington,Granville 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,199
+Washington,Granville 5,U.S. Senate,,REP,Michael D. Sapraicone,359
+Washington,Granville 5,U.S. Senate,,LAR,Diane Sare,5
+Washington,Granville 5,U.S. House,21,DEM,Paula Collins,153
+Washington,Granville 5,U.S. House,21,REP,Elise M. Stefanik,412
+Washington,Granville 5,State Senate,43,DEM,Alvin Gamble,123
+Washington,Granville 5,State Senate,43,REP,Jake Ashby,425
+Washington,Granville 5,State Senate,43,,Write-in,1
+Washington,Granville 5,State Assembly,114,REP,Matthew J. Simpson,458
+Washington,Granville 5,State Assembly,114,,Write-in,3
+Washington,Greenwich 1,President,,DEM,Kamala D. Harris,238
+Washington,Greenwich 1,President,,REP,Donald J. Trump,232
+Washington,Greenwich 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,255
+Washington,Greenwich 1,U.S. Senate,,REP,Michael D. Sapraicone,207
+Washington,Greenwich 1,U.S. Senate,,,Write-in,1
+Washington,Greenwich 1,U.S. House,21,DEM,Paula Collins,226
+Washington,Greenwich 1,U.S. House,21,REP,Elise M. Stefanik,240
+Washington,Greenwich 1,U.S. House,21,,Write-in,1
+Washington,Greenwich 1,State Senate,43,DEM,Alvin Gamble,193
+Washington,Greenwich 1,State Senate,43,REP,Jake Ashby,264
+Washington,Greenwich 1,State Assembly,113,DEM,Carrie Woerner,246
+Washington,Greenwich 1,State Assembly,113,REP,Jeremy Messina,222
+Washington,Greenwich 2,President,,DEM,Kamala D. Harris,169
+Washington,Greenwich 2,President,,REP,Donald J. Trump,168
+Washington,Greenwich 2,President,,,Write-in,2
+Washington,Greenwich 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,187
+Washington,Greenwich 2,U.S. Senate,,REP,Michael D. Sapraicone,144
+Washington,Greenwich 2,U.S. Senate,,LAR,Diane Sare,2
+Washington,Greenwich 2,U.S. Senate,,,Write-in,2
+Washington,Greenwich 2,U.S. House,21,DEM,Paula Collins,169
+Washington,Greenwich 2,U.S. House,21,REP,Elise M. Stefanik,167
+Washington,Greenwich 2,U.S. House,21,,Write-in,2
+Washington,Greenwich 2,State Senate,43,DEM,Alvin Gamble,141
+Washington,Greenwich 2,State Senate,43,REP,Jake Ashby,178
+Washington,Greenwich 2,State Senate,43,,Write-in,2
+Washington,Greenwich 2,State Assembly,113,DEM,Carrie Woerner,186
+Washington,Greenwich 2,State Assembly,113,REP,Jeremy Messina,145
+Washington,Greenwich 2,State Assembly,113,,Write-in,2
+Washington,Greenwich 3,President,,DEM,Kamala D. Harris,360
+Washington,Greenwich 3,President,,REP,Donald J. Trump,331
+Washington,Greenwich 3,President,,,Write-in,2
+Washington,Greenwich 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,402
+Washington,Greenwich 3,U.S. Senate,,REP,Michael D. Sapraicone,278
+Washington,Greenwich 3,U.S. Senate,,LAR,Diane Sare,3
+Washington,Greenwich 3,U.S. House,21,DEM,Paula Collins,338
+Washington,Greenwich 3,U.S. House,21,REP,Elise M. Stefanik,346
+Washington,Greenwich 3,State Senate,43,DEM,Alvin Gamble,301
+Washington,Greenwich 3,State Senate,43,REP,Jake Ashby,371
+Washington,Greenwich 3,State Assembly,113,DEM,Carrie Woerner,389
+Washington,Greenwich 3,State Assembly,113,REP,Jeremy Messina,299
+Washington,Greenwich 4,President,,DEM,Kamala D. Harris,424
+Washington,Greenwich 4,President,,REP,Donald J. Trump,400
+Washington,Greenwich 4,President,,,Write-in,3
+Washington,Greenwich 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,472
+Washington,Greenwich 4,U.S. Senate,,REP,Michael D. Sapraicone,345
+Washington,Greenwich 4,U.S. Senate,,LAR,Diane Sare,2
+Washington,Greenwich 4,U.S. Senate,,,Write-in,1
+Washington,Greenwich 4,U.S. House,21,DEM,Paula Collins,407
+Washington,Greenwich 4,U.S. House,21,REP,Elise M. Stefanik,415
+Washington,Greenwich 4,State Senate,43,DEM,Alvin Gamble,361
+Washington,Greenwich 4,State Senate,43,REP,Jake Ashby,445
+Washington,Greenwich 4,State Assembly,113,DEM,Carrie Woerner,465
+Washington,Greenwich 4,State Assembly,113,REP,Jeremy Messina,357
+Washington,Greenwich 5,President,,DEM,Kamala D. Harris,163
+Washington,Greenwich 5,President,,REP,Donald J. Trump,257
+Washington,Greenwich 5,President,,,Write-in,1
+Washington,Greenwich 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,179
+Washington,Greenwich 5,U.S. Senate,,REP,Michael D. Sapraicone,229
+Washington,Greenwich 5,U.S. Senate,,LAR,Diane Sare,3
+Washington,Greenwich 5,U.S. House,21,DEM,Paula Collins,153
+Washington,Greenwich 5,U.S. House,21,REP,Elise M. Stefanik,264
+Washington,Greenwich 5,U.S. House,21,,Write-in,1
+Washington,Greenwich 5,State Senate,43,DEM,Alvin Gamble,130
+Washington,Greenwich 5,State Senate,43,REP,Jake Ashby,277
+Washington,Greenwich 5,State Assembly,113,DEM,Carrie Woerner,189
+Washington,Greenwich 5,State Assembly,113,REP,Jeremy Messina,228
+Washington,Hampton 1,President,,DEM,Kamala D. Harris,125
+Washington,Hampton 1,President,,REP,Donald J. Trump,271
+Washington,Hampton 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,132
+Washington,Hampton 1,U.S. Senate,,REP,Michael D. Sapraicone,247
+Washington,Hampton 1,U.S. Senate,,LAR,Diane Sare,1
+Washington,Hampton 1,U.S. House,21,DEM,Paula Collins,116
+Washington,Hampton 1,U.S. House,21,REP,Elise M. Stefanik,276
+Washington,Hampton 1,State Senate,43,DEM,Alvin Gamble,93
+Washington,Hampton 1,State Senate,43,REP,Jake Ashby,286
+Washington,Hampton 1,State Assembly,114,REP,Matthew J. Simpson,310
+Washington,Hartford 1,President,,DEM,Kamala D. Harris,131
+Washington,Hartford 1,President,,REP,Donald J. Trump,310
+Washington,Hartford 1,President,,,Write-in,1
+Washington,Hartford 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,157
+Washington,Hartford 1,U.S. Senate,,REP,Michael D. Sapraicone,272
+Washington,Hartford 1,U.S. Senate,,LAR,Diane Sare,2
+Washington,Hartford 1,U.S. House,21,DEM,Paula Collins,117
+Washington,Hartford 1,U.S. House,21,REP,Elise M. Stefanik,320
+Washington,Hartford 1,U.S. House,21,,Write-in,1
+Washington,Hartford 1,State Senate,43,DEM,Alvin Gamble,101
+Washington,Hartford 1,State Senate,43,REP,Jake Ashby,321
+Washington,Hartford 1,State Assembly,114,REP,Matthew J. Simpson,357
+Washington,Hartford 1,State Assembly,114,,Write-in,1
+Washington,Hartford 2,President,,DEM,Kamala D. Harris,221
+Washington,Hartford 2,President,,REP,Donald J. Trump,505
+Washington,Hartford 2,President,,,Write-in,4
+Washington,Hartford 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,267
+Washington,Hartford 2,U.S. Senate,,REP,Michael D. Sapraicone,448
+Washington,Hartford 2,U.S. Senate,,LAR,Diane Sare,1
+Washington,Hartford 2,U.S. House,21,DEM,Paula Collins,199
+Washington,Hartford 2,U.S. House,21,REP,Elise M. Stefanik,519
+Washington,Hartford 2,State Senate,43,DEM,Alvin Gamble,161
+Washington,Hartford 2,State Senate,43,REP,Jake Ashby,549
+Washington,Hartford 2,State Assembly,114,REP,Matthew J. Simpson,593
+Washington,Hebron 1,President,,DEM,Kamala D. Harris,405
+Washington,Hebron 1,President,,REP,Donald J. Trump,543
+Washington,Hebron 1,President,,,Write-in,6
+Washington,Hebron 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,431
+Washington,Hebron 1,U.S. Senate,,REP,Michael D. Sapraicone,499
+Washington,Hebron 1,U.S. Senate,,LAR,Diane Sare,8
+Washington,Hebron 1,U.S. Senate,,,Write-in,1
+Washington,Hebron 1,U.S. House,21,DEM,Paula Collins,388
+Washington,Hebron 1,U.S. House,21,REP,Elise M. Stefanik,551
+Washington,Hebron 1,U.S. House,21,,Write-in,1
+Washington,Hebron 1,State Senate,43,DEM,Alvin Gamble,348
+Washington,Hebron 1,State Senate,43,REP,Jake Ashby,584
+Washington,Hebron 1,State Assembly,114,REP,Matthew J. Simpson,675
+Washington,Hebron 1,State Assembly,114,,Write-in,4
+Washington,Jackson 1,President,,DEM,Kamala D. Harris,461
+Washington,Jackson 1,President,,REP,Donald J. Trump,548
+Washington,Jackson 1,President,,,Write-in,6
+Washington,Jackson 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,488
+Washington,Jackson 1,U.S. Senate,,REP,Michael D. Sapraicone,503
+Washington,Jackson 1,U.S. Senate,,LAR,Diane Sare,7
+Washington,Jackson 1,U.S. House,21,DEM,Paula Collins,437
+Washington,Jackson 1,U.S. House,21,REP,Elise M. Stefanik,563
+Washington,Jackson 1,State Senate,43,DEM,Alvin Gamble,382
+Washington,Jackson 1,State Senate,43,REP,Jake Ashby,603
+Washington,Jackson 1,State Assembly,114,REP,Matthew J. Simpson,670
+Washington,Jackson 1,State Assembly,114,,Write-in,11
+Washington,Kingsbury 1,President,,DEM,Kamala D. Harris,322
+Washington,Kingsbury 1,President,,REP,Donald J. Trump,652
+Washington,Kingsbury 1,President,,,Write-in,3
+Washington,Kingsbury 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,385
+Washington,Kingsbury 1,U.S. Senate,,REP,Michael D. Sapraicone,554
+Washington,Kingsbury 1,U.S. Senate,,LAR,Diane Sare,5
+Washington,Kingsbury 1,U.S. Senate,,,Write-in,2
+Washington,Kingsbury 1,U.S. House,21,DEM,Paula Collins,306
+Washington,Kingsbury 1,U.S. House,21,REP,Elise M. Stefanik,658
+Washington,Kingsbury 1,U.S. House,21,,Write-in,2
+Washington,Kingsbury 1,State Senate,45,REP,Daniel G. Stec,796
+Washington,Kingsbury 1,State Senate,45,,Write-in,2
+Washington,Kingsbury 1,State Assembly,114,REP,Matthew J. Simpson,768
+Washington,Kingsbury 1,State Assembly,114,,Write-in,2
+Washington,Kingsbury 2,President,,DEM,Kamala D. Harris,259
+Washington,Kingsbury 2,President,,REP,Donald J. Trump,475
+Washington,Kingsbury 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,292
+Washington,Kingsbury 2,U.S. Senate,,REP,Michael D. Sapraicone,418
+Washington,Kingsbury 2,U.S. Senate,,LAR,Diane Sare,4
+Washington,Kingsbury 2,U.S. Senate,,,Write-in,1
+Washington,Kingsbury 2,U.S. House,21,DEM,Paula Collins,239
+Washington,Kingsbury 2,U.S. House,21,REP,Elise M. Stefanik,481
+Washington,Kingsbury 2,U.S. House,21,,Write-in,1
+Washington,Kingsbury 2,State Senate,45,REP,Daniel G. Stec,590
+Washington,Kingsbury 2,State Senate,45,,Write-in,4
+Washington,Kingsbury 2,State Assembly,114,REP,Matthew J. Simpson,577
+Washington,Kingsbury 2,State Assembly,114,,Write-in,5
+Washington,Kingsbury 3,President,,DEM,Kamala D. Harris,232
+Washington,Kingsbury 3,President,,REP,Donald J. Trump,347
+Washington,Kingsbury 3,President,,,Write-in,2
+Washington,Kingsbury 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,262
+Washington,Kingsbury 3,U.S. Senate,,REP,Michael D. Sapraicone,290
+Washington,Kingsbury 3,U.S. Senate,,LAR,Diane Sare,7
+Washington,Kingsbury 3,U.S. House,21,DEM,Paula Collins,215
+Washington,Kingsbury 3,U.S. House,21,REP,Elise M. Stefanik,354
+Washington,Kingsbury 3,State Senate,45,REP,Daniel G. Stec,445
+Washington,Kingsbury 3,State Senate,45,,Write-in,2
+Washington,Kingsbury 3,State Assembly,113,DEM,Carrie Woerner,247
+Washington,Kingsbury 3,State Assembly,113,REP,Jeremy Messina,300
+Washington,Kingsbury 4,President,,DEM,Kamala D. Harris,216
+Washington,Kingsbury 4,President,,REP,Donald J. Trump,306
+Washington,Kingsbury 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,253
+Washington,Kingsbury 4,U.S. Senate,,REP,Michael D. Sapraicone,248
+Washington,Kingsbury 4,U.S. Senate,,LAR,Diane Sare,2
+Washington,Kingsbury 4,U.S. House,21,DEM,Paula Collins,201
+Washington,Kingsbury 4,U.S. House,21,REP,Elise M. Stefanik,304
+Washington,Kingsbury 4,State Senate,45,REP,Daniel G. Stec,378
+Washington,Kingsbury 4,State Senate,45,,Write-in,1
+Washington,Kingsbury 4,State Assembly,113,DEM,Carrie Woerner,247
+Washington,Kingsbury 4,State Assembly,113,REP,Jeremy Messina,252
+Washington,Kingsbury 5,President,,DEM,Kamala D. Harris,137
+Washington,Kingsbury 5,President,,REP,Donald J. Trump,156
+Washington,Kingsbury 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,143
+Washington,Kingsbury 5,U.S. Senate,,REP,Michael D. Sapraicone,137
+Washington,Kingsbury 5,U.S. Senate,,LAR,Diane Sare,3
+Washington,Kingsbury 5,U.S. House,21,DEM,Paula Collins,124
+Washington,Kingsbury 5,U.S. House,21,REP,Elise M. Stefanik,167
+Washington,Kingsbury 5,State Senate,45,REP,Daniel G. Stec,224
+Washington,Kingsbury 5,State Assembly,113,DEM,Carrie Woerner,145
+Washington,Kingsbury 5,State Assembly,113,REP,Jeremy Messina,143
+Washington,Kingsbury 6,President,,DEM,Kamala D. Harris,269
+Washington,Kingsbury 6,President,,REP,Donald J. Trump,292
+Washington,Kingsbury 6,President,,,Write-in,2
+Washington,Kingsbury 6,U.S. Senate,,DEM,Kirsten E. Gillibrand,295
+Washington,Kingsbury 6,U.S. Senate,,REP,Michael D. Sapraicone,250
+Washington,Kingsbury 6,U.S. Senate,,LAR,Diane Sare,2
+Washington,Kingsbury 6,U.S. House,21,DEM,Paula Collins,252
+Washington,Kingsbury 6,U.S. House,21,REP,Elise M. Stefanik,298
+Washington,Kingsbury 6,State Senate,45,REP,Daniel G. Stec,414
+Washington,Kingsbury 6,State Senate,45,,Write-in,1
+Washington,Kingsbury 6,State Assembly,113,DEM,Carrie Woerner,296
+Washington,Kingsbury 6,State Assembly,113,REP,Jeremy Messina,252
+Washington,Kingsbury 7,President,,DEM,Kamala D. Harris,197
+Washington,Kingsbury 7,President,,REP,Donald J. Trump,264
+Washington,Kingsbury 7,President,,,Write-in,1
+Washington,Kingsbury 7,U.S. Senate,,DEM,Kirsten E. Gillibrand,225
+Washington,Kingsbury 7,U.S. Senate,,REP,Michael D. Sapraicone,226
+Washington,Kingsbury 7,U.S. Senate,,LAR,Diane Sare,3
+Washington,Kingsbury 7,U.S. House,21,DEM,Paula Collins,189
+Washington,Kingsbury 7,U.S. House,21,REP,Elise M. Stefanik,262
+Washington,Kingsbury 7,U.S. House,21,,Write-in,3
+Washington,Kingsbury 7,State Senate,45,REP,Daniel G. Stec,351
+Washington,Kingsbury 7,State Senate,45,,Write-in,3
+Washington,Kingsbury 7,State Assembly,113,DEM,Carrie Woerner,217
+Washington,Kingsbury 7,State Assembly,113,REP,Jeremy Messina,240
+Washington,Kingsbury 8,President,,DEM,Kamala D. Harris,115
+Washington,Kingsbury 8,President,,REP,Donald J. Trump,150
+Washington,Kingsbury 8,U.S. Senate,,DEM,Kirsten E. Gillibrand,130
+Washington,Kingsbury 8,U.S. Senate,,REP,Michael D. Sapraicone,131
+Washington,Kingsbury 8,U.S. Senate,,,Write-in,1
+Washington,Kingsbury 8,U.S. House,21,DEM,Paula Collins,117
+Washington,Kingsbury 8,U.S. House,21,REP,Elise M. Stefanik,149
+Washington,Kingsbury 8,State Senate,45,REP,Daniel G. Stec,195
+Washington,Kingsbury 8,State Senate,45,,Write-in,6
+Washington,Kingsbury 8,State Assembly,113,DEM,Carrie Woerner,121
+Washington,Kingsbury 8,State Assembly,113,REP,Jeremy Messina,140
+Washington,Kingsbury 9,President,,DEM,Kamala D. Harris,365
+Washington,Kingsbury 9,President,,REP,Donald J. Trump,565
+Washington,Kingsbury 9,President,,,Write-in,2
+Washington,Kingsbury 9,U.S. Senate,,DEM,Kirsten E. Gillibrand,411
+Washington,Kingsbury 9,U.S. Senate,,REP,Michael D. Sapraicone,496
+Washington,Kingsbury 9,U.S. Senate,,LAR,Diane Sare,1
+Washington,Kingsbury 9,U.S. House,21,DEM,Paula Collins,331
+Washington,Kingsbury 9,U.S. House,21,REP,Elise M. Stefanik,584
+Washington,Kingsbury 9,U.S. House,21,,Write-in,1
+Washington,Kingsbury 9,State Senate,45,REP,Daniel G. Stec,751
+Washington,Kingsbury 9,State Senate,45,,Write-in,10
+Washington,Kingsbury 9,State Assembly,114,REP,Matthew J. Simpson,735
+Washington,Kingsbury 9,State Assembly,114,,Write-in,11
+Washington,Putnam 1,President,,DEM,Kamala D. Harris,108
+Washington,Putnam 1,President,,REP,Donald J. Trump,264
+Washington,Putnam 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,123
+Washington,Putnam 1,U.S. Senate,,REP,Michael D. Sapraicone,232
+Washington,Putnam 1,U.S. Senate,,LAR,Diane Sare,1
+Washington,Putnam 1,U.S. House,21,DEM,Paula Collins,96
+Washington,Putnam 1,U.S. House,21,REP,Elise M. Stefanik,268
+Washington,Putnam 1,State Senate,45,REP,Daniel G. Stec,297
+Washington,Putnam 1,State Assembly,114,REP,Matthew J. Simpson,296
+Washington,Salem 1,President,,DEM,Kamala D. Harris,189
+Washington,Salem 1,President,,REP,Donald J. Trump,248
+Washington,Salem 1,President,,,Write-in,3
+Washington,Salem 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,214
+Washington,Salem 1,U.S. Senate,,REP,Michael D. Sapraicone,215
+Washington,Salem 1,U.S. Senate,,LAR,Diane Sare,3
+Washington,Salem 1,U.S. House,21,DEM,Paula Collins,189
+Washington,Salem 1,U.S. House,21,REP,Elise M. Stefanik,251
+Washington,Salem 1,State Senate,43,DEM,Alvin Gamble,168
+Washington,Salem 1,State Senate,43,REP,Jake Ashby,261
+Washington,Salem 1,State Assembly,114,REP,Matthew J. Simpson,321
+Washington,Salem 1,State Assembly,114,,Write-in,7
+Washington,Salem 2,President,,DEM,Kamala D. Harris,185
+Washington,Salem 2,President,,REP,Donald J. Trump,207
+Washington,Salem 2,President,,,Write-in,1
+Washington,Salem 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,215
+Washington,Salem 2,U.S. Senate,,REP,Michael D. Sapraicone,175
+Washington,Salem 2,U.S. Senate,,LAR,Diane Sare,1
+Washington,Salem 2,U.S. House,21,DEM,Paula Collins,179
+Washington,Salem 2,U.S. House,21,REP,Elise M. Stefanik,214
+Washington,Salem 2,State Senate,43,DEM,Alvin Gamble,158
+Washington,Salem 2,State Senate,43,REP,Jake Ashby,228
+Washington,Salem 2,State Assembly,114,REP,Matthew J. Simpson,275
+Washington,Salem 2,State Assembly,114,,Write-in,3
+Washington,Salem 3,President,,DEM,Kamala D. Harris,272
+Washington,Salem 3,President,,REP,Donald J. Trump,307
+Washington,Salem 3,President,,,Write-in,1
+Washington,Salem 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,278
+Washington,Salem 3,U.S. Senate,,REP,Michael D. Sapraicone,283
+Washington,Salem 3,U.S. Senate,,LAR,Diane Sare,1
+Washington,Salem 3,U.S. Senate,,,Write-in,1
+Washington,Salem 3,U.S. House,21,DEM,Paula Collins,245
+Washington,Salem 3,U.S. House,21,REP,Elise M. Stefanik,320
+Washington,Salem 3,State Senate,43,DEM,Alvin Gamble,222
+Washington,Salem 3,State Senate,43,REP,Jake Ashby,331
+Washington,Salem 3,State Senate,43,,Write-in,1
+Washington,Salem 3,State Assembly,114,REP,Matthew J. Simpson,389
+Washington,Salem 3,State Assembly,114,,Write-in,9
+Washington,White Creek 1,President,,DEM,Kamala D. Harris,274
+Washington,White Creek 1,President,,REP,Donald J. Trump,309
+Washington,White Creek 1,President,,,Write-in,9
+Washington,White Creek 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,299
+Washington,White Creek 1,U.S. Senate,,REP,Michael D. Sapraicone,284
+Washington,White Creek 1,U.S. Senate,,LAR,Diane Sare,2
+Washington,White Creek 1,U.S. House,21,DEM,Paula Collins,268
+Washington,White Creek 1,U.S. House,21,REP,Elise M. Stefanik,316
+Washington,White Creek 1,State Senate,43,DEM,Alvin Gamble,240
+Washington,White Creek 1,State Senate,43,REP,Jake Ashby,343
+Washington,White Creek 1,State Senate,43,,Write-in,1
+Washington,White Creek 1,State Assembly,107,DEM,Chloe E. Pierce,266
+Washington,White Creek 1,State Assembly,107,REP,Scott H. Bendett,309
+Washington,White Creek 2,President,,DEM,Kamala D. Harris,312
+Washington,White Creek 2,President,,REP,Donald J. Trump,289
+Washington,White Creek 2,President,,,Write-in,4
+Washington,White Creek 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,323
+Washington,White Creek 2,U.S. Senate,,REP,Michael D. Sapraicone,273
+Washington,White Creek 2,U.S. Senate,,LAR,Diane Sare,1
+Washington,White Creek 2,U.S. Senate,,,Write-in,2
+Washington,White Creek 2,U.S. House,21,DEM,Paula Collins,294
+Washington,White Creek 2,U.S. House,21,REP,Elise M. Stefanik,299
+Washington,White Creek 2,U.S. House,21,,Write-in,1
+Washington,White Creek 2,State Senate,43,DEM,Alvin Gamble,277
+Washington,White Creek 2,State Senate,43,REP,Jake Ashby,306
+Washington,White Creek 2,State Senate,43,,Write-in,1
+Washington,White Creek 2,State Assembly,107,DEM,Chloe E. Pierce,286
+Washington,White Creek 2,State Assembly,107,REP,Scott H. Bendett,300
+Washington,White Creek 2,State Assembly,107,,Write-in,1
+Washington,White Creek 3,President,,DEM,Kamala D. Harris,144
+Washington,White Creek 3,President,,REP,Donald J. Trump,277
+Washington,White Creek 3,President,,,Write-in,2
+Washington,White Creek 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,178
+Washington,White Creek 3,U.S. Senate,,REP,Michael D. Sapraicone,240
+Washington,White Creek 3,U.S. Senate,,LAR,Diane Sare,1
+Washington,White Creek 3,U.S. House,21,DEM,Paula Collins,133
+Washington,White Creek 3,U.S. House,21,REP,Elise M. Stefanik,287
+Washington,White Creek 3,State Senate,43,DEM,Alvin Gamble,114
+Washington,White Creek 3,State Senate,43,REP,Jake Ashby,294
+Washington,White Creek 3,State Assembly,107,DEM,Chloe E. Pierce,129
+Washington,White Creek 3,State Assembly,107,REP,Scott H. Bendett,277
+Washington,Whitehall 1,President,,DEM,Kamala D. Harris,175
+Washington,Whitehall 1,President,,REP,Donald J. Trump,376
+Washington,Whitehall 1,President,,,Write-in,2
+Washington,Whitehall 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,217
+Washington,Whitehall 1,U.S. Senate,,REP,Michael D. Sapraicone,309
+Washington,Whitehall 1,U.S. Senate,,LAR,Diane Sare,2
+Washington,Whitehall 1,U.S. House,21,DEM,Paula Collins,165
+Washington,Whitehall 1,U.S. House,21,REP,Elise M. Stefanik,377
+Washington,Whitehall 1,State Senate,45,REP,Daniel G. Stec,443
+Washington,Whitehall 1,State Senate,45,,Write-in,3
+Washington,Whitehall 1,State Assembly,114,REP,Matthew J. Simpson,430
+Washington,Whitehall 1,State Assembly,114,,Write-in,2
+Washington,Whitehall 2,President,,DEM,Kamala D. Harris,121
+Washington,Whitehall 2,President,,REP,Donald J. Trump,226
+Washington,Whitehall 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,142
+Washington,Whitehall 2,U.S. Senate,,REP,Michael D. Sapraicone,196
+Washington,Whitehall 2,U.S. Senate,,LAR,Diane Sare,2
+Washington,Whitehall 2,U.S. House,21,DEM,Paula Collins,103
+Washington,Whitehall 2,U.S. House,21,REP,Elise M. Stefanik,235
+Washington,Whitehall 2,State Senate,45,REP,Daniel G. Stec,274
+Washington,Whitehall 2,State Senate,45,,Write-in,1
+Washington,Whitehall 2,State Assembly,114,REP,Matthew J. Simpson,264
+Washington,Whitehall 2,State Assembly,114,,Write-in,1
+Washington,Whitehall 3,President,,DEM,Kamala D. Harris,240
+Washington,Whitehall 3,President,,REP,Donald J. Trump,521
+Washington,Whitehall 3,President,,,Write-in,1
+Washington,Whitehall 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,268
+Washington,Whitehall 3,U.S. Senate,,REP,Michael D. Sapraicone,471
+Washington,Whitehall 3,U.S. House,21,DEM,Paula Collins,215
+Washington,Whitehall 3,U.S. House,21,REP,Elise M. Stefanik,531
+Washington,Whitehall 3,State Senate,45,REP,Daniel G. Stec,605
+Washington,Whitehall 3,State Senate,45,,Write-in,2
+Washington,Whitehall 3,State Assembly,114,REP,Matthew J. Simpson,591
+Washington,Whitehall 3,State Assembly,114,,Write-in,2

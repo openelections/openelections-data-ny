@@ -1,0 +1,1215 @@
+county,precinct,office,district,party,candidate,votes
+Delaware,AN 1,President,,DEM,Kamala D. Harris,281
+Delaware,AN 1,President,,REP,Donald J. Trump,216
+Delaware,AN 1,President,,CON,Donald J. Trump,21
+Delaware,AN 1,President,,WOR,Kamala D. Harris,24
+Delaware,AN 1,President,,,Write-in,1
+Delaware,AN 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,286
+Delaware,AN 1,U.S. Senate,,REP,Michael D. Sapraicone,197
+Delaware,AN 1,U.S. Senate,,CON,Michael D. Sapraicone,18
+Delaware,AN 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,30
+Delaware,AN 1,U.S. Senate,,LAR,Diane Sare,1
+Delaware,AN 1,U.S. House,19,DEM,Josh Riley,262
+Delaware,AN 1,U.S. House,19,REP,Marcus Molinaro,216
+Delaware,AN 1,U.S. House,19,CON,Marcus Molinaro,26
+Delaware,AN 1,U.S. House,19,WOR,Josh Riley,26
+Delaware,AN 1,State Senate,51,DEM,Michele Frazier,254
+Delaware,AN 1,State Senate,51,REP,Peter Oberacker,225
+Delaware,AN 1,State Senate,51,CON,Peter Oberacker,21
+Delaware,AN 1,State Senate,51,WOR,Michele Frazier,29
+Delaware,AN 1,State Assembly,101,REP,Brian M. Maher,274
+Delaware,AN 1,State Assembly,101,CON,Brian M. Maher,44
+Delaware,AN 1,State Assembly,101,,Write-in,3
+Delaware,AN 2,President,,DEM,Kamala D. Harris,126
+Delaware,AN 2,President,,REP,Donald J. Trump,123
+Delaware,AN 2,President,,CON,Donald J. Trump,9
+Delaware,AN 2,President,,WOR,Kamala D. Harris,10
+Delaware,AN 2,President,,,Write-in,2
+Delaware,AN 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,129
+Delaware,AN 2,U.S. Senate,,REP,Michael D. Sapraicone,108
+Delaware,AN 2,U.S. Senate,,CON,Michael D. Sapraicone,13
+Delaware,AN 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,11
+Delaware,AN 2,U.S. Senate,,LAR,Diane Sare,1
+Delaware,AN 2,U.S. House,19,DEM,Josh Riley,125
+Delaware,AN 2,U.S. House,19,REP,Marcus Molinaro,116
+Delaware,AN 2,U.S. House,19,CON,Marcus Molinaro,10
+Delaware,AN 2,U.S. House,19,WOR,Josh Riley,13
+Delaware,AN 2,State Senate,51,DEM,Michele Frazier,115
+Delaware,AN 2,State Senate,51,REP,Peter Oberacker,116
+Delaware,AN 2,State Senate,51,CON,Peter Oberacker,12
+Delaware,AN 2,State Senate,51,WOR,Michele Frazier,13
+Delaware,AN 2,State Assembly,101,REP,Brian M. Maher,137
+Delaware,AN 2,State Assembly,101,CON,Brian M. Maher,18
+Delaware,AN 2,State Assembly,101,,Write-in,3
+Delaware,BV 1,President,,DEM,Kamala D. Harris,252
+Delaware,BV 1,President,,REP,Donald J. Trump,176
+Delaware,BV 1,President,,CON,Donald J. Trump,16
+Delaware,BV 1,President,,WOR,Kamala D. Harris,23
+Delaware,BV 1,President,,,Write-in,6
+Delaware,BV 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,250
+Delaware,BV 1,U.S. Senate,,REP,Michael D. Sapraicone,166
+Delaware,BV 1,U.S. Senate,,CON,Michael D. Sapraicone,15
+Delaware,BV 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,32
+Delaware,BV 1,U.S. House,19,DEM,Josh Riley,245
+Delaware,BV 1,U.S. House,19,REP,Marcus Molinaro,177
+Delaware,BV 1,U.S. House,19,CON,Marcus Molinaro,19
+Delaware,BV 1,U.S. House,19,WOR,Josh Riley,25
+Delaware,BV 1,State Senate,51,DEM,Michele Frazier,235
+Delaware,BV 1,State Senate,51,REP,Peter Oberacker,185
+Delaware,BV 1,State Senate,51,CON,Peter Oberacker,22
+Delaware,BV 1,State Senate,51,WOR,Michele Frazier,26
+Delaware,BV 1,State Assembly,102,DEM,Janet S. Tweed,251
+Delaware,BV 1,State Assembly,102,REP,Christopher Tague,170
+Delaware,BV 1,State Assembly,102,CON,Christopher Tague,15
+Delaware,BV 1,State Assembly,102,WOR,Janet S. Tweed,26
+Delaware,CO 1,President,,DEM,Kamala D. Harris,119
+Delaware,CO 1,President,,REP,Donald J. Trump,275
+Delaware,CO 1,President,,CON,Donald J. Trump,26
+Delaware,CO 1,President,,WOR,Kamala D. Harris,7
+Delaware,CO 1,President,,,Write-in,3
+Delaware,CO 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,135
+Delaware,CO 1,U.S. Senate,,REP,Michael D. Sapraicone,244
+Delaware,CO 1,U.S. Senate,,CON,Michael D. Sapraicone,23
+Delaware,CO 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Delaware,CO 1,U.S. House,19,DEM,Josh Riley,120
+Delaware,CO 1,U.S. House,19,REP,Marcus Molinaro,261
+Delaware,CO 1,U.S. House,19,CON,Marcus Molinaro,28
+Delaware,CO 1,U.S. House,19,WOR,Josh Riley,11
+Delaware,CO 1,State Senate,51,DEM,Michele Frazier,106
+Delaware,CO 1,State Senate,51,REP,Peter Oberacker,264
+Delaware,CO 1,State Senate,51,CON,Peter Oberacker,33
+Delaware,CO 1,State Senate,51,WOR,Michele Frazier,9
+Delaware,CO 1,State Assembly,101,REP,Brian M. Maher,274
+Delaware,CO 1,State Assembly,101,CON,Brian M. Maher,37
+Delaware,CO 1,State Assembly,101,,Write-in,4
+Delaware,CO 2,President,,DEM,Kamala D. Harris,65
+Delaware,CO 2,President,,REP,Donald J. Trump,144
+Delaware,CO 2,President,,CON,Donald J. Trump,15
+Delaware,CO 2,President,,WOR,Kamala D. Harris,14
+Delaware,CO 2,President,,,Write-in,3
+Delaware,CO 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,67
+Delaware,CO 2,U.S. Senate,,REP,Michael D. Sapraicone,127
+Delaware,CO 2,U.S. Senate,,CON,Michael D. Sapraicone,17
+Delaware,CO 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Delaware,CO 2,U.S. Senate,,LAR,Diane Sare,3
+Delaware,CO 2,U.S. House,19,DEM,Josh Riley,65
+Delaware,CO 2,U.S. House,19,REP,Marcus Molinaro,134
+Delaware,CO 2,U.S. House,19,CON,Marcus Molinaro,20
+Delaware,CO 2,U.S. House,19,WOR,Josh Riley,17
+Delaware,CO 2,State Senate,51,DEM,Michele Frazier,65
+Delaware,CO 2,State Senate,51,REP,Peter Oberacker,136
+Delaware,CO 2,State Senate,51,CON,Peter Oberacker,17
+Delaware,CO 2,State Senate,51,WOR,Michele Frazier,18
+Delaware,CO 2,State Assembly,101,REP,Brian M. Maher,152
+Delaware,CO 2,State Assembly,101,CON,Brian M. Maher,25
+Delaware,CO 3,President,,DEM,Kamala D. Harris,64
+Delaware,CO 3,President,,REP,Donald J. Trump,123
+Delaware,CO 3,President,,CON,Donald J. Trump,10
+Delaware,CO 3,President,,WOR,Kamala D. Harris,5
+Delaware,CO 3,President,,,Write-in,1
+Delaware,CO 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,67
+Delaware,CO 3,U.S. Senate,,REP,Michael D. Sapraicone,114
+Delaware,CO 3,U.S. Senate,,CON,Michael D. Sapraicone,9
+Delaware,CO 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,7
+Delaware,CO 3,U.S. House,19,DEM,Josh Riley,68
+Delaware,CO 3,U.S. House,19,REP,Marcus Molinaro,117
+Delaware,CO 3,U.S. House,19,CON,Marcus Molinaro,8
+Delaware,CO 3,U.S. House,19,WOR,Josh Riley,7
+Delaware,CO 3,State Senate,51,DEM,Michele Frazier,53
+Delaware,CO 3,State Senate,51,REP,Peter Oberacker,125
+Delaware,CO 3,State Senate,51,CON,Peter Oberacker,10
+Delaware,CO 3,State Senate,51,WOR,Michele Frazier,7
+Delaware,CO 3,State Assembly,101,REP,Brian M. Maher,131
+Delaware,CO 3,State Assembly,101,CON,Brian M. Maher,14
+Delaware,CO 4,President,,DEM,Kamala D. Harris,34
+Delaware,CO 4,President,,REP,Donald J. Trump,189
+Delaware,CO 4,President,,CON,Donald J. Trump,10
+Delaware,CO 4,President,,WOR,Kamala D. Harris,1
+Delaware,CO 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,44
+Delaware,CO 4,U.S. Senate,,REP,Michael D. Sapraicone,174
+Delaware,CO 4,U.S. Senate,,CON,Michael D. Sapraicone,12
+Delaware,CO 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,2
+Delaware,CO 4,U.S. House,19,DEM,Josh Riley,36
+Delaware,CO 4,U.S. House,19,REP,Marcus Molinaro,178
+Delaware,CO 4,U.S. House,19,CON,Marcus Molinaro,11
+Delaware,CO 4,U.S. House,19,WOR,Josh Riley,5
+Delaware,CO 4,State Senate,51,DEM,Michele Frazier,26
+Delaware,CO 4,State Senate,51,REP,Peter Oberacker,188
+Delaware,CO 4,State Senate,51,CON,Peter Oberacker,14
+Delaware,CO 4,State Senate,51,WOR,Michele Frazier,2
+Delaware,CO 4,State Assembly,101,REP,Brian M. Maher,190
+Delaware,CO 4,State Assembly,101,CON,Brian M. Maher,16
+Delaware,CO 4,State Assembly,101,,Write-in,1
+Delaware,DA 1,President,,DEM,Kamala D. Harris,142
+Delaware,DA 1,President,,REP,Donald J. Trump,341
+Delaware,DA 1,President,,CON,Donald J. Trump,38
+Delaware,DA 1,President,,WOR,Kamala D. Harris,12
+Delaware,DA 1,President,,,Write-in,4
+Delaware,DA 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,147
+Delaware,DA 1,U.S. Senate,,REP,Michael D. Sapraicone,318
+Delaware,DA 1,U.S. Senate,,CON,Michael D. Sapraicone,38
+Delaware,DA 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,23
+Delaware,DA 1,U.S. Senate,,LAR,Diane Sare,2
+Delaware,DA 1,U.S. House,19,DEM,Josh Riley,137
+Delaware,DA 1,U.S. House,19,REP,Marcus Molinaro,331
+Delaware,DA 1,U.S. House,19,CON,Marcus Molinaro,40
+Delaware,DA 1,U.S. House,19,WOR,Josh Riley,16
+Delaware,DA 1,State Senate,51,DEM,Michele Frazier,124
+Delaware,DA 1,State Senate,51,REP,Peter Oberacker,347
+Delaware,DA 1,State Senate,51,CON,Peter Oberacker,44
+Delaware,DA 1,State Senate,51,WOR,Michele Frazier,15
+Delaware,DA 1,State Assembly,102,DEM,Janet S. Tweed,131
+Delaware,DA 1,State Assembly,102,REP,Christopher Tague,335
+Delaware,DA 1,State Assembly,102,CON,Christopher Tague,37
+Delaware,DA 1,State Assembly,102,WOR,Janet S. Tweed,18
+Delaware,DA 2,President,,DEM,Kamala D. Harris,293
+Delaware,DA 2,President,,REP,Donald J. Trump,497
+Delaware,DA 2,President,,CON,Donald J. Trump,29
+Delaware,DA 2,President,,WOR,Kamala D. Harris,17
+Delaware,DA 2,President,,,Write-in,3
+Delaware,DA 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,299
+Delaware,DA 2,U.S. Senate,,REP,Michael D. Sapraicone,457
+Delaware,DA 2,U.S. Senate,,CON,Michael D. Sapraicone,32
+Delaware,DA 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,27
+Delaware,DA 2,U.S. Senate,,LAR,Diane Sare,2
+Delaware,DA 2,U.S. House,19,DEM,Josh Riley,280
+Delaware,DA 2,U.S. House,19,REP,Marcus Molinaro,475
+Delaware,DA 2,U.S. House,19,CON,Marcus Molinaro,33
+Delaware,DA 2,U.S. House,19,WOR,Josh Riley,24
+Delaware,DA 2,State Senate,51,DEM,Michele Frazier,274
+Delaware,DA 2,State Senate,51,REP,Peter Oberacker,498
+Delaware,DA 2,State Senate,51,CON,Peter Oberacker,34
+Delaware,DA 2,State Senate,51,WOR,Michele Frazier,19
+Delaware,DA 2,State Assembly,102,DEM,Janet S. Tweed,276
+Delaware,DA 2,State Assembly,102,REP,Christopher Tague,490
+Delaware,DA 2,State Assembly,102,CON,Christopher Tague,32
+Delaware,DA 2,State Assembly,102,WOR,Janet S. Tweed,19
+Delaware,DL 1,President,,DEM,Kamala D. Harris,241
+Delaware,DL 1,President,,REP,Donald J. Trump,249
+Delaware,DL 1,President,,CON,Donald J. Trump,19
+Delaware,DL 1,President,,WOR,Kamala D. Harris,25
+Delaware,DL 1,President,,,Write-in,3
+Delaware,DL 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,241
+Delaware,DL 1,U.S. Senate,,REP,Michael D. Sapraicone,229
+Delaware,DL 1,U.S. Senate,,CON,Michael D. Sapraicone,20
+Delaware,DL 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Delaware,DL 1,U.S. House,19,DEM,Josh Riley,233
+Delaware,DL 1,U.S. House,19,REP,Marcus Molinaro,239
+Delaware,DL 1,U.S. House,19,CON,Marcus Molinaro,24
+Delaware,DL 1,U.S. House,19,WOR,Josh Riley,26
+Delaware,DL 1,State Senate,51,DEM,Michele Frazier,210
+Delaware,DL 1,State Senate,51,REP,Peter Oberacker,245
+Delaware,DL 1,State Senate,51,CON,Peter Oberacker,27
+Delaware,DL 1,State Senate,51,WOR,Michele Frazier,29
+Delaware,DL 1,State Assembly,102,DEM,Janet S. Tweed,227
+Delaware,DL 1,State Assembly,102,REP,Christopher Tague,235
+Delaware,DL 1,State Assembly,102,CON,Christopher Tague,22
+Delaware,DL 1,State Assembly,102,WOR,Janet S. Tweed,32
+Delaware,DL 2,President,,DEM,Kamala D. Harris,208
+Delaware,DL 2,President,,REP,Donald J. Trump,192
+Delaware,DL 2,President,,CON,Donald J. Trump,24
+Delaware,DL 2,President,,WOR,Kamala D. Harris,26
+Delaware,DL 2,President,,,Write-in,4
+Delaware,DL 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,208
+Delaware,DL 2,U.S. Senate,,REP,Michael D. Sapraicone,175
+Delaware,DL 2,U.S. Senate,,CON,Michael D. Sapraicone,18
+Delaware,DL 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,39
+Delaware,DL 2,U.S. Senate,,LAR,Diane Sare,1
+Delaware,DL 2,U.S. House,19,DEM,Josh Riley,199
+Delaware,DL 2,U.S. House,19,REP,Marcus Molinaro,190
+Delaware,DL 2,U.S. House,19,CON,Marcus Molinaro,19
+Delaware,DL 2,U.S. House,19,WOR,Josh Riley,31
+Delaware,DL 2,State Senate,51,DEM,Michele Frazier,188
+Delaware,DL 2,State Senate,51,REP,Peter Oberacker,203
+Delaware,DL 2,State Senate,51,CON,Peter Oberacker,20
+Delaware,DL 2,State Senate,51,WOR,Michele Frazier,28
+Delaware,DL 2,State Assembly,102,DEM,Janet S. Tweed,198
+Delaware,DL 2,State Assembly,102,REP,Christopher Tague,189
+Delaware,DL 2,State Assembly,102,CON,Christopher Tague,18
+Delaware,DL 2,State Assembly,102,WOR,Janet S. Tweed,36
+Delaware,DL 3,President,,DEM,Kamala D. Harris,203
+Delaware,DL 3,President,,REP,Donald J. Trump,222
+Delaware,DL 3,President,,CON,Donald J. Trump,16
+Delaware,DL 3,President,,WOR,Kamala D. Harris,22
+Delaware,DL 3,President,,,Write-in,6
+Delaware,DL 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,210
+Delaware,DL 3,U.S. Senate,,REP,Michael D. Sapraicone,199
+Delaware,DL 3,U.S. Senate,,CON,Michael D. Sapraicone,23
+Delaware,DL 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,28
+Delaware,DL 3,U.S. Senate,,LAR,Diane Sare,1
+Delaware,DL 3,U.S. Senate,,,Write-in,1
+Delaware,DL 3,U.S. House,19,DEM,Josh Riley,191
+Delaware,DL 3,U.S. House,19,REP,Marcus Molinaro,226
+Delaware,DL 3,U.S. House,19,CON,Marcus Molinaro,22
+Delaware,DL 3,U.S. House,19,WOR,Josh Riley,24
+Delaware,DL 3,State Senate,51,DEM,Michele Frazier,180
+Delaware,DL 3,State Senate,51,REP,Peter Oberacker,228
+Delaware,DL 3,State Senate,51,CON,Peter Oberacker,24
+Delaware,DL 3,State Senate,51,WOR,Michele Frazier,24
+Delaware,DL 3,State Assembly,102,DEM,Janet S. Tweed,188
+Delaware,DL 3,State Assembly,102,REP,Christopher Tague,223
+Delaware,DL 3,State Assembly,102,CON,Christopher Tague,27
+Delaware,DL 3,State Assembly,102,WOR,Janet S. Tweed,21
+Delaware,DL 4,President,,DEM,Kamala D. Harris,247
+Delaware,DL 4,President,,REP,Donald J. Trump,156
+Delaware,DL 4,President,,CON,Donald J. Trump,15
+Delaware,DL 4,President,,WOR,Kamala D. Harris,13
+Delaware,DL 4,President,,,Write-in,10
+Delaware,DL 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,242
+Delaware,DL 4,U.S. Senate,,REP,Michael D. Sapraicone,142
+Delaware,DL 4,U.S. Senate,,CON,Michael D. Sapraicone,17
+Delaware,DL 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,22
+Delaware,DL 4,U.S. Senate,,LAR,Diane Sare,2
+Delaware,DL 4,U.S. House,19,DEM,Josh Riley,233
+Delaware,DL 4,U.S. House,19,REP,Marcus Molinaro,159
+Delaware,DL 4,U.S. House,19,CON,Marcus Molinaro,18
+Delaware,DL 4,U.S. House,19,WOR,Josh Riley,20
+Delaware,DL 4,State Senate,51,DEM,Michele Frazier,209
+Delaware,DL 4,State Senate,51,REP,Peter Oberacker,175
+Delaware,DL 4,State Senate,51,CON,Peter Oberacker,17
+Delaware,DL 4,State Senate,51,WOR,Michele Frazier,16
+Delaware,DL 4,State Senate,51,,Write-in,2
+Delaware,DL 4,State Assembly,102,DEM,Janet S. Tweed,223
+Delaware,DL 4,State Assembly,102,REP,Christopher Tague,160
+Delaware,DL 4,State Assembly,102,CON,Christopher Tague,17
+Delaware,DL 4,State Assembly,102,WOR,Janet S. Tweed,15
+Delaware,DL 4,State Assembly,102,,Write-in,1
+Delaware,DP 1,President,,DEM,Kamala D. Harris,124
+Delaware,DP 1,President,,REP,Donald J. Trump,303
+Delaware,DP 1,President,,CON,Donald J. Trump,18
+Delaware,DP 1,President,,WOR,Kamala D. Harris,8
+Delaware,DP 1,President,,,Write-in,1
+Delaware,DP 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,130
+Delaware,DP 1,U.S. Senate,,REP,Michael D. Sapraicone,274
+Delaware,DP 1,U.S. Senate,,CON,Michael D. Sapraicone,17
+Delaware,DP 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,18
+Delaware,DP 1,U.S. Senate,,,Write-in,1
+Delaware,DP 1,U.S. House,19,DEM,Josh Riley,115
+Delaware,DP 1,U.S. House,19,REP,Marcus Molinaro,292
+Delaware,DP 1,U.S. House,19,CON,Marcus Molinaro,18
+Delaware,DP 1,U.S. House,19,WOR,Josh Riley,12
+Delaware,DP 1,State Senate,51,DEM,Michele Frazier,108
+Delaware,DP 1,State Senate,51,REP,Peter Oberacker,291
+Delaware,DP 1,State Senate,51,CON,Peter Oberacker,18
+Delaware,DP 1,State Senate,51,WOR,Michele Frazier,16
+Delaware,DP 1,State Assembly,121,DEM,Vicki Davis,111
+Delaware,DP 1,State Assembly,121,REP,Joe Angelino,301
+Delaware,DP 1,State Assembly,121,CON,Joe Angelino,20
+Delaware,DP 2,President,,DEM,Kamala D. Harris,64
+Delaware,DP 2,President,,REP,Donald J. Trump,153
+Delaware,DP 2,President,,CON,Donald J. Trump,13
+Delaware,DP 2,President,,WOR,Kamala D. Harris,2
+Delaware,DP 2,President,,,Write-in,2
+Delaware,DP 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,73
+Delaware,DP 2,U.S. Senate,,REP,Michael D. Sapraicone,133
+Delaware,DP 2,U.S. Senate,,CON,Michael D. Sapraicone,11
+Delaware,DP 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,8
+Delaware,DP 2,U.S. Senate,,LAR,Diane Sare,3
+Delaware,DP 2,U.S. Senate,,,Write-in,1
+Delaware,DP 2,U.S. House,19,DEM,Josh Riley,66
+Delaware,DP 2,U.S. House,19,REP,Marcus Molinaro,141
+Delaware,DP 2,U.S. House,19,CON,Marcus Molinaro,14
+Delaware,DP 2,U.S. House,19,WOR,Josh Riley,6
+Delaware,DP 2,U.S. House,19,,Write-in,2
+Delaware,DP 2,State Senate,51,DEM,Michele Frazier,56
+Delaware,DP 2,State Senate,51,REP,Peter Oberacker,150
+Delaware,DP 2,State Senate,51,CON,Peter Oberacker,12
+Delaware,DP 2,State Senate,51,WOR,Michele Frazier,8
+Delaware,DP 2,State Senate,51,,Write-in,1
+Delaware,DP 2,State Assembly,121,DEM,Vicki Davis,61
+Delaware,DP 2,State Assembly,121,REP,Joe Angelino,150
+Delaware,DP 2,State Assembly,121,CON,Joe Angelino,14
+Delaware,DP 2,State Assembly,121,,Write-in,1
+Delaware,FR 1,President,,DEM,Kamala D. Harris,138
+Delaware,FR 1,President,,REP,Donald J. Trump,281
+Delaware,FR 1,President,,CON,Donald J. Trump,18
+Delaware,FR 1,President,,WOR,Kamala D. Harris,13
+Delaware,FR 1,President,,,Write-in,8
+Delaware,FR 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,145
+Delaware,FR 1,U.S. Senate,,REP,Michael D. Sapraicone,253
+Delaware,FR 1,U.S. Senate,,CON,Michael D. Sapraicone,19
+Delaware,FR 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,23
+Delaware,FR 1,U.S. Senate,,LAR,Diane Sare,1
+Delaware,FR 1,U.S. House,19,DEM,Josh Riley,140
+Delaware,FR 1,U.S. House,19,REP,Marcus Molinaro,265
+Delaware,FR 1,U.S. House,19,CON,Marcus Molinaro,20
+Delaware,FR 1,U.S. House,19,WOR,Josh Riley,23
+Delaware,FR 1,State Senate,51,DEM,Michele Frazier,125
+Delaware,FR 1,State Senate,51,REP,Peter Oberacker,279
+Delaware,FR 1,State Senate,51,CON,Peter Oberacker,19
+Delaware,FR 1,State Senate,51,WOR,Michele Frazier,20
+Delaware,FR 1,State Assembly,102,DEM,Janet S. Tweed,134
+Delaware,FR 1,State Assembly,102,REP,Christopher Tague,261
+Delaware,FR 1,State Assembly,102,CON,Christopher Tague,21
+Delaware,FR 1,State Assembly,102,WOR,Janet S. Tweed,21
+Delaware,FR 2,President,,DEM,Kamala D. Harris,148
+Delaware,FR 2,President,,REP,Donald J. Trump,166
+Delaware,FR 2,President,,CON,Donald J. Trump,14
+Delaware,FR 2,President,,WOR,Kamala D. Harris,22
+Delaware,FR 2,President,,,Write-in,7
+Delaware,FR 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,151
+Delaware,FR 2,U.S. Senate,,REP,Michael D. Sapraicone,151
+Delaware,FR 2,U.S. Senate,,CON,Michael D. Sapraicone,14
+Delaware,FR 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,24
+Delaware,FR 2,U.S. Senate,,LAR,Diane Sare,5
+Delaware,FR 2,U.S. Senate,,,Write-in,1
+Delaware,FR 2,U.S. House,19,DEM,Josh Riley,135
+Delaware,FR 2,U.S. House,19,REP,Marcus Molinaro,170
+Delaware,FR 2,U.S. House,19,CON,Marcus Molinaro,15
+Delaware,FR 2,U.S. House,19,WOR,Josh Riley,30
+Delaware,FR 2,U.S. House,19,,Write-in,1
+Delaware,FR 2,State Senate,51,DEM,Michele Frazier,129
+Delaware,FR 2,State Senate,51,REP,Peter Oberacker,174
+Delaware,FR 2,State Senate,51,CON,Peter Oberacker,18
+Delaware,FR 2,State Senate,51,WOR,Michele Frazier,28
+Delaware,FR 2,State Senate,51,,Write-in,1
+Delaware,FR 2,State Assembly,102,DEM,Janet S. Tweed,131
+Delaware,FR 2,State Assembly,102,REP,Christopher Tague,164
+Delaware,FR 2,State Assembly,102,CON,Christopher Tague,17
+Delaware,FR 2,State Assembly,102,WOR,Janet S. Tweed,32
+Delaware,FR 2,State Assembly,102,,Write-in,1
+Delaware,FR 3,President,,DEM,Kamala D. Harris,196
+Delaware,FR 3,President,,REP,Donald J. Trump,300
+Delaware,FR 3,President,,CON,Donald J. Trump,27
+Delaware,FR 3,President,,WOR,Kamala D. Harris,22
+Delaware,FR 3,President,,,Write-in,6
+Delaware,FR 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,202
+Delaware,FR 3,U.S. Senate,,REP,Michael D. Sapraicone,283
+Delaware,FR 3,U.S. Senate,,CON,Michael D. Sapraicone,27
+Delaware,FR 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,34
+Delaware,FR 3,U.S. Senate,,LAR,Diane Sare,2
+Delaware,FR 3,U.S. Senate,,,Write-in,1
+Delaware,FR 3,U.S. House,19,DEM,Josh Riley,189
+Delaware,FR 3,U.S. House,19,REP,Marcus Molinaro,299
+Delaware,FR 3,U.S. House,19,CON,Marcus Molinaro,31
+Delaware,FR 3,U.S. House,19,WOR,Josh Riley,26
+Delaware,FR 3,U.S. House,19,,Write-in,1
+Delaware,FR 3,State Senate,51,DEM,Michele Frazier,175
+Delaware,FR 3,State Senate,51,REP,Peter Oberacker,316
+Delaware,FR 3,State Senate,51,CON,Peter Oberacker,27
+Delaware,FR 3,State Senate,51,WOR,Michele Frazier,27
+Delaware,FR 3,State Senate,51,,Write-in,1
+Delaware,FR 3,State Assembly,102,DEM,Janet S. Tweed,177
+Delaware,FR 3,State Assembly,102,REP,Christopher Tague,308
+Delaware,FR 3,State Assembly,102,CON,Christopher Tague,33
+Delaware,FR 3,State Assembly,102,WOR,Janet S. Tweed,19
+Delaware,FR 3,State Assembly,102,,Write-in,2
+Delaware,HM 1,President,,DEM,Kamala D. Harris,265
+Delaware,HM 1,President,,REP,Donald J. Trump,404
+Delaware,HM 1,President,,CON,Donald J. Trump,29
+Delaware,HM 1,President,,WOR,Kamala D. Harris,24
+Delaware,HM 1,President,,,Write-in,9
+Delaware,HM 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,278
+Delaware,HM 1,U.S. Senate,,REP,Michael D. Sapraicone,376
+Delaware,HM 1,U.S. Senate,,CON,Michael D. Sapraicone,30
+Delaware,HM 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Delaware,HM 1,U.S. Senate,,LAR,Diane Sare,2
+Delaware,HM 1,U.S. House,19,DEM,Josh Riley,261
+Delaware,HM 1,U.S. House,19,REP,Marcus Molinaro,395
+Delaware,HM 1,U.S. House,19,CON,Marcus Molinaro,39
+Delaware,HM 1,U.S. House,19,WOR,Josh Riley,29
+Delaware,HM 1,State Senate,51,DEM,Michele Frazier,250
+Delaware,HM 1,State Senate,51,REP,Peter Oberacker,406
+Delaware,HM 1,State Senate,51,CON,Peter Oberacker,41
+Delaware,HM 1,State Senate,51,WOR,Michele Frazier,21
+Delaware,HM 1,State Senate,51,,Write-in,1
+Delaware,HM 1,State Assembly,102,DEM,Janet S. Tweed,271
+Delaware,HM 1,State Assembly,102,REP,Christopher Tague,382
+Delaware,HM 1,State Assembly,102,CON,Christopher Tague,38
+Delaware,HM 1,State Assembly,102,WOR,Janet S. Tweed,28
+Delaware,HM 1,State Assembly,102,,Write-in,1
+Delaware,HN 1,President,,DEM,Kamala D. Harris,69
+Delaware,HN 1,President,,REP,Donald J. Trump,149
+Delaware,HN 1,President,,CON,Donald J. Trump,11
+Delaware,HN 1,President,,WOR,Kamala D. Harris,6
+Delaware,HN 1,President,,,Write-in,2
+Delaware,HN 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,69
+Delaware,HN 1,U.S. Senate,,REP,Michael D. Sapraicone,141
+Delaware,HN 1,U.S. Senate,,CON,Michael D. Sapraicone,12
+Delaware,HN 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,8
+Delaware,HN 1,U.S. Senate,,,Write-in,1
+Delaware,HN 1,U.S. House,19,DEM,Josh Riley,68
+Delaware,HN 1,U.S. House,19,REP,Marcus Molinaro,146
+Delaware,HN 1,U.S. House,19,CON,Marcus Molinaro,11
+Delaware,HN 1,U.S. House,19,WOR,Josh Riley,6
+Delaware,HN 1,U.S. House,19,,Write-in,1
+Delaware,HN 1,State Senate,51,DEM,Michele Frazier,67
+Delaware,HN 1,State Senate,51,REP,Peter Oberacker,143
+Delaware,HN 1,State Senate,51,CON,Peter Oberacker,12
+Delaware,HN 1,State Senate,51,WOR,Michele Frazier,7
+Delaware,HN 1,State Senate,51,,Write-in,1
+Delaware,HN 1,State Assembly,101,REP,Brian M. Maher,154
+Delaware,HN 1,State Assembly,101,CON,Brian M. Maher,16
+Delaware,HN 1,State Assembly,101,,Write-in,4
+Delaware,HN 2,President,,DEM,Kamala D. Harris,59
+Delaware,HN 2,President,,REP,Donald J. Trump,129
+Delaware,HN 2,President,,CON,Donald J. Trump,6
+Delaware,HN 2,President,,WOR,Kamala D. Harris,5
+Delaware,HN 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,59
+Delaware,HN 2,U.S. Senate,,REP,Michael D. Sapraicone,120
+Delaware,HN 2,U.S. Senate,,CON,Michael D. Sapraicone,5
+Delaware,HN 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,10
+Delaware,HN 2,U.S. Senate,,LAR,Diane Sare,2
+Delaware,HN 2,U.S. House,19,DEM,Josh Riley,56
+Delaware,HN 2,U.S. House,19,REP,Marcus Molinaro,128
+Delaware,HN 2,U.S. House,19,CON,Marcus Molinaro,6
+Delaware,HN 2,U.S. House,19,WOR,Josh Riley,9
+Delaware,HN 2,State Senate,51,DEM,Michele Frazier,53
+Delaware,HN 2,State Senate,51,REP,Peter Oberacker,127
+Delaware,HN 2,State Senate,51,CON,Peter Oberacker,7
+Delaware,HN 2,State Senate,51,WOR,Michele Frazier,11
+Delaware,HN 2,State Assembly,101,REP,Brian M. Maher,134
+Delaware,HN 2,State Assembly,101,CON,Brian M. Maher,9
+Delaware,HN 2,State Assembly,101,,Write-in,3
+Delaware,HN 3,President,,DEM,Kamala D. Harris,156
+Delaware,HN 3,President,,REP,Donald J. Trump,266
+Delaware,HN 3,President,,CON,Donald J. Trump,9
+Delaware,HN 3,President,,WOR,Kamala D. Harris,6
+Delaware,HN 3,President,,,Write-in,5
+Delaware,HN 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,153
+Delaware,HN 3,U.S. Senate,,REP,Michael D. Sapraicone,255
+Delaware,HN 3,U.S. Senate,,CON,Michael D. Sapraicone,10
+Delaware,HN 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,9
+Delaware,HN 3,U.S. Senate,,LAR,Diane Sare,4
+Delaware,HN 3,U.S. House,19,DEM,Josh Riley,139
+Delaware,HN 3,U.S. House,19,REP,Marcus Molinaro,271
+Delaware,HN 3,U.S. House,19,CON,Marcus Molinaro,10
+Delaware,HN 3,U.S. House,19,WOR,Josh Riley,16
+Delaware,HN 3,State Senate,51,DEM,Michele Frazier,130
+Delaware,HN 3,State Senate,51,REP,Peter Oberacker,273
+Delaware,HN 3,State Senate,51,CON,Peter Oberacker,12
+Delaware,HN 3,State Senate,51,WOR,Michele Frazier,10
+Delaware,HN 3,State Assembly,101,REP,Brian M. Maher,298
+Delaware,HN 3,State Assembly,101,CON,Brian M. Maher,18
+Delaware,HN 4,President,,DEM,Kamala D. Harris,43
+Delaware,HN 4,President,,REP,Donald J. Trump,122
+Delaware,HN 4,President,,CON,Donald J. Trump,9
+Delaware,HN 4,President,,WOR,Kamala D. Harris,4
+Delaware,HN 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,43
+Delaware,HN 4,U.S. Senate,,REP,Michael D. Sapraicone,109
+Delaware,HN 4,U.S. Senate,,CON,Michael D. Sapraicone,9
+Delaware,HN 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,8
+Delaware,HN 4,U.S. Senate,,LAR,Diane Sare,1
+Delaware,HN 4,U.S. House,19,DEM,Josh Riley,37
+Delaware,HN 4,U.S. House,19,REP,Marcus Molinaro,118
+Delaware,HN 4,U.S. House,19,CON,Marcus Molinaro,12
+Delaware,HN 4,U.S. House,19,WOR,Josh Riley,7
+Delaware,HN 4,State Senate,51,DEM,Michele Frazier,35
+Delaware,HN 4,State Senate,51,REP,Peter Oberacker,113
+Delaware,HN 4,State Senate,51,CON,Peter Oberacker,13
+Delaware,HN 4,State Senate,51,WOR,Michele Frazier,6
+Delaware,HN 4,State Senate,51,,Write-in,1
+Delaware,HN 4,State Assembly,101,REP,Brian M. Maher,121
+Delaware,HN 4,State Assembly,101,CON,Brian M. Maher,18
+Delaware,HN 5,President,,DEM,Kamala D. Harris,33
+Delaware,HN 5,President,,REP,Donald J. Trump,128
+Delaware,HN 5,President,,CON,Donald J. Trump,4
+Delaware,HN 5,President,,WOR,Kamala D. Harris,1
+Delaware,HN 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,37
+Delaware,HN 5,U.S. Senate,,REP,Michael D. Sapraicone,115
+Delaware,HN 5,U.S. Senate,,CON,Michael D. Sapraicone,5
+Delaware,HN 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,5
+Delaware,HN 5,U.S. House,19,DEM,Josh Riley,33
+Delaware,HN 5,U.S. House,19,REP,Marcus Molinaro,124
+Delaware,HN 5,U.S. House,19,CON,Marcus Molinaro,4
+Delaware,HN 5,U.S. House,19,WOR,Josh Riley,1
+Delaware,HN 5,State Senate,51,DEM,Michele Frazier,28
+Delaware,HN 5,State Senate,51,REP,Peter Oberacker,127
+Delaware,HN 5,State Senate,51,CON,Peter Oberacker,5
+Delaware,HN 5,State Senate,51,WOR,Michele Frazier,1
+Delaware,HN 5,State Assembly,101,REP,Brian M. Maher,132
+Delaware,HN 5,State Assembly,101,CON,Brian M. Maher,8
+Delaware,HN 5,State Assembly,101,,Write-in,1
+Delaware,HN 6,President,,DEM,Kamala D. Harris,45
+Delaware,HN 6,President,,REP,Donald J. Trump,141
+Delaware,HN 6,President,,CON,Donald J. Trump,10
+Delaware,HN 6,President,,WOR,Kamala D. Harris,5
+Delaware,HN 6,President,,,Write-in,2
+Delaware,HN 6,U.S. Senate,,DEM,Kirsten E. Gillibrand,42
+Delaware,HN 6,U.S. Senate,,REP,Michael D. Sapraicone,133
+Delaware,HN 6,U.S. Senate,,CON,Michael D. Sapraicone,6
+Delaware,HN 6,U.S. Senate,,WOR,Kirsten E. Gillibrand,6
+Delaware,HN 6,U.S. Senate,,LAR,Diane Sare,1
+Delaware,HN 6,U.S. Senate,,,Write-in,1
+Delaware,HN 6,U.S. House,19,DEM,Josh Riley,37
+Delaware,HN 6,U.S. House,19,REP,Marcus Molinaro,141
+Delaware,HN 6,U.S. House,19,CON,Marcus Molinaro,8
+Delaware,HN 6,U.S. House,19,WOR,Josh Riley,8
+Delaware,HN 6,State Senate,51,DEM,Michele Frazier,35
+Delaware,HN 6,State Senate,51,REP,Peter Oberacker,142
+Delaware,HN 6,State Senate,51,CON,Peter Oberacker,7
+Delaware,HN 6,State Senate,51,WOR,Michele Frazier,7
+Delaware,HN 6,State Assembly,101,REP,Brian M. Maher,141
+Delaware,HN 6,State Assembly,101,CON,Brian M. Maher,11
+Delaware,HN 6,State Assembly,101,,Write-in,1
+Delaware,HR 1,President,,DEM,Kamala D. Harris,283
+Delaware,HR 1,President,,REP,Donald J. Trump,436
+Delaware,HR 1,President,,CON,Donald J. Trump,47
+Delaware,HR 1,President,,WOR,Kamala D. Harris,22
+Delaware,HR 1,President,,,Write-in,7
+Delaware,HR 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,296
+Delaware,HR 1,U.S. Senate,,REP,Michael D. Sapraicone,389
+Delaware,HR 1,U.S. Senate,,CON,Michael D. Sapraicone,46
+Delaware,HR 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,35
+Delaware,HR 1,U.S. Senate,,LAR,Diane Sare,2
+Delaware,HR 1,U.S. House,19,DEM,Josh Riley,277
+Delaware,HR 1,U.S. House,19,REP,Marcus Molinaro,417
+Delaware,HR 1,U.S. House,19,CON,Marcus Molinaro,46
+Delaware,HR 1,U.S. House,19,WOR,Josh Riley,27
+Delaware,HR 1,State Senate,51,DEM,Michele Frazier,241
+Delaware,HR 1,State Senate,51,REP,Peter Oberacker,447
+Delaware,HR 1,State Senate,51,CON,Peter Oberacker,47
+Delaware,HR 1,State Senate,51,WOR,Michele Frazier,22
+Delaware,HR 1,State Assembly,102,DEM,Janet S. Tweed,247
+Delaware,HR 1,State Assembly,102,REP,Christopher Tague,439
+Delaware,HR 1,State Assembly,102,CON,Christopher Tague,54
+Delaware,HR 1,State Assembly,102,WOR,Janet S. Tweed,22
+Delaware,KR 1,President,,DEM,Kamala D. Harris,155
+Delaware,KR 1,President,,REP,Donald J. Trump,251
+Delaware,KR 1,President,,CON,Donald J. Trump,19
+Delaware,KR 1,President,,WOR,Kamala D. Harris,12
+Delaware,KR 1,President,,,Write-in,5
+Delaware,KR 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,171
+Delaware,KR 1,U.S. Senate,,REP,Michael D. Sapraicone,225
+Delaware,KR 1,U.S. Senate,,CON,Michael D. Sapraicone,26
+Delaware,KR 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,15
+Delaware,KR 1,U.S. Senate,,LAR,Diane Sare,1
+Delaware,KR 1,U.S. House,19,DEM,Josh Riley,155
+Delaware,KR 1,U.S. House,19,REP,Marcus Molinaro,243
+Delaware,KR 1,U.S. House,19,CON,Marcus Molinaro,27
+Delaware,KR 1,U.S. House,19,WOR,Josh Riley,16
+Delaware,KR 1,State Senate,51,DEM,Michele Frazier,139
+Delaware,KR 1,State Senate,51,REP,Peter Oberacker,258
+Delaware,KR 1,State Senate,51,CON,Peter Oberacker,27
+Delaware,KR 1,State Senate,51,WOR,Michele Frazier,15
+Delaware,KR 1,State Assembly,102,DEM,Janet S. Tweed,144
+Delaware,KR 1,State Assembly,102,REP,Christopher Tague,250
+Delaware,KR 1,State Assembly,102,CON,Christopher Tague,27
+Delaware,KR 1,State Assembly,102,WOR,Janet S. Tweed,14
+Delaware,KR 2,President,,DEM,Kamala D. Harris,140
+Delaware,KR 2,President,,REP,Donald J. Trump,248
+Delaware,KR 2,President,,CON,Donald J. Trump,25
+Delaware,KR 2,President,,WOR,Kamala D. Harris,17
+Delaware,KR 2,President,,,Write-in,3
+Delaware,KR 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,150
+Delaware,KR 2,U.S. Senate,,REP,Michael D. Sapraicone,219
+Delaware,KR 2,U.S. Senate,,CON,Michael D. Sapraicone,20
+Delaware,KR 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,27
+Delaware,KR 2,U.S. Senate,,LAR,Diane Sare,3
+Delaware,KR 2,U.S. House,19,DEM,Josh Riley,137
+Delaware,KR 2,U.S. House,19,REP,Marcus Molinaro,242
+Delaware,KR 2,U.S. House,19,CON,Marcus Molinaro,25
+Delaware,KR 2,U.S. House,19,WOR,Josh Riley,21
+Delaware,KR 2,U.S. House,19,,Write-in,1
+Delaware,KR 2,State Senate,51,DEM,Michele Frazier,125
+Delaware,KR 2,State Senate,51,REP,Peter Oberacker,246
+Delaware,KR 2,State Senate,51,CON,Peter Oberacker,24
+Delaware,KR 2,State Senate,51,WOR,Michele Frazier,24
+Delaware,KR 2,State Assembly,102,DEM,Janet S. Tweed,133
+Delaware,KR 2,State Assembly,102,REP,Christopher Tague,242
+Delaware,KR 2,State Assembly,102,CON,Christopher Tague,21
+Delaware,KR 2,State Assembly,102,WOR,Janet S. Tweed,23
+Delaware,MA 1,President,,DEM,Kamala D. Harris,157
+Delaware,MA 1,President,,REP,Donald J. Trump,449
+Delaware,MA 1,President,,CON,Donald J. Trump,30
+Delaware,MA 1,President,,WOR,Kamala D. Harris,14
+Delaware,MA 1,President,,,Write-in,3
+Delaware,MA 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,161
+Delaware,MA 1,U.S. Senate,,REP,Michael D. Sapraicone,413
+Delaware,MA 1,U.S. Senate,,CON,Michael D. Sapraicone,30
+Delaware,MA 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,29
+Delaware,MA 1,U.S. Senate,,LAR,Diane Sare,1
+Delaware,MA 1,U.S. House,19,DEM,Josh Riley,153
+Delaware,MA 1,U.S. House,19,REP,Marcus Molinaro,432
+Delaware,MA 1,U.S. House,19,CON,Marcus Molinaro,34
+Delaware,MA 1,U.S. House,19,WOR,Josh Riley,18
+Delaware,MA 1,State Senate,51,DEM,Michele Frazier,141
+Delaware,MA 1,State Senate,51,REP,Peter Oberacker,437
+Delaware,MA 1,State Senate,51,CON,Peter Oberacker,41
+Delaware,MA 1,State Senate,51,WOR,Michele Frazier,17
+Delaware,MA 1,State Assembly,121,DEM,Vicki Davis,143
+Delaware,MA 1,State Assembly,121,REP,Joe Angelino,451
+Delaware,MA 1,State Assembly,121,CON,Joe Angelino,37
+Delaware,ME 1,President,,DEM,Kamala D. Harris,237
+Delaware,ME 1,President,,REP,Donald J. Trump,336
+Delaware,ME 1,President,,CON,Donald J. Trump,38
+Delaware,ME 1,President,,WOR,Kamala D. Harris,26
+Delaware,ME 1,President,,,Write-in,10
+Delaware,ME 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,245
+Delaware,ME 1,U.S. Senate,,REP,Michael D. Sapraicone,313
+Delaware,ME 1,U.S. Senate,,CON,Michael D. Sapraicone,40
+Delaware,ME 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,37
+Delaware,ME 1,U.S. Senate,,LAR,Diane Sare,2
+Delaware,ME 1,U.S. House,19,DEM,Josh Riley,227
+Delaware,ME 1,U.S. House,19,REP,Marcus Molinaro,342
+Delaware,ME 1,U.S. House,19,CON,Marcus Molinaro,39
+Delaware,ME 1,U.S. House,19,WOR,Josh Riley,33
+Delaware,ME 1,State Senate,51,DEM,Michele Frazier,214
+Delaware,ME 1,State Senate,51,REP,Peter Oberacker,352
+Delaware,ME 1,State Senate,51,CON,Peter Oberacker,37
+Delaware,ME 1,State Senate,51,WOR,Michele Frazier,34
+Delaware,ME 1,State Assembly,102,DEM,Janet S. Tweed,221
+Delaware,ME 1,State Assembly,102,REP,Christopher Tague,339
+Delaware,ME 1,State Assembly,102,CON,Christopher Tague,39
+Delaware,ME 1,State Assembly,102,WOR,Janet S. Tweed,34
+Delaware,ME 2,President,,DEM,Kamala D. Harris,128
+Delaware,ME 2,President,,REP,Donald J. Trump,161
+Delaware,ME 2,President,,CON,Donald J. Trump,26
+Delaware,ME 2,President,,WOR,Kamala D. Harris,10
+Delaware,ME 2,President,,,Write-in,3
+Delaware,ME 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,135
+Delaware,ME 2,U.S. Senate,,REP,Michael D. Sapraicone,147
+Delaware,ME 2,U.S. Senate,,CON,Michael D. Sapraicone,29
+Delaware,ME 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,12
+Delaware,ME 2,U.S. House,19,DEM,Josh Riley,126
+Delaware,ME 2,U.S. House,19,REP,Marcus Molinaro,153
+Delaware,ME 2,U.S. House,19,CON,Marcus Molinaro,32
+Delaware,ME 2,U.S. House,19,WOR,Josh Riley,13
+Delaware,ME 2,U.S. House,19,,Write-in,3
+Delaware,ME 2,State Senate,51,DEM,Michele Frazier,116
+Delaware,ME 2,State Senate,51,REP,Peter Oberacker,166
+Delaware,ME 2,State Senate,51,CON,Peter Oberacker,32
+Delaware,ME 2,State Senate,51,WOR,Michele Frazier,12
+Delaware,ME 2,State Assembly,102,DEM,Janet S. Tweed,123
+Delaware,ME 2,State Assembly,102,REP,Christopher Tague,155
+Delaware,ME 2,State Assembly,102,CON,Christopher Tague,34
+Delaware,ME 2,State Assembly,102,WOR,Janet S. Tweed,13
+Delaware,MI 1,President,,DEM,Kamala D. Harris,244
+Delaware,MI 1,President,,REP,Donald J. Trump,280
+Delaware,MI 1,President,,CON,Donald J. Trump,16
+Delaware,MI 1,President,,WOR,Kamala D. Harris,23
+Delaware,MI 1,President,,,Write-in,4
+Delaware,MI 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,241
+Delaware,MI 1,U.S. Senate,,REP,Michael D. Sapraicone,228
+Delaware,MI 1,U.S. Senate,,CON,Michael D. Sapraicone,16
+Delaware,MI 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,27
+Delaware,MI 1,U.S. Senate,,LAR,Diane Sare,2
+Delaware,MI 1,U.S. House,19,DEM,Josh Riley,244
+Delaware,MI 1,U.S. House,19,REP,Marcus Molinaro,229
+Delaware,MI 1,U.S. House,19,CON,Marcus Molinaro,20
+Delaware,MI 1,U.S. House,19,WOR,Josh Riley,28
+Delaware,MI 1,State Senate,51,DEM,Michele Frazier,223
+Delaware,MI 1,State Senate,51,REP,Peter Oberacker,238
+Delaware,MI 1,State Senate,51,CON,Peter Oberacker,21
+Delaware,MI 1,State Senate,51,WOR,Michele Frazier,29
+Delaware,MI 1,State Assembly,101,REP,Brian M. Maher,267
+Delaware,MI 1,State Assembly,101,CON,Brian M. Maher,28
+Delaware,MI 1,State Assembly,101,,Write-in,5
+Delaware,MI 2,President,,DEM,Kamala D. Harris,303
+Delaware,MI 2,President,,REP,Donald J. Trump,199
+Delaware,MI 2,President,,CON,Donald J. Trump,17
+Delaware,MI 2,President,,WOR,Kamala D. Harris,35
+Delaware,MI 2,President,,,Write-in,4
+Delaware,MI 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,307
+Delaware,MI 2,U.S. Senate,,REP,Michael D. Sapraicone,181
+Delaware,MI 2,U.S. Senate,,CON,Michael D. Sapraicone,16
+Delaware,MI 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,44
+Delaware,MI 2,U.S. Senate,,LAR,Diane Sare,4
+Delaware,MI 2,U.S. House,19,DEM,Josh Riley,291
+Delaware,MI 2,U.S. House,19,REP,Marcus Molinaro,199
+Delaware,MI 2,U.S. House,19,CON,Marcus Molinaro,19
+Delaware,MI 2,U.S. House,19,WOR,Josh Riley,44
+Delaware,MI 2,State Senate,51,DEM,Michele Frazier,273
+Delaware,MI 2,State Senate,51,REP,Peter Oberacker,212
+Delaware,MI 2,State Senate,51,CON,Peter Oberacker,21
+Delaware,MI 2,State Senate,51,WOR,Michele Frazier,39
+Delaware,MI 2,State Assembly,101,REP,Brian M. Maher,249
+Delaware,MI 2,State Assembly,101,CON,Brian M. Maher,35
+Delaware,MI 2,State Assembly,101,,Write-in,4
+Delaware,MI 3,President,,DEM,Kamala D. Harris,149
+Delaware,MI 3,President,,REP,Donald J. Trump,144
+Delaware,MI 3,President,,CON,Donald J. Trump,15
+Delaware,MI 3,President,,WOR,Kamala D. Harris,11
+Delaware,MI 3,President,,,Write-in,5
+Delaware,MI 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,150
+Delaware,MI 3,U.S. Senate,,REP,Michael D. Sapraicone,133
+Delaware,MI 3,U.S. Senate,,CON,Michael D. Sapraicone,17
+Delaware,MI 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,18
+Delaware,MI 3,U.S. Senate,,LAR,Diane Sare,2
+Delaware,MI 3,U.S. House,19,DEM,Josh Riley,147
+Delaware,MI 3,U.S. House,19,REP,Marcus Molinaro,140
+Delaware,MI 3,U.S. House,19,CON,Marcus Molinaro,19
+Delaware,MI 3,U.S. House,19,WOR,Josh Riley,14
+Delaware,MI 3,State Senate,51,DEM,Michele Frazier,139
+Delaware,MI 3,State Senate,51,REP,Peter Oberacker,152
+Delaware,MI 3,State Senate,51,CON,Peter Oberacker,18
+Delaware,MI 3,State Senate,51,WOR,Michele Frazier,12
+Delaware,MI 3,State Assembly,101,REP,Brian M. Maher,172
+Delaware,MI 3,State Assembly,101,CON,Brian M. Maher,24
+Delaware,MI 3,State Assembly,101,,Write-in,2
+Delaware,MI 4,President,,DEM,Kamala D. Harris,117
+Delaware,MI 4,President,,REP,Donald J. Trump,78
+Delaware,MI 4,President,,CON,Donald J. Trump,6
+Delaware,MI 4,President,,WOR,Kamala D. Harris,6
+Delaware,MI 4,President,,,Write-in,3
+Delaware,MI 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,122
+Delaware,MI 4,U.S. Senate,,REP,Michael D. Sapraicone,70
+Delaware,MI 4,U.S. Senate,,CON,Michael D. Sapraicone,5
+Delaware,MI 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,8
+Delaware,MI 4,U.S. Senate,,LAR,Diane Sare,1
+Delaware,MI 4,U.S. House,19,DEM,Josh Riley,119
+Delaware,MI 4,U.S. House,19,REP,Marcus Molinaro,77
+Delaware,MI 4,U.S. House,19,CON,Marcus Molinaro,7
+Delaware,MI 4,U.S. House,19,WOR,Josh Riley,5
+Delaware,MI 4,State Senate,51,DEM,Michele Frazier,112
+Delaware,MI 4,State Senate,51,REP,Peter Oberacker,81
+Delaware,MI 4,State Senate,51,CON,Peter Oberacker,6
+Delaware,MI 4,State Senate,51,WOR,Michele Frazier,5
+Delaware,MI 4,State Assembly,101,REP,Brian M. Maher,94
+Delaware,MI 4,State Assembly,101,CON,Brian M. Maher,13
+Delaware,MI 4,State Assembly,101,,Write-in,4
+Delaware,MI 5,President,,DEM,Kamala D. Harris,118
+Delaware,MI 5,President,,REP,Donald J. Trump,154
+Delaware,MI 5,President,,CON,Donald J. Trump,11
+Delaware,MI 5,President,,WOR,Kamala D. Harris,9
+Delaware,MI 5,President,,,Write-in,2
+Delaware,MI 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,118
+Delaware,MI 5,U.S. Senate,,REP,Michael D. Sapraicone,138
+Delaware,MI 5,U.S. Senate,,CON,Michael D. Sapraicone,13
+Delaware,MI 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,12
+Delaware,MI 5,U.S. Senate,,LAR,Diane Sare,2
+Delaware,MI 5,U.S. House,19,DEM,Josh Riley,111
+Delaware,MI 5,U.S. House,19,REP,Marcus Molinaro,152
+Delaware,MI 5,U.S. House,19,CON,Marcus Molinaro,13
+Delaware,MI 5,U.S. House,19,WOR,Josh Riley,12
+Delaware,MI 5,State Senate,51,DEM,Michele Frazier,102
+Delaware,MI 5,State Senate,51,REP,Peter Oberacker,158
+Delaware,MI 5,State Senate,51,CON,Peter Oberacker,14
+Delaware,MI 5,State Senate,51,WOR,Michele Frazier,12
+Delaware,MI 5,State Assembly,101,REP,Brian M. Maher,175
+Delaware,MI 5,State Assembly,101,CON,Brian M. Maher,31
+Delaware,RX 1,President,,DEM,Kamala D. Harris,85
+Delaware,RX 1,President,,REP,Donald J. Trump,294
+Delaware,RX 1,President,,CON,Donald J. Trump,28
+Delaware,RX 1,President,,WOR,Kamala D. Harris,13
+Delaware,RX 1,President,,,Write-in,4
+Delaware,RX 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,108
+Delaware,RX 1,U.S. Senate,,REP,Michael D. Sapraicone,241
+Delaware,RX 1,U.S. Senate,,CON,Michael D. Sapraicone,26
+Delaware,RX 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,29
+Delaware,RX 1,U.S. Senate,,LAR,Diane Sare,3
+Delaware,RX 1,U.S. Senate,,,Write-in,1
+Delaware,RX 1,U.S. House,19,DEM,Josh Riley,85
+Delaware,RX 1,U.S. House,19,REP,Marcus Molinaro,273
+Delaware,RX 1,U.S. House,19,CON,Marcus Molinaro,27
+Delaware,RX 1,U.S. House,19,WOR,Josh Riley,19
+Delaware,RX 1,U.S. House,19,,Write-in,1
+Delaware,RX 1,State Senate,51,DEM,Michele Frazier,78
+Delaware,RX 1,State Senate,51,REP,Peter Oberacker,281
+Delaware,RX 1,State Senate,51,CON,Peter Oberacker,30
+Delaware,RX 1,State Senate,51,WOR,Michele Frazier,17
+Delaware,RX 1,State Senate,51,,Write-in,1
+Delaware,RX 1,State Assembly,102,DEM,Janet S. Tweed,65
+Delaware,RX 1,State Assembly,102,REP,Christopher Tague,290
+Delaware,RX 1,State Assembly,102,CON,Christopher Tague,33
+Delaware,RX 1,State Assembly,102,WOR,Janet S. Tweed,18
+Delaware,RX 1,State Assembly,102,,Write-in,1
+Delaware,RX 2,President,,DEM,Kamala D. Harris,132
+Delaware,RX 2,President,,REP,Donald J. Trump,106
+Delaware,RX 2,President,,CON,Donald J. Trump,6
+Delaware,RX 2,President,,WOR,Kamala D. Harris,10
+Delaware,RX 2,President,,,Write-in,3
+Delaware,RX 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,136
+Delaware,RX 2,U.S. Senate,,REP,Michael D. Sapraicone,95
+Delaware,RX 2,U.S. Senate,,CON,Michael D. Sapraicone,5
+Delaware,RX 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,12
+Delaware,RX 2,U.S. House,19,DEM,Josh Riley,134
+Delaware,RX 2,U.S. House,19,REP,Marcus Molinaro,103
+Delaware,RX 2,U.S. House,19,CON,Marcus Molinaro,6
+Delaware,RX 2,U.S. House,19,WOR,Josh Riley,9
+Delaware,RX 2,State Senate,51,DEM,Michele Frazier,125
+Delaware,RX 2,State Senate,51,REP,Peter Oberacker,106
+Delaware,RX 2,State Senate,51,CON,Peter Oberacker,7
+Delaware,RX 2,State Senate,51,WOR,Michele Frazier,11
+Delaware,RX 2,State Assembly,102,DEM,Janet S. Tweed,126
+Delaware,RX 2,State Assembly,102,REP,Christopher Tague,105
+Delaware,RX 2,State Assembly,102,CON,Christopher Tague,7
+Delaware,RX 2,State Assembly,102,WOR,Janet S. Tweed,10
+Delaware,RX 3,President,,DEM,Kamala D. Harris,228
+Delaware,RX 3,President,,REP,Donald J. Trump,147
+Delaware,RX 3,President,,CON,Donald J. Trump,9
+Delaware,RX 3,President,,WOR,Kamala D. Harris,12
+Delaware,RX 3,President,,,Write-in,2
+Delaware,RX 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,231
+Delaware,RX 3,U.S. Senate,,REP,Michael D. Sapraicone,134
+Delaware,RX 3,U.S. Senate,,CON,Michael D. Sapraicone,9
+Delaware,RX 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,18
+Delaware,RX 3,U.S. Senate,,LAR,Diane Sare,3
+Delaware,RX 3,U.S. Senate,,,Write-in,1
+Delaware,RX 3,U.S. House,19,DEM,Josh Riley,223
+Delaware,RX 3,U.S. House,19,REP,Marcus Molinaro,140
+Delaware,RX 3,U.S. House,19,CON,Marcus Molinaro,8
+Delaware,RX 3,U.S. House,19,WOR,Josh Riley,23
+Delaware,RX 3,U.S. House,19,,Write-in,1
+Delaware,RX 3,State Senate,51,DEM,Michele Frazier,212
+Delaware,RX 3,State Senate,51,REP,Peter Oberacker,152
+Delaware,RX 3,State Senate,51,CON,Peter Oberacker,11
+Delaware,RX 3,State Senate,51,WOR,Michele Frazier,17
+Delaware,RX 3,State Senate,51,,Write-in,1
+Delaware,RX 3,State Assembly,102,DEM,Janet S. Tweed,214
+Delaware,RX 3,State Assembly,102,REP,Christopher Tague,152
+Delaware,RX 3,State Assembly,102,CON,Christopher Tague,14
+Delaware,RX 3,State Assembly,102,WOR,Janet S. Tweed,14
+Delaware,RX 3,State Assembly,102,,Write-in,1
+Delaware,RX 4,President,,DEM,Kamala D. Harris,161
+Delaware,RX 4,President,,REP,Donald J. Trump,151
+Delaware,RX 4,President,,CON,Donald J. Trump,11
+Delaware,RX 4,President,,WOR,Kamala D. Harris,11
+Delaware,RX 4,President,,,Write-in,1
+Delaware,RX 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,169
+Delaware,RX 4,U.S. Senate,,REP,Michael D. Sapraicone,128
+Delaware,RX 4,U.S. Senate,,CON,Michael D. Sapraicone,13
+Delaware,RX 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,14
+Delaware,RX 4,U.S. House,19,DEM,Josh Riley,155
+Delaware,RX 4,U.S. House,19,REP,Marcus Molinaro,147
+Delaware,RX 4,U.S. House,19,CON,Marcus Molinaro,13
+Delaware,RX 4,U.S. House,19,WOR,Josh Riley,12
+Delaware,RX 4,State Senate,51,DEM,Michele Frazier,146
+Delaware,RX 4,State Senate,51,REP,Peter Oberacker,155
+Delaware,RX 4,State Senate,51,CON,Peter Oberacker,16
+Delaware,RX 4,State Senate,51,WOR,Michele Frazier,10
+Delaware,RX 4,State Assembly,102,DEM,Janet S. Tweed,142
+Delaware,RX 4,State Assembly,102,REP,Christopher Tague,156
+Delaware,RX 4,State Assembly,102,CON,Christopher Tague,16
+Delaware,RX 4,State Assembly,102,WOR,Janet S. Tweed,10
+Delaware,SD 1,President,,DEM,Kamala D. Harris,140
+Delaware,SD 1,President,,REP,Donald J. Trump,214
+Delaware,SD 1,President,,CON,Donald J. Trump,18
+Delaware,SD 1,President,,WOR,Kamala D. Harris,11
+Delaware,SD 1,President,,,Write-in,20
+Delaware,SD 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,140
+Delaware,SD 1,U.S. Senate,,REP,Michael D. Sapraicone,199
+Delaware,SD 1,U.S. Senate,,CON,Michael D. Sapraicone,22
+Delaware,SD 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,13
+Delaware,SD 1,U.S. Senate,,LAR,Diane Sare,9
+Delaware,SD 1,U.S. Senate,,,Write-in,1
+Delaware,SD 1,U.S. House,19,DEM,Josh Riley,127
+Delaware,SD 1,U.S. House,19,REP,Marcus Molinaro,210
+Delaware,SD 1,U.S. House,19,CON,Marcus Molinaro,25
+Delaware,SD 1,U.S. House,19,WOR,Josh Riley,19
+Delaware,SD 1,U.S. House,19,,Write-in,2
+Delaware,SD 1,State Senate,51,DEM,Michele Frazier,114
+Delaware,SD 1,State Senate,51,REP,Peter Oberacker,220
+Delaware,SD 1,State Senate,51,CON,Peter Oberacker,23
+Delaware,SD 1,State Senate,51,WOR,Michele Frazier,18
+Delaware,SD 1,State Senate,51,,Write-in,1
+Delaware,SD 1,State Assembly,121,DEM,Vicki Davis,129
+Delaware,SD 1,State Assembly,121,REP,Joe Angelino,225
+Delaware,SD 1,State Assembly,121,CON,Joe Angelino,24
+Delaware,SD 1,State Assembly,121,,Write-in,1
+Delaware,SD 2,President,,DEM,Kamala D. Harris,134
+Delaware,SD 2,President,,REP,Donald J. Trump,170
+Delaware,SD 2,President,,CON,Donald J. Trump,9
+Delaware,SD 2,President,,WOR,Kamala D. Harris,3
+Delaware,SD 2,President,,,Write-in,13
+Delaware,SD 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,134
+Delaware,SD 2,U.S. Senate,,REP,Michael D. Sapraicone,155
+Delaware,SD 2,U.S. Senate,,CON,Michael D. Sapraicone,12
+Delaware,SD 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,13
+Delaware,SD 2,U.S. Senate,,LAR,Diane Sare,4
+Delaware,SD 2,U.S. Senate,,,Write-in,2
+Delaware,SD 2,U.S. House,19,DEM,Josh Riley,135
+Delaware,SD 2,U.S. House,19,REP,Marcus Molinaro,162
+Delaware,SD 2,U.S. House,19,CON,Marcus Molinaro,13
+Delaware,SD 2,U.S. House,19,WOR,Josh Riley,11
+Delaware,SD 2,U.S. House,19,,Write-in,1
+Delaware,SD 2,State Senate,51,DEM,Michele Frazier,121
+Delaware,SD 2,State Senate,51,REP,Peter Oberacker,171
+Delaware,SD 2,State Senate,51,CON,Peter Oberacker,14
+Delaware,SD 2,State Senate,51,WOR,Michele Frazier,11
+Delaware,SD 2,State Senate,51,,Write-in,1
+Delaware,SD 2,State Assembly,121,DEM,Vicki Davis,128
+Delaware,SD 2,State Assembly,121,REP,Joe Angelino,174
+Delaware,SD 2,State Assembly,121,CON,Joe Angelino,17
+Delaware,SD 2,State Assembly,121,,Write-in,1
+Delaware,SD 3,President,,DEM,Kamala D. Harris,129
+Delaware,SD 3,President,,REP,Donald J. Trump,219
+Delaware,SD 3,President,,CON,Donald J. Trump,18
+Delaware,SD 3,President,,WOR,Kamala D. Harris,2
+Delaware,SD 3,President,,,Write-in,5
+Delaware,SD 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,134
+Delaware,SD 3,U.S. Senate,,REP,Michael D. Sapraicone,195
+Delaware,SD 3,U.S. Senate,,CON,Michael D. Sapraicone,17
+Delaware,SD 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,10
+Delaware,SD 3,U.S. Senate,,LAR,Diane Sare,3
+Delaware,SD 3,U.S. House,19,DEM,Josh Riley,126
+Delaware,SD 3,U.S. House,19,REP,Marcus Molinaro,205
+Delaware,SD 3,U.S. House,19,CON,Marcus Molinaro,21
+Delaware,SD 3,U.S. House,19,WOR,Josh Riley,10
+Delaware,SD 3,State Senate,51,DEM,Michele Frazier,114
+Delaware,SD 3,State Senate,51,REP,Peter Oberacker,215
+Delaware,SD 3,State Senate,51,CON,Peter Oberacker,22
+Delaware,SD 3,State Senate,51,WOR,Michele Frazier,7
+Delaware,SD 3,State Assembly,121,DEM,Vicki Davis,116
+Delaware,SD 3,State Assembly,121,REP,Joe Angelino,225
+Delaware,SD 3,State Assembly,121,CON,Joe Angelino,20
+Delaware,SD 4,President,,DEM,Kamala D. Harris,139
+Delaware,SD 4,President,,REP,Donald J. Trump,144
+Delaware,SD 4,President,,CON,Donald J. Trump,12
+Delaware,SD 4,President,,WOR,Kamala D. Harris,12
+Delaware,SD 4,President,,,Write-in,8
+Delaware,SD 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,137
+Delaware,SD 4,U.S. Senate,,REP,Michael D. Sapraicone,133
+Delaware,SD 4,U.S. Senate,,CON,Michael D. Sapraicone,12
+Delaware,SD 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Delaware,SD 4,U.S. Senate,,LAR,Diane Sare,8
+Delaware,SD 4,U.S. House,19,DEM,Josh Riley,134
+Delaware,SD 4,U.S. House,19,REP,Marcus Molinaro,146
+Delaware,SD 4,U.S. House,19,CON,Marcus Molinaro,12
+Delaware,SD 4,U.S. House,19,WOR,Josh Riley,18
+Delaware,SD 4,U.S. House,19,,Write-in,1
+Delaware,SD 4,State Senate,51,DEM,Michele Frazier,119
+Delaware,SD 4,State Senate,51,REP,Peter Oberacker,158
+Delaware,SD 4,State Senate,51,CON,Peter Oberacker,13
+Delaware,SD 4,State Senate,51,WOR,Michele Frazier,17
+Delaware,SD 4,State Assembly,121,DEM,Vicki Davis,125
+Delaware,SD 4,State Assembly,121,REP,Joe Angelino,166
+Delaware,SD 4,State Assembly,121,CON,Joe Angelino,15
+Delaware,SD 5,President,,DEM,Kamala D. Harris,112
+Delaware,SD 5,President,,REP,Donald J. Trump,135
+Delaware,SD 5,President,,CON,Donald J. Trump,12
+Delaware,SD 5,President,,WOR,Kamala D. Harris,1
+Delaware,SD 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,113
+Delaware,SD 5,U.S. Senate,,REP,Michael D. Sapraicone,130
+Delaware,SD 5,U.S. Senate,,CON,Michael D. Sapraicone,13
+Delaware,SD 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,3
+Delaware,SD 5,U.S. Senate,,LAR,Diane Sare,1
+Delaware,SD 5,U.S. House,19,DEM,Josh Riley,102
+Delaware,SD 5,U.S. House,19,REP,Marcus Molinaro,140
+Delaware,SD 5,U.S. House,19,CON,Marcus Molinaro,14
+Delaware,SD 5,U.S. House,19,WOR,Josh Riley,3
+Delaware,SD 5,State Senate,51,DEM,Michele Frazier,93
+Delaware,SD 5,State Senate,51,REP,Peter Oberacker,152
+Delaware,SD 5,State Senate,51,CON,Peter Oberacker,13
+Delaware,SD 5,State Senate,51,WOR,Michele Frazier,1
+Delaware,SD 5,State Assembly,121,DEM,Vicki Davis,90
+Delaware,SD 5,State Assembly,121,REP,Joe Angelino,155
+Delaware,SD 5,State Assembly,121,CON,Joe Angelino,15
+Delaware,SD 6,President,,DEM,Kamala D. Harris,219
+Delaware,SD 6,President,,REP,Donald J. Trump,235
+Delaware,SD 6,President,,CON,Donald J. Trump,14
+Delaware,SD 6,President,,WOR,Kamala D. Harris,11
+Delaware,SD 6,President,,,Write-in,3
+Delaware,SD 6,U.S. Senate,,DEM,Kirsten E. Gillibrand,203
+Delaware,SD 6,U.S. Senate,,REP,Michael D. Sapraicone,219
+Delaware,SD 6,U.S. Senate,,CON,Michael D. Sapraicone,14
+Delaware,SD 6,U.S. Senate,,WOR,Kirsten E. Gillibrand,22
+Delaware,SD 6,U.S. Senate,,LAR,Diane Sare,7
+Delaware,SD 6,U.S. House,19,DEM,Josh Riley,202
+Delaware,SD 6,U.S. House,19,REP,Marcus Molinaro,226
+Delaware,SD 6,U.S. House,19,CON,Marcus Molinaro,15
+Delaware,SD 6,U.S. House,19,WOR,Josh Riley,22
+Delaware,SD 6,U.S. House,19,,Write-in,2
+Delaware,SD 6,State Senate,51,DEM,Michele Frazier,180
+Delaware,SD 6,State Senate,51,REP,Peter Oberacker,251
+Delaware,SD 6,State Senate,51,CON,Peter Oberacker,18
+Delaware,SD 6,State Senate,51,WOR,Michele Frazier,15
+Delaware,SD 6,State Assembly,121,DEM,Vicki Davis,185
+Delaware,SD 6,State Assembly,121,REP,Joe Angelino,260
+Delaware,SD 6,State Assembly,121,CON,Joe Angelino,19
+Delaware,SD 6,State Assembly,121,,Write-in,1
+Delaware,SD 7,President,,DEM,Kamala D. Harris,119
+Delaware,SD 7,President,,REP,Donald J. Trump,210
+Delaware,SD 7,President,,CON,Donald J. Trump,12
+Delaware,SD 7,President,,WOR,Kamala D. Harris,11
+Delaware,SD 7,U.S. Senate,,DEM,Kirsten E. Gillibrand,124
+Delaware,SD 7,U.S. Senate,,REP,Michael D. Sapraicone,184
+Delaware,SD 7,U.S. Senate,,CON,Michael D. Sapraicone,16
+Delaware,SD 7,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Delaware,SD 7,U.S. Senate,,LAR,Diane Sare,2
+Delaware,SD 7,U.S. House,19,DEM,Josh Riley,119
+Delaware,SD 7,U.S. House,19,REP,Marcus Molinaro,197
+Delaware,SD 7,U.S. House,19,CON,Marcus Molinaro,15
+Delaware,SD 7,U.S. House,19,WOR,Josh Riley,15
+Delaware,SD 7,State Senate,51,DEM,Michele Frazier,107
+Delaware,SD 7,State Senate,51,REP,Peter Oberacker,207
+Delaware,SD 7,State Senate,51,CON,Peter Oberacker,14
+Delaware,SD 7,State Senate,51,WOR,Michele Frazier,16
+Delaware,SD 7,State Assembly,121,DEM,Vicki Davis,110
+Delaware,SD 7,State Assembly,121,REP,Joe Angelino,214
+Delaware,SD 7,State Assembly,121,CON,Joe Angelino,20
+Delaware,ST 1,President,,DEM,Kamala D. Harris,222
+Delaware,ST 1,President,,REP,Donald J. Trump,305
+Delaware,ST 1,President,,CON,Donald J. Trump,31
+Delaware,ST 1,President,,WOR,Kamala D. Harris,15
+Delaware,ST 1,President,,,Write-in,7
+Delaware,ST 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,229
+Delaware,ST 1,U.S. Senate,,REP,Michael D. Sapraicone,278
+Delaware,ST 1,U.S. Senate,,CON,Michael D. Sapraicone,34
+Delaware,ST 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,28
+Delaware,ST 1,U.S. Senate,,LAR,Diane Sare,1
+Delaware,ST 1,U.S. House,19,DEM,Josh Riley,208
+Delaware,ST 1,U.S. House,19,REP,Marcus Molinaro,298
+Delaware,ST 1,U.S. House,19,CON,Marcus Molinaro,37
+Delaware,ST 1,U.S. House,19,WOR,Josh Riley,23
+Delaware,ST 1,U.S. House,19,,Write-in,2
+Delaware,ST 1,State Senate,51,DEM,Michele Frazier,195
+Delaware,ST 1,State Senate,51,REP,Peter Oberacker,313
+Delaware,ST 1,State Senate,51,CON,Peter Oberacker,43
+Delaware,ST 1,State Senate,51,WOR,Michele Frazier,16
+Delaware,ST 1,State Assembly,102,DEM,Janet S. Tweed,194
+Delaware,ST 1,State Assembly,102,REP,Christopher Tague,305
+Delaware,ST 1,State Assembly,102,CON,Christopher Tague,41
+Delaware,ST 1,State Assembly,102,WOR,Janet S. Tweed,24
+Delaware,ST 2,President,,DEM,Kamala D. Harris,174
+Delaware,ST 2,President,,REP,Donald J. Trump,243
+Delaware,ST 2,President,,CON,Donald J. Trump,12
+Delaware,ST 2,President,,WOR,Kamala D. Harris,13
+Delaware,ST 2,President,,,Write-in,5
+Delaware,ST 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,173
+Delaware,ST 2,U.S. Senate,,REP,Michael D. Sapraicone,211
+Delaware,ST 2,U.S. Senate,,CON,Michael D. Sapraicone,14
+Delaware,ST 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,22
+Delaware,ST 2,U.S. Senate,,LAR,Diane Sare,1
+Delaware,ST 2,U.S. Senate,,,Write-in,2
+Delaware,ST 2,U.S. House,19,DEM,Josh Riley,165
+Delaware,ST 2,U.S. House,19,REP,Marcus Molinaro,219
+Delaware,ST 2,U.S. House,19,CON,Marcus Molinaro,16
+Delaware,ST 2,U.S. House,19,WOR,Josh Riley,23
+Delaware,ST 2,U.S. House,19,,Write-in,1
+Delaware,ST 2,State Senate,51,DEM,Michele Frazier,145
+Delaware,ST 2,State Senate,51,REP,Peter Oberacker,234
+Delaware,ST 2,State Senate,51,CON,Peter Oberacker,19
+Delaware,ST 2,State Senate,51,WOR,Michele Frazier,18
+Delaware,ST 2,State Senate,51,,Write-in,1
+Delaware,ST 2,State Assembly,102,DEM,Janet S. Tweed,155
+Delaware,ST 2,State Assembly,102,REP,Christopher Tague,227
+Delaware,ST 2,State Assembly,102,CON,Christopher Tague,19
+Delaware,ST 2,State Assembly,102,WOR,Janet S. Tweed,17
+Delaware,ST 2,State Assembly,102,,Write-in,1
+Delaware,TM 1,President,,DEM,Kamala D. Harris,127
+Delaware,TM 1,President,,REP,Donald J. Trump,382
+Delaware,TM 1,President,,CON,Donald J. Trump,32
+Delaware,TM 1,President,,WOR,Kamala D. Harris,18
+Delaware,TM 1,President,,,Write-in,8
+Delaware,TM 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,138
+Delaware,TM 1,U.S. Senate,,REP,Michael D. Sapraicone,338
+Delaware,TM 1,U.S. Senate,,CON,Michael D. Sapraicone,29
+Delaware,TM 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Delaware,TM 1,U.S. Senate,,LAR,Diane Sare,2
+Delaware,TM 1,U.S. Senate,,,Write-in,3
+Delaware,TM 1,U.S. House,19,DEM,Josh Riley,124
+Delaware,TM 1,U.S. House,19,REP,Marcus Molinaro,357
+Delaware,TM 1,U.S. House,19,CON,Marcus Molinaro,30
+Delaware,TM 1,U.S. House,19,WOR,Josh Riley,28
+Delaware,TM 1,U.S. House,19,,Write-in,3
+Delaware,TM 1,State Senate,51,DEM,Michele Frazier,109
+Delaware,TM 1,State Senate,51,REP,Peter Oberacker,367
+Delaware,TM 1,State Senate,51,CON,Peter Oberacker,34
+Delaware,TM 1,State Senate,51,WOR,Michele Frazier,26
+Delaware,TM 1,State Senate,51,,Write-in,3
+Delaware,TM 1,State Assembly,121,DEM,Vicki Davis,135
+Delaware,TM 1,State Assembly,121,REP,Joe Angelino,363
+Delaware,TM 1,State Assembly,121,CON,Joe Angelino,34
+Delaware,TM 1,State Assembly,121,,Write-in,3
+Delaware,WL 1,President,,DEM,Kamala D. Harris,177
+Delaware,WL 1,President,,REP,Donald J. Trump,392
+Delaware,WL 1,President,,CON,Donald J. Trump,22
+Delaware,WL 1,President,,WOR,Kamala D. Harris,12
+Delaware,WL 1,President,,,Write-in,3
+Delaware,WL 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,196
+Delaware,WL 1,U.S. Senate,,REP,Michael D. Sapraicone,346
+Delaware,WL 1,U.S. Senate,,CON,Michael D. Sapraicone,19
+Delaware,WL 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,22
+Delaware,WL 1,U.S. Senate,,LAR,Diane Sare,4
+Delaware,WL 1,U.S. House,19,DEM,Josh Riley,172
+Delaware,WL 1,U.S. House,19,REP,Marcus Molinaro,379
+Delaware,WL 1,U.S. House,19,CON,Marcus Molinaro,20
+Delaware,WL 1,U.S. House,19,WOR,Josh Riley,16
+Delaware,WL 1,U.S. House,19,,Write-in,1
+Delaware,WL 1,State Senate,51,DEM,Michele Frazier,161
+Delaware,WL 1,State Senate,51,REP,Peter Oberacker,389
+Delaware,WL 1,State Senate,51,CON,Peter Oberacker,24
+Delaware,WL 1,State Senate,51,WOR,Michele Frazier,11
+Delaware,WL 1,State Assembly,102,DEM,Janet S. Tweed,169
+Delaware,WL 1,State Assembly,102,REP,Christopher Tague,378
+Delaware,WL 1,State Assembly,102,CON,Christopher Tague,24
+Delaware,WL 1,State Assembly,102,WOR,Janet S. Tweed,17
+Delaware,WL 2,President,,DEM,Kamala D. Harris,182
+Delaware,WL 2,President,,REP,Donald J. Trump,249
+Delaware,WL 2,President,,CON,Donald J. Trump,13
+Delaware,WL 2,President,,WOR,Kamala D. Harris,12
+Delaware,WL 2,President,,,Write-in,5
+Delaware,WL 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,182
+Delaware,WL 2,U.S. Senate,,REP,Michael D. Sapraicone,234
+Delaware,WL 2,U.S. Senate,,CON,Michael D. Sapraicone,18
+Delaware,WL 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Delaware,WL 2,U.S. Senate,,LAR,Diane Sare,1
+Delaware,WL 2,U.S. House,19,DEM,Josh Riley,169
+Delaware,WL 2,U.S. House,19,REP,Marcus Molinaro,249
+Delaware,WL 2,U.S. House,19,CON,Marcus Molinaro,14
+Delaware,WL 2,U.S. House,19,WOR,Josh Riley,19
+Delaware,WL 2,State Senate,51,DEM,Michele Frazier,152
+Delaware,WL 2,State Senate,51,REP,Peter Oberacker,263
+Delaware,WL 2,State Senate,51,CON,Peter Oberacker,18
+Delaware,WL 2,State Senate,51,WOR,Michele Frazier,13
+Delaware,WL 2,State Assembly,102,DEM,Janet S. Tweed,158
+Delaware,WL 2,State Assembly,102,REP,Christopher Tague,253
+Delaware,WL 2,State Assembly,102,CON,Christopher Tague,17
+Delaware,WL 2,State Assembly,102,WOR,Janet S. Tweed,16
+Delaware,WL 3,President,,DEM,Kamala D. Harris,133
+Delaware,WL 3,President,,REP,Donald J. Trump,273
+Delaware,WL 3,President,,CON,Donald J. Trump,22
+Delaware,WL 3,President,,WOR,Kamala D. Harris,12
+Delaware,WL 3,President,,,Write-in,6
+Delaware,WL 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,133
+Delaware,WL 3,U.S. Senate,,REP,Michael D. Sapraicone,244
+Delaware,WL 3,U.S. Senate,,CON,Michael D. Sapraicone,25
+Delaware,WL 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,22
+Delaware,WL 3,U.S. Senate,,LAR,Diane Sare,3
+Delaware,WL 3,U.S. House,19,DEM,Josh Riley,129
+Delaware,WL 3,U.S. House,19,REP,Marcus Molinaro,262
+Delaware,WL 3,U.S. House,19,CON,Marcus Molinaro,25
+Delaware,WL 3,U.S. House,19,WOR,Josh Riley,17
+Delaware,WL 3,State Senate,51,DEM,Michele Frazier,116
+Delaware,WL 3,State Senate,51,REP,Peter Oberacker,273
+Delaware,WL 3,State Senate,51,CON,Peter Oberacker,23
+Delaware,WL 3,State Senate,51,WOR,Michele Frazier,17
+Delaware,WL 3,State Assembly,102,DEM,Janet S. Tweed,120
+Delaware,WL 3,State Assembly,102,REP,Christopher Tague,263
+Delaware,WL 3,State Assembly,102,CON,Christopher Tague,22
+Delaware,WL 3,State Assembly,102,WOR,Janet S. Tweed,20
+Delaware,WL 4,President,,DEM,Kamala D. Harris,163
+Delaware,WL 4,President,,REP,Donald J. Trump,354
+Delaware,WL 4,President,,CON,Donald J. Trump,27
+Delaware,WL 4,President,,WOR,Kamala D. Harris,12
+Delaware,WL 4,President,,,Write-in,4
+Delaware,WL 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,167
+Delaware,WL 4,U.S. Senate,,REP,Michael D. Sapraicone,325
+Delaware,WL 4,U.S. Senate,,CON,Michael D. Sapraicone,27
+Delaware,WL 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,21
+Delaware,WL 4,U.S. Senate,,LAR,Diane Sare,3
+Delaware,WL 4,U.S. House,19,DEM,Josh Riley,148
+Delaware,WL 4,U.S. House,19,REP,Marcus Molinaro,347
+Delaware,WL 4,U.S. House,19,CON,Marcus Molinaro,28
+Delaware,WL 4,U.S. House,19,WOR,Josh Riley,20
+Delaware,WL 4,U.S. House,19,,Write-in,1
+Delaware,WL 4,State Senate,51,DEM,Michele Frazier,136
+Delaware,WL 4,State Senate,51,REP,Peter Oberacker,356
+Delaware,WL 4,State Senate,51,CON,Peter Oberacker,32
+Delaware,WL 4,State Senate,51,WOR,Michele Frazier,17
+Delaware,WL 4,State Assembly,102,DEM,Janet S. Tweed,143
+Delaware,WL 4,State Assembly,102,REP,Christopher Tague,341
+Delaware,WL 4,State Assembly,102,CON,Christopher Tague,26
+Delaware,WL 4,State Assembly,102,WOR,Janet S. Tweed,25
+Delaware,WL 5,President,,DEM,Kamala D. Harris,114
+Delaware,WL 5,President,,REP,Donald J. Trump,381
+Delaware,WL 5,President,,CON,Donald J. Trump,30
+Delaware,WL 5,President,,WOR,Kamala D. Harris,8
+Delaware,WL 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,119
+Delaware,WL 5,U.S. Senate,,REP,Michael D. Sapraicone,348
+Delaware,WL 5,U.S. Senate,,CON,Michael D. Sapraicone,31
+Delaware,WL 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Delaware,WL 5,U.S. Senate,,LAR,Diane Sare,2
+Delaware,WL 5,U.S. House,19,DEM,Josh Riley,106
+Delaware,WL 5,U.S. House,19,REP,Marcus Molinaro,363
+Delaware,WL 5,U.S. House,19,CON,Marcus Molinaro,28
+Delaware,WL 5,U.S. House,19,WOR,Josh Riley,18
+Delaware,WL 5,State Senate,51,DEM,Michele Frazier,99
+Delaware,WL 5,State Senate,51,REP,Peter Oberacker,369
+Delaware,WL 5,State Senate,51,CON,Peter Oberacker,31
+Delaware,WL 5,State Senate,51,WOR,Michele Frazier,11
+Delaware,WL 5,State Assembly,102,DEM,Janet S. Tweed,101
+Delaware,WL 5,State Assembly,102,REP,Christopher Tague,367
+Delaware,WL 5,State Assembly,102,CON,Christopher Tague,27
+Delaware,WL 5,State Assembly,102,WOR,Janet S. Tweed,13

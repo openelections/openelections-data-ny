@@ -1,0 +1,3222 @@
+county,precinct,office,district,party,candidate,votes
+Monroe,Leg. Dist. 16 1,President,,DEM,Kamala D. Harris,11
+Monroe,Leg. Dist. 16 1,President,,REP,Donald J. Trump,3
+Monroe,Leg. Dist. 17 1,President,,DEM,Kamala D. Harris,570
+Monroe,Leg. Dist. 17 1,President,,REP,Donald J. Trump,117
+Monroe,Leg. Dist. 17 1,President,,CON,Donald J. Trump,19
+Monroe,Leg. Dist. 17 1,President,,WOR,Kamala D. Harris,84
+Monroe,Leg. Dist. 17 1,President,,,Write-in,15
+Monroe,Leg. Dist. 17 2,President,,DEM,Kamala D. Harris,82
+Monroe,Leg. Dist. 17 2,President,,REP,Donald J. Trump,46
+Monroe,Leg. Dist. 17 2,President,,CON,Donald J. Trump,2
+Monroe,Leg. Dist. 17 2,President,,WOR,Kamala D. Harris,6
+Monroe,Leg. Dist. 17 3,President,,DEM,Kamala D. Harris,623
+Monroe,Leg. Dist. 17 3,President,,REP,Donald J. Trump,168
+Monroe,Leg. Dist. 17 3,President,,CON,Donald J. Trump,37
+Monroe,Leg. Dist. 17 3,President,,WOR,Kamala D. Harris,63
+Monroe,Leg. Dist. 17 3,President,,,Write-in,18
+Monroe,Leg. Dist. 17 4,President,,DEM,Kamala D. Harris,346
+Monroe,Leg. Dist. 17 4,President,,REP,Donald J. Trump,106
+Monroe,Leg. Dist. 17 4,President,,CON,Donald J. Trump,9
+Monroe,Leg. Dist. 17 4,President,,WOR,Kamala D. Harris,32
+Monroe,Leg. Dist. 17 4,President,,,Write-in,5
+Monroe,Leg. Dist. 17 5,President,,DEM,Kamala D. Harris,498
+Monroe,Leg. Dist. 17 5,President,,REP,Donald J. Trump,127
+Monroe,Leg. Dist. 17 5,President,,CON,Donald J. Trump,23
+Monroe,Leg. Dist. 17 5,President,,WOR,Kamala D. Harris,46
+Monroe,Leg. Dist. 17 5,President,,,Write-in,5
+Monroe,Leg. Dist. 17 6,President,,DEM,Kamala D. Harris,402
+Monroe,Leg. Dist. 17 6,President,,REP,Donald J. Trump,85
+Monroe,Leg. Dist. 17 6,President,,CON,Donald J. Trump,16
+Monroe,Leg. Dist. 17 6,President,,WOR,Kamala D. Harris,34
+Monroe,Leg. Dist. 17 6,President,,,Write-in,11
+Monroe,Leg. Dist. 17 7,President,,DEM,Kamala D. Harris,629
+Monroe,Leg. Dist. 17 7,President,,REP,Donald J. Trump,189
+Monroe,Leg. Dist. 17 7,President,,CON,Donald J. Trump,33
+Monroe,Leg. Dist. 17 7,President,,WOR,Kamala D. Harris,76
+Monroe,Leg. Dist. 17 7,President,,,Write-in,25
+Monroe,Leg. Dist. 17 8,President,,DEM,Kamala D. Harris,344
+Monroe,Leg. Dist. 17 8,President,,REP,Donald J. Trump,92
+Monroe,Leg. Dist. 17 8,President,,CON,Donald J. Trump,11
+Monroe,Leg. Dist. 17 8,President,,WOR,Kamala D. Harris,49
+Monroe,Leg. Dist. 17 8,President,,,Write-in,7
+Monroe,Leg. Dist. 21 1,President,,DEM,Kamala D. Harris,236
+Monroe,Leg. Dist. 21 1,President,,REP,Donald J. Trump,76
+Monroe,Leg. Dist. 21 1,President,,CON,Donald J. Trump,12
+Monroe,Leg. Dist. 21 1,President,,WOR,Kamala D. Harris,10
+Monroe,Leg. Dist. 21 1,President,,,Write-in,3
+Monroe,Leg. Dist. 21 2,President,,DEM,Kamala D. Harris,332
+Monroe,Leg. Dist. 21 2,President,,REP,Donald J. Trump,86
+Monroe,Leg. Dist. 21 2,President,,CON,Donald J. Trump,11
+Monroe,Leg. Dist. 21 2,President,,WOR,Kamala D. Harris,26
+Monroe,Leg. Dist. 21 2,President,,,Write-in,1
+Monroe,Leg. Dist. 21 3,President,,DEM,Kamala D. Harris,439
+Monroe,Leg. Dist. 21 3,President,,REP,Donald J. Trump,93
+Monroe,Leg. Dist. 21 3,President,,CON,Donald J. Trump,9
+Monroe,Leg. Dist. 21 3,President,,WOR,Kamala D. Harris,48
+Monroe,Leg. Dist. 21 3,President,,,Write-in,10
+Monroe,Leg. Dist. 21 4,President,,DEM,Kamala D. Harris,223
+Monroe,Leg. Dist. 21 4,President,,REP,Donald J. Trump,68
+Monroe,Leg. Dist. 21 4,President,,CON,Donald J. Trump,8
+Monroe,Leg. Dist. 21 4,President,,WOR,Kamala D. Harris,12
+Monroe,Leg. Dist. 21 4,President,,,Write-in,1
+Monroe,Leg. Dist. 21 5,President,,DEM,Kamala D. Harris,284
+Monroe,Leg. Dist. 21 5,President,,REP,Donald J. Trump,61
+Monroe,Leg. Dist. 21 5,President,,CON,Donald J. Trump,11
+Monroe,Leg. Dist. 21 5,President,,WOR,Kamala D. Harris,50
+Monroe,Leg. Dist. 21 5,President,,,Write-in,10
+Monroe,Leg. Dist. 21 6,President,,DEM,Kamala D. Harris,255
+Monroe,Leg. Dist. 21 6,President,,REP,Donald J. Trump,57
+Monroe,Leg. Dist. 21 6,President,,CON,Donald J. Trump,9
+Monroe,Leg. Dist. 21 6,President,,WOR,Kamala D. Harris,17
+Monroe,Leg. Dist. 21 6,President,,,Write-in,2
+Monroe,Leg. Dist. 21 7,President,,DEM,Kamala D. Harris,220
+Monroe,Leg. Dist. 21 7,President,,REP,Donald J. Trump,78
+Monroe,Leg. Dist. 21 7,President,,CON,Donald J. Trump,7
+Monroe,Leg. Dist. 21 7,President,,WOR,Kamala D. Harris,16
+Monroe,Leg. Dist. 21 8,President,,DEM,Kamala D. Harris,181
+Monroe,Leg. Dist. 21 8,President,,REP,Donald J. Trump,90
+Monroe,Leg. Dist. 21 8,President,,CON,Donald J. Trump,16
+Monroe,Leg. Dist. 21 8,President,,WOR,Kamala D. Harris,14
+Monroe,Leg. Dist. 21 8,President,,,Write-in,7
+Monroe,Leg. Dist. 21 9,President,,DEM,Kamala D. Harris,349
+Monroe,Leg. Dist. 21 9,President,,REP,Donald J. Trump,54
+Monroe,Leg. Dist. 21 9,President,,CON,Donald J. Trump,10
+Monroe,Leg. Dist. 21 9,President,,WOR,Kamala D. Harris,38
+Monroe,Leg. Dist. 21 9,President,,,Write-in,2
+Monroe,Leg. Dist. 21 10,President,,DEM,Kamala D. Harris,217
+Monroe,Leg. Dist. 21 10,President,,REP,Donald J. Trump,36
+Monroe,Leg. Dist. 21 10,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 21 10,President,,WOR,Kamala D. Harris,9
+Monroe,Leg. Dist. 21 10,President,,,Write-in,3
+Monroe,Leg. Dist. 21 11,President,,DEM,Kamala D. Harris,129
+Monroe,Leg. Dist. 21 11,President,,REP,Donald J. Trump,20
+Monroe,Leg. Dist. 21 11,President,,CON,Donald J. Trump,7
+Monroe,Leg. Dist. 21 11,President,,WOR,Kamala D. Harris,3
+Monroe,Leg. Dist. 21 11,President,,,Write-in,1
+Monroe,Leg. Dist. 21 12,President,,DEM,Kamala D. Harris,262
+Monroe,Leg. Dist. 21 12,President,,REP,Donald J. Trump,38
+Monroe,Leg. Dist. 21 12,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 21 12,President,,WOR,Kamala D. Harris,10
+Monroe,Leg. Dist. 21 12,President,,,Write-in,2
+Monroe,Leg. Dist. 21 13,President,,DEM,Kamala D. Harris,271
+Monroe,Leg. Dist. 21 13,President,,REP,Donald J. Trump,44
+Monroe,Leg. Dist. 21 13,President,,CON,Donald J. Trump,7
+Monroe,Leg. Dist. 21 13,President,,WOR,Kamala D. Harris,15
+Monroe,Leg. Dist. 21 13,President,,,Write-in,2
+Monroe,Leg. Dist. 21 14,President,,DEM,Kamala D. Harris,335
+Monroe,Leg. Dist. 21 14,President,,REP,Donald J. Trump,77
+Monroe,Leg. Dist. 21 14,President,,CON,Donald J. Trump,13
+Monroe,Leg. Dist. 21 14,President,,WOR,Kamala D. Harris,16
+Monroe,Leg. Dist. 21 14,President,,,Write-in,2
+Monroe,Leg. Dist. 21 15,President,,DEM,Kamala D. Harris,222
+Monroe,Leg. Dist. 21 15,President,,REP,Donald J. Trump,38
+Monroe,Leg. Dist. 21 15,President,,CON,Donald J. Trump,2
+Monroe,Leg. Dist. 21 15,President,,WOR,Kamala D. Harris,24
+Monroe,Leg. Dist. 21 15,President,,,Write-in,1
+Monroe,Leg. Dist. 21 16,President,,DEM,Kamala D. Harris,189
+Monroe,Leg. Dist. 21 16,President,,REP,Donald J. Trump,58
+Monroe,Leg. Dist. 21 16,President,,CON,Donald J. Trump,12
+Monroe,Leg. Dist. 21 16,President,,WOR,Kamala D. Harris,9
+Monroe,Leg. Dist. 21 16,President,,,Write-in,3
+Monroe,Leg. Dist. 21 17,President,,DEM,Kamala D. Harris,128
+Monroe,Leg. Dist. 21 17,President,,REP,Donald J. Trump,21
+Monroe,Leg. Dist. 21 17,President,,CON,Donald J. Trump,2
+Monroe,Leg. Dist. 21 17,President,,WOR,Kamala D. Harris,12
+Monroe,Leg. Dist. 21 17,President,,,Write-in,5
+Monroe,Leg. Dist. 21 18,President,,DEM,Kamala D. Harris,138
+Monroe,Leg. Dist. 21 18,President,,REP,Donald J. Trump,37
+Monroe,Leg. Dist. 21 18,President,,CON,Donald J. Trump,4
+Monroe,Leg. Dist. 21 18,President,,WOR,Kamala D. Harris,5
+Monroe,Leg. Dist. 21 19,President,,DEM,Kamala D. Harris,321
+Monroe,Leg. Dist. 21 19,President,,REP,Donald J. Trump,61
+Monroe,Leg. Dist. 21 19,President,,CON,Donald J. Trump,15
+Monroe,Leg. Dist. 21 19,President,,WOR,Kamala D. Harris,19
+Monroe,Leg. Dist. 21 19,President,,,Write-in,1
+Monroe,Leg. Dist. 21 20,President,,DEM,Kamala D. Harris,143
+Monroe,Leg. Dist. 21 20,President,,REP,Donald J. Trump,33
+Monroe,Leg. Dist. 21 20,President,,CON,Donald J. Trump,4
+Monroe,Leg. Dist. 21 20,President,,WOR,Kamala D. Harris,8
+Monroe,Leg. Dist. 22 1,President,,DEM,Kamala D. Harris,282
+Monroe,Leg. Dist. 22 1,President,,REP,Donald J. Trump,55
+Monroe,Leg. Dist. 22 1,President,,CON,Donald J. Trump,6
+Monroe,Leg. Dist. 22 1,President,,WOR,Kamala D. Harris,10
+Monroe,Leg. Dist. 22 1,President,,,Write-in,3
+Monroe,Leg. Dist. 22 2,President,,DEM,Kamala D. Harris,131
+Monroe,Leg. Dist. 22 2,President,,REP,Donald J. Trump,39
+Monroe,Leg. Dist. 22 2,President,,CON,Donald J. Trump,4
+Monroe,Leg. Dist. 22 2,President,,WOR,Kamala D. Harris,3
+Monroe,Leg. Dist. 22 2,President,,,Write-in,1
+Monroe,Leg. Dist. 22 3,President,,DEM,Kamala D. Harris,138
+Monroe,Leg. Dist. 22 3,President,,REP,Donald J. Trump,30
+Monroe,Leg. Dist. 22 3,President,,CON,Donald J. Trump,10
+Monroe,Leg. Dist. 22 3,President,,WOR,Kamala D. Harris,5
+Monroe,Leg. Dist. 22 3,President,,,Write-in,3
+Monroe,Leg. Dist. 22 4,President,,DEM,Kamala D. Harris,117
+Monroe,Leg. Dist. 22 4,President,,REP,Donald J. Trump,26
+Monroe,Leg. Dist. 22 4,President,,CON,Donald J. Trump,3
+Monroe,Leg. Dist. 22 4,President,,WOR,Kamala D. Harris,5
+Monroe,Leg. Dist. 22 4,President,,,Write-in,2
+Monroe,Leg. Dist. 22 5,President,,DEM,Kamala D. Harris,194
+Monroe,Leg. Dist. 22 5,President,,REP,Donald J. Trump,35
+Monroe,Leg. Dist. 22 5,President,,CON,Donald J. Trump,2
+Monroe,Leg. Dist. 22 5,President,,WOR,Kamala D. Harris,5
+Monroe,Leg. Dist. 22 6,President,,DEM,Kamala D. Harris,145
+Monroe,Leg. Dist. 22 6,President,,REP,Donald J. Trump,34
+Monroe,Leg. Dist. 22 6,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 22 6,President,,WOR,Kamala D. Harris,4
+Monroe,Leg. Dist. 22 7,President,,DEM,Kamala D. Harris,410
+Monroe,Leg. Dist. 22 7,President,,REP,Donald J. Trump,68
+Monroe,Leg. Dist. 22 7,President,,CON,Donald J. Trump,13
+Monroe,Leg. Dist. 22 7,President,,WOR,Kamala D. Harris,31
+Monroe,Leg. Dist. 22 7,President,,,Write-in,6
+Monroe,Leg. Dist. 22 8,President,,DEM,Kamala D. Harris,159
+Monroe,Leg. Dist. 22 8,President,,REP,Donald J. Trump,24
+Monroe,Leg. Dist. 22 8,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 22 8,President,,WOR,Kamala D. Harris,8
+Monroe,Leg. Dist. 22 8,President,,,Write-in,1
+Monroe,Leg. Dist. 22 9,President,,DEM,Kamala D. Harris,104
+Monroe,Leg. Dist. 22 9,President,,REP,Donald J. Trump,19
+Monroe,Leg. Dist. 22 9,President,,CON,Donald J. Trump,1
+Monroe,Leg. Dist. 22 9,President,,WOR,Kamala D. Harris,5
+Monroe,Leg. Dist. 22 9,President,,,Write-in,1
+Monroe,Leg. Dist. 22 10,President,,DEM,Kamala D. Harris,276
+Monroe,Leg. Dist. 22 10,President,,REP,Donald J. Trump,45
+Monroe,Leg. Dist. 22 10,President,,CON,Donald J. Trump,8
+Monroe,Leg. Dist. 22 10,President,,WOR,Kamala D. Harris,8
+Monroe,Leg. Dist. 22 10,President,,,Write-in,2
+Monroe,Leg. Dist. 22 11,President,,DEM,Kamala D. Harris,216
+Monroe,Leg. Dist. 22 11,President,,REP,Donald J. Trump,24
+Monroe,Leg. Dist. 22 11,President,,CON,Donald J. Trump,6
+Monroe,Leg. Dist. 22 11,President,,WOR,Kamala D. Harris,22
+Monroe,Leg. Dist. 22 11,President,,,Write-in,5
+Monroe,Leg. Dist. 22 12,President,,DEM,Kamala D. Harris,87
+Monroe,Leg. Dist. 22 12,President,,REP,Donald J. Trump,25
+Monroe,Leg. Dist. 22 12,President,,CON,Donald J. Trump,2
+Monroe,Leg. Dist. 22 12,President,,WOR,Kamala D. Harris,5
+Monroe,Leg. Dist. 22 13,President,,DEM,Kamala D. Harris,120
+Monroe,Leg. Dist. 22 13,President,,REP,Donald J. Trump,16
+Monroe,Leg. Dist. 22 13,President,,CON,Donald J. Trump,1
+Monroe,Leg. Dist. 22 13,President,,WOR,Kamala D. Harris,10
+Monroe,Leg. Dist. 22 13,President,,,Write-in,3
+Monroe,Leg. Dist. 22 14,President,,DEM,Kamala D. Harris,177
+Monroe,Leg. Dist. 22 14,President,,REP,Donald J. Trump,27
+Monroe,Leg. Dist. 22 14,President,,CON,Donald J. Trump,3
+Monroe,Leg. Dist. 22 14,President,,WOR,Kamala D. Harris,13
+Monroe,Leg. Dist. 22 15,President,,DEM,Kamala D. Harris,169
+Monroe,Leg. Dist. 22 15,President,,REP,Donald J. Trump,24
+Monroe,Leg. Dist. 22 15,President,,CON,Donald J. Trump,2
+Monroe,Leg. Dist. 22 15,President,,WOR,Kamala D. Harris,14
+Monroe,Leg. Dist. 22 15,President,,,Write-in,5
+Monroe,Leg. Dist. 22 16,President,,DEM,Kamala D. Harris,133
+Monroe,Leg. Dist. 22 16,President,,REP,Donald J. Trump,23
+Monroe,Leg. Dist. 22 16,President,,CON,Donald J. Trump,4
+Monroe,Leg. Dist. 22 16,President,,WOR,Kamala D. Harris,9
+Monroe,Leg. Dist. 22 16,President,,,Write-in,4
+Monroe,Leg. Dist. 22 17,President,,DEM,Kamala D. Harris,188
+Monroe,Leg. Dist. 22 17,President,,REP,Donald J. Trump,36
+Monroe,Leg. Dist. 22 17,President,,CON,Donald J. Trump,2
+Monroe,Leg. Dist. 22 17,President,,WOR,Kamala D. Harris,13
+Monroe,Leg. Dist. 22 17,President,,,Write-in,2
+Monroe,Leg. Dist. 22 18,President,,DEM,Kamala D. Harris,84
+Monroe,Leg. Dist. 22 18,President,,REP,Donald J. Trump,21
+Monroe,Leg. Dist. 22 18,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 22 18,President,,WOR,Kamala D. Harris,1
+Monroe,Leg. Dist. 22 19,President,,DEM,Kamala D. Harris,177
+Monroe,Leg. Dist. 22 19,President,,REP,Donald J. Trump,23
+Monroe,Leg. Dist. 22 19,President,,CON,Donald J. Trump,2
+Monroe,Leg. Dist. 22 19,President,,WOR,Kamala D. Harris,9
+Monroe,Leg. Dist. 22 19,President,,,Write-in,4
+Monroe,Leg. Dist. 22 20,President,,DEM,Kamala D. Harris,182
+Monroe,Leg. Dist. 22 20,President,,REP,Donald J. Trump,27
+Monroe,Leg. Dist. 22 20,President,,CON,Donald J. Trump,6
+Monroe,Leg. Dist. 22 20,President,,WOR,Kamala D. Harris,13
+Monroe,Leg. Dist. 22 21,President,,DEM,Kamala D. Harris,96
+Monroe,Leg. Dist. 22 21,President,,REP,Donald J. Trump,19
+Monroe,Leg. Dist. 22 21,President,,CON,Donald J. Trump,1
+Monroe,Leg. Dist. 22 21,President,,WOR,Kamala D. Harris,6
+Monroe,Leg. Dist. 22 21,President,,,Write-in,1
+Monroe,Leg. Dist. 22 22,President,,DEM,Kamala D. Harris,163
+Monroe,Leg. Dist. 22 22,President,,REP,Donald J. Trump,30
+Monroe,Leg. Dist. 22 22,President,,CON,Donald J. Trump,1
+Monroe,Leg. Dist. 22 22,President,,WOR,Kamala D. Harris,4
+Monroe,Leg. Dist. 22 23,President,,DEM,Kamala D. Harris,94
+Monroe,Leg. Dist. 22 23,President,,REP,Donald J. Trump,12
+Monroe,Leg. Dist. 22 23,President,,CON,Donald J. Trump,2
+Monroe,Leg. Dist. 22 23,President,,WOR,Kamala D. Harris,9
+Monroe,Leg. Dist. 22 24,President,,DEM,Kamala D. Harris,94
+Monroe,Leg. Dist. 22 24,President,,REP,Donald J. Trump,8
+Monroe,Leg. Dist. 22 24,President,,CON,Donald J. Trump,1
+Monroe,Leg. Dist. 22 24,President,,WOR,Kamala D. Harris,11
+Monroe,Leg. Dist. 22 24,President,,,Write-in,1
+Monroe,Leg. Dist. 22 25,President,,DEM,Kamala D. Harris,33
+Monroe,Leg. Dist. 22 25,President,,REP,Donald J. Trump,2
+Monroe,Leg. Dist. 22 25,President,,CON,Donald J. Trump,1
+Monroe,Leg. Dist. 22 25,President,,WOR,Kamala D. Harris,1
+Monroe,Leg. Dist. 23 1,President,,DEM,Kamala D. Harris,638
+Monroe,Leg. Dist. 23 1,President,,REP,Donald J. Trump,117
+Monroe,Leg. Dist. 23 1,President,,CON,Donald J. Trump,21
+Monroe,Leg. Dist. 23 1,President,,WOR,Kamala D. Harris,55
+Monroe,Leg. Dist. 23 1,President,,,Write-in,18
+Monroe,Leg. Dist. 23 2,President,,DEM,Kamala D. Harris,724
+Monroe,Leg. Dist. 23 2,President,,REP,Donald J. Trump,165
+Monroe,Leg. Dist. 23 2,President,,CON,Donald J. Trump,18
+Monroe,Leg. Dist. 23 2,President,,WOR,Kamala D. Harris,85
+Monroe,Leg. Dist. 23 2,President,,,Write-in,23
+Monroe,Leg. Dist. 23 3,President,,DEM,Kamala D. Harris,809
+Monroe,Leg. Dist. 23 3,President,,REP,Donald J. Trump,132
+Monroe,Leg. Dist. 23 3,President,,CON,Donald J. Trump,14
+Monroe,Leg. Dist. 23 3,President,,WOR,Kamala D. Harris,112
+Monroe,Leg. Dist. 23 3,President,,,Write-in,32
+Monroe,Leg. Dist. 23 4,President,,DEM,Kamala D. Harris,390
+Monroe,Leg. Dist. 23 4,President,,REP,Donald J. Trump,85
+Monroe,Leg. Dist. 23 4,President,,CON,Donald J. Trump,16
+Monroe,Leg. Dist. 23 4,President,,WOR,Kamala D. Harris,38
+Monroe,Leg. Dist. 23 4,President,,,Write-in,8
+Monroe,Leg. Dist. 23 5,President,,DEM,Kamala D. Harris,25
+Monroe,Leg. Dist. 23 5,President,,REP,Donald J. Trump,2
+Monroe,Leg. Dist. 23 5,President,,WOR,Kamala D. Harris,1
+Monroe,Leg. Dist. 23 5,President,,,Write-in,1
+Monroe,Leg. Dist. 23 6,President,,DEM,Kamala D. Harris,223
+Monroe,Leg. Dist. 23 6,President,,REP,Donald J. Trump,64
+Monroe,Leg. Dist. 23 6,President,,CON,Donald J. Trump,15
+Monroe,Leg. Dist. 23 6,President,,WOR,Kamala D. Harris,41
+Monroe,Leg. Dist. 23 6,President,,,Write-in,5
+Monroe,Leg. Dist. 23 7,President,,DEM,Kamala D. Harris,457
+Monroe,Leg. Dist. 23 7,President,,REP,Donald J. Trump,64
+Monroe,Leg. Dist. 23 7,President,,CON,Donald J. Trump,14
+Monroe,Leg. Dist. 23 7,President,,WOR,Kamala D. Harris,61
+Monroe,Leg. Dist. 23 7,President,,,Write-in,12
+Monroe,Leg. Dist. 23 8,President,,DEM,Kamala D. Harris,729
+Monroe,Leg. Dist. 23 8,President,,REP,Donald J. Trump,108
+Monroe,Leg. Dist. 23 8,President,,CON,Donald J. Trump,29
+Monroe,Leg. Dist. 23 8,President,,WOR,Kamala D. Harris,75
+Monroe,Leg. Dist. 23 8,President,,,Write-in,18
+Monroe,Leg. Dist. 23 9,President,,DEM,Kamala D. Harris,490
+Monroe,Leg. Dist. 23 9,President,,REP,Donald J. Trump,117
+Monroe,Leg. Dist. 23 9,President,,CON,Donald J. Trump,16
+Monroe,Leg. Dist. 23 9,President,,WOR,Kamala D. Harris,50
+Monroe,Leg. Dist. 23 9,President,,,Write-in,9
+Monroe,Leg. Dist. 23 10,President,,DEM,Kamala D. Harris,396
+Monroe,Leg. Dist. 23 10,President,,REP,Donald J. Trump,57
+Monroe,Leg. Dist. 23 10,President,,CON,Donald J. Trump,10
+Monroe,Leg. Dist. 23 10,President,,WOR,Kamala D. Harris,21
+Monroe,Leg. Dist. 23 10,President,,,Write-in,6
+Monroe,Leg. Dist. 23 11,President,,DEM,Kamala D. Harris,637
+Monroe,Leg. Dist. 23 11,President,,REP,Donald J. Trump,133
+Monroe,Leg. Dist. 23 11,President,,CON,Donald J. Trump,11
+Monroe,Leg. Dist. 23 11,President,,WOR,Kamala D. Harris,95
+Monroe,Leg. Dist. 23 11,President,,,Write-in,22
+Monroe,Leg. Dist. 23 12,President,,DEM,Kamala D. Harris,771
+Monroe,Leg. Dist. 23 12,President,,REP,Donald J. Trump,179
+Monroe,Leg. Dist. 23 12,President,,CON,Donald J. Trump,33
+Monroe,Leg. Dist. 23 12,President,,WOR,Kamala D. Harris,75
+Monroe,Leg. Dist. 23 12,President,,,Write-in,10
+Monroe,Leg. Dist. 23 13,President,,DEM,Kamala D. Harris,247
+Monroe,Leg. Dist. 23 13,President,,REP,Donald J. Trump,70
+Monroe,Leg. Dist. 23 13,President,,CON,Donald J. Trump,13
+Monroe,Leg. Dist. 23 13,President,,WOR,Kamala D. Harris,14
+Monroe,Leg. Dist. 23 13,President,,,Write-in,6
+Monroe,Leg. Dist. 23 14,President,,DEM,Kamala D. Harris,362
+Monroe,Leg. Dist. 23 14,President,,REP,Donald J. Trump,37
+Monroe,Leg. Dist. 23 14,President,,CON,Donald J. Trump,10
+Monroe,Leg. Dist. 23 14,President,,WOR,Kamala D. Harris,70
+Monroe,Leg. Dist. 23 14,President,,,Write-in,19
+Monroe,Leg. Dist. 23 15,President,,DEM,Kamala D. Harris,247
+Monroe,Leg. Dist. 23 15,President,,REP,Donald J. Trump,61
+Monroe,Leg. Dist. 23 15,President,,CON,Donald J. Trump,12
+Monroe,Leg. Dist. 23 15,President,,WOR,Kamala D. Harris,37
+Monroe,Leg. Dist. 23 15,President,,,Write-in,7
+Monroe,Leg. Dist. 23 16,President,,DEM,Kamala D. Harris,341
+Monroe,Leg. Dist. 23 16,President,,REP,Donald J. Trump,78
+Monroe,Leg. Dist. 23 16,President,,CON,Donald J. Trump,10
+Monroe,Leg. Dist. 23 16,President,,WOR,Kamala D. Harris,51
+Monroe,Leg. Dist. 23 16,President,,,Write-in,19
+Monroe,Leg. Dist. 23 17,President,,DEM,Kamala D. Harris,287
+Monroe,Leg. Dist. 23 17,President,,REP,Donald J. Trump,54
+Monroe,Leg. Dist. 23 17,President,,CON,Donald J. Trump,9
+Monroe,Leg. Dist. 23 17,President,,WOR,Kamala D. Harris,46
+Monroe,Leg. Dist. 23 17,President,,,Write-in,14
+Monroe,Leg. Dist. 23 18,President,,DEM,Kamala D. Harris,289
+Monroe,Leg. Dist. 23 18,President,,REP,Donald J. Trump,59
+Monroe,Leg. Dist. 23 18,President,,CON,Donald J. Trump,13
+Monroe,Leg. Dist. 23 18,President,,WOR,Kamala D. Harris,50
+Monroe,Leg. Dist. 23 18,President,,,Write-in,11
+Monroe,Leg. Dist. 23 19,President,,DEM,Kamala D. Harris,195
+Monroe,Leg. Dist. 23 19,President,,REP,Donald J. Trump,77
+Monroe,Leg. Dist. 23 19,President,,CON,Donald J. Trump,9
+Monroe,Leg. Dist. 23 19,President,,WOR,Kamala D. Harris,21
+Monroe,Leg. Dist. 23 19,President,,,Write-in,2
+Monroe,Leg. Dist. 24 1,President,,DEM,Kamala D. Harris,308
+Monroe,Leg. Dist. 24 1,President,,REP,Donald J. Trump,34
+Monroe,Leg. Dist. 24 1,President,,CON,Donald J. Trump,9
+Monroe,Leg. Dist. 24 1,President,,WOR,Kamala D. Harris,61
+Monroe,Leg. Dist. 24 1,President,,,Write-in,10
+Monroe,Leg. Dist. 24 2,President,,DEM,Kamala D. Harris,259
+Monroe,Leg. Dist. 24 2,President,,REP,Donald J. Trump,29
+Monroe,Leg. Dist. 24 2,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 24 2,President,,WOR,Kamala D. Harris,39
+Monroe,Leg. Dist. 24 2,President,,,Write-in,2
+Monroe,Leg. Dist. 24 3,President,,DEM,Kamala D. Harris,267
+Monroe,Leg. Dist. 24 3,President,,REP,Donald J. Trump,35
+Monroe,Leg. Dist. 24 3,President,,CON,Donald J. Trump,8
+Monroe,Leg. Dist. 24 3,President,,WOR,Kamala D. Harris,43
+Monroe,Leg. Dist. 24 3,President,,,Write-in,7
+Monroe,Leg. Dist. 24 4,President,,DEM,Kamala D. Harris,21
+Monroe,Leg. Dist. 24 4,President,,REP,Donald J. Trump,5
+Monroe,Leg. Dist. 24 4,President,,CON,Donald J. Trump,1
+Monroe,Leg. Dist. 24 4,President,,WOR,Kamala D. Harris,3
+Monroe,Leg. Dist. 24 4,President,,,Write-in,2
+Monroe,Leg. Dist. 24 5,President,,DEM,Kamala D. Harris,259
+Monroe,Leg. Dist. 24 5,President,,REP,Donald J. Trump,46
+Monroe,Leg. Dist. 24 5,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 24 5,President,,WOR,Kamala D. Harris,40
+Monroe,Leg. Dist. 24 5,President,,,Write-in,4
+Monroe,Leg. Dist. 24 6,President,,DEM,Kamala D. Harris,198
+Monroe,Leg. Dist. 24 6,President,,REP,Donald J. Trump,36
+Monroe,Leg. Dist. 24 6,President,,CON,Donald J. Trump,9
+Monroe,Leg. Dist. 24 6,President,,WOR,Kamala D. Harris,24
+Monroe,Leg. Dist. 24 6,President,,,Write-in,1
+Monroe,Leg. Dist. 24 7,President,,DEM,Kamala D. Harris,237
+Monroe,Leg. Dist. 24 7,President,,REP,Donald J. Trump,50
+Monroe,Leg. Dist. 24 7,President,,CON,Donald J. Trump,11
+Monroe,Leg. Dist. 24 7,President,,WOR,Kamala D. Harris,25
+Monroe,Leg. Dist. 24 7,President,,,Write-in,5
+Monroe,Leg. Dist. 24 8,President,,DEM,Kamala D. Harris,206
+Monroe,Leg. Dist. 24 8,President,,REP,Donald J. Trump,38
+Monroe,Leg. Dist. 24 8,President,,CON,Donald J. Trump,8
+Monroe,Leg. Dist. 24 8,President,,WOR,Kamala D. Harris,19
+Monroe,Leg. Dist. 24 8,President,,,Write-in,9
+Monroe,Leg. Dist. 24 9,President,,DEM,Kamala D. Harris,150
+Monroe,Leg. Dist. 24 9,President,,REP,Donald J. Trump,37
+Monroe,Leg. Dist. 24 9,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 24 9,President,,WOR,Kamala D. Harris,12
+Monroe,Leg. Dist. 24 9,President,,,Write-in,6
+Monroe,Leg. Dist. 24 10,President,,DEM,Kamala D. Harris,127
+Monroe,Leg. Dist. 24 10,President,,REP,Donald J. Trump,39
+Monroe,Leg. Dist. 24 10,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 24 10,President,,WOR,Kamala D. Harris,8
+Monroe,Leg. Dist. 24 10,President,,,Write-in,1
+Monroe,Leg. Dist. 24 11,President,,DEM,Kamala D. Harris,84
+Monroe,Leg. Dist. 24 11,President,,REP,Donald J. Trump,24
+Monroe,Leg. Dist. 24 11,President,,WOR,Kamala D. Harris,4
+Monroe,Leg. Dist. 24 12,President,,DEM,Kamala D. Harris,274
+Monroe,Leg. Dist. 24 12,President,,REP,Donald J. Trump,50
+Monroe,Leg. Dist. 24 12,President,,CON,Donald J. Trump,6
+Monroe,Leg. Dist. 24 12,President,,WOR,Kamala D. Harris,54
+Monroe,Leg. Dist. 24 12,President,,,Write-in,22
+Monroe,Leg. Dist. 24 13,President,,DEM,Kamala D. Harris,375
+Monroe,Leg. Dist. 24 13,President,,REP,Donald J. Trump,48
+Monroe,Leg. Dist. 24 13,President,,CON,Donald J. Trump,4
+Monroe,Leg. Dist. 24 13,President,,WOR,Kamala D. Harris,77
+Monroe,Leg. Dist. 24 13,President,,,Write-in,17
+Monroe,Leg. Dist. 24 14,President,,DEM,Kamala D. Harris,184
+Monroe,Leg. Dist. 24 14,President,,REP,Donald J. Trump,20
+Monroe,Leg. Dist. 24 14,President,,CON,Donald J. Trump,6
+Monroe,Leg. Dist. 24 14,President,,WOR,Kamala D. Harris,39
+Monroe,Leg. Dist. 24 14,President,,,Write-in,14
+Monroe,Leg. Dist. 24 15,President,,DEM,Kamala D. Harris,198
+Monroe,Leg. Dist. 24 15,President,,REP,Donald J. Trump,25
+Monroe,Leg. Dist. 24 15,President,,CON,Donald J. Trump,6
+Monroe,Leg. Dist. 24 15,President,,WOR,Kamala D. Harris,47
+Monroe,Leg. Dist. 24 15,President,,,Write-in,4
+Monroe,Leg. Dist. 24 16,President,,DEM,Kamala D. Harris,82
+Monroe,Leg. Dist. 24 16,President,,REP,Donald J. Trump,11
+Monroe,Leg. Dist. 24 16,President,,CON,Donald J. Trump,1
+Monroe,Leg. Dist. 24 16,President,,WOR,Kamala D. Harris,15
+Monroe,Leg. Dist. 24 16,President,,,Write-in,7
+Monroe,Leg. Dist. 24 17,President,,DEM,Kamala D. Harris,171
+Monroe,Leg. Dist. 24 17,President,,REP,Donald J. Trump,20
+Monroe,Leg. Dist. 24 17,President,,CON,Donald J. Trump,6
+Monroe,Leg. Dist. 24 17,President,,WOR,Kamala D. Harris,28
+Monroe,Leg. Dist. 24 17,President,,,Write-in,13
+Monroe,Leg. Dist. 24 18,President,,DEM,Kamala D. Harris,109
+Monroe,Leg. Dist. 24 18,President,,REP,Donald J. Trump,24
+Monroe,Leg. Dist. 24 18,President,,CON,Donald J. Trump,1
+Monroe,Leg. Dist. 24 18,President,,WOR,Kamala D. Harris,23
+Monroe,Leg. Dist. 24 18,President,,,Write-in,3
+Monroe,Leg. Dist. 24 19,President,,DEM,Kamala D. Harris,136
+Monroe,Leg. Dist. 24 19,President,,REP,Donald J. Trump,23
+Monroe,Leg. Dist. 24 19,President,,CON,Donald J. Trump,3
+Monroe,Leg. Dist. 24 19,President,,WOR,Kamala D. Harris,12
+Monroe,Leg. Dist. 24 19,President,,,Write-in,5
+Monroe,Leg. Dist. 25 1,President,,DEM,Kamala D. Harris,396
+Monroe,Leg. Dist. 25 1,President,,REP,Donald J. Trump,49
+Monroe,Leg. Dist. 25 1,President,,CON,Donald J. Trump,7
+Monroe,Leg. Dist. 25 1,President,,WOR,Kamala D. Harris,20
+Monroe,Leg. Dist. 25 1,President,,,Write-in,6
+Monroe,Leg. Dist. 25 2,President,,DEM,Kamala D. Harris,235
+Monroe,Leg. Dist. 25 2,President,,REP,Donald J. Trump,16
+Monroe,Leg. Dist. 25 2,President,,CON,Donald J. Trump,2
+Monroe,Leg. Dist. 25 2,President,,WOR,Kamala D. Harris,18
+Monroe,Leg. Dist. 25 2,President,,,Write-in,3
+Monroe,Leg. Dist. 25 3,President,,DEM,Kamala D. Harris,403
+Monroe,Leg. Dist. 25 3,President,,REP,Donald J. Trump,47
+Monroe,Leg. Dist. 25 3,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 25 3,President,,WOR,Kamala D. Harris,22
+Monroe,Leg. Dist. 25 3,President,,,Write-in,6
+Monroe,Leg. Dist. 25 4,President,,DEM,Kamala D. Harris,137
+Monroe,Leg. Dist. 25 4,President,,REP,Donald J. Trump,18
+Monroe,Leg. Dist. 25 4,President,,CON,Donald J. Trump,3
+Monroe,Leg. Dist. 25 4,President,,WOR,Kamala D. Harris,7
+Monroe,Leg. Dist. 25 4,President,,,Write-in,5
+Monroe,Leg. Dist. 25 5,President,,DEM,Kamala D. Harris,569
+Monroe,Leg. Dist. 25 5,President,,REP,Donald J. Trump,57
+Monroe,Leg. Dist. 25 5,President,,CON,Donald J. Trump,8
+Monroe,Leg. Dist. 25 5,President,,WOR,Kamala D. Harris,28
+Monroe,Leg. Dist. 25 5,President,,,Write-in,2
+Monroe,Leg. Dist. 25 6,President,,DEM,Kamala D. Harris,124
+Monroe,Leg. Dist. 25 6,President,,REP,Donald J. Trump,21
+Monroe,Leg. Dist. 25 6,President,,CON,Donald J. Trump,4
+Monroe,Leg. Dist. 25 6,President,,WOR,Kamala D. Harris,9
+Monroe,Leg. Dist. 25 6,President,,,Write-in,6
+Monroe,Leg. Dist. 25 7,President,,DEM,Kamala D. Harris,288
+Monroe,Leg. Dist. 25 7,President,,REP,Donald J. Trump,25
+Monroe,Leg. Dist. 25 7,President,,CON,Donald J. Trump,6
+Monroe,Leg. Dist. 25 7,President,,WOR,Kamala D. Harris,12
+Monroe,Leg. Dist. 25 7,President,,,Write-in,1
+Monroe,Leg. Dist. 25 8,President,,DEM,Kamala D. Harris,444
+Monroe,Leg. Dist. 25 8,President,,REP,Donald J. Trump,34
+Monroe,Leg. Dist. 25 8,President,,CON,Donald J. Trump,8
+Monroe,Leg. Dist. 25 8,President,,WOR,Kamala D. Harris,15
+Monroe,Leg. Dist. 25 8,President,,,Write-in,4
+Monroe,Leg. Dist. 25 9,President,,DEM,Kamala D. Harris,109
+Monroe,Leg. Dist. 25 9,President,,REP,Donald J. Trump,7
+Monroe,Leg. Dist. 25 9,President,,CON,Donald J. Trump,1
+Monroe,Leg. Dist. 25 9,President,,WOR,Kamala D. Harris,4
+Monroe,Leg. Dist. 25 9,President,,,Write-in,3
+Monroe,Leg. Dist. 25 10,President,,DEM,Kamala D. Harris,416
+Monroe,Leg. Dist. 25 10,President,,REP,Donald J. Trump,53
+Monroe,Leg. Dist. 25 10,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 25 10,President,,WOR,Kamala D. Harris,25
+Monroe,Leg. Dist. 25 10,President,,,Write-in,9
+Monroe,Leg. Dist. 25 11,President,,DEM,Kamala D. Harris,446
+Monroe,Leg. Dist. 25 11,President,,REP,Donald J. Trump,37
+Monroe,Leg. Dist. 25 11,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 25 11,President,,WOR,Kamala D. Harris,17
+Monroe,Leg. Dist. 25 11,President,,,Write-in,4
+Monroe,Leg. Dist. 25 12,President,,DEM,Kamala D. Harris,84
+Monroe,Leg. Dist. 25 12,President,,REP,Donald J. Trump,11
+Monroe,Leg. Dist. 25 12,President,,CON,Donald J. Trump,1
+Monroe,Leg. Dist. 25 12,President,,WOR,Kamala D. Harris,6
+Monroe,Leg. Dist. 25 13,President,,DEM,Kamala D. Harris,504
+Monroe,Leg. Dist. 25 13,President,,REP,Donald J. Trump,52
+Monroe,Leg. Dist. 25 13,President,,CON,Donald J. Trump,7
+Monroe,Leg. Dist. 25 13,President,,WOR,Kamala D. Harris,17
+Monroe,Leg. Dist. 25 13,President,,,Write-in,4
+Monroe,Leg. Dist. 25 14,President,,DEM,Kamala D. Harris,11
+Monroe,Leg. Dist. 25 14,President,,REP,Donald J. Trump,2
+Monroe,Leg. Dist. 25 14,President,,WOR,Kamala D. Harris,1
+Monroe,Leg. Dist. 25 14,President,,,Write-in,1
+Monroe,Leg. Dist. 25 15,President,,DEM,Kamala D. Harris,201
+Monroe,Leg. Dist. 25 15,President,,REP,Donald J. Trump,17
+Monroe,Leg. Dist. 25 15,President,,WOR,Kamala D. Harris,10
+Monroe,Leg. Dist. 25 16,President,,DEM,Kamala D. Harris,197
+Monroe,Leg. Dist. 25 16,President,,REP,Donald J. Trump,33
+Monroe,Leg. Dist. 25 16,President,,CON,Donald J. Trump,6
+Monroe,Leg. Dist. 25 16,President,,WOR,Kamala D. Harris,8
+Monroe,Leg. Dist. 25 16,President,,,Write-in,3
+Monroe,Leg. Dist. 25 17,President,,DEM,Kamala D. Harris,325
+Monroe,Leg. Dist. 25 17,President,,REP,Donald J. Trump,64
+Monroe,Leg. Dist. 25 17,President,,CON,Donald J. Trump,10
+Monroe,Leg. Dist. 25 17,President,,WOR,Kamala D. Harris,35
+Monroe,Leg. Dist. 25 17,President,,,Write-in,8
+Monroe,Leg. Dist. 25 18,President,,DEM,Kamala D. Harris,5
+Monroe,Leg. Dist. 25 18,President,,REP,Donald J. Trump,3
+Monroe,Leg. Dist. 26 1,President,,DEM,Kamala D. Harris,354
+Monroe,Leg. Dist. 26 1,President,,REP,Donald J. Trump,197
+Monroe,Leg. Dist. 26 1,President,,CON,Donald J. Trump,32
+Monroe,Leg. Dist. 26 1,President,,WOR,Kamala D. Harris,16
+Monroe,Leg. Dist. 26 1,President,,,Write-in,6
+Monroe,Leg. Dist. 26 2,President,,DEM,Kamala D. Harris,468
+Monroe,Leg. Dist. 26 2,President,,REP,Donald J. Trump,347
+Monroe,Leg. Dist. 26 2,President,,CON,Donald J. Trump,46
+Monroe,Leg. Dist. 26 2,President,,WOR,Kamala D. Harris,29
+Monroe,Leg. Dist. 26 2,President,,,Write-in,8
+Monroe,Leg. Dist. 26 3,President,,DEM,Kamala D. Harris,579
+Monroe,Leg. Dist. 26 3,President,,REP,Donald J. Trump,240
+Monroe,Leg. Dist. 26 3,President,,CON,Donald J. Trump,33
+Monroe,Leg. Dist. 26 3,President,,WOR,Kamala D. Harris,36
+Monroe,Leg. Dist. 26 3,President,,,Write-in,4
+Monroe,Leg. Dist. 26 4,President,,DEM,Kamala D. Harris,350
+Monroe,Leg. Dist. 26 4,President,,REP,Donald J. Trump,207
+Monroe,Leg. Dist. 26 4,President,,CON,Donald J. Trump,32
+Monroe,Leg. Dist. 26 4,President,,WOR,Kamala D. Harris,23
+Monroe,Leg. Dist. 26 4,President,,,Write-in,6
+Monroe,Leg. Dist. 26 6,President,,DEM,Kamala D. Harris,307
+Monroe,Leg. Dist. 26 6,President,,REP,Donald J. Trump,140
+Monroe,Leg. Dist. 26 6,President,,CON,Donald J. Trump,22
+Monroe,Leg. Dist. 26 6,President,,WOR,Kamala D. Harris,19
+Monroe,Leg. Dist. 26 7,President,,DEM,Kamala D. Harris,290
+Monroe,Leg. Dist. 26 7,President,,REP,Donald J. Trump,181
+Monroe,Leg. Dist. 26 7,President,,CON,Donald J. Trump,31
+Monroe,Leg. Dist. 26 7,President,,WOR,Kamala D. Harris,28
+Monroe,Leg. Dist. 26 7,President,,,Write-in,7
+Monroe,Leg. Dist. 26 8,President,,DEM,Kamala D. Harris,187
+Monroe,Leg. Dist. 26 8,President,,REP,Donald J. Trump,87
+Monroe,Leg. Dist. 26 8,President,,CON,Donald J. Trump,15
+Monroe,Leg. Dist. 26 8,President,,WOR,Kamala D. Harris,12
+Monroe,Leg. Dist. 26 8,President,,,Write-in,3
+Monroe,Leg. Dist. 26 9,President,,DEM,Kamala D. Harris,276
+Monroe,Leg. Dist. 26 9,President,,REP,Donald J. Trump,77
+Monroe,Leg. Dist. 26 9,President,,CON,Donald J. Trump,15
+Monroe,Leg. Dist. 26 9,President,,WOR,Kamala D. Harris,17
+Monroe,Leg. Dist. 26 9,President,,,Write-in,2
+Monroe,Leg. Dist. 26 10,President,,DEM,Kamala D. Harris,451
+Monroe,Leg. Dist. 26 10,President,,REP,Donald J. Trump,282
+Monroe,Leg. Dist. 26 10,President,,CON,Donald J. Trump,51
+Monroe,Leg. Dist. 26 10,President,,WOR,Kamala D. Harris,35
+Monroe,Leg. Dist. 26 10,President,,,Write-in,4
+Monroe,Leg. Dist. 26 11,President,,DEM,Kamala D. Harris,312
+Monroe,Leg. Dist. 26 11,President,,REP,Donald J. Trump,123
+Monroe,Leg. Dist. 26 11,President,,CON,Donald J. Trump,13
+Monroe,Leg. Dist. 26 11,President,,WOR,Kamala D. Harris,34
+Monroe,Leg. Dist. 26 11,President,,,Write-in,3
+Monroe,Leg. Dist. 26 12,President,,DEM,Kamala D. Harris,190
+Monroe,Leg. Dist. 26 12,President,,REP,Donald J. Trump,131
+Monroe,Leg. Dist. 26 12,President,,CON,Donald J. Trump,21
+Monroe,Leg. Dist. 26 12,President,,WOR,Kamala D. Harris,14
+Monroe,Leg. Dist. 26 12,President,,,Write-in,3
+Monroe,Leg. Dist. 27 1,President,,DEM,Kamala D. Harris,667
+Monroe,Leg. Dist. 27 1,President,,REP,Donald J. Trump,81
+Monroe,Leg. Dist. 27 1,President,,CON,Donald J. Trump,17
+Monroe,Leg. Dist. 27 1,President,,WOR,Kamala D. Harris,42
+Monroe,Leg. Dist. 27 1,President,,,Write-in,11
+Monroe,Leg. Dist. 27 2,President,,DEM,Kamala D. Harris,359
+Monroe,Leg. Dist. 27 2,President,,REP,Donald J. Trump,47
+Monroe,Leg. Dist. 27 2,President,,CON,Donald J. Trump,12
+Monroe,Leg. Dist. 27 2,President,,WOR,Kamala D. Harris,14
+Monroe,Leg. Dist. 27 2,President,,,Write-in,8
+Monroe,Leg. Dist. 27 3,President,,DEM,Kamala D. Harris,460
+Monroe,Leg. Dist. 27 3,President,,REP,Donald J. Trump,54
+Monroe,Leg. Dist. 27 3,President,,CON,Donald J. Trump,17
+Monroe,Leg. Dist. 27 3,President,,WOR,Kamala D. Harris,40
+Monroe,Leg. Dist. 27 3,President,,,Write-in,10
+Monroe,Leg. Dist. 27 4,President,,DEM,Kamala D. Harris,581
+Monroe,Leg. Dist. 27 4,President,,REP,Donald J. Trump,40
+Monroe,Leg. Dist. 27 4,President,,CON,Donald J. Trump,6
+Monroe,Leg. Dist. 27 4,President,,WOR,Kamala D. Harris,38
+Monroe,Leg. Dist. 27 4,President,,,Write-in,10
+Monroe,Leg. Dist. 27 5,President,,DEM,Kamala D. Harris,948
+Monroe,Leg. Dist. 27 5,President,,REP,Donald J. Trump,71
+Monroe,Leg. Dist. 27 5,President,,CON,Donald J. Trump,17
+Monroe,Leg. Dist. 27 5,President,,WOR,Kamala D. Harris,84
+Monroe,Leg. Dist. 27 5,President,,,Write-in,9
+Monroe,Leg. Dist. 27 6,President,,DEM,Kamala D. Harris,285
+Monroe,Leg. Dist. 27 6,President,,REP,Donald J. Trump,27
+Monroe,Leg. Dist. 27 6,President,,CON,Donald J. Trump,3
+Monroe,Leg. Dist. 27 6,President,,WOR,Kamala D. Harris,6
+Monroe,Leg. Dist. 27 6,President,,,Write-in,2
+Monroe,Leg. Dist. 27 7,President,,DEM,Kamala D. Harris,287
+Monroe,Leg. Dist. 27 7,President,,REP,Donald J. Trump,45
+Monroe,Leg. Dist. 27 7,President,,CON,Donald J. Trump,2
+Monroe,Leg. Dist. 27 7,President,,WOR,Kamala D. Harris,12
+Monroe,Leg. Dist. 27 7,President,,,Write-in,2
+Monroe,Leg. Dist. 27 8,President,,DEM,Kamala D. Harris,328
+Monroe,Leg. Dist. 27 8,President,,REP,Donald J. Trump,125
+Monroe,Leg. Dist. 27 8,President,,CON,Donald J. Trump,27
+Monroe,Leg. Dist. 27 8,President,,WOR,Kamala D. Harris,15
+Monroe,Leg. Dist. 27 8,President,,,Write-in,1
+Monroe,Leg. Dist. 27 9,President,,DEM,Kamala D. Harris,871
+Monroe,Leg. Dist. 27 9,President,,REP,Donald J. Trump,96
+Monroe,Leg. Dist. 27 9,President,,CON,Donald J. Trump,18
+Monroe,Leg. Dist. 27 9,President,,WOR,Kamala D. Harris,53
+Monroe,Leg. Dist. 27 9,President,,,Write-in,5
+Monroe,Leg. Dist. 27 11,President,,DEM,Kamala D. Harris,682
+Monroe,Leg. Dist. 27 11,President,,REP,Donald J. Trump,74
+Monroe,Leg. Dist. 27 11,President,,CON,Donald J. Trump,21
+Monroe,Leg. Dist. 27 11,President,,WOR,Kamala D. Harris,43
+Monroe,Leg. Dist. 27 11,President,,,Write-in,12
+Monroe,Leg. Dist. 28 1,President,,DEM,Kamala D. Harris,127
+Monroe,Leg. Dist. 28 1,President,,REP,Donald J. Trump,43
+Monroe,Leg. Dist. 28 1,President,,CON,Donald J. Trump,12
+Monroe,Leg. Dist. 28 1,President,,WOR,Kamala D. Harris,17
+Monroe,Leg. Dist. 28 1,President,,,Write-in,1
+Monroe,Leg. Dist. 28 2,President,,DEM,Kamala D. Harris,216
+Monroe,Leg. Dist. 28 2,President,,REP,Donald J. Trump,44
+Monroe,Leg. Dist. 28 2,President,,CON,Donald J. Trump,7
+Monroe,Leg. Dist. 28 2,President,,WOR,Kamala D. Harris,9
+Monroe,Leg. Dist. 28 3,President,,DEM,Kamala D. Harris,509
+Monroe,Leg. Dist. 28 3,President,,REP,Donald J. Trump,174
+Monroe,Leg. Dist. 28 3,President,,CON,Donald J. Trump,21
+Monroe,Leg. Dist. 28 3,President,,WOR,Kamala D. Harris,27
+Monroe,Leg. Dist. 28 3,President,,,Write-in,1
+Monroe,Leg. Dist. 28 4,President,,DEM,Kamala D. Harris,305
+Monroe,Leg. Dist. 28 4,President,,REP,Donald J. Trump,100
+Monroe,Leg. Dist. 28 4,President,,CON,Donald J. Trump,17
+Monroe,Leg. Dist. 28 4,President,,WOR,Kamala D. Harris,20
+Monroe,Leg. Dist. 28 4,President,,,Write-in,2
+Monroe,Leg. Dist. 28 5,President,,DEM,Kamala D. Harris,326
+Monroe,Leg. Dist. 28 5,President,,REP,Donald J. Trump,125
+Monroe,Leg. Dist. 28 5,President,,CON,Donald J. Trump,11
+Monroe,Leg. Dist. 28 5,President,,WOR,Kamala D. Harris,18
+Monroe,Leg. Dist. 28 5,President,,,Write-in,2
+Monroe,Leg. Dist. 28 6,President,,DEM,Kamala D. Harris,189
+Monroe,Leg. Dist. 28 6,President,,REP,Donald J. Trump,39
+Monroe,Leg. Dist. 28 6,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 28 6,President,,WOR,Kamala D. Harris,8
+Monroe,Leg. Dist. 28 6,President,,,Write-in,1
+Monroe,Leg. Dist. 28 7,President,,DEM,Kamala D. Harris,79
+Monroe,Leg. Dist. 28 7,President,,REP,Donald J. Trump,17
+Monroe,Leg. Dist. 28 7,President,,CON,Donald J. Trump,2
+Monroe,Leg. Dist. 28 7,President,,WOR,Kamala D. Harris,3
+Monroe,Leg. Dist. 28 8,President,,DEM,Kamala D. Harris,153
+Monroe,Leg. Dist. 28 8,President,,REP,Donald J. Trump,48
+Monroe,Leg. Dist. 28 8,President,,CON,Donald J. Trump,4
+Monroe,Leg. Dist. 28 8,President,,WOR,Kamala D. Harris,7
+Monroe,Leg. Dist. 28 8,President,,,Write-in,1
+Monroe,Leg. Dist. 28 9,President,,DEM,Kamala D. Harris,230
+Monroe,Leg. Dist. 28 9,President,,REP,Donald J. Trump,58
+Monroe,Leg. Dist. 28 9,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 28 9,President,,WOR,Kamala D. Harris,8
+Monroe,Leg. Dist. 28 9,President,,,Write-in,1
+Monroe,Leg. Dist. 28 10,President,,DEM,Kamala D. Harris,110
+Monroe,Leg. Dist. 28 10,President,,REP,Donald J. Trump,17
+Monroe,Leg. Dist. 28 10,President,,CON,Donald J. Trump,4
+Monroe,Leg. Dist. 28 10,President,,WOR,Kamala D. Harris,5
+Monroe,Leg. Dist. 28 10,President,,,Write-in,5
+Monroe,Leg. Dist. 28 11,President,,DEM,Kamala D. Harris,228
+Monroe,Leg. Dist. 28 11,President,,REP,Donald J. Trump,51
+Monroe,Leg. Dist. 28 11,President,,CON,Donald J. Trump,12
+Monroe,Leg. Dist. 28 11,President,,WOR,Kamala D. Harris,12
+Monroe,Leg. Dist. 28 12,President,,DEM,Kamala D. Harris,174
+Monroe,Leg. Dist. 28 12,President,,REP,Donald J. Trump,51
+Monroe,Leg. Dist. 28 12,President,,CON,Donald J. Trump,3
+Monroe,Leg. Dist. 28 12,President,,WOR,Kamala D. Harris,8
+Monroe,Leg. Dist. 28 13,President,,DEM,Kamala D. Harris,528
+Monroe,Leg. Dist. 28 13,President,,REP,Donald J. Trump,47
+Monroe,Leg. Dist. 28 13,President,,CON,Donald J. Trump,3
+Monroe,Leg. Dist. 28 13,President,,WOR,Kamala D. Harris,28
+Monroe,Leg. Dist. 28 13,President,,,Write-in,3
+Monroe,Leg. Dist. 28 14,President,,DEM,Kamala D. Harris,248
+Monroe,Leg. Dist. 28 14,President,,REP,Donald J. Trump,99
+Monroe,Leg. Dist. 28 14,President,,CON,Donald J. Trump,18
+Monroe,Leg. Dist. 28 14,President,,WOR,Kamala D. Harris,16
+Monroe,Leg. Dist. 28 14,President,,,Write-in,4
+Monroe,Leg. Dist. 28 15,President,,DEM,Kamala D. Harris,100
+Monroe,Leg. Dist. 28 15,President,,REP,Donald J. Trump,44
+Monroe,Leg. Dist. 28 15,President,,CON,Donald J. Trump,10
+Monroe,Leg. Dist. 28 15,President,,WOR,Kamala D. Harris,8
+Monroe,Leg. Dist. 28 15,President,,,Write-in,3
+Monroe,Leg. Dist. 29 1,President,,DEM,Kamala D. Harris,379
+Monroe,Leg. Dist. 29 1,President,,REP,Donald J. Trump,131
+Monroe,Leg. Dist. 29 1,President,,CON,Donald J. Trump,17
+Monroe,Leg. Dist. 29 1,President,,WOR,Kamala D. Harris,15
+Monroe,Leg. Dist. 29 1,President,,,Write-in,3
+Monroe,Leg. Dist. 29 2,President,,DEM,Kamala D. Harris,260
+Monroe,Leg. Dist. 29 2,President,,REP,Donald J. Trump,66
+Monroe,Leg. Dist. 29 2,President,,CON,Donald J. Trump,6
+Monroe,Leg. Dist. 29 2,President,,WOR,Kamala D. Harris,13
+Monroe,Leg. Dist. 29 2,President,,,Write-in,5
+Monroe,Leg. Dist. 29 3,President,,DEM,Kamala D. Harris,196
+Monroe,Leg. Dist. 29 3,President,,REP,Donald J. Trump,50
+Monroe,Leg. Dist. 29 3,President,,CON,Donald J. Trump,10
+Monroe,Leg. Dist. 29 3,President,,WOR,Kamala D. Harris,18
+Monroe,Leg. Dist. 29 3,President,,,Write-in,2
+Monroe,Leg. Dist. 29 4,President,,DEM,Kamala D. Harris,281
+Monroe,Leg. Dist. 29 4,President,,REP,Donald J. Trump,62
+Monroe,Leg. Dist. 29 4,President,,CON,Donald J. Trump,14
+Monroe,Leg. Dist. 29 4,President,,WOR,Kamala D. Harris,21
+Monroe,Leg. Dist. 29 4,President,,,Write-in,11
+Monroe,Leg. Dist. 29 5,President,,DEM,Kamala D. Harris,249
+Monroe,Leg. Dist. 29 5,President,,REP,Donald J. Trump,69
+Monroe,Leg. Dist. 29 5,President,,CON,Donald J. Trump,8
+Monroe,Leg. Dist. 29 5,President,,WOR,Kamala D. Harris,18
+Monroe,Leg. Dist. 29 5,President,,,Write-in,2
+Monroe,Leg. Dist. 29 6,President,,DEM,Kamala D. Harris,181
+Monroe,Leg. Dist. 29 6,President,,REP,Donald J. Trump,63
+Monroe,Leg. Dist. 29 6,President,,CON,Donald J. Trump,7
+Monroe,Leg. Dist. 29 6,President,,WOR,Kamala D. Harris,9
+Monroe,Leg. Dist. 29 6,President,,,Write-in,2
+Monroe,Leg. Dist. 29 7,President,,DEM,Kamala D. Harris,205
+Monroe,Leg. Dist. 29 7,President,,REP,Donald J. Trump,24
+Monroe,Leg. Dist. 29 7,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 29 7,President,,WOR,Kamala D. Harris,5
+Monroe,Leg. Dist. 29 8,President,,DEM,Kamala D. Harris,210
+Monroe,Leg. Dist. 29 8,President,,REP,Donald J. Trump,37
+Monroe,Leg. Dist. 29 8,President,,CON,Donald J. Trump,9
+Monroe,Leg. Dist. 29 8,President,,WOR,Kamala D. Harris,10
+Monroe,Leg. Dist. 29 9,President,,DEM,Kamala D. Harris,212
+Monroe,Leg. Dist. 29 9,President,,REP,Donald J. Trump,36
+Monroe,Leg. Dist. 29 9,President,,CON,Donald J. Trump,7
+Monroe,Leg. Dist. 29 9,President,,WOR,Kamala D. Harris,10
+Monroe,Leg. Dist. 29 9,President,,,Write-in,6
+Monroe,Leg. Dist. 29 10,President,,DEM,Kamala D. Harris,205
+Monroe,Leg. Dist. 29 10,President,,REP,Donald J. Trump,52
+Monroe,Leg. Dist. 29 10,President,,CON,Donald J. Trump,8
+Monroe,Leg. Dist. 29 10,President,,WOR,Kamala D. Harris,13
+Monroe,Leg. Dist. 29 10,President,,,Write-in,1
+Monroe,Leg. Dist. 29 11,President,,DEM,Kamala D. Harris,307
+Monroe,Leg. Dist. 29 11,President,,REP,Donald J. Trump,61
+Monroe,Leg. Dist. 29 11,President,,CON,Donald J. Trump,7
+Monroe,Leg. Dist. 29 11,President,,WOR,Kamala D. Harris,13
+Monroe,Leg. Dist. 29 11,President,,,Write-in,1
+Monroe,Leg. Dist. 29 12,President,,DEM,Kamala D. Harris,232
+Monroe,Leg. Dist. 29 12,President,,REP,Donald J. Trump,61
+Monroe,Leg. Dist. 29 12,President,,CON,Donald J. Trump,13
+Monroe,Leg. Dist. 29 12,President,,WOR,Kamala D. Harris,9
+Monroe,Leg. Dist. 29 12,President,,,Write-in,2
+Monroe,Leg. Dist. 29 13,President,,DEM,Kamala D. Harris,201
+Monroe,Leg. Dist. 29 13,President,,REP,Donald J. Trump,44
+Monroe,Leg. Dist. 29 13,President,,CON,Donald J. Trump,5
+Monroe,Leg. Dist. 29 13,President,,WOR,Kamala D. Harris,15
+Monroe,Leg. Dist. 29 14,President,,DEM,Kamala D. Harris,261
+Monroe,Leg. Dist. 29 14,President,,REP,Donald J. Trump,70
+Monroe,Leg. Dist. 29 14,President,,CON,Donald J. Trump,10
+Monroe,Leg. Dist. 29 14,President,,WOR,Kamala D. Harris,15
+Monroe,Leg. Dist. 29 14,President,,,Write-in,4
+Monroe,Leg. Dist. 29 15,President,,DEM,Kamala D. Harris,281
+Monroe,Leg. Dist. 29 15,President,,REP,Donald J. Trump,47
+Monroe,Leg. Dist. 29 15,President,,CON,Donald J. Trump,10
+Monroe,Leg. Dist. 29 15,President,,WOR,Kamala D. Harris,8
+Monroe,Leg. Dist. 29 15,President,,,Write-in,3
+Monroe,Leg. Dist. 29 16,President,,DEM,Kamala D. Harris,385
+Monroe,Leg. Dist. 29 16,President,,REP,Donald J. Trump,99
+Monroe,Leg. Dist. 29 16,President,,CON,Donald J. Trump,10
+Monroe,Leg. Dist. 29 16,President,,WOR,Kamala D. Harris,18
+Monroe,Leg. Dist. 29 16,President,,,Write-in,3
+Monroe,Leg. Dist. 29 17,President,,DEM,Kamala D. Harris,203
+Monroe,Leg. Dist. 29 17,President,,REP,Donald J. Trump,53
+Monroe,Leg. Dist. 29 17,President,,CON,Donald J. Trump,11
+Monroe,Leg. Dist. 29 17,President,,WOR,Kamala D. Harris,18
+Monroe,Leg. Dist. 29 17,President,,,Write-in,7
+Monroe,Leg. Dist. 29 18,President,,DEM,Kamala D. Harris,28
+Monroe,Leg. Dist. 29 18,President,,REP,Donald J. Trump,5
+Monroe,Leg. Dist. 29 18,President,,CON,Donald J. Trump,2
+Monroe,Leg. Dist. 29 19,President,,DEM,Kamala D. Harris,69
+Monroe,Leg. Dist. 29 19,President,,REP,Donald J. Trump,22
+Monroe,Leg. Dist. 29 19,President,,WOR,Kamala D. Harris,4
+Monroe,Leg. Dist. 29 20,President,,DEM,Kamala D. Harris,232
+Monroe,Leg. Dist. 29 20,President,,REP,Donald J. Trump,54
+Monroe,Leg. Dist. 29 20,President,,CON,Donald J. Trump,3
+Monroe,Leg. Dist. 29 20,President,,WOR,Kamala D. Harris,6
+Monroe,Leg. Dist. 29 20,President,,,Write-in,1
+Monroe,Leg. Dist. 29 21,President,,DEM,Kamala D. Harris,32
+Monroe,Leg. Dist. 29 21,President,,REP,Donald J. Trump,13
+Monroe,Leg. Dist. 29 21,President,,CON,Donald J. Trump,1
+Monroe,Brighton 1,President,,DEM,Kamala D. Harris,403
+Monroe,Brighton 1,President,,REP,Donald J. Trump,80
+Monroe,Brighton 1,President,,CON,Donald J. Trump,14
+Monroe,Brighton 1,President,,WOR,Kamala D. Harris,27
+Monroe,Brighton 1,President,,,Write-in,8
+Monroe,Brighton 2,President,,DEM,Kamala D. Harris,184
+Monroe,Brighton 2,President,,REP,Donald J. Trump,101
+Monroe,Brighton 2,President,,CON,Donald J. Trump,20
+Monroe,Brighton 2,President,,WOR,Kamala D. Harris,13
+Monroe,Brighton 2,President,,,Write-in,4
+Monroe,Brighton 3,President,,DEM,Kamala D. Harris,107
+Monroe,Brighton 3,President,,REP,Donald J. Trump,30
+Monroe,Brighton 3,President,,CON,Donald J. Trump,6
+Monroe,Brighton 3,President,,WOR,Kamala D. Harris,11
+Monroe,Brighton 3,President,,,Write-in,2
+Monroe,Brighton 4,President,,DEM,Kamala D. Harris,347
+Monroe,Brighton 4,President,,REP,Donald J. Trump,84
+Monroe,Brighton 4,President,,CON,Donald J. Trump,15
+Monroe,Brighton 4,President,,WOR,Kamala D. Harris,32
+Monroe,Brighton 4,President,,,Write-in,6
+Monroe,Brighton 5,President,,DEM,Kamala D. Harris,520
+Monroe,Brighton 5,President,,REP,Donald J. Trump,133
+Monroe,Brighton 5,President,,CON,Donald J. Trump,26
+Monroe,Brighton 5,President,,WOR,Kamala D. Harris,80
+Monroe,Brighton 5,President,,,Write-in,17
+Monroe,Brighton 6,President,,DEM,Kamala D. Harris,409
+Monroe,Brighton 6,President,,REP,Donald J. Trump,149
+Monroe,Brighton 6,President,,CON,Donald J. Trump,15
+Monroe,Brighton 6,President,,WOR,Kamala D. Harris,28
+Monroe,Brighton 6,President,,,Write-in,4
+Monroe,Brighton 7,President,,DEM,Kamala D. Harris,578
+Monroe,Brighton 7,President,,REP,Donald J. Trump,198
+Monroe,Brighton 7,President,,CON,Donald J. Trump,29
+Monroe,Brighton 7,President,,WOR,Kamala D. Harris,40
+Monroe,Brighton 7,President,,,Write-in,14
+Monroe,Brighton 8,President,,DEM,Kamala D. Harris,275
+Monroe,Brighton 8,President,,REP,Donald J. Trump,136
+Monroe,Brighton 8,President,,CON,Donald J. Trump,15
+Monroe,Brighton 8,President,,WOR,Kamala D. Harris,11
+Monroe,Brighton 8,President,,,Write-in,8
+Monroe,Brighton 9,President,,DEM,Kamala D. Harris,377
+Monroe,Brighton 9,President,,REP,Donald J. Trump,109
+Monroe,Brighton 9,President,,CON,Donald J. Trump,23
+Monroe,Brighton 9,President,,WOR,Kamala D. Harris,39
+Monroe,Brighton 9,President,,,Write-in,11
+Monroe,Brighton 10,President,,DEM,Kamala D. Harris,376
+Monroe,Brighton 10,President,,REP,Donald J. Trump,81
+Monroe,Brighton 10,President,,CON,Donald J. Trump,20
+Monroe,Brighton 10,President,,WOR,Kamala D. Harris,23
+Monroe,Brighton 10,President,,,Write-in,6
+Monroe,Brighton 11,President,,DEM,Kamala D. Harris,354
+Monroe,Brighton 11,President,,REP,Donald J. Trump,104
+Monroe,Brighton 11,President,,CON,Donald J. Trump,19
+Monroe,Brighton 11,President,,WOR,Kamala D. Harris,36
+Monroe,Brighton 11,President,,,Write-in,10
+Monroe,Brighton 12,President,,DEM,Kamala D. Harris,453
+Monroe,Brighton 12,President,,REP,Donald J. Trump,82
+Monroe,Brighton 12,President,,CON,Donald J. Trump,14
+Monroe,Brighton 12,President,,WOR,Kamala D. Harris,35
+Monroe,Brighton 12,President,,,Write-in,9
+Monroe,Brighton 13,President,,DEM,Kamala D. Harris,556
+Monroe,Brighton 13,President,,REP,Donald J. Trump,114
+Monroe,Brighton 13,President,,CON,Donald J. Trump,15
+Monroe,Brighton 13,President,,WOR,Kamala D. Harris,39
+Monroe,Brighton 13,President,,,Write-in,10
+Monroe,Brighton 14,President,,DEM,Kamala D. Harris,292
+Monroe,Brighton 14,President,,REP,Donald J. Trump,73
+Monroe,Brighton 14,President,,CON,Donald J. Trump,7
+Monroe,Brighton 14,President,,WOR,Kamala D. Harris,37
+Monroe,Brighton 14,President,,,Write-in,5
+Monroe,Brighton 15,President,,DEM,Kamala D. Harris,276
+Monroe,Brighton 15,President,,REP,Donald J. Trump,75
+Monroe,Brighton 15,President,,CON,Donald J. Trump,16
+Monroe,Brighton 15,President,,WOR,Kamala D. Harris,16
+Monroe,Brighton 15,President,,,Write-in,7
+Monroe,Brighton 16,President,,DEM,Kamala D. Harris,340
+Monroe,Brighton 16,President,,REP,Donald J. Trump,164
+Monroe,Brighton 16,President,,CON,Donald J. Trump,17
+Monroe,Brighton 16,President,,WOR,Kamala D. Harris,7
+Monroe,Brighton 16,President,,,Write-in,7
+Monroe,Brighton 17,President,,DEM,Kamala D. Harris,388
+Monroe,Brighton 17,President,,REP,Donald J. Trump,92
+Monroe,Brighton 17,President,,CON,Donald J. Trump,6
+Monroe,Brighton 17,President,,WOR,Kamala D. Harris,11
+Monroe,Brighton 17,President,,,Write-in,7
+Monroe,Brighton 18,President,,DEM,Kamala D. Harris,339
+Monroe,Brighton 18,President,,REP,Donald J. Trump,67
+Monroe,Brighton 18,President,,CON,Donald J. Trump,4
+Monroe,Brighton 18,President,,WOR,Kamala D. Harris,23
+Monroe,Brighton 18,President,,,Write-in,8
+Monroe,Brighton 19,President,,DEM,Kamala D. Harris,442
+Monroe,Brighton 19,President,,REP,Donald J. Trump,115
+Monroe,Brighton 19,President,,CON,Donald J. Trump,19
+Monroe,Brighton 19,President,,WOR,Kamala D. Harris,30
+Monroe,Brighton 19,President,,,Write-in,6
+Monroe,Brighton 20,President,,DEM,Kamala D. Harris,281
+Monroe,Brighton 20,President,,REP,Donald J. Trump,74
+Monroe,Brighton 20,President,,CON,Donald J. Trump,14
+Monroe,Brighton 20,President,,WOR,Kamala D. Harris,31
+Monroe,Brighton 20,President,,,Write-in,5
+Monroe,Brighton 21,President,,DEM,Kamala D. Harris,265
+Monroe,Brighton 21,President,,REP,Donald J. Trump,68
+Monroe,Brighton 21,President,,CON,Donald J. Trump,7
+Monroe,Brighton 21,President,,WOR,Kamala D. Harris,27
+Monroe,Brighton 21,President,,,Write-in,7
+Monroe,Brighton 22,President,,DEM,Kamala D. Harris,328
+Monroe,Brighton 22,President,,REP,Donald J. Trump,84
+Monroe,Brighton 22,President,,CON,Donald J. Trump,16
+Monroe,Brighton 22,President,,WOR,Kamala D. Harris,13
+Monroe,Brighton 22,President,,,Write-in,14
+Monroe,Brighton 23,President,,DEM,Kamala D. Harris,271
+Monroe,Brighton 23,President,,REP,Donald J. Trump,60
+Monroe,Brighton 23,President,,CON,Donald J. Trump,11
+Monroe,Brighton 23,President,,WOR,Kamala D. Harris,15
+Monroe,Brighton 23,President,,,Write-in,9
+Monroe,Brighton 24,President,,DEM,Kamala D. Harris,343
+Monroe,Brighton 24,President,,REP,Donald J. Trump,112
+Monroe,Brighton 24,President,,CON,Donald J. Trump,18
+Monroe,Brighton 24,President,,WOR,Kamala D. Harris,13
+Monroe,Brighton 24,President,,,Write-in,6
+Monroe,Brighton 25,President,,DEM,Kamala D. Harris,585
+Monroe,Brighton 25,President,,REP,Donald J. Trump,132
+Monroe,Brighton 25,President,,CON,Donald J. Trump,24
+Monroe,Brighton 25,President,,WOR,Kamala D. Harris,67
+Monroe,Brighton 25,President,,,Write-in,7
+Monroe,Brighton 26,President,,DEM,Kamala D. Harris,344
+Monroe,Brighton 26,President,,REP,Donald J. Trump,175
+Monroe,Brighton 26,President,,CON,Donald J. Trump,21
+Monroe,Brighton 26,President,,WOR,Kamala D. Harris,27
+Monroe,Brighton 26,President,,,Write-in,9
+Monroe,Brighton 27,President,,DEM,Kamala D. Harris,259
+Monroe,Brighton 27,President,,REP,Donald J. Trump,81
+Monroe,Brighton 27,President,,CON,Donald J. Trump,13
+Monroe,Brighton 27,President,,WOR,Kamala D. Harris,20
+Monroe,Brighton 27,President,,,Write-in,10
+Monroe,Brighton 28,President,,DEM,Kamala D. Harris,434
+Monroe,Brighton 28,President,,REP,Donald J. Trump,106
+Monroe,Brighton 28,President,,CON,Donald J. Trump,15
+Monroe,Brighton 28,President,,WOR,Kamala D. Harris,42
+Monroe,Brighton 28,President,,,Write-in,9
+Monroe,Brighton 29,President,,DEM,Kamala D. Harris,176
+Monroe,Brighton 29,President,,REP,Donald J. Trump,100
+Monroe,Brighton 29,President,,CON,Donald J. Trump,5
+Monroe,Brighton 29,President,,WOR,Kamala D. Harris,7
+Monroe,Brighton 29,President,,,Write-in,4
+Monroe,Brighton 30,President,,DEM,Kamala D. Harris,586
+Monroe,Brighton 30,President,,REP,Donald J. Trump,128
+Monroe,Brighton 30,President,,CON,Donald J. Trump,11
+Monroe,Brighton 30,President,,WOR,Kamala D. Harris,34
+Monroe,Brighton 30,President,,,Write-in,6
+Monroe,Brighton 31,President,,DEM,Kamala D. Harris,526
+Monroe,Brighton 31,President,,REP,Donald J. Trump,145
+Monroe,Brighton 31,President,,CON,Donald J. Trump,11
+Monroe,Brighton 31,President,,WOR,Kamala D. Harris,39
+Monroe,Brighton 31,President,,,Write-in,27
+Monroe,Brighton 32,President,,DEM,Kamala D. Harris,342
+Monroe,Brighton 32,President,,REP,Donald J. Trump,85
+Monroe,Brighton 32,President,,CON,Donald J. Trump,14
+Monroe,Brighton 32,President,,WOR,Kamala D. Harris,30
+Monroe,Brighton 32,President,,,Write-in,13
+Monroe,Brighton 33,President,,DEM,Kamala D. Harris,351
+Monroe,Brighton 33,President,,REP,Donald J. Trump,114
+Monroe,Brighton 33,President,,CON,Donald J. Trump,13
+Monroe,Brighton 33,President,,WOR,Kamala D. Harris,25
+Monroe,Brighton 33,President,,,Write-in,13
+Monroe,Brighton 34,President,,DEM,Kamala D. Harris,357
+Monroe,Brighton 34,President,,REP,Donald J. Trump,121
+Monroe,Brighton 34,President,,CON,Donald J. Trump,13
+Monroe,Brighton 34,President,,WOR,Kamala D. Harris,26
+Monroe,Brighton 34,President,,,Write-in,7
+Monroe,Brighton 35,President,,DEM,Kamala D. Harris,271
+Monroe,Brighton 35,President,,REP,Donald J. Trump,116
+Monroe,Brighton 35,President,,CON,Donald J. Trump,16
+Monroe,Brighton 35,President,,WOR,Kamala D. Harris,15
+Monroe,Brighton 35,President,,,Write-in,13
+Monroe,Brighton 36,President,,DEM,Kamala D. Harris,227
+Monroe,Brighton 36,President,,REP,Donald J. Trump,84
+Monroe,Brighton 36,President,,CON,Donald J. Trump,6
+Monroe,Brighton 36,President,,WOR,Kamala D. Harris,21
+Monroe,Brighton 36,President,,,Write-in,6
+Monroe,Brighton 37,President,,DEM,Kamala D. Harris,432
+Monroe,Brighton 37,President,,REP,Donald J. Trump,123
+Monroe,Brighton 37,President,,CON,Donald J. Trump,20
+Monroe,Brighton 37,President,,WOR,Kamala D. Harris,31
+Monroe,Brighton 37,President,,,Write-in,6
+Monroe,Brighton 38,President,,DEM,Kamala D. Harris,343
+Monroe,Brighton 38,President,,REP,Donald J. Trump,111
+Monroe,Brighton 38,President,,CON,Donald J. Trump,30
+Monroe,Brighton 38,President,,WOR,Kamala D. Harris,14
+Monroe,Brighton 38,President,,,Write-in,6
+Monroe,Chili 1,President,,DEM,Kamala D. Harris,532
+Monroe,Chili 1,President,,REP,Donald J. Trump,423
+Monroe,Chili 1,President,,CON,Donald J. Trump,84
+Monroe,Chili 1,President,,WOR,Kamala D. Harris,43
+Monroe,Chili 1,President,,,Write-in,11
+Monroe,Chili 2,President,,DEM,Kamala D. Harris,183
+Monroe,Chili 2,President,,REP,Donald J. Trump,305
+Monroe,Chili 2,President,,CON,Donald J. Trump,48
+Monroe,Chili 2,President,,WOR,Kamala D. Harris,14
+Monroe,Chili 2,President,,,Write-in,7
+Monroe,Chili 3,President,,DEM,Kamala D. Harris,213
+Monroe,Chili 3,President,,REP,Donald J. Trump,211
+Monroe,Chili 3,President,,CON,Donald J. Trump,36
+Monroe,Chili 3,President,,WOR,Kamala D. Harris,21
+Monroe,Chili 3,President,,,Write-in,3
+Monroe,Chili 4,President,,DEM,Kamala D. Harris,320
+Monroe,Chili 4,President,,REP,Donald J. Trump,368
+Monroe,Chili 4,President,,CON,Donald J. Trump,46
+Monroe,Chili 4,President,,WOR,Kamala D. Harris,24
+Monroe,Chili 4,President,,,Write-in,2
+Monroe,Chili 5,President,,DEM,Kamala D. Harris,592
+Monroe,Chili 5,President,,REP,Donald J. Trump,527
+Monroe,Chili 5,President,,CON,Donald J. Trump,95
+Monroe,Chili 5,President,,WOR,Kamala D. Harris,35
+Monroe,Chili 5,President,,,Write-in,19
+Monroe,Chili 6,President,,DEM,Kamala D. Harris,203
+Monroe,Chili 6,President,,REP,Donald J. Trump,146
+Monroe,Chili 6,President,,CON,Donald J. Trump,23
+Monroe,Chili 6,President,,WOR,Kamala D. Harris,6
+Monroe,Chili 6,President,,,Write-in,1
+Monroe,Chili 7,President,,DEM,Kamala D. Harris,165
+Monroe,Chili 7,President,,REP,Donald J. Trump,117
+Monroe,Chili 7,President,,CON,Donald J. Trump,17
+Monroe,Chili 7,President,,WOR,Kamala D. Harris,10
+Monroe,Chili 7,President,,,Write-in,1
+Monroe,Chili 8,President,,DEM,Kamala D. Harris,309
+Monroe,Chili 8,President,,REP,Donald J. Trump,341
+Monroe,Chili 8,President,,CON,Donald J. Trump,65
+Monroe,Chili 8,President,,WOR,Kamala D. Harris,19
+Monroe,Chili 8,President,,,Write-in,9
+Monroe,Chili 9,President,,DEM,Kamala D. Harris,434
+Monroe,Chili 9,President,,REP,Donald J. Trump,362
+Monroe,Chili 9,President,,CON,Donald J. Trump,34
+Monroe,Chili 9,President,,WOR,Kamala D. Harris,25
+Monroe,Chili 9,President,,,Write-in,9
+Monroe,Chili 10,President,,DEM,Kamala D. Harris,231
+Monroe,Chili 10,President,,REP,Donald J. Trump,281
+Monroe,Chili 10,President,,CON,Donald J. Trump,60
+Monroe,Chili 10,President,,WOR,Kamala D. Harris,16
+Monroe,Chili 10,President,,,Write-in,8
+Monroe,Chili 11,President,,DEM,Kamala D. Harris,227
+Monroe,Chili 11,President,,REP,Donald J. Trump,220
+Monroe,Chili 11,President,,CON,Donald J. Trump,36
+Monroe,Chili 11,President,,WOR,Kamala D. Harris,16
+Monroe,Chili 11,President,,,Write-in,10
+Monroe,Chili 12,President,,DEM,Kamala D. Harris,215
+Monroe,Chili 12,President,,REP,Donald J. Trump,171
+Monroe,Chili 12,President,,CON,Donald J. Trump,27
+Monroe,Chili 12,President,,WOR,Kamala D. Harris,14
+Monroe,Chili 12,President,,,Write-in,3
+Monroe,Chili 13,President,,DEM,Kamala D. Harris,307
+Monroe,Chili 13,President,,REP,Donald J. Trump,345
+Monroe,Chili 13,President,,CON,Donald J. Trump,47
+Monroe,Chili 13,President,,WOR,Kamala D. Harris,12
+Monroe,Chili 13,President,,,Write-in,9
+Monroe,Chili 14,President,,DEM,Kamala D. Harris,196
+Monroe,Chili 14,President,,REP,Donald J. Trump,188
+Monroe,Chili 14,President,,CON,Donald J. Trump,37
+Monroe,Chili 14,President,,WOR,Kamala D. Harris,14
+Monroe,Chili 14,President,,,Write-in,5
+Monroe,Chili 15,President,,DEM,Kamala D. Harris,361
+Monroe,Chili 15,President,,REP,Donald J. Trump,301
+Monroe,Chili 15,President,,CON,Donald J. Trump,68
+Monroe,Chili 15,President,,WOR,Kamala D. Harris,25
+Monroe,Chili 15,President,,,Write-in,4
+Monroe,Chili 16,President,,DEM,Kamala D. Harris,374
+Monroe,Chili 16,President,,REP,Donald J. Trump,407
+Monroe,Chili 16,President,,CON,Donald J. Trump,50
+Monroe,Chili 16,President,,WOR,Kamala D. Harris,19
+Monroe,Chili 16,President,,,Write-in,5
+Monroe,Chili 17,President,,DEM,Kamala D. Harris,489
+Monroe,Chili 17,President,,REP,Donald J. Trump,518
+Monroe,Chili 17,President,,CON,Donald J. Trump,87
+Monroe,Chili 17,President,,WOR,Kamala D. Harris,35
+Monroe,Chili 17,President,,,Write-in,8
+Monroe,Chili 18,President,,DEM,Kamala D. Harris,232
+Monroe,Chili 18,President,,REP,Donald J. Trump,262
+Monroe,Chili 18,President,,CON,Donald J. Trump,34
+Monroe,Chili 18,President,,WOR,Kamala D. Harris,12
+Monroe,Chili 18,President,,,Write-in,4
+Monroe,Chili 19,President,,DEM,Kamala D. Harris,196
+Monroe,Chili 19,President,,REP,Donald J. Trump,173
+Monroe,Chili 19,President,,CON,Donald J. Trump,33
+Monroe,Chili 19,President,,WOR,Kamala D. Harris,15
+Monroe,Chili 19,President,,,Write-in,3
+Monroe,Chili 20,President,,DEM,Kamala D. Harris,364
+Monroe,Chili 20,President,,REP,Donald J. Trump,230
+Monroe,Chili 20,President,,CON,Donald J. Trump,35
+Monroe,Chili 20,President,,WOR,Kamala D. Harris,25
+Monroe,Chili 20,President,,,Write-in,6
+Monroe,Chili 21,President,,DEM,Kamala D. Harris,325
+Monroe,Chili 21,President,,REP,Donald J. Trump,211
+Monroe,Chili 21,President,,CON,Donald J. Trump,39
+Monroe,Chili 21,President,,WOR,Kamala D. Harris,15
+Monroe,Chili 21,President,,,Write-in,6
+Monroe,Chili 22,President,,DEM,Kamala D. Harris,443
+Monroe,Chili 22,President,,REP,Donald J. Trump,219
+Monroe,Chili 22,President,,CON,Donald J. Trump,32
+Monroe,Chili 22,President,,WOR,Kamala D. Harris,24
+Monroe,Chili 22,President,,,Write-in,6
+Monroe,Chili 23,President,,DEM,Kamala D. Harris,243
+Monroe,Chili 23,President,,REP,Donald J. Trump,103
+Monroe,Chili 23,President,,CON,Donald J. Trump,24
+Monroe,Chili 23,President,,WOR,Kamala D. Harris,18
+Monroe,Chili 23,President,,,Write-in,6
+Monroe,Chili 24,President,,DEM,Kamala D. Harris,545
+Monroe,Chili 24,President,,REP,Donald J. Trump,479
+Monroe,Chili 24,President,,CON,Donald J. Trump,59
+Monroe,Chili 24,President,,WOR,Kamala D. Harris,32
+Monroe,Chili 24,President,,,Write-in,8
+Monroe,Clarkson 1,President,,DEM,Kamala D. Harris,256
+Monroe,Clarkson 1,President,,REP,Donald J. Trump,480
+Monroe,Clarkson 1,President,,CON,Donald J. Trump,75
+Monroe,Clarkson 1,President,,WOR,Kamala D. Harris,17
+Monroe,Clarkson 1,President,,,Write-in,11
+Monroe,Clarkson 2,President,,DEM,Kamala D. Harris,33
+Monroe,Clarkson 2,President,,REP,Donald J. Trump,37
+Monroe,Clarkson 2,President,,CON,Donald J. Trump,11
+Monroe,Clarkson 2,President,,WOR,Kamala D. Harris,3
+Monroe,Clarkson 2,President,,,Write-in,2
+Monroe,Clarkson 3,President,,DEM,Kamala D. Harris,196
+Monroe,Clarkson 3,President,,REP,Donald J. Trump,234
+Monroe,Clarkson 3,President,,CON,Donald J. Trump,37
+Monroe,Clarkson 3,President,,WOR,Kamala D. Harris,9
+Monroe,Clarkson 3,President,,,Write-in,10
+Monroe,Clarkson 4,President,,DEM,Kamala D. Harris,226
+Monroe,Clarkson 4,President,,REP,Donald J. Trump,478
+Monroe,Clarkson 4,President,,CON,Donald J. Trump,67
+Monroe,Clarkson 4,President,,WOR,Kamala D. Harris,16
+Monroe,Clarkson 4,President,,,Write-in,3
+Monroe,Clarkson 5,President,,DEM,Kamala D. Harris,387
+Monroe,Clarkson 5,President,,REP,Donald J. Trump,556
+Monroe,Clarkson 5,President,,CON,Donald J. Trump,106
+Monroe,Clarkson 5,President,,WOR,Kamala D. Harris,34
+Monroe,Clarkson 5,President,,,Write-in,7
+Monroe,Clarkson 6,President,,DEM,Kamala D. Harris,161
+Monroe,Clarkson 6,President,,REP,Donald J. Trump,204
+Monroe,Clarkson 6,President,,CON,Donald J. Trump,32
+Monroe,Clarkson 6,President,,WOR,Kamala D. Harris,12
+Monroe,Clarkson 6,President,,,Write-in,2
+Monroe,East Rochester 1,President,,DEM,Kamala D. Harris,254
+Monroe,East Rochester 1,President,,REP,Donald J. Trump,183
+Monroe,East Rochester 1,President,,CON,Donald J. Trump,28
+Monroe,East Rochester 1,President,,WOR,Kamala D. Harris,16
+Monroe,East Rochester 1,President,,,Write-in,5
+Monroe,East Rochester 2,President,,DEM,Kamala D. Harris,418
+Monroe,East Rochester 2,President,,REP,Donald J. Trump,298
+Monroe,East Rochester 2,President,,CON,Donald J. Trump,42
+Monroe,East Rochester 2,President,,WOR,Kamala D. Harris,45
+Monroe,East Rochester 2,President,,,Write-in,8
+Monroe,East Rochester 3,President,,DEM,Kamala D. Harris,262
+Monroe,East Rochester 3,President,,REP,Donald J. Trump,158
+Monroe,East Rochester 3,President,,CON,Donald J. Trump,17
+Monroe,East Rochester 3,President,,WOR,Kamala D. Harris,14
+Monroe,East Rochester 3,President,,,Write-in,2
+Monroe,East Rochester 4,President,,DEM,Kamala D. Harris,422
+Monroe,East Rochester 4,President,,REP,Donald J. Trump,258
+Monroe,East Rochester 4,President,,CON,Donald J. Trump,33
+Monroe,East Rochester 4,President,,WOR,Kamala D. Harris,33
+Monroe,East Rochester 4,President,,,Write-in,4
+Monroe,East Rochester 5,President,,DEM,Kamala D. Harris,208
+Monroe,East Rochester 5,President,,REP,Donald J. Trump,157
+Monroe,East Rochester 5,President,,CON,Donald J. Trump,16
+Monroe,East Rochester 5,President,,WOR,Kamala D. Harris,26
+Monroe,East Rochester 5,President,,,Write-in,5
+Monroe,Gates 1,President,,DEM,Kamala D. Harris,323
+Monroe,Gates 1,President,,REP,Donald J. Trump,231
+Monroe,Gates 1,President,,CON,Donald J. Trump,46
+Monroe,Gates 1,President,,WOR,Kamala D. Harris,27
+Monroe,Gates 1,President,,,Write-in,8
+Monroe,Gates 2,President,,DEM,Kamala D. Harris,441
+Monroe,Gates 2,President,,REP,Donald J. Trump,351
+Monroe,Gates 2,President,,CON,Donald J. Trump,53
+Monroe,Gates 2,President,,WOR,Kamala D. Harris,33
+Monroe,Gates 2,President,,,Write-in,9
+Monroe,Gates 3,President,,DEM,Kamala D. Harris,213
+Monroe,Gates 3,President,,REP,Donald J. Trump,163
+Monroe,Gates 3,President,,CON,Donald J. Trump,21
+Monroe,Gates 3,President,,WOR,Kamala D. Harris,14
+Monroe,Gates 4,President,,DEM,Kamala D. Harris,315
+Monroe,Gates 4,President,,REP,Donald J. Trump,285
+Monroe,Gates 4,President,,CON,Donald J. Trump,33
+Monroe,Gates 4,President,,WOR,Kamala D. Harris,33
+Monroe,Gates 4,President,,,Write-in,9
+Monroe,Gates 5,President,,DEM,Kamala D. Harris,420
+Monroe,Gates 5,President,,REP,Donald J. Trump,320
+Monroe,Gates 5,President,,CON,Donald J. Trump,42
+Monroe,Gates 5,President,,WOR,Kamala D. Harris,29
+Monroe,Gates 5,President,,,Write-in,3
+Monroe,Gates 6,President,,DEM,Kamala D. Harris,266
+Monroe,Gates 6,President,,REP,Donald J. Trump,121
+Monroe,Gates 6,President,,CON,Donald J. Trump,25
+Monroe,Gates 6,President,,WOR,Kamala D. Harris,18
+Monroe,Gates 6,President,,,Write-in,8
+Monroe,Gates 7,President,,DEM,Kamala D. Harris,431
+Monroe,Gates 7,President,,REP,Donald J. Trump,519
+Monroe,Gates 7,President,,CON,Donald J. Trump,63
+Monroe,Gates 7,President,,WOR,Kamala D. Harris,23
+Monroe,Gates 7,President,,,Write-in,7
+Monroe,Gates 8,President,,DEM,Kamala D. Harris,150
+Monroe,Gates 8,President,,REP,Donald J. Trump,133
+Monroe,Gates 8,President,,CON,Donald J. Trump,17
+Monroe,Gates 8,President,,WOR,Kamala D. Harris,12
+Monroe,Gates 8,President,,,Write-in,3
+Monroe,Gates 9,President,,DEM,Kamala D. Harris,232
+Monroe,Gates 9,President,,REP,Donald J. Trump,175
+Monroe,Gates 9,President,,CON,Donald J. Trump,21
+Monroe,Gates 9,President,,WOR,Kamala D. Harris,11
+Monroe,Gates 9,President,,,Write-in,4
+Monroe,Gates 10,President,,DEM,Kamala D. Harris,336
+Monroe,Gates 10,President,,REP,Donald J. Trump,224
+Monroe,Gates 10,President,,CON,Donald J. Trump,28
+Monroe,Gates 10,President,,WOR,Kamala D. Harris,17
+Monroe,Gates 10,President,,,Write-in,5
+Monroe,Gates 11,President,,DEM,Kamala D. Harris,361
+Monroe,Gates 11,President,,REP,Donald J. Trump,242
+Monroe,Gates 11,President,,CON,Donald J. Trump,37
+Monroe,Gates 11,President,,WOR,Kamala D. Harris,22
+Monroe,Gates 11,President,,,Write-in,5
+Monroe,Gates 12,President,,DEM,Kamala D. Harris,200
+Monroe,Gates 12,President,,REP,Donald J. Trump,272
+Monroe,Gates 12,President,,CON,Donald J. Trump,32
+Monroe,Gates 12,President,,WOR,Kamala D. Harris,13
+Monroe,Gates 12,President,,,Write-in,5
+Monroe,Gates 13,President,,DEM,Kamala D. Harris,253
+Monroe,Gates 13,President,,REP,Donald J. Trump,217
+Monroe,Gates 13,President,,CON,Donald J. Trump,23
+Monroe,Gates 13,President,,WOR,Kamala D. Harris,13
+Monroe,Gates 13,President,,,Write-in,4
+Monroe,Gates 14,President,,DEM,Kamala D. Harris,457
+Monroe,Gates 14,President,,REP,Donald J. Trump,434
+Monroe,Gates 14,President,,CON,Donald J. Trump,57
+Monroe,Gates 14,President,,WOR,Kamala D. Harris,32
+Monroe,Gates 14,President,,,Write-in,7
+Monroe,Gates 15,President,,DEM,Kamala D. Harris,338
+Monroe,Gates 15,President,,REP,Donald J. Trump,280
+Monroe,Gates 15,President,,CON,Donald J. Trump,33
+Monroe,Gates 15,President,,WOR,Kamala D. Harris,15
+Monroe,Gates 15,President,,,Write-in,2
+Monroe,Gates 16,President,,DEM,Kamala D. Harris,261
+Monroe,Gates 16,President,,REP,Donald J. Trump,246
+Monroe,Gates 16,President,,CON,Donald J. Trump,36
+Monroe,Gates 16,President,,WOR,Kamala D. Harris,13
+Monroe,Gates 16,President,,,Write-in,1
+Monroe,Gates 17,President,,DEM,Kamala D. Harris,213
+Monroe,Gates 17,President,,REP,Donald J. Trump,183
+Monroe,Gates 17,President,,CON,Donald J. Trump,24
+Monroe,Gates 17,President,,WOR,Kamala D. Harris,12
+Monroe,Gates 18,President,,DEM,Kamala D. Harris,191
+Monroe,Gates 18,President,,REP,Donald J. Trump,252
+Monroe,Gates 18,President,,CON,Donald J. Trump,37
+Monroe,Gates 18,President,,WOR,Kamala D. Harris,12
+Monroe,Gates 18,President,,,Write-in,5
+Monroe,Gates 19,President,,DEM,Kamala D. Harris,448
+Monroe,Gates 19,President,,REP,Donald J. Trump,420
+Monroe,Gates 19,President,,CON,Donald J. Trump,66
+Monroe,Gates 19,President,,WOR,Kamala D. Harris,31
+Monroe,Gates 19,President,,,Write-in,8
+Monroe,Gates 20,President,,DEM,Kamala D. Harris,357
+Monroe,Gates 20,President,,REP,Donald J. Trump,287
+Monroe,Gates 20,President,,CON,Donald J. Trump,36
+Monroe,Gates 20,President,,WOR,Kamala D. Harris,21
+Monroe,Gates 20,President,,,Write-in,5
+Monroe,Gates 21,President,,DEM,Kamala D. Harris,121
+Monroe,Gates 21,President,,REP,Donald J. Trump,127
+Monroe,Gates 21,President,,CON,Donald J. Trump,19
+Monroe,Gates 21,President,,WOR,Kamala D. Harris,9
+Monroe,Gates 21,President,,,Write-in,4
+Monroe,Gates 22,President,,DEM,Kamala D. Harris,109
+Monroe,Gates 22,President,,REP,Donald J. Trump,86
+Monroe,Gates 22,President,,CON,Donald J. Trump,12
+Monroe,Gates 22,President,,WOR,Kamala D. Harris,10
+Monroe,Gates 22,President,,,Write-in,3
+Monroe,Gates 23,President,,DEM,Kamala D. Harris,168
+Monroe,Gates 23,President,,REP,Donald J. Trump,189
+Monroe,Gates 23,President,,CON,Donald J. Trump,25
+Monroe,Gates 23,President,,WOR,Kamala D. Harris,5
+Monroe,Gates 23,President,,,Write-in,3
+Monroe,Gates 24,President,,DEM,Kamala D. Harris,534
+Monroe,Gates 24,President,,REP,Donald J. Trump,371
+Monroe,Gates 24,President,,CON,Donald J. Trump,48
+Monroe,Gates 24,President,,WOR,Kamala D. Harris,27
+Monroe,Gates 24,President,,,Write-in,6
+Monroe,Greece 1,President,,DEM,Kamala D. Harris,145
+Monroe,Greece 1,President,,REP,Donald J. Trump,195
+Monroe,Greece 1,President,,CON,Donald J. Trump,33
+Monroe,Greece 1,President,,WOR,Kamala D. Harris,5
+Monroe,Greece 1,President,,,Write-in,3
+Monroe,Greece 2,President,,DEM,Kamala D. Harris,163
+Monroe,Greece 2,President,,REP,Donald J. Trump,257
+Monroe,Greece 2,President,,CON,Donald J. Trump,53
+Monroe,Greece 2,President,,WOR,Kamala D. Harris,9
+Monroe,Greece 2,President,,,Write-in,5
+Monroe,Greece 3,President,,DEM,Kamala D. Harris,272
+Monroe,Greece 3,President,,REP,Donald J. Trump,232
+Monroe,Greece 3,President,,CON,Donald J. Trump,44
+Monroe,Greece 3,President,,WOR,Kamala D. Harris,14
+Monroe,Greece 3,President,,,Write-in,5
+Monroe,Greece 4,President,,DEM,Kamala D. Harris,174
+Monroe,Greece 4,President,,REP,Donald J. Trump,151
+Monroe,Greece 4,President,,CON,Donald J. Trump,29
+Monroe,Greece 4,President,,WOR,Kamala D. Harris,6
+Monroe,Greece 4,President,,,Write-in,4
+Monroe,Greece 5,President,,DEM,Kamala D. Harris,565
+Monroe,Greece 5,President,,REP,Donald J. Trump,462
+Monroe,Greece 5,President,,CON,Donald J. Trump,59
+Monroe,Greece 5,President,,WOR,Kamala D. Harris,35
+Monroe,Greece 5,President,,,Write-in,14
+Monroe,Greece 6,President,,DEM,Kamala D. Harris,494
+Monroe,Greece 6,President,,REP,Donald J. Trump,383
+Monroe,Greece 6,President,,CON,Donald J. Trump,61
+Monroe,Greece 6,President,,WOR,Kamala D. Harris,29
+Monroe,Greece 6,President,,,Write-in,5
+Monroe,Greece 7,President,,DEM,Kamala D. Harris,219
+Monroe,Greece 7,President,,REP,Donald J. Trump,214
+Monroe,Greece 7,President,,CON,Donald J. Trump,28
+Monroe,Greece 7,President,,WOR,Kamala D. Harris,17
+Monroe,Greece 7,President,,,Write-in,4
+Monroe,Greece 8,President,,DEM,Kamala D. Harris,177
+Monroe,Greece 8,President,,REP,Donald J. Trump,171
+Monroe,Greece 8,President,,CON,Donald J. Trump,28
+Monroe,Greece 8,President,,WOR,Kamala D. Harris,22
+Monroe,Greece 8,President,,,Write-in,5
+Monroe,Greece 9,President,,DEM,Kamala D. Harris,204
+Monroe,Greece 9,President,,REP,Donald J. Trump,159
+Monroe,Greece 9,President,,CON,Donald J. Trump,25
+Monroe,Greece 9,President,,WOR,Kamala D. Harris,12
+Monroe,Greece 9,President,,,Write-in,7
+Monroe,Greece 10,President,,DEM,Kamala D. Harris,198
+Monroe,Greece 10,President,,REP,Donald J. Trump,197
+Monroe,Greece 10,President,,CON,Donald J. Trump,20
+Monroe,Greece 10,President,,WOR,Kamala D. Harris,10
+Monroe,Greece 10,President,,,Write-in,7
+Monroe,Greece 11,President,,DEM,Kamala D. Harris,108
+Monroe,Greece 11,President,,REP,Donald J. Trump,106
+Monroe,Greece 11,President,,CON,Donald J. Trump,12
+Monroe,Greece 11,President,,WOR,Kamala D. Harris,14
+Monroe,Greece 11,President,,,Write-in,1
+Monroe,Greece 12,President,,DEM,Kamala D. Harris,118
+Monroe,Greece 12,President,,REP,Donald J. Trump,114
+Monroe,Greece 12,President,,CON,Donald J. Trump,17
+Monroe,Greece 12,President,,WOR,Kamala D. Harris,13
+Monroe,Greece 13,President,,DEM,Kamala D. Harris,176
+Monroe,Greece 13,President,,REP,Donald J. Trump,151
+Monroe,Greece 13,President,,CON,Donald J. Trump,16
+Monroe,Greece 13,President,,WOR,Kamala D. Harris,14
+Monroe,Greece 14,President,,DEM,Kamala D. Harris,155
+Monroe,Greece 14,President,,REP,Donald J. Trump,111
+Monroe,Greece 14,President,,CON,Donald J. Trump,23
+Monroe,Greece 14,President,,WOR,Kamala D. Harris,12
+Monroe,Greece 14,President,,,Write-in,2
+Monroe,Greece 15,President,,DEM,Kamala D. Harris,155
+Monroe,Greece 15,President,,REP,Donald J. Trump,173
+Monroe,Greece 15,President,,CON,Donald J. Trump,23
+Monroe,Greece 15,President,,WOR,Kamala D. Harris,6
+Monroe,Greece 15,President,,,Write-in,4
+Monroe,Greece 16,President,,DEM,Kamala D. Harris,108
+Monroe,Greece 16,President,,REP,Donald J. Trump,120
+Monroe,Greece 16,President,,CON,Donald J. Trump,19
+Monroe,Greece 16,President,,WOR,Kamala D. Harris,15
+Monroe,Greece 17,President,,DEM,Kamala D. Harris,239
+Monroe,Greece 17,President,,REP,Donald J. Trump,224
+Monroe,Greece 17,President,,CON,Donald J. Trump,34
+Monroe,Greece 17,President,,WOR,Kamala D. Harris,14
+Monroe,Greece 17,President,,,Write-in,5
+Monroe,Greece 18,President,,DEM,Kamala D. Harris,201
+Monroe,Greece 18,President,,REP,Donald J. Trump,216
+Monroe,Greece 18,President,,CON,Donald J. Trump,31
+Monroe,Greece 18,President,,WOR,Kamala D. Harris,20
+Monroe,Greece 18,President,,,Write-in,6
+Monroe,Greece 19,President,,DEM,Kamala D. Harris,222
+Monroe,Greece 19,President,,REP,Donald J. Trump,209
+Monroe,Greece 19,President,,CON,Donald J. Trump,35
+Monroe,Greece 19,President,,WOR,Kamala D. Harris,14
+Monroe,Greece 19,President,,,Write-in,8
+Monroe,Greece 20,President,,DEM,Kamala D. Harris,126
+Monroe,Greece 20,President,,REP,Donald J. Trump,179
+Monroe,Greece 20,President,,CON,Donald J. Trump,25
+Monroe,Greece 20,President,,WOR,Kamala D. Harris,10
+Monroe,Greece 20,President,,,Write-in,2
+Monroe,Greece 21,President,,DEM,Kamala D. Harris,176
+Monroe,Greece 21,President,,REP,Donald J. Trump,164
+Monroe,Greece 21,President,,CON,Donald J. Trump,31
+Monroe,Greece 21,President,,WOR,Kamala D. Harris,12
+Monroe,Greece 21,President,,,Write-in,2
+Monroe,Greece 22,President,,DEM,Kamala D. Harris,314
+Monroe,Greece 22,President,,REP,Donald J. Trump,362
+Monroe,Greece 22,President,,CON,Donald J. Trump,44
+Monroe,Greece 22,President,,WOR,Kamala D. Harris,16
+Monroe,Greece 22,President,,,Write-in,6
+Monroe,Greece 23,President,,DEM,Kamala D. Harris,269
+Monroe,Greece 23,President,,REP,Donald J. Trump,219
+Monroe,Greece 23,President,,CON,Donald J. Trump,34
+Monroe,Greece 23,President,,WOR,Kamala D. Harris,14
+Monroe,Greece 23,President,,,Write-in,6
+Monroe,Greece 24,President,,DEM,Kamala D. Harris,219
+Monroe,Greece 24,President,,REP,Donald J. Trump,277
+Monroe,Greece 24,President,,CON,Donald J. Trump,30
+Monroe,Greece 24,President,,WOR,Kamala D. Harris,8
+Monroe,Greece 24,President,,,Write-in,7
+Monroe,Greece 25,President,,DEM,Kamala D. Harris,214
+Monroe,Greece 25,President,,REP,Donald J. Trump,169
+Monroe,Greece 25,President,,CON,Donald J. Trump,30
+Monroe,Greece 25,President,,WOR,Kamala D. Harris,9
+Monroe,Greece 25,President,,,Write-in,3
+Monroe,Greece 26,President,,DEM,Kamala D. Harris,119
+Monroe,Greece 26,President,,REP,Donald J. Trump,131
+Monroe,Greece 26,President,,CON,Donald J. Trump,27
+Monroe,Greece 26,President,,WOR,Kamala D. Harris,7
+Monroe,Greece 26,President,,,Write-in,3
+Monroe,Greece 27,President,,DEM,Kamala D. Harris,382
+Monroe,Greece 27,President,,REP,Donald J. Trump,380
+Monroe,Greece 27,President,,CON,Donald J. Trump,50
+Monroe,Greece 27,President,,WOR,Kamala D. Harris,30
+Monroe,Greece 27,President,,,Write-in,2
+Monroe,Greece 28,President,,DEM,Kamala D. Harris,210
+Monroe,Greece 28,President,,REP,Donald J. Trump,269
+Monroe,Greece 28,President,,CON,Donald J. Trump,34
+Monroe,Greece 28,President,,WOR,Kamala D. Harris,12
+Monroe,Greece 28,President,,,Write-in,5
+Monroe,Greece 29,President,,DEM,Kamala D. Harris,186
+Monroe,Greece 29,President,,REP,Donald J. Trump,184
+Monroe,Greece 29,President,,CON,Donald J. Trump,24
+Monroe,Greece 29,President,,WOR,Kamala D. Harris,13
+Monroe,Greece 29,President,,,Write-in,6
+Monroe,Greece 30,President,,DEM,Kamala D. Harris,422
+Monroe,Greece 30,President,,REP,Donald J. Trump,418
+Monroe,Greece 30,President,,CON,Donald J. Trump,55
+Monroe,Greece 30,President,,WOR,Kamala D. Harris,31
+Monroe,Greece 30,President,,,Write-in,3
+Monroe,Greece 31,President,,DEM,Kamala D. Harris,254
+Monroe,Greece 31,President,,REP,Donald J. Trump,163
+Monroe,Greece 31,President,,CON,Donald J. Trump,22
+Monroe,Greece 31,President,,WOR,Kamala D. Harris,8
+Monroe,Greece 31,President,,,Write-in,5
+Monroe,Greece 32,President,,DEM,Kamala D. Harris,213
+Monroe,Greece 32,President,,REP,Donald J. Trump,174
+Monroe,Greece 32,President,,CON,Donald J. Trump,25
+Monroe,Greece 32,President,,WOR,Kamala D. Harris,18
+Monroe,Greece 32,President,,,Write-in,1
+Monroe,Greece 33,President,,DEM,Kamala D. Harris,393
+Monroe,Greece 33,President,,REP,Donald J. Trump,438
+Monroe,Greece 33,President,,CON,Donald J. Trump,50
+Monroe,Greece 33,President,,WOR,Kamala D. Harris,22
+Monroe,Greece 33,President,,,Write-in,9
+Monroe,Greece 34,President,,DEM,Kamala D. Harris,192
+Monroe,Greece 34,President,,REP,Donald J. Trump,214
+Monroe,Greece 34,President,,CON,Donald J. Trump,46
+Monroe,Greece 34,President,,WOR,Kamala D. Harris,10
+Monroe,Greece 34,President,,,Write-in,3
+Monroe,Greece 35,President,,DEM,Kamala D. Harris,193
+Monroe,Greece 35,President,,REP,Donald J. Trump,170
+Monroe,Greece 35,President,,CON,Donald J. Trump,27
+Monroe,Greece 35,President,,WOR,Kamala D. Harris,11
+Monroe,Greece 35,President,,,Write-in,8
+Monroe,Greece 36,President,,DEM,Kamala D. Harris,252
+Monroe,Greece 36,President,,REP,Donald J. Trump,251
+Monroe,Greece 36,President,,CON,Donald J. Trump,43
+Monroe,Greece 36,President,,WOR,Kamala D. Harris,12
+Monroe,Greece 36,President,,,Write-in,4
+Monroe,Greece 37,President,,DEM,Kamala D. Harris,325
+Monroe,Greece 37,President,,REP,Donald J. Trump,322
+Monroe,Greece 37,President,,CON,Donald J. Trump,58
+Monroe,Greece 37,President,,WOR,Kamala D. Harris,19
+Monroe,Greece 37,President,,,Write-in,6
+Monroe,Greece 38,President,,DEM,Kamala D. Harris,85
+Monroe,Greece 38,President,,REP,Donald J. Trump,117
+Monroe,Greece 38,President,,CON,Donald J. Trump,23
+Monroe,Greece 38,President,,WOR,Kamala D. Harris,7
+Monroe,Greece 38,President,,,Write-in,1
+Monroe,Greece 39,President,,DEM,Kamala D. Harris,121
+Monroe,Greece 39,President,,REP,Donald J. Trump,121
+Monroe,Greece 39,President,,CON,Donald J. Trump,20
+Monroe,Greece 39,President,,WOR,Kamala D. Harris,11
+Monroe,Greece 39,President,,,Write-in,4
+Monroe,Greece 40,President,,DEM,Kamala D. Harris,182
+Monroe,Greece 40,President,,REP,Donald J. Trump,138
+Monroe,Greece 40,President,,CON,Donald J. Trump,17
+Monroe,Greece 40,President,,WOR,Kamala D. Harris,7
+Monroe,Greece 40,President,,,Write-in,6
+Monroe,Greece 41,President,,DEM,Kamala D. Harris,235
+Monroe,Greece 41,President,,REP,Donald J. Trump,179
+Monroe,Greece 41,President,,CON,Donald J. Trump,33
+Monroe,Greece 41,President,,WOR,Kamala D. Harris,23
+Monroe,Greece 41,President,,,Write-in,2
+Monroe,Greece 42,President,,DEM,Kamala D. Harris,190
+Monroe,Greece 42,President,,REP,Donald J. Trump,165
+Monroe,Greece 42,President,,CON,Donald J. Trump,28
+Monroe,Greece 42,President,,WOR,Kamala D. Harris,9
+Monroe,Greece 42,President,,,Write-in,3
+Monroe,Greece 43,President,,DEM,Kamala D. Harris,270
+Monroe,Greece 43,President,,REP,Donald J. Trump,343
+Monroe,Greece 43,President,,CON,Donald J. Trump,61
+Monroe,Greece 43,President,,WOR,Kamala D. Harris,21
+Monroe,Greece 43,President,,,Write-in,3
+Monroe,Greece 44,President,,DEM,Kamala D. Harris,270
+Monroe,Greece 44,President,,REP,Donald J. Trump,255
+Monroe,Greece 44,President,,CON,Donald J. Trump,54
+Monroe,Greece 44,President,,WOR,Kamala D. Harris,15
+Monroe,Greece 44,President,,,Write-in,8
+Monroe,Greece 45,President,,DEM,Kamala D. Harris,247
+Monroe,Greece 45,President,,REP,Donald J. Trump,421
+Monroe,Greece 45,President,,CON,Donald J. Trump,57
+Monroe,Greece 45,President,,WOR,Kamala D. Harris,14
+Monroe,Greece 45,President,,,Write-in,6
+Monroe,Greece 46,President,,DEM,Kamala D. Harris,176
+Monroe,Greece 46,President,,REP,Donald J. Trump,138
+Monroe,Greece 46,President,,CON,Donald J. Trump,20
+Monroe,Greece 46,President,,WOR,Kamala D. Harris,11
+Monroe,Greece 47,President,,DEM,Kamala D. Harris,186
+Monroe,Greece 47,President,,REP,Donald J. Trump,172
+Monroe,Greece 47,President,,CON,Donald J. Trump,33
+Monroe,Greece 47,President,,WOR,Kamala D. Harris,13
+Monroe,Greece 47,President,,,Write-in,6
+Monroe,Greece 48,President,,DEM,Kamala D. Harris,133
+Monroe,Greece 48,President,,REP,Donald J. Trump,233
+Monroe,Greece 48,President,,CON,Donald J. Trump,28
+Monroe,Greece 48,President,,WOR,Kamala D. Harris,13
+Monroe,Greece 48,President,,,Write-in,2
+Monroe,Greece 49,President,,DEM,Kamala D. Harris,156
+Monroe,Greece 49,President,,REP,Donald J. Trump,127
+Monroe,Greece 49,President,,CON,Donald J. Trump,13
+Monroe,Greece 49,President,,WOR,Kamala D. Harris,5
+Monroe,Greece 49,President,,,Write-in,1
+Monroe,Greece 50,President,,DEM,Kamala D. Harris,173
+Monroe,Greece 50,President,,REP,Donald J. Trump,177
+Monroe,Greece 50,President,,CON,Donald J. Trump,38
+Monroe,Greece 50,President,,WOR,Kamala D. Harris,13
+Monroe,Greece 50,President,,,Write-in,4
+Monroe,Greece 51,President,,DEM,Kamala D. Harris,341
+Monroe,Greece 51,President,,REP,Donald J. Trump,352
+Monroe,Greece 51,President,,CON,Donald J. Trump,63
+Monroe,Greece 51,President,,WOR,Kamala D. Harris,17
+Monroe,Greece 51,President,,,Write-in,6
+Monroe,Greece 52,President,,DEM,Kamala D. Harris,234
+Monroe,Greece 52,President,,REP,Donald J. Trump,257
+Monroe,Greece 52,President,,CON,Donald J. Trump,43
+Monroe,Greece 52,President,,WOR,Kamala D. Harris,13
+Monroe,Greece 52,President,,,Write-in,6
+Monroe,Greece 53,President,,DEM,Kamala D. Harris,220
+Monroe,Greece 53,President,,REP,Donald J. Trump,154
+Monroe,Greece 53,President,,CON,Donald J. Trump,16
+Monroe,Greece 53,President,,WOR,Kamala D. Harris,12
+Monroe,Greece 53,President,,,Write-in,2
+Monroe,Greece 54,President,,DEM,Kamala D. Harris,165
+Monroe,Greece 54,President,,REP,Donald J. Trump,271
+Monroe,Greece 54,President,,CON,Donald J. Trump,37
+Monroe,Greece 54,President,,WOR,Kamala D. Harris,8
+Monroe,Greece 54,President,,,Write-in,2
+Monroe,Greece 55,President,,DEM,Kamala D. Harris,110
+Monroe,Greece 55,President,,REP,Donald J. Trump,164
+Monroe,Greece 55,President,,CON,Donald J. Trump,19
+Monroe,Greece 55,President,,WOR,Kamala D. Harris,6
+Monroe,Greece 55,President,,,Write-in,2
+Monroe,Greece 56,President,,DEM,Kamala D. Harris,242
+Monroe,Greece 56,President,,REP,Donald J. Trump,206
+Monroe,Greece 56,President,,CON,Donald J. Trump,23
+Monroe,Greece 56,President,,WOR,Kamala D. Harris,13
+Monroe,Greece 56,President,,,Write-in,3
+Monroe,Greece 57,President,,DEM,Kamala D. Harris,188
+Monroe,Greece 57,President,,REP,Donald J. Trump,285
+Monroe,Greece 57,President,,CON,Donald J. Trump,32
+Monroe,Greece 57,President,,WOR,Kamala D. Harris,11
+Monroe,Greece 57,President,,,Write-in,5
+Monroe,Greece 58,President,,DEM,Kamala D. Harris,252
+Monroe,Greece 58,President,,REP,Donald J. Trump,242
+Monroe,Greece 58,President,,CON,Donald J. Trump,38
+Monroe,Greece 58,President,,WOR,Kamala D. Harris,12
+Monroe,Greece 58,President,,,Write-in,4
+Monroe,Greece 59,President,,DEM,Kamala D. Harris,218
+Monroe,Greece 59,President,,REP,Donald J. Trump,88
+Monroe,Greece 59,President,,CON,Donald J. Trump,15
+Monroe,Greece 59,President,,WOR,Kamala D. Harris,14
+Monroe,Greece 60,President,,DEM,Kamala D. Harris,153
+Monroe,Greece 60,President,,REP,Donald J. Trump,153
+Monroe,Greece 60,President,,CON,Donald J. Trump,23
+Monroe,Greece 60,President,,WOR,Kamala D. Harris,10
+Monroe,Greece 60,President,,,Write-in,2
+Monroe,Greece 61,President,,DEM,Kamala D. Harris,260
+Monroe,Greece 61,President,,REP,Donald J. Trump,220
+Monroe,Greece 61,President,,CON,Donald J. Trump,33
+Monroe,Greece 61,President,,WOR,Kamala D. Harris,20
+Monroe,Greece 61,President,,,Write-in,5
+Monroe,Greece 62,President,,DEM,Kamala D. Harris,290
+Monroe,Greece 62,President,,REP,Donald J. Trump,232
+Monroe,Greece 62,President,,CON,Donald J. Trump,31
+Monroe,Greece 62,President,,WOR,Kamala D. Harris,16
+Monroe,Greece 62,President,,,Write-in,3
+Monroe,Greece 63,President,,DEM,Kamala D. Harris,140
+Monroe,Greece 63,President,,REP,Donald J. Trump,217
+Monroe,Greece 63,President,,CON,Donald J. Trump,35
+Monroe,Greece 63,President,,WOR,Kamala D. Harris,7
+Monroe,Greece 63,President,,,Write-in,6
+Monroe,Greece 64,President,,DEM,Kamala D. Harris,167
+Monroe,Greece 64,President,,REP,Donald J. Trump,180
+Monroe,Greece 64,President,,CON,Donald J. Trump,15
+Monroe,Greece 64,President,,WOR,Kamala D. Harris,12
+Monroe,Greece 64,President,,,Write-in,3
+Monroe,Greece 65,President,,DEM,Kamala D. Harris,391
+Monroe,Greece 65,President,,REP,Donald J. Trump,304
+Monroe,Greece 65,President,,CON,Donald J. Trump,34
+Monroe,Greece 65,President,,WOR,Kamala D. Harris,17
+Monroe,Greece 65,President,,,Write-in,4
+Monroe,Greece 66,President,,DEM,Kamala D. Harris,130
+Monroe,Greece 66,President,,REP,Donald J. Trump,118
+Monroe,Greece 66,President,,CON,Donald J. Trump,18
+Monroe,Greece 66,President,,WOR,Kamala D. Harris,4
+Monroe,Greece 66,President,,,Write-in,3
+Monroe,Greece 67,President,,DEM,Kamala D. Harris,304
+Monroe,Greece 67,President,,REP,Donald J. Trump,317
+Monroe,Greece 67,President,,CON,Donald J. Trump,53
+Monroe,Greece 67,President,,WOR,Kamala D. Harris,25
+Monroe,Greece 67,President,,,Write-in,10
+Monroe,Greece 68,President,,DEM,Kamala D. Harris,315
+Monroe,Greece 68,President,,REP,Donald J. Trump,327
+Monroe,Greece 68,President,,CON,Donald J. Trump,54
+Monroe,Greece 68,President,,WOR,Kamala D. Harris,15
+Monroe,Greece 68,President,,,Write-in,4
+Monroe,Greece 69,President,,DEM,Kamala D. Harris,111
+Monroe,Greece 69,President,,REP,Donald J. Trump,112
+Monroe,Greece 69,President,,CON,Donald J. Trump,26
+Monroe,Greece 69,President,,WOR,Kamala D. Harris,14
+Monroe,Greece 69,President,,,Write-in,3
+Monroe,Greece 70,President,,DEM,Kamala D. Harris,513
+Monroe,Greece 70,President,,REP,Donald J. Trump,753
+Monroe,Greece 70,President,,CON,Donald J. Trump,127
+Monroe,Greece 70,President,,WOR,Kamala D. Harris,11
+Monroe,Greece 70,President,,,Write-in,9
+Monroe,Greece 71,President,,DEM,Kamala D. Harris,247
+Monroe,Greece 71,President,,REP,Donald J. Trump,205
+Monroe,Greece 71,President,,CON,Donald J. Trump,33
+Monroe,Greece 71,President,,WOR,Kamala D. Harris,17
+Monroe,Greece 71,President,,,Write-in,3
+Monroe,Greece 72,President,,DEM,Kamala D. Harris,295
+Monroe,Greece 72,President,,REP,Donald J. Trump,255
+Monroe,Greece 72,President,,CON,Donald J. Trump,56
+Monroe,Greece 72,President,,WOR,Kamala D. Harris,7
+Monroe,Greece 72,President,,,Write-in,8
+Monroe,Greece 73,President,,DEM,Kamala D. Harris,79
+Monroe,Greece 73,President,,REP,Donald J. Trump,56
+Monroe,Greece 73,President,,CON,Donald J. Trump,6
+Monroe,Greece 73,President,,WOR,Kamala D. Harris,7
+Monroe,Greece 73,President,,,Write-in,3
+Monroe,Greece 74,President,,DEM,Kamala D. Harris,224
+Monroe,Greece 74,President,,REP,Donald J. Trump,168
+Monroe,Greece 74,President,,CON,Donald J. Trump,19
+Monroe,Greece 74,President,,WOR,Kamala D. Harris,11
+Monroe,Greece 74,President,,,Write-in,1
+Monroe,Greece 75,President,,DEM,Kamala D. Harris,157
+Monroe,Greece 75,President,,REP,Donald J. Trump,147
+Monroe,Greece 75,President,,CON,Donald J. Trump,23
+Monroe,Greece 75,President,,WOR,Kamala D. Harris,12
+Monroe,Greece 75,President,,,Write-in,2
+Monroe,Greece 76,President,,DEM,Kamala D. Harris,120
+Monroe,Greece 76,President,,REP,Donald J. Trump,199
+Monroe,Greece 76,President,,CON,Donald J. Trump,30
+Monroe,Greece 76,President,,WOR,Kamala D. Harris,8
+Monroe,Greece 76,President,,,Write-in,2
+Monroe,Greece 77,President,,DEM,Kamala D. Harris,215
+Monroe,Greece 77,President,,REP,Donald J. Trump,178
+Monroe,Greece 77,President,,CON,Donald J. Trump,25
+Monroe,Greece 77,President,,WOR,Kamala D. Harris,12
+Monroe,Greece 77,President,,,Write-in,1
+Monroe,Greece 78,President,,DEM,Kamala D. Harris,137
+Monroe,Greece 78,President,,REP,Donald J. Trump,149
+Monroe,Greece 78,President,,CON,Donald J. Trump,24
+Monroe,Greece 78,President,,WOR,Kamala D. Harris,8
+Monroe,Greece 78,President,,,Write-in,2
+Monroe,Greece 79,President,,DEM,Kamala D. Harris,413
+Monroe,Greece 79,President,,REP,Donald J. Trump,417
+Monroe,Greece 79,President,,CON,Donald J. Trump,54
+Monroe,Greece 79,President,,WOR,Kamala D. Harris,12
+Monroe,Greece 79,President,,,Write-in,5
+Monroe,Greece 80,President,,DEM,Kamala D. Harris,228
+Monroe,Greece 80,President,,REP,Donald J. Trump,281
+Monroe,Greece 80,President,,CON,Donald J. Trump,41
+Monroe,Greece 80,President,,WOR,Kamala D. Harris,8
+Monroe,Greece 80,President,,,Write-in,6
+Monroe,Greece 81,President,,DEM,Kamala D. Harris,190
+Monroe,Greece 81,President,,REP,Donald J. Trump,181
+Monroe,Greece 81,President,,CON,Donald J. Trump,21
+Monroe,Greece 81,President,,WOR,Kamala D. Harris,12
+Monroe,Greece 81,President,,,Write-in,3
+Monroe,Greece 82,President,,DEM,Kamala D. Harris,327
+Monroe,Greece 82,President,,REP,Donald J. Trump,176
+Monroe,Greece 82,President,,CON,Donald J. Trump,32
+Monroe,Greece 82,President,,WOR,Kamala D. Harris,19
+Monroe,Greece 82,President,,,Write-in,6
+Monroe,Greece 83,President,,DEM,Kamala D. Harris,252
+Monroe,Greece 83,President,,REP,Donald J. Trump,217
+Monroe,Greece 83,President,,CON,Donald J. Trump,21
+Monroe,Greece 83,President,,WOR,Kamala D. Harris,13
+Monroe,Greece 83,President,,,Write-in,4
+Monroe,Greece 84,President,,DEM,Kamala D. Harris,245
+Monroe,Greece 84,President,,REP,Donald J. Trump,223
+Monroe,Greece 84,President,,CON,Donald J. Trump,45
+Monroe,Greece 84,President,,WOR,Kamala D. Harris,13
+Monroe,Greece 84,President,,,Write-in,4
+Monroe,Greece 85,President,,DEM,Kamala D. Harris,242
+Monroe,Greece 85,President,,REP,Donald J. Trump,245
+Monroe,Greece 85,President,,CON,Donald J. Trump,49
+Monroe,Greece 85,President,,WOR,Kamala D. Harris,7
+Monroe,Greece 85,President,,,Write-in,4
+Monroe,Greece 86,President,,DEM,Kamala D. Harris,438
+Monroe,Greece 86,President,,REP,Donald J. Trump,486
+Monroe,Greece 86,President,,CON,Donald J. Trump,92
+Monroe,Greece 86,President,,WOR,Kamala D. Harris,16
+Monroe,Greece 86,President,,,Write-in,11
+Monroe,Greece 87,President,,DEM,Kamala D. Harris,80
+Monroe,Greece 87,President,,REP,Donald J. Trump,113
+Monroe,Greece 87,President,,CON,Donald J. Trump,13
+Monroe,Greece 87,President,,WOR,Kamala D. Harris,2
+Monroe,Greece 88,President,,DEM,Kamala D. Harris,288
+Monroe,Greece 88,President,,REP,Donald J. Trump,224
+Monroe,Greece 88,President,,CON,Donald J. Trump,44
+Monroe,Greece 88,President,,WOR,Kamala D. Harris,11
+Monroe,Greece 88,President,,,Write-in,8
+Monroe,Greece 89,President,,DEM,Kamala D. Harris,156
+Monroe,Greece 89,President,,REP,Donald J. Trump,156
+Monroe,Greece 89,President,,CON,Donald J. Trump,16
+Monroe,Greece 89,President,,WOR,Kamala D. Harris,8
+Monroe,Greece 89,President,,,Write-in,2
+Monroe,Greece 90,President,,DEM,Kamala D. Harris,229
+Monroe,Greece 90,President,,REP,Donald J. Trump,283
+Monroe,Greece 90,President,,CON,Donald J. Trump,48
+Monroe,Greece 90,President,,WOR,Kamala D. Harris,11
+Monroe,Greece 90,President,,,Write-in,4
+Monroe,Greece 91,President,,DEM,Kamala D. Harris,334
+Monroe,Greece 91,President,,REP,Donald J. Trump,401
+Monroe,Greece 91,President,,CON,Donald J. Trump,57
+Monroe,Greece 91,President,,WOR,Kamala D. Harris,18
+Monroe,Greece 91,President,,,Write-in,6
+Monroe,Greece 92,President,,DEM,Kamala D. Harris,371
+Monroe,Greece 92,President,,REP,Donald J. Trump,323
+Monroe,Greece 92,President,,CON,Donald J. Trump,48
+Monroe,Greece 92,President,,WOR,Kamala D. Harris,24
+Monroe,Greece 92,President,,,Write-in,11
+Monroe,Greece 93,President,,DEM,Kamala D. Harris,229
+Monroe,Greece 93,President,,REP,Donald J. Trump,224
+Monroe,Greece 93,President,,CON,Donald J. Trump,28
+Monroe,Greece 93,President,,WOR,Kamala D. Harris,4
+Monroe,Greece 93,President,,,Write-in,1
+Monroe,Greece 94,President,,DEM,Kamala D. Harris,67
+Monroe,Greece 94,President,,REP,Donald J. Trump,108
+Monroe,Greece 94,President,,CON,Donald J. Trump,18
+Monroe,Greece 94,President,,WOR,Kamala D. Harris,4
+Monroe,Greece 94,President,,,Write-in,2
+Monroe,Greece 95,President,,DEM,Kamala D. Harris,194
+Monroe,Greece 95,President,,REP,Donald J. Trump,157
+Monroe,Greece 95,President,,CON,Donald J. Trump,14
+Monroe,Greece 95,President,,WOR,Kamala D. Harris,12
+Monroe,Greece 95,President,,,Write-in,4
+Monroe,Greece 96,President,,DEM,Kamala D. Harris,50
+Monroe,Greece 96,President,,REP,Donald J. Trump,45
+Monroe,Greece 96,President,,CON,Donald J. Trump,4
+Monroe,Greece 96,President,,WOR,Kamala D. Harris,2
+Monroe,Greece 96,President,,,Write-in,3
+Monroe,Greece 97,President,,DEM,Kamala D. Harris,340
+Monroe,Greece 97,President,,REP,Donald J. Trump,366
+Monroe,Greece 97,President,,CON,Donald J. Trump,54
+Monroe,Greece 97,President,,WOR,Kamala D. Harris,14
+Monroe,Greece 97,President,,,Write-in,7
+Monroe,Greece 98,President,,DEM,Kamala D. Harris,371
+Monroe,Greece 98,President,,REP,Donald J. Trump,367
+Monroe,Greece 98,President,,CON,Donald J. Trump,47
+Monroe,Greece 98,President,,WOR,Kamala D. Harris,25
+Monroe,Greece 98,President,,,Write-in,5
+Monroe,Greece 99,President,,DEM,Kamala D. Harris,66
+Monroe,Greece 99,President,,REP,Donald J. Trump,86
+Monroe,Greece 99,President,,CON,Donald J. Trump,14
+Monroe,Greece 99,President,,WOR,Kamala D. Harris,2
+Monroe,Greece 99,President,,,Write-in,1
+Monroe,Greece 100,President,,DEM,Kamala D. Harris,314
+Monroe,Greece 100,President,,REP,Donald J. Trump,288
+Monroe,Greece 100,President,,CON,Donald J. Trump,42
+Monroe,Greece 100,President,,WOR,Kamala D. Harris,15
+Monroe,Greece 100,President,,,Write-in,4
+Monroe,Hamlin 1,President,,DEM,Kamala D. Harris,166
+Monroe,Hamlin 1,President,,REP,Donald J. Trump,283
+Monroe,Hamlin 1,President,,CON,Donald J. Trump,54
+Monroe,Hamlin 1,President,,WOR,Kamala D. Harris,20
+Monroe,Hamlin 1,President,,,Write-in,4
+Monroe,Hamlin 2,President,,DEM,Kamala D. Harris,156
+Monroe,Hamlin 2,President,,REP,Donald J. Trump,287
+Monroe,Hamlin 2,President,,CON,Donald J. Trump,46
+Monroe,Hamlin 2,President,,WOR,Kamala D. Harris,13
+Monroe,Hamlin 2,President,,,Write-in,3
+Monroe,Hamlin 3,President,,DEM,Kamala D. Harris,147
+Monroe,Hamlin 3,President,,REP,Donald J. Trump,318
+Monroe,Hamlin 3,President,,CON,Donald J. Trump,51
+Monroe,Hamlin 3,President,,WOR,Kamala D. Harris,13
+Monroe,Hamlin 3,President,,,Write-in,2
+Monroe,Hamlin 4,President,,DEM,Kamala D. Harris,98
+Monroe,Hamlin 4,President,,REP,Donald J. Trump,244
+Monroe,Hamlin 4,President,,CON,Donald J. Trump,33
+Monroe,Hamlin 4,President,,WOR,Kamala D. Harris,6
+Monroe,Hamlin 5,President,,DEM,Kamala D. Harris,137
+Monroe,Hamlin 5,President,,REP,Donald J. Trump,296
+Monroe,Hamlin 5,President,,CON,Donald J. Trump,47
+Monroe,Hamlin 5,President,,WOR,Kamala D. Harris,11
+Monroe,Hamlin 5,President,,,Write-in,2
+Monroe,Hamlin 6,President,,DEM,Kamala D. Harris,144
+Monroe,Hamlin 6,President,,REP,Donald J. Trump,210
+Monroe,Hamlin 6,President,,CON,Donald J. Trump,29
+Monroe,Hamlin 6,President,,WOR,Kamala D. Harris,10
+Monroe,Hamlin 6,President,,,Write-in,4
+Monroe,Hamlin 7,President,,DEM,Kamala D. Harris,201
+Monroe,Hamlin 7,President,,REP,Donald J. Trump,333
+Monroe,Hamlin 7,President,,CON,Donald J. Trump,57
+Monroe,Hamlin 7,President,,WOR,Kamala D. Harris,19
+Monroe,Hamlin 7,President,,,Write-in,5
+Monroe,Hamlin 8,President,,DEM,Kamala D. Harris,91
+Monroe,Hamlin 8,President,,REP,Donald J. Trump,228
+Monroe,Hamlin 8,President,,CON,Donald J. Trump,27
+Monroe,Hamlin 8,President,,WOR,Kamala D. Harris,11
+Monroe,Hamlin 8,President,,,Write-in,3
+Monroe,Hamlin 9,President,,DEM,Kamala D. Harris,94
+Monroe,Hamlin 9,President,,REP,Donald J. Trump,210
+Monroe,Hamlin 9,President,,CON,Donald J. Trump,22
+Monroe,Hamlin 9,President,,WOR,Kamala D. Harris,5
+Monroe,Hamlin 9,President,,,Write-in,1
+Monroe,Hamlin 10,President,,DEM,Kamala D. Harris,185
+Monroe,Hamlin 10,President,,REP,Donald J. Trump,306
+Monroe,Hamlin 10,President,,CON,Donald J. Trump,44
+Monroe,Hamlin 10,President,,WOR,Kamala D. Harris,18
+Monroe,Hamlin 10,President,,,Write-in,3
+Monroe,Henrietta 1,President,,DEM,Kamala D. Harris,292
+Monroe,Henrietta 1,President,,REP,Donald J. Trump,209
+Monroe,Henrietta 1,President,,CON,Donald J. Trump,26
+Monroe,Henrietta 1,President,,WOR,Kamala D. Harris,12
+Monroe,Henrietta 1,President,,,Write-in,8
+Monroe,Henrietta 2,President,,DEM,Kamala D. Harris,299
+Monroe,Henrietta 2,President,,REP,Donald J. Trump,187
+Monroe,Henrietta 2,President,,CON,Donald J. Trump,36
+Monroe,Henrietta 2,President,,WOR,Kamala D. Harris,19
+Monroe,Henrietta 2,President,,,Write-in,4
+Monroe,Henrietta 3,President,,DEM,Kamala D. Harris,287
+Monroe,Henrietta 3,President,,REP,Donald J. Trump,76
+Monroe,Henrietta 3,President,,CON,Donald J. Trump,14
+Monroe,Henrietta 3,President,,WOR,Kamala D. Harris,21
+Monroe,Henrietta 3,President,,,Write-in,12
+Monroe,Henrietta 4,President,,DEM,Kamala D. Harris,548
+Monroe,Henrietta 4,President,,REP,Donald J. Trump,335
+Monroe,Henrietta 4,President,,CON,Donald J. Trump,45
+Monroe,Henrietta 4,President,,WOR,Kamala D. Harris,28
+Monroe,Henrietta 4,President,,,Write-in,12
+Monroe,Henrietta 5,President,,DEM,Kamala D. Harris,322
+Monroe,Henrietta 5,President,,REP,Donald J. Trump,219
+Monroe,Henrietta 5,President,,CON,Donald J. Trump,44
+Monroe,Henrietta 5,President,,WOR,Kamala D. Harris,21
+Monroe,Henrietta 5,President,,,Write-in,9
+Monroe,Henrietta 6,President,,DEM,Kamala D. Harris,469
+Monroe,Henrietta 6,President,,REP,Donald J. Trump,342
+Monroe,Henrietta 6,President,,CON,Donald J. Trump,50
+Monroe,Henrietta 6,President,,WOR,Kamala D. Harris,35
+Monroe,Henrietta 6,President,,,Write-in,9
+Monroe,Henrietta 7,President,,DEM,Kamala D. Harris,493
+Monroe,Henrietta 7,President,,REP,Donald J. Trump,253
+Monroe,Henrietta 7,President,,CON,Donald J. Trump,52
+Monroe,Henrietta 7,President,,WOR,Kamala D. Harris,32
+Monroe,Henrietta 7,President,,,Write-in,9
+Monroe,Henrietta 8,President,,DEM,Kamala D. Harris,401
+Monroe,Henrietta 8,President,,REP,Donald J. Trump,313
+Monroe,Henrietta 8,President,,CON,Donald J. Trump,46
+Monroe,Henrietta 8,President,,WOR,Kamala D. Harris,31
+Monroe,Henrietta 8,President,,,Write-in,10
+Monroe,Henrietta 9,President,,DEM,Kamala D. Harris,363
+Monroe,Henrietta 9,President,,REP,Donald J. Trump,245
+Monroe,Henrietta 9,President,,CON,Donald J. Trump,37
+Monroe,Henrietta 9,President,,WOR,Kamala D. Harris,30
+Monroe,Henrietta 9,President,,,Write-in,10
+Monroe,Henrietta 10,President,,DEM,Kamala D. Harris,897
+Monroe,Henrietta 10,President,,REP,Donald J. Trump,555
+Monroe,Henrietta 10,President,,CON,Donald J. Trump,67
+Monroe,Henrietta 10,President,,WOR,Kamala D. Harris,45
+Monroe,Henrietta 10,President,,,Write-in,21
+Monroe,Henrietta 11,President,,DEM,Kamala D. Harris,245
+Monroe,Henrietta 11,President,,REP,Donald J. Trump,154
+Monroe,Henrietta 11,President,,CON,Donald J. Trump,20
+Monroe,Henrietta 11,President,,WOR,Kamala D. Harris,9
+Monroe,Henrietta 11,President,,,Write-in,8
+Monroe,Henrietta 12,President,,DEM,Kamala D. Harris,647
+Monroe,Henrietta 12,President,,REP,Donald J. Trump,415
+Monroe,Henrietta 12,President,,CON,Donald J. Trump,59
+Monroe,Henrietta 12,President,,WOR,Kamala D. Harris,28
+Monroe,Henrietta 12,President,,,Write-in,9
+Monroe,Henrietta 13,President,,DEM,Kamala D. Harris,248
+Monroe,Henrietta 13,President,,REP,Donald J. Trump,189
+Monroe,Henrietta 13,President,,CON,Donald J. Trump,25
+Monroe,Henrietta 13,President,,WOR,Kamala D. Harris,13
+Monroe,Henrietta 13,President,,,Write-in,9
+Monroe,Henrietta 14,President,,DEM,Kamala D. Harris,516
+Monroe,Henrietta 14,President,,REP,Donald J. Trump,312
+Monroe,Henrietta 14,President,,CON,Donald J. Trump,48
+Monroe,Henrietta 14,President,,WOR,Kamala D. Harris,42
+Monroe,Henrietta 14,President,,,Write-in,19
+Monroe,Henrietta 15,President,,DEM,Kamala D. Harris,509
+Monroe,Henrietta 15,President,,REP,Donald J. Trump,266
+Monroe,Henrietta 15,President,,CON,Donald J. Trump,44
+Monroe,Henrietta 15,President,,WOR,Kamala D. Harris,41
+Monroe,Henrietta 15,President,,,Write-in,13
+Monroe,Henrietta 16,President,,DEM,Kamala D. Harris,362
+Monroe,Henrietta 16,President,,REP,Donald J. Trump,218
+Monroe,Henrietta 16,President,,CON,Donald J. Trump,40
+Monroe,Henrietta 16,President,,WOR,Kamala D. Harris,25
+Monroe,Henrietta 16,President,,,Write-in,5
+Monroe,Henrietta 17,President,,DEM,Kamala D. Harris,545
+Monroe,Henrietta 17,President,,REP,Donald J. Trump,204
+Monroe,Henrietta 17,President,,CON,Donald J. Trump,35
+Monroe,Henrietta 17,President,,WOR,Kamala D. Harris,18
+Monroe,Henrietta 17,President,,,Write-in,5
+Monroe,Henrietta 18,President,,DEM,Kamala D. Harris,301
+Monroe,Henrietta 18,President,,REP,Donald J. Trump,209
+Monroe,Henrietta 18,President,,CON,Donald J. Trump,23
+Monroe,Henrietta 18,President,,WOR,Kamala D. Harris,21
+Monroe,Henrietta 18,President,,,Write-in,2
+Monroe,Henrietta 19,President,,DEM,Kamala D. Harris,245
+Monroe,Henrietta 19,President,,REP,Donald J. Trump,139
+Monroe,Henrietta 19,President,,CON,Donald J. Trump,24
+Monroe,Henrietta 19,President,,WOR,Kamala D. Harris,18
+Monroe,Henrietta 19,President,,,Write-in,5
+Monroe,Henrietta 20,President,,DEM,Kamala D. Harris,335
+Monroe,Henrietta 20,President,,REP,Donald J. Trump,253
+Monroe,Henrietta 20,President,,CON,Donald J. Trump,39
+Monroe,Henrietta 20,President,,WOR,Kamala D. Harris,23
+Monroe,Henrietta 20,President,,,Write-in,5
+Monroe,Henrietta 21,President,,DEM,Kamala D. Harris,467
+Monroe,Henrietta 21,President,,REP,Donald J. Trump,265
+Monroe,Henrietta 21,President,,CON,Donald J. Trump,39
+Monroe,Henrietta 21,President,,WOR,Kamala D. Harris,28
+Monroe,Henrietta 21,President,,,Write-in,10
+Monroe,Henrietta 22,President,,DEM,Kamala D. Harris,370
+Monroe,Henrietta 22,President,,REP,Donald J. Trump,208
+Monroe,Henrietta 22,President,,CON,Donald J. Trump,30
+Monroe,Henrietta 22,President,,WOR,Kamala D. Harris,20
+Monroe,Henrietta 22,President,,,Write-in,14
+Monroe,Henrietta 23,President,,DEM,Kamala D. Harris,308
+Monroe,Henrietta 23,President,,REP,Donald J. Trump,158
+Monroe,Henrietta 23,President,,CON,Donald J. Trump,28
+Monroe,Henrietta 23,President,,WOR,Kamala D. Harris,20
+Monroe,Henrietta 23,President,,,Write-in,2
+Monroe,Henrietta 24,President,,DEM,Kamala D. Harris,440
+Monroe,Henrietta 24,President,,REP,Donald J. Trump,176
+Monroe,Henrietta 24,President,,CON,Donald J. Trump,25
+Monroe,Henrietta 24,President,,WOR,Kamala D. Harris,29
+Monroe,Henrietta 24,President,,,Write-in,10
+Monroe,Henrietta 25,President,,DEM,Kamala D. Harris,515
+Monroe,Henrietta 25,President,,REP,Donald J. Trump,259
+Monroe,Henrietta 25,President,,CON,Donald J. Trump,40
+Monroe,Henrietta 25,President,,WOR,Kamala D. Harris,30
+Monroe,Henrietta 25,President,,,Write-in,11
+Monroe,Henrietta 26,President,,DEM,Kamala D. Harris,520
+Monroe,Henrietta 26,President,,REP,Donald J. Trump,335
+Monroe,Henrietta 26,President,,CON,Donald J. Trump,65
+Monroe,Henrietta 26,President,,WOR,Kamala D. Harris,32
+Monroe,Henrietta 26,President,,,Write-in,4
+Monroe,Henrietta 27,President,,DEM,Kamala D. Harris,405
+Monroe,Henrietta 27,President,,REP,Donald J. Trump,265
+Monroe,Henrietta 27,President,,CON,Donald J. Trump,43
+Monroe,Henrietta 27,President,,WOR,Kamala D. Harris,20
+Monroe,Henrietta 27,President,,,Write-in,8
+Monroe,Henrietta 28,President,,DEM,Kamala D. Harris,392
+Monroe,Henrietta 28,President,,REP,Donald J. Trump,281
+Monroe,Henrietta 28,President,,CON,Donald J. Trump,40
+Monroe,Henrietta 28,President,,WOR,Kamala D. Harris,23
+Monroe,Henrietta 28,President,,,Write-in,8
+Monroe,Irondequoit 1,President,,DEM,Kamala D. Harris,647
+Monroe,Irondequoit 1,President,,REP,Donald J. Trump,377
+Monroe,Irondequoit 1,President,,CON,Donald J. Trump,62
+Monroe,Irondequoit 1,President,,WOR,Kamala D. Harris,36
+Monroe,Irondequoit 1,President,,,Write-in,9
+Monroe,Irondequoit 2,President,,DEM,Kamala D. Harris,402
+Monroe,Irondequoit 2,President,,REP,Donald J. Trump,230
+Monroe,Irondequoit 2,President,,CON,Donald J. Trump,32
+Monroe,Irondequoit 2,President,,WOR,Kamala D. Harris,27
+Monroe,Irondequoit 2,President,,,Write-in,7
+Monroe,Irondequoit 3,President,,DEM,Kamala D. Harris,250
+Monroe,Irondequoit 3,President,,REP,Donald J. Trump,192
+Monroe,Irondequoit 3,President,,CON,Donald J. Trump,40
+Monroe,Irondequoit 3,President,,WOR,Kamala D. Harris,22
+Monroe,Irondequoit 3,President,,,Write-in,4
+Monroe,Irondequoit 4,President,,DEM,Kamala D. Harris,324
+Monroe,Irondequoit 4,President,,REP,Donald J. Trump,244
+Monroe,Irondequoit 4,President,,CON,Donald J. Trump,20
+Monroe,Irondequoit 4,President,,WOR,Kamala D. Harris,17
+Monroe,Irondequoit 4,President,,,Write-in,4
+Monroe,Irondequoit 5,President,,DEM,Kamala D. Harris,535
+Monroe,Irondequoit 5,President,,REP,Donald J. Trump,205
+Monroe,Irondequoit 5,President,,CON,Donald J. Trump,32
+Monroe,Irondequoit 5,President,,WOR,Kamala D. Harris,50
+Monroe,Irondequoit 5,President,,,Write-in,13
+Monroe,Irondequoit 6,President,,DEM,Kamala D. Harris,346
+Monroe,Irondequoit 6,President,,REP,Donald J. Trump,124
+Monroe,Irondequoit 6,President,,CON,Donald J. Trump,28
+Monroe,Irondequoit 6,President,,WOR,Kamala D. Harris,21
+Monroe,Irondequoit 6,President,,,Write-in,8
+Monroe,Irondequoit 7,President,,DEM,Kamala D. Harris,336
+Monroe,Irondequoit 7,President,,REP,Donald J. Trump,160
+Monroe,Irondequoit 7,President,,CON,Donald J. Trump,43
+Monroe,Irondequoit 7,President,,WOR,Kamala D. Harris,19
+Monroe,Irondequoit 7,President,,,Write-in,6
+Monroe,Irondequoit 8,President,,DEM,Kamala D. Harris,228
+Monroe,Irondequoit 8,President,,REP,Donald J. Trump,157
+Monroe,Irondequoit 8,President,,CON,Donald J. Trump,36
+Monroe,Irondequoit 8,President,,WOR,Kamala D. Harris,9
+Monroe,Irondequoit 8,President,,,Write-in,8
+Monroe,Irondequoit 9,President,,DEM,Kamala D. Harris,223
+Monroe,Irondequoit 9,President,,REP,Donald J. Trump,189
+Monroe,Irondequoit 9,President,,CON,Donald J. Trump,23
+Monroe,Irondequoit 9,President,,WOR,Kamala D. Harris,14
+Monroe,Irondequoit 9,President,,,Write-in,5
+Monroe,Irondequoit 10,President,,DEM,Kamala D. Harris,424
+Monroe,Irondequoit 10,President,,REP,Donald J. Trump,209
+Monroe,Irondequoit 10,President,,CON,Donald J. Trump,41
+Monroe,Irondequoit 10,President,,WOR,Kamala D. Harris,23
+Monroe,Irondequoit 10,President,,,Write-in,8
+Monroe,Irondequoit 11,President,,DEM,Kamala D. Harris,456
+Monroe,Irondequoit 11,President,,REP,Donald J. Trump,283
+Monroe,Irondequoit 11,President,,CON,Donald J. Trump,51
+Monroe,Irondequoit 11,President,,WOR,Kamala D. Harris,31
+Monroe,Irondequoit 11,President,,,Write-in,7
+Monroe,Irondequoit 12,President,,DEM,Kamala D. Harris,88
+Monroe,Irondequoit 12,President,,REP,Donald J. Trump,64
+Monroe,Irondequoit 12,President,,CON,Donald J. Trump,9
+Monroe,Irondequoit 12,President,,WOR,Kamala D. Harris,5
+Monroe,Irondequoit 13,President,,DEM,Kamala D. Harris,366
+Monroe,Irondequoit 13,President,,REP,Donald J. Trump,132
+Monroe,Irondequoit 13,President,,CON,Donald J. Trump,12
+Monroe,Irondequoit 13,President,,WOR,Kamala D. Harris,33
+Monroe,Irondequoit 13,President,,,Write-in,3
+Monroe,Irondequoit 14,President,,DEM,Kamala D. Harris,322
+Monroe,Irondequoit 14,President,,REP,Donald J. Trump,236
+Monroe,Irondequoit 14,President,,CON,Donald J. Trump,33
+Monroe,Irondequoit 14,President,,WOR,Kamala D. Harris,22
+Monroe,Irondequoit 14,President,,,Write-in,4
+Monroe,Irondequoit 15,President,,DEM,Kamala D. Harris,294
+Monroe,Irondequoit 15,President,,REP,Donald J. Trump,170
+Monroe,Irondequoit 15,President,,CON,Donald J. Trump,27
+Monroe,Irondequoit 15,President,,WOR,Kamala D. Harris,22
+Monroe,Irondequoit 15,President,,,Write-in,4
+Monroe,Irondequoit 16,President,,DEM,Kamala D. Harris,339
+Monroe,Irondequoit 16,President,,REP,Donald J. Trump,154
+Monroe,Irondequoit 16,President,,CON,Donald J. Trump,26
+Monroe,Irondequoit 16,President,,WOR,Kamala D. Harris,29
+Monroe,Irondequoit 16,President,,,Write-in,6
+Monroe,Irondequoit 17,President,,DEM,Kamala D. Harris,480
+Monroe,Irondequoit 17,President,,REP,Donald J. Trump,187
+Monroe,Irondequoit 17,President,,CON,Donald J. Trump,43
+Monroe,Irondequoit 17,President,,WOR,Kamala D. Harris,47
+Monroe,Irondequoit 17,President,,,Write-in,8
+Monroe,Irondequoit 18,President,,DEM,Kamala D. Harris,325
+Monroe,Irondequoit 18,President,,REP,Donald J. Trump,210
+Monroe,Irondequoit 18,President,,CON,Donald J. Trump,28
+Monroe,Irondequoit 18,President,,WOR,Kamala D. Harris,23
+Monroe,Irondequoit 18,President,,,Write-in,3
+Monroe,Irondequoit 19,President,,DEM,Kamala D. Harris,348
+Monroe,Irondequoit 19,President,,REP,Donald J. Trump,114
+Monroe,Irondequoit 19,President,,CON,Donald J. Trump,11
+Monroe,Irondequoit 19,President,,WOR,Kamala D. Harris,21
+Monroe,Irondequoit 19,President,,,Write-in,5
+Monroe,Irondequoit 20,President,,DEM,Kamala D. Harris,288
+Monroe,Irondequoit 20,President,,REP,Donald J. Trump,145
+Monroe,Irondequoit 20,President,,CON,Donald J. Trump,33
+Monroe,Irondequoit 20,President,,WOR,Kamala D. Harris,27
+Monroe,Irondequoit 20,President,,,Write-in,4
+Monroe,Irondequoit 21,President,,DEM,Kamala D. Harris,504
+Monroe,Irondequoit 21,President,,REP,Donald J. Trump,228
+Monroe,Irondequoit 21,President,,CON,Donald J. Trump,34
+Monroe,Irondequoit 21,President,,WOR,Kamala D. Harris,50
+Monroe,Irondequoit 21,President,,,Write-in,9
+Monroe,Irondequoit 22,President,,DEM,Kamala D. Harris,260
+Monroe,Irondequoit 22,President,,REP,Donald J. Trump,147
+Monroe,Irondequoit 22,President,,CON,Donald J. Trump,35
+Monroe,Irondequoit 22,President,,WOR,Kamala D. Harris,23
+Monroe,Irondequoit 22,President,,,Write-in,2
+Monroe,Irondequoit 23,President,,DEM,Kamala D. Harris,496
+Monroe,Irondequoit 23,President,,REP,Donald J. Trump,252
+Monroe,Irondequoit 23,President,,CON,Donald J. Trump,27
+Monroe,Irondequoit 23,President,,WOR,Kamala D. Harris,46
+Monroe,Irondequoit 23,President,,,Write-in,14
+Monroe,Irondequoit 24,President,,DEM,Kamala D. Harris,245
+Monroe,Irondequoit 24,President,,REP,Donald J. Trump,96
+Monroe,Irondequoit 24,President,,CON,Donald J. Trump,30
+Monroe,Irondequoit 24,President,,WOR,Kamala D. Harris,28
+Monroe,Irondequoit 24,President,,,Write-in,2
+Monroe,Irondequoit 25,President,,DEM,Kamala D. Harris,600
+Monroe,Irondequoit 25,President,,REP,Donald J. Trump,344
+Monroe,Irondequoit 25,President,,CON,Donald J. Trump,65
+Monroe,Irondequoit 25,President,,WOR,Kamala D. Harris,36
+Monroe,Irondequoit 25,President,,,Write-in,10
+Monroe,Irondequoit 26,President,,DEM,Kamala D. Harris,320
+Monroe,Irondequoit 26,President,,REP,Donald J. Trump,165
+Monroe,Irondequoit 26,President,,CON,Donald J. Trump,17
+Monroe,Irondequoit 26,President,,WOR,Kamala D. Harris,21
+Monroe,Irondequoit 26,President,,,Write-in,2
+Monroe,Irondequoit 27,President,,DEM,Kamala D. Harris,362
+Monroe,Irondequoit 27,President,,REP,Donald J. Trump,195
+Monroe,Irondequoit 27,President,,CON,Donald J. Trump,27
+Monroe,Irondequoit 27,President,,WOR,Kamala D. Harris,25
+Monroe,Irondequoit 27,President,,,Write-in,13
+Monroe,Irondequoit 28,President,,DEM,Kamala D. Harris,357
+Monroe,Irondequoit 28,President,,REP,Donald J. Trump,298
+Monroe,Irondequoit 28,President,,CON,Donald J. Trump,56
+Monroe,Irondequoit 28,President,,WOR,Kamala D. Harris,18
+Monroe,Irondequoit 28,President,,,Write-in,3
+Monroe,Irondequoit 29,President,,DEM,Kamala D. Harris,663
+Monroe,Irondequoit 29,President,,REP,Donald J. Trump,329
+Monroe,Irondequoit 29,President,,CON,Donald J. Trump,50
+Monroe,Irondequoit 29,President,,WOR,Kamala D. Harris,54
+Monroe,Irondequoit 29,President,,,Write-in,13
+Monroe,Irondequoit 30,President,,DEM,Kamala D. Harris,215
+Monroe,Irondequoit 30,President,,REP,Donald J. Trump,131
+Monroe,Irondequoit 30,President,,CON,Donald J. Trump,22
+Monroe,Irondequoit 30,President,,WOR,Kamala D. Harris,24
+Monroe,Irondequoit 30,President,,,Write-in,5
+Monroe,Irondequoit 31,President,,DEM,Kamala D. Harris,302
+Monroe,Irondequoit 31,President,,REP,Donald J. Trump,164
+Monroe,Irondequoit 31,President,,CON,Donald J. Trump,25
+Monroe,Irondequoit 31,President,,WOR,Kamala D. Harris,22
+Monroe,Irondequoit 31,President,,,Write-in,3
+Monroe,Irondequoit 32,President,,DEM,Kamala D. Harris,494
+Monroe,Irondequoit 32,President,,REP,Donald J. Trump,332
+Monroe,Irondequoit 32,President,,CON,Donald J. Trump,38
+Monroe,Irondequoit 32,President,,WOR,Kamala D. Harris,32
+Monroe,Irondequoit 32,President,,,Write-in,9
+Monroe,Irondequoit 33,President,,DEM,Kamala D. Harris,296
+Monroe,Irondequoit 33,President,,REP,Donald J. Trump,150
+Monroe,Irondequoit 33,President,,CON,Donald J. Trump,22
+Monroe,Irondequoit 33,President,,WOR,Kamala D. Harris,25
+Monroe,Irondequoit 33,President,,,Write-in,2
+Monroe,Irondequoit 34,President,,DEM,Kamala D. Harris,319
+Monroe,Irondequoit 34,President,,REP,Donald J. Trump,250
+Monroe,Irondequoit 34,President,,CON,Donald J. Trump,35
+Monroe,Irondequoit 34,President,,WOR,Kamala D. Harris,21
+Monroe,Irondequoit 34,President,,,Write-in,6
+Monroe,Irondequoit 35,President,,DEM,Kamala D. Harris,413
+Monroe,Irondequoit 35,President,,REP,Donald J. Trump,329
+Monroe,Irondequoit 35,President,,CON,Donald J. Trump,56
+Monroe,Irondequoit 35,President,,WOR,Kamala D. Harris,33
+Monroe,Irondequoit 35,President,,,Write-in,7
+Monroe,Irondequoit 36,President,,DEM,Kamala D. Harris,272
+Monroe,Irondequoit 36,President,,REP,Donald J. Trump,123
+Monroe,Irondequoit 36,President,,CON,Donald J. Trump,20
+Monroe,Irondequoit 36,President,,WOR,Kamala D. Harris,15
+Monroe,Irondequoit 36,President,,,Write-in,1
+Monroe,Irondequoit 37,President,,DEM,Kamala D. Harris,419
+Monroe,Irondequoit 37,President,,REP,Donald J. Trump,266
+Monroe,Irondequoit 37,President,,CON,Donald J. Trump,24
+Monroe,Irondequoit 37,President,,WOR,Kamala D. Harris,21
+Monroe,Irondequoit 37,President,,,Write-in,2
+Monroe,Irondequoit 38,President,,DEM,Kamala D. Harris,489
+Monroe,Irondequoit 38,President,,REP,Donald J. Trump,189
+Monroe,Irondequoit 38,President,,CON,Donald J. Trump,33
+Monroe,Irondequoit 38,President,,WOR,Kamala D. Harris,34
+Monroe,Irondequoit 38,President,,,Write-in,6
+Monroe,Irondequoit 39,President,,DEM,Kamala D. Harris,387
+Monroe,Irondequoit 39,President,,REP,Donald J. Trump,169
+Monroe,Irondequoit 39,President,,CON,Donald J. Trump,19
+Monroe,Irondequoit 39,President,,WOR,Kamala D. Harris,19
+Monroe,Irondequoit 39,President,,,Write-in,5
+Monroe,Irondequoit 40,President,,DEM,Kamala D. Harris,177
+Monroe,Irondequoit 40,President,,REP,Donald J. Trump,102
+Monroe,Irondequoit 40,President,,CON,Donald J. Trump,12
+Monroe,Irondequoit 40,President,,WOR,Kamala D. Harris,9
+Monroe,Irondequoit 40,President,,,Write-in,4
+Monroe,Irondequoit 41,President,,DEM,Kamala D. Harris,308
+Monroe,Irondequoit 41,President,,REP,Donald J. Trump,117
+Monroe,Irondequoit 41,President,,CON,Donald J. Trump,14
+Monroe,Irondequoit 41,President,,WOR,Kamala D. Harris,15
+Monroe,Irondequoit 41,President,,,Write-in,5
+Monroe,Irondequoit 42,President,,DEM,Kamala D. Harris,241
+Monroe,Irondequoit 42,President,,REP,Donald J. Trump,162
+Monroe,Irondequoit 42,President,,CON,Donald J. Trump,29
+Monroe,Irondequoit 42,President,,WOR,Kamala D. Harris,17
+Monroe,Irondequoit 42,President,,,Write-in,6
+Monroe,Irondequoit 43,President,,DEM,Kamala D. Harris,221
+Monroe,Irondequoit 43,President,,REP,Donald J. Trump,137
+Monroe,Irondequoit 43,President,,CON,Donald J. Trump,19
+Monroe,Irondequoit 43,President,,WOR,Kamala D. Harris,15
+Monroe,Irondequoit 43,President,,,Write-in,6
+Monroe,Irondequoit 44,President,,DEM,Kamala D. Harris,378
+Monroe,Irondequoit 44,President,,REP,Donald J. Trump,265
+Monroe,Irondequoit 44,President,,CON,Donald J. Trump,38
+Monroe,Irondequoit 44,President,,WOR,Kamala D. Harris,22
+Monroe,Irondequoit 44,President,,,Write-in,9
+Monroe,Irondequoit 45,President,,DEM,Kamala D. Harris,404
+Monroe,Irondequoit 45,President,,REP,Donald J. Trump,220
+Monroe,Irondequoit 45,President,,CON,Donald J. Trump,23
+Monroe,Irondequoit 45,President,,WOR,Kamala D. Harris,18
+Monroe,Irondequoit 45,President,,,Write-in,4
+Monroe,Mendon 1,President,,DEM,Kamala D. Harris,413
+Monroe,Mendon 1,President,,REP,Donald J. Trump,296
+Monroe,Mendon 1,President,,CON,Donald J. Trump,63
+Monroe,Mendon 1,President,,WOR,Kamala D. Harris,16
+Monroe,Mendon 1,President,,,Write-in,5
+Monroe,Mendon 2,President,,DEM,Kamala D. Harris,446
+Monroe,Mendon 2,President,,REP,Donald J. Trump,224
+Monroe,Mendon 2,President,,CON,Donald J. Trump,38
+Monroe,Mendon 2,President,,WOR,Kamala D. Harris,36
+Monroe,Mendon 2,President,,,Write-in,8
+Monroe,Mendon 3,President,,DEM,Kamala D. Harris,381
+Monroe,Mendon 3,President,,REP,Donald J. Trump,273
+Monroe,Mendon 3,President,,CON,Donald J. Trump,62
+Monroe,Mendon 3,President,,WOR,Kamala D. Harris,23
+Monroe,Mendon 3,President,,,Write-in,11
+Monroe,Mendon 4,President,,DEM,Kamala D. Harris,352
+Monroe,Mendon 4,President,,REP,Donald J. Trump,237
+Monroe,Mendon 4,President,,CON,Donald J. Trump,27
+Monroe,Mendon 4,President,,WOR,Kamala D. Harris,23
+Monroe,Mendon 4,President,,,Write-in,7
+Monroe,Mendon 5,President,,DEM,Kamala D. Harris,385
+Monroe,Mendon 5,President,,REP,Donald J. Trump,254
+Monroe,Mendon 5,President,,CON,Donald J. Trump,57
+Monroe,Mendon 5,President,,WOR,Kamala D. Harris,19
+Monroe,Mendon 5,President,,,Write-in,6
+Monroe,Mendon 6,President,,DEM,Kamala D. Harris,359
+Monroe,Mendon 6,President,,REP,Donald J. Trump,292
+Monroe,Mendon 6,President,,CON,Donald J. Trump,58
+Monroe,Mendon 6,President,,WOR,Kamala D. Harris,12
+Monroe,Mendon 6,President,,,Write-in,7
+Monroe,Mendon 7,President,,DEM,Kamala D. Harris,378
+Monroe,Mendon 7,President,,REP,Donald J. Trump,305
+Monroe,Mendon 7,President,,CON,Donald J. Trump,49
+Monroe,Mendon 7,President,,WOR,Kamala D. Harris,15
+Monroe,Mendon 7,President,,,Write-in,11
+Monroe,Mendon 8,President,,DEM,Kamala D. Harris,178
+Monroe,Mendon 8,President,,REP,Donald J. Trump,116
+Monroe,Mendon 8,President,,CON,Donald J. Trump,15
+Monroe,Mendon 8,President,,WOR,Kamala D. Harris,7
+Monroe,Mendon 8,President,,,Write-in,1
+Monroe,Mendon 9,President,,DEM,Kamala D. Harris,296
+Monroe,Mendon 9,President,,REP,Donald J. Trump,235
+Monroe,Mendon 9,President,,CON,Donald J. Trump,47
+Monroe,Mendon 9,President,,WOR,Kamala D. Harris,16
+Monroe,Mendon 9,President,,,Write-in,8
+Monroe,Ogden 1,President,,DEM,Kamala D. Harris,249
+Monroe,Ogden 1,President,,REP,Donald J. Trump,215
+Monroe,Ogden 1,President,,CON,Donald J. Trump,31
+Monroe,Ogden 1,President,,WOR,Kamala D. Harris,12
+Monroe,Ogden 1,President,,,Write-in,3
+Monroe,Ogden 2,President,,DEM,Kamala D. Harris,212
+Monroe,Ogden 2,President,,REP,Donald J. Trump,265
+Monroe,Ogden 2,President,,CON,Donald J. Trump,32
+Monroe,Ogden 2,President,,WOR,Kamala D. Harris,9
+Monroe,Ogden 2,President,,,Write-in,5
+Monroe,Ogden 3,President,,DEM,Kamala D. Harris,306
+Monroe,Ogden 3,President,,REP,Donald J. Trump,383
+Monroe,Ogden 3,President,,CON,Donald J. Trump,75
+Monroe,Ogden 3,President,,WOR,Kamala D. Harris,25
+Monroe,Ogden 3,President,,,Write-in,15
+Monroe,Ogden 4,President,,DEM,Kamala D. Harris,163
+Monroe,Ogden 4,President,,REP,Donald J. Trump,261
+Monroe,Ogden 4,President,,CON,Donald J. Trump,39
+Monroe,Ogden 4,President,,WOR,Kamala D. Harris,6
+Monroe,Ogden 4,President,,,Write-in,7
+Monroe,Ogden 5,President,,DEM,Kamala D. Harris,171
+Monroe,Ogden 5,President,,REP,Donald J. Trump,219
+Monroe,Ogden 5,President,,CON,Donald J. Trump,44
+Monroe,Ogden 5,President,,WOR,Kamala D. Harris,12
+Monroe,Ogden 5,President,,,Write-in,2
+Monroe,Ogden 6,President,,DEM,Kamala D. Harris,367
+Monroe,Ogden 6,President,,REP,Donald J. Trump,345
+Monroe,Ogden 6,President,,CON,Donald J. Trump,37
+Monroe,Ogden 6,President,,WOR,Kamala D. Harris,24
+Monroe,Ogden 6,President,,,Write-in,4
+Monroe,Ogden 7,President,,DEM,Kamala D. Harris,176
+Monroe,Ogden 7,President,,REP,Donald J. Trump,406
+Monroe,Ogden 7,President,,CON,Donald J. Trump,73
+Monroe,Ogden 7,President,,WOR,Kamala D. Harris,21
+Monroe,Ogden 7,President,,,Write-in,3
+Monroe,Ogden 8,President,,DEM,Kamala D. Harris,265
+Monroe,Ogden 8,President,,REP,Donald J. Trump,351
+Monroe,Ogden 8,President,,CON,Donald J. Trump,42
+Monroe,Ogden 8,President,,WOR,Kamala D. Harris,15
+Monroe,Ogden 8,President,,,Write-in,3
+Monroe,Ogden 9,President,,DEM,Kamala D. Harris,182
+Monroe,Ogden 9,President,,REP,Donald J. Trump,175
+Monroe,Ogden 9,President,,CON,Donald J. Trump,26
+Monroe,Ogden 9,President,,WOR,Kamala D. Harris,12
+Monroe,Ogden 9,President,,,Write-in,4
+Monroe,Ogden 10,President,,DEM,Kamala D. Harris,215
+Monroe,Ogden 10,President,,REP,Donald J. Trump,238
+Monroe,Ogden 10,President,,CON,Donald J. Trump,47
+Monroe,Ogden 10,President,,WOR,Kamala D. Harris,10
+Monroe,Ogden 10,President,,,Write-in,8
+Monroe,Ogden 11,President,,DEM,Kamala D. Harris,215
+Monroe,Ogden 11,President,,REP,Donald J. Trump,299
+Monroe,Ogden 11,President,,CON,Donald J. Trump,61
+Monroe,Ogden 11,President,,WOR,Kamala D. Harris,11
+Monroe,Ogden 11,President,,,Write-in,5
+Monroe,Ogden 12,President,,DEM,Kamala D. Harris,206
+Monroe,Ogden 12,President,,REP,Donald J. Trump,366
+Monroe,Ogden 12,President,,CON,Donald J. Trump,45
+Monroe,Ogden 12,President,,WOR,Kamala D. Harris,13
+Monroe,Ogden 12,President,,,Write-in,3
+Monroe,Ogden 13,President,,DEM,Kamala D. Harris,227
+Monroe,Ogden 13,President,,REP,Donald J. Trump,289
+Monroe,Ogden 13,President,,CON,Donald J. Trump,40
+Monroe,Ogden 13,President,,WOR,Kamala D. Harris,25
+Monroe,Ogden 13,President,,,Write-in,6
+Monroe,Ogden 14,President,,DEM,Kamala D. Harris,364
+Monroe,Ogden 14,President,,REP,Donald J. Trump,526
+Monroe,Ogden 14,President,,CON,Donald J. Trump,72
+Monroe,Ogden 14,President,,WOR,Kamala D. Harris,23
+Monroe,Ogden 14,President,,,Write-in,11
+Monroe,Ogden 15,President,,DEM,Kamala D. Harris,256
+Monroe,Ogden 15,President,,REP,Donald J. Trump,390
+Monroe,Ogden 15,President,,CON,Donald J. Trump,62
+Monroe,Ogden 15,President,,WOR,Kamala D. Harris,10
+Monroe,Ogden 15,President,,,Write-in,12
+Monroe,Ogden 16,President,,DEM,Kamala D. Harris,241
+Monroe,Ogden 16,President,,REP,Donald J. Trump,292
+Monroe,Ogden 16,President,,CON,Donald J. Trump,54
+Monroe,Ogden 16,President,,WOR,Kamala D. Harris,13
+Monroe,Ogden 16,President,,,Write-in,7
+Monroe,Ogden 17,President,,DEM,Kamala D. Harris,227
+Monroe,Ogden 17,President,,REP,Donald J. Trump,319
+Monroe,Ogden 17,President,,CON,Donald J. Trump,63
+Monroe,Ogden 17,President,,WOR,Kamala D. Harris,15
+Monroe,Ogden 17,President,,,Write-in,8
+Monroe,Ogden 18,President,,DEM,Kamala D. Harris,366
+Monroe,Ogden 18,President,,REP,Donald J. Trump,384
+Monroe,Ogden 18,President,,CON,Donald J. Trump,59
+Monroe,Ogden 18,President,,WOR,Kamala D. Harris,36
+Monroe,Ogden 18,President,,,Write-in,8
+Monroe,Parma 1,President,,DEM,Kamala D. Harris,244
+Monroe,Parma 1,President,,REP,Donald J. Trump,346
+Monroe,Parma 1,President,,CON,Donald J. Trump,61
+Monroe,Parma 1,President,,WOR,Kamala D. Harris,18
+Monroe,Parma 1,President,,,Write-in,5
+Monroe,Parma 2,President,,DEM,Kamala D. Harris,224
+Monroe,Parma 2,President,,REP,Donald J. Trump,379
+Monroe,Parma 2,President,,CON,Donald J. Trump,52
+Monroe,Parma 2,President,,WOR,Kamala D. Harris,17
+Monroe,Parma 2,President,,,Write-in,8
+Monroe,Parma 3,President,,DEM,Kamala D. Harris,158
+Monroe,Parma 3,President,,REP,Donald J. Trump,334
+Monroe,Parma 3,President,,CON,Donald J. Trump,48
+Monroe,Parma 3,President,,WOR,Kamala D. Harris,20
+Monroe,Parma 3,President,,,Write-in,3
+Monroe,Parma 4,President,,DEM,Kamala D. Harris,264
+Monroe,Parma 4,President,,REP,Donald J. Trump,557
+Monroe,Parma 4,President,,CON,Donald J. Trump,99
+Monroe,Parma 4,President,,WOR,Kamala D. Harris,25
+Monroe,Parma 4,President,,,Write-in,11
+Monroe,Parma 5,President,,DEM,Kamala D. Harris,206
+Monroe,Parma 5,President,,REP,Donald J. Trump,283
+Monroe,Parma 5,President,,CON,Donald J. Trump,28
+Monroe,Parma 5,President,,WOR,Kamala D. Harris,11
+Monroe,Parma 5,President,,,Write-in,1
+Monroe,Parma 6,President,,DEM,Kamala D. Harris,234
+Monroe,Parma 6,President,,REP,Donald J. Trump,502
+Monroe,Parma 6,President,,CON,Donald J. Trump,74
+Monroe,Parma 6,President,,WOR,Kamala D. Harris,18
+Monroe,Parma 6,President,,,Write-in,5
+Monroe,Parma 7,President,,DEM,Kamala D. Harris,245
+Monroe,Parma 7,President,,REP,Donald J. Trump,444
+Monroe,Parma 7,President,,CON,Donald J. Trump,49
+Monroe,Parma 7,President,,WOR,Kamala D. Harris,19
+Monroe,Parma 7,President,,,Write-in,7
+Monroe,Parma 8,President,,DEM,Kamala D. Harris,245
+Monroe,Parma 8,President,,REP,Donald J. Trump,329
+Monroe,Parma 8,President,,CON,Donald J. Trump,51
+Monroe,Parma 8,President,,WOR,Kamala D. Harris,17
+Monroe,Parma 8,President,,,Write-in,4
+Monroe,Parma 9,President,,DEM,Kamala D. Harris,203
+Monroe,Parma 9,President,,REP,Donald J. Trump,383
+Monroe,Parma 9,President,,CON,Donald J. Trump,37
+Monroe,Parma 9,President,,WOR,Kamala D. Harris,12
+Monroe,Parma 9,President,,,Write-in,5
+Monroe,Parma 10,President,,DEM,Kamala D. Harris,163
+Monroe,Parma 10,President,,REP,Donald J. Trump,308
+Monroe,Parma 10,President,,CON,Donald J. Trump,64
+Monroe,Parma 10,President,,WOR,Kamala D. Harris,14
+Monroe,Parma 10,President,,,Write-in,3
+Monroe,Parma 11,President,,DEM,Kamala D. Harris,230
+Monroe,Parma 11,President,,REP,Donald J. Trump,320
+Monroe,Parma 11,President,,CON,Donald J. Trump,47
+Monroe,Parma 11,President,,WOR,Kamala D. Harris,17
+Monroe,Parma 11,President,,,Write-in,9
+Monroe,Parma 12,President,,DEM,Kamala D. Harris,295
+Monroe,Parma 12,President,,REP,Donald J. Trump,346
+Monroe,Parma 12,President,,CON,Donald J. Trump,53
+Monroe,Parma 12,President,,WOR,Kamala D. Harris,16
+Monroe,Parma 12,President,,,Write-in,7
+Monroe,Parma 13,President,,DEM,Kamala D. Harris,411
+Monroe,Parma 13,President,,REP,Donald J. Trump,702
+Monroe,Parma 13,President,,CON,Donald J. Trump,92
+Monroe,Parma 13,President,,WOR,Kamala D. Harris,27
+Monroe,Parma 13,President,,,Write-in,9
+Monroe,Penfield 1,President,,DEM,Kamala D. Harris,799
+Monroe,Penfield 1,President,,REP,Donald J. Trump,510
+Monroe,Penfield 1,President,,CON,Donald J. Trump,76
+Monroe,Penfield 1,President,,WOR,Kamala D. Harris,58
+Monroe,Penfield 1,President,,,Write-in,10
+Monroe,Penfield 2,President,,DEM,Kamala D. Harris,289
+Monroe,Penfield 2,President,,REP,Donald J. Trump,150
+Monroe,Penfield 2,President,,CON,Donald J. Trump,18
+Monroe,Penfield 2,President,,WOR,Kamala D. Harris,22
+Monroe,Penfield 2,President,,,Write-in,5
+Monroe,Penfield 3,President,,DEM,Kamala D. Harris,228
+Monroe,Penfield 3,President,,REP,Donald J. Trump,206
+Monroe,Penfield 3,President,,CON,Donald J. Trump,27
+Monroe,Penfield 3,President,,WOR,Kamala D. Harris,10
+Monroe,Penfield 3,President,,,Write-in,4
+Monroe,Penfield 4,President,,DEM,Kamala D. Harris,367
+Monroe,Penfield 4,President,,REP,Donald J. Trump,346
+Monroe,Penfield 4,President,,CON,Donald J. Trump,73
+Monroe,Penfield 4,President,,WOR,Kamala D. Harris,12
+Monroe,Penfield 4,President,,,Write-in,11
+Monroe,Penfield 5,President,,DEM,Kamala D. Harris,305
+Monroe,Penfield 5,President,,REP,Donald J. Trump,190
+Monroe,Penfield 5,President,,CON,Donald J. Trump,32
+Monroe,Penfield 5,President,,WOR,Kamala D. Harris,28
+Monroe,Penfield 5,President,,,Write-in,8
+Monroe,Penfield 6,President,,DEM,Kamala D. Harris,199
+Monroe,Penfield 6,President,,REP,Donald J. Trump,197
+Monroe,Penfield 6,President,,CON,Donald J. Trump,31
+Monroe,Penfield 6,President,,WOR,Kamala D. Harris,9
+Monroe,Penfield 6,President,,,Write-in,6
+Monroe,Penfield 7,President,,DEM,Kamala D. Harris,289
+Monroe,Penfield 7,President,,REP,Donald J. Trump,125
+Monroe,Penfield 7,President,,CON,Donald J. Trump,23
+Monroe,Penfield 7,President,,WOR,Kamala D. Harris,19
+Monroe,Penfield 7,President,,,Write-in,6
+Monroe,Penfield 8,President,,DEM,Kamala D. Harris,229
+Monroe,Penfield 8,President,,REP,Donald J. Trump,126
+Monroe,Penfield 8,President,,CON,Donald J. Trump,13
+Monroe,Penfield 8,President,,WOR,Kamala D. Harris,14
+Monroe,Penfield 8,President,,,Write-in,5
+Monroe,Penfield 9,President,,DEM,Kamala D. Harris,378
+Monroe,Penfield 9,President,,REP,Donald J. Trump,129
+Monroe,Penfield 9,President,,CON,Donald J. Trump,18
+Monroe,Penfield 9,President,,WOR,Kamala D. Harris,19
+Monroe,Penfield 9,President,,,Write-in,9
+Monroe,Penfield 10,President,,DEM,Kamala D. Harris,165
+Monroe,Penfield 10,President,,REP,Donald J. Trump,119
+Monroe,Penfield 10,President,,CON,Donald J. Trump,19
+Monroe,Penfield 10,President,,WOR,Kamala D. Harris,16
+Monroe,Penfield 10,President,,,Write-in,9
+Monroe,Penfield 11,President,,DEM,Kamala D. Harris,322
+Monroe,Penfield 11,President,,REP,Donald J. Trump,159
+Monroe,Penfield 11,President,,CON,Donald J. Trump,26
+Monroe,Penfield 11,President,,WOR,Kamala D. Harris,21
+Monroe,Penfield 11,President,,,Write-in,8
+Monroe,Penfield 12,President,,DEM,Kamala D. Harris,333
+Monroe,Penfield 12,President,,REP,Donald J. Trump,136
+Monroe,Penfield 12,President,,CON,Donald J. Trump,23
+Monroe,Penfield 12,President,,WOR,Kamala D. Harris,20
+Monroe,Penfield 12,President,,,Write-in,5
+Monroe,Penfield 13,President,,DEM,Kamala D. Harris,449
+Monroe,Penfield 13,President,,REP,Donald J. Trump,320
+Monroe,Penfield 13,President,,CON,Donald J. Trump,41
+Monroe,Penfield 13,President,,WOR,Kamala D. Harris,25
+Monroe,Penfield 13,President,,,Write-in,11
+Monroe,Penfield 14,President,,DEM,Kamala D. Harris,279
+Monroe,Penfield 14,President,,REP,Donald J. Trump,349
+Monroe,Penfield 14,President,,CON,Donald J. Trump,65
+Monroe,Penfield 14,President,,WOR,Kamala D. Harris,17
+Monroe,Penfield 14,President,,,Write-in,4
+Monroe,Penfield 15,President,,DEM,Kamala D. Harris,479
+Monroe,Penfield 15,President,,REP,Donald J. Trump,259
+Monroe,Penfield 15,President,,CON,Donald J. Trump,25
+Monroe,Penfield 15,President,,WOR,Kamala D. Harris,16
+Monroe,Penfield 15,President,,,Write-in,9
+Monroe,Penfield 16,President,,DEM,Kamala D. Harris,173
+Monroe,Penfield 16,President,,REP,Donald J. Trump,148
+Monroe,Penfield 16,President,,CON,Donald J. Trump,20
+Monroe,Penfield 16,President,,WOR,Kamala D. Harris,12
+Monroe,Penfield 16,President,,,Write-in,1
+Monroe,Penfield 17,President,,DEM,Kamala D. Harris,527
+Monroe,Penfield 17,President,,REP,Donald J. Trump,284
+Monroe,Penfield 17,President,,CON,Donald J. Trump,54
+Monroe,Penfield 17,President,,WOR,Kamala D. Harris,31
+Monroe,Penfield 17,President,,,Write-in,8
+Monroe,Penfield 18,President,,DEM,Kamala D. Harris,225
+Monroe,Penfield 18,President,,REP,Donald J. Trump,139
+Monroe,Penfield 18,President,,CON,Donald J. Trump,27
+Monroe,Penfield 18,President,,WOR,Kamala D. Harris,12
+Monroe,Penfield 18,President,,,Write-in,5
+Monroe,Penfield 19,President,,DEM,Kamala D. Harris,410
+Monroe,Penfield 19,President,,REP,Donald J. Trump,236
+Monroe,Penfield 19,President,,CON,Donald J. Trump,40
+Monroe,Penfield 19,President,,WOR,Kamala D. Harris,22
+Monroe,Penfield 19,President,,,Write-in,12
+Monroe,Penfield 20,President,,DEM,Kamala D. Harris,342
+Monroe,Penfield 20,President,,REP,Donald J. Trump,234
+Monroe,Penfield 20,President,,CON,Donald J. Trump,36
+Monroe,Penfield 20,President,,WOR,Kamala D. Harris,14
+Monroe,Penfield 20,President,,,Write-in,5
+Monroe,Penfield 21,President,,DEM,Kamala D. Harris,379
+Monroe,Penfield 21,President,,REP,Donald J. Trump,188
+Monroe,Penfield 21,President,,CON,Donald J. Trump,26
+Monroe,Penfield 21,President,,WOR,Kamala D. Harris,20
+Monroe,Penfield 21,President,,,Write-in,6
+Monroe,Penfield 22,President,,DEM,Kamala D. Harris,371
+Monroe,Penfield 22,President,,REP,Donald J. Trump,157
+Monroe,Penfield 22,President,,CON,Donald J. Trump,23
+Monroe,Penfield 22,President,,WOR,Kamala D. Harris,16
+Monroe,Penfield 22,President,,,Write-in,9
+Monroe,Penfield 23,President,,DEM,Kamala D. Harris,472
+Monroe,Penfield 23,President,,REP,Donald J. Trump,270
+Monroe,Penfield 23,President,,CON,Donald J. Trump,37
+Monroe,Penfield 23,President,,WOR,Kamala D. Harris,29
+Monroe,Penfield 23,President,,,Write-in,5
+Monroe,Penfield 24,President,,DEM,Kamala D. Harris,373
+Monroe,Penfield 24,President,,REP,Donald J. Trump,252
+Monroe,Penfield 24,President,,CON,Donald J. Trump,36
+Monroe,Penfield 24,President,,WOR,Kamala D. Harris,18
+Monroe,Penfield 24,President,,,Write-in,12
+Monroe,Penfield 25,President,,DEM,Kamala D. Harris,216
+Monroe,Penfield 25,President,,REP,Donald J. Trump,184
+Monroe,Penfield 25,President,,CON,Donald J. Trump,33
+Monroe,Penfield 25,President,,WOR,Kamala D. Harris,6
+Monroe,Penfield 25,President,,,Write-in,13
+Monroe,Penfield 26,President,,DEM,Kamala D. Harris,249
+Monroe,Penfield 26,President,,REP,Donald J. Trump,230
+Monroe,Penfield 26,President,,CON,Donald J. Trump,31
+Monroe,Penfield 26,President,,WOR,Kamala D. Harris,11
+Monroe,Penfield 26,President,,,Write-in,6
+Monroe,Penfield 27,President,,DEM,Kamala D. Harris,337
+Monroe,Penfield 27,President,,REP,Donald J. Trump,306
+Monroe,Penfield 27,President,,CON,Donald J. Trump,32
+Monroe,Penfield 27,President,,WOR,Kamala D. Harris,10
+Monroe,Penfield 27,President,,,Write-in,6
+Monroe,Penfield 28,President,,DEM,Kamala D. Harris,699
+Monroe,Penfield 28,President,,REP,Donald J. Trump,367
+Monroe,Penfield 28,President,,CON,Donald J. Trump,57
+Monroe,Penfield 28,President,,WOR,Kamala D. Harris,30
+Monroe,Penfield 28,President,,,Write-in,14
+Monroe,Penfield 29,President,,DEM,Kamala D. Harris,462
+Monroe,Penfield 29,President,,REP,Donald J. Trump,258
+Monroe,Penfield 29,President,,CON,Donald J. Trump,36
+Monroe,Penfield 29,President,,WOR,Kamala D. Harris,21
+Monroe,Penfield 29,President,,,Write-in,4
+Monroe,Penfield 30,President,,DEM,Kamala D. Harris,557
+Monroe,Penfield 30,President,,REP,Donald J. Trump,498
+Monroe,Penfield 30,President,,CON,Donald J. Trump,67
+Monroe,Penfield 30,President,,WOR,Kamala D. Harris,30
+Monroe,Penfield 30,President,,,Write-in,16
+Monroe,Penfield 31,President,,DEM,Kamala D. Harris,277
+Monroe,Penfield 31,President,,REP,Donald J. Trump,292
+Monroe,Penfield 31,President,,CON,Donald J. Trump,30
+Monroe,Penfield 31,President,,WOR,Kamala D. Harris,19
+Monroe,Penfield 31,President,,,Write-in,12
+Monroe,Penfield 32,President,,DEM,Kamala D. Harris,50
+Monroe,Penfield 32,President,,REP,Donald J. Trump,53
+Monroe,Penfield 32,President,,CON,Donald J. Trump,4
+Monroe,Penfield 32,President,,WOR,Kamala D. Harris,5
+Monroe,Penfield 33,President,,DEM,Kamala D. Harris,52
+Monroe,Penfield 33,President,,REP,Donald J. Trump,26
+Monroe,Penfield 33,President,,CON,Donald J. Trump,10
+Monroe,Penfield 33,President,,WOR,Kamala D. Harris,2
+Monroe,Penfield 33,President,,,Write-in,1
+Monroe,Penfield 34,President,,DEM,Kamala D. Harris,395
+Monroe,Penfield 34,President,,REP,Donald J. Trump,306
+Monroe,Penfield 34,President,,CON,Donald J. Trump,35
+Monroe,Penfield 34,President,,WOR,Kamala D. Harris,13
+Monroe,Penfield 34,President,,,Write-in,5
+Monroe,Penfield 35,President,,DEM,Kamala D. Harris,464
+Monroe,Penfield 35,President,,REP,Donald J. Trump,242
+Monroe,Penfield 35,President,,CON,Donald J. Trump,35
+Monroe,Penfield 35,President,,WOR,Kamala D. Harris,24
+Monroe,Penfield 35,President,,,Write-in,8
+Monroe,Penfield 36,President,,DEM,Kamala D. Harris,316
+Monroe,Penfield 36,President,,REP,Donald J. Trump,182
+Monroe,Penfield 36,President,,CON,Donald J. Trump,22
+Monroe,Penfield 36,President,,WOR,Kamala D. Harris,19
+Monroe,Penfield 36,President,,,Write-in,3
+Monroe,Penfield 37,President,,DEM,Kamala D. Harris,509
+Monroe,Penfield 37,President,,REP,Donald J. Trump,526
+Monroe,Penfield 37,President,,CON,Donald J. Trump,65
+Monroe,Penfield 37,President,,WOR,Kamala D. Harris,21
+Monroe,Penfield 37,President,,,Write-in,16
+Monroe,Perinton 1,President,,DEM,Kamala D. Harris,471
+Monroe,Perinton 1,President,,REP,Donald J. Trump,338
+Monroe,Perinton 1,President,,CON,Donald J. Trump,49
+Monroe,Perinton 1,President,,WOR,Kamala D. Harris,20
+Monroe,Perinton 1,President,,,Write-in,5
+Monroe,Perinton 2,President,,DEM,Kamala D. Harris,394
+Monroe,Perinton 2,President,,REP,Donald J. Trump,156
+Monroe,Perinton 2,President,,CON,Donald J. Trump,28
+Monroe,Perinton 2,President,,WOR,Kamala D. Harris,16
+Monroe,Perinton 2,President,,,Write-in,10
+Monroe,Perinton 3,President,,DEM,Kamala D. Harris,472
+Monroe,Perinton 3,President,,REP,Donald J. Trump,285
+Monroe,Perinton 3,President,,CON,Donald J. Trump,57
+Monroe,Perinton 3,President,,WOR,Kamala D. Harris,25
+Monroe,Perinton 3,President,,,Write-in,14
+Monroe,Perinton 4,President,,DEM,Kamala D. Harris,575
+Monroe,Perinton 4,President,,REP,Donald J. Trump,234
+Monroe,Perinton 4,President,,CON,Donald J. Trump,47
+Monroe,Perinton 4,President,,WOR,Kamala D. Harris,23
+Monroe,Perinton 4,President,,,Write-in,16
+Monroe,Perinton 5,President,,DEM,Kamala D. Harris,443
+Monroe,Perinton 5,President,,REP,Donald J. Trump,233
+Monroe,Perinton 5,President,,CON,Donald J. Trump,35
+Monroe,Perinton 5,President,,WOR,Kamala D. Harris,33
+Monroe,Perinton 5,President,,,Write-in,9
+Monroe,Perinton 6,President,,DEM,Kamala D. Harris,222
+Monroe,Perinton 6,President,,REP,Donald J. Trump,129
+Monroe,Perinton 6,President,,CON,Donald J. Trump,23
+Monroe,Perinton 6,President,,WOR,Kamala D. Harris,11
+Monroe,Perinton 6,President,,,Write-in,5
+Monroe,Perinton 7,President,,DEM,Kamala D. Harris,617
+Monroe,Perinton 7,President,,REP,Donald J. Trump,245
+Monroe,Perinton 7,President,,CON,Donald J. Trump,47
+Monroe,Perinton 7,President,,WOR,Kamala D. Harris,37
+Monroe,Perinton 7,President,,,Write-in,13
+Monroe,Perinton 8,President,,DEM,Kamala D. Harris,573
+Monroe,Perinton 8,President,,REP,Donald J. Trump,276
+Monroe,Perinton 8,President,,CON,Donald J. Trump,52
+Monroe,Perinton 8,President,,WOR,Kamala D. Harris,21
+Monroe,Perinton 8,President,,,Write-in,12
+Monroe,Perinton 9,President,,DEM,Kamala D. Harris,385
+Monroe,Perinton 9,President,,REP,Donald J. Trump,260
+Monroe,Perinton 9,President,,CON,Donald J. Trump,35
+Monroe,Perinton 9,President,,WOR,Kamala D. Harris,20
+Monroe,Perinton 9,President,,,Write-in,5
+Monroe,Perinton 10,President,,DEM,Kamala D. Harris,570
+Monroe,Perinton 10,President,,REP,Donald J. Trump,322
+Monroe,Perinton 10,President,,CON,Donald J. Trump,41
+Monroe,Perinton 10,President,,WOR,Kamala D. Harris,31
+Monroe,Perinton 10,President,,,Write-in,12
+Monroe,Perinton 11,President,,DEM,Kamala D. Harris,264
+Monroe,Perinton 11,President,,REP,Donald J. Trump,115
+Monroe,Perinton 11,President,,CON,Donald J. Trump,17
+Monroe,Perinton 11,President,,WOR,Kamala D. Harris,15
+Monroe,Perinton 11,President,,,Write-in,11
+Monroe,Perinton 12,President,,DEM,Kamala D. Harris,700
+Monroe,Perinton 12,President,,REP,Donald J. Trump,368
+Monroe,Perinton 12,President,,CON,Donald J. Trump,48
+Monroe,Perinton 12,President,,WOR,Kamala D. Harris,37
+Monroe,Perinton 12,President,,,Write-in,15
+Monroe,Perinton 13,President,,DEM,Kamala D. Harris,389
+Monroe,Perinton 13,President,,REP,Donald J. Trump,199
+Monroe,Perinton 13,President,,CON,Donald J. Trump,27
+Monroe,Perinton 13,President,,WOR,Kamala D. Harris,13
+Monroe,Perinton 13,President,,,Write-in,6
+Monroe,Perinton 14,President,,DEM,Kamala D. Harris,800
+Monroe,Perinton 14,President,,REP,Donald J. Trump,417
+Monroe,Perinton 14,President,,CON,Donald J. Trump,62
+Monroe,Perinton 14,President,,WOR,Kamala D. Harris,28
+Monroe,Perinton 14,President,,,Write-in,15
+Monroe,Perinton 15,President,,DEM,Kamala D. Harris,355
+Monroe,Perinton 15,President,,REP,Donald J. Trump,208
+Monroe,Perinton 15,President,,CON,Donald J. Trump,15
+Monroe,Perinton 15,President,,WOR,Kamala D. Harris,15
+Monroe,Perinton 15,President,,,Write-in,9
+Monroe,Perinton 16,President,,DEM,Kamala D. Harris,270
+Monroe,Perinton 16,President,,REP,Donald J. Trump,182
+Monroe,Perinton 16,President,,CON,Donald J. Trump,28
+Monroe,Perinton 16,President,,WOR,Kamala D. Harris,18
+Monroe,Perinton 16,President,,,Write-in,4
+Monroe,Perinton 17,President,,DEM,Kamala D. Harris,857
+Monroe,Perinton 17,President,,REP,Donald J. Trump,446
+Monroe,Perinton 17,President,,CON,Donald J. Trump,67
+Monroe,Perinton 17,President,,WOR,Kamala D. Harris,40
+Monroe,Perinton 17,President,,,Write-in,15
+Monroe,Perinton 18,President,,DEM,Kamala D. Harris,548
+Monroe,Perinton 18,President,,REP,Donald J. Trump,372
+Monroe,Perinton 18,President,,CON,Donald J. Trump,35
+Monroe,Perinton 18,President,,WOR,Kamala D. Harris,18
+Monroe,Perinton 18,President,,,Write-in,15
+Monroe,Perinton 19,President,,DEM,Kamala D. Harris,435
+Monroe,Perinton 19,President,,REP,Donald J. Trump,216
+Monroe,Perinton 19,President,,CON,Donald J. Trump,38
+Monroe,Perinton 19,President,,WOR,Kamala D. Harris,24
+Monroe,Perinton 19,President,,,Write-in,10
+Monroe,Perinton 20,President,,DEM,Kamala D. Harris,281
+Monroe,Perinton 20,President,,REP,Donald J. Trump,176
+Monroe,Perinton 20,President,,CON,Donald J. Trump,23
+Monroe,Perinton 20,President,,WOR,Kamala D. Harris,17
+Monroe,Perinton 20,President,,,Write-in,8
+Monroe,Perinton 21,President,,DEM,Kamala D. Harris,533
+Monroe,Perinton 21,President,,REP,Donald J. Trump,318
+Monroe,Perinton 21,President,,CON,Donald J. Trump,48
+Monroe,Perinton 21,President,,WOR,Kamala D. Harris,34
+Monroe,Perinton 21,President,,,Write-in,9
+Monroe,Perinton 22,President,,DEM,Kamala D. Harris,540
+Monroe,Perinton 22,President,,REP,Donald J. Trump,323
+Monroe,Perinton 22,President,,CON,Donald J. Trump,49
+Monroe,Perinton 22,President,,WOR,Kamala D. Harris,20
+Monroe,Perinton 22,President,,,Write-in,10
+Monroe,Perinton 23,President,,DEM,Kamala D. Harris,423
+Monroe,Perinton 23,President,,REP,Donald J. Trump,236
+Monroe,Perinton 23,President,,CON,Donald J. Trump,32
+Monroe,Perinton 23,President,,WOR,Kamala D. Harris,19
+Monroe,Perinton 23,President,,,Write-in,12
+Monroe,Perinton 24,President,,DEM,Kamala D. Harris,461
+Monroe,Perinton 24,President,,REP,Donald J. Trump,254
+Monroe,Perinton 24,President,,CON,Donald J. Trump,34
+Monroe,Perinton 24,President,,WOR,Kamala D. Harris,11
+Monroe,Perinton 24,President,,,Write-in,10
+Monroe,Perinton 25,President,,DEM,Kamala D. Harris,69
+Monroe,Perinton 25,President,,REP,Donald J. Trump,37
+Monroe,Perinton 25,President,,CON,Donald J. Trump,10
+Monroe,Perinton 25,President,,WOR,Kamala D. Harris,10
+Monroe,Perinton 26,President,,DEM,Kamala D. Harris,277
+Monroe,Perinton 26,President,,REP,Donald J. Trump,210
+Monroe,Perinton 26,President,,CON,Donald J. Trump,20
+Monroe,Perinton 26,President,,WOR,Kamala D. Harris,12
+Monroe,Perinton 26,President,,,Write-in,5
+Monroe,Perinton 27,President,,DEM,Kamala D. Harris,427
+Monroe,Perinton 27,President,,REP,Donald J. Trump,204
+Monroe,Perinton 27,President,,CON,Donald J. Trump,21
+Monroe,Perinton 27,President,,WOR,Kamala D. Harris,13
+Monroe,Perinton 27,President,,,Write-in,8
+Monroe,Perinton 28,President,,DEM,Kamala D. Harris,478
+Monroe,Perinton 28,President,,REP,Donald J. Trump,287
+Monroe,Perinton 28,President,,CON,Donald J. Trump,36
+Monroe,Perinton 28,President,,WOR,Kamala D. Harris,14
+Monroe,Perinton 28,President,,,Write-in,9
+Monroe,Perinton 29,President,,DEM,Kamala D. Harris,375
+Monroe,Perinton 29,President,,REP,Donald J. Trump,177
+Monroe,Perinton 29,President,,CON,Donald J. Trump,34
+Monroe,Perinton 29,President,,WOR,Kamala D. Harris,20
+Monroe,Perinton 29,President,,,Write-in,13
+Monroe,Perinton 30,President,,DEM,Kamala D. Harris,550
+Monroe,Perinton 30,President,,REP,Donald J. Trump,332
+Monroe,Perinton 30,President,,CON,Donald J. Trump,46
+Monroe,Perinton 30,President,,WOR,Kamala D. Harris,44
+Monroe,Perinton 30,President,,,Write-in,19
+Monroe,Perinton 31,President,,DEM,Kamala D. Harris,731
+Monroe,Perinton 31,President,,REP,Donald J. Trump,413
+Monroe,Perinton 31,President,,CON,Donald J. Trump,65
+Monroe,Perinton 31,President,,WOR,Kamala D. Harris,37
+Monroe,Perinton 31,President,,,Write-in,24
+Monroe,Perinton 32,President,,DEM,Kamala D. Harris,529
+Monroe,Perinton 32,President,,REP,Donald J. Trump,363
+Monroe,Perinton 32,President,,CON,Donald J. Trump,45
+Monroe,Perinton 32,President,,WOR,Kamala D. Harris,15
+Monroe,Perinton 32,President,,,Write-in,12
+Monroe,Perinton 33,President,,DEM,Kamala D. Harris,327
+Monroe,Perinton 33,President,,REP,Donald J. Trump,130
+Monroe,Perinton 33,President,,CON,Donald J. Trump,17
+Monroe,Perinton 33,President,,WOR,Kamala D. Harris,19
+Monroe,Perinton 33,President,,,Write-in,8
+Monroe,Perinton 34,President,,DEM,Kamala D. Harris,458
+Monroe,Perinton 34,President,,REP,Donald J. Trump,224
+Monroe,Perinton 34,President,,CON,Donald J. Trump,31
+Monroe,Perinton 34,President,,WOR,Kamala D. Harris,14
+Monroe,Perinton 34,President,,,Write-in,6
+Monroe,Perinton 35,President,,DEM,Kamala D. Harris,534
+Monroe,Perinton 35,President,,REP,Donald J. Trump,374
+Monroe,Perinton 35,President,,CON,Donald J. Trump,53
+Monroe,Perinton 35,President,,WOR,Kamala D. Harris,16
+Monroe,Perinton 35,President,,,Write-in,11
+Monroe,Perinton 36,President,,DEM,Kamala D. Harris,111
+Monroe,Perinton 36,President,,REP,Donald J. Trump,86
+Monroe,Perinton 36,President,,CON,Donald J. Trump,15
+Monroe,Perinton 36,President,,WOR,Kamala D. Harris,5
+Monroe,Perinton 36,President,,,Write-in,1
+Monroe,Perinton 37,President,,DEM,Kamala D. Harris,196
+Monroe,Perinton 37,President,,REP,Donald J. Trump,142
+Monroe,Perinton 37,President,,CON,Donald J. Trump,26
+Monroe,Perinton 37,President,,WOR,Kamala D. Harris,3
+Monroe,Perinton 37,President,,,Write-in,2
+Monroe,Perinton 38,President,,DEM,Kamala D. Harris,379
+Monroe,Perinton 38,President,,REP,Donald J. Trump,254
+Monroe,Perinton 38,President,,CON,Donald J. Trump,33
+Monroe,Perinton 38,President,,WOR,Kamala D. Harris,18
+Monroe,Perinton 38,President,,,Write-in,10
+Monroe,Perinton 39,President,,DEM,Kamala D. Harris,370
+Monroe,Perinton 39,President,,REP,Donald J. Trump,260
+Monroe,Perinton 39,President,,CON,Donald J. Trump,45
+Monroe,Perinton 39,President,,WOR,Kamala D. Harris,18
+Monroe,Perinton 39,President,,,Write-in,8
+Monroe,Pittsford 1,President,,DEM,Kamala D. Harris,593
+Monroe,Pittsford 1,President,,REP,Donald J. Trump,206
+Monroe,Pittsford 1,President,,CON,Donald J. Trump,40
+Monroe,Pittsford 1,President,,WOR,Kamala D. Harris,39
+Monroe,Pittsford 1,President,,,Write-in,11
+Monroe,Pittsford 2,President,,DEM,Kamala D. Harris,548
+Monroe,Pittsford 2,President,,REP,Donald J. Trump,302
+Monroe,Pittsford 2,President,,CON,Donald J. Trump,29
+Monroe,Pittsford 2,President,,WOR,Kamala D. Harris,23
+Monroe,Pittsford 2,President,,,Write-in,37
+Monroe,Pittsford 3,President,,DEM,Kamala D. Harris,482
+Monroe,Pittsford 3,President,,REP,Donald J. Trump,195
+Monroe,Pittsford 3,President,,CON,Donald J. Trump,20
+Monroe,Pittsford 3,President,,WOR,Kamala D. Harris,17
+Monroe,Pittsford 3,President,,,Write-in,6
+Monroe,Pittsford 4,President,,DEM,Kamala D. Harris,417
+Monroe,Pittsford 4,President,,REP,Donald J. Trump,150
+Monroe,Pittsford 4,President,,CON,Donald J. Trump,25
+Monroe,Pittsford 4,President,,WOR,Kamala D. Harris,14
+Monroe,Pittsford 4,President,,,Write-in,13
+Monroe,Pittsford 5,President,,DEM,Kamala D. Harris,559
+Monroe,Pittsford 5,President,,REP,Donald J. Trump,209
+Monroe,Pittsford 5,President,,CON,Donald J. Trump,30
+Monroe,Pittsford 5,President,,WOR,Kamala D. Harris,28
+Monroe,Pittsford 5,President,,,Write-in,13
+Monroe,Pittsford 6,President,,DEM,Kamala D. Harris,533
+Monroe,Pittsford 6,President,,REP,Donald J. Trump,224
+Monroe,Pittsford 6,President,,CON,Donald J. Trump,43
+Monroe,Pittsford 6,President,,WOR,Kamala D. Harris,15
+Monroe,Pittsford 6,President,,,Write-in,9
+Monroe,Pittsford 7,President,,DEM,Kamala D. Harris,514
+Monroe,Pittsford 7,President,,REP,Donald J. Trump,175
+Monroe,Pittsford 7,President,,CON,Donald J. Trump,32
+Monroe,Pittsford 7,President,,WOR,Kamala D. Harris,24
+Monroe,Pittsford 7,President,,,Write-in,20
+Monroe,Pittsford 8,President,,DEM,Kamala D. Harris,396
+Monroe,Pittsford 8,President,,REP,Donald J. Trump,181
+Monroe,Pittsford 8,President,,CON,Donald J. Trump,15
+Monroe,Pittsford 8,President,,WOR,Kamala D. Harris,11
+Monroe,Pittsford 8,President,,,Write-in,18
+Monroe,Pittsford 9,President,,DEM,Kamala D. Harris,319
+Monroe,Pittsford 9,President,,REP,Donald J. Trump,172
+Monroe,Pittsford 9,President,,CON,Donald J. Trump,25
+Monroe,Pittsford 9,President,,WOR,Kamala D. Harris,12
+Monroe,Pittsford 9,President,,,Write-in,8
+Monroe,Pittsford 10,President,,DEM,Kamala D. Harris,397
+Monroe,Pittsford 10,President,,REP,Donald J. Trump,198
+Monroe,Pittsford 10,President,,CON,Donald J. Trump,30
+Monroe,Pittsford 10,President,,WOR,Kamala D. Harris,19
+Monroe,Pittsford 10,President,,,Write-in,34
+Monroe,Pittsford 11,President,,DEM,Kamala D. Harris,275
+Monroe,Pittsford 11,President,,REP,Donald J. Trump,133
+Monroe,Pittsford 11,President,,CON,Donald J. Trump,17
+Monroe,Pittsford 11,President,,WOR,Kamala D. Harris,16
+Monroe,Pittsford 11,President,,,Write-in,3
+Monroe,Pittsford 12,President,,DEM,Kamala D. Harris,321
+Monroe,Pittsford 12,President,,REP,Donald J. Trump,176
+Monroe,Pittsford 12,President,,CON,Donald J. Trump,14
+Monroe,Pittsford 12,President,,WOR,Kamala D. Harris,16
+Monroe,Pittsford 12,President,,,Write-in,14
+Monroe,Pittsford 13,President,,DEM,Kamala D. Harris,513
+Monroe,Pittsford 13,President,,REP,Donald J. Trump,224
+Monroe,Pittsford 13,President,,CON,Donald J. Trump,15
+Monroe,Pittsford 13,President,,WOR,Kamala D. Harris,27
+Monroe,Pittsford 13,President,,,Write-in,16
+Monroe,Pittsford 14,President,,DEM,Kamala D. Harris,329
+Monroe,Pittsford 14,President,,REP,Donald J. Trump,170
+Monroe,Pittsford 14,President,,CON,Donald J. Trump,30
+Monroe,Pittsford 14,President,,WOR,Kamala D. Harris,14
+Monroe,Pittsford 14,President,,,Write-in,9
+Monroe,Pittsford 15,President,,DEM,Kamala D. Harris,298
+Monroe,Pittsford 15,President,,REP,Donald J. Trump,174
+Monroe,Pittsford 15,President,,CON,Donald J. Trump,25
+Monroe,Pittsford 15,President,,WOR,Kamala D. Harris,18
+Monroe,Pittsford 15,President,,,Write-in,9
+Monroe,Pittsford 16,President,,DEM,Kamala D. Harris,571
+Monroe,Pittsford 16,President,,REP,Donald J. Trump,227
+Monroe,Pittsford 16,President,,CON,Donald J. Trump,34
+Monroe,Pittsford 16,President,,WOR,Kamala D. Harris,26
+Monroe,Pittsford 16,President,,,Write-in,11
+Monroe,Pittsford 17,President,,DEM,Kamala D. Harris,396
+Monroe,Pittsford 17,President,,REP,Donald J. Trump,140
+Monroe,Pittsford 17,President,,CON,Donald J. Trump,22
+Monroe,Pittsford 17,President,,WOR,Kamala D. Harris,24
+Monroe,Pittsford 17,President,,,Write-in,5
+Monroe,Pittsford 18,President,,DEM,Kamala D. Harris,313
+Monroe,Pittsford 18,President,,REP,Donald J. Trump,135
+Monroe,Pittsford 18,President,,CON,Donald J. Trump,12
+Monroe,Pittsford 18,President,,WOR,Kamala D. Harris,8
+Monroe,Pittsford 18,President,,,Write-in,7
+Monroe,Pittsford 19,President,,DEM,Kamala D. Harris,388
+Monroe,Pittsford 19,President,,REP,Donald J. Trump,285
+Monroe,Pittsford 19,President,,CON,Donald J. Trump,53
+Monroe,Pittsford 19,President,,WOR,Kamala D. Harris,20
+Monroe,Pittsford 19,President,,,Write-in,10
+Monroe,Pittsford 20,President,,DEM,Kamala D. Harris,334
+Monroe,Pittsford 20,President,,REP,Donald J. Trump,117
+Monroe,Pittsford 20,President,,CON,Donald J. Trump,24
+Monroe,Pittsford 20,President,,WOR,Kamala D. Harris,9
+Monroe,Pittsford 20,President,,,Write-in,3
+Monroe,Pittsford 21,President,,DEM,Kamala D. Harris,63
+Monroe,Pittsford 21,President,,REP,Donald J. Trump,51
+Monroe,Pittsford 21,President,,CON,Donald J. Trump,7
+Monroe,Pittsford 21,President,,WOR,Kamala D. Harris,7
+Monroe,Pittsford 21,President,,,Write-in,5
+Monroe,Pittsford 22,President,,DEM,Kamala D. Harris,390
+Monroe,Pittsford 22,President,,REP,Donald J. Trump,158
+Monroe,Pittsford 22,President,,CON,Donald J. Trump,29
+Monroe,Pittsford 22,President,,WOR,Kamala D. Harris,15
+Monroe,Pittsford 22,President,,,Write-in,13
+Monroe,Pittsford 23,President,,DEM,Kamala D. Harris,250
+Monroe,Pittsford 23,President,,REP,Donald J. Trump,139
+Monroe,Pittsford 23,President,,CON,Donald J. Trump,30
+Monroe,Pittsford 23,President,,WOR,Kamala D. Harris,9
+Monroe,Pittsford 23,President,,,Write-in,7
+Monroe,Pittsford 24,President,,DEM,Kamala D. Harris,359
+Monroe,Pittsford 24,President,,REP,Donald J. Trump,154
+Monroe,Pittsford 24,President,,CON,Donald J. Trump,14
+Monroe,Pittsford 24,President,,WOR,Kamala D. Harris,8
+Monroe,Pittsford 24,President,,,Write-in,5
+Monroe,Pittsford 25,President,,DEM,Kamala D. Harris,361
+Monroe,Pittsford 25,President,,REP,Donald J. Trump,160
+Monroe,Pittsford 25,President,,CON,Donald J. Trump,29
+Monroe,Pittsford 25,President,,WOR,Kamala D. Harris,12
+Monroe,Pittsford 25,President,,,Write-in,2
+Monroe,Pittsford 26,President,,DEM,Kamala D. Harris,314
+Monroe,Pittsford 26,President,,REP,Donald J. Trump,137
+Monroe,Pittsford 26,President,,CON,Donald J. Trump,30
+Monroe,Pittsford 26,President,,WOR,Kamala D. Harris,12
+Monroe,Pittsford 26,President,,,Write-in,15
+Monroe,Pittsford 27,President,,DEM,Kamala D. Harris,367
+Monroe,Pittsford 27,President,,REP,Donald J. Trump,159
+Monroe,Pittsford 27,President,,CON,Donald J. Trump,17
+Monroe,Pittsford 27,President,,WOR,Kamala D. Harris,9
+Monroe,Pittsford 27,President,,,Write-in,6
+Monroe,Pittsford 28,President,,DEM,Kamala D. Harris,644
+Monroe,Pittsford 28,President,,REP,Donald J. Trump,290
+Monroe,Pittsford 28,President,,CON,Donald J. Trump,46
+Monroe,Pittsford 28,President,,WOR,Kamala D. Harris,24
+Monroe,Pittsford 28,President,,,Write-in,24
+Monroe,Riga 1,President,,DEM,Kamala D. Harris,367
+Monroe,Riga 1,President,,REP,Donald J. Trump,420
+Monroe,Riga 1,President,,CON,Donald J. Trump,68
+Monroe,Riga 1,President,,WOR,Kamala D. Harris,27
+Monroe,Riga 1,President,,,Write-in,7
+Monroe,Riga 2,President,,DEM,Kamala D. Harris,250
+Monroe,Riga 2,President,,REP,Donald J. Trump,373
+Monroe,Riga 2,President,,CON,Donald J. Trump,71
+Monroe,Riga 2,President,,WOR,Kamala D. Harris,19
+Monroe,Riga 2,President,,,Write-in,9
+Monroe,Riga 3,President,,DEM,Kamala D. Harris,179
+Monroe,Riga 3,President,,REP,Donald J. Trump,190
+Monroe,Riga 3,President,,CON,Donald J. Trump,33
+Monroe,Riga 3,President,,WOR,Kamala D. Harris,11
+Monroe,Riga 3,President,,,Write-in,4
+Monroe,Riga 4,President,,DEM,Kamala D. Harris,154
+Monroe,Riga 4,President,,REP,Donald J. Trump,308
+Monroe,Riga 4,President,,CON,Donald J. Trump,46
+Monroe,Riga 4,President,,WOR,Kamala D. Harris,12
+Monroe,Riga 4,President,,,Write-in,8
+Monroe,Riga 5,President,,DEM,Kamala D. Harris,143
+Monroe,Riga 5,President,,REP,Donald J. Trump,306
+Monroe,Riga 5,President,,CON,Donald J. Trump,48
+Monroe,Riga 5,President,,WOR,Kamala D. Harris,5
+Monroe,Riga 5,President,,,Write-in,4
+Monroe,Riga 6,President,,DEM,Kamala D. Harris,137
+Monroe,Riga 6,President,,REP,Donald J. Trump,266
+Monroe,Riga 6,President,,CON,Donald J. Trump,67
+Monroe,Riga 6,President,,WOR,Kamala D. Harris,8
+Monroe,Riga 6,President,,,Write-in,2
+Monroe,Rush 1,President,,DEM,Kamala D. Harris,307
+Monroe,Rush 1,President,,REP,Donald J. Trump,266
+Monroe,Rush 1,President,,CON,Donald J. Trump,73
+Monroe,Rush 1,President,,WOR,Kamala D. Harris,16
+Monroe,Rush 1,President,,,Write-in,11
+Monroe,Rush 2,President,,DEM,Kamala D. Harris,144
+Monroe,Rush 2,President,,REP,Donald J. Trump,217
+Monroe,Rush 2,President,,CON,Donald J. Trump,45
+Monroe,Rush 2,President,,WOR,Kamala D. Harris,13
+Monroe,Rush 2,President,,,Write-in,11
+Monroe,Rush 3,President,,DEM,Kamala D. Harris,277
+Monroe,Rush 3,President,,REP,Donald J. Trump,211
+Monroe,Rush 3,President,,CON,Donald J. Trump,36
+Monroe,Rush 3,President,,WOR,Kamala D. Harris,21
+Monroe,Rush 3,President,,,Write-in,5
+Monroe,Rush 4,President,,DEM,Kamala D. Harris,285
+Monroe,Rush 4,President,,REP,Donald J. Trump,313
+Monroe,Rush 4,President,,CON,Donald J. Trump,49
+Monroe,Rush 4,President,,WOR,Kamala D. Harris,21
+Monroe,Rush 4,President,,,Write-in,16
+Monroe,Sweden 1,President,,DEM,Kamala D. Harris,274
+Monroe,Sweden 1,President,,REP,Donald J. Trump,202
+Monroe,Sweden 1,President,,CON,Donald J. Trump,44
+Monroe,Sweden 1,President,,WOR,Kamala D. Harris,19
+Monroe,Sweden 1,President,,,Write-in,5
+Monroe,Sweden 2,President,,DEM,Kamala D. Harris,147
+Monroe,Sweden 2,President,,REP,Donald J. Trump,107
+Monroe,Sweden 2,President,,CON,Donald J. Trump,11
+Monroe,Sweden 2,President,,WOR,Kamala D. Harris,6
+Monroe,Sweden 2,President,,,Write-in,4
+Monroe,Sweden 3,President,,DEM,Kamala D. Harris,318
+Monroe,Sweden 3,President,,REP,Donald J. Trump,209
+Monroe,Sweden 3,President,,CON,Donald J. Trump,44
+Monroe,Sweden 3,President,,WOR,Kamala D. Harris,32
+Monroe,Sweden 3,President,,,Write-in,7
+Monroe,Sweden 4,President,,DEM,Kamala D. Harris,302
+Monroe,Sweden 4,President,,REP,Donald J. Trump,294
+Monroe,Sweden 4,President,,CON,Donald J. Trump,61
+Monroe,Sweden 4,President,,WOR,Kamala D. Harris,14
+Monroe,Sweden 4,President,,,Write-in,3
+Monroe,Sweden 5,President,,DEM,Kamala D. Harris,162
+Monroe,Sweden 5,President,,REP,Donald J. Trump,71
+Monroe,Sweden 5,President,,CON,Donald J. Trump,4
+Monroe,Sweden 5,President,,WOR,Kamala D. Harris,5
+Monroe,Sweden 5,President,,,Write-in,4
+Monroe,Sweden 6,President,,DEM,Kamala D. Harris,218
+Monroe,Sweden 6,President,,REP,Donald J. Trump,201
+Monroe,Sweden 6,President,,CON,Donald J. Trump,44
+Monroe,Sweden 6,President,,WOR,Kamala D. Harris,16
+Monroe,Sweden 6,President,,,Write-in,5
+Monroe,Sweden 7,President,,DEM,Kamala D. Harris,237
+Monroe,Sweden 7,President,,REP,Donald J. Trump,183
+Monroe,Sweden 7,President,,CON,Donald J. Trump,34
+Monroe,Sweden 7,President,,WOR,Kamala D. Harris,17
+Monroe,Sweden 7,President,,,Write-in,7
+Monroe,Sweden 8,President,,DEM,Kamala D. Harris,140
+Monroe,Sweden 8,President,,REP,Donald J. Trump,238
+Monroe,Sweden 8,President,,CON,Donald J. Trump,61
+Monroe,Sweden 8,President,,WOR,Kamala D. Harris,12
+Monroe,Sweden 8,President,,,Write-in,3
+Monroe,Sweden 9,President,,DEM,Kamala D. Harris,271
+Monroe,Sweden 9,President,,REP,Donald J. Trump,235
+Monroe,Sweden 9,President,,CON,Donald J. Trump,42
+Monroe,Sweden 9,President,,WOR,Kamala D. Harris,21
+Monroe,Sweden 9,President,,,Write-in,6
+Monroe,Sweden 10,President,,DEM,Kamala D. Harris,263
+Monroe,Sweden 10,President,,REP,Donald J. Trump,458
+Monroe,Sweden 10,President,,CON,Donald J. Trump,93
+Monroe,Sweden 10,President,,WOR,Kamala D. Harris,19
+Monroe,Sweden 10,President,,,Write-in,11
+Monroe,Sweden 11,President,,DEM,Kamala D. Harris,94
+Monroe,Sweden 11,President,,REP,Donald J. Trump,76
+Monroe,Sweden 11,President,,CON,Donald J. Trump,13
+Monroe,Sweden 11,President,,WOR,Kamala D. Harris,6
+Monroe,Sweden 12,President,,DEM,Kamala D. Harris,199
+Monroe,Sweden 12,President,,REP,Donald J. Trump,244
+Monroe,Sweden 12,President,,CON,Donald J. Trump,49
+Monroe,Sweden 12,President,,WOR,Kamala D. Harris,11
+Monroe,Sweden 12,President,,,Write-in,6
+Monroe,Webster 1,President,,DEM,Kamala D. Harris,249
+Monroe,Webster 1,President,,REP,Donald J. Trump,203
+Monroe,Webster 1,President,,CON,Donald J. Trump,27
+Monroe,Webster 1,President,,WOR,Kamala D. Harris,14
+Monroe,Webster 1,President,,,Write-in,1
+Monroe,Webster 2,President,,DEM,Kamala D. Harris,500
+Monroe,Webster 2,President,,REP,Donald J. Trump,384
+Monroe,Webster 2,President,,CON,Donald J. Trump,49
+Monroe,Webster 2,President,,WOR,Kamala D. Harris,28
+Monroe,Webster 2,President,,,Write-in,6
+Monroe,Webster 3,President,,DEM,Kamala D. Harris,336
+Monroe,Webster 3,President,,REP,Donald J. Trump,216
+Monroe,Webster 3,President,,CON,Donald J. Trump,31
+Monroe,Webster 3,President,,WOR,Kamala D. Harris,9
+Monroe,Webster 3,President,,,Write-in,6
+Monroe,Webster 4,President,,DEM,Kamala D. Harris,423
+Monroe,Webster 4,President,,REP,Donald J. Trump,296
+Monroe,Webster 4,President,,CON,Donald J. Trump,61
+Monroe,Webster 4,President,,WOR,Kamala D. Harris,17
+Monroe,Webster 4,President,,,Write-in,9
+Monroe,Webster 5,President,,DEM,Kamala D. Harris,452
+Monroe,Webster 5,President,,REP,Donald J. Trump,364
+Monroe,Webster 5,President,,CON,Donald J. Trump,68
+Monroe,Webster 5,President,,WOR,Kamala D. Harris,28
+Monroe,Webster 5,President,,,Write-in,5
+Monroe,Webster 6,President,,DEM,Kamala D. Harris,237
+Monroe,Webster 6,President,,REP,Donald J. Trump,174
+Monroe,Webster 6,President,,CON,Donald J. Trump,21
+Monroe,Webster 6,President,,WOR,Kamala D. Harris,18
+Monroe,Webster 7,President,,DEM,Kamala D. Harris,288
+Monroe,Webster 7,President,,REP,Donald J. Trump,257
+Monroe,Webster 7,President,,CON,Donald J. Trump,41
+Monroe,Webster 7,President,,WOR,Kamala D. Harris,11
+Monroe,Webster 7,President,,,Write-in,5
+Monroe,Webster 8,President,,DEM,Kamala D. Harris,626
+Monroe,Webster 8,President,,REP,Donald J. Trump,558
+Monroe,Webster 8,President,,CON,Donald J. Trump,87
+Monroe,Webster 8,President,,WOR,Kamala D. Harris,34
+Monroe,Webster 8,President,,,Write-in,24
+Monroe,Webster 9,President,,DEM,Kamala D. Harris,660
+Monroe,Webster 9,President,,REP,Donald J. Trump,589
+Monroe,Webster 9,President,,CON,Donald J. Trump,87
+Monroe,Webster 9,President,,WOR,Kamala D. Harris,52
+Monroe,Webster 9,President,,,Write-in,13
+Monroe,Webster 10,President,,DEM,Kamala D. Harris,590
+Monroe,Webster 10,President,,REP,Donald J. Trump,526
+Monroe,Webster 10,President,,CON,Donald J. Trump,77
+Monroe,Webster 10,President,,WOR,Kamala D. Harris,43
+Monroe,Webster 10,President,,,Write-in,11
+Monroe,Webster 11,President,,DEM,Kamala D. Harris,268
+Monroe,Webster 11,President,,REP,Donald J. Trump,319
+Monroe,Webster 11,President,,CON,Donald J. Trump,34
+Monroe,Webster 11,President,,WOR,Kamala D. Harris,14
+Monroe,Webster 11,President,,,Write-in,9
+Monroe,Webster 12,President,,DEM,Kamala D. Harris,312
+Monroe,Webster 12,President,,REP,Donald J. Trump,284
+Monroe,Webster 12,President,,CON,Donald J. Trump,49
+Monroe,Webster 12,President,,WOR,Kamala D. Harris,10
+Monroe,Webster 12,President,,,Write-in,8
+Monroe,Webster 13,President,,DEM,Kamala D. Harris,236
+Monroe,Webster 13,President,,REP,Donald J. Trump,224
+Monroe,Webster 13,President,,CON,Donald J. Trump,23
+Monroe,Webster 13,President,,WOR,Kamala D. Harris,17
+Monroe,Webster 13,President,,,Write-in,4
+Monroe,Webster 14,President,,DEM,Kamala D. Harris,320
+Monroe,Webster 14,President,,REP,Donald J. Trump,219
+Monroe,Webster 14,President,,CON,Donald J. Trump,28
+Monroe,Webster 14,President,,WOR,Kamala D. Harris,15
+Monroe,Webster 14,President,,,Write-in,6
+Monroe,Webster 15,President,,DEM,Kamala D. Harris,204
+Monroe,Webster 15,President,,REP,Donald J. Trump,153
+Monroe,Webster 15,President,,CON,Donald J. Trump,15
+Monroe,Webster 15,President,,WOR,Kamala D. Harris,11
+Monroe,Webster 15,President,,,Write-in,5
+Monroe,Webster 16,President,,DEM,Kamala D. Harris,369
+Monroe,Webster 16,President,,REP,Donald J. Trump,332
+Monroe,Webster 16,President,,CON,Donald J. Trump,47
+Monroe,Webster 16,President,,WOR,Kamala D. Harris,23
+Monroe,Webster 16,President,,,Write-in,4
+Monroe,Webster 17,President,,DEM,Kamala D. Harris,219
+Monroe,Webster 17,President,,REP,Donald J. Trump,207
+Monroe,Webster 17,President,,CON,Donald J. Trump,40
+Monroe,Webster 17,President,,WOR,Kamala D. Harris,11
+Monroe,Webster 17,President,,,Write-in,8
+Monroe,Webster 18,President,,DEM,Kamala D. Harris,199
+Monroe,Webster 18,President,,REP,Donald J. Trump,158
+Monroe,Webster 18,President,,CON,Donald J. Trump,15
+Monroe,Webster 18,President,,WOR,Kamala D. Harris,9
+Monroe,Webster 18,President,,,Write-in,2
+Monroe,Webster 19,President,,DEM,Kamala D. Harris,446
+Monroe,Webster 19,President,,REP,Donald J. Trump,373
+Monroe,Webster 19,President,,CON,Donald J. Trump,57
+Monroe,Webster 19,President,,WOR,Kamala D. Harris,23
+Monroe,Webster 19,President,,,Write-in,8
+Monroe,Webster 20,President,,DEM,Kamala D. Harris,599
+Monroe,Webster 20,President,,REP,Donald J. Trump,675
+Monroe,Webster 20,President,,CON,Donald J. Trump,103
+Monroe,Webster 20,President,,WOR,Kamala D. Harris,28
+Monroe,Webster 20,President,,,Write-in,12
+Monroe,Webster 21,President,,DEM,Kamala D. Harris,310
+Monroe,Webster 21,President,,REP,Donald J. Trump,290
+Monroe,Webster 21,President,,CON,Donald J. Trump,43
+Monroe,Webster 21,President,,WOR,Kamala D. Harris,19
+Monroe,Webster 21,President,,,Write-in,11
+Monroe,Webster 22,President,,DEM,Kamala D. Harris,246
+Monroe,Webster 22,President,,REP,Donald J. Trump,273
+Monroe,Webster 22,President,,CON,Donald J. Trump,37
+Monroe,Webster 22,President,,WOR,Kamala D. Harris,19
+Monroe,Webster 22,President,,,Write-in,2
+Monroe,Webster 23,President,,DEM,Kamala D. Harris,488
+Monroe,Webster 23,President,,REP,Donald J. Trump,378
+Monroe,Webster 23,President,,CON,Donald J. Trump,56
+Monroe,Webster 23,President,,WOR,Kamala D. Harris,20
+Monroe,Webster 23,President,,,Write-in,12
+Monroe,Webster 24,President,,DEM,Kamala D. Harris,649
+Monroe,Webster 24,President,,REP,Donald J. Trump,524
+Monroe,Webster 24,President,,CON,Donald J. Trump,77
+Monroe,Webster 24,President,,WOR,Kamala D. Harris,18
+Monroe,Webster 24,President,,,Write-in,8
+Monroe,Webster 25,President,,DEM,Kamala D. Harris,412
+Monroe,Webster 25,President,,REP,Donald J. Trump,349
+Monroe,Webster 25,President,,CON,Donald J. Trump,40
+Monroe,Webster 25,President,,WOR,Kamala D. Harris,16
+Monroe,Webster 25,President,,,Write-in,5
+Monroe,Webster 26,President,,DEM,Kamala D. Harris,308
+Monroe,Webster 26,President,,REP,Donald J. Trump,273
+Monroe,Webster 26,President,,CON,Donald J. Trump,47
+Monroe,Webster 26,President,,WOR,Kamala D. Harris,17
+Monroe,Webster 26,President,,,Write-in,7
+Monroe,Webster 27,President,,DEM,Kamala D. Harris,567
+Monroe,Webster 27,President,,REP,Donald J. Trump,445
+Monroe,Webster 27,President,,CON,Donald J. Trump,61
+Monroe,Webster 27,President,,WOR,Kamala D. Harris,22
+Monroe,Webster 27,President,,,Write-in,7
+Monroe,Webster 28,President,,DEM,Kamala D. Harris,273
+Monroe,Webster 28,President,,REP,Donald J. Trump,241
+Monroe,Webster 28,President,,CON,Donald J. Trump,36
+Monroe,Webster 28,President,,WOR,Kamala D. Harris,8
+Monroe,Webster 28,President,,,Write-in,4
+Monroe,Webster 29,President,,DEM,Kamala D. Harris,363
+Monroe,Webster 29,President,,REP,Donald J. Trump,315
+Monroe,Webster 29,President,,CON,Donald J. Trump,40
+Monroe,Webster 29,President,,WOR,Kamala D. Harris,15
+Monroe,Webster 29,President,,,Write-in,4
+Monroe,Webster 30,President,,DEM,Kamala D. Harris,262
+Monroe,Webster 30,President,,REP,Donald J. Trump,172
+Monroe,Webster 30,President,,CON,Donald J. Trump,23
+Monroe,Webster 30,President,,WOR,Kamala D. Harris,11
+Monroe,Webster 30,President,,,Write-in,3
+Monroe,Webster 31,President,,DEM,Kamala D. Harris,295
+Monroe,Webster 31,President,,REP,Donald J. Trump,294
+Monroe,Webster 31,President,,CON,Donald J. Trump,54
+Monroe,Webster 31,President,,WOR,Kamala D. Harris,11
+Monroe,Webster 31,President,,,Write-in,2
+Monroe,Webster 32,President,,DEM,Kamala D. Harris,323
+Monroe,Webster 32,President,,REP,Donald J. Trump,300
+Monroe,Webster 32,President,,CON,Donald J. Trump,66
+Monroe,Webster 32,President,,WOR,Kamala D. Harris,12
+Monroe,Webster 32,President,,,Write-in,4
+Monroe,Webster 33,President,,DEM,Kamala D. Harris,333
+Monroe,Webster 33,President,,REP,Donald J. Trump,268
+Monroe,Webster 33,President,,CON,Donald J. Trump,41
+Monroe,Webster 33,President,,WOR,Kamala D. Harris,17
+Monroe,Webster 33,President,,,Write-in,9
+Monroe,Webster 34,President,,DEM,Kamala D. Harris,163
+Monroe,Webster 34,President,,REP,Donald J. Trump,122
+Monroe,Webster 34,President,,CON,Donald J. Trump,19
+Monroe,Webster 34,President,,WOR,Kamala D. Harris,7
+Monroe,Webster 34,President,,,Write-in,1
+Monroe,Webster 35,President,,DEM,Kamala D. Harris,260
+Monroe,Webster 35,President,,REP,Donald J. Trump,158
+Monroe,Webster 35,President,,CON,Donald J. Trump,23
+Monroe,Webster 35,President,,WOR,Kamala D. Harris,14
+Monroe,Webster 35,President,,,Write-in,6
+Monroe,Webster 36,President,,DEM,Kamala D. Harris,271
+Monroe,Webster 36,President,,REP,Donald J. Trump,194
+Monroe,Webster 36,President,,CON,Donald J. Trump,20
+Monroe,Webster 36,President,,WOR,Kamala D. Harris,8
+Monroe,Webster 36,President,,,Write-in,1
+Monroe,Webster 37,President,,DEM,Kamala D. Harris,464
+Monroe,Webster 37,President,,REP,Donald J. Trump,389
+Monroe,Webster 37,President,,CON,Donald J. Trump,44
+Monroe,Webster 37,President,,WOR,Kamala D. Harris,29
+Monroe,Webster 37,President,,,Write-in,11
+Monroe,Wheatland 1,President,,DEM,Kamala D. Harris,213
+Monroe,Wheatland 1,President,,REP,Donald J. Trump,211
+Monroe,Wheatland 1,President,,CON,Donald J. Trump,35
+Monroe,Wheatland 1,President,,WOR,Kamala D. Harris,21
+Monroe,Wheatland 1,President,,,Write-in,3
+Monroe,Wheatland 2,President,,DEM,Kamala D. Harris,149
+Monroe,Wheatland 2,President,,REP,Donald J. Trump,287
+Monroe,Wheatland 2,President,,CON,Donald J. Trump,45
+Monroe,Wheatland 2,President,,WOR,Kamala D. Harris,10
+Monroe,Wheatland 2,President,,,Write-in,4
+Monroe,Wheatland 3,President,,DEM,Kamala D. Harris,289
+Monroe,Wheatland 3,President,,REP,Donald J. Trump,252
+Monroe,Wheatland 3,President,,CON,Donald J. Trump,48
+Monroe,Wheatland 3,President,,WOR,Kamala D. Harris,24
+Monroe,Wheatland 3,President,,,Write-in,6
+Monroe,Wheatland 4,President,,DEM,Kamala D. Harris,295
+Monroe,Wheatland 4,President,,REP,Donald J. Trump,196
+Monroe,Wheatland 4,President,,CON,Donald J. Trump,30
+Monroe,Wheatland 4,President,,WOR,Kamala D. Harris,25
+Monroe,Wheatland 4,President,,,Write-in,6
+Monroe,Wheatland 5,President,,DEM,Kamala D. Harris,182
+Monroe,Wheatland 5,President,,REP,Donald J. Trump,328
+Monroe,Wheatland 5,President,,CON,Donald J. Trump,69
+Monroe,Wheatland 5,President,,WOR,Kamala D. Harris,10
+Monroe,Wheatland 5,President,,,Write-in,4
