@@ -1,0 +1,11 @@
+[project]
+name = "openelections-data-ny"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "natural-pdf>=0.6.5",
+    "openpyxl>=3.1.5",
+    "pdfplumber>=0.11.10",
+]

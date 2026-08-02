@@ -94,6 +94,16 @@ OFFICE_PATTERNS = [
     (re.compile(r"United States Senator", re.I), "U.S. Senate", None),
     (re.compile(r"\bUS\s+Rep\b.*?Congress", re.I), "U.S. House", re.compile(r"(\d+)")),
     (re.compile(r"Representative in Congress,?\s*(\d+)\D", re.I), "U.S. House", re.compile(r"(\d+)\s*(?:st|nd|rd|th)?\s*District", re.I)),
+    # Onondaga SOVC: "REPRESENTATIVE IN CONGRESS - DISTRICT 22" -- the district
+    # number follows the word "District", so the line-above pattern (which needs
+    # a digit right after "Congress") misses it and it would fall through to the
+    # bare pattern below with an empty district. Gating on the " - " dash
+    # separator distinguishes this from Ulster's "Representative in Congress,
+    # District 18" (comma-separated, committed with an intentionally empty
+    # district) and Dutchess's "Congress- 17th Congressional District" (no
+    # spaces around the dash, number before "Congressional"). Must come before
+    # the bare "Representative in Congress" fallback.
+    (re.compile(r"Representative\s+in\s+Congress\s+-\s+District\s+(\d+)", re.I), "U.S. House", re.compile(r"(\d+)")),
     (re.compile(r"Representative in Congress", re.I), "U.S. House", None),
     # SOVC rotated-format titles: "21st Congressional District", "24th Congressional".
     (re.compile(r"\b\d+(?:st|nd|rd|th)?\s+Congressional\b", re.I), "U.S. House", re.compile(r"(\d+)")),
