@@ -1,0 +1,1318 @@
+county,precinct,office,district,party,candidate,votes
+Wayne,Arcadia 1,President,,DEM,Kamala D. Harris,241
+Wayne,Arcadia 1,President,,REP,Donald J. Trump,512
+Wayne,Arcadia 1,President,,CON,Donald J. Trump,71
+Wayne,Arcadia 1,President,,WOR,Kamala D. Harris,10
+Wayne,Arcadia 1,President,,,Write-in,7
+Wayne,Arcadia 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,234
+Wayne,Arcadia 1,U.S. Senate,,REP,Michael D. Sapraicone,478
+Wayne,Arcadia 1,U.S. Senate,,CON,Michael D. Sapraicone,72
+Wayne,Arcadia 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,34
+Wayne,Arcadia 1,U.S. Senate,,LAR,Diane Sare,3
+Wayne,Arcadia 1,U.S. House,24,DEM,David Wagenhauser,210
+Wayne,Arcadia 1,U.S. House,24,REP,Claudia Tenney,517
+Wayne,Arcadia 1,U.S. House,24,CON,Claudia Tenney,78
+Wayne,Arcadia 1,State Senate,54,DEM,Scott Comegys,169
+Wayne,Arcadia 1,State Senate,54,REP,Pamela A. Helming,551
+Wayne,Arcadia 1,State Senate,54,CON,Pamela A. Helming,90
+Wayne,Arcadia 1,State Assembly,130,DEM,James Schuler,176
+Wayne,Arcadia 1,State Assembly,130,REP,Brian D. Manktelow,549
+Wayne,Arcadia 1,State Assembly,130,CON,Brian D. Manktelow,92
+Wayne,Arcadia 2,President,,DEM,Kamala D. Harris,309
+Wayne,Arcadia 2,President,,REP,Donald J. Trump,450
+Wayne,Arcadia 2,President,,CON,Donald J. Trump,36
+Wayne,Arcadia 2,President,,WOR,Kamala D. Harris,18
+Wayne,Arcadia 2,President,,,Write-in,3
+Wayne,Arcadia 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,305
+Wayne,Arcadia 2,U.S. Senate,,REP,Michael D. Sapraicone,401
+Wayne,Arcadia 2,U.S. Senate,,CON,Michael D. Sapraicone,42
+Wayne,Arcadia 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Wayne,Arcadia 2,U.S. Senate,,LAR,Diane Sare,2
+Wayne,Arcadia 2,U.S. House,24,DEM,David Wagenhauser,265
+Wayne,Arcadia 2,U.S. House,24,REP,Claudia Tenney,459
+Wayne,Arcadia 2,U.S. House,24,CON,Claudia Tenney,46
+Wayne,Arcadia 2,U.S. House,24,,Write-in,1
+Wayne,Arcadia 2,State Senate,54,DEM,Scott Comegys,217
+Wayne,Arcadia 2,State Senate,54,REP,Pamela A. Helming,504
+Wayne,Arcadia 2,State Senate,54,CON,Pamela A. Helming,57
+Wayne,Arcadia 2,State Assembly,130,DEM,James Schuler,227
+Wayne,Arcadia 2,State Assembly,130,REP,Brian D. Manktelow,489
+Wayne,Arcadia 2,State Assembly,130,CON,Brian D. Manktelow,60
+Wayne,Arcadia 3,President,,DEM,Kamala D. Harris,190
+Wayne,Arcadia 3,President,,REP,Donald J. Trump,198
+Wayne,Arcadia 3,President,,CON,Donald J. Trump,20
+Wayne,Arcadia 3,President,,WOR,Kamala D. Harris,5
+Wayne,Arcadia 3,President,,,Write-in,2
+Wayne,Arcadia 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,187
+Wayne,Arcadia 3,U.S. Senate,,REP,Michael D. Sapraicone,171
+Wayne,Arcadia 3,U.S. Senate,,CON,Michael D. Sapraicone,18
+Wayne,Arcadia 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Wayne,Arcadia 3,U.S. Senate,,LAR,Diane Sare,3
+Wayne,Arcadia 3,U.S. House,24,DEM,David Wagenhauser,176
+Wayne,Arcadia 3,U.S. House,24,REP,Claudia Tenney,191
+Wayne,Arcadia 3,U.S. House,24,CON,Claudia Tenney,21
+Wayne,Arcadia 3,State Senate,54,DEM,Scott Comegys,155
+Wayne,Arcadia 3,State Senate,54,REP,Pamela A. Helming,210
+Wayne,Arcadia 3,State Senate,54,CON,Pamela A. Helming,24
+Wayne,Arcadia 3,State Assembly,130,DEM,James Schuler,164
+Wayne,Arcadia 3,State Assembly,130,REP,Brian D. Manktelow,203
+Wayne,Arcadia 3,State Assembly,130,CON,Brian D. Manktelow,21
+Wayne,Arcadia 4,President,,DEM,Kamala D. Harris,195
+Wayne,Arcadia 4,President,,REP,Donald J. Trump,198
+Wayne,Arcadia 4,President,,CON,Donald J. Trump,34
+Wayne,Arcadia 4,President,,WOR,Kamala D. Harris,18
+Wayne,Arcadia 4,President,,,Write-in,2
+Wayne,Arcadia 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,201
+Wayne,Arcadia 4,U.S. Senate,,REP,Michael D. Sapraicone,176
+Wayne,Arcadia 4,U.S. Senate,,CON,Michael D. Sapraicone,27
+Wayne,Arcadia 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,30
+Wayne,Arcadia 4,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Arcadia 4,U.S. House,24,DEM,David Wagenhauser,201
+Wayne,Arcadia 4,U.S. House,24,REP,Claudia Tenney,193
+Wayne,Arcadia 4,U.S. House,24,CON,Claudia Tenney,36
+Wayne,Arcadia 4,U.S. House,24,,Write-in,1
+Wayne,Arcadia 4,State Senate,54,DEM,Scott Comegys,167
+Wayne,Arcadia 4,State Senate,54,REP,Pamela A. Helming,216
+Wayne,Arcadia 4,State Senate,54,CON,Pamela A. Helming,45
+Wayne,Arcadia 4,State Assembly,130,DEM,James Schuler,181
+Wayne,Arcadia 4,State Assembly,130,REP,Brian D. Manktelow,205
+Wayne,Arcadia 4,State Assembly,130,CON,Brian D. Manktelow,40
+Wayne,Arcadia 5,President,,DEM,Kamala D. Harris,198
+Wayne,Arcadia 5,President,,REP,Donald J. Trump,256
+Wayne,Arcadia 5,President,,CON,Donald J. Trump,16
+Wayne,Arcadia 5,President,,WOR,Kamala D. Harris,12
+Wayne,Arcadia 5,President,,,Write-in,3
+Wayne,Arcadia 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,206
+Wayne,Arcadia 5,U.S. Senate,,REP,Michael D. Sapraicone,220
+Wayne,Arcadia 5,U.S. Senate,,CON,Michael D. Sapraicone,18
+Wayne,Arcadia 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,23
+Wayne,Arcadia 5,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Arcadia 5,U.S. House,24,DEM,David Wagenhauser,176
+Wayne,Arcadia 5,U.S. House,24,REP,Claudia Tenney,251
+Wayne,Arcadia 5,U.S. House,24,CON,Claudia Tenney,27
+Wayne,Arcadia 5,U.S. House,24,,Write-in,1
+Wayne,Arcadia 5,State Senate,54,DEM,Scott Comegys,148
+Wayne,Arcadia 5,State Senate,54,REP,Pamela A. Helming,275
+Wayne,Arcadia 5,State Senate,54,CON,Pamela A. Helming,31
+Wayne,Arcadia 5,State Assembly,130,DEM,James Schuler,174
+Wayne,Arcadia 5,State Assembly,130,REP,Brian D. Manktelow,261
+Wayne,Arcadia 5,State Assembly,130,CON,Brian D. Manktelow,22
+Wayne,Arcadia 6,President,,DEM,Kamala D. Harris,359
+Wayne,Arcadia 6,President,,REP,Donald J. Trump,312
+Wayne,Arcadia 6,President,,CON,Donald J. Trump,37
+Wayne,Arcadia 6,President,,WOR,Kamala D. Harris,9
+Wayne,Arcadia 6,President,,,Write-in,4
+Wayne,Arcadia 6,U.S. Senate,,DEM,Kirsten E. Gillibrand,359
+Wayne,Arcadia 6,U.S. Senate,,REP,Michael D. Sapraicone,290
+Wayne,Arcadia 6,U.S. Senate,,CON,Michael D. Sapraicone,40
+Wayne,Arcadia 6,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Wayne,Arcadia 6,U.S. Senate,,LAR,Diane Sare,2
+Wayne,Arcadia 6,U.S. House,24,DEM,David Wagenhauser,312
+Wayne,Arcadia 6,U.S. House,24,REP,Claudia Tenney,332
+Wayne,Arcadia 6,U.S. House,24,CON,Claudia Tenney,41
+Wayne,Arcadia 6,State Senate,54,DEM,Scott Comegys,261
+Wayne,Arcadia 6,State Senate,54,REP,Pamela A. Helming,370
+Wayne,Arcadia 6,State Senate,54,CON,Pamela A. Helming,57
+Wayne,Arcadia 6,State Assembly,130,DEM,James Schuler,275
+Wayne,Arcadia 6,State Assembly,130,REP,Brian D. Manktelow,371
+Wayne,Arcadia 6,State Assembly,130,CON,Brian D. Manktelow,47
+Wayne,Arcadia 7,President,,DEM,Kamala D. Harris,239
+Wayne,Arcadia 7,President,,REP,Donald J. Trump,209
+Wayne,Arcadia 7,President,,CON,Donald J. Trump,24
+Wayne,Arcadia 7,President,,WOR,Kamala D. Harris,14
+Wayne,Arcadia 7,President,,,Write-in,6
+Wayne,Arcadia 7,U.S. Senate,,DEM,Kirsten E. Gillibrand,240
+Wayne,Arcadia 7,U.S. Senate,,REP,Michael D. Sapraicone,193
+Wayne,Arcadia 7,U.S. Senate,,CON,Michael D. Sapraicone,24
+Wayne,Arcadia 7,U.S. Senate,,WOR,Kirsten E. Gillibrand,24
+Wayne,Arcadia 7,U.S. Senate,,LAR,Diane Sare,2
+Wayne,Arcadia 7,U.S. House,24,DEM,David Wagenhauser,223
+Wayne,Arcadia 7,U.S. House,24,REP,Claudia Tenney,216
+Wayne,Arcadia 7,U.S. House,24,CON,Claudia Tenney,34
+Wayne,Arcadia 7,U.S. House,24,,Write-in,1
+Wayne,Arcadia 7,State Senate,54,DEM,Scott Comegys,192
+Wayne,Arcadia 7,State Senate,54,REP,Pamela A. Helming,246
+Wayne,Arcadia 7,State Senate,54,CON,Pamela A. Helming,40
+Wayne,Arcadia 7,State Assembly,130,DEM,James Schuler,188
+Wayne,Arcadia 7,State Assembly,130,REP,Brian D. Manktelow,249
+Wayne,Arcadia 7,State Assembly,130,CON,Brian D. Manktelow,39
+Wayne,Arcadia 8,President,,DEM,Kamala D. Harris,158
+Wayne,Arcadia 8,President,,REP,Donald J. Trump,174
+Wayne,Arcadia 8,President,,CON,Donald J. Trump,16
+Wayne,Arcadia 8,President,,WOR,Kamala D. Harris,7
+Wayne,Arcadia 8,President,,,Write-in,3
+Wayne,Arcadia 8,U.S. Senate,,DEM,Kirsten E. Gillibrand,162
+Wayne,Arcadia 8,U.S. Senate,,REP,Michael D. Sapraicone,161
+Wayne,Arcadia 8,U.S. Senate,,CON,Michael D. Sapraicone,15
+Wayne,Arcadia 8,U.S. Senate,,WOR,Kirsten E. Gillibrand,9
+Wayne,Arcadia 8,U.S. Senate,,LAR,Diane Sare,4
+Wayne,Arcadia 8,U.S. House,24,DEM,David Wagenhauser,142
+Wayne,Arcadia 8,U.S. House,24,REP,Claudia Tenney,179
+Wayne,Arcadia 8,U.S. House,24,CON,Claudia Tenney,19
+Wayne,Arcadia 8,State Senate,54,DEM,Scott Comegys,132
+Wayne,Arcadia 8,State Senate,54,REP,Pamela A. Helming,184
+Wayne,Arcadia 8,State Senate,54,CON,Pamela A. Helming,28
+Wayne,Arcadia 8,State Assembly,130,DEM,James Schuler,134
+Wayne,Arcadia 8,State Assembly,130,REP,Brian D. Manktelow,182
+Wayne,Arcadia 8,State Assembly,130,CON,Brian D. Manktelow,28
+Wayne,Arcadia 9,President,,DEM,Kamala D. Harris,183
+Wayne,Arcadia 9,President,,REP,Donald J. Trump,204
+Wayne,Arcadia 9,President,,CON,Donald J. Trump,23
+Wayne,Arcadia 9,President,,WOR,Kamala D. Harris,7
+Wayne,Arcadia 9,President,,,Write-in,4
+Wayne,Arcadia 9,U.S. Senate,,DEM,Kirsten E. Gillibrand,175
+Wayne,Arcadia 9,U.S. Senate,,REP,Michael D. Sapraicone,187
+Wayne,Arcadia 9,U.S. Senate,,CON,Michael D. Sapraicone,22
+Wayne,Arcadia 9,U.S. Senate,,WOR,Kirsten E. Gillibrand,15
+Wayne,Arcadia 9,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Arcadia 9,U.S. House,24,DEM,David Wagenhauser,167
+Wayne,Arcadia 9,U.S. House,24,REP,Claudia Tenney,205
+Wayne,Arcadia 9,U.S. House,24,CON,Claudia Tenney,27
+Wayne,Arcadia 9,State Senate,54,DEM,Scott Comegys,137
+Wayne,Arcadia 9,State Senate,54,REP,Pamela A. Helming,231
+Wayne,Arcadia 9,State Senate,54,CON,Pamela A. Helming,33
+Wayne,Arcadia 9,State Assembly,130,DEM,James Schuler,149
+Wayne,Arcadia 9,State Assembly,130,REP,Brian D. Manktelow,219
+Wayne,Arcadia 9,State Assembly,130,CON,Brian D. Manktelow,31
+Wayne,Arcadia 10,President,,DEM,Kamala D. Harris,263
+Wayne,Arcadia 10,President,,REP,Donald J. Trump,402
+Wayne,Arcadia 10,President,,CON,Donald J. Trump,51
+Wayne,Arcadia 10,President,,WOR,Kamala D. Harris,11
+Wayne,Arcadia 10,President,,,Write-in,2
+Wayne,Arcadia 10,U.S. Senate,,DEM,Kirsten E. Gillibrand,257
+Wayne,Arcadia 10,U.S. Senate,,REP,Michael D. Sapraicone,377
+Wayne,Arcadia 10,U.S. Senate,,CON,Michael D. Sapraicone,48
+Wayne,Arcadia 10,U.S. Senate,,WOR,Kirsten E. Gillibrand,22
+Wayne,Arcadia 10,U.S. Senate,,LAR,Diane Sare,2
+Wayne,Arcadia 10,U.S. House,24,DEM,David Wagenhauser,226
+Wayne,Arcadia 10,U.S. House,24,REP,Claudia Tenney,405
+Wayne,Arcadia 10,U.S. House,24,CON,Claudia Tenney,66
+Wayne,Arcadia 10,State Senate,54,DEM,Scott Comegys,195
+Wayne,Arcadia 10,State Senate,54,REP,Pamela A. Helming,432
+Wayne,Arcadia 10,State Senate,54,CON,Pamela A. Helming,73
+Wayne,Arcadia 10,State Assembly,130,DEM,James Schuler,196
+Wayne,Arcadia 10,State Assembly,130,REP,Brian D. Manktelow,433
+Wayne,Arcadia 10,State Assembly,130,CON,Brian D. Manktelow,73
+Wayne,Arcadia 10,State Assembly,130,,Write-in,1
+Wayne,Butler 1,President,,DEM,Kamala D. Harris,159
+Wayne,Butler 1,President,,REP,Donald J. Trump,488
+Wayne,Butler 1,President,,CON,Donald J. Trump,58
+Wayne,Butler 1,President,,WOR,Kamala D. Harris,10
+Wayne,Butler 1,President,,,Write-in,1
+Wayne,Butler 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,156
+Wayne,Butler 1,U.S. Senate,,REP,Michael D. Sapraicone,445
+Wayne,Butler 1,U.S. Senate,,CON,Michael D. Sapraicone,53
+Wayne,Butler 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,27
+Wayne,Butler 1,U.S. Senate,,LAR,Diane Sare,2
+Wayne,Butler 1,U.S. House,24,DEM,David Wagenhauser,138
+Wayne,Butler 1,U.S. House,24,REP,Claudia Tenney,484
+Wayne,Butler 1,U.S. House,24,CON,Claudia Tenney,60
+Wayne,Butler 1,State Senate,54,DEM,Scott Comegys,124
+Wayne,Butler 1,State Senate,54,REP,Pamela A. Helming,499
+Wayne,Butler 1,State Senate,54,CON,Pamela A. Helming,64
+Wayne,Butler 1,State Assembly,130,DEM,James Schuler,120
+Wayne,Butler 1,State Assembly,130,REP,Brian D. Manktelow,501
+Wayne,Butler 1,State Assembly,130,CON,Brian D. Manktelow,62
+Wayne,Galen 1,President,,DEM,Kamala D. Harris,139
+Wayne,Galen 1,President,,REP,Donald J. Trump,260
+Wayne,Galen 1,President,,CON,Donald J. Trump,40
+Wayne,Galen 1,President,,WOR,Kamala D. Harris,4
+Wayne,Galen 1,President,,,Write-in,4
+Wayne,Galen 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,131
+Wayne,Galen 1,U.S. Senate,,REP,Michael D. Sapraicone,242
+Wayne,Galen 1,U.S. Senate,,CON,Michael D. Sapraicone,42
+Wayne,Galen 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,19
+Wayne,Galen 1,U.S. House,24,DEM,David Wagenhauser,120
+Wayne,Galen 1,U.S. House,24,REP,Claudia Tenney,252
+Wayne,Galen 1,U.S. House,24,CON,Claudia Tenney,52
+Wayne,Galen 1,State Senate,54,DEM,Scott Comegys,97
+Wayne,Galen 1,State Senate,54,REP,Pamela A. Helming,273
+Wayne,Galen 1,State Senate,54,CON,Pamela A. Helming,53
+Wayne,Galen 1,State Assembly,130,DEM,James Schuler,94
+Wayne,Galen 1,State Assembly,130,REP,Brian D. Manktelow,284
+Wayne,Galen 1,State Assembly,130,CON,Brian D. Manktelow,53
+Wayne,Galen 2,President,,DEM,Kamala D. Harris,131
+Wayne,Galen 2,President,,REP,Donald J. Trump,231
+Wayne,Galen 2,President,,CON,Donald J. Trump,33
+Wayne,Galen 2,President,,WOR,Kamala D. Harris,7
+Wayne,Galen 2,President,,,Write-in,5
+Wayne,Galen 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,134
+Wayne,Galen 2,U.S. Senate,,REP,Michael D. Sapraicone,219
+Wayne,Galen 2,U.S. Senate,,CON,Michael D. Sapraicone,32
+Wayne,Galen 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,11
+Wayne,Galen 2,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Galen 2,U.S. House,24,DEM,David Wagenhauser,108
+Wayne,Galen 2,U.S. House,24,REP,Claudia Tenney,252
+Wayne,Galen 2,U.S. House,24,CON,Claudia Tenney,38
+Wayne,Galen 2,State Senate,54,DEM,Scott Comegys,97
+Wayne,Galen 2,State Senate,54,REP,Pamela A. Helming,264
+Wayne,Galen 2,State Senate,54,CON,Pamela A. Helming,39
+Wayne,Galen 2,State Assembly,130,DEM,James Schuler,97
+Wayne,Galen 2,State Assembly,130,REP,Brian D. Manktelow,263
+Wayne,Galen 2,State Assembly,130,CON,Brian D. Manktelow,40
+Wayne,Galen 3,President,,DEM,Kamala D. Harris,155
+Wayne,Galen 3,President,,REP,Donald J. Trump,269
+Wayne,Galen 3,President,,CON,Donald J. Trump,40
+Wayne,Galen 3,President,,WOR,Kamala D. Harris,7
+Wayne,Galen 3,President,,,Write-in,2
+Wayne,Galen 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,157
+Wayne,Galen 3,U.S. Senate,,REP,Michael D. Sapraicone,232
+Wayne,Galen 3,U.S. Senate,,CON,Michael D. Sapraicone,42
+Wayne,Galen 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Wayne,Galen 3,U.S. Senate,,LAR,Diane Sare,2
+Wayne,Galen 3,U.S. House,24,DEM,David Wagenhauser,146
+Wayne,Galen 3,U.S. House,24,REP,Claudia Tenney,249
+Wayne,Galen 3,U.S. House,24,CON,Claudia Tenney,48
+Wayne,Galen 3,U.S. House,24,,Write-in,2
+Wayne,Galen 3,State Senate,54,DEM,Scott Comegys,126
+Wayne,Galen 3,State Senate,54,REP,Pamela A. Helming,263
+Wayne,Galen 3,State Senate,54,CON,Pamela A. Helming,51
+Wayne,Galen 3,State Assembly,130,DEM,James Schuler,128
+Wayne,Galen 3,State Assembly,130,REP,Brian D. Manktelow,262
+Wayne,Galen 3,State Assembly,130,CON,Brian D. Manktelow,52
+Wayne,Galen 4,President,,DEM,Kamala D. Harris,163
+Wayne,Galen 4,President,,REP,Donald J. Trump,213
+Wayne,Galen 4,President,,CON,Donald J. Trump,22
+Wayne,Galen 4,President,,WOR,Kamala D. Harris,10
+Wayne,Galen 4,President,,,Write-in,1
+Wayne,Galen 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,162
+Wayne,Galen 4,U.S. Senate,,REP,Michael D. Sapraicone,194
+Wayne,Galen 4,U.S. Senate,,CON,Michael D. Sapraicone,27
+Wayne,Galen 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Wayne,Galen 4,U.S. House,24,DEM,David Wagenhauser,136
+Wayne,Galen 4,U.S. House,24,REP,Claudia Tenney,218
+Wayne,Galen 4,U.S. House,24,CON,Claudia Tenney,30
+Wayne,Galen 4,U.S. House,24,,Write-in,2
+Wayne,Galen 4,State Senate,54,DEM,Scott Comegys,128
+Wayne,Galen 4,State Senate,54,REP,Pamela A. Helming,233
+Wayne,Galen 4,State Senate,54,CON,Pamela A. Helming,39
+Wayne,Galen 4,State Assembly,130,DEM,James Schuler,120
+Wayne,Galen 4,State Assembly,130,REP,Brian D. Manktelow,238
+Wayne,Galen 4,State Assembly,130,CON,Brian D. Manktelow,39
+Wayne,Huron 1,President,,DEM,Kamala D. Harris,203
+Wayne,Huron 1,President,,REP,Donald J. Trump,216
+Wayne,Huron 1,President,,CON,Donald J. Trump,31
+Wayne,Huron 1,President,,WOR,Kamala D. Harris,8
+Wayne,Huron 1,President,,,Write-in,7
+Wayne,Huron 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,201
+Wayne,Huron 1,U.S. Senate,,REP,Michael D. Sapraicone,205
+Wayne,Huron 1,U.S. Senate,,CON,Michael D. Sapraicone,40
+Wayne,Huron 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,10
+Wayne,Huron 1,U.S. House,24,DEM,David Wagenhauser,168
+Wayne,Huron 1,U.S. House,24,REP,Claudia Tenney,240
+Wayne,Huron 1,U.S. House,24,CON,Claudia Tenney,43
+Wayne,Huron 1,State Senate,54,DEM,Scott Comegys,132
+Wayne,Huron 1,State Senate,54,REP,Pamela A. Helming,270
+Wayne,Huron 1,State Senate,54,CON,Pamela A. Helming,50
+Wayne,Huron 1,State Assembly,130,DEM,James Schuler,136
+Wayne,Huron 1,State Assembly,130,REP,Brian D. Manktelow,257
+Wayne,Huron 1,State Assembly,130,CON,Brian D. Manktelow,49
+Wayne,Huron 2,President,,DEM,Kamala D. Harris,191
+Wayne,Huron 2,President,,REP,Donald J. Trump,325
+Wayne,Huron 2,President,,CON,Donald J. Trump,51
+Wayne,Huron 2,President,,WOR,Kamala D. Harris,6
+Wayne,Huron 2,President,,,Write-in,1
+Wayne,Huron 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,185
+Wayne,Huron 2,U.S. Senate,,REP,Michael D. Sapraicone,296
+Wayne,Huron 2,U.S. Senate,,CON,Michael D. Sapraicone,59
+Wayne,Huron 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Wayne,Huron 2,U.S. House,24,DEM,David Wagenhauser,165
+Wayne,Huron 2,U.S. House,24,REP,Claudia Tenney,326
+Wayne,Huron 2,U.S. House,24,CON,Claudia Tenney,60
+Wayne,Huron 2,U.S. House,24,,Write-in,1
+Wayne,Huron 2,State Senate,54,DEM,Scott Comegys,149
+Wayne,Huron 2,State Senate,54,REP,Pamela A. Helming,339
+Wayne,Huron 2,State Senate,54,CON,Pamela A. Helming,64
+Wayne,Huron 2,State Assembly,130,DEM,James Schuler,141
+Wayne,Huron 2,State Assembly,130,REP,Brian D. Manktelow,353
+Wayne,Huron 2,State Assembly,130,CON,Brian D. Manktelow,64
+Wayne,Lyons 1,President,,DEM,Kamala D. Harris,124
+Wayne,Lyons 1,President,,REP,Donald J. Trump,253
+Wayne,Lyons 1,President,,CON,Donald J. Trump,33
+Wayne,Lyons 1,President,,WOR,Kamala D. Harris,13
+Wayne,Lyons 1,President,,,Write-in,3
+Wayne,Lyons 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,126
+Wayne,Lyons 1,U.S. Senate,,REP,Michael D. Sapraicone,240
+Wayne,Lyons 1,U.S. Senate,,CON,Michael D. Sapraicone,31
+Wayne,Lyons 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,19
+Wayne,Lyons 1,U.S. House,24,DEM,David Wagenhauser,102
+Wayne,Lyons 1,U.S. House,24,REP,Claudia Tenney,256
+Wayne,Lyons 1,U.S. House,24,CON,Claudia Tenney,41
+Wayne,Lyons 1,State Senate,54,DEM,Scott Comegys,75
+Wayne,Lyons 1,State Senate,54,REP,Pamela A. Helming,280
+Wayne,Lyons 1,State Senate,54,CON,Pamela A. Helming,49
+Wayne,Lyons 1,State Assembly,130,DEM,James Schuler,89
+Wayne,Lyons 1,State Assembly,130,REP,Brian D. Manktelow,282
+Wayne,Lyons 1,State Assembly,130,CON,Brian D. Manktelow,46
+Wayne,Lyons 2,President,,DEM,Kamala D. Harris,149
+Wayne,Lyons 2,President,,REP,Donald J. Trump,226
+Wayne,Lyons 2,President,,CON,Donald J. Trump,18
+Wayne,Lyons 2,President,,WOR,Kamala D. Harris,13
+Wayne,Lyons 2,President,,,Write-in,1
+Wayne,Lyons 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,135
+Wayne,Lyons 2,U.S. Senate,,REP,Michael D. Sapraicone,197
+Wayne,Lyons 2,U.S. Senate,,CON,Michael D. Sapraicone,23
+Wayne,Lyons 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,22
+Wayne,Lyons 2,U.S. Senate,,,Write-in,1
+Wayne,Lyons 2,U.S. House,24,DEM,David Wagenhauser,122
+Wayne,Lyons 2,U.S. House,24,REP,Claudia Tenney,224
+Wayne,Lyons 2,U.S. House,24,CON,Claudia Tenney,32
+Wayne,Lyons 2,U.S. House,24,,Write-in,1
+Wayne,Lyons 2,State Senate,54,DEM,Scott Comegys,114
+Wayne,Lyons 2,State Senate,54,REP,Pamela A. Helming,234
+Wayne,Lyons 2,State Senate,54,CON,Pamela A. Helming,34
+Wayne,Lyons 2,State Senate,54,,Write-in,1
+Wayne,Lyons 2,State Assembly,130,DEM,James Schuler,112
+Wayne,Lyons 2,State Assembly,130,REP,Brian D. Manktelow,250
+Wayne,Lyons 2,State Assembly,130,CON,Brian D. Manktelow,31
+Wayne,Lyons 2,State Assembly,130,,Write-in,1
+Wayne,Lyons 3,President,,DEM,Kamala D. Harris,197
+Wayne,Lyons 3,President,,REP,Donald J. Trump,190
+Wayne,Lyons 3,President,,CON,Donald J. Trump,27
+Wayne,Lyons 3,President,,WOR,Kamala D. Harris,8
+Wayne,Lyons 3,President,,,Write-in,3
+Wayne,Lyons 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,194
+Wayne,Lyons 3,U.S. Senate,,REP,Michael D. Sapraicone,175
+Wayne,Lyons 3,U.S. Senate,,CON,Michael D. Sapraicone,29
+Wayne,Lyons 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,15
+Wayne,Lyons 3,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Lyons 3,U.S. House,24,DEM,David Wagenhauser,182
+Wayne,Lyons 3,U.S. House,24,REP,Claudia Tenney,200
+Wayne,Lyons 3,U.S. House,24,CON,Claudia Tenney,30
+Wayne,Lyons 3,State Senate,54,DEM,Scott Comegys,146
+Wayne,Lyons 3,State Senate,54,REP,Pamela A. Helming,230
+Wayne,Lyons 3,State Senate,54,CON,Pamela A. Helming,35
+Wayne,Lyons 3,State Assembly,130,DEM,James Schuler,142
+Wayne,Lyons 3,State Assembly,130,REP,Brian D. Manktelow,238
+Wayne,Lyons 3,State Assembly,130,CON,Brian D. Manktelow,35
+Wayne,Lyons 4,President,,DEM,Kamala D. Harris,185
+Wayne,Lyons 4,President,,REP,Donald J. Trump,212
+Wayne,Lyons 4,President,,CON,Donald J. Trump,38
+Wayne,Lyons 4,President,,WOR,Kamala D. Harris,12
+Wayne,Lyons 4,President,,,Write-in,4
+Wayne,Lyons 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,195
+Wayne,Lyons 4,U.S. Senate,,REP,Michael D. Sapraicone,170
+Wayne,Lyons 4,U.S. Senate,,CON,Michael D. Sapraicone,44
+Wayne,Lyons 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,24
+Wayne,Lyons 4,U.S. Senate,,LAR,Diane Sare,3
+Wayne,Lyons 4,U.S. House,24,DEM,David Wagenhauser,161
+Wayne,Lyons 4,U.S. House,24,REP,Claudia Tenney,208
+Wayne,Lyons 4,U.S. House,24,CON,Claudia Tenney,52
+Wayne,Lyons 4,U.S. House,24,,Write-in,1
+Wayne,Lyons 4,State Senate,54,DEM,Scott Comegys,133
+Wayne,Lyons 4,State Senate,54,REP,Pamela A. Helming,236
+Wayne,Lyons 4,State Senate,54,CON,Pamela A. Helming,55
+Wayne,Lyons 4,State Senate,54,,Write-in,1
+Wayne,Lyons 4,State Assembly,130,DEM,James Schuler,136
+Wayne,Lyons 4,State Assembly,130,REP,Brian D. Manktelow,248
+Wayne,Lyons 4,State Assembly,130,CON,Brian D. Manktelow,56
+Wayne,Lyons 4,State Assembly,130,,Write-in,1
+Wayne,Lyons 5,President,,DEM,Kamala D. Harris,101
+Wayne,Lyons 5,President,,REP,Donald J. Trump,283
+Wayne,Lyons 5,President,,CON,Donald J. Trump,23
+Wayne,Lyons 5,President,,WOR,Kamala D. Harris,6
+Wayne,Lyons 5,President,,,Write-in,5
+Wayne,Lyons 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,106
+Wayne,Lyons 5,U.S. Senate,,REP,Michael D. Sapraicone,245
+Wayne,Lyons 5,U.S. Senate,,CON,Michael D. Sapraicone,26
+Wayne,Lyons 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,23
+Wayne,Lyons 5,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Lyons 5,U.S. Senate,,,Write-in,1
+Wayne,Lyons 5,U.S. House,24,DEM,David Wagenhauser,80
+Wayne,Lyons 5,U.S. House,24,REP,Claudia Tenney,286
+Wayne,Lyons 5,U.S. House,24,CON,Claudia Tenney,30
+Wayne,Lyons 5,U.S. House,24,,Write-in,1
+Wayne,Lyons 5,State Senate,54,DEM,Scott Comegys,66
+Wayne,Lyons 5,State Senate,54,REP,Pamela A. Helming,294
+Wayne,Lyons 5,State Senate,54,CON,Pamela A. Helming,40
+Wayne,Lyons 5,State Senate,54,,Write-in,1
+Wayne,Lyons 5,State Assembly,130,DEM,James Schuler,62
+Wayne,Lyons 5,State Assembly,130,REP,Brian D. Manktelow,304
+Wayne,Lyons 5,State Assembly,130,CON,Brian D. Manktelow,41
+Wayne,Lyons 5,State Assembly,130,,Write-in,1
+Wayne,Macedon 1,President,,DEM,Kamala D. Harris,411
+Wayne,Macedon 1,President,,REP,Donald J. Trump,487
+Wayne,Macedon 1,President,,CON,Donald J. Trump,67
+Wayne,Macedon 1,President,,WOR,Kamala D. Harris,24
+Wayne,Macedon 1,President,,,Write-in,5
+Wayne,Macedon 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,408
+Wayne,Macedon 1,U.S. Senate,,REP,Michael D. Sapraicone,458
+Wayne,Macedon 1,U.S. Senate,,CON,Michael D. Sapraicone,67
+Wayne,Macedon 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,32
+Wayne,Macedon 1,U.S. Senate,,LAR,Diane Sare,4
+Wayne,Macedon 1,U.S. House,24,DEM,David Wagenhauser,385
+Wayne,Macedon 1,U.S. House,24,REP,Claudia Tenney,491
+Wayne,Macedon 1,U.S. House,24,CON,Claudia Tenney,76
+Wayne,Macedon 1,U.S. House,24,,Write-in,1
+Wayne,Macedon 1,State Senate,54,DEM,Scott Comegys,352
+Wayne,Macedon 1,State Senate,54,REP,Pamela A. Helming,517
+Wayne,Macedon 1,State Senate,54,CON,Pamela A. Helming,81
+Wayne,Macedon 1,State Assembly,130,DEM,James Schuler,361
+Wayne,Macedon 1,State Assembly,130,REP,Brian D. Manktelow,504
+Wayne,Macedon 1,State Assembly,130,CON,Brian D. Manktelow,81
+Wayne,Macedon 2,President,,DEM,Kamala D. Harris,515
+Wayne,Macedon 2,President,,REP,Donald J. Trump,637
+Wayne,Macedon 2,President,,CON,Donald J. Trump,81
+Wayne,Macedon 2,President,,WOR,Kamala D. Harris,24
+Wayne,Macedon 2,President,,,Write-in,9
+Wayne,Macedon 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,510
+Wayne,Macedon 2,U.S. Senate,,REP,Michael D. Sapraicone,584
+Wayne,Macedon 2,U.S. Senate,,CON,Michael D. Sapraicone,90
+Wayne,Macedon 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,40
+Wayne,Macedon 2,U.S. Senate,,LAR,Diane Sare,3
+Wayne,Macedon 2,U.S. Senate,,,Write-in,1
+Wayne,Macedon 2,U.S. House,24,DEM,David Wagenhauser,473
+Wayne,Macedon 2,U.S. House,24,REP,Claudia Tenney,635
+Wayne,Macedon 2,U.S. House,24,CON,Claudia Tenney,99
+Wayne,Macedon 2,State Senate,54,DEM,Scott Comegys,442
+Wayne,Macedon 2,State Senate,54,REP,Pamela A. Helming,667
+Wayne,Macedon 2,State Senate,54,CON,Pamela A. Helming,106
+Wayne,Macedon 2,State Assembly,130,DEM,James Schuler,440
+Wayne,Macedon 2,State Assembly,130,REP,Brian D. Manktelow,666
+Wayne,Macedon 2,State Assembly,130,CON,Brian D. Manktelow,99
+Wayne,Macedon 3,President,,DEM,Kamala D. Harris,419
+Wayne,Macedon 3,President,,REP,Donald J. Trump,537
+Wayne,Macedon 3,President,,CON,Donald J. Trump,79
+Wayne,Macedon 3,President,,WOR,Kamala D. Harris,18
+Wayne,Macedon 3,President,,,Write-in,9
+Wayne,Macedon 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,422
+Wayne,Macedon 3,U.S. Senate,,REP,Michael D. Sapraicone,506
+Wayne,Macedon 3,U.S. Senate,,CON,Michael D. Sapraicone,77
+Wayne,Macedon 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,30
+Wayne,Macedon 3,U.S. Senate,,LAR,Diane Sare,3
+Wayne,Macedon 3,U.S. House,24,DEM,David Wagenhauser,385
+Wayne,Macedon 3,U.S. House,24,REP,Claudia Tenney,550
+Wayne,Macedon 3,U.S. House,24,CON,Claudia Tenney,88
+Wayne,Macedon 3,State Senate,54,DEM,Scott Comegys,338
+Wayne,Macedon 3,State Senate,54,REP,Pamela A. Helming,589
+Wayne,Macedon 3,State Senate,54,CON,Pamela A. Helming,101
+Wayne,Macedon 3,State Assembly,130,DEM,James Schuler,349
+Wayne,Macedon 3,State Assembly,130,REP,Brian D. Manktelow,571
+Wayne,Macedon 3,State Assembly,130,CON,Brian D. Manktelow,101
+Wayne,Macedon 4,President,,DEM,Kamala D. Harris,278
+Wayne,Macedon 4,President,,REP,Donald J. Trump,367
+Wayne,Macedon 4,President,,CON,Donald J. Trump,54
+Wayne,Macedon 4,President,,WOR,Kamala D. Harris,18
+Wayne,Macedon 4,President,,,Write-in,6
+Wayne,Macedon 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,281
+Wayne,Macedon 4,U.S. Senate,,REP,Michael D. Sapraicone,351
+Wayne,Macedon 4,U.S. Senate,,CON,Michael D. Sapraicone,63
+Wayne,Macedon 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Wayne,Macedon 4,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Macedon 4,U.S. House,24,DEM,David Wagenhauser,244
+Wayne,Macedon 4,U.S. House,24,REP,Claudia Tenney,387
+Wayne,Macedon 4,U.S. House,24,CON,Claudia Tenney,69
+Wayne,Macedon 4,U.S. House,24,,Write-in,1
+Wayne,Macedon 4,State Senate,54,DEM,Scott Comegys,217
+Wayne,Macedon 4,State Senate,54,REP,Pamela A. Helming,412
+Wayne,Macedon 4,State Senate,54,CON,Pamela A. Helming,72
+Wayne,Macedon 4,State Senate,54,,Write-in,1
+Wayne,Macedon 4,State Assembly,130,DEM,James Schuler,238
+Wayne,Macedon 4,State Assembly,130,REP,Brian D. Manktelow,385
+Wayne,Macedon 4,State Assembly,130,CON,Brian D. Manktelow,72
+Wayne,Macedon 5,President,,DEM,Kamala D. Harris,284
+Wayne,Macedon 5,President,,REP,Donald J. Trump,413
+Wayne,Macedon 5,President,,CON,Donald J. Trump,46
+Wayne,Macedon 5,President,,WOR,Kamala D. Harris,14
+Wayne,Macedon 5,President,,,Write-in,3
+Wayne,Macedon 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,284
+Wayne,Macedon 5,U.S. Senate,,REP,Michael D. Sapraicone,366
+Wayne,Macedon 5,U.S. Senate,,CON,Michael D. Sapraicone,47
+Wayne,Macedon 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Wayne,Macedon 5,U.S. Senate,,LAR,Diane Sare,4
+Wayne,Macedon 5,U.S. House,24,DEM,David Wagenhauser,263
+Wayne,Macedon 5,U.S. House,24,REP,Claudia Tenney,397
+Wayne,Macedon 5,U.S. House,24,CON,Claudia Tenney,58
+Wayne,Macedon 5,State Senate,54,DEM,Scott Comegys,224
+Wayne,Macedon 5,State Senate,54,REP,Pamela A. Helming,433
+Wayne,Macedon 5,State Senate,54,CON,Pamela A. Helming,59
+Wayne,Macedon 5,State Assembly,130,DEM,James Schuler,245
+Wayne,Macedon 5,State Assembly,130,REP,Brian D. Manktelow,421
+Wayne,Macedon 5,State Assembly,130,CON,Brian D. Manktelow,60
+Wayne,Marion 1,President,,DEM,Kamala D. Harris,179
+Wayne,Marion 1,President,,REP,Donald J. Trump,338
+Wayne,Marion 1,President,,CON,Donald J. Trump,61
+Wayne,Marion 1,President,,WOR,Kamala D. Harris,10
+Wayne,Marion 1,President,,,Write-in,3
+Wayne,Marion 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,174
+Wayne,Marion 1,U.S. Senate,,REP,Michael D. Sapraicone,324
+Wayne,Marion 1,U.S. Senate,,CON,Michael D. Sapraicone,69
+Wayne,Marion 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,15
+Wayne,Marion 1,U.S. Senate,,LAR,Diane Sare,5
+Wayne,Marion 1,U.S. House,24,DEM,David Wagenhauser,165
+Wayne,Marion 1,U.S. House,24,REP,Claudia Tenney,342
+Wayne,Marion 1,U.S. House,24,CON,Claudia Tenney,67
+Wayne,Marion 1,State Senate,54,DEM,Scott Comegys,151
+Wayne,Marion 1,State Senate,54,REP,Pamela A. Helming,353
+Wayne,Marion 1,State Senate,54,CON,Pamela A. Helming,76
+Wayne,Marion 1,State Assembly,130,DEM,James Schuler,139
+Wayne,Marion 1,State Assembly,130,REP,Brian D. Manktelow,364
+Wayne,Marion 1,State Assembly,130,CON,Brian D. Manktelow,78
+Wayne,Marion 2,President,,DEM,Kamala D. Harris,142
+Wayne,Marion 2,President,,REP,Donald J. Trump,358
+Wayne,Marion 2,President,,CON,Donald J. Trump,57
+Wayne,Marion 2,President,,WOR,Kamala D. Harris,10
+Wayne,Marion 2,President,,,Write-in,3
+Wayne,Marion 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,146
+Wayne,Marion 2,U.S. Senate,,REP,Michael D. Sapraicone,334
+Wayne,Marion 2,U.S. Senate,,CON,Michael D. Sapraicone,63
+Wayne,Marion 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,19
+Wayne,Marion 2,U.S. Senate,,LAR,Diane Sare,5
+Wayne,Marion 2,U.S. House,24,DEM,David Wagenhauser,127
+Wayne,Marion 2,U.S. House,24,REP,Claudia Tenney,372
+Wayne,Marion 2,U.S. House,24,CON,Claudia Tenney,63
+Wayne,Marion 2,U.S. House,24,,Write-in,1
+Wayne,Marion 2,State Senate,54,DEM,Scott Comegys,106
+Wayne,Marion 2,State Senate,54,REP,Pamela A. Helming,392
+Wayne,Marion 2,State Senate,54,CON,Pamela A. Helming,66
+Wayne,Marion 2,State Assembly,130,DEM,James Schuler,103
+Wayne,Marion 2,State Assembly,130,REP,Brian D. Manktelow,391
+Wayne,Marion 2,State Assembly,130,CON,Brian D. Manktelow,69
+Wayne,Marion 3,President,,DEM,Kamala D. Harris,209
+Wayne,Marion 3,President,,REP,Donald J. Trump,401
+Wayne,Marion 3,President,,CON,Donald J. Trump,70
+Wayne,Marion 3,President,,WOR,Kamala D. Harris,8
+Wayne,Marion 3,President,,,Write-in,5
+Wayne,Marion 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,209
+Wayne,Marion 3,U.S. Senate,,REP,Michael D. Sapraicone,362
+Wayne,Marion 3,U.S. Senate,,CON,Michael D. Sapraicone,73
+Wayne,Marion 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,30
+Wayne,Marion 3,U.S. Senate,,LAR,Diane Sare,3
+Wayne,Marion 3,U.S. House,24,DEM,David Wagenhauser,189
+Wayne,Marion 3,U.S. House,24,REP,Claudia Tenney,399
+Wayne,Marion 3,U.S. House,24,CON,Claudia Tenney,80
+Wayne,Marion 3,State Senate,54,DEM,Scott Comegys,172
+Wayne,Marion 3,State Senate,54,REP,Pamela A. Helming,421
+Wayne,Marion 3,State Senate,54,CON,Pamela A. Helming,81
+Wayne,Marion 3,State Assembly,130,DEM,James Schuler,169
+Wayne,Marion 3,State Assembly,130,REP,Brian D. Manktelow,418
+Wayne,Marion 3,State Assembly,130,CON,Brian D. Manktelow,85
+Wayne,Marion 4,President,,DEM,Kamala D. Harris,167
+Wayne,Marion 4,President,,REP,Donald J. Trump,291
+Wayne,Marion 4,President,,CON,Donald J. Trump,77
+Wayne,Marion 4,President,,WOR,Kamala D. Harris,17
+Wayne,Marion 4,President,,,Write-in,6
+Wayne,Marion 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,170
+Wayne,Marion 4,U.S. Senate,,REP,Michael D. Sapraicone,271
+Wayne,Marion 4,U.S. Senate,,CON,Michael D. Sapraicone,76
+Wayne,Marion 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,26
+Wayne,Marion 4,U.S. Senate,,LAR,Diane Sare,2
+Wayne,Marion 4,U.S. House,24,DEM,David Wagenhauser,162
+Wayne,Marion 4,U.S. House,24,REP,Claudia Tenney,297
+Wayne,Marion 4,U.S. House,24,CON,Claudia Tenney,84
+Wayne,Marion 4,State Senate,54,DEM,Scott Comegys,144
+Wayne,Marion 4,State Senate,54,REP,Pamela A. Helming,321
+Wayne,Marion 4,State Senate,54,CON,Pamela A. Helming,83
+Wayne,Marion 4,State Assembly,130,DEM,James Schuler,129
+Wayne,Marion 4,State Assembly,130,REP,Brian D. Manktelow,329
+Wayne,Marion 4,State Assembly,130,CON,Brian D. Manktelow,89
+Wayne,Ontario 1,President,,DEM,Kamala D. Harris,310
+Wayne,Ontario 1,President,,REP,Donald J. Trump,488
+Wayne,Ontario 1,President,,CON,Donald J. Trump,88
+Wayne,Ontario 1,President,,WOR,Kamala D. Harris,22
+Wayne,Ontario 1,President,,,Write-in,6
+Wayne,Ontario 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,311
+Wayne,Ontario 1,U.S. Senate,,REP,Michael D. Sapraicone,473
+Wayne,Ontario 1,U.S. Senate,,CON,Michael D. Sapraicone,86
+Wayne,Ontario 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,28
+Wayne,Ontario 1,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Ontario 1,U.S. House,24,DEM,David Wagenhauser,271
+Wayne,Ontario 1,U.S. House,24,REP,Claudia Tenney,514
+Wayne,Ontario 1,U.S. House,24,CON,Claudia Tenney,96
+Wayne,Ontario 1,State Senate,54,DEM,Scott Comegys,256
+Wayne,Ontario 1,State Senate,54,REP,Pamela A. Helming,524
+Wayne,Ontario 1,State Senate,54,CON,Pamela A. Helming,99
+Wayne,Ontario 1,State Assembly,130,DEM,James Schuler,254
+Wayne,Ontario 1,State Assembly,130,REP,Brian D. Manktelow,519
+Wayne,Ontario 1,State Assembly,130,CON,Brian D. Manktelow,103
+Wayne,Ontario 2,President,,DEM,Kamala D. Harris,539
+Wayne,Ontario 2,President,,REP,Donald J. Trump,757
+Wayne,Ontario 2,President,,CON,Donald J. Trump,104
+Wayne,Ontario 2,President,,WOR,Kamala D. Harris,21
+Wayne,Ontario 2,President,,,Write-in,11
+Wayne,Ontario 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,511
+Wayne,Ontario 2,U.S. Senate,,REP,Michael D. Sapraicone,736
+Wayne,Ontario 2,U.S. Senate,,CON,Michael D. Sapraicone,119
+Wayne,Ontario 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,39
+Wayne,Ontario 2,U.S. Senate,,LAR,Diane Sare,3
+Wayne,Ontario 2,U.S. Senate,,,Write-in,1
+Wayne,Ontario 2,U.S. House,24,DEM,David Wagenhauser,474
+Wayne,Ontario 2,U.S. House,24,REP,Claudia Tenney,795
+Wayne,Ontario 2,U.S. House,24,CON,Claudia Tenney,121
+Wayne,Ontario 2,State Senate,54,DEM,Scott Comegys,428
+Wayne,Ontario 2,State Senate,54,REP,Pamela A. Helming,826
+Wayne,Ontario 2,State Senate,54,CON,Pamela A. Helming,134
+Wayne,Ontario 2,State Assembly,130,DEM,James Schuler,447
+Wayne,Ontario 2,State Assembly,130,REP,Brian D. Manktelow,797
+Wayne,Ontario 2,State Assembly,130,CON,Brian D. Manktelow,135
+Wayne,Ontario 3,President,,DEM,Kamala D. Harris,411
+Wayne,Ontario 3,President,,REP,Donald J. Trump,620
+Wayne,Ontario 3,President,,CON,Donald J. Trump,87
+Wayne,Ontario 3,President,,WOR,Kamala D. Harris,18
+Wayne,Ontario 3,President,,,Write-in,15
+Wayne,Ontario 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,395
+Wayne,Ontario 3,U.S. Senate,,REP,Michael D. Sapraicone,608
+Wayne,Ontario 3,U.S. Senate,,CON,Michael D. Sapraicone,93
+Wayne,Ontario 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,28
+Wayne,Ontario 3,U.S. Senate,,LAR,Diane Sare,3
+Wayne,Ontario 3,U.S. House,24,DEM,David Wagenhauser,371
+Wayne,Ontario 3,U.S. House,24,REP,Claudia Tenney,635
+Wayne,Ontario 3,U.S. House,24,CON,Claudia Tenney,109
+Wayne,Ontario 3,State Senate,54,DEM,Scott Comegys,317
+Wayne,Ontario 3,State Senate,54,REP,Pamela A. Helming,688
+Wayne,Ontario 3,State Senate,54,CON,Pamela A. Helming,108
+Wayne,Ontario 3,State Assembly,130,DEM,James Schuler,316
+Wayne,Ontario 3,State Assembly,130,REP,Brian D. Manktelow,669
+Wayne,Ontario 3,State Assembly,130,CON,Brian D. Manktelow,113
+Wayne,Ontario 4,President,,DEM,Kamala D. Harris,181
+Wayne,Ontario 4,President,,REP,Donald J. Trump,327
+Wayne,Ontario 4,President,,CON,Donald J. Trump,43
+Wayne,Ontario 4,President,,WOR,Kamala D. Harris,10
+Wayne,Ontario 4,President,,,Write-in,7
+Wayne,Ontario 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,182
+Wayne,Ontario 4,U.S. Senate,,REP,Michael D. Sapraicone,285
+Wayne,Ontario 4,U.S. Senate,,CON,Michael D. Sapraicone,56
+Wayne,Ontario 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,23
+Wayne,Ontario 4,U.S. Senate,,LAR,Diane Sare,2
+Wayne,Ontario 4,U.S. House,24,DEM,David Wagenhauser,155
+Wayne,Ontario 4,U.S. House,24,REP,Claudia Tenney,317
+Wayne,Ontario 4,U.S. House,24,CON,Claudia Tenney,57
+Wayne,Ontario 4,State Senate,54,DEM,Scott Comegys,139
+Wayne,Ontario 4,State Senate,54,REP,Pamela A. Helming,328
+Wayne,Ontario 4,State Senate,54,CON,Pamela A. Helming,64
+Wayne,Ontario 4,State Assembly,130,DEM,James Schuler,142
+Wayne,Ontario 4,State Assembly,130,REP,Brian D. Manktelow,328
+Wayne,Ontario 4,State Assembly,130,CON,Brian D. Manktelow,64
+Wayne,Ontario 5,President,,DEM,Kamala D. Harris,269
+Wayne,Ontario 5,President,,REP,Donald J. Trump,408
+Wayne,Ontario 5,President,,CON,Donald J. Trump,42
+Wayne,Ontario 5,President,,WOR,Kamala D. Harris,17
+Wayne,Ontario 5,President,,,Write-in,5
+Wayne,Ontario 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,261
+Wayne,Ontario 5,U.S. Senate,,REP,Michael D. Sapraicone,379
+Wayne,Ontario 5,U.S. Senate,,CON,Michael D. Sapraicone,44
+Wayne,Ontario 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,32
+Wayne,Ontario 5,U.S. Senate,,LAR,Diane Sare,5
+Wayne,Ontario 5,U.S. House,24,DEM,David Wagenhauser,230
+Wayne,Ontario 5,U.S. House,24,REP,Claudia Tenney,421
+Wayne,Ontario 5,U.S. House,24,CON,Claudia Tenney,54
+Wayne,Ontario 5,State Senate,54,DEM,Scott Comegys,216
+Wayne,Ontario 5,State Senate,54,REP,Pamela A. Helming,442
+Wayne,Ontario 5,State Senate,54,CON,Pamela A. Helming,54
+Wayne,Ontario 5,State Assembly,130,DEM,James Schuler,223
+Wayne,Ontario 5,State Assembly,130,REP,Brian D. Manktelow,429
+Wayne,Ontario 5,State Assembly,130,CON,Brian D. Manktelow,51
+Wayne,Ontario 6,President,,DEM,Kamala D. Harris,454
+Wayne,Ontario 6,President,,REP,Donald J. Trump,644
+Wayne,Ontario 6,President,,CON,Donald J. Trump,97
+Wayne,Ontario 6,President,,WOR,Kamala D. Harris,38
+Wayne,Ontario 6,President,,,Write-in,21
+Wayne,Ontario 6,U.S. Senate,,DEM,Kirsten E. Gillibrand,445
+Wayne,Ontario 6,U.S. Senate,,REP,Michael D. Sapraicone,602
+Wayne,Ontario 6,U.S. Senate,,CON,Michael D. Sapraicone,98
+Wayne,Ontario 6,U.S. Senate,,WOR,Kirsten E. Gillibrand,59
+Wayne,Ontario 6,U.S. Senate,,LAR,Diane Sare,6
+Wayne,Ontario 6,U.S. House,24,DEM,David Wagenhauser,415
+Wayne,Ontario 6,U.S. House,24,REP,Claudia Tenney,664
+Wayne,Ontario 6,U.S. House,24,CON,Claudia Tenney,118
+Wayne,Ontario 6,State Senate,54,DEM,Scott Comegys,365
+Wayne,Ontario 6,State Senate,54,REP,Pamela A. Helming,700
+Wayne,Ontario 6,State Senate,54,CON,Pamela A. Helming,133
+Wayne,Ontario 6,State Assembly,130,DEM,James Schuler,386
+Wayne,Ontario 6,State Assembly,130,REP,Brian D. Manktelow,686
+Wayne,Ontario 6,State Assembly,130,CON,Brian D. Manktelow,124
+Wayne,Palmyra 1,President,,DEM,Kamala D. Harris,234
+Wayne,Palmyra 1,President,,REP,Donald J. Trump,252
+Wayne,Palmyra 1,President,,CON,Donald J. Trump,25
+Wayne,Palmyra 1,President,,WOR,Kamala D. Harris,19
+Wayne,Palmyra 1,President,,,Write-in,3
+Wayne,Palmyra 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,224
+Wayne,Palmyra 1,U.S. Senate,,REP,Michael D. Sapraicone,242
+Wayne,Palmyra 1,U.S. Senate,,CON,Michael D. Sapraicone,25
+Wayne,Palmyra 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,27
+Wayne,Palmyra 1,U.S. Senate,,LAR,Diane Sare,4
+Wayne,Palmyra 1,U.S. House,24,DEM,David Wagenhauser,216
+Wayne,Palmyra 1,U.S. House,24,REP,Claudia Tenney,264
+Wayne,Palmyra 1,U.S. House,24,CON,Claudia Tenney,31
+Wayne,Palmyra 1,State Senate,54,DEM,Scott Comegys,199
+Wayne,Palmyra 1,State Senate,54,REP,Pamela A. Helming,277
+Wayne,Palmyra 1,State Senate,54,CON,Pamela A. Helming,37
+Wayne,Palmyra 1,State Assembly,130,DEM,James Schuler,198
+Wayne,Palmyra 1,State Assembly,130,REP,Brian D. Manktelow,275
+Wayne,Palmyra 1,State Assembly,130,CON,Brian D. Manktelow,37
+Wayne,Palmyra 2,President,,DEM,Kamala D. Harris,211
+Wayne,Palmyra 2,President,,REP,Donald J. Trump,235
+Wayne,Palmyra 2,President,,CON,Donald J. Trump,26
+Wayne,Palmyra 2,President,,WOR,Kamala D. Harris,12
+Wayne,Palmyra 2,President,,,Write-in,5
+Wayne,Palmyra 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,210
+Wayne,Palmyra 2,U.S. Senate,,REP,Michael D. Sapraicone,226
+Wayne,Palmyra 2,U.S. Senate,,CON,Michael D. Sapraicone,18
+Wayne,Palmyra 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,22
+Wayne,Palmyra 2,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Palmyra 2,U.S. Senate,,,Write-in,1
+Wayne,Palmyra 2,U.S. House,24,DEM,David Wagenhauser,198
+Wayne,Palmyra 2,U.S. House,24,REP,Claudia Tenney,239
+Wayne,Palmyra 2,U.S. House,24,CON,Claudia Tenney,32
+Wayne,Palmyra 2,U.S. House,24,,Write-in,1
+Wayne,Palmyra 2,State Senate,54,DEM,Scott Comegys,173
+Wayne,Palmyra 2,State Senate,54,REP,Pamela A. Helming,265
+Wayne,Palmyra 2,State Senate,54,CON,Pamela A. Helming,35
+Wayne,Palmyra 2,State Senate,54,,Write-in,1
+Wayne,Palmyra 2,State Assembly,130,DEM,James Schuler,172
+Wayne,Palmyra 2,State Assembly,130,REP,Brian D. Manktelow,263
+Wayne,Palmyra 2,State Assembly,130,CON,Brian D. Manktelow,30
+Wayne,Palmyra 2,State Assembly,130,,Write-in,1
+Wayne,Palmyra 3,President,,DEM,Kamala D. Harris,171
+Wayne,Palmyra 3,President,,REP,Donald J. Trump,211
+Wayne,Palmyra 3,President,,CON,Donald J. Trump,28
+Wayne,Palmyra 3,President,,WOR,Kamala D. Harris,11
+Wayne,Palmyra 3,President,,,Write-in,7
+Wayne,Palmyra 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,182
+Wayne,Palmyra 3,U.S. Senate,,REP,Michael D. Sapraicone,185
+Wayne,Palmyra 3,U.S. Senate,,CON,Michael D. Sapraicone,27
+Wayne,Palmyra 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Wayne,Palmyra 3,U.S. Senate,,LAR,Diane Sare,3
+Wayne,Palmyra 3,U.S. House,24,DEM,David Wagenhauser,162
+Wayne,Palmyra 3,U.S. House,24,REP,Claudia Tenney,204
+Wayne,Palmyra 3,U.S. House,24,CON,Claudia Tenney,34
+Wayne,Palmyra 3,State Senate,54,DEM,Scott Comegys,150
+Wayne,Palmyra 3,State Senate,54,REP,Pamela A. Helming,222
+Wayne,Palmyra 3,State Senate,54,CON,Pamela A. Helming,31
+Wayne,Palmyra 3,State Assembly,130,DEM,James Schuler,147
+Wayne,Palmyra 3,State Assembly,130,REP,Brian D. Manktelow,216
+Wayne,Palmyra 3,State Assembly,130,CON,Brian D. Manktelow,32
+Wayne,Palmyra 4,President,,DEM,Kamala D. Harris,268
+Wayne,Palmyra 4,President,,REP,Donald J. Trump,352
+Wayne,Palmyra 4,President,,CON,Donald J. Trump,58
+Wayne,Palmyra 4,President,,WOR,Kamala D. Harris,22
+Wayne,Palmyra 4,President,,,Write-in,7
+Wayne,Palmyra 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,257
+Wayne,Palmyra 4,U.S. Senate,,REP,Michael D. Sapraicone,327
+Wayne,Palmyra 4,U.S. Senate,,CON,Michael D. Sapraicone,57
+Wayne,Palmyra 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,40
+Wayne,Palmyra 4,U.S. Senate,,LAR,Diane Sare,4
+Wayne,Palmyra 4,U.S. House,24,DEM,David Wagenhauser,234
+Wayne,Palmyra 4,U.S. House,24,REP,Claudia Tenney,359
+Wayne,Palmyra 4,U.S. House,24,CON,Claudia Tenney,80
+Wayne,Palmyra 4,U.S. House,24,,Write-in,2
+Wayne,Palmyra 4,State Senate,54,DEM,Scott Comegys,200
+Wayne,Palmyra 4,State Senate,54,REP,Pamela A. Helming,386
+Wayne,Palmyra 4,State Senate,54,CON,Pamela A. Helming,87
+Wayne,Palmyra 4,State Senate,54,,Write-in,1
+Wayne,Palmyra 4,State Assembly,130,DEM,James Schuler,204
+Wayne,Palmyra 4,State Assembly,130,REP,Brian D. Manktelow,390
+Wayne,Palmyra 4,State Assembly,130,CON,Brian D. Manktelow,78
+Wayne,Palmyra 4,State Assembly,130,,Write-in,1
+Wayne,Palmyra 5,President,,DEM,Kamala D. Harris,181
+Wayne,Palmyra 5,President,,REP,Donald J. Trump,422
+Wayne,Palmyra 5,President,,CON,Donald J. Trump,56
+Wayne,Palmyra 5,President,,WOR,Kamala D. Harris,17
+Wayne,Palmyra 5,President,,,Write-in,4
+Wayne,Palmyra 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,189
+Wayne,Palmyra 5,U.S. Senate,,REP,Michael D. Sapraicone,393
+Wayne,Palmyra 5,U.S. Senate,,CON,Michael D. Sapraicone,57
+Wayne,Palmyra 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,29
+Wayne,Palmyra 5,U.S. Senate,,LAR,Diane Sare,3
+Wayne,Palmyra 5,U.S. House,24,DEM,David Wagenhauser,176
+Wayne,Palmyra 5,U.S. House,24,REP,Claudia Tenney,425
+Wayne,Palmyra 5,U.S. House,24,CON,Claudia Tenney,62
+Wayne,Palmyra 5,State Senate,54,DEM,Scott Comegys,145
+Wayne,Palmyra 5,State Senate,54,REP,Pamela A. Helming,454
+Wayne,Palmyra 5,State Senate,54,CON,Pamela A. Helming,72
+Wayne,Palmyra 5,State Assembly,130,DEM,James Schuler,169
+Wayne,Palmyra 5,State Assembly,130,REP,Brian D. Manktelow,435
+Wayne,Palmyra 5,State Assembly,130,CON,Brian D. Manktelow,63
+Wayne,Palmyra 6,President,,DEM,Kamala D. Harris,189
+Wayne,Palmyra 6,President,,REP,Donald J. Trump,337
+Wayne,Palmyra 6,President,,CON,Donald J. Trump,52
+Wayne,Palmyra 6,President,,WOR,Kamala D. Harris,11
+Wayne,Palmyra 6,President,,,Write-in,5
+Wayne,Palmyra 6,U.S. Senate,,DEM,Kirsten E. Gillibrand,186
+Wayne,Palmyra 6,U.S. Senate,,REP,Michael D. Sapraicone,306
+Wayne,Palmyra 6,U.S. Senate,,CON,Michael D. Sapraicone,52
+Wayne,Palmyra 6,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Wayne,Palmyra 6,U.S. Senate,,LAR,Diane Sare,3
+Wayne,Palmyra 6,U.S. Senate,,,Write-in,1
+Wayne,Palmyra 6,U.S. House,24,DEM,David Wagenhauser,166
+Wayne,Palmyra 6,U.S. House,24,REP,Claudia Tenney,340
+Wayne,Palmyra 6,U.S. House,24,CON,Claudia Tenney,61
+Wayne,Palmyra 6,U.S. House,24,,Write-in,1
+Wayne,Palmyra 6,State Senate,54,DEM,Scott Comegys,142
+Wayne,Palmyra 6,State Senate,54,REP,Pamela A. Helming,359
+Wayne,Palmyra 6,State Senate,54,CON,Pamela A. Helming,68
+Wayne,Palmyra 6,State Senate,54,,Write-in,1
+Wayne,Palmyra 6,State Assembly,130,DEM,James Schuler,151
+Wayne,Palmyra 6,State Assembly,130,REP,Brian D. Manktelow,349
+Wayne,Palmyra 6,State Assembly,130,CON,Brian D. Manktelow,66
+Wayne,Palmyra 6,State Assembly,130,,Write-in,1
+Wayne,Rose 1,President,,DEM,Kamala D. Harris,157
+Wayne,Rose 1,President,,REP,Donald J. Trump,312
+Wayne,Rose 1,President,,CON,Donald J. Trump,47
+Wayne,Rose 1,President,,WOR,Kamala D. Harris,10
+Wayne,Rose 1,President,,,Write-in,3
+Wayne,Rose 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,158
+Wayne,Rose 1,U.S. Senate,,REP,Michael D. Sapraicone,289
+Wayne,Rose 1,U.S. Senate,,CON,Michael D. Sapraicone,46
+Wayne,Rose 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,18
+Wayne,Rose 1,U.S. Senate,,LAR,Diane Sare,4
+Wayne,Rose 1,U.S. House,24,DEM,David Wagenhauser,135
+Wayne,Rose 1,U.S. House,24,REP,Claudia Tenney,309
+Wayne,Rose 1,U.S. House,24,CON,Claudia Tenney,58
+Wayne,Rose 1,State Senate,54,DEM,Scott Comegys,115
+Wayne,Rose 1,State Senate,54,REP,Pamela A. Helming,324
+Wayne,Rose 1,State Senate,54,CON,Pamela A. Helming,67
+Wayne,Rose 1,State Assembly,130,DEM,James Schuler,113
+Wayne,Rose 1,State Assembly,130,REP,Brian D. Manktelow,338
+Wayne,Rose 1,State Assembly,130,CON,Brian D. Manktelow,60
+Wayne,Rose 2,President,,DEM,Kamala D. Harris,151
+Wayne,Rose 2,President,,REP,Donald J. Trump,319
+Wayne,Rose 2,President,,CON,Donald J. Trump,45
+Wayne,Rose 2,President,,WOR,Kamala D. Harris,11
+Wayne,Rose 2,President,,,Write-in,3
+Wayne,Rose 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,153
+Wayne,Rose 2,U.S. Senate,,REP,Michael D. Sapraicone,295
+Wayne,Rose 2,U.S. Senate,,CON,Michael D. Sapraicone,43
+Wayne,Rose 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Wayne,Rose 2,U.S. Senate,,,Write-in,1
+Wayne,Rose 2,U.S. House,24,DEM,David Wagenhauser,136
+Wayne,Rose 2,U.S. House,24,REP,Claudia Tenney,318
+Wayne,Rose 2,U.S. House,24,CON,Claudia Tenney,48
+Wayne,Rose 2,U.S. House,24,,Write-in,1
+Wayne,Rose 2,State Senate,54,DEM,Scott Comegys,112
+Wayne,Rose 2,State Senate,54,REP,Pamela A. Helming,339
+Wayne,Rose 2,State Senate,54,CON,Pamela A. Helming,52
+Wayne,Rose 2,State Senate,54,,Write-in,1
+Wayne,Rose 2,State Assembly,130,DEM,James Schuler,112
+Wayne,Rose 2,State Assembly,130,REP,Brian D. Manktelow,339
+Wayne,Rose 2,State Assembly,130,CON,Brian D. Manktelow,54
+Wayne,Rose 2,State Assembly,130,,Write-in,1
+Wayne,Savannah 1,President,,DEM,Kamala D. Harris,105
+Wayne,Savannah 1,President,,REP,Donald J. Trump,204
+Wayne,Savannah 1,President,,CON,Donald J. Trump,27
+Wayne,Savannah 1,President,,WOR,Kamala D. Harris,4
+Wayne,Savannah 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,101
+Wayne,Savannah 1,U.S. Senate,,REP,Michael D. Sapraicone,184
+Wayne,Savannah 1,U.S. Senate,,CON,Michael D. Sapraicone,33
+Wayne,Savannah 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,11
+Wayne,Savannah 1,U.S. Senate,,LAR,Diane Sare,2
+Wayne,Savannah 1,U.S. House,24,DEM,David Wagenhauser,89
+Wayne,Savannah 1,U.S. House,24,REP,Claudia Tenney,209
+Wayne,Savannah 1,U.S. House,24,CON,Claudia Tenney,32
+Wayne,Savannah 1,State Senate,54,DEM,Scott Comegys,79
+Wayne,Savannah 1,State Senate,54,REP,Pamela A. Helming,209
+Wayne,Savannah 1,State Senate,54,CON,Pamela A. Helming,39
+Wayne,Savannah 1,State Assembly,130,DEM,James Schuler,85
+Wayne,Savannah 1,State Assembly,130,REP,Brian D. Manktelow,209
+Wayne,Savannah 1,State Assembly,130,CON,Brian D. Manktelow,33
+Wayne,Savannah 2,President,,DEM,Kamala D. Harris,82
+Wayne,Savannah 2,President,,REP,Donald J. Trump,202
+Wayne,Savannah 2,President,,CON,Donald J. Trump,45
+Wayne,Savannah 2,President,,WOR,Kamala D. Harris,7
+Wayne,Savannah 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,88
+Wayne,Savannah 2,U.S. Senate,,REP,Michael D. Sapraicone,183
+Wayne,Savannah 2,U.S. Senate,,CON,Michael D. Sapraicone,40
+Wayne,Savannah 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,11
+Wayne,Savannah 2,U.S. Senate,,LAR,Diane Sare,2
+Wayne,Savannah 2,U.S. House,24,DEM,David Wagenhauser,75
+Wayne,Savannah 2,U.S. House,24,REP,Claudia Tenney,192
+Wayne,Savannah 2,U.S. House,24,CON,Claudia Tenney,49
+Wayne,Savannah 2,State Senate,54,DEM,Scott Comegys,65
+Wayne,Savannah 2,State Senate,54,REP,Pamela A. Helming,207
+Wayne,Savannah 2,State Senate,54,CON,Pamela A. Helming,47
+Wayne,Savannah 2,State Assembly,130,DEM,James Schuler,73
+Wayne,Savannah 2,State Assembly,130,REP,Brian D. Manktelow,201
+Wayne,Savannah 2,State Assembly,130,CON,Brian D. Manktelow,45
+Wayne,Sodus 1,President,,DEM,Kamala D. Harris,201
+Wayne,Sodus 1,President,,REP,Donald J. Trump,235
+Wayne,Sodus 1,President,,CON,Donald J. Trump,60
+Wayne,Sodus 1,President,,WOR,Kamala D. Harris,19
+Wayne,Sodus 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,198
+Wayne,Sodus 1,U.S. Senate,,REP,Michael D. Sapraicone,216
+Wayne,Sodus 1,U.S. Senate,,CON,Michael D. Sapraicone,58
+Wayne,Sodus 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,27
+Wayne,Sodus 1,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Sodus 1,U.S. House,24,DEM,David Wagenhauser,185
+Wayne,Sodus 1,U.S. House,24,REP,Claudia Tenney,241
+Wayne,Sodus 1,U.S. House,24,CON,Claudia Tenney,67
+Wayne,Sodus 1,State Senate,54,DEM,Scott Comegys,149
+Wayne,Sodus 1,State Senate,54,REP,Pamela A. Helming,274
+Wayne,Sodus 1,State Senate,54,CON,Pamela A. Helming,70
+Wayne,Sodus 1,State Assembly,130,DEM,James Schuler,152
+Wayne,Sodus 1,State Assembly,130,REP,Brian D. Manktelow,274
+Wayne,Sodus 1,State Assembly,130,CON,Brian D. Manktelow,69
+Wayne,Sodus 2,President,,DEM,Kamala D. Harris,181
+Wayne,Sodus 2,President,,REP,Donald J. Trump,349
+Wayne,Sodus 2,President,,CON,Donald J. Trump,59
+Wayne,Sodus 2,President,,WOR,Kamala D. Harris,16
+Wayne,Sodus 2,President,,,Write-in,4
+Wayne,Sodus 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,185
+Wayne,Sodus 2,U.S. Senate,,REP,Michael D. Sapraicone,318
+Wayne,Sodus 2,U.S. Senate,,CON,Michael D. Sapraicone,62
+Wayne,Sodus 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,21
+Wayne,Sodus 2,U.S. Senate,,LAR,Diane Sare,2
+Wayne,Sodus 2,U.S. House,24,DEM,David Wagenhauser,148
+Wayne,Sodus 2,U.S. House,24,REP,Claudia Tenney,356
+Wayne,Sodus 2,U.S. House,24,CON,Claudia Tenney,71
+Wayne,Sodus 2,U.S. House,24,,Write-in,1
+Wayne,Sodus 2,State Senate,54,DEM,Scott Comegys,114
+Wayne,Sodus 2,State Senate,54,REP,Pamela A. Helming,394
+Wayne,Sodus 2,State Senate,54,CON,Pamela A. Helming,83
+Wayne,Sodus 2,State Assembly,130,DEM,James Schuler,113
+Wayne,Sodus 2,State Assembly,130,REP,Brian D. Manktelow,388
+Wayne,Sodus 2,State Assembly,130,CON,Brian D. Manktelow,84
+Wayne,Sodus 3,President,,DEM,Kamala D. Harris,194
+Wayne,Sodus 3,President,,REP,Donald J. Trump,325
+Wayne,Sodus 3,President,,CON,Donald J. Trump,69
+Wayne,Sodus 3,President,,WOR,Kamala D. Harris,15
+Wayne,Sodus 3,President,,,Write-in,4
+Wayne,Sodus 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,197
+Wayne,Sodus 3,U.S. Senate,,REP,Michael D. Sapraicone,289
+Wayne,Sodus 3,U.S. Senate,,CON,Michael D. Sapraicone,72
+Wayne,Sodus 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,27
+Wayne,Sodus 3,U.S. House,24,DEM,David Wagenhauser,172
+Wayne,Sodus 3,U.S. House,24,REP,Claudia Tenney,327
+Wayne,Sodus 3,U.S. House,24,CON,Claudia Tenney,78
+Wayne,Sodus 3,State Senate,54,DEM,Scott Comegys,146
+Wayne,Sodus 3,State Senate,54,REP,Pamela A. Helming,360
+Wayne,Sodus 3,State Senate,54,CON,Pamela A. Helming,75
+Wayne,Sodus 3,State Assembly,130,DEM,James Schuler,153
+Wayne,Sodus 3,State Assembly,130,REP,Brian D. Manktelow,352
+Wayne,Sodus 3,State Assembly,130,CON,Brian D. Manktelow,78
+Wayne,Sodus 4,President,,DEM,Kamala D. Harris,201
+Wayne,Sodus 4,President,,REP,Donald J. Trump,403
+Wayne,Sodus 4,President,,CON,Donald J. Trump,73
+Wayne,Sodus 4,President,,WOR,Kamala D. Harris,12
+Wayne,Sodus 4,President,,,Write-in,4
+Wayne,Sodus 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,193
+Wayne,Sodus 4,U.S. Senate,,REP,Michael D. Sapraicone,378
+Wayne,Sodus 4,U.S. Senate,,CON,Michael D. Sapraicone,74
+Wayne,Sodus 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,26
+Wayne,Sodus 4,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Sodus 4,U.S. Senate,,,Write-in,1
+Wayne,Sodus 4,U.S. House,24,DEM,David Wagenhauser,177
+Wayne,Sodus 4,U.S. House,24,REP,Claudia Tenney,397
+Wayne,Sodus 4,U.S. House,24,CON,Claudia Tenney,81
+Wayne,Sodus 4,U.S. House,24,,Write-in,1
+Wayne,Sodus 4,State Senate,54,DEM,Scott Comegys,150
+Wayne,Sodus 4,State Senate,54,REP,Pamela A. Helming,426
+Wayne,Sodus 4,State Senate,54,CON,Pamela A. Helming,85
+Wayne,Sodus 4,State Senate,54,,Write-in,1
+Wayne,Sodus 4,State Assembly,130,DEM,James Schuler,146
+Wayne,Sodus 4,State Assembly,130,REP,Brian D. Manktelow,431
+Wayne,Sodus 4,State Assembly,130,CON,Brian D. Manktelow,89
+Wayne,Sodus 4,State Assembly,130,,Write-in,1
+Wayne,Sodus 5,President,,DEM,Kamala D. Harris,251
+Wayne,Sodus 5,President,,REP,Donald J. Trump,267
+Wayne,Sodus 5,President,,CON,Donald J. Trump,36
+Wayne,Sodus 5,President,,WOR,Kamala D. Harris,17
+Wayne,Sodus 5,President,,,Write-in,5
+Wayne,Sodus 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,251
+Wayne,Sodus 5,U.S. Senate,,REP,Michael D. Sapraicone,226
+Wayne,Sodus 5,U.S. Senate,,CON,Michael D. Sapraicone,42
+Wayne,Sodus 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,30
+Wayne,Sodus 5,U.S. Senate,,LAR,Diane Sare,4
+Wayne,Sodus 5,U.S. House,24,DEM,David Wagenhauser,248
+Wayne,Sodus 5,U.S. House,24,REP,Claudia Tenney,254
+Wayne,Sodus 5,U.S. House,24,CON,Claudia Tenney,43
+Wayne,Sodus 5,State Senate,54,DEM,Scott Comegys,216
+Wayne,Sodus 5,State Senate,54,REP,Pamela A. Helming,281
+Wayne,Sodus 5,State Senate,54,CON,Pamela A. Helming,54
+Wayne,Sodus 5,State Assembly,130,DEM,James Schuler,205
+Wayne,Sodus 5,State Assembly,130,REP,Brian D. Manktelow,282
+Wayne,Sodus 5,State Assembly,130,CON,Brian D. Manktelow,56
+Wayne,Sodus 6,President,,DEM,Kamala D. Harris,207
+Wayne,Sodus 6,President,,REP,Donald J. Trump,339
+Wayne,Sodus 6,President,,CON,Donald J. Trump,42
+Wayne,Sodus 6,President,,WOR,Kamala D. Harris,12
+Wayne,Sodus 6,President,,,Write-in,2
+Wayne,Sodus 6,U.S. Senate,,DEM,Kirsten E. Gillibrand,213
+Wayne,Sodus 6,U.S. Senate,,REP,Michael D. Sapraicone,312
+Wayne,Sodus 6,U.S. Senate,,CON,Michael D. Sapraicone,48
+Wayne,Sodus 6,U.S. Senate,,WOR,Kirsten E. Gillibrand,18
+Wayne,Sodus 6,U.S. Senate,,LAR,Diane Sare,3
+Wayne,Sodus 6,U.S. House,24,DEM,David Wagenhauser,193
+Wayne,Sodus 6,U.S. House,24,REP,Claudia Tenney,338
+Wayne,Sodus 6,U.S. House,24,CON,Claudia Tenney,56
+Wayne,Sodus 6,State Senate,54,DEM,Scott Comegys,177
+Wayne,Sodus 6,State Senate,54,REP,Pamela A. Helming,354
+Wayne,Sodus 6,State Senate,54,CON,Pamela A. Helming,55
+Wayne,Sodus 6,State Assembly,130,DEM,James Schuler,173
+Wayne,Sodus 6,State Assembly,130,REP,Brian D. Manktelow,356
+Wayne,Sodus 6,State Assembly,130,CON,Brian D. Manktelow,58
+Wayne,Walworth 1,President,,DEM,Kamala D. Harris,249
+Wayne,Walworth 1,President,,REP,Donald J. Trump,363
+Wayne,Walworth 1,President,,CON,Donald J. Trump,67
+Wayne,Walworth 1,President,,WOR,Kamala D. Harris,22
+Wayne,Walworth 1,President,,,Write-in,10
+Wayne,Walworth 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,237
+Wayne,Walworth 1,U.S. Senate,,REP,Michael D. Sapraicone,352
+Wayne,Walworth 1,U.S. Senate,,CON,Michael D. Sapraicone,66
+Wayne,Walworth 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,32
+Wayne,Walworth 1,U.S. Senate,,LAR,Diane Sare,3
+Wayne,Walworth 1,U.S. House,24,DEM,David Wagenhauser,222
+Wayne,Walworth 1,U.S. House,24,REP,Claudia Tenney,379
+Wayne,Walworth 1,U.S. House,24,CON,Claudia Tenney,79
+Wayne,Walworth 1,U.S. House,24,,Write-in,1
+Wayne,Walworth 1,State Senate,54,DEM,Scott Comegys,191
+Wayne,Walworth 1,State Senate,54,REP,Pamela A. Helming,408
+Wayne,Walworth 1,State Senate,54,CON,Pamela A. Helming,82
+Wayne,Walworth 1,State Assembly,130,DEM,James Schuler,199
+Wayne,Walworth 1,State Assembly,130,REP,Brian D. Manktelow,396
+Wayne,Walworth 1,State Assembly,130,CON,Brian D. Manktelow,86
+Wayne,Walworth 2,President,,DEM,Kamala D. Harris,967
+Wayne,Walworth 2,President,,REP,Donald J. Trump,878
+Wayne,Walworth 2,President,,CON,Donald J. Trump,129
+Wayne,Walworth 2,President,,WOR,Kamala D. Harris,41
+Wayne,Walworth 2,President,,,Write-in,16
+Wayne,Walworth 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,942
+Wayne,Walworth 2,U.S. Senate,,REP,Michael D. Sapraicone,840
+Wayne,Walworth 2,U.S. Senate,,CON,Michael D. Sapraicone,139
+Wayne,Walworth 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,56
+Wayne,Walworth 2,U.S. Senate,,LAR,Diane Sare,5
+Wayne,Walworth 2,U.S. House,24,DEM,David Wagenhauser,876
+Wayne,Walworth 2,U.S. House,24,REP,Claudia Tenney,907
+Wayne,Walworth 2,U.S. House,24,CON,Claudia Tenney,159
+Wayne,Walworth 2,State Senate,54,DEM,Scott Comegys,819
+Wayne,Walworth 2,State Senate,54,REP,Pamela A. Helming,960
+Wayne,Walworth 2,State Senate,54,CON,Pamela A. Helming,164
+Wayne,Walworth 2,State Assembly,130,DEM,James Schuler,842
+Wayne,Walworth 2,State Assembly,130,REP,Brian D. Manktelow,932
+Wayne,Walworth 2,State Assembly,130,CON,Brian D. Manktelow,161
+Wayne,Walworth 3,President,,DEM,Kamala D. Harris,316
+Wayne,Walworth 3,President,,REP,Donald J. Trump,608
+Wayne,Walworth 3,President,,CON,Donald J. Trump,90
+Wayne,Walworth 3,President,,WOR,Kamala D. Harris,16
+Wayne,Walworth 3,President,,,Write-in,6
+Wayne,Walworth 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,322
+Wayne,Walworth 3,U.S. Senate,,REP,Michael D. Sapraicone,571
+Wayne,Walworth 3,U.S. Senate,,CON,Michael D. Sapraicone,89
+Wayne,Walworth 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,29
+Wayne,Walworth 3,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Walworth 3,U.S. House,24,DEM,David Wagenhauser,288
+Wayne,Walworth 3,U.S. House,24,REP,Claudia Tenney,612
+Wayne,Walworth 3,U.S. House,24,CON,Claudia Tenney,94
+Wayne,Walworth 3,U.S. House,24,,Write-in,1
+Wayne,Walworth 3,State Senate,54,DEM,Scott Comegys,246
+Wayne,Walworth 3,State Senate,54,REP,Pamela A. Helming,648
+Wayne,Walworth 3,State Senate,54,CON,Pamela A. Helming,103
+Wayne,Walworth 3,State Assembly,130,DEM,James Schuler,263
+Wayne,Walworth 3,State Assembly,130,REP,Brian D. Manktelow,623
+Wayne,Walworth 3,State Assembly,130,CON,Brian D. Manktelow,101
+Wayne,Walworth 4,President,,DEM,Kamala D. Harris,438
+Wayne,Walworth 4,President,,REP,Donald J. Trump,425
+Wayne,Walworth 4,President,,CON,Donald J. Trump,71
+Wayne,Walworth 4,President,,WOR,Kamala D. Harris,21
+Wayne,Walworth 4,President,,,Write-in,13
+Wayne,Walworth 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,429
+Wayne,Walworth 4,U.S. Senate,,REP,Michael D. Sapraicone,396
+Wayne,Walworth 4,U.S. Senate,,CON,Michael D. Sapraicone,88
+Wayne,Walworth 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,32
+Wayne,Walworth 4,U.S. Senate,,LAR,Diane Sare,6
+Wayne,Walworth 4,U.S. House,24,DEM,David Wagenhauser,387
+Wayne,Walworth 4,U.S. House,24,REP,Claudia Tenney,450
+Wayne,Walworth 4,U.S. House,24,CON,Claudia Tenney,97
+Wayne,Walworth 4,State Senate,54,DEM,Scott Comegys,361
+Wayne,Walworth 4,State Senate,54,REP,Pamela A. Helming,475
+Wayne,Walworth 4,State Senate,54,CON,Pamela A. Helming,102
+Wayne,Walworth 4,State Assembly,130,DEM,James Schuler,386
+Wayne,Walworth 4,State Assembly,130,REP,Brian D. Manktelow,447
+Wayne,Walworth 4,State Assembly,130,CON,Brian D. Manktelow,95
+Wayne,Walworth 5,President,,DEM,Kamala D. Harris,303
+Wayne,Walworth 5,President,,REP,Donald J. Trump,432
+Wayne,Walworth 5,President,,CON,Donald J. Trump,64
+Wayne,Walworth 5,President,,WOR,Kamala D. Harris,14
+Wayne,Walworth 5,President,,,Write-in,4
+Wayne,Walworth 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,300
+Wayne,Walworth 5,U.S. Senate,,REP,Michael D. Sapraicone,414
+Wayne,Walworth 5,U.S. Senate,,CON,Michael D. Sapraicone,69
+Wayne,Walworth 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,25
+Wayne,Walworth 5,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Walworth 5,U.S. Senate,,,Write-in,1
+Wayne,Walworth 5,U.S. House,24,DEM,David Wagenhauser,269
+Wayne,Walworth 5,U.S. House,24,REP,Claudia Tenney,450
+Wayne,Walworth 5,U.S. House,24,CON,Claudia Tenney,74
+Wayne,Walworth 5,U.S. House,24,,Write-in,1
+Wayne,Walworth 5,State Senate,54,DEM,Scott Comegys,231
+Wayne,Walworth 5,State Senate,54,REP,Pamela A. Helming,482
+Wayne,Walworth 5,State Senate,54,CON,Pamela A. Helming,82
+Wayne,Walworth 5,State Senate,54,,Write-in,1
+Wayne,Walworth 5,State Assembly,130,DEM,James Schuler,237
+Wayne,Walworth 5,State Assembly,130,REP,Brian D. Manktelow,474
+Wayne,Walworth 5,State Assembly,130,CON,Brian D. Manktelow,85
+Wayne,Walworth 5,State Assembly,130,,Write-in,1
+Wayne,Williamson 1,President,,DEM,Kamala D. Harris,186
+Wayne,Williamson 1,President,,REP,Donald J. Trump,276
+Wayne,Williamson 1,President,,CON,Donald J. Trump,44
+Wayne,Williamson 1,President,,WOR,Kamala D. Harris,15
+Wayne,Williamson 1,President,,,Write-in,3
+Wayne,Williamson 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,185
+Wayne,Williamson 1,U.S. Senate,,REP,Michael D. Sapraicone,258
+Wayne,Williamson 1,U.S. Senate,,CON,Michael D. Sapraicone,42
+Wayne,Williamson 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,25
+Wayne,Williamson 1,U.S. Senate,,LAR,Diane Sare,2
+Wayne,Williamson 1,U.S. House,24,DEM,David Wagenhauser,164
+Wayne,Williamson 1,U.S. House,24,REP,Claudia Tenney,285
+Wayne,Williamson 1,U.S. House,24,CON,Claudia Tenney,49
+Wayne,Williamson 1,U.S. House,24,,Write-in,1
+Wayne,Williamson 1,State Senate,54,DEM,Scott Comegys,151
+Wayne,Williamson 1,State Senate,54,REP,Pamela A. Helming,291
+Wayne,Williamson 1,State Senate,54,CON,Pamela A. Helming,54
+Wayne,Williamson 1,State Assembly,130,DEM,James Schuler,139
+Wayne,Williamson 1,State Assembly,130,REP,Brian D. Manktelow,310
+Wayne,Williamson 1,State Assembly,130,CON,Brian D. Manktelow,53
+Wayne,Williamson 2,President,,DEM,Kamala D. Harris,295
+Wayne,Williamson 2,President,,REP,Donald J. Trump,430
+Wayne,Williamson 2,President,,CON,Donald J. Trump,67
+Wayne,Williamson 2,President,,WOR,Kamala D. Harris,15
+Wayne,Williamson 2,President,,,Write-in,5
+Wayne,Williamson 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,286
+Wayne,Williamson 2,U.S. Senate,,REP,Michael D. Sapraicone,414
+Wayne,Williamson 2,U.S. Senate,,CON,Michael D. Sapraicone,73
+Wayne,Williamson 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,32
+Wayne,Williamson 2,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Williamson 2,U.S. House,24,DEM,David Wagenhauser,275
+Wayne,Williamson 2,U.S. House,24,REP,Claudia Tenney,452
+Wayne,Williamson 2,U.S. House,24,CON,Claudia Tenney,72
+Wayne,Williamson 2,State Senate,54,DEM,Scott Comegys,231
+Wayne,Williamson 2,State Senate,54,REP,Pamela A. Helming,485
+Wayne,Williamson 2,State Senate,54,CON,Pamela A. Helming,81
+Wayne,Williamson 2,State Assembly,130,DEM,James Schuler,212
+Wayne,Williamson 2,State Assembly,130,REP,Brian D. Manktelow,497
+Wayne,Williamson 2,State Assembly,130,CON,Brian D. Manktelow,91
+Wayne,Williamson 3,President,,DEM,Kamala D. Harris,355
+Wayne,Williamson 3,President,,REP,Donald J. Trump,618
+Wayne,Williamson 3,President,,CON,Donald J. Trump,95
+Wayne,Williamson 3,President,,WOR,Kamala D. Harris,22
+Wayne,Williamson 3,President,,,Write-in,8
+Wayne,Williamson 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,351
+Wayne,Williamson 3,U.S. Senate,,REP,Michael D. Sapraicone,578
+Wayne,Williamson 3,U.S. Senate,,CON,Michael D. Sapraicone,95
+Wayne,Williamson 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,53
+Wayne,Williamson 3,U.S. Senate,,LAR,Diane Sare,5
+Wayne,Williamson 3,U.S. Senate,,,Write-in,1
+Wayne,Williamson 3,U.S. House,24,DEM,David Wagenhauser,340
+Wayne,Williamson 3,U.S. House,24,REP,Claudia Tenney,621
+Wayne,Williamson 3,U.S. House,24,CON,Claudia Tenney,104
+Wayne,Williamson 3,State Senate,54,DEM,Scott Comegys,290
+Wayne,Williamson 3,State Senate,54,REP,Pamela A. Helming,667
+Wayne,Williamson 3,State Senate,54,CON,Pamela A. Helming,120
+Wayne,Williamson 3,State Assembly,130,DEM,James Schuler,267
+Wayne,Williamson 3,State Assembly,130,REP,Brian D. Manktelow,696
+Wayne,Williamson 3,State Assembly,130,CON,Brian D. Manktelow,116
+Wayne,Williamson 4,President,,DEM,Kamala D. Harris,168
+Wayne,Williamson 4,President,,REP,Donald J. Trump,336
+Wayne,Williamson 4,President,,CON,Donald J. Trump,42
+Wayne,Williamson 4,President,,WOR,Kamala D. Harris,14
+Wayne,Williamson 4,President,,,Write-in,3
+Wayne,Williamson 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,173
+Wayne,Williamson 4,U.S. Senate,,REP,Michael D. Sapraicone,294
+Wayne,Williamson 4,U.S. Senate,,CON,Michael D. Sapraicone,46
+Wayne,Williamson 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,29
+Wayne,Williamson 4,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Williamson 4,U.S. House,24,DEM,David Wagenhauser,151
+Wayne,Williamson 4,U.S. House,24,REP,Claudia Tenney,328
+Wayne,Williamson 4,U.S. House,24,CON,Claudia Tenney,52
+Wayne,Williamson 4,State Senate,54,DEM,Scott Comegys,125
+Wayne,Williamson 4,State Senate,54,REP,Pamela A. Helming,353
+Wayne,Williamson 4,State Senate,54,CON,Pamela A. Helming,61
+Wayne,Williamson 4,State Assembly,130,DEM,James Schuler,123
+Wayne,Williamson 4,State Assembly,130,REP,Brian D. Manktelow,360
+Wayne,Williamson 4,State Assembly,130,CON,Brian D. Manktelow,56
+Wayne,Williamson 5,President,,DEM,Kamala D. Harris,250
+Wayne,Williamson 5,President,,REP,Donald J. Trump,448
+Wayne,Williamson 5,President,,CON,Donald J. Trump,56
+Wayne,Williamson 5,President,,WOR,Kamala D. Harris,17
+Wayne,Williamson 5,President,,,Write-in,10
+Wayne,Williamson 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,241
+Wayne,Williamson 5,U.S. Senate,,REP,Michael D. Sapraicone,426
+Wayne,Williamson 5,U.S. Senate,,CON,Michael D. Sapraicone,63
+Wayne,Williamson 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Wayne,Williamson 5,U.S. Senate,,LAR,Diane Sare,1
+Wayne,Williamson 5,U.S. House,24,DEM,David Wagenhauser,228
+Wayne,Williamson 5,U.S. House,24,REP,Claudia Tenney,458
+Wayne,Williamson 5,U.S. House,24,CON,Claudia Tenney,69
+Wayne,Williamson 5,State Senate,54,DEM,Scott Comegys,189
+Wayne,Williamson 5,State Senate,54,REP,Pamela A. Helming,491
+Wayne,Williamson 5,State Senate,54,CON,Pamela A. Helming,73
+Wayne,Williamson 5,State Senate,54,,Write-in,3
+Wayne,Williamson 5,State Assembly,130,DEM,James Schuler,172
+Wayne,Williamson 5,State Assembly,130,REP,Brian D. Manktelow,509
+Wayne,Williamson 5,State Assembly,130,CON,Brian D. Manktelow,76
+Wayne,Wolcott 1,President,,DEM,Kamala D. Harris,142
+Wayne,Wolcott 1,President,,REP,Donald J. Trump,263
+Wayne,Wolcott 1,President,,CON,Donald J. Trump,31
+Wayne,Wolcott 1,President,,WOR,Kamala D. Harris,12
+Wayne,Wolcott 1,President,,,Write-in,2
+Wayne,Wolcott 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,138
+Wayne,Wolcott 1,U.S. Senate,,REP,Michael D. Sapraicone,247
+Wayne,Wolcott 1,U.S. Senate,,CON,Michael D. Sapraicone,31
+Wayne,Wolcott 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Wayne,Wolcott 1,U.S. Senate,,LAR,Diane Sare,3
+Wayne,Wolcott 1,U.S. House,24,DEM,David Wagenhauser,126
+Wayne,Wolcott 1,U.S. House,24,REP,Claudia Tenney,264
+Wayne,Wolcott 1,U.S. House,24,CON,Claudia Tenney,37
+Wayne,Wolcott 1,State Senate,54,DEM,Scott Comegys,125
+Wayne,Wolcott 1,State Senate,54,REP,Pamela A. Helming,264
+Wayne,Wolcott 1,State Senate,54,CON,Pamela A. Helming,42
+Wayne,Wolcott 1,State Assembly,130,DEM,James Schuler,126
+Wayne,Wolcott 1,State Assembly,130,REP,Brian D. Manktelow,269
+Wayne,Wolcott 1,State Assembly,130,CON,Brian D. Manktelow,36
+Wayne,Wolcott 2,President,,DEM,Kamala D. Harris,52
+Wayne,Wolcott 2,President,,REP,Donald J. Trump,131
+Wayne,Wolcott 2,President,,CON,Donald J. Trump,20
+Wayne,Wolcott 2,President,,WOR,Kamala D. Harris,3
+Wayne,Wolcott 2,President,,,Write-in,1
+Wayne,Wolcott 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,54
+Wayne,Wolcott 2,U.S. Senate,,REP,Michael D. Sapraicone,120
+Wayne,Wolcott 2,U.S. Senate,,CON,Michael D. Sapraicone,19
+Wayne,Wolcott 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,9
+Wayne,Wolcott 2,U.S. House,24,DEM,David Wagenhauser,46
+Wayne,Wolcott 2,U.S. House,24,REP,Claudia Tenney,132
+Wayne,Wolcott 2,U.S. House,24,CON,Claudia Tenney,24
+Wayne,Wolcott 2,State Senate,54,DEM,Scott Comegys,42
+Wayne,Wolcott 2,State Senate,54,REP,Pamela A. Helming,129
+Wayne,Wolcott 2,State Senate,54,CON,Pamela A. Helming,29
+Wayne,Wolcott 2,State Assembly,130,DEM,James Schuler,41
+Wayne,Wolcott 2,State Assembly,130,REP,Brian D. Manktelow,134
+Wayne,Wolcott 2,State Assembly,130,CON,Brian D. Manktelow,25
+Wayne,Wolcott 3,President,,DEM,Kamala D. Harris,115
+Wayne,Wolcott 3,President,,REP,Donald J. Trump,291
+Wayne,Wolcott 3,President,,CON,Donald J. Trump,44
+Wayne,Wolcott 3,President,,WOR,Kamala D. Harris,8
+Wayne,Wolcott 3,President,,,Write-in,6
+Wayne,Wolcott 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,115
+Wayne,Wolcott 3,U.S. Senate,,REP,Michael D. Sapraicone,277
+Wayne,Wolcott 3,U.S. Senate,,CON,Michael D. Sapraicone,43
+Wayne,Wolcott 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Wayne,Wolcott 3,U.S. Senate,,LAR,Diane Sare,2
+Wayne,Wolcott 3,U.S. House,24,DEM,David Wagenhauser,100
+Wayne,Wolcott 3,U.S. House,24,REP,Claudia Tenney,306
+Wayne,Wolcott 3,U.S. House,24,CON,Claudia Tenney,47
+Wayne,Wolcott 3,State Senate,54,DEM,Scott Comegys,89
+Wayne,Wolcott 3,State Senate,54,REP,Pamela A. Helming,317
+Wayne,Wolcott 3,State Senate,54,CON,Pamela A. Helming,47
+Wayne,Wolcott 3,State Assembly,130,DEM,James Schuler,82
+Wayne,Wolcott 3,State Assembly,130,REP,Brian D. Manktelow,324
+Wayne,Wolcott 3,State Assembly,130,CON,Brian D. Manktelow,51
+Wayne,Wolcott 4,President,,DEM,Kamala D. Harris,144
+Wayne,Wolcott 4,President,,REP,Donald J. Trump,321
+Wayne,Wolcott 4,President,,CON,Donald J. Trump,50
+Wayne,Wolcott 4,President,,WOR,Kamala D. Harris,8
+Wayne,Wolcott 4,President,,,Write-in,3
+Wayne,Wolcott 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,152
+Wayne,Wolcott 4,U.S. Senate,,REP,Michael D. Sapraicone,290
+Wayne,Wolcott 4,U.S. Senate,,CON,Michael D. Sapraicone,54
+Wayne,Wolcott 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,21
+Wayne,Wolcott 4,U.S. House,24,DEM,David Wagenhauser,137
+Wayne,Wolcott 4,U.S. House,24,REP,Claudia Tenney,315
+Wayne,Wolcott 4,U.S. House,24,CON,Claudia Tenney,56
+Wayne,Wolcott 4,U.S. House,24,,Write-in,1
+Wayne,Wolcott 4,State Senate,54,DEM,Scott Comegys,132
+Wayne,Wolcott 4,State Senate,54,REP,Pamela A. Helming,316
+Wayne,Wolcott 4,State Senate,54,CON,Pamela A. Helming,61
+Wayne,Wolcott 4,State Senate,54,,Write-in,1
+Wayne,Wolcott 4,State Assembly,130,DEM,James Schuler,124
+Wayne,Wolcott 4,State Assembly,130,REP,Brian D. Manktelow,328
+Wayne,Wolcott 4,State Assembly,130,CON,Brian D. Manktelow,57
+Wayne,Wolcott 4,State Assembly,130,,Write-in,1

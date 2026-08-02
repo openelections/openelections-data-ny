@@ -1,0 +1,796 @@
+county,precinct,office,district,party,candidate,votes
+Livingston,Avon 1,President,,DEM,Kamala D. Harris,386
+Livingston,Avon 1,President,,REP,Donald J. Trump,537
+Livingston,Avon 1,President,,CON,Donald J. Trump,89
+Livingston,Avon 1,President,,WOR,Kamala D. Harris,21
+Livingston,Avon 1,President,,,Write-in,5
+Livingston,Avon 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,380
+Livingston,Avon 1,U.S. Senate,,REP,Michael D. Sapraicone,496
+Livingston,Avon 1,U.S. Senate,,CON,Michael D. Sapraicone,89
+Livingston,Avon 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,42
+Livingston,Avon 1,U.S. Senate,,LAR,Diane Sare,4
+Livingston,Avon 1,U.S. Senate,,,Write-in,2
+Livingston,Avon 1,U.S. House,24,DEM,David Wagenhauser,338
+Livingston,Avon 1,U.S. House,24,REP,Claudia Tenney,547
+Livingston,Avon 1,U.S. House,24,CON,Claudia Tenney,106
+Livingston,Avon 1,U.S. House,24,,Write-in,2
+Livingston,Avon 1,State Senate,54,DEM,Scott Comegys,309
+Livingston,Avon 1,State Senate,54,REP,Pamela A. Helming,572
+Livingston,Avon 1,State Senate,54,CON,Pamela A. Helming,106
+Livingston,Avon 1,State Assembly,133,DEM,Colleen Walsh-Williams,308
+Livingston,Avon 1,State Assembly,133,REP,Andrea K. Bailey,577
+Livingston,Avon 1,State Assembly,133,CON,Andrea K. Bailey,113
+Livingston,Avon 2,President,,DEM,Kamala D. Harris,448
+Livingston,Avon 2,President,,REP,Donald J. Trump,450
+Livingston,Avon 2,President,,CON,Donald J. Trump,50
+Livingston,Avon 2,President,,WOR,Kamala D. Harris,25
+Livingston,Avon 2,President,,,Write-in,13
+Livingston,Avon 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,434
+Livingston,Avon 2,U.S. Senate,,REP,Michael D. Sapraicone,424
+Livingston,Avon 2,U.S. Senate,,CON,Michael D. Sapraicone,54
+Livingston,Avon 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,39
+Livingston,Avon 2,U.S. Senate,,LAR,Diane Sare,5
+Livingston,Avon 2,U.S. Senate,,,Write-in,1
+Livingston,Avon 2,U.S. House,24,DEM,David Wagenhauser,395
+Livingston,Avon 2,U.S. House,24,REP,Claudia Tenney,490
+Livingston,Avon 2,U.S. House,24,CON,Claudia Tenney,59
+Livingston,Avon 2,State Senate,54,DEM,Scott Comegys,356
+Livingston,Avon 2,State Senate,54,REP,Pamela A. Helming,510
+Livingston,Avon 2,State Senate,54,CON,Pamela A. Helming,66
+Livingston,Avon 2,State Assembly,133,DEM,Colleen Walsh-Williams,316
+Livingston,Avon 2,State Assembly,133,REP,Andrea K. Bailey,554
+Livingston,Avon 2,State Assembly,133,CON,Andrea K. Bailey,78
+Livingston,Avon 3,President,,DEM,Kamala D. Harris,490
+Livingston,Avon 3,President,,REP,Donald J. Trump,392
+Livingston,Avon 3,President,,CON,Donald J. Trump,52
+Livingston,Avon 3,President,,WOR,Kamala D. Harris,27
+Livingston,Avon 3,President,,,Write-in,6
+Livingston,Avon 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,476
+Livingston,Avon 3,U.S. Senate,,REP,Michael D. Sapraicone,360
+Livingston,Avon 3,U.S. Senate,,CON,Michael D. Sapraicone,58
+Livingston,Avon 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,33
+Livingston,Avon 3,U.S. Senate,,LAR,Diane Sare,3
+Livingston,Avon 3,U.S. House,24,DEM,David Wagenhauser,450
+Livingston,Avon 3,U.S. House,24,REP,Claudia Tenney,407
+Livingston,Avon 3,U.S. House,24,CON,Claudia Tenney,62
+Livingston,Avon 3,State Senate,54,DEM,Scott Comegys,419
+Livingston,Avon 3,State Senate,54,REP,Pamela A. Helming,422
+Livingston,Avon 3,State Senate,54,CON,Pamela A. Helming,70
+Livingston,Avon 3,State Assembly,133,DEM,Colleen Walsh-Williams,383
+Livingston,Avon 3,State Assembly,133,REP,Andrea K. Bailey,461
+Livingston,Avon 3,State Assembly,133,CON,Andrea K. Bailey,75
+Livingston,Avon 4,President,,DEM,Kamala D. Harris,433
+Livingston,Avon 4,President,,REP,Donald J. Trump,406
+Livingston,Avon 4,President,,CON,Donald J. Trump,48
+Livingston,Avon 4,President,,WOR,Kamala D. Harris,24
+Livingston,Avon 4,President,,,Write-in,11
+Livingston,Avon 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,436
+Livingston,Avon 4,U.S. Senate,,REP,Michael D. Sapraicone,381
+Livingston,Avon 4,U.S. Senate,,CON,Michael D. Sapraicone,48
+Livingston,Avon 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,38
+Livingston,Avon 4,U.S. Senate,,LAR,Diane Sare,4
+Livingston,Avon 4,U.S. House,24,DEM,David Wagenhauser,394
+Livingston,Avon 4,U.S. House,24,REP,Claudia Tenney,433
+Livingston,Avon 4,U.S. House,24,CON,Claudia Tenney,63
+Livingston,Avon 4,State Senate,54,DEM,Scott Comegys,363
+Livingston,Avon 4,State Senate,54,REP,Pamela A. Helming,449
+Livingston,Avon 4,State Senate,54,CON,Pamela A. Helming,72
+Livingston,Avon 4,State Assembly,133,DEM,Colleen Walsh-Williams,347
+Livingston,Avon 4,State Assembly,133,REP,Andrea K. Bailey,469
+Livingston,Avon 4,State Assembly,133,CON,Andrea K. Bailey,72
+Livingston,Avon 4,State Assembly,133,,Write-in,1
+Livingston,Caledonia 1,President,,DEM,Kamala D. Harris,243
+Livingston,Caledonia 1,President,,REP,Donald J. Trump,425
+Livingston,Caledonia 1,President,,CON,Donald J. Trump,52
+Livingston,Caledonia 1,President,,WOR,Kamala D. Harris,21
+Livingston,Caledonia 1,President,,,Write-in,6
+Livingston,Caledonia 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,243
+Livingston,Caledonia 1,U.S. Senate,,REP,Michael D. Sapraicone,387
+Livingston,Caledonia 1,U.S. Senate,,CON,Michael D. Sapraicone,53
+Livingston,Caledonia 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,33
+Livingston,Caledonia 1,U.S. Senate,,LAR,Diane Sare,4
+Livingston,Caledonia 1,U.S. House,24,DEM,David Wagenhauser,199
+Livingston,Caledonia 1,U.S. House,24,REP,Claudia Tenney,451
+Livingston,Caledonia 1,U.S. House,24,CON,Claudia Tenney,61
+Livingston,Caledonia 1,State Senate,54,DEM,Scott Comegys,186
+Livingston,Caledonia 1,State Senate,54,REP,Pamela A. Helming,454
+Livingston,Caledonia 1,State Senate,54,CON,Pamela A. Helming,62
+Livingston,Caledonia 1,State Assembly,133,DEM,Colleen Walsh-Williams,187
+Livingston,Caledonia 1,State Assembly,133,REP,Andrea K. Bailey,463
+Livingston,Caledonia 1,State Assembly,133,CON,Andrea K. Bailey,57
+Livingston,Caledonia 2,President,,DEM,Kamala D. Harris,262
+Livingston,Caledonia 2,President,,REP,Donald J. Trump,460
+Livingston,Caledonia 2,President,,CON,Donald J. Trump,64
+Livingston,Caledonia 2,President,,WOR,Kamala D. Harris,15
+Livingston,Caledonia 2,President,,,Write-in,6
+Livingston,Caledonia 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,256
+Livingston,Caledonia 2,U.S. Senate,,REP,Michael D. Sapraicone,432
+Livingston,Caledonia 2,U.S. Senate,,CON,Michael D. Sapraicone,62
+Livingston,Caledonia 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,30
+Livingston,Caledonia 2,U.S. Senate,,LAR,Diane Sare,3
+Livingston,Caledonia 2,U.S. House,24,DEM,David Wagenhauser,225
+Livingston,Caledonia 2,U.S. House,24,REP,Claudia Tenney,482
+Livingston,Caledonia 2,U.S. House,24,CON,Claudia Tenney,67
+Livingston,Caledonia 2,State Senate,54,DEM,Scott Comegys,217
+Livingston,Caledonia 2,State Senate,54,REP,Pamela A. Helming,470
+Livingston,Caledonia 2,State Senate,54,CON,Pamela A. Helming,67
+Livingston,Caledonia 2,State Assembly,133,DEM,Colleen Walsh-Williams,223
+Livingston,Caledonia 2,State Assembly,133,REP,Andrea K. Bailey,471
+Livingston,Caledonia 2,State Assembly,133,CON,Andrea K. Bailey,70
+Livingston,Caledonia 3,President,,DEM,Kamala D. Harris,287
+Livingston,Caledonia 3,President,,REP,Donald J. Trump,463
+Livingston,Caledonia 3,President,,CON,Donald J. Trump,50
+Livingston,Caledonia 3,President,,WOR,Kamala D. Harris,20
+Livingston,Caledonia 3,President,,,Write-in,13
+Livingston,Caledonia 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,288
+Livingston,Caledonia 3,U.S. Senate,,REP,Michael D. Sapraicone,441
+Livingston,Caledonia 3,U.S. Senate,,CON,Michael D. Sapraicone,51
+Livingston,Caledonia 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,33
+Livingston,Caledonia 3,U.S. Senate,,LAR,Diane Sare,1
+Livingston,Caledonia 3,U.S. Senate,,,Write-in,2
+Livingston,Caledonia 3,U.S. House,24,DEM,David Wagenhauser,252
+Livingston,Caledonia 3,U.S. House,24,REP,Claudia Tenney,491
+Livingston,Caledonia 3,U.S. House,24,CON,Claudia Tenney,61
+Livingston,Caledonia 3,U.S. House,24,,Write-in,2
+Livingston,Caledonia 3,State Senate,54,DEM,Scott Comegys,236
+Livingston,Caledonia 3,State Senate,54,REP,Pamela A. Helming,497
+Livingston,Caledonia 3,State Senate,54,CON,Pamela A. Helming,60
+Livingston,Caledonia 3,State Senate,54,,Write-in,2
+Livingston,Caledonia 3,State Assembly,133,DEM,Colleen Walsh-Williams,232
+Livingston,Caledonia 3,State Assembly,133,REP,Andrea K. Bailey,503
+Livingston,Caledonia 3,State Assembly,133,CON,Andrea K. Bailey,59
+Livingston,Caledonia 3,State Assembly,133,,Write-in,2
+Livingston,Conesus 1,President,,DEM,Kamala D. Harris,192
+Livingston,Conesus 1,President,,REP,Donald J. Trump,397
+Livingston,Conesus 1,President,,CON,Donald J. Trump,63
+Livingston,Conesus 1,President,,WOR,Kamala D. Harris,13
+Livingston,Conesus 1,President,,,Write-in,2
+Livingston,Conesus 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,194
+Livingston,Conesus 1,U.S. Senate,,REP,Michael D. Sapraicone,371
+Livingston,Conesus 1,U.S. Senate,,CON,Michael D. Sapraicone,59
+Livingston,Conesus 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,24
+Livingston,Conesus 1,U.S. Senate,,LAR,Diane Sare,1
+Livingston,Conesus 1,U.S. House,24,DEM,David Wagenhauser,167
+Livingston,Conesus 1,U.S. House,24,REP,Claudia Tenney,410
+Livingston,Conesus 1,U.S. House,24,CON,Claudia Tenney,67
+Livingston,Conesus 1,State Senate,54,DEM,Scott Comegys,161
+Livingston,Conesus 1,State Senate,54,REP,Pamela A. Helming,407
+Livingston,Conesus 1,State Senate,54,CON,Pamela A. Helming,71
+Livingston,Conesus 1,State Assembly,133,DEM,Colleen Walsh-Williams,165
+Livingston,Conesus 1,State Assembly,133,REP,Andrea K. Bailey,406
+Livingston,Conesus 1,State Assembly,133,CON,Andrea K. Bailey,71
+Livingston,Conesus 2,President,,DEM,Kamala D. Harris,246
+Livingston,Conesus 2,President,,REP,Donald J. Trump,438
+Livingston,Conesus 2,President,,CON,Donald J. Trump,45
+Livingston,Conesus 2,President,,WOR,Kamala D. Harris,12
+Livingston,Conesus 2,President,,,Write-in,9
+Livingston,Conesus 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,240
+Livingston,Conesus 2,U.S. Senate,,REP,Michael D. Sapraicone,425
+Livingston,Conesus 2,U.S. Senate,,CON,Michael D. Sapraicone,45
+Livingston,Conesus 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,32
+Livingston,Conesus 2,U.S. Senate,,LAR,Diane Sare,2
+Livingston,Conesus 2,U.S. House,24,DEM,David Wagenhauser,227
+Livingston,Conesus 2,U.S. House,24,REP,Claudia Tenney,456
+Livingston,Conesus 2,U.S. House,24,CON,Claudia Tenney,55
+Livingston,Conesus 2,State Senate,54,DEM,Scott Comegys,203
+Livingston,Conesus 2,State Senate,54,REP,Pamela A. Helming,475
+Livingston,Conesus 2,State Senate,54,CON,Pamela A. Helming,53
+Livingston,Conesus 2,State Senate,54,,Write-in,1
+Livingston,Conesus 2,State Assembly,133,DEM,Colleen Walsh-Williams,207
+Livingston,Conesus 2,State Assembly,133,REP,Andrea K. Bailey,466
+Livingston,Conesus 2,State Assembly,133,CON,Andrea K. Bailey,54
+Livingston,Conesus 2,State Assembly,133,,Write-in,1
+Livingston,Geneseo 1,President,,DEM,Kamala D. Harris,610
+Livingston,Geneseo 1,President,,REP,Donald J. Trump,397
+Livingston,Geneseo 1,President,,CON,Donald J. Trump,55
+Livingston,Geneseo 1,President,,WOR,Kamala D. Harris,25
+Livingston,Geneseo 1,President,,,Write-in,9
+Livingston,Geneseo 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,597
+Livingston,Geneseo 1,U.S. Senate,,REP,Michael D. Sapraicone,365
+Livingston,Geneseo 1,U.S. Senate,,CON,Michael D. Sapraicone,54
+Livingston,Geneseo 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,45
+Livingston,Geneseo 1,U.S. Senate,,LAR,Diane Sare,6
+Livingston,Geneseo 1,U.S. House,24,DEM,David Wagenhauser,573
+Livingston,Geneseo 1,U.S. House,24,REP,Claudia Tenney,410
+Livingston,Geneseo 1,U.S. House,24,CON,Claudia Tenney,64
+Livingston,Geneseo 1,State Senate,54,DEM,Scott Comegys,524
+Livingston,Geneseo 1,State Senate,54,REP,Pamela A. Helming,446
+Livingston,Geneseo 1,State Senate,54,CON,Pamela A. Helming,64
+Livingston,Geneseo 1,State Assembly,133,DEM,Colleen Walsh-Williams,500
+Livingston,Geneseo 1,State Assembly,133,REP,Andrea K. Bailey,469
+Livingston,Geneseo 1,State Assembly,133,CON,Andrea K. Bailey,73
+Livingston,Geneseo 1,State Assembly,133,,Write-in,1
+Livingston,Geneseo 2,President,,DEM,Kamala D. Harris,423
+Livingston,Geneseo 2,President,,REP,Donald J. Trump,247
+Livingston,Geneseo 2,President,,CON,Donald J. Trump,27
+Livingston,Geneseo 2,President,,WOR,Kamala D. Harris,16
+Livingston,Geneseo 2,President,,,Write-in,18
+Livingston,Geneseo 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,413
+Livingston,Geneseo 2,U.S. Senate,,REP,Michael D. Sapraicone,241
+Livingston,Geneseo 2,U.S. Senate,,CON,Michael D. Sapraicone,28
+Livingston,Geneseo 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Livingston,Geneseo 2,U.S. Senate,,LAR,Diane Sare,5
+Livingston,Geneseo 2,U.S. Senate,,,Write-in,1
+Livingston,Geneseo 2,U.S. House,24,DEM,David Wagenhauser,401
+Livingston,Geneseo 2,U.S. House,24,REP,Claudia Tenney,266
+Livingston,Geneseo 2,U.S. House,24,CON,Claudia Tenney,40
+Livingston,Geneseo 2,U.S. House,24,,Write-in,1
+Livingston,Geneseo 2,State Senate,54,DEM,Scott Comegys,377
+Livingston,Geneseo 2,State Senate,54,REP,Pamela A. Helming,273
+Livingston,Geneseo 2,State Senate,54,CON,Pamela A. Helming,46
+Livingston,Geneseo 2,State Senate,54,,Write-in,1
+Livingston,Geneseo 2,State Assembly,133,DEM,Colleen Walsh-Williams,363
+Livingston,Geneseo 2,State Assembly,133,REP,Andrea K. Bailey,296
+Livingston,Geneseo 2,State Assembly,133,CON,Andrea K. Bailey,41
+Livingston,Geneseo 2,State Assembly,133,,Write-in,1
+Livingston,Geneseo 3,President,,DEM,Kamala D. Harris,410
+Livingston,Geneseo 3,President,,REP,Donald J. Trump,460
+Livingston,Geneseo 3,President,,CON,Donald J. Trump,45
+Livingston,Geneseo 3,President,,WOR,Kamala D. Harris,14
+Livingston,Geneseo 3,President,,,Write-in,5
+Livingston,Geneseo 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,396
+Livingston,Geneseo 3,U.S. Senate,,REP,Michael D. Sapraicone,425
+Livingston,Geneseo 3,U.S. Senate,,CON,Michael D. Sapraicone,45
+Livingston,Geneseo 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,33
+Livingston,Geneseo 3,U.S. Senate,,LAR,Diane Sare,4
+Livingston,Geneseo 3,U.S. Senate,,,Write-in,4
+Livingston,Geneseo 3,U.S. House,24,DEM,David Wagenhauser,367
+Livingston,Geneseo 3,U.S. House,24,REP,Claudia Tenney,479
+Livingston,Geneseo 3,U.S. House,24,CON,Claudia Tenney,57
+Livingston,Geneseo 3,U.S. House,24,,Write-in,3
+Livingston,Geneseo 3,State Senate,54,DEM,Scott Comegys,337
+Livingston,Geneseo 3,State Senate,54,REP,Pamela A. Helming,502
+Livingston,Geneseo 3,State Senate,54,CON,Pamela A. Helming,58
+Livingston,Geneseo 3,State Senate,54,,Write-in,2
+Livingston,Geneseo 3,State Assembly,133,DEM,Colleen Walsh-Williams,317
+Livingston,Geneseo 3,State Assembly,133,REP,Andrea K. Bailey,526
+Livingston,Geneseo 3,State Assembly,133,CON,Andrea K. Bailey,60
+Livingston,Geneseo 3,State Assembly,133,,Write-in,2
+Livingston,Geneseo 4,President,,DEM,Kamala D. Harris,360
+Livingston,Geneseo 4,President,,REP,Donald J. Trump,318
+Livingston,Geneseo 4,President,,CON,Donald J. Trump,43
+Livingston,Geneseo 4,President,,WOR,Kamala D. Harris,18
+Livingston,Geneseo 4,President,,,Write-in,6
+Livingston,Geneseo 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,352
+Livingston,Geneseo 4,U.S. Senate,,REP,Michael D. Sapraicone,292
+Livingston,Geneseo 4,U.S. Senate,,CON,Michael D. Sapraicone,47
+Livingston,Geneseo 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,33
+Livingston,Geneseo 4,U.S. House,24,DEM,David Wagenhauser,299
+Livingston,Geneseo 4,U.S. House,24,REP,Claudia Tenney,359
+Livingston,Geneseo 4,U.S. House,24,CON,Claudia Tenney,52
+Livingston,Geneseo 4,State Senate,54,DEM,Scott Comegys,287
+Livingston,Geneseo 4,State Senate,54,REP,Pamela A. Helming,359
+Livingston,Geneseo 4,State Senate,54,CON,Pamela A. Helming,53
+Livingston,Geneseo 4,State Assembly,133,DEM,Colleen Walsh-Williams,264
+Livingston,Geneseo 4,State Assembly,133,REP,Andrea K. Bailey,381
+Livingston,Geneseo 4,State Assembly,133,CON,Andrea K. Bailey,59
+Livingston,Geneseo 5,President,,DEM,Kamala D. Harris,194
+Livingston,Geneseo 5,President,,REP,Donald J. Trump,44
+Livingston,Geneseo 5,President,,CON,Donald J. Trump,5
+Livingston,Geneseo 5,President,,WOR,Kamala D. Harris,5
+Livingston,Geneseo 5,President,,,Write-in,1
+Livingston,Geneseo 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,179
+Livingston,Geneseo 5,U.S. Senate,,REP,Michael D. Sapraicone,35
+Livingston,Geneseo 5,U.S. Senate,,CON,Michael D. Sapraicone,5
+Livingston,Geneseo 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,9
+Livingston,Geneseo 5,U.S. Senate,,LAR,Diane Sare,3
+Livingston,Geneseo 5,U.S. Senate,,,Write-in,1
+Livingston,Geneseo 5,U.S. House,24,DEM,David Wagenhauser,177
+Livingston,Geneseo 5,U.S. House,24,REP,Claudia Tenney,39
+Livingston,Geneseo 5,U.S. House,24,CON,Claudia Tenney,6
+Livingston,Geneseo 5,State Senate,54,DEM,Scott Comegys,177
+Livingston,Geneseo 5,State Senate,54,REP,Pamela A. Helming,40
+Livingston,Geneseo 5,State Senate,54,CON,Pamela A. Helming,4
+Livingston,Geneseo 5,State Assembly,133,DEM,Colleen Walsh-Williams,180
+Livingston,Geneseo 5,State Assembly,133,REP,Andrea K. Bailey,39
+Livingston,Geneseo 5,State Assembly,133,CON,Andrea K. Bailey,5
+Livingston,Groveland 1,President,,DEM,Kamala D. Harris,200
+Livingston,Groveland 1,President,,REP,Donald J. Trump,291
+Livingston,Groveland 1,President,,CON,Donald J. Trump,36
+Livingston,Groveland 1,President,,WOR,Kamala D. Harris,12
+Livingston,Groveland 1,President,,,Write-in,5
+Livingston,Groveland 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,197
+Livingston,Groveland 1,U.S. Senate,,REP,Michael D. Sapraicone,269
+Livingston,Groveland 1,U.S. Senate,,CON,Michael D. Sapraicone,45
+Livingston,Groveland 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,21
+Livingston,Groveland 1,U.S. Senate,,LAR,Diane Sare,4
+Livingston,Groveland 1,U.S. House,24,DEM,David Wagenhauser,187
+Livingston,Groveland 1,U.S. House,24,REP,Claudia Tenney,298
+Livingston,Groveland 1,U.S. House,24,CON,Claudia Tenney,45
+Livingston,Groveland 1,U.S. House,24,,Write-in,1
+Livingston,Groveland 1,State Senate,54,DEM,Scott Comegys,160
+Livingston,Groveland 1,State Senate,54,REP,Pamela A. Helming,316
+Livingston,Groveland 1,State Senate,54,CON,Pamela A. Helming,48
+Livingston,Groveland 1,State Assembly,133,DEM,Colleen Walsh-Williams,162
+Livingston,Groveland 1,State Assembly,133,REP,Andrea K. Bailey,318
+Livingston,Groveland 1,State Assembly,133,CON,Andrea K. Bailey,52
+Livingston,Groveland 2,President,,DEM,Kamala D. Harris,79
+Livingston,Groveland 2,President,,REP,Donald J. Trump,180
+Livingston,Groveland 2,President,,CON,Donald J. Trump,20
+Livingston,Groveland 2,President,,WOR,Kamala D. Harris,3
+Livingston,Groveland 2,President,,,Write-in,3
+Livingston,Groveland 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,71
+Livingston,Groveland 2,U.S. Senate,,REP,Michael D. Sapraicone,171
+Livingston,Groveland 2,U.S. Senate,,CON,Michael D. Sapraicone,20
+Livingston,Groveland 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,12
+Livingston,Groveland 2,U.S. Senate,,LAR,Diane Sare,3
+Livingston,Groveland 2,U.S. House,24,DEM,David Wagenhauser,69
+Livingston,Groveland 2,U.S. House,24,REP,Claudia Tenney,186
+Livingston,Groveland 2,U.S. House,24,CON,Claudia Tenney,21
+Livingston,Groveland 2,State Senate,54,DEM,Scott Comegys,62
+Livingston,Groveland 2,State Senate,54,REP,Pamela A. Helming,188
+Livingston,Groveland 2,State Senate,54,CON,Pamela A. Helming,23
+Livingston,Groveland 2,State Assembly,133,DEM,Colleen Walsh-Williams,60
+Livingston,Groveland 2,State Assembly,133,REP,Andrea K. Bailey,196
+Livingston,Groveland 2,State Assembly,133,CON,Andrea K. Bailey,19
+Livingston,Leicester 1,President,,DEM,Kamala D. Harris,367
+Livingston,Leicester 1,President,,REP,Donald J. Trump,650
+Livingston,Leicester 1,President,,CON,Donald J. Trump,71
+Livingston,Leicester 1,President,,WOR,Kamala D. Harris,18
+Livingston,Leicester 1,President,,,Write-in,5
+Livingston,Leicester 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,388
+Livingston,Leicester 1,U.S. Senate,,REP,Michael D. Sapraicone,562
+Livingston,Leicester 1,U.S. Senate,,CON,Michael D. Sapraicone,61
+Livingston,Leicester 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,55
+Livingston,Leicester 1,U.S. Senate,,LAR,Diane Sare,3
+Livingston,Leicester 1,U.S. House,24,DEM,David Wagenhauser,322
+Livingston,Leicester 1,U.S. House,24,REP,Claudia Tenney,645
+Livingston,Leicester 1,U.S. House,24,CON,Claudia Tenney,82
+Livingston,Leicester 1,U.S. House,24,,Write-in,3
+Livingston,Leicester 1,State Senate,54,DEM,Scott Comegys,287
+Livingston,Leicester 1,State Senate,54,REP,Pamela A. Helming,655
+Livingston,Leicester 1,State Senate,54,CON,Pamela A. Helming,81
+Livingston,Leicester 1,State Assembly,133,DEM,Colleen Walsh-Williams,275
+Livingston,Leicester 1,State Assembly,133,REP,Andrea K. Bailey,688
+Livingston,Leicester 1,State Assembly,133,CON,Andrea K. Bailey,82
+Livingston,Lima 1,President,,DEM,Kamala D. Harris,500
+Livingston,Lima 1,President,,REP,Donald J. Trump,621
+Livingston,Lima 1,President,,CON,Donald J. Trump,104
+Livingston,Lima 1,President,,WOR,Kamala D. Harris,37
+Livingston,Lima 1,President,,,Write-in,21
+Livingston,Lima 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,499
+Livingston,Lima 1,U.S. Senate,,REP,Michael D. Sapraicone,589
+Livingston,Lima 1,U.S. Senate,,CON,Michael D. Sapraicone,125
+Livingston,Lima 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,46
+Livingston,Lima 1,U.S. Senate,,LAR,Diane Sare,6
+Livingston,Lima 1,U.S. House,24,DEM,David Wagenhauser,469
+Livingston,Lima 1,U.S. House,24,REP,Claudia Tenney,649
+Livingston,Lima 1,U.S. House,24,CON,Claudia Tenney,131
+Livingston,Lima 1,U.S. House,24,,Write-in,2
+Livingston,Lima 1,State Senate,54,DEM,Scott Comegys,427
+Livingston,Lima 1,State Senate,54,REP,Pamela A. Helming,673
+Livingston,Lima 1,State Senate,54,CON,Pamela A. Helming,140
+Livingston,Lima 1,State Senate,54,,Write-in,1
+Livingston,Lima 1,State Assembly,133,DEM,Colleen Walsh-Williams,434
+Livingston,Lima 1,State Assembly,133,REP,Andrea K. Bailey,667
+Livingston,Lima 1,State Assembly,133,CON,Andrea K. Bailey,134
+Livingston,Lima 1,State Assembly,133,,Write-in,1
+Livingston,Lima 2,President,,DEM,Kamala D. Harris,423
+Livingston,Lima 2,President,,REP,Donald J. Trump,470
+Livingston,Lima 2,President,,CON,Donald J. Trump,96
+Livingston,Lima 2,President,,WOR,Kamala D. Harris,35
+Livingston,Lima 2,President,,,Write-in,10
+Livingston,Lima 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,407
+Livingston,Lima 2,U.S. Senate,,REP,Michael D. Sapraicone,447
+Livingston,Lima 2,U.S. Senate,,CON,Michael D. Sapraicone,100
+Livingston,Lima 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,50
+Livingston,Lima 2,U.S. Senate,,LAR,Diane Sare,5
+Livingston,Lima 2,U.S. House,24,DEM,David Wagenhauser,416
+Livingston,Lima 2,U.S. House,24,REP,Claudia Tenney,474
+Livingston,Lima 2,U.S. House,24,CON,Claudia Tenney,109
+Livingston,Lima 2,State Senate,54,DEM,Scott Comegys,381
+Livingston,Lima 2,State Senate,54,REP,Pamela A. Helming,504
+Livingston,Lima 2,State Senate,54,CON,Pamela A. Helming,111
+Livingston,Lima 2,State Assembly,133,DEM,Colleen Walsh-Williams,396
+Livingston,Lima 2,State Assembly,133,REP,Andrea K. Bailey,485
+Livingston,Lima 2,State Assembly,133,CON,Andrea K. Bailey,107
+Livingston,Livonia 1,President,,DEM,Kamala D. Harris,271
+Livingston,Livonia 1,President,,REP,Donald J. Trump,562
+Livingston,Livonia 1,President,,CON,Donald J. Trump,78
+Livingston,Livonia 1,President,,WOR,Kamala D. Harris,18
+Livingston,Livonia 1,President,,,Write-in,10
+Livingston,Livonia 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,273
+Livingston,Livonia 1,U.S. Senate,,REP,Michael D. Sapraicone,506
+Livingston,Livonia 1,U.S. Senate,,CON,Michael D. Sapraicone,83
+Livingston,Livonia 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,38
+Livingston,Livonia 1,U.S. Senate,,LAR,Diane Sare,5
+Livingston,Livonia 1,U.S. House,24,DEM,David Wagenhauser,247
+Livingston,Livonia 1,U.S. House,24,REP,Claudia Tenney,558
+Livingston,Livonia 1,U.S. House,24,CON,Claudia Tenney,93
+Livingston,Livonia 1,State Senate,54,DEM,Scott Comegys,239
+Livingston,Livonia 1,State Senate,54,REP,Pamela A. Helming,558
+Livingston,Livonia 1,State Senate,54,CON,Pamela A. Helming,92
+Livingston,Livonia 1,State Assembly,133,DEM,Colleen Walsh-Williams,233
+Livingston,Livonia 1,State Assembly,133,REP,Andrea K. Bailey,566
+Livingston,Livonia 1,State Assembly,133,CON,Andrea K. Bailey,99
+Livingston,Livonia 2,President,,DEM,Kamala D. Harris,328
+Livingston,Livonia 2,President,,REP,Donald J. Trump,513
+Livingston,Livonia 2,President,,CON,Donald J. Trump,69
+Livingston,Livonia 2,President,,WOR,Kamala D. Harris,26
+Livingston,Livonia 2,President,,,Write-in,8
+Livingston,Livonia 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,327
+Livingston,Livonia 2,U.S. Senate,,REP,Michael D. Sapraicone,478
+Livingston,Livonia 2,U.S. Senate,,CON,Michael D. Sapraicone,59
+Livingston,Livonia 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,42
+Livingston,Livonia 2,U.S. Senate,,LAR,Diane Sare,5
+Livingston,Livonia 2,U.S. Senate,,,Write-in,1
+Livingston,Livonia 2,U.S. House,24,DEM,David Wagenhauser,294
+Livingston,Livonia 2,U.S. House,24,REP,Claudia Tenney,532
+Livingston,Livonia 2,U.S. House,24,CON,Claudia Tenney,78
+Livingston,Livonia 2,State Senate,54,DEM,Scott Comegys,277
+Livingston,Livonia 2,State Senate,54,REP,Pamela A. Helming,535
+Livingston,Livonia 2,State Senate,54,CON,Pamela A. Helming,75
+Livingston,Livonia 2,State Assembly,133,DEM,Colleen Walsh-Williams,272
+Livingston,Livonia 2,State Assembly,133,REP,Andrea K. Bailey,546
+Livingston,Livonia 2,State Assembly,133,CON,Andrea K. Bailey,75
+Livingston,Livonia 3,President,,DEM,Kamala D. Harris,333
+Livingston,Livonia 3,President,,REP,Donald J. Trump,353
+Livingston,Livonia 3,President,,CON,Donald J. Trump,54
+Livingston,Livonia 3,President,,WOR,Kamala D. Harris,20
+Livingston,Livonia 3,President,,,Write-in,9
+Livingston,Livonia 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,336
+Livingston,Livonia 3,U.S. Senate,,REP,Michael D. Sapraicone,309
+Livingston,Livonia 3,U.S. Senate,,CON,Michael D. Sapraicone,62
+Livingston,Livonia 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,34
+Livingston,Livonia 3,U.S. Senate,,LAR,Diane Sare,2
+Livingston,Livonia 3,U.S. House,24,DEM,David Wagenhauser,284
+Livingston,Livonia 3,U.S. House,24,REP,Claudia Tenney,384
+Livingston,Livonia 3,U.S. House,24,CON,Claudia Tenney,63
+Livingston,Livonia 3,U.S. House,24,,Write-in,1
+Livingston,Livonia 3,State Senate,54,DEM,Scott Comegys,258
+Livingston,Livonia 3,State Senate,54,REP,Pamela A. Helming,407
+Livingston,Livonia 3,State Senate,54,CON,Pamela A. Helming,63
+Livingston,Livonia 3,State Assembly,133,DEM,Colleen Walsh-Williams,270
+Livingston,Livonia 3,State Assembly,133,REP,Andrea K. Bailey,393
+Livingston,Livonia 3,State Assembly,133,CON,Andrea K. Bailey,60
+Livingston,Livonia 3,State Assembly,133,,Write-in,1
+Livingston,Livonia 4,President,,DEM,Kamala D. Harris,372
+Livingston,Livonia 4,President,,REP,Donald J. Trump,462
+Livingston,Livonia 4,President,,CON,Donald J. Trump,37
+Livingston,Livonia 4,President,,WOR,Kamala D. Harris,18
+Livingston,Livonia 4,President,,,Write-in,9
+Livingston,Livonia 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,360
+Livingston,Livonia 4,U.S. Senate,,REP,Michael D. Sapraicone,433
+Livingston,Livonia 4,U.S. Senate,,CON,Michael D. Sapraicone,43
+Livingston,Livonia 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,29
+Livingston,Livonia 4,U.S. Senate,,LAR,Diane Sare,1
+Livingston,Livonia 4,U.S. House,24,DEM,David Wagenhauser,325
+Livingston,Livonia 4,U.S. House,24,REP,Claudia Tenney,487
+Livingston,Livonia 4,U.S. House,24,CON,Claudia Tenney,45
+Livingston,Livonia 4,State Senate,54,DEM,Scott Comegys,308
+Livingston,Livonia 4,State Senate,54,REP,Pamela A. Helming,493
+Livingston,Livonia 4,State Senate,54,CON,Pamela A. Helming,43
+Livingston,Livonia 4,State Assembly,133,DEM,Colleen Walsh-Williams,304
+Livingston,Livonia 4,State Assembly,133,REP,Andrea K. Bailey,496
+Livingston,Livonia 4,State Assembly,133,CON,Andrea K. Bailey,45
+Livingston,Livonia 4,State Assembly,133,,Write-in,1
+Livingston,Livonia 5,President,,DEM,Kamala D. Harris,363
+Livingston,Livonia 5,President,,REP,Donald J. Trump,433
+Livingston,Livonia 5,President,,CON,Donald J. Trump,73
+Livingston,Livonia 5,President,,WOR,Kamala D. Harris,17
+Livingston,Livonia 5,President,,,Write-in,3
+Livingston,Livonia 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,362
+Livingston,Livonia 5,U.S. Senate,,REP,Michael D. Sapraicone,395
+Livingston,Livonia 5,U.S. Senate,,CON,Michael D. Sapraicone,72
+Livingston,Livonia 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,39
+Livingston,Livonia 5,U.S. Senate,,LAR,Diane Sare,6
+Livingston,Livonia 5,U.S. House,24,DEM,David Wagenhauser,326
+Livingston,Livonia 5,U.S. House,24,REP,Claudia Tenney,448
+Livingston,Livonia 5,U.S. House,24,CON,Claudia Tenney,81
+Livingston,Livonia 5,State Senate,54,DEM,Scott Comegys,296
+Livingston,Livonia 5,State Senate,54,REP,Pamela A. Helming,469
+Livingston,Livonia 5,State Senate,54,CON,Pamela A. Helming,78
+Livingston,Livonia 5,State Assembly,133,DEM,Colleen Walsh-Williams,309
+Livingston,Livonia 5,State Assembly,133,REP,Andrea K. Bailey,457
+Livingston,Livonia 5,State Assembly,133,CON,Andrea K. Bailey,83
+Livingston,Mt. Morris 1,President,,DEM,Kamala D. Harris,234
+Livingston,Mt. Morris 1,President,,REP,Donald J. Trump,348
+Livingston,Mt. Morris 1,President,,CON,Donald J. Trump,23
+Livingston,Mt. Morris 1,President,,WOR,Kamala D. Harris,12
+Livingston,Mt. Morris 1,President,,,Write-in,2
+Livingston,Mt. Morris 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,249
+Livingston,Mt. Morris 1,U.S. Senate,,REP,Michael D. Sapraicone,305
+Livingston,Mt. Morris 1,U.S. Senate,,CON,Michael D. Sapraicone,16
+Livingston,Mt. Morris 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,23
+Livingston,Mt. Morris 1,U.S. Senate,,LAR,Diane Sare,4
+Livingston,Mt. Morris 1,U.S. Senate,,,Write-in,1
+Livingston,Mt. Morris 1,U.S. House,24,DEM,David Wagenhauser,223
+Livingston,Mt. Morris 1,U.S. House,24,REP,Claudia Tenney,340
+Livingston,Mt. Morris 1,U.S. House,24,CON,Claudia Tenney,22
+Livingston,Mt. Morris 1,State Senate,54,DEM,Scott Comegys,204
+Livingston,Mt. Morris 1,State Senate,54,REP,Pamela A. Helming,356
+Livingston,Mt. Morris 1,State Senate,54,CON,Pamela A. Helming,26
+Livingston,Mt. Morris 1,State Assembly,133,DEM,Colleen Walsh-Williams,199
+Livingston,Mt. Morris 1,State Assembly,133,REP,Andrea K. Bailey,368
+Livingston,Mt. Morris 1,State Assembly,133,CON,Andrea K. Bailey,22
+Livingston,Mt. Morris 2,President,,DEM,Kamala D. Harris,193
+Livingston,Mt. Morris 2,President,,REP,Donald J. Trump,279
+Livingston,Mt. Morris 2,President,,CON,Donald J. Trump,40
+Livingston,Mt. Morris 2,President,,WOR,Kamala D. Harris,15
+Livingston,Mt. Morris 2,President,,,Write-in,4
+Livingston,Mt. Morris 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,209
+Livingston,Mt. Morris 2,U.S. Senate,,REP,Michael D. Sapraicone,234
+Livingston,Mt. Morris 2,U.S. Senate,,CON,Michael D. Sapraicone,40
+Livingston,Mt. Morris 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,27
+Livingston,Mt. Morris 2,U.S. Senate,,LAR,Diane Sare,1
+Livingston,Mt. Morris 2,U.S. House,24,DEM,David Wagenhauser,172
+Livingston,Mt. Morris 2,U.S. House,24,REP,Claudia Tenney,270
+Livingston,Mt. Morris 2,U.S. House,24,CON,Claudia Tenney,54
+Livingston,Mt. Morris 2,State Senate,54,DEM,Scott Comegys,161
+Livingston,Mt. Morris 2,State Senate,54,REP,Pamela A. Helming,279
+Livingston,Mt. Morris 2,State Senate,54,CON,Pamela A. Helming,46
+Livingston,Mt. Morris 2,State Assembly,133,DEM,Colleen Walsh-Williams,167
+Livingston,Mt. Morris 2,State Assembly,133,REP,Andrea K. Bailey,278
+Livingston,Mt. Morris 2,State Assembly,133,CON,Andrea K. Bailey,52
+Livingston,Mt. Morris 3,President,,DEM,Kamala D. Harris,147
+Livingston,Mt. Morris 3,President,,REP,Donald J. Trump,395
+Livingston,Mt. Morris 3,President,,CON,Donald J. Trump,51
+Livingston,Mt. Morris 3,President,,WOR,Kamala D. Harris,9
+Livingston,Mt. Morris 3,President,,,Write-in,2
+Livingston,Mt. Morris 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,164
+Livingston,Mt. Morris 3,U.S. Senate,,REP,Michael D. Sapraicone,357
+Livingston,Mt. Morris 3,U.S. Senate,,CON,Michael D. Sapraicone,49
+Livingston,Mt. Morris 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Livingston,Mt. Morris 3,U.S. Senate,,LAR,Diane Sare,1
+Livingston,Mt. Morris 3,U.S. House,24,DEM,David Wagenhauser,131
+Livingston,Mt. Morris 3,U.S. House,24,REP,Claudia Tenney,406
+Livingston,Mt. Morris 3,U.S. House,24,CON,Claudia Tenney,49
+Livingston,Mt. Morris 3,State Senate,54,DEM,Scott Comegys,120
+Livingston,Mt. Morris 3,State Senate,54,REP,Pamela A. Helming,411
+Livingston,Mt. Morris 3,State Senate,54,CON,Pamela A. Helming,54
+Livingston,Mt. Morris 3,State Assembly,133,DEM,Colleen Walsh-Williams,133
+Livingston,Mt. Morris 3,State Assembly,133,REP,Andrea K. Bailey,402
+Livingston,Mt. Morris 3,State Assembly,133,CON,Andrea K. Bailey,52
+Livingston,North Dansville 1,President,,DEM,Kamala D. Harris,273
+Livingston,North Dansville 1,President,,REP,Donald J. Trump,403
+Livingston,North Dansville 1,President,,CON,Donald J. Trump,36
+Livingston,North Dansville 1,President,,WOR,Kamala D. Harris,19
+Livingston,North Dansville 1,President,,,Write-in,8
+Livingston,North Dansville 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,289
+Livingston,North Dansville 1,U.S. Senate,,REP,Michael D. Sapraicone,357
+Livingston,North Dansville 1,U.S. Senate,,CON,Michael D. Sapraicone,41
+Livingston,North Dansville 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,36
+Livingston,North Dansville 1,U.S. Senate,,LAR,Diane Sare,3
+Livingston,North Dansville 1,U.S. Senate,,,Write-in,1
+Livingston,North Dansville 1,U.S. House,24,DEM,David Wagenhauser,250
+Livingston,North Dansville 1,U.S. House,24,REP,Claudia Tenney,413
+Livingston,North Dansville 1,U.S. House,24,CON,Claudia Tenney,50
+Livingston,North Dansville 1,U.S. House,24,,Write-in,1
+Livingston,North Dansville 1,State Senate,54,DEM,Scott Comegys,240
+Livingston,North Dansville 1,State Senate,54,REP,Pamela A. Helming,416
+Livingston,North Dansville 1,State Senate,54,CON,Pamela A. Helming,50
+Livingston,North Dansville 1,State Senate,54,,Write-in,1
+Livingston,North Dansville 1,State Assembly,133,DEM,Colleen Walsh-Williams,240
+Livingston,North Dansville 1,State Assembly,133,REP,Andrea K. Bailey,412
+Livingston,North Dansville 1,State Assembly,133,CON,Andrea K. Bailey,44
+Livingston,North Dansville 1,State Assembly,133,,Write-in,1
+Livingston,North Dansville 2,President,,DEM,Kamala D. Harris,216
+Livingston,North Dansville 2,President,,REP,Donald J. Trump,341
+Livingston,North Dansville 2,President,,CON,Donald J. Trump,40
+Livingston,North Dansville 2,President,,WOR,Kamala D. Harris,17
+Livingston,North Dansville 2,President,,,Write-in,2
+Livingston,North Dansville 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,225
+Livingston,North Dansville 2,U.S. Senate,,REP,Michael D. Sapraicone,297
+Livingston,North Dansville 2,U.S. Senate,,CON,Michael D. Sapraicone,47
+Livingston,North Dansville 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,24
+Livingston,North Dansville 2,U.S. Senate,,LAR,Diane Sare,1
+Livingston,North Dansville 2,U.S. Senate,,,Write-in,1
+Livingston,North Dansville 2,U.S. House,24,DEM,David Wagenhauser,185
+Livingston,North Dansville 2,U.S. House,24,REP,Claudia Tenney,354
+Livingston,North Dansville 2,U.S. House,24,CON,Claudia Tenney,52
+Livingston,North Dansville 2,State Senate,54,DEM,Scott Comegys,183
+Livingston,North Dansville 2,State Senate,54,REP,Pamela A. Helming,354
+Livingston,North Dansville 2,State Senate,54,CON,Pamela A. Helming,54
+Livingston,North Dansville 2,State Assembly,133,DEM,Colleen Walsh-Williams,177
+Livingston,North Dansville 2,State Assembly,133,REP,Andrea K. Bailey,354
+Livingston,North Dansville 2,State Assembly,133,CON,Andrea K. Bailey,51
+Livingston,North Dansville 3,President,,DEM,Kamala D. Harris,192
+Livingston,North Dansville 3,President,,REP,Donald J. Trump,444
+Livingston,North Dansville 3,President,,CON,Donald J. Trump,37
+Livingston,North Dansville 3,President,,WOR,Kamala D. Harris,12
+Livingston,North Dansville 3,President,,,Write-in,3
+Livingston,North Dansville 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,205
+Livingston,North Dansville 3,U.S. Senate,,REP,Michael D. Sapraicone,374
+Livingston,North Dansville 3,U.S. Senate,,CON,Michael D. Sapraicone,34
+Livingston,North Dansville 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,43
+Livingston,North Dansville 3,U.S. Senate,,LAR,Diane Sare,4
+Livingston,North Dansville 3,U.S. House,24,DEM,David Wagenhauser,176
+Livingston,North Dansville 3,U.S. House,24,REP,Claudia Tenney,439
+Livingston,North Dansville 3,U.S. House,24,CON,Claudia Tenney,39
+Livingston,North Dansville 3,State Senate,54,DEM,Scott Comegys,169
+Livingston,North Dansville 3,State Senate,54,REP,Pamela A. Helming,437
+Livingston,North Dansville 3,State Senate,54,CON,Pamela A. Helming,38
+Livingston,North Dansville 3,State Assembly,133,DEM,Colleen Walsh-Williams,173
+Livingston,North Dansville 3,State Assembly,133,REP,Andrea K. Bailey,431
+Livingston,North Dansville 3,State Assembly,133,CON,Andrea K. Bailey,41
+Livingston,North Dansville 4,President,,DEM,Kamala D. Harris,134
+Livingston,North Dansville 4,President,,REP,Donald J. Trump,300
+Livingston,North Dansville 4,President,,CON,Donald J. Trump,26
+Livingston,North Dansville 4,President,,WOR,Kamala D. Harris,5
+Livingston,North Dansville 4,President,,,Write-in,2
+Livingston,North Dansville 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,154
+Livingston,North Dansville 4,U.S. Senate,,REP,Michael D. Sapraicone,257
+Livingston,North Dansville 4,U.S. Senate,,CON,Michael D. Sapraicone,29
+Livingston,North Dansville 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Livingston,North Dansville 4,U.S. House,24,DEM,David Wagenhauser,119
+Livingston,North Dansville 4,U.S. House,24,REP,Claudia Tenney,301
+Livingston,North Dansville 4,U.S. House,24,CON,Claudia Tenney,28
+Livingston,North Dansville 4,State Senate,54,DEM,Scott Comegys,112
+Livingston,North Dansville 4,State Senate,54,REP,Pamela A. Helming,302
+Livingston,North Dansville 4,State Senate,54,CON,Pamela A. Helming,34
+Livingston,North Dansville 4,State Assembly,133,DEM,Colleen Walsh-Williams,117
+Livingston,North Dansville 4,State Assembly,133,REP,Andrea K. Bailey,293
+Livingston,North Dansville 4,State Assembly,133,CON,Andrea K. Bailey,35
+Livingston,Nunda 1,President,,DEM,Kamala D. Harris,255
+Livingston,Nunda 1,President,,REP,Donald J. Trump,655
+Livingston,Nunda 1,President,,CON,Donald J. Trump,68
+Livingston,Nunda 1,President,,WOR,Kamala D. Harris,17
+Livingston,Nunda 1,President,,,Write-in,9
+Livingston,Nunda 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,278
+Livingston,Nunda 1,U.S. Senate,,REP,Michael D. Sapraicone,591
+Livingston,Nunda 1,U.S. Senate,,CON,Michael D. Sapraicone,73
+Livingston,Nunda 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Livingston,Nunda 1,U.S. Senate,,LAR,Diane Sare,7
+Livingston,Nunda 1,U.S. House,24,DEM,David Wagenhauser,224
+Livingston,Nunda 1,U.S. House,24,REP,Claudia Tenney,661
+Livingston,Nunda 1,U.S. House,24,CON,Claudia Tenney,80
+Livingston,Nunda 1,State Senate,54,DEM,Scott Comegys,188
+Livingston,Nunda 1,State Senate,54,REP,Pamela A. Helming,677
+Livingston,Nunda 1,State Senate,54,CON,Pamela A. Helming,91
+Livingston,Nunda 1,State Assembly,133,DEM,Colleen Walsh-Williams,201
+Livingston,Nunda 1,State Assembly,133,REP,Andrea K. Bailey,659
+Livingston,Nunda 1,State Assembly,133,CON,Andrea K. Bailey,91
+Livingston,Nunda 2,President,,DEM,Kamala D. Harris,82
+Livingston,Nunda 2,President,,REP,Donald J. Trump,269
+Livingston,Nunda 2,President,,CON,Donald J. Trump,27
+Livingston,Nunda 2,President,,WOR,Kamala D. Harris,7
+Livingston,Nunda 2,President,,,Write-in,1
+Livingston,Nunda 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,99
+Livingston,Nunda 2,U.S. Senate,,REP,Michael D. Sapraicone,232
+Livingston,Nunda 2,U.S. Senate,,CON,Michael D. Sapraicone,28
+Livingston,Nunda 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,15
+Livingston,Nunda 2,U.S. Senate,,LAR,Diane Sare,2
+Livingston,Nunda 2,U.S. House,24,DEM,David Wagenhauser,75
+Livingston,Nunda 2,U.S. House,24,REP,Claudia Tenney,274
+Livingston,Nunda 2,U.S. House,24,CON,Claudia Tenney,27
+Livingston,Nunda 2,State Senate,54,DEM,Scott Comegys,70
+Livingston,Nunda 2,State Senate,54,REP,Pamela A. Helming,275
+Livingston,Nunda 2,State Senate,54,CON,Pamela A. Helming,27
+Livingston,Nunda 2,State Assembly,133,DEM,Colleen Walsh-Williams,73
+Livingston,Nunda 2,State Assembly,133,REP,Andrea K. Bailey,271
+Livingston,Nunda 2,State Assembly,133,CON,Andrea K. Bailey,29
+Livingston,Ossian 1,President,,DEM,Kamala D. Harris,108
+Livingston,Ossian 1,President,,REP,Donald J. Trump,289
+Livingston,Ossian 1,President,,CON,Donald J. Trump,34
+Livingston,Ossian 1,President,,WOR,Kamala D. Harris,9
+Livingston,Ossian 1,President,,,Write-in,1
+Livingston,Ossian 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,110
+Livingston,Ossian 1,U.S. Senate,,REP,Michael D. Sapraicone,262
+Livingston,Ossian 1,U.S. Senate,,CON,Michael D. Sapraicone,29
+Livingston,Ossian 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,22
+Livingston,Ossian 1,U.S. Senate,,LAR,Diane Sare,2
+Livingston,Ossian 1,U.S. House,24,DEM,David Wagenhauser,104
+Livingston,Ossian 1,U.S. House,24,REP,Claudia Tenney,286
+Livingston,Ossian 1,U.S. House,24,CON,Claudia Tenney,32
+Livingston,Ossian 1,State Senate,54,DEM,Scott Comegys,96
+Livingston,Ossian 1,State Senate,54,REP,Pamela A. Helming,289
+Livingston,Ossian 1,State Senate,54,CON,Pamela A. Helming,32
+Livingston,Ossian 1,State Assembly,133,DEM,Colleen Walsh-Williams,101
+Livingston,Ossian 1,State Assembly,133,REP,Andrea K. Bailey,288
+Livingston,Ossian 1,State Assembly,133,CON,Andrea K. Bailey,28
+Livingston,Portage 1,President,,DEM,Kamala D. Harris,81
+Livingston,Portage 1,President,,REP,Donald J. Trump,275
+Livingston,Portage 1,President,,CON,Donald J. Trump,21
+Livingston,Portage 1,President,,WOR,Kamala D. Harris,11
+Livingston,Portage 1,President,,,Write-in,4
+Livingston,Portage 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,93
+Livingston,Portage 1,U.S. Senate,,REP,Michael D. Sapraicone,255
+Livingston,Portage 1,U.S. Senate,,CON,Michael D. Sapraicone,20
+Livingston,Portage 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,18
+Livingston,Portage 1,U.S. House,24,DEM,David Wagenhauser,80
+Livingston,Portage 1,U.S. House,24,REP,Claudia Tenney,280
+Livingston,Portage 1,U.S. House,24,CON,Claudia Tenney,27
+Livingston,Portage 1,State Senate,54,DEM,Scott Comegys,71
+Livingston,Portage 1,State Senate,54,REP,Pamela A. Helming,285
+Livingston,Portage 1,State Senate,54,CON,Pamela A. Helming,28
+Livingston,Portage 1,State Assembly,133,DEM,Colleen Walsh-Williams,78
+Livingston,Portage 1,State Assembly,133,REP,Andrea K. Bailey,279
+Livingston,Portage 1,State Assembly,133,CON,Andrea K. Bailey,24
+Livingston,Sparta 1,President,,DEM,Kamala D. Harris,240
+Livingston,Sparta 1,President,,REP,Donald J. Trump,580
+Livingston,Sparta 1,President,,CON,Donald J. Trump,47
+Livingston,Sparta 1,President,,WOR,Kamala D. Harris,16
+Livingston,Sparta 1,President,,,Write-in,5
+Livingston,Sparta 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,253
+Livingston,Sparta 1,U.S. Senate,,REP,Michael D. Sapraicone,534
+Livingston,Sparta 1,U.S. Senate,,CON,Michael D. Sapraicone,47
+Livingston,Sparta 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,39
+Livingston,Sparta 1,U.S. Senate,,LAR,Diane Sare,2
+Livingston,Sparta 1,U.S. House,24,DEM,David Wagenhauser,212
+Livingston,Sparta 1,U.S. House,24,REP,Claudia Tenney,592
+Livingston,Sparta 1,U.S. House,24,CON,Claudia Tenney,61
+Livingston,Sparta 1,State Senate,54,DEM,Scott Comegys,193
+Livingston,Sparta 1,State Senate,54,REP,Pamela A. Helming,595
+Livingston,Sparta 1,State Senate,54,CON,Pamela A. Helming,61
+Livingston,Sparta 1,State Assembly,133,DEM,Colleen Walsh-Williams,183
+Livingston,Sparta 1,State Assembly,133,REP,Andrea K. Bailey,596
+Livingston,Sparta 1,State Assembly,133,CON,Andrea K. Bailey,66
+Livingston,Sparta 1,State Assembly,133,,Write-in,1
+Livingston,Springwater 1,President,,DEM,Kamala D. Harris,302
+Livingston,Springwater 1,President,,REP,Donald J. Trump,758
+Livingston,Springwater 1,President,,CON,Donald J. Trump,98
+Livingston,Springwater 1,President,,WOR,Kamala D. Harris,25
+Livingston,Springwater 1,President,,,Write-in,13
+Livingston,Springwater 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,305
+Livingston,Springwater 1,U.S. Senate,,REP,Michael D. Sapraicone,723
+Livingston,Springwater 1,U.S. Senate,,CON,Michael D. Sapraicone,98
+Livingston,Springwater 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,35
+Livingston,Springwater 1,U.S. Senate,,LAR,Diane Sare,5
+Livingston,Springwater 1,U.S. Senate,,,Write-in,2
+Livingston,Springwater 1,U.S. House,24,DEM,David Wagenhauser,275
+Livingston,Springwater 1,U.S. House,24,REP,Claudia Tenney,776
+Livingston,Springwater 1,U.S. House,24,CON,Claudia Tenney,111
+Livingston,Springwater 1,U.S. House,24,,Write-in,3
+Livingston,Springwater 1,State Senate,54,DEM,Scott Comegys,254
+Livingston,Springwater 1,State Senate,54,REP,Pamela A. Helming,782
+Livingston,Springwater 1,State Senate,54,CON,Pamela A. Helming,116
+Livingston,Springwater 1,State Senate,54,,Write-in,1
+Livingston,Springwater 1,State Assembly,133,DEM,Colleen Walsh-Williams,255
+Livingston,Springwater 1,State Assembly,133,REP,Andrea K. Bailey,785
+Livingston,Springwater 1,State Assembly,133,CON,Andrea K. Bailey,108
+Livingston,Springwater 1,State Assembly,133,,Write-in,1
+Livingston,West Sparta 1,President,,DEM,Kamala D. Harris,155
+Livingston,West Sparta 1,President,,REP,Donald J. Trump,424
+Livingston,West Sparta 1,President,,CON,Donald J. Trump,35
+Livingston,West Sparta 1,President,,WOR,Kamala D. Harris,11
+Livingston,West Sparta 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,166
+Livingston,West Sparta 1,U.S. Senate,,REP,Michael D. Sapraicone,365
+Livingston,West Sparta 1,U.S. Senate,,CON,Michael D. Sapraicone,40
+Livingston,West Sparta 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,32
+Livingston,West Sparta 1,U.S. House,24,DEM,David Wagenhauser,131
+Livingston,West Sparta 1,U.S. House,24,REP,Claudia Tenney,416
+Livingston,West Sparta 1,U.S. House,24,CON,Claudia Tenney,47
+Livingston,West Sparta 1,State Senate,54,DEM,Scott Comegys,118
+Livingston,West Sparta 1,State Senate,54,REP,Pamela A. Helming,420
+Livingston,West Sparta 1,State Senate,54,CON,Pamela A. Helming,48
+Livingston,West Sparta 1,State Assembly,133,DEM,Colleen Walsh-Williams,132
+Livingston,West Sparta 1,State Assembly,133,REP,Andrea K. Bailey,407
+Livingston,West Sparta 1,State Assembly,133,CON,Andrea K. Bailey,46
+Livingston,York 1,President,,DEM,Kamala D. Harris,280
+Livingston,York 1,President,,REP,Donald J. Trump,440
+Livingston,York 1,President,,CON,Donald J. Trump,52
+Livingston,York 1,President,,WOR,Kamala D. Harris,11
+Livingston,York 1,President,,,Write-in,5
+Livingston,York 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,286
+Livingston,York 1,U.S. Senate,,REP,Michael D. Sapraicone,388
+Livingston,York 1,U.S. Senate,,CON,Michael D. Sapraicone,59
+Livingston,York 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,29
+Livingston,York 1,U.S. Senate,,LAR,Diane Sare,5
+Livingston,York 1,U.S. House,24,DEM,David Wagenhauser,241
+Livingston,York 1,U.S. House,24,REP,Claudia Tenney,450
+Livingston,York 1,U.S. House,24,CON,Claudia Tenney,66
+Livingston,York 1,State Senate,54,DEM,Scott Comegys,219
+Livingston,York 1,State Senate,54,REP,Pamela A. Helming,461
+Livingston,York 1,State Senate,54,CON,Pamela A. Helming,66
+Livingston,York 1,State Assembly,133,DEM,Colleen Walsh-Williams,221
+Livingston,York 1,State Assembly,133,REP,Andrea K. Bailey,468
+Livingston,York 1,State Assembly,133,CON,Andrea K. Bailey,68
+Livingston,York 2,President,,DEM,Kamala D. Harris,356
+Livingston,York 2,President,,REP,Donald J. Trump,577
+Livingston,York 2,President,,CON,Donald J. Trump,73
+Livingston,York 2,President,,WOR,Kamala D. Harris,24
+Livingston,York 2,President,,,Write-in,3
+Livingston,York 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,361
+Livingston,York 2,U.S. Senate,,REP,Michael D. Sapraicone,517
+Livingston,York 2,U.S. Senate,,CON,Michael D. Sapraicone,70
+Livingston,York 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,48
+Livingston,York 2,U.S. Senate,,LAR,Diane Sare,5
+Livingston,York 2,U.S. House,24,DEM,David Wagenhauser,322
+Livingston,York 2,U.S. House,24,REP,Claudia Tenney,578
+Livingston,York 2,U.S. House,24,CON,Claudia Tenney,86
+Livingston,York 2,State Senate,54,DEM,Scott Comegys,299
+Livingston,York 2,State Senate,54,REP,Pamela A. Helming,594
+Livingston,York 2,State Senate,54,CON,Pamela A. Helming,86
+Livingston,York 2,State Assembly,133,DEM,Colleen Walsh-Williams,280
+Livingston,York 2,State Assembly,133,REP,Andrea K. Bailey,615
+Livingston,York 2,State Assembly,133,CON,Andrea K. Bailey,90

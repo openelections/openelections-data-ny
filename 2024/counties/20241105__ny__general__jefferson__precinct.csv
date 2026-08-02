@@ -1,0 +1,927 @@
+county,precinct,office,district,party,candidate,votes
+Jefferson,Adams 1,President,,WF,Kamala D. Harris,11
+Jefferson,Adams 1,President,,DEM,Kamala D. Harris,322
+Jefferson,Adams 1,President,,CON,Donald J. Trump,25
+Jefferson,Adams 1,President,,REP,Donald J. Trump,431
+Jefferson,Adams 2,President,,WF,Kamala D. Harris,11
+Jefferson,Adams 2,President,,DEM,Kamala D. Harris,177
+Jefferson,Adams 2,President,,CON,Donald J. Trump,16
+Jefferson,Adams 2,President,,REP,Donald J. Trump,348
+Jefferson,Adams 3,President,,WF,Kamala D. Harris,18
+Jefferson,Adams 3,President,,DEM,Kamala D. Harris,378
+Jefferson,Adams 3,President,,CON,Donald J. Trump,65
+Jefferson,Adams 3,President,,REP,Donald J. Trump,650
+Jefferson,Alexandria 1,President,,WF,Kamala D. Harris,10
+Jefferson,Alexandria 1,President,,DEM,Kamala D. Harris,224
+Jefferson,Alexandria 1,President,,CON,Donald J. Trump,9
+Jefferson,Alexandria 1,President,,REP,Donald J. Trump,231
+Jefferson,Alexandria 2,President,,WF,Kamala D. Harris,7
+Jefferson,Alexandria 2,President,,DEM,Kamala D. Harris,265
+Jefferson,Alexandria 2,President,,CON,Donald J. Trump,31
+Jefferson,Alexandria 2,President,,REP,Donald J. Trump,405
+Jefferson,Alexandria 3,President,,WF,Kamala D. Harris,12
+Jefferson,Alexandria 3,President,,DEM,Kamala D. Harris,255
+Jefferson,Alexandria 3,President,,CON,Donald J. Trump,33
+Jefferson,Alexandria 3,President,,REP,Donald J. Trump,545
+Jefferson,Antwerp 1,President,,WF,Kamala D. Harris,6
+Jefferson,Antwerp 1,President,,DEM,Kamala D. Harris,72
+Jefferson,Antwerp 1,President,,CON,Donald J. Trump,18
+Jefferson,Antwerp 1,President,,REP,Donald J. Trump,123
+Jefferson,Antwerp 2,President,,WF,Kamala D. Harris,7
+Jefferson,Antwerp 2,President,,DEM,Kamala D. Harris,99
+Jefferson,Antwerp 2,President,,CON,Donald J. Trump,19
+Jefferson,Antwerp 2,President,,REP,Donald J. Trump,278
+Jefferson,Antwerp 3,President,,WF,Kamala D. Harris,0
+Jefferson,Antwerp 3,President,,DEM,Kamala D. Harris,36
+Jefferson,Antwerp 3,President,,CON,Donald J. Trump,10
+Jefferson,Antwerp 3,President,,REP,Donald J. Trump,81
+Jefferson,Brownville 1,President,,WF,Kamala D. Harris,4
+Jefferson,Brownville 1,President,,DEM,Kamala D. Harris,76
+Jefferson,Brownville 1,President,,CON,Donald J. Trump,11
+Jefferson,Brownville 1,President,,REP,Donald J. Trump,223
+Jefferson,Brownville 2,President,,WF,Kamala D. Harris,17
+Jefferson,Brownville 2,President,,DEM,Kamala D. Harris,340
+Jefferson,Brownville 2,President,,CON,Donald J. Trump,50
+Jefferson,Brownville 2,President,,REP,Donald J. Trump,733
+Jefferson,Brownville 3,President,,WF,Kamala D. Harris,9
+Jefferson,Brownville 3,President,,DEM,Kamala D. Harris,142
+Jefferson,Brownville 3,President,,CON,Donald J. Trump,33
+Jefferson,Brownville 3,President,,REP,Donald J. Trump,236
+Jefferson,Brownville 4,President,,WF,Kamala D. Harris,9
+Jefferson,Brownville 4,President,,DEM,Kamala D. Harris,180
+Jefferson,Brownville 4,President,,CON,Donald J. Trump,10
+Jefferson,Brownville 4,President,,REP,Donald J. Trump,258
+Jefferson,Brownville 5,President,,WF,Kamala D. Harris,9
+Jefferson,Brownville 5,President,,DEM,Kamala D. Harris,229
+Jefferson,Brownville 5,President,,CON,Donald J. Trump,24
+Jefferson,Brownville 5,President,,REP,Donald J. Trump,424
+Jefferson,Cape Vincent 1,President,,WF,Kamala D. Harris,13
+Jefferson,Cape Vincent 1,President,,DEM,Kamala D. Harris,199
+Jefferson,Cape Vincent 1,President,,CON,Donald J. Trump,18
+Jefferson,Cape Vincent 1,President,,REP,Donald J. Trump,207
+Jefferson,Cape Vincent 2,President,,WF,Kamala D. Harris,16
+Jefferson,Cape Vincent 2,President,,DEM,Kamala D. Harris,322
+Jefferson,Cape Vincent 2,President,,CON,Donald J. Trump,49
+Jefferson,Cape Vincent 2,President,,REP,Donald J. Trump,533
+Jefferson,Champion 1,President,,WF,Kamala D. Harris,18
+Jefferson,Champion 1,President,,DEM,Kamala D. Harris,357
+Jefferson,Champion 1,President,,CON,Donald J. Trump,48
+Jefferson,Champion 1,President,,REP,Donald J. Trump,822
+Jefferson,Champion 2,President,,WF,Kamala D. Harris,12
+Jefferson,Champion 2,President,,DEM,Kamala D. Harris,210
+Jefferson,Champion 2,President,,CON,Donald J. Trump,23
+Jefferson,Champion 2,President,,REP,Donald J. Trump,342
+Jefferson,Clayton 1,President,,WF,Kamala D. Harris,13
+Jefferson,Clayton 1,President,,DEM,Kamala D. Harris,430
+Jefferson,Clayton 1,President,,CON,Donald J. Trump,32
+Jefferson,Clayton 1,President,,REP,Donald J. Trump,413
+Jefferson,Clayton 2,President,,WF,Kamala D. Harris,19
+Jefferson,Clayton 2,President,,DEM,Kamala D. Harris,361
+Jefferson,Clayton 2,President,,CON,Donald J. Trump,31
+Jefferson,Clayton 2,President,,REP,Donald J. Trump,513
+Jefferson,Clayton 3,President,,WF,Kamala D. Harris,12
+Jefferson,Clayton 3,President,,DEM,Kamala D. Harris,206
+Jefferson,Clayton 3,President,,CON,Donald J. Trump,47
+Jefferson,Clayton 3,President,,REP,Donald J. Trump,531
+Jefferson,Ellisburg 1,President,,WF,Kamala D. Harris,2
+Jefferson,Ellisburg 1,President,,DEM,Kamala D. Harris,40
+Jefferson,Ellisburg 1,President,,CON,Donald J. Trump,4
+Jefferson,Ellisburg 1,President,,REP,Donald J. Trump,60
+Jefferson,Ellisburg 2,President,,WF,Kamala D. Harris,6
+Jefferson,Ellisburg 2,President,,DEM,Kamala D. Harris,46
+Jefferson,Ellisburg 2,President,,CON,Donald J. Trump,11
+Jefferson,Ellisburg 2,President,,REP,Donald J. Trump,109
+Jefferson,Ellisburg 3,President,,WF,Kamala D. Harris,19
+Jefferson,Ellisburg 3,President,,DEM,Kamala D. Harris,382
+Jefferson,Ellisburg 3,President,,CON,Donald J. Trump,68
+Jefferson,Ellisburg 3,President,,REP,Donald J. Trump,879
+Jefferson,Henderson 1,President,,WF,Kamala D. Harris,13
+Jefferson,Henderson 1,President,,DEM,Kamala D. Harris,335
+Jefferson,Henderson 1,President,,CON,Donald J. Trump,32
+Jefferson,Henderson 1,President,,REP,Donald J. Trump,515
+Jefferson,Hounsfield 1,President,,WF,Kamala D. Harris,20
+Jefferson,Hounsfield 1,President,,DEM,Kamala D. Harris,425
+Jefferson,Hounsfield 1,President,,CON,Donald J. Trump,23
+Jefferson,Hounsfield 1,President,,REP,Donald J. Trump,345
+Jefferson,Hounsfield 2,President,,WF,Kamala D. Harris,18
+Jefferson,Hounsfield 2,President,,DEM,Kamala D. Harris,292
+Jefferson,Hounsfield 2,President,,CON,Donald J. Trump,45
+Jefferson,Hounsfield 2,President,,REP,Donald J. Trump,493
+Jefferson,Hounsfield 3,President,,WF,Kamala D. Harris,1
+Jefferson,Hounsfield 3,President,,DEM,Kamala D. Harris,62
+Jefferson,Hounsfield 3,President,,CON,Donald J. Trump,9
+Jefferson,Hounsfield 3,President,,REP,Donald J. Trump,100
+Jefferson,LeRay 1,President,,WF,Kamala D. Harris,4
+Jefferson,LeRay 1,President,,DEM,Kamala D. Harris,145
+Jefferson,LeRay 1,President,,CON,Donald J. Trump,21
+Jefferson,LeRay 1,President,,REP,Donald J. Trump,314
+Jefferson,LeRay 2,President,,WF,Kamala D. Harris,7
+Jefferson,LeRay 2,President,,DEM,Kamala D. Harris,78
+Jefferson,LeRay 2,President,,CON,Donald J. Trump,6
+Jefferson,LeRay 2,President,,REP,Donald J. Trump,132
+Jefferson,LeRay 3,President,,WF,Kamala D. Harris,19
+Jefferson,LeRay 3,President,,DEM,Kamala D. Harris,315
+Jefferson,LeRay 3,President,,CON,Donald J. Trump,35
+Jefferson,LeRay 3,President,,REP,Donald J. Trump,493
+Jefferson,LeRay 4,President,,WF,Kamala D. Harris,0
+Jefferson,LeRay 4,President,,DEM,Kamala D. Harris,13
+Jefferson,LeRay 4,President,,CON,Donald J. Trump,3
+Jefferson,LeRay 4,President,,REP,Donald J. Trump,30
+Jefferson,LeRay 5,President,,WF,Kamala D. Harris,0
+Jefferson,LeRay 5,President,,DEM,Kamala D. Harris,8
+Jefferson,LeRay 5,President,,CON,Donald J. Trump,1
+Jefferson,LeRay 5,President,,REP,Donald J. Trump,15
+Jefferson,LeRay 6,President,,WF,Kamala D. Harris,2
+Jefferson,LeRay 6,President,,DEM,Kamala D. Harris,73
+Jefferson,LeRay 6,President,,CON,Donald J. Trump,5
+Jefferson,LeRay 6,President,,REP,Donald J. Trump,87
+Jefferson,LeRay 7,President,,WF,Kamala D. Harris,4
+Jefferson,LeRay 7,President,,DEM,Kamala D. Harris,131
+Jefferson,LeRay 7,President,,CON,Donald J. Trump,14
+Jefferson,LeRay 7,President,,REP,Donald J. Trump,154
+Jefferson,LeRay 8,President,,WF,Kamala D. Harris,11
+Jefferson,LeRay 8,President,,DEM,Kamala D. Harris,353
+Jefferson,LeRay 8,President,,CON,Donald J. Trump,29
+Jefferson,LeRay 8,President,,REP,Donald J. Trump,494
+Jefferson,LeRay 9,President,,WF,Kamala D. Harris,6
+Jefferson,LeRay 9,President,,DEM,Kamala D. Harris,76
+Jefferson,LeRay 9,President,,CON,Donald J. Trump,9
+Jefferson,LeRay 9,President,,REP,Donald J. Trump,134
+Jefferson,Lorraine 1,President,,WF,Kamala D. Harris,6
+Jefferson,Lorraine 1,President,,DEM,Kamala D. Harris,119
+Jefferson,Lorraine 1,President,,CON,Donald J. Trump,27
+Jefferson,Lorraine 1,President,,REP,Donald J. Trump,355
+Jefferson,Lyme 1,President,,WF,Kamala D. Harris,5
+Jefferson,Lyme 1,President,,DEM,Kamala D. Harris,106
+Jefferson,Lyme 1,President,,CON,Donald J. Trump,17
+Jefferson,Lyme 1,President,,REP,Donald J. Trump,178
+Jefferson,Lyme 2,President,,WF,Kamala D. Harris,22
+Jefferson,Lyme 2,President,,DEM,Kamala D. Harris,405
+Jefferson,Lyme 2,President,,CON,Donald J. Trump,49
+Jefferson,Lyme 2,President,,REP,Donald J. Trump,635
+Jefferson,Orleans 1,President,,WF,Kamala D. Harris,15
+Jefferson,Orleans 1,President,,DEM,Kamala D. Harris,490
+Jefferson,Orleans 1,President,,CON,Donald J. Trump,56
+Jefferson,Orleans 1,President,,REP,Donald J. Trump,847
+Jefferson,Pamelia 1,President,,WF,Kamala D. Harris,7
+Jefferson,Pamelia 1,President,,DEM,Kamala D. Harris,124
+Jefferson,Pamelia 1,President,,CON,Donald J. Trump,30
+Jefferson,Pamelia 1,President,,REP,Donald J. Trump,414
+Jefferson,Pamelia 2,President,,WF,Kamala D. Harris,17
+Jefferson,Pamelia 2,President,,DEM,Kamala D. Harris,344
+Jefferson,Pamelia 2,President,,CON,Donald J. Trump,51
+Jefferson,Pamelia 2,President,,REP,Donald J. Trump,603
+Jefferson,Pamelia 3 ** ** ** ** ** ** **,President,,WF,Kamala D. Harris,0
+Jefferson,Pamelia 3 ** ** ** ** ** ** **,President,,DEM,Kamala D. Harris,0
+Jefferson,Pamelia 3 ** ** ** ** ** ** **,President,,CON,Donald J. Trump,0
+Jefferson,Pamelia 3 ** ** ** ** ** ** **,President,,REP,Donald J. Trump,0
+Jefferson,Philadelphia 1,President,,WF,Kamala D. Harris,10
+Jefferson,Philadelphia 1,President,,DEM,Kamala D. Harris,137
+Jefferson,Philadelphia 1,President,,CON,Donald J. Trump,19
+Jefferson,Philadelphia 1,President,,REP,Donald J. Trump,220
+Jefferson,Philadelphia 2,President,,WF,Kamala D. Harris,8
+Jefferson,Philadelphia 2,President,,DEM,Kamala D. Harris,94
+Jefferson,Philadelphia 2,President,,CON,Donald J. Trump,19
+Jefferson,Philadelphia 2,President,,REP,Donald J. Trump,249
+Jefferson,Rodman 1,President,,WF,Kamala D. Harris,8
+Jefferson,Rodman 1,President,,DEM,Kamala D. Harris,141
+Jefferson,Rodman 1,President,,CON,Donald J. Trump,43
+Jefferson,Rodman 1,President,,REP,Donald J. Trump,440
+Jefferson,Rutland 1,President,,WF,Kamala D. Harris,6
+Jefferson,Rutland 1,President,,DEM,Kamala D. Harris,70
+Jefferson,Rutland 1,President,,CON,Donald J. Trump,9
+Jefferson,Rutland 1,President,,REP,Donald J. Trump,103
+Jefferson,Rutland 2,President,,WF,Kamala D. Harris,13
+Jefferson,Rutland 2,President,,DEM,Kamala D. Harris,255
+Jefferson,Rutland 2,President,,CON,Donald J. Trump,52
+Jefferson,Rutland 2,President,,REP,Donald J. Trump,728
+Jefferson,Theresa 1,President,,WF,Kamala D. Harris,20
+Jefferson,Theresa 1,President,,DEM,Kamala D. Harris,364
+Jefferson,Theresa 1,President,,CON,Donald J. Trump,70
+Jefferson,Theresa 1,President,,REP,Donald J. Trump,752
+Jefferson,Town of Watertown 1,President,,WF,Kamala D. Harris,1
+Jefferson,Town of Watertown 1,President,,DEM,Kamala D. Harris,41
+Jefferson,Town of Watertown 1,President,,CON,Donald J. Trump,1
+Jefferson,Town of Watertown 1,President,,REP,Donald J. Trump,40
+Jefferson,Town of Watertown 2,President,,WF,Kamala D. Harris,17
+Jefferson,Town of Watertown 2,President,,DEM,Kamala D. Harris,477
+Jefferson,Town of Watertown 2,President,,CON,Donald J. Trump,40
+Jefferson,Town of Watertown 2,President,,REP,Donald J. Trump,625
+Jefferson,Town of Watertown 3,President,,WF,Kamala D. Harris,24
+Jefferson,Town of Watertown 3,President,,DEM,Kamala D. Harris,370
+Jefferson,Town of Watertown 3,President,,CON,Donald J. Trump,51
+Jefferson,Town of Watertown 3,President,,REP,Donald J. Trump,692
+Jefferson,Wilna 1,President,,WF,Kamala D. Harris,3
+Jefferson,Wilna 1,President,,DEM,Kamala D. Harris,25
+Jefferson,Wilna 1,President,,CON,Donald J. Trump,4
+Jefferson,Wilna 1,President,,REP,Donald J. Trump,74
+Jefferson,Wilna 2,President,,WF,Kamala D. Harris,12
+Jefferson,Wilna 2,President,,DEM,Kamala D. Harris,207
+Jefferson,Wilna 2,President,,CON,Donald J. Trump,49
+Jefferson,Wilna 2,President,,REP,Donald J. Trump,626
+Jefferson,Wilna 3,President,,WF,Kamala D. Harris,21
+Jefferson,Wilna 3,President,,DEM,Kamala D. Harris,372
+Jefferson,Wilna 3,President,,CON,Donald J. Trump,32
+Jefferson,Wilna 3,President,,REP,Donald J. Trump,499
+Jefferson,Worth 1,President,,WF,Kamala D. Harris,3
+Jefferson,Worth 1,President,,DEM,Kamala D. Harris,32
+Jefferson,Worth 1,President,,CON,Donald J. Trump,4
+Jefferson,Worth 1,President,,REP,Donald J. Trump,115
+Jefferson,City of Watertown 12-1,President,,WF,Kamala D. Harris,18
+Jefferson,City of Watertown 12-1,President,,DEM,Kamala D. Harris,563
+Jefferson,City of Watertown 12-1,President,,CON,Donald J. Trump,49
+Jefferson,City of Watertown 12-1,President,,REP,Donald J. Trump,524
+Jefferson,City of Watertown 12-2,President,,WF,Kamala D. Harris,19
+Jefferson,City of Watertown 12-2,President,,DEM,Kamala D. Harris,445
+Jefferson,City of Watertown 12-2,President,,CON,Donald J. Trump,36
+Jefferson,City of Watertown 12-2,President,,REP,Donald J. Trump,389
+Jefferson,City of Watertown 12-3,President,,WF,Kamala D. Harris,27
+Jefferson,City of Watertown 12-3,President,,DEM,Kamala D. Harris,470
+Jefferson,City of Watertown 12-3,President,,CON,Donald J. Trump,44
+Jefferson,City of Watertown 12-3,President,,REP,Donald J. Trump,362
+Jefferson,City of Watertown 13-1,President,,WF,Kamala D. Harris,26
+Jefferson,City of Watertown 13-1,President,,DEM,Kamala D. Harris,610
+Jefferson,City of Watertown 13-1,President,,CON,Donald J. Trump,46
+Jefferson,City of Watertown 13-1,President,,REP,Donald J. Trump,557
+Jefferson,City of Watertown 13-2,President,,WF,Kamala D. Harris,27
+Jefferson,City of Watertown 13-2,President,,DEM,Kamala D. Harris,483
+Jefferson,City of Watertown 13-2,President,,CON,Donald J. Trump,41
+Jefferson,City of Watertown 13-2,President,,REP,Donald J. Trump,538
+Jefferson,City of Watertown 14-1,President,,WF,Kamala D. Harris,17
+Jefferson,City of Watertown 14-1,President,,DEM,Kamala D. Harris,248
+Jefferson,City of Watertown 14-1,President,,CON,Donald J. Trump,22
+Jefferson,City of Watertown 14-1,President,,REP,Donald J. Trump,286
+Jefferson,City of Watertown 15-1,President,,WF,Kamala D. Harris,17
+Jefferson,City of Watertown 15-1,President,,DEM,Kamala D. Harris,524
+Jefferson,City of Watertown 15-1,President,,CON,Donald J. Trump,61
+Jefferson,City of Watertown 15-1,President,,REP,Donald J. Trump,533
+Jefferson,City of Watertown 15-2,President,,WF,Kamala D. Harris,30
+Jefferson,City of Watertown 15-2,President,,DEM,Kamala D. Harris,378
+Jefferson,City of Watertown 15-2,President,,CON,Donald J. Trump,24
+Jefferson,City of Watertown 15-2,President,,REP,Donald J. Trump,477
+Jefferson,Adams 1,U.S. Senate,,WF,Kirsten E. Gillibrand,27
+Jefferson,Adams 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,329
+Jefferson,Adams 1,U.S. Senate,,CON,Michael D. Sapraicone,26
+Jefferson,Adams 1,U.S. Senate,,REP,Michael D. Sapraicone,384
+Jefferson,Adams 1,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,Adams 2,U.S. Senate,,WF,Kirsten E. Gillibrand,15
+Jefferson,Adams 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,184
+Jefferson,Adams 2,U.S. Senate,,CON,Michael D. Sapraicone,19
+Jefferson,Adams 2,U.S. Senate,,REP,Michael D. Sapraicone,309
+Jefferson,Adams 2,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,Adams 3,U.S. Senate,,WF,Kirsten E. Gillibrand,38
+Jefferson,Adams 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,383
+Jefferson,Adams 3,U.S. Senate,,CON,Michael D. Sapraicone,57
+Jefferson,Adams 3,U.S. Senate,,REP,Michael D. Sapraicone,582
+Jefferson,Adams 3,U.S. Senate,,LAR,Diane Sare,5
+Jefferson,Alexandria 1,U.S. Senate,,WF,Kirsten E. Gillibrand,19
+Jefferson,Alexandria 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,224
+Jefferson,Alexandria 1,U.S. Senate,,CON,Michael D. Sapraicone,7
+Jefferson,Alexandria 1,U.S. Senate,,REP,Michael D. Sapraicone,195
+Jefferson,Alexandria 1,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,Alexandria 2,U.S. Senate,,WF,Kirsten E. Gillibrand,20
+Jefferson,Alexandria 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,262
+Jefferson,Alexandria 2,U.S. Senate,,CON,Michael D. Sapraicone,30
+Jefferson,Alexandria 2,U.S. Senate,,REP,Michael D. Sapraicone,360
+Jefferson,Alexandria 2,U.S. Senate,,LAR,Diane Sare,0
+Jefferson,Alexandria 3,U.S. Senate,,WF,Kirsten E. Gillibrand,32
+Jefferson,Alexandria 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,259
+Jefferson,Alexandria 3,U.S. Senate,,CON,Michael D. Sapraicone,31
+Jefferson,Alexandria 3,U.S. Senate,,REP,Michael D. Sapraicone,482
+Jefferson,Alexandria 3,U.S. Senate,,LAR,Diane Sare,3
+Jefferson,Antwerp 1,U.S. Senate,,WF,Kirsten E. Gillibrand,13
+Jefferson,Antwerp 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,72
+Jefferson,Antwerp 1,U.S. Senate,,CON,Michael D. Sapraicone,21
+Jefferson,Antwerp 1,U.S. Senate,,REP,Michael D. Sapraicone,106
+Jefferson,Antwerp 1,U.S. Senate,,LAR,Diane Sare,0
+Jefferson,Antwerp 2,U.S. Senate,,WF,Kirsten E. Gillibrand,20
+Jefferson,Antwerp 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,110
+Jefferson,Antwerp 2,U.S. Senate,,CON,Michael D. Sapraicone,15
+Jefferson,Antwerp 2,U.S. Senate,,REP,Michael D. Sapraicone,239
+Jefferson,Antwerp 2,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,Antwerp 3,U.S. Senate,,WF,Kirsten E. Gillibrand,3
+Jefferson,Antwerp 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,38
+Jefferson,Antwerp 3,U.S. Senate,,CON,Michael D. Sapraicone,10
+Jefferson,Antwerp 3,U.S. Senate,,REP,Michael D. Sapraicone,70
+Jefferson,Antwerp 3,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,Brownville 1,U.S. Senate,,WF,Kirsten E. Gillibrand,16
+Jefferson,Brownville 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,82
+Jefferson,Brownville 1,U.S. Senate,,CON,Michael D. Sapraicone,11
+Jefferson,Brownville 1,U.S. Senate,,REP,Michael D. Sapraicone,193
+Jefferson,Brownville 1,U.S. Senate,,LAR,Diane Sare,0
+Jefferson,Brownville 2,U.S. Senate,,WF,Kirsten E. Gillibrand,40
+Jefferson,Brownville 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,368
+Jefferson,Brownville 2,U.S. Senate,,CON,Michael D. Sapraicone,50
+Jefferson,Brownville 2,U.S. Senate,,REP,Michael D. Sapraicone,642
+Jefferson,Brownville 2,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,Brownville 3,U.S. Senate,,WF,Kirsten E. Gillibrand,20
+Jefferson,Brownville 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,144
+Jefferson,Brownville 3,U.S. Senate,,CON,Michael D. Sapraicone,28
+Jefferson,Brownville 3,U.S. Senate,,REP,Michael D. Sapraicone,205
+Jefferson,Brownville 3,U.S. Senate,,LAR,Diane Sare,2
+Jefferson,Brownville 4,U.S. Senate,,WF,Kirsten E. Gillibrand,19
+Jefferson,Brownville 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,180
+Jefferson,Brownville 4,U.S. Senate,,CON,Michael D. Sapraicone,14
+Jefferson,Brownville 4,U.S. Senate,,REP,Michael D. Sapraicone,231
+Jefferson,Brownville 4,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,Brownville 5,U.S. Senate,,WF,Kirsten E. Gillibrand,16
+Jefferson,Brownville 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,235
+Jefferson,Brownville 5,U.S. Senate,,CON,Michael D. Sapraicone,20
+Jefferson,Brownville 5,U.S. Senate,,REP,Michael D. Sapraicone,386
+Jefferson,Brownville 5,U.S. Senate,,LAR,Diane Sare,2
+Jefferson,Cape Vincent 1,U.S. Senate,,WF,Kirsten E. Gillibrand,18
+Jefferson,Cape Vincent 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,210
+Jefferson,Cape Vincent 1,U.S. Senate,,CON,Michael D. Sapraicone,17
+Jefferson,Cape Vincent 1,U.S. Senate,,REP,Michael D. Sapraicone,174
+Jefferson,Cape Vincent 1,U.S. Senate,,LAR,Diane Sare,2
+Jefferson,Cape Vincent 2,U.S. Senate,,WF,Kirsten E. Gillibrand,32
+Jefferson,Cape Vincent 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,341
+Jefferson,Cape Vincent 2,U.S. Senate,,CON,Michael D. Sapraicone,44
+Jefferson,Cape Vincent 2,U.S. Senate,,REP,Michael D. Sapraicone,464
+Jefferson,Cape Vincent 2,U.S. Senate,,LAR,Diane Sare,2
+Jefferson,Champion 1,U.S. Senate,,WF,Kirsten E. Gillibrand,51
+Jefferson,Champion 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,377
+Jefferson,Champion 1,U.S. Senate,,CON,Michael D. Sapraicone,42
+Jefferson,Champion 1,U.S. Senate,,REP,Michael D. Sapraicone,735
+Jefferson,Champion 1,U.S. Senate,,LAR,Diane Sare,3
+Jefferson,Champion 2,U.S. Senate,,WF,Kirsten E. Gillibrand,37
+Jefferson,Champion 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,217
+Jefferson,Champion 2,U.S. Senate,,CON,Michael D. Sapraicone,18
+Jefferson,Champion 2,U.S. Senate,,REP,Michael D. Sapraicone,284
+Jefferson,Champion 2,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,Clayton 1,U.S. Senate,,WF,Kirsten E. Gillibrand,32
+Jefferson,Clayton 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,417
+Jefferson,Clayton 1,U.S. Senate,,CON,Michael D. Sapraicone,34
+Jefferson,Clayton 1,U.S. Senate,,REP,Michael D. Sapraicone,367
+Jefferson,Clayton 1,U.S. Senate,,LAR,Diane Sare,3
+Jefferson,Clayton 2,U.S. Senate,,WF,Kirsten E. Gillibrand,30
+Jefferson,Clayton 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,376
+Jefferson,Clayton 2,U.S. Senate,,CON,Michael D. Sapraicone,37
+Jefferson,Clayton 2,U.S. Senate,,REP,Michael D. Sapraicone,453
+Jefferson,Clayton 2,U.S. Senate,,LAR,Diane Sare,2
+Jefferson,Clayton 3,U.S. Senate,,WF,Kirsten E. Gillibrand,34
+Jefferson,Clayton 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,233
+Jefferson,Clayton 3,U.S. Senate,,CON,Michael D. Sapraicone,51
+Jefferson,Clayton 3,U.S. Senate,,REP,Michael D. Sapraicone,455
+Jefferson,Clayton 3,U.S. Senate,,LAR,Diane Sare,3
+Jefferson,Ellisburg 1,U.S. Senate,,WF,Kirsten E. Gillibrand,4
+Jefferson,Ellisburg 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,42
+Jefferson,Ellisburg 1,U.S. Senate,,CON,Michael D. Sapraicone,4
+Jefferson,Ellisburg 1,U.S. Senate,,REP,Michael D. Sapraicone,49
+Jefferson,Ellisburg 1,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,Ellisburg 2,U.S. Senate,,WF,Kirsten E. Gillibrand,12
+Jefferson,Ellisburg 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,46
+Jefferson,Ellisburg 2,U.S. Senate,,CON,Michael D. Sapraicone,8
+Jefferson,Ellisburg 2,U.S. Senate,,REP,Michael D. Sapraicone,99
+Jefferson,Ellisburg 2,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,Ellisburg 3,U.S. Senate,,WF,Kirsten E. Gillibrand,60
+Jefferson,Ellisburg 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,383
+Jefferson,Ellisburg 3,U.S. Senate,,CON,Michael D. Sapraicone,67
+Jefferson,Ellisburg 3,U.S. Senate,,REP,Michael D. Sapraicone,785
+Jefferson,Ellisburg 3,U.S. Senate,,LAR,Diane Sare,4
+Jefferson,Henderson 1,U.S. Senate,,WF,Kirsten E. Gillibrand,26
+Jefferson,Henderson 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,335
+Jefferson,Henderson 1,U.S. Senate,,CON,Michael D. Sapraicone,39
+Jefferson,Henderson 1,U.S. Senate,,REP,Michael D. Sapraicone,464
+Jefferson,Henderson 1,U.S. Senate,,LAR,Diane Sare,2
+Jefferson,Hounsfield 1,U.S. Senate,,WF,Kirsten E. Gillibrand,30
+Jefferson,Hounsfield 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,430
+Jefferson,Hounsfield 1,U.S. Senate,,CON,Michael D. Sapraicone,26
+Jefferson,Hounsfield 1,U.S. Senate,,REP,Michael D. Sapraicone,310
+Jefferson,Hounsfield 1,U.S. Senate,,LAR,Diane Sare,4
+Jefferson,Hounsfield 2,U.S. Senate,,WF,Kirsten E. Gillibrand,33
+Jefferson,Hounsfield 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,287
+Jefferson,Hounsfield 2,U.S. Senate,,CON,Michael D. Sapraicone,45
+Jefferson,Hounsfield 2,U.S. Senate,,REP,Michael D. Sapraicone,460
+Jefferson,Hounsfield 2,U.S. Senate,,LAR,Diane Sare,4
+Jefferson,Hounsfield 3,U.S. Senate,,WF,Kirsten E. Gillibrand,5
+Jefferson,Hounsfield 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,55
+Jefferson,Hounsfield 3,U.S. Senate,,CON,Michael D. Sapraicone,8
+Jefferson,Hounsfield 3,U.S. Senate,,REP,Michael D. Sapraicone,94
+Jefferson,Hounsfield 3,U.S. Senate,,LAR,Diane Sare,5
+Jefferson,LeRay 1,U.S. Senate,,WF,Kirsten E. Gillibrand,15
+Jefferson,LeRay 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,147
+Jefferson,LeRay 1,U.S. Senate,,CON,Michael D. Sapraicone,24
+Jefferson,LeRay 1,U.S. Senate,,REP,Michael D. Sapraicone,288
+Jefferson,LeRay 1,U.S. Senate,,LAR,Diane Sare,0
+Jefferson,LeRay 2,U.S. Senate,,WF,Kirsten E. Gillibrand,14
+Jefferson,LeRay 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,85
+Jefferson,LeRay 2,U.S. Senate,,CON,Michael D. Sapraicone,7
+Jefferson,LeRay 2,U.S. Senate,,REP,Michael D. Sapraicone,109
+Jefferson,LeRay 2,U.S. Senate,,LAR,Diane Sare,2
+Jefferson,LeRay 3,U.S. Senate,,WF,Kirsten E. Gillibrand,33
+Jefferson,LeRay 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,309
+Jefferson,LeRay 3,U.S. Senate,,CON,Michael D. Sapraicone,35
+Jefferson,LeRay 3,U.S. Senate,,REP,Michael D. Sapraicone,430
+Jefferson,LeRay 3,U.S. Senate,,LAR,Diane Sare,5
+Jefferson,LeRay 4,U.S. Senate,,WF,Kirsten E. Gillibrand,2
+Jefferson,LeRay 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,12
+Jefferson,LeRay 4,U.S. Senate,,CON,Michael D. Sapraicone,3
+Jefferson,LeRay 4,U.S. Senate,,REP,Michael D. Sapraicone,25
+Jefferson,LeRay 4,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,LeRay 5,U.S. Senate,,WF,Kirsten E. Gillibrand,2
+Jefferson,LeRay 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,7
+Jefferson,LeRay 5,U.S. Senate,,CON,Michael D. Sapraicone,1
+Jefferson,LeRay 5,U.S. Senate,,REP,Michael D. Sapraicone,15
+Jefferson,LeRay 5,U.S. Senate,,LAR,Diane Sare,0
+Jefferson,LeRay 6,U.S. Senate,,WF,Kirsten E. Gillibrand,3
+Jefferson,LeRay 6,U.S. Senate,,DEM,Kirsten E. Gillibrand,70
+Jefferson,LeRay 6,U.S. Senate,,CON,Michael D. Sapraicone,5
+Jefferson,LeRay 6,U.S. Senate,,REP,Michael D. Sapraicone,82
+Jefferson,LeRay 6,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,LeRay 7,U.S. Senate,,WF,Kirsten E. Gillibrand,13
+Jefferson,LeRay 7,U.S. Senate,,DEM,Kirsten E. Gillibrand,134
+Jefferson,LeRay 7,U.S. Senate,,CON,Michael D. Sapraicone,16
+Jefferson,LeRay 7,U.S. Senate,,REP,Michael D. Sapraicone,134
+Jefferson,LeRay 7,U.S. Senate,,LAR,Diane Sare,0
+Jefferson,LeRay 8,U.S. Senate,,WF,Kirsten E. Gillibrand,27
+Jefferson,LeRay 8,U.S. Senate,,DEM,Kirsten E. Gillibrand,327
+Jefferson,LeRay 8,U.S. Senate,,CON,Michael D. Sapraicone,38
+Jefferson,LeRay 8,U.S. Senate,,REP,Michael D. Sapraicone,452
+Jefferson,LeRay 8,U.S. Senate,,LAR,Diane Sare,6
+Jefferson,LeRay 9,U.S. Senate,,WF,Kirsten E. Gillibrand,14
+Jefferson,LeRay 9,U.S. Senate,,DEM,Kirsten E. Gillibrand,78
+Jefferson,LeRay 9,U.S. Senate,,CON,Michael D. Sapraicone,10
+Jefferson,LeRay 9,U.S. Senate,,REP,Michael D. Sapraicone,110
+Jefferson,LeRay 9,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,Lorraine 1,U.S. Senate,,WF,Kirsten E. Gillibrand,24
+Jefferson,Lorraine 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,122
+Jefferson,Lorraine 1,U.S. Senate,,CON,Michael D. Sapraicone,26
+Jefferson,Lorraine 1,U.S. Senate,,REP,Michael D. Sapraicone,306
+Jefferson,Lorraine 1,U.S. Senate,,LAR,Diane Sare,3
+Jefferson,Lyme 1,U.S. Senate,,WF,Kirsten E. Gillibrand,13
+Jefferson,Lyme 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,108
+Jefferson,Lyme 1,U.S. Senate,,CON,Michael D. Sapraicone,17
+Jefferson,Lyme 1,U.S. Senate,,REP,Michael D. Sapraicone,151
+Jefferson,Lyme 1,U.S. Senate,,LAR,Diane Sare,4
+Jefferson,Lyme 2,U.S. Senate,,WF,Kirsten E. Gillibrand,37
+Jefferson,Lyme 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,417
+Jefferson,Lyme 2,U.S. Senate,,CON,Michael D. Sapraicone,50
+Jefferson,Lyme 2,U.S. Senate,,REP,Michael D. Sapraicone,568
+Jefferson,Lyme 2,U.S. Senate,,LAR,Diane Sare,2
+Jefferson,Orleans 1,U.S. Senate,,WF,Kirsten E. Gillibrand,43
+Jefferson,Orleans 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,494
+Jefferson,Orleans 1,U.S. Senate,,CON,Michael D. Sapraicone,57
+Jefferson,Orleans 1,U.S. Senate,,REP,Michael D. Sapraicone,747
+Jefferson,Orleans 1,U.S. Senate,,LAR,Diane Sare,2
+Jefferson,Pamelia 1,U.S. Senate,,WF,Kirsten E. Gillibrand,19
+Jefferson,Pamelia 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,141
+Jefferson,Pamelia 1,U.S. Senate,,CON,Michael D. Sapraicone,31
+Jefferson,Pamelia 1,U.S. Senate,,REP,Michael D. Sapraicone,363
+Jefferson,Pamelia 1,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,Pamelia 2,U.S. Senate,,WF,Kirsten E. Gillibrand,44
+Jefferson,Pamelia 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,365
+Jefferson,Pamelia 2,U.S. Senate,,CON,Michael D. Sapraicone,51
+Jefferson,Pamelia 2,U.S. Senate,,REP,Michael D. Sapraicone,518
+Jefferson,Pamelia 2,U.S. Senate,,LAR,Diane Sare,0
+Jefferson,Pamelia 3 ** ** ** ** ** ** ** **,U.S. Senate,,WF,Kirsten E. Gillibrand,0
+Jefferson,Pamelia 3 ** ** ** ** ** ** ** **,U.S. Senate,,DEM,Kirsten E. Gillibrand,0
+Jefferson,Pamelia 3 ** ** ** ** ** ** ** **,U.S. Senate,,CON,Michael D. Sapraicone,0
+Jefferson,Pamelia 3 ** ** ** ** ** ** ** **,U.S. Senate,,REP,Michael D. Sapraicone,0
+Jefferson,Pamelia 3 ** ** ** ** ** ** ** **,U.S. Senate,,LAR,Diane Sare,0
+Jefferson,Philadelphia 1,U.S. Senate,,WF,Kirsten E. Gillibrand,21
+Jefferson,Philadelphia 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,139
+Jefferson,Philadelphia 1,U.S. Senate,,CON,Michael D. Sapraicone,22
+Jefferson,Philadelphia 1,U.S. Senate,,REP,Michael D. Sapraicone,188
+Jefferson,Philadelphia 1,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,Philadelphia 2,U.S. Senate,,WF,Kirsten E. Gillibrand,21
+Jefferson,Philadelphia 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,106
+Jefferson,Philadelphia 2,U.S. Senate,,CON,Michael D. Sapraicone,20
+Jefferson,Philadelphia 2,U.S. Senate,,REP,Michael D. Sapraicone,208
+Jefferson,Philadelphia 2,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,Rodman 1,U.S. Senate,,WF,Kirsten E. Gillibrand,17
+Jefferson,Rodman 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,147
+Jefferson,Rodman 1,U.S. Senate,,CON,Michael D. Sapraicone,41
+Jefferson,Rodman 1,U.S. Senate,,REP,Michael D. Sapraicone,400
+Jefferson,Rodman 1,U.S. Senate,,LAR,Diane Sare,2
+Jefferson,Rutland 1,U.S. Senate,,WF,Kirsten E. Gillibrand,5
+Jefferson,Rutland 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,76
+Jefferson,Rutland 1,U.S. Senate,,CON,Michael D. Sapraicone,9
+Jefferson,Rutland 1,U.S. Senate,,REP,Michael D. Sapraicone,86
+Jefferson,Rutland 1,U.S. Senate,,LAR,Diane Sare,0
+Jefferson,Rutland 2,U.S. Senate,,WF,Kirsten E. Gillibrand,35
+Jefferson,Rutland 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,276
+Jefferson,Rutland 2,U.S. Senate,,CON,Michael D. Sapraicone,50
+Jefferson,Rutland 2,U.S. Senate,,REP,Michael D. Sapraicone,644
+Jefferson,Rutland 2,U.S. Senate,,LAR,Diane Sare,3
+Jefferson,Theresa 1,U.S. Senate,,WF,Kirsten E. Gillibrand,52
+Jefferson,Theresa 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,368
+Jefferson,Theresa 1,U.S. Senate,,CON,Michael D. Sapraicone,73
+Jefferson,Theresa 1,U.S. Senate,,REP,Michael D. Sapraicone,659
+Jefferson,Theresa 1,U.S. Senate,,LAR,Diane Sare,2
+Jefferson,Town of Watertown 1,U.S. Senate,,WF,Kirsten E. Gillibrand,1
+Jefferson,Town of Watertown 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,40
+Jefferson,Town of Watertown 1,U.S. Senate,,CON,Michael D. Sapraicone,2
+Jefferson,Town of Watertown 1,U.S. Senate,,REP,Michael D. Sapraicone,37
+Jefferson,Town of Watertown 1,U.S. Senate,,LAR,Diane Sare,0
+Jefferson,Town of Watertown 2,U.S. Senate,,WF,Kirsten E. Gillibrand,39
+Jefferson,Town of Watertown 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,484
+Jefferson,Town of Watertown 2,U.S. Senate,,CON,Michael D. Sapraicone,43
+Jefferson,Town of Watertown 2,U.S. Senate,,REP,Michael D. Sapraicone,555
+Jefferson,Town of Watertown 2,U.S. Senate,,LAR,Diane Sare,4
+Jefferson,Town of Watertown 3,U.S. Senate,,WF,Kirsten E. Gillibrand,40
+Jefferson,Town of Watertown 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,384
+Jefferson,Town of Watertown 3,U.S. Senate,,CON,Michael D. Sapraicone,61
+Jefferson,Town of Watertown 3,U.S. Senate,,REP,Michael D. Sapraicone,609
+Jefferson,Town of Watertown 3,U.S. Senate,,LAR,Diane Sare,5
+Jefferson,Wilna 1,U.S. Senate,,WF,Kirsten E. Gillibrand,5
+Jefferson,Wilna 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,29
+Jefferson,Wilna 1,U.S. Senate,,CON,Michael D. Sapraicone,5
+Jefferson,Wilna 1,U.S. Senate,,REP,Michael D. Sapraicone,57
+Jefferson,Wilna 1,U.S. Senate,,LAR,Diane Sare,1
+Jefferson,Wilna 2,U.S. Senate,,WF,Kirsten E. Gillibrand,31
+Jefferson,Wilna 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,217
+Jefferson,Wilna 2,U.S. Senate,,CON,Michael D. Sapraicone,51
+Jefferson,Wilna 2,U.S. Senate,,REP,Michael D. Sapraicone,557
+Jefferson,Wilna 2,U.S. Senate,,LAR,Diane Sare,6
+Jefferson,Wilna 3,U.S. Senate,,WF,Kirsten E. Gillibrand,49
+Jefferson,Wilna 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,376
+Jefferson,Wilna 3,U.S. Senate,,CON,Michael D. Sapraicone,35
+Jefferson,Wilna 3,U.S. Senate,,REP,Michael D. Sapraicone,423
+Jefferson,Wilna 3,U.S. Senate,,LAR,Diane Sare,3
+Jefferson,Worth 1,U.S. Senate,,WF,Kirsten E. Gillibrand,3
+Jefferson,Worth 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,43
+Jefferson,Worth 1,U.S. Senate,,CON,Michael D. Sapraicone,4
+Jefferson,Worth 1,U.S. Senate,,REP,Michael D. Sapraicone,94
+Jefferson,Worth 1,U.S. Senate,,LAR,Diane Sare,0
+Jefferson,City of Watertown 12-1,U.S. Senate,,WF,Kirsten E. Gillibrand,36
+Jefferson,City of Watertown 12-1,U.S. Senate,,DEM,Kirsten E. Gillibrand,575
+Jefferson,City of Watertown 12-1,U.S. Senate,,CON,Michael D. Sapraicone,42
+Jefferson,City of Watertown 12-1,U.S. Senate,,REP,Michael D. Sapraicone,471
+Jefferson,City of Watertown 12-1,U.S. Senate,,LAR,Diane Sare,2
+Jefferson,City of Watertown 12-2,U.S. Senate,,WF,Kirsten E. Gillibrand,26
+Jefferson,City of Watertown 12-2,U.S. Senate,,DEM,Kirsten E. Gillibrand,445
+Jefferson,City of Watertown 12-2,U.S. Senate,,CON,Michael D. Sapraicone,44
+Jefferson,City of Watertown 12-2,U.S. Senate,,REP,Michael D. Sapraicone,344
+Jefferson,City of Watertown 12-2,U.S. Senate,,LAR,Diane Sare,3
+Jefferson,City of Watertown 12-3,U.S. Senate,,WF,Kirsten E. Gillibrand,39
+Jefferson,City of Watertown 12-3,U.S. Senate,,DEM,Kirsten E. Gillibrand,456
+Jefferson,City of Watertown 12-3,U.S. Senate,,CON,Michael D. Sapraicone,48
+Jefferson,City of Watertown 12-3,U.S. Senate,,REP,Michael D. Sapraicone,322
+Jefferson,City of Watertown 12-3,U.S. Senate,,LAR,Diane Sare,5
+Jefferson,City of Watertown 13-1,U.S. Senate,,WF,Kirsten E. Gillibrand,62
+Jefferson,City of Watertown 13-1,U.S. Senate,,DEM,Kirsten E. Gillibrand,602
+Jefferson,City of Watertown 13-1,U.S. Senate,,CON,Michael D. Sapraicone,45
+Jefferson,City of Watertown 13-1,U.S. Senate,,REP,Michael D. Sapraicone,474
+Jefferson,City of Watertown 13-1,U.S. Senate,,LAR,Diane Sare,6
+Jefferson,City of Watertown 13-2,U.S. Senate,,WF,Kirsten E. Gillibrand,51
+Jefferson,City of Watertown 13-2,U.S. Senate,,DEM,Kirsten E. Gillibrand,466
+Jefferson,City of Watertown 13-2,U.S. Senate,,CON,Michael D. Sapraicone,45
+Jefferson,City of Watertown 13-2,U.S. Senate,,REP,Michael D. Sapraicone,460
+Jefferson,City of Watertown 13-2,U.S. Senate,,LAR,Diane Sare,8
+Jefferson,City of Watertown 14-1,U.S. Senate,,WF,Kirsten E. Gillibrand,31
+Jefferson,City of Watertown 14-1,U.S. Senate,,DEM,Kirsten E. Gillibrand,236
+Jefferson,City of Watertown 14-1,U.S. Senate,,CON,Michael D. Sapraicone,25
+Jefferson,City of Watertown 14-1,U.S. Senate,,REP,Michael D. Sapraicone,248
+Jefferson,City of Watertown 14-1,U.S. Senate,,LAR,Diane Sare,2
+Jefferson,City of Watertown 15-1,U.S. Senate,,WF,Kirsten E. Gillibrand,62
+Jefferson,City of Watertown 15-1,U.S. Senate,,DEM,Kirsten E. Gillibrand,531
+Jefferson,City of Watertown 15-1,U.S. Senate,,CON,Michael D. Sapraicone,55
+Jefferson,City of Watertown 15-1,U.S. Senate,,REP,Michael D. Sapraicone,440
+Jefferson,City of Watertown 15-1,U.S. Senate,,LAR,Diane Sare,8
+Jefferson,City of Watertown 15-2,U.S. Senate,,WF,Kirsten E. Gillibrand,48
+Jefferson,City of Watertown 15-2,U.S. Senate,,DEM,Kirsten E. Gillibrand,387
+Jefferson,City of Watertown 15-2,U.S. Senate,,CON,Michael D. Sapraicone,33
+Jefferson,City of Watertown 15-2,U.S. Senate,,REP,Michael D. Sapraicone,412
+Jefferson,City of Watertown 15-2,U.S. Senate,,LAR,Diane Sare,3
+Jefferson,Antwerp 1,U.S. House,21,WF,Paula Collins,6
+Jefferson,Antwerp 1,U.S. House,21,DEM,Paula Collins,60
+Jefferson,Antwerp 1,U.S. House,21,CON,Elise M. Stefanik,27
+Jefferson,Antwerp 1,U.S. House,21,REP,Elise M. Stefanik,126
+Jefferson,Antwerp 2,U.S. House,21,WF,Paula Collins,10
+Jefferson,Antwerp 2,U.S. House,21,DEM,Paula Collins,92
+Jefferson,Antwerp 2,U.S. House,21,CON,Elise M. Stefanik,18
+Jefferson,Antwerp 2,U.S. House,21,REP,Elise M. Stefanik,277
+Jefferson,LeRay 1,U.S. House,21,WF,Paula Collins,7
+Jefferson,LeRay 1,U.S. House,21,DEM,Paula Collins,125
+Jefferson,LeRay 1,U.S. House,21,CON,Elise M. Stefanik,31
+Jefferson,LeRay 1,U.S. House,21,REP,Elise M. Stefanik,319
+Jefferson,LeRay 2,U.S. House,21,WF,Paula Collins,8
+Jefferson,LeRay 2,U.S. House,21,DEM,Paula Collins,71
+Jefferson,LeRay 2,U.S. House,21,CON,Elise M. Stefanik,10
+Jefferson,LeRay 2,U.S. House,21,REP,Elise M. Stefanik,133
+Jefferson,LeRay 3,U.S. House,21,WF,Paula Collins,24
+Jefferson,LeRay 3,U.S. House,21,DEM,Paula Collins,288
+Jefferson,LeRay 3,U.S. House,21,CON,Elise M. Stefanik,42
+Jefferson,LeRay 3,U.S. House,21,REP,Elise M. Stefanik,462
+Jefferson,LeRay 4,U.S. House,21,WF,Paula Collins,0
+Jefferson,LeRay 4,U.S. House,21,DEM,Paula Collins,12
+Jefferson,LeRay 4,U.S. House,21,CON,Elise M. Stefanik,4
+Jefferson,LeRay 4,U.S. House,21,REP,Elise M. Stefanik,27
+Jefferson,LeRay 5,U.S. House,21,WF,Paula Collins,2
+Jefferson,LeRay 5,U.S. House,21,DEM,Paula Collins,6
+Jefferson,LeRay 5,U.S. House,21,CON,Elise M. Stefanik,0
+Jefferson,LeRay 5,U.S. House,21,REP,Elise M. Stefanik,16
+Jefferson,LeRay 6,U.S. House,21,WF,Paula Collins,3
+Jefferson,LeRay 6,U.S. House,21,DEM,Paula Collins,68
+Jefferson,LeRay 6,U.S. House,21,CON,Elise M. Stefanik,6
+Jefferson,LeRay 6,U.S. House,21,REP,Elise M. Stefanik,85
+Jefferson,LeRay 7,U.S. House,21,WF,Paula Collins,7
+Jefferson,LeRay 7,U.S. House,21,DEM,Paula Collins,118
+Jefferson,LeRay 7,U.S. House,21,CON,Elise M. Stefanik,19
+Jefferson,LeRay 7,U.S. House,21,REP,Elise M. Stefanik,148
+Jefferson,LeRay 8,U.S. House,21,WF,Paula Collins,22
+Jefferson,LeRay 8,U.S. House,21,DEM,Paula Collins,297
+Jefferson,LeRay 8,U.S. House,21,CON,Elise M. Stefanik,44
+Jefferson,LeRay 8,U.S. House,21,REP,Elise M. Stefanik,497
+Jefferson,LeRay 9,U.S. House,21,WF,Paula Collins,8
+Jefferson,LeRay 9,U.S. House,21,DEM,Paula Collins,68
+Jefferson,LeRay 9,U.S. House,21,CON,Elise M. Stefanik,10
+Jefferson,LeRay 9,U.S. House,21,REP,Elise M. Stefanik,127
+Jefferson,Philadelphia 1,U.S. House,21,WF,Paula Collins,10
+Jefferson,Philadelphia 1,U.S. House,21,DEM,Paula Collins,119
+Jefferson,Philadelphia 1,U.S. House,21,CON,Elise M. Stefanik,24
+Jefferson,Philadelphia 1,U.S. House,21,REP,Elise M. Stefanik,224
+Jefferson,Philadelphia 2,U.S. House,21,WF,Paula Collins,11
+Jefferson,Philadelphia 2,U.S. House,21,DEM,Paula Collins,86
+Jefferson,Philadelphia 2,U.S. House,21,CON,Elise M. Stefanik,25
+Jefferson,Philadelphia 2,U.S. House,21,REP,Elise M. Stefanik,238
+Jefferson,Wilna 1,U.S. House,21,WF,Paula Collins,4
+Jefferson,Wilna 1,U.S. House,21,DEM,Paula Collins,21
+Jefferson,Wilna 1,U.S. House,21,CON,Elise M. Stefanik,4
+Jefferson,Wilna 1,U.S. House,21,REP,Elise M. Stefanik,74
+Jefferson,Wilna 2,U.S. House,21,WF,Paula Collins,16
+Jefferson,Wilna 2,U.S. House,21,DEM,Paula Collins,174
+Jefferson,Wilna 2,U.S. House,21,CON,Elise M. Stefanik,57
+Jefferson,Wilna 2,U.S. House,21,REP,Elise M. Stefanik,631
+Jefferson,Wilna 3,U.S. House,21,WF,Paula Collins,34
+Jefferson,Wilna 3,U.S. House,21,DEM,Paula Collins,331
+Jefferson,Wilna 3,U.S. House,21,CON,Elise M. Stefanik,36
+Jefferson,Wilna 3,U.S. House,21,REP,Elise M. Stefanik,496
+Jefferson,Adams 1,U.S. House,24,DEM,David Wagenhauser,285
+Jefferson,Adams 1,U.S. House,24,CON,Claudia Tenney,34
+Jefferson,Adams 1,U.S. House,24,REP,Claudia Tenney,437
+Jefferson,Adams 2,U.S. House,24,DEM,David Wagenhauser,155
+Jefferson,Adams 2,U.S. House,24,CON,Claudia Tenney,22
+Jefferson,Adams 2,U.S. House,24,REP,Claudia Tenney,347
+Jefferson,Adams 3,U.S. House,24,DEM,David Wagenhauser,319
+Jefferson,Adams 3,U.S. House,24,CON,Claudia Tenney,75
+Jefferson,Adams 3,U.S. House,24,REP,Claudia Tenney,662
+Jefferson,Alexandria 1,U.S. House,24,DEM,David Wagenhauser,199
+Jefferson,Alexandria 1,U.S. House,24,CON,Claudia Tenney,11
+Jefferson,Alexandria 1,U.S. House,24,REP,Claudia Tenney,234
+Jefferson,Alexandria 2,U.S. House,24,DEM,David Wagenhauser,224
+Jefferson,Alexandria 2,U.S. House,24,CON,Claudia Tenney,36
+Jefferson,Alexandria 2,U.S. House,24,REP,Claudia Tenney,411
+Jefferson,Alexandria 3,U.S. House,24,DEM,David Wagenhauser,209
+Jefferson,Alexandria 3,U.S. House,24,CON,Claudia Tenney,54
+Jefferson,Alexandria 3,U.S. House,24,REP,Claudia Tenney,546
+Jefferson,Antwerp 3,U.S. House,24,DEM,David Wagenhauser,29
+Jefferson,Antwerp 3,U.S. House,24,CON,Claudia Tenney,10
+Jefferson,Antwerp 3,U.S. House,24,REP,Claudia Tenney,82
+Jefferson,Brownville 1,U.S. House,24,DEM,David Wagenhauser,71
+Jefferson,Brownville 1,U.S. House,24,CON,Claudia Tenney,16
+Jefferson,Brownville 1,U.S. House,24,REP,Claudia Tenney,213
+Jefferson,Brownville 2,U.S. House,24,DEM,David Wagenhauser,300
+Jefferson,Brownville 2,U.S. House,24,CON,Claudia Tenney,60
+Jefferson,Brownville 2,U.S. House,24,REP,Claudia Tenney,736
+Jefferson,Brownville 3,U.S. House,24,DEM,David Wagenhauser,125
+Jefferson,Brownville 3,U.S. House,24,CON,Claudia Tenney,32
+Jefferson,Brownville 3,U.S. House,24,REP,Claudia Tenney,239
+Jefferson,Brownville 4,U.S. House,24,DEM,David Wagenhauser,156
+Jefferson,Brownville 4,U.S. House,24,CON,Claudia Tenney,16
+Jefferson,Brownville 4,U.S. House,24,REP,Claudia Tenney,263
+Jefferson,Brownville 5,U.S. House,24,DEM,David Wagenhauser,203
+Jefferson,Brownville 5,U.S. House,24,CON,Claudia Tenney,26
+Jefferson,Brownville 5,U.S. House,24,REP,Claudia Tenney,431
+Jefferson,Cape Vincent 1,U.S. House,24,DEM,David Wagenhauser,177
+Jefferson,Cape Vincent 1,U.S. House,24,CON,Claudia Tenney,18
+Jefferson,Cape Vincent 1,U.S. House,24,REP,Claudia Tenney,223
+Jefferson,Cape Vincent 2,U.S. House,24,DEM,David Wagenhauser,285
+Jefferson,Cape Vincent 2,U.S. House,24,CON,Claudia Tenney,58
+Jefferson,Cape Vincent 2,U.S. House,24,REP,Claudia Tenney,526
+Jefferson,Champion 1,U.S. House,24,DEM,David Wagenhauser,302
+Jefferson,Champion 1,U.S. House,24,CON,Claudia Tenney,64
+Jefferson,Champion 1,U.S. House,24,REP,Claudia Tenney,832
+Jefferson,Champion 2,U.S. House,24,DEM,David Wagenhauser,171
+Jefferson,Champion 2,U.S. House,24,CON,Claudia Tenney,40
+Jefferson,Champion 2,U.S. House,24,REP,Claudia Tenney,343
+Jefferson,Clayton 1,U.S. House,24,DEM,David Wagenhauser,351
+Jefferson,Clayton 1,U.S. House,24,CON,Claudia Tenney,48
+Jefferson,Clayton 1,U.S. House,24,REP,Claudia Tenney,440
+Jefferson,Clayton 2,U.S. House,24,DEM,David Wagenhauser,322
+Jefferson,Clayton 2,U.S. House,24,CON,Claudia Tenney,47
+Jefferson,Clayton 2,U.S. House,24,REP,Claudia Tenney,523
+Jefferson,Clayton 3,U.S. House,24,DEM,David Wagenhauser,179
+Jefferson,Clayton 3,U.S. House,24,CON,Claudia Tenney,56
+Jefferson,Clayton 3,U.S. House,24,REP,Claudia Tenney,532
+Jefferson,Ellisburg 1,U.S. House,24,DEM,David Wagenhauser,36
+Jefferson,Ellisburg 1,U.S. House,24,CON,Claudia Tenney,5
+Jefferson,Ellisburg 1,U.S. House,24,REP,Claudia Tenney,58
+Jefferson,Ellisburg 2,U.S. House,24,DEM,David Wagenhauser,38
+Jefferson,Ellisburg 2,U.S. House,24,CON,Claudia Tenney,11
+Jefferson,Ellisburg 2,U.S. House,24,REP,Claudia Tenney,116
+Jefferson,Ellisburg 3,U.S. House,24,DEM,David Wagenhauser,315
+Jefferson,Ellisburg 3,U.S. House,24,CON,Claudia Tenney,91
+Jefferson,Ellisburg 3,U.S. House,24,REP,Claudia Tenney,888
+Jefferson,Henderson 1,U.S. House,24,DEM,David Wagenhauser,287
+Jefferson,Henderson 1,U.S. House,24,CON,Claudia Tenney,45
+Jefferson,Henderson 1,U.S. House,24,REP,Claudia Tenney,527
+Jefferson,Hounsfield 1,U.S. House,24,DEM,David Wagenhauser,399
+Jefferson,Hounsfield 1,U.S. House,24,CON,Claudia Tenney,35
+Jefferson,Hounsfield 1,U.S. House,24,REP,Claudia Tenney,359
+Jefferson,Hounsfield 2,U.S. House,24,DEM,David Wagenhauser,259
+Jefferson,Hounsfield 2,U.S. House,24,CON,Claudia Tenney,54
+Jefferson,Hounsfield 2,U.S. House,24,REP,Claudia Tenney,515
+Jefferson,Hounsfield 3,U.S. House,24,DEM,David Wagenhauser,50
+Jefferson,Hounsfield 3,U.S. House,24,CON,Claudia Tenney,9
+Jefferson,Hounsfield 3,U.S. House,24,REP,Claudia Tenney,107
+Jefferson,Lorraine 1,U.S. House,24,DEM,David Wagenhauser,97
+Jefferson,Lorraine 1,U.S. House,24,CON,Claudia Tenney,36
+Jefferson,Lorraine 1,U.S. House,24,REP,Claudia Tenney,353
+Jefferson,Lyme 1,U.S. House,24,DEM,David Wagenhauser,90
+Jefferson,Lyme 1,U.S. House,24,CON,Claudia Tenney,26
+Jefferson,Lyme 1,U.S. House,24,REP,Claudia Tenney,177
+Jefferson,Lyme 2,U.S. House,24,DEM,David Wagenhauser,348
+Jefferson,Lyme 2,U.S. House,24,CON,Claudia Tenney,66
+Jefferson,Lyme 2,U.S. House,24,REP,Claudia Tenney,664
+Jefferson,Orleans 1,U.S. House,24,DEM,David Wagenhauser,417
+Jefferson,Orleans 1,U.S. House,24,CON,Claudia Tenney,72
+Jefferson,Orleans 1,U.S. House,24,REP,Claudia Tenney,848
+Jefferson,Pamelia 1,U.S. House,24,DEM,David Wagenhauser,107
+Jefferson,Pamelia 1,U.S. House,24,CON,Claudia Tenney,37
+Jefferson,Pamelia 1,U.S. House,24,REP,Claudia Tenney,402
+Jefferson,Pamelia 2,U.S. House,24,DEM,David Wagenhauser,293
+Jefferson,Pamelia 2,U.S. House,24,CON,Claudia Tenney,70
+Jefferson,Pamelia 2,U.S. House,24,REP,Claudia Tenney,609
+Jefferson,Pamelia 3 ** ** ** ** ** **,U.S. House,24,DEM,David Wagenhauser,0
+Jefferson,Pamelia 3 ** ** ** ** ** **,U.S. House,24,CON,Claudia Tenney,0
+Jefferson,Pamelia 3 ** ** ** ** ** **,U.S. House,24,REP,Claudia Tenney,0
+Jefferson,Rodman 1,U.S. House,24,DEM,David Wagenhauser,114
+Jefferson,Rodman 1,U.S. House,24,CON,Claudia Tenney,46
+Jefferson,Rodman 1,U.S. House,24,REP,Claudia Tenney,438
+Jefferson,Rutland 1,U.S. House,24,DEM,David Wagenhauser,70
+Jefferson,Rutland 1,U.S. House,24,CON,Claudia Tenney,11
+Jefferson,Rutland 1,U.S. House,24,REP,Claudia Tenney,94
+Jefferson,Rutland 2,U.S. House,24,DEM,David Wagenhauser,216
+Jefferson,Rutland 2,U.S. House,24,CON,Claudia Tenney,69
+Jefferson,Rutland 2,U.S. House,24,REP,Claudia Tenney,730
+Jefferson,Theresa 1,U.S. House,24,DEM,David Wagenhauser,322
+Jefferson,Theresa 1,U.S. House,24,CON,Claudia Tenney,88
+Jefferson,Theresa 1,U.S. House,24,REP,Claudia Tenney,739
+Jefferson,Town of Watertown 1,U.S. House,24,DEM,David Wagenhauser,37
+Jefferson,Town of Watertown 1,U.S. House,24,CON,Claudia Tenney,2
+Jefferson,Town of Watertown 1,U.S. House,24,REP,Claudia Tenney,38
+Jefferson,Town of Watertown 2,U.S. House,24,DEM,David Wagenhauser,400
+Jefferson,Town of Watertown 2,U.S. House,24,CON,Claudia Tenney,64
+Jefferson,Town of Watertown 2,U.S. House,24,REP,Claudia Tenney,656
+Jefferson,Town of Watertown 3,U.S. House,24,DEM,David Wagenhauser,325
+Jefferson,Town of Watertown 3,U.S. House,24,CON,Claudia Tenney,73
+Jefferson,Town of Watertown 3,U.S. House,24,REP,Claudia Tenney,700
+Jefferson,Worth 1,U.S. House,24,DEM,David Wagenhauser,30
+Jefferson,Worth 1,U.S. House,24,CON,Claudia Tenney,7
+Jefferson,Worth 1,U.S. House,24,REP,Claudia Tenney,110
+Jefferson,City of Watertown 12-1,U.S. House,24,DEM,David Wagenhauser,485
+Jefferson,City of Watertown 12-1,U.S. House,24,CON,Claudia Tenney,59
+Jefferson,City of Watertown 12-1,U.S. House,24,REP,Claudia Tenney,573
+Jefferson,City of Watertown 12-2,U.S. House,24,DEM,David Wagenhauser,406
+Jefferson,City of Watertown 12-2,U.S. House,24,CON,Claudia Tenney,51
+Jefferson,City of Watertown 12-2,U.S. House,24,REP,Claudia Tenney,404
+Jefferson,City of Watertown 12-3,U.S. House,24,DEM,David Wagenhauser,418
+Jefferson,City of Watertown 12-3,U.S. House,24,CON,Claudia Tenney,64
+Jefferson,City of Watertown 12-3,U.S. House,24,REP,Claudia Tenney,381
+Jefferson,City of Watertown 13-1,U.S. House,24,DEM,David Wagenhauser,539
+Jefferson,City of Watertown 13-1,U.S. House,24,CON,Claudia Tenney,68
+Jefferson,City of Watertown 13-1,U.S. House,24,REP,Claudia Tenney,561
+Jefferson,City of Watertown 13-2,U.S. House,24,DEM,David Wagenhauser,420
+Jefferson,City of Watertown 13-2,U.S. House,24,CON,Claudia Tenney,70
+Jefferson,City of Watertown 13-2,U.S. House,24,REP,Claudia Tenney,524
+Jefferson,City of Watertown 14-1,U.S. House,24,DEM,David Wagenhauser,218
+Jefferson,City of Watertown 14-1,U.S. House,24,CON,Claudia Tenney,33
+Jefferson,City of Watertown 14-1,U.S. House,24,REP,Claudia Tenney,289
+Jefferson,City of Watertown 15-1,U.S. House,24,DEM,David Wagenhauser,469
+Jefferson,City of Watertown 15-1,U.S. House,24,CON,Claudia Tenney,85
+Jefferson,City of Watertown 15-1,U.S. House,24,REP,Claudia Tenney,535
+Jefferson,City of Watertown 15-2,U.S. House,24,DEM,David Wagenhauser,357
+Jefferson,City of Watertown 15-2,U.S. House,24,CON,Claudia Tenney,45
+Jefferson,City of Watertown 15-2,U.S. House,24,REP,Claudia Tenney,468
+Jefferson,Alexandria 1,State Assembly,116,CON,Scott A. Gray,42
+Jefferson,Alexandria 1,State Assembly,116,REP,Scott A. Gray,319
+Jefferson,Alexandria 2,State Assembly,116,CON,Scott A. Gray,64
+Jefferson,Alexandria 2,State Assembly,116,REP,Scott A. Gray,503
+Jefferson,Alexandria 3,State Assembly,116,CON,Scott A. Gray,86
+Jefferson,Alexandria 3,State Assembly,116,REP,Scott A. Gray,633
+Jefferson,Antwerp 1,State Assembly,116,CON,Scott A. Gray,37
+Jefferson,Antwerp 1,State Assembly,116,REP,Scott A. Gray,149
+Jefferson,Antwerp 2,State Assembly,116,CON,Scott A. Gray,33
+Jefferson,Antwerp 2,State Assembly,116,REP,Scott A. Gray,308
+Jefferson,Antwerp 3,State Assembly,116,CON,Scott A. Gray,17
+Jefferson,Antwerp 3,State Assembly,116,REP,Scott A. Gray,88
+Jefferson,Brownville 1,State Assembly,116,CON,Scott A. Gray,25
+Jefferson,Brownville 1,State Assembly,116,REP,Scott A. Gray,246
+Jefferson,Brownville 2,State Assembly,116,CON,Scott A. Gray,112
+Jefferson,Brownville 2,State Assembly,116,REP,Scott A. Gray,853
+Jefferson,Brownville 3,State Assembly,116,CON,Scott A. Gray,48
+Jefferson,Brownville 3,State Assembly,116,REP,Scott A. Gray,293
+Jefferson,Brownville 4,State Assembly,116,CON,Scott A. Gray,42
+Jefferson,Brownville 4,State Assembly,116,REP,Scott A. Gray,322
+Jefferson,Brownville 5,State Assembly,116,CON,Scott A. Gray,59
+Jefferson,Brownville 5,State Assembly,116,REP,Scott A. Gray,512
+Jefferson,Cape Vincent 1,State Assembly,116,CON,Scott A. Gray,42
+Jefferson,Cape Vincent 1,State Assembly,116,REP,Scott A. Gray,288
+Jefferson,Cape Vincent 2,State Assembly,116,CON,Scott A. Gray,95
+Jefferson,Cape Vincent 2,State Assembly,116,REP,Scott A. Gray,622
+Jefferson,Clayton 1,State Assembly,116,CON,Scott A. Gray,95
+Jefferson,Clayton 1,State Assembly,116,REP,Scott A. Gray,586
+Jefferson,Clayton 2,State Assembly,116,CON,Scott A. Gray,98
+Jefferson,Clayton 2,State Assembly,116,REP,Scott A. Gray,651
+Jefferson,Clayton 3,State Assembly,116,CON,Scott A. Gray,79
+Jefferson,Clayton 3,State Assembly,116,REP,Scott A. Gray,618
+Jefferson,Henderson 1,State Assembly,116,CON,Scott A. Gray,76
+Jefferson,Henderson 1,State Assembly,116,REP,Scott A. Gray,623
+Jefferson,Hounsfield 1,State Assembly,116,CON,Scott A. Gray,90
+Jefferson,Hounsfield 1,State Assembly,116,REP,Scott A. Gray,505
+Jefferson,Hounsfield 2,State Assembly,116,CON,Scott A. Gray,110
+Jefferson,Hounsfield 2,State Assembly,116,REP,Scott A. Gray,618
+Jefferson,Hounsfield 3,State Assembly,116,CON,Scott A. Gray,12
+Jefferson,Hounsfield 3,State Assembly,116,REP,Scott A. Gray,121
+Jefferson,Lyme 1,State Assembly,116,CON,Scott A. Gray,38
+Jefferson,Lyme 1,State Assembly,116,REP,Scott A. Gray,214
+Jefferson,Lyme 2,State Assembly,116,CON,Scott A. Gray,106
+Jefferson,Lyme 2,State Assembly,116,REP,Scott A. Gray,774
+Jefferson,Orleans 1,State Assembly,116,CON,Scott A. Gray,132
+Jefferson,Orleans 1,State Assembly,116,REP,Scott A. Gray,991
+Jefferson,Pamelia 1,State Assembly,116,CON,Scott A. Gray,62
+Jefferson,Pamelia 1,State Assembly,116,REP,Scott A. Gray,432
+Jefferson,Pamelia 2,State Assembly,116,CON,Scott A. Gray,110
+Jefferson,Pamelia 2,State Assembly,116,REP,Scott A. Gray,711
+Jefferson,Pamelia 3 ** ** ** ** **,State Assembly,116,CON,Scott A. Gray,0
+Jefferson,Pamelia 3 ** ** ** ** **,State Assembly,116,REP,Scott A. Gray,0
+Jefferson,Philadelphia 1,State Assembly,116,CON,Scott A. Gray,53
+Jefferson,Philadelphia 1,State Assembly,116,REP,Scott A. Gray,249
+Jefferson,Philadelphia 2,State Assembly,116,CON,Scott A. Gray,38
+Jefferson,Philadelphia 2,State Assembly,116,REP,Scott A. Gray,271
+Jefferson,Theresa 1,State Assembly,116,CON,Scott A. Gray,146
+Jefferson,Theresa 1,State Assembly,116,REP,Scott A. Gray,850
+Jefferson,Town of Watertown 1,State Assembly,116,CON,Scott A. Gray,7
+Jefferson,Town of Watertown 1,State Assembly,116,REP,Scott A. Gray,45
+Jefferson,Town of Watertown 2,State Assembly,116,CON,Scott A. Gray,107
+Jefferson,Town of Watertown 2,State Assembly,116,REP,Scott A. Gray,804
+Jefferson,Town of Watertown 3,State Assembly,116,CON,Scott A. Gray,128
+Jefferson,Town of Watertown 3,State Assembly,116,REP,Scott A. Gray,834
+Jefferson,City of Watertown 12-1,State Assembly,116,CON,Scott A. Gray,117
+Jefferson,City of Watertown 12-1,State Assembly,116,REP,Scott A. Gray,773
+Jefferson,City of Watertown 12-2,State Assembly,116,CON,Scott A. Gray,119
+Jefferson,City of Watertown 12-2,State Assembly,116,REP,Scott A. Gray,552
+Jefferson,City of Watertown 12-3,State Assembly,116,CON,Scott A. Gray,130
+Jefferson,City of Watertown 12-3,State Assembly,116,REP,Scott A. Gray,536
+Jefferson,City of Watertown 13-1,State Assembly,116,CON,Scott A. Gray,145
+Jefferson,City of Watertown 13-1,State Assembly,116,REP,Scott A. Gray,793
+Jefferson,City of Watertown 13-2,State Assembly,116,CON,Scott A. Gray,140
+Jefferson,City of Watertown 13-2,State Assembly,116,REP,Scott A. Gray,680
+Jefferson,City of Watertown 14-1,State Assembly,116,CON,Scott A. Gray,77
+Jefferson,City of Watertown 14-1,State Assembly,116,REP,Scott A. Gray,372
+Jefferson,City of Watertown 15-1,State Assembly,116,CON,Scott A. Gray,169
+Jefferson,City of Watertown 15-1,State Assembly,116,REP,Scott A. Gray,684
+Jefferson,City of Watertown 15-2,State Assembly,116,CON,Scott A. Gray,111
+Jefferson,City of Watertown 15-2,State Assembly,116,REP,Scott A. Gray,599
+Jefferson,Champion 1,State Assembly,117,CON,Kenneth Blankenbush,116
+Jefferson,Champion 1,State Assembly,117,REP,Kenneth Blankenbush,940
+Jefferson,Champion 2,State Assembly,117,CON,Kenneth Blankenbush,69
+Jefferson,Champion 2,State Assembly,117,REP,Kenneth Blankenbush,420
+Jefferson,LeRay 1,State Assembly,117,CON,Kenneth Blankenbush,51
+Jefferson,LeRay 1,State Assembly,117,REP,Kenneth Blankenbush,360
+Jefferson,LeRay 2,State Assembly,117,CON,Kenneth Blankenbush,26
+Jefferson,LeRay 2,State Assembly,117,REP,Kenneth Blankenbush,154
+Jefferson,LeRay 3,State Assembly,117,CON,Kenneth Blankenbush,81
+Jefferson,LeRay 3,State Assembly,117,REP,Kenneth Blankenbush,527
+Jefferson,LeRay 4,State Assembly,117,CON,Kenneth Blankenbush,6
+Jefferson,LeRay 4,State Assembly,117,REP,Kenneth Blankenbush,30
+Jefferson,LeRay 5,State Assembly,117,CON,Kenneth Blankenbush,3
+Jefferson,LeRay 5,State Assembly,117,REP,Kenneth Blankenbush,15
+Jefferson,LeRay 6,State Assembly,117,CON,Kenneth Blankenbush,16
+Jefferson,LeRay 6,State Assembly,117,REP,Kenneth Blankenbush,100
+Jefferson,LeRay 7,State Assembly,117,CON,Kenneth Blankenbush,37
+Jefferson,LeRay 7,State Assembly,117,REP,Kenneth Blankenbush,199
+Jefferson,LeRay 8,State Assembly,117,CON,Kenneth Blankenbush,82
+Jefferson,LeRay 8,State Assembly,117,REP,Kenneth Blankenbush,564
+Jefferson,LeRay 9,State Assembly,117,CON,Kenneth Blankenbush,25
+Jefferson,LeRay 9,State Assembly,117,REP,Kenneth Blankenbush,142
+Jefferson,Rodman 1,State Assembly,117,CON,Kenneth Blankenbush,57
+Jefferson,Rodman 1,State Assembly,117,REP,Kenneth Blankenbush,467
+Jefferson,Rutland 1,State Assembly,117,CON,Kenneth Blankenbush,27
+Jefferson,Rutland 1,State Assembly,117,REP,Kenneth Blankenbush,115
+Jefferson,Rutland 2,State Assembly,117,CON,Kenneth Blankenbush,110
+Jefferson,Rutland 2,State Assembly,117,REP,Kenneth Blankenbush,811
+Jefferson,Wilna 1,State Assembly,117,CON,Kenneth Blankenbush,6
+Jefferson,Wilna 1,State Assembly,117,REP,Kenneth Blankenbush,81
+Jefferson,Wilna 2,State Assembly,117,CON,Kenneth Blankenbush,80
+Jefferson,Wilna 2,State Assembly,117,REP,Kenneth Blankenbush,689
+Jefferson,Wilna 3,State Assembly,117,CON,Kenneth Blankenbush,100
+Jefferson,Wilna 3,State Assembly,117,REP,Kenneth Blankenbush,620
+Jefferson,Adams 1,State Assembly,120,CON,William A. Barclay,58
+Jefferson,Adams 1,State Assembly,120,REP,William A. Barclay,552
+Jefferson,Adams 2,State Assembly,120,CON,William A. Barclay,39
+Jefferson,Adams 2,State Assembly,120,REP,William A. Barclay,394
+Jefferson,Adams 3,State Assembly,120,CON,William A. Barclay,117
+Jefferson,Adams 3,State Assembly,120,REP,William A. Barclay,753
+Jefferson,Ellisburg 1,State Assembly,120,CON,William A. Barclay,9
+Jefferson,Ellisburg 1,State Assembly,120,REP,William A. Barclay,66
+Jefferson,Ellisburg 2,State Assembly,120,CON,William A. Barclay,18
+Jefferson,Ellisburg 2,State Assembly,120,REP,William A. Barclay,133
+Jefferson,Ellisburg 3,State Assembly,120,CON,William A. Barclay,133
+Jefferson,Ellisburg 3,State Assembly,120,REP,William A. Barclay,987
+Jefferson,Lorraine 1,State Assembly,120,CON,William A. Barclay,49
+Jefferson,Lorraine 1,State Assembly,120,REP,William A. Barclay,373
+Jefferson,Worth 1,State Assembly,120,CON,William A. Barclay,9
+Jefferson,Worth 1,State Assembly,120,REP,William A. Barclay,111

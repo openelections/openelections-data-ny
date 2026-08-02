@@ -1,0 +1,568 @@
+county,precinct,office,district,party,candidate,votes
+Seneca,Town of Covert 1,President,,DEM,Kamala D. Harris,391
+Seneca,Town of Covert 1,President,,WOR,Kamala D. Harris,26
+Seneca,Town of Covert 1,President,,CON,Donald J. Trump,36
+Seneca,Town of Covert 1,President,,REP,Donald J. Trump,265
+Seneca,Town of Covert 1,President,,,Write-in,9
+Seneca,Town of Covert 2,President,,DEM,Kamala D. Harris,299
+Seneca,Town of Covert 2,President,,WOR,Kamala D. Harris,34
+Seneca,Town of Covert 2,President,,CON,Donald J. Trump,26
+Seneca,Town of Covert 2,President,,REP,Donald J. Trump,213
+Seneca,Town of Covert 2,President,,,Write-in,7
+Seneca,Town of Fayette 1,President,,DEM,Kamala D. Harris,213
+Seneca,Town of Fayette 1,President,,WOR,Kamala D. Harris,13
+Seneca,Town of Fayette 1,President,,CON,Donald J. Trump,32
+Seneca,Town of Fayette 1,President,,REP,Donald J. Trump,241
+Seneca,Town of Fayette 1,President,,,Write-in,6
+Seneca,Town of Fayette 2,President,,DEM,Kamala D. Harris,262
+Seneca,Town of Fayette 2,President,,WOR,Kamala D. Harris,17
+Seneca,Town of Fayette 2,President,,CON,Donald J. Trump,39
+Seneca,Town of Fayette 2,President,,REP,Donald J. Trump,324
+Seneca,Town of Fayette 2,President,,,Write-in,4
+Seneca,Town of Fayette 3,President,,DEM,Kamala D. Harris,244
+Seneca,Town of Fayette 3,President,,WOR,Kamala D. Harris,12
+Seneca,Town of Fayette 3,President,,CON,Donald J. Trump,39
+Seneca,Town of Fayette 3,President,,REP,Donald J. Trump,393
+Seneca,Town of Fayette 3,President,,,Write-in,8
+Seneca,Town of Junius 1,President,,DEM,Kamala D. Harris,148
+Seneca,Town of Junius 1,President,,WOR,Kamala D. Harris,13
+Seneca,Town of Junius 1,President,,CON,Donald J. Trump,26
+Seneca,Town of Junius 1,President,,REP,Donald J. Trump,360
+Seneca,Town of Junius 1,President,,,Write-in,1
+Seneca,Town of Lodi 1,President,,DEM,Kamala D. Harris,323
+Seneca,Town of Lodi 1,President,,WOR,Kamala D. Harris,17
+Seneca,Town of Lodi 1,President,,CON,Donald J. Trump,42
+Seneca,Town of Lodi 1,President,,REP,Donald J. Trump,420
+Seneca,Town of Lodi 1,President,,,Write-in,6
+Seneca,Town of Ovid 1,President,,DEM,Kamala D. Harris,202
+Seneca,Town of Ovid 1,President,,WOR,Kamala D. Harris,11
+Seneca,Town of Ovid 1,President,,CON,Donald J. Trump,18
+Seneca,Town of Ovid 1,President,,REP,Donald J. Trump,264
+Seneca,Town of Ovid 1,President,,,Write-in,6
+Seneca,Town of Ovid 2,President,,DEM,Kamala D. Harris,194
+Seneca,Town of Ovid 2,President,,WOR,Kamala D. Harris,12
+Seneca,Town of Ovid 2,President,,CON,Donald J. Trump,25
+Seneca,Town of Ovid 2,President,,REP,Donald J. Trump,277
+Seneca,Town of Ovid 2,President,,,Write-in,5
+Seneca,Town of Romulus 1,President,,DEM,Kamala D. Harris,104
+Seneca,Town of Romulus 1,President,,WOR,Kamala D. Harris,2
+Seneca,Town of Romulus 1,President,,CON,Donald J. Trump,17
+Seneca,Town of Romulus 1,President,,REP,Donald J. Trump,149
+Seneca,Town of Romulus 1,President,,,Write-in,0
+Seneca,Town of Romulus 2,President,,DEM,Kamala D. Harris,185
+Seneca,Town of Romulus 2,President,,WOR,Kamala D. Harris,8
+Seneca,Town of Romulus 2,President,,CON,Donald J. Trump,30
+Seneca,Town of Romulus 2,President,,REP,Donald J. Trump,153
+Seneca,Town of Romulus 2,President,,,Write-in,3
+Seneca,Town of Romulus 3,President,,DEM,Kamala D. Harris,117
+Seneca,Town of Romulus 3,President,,WOR,Kamala D. Harris,5
+Seneca,Town of Romulus 3,President,,CON,Donald J. Trump,17
+Seneca,Town of Romulus 3,President,,REP,Donald J. Trump,129
+Seneca,Town of Romulus 3,President,,,Write-in,5
+Seneca,Town of Seneca Falls 1,President,,DEM,Kamala D. Harris,267
+Seneca,Town of Seneca Falls 1,President,,WOR,Kamala D. Harris,17
+Seneca,Town of Seneca Falls 1,President,,CON,Donald J. Trump,28
+Seneca,Town of Seneca Falls 1,President,,REP,Donald J. Trump,196
+Seneca,Town of Seneca Falls 1,President,,,Write-in,5
+Seneca,Town of Seneca Falls 2,President,,DEM,Kamala D. Harris,291
+Seneca,Town of Seneca Falls 2,President,,WOR,Kamala D. Harris,19
+Seneca,Town of Seneca Falls 2,President,,CON,Donald J. Trump,20
+Seneca,Town of Seneca Falls 2,President,,REP,Donald J. Trump,264
+Seneca,Town of Seneca Falls 2,President,,,Write-in,2
+Seneca,Town of Seneca Falls 3,President,,DEM,Kamala D. Harris,183
+Seneca,Town of Seneca Falls 3,President,,WOR,Kamala D. Harris,11
+Seneca,Town of Seneca Falls 3,President,,CON,Donald J. Trump,14
+Seneca,Town of Seneca Falls 3,President,,REP,Donald J. Trump,148
+Seneca,Town of Seneca Falls 3,President,,,Write-in,2
+Seneca,Town of Seneca Falls 4,President,,DEM,Kamala D. Harris,283
+Seneca,Town of Seneca Falls 4,President,,WOR,Kamala D. Harris,11
+Seneca,Town of Seneca Falls 4,President,,CON,Donald J. Trump,25
+Seneca,Town of Seneca Falls 4,President,,REP,Donald J. Trump,324
+Seneca,Town of Seneca Falls 4,President,,,Write-in,2
+Seneca,Town of Seneca Falls 5,President,,DEM,Kamala D. Harris,199
+Seneca,Town of Seneca Falls 5,President,,WOR,Kamala D. Harris,14
+Seneca,Town of Seneca Falls 5,President,,CON,Donald J. Trump,22
+Seneca,Town of Seneca Falls 5,President,,REP,Donald J. Trump,258
+Seneca,Town of Seneca Falls 5,President,,,Write-in,4
+Seneca,Town of Seneca Falls 6,President,,DEM,Kamala D. Harris,231
+Seneca,Town of Seneca Falls 6,President,,WOR,Kamala D. Harris,11
+Seneca,Town of Seneca Falls 6,President,,CON,Donald J. Trump,27
+Seneca,Town of Seneca Falls 6,President,,REP,Donald J. Trump,225
+Seneca,Town of Seneca Falls 6,President,,,Write-in,5
+Seneca,Town of Seneca Falls 7,President,,DEM,Kamala D. Harris,177
+Seneca,Town of Seneca Falls 7,President,,WOR,Kamala D. Harris,11
+Seneca,Town of Seneca Falls 7,President,,CON,Donald J. Trump,10
+Seneca,Town of Seneca Falls 7,President,,REP,Donald J. Trump,112
+Seneca,Town of Seneca Falls 7,President,,,Write-in,3
+Seneca,Town of Seneca Falls 8,President,,DEM,Kamala D. Harris,298
+Seneca,Town of Seneca Falls 8,President,,WOR,Kamala D. Harris,15
+Seneca,Town of Seneca Falls 8,President,,CON,Donald J. Trump,32
+Seneca,Town of Seneca Falls 8,President,,REP,Donald J. Trump,373
+Seneca,Town of Seneca Falls 8,President,,,Write-in,7
+Seneca,Town of Tyre 1,President,,DEM,Kamala D. Harris,127
+Seneca,Town of Tyre 1,President,,WOR,Kamala D. Harris,8
+Seneca,Town of Tyre 1,President,,CON,Donald J. Trump,29
+Seneca,Town of Tyre 1,President,,REP,Donald J. Trump,259
+Seneca,Town of Tyre 1,President,,,Write-in,0
+Seneca,Town of Varick 1,President,,DEM,Kamala D. Harris,280
+Seneca,Town of Varick 1,President,,WOR,Kamala D. Harris,13
+Seneca,Town of Varick 1,President,,CON,Donald J. Trump,40
+Seneca,Town of Varick 1,President,,REP,Donald J. Trump,390
+Seneca,Town of Varick 1,President,,,Write-in,5
+Seneca,Town of Waterloo 1,President,,DEM,Kamala D. Harris,293
+Seneca,Town of Waterloo 1,President,,WOR,Kamala D. Harris,23
+Seneca,Town of Waterloo 1,President,,CON,Donald J. Trump,34
+Seneca,Town of Waterloo 1,President,,REP,Donald J. Trump,383
+Seneca,Town of Waterloo 1,President,,,Write-in,2
+Seneca,Town of Waterloo 2,President,,DEM,Kamala D. Harris,252
+Seneca,Town of Waterloo 2,President,,WOR,Kamala D. Harris,8
+Seneca,Town of Waterloo 2,President,,CON,Donald J. Trump,34
+Seneca,Town of Waterloo 2,President,,REP,Donald J. Trump,351
+Seneca,Town of Waterloo 2,President,,,Write-in,7
+Seneca,Town of Waterloo 3,President,,DEM,Kamala D. Harris,195
+Seneca,Town of Waterloo 3,President,,WOR,Kamala D. Harris,20
+Seneca,Town of Waterloo 3,President,,CON,Donald J. Trump,26
+Seneca,Town of Waterloo 3,President,,REP,Donald J. Trump,279
+Seneca,Town of Waterloo 3,President,,,Write-in,5
+Seneca,Town of Waterloo 4,President,,DEM,Kamala D. Harris,282
+Seneca,Town of Waterloo 4,President,,WOR,Kamala D. Harris,27
+Seneca,Town of Waterloo 4,President,,CON,Donald J. Trump,57
+Seneca,Town of Waterloo 4,President,,REP,Donald J. Trump,577
+Seneca,Town of Waterloo 4,President,,,Write-in,4
+Seneca,Town of Waterloo 5,President,,DEM,Kamala D. Harris,186
+Seneca,Town of Waterloo 5,President,,WOR,Kamala D. Harris,6
+Seneca,Town of Waterloo 5,President,,CON,Donald J. Trump,21
+Seneca,Town of Waterloo 5,President,,REP,Donald J. Trump,286
+Seneca,Town of Waterloo 5,President,,,Write-in,3
+Seneca,Town of Covert 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,379
+Seneca,Town of Covert 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,36
+Seneca,Town of Covert 1,U.S. Senate,,CON,Michael D. Sapraicone,39
+Seneca,Town of Covert 1,U.S. Senate,,REP,Michael D. Sapraicone,263
+Seneca,Town of Covert 1,U.S. Senate,,LAR,Diane Sare,1
+Seneca,Town of Covert 1,U.S. Senate,,,Write-in,1
+Seneca,Town of Covert 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,295
+Seneca,Town of Covert 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,45
+Seneca,Town of Covert 2,U.S. Senate,,CON,Michael D. Sapraicone,29
+Seneca,Town of Covert 2,U.S. Senate,,REP,Michael D. Sapraicone,200
+Seneca,Town of Covert 2,U.S. Senate,,LAR,Diane Sare,4
+Seneca,Town of Covert 2,U.S. Senate,,,Write-in,1
+Seneca,Town of Fayette 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,209
+Seneca,Town of Fayette 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,21
+Seneca,Town of Fayette 1,U.S. Senate,,CON,Michael D. Sapraicone,32
+Seneca,Town of Fayette 1,U.S. Senate,,REP,Michael D. Sapraicone,223
+Seneca,Town of Fayette 1,U.S. Senate,,LAR,Diane Sare,2
+Seneca,Town of Fayette 1,U.S. Senate,,,Write-in,0
+Seneca,Town of Fayette 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,247
+Seneca,Town of Fayette 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,30
+Seneca,Town of Fayette 2,U.S. Senate,,CON,Michael D. Sapraicone,39
+Seneca,Town of Fayette 2,U.S. Senate,,REP,Michael D. Sapraicone,302
+Seneca,Town of Fayette 2,U.S. Senate,,LAR,Diane Sare,2
+Seneca,Town of Fayette 2,U.S. Senate,,,Write-in,0
+Seneca,Town of Fayette 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,248
+Seneca,Town of Fayette 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,27
+Seneca,Town of Fayette 3,U.S. Senate,,CON,Michael D. Sapraicone,39
+Seneca,Town of Fayette 3,U.S. Senate,,REP,Michael D. Sapraicone,357
+Seneca,Town of Fayette 3,U.S. Senate,,LAR,Diane Sare,5
+Seneca,Town of Fayette 3,U.S. Senate,,,Write-in,0
+Seneca,Town of Junius 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,148
+Seneca,Town of Junius 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,23
+Seneca,Town of Junius 1,U.S. Senate,,CON,Michael D. Sapraicone,32
+Seneca,Town of Junius 1,U.S. Senate,,REP,Michael D. Sapraicone,328
+Seneca,Town of Junius 1,U.S. Senate,,LAR,Diane Sare,3
+Seneca,Town of Junius 1,U.S. Senate,,,Write-in,0
+Seneca,Town of Lodi 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,330
+Seneca,Town of Lodi 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,34
+Seneca,Town of Lodi 1,U.S. Senate,,CON,Michael D. Sapraicone,38
+Seneca,Town of Lodi 1,U.S. Senate,,REP,Michael D. Sapraicone,384
+Seneca,Town of Lodi 1,U.S. Senate,,LAR,Diane Sare,0
+Seneca,Town of Lodi 1,U.S. Senate,,,Write-in,1
+Seneca,Town of Ovid 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,200
+Seneca,Town of Ovid 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,21
+Seneca,Town of Ovid 1,U.S. Senate,,CON,Michael D. Sapraicone,23
+Seneca,Town of Ovid 1,U.S. Senate,,REP,Michael D. Sapraicone,244
+Seneca,Town of Ovid 1,U.S. Senate,,LAR,Diane Sare,2
+Seneca,Town of Ovid 1,U.S. Senate,,,Write-in,0
+Seneca,Town of Ovid 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,190
+Seneca,Town of Ovid 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,19
+Seneca,Town of Ovid 2,U.S. Senate,,CON,Michael D. Sapraicone,29
+Seneca,Town of Ovid 2,U.S. Senate,,REP,Michael D. Sapraicone,263
+Seneca,Town of Ovid 2,U.S. Senate,,LAR,Diane Sare,2
+Seneca,Town of Ovid 2,U.S. Senate,,,Write-in,0
+Seneca,Town of Romulus 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,103
+Seneca,Town of Romulus 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,9
+Seneca,Town of Romulus 1,U.S. Senate,,CON,Michael D. Sapraicone,17
+Seneca,Town of Romulus 1,U.S. Senate,,REP,Michael D. Sapraicone,137
+Seneca,Town of Romulus 1,U.S. Senate,,LAR,Diane Sare,0
+Seneca,Town of Romulus 1,U.S. Senate,,,Write-in,0
+Seneca,Town of Romulus 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,179
+Seneca,Town of Romulus 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,14
+Seneca,Town of Romulus 2,U.S. Senate,,CON,Michael D. Sapraicone,26
+Seneca,Town of Romulus 2,U.S. Senate,,REP,Michael D. Sapraicone,145
+Seneca,Town of Romulus 2,U.S. Senate,,LAR,Diane Sare,1
+Seneca,Town of Romulus 2,U.S. Senate,,,Write-in,0
+Seneca,Town of Romulus 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,114
+Seneca,Town of Romulus 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,13
+Seneca,Town of Romulus 3,U.S. Senate,,CON,Michael D. Sapraicone,20
+Seneca,Town of Romulus 3,U.S. Senate,,REP,Michael D. Sapraicone,120
+Seneca,Town of Romulus 3,U.S. Senate,,LAR,Diane Sare,0
+Seneca,Town of Romulus 3,U.S. Senate,,,Write-in,0
+Seneca,Town of Seneca Falls 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,258
+Seneca,Town of Seneca Falls 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Seneca,Town of Seneca Falls 1,U.S. Senate,,CON,Michael D. Sapraicone,31
+Seneca,Town of Seneca Falls 1,U.S. Senate,,REP,Michael D. Sapraicone,183
+Seneca,Town of Seneca Falls 1,U.S. Senate,,LAR,Diane Sare,2
+Seneca,Town of Seneca Falls 1,U.S. Senate,,,Write-in,0
+Seneca,Town of Seneca Falls 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,287
+Seneca,Town of Seneca Falls 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,23
+Seneca,Town of Seneca Falls 2,U.S. Senate,,CON,Michael D. Sapraicone,22
+Seneca,Town of Seneca Falls 2,U.S. Senate,,REP,Michael D. Sapraicone,248
+Seneca,Town of Seneca Falls 2,U.S. Senate,,LAR,Diane Sare,2
+Seneca,Town of Seneca Falls 2,U.S. Senate,,,Write-in,0
+Seneca,Town of Seneca Falls 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,176
+Seneca,Town of Seneca Falls 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,23
+Seneca,Town of Seneca Falls 3,U.S. Senate,,CON,Michael D. Sapraicone,14
+Seneca,Town of Seneca Falls 3,U.S. Senate,,REP,Michael D. Sapraicone,131
+Seneca,Town of Seneca Falls 3,U.S. Senate,,LAR,Diane Sare,1
+Seneca,Town of Seneca Falls 3,U.S. Senate,,,Write-in,0
+Seneca,Town of Seneca Falls 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,273
+Seneca,Town of Seneca Falls 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,24
+Seneca,Town of Seneca Falls 4,U.S. Senate,,CON,Michael D. Sapraicone,28
+Seneca,Town of Seneca Falls 4,U.S. Senate,,REP,Michael D. Sapraicone,292
+Seneca,Town of Seneca Falls 4,U.S. Senate,,LAR,Diane Sare,5
+Seneca,Town of Seneca Falls 4,U.S. Senate,,,Write-in,0
+Seneca,Town of Seneca Falls 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,204
+Seneca,Town of Seneca Falls 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,21
+Seneca,Town of Seneca Falls 5,U.S. Senate,,CON,Michael D. Sapraicone,23
+Seneca,Town of Seneca Falls 5,U.S. Senate,,REP,Michael D. Sapraicone,217
+Seneca,Town of Seneca Falls 5,U.S. Senate,,LAR,Diane Sare,2
+Seneca,Town of Seneca Falls 5,U.S. Senate,,,Write-in,0
+Seneca,Town of Seneca Falls 6,U.S. Senate,,DEM,Kirsten E. Gillibrand,235
+Seneca,Town of Seneca Falls 6,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Seneca,Town of Seneca Falls 6,U.S. Senate,,CON,Michael D. Sapraicone,22
+Seneca,Town of Seneca Falls 6,U.S. Senate,,REP,Michael D. Sapraicone,207
+Seneca,Town of Seneca Falls 6,U.S. Senate,,LAR,Diane Sare,0
+Seneca,Town of Seneca Falls 6,U.S. Senate,,,Write-in,0
+Seneca,Town of Seneca Falls 7,U.S. Senate,,DEM,Kirsten E. Gillibrand,167
+Seneca,Town of Seneca Falls 7,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Seneca,Town of Seneca Falls 7,U.S. Senate,,CON,Michael D. Sapraicone,9
+Seneca,Town of Seneca Falls 7,U.S. Senate,,REP,Michael D. Sapraicone,114
+Seneca,Town of Seneca Falls 7,U.S. Senate,,LAR,Diane Sare,1
+Seneca,Town of Seneca Falls 7,U.S. Senate,,,Write-in,0
+Seneca,Town of Seneca Falls 8,U.S. Senate,,DEM,Kirsten E. Gillibrand,293
+Seneca,Town of Seneca Falls 8,U.S. Senate,,WOR,Kirsten E. Gillibrand,26
+Seneca,Town of Seneca Falls 8,U.S. Senate,,CON,Michael D. Sapraicone,35
+Seneca,Town of Seneca Falls 8,U.S. Senate,,REP,Michael D. Sapraicone,351
+Seneca,Town of Seneca Falls 8,U.S. Senate,,LAR,Diane Sare,1
+Seneca,Town of Seneca Falls 8,U.S. Senate,,,Write-in,1
+Seneca,Town of Tyre 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,126
+Seneca,Town of Tyre 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,14
+Seneca,Town of Tyre 1,U.S. Senate,,CON,Michael D. Sapraicone,29
+Seneca,Town of Tyre 1,U.S. Senate,,REP,Michael D. Sapraicone,231
+Seneca,Town of Tyre 1,U.S. Senate,,LAR,Diane Sare,2
+Seneca,Town of Tyre 1,U.S. Senate,,,Write-in,0
+Seneca,Town of Varick 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,274
+Seneca,Town of Varick 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,27
+Seneca,Town of Varick 1,U.S. Senate,,CON,Michael D. Sapraicone,48
+Seneca,Town of Varick 1,U.S. Senate,,REP,Michael D. Sapraicone,358
+Seneca,Town of Varick 1,U.S. Senate,,LAR,Diane Sare,2
+Seneca,Town of Varick 1,U.S. Senate,,,Write-in,0
+Seneca,Town of Waterloo 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,295
+Seneca,Town of Waterloo 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,40
+Seneca,Town of Waterloo 1,U.S. Senate,,CON,Michael D. Sapraicone,35
+Seneca,Town of Waterloo 1,U.S. Senate,,REP,Michael D. Sapraicone,328
+Seneca,Town of Waterloo 1,U.S. Senate,,LAR,Diane Sare,5
+Seneca,Town of Waterloo 1,U.S. Senate,,,Write-in,1
+Seneca,Town of Waterloo 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,255
+Seneca,Town of Waterloo 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,23
+Seneca,Town of Waterloo 2,U.S. Senate,,CON,Michael D. Sapraicone,35
+Seneca,Town of Waterloo 2,U.S. Senate,,REP,Michael D. Sapraicone,318
+Seneca,Town of Waterloo 2,U.S. Senate,,LAR,Diane Sare,2
+Seneca,Town of Waterloo 2,U.S. Senate,,,Write-in,0
+Seneca,Town of Waterloo 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,195
+Seneca,Town of Waterloo 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,22
+Seneca,Town of Waterloo 3,U.S. Senate,,CON,Michael D. Sapraicone,30
+Seneca,Town of Waterloo 3,U.S. Senate,,REP,Michael D. Sapraicone,247
+Seneca,Town of Waterloo 3,U.S. Senate,,LAR,Diane Sare,2
+Seneca,Town of Waterloo 3,U.S. Senate,,,Write-in,0
+Seneca,Town of Waterloo 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,294
+Seneca,Town of Waterloo 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,32
+Seneca,Town of Waterloo 4,U.S. Senate,,CON,Michael D. Sapraicone,57
+Seneca,Town of Waterloo 4,U.S. Senate,,REP,Michael D. Sapraicone,520
+Seneca,Town of Waterloo 4,U.S. Senate,,LAR,Diane Sare,2
+Seneca,Town of Waterloo 4,U.S. Senate,,,Write-in,0
+Seneca,Town of Waterloo 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,186
+Seneca,Town of Waterloo 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Seneca,Town of Waterloo 5,U.S. Senate,,CON,Michael D. Sapraicone,23
+Seneca,Town of Waterloo 5,U.S. Senate,,REP,Michael D. Sapraicone,254
+Seneca,Town of Waterloo 5,U.S. Senate,,LAR,Diane Sare,2
+Seneca,Town of Waterloo 5,U.S. Senate,,,Write-in,0
+Seneca,Town of Covert 1,U.S. House,24,DEM,Wagenhauser,385
+Seneca,Town of Covert 1,U.S. House,24,CON,Tenney,43
+Seneca,Town of Covert 1,U.S. House,24,REP,Tenney,281
+Seneca,Town of Covert 1,U.S. House,24,,Write-in,0
+Seneca,Town of Covert 2,U.S. House,24,DEM,Wagenhauser,316
+Seneca,Town of Covert 2,U.S. House,24,CON,Tenney,31
+Seneca,Town of Covert 2,U.S. House,24,REP,Tenney,218
+Seneca,Town of Covert 2,U.S. House,24,,Write-in,0
+Seneca,Town of Fayette 1,U.S. House,24,DEM,Wagenhauser,196
+Seneca,Town of Fayette 1,U.S. House,24,CON,Tenney,37
+Seneca,Town of Fayette 1,U.S. House,24,REP,Tenney,256
+Seneca,Town of Fayette 1,U.S. House,24,,Write-in,0
+Seneca,Town of Fayette 2,U.S. House,24,DEM,Wagenhauser,243
+Seneca,Town of Fayette 2,U.S. House,24,CON,Tenney,49
+Seneca,Town of Fayette 2,U.S. House,24,REP,Tenney,335
+Seneca,Town of Fayette 2,U.S. House,24,,Write-in,1
+Seneca,Town of Fayette 3,U.S. House,24,DEM,Wagenhauser,224
+Seneca,Town of Fayette 3,U.S. House,24,CON,Tenney,61
+Seneca,Town of Fayette 3,U.S. House,24,REP,Tenney,384
+Seneca,Town of Fayette 3,U.S. House,24,,Write-in,0
+Seneca,Town of Junius 1,U.S. House,24,DEM,Wagenhauser,139
+Seneca,Town of Junius 1,U.S. House,24,CON,Tenney,42
+Seneca,Town of Junius 1,U.S. House,24,REP,Tenney,343
+Seneca,Town of Junius 1,U.S. House,24,,Write-in,1
+Seneca,Town of Lodi 1,U.S. House,24,DEM,Wagenhauser,331
+Seneca,Town of Lodi 1,U.S. House,24,CON,Tenney,50
+Seneca,Town of Lodi 1,U.S. House,24,REP,Tenney,408
+Seneca,Town of Lodi 1,U.S. House,24,,Write-in,2
+Seneca,Town of Ovid 1,U.S. House,24,DEM,Wagenhauser,183
+Seneca,Town of Ovid 1,U.S. House,24,CON,Tenney,22
+Seneca,Town of Ovid 1,U.S. House,24,REP,Tenney,272
+Seneca,Town of Ovid 1,U.S. House,24,,Write-in,0
+Seneca,Town of Ovid 2,U.S. House,24,DEM,Wagenhauser,179
+Seneca,Town of Ovid 2,U.S. House,24,CON,Tenney,37
+Seneca,Town of Ovid 2,U.S. House,24,REP,Tenney,284
+Seneca,Town of Ovid 2,U.S. House,24,,Write-in,0
+Seneca,Town of Romulus 1,U.S. House,24,DEM,Wagenhauser,95
+Seneca,Town of Romulus 1,U.S. House,24,CON,Tenney,19
+Seneca,Town of Romulus 1,U.S. House,24,REP,Tenney,153
+Seneca,Town of Romulus 1,U.S. House,24,,Write-in,0
+Seneca,Town of Romulus 2,U.S. House,24,DEM,Wagenhauser,179
+Seneca,Town of Romulus 2,U.S. House,24,CON,Tenney,37
+Seneca,Town of Romulus 2,U.S. House,24,REP,Tenney,153
+Seneca,Town of Romulus 2,U.S. House,24,,Write-in,0
+Seneca,Town of Romulus 3,U.S. House,24,DEM,Wagenhauser,107
+Seneca,Town of Romulus 3,U.S. House,24,CON,Tenney,20
+Seneca,Town of Romulus 3,U.S. House,24,REP,Tenney,137
+Seneca,Town of Romulus 3,U.S. House,24,,Write-in,3
+Seneca,Town of Seneca Falls 1,U.S. House,24,DEM,Wagenhauser,266
+Seneca,Town of Seneca Falls 1,U.S. House,24,CON,Tenney,31
+Seneca,Town of Seneca Falls 1,U.S. House,24,REP,Tenney,194
+Seneca,Town of Seneca Falls 1,U.S. House,24,,Write-in,0
+Seneca,Town of Seneca Falls 2,U.S. House,24,DEM,Wagenhauser,281
+Seneca,Town of Seneca Falls 2,U.S. House,24,CON,Tenney,27
+Seneca,Town of Seneca Falls 2,U.S. House,24,REP,Tenney,268
+Seneca,Town of Seneca Falls 2,U.S. House,24,,Write-in,0
+Seneca,Town of Seneca Falls 3,U.S. House,24,DEM,Wagenhauser,172
+Seneca,Town of Seneca Falls 3,U.S. House,24,CON,Tenney,24
+Seneca,Town of Seneca Falls 3,U.S. House,24,REP,Tenney,147
+Seneca,Town of Seneca Falls 3,U.S. House,24,,Write-in,0
+Seneca,Town of Seneca Falls 4,U.S. House,24,DEM,Wagenhauser,263
+Seneca,Town of Seneca Falls 4,U.S. House,24,CON,Tenney,33
+Seneca,Town of Seneca Falls 4,U.S. House,24,REP,Tenney,324
+Seneca,Town of Seneca Falls 4,U.S. House,24,,Write-in,0
+Seneca,Town of Seneca Falls 5,U.S. House,24,DEM,Wagenhauser,194
+Seneca,Town of Seneca Falls 5,U.S. House,24,CON,Tenney,28
+Seneca,Town of Seneca Falls 5,U.S. House,24,REP,Tenney,253
+Seneca,Town of Seneca Falls 5,U.S. House,24,,Write-in,0
+Seneca,Town of Seneca Falls 6,U.S. House,24,DEM,Wagenhauser,227
+Seneca,Town of Seneca Falls 6,U.S. House,24,CON,Tenney,31
+Seneca,Town of Seneca Falls 6,U.S. House,24,REP,Tenney,224
+Seneca,Town of Seneca Falls 6,U.S. House,24,,Write-in,1
+Seneca,Town of Seneca Falls 7,U.S. House,24,DEM,Wagenhauser,173
+Seneca,Town of Seneca Falls 7,U.S. House,24,CON,Tenney,12
+Seneca,Town of Seneca Falls 7,U.S. House,24,REP,Tenney,119
+Seneca,Town of Seneca Falls 7,U.S. House,24,,Write-in,0
+Seneca,Town of Seneca Falls 8,U.S. House,24,DEM,Wagenhauser,273
+Seneca,Town of Seneca Falls 8,U.S. House,24,CON,Tenney,43
+Seneca,Town of Seneca Falls 8,U.S. House,24,REP,Tenney,389
+Seneca,Town of Seneca Falls 8,U.S. House,24,,Write-in,2
+Seneca,Town of Tyre 1,U.S. House,24,DEM,Wagenhauser,119
+Seneca,Town of Tyre 1,U.S. House,24,CON,Tenney,30
+Seneca,Town of Tyre 1,U.S. House,24,REP,Tenney,253
+Seneca,Town of Tyre 1,U.S. House,24,,Write-in,0
+Seneca,Town of Varick 1,U.S. House,24,DEM,Wagenhauser,276
+Seneca,Town of Varick 1,U.S. House,24,CON,Tenney,46
+Seneca,Town of Varick 1,U.S. House,24,REP,Tenney,388
+Seneca,Town of Varick 1,U.S. House,24,,Write-in,1
+Seneca,Town of Waterloo 1,U.S. House,24,DEM,Wagenhauser,284
+Seneca,Town of Waterloo 1,U.S. House,24,CON,Tenney,45
+Seneca,Town of Waterloo 1,U.S. House,24,REP,Tenney,363
+Seneca,Town of Waterloo 1,U.S. House,24,,Write-in,2
+Seneca,Town of Waterloo 2,U.S. House,24,DEM,Wagenhauser,237
+Seneca,Town of Waterloo 2,U.S. House,24,CON,Tenney,41
+Seneca,Town of Waterloo 2,U.S. House,24,REP,Tenney,349
+Seneca,Town of Waterloo 2,U.S. House,24,,Write-in,1
+Seneca,Town of Waterloo 3,U.S. House,24,DEM,Wagenhauser,192
+Seneca,Town of Waterloo 3,U.S. House,24,CON,Tenney,40
+Seneca,Town of Waterloo 3,U.S. House,24,REP,Tenney,264
+Seneca,Town of Waterloo 3,U.S. House,24,,Write-in,2
+Seneca,Town of Waterloo 4,U.S. House,24,DEM,Wagenhauser,269
+Seneca,Town of Waterloo 4,U.S. House,24,CON,Tenney,69
+Seneca,Town of Waterloo 4,U.S. House,24,REP,Tenney,563
+Seneca,Town of Waterloo 4,U.S. House,24,,Write-in,2
+Seneca,Town of Waterloo 5,U.S. House,24,DEM,Wagenhauser,170
+Seneca,Town of Waterloo 5,U.S. House,24,CON,Tenney,29
+Seneca,Town of Waterloo 5,U.S. House,24,REP,Tenney,284
+Seneca,Town of Waterloo 5,U.S. House,24,,Write-in,0
+Seneca,Town of Covert 1,State Senate,58,CON,Thomas F. O'Mara,63
+Seneca,Town of Covert 1,State Senate,58,REP,Thomas F. O'Mara,352
+Seneca,Town of Covert 1,State Senate,58,,Write-in,5
+Seneca,Town of Covert 2,State Senate,58,CON,Thomas F. O'Mara,69
+Seneca,Town of Covert 2,State Senate,58,REP,Thomas F. O'Mara,271
+Seneca,Town of Covert 2,State Senate,58,,Write-in,7
+Seneca,Town of Fayette 1,State Senate,58,CON,Thomas F. O'Mara,67
+Seneca,Town of Fayette 1,State Senate,58,REP,Thomas F. O'Mara,302
+Seneca,Town of Fayette 1,State Senate,58,,Write-in,3
+Seneca,Town of Fayette 2,State Senate,58,CON,Thomas F. O'Mara,73
+Seneca,Town of Fayette 2,State Senate,58,REP,Thomas F. O'Mara,399
+Seneca,Town of Fayette 2,State Senate,58,,Write-in,1
+Seneca,Town of Fayette 3,State Senate,58,CON,Thomas F. O'Mara,89
+Seneca,Town of Fayette 3,State Senate,58,REP,Thomas F. O'Mara,429
+Seneca,Town of Fayette 3,State Senate,58,,Write-in,2
+Seneca,Town of Junius 1,State Senate,58,CON,Thomas F. O'Mara,61
+Seneca,Town of Junius 1,State Senate,58,REP,Thomas F. O'Mara,382
+Seneca,Town of Junius 1,State Senate,58,,Write-in,3
+Seneca,Town of Lodi 1,State Senate,58,CON,Thomas F. O'Mara,89
+Seneca,Town of Lodi 1,State Senate,58,REP,Thomas F. O'Mara,472
+Seneca,Town of Lodi 1,State Senate,58,,Write-in,1
+Seneca,Town of Ovid 1,State Senate,58,CON,Thomas F. O'Mara,49
+Seneca,Town of Ovid 1,State Senate,58,REP,Thomas F. O'Mara,305
+Seneca,Town of Ovid 1,State Senate,58,,Write-in,6
+Seneca,Town of Ovid 2,State Senate,58,CON,Thomas F. O'Mara,50
+Seneca,Town of Ovid 2,State Senate,58,REP,Thomas F. O'Mara,327
+Seneca,Town of Ovid 2,State Senate,58,,Write-in,3
+Seneca,Town of Romulus 1,State Senate,58,CON,Thomas F. O'Mara,30
+Seneca,Town of Romulus 1,State Senate,58,REP,Thomas F. O'Mara,172
+Seneca,Town of Romulus 1,State Senate,58,,Write-in,1
+Seneca,Town of Romulus 2,State Senate,58,CON,Thomas F. O'Mara,47
+Seneca,Town of Romulus 2,State Senate,58,REP,Thomas F. O'Mara,201
+Seneca,Town of Romulus 2,State Senate,58,,Write-in,4
+Seneca,Town of Romulus 3,State Senate,58,CON,Thomas F. O'Mara,34
+Seneca,Town of Romulus 3,State Senate,58,REP,Thomas F. O'Mara,174
+Seneca,Town of Romulus 3,State Senate,58,,Write-in,3
+Seneca,Town of Seneca Falls 1,State Senate,58,CON,Thomas F. O'Mara,68
+Seneca,Town of Seneca Falls 1,State Senate,58,REP,Thomas F. O'Mara,260
+Seneca,Town of Seneca Falls 1,State Senate,58,,Write-in,3
+Seneca,Town of Seneca Falls 2,State Senate,58,CON,Thomas F. O'Mara,75
+Seneca,Town of Seneca Falls 2,State Senate,58,REP,Thomas F. O'Mara,321
+Seneca,Town of Seneca Falls 2,State Senate,58,,Write-in,6
+Seneca,Town of Seneca Falls 3,State Senate,58,CON,Thomas F. O'Mara,42
+Seneca,Town of Seneca Falls 3,State Senate,58,REP,Thomas F. O'Mara,178
+Seneca,Town of Seneca Falls 3,State Senate,58,,Write-in,5
+Seneca,Town of Seneca Falls 4,State Senate,58,CON,Thomas F. O'Mara,88
+Seneca,Town of Seneca Falls 4,State Senate,58,REP,Thomas F. O'Mara,386
+Seneca,Town of Seneca Falls 4,State Senate,58,,Write-in,5
+Seneca,Town of Seneca Falls 5,State Senate,58,CON,Thomas F. O'Mara,54
+Seneca,Town of Seneca Falls 5,State Senate,58,REP,Thomas F. O'Mara,289
+Seneca,Town of Seneca Falls 5,State Senate,58,,Write-in,0
+Seneca,Town of Seneca Falls 6,State Senate,58,CON,Thomas F. O'Mara,68
+Seneca,Town of Seneca Falls 6,State Senate,58,REP,Thomas F. O'Mara,290
+Seneca,Town of Seneca Falls 6,State Senate,58,,Write-in,2
+Seneca,Town of Seneca Falls 7,State Senate,58,CON,Thomas F. O'Mara,40
+Seneca,Town of Seneca Falls 7,State Senate,58,REP,Thomas F. O'Mara,155
+Seneca,Town of Seneca Falls 7,State Senate,58,,Write-in,2
+Seneca,Town of Seneca Falls 8,State Senate,58,CON,Thomas F. O'Mara,82
+Seneca,Town of Seneca Falls 8,State Senate,58,REP,Thomas F. O'Mara,459
+Seneca,Town of Seneca Falls 8,State Senate,58,,Write-in,5
+Seneca,Town of Tyre 1,State Senate,58,CON,Thomas F. O'Mara,51
+Seneca,Town of Tyre 1,State Senate,58,REP,Thomas F. O'Mara,276
+Seneca,Town of Tyre 1,State Senate,58,,Write-in,0
+Seneca,Town of Varick 1,State Senate,58,CON,Thomas F. O'Mara,79
+Seneca,Town of Varick 1,State Senate,58,REP,Thomas F. O'Mara,441
+Seneca,Town of Varick 1,State Senate,58,,Write-in,1
+Seneca,Town of Waterloo 1,State Senate,58,CON,Thomas F. O'Mara,99
+Seneca,Town of Waterloo 1,State Senate,58,REP,Thomas F. O'Mara,438
+Seneca,Town of Waterloo 1,State Senate,58,,Write-in,6
+Seneca,Town of Waterloo 2,State Senate,58,CON,Thomas F. O'Mara,79
+Seneca,Town of Waterloo 2,State Senate,58,REP,Thomas F. O'Mara,405
+Seneca,Town of Waterloo 2,State Senate,58,,Write-in,5
+Seneca,Town of Waterloo 3,State Senate,58,CON,Thomas F. O'Mara,64
+Seneca,Town of Waterloo 3,State Senate,58,REP,Thomas F. O'Mara,321
+Seneca,Town of Waterloo 3,State Senate,58,,Write-in,1
+Seneca,Town of Waterloo 4,State Senate,58,CON,Thomas F. O'Mara,119
+Seneca,Town of Waterloo 4,State Senate,58,REP,Thomas F. O'Mara,620
+Seneca,Town of Waterloo 4,State Senate,58,,Write-in,1
+Seneca,Town of Waterloo 5,State Senate,58,CON,Thomas F. O'Mara,50
+Seneca,Town of Waterloo 5,State Senate,58,REP,Thomas F. O'Mara,322
+Seneca,Town of Waterloo 5,State Senate,58,,Write-in,3
+Seneca,Town of Fayette 1,State Assembly,131,CON,Jeff Gallahan,67
+Seneca,Town of Fayette 1,State Assembly,131,REP,Jeff Gallahan,301
+Seneca,Town of Fayette 1,State Assembly,131,,Write-in,3
+Seneca,Town of Fayette 2,State Assembly,131,CON,Jeff Gallahan,69
+Seneca,Town of Fayette 2,State Assembly,131,REP,Jeff Gallahan,408
+Seneca,Town of Fayette 2,State Assembly,131,,Write-in,1
+Seneca,Town of Fayette 3,State Assembly,131,CON,Jeff Gallahan,87
+Seneca,Town of Fayette 3,State Assembly,131,REP,Jeff Gallahan,439
+Seneca,Town of Fayette 3,State Assembly,131,,Write-in,2
+Seneca,Town of Junius 1,State Assembly,131,CON,Jeff Gallahan,60
+Seneca,Town of Junius 1,State Assembly,131,REP,Jeff Gallahan,385
+Seneca,Town of Junius 1,State Assembly,131,,Write-in,3
+Seneca,Town of Seneca Falls 1,State Assembly,131,CON,Jeff Gallahan,66
+Seneca,Town of Seneca Falls 1,State Assembly,131,REP,Jeff Gallahan,262
+Seneca,Town of Seneca Falls 1,State Assembly,131,,Write-in,3
+Seneca,Town of Seneca Falls 2,State Assembly,131,CON,Jeff Gallahan,75
+Seneca,Town of Seneca Falls 2,State Assembly,131,REP,Jeff Gallahan,325
+Seneca,Town of Seneca Falls 2,State Assembly,131,,Write-in,6
+Seneca,Town of Seneca Falls 3,State Assembly,131,CON,Jeff Gallahan,41
+Seneca,Town of Seneca Falls 3,State Assembly,131,REP,Jeff Gallahan,183
+Seneca,Town of Seneca Falls 3,State Assembly,131,,Write-in,4
+Seneca,Town of Seneca Falls 4,State Assembly,131,CON,Jeff Gallahan,86
+Seneca,Town of Seneca Falls 4,State Assembly,131,REP,Jeff Gallahan,393
+Seneca,Town of Seneca Falls 4,State Assembly,131,,Write-in,4
+Seneca,Town of Seneca Falls 5,State Assembly,131,CON,Jeff Gallahan,56
+Seneca,Town of Seneca Falls 5,State Assembly,131,REP,Jeff Gallahan,284
+Seneca,Town of Seneca Falls 5,State Assembly,131,,Write-in,0
+Seneca,Town of Seneca Falls 6,State Assembly,131,CON,Jeff Gallahan,65
+Seneca,Town of Seneca Falls 6,State Assembly,131,REP,Jeff Gallahan,290
+Seneca,Town of Seneca Falls 6,State Assembly,131,,Write-in,2
+Seneca,Town of Seneca Falls 7,State Assembly,131,CON,Jeff Gallahan,37
+Seneca,Town of Seneca Falls 7,State Assembly,131,REP,Jeff Gallahan,161
+Seneca,Town of Seneca Falls 7,State Assembly,131,,Write-in,2
+Seneca,Town of Seneca Falls 8,State Assembly,131,CON,Jeff Gallahan,86
+Seneca,Town of Seneca Falls 8,State Assembly,131,REP,Jeff Gallahan,454
+Seneca,Town of Seneca Falls 8,State Assembly,131,,Write-in,5
+Seneca,Town of Tyre 1,State Assembly,131,CON,Jeff Gallahan,50
+Seneca,Town of Tyre 1,State Assembly,131,REP,Jeff Gallahan,273
+Seneca,Town of Tyre 1,State Assembly,131,,Write-in,0
+Seneca,Town of Waterloo 1,State Assembly,131,CON,Jeff Gallahan,98
+Seneca,Town of Waterloo 1,State Assembly,131,REP,Jeff Gallahan,441
+Seneca,Town of Waterloo 1,State Assembly,131,,Write-in,6
+Seneca,Town of Waterloo 2,State Assembly,131,CON,Jeff Gallahan,74
+Seneca,Town of Waterloo 2,State Assembly,131,REP,Jeff Gallahan,411
+Seneca,Town of Waterloo 2,State Assembly,131,,Write-in,5
+Seneca,Town of Waterloo 3,State Assembly,131,CON,Jeff Gallahan,67
+Seneca,Town of Waterloo 3,State Assembly,131,REP,Jeff Gallahan,325
+Seneca,Town of Waterloo 3,State Assembly,131,,Write-in,0
+Seneca,Town of Waterloo 4,State Assembly,131,CON,Jeff Gallahan,123
+Seneca,Town of Waterloo 4,State Assembly,131,REP,Jeff Gallahan,619
+Seneca,Town of Waterloo 4,State Assembly,131,,Write-in,1
+Seneca,Town of Waterloo 5,State Assembly,131,CON,Jeff Gallahan,50
+Seneca,Town of Waterloo 5,State Assembly,131,REP,Jeff Gallahan,321
+Seneca,Town of Waterloo 5,State Assembly,131,,Write-in,2
+Seneca,Town of Covert 1,State Assembly,132,CON,A. Palmesano,66
+Seneca,Town of Covert 1,State Assembly,132,REP,A. Palmesano,347
+Seneca,Town of Covert 1,State Assembly,132,,Write-in,3
+Seneca,Town of Covert 2,State Assembly,132,CON,A. Palmesano,70
+Seneca,Town of Covert 2,State Assembly,132,REP,A. Palmesano,266
+Seneca,Town of Covert 2,State Assembly,132,,Write-in,7
+Seneca,Town of Lodi 1,State Assembly,132,CON,A. Palmesano,90
+Seneca,Town of Lodi 1,State Assembly,132,REP,A. Palmesano,484
+Seneca,Town of Lodi 1,State Assembly,132,,Write-in,1
+Seneca,Town of Ovid 1,State Assembly,132,CON,A. Palmesano,47
+Seneca,Town of Ovid 1,State Assembly,132,REP,A. Palmesano,312
+Seneca,Town of Ovid 1,State Assembly,132,,Write-in,6
+Seneca,Town of Ovid 2,State Assembly,132,CON,A. Palmesano,52
+Seneca,Town of Ovid 2,State Assembly,132,REP,A. Palmesano,324
+Seneca,Town of Ovid 2,State Assembly,132,,Write-in,3
+Seneca,Town of Romulus 1,State Assembly,132,CON,A. Palmesano,29
+Seneca,Town of Romulus 1,State Assembly,132,REP,A. Palmesano,176
+Seneca,Town of Romulus 1,State Assembly,132,,Write-in,1
+Seneca,Town of Romulus 2,State Assembly,132,CON,A. Palmesano,51
+Seneca,Town of Romulus 2,State Assembly,132,REP,A. Palmesano,201
+Seneca,Town of Romulus 2,State Assembly,132,,Write-in,3
+Seneca,Town of Romulus 3,State Assembly,132,CON,A. Palmesano,37
+Seneca,Town of Romulus 3,State Assembly,132,REP,A. Palmesano,170
+Seneca,Town of Romulus 3,State Assembly,132,,Write-in,3
+Seneca,Town of Varick 1,State Assembly,132,CON,A. Palmesano,80
+Seneca,Town of Varick 1,State Assembly,132,REP,A. Palmesano,434
+Seneca,Town of Varick 1,State Assembly,132,,Write-in,1

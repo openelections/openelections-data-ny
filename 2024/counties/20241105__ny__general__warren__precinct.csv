@@ -1,0 +1,779 @@
+county,precinct,office,district,party,candidate,votes
+Warren,Bolton 1,President,,DEM,Kamala D. Harris,566
+Warren,Bolton 1,President,,REP,Donald J. Trump,635
+Warren,Bolton 1,President,,CON,Donald J. Trump,71
+Warren,Bolton 1,President,,WOR,Kamala D. Harris,38
+Warren,Bolton 1,President,,,Write-in,7
+Warren,Bolton 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,578
+Warren,Bolton 1,U.S. Senate,,REP,Michael D. Sapraicone,571
+Warren,Bolton 1,U.S. Senate,,CON,Michael D. Sapraicone,75
+Warren,Bolton 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,54
+Warren,Bolton 1,U.S. Senate,,LAR,Diane Sare,1
+Warren,Bolton 1,U.S. House,21,DEM,Paula Collins,515
+Warren,Bolton 1,U.S. House,21,REP,Elise M. Stefanik,672
+Warren,Bolton 1,U.S. House,21,CON,Elise M. Stefanik,79
+Warren,Bolton 1,U.S. House,21,WOR,Paula Collins,35
+Warren,Bolton 1,U.S. House,21,,Write-in,1
+Warren,Bolton 1,State Senate,45,REP,Daniel G. Stec,783
+Warren,Bolton 1,State Senate,45,CON,Daniel G. Stec,131
+Warren,Bolton 1,State Senate,45,,Write-in,12
+Warren,Bolton 1,State Assembly,114,REP,Matthew J. Simpson,791
+Warren,Bolton 1,State Assembly,114,CON,Matthew J. Simpson,132
+Warren,Bolton 1,State Assembly,114,,Write-in,9
+Warren,Chester 1,President,,DEM,Kamala D. Harris,369
+Warren,Chester 1,President,,REP,Donald J. Trump,556
+Warren,Chester 1,President,,CON,Donald J. Trump,47
+Warren,Chester 1,President,,WOR,Kamala D. Harris,27
+Warren,Chester 1,President,,,Write-in,6
+Warren,Chester 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,371
+Warren,Chester 1,U.S. Senate,,REP,Michael D. Sapraicone,507
+Warren,Chester 1,U.S. Senate,,CON,Michael D. Sapraicone,50
+Warren,Chester 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,44
+Warren,Chester 1,U.S. Senate,,LAR,Diane Sare,3
+Warren,Chester 1,U.S. House,21,DEM,Paula Collins,344
+Warren,Chester 1,U.S. House,21,REP,Elise M. Stefanik,566
+Warren,Chester 1,U.S. House,21,CON,Elise M. Stefanik,52
+Warren,Chester 1,U.S. House,21,WOR,Paula Collins,28
+Warren,Chester 1,State Senate,45,REP,Daniel G. Stec,661
+Warren,Chester 1,State Senate,45,CON,Daniel G. Stec,90
+Warren,Chester 1,State Senate,45,,Write-in,4
+Warren,Chester 1,State Assembly,114,REP,Matthew J. Simpson,684
+Warren,Chester 1,State Assembly,114,CON,Matthew J. Simpson,89
+Warren,Chester 1,State Assembly,114,,Write-in,2
+Warren,Chester 2,President,,DEM,Kamala D. Harris,302
+Warren,Chester 2,President,,REP,Donald J. Trump,490
+Warren,Chester 2,President,,CON,Donald J. Trump,78
+Warren,Chester 2,President,,WOR,Kamala D. Harris,16
+Warren,Chester 2,President,,,Write-in,12
+Warren,Chester 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,305
+Warren,Chester 2,U.S. Senate,,REP,Michael D. Sapraicone,450
+Warren,Chester 2,U.S. Senate,,CON,Michael D. Sapraicone,77
+Warren,Chester 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,40
+Warren,Chester 2,U.S. Senate,,LAR,Diane Sare,6
+Warren,Chester 2,U.S. House,21,DEM,Paula Collins,280
+Warren,Chester 2,U.S. House,21,REP,Elise M. Stefanik,490
+Warren,Chester 2,U.S. House,21,CON,Elise M. Stefanik,90
+Warren,Chester 2,U.S. House,21,WOR,Paula Collins,24
+Warren,Chester 2,State Senate,45,REP,Daniel G. Stec,575
+Warren,Chester 2,State Senate,45,CON,Daniel G. Stec,113
+Warren,Chester 2,State Senate,45,,Write-in,6
+Warren,Chester 2,State Assembly,114,REP,Matthew J. Simpson,572
+Warren,Chester 2,State Assembly,114,CON,Matthew J. Simpson,111
+Warren,Chester 2,State Assembly,114,,Write-in,6
+Warren,Glens Falls - Ward 1 1,President,,DEM,Kamala D. Harris,476
+Warren,Glens Falls - Ward 1 1,President,,REP,Donald J. Trump,425
+Warren,Glens Falls - Ward 1 1,President,,CON,Donald J. Trump,47
+Warren,Glens Falls - Ward 1 1,President,,WOR,Kamala D. Harris,43
+Warren,Glens Falls - Ward 1 1,President,,,Write-in,11
+Warren,Glens Falls - Ward 1 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,481
+Warren,Glens Falls - Ward 1 1,U.S. Senate,,REP,Michael D. Sapraicone,370
+Warren,Glens Falls - Ward 1 1,U.S. Senate,,CON,Michael D. Sapraicone,40
+Warren,Glens Falls - Ward 1 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,69
+Warren,Glens Falls - Ward 1 1,U.S. Senate,,LAR,Diane Sare,7
+Warren,Glens Falls - Ward 1 1,U.S. Senate,,,Write-in,1
+Warren,Glens Falls - Ward 1 1,U.S. House,21,DEM,Paula Collins,446
+Warren,Glens Falls - Ward 1 1,U.S. House,21,REP,Elise M. Stefanik,418
+Warren,Glens Falls - Ward 1 1,U.S. House,21,CON,Elise M. Stefanik,50
+Warren,Glens Falls - Ward 1 1,U.S. House,21,WOR,Paula Collins,57
+Warren,Glens Falls - Ward 1 1,State Senate,45,REP,Daniel G. Stec,530
+Warren,Glens Falls - Ward 1 1,State Senate,45,CON,Daniel G. Stec,109
+Warren,Glens Falls - Ward 1 1,State Senate,45,,Write-in,12
+Warren,Glens Falls - Ward 1 1,State Assembly,113,DEM,Carrie Woerner,539
+Warren,Glens Falls - Ward 1 1,State Assembly,113,REP,Jeremy Messina,370
+Warren,Glens Falls - Ward 1 1,State Assembly,113,CON,Jeremy Messina,46
+Warren,Glens Falls - Ward 1 1,State Assembly,113,,Write-in,1
+Warren,Glens Falls - Ward 2 1,President,,DEM,Kamala D. Harris,809
+Warren,Glens Falls - Ward 2 1,President,,REP,Donald J. Trump,490
+Warren,Glens Falls - Ward 2 1,President,,CON,Donald J. Trump,57
+Warren,Glens Falls - Ward 2 1,President,,WOR,Kamala D. Harris,52
+Warren,Glens Falls - Ward 2 1,President,,,Write-in,28
+Warren,Glens Falls - Ward 2 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,807
+Warren,Glens Falls - Ward 2 1,U.S. Senate,,REP,Michael D. Sapraicone,438
+Warren,Glens Falls - Ward 2 1,U.S. Senate,,CON,Michael D. Sapraicone,64
+Warren,Glens Falls - Ward 2 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,82
+Warren,Glens Falls - Ward 2 1,U.S. Senate,,LAR,Diane Sare,10
+Warren,Glens Falls - Ward 2 1,U.S. Senate,,,Write-in,3
+Warren,Glens Falls - Ward 2 1,U.S. House,21,DEM,Paula Collins,747
+Warren,Glens Falls - Ward 2 1,U.S. House,21,REP,Elise M. Stefanik,508
+Warren,Glens Falls - Ward 2 1,U.S. House,21,CON,Elise M. Stefanik,71
+Warren,Glens Falls - Ward 2 1,U.S. House,21,WOR,Paula Collins,79
+Warren,Glens Falls - Ward 2 1,U.S. House,21,,Write-in,3
+Warren,Glens Falls - Ward 2 1,State Senate,45,REP,Daniel G. Stec,725
+Warren,Glens Falls - Ward 2 1,State Senate,45,CON,Daniel G. Stec,159
+Warren,Glens Falls - Ward 2 1,State Senate,45,,Write-in,28
+Warren,Glens Falls - Ward 2 1,State Assembly,113,DEM,Carrie Woerner,880
+Warren,Glens Falls - Ward 2 1,State Assembly,113,REP,Jeremy Messina,455
+Warren,Glens Falls - Ward 2 1,State Assembly,113,CON,Jeremy Messina,65
+Warren,Glens Falls - Ward 2 1,State Assembly,113,,Write-in,2
+Warren,Glens Falls - Ward 3 1,President,,DEM,Kamala D. Harris,846
+Warren,Glens Falls - Ward 3 1,President,,REP,Donald J. Trump,482
+Warren,Glens Falls - Ward 3 1,President,,CON,Donald J. Trump,55
+Warren,Glens Falls - Ward 3 1,President,,WOR,Kamala D. Harris,48
+Warren,Glens Falls - Ward 3 1,President,,,Write-in,26
+Warren,Glens Falls - Ward 3 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,848
+Warren,Glens Falls - Ward 3 1,U.S. Senate,,REP,Michael D. Sapraicone,433
+Warren,Glens Falls - Ward 3 1,U.S. Senate,,CON,Michael D. Sapraicone,58
+Warren,Glens Falls - Ward 3 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,75
+Warren,Glens Falls - Ward 3 1,U.S. Senate,,LAR,Diane Sare,12
+Warren,Glens Falls - Ward 3 1,U.S. Senate,,,Write-in,3
+Warren,Glens Falls - Ward 3 1,U.S. House,21,DEM,Paula Collins,797
+Warren,Glens Falls - Ward 3 1,U.S. House,21,REP,Elise M. Stefanik,501
+Warren,Glens Falls - Ward 3 1,U.S. House,21,CON,Elise M. Stefanik,58
+Warren,Glens Falls - Ward 3 1,U.S. House,21,WOR,Paula Collins,76
+Warren,Glens Falls - Ward 3 1,U.S. House,21,,Write-in,5
+Warren,Glens Falls - Ward 3 1,State Senate,45,REP,Daniel G. Stec,689
+Warren,Glens Falls - Ward 3 1,State Senate,45,CON,Daniel G. Stec,143
+Warren,Glens Falls - Ward 3 1,State Senate,45,,Write-in,41
+Warren,Glens Falls - Ward 3 1,State Assembly,113,DEM,Carrie Woerner,905
+Warren,Glens Falls - Ward 3 1,State Assembly,113,REP,Jeremy Messina,452
+Warren,Glens Falls - Ward 3 1,State Assembly,113,CON,Jeremy Messina,59
+Warren,Glens Falls - Ward 3 1,State Assembly,113,,Write-in,3
+Warren,Glens Falls - Ward 4 1,President,,DEM,Kamala D. Harris,489
+Warren,Glens Falls - Ward 4 1,President,,REP,Donald J. Trump,220
+Warren,Glens Falls - Ward 4 1,President,,CON,Donald J. Trump,14
+Warren,Glens Falls - Ward 4 1,President,,WOR,Kamala D. Harris,38
+Warren,Glens Falls - Ward 4 1,President,,,Write-in,9
+Warren,Glens Falls - Ward 4 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,502
+Warren,Glens Falls - Ward 4 1,U.S. Senate,,REP,Michael D. Sapraicone,185
+Warren,Glens Falls - Ward 4 1,U.S. Senate,,CON,Michael D. Sapraicone,24
+Warren,Glens Falls - Ward 4 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,53
+Warren,Glens Falls - Ward 4 1,U.S. Senate,,LAR,Diane Sare,4
+Warren,Glens Falls - Ward 4 1,U.S. House,21,DEM,Paula Collins,478
+Warren,Glens Falls - Ward 4 1,U.S. House,21,REP,Elise M. Stefanik,221
+Warren,Glens Falls - Ward 4 1,U.S. House,21,CON,Elise M. Stefanik,27
+Warren,Glens Falls - Ward 4 1,U.S. House,21,WOR,Paula Collins,44
+Warren,Glens Falls - Ward 4 1,State Senate,45,REP,Daniel G. Stec,340
+Warren,Glens Falls - Ward 4 1,State Senate,45,CON,Daniel G. Stec,68
+Warren,Glens Falls - Ward 4 1,State Senate,45,,Write-in,17
+Warren,Glens Falls - Ward 4 1,State Assembly,113,DEM,Carrie Woerner,542
+Warren,Glens Falls - Ward 4 1,State Assembly,113,REP,Jeremy Messina,191
+Warren,Glens Falls - Ward 4 1,State Assembly,113,CON,Jeremy Messina,28
+Warren,Glens Falls - Ward 4 2,President,,DEM,Kamala D. Harris,415
+Warren,Glens Falls - Ward 4 2,President,,REP,Donald J. Trump,247
+Warren,Glens Falls - Ward 4 2,President,,CON,Donald J. Trump,29
+Warren,Glens Falls - Ward 4 2,President,,WOR,Kamala D. Harris,20
+Warren,Glens Falls - Ward 4 2,President,,,Write-in,4
+Warren,Glens Falls - Ward 4 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,418
+Warren,Glens Falls - Ward 4 2,U.S. Senate,,REP,Michael D. Sapraicone,213
+Warren,Glens Falls - Ward 4 2,U.S. Senate,,CON,Michael D. Sapraicone,25
+Warren,Glens Falls - Ward 4 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,32
+Warren,Glens Falls - Ward 4 2,U.S. Senate,,LAR,Diane Sare,3
+Warren,Glens Falls - Ward 4 2,U.S. Senate,,,Write-in,2
+Warren,Glens Falls - Ward 4 2,U.S. House,21,DEM,Paula Collins,373
+Warren,Glens Falls - Ward 4 2,U.S. House,21,REP,Elise M. Stefanik,259
+Warren,Glens Falls - Ward 4 2,U.S. House,21,CON,Elise M. Stefanik,29
+Warren,Glens Falls - Ward 4 2,U.S. House,21,WOR,Paula Collins,31
+Warren,Glens Falls - Ward 4 2,U.S. House,21,,Write-in,3
+Warren,Glens Falls - Ward 4 2,State Senate,45,REP,Daniel G. Stec,351
+Warren,Glens Falls - Ward 4 2,State Senate,45,CON,Daniel G. Stec,71
+Warren,Glens Falls - Ward 4 2,State Senate,45,,Write-in,22
+Warren,Glens Falls - Ward 4 2,State Assembly,113,DEM,Carrie Woerner,425
+Warren,Glens Falls - Ward 4 2,State Assembly,113,REP,Jeremy Messina,229
+Warren,Glens Falls - Ward 4 2,State Assembly,113,CON,Jeremy Messina,32
+Warren,Glens Falls - Ward 4 2,State Assembly,113,,Write-in,2
+Warren,Glens Falls - Ward 5 1,President,,DEM,Kamala D. Harris,387
+Warren,Glens Falls - Ward 5 1,President,,REP,Donald J. Trump,354
+Warren,Glens Falls - Ward 5 1,President,,CON,Donald J. Trump,33
+Warren,Glens Falls - Ward 5 1,President,,WOR,Kamala D. Harris,32
+Warren,Glens Falls - Ward 5 1,President,,,Write-in,7
+Warren,Glens Falls - Ward 5 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,394
+Warren,Glens Falls - Ward 5 1,U.S. Senate,,REP,Michael D. Sapraicone,296
+Warren,Glens Falls - Ward 5 1,U.S. Senate,,CON,Michael D. Sapraicone,36
+Warren,Glens Falls - Ward 5 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,62
+Warren,Glens Falls - Ward 5 1,U.S. Senate,,LAR,Diane Sare,4
+Warren,Glens Falls - Ward 5 1,U.S. House,21,DEM,Paula Collins,354
+Warren,Glens Falls - Ward 5 1,U.S. House,21,REP,Elise M. Stefanik,356
+Warren,Glens Falls - Ward 5 1,U.S. House,21,CON,Elise M. Stefanik,41
+Warren,Glens Falls - Ward 5 1,U.S. House,21,WOR,Paula Collins,43
+Warren,Glens Falls - Ward 5 1,State Senate,45,REP,Daniel G. Stec,451
+Warren,Glens Falls - Ward 5 1,State Senate,45,CON,Daniel G. Stec,81
+Warren,Glens Falls - Ward 5 1,State Senate,45,,Write-in,16
+Warren,Glens Falls - Ward 5 1,State Assembly,113,DEM,Carrie Woerner,442
+Warren,Glens Falls - Ward 5 1,State Assembly,113,REP,Jeremy Messina,308
+Warren,Glens Falls - Ward 5 1,State Assembly,113,CON,Jeremy Messina,36
+Warren,Glens Falls - Ward 5 2,President,,DEM,Kamala D. Harris,339
+Warren,Glens Falls - Ward 5 2,President,,REP,Donald J. Trump,222
+Warren,Glens Falls - Ward 5 2,President,,CON,Donald J. Trump,40
+Warren,Glens Falls - Ward 5 2,President,,WOR,Kamala D. Harris,15
+Warren,Glens Falls - Ward 5 2,President,,,Write-in,5
+Warren,Glens Falls - Ward 5 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,338
+Warren,Glens Falls - Ward 5 2,U.S. Senate,,REP,Michael D. Sapraicone,192
+Warren,Glens Falls - Ward 5 2,U.S. Senate,,CON,Michael D. Sapraicone,36
+Warren,Glens Falls - Ward 5 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,32
+Warren,Glens Falls - Ward 5 2,U.S. Senate,,LAR,Diane Sare,4
+Warren,Glens Falls - Ward 5 2,U.S. House,21,DEM,Paula Collins,313
+Warren,Glens Falls - Ward 5 2,U.S. House,21,REP,Elise M. Stefanik,220
+Warren,Glens Falls - Ward 5 2,U.S. House,21,CON,Elise M. Stefanik,38
+Warren,Glens Falls - Ward 5 2,U.S. House,21,WOR,Paula Collins,32
+Warren,Glens Falls - Ward 5 2,State Senate,45,REP,Daniel G. Stec,286
+Warren,Glens Falls - Ward 5 2,State Senate,45,CON,Daniel G. Stec,77
+Warren,Glens Falls - Ward 5 2,State Senate,45,,Write-in,9
+Warren,Glens Falls - Ward 5 2,State Assembly,113,DEM,Carrie Woerner,357
+Warren,Glens Falls - Ward 5 2,State Assembly,113,REP,Jeremy Messina,202
+Warren,Glens Falls - Ward 5 2,State Assembly,113,CON,Jeremy Messina,42
+Warren,Hague 1,President,,DEM,Kamala D. Harris,204
+Warren,Hague 1,President,,REP,Donald J. Trump,202
+Warren,Hague 1,President,,CON,Donald J. Trump,11
+Warren,Hague 1,President,,WOR,Kamala D. Harris,6
+Warren,Hague 1,President,,,Write-in,2
+Warren,Hague 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,205
+Warren,Hague 1,U.S. Senate,,REP,Michael D. Sapraicone,173
+Warren,Hague 1,U.S. Senate,,CON,Michael D. Sapraicone,10
+Warren,Hague 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,12
+Warren,Hague 1,U.S. House,21,DEM,Paula Collins,185
+Warren,Hague 1,U.S. House,21,REP,Elise M. Stefanik,207
+Warren,Hague 1,U.S. House,21,CON,Elise M. Stefanik,13
+Warren,Hague 1,U.S. House,21,WOR,Paula Collins,6
+Warren,Hague 1,State Senate,45,REP,Daniel G. Stec,254
+Warren,Hague 1,State Senate,45,CON,Daniel G. Stec,35
+Warren,Hague 1,State Senate,45,,Write-in,3
+Warren,Hague 1,State Assembly,114,REP,Matthew J. Simpson,250
+Warren,Hague 1,State Assembly,114,CON,Matthew J. Simpson,34
+Warren,Hague 1,State Assembly,114,,Write-in,2
+Warren,Horicon 1,President,,DEM,Kamala D. Harris,344
+Warren,Horicon 1,President,,REP,Donald J. Trump,540
+Warren,Horicon 1,President,,CON,Donald J. Trump,36
+Warren,Horicon 1,President,,WOR,Kamala D. Harris,24
+Warren,Horicon 1,President,,,Write-in,7
+Warren,Horicon 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,374
+Warren,Horicon 1,U.S. Senate,,REP,Michael D. Sapraicone,475
+Warren,Horicon 1,U.S. Senate,,CON,Michael D. Sapraicone,31
+Warren,Horicon 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,41
+Warren,Horicon 1,U.S. Senate,,LAR,Diane Sare,4
+Warren,Horicon 1,U.S. Senate,,,Write-in,1
+Warren,Horicon 1,U.S. House,21,DEM,Paula Collins,314
+Warren,Horicon 1,U.S. House,21,REP,Elise M. Stefanik,559
+Warren,Horicon 1,U.S. House,21,CON,Elise M. Stefanik,43
+Warren,Horicon 1,U.S. House,21,WOR,Paula Collins,28
+Warren,Horicon 1,State Senate,45,REP,Daniel G. Stec,659
+Warren,Horicon 1,State Senate,45,CON,Daniel G. Stec,88
+Warren,Horicon 1,State Senate,45,,Write-in,4
+Warren,Horicon 1,State Assembly,114,REP,Matthew J. Simpson,681
+Warren,Horicon 1,State Assembly,114,CON,Matthew J. Simpson,90
+Warren,Horicon 1,State Assembly,114,,Write-in,5
+Warren,Johnsburg 1,President,,DEM,Kamala D. Harris,524
+Warren,Johnsburg 1,President,,REP,Donald J. Trump,611
+Warren,Johnsburg 1,President,,CON,Donald J. Trump,43
+Warren,Johnsburg 1,President,,WOR,Kamala D. Harris,47
+Warren,Johnsburg 1,President,,,Write-in,11
+Warren,Johnsburg 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,536
+Warren,Johnsburg 1,U.S. Senate,,REP,Michael D. Sapraicone,538
+Warren,Johnsburg 1,U.S. Senate,,CON,Michael D. Sapraicone,44
+Warren,Johnsburg 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,69
+Warren,Johnsburg 1,U.S. Senate,,LAR,Diane Sare,5
+Warren,Johnsburg 1,U.S. Senate,,,Write-in,3
+Warren,Johnsburg 1,U.S. House,21,DEM,Paula Collins,480
+Warren,Johnsburg 1,U.S. House,21,REP,Elise M. Stefanik,620
+Warren,Johnsburg 1,U.S. House,21,CON,Elise M. Stefanik,53
+Warren,Johnsburg 1,U.S. House,21,WOR,Paula Collins,52
+Warren,Johnsburg 1,U.S. House,21,,Write-in,1
+Warren,Johnsburg 1,State Senate,45,REP,Daniel G. Stec,729
+Warren,Johnsburg 1,State Senate,45,CON,Daniel G. Stec,118
+Warren,Johnsburg 1,State Senate,45,,Write-in,11
+Warren,Johnsburg 1,State Assembly,114,REP,Matthew J. Simpson,719
+Warren,Johnsburg 1,State Assembly,114,CON,Matthew J. Simpson,123
+Warren,Johnsburg 1,State Assembly,114,,Write-in,11
+Warren,Lake George 1,President,,DEM,Kamala D. Harris,373
+Warren,Lake George 1,President,,REP,Donald J. Trump,483
+Warren,Lake George 1,President,,CON,Donald J. Trump,63
+Warren,Lake George 1,President,,WOR,Kamala D. Harris,14
+Warren,Lake George 1,President,,,Write-in,11
+Warren,Lake George 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,381
+Warren,Lake George 1,U.S. Senate,,REP,Michael D. Sapraicone,445
+Warren,Lake George 1,U.S. Senate,,CON,Michael D. Sapraicone,62
+Warren,Lake George 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,25
+Warren,Lake George 1,U.S. Senate,,LAR,Diane Sare,3
+Warren,Lake George 1,U.S. House,21,DEM,Paula Collins,344
+Warren,Lake George 1,U.S. House,21,REP,Elise M. Stefanik,497
+Warren,Lake George 1,U.S. House,21,CON,Elise M. Stefanik,67
+Warren,Lake George 1,U.S. House,21,WOR,Paula Collins,22
+Warren,Lake George 1,State Senate,45,REP,Daniel G. Stec,631
+Warren,Lake George 1,State Senate,45,CON,Daniel G. Stec,93
+Warren,Lake George 1,State Senate,45,,Write-in,8
+Warren,Lake George 1,State Assembly,114,REP,Matthew J. Simpson,608
+Warren,Lake George 1,State Assembly,114,CON,Matthew J. Simpson,99
+Warren,Lake George 1,State Assembly,114,,Write-in,6
+Warren,Lake George 2,President,,DEM,Kamala D. Harris,527
+Warren,Lake George 2,President,,REP,Donald J. Trump,560
+Warren,Lake George 2,President,,CON,Donald J. Trump,51
+Warren,Lake George 2,President,,WOR,Kamala D. Harris,28
+Warren,Lake George 2,President,,,Write-in,12
+Warren,Lake George 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,533
+Warren,Lake George 2,U.S. Senate,,REP,Michael D. Sapraicone,515
+Warren,Lake George 2,U.S. Senate,,CON,Michael D. Sapraicone,51
+Warren,Lake George 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,47
+Warren,Lake George 2,U.S. Senate,,LAR,Diane Sare,4
+Warren,Lake George 2,U.S. Senate,,,Write-in,2
+Warren,Lake George 2,U.S. House,21,DEM,Paula Collins,480
+Warren,Lake George 2,U.S. House,21,REP,Elise M. Stefanik,574
+Warren,Lake George 2,U.S. House,21,CON,Elise M. Stefanik,67
+Warren,Lake George 2,U.S. House,21,WOR,Paula Collins,33
+Warren,Lake George 2,U.S. House,21,,Write-in,2
+Warren,Lake George 2,State Senate,45,REP,Daniel G. Stec,714
+Warren,Lake George 2,State Senate,45,CON,Daniel G. Stec,113
+Warren,Lake George 2,State Senate,45,,Write-in,11
+Warren,Lake George 2,State Assembly,114,REP,Matthew J. Simpson,717
+Warren,Lake George 2,State Assembly,114,CON,Matthew J. Simpson,111
+Warren,Lake George 2,State Assembly,114,,Write-in,11
+Warren,Lake Luzerne 1,President,,DEM,Kamala D. Harris,296
+Warren,Lake Luzerne 1,President,,REP,Donald J. Trump,541
+Warren,Lake Luzerne 1,President,,CON,Donald J. Trump,47
+Warren,Lake Luzerne 1,President,,WOR,Kamala D. Harris,10
+Warren,Lake Luzerne 1,President,,,Write-in,7
+Warren,Lake Luzerne 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,315
+Warren,Lake Luzerne 1,U.S. Senate,,REP,Michael D. Sapraicone,479
+Warren,Lake Luzerne 1,U.S. Senate,,CON,Michael D. Sapraicone,40
+Warren,Lake Luzerne 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Warren,Lake Luzerne 1,U.S. Senate,,LAR,Diane Sare,3
+Warren,Lake Luzerne 1,U.S. Senate,,,Write-in,1
+Warren,Lake Luzerne 1,U.S. House,21,DEM,Paula Collins,271
+Warren,Lake Luzerne 1,U.S. House,21,REP,Elise M. Stefanik,538
+Warren,Lake Luzerne 1,U.S. House,21,CON,Elise M. Stefanik,55
+Warren,Lake Luzerne 1,U.S. House,21,WOR,Paula Collins,19
+Warren,Lake Luzerne 1,U.S. House,21,,Write-in,1
+Warren,Lake Luzerne 1,State Senate,45,REP,Daniel G. Stec,604
+Warren,Lake Luzerne 1,State Senate,45,CON,Daniel G. Stec,72
+Warren,Lake Luzerne 1,State Senate,45,,Write-in,6
+Warren,Lake Luzerne 1,State Assembly,114,REP,Matthew J. Simpson,595
+Warren,Lake Luzerne 1,State Assembly,114,CON,Matthew J. Simpson,74
+Warren,Lake Luzerne 1,State Assembly,114,,Write-in,3
+Warren,Lake Luzerne 2,President,,DEM,Kamala D. Harris,307
+Warren,Lake Luzerne 2,President,,REP,Donald J. Trump,495
+Warren,Lake Luzerne 2,President,,CON,Donald J. Trump,57
+Warren,Lake Luzerne 2,President,,WOR,Kamala D. Harris,12
+Warren,Lake Luzerne 2,President,,,Write-in,10
+Warren,Lake Luzerne 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,317
+Warren,Lake Luzerne 2,U.S. Senate,,REP,Michael D. Sapraicone,449
+Warren,Lake Luzerne 2,U.S. Senate,,CON,Michael D. Sapraicone,55
+Warren,Lake Luzerne 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,25
+Warren,Lake Luzerne 2,U.S. Senate,,LAR,Diane Sare,3
+Warren,Lake Luzerne 2,U.S. Senate,,,Write-in,1
+Warren,Lake Luzerne 2,U.S. House,21,DEM,Paula Collins,277
+Warren,Lake Luzerne 2,U.S. House,21,REP,Elise M. Stefanik,500
+Warren,Lake Luzerne 2,U.S. House,21,CON,Elise M. Stefanik,62
+Warren,Lake Luzerne 2,U.S. House,21,WOR,Paula Collins,22
+Warren,Lake Luzerne 2,State Senate,45,REP,Daniel G. Stec,567
+Warren,Lake Luzerne 2,State Senate,45,CON,Daniel G. Stec,100
+Warren,Lake Luzerne 2,State Senate,45,,Write-in,3
+Warren,Lake Luzerne 2,State Assembly,114,REP,Matthew J. Simpson,562
+Warren,Lake Luzerne 2,State Assembly,114,CON,Matthew J. Simpson,100
+Warren,Lake Luzerne 2,State Assembly,114,,Write-in,3
+Warren,Queensbury - Ward 1 1,President,,DEM,Kamala D. Harris,427
+Warren,Queensbury - Ward 1 1,President,,REP,Donald J. Trump,575
+Warren,Queensbury - Ward 1 1,President,,CON,Donald J. Trump,59
+Warren,Queensbury - Ward 1 1,President,,WOR,Kamala D. Harris,19
+Warren,Queensbury - Ward 1 1,President,,,Write-in,16
+Warren,Queensbury - Ward 1 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,443
+Warren,Queensbury - Ward 1 1,U.S. Senate,,REP,Michael D. Sapraicone,541
+Warren,Queensbury - Ward 1 1,U.S. Senate,,CON,Michael D. Sapraicone,62
+Warren,Queensbury - Ward 1 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,33
+Warren,Queensbury - Ward 1 1,U.S. Senate,,LAR,Diane Sare,5
+Warren,Queensbury - Ward 1 1,U.S. Senate,,,Write-in,1
+Warren,Queensbury - Ward 1 1,U.S. House,21,DEM,Paula Collins,400
+Warren,Queensbury - Ward 1 1,U.S. House,21,REP,Elise M. Stefanik,591
+Warren,Queensbury - Ward 1 1,U.S. House,21,CON,Elise M. Stefanik,66
+Warren,Queensbury - Ward 1 1,U.S. House,21,WOR,Paula Collins,27
+Warren,Queensbury - Ward 1 1,U.S. House,21,,Write-in,1
+Warren,Queensbury - Ward 1 1,State Senate,45,REP,Daniel G. Stec,715
+Warren,Queensbury - Ward 1 1,State Senate,45,CON,Daniel G. Stec,115
+Warren,Queensbury - Ward 1 1,State Senate,45,,Write-in,12
+Warren,Queensbury - Ward 1 1,State Assembly,114,REP,Matthew J. Simpson,697
+Warren,Queensbury - Ward 1 1,State Assembly,114,CON,Matthew J. Simpson,121
+Warren,Queensbury - Ward 1 1,State Assembly,114,,Write-in,8
+Warren,Queensbury - Ward 1 2,President,,DEM,Kamala D. Harris,495
+Warren,Queensbury - Ward 1 2,President,,REP,Donald J. Trump,463
+Warren,Queensbury - Ward 1 2,President,,CON,Donald J. Trump,44
+Warren,Queensbury - Ward 1 2,President,,WOR,Kamala D. Harris,25
+Warren,Queensbury - Ward 1 2,President,,,Write-in,13
+Warren,Queensbury - Ward 1 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,491
+Warren,Queensbury - Ward 1 2,U.S. Senate,,REP,Michael D. Sapraicone,418
+Warren,Queensbury - Ward 1 2,U.S. Senate,,CON,Michael D. Sapraicone,53
+Warren,Queensbury - Ward 1 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,40
+Warren,Queensbury - Ward 1 2,U.S. Senate,,LAR,Diane Sare,5
+Warren,Queensbury - Ward 1 2,U.S. House,21,DEM,Paula Collins,453
+Warren,Queensbury - Ward 1 2,U.S. House,21,REP,Elise M. Stefanik,478
+Warren,Queensbury - Ward 1 2,U.S. House,21,CON,Elise M. Stefanik,58
+Warren,Queensbury - Ward 1 2,U.S. House,21,WOR,Paula Collins,24
+Warren,Queensbury - Ward 1 2,U.S. House,21,,Write-in,2
+Warren,Queensbury - Ward 1 2,State Senate,45,REP,Daniel G. Stec,624
+Warren,Queensbury - Ward 1 2,State Senate,45,CON,Daniel G. Stec,100
+Warren,Queensbury - Ward 1 2,State Senate,45,,Write-in,14
+Warren,Queensbury - Ward 1 2,State Assembly,114,REP,Matthew J. Simpson,604
+Warren,Queensbury - Ward 1 2,State Assembly,114,CON,Matthew J. Simpson,100
+Warren,Queensbury - Ward 1 2,State Assembly,114,,Write-in,13
+Warren,Queensbury - Ward 1 3,President,,DEM,Kamala D. Harris,452
+Warren,Queensbury - Ward 1 3,President,,REP,Donald J. Trump,487
+Warren,Queensbury - Ward 1 3,President,,CON,Donald J. Trump,54
+Warren,Queensbury - Ward 1 3,President,,WOR,Kamala D. Harris,20
+Warren,Queensbury - Ward 1 3,President,,,Write-in,12
+Warren,Queensbury - Ward 1 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,466
+Warren,Queensbury - Ward 1 3,U.S. Senate,,REP,Michael D. Sapraicone,438
+Warren,Queensbury - Ward 1 3,U.S. Senate,,CON,Michael D. Sapraicone,59
+Warren,Queensbury - Ward 1 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,35
+Warren,Queensbury - Ward 1 3,U.S. Senate,,LAR,Diane Sare,1
+Warren,Queensbury - Ward 1 3,U.S. Senate,,,Write-in,2
+Warren,Queensbury - Ward 1 3,U.S. House,21,DEM,Paula Collins,424
+Warren,Queensbury - Ward 1 3,U.S. House,21,REP,Elise M. Stefanik,501
+Warren,Queensbury - Ward 1 3,U.S. House,21,CON,Elise M. Stefanik,57
+Warren,Queensbury - Ward 1 3,U.S. House,21,WOR,Paula Collins,24
+Warren,Queensbury - Ward 1 3,U.S. House,21,,Write-in,1
+Warren,Queensbury - Ward 1 3,State Senate,45,REP,Daniel G. Stec,635
+Warren,Queensbury - Ward 1 3,State Senate,45,CON,Daniel G. Stec,101
+Warren,Queensbury - Ward 1 3,State Senate,45,,Write-in,11
+Warren,Queensbury - Ward 1 3,State Assembly,114,REP,Matthew J. Simpson,621
+Warren,Queensbury - Ward 1 3,State Assembly,114,CON,Matthew J. Simpson,107
+Warren,Queensbury - Ward 1 3,State Assembly,114,,Write-in,10
+Warren,Queensbury - Ward 1 4,President,,DEM,Kamala D. Harris,301
+Warren,Queensbury - Ward 1 4,President,,REP,Donald J. Trump,378
+Warren,Queensbury - Ward 1 4,President,,CON,Donald J. Trump,39
+Warren,Queensbury - Ward 1 4,President,,WOR,Kamala D. Harris,10
+Warren,Queensbury - Ward 1 4,President,,,Write-in,7
+Warren,Queensbury - Ward 1 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,319
+Warren,Queensbury - Ward 1 4,U.S. Senate,,REP,Michael D. Sapraicone,326
+Warren,Queensbury - Ward 1 4,U.S. Senate,,CON,Michael D. Sapraicone,42
+Warren,Queensbury - Ward 1 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,21
+Warren,Queensbury - Ward 1 4,U.S. Senate,,LAR,Diane Sare,4
+Warren,Queensbury - Ward 1 4,U.S. Senate,,,Write-in,1
+Warren,Queensbury - Ward 1 4,U.S. House,21,DEM,Paula Collins,282
+Warren,Queensbury - Ward 1 4,U.S. House,21,REP,Elise M. Stefanik,381
+Warren,Queensbury - Ward 1 4,U.S. House,21,CON,Elise M. Stefanik,41
+Warren,Queensbury - Ward 1 4,U.S. House,21,WOR,Paula Collins,14
+Warren,Queensbury - Ward 1 4,U.S. House,21,,Write-in,1
+Warren,Queensbury - Ward 1 4,State Senate,45,REP,Daniel G. Stec,466
+Warren,Queensbury - Ward 1 4,State Senate,45,CON,Daniel G. Stec,79
+Warren,Queensbury - Ward 1 4,State Senate,45,,Write-in,13
+Warren,Queensbury - Ward 1 4,State Assembly,114,REP,Matthew J. Simpson,464
+Warren,Queensbury - Ward 1 4,State Assembly,114,CON,Matthew J. Simpson,75
+Warren,Queensbury - Ward 1 4,State Assembly,114,,Write-in,11
+Warren,Queensbury - Ward 1 5,President,,DEM,Kamala D. Harris,453
+Warren,Queensbury - Ward 1 5,President,,REP,Donald J. Trump,377
+Warren,Queensbury - Ward 1 5,President,,CON,Donald J. Trump,36
+Warren,Queensbury - Ward 1 5,President,,WOR,Kamala D. Harris,17
+Warren,Queensbury - Ward 1 5,President,,,Write-in,16
+Warren,Queensbury - Ward 1 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,432
+Warren,Queensbury - Ward 1 5,U.S. Senate,,REP,Michael D. Sapraicone,370
+Warren,Queensbury - Ward 1 5,U.S. Senate,,CON,Michael D. Sapraicone,38
+Warren,Queensbury - Ward 1 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,30
+Warren,Queensbury - Ward 1 5,U.S. Senate,,LAR,Diane Sare,1
+Warren,Queensbury - Ward 1 5,U.S. Senate,,,Write-in,1
+Warren,Queensbury - Ward 1 5,U.S. House,21,DEM,Paula Collins,402
+Warren,Queensbury - Ward 1 5,U.S. House,21,REP,Elise M. Stefanik,413
+Warren,Queensbury - Ward 1 5,U.S. House,21,CON,Elise M. Stefanik,40
+Warren,Queensbury - Ward 1 5,U.S. House,21,WOR,Paula Collins,24
+Warren,Queensbury - Ward 1 5,U.S. House,21,,Write-in,2
+Warren,Queensbury - Ward 1 5,State Senate,45,REP,Daniel G. Stec,568
+Warren,Queensbury - Ward 1 5,State Senate,45,CON,Daniel G. Stec,81
+Warren,Queensbury - Ward 1 5,State Senate,45,,Write-in,9
+Warren,Queensbury - Ward 1 5,State Assembly,114,REP,Matthew J. Simpson,554
+Warren,Queensbury - Ward 1 5,State Assembly,114,CON,Matthew J. Simpson,83
+Warren,Queensbury - Ward 1 5,State Assembly,114,,Write-in,7
+Warren,Queensbury - Ward 2 1,President,,DEM,Kamala D. Harris,480
+Warren,Queensbury - Ward 2 1,President,,REP,Donald J. Trump,466
+Warren,Queensbury - Ward 2 1,President,,CON,Donald J. Trump,43
+Warren,Queensbury - Ward 2 1,President,,WOR,Kamala D. Harris,29
+Warren,Queensbury - Ward 2 1,President,,,Write-in,7
+Warren,Queensbury - Ward 2 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,492
+Warren,Queensbury - Ward 2 1,U.S. Senate,,REP,Michael D. Sapraicone,431
+Warren,Queensbury - Ward 2 1,U.S. Senate,,CON,Michael D. Sapraicone,41
+Warren,Queensbury - Ward 2 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,40
+Warren,Queensbury - Ward 2 1,U.S. Senate,,LAR,Diane Sare,1
+Warren,Queensbury - Ward 2 1,U.S. House,21,DEM,Paula Collins,456
+Warren,Queensbury - Ward 2 1,U.S. House,21,REP,Elise M. Stefanik,475
+Warren,Queensbury - Ward 2 1,U.S. House,21,CON,Elise M. Stefanik,48
+Warren,Queensbury - Ward 2 1,U.S. House,21,WOR,Paula Collins,35
+Warren,Queensbury - Ward 2 1,State Senate,45,REP,Daniel G. Stec,608
+Warren,Queensbury - Ward 2 1,State Senate,45,CON,Daniel G. Stec,131
+Warren,Queensbury - Ward 2 1,State Senate,45,,Write-in,9
+Warren,Queensbury - Ward 2 1,State Assembly,114,REP,Matthew J. Simpson,595
+Warren,Queensbury - Ward 2 1,State Assembly,114,CON,Matthew J. Simpson,126
+Warren,Queensbury - Ward 2 1,State Assembly,114,,Write-in,8
+Warren,Queensbury - Ward 2 2,President,,DEM,Kamala D. Harris,743
+Warren,Queensbury - Ward 2 2,President,,REP,Donald J. Trump,530
+Warren,Queensbury - Ward 2 2,President,,CON,Donald J. Trump,53
+Warren,Queensbury - Ward 2 2,President,,WOR,Kamala D. Harris,36
+Warren,Queensbury - Ward 2 2,President,,,Write-in,9
+Warren,Queensbury - Ward 2 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,746
+Warren,Queensbury - Ward 2 2,U.S. Senate,,REP,Michael D. Sapraicone,491
+Warren,Queensbury - Ward 2 2,U.S. Senate,,CON,Michael D. Sapraicone,52
+Warren,Queensbury - Ward 2 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,52
+Warren,Queensbury - Ward 2 2,U.S. Senate,,LAR,Diane Sare,1
+Warren,Queensbury - Ward 2 2,U.S. House,21,DEM,Paula Collins,686
+Warren,Queensbury - Ward 2 2,U.S. House,21,REP,Elise M. Stefanik,556
+Warren,Queensbury - Ward 2 2,U.S. House,21,CON,Elise M. Stefanik,56
+Warren,Queensbury - Ward 2 2,U.S. House,21,WOR,Paula Collins,39
+Warren,Queensbury - Ward 2 2,State Senate,45,REP,Daniel G. Stec,728
+Warren,Queensbury - Ward 2 2,State Senate,45,CON,Daniel G. Stec,151
+Warren,Queensbury - Ward 2 2,State Senate,45,,Write-in,22
+Warren,Queensbury - Ward 2 2,State Assembly,114,REP,Matthew J. Simpson,714
+Warren,Queensbury - Ward 2 2,State Assembly,114,CON,Matthew J. Simpson,146
+Warren,Queensbury - Ward 2 2,State Assembly,114,,Write-in,20
+Warren,Queensbury - Ward 2 3,President,,DEM,Kamala D. Harris,600
+Warren,Queensbury - Ward 2 3,President,,REP,Donald J. Trump,399
+Warren,Queensbury - Ward 2 3,President,,CON,Donald J. Trump,40
+Warren,Queensbury - Ward 2 3,President,,WOR,Kamala D. Harris,20
+Warren,Queensbury - Ward 2 3,President,,,Write-in,17
+Warren,Queensbury - Ward 2 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,603
+Warren,Queensbury - Ward 2 3,U.S. Senate,,REP,Michael D. Sapraicone,353
+Warren,Queensbury - Ward 2 3,U.S. Senate,,CON,Michael D. Sapraicone,45
+Warren,Queensbury - Ward 2 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,44
+Warren,Queensbury - Ward 2 3,U.S. Senate,,LAR,Diane Sare,5
+Warren,Queensbury - Ward 2 3,U.S. Senate,,,Write-in,1
+Warren,Queensbury - Ward 2 3,U.S. House,21,DEM,Paula Collins,549
+Warren,Queensbury - Ward 2 3,U.S. House,21,REP,Elise M. Stefanik,420
+Warren,Queensbury - Ward 2 3,U.S. House,21,CON,Elise M. Stefanik,46
+Warren,Queensbury - Ward 2 3,U.S. House,21,WOR,Paula Collins,35
+Warren,Queensbury - Ward 2 3,U.S. House,21,,Write-in,1
+Warren,Queensbury - Ward 2 3,State Senate,45,REP,Daniel G. Stec,605
+Warren,Queensbury - Ward 2 3,State Senate,45,CON,Daniel G. Stec,132
+Warren,Queensbury - Ward 2 3,State Senate,45,,Write-in,12
+Warren,Queensbury - Ward 2 3,State Assembly,114,REP,Matthew J. Simpson,596
+Warren,Queensbury - Ward 2 3,State Assembly,114,CON,Matthew J. Simpson,130
+Warren,Queensbury - Ward 2 3,State Assembly,114,,Write-in,8
+Warren,Queensbury - Ward 2 4,President,,DEM,Kamala D. Harris,513
+Warren,Queensbury - Ward 2 4,President,,REP,Donald J. Trump,462
+Warren,Queensbury - Ward 2 4,President,,CON,Donald J. Trump,44
+Warren,Queensbury - Ward 2 4,President,,WOR,Kamala D. Harris,33
+Warren,Queensbury - Ward 2 4,President,,,Write-in,7
+Warren,Queensbury - Ward 2 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,533
+Warren,Queensbury - Ward 2 4,U.S. Senate,,REP,Michael D. Sapraicone,407
+Warren,Queensbury - Ward 2 4,U.S. Senate,,CON,Michael D. Sapraicone,45
+Warren,Queensbury - Ward 2 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,53
+Warren,Queensbury - Ward 2 4,U.S. Senate,,LAR,Diane Sare,2
+Warren,Queensbury - Ward 2 4,U.S. House,21,DEM,Paula Collins,481
+Warren,Queensbury - Ward 2 4,U.S. House,21,REP,Elise M. Stefanik,469
+Warren,Queensbury - Ward 2 4,U.S. House,21,CON,Elise M. Stefanik,52
+Warren,Queensbury - Ward 2 4,U.S. House,21,WOR,Paula Collins,40
+Warren,Queensbury - Ward 2 4,State Senate,45,REP,Daniel G. Stec,633
+Warren,Queensbury - Ward 2 4,State Senate,45,CON,Daniel G. Stec,119
+Warren,Queensbury - Ward 2 4,State Senate,45,,Write-in,18
+Warren,Queensbury - Ward 2 4,State Assembly,114,REP,Matthew J. Simpson,615
+Warren,Queensbury - Ward 2 4,State Assembly,114,CON,Matthew J. Simpson,113
+Warren,Queensbury - Ward 2 4,State Assembly,114,,Write-in,17
+Warren,Queensbury - Ward 3 1,President,,DEM,Kamala D. Harris,494
+Warren,Queensbury - Ward 3 1,President,,REP,Donald J. Trump,404
+Warren,Queensbury - Ward 3 1,President,,CON,Donald J. Trump,43
+Warren,Queensbury - Ward 3 1,President,,WOR,Kamala D. Harris,26
+Warren,Queensbury - Ward 3 1,President,,,Write-in,18
+Warren,Queensbury - Ward 3 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,517
+Warren,Queensbury - Ward 3 1,U.S. Senate,,REP,Michael D. Sapraicone,355
+Warren,Queensbury - Ward 3 1,U.S. Senate,,CON,Michael D. Sapraicone,40
+Warren,Queensbury - Ward 3 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,50
+Warren,Queensbury - Ward 3 1,U.S. Senate,,LAR,Diane Sare,4
+Warren,Queensbury - Ward 3 1,U.S. House,21,DEM,Paula Collins,472
+Warren,Queensbury - Ward 3 1,U.S. House,21,REP,Elise M. Stefanik,402
+Warren,Queensbury - Ward 3 1,U.S. House,21,CON,Elise M. Stefanik,54
+Warren,Queensbury - Ward 3 1,U.S. House,21,WOR,Paula Collins,43
+Warren,Queensbury - Ward 3 1,State Senate,45,REP,Daniel G. Stec,575
+Warren,Queensbury - Ward 3 1,State Senate,45,CON,Daniel G. Stec,113
+Warren,Queensbury - Ward 3 1,State Senate,45,,Write-in,14
+Warren,Queensbury - Ward 3 1,State Assembly,114,REP,Matthew J. Simpson,571
+Warren,Queensbury - Ward 3 1,State Assembly,114,CON,Matthew J. Simpson,117
+Warren,Queensbury - Ward 3 1,State Assembly,114,,Write-in,9
+Warren,Queensbury - Ward 3 2,President,,DEM,Kamala D. Harris,506
+Warren,Queensbury - Ward 3 2,President,,REP,Donald J. Trump,498
+Warren,Queensbury - Ward 3 2,President,,CON,Donald J. Trump,55
+Warren,Queensbury - Ward 3 2,President,,WOR,Kamala D. Harris,29
+Warren,Queensbury - Ward 3 2,President,,,Write-in,18
+Warren,Queensbury - Ward 3 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,512
+Warren,Queensbury - Ward 3 2,U.S. Senate,,REP,Michael D. Sapraicone,450
+Warren,Queensbury - Ward 3 2,U.S. Senate,,CON,Michael D. Sapraicone,58
+Warren,Queensbury - Ward 3 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,50
+Warren,Queensbury - Ward 3 2,U.S. Senate,,LAR,Diane Sare,2
+Warren,Queensbury - Ward 3 2,U.S. Senate,,,Write-in,1
+Warren,Queensbury - Ward 3 2,U.S. House,21,DEM,Paula Collins,467
+Warren,Queensbury - Ward 3 2,U.S. House,21,REP,Elise M. Stefanik,513
+Warren,Queensbury - Ward 3 2,U.S. House,21,CON,Elise M. Stefanik,61
+Warren,Queensbury - Ward 3 2,U.S. House,21,WOR,Paula Collins,39
+Warren,Queensbury - Ward 3 2,U.S. House,21,,Write-in,1
+Warren,Queensbury - Ward 3 2,State Senate,45,REP,Daniel G. Stec,670
+Warren,Queensbury - Ward 3 2,State Senate,45,CON,Daniel G. Stec,137
+Warren,Queensbury - Ward 3 2,State Senate,45,,Write-in,16
+Warren,Queensbury - Ward 3 2,State Assembly,114,REP,Matthew J. Simpson,649
+Warren,Queensbury - Ward 3 2,State Assembly,114,CON,Matthew J. Simpson,145
+Warren,Queensbury - Ward 3 2,State Assembly,114,,Write-in,13
+Warren,Queensbury - Ward 3 3,President,,DEM,Kamala D. Harris,494
+Warren,Queensbury - Ward 3 3,President,,REP,Donald J. Trump,428
+Warren,Queensbury - Ward 3 3,President,,CON,Donald J. Trump,52
+Warren,Queensbury - Ward 3 3,President,,WOR,Kamala D. Harris,19
+Warren,Queensbury - Ward 3 3,President,,,Write-in,11
+Warren,Queensbury - Ward 3 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,502
+Warren,Queensbury - Ward 3 3,U.S. Senate,,REP,Michael D. Sapraicone,400
+Warren,Queensbury - Ward 3 3,U.S. Senate,,CON,Michael D. Sapraicone,52
+Warren,Queensbury - Ward 3 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,31
+Warren,Queensbury - Ward 3 3,U.S. Senate,,LAR,Diane Sare,2
+Warren,Queensbury - Ward 3 3,U.S. House,21,DEM,Paula Collins,457
+Warren,Queensbury - Ward 3 3,U.S. House,21,REP,Elise M. Stefanik,449
+Warren,Queensbury - Ward 3 3,U.S. House,21,CON,Elise M. Stefanik,55
+Warren,Queensbury - Ward 3 3,U.S. House,21,WOR,Paula Collins,28
+Warren,Queensbury - Ward 3 3,U.S. House,21,,Write-in,1
+Warren,Queensbury - Ward 3 3,State Senate,45,REP,Daniel G. Stec,624
+Warren,Queensbury - Ward 3 3,State Senate,45,CON,Daniel G. Stec,123
+Warren,Queensbury - Ward 3 3,State Senate,45,,Write-in,4
+Warren,Queensbury - Ward 3 3,State Assembly,114,REP,Matthew J. Simpson,603
+Warren,Queensbury - Ward 3 3,State Assembly,114,CON,Matthew J. Simpson,124
+Warren,Queensbury - Ward 3 3,State Assembly,114,,Write-in,5
+Warren,Queensbury - Ward 3 4,President,,DEM,Kamala D. Harris,428
+Warren,Queensbury - Ward 3 4,President,,REP,Donald J. Trump,528
+Warren,Queensbury - Ward 3 4,President,,CON,Donald J. Trump,51
+Warren,Queensbury - Ward 3 4,President,,WOR,Kamala D. Harris,12
+Warren,Queensbury - Ward 3 4,President,,,Write-in,6
+Warren,Queensbury - Ward 3 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,434
+Warren,Queensbury - Ward 3 4,U.S. Senate,,REP,Michael D. Sapraicone,484
+Warren,Queensbury - Ward 3 4,U.S. Senate,,CON,Michael D. Sapraicone,50
+Warren,Queensbury - Ward 3 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,34
+Warren,Queensbury - Ward 3 4,U.S. Senate,,LAR,Diane Sare,2
+Warren,Queensbury - Ward 3 4,U.S. House,21,DEM,Paula Collins,392
+Warren,Queensbury - Ward 3 4,U.S. House,21,REP,Elise M. Stefanik,536
+Warren,Queensbury - Ward 3 4,U.S. House,21,CON,Elise M. Stefanik,64
+Warren,Queensbury - Ward 3 4,U.S. House,21,WOR,Paula Collins,18
+Warren,Queensbury - Ward 3 4,U.S. House,21,,Write-in,1
+Warren,Queensbury - Ward 3 4,State Senate,45,REP,Daniel G. Stec,673
+Warren,Queensbury - Ward 3 4,State Senate,45,CON,Daniel G. Stec,103
+Warren,Queensbury - Ward 3 4,State Senate,45,,Write-in,8
+Warren,Queensbury - Ward 3 4,State Assembly,114,REP,Matthew J. Simpson,652
+Warren,Queensbury - Ward 3 4,State Assembly,114,CON,Matthew J. Simpson,101
+Warren,Queensbury - Ward 3 4,State Assembly,114,,Write-in,5
+Warren,Queensbury - Ward 4 1,President,,DEM,Kamala D. Harris,407
+Warren,Queensbury - Ward 4 1,President,,REP,Donald J. Trump,609
+Warren,Queensbury - Ward 4 1,President,,CON,Donald J. Trump,44
+Warren,Queensbury - Ward 4 1,President,,WOR,Kamala D. Harris,31
+Warren,Queensbury - Ward 4 1,President,,,Write-in,7
+Warren,Queensbury - Ward 4 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,445
+Warren,Queensbury - Ward 4 1,U.S. Senate,,REP,Michael D. Sapraicone,515
+Warren,Queensbury - Ward 4 1,U.S. Senate,,CON,Michael D. Sapraicone,47
+Warren,Queensbury - Ward 4 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,53
+Warren,Queensbury - Ward 4 1,U.S. Senate,,LAR,Diane Sare,5
+Warren,Queensbury - Ward 4 1,U.S. House,21,DEM,Paula Collins,369
+Warren,Queensbury - Ward 4 1,U.S. House,21,REP,Elise M. Stefanik,601
+Warren,Queensbury - Ward 4 1,U.S. House,21,CON,Elise M. Stefanik,57
+Warren,Queensbury - Ward 4 1,U.S. House,21,WOR,Paula Collins,41
+Warren,Queensbury - Ward 4 1,State Senate,45,REP,Daniel G. Stec,722
+Warren,Queensbury - Ward 4 1,State Senate,45,CON,Daniel G. Stec,116
+Warren,Queensbury - Ward 4 1,State Senate,45,,Write-in,5
+Warren,Queensbury - Ward 4 1,State Assembly,114,REP,Matthew J. Simpson,705
+Warren,Queensbury - Ward 4 1,State Assembly,114,CON,Matthew J. Simpson,118
+Warren,Queensbury - Ward 4 1,State Assembly,114,,Write-in,4
+Warren,Queensbury - Ward 4 2,President,,DEM,Kamala D. Harris,512
+Warren,Queensbury - Ward 4 2,President,,REP,Donald J. Trump,463
+Warren,Queensbury - Ward 4 2,President,,CON,Donald J. Trump,64
+Warren,Queensbury - Ward 4 2,President,,WOR,Kamala D. Harris,25
+Warren,Queensbury - Ward 4 2,President,,,Write-in,12
+Warren,Queensbury - Ward 4 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,515
+Warren,Queensbury - Ward 4 2,U.S. Senate,,REP,Michael D. Sapraicone,422
+Warren,Queensbury - Ward 4 2,U.S. Senate,,CON,Michael D. Sapraicone,69
+Warren,Queensbury - Ward 4 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,42
+Warren,Queensbury - Ward 4 2,U.S. Senate,,LAR,Diane Sare,4
+Warren,Queensbury - Ward 4 2,U.S. Senate,,,Write-in,1
+Warren,Queensbury - Ward 4 2,U.S. House,21,DEM,Paula Collins,473
+Warren,Queensbury - Ward 4 2,U.S. House,21,REP,Elise M. Stefanik,476
+Warren,Queensbury - Ward 4 2,U.S. House,21,CON,Elise M. Stefanik,75
+Warren,Queensbury - Ward 4 2,U.S. House,21,WOR,Paula Collins,32
+Warren,Queensbury - Ward 4 2,State Senate,45,REP,Daniel G. Stec,649
+Warren,Queensbury - Ward 4 2,State Senate,45,CON,Daniel G. Stec,126
+Warren,Queensbury - Ward 4 2,State Senate,45,,Write-in,14
+Warren,Queensbury - Ward 4 2,State Assembly,114,REP,Matthew J. Simpson,630
+Warren,Queensbury - Ward 4 2,State Assembly,114,CON,Matthew J. Simpson,135
+Warren,Queensbury - Ward 4 2,State Assembly,114,,Write-in,11
+Warren,Queensbury - Ward 4 3,President,,DEM,Kamala D. Harris,404
+Warren,Queensbury - Ward 4 3,President,,REP,Donald J. Trump,496
+Warren,Queensbury - Ward 4 3,President,,CON,Donald J. Trump,46
+Warren,Queensbury - Ward 4 3,President,,WOR,Kamala D. Harris,21
+Warren,Queensbury - Ward 4 3,President,,,Write-in,5
+Warren,Queensbury - Ward 4 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,415
+Warren,Queensbury - Ward 4 3,U.S. Senate,,REP,Michael D. Sapraicone,425
+Warren,Queensbury - Ward 4 3,U.S. Senate,,CON,Michael D. Sapraicone,46
+Warren,Queensbury - Ward 4 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,54
+Warren,Queensbury - Ward 4 3,U.S. Senate,,LAR,Diane Sare,4
+Warren,Queensbury - Ward 4 3,U.S. Senate,,,Write-in,1
+Warren,Queensbury - Ward 4 3,U.S. House,21,DEM,Paula Collins,369
+Warren,Queensbury - Ward 4 3,U.S. House,21,REP,Elise M. Stefanik,498
+Warren,Queensbury - Ward 4 3,U.S. House,21,CON,Elise M. Stefanik,53
+Warren,Queensbury - Ward 4 3,U.S. House,21,WOR,Paula Collins,37
+Warren,Queensbury - Ward 4 3,State Senate,45,REP,Daniel G. Stec,620
+Warren,Queensbury - Ward 4 3,State Senate,45,CON,Daniel G. Stec,108
+Warren,Queensbury - Ward 4 3,State Senate,45,,Write-in,12
+Warren,Queensbury - Ward 4 3,State Assembly,114,REP,Matthew J. Simpson,610
+Warren,Queensbury - Ward 4 3,State Assembly,114,CON,Matthew J. Simpson,111
+Warren,Queensbury - Ward 4 3,State Assembly,114,,Write-in,9
+Warren,Stony Creek 1,President,,DEM,Kamala D. Harris,121
+Warren,Stony Creek 1,President,,REP,Donald J. Trump,308
+Warren,Stony Creek 1,President,,CON,Donald J. Trump,21
+Warren,Stony Creek 1,President,,WOR,Kamala D. Harris,6
+Warren,Stony Creek 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,125
+Warren,Stony Creek 1,U.S. Senate,,REP,Michael D. Sapraicone,258
+Warren,Stony Creek 1,U.S. Senate,,CON,Michael D. Sapraicone,18
+Warren,Stony Creek 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,22
+Warren,Stony Creek 1,U.S. Senate,,LAR,Diane Sare,3
+Warren,Stony Creek 1,U.S. House,21,DEM,Paula Collins,108
+Warren,Stony Creek 1,U.S. House,21,REP,Elise M. Stefanik,310
+Warren,Stony Creek 1,U.S. House,21,CON,Elise M. Stefanik,20
+Warren,Stony Creek 1,U.S. House,21,WOR,Paula Collins,8
+Warren,Stony Creek 1,State Senate,45,REP,Daniel G. Stec,327
+Warren,Stony Creek 1,State Senate,45,CON,Daniel G. Stec,30
+Warren,Stony Creek 1,State Senate,45,,Write-in,2
+Warren,Stony Creek 1,State Assembly,114,REP,Matthew J. Simpson,311
+Warren,Stony Creek 1,State Assembly,114,CON,Matthew J. Simpson,30
+Warren,Stony Creek 1,State Assembly,114,,Write-in,2
+Warren,Thurman 1,President,,DEM,Kamala D. Harris,168
+Warren,Thurman 1,President,,REP,Donald J. Trump,392
+Warren,Thurman 1,President,,CON,Donald J. Trump,43
+Warren,Thurman 1,President,,WOR,Kamala D. Harris,11
+Warren,Thurman 1,President,,,Write-in,4
+Warren,Thurman 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,182
+Warren,Thurman 1,U.S. Senate,,REP,Michael D. Sapraicone,307
+Warren,Thurman 1,U.S. Senate,,CON,Michael D. Sapraicone,38
+Warren,Thurman 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,36
+Warren,Thurman 1,U.S. Senate,,LAR,Diane Sare,4
+Warren,Thurman 1,U.S. Senate,,,Write-in,1
+Warren,Thurman 1,U.S. House,21,DEM,Paula Collins,143
+Warren,Thurman 1,U.S. House,21,REP,Elise M. Stefanik,387
+Warren,Thurman 1,U.S. House,21,CON,Elise M. Stefanik,46
+Warren,Thurman 1,U.S. House,21,WOR,Paula Collins,21
+Warren,Thurman 1,State Senate,45,REP,Daniel G. Stec,404
+Warren,Thurman 1,State Senate,45,CON,Daniel G. Stec,57
+Warren,Thurman 1,State Senate,45,,Write-in,5
+Warren,Thurman 1,State Assembly,114,REP,Matthew J. Simpson,397
+Warren,Thurman 1,State Assembly,114,CON,Matthew J. Simpson,54
+Warren,Thurman 1,State Assembly,114,,Write-in,4
+Warren,Warrensburg 1,President,,DEM,Kamala D. Harris,330
+Warren,Warrensburg 1,President,,REP,Donald J. Trump,541
+Warren,Warrensburg 1,President,,CON,Donald J. Trump,43
+Warren,Warrensburg 1,President,,WOR,Kamala D. Harris,19
+Warren,Warrensburg 1,President,,,Write-in,5
+Warren,Warrensburg 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,362
+Warren,Warrensburg 1,U.S. Senate,,REP,Michael D. Sapraicone,437
+Warren,Warrensburg 1,U.S. Senate,,CON,Michael D. Sapraicone,39
+Warren,Warrensburg 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,54
+Warren,Warrensburg 1,U.S. Senate,,LAR,Diane Sare,2
+Warren,Warrensburg 1,U.S. House,21,DEM,Paula Collins,288
+Warren,Warrensburg 1,U.S. House,21,REP,Elise M. Stefanik,542
+Warren,Warrensburg 1,U.S. House,21,CON,Elise M. Stefanik,45
+Warren,Warrensburg 1,U.S. House,21,WOR,Paula Collins,25
+Warren,Warrensburg 1,U.S. House,21,,Write-in,2
+Warren,Warrensburg 1,State Senate,45,REP,Daniel G. Stec,604
+Warren,Warrensburg 1,State Senate,45,CON,Daniel G. Stec,90
+Warren,Warrensburg 1,State Senate,45,,Write-in,7
+Warren,Warrensburg 1,State Assembly,114,REP,Matthew J. Simpson,599
+Warren,Warrensburg 1,State Assembly,114,CON,Matthew J. Simpson,88
+Warren,Warrensburg 1,State Assembly,114,,Write-in,4
+Warren,Warrensburg 2,President,,DEM,Kamala D. Harris,299
+Warren,Warrensburg 2,President,,REP,Donald J. Trump,543
+Warren,Warrensburg 2,President,,CON,Donald J. Trump,53
+Warren,Warrensburg 2,President,,WOR,Kamala D. Harris,21
+Warren,Warrensburg 2,President,,,Write-in,5
+Warren,Warrensburg 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,308
+Warren,Warrensburg 2,U.S. Senate,,REP,Michael D. Sapraicone,440
+Warren,Warrensburg 2,U.S. Senate,,CON,Michael D. Sapraicone,59
+Warren,Warrensburg 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,50
+Warren,Warrensburg 2,U.S. Senate,,LAR,Diane Sare,6
+Warren,Warrensburg 2,U.S. Senate,,,Write-in,1
+Warren,Warrensburg 2,U.S. House,21,DEM,Paula Collins,275
+Warren,Warrensburg 2,U.S. House,21,REP,Elise M. Stefanik,525
+Warren,Warrensburg 2,U.S. House,21,CON,Elise M. Stefanik,58
+Warren,Warrensburg 2,U.S. House,21,WOR,Paula Collins,30
+Warren,Warrensburg 2,State Senate,45,REP,Daniel G. Stec,596
+Warren,Warrensburg 2,State Senate,45,CON,Daniel G. Stec,93
+Warren,Warrensburg 2,State Senate,45,,Write-in,7
+Warren,Warrensburg 2,State Assembly,114,REP,Matthew J. Simpson,588
+Warren,Warrensburg 2,State Assembly,114,CON,Matthew J. Simpson,99
+Warren,Warrensburg 2,State Assembly,114,,Write-in,7

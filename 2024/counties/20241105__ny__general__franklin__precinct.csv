@@ -1,0 +1,545 @@
+county,precinct,office,district,party,candidate,votes
+Franklin,Bangor 1,President,,DEM,Kamala D. Harris,291
+Franklin,Bangor 1,President,,REP,Donald J. Trump,628
+Franklin,Bangor 1,President,,CON,Donald J. Trump,40
+Franklin,Bangor 1,President,,WOR,Kamala D. Harris,4
+Franklin,Bangor 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,297
+Franklin,Bangor 1,U.S. Senate,,REP,Michael D. Sapraicone,576
+Franklin,Bangor 1,U.S. Senate,,CON,Michael D. Sapraicone,38
+Franklin,Bangor 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,20
+Franklin,Bangor 1,U.S. Senate,,LAR,Diane Sare,1
+Franklin,Bangor 1,U.S. House,21,DEM,Paula Collins,263
+Franklin,Bangor 1,U.S. House,21,REP,Elise M. Stefanik,626
+Franklin,Bangor 1,U.S. House,21,CON,Elise M. Stefanik,47
+Franklin,Bangor 1,U.S. House,21,WOR,Paula Collins,12
+Franklin,Bangor 1,State Senate,45,REP,Daniel G. Stec,693
+Franklin,Bangor 1,State Senate,45,CON,Daniel G. Stec,91
+Franklin,Bangor 1,State Senate,45,,Write-in,2
+Franklin,Bangor 1,State Assembly,115,DEM,Billy Jones,562
+Franklin,Bangor 1,State Assembly,115,,Write-in,4
+Franklin,Bellmont 1,President,,DEM,Kamala D. Harris,213
+Franklin,Bellmont 1,President,,REP,Donald J. Trump,269
+Franklin,Bellmont 1,President,,CON,Donald J. Trump,19
+Franklin,Bellmont 1,President,,WOR,Kamala D. Harris,15
+Franklin,Bellmont 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,218
+Franklin,Bellmont 1,U.S. Senate,,REP,Michael D. Sapraicone,231
+Franklin,Bellmont 1,U.S. Senate,,CON,Michael D. Sapraicone,21
+Franklin,Bellmont 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,29
+Franklin,Bellmont 1,U.S. House,21,DEM,Paula Collins,194
+Franklin,Bellmont 1,U.S. House,21,REP,Elise M. Stefanik,276
+Franklin,Bellmont 1,U.S. House,21,CON,Elise M. Stefanik,19
+Franklin,Bellmont 1,U.S. House,21,WOR,Paula Collins,19
+Franklin,Bellmont 1,State Senate,45,REP,Daniel G. Stec,325
+Franklin,Bellmont 1,State Senate,45,CON,Daniel G. Stec,53
+Franklin,Bellmont 1,State Assembly,115,DEM,Billy Jones,357
+Franklin,Bellmont 1,State Assembly,115,,Write-in,1
+Franklin,Bellmont 2,President,,DEM,Kamala D. Harris,77
+Franklin,Bellmont 2,President,,REP,Donald J. Trump,147
+Franklin,Bellmont 2,President,,CON,Donald J. Trump,9
+Franklin,Bellmont 2,President,,WOR,Kamala D. Harris,4
+Franklin,Bellmont 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,84
+Franklin,Bellmont 2,U.S. Senate,,REP,Michael D. Sapraicone,125
+Franklin,Bellmont 2,U.S. Senate,,CON,Michael D. Sapraicone,12
+Franklin,Bellmont 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,6
+Franklin,Bellmont 2,U.S. Senate,,LAR,Diane Sare,2
+Franklin,Bellmont 2,U.S. Senate,,,Write-in,1
+Franklin,Bellmont 2,U.S. House,21,DEM,Paula Collins,73
+Franklin,Bellmont 2,U.S. House,21,REP,Elise M. Stefanik,139
+Franklin,Bellmont 2,U.S. House,21,CON,Elise M. Stefanik,14
+Franklin,Bellmont 2,U.S. House,21,WOR,Paula Collins,7
+Franklin,Bellmont 2,U.S. House,21,,Write-in,1
+Franklin,Bellmont 2,State Senate,45,REP,Daniel G. Stec,157
+Franklin,Bellmont 2,State Senate,45,CON,Daniel G. Stec,18
+Franklin,Bellmont 2,State Senate,45,,Write-in,2
+Franklin,Bellmont 2,State Assembly,115,DEM,Billy Jones,149
+Franklin,Bellmont 2,State Assembly,115,,Write-in,3
+Franklin,Bombay 1,President,,DEM,Kamala D. Harris,157
+Franklin,Bombay 1,President,,REP,Donald J. Trump,210
+Franklin,Bombay 1,President,,CON,Donald J. Trump,10
+Franklin,Bombay 1,President,,WOR,Kamala D. Harris,2
+Franklin,Bombay 1,President,,,Write-in,4
+Franklin,Bombay 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,167
+Franklin,Bombay 1,U.S. Senate,,REP,Michael D. Sapraicone,176
+Franklin,Bombay 1,U.S. Senate,,CON,Michael D. Sapraicone,8
+Franklin,Bombay 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Franklin,Bombay 1,U.S. House,21,DEM,Paula Collins,151
+Franklin,Bombay 1,U.S. House,21,REP,Elise M. Stefanik,208
+Franklin,Bombay 1,U.S. House,21,CON,Elise M. Stefanik,10
+Franklin,Bombay 1,U.S. House,21,WOR,Paula Collins,9
+Franklin,Bombay 1,State Senate,45,REP,Daniel G. Stec,258
+Franklin,Bombay 1,State Senate,45,CON,Daniel G. Stec,35
+Franklin,Bombay 1,State Senate,45,,Write-in,2
+Franklin,Bombay 1,State Assembly,115,DEM,Billy Jones,278
+Franklin,Bombay 2,President,,DEM,Kamala D. Harris,547
+Franklin,Bombay 2,President,,REP,Donald J. Trump,63
+Franklin,Bombay 2,President,,CON,Donald J. Trump,7
+Franklin,Bombay 2,President,,WOR,Kamala D. Harris,21
+Franklin,Bombay 2,President,,,Write-in,4
+Franklin,Bombay 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,533
+Franklin,Bombay 2,U.S. Senate,,REP,Michael D. Sapraicone,59
+Franklin,Bombay 2,U.S. Senate,,CON,Michael D. Sapraicone,4
+Franklin,Bombay 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,34
+Franklin,Bombay 2,U.S. Senate,,LAR,Diane Sare,1
+Franklin,Bombay 2,U.S. House,21,DEM,Paula Collins,525
+Franklin,Bombay 2,U.S. House,21,REP,Elise M. Stefanik,70
+Franklin,Bombay 2,U.S. House,21,CON,Elise M. Stefanik,7
+Franklin,Bombay 2,U.S. House,21,WOR,Paula Collins,31
+Franklin,Bombay 2,State Senate,45,REP,Daniel G. Stec,185
+Franklin,Bombay 2,State Senate,45,CON,Daniel G. Stec,129
+Franklin,Bombay 2,State Senate,45,,Write-in,4
+Franklin,Bombay 2,State Assembly,115,DEM,Billy Jones,562
+Franklin,Brandon 1,President,,DEM,Kamala D. Harris,59
+Franklin,Brandon 1,President,,REP,Donald J. Trump,207
+Franklin,Brandon 1,President,,CON,Donald J. Trump,12
+Franklin,Brandon 1,President,,WOR,Kamala D. Harris,5
+Franklin,Brandon 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,55
+Franklin,Brandon 1,U.S. Senate,,REP,Michael D. Sapraicone,196
+Franklin,Brandon 1,U.S. Senate,,CON,Michael D. Sapraicone,10
+Franklin,Brandon 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,17
+Franklin,Brandon 1,U.S. Senate,,LAR,Diane Sare,1
+Franklin,Brandon 1,U.S. House,21,DEM,Paula Collins,52
+Franklin,Brandon 1,U.S. House,21,REP,Elise M. Stefanik,208
+Franklin,Brandon 1,U.S. House,21,CON,Elise M. Stefanik,16
+Franklin,Brandon 1,U.S. House,21,WOR,Paula Collins,7
+Franklin,Brandon 1,State Senate,45,REP,Daniel G. Stec,221
+Franklin,Brandon 1,State Senate,45,CON,Daniel G. Stec,21
+Franklin,Brandon 1,State Senate,45,,Write-in,2
+Franklin,Brandon 1,State Assembly,115,DEM,Billy Jones,141
+Franklin,Brandon 1,State Assembly,115,,Write-in,2
+Franklin,Brighton 1,President,,DEM,Kamala D. Harris,302
+Franklin,Brighton 1,President,,REP,Donald J. Trump,150
+Franklin,Brighton 1,President,,CON,Donald J. Trump,23
+Franklin,Brighton 1,President,,WOR,Kamala D. Harris,27
+Franklin,Brighton 1,President,,,Write-in,4
+Franklin,Brighton 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,313
+Franklin,Brighton 1,U.S. Senate,,REP,Michael D. Sapraicone,132
+Franklin,Brighton 1,U.S. Senate,,CON,Michael D. Sapraicone,27
+Franklin,Brighton 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,34
+Franklin,Brighton 1,U.S. Senate,,LAR,Diane Sare,1
+Franklin,Brighton 1,U.S. House,21,DEM,Paula Collins,297
+Franklin,Brighton 1,U.S. House,21,REP,Elise M. Stefanik,147
+Franklin,Brighton 1,U.S. House,21,CON,Elise M. Stefanik,31
+Franklin,Brighton 1,U.S. House,21,WOR,Paula Collins,28
+Franklin,Brighton 1,State Senate,45,REP,Daniel G. Stec,246
+Franklin,Brighton 1,State Senate,45,CON,Daniel G. Stec,63
+Franklin,Brighton 1,State Senate,45,,Write-in,3
+Franklin,Brighton 1,State Assembly,115,DEM,Billy Jones,401
+Franklin,Brighton 1,State Assembly,115,,Write-in,2
+Franklin,Burke 1,President,,DEM,Kamala D. Harris,189
+Franklin,Burke 1,President,,REP,Donald J. Trump,385
+Franklin,Burke 1,President,,CON,Donald J. Trump,25
+Franklin,Burke 1,President,,WOR,Kamala D. Harris,3
+Franklin,Burke 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,204
+Franklin,Burke 1,U.S. Senate,,REP,Michael D. Sapraicone,338
+Franklin,Burke 1,U.S. Senate,,CON,Michael D. Sapraicone,17
+Franklin,Burke 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,16
+Franklin,Burke 1,U.S. Senate,,LAR,Diane Sare,2
+Franklin,Burke 1,U.S. House,21,DEM,Paula Collins,172
+Franklin,Burke 1,U.S. House,21,REP,Elise M. Stefanik,380
+Franklin,Burke 1,U.S. House,21,CON,Elise M. Stefanik,25
+Franklin,Burke 1,U.S. House,21,WOR,Paula Collins,8
+Franklin,Burke 1,State Senate,45,REP,Daniel G. Stec,432
+Franklin,Burke 1,State Senate,45,CON,Daniel G. Stec,56
+Franklin,Burke 1,State Senate,45,,Write-in,1
+Franklin,Burke 1,State Assembly,115,DEM,Billy Jones,393
+Franklin,Burke 1,State Assembly,115,,Write-in,4
+Franklin,Chateaugay 1,President,,DEM,Kamala D. Harris,333
+Franklin,Chateaugay 1,President,,REP,Donald J. Trump,437
+Franklin,Chateaugay 1,President,,CON,Donald J. Trump,47
+Franklin,Chateaugay 1,President,,WOR,Kamala D. Harris,15
+Franklin,Chateaugay 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,359
+Franklin,Chateaugay 1,U.S. Senate,,REP,Michael D. Sapraicone,381
+Franklin,Chateaugay 1,U.S. Senate,,CON,Michael D. Sapraicone,39
+Franklin,Chateaugay 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,32
+Franklin,Chateaugay 1,U.S. Senate,,LAR,Diane Sare,2
+Franklin,Chateaugay 1,U.S. House,21,DEM,Paula Collins,305
+Franklin,Chateaugay 1,U.S. House,21,REP,Elise M. Stefanik,451
+Franklin,Chateaugay 1,U.S. House,21,CON,Elise M. Stefanik,46
+Franklin,Chateaugay 1,U.S. House,21,WOR,Paula Collins,18
+Franklin,Chateaugay 1,State Senate,45,REP,Daniel G. Stec,556
+Franklin,Chateaugay 1,State Senate,45,CON,Daniel G. Stec,102
+Franklin,Chateaugay 1,State Senate,45,,Write-in,4
+Franklin,Chateaugay 1,State Assembly,115,DEM,Billy Jones,617
+Franklin,Chateaugay 1,State Assembly,115,,Write-in,4
+Franklin,Constable 1,President,,DEM,Kamala D. Harris,192
+Franklin,Constable 1,President,,REP,Donald J. Trump,438
+Franklin,Constable 1,President,,CON,Donald J. Trump,32
+Franklin,Constable 1,President,,WOR,Kamala D. Harris,5
+Franklin,Constable 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,203
+Franklin,Constable 1,U.S. Senate,,REP,Michael D. Sapraicone,386
+Franklin,Constable 1,U.S. Senate,,CON,Michael D. Sapraicone,32
+Franklin,Constable 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,25
+Franklin,Constable 1,U.S. Senate,,LAR,Diane Sare,4
+Franklin,Constable 1,U.S. House,21,DEM,Paula Collins,175
+Franklin,Constable 1,U.S. House,21,REP,Elise M. Stefanik,438
+Franklin,Constable 1,U.S. House,21,CON,Elise M. Stefanik,34
+Franklin,Constable 1,U.S. House,21,WOR,Paula Collins,17
+Franklin,Constable 1,State Senate,45,REP,Daniel G. Stec,463
+Franklin,Constable 1,State Senate,45,CON,Daniel G. Stec,74
+Franklin,Constable 1,State Senate,45,,Write-in,1
+Franklin,Constable 1,State Assembly,115,DEM,Billy Jones,400
+Franklin,Constable 1,State Assembly,115,,Write-in,2
+Franklin,Dickinson 1,President,,DEM,Kamala D. Harris,102
+Franklin,Dickinson 1,President,,REP,Donald J. Trump,300
+Franklin,Dickinson 1,President,,CON,Donald J. Trump,23
+Franklin,Dickinson 1,President,,WOR,Kamala D. Harris,10
+Franklin,Dickinson 1,President,,,Write-in,1
+Franklin,Dickinson 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,114
+Franklin,Dickinson 1,U.S. Senate,,REP,Michael D. Sapraicone,281
+Franklin,Dickinson 1,U.S. Senate,,CON,Michael D. Sapraicone,21
+Franklin,Dickinson 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,13
+Franklin,Dickinson 1,U.S. Senate,,LAR,Diane Sare,1
+Franklin,Dickinson 1,U.S. House,21,DEM,Paula Collins,101
+Franklin,Dickinson 1,U.S. House,21,REP,Elise M. Stefanik,306
+Franklin,Dickinson 1,U.S. House,21,CON,Elise M. Stefanik,25
+Franklin,Dickinson 1,U.S. House,21,WOR,Paula Collins,10
+Franklin,Dickinson 1,State Senate,45,REP,Daniel G. Stec,339
+Franklin,Dickinson 1,State Senate,45,CON,Daniel G. Stec,41
+Franklin,Dickinson 1,State Assembly,115,DEM,Billy Jones,213
+Franklin,Dickinson 1,State Assembly,115,,Write-in,3
+Franklin,Duane 1,President,,DEM,Kamala D. Harris,63
+Franklin,Duane 1,President,,REP,Donald J. Trump,68
+Franklin,Duane 1,President,,CON,Donald J. Trump,3
+Franklin,Duane 1,President,,WOR,Kamala D. Harris,1
+Franklin,Duane 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,62
+Franklin,Duane 1,U.S. Senate,,REP,Michael D. Sapraicone,67
+Franklin,Duane 1,U.S. Senate,,CON,Michael D. Sapraicone,2
+Franklin,Duane 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,2
+Franklin,Duane 1,U.S. House,21,DEM,Paula Collins,59
+Franklin,Duane 1,U.S. House,21,REP,Elise M. Stefanik,70
+Franklin,Duane 1,U.S. House,21,CON,Elise M. Stefanik,3
+Franklin,Duane 1,U.S. House,21,WOR,Paula Collins,4
+Franklin,Duane 1,State Senate,45,REP,Daniel G. Stec,84
+Franklin,Duane 1,State Senate,45,CON,Daniel G. Stec,11
+Franklin,Duane 1,State Assembly,115,DEM,Billy Jones,96
+Franklin,Fort Covington 1,President,,DEM,Kamala D. Harris,243
+Franklin,Fort Covington 1,President,,REP,Donald J. Trump,317
+Franklin,Fort Covington 1,President,,CON,Donald J. Trump,26
+Franklin,Fort Covington 1,President,,WOR,Kamala D. Harris,13
+Franklin,Fort Covington 1,President,,,Write-in,1
+Franklin,Fort Covington 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,259
+Franklin,Fort Covington 1,U.S. Senate,,REP,Michael D. Sapraicone,260
+Franklin,Fort Covington 1,U.S. Senate,,CON,Michael D. Sapraicone,28
+Franklin,Fort Covington 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,28
+Franklin,Fort Covington 1,U.S. Senate,,LAR,Diane Sare,3
+Franklin,Fort Covington 1,U.S. House,21,DEM,Paula Collins,240
+Franklin,Fort Covington 1,U.S. House,21,REP,Elise M. Stefanik,313
+Franklin,Fort Covington 1,U.S. House,21,CON,Elise M. Stefanik,25
+Franklin,Fort Covington 1,U.S. House,21,WOR,Paula Collins,16
+Franklin,Fort Covington 1,State Senate,45,REP,Daniel G. Stec,359
+Franklin,Fort Covington 1,State Senate,45,CON,Daniel G. Stec,78
+Franklin,Fort Covington 1,State Senate,45,,Write-in,2
+Franklin,Fort Covington 1,State Assembly,115,DEM,Billy Jones,427
+Franklin,Fort Covington 1,State Assembly,115,,Write-in,1
+Franklin,Franklin 1,President,,DEM,Kamala D. Harris,371
+Franklin,Franklin 1,President,,REP,Donald J. Trump,284
+Franklin,Franklin 1,President,,CON,Donald J. Trump,28
+Franklin,Franklin 1,President,,WOR,Kamala D. Harris,26
+Franklin,Franklin 1,President,,,Write-in,1
+Franklin,Franklin 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,365
+Franklin,Franklin 1,U.S. Senate,,REP,Michael D. Sapraicone,266
+Franklin,Franklin 1,U.S. Senate,,CON,Michael D. Sapraicone,28
+Franklin,Franklin 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,34
+Franklin,Franklin 1,U.S. Senate,,LAR,Diane Sare,3
+Franklin,Franklin 1,U.S. House,21,DEM,Paula Collins,359
+Franklin,Franklin 1,U.S. House,21,REP,Elise M. Stefanik,287
+Franklin,Franklin 1,U.S. House,21,CON,Elise M. Stefanik,25
+Franklin,Franklin 1,U.S. House,21,WOR,Paula Collins,33
+Franklin,Franklin 1,State Senate,45,REP,Daniel G. Stec,378
+Franklin,Franklin 1,State Senate,45,CON,Daniel G. Stec,76
+Franklin,Franklin 1,State Senate,45,,Write-in,2
+Franklin,Franklin 1,State Assembly,115,DEM,Billy Jones,498
+Franklin,Franklin 1,State Assembly,115,,Write-in,1
+Franklin,Harrietstown 1,President,,DEM,Kamala D. Harris,638
+Franklin,Harrietstown 1,President,,REP,Donald J. Trump,219
+Franklin,Harrietstown 1,President,,CON,Donald J. Trump,36
+Franklin,Harrietstown 1,President,,WOR,Kamala D. Harris,46
+Franklin,Harrietstown 1,President,,,Write-in,12
+Franklin,Harrietstown 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,629
+Franklin,Harrietstown 1,U.S. Senate,,REP,Michael D. Sapraicone,214
+Franklin,Harrietstown 1,U.S. Senate,,CON,Michael D. Sapraicone,30
+Franklin,Harrietstown 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,53
+Franklin,Harrietstown 1,U.S. Senate,,LAR,Diane Sare,7
+Franklin,Harrietstown 1,U.S. Senate,,,Write-in,1
+Franklin,Harrietstown 1,U.S. House,21,DEM,Paula Collins,619
+Franklin,Harrietstown 1,U.S. House,21,REP,Elise M. Stefanik,226
+Franklin,Harrietstown 1,U.S. House,21,CON,Elise M. Stefanik,35
+Franklin,Harrietstown 1,U.S. House,21,WOR,Paula Collins,57
+Franklin,Harrietstown 1,U.S. House,21,,Write-in,1
+Franklin,Harrietstown 1,State Senate,45,REP,Daniel G. Stec,392
+Franklin,Harrietstown 1,State Senate,45,CON,Daniel G. Stec,100
+Franklin,Harrietstown 1,State Senate,45,,Write-in,15
+Franklin,Harrietstown 1,State Assembly,115,DEM,Billy Jones,750
+Franklin,Harrietstown 1,State Assembly,115,,Write-in,2
+Franklin,Harrietstown 2,President,,DEM,Kamala D. Harris,412
+Franklin,Harrietstown 2,President,,REP,Donald J. Trump,167
+Franklin,Harrietstown 2,President,,CON,Donald J. Trump,25
+Franklin,Harrietstown 2,President,,WOR,Kamala D. Harris,34
+Franklin,Harrietstown 2,President,,,Write-in,8
+Franklin,Harrietstown 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,412
+Franklin,Harrietstown 2,U.S. Senate,,REP,Michael D. Sapraicone,150
+Franklin,Harrietstown 2,U.S. Senate,,CON,Michael D. Sapraicone,22
+Franklin,Harrietstown 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,53
+Franklin,Harrietstown 2,U.S. Senate,,LAR,Diane Sare,3
+Franklin,Harrietstown 2,U.S. Senate,,,Write-in,1
+Franklin,Harrietstown 2,U.S. House,21,DEM,Paula Collins,395
+Franklin,Harrietstown 2,U.S. House,21,REP,Elise M. Stefanik,173
+Franklin,Harrietstown 2,U.S. House,21,CON,Elise M. Stefanik,27
+Franklin,Harrietstown 2,U.S. House,21,WOR,Paula Collins,41
+Franklin,Harrietstown 2,U.S. House,21,,Write-in,2
+Franklin,Harrietstown 2,State Senate,45,REP,Daniel G. Stec,264
+Franklin,Harrietstown 2,State Senate,45,CON,Daniel G. Stec,81
+Franklin,Harrietstown 2,State Senate,45,,Write-in,11
+Franklin,Harrietstown 2,State Assembly,115,DEM,Billy Jones,513
+Franklin,Harrietstown 2,State Assembly,115,,Write-in,4
+Franklin,Harrietstown 3,President,,DEM,Kamala D. Harris,629
+Franklin,Harrietstown 3,President,,REP,Donald J. Trump,385
+Franklin,Harrietstown 3,President,,CON,Donald J. Trump,44
+Franklin,Harrietstown 3,President,,WOR,Kamala D. Harris,54
+Franklin,Harrietstown 3,President,,,Write-in,6
+Franklin,Harrietstown 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,622
+Franklin,Harrietstown 3,U.S. Senate,,REP,Michael D. Sapraicone,351
+Franklin,Harrietstown 3,U.S. Senate,,CON,Michael D. Sapraicone,55
+Franklin,Harrietstown 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,73
+Franklin,Harrietstown 3,U.S. Senate,,LAR,Diane Sare,2
+Franklin,Harrietstown 3,U.S. Senate,,,Write-in,2
+Franklin,Harrietstown 3,U.S. House,21,DEM,Paula Collins,598
+Franklin,Harrietstown 3,U.S. House,21,REP,Elise M. Stefanik,378
+Franklin,Harrietstown 3,U.S. House,21,CON,Elise M. Stefanik,54
+Franklin,Harrietstown 3,U.S. House,21,WOR,Paula Collins,71
+Franklin,Harrietstown 3,U.S. House,21,,Write-in,1
+Franklin,Harrietstown 3,State Senate,45,REP,Daniel G. Stec,559
+Franklin,Harrietstown 3,State Senate,45,CON,Daniel G. Stec,138
+Franklin,Harrietstown 3,State Senate,45,,Write-in,15
+Franklin,Harrietstown 3,State Assembly,115,DEM,Billy Jones,795
+Franklin,Harrietstown 3,State Assembly,115,,Write-in,4
+Franklin,Malone 1,President,,DEM,Kamala D. Harris,447
+Franklin,Malone 1,President,,REP,Donald J. Trump,635
+Franklin,Malone 1,President,,CON,Donald J. Trump,35
+Franklin,Malone 1,President,,WOR,Kamala D. Harris,24
+Franklin,Malone 1,President,,,Write-in,2
+Franklin,Malone 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,460
+Franklin,Malone 1,U.S. Senate,,REP,Michael D. Sapraicone,588
+Franklin,Malone 1,U.S. Senate,,CON,Michael D. Sapraicone,40
+Franklin,Malone 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,32
+Franklin,Malone 1,U.S. Senate,,LAR,Diane Sare,1
+Franklin,Malone 1,U.S. House,21,DEM,Paula Collins,422
+Franklin,Malone 1,U.S. House,21,REP,Elise M. Stefanik,642
+Franklin,Malone 1,U.S. House,21,CON,Elise M. Stefanik,38
+Franklin,Malone 1,U.S. House,21,WOR,Paula Collins,29
+Franklin,Malone 1,State Senate,45,REP,Daniel G. Stec,771
+Franklin,Malone 1,State Senate,45,CON,Daniel G. Stec,123
+Franklin,Malone 1,State Senate,45,,Write-in,5
+Franklin,Malone 1,State Assembly,115,DEM,Billy Jones,784
+Franklin,Malone 1,State Assembly,115,,Write-in,11
+Franklin,Malone 2,President,,DEM,Kamala D. Harris,359
+Franklin,Malone 2,President,,REP,Donald J. Trump,334
+Franklin,Malone 2,President,,CON,Donald J. Trump,26
+Franklin,Malone 2,President,,WOR,Kamala D. Harris,10
+Franklin,Malone 2,President,,,Write-in,1
+Franklin,Malone 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,356
+Franklin,Malone 2,U.S. Senate,,REP,Michael D. Sapraicone,300
+Franklin,Malone 2,U.S. Senate,,CON,Michael D. Sapraicone,20
+Franklin,Malone 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,28
+Franklin,Malone 2,U.S. Senate,,LAR,Diane Sare,2
+Franklin,Malone 2,U.S. House,21,DEM,Paula Collins,337
+Franklin,Malone 2,U.S. House,21,REP,Elise M. Stefanik,334
+Franklin,Malone 2,U.S. House,21,CON,Elise M. Stefanik,27
+Franklin,Malone 2,U.S. House,21,WOR,Paula Collins,20
+Franklin,Malone 2,U.S. House,21,,Write-in,1
+Franklin,Malone 2,State Senate,45,REP,Daniel G. Stec,438
+Franklin,Malone 2,State Senate,45,CON,Daniel G. Stec,75
+Franklin,Malone 2,State Assembly,115,DEM,Billy Jones,541
+Franklin,Malone 2,State Assembly,115,,Write-in,2
+Franklin,Malone 3,President,,DEM,Kamala D. Harris,353
+Franklin,Malone 3,President,,REP,Donald J. Trump,381
+Franklin,Malone 3,President,,CON,Donald J. Trump,31
+Franklin,Malone 3,President,,WOR,Kamala D. Harris,14
+Franklin,Malone 3,President,,,Write-in,1
+Franklin,Malone 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,360
+Franklin,Malone 3,U.S. Senate,,REP,Michael D. Sapraicone,322
+Franklin,Malone 3,U.S. Senate,,CON,Michael D. Sapraicone,32
+Franklin,Malone 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,34
+Franklin,Malone 3,U.S. Senate,,LAR,Diane Sare,2
+Franklin,Malone 3,U.S. House,21,DEM,Paula Collins,338
+Franklin,Malone 3,U.S. House,21,REP,Elise M. Stefanik,358
+Franklin,Malone 3,U.S. House,21,CON,Elise M. Stefanik,36
+Franklin,Malone 3,U.S. House,21,WOR,Paula Collins,30
+Franklin,Malone 3,State Senate,45,REP,Daniel G. Stec,484
+Franklin,Malone 3,State Senate,45,CON,Daniel G. Stec,88
+Franklin,Malone 3,State Senate,45,,Write-in,3
+Franklin,Malone 3,State Assembly,115,DEM,Billy Jones,565
+Franklin,Malone 3,State Assembly,115,,Write-in,3
+Franklin,Malone 4,President,,DEM,Kamala D. Harris,269
+Franklin,Malone 4,President,,REP,Donald J. Trump,212
+Franklin,Malone 4,President,,CON,Donald J. Trump,12
+Franklin,Malone 4,President,,WOR,Kamala D. Harris,8
+Franklin,Malone 4,President,,,Write-in,7
+Franklin,Malone 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,271
+Franklin,Malone 4,U.S. Senate,,REP,Michael D. Sapraicone,196
+Franklin,Malone 4,U.S. Senate,,CON,Michael D. Sapraicone,8
+Franklin,Malone 4,U.S. Senate,,WOR,Kirsten E. Gillibrand,18
+Franklin,Malone 4,U.S. Senate,,LAR,Diane Sare,3
+Franklin,Malone 4,U.S. House,21,DEM,Paula Collins,253
+Franklin,Malone 4,U.S. House,21,REP,Elise M. Stefanik,223
+Franklin,Malone 4,U.S. House,21,CON,Elise M. Stefanik,12
+Franklin,Malone 4,U.S. House,21,WOR,Paula Collins,14
+Franklin,Malone 4,U.S. House,21,,Write-in,1
+Franklin,Malone 4,State Senate,45,REP,Daniel G. Stec,323
+Franklin,Malone 4,State Senate,45,CON,Daniel G. Stec,37
+Franklin,Malone 4,State Senate,45,,Write-in,6
+Franklin,Malone 4,State Assembly,115,DEM,Billy Jones,379
+Franklin,Malone 4,State Assembly,115,,Write-in,3
+Franklin,Malone 5,President,,DEM,Kamala D. Harris,312
+Franklin,Malone 5,President,,REP,Donald J. Trump,566
+Franklin,Malone 5,President,,CON,Donald J. Trump,36
+Franklin,Malone 5,President,,WOR,Kamala D. Harris,19
+Franklin,Malone 5,President,,,Write-in,2
+Franklin,Malone 5,U.S. Senate,,DEM,Kirsten E. Gillibrand,339
+Franklin,Malone 5,U.S. Senate,,REP,Michael D. Sapraicone,484
+Franklin,Malone 5,U.S. Senate,,CON,Michael D. Sapraicone,39
+Franklin,Malone 5,U.S. Senate,,WOR,Kirsten E. Gillibrand,39
+Franklin,Malone 5,U.S. Senate,,LAR,Diane Sare,2
+Franklin,Malone 5,U.S. House,21,DEM,Paula Collins,286
+Franklin,Malone 5,U.S. House,21,REP,Elise M. Stefanik,569
+Franklin,Malone 5,U.S. House,21,CON,Elise M. Stefanik,42
+Franklin,Malone 5,U.S. House,21,WOR,Paula Collins,25
+Franklin,Malone 5,State Senate,45,REP,Daniel G. Stec,653
+Franklin,Malone 5,State Senate,45,CON,Daniel G. Stec,91
+Franklin,Malone 5,State Senate,45,,Write-in,1
+Franklin,Malone 5,State Assembly,115,DEM,Billy Jones,612
+Franklin,Malone 5,State Assembly,115,,Write-in,4
+Franklin,Moira 1,President,,DEM,Kamala D. Harris,361
+Franklin,Moira 1,President,,REP,Donald J. Trump,802
+Franklin,Moira 1,President,,CON,Donald J. Trump,59
+Franklin,Moira 1,President,,WOR,Kamala D. Harris,15
+Franklin,Moira 1,President,,,Write-in,6
+Franklin,Moira 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,369
+Franklin,Moira 1,U.S. Senate,,REP,Michael D. Sapraicone,715
+Franklin,Moira 1,U.S. Senate,,CON,Michael D. Sapraicone,65
+Franklin,Moira 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,36
+Franklin,Moira 1,U.S. Senate,,LAR,Diane Sare,4
+Franklin,Moira 1,U.S. House,21,DEM,Paula Collins,326
+Franklin,Moira 1,U.S. House,21,REP,Elise M. Stefanik,814
+Franklin,Moira 1,U.S. House,21,CON,Elise M. Stefanik,68
+Franklin,Moira 1,U.S. House,21,WOR,Paula Collins,22
+Franklin,Moira 1,State Senate,45,REP,Daniel G. Stec,888
+Franklin,Moira 1,State Senate,45,CON,Daniel G. Stec,119
+Franklin,Moira 1,State Senate,45,,Write-in,2
+Franklin,Moira 1,State Assembly,115,DEM,Billy Jones,750
+Franklin,Moira 1,State Assembly,115,,Write-in,4
+Franklin,Santa Clara 1,President,,DEM,Kamala D. Harris,171
+Franklin,Santa Clara 1,President,,REP,Donald J. Trump,73
+Franklin,Santa Clara 1,President,,CON,Donald J. Trump,8
+Franklin,Santa Clara 1,President,,WOR,Kamala D. Harris,7
+Franklin,Santa Clara 1,President,,,Write-in,2
+Franklin,Santa Clara 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,165
+Franklin,Santa Clara 1,U.S. Senate,,REP,Michael D. Sapraicone,78
+Franklin,Santa Clara 1,U.S. Senate,,CON,Michael D. Sapraicone,8
+Franklin,Santa Clara 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,9
+Franklin,Santa Clara 1,U.S. Senate,,LAR,Diane Sare,1
+Franklin,Santa Clara 1,U.S. House,21,DEM,Paula Collins,161
+Franklin,Santa Clara 1,U.S. House,21,REP,Elise M. Stefanik,81
+Franklin,Santa Clara 1,U.S. House,21,CON,Elise M. Stefanik,8
+Franklin,Santa Clara 1,U.S. House,21,WOR,Paula Collins,9
+Franklin,Santa Clara 1,State Senate,45,REP,Daniel G. Stec,126
+Franklin,Santa Clara 1,State Senate,45,CON,Daniel G. Stec,29
+Franklin,Santa Clara 1,State Senate,45,,Write-in,4
+Franklin,Santa Clara 1,State Assembly,115,DEM,Billy Jones,201
+Franklin,Tupper Lake 1,President,,DEM,Kamala D. Harris,422
+Franklin,Tupper Lake 1,President,,REP,Donald J. Trump,488
+Franklin,Tupper Lake 1,President,,CON,Donald J. Trump,43
+Franklin,Tupper Lake 1,President,,WOR,Kamala D. Harris,33
+Franklin,Tupper Lake 1,President,,,Write-in,1
+Franklin,Tupper Lake 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,411
+Franklin,Tupper Lake 1,U.S. Senate,,REP,Michael D. Sapraicone,446
+Franklin,Tupper Lake 1,U.S. Senate,,CON,Michael D. Sapraicone,43
+Franklin,Tupper Lake 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,43
+Franklin,Tupper Lake 1,U.S. Senate,,LAR,Diane Sare,5
+Franklin,Tupper Lake 1,U.S. House,21,DEM,Paula Collins,394
+Franklin,Tupper Lake 1,U.S. House,21,REP,Elise M. Stefanik,494
+Franklin,Tupper Lake 1,U.S. House,21,CON,Elise M. Stefanik,49
+Franklin,Tupper Lake 1,U.S. House,21,WOR,Paula Collins,40
+Franklin,Tupper Lake 1,U.S. House,21,,Write-in,1
+Franklin,Tupper Lake 1,State Senate,45,REP,Daniel G. Stec,628
+Franklin,Tupper Lake 1,State Senate,45,CON,Daniel G. Stec,106
+Franklin,Tupper Lake 1,State Senate,45,,Write-in,3
+Franklin,Tupper Lake 1,State Assembly,115,DEM,Billy Jones,660
+Franklin,Tupper Lake 1,State Assembly,115,,Write-in,2
+Franklin,Tupper Lake 2,President,,DEM,Kamala D. Harris,327
+Franklin,Tupper Lake 2,President,,REP,Donald J. Trump,477
+Franklin,Tupper Lake 2,President,,CON,Donald J. Trump,44
+Franklin,Tupper Lake 2,President,,WOR,Kamala D. Harris,17
+Franklin,Tupper Lake 2,President,,,Write-in,2
+Franklin,Tupper Lake 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,337
+Franklin,Tupper Lake 2,U.S. Senate,,REP,Michael D. Sapraicone,416
+Franklin,Tupper Lake 2,U.S. Senate,,CON,Michael D. Sapraicone,40
+Franklin,Tupper Lake 2,U.S. Senate,,WOR,Kirsten E. Gillibrand,39
+Franklin,Tupper Lake 2,U.S. Senate,,LAR,Diane Sare,3
+Franklin,Tupper Lake 2,U.S. Senate,,,Write-in,1
+Franklin,Tupper Lake 2,U.S. House,21,DEM,Paula Collins,302
+Franklin,Tupper Lake 2,U.S. House,21,REP,Elise M. Stefanik,477
+Franklin,Tupper Lake 2,U.S. House,21,CON,Elise M. Stefanik,47
+Franklin,Tupper Lake 2,U.S. House,21,WOR,Paula Collins,23
+Franklin,Tupper Lake 2,U.S. House,21,,Write-in,2
+Franklin,Tupper Lake 2,State Senate,45,REP,Daniel G. Stec,572
+Franklin,Tupper Lake 2,State Senate,45,CON,Daniel G. Stec,103
+Franklin,Tupper Lake 2,State Senate,45,,Write-in,4
+Franklin,Tupper Lake 2,State Assembly,115,DEM,Billy Jones,544
+Franklin,Tupper Lake 2,State Assembly,115,,Write-in,8
+Franklin,Tupper Lake 3,President,,DEM,Kamala D. Harris,188
+Franklin,Tupper Lake 3,President,,REP,Donald J. Trump,319
+Franklin,Tupper Lake 3,President,,CON,Donald J. Trump,32
+Franklin,Tupper Lake 3,President,,WOR,Kamala D. Harris,14
+Franklin,Tupper Lake 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,195
+Franklin,Tupper Lake 3,U.S. Senate,,REP,Michael D. Sapraicone,269
+Franklin,Tupper Lake 3,U.S. Senate,,CON,Michael D. Sapraicone,27
+Franklin,Tupper Lake 3,U.S. Senate,,WOR,Kirsten E. Gillibrand,29
+Franklin,Tupper Lake 3,U.S. Senate,,LAR,Diane Sare,1
+Franklin,Tupper Lake 3,U.S. House,21,DEM,Paula Collins,160
+Franklin,Tupper Lake 3,U.S. House,21,REP,Elise M. Stefanik,322
+Franklin,Tupper Lake 3,U.S. House,21,CON,Elise M. Stefanik,32
+Franklin,Tupper Lake 3,U.S. House,21,WOR,Paula Collins,21
+Franklin,Tupper Lake 3,State Senate,45,REP,Daniel G. Stec,376
+Franklin,Tupper Lake 3,State Senate,45,CON,Daniel G. Stec,72
+Franklin,Tupper Lake 3,State Senate,45,,Write-in,1
+Franklin,Tupper Lake 3,State Assembly,115,DEM,Billy Jones,338
+Franklin,Tupper Lake 3,State Assembly,115,,Write-in,1
+Franklin,Waverly 1,President,,DEM,Kamala D. Harris,124
+Franklin,Waverly 1,President,,REP,Donald J. Trump,301
+Franklin,Waverly 1,President,,CON,Donald J. Trump,24
+Franklin,Waverly 1,President,,WOR,Kamala D. Harris,7
+Franklin,Waverly 1,President,,,Write-in,2
+Franklin,Waverly 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,139
+Franklin,Waverly 1,U.S. Senate,,REP,Michael D. Sapraicone,253
+Franklin,Waverly 1,U.S. Senate,,CON,Michael D. Sapraicone,23
+Franklin,Waverly 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,15
+Franklin,Waverly 1,U.S. Senate,,LAR,Diane Sare,4
+Franklin,Waverly 1,U.S. House,21,DEM,Paula Collins,114
+Franklin,Waverly 1,U.S. House,21,REP,Elise M. Stefanik,298
+Franklin,Waverly 1,U.S. House,21,CON,Elise M. Stefanik,28
+Franklin,Waverly 1,U.S. House,21,WOR,Paula Collins,13
+Franklin,Waverly 1,State Senate,45,REP,Daniel G. Stec,323
+Franklin,Waverly 1,State Senate,45,CON,Daniel G. Stec,48
+Franklin,Waverly 1,State Senate,45,,Write-in,6
+Franklin,Waverly 1,State Assembly,115,DEM,Billy Jones,277
+Franklin,Waverly 1,State Assembly,115,,Write-in,5
+Franklin,Westville 1,President,,DEM,Kamala D. Harris,207
+Franklin,Westville 1,President,,REP,Donald J. Trump,513
+Franklin,Westville 1,President,,CON,Donald J. Trump,35
+Franklin,Westville 1,President,,WOR,Kamala D. Harris,10
+Franklin,Westville 1,President,,,Write-in,1
+Franklin,Westville 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,221
+Franklin,Westville 1,U.S. Senate,,REP,Michael D. Sapraicone,457
+Franklin,Westville 1,U.S. Senate,,CON,Michael D. Sapraicone,29
+Franklin,Westville 1,U.S. Senate,,WOR,Kirsten E. Gillibrand,30
+Franklin,Westville 1,U.S. Senate,,LAR,Diane Sare,3
+Franklin,Westville 1,U.S. House,21,DEM,Paula Collins,198
+Franklin,Westville 1,U.S. House,21,REP,Elise M. Stefanik,504
+Franklin,Westville 1,U.S. House,21,CON,Elise M. Stefanik,38
+Franklin,Westville 1,U.S. House,21,WOR,Paula Collins,21
+Franklin,Westville 1,State Senate,45,REP,Daniel G. Stec,534
+Franklin,Westville 1,State Senate,45,CON,Daniel G. Stec,82
+Franklin,Westville 1,State Senate,45,,Write-in,1
+Franklin,Westville 1,State Assembly,115,DEM,Billy Jones,475
+Franklin,Westville 1,State Assembly,115,,Write-in,5

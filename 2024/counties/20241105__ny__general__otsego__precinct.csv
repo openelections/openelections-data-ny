@@ -1,0 +1,589 @@
+county,precinct,office,district,party,candidate,votes
+Otsego,Burlington 1,President,,DEM,Kamala D. Harris,151
+Otsego,Burlington 1,President,,REP,Donald J. Trump,459
+Otsego,Burlington 1,President,,,Write-in,1
+Otsego,Burlington 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,157
+Otsego,Burlington 1,U.S. Senate,,REP,Michael D. Sapraicone,427
+Otsego,Burlington 1,U.S. Senate,,LAR,Diane Sare,3
+Otsego,Burlington 1,U.S. House,19,DEM,Josh Riley,148
+Otsego,Burlington 1,U.S. House,19,REP,Marcus Molinaro,445
+Otsego,Burlington 1,State Senate,51,DEM,Michele Frazier,123
+Otsego,Burlington 1,State Senate,51,REP,Peter Oberacker,468
+Otsego,Burlington 1,State Assembly,122,DEM,Adrienne Martini,122
+Otsego,Burlington 1,State Assembly,122,REP,Brian Miller,470
+Otsego,Butternuts 1,President,,DEM,Kamala D. Harris,130
+Otsego,Butternuts 1,President,,REP,Donald J. Trump,214
+Otsego,Butternuts 1,President,,,Write-in,3
+Otsego,Butternuts 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,130
+Otsego,Butternuts 1,U.S. Senate,,REP,Michael D. Sapraicone,200
+Otsego,Butternuts 1,U.S. Senate,,LAR,Diane Sare,4
+Otsego,Butternuts 1,U.S. House,19,DEM,Josh Riley,128
+Otsego,Butternuts 1,U.S. House,19,REP,Marcus Molinaro,209
+Otsego,Butternuts 1,State Senate,51,DEM,Michele Frazier,112
+Otsego,Butternuts 1,State Senate,51,REP,Peter Oberacker,219
+Otsego,Butternuts 1,State Assembly,121,DEM,Vicki Davis,101
+Otsego,Butternuts 1,State Assembly,121,REP,Joe Angelino,234
+Otsego,Butternuts 2,President,,DEM,Kamala D. Harris,245
+Otsego,Butternuts 2,President,,REP,Donald J. Trump,350
+Otsego,Butternuts 2,President,,,Write-in,4
+Otsego,Butternuts 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,250
+Otsego,Butternuts 2,U.S. Senate,,REP,Michael D. Sapraicone,319
+Otsego,Butternuts 2,U.S. Senate,,LAR,Diane Sare,6
+Otsego,Butternuts 2,U.S. House,19,DEM,Josh Riley,247
+Otsego,Butternuts 2,U.S. House,19,REP,Marcus Molinaro,342
+Otsego,Butternuts 2,State Senate,51,DEM,Michele Frazier,226
+Otsego,Butternuts 2,State Senate,51,REP,Peter Oberacker,360
+Otsego,Butternuts 2,State Assembly,121,DEM,Vicki Davis,221
+Otsego,Butternuts 2,State Assembly,121,REP,Joe Angelino,360
+Otsego,Cherry Valley 1,President,,DEM,Kamala D. Harris,341
+Otsego,Cherry Valley 1,President,,REP,Donald J. Trump,359
+Otsego,Cherry Valley 1,President,,,Write-in,2
+Otsego,Cherry Valley 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,349
+Otsego,Cherry Valley 1,U.S. Senate,,REP,Michael D. Sapraicone,328
+Otsego,Cherry Valley 1,U.S. Senate,,LAR,Diane Sare,4
+Otsego,Cherry Valley 1,U.S. House,19,DEM,Josh Riley,329
+Otsego,Cherry Valley 1,U.S. House,19,REP,Marcus Molinaro,354
+Otsego,Cherry Valley 1,State Senate,51,DEM,Michele Frazier,286
+Otsego,Cherry Valley 1,State Senate,51,REP,Peter Oberacker,386
+Otsego,Cherry Valley 1,State Assembly,102,DEM,Janet S. Tweed,288
+Otsego,Cherry Valley 1,State Assembly,102,REP,Christopher Tague,382
+Otsego,Decatur 1,President,,DEM,Kamala D. Harris,67
+Otsego,Decatur 1,President,,REP,Donald J. Trump,139
+Otsego,Decatur 1,President,,,Write-in,1
+Otsego,Decatur 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,79
+Otsego,Decatur 1,U.S. Senate,,REP,Michael D. Sapraicone,105
+Otsego,Decatur 1,U.S. Senate,,LAR,Diane Sare,2
+Otsego,Decatur 1,U.S. House,19,DEM,Josh Riley,62
+Otsego,Decatur 1,U.S. House,19,REP,Marcus Molinaro,129
+Otsego,Decatur 1,State Senate,51,DEM,Michele Frazier,51
+Otsego,Decatur 1,State Senate,51,REP,Peter Oberacker,150
+Otsego,Decatur 1,State Assembly,102,DEM,Janet S. Tweed,54
+Otsego,Decatur 1,State Assembly,102,REP,Christopher Tague,139
+Otsego,Edmeston 1,President,,DEM,Kamala D. Harris,277
+Otsego,Edmeston 1,President,,REP,Donald J. Trump,574
+Otsego,Edmeston 1,President,,,Write-in,2
+Otsego,Edmeston 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,279
+Otsego,Edmeston 1,U.S. Senate,,REP,Michael D. Sapraicone,526
+Otsego,Edmeston 1,U.S. Senate,,LAR,Diane Sare,12
+Otsego,Edmeston 1,U.S. House,19,DEM,Josh Riley,255
+Otsego,Edmeston 1,U.S. House,19,REP,Marcus Molinaro,564
+Otsego,Edmeston 1,State Senate,51,DEM,Michele Frazier,222
+Otsego,Edmeston 1,State Senate,51,REP,Peter Oberacker,596
+Otsego,Edmeston 1,State Assembly,121,DEM,Vicki Davis,219
+Otsego,Edmeston 1,State Assembly,121,REP,Joe Angelino,588
+Otsego,Exeter 1,President,,DEM,Kamala D. Harris,127
+Otsego,Exeter 1,President,,REP,Donald J. Trump,315
+Otsego,Exeter 1,President,,,Write-in,1
+Otsego,Exeter 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,142
+Otsego,Exeter 1,U.S. Senate,,REP,Michael D. Sapraicone,277
+Otsego,Exeter 1,U.S. Senate,,LAR,Diane Sare,4
+Otsego,Exeter 1,U.S. House,19,DEM,Josh Riley,130
+Otsego,Exeter 1,U.S. House,19,REP,Marcus Molinaro,288
+Otsego,Exeter 1,State Senate,51,DEM,Michele Frazier,107
+Otsego,Exeter 1,State Senate,51,REP,Peter Oberacker,313
+Otsego,Exeter 1,State Assembly,122,DEM,Adrienne Martini,103
+Otsego,Exeter 1,State Assembly,122,REP,Brian Miller,311
+Otsego,Hartwick 1,President,,DEM,Kamala D. Harris,324
+Otsego,Hartwick 1,President,,REP,Donald J. Trump,420
+Otsego,Hartwick 1,President,,,Write-in,3
+Otsego,Hartwick 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,350
+Otsego,Hartwick 1,U.S. Senate,,REP,Michael D. Sapraicone,379
+Otsego,Hartwick 1,U.S. Senate,,LAR,Diane Sare,7
+Otsego,Hartwick 1,U.S. House,19,DEM,Josh Riley,312
+Otsego,Hartwick 1,U.S. House,19,REP,Marcus Molinaro,412
+Otsego,Hartwick 1,State Senate,51,DEM,Michele Frazier,287
+Otsego,Hartwick 1,State Senate,51,REP,Peter Oberacker,425
+Otsego,Hartwick 1,State Assembly,122,DEM,Adrienne Martini,289
+Otsego,Hartwick 1,State Assembly,122,REP,Brian Miller,421
+Otsego,Hartwick 2,President,,DEM,Kamala D. Harris,165
+Otsego,Hartwick 2,President,,REP,Donald J. Trump,193
+Otsego,Hartwick 2,President,,,Write-in,2
+Otsego,Hartwick 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,160
+Otsego,Hartwick 2,U.S. Senate,,REP,Michael D. Sapraicone,188
+Otsego,Hartwick 2,U.S. Senate,,LAR,Diane Sare,2
+Otsego,Hartwick 2,U.S. House,19,DEM,Josh Riley,160
+Otsego,Hartwick 2,U.S. House,19,REP,Marcus Molinaro,196
+Otsego,Hartwick 2,State Senate,51,DEM,Michele Frazier,137
+Otsego,Hartwick 2,State Senate,51,REP,Peter Oberacker,209
+Otsego,Hartwick 2,State Assembly,122,DEM,Adrienne Martini,140
+Otsego,Hartwick 2,State Assembly,122,REP,Brian Miller,204
+Otsego,Laurens 1,President,,DEM,Kamala D. Harris,224
+Otsego,Laurens 1,President,,REP,Donald J. Trump,291
+Otsego,Laurens 1,President,,,Write-in,5
+Otsego,Laurens 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,235
+Otsego,Laurens 1,U.S. Senate,,REP,Michael D. Sapraicone,274
+Otsego,Laurens 1,U.S. Senate,,LAR,Diane Sare,4
+Otsego,Laurens 1,U.S. House,19,DEM,Josh Riley,213
+Otsego,Laurens 1,U.S. House,19,REP,Marcus Molinaro,295
+Otsego,Laurens 1,State Senate,51,DEM,Michele Frazier,205
+Otsego,Laurens 1,State Senate,51,REP,Peter Oberacker,304
+Otsego,Laurens 1,State Assembly,122,DEM,Adrienne Martini,200
+Otsego,Laurens 1,State Assembly,122,REP,Brian Miller,305
+Otsego,Laurens 2,President,,DEM,Kamala D. Harris,255
+Otsego,Laurens 2,President,,REP,Donald J. Trump,420
+Otsego,Laurens 2,President,,,Write-in,2
+Otsego,Laurens 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,268
+Otsego,Laurens 2,U.S. Senate,,REP,Michael D. Sapraicone,380
+Otsego,Laurens 2,U.S. Senate,,LAR,Diane Sare,6
+Otsego,Laurens 2,U.S. House,19,DEM,Josh Riley,253
+Otsego,Laurens 2,U.S. House,19,REP,Marcus Molinaro,403
+Otsego,Laurens 2,State Senate,51,DEM,Michele Frazier,231
+Otsego,Laurens 2,State Senate,51,REP,Peter Oberacker,423
+Otsego,Laurens 2,State Assembly,122,DEM,Adrienne Martini,236
+Otsego,Laurens 2,State Assembly,122,REP,Brian Miller,412
+Otsego,Maryland 1,President,,DEM,Kamala D. Harris,126
+Otsego,Maryland 1,President,,REP,Donald J. Trump,265
+Otsego,Maryland 1,President,,,Write-in,1
+Otsego,Maryland 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,132
+Otsego,Maryland 1,U.S. Senate,,REP,Michael D. Sapraicone,240
+Otsego,Maryland 1,U.S. House,19,DEM,Josh Riley,115
+Otsego,Maryland 1,U.S. House,19,REP,Marcus Molinaro,256
+Otsego,Maryland 1,State Senate,51,DEM,Michele Frazier,103
+Otsego,Maryland 1,State Senate,51,REP,Peter Oberacker,281
+Otsego,Maryland 1,State Assembly,102,DEM,Janet S. Tweed,108
+Otsego,Maryland 1,State Assembly,102,REP,Christopher Tague,259
+Otsego,Maryland 2,President,,DEM,Kamala D. Harris,169
+Otsego,Maryland 2,President,,REP,Donald J. Trump,414
+Otsego,Maryland 2,President,,,Write-in,1
+Otsego,Maryland 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,193
+Otsego,Maryland 2,U.S. Senate,,REP,Michael D. Sapraicone,360
+Otsego,Maryland 2,U.S. Senate,,LAR,Diane Sare,2
+Otsego,Maryland 2,U.S. House,19,DEM,Josh Riley,167
+Otsego,Maryland 2,U.S. House,19,REP,Marcus Molinaro,392
+Otsego,Maryland 2,State Senate,51,DEM,Michele Frazier,136
+Otsego,Maryland 2,State Senate,51,REP,Peter Oberacker,435
+Otsego,Maryland 2,State Assembly,102,DEM,Janet S. Tweed,144
+Otsego,Maryland 2,State Assembly,102,REP,Christopher Tague,413
+Otsego,Middlefield 1,President,,DEM,Kamala D. Harris,345
+Otsego,Middlefield 1,President,,REP,Donald J. Trump,144
+Otsego,Middlefield 1,President,,,Write-in,2
+Otsego,Middlefield 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,343
+Otsego,Middlefield 1,U.S. Senate,,REP,Michael D. Sapraicone,137
+Otsego,Middlefield 1,U.S. Senate,,LAR,Diane Sare,1
+Otsego,Middlefield 1,U.S. House,19,DEM,Josh Riley,335
+Otsego,Middlefield 1,U.S. House,19,REP,Marcus Molinaro,150
+Otsego,Middlefield 1,State Senate,51,DEM,Michele Frazier,303
+Otsego,Middlefield 1,State Senate,51,REP,Peter Oberacker,175
+Otsego,Middlefield 1,State Assembly,102,DEM,Janet S. Tweed,316
+Otsego,Middlefield 1,State Assembly,102,REP,Christopher Tague,157
+Otsego,Middlefield 2,President,,DEM,Kamala D. Harris,307
+Otsego,Middlefield 2,President,,REP,Donald J. Trump,358
+Otsego,Middlefield 2,President,,,Write-in,9
+Otsego,Middlefield 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,312
+Otsego,Middlefield 2,U.S. Senate,,REP,Michael D. Sapraicone,329
+Otsego,Middlefield 2,U.S. Senate,,LAR,Diane Sare,9
+Otsego,Middlefield 2,U.S. House,19,DEM,Josh Riley,312
+Otsego,Middlefield 2,U.S. House,19,REP,Marcus Molinaro,342
+Otsego,Middlefield 2,State Senate,51,DEM,Michele Frazier,278
+Otsego,Middlefield 2,State Senate,51,REP,Peter Oberacker,376
+Otsego,Middlefield 2,State Assembly,102,DEM,Janet S. Tweed,289
+Otsego,Middlefield 2,State Assembly,102,REP,Christopher Tague,356
+Otsego,Milford 1,President,,DEM,Kamala D. Harris,263
+Otsego,Milford 1,President,,REP,Donald J. Trump,313
+Otsego,Milford 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,274
+Otsego,Milford 1,U.S. Senate,,REP,Michael D. Sapraicone,276
+Otsego,Milford 1,U.S. Senate,,LAR,Diane Sare,2
+Otsego,Milford 1,U.S. House,19,DEM,Josh Riley,262
+Otsego,Milford 1,U.S. House,19,REP,Marcus Molinaro,287
+Otsego,Milford 1,State Senate,51,DEM,Michele Frazier,217
+Otsego,Milford 1,State Senate,51,REP,Peter Oberacker,338
+Otsego,Milford 1,State Assembly,122,DEM,Adrienne Martini,242
+Otsego,Milford 1,State Assembly,122,REP,Brian Miller,303
+Otsego,Milford 2,President,,DEM,Kamala D. Harris,428
+Otsego,Milford 2,President,,REP,Donald J. Trump,495
+Otsego,Milford 2,President,,,Write-in,3
+Otsego,Milford 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,425
+Otsego,Milford 2,U.S. Senate,,REP,Michael D. Sapraicone,455
+Otsego,Milford 2,U.S. Senate,,LAR,Diane Sare,11
+Otsego,Milford 2,U.S. House,19,DEM,Josh Riley,410
+Otsego,Milford 2,U.S. House,19,REP,Marcus Molinaro,493
+Otsego,Milford 2,State Senate,51,DEM,Michele Frazier,353
+Otsego,Milford 2,State Senate,51,REP,Peter Oberacker,558
+Otsego,Milford 2,State Assembly,122,DEM,Adrienne Martini,366
+Otsego,Milford 2,State Assembly,122,REP,Brian Miller,525
+Otsego,Morris 1,President,,DEM,Kamala D. Harris,346
+Otsego,Morris 1,President,,REP,Donald J. Trump,511
+Otsego,Morris 1,President,,,Write-in,5
+Otsego,Morris 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,370
+Otsego,Morris 1,U.S. Senate,,REP,Michael D. Sapraicone,464
+Otsego,Morris 1,U.S. Senate,,LAR,Diane Sare,6
+Otsego,Morris 1,U.S. House,19,DEM,Josh Riley,347
+Otsego,Morris 1,U.S. House,19,REP,Marcus Molinaro,496
+Otsego,Morris 1,State Senate,51,DEM,Michele Frazier,309
+Otsego,Morris 1,State Senate,51,REP,Peter Oberacker,536
+Otsego,Morris 1,State Assembly,121,DEM,Vicki Davis,280
+Otsego,Morris 1,State Assembly,121,REP,Joe Angelino,551
+Otsego,New Lisbon 1,President,,DEM,Kamala D. Harris,230
+Otsego,New Lisbon 1,President,,REP,Donald J. Trump,404
+Otsego,New Lisbon 1,President,,,Write-in,4
+Otsego,New Lisbon 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,238
+Otsego,New Lisbon 1,U.S. Senate,,REP,Michael D. Sapraicone,369
+Otsego,New Lisbon 1,U.S. Senate,,LAR,Diane Sare,4
+Otsego,New Lisbon 1,U.S. House,19,DEM,Josh Riley,224
+Otsego,New Lisbon 1,U.S. House,19,REP,Marcus Molinaro,391
+Otsego,New Lisbon 1,State Senate,51,DEM,Michele Frazier,209
+Otsego,New Lisbon 1,State Senate,51,REP,Peter Oberacker,411
+Otsego,New Lisbon 1,State Assembly,122,DEM,Adrienne Martini,201
+Otsego,New Lisbon 1,State Assembly,122,REP,Brian Miller,413
+Otsego,Oneonta 1,President,,DEM,Kamala D. Harris,411
+Otsego,Oneonta 1,President,,REP,Donald J. Trump,365
+Otsego,Oneonta 1,President,,,Write-in,3
+Otsego,Oneonta 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,427
+Otsego,Oneonta 1,U.S. Senate,,REP,Michael D. Sapraicone,332
+Otsego,Oneonta 1,U.S. Senate,,LAR,Diane Sare,5
+Otsego,Oneonta 1,U.S. House,19,DEM,Josh Riley,395
+Otsego,Oneonta 1,U.S. House,19,REP,Marcus Molinaro,367
+Otsego,Oneonta 1,State Senate,51,DEM,Michele Frazier,366
+Otsego,Oneonta 1,State Senate,51,REP,Peter Oberacker,388
+Otsego,Oneonta 1,State Assembly,122,DEM,Adrienne Martini,369
+Otsego,Oneonta 1,State Assembly,122,REP,Brian Miller,375
+Otsego,Oneonta 2,President,,DEM,Kamala D. Harris,447
+Otsego,Oneonta 2,President,,REP,Donald J. Trump,331
+Otsego,Oneonta 2,President,,,Write-in,3
+Otsego,Oneonta 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,454
+Otsego,Oneonta 2,U.S. Senate,,REP,Michael D. Sapraicone,308
+Otsego,Oneonta 2,U.S. Senate,,LAR,Diane Sare,4
+Otsego,Oneonta 2,U.S. House,19,DEM,Josh Riley,409
+Otsego,Oneonta 2,U.S. House,19,REP,Marcus Molinaro,349
+Otsego,Oneonta 2,State Senate,51,DEM,Michele Frazier,396
+Otsego,Oneonta 2,State Senate,51,REP,Peter Oberacker,370
+Otsego,Oneonta 2,State Assembly,122,DEM,Adrienne Martini,403
+Otsego,Oneonta 2,State Assembly,122,REP,Brian Miller,351
+Otsego,Oneonta 3,President,,DEM,Kamala D. Harris,319
+Otsego,Oneonta 3,President,,REP,Donald J. Trump,232
+Otsego,Oneonta 3,President,,,Write-in,2
+Otsego,Oneonta 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,320
+Otsego,Oneonta 3,U.S. Senate,,REP,Michael D. Sapraicone,221
+Otsego,Oneonta 3,U.S. House,19,DEM,Josh Riley,306
+Otsego,Oneonta 3,U.S. House,19,REP,Marcus Molinaro,241
+Otsego,Oneonta 3,State Senate,51,DEM,Michele Frazier,289
+Otsego,Oneonta 3,State Senate,51,REP,Peter Oberacker,253
+Otsego,Oneonta 3,State Assembly,122,DEM,Adrienne Martini,288
+Otsego,Oneonta 3,State Assembly,122,REP,Brian Miller,250
+Otsego,Oneonta 4,President,,DEM,Kamala D. Harris,233
+Otsego,Oneonta 4,President,,REP,Donald J. Trump,223
+Otsego,Oneonta 4,President,,,Write-in,2
+Otsego,Oneonta 4,U.S. Senate,,DEM,Kirsten E. Gillibrand,235
+Otsego,Oneonta 4,U.S. Senate,,REP,Michael D. Sapraicone,210
+Otsego,Oneonta 4,U.S. Senate,,LAR,Diane Sare,2
+Otsego,Oneonta 4,U.S. House,19,DEM,Josh Riley,234
+Otsego,Oneonta 4,U.S. House,19,REP,Marcus Molinaro,213
+Otsego,Oneonta 4,State Senate,51,DEM,Michele Frazier,215
+Otsego,Oneonta 4,State Senate,51,REP,Peter Oberacker,233
+Otsego,Oneonta 4,State Assembly,122,DEM,Adrienne Martini,219
+Otsego,Oneonta 4,State Assembly,122,REP,Brian Miller,220
+Otsego,Otego 1,President,,DEM,Kamala D. Harris,224
+Otsego,Otego 1,President,,REP,Donald J. Trump,476
+Otsego,Otego 1,President,,,Write-in,1
+Otsego,Otego 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,241
+Otsego,Otego 1,U.S. Senate,,REP,Michael D. Sapraicone,431
+Otsego,Otego 1,U.S. Senate,,LAR,Diane Sare,6
+Otsego,Otego 1,U.S. House,19,DEM,Josh Riley,219
+Otsego,Otego 1,U.S. House,19,REP,Marcus Molinaro,460
+Otsego,Otego 1,State Senate,51,DEM,Michele Frazier,186
+Otsego,Otego 1,State Senate,51,REP,Peter Oberacker,489
+Otsego,Otego 1,State Assembly,121,DEM,Vicki Davis,198
+Otsego,Otego 1,State Assembly,121,REP,Joe Angelino,477
+Otsego,Otego 2,President,,DEM,Kamala D. Harris,310
+Otsego,Otego 2,President,,REP,Donald J. Trump,470
+Otsego,Otego 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,317
+Otsego,Otego 2,U.S. Senate,,REP,Michael D. Sapraicone,435
+Otsego,Otego 2,U.S. Senate,,LAR,Diane Sare,1
+Otsego,Otego 2,U.S. House,19,DEM,Josh Riley,303
+Otsego,Otego 2,U.S. House,19,REP,Marcus Molinaro,451
+Otsego,Otego 2,State Senate,51,DEM,Michele Frazier,279
+Otsego,Otego 2,State Senate,51,REP,Peter Oberacker,478
+Otsego,Otego 2,State Assembly,121,DEM,Vicki Davis,287
+Otsego,Otego 2,State Assembly,121,REP,Joe Angelino,466
+Otsego,Otsego 1,President,,DEM,Kamala D. Harris,735
+Otsego,Otsego 1,President,,REP,Donald J. Trump,228
+Otsego,Otsego 1,President,,,Write-in,9
+Otsego,Otsego 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,712
+Otsego,Otsego 1,U.S. Senate,,REP,Michael D. Sapraicone,226
+Otsego,Otsego 1,U.S. Senate,,LAR,Diane Sare,9
+Otsego,Otsego 1,U.S. House,19,DEM,Josh Riley,702
+Otsego,Otsego 1,U.S. House,19,REP,Marcus Molinaro,246
+Otsego,Otsego 1,State Senate,51,DEM,Michele Frazier,654
+Otsego,Otsego 1,State Senate,51,REP,Peter Oberacker,286
+Otsego,Otsego 1,State Assembly,102,DEM,Janet S. Tweed,659
+Otsego,Otsego 1,State Assembly,102,REP,Christopher Tague,265
+Otsego,Otsego 2,President,,DEM,Kamala D. Harris,278
+Otsego,Otsego 2,President,,REP,Donald J. Trump,182
+Otsego,Otsego 2,President,,,Write-in,7
+Otsego,Otsego 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,275
+Otsego,Otsego 2,U.S. Senate,,REP,Michael D. Sapraicone,179
+Otsego,Otsego 2,U.S. Senate,,LAR,Diane Sare,2
+Otsego,Otsego 2,U.S. House,19,DEM,Josh Riley,263
+Otsego,Otsego 2,U.S. House,19,REP,Marcus Molinaro,192
+Otsego,Otsego 2,State Senate,51,DEM,Michele Frazier,229
+Otsego,Otsego 2,State Senate,51,REP,Peter Oberacker,224
+Otsego,Otsego 2,State Assembly,102,DEM,Janet S. Tweed,237
+Otsego,Otsego 2,State Assembly,102,REP,Christopher Tague,205
+Otsego,Otsego 3,President,,DEM,Kamala D. Harris,412
+Otsego,Otsego 3,President,,REP,Donald J. Trump,378
+Otsego,Otsego 3,President,,,Write-in,2
+Otsego,Otsego 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,420
+Otsego,Otsego 3,U.S. Senate,,REP,Michael D. Sapraicone,356
+Otsego,Otsego 3,U.S. House,19,DEM,Josh Riley,397
+Otsego,Otsego 3,U.S. House,19,REP,Marcus Molinaro,378
+Otsego,Otsego 3,State Senate,51,DEM,Michele Frazier,358
+Otsego,Otsego 3,State Senate,51,REP,Peter Oberacker,416
+Otsego,Otsego 3,State Assembly,102,DEM,Janet S. Tweed,376
+Otsego,Otsego 3,State Assembly,102,REP,Christopher Tague,391
+Otsego,Pittsfield 1,President,,DEM,Kamala D. Harris,158
+Otsego,Pittsfield 1,President,,REP,Donald J. Trump,355
+Otsego,Pittsfield 1,President,,,Write-in,1
+Otsego,Pittsfield 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,170
+Otsego,Pittsfield 1,U.S. Senate,,REP,Michael D. Sapraicone,320
+Otsego,Pittsfield 1,U.S. Senate,,LAR,Diane Sare,7
+Otsego,Pittsfield 1,U.S. House,19,DEM,Josh Riley,163
+Otsego,Pittsfield 1,U.S. House,19,REP,Marcus Molinaro,329
+Otsego,Pittsfield 1,State Senate,51,DEM,Michele Frazier,147
+Otsego,Pittsfield 1,State Senate,51,REP,Peter Oberacker,352
+Otsego,Pittsfield 1,State Assembly,121,DEM,Vicki Davis,127
+Otsego,Pittsfield 1,State Assembly,121,REP,Joe Angelino,364
+Otsego,Pittsfield 2,President,,DEM,Kamala D. Harris,15
+Otsego,Pittsfield 2,President,,REP,Donald J. Trump,65
+Otsego,Pittsfield 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,20
+Otsego,Pittsfield 2,U.S. Senate,,REP,Michael D. Sapraicone,56
+Otsego,Pittsfield 2,U.S. House,19,DEM,Josh Riley,19
+Otsego,Pittsfield 2,U.S. House,19,REP,Marcus Molinaro,58
+Otsego,Pittsfield 2,State Senate,51,DEM,Michele Frazier,13
+Otsego,Pittsfield 2,State Senate,51,REP,Peter Oberacker,65
+Otsego,Pittsfield 2,State Assembly,121,DEM,Vicki Davis,14
+Otsego,Pittsfield 2,State Assembly,121,REP,Joe Angelino,65
+Otsego,Plainfield 1,President,,DEM,Kamala D. Harris,100
+Otsego,Plainfield 1,President,,REP,Donald J. Trump,353
+Otsego,Plainfield 1,President,,,Write-in,4
+Otsego,Plainfield 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,109
+Otsego,Plainfield 1,U.S. Senate,,REP,Michael D. Sapraicone,323
+Otsego,Plainfield 1,U.S. Senate,,LAR,Diane Sare,5
+Otsego,Plainfield 1,U.S. House,19,DEM,Josh Riley,101
+Otsego,Plainfield 1,U.S. House,19,REP,Marcus Molinaro,333
+Otsego,Plainfield 1,State Senate,51,DEM,Michele Frazier,82
+Otsego,Plainfield 1,State Senate,51,REP,Peter Oberacker,351
+Otsego,Plainfield 1,State Assembly,122,DEM,Adrienne Martini,80
+Otsego,Plainfield 1,State Assembly,122,REP,Brian Miller,359
+Otsego,Richfield 1,President,,DEM,Kamala D. Harris,194
+Otsego,Richfield 1,President,,REP,Donald J. Trump,327
+Otsego,Richfield 1,President,,,Write-in,3
+Otsego,Richfield 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,203
+Otsego,Richfield 1,U.S. Senate,,REP,Michael D. Sapraicone,297
+Otsego,Richfield 1,U.S. Senate,,LAR,Diane Sare,4
+Otsego,Richfield 1,U.S. House,19,DEM,Josh Riley,187
+Otsego,Richfield 1,U.S. House,19,REP,Marcus Molinaro,321
+Otsego,Richfield 1,State Senate,51,DEM,Michele Frazier,156
+Otsego,Richfield 1,State Senate,51,REP,Peter Oberacker,348
+Otsego,Richfield 1,State Assembly,118,REP,Robert Smullen,388
+Otsego,Richfield 2,President,,DEM,Kamala D. Harris,177
+Otsego,Richfield 2,President,,REP,Donald J. Trump,431
+Otsego,Richfield 2,President,,,Write-in,1
+Otsego,Richfield 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,186
+Otsego,Richfield 2,U.S. Senate,,REP,Michael D. Sapraicone,383
+Otsego,Richfield 2,U.S. Senate,,LAR,Diane Sare,4
+Otsego,Richfield 2,U.S. House,19,DEM,Josh Riley,166
+Otsego,Richfield 2,U.S. House,19,REP,Marcus Molinaro,406
+Otsego,Richfield 2,State Senate,51,DEM,Michele Frazier,131
+Otsego,Richfield 2,State Senate,51,REP,Peter Oberacker,437
+Otsego,Richfield 2,State Assembly,118,REP,Robert Smullen,467
+Otsego,Roseboom 1,President,,DEM,Kamala D. Harris,180
+Otsego,Roseboom 1,President,,REP,Donald J. Trump,227
+Otsego,Roseboom 1,President,,,Write-in,1
+Otsego,Roseboom 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,187
+Otsego,Roseboom 1,U.S. Senate,,REP,Michael D. Sapraicone,211
+Otsego,Roseboom 1,U.S. Senate,,LAR,Diane Sare,2
+Otsego,Roseboom 1,U.S. House,19,DEM,Josh Riley,177
+Otsego,Roseboom 1,U.S. House,19,REP,Marcus Molinaro,219
+Otsego,Roseboom 1,State Senate,51,DEM,Michele Frazier,162
+Otsego,Roseboom 1,State Senate,51,REP,Peter Oberacker,236
+Otsego,Roseboom 1,State Assembly,102,DEM,Janet S. Tweed,161
+Otsego,Roseboom 1,State Assembly,102,REP,Christopher Tague,238
+Otsego,Springfield 1,President,,DEM,Kamala D. Harris,249
+Otsego,Springfield 1,President,,REP,Donald J. Trump,415
+Otsego,Springfield 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,261
+Otsego,Springfield 1,U.S. Senate,,REP,Michael D. Sapraicone,382
+Otsego,Springfield 1,U.S. Senate,,LAR,Diane Sare,4
+Otsego,Springfield 1,U.S. House,19,DEM,Josh Riley,254
+Otsego,Springfield 1,U.S. House,19,REP,Marcus Molinaro,386
+Otsego,Springfield 1,State Senate,51,DEM,Michele Frazier,217
+Otsego,Springfield 1,State Senate,51,REP,Peter Oberacker,426
+Otsego,Springfield 1,State Assembly,102,DEM,Janet S. Tweed,226
+Otsego,Springfield 1,State Assembly,102,REP,Christopher Tague,412
+Otsego,Unadilla 1,President,,DEM,Kamala D. Harris,175
+Otsego,Unadilla 1,President,,REP,Donald J. Trump,386
+Otsego,Unadilla 1,President,,,Write-in,3
+Otsego,Unadilla 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,181
+Otsego,Unadilla 1,U.S. Senate,,REP,Michael D. Sapraicone,350
+Otsego,Unadilla 1,U.S. Senate,,LAR,Diane Sare,3
+Otsego,Unadilla 1,U.S. House,19,DEM,Josh Riley,171
+Otsego,Unadilla 1,U.S. House,19,REP,Marcus Molinaro,366
+Otsego,Unadilla 1,State Senate,51,DEM,Michele Frazier,153
+Otsego,Unadilla 1,State Senate,51,REP,Peter Oberacker,384
+Otsego,Unadilla 1,State Assembly,121,DEM,Vicki Davis,150
+Otsego,Unadilla 1,State Assembly,121,REP,Joe Angelino,389
+Otsego,Unadilla 2,President,,DEM,Kamala D. Harris,310
+Otsego,Unadilla 2,President,,REP,Donald J. Trump,557
+Otsego,Unadilla 2,President,,,Write-in,3
+Otsego,Unadilla 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,326
+Otsego,Unadilla 2,U.S. Senate,,REP,Michael D. Sapraicone,500
+Otsego,Unadilla 2,U.S. Senate,,LAR,Diane Sare,6
+Otsego,Unadilla 2,U.S. House,19,DEM,Josh Riley,306
+Otsego,Unadilla 2,U.S. House,19,REP,Marcus Molinaro,532
+Otsego,Unadilla 2,State Senate,51,DEM,Michele Frazier,273
+Otsego,Unadilla 2,State Senate,51,REP,Peter Oberacker,562
+Otsego,Unadilla 2,State Assembly,121,DEM,Vicki Davis,262
+Otsego,Unadilla 2,State Assembly,121,REP,Joe Angelino,567
+Otsego,Unadilla 3,President,,DEM,Kamala D. Harris,282
+Otsego,Unadilla 3,President,,REP,Donald J. Trump,230
+Otsego,Unadilla 3,President,,,Write-in,5
+Otsego,Unadilla 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,284
+Otsego,Unadilla 3,U.S. Senate,,REP,Michael D. Sapraicone,218
+Otsego,Unadilla 3,U.S. Senate,,LAR,Diane Sare,4
+Otsego,Unadilla 3,U.S. House,19,DEM,Josh Riley,280
+Otsego,Unadilla 3,U.S. House,19,REP,Marcus Molinaro,226
+Otsego,Unadilla 3,State Senate,51,DEM,Michele Frazier,252
+Otsego,Unadilla 3,State Senate,51,REP,Peter Oberacker,253
+Otsego,Unadilla 3,State Assembly,121,DEM,Vicki Davis,245
+Otsego,Unadilla 3,State Assembly,121,REP,Joe Angelino,262
+Otsego,Westford 1,President,,DEM,Kamala D. Harris,145
+Otsego,Westford 1,President,,REP,Donald J. Trump,310
+Otsego,Westford 1,President,,,Write-in,3
+Otsego,Westford 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,160
+Otsego,Westford 1,U.S. Senate,,REP,Michael D. Sapraicone,285
+Otsego,Westford 1,U.S. Senate,,LAR,Diane Sare,6
+Otsego,Westford 1,U.S. House,19,DEM,Josh Riley,145
+Otsego,Westford 1,U.S. House,19,REP,Marcus Molinaro,299
+Otsego,Westford 1,State Senate,51,DEM,Michele Frazier,116
+Otsego,Westford 1,State Senate,51,REP,Peter Oberacker,335
+Otsego,Westford 1,State Assembly,102,DEM,Janet S. Tweed,123
+Otsego,Westford 1,State Assembly,102,REP,Christopher Tague,314
+Otsego,Worcester 1,President,,DEM,Kamala D. Harris,138
+Otsego,Worcester 1,President,,REP,Donald J. Trump,299
+Otsego,Worcester 1,President,,,Write-in,6
+Otsego,Worcester 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,152
+Otsego,Worcester 1,U.S. Senate,,REP,Michael D. Sapraicone,281
+Otsego,Worcester 1,U.S. Senate,,LAR,Diane Sare,1
+Otsego,Worcester 1,U.S. House,19,DEM,Josh Riley,145
+Otsego,Worcester 1,U.S. House,19,REP,Marcus Molinaro,286
+Otsego,Worcester 1,State Senate,51,DEM,Michele Frazier,128
+Otsego,Worcester 1,State Senate,51,REP,Peter Oberacker,300
+Otsego,Worcester 1,State Assembly,102,DEM,Janet S. Tweed,124
+Otsego,Worcester 1,State Assembly,102,REP,Christopher Tague,305
+Otsego,Worcester 2,President,,DEM,Kamala D. Harris,75
+Otsego,Worcester 2,President,,REP,Donald J. Trump,231
+Otsego,Worcester 2,U.S. Senate,,DEM,Kirsten E. Gillibrand,83
+Otsego,Worcester 2,U.S. Senate,,REP,Michael D. Sapraicone,206
+Otsego,Worcester 2,U.S. Senate,,LAR,Diane Sare,2
+Otsego,Worcester 2,U.S. House,19,DEM,Josh Riley,73
+Otsego,Worcester 2,U.S. House,19,REP,Marcus Molinaro,220
+Otsego,Worcester 2,State Senate,51,DEM,Michele Frazier,69
+Otsego,Worcester 2,State Senate,51,REP,Peter Oberacker,225
+Otsego,Worcester 2,State Assembly,102,DEM,Janet S. Tweed,62
+Otsego,Worcester 2,State Assembly,102,REP,Christopher Tague,232
+Otsego,Worcester 3,President,,DEM,Kamala D. Harris,147
+Otsego,Worcester 3,President,,REP,Donald J. Trump,247
+Otsego,Worcester 3,President,,,Write-in,3
+Otsego,Worcester 3,U.S. Senate,,DEM,Kirsten E. Gillibrand,160
+Otsego,Worcester 3,U.S. Senate,,REP,Michael D. Sapraicone,229
+Otsego,Worcester 3,U.S. Senate,,LAR,Diane Sare,2
+Otsego,Worcester 3,U.S. House,19,DEM,Josh Riley,137
+Otsego,Worcester 3,U.S. House,19,REP,Marcus Molinaro,250
+Otsego,Worcester 3,State Senate,51,DEM,Michele Frazier,119
+Otsego,Worcester 3,State Senate,51,REP,Peter Oberacker,268
+Otsego,Worcester 3,State Assembly,102,DEM,Janet S. Tweed,115
+Otsego,Worcester 3,State Assembly,102,REP,Christopher Tague,272
+Otsego,Ward 1 1,President,,DEM,Kamala D. Harris,519
+Otsego,Ward 1 1,President,,REP,Donald J. Trump,259
+Otsego,Ward 1 1,President,,,Write-in,5
+Otsego,Ward 1 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,519
+Otsego,Ward 1 1,U.S. Senate,,REP,Michael D. Sapraicone,245
+Otsego,Ward 1 1,U.S. Senate,,LAR,Diane Sare,4
+Otsego,Ward 1 1,U.S. House,19,DEM,Josh Riley,503
+Otsego,Ward 1 1,U.S. House,19,REP,Marcus Molinaro,267
+Otsego,Ward 1 1,State Senate,51,DEM,Michele Frazier,488
+Otsego,Ward 1 1,State Senate,51,REP,Peter Oberacker,285
+Otsego,Ward 1 1,State Assembly,122,DEM,Adrienne Martini,491
+Otsego,Ward 1 1,State Assembly,122,REP,Brian Miller,272
+Otsego,Ward 2 1,President,,DEM,Kamala D. Harris,414
+Otsego,Ward 2 1,President,,REP,Donald J. Trump,121
+Otsego,Ward 2 1,President,,,Write-in,4
+Otsego,Ward 2 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,415
+Otsego,Ward 2 1,U.S. Senate,,REP,Michael D. Sapraicone,112
+Otsego,Ward 2 1,U.S. Senate,,LAR,Diane Sare,2
+Otsego,Ward 2 1,U.S. House,19,DEM,Josh Riley,401
+Otsego,Ward 2 1,U.S. House,19,REP,Marcus Molinaro,127
+Otsego,Ward 2 1,State Senate,51,DEM,Michele Frazier,375
+Otsego,Ward 2 1,State Senate,51,REP,Peter Oberacker,148
+Otsego,Ward 2 1,State Assembly,122,DEM,Adrienne Martini,391
+Otsego,Ward 2 1,State Assembly,122,REP,Brian Miller,132
+Otsego,Ward 3 1,President,,DEM,Kamala D. Harris,273
+Otsego,Ward 3 1,President,,REP,Donald J. Trump,69
+Otsego,Ward 3 1,President,,,Write-in,11
+Otsego,Ward 3 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,272
+Otsego,Ward 3 1,U.S. Senate,,REP,Michael D. Sapraicone,64
+Otsego,Ward 3 1,U.S. Senate,,LAR,Diane Sare,4
+Otsego,Ward 3 1,U.S. House,19,DEM,Josh Riley,269
+Otsego,Ward 3 1,U.S. House,19,REP,Marcus Molinaro,78
+Otsego,Ward 3 1,State Senate,51,DEM,Michele Frazier,255
+Otsego,Ward 3 1,State Senate,51,REP,Peter Oberacker,74
+Otsego,Ward 3 1,State Assembly,122,DEM,Adrienne Martini,256
+Otsego,Ward 3 1,State Assembly,122,REP,Brian Miller,72
+Otsego,Ward 4 1,President,,DEM,Kamala D. Harris,266
+Otsego,Ward 4 1,President,,REP,Donald J. Trump,101
+Otsego,Ward 4 1,President,,,Write-in,5
+Otsego,Ward 4 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,266
+Otsego,Ward 4 1,U.S. Senate,,REP,Michael D. Sapraicone,90
+Otsego,Ward 4 1,U.S. Senate,,LAR,Diane Sare,4
+Otsego,Ward 4 1,U.S. House,19,DEM,Josh Riley,261
+Otsego,Ward 4 1,U.S. House,19,REP,Marcus Molinaro,103
+Otsego,Ward 4 1,State Senate,51,DEM,Michele Frazier,248
+Otsego,Ward 4 1,State Senate,51,REP,Peter Oberacker,115
+Otsego,Ward 4 1,State Assembly,122,DEM,Adrienne Martini,260
+Otsego,Ward 4 1,State Assembly,122,REP,Brian Miller,104
+Otsego,Ward 5 1,President,,DEM,Kamala D. Harris,368
+Otsego,Ward 5 1,President,,REP,Donald J. Trump,205
+Otsego,Ward 5 1,President,,,Write-in,1
+Otsego,Ward 5 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,362
+Otsego,Ward 5 1,U.S. Senate,,REP,Michael D. Sapraicone,183
+Otsego,Ward 5 1,U.S. Senate,,LAR,Diane Sare,7
+Otsego,Ward 5 1,U.S. House,19,DEM,Josh Riley,353
+Otsego,Ward 5 1,U.S. House,19,REP,Marcus Molinaro,198
+Otsego,Ward 5 1,State Senate,51,DEM,Michele Frazier,330
+Otsego,Ward 5 1,State Senate,51,REP,Peter Oberacker,218
+Otsego,Ward 5 1,State Assembly,122,DEM,Adrienne Martini,337
+Otsego,Ward 5 1,State Assembly,122,REP,Brian Miller,204
+Otsego,Ward 6 1,President,,DEM,Kamala D. Harris,360
+Otsego,Ward 6 1,President,,REP,Donald J. Trump,269
+Otsego,Ward 6 1,President,,,Write-in,4
+Otsego,Ward 6 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,357
+Otsego,Ward 6 1,U.S. Senate,,REP,Michael D. Sapraicone,245
+Otsego,Ward 6 1,U.S. Senate,,LAR,Diane Sare,3
+Otsego,Ward 6 1,U.S. House,19,DEM,Josh Riley,347
+Otsego,Ward 6 1,U.S. House,19,REP,Marcus Molinaro,266
+Otsego,Ward 6 1,State Senate,51,DEM,Michele Frazier,314
+Otsego,Ward 6 1,State Senate,51,REP,Peter Oberacker,295
+Otsego,Ward 6 1,State Assembly,122,DEM,Adrienne Martini,325
+Otsego,Ward 6 1,State Assembly,122,REP,Brian Miller,281
+Otsego,Ward 7 1,President,,DEM,Kamala D. Harris,272
+Otsego,Ward 7 1,President,,REP,Donald J. Trump,122
+Otsego,Ward 7 1,President,,,Write-in,3
+Otsego,Ward 7 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,262
+Otsego,Ward 7 1,U.S. Senate,,REP,Michael D. Sapraicone,113
+Otsego,Ward 7 1,U.S. Senate,,LAR,Diane Sare,6
+Otsego,Ward 7 1,U.S. House,19,DEM,Josh Riley,266
+Otsego,Ward 7 1,U.S. House,19,REP,Marcus Molinaro,119
+Otsego,Ward 7 1,State Senate,51,DEM,Michele Frazier,250
+Otsego,Ward 7 1,State Senate,51,REP,Peter Oberacker,131
+Otsego,Ward 7 1,State Assembly,122,DEM,Adrienne Martini,255
+Otsego,Ward 7 1,State Assembly,122,REP,Brian Miller,122
+Otsego,Ward 8 1,President,,DEM,Kamala D. Harris,325
+Otsego,Ward 8 1,President,,REP,Donald J. Trump,154
+Otsego,Ward 8 1,President,,,Write-in,3
+Otsego,Ward 8 1,U.S. Senate,,DEM,Kirsten E. Gillibrand,323
+Otsego,Ward 8 1,U.S. Senate,,REP,Michael D. Sapraicone,132
+Otsego,Ward 8 1,U.S. House,19,DEM,Josh Riley,325
+Otsego,Ward 8 1,U.S. House,19,REP,Marcus Molinaro,143
+Otsego,Ward 8 1,State Senate,51,DEM,Michele Frazier,312
+Otsego,Ward 8 1,State Senate,51,REP,Peter Oberacker,150
+Otsego,Ward 8 1,State Assembly,122,DEM,Adrienne Martini,318
+Otsego,Ward 8 1,State Assembly,122,REP,Brian Miller,141
