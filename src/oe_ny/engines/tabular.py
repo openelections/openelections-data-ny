@@ -59,8 +59,12 @@ def _hdr_name_party(cell, style):
         return (s, None)
     if style == "trailing_party_token":
         toks = s.split()
-        if len(toks) >= 2 and party_code(toks[-1]):
-            return (" ".join(toks[:-1]).strip(), party_code(toks[-1]))
+        # try a two-word then one-word trailing party (e.g. "People First")
+        for k in (2, 1):
+            if len(toks) > k:
+                code = party_code(" ".join(toks[-k:]))
+                if code:
+                    return (" ".join(toks[:-k]).strip(), code)
         return (s, None)
     raise ValueError(f"unknown header_style: {style!r}")
 
@@ -244,10 +248,11 @@ def _parse_html_tables(acc, cfg, opts, style):
             if not r or not r[0]:
                 continue
             if r[0].strip().lower() in total_labels:
-                for j, party in col_party.items():
-                    acc.set_col_total(office, district, party, to_int(_cell(r, j)))
-                acc.set_wi_total(office, district,
-                                 sum(to_int(_cell(r, j)) for j in wi_cols))
+                if opts.get("capture_total", True):
+                    for j, party in col_party.items():
+                        acc.set_col_total(office, district, party, to_int(_cell(r, j)))
+                    acc.set_wi_total(office, district,
+                                     sum(to_int(_cell(r, j)) for j in wi_cols))
                 break
             prec = acc.precinct(r[0])
             for j, party in col_party.items():

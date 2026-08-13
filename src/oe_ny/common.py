@@ -71,7 +71,7 @@ def strip_vp(name: str | None) -> str:
     m = _ELECTORS_RE.search(s)
     if m:
         return m.group(1).strip()
-    for sep in (" and ", " / ", "/"):
+    for sep in (" and ", " / ", " - ", "/"):
         if sep in s:
             return s.split(sep, 1)[0].strip()
     return s
@@ -96,6 +96,7 @@ PARTY_NORM: dict[str, str] = {
     # minor / fusion lines introduced by the dedicated parsers
     "PFP": "PFP",
     "POP": "POP", "PEOPLE OVER POLITICS": "POP",
+    "PEOPLE FIRST": "PFP",
     "RSF": "RSF",
     "ECO": "ECO",
     "IND": "IND", "INDEPENDENCE": "IND",

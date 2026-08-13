@@ -13,7 +13,7 @@ Returns a list of human-readable HARD failures; empty means clean.
 """
 from __future__ import annotations
 
-from .common import norm
+from .common import norm, surname
 from .model import CountyConfig, ParseResult
 
 PARTY_LINES = ("DEM", "REP", "CON", "WOR", "LAR", "PFP", "POP", "RSF", "ECO",
@@ -72,14 +72,17 @@ def verify(cfg: CountyConfig, res: ParseResult) -> list[str]:
                         f"!= ANCHOR={aw}")
 
     # 3. candidate-name cross-check -------------------------------------------
+    # 'surname' compares only the last name (sources with first/middle typos).
+    by_surname = cfg.engine_opts.get("name_check") == "surname"
+    key = surname if by_surname else norm
     for odp, names in res.name_seen.items():
         expected = cand.get(odp)
         if expected is None:
             continue
-        exp = norm(expected)
+        exp = key(expected)
         for nm in names:
             src = aliases.get(nm, nm)
-            if src and norm(src) != exp:
+            if src and key(src) != exp:
                 hard.append(f"{odp[0]}/{odp[1]} {odp[2]}: source {nm!r} "
                             f"!= expected {expected!r}")
     return hard
