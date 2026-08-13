@@ -56,6 +56,11 @@ class CountyConfig:
     state: str = "ny"
     election: str = "general"
 
+    # False = emit ParseResult.rows in the order the engine produced them
+    # (for sources whose committed CSV is in source order, not canonically
+    # sorted, e.g. some rotated-SOVC PDFs).
+    sort_output: bool = True
+
     # engine-specific knobs (header style, column maps, per-county quirks)
     engine_opts: dict = field(default_factory=dict)
 

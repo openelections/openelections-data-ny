@@ -38,9 +38,17 @@ def rows_to_csv_text(cfg: CountyConfig, rows: list[Row]) -> str:
     return buf.getvalue()
 
 
+def ordered_rows(cfg: CountyConfig, res: ParseResult) -> list[Row]:
+    """Rows in output order: canonically sorted, or as-produced when the
+    config sets sort_output=False."""
+    if not cfg.sort_output:
+        return res.rows
+    return sort_rows(cfg, res.rows, res.prec_order)
+
+
 def write_csv(cfg: CountyConfig, res: ParseResult) -> str:
     """Sort, write the CSV to cfg.out_path(), and return the CSV text."""
-    ordered = sort_rows(cfg, res.rows, res.prec_order)
+    ordered = ordered_rows(cfg, res)
     text = rows_to_csv_text(cfg, ordered)
     out = cfg.out_path()
     out.parent.mkdir(parents=True, exist_ok=True)

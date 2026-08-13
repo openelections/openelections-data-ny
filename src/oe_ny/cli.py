@@ -15,7 +15,7 @@ import sys
 
 from . import counties_2024
 from .engines import run
-from .output import report, rows_to_csv_text, sort_rows, write_csv
+from .output import ordered_rows, report, rows_to_csv_text, write_csv
 from .verify import verify
 
 
@@ -29,8 +29,7 @@ def _committed_rows(text: str) -> list[tuple]:
 def _check(cfg) -> int:
     res = run(cfg)
     hard = verify(cfg, res)
-    ordered = sort_rows(cfg, res.rows, res.prec_order)
-    produced = rows_to_csv_text(cfg, ordered)
+    produced = rows_to_csv_text(cfg, ordered_rows(cfg, res))
     out = cfg.out_path()
     status = []
     if hard:
