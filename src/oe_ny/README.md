@@ -80,11 +80,15 @@ single county with the `<SLUG>_SRC` env var, or the whole root with
 | Family | Engine | Counties | Status |
 |--------|--------|----------|--------|
 | G2 tidy | built | clinton, livingston, madison, niagara, sullivan, otsego | ✅ 6/6 byte-identical |
-| G1 tabular | built | franklin, greene, hamilton, saratoga, wayne, schoharie | ✅ 6 byte-identical |
-| G1 tabular | built | montgomery, delaware, cayuga, chautauqua, erie, rensselaer | ⬜ pending (need multi-word trailing party, counting-group HTML, CSV blocks, two-row header, section hierarchy) |
+| G1 tabular | built | franklin, greene, hamilton, saratoga, wayne, schoharie, montgomery, delaware, cayuga, chautauqua, erie, rensselaer | ✅ 12/12 byte-identical |
 | G3 election_book | stub | broome, onondaga, westchester, warren, monroe | ⬜ pending (PDF geometry) |
 | G4 sovc_table | stub | orange, st_lawrence, putnam, herkimer, allegany, chenango, cortland, cattaraugus | ⬜ pending (rotated SOVC) |
 | G5 text_report | stub | albany, washington, schenectady, schuyler | ⬜ pending (regex state machines) |
+
+**18 of 35 migrated, all byte-identical.** The tabular engine covers four sheet
+layouts (sheet_per_office / blocks / blocks_by_surname / html_tables) and all
+four header styles; delaware, cayuga and chautauqua use `parse` overrides for
+their more unusual shapes.
 
 The PDF/text families (G3–G5) are the bespoke-geometry parsers; most will keep
 their geometry logic in a per-county `parse` override that plugs into the shared
