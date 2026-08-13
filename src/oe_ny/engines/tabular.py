@@ -178,10 +178,96 @@ def _parse_block(acc, rows, hdr_idx, office, district, opts, style):
     return i
 
 
+def _html_tables(path):
+    from bs4 import BeautifulSoup
+    html = open(path, encoding="utf-8", errors="replace").read()
+    soup = BeautifulSoup(html, "html.parser")
+    out = []
+    for t in soup.find_all("table"):
+        rows = []
+        for tr in t.find_all("tr"):
+            cells = [re.sub(r"\s+", " ", c.get_text(" ", strip=True)).strip()
+                     for c in tr.find_all(["td", "th"])]
+            rows.append(cells)
+        out.append(rows)
+    return out
+
+
+def _parse_html_tables(acc, cfg, opts, style):
+    from ..common import norm
+    tables = _html_tables(cfg.resolve_source())
+    surname_office = {norm(k): v for k, v in opts.get("surname_office", {}).items()}
+    prec_label = opts.get("precinct_label", "precinct").lower()
+    wi_labels = {s.lower() for s in opts.get("writein_prefixes",
+                 ("write-in", "write in"))}
+    ctrl = {s.lower() for s in opts.get("control_labels",
+            ("blanks", "voids", "over votes", "under votes", "total votes",
+             "totals", "total"))}
+    total_labels = tuple(opts.get("total_labels", ("total", "totals")))
+    bare_wi = opts.get("bare_name_role") == "writein"
+
+    for rows in tables:
+        if not rows or not rows[0] or rows[0][0].lower() != prec_label:
+            continue
+        hdr = rows[0]
+        col_party, col_name, wi_cols = {}, {}, []
+        names = []
+        for j, txt in enumerate(hdr):
+            if j == 0:
+                continue
+            if txt.lower() in wi_labels:
+                wi_cols.append(j)
+                continue
+            name, code = _hdr_name_party(txt, style)
+            if code is not None:
+                col_party[j] = code
+                col_name[j] = name
+                names.append(name)
+            elif bare_wi and txt and txt.lower() not in ctrl:
+                wi_cols.append(j)
+        od = None
+        if surname_office:
+            for nm in names:
+                for tok in nm.split():
+                    if norm(tok) in surname_office:
+                        od = surname_office[norm(tok)]
+                        break
+                if od:
+                    break
+        else:
+            od = _office_of_title(" ".join(hdr), opts)
+        if od is None:
+            continue
+        office, district = od
+        acc.see_od(od)
+        for r in rows[1:]:
+            if not r or not r[0]:
+                continue
+            if r[0].strip().lower() in total_labels:
+                for j, party in col_party.items():
+                    acc.set_col_total(office, district, party, to_int(_cell(r, j)))
+                acc.set_wi_total(office, district,
+                                 sum(to_int(_cell(r, j)) for j in wi_cols))
+                break
+            prec = acc.precinct(r[0])
+            for j, party in col_party.items():
+                v = to_int(_cell(r, j))
+                nm = strip_vp(col_name[j]) if office == "President" else col_name[j]
+                acc.candidate(prec, office, district, party, v, src_name=nm)
+            acc.writein(prec, office, district,
+                        sum(to_int(_cell(r, j)) for j in wi_cols))
+
+
 def parse(cfg: CountyConfig) -> ParseResult:
     opts = cfg.engine_opts
     style = opts.get("header_style", "name_newline_party")
     ed_label = opts.get("ed_label", "ED")
+
+    if opts.get("mode") == "html_tables":
+        acc = Accumulator(cfg)
+        _parse_html_tables(acc, cfg, opts, style)
+        return acc.result()
+
     import openpyxl
     wb = openpyxl.load_workbook(cfg.resolve_source(), data_only=True)
     acc = Accumulator(cfg)
