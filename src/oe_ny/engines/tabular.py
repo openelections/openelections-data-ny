@@ -186,6 +186,10 @@ def parse(cfg: CountyConfig) -> ParseResult:
     wb = openpyxl.load_workbook(cfg.resolve_source(), data_only=True)
     acc = Accumulator(cfg)
 
+    if opts.get("mode") == "blocks_by_surname":
+        _parse_surname_blocks(acc, wb, opts)
+        return acc.result()
+
     if opts.get("mode") == "blocks":
         sheets = opts.get("block_sheets") or [opts["sheet"]]
         for sn in sheets:
@@ -217,6 +221,84 @@ def parse(cfg: CountyConfig) -> ParseResult:
             _parse_block(acc, rows, hdr_idx, office, district, opts, style)
 
     return acc.result()
+
+
+def _parse_surname_blocks(acc, wb, opts):
+    """Office-per-block sheets with no title row: the office is identified by
+    the candidate surnames in the header, and Total rows are summed across the
+    (per-town) repeats of each office block (Saratoga/Rensselaer style)."""
+    from ..common import norm
+    sheet = opts.get("sheet")
+    ws = wb[sheet] if sheet else wb[wb.sheetnames[0]]
+    rows = [list(r) for r in ws.iter_rows(values_only=True)]
+    surname_office = {norm(k): v for k, v in opts["surname_office"].items()}
+    non_cand = {s.lower() for s in opts.get("non_cand",
+                ("write-ins", "write-in", "write in", "blanks", "voids"))}
+    pres_comma = opts.get("president_comma", False)
+
+    current_od = None
+    col_party = {}
+    col_name = {}
+    writein_col = None
+    for r in rows:
+        c0 = "" if not r or r[0] is None else str(r[0]).strip()
+        c1 = "" if len(r) < 2 or r[1] is None else str(r[1])
+        is_header = (not c0 and "(" in c1 and ")" in c1
+                     and c1.strip().lower() not in non_cand)
+        if is_header:
+            current_od = None
+            col_party, col_name, writein_col = {}, {}, None
+            od = None
+            for cell in r[1:]:
+                name, code = _hdr_name_party(cell, "name_paren_party")
+                if not name:
+                    continue
+                for tok in name.split():
+                    if norm(tok) in surname_office:
+                        od = surname_office[norm(tok)]
+                        break
+                if od:
+                    break
+            if od is None:
+                continue
+            current_od = od
+            acc.see_od(od)
+            office, district = od
+            for j, cell in enumerate(r[1:], start=1):
+                txt = "" if cell is None else str(cell).strip()
+                if not txt:
+                    continue
+                if txt.lower() in non_cand:
+                    if txt.lower().startswith("write"):
+                        writein_col = j
+                    continue
+                name, code = _hdr_name_party(cell, "name_paren_party")
+                if code is not None:
+                    col_party[j] = code
+                    col_name[j] = name
+            continue
+        if current_od is None:
+            continue
+        office, district = current_od
+        if c0.lower() == "total":
+            for j, party in col_party.items():
+                acc.add_col_total(office, district, party, to_int(_cell(r, j)))
+            if writein_col is not None:
+                acc.add_wi_total(office, district, to_int(_cell(r, writein_col)))
+            current_od = None
+            continue
+        if c0 and isinstance(_cell(r, 1), (int, float)):
+            prec = acc.precinct(c0)
+            for j, party in col_party.items():
+                v = to_int(_cell(r, j))
+                nm = col_name[j]
+                if office == "President":
+                    nm = strip_vp(nm)
+                    if pres_comma and "," in nm:
+                        nm = nm.split(",", 1)[0].strip()
+                acc.candidate(prec, office, district, party, v, src_name=nm)
+            if writein_col is not None:
+                acc.writein(prec, office, district, to_int(_cell(r, writein_col)))
 
 
 def _find_header(rows, marker):

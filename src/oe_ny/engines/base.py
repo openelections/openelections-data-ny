@@ -90,6 +90,14 @@ class Accumulator:
     def set_col_total(self, office, district, party, votes):
         self.col_total[(office, district, party)] = votes
 
+    def add_col_total(self, office, district, party, votes):
+        k = (office, district, party)
+        self.col_total[k] = self.col_total.get(k, 0) + votes
+
+    def add_wi_total(self, office, district, votes):
+        k = (office, district)
+        self.wi_total[k] = self.wi_total.get(k, 0) + votes
+
     def set_wi_total(self, office, district, votes):
         self.wi_total[(office, district)] = votes
 
