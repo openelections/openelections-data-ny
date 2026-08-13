@@ -91,7 +91,7 @@ PARTY_NORM: dict[str, str] = {
     "CON": "CON", "CONSERVATIVE": "CON",
     "WOR": "WOR", "WFP": "WOR", "WF": "WOR",
     "WORKING FAMILIES": "WOR", "WORKING FAMILI": "WOR", "WORK FAMILIES": "WOR",
-    "LAR": "LAR", "LRP": "LAR", "LRC": "LAR",
+    "LAR": "LAR", "LRP": "LAR", "LRC": "LAR", "LR": "LAR",
     "LAROUCHE": "LAR", "LA ROUCHE": "LAR", "LAROUC": "LAR",
     # minor / fusion lines introduced by the dedicated parsers
     "PFP": "PFP",
