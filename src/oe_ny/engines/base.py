@@ -50,21 +50,23 @@ class Accumulator:
 
     # -- tallies -------------------------------------------------------------
 
-    def candidate(self, prec, office, district, party, votes, src_name=None):
+    def candidate(self, prec, office, district, party, votes, src_name=None,
+                  name=None):
         """Record a candidate party-line tally; emits a row when votes>0.
 
-        The output candidate name comes from cfg.cand[(office,district,party)];
-        src_name (if given) feeds the name cross-check.
+        The output candidate name is ``name`` if given, else
+        cfg.cand[(office,district,party)]; ``src_name`` (if given) feeds the
+        name cross-check.
         """
         odp = (office, district, party)
         self.psum[odp] += votes
         self.ed_cand[(prec, office, district)] += votes
         if src_name is not None:
             self.name_seen[odp].add(src_name)
-        name = self.cfg.cand.get(odp)
-        if votes > 0 and name is not None:
-            self.rows.append((prec, office, district, party, name, votes))
-        return name
+        out_name = name if name is not None else self.cfg.cand.get(odp)
+        if votes > 0 and out_name is not None:
+            self.rows.append((prec, office, district, party, out_name, votes))
+        return out_name
 
     def writein(self, prec, office, district, votes):
         """Accumulate write-in votes for the folded aggregate row."""
