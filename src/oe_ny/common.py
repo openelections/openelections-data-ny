@@ -97,7 +97,7 @@ PARTY_NORM: dict[str, str] = {
     "PFP": "PFP",
     "POP": "POP", "PEOPLE OVER POLITICS": "POP",
     "PEOPLE FIRST": "PFP",
-    "RSF": "RSF",
+    "RSF": "RSF", "RESTORE FREEDOM": "RSF",
     "ECO": "ECO",
     "IND": "IND", "INDEPENDENCE": "IND",
     "LOCAL 607": "Local 607",

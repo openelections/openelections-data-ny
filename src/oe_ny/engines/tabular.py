@@ -87,6 +87,9 @@ def _classify(cell, opts, style):
     for pre in opts.get("writein_prefixes", ()):
         if low.startswith(pre.lower()):
             return ("writein", None)
+    for suf in opts.get("writein_suffixes", ()):
+        if low.endswith(suf.lower()):
+            return ("writein", None)
     name, code = _hdr_name_party(cell, style)
     if code is not None:
         return ("cand", (name, code))
@@ -130,9 +133,12 @@ def _parse_block(acc, rows, hdr_idx, office, district, opts, style):
     """Parse precinct rows below a header until the Total row; return next idx."""
     hdr = rows[hdr_idx]
     cand_cols, wi_cols, over_idx, under_idx, tv_idx = _header_layout(hdr, opts, style)
-    total_labels = tuple(opts.get("total_labels", ("total", "totals")))
+    total_labels = tuple(s.lower() for s in
+                         opts.get("total_labels", ("total", "totals")))
     capture_total = opts.get("capture_total", True)
     pres_comma = opts.get("president_comma", False)
+    prec_re = opts.get("precinct_regex")
+    prec_re = re.compile(prec_re) if isinstance(prec_re, str) else prec_re
     i = hdr_idx + 1
     while i < len(rows):
         r = rows[i]
@@ -151,15 +157,22 @@ def _parse_block(acc, rows, hdr_idx, office, district, opts, style):
                 acc.set_wi_total(office, district,
                                  sum(to_int(_cell(r, j)) for j in wi_cols))
             return i + 1
-        has_cand = any(to_int(_cell(r, j)) for j, _, _ in cand_cols)
-        has_native = any(isinstance(_cell(r, j), (int, float))
-                         for j in range(1, len(r)))
-        if not (has_cand or has_native):
-            # non-data row: in block mode a new title ends the block
-            if opts.get("mode") == "blocks" and _office_of_title(label, opts):
-                return i
-            i += 1
-            continue
+        if prec_re is not None:
+            # section headers / sub-totals / recap rows fail the precinct
+            # pattern and are skipped (Erie's two-level hierarchy).
+            if not prec_re.match(label):
+                i += 1
+                continue
+        else:
+            has_cand = any(to_int(_cell(r, j)) for j, _, _ in cand_cols)
+            has_native = any(isinstance(_cell(r, j), (int, float))
+                             for j in range(1, len(r)))
+            if not (has_cand or has_native):
+                # non-data row: in block mode a new title ends the block
+                if opts.get("mode") == "blocks" and _office_of_title(label, opts):
+                    return i
+                i += 1
+                continue
         prec = acc.precinct(label)
         for j, name, party in cand_cols:
             v = to_int(_cell(r, j))
@@ -303,9 +316,11 @@ def parse(cfg: CountyConfig) -> ParseResult:
                         continue
                 i += 1
     else:
+        fixed_hdr = opts.get("header_row")
         for sheet_name, office, district in opts["sheets"]:
             rows = [list(r) for r in wb[sheet_name].iter_rows(values_only=True)]
-            hdr_idx = _find_header(rows, ed_label)
+            hdr_idx = fixed_hdr if fixed_hdr is not None \
+                else _find_header(rows, ed_label)
             if hdr_idx is None:
                 continue
             acc.see_od((office, district))
