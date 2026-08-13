@@ -4,3 +4,5 @@
 .Ruserdata
 .DS_Store
 **/DS.Store
+__pycache__/
+*.pyc
