@@ -6,3 +6,8 @@
 **/DS.Store
 __pycache__/
 *.pyc
+
+# PaddleOCR (image-PDF OCR front end) — token + derived caches/output
+.paddleocr_token
+.paddleocr_cache/
+2026/pdf_ocr/

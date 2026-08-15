@@ -1,0 +1,658 @@
+county,precinct,office,district,party,candidate,votes
+Chautauqua,Arkwright,Ballots Cast,,,,28
+Chautauqua,Arkwright,Comptroller,,DEM,Drew Warshaw,3
+Chautauqua,Arkwright,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Arkwright,Comptroller,,DEM,Thomas P. DiNapoli,22
+Chautauqua,Arkwright,Comptroller,,,Under Votes,1
+Chautauqua,Arkwright,U.S. House,23,DEM,Aaron Gies,20
+Chautauqua,Arkwright,U.S. House,23,DEM,Kevin T. Stocker,4
+Chautauqua,Arkwright,U.S. House,23,,Under Votes,4
+Chautauqua,Busti 1,Ballots Cast,,,,60
+Chautauqua,Busti 1,Comptroller,,DEM,Drew Warshaw,12
+Chautauqua,Busti 1,Comptroller,,DEM,Raj Goyle,3
+Chautauqua,Busti 1,Comptroller,,DEM,Thomas P. DiNapoli,35
+Chautauqua,Busti 1,Comptroller,,,Under Votes,10
+Chautauqua,Busti 1,U.S. House,23,DEM,Aaron Gies,51
+Chautauqua,Busti 1,U.S. House,23,DEM,Kevin T. Stocker,3
+Chautauqua,Busti 1,U.S. House,23,,Under Votes,6
+Chautauqua,Busti 2,Ballots Cast,,,,33
+Chautauqua,Busti 2,Comptroller,,DEM,Drew Warshaw,6
+Chautauqua,Busti 2,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Busti 2,Comptroller,,DEM,Thomas P. DiNapoli,19
+Chautauqua,Busti 2,Comptroller,,,Under Votes,5
+Chautauqua,Busti 2,U.S. House,23,DEM,Aaron Gies,27
+Chautauqua,Busti 2,U.S. House,23,DEM,Kevin T. Stocker,3
+Chautauqua,Busti 2,U.S. House,23,,Under Votes,3
+Chautauqua,Busti 3,Ballots Cast,,,,69
+Chautauqua,Busti 3,Comptroller,,DEM,Drew Warshaw,10
+Chautauqua,Busti 3,Comptroller,,DEM,Raj Goyle,3
+Chautauqua,Busti 3,Comptroller,,DEM,Thomas P. DiNapoli,46
+Chautauqua,Busti 3,Comptroller,,,Under Votes,9
+Chautauqua,Busti 3,U.S. House,23,DEM,Aaron Gies,65
+Chautauqua,Busti 3,U.S. House,23,DEM,Kevin T. Stocker,3
+Chautauqua,Busti 3,U.S. House,23,,Under Votes,1
+Chautauqua,Busti 4,Ballots Cast,,,,48
+Chautauqua,Busti 4,Comptroller,,DEM,Drew Warshaw,8
+Chautauqua,Busti 4,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Busti 4,Comptroller,,DEM,Thomas P. DiNapoli,30
+Chautauqua,Busti 4,Comptroller,,,Under Votes,8
+Chautauqua,Busti 4,U.S. House,23,DEM,Aaron Gies,36
+Chautauqua,Busti 4,U.S. House,23,DEM,Kevin T. Stocker,7
+Chautauqua,Busti 4,U.S. House,23,,Under Votes,5
+Chautauqua,Carroll 1,Ballots Cast,,,,28
+Chautauqua,Carroll 1,Comptroller,,DEM,Drew Warshaw,6
+Chautauqua,Carroll 1,Comptroller,,DEM,Thomas P. DiNapoli,18
+Chautauqua,Carroll 1,Comptroller,,,Under Votes,4
+Chautauqua,Carroll 1,U.S. House,23,DEM,Aaron Gies,24
+Chautauqua,Carroll 1,U.S. House,23,DEM,Kevin T. Stocker,4
+Chautauqua,Carroll 2,Ballots Cast,,,,24
+Chautauqua,Carroll 2,Comptroller,,DEM,Drew Warshaw,3
+Chautauqua,Carroll 2,Comptroller,,DEM,Raj Goyle,3
+Chautauqua,Carroll 2,Comptroller,,DEM,Thomas P. DiNapoli,15
+Chautauqua,Carroll 2,Comptroller,,,Under Votes,3
+Chautauqua,Carroll 2,U.S. House,23,DEM,Aaron Gies,20
+Chautauqua,Carroll 2,U.S. House,23,DEM,Kevin T. Stocker,4
+Chautauqua,Charlotte,Ballots Cast,,,,15
+Chautauqua,Charlotte,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Charlotte,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Charlotte,Comptroller,,DEM,Thomas P. DiNapoli,11
+Chautauqua,Charlotte,Comptroller,,,Under Votes,2
+Chautauqua,Charlotte,U.S. House,23,DEM,Aaron Gies,12
+Chautauqua,Charlotte,U.S. House,23,DEM,Kevin T. Stocker,2
+Chautauqua,Charlotte,U.S. House,23,,Under Votes,1
+Chautauqua,Chautauqua 1,Ballots Cast,,,,46
+Chautauqua,Chautauqua 1,Comptroller,,DEM,Drew Warshaw,8
+Chautauqua,Chautauqua 1,Comptroller,,DEM,Raj Goyle,3
+Chautauqua,Chautauqua 1,Comptroller,,DEM,Thomas P. DiNapoli,33
+Chautauqua,Chautauqua 1,Comptroller,,,Under Votes,2
+Chautauqua,Chautauqua 1,U.S. House,23,DEM,Aaron Gies,34
+Chautauqua,Chautauqua 1,U.S. House,23,DEM,Kevin T. Stocker,11
+Chautauqua,Chautauqua 1,U.S. House,23,,Under Votes,1
+Chautauqua,Chautauqua 2,Ballots Cast,,,,62
+Chautauqua,Chautauqua 2,Comptroller,,DEM,Drew Warshaw,12
+Chautauqua,Chautauqua 2,Comptroller,,DEM,Raj Goyle,7
+Chautauqua,Chautauqua 2,Comptroller,,DEM,Thomas P. DiNapoli,38
+Chautauqua,Chautauqua 2,Comptroller,,,Under Votes,5
+Chautauqua,Chautauqua 2,U.S. House,23,DEM,Aaron Gies,52
+Chautauqua,Chautauqua 2,U.S. House,23,DEM,Kevin T. Stocker,8
+Chautauqua,Chautauqua 2,U.S. House,23,,Under Votes,2
+Chautauqua,Chautauqua 3,Ballots Cast,,,,11
+Chautauqua,Chautauqua 3,Comptroller,,DEM,Drew Warshaw,3
+Chautauqua,Chautauqua 3,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Chautauqua 3,Comptroller,,DEM,Thomas P. DiNapoli,6
+Chautauqua,Chautauqua 3,Comptroller,,,Under Votes,1
+Chautauqua,Chautauqua 3,U.S. House,23,DEM,Aaron Gies,7
+Chautauqua,Chautauqua 3,U.S. House,23,DEM,Kevin T. Stocker,4
+Chautauqua,Chautauqua 4,Ballots Cast,,,,11
+Chautauqua,Chautauqua 4,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Chautauqua 4,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Chautauqua 4,Comptroller,,DEM,Thomas P. DiNapoli,9
+Chautauqua,Chautauqua 4,U.S. House,23,DEM,Aaron Gies,8
+Chautauqua,Chautauqua 4,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Chautauqua 4,U.S. House,23,,Under Votes,2
+Chautauqua,Cherry Creek,Ballots Cast,,,,17
+Chautauqua,Cherry Creek,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Cherry Creek,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Cherry Creek,Comptroller,,DEM,Thomas P. DiNapoli,10
+Chautauqua,Cherry Creek,Comptroller,,,Over Votes,1
+Chautauqua,Cherry Creek,Comptroller,,,Under Votes,4
+Chautauqua,Cherry Creek,U.S. House,23,DEM,Aaron Gies,11
+Chautauqua,Cherry Creek,U.S. House,23,DEM,Kevin T. Stocker,2
+Chautauqua,Cherry Creek,U.S. House,23,,Under Votes,4
+Chautauqua,Clymer,Ballots Cast,,,,9
+Chautauqua,Clymer,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Clymer,Comptroller,,DEM,Thomas P. DiNapoli,8
+Chautauqua,Clymer,U.S. House,23,DEM,Aaron Gies,8
+Chautauqua,Clymer,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Dunkirk Town 1,Ballots Cast,,,,13
+Chautauqua,Dunkirk Town 1,Comptroller,,DEM,Thomas P. DiNapoli,13
+Chautauqua,Dunkirk Town 1,U.S. House,23,DEM,Aaron Gies,9
+Chautauqua,Dunkirk Town 1,U.S. House,23,DEM,Kevin T. Stocker,3
+Chautauqua,Dunkirk Town 1,U.S. House,23,,Under Votes,1
+Chautauqua,Dunkirk Town 2,Ballots Cast,,,,28
+Chautauqua,Dunkirk Town 2,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Dunkirk Town 2,Comptroller,,DEM,Raj Goyle,3
+Chautauqua,Dunkirk Town 2,Comptroller,,DEM,Thomas P. DiNapoli,19
+Chautauqua,Dunkirk Town 2,Comptroller,,,Over Votes,1
+Chautauqua,Dunkirk Town 2,Comptroller,,,Under Votes,4
+Chautauqua,Dunkirk Town 2,U.S. House,23,DEM,Aaron Gies,14
+Chautauqua,Dunkirk Town 2,U.S. House,23,DEM,Kevin T. Stocker,8
+Chautauqua,Dunkirk Town 2,U.S. House,23,,Under Votes,6
+Chautauqua,Dunkirk City 1-1,Ballots Cast,,,,9
+Chautauqua,Dunkirk City 1-1,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Dunkirk City 1-1,Comptroller,,DEM,Thomas P. DiNapoli,8
+Chautauqua,Dunkirk City 1-1,U.S. House,23,DEM,Aaron Gies,8
+Chautauqua,Dunkirk City 1-1,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Dunkirk City 1-2,Ballots Cast,,,,60
+Chautauqua,Dunkirk City 1-2,Comptroller,,DEM,Drew Warshaw,4
+Chautauqua,Dunkirk City 1-2,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Dunkirk City 1-2,Comptroller,,DEM,Thomas P. DiNapoli,48
+Chautauqua,Dunkirk City 1-2,Comptroller,,,Under Votes,6
+Chautauqua,Dunkirk City 1-2,U.S. House,23,DEM,Aaron Gies,36
+Chautauqua,Dunkirk City 1-2,U.S. House,23,DEM,Kevin T. Stocker,19
+Chautauqua,Dunkirk City 1-2,U.S. House,23,,Under Votes,5
+Chautauqua,Dunkirk City 2-1,Ballots Cast,,,,33
+Chautauqua,Dunkirk City 2-1,Comptroller,,DEM,Drew Warshaw,2
+Chautauqua,Dunkirk City 2-1,Comptroller,,DEM,Raj Goyle,4
+Chautauqua,Dunkirk City 2-1,Comptroller,,DEM,Thomas P. DiNapoli,24
+Chautauqua,Dunkirk City 2-1,Comptroller,,,Under Votes,3
+Chautauqua,Dunkirk City 2-1,U.S. House,23,DEM,Aaron Gies,22
+Chautauqua,Dunkirk City 2-1,U.S. House,23,DEM,Kevin T. Stocker,4
+Chautauqua,Dunkirk City 2-1,U.S. House,23,,Under Votes,7
+Chautauqua,Dunkirk City 2-2,Ballots Cast,,,,64
+Chautauqua,Dunkirk City 2-2,Comptroller,,DEM,Drew Warshaw,9
+Chautauqua,Dunkirk City 2-2,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Dunkirk City 2-2,Comptroller,,DEM,Thomas P. DiNapoli,51
+Chautauqua,Dunkirk City 2-2,Comptroller,,,Under Votes,3
+Chautauqua,Dunkirk City 2-2,U.S. House,23,DEM,Aaron Gies,44
+Chautauqua,Dunkirk City 2-2,U.S. House,23,DEM,Kevin T. Stocker,14
+Chautauqua,Dunkirk City 2-2,U.S. House,23,,Under Votes,6
+Chautauqua,Dunkirk City 2-3,Ballots Cast,,,,19
+Chautauqua,Dunkirk City 2-3,Comptroller,,DEM,Drew Warshaw,2
+Chautauqua,Dunkirk City 2-3,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Dunkirk City 2-3,Comptroller,,DEM,Thomas P. DiNapoli,16
+Chautauqua,Dunkirk City 2-3,U.S. House,23,DEM,Aaron Gies,16
+Chautauqua,Dunkirk City 2-3,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Dunkirk City 2-3,U.S. House,23,,Under Votes,2
+Chautauqua,Dunkirk City 3-1,Ballots Cast,,,,5
+Chautauqua,Dunkirk City 3-1,Comptroller,,DEM,Thomas P. DiNapoli,5
+Chautauqua,Dunkirk City 3-1,U.S. House,23,DEM,Aaron Gies,4
+Chautauqua,Dunkirk City 3-1,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Dunkirk City 3-2,Ballots Cast,,,,6
+Chautauqua,Dunkirk City 3-2,Comptroller,,DEM,Thomas P. DiNapoli,4
+Chautauqua,Dunkirk City 3-2,Comptroller,,,Under Votes,2
+Chautauqua,Dunkirk City 3-2,U.S. House,23,DEM,Aaron Gies,4
+Chautauqua,Dunkirk City 3-2,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Dunkirk City 3-2,U.S. House,23,,Under Votes,1
+Chautauqua,Dunkirk City 3-3,Ballots Cast,,,,43
+Chautauqua,Dunkirk City 3-3,Comptroller,,DEM,Drew Warshaw,6
+Chautauqua,Dunkirk City 3-3,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Dunkirk City 3-3,Comptroller,,DEM,Thomas P. DiNapoli,32
+Chautauqua,Dunkirk City 3-3,Comptroller,,,Over Votes,1
+Chautauqua,Dunkirk City 3-3,Comptroller,,,Under Votes,3
+Chautauqua,Dunkirk City 3-3,U.S. House,23,DEM,Aaron Gies,30
+Chautauqua,Dunkirk City 3-3,U.S. House,23,DEM,Kevin T. Stocker,6
+Chautauqua,Dunkirk City 3-3,U.S. House,23,,Over Votes,1
+Chautauqua,Dunkirk City 3-3,U.S. House,23,,Under Votes,6
+Chautauqua,Dunkirk City 3-4,Ballots Cast,,,,12
+Chautauqua,Dunkirk City 3-4,Comptroller,,DEM,Drew Warshaw,3
+Chautauqua,Dunkirk City 3-4,Comptroller,,DEM,Thomas P. DiNapoli,8
+Chautauqua,Dunkirk City 3-4,Comptroller,,,Under Votes,1
+Chautauqua,Dunkirk City 3-4,U.S. House,23,DEM,Aaron Gies,7
+Chautauqua,Dunkirk City 3-4,U.S. House,23,DEM,Kevin T. Stocker,4
+Chautauqua,Dunkirk City 3-4,U.S. House,23,,Under Votes,1
+Chautauqua,Dunkirk City 4-1,Ballots Cast,,,,9
+Chautauqua,Dunkirk City 4-1,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Dunkirk City 4-1,Comptroller,,DEM,Thomas P. DiNapoli,8
+Chautauqua,Dunkirk City 4-1,U.S. House,23,DEM,Aaron Gies,8
+Chautauqua,Dunkirk City 4-1,U.S. House,23,,Under Votes,1
+Chautauqua,Dunkirk City 4-2,Ballots Cast,,,,25
+Chautauqua,Dunkirk City 4-2,Comptroller,,DEM,Drew Warshaw,3
+Chautauqua,Dunkirk City 4-2,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Dunkirk City 4-2,Comptroller,,DEM,Thomas P. DiNapoli,20
+Chautauqua,Dunkirk City 4-2,U.S. House,23,DEM,Aaron Gies,15
+Chautauqua,Dunkirk City 4-2,U.S. House,23,DEM,Kevin T. Stocker,9
+Chautauqua,Dunkirk City 4-2,U.S. House,23,,Under Votes,1
+Chautauqua,Ellery 1,Ballots Cast,,,,29
+Chautauqua,Ellery 1,Comptroller,,DEM,Drew Warshaw,2
+Chautauqua,Ellery 1,Comptroller,,DEM,Raj Goyle,6
+Chautauqua,Ellery 1,Comptroller,,DEM,Thomas P. DiNapoli,18
+Chautauqua,Ellery 1,Comptroller,,,Under Votes,3
+Chautauqua,Ellery 1,U.S. House,23,DEM,Aaron Gies,21
+Chautauqua,Ellery 1,U.S. House,23,DEM,Kevin T. Stocker,6
+Chautauqua,Ellery 1,U.S. House,23,,Under Votes,2
+Chautauqua,Ellery 2,Ballots Cast,,,,8
+Chautauqua,Ellery 2,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Ellery 2,Comptroller,,DEM,Thomas P. DiNapoli,7
+Chautauqua,Ellery 2,U.S. House,23,DEM,Aaron Gies,4
+Chautauqua,Ellery 2,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Ellery 2,U.S. House,23,,Under Votes,3
+Chautauqua,Ellery 3,Ballots Cast,,,,70
+Chautauqua,Ellery 3,Comptroller,,DEM,Drew Warshaw,4
+Chautauqua,Ellery 3,Comptroller,,DEM,Raj Goyle,5
+Chautauqua,Ellery 3,Comptroller,,DEM,Thomas P. DiNapoli,52
+Chautauqua,Ellery 3,Comptroller,,,Under Votes,9
+Chautauqua,Ellery 3,U.S. House,23,DEM,Aaron Gies,63
+Chautauqua,Ellery 3,U.S. House,23,DEM,Kevin T. Stocker,5
+Chautauqua,Ellery 3,U.S. House,23,,Under Votes,2
+Chautauqua,Ellicott 1-1,Ballots Cast,,,,19
+Chautauqua,Ellicott 1-1,Comptroller,,DEM,Drew Warshaw,3
+Chautauqua,Ellicott 1-1,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Ellicott 1-1,Comptroller,,DEM,Thomas P. DiNapoli,13
+Chautauqua,Ellicott 1-1,Comptroller,,,Under Votes,1
+Chautauqua,Ellicott 1-1,U.S. House,23,DEM,Aaron Gies,11
+Chautauqua,Ellicott 1-1,U.S. House,23,DEM,Kevin T. Stocker,5
+Chautauqua,Ellicott 1-1,U.S. House,23,,Under Votes,3
+Chautauqua,Ellicott 1-2,Ballots Cast,,,,33
+Chautauqua,Ellicott 1-2,Comptroller,,DEM,Drew Warshaw,4
+Chautauqua,Ellicott 1-2,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Ellicott 1-2,Comptroller,,DEM,Thomas P. DiNapoli,21
+Chautauqua,Ellicott 1-2,Comptroller,,,Under Votes,6
+Chautauqua,Ellicott 1-2,U.S. House,23,DEM,Aaron Gies,29
+Chautauqua,Ellicott 1-2,U.S. House,23,DEM,Kevin T. Stocker,2
+Chautauqua,Ellicott 1-2,U.S. House,23,,Under Votes,2
+Chautauqua,Ellicott 2-1,Ballots Cast,,,,40
+Chautauqua,Ellicott 2-1,Comptroller,,DEM,Drew Warshaw,3
+Chautauqua,Ellicott 2-1,Comptroller,,DEM,Thomas P. DiNapoli,35
+Chautauqua,Ellicott 2-1,Comptroller,,,Under Votes,2
+Chautauqua,Ellicott 2-1,U.S. House,23,DEM,Aaron Gies,27
+Chautauqua,Ellicott 2-1,U.S. House,23,DEM,Kevin T. Stocker,8
+Chautauqua,Ellicott 2-1,U.S. House,23,,Under Votes,5
+Chautauqua,Ellicott 2-2,Ballots Cast,,,,5
+Chautauqua,Ellicott 2-2,Comptroller,,DEM,Drew Warshaw,3
+Chautauqua,Ellicott 2-2,Comptroller,,DEM,Thomas P. DiNapoli,2
+Chautauqua,Ellicott 2-2,U.S. House,23,DEM,Aaron Gies,4
+Chautauqua,Ellicott 2-2,U.S. House,23,,Under Votes,1
+Chautauqua,Ellicott 2-3,Ballots Cast,,,,7
+Chautauqua,Ellicott 2-3,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Ellicott 2-3,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Ellicott 2-3,Comptroller,,DEM,Thomas P. DiNapoli,5
+Chautauqua,Ellicott 2-3,U.S. House,23,DEM,Aaron Gies,5
+Chautauqua,Ellicott 2-3,U.S. House,23,DEM,Kevin T. Stocker,2
+Chautauqua,Ellicott 2-4,Ballots Cast,,,,15
+Chautauqua,Ellicott 2-4,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Ellicott 2-4,Comptroller,,DEM,Thomas P. DiNapoli,14
+Chautauqua,Ellicott 2-4,U.S. House,23,DEM,Aaron Gies,14
+Chautauqua,Ellicott 2-4,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Ellicott 3-1,Ballots Cast,,,,23
+Chautauqua,Ellicott 3-1,Comptroller,,DEM,Drew Warshaw,5
+Chautauqua,Ellicott 3-1,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Ellicott 3-1,Comptroller,,DEM,Thomas P. DiNapoli,14
+Chautauqua,Ellicott 3-1,Comptroller,,,Under Votes,3
+Chautauqua,Ellicott 3-1,U.S. House,23,DEM,Aaron Gies,19
+Chautauqua,Ellicott 3-1,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Ellicott 3-1,U.S. House,23,,Under Votes,3
+Chautauqua,Ellicott 3-2,Ballots Cast,,,,4
+Chautauqua,Ellicott 3-2,Comptroller,,DEM,Thomas P. DiNapoli,4
+Chautauqua,Ellicott 3-2,U.S. House,23,DEM,Aaron Gies,2
+Chautauqua,Ellicott 3-2,U.S. House,23,DEM,Kevin T. Stocker,2
+Chautauqua,Ellicott 4-1,Ballots Cast,,,,10
+Chautauqua,Ellicott 4-1,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Ellicott 4-1,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Ellicott 4-1,Comptroller,,DEM,Thomas P. DiNapoli,5
+Chautauqua,Ellicott 4-1,Comptroller,,,Under Votes,2
+Chautauqua,Ellicott 4-1,U.S. House,23,DEM,Aaron Gies,9
+Chautauqua,Ellicott 4-1,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Ellicott 4-2,Ballots Cast,,,,4
+Chautauqua,Ellicott 4-2,Comptroller,,DEM,Thomas P. DiNapoli,3
+Chautauqua,Ellicott 4-2,Comptroller,,,Under Votes,1
+Chautauqua,Ellicott 4-2,U.S. House,23,DEM,Aaron Gies,4
+Chautauqua,Ellicott 4-3,Ballots Cast,,,,30
+Chautauqua,Ellicott 4-3,Comptroller,,DEM,Drew Warshaw,5
+Chautauqua,Ellicott 4-3,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Ellicott 4-3,Comptroller,,DEM,Thomas P. DiNapoli,19
+Chautauqua,Ellicott 4-3,Comptroller,,,Under Votes,5
+Chautauqua,Ellicott 4-3,U.S. House,23,DEM,Aaron Gies,21
+Chautauqua,Ellicott 4-3,U.S. House,23,DEM,Kevin T. Stocker,8
+Chautauqua,Ellicott 4-3,U.S. House,23,,Under Votes,1
+Chautauqua,Ellington,Ballots Cast,,,,21
+Chautauqua,Ellington,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Ellington,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Ellington,Comptroller,,DEM,Thomas P. DiNapoli,18
+Chautauqua,Ellington,Comptroller,,,Under Votes,1
+Chautauqua,Ellington,U.S. House,23,DEM,Aaron Gies,17
+Chautauqua,Ellington,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Ellington,U.S. House,23,,Under Votes,3
+Chautauqua,French Creek,Ballots Cast,,,,10
+Chautauqua,French Creek,Comptroller,,DEM,Drew Warshaw,3
+Chautauqua,French Creek,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,French Creek,Comptroller,,DEM,Thomas P. DiNapoli,6
+Chautauqua,French Creek,U.S. House,23,DEM,Aaron Gies,7
+Chautauqua,French Creek,U.S. House,23,DEM,Kevin T. Stocker,3
+Chautauqua,Gerry,Ballots Cast,,,,24
+Chautauqua,Gerry,Comptroller,,DEM,Drew Warshaw,4
+Chautauqua,Gerry,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Gerry,Comptroller,,DEM,Thomas P. DiNapoli,18
+Chautauqua,Gerry,Comptroller,,,Under Votes,1
+Chautauqua,Gerry,U.S. House,23,DEM,Aaron Gies,15
+Chautauqua,Gerry,U.S. House,23,DEM,Kevin T. Stocker,6
+Chautauqua,Gerry,U.S. House,23,,Under Votes,3
+Chautauqua,Hanover 1,Ballots Cast,,,,64
+Chautauqua,Hanover 1,Comptroller,,DEM,Drew Warshaw,7
+Chautauqua,Hanover 1,Comptroller,,DEM,Raj Goyle,5
+Chautauqua,Hanover 1,Comptroller,,DEM,Thomas P. DiNapoli,50
+Chautauqua,Hanover 1,Comptroller,,,Under Votes,2
+Chautauqua,Hanover 1,U.S. House,23,DEM,Aaron Gies,55
+Chautauqua,Hanover 1,U.S. House,23,DEM,Kevin T. Stocker,6
+Chautauqua,Hanover 1,U.S. House,23,,Under Votes,3
+Chautauqua,Hanover 2,Ballots Cast,,,,62
+Chautauqua,Hanover 2,Comptroller,,DEM,Drew Warshaw,4
+Chautauqua,Hanover 2,Comptroller,,DEM,Raj Goyle,4
+Chautauqua,Hanover 2,Comptroller,,DEM,Thomas P. DiNapoli,42
+Chautauqua,Hanover 2,Comptroller,,,Under Votes,9
+Chautauqua,Hanover 2,U.S. House,23,DEM,Aaron Gies,45
+Chautauqua,Hanover 2,U.S. House,23,DEM,Kevin T. Stocker,12
+Chautauqua,Hanover 2,U.S. House,23,,Under Votes,5
+Chautauqua,Hanover 3,Ballots Cast,,,,21
+Chautauqua,Hanover 3,Comptroller,,DEM,Drew Warshaw,3
+Chautauqua,Hanover 3,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Hanover 3,Comptroller,,DEM,Thomas P. DiNapoli,15
+Chautauqua,Hanover 3,Comptroller,,,Under Votes,1
+Chautauqua,Hanover 3,U.S. House,23,DEM,Aaron Gies,12
+Chautauqua,Hanover 3,U.S. House,23,DEM,Kevin T. Stocker,6
+Chautauqua,Hanover 3,U.S. House,23,,Under Votes,3
+Chautauqua,Hanover 4,Ballots Cast,,,,9
+Chautauqua,Hanover 4,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Hanover 4,Comptroller,,DEM,Thomas P. DiNapoli,7
+Chautauqua,Hanover 4,U.S. House,23,DEM,Aaron Gies,7
+Chautauqua,Hanover 4,U.S. House,23,DEM,Kevin T. Stocker,2
+Chautauqua,Harmony 1,Ballots Cast,,,,24
+Chautauqua,Harmony 1,Comptroller,,DEM,Drew Warshaw,6
+Chautauqua,Harmony 1,Comptroller,,DEM,Raj Goyle,4
+Chautauqua,Harmony 1,Comptroller,,DEM,Thomas P. DiNapoli,13
+Chautauqua,Harmony 1,Comptroller,,,Under Votes,1
+Chautauqua,Harmony 1,U.S. House,23,DEM,Aaron Gies,14
+Chautauqua,Harmony 1,U.S. House,23,DEM,Kevin T. Stocker,6
+Chautauqua,Harmony 1,U.S. House,23,,Under Votes,4
+Chautauqua,Harmony 2,Ballots Cast,,,,10
+Chautauqua,Harmony 2,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Harmony 2,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Harmony 2,Comptroller,,DEM,Thomas P. DiNapoli,7
+Chautauqua,Harmony 2,U.S. House,23,DEM,Aaron Gies,7
+Chautauqua,Harmony 2,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Harmony 2,U.S. House,23,,Under Votes,2
+Chautauqua,Jamestown City 1-1,Ballots Cast,,,,16
+Chautauqua,Jamestown City 1-1,Comptroller,,DEM,Drew Warshaw,2
+Chautauqua,Jamestown City 1-1,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Jamestown City 1-1,Comptroller,,DEM,Thomas P. DiNapoli,8
+Chautauqua,Jamestown City 1-1,Comptroller,,,Under Votes,3
+Chautauqua,Jamestown City 1-1,U.S. House,23,DEM,Aaron Gies,13
+Chautauqua,Jamestown City 1-1,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Jamestown City 1-1,U.S. House,23,,Under Votes,2
+Chautauqua,Jamestown City 1-2,Ballots Cast,,,,58
+Chautauqua,Jamestown City 1-2,Comptroller,,DEM,Drew Warshaw,5
+Chautauqua,Jamestown City 1-2,Comptroller,,DEM,Raj Goyle,5
+Chautauqua,Jamestown City 1-2,Comptroller,,DEM,Thomas P. DiNapoli,34
+Chautauqua,Jamestown City 1-2,Comptroller,,,Under Votes,13
+Chautauqua,Jamestown City 1-2,U.S. House,23,DEM,Aaron Gies,46
+Chautauqua,Jamestown City 1-2,U.S. House,23,DEM,Kevin T. Stocker,7
+Chautauqua,Jamestown City 1-2,U.S. House,23,,Under Votes,5
+Chautauqua,Jamestown City 2-1,Ballots Cast,,,,18
+Chautauqua,Jamestown City 2-1,Comptroller,,DEM,Drew Warshaw,3
+Chautauqua,Jamestown City 2-1,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Jamestown City 2-1,Comptroller,,DEM,Thomas P. DiNapoli,11
+Chautauqua,Jamestown City 2-1,Comptroller,,,Under Votes,2
+Chautauqua,Jamestown City 2-1,U.S. House,23,DEM,Aaron Gies,14
+Chautauqua,Jamestown City 2-1,U.S. House,23,DEM,Kevin T. Stocker,3
+Chautauqua,Jamestown City 2-1,U.S. House,23,,Under Votes,1
+Chautauqua,Jamestown City 2-2,Ballots Cast,,,,108
+Chautauqua,Jamestown City 2-2,Comptroller,,DEM,Drew Warshaw,19
+Chautauqua,Jamestown City 2-2,Comptroller,,DEM,Raj Goyle,11
+Chautauqua,Jamestown City 2-2,Comptroller,,DEM,Thomas P. DiNapoli,64
+Chautauqua,Jamestown City 2-2,Comptroller,,DEM,Write-in,1
+Chautauqua,Jamestown City 2-2,Comptroller,,,Under Votes,12
+Chautauqua,Jamestown City 2-2,U.S. House,23,DEM,Aaron Gies,86
+Chautauqua,Jamestown City 2-2,U.S. House,23,DEM,Kevin T. Stocker,14
+Chautauqua,Jamestown City 2-2,U.S. House,23,,Under Votes,8
+Chautauqua,Jamestown City 3-1,Ballots Cast,,,,47
+Chautauqua,Jamestown City 3-1,Comptroller,,DEM,Drew Warshaw,6
+Chautauqua,Jamestown City 3-1,Comptroller,,DEM,Raj Goyle,5
+Chautauqua,Jamestown City 3-1,Comptroller,,DEM,Thomas P. DiNapoli,28
+Chautauqua,Jamestown City 3-1,Comptroller,,,Over Votes,1
+Chautauqua,Jamestown City 3-1,Comptroller,,,Under Votes,7
+Chautauqua,Jamestown City 3-1,U.S. House,23,DEM,Aaron Gies,31
+Chautauqua,Jamestown City 3-1,U.S. House,23,DEM,Kevin T. Stocker,8
+Chautauqua,Jamestown City 3-1,U.S. House,23,,Over Votes,1
+Chautauqua,Jamestown City 3-1,U.S. House,23,,Under Votes,7
+Chautauqua,Jamestown City 3-2,Ballots Cast,,,,5
+Chautauqua,Jamestown City 3-2,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Jamestown City 3-2,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Jamestown City 3-2,Comptroller,,DEM,Thomas P. DiNapoli,2
+Chautauqua,Jamestown City 3-2,U.S. House,23,DEM,Aaron Gies,4
+Chautauqua,Jamestown City 3-2,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Jamestown City 3-3,Ballots Cast,,,,9
+Chautauqua,Jamestown City 3-3,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Jamestown City 3-3,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Jamestown City 3-3,Comptroller,,DEM,Thomas P. DiNapoli,7
+Chautauqua,Jamestown City 3-3,U.S. House,23,DEM,Aaron Gies,6
+Chautauqua,Jamestown City 3-3,U.S. House,23,DEM,Kevin T. Stocker,3
+Chautauqua,Jamestown City 4-1,Ballots Cast,,,,67
+Chautauqua,Jamestown City 4-1,Comptroller,,DEM,Drew Warshaw,10
+Chautauqua,Jamestown City 4-1,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Jamestown City 4-1,Comptroller,,DEM,Thomas P. DiNapoli,49
+Chautauqua,Jamestown City 4-1,Comptroller,,,Under Votes,6
+Chautauqua,Jamestown City 4-1,U.S. House,23,DEM,Aaron Gies,52
+Chautauqua,Jamestown City 4-1,U.S. House,23,DEM,Kevin T. Stocker,9
+Chautauqua,Jamestown City 4-1,U.S. House,23,,Under Votes,6
+Chautauqua,Jamestown City 4-2,Ballots Cast,,,,57
+Chautauqua,Jamestown City 4-2,Comptroller,,DEM,Drew Warshaw,3
+Chautauqua,Jamestown City 4-2,Comptroller,,DEM,Raj Goyle,5
+Chautauqua,Jamestown City 4-2,Comptroller,,DEM,Thomas P. DiNapoli,42
+Chautauqua,Jamestown City 4-2,Comptroller,,,Under Votes,5
+Chautauqua,Jamestown City 4-2,U.S. House,23,DEM,Aaron Gies,42
+Chautauqua,Jamestown City 4-2,U.S. House,23,DEM,Kevin T. Stocker,11
+Chautauqua,Jamestown City 4-2,U.S. House,23,,Under Votes,4
+Chautauqua,Jamestown City 4-3,Ballots Cast,,,,44
+Chautauqua,Jamestown City 4-3,Comptroller,,DEM,Drew Warshaw,4
+Chautauqua,Jamestown City 4-3,Comptroller,,DEM,Thomas P. DiNapoli,38
+Chautauqua,Jamestown City 4-3,Comptroller,,,Under Votes,2
+Chautauqua,Jamestown City 4-3,U.S. House,23,DEM,Aaron Gies,35
+Chautauqua,Jamestown City 4-3,U.S. House,23,DEM,Kevin T. Stocker,8
+Chautauqua,Jamestown City 4-3,U.S. House,23,,Under Votes,1
+Chautauqua,Jamestown City 5-1,Ballots Cast,,,,9
+Chautauqua,Jamestown City 5-1,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Jamestown City 5-1,Comptroller,,DEM,Thomas P. DiNapoli,6
+Chautauqua,Jamestown City 5-1,Comptroller,,,Under Votes,2
+Chautauqua,Jamestown City 5-1,U.S. House,23,DEM,Aaron Gies,8
+Chautauqua,Jamestown City 5-1,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Jamestown City 5-2,Ballots Cast,,,,50
+Chautauqua,Jamestown City 5-2,Comptroller,,DEM,Drew Warshaw,8
+Chautauqua,Jamestown City 5-2,Comptroller,,DEM,Raj Goyle,4
+Chautauqua,Jamestown City 5-2,Comptroller,,DEM,Thomas P. DiNapoli,36
+Chautauqua,Jamestown City 5-2,Comptroller,,,Under Votes,2
+Chautauqua,Jamestown City 5-2,U.S. House,23,DEM,Aaron Gies,36
+Chautauqua,Jamestown City 5-2,U.S. House,23,DEM,Kevin T. Stocker,10
+Chautauqua,Jamestown City 5-2,U.S. House,23,,Under Votes,4
+Chautauqua,Jamestown City 5-3,Ballots Cast,,,,29
+Chautauqua,Jamestown City 5-3,Comptroller,,DEM,Drew Warshaw,2
+Chautauqua,Jamestown City 5-3,Comptroller,,DEM,Raj Goyle,4
+Chautauqua,Jamestown City 5-3,Comptroller,,DEM,Thomas P. DiNapoli,17
+Chautauqua,Jamestown City 5-3,Comptroller,,,Under Votes,6
+Chautauqua,Jamestown City 5-3,U.S. House,23,DEM,Aaron Gies,23
+Chautauqua,Jamestown City 5-3,U.S. House,23,DEM,Kevin T. Stocker,3
+Chautauqua,Jamestown City 5-3,U.S. House,23,,Under Votes,3
+Chautauqua,Jamestown City 6-1,Ballots Cast,,,,43
+Chautauqua,Jamestown City 6-1,Comptroller,,DEM,Drew Warshaw,4
+Chautauqua,Jamestown City 6-1,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Jamestown City 6-1,Comptroller,,DEM,Thomas P. DiNapoli,30
+Chautauqua,Jamestown City 6-1,Comptroller,,,Under Votes,7
+Chautauqua,Jamestown City 6-1,U.S. House,23,DEM,Aaron Gies,37
+Chautauqua,Jamestown City 6-1,U.S. House,23,DEM,Kevin T. Stocker,5
+Chautauqua,Jamestown City 6-1,U.S. House,23,,Under Votes,1
+Chautauqua,Jamestown City 6-2,Ballots Cast,,,,45
+Chautauqua,Jamestown City 6-2,Comptroller,,DEM,Drew Warshaw,4
+Chautauqua,Jamestown City 6-2,Comptroller,,DEM,Raj Goyle,4
+Chautauqua,Jamestown City 6-2,Comptroller,,DEM,Thomas P. DiNapoli,29
+Chautauqua,Jamestown City 6-2,Comptroller,,,Under Votes,8
+Chautauqua,Jamestown City 6-2,U.S. House,23,DEM,Aaron Gies,35
+Chautauqua,Jamestown City 6-2,U.S. House,23,DEM,Kevin T. Stocker,8
+Chautauqua,Jamestown City 6-2,U.S. House,23,,Under Votes,2
+Chautauqua,Jamestown City 6-3,Ballots Cast,,,,24
+Chautauqua,Jamestown City 6-3,Comptroller,,DEM,Drew Warshaw,2
+Chautauqua,Jamestown City 6-3,Comptroller,,DEM,Raj Goyle,3
+Chautauqua,Jamestown City 6-3,Comptroller,,DEM,Thomas P. DiNapoli,15
+Chautauqua,Jamestown City 6-3,Comptroller,,,Under Votes,3
+Chautauqua,Jamestown City 6-3,U.S. House,23,DEM,Aaron Gies,18
+Chautauqua,Jamestown City 6-3,U.S. House,23,DEM,Kevin T. Stocker,5
+Chautauqua,Jamestown City 6-3,U.S. House,23,,Under Votes,1
+Chautauqua,Jamestown City 6-4,Ballots Cast,,,,1
+Chautauqua,Jamestown City 6-4,Comptroller,,DEM,Thomas P. DiNapoli,1
+Chautauqua,Jamestown City 6-4,U.S. House,23,,Under Votes,1
+Chautauqua,Kiantone,Ballots Cast,,,,115
+Chautauqua,Kiantone,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Kiantone,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Kiantone,Comptroller,,DEM,Thomas P. DiNapoli,24
+Chautauqua,Kiantone,Comptroller,,DEM,Write-in,1
+Chautauqua,Kiantone,Comptroller,,,Under Votes,4
+Chautauqua,Kiantone,Town Clerk,,REP,Jennifer A. Schmitt,57
+Chautauqua,Kiantone,Town Clerk,,REP,Sandy Volpe Jr.,23
+Chautauqua,Kiantone,Town Clerk,,REP,Write-in,3
+Chautauqua,Kiantone,U.S. House,23,DEM,Aaron Gies,24
+Chautauqua,Kiantone,U.S. House,23,DEM,Kevin T. Stocker,3
+Chautauqua,Kiantone,U.S. House,23,,Under Votes,5
+Chautauqua,Mina,Ballots Cast,,,,25
+Chautauqua,Mina,Comptroller,,DEM,Drew Warshaw,9
+Chautauqua,Mina,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Mina,Comptroller,,DEM,Thomas P. DiNapoli,13
+Chautauqua,Mina,U.S. House,23,DEM,Aaron Gies,15
+Chautauqua,Mina,U.S. House,23,DEM,Kevin T. Stocker,8
+Chautauqua,Mina,U.S. House,23,,Under Votes,2
+Chautauqua,North Harmony,Ballots Cast,,,,58
+Chautauqua,North Harmony,Comptroller,,DEM,Drew Warshaw,6
+Chautauqua,North Harmony,Comptroller,,DEM,Raj Goyle,4
+Chautauqua,North Harmony,Comptroller,,DEM,Thomas P. DiNapoli,38
+Chautauqua,North Harmony,Comptroller,,,Under Votes,10
+Chautauqua,North Harmony,U.S. House,23,DEM,Aaron Gies,42
+Chautauqua,North Harmony,U.S. House,23,DEM,Kevin T. Stocker,6
+Chautauqua,North Harmony,U.S. House,23,,Under Votes,10
+Chautauqua,Poland 1,Ballots Cast,,,,4
+Chautauqua,Poland 1,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Poland 1,Comptroller,,DEM,Thomas P. DiNapoli,3
+Chautauqua,Poland 1,U.S. House,23,DEM,Aaron Gies,2
+Chautauqua,Poland 1,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Poland 1,U.S. House,23,,Under Votes,1
+Chautauqua,Poland 2,Ballots Cast,,,,22
+Chautauqua,Poland 2,Comptroller,,DEM,Drew Warshaw,4
+Chautauqua,Poland 2,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Poland 2,Comptroller,,DEM,Thomas P. DiNapoli,13
+Chautauqua,Poland 2,Comptroller,,,Under Votes,4
+Chautauqua,Poland 2,U.S. House,23,DEM,Aaron Gies,17
+Chautauqua,Poland 2,U.S. House,23,DEM,Kevin T. Stocker,4
+Chautauqua,Poland 2,U.S. House,23,,Under Votes,1
+Chautauqua,Pomfret 1,Ballots Cast,,,,90
+Chautauqua,Pomfret 1,Comptroller,,DEM,Drew Warshaw,8
+Chautauqua,Pomfret 1,Comptroller,,DEM,Raj Goyle,9
+Chautauqua,Pomfret 1,Comptroller,,DEM,Thomas P. DiNapoli,67
+Chautauqua,Pomfret 1,Comptroller,,,Under Votes,3
+Chautauqua,Pomfret 1,U.S. House,23,DEM,Aaron Gies,72
+Chautauqua,Pomfret 1,U.S. House,23,DEM,Kevin T. Stocker,12
+Chautauqua,Pomfret 1,U.S. House,23,,Under Votes,6
+Chautauqua,Pomfret 2,Ballots Cast,,,,53
+Chautauqua,Pomfret 2,Comptroller,,DEM,Drew Warshaw,7
+Chautauqua,Pomfret 2,Comptroller,,DEM,Raj Goyle,5
+Chautauqua,Pomfret 2,Comptroller,,DEM,Thomas P. DiNapoli,40
+Chautauqua,Pomfret 2,Comptroller,,,Under Votes,1
+Chautauqua,Pomfret 2,U.S. House,23,DEM,Aaron Gies,43
+Chautauqua,Pomfret 2,U.S. House,23,DEM,Kevin T. Stocker,9
+Chautauqua,Pomfret 2,U.S. House,23,,Under Votes,1
+Chautauqua,Pomfret 3,Ballots Cast,,,,105
+Chautauqua,Pomfret 3,Comptroller,,DEM,Drew Warshaw,19
+Chautauqua,Pomfret 3,Comptroller,,DEM,Raj Goyle,4
+Chautauqua,Pomfret 3,Comptroller,,DEM,Thomas P. DiNapoli,78
+Chautauqua,Pomfret 3,Comptroller,,,Under Votes,4
+Chautauqua,Pomfret 3,U.S. House,23,DEM,Aaron Gies,80
+Chautauqua,Pomfret 3,U.S. House,23,DEM,Kevin T. Stocker,19
+Chautauqua,Pomfret 3,U.S. House,23,,Under Votes,6
+Chautauqua,Pomfret 4,Ballots Cast,,,,102
+Chautauqua,Pomfret 4,Comptroller,,DEM,Drew Warshaw,17
+Chautauqua,Pomfret 4,Comptroller,,DEM,Raj Goyle,9
+Chautauqua,Pomfret 4,Comptroller,,DEM,Thomas P. DiNapoli,68
+Chautauqua,Pomfret 4,Comptroller,,,Over Votes,2
+Chautauqua,Pomfret 4,Comptroller,,,Under Votes,6
+Chautauqua,Pomfret 4,U.S. House,23,DEM,Aaron Gies,78
+Chautauqua,Pomfret 4,U.S. House,23,DEM,Kevin T. Stocker,21
+Chautauqua,Pomfret 4,U.S. House,23,,Over Votes,1
+Chautauqua,Pomfret 4,U.S. House,23,,Under Votes,2
+Chautauqua,Pomfret 5,Ballots Cast,,,,62
+Chautauqua,Pomfret 5,Comptroller,,DEM,Drew Warshaw,7
+Chautauqua,Pomfret 5,Comptroller,,DEM,Raj Goyle,8
+Chautauqua,Pomfret 5,Comptroller,,DEM,Thomas P. DiNapoli,46
+Chautauqua,Pomfret 5,Comptroller,,,Under Votes,1
+Chautauqua,Pomfret 5,U.S. House,23,DEM,Aaron Gies,47
+Chautauqua,Pomfret 5,U.S. House,23,DEM,Kevin T. Stocker,10
+Chautauqua,Pomfret 5,U.S. House,23,,Under Votes,5
+Chautauqua,Pomfret 6,Ballots Cast,,,,40
+Chautauqua,Pomfret 6,Comptroller,,DEM,Drew Warshaw,3
+Chautauqua,Pomfret 6,Comptroller,,DEM,Raj Goyle,3
+Chautauqua,Pomfret 6,Comptroller,,DEM,Thomas P. DiNapoli,33
+Chautauqua,Pomfret 6,Comptroller,,,Over Votes,1
+Chautauqua,Pomfret 6,U.S. House,23,DEM,Aaron Gies,33
+Chautauqua,Pomfret 6,U.S. House,23,DEM,Kevin T. Stocker,6
+Chautauqua,Pomfret 6,U.S. House,23,,Under Votes,1
+Chautauqua,Portland 1,Ballots Cast,,,,56
+Chautauqua,Portland 1,Comptroller,,DEM,Drew Warshaw,5
+Chautauqua,Portland 1,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Portland 1,Comptroller,,DEM,Thomas P. DiNapoli,43
+Chautauqua,Portland 1,Comptroller,,,Under Votes,6
+Chautauqua,Portland 1,U.S. House,23,DEM,Aaron Gies,38
+Chautauqua,Portland 1,U.S. House,23,DEM,Kevin T. Stocker,16
+Chautauqua,Portland 1,U.S. House,23,,Under Votes,2
+Chautauqua,Portland 2,Ballots Cast,,,,20
+Chautauqua,Portland 2,Comptroller,,DEM,Drew Warshaw,1
+Chautauqua,Portland 2,Comptroller,,DEM,Raj Goyle,4
+Chautauqua,Portland 2,Comptroller,,DEM,Thomas P. DiNapoli,13
+Chautauqua,Portland 2,Comptroller,,,Under Votes,2
+Chautauqua,Portland 2,U.S. House,23,DEM,Aaron Gies,9
+Chautauqua,Portland 2,U.S. House,23,DEM,Kevin T. Stocker,9
+Chautauqua,Portland 2,U.S. House,23,,Under Votes,2
+Chautauqua,Ripley,Ballots Cast,,,,43
+Chautauqua,Ripley,Comptroller,,DEM,Drew Warshaw,10
+Chautauqua,Ripley,Comptroller,,DEM,Raj Goyle,6
+Chautauqua,Ripley,Comptroller,,DEM,Thomas P. DiNapoli,22
+Chautauqua,Ripley,Comptroller,,,Over Votes,1
+Chautauqua,Ripley,Comptroller,,,Under Votes,4
+Chautauqua,Ripley,U.S. House,23,DEM,Aaron Gies,31
+Chautauqua,Ripley,U.S. House,23,DEM,Kevin T. Stocker,10
+Chautauqua,Ripley,U.S. House,23,,Under Votes,2
+Chautauqua,Sheridan,Ballots Cast,,,,52
+Chautauqua,Sheridan,Comptroller,,DEM,Drew Warshaw,7
+Chautauqua,Sheridan,Comptroller,,DEM,Raj Goyle,3
+Chautauqua,Sheridan,Comptroller,,DEM,Thomas P. DiNapoli,39
+Chautauqua,Sheridan,Comptroller,,,Under Votes,2
+Chautauqua,Sheridan,U.S. House,23,DEM,Aaron Gies,35
+Chautauqua,Sheridan,U.S. House,23,DEM,Kevin T. Stocker,12
+Chautauqua,Sheridan,U.S. House,23,,Under Votes,5
+Chautauqua,Sherman,Ballots Cast,,,,20
+Chautauqua,Sherman,Comptroller,,DEM,Drew Warshaw,2
+Chautauqua,Sherman,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Sherman,Comptroller,,DEM,Thomas P. DiNapoli,17
+Chautauqua,Sherman,U.S. House,23,DEM,Aaron Gies,15
+Chautauqua,Sherman,U.S. House,23,DEM,Kevin T. Stocker,5
+Chautauqua,Stockton 1,Ballots Cast,,,,15
+Chautauqua,Stockton 1,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Stockton 1,Comptroller,,DEM,Thomas P. DiNapoli,8
+Chautauqua,Stockton 1,Comptroller,,DEM,Write-in,1
+Chautauqua,Stockton 1,Comptroller,,,Under Votes,4
+Chautauqua,Stockton 1,U.S. House,23,DEM,Aaron Gies,8
+Chautauqua,Stockton 1,U.S. House,23,DEM,Kevin T. Stocker,4
+Chautauqua,Stockton 1,U.S. House,23,DEM,Write-in,1
+Chautauqua,Stockton 1,U.S. House,23,,Under Votes,2
+Chautauqua,Stockton 2,Ballots Cast,,,,22
+Chautauqua,Stockton 2,Comptroller,,DEM,Raj Goyle,2
+Chautauqua,Stockton 2,Comptroller,,DEM,Thomas P. DiNapoli,19
+Chautauqua,Stockton 2,Comptroller,,,Over Votes,1
+Chautauqua,Stockton 2,U.S. House,23,DEM,Aaron Gies,15
+Chautauqua,Stockton 2,U.S. House,23,DEM,Kevin T. Stocker,2
+Chautauqua,Stockton 2,U.S. House,23,DEM,Write-in,1
+Chautauqua,Stockton 2,U.S. House,23,,Over Votes,1
+Chautauqua,Stockton 2,U.S. House,23,,Under Votes,3
+Chautauqua,Villenova,Ballots Cast,,,,11
+Chautauqua,Villenova,Comptroller,,DEM,Drew Warshaw,5
+Chautauqua,Villenova,Comptroller,,DEM,Raj Goyle,1
+Chautauqua,Villenova,Comptroller,,DEM,Thomas P. DiNapoli,5
+Chautauqua,Villenova,U.S. House,23,DEM,Aaron Gies,8
+Chautauqua,Villenova,U.S. House,23,DEM,Kevin T. Stocker,1
+Chautauqua,Villenova,U.S. House,23,,Under Votes,2
+Chautauqua,Westfield 1,Ballots Cast,,,,80
+Chautauqua,Westfield 1,Comptroller,,DEM,Drew Warshaw,7
+Chautauqua,Westfield 1,Comptroller,,DEM,Raj Goyle,6
+Chautauqua,Westfield 1,Comptroller,,DEM,Thomas P. DiNapoli,57
+Chautauqua,Westfield 1,Comptroller,,,Under Votes,10
+Chautauqua,Westfield 1,U.S. House,23,DEM,Aaron Gies,58
+Chautauqua,Westfield 1,U.S. House,23,DEM,Kevin T. Stocker,18
+Chautauqua,Westfield 1,U.S. House,23,,Under Votes,4
+Chautauqua,Westfield 2,Ballots Cast,,,,36
+Chautauqua,Westfield 2,Comptroller,,DEM,Drew Warshaw,5
+Chautauqua,Westfield 2,Comptroller,,DEM,Raj Goyle,8
+Chautauqua,Westfield 2,Comptroller,,DEM,Thomas P. DiNapoli,21
+Chautauqua,Westfield 2,Comptroller,,,Under Votes,2
+Chautauqua,Westfield 2,U.S. House,23,DEM,Aaron Gies,27
+Chautauqua,Westfield 2,U.S. House,23,DEM,Kevin T. Stocker,9
+Chautauqua,Westfield 3,Ballots Cast,,,,66
+Chautauqua,Westfield 3,Comptroller,,DEM,Drew Warshaw,12
+Chautauqua,Westfield 3,Comptroller,,DEM,Raj Goyle,7
+Chautauqua,Westfield 3,Comptroller,,DEM,Thomas P. DiNapoli,42
+Chautauqua,Westfield 3,Comptroller,,,Under Votes,5
+Chautauqua,Westfield 3,U.S. House,23,DEM,Aaron Gies,54
+Chautauqua,Westfield 3,U.S. House,23,DEM,Kevin T. Stocker,9
+Chautauqua,Westfield 3,U.S. House,23,,Under Votes,3

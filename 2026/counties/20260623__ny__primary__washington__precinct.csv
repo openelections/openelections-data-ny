@@ -1,0 +1,561 @@
+county,precinct,office,district,party,candidate,votes
+Washington,Argyle District 1,Ballots Cast,,,,109
+Washington,Argyle District 1,Registered Voters,,,,535
+Washington,Argyle District 1,Comptroller,,DEM,Thomas P. DiNapoli,22
+Washington,Argyle District 1,U.S. House,21,DEM,Blake Gendebien,18
+Washington,Argyle District 1,U.S. House,21,DEM,Stuart J. Amoriell,4
+Washington,Argyle District 1,U.S. House,21,REP,Anthony Constantino,53
+Washington,Argyle District 1,U.S. House,21,REP,Robert J. Smullen,33
+Washington,Argyle District 1,U.S. House,21,,Over Votes,1
+Washington,Argyle District 2,Ballots Cast,,,,104
+Washington,Argyle District 2,Registered Voters,,,,575
+Washington,Argyle District 2,Comptroller,,DEM,Raj Goyle,1
+Washington,Argyle District 2,Comptroller,,DEM,Thomas P. DiNapoli,25
+Washington,Argyle District 2,Comptroller,,,Over Votes,1
+Washington,Argyle District 2,Comptroller,,,Under Votes,1
+Washington,Argyle District 2,U.S. House,21,DEM,Blake Gendebien,22
+Washington,Argyle District 2,U.S. House,21,DEM,Stuart J. Amoriell,4
+Washington,Argyle District 2,U.S. House,21,REP,Anthony Constantino,56
+Washington,Argyle District 2,U.S. House,21,REP,Robert J. Smullen,19
+Washington,Argyle District 2,U.S. House,21,REP,Write-in,1
+Washington,Argyle District 2,U.S. House,21,,Over Votes,1
+Washington,Argyle District 2,U.S. House,21,,Under Votes,1
+Washington,Argyle District 3,Ballots Cast,,,,118
+Washington,Argyle District 3,Registered Voters,,,,590
+Washington,Argyle District 3,Comptroller,,DEM,Drew Warshaw,4
+Washington,Argyle District 3,Comptroller,,DEM,Raj Goyle,5
+Washington,Argyle District 3,Comptroller,,DEM,Thomas P. DiNapoli,27
+Washington,Argyle District 3,Comptroller,,,Under Votes,3
+Washington,Argyle District 3,U.S. House,21,DEM,Blake Gendebien,26
+Washington,Argyle District 3,U.S. House,21,DEM,Stuart J. Amoriell,11
+Washington,Argyle District 3,U.S. House,21,REP,Anthony Constantino,49
+Washington,Argyle District 3,U.S. House,21,REP,Robert J. Smullen,30
+Washington,Argyle District 3,U.S. House,21,,Under Votes,2
+Washington,Cambridge District 1,Ballots Cast,,,,122
+Washington,Cambridge District 1,Registered Voters,,,,510
+Washington,Cambridge District 1,Comptroller,,DEM,Drew Warshaw,5
+Washington,Cambridge District 1,Comptroller,,DEM,Raj Goyle,4
+Washington,Cambridge District 1,Comptroller,,DEM,Thomas P. DiNapoli,52
+Washington,Cambridge District 1,Comptroller,,,Under Votes,4
+Washington,Cambridge District 1,U.S. House,21,DEM,Blake Gendebien,57
+Washington,Cambridge District 1,U.S. House,21,DEM,Stuart J. Amoriell,8
+Washington,Cambridge District 1,U.S. House,21,REP,Anthony Constantino,43
+Washington,Cambridge District 1,U.S. House,21,REP,Robert J. Smullen,14
+Washington,Cambridge District 2,Ballots Cast,,,,116
+Washington,Cambridge District 2,Registered Voters,,,,440
+Washington,Cambridge District 2,Comptroller,,DEM,Drew Warshaw,12
+Washington,Cambridge District 2,Comptroller,,DEM,Raj Goyle,7
+Washington,Cambridge District 2,Comptroller,,DEM,Thomas P. DiNapoli,55
+Washington,Cambridge District 2,U.S. House,21,DEM,Blake Gendebien,66
+Washington,Cambridge District 2,U.S. House,21,DEM,Stuart J. Amoriell,8
+Washington,Cambridge District 2,U.S. House,21,REP,Anthony Constantino,30
+Washington,Cambridge District 2,U.S. House,21,REP,Robert J. Smullen,11
+Washington,Cambridge District 2,U.S. House,21,,Under Votes,1
+Washington,Dresden,Ballots Cast,,,,64
+Washington,Dresden,Registered Voters,,,,322
+Washington,Dresden,Comptroller,,DEM,Drew Warshaw,1
+Washington,Dresden,Comptroller,,DEM,Thomas P. DiNapoli,13
+Washington,Dresden,U.S. House,21,DEM,Blake Gendebien,12
+Washington,Dresden,U.S. House,21,DEM,Stuart J. Amoriell,2
+Washington,Dresden,U.S. House,21,REP,Anthony Constantino,33
+Washington,Dresden,U.S. House,21,REP,Robert J. Smullen,16
+Washington,Dresden,U.S. House,21,,Under Votes,1
+Washington,Easton District 1,Ballots Cast,,,,217
+Washington,Easton District 1,Registered Voters,,,,611
+Washington,Easton District 1,Comptroller,,DEM,Drew Warshaw,3
+Washington,Easton District 1,Comptroller,,DEM,Raj Goyle,5
+Washington,Easton District 1,Comptroller,,DEM,Thomas P. DiNapoli,54
+Washington,Easton District 1,Comptroller,,,Under Votes,3
+Washington,Easton District 1,Easton Highway Superintendent,,REP,Ben English,101
+Washington,Easton District 1,Easton Highway Superintendent,,REP,Richard Fox,49
+Washington,Easton District 1,Easton Highway Superintendent,,,Under Votes,1
+Washington,Easton District 1,U.S. House,21,DEM,Blake Gendebien,53
+Washington,Easton District 1,U.S. House,21,DEM,Stuart J. Amoriell,13
+Washington,Easton District 1,U.S. House,21,REP,Anthony Constantino,89
+Washington,Easton District 1,U.S. House,21,REP,Robert J. Smullen,57
+Washington,Easton District 1,U.S. House,21,,Under Votes,5
+Washington,Easton District 2,Ballots Cast,,,,169
+Washington,Easton District 2,Registered Voters,,,,624
+Washington,Easton District 2,Comptroller,,DEM,Drew Warshaw,4
+Washington,Easton District 2,Comptroller,,DEM,Raj Goyle,3
+Washington,Easton District 2,Comptroller,,DEM,Thomas P. DiNapoli,38
+Washington,Easton District 2,Comptroller,,,Under Votes,2
+Washington,Easton District 2,Easton Highway Superintendent,,REP,Ben English,78
+Washington,Easton District 2,Easton Highway Superintendent,,REP,Richard Fox,40
+Washington,Easton District 2,Easton Highway Superintendent,,REP,Write-in,1
+Washington,Easton District 2,Easton Highway Superintendent,,,Under Votes,3
+Washington,Easton District 2,U.S. House,21,DEM,Blake Gendebien,34
+Washington,Easton District 2,U.S. House,21,DEM,Stuart J. Amoriell,13
+Washington,Easton District 2,U.S. House,21,REP,Anthony Constantino,83
+Washington,Easton District 2,U.S. House,21,REP,Robert J. Smullen,34
+Washington,Easton District 2,U.S. House,21,,Under Votes,5
+Washington,Fort Ann District 1,Ballots Cast,,,,57
+Washington,Fort Ann District 1,Registered Voters,,,,322
+Washington,Fort Ann District 1,Comptroller,,DEM,Drew Warshaw,1
+Washington,Fort Ann District 1,Comptroller,,DEM,Raj Goyle,2
+Washington,Fort Ann District 1,Comptroller,,DEM,Thomas P. DiNapoli,7
+Washington,Fort Ann District 1,Comptroller,,,Under Votes,1
+Washington,Fort Ann District 1,U.S. House,21,DEM,Blake Gendebien,7
+Washington,Fort Ann District 1,U.S. House,21,DEM,Stuart J. Amoriell,3
+Washington,Fort Ann District 1,U.S. House,21,REP,Anthony Constantino,38
+Washington,Fort Ann District 1,U.S. House,21,REP,Robert J. Smullen,8
+Washington,Fort Ann District 1,U.S. House,21,,Under Votes,1
+Washington,Fort Ann District 2,Ballots Cast,,,,91
+Washington,Fort Ann District 2,Registered Voters,,,,509
+Washington,Fort Ann District 2,Comptroller,,DEM,Drew Warshaw,2
+Washington,Fort Ann District 2,Comptroller,,DEM,Raj Goyle,3
+Washington,Fort Ann District 2,Comptroller,,DEM,Thomas P. DiNapoli,13
+Washington,Fort Ann District 2,Comptroller,,,Under Votes,1
+Washington,Fort Ann District 2,U.S. House,21,DEM,Blake Gendebien,13
+Washington,Fort Ann District 2,U.S. House,21,DEM,Stuart J. Amoriell,5
+Washington,Fort Ann District 2,U.S. House,21,DEM,Write-in,1
+Washington,Fort Ann District 2,U.S. House,21,REP,Anthony Constantino,49
+Washington,Fort Ann District 2,U.S. House,21,REP,Robert J. Smullen,20
+Washington,Fort Ann District 2,U.S. House,21,REP,Write-in,1
+Washington,Fort Ann District 2,U.S. House,21,,Under Votes,2
+Washington,Fort Ann District 3,Ballots Cast,,,,187
+Washington,Fort Ann District 3,Registered Voters,,,,991
+Washington,Fort Ann District 3,Comptroller,,DEM,Drew Warshaw,8
+Washington,Fort Ann District 3,Comptroller,,DEM,Raj Goyle,1
+Washington,Fort Ann District 3,Comptroller,,DEM,Thomas P. DiNapoli,30
+Washington,Fort Ann District 3,Comptroller,,,Over Votes,1
+Washington,Fort Ann District 3,Comptroller,,,Under Votes,2
+Washington,Fort Ann District 3,U.S. House,21,DEM,Blake Gendebien,34
+Washington,Fort Ann District 3,U.S. House,21,DEM,Stuart J. Amoriell,5
+Washington,Fort Ann District 3,U.S. House,21,REP,Anthony Constantino,102
+Washington,Fort Ann District 3,U.S. House,21,REP,Robert J. Smullen,42
+Washington,Fort Ann District 3,U.S. House,21,,Over Votes,1
+Washington,Fort Ann District 3,U.S. House,21,,Under Votes,2
+Washington,Fort Ann District 3,U.S. House,21,,Under Votes,1
+Washington,Fort Edward District 1,Ballots Cast,,,,123
+Washington,Fort Edward District 1,Registered Voters,,,,616
+Washington,Fort Edward District 1,Comptroller,,DEM,Drew Warshaw,5
+Washington,Fort Edward District 1,Comptroller,,DEM,Raj Goyle,7
+Washington,Fort Edward District 1,Comptroller,,DEM,Thomas P. DiNapoli,40
+Washington,Fort Edward District 1,Comptroller,,,Over Votes,1
+Washington,Fort Edward District 1,U.S. House,21,DEM,Blake Gendebien,29
+Washington,Fort Edward District 1,U.S. House,21,DEM,Stuart J. Amoriell,24
+Washington,Fort Edward District 1,U.S. House,21,REP,Anthony Constantino,47
+Washington,Fort Edward District 1,U.S. House,21,REP,Robert J. Smullen,21
+Washington,Fort Edward District 1,U.S. House,21,,Over Votes,2
+Washington,Fort Edward District 2,Ballots Cast,,,,80
+Washington,Fort Edward District 2,Registered Voters,,,,527
+Washington,Fort Edward District 2,Comptroller,,DEM,Drew Warshaw,3
+Washington,Fort Edward District 2,Comptroller,,DEM,Raj Goyle,2
+Washington,Fort Edward District 2,Comptroller,,DEM,Thomas P. DiNapoli,20
+Washington,Fort Edward District 2,Comptroller,,,Under Votes,1
+Washington,Fort Edward District 2,U.S. House,21,DEM,Blake Gendebien,11
+Washington,Fort Edward District 2,U.S. House,21,DEM,Stuart J. Amoriell,15
+Washington,Fort Edward District 2,U.S. House,21,DEM,Write-in,1
+Washington,Fort Edward District 2,U.S. House,21,REP,Anthony Constantino,28
+Washington,Fort Edward District 2,U.S. House,21,REP,Robert J. Smullen,24
+Washington,Fort Edward District 2,U.S. House,21,,Over Votes,1
+Washington,Fort Edward District 3,Ballots Cast,,,,30
+Washington,Fort Edward District 3,Registered Voters,,,,222
+Washington,Fort Edward District 3,Comptroller,,DEM,Drew Warshaw,2
+Washington,Fort Edward District 3,Comptroller,,DEM,Thomas P. DiNapoli,8
+Washington,Fort Edward District 3,Comptroller,,,Under Votes,1
+Washington,Fort Edward District 3,U.S. House,21,DEM,Blake Gendebien,8
+Washington,Fort Edward District 3,U.S. House,21,DEM,Stuart J. Amoriell,3
+Washington,Fort Edward District 3,U.S. House,21,REP,Anthony Constantino,11
+Washington,Fort Edward District 3,U.S. House,21,REP,Robert J. Smullen,7
+Washington,Fort Edward District 3,U.S. House,21,,Over Votes,1
+Washington,Fort Edward District 4,Ballots Cast,,,,134
+Washington,Fort Edward District 4,Registered Voters,,,,684
+Washington,Fort Edward District 4,Comptroller,,DEM,Drew Warshaw,12
+Washington,Fort Edward District 4,Comptroller,,DEM,Raj Goyle,4
+Washington,Fort Edward District 4,Comptroller,,DEM,Thomas P. DiNapoli,49
+Washington,Fort Edward District 4,Comptroller,,,Under Votes,1
+Washington,Fort Edward District 4,U.S. House,21,DEM,Blake Gendebien,42
+Washington,Fort Edward District 4,U.S. House,21,DEM,Stuart J. Amoriell,19
+Washington,Fort Edward District 4,U.S. House,21,DEM,Write-in,1
+Washington,Fort Edward District 4,U.S. House,21,REP,Anthony Constantino,34
+Washington,Fort Edward District 4,U.S. House,21,REP,Robert J. Smullen,34
+Washington,Fort Edward District 4,U.S. House,21,,Over Votes,1
+Washington,Fort Edward District 4,U.S. House,21,,Under Votes,3
+Washington,Fort Edward District 5,Ballots Cast,,,,67
+Washington,Fort Edward District 5,Registered Voters,,,,240
+Washington,Fort Edward District 5,Comptroller,,DEM,Drew Warshaw,1
+Washington,Fort Edward District 5,Comptroller,,DEM,Raj Goyle,3
+Washington,Fort Edward District 5,Comptroller,,DEM,Thomas P. DiNapoli,17
+Washington,Fort Edward District 5,Comptroller,,,Over Votes,1
+Washington,Fort Edward District 5,U.S. House,21,DEM,Blake Gendebien,19
+Washington,Fort Edward District 5,U.S. House,21,DEM,Stuart J. Amoriell,3
+Washington,Fort Edward District 5,U.S. House,21,REP,Anthony Constantino,37
+Washington,Fort Edward District 5,U.S. House,21,REP,Robert J. Smullen,8
+Washington,Granville District 1,Ballots Cast,,,,36
+Washington,Granville District 1,Registered Voters,,,,217
+Washington,Granville District 1,Comptroller,,DEM,Drew Warshaw,5
+Washington,Granville District 1,Comptroller,,DEM,Thomas P. DiNapoli,5
+Washington,Granville District 1,U.S. House,21,DEM,Blake Gendebien,8
+Washington,Granville District 1,U.S. House,21,DEM,Stuart J. Amoriell,2
+Washington,Granville District 1,U.S. House,21,REP,Anthony Constantino,17
+Washington,Granville District 1,U.S. House,21,REP,Robert J. Smullen,7
+Washington,Granville District 1,U.S. House,21,REP,Write-in,2
+Washington,Granville District 2,Ballots Cast,,,,85
+Washington,Granville District 2,Registered Voters,,,,470
+Washington,Granville District 2,Comptroller,,DEM,Drew Warshaw,6
+Washington,Granville District 2,Comptroller,,DEM,Raj Goyle,2
+Washington,Granville District 2,Comptroller,,DEM,Thomas P. DiNapoli,14
+Washington,Granville District 2,Comptroller,,,Over Votes,1
+Washington,Granville District 2,Comptroller,,,Under Votes,2
+Washington,Granville District 2,U.S. House,21,DEM,Blake Gendebien,12
+Washington,Granville District 2,U.S. House,21,DEM,Stuart J. Amoriell,10
+Washington,Granville District 2,U.S. House,21,REP,Anthony Constantino,35
+Washington,Granville District 2,U.S. House,21,REP,Robert J. Smullen,23
+Washington,Granville District 2,U.S. House,21,,Under Votes,4
+Washington,Granville District 2,U.S. House,21,,Under Votes,1
+Washington,Granville District 3,Ballots Cast,,,,146
+Washington,Granville District 3,Registered Voters,,,,643
+Washington,Granville District 3,Comptroller,,DEM,Drew Warshaw,5
+Washington,Granville District 3,Comptroller,,DEM,Raj Goyle,5
+Washington,Granville District 3,Comptroller,,DEM,Thomas P. DiNapoli,31
+Washington,Granville District 3,Comptroller,,,Under Votes,2
+Washington,Granville District 3,U.S. House,21,DEM,Blake Gendebien,35
+Washington,Granville District 3,U.S. House,21,DEM,Stuart J. Amoriell,9
+Washington,Granville District 3,U.S. House,21,REP,Anthony Constantino,77
+Washington,Granville District 3,U.S. House,21,REP,Robert J. Smullen,23
+Washington,Granville District 3,U.S. House,21,REP,Write-in,1
+Washington,Granville District 3,U.S. House,21,,Under Votes,1
+Washington,Granville District 4,Ballots Cast,,,,122
+Washington,Granville District 4,Registered Voters,,,,618
+Washington,Granville District 4,Comptroller,,DEM,Raj Goyle,1
+Washington,Granville District 4,Comptroller,,DEM,Thomas P. DiNapoli,29
+Washington,Granville District 4,Comptroller,,,Under Votes,2
+Washington,Granville District 4,U.S. House,21,DEM,Blake Gendebien,22
+Washington,Granville District 4,U.S. House,21,DEM,Stuart J. Amoriell,10
+Washington,Granville District 4,U.S. House,21,REP,Anthony Constantino,58
+Washington,Granville District 4,U.S. House,21,REP,Robert J. Smullen,29
+Washington,Granville District 4,U.S. House,21,REP,Write-in,3
+Washington,Granville District 5,Ballots Cast,,,,83
+Washington,Granville District 5,Registered Voters,,,,560
+Washington,Granville District 5,Comptroller,,DEM,Drew Warshaw,1
+Washington,Granville District 5,Comptroller,,DEM,Raj Goyle,1
+Washington,Granville District 5,Comptroller,,DEM,Thomas P. DiNapoli,13
+Washington,Granville District 5,U.S. House,21,DEM,Blake Gendebien,11
+Washington,Granville District 5,U.S. House,21,DEM,Stuart J. Amoriell,4
+Washington,Granville District 5,U.S. House,21,REP,Anthony Constantino,54
+Washington,Granville District 5,U.S. House,21,REP,Robert J. Smullen,12
+Washington,Granville District 5,U.S. House,21,REP,Write-in,1
+Washington,Granville District 5,U.S. House,21,,Over Votes,1
+Washington,Greenwich District 1,Ballots Cast,,,,91
+Washington,Greenwich District 1,Registered Voters,,,,377
+Washington,Greenwich District 1,Comptroller,,DEM,Drew Warshaw,4
+Washington,Greenwich District 1,Comptroller,,DEM,Raj Goyle,2
+Washington,Greenwich District 1,Comptroller,,DEM,Thomas P. DiNapoli,31
+Washington,Greenwich District 1,Comptroller,,,Under Votes,2
+Washington,Greenwich District 1,U.S. House,21,DEM,Blake Gendebien,34
+Washington,Greenwich District 1,U.S. House,21,DEM,Stuart J. Amoriell,5
+Washington,Greenwich District 1,U.S. House,21,REP,Anthony Constantino,32
+Washington,Greenwich District 1,U.S. House,21,REP,Robert J. Smullen,20
+Washington,Greenwich District 2,Ballots Cast,,,,62
+Washington,Greenwich District 2,Registered Voters,,,,308
+Washington,Greenwich District 2,Comptroller,,DEM,Drew Warshaw,8
+Washington,Greenwich District 2,Comptroller,,DEM,Raj Goyle,5
+Washington,Greenwich District 2,Comptroller,,DEM,Thomas P. DiNapoli,31
+Washington,Greenwich District 2,U.S. House,21,DEM,Blake Gendebien,38
+Washington,Greenwich District 2,U.S. House,21,DEM,Stuart J. Amoriell,5
+Washington,Greenwich District 2,U.S. House,21,REP,Anthony Constantino,11
+Washington,Greenwich District 2,U.S. House,21,REP,Robert J. Smullen,6
+Washington,Greenwich District 2,U.S. House,21,,Under Votes,1
+Washington,Greenwich District 2,U.S. House,21,,Under Votes,1
+Washington,Greenwich District 3,Ballots Cast,,,,142
+Washington,Greenwich District 3,Registered Voters,,,,583
+Washington,Greenwich District 3,Comptroller,,DEM,Drew Warshaw,9
+Washington,Greenwich District 3,Comptroller,,DEM,Raj Goyle,10
+Washington,Greenwich District 3,Comptroller,,DEM,Thomas P. DiNapoli,65
+Washington,Greenwich District 3,Comptroller,,,Under Votes,1
+Washington,Greenwich District 3,U.S. House,21,DEM,Blake Gendebien,61
+Washington,Greenwich District 3,U.S. House,21,DEM,Stuart J. Amoriell,23
+Washington,Greenwich District 3,U.S. House,21,REP,Anthony Constantino,39
+Washington,Greenwich District 3,U.S. House,21,REP,Robert J. Smullen,18
+Washington,Greenwich District 3,U.S. House,21,,Under Votes,1
+Washington,Greenwich District 4,Ballots Cast,,,,169
+Washington,Greenwich District 4,Registered Voters,,,,681
+Washington,Greenwich District 4,Comptroller,,DEM,Drew Warshaw,6
+Washington,Greenwich District 4,Comptroller,,DEM,Raj Goyle,3
+Washington,Greenwich District 4,Comptroller,,DEM,Thomas P. DiNapoli,73
+Washington,Greenwich District 4,Comptroller,,,Over Votes,1
+Washington,Greenwich District 4,Comptroller,,,Under Votes,4
+Washington,Greenwich District 4,U.S. House,21,DEM,Blake Gendebien,68
+Washington,Greenwich District 4,U.S. House,21,DEM,Stuart J. Amoriell,18
+Washington,Greenwich District 4,U.S. House,21,REP,Anthony Constantino,36
+Washington,Greenwich District 4,U.S. House,21,REP,Robert J. Smullen,45
+Washington,Greenwich District 4,U.S. House,21,REP,Write-in,1
+Washington,Greenwich District 4,U.S. House,21,,Over Votes,1
+Washington,Greenwich District 5,Ballots Cast,,,,70
+Washington,Greenwich District 5,Registered Voters,,,,348
+Washington,Greenwich District 5,Comptroller,,DEM,Drew Warshaw,3
+Washington,Greenwich District 5,Comptroller,,DEM,Raj Goyle,2
+Washington,Greenwich District 5,Comptroller,,DEM,Thomas P. DiNapoli,20
+Washington,Greenwich District 5,Comptroller,,DEM,Write-in,1
+Washington,Greenwich District 5,Comptroller,,,Over Votes,1
+Washington,Greenwich District 5,U.S. House,21,DEM,Blake Gendebien,21
+Washington,Greenwich District 5,U.S. House,21,DEM,Stuart J. Amoriell,4
+Washington,Greenwich District 5,U.S. House,21,DEM,Write-in,1
+Washington,Greenwich District 5,U.S. House,21,REP,Anthony Constantino,26
+Washington,Greenwich District 5,U.S. House,21,REP,Robert J. Smullen,16
+Washington,Greenwich District 5,U.S. House,21,,Over Votes,1
+Washington,Greenwich District 5,U.S. House,21,,Under Votes,1
+Washington,Hampton,Ballots Cast,,,,78
+Washington,Hampton,Registered Voters,,,,382
+Washington,Hampton,Comptroller,,DEM,Drew Warshaw,2
+Washington,Hampton,Comptroller,,DEM,Raj Goyle,4
+Washington,Hampton,Comptroller,,DEM,Thomas P. DiNapoli,18
+Washington,Hampton,U.S. House,21,DEM,Blake Gendebien,17
+Washington,Hampton,U.S. House,21,DEM,Stuart J. Amoriell,6
+Washington,Hampton,U.S. House,21,REP,Anthony Constantino,44
+Washington,Hampton,U.S. House,21,REP,Robert J. Smullen,10
+Washington,Hampton,U.S. House,21,,Under Votes,1
+Washington,Hartford District 1,Ballots Cast,,,,89
+Washington,Hartford District 1,Registered Voters,,,,416
+Washington,Hartford District 1,Comptroller,,DEM,Drew Warshaw,2
+Washington,Hartford District 1,Comptroller,,DEM,Thomas P. DiNapoli,8
+Washington,Hartford District 1,Comptroller,,,Under Votes,1
+Washington,Hartford District 1,U.S. House,21,DEM,Blake Gendebien,10
+Washington,Hartford District 1,U.S. House,21,DEM,Stuart J. Amoriell,2
+Washington,Hartford District 1,U.S. House,21,REP,Anthony Constantino,56
+Washington,Hartford District 1,U.S. House,21,REP,Robert J. Smullen,21
+Washington,Hartford District 2,Ballots Cast,,,,144
+Washington,Hartford District 2,Registered Voters,,,,675
+Washington,Hartford District 2,Comptroller,,DEM,Drew Warshaw,5
+Washington,Hartford District 2,Comptroller,,DEM,Raj Goyle,7
+Washington,Hartford District 2,Comptroller,,DEM,Thomas P. DiNapoli,28
+Washington,Hartford District 2,Comptroller,,,Over Votes,1
+Washington,Hartford District 2,U.S. House,21,DEM,Blake Gendebien,27
+Washington,Hartford District 2,U.S. House,21,DEM,Stuart J. Amoriell,14
+Washington,Hartford District 2,U.S. House,21,REP,Anthony Constantino,73
+Washington,Hartford District 2,U.S. House,21,REP,Robert J. Smullen,29
+Washington,Hartford District 2,U.S. House,21,,Over Votes,1
+Washington,Hebron,Ballots Cast,,,,182
+Washington,Hebron,Registered Voters,,,,916
+Washington,Hebron,Comptroller,,DEM,Drew Warshaw,11
+Washington,Hebron,Comptroller,,DEM,Raj Goyle,14
+Washington,Hebron,Comptroller,,DEM,Thomas P. DiNapoli,61
+Washington,Hebron,Comptroller,,,Over Votes,1
+Washington,Hebron,Comptroller,,,Under Votes,1
+Washington,Hebron,U.S. House,21,DEM,Blake Gendebien,64
+Washington,Hebron,U.S. House,21,DEM,Stuart J. Amoriell,24
+Washington,Hebron,U.S. House,21,REP,Anthony Constantino,65
+Washington,Hebron,U.S. House,21,REP,Robert J. Smullen,27
+Washington,Hebron,U.S. House,21,REP,Write-in,1
+Washington,Hebron,U.S. House,21,,Under Votes,1
+Washington,Jackson,Ballots Cast,,,,209
+Washington,Jackson,Registered Voters,,,,823
+Washington,Jackson,Comptroller,,DEM,Drew Warshaw,5
+Washington,Jackson,Comptroller,,DEM,Raj Goyle,12
+Washington,Jackson,Comptroller,,DEM,Thomas P. DiNapoli,63
+Washington,Jackson,Comptroller,,DEM,Write-in,1
+Washington,Jackson,Comptroller,,,Under Votes,13
+Washington,Jackson,U.S. House,21,DEM,Blake Gendebien,84
+Washington,Jackson,U.S. House,21,DEM,Stuart J. Amoriell,10
+Washington,Jackson,U.S. House,21,REP,Anthony Constantino,73
+Washington,Jackson,U.S. House,21,REP,Robert J. Smullen,41
+Washington,Jackson,U.S. House,21,REP,Write-in,1
+Washington,Kingsbury District 1,Ballots Cast,,,,187
+Washington,Kingsbury District 1,Registered Voters,,,,843
+Washington,Kingsbury District 1,Comptroller,,DEM,Drew Warshaw,4
+Washington,Kingsbury District 1,Comptroller,,DEM,Raj Goyle,5
+Washington,Kingsbury District 1,Comptroller,,DEM,Thomas P. DiNapoli,30
+Washington,Kingsbury District 1,Comptroller,,,Under Votes,4
+Washington,Kingsbury District 1,U.S. House,21,DEM,Blake Gendebien,24
+Washington,Kingsbury District 1,U.S. House,21,DEM,Stuart J. Amoriell,16
+Washington,Kingsbury District 1,U.S. House,21,DEM,Write-in,1
+Washington,Kingsbury District 1,U.S. House,21,REP,Anthony Constantino,92
+Washington,Kingsbury District 1,U.S. House,21,REP,Robert J. Smullen,49
+Washington,Kingsbury District 1,U.S. House,21,REP,Write-in,1
+Washington,Kingsbury District 1,U.S. House,21,,Under Votes,3
+Washington,Kingsbury District 1,U.S. House,21,,Under Votes,1
+Washington,Kingsbury District 2,Ballots Cast,,,,129
+Washington,Kingsbury District 2,Registered Voters,,,,656
+Washington,Kingsbury District 2,Comptroller,,DEM,Drew Warshaw,6
+Washington,Kingsbury District 2,Comptroller,,DEM,Raj Goyle,4
+Washington,Kingsbury District 2,Comptroller,,DEM,Thomas P. DiNapoli,18
+Washington,Kingsbury District 2,Comptroller,,,Under Votes,1
+Washington,Kingsbury District 2,U.S. House,21,DEM,Blake Gendebien,22
+Washington,Kingsbury District 2,U.S. House,21,DEM,Stuart J. Amoriell,5
+Washington,Kingsbury District 2,U.S. House,21,DEM,Write-in,1
+Washington,Kingsbury District 2,U.S. House,21,REP,Anthony Constantino,71
+Washington,Kingsbury District 2,U.S. House,21,REP,Robert J. Smullen,29
+Washington,Kingsbury District 2,U.S. House,21,,Under Votes,1
+Washington,Kingsbury District 3,Ballots Cast,,,,84
+Washington,Kingsbury District 3,Registered Voters,,,,515
+Washington,Kingsbury District 3,Comptroller,,DEM,Drew Warshaw,1
+Washington,Kingsbury District 3,Comptroller,,DEM,Thomas P. DiNapoli,27
+Washington,Kingsbury District 3,U.S. House,21,DEM,Blake Gendebien,17
+Washington,Kingsbury District 3,U.S. House,21,DEM,Stuart J. Amoriell,11
+Washington,Kingsbury District 3,U.S. House,21,REP,Anthony Constantino,36
+Washington,Kingsbury District 3,U.S. House,21,REP,Robert J. Smullen,17
+Washington,Kingsbury District 3,U.S. House,21,,Over Votes,1
+Washington,Kingsbury District 3,U.S. House,21,,Under Votes,2
+Washington,Kingsbury District 4,Ballots Cast,,,,61
+Washington,Kingsbury District 4,Registered Voters,,,,478
+Washington,Kingsbury District 4,Comptroller,,DEM,Drew Warshaw,5
+Washington,Kingsbury District 4,Comptroller,,DEM,Raj Goyle,3
+Washington,Kingsbury District 4,Comptroller,,DEM,Thomas P. DiNapoli,19
+Washington,Kingsbury District 4,Comptroller,,,Under Votes,2
+Washington,Kingsbury District 4,U.S. House,21,DEM,Blake Gendebien,14
+Washington,Kingsbury District 4,U.S. House,21,DEM,Stuart J. Amoriell,10
+Washington,Kingsbury District 4,U.S. House,21,REP,Anthony Constantino,25
+Washington,Kingsbury District 4,U.S. House,21,REP,Robert J. Smullen,7
+Washington,Kingsbury District 4,U.S. House,21,,Under Votes,5
+Washington,Kingsbury District 5,Ballots Cast,,,,38
+Washington,Kingsbury District 5,Registered Voters,,,,261
+Washington,Kingsbury District 5,Comptroller,,DEM,Drew Warshaw,7
+Washington,Kingsbury District 5,Comptroller,,DEM,Raj Goyle,1
+Washington,Kingsbury District 5,Comptroller,,DEM,Thomas P. DiNapoli,8
+Washington,Kingsbury District 5,U.S. House,21,DEM,Blake Gendebien,14
+Washington,Kingsbury District 5,U.S. House,21,DEM,Stuart J. Amoriell,2
+Washington,Kingsbury District 5,U.S. House,21,REP,Anthony Constantino,16
+Washington,Kingsbury District 5,U.S. House,21,REP,Robert J. Smullen,6
+Washington,Kingsbury District 6,Ballots Cast,,,,92
+Washington,Kingsbury District 6,Registered Voters,,,,535
+Washington,Kingsbury District 6,Comptroller,,DEM,Raj Goyle,4
+Washington,Kingsbury District 6,Comptroller,,DEM,Thomas P. DiNapoli,19
+Washington,Kingsbury District 6,Comptroller,,,Over Votes,2
+Washington,Kingsbury District 6,Comptroller,,,Under Votes,2
+Washington,Kingsbury District 6,U.S. House,21,DEM,Blake Gendebien,15
+Washington,Kingsbury District 6,U.S. House,21,DEM,Stuart J. Amoriell,10
+Washington,Kingsbury District 6,U.S. House,21,REP,Anthony Constantino,47
+Washington,Kingsbury District 6,U.S. House,21,REP,Robert J. Smullen,16
+Washington,Kingsbury District 6,U.S. House,21,,Over Votes,2
+Washington,Kingsbury District 6,U.S. House,21,,Under Votes,2
+Washington,Kingsbury District 7,Ballots Cast,,,,73
+Washington,Kingsbury District 7,Registered Voters,,,,411
+Washington,Kingsbury District 7,Comptroller,,DEM,Drew Warshaw,1
+Washington,Kingsbury District 7,Comptroller,,DEM,Raj Goyle,3
+Washington,Kingsbury District 7,Comptroller,,DEM,Thomas P. DiNapoli,22
+Washington,Kingsbury District 7,Comptroller,,,Over Votes,1
+Washington,Kingsbury District 7,U.S. House,21,DEM,Blake Gendebien,15
+Washington,Kingsbury District 7,U.S. House,21,DEM,Stuart J. Amoriell,11
+Washington,Kingsbury District 7,U.S. House,21,REP,Anthony Constantino,28
+Washington,Kingsbury District 7,U.S. House,21,REP,Robert J. Smullen,18
+Washington,Kingsbury District 7,U.S. House,21,,Under Votes,1
+Washington,Kingsbury District 8,Ballots Cast,,,,33
+Washington,Kingsbury District 8,Registered Voters,,,,241
+Washington,Kingsbury District 8,Comptroller,,DEM,Drew Warshaw,2
+Washington,Kingsbury District 8,Comptroller,,DEM,Raj Goyle,2
+Washington,Kingsbury District 8,Comptroller,,DEM,Thomas P. DiNapoli,12
+Washington,Kingsbury District 8,Comptroller,,,Over Votes,1
+Washington,Kingsbury District 8,U.S. House,21,DEM,Blake Gendebien,7
+Washington,Kingsbury District 8,U.S. House,21,DEM,Stuart J. Amoriell,10
+Washington,Kingsbury District 8,U.S. House,21,REP,Anthony Constantino,12
+Washington,Kingsbury District 8,U.S. House,21,REP,Robert J. Smullen,4
+Washington,Kingsbury District 9,Ballots Cast,,,,163
+Washington,Kingsbury District 9,Registered Voters,,,,924
+Washington,Kingsbury District 9,Comptroller,,DEM,Drew Warshaw,9
+Washington,Kingsbury District 9,Comptroller,,DEM,Raj Goyle,3
+Washington,Kingsbury District 9,Comptroller,,DEM,Thomas P. DiNapoli,30
+Washington,Kingsbury District 9,Comptroller,,,Under Votes,1
+Washington,Kingsbury District 9,U.S. House,21,DEM,Blake Gendebien,29
+Washington,Kingsbury District 9,U.S. House,21,DEM,Stuart J. Amoriell,14
+Washington,Kingsbury District 9,U.S. House,21,REP,Anthony Constantino,82
+Washington,Kingsbury District 9,U.S. House,21,REP,Robert J. Smullen,37
+Washington,Kingsbury District 9,U.S. House,21,,Under Votes,1
+Washington,Putnam,Ballots Cast,,,,89
+Washington,Putnam,Registered Voters,,,,352
+Washington,Putnam,Comptroller,,DEM,Drew Warshaw,1
+Washington,Putnam,Comptroller,,DEM,Raj Goyle,1
+Washington,Putnam,Comptroller,,DEM,Thomas P. DiNapoli,12
+Washington,Putnam,Comptroller,,,Under Votes,2
+Washington,Putnam,U.S. House,21,DEM,Blake Gendebien,9
+Washington,Putnam,U.S. House,21,DEM,Stuart J. Amoriell,7
+Washington,Putnam,U.S. House,21,REP,Anthony Constantino,53
+Washington,Putnam,U.S. House,21,REP,Robert J. Smullen,20
+Washington,Salem District 1,Ballots Cast,,,,75
+Washington,Salem District 1,Registered Voters,,,,351
+Washington,Salem District 1,Comptroller,,DEM,Drew Warshaw,2
+Washington,Salem District 1,Comptroller,,DEM,Raj Goyle,3
+Washington,Salem District 1,Comptroller,,DEM,Thomas P. DiNapoli,28
+Washington,Salem District 1,Comptroller,,,Under Votes,3
+Washington,Salem District 1,U.S. House,21,DEM,Blake Gendebien,32
+Washington,Salem District 1,U.S. House,21,DEM,Stuart J. Amoriell,3
+Washington,Salem District 1,U.S. House,21,REP,Anthony Constantino,24
+Washington,Salem District 1,U.S. House,21,REP,Robert J. Smullen,15
+Washington,Salem District 1,U.S. House,21,,Under Votes,1
+Washington,Salem District 2,Ballots Cast,,,,80
+Washington,Salem District 2,Registered Voters,,,,333
+Washington,Salem District 2,Comptroller,,DEM,Drew Warshaw,2
+Washington,Salem District 2,Comptroller,,DEM,Raj Goyle,1
+Washington,Salem District 2,Comptroller,,DEM,Thomas P. DiNapoli,29
+Washington,Salem District 2,Comptroller,,,Under Votes,4
+Washington,Salem District 2,U.S. House,21,DEM,Blake Gendebien,30
+Washington,Salem District 2,U.S. House,21,DEM,Stuart J. Amoriell,6
+Washington,Salem District 2,U.S. House,21,REP,Anthony Constantino,26
+Washington,Salem District 2,U.S. House,21,REP,Robert J. Smullen,17
+Washington,Salem District 2,U.S. House,21,REP,Write-in,1
+Washington,Salem District 3,Ballots Cast,,,,124
+Washington,Salem District 3,Registered Voters,,,,482
+Washington,Salem District 3,Comptroller,,DEM,Drew Warshaw,5
+Washington,Salem District 3,Comptroller,,DEM,Raj Goyle,7
+Washington,Salem District 3,Comptroller,,DEM,Thomas P. DiNapoli,41
+Washington,Salem District 3,Comptroller,,,Under Votes,1
+Washington,Salem District 3,U.S. House,21,DEM,Blake Gendebien,43
+Washington,Salem District 3,U.S. House,21,DEM,Stuart J. Amoriell,9
+Washington,Salem District 3,U.S. House,21,DEM,Write-in,1
+Washington,Salem District 3,U.S. House,21,REP,Anthony Constantino,47
+Washington,Salem District 3,U.S. House,21,REP,Robert J. Smullen,22
+Washington,Salem District 3,U.S. House,21,,Under Votes,2
+Washington,White Creek District 1,Ballots Cast,,,,109
+Washington,White Creek District 1,Registered Voters,,,,490
+Washington,White Creek District 1,Comptroller,,DEM,Drew Warshaw,7
+Washington,White Creek District 1,Comptroller,,DEM,Raj Goyle,6
+Washington,White Creek District 1,Comptroller,,DEM,Thomas P. DiNapoli,46
+Washington,White Creek District 1,Comptroller,,,Under Votes,3
+Washington,White Creek District 1,U.S. House,21,DEM,Blake Gendebien,58
+Washington,White Creek District 1,U.S. House,21,DEM,Stuart J. Amoriell,4
+Washington,White Creek District 1,U.S. House,21,REP,Anthony Constantino,37
+Washington,White Creek District 1,U.S. House,21,REP,Robert J. Smullen,10
+Washington,White Creek District 2,Ballots Cast,,,,126
+Washington,White Creek District 2,Registered Voters,,,,502
+Washington,White Creek District 2,Comptroller,,DEM,Drew Warshaw,10
+Washington,White Creek District 2,Comptroller,,DEM,Raj Goyle,6
+Washington,White Creek District 2,Comptroller,,DEM,Thomas P. DiNapoli,57
+Washington,White Creek District 2,Comptroller,,,Over Votes,1
+Washington,White Creek District 2,Comptroller,,,Under Votes,3
+Washington,White Creek District 2,U.S. House,21,DEM,Blake Gendebien,63
+Washington,White Creek District 2,U.S. House,21,DEM,Stuart J. Amoriell,13
+Washington,White Creek District 2,U.S. House,21,REP,Anthony Constantino,37
+Washington,White Creek District 2,U.S. House,21,REP,Robert J. Smullen,11
+Washington,White Creek District 2,U.S. House,21,REP,Write-in,1
+Washington,White Creek District 2,U.S. House,21,,Under Votes,1
+Washington,White Creek District 3,Ballots Cast,,,,73
+Washington,White Creek District 3,Registered Voters,,,,322
+Washington,White Creek District 3,Comptroller,,DEM,Drew Warshaw,5
+Washington,White Creek District 3,Comptroller,,DEM,Raj Goyle,5
+Washington,White Creek District 3,Comptroller,,DEM,Thomas P. DiNapoli,27
+Washington,White Creek District 3,U.S. House,21,DEM,Blake Gendebien,27
+Washington,White Creek District 3,U.S. House,21,DEM,Stuart J. Amoriell,9
+Washington,White Creek District 3,U.S. House,21,DEM,Write-in,1
+Washington,White Creek District 3,U.S. House,21,REP,Anthony Constantino,26
+Washington,White Creek District 3,U.S. House,21,REP,Robert J. Smullen,10
+Washington,Whitehall District 1,Ballots Cast,,,,102
+Washington,Whitehall District 1,Registered Voters,,,,535
+Washington,Whitehall District 1,Comptroller,,DEM,Drew Warshaw,5
+Washington,Whitehall District 1,Comptroller,,DEM,Raj Goyle,2
+Washington,Whitehall District 1,Comptroller,,DEM,Thomas P. DiNapoli,22
+Washington,Whitehall District 1,Comptroller,,,Under Votes,1
+Washington,Whitehall District 1,U.S. House,21,DEM,Blake Gendebien,18
+Washington,Whitehall District 1,U.S. House,21,DEM,Stuart J. Amoriell,12
+Washington,Whitehall District 1,U.S. House,21,REP,Anthony Constantino,62
+Washington,Whitehall District 1,U.S. House,21,REP,Robert J. Smullen,10
+Washington,Whitehall District 2,Ballots Cast,,,,52
+Washington,Whitehall District 2,Registered Voters,,,,320
+Washington,Whitehall District 2,Comptroller,,DEM,Raj Goyle,3
+Washington,Whitehall District 2,Comptroller,,DEM,Thomas P. DiNapoli,10
+Washington,Whitehall District 2,Comptroller,,,Under Votes,1
+Washington,Whitehall District 2,U.S. House,21,DEM,Blake Gendebien,7
+Washington,Whitehall District 2,U.S. House,21,DEM,Stuart J. Amoriell,4
+Washington,Whitehall District 2,U.S. House,21,DEM,Write-in,1
+Washington,Whitehall District 2,U.S. House,21,REP,Anthony Constantino,30
+Washington,Whitehall District 2,U.S. House,21,REP,Robert J. Smullen,8
+Washington,Whitehall District 2,U.S. House,21,,Under Votes,2
+Washington,Whitehall District 3,Ballots Cast,,,,107
+Washington,Whitehall District 3,Registered Voters,,,,703
+Washington,Whitehall District 3,Comptroller,,DEM,Drew Warshaw,3
+Washington,Whitehall District 3,Comptroller,,DEM,Thomas P. DiNapoli,17
+Washington,Whitehall District 3,U.S. House,21,DEM,Blake Gendebien,13
+Washington,Whitehall District 3,U.S. House,21,DEM,Stuart J. Amoriell,6
+Washington,Whitehall District 3,U.S. House,21,REP,Anthony Constantino,72
+Washington,Whitehall District 3,U.S. House,21,REP,Robert J. Smullen,15
+Washington,Whitehall District 3,U.S. House,21,,Under Votes,1

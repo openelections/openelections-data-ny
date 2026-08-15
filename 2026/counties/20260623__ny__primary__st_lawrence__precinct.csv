@@ -1,0 +1,817 @@
+county,precinct,office,district,party,candidate,votes
+St. Lawrence,Brasher 1,Ballots Cast,,,,62
+St. Lawrence,Brasher 1,Registered Voters,,,,223
+St. Lawrence,Brasher 1,Comptroller,,DEM,Drew Warshaw,3
+St. Lawrence,Brasher 1,Comptroller,,DEM,Raj Goyle,1
+St. Lawrence,Brasher 1,Comptroller,,DEM,Thomas P. DiNapoli,15
+St. Lawrence,Brasher 1,Comptroller,,,Under Votes,1
+St. Lawrence,Brasher 1,U.S. House,21,DEM,Blake Gendebien,12
+St. Lawrence,Brasher 1,U.S. House,21,DEM,Stuart J. Amoriell,8
+St. Lawrence,Brasher 1,U.S. House,21,REP,Anthony Constantino,31
+St. Lawrence,Brasher 1,U.S. House,21,REP,Robert J. Smullen,11
+St. Lawrence,Brasher 2,Ballots Cast,,,,101
+St. Lawrence,Brasher 2,Registered Voters,,,,301
+St. Lawrence,Brasher 2,Comptroller,,DEM,Drew Warshaw,2
+St. Lawrence,Brasher 2,Comptroller,,DEM,Raj Goyle,1
+St. Lawrence,Brasher 2,Comptroller,,DEM,Thomas P. DiNapoli,38
+St. Lawrence,Brasher 2,Comptroller,,,Under Votes,5
+St. Lawrence,Brasher 2,U.S. House,21,DEM,Blake Gendebien,28
+St. Lawrence,Brasher 2,U.S. House,21,DEM,Stuart J. Amoriell,15
+St. Lawrence,Brasher 2,U.S. House,21,REP,Anthony Constantino,42
+St. Lawrence,Brasher 2,U.S. House,21,REP,Robert J. Smullen,12
+St. Lawrence,Brasher 2,U.S. House,21,,Under Votes,3
+St. Lawrence,Brasher 2,U.S. House,21,,Under Votes,1
+St. Lawrence,Canton 1,Ballots Cast,,,,177
+St. Lawrence,Canton 1,Registered Voters,,,,499
+St. Lawrence,Canton 1,Comptroller,,DEM,Drew Warshaw,14
+St. Lawrence,Canton 1,Comptroller,,DEM,Raj Goyle,17
+St. Lawrence,Canton 1,Comptroller,,DEM,Thomas P. DiNapoli,95
+St. Lawrence,Canton 1,Comptroller,,,Under Votes,14
+St. Lawrence,Canton 1,U.S. House,21,DEM,Blake Gendebien,115
+St. Lawrence,Canton 1,U.S. House,21,DEM,Stuart J. Amoriell,24
+St. Lawrence,Canton 1,U.S. House,21,REP,Anthony Constantino,4
+St. Lawrence,Canton 1,U.S. House,21,REP,Robert J. Smullen,32
+St. Lawrence,Canton 1,U.S. House,21,REP,Write-in,1
+St. Lawrence,Canton 1,U.S. House,21,,Under Votes,1
+St. Lawrence,Canton 2,Ballots Cast,,,,207
+St. Lawrence,Canton 2,Registered Voters,,,,448
+St. Lawrence,Canton 2,Comptroller,,DEM,Drew Warshaw,6
+St. Lawrence,Canton 2,Comptroller,,DEM,Raj Goyle,11
+St. Lawrence,Canton 2,Comptroller,,DEM,Thomas P. DiNapoli,76
+St. Lawrence,Canton 2,Comptroller,,,Under Votes,10
+St. Lawrence,Canton 2,U.S. House,21,DEM,Blake Gendebien,82
+St. Lawrence,Canton 2,U.S. House,21,DEM,Stuart J. Amoriell,21
+St. Lawrence,Canton 2,U.S. House,21,REP,Anthony Constantino,43
+St. Lawrence,Canton 2,U.S. House,21,REP,Robert J. Smullen,59
+St. Lawrence,Canton 2,U.S. House,21,,Under Votes,2
+St. Lawrence,Canton 3,Ballots Cast,,,,130
+St. Lawrence,Canton 3,Registered Voters,,,,292
+St. Lawrence,Canton 3,Comptroller,,DEM,Drew Warshaw,11
+St. Lawrence,Canton 3,Comptroller,,DEM,Raj Goyle,10
+St. Lawrence,Canton 3,Comptroller,,DEM,Thomas P. DiNapoli,64
+St. Lawrence,Canton 3,Comptroller,,,Under Votes,9
+St. Lawrence,Canton 3,U.S. House,21,DEM,Blake Gendebien,83
+St. Lawrence,Canton 3,U.S. House,21,DEM,Stuart J. Amoriell,10
+St. Lawrence,Canton 3,U.S. House,21,REP,Anthony Constantino,12
+St. Lawrence,Canton 3,U.S. House,21,REP,Robert J. Smullen,23
+St. Lawrence,Canton 3,U.S. House,21,,Under Votes,1
+St. Lawrence,Canton 3,U.S. House,21,,Under Votes,1
+St. Lawrence,Canton 4,Ballots Cast,,,,16
+St. Lawrence,Canton 4,Registered Voters,,,,64
+St. Lawrence,Canton 4,Comptroller,,DEM,Drew Warshaw,1
+St. Lawrence,Canton 4,Comptroller,,DEM,Raj Goyle,1
+St. Lawrence,Canton 4,Comptroller,,DEM,Thomas P. DiNapoli,7
+St. Lawrence,Canton 4,Comptroller,,,Under Votes,1
+St. Lawrence,Canton 4,U.S. House,21,DEM,Blake Gendebien,4
+St. Lawrence,Canton 4,U.S. House,21,DEM,Stuart J. Amoriell,5
+St. Lawrence,Canton 4,U.S. House,21,REP,Anthony Constantino,4
+St. Lawrence,Canton 4,U.S. House,21,REP,Robert J. Smullen,2
+St. Lawrence,Canton 4,U.S. House,21,,Under Votes,1
+St. Lawrence,Canton 5,Ballots Cast,,,,33
+St. Lawrence,Canton 5,Registered Voters,,,,82
+St. Lawrence,Canton 5,Comptroller,,DEM,Drew Warshaw,1
+St. Lawrence,Canton 5,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Canton 5,Comptroller,,DEM,Thomas P. DiNapoli,13
+St. Lawrence,Canton 5,Comptroller,,,Under Votes,3
+St. Lawrence,Canton 5,U.S. House,21,DEM,Blake Gendebien,14
+St. Lawrence,Canton 5,U.S. House,21,DEM,Stuart J. Amoriell,5
+St. Lawrence,Canton 5,U.S. House,21,REP,Anthony Constantino,5
+St. Lawrence,Canton 5,U.S. House,21,REP,Robert J. Smullen,9
+St. Lawrence,Canton 6,Ballots Cast,,,,122
+St. Lawrence,Canton 6,Registered Voters,,,,311
+St. Lawrence,Canton 6,Comptroller,,DEM,Drew Warshaw,12
+St. Lawrence,Canton 6,Comptroller,,DEM,Raj Goyle,7
+St. Lawrence,Canton 6,Comptroller,,DEM,Thomas P. DiNapoli,46
+St. Lawrence,Canton 6,Comptroller,,DEM,Write-in,1
+St. Lawrence,Canton 6,Comptroller,,,Under Votes,10
+St. Lawrence,Canton 6,U.S. House,21,DEM,Blake Gendebien,58
+St. Lawrence,Canton 6,U.S. House,21,DEM,Stuart J. Amoriell,17
+St. Lawrence,Canton 6,U.S. House,21,DEM,Write-in,1
+St. Lawrence,Canton 6,U.S. House,21,REP,Anthony Constantino,20
+St. Lawrence,Canton 6,U.S. House,21,REP,Robert J. Smullen,26
+St. Lawrence,Canton 7,Ballots Cast,,,,64
+St. Lawrence,Canton 7,Registered Voters,,,,158
+St. Lawrence,Canton 7,Comptroller,,DEM,Drew Warshaw,3
+St. Lawrence,Canton 7,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Canton 7,Comptroller,,DEM,Thomas P. DiNapoli,16
+St. Lawrence,Canton 7,Comptroller,,,Under Votes,5
+St. Lawrence,Canton 7,U.S. House,21,DEM,Blake Gendebien,23
+St. Lawrence,Canton 7,U.S. House,21,DEM,Stuart J. Amoriell,2
+St. Lawrence,Canton 7,U.S. House,21,REP,Anthony Constantino,11
+St. Lawrence,Canton 7,U.S. House,21,REP,Robert J. Smullen,27
+St. Lawrence,Canton 7,U.S. House,21,,Under Votes,1
+St. Lawrence,Canton 8,Ballots Cast,,,,146
+St. Lawrence,Canton 8,Registered Voters,,,,329
+St. Lawrence,Canton 8,Comptroller,,DEM,Drew Warshaw,9
+St. Lawrence,Canton 8,Comptroller,,DEM,Raj Goyle,11
+St. Lawrence,Canton 8,Comptroller,,DEM,Thomas P. DiNapoli,48
+St. Lawrence,Canton 8,Comptroller,,,Under Votes,9
+St. Lawrence,Canton 8,U.S. House,21,DEM,Blake Gendebien,53
+St. Lawrence,Canton 8,U.S. House,21,DEM,Stuart J. Amoriell,22
+St. Lawrence,Canton 8,U.S. House,21,DEM,Write-in,1
+St. Lawrence,Canton 8,U.S. House,21,REP,Anthony Constantino,25
+St. Lawrence,Canton 8,U.S. House,21,REP,Robert J. Smullen,44
+St. Lawrence,Canton 8,U.S. House,21,,Under Votes,1
+St. Lawrence,Clare 1,Ballots Cast,,,,23
+St. Lawrence,Clare 1,Registered Voters,,,,54
+St. Lawrence,Clare 1,Clare County Committee,,REP,Crystal Briggs,12
+St. Lawrence,Clare 1,Clare County Committee,,REP,Kevin Beary,5
+St. Lawrence,Clare 1,Clare County Committee,,REP,Robert Briggs,15
+St. Lawrence,Clare 1,Comptroller,,DEM,Thomas P. DiNapoli,2
+St. Lawrence,Clare 1,Comptroller,,,Under Votes,1
+St. Lawrence,Clare 1,U.S. House,21,DEM,Blake Gendebien,2
+St. Lawrence,Clare 1,U.S. House,21,DEM,Stuart J. Amoriell,1
+St. Lawrence,Clare 1,U.S. House,21,REP,Anthony Constantino,9
+St. Lawrence,Clare 1,U.S. House,21,REP,Robert J. Smullen,10
+St. Lawrence,Clare 1,U.S. House,21,,Under Votes,1
+St. Lawrence,Clifton 1,Ballots Cast,,,,29
+St. Lawrence,Clifton 1,Registered Voters,,,,119
+St. Lawrence,Clifton 1,Comptroller,,DEM,Drew Warshaw,1
+St. Lawrence,Clifton 1,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Clifton 1,Comptroller,,DEM,Thomas P. DiNapoli,8
+St. Lawrence,Clifton 1,Comptroller,,,Under Votes,2
+St. Lawrence,Clifton 1,U.S. House,21,DEM,Blake Gendebien,9
+St. Lawrence,Clifton 1,U.S. House,21,DEM,Stuart J. Amoriell,4
+St. Lawrence,Clifton 1,U.S. House,21,REP,Anthony Constantino,8
+St. Lawrence,Clifton 1,U.S. House,21,REP,Robert J. Smullen,8
+St. Lawrence,Clifton 2,Ballots Cast,,,,46
+St. Lawrence,Clifton 2,Registered Voters,,,,90
+St. Lawrence,Clifton 2,Comptroller,,DEM,Drew Warshaw,1
+St. Lawrence,Clifton 2,Comptroller,,DEM,Thomas P. DiNapoli,13
+St. Lawrence,Clifton 2,U.S. House,21,DEM,Blake Gendebien,9
+St. Lawrence,Clifton 2,U.S. House,21,DEM,Stuart J. Amoriell,5
+St. Lawrence,Clifton 2,U.S. House,21,REP,Anthony Constantino,10
+St. Lawrence,Clifton 2,U.S. House,21,REP,Robert J. Smullen,21
+St. Lawrence,Clifton 2,U.S. House,21,REP,Write-in,1
+St. Lawrence,Colton 1,Ballots Cast,,,,209
+St. Lawrence,Colton 1,Registered Voters,,,,483
+St. Lawrence,Colton 1,Comptroller,,DEM,Drew Warshaw,8
+St. Lawrence,Colton 1,Comptroller,,DEM,Raj Goyle,5
+St. Lawrence,Colton 1,Comptroller,,DEM,Thomas P. DiNapoli,75
+St. Lawrence,Colton 1,Comptroller,,,Under Votes,16
+St. Lawrence,Colton 1,U.S. House,21,DEM,Blake Gendebien,81
+St. Lawrence,Colton 1,U.S. House,21,DEM,Stuart J. Amoriell,22
+St. Lawrence,Colton 1,U.S. House,21,REP,Anthony Constantino,42
+St. Lawrence,Colton 1,U.S. House,21,REP,Robert J. Smullen,63
+St. Lawrence,Colton 1,U.S. House,21,,Under Votes,1
+St. Lawrence,DeKalb 1,Ballots Cast,,,,182
+St. Lawrence,DeKalb 1,Registered Voters,,,,540
+St. Lawrence,DeKalb 1,Comptroller,,DEM,Drew Warshaw,4
+St. Lawrence,DeKalb 1,Comptroller,,DEM,Raj Goyle,7
+St. Lawrence,DeKalb 1,Comptroller,,DEM,Thomas P. DiNapoli,35
+St. Lawrence,DeKalb 1,Comptroller,,,Under Votes,11
+St. Lawrence,DeKalb 1,U.S. House,21,DEM,Blake Gendebien,42
+St. Lawrence,DeKalb 1,U.S. House,21,DEM,Stuart J. Amoriell,12
+St. Lawrence,DeKalb 1,U.S. House,21,REP,Anthony Constantino,77
+St. Lawrence,DeKalb 1,U.S. House,21,REP,Robert J. Smullen,48
+St. Lawrence,DeKalb 1,U.S. House,21,,Under Votes,3
+St. Lawrence,DePeyster 1,Ballots Cast,,,,60
+St. Lawrence,DePeyster 1,Registered Voters,,,,199
+St. Lawrence,DePeyster 1,Comptroller,,DEM,Drew Warshaw,1
+St. Lawrence,DePeyster 1,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,DePeyster 1,Comptroller,,DEM,Thomas P. DiNapoli,12
+St. Lawrence,DePeyster 1,County Legislator,5,REP,"Harry A. Smithers, II",34
+St. Lawrence,DePeyster 1,County Legislator,5,REP,Troy Besaw,10
+St. Lawrence,DePeyster 1,County Legislator,5,,Under Votes,1
+St. Lawrence,DePeyster 1,U.S. House,21,DEM,Blake Gendebien,14
+St. Lawrence,DePeyster 1,U.S. House,21,REP,Anthony Constantino,19
+St. Lawrence,DePeyster 1,U.S. House,21,REP,Robert J. Smullen,23
+St. Lawrence,DePeyster 1,U.S. House,21,REP,Write-in,1
+St. Lawrence,DePeyster 1,U.S. House,21,,Under Votes,1
+St. Lawrence,DePeyster 1,U.S. House,21,,Under Votes,2
+St. Lawrence,Edwards 1,Ballots Cast,,,,72
+St. Lawrence,Edwards 1,Registered Voters,,,,313
+St. Lawrence,Edwards 1,Comptroller,,DEM,Drew Warshaw,4
+St. Lawrence,Edwards 1,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Edwards 1,Comptroller,,DEM,Thomas P. DiNapoli,15
+St. Lawrence,Edwards 1,Comptroller,,DEM,Write-in,1
+St. Lawrence,Edwards 1,Comptroller,,,Under Votes,2
+St. Lawrence,Edwards 1,U.S. House,21,DEM,Blake Gendebien,22
+St. Lawrence,Edwards 1,U.S. House,21,DEM,Stuart J. Amoriell,1
+St. Lawrence,Edwards 1,U.S. House,21,DEM,Write-in,1
+St. Lawrence,Edwards 1,U.S. House,21,REP,Anthony Constantino,23
+St. Lawrence,Edwards 1,U.S. House,21,REP,Robert J. Smullen,24
+St. Lawrence,Edwards 1,U.S. House,21,REP,Write-in,1
+St. Lawrence,Fine 1,Ballots Cast,,,,115
+St. Lawrence,Fine 1,Registered Voters,,,,381
+St. Lawrence,Fine 1,Comptroller,,DEM,Drew Warshaw,7
+St. Lawrence,Fine 1,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Fine 1,Comptroller,,DEM,Thomas P. DiNapoli,38
+St. Lawrence,Fine 1,Comptroller,,,Under Votes,2
+St. Lawrence,Fine 1,U.S. House,21,DEM,Blake Gendebien,38
+St. Lawrence,Fine 1,U.S. House,21,DEM,Stuart J. Amoriell,9
+St. Lawrence,Fine 1,U.S. House,21,REP,Anthony Constantino,29
+St. Lawrence,Fine 1,U.S. House,21,REP,Robert J. Smullen,37
+St. Lawrence,Fine 1,U.S. House,21,,Under Votes,2
+St. Lawrence,Fowler 1,Ballots Cast,,,,288
+St. Lawrence,Fowler 1,Registered Voters,,,,749
+St. Lawrence,Fowler 1,Comptroller,,DEM,Drew Warshaw,9
+St. Lawrence,Fowler 1,Comptroller,,DEM,Raj Goyle,4
+St. Lawrence,Fowler 1,Comptroller,,DEM,Thomas P. DiNapoli,33
+St. Lawrence,Fowler 1,Comptroller,,,Under Votes,2
+St. Lawrence,Fowler 1,Fowler Superintendent of Highways,,REP,Jacob Matthew Cunningham,64
+St. Lawrence,Fowler 1,Fowler Superintendent of Highways,,REP,"Paul Brent Johnson, Jr.",94
+St. Lawrence,Fowler 1,Fowler Superintendent of Highways,,REP,Ryan S. Gollinger,78
+St. Lawrence,Fowler 1,Fowler Superintendent of Highways,,,Under Votes,4
+St. Lawrence,Fowler 1,U.S. House,21,DEM,Blake Gendebien,33
+St. Lawrence,Fowler 1,U.S. House,21,DEM,Stuart J. Amoriell,9
+St. Lawrence,Fowler 1,U.S. House,21,DEM,Write-in,1
+St. Lawrence,Fowler 1,U.S. House,21,REP,Anthony Constantino,137
+St. Lawrence,Fowler 1,U.S. House,21,REP,Robert J. Smullen,87
+St. Lawrence,Fowler 1,U.S. House,21,REP,Write-in,2
+St. Lawrence,Fowler 1,U.S. House,21,,Under Votes,5
+St. Lawrence,Fowler 1,U.S. House,21,,Under Votes,14
+St. Lawrence,Gouverneur 1,Ballots Cast,,,,218
+St. Lawrence,Gouverneur 1,Registered Voters,,,,737
+St. Lawrence,Gouverneur 1,Comptroller,,DEM,Drew Warshaw,4
+St. Lawrence,Gouverneur 1,Comptroller,,DEM,Raj Goyle,1
+St. Lawrence,Gouverneur 1,Comptroller,,DEM,Thomas P. DiNapoli,40
+St. Lawrence,Gouverneur 1,Comptroller,,,Under Votes,5
+St. Lawrence,Gouverneur 1,County Legislator,5,REP,"Harry A. Smithers, II",60
+St. Lawrence,Gouverneur 1,County Legislator,5,REP,Troy Besaw,102
+St. Lawrence,Gouverneur 1,County Legislator,5,REP,Write-in,1
+St. Lawrence,Gouverneur 1,County Legislator,5,,Under Votes,5
+St. Lawrence,Gouverneur 1,U.S. House,21,DEM,Blake Gendebien,35
+St. Lawrence,Gouverneur 1,U.S. House,21,DEM,Stuart J. Amoriell,11
+St. Lawrence,Gouverneur 1,U.S. House,21,DEM,Write-in,1
+St. Lawrence,Gouverneur 1,U.S. House,21,REP,Anthony Constantino,103
+St. Lawrence,Gouverneur 1,U.S. House,21,REP,Robert J. Smullen,57
+St. Lawrence,Gouverneur 1,U.S. House,21,REP,Write-in,3
+St. Lawrence,Gouverneur 1,U.S. House,21,,Under Votes,3
+St. Lawrence,Gouverneur 1,U.S. House,21,,Under Votes,5
+St. Lawrence,Gouverneur 2,Ballots Cast,,,,158
+St. Lawrence,Gouverneur 2,Registered Voters,,,,573
+St. Lawrence,Gouverneur 2,Comptroller,,DEM,Drew Warshaw,5
+St. Lawrence,Gouverneur 2,Comptroller,,DEM,Raj Goyle,1
+St. Lawrence,Gouverneur 2,Comptroller,,DEM,Thomas P. DiNapoli,19
+St. Lawrence,Gouverneur 2,Comptroller,,,Under Votes,3
+St. Lawrence,Gouverneur 2,County Legislator,5,REP,"Harry A. Smithers, II",57
+St. Lawrence,Gouverneur 2,County Legislator,5,REP,Troy Besaw,71
+St. Lawrence,Gouverneur 2,County Legislator,5,,Under Votes,2
+St. Lawrence,Gouverneur 2,U.S. House,21,DEM,Blake Gendebien,22
+St. Lawrence,Gouverneur 2,U.S. House,21,DEM,Stuart J. Amoriell,6
+St. Lawrence,Gouverneur 2,U.S. House,21,REP,Anthony Constantino,91
+St. Lawrence,Gouverneur 2,U.S. House,21,REP,Robert J. Smullen,35
+St. Lawrence,Gouverneur 2,U.S. House,21,,Under Votes,4
+St. Lawrence,Hammond 1,Ballots Cast,,,,123
+St. Lawrence,Hammond 1,Registered Voters,,,,440
+St. Lawrence,Hammond 1,Comptroller,,DEM,Drew Warshaw,5
+St. Lawrence,Hammond 1,Comptroller,,DEM,Raj Goyle,4
+St. Lawrence,Hammond 1,Comptroller,,DEM,Thomas P. DiNapoli,25
+St. Lawrence,Hammond 1,Comptroller,,,Under Votes,2
+St. Lawrence,Hammond 1,U.S. House,21,DEM,Blake Gendebien,27
+St. Lawrence,Hammond 1,U.S. House,21,DEM,Stuart J. Amoriell,7
+St. Lawrence,Hammond 1,U.S. House,21,REP,Anthony Constantino,54
+St. Lawrence,Hammond 1,U.S. House,21,REP,Robert J. Smullen,33
+St. Lawrence,Hammond 1,U.S. House,21,,Under Votes,2
+St. Lawrence,Hermon 1,Ballots Cast,,,,94
+St. Lawrence,Hermon 1,Registered Voters,,,,313
+St. Lawrence,Hermon 1,Comptroller,,DEM,Drew Warshaw,6
+St. Lawrence,Hermon 1,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Hermon 1,Comptroller,,DEM,Thomas P. DiNapoli,23
+St. Lawrence,Hermon 1,Comptroller,,,Under Votes,3
+St. Lawrence,Hermon 1,U.S. House,21,DEM,Blake Gendebien,28
+St. Lawrence,Hermon 1,U.S. House,21,DEM,Stuart J. Amoriell,6
+St. Lawrence,Hermon 1,U.S. House,21,REP,Anthony Constantino,32
+St. Lawrence,Hermon 1,U.S. House,21,REP,Robert J. Smullen,28
+St. Lawrence,Hopkinton 1,Ballots Cast,,,,94
+St. Lawrence,Hopkinton 1,Registered Voters,,,,329
+St. Lawrence,Hopkinton 1,Comptroller,,DEM,Raj Goyle,3
+St. Lawrence,Hopkinton 1,Comptroller,,DEM,Thomas P. DiNapoli,25
+St. Lawrence,Hopkinton 1,Comptroller,,DEM,Write-in,1
+St. Lawrence,Hopkinton 1,U.S. House,21,DEM,Blake Gendebien,21
+St. Lawrence,Hopkinton 1,U.S. House,21,DEM,Stuart J. Amoriell,5
+St. Lawrence,Hopkinton 1,U.S. House,21,DEM,Write-in,1
+St. Lawrence,Hopkinton 1,U.S. House,21,REP,Anthony Constantino,36
+St. Lawrence,Hopkinton 1,U.S. House,21,REP,Robert J. Smullen,29
+St. Lawrence,Hopkinton 1,U.S. House,21,,Under Votes,2
+St. Lawrence,Lawrence 1,Ballots Cast,,,,104
+St. Lawrence,Lawrence 1,Registered Voters,,,,391
+St. Lawrence,Lawrence 1,Comptroller,,DEM,Drew Warshaw,1
+St. Lawrence,Lawrence 1,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Lawrence 1,Comptroller,,DEM,Thomas P. DiNapoli,28
+St. Lawrence,Lawrence 1,Comptroller,,,Under Votes,3
+St. Lawrence,Lawrence 1,U.S. House,21,DEM,Blake Gendebien,22
+St. Lawrence,Lawrence 1,U.S. House,21,DEM,Stuart J. Amoriell,12
+St. Lawrence,Lawrence 1,U.S. House,21,REP,Anthony Constantino,48
+St. Lawrence,Lawrence 1,U.S. House,21,REP,Robert J. Smullen,21
+St. Lawrence,Lawrence 1,U.S. House,21,REP,Write-in,1
+St. Lawrence,Lisbon 1,Ballots Cast,,,,169
+St. Lawrence,Lisbon 1,Registered Voters,,,,612
+St. Lawrence,Lisbon 1,Comptroller,,DEM,Drew Warshaw,5
+St. Lawrence,Lisbon 1,Comptroller,,DEM,Raj Goyle,5
+St. Lawrence,Lisbon 1,Comptroller,,DEM,Thomas P. DiNapoli,32
+St. Lawrence,Lisbon 1,Comptroller,,,Under Votes,11
+St. Lawrence,Lisbon 1,U.S. House,21,DEM,Blake Gendebien,45
+St. Lawrence,Lisbon 1,U.S. House,21,DEM,Stuart J. Amoriell,6
+St. Lawrence,Lisbon 1,U.S. House,21,REP,Anthony Constantino,75
+St. Lawrence,Lisbon 1,U.S. House,21,REP,Robert J. Smullen,40
+St. Lawrence,Lisbon 1,U.S. House,21,REP,Write-in,1
+St. Lawrence,Lisbon 1,U.S. House,21,,Under Votes,2
+St. Lawrence,Lisbon 2,Ballots Cast,,,,201
+St. Lawrence,Lisbon 2,Registered Voters,,,,688
+St. Lawrence,Lisbon 2,Comptroller,,DEM,Drew Warshaw,5
+St. Lawrence,Lisbon 2,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Lisbon 2,Comptroller,,DEM,Thomas P. DiNapoli,41
+St. Lawrence,Lisbon 2,Comptroller,,,Under Votes,3
+St. Lawrence,Lisbon 2,U.S. House,21,DEM,Blake Gendebien,50
+St. Lawrence,Lisbon 2,U.S. House,21,DEM,Stuart J. Amoriell,1
+St. Lawrence,Lisbon 2,U.S. House,21,REP,Anthony Constantino,69
+St. Lawrence,Lisbon 2,U.S. House,21,REP,Robert J. Smullen,81
+St. Lawrence,Louisville 1,Ballots Cast,,,,258
+St. Lawrence,Louisville 1,Registered Voters,,,,695
+St. Lawrence,Louisville 1,Comptroller,,DEM,Drew Warshaw,11
+St. Lawrence,Louisville 1,Comptroller,,DEM,Raj Goyle,6
+St. Lawrence,Louisville 1,Comptroller,,DEM,Thomas P. DiNapoli,98
+St. Lawrence,Louisville 1,Comptroller,,DEM,Write-in,1
+St. Lawrence,Louisville 1,Comptroller,,,Under Votes,9
+St. Lawrence,Louisville 1,U.S. House,21,DEM,Blake Gendebien,88
+St. Lawrence,Louisville 1,U.S. House,21,DEM,Stuart J. Amoriell,30
+St. Lawrence,Louisville 1,U.S. House,21,DEM,Write-in,1
+St. Lawrence,Louisville 1,U.S. House,21,REP,Anthony Constantino,75
+St. Lawrence,Louisville 1,U.S. House,21,REP,Robert J. Smullen,58
+St. Lawrence,Louisville 1,U.S. House,21,,Under Votes,6
+St. Lawrence,Louisville 2,Ballots Cast,,,,34
+St. Lawrence,Louisville 2,Registered Voters,,,,137
+St. Lawrence,Louisville 2,Comptroller,,DEM,Drew Warshaw,1
+St. Lawrence,Louisville 2,Comptroller,,DEM,Raj Goyle,1
+St. Lawrence,Louisville 2,Comptroller,,DEM,Thomas P. DiNapoli,12
+St. Lawrence,Louisville 2,Comptroller,,,Under Votes,1
+St. Lawrence,Louisville 2,U.S. House,21,DEM,Blake Gendebien,8
+St. Lawrence,Louisville 2,U.S. House,21,DEM,Stuart J. Amoriell,5
+St. Lawrence,Louisville 2,U.S. House,21,REP,Anthony Constantino,7
+St. Lawrence,Louisville 2,U.S. House,21,REP,Robert J. Smullen,12
+St. Lawrence,Louisville 2,U.S. House,21,,Under Votes,2
+St. Lawrence,Macomb 1,Ballots Cast,,,,105
+St. Lawrence,Macomb 1,Registered Voters,,,,301
+St. Lawrence,Macomb 1,Comptroller,,DEM,Drew Warshaw,1
+St. Lawrence,Macomb 1,Comptroller,,DEM,Raj Goyle,3
+St. Lawrence,Macomb 1,Comptroller,,DEM,Thomas P. DiNapoli,18
+St. Lawrence,Macomb 1,Comptroller,,,Under Votes,4
+St. Lawrence,Macomb 1,U.S. House,21,DEM,Blake Gendebien,20
+St. Lawrence,Macomb 1,U.S. House,21,DEM,Stuart J. Amoriell,6
+St. Lawrence,Macomb 1,U.S. House,21,REP,Anthony Constantino,50
+St. Lawrence,Macomb 1,U.S. House,21,REP,Robert J. Smullen,28
+St. Lawrence,Macomb 1,U.S. House,21,REP,Write-in,1
+St. Lawrence,Madrid 1,Ballots Cast,,,,139
+St. Lawrence,Madrid 1,Registered Voters,,,,375
+St. Lawrence,Madrid 1,Comptroller,,DEM,Drew Warshaw,8
+St. Lawrence,Madrid 1,Comptroller,,DEM,Raj Goyle,3
+St. Lawrence,Madrid 1,Comptroller,,DEM,Thomas P. DiNapoli,46
+St. Lawrence,Madrid 1,Comptroller,,,Under Votes,4
+St. Lawrence,Madrid 1,U.S. House,21,DEM,Blake Gendebien,48
+St. Lawrence,Madrid 1,U.S. House,21,DEM,Stuart J. Amoriell,13
+St. Lawrence,Madrid 1,U.S. House,21,REP,Anthony Constantino,49
+St. Lawrence,Madrid 1,U.S. House,21,REP,Robert J. Smullen,28
+St. Lawrence,Madrid 1,U.S. House,21,REP,Write-in,1
+St. Lawrence,Massena 1,Ballots Cast,,,,150
+St. Lawrence,Massena 1,Registered Voters,,,,475
+St. Lawrence,Massena 1,Comptroller,,DEM,Drew Warshaw,10
+St. Lawrence,Massena 1,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Massena 1,Comptroller,,DEM,Thomas P. DiNapoli,66
+St. Lawrence,Massena 1,Comptroller,,,Under Votes,3
+St. Lawrence,Massena 1,U.S. House,21,DEM,Blake Gendebien,53
+St. Lawrence,Massena 1,U.S. House,21,DEM,Stuart J. Amoriell,26
+St. Lawrence,Massena 1,U.S. House,21,REP,Anthony Constantino,29
+St. Lawrence,Massena 1,U.S. House,21,REP,Robert J. Smullen,40
+St. Lawrence,Massena 1,U.S. House,21,,Under Votes,2
+St. Lawrence,Massena 2,Ballots Cast,,,,80
+St. Lawrence,Massena 2,Registered Voters,,,,377
+St. Lawrence,Massena 2,Comptroller,,DEM,Drew Warshaw,3
+St. Lawrence,Massena 2,Comptroller,,DEM,Raj Goyle,6
+St. Lawrence,Massena 2,Comptroller,,DEM,Thomas P. DiNapoli,28
+St. Lawrence,Massena 2,Comptroller,,,Under Votes,1
+St. Lawrence,Massena 2,U.S. House,21,DEM,Blake Gendebien,26
+St. Lawrence,Massena 2,U.S. House,21,DEM,Stuart J. Amoriell,12
+St. Lawrence,Massena 2,U.S. House,21,REP,Anthony Constantino,24
+St. Lawrence,Massena 2,U.S. House,21,REP,Robert J. Smullen,18
+St. Lawrence,Massena 3,Ballots Cast,,,,105
+St. Lawrence,Massena 3,Registered Voters,,,,427
+St. Lawrence,Massena 3,Comptroller,,DEM,Drew Warshaw,7
+St. Lawrence,Massena 3,Comptroller,,DEM,Raj Goyle,12
+St. Lawrence,Massena 3,Comptroller,,DEM,Thomas P. DiNapoli,40
+St. Lawrence,Massena 3,Comptroller,,,Under Votes,4
+St. Lawrence,Massena 3,U.S. House,21,DEM,Blake Gendebien,43
+St. Lawrence,Massena 3,U.S. House,21,DEM,Stuart J. Amoriell,20
+St. Lawrence,Massena 3,U.S. House,21,REP,Anthony Constantino,29
+St. Lawrence,Massena 3,U.S. House,21,REP,Robert J. Smullen,12
+St. Lawrence,Massena 3,U.S. House,21,REP,Write-in,1
+St. Lawrence,Massena 4,Ballots Cast,,,,29
+St. Lawrence,Massena 4,Registered Voters,,,,113
+St. Lawrence,Massena 4,Comptroller,,DEM,Drew Warshaw,2
+St. Lawrence,Massena 4,Comptroller,,DEM,Thomas P. DiNapoli,12
+St. Lawrence,Massena 4,Comptroller,,,Under Votes,1
+St. Lawrence,Massena 4,U.S. House,21,DEM,Blake Gendebien,15
+St. Lawrence,Massena 4,U.S. House,21,REP,Anthony Constantino,6
+St. Lawrence,Massena 4,U.S. House,21,REP,Robert J. Smullen,7
+St. Lawrence,Massena 4,U.S. House,21,,Under Votes,1
+St. Lawrence,Massena 5,Ballots Cast,,,,100
+St. Lawrence,Massena 5,Registered Voters,,,,378
+St. Lawrence,Massena 5,Comptroller,,DEM,Drew Warshaw,5
+St. Lawrence,Massena 5,Comptroller,,DEM,Raj Goyle,7
+St. Lawrence,Massena 5,Comptroller,,DEM,Thomas P. DiNapoli,35
+St. Lawrence,Massena 5,Comptroller,,,Under Votes,3
+St. Lawrence,Massena 5,U.S. House,21,DEM,Blake Gendebien,30
+St. Lawrence,Massena 5,U.S. House,21,DEM,Stuart J. Amoriell,17
+St. Lawrence,Massena 5,U.S. House,21,REP,Anthony Constantino,32
+St. Lawrence,Massena 5,U.S. House,21,REP,Robert J. Smullen,17
+St. Lawrence,Massena 5,U.S. House,21,REP,Write-in,1
+St. Lawrence,Massena 5,U.S. House,21,,Under Votes,3
+St. Lawrence,Massena 6,Ballots Cast,,,,76
+St. Lawrence,Massena 6,Registered Voters,,,,340
+St. Lawrence,Massena 6,Comptroller,,DEM,Drew Warshaw,7
+St. Lawrence,Massena 6,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Massena 6,Comptroller,,DEM,Thomas P. DiNapoli,23
+St. Lawrence,Massena 6,Comptroller,,,Under Votes,2
+St. Lawrence,Massena 6,U.S. House,21,DEM,Blake Gendebien,23
+St. Lawrence,Massena 6,U.S. House,21,DEM,Stuart J. Amoriell,11
+St. Lawrence,Massena 6,U.S. House,21,REP,Anthony Constantino,30
+St. Lawrence,Massena 6,U.S. House,21,REP,Robert J. Smullen,11
+St. Lawrence,Massena 6,U.S. House,21,REP,Write-in,1
+St. Lawrence,Massena 7,Ballots Cast,,,,159
+St. Lawrence,Massena 7,Registered Voters,,,,508
+St. Lawrence,Massena 7,Comptroller,,DEM,Drew Warshaw,9
+St. Lawrence,Massena 7,Comptroller,,DEM,Raj Goyle,4
+St. Lawrence,Massena 7,Comptroller,,DEM,Thomas P. DiNapoli,62
+St. Lawrence,Massena 7,Comptroller,,,Under Votes,5
+St. Lawrence,Massena 7,U.S. House,21,DEM,Blake Gendebien,46
+St. Lawrence,Massena 7,U.S. House,21,DEM,Stuart J. Amoriell,32
+St. Lawrence,Massena 7,U.S. House,21,REP,Anthony Constantino,43
+St. Lawrence,Massena 7,U.S. House,21,REP,Robert J. Smullen,32
+St. Lawrence,Massena 7,U.S. House,21,REP,Write-in,4
+St. Lawrence,Massena 7,U.S. House,21,,Under Votes,2
+St. Lawrence,Morristown 1,Ballots Cast,,,,241
+St. Lawrence,Morristown 1,Registered Voters,,,,690
+St. Lawrence,Morristown 1,Comptroller,,DEM,Drew Warshaw,3
+St. Lawrence,Morristown 1,Comptroller,,DEM,Raj Goyle,6
+St. Lawrence,Morristown 1,Comptroller,,DEM,Thomas P. DiNapoli,55
+St. Lawrence,Morristown 1,Comptroller,,DEM,Write-in,3
+St. Lawrence,Morristown 1,Comptroller,,,Under Votes,7
+St. Lawrence,Morristown 1,U.S. House,21,DEM,Blake Gendebien,55
+St. Lawrence,Morristown 1,U.S. House,21,DEM,Stuart J. Amoriell,12
+St. Lawrence,Morristown 1,U.S. House,21,DEM,Write-in,3
+St. Lawrence,Morristown 1,U.S. House,21,REP,Anthony Constantino,97
+St. Lawrence,Morristown 1,U.S. House,21,REP,Robert J. Smullen,69
+St. Lawrence,Morristown 1,U.S. House,21,,Under Votes,4
+St. Lawrence,Morristown 1,U.S. House,21,,Under Votes,1
+St. Lawrence,Norfolk 1,Ballots Cast,,,,89
+St. Lawrence,Norfolk 1,Registered Voters,,,,299
+St. Lawrence,Norfolk 1,Comptroller,,DEM,Drew Warshaw,2
+St. Lawrence,Norfolk 1,Comptroller,,DEM,Raj Goyle,4
+St. Lawrence,Norfolk 1,Comptroller,,DEM,Thomas P. DiNapoli,30
+St. Lawrence,Norfolk 1,Comptroller,,,Under Votes,1
+St. Lawrence,Norfolk 1,U.S. House,21,DEM,Blake Gendebien,19
+St. Lawrence,Norfolk 1,U.S. House,21,DEM,Stuart J. Amoriell,16
+St. Lawrence,Norfolk 1,U.S. House,21,REP,Anthony Constantino,36
+St. Lawrence,Norfolk 1,U.S. House,21,REP,Robert J. Smullen,16
+St. Lawrence,Norfolk 1,U.S. House,21,,Under Votes,2
+St. Lawrence,Norfolk 2,Ballots Cast,,,,87
+St. Lawrence,Norfolk 2,Registered Voters,,,,372
+St. Lawrence,Norfolk 2,Comptroller,,DEM,Drew Warshaw,5
+St. Lawrence,Norfolk 2,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Norfolk 2,Comptroller,,DEM,Thomas P. DiNapoli,24
+St. Lawrence,Norfolk 2,Comptroller,,,Under Votes,4
+St. Lawrence,Norfolk 2,U.S. House,21,DEM,Blake Gendebien,22
+St. Lawrence,Norfolk 2,U.S. House,21,DEM,Stuart J. Amoriell,9
+St. Lawrence,Norfolk 2,U.S. House,21,DEM,Write-in,3
+St. Lawrence,Norfolk 2,U.S. House,21,REP,Anthony Constantino,37
+St. Lawrence,Norfolk 2,U.S. House,21,REP,Robert J. Smullen,14
+St. Lawrence,Norfolk 2,U.S. House,21,REP,Write-in,1
+St. Lawrence,Norfolk 2,U.S. House,21,,Under Votes,1
+St. Lawrence,Norfolk 3,Ballots Cast,,,,114
+St. Lawrence,Norfolk 3,Registered Voters,,,,323
+St. Lawrence,Norfolk 3,Comptroller,,DEM,Drew Warshaw,10
+St. Lawrence,Norfolk 3,Comptroller,,DEM,Raj Goyle,1
+St. Lawrence,Norfolk 3,Comptroller,,DEM,Thomas P. DiNapoli,28
+St. Lawrence,Norfolk 3,Comptroller,,DEM,Write-in,1
+St. Lawrence,Norfolk 3,Comptroller,,,Under Votes,4
+St. Lawrence,Norfolk 3,U.S. House,21,DEM,Blake Gendebien,28
+St. Lawrence,Norfolk 3,U.S. House,21,DEM,Stuart J. Amoriell,13
+St. Lawrence,Norfolk 3,U.S. House,21,REP,Anthony Constantino,42
+St. Lawrence,Norfolk 3,U.S. House,21,REP,Robert J. Smullen,28
+St. Lawrence,Norfolk 3,U.S. House,21,,Under Votes,3
+St. Lawrence,Oswegatchie 1,Ballots Cast,,,,161
+St. Lawrence,Oswegatchie 1,Registered Voters,,,,603
+St. Lawrence,Oswegatchie 1,Comptroller,,DEM,Drew Warshaw,1
+St. Lawrence,Oswegatchie 1,Comptroller,,DEM,Raj Goyle,4
+St. Lawrence,Oswegatchie 1,Comptroller,,DEM,Thomas P. DiNapoli,32
+St. Lawrence,Oswegatchie 1,Comptroller,,,Under Votes,3
+St. Lawrence,Oswegatchie 1,U.S. House,21,DEM,Blake Gendebien,34
+St. Lawrence,Oswegatchie 1,U.S. House,21,DEM,Stuart J. Amoriell,5
+St. Lawrence,Oswegatchie 1,U.S. House,21,REP,Anthony Constantino,83
+St. Lawrence,Oswegatchie 1,U.S. House,21,REP,Robert J. Smullen,38
+St. Lawrence,Oswegatchie 1,U.S. House,21,,Under Votes,1
+St. Lawrence,Oswegatchie 2,Ballots Cast,,,,121
+St. Lawrence,Oswegatchie 2,Registered Voters,,,,439
+St. Lawrence,Oswegatchie 2,Comptroller,,DEM,Drew Warshaw,8
+St. Lawrence,Oswegatchie 2,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Oswegatchie 2,Comptroller,,DEM,Thomas P. DiNapoli,37
+St. Lawrence,Oswegatchie 2,Comptroller,,,Under Votes,7
+St. Lawrence,Oswegatchie 2,U.S. House,21,DEM,Blake Gendebien,43
+St. Lawrence,Oswegatchie 2,U.S. House,21,DEM,Stuart J. Amoriell,11
+St. Lawrence,Oswegatchie 2,U.S. House,21,REP,Anthony Constantino,50
+St. Lawrence,Oswegatchie 2,U.S. House,21,REP,Robert J. Smullen,15
+St. Lawrence,Oswegatchie 2,U.S. House,21,REP,Write-in,2
+St. Lawrence,Oswegatchie 3,Ballots Cast,,,,41
+St. Lawrence,Oswegatchie 3,Registered Voters,,,,221
+St. Lawrence,Oswegatchie 3,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Oswegatchie 3,Comptroller,,DEM,Thomas P. DiNapoli,9
+St. Lawrence,Oswegatchie 3,Comptroller,,,Under Votes,1
+St. Lawrence,Oswegatchie 3,U.S. House,21,DEM,Blake Gendebien,11
+St. Lawrence,Oswegatchie 3,U.S. House,21,DEM,Stuart J. Amoriell,1
+St. Lawrence,Oswegatchie 3,U.S. House,21,REP,Anthony Constantino,18
+St. Lawrence,Oswegatchie 3,U.S. House,21,REP,Robert J. Smullen,11
+St. Lawrence,Parishville 1,Ballots Cast,,,,172
+St. Lawrence,Parishville 1,Registered Voters,,,,702
+St. Lawrence,Parishville 1,Comptroller,,DEM,Drew Warshaw,8
+St. Lawrence,Parishville 1,Comptroller,,DEM,Raj Goyle,1
+St. Lawrence,Parishville 1,Comptroller,,DEM,Thomas P. DiNapoli,29
+St. Lawrence,Parishville 1,Comptroller,,,Under Votes,8
+St. Lawrence,Parishville 1,U.S. House,21,DEM,Blake Gendebien,29
+St. Lawrence,Parishville 1,U.S. House,21,DEM,Stuart J. Amoriell,12
+St. Lawrence,Parishville 1,U.S. House,21,REP,Anthony Constantino,62
+St. Lawrence,Parishville 1,U.S. House,21,REP,Robert J. Smullen,64
+St. Lawrence,Parishville 1,U.S. House,21,,Under Votes,5
+St. Lawrence,Piercefield 1,Ballots Cast,,,,34
+St. Lawrence,Piercefield 1,Registered Voters,,,,72
+St. Lawrence,Piercefield 1,Comptroller,,DEM,Drew Warshaw,1
+St. Lawrence,Piercefield 1,Comptroller,,DEM,Thomas P. DiNapoli,18
+St. Lawrence,Piercefield 1,Comptroller,,,Under Votes,1
+St. Lawrence,Piercefield 1,U.S. House,21,DEM,Blake Gendebien,14
+St. Lawrence,Piercefield 1,U.S. House,21,DEM,Stuart J. Amoriell,6
+St. Lawrence,Piercefield 1,U.S. House,21,REP,Anthony Constantino,11
+St. Lawrence,Piercefield 1,U.S. House,21,REP,Robert J. Smullen,3
+St. Lawrence,Piercefield 2,Ballots Cast,,,,74
+St. Lawrence,Piercefield 2,Registered Voters,,,,303
+St. Lawrence,Piercefield 2,Comptroller,,DEM,Drew Warshaw,14
+St. Lawrence,Piercefield 2,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Piercefield 2,Comptroller,,DEM,Thomas P. DiNapoli,54
+St. Lawrence,Piercefield 2,Comptroller,,,Under Votes,4
+St. Lawrence,Pierrepont 1,Ballots Cast,,,,170
+St. Lawrence,Pierrepont 1,Registered Voters,,,,448
+St. Lawrence,Pierrepont 1,Comptroller,,DEM,Drew Warshaw,3
+St. Lawrence,Pierrepont 1,Comptroller,,DEM,Raj Goyle,5
+St. Lawrence,Pierrepont 1,Comptroller,,DEM,Thomas P. DiNapoli,54
+St. Lawrence,Pierrepont 1,Comptroller,,,Under Votes,9
+St. Lawrence,Pierrepont 1,U.S. House,21,DEM,Blake Gendebien,58
+St. Lawrence,Pierrepont 1,U.S. House,21,DEM,Stuart J. Amoriell,15
+St. Lawrence,Pierrepont 1,U.S. House,21,REP,Anthony Constantino,59
+St. Lawrence,Pierrepont 1,U.S. House,21,REP,Robert J. Smullen,37
+St. Lawrence,Pierrepont 1,U.S. House,21,,Under Votes,1
+St. Lawrence,Pierrepont 2,Ballots Cast,,,,129
+St. Lawrence,Pierrepont 2,Registered Voters,,,,262
+St. Lawrence,Pierrepont 2,Comptroller,,DEM,Thomas P. DiNapoli,13
+St. Lawrence,Pierrepont 2,Comptroller,,,Under Votes,3
+St. Lawrence,Pierrepont 2,U.S. House,21,DEM,Blake Gendebien,62
+St. Lawrence,Pierrepont 2,U.S. House,21,DEM,Stuart J. Amoriell,9
+St. Lawrence,Pierrepont 2,U.S. House,21,REP,Anthony Constantino,31
+St. Lawrence,Pierrepont 2,U.S. House,21,REP,Robert J. Smullen,26
+St. Lawrence,Pierrepont 2,U.S. House,21,REP,Write-in,1
+St. Lawrence,Pittsman 1,Ballots Cast,,,,48
+St. Lawrence,Pittsman 1,Registered Voters,,,,211
+St. Lawrence,Pittsman 1,Comptroller,,DEM,Drew Warshaw,4
+St. Lawrence,Pittsman 1,Comptroller,,DEM,Raj Goyle,4
+St. Lawrence,Pittsman 1,Comptroller,,DEM,Thomas P. DiNapoli,30
+St. Lawrence,Pittsman 1,Comptroller,,,Under Votes,10
+St. Lawrence,Pittsman 2,Ballots Cast,,,,36
+St. Lawrence,Pittsman 2,Registered Voters,,,,233
+St. Lawrence,Pittsman 2,Comptroller,,DEM,Drew Warshaw,3
+St. Lawrence,Pittsman 2,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Pittsman 2,Comptroller,,DEM,Thomas P. DiNapoli,25
+St. Lawrence,Pittsman 2,Comptroller,,,Under Votes,6
+St. Lawrence,Pittsman 3,Ballots Cast,,,,36
+St. Lawrence,Pittsman 3,Registered Voters,,,,223
+St. Lawrence,Pittsman 3,Comptroller,,DEM,Drew Warshaw,4
+St. Lawrence,Pittsman 3,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Pittsman 3,Comptroller,,DEM,Thomas P. DiNapoli,24
+St. Lawrence,Pittsman 3,Comptroller,,,Under Votes,6
+St. Lawrence,Pittsman 4,Ballots Cast,,,,101
+St. Lawrence,Pittsman 4,Registered Voters,,,,504
+St. Lawrence,Pittsman 4,Comptroller,,DEM,Drew Warshaw,12
+St. Lawrence,Pittsman 4,Comptroller,,DEM,Raj Goyle,15
+St. Lawrence,Pittsman 4,Comptroller,,DEM,Thomas P. DiNapoli,71
+St. Lawrence,Pittsman 4,Comptroller,,,Under Votes,3
+St. Lawrence,Pittsman 5,Ballots Cast,,,,133
+St. Lawrence,Pittsman 5,Registered Voters,,,,440
+St. Lawrence,Pittsman 5,Comptroller,,DEM,Drew Warshaw,12
+St. Lawrence,Pittsman 5,Comptroller,,DEM,Raj Goyle,15
+St. Lawrence,Pittsman 5,Comptroller,,DEM,Thomas P. DiNapoli,94
+St. Lawrence,Pittsman 5,Comptroller,,,Under Votes,12
+St. Lawrence,Potsdam 6,Ballots Cast,,,,118
+St. Lawrence,Potsdam 6,Registered Voters,,,,366
+St. Lawrence,Potsdam 6,Comptroller,,DEM,Drew Warshaw,15
+St. Lawrence,Potsdam 6,Comptroller,,DEM,Raj Goyle,11
+St. Lawrence,Potsdam 6,Comptroller,,DEM,Thomas P. DiNapoli,63
+St. Lawrence,Potsdam 6,Comptroller,,,Under Votes,6
+St. Lawrence,Potsdam 6,U.S. House,21,DEM,Blake Gendebien,61
+St. Lawrence,Potsdam 6,U.S. House,21,DEM,Stuart J. Amoriell,34
+St. Lawrence,Potsdam 6,U.S. House,21,REP,Anthony Constantino,13
+St. Lawrence,Potsdam 6,U.S. House,21,REP,Robert J. Smullen,9
+St. Lawrence,Potsdam 6,U.S. House,21,,Under Votes,1
+St. Lawrence,Potsdam 7,Ballots Cast,,,,141
+St. Lawrence,Potsdam 7,Registered Voters,,,,370
+St. Lawrence,Potsdam 7,Comptroller,,DEM,Drew Warshaw,18
+St. Lawrence,Potsdam 7,Comptroller,,DEM,Raj Goyle,13
+St. Lawrence,Potsdam 7,Comptroller,,DEM,Thomas P. DiNapoli,73
+St. Lawrence,Potsdam 7,Comptroller,,,Under Votes,16
+St. Lawrence,Potsdam 7,U.S. House,21,DEM,Blake Gendebien,76
+St. Lawrence,Potsdam 7,U.S. House,21,DEM,Stuart J. Amoriell,44
+St. Lawrence,Potsdam 7,U.S. House,21,REP,Anthony Constantino,8
+St. Lawrence,Potsdam 7,U.S. House,21,REP,Robert J. Smullen,13
+St. Lawrence,Potsdam 8,Ballots Cast,,,,131
+St. Lawrence,Potsdam 8,Registered Voters,,,,382
+St. Lawrence,Potsdam 8,Comptroller,,DEM,Drew Warshaw,8
+St. Lawrence,Potsdam 8,Comptroller,,DEM,Raj Goyle,10
+St. Lawrence,Potsdam 8,Comptroller,,DEM,Thomas P. DiNapoli,61
+St. Lawrence,Potsdam 8,Comptroller,,,Under Votes,3
+St. Lawrence,Potsdam 8,U.S. House,21,DEM,Blake Gendebien,56
+St. Lawrence,Potsdam 8,U.S. House,21,DEM,Stuart J. Amoriell,22
+St. Lawrence,Potsdam 8,U.S. House,21,REP,Anthony Constantino,24
+St. Lawrence,Potsdam 8,U.S. House,21,REP,Robert J. Smullen,24
+St. Lawrence,Potsdam 8,U.S. House,21,REP,Write-in,1
+St. Lawrence,Potsdam 8,U.S. House,21,,Under Votes,4
+St. Lawrence,Rossie 1,Ballots Cast,,,,78
+St. Lawrence,Rossie 1,Registered Voters,,,,199
+St. Lawrence,Rossie 1,Comptroller,,DEM,Drew Warshaw,2
+St. Lawrence,Rossie 1,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Rossie 1,Comptroller,,DEM,Thomas P. DiNapoli,15
+St. Lawrence,Rossie 1,Comptroller,,,Under Votes,1
+St. Lawrence,Rossie 1,Rossie Councilmember,,REP,Kimberly A. Hutton,24
+St. Lawrence,Rossie 1,Rossie Councilmember,,REP,Ray Roberts,31
+St. Lawrence,Rossie 1,Rossie Councilmember,,,Under Votes,3
+St. Lawrence,Rossie 1,U.S. House,21,DEM,Blake Gendebien,17
+St. Lawrence,Rossie 1,U.S. House,21,DEM,Stuart J. Amoriell,3
+St. Lawrence,Rossie 1,U.S. House,21,REP,Anthony Constantino,38
+St. Lawrence,Rossie 1,U.S. House,21,REP,Robert J. Smullen,19
+St. Lawrence,Rossie 1,U.S. House,21,,Under Votes,1
+St. Lawrence,Russell 1,Ballots Cast,,,,127
+St. Lawrence,Russell 1,Registered Voters,,,,563
+St. Lawrence,Russell 1,Comptroller,,DEM,Drew Warshaw,8
+St. Lawrence,Russell 1,Comptroller,,DEM,Raj Goyle,3
+St. Lawrence,Russell 1,Comptroller,,DEM,Thomas P. DiNapoli,26
+St. Lawrence,Russell 1,Comptroller,,,Under Votes,2
+St. Lawrence,Russell 1,U.S. House,21,DEM,Blake Gendebien,33
+St. Lawrence,Russell 1,U.S. House,21,DEM,Stuart J. Amoriell,6
+St. Lawrence,Russell 1,U.S. House,21,REP,Anthony Constantino,59
+St. Lawrence,Russell 1,U.S. House,21,REP,Robert J. Smullen,29
+St. Lawrence,Stockholm 1,Ballots Cast,,,,125
+St. Lawrence,Stockholm 1,Registered Voters,,,,412
+St. Lawrence,Stockholm 1,Comptroller,,DEM,Drew Warshaw,4
+St. Lawrence,Stockholm 1,Comptroller,,DEM,Raj Goyle,3
+St. Lawrence,Stockholm 1,Comptroller,,DEM,Thomas P. DiNapoli,45
+St. Lawrence,Stockholm 1,Comptroller,,,Under Votes,6
+St. Lawrence,Stockholm 1,U.S. House,21,DEM,Blake Gendebien,34
+St. Lawrence,Stockholm 1,U.S. House,21,DEM,Stuart J. Amoriell,21
+St. Lawrence,Stockholm 1,U.S. House,21,REP,Anthony Constantino,43
+St. Lawrence,Stockholm 1,U.S. House,21,REP,Robert J. Smullen,24
+St. Lawrence,Stockholm 1,U.S. House,21,,Under Votes,3
+St. Lawrence,Stockholm 2,Ballots Cast,,,,142
+St. Lawrence,Stockholm 2,Registered Voters,,,,544
+St. Lawrence,Stockholm 2,Comptroller,,DEM,Drew Warshaw,7
+St. Lawrence,Stockholm 2,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Stockholm 2,Comptroller,,DEM,Thomas P. DiNapoli,44
+St. Lawrence,Stockholm 2,Comptroller,,,Under Votes,1
+St. Lawrence,Stockholm 2,U.S. House,21,DEM,Blake Gendebien,37
+St. Lawrence,Stockholm 2,U.S. House,21,DEM,Stuart J. Amoriell,14
+St. Lawrence,Stockholm 2,U.S. House,21,DEM,Write-in,1
+St. Lawrence,Stockholm 2,U.S. House,21,REP,Anthony Constantino,56
+St. Lawrence,Stockholm 2,U.S. House,21,REP,Robert J. Smullen,32
+St. Lawrence,Stockholm 2,U.S. House,21,,Under Votes,2
+St. Lawrence,Waddington 1,Ballots Cast,,,,123
+St. Lawrence,Waddington 1,Registered Voters,,,,319
+St. Lawrence,Waddington 1,Comptroller,,DEM,Drew Warshaw,2
+St. Lawrence,Waddington 1,Comptroller,,DEM,Raj Goyle,5
+St. Lawrence,Waddington 1,Comptroller,,DEM,Thomas P. DiNapoli,46
+St. Lawrence,Waddington 1,Comptroller,,,Under Votes,3
+St. Lawrence,Waddington 1,U.S. House,21,DEM,Blake Gendebien,45
+St. Lawrence,Waddington 1,U.S. House,21,DEM,Stuart J. Amoriell,11
+St. Lawrence,Waddington 1,U.S. House,21,REP,Anthony Constantino,31
+St. Lawrence,Waddington 1,U.S. House,21,REP,Robert J. Smullen,36
+St. Lawrence,Waddington 2,Ballots Cast,,,,165
+St. Lawrence,Waddington 2,Registered Voters,,,,389
+St. Lawrence,Waddington 2,Comptroller,,DEM,Drew Warshaw,3
+St. Lawrence,Waddington 2,Comptroller,,DEM,Raj Goyle,3
+St. Lawrence,Waddington 2,Comptroller,,DEM,Thomas P. DiNapoli,45
+St. Lawrence,Waddington 2,Comptroller,,,Under Votes,5
+St. Lawrence,Waddington 2,U.S. House,21,DEM,Blake Gendebien,43
+St. Lawrence,Waddington 2,U.S. House,21,DEM,Stuart J. Amoriell,11
+St. Lawrence,Waddington 2,U.S. House,21,DEM,Write-in,2
+St. Lawrence,Waddington 2,U.S. House,21,REP,Anthony Constantino,42
+St. Lawrence,Waddington 2,U.S. House,21,REP,Robert J. Smullen,66
+St. Lawrence,Waddington 2,U.S. House,21,REP,Write-in,1
+St. Lawrence,Ogdensburg 1,Ballots Cast,,,,83
+St. Lawrence,Ogdensburg 1,Registered Voters,,,,326
+St. Lawrence,Ogdensburg 1,Comptroller,,DEM,Drew Warshaw,5
+St. Lawrence,Ogdensburg 1,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Ogdensburg 1,Comptroller,,DEM,Thomas P. DiNapoli,17
+St. Lawrence,Ogdensburg 1,Comptroller,,DEM,Write-in,1
+St. Lawrence,Ogdensburg 1,Comptroller,,,Under Votes,4
+St. Lawrence,Ogdensburg 1,U.S. House,21,DEM,Blake Gendebien,20
+St. Lawrence,Ogdensburg 1,U.S. House,21,DEM,Stuart J. Amoriell,7
+St. Lawrence,Ogdensburg 1,U.S. House,21,DEM,Write-in,1
+St. Lawrence,Ogdensburg 1,U.S. House,21,REP,Anthony Constantino,33
+St. Lawrence,Ogdensburg 1,U.S. House,21,REP,Robert J. Smullen,20
+St. Lawrence,Ogdensburg 1,U.S. House,21,,Under Votes,1
+St. Lawrence,Ogdensburg 1,U.S. House,21,,Under Votes,1
+St. Lawrence,Ogdensburg 2,Ballots Cast,,,,85
+St. Lawrence,Ogdensburg 2,Registered Voters,,,,345
+St. Lawrence,Ogdensburg 2,Comptroller,,DEM,Drew Warshaw,6
+St. Lawrence,Ogdensburg 2,Comptroller,,DEM,Raj Goyle,1
+St. Lawrence,Ogdensburg 2,Comptroller,,DEM,Thomas P. DiNapoli,22
+St. Lawrence,Ogdensburg 2,Comptroller,,,Under Votes,4
+St. Lawrence,Ogdensburg 2,U.S. House,21,DEM,Blake Gendebien,25
+St. Lawrence,Ogdensburg 2,U.S. House,21,DEM,Stuart J. Amoriell,5
+St. Lawrence,Ogdensburg 2,U.S. House,21,REP,Anthony Constantino,29
+St. Lawrence,Ogdensburg 2,U.S. House,21,REP,Robert J. Smullen,23
+St. Lawrence,Ogdensburg 2,U.S. House,21,,Under Votes,3
+St. Lawrence,Ogdensburg 3,Ballots Cast,,,,125
+St. Lawrence,Ogdensburg 3,Registered Voters,,,,359
+St. Lawrence,Ogdensburg 3,Comptroller,,DEM,Drew Warshaw,6
+St. Lawrence,Ogdensburg 3,Comptroller,,DEM,Raj Goyle,5
+St. Lawrence,Ogdensburg 3,Comptroller,,DEM,Thomas P. DiNapoli,45
+St. Lawrence,Ogdensburg 3,Comptroller,,DEM,Write-in,1
+St. Lawrence,Ogdensburg 3,Comptroller,,,Under Votes,3
+St. Lawrence,Ogdensburg 3,U.S. House,21,DEM,Blake Gendebien,45
+St. Lawrence,Ogdensburg 3,U.S. House,21,DEM,Stuart J. Amoriell,12
+St. Lawrence,Ogdensburg 3,U.S. House,21,REP,Anthony Constantino,29
+St. Lawrence,Ogdensburg 3,U.S. House,21,REP,Robert J. Smullen,33
+St. Lawrence,Ogdensburg 3,U.S. House,21,REP,Write-in,2
+St. Lawrence,Ogdensburg 3,U.S. House,21,,Under Votes,3
+St. Lawrence,Ogdensburg 3,U.S. House,21,,Under Votes,1
+St. Lawrence,Ogdensburg 4,Ballots Cast,,,,131
+St. Lawrence,Ogdensburg 4,Registered Voters,,,,474
+St. Lawrence,Ogdensburg 4,Comptroller,,DEM,Drew Warshaw,5
+St. Lawrence,Ogdensburg 4,Comptroller,,DEM,Raj Goyle,3
+St. Lawrence,Ogdensburg 4,Comptroller,,DEM,Thomas P. DiNapoli,41
+St. Lawrence,Ogdensburg 4,Comptroller,,,Under Votes,8
+St. Lawrence,Ogdensburg 4,U.S. House,21,DEM,Blake Gendebien,51
+St. Lawrence,Ogdensburg 4,U.S. House,21,DEM,Stuart J. Amoriell,5
+St. Lawrence,Ogdensburg 4,U.S. House,21,REP,Anthony Constantino,45
+St. Lawrence,Ogdensburg 4,U.S. House,21,REP,Robert J. Smullen,28
+St. Lawrence,Ogdensburg 4,U.S. House,21,,Under Votes,1
+St. Lawrence,Ogdensburg 4,U.S. House,21,,Under Votes,1
+St. Lawrence,Ogdensburg 5,Ballots Cast,,,,35
+St. Lawrence,Ogdensburg 5,Registered Voters,,,,182
+St. Lawrence,Ogdensburg 5,Comptroller,,DEM,Drew Warshaw,1
+St. Lawrence,Ogdensburg 5,Comptroller,,DEM,Thomas P. DiNapoli,8
+St. Lawrence,Ogdensburg 5,Comptroller,,,Under Votes,3
+St. Lawrence,Ogdensburg 5,U.S. House,21,DEM,Blake Gendebien,9
+St. Lawrence,Ogdensburg 5,U.S. House,21,DEM,Stuart J. Amoriell,3
+St. Lawrence,Ogdensburg 5,U.S. House,21,REP,Anthony Constantino,16
+St. Lawrence,Ogdensburg 5,U.S. House,21,REP,Robert J. Smullen,7
+St. Lawrence,Ogdensburg 6,Ballots Cast,,,,124
+St. Lawrence,Ogdensburg 6,Registered Voters,,,,308
+St. Lawrence,Ogdensburg 6,Comptroller,,DEM,Drew Warshaw,6
+St. Lawrence,Ogdensburg 6,Comptroller,,DEM,Raj Goyle,2
+St. Lawrence,Ogdensburg 6,Comptroller,,DEM,Thomas P. DiNapoli,37
+St. Lawrence,Ogdensburg 6,Comptroller,,,Under Votes,6
+St. Lawrence,Ogdensburg 6,U.S. House,21,DEM,Blake Gendebien,40
+St. Lawrence,Ogdensburg 6,U.S. House,21,DEM,Stuart J. Amoriell,10
+St. Lawrence,Ogdensburg 6,U.S. House,21,REP,Anthony Constantino,49
+St. Lawrence,Ogdensburg 6,U.S. House,21,REP,Robert J. Smullen,23
+St. Lawrence,Ogdensburg 6,U.S. House,21,REP,Write-in,1
+St. Lawrence,Ogdensburg 6,U.S. House,21,,Under Votes,1
+St. Lawrence,Pitcairn 1,Ballots Cast,,,,60
+St. Lawrence,Pitcairn 1,Registered Voters,,,,261
+St. Lawrence,Pitcairn 1,U.S. House,21,DEM,Blake Gendebien,11
+St. Lawrence,Pitcairn 1,U.S. House,21,DEM,Stuart J. Amoriell,5
+St. Lawrence,Pitcairn 1,U.S. House,21,REP,Anthony Constantino,33
+St. Lawrence,Pitcairn 1,U.S. House,21,REP,Robert J. Smullen,11
+St. Lawrence,Potsdam 1,Ballots Cast,,,,95
+St. Lawrence,Potsdam 1,Registered Voters,,,,232
+St. Lawrence,Potsdam 1,U.S. House,21,DEM,Blake Gendebien,29
+St. Lawrence,Potsdam 1,U.S. House,21,DEM,Stuart J. Amoriell,18
+St. Lawrence,Potsdam 1,U.S. House,21,REP,Anthony Constantino,22
+St. Lawrence,Potsdam 1,U.S. House,21,REP,Robert J. Smullen,25
+St. Lawrence,Potsdam 1,U.S. House,21,,Under Votes,1
+St. Lawrence,Potsdam 2,Ballots Cast,,,,98
+St. Lawrence,Potsdam 2,Registered Voters,,,,321
+St. Lawrence,Potsdam 2,U.S. House,21,DEM,Blake Gendebien,28
+St. Lawrence,Potsdam 2,U.S. House,21,DEM,Stuart J. Amoriell,6
+St. Lawrence,Potsdam 2,U.S. House,21,REP,Anthony Constantino,24
+St. Lawrence,Potsdam 2,U.S. House,21,REP,Robert J. Smullen,38
+St. Lawrence,Potsdam 2,U.S. House,21,,Under Votes,2
+St. Lawrence,Potsdam 3,Ballots Cast,,,,74
+St. Lawrence,Potsdam 3,Registered Voters,,,,226
+St. Lawrence,Potsdam 3,U.S. House,21,DEM,Blake Gendebien,28
+St. Lawrence,Potsdam 3,U.S. House,21,DEM,Stuart J. Amoriell,8
+St. Lawrence,Potsdam 3,U.S. House,21,REP,Anthony Constantino,20
+St. Lawrence,Potsdam 3,U.S. House,21,REP,Robert J. Smullen,17
+St. Lawrence,Potsdam 3,U.S. House,21,,Under Votes,1
+St. Lawrence,Potsdam 4,Ballots Cast,,,,164
+St. Lawrence,Potsdam 4,Registered Voters,,,,504
+St. Lawrence,Potsdam 4,U.S. House,21,DEM,Blake Gendebien,69
+St. Lawrence,Potsdam 4,U.S. House,21,DEM,Stuart J. Amoriell,30
+St. Lawrence,Potsdam 4,U.S. House,21,REP,Anthony Constantino,34
+St. Lawrence,Potsdam 4,U.S. House,21,REP,Robert J. Smullen,28
+St. Lawrence,Potsdam 4,U.S. House,21,REP,Write-in,1
+St. Lawrence,Potsdam 4,U.S. House,21,,Under Votes,2
+St. Lawrence,Potsdam 5,Ballots Cast,,,,162
+St. Lawrence,Potsdam 5,Registered Voters,,,,440
+St. Lawrence,Potsdam 5,U.S. House,21,DEM,Blake Gendebien,77
+St. Lawrence,Potsdam 5,U.S. House,21,DEM,Stuart J. Amoriell,50
+St. Lawrence,Potsdam 5,U.S. House,21,REP,Anthony Constantino,12
+St. Lawrence,Potsdam 5,U.S. House,21,REP,Robert J. Smullen,14
+St. Lawrence,Potsdam 5,U.S. House,21,REP,Write-in,1
+St. Lawrence,Potsdam 5,U.S. House,21,,Under Votes,6
+St. Lawrence,Potsdam 5,U.S. House,21,,Under Votes,2

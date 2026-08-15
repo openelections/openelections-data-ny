@@ -1,0 +1,456 @@
+county,precinct,office,district,party,candidate,votes
+Warren,Bolton 001,Ballots Cast,,,,263
+Warren,Bolton 001,Comptroller,,DEM,DiNapoli Thomas P.,53
+Warren,Bolton 001,Comptroller,,DEM,Drew Warshaw,11
+Warren,Bolton 001,Comptroller,,DEM,Raj Goyle,9
+Warren,Bolton 001,Comptroller,,,Under Votes,14
+Warren,Bolton 001,U.S. House,21,DEM,Blake Gendebien,58
+Warren,Bolton 001,U.S. House,21,DEM,Stuart J. Amoriell,25
+Warren,Bolton 001,U.S. House,21,REP,Constantino Anthony,117
+Warren,Bolton 001,U.S. House,21,REP,Robert J. Smullen,58
+Warren,Bolton 001,U.S. House,21,REP,Write-in,1
+Warren,Bolton 001,U.S. House,21,,Under Votes,4
+Warren,Chester 001,Ballots Cast,,,,241
+Warren,Chester 001,Comptroller,,DEM,DiNapoli Thomas P.,45
+Warren,Chester 001,Comptroller,,DEM,Drew Warshaw,8
+Warren,Chester 001,Comptroller,,DEM,Raj Goyle,14
+Warren,Chester 001,Comptroller,,,Over Votes,1
+Warren,Chester 001,Comptroller,,,Under Votes,9
+Warren,Chester 001,U.S. House,21,DEM,Blake Gendebien,46
+Warren,Chester 001,U.S. House,21,DEM,Stuart J. Amoriell,28
+Warren,Chester 001,U.S. House,21,REP,Constantino Anthony,107
+Warren,Chester 001,U.S. House,21,REP,Robert J. Smullen,55
+Warren,Chester 001,U.S. House,21,REP,Write-in,2
+Warren,Chester 001,U.S. House,21,,Under Votes,3
+Warren,Chester 002,Ballots Cast,,,,213
+Warren,Chester 002,Comptroller,,DEM,DiNapoli Thomas P.,56
+Warren,Chester 002,Comptroller,,DEM,Drew Warshaw,6
+Warren,Chester 002,Comptroller,,DEM,Raj Goyle,3
+Warren,Chester 002,Comptroller,,,Under Votes,6
+Warren,Chester 002,U.S. House,21,DEM,Blake Gendebien,49
+Warren,Chester 002,U.S. House,21,DEM,Stuart J. Amoriell,19
+Warren,Chester 002,U.S. House,21,REP,Constantino Anthony,89
+Warren,Chester 002,U.S. House,21,REP,Robert J. Smullen,52
+Warren,Chester 002,U.S. House,21,,Over Votes,1
+Warren,Chester 002,U.S. House,21,,Under Votes,3
+Warren,Glens Falls - Ward 001 001,Ballots Cast,,,,75
+Warren,Glens Falls - Ward 001 001,Comptroller,,DEM,DiNapoli Thomas P.,27
+Warren,Glens Falls - Ward 001 001,Comptroller,,DEM,Drew Warshaw,3
+Warren,Glens Falls - Ward 001 001,Comptroller,,DEM,Raj Goyle,7
+Warren,Glens Falls - Ward 001 001,Comptroller,,,Under Votes,4
+Warren,Glens Falls - Ward 001 001,U.S. House,21,DEM,Blake Gendebien,24
+Warren,Glens Falls - Ward 001 001,U.S. House,21,DEM,Stuart J. Amoriell,14
+Warren,Glens Falls - Ward 001 001,U.S. House,21,REP,Constantino Anthony,21
+Warren,Glens Falls - Ward 001 001,U.S. House,21,REP,Robert J. Smullen,12
+Warren,Glens Falls - Ward 001 001,U.S. House,21,,Over Votes,1
+Warren,Glens Falls - Ward 001 001,U.S. House,21,,Under Votes,3
+Warren,Glens Falls - Ward 001 002,Ballots Cast,,,,95
+Warren,Glens Falls - Ward 001 002,Comptroller,,DEM,DiNapoli Thomas P.,30
+Warren,Glens Falls - Ward 001 002,Comptroller,,DEM,Drew Warshaw,6
+Warren,Glens Falls - Ward 001 002,Comptroller,,DEM,Raj Goyle,9
+Warren,Glens Falls - Ward 001 002,Comptroller,,,Under Votes,3
+Warren,Glens Falls - Ward 001 002,U.S. House,21,DEM,Blake Gendebien,25
+Warren,Glens Falls - Ward 001 002,U.S. House,21,DEM,Stuart J. Amoriell,20
+Warren,Glens Falls - Ward 001 002,U.S. House,21,REP,Constantino Anthony,37
+Warren,Glens Falls - Ward 001 002,U.S. House,21,REP,Robert J. Smullen,10
+Warren,Glens Falls - Ward 001 002,U.S. House,21,,Under Votes,3
+Warren,Glens Falls - Ward 002 001,Ballots Cast,,,,146
+Warren,Glens Falls - Ward 002 001,Comptroller,,DEM,DiNapoli Thomas P.,54
+Warren,Glens Falls - Ward 002 001,Comptroller,,DEM,Drew Warshaw,20
+Warren,Glens Falls - Ward 002 001,Comptroller,,DEM,Raj Goyle,9
+Warren,Glens Falls - Ward 002 001,Comptroller,,,Under Votes,7
+Warren,Glens Falls - Ward 002 001,U.S. House,21,DEM,Blake Gendebien,56
+Warren,Glens Falls - Ward 002 001,U.S. House,21,DEM,Stuart J. Amoriell,31
+Warren,Glens Falls - Ward 002 001,U.S. House,21,REP,Constantino Anthony,37
+Warren,Glens Falls - Ward 002 001,U.S. House,21,REP,Robert J. Smullen,18
+Warren,Glens Falls - Ward 002 001,U.S. House,21,,Over Votes,1
+Warren,Glens Falls - Ward 002 001,U.S. House,21,,Under Votes,3
+Warren,Glens Falls - Ward 002 002,Ballots Cast,,,,138
+Warren,Glens Falls - Ward 002 002,Comptroller,,DEM,DiNapoli Thomas P.,59
+Warren,Glens Falls - Ward 002 002,Comptroller,,DEM,Drew Warshaw,6
+Warren,Glens Falls - Ward 002 002,Comptroller,,DEM,Raj Goyle,4
+Warren,Glens Falls - Ward 002 002,Comptroller,,,Over Votes,1
+Warren,Glens Falls - Ward 002 002,Comptroller,,,Under Votes,4
+Warren,Glens Falls - Ward 002 002,U.S. House,21,DEM,Blake Gendebien,47
+Warren,Glens Falls - Ward 002 002,U.S. House,21,DEM,Stuart J. Amoriell,24
+Warren,Glens Falls - Ward 002 002,U.S. House,21,REP,Constantino Anthony,32
+Warren,Glens Falls - Ward 002 002,U.S. House,21,REP,Robert J. Smullen,28
+Warren,Glens Falls - Ward 002 002,U.S. House,21,REP,Write-in,4
+Warren,Glens Falls - Ward 002 002,U.S. House,21,,Under Votes,3
+Warren,Glens Falls - Ward 003 001,Ballots Cast,,,,168
+Warren,Glens Falls - Ward 003 001,Comptroller,,DEM,DiNapoli Thomas P.,65
+Warren,Glens Falls - Ward 003 001,Comptroller,,DEM,Drew Warshaw,12
+Warren,Glens Falls - Ward 003 001,Comptroller,,DEM,Raj Goyle,10
+Warren,Glens Falls - Ward 003 001,Comptroller,,DEM,Write-in,1
+Warren,Glens Falls - Ward 003 001,Comptroller,,,Under Votes,10
+Warren,Glens Falls - Ward 003 001,U.S. House,21,DEM,Blake Gendebien,65
+Warren,Glens Falls - Ward 003 001,U.S. House,21,DEM,Stuart J. Amoriell,27
+Warren,Glens Falls - Ward 003 001,U.S. House,21,DEM,Write-in,1
+Warren,Glens Falls - Ward 003 001,U.S. House,21,REP,Constantino Anthony,37
+Warren,Glens Falls - Ward 003 001,U.S. House,21,REP,Robert J. Smullen,32
+Warren,Glens Falls - Ward 003 001,U.S. House,21,REP,Write-in,1
+Warren,Glens Falls - Ward 003 001,U.S. House,21,,Under Votes,5
+Warren,Glens Falls - Ward 003 002,Ballots Cast,,,,121
+Warren,Glens Falls - Ward 003 002,Comptroller,,DEM,DiNapoli Thomas P.,50
+Warren,Glens Falls - Ward 003 002,Comptroller,,DEM,Drew Warshaw,8
+Warren,Glens Falls - Ward 003 002,Comptroller,,DEM,Raj Goyle,13
+Warren,Glens Falls - Ward 003 002,Comptroller,,,Under Votes,6
+Warren,Glens Falls - Ward 003 002,U.S. House,21,DEM,Blake Gendebien,51
+Warren,Glens Falls - Ward 003 002,U.S. House,21,DEM,Stuart J. Amoriell,23
+Warren,Glens Falls - Ward 003 002,U.S. House,21,DEM,Write-in,1
+Warren,Glens Falls - Ward 003 002,U.S. House,21,REP,Constantino Anthony,25
+Warren,Glens Falls - Ward 003 002,U.S. House,21,REP,Robert J. Smullen,19
+Warren,Glens Falls - Ward 003 002,U.S. House,21,,Under Votes,2
+Warren,Glens Falls - Ward 004 001,Ballots Cast,,,,189
+Warren,Glens Falls - Ward 004 001,Comptroller,,DEM,DiNapoli Thomas P.,97
+Warren,Glens Falls - Ward 004 001,Comptroller,,DEM,Drew Warshaw,14
+Warren,Glens Falls - Ward 004 001,Comptroller,,DEM,Raj Goyle,14
+Warren,Glens Falls - Ward 004 001,Comptroller,,,Under Votes,9
+Warren,Glens Falls - Ward 004 001,U.S. House,21,DEM,Blake Gendebien,94
+Warren,Glens Falls - Ward 004 001,U.S. House,21,DEM,Stuart J. Amoriell,38
+Warren,Glens Falls - Ward 004 001,U.S. House,21,REP,Constantino Anthony,30
+Warren,Glens Falls - Ward 004 001,U.S. House,21,REP,Robert J. Smullen,25
+Warren,Glens Falls - Ward 004 001,U.S. House,21,,Under Votes,2
+Warren,Glens Falls - Ward 004 002,Ballots Cast,,,,133
+Warren,Glens Falls - Ward 004 002,Comptroller,,DEM,DiNapoli Thomas P.,56
+Warren,Glens Falls - Ward 004 002,Comptroller,,DEM,Drew Warshaw,7
+Warren,Glens Falls - Ward 004 002,Comptroller,,DEM,Raj Goyle,8
+Warren,Glens Falls - Ward 004 002,Comptroller,,,Under Votes,9
+Warren,Glens Falls - Ward 004 002,U.S. House,21,DEM,Blake Gendebien,43
+Warren,Glens Falls - Ward 004 002,U.S. House,21,DEM,Stuart J. Amoriell,32
+Warren,Glens Falls - Ward 004 002,U.S. House,21,DEM,Write-in,1
+Warren,Glens Falls - Ward 004 002,U.S. House,21,REP,Constantino Anthony,26
+Warren,Glens Falls - Ward 004 002,U.S. House,21,REP,Robert J. Smullen,26
+Warren,Glens Falls - Ward 004 002,U.S. House,21,REP,Write-in,1
+Warren,Glens Falls - Ward 004 002,U.S. House,21,,Under Votes,4
+Warren,Glens Falls - Ward 005 001,Ballots Cast,,,,143
+Warren,Glens Falls - Ward 005 001,Comptroller,,DEM,DiNapoli Thomas P.,46
+Warren,Glens Falls - Ward 005 001,Comptroller,,DEM,Drew Warshaw,14
+Warren,Glens Falls - Ward 005 001,Comptroller,,DEM,Raj Goyle,8
+Warren,Glens Falls - Ward 005 001,Comptroller,,,Under Votes,4
+Warren,Glens Falls - Ward 005 001,U.S. House,21,DEM,Blake Gendebien,43
+Warren,Glens Falls - Ward 005 001,U.S. House,21,DEM,Stuart J. Amoriell,27
+Warren,Glens Falls - Ward 005 001,U.S. House,21,REP,Constantino Anthony,55
+Warren,Glens Falls - Ward 005 001,U.S. House,21,REP,Robert J. Smullen,16
+Warren,Glens Falls - Ward 005 001,U.S. House,21,,Under Votes,2
+Warren,Glens Falls - Ward 005 002,Ballots Cast,,,,113
+Warren,Glens Falls - Ward 005 002,Comptroller,,DEM,DiNapoli Thomas P.,49
+Warren,Glens Falls - Ward 005 002,Comptroller,,DEM,Drew Warshaw,5
+Warren,Glens Falls - Ward 005 002,Comptroller,,DEM,Raj Goyle,5
+Warren,Glens Falls - Ward 005 002,Comptroller,,,Under Votes,10
+Warren,Glens Falls - Ward 005 002,U.S. House,21,DEM,Blake Gendebien,39
+Warren,Glens Falls - Ward 005 002,U.S. House,21,DEM,Stuart J. Amoriell,22
+Warren,Glens Falls - Ward 005 002,U.S. House,21,DEM,Write-in,2
+Warren,Glens Falls - Ward 005 002,U.S. House,21,REP,Constantino Anthony,24
+Warren,Glens Falls - Ward 005 002,U.S. House,21,REP,Robert J. Smullen,19
+Warren,Glens Falls - Ward 005 002,U.S. House,21,REP,Write-in,1
+Warren,Glens Falls - Ward 005 002,U.S. House,21,,Under Votes,6
+Warren,Hague 001,Ballots Cast,,,,122
+Warren,Hague 001,Comptroller,,DEM,DiNapoli Thomas P.,36
+Warren,Hague 001,Comptroller,,DEM,Drew Warshaw,2
+Warren,Hague 001,Comptroller,,DEM,Raj Goyle,1
+Warren,Hague 001,Comptroller,,,Under Votes,15
+Warren,Hague 001,U.S. House,21,DEM,Blake Gendebien,27
+Warren,Hague 001,U.S. House,21,DEM,Stuart J. Amoriell,25
+Warren,Hague 001,U.S. House,21,REP,Constantino Anthony,43
+Warren,Hague 001,U.S. House,21,REP,Robert J. Smullen,19
+Warren,Hague 001,U.S. House,21,REP,Write-in,3
+Warren,Hague 001,U.S. House,21,,Over Votes,1
+Warren,Hague 001,U.S. House,21,,Under Votes,2
+Warren,Hague 001,U.S. House,21,,Under Votes,2
+Warren,Horicon 001,Ballots Cast,,,,229
+Warren,Horicon 001,Comptroller,,DEM,DiNapoli Thomas P.,47
+Warren,Horicon 001,Comptroller,,DEM,Drew Warshaw,12
+Warren,Horicon 001,Comptroller,,DEM,Raj Goyle,10
+Warren,Horicon 001,Comptroller,,,Under Votes,9
+Warren,Horicon 001,U.S. House,21,DEM,Blake Gendebien,44
+Warren,Horicon 001,U.S. House,21,DEM,Stuart J. Amoriell,32
+Warren,Horicon 001,U.S. House,21,REP,Constantino Anthony,76
+Warren,Horicon 001,U.S. House,21,REP,Robert J. Smullen,74
+Warren,Horicon 001,U.S. House,21,,Over Votes,1
+Warren,Horicon 001,U.S. House,21,,Under Votes,2
+Warren,Johnsburg 001,Ballots Cast,,,,297
+Warren,Johnsburg 001,Comptroller,,DEM,DiNapoli Thomas P.,89
+Warren,Johnsburg 001,Comptroller,,DEM,Drew Warshaw,15
+Warren,Johnsburg 001,Comptroller,,DEM,Raj Goyle,12
+Warren,Johnsburg 001,Comptroller,,,Over Votes,1
+Warren,Johnsburg 001,Comptroller,,,Under Votes,16
+Warren,Johnsburg 001,U.S. House,21,DEM,Blake Gendebien,109
+Warren,Johnsburg 001,U.S. House,21,DEM,Stuart J. Amoriell,20
+Warren,Johnsburg 001,U.S. House,21,REP,Constantino Anthony,106
+Warren,Johnsburg 001,U.S. House,21,REP,Robert J. Smullen,56
+Warren,Johnsburg 001,U.S. House,21,REP,Write-in,1
+Warren,Johnsburg 001,U.S. House,21,,Over Votes,1
+Warren,Johnsburg 001,U.S. House,21,,Under Votes,3
+Warren,Johnsburg 001,U.S. House,21,,Under Votes,1
+Warren,Lake George 001,Ballots Cast,,,,194
+Warren,Lake George 001,Comptroller,,DEM,DiNapoli Thomas P.,37
+Warren,Lake George 001,Comptroller,,DEM,Drew Warshaw,8
+Warren,Lake George 001,Comptroller,,DEM,Raj Goyle,8
+Warren,Lake George 001,Comptroller,,,Under Votes,6
+Warren,Lake George 001,U.S. House,21,DEM,Blake Gendebien,31
+Warren,Lake George 001,U.S. House,21,DEM,Stuart J. Amoriell,22
+Warren,Lake George 001,U.S. House,21,REP,Constantino Anthony,100
+Warren,Lake George 001,U.S. House,21,REP,Robert J. Smullen,34
+Warren,Lake George 001,U.S. House,21,REP,Write-in,1
+Warren,Lake George 001,U.S. House,21,,Under Votes,6
+Warren,Lake George 002,Ballots Cast,,,,253
+Warren,Lake George 002,Comptroller,,DEM,DiNapoli Thomas P.,75
+Warren,Lake George 002,Comptroller,,DEM,Drew Warshaw,18
+Warren,Lake George 002,Comptroller,,DEM,Raj Goyle,8
+Warren,Lake George 002,Comptroller,,,Over Votes,1
+Warren,Lake George 002,Comptroller,,,Under Votes,7
+Warren,Lake George 002,U.S. House,21,DEM,Blake Gendebien,54
+Warren,Lake George 002,U.S. House,21,DEM,Stuart J. Amoriell,45
+Warren,Lake George 002,U.S. House,21,DEM,Write-in,2
+Warren,Lake George 002,U.S. House,21,REP,Constantino Anthony,88
+Warren,Lake George 002,U.S. House,21,REP,Robert J. Smullen,56
+Warren,Lake George 002,U.S. House,21,,Over Votes,1
+Warren,Lake George 002,U.S. House,21,,Under Votes,7
+Warren,Lake Luzerne 001,Ballots Cast,,,,198
+Warren,Lake Luzerne 001,Comptroller,,DEM,DiNapoli Thomas P.,38
+Warren,Lake Luzerne 001,Comptroller,,DEM,Drew Warshaw,9
+Warren,Lake Luzerne 001,Comptroller,,DEM,Raj Goyle,4
+Warren,Lake Luzerne 001,Comptroller,,,Under Votes,4
+Warren,Lake Luzerne 001,U.S. House,21,DEM,Blake Gendebien,30
+Warren,Lake Luzerne 001,U.S. House,21,DEM,Stuart J. Amoriell,19
+Warren,Lake Luzerne 001,U.S. House,21,DEM,Write-in,1
+Warren,Lake Luzerne 001,U.S. House,21,REP,Constantino Anthony,108
+Warren,Lake Luzerne 001,U.S. House,21,REP,Robert J. Smullen,32
+Warren,Lake Luzerne 001,U.S. House,21,REP,Write-in,3
+Warren,Lake Luzerne 001,U.S. House,21,,Under Votes,5
+Warren,Lake Luzerne 002,Ballots Cast,,,,191
+Warren,Lake Luzerne 002,Comptroller,,DEM,DiNapoli Thomas P.,32
+Warren,Lake Luzerne 002,Comptroller,,DEM,Drew Warshaw,8
+Warren,Lake Luzerne 002,Comptroller,,DEM,Raj Goyle,2
+Warren,Lake Luzerne 002,Comptroller,,DEM,Write-in,1
+Warren,Lake Luzerne 002,Comptroller,,,Under Votes,4
+Warren,Lake Luzerne 002,U.S. House,21,DEM,Blake Gendebien,29
+Warren,Lake Luzerne 002,U.S. House,21,DEM,Stuart J. Amoriell,15
+Warren,Lake Luzerne 002,U.S. House,21,DEM,Write-in,1
+Warren,Lake Luzerne 002,U.S. House,21,REP,Constantino Anthony,95
+Warren,Lake Luzerne 002,U.S. House,21,REP,Robert J. Smullen,49
+Warren,Lake Luzerne 002,U.S. House,21,,Under Votes,2
+Warren,Queensbury - Ward 001 001,Ballots Cast,,,,245
+Warren,Queensbury - Ward 001 001,Comptroller,,DEM,DiNapoli Thomas P.,61
+Warren,Queensbury - Ward 001 001,Comptroller,,DEM,Drew Warshaw,4
+Warren,Queensbury - Ward 001 001,Comptroller,,DEM,Raj Goyle,4
+Warren,Queensbury - Ward 001 001,Comptroller,,,Over Votes,1
+Warren,Queensbury - Ward 001 001,Comptroller,,,Under Votes,3
+Warren,Queensbury - Ward 001 001,U.S. House,21,DEM,Blake Gendebien,52
+Warren,Queensbury - Ward 001 001,U.S. House,21,DEM,Stuart J. Amoriell,15
+Warren,Queensbury - Ward 001 001,U.S. House,21,REP,Constantino Anthony,103
+Warren,Queensbury - Ward 001 001,U.S. House,21,REP,Robert J. Smullen,68
+Warren,Queensbury - Ward 001 001,U.S. House,21,REP,Write-in,1
+Warren,Queensbury - Ward 001 001,U.S. House,21,,Under Votes,6
+Warren,Queensbury - Ward 001 002,Ballots Cast,,,,255
+Warren,Queensbury - Ward 001 002,Comptroller,,DEM,DiNapoli Thomas P.,63
+Warren,Queensbury - Ward 001 002,Comptroller,,DEM,Drew Warshaw,19
+Warren,Queensbury - Ward 001 002,Comptroller,,DEM,Raj Goyle,9
+Warren,Queensbury - Ward 001 002,Comptroller,,,Under Votes,11
+Warren,Queensbury - Ward 001 002,U.S. House,21,DEM,Blake Gendebien,67
+Warren,Queensbury - Ward 001 002,U.S. House,21,DEM,Stuart J. Amoriell,32
+Warren,Queensbury - Ward 001 002,U.S. House,21,REP,Constantino Anthony,73
+Warren,Queensbury - Ward 001 002,U.S. House,21,REP,Robert J. Smullen,80
+Warren,Queensbury - Ward 001 002,U.S. House,21,,Under Votes,3
+Warren,Queensbury - Ward 001 003,Ballots Cast,,,,277
+Warren,Queensbury - Ward 001 003,Comptroller,,DEM,DiNapoli Thomas P.,75
+Warren,Queensbury - Ward 001 003,Comptroller,,DEM,Drew Warshaw,11
+Warren,Queensbury - Ward 001 003,Comptroller,,DEM,Raj Goyle,4
+Warren,Queensbury - Ward 001 003,Comptroller,,,Under Votes,15
+Warren,Queensbury - Ward 001 003,U.S. House,21,DEM,Blake Gendebien,79
+Warren,Queensbury - Ward 001 003,U.S. House,21,DEM,Stuart J. Amoriell,24
+Warren,Queensbury - Ward 001 003,U.S. House,21,REP,Constantino Anthony,77
+Warren,Queensbury - Ward 001 003,U.S. House,21,REP,Robert J. Smullen,94
+Warren,Queensbury - Ward 001 003,U.S. House,21,REP,Write-in,1
+Warren,Queensbury - Ward 001 003,U.S. House,21,,Under Votes,2
+Warren,Queensbury - Ward 001 004,Ballots Cast,,,,142
+Warren,Queensbury - Ward 001 004,Comptroller,,DEM,DiNapoli Thomas P.,40
+Warren,Queensbury - Ward 001 004,Comptroller,,DEM,Drew Warshaw,4
+Warren,Queensbury - Ward 001 004,Comptroller,,DEM,Raj Goyle,3
+Warren,Queensbury - Ward 001 004,Comptroller,,,Under Votes,3
+Warren,Queensbury - Ward 001 004,U.S. House,21,DEM,Blake Gendebien,38
+Warren,Queensbury - Ward 001 004,U.S. House,21,DEM,Stuart J. Amoriell,12
+Warren,Queensbury - Ward 001 004,U.S. House,21,REP,Constantino Anthony,55
+Warren,Queensbury - Ward 001 004,U.S. House,21,REP,Robert J. Smullen,37
+Warren,Queensbury - Ward 001 005,Ballots Cast,,,,207
+Warren,Queensbury - Ward 001 005,Comptroller,,DEM,DiNapoli Thomas P.,64
+Warren,Queensbury - Ward 001 005,Comptroller,,DEM,Drew Warshaw,5
+Warren,Queensbury - Ward 001 005,Comptroller,,DEM,Raj Goyle,1
+Warren,Queensbury - Ward 001 005,Comptroller,,,Over Votes,2
+Warren,Queensbury - Ward 001 005,Comptroller,,,Under Votes,6
+Warren,Queensbury - Ward 001 005,U.S. House,21,DEM,Blake Gendebien,56
+Warren,Queensbury - Ward 001 005,U.S. House,21,DEM,Stuart J. Amoriell,17
+Warren,Queensbury - Ward 001 005,U.S. House,21,REP,Constantino Anthony,61
+Warren,Queensbury - Ward 001 005,U.S. House,21,REP,Robert J. Smullen,67
+Warren,Queensbury - Ward 001 005,U.S. House,21,,Over Votes,2
+Warren,Queensbury - Ward 001 005,U.S. House,21,,Under Votes,3
+Warren,Queensbury - Ward 001 005,U.S. House,21,,Under Votes,1
+Warren,Queensbury - Ward 002 001,Ballots Cast,,,,201
+Warren,Queensbury - Ward 002 001,Comptroller,,DEM,DiNapoli Thomas P.,46
+Warren,Queensbury - Ward 002 001,Comptroller,,DEM,Drew Warshaw,14
+Warren,Queensbury - Ward 002 001,Comptroller,,DEM,Raj Goyle,7
+Warren,Queensbury - Ward 002 001,Comptroller,,,Under Votes,7
+Warren,Queensbury - Ward 002 001,U.S. House,21,DEM,Blake Gendebien,49
+Warren,Queensbury - Ward 002 001,U.S. House,21,DEM,Stuart J. Amoriell,24
+Warren,Queensbury - Ward 002 001,U.S. House,21,DEM,Write-in,1
+Warren,Queensbury - Ward 002 001,U.S. House,21,REP,Constantino Anthony,67
+Warren,Queensbury - Ward 002 001,U.S. House,21,REP,Robert J. Smullen,60
+Warren,Queensbury - Ward 002 002,Ballots Cast,,,,274
+Warren,Queensbury - Ward 002 002,Comptroller,,DEM,DiNapoli Thomas P.,92
+Warren,Queensbury - Ward 002 002,Comptroller,,DEM,Drew Warshaw,9
+Warren,Queensbury - Ward 002 002,Comptroller,,DEM,Raj Goyle,12
+Warren,Queensbury - Ward 002 002,Comptroller,,,Over Votes,2
+Warren,Queensbury - Ward 002 002,Comptroller,,,Under Votes,19
+Warren,Queensbury - Ward 002 002,U.S. House,21,DEM,Blake Gendebien,89
+Warren,Queensbury - Ward 002 002,U.S. House,21,DEM,Stuart J. Amoriell,38
+Warren,Queensbury - Ward 002 002,U.S. House,21,REP,Constantino Anthony,89
+Warren,Queensbury - Ward 002 002,U.S. House,21,REP,Robert J. Smullen,51
+Warren,Queensbury - Ward 002 002,U.S. House,21,,Over Votes,2
+Warren,Queensbury - Ward 002 002,U.S. House,21,,Under Votes,5
+Warren,Queensbury - Ward 002 003,Ballots Cast,,,,223
+Warren,Queensbury - Ward 002 003,Comptroller,,DEM,DiNapoli Thomas P.,88
+Warren,Queensbury - Ward 002 003,Comptroller,,DEM,Drew Warshaw,16
+Warren,Queensbury - Ward 002 003,Comptroller,,DEM,Raj Goyle,10
+Warren,Queensbury - Ward 002 003,Comptroller,,,Under Votes,4
+Warren,Queensbury - Ward 002 003,U.S. House,21,DEM,Blake Gendebien,70
+Warren,Queensbury - Ward 002 003,U.S. House,21,DEM,Stuart J. Amoriell,45
+Warren,Queensbury - Ward 002 003,U.S. House,21,REP,Constantino Anthony,50
+Warren,Queensbury - Ward 002 003,U.S. House,21,REP,Robert J. Smullen,54
+Warren,Queensbury - Ward 002 003,U.S. House,21,REP,Write-in,1
+Warren,Queensbury - Ward 002 003,U.S. House,21,,Under Votes,3
+Warren,Queensbury - Ward 002 004,Ballots Cast,,,,197
+Warren,Queensbury - Ward 002 004,Comptroller,,DEM,DiNapoli Thomas P.,55
+Warren,Queensbury - Ward 002 004,Comptroller,,DEM,Drew Warshaw,14
+Warren,Queensbury - Ward 002 004,Comptroller,,DEM,Raj Goyle,8
+Warren,Queensbury - Ward 002 004,Comptroller,,DEM,Write-in,1
+Warren,Queensbury - Ward 002 004,Comptroller,,,Under Votes,10
+Warren,Queensbury - Ward 002 004,U.S. House,21,DEM,Blake Gendebien,60
+Warren,Queensbury - Ward 002 004,U.S. House,21,DEM,Stuart J. Amoriell,24
+Warren,Queensbury - Ward 002 004,U.S. House,21,REP,Constantino Anthony,68
+Warren,Queensbury - Ward 002 004,U.S. House,21,REP,Robert J. Smullen,41
+Warren,Queensbury - Ward 002 004,U.S. House,21,,Under Votes,4
+Warren,Queensbury - Ward 003 001,Ballots Cast,,,,227
+Warren,Queensbury - Ward 003 001,Comptroller,,DEM,DiNapoli Thomas P.,77
+Warren,Queensbury - Ward 003 001,Comptroller,,DEM,Drew Warshaw,4
+Warren,Queensbury - Ward 003 001,Comptroller,,DEM,Raj Goyle,3
+Warren,Queensbury - Ward 003 001,Comptroller,,,Under Votes,11
+Warren,Queensbury - Ward 003 001,U.S. House,21,DEM,Blake Gendebien,71
+Warren,Queensbury - Ward 003 001,U.S. House,21,DEM,Stuart J. Amoriell,22
+Warren,Queensbury - Ward 003 001,U.S. House,21,REP,Constantino Anthony,57
+Warren,Queensbury - Ward 003 001,U.S. House,21,REP,Robert J. Smullen,75
+Warren,Queensbury - Ward 003 001,U.S. House,21,,Under Votes,2
+Warren,Queensbury - Ward 003 002,Ballots Cast,,,,205
+Warren,Queensbury - Ward 003 002,Comptroller,,DEM,DiNapoli Thomas P.,56
+Warren,Queensbury - Ward 003 002,Comptroller,,DEM,Drew Warshaw,8
+Warren,Queensbury - Ward 003 002,Comptroller,,DEM,Raj Goyle,4
+Warren,Queensbury - Ward 003 002,Comptroller,,,Under Votes,9
+Warren,Queensbury - Ward 003 002,U.S. House,21,DEM,Blake Gendebien,41
+Warren,Queensbury - Ward 003 002,U.S. House,21,DEM,Stuart J. Amoriell,28
+Warren,Queensbury - Ward 003 002,U.S. House,21,REP,Constantino Anthony,69
+Warren,Queensbury - Ward 003 002,U.S. House,21,REP,Robert J. Smullen,59
+Warren,Queensbury - Ward 003 002,U.S. House,21,,Under Votes,8
+Warren,Queensbury - Ward 003 003,Ballots Cast,,,,167
+Warren,Queensbury - Ward 003 003,Comptroller,,DEM,DiNapoli Thomas P.,41
+Warren,Queensbury - Ward 003 003,Comptroller,,DEM,Drew Warshaw,5
+Warren,Queensbury - Ward 003 003,Comptroller,,DEM,Raj Goyle,3
+Warren,Queensbury - Ward 003 003,Comptroller,,,Under Votes,3
+Warren,Queensbury - Ward 003 003,U.S. House,21,DEM,Blake Gendebien,34
+Warren,Queensbury - Ward 003 003,U.S. House,21,DEM,Stuart J. Amoriell,15
+Warren,Queensbury - Ward 003 003,U.S. House,21,DEM,Write-in,1
+Warren,Queensbury - Ward 003 003,U.S. House,21,REP,Constantino Anthony,63
+Warren,Queensbury - Ward 003 003,U.S. House,21,REP,Robert J. Smullen,52
+Warren,Queensbury - Ward 003 003,U.S. House,21,,Under Votes,2
+Warren,Queensbury - Ward 003 004,Ballots Cast,,,,184
+Warren,Queensbury - Ward 003 004,Comptroller,,DEM,DiNapoli Thomas P.,33
+Warren,Queensbury - Ward 003 004,Comptroller,,DEM,Drew Warshaw,10
+Warren,Queensbury - Ward 003 004,Comptroller,,DEM,Raj Goyle,9
+Warren,Queensbury - Ward 003 004,Comptroller,,DEM,Write-in,1
+Warren,Queensbury - Ward 003 004,Comptroller,,,Under Votes,5
+Warren,Queensbury - Ward 003 004,U.S. House,21,DEM,Blake Gendebien,34
+Warren,Queensbury - Ward 003 004,U.S. House,21,DEM,Stuart J. Amoriell,20
+Warren,Queensbury - Ward 003 004,U.S. House,21,REP,Constantino Anthony,93
+Warren,Queensbury - Ward 003 004,U.S. House,21,REP,Robert J. Smullen,30
+Warren,Queensbury - Ward 003 004,U.S. House,21,REP,Write-in,1
+Warren,Queensbury - Ward 003 004,U.S. House,21,,Under Votes,4
+Warren,Queensbury - Ward 003 004,U.S. House,21,,Under Votes,2
+Warren,Queensbury - Ward 004 001,Ballots Cast,,,,198
+Warren,Queensbury - Ward 004 001,Comptroller,,DEM,DiNapoli Thomas P.,36
+Warren,Queensbury - Ward 004 001,Comptroller,,DEM,Drew Warshaw,9
+Warren,Queensbury - Ward 004 001,Comptroller,,DEM,Raj Goyle,10
+Warren,Queensbury - Ward 004 001,Comptroller,,DEM,Write-in,1
+Warren,Queensbury - Ward 004 001,Comptroller,,,Under Votes,11
+Warren,Queensbury - Ward 004 001,U.S. House,21,DEM,Blake Gendebien,42
+Warren,Queensbury - Ward 004 001,U.S. House,21,DEM,Stuart J. Amoriell,18
+Warren,Queensbury - Ward 004 001,U.S. House,21,DEM,Write-in,2
+Warren,Queensbury - Ward 004 001,U.S. House,21,REP,Constantino Anthony,71
+Warren,Queensbury - Ward 004 001,U.S. House,21,REP,Robert J. Smullen,57
+Warren,Queensbury - Ward 004 001,U.S. House,21,REP,Write-in,2
+Warren,Queensbury - Ward 004 001,U.S. House,21,,Over Votes,1
+Warren,Queensbury - Ward 004 001,U.S. House,21,,Under Votes,5
+Warren,Queensbury - Ward 004 002,Ballots Cast,,,,220
+Warren,Queensbury - Ward 004 002,Comptroller,,DEM,DiNapoli Thomas P.,66
+Warren,Queensbury - Ward 004 002,Comptroller,,DEM,Drew Warshaw,9
+Warren,Queensbury - Ward 004 002,Comptroller,,DEM,Raj Goyle,5
+Warren,Queensbury - Ward 004 002,Comptroller,,DEM,Write-in,1
+Warren,Queensbury - Ward 004 002,Comptroller,,,Under Votes,7
+Warren,Queensbury - Ward 004 002,U.S. House,21,DEM,Blake Gendebien,58
+Warren,Queensbury - Ward 004 002,U.S. House,21,DEM,Stuart J. Amoriell,27
+Warren,Queensbury - Ward 004 002,U.S. House,21,DEM,Write-in,1
+Warren,Queensbury - Ward 004 002,U.S. House,21,REP,Constantino Anthony,82
+Warren,Queensbury - Ward 004 002,U.S. House,21,REP,Robert J. Smullen,48
+Warren,Queensbury - Ward 004 002,U.S. House,21,REP,Write-in,2
+Warren,Queensbury - Ward 004 002,U.S. House,21,,Under Votes,2
+Warren,Queensbury - Ward 004 003,Ballots Cast,,,,182
+Warren,Queensbury - Ward 004 003,Comptroller,,DEM,DiNapoli Thomas P.,43
+Warren,Queensbury - Ward 004 003,Comptroller,,DEM,Drew Warshaw,11
+Warren,Queensbury - Ward 004 003,Comptroller,,DEM,Raj Goyle,5
+Warren,Queensbury - Ward 004 003,Comptroller,,,Under Votes,7
+Warren,Queensbury - Ward 004 003,U.S. House,21,DEM,Blake Gendebien,38
+Warren,Queensbury - Ward 004 003,U.S. House,21,DEM,Stuart J. Amoriell,25
+Warren,Queensbury - Ward 004 003,U.S. House,21,REP,Constantino Anthony,59
+Warren,Queensbury - Ward 004 003,U.S. House,21,REP,Robert J. Smullen,55
+Warren,Queensbury - Ward 004 003,U.S. House,21,REP,Write-in,2
+Warren,Queensbury - Ward 004 003,U.S. House,21,,Under Votes,3
+Warren,Stony Creek 001,Ballots Cast,,,,115
+Warren,Stony Creek 001,Comptroller,,DEM,DiNapoli Thomas P.,16
+Warren,Stony Creek 001,Comptroller,,DEM,Drew Warshaw,1
+Warren,Stony Creek 001,Comptroller,,,Under Votes,3
+Warren,Stony Creek 001,U.S. House,21,DEM,Blake Gendebien,12
+Warren,Stony Creek 001,U.S. House,21,DEM,Stuart J. Amoriell,7
+Warren,Stony Creek 001,U.S. House,21,REP,Constantino Anthony,65
+Warren,Stony Creek 001,U.S. House,21,REP,Robert J. Smullen,30
+Warren,Stony Creek 001,U.S. House,21,,Under Votes,1
+Warren,Thurman 001,Ballots Cast,,,,131
+Warren,Thurman 001,Comptroller,,DEM,DiNapoli Thomas P.,23
+Warren,Thurman 001,Comptroller,,DEM,Drew Warshaw,5
+Warren,Thurman 001,Comptroller,,DEM,Raj Goyle,5
+Warren,Thurman 001,Comptroller,,,Under Votes,2
+Warren,Thurman 001,U.S. House,21,DEM,Blake Gendebien,14
+Warren,Thurman 001,U.S. House,21,DEM,Stuart J. Amoriell,17
+Warren,Thurman 001,U.S. House,21,REP,Constantino Anthony,79
+Warren,Thurman 001,U.S. House,21,REP,Robert J. Smullen,16
+Warren,Thurman 001,U.S. House,21,REP,Write-in,1
+Warren,Thurman 001,U.S. House,21,,Under Votes,4
+Warren,Warrensburg 001,Ballots Cast,,,,212
+Warren,Warrensburg 001,Comptroller,,DEM,DiNapoli Thomas P.,44
+Warren,Warrensburg 001,Comptroller,,DEM,Drew Warshaw,18
+Warren,Warrensburg 001,Comptroller,,DEM,Raj Goyle,5
+Warren,Warrensburg 001,Comptroller,,,Under Votes,4
+Warren,Warrensburg 001,U.S. House,21,DEM,Blake Gendebien,37
+Warren,Warrensburg 001,U.S. House,21,DEM,Stuart J. Amoriell,32
+Warren,Warrensburg 001,U.S. House,21,REP,Constantino Anthony,96
+Warren,Warrensburg 001,U.S. House,21,REP,Robert J. Smullen,44
+Warren,Warrensburg 001,U.S. House,21,,Over Votes,1
+Warren,Warrensburg 001,U.S. House,21,,Under Votes,2
+Warren,Warrensburg 002,Ballots Cast,,,,209
+Warren,Warrensburg 002,Comptroller,,DEM,DiNapoli Thomas P.,34
+Warren,Warrensburg 002,Comptroller,,DEM,Drew Warshaw,4
+Warren,Warrensburg 002,Comptroller,,DEM,Raj Goyle,7
+Warren,Warrensburg 002,Comptroller,,,Under Votes,9
+Warren,Warrensburg 002,U.S. House,21,DEM,Blake Gendebien,33
+Warren,Warrensburg 002,U.S. House,21,DEM,Stuart J. Amoriell,19
+Warren,Warrensburg 002,U.S. House,21,REP,Constantino Anthony,108
+Warren,Warrensburg 002,U.S. House,21,REP,Robert J. Smullen,46
+Warren,Warrensburg 002,U.S. House,21,REP,Write-in,1
+Warren,Warrensburg 002,U.S. House,21,,Under Votes,2

@@ -1,0 +1,935 @@
+county,precinct,office,district,party,candidate,votes
+Putnam,Carmel 1 LD 9,Ballots Cast,,,,24
+Putnam,Carmel 1 LD 9,Comptroller,,DEM,Drew Warshaw,2
+Putnam,Carmel 1 LD 9,Comptroller,,DEM,Raj Goyle,3
+Putnam,Carmel 1 LD 9,Comptroller,,DEM,Thomas P. DiNapoli,16
+Putnam,Carmel 1 LD 9,Comptroller,,,Over Votes,1
+Putnam,Carmel 1 LD 9,Comptroller,,,Under Votes,2
+Putnam,Carmel 1 LD 9,U.S. House,17,DEM,Beth Davidson,1
+Putnam,Carmel 1 LD 9,U.S. House,17,DEM,Cait Conley,19
+Putnam,Carmel 1 LD 9,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,2
+Putnam,Carmel 1 LD 9,U.S. House,17,DEM,John Cappello,1
+Putnam,Carmel 1 LD 9,U.S. House,17,,Over Votes,1
+Putnam,Carmel 2 LD 5,Ballots Cast,,,,44
+Putnam,Carmel 2 LD 5,Comptroller,,DEM,Drew Warshaw,3
+Putnam,Carmel 2 LD 5,Comptroller,,DEM,Raj Goyle,5
+Putnam,Carmel 2 LD 5,Comptroller,,DEM,Thomas P. DiNapoli,30
+Putnam,Carmel 2 LD 5,Comptroller,,,Under Votes,6
+Putnam,Carmel 2 LD 5,U.S. House,17,DEM,Beth Davidson,3
+Putnam,Carmel 2 LD 5,U.S. House,17,DEM,Cait Conley,36
+Putnam,Carmel 2 LD 5,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,4
+Putnam,Carmel 2 LD 5,U.S. House,17,DEM,John Cappello,1
+Putnam,Carmel 3 LD 9,Ballots Cast,,,,59
+Putnam,Carmel 3 LD 9,Comptroller,,DEM,Drew Warshaw,7
+Putnam,Carmel 3 LD 9,Comptroller,,DEM,Raj Goyle,6
+Putnam,Carmel 3 LD 9,Comptroller,,DEM,Thomas P. DiNapoli,41
+Putnam,Carmel 3 LD 9,Comptroller,,DEM,Write-in,1
+Putnam,Carmel 3 LD 9,Comptroller,,,Under Votes,2
+Putnam,Carmel 3 LD 9,U.S. House,17,DEM,Beth Davidson,9
+Putnam,Carmel 3 LD 9,U.S. House,17,DEM,Cait Conley,37
+Putnam,Carmel 3 LD 9,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,12
+Putnam,Carmel 3 LD 9,U.S. House,17,DEM,John Cappello,1
+Putnam,Carmel 4 LD 9,Ballots Cast,,,,25
+Putnam,Carmel 4 LD 9,Comptroller,,DEM,Drew Warshaw,4
+Putnam,Carmel 4 LD 9,Comptroller,,DEM,Raj Goyle,5
+Putnam,Carmel 4 LD 9,Comptroller,,DEM,Thomas P. DiNapoli,14
+Putnam,Carmel 4 LD 9,Comptroller,,,Under Votes,2
+Putnam,Carmel 4 LD 9,U.S. House,17,DEM,Beth Davidson,4
+Putnam,Carmel 4 LD 9,U.S. House,17,DEM,Cait Conley,18
+Putnam,Carmel 4 LD 9,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,3
+Putnam,Carmel 5 LD 8,Ballots Cast,,,,176
+Putnam,Carmel 5 LD 8,Comptroller,,DEM,Drew Warshaw,11
+Putnam,Carmel 5 LD 8,Comptroller,,DEM,Raj Goyle,6
+Putnam,Carmel 5 LD 8,Comptroller,,DEM,Thomas P. DiNapoli,45
+Putnam,Carmel 5 LD 8,Comptroller,,,Under Votes,5
+Putnam,Carmel 5 LD 8,County Legislator,8,REP,Frank D. Lombardi,22
+Putnam,Carmel 5 LD 8,County Legislator,8,REP,Tanner McCracken,86
+Putnam,Carmel 5 LD 8,County Legislator,8,REP,Write-in,1
+Putnam,Carmel 5 LD 8,U.S. House,17,DEM,Beth Davidson,10
+Putnam,Carmel 5 LD 8,U.S. House,17,DEM,Cait Conley,41
+Putnam,Carmel 5 LD 8,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,12
+Putnam,Carmel 5 LD 8,U.S. House,17,DEM,John Cappello,4
+Putnam,Carmel 6 LD 9,Ballots Cast,,,,22
+Putnam,Carmel 6 LD 9,Comptroller,,DEM,Raj Goyle,4
+Putnam,Carmel 6 LD 9,Comptroller,,DEM,Thomas P. DiNapoli,18
+Putnam,Carmel 6 LD 9,U.S. House,17,DEM,Beth Davidson,5
+Putnam,Carmel 6 LD 9,U.S. House,17,DEM,Cait Conley,14
+Putnam,Carmel 6 LD 9,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,3
+Putnam,Carmel 7 LD 7,Ballots Cast,,,,51
+Putnam,Carmel 7 LD 7,Comptroller,,DEM,Drew Warshaw,6
+Putnam,Carmel 7 LD 7,Comptroller,,DEM,Raj Goyle,7
+Putnam,Carmel 7 LD 7,Comptroller,,DEM,Thomas P. DiNapoli,35
+Putnam,Carmel 7 LD 7,Comptroller,,,Under Votes,3
+Putnam,Carmel 7 LD 7,U.S. House,17,DEM,Beth Davidson,12
+Putnam,Carmel 7 LD 7,U.S. House,17,DEM,Cait Conley,26
+Putnam,Carmel 7 LD 7,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,10
+Putnam,Carmel 7 LD 7,U.S. House,17,DEM,John Cappello,1
+Putnam,Carmel 7 LD 7,U.S. House,17,,Over Votes,1
+Putnam,Carmel 7 LD 7,U.S. House,17,,Under Votes,1
+Putnam,Carmel 8 LD 5,Ballots Cast,,,,64
+Putnam,Carmel 8 LD 5,Comptroller,,DEM,Drew Warshaw,8
+Putnam,Carmel 8 LD 5,Comptroller,,DEM,Raj Goyle,16
+Putnam,Carmel 8 LD 5,Comptroller,,DEM,Thomas P. DiNapoli,37
+Putnam,Carmel 8 LD 5,Comptroller,,,Under Votes,3
+Putnam,Carmel 8 LD 5,U.S. House,17,DEM,Beth Davidson,7
+Putnam,Carmel 8 LD 5,U.S. House,17,DEM,Cait Conley,37
+Putnam,Carmel 8 LD 5,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,18
+Putnam,Carmel 8 LD 5,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Carmel 8 LD 5,U.S. House,17,,Under Votes,1
+Putnam,Carmel 9 LD 5,Ballots Cast,,,,83
+Putnam,Carmel 9 LD 5,Comptroller,,DEM,Drew Warshaw,16
+Putnam,Carmel 9 LD 5,Comptroller,,DEM,Raj Goyle,5
+Putnam,Carmel 9 LD 5,Comptroller,,DEM,Thomas P. DiNapoli,56
+Putnam,Carmel 9 LD 5,Comptroller,,,Under Votes,6
+Putnam,Carmel 9 LD 5,U.S. House,17,DEM,Beth Davidson,20
+Putnam,Carmel 9 LD 5,U.S. House,17,DEM,Cait Conley,46
+Putnam,Carmel 9 LD 5,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,12
+Putnam,Carmel 9 LD 5,U.S. House,17,DEM,John Cappello,2
+Putnam,Carmel 9 LD 5,U.S. House,17,DEM,Michael Sacks,2
+Putnam,Carmel 9 LD 5,U.S. House,17,,Over Votes,1
+Putnam,Carmel 10 LD 7,Ballots Cast,,,,24
+Putnam,Carmel 10 LD 7,Comptroller,,DEM,Drew Warshaw,6
+Putnam,Carmel 10 LD 7,Comptroller,,DEM,Raj Goyle,1
+Putnam,Carmel 10 LD 7,Comptroller,,DEM,Thomas P. DiNapoli,16
+Putnam,Carmel 10 LD 7,Comptroller,,,Under Votes,1
+Putnam,Carmel 10 LD 7,U.S. House,17,DEM,Beth Davidson,3
+Putnam,Carmel 10 LD 7,U.S. House,17,DEM,Cait Conley,16
+Putnam,Carmel 10 LD 7,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,5
+Putnam,Carmel 11 LD 8,Ballots Cast,,,,82
+Putnam,Carmel 11 LD 8,Comptroller,,DEM,Drew Warshaw,4
+Putnam,Carmel 11 LD 8,Comptroller,,DEM,Raj Goyle,1
+Putnam,Carmel 11 LD 8,Comptroller,,DEM,Thomas P. DiNapoli,20
+Putnam,Carmel 11 LD 8,Comptroller,,,Under Votes,2
+Putnam,Carmel 11 LD 8,County Legislator,8,REP,Frank D. Lombardi,14
+Putnam,Carmel 11 LD 8,County Legislator,8,REP,Tanner McCracken,41
+Putnam,Carmel 11 LD 8,U.S. House,17,DEM,Cait Conley,22
+Putnam,Carmel 11 LD 8,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,4
+Putnam,Carmel 11 LD 8,U.S. House,17,DEM,John Cappello,1
+Putnam,Carmel 12 LD 9,Ballots Cast,,,,28
+Putnam,Carmel 12 LD 9,Comptroller,,DEM,Drew Warshaw,3
+Putnam,Carmel 12 LD 9,Comptroller,,DEM,Raj Goyle,4
+Putnam,Carmel 12 LD 9,Comptroller,,DEM,Thomas P. DiNapoli,19
+Putnam,Carmel 12 LD 9,Comptroller,,,Under Votes,2
+Putnam,Carmel 12 LD 9,U.S. House,17,DEM,Beth Davidson,7
+Putnam,Carmel 12 LD 9,U.S. House,17,DEM,Cait Conley,18
+Putnam,Carmel 12 LD 9,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,3
+Putnam,Carmel 13 LD 8,Ballots Cast,,,,129
+Putnam,Carmel 13 LD 8,Comptroller,,DEM,Drew Warshaw,1
+Putnam,Carmel 13 LD 8,Comptroller,,DEM,Raj Goyle,6
+Putnam,Carmel 13 LD 8,Comptroller,,DEM,Thomas P. DiNapoli,20
+Putnam,Carmel 13 LD 8,Comptroller,,,Under Votes,6
+Putnam,Carmel 13 LD 8,County Legislator,8,REP,Frank D. Lombardi,27
+Putnam,Carmel 13 LD 8,County Legislator,8,REP,Tanner McCracken,67
+Putnam,Carmel 13 LD 8,County Legislator,8,,Over Votes,2
+Putnam,Carmel 13 LD 8,U.S. House,17,DEM,Beth Davidson,3
+Putnam,Carmel 13 LD 8,U.S. House,17,DEM,Cait Conley,22
+Putnam,Carmel 13 LD 8,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,3
+Putnam,Carmel 13 LD 8,U.S. House,17,DEM,John Cappello,2
+Putnam,Carmel 13 LD 8,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Carmel 13 LD 8,U.S. House,17,,Under Votes,2
+Putnam,Carmel 14 LD 5,Ballots Cast,,,,65
+Putnam,Carmel 14 LD 5,Comptroller,,DEM,Drew Warshaw,7
+Putnam,Carmel 14 LD 5,Comptroller,,DEM,Raj Goyle,7
+Putnam,Carmel 14 LD 5,Comptroller,,DEM,Thomas P. DiNapoli,46
+Putnam,Carmel 14 LD 5,Comptroller,,,Under Votes,5
+Putnam,Carmel 14 LD 5,U.S. House,17,DEM,Beth Davidson,15
+Putnam,Carmel 14 LD 5,U.S. House,17,DEM,Cait Conley,35
+Putnam,Carmel 14 LD 5,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,13
+Putnam,Carmel 14 LD 5,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Carmel 14 LD 5,U.S. House,17,,Under Votes,1
+Putnam,Carmel 15 LD 8,Ballots Cast,,,,67
+Putnam,Carmel 15 LD 8,Comptroller,,DEM,Drew Warshaw,2
+Putnam,Carmel 15 LD 8,Comptroller,,DEM,Raj Goyle,1
+Putnam,Carmel 15 LD 8,Comptroller,,DEM,Thomas P. DiNapoli,20
+Putnam,Carmel 15 LD 8,Comptroller,,DEM,Write-in,1
+Putnam,Carmel 15 LD 8,County Legislator,8,REP,Frank D. Lombardi,17
+Putnam,Carmel 15 LD 8,County Legislator,8,REP,Tanner McCracken,26
+Putnam,Carmel 15 LD 8,U.S. House,17,DEM,Beth Davidson,3
+Putnam,Carmel 15 LD 8,U.S. House,17,DEM,Cait Conley,11
+Putnam,Carmel 15 LD 8,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,5
+Putnam,Carmel 15 LD 8,U.S. House,17,DEM,John Cappello,1
+Putnam,Carmel 15 LD 8,U.S. House,17,DEM,Write-in,1
+Putnam,Carmel 15 LD 8,U.S. House,17,,Under Votes,3
+Putnam,Carmel 16 LD 9,Ballots Cast,,,,27
+Putnam,Carmel 16 LD 9,Comptroller,,DEM,Drew Warshaw,1
+Putnam,Carmel 16 LD 9,Comptroller,,DEM,Raj Goyle,4
+Putnam,Carmel 16 LD 9,Comptroller,,DEM,Thomas P. DiNapoli,21
+Putnam,Carmel 16 LD 9,Comptroller,,,Under Votes,1
+Putnam,Carmel 16 LD 9,U.S. House,17,DEM,Beth Davidson,10
+Putnam,Carmel 16 LD 9,U.S. House,17,DEM,Cait Conley,14
+Putnam,Carmel 16 LD 9,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,3
+Putnam,Carmel 17 LD 8,Ballots Cast,,,,75
+Putnam,Carmel 17 LD 8,Comptroller,,DEM,Drew Warshaw,2
+Putnam,Carmel 17 LD 8,Comptroller,,DEM,Raj Goyle,1
+Putnam,Carmel 17 LD 8,Comptroller,,DEM,Thomas P. DiNapoli,19
+Putnam,Carmel 17 LD 8,Comptroller,,,Under Votes,1
+Putnam,Carmel 17 LD 8,County Legislator,8,REP,Frank D. Lombardi,15
+Putnam,Carmel 17 LD 8,County Legislator,8,REP,Tanner McCracken,37
+Putnam,Carmel 17 LD 8,U.S. House,17,DEM,Beth Davidson,4
+Putnam,Carmel 17 LD 8,U.S. House,17,DEM,Cait Conley,14
+Putnam,Carmel 17 LD 8,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,3
+Putnam,Carmel 17 LD 8,U.S. House,17,DEM,John Cappello,1
+Putnam,Carmel 17 LD 8,U.S. House,17,,Over Votes,1
+Putnam,Carmel 18 LD 8,Ballots Cast,,,,127
+Putnam,Carmel 18 LD 8,Comptroller,,DEM,Drew Warshaw,7
+Putnam,Carmel 18 LD 8,Comptroller,,DEM,Raj Goyle,6
+Putnam,Carmel 18 LD 8,Comptroller,,DEM,Thomas P. DiNapoli,38
+Putnam,Carmel 18 LD 8,Comptroller,,,Under Votes,1
+Putnam,Carmel 18 LD 8,County Legislator,8,REP,Frank D. Lombardi,19
+Putnam,Carmel 18 LD 8,County Legislator,8,REP,Tanner McCracken,56
+Putnam,Carmel 18 LD 8,U.S. House,17,DEM,Beth Davidson,15
+Putnam,Carmel 18 LD 8,U.S. House,17,DEM,Cait Conley,27
+Putnam,Carmel 18 LD 8,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,9
+Putnam,Carmel 18 LD 8,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Carmel 19 LD 9,Ballots Cast,,,,67
+Putnam,Carmel 19 LD 9,Comptroller,,DEM,Drew Warshaw,13
+Putnam,Carmel 19 LD 9,Comptroller,,DEM,Raj Goyle,4
+Putnam,Carmel 19 LD 9,Comptroller,,DEM,Thomas P. DiNapoli,42
+Putnam,Carmel 19 LD 9,Comptroller,,,Under Votes,7
+Putnam,Carmel 19 LD 9,U.S. House,17,DEM,Beth Davidson,12
+Putnam,Carmel 19 LD 9,U.S. House,17,DEM,Cait Conley,40
+Putnam,Carmel 19 LD 9,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,14
+Putnam,Carmel 19 LD 9,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Carmel 20 LD 5,Ballots Cast,,,,65
+Putnam,Carmel 20 LD 5,Comptroller,,DEM,Drew Warshaw,8
+Putnam,Carmel 20 LD 5,Comptroller,,DEM,Raj Goyle,5
+Putnam,Carmel 20 LD 5,Comptroller,,DEM,Thomas P. DiNapoli,49
+Putnam,Carmel 20 LD 5,Comptroller,,,Under Votes,3
+Putnam,Carmel 20 LD 5,U.S. House,17,DEM,Beth Davidson,9
+Putnam,Carmel 20 LD 5,U.S. House,17,DEM,Cait Conley,41
+Putnam,Carmel 20 LD 5,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,13
+Putnam,Carmel 20 LD 5,U.S. House,17,DEM,Michael Sacks,2
+Putnam,Carmel 21 LD 9,Ballots Cast,,,,22
+Putnam,Carmel 21 LD 9,Comptroller,,DEM,Drew Warshaw,4
+Putnam,Carmel 21 LD 9,Comptroller,,DEM,Raj Goyle,4
+Putnam,Carmel 21 LD 9,Comptroller,,DEM,Thomas P. DiNapoli,14
+Putnam,Carmel 21 LD 9,U.S. House,17,DEM,Beth Davidson,7
+Putnam,Carmel 21 LD 9,U.S. House,17,DEM,Cait Conley,9
+Putnam,Carmel 21 LD 9,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,5
+Putnam,Carmel 21 LD 9,U.S. House,17,DEM,John Cappello,1
+Putnam,Carmel 22 LD 7,Ballots Cast,,,,36
+Putnam,Carmel 22 LD 7,Comptroller,,DEM,Drew Warshaw,4
+Putnam,Carmel 22 LD 7,Comptroller,,DEM,Raj Goyle,4
+Putnam,Carmel 22 LD 7,Comptroller,,DEM,Thomas P. DiNapoli,22
+Putnam,Carmel 22 LD 7,Comptroller,,DEM,Write-in,1
+Putnam,Carmel 22 LD 7,Comptroller,,,Under Votes,5
+Putnam,Carmel 22 LD 7,U.S. House,17,DEM,Beth Davidson,4
+Putnam,Carmel 22 LD 7,U.S. House,17,DEM,Cait Conley,24
+Putnam,Carmel 22 LD 7,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,6
+Putnam,Carmel 22 LD 7,U.S. House,17,DEM,John Cappello,1
+Putnam,Carmel 22 LD 7,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Carmel 23 LD 8,Ballots Cast,,,,158
+Putnam,Carmel 23 LD 8,Comptroller,,DEM,Drew Warshaw,1
+Putnam,Carmel 23 LD 8,Comptroller,,DEM,Raj Goyle,7
+Putnam,Carmel 23 LD 8,Comptroller,,DEM,Thomas P. DiNapoli,38
+Putnam,Carmel 23 LD 8,Comptroller,,,Under Votes,3
+Putnam,Carmel 23 LD 8,County Legislator,8,REP,Frank D. Lombardi,28
+Putnam,Carmel 23 LD 8,County Legislator,8,REP,Tanner McCracken,81
+Putnam,Carmel 23 LD 8,U.S. House,17,DEM,Beth Davidson,11
+Putnam,Carmel 23 LD 8,U.S. House,17,DEM,Cait Conley,31
+Putnam,Carmel 23 LD 8,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,5
+Putnam,Carmel 23 LD 8,U.S. House,17,DEM,John Cappello,1
+Putnam,Carmel 23 LD 8,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Carmel 24 LD 8,Ballots Cast,,,,119
+Putnam,Carmel 24 LD 8,Comptroller,,DEM,Raj Goyle,3
+Putnam,Carmel 24 LD 8,Comptroller,,DEM,Thomas P. DiNapoli,30
+Putnam,Carmel 24 LD 8,County Legislator,8,REP,Frank D. Lombardi,20
+Putnam,Carmel 24 LD 8,County Legislator,8,REP,Tanner McCracken,66
+Putnam,Carmel 24 LD 8,U.S. House,17,DEM,Beth Davidson,4
+Putnam,Carmel 24 LD 8,U.S. House,17,DEM,Cait Conley,23
+Putnam,Carmel 24 LD 8,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,3
+Putnam,Carmel 24 LD 8,U.S. House,17,DEM,John Cappello,2
+Putnam,Carmel 24 LD 8,U.S. House,17,,Under Votes,1
+Putnam,Carmel 25 LD 9,Ballots Cast,,,,31
+Putnam,Carmel 25 LD 9,Comptroller,,DEM,Drew Warshaw,5
+Putnam,Carmel 25 LD 9,Comptroller,,DEM,Raj Goyle,6
+Putnam,Carmel 25 LD 9,Comptroller,,DEM,Thomas P. DiNapoli,19
+Putnam,Carmel 25 LD 9,Comptroller,,,Under Votes,1
+Putnam,Carmel 25 LD 9,U.S. House,17,DEM,Beth Davidson,12
+Putnam,Carmel 25 LD 9,U.S. House,17,DEM,Cait Conley,11
+Putnam,Carmel 25 LD 9,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,5
+Putnam,Carmel 25 LD 9,U.S. House,17,DEM,John Cappello,1
+Putnam,Carmel 25 LD 9,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Carmel 25 LD 9,U.S. House,17,,Under Votes,1
+Putnam,Carmel 26 LD 8,Ballots Cast,,,,157
+Putnam,Carmel 26 LD 8,Comptroller,,DEM,Drew Warshaw,6
+Putnam,Carmel 26 LD 8,Comptroller,,DEM,Raj Goyle,4
+Putnam,Carmel 26 LD 8,Comptroller,,DEM,Thomas P. DiNapoli,25
+Putnam,Carmel 26 LD 8,Comptroller,,,Under Votes,1
+Putnam,Carmel 26 LD 8,County Legislator,8,REP,Frank D. Lombardi,20
+Putnam,Carmel 26 LD 8,County Legislator,8,REP,Tanner McCracken,101
+Putnam,Carmel 26 LD 8,U.S. House,17,DEM,Beth Davidson,4
+Putnam,Carmel 26 LD 8,U.S. House,17,DEM,Cait Conley,24
+Putnam,Carmel 26 LD 8,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,7
+Putnam,Carmel 26 LD 8,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Carmel 27 LD 9,Ballots Cast,,,,31
+Putnam,Carmel 27 LD 9,Comptroller,,DEM,Drew Warshaw,8
+Putnam,Carmel 27 LD 9,Comptroller,,DEM,Raj Goyle,1
+Putnam,Carmel 27 LD 9,Comptroller,,DEM,Thomas P. DiNapoli,21
+Putnam,Carmel 27 LD 9,Comptroller,,,Under Votes,1
+Putnam,Carmel 27 LD 9,U.S. House,17,DEM,Beth Davidson,8
+Putnam,Carmel 27 LD 9,U.S. House,17,DEM,Cait Conley,21
+Putnam,Carmel 27 LD 9,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,2
+Putnam,Carmel 28 LD 8,Ballots Cast,,,,70
+Putnam,Carmel 28 LD 8,Comptroller,,DEM,Drew Warshaw,2
+Putnam,Carmel 28 LD 8,Comptroller,,DEM,Raj Goyle,2
+Putnam,Carmel 28 LD 8,Comptroller,,DEM,Thomas P. DiNapoli,17
+Putnam,Carmel 28 LD 8,County Legislator,8,REP,Frank D. Lombardi,18
+Putnam,Carmel 28 LD 8,County Legislator,8,REP,Tanner McCracken,31
+Putnam,Carmel 28 LD 8,U.S. House,17,DEM,Beth Davidson,7
+Putnam,Carmel 28 LD 8,U.S. House,17,DEM,Cait Conley,11
+Putnam,Carmel 28 LD 8,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,3
+Putnam,Kent 1 LD 3,Ballots Cast,,,,169
+Putnam,Kent 1 LD 3,Comptroller,,DEM,Drew Warshaw,9
+Putnam,Kent 1 LD 3,Comptroller,,DEM,Raj Goyle,8
+Putnam,Kent 1 LD 3,Comptroller,,DEM,Thomas P. DiNapoli,83
+Putnam,Kent 1 LD 3,Comptroller,,DEM,Write-in,1
+Putnam,Kent 1 LD 3,Comptroller,,,Under Votes,7
+Putnam,Kent 1 LD 3,County Legislator,3,REP,Jorma J. Tompuri,23
+Putnam,Kent 1 LD 3,County Legislator,3,REP,Joseph Cunningham,37
+Putnam,Kent 1 LD 3,County Legislator,3,REP,Write-in,1
+Putnam,Kent 1 LD 3,"Member of County Committee, Town of Kent - ED 1",,DEM,Anna C. Walsh,77
+Putnam,Kent 1 LD 3,"Member of County Committee, Town of Kent - ED 1",,DEM,Kathleen M. Valletta-McMorrow,87
+Putnam,Kent 1 LD 3,"Member of County Committee, Town of Kent - ED 1",,DEM,Louis Epstein,10
+Putnam,Kent 1 LD 3,"Member of County Committee, Town of Kent - ED 1",,DEM,Robin A. Fillhart,85
+Putnam,Kent 1 LD 3,"Member of County Committee, Town of Kent - ED 1",,,Over Votes,3
+Putnam,Kent 1 LD 3,"Member of County Committee, Town of Kent - ED 1",,,Under Votes,62
+Putnam,Kent 1 LD 3,U.S. House,17,DEM,Beth Davidson,16
+Putnam,Kent 1 LD 3,U.S. House,17,DEM,Cait Conley,76
+Putnam,Kent 1 LD 3,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,10
+Putnam,Kent 1 LD 3,U.S. House,17,DEM,John Cappello,1
+Putnam,Kent 1 LD 3,U.S. House,17,DEM,Michael Sacks,4
+Putnam,Kent 1 LD 3,U.S. House,17,,Under Votes,1
+Putnam,Kent 2 LD 3,Ballots Cast,,,,155
+Putnam,Kent 2 LD 3,Comptroller,,DEM,Drew Warshaw,14
+Putnam,Kent 2 LD 3,Comptroller,,DEM,Raj Goyle,8
+Putnam,Kent 2 LD 3,Comptroller,,DEM,Thomas P. DiNapoli,44
+Putnam,Kent 2 LD 3,Comptroller,,,Under Votes,7
+Putnam,Kent 2 LD 3,County Legislator,3,REP,Jorma J. Tompuri,34
+Putnam,Kent 2 LD 3,County Legislator,3,REP,Joseph Cunningham,47
+Putnam,Kent 2 LD 3,County Legislator,3,REP,Write-in,1
+Putnam,Kent 2 LD 3,U.S. House,17,DEM,Beth Davidson,13
+Putnam,Kent 2 LD 3,U.S. House,17,DEM,Cait Conley,52
+Putnam,Kent 2 LD 3,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,7
+Putnam,Kent 2 LD 3,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Kent 3 LD 5,Ballots Cast,,,,23
+Putnam,Kent 3 LD 5,Comptroller,,DEM,Drew Warshaw,3
+Putnam,Kent 3 LD 5,Comptroller,,DEM,Raj Goyle,2
+Putnam,Kent 3 LD 5,Comptroller,,DEM,Thomas P. DiNapoli,16
+Putnam,Kent 3 LD 5,U.S. House,17,DEM,Beth Davidson,8
+Putnam,Kent 3 LD 5,U.S. House,17,DEM,Cait Conley,8
+Putnam,Kent 3 LD 5,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,6
+Putnam,Kent 3 LD 5,U.S. House,17,,Under Votes,1
+Putnam,Kent 4 LD 3,Ballots Cast,,,,35
+Putnam,Kent 4 LD 3,Comptroller,,DEM,Drew Warshaw,9
+Putnam,Kent 4 LD 3,Comptroller,,DEM,Raj Goyle,3
+Putnam,Kent 4 LD 3,Comptroller,,DEM,Thomas P. DiNapoli,8
+Putnam,Kent 4 LD 3,County Legislator,3,REP,Jorma J. Tompuri,3
+Putnam,Kent 4 LD 3,County Legislator,3,REP,Joseph Cunningham,12
+Putnam,Kent 4 LD 3,U.S. House,17,DEM,Beth Davidson,3
+Putnam,Kent 4 LD 3,U.S. House,17,DEM,Cait Conley,12
+Putnam,Kent 4 LD 3,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,5
+Putnam,Kent 5 LD 5,Ballots Cast,,,,91
+Putnam,Kent 5 LD 5,Comptroller,,DEM,Drew Warshaw,3
+Putnam,Kent 5 LD 5,Comptroller,,DEM,Raj Goyle,6
+Putnam,Kent 5 LD 5,Comptroller,,DEM,Thomas P. DiNapoli,34
+Putnam,Kent 5 LD 5,Comptroller,,,Under Votes,5
+Putnam,Kent 5 LD 5,"Member of County Committee, Town of Kent - ED 5",,REP,Edward J. Kearns,21
+Putnam,Kent 5 LD 5,"Member of County Committee, Town of Kent - ED 5",,REP,Michele Netter,33
+Putnam,Kent 5 LD 5,"Member of County Committee, Town of Kent - ED 5",,REP,Noreen Greco,33
+Putnam,Kent 5 LD 5,"Member of County Committee, Town of Kent - ED 5",,REP,Tanya M. Brahimi,8
+Putnam,Kent 5 LD 5,"Member of County Committee, Town of Kent - ED 5",,REP,Thomas R. Broderick,35
+Putnam,Kent 5 LD 5,"Member of County Committee, Town of Kent - ED 5",,,Under Votes,42
+Putnam,Kent 5 LD 5,U.S. House,17,DEM,Beth Davidson,6
+Putnam,Kent 5 LD 5,U.S. House,17,DEM,Cait Conley,30
+Putnam,Kent 5 LD 5,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,8
+Putnam,Kent 5 LD 5,U.S. House,17,DEM,John Cappello,2
+Putnam,Kent 5 LD 5,U.S. House,17,DEM,Michael Sacks,2
+Putnam,Kent 6 LD 3,Ballots Cast,,,,121
+Putnam,Kent 6 LD 3,Comptroller,,DEM,Drew Warshaw,9
+Putnam,Kent 6 LD 3,Comptroller,,DEM,Raj Goyle,11
+Putnam,Kent 6 LD 3,Comptroller,,DEM,Thomas P. DiNapoli,27
+Putnam,Kent 6 LD 3,Comptroller,,,Under Votes,2
+Putnam,Kent 6 LD 3,County Legislator,3,REP,Jorma J. Tompuri,24
+Putnam,Kent 6 LD 3,County Legislator,3,REP,Joseph Cunningham,47
+Putnam,Kent 6 LD 3,County Legislator,3,,Over Votes,1
+Putnam,Kent 6 LD 3,U.S. House,17,DEM,Beth Davidson,6
+Putnam,Kent 6 LD 3,U.S. House,17,DEM,Cait Conley,24
+Putnam,Kent 6 LD 3,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,9
+Putnam,Kent 6 LD 3,U.S. House,17,DEM,John Cappello,5
+Putnam,Kent 6 LD 3,U.S. House,17,DEM,Michael Sacks,4
+Putnam,Kent 6 LD 3,U.S. House,17,,Over Votes,1
+Putnam,Kent 7 LD 3,Ballots Cast,,,,106
+Putnam,Kent 7 LD 3,Comptroller,,DEM,Drew Warshaw,11
+Putnam,Kent 7 LD 3,Comptroller,,DEM,Raj Goyle,7
+Putnam,Kent 7 LD 3,Comptroller,,DEM,Thomas P. DiNapoli,42
+Putnam,Kent 7 LD 3,County Legislator,3,REP,Jorma J. Tompuri,16
+Putnam,Kent 7 LD 3,County Legislator,3,REP,Joseph Cunningham,30
+Putnam,Kent 7 LD 3,U.S. House,17,DEM,Beth Davidson,13
+Putnam,Kent 7 LD 3,U.S. House,17,DEM,Cait Conley,32
+Putnam,Kent 7 LD 3,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,14
+Putnam,Kent 7 LD 3,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Kent 8 LD 3,Ballots Cast,,,,200
+Putnam,Kent 8 LD 3,Comptroller,,DEM,Drew Warshaw,17
+Putnam,Kent 8 LD 3,Comptroller,,DEM,Raj Goyle,15
+Putnam,Kent 8 LD 3,Comptroller,,DEM,Thomas P. DiNapoli,109
+Putnam,Kent 8 LD 3,Comptroller,,DEM,Write-in,1
+Putnam,Kent 8 LD 3,Comptroller,,,Under Votes,6
+Putnam,Kent 8 LD 3,County Legislator,3,REP,Jorma J. Tompuri,23
+Putnam,Kent 8 LD 3,County Legislator,3,REP,Joseph Cunningham,24
+Putnam,Kent 8 LD 3,County Legislator,3,REP,Write-in,1
+Putnam,Kent 8 LD 3,County Legislator,3,,Over Votes,1
+Putnam,Kent 8 LD 3,U.S. House,17,DEM,Beth Davidson,27
+Putnam,Kent 8 LD 3,U.S. House,17,DEM,Cait Conley,98
+Putnam,Kent 8 LD 3,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,21
+Putnam,Kent 8 LD 3,U.S. House,17,DEM,John Cappello,1
+Putnam,Kent 8 LD 3,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Kent 8 LD 3,U.S. House,17,,Under Votes,3
+Putnam,Kent 9 LD 5,Ballots Cast,,,,34
+Putnam,Kent 9 LD 5,Comptroller,,DEM,Drew Warshaw,5
+Putnam,Kent 9 LD 5,Comptroller,,DEM,Raj Goyle,4
+Putnam,Kent 9 LD 5,Comptroller,,DEM,Thomas P. DiNapoli,25
+Putnam,Kent 9 LD 5,U.S. House,17,DEM,Beth Davidson,8
+Putnam,Kent 9 LD 5,U.S. House,17,DEM,Cait Conley,20
+Putnam,Kent 9 LD 5,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,5
+Putnam,Kent 9 LD 5,U.S. House,17,,Under Votes,1
+Putnam,Kent 10 LD 3,Ballots Cast,,,,76
+Putnam,Kent 10 LD 3,Comptroller,,DEM,Drew Warshaw,5
+Putnam,Kent 10 LD 3,Comptroller,,DEM,Raj Goyle,4
+Putnam,Kent 10 LD 3,Comptroller,,DEM,Thomas P. DiNapoli,27
+Putnam,Kent 10 LD 3,County Legislator,3,REP,Jorma J. Tompuri,6
+Putnam,Kent 10 LD 3,County Legislator,3,REP,Joseph Cunningham,34
+Putnam,Kent 10 LD 3,U.S. House,17,DEM,Beth Davidson,13
+Putnam,Kent 10 LD 3,U.S. House,17,DEM,Cait Conley,18
+Putnam,Kent 10 LD 3,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,5
+Putnam,Kent 11 LD 3,Ballots Cast,,,,80
+Putnam,Kent 11 LD 3,Comptroller,,DEM,Drew Warshaw,8
+Putnam,Kent 11 LD 3,Comptroller,,DEM,Raj Goyle,5
+Putnam,Kent 11 LD 3,Comptroller,,DEM,Thomas P. DiNapoli,16
+Putnam,Kent 11 LD 3,County Legislator,3,REP,Jorma J. Tompuri,21
+Putnam,Kent 11 LD 3,County Legislator,3,REP,Joseph Cunningham,30
+Putnam,Kent 11 LD 3,U.S. House,17,DEM,Beth Davidson,7
+Putnam,Kent 11 LD 3,U.S. House,17,DEM,Cait Conley,12
+Putnam,Kent 11 LD 3,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,8
+Putnam,Kent 11 LD 3,U.S. House,17,DEM,John Cappello,1
+Putnam,Kent 11 LD 3,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Patterson 1 LD 4,Ballots Cast,,,,84
+Putnam,Patterson 1 LD 4,Comptroller,,DEM,Drew Warshaw,8
+Putnam,Patterson 1 LD 4,Comptroller,,DEM,Raj Goyle,6
+Putnam,Patterson 1 LD 4,Comptroller,,DEM,Thomas P. DiNapoli,26
+Putnam,Patterson 1 LD 4,Comptroller,,,Under Votes,2
+Putnam,Patterson 1 LD 4,"Member of County Committee, Town of Patterson - ED 1",,REP,Andrew DeStefano,30
+Putnam,Patterson 1 LD 4,"Member of County Committee, Town of Patterson - ED 1",,REP,Anthony Acosta,23
+Putnam,Patterson 1 LD 4,"Member of County Committee, Town of Patterson - ED 1",,REP,Craig T. Bumgarner,14
+Putnam,Patterson 1 LD 4,"Member of County Committee, Town of Patterson - ED 1",,REP,Edgar J. Mangual,19
+Putnam,Patterson 1 LD 4,"Member of County Committee, Town of Patterson - ED 1",,REP,Paul W. Zazzero,22
+Putnam,Patterson 1 LD 4,"Member of County Committee, Town of Patterson - ED 1",,REP,Peter W. Muentener,12
+Putnam,Patterson 1 LD 4,"Member of County Committee, Town of Patterson - ED 1",,REP,Robert J. McCarthy,14
+Putnam,Patterson 1 LD 4,"Member of County Committee, Town of Patterson - ED 1",,REP,Shawn E. Rogan,15
+Putnam,Patterson 1 LD 4,"Member of County Committee, Town of Patterson - ED 1",,REP,Write-in,4
+Putnam,Patterson 1 LD 4,"Member of County Committee, Town of Patterson - ED 1",,,Under Votes,15
+Putnam,Patterson 1 LD 4,U.S. House,17,DEM,Beth Davidson,10
+Putnam,Patterson 1 LD 4,U.S. House,17,DEM,Cait Conley,19
+Putnam,Patterson 1 LD 4,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,12
+Putnam,Patterson 1 LD 4,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Patterson 2 LD 4,Ballots Cast,,,,53
+Putnam,Patterson 2 LD 4,Comptroller,,DEM,Drew Warshaw,11
+Putnam,Patterson 2 LD 4,Comptroller,,DEM,Raj Goyle,5
+Putnam,Patterson 2 LD 4,Comptroller,,DEM,Thomas P. DiNapoli,36
+Putnam,Patterson 2 LD 4,Comptroller,,,Under Votes,1
+Putnam,Patterson 2 LD 4,U.S. House,17,DEM,Beth Davidson,18
+Putnam,Patterson 2 LD 4,U.S. House,17,DEM,Cait Conley,24
+Putnam,Patterson 2 LD 4,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,7
+Putnam,Patterson 2 LD 4,U.S. House,17,DEM,John Cappello,2
+Putnam,Patterson 2 LD 4,U.S. House,17,DEM,Michael Sacks,2
+Putnam,Patterson 3 LD 4,Ballots Cast,,,,88
+Putnam,Patterson 3 LD 4,Comptroller,,DEM,Drew Warshaw,12
+Putnam,Patterson 3 LD 4,Comptroller,,DEM,Raj Goyle,12
+Putnam,Patterson 3 LD 4,Comptroller,,DEM,Thomas P. DiNapoli,54
+Putnam,Patterson 3 LD 4,Comptroller,,,Under Votes,10
+Putnam,Patterson 3 LD 4,U.S. House,17,DEM,Beth Davidson,18
+Putnam,Patterson 3 LD 4,U.S. House,17,DEM,Cait Conley,54
+Putnam,Patterson 3 LD 4,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,15
+Putnam,Patterson 3 LD 4,U.S. House,17,,Under Votes,1
+Putnam,Patterson 4 LD 4,Ballots Cast,,,,47
+Putnam,Patterson 4 LD 4,Comptroller,,DEM,Drew Warshaw,11
+Putnam,Patterson 4 LD 4,Comptroller,,DEM,Raj Goyle,1
+Putnam,Patterson 4 LD 4,Comptroller,,DEM,Thomas P. DiNapoli,29
+Putnam,Patterson 4 LD 4,Comptroller,,,Under Votes,4
+Putnam,Patterson 4 LD 4,U.S. House,17,DEM,Beth Davidson,8
+Putnam,Patterson 4 LD 4,U.S. House,17,DEM,Cait Conley,26
+Putnam,Patterson 4 LD 4,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,8
+Putnam,Patterson 4 LD 4,U.S. House,17,DEM,John Cappello,1
+Putnam,Patterson 4 LD 4,U.S. House,17,DEM,Michael Sacks,2
+Putnam,Patterson 4 LD 4,U.S. House,17,,Under Votes,2
+Putnam,Patterson 5 LD 4,Ballots Cast,,,,67
+Putnam,Patterson 5 LD 4,Comptroller,,DEM,Drew Warshaw,3
+Putnam,Patterson 5 LD 4,Comptroller,,DEM,Raj Goyle,2
+Putnam,Patterson 5 LD 4,Comptroller,,DEM,Thomas P. DiNapoli,29
+Putnam,Patterson 5 LD 4,Comptroller,,,Under Votes,3
+Putnam,Patterson 5 LD 4,"Member of County Committee, Town of Patterson - ED 5",,REP,"Edward D. Foster, Jr.",14
+Putnam,Patterson 5 LD 4,"Member of County Committee, Town of Patterson - ED 5",,REP,Jennifer Bumgarner,18
+Putnam,Patterson 5 LD 4,"Member of County Committee, Town of Patterson - ED 5",,REP,Jennifer L. Caruso,24
+Putnam,Patterson 5 LD 4,"Member of County Committee, Town of Patterson - ED 5",,REP,Kevin M. Butler,21
+Putnam,Patterson 5 LD 4,"Member of County Committee, Town of Patterson - ED 5",,REP,Mary E. Butler,19
+Putnam,Patterson 5 LD 4,"Member of County Committee, Town of Patterson - ED 5",,,Under Votes,24
+Putnam,Patterson 5 LD 4,U.S. House,17,DEM,Beth Davidson,10
+Putnam,Patterson 5 LD 4,U.S. House,17,DEM,Cait Conley,20
+Putnam,Patterson 5 LD 4,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,7
+Putnam,Patterson 6 LD 3,Ballots Cast,,,,113
+Putnam,Patterson 6 LD 3,Comptroller,,DEM,Drew Warshaw,7
+Putnam,Patterson 6 LD 3,Comptroller,,DEM,Raj Goyle,8
+Putnam,Patterson 6 LD 3,Comptroller,,DEM,Thomas P. DiNapoli,30
+Putnam,Patterson 6 LD 3,Comptroller,,,Under Votes,2
+Putnam,Patterson 6 LD 3,County Legislator,3,REP,Jorma J. Tompuri,31
+Putnam,Patterson 6 LD 3,County Legislator,3,REP,Joseph Cunningham,34
+Putnam,Patterson 6 LD 3,"Member of County Committee, Town of Patterson - ED 6",,REP,Gisele Cott,34
+Putnam,Patterson 6 LD 3,"Member of County Committee, Town of Patterson - ED 6",,REP,Joseph P. Capasso,49
+Putnam,Patterson 6 LD 3,"Member of County Committee, Town of Patterson - ED 6",,REP,Kimberly J. Brennan,41
+Putnam,Patterson 6 LD 3,"Member of County Committee, Town of Patterson - ED 6",,REP,Larry A. Maxwell,34
+Putnam,Patterson 6 LD 3,"Member of County Committee, Town of Patterson - ED 6",,REP,"Richard D. Williams, Sr.",36
+Putnam,Patterson 6 LD 3,"Member of County Committee, Town of Patterson - ED 6",,,Under Votes,66
+Putnam,Patterson 6 LD 3,U.S. House,17,DEM,Beth Davidson,11
+Putnam,Patterson 6 LD 3,U.S. House,17,DEM,Cait Conley,25
+Putnam,Patterson 6 LD 3,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,12
+Putnam,Patterson 7 LD 4,Ballots Cast,,,,58
+Putnam,Patterson 7 LD 4,Comptroller,,DEM,Drew Warshaw,4
+Putnam,Patterson 7 LD 4,Comptroller,,DEM,Raj Goyle,7
+Putnam,Patterson 7 LD 4,Comptroller,,DEM,Thomas P. DiNapoli,16
+Putnam,Patterson 7 LD 4,Comptroller,,,Over Votes,1
+Putnam,Patterson 7 LD 4,Comptroller,,,Under Votes,3
+Putnam,Patterson 7 LD 4,"Member of County Committee, Town of Patterson - ED 7",,REP,Aubrianna L. McDermott,11
+Putnam,Patterson 7 LD 4,"Member of County Committee, Town of Patterson - ED 7",,REP,Jennifer G. Gallagher,11
+Putnam,Patterson 7 LD 4,"Member of County Committee, Town of Patterson - ED 7",,REP,Linda L. Griffin,15
+Putnam,Patterson 7 LD 4,"Member of County Committee, Town of Patterson - ED 7",,REP,"Michael D. Gallagher, Jr.",10
+Putnam,Patterson 7 LD 4,"Member of County Committee, Town of Patterson - ED 7",,REP,Michael Gallagher,16
+Putnam,Patterson 7 LD 4,"Member of County Committee, Town of Patterson - ED 7",,REP,Michael Griffin,15
+Putnam,Patterson 7 LD 4,"Member of County Committee, Town of Patterson - ED 7",,REP,Susan Brown,15
+Putnam,Patterson 7 LD 4,"Member of County Committee, Town of Patterson - ED 7",,,Under Votes,15
+Putnam,Patterson 7 LD 4,U.S. House,17,DEM,Beth Davidson,5
+Putnam,Patterson 7 LD 4,U.S. House,17,DEM,Cait Conley,15
+Putnam,Patterson 7 LD 4,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,7
+Putnam,Patterson 7 LD 4,U.S. House,17,DEM,John Cappello,3
+Putnam,Patterson 7 LD 4,U.S. House,17,,Over Votes,1
+Putnam,Patterson 8 LD 4,Ballots Cast,,,,37
+Putnam,Patterson 8 LD 4,Comptroller,,DEM,Drew Warshaw,10
+Putnam,Patterson 8 LD 4,Comptroller,,DEM,Raj Goyle,5
+Putnam,Patterson 8 LD 4,Comptroller,,DEM,Thomas P. DiNapoli,19
+Putnam,Patterson 8 LD 4,Comptroller,,,Under Votes,3
+Putnam,Patterson 8 LD 4,U.S. House,17,DEM,Beth Davidson,14
+Putnam,Patterson 8 LD 4,U.S. House,17,DEM,Cait Conley,19
+Putnam,Patterson 8 LD 4,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,2
+Putnam,Patterson 8 LD 4,U.S. House,17,DEM,John Cappello,1
+Putnam,Patterson 8 LD 4,U.S. House,17,,Under Votes,1
+Putnam,Philipstown 1 LD 1,Ballots Cast,,,,148
+Putnam,Philipstown 1 LD 1,Comptroller,,DEM,Drew Warshaw,20
+Putnam,Philipstown 1 LD 1,Comptroller,,DEM,Raj Goyle,24
+Putnam,Philipstown 1 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,96
+Putnam,Philipstown 1 LD 1,Comptroller,,,Under Votes,8
+Putnam,Philipstown 1 LD 1,State Senate,39,DEM,Evan R. Menist,58
+Putnam,Philipstown 1 LD 1,State Senate,39,DEM,Gay Lee,3
+Putnam,Philipstown 1 LD 1,State Senate,39,DEM,Lisa Kaul,84
+Putnam,Philipstown 1 LD 1,State Senate,39,,Under Votes,3
+Putnam,Philipstown 1 LD 1,U.S. House,17,DEM,Beth Davidson,43
+Putnam,Philipstown 1 LD 1,U.S. House,17,DEM,Cait Conley,74
+Putnam,Philipstown 1 LD 1,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,27
+Putnam,Philipstown 1 LD 1,U.S. House,17,DEM,John Cappello,2
+Putnam,Philipstown 1 LD 1,U.S. House,17,DEM,Michael Sacks,2
+Putnam,Philipstown 2 LD 1,Ballots Cast,,,,109
+Putnam,Philipstown 2 LD 1,Comptroller,,DEM,Drew Warshaw,12
+Putnam,Philipstown 2 LD 1,Comptroller,,DEM,Raj Goyle,16
+Putnam,Philipstown 2 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,74
+Putnam,Philipstown 2 LD 1,Comptroller,,,Under Votes,7
+Putnam,Philipstown 2 LD 1,State Senate,39,DEM,Evan R. Menist,41
+Putnam,Philipstown 2 LD 1,State Senate,39,DEM,Gay Lee,1
+Putnam,Philipstown 2 LD 1,State Senate,39,DEM,Lisa Kaul,64
+Putnam,Philipstown 2 LD 1,State Senate,39,,Under Votes,3
+Putnam,Philipstown 2 LD 1,U.S. House,17,DEM,Beth Davidson,26
+Putnam,Philipstown 2 LD 1,U.S. House,17,DEM,Cait Conley,69
+Putnam,Philipstown 2 LD 1,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,13
+Putnam,Philipstown 2 LD 1,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Philipstown 3 LD 1,Ballots Cast,,,,421
+Putnam,Philipstown 3 LD 1,Comptroller,,DEM,Drew Warshaw,67
+Putnam,Philipstown 3 LD 1,Comptroller,,DEM,Raj Goyle,69
+Putnam,Philipstown 3 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,249
+Putnam,Philipstown 3 LD 1,Comptroller,,,Over Votes,1
+Putnam,Philipstown 3 LD 1,Comptroller,,,Under Votes,35
+Putnam,Philipstown 3 LD 1,State Senate,39,DEM,Evan R. Menist,142
+Putnam,Philipstown 3 LD 1,State Senate,39,DEM,Gay Lee,17
+Putnam,Philipstown 3 LD 1,State Senate,39,DEM,Lisa Kaul,257
+Putnam,Philipstown 3 LD 1,State Senate,39,,Under Votes,5
+Putnam,Philipstown 3 LD 1,U.S. House,17,DEM,Beth Davidson,76
+Putnam,Philipstown 3 LD 1,U.S. House,17,DEM,Cait Conley,247
+Putnam,Philipstown 3 LD 1,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,93
+Putnam,Philipstown 3 LD 1,U.S. House,17,DEM,John Cappello,2
+Putnam,Philipstown 3 LD 1,U.S. House,17,DEM,Michael Sacks,3
+Putnam,Philipstown 4 LD 1,Ballots Cast,,,,78
+Putnam,Philipstown 4 LD 1,Comptroller,,DEM,Drew Warshaw,16
+Putnam,Philipstown 4 LD 1,Comptroller,,DEM,Raj Goyle,9
+Putnam,Philipstown 4 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,49
+Putnam,Philipstown 4 LD 1,Comptroller,,,Over Votes,1
+Putnam,Philipstown 4 LD 1,Comptroller,,,Under Votes,3
+Putnam,Philipstown 4 LD 1,State Senate,39,DEM,Evan R. Menist,34
+Putnam,Philipstown 4 LD 1,State Senate,39,DEM,Gay Lee,8
+Putnam,Philipstown 4 LD 1,State Senate,39,DEM,Lisa Kaul,34
+Putnam,Philipstown 4 LD 1,State Senate,39,,Under Votes,2
+Putnam,Philipstown 4 LD 1,U.S. House,17,DEM,Beth Davidson,19
+Putnam,Philipstown 4 LD 1,U.S. House,17,DEM,Cait Conley,39
+Putnam,Philipstown 4 LD 1,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,17
+Putnam,Philipstown 4 LD 1,U.S. House,17,DEM,John Cappello,1
+Putnam,Philipstown 4 LD 1,U.S. House,17,DEM,Michael Sacks,2
+Putnam,Philipstown 5 LD 1,Ballots Cast,,,,101
+Putnam,Philipstown 5 LD 1,Comptroller,,DEM,Drew Warshaw,28
+Putnam,Philipstown 5 LD 1,Comptroller,,DEM,Raj Goyle,17
+Putnam,Philipstown 5 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,49
+Putnam,Philipstown 5 LD 1,Comptroller,,,Under Votes,7
+Putnam,Philipstown 5 LD 1,State Senate,39,DEM,Evan R. Menist,40
+Putnam,Philipstown 5 LD 1,State Senate,39,DEM,Gay Lee,4
+Putnam,Philipstown 5 LD 1,State Senate,39,DEM,Lisa Kaul,54
+Putnam,Philipstown 5 LD 1,State Senate,39,,Under Votes,3
+Putnam,Philipstown 5 LD 1,U.S. House,17,DEM,Beth Davidson,32
+Putnam,Philipstown 5 LD 1,U.S. House,17,DEM,Cait Conley,37
+Putnam,Philipstown 5 LD 1,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,30
+Putnam,Philipstown 5 LD 1,U.S. House,17,DEM,Michael Sacks,2
+Putnam,Philipstown 6 LD 1,Ballots Cast,,,,141
+Putnam,Philipstown 6 LD 1,Comptroller,,DEM,Drew Warshaw,17
+Putnam,Philipstown 6 LD 1,Comptroller,,DEM,Raj Goyle,19
+Putnam,Philipstown 6 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,94
+Putnam,Philipstown 6 LD 1,Comptroller,,DEM,Write-in,1
+Putnam,Philipstown 6 LD 1,Comptroller,,,Under Votes,10
+Putnam,Philipstown 6 LD 1,State Senate,39,DEM,Evan R. Menist,36
+Putnam,Philipstown 6 LD 1,State Senate,39,DEM,Gay Lee,22
+Putnam,Philipstown 6 LD 1,State Senate,39,DEM,Lisa Kaul,79
+Putnam,Philipstown 6 LD 1,State Senate,39,,Under Votes,4
+Putnam,Philipstown 6 LD 1,U.S. House,17,DEM,Beth Davidson,36
+Putnam,Philipstown 6 LD 1,U.S. House,17,DEM,Cait Conley,79
+Putnam,Philipstown 6 LD 1,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,24
+Putnam,Philipstown 6 LD 1,U.S. House,17,DEM,Michael Sacks,2
+Putnam,Philipstown 7 LD 1,Ballots Cast,,,,115
+Putnam,Philipstown 7 LD 1,Comptroller,,DEM,Drew Warshaw,23
+Putnam,Philipstown 7 LD 1,Comptroller,,DEM,Raj Goyle,12
+Putnam,Philipstown 7 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,68
+Putnam,Philipstown 7 LD 1,Comptroller,,,Under Votes,12
+Putnam,Philipstown 7 LD 1,State Senate,39,DEM,Evan R. Menist,36
+Putnam,Philipstown 7 LD 1,State Senate,39,DEM,Gay Lee,5
+Putnam,Philipstown 7 LD 1,State Senate,39,DEM,Lisa Kaul,70
+Putnam,Philipstown 7 LD 1,State Senate,39,,Under Votes,4
+Putnam,Philipstown 7 LD 1,U.S. House,17,DEM,Beth Davidson,13
+Putnam,Philipstown 7 LD 1,U.S. House,17,DEM,Cait Conley,71
+Putnam,Philipstown 7 LD 1,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,29
+Putnam,Philipstown 7 LD 1,U.S. House,17,DEM,John Cappello,2
+Putnam,Philipstown 8 LD 1,Ballots Cast,,,,206
+Putnam,Philipstown 8 LD 1,Comptroller,,DEM,Drew Warshaw,47
+Putnam,Philipstown 8 LD 1,Comptroller,,DEM,Raj Goyle,18
+Putnam,Philipstown 8 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,119
+Putnam,Philipstown 8 LD 1,Comptroller,,,Over Votes,1
+Putnam,Philipstown 8 LD 1,Comptroller,,,Under Votes,20
+Putnam,Philipstown 8 LD 1,State Senate,39,DEM,Evan R. Menist,66
+Putnam,Philipstown 8 LD 1,State Senate,39,DEM,Gay Lee,11
+Putnam,Philipstown 8 LD 1,State Senate,39,DEM,Lisa Kaul,124
+Putnam,Philipstown 8 LD 1,State Senate,39,,Under Votes,4
+Putnam,Philipstown 8 LD 1,U.S. House,17,DEM,Beth Davidson,48
+Putnam,Philipstown 8 LD 1,U.S. House,17,DEM,Cait Conley,113
+Putnam,Philipstown 8 LD 1,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,44
+Putnam,Philipstown 8 LD 1,U.S. House,17,DEM,John Cappello,1
+Putnam,Philipstown 9 LD 1,Ballots Cast,,,,64
+Putnam,Philipstown 9 LD 1,Comptroller,,DEM,Drew Warshaw,20
+Putnam,Philipstown 9 LD 1,Comptroller,,DEM,Raj Goyle,4
+Putnam,Philipstown 9 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,35
+Putnam,Philipstown 9 LD 1,Comptroller,,,Under Votes,5
+Putnam,Philipstown 9 LD 1,State Senate,39,DEM,Evan R. Menist,19
+Putnam,Philipstown 9 LD 1,State Senate,39,DEM,Gay Lee,5
+Putnam,Philipstown 9 LD 1,State Senate,39,DEM,Lisa Kaul,35
+Putnam,Philipstown 9 LD 1,State Senate,39,,Under Votes,5
+Putnam,Philipstown 9 LD 1,U.S. House,17,DEM,Beth Davidson,23
+Putnam,Philipstown 9 LD 1,U.S. House,17,DEM,Cait Conley,25
+Putnam,Philipstown 9 LD 1,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,13
+Putnam,Philipstown 9 LD 1,U.S. House,17,DEM,John Cappello,2
+Putnam,Philipstown 9 LD 1,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Philipstown 10 LD 1,Ballots Cast,,,,99
+Putnam,Philipstown 10 LD 1,Comptroller,,DEM,Drew Warshaw,14
+Putnam,Philipstown 10 LD 1,Comptroller,,DEM,Raj Goyle,15
+Putnam,Philipstown 10 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,63
+Putnam,Philipstown 10 LD 1,Comptroller,,,Under Votes,7
+Putnam,Philipstown 10 LD 1,State Senate,39,DEM,Evan R. Menist,38
+Putnam,Philipstown 10 LD 1,State Senate,39,DEM,Gay Lee,3
+Putnam,Philipstown 10 LD 1,State Senate,39,DEM,Lisa Kaul,56
+Putnam,Philipstown 10 LD 1,State Senate,39,,Under Votes,2
+Putnam,Philipstown 10 LD 1,U.S. House,17,DEM,Beth Davidson,32
+Putnam,Philipstown 10 LD 1,U.S. House,17,DEM,Cait Conley,38
+Putnam,Philipstown 10 LD 1,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,28
+Putnam,Philipstown 10 LD 1,U.S. House,17,DEM,John Cappello,1
+Putnam,Putnam Valley 1 LD 2,Ballots Cast,,,,51
+Putnam,Putnam Valley 1 LD 2,Comptroller,,DEM,Drew Warshaw,9
+Putnam,Putnam Valley 1 LD 2,Comptroller,,DEM,Raj Goyle,12
+Putnam,Putnam Valley 1 LD 2,Comptroller,,DEM,Thomas P. DiNapoli,28
+Putnam,Putnam Valley 1 LD 2,Comptroller,,DEM,Write-in,1
+Putnam,Putnam Valley 1 LD 2,Comptroller,,,Under Votes,1
+Putnam,Putnam Valley 1 LD 2,State Senate,39,DEM,Evan R. Menist,28
+Putnam,Putnam Valley 1 LD 2,State Senate,39,DEM,Gay Lee,2
+Putnam,Putnam Valley 1 LD 2,State Senate,39,DEM,Lisa Kaul,20
+Putnam,Putnam Valley 1 LD 2,State Senate,39,,Under Votes,1
+Putnam,Putnam Valley 1 LD 2,U.S. House,17,DEM,Beth Davidson,10
+Putnam,Putnam Valley 1 LD 2,U.S. House,17,DEM,Cait Conley,30
+Putnam,Putnam Valley 1 LD 2,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,10
+Putnam,Putnam Valley 1 LD 2,U.S. House,17,DEM,John Cappello,1
+Putnam,Putnam Valley 2 LD 2,Ballots Cast,,,,97
+Putnam,Putnam Valley 2 LD 2,Comptroller,,DEM,Drew Warshaw,17
+Putnam,Putnam Valley 2 LD 2,Comptroller,,DEM,Raj Goyle,18
+Putnam,Putnam Valley 2 LD 2,Comptroller,,DEM,Thomas P. DiNapoli,59
+Putnam,Putnam Valley 2 LD 2,Comptroller,,,Under Votes,3
+Putnam,Putnam Valley 2 LD 2,State Senate,39,DEM,Evan R. Menist,31
+Putnam,Putnam Valley 2 LD 2,State Senate,39,DEM,Gay Lee,12
+Putnam,Putnam Valley 2 LD 2,State Senate,39,DEM,Lisa Kaul,54
+Putnam,Putnam Valley 2 LD 2,U.S. House,17,DEM,Beth Davidson,22
+Putnam,Putnam Valley 2 LD 2,U.S. House,17,DEM,Cait Conley,54
+Putnam,Putnam Valley 2 LD 2,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,16
+Putnam,Putnam Valley 2 LD 2,U.S. House,17,DEM,Michael Sacks,4
+Putnam,Putnam Valley 2 LD 2,U.S. House,17,,Over Votes,1
+Putnam,Putnam Valley 3 LD 2,Ballots Cast,,,,90
+Putnam,Putnam Valley 3 LD 2,Comptroller,,DEM,Drew Warshaw,23
+Putnam,Putnam Valley 3 LD 2,Comptroller,,DEM,Raj Goyle,9
+Putnam,Putnam Valley 3 LD 2,Comptroller,,DEM,Thomas P. DiNapoli,54
+Putnam,Putnam Valley 3 LD 2,Comptroller,,DEM,Write-in,1
+Putnam,Putnam Valley 3 LD 2,Comptroller,,,Under Votes,3
+Putnam,Putnam Valley 3 LD 2,State Senate,39,DEM,Evan R. Menist,33
+Putnam,Putnam Valley 3 LD 2,State Senate,39,DEM,Gay Lee,12
+Putnam,Putnam Valley 3 LD 2,State Senate,39,DEM,Lisa Kaul,43
+Putnam,Putnam Valley 3 LD 2,State Senate,39,DEM,Write-in,1
+Putnam,Putnam Valley 3 LD 2,State Senate,39,,Under Votes,1
+Putnam,Putnam Valley 3 LD 2,U.S. House,17,DEM,Beth Davidson,18
+Putnam,Putnam Valley 3 LD 2,U.S. House,17,DEM,Cait Conley,47
+Putnam,Putnam Valley 3 LD 2,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,23
+Putnam,Putnam Valley 3 LD 2,U.S. House,17,DEM,John Cappello,1
+Putnam,Putnam Valley 3 LD 2,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Putnam Valley 4 LD 2,Ballots Cast,,,,94
+Putnam,Putnam Valley 4 LD 2,Comptroller,,DEM,Drew Warshaw,18
+Putnam,Putnam Valley 4 LD 2,Comptroller,,DEM,Raj Goyle,18
+Putnam,Putnam Valley 4 LD 2,Comptroller,,DEM,Thomas P. DiNapoli,58
+Putnam,Putnam Valley 4 LD 2,State Senate,39,DEM,Evan R. Menist,31
+Putnam,Putnam Valley 4 LD 2,State Senate,39,DEM,Gay Lee,12
+Putnam,Putnam Valley 4 LD 2,State Senate,39,DEM,Lisa Kaul,48
+Putnam,Putnam Valley 4 LD 2,State Senate,39,DEM,Write-in,1
+Putnam,Putnam Valley 4 LD 2,State Senate,39,,Under Votes,2
+Putnam,Putnam Valley 4 LD 2,U.S. House,17,DEM,Beth Davidson,20
+Putnam,Putnam Valley 4 LD 2,U.S. House,17,DEM,Cait Conley,53
+Putnam,Putnam Valley 4 LD 2,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,19
+Putnam,Putnam Valley 4 LD 2,U.S. House,17,DEM,John Cappello,2
+Putnam,Putnam Valley 5 LD 2,Ballots Cast,,,,47
+Putnam,Putnam Valley 5 LD 2,Comptroller,,DEM,Drew Warshaw,8
+Putnam,Putnam Valley 5 LD 2,Comptroller,,DEM,Raj Goyle,3
+Putnam,Putnam Valley 5 LD 2,Comptroller,,DEM,Thomas P. DiNapoli,35
+Putnam,Putnam Valley 5 LD 2,Comptroller,,,Under Votes,1
+Putnam,Putnam Valley 5 LD 2,State Senate,39,DEM,Evan R. Menist,17
+Putnam,Putnam Valley 5 LD 2,State Senate,39,DEM,Gay Lee,4
+Putnam,Putnam Valley 5 LD 2,State Senate,39,DEM,Lisa Kaul,26
+Putnam,Putnam Valley 5 LD 2,U.S. House,17,DEM,Beth Davidson,8
+Putnam,Putnam Valley 5 LD 2,U.S. House,17,DEM,Cait Conley,32
+Putnam,Putnam Valley 5 LD 2,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,7
+Putnam,Putnam Valley 6 LD 2,Ballots Cast,,,,44
+Putnam,Putnam Valley 6 LD 2,Comptroller,,DEM,Drew Warshaw,7
+Putnam,Putnam Valley 6 LD 2,Comptroller,,DEM,Raj Goyle,8
+Putnam,Putnam Valley 6 LD 2,Comptroller,,DEM,Thomas P. DiNapoli,28
+Putnam,Putnam Valley 6 LD 2,Comptroller,,,Under Votes,1
+Putnam,Putnam Valley 6 LD 2,State Senate,39,DEM,Evan R. Menist,16
+Putnam,Putnam Valley 6 LD 2,State Senate,39,DEM,Gay Lee,6
+Putnam,Putnam Valley 6 LD 2,State Senate,39,DEM,Lisa Kaul,20
+Putnam,Putnam Valley 6 LD 2,State Senate,39,,Under Votes,2
+Putnam,Putnam Valley 6 LD 2,U.S. House,17,DEM,Beth Davidson,7
+Putnam,Putnam Valley 6 LD 2,U.S. House,17,DEM,Cait Conley,23
+Putnam,Putnam Valley 6 LD 2,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,10
+Putnam,Putnam Valley 6 LD 2,U.S. House,17,DEM,John Cappello,2
+Putnam,Putnam Valley 6 LD 2,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Putnam Valley 6 LD 2,U.S. House,17,,Under Votes,1
+Putnam,Putnam Valley 7 LD 2,Ballots Cast,,,,67
+Putnam,Putnam Valley 7 LD 2,Comptroller,,DEM,Drew Warshaw,21
+Putnam,Putnam Valley 7 LD 2,Comptroller,,DEM,Raj Goyle,10
+Putnam,Putnam Valley 7 LD 2,Comptroller,,DEM,Thomas P. DiNapoli,34
+Putnam,Putnam Valley 7 LD 2,Comptroller,,DEM,Write-in,1
+Putnam,Putnam Valley 7 LD 2,Comptroller,,,Under Votes,1
+Putnam,Putnam Valley 7 LD 2,State Senate,39,DEM,Evan R. Menist,33
+Putnam,Putnam Valley 7 LD 2,State Senate,39,DEM,Gay Lee,7
+Putnam,Putnam Valley 7 LD 2,State Senate,39,DEM,Lisa Kaul,26
+Putnam,Putnam Valley 7 LD 2,State Senate,39,,Under Votes,1
+Putnam,Putnam Valley 7 LD 2,U.S. House,17,DEM,Beth Davidson,17
+Putnam,Putnam Valley 7 LD 2,U.S. House,17,DEM,Cait Conley,42
+Putnam,Putnam Valley 7 LD 2,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,6
+Putnam,Putnam Valley 7 LD 2,U.S. House,17,DEM,John Cappello,1
+Putnam,Putnam Valley 7 LD 2,U.S. House,17,,Under Votes,1
+Putnam,Putnam Valley 8 LD 1,Ballots Cast,,,,90
+Putnam,Putnam Valley 8 LD 1,Comptroller,,DEM,Drew Warshaw,12
+Putnam,Putnam Valley 8 LD 1,Comptroller,,DEM,Raj Goyle,14
+Putnam,Putnam Valley 8 LD 1,Comptroller,,DEM,Thomas P. DiNapoli,58
+Putnam,Putnam Valley 8 LD 1,Comptroller,,,Under Votes,6
+Putnam,Putnam Valley 8 LD 1,State Senate,39,DEM,Evan R. Menist,40
+Putnam,Putnam Valley 8 LD 1,State Senate,39,DEM,Gay Lee,5
+Putnam,Putnam Valley 8 LD 1,State Senate,39,DEM,Lisa Kaul,43
+Putnam,Putnam Valley 8 LD 1,State Senate,39,,Under Votes,2
+Putnam,Putnam Valley 8 LD 1,U.S. House,17,DEM,Beth Davidson,25
+Putnam,Putnam Valley 8 LD 1,U.S. House,17,DEM,Cait Conley,45
+Putnam,Putnam Valley 8 LD 1,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,18
+Putnam,Putnam Valley 8 LD 1,U.S. House,17,DEM,John Cappello,1
+Putnam,Putnam Valley 8 LD 1,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Putnam Valley 9 LD 2,Ballots Cast,,,,61
+Putnam,Putnam Valley 9 LD 2,Comptroller,,DEM,Drew Warshaw,9
+Putnam,Putnam Valley 9 LD 2,Comptroller,,DEM,Raj Goyle,9
+Putnam,Putnam Valley 9 LD 2,Comptroller,,DEM,Thomas P. DiNapoli,40
+Putnam,Putnam Valley 9 LD 2,Comptroller,,,Under Votes,3
+Putnam,Putnam Valley 9 LD 2,State Senate,39,DEM,Evan R. Menist,19
+Putnam,Putnam Valley 9 LD 2,State Senate,39,DEM,Gay Lee,7
+Putnam,Putnam Valley 9 LD 2,State Senate,39,DEM,Lisa Kaul,28
+Putnam,Putnam Valley 9 LD 2,State Senate,39,DEM,Write-in,1
+Putnam,Putnam Valley 9 LD 2,State Senate,39,,Under Votes,6
+Putnam,Putnam Valley 9 LD 2,U.S. House,17,DEM,Beth Davidson,6
+Putnam,Putnam Valley 9 LD 2,U.S. House,17,DEM,Cait Conley,40
+Putnam,Putnam Valley 9 LD 2,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,9
+Putnam,Putnam Valley 9 LD 2,U.S. House,17,DEM,John Cappello,1
+Putnam,Putnam Valley 9 LD 2,U.S. House,17,DEM,Michael Sacks,4
+Putnam,Putnam Valley 9 LD 2,U.S. House,17,,Under Votes,1
+Putnam,Putnam Valley 10 LD 2,Ballots Cast,,,,61
+Putnam,Putnam Valley 10 LD 2,Comptroller,,DEM,Drew Warshaw,6
+Putnam,Putnam Valley 10 LD 2,Comptroller,,DEM,Raj Goyle,14
+Putnam,Putnam Valley 10 LD 2,Comptroller,,DEM,Thomas P. DiNapoli,37
+Putnam,Putnam Valley 10 LD 2,Comptroller,,,Under Votes,4
+Putnam,Putnam Valley 10 LD 2,State Senate,39,DEM,Evan R. Menist,17
+Putnam,Putnam Valley 10 LD 2,State Senate,39,DEM,Gay Lee,9
+Putnam,Putnam Valley 10 LD 2,State Senate,39,DEM,Lisa Kaul,33
+Putnam,Putnam Valley 10 LD 2,State Senate,39,,Under Votes,2
+Putnam,Putnam Valley 10 LD 2,U.S. House,17,DEM,Beth Davidson,17
+Putnam,Putnam Valley 10 LD 2,U.S. House,17,DEM,Cait Conley,29
+Putnam,Putnam Valley 10 LD 2,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,15
+Putnam,Southeast 1 LD 6,Ballots Cast,,,,58
+Putnam,Southeast 1 LD 6,Comptroller,,DEM,Drew Warshaw,10
+Putnam,Southeast 1 LD 6,Comptroller,,DEM,Raj Goyle,7
+Putnam,Southeast 1 LD 6,Comptroller,,DEM,Thomas P. DiNapoli,36
+Putnam,Southeast 1 LD 6,Comptroller,,DEM,Write-in,1
+Putnam,Southeast 1 LD 6,Comptroller,,,Over Votes,1
+Putnam,Southeast 1 LD 6,Comptroller,,,Under Votes,3
+Putnam,Southeast 1 LD 6,U.S. House,17,DEM,Beth Davidson,13
+Putnam,Southeast 1 LD 6,U.S. House,17,DEM,Cait Conley,28
+Putnam,Southeast 1 LD 6,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,16
+Putnam,Southeast 1 LD 6,U.S. House,17,,Under Votes,1
+Putnam,Southeast 2 LD 7,Ballots Cast,,,,51
+Putnam,Southeast 2 LD 7,Comptroller,,DEM,Drew Warshaw,14
+Putnam,Southeast 2 LD 7,Comptroller,,DEM,Raj Goyle,8
+Putnam,Southeast 2 LD 7,Comptroller,,DEM,Thomas P. DiNapoli,26
+Putnam,Southeast 2 LD 7,Comptroller,,DEM,Write-in,1
+Putnam,Southeast 2 LD 7,Comptroller,,,Under Votes,2
+Putnam,Southeast 2 LD 7,U.S. House,17,DEM,Beth Davidson,6
+Putnam,Southeast 2 LD 7,U.S. House,17,DEM,Cait Conley,21
+Putnam,Southeast 2 LD 7,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,23
+Putnam,Southeast 2 LD 7,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Southeast 3 LD 6,Ballots Cast,,,,48
+Putnam,Southeast 3 LD 6,Comptroller,,DEM,Drew Warshaw,5
+Putnam,Southeast 3 LD 6,Comptroller,,DEM,Raj Goyle,1
+Putnam,Southeast 3 LD 6,Comptroller,,DEM,Thomas P. DiNapoli,39
+Putnam,Southeast 3 LD 6,Comptroller,,,Over Votes,1
+Putnam,Southeast 3 LD 6,Comptroller,,,Under Votes,2
+Putnam,Southeast 3 LD 6,U.S. House,17,DEM,Beth Davidson,6
+Putnam,Southeast 3 LD 6,U.S. House,17,DEM,Cait Conley,37
+Putnam,Southeast 3 LD 6,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,3
+Putnam,Southeast 3 LD 6,U.S. House,17,DEM,John Cappello,1
+Putnam,Southeast 3 LD 6,U.S. House,17,,Over Votes,1
+Putnam,Southeast 4 LD 7,Ballots Cast,,,,45
+Putnam,Southeast 4 LD 7,Comptroller,,DEM,Drew Warshaw,7
+Putnam,Southeast 4 LD 7,Comptroller,,DEM,Raj Goyle,5
+Putnam,Southeast 4 LD 7,Comptroller,,DEM,Thomas P. DiNapoli,31
+Putnam,Southeast 4 LD 7,Comptroller,,,Under Votes,2
+Putnam,Southeast 4 LD 7,U.S. House,17,DEM,Beth Davidson,11
+Putnam,Southeast 4 LD 7,U.S. House,17,DEM,Cait Conley,27
+Putnam,Southeast 4 LD 7,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,7
+Putnam,Southeast 5 LD 6,Ballots Cast,,,,22
+Putnam,Southeast 5 LD 6,Comptroller,,DEM,Drew Warshaw,5
+Putnam,Southeast 5 LD 6,Comptroller,,DEM,Raj Goyle,1
+Putnam,Southeast 5 LD 6,Comptroller,,DEM,Thomas P. DiNapoli,13
+Putnam,Southeast 5 LD 6,Comptroller,,,Under Votes,3
+Putnam,Southeast 5 LD 6,U.S. House,17,DEM,Beth Davidson,4
+Putnam,Southeast 5 LD 6,U.S. House,17,DEM,Cait Conley,14
+Putnam,Southeast 5 LD 6,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,3
+Putnam,Southeast 5 LD 6,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Southeast 6 LD 7,Ballots Cast,,,,53
+Putnam,Southeast 6 LD 7,Comptroller,,DEM,Drew Warshaw,9
+Putnam,Southeast 6 LD 7,Comptroller,,DEM,Raj Goyle,2
+Putnam,Southeast 6 LD 7,Comptroller,,DEM,Thomas P. DiNapoli,39
+Putnam,Southeast 6 LD 7,Comptroller,,,Under Votes,2
+Putnam,Southeast 6 LD 7,U.S. House,17,DEM,Beth Davidson,19
+Putnam,Southeast 6 LD 7,U.S. House,17,DEM,Cait Conley,24
+Putnam,Southeast 6 LD 7,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,8
+Putnam,Southeast 6 LD 7,U.S. House,17,DEM,John Cappello,1
+Putnam,Southeast 6 LD 7,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Southeast 7 LD 6,Ballots Cast,,,,57
+Putnam,Southeast 7 LD 6,Comptroller,,DEM,Drew Warshaw,10
+Putnam,Southeast 7 LD 6,Comptroller,,DEM,Raj Goyle,9
+Putnam,Southeast 7 LD 6,Comptroller,,DEM,Thomas P. DiNapoli,35
+Putnam,Southeast 7 LD 6,Comptroller,,,Under Votes,3
+Putnam,Southeast 7 LD 6,U.S. House,17,DEM,Beth Davidson,10
+Putnam,Southeast 7 LD 6,U.S. House,17,DEM,Cait Conley,35
+Putnam,Southeast 7 LD 6,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,9
+Putnam,Southeast 7 LD 6,U.S. House,17,DEM,John Cappello,2
+Putnam,Southeast 7 LD 6,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Southeast 8 LD 6,Ballots Cast,,,,55
+Putnam,Southeast 8 LD 6,Comptroller,,DEM,Drew Warshaw,9
+Putnam,Southeast 8 LD 6,Comptroller,,DEM,Raj Goyle,8
+Putnam,Southeast 8 LD 6,Comptroller,,DEM,Thomas P. DiNapoli,33
+Putnam,Southeast 8 LD 6,Comptroller,,,Over Votes,1
+Putnam,Southeast 8 LD 6,Comptroller,,,Under Votes,4
+Putnam,Southeast 8 LD 6,U.S. House,17,DEM,Beth Davidson,7
+Putnam,Southeast 8 LD 6,U.S. House,17,DEM,Cait Conley,35
+Putnam,Southeast 8 LD 6,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,8
+Putnam,Southeast 8 LD 6,U.S. House,17,DEM,Michael Sacks,4
+Putnam,Southeast 8 LD 6,U.S. House,17,,Over Votes,1
+Putnam,Southeast 9 LD 7,Ballots Cast,,,,74
+Putnam,Southeast 9 LD 7,Comptroller,,DEM,Drew Warshaw,8
+Putnam,Southeast 9 LD 7,Comptroller,,DEM,Raj Goyle,5
+Putnam,Southeast 9 LD 7,Comptroller,,DEM,Thomas P. DiNapoli,53
+Putnam,Southeast 9 LD 7,Comptroller,,,Under Votes,8
+Putnam,Southeast 9 LD 7,U.S. House,17,DEM,Beth Davidson,12
+Putnam,Southeast 9 LD 7,U.S. House,17,DEM,Cait Conley,55
+Putnam,Southeast 9 LD 7,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,4
+Putnam,Southeast 9 LD 7,U.S. House,17,DEM,Michael Sacks,2
+Putnam,Southeast 9 LD 7,U.S. House,17,,Under Votes,1
+Putnam,Southeast 10 LD 6,Ballots Cast,,,,38
+Putnam,Southeast 10 LD 6,Comptroller,,DEM,Drew Warshaw,6
+Putnam,Southeast 10 LD 6,Comptroller,,DEM,Raj Goyle,2
+Putnam,Southeast 10 LD 6,Comptroller,,DEM,Thomas P. DiNapoli,29
+Putnam,Southeast 10 LD 6,Comptroller,,,Under Votes,1
+Putnam,Southeast 10 LD 6,U.S. House,17,DEM,Beth Davidson,6
+Putnam,Southeast 10 LD 6,U.S. House,17,DEM,Cait Conley,23
+Putnam,Southeast 10 LD 6,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,8
+Putnam,Southeast 10 LD 6,U.S. House,17,,Under Votes,1
+Putnam,Southeast 11 LD 6,Ballots Cast,,,,47
+Putnam,Southeast 11 LD 6,Comptroller,,DEM,Drew Warshaw,10
+Putnam,Southeast 11 LD 6,Comptroller,,DEM,Raj Goyle,4
+Putnam,Southeast 11 LD 6,Comptroller,,DEM,Thomas P. DiNapoli,29
+Putnam,Southeast 11 LD 6,Comptroller,,,Under Votes,4
+Putnam,Southeast 11 LD 6,U.S. House,17,DEM,Beth Davidson,6
+Putnam,Southeast 11 LD 6,U.S. House,17,DEM,Cait Conley,36
+Putnam,Southeast 11 LD 6,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,4
+Putnam,Southeast 11 LD 6,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Southeast 12 LD 7,Ballots Cast,,,,48
+Putnam,Southeast 12 LD 7,Comptroller,,DEM,Drew Warshaw,4
+Putnam,Southeast 12 LD 7,Comptroller,,DEM,Raj Goyle,2
+Putnam,Southeast 12 LD 7,Comptroller,,DEM,Thomas P. DiNapoli,38
+Putnam,Southeast 12 LD 7,Comptroller,,,Under Votes,4
+Putnam,Southeast 12 LD 7,U.S. House,17,DEM,Beth Davidson,16
+Putnam,Southeast 12 LD 7,U.S. House,17,DEM,Cait Conley,24
+Putnam,Southeast 12 LD 7,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,6
+Putnam,Southeast 12 LD 7,U.S. House,17,DEM,Michael Sacks,1
+Putnam,Southeast 12 LD 7,U.S. House,17,,Over Votes,1
+Putnam,Southeast 13 LD 6,Ballots Cast,,,,40
+Putnam,Southeast 13 LD 6,Comptroller,,DEM,Drew Warshaw,3
+Putnam,Southeast 13 LD 6,Comptroller,,DEM,Raj Goyle,6
+Putnam,Southeast 13 LD 6,Comptroller,,DEM,Thomas P. DiNapoli,29
+Putnam,Southeast 13 LD 6,Comptroller,,,Under Votes,2
+Putnam,Southeast 13 LD 6,U.S. House,17,DEM,Beth Davidson,8
+Putnam,Southeast 13 LD 6,U.S. House,17,DEM,Cait Conley,22
+Putnam,Southeast 13 LD 6,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,9
+Putnam,Southeast 13 LD 6,U.S. House,17,DEM,John Cappello,1
+Putnam,Southeast 14 LD 6,Ballots Cast,,,,57
+Putnam,Southeast 14 LD 6,Comptroller,,DEM,Drew Warshaw,10
+Putnam,Southeast 14 LD 6,Comptroller,,DEM,Raj Goyle,3
+Putnam,Southeast 14 LD 6,Comptroller,,DEM,Thomas P. DiNapoli,39
+Putnam,Southeast 14 LD 6,Comptroller,,,Under Votes,5
+Putnam,Southeast 14 LD 6,U.S. House,17,DEM,Beth Davidson,29
+Putnam,Southeast 14 LD 6,U.S. House,17,DEM,Cait Conley,18
+Putnam,Southeast 14 LD 6,U.S. House,17,DEM,Effie Guadalupe Phillips-Staley,10

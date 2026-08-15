@@ -22,6 +22,8 @@ def sort_rows(cfg: CountyConfig, rows: list[Row], prec_order: list[str]) -> list
         return (
             prec_order.index(prec) if prec in prec_order else 999,
             orank.get((office, district), 99),
+            office,
+            district,
             prank.get(party, 9),
             cand,
         )
@@ -62,6 +64,8 @@ def report(cfg: CountyConfig, res: ParseResult, out_path: str) -> None:
           f"{len(res.od_seen)} office-districts -> {out_path}")
     for od in cfg.office_order:
         office, district = od
+        if office in ("Ballots Cast", "Registered Voters"):
+            continue  # turnout pseudo-offices, not contests
         parts = []
         for p in ("DEM", "REP", "CON", "WOR", "LAR"):
             if (office, district, p) in cfg.cand:

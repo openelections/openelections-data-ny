@@ -13,10 +13,22 @@ from __future__ import annotations
 import argparse
 import sys
 
-from . import counties_2024
+from . import counties_2024, counties_2026
 from .engines import run
 from .output import ordered_rows, report, rows_to_csv_text, write_csv
 from .verify import verify
+
+
+def _registry(year: str, election: str):
+    """Pick the county-config registry for an election."""
+    if year == "2024" and election == "general":
+        return counties_2024
+    if year == "2026" and election == "primary":
+        return counties_2026
+    # fall back to whatever has configs for the requested year/election
+    if year == "2026":
+        return counties_2026
+    return counties_2024
 
 
 def _committed_rows(text: str) -> list[tuple]:
@@ -88,7 +100,7 @@ def main(argv=None) -> int:
     ap.add_argument("slugs", nargs="*", help="county slugs (default: all)")
     args = ap.parse_args(argv)
 
-    cfgs = counties_2024.all_configs()
+    cfgs = _registry(args.year, args.election).all_configs()
     slugs = args.slugs or sorted(cfgs)
     rc = 0
     for slug in slugs:

@@ -20,6 +20,12 @@ def get_engine(name: str):
     if name == "text_report":
         from . import text_report
         return text_report.parse
+    if name == "primary":
+        from . import primary
+        return primary.parse
+    if name == "nyc":
+        from . import nyc
+        return nyc.parse
     raise ValueError(f"unknown engine: {name!r}")
 
 
