@@ -2532,14 +2532,486 @@ def _read_json(cfg):
     return out
 
 
+def _read_enhancedvoting(cfg):
+    """Read an enhancedvoting.com public-results JSON export (cached as a local
+    source file) into synthesized rows.  The cached file consolidates one
+    election's contests -- the ``/ballot-items`` list plus each
+    ``/ballot-items/{id}`` detail -- into a single object with ``contests``: an
+    array, each carrying ``name`` (raw office title, e.g. "Representative in
+    Congress - District 23"), ``partyName`` ("Democratic"/"Republican"),
+    ``voteFor`` (``{"text": "Vote for 1"}`` -> vote-for-N), and
+    ``breakdownResults``: an array of per-precinct records, each with
+    ``precinct.name[0].text`` (e.g. "City of Elmira LD: 10  01 "), ``voteTotal``
+    (the VALID vote count = candidate + write-in votes; the API does not break
+    out over/under per precinct -- they only surface as a contest-level gap
+    between the contest ``voteTotal`` and the sum of its candidates), and
+    ``ballotOptions``: candidates with ``voteCount`` (None==0) plus one
+    ``isWriteIn`` "Write-in".
+
+    Each row is emitted with the RAW office name so the engine's office_map
+    recovers the district (Comptroller, U.S. House 23, County Legislator N).
+    Party comes from the contest ``partyName`` via party_code.  Precinct names
+    are whitespace-collapsed ("LD: 10  01 " -> "LD: 10 01") to match the county's
+    established convention.  A per-precinct Ballots Cast row carries ``voteTotal``
+    (valid votes) with va in col 2; total_includes_over/under is True (there are
+    no per-precinct over/under to add back, so Ballots Cast is the valid-vote
+    turnout -- it slightly undercounts true ballots by the un-precinct-attributed
+    over+under, which the enhancedvoting API does not expose per precinct).
+    Contests not in office_map are skipped (safety, matching the Niagara VIC
+    reader)."""
+    import json as _json
+    import re as _re
+    src = cfg.resolve_source()
+    with open(src, encoding="utf-8") as fh:
+        data = _json.load(fh)
+    office_map = cfg.engine_opts.get("office_map", {})
+    out: list[list] = []
+
+    def _votefor(vf):
+        if isinstance(vf, dict):
+            txt = vf.get("text", "")
+        elif isinstance(vf, list) and vf:
+            txt = vf[0].get("text", "") if isinstance(vf[0], dict) else str(vf[0])
+        else:
+            txt = str(vf or "")
+        m = _re.search(r"\d+", txt)
+        return int(m.group()) if m else 1
+
+    def _pname(prec):
+        nm = prec.get("name") or []
+        if isinstance(nm, list) and nm:
+            return _re.sub(r"\s+", " ", nm[0].get("text", "")).strip()
+        return ""
+
+    for c in data.get("contests", []):
+        name = (c.get("name") or "").strip()
+        if name not in office_map:
+            continue
+        va = _votefor(c.get("voteFor"))
+        party = party_code(c.get("partyName")) or ""
+        for br in c.get("breakdownResults", []) or []:
+            prec = _pname(br.get("precinct") or {})
+            if not prec:
+                continue
+            for bo in br.get("ballotOptions", []) or []:
+                cn = bo.get("name") or []
+                if isinstance(cn, list) and cn:
+                    cname = cn[0].get("text", "").strip()
+                elif isinstance(cn, str):
+                    cname = cn.strip()
+                else:
+                    cname = ""
+                vc = bo.get("voteCount")
+                vc = int(vc) if vc is not None else 0
+                if bo.get("isWriteIn"):
+                    cname = "Write-in"
+                out.append([prec, name, va, cname, None, party, vc])
+            tot = int(br.get("voteTotal") or 0)
+            if tot:
+                out.append([prec, name, va, "Ballots Cast", None, party, tot])
+    return out
+
+
+def _read_pdf_cortland(cfg):
+    """Read Cortland's 2026 primary canvass PDF (text layer, pdfplumber).
+
+    Each page holds one or more contests.  A contest begins with a header line
+    ``"<office> (<Democratic|Republican>) - Early Voting Election Day
+    Absentees/Affidavits Total Votes"``; directly below, rotated (90-degree)
+    candidate headers label N candidate columns plus the fixed columns
+    Scattering / Voids / Blanks / [Subtotal of SVB's] / Totals, repeated in
+    four side-by-side blocks (Early Voting | Election Day | Absentees/
+    Affidavits | Total Votes).  Each precinct data row carries the same
+    4*(N+fixed) integers; the LAST block is the Total.  Its ``Totals`` column
+    is the ballot count for vote-for-1 contests, and total selections for the
+    vote-for-2 County Committee -- va=2 rides in col 2 so the engine's
+    multi-vote exclusion drops it from precinct Ballots Cast (the same
+    convention as Oswego's State Committee / Niagara's Committee Member).
+
+    Roles map: Scattering -> Write-in, Voids -> Over Votes, Blanks -> Under
+    Votes, Totals -> Ballots Cast (already counts over+under, so the config's
+    total_includes_over/under are True); Subtotal of SVB's is skipped.  The
+    raw office name is emitted so the engine's office_map recovers the
+    district (Comptroller, U.S. House 19, County Committee).  Precinct labels:
+    "L.D. N Ward X ED Y" / "Ward X ED Y" (City of Cortland) -> "Cortland Ward
+    X ED Y"; "L.D. N <Town>" / "<Town-N>" -> the town name.  City/Town/County
+    Totals rows are skipped.  A contest carries across pages that reprint no
+    header (page 1 continues page 0's Comptroller towns)."""
+    import pdfplumber
+    src = cfg.resolve_source()
+    out: list[list] = []
+    cur = None  # office/party/va/roles carried across pages
+
+    def _rotated(ch):
+        m = ch["matrix"]
+        return abs(m[1]) > 0.1 or abs(m[2]) > 0.1
+
+    def _roles(pg, tlo, thi):
+        cols: dict[int, list] = {}
+        for ch in pg.chars:
+            if tlo < ch["top"] < thi and ch["x0"] >= 95 and _rotated(ch):
+                cols.setdefault(round(ch["x0"] / 3) * 3, []).append(
+                    (ch["top"], ch["text"]))
+        roles = []
+        for x in sorted(cols):
+            nm = "".join(t for _, t in sorted(cols[x], key=lambda z: z[0]))[::-1]
+            low = nm.lower()
+            if "subtotal" in low:
+                rt = "subtotal"
+            elif low == "scattering":
+                rt = "scatter"
+            elif low == "voids":
+                rt = "voids"
+            elif low == "blanks":
+                rt = "blanks"
+            elif low == "totals":
+                rt = "totals"
+            else:
+                rt = "cand"
+            roles.append((rt, nm))
+        return roles
+
+    title_re = re.compile(
+        r"(.*?)\s*\((Democratic|Republican|REP|DEM)\)\s*-")
+    with pdfplumber.open(src) as pdf:
+        for pg in pdf.pages:
+            words = pg.extract_words(use_text_flow=False)
+            lines: dict[int, list] = {}
+            for w in words:
+                lines.setdefault(round(w["top"]), []).append(w)
+            events = []
+            for top, ws in lines.items():
+                ws_sorted = sorted(ws, key=lambda z: z["x0"])
+                txt = " ".join(x["text"] for x in ws_sorted)
+                if "Early Voting" in txt and "Total" in txt:
+                    events.append((top, "T", txt))
+                    continue
+                label = " ".join(x["text"] for x in ws_sorted
+                                 if x["x0"] < 100)
+                vals = [x["text"] for x in ws_sorted
+                        if x["x0"] >= 100 and x["text"].isdigit()]
+                if label.strip() and len(vals) >= 20:
+                    events.append((top, "D", label, vals))
+            events.sort(key=lambda e: e[0])
+            for ev in events:
+                if ev[1] == "T":
+                    top, _, txt = ev
+                    m = title_re.match(txt)
+                    if not m:
+                        continue
+                    office = m.group(1).strip()
+                    party = m.group(2)
+                    va = 2 if office == "County Committee" else 1
+                    thi = top + 90
+                    for ev2 in events:
+                        if ev2[0] > top and ev2[1] == "D":
+                            thi = ev2[0]
+                            break
+                    roles = _roles(pg, top, thi)
+                    bw = len(roles) // 4
+                    cur = {"office": office, "party": party, "va": va,
+                           "roles": roles[:bw]}
+                    continue
+                if cur is None:
+                    continue
+                top, _, label, vals = ev
+                lab = label.strip()
+                if re.search(r"Totals", lab) or lab == "City of Cortland":
+                    continue
+                if len(vals) % 4 != 0:
+                    continue
+                bw = len(vals) // 4
+                if bw != len(cur["roles"]):
+                    continue
+                total_block = vals[3 * bw:4 * bw]
+                after = re.sub(r"^L\.D\.\s*\d+\s*", "", lab).strip()
+                if re.match(r"Ward \d+ ED \d+", after):
+                    prec = "Cortland " + after
+                else:
+                    prec = after
+                for i, (rt, nm) in enumerate(cur["roles"]):
+                    v = int(total_block[i])
+                    if rt == "cand":
+                        out.append([prec, cur["office"], cur["va"], nm, None,
+                                    cur["party"], v])
+                    elif rt == "scatter":
+                        out.append([prec, cur["office"], cur["va"], "Write-in",
+                                    None, cur["party"], v])
+                    elif rt == "voids":
+                        out.append([prec, cur["office"], cur["va"], "Over Votes",
+                                    None, cur["party"], v])
+                    elif rt == "blanks":
+                        out.append([prec, cur["office"], cur["va"], "Under Votes",
+                                    None, cur["party"], v])
+                    elif rt == "totals" and v:
+                        out.append([prec, cur["office"], cur["va"], "Ballots Cast",
+                                    None, cur["party"], v])
+    return out
+
+
+# -- Dutchess-style "Detailed Results by Contest" PDF (text layer) ------------
+# Each page is one contest (multi-page contests repeat the title).  An upright
+# title (office + "Vote For N") and a party row ("Dem Dem ...") sit above rotated
+# 60-degree candidate headers that label N candidate columns plus the fixed
+# trailing columns Write-in / Over Votes / Under Votes / Total Registered Voters
+# (always 0, skipped) / Total Votes Cast (ballots).  Precincts are rows; the
+# precinct label sits in the narrow left margin (x0 < 140) and wraps across
+# multiple visual lines for long names, so continuation rows (no vote numbers)
+# are appended to the preceding data row.  "Contest Total" summary rows are
+# skipped, as is the page footer.
+
+_DUTCH_BOILER = {"dutchess county", "primary election june", "june 23, 2026",
+                 "detailed results by contest", "primary election"}
+# 60deg rotation: text direction (cos60, sin60) = (0.5, 0.866).  The char text
+# matrix is (0.5, 0.866, -0.866, 0.5, e, f) so the glyph origin (e, f) maps the
+# glyph x-axis to page direction (0.5, 0.866); chars on the same baseline share
+# the perpendicular coordinate perp = -0.866*e + 0.5*f, and run order along the
+# text is along = 0.5*e + 0.866*f.
+_DUTCH_A, _DUTCH_B = 0.5, 0.866
+
+
+def _dutch_rotated(ch):
+    m = ch.get("matrix", (1, 0, 0, 1, 0, 0))
+    return abs(m[1]) > 0.1 or abs(m[2]) > 0.1
+
+
+def _dutch_read_runs(cs):
+    """De-shear one column's rotated header chars into a candidate/label name.
+
+    A long name shears into two parallel runs in (top, x) space (the 60deg
+    rotation tilts successive chars, so a wrapped two-line header produces two
+    interleaved char sequences at the same column).  Runs are separated by the
+    perpendicular baseline coordinate, ordered within each run along the text
+    direction, then ordered by perp descending (the first name has the highest
+    baseline) and joined."""
+    if not cs:
+        return ""
+    pts = []
+    for c in cs:
+        m = c["matrix"]
+        e, f = m[4], m[5]
+        pts.append((-_DUTCH_B * e + _DUTCH_A * f,
+                    _DUTCH_A * e + _DUTCH_B * f, c["text"]))
+    pts.sort(key=lambda p: p[0])
+    runs = []
+    for perp, along, t in pts:
+        if runs and perp - runs[-1][-1][0] > 3:
+            runs.append([(perp, along, t)])
+        elif runs:
+            runs[-1].append((perp, along, t))
+        else:
+            runs.append([(perp, along, t)])
+    names = []
+    for run in runs:
+        run.sort(key=lambda p: p[1])
+        names.append("".join(t for _, _, t in run))
+    return re.sub(r"\s+", " ", " ".join(reversed(names))).strip()
+
+
+def _dutch_classify(label):
+    low = label.lower()
+    if re.search(r"\bcast\b", low):
+        return "ballots"
+    if re.search(r"\bregistered\b", low):
+        return "reg"
+    if re.search(r"\bwrite\b", low):
+        return "wi"
+    if re.search(r"\bover\b", low):
+        return "over"
+    if re.search(r"\bunder\b", low):
+        return "under"
+    return "cand"
+
+
+def _dutch_norm_precinct(label):
+    """Normalize a left-margin precinct label to the county's 2024 convention:
+    'City of X' -> 'C/X', 'Town of Poughkeepsie' -> 'T/Poughkeepsie' (the town
+    shares its name with the city), other 'Town of X' -> 'X'; drop the spurious
+    'ED' that precedes a ward ('ED W 1' -> 'W 1'); insert a missing 'ED' before
+    a bare ED-number list on non-ward towns ('Fishkill 3,4' -> 'Fishkill ED 3,4')."""
+    s = re.sub(r"\s+", " ", label).strip()
+    s = re.sub(r"^City of ", "C/", s)
+    s = re.sub(r"^Town of Poughkeepsie\b", "T/Poughkeepsie", s)
+    s = re.sub(r"^Town of ", "", s)
+    s = re.sub(r"\bED W ", "W ", s)
+    if " W " not in s and " ED " not in s:
+        s = re.sub(r"^([A-Za-z][A-Za-z. ]+?) (\d)", r"\1 ED \2", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def _read_pdf_dutchess(cfg):
+    """Read Dutchess's 2026 primary 'Detailed Results by Contest' PDF (text
+    layer, pdfplumber).  See the module section comment for the layout.  The raw
+    office title is emitted so the engine's office_map recovers the district
+    ('Member of Congress District 17' -> ('U.S. House','17'), etc.); local
+    offices pass through.  Ballots Cast is the 'Total Votes Cast' column and
+    already counts over+under (verified cand+wi+over+under == ballots), so the
+    config's total_includes_over/under are True.  Truncated precinct labels (a
+    ward-town label whose ED-number continuation fell off a page boundary) are
+    reconciled to the unique longer label that extends them with the missing
+    numbers, so the same precinct is named consistently across contests."""
+    import pdfplumber
+
+    def _is_num(t):
+        return bool(re.fullmatch(r"[\d,]+", t.replace(".", "")))
+
+    out: list[list] = []
+    with pdfplumber.open(str(cfg.resolve_source())) as pdf:
+        for pg in pdf.pages:
+            chars = pg.chars
+            words = pg.extract_words(use_text_flow=False,
+                                     keep_blank_chars=False)
+            # -- office title + votes_allowed (upright, top 88-145) --
+            tlines: dict[int, list] = {}
+            for w in words:
+                if 88 < w["top"] < 145 and w["x0"] < 600:
+                    tlines.setdefault(round(w["top"]), []).append(w)
+            office = ""
+            for t in sorted(tlines):
+                line = " ".join(x["text"] for x in
+                                sorted(tlines[t], key=lambda z: z["x0"])).strip()
+                ll = line.lower()
+                if (not line or ll.startswith("vote for") or ll in _DUTCH_BOILER
+                        or "detailed" in ll or "june" in ll
+                        or "dutchess" in ll):
+                    continue
+                office = line
+                break
+            if not office:
+                continue
+            va = 1
+            for t in sorted(tlines):
+                line = " ".join(x["text"] for x in
+                                sorted(tlines[t], key=lambda z: z["x0"])).strip()
+                m = re.search(r"vote for\s*(\d+)", line, re.I)
+                if m:
+                    va = int(m.group(1))
+                    break
+            # -- contest party (first Dem/Rep token in the party row) --
+            party = ""
+            for w in words:
+                if 222 < w["top"] < 248 and w["x0"] >= 140:
+                    pc = party_code(w["text"])
+                    if pc:
+                        party = pc
+                        break
+            # -- data column centers (number words in precinct rows only) --
+            left_words = [w for w in words if w["x0"] < 140]
+            row_tops = {round(w["top"]) for w in left_words
+                        if re.match(r"(Town|City)", w["text"])
+                        and w["top"] < 545}
+            cand = [w for w in words if w["x0"] >= 140 and _is_num(w["text"])
+                    and any(abs(w["top"] - t) < 6 for t in row_tops)]
+            pts = sorted((w["x0"] + w["x1"]) / 2 for w in cand)
+            cl = []
+            for p in pts:
+                if cl and abs(p - cl[-1][-1]) < 15:
+                    cl[-1].append(p)
+                else:
+                    cl.append([p])
+            centers = [sum(c) / len(c) for c in cl]
+            if not centers:
+                continue
+            # -- rotated headers -> per-column labels --
+            hdr = [c for c in chars if 150 < c["top"] < 245 and _dutch_rotated(c)]
+            colchars: dict[int, list] = {i: [] for i in range(len(centers))}
+            for c in hdr:
+                x = (c["x0"] + c["x1"]) / 2
+                ci = min(range(len(centers)), key=lambda i: abs(centers[i] - x))
+                colchars[ci].append(c)
+            collabels = {i: _dutch_read_runs(colchars[i])
+                         for i in range(len(centers))}
+            # -- data rows (group words by top) --
+            rows: list[list] = []
+            for w in sorted(words, key=lambda w: w["top"]):
+                if rows and abs(w["top"] - rows[-1][0]) < 4:
+                    rows[-1][1].append(w)
+                else:
+                    rows.append([w["top"], [w]])
+            i = 0
+            while i < len(rows):
+                top, ws = rows[i]
+                if top > 545:
+                    i += 1
+                    continue
+                left = [x for x in ws if x["x0"] < 140]
+                ltxt = " ".join(x["text"] for x in
+                                sorted(left, key=lambda z: z["x0"])).strip()
+                nums = [x for x in ws if x["x0"] >= 140 and _is_num(x["text"])]
+                if not re.match(r"(Town|City)", ltxt) or len(nums) < 3:
+                    i += 1
+                    continue
+                # absorb continuation rows (no vote numbers, non-empty left
+                # label, not the next precinct / footer) into the label.
+                j = i + 1
+                while j < len(rows):
+                    t2, ws2 = rows[j]
+                    if t2 > 545:
+                        break
+                    left2 = [x for x in ws2 if x["x0"] < 140]
+                    nums2 = [x for x in ws2
+                             if x["x0"] >= 140 and _is_num(x["text"])]
+                    ltxt2 = " ".join(x["text"] for x in
+                                     sorted(left2, key=lambda z: z["x0"])).strip()
+                    if (nums2 or not ltxt2
+                            or re.match(r"(Town|City)", ltxt2)):
+                        break
+                    ltxt += " " + ltxt2
+                    j += 1
+                prec = _dutch_norm_precinct(ltxt)
+                vals: dict[int, int] = {}
+                for n in nums:
+                    c = (n["x0"] + n["x1"]) / 2
+                    ci = min(range(len(centers)),
+                             key=lambda k: abs(centers[k] - c))
+                    vals[ci] = int(n["text"].replace(",", ""))
+                for ci in range(len(centers)):
+                    role = _dutch_classify(collabels[ci])
+                    if role == "reg":
+                        continue
+                    v = vals.get(ci, 0)
+                    if role == "ballots":
+                        out.append([prec, office, va, "Ballots Cast", None,
+                                    party, v])
+                    elif role == "wi":
+                        out.append([prec, office, va, "Write-in", None,
+                                    party, v])
+                    elif role == "over":
+                        out.append([prec, office, va, "Over Votes", None,
+                                    party, v])
+                    elif role == "under":
+                        out.append([prec, office, va, "Under Votes", None,
+                                    party, v])
+                    else:
+                        out.append([prec, office, va, collabels[ci], None,
+                                    party, v])
+                i = j
+
+    # -- reconcile truncated precinct labels across pages/contests --
+    labels = set(r[0] for r in out)
+    recon: dict[str, str] = {}
+    for L in labels:
+        if re.search(r"\bED$", L) and not re.search(r"\bED\s+\d", L):
+            exts = [L2 for L2 in labels
+                    if L2.startswith(L + " ")
+                    and re.fullmatch(r"[\d,; ]+", L2[len(L) + 1:])]
+            if len(exts) == 1:
+                recon[L] = exts[0]
+    for r in out:
+        r[0] = recon.get(r[0], r[0])
+    return out
+
+
 def _read_pdf(cfg):
     """Dispatch on ``pdf_layout``: ``ocr`` (PaddleOCR markdown, default -- Orleans),
     ``table`` (text-layer pdfplumber grids -- Chenango/Allegany/Fulton),
     ``blocks`` (per-precinct text-block pages -- Washington), ``transposed``
     (candidates-as-rows / rotated-precinct-columns -- Tioga), ``stlaw``
     (PaddleOCR markdown with title-in-colspan-rows tables -- St. Lawrence),
-    ``essex`` (two-layout canvass PDF -- Essex), or ``orange`` (per-contest
-    PDF set -- Orange)."""
+    ``essex`` (two-layout canvass PDF -- Essex), ``orange`` (per-contest
+    PDF set -- Orange), ``cortland`` (rotated four-block canvass PDF --
+    Cortland), or ``dutchess`` (rotated 60deg-header 'Detailed Results by
+    Contest' PDF -- Dutchess)."""
     layout = cfg.engine_opts.get("pdf_layout", "ocr")
     if layout == "ocr":
         return _read_pdf_ocr(cfg)
@@ -2555,6 +3027,10 @@ def _read_pdf(cfg):
         return _read_pdf_essex(cfg)
     if layout == "orange":
         return _read_pdf_orange(cfg)
+    if layout == "cortland":
+        return _read_pdf_cortland(cfg)
+    if layout == "dutchess":
+        return _read_pdf_dutchess(cfg)
     raise ValueError(f"{cfg.slug}: unknown pdf_layout {layout!r}")
 
 
@@ -2598,6 +3074,9 @@ def parse(cfg: CountyConfig) -> ParseResult:
         header = None
     elif reader == "json":
         body = _read_json(cfg)
+        header = None
+    elif reader == "enhancedvoting":
+        body = _read_enhancedvoting(cfg)
         header = None
     elif reader == "csv":
         rows = _read_csv_rows(path)

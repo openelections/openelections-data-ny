@@ -430,6 +430,42 @@ def pdf_orange_config(county: str, slug: str, source_name: str,
     )
 
 
+def pdf_cortland_config(county: str, slug: str, source_name: str,
+                        office_map: dict | None = None) -> CountyConfig:
+    """Config for a Cortland-style canvass PDF (text layer, pdfplumber): each
+    contest is a "<office> (<party>) - Early Voting ... Total Votes" header
+    above four side-by-side rotated-header blocks (Early / Election Day /
+    Absentee / Total); each precinct row carries 4*(N+fixed) integers and the
+    last block is the Total.  No OCR.  ``Totals`` already counts over+under
+    (Voids/Blanks), so total_includes_over/under are True; the vote-for-2
+    County Committee rides va=2 in col 2 so it is excluded from precinct
+    Ballots Cast.  ``office_map`` (exact title -> (office, district)) recovers
+    the district the header omits (Comptroller, U.S. House 19)."""
+    opts = {
+        "reader": "pdf",
+        "pdf_layout": "cortland",
+        "columns": {"precinct": 0, "office": 1, "votes_allowed": 2,
+                    "ballot": 3, "party": 5, "total": 6},
+        "total_label": "ballots cast",
+        "total_includes_under": True,
+        "total_includes_over": True,
+        "office_map": office_map or {},
+    }
+    return CountyConfig(
+        county=county,
+        slug=slug,
+        engine="primary",
+        date="20260623",
+        election="primary",
+        source_name=source_name,
+        office_order=_TURNOUT_ORDER,
+        cand={},
+        anchors={},
+        writeins="named",
+        engine_opts=opts,
+    )
+
+
 def block_wide_config(county: str, slug: str, source_name: str,
                       office_map: dict | None = None,
                       contest_map: dict | None = None,
@@ -488,6 +524,85 @@ def json_config(county: str, slug: str, source_name: str,
         "total_label": "ballots cast",
         "total_includes_under": False,
         "total_includes_over": False,
+        "office_map": office_map or {},
+    }
+    return CountyConfig(
+        county=county,
+        slug=slug,
+        engine="primary",
+        date="20260623",
+        election="primary",
+        source_name=source_name,
+        office_order=_TURNOUT_ORDER,
+        cand={},
+        anchors={},
+        writeins="named",
+        engine_opts=opts,
+    )
+
+
+def enhancedvoting_config(county: str, slug: str, source_name: str,
+                           office_map: dict | None = None) -> CountyConfig:
+    """Config for an enhancedvoting.com public-results JSON export cached as a
+    local source file (the ``/ballot-items`` list + each per-contest
+    ``/ballot-items/{id}`` detail, consolidated into one file).  The reader melts
+    each per-precinct contest record into the {0:prec,1:office,2:va,3:ballot,
+    5:party,6:total} schema.  ``office_map`` maps each contest ``name`` to
+    (office, district) -- required, since the API's titles ("Representative in
+    Congress - District 23", "County Legislator - District 1") are not
+    canonicalized by the shared title parser.  The per-precinct Ballots Cast
+    total is ``voteTotal`` (already a ballot count for vote-for-1; no over/under
+    are reported), so total_includes_over/under is True -- there is nothing to
+    add back.  ``voteFor`` (vote-for-N) rides in col 2 so multi-vote contests
+    would be excluded from precinct Ballots Cast."""
+    opts = {
+        "reader": "enhancedvoting",
+        "columns": {"precinct": 0, "office": 1, "votes_allowed": 2,
+                    "ballot": 3, "party": 5, "total": 6},
+        "total_label": "ballots cast",
+        "total_includes_under": True,
+        "total_includes_over": True,
+        "office_map": office_map or {},
+    }
+    return CountyConfig(
+        county=county,
+        slug=slug,
+        engine="primary",
+        date="20260623",
+        election="primary",
+        source_name=source_name,
+        office_order=_TURNOUT_ORDER,
+        cand={},
+        anchors={},
+        writeins="named",
+        engine_opts=opts,
+    )
+
+
+def pdf_dutchess_config(county: str, slug: str, source_name: str,
+                        office_map: dict | None = None) -> CountyConfig:
+    """Config for a Dutchess-style 'Detailed Results by Contest' PDF (text layer,
+    pdfplumber): each page is one contest; upright title + 'Vote For N' and a
+    party row sit above 60-degree-rotated candidate headers that label the
+    candidate columns plus the fixed trailing Write-in / Over Votes / Under
+    Votes / Total Registered Voters (skipped) / Total Votes Cast (ballots)
+    columns.  Precinct labels occupy the narrow left margin and wrap across
+    continuation rows; the reader de-shears the rotated headers, absorbs the
+    continuation rows, and reconciles page-boundary-truncated precinct labels.
+    No OCR.  'Total Votes Cast' already counts over+under (verified
+    cand+wi+over+under == ballots), so total_includes_over/under are True; all
+    six contests are vote-for-1 so none are excluded from precinct Ballots
+    Cast.  ``office_map`` (exact title -> (office, district)) recovers the
+    district the header omits (Comptroller, U.S. House 17, State Senate 39,
+    State Assembly 106); local offices pass through."""
+    opts = {
+        "reader": "pdf",
+        "pdf_layout": "dutchess",
+        "columns": {"precinct": 0, "office": 1, "votes_allowed": 2,
+                    "ballot": 3, "party": 5, "total": 6},
+        "total_label": "ballots cast",
+        "total_includes_under": True,
+        "total_includes_over": True,
         "office_map": office_map or {},
     }
     return CountyConfig(

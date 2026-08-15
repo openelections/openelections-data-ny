@@ -35,6 +35,9 @@ _MODULES = [
     "essex",  # two-layout canvass PDF (rotated headers + transposed town offices)
     "orange",  # per-contest PE26 PDF set (7 files, rotated candidate columns)
     "niagara",  # NY ENR VIC API JSON (cached), 10 contests
+    "cortland",  # canvass PDF, rotated four-block candidate headers
+    "chemung",  # enhancedvoting.com public-results API JSON (cached)
+    "dutchess",  # text-layer 'Detailed Results by Contest' PDF (rotated 60deg headers)
     # NYC boroughs (nyc engine: EDLevel.csv per contest)
     "new_york",  # New York County (Manhattan)
     "kings",  # Kings County (Brooklyn)
