@@ -36,7 +36,7 @@ for sheet in SHEETS:
         try:
             c, p = candidate.value.split('\n')
             total_cands.append(c)
-        except:
+        except Exception:
             c = candidate.value
         if p:
             candidates_with_party.append([c.strip(), p])
@@ -78,5 +78,5 @@ with open("20201103__ny__general__ulster__precinct.csv", "wt") as output_file:
     for result in results:
         try:
             csvfile.writerow(['Ulster', result['precinct'], result['office'], result['district'], result['party'], result['candidate'], result['votes'], result['election_day'], result['absentee']])
-        except:
+        except Exception:
             raise
